@@ -4,6 +4,11 @@
 "003","¡2\0n\0!"
 "004","Una cosita, n\0:"
 "005","Escucha una cosa, n\0:"
+"006","¿Qué tal, n\0?"
+"007","Querid2oa n\0:"
+"008","Qué cosas, n\0..."
+"009","¡Qué miedo, n\0!"
+"010","¡Hola, n\0!"
 "101","Quería darte una sorpresa,
 así que te envío una cosita
 que quiero que tengas.
@@ -28,6 +33,34 @@ más, la casa olería demasiado
 a queso... Pero no del rico. Como
 sea, ¡esto es para ti! Que también
 tienes solo dos patas."
+"106","¿Te gusta tomar algo con amigos?
+A mí me encanta, y más si también
+hay galletas... Por eso se me
+ocurrió darte este regalo. Avísame
+cuando quieras estrenarlo y me
+tendrás en tu casa."
+"107","Encontré esto en el depósito
+y no recuerdo de dónde lo saqué.
+Me daba pena dejarlo ahí, así que
+te lo mando, por si quieres darle
+un nuevo hogar. ¡Si te gusta, te lo
+puedes quedar!"
+"108","Se me cayó un caramelo debajo
+de la cama, y, cuando metí la
+mano, ¡saqué esto! Es muy duro
+y no tiene buen sabor. Quizá tú
+sepas darle alguna utilidad."
+"109","El otro día vi una peli de terror a
+oscuras y me dio miedo. Te envío
+esto para que no te pase lo mismo.
+También sirve para que, cuando te
+pares en la noche a comer, no te
+pegues en el dedo chiquito del pie."
+"110","Me compré una bolsa nueva para
+guardar mis sándwiches. Te mando
+a ti la vieja para no tirarla. Está
+bien cuidada... solo huele un poco
+a mayonesa. ¡Espero que te sirva!"
 "201","De n
 \0, el que regala"
 "202","Experto en muebles, n
@@ -38,3 +71,13 @@ tienes solo dos patas."
 \0, el diseñador"
 "205","Uy, queso, n
 "
+"206","De n
+\0, el detallista"
+"207","De n
+"
+"208","De n
+\0, experto dulcero"
+"209","De n
+\0, el precavido"
+"210","De n
+\0, el que recicla"

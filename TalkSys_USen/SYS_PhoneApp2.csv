@@ -43,7 +43,7 @@ simple. 
 around makes thingsn\0\0less simple.\0\0If you really need help, 
 \0you gotta
 go choose \0Return to my island \0￿on
-the \0 Button \0￿menu, capice?d"
+the \0 Button \0￿menu, capisce?d"
 "013","d\0Stop. 
 \0You ain't even outside,
 \0 are ya?\0\0Here's the deal, pal. 
@@ -96,7 +96,7 @@ called.
 \0 No one
 cares if you were short on miles
 before.
-\0 Not an issue—capice?d"
+\0 Not an issue—capisce?d"
 "032_01","d\0If you're in a jam,
 \0 just say the word!d"
 "032_02","d\0You really need help? 
@@ -219,6 +219,19 @@ drop you \0where the planes land\0￿.
 That work for you?d"
 "048_a","Guess it'll have to!"
 "048_b","Cancel."
+"049","d\0n\0\0Huh? Hey there, champ. Looks like
+you're on one of them \0May Day Tours
+\0￿\0Tom Nook \0￿set up.\0\0And ya got yourself a Mayday-type
+situation!
+\0 Regs say I gotta reset and
+drop ya \0where the planes land\0￿n\0\0 OK?d"
+"049_01","d\0n\0\0Huh? Hey there, champ. Looks like
+you're on one of them \0May Day Tours
+\0￿\0Tom Nook \0￿set up.\0\0Regs say I gotta reset and drop ya
+\0where the planes land\0￿.
+\0 So buckle up!d"
+"049_a","Yes, please!"
+"049_b","('촁\0Cancel."
 "050_01","d\0Your tent? 
 \0Sure thing.d"
 "050_02","d\0Home sweet home? 

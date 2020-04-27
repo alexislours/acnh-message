@@ -105,6 +105,8 @@ order this item.
 customers with home contracts.\0￿"
 "0603","Miles-redemption \0mail \0￿orders are
 limited to 5 items per day."
+"0702","You don't have enough \02\0Ѐ촃heart crystals\0￿!"
+"0702_a","Close"
 "0802","\0\0About Local and Online Play\0￿
 During local and online play, other
 players you play with can see player-
@@ -1426,3 +1428,21 @@ reinitialized if you play again.\0\0Do you want to start playing again
 as \0s\0촀\0￿?"
 "8015_a","I'm not sure."
 "8015_b","Yes."
+"8016","The Nintendo Account linked to this
+user is different than it was before.\0\0Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you start playing again.
+Do you want to start playing again?"
+"8016_a","No"
+"8016_b","Yes"
+"8017","This user does not have a Nintendo
+Account linked, or this user needs to
+sign into their Nintendo Account
+again.\0\0Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you start playing again.\0\0Do you want to start playing again
+and reinitialize all features that use
+the internet?"
+"8017_a","No"
+"8017_b","Yes"
+"8019","Starting game again."

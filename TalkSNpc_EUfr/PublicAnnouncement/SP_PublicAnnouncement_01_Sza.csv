@@ -147,6 +147,102 @@ spécial ?\0\0(\0촀\0En tout cas, (촀\0cette journée est placée
 sous le signe de l'amusement ! 
 \0(%촀\0Alors
 pensez à faire un saut sur la place !"
+"008_02_01","Joyeux \01er mai\0￿ ! 
+\0(촀\0Pensez à vous
+présenter au \0bureau des résidents\0￿
+pour découvrir notre \0ticket 1er mai\0￿ !
+(촀\0Nook Inc. les distribue pour exprimer
+sa reconnaissance pour l'altruisme
+dont fait preuve notre communauté.
+(1촀\0Vous verrez, ce sera formidable !
+\0
+Au programme : séances de
+farniente sur une île lointainen\0\0\0\0(
+촀\0En même temps, vous vous reposez
+déjà icin\0\0 Humn\0\0(\0촀\0 Bref, faites-moi
+confiance, ce sera amusant !
+($촀\0Et surtout, n'oubliez pas d'aller
+parler à \0M. Nook\0￿ au \0bureau des
+résidents\0￿."
+"008_02_02","Les festivités du \01er mai\0￿ battent
+leur plein et sont ouvertes à tous
+les détenteurs d'un \0ticket 1er mai\0￿ !\0\0(촀\0Si vous voulez en savoir plus à ce
+sujet, nous serons ravis de vous
+recevoir au \0bureau des résidents\0￿.
+(%촀\0Nook Inc. distribue ces tickets pour
+rendre à notre chère communauté un
+peu de tout ce qu'elle lui a offert.
+(촀\0Avouez que ce n'est pas tous les
+jours qu'on se dore la pilule sur
+une île lointaine !
+(1촀\0Humn\0\0 Si, c'est un peu le programme
+quotidien sur une île déserten\0\0 Mais
+là, ce sera encore plus reposant !
+($촀\0\0M. Nook\0￿ et moi-même vous
+attendons au \0bureau des résidents\0￿ !"
+"008_02_03","(촀\0Et ce n'est pas fini !
+\0 J'ai en effet
+le plaisir de vous souhaiter
+un joyeux \01er mai\0￿ !
+(촀\0Tout le monde est invité à se
+présenter au \0bureau des résidents
+\0￿pour découvrir notre \0ticket 1er mai\0￿ !
+(촀\0Nook Inc. les distribue pour exprimer
+sa reconnaissance pour l'altruisme
+dont fait preuve notre communauté.
+(1촀\0Vous verrez, ce sera formidable !
+\0
+Au programme : séances de
+farniente sur une île lointainen\0\0\0\0(
+촀\0En même temps, vous vous reposez
+déjà icin\0\0 Humn\0\0(\0촀\0 Bref, faites-moi
+confiance, ce sera amusant !
+($촀\0Et surtout, n'oubliez pas d'aller
+parler à \0M. Nook\0￿ au \0bureau des
+résidents\0￿."
+"008_02_04","Par ailleurs, les festivités du \01er mai
+\0￿battent leur plein et sont ouvertes
+aux détenteurs d'un \0ticket 1er mai\0￿ !\0\0(촀\0Si vous voulez en savoir plus à ce
+sujet, nous serons ravis de vous
+recevoir au \0bureau des résidents\0￿.
+(%촀\0Nook Inc. distribue ces tickets pour
+rendre à notre chère communauté un
+peu de tout ce qu'elle lui a offert.
+(촀\0Avouez que ce n'est pas tous les
+jours qu'on se dore la pilule sur
+une île lointaine !
+(1촀\0Humn\0\0 Si, c'est un peu le programme
+quotidien sur une île déserten\0\0 Mais
+là, ce sera encore plus reposant !
+($촀\0\0M. Nook\0￿ et moi-même vous
+attendons au \0bureau des résidents\0￿ !"
+"008_03","(촀\0En ce moment,
+\0 nous fêtons le \0jour de la nature \0￿à\0 \0￿n	\0 !\0\0(촀\0Cet événement nous encourage
+chaque année à prendre un peu
+plus soin de notre environnement.
+(\0촀\0J'ajoute enfin que les activités liées à
+cette fête dureront jusqu'au 4 mai.
+
+\0(""촀\0Bonne journée et vive l'écologie !"
+"008_04","(1촀\0C'est déjà juinn\0\0 L'amour est dans
+l'airn\0\0 Ce n'est pas pour rien qu'on
+dit que c'est la saison des mariages !
+($촀\0Il paraît qu'une union célébrée en
+juin assure aux jeunes époux un
+bonheur éternel.
+(촀\0Peut-on imaginer quelque chose de
+plus délicieusement romantique ?"
+"008_05","(촀\0J'ai une grande nouvelle aujourd'hui.
+\0
+Elle vient de l'éminent conservateur
+de notre musée, \0Thibou\0￿.
+()촀\0Pour fêter la journée internationale
+des \0musées\0￿, 
+\0(촀\0le nôtre hébergera un
+rallye tampons du 18 au 31 mai !
+(\0촀\0Hé hé ! Je sens qu'on va bien
+s'amuser. ($촀\0Alors tous au musée
+et vive le rallye !"
 "010","(촂\0Chers amis.
 \0 Je me permets de vous
 interrompre dans vos activités
@@ -198,6 +294,16 @@ moi !"
 "302_02","(촀\02\0n\0 laisse toujours un souvenir impérissable à ses visiteurs !"
 "302_03","(촀\0Et quand on a un visiteur, quoi de
 plus naturel que d'aller le saluer ?"
+"400","(9촀\0Ces derniers temps, il a été fait état
+de la présence d'un individu suspect
+sur les îles de la région.
+Cen\0\0 visiteur 
+\0('촀\0se livre au commerce
+honteux d'œuvres d'art aux origines
+intraçables.
+(\0촀\0On ne déplore aucun blessé parmi
+les personnes ayant été en contact
+avec luin\0\0(%촀\0 mais restez prudents !"
 "600","<"
 "600_01","(촀\0Oh, j'oubliais !"
 "600_02","(촀\0J'ai failli oublier !"
@@ -396,7 +502,7 @@ bambou printemps \0￿» ?"
 "618_02_02","(%촀\0Le \0jeune bambou printemps\0￿ est idéal
 pour le \0nagashi-sômen\0￿ que j'ai
 envoyé sur l'appli \0Créations\0￿.
-(3촀\0Les matériaux pour réaliser ce projet
+(촀\0Les matériaux pour réaliser ce projet
 ne sont disponibles qu'en cette
 saison !"
 "618_03","( 촀\0Ce qui me fait pensern\0\0

@@ -65,9 +65,8 @@ Orario previsto: Oscar Romeo Alfa!"
 "008","((촀\0Ricevuto!
 \0 Motori spenti e in
 raffreddamento.
-\0\0\0(촀\0Fammi sapere se hai bisogno di
-strumenti
-\0 o se vuoi ripartire."
+\0\0\0(촀\0Fammi sapere se hai bisogno
+di qualcosa."
 "011","Strumenti? 
 \0((촀\0Ricevuto!
 \0(
@@ -114,3 +113,264 @@ rientrato.
 vuoi. 
 \0((촀\0Ma ricordati di tenere sempre
 gli occhi ben aperti."
+"041","(촀\0Missione compiuta!
+\0( (%촀\0Siamo arrivati
+alla destinazione del tuo \0viaggio
+Primo maggio\0￿!\0\0(9촀\0Questo viaggio è molto diverso
+dai soliti.
+\0 (5촀\0Tutta l'isola è un enorme
+\0labirinto\0￿!
+\0(촀\0 Si vede bene dal cielon\0\0
+(촀\0Tu però sei a terra! 
+\0Devi saperti
+orientare.
+\0 (촀\0Ricevuto?
+\0 Devi riuscire
+a trovare la via d'uscita!\0\0(\0촀\0Ah, 
+\0i tuoi strumenti sono al sicuro,
+\0
+(%촀\0al banco del check-in dell'aeroporto.\0\0(촀\0La tua missione prevede che tu
+esplori l'isola ad \0ali vuote\0￿.
+\0((\0촀\0 Sì,
+insomma,
+\0 con le tasche vuoten\0\0\0\0()촀\0Noi volatili di un certo rango
+seguiamo il nostro radar interno,
+
+\0un trucchetto molto ingegnoson\0\0
+()촀\0Ma quelli che come te non solcano
+i cieli,
+\0 devono fare affidamento su
+ciò che trovano nel labirinto.
+(촀\0Niente paura, però! 
+\0Se ti ritrovi
+bloccat2oa, 
+\0pers2oa in un banco di
+nebbia, (%촀\0chiama il \0 Soccorso\0￿.\0\0()촀\0Le nostre talpe alleate resetteranno
+la situazione 
+\0(""촀\0per farti riprendere
+fiato, fare rifornimento e ripartire.\0\0(촀\0E quando sei a corto di espedienti
+e non sai bene che fare, 
+\0potrei avere
+qualche dritta per te.
+(\0촀\0Ora per me è tempo di riprendere
+il volo.
+\0 Pronti,
+\0 partenzan\0\0 (촀\0Alfa Delta
+Bravo Tango Tango,
+\0 -촀\0passo e chiudo!"
+"042","( 촀\0Sei in un banco di nebbia?
+\0 Stai
+perdendo quota?
+\0 Hai bisogno di
+aiuto?
+\0 Passo."
+"042_a","Dammi un indizio."
+"042_b","Vorrei uno strumento."
+"042_c","Voglio tornare a casa."
+"042_d","Sono a posto, grazie."
+"043","(9촀\0Giusto per essere sicuri di essere
+sulla stessa lunghezza d'onda: 
+\0Alfa
+Bravo Delta, 
+\0mi ricevi?\0\0()촀\0Le destinazioni del \0viaggio Primo
+maggio\0￿ cambiano ogni volta.\0\0('촀\0Se ora decolliamo da quest'isola,
+
+\0non potremo ritornarci.
+\0(&촀\0 Sei 2sicurosicura
+di voler tornare a casa?"
+"043_a","Sì!"
+"043_b","No, non ancoran"
+"044","('촀\0Negativo. 
+\0Nada. 
+\0Nisba. 
+\0Per voi
+civili questa missione Alfa Tango
+va affrontata senza strumenti.
+(9촀\0Il \0viaggio Primo maggio\0￿
+\0 prevede che
+tu raggiunga l'obiettivo con delle
+risorse limitate. 
+\0Ricevuto?
+('촀\0Non posso darti strumenti. 
+\0Nemmeno
+se lo chiedi gentilmente. 
+\0Nemmeno
+se avessi più gradi di me. 
+\0('촀\0No e no.\0\0(\0촀\0Mi dispiace, 2<amico spiumatoamica spiumata.
+\0 (%촀\0Spero
+proprio che capirai. 
+\0Questa è la via
+dei dodo.
+\0 Siamo fatti così."
+"045","( 촀\0Un indizio hai detto?
+\0(%촀\0 Ricevuto!
+
+\0Giusto il tempo di raccogliere le
+informazioni.
+\0 (
+촀\0Attendere pregon"
+"046_0","Ecco qui: 
+\0($촀\0sapevi che puoi regalare
+propulsione ai tuoi reattori se mangi
+\0frutta\0￿?
+(촀\0Con un carburante del genere,
+\0 sarai
+così forte da polverizzare il muro del
+suono!\0\0()촀\0O almeno, potrai \0sradicare alberi
+\0￿o \0spaccare rocce \0￿armat2oa di una
+semplice pala o un'ascia.\0\0(%촀\0Alfa Bravo Delta, 
+\0passo e chiudo!"
+"046_1","Mi sembra mi sia stato richiesto di
+riaprire le comunicazioni dopo il mio
+ultimo ""passo e chiudo.""
+()촀\0Va bene, 
+\0parliamo di come superare
+delle piccole fosse. 
+\0Ricevuto?\0\0(촀\0Allora,
+\0 basta inclinare \0 \0￿nella
+direzione voluta 
+\0ed è fatta.\0\0(%촀\0È tutto. 
+\0Direi ""passo e chiudo"", ma
+meglio lasciar perderen\0\0 Non si sa
+mai."
+"046_2","(%촀\0Se sei bloccat2oa e non sai come
+uscirne,
+\0(%촀\0 usa il tuo telefono e
+chiama il \0 Soccorso\0￿.
+()촀\0L'isola verrà ripristinata al suo
+stato originale 
+\0(""촀\0e potrai affrontare
+il labirinto da capo."
+"046_3","(""촀\0Allora, 
+\0immagina di avere un albero
+che ti sbarra la strada. 
+\0Hai due
+diverse opzioni.\0\0(%촀\0Opzione 1: 
+\0mangiare \0frutta\0￿, per
+poi estirpare l'albero intero con
+una \0pala\0￿.\0\0()촀\0Opzione 2: 
+\0abbatterlo con un'\0ascia
+\0￿decente,
+\0(9촀\0 quindi rimuovere la radice
+con una \0pala\0￿.
+\0(""촀\0 Passo e chiudo!"
+"046_4","Altra informazione in arrivo:
+\0(촀\0 se
+hai bisogno di strumenti, cerca
+di realizzarli 2(tu stessotu stessa.\0\0()촀\0Per seguire la rotta del fai da te devi:
+raccogliere materiali
+\0(""촀\0, raggiungere un
+\0banco da lavoro grezzo \0￿e via!"
+"047","(촀\0Per tutti i dodo, n\0! (;촀\0Hai messo le ali alle zampe e sei già 2uscitouscita dal labirinto?
+\0(\0촀"
+"047_a","Certo!"
+"047_b","Niente di più facile!"
+"048","(촀\0Una manovra perfetta!
+\0((촀\0 Dovrai subito
+farlo sapere al vecchio \0Tom\0￿ \0Nook\0￿.\0\0( 촀\0Oh, 
+\0attiva i flap e tira i freni.
+\0 Da dove
+salta fuori questa roba? 
+\0A memoria
+di pilota, non l'ho mai vista.\0\0(%촀\0Eviterò giri di parole.
+\0(\0촀\0 Hai ottenuto
+questo oggetto da qualcuno che si
+trovava a passare su quest'isola?
+Bene, 
+\0((촀\0allora la Dodo Airlines sarà
+lieta di farti recapitare il premio
+direttamente a casa.
+(%촀\0È stato un \0viaggio Primo maggio\0￿
+da ricordare, eh?
+\0 A un tuo segnale,
+\0($촀\0
+accendo i motori e si torna alla base.
+(촀\0Oh! 
+\0Se ti va di riprovare il labirinto
+un'altra voltan\0\0
+\0(%촀\0 chiama il \0 Soccorso
+\0￿dal tuo telefono.\0\0()촀\0Le nostre talpe alleate riporteranno
+l'isola allo stato iniziale,
+\0(""촀\0 così potrai
+fare rifornimento e ripartire."
+"049","( 촀\0Pilota \0Dodoardo\0￿ a rapporto!
+\0(&촀\0 Quali
+sono i tuoi programmi di volo?"
+"049_a","Voglio tornare a casa."
+"049_b","Non mi muovo per ora."
+"050","(촀\0Pare che quelli del \0 Soccorso
+\0￿ti abbiano dato una zampa,
+n\0!\0\0(%촀\0L'isola è tornata al suo aspetto di
+partenza, 
+\0(""촀\0perciò puoi riprovare ad
+affrontare la missione labirinto.
+(촀\0Se ti capita di rimanere di nuovo
+2$bloccatobloccata, 
+\0sono certo che il servizio
+\0 Soccorso \0￿ti verrà ancora in aiuto.
+\0
+(촀\0Per un po', non si annoieranno!
+\0
+(9촀\0Prenditi un attimo per recuperare
+la concentrazione e poi riparti.
+\0
+-촀\0Vola alto e fai un volo sicuro!
+
+\0Alfa Delta Bravo. 
+\0Passo e chiudo."
+"051","(&촀\0Ti manca n	\0?
+\0 (\0촀\0Se vuoi ricominciare il labirinto dal punto di partenza,
+\0 ($촀\0chiama il \0 Soccorso\0￿."
+"051_a","Voglio tornare a casa!"
+"051_b","(\0촀\0Ci penso un po'..."
+"052","(%촀\0Ricevuto! 
+\0Quando toccheremo il suolo di n	\0, 
+\0riavrai tutto ciò che avevi nelle tue tasche.\0\0(9촀\0Invece il \0regalo \0￿che hai ricevuto dal
+tuo nuovo amico sull'isolan\0\0()촀\0 Beh, lo
+spediremo direttamente a casa tua.\0\0Lo troverai presto nella tua cassetta
+delle lettere.\0\0($촀\0A questo punto, 
+\0sei pront2oa per
+il decollo? 
+\0Passo."
+"052_a","Sì!"
+"052_b","No, aspetta un attimo."
+"053","(%촀\0Ricevuto! 
+\0Quando toccheremo il suolo di n	\0, 
+\0riavrai tutto ciò che avevi nelle tue tasche.\0\0(9촀\0Invece il \0regalo \0￿che hai ricevuto dal
+tuo nuovo amico sull'isolan\0\0()촀\0 Beh, lo
+spediremo direttamente a casa tua.\0\0(\0촀\0Lo stesso vale per i \0coupon stelline
+\0￿che hai ottenuto durante la visita.
+\0
+Li troverai a breve nella tua cassetta.
+($촀\0A questo punto, 
+\0sei pront2oa per
+il decollo? 
+\0Passo."
+"053_a","Sì!"
+"053_b","No, aspetta un attimo."
+"054","(%촀\0Ricevuto! 
+\0Quando toccheremo il suolo di n	\0, 
+\0riavrai tutto ciò che avevi nelle tue tasche.\0\0(9촀\0Per quanto riguarda i \0coupon stelline
+\0￿che hai ottenuto durante la visita, 
+\0li
+troverai a breve nella tua cassetta.
+($촀\0A questo punto, 
+\0sei pront2oa per
+il decollo? 
+\0Passo."
+"054_a","Sì!"
+"054_b","No, aspetta un attimo."
+"055","(9촀\0Prima di ripartire per tornare a casa,
+
+\0devo avvertirti di una cosa.\0\0()촀\0Le destinazioni del \0viaggio Primo
+maggio\0￿ cambiano ogni volta.\0\0('촀\0Se ora decolliamo da quest'isola,
+
+\0non potremo ritornarci. 
+\0(
+촀\0\0(Non che
+tu abbia altro da fare qui, mi paren\0\0)
+(&촀\0\0￿Allora, 
+\0confermi di voler tornare
+a casa?"
+"055_a","Sì!"
+"055_b","No, aspetta un attimo."

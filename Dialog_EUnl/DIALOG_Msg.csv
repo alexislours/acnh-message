@@ -113,6 +113,8 @@ kunnen dit product bestellen.
 met een contract voor een huis.\0￿"
 "0603","Je kunt maximaal vijf keer per dag
 \0per post\0￿ miles inwisselen."
+"0702","Je hebt niet genoeg \0hartkristallen\0￿!"
+"0702_a","Oké!"
 "0802","\0\0Lokaal en online spelen\0￿
 Het volgende zal zichtbaar zijn voor
 spelers met wie je lokaal of online
@@ -870,7 +872,7 @@ zijn voor Nintendo 3DS-games.
 
 Ga naar \0NookLink \0￿vanuit de
 Nintendo Switch Online-app om de
-vereiste QR Code te scannen."
+vereiste QR-code te scannen."
 "2120","Je hebt de tab 'Speciale ontwerpen'
 vrijgespeeld."
 "2140","\0Speciale ontwerpen\0￿
@@ -1166,13 +1168,13 @@ dat anderen kunnen zien wanneer je
 online bent of als je geen berichten
 wilt uitwisselen.\0￿"
 "5102","Je kunt eigen ontwerpen downloaden
-via NookLink door QR Codes te
+via NookLink door QR-codes te
 scannen die gemaakt zijn in
 Nintendo 3DS-games.
 \0\0Open NookLink in de Nintendo Switch
 Online-app onder 'Gamegebonden
 diensten' voor uitleg over het scannen
-van QR Codes van eigen ontwerpen.\0￿"
+van QR-codes van eigen ontwerpen.\0￿"
 "5111","\0Eilandontwerper\0￿
 Met deze app kun je bouwprojecten
 leiden om je eiland verder te
@@ -1479,3 +1481,22 @@ teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
 \0s\0촀\0￿?"
 "8015_a","Nee."
 "8015_b","Ja."
+"8016","De Nintendo-account die aan deze
+gebruiker is gekoppeld, is veranderd.\0\0Wanneer je de game weer speelt,
+worden functies die het internet
+gebruiken, zoals de Beste vrienden-app,
+naar de begininstellingen teruggezet.\0\0Wil je doorgaan?"
+"8016_a","Nee."
+"8016_b","Ja."
+"8017","Aan deze gebruiker is geen Nintendo-
+account gekoppeld of het is nodig dat
+er opnieuw op de Nintendo-account
+wordt ingelogd.\0\0Wanneer je de game weer speelt,
+worden alle functies die het internet
+gebruiken, zoals de Beste vrienden-app,
+naar de begininstellingen teruggezet.\0\0Wil je weer beginnen te spelen en alle
+functies die het internet gebruiken,
+naar de begininstellingen terugzetten?"
+"8017_a","Nee."
+"8017_b","Ja."
+"8019","Bezig de game te starten..."

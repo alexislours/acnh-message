@@ -76,25 +76,35 @@ trasferisci qui? (촀\0
 \0Ah ah ah! 
 \0Scheeerzo!"
 "200","<"
-"200_01","(%촀\0Finalmente il \0museo \0￿ha aperto!
-\0
-Sei già andat2oa a dare un'occhiata?\0\0(6촀\0Sono curiosa di vedere quanti pesci
-strampalati sono riusciti a mettere
-insieme, n\0!"
-"200_02","(촀\0Sentire che il \0museo\0￿ è aperto mi ha
-dato una certa carica, n\0!\0\0(1촀\0Ho intenzione di visitarlo
-\0 ogni
-\0 giorno
-\0
-e di presentarmi a tutti i loro
+"200_01","(촀\0È ottimo che ci sia un \0museo
+\0￿sull'isola! 
+\0Ed è pure comodo
+per me, n\0.
+(
+촀\0Ho un sacco di cose che posso
+donare:
+\0 cianfrusaglie varie,
+\0 scarpe
+rotte, 
+\0vecchi dischin\0\0
+(5촀\0Non c'è niente di meglio per fare
+un po' di pulizia in casa!"
+"200_02","(촀\0Sentire che su quest'isola ha aperto
+un \0museo\0￿, 
+\0mi ha dato una carica che
+non ti dico, n\0!\0\0(1촀\0Ho intenzione di visitarlo
+\0 ogni
+\0
+giorno
+\0 e di presentarmi a tutti i loro
 pesciotti!
-\0< (3촀\0\0KDevono capire chi comanda quin\0\0\0d"
+\0 (3촀\0\0KDevono capire chi comanda quin\0\0\0d"
 "200_03","(촀\0Uau! 
-\0E chi l'avrebbe mai detto che
-avremmo avuto anche noi un \0museo
-\0￿tutto nostro, n\0!
-()촀\0Merita una visita ogni giorno. 
-\0Sì, mi
-sono autoeletta
-\0 (촀\0capo del comitato
-d'accoglienza dei pesci!"
+\0Non riesco a credere che
+quest'isola abbia aperto un \0museo
+\0￿tutto suo, n\0!
+(\0촀\0Chissà se cercano qualcuno da
+assumeren\0\0\0\0(촀\0Beh, 
+\0potrei comunque autoeleggermi
+capa del comitato d'accoglienza dei
+pesci!"

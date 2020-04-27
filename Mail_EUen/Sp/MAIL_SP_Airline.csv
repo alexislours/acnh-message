@@ -10,6 +10,8 @@
 "009","Hey, n\0!"
 "010","Hey, n\0!"
 "011","Hey, n\0!"
+"020","Hey, n\0!"
+"021","Hey, n\0!"
 "101","Just wanted to thank you for flying
 Dodo Airlines! We know you don't
 have a lot of options, but thanks
@@ -76,6 +78,17 @@ have a lot of options, but thanks
 for choosing us all the same. We
 hope you enjoy this bit of custom
 DAL merch! Nifty, right?"
+"120","Thank you for using Dodo Airlines.
+Enclosed, please find the prize you
+received from \0Rover \0￿during your
+May Day Tour. And if you're ever at
+a loss, remember to ask yourself,
+""What would dodos do?"""
+"121","Thanks for choosing Dodo Airlines,
+the only way to fly! Enclosed,
+please find any \0Bell vouchers \0￿we
+held for you during your recent
+May Day Tour."
 "201","Your pals at Dodo Airlines"
 "202","Your pals at Dodo Airlines"
 "203","Your pals at Dodo Airlines"
@@ -87,3 +100,5 @@ DAL merch! Nifty, right?"
 "209","Your pals at Dodo Airlines"
 "210","Your pals at Dodo Airlines"
 "211","Your pals at Dodo Airlines"
+"220","Your pals at Dodo Airlines"
+"221","Your pals at Dodo Airlines"

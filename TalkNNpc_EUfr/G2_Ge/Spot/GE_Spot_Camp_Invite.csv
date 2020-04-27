@@ -156,6 +156,78 @@ Je voulais avoir une histoire marrante
 Le \0bureau des résidents\0￿ !
 (촀\0Bouge pas, j'y vais direct et on sera
 fixé2\0es, n\0."
+"207_01","(촀\0Tu te laisses pas abattre par un
+refus,
+\0 hein ?
+\0(5촀\0 Comment t'en vouloir,
+\0
+je sais que je suis irrésistible.
+(촀\0Y a qu'à faire un marché. 
+\0On règle
+cette histoire une fois pour toutes
+\0(%촀\0
+avec un jeu, n\0 ?
+()촀\0Si tu gagnes,
+\0 je viens vivre ici.
+\0 (4촀\0Si je
+gagne,
+\0 on en parle plus. 
+\0(&촀\0Partant2\0e ?"
+"207_01_a","Partant2\0e !"
+"207_01_b","Nan, oublie tout ça."
+"207_02","(촀\0Laisse-moi devinern\0\0
+\0 mon premier
+refus a en fait renforcé ton envie
+de me voir venir ici. 
+\0(%촀\0Classique.
+(5촀\0Y a rien qui fasse plus envie qu'une
+place pour un concert déjà complet,
+n\0.
+(촀\0Allez, je peux faire un effort pour
+2monma plus grand2\0e fann\0\0
+\0 Je vais te
+donner une chance de(촀\0 ME gagner !
+()촀\0Voilà le deal. 
+\0On joue à un jeu, et si
+tu gagnes,
+\0 j'emménage ici.
+\0 (촀\0C'est pas
+démentiel, comme enjeu ? 
+\0(촀\0Alors ?"
+"207_02_a","Super idée !"
+"207_02_b","Alors non."
+"207_03","(촀\0Tu me demandes de venir vivre ici ?
+
+\0Encore ? 
+\0(2촀\0Ça commence à relever de
+l'obsession, n\0.
+(\0촀\0Entre toi et moi,
+\0 (촀\0c'est pas
+nécessairement pour me déplaire.\0\0(촀\0
+\0Tu sais comment on pourrait
+trancher ? 
+\0Avec un jeu !
+\0 (%촀\0La vie
+n'est-elle pas 
+\0qu'un long jeu ?
+(\0촀\0Si je gagne,
+\0(1촀\0 je repars à l'aventure
+vers des horizons inconnus.\0\0(촀\0Si tu gagnes,
+\0 je m'installe ici.
+Qu'est-ce que tu en dis ?"
+"207_03_a","Je vais gagner !"
+"207_03_b","Bonne route !"
+"208_01","(촀\0Quoi ?!
+\0 Mais t'avais ditn\0\0(2촀\0 OK, nan,
+d'accord.
+\0(\0촀\0 C'est pas comme si j'avais
+pas déjà refusé une fois."
+"208_02","(촀\0Oh !
+\0(촀\0 Je croyais que c'était ce que tu
+voulais par-dessus toutn"
+"208_03","(촀\0Oh, tu m'as douchée. 
+\0J'espère que tu
+regretteras pas trop('촀\0n\0\0 L'occasion est pas près de se représenter."
 "302","(촀\0Je suis dépitée. 
 \0(C'est la cata.
 \0 (촀\0La pire
@@ -267,6 +339,17 @@ c'est pas bonn\0\0
 \0< (촀\0Qui sait,
 peut-être qu'on arrivera à être
 voisin2\0es un jour, n\0."
+"405","(8촀\0Je reviens du \0bureau des résidents\0￿,
+y a plus une seule parcelle de dispo
+pour me construire une maison !
+()촀\0J'ai bien proposé de me faire une
+cabane dans un arbre, ou même
+de vivre sur un bateaun\0\0\0\0(6촀\0Rien à faire !
+\0 Soi-disant qu'il y
+aurait des soucis de permis de
+construire et de lois maritimesn\0\0
+(촀\0Ça casse le mythen\0\0 Moi qui croyais
+que cette île était fun, n\0."
 "406","($촀\0J'ai une nouvelle !
 \0< (8촀\0J'ai fait du forcing
 au \0bureau des résidents\0￿n\0\0 
@@ -303,6 +386,18 @@ prochaine tournée, ce sera ici,
 n\0 !\0\0(촀\0Les billets devraient pas tarder à
 être dispo en préventen\0\0 Je compte
 sur toi pour passer le mot !"
+"424","(
+촀\0C'est pourtant pas la place qui
+manque icin\0\0
+\0 (&촀\0Pourquoi on me
+laisse pas squatter dans un coin ?
+(2촀\0Je plaisante, n\0.
+\0
+(%촀\0Pas question de squatter, je veux
+mon bout de terrain à moi.
+(촀\0Merci pour l'invitation, en tout cas,
+
+\0ce sera pour une autre fois."
 "504","()촀\0Depuis que je campe sur cette île,
 il m'arrive que des trucs de dingue.
 \0

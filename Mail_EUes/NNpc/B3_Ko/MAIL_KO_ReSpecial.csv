@@ -12,6 +12,7 @@
 "011","Buenas, n\0..."
 "012","Estimad2oa DJ n\0:"
 "013","¡Hola, n\0!"
+"014","¿Qué hay, n\0?"
 "018","Buenas, n\0..."
 "019","Estimad2oa amig2oa de los fósiles:"
 "020","Disculpa, jovencit2oa..."
@@ -93,6 +94,12 @@ por si se me rompe la otra.
 Piensas en todo, ¿eh?
 Te envío algo que espero
 también te resulte práctico."
+"114","No entiendo mucho de arte, pero
+lo que me has enviado se nota que
+es auténtico y muy valioso. ¡Sobre
+todo auténtico! No te puedo
+asegurar que mi regalo lo sea,
+pero confío en que te gustará."
 "118","Gracias por el fósil, joven.
 Que no es lo mismo que
 «fósil joven», ¡ja, ja, ja!
@@ -142,6 +149,8 @@ altura. ¡Ya me dirás!"
 "212","Saludos, n
 "
 "213","Muy satisfecho, n
+"
+"214","Muy agradecido, n
 "
 "218","Aún no fosilizado, n
 "

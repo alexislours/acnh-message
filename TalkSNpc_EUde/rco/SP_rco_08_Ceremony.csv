@@ -58,17 +58,21 @@ die Stimmung!
 \0 (&촀\0Hast du Lust?"
 "102_08_a","(%촀\0Hab ich!"
 "102_08_b","('촀\0Nein, danke."
+"102_09","(%촀\0Wir können eine Feier zu Ehren des
+Umbaus des \0Museums\0￿ veranstalten.
+\0
+(&촀\0Möchtest du teilnehmen?"
+"102_09_a","(%촀\0Hab ich!"
+"102_09_b","('촀\0Nein, danke."
 "111","(촀\0Wir feiern gleich mehrere Anlässe
 auf einmal!
 \0 Hach,
-\0 n	\0
-ist wahrlich eine Insel im Glück!\0\0(촀\0Möchtest du an einer dieser Feiern
+\0 n	\0 ist wahrlich eine Insel im Glück!\0\0(촀\0Möchtest du an einer dieser Feiern
 teilnehmen?"
 "112","(촀\0Wir feiern gleich mehrere Anlässe
 auf einmal!
 \0 Hach,
-\0 n	\0
-ist wahrlich eine Insel im Glück!\0\0(촀\0Doch eins nach dem anderen.
+\0 n	\0 ist wahrlich eine Insel im Glück!\0\0(촀\0Doch eins nach dem anderen.
 \0
 Zuerst solltest du bei der Feier für
 das neue \0Servicecenter \0￿mitmachen.

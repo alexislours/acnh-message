@@ -79,6 +79,12 @@ fait l'impasse sur certains articles.\0\0Par exemple, aujourd'hui, on ne
 touche pas aux navets.\0\0(\0촂\0(\0촃\0Pardon de contrarier tes plans,
 mais il va falloir revoir ce que
 tu veux vendre."
+"025","(촂\0(촃\0Ahn\0\0
+\0 Toutes mes excusesn\0\0
+\0 La
+maison n'accepte pas les \0fausses
+\0￿œuvres d'artn\0\0\0\0(\0촂\0(\0촃\0Je suis vraiment désolé, mais il va
+falloir revoir ce que tu veux vendre."
 "031","(%촂\0(촃\02\02\0}\0\0 !
 \0
 (촂\0Alors,
@@ -417,7 +423,7 @@ voir
 \0(촂\0 quand tu auras un peu plus de
 place !(%촃\0d\0
 \0 \0KOui, trop, c'est trop !\0dd"
-"113","(촂\0(촃\0Tu ne seras pas déçu2\0e !(%촃\0d\0
+"113","(촂\0(촃\0Tu ne seras pas déçu2\0e !d\0
 \0 \0KAu contraire !\0dd"
 "114","(촀\0Merci beaucoup pour
 tes Z\0 !(%촃"
@@ -441,7 +447,7 @@ profites-en !d\0
  \0￿)"
 "131_c","Laisse tomber."
 "200","(촂\0(촃\0Merci !d\0
-\0 \0KBeaucoup, beaucoup !\0dd
+\0 \0KBeaucoup, beaucoup !\0dd(촂\0(촃\0
 Z"
 "201","(촂\0
 \0(촃\0Bonjour !

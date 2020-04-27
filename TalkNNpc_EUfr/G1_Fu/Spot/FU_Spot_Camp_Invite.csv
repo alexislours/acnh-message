@@ -117,6 +117,63 @@ est de vivre sur cette îlen\0\0
 les formalités au \0bureau des
 résidents\0￿. 
 \0(촀\0C'est parti !"
+"207_01","(촀\0C'est vrai ?
+\0 Alors tu ne m'en veux
+pas d'avoir rejeté ton invitation
+la dernière fois ?\0\0(2촀\0Oh, ça me touche, j'avoue. Ceci ditn\0\0
+(4촀\0Je ne suis pas tout à fait sûre d'être
+prête à prendre une telle décisionn\0\0
+(촀\0Je sais ! 
+\0Laissons les cartes
+trancher !
+\0(촀\0 Si tu gagnes, je fais
+mes valises et je m'installe ici.
+($촀\0Qu'est-ce que t'en dis, n\0 ?"
+"207_01_a","Ça roule !"
+"207_01_b","Nan, oublie."
+"207_02","(촀\0Tu fais pas semblant d'être
+persévérant2\0e, n\0.
+\0 C'est très mignon, n\0.\0\0(4촀\0Mais j'hésiten\0\0 M'installer ici ou
+rester dans mon foyer douilletn\0\0
+(촀\0Mon cœur balance !
+(
+촀\0Et si on laissait le hasard décider ?
+(
+촀\0On pourrait jouer à un petit jeun\0\0\0\0(%촀\0Selon l'issue de la partie, je prends
+la plus grande décision de ma vie.
+\0
+( 촀\0Voilà un plan sensé et raisonnable !
+()촀\0Si tu gagnes, je fais mes valises et je
+m'installe. 
+\0Sinonn\0\0 On verra bien.
+\0
+(&촀\0Tu es partant2\0e ?"
+"207_02_a","Oui, je gagne toujours !"
+"207_02_b","En un mot : non."
+"207_03","(4촀\0Mon cœur dit oui, mais il a tendance
+à dire toujours la même chose, alors
+je me méfie.\0\0(
+촀\0Comment prendre une décision aussi
+cruciale ?
+\0(촀\0 Je sais !
+\0 Si je laissais mon
+avenir entre les mains du hasard ?\0\0(\0촀\0Faisons un jeu ! 
+\0(촀\0Si tu gagnes,
+n	\0 sera mon nouveau foyer. 
+\0Tu dis oui ?"
+"207_03_a","Je dis toujours oui."
+"207_03_b","Nan, mon cœur dit nan."
+"208_01","(촀\0Oh ?
+\0 Quel dommagen\0\0
+(촀\0Mais je ne suis pas déçue, pas du toutn"
+"208_02","(촀\0Ça a le mérite d'être clair.
+\0()촀\0 Tant pis,
+il y a un temps pour jouer, et un
+temps pour ne pas déménager."
+"208_03","(촀\0Je ne m'attendais pas à ça, mais
+je ne t'en veux pas. 
+\0(촀\0Ce n'était pas
+le bon moment, c'est tout."
 "302","(""촀\0Pardon de t'avoir fait attendre !\0\0(촀\0Ça ne s'est pas passé exactement
 comme je l'espérais avec le \0bureau
 des résidents\0￿n\0\0
@@ -192,6 +249,20 @@ nouveau résident pour le moment.
 \0(
 Au moins,
 \0 j'aurai essayén"
+"405","(""촀\0Tu n'as pas attendu trop longtemps,
+\0
+j'espère !
+\0( Je reviens du \0bureau
+des résidents\0￿.
+(촀\0Ça ne s'est pas passé comme je
+l'espérais.
+\0( Il n'y a plus un seul
+terrain en vente sur l'île.
+(촀\0Je te dis pas la déceptionn\0\0
+\0(
+Mais bon,
+\0(촀\0 je suis contente
+d'avoir essayé."
 "406","(4촀\0Euh
 \0n\0\0 c'est bien n\0,
 \0 non ?\0\0(""촀\0Pardon pour l'attente !
@@ -225,6 +296,11 @@ par me déclarer persona non grata."
 \0 (%촀\0c'est bien
 la preuve 2
 que qu'⁠n	\0 est très demandée."
+"424","(8촀\0Si seulement il y avait un terrain
+en vente à n	\0...
+
+\0(촀\0J'adorerais vivre ici, 
+\0n\0 !"
 "504","(촀\0Cette île et ses habitants sont
 exceptionnels !
 \0 (촀\0Je crois que je suis

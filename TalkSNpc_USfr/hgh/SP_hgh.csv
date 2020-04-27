@@ -103,30 +103,25 @@ place de mettre en rayon.
 atelier, on ne peut plus m'arrêter."
 "006_01_03","( 촀\0Oh, n\0!
 \0 Salut!
-\0 
-(촀\0Notre atelier propose un nouveau service qui pourrait t'intéresser.\0\0()촀\0Nous avons installé une nouvelle
-borne à côté de la zone réservée aux
-motifs perso, 
-\0tu l'as remarquée?
-\0(
-(촀\0C'est notre \0portail des motifs
-perso\0￿!\0\0(%촀\0Utilise-le pour commander des motifs
+\0 (촀\0Notre 
+atelier propose un nouveau service.\0\0()촀\0Nous avons installé une borne
+connectée à Internet à côté de la
+zone des motifs perso, 
+\0tu la vois?
+\0( (촀\0C'est notre \0portail des motifs perso\0￿!\0\0(%촀\0Il permet de commander des motifs
 perso à des stylistes du monde
 entier,
-\0 (촀\0et pour partager tes motifs!
-(\0촀\0Ceci dit, un abonnement au service
-payant \0Nintendo Switch Online\0￿ et
-une connexion Internet sont requis.
-(촀\0J'espère que tu y jetteras un œil,
-\0
-à l'occasion!
+\0 (촀\0et de partager tes motifs!
+(촀\0Si tu veux en savoir plus, tu peux y
+jeter un œil à l'occasion!
 \0-(촀"
 "006_02","($촀\0Nous sommes ouverts de 9 h à 21 h.
 \0
 (촀\0J'espère te voir souvent à l'atelier."
 "007","(촀\0Merci de ta visite.
 \0 À bientôt,
-j'espère!"
+j'espère!(촀\0
+<"
 "008","Oh! 
 \0(촀\0Bien sûr, aucun problème."
 "009","(촀\0Oups!

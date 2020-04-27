@@ -4,7 +4,7 @@
 NE PAS fixer mon dos?
 \0 C'est gênant.
 \0
-\0KDe toute façon y a rien à voir làn\0\0\0d"
+\0KDe toute façon, y'a rien à voir làn\0\0\0d"
 "002","(촀\0Hé!
 \0 Tu crois que je t'ai pas vu2\0e?
 \0
@@ -36,14 +36,14 @@ sache quen\0\0
 Non, sérieusement, vas-y.\0d
 \0-(\0촀\0
 (촀\0Ah, si c'est pas merveilleux! ()촀\0Maintenantn\0\0 il faut que je te parle 
-de mon jour préféré dans l'année! "
+du jour de l'année le plus heureux! "
 "011","\0K(:촀\0Je sais ce que tu penses.
 \0 Et la réponse est non.
 
 \0Non, c'est pas un déguisement.
-\0 (9촀\0Et non, il y'a
-pas moyen de l'enlever.\0d"
-"012","('촀\0Boïnguidou,
+\0 (9촀\0Et non,
+y'a pas moyen de l'enlever.\0d"
+"012","('촀\0Boïnguida,
 \0 trêve de blabla.\0\0(촀\0C'est bientôt la \0fête des œufs\0￿!
 
 \0Hop hop hopn\0\0 hourra! 
@@ -51,7 +51,7 @@ pas moyen de l'enlever.\0d"
 monde se prépare à bondir de joie!
 (촀\0\0KJ'ai tellement à faire, pour tout préparern\0\0
 J'espère que tu vas trouver quelque chose
-pour t'occuper.\0d\0\0(촀\0Et je te le donne en mille! 
+pour t'occuper.\0d\0\0(촀\0Et devine quoi! 
 \0((촀\0Ton lapin
 préféré a un secret spécial « \0fête des
 œufs\0￿ » rien que pour toi."
@@ -90,9 +90,10 @@ surveille les rivières et la mer...
 Bref, regarde partout, tu vois la stratégie?"
 "016","J'ai même un petit cadeau rien que
 pour toi!"
-"017","C'est un plan pour bricoler un \0lit fête des œufs\0￿.
-\0 (%촀\0Trouve des œufs et tu
-pourras le fabriquer.
+"017","C'est un plan pour bricoler un \0lit
+fête des œufs\0￿.
+\0 (%촀\0Trouve des œufs
+et tu pourras le fabriquer.
 
 \0Et là, prépare-toi à sauter de joie,
 
@@ -123,16 +124,22 @@ place dans tes poches. Si c'est comme ça, tiens."
 \0 Tu as fait de la place dans tes
 poches comme je te l'ai demandé?\0\0(촀\0\0KBon, je vais te le dire autrementn\0\0 Pas de place,
 pas de cadeau.\0d"
-"021","(촀\0Boïng, 
-\0devine quoi?!
+"021","(촀\0Boïnguideu, 
+\0devine un peu?!
 \0
-La fête des œufs aura lieu le\0
-\0 ⁠⁠Z$촀 Z#촀\0￿!\0\0(촀\0Je viendrai faire un saut sur cette île
-ce jour-là, promis juré!\0\0(:촀\0D'ici là, dis à personne que tu m'as vu, OK?"
-"022","('촀\0Perds pas ton temps à fouiller dans tous les bâtiments, j'y ai rien caché.\0\0()촀\0C'est dehors que tout se joue, et c'est là que tu dois chercher.\0\0(촀\0Fouille les arbres, l'eau, la terre et
+La fête des œufs aura lieu
+le\0
+\0 ⁠⁠Z$촀 Z#촀\0￿!
+(촀\0Je viendrai faire un saut sur cette île
+ce jour-là, promis juré!\0\0(:촀\0D'ici là, dis à personne
+que tu m'as vu, OK"
+"022","('촀\0Perds pas ton temps à fouiller dans
+tous les bâtiments, j'y ai rien caché.\0\0()촀\0C'est dehors que tout se joue,
+et c'est là que tu dois chercher.\0\0(촀\0Fouille les arbres, l'eau, la terre et
 n'oublie pas les rochers!"
-"023","()촀\0N'oublie pas de chercher les \0plans de
-bricolage édition spéciale fête des œufs\0￿ que j'ai cachés un peu partout.
+"023","()촀\0N'oublie pas de chercher les \0plans
+de bricolage édition spéciale fête des
+œufs\0￿ que j'ai cachés un peu partout.
 (촀\0J'adore cacher des trucs, tu en
 trouveras de plus en plus à mesure
 que la fête des œufs approche.
@@ -151,10 +158,11 @@ partout et surtout, bonne chance!
 \0( (9촀\0elle t'intéresse pas,
 ma chasse aux œufs?"
 "025","
-\0(촀\0Tiguidou-boïng!
+\0(촀\0Tiguidou-boïnguida!
 \0
-\0Salut, toi!\0d
-\0\0Si tu es là pour t'amuser, je suis le lapin de la situation!
+\0Salut toi, ça va?!\0d
+\0\0Si tu es là pour t'amuser, je suis le
+lapin de la situation!
 \0 Appelle-moin\0\0
 \0
 \0(촀\0Albin\0￿!
@@ -168,23 +176,25 @@ toucher à ça, c'est pas un costume.
 \0 (9촀\0Je suis un
 lapin,
 \0 tout ce qu'il y a d'authentique.\0d"
-"027","('촀\0Tiguidou-boïnguidou!
+"027","('촀\0Tiguidou-boïnguidelle
 J'ai une grande nouvelle!\0\0La\0 fête des œufs\0￿ approche à grands
-sauts.
-\0 (촀\0Et il se trouve que j'ai un petit
-secret rien que pour toi!"
-"028","(\0촀\0Pour faire courtn\0\0(""촀\0 trouve un max
+bonds.
+\0 (촀\0Et il se trouve que j'ai un 
+petit secret rien que pour toi!"
+"028","(\0촀\0Pour faire courtn\0\0(""촀\0 trouve tout plein
 d'œufs et tu te souviendras
 longtemps de cet événement.
-(촀\0Sur ce, boïnguidou,
+(촀\0Sur ce, boïnguideu,
 \0 bonne chance
 et fais de ton mieux!"
 "030","(촀\0Tiguidou-boïng!
 \0 Le \0
-\0Z$촀 Z#촀\0￿, c'est le jour de la \0fête des œufs\0￿!\0\0(촀\0Prépare-toi à me voir bondir sur
+\0Z$촀 Z#촀\0￿,
+c'est le jour de la \0fête des œufs\0￿!\0\0(촀\0Prépare-toi à me voir bondir sur
 cette île ce jour-là! Rien que d'y
 penser, je tiens pas en place!
-(:촀\0Ne parle pas de moi avant ça, faudrait pas gâcher la surprise!"
+(:촀\0Ne parle pas de moi avant ça,
+faudrait pas gâcher la surprise!"
 "031","(&촀\0Tu ne viens pas de cette île, je me
 trompe?\0\0Oh, c'est un peu délicat.
 \0
@@ -194,7 +204,7 @@ trompe?\0\0Oh, c'est un peu délicat.
 de cette île. 
 \0((촀\0Désolé, j'en ai pas prévu
 pour les visiteursn"
-"100","(촀\0Tiguidou-Boïnguidou!
+"100","(촀\0Tiguidou-Boïnguidi!
 \0 
 \0Salut la compagnie!\0\0\0C'est moin\0\0 \0Albin\0￿!\0d
 \0\0(촀\0Je suis le lapin malin
@@ -209,9 +219,12 @@ a lieu pas plus tard qu'aujourd'hui!
 \02 C'est parti.\0d
 \0<(\0촀"
 "101","Attendsn\0\0(촀\0 On se connaît?
-\0 C'est sûr que oui! J'oublie pas les visages, surtout dans de nouveaux endroits!
+\0 C'est sûr
+que oui! J'oublie pas les visages,
+surtout dans de nouveaux endroits!
 (:촀\0\0KOn dirait que t'as pas parlé de ma visite.
-\0 Je suis surprisn\0\0 mais reconnaissant!\0d"
+\0
+Je suis surprisn\0\0 mais reconnaissant!\0d"
 "102","Bref,
 \0 (촀\0mon grand jour est enfin
 arrivé!
@@ -232,7 +245,8 @@ moi!"
 x\0\0\0Ils sont partout!
 \0 Cachés, enterrés,
 accrochésn\0\0 
-\0Impossible de pas trébucher sur un!
+\0Impossible de pas
+trébucher sur un!
 ´"
 "105","n\0\0 n\0\0
 (&촀\0Tu vois où je veux en venir?
@@ -247,18 +261,21 @@ un heureux!"
 \0 (촀\0J'ai aussi une
 surprise, et j'en connais un2\0e 
 qui va sauter de joien"
-"108","(촀\0Une surprise pour 2monma petit2\0e lapin2\0e préféré2\0e, je parlen\0\0 de toi!
-\0 C'est un plan d'\0arche fête des œufs\0￿!
+"108","(촀\0Une surprise pour 2monma petit2\0e lapin2\0e
+préféré2\0e, je parlen\0\0 de toi!
+\0 C'est un
+plan d'\0arche fête des œufs\0￿!
 Allez,
 \0(촀\0 si tu veux trouver tous les
 \0plans de bricolage\0￿ que j'ai cachés,
 faudrait te mettre au travail.
 (!촀\0Aussi, j'ai une récompense spéciale 
-pour quiconque arrivera à \0fabriquer tous mes articles de bricolage\0￿!
-Allez, fini les explications, place à
-l'action!"
+pour quiconque arrivera à \0fabriquer
+tous mes articles de bricolage\0￿!
+Allez, fini les explications,
+place à l'action!"
 "109","Et ça, c'est pour toi!
-\0( (&촀\0Boïnguidou?
+\0( (&촀\0Boïnguid-hein?
 \0
 Tes poches sont pleines.\0\0(%촀\0Débarrasse-toi du superflu
 \0 et je
@@ -269,11 +286,11 @@ te donnerai ce qui était prévu."
 \0Non, ceci n'est pas un déguisement.
 \0 (9촀\0Et non, il n'y
 a pas moyen de le retirer.\0d"
-"112","Boïnguidou,
+"112","Boïnguidé,
 \0 assez jacassé!
-\0 (촀\0Parlons
-de la raison de ma venuen\0\0 La \0fête
-des œufs\0￿, bien entendu!
+\0 (촀\0
+Parlons de la raison de ma venuen\0\0 
+La \0fête des œufs\0￿, bien entendu!
 (촀\0C'est un événement en or, et je veux
 voir tout le monde dehors!\0\0(5촀\0Si tout le monde est prêt à jouer,
 cette fête sera un succès!
@@ -302,10 +319,11 @@ Celui qui sera capable de fabriquer
 de la fête des œufs\0￿ gagnera un prix!
 \0
 ($촀\0Allez,
-\0 arrête de perdre du temps et va travailler! Je te regarde!"
+\0 arrête de perdre du temps
+et va travailler! Je te regarde!"
 "121","
-\0(촀\0Tiguidou-boïng!
-\0 Salut salut! J'suisn\0\0
+\0(촀\0Tiguidou-boïnguidu!
+\0 Salut! J'suisn\0\0
 \0\0Albin \0￿le lapin!\0d
 \0\0(촀\0Je suis là pour la \0fête des œufs\0￿,
 \0 et
@@ -322,13 +340,13 @@ chasse!"
 détail important, tout à l'heure. \0\0(""촀\0Si jamais il te manque un œuf d'un
 certain type, je peux te tirer d'affaire.\0\0()촀\0Je te donnerai un œuf de ton choix,
 contre Z\0 2\0\0œufœufs d'un autre type.
-(5촀\0Boïnguidou, 
+(5촀\0Boïnguidan, 
 \0tu vois le bon plan?
 \0(
 (촀\0Tu n'as qu'à me dire « \0Échangeons
 des œufs!\0￿ », je saisirai le message.
 \0((\0촀"
-"131","Tiguidou-boïng,
+"131","Tiguidou-boïnguidage,
 \0 (촀\0tu as trouvé
 un œuf et inventé un nouveau plan
 de bricolage?!\0\0(촀\0J'en reviens pas! Tu en as eu l'idée
@@ -345,7 +363,7 @@ fabriquer les objets des plans que tu
 imagines, pour avoir mon cadeau.
 (촀\0Pas la peine de t'user à la corde pour
 ça, c'est compris?"
-"132","(촀\0Tiguidou-boïnguidou,
+"132","(촀\0Tiguidou-boïnguidage,
 \0 ça se passe
 comment, le bricolage?
 \0 (\0촀\0Si je peux
@@ -355,10 +373,14 @@ juste jeter un œiln\0\0\0\0(
 mes plans de bricolage, on dirait.\0\0()촀\0N'oublie pas que
 \0 si tu fabriques tous
 les objets de mes plans,
-\0 tu recevras un cadeau
-\0(촀\0 qui en vaut la peine!\0\0Compte pas sur moi pour te révéler
+\0 tu recevras
+un cadeau
+\0(촀\0 qui en vaut la peine!
+Compte pas sur moi pour te révéler
 leur cachette,
-\0 (%촀\0mais je peux un peu t'aider. (\0촀\0Écoute çan\0\0\0\0(촀\0Va prendre une marche sur la plage,
+\0 (%촀\0mais je peux t'aider
+un peu. (\0촀\0Écoute çan\0\0
+(촀\0Va prendre une marche sur la plage,
 \0
 ou regarde le firmament.\0\0()촀\0Il sera sur le rivage,
 \0
@@ -366,9 +388,10 @@ ou regarde le firmament.\0\0()촀\0Il sera sur le rivage,
 \0
 (촀\0et va me chercher ces plans!
 \0P(\0촀"
-"133","(촀\0Boïnguidou, le bricolage se passe
+"133","(촀\0Boïnguidin, le bricolage se passe
 bien? Tu me laisses jeter un œil?\0\0(촀\0Pas mal du tout! 
-\0Ça avance à un bon rythme,
+\0Ça avance à un bon
+rythme,
 \0(:촀\0 même si tu n'as pas encore
 trouvé tous les plans!
 Allez, je vais te dire où sont ceux
@@ -378,17 +401,18 @@ qui te manquent. Ils sontn\0\0
 \0\0Super bien cachés!\0d\0\0
 	\0(\0촀\0OK, OK,
 \0 alors juste un petit
-indicen\0\0 (촀\0Pense à garder le nez en
-l'air."
+indicen\0\0 (촀\0Pense à garder le nez
+en l'air."
 "134","(촀\0Eh ben! 
 \0Voilà quelqu'un qui prend
 ses travaux de bricolage à cœur!\0\0(9촀\0Oh, mais tu n'as pas encore fabriqué
 tous les objets à partir des plans que
-j'ai cachés?\0\0(촀\0Quand même, tu es sur le bon chemin!
+j'ai cachés?\0\0(촀\0Quand même, tu es sur le bon
+chemin!
 \0 (%촀\0Allez, encore Z\0\0 et tu auras
 fini.
-\0((촀\0 Un dernier effort, Boïnguidou!"
-"135","(촀\0Tiguidou!
+\0((촀\0 Un dernier effort, boïnguidou!"
+"135","(촀\0Tiguidou-hé!
 \0 Elles te plaisent,
 les festivités?\0\0Et comment se passe (9촀\0la chasse aux
 plans de bricolage de la \0fête des
@@ -418,7 +442,7 @@ Je ne connais pas de jouet plus
 génial. 
 \0(촀\0Ça doit être parce qu'il est
 en forme...
-\0 d'œuf!
+\0 d'ovale!
 \02(\0촀"
 "136_02","Bricolons avec des œufs!
 \0
@@ -498,7 +522,7 @@ C'est ça, la vie de lapin!
 "170","( 촀\0Dis donc, 22mon lapinouma lapinetten\0\0
 \0 ('촀\0Tu n'as pas
 assez d'œufs.\0\0(9촀\0Voici ce qu'on va faire.
-\02 ()촀\0Tu dois m'apporter Z\0 2\0\0œufœufs... 
+\02 ()촀\0Tu dois m'apporter Z\0 2\0\0œufœufsn\0\0
 du même typen\0\0\0\0(""촀\0Ensuite, mais seulement ensuite, je
 te 2\0\0l'les échangerai contre un œuf de
 ton choix.
@@ -513,16 +537,18 @@ même type, moi, je t'en donne 1
 d'un autre type.
 \0(:촀\0 Tu comprends?"
 "173","(&촀\0Ah?
-\0 Tu n'as pas envie de faire un échange?
+\0 Tu n'as pas envie de
+faire un échange?
 \0( (\0촀\0Bon,
-\0 une prochaine fois,
+\0
+une prochaine fois,
 \0 alors."
 "174","( 촀\0Hm?
 \0 Tu as changé d'avis?
 \0(
 \0
 (\0촀\0Dans ce cas, je te rends tes œufs."
-"176","(촀\0Boïnguidou,
+"176","(촀\0Boïnguidange,
 \0 faisons un
 échangen\0\0
 \0 Tigid... Oh!(9촀\0 
@@ -568,7 +594,7 @@ de chaque type, je t'offre un autre
 \0(촀\0un \0panier fête des œufs\0￿!"
 "184","(촀\0C'est parti mon kiki! On va faire
 la fête! "
-"185","Boïnguidou!
+"185","Boïnguida!
 \0 Hip hip hip hourra!
 \0
 Quelle belle journée pour fêter les
@@ -581,8 +607,8 @@ encore ramassé un seul œuf?!
 (촀\0\0KMoi qui m'attendais à tant de ta partn\0\0\0d"
 "188_01","Récupère les six types d'œufs
 différents
-\0 ($촀\0et je te donnerai un
-cadeau!"
+\0 ($촀\0et je te ferai un
+présent!"
 "188_02","Récupère les six types d'œufs
 différents
 \0 ($촀\0et je te donnerai un
@@ -635,32 +661,36 @@ rien à te demandern"
 \0MAIS Y'An\0\0
 UNE DERNIÈRE CHOSE!
 \0-
-\0\0\0d\0K(\0촀\0Tu croyais que ça serait tout? Il me reste encore
-un atout!\0\0\0d()촀\0Juste une petite tâche avant mon
-dernier cadeau.\0\0(""촀\0Prends ce plan de bricolage,
+\0\0\0d\0K(\0촀\0Tu croyais que ça serait tout?
+Il me reste encore un atout!\0\0\0d()촀\0Juste un petit boulot avant
+mon dernier cadeau.\0\0(""촀\0Prends ce plan de bricolage,
 \0
 écoute-moi et sois sagen"
 "202","(촀\0Ce dernier défi me tient à cœur.
 \0(촀\0
-Fabrique un jouet en mon honneur!\0\0(촀\0Bricole un \0œuf à bascule d'Albin \0￿à partir de mon plan,
-\0(\0촀\0 et je te le rendrai,
+Fabrique un jouet en mon honneur!\0\0(촀\0Bricole un \0œuf à bascule d'Albin
+\0￿à partir de mon plan,
+\0(\0촀\0 et je te le
+rendrai,
 \0 (%촀\0j'en fais le serment!"
 "203","(촀\0Oh,
 \0 tes poches sont pleinesn\0\0
-\0 Pose
-une chose ou deux, et reviens me voir, OK?"
+\0
+Pose une chose ou deux,
+et reviens me voir, OK?"
 "204","(촀\0Je le vois à ta mine enjouéen\0\0 Tu as
 vraiment fabriqué tout ce que je t'ai
 demandé?(촀\0
 \0 Tout?!
 \0
-(!촀\0J'en conclus que tu as aussi fabriqué un \0œuf à bascule d'Albin\0￿?
+(!촀\0J'en conclus que tu as aussi fabriqué
+un \0œuf à bascule d'Albin\0￿?
 \0 Parfait!
 \0
 Je savais que tu me décevrais pas.
 Eh bien
 \0 moi non plus, je vais pas te
-décevoirn\0\0 En fin, j'espère.
+décevoirn\0\0 Enfin, j'espère.
 \0( (촀\0Voici ta
 super récompense ultime! Bravo!"
 "205","(촀\0C'est un plan pour une magnifique
@@ -678,7 +708,7 @@ Estime-toi heureu2
 \0(촀\0
 \02
 "
-"207","n\0\0 n\0\0\0\0(촀\0Boïnguidou!
+"207","n\0\0 n\0\0\0\0(촀\0Boïnguidou-Boïnguidé!
 \0
 La fête ne s'arrête jamais!\0\0(촀\0Les célébrations de la fête des œufs
 continuent jusqu'à ce soir,
@@ -687,10 +717,10 @@ bien l'occasion de se revoir!\0\0(""촀\0J'espère que ma chasse au trésor 
 plu,
 \0 je ne regrette vraiment pas
 d'être venu!"
-"208","(촀\0Oh.
-\0 Tes poches sont pas mal pleines,
-alors fais-y un peu de place et
-reviens me voir, d'accord?"
+"208","(촀\0Oh, zut alors!
+\0 Tes poches ne sont
+pas extensibles. Fais-y de la place,
+sinon ça sera impossible."
 "220","n\0\0
 (촀\0Pardon, je savais pas que tu étais
 dur2\0e d'oreille.

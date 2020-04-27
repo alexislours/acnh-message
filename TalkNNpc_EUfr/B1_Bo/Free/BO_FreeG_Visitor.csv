@@ -7,7 +7,7 @@
 "001_b","Pas encore."
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Tu n'as pas perdu de temps, n\0 ! 
 \0((촀\0Elles sont délicieuses, pas vrai ?\0\0(촀\0Moi aussi, je les adore.
 \0 Manges-en
@@ -45,12 +45,25 @@ qui travaille très dur pour ouvrir un
 \0 il faut qu'il trouve des
 trucs à exposer,
 \0 comme des fossiles,
-des insectes, ou des œuvres d'artn\0\0\0\0(""촀\0Si tu pouvais faire don au musée de
+des insectes ou des poissonsn\0\0\0\0(""촀\0Si tu pouvais faire don au musée de
 quelque chose à exposer,
 \0 je suis sûr
 qu'il te serait très reconnaissant."
 "017","<
 "
+"018","(촀\0Dans notre \0musée\0￿, y a toute une
+zone pour les toiles et les statues,
+c'est trop bien, n\0 !
+(8촀\0Par contre, oublie pas de te laver les
+pattes avant d'y toucher. Sinon, ils
+ont tendance à se mettre en pétardn"
+"019","($촀\0Dis-moi, tu te plais bien
+à n\0 ?
+\0 Je trouve
+qu'on est pas trop mal, ici.\0\0(1촀\0Je dirais même que la vie est
+de plus en plus savoureusen\0\0\0\0(촀\0Un peu comme des bouchées 2
+de d'⁠촀 par une journée très chaude."
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -77,6 +90,16 @@ gracieu2)촀xse\0 !
 heures,
 \0 ça me donne l'impression de
 voyager dans le tempsn"
+"031","(촀\0Au \0musée\0￿,
+\0 il y a 2\0
+
+ en exposition.\0\0(7촀\0Les peintures et les sculptures, c'est
+joli, 
+\0mais j'ai toujours l'impression
+qu'elles me regardentn\0\0
+(촀\0Enfin,
+\0 tu devrais quand même aller
+les admirer, n\0 !"
 "201","(촀\0Dis, n\0,
 \0($촀\0 qu'est-ce que tu fais pour t'amuser sur n	\0 ?"
 "201_a","Je pêche... des poissons."

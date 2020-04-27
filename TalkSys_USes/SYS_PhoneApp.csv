@@ -209,6 +209,21 @@ de esa isla,
 ¿Te parece?d"
 "048_a","¡Sí, porfa!"
 "048_b","Ya no quiero"
+"049","d\0Ah, estás en una de esas \0islas
+laberinto\0￿ que diseñó \0Tom Nook\0￿, ¿no?\0\0En ese caso, tengo órdenes de
+dejarte en la \0zona de aterrizaje
+del avión\0￿.
+Así podrás volver a empezar desde
+el principio.
+\0 ¿Te parece bien?d"
+"049_01","d\0Ah, estás en una de esas \0islas
+laberinto\0￿ que diseñó \0Tom Nook\0￿, ¿no?\0\0En ese caso, tengo órdenes de
+dejarte en la \0zona de aterrizaje
+del avión\0￿.
+Así podrás volver a empezar desde
+el principio.d"
+"049_a","¡Sí, porfa!"
+"049_b","Cambié de parecer"
 "050_01","d\0¿A tu tienda de campaña?
 \0
 ¡Dicho y hecho!d"
@@ -470,6 +485,9 @@ Solo puedes usar esta aplicación en
 n	\0 al aire libre."
 "301","Parece que la aplicación del mapa
 no funciona en esta isla."
+"311","Dice que estoy fuera de la zona de
+servicio. Supongo que no puedo
+usar la aplicación aquí."
 "321","Vaya, parece que la aplicación
 \0Historial del chat\0￿ no funciona
 durante partidas en grupon"

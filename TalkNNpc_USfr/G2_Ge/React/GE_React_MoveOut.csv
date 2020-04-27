@@ -3,18 +3,18 @@
 Je suis contente de te voir!
 \0
 (촀\0Il fallait que je te dise un truc!
-(""촀\0Merci tout plein pour tes conseils
-d'hier.
-\0 (\0촀\0C'est grâce à toi si j'ai décidé
-de mettre les voiles.
+(""촀\0Merci tout plein pour tes conseils.
+\0
+(\0촀\0C'est grâce à toi si j'ai décidé de
+mettre les voiles.
 (8촀\0On sera plus tout près l'un2\0e de
 l'autre, mais j'oublierai jamais m2
 ona
 super poteau n\0!"
 "002","(촀\0Tiens, tiens, n\0!
 \0
-(\0촀\0Merci pour les conseils d'hier!
-(%촀\0Ça m'a aidée à décider de partir!
+(\0촀\0Merci pour les conseils! (%촀\0Ça m'a
+aidée à décider de partir!
 (
 촀\0J'avais surtout peur que les
 habitants d'ici s'ennuient
@@ -28,9 +28,9 @@ cet énorme vide, n\0!
 "003","(촀\0Te voilà, n\0!
 \0
 (""촀\0Merci!
-\0 Merci pour les conseils
-d'hier!
-\0 ((촀\0Parce que ça y est, je pars!
+\0 Merci pour tes conseils!
+\0
+((촀\0Parce que ça y est, je pars!
 (7촀\0Et tout ça, c'est grâce à toi!
 J'étais pas sûre à l'idée de changer
 d'horizon, mais tu m'as rassurée!\0\0(촀\0Promets-moi juste une chose...
@@ -98,6 +98,16 @@ fête, maisn\0\0 je suis sur le départ.
 (촀\0Alors ce sera pour une autre fois. (8촀\0Je
 sais pas encore où je vais me poser,
 alors si tu veux bien m'excuser..."
+"007_01","( 촀\0Oh, une nouvelle tête! Enchantée!
+\0
+(촀\0Je m'appelle n
+\0!\0\0(\0촀\0Je t'aurais bien proposé de faire la
+fête, maisn\0\0 je suis sur le départ.
+\0
+Eh ouais, je déménage.\0\0(촀\0Je ne mettrai plus l'ambiance à n\0, alors il va falloir apprendre à se passer de moi, lol!\0\0(%촀\0Mais je me suis bien amusée sur
+cette île! 
+\0($촀\0J'espère que je reverrai
+tout le monde bientôt, n\0!"
 "008","($촀\0Merci, n\0!
 \0
 (1촀\0Je vais parcourir le vaste monde

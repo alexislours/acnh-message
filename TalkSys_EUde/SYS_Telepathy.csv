@@ -47,10 +47,12 @@ damit man vorbeikommt!"
 damit man zum \0Flughafen \0￿kommt!"
 "028","Du kannst keine Türdeko
 an ein Zelt hängen!"
-"029","Um einen Baum in ein Loch
-einzupflanzen, musst du eine
-Schaufel in die Hand nehmen."
+"029","Um einen Baum oder einen Busch
+in ein Loch einzupflanzen, musst du
+eine Schaufel in die Hand nehmen."
 "030","Du kannst nichts pflanzen,
+solange jemand in der Nähe ist."
+"031","Du kannst nichts vergraben,
 solange jemand in der Nähe ist."
 "051","Hier ist nicht genug Platz dafür."
 "052","In diesem Zimmer ist kein
@@ -148,6 +150,8 @@ besten Freundes einsetzen."
 "414","Du kannst gerade nichts mehr essen."
 "415","Du kannst so etwas nur auf der Insel
 eines besten Freundes pflanzen."
+"416","Du kannst das jetzt nicht anlegen!"
+"417","Du kannst jetzt keine Zäune bauen!"
 "430","Du kannst diesen Gegenstand nicht
 wegtun, da dein Lager voll ist!"
 "438","Das passt nicht alles in dein Lager!"

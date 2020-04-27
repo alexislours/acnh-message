@@ -166,31 +166,14 @@ d'honneur pour ma victoire, n\0?"
 \0 Je ne lutterai pas plus longtemps.
 \0 (
 촀\0C'est pourtant un beau sport,
-\0 la lutte!\0\0(촀\0T'es pas d'accord,
-\0 euhn\0\0
-\0 (촀\0attendsn\0\0
-\0
-tu veux bien me rappeler ton nom?
-\0
-(%촀\0Ah,
-\0 n\0,
-\0 c'est ça!
-(5촀\0Tu voulais 2
+\0 la lutte!\0\0(5촀\0Tu voulais 2
 que qu'⁠n
 \0 vienne vivre à n	\0?\0\0Écoute, j'ai rien contre, mais je dois
 d'abord voir avec le \0bureau des
 résidents\0￿."
-"206_02","(9촀\0Je sais reconnaître ma défaite!
-\0 (7촀\0Ohn\0\0
-\0
-tu peux juste me rappeler ton nom?
-\0
-(%촀\02\0n\0,
-\0 hein?
-\0 Merci!\0\0(5촀\0Eh bien,
-\0 n\0,
-\0 n
-\0 est 2\0n\0 de parole!\0\0(6촀\0Tu as gagné,
+"206_02","(9촀\0Je sais reconnaître ma défaite, n\0.
+\0 (5촀\0n
+\0 est 2\0n\0 de parole.\0\0(6촀\0Tu as gagné,
 \0 je vais donc voir avec
 le \0bureau des résidents\0￿ si je peux
 m'installer ici, n\0!"
@@ -199,16 +182,56 @@ m'installer ici, n\0!"
 (촀\0Et en plus,
 \0 tu as remporté la victoire.
 \0
-Bravo,
-\0 euhn\0\0\0\0(7촀\0Ohn\0\0
-\0 tu peux me rappeler comment
-tu t'appelles?
-\0 (%촀\02\0n\0,
-\0 hein?
-\0 Bravo,
-\0 n\0!\0\0(5촀\0Je vais voir au \0bureau des résidents\0￿ s'ils veulent 2
+Bravo!\0\0(5촀\0Je vais voir au \0bureau des résidents
+\0￿s'ils veulent 2
 que qu'⁠n
 \0 intègre l'équipe, n\0!"
+"207_01","(촀\0
+\0Ouah, vous êtes vraiment en manque
+de muscles, à n	\0?\0\0(촀\0Bon, je vais voir si les miens sont
+prêts à revenir sur leur décision,
+n\0!\0\0(촀\0S'ils me font comprendre qu'ils
+veulent vivre ici, alors d'accord.
+\0(
+(5촀\0Tu veux tenter le coup?"
+"207_01_a","Et comment!"
+"207_01_b","En fait, non."
+"207_02","(7촀\0Je sais. Des coéquipiers de mon
+gabarit, ça court pas les rues. 
+\0Si
+n	\0 insisten\0\0\0\0(%촀\0D'accord, on va jouer à nouveau.
+\0
+Bats-moi et j'emménagerai ici.
+
+\0(5촀\0À vos marques, prêts...?"
+"207_02_a","Partez!"
+"207_02_b","En fait, oublie ça."
+"207_03","(6촀\0Tu te crois à la hauteur du défi
+que JE propose?
+\0( (촀\0Ha ha ha! On verra
+bien, n\0!\0\0( 촀\0Oh, attends, 
+\0où est-ce que j'ai mis
+mesn\0\0
+\0 (촀\0Argh!\0\0(2촀\0J'étais prêt à te défier dans un match 2""촀de d'\0촀, 
+\0mais j'ai dû oublier mon équipement à la maison.\0\0(촀\0Tant pisn\0\0 Et si on jouait aux cartes,
+à la place? 
+\0C'est moins épique, mais
+si tu gagnes, j'emménage ici."
+"207_03_a","Amène tes cartes!"
+"207_03_b","Sans moi."
+"208_01","(촀\0Tu as raison. 
+\0On leur a demandé une
+fois, ça suffit."
+"208_02","(촀\0Faux départ! 
+\0Et puis on n'a pas
+encore parlé de mon bonus de
+transfert!
+\0 (촀\0Snifn"
+"208_03","('촀\0Je sais, désolé. 
+\0La prochaine fois,
+j'essaierai de penser à mes affaires
+2
+de d'촀."
 "302","(촀\0Mauvaise nouvellen\0\0
 \0 Le \0bureau des
 résidents\0￿ de ton île m'a répondun\0\0
@@ -318,6 +341,16 @@ pour accueillir d'autres habitants.\0\0(%촀\0Je comprends.
 \0
 je risquerais de pousser quelqu'un
 dans la mer par mégarde!"
+"405","(촀\0Le \0bureau des résidents\0￿ de ton île
+m'a répondu,
+\0 ('촀\0et c'est non :
+\0 il n'y a
+plus aucun terrain en vente.\0\0(촀\0Et j'ai vérifié, j'ai même pas le droit
+d'habiter dans mon kayak à la place.
+\0
+(
+촀\0C'est fou ça,
+\0 n\0!"
 "406","(촀\0Je viens juste d'avoir la réponse du
 \0bureau des résidents\0￿ de ton île.\0\0(촀\0Ben ça y est,
 \0 on va devenir voisins!
@@ -352,6 +385,13 @@ c'était une destination si appréciée!\0\0(5촀\0Ou alors,
 \0 ils ont eu peur que ma
 musculature éblouissante provoque
 des mouvements de foule!"
+"424","(%촀\0Il paraît qu'y a plus aucun terrain
+à vendre sur ton îlen\0\0
+\0 Tu m'avais pas
+dit qu'elle était aussi populaire!\0\0(""촀\0Si jamais un emplacement se libèren\0\0
+\0
+fais-moi signe,
+\0 hein! 2\0n\0!"
 "504","(촀\0Depuis que je suis ici,
 \0 je suis SUPER
 efficace aux entraînements.

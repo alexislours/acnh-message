@@ -179,6 +179,53 @@ para cuando llegue a la isla!
 (3촀\0Ahora mismo voy a hablar con
 los de la \0oficina de gestión\0￿ y a
 pedirles permiso."
+"207_01","(3촀\0Sí que tienes ganas de que sea
+tu vecina, ¿eh?
+\0(%촀\0 Pues si tan claro
+lo tienes, hagamos una cosa.
+(
+촀\0Echamos una partidita de un juego y,
+si ganas tú, ¡me mudo de inmediato!
+\0
+(촀\0¿Te parece, n\0?"
+"207_01_a","¡Juguemos!"
+"207_01_b","Mejor paso..."
+"207_02","(촀\0¿Todavía quieres que venga a vivir
+aquí aunque dije antes que no?
+\0
+¡Me siento muy halagada, tú!
+(%촀\0Pues mira: decidámoslo en un juego.
+\0
+(5촀\0Si ganas tú, ¡me mudo aquí y punto,
+n\0!"
+"207_02_a","¡A jugar!"
+"207_02_b","Mejor no"
+"207_03","(2촀\0Ufff, al verte tan emocionad2oa
+haces que me lo replantee todo.
+\0
+(촀\0Bueno, ¡segunda oportunidad!
+Lo dejamos a la suerte, (%촀\0¿sí?
+\0 Si ganas
+tú, ¡me mudo cuanto antes! 
+\0(&촀\0¿Qué te
+parece?"
+"207_03_a","¡Juguemos!"
+"207_03_b","Mejor paso..."
+"208_01","(촀\0¿Pasas?
+\0 ¿Así como así?
+\0 Buenon\0\0
+\0
+(촀\0Al menos lo intenté, tú."
+"208_02","(촀\0¿Ah, no? 
+\0¿De verdad?
+\0(촀\0 Y yo que
+juraba que dirías que sín\0\0
+\0 En fin,
+otra vez será."
+"208_03","(촀\0Osh, ni hablarn\0\0 
+\0(촀\0Pensaba que sí
+querríasn\0\0
+\0 En fin."
 "302","(%촀\0A ver, ya hablé con los de la \02\0Ȃ촄oficina de gestión vecinal\0￿ yn\0\0
 \0 no sé yo cómo le vamos a hacer.\0\0(촀\0Me dijeron que no hay espacio en
 la isla para que pueda vivir aquí.\0\0(
@@ -246,7 +293,7 @@ que convencer para que se retire de
 la isla?"
 "312","Bueno, cuando uno cambia de
 opinión, cambia de opinión y ya.\0\0(5촀\0¡Me conformo con que te lleves
-un buen recuerdo de mí!\0\0(3촀\0\0Como si fuera posible no llevárselo,n\0n\0\0\0￿"
+un buen recuerdo de mí!\0\0(3촀\0\0Como si fuera posible no llevárselo, n\0n\0\0\0￿"
 "313","(%촀\0A ver, los de la \0oficina de gestión\0￿
 \0vecinal\0￿ me dijeron que quizás
 s촀 se quiera mudar.
@@ -266,6 +313,15 @@ Ni hablarn\0\0
 \0 ¿Qué, (3촀\0qué se siente al
 vivir en un lugar tan cotizado?\0\0(5촀\0En fin, espero poder descubrirlo
 por mí misma algún día."
+"405","(%촀\0Pues ya hablé con los de la \02\0Ȃ촄oficina de gestión vecinal \0￿y 
+\0(촀\0este no es buen
+momento para que me mude.\0\0('촀\0Al parecer no hay ningún terreno
+disponible donde pueda poner mi
+madrigueran\0\0
+(!촀\0¡Tú no pierdas la esperanza! 
+\0(5촀\0Cuando
+me empeño en algo, ¡lo consigo
+porque lo consigo!"
 "406","(2촀\0Pueees resulta que ya hablé con los
 de la \02\0Ȃ촄oficina de gestión vecinal\0￿ yn\0\0
 \0
@@ -301,6 +357,12 @@ días, tú.
 Bueno, (2촀\0a ver si cuando se pase
 esta popularidad tan loca tengo
 más suerte, n\0."
+"424","(
+촀\0Qué curioso que no quede ni
+un terrenito donde edificar en
+la isla.
+En fin, (촀\0a lo mejor luego podremos
+ser vecin2oasn\0\0 a lo mejor."
 "504","(
 촀\0Mira, vengo de una isla bien chévere,
 \0

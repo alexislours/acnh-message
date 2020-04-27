@@ -117,6 +117,9 @@ casa para optar a ese programa.\0￿"
 "0603","Solo es posible pedir 5 artículos
 al día cuya entrega se realiza
 \0por correo\0￿."
+"0702","No tienes suficientes
+\0joyas amorosas\0￿."
+"0702_a","¡Vale!"
 "0802","\0\0Juego local o en línea\0￿
 Los usuarios con quienes juegues en
 red podrán ver los contenidos que
@@ -849,15 +852,15 @@ de Nintendo 3DS?"
 "2102","Se ha encontrado un diseño
 personalizado llamado
 \0s촀\0￿.
-Elige donde guardarlo."
+Elige dónde guardarlo."
 "2102_a","Atrás"
-"2102_b","¡Sí!"
+"2102_b","Vale"
 "2103","Se ha encontrado un diseño
 profesional llamado
 \0s촀\0￿.
-Elige donde guardarlo."
+Elige dónde guardarlo."
 "2103_a","Atrás"
-"2103_b","¡Sí!"
+"2103_b","Vale"
 "2110","No se ha encontrado ningún diseño
 personalizado creado para los
 juegos de Nintendo 3DS.
@@ -1506,3 +1509,19 @@ como la lista de mejores amigos.\0\0¿Seguro que quieres volver
 a jugar como \0s\0촀\0￿?"
 "8015_a","No, espera"
 "8015_b","Sí, venga"
+"8016","Este usuario estaba asociado a una
+cuenta Nintendo distinta a la actual.\0\0Si vuelves a iniciar la partida, se
+reiniciará cualquier función que
+utilice internet, como la lista de
+mejores amigos. ¿Quieres continuar?"
+"8016_a","No"
+"8016_b","Sí"
+"8017","Este usuario no está asociado a
+ninguna cuenta Nintendo o bien
+debe volver a iniciar la sesión.\0\0Si vuelves a iniciar la partida, se
+reiniciará cualquier función que
+utilice internet, como la lista de
+mejores amigos. ¿Quieres continuar?"
+"8017_a","No"
+"8017_b","Sí"
+"8019","Volver a empezar la partida"

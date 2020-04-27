@@ -115,6 +115,8 @@ einem Hausvertrag bei Nook Inc.\0￿"
 "0603","Es können pro Tag höchstens
 fünf über Meilen erworbene Items
 \0per Post\0￿ versandt werden."
+"0702","Du hast nicht genug Liebeskristalle!"
+"0702_a","Schließen"
 "0802","\0\0Lokaler Modus und Online-Spiel\0￿
 Beim lokalen und Online-Spiel
 können Mitspieler von Spielern
@@ -1497,3 +1499,22 @@ das Spiel fortsetzt.\0\0Möchtest du das Spiel als
 \0s\0촀\0￿ fortsetzen?"
 "8015_a","Nicht sicher"
 "8015_b","Ja"
+"8016","Der mit diesem Nutzer verknüpfte
+Nintendo-Account hat sich geändert.\0\0Alle Funktionen, die das Internet
+nutzen (z.B. die Beste-Freunde-Liste)
+werden zurückgesetzt, wenn du
+das Spiel fortsetzt.\0\0Möchtest du fortfahren?"
+"8016_a","Nein"
+"8016_b","Ja"
+"8017","Mit diesem Nutzer ist kein Nintendo-
+Account verknüpft oder dieser
+Nutzer muss sich erneut mit seinem
+Nintendo-Account anmelden.\0\0Alle Funktionen, die das Internet
+nutzen (z.B. die Beste-Freunde-Liste)
+werden zurückgesetzt, wenn du
+das Spiel fortsetzt.\0\0Möchtest du fortfahren und alle
+Funktionen, die eine Internetver-
+bindung benötigen, zurücksetzen?"
+"8017_a","Nein"
+"8017_b","Ja"
+"8019","Das Spiel wird fortgesetzt."

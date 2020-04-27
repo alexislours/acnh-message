@@ -12,6 +12,7 @@
 "011","My dear n\0,"
 "012","My goodness, n\0!"
 "013","Well, well, n\0!"
+"014","My word, n\0!"
 "018","Oh, n\0!"
 "019","Goodness, n\0!"
 "020","Funny thing, n\0,"
@@ -93,6 +94,12 @@ a practical present! I'm not terribly
 handy, but it's something I'm sure
 I'll use! I do hope you get some
 use out of my present too."
+"114","Are you sure you don't mind giving
+me such an extravagant present?
+I mean, if you insist! I can't wait
+to sit back with a cup of tea and
+admire my new art. Now, you must
+accept this token of my gratitude!"
 "118","The fossil you gave me—what a
 gift! It contains the secrets of the
 ancient world! I get chills just
@@ -142,6 +149,8 @@ spirits similarly!"
 "212","With love, n
 "
 "213","Enjoy! –n
+"
+"214","Feeling very cultured, n
 "
 "218","Still in awe, n
 "

@@ -4,6 +4,11 @@
 "003","Te cuento, n\0:"
 "004","¿Cómo va eso, n\0?"
 "005","¿Qué tal, colega?"
+"006","Ha llegado la hora, n\0:"
+"007","Qué cosas, n\0:"
+"008","Perdón por si acaso, n\0:"
+"009","Te lo puedo explicar, n\0:"
+"010","¿Coincidencia, n\0?"
 "101","Dicen que si plantas una flor y
 pides un deseo, este se cumplirá
 cuando florezca. Yo no me creo
@@ -32,6 +37,34 @@ un mueble que no uso nunca.
 tirado criando polvo, así que he
 pensado en endosar... ¡regalártelo
 a ti! Sí, eso."
+"106","Una colega me dio esto hace la tira
+de tiempo. Hemos vivido aventuras,
+lo hemos dado todo... y ahora te
+toca recibirlo en herencia. Dale
+mucho mimo, ¿eh?"
+"107","¿Nunca te has comprado una
+movida que sabes que no vas a
+usar? Porque está de rebajas o
+porque alguien te convence de que
+es una buena idea... En fin, espero
+que a ti te cunda más que a mí."
+"108","Seguro que en tu familia hay
+alguien que siempre te compra
+ropa pero no tiene ni idea de qué
+estilo te mola, ¿a que sí? Pues esto
+me lo mandó mi tía y era difícil
+acertar menos. ¿Te molará a ti?"
+"109","Sí, ya sé que no parezco el tipo de
+tía que te mandaría plantas y tal,
+pero ¡aquí me tienes! Vi esto y me
+recordó un montonazo a ti, así
+que... ¡a ver si te mola!"
+"110","Ha sido ver esto y pensar en ti
+al instante, tú. ¿Será porque
+tienen un rollo atómico, como
+el que tú te traes? ¿O porque
+ya somos tan colegas que me
+pasan estas movidas? ¡A saber!"
 "201","¡Suerte! n
 "
 "202","¿A que molo? n
@@ -41,4 +74,14 @@ a ti! Sí, eso."
 "204","¡Que no decaiga! n
 "
 "205","¡Cuídalo bien! n
+"
+"206","¡Que lo disfrutes! n
+"
+"207","¡No es muy difícil! n
+"
+"208","¡Espero que sí! n
+"
+"209","¡Si no, no pasa nada! n
+"
+"210","¡Espero que te mole! n
 "

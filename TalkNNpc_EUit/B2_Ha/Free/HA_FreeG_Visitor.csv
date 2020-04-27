@@ -6,7 +6,7 @@ quest'isola, n\0?"
 "001_b","No."
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Ah, OK!
 \0( (""촀\0Mangiane a volontà allora!
 Ahahah!"
@@ -45,6 +45,22 @@ vincerà tutte len\0\0 
 sempre, n\0!"
 "017","<
 "
+"018","(%촀\0Se non l'hai ancora fatto, 
+\0dovresti
+visitare la galleria del nostro museo.
+
+\0(1촀\0È un posto perfetto per meditare.(촀\0\0\0Solo che una volta ero lì a esercitare
+la mia calma interioren\0\0\0\0( 촀\0E quando ho aperto gli occhi c'era
+una folla che prendeva appunti.\0\0(2촀\0Però qualcuno ha detto che ero parte
+del ""periodo muscoloso"" di qualche
+artista, 
+\0(촀\0quindi alla fine è stato bello."
+"019","($촀\0Ti piace n\0?
+\0 Io sono felicissimo di essermi trasferito qui, n\0.\0\0(9촀\0Tra l'altro, non immaginavo che
+pescare e catturare insetti 
+\0(촀\0facesse
+lavorare così tanto i muscoli!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -71,6 +87,12 @@ non l'ho provato, ma lo farò presto!"
 \0(
 Non ha muscoli, ma anche così è
 una meraviglia, n\0."
+"031","('촀\0Insomma, 
+\0ho chiesto mille volte di
+esporre i miei muscoli nella galleria
+d'arte del \0museo\0￿ en\0\0 niente.\0\0(촀\0Poi però qualcuno dona 2\0
+ 
+\0ed è subito lì in bella mostra!\0\0(촀\0Non è giusto, n\0."
 "201","(촀\0Vederti mi fa tornare indietro nel
 tempo, quanti ricordin\0\0 (6촀\0Non dirmi
 che hai dimenticato le nostre sfide?!"

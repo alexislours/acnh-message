@@ -198,6 +198,54 @@ before, 
 \0I probably oughta
 make the move official and stuff.\0\0(%촀\0Let me go talk to \0Resident Services
 \0￿reeeeal quick, n\0."
+"207_01","(6촀\0You really want me around, huh?
+\0(
+(촀\0Hey, it's your island. 
+\0If you're sure,
+then mayben\0\0\0\0(촀\0
+\0How about this? 
+\0We'll play a little
+game. You win, and I'll move here.
+\0(
+(&촀\0Sound good, n\0?"
+"207_01_a","Sounds great!"
+"207_01_b","Nah."
+"207_02","(4촀\0OK, I already said no, butn\0\0
+\0((6촀\0you know
+what? 
+\0Maybe there's something to
+n	\0 after all.\0\0()촀\0We'll play a game and let that decide.
+
+\0How's that? 
+\0You win, it's a done deal
+and I'll move here, n\0."
+"207_02_a","Let's do it!"
+"207_02_b","No, thanks."
+"207_03","(2촀\0Alright, fine. 
+\0Now that you got me
+wonderin' if I made the right choice
+earlier, n\0n\0\0\0\0()촀\0We're gonna play a quick game and
+let that decide. If you win, I'm your
+neighbor.
+\0( (&촀\0Whaddaya say?"
+"207_03_a","Game on!"
+"207_03_b","I'll pass."
+"208_01","( 촀\0No, huh? 
+\0Well, alright.
+\0(
+(7촀\0I guess that's that!"
+"208_02","( 촀\0Not interested? Not at all? 
+\0But
+I thought youn\0\0
+\0 (촀\0Alright, maybe
+some other time."
+"208_03","(8촀\0OK, now I'm REALLY
+\0 confused.
+\0
+I thought you wantedn\0\0
+\0( (촀\0Whatever.
+\0
+I can take a hint."
 "302","(%촀\0So,
 \0 I just got off the phone with
 \0Resident Services\0￿n\0\0
@@ -319,6 +367,20 @@ me.
 \0 If n	\0's THAT full,
 
 \0('촀\0I'm gonna have to pass."
+"405","(9촀\0Alright,
+\0 so I just talked to
+\0Resident Services\0￿n\0\0\0\0('촀\0It's not gonna work out.
+\0 They said
+something about there not being any
+plots for sale, n\0.\0\0(촀\0They DID tell me I could move in with
+someone, but I'm kinda over the
+whole 
+\0""having roommates"" thing.\0\0(촀\0It's too bad.
+\0 I was kinda liking the
+idea of living on n	\0.
+\0(
+(7촀\0Oh well.
+\0 Thanks anyway!"
 "406","(촀\0Well, I talked to \0Resident Services\0￿.
 \0(
 (촀\0Guess who's about to be your
@@ -364,6 +426,15 @@ anyone in right now, n\0.\0\0(촀\0That's the way it goes, I guess.
 \0
 But I really was lookin' forward
 to living heren"
+"424","(촀\0Was there, like, 
+\0a building boom on
+n	\0?
+\0 I just got told
+there's no land for sale!\0\0(촀\0I guess it makes sense. 
+\0Everyone
+wants to live where things are
+awesome, right? 
+\0Oh well."
 "504","(%촀\0Pretty comfy island you've got here.
 I really like how it's laid out.
 \0( (6촀\0Plus,

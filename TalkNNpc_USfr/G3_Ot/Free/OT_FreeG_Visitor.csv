@@ -7,7 +7,7 @@ repartir sans y avoir goûté!"
 "001_b","(\0촀\0Ah bon?"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(""촀\0Tu es visiblement bien informé2\0e,
 n\0!
 \0 (촀\0Ce n'est pas toi qui passerais à côté d'un tel festin.\0\0(촀\0C'est bien simple, je n'ai jamais
@@ -51,6 +51,14 @@ ils devraient en construire un ici.
 (촀\0Pourvu que le projet aboutisse."
 "017","<
 "
+"018","()촀\0Savais-tu que tu pouvais admirer
+d'authentiques chefs-d'œuvre au
+\0musée \0￿de notre île?
+Tu as l'âme d'un2\0e artiste ou du moins
+d'un2\0e visiteu2
+rse de musée, je le sens.
+(%촀\0Va donc y faire un tour, 2&mon chouma chérie."
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -79,6 +87,11 @@ avoir visité notre \0musée\0￿.
 voir les fossilesn\0\0
 (촀\0Rien que pour 2\0
 , ça vaut le détourn"
+"031","(촀\0Dis-moi, savais-tu que la 
+ est exposée au \0musée\0￿, n\0?\0\0(%촀\0Si tu ne l'as pas encore admirée, je
+te conseille d'y remédier rapidement.
+\0
+(촀\0Tu ne le regretteras pas, 2&mon chouma chérie."
 "201","<\0ÊÎ"
 "202","Alors, n\0? 
 \0(&촀\0Tu t'es fait2\0e à la vie sans moi?"
@@ -103,8 +116,9 @@ aller.
 \0 Mais je te comprends.
 \0 
 (촀\0Je sais!
-\0( Et si nous passions 
-beaucoup de temps à discuter ensemble aujourd'hui?\0\0(5촀\0Ainsi, tu auras une bonne dose 
+\0( Et si nous passions
+beaucoup de temps à discuter
+ensemble aujourd'hui?\0\0(5촀\0Ainsi, tu auras une bonne dose 
 2
 de d'n
 \0 100 % pure élégance, 2&mon chouma chérie!"

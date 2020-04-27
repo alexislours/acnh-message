@@ -6,7 +6,7 @@ directement récolté sur notre île ?"
 "001_b","Non, dis-m'en plus !"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Ah, bien sûr, quelle question.
 \0
 Tu es un2\0e touriste de goût."
@@ -62,6 +62,15 @@ monden\0\0 (!촀\0L'aile n
 \0 !"
 "017","<
 "
+"018","($촀\0Tu as déjà fait connaissance avec la
+fierté 2
+de d'n\0 ?
+\0(촀\0 Non, pas moi, voyons !
+\0(촀\0 Le \0musée\0￿ !\0\0()촀\0Ce n'est pas qu'un ramassis de vieux
+cailloux et de poiscaille.
+\0(%촀\0 On y trouve
+aussi d'authentiques chefs-d'œuvre !"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -101,6 +110,19 @@ le squelette d'une créature ayant
 vécu il y a des millions d'annéesn\0\0
 (1촀\0Je me demande si mes os auront
 aussi droit à leur exposition un journ"
+"031","()촀\0Si tu cherches à t'offrir un moment
+de détente neuronale, 
+\0(%촀\0je te suggère
+le \0musée \0￿2
+de d'n	\0.
+(촀\0Quand je me sens submergé par ma
+vie trépidante, 
+\0(1촀\0je cours admirer la
+
+.
+(촀\0Et en moins de temps qu'il n'en faut
+pour dire « ouah », je suis à nouveau
+assailli d'idées géniales."
 "201","<\0ÊÎ"
 "202","(4촀\0Dis-moi, j'ai une question sérieuse
 à te posern\0\0\0\0(&촀\0Est-ce que ça t'est déjà arrivé de

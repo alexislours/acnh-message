@@ -184,6 +184,93 @@ werd ich sofort herziehen.
 Erlaubnis vom \0Servicecenter\0￿
 einholen.
 \0 (촀\0Das werd ich gleich tun!"
+"207_01","(촀\0Ist das dein Ernst?
+\0 Und das,
+\0
+obwohl ich dir beim ersten Mal
+einen Korb gegeben habe?
+(2촀\0Ich bin wirklich gerührt. 
+\0(4촀\0Aber ich
+weiß ehrlich gesagt nicht, 
+\0ob ich
+bereit für diesen großen Schritt bin.
+(촀\0Oh! 
+\0Ich hab's! 
+\0(촀\0Wieso überlasse ich
+Fortuna nicht die Entscheidung?
+\0
+Komm, 
+\0wir spielen ein Spiel!
+Wenn du gewinnst, 
+\0zieh ich zu dir
+auf die Insel. 
+\0($촀\0Na, 
+\0wie findest du
+meinen Vorschlag, 
+\0n\0?"
+"207_01_a","Klingt gut!"
+"207_01_b","Ach, lass mal..."
+"207_02","(촀\0Du bist aber ganz schön hartnäckig,
+\0
+n\0.
+\0 Aber ich finde das irgendwie niedlich, 
+\0n\0.\0\0(4촀\0Wenn ich doch bloß nicht so
+entscheidungsunfreudig wäre...
+\0
+(
+촀\0Hm, 
+\0was hältst du von einem Spiel?
+(%촀\0Lassen wir Sieg oder Niederlage
+darüber entscheiden, 
+\0ob ich zu dir
+ziehe oder nicht.
+()촀\0Wenn du gewinnst, 
+\0wechsle ich die
+Insel. 
+\0Verlierst du, 
+\0dannn\0\0
+\0 (촀\0Na, 
+\0das
+überlegen wir uns noch.
+(&촀\0Also,
+\0 spielst du mit?"
+"207_02_a","Klar! Ich gewinne eh!"
+"207_02_b","Nein, danke."
+"207_03","(4촀\0Ich würde ja gerne zusagen, 
+\0abern\0\0
+\0
+(촀\0Spontane Entscheidungen hab ich
+bisher meist bereut.
+(촀\0Ich könnte natürlich auch das
+Schicksal entscheiden lassen. 
+\0Dann
+bräuchte ich mir nichts vorzuwerfen.
+(촀\0Lass uns ein Spiel spielen. 
+\0Wenn du
+gewinnst, 
+\0ziehe ich zu dir. 
+\0(촀\0Wie sieht's
+aus, 
+\0wollen wir direkt loslegen?"
+"207_03_a","Klar doch!"
+"207_03_b","Muss nicht sein..."
+"208_01","(촀\0Du willst nicht? 
+\0Ach,
+\0 wie schade.
+\0(
+(촀\0Jetzt hatte ich mich fast schon ein
+bisschen auf den Umzug gefreut."
+"208_02","( 촀\0Keine Lust auf ein Spielchen also?
+\0
+Na gut, 
+\0()촀\0wenn du gerade nicht magst,
+\0
+kann man da wohl nichts machen."
+"208_03","(촀\0Mit dieser Antwort hatte ich jetzt
+nicht gerechnet. 
+\0(촀\0Aber gut, 
+\0vielleicht
+passt es dir ein andermal besser."
 "302","(""촀\0So, 
 \0da bin ich wieder.
 \0(
@@ -294,6 +381,19 @@ Traum vom Umzug...\0\0(\0촀\0Tja, 
 \0(촀\0Zumindest habe
 ich es versucht, 
 \0n\0."
+"405","(""촀\0So, 
+\0da wäre ich wieder.
+\0( (\0촀\0Stell dir vor,
+\0
+was ich im \0Servicecenter\0￿ erfahren
+habe!\0\0(촀\0Es steht hier momentan kein Plätz-
+chen zum Verkauf bereit.
+\0 (촀\0Also aus
+der Traum vom Umzug...\0\0(\0촀\0Tja, 
+\0was soll's... 
+\0(촀\0Zumindest habe
+ich es versucht, 
+\0n\0."
 "406","(4촀\0Du bist dochn\0\0 n\0, 
 \0richtig?\0\0(""촀\0Entschuldige, 
 \0dass ich dich hier habe
@@ -335,6 +435,8 @@ unnötig auf die Nerven gehen."
 Einwohner aufnehmen... 
 \0(촀\0Das zeugt
 von der Beliebtheit dieser Insel!"
+"424","(8촀\0Wenn es auf n	\0 doch nur noch ein Fleckchen Land zu kaufen gäbe...\0\0(촀\0Ich würde so gern hierherziehen, 
+\0n\0!"
 "504","(촀\0Die Leute auf dieser Insel sind
 so nett! 
 \0Und dann noch die tolle

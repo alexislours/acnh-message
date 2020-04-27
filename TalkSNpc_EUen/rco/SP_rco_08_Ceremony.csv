@@ -1,5 +1,5 @@
 ﻿"label","text"
-"101","(촀\0Oh! You want to take part in the
+"101","(촀\0Oh! You want to take part in a
 ceremony, 
 \0n\0?"
 "102_01","Right now, we're looking at holding a
@@ -50,6 +50,12 @@ completion of our new \0incline\0￿.
 (&촀\0Interested?"
 "102_08_a","(%촀\0I sure am!"
 "102_08_b","('촀\0No, thank you."
+"102_09","(%촀\0Right now, we can hold a ceremony
+to celebrate the completion of the
+\0museum\0￿ remodel.
+\0 (&촀\0Want to take part?"
+"102_09_a","(%촀\0I sure am!"
+"102_09_b","('촀\0No, thank you."
 "111","(촀\0We're celebrating so many different
 things right now! Truly this is a
 wonderful island moment.\0\0(촀\0What ceremony do you want to take

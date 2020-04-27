@@ -23,10 +23,8 @@ el desafío! Debo ir a hablar con \0CJ\0￿."
 "012","¡Pesqué \0Z\0 pez grande\0￿!
 \0
 ¡Ahora a pescar \0Z\0\0 seguidos\0￿!"
-"013","Este no es un \0pez grande\0￿n\0\0
-\0
-¡No pasa nada,
-\0 seguiré intentando!"
+"013","Este no es un \0pez grande\0￿.
+¡No pasa nada, lo volveré a intentar!"
 "020","¡Ya llevo \0Z\0 peces pequeños\0￿!
 \0
 ¡Seguro que puedo pescar
@@ -38,7 +36,7 @@ el desafío! Debo ir a hablar con \0CJ\0￿."
 "022","¡Atrapé \0Z\0 pez pequeño\0￿!
 \0
 ¡Ahora a pescar \0Z\0\0 seguidos\0￿!"
-"023","Esto no es un \0pez pequeño\0￿n\0\0
+"023","Esto no es un \0pez pequeño\0￿...
 \0
 ¡No pasa nada,
 \0 seguiré intentando!"

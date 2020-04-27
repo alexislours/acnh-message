@@ -4,6 +4,11 @@
 "003","Au tableau, n\0 !"
 "004","Coucou, n\0 !"
 "005","Salut, n\0 !"
+"006","2\0n\0 !"
+"007","T'as bonne mine, n\0 !"
+"008","Vive la muscu, n\0 !"
+"009","Toujours à fond, n\0 ?"
+"010","Réfléchis bien, n\0 !"
 "101","Je nettoyais mon matériel après un
 entraînement, et j'ai tout à coup eu
 envie de soulever mon canapé. Un
@@ -34,6 +39,36 @@ lointains ancêtres : port de troncs,
 remontée de rivières à la nage et
 cassage de cailloux. Ce truc que je
 t'envoie m'a été utile, je te l'offre !"
+"106","Si tu veux faire grimper tes stats
+en flèche, il faut bosser ! Et c'est
+vrai pour le sport comme pour la
+déco. Alors voilà déjà de quoi
+t'aider pour la déco, comme ça,
+t'auras fait la moitié du chemin !"
+"107","Je me trompe ou t'aimes bien les
+mystères ? Alors en voici un : j'ai
+mis la patte sur un fossile de dino
+et depuis je me demande combien
+d'haltères il pouvait soulever. J'ai
+cherché, mais je sèche. Et toi ?"
+"108","Je suis tombé sur ce chef-d'œuvre
+en effectuant ma patrouille de nuit
+habituelle. J'ai demandé à tout le
+monde, ça n'appartient visiblement
+à personne. Alors je te l'offre pour
+te remercier..."
+"109","Bien sûr que t'es à fond ! Et tu me
+donnes envie d'en faire autant. Tu
+sais, être ton ami me donne une
+pêche d'enfer : je cours plus, je
+soulève plus, je nage plus... Bref,
+je te dois bien un petit cadeau !"
+"110","Ça t'arrive de vouloir préparer un
+cadeau pour un ami, et d'oublier
+après t'être laissé emporter par
+un entraînement intensif ? Moi non
+plus ! Tiens, et bravo pour tes
+biceps de plus en plus énormes !"
 "201","Ton pote musclé n
 "
 "202","n
@@ -43,4 +78,14 @@ t'envoie m'a été utile, je te l'offre !"
 "204","Amitiés sportives, n
 "
 "205","Bonne aventure ! n
+"
+"206","Ton coach préféré, n
+"
+"207","n
+\0, super-paléontologue"
+"208","pour tout ! n
+"
+"209","Merci encore ! n
+"
+"210","De rien ! n
 "

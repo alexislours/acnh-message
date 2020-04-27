@@ -6,7 +6,7 @@ organic fruit yet?"
 "001_b","No, tell me more!"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Oh, welln\0\0of course you have!
 \0
 You've got good taste."
@@ -57,6 +57,21 @@ of the worldn\0\0
 (!촀\0I can't wait!"
 "017","<
 "
+"018","($촀\0Have you been to see the pride of
+n\0 yet?
+\0 (촀\0No, 
+\0not me!
+\0
+(촀\0The 
+
+\0\02\0n\0\0￿
+
+ \0Museum\0￿!
+()촀\0It's more than just a collection of old
+rocks and smelly fish.
+\0 (%촀\0The new art
+exhibit is definitely worth a visit."
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -102,6 +117,18 @@ an actual creature that lived millions
 of years ago.
 (1촀\0I hope my bones get their own
 exhibit somedayn"
+"031","()촀\0If you're looking for a little mental
+reset,
+\0(%촀\0 I recommend visiting
+n	\0's \0museum\0￿.
+(촀\0Whenever the world gets to be too
+overwhelming,
+\0(1촀\0 I just go and gaze at
+the 
+.
+(\0촀\0(촀\0And before I know it, 
+\0I start to hear
+my own thoughts again."
 "201","<\0ÊÎ"
 "202","(4촀\0Hey, can I ask you something
 that's, 

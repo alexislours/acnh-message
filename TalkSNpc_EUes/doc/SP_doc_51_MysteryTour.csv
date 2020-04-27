@@ -95,8 +95,8 @@ Despegamos en 3n\0\0
 \0 1n"
 "008","((촀\0¡Recibido! 
 \0Apagamos motores y
-abortamos la maniobra de despegue.\0\0(촀\0Avísame si necesitas herramientas
-o que te lleve de vuelta."
+abortamos la maniobra de despegue.\0\0(촀\0Avísame si necesitas usar nuestros
+servicios."
 "011","¿Necesitas herramientas?
 \0
 ¡Recibido! 
@@ -146,3 +146,263 @@ alerta roja.
 seguir explorando la isla.
 \0 (촀\0Pero ve con
 cuidado y no descuides tu posición."
+"041","(촀\0¡Aquí estamos! 
+\0Este es tu destino\0
+\0￿de la \0escapada del Primero de Mayo\0￿.\0\0(%촀\0Lo primero que debes saber es que
+este destino sorpresa es distinto
+de los habituales.
+Verás, 
+\0()촀\0toda la isla es un \0laberinto\0￿
+gigantesco. 
+\0¡Tendrás que averiguar
+por dónde debes avanzar!
+(촀\0Ah, también debo informarte de que
+hemos dejado tu equipaje guardado
+en el mostrador del aeródromo.
+(9촀\0Es decir, deberás explorar la isla
+con los \0bolsillos vacíos\0￿.\0\0(촀\0¡Pero que eso no te dé miedo!
+\0 En
+el laberinto encontrarás todo lo que
+necesitas para llegar a su centro.
+(%촀\0Si te quedas atascad2oa o no eres
+capaz de salir, 
+\0($촀\0ni que decir tiene que
+puedes llamar al \0servicio de rescate\0￿.
+Nuestrosn\0\0
+\0(2촀\0 amigos
+\0 topógrafos
+\0 se
+pondrán manos a la obra y 
+\0(촀\0dejarán
+el laberinto como estaba al inicio.
+($촀\0¡Así podrás volver a intentar
+recorrerlo de cero otra vez!\0\0(촀\0Y si en algún momento crees que
+necesitas ayuda, puedo darte alguna
+pistan\0\0
+(촀\0Bien, creo que ya te he dado toda
+la información esencial, 
+\0(%촀\0así que te
+dejaré para que te concentres.
+($촀\0¡Mucha suerte, papagay2oa!
+\0
+-촀\0Cambio y corto."
+"042","(&촀\0¿Te has atascado? 
+\0¿Te has perdido?
+¿Necesitas ayuda? 
+\0Cambio."
+"042_a","¡Dame una pista!"
+"042_b","Quiero herramientas"
+"042_c","¡Me vuelvo a casa!"
+"042_d","Nada, déjalo"
+"043","(9촀\0Antes de emprender el vuelo de
+vuelta, debo advertirte una cosa.\0\0()촀\0Los destinos de la \0escapada del
+Primero de Mayo\0￿ son distintos
+cada vez.
+('촀\0Si nos marchamos, no podrás volver.
+\0
+(&촀\0Bien, ¿despegamos?"
+"043_a","¡Sí, volvamos a casa!"
+"043_b","No, espera..."
+"044","('촀\0Mira que lo siento, papagay2oa, 
+\0pero
+no puedo proporcionarte ninguna
+herramienta durante esta visita.
+(촀\0Ahí está precisamente la gracia de
+la \0escapada del Primero de Mayo\0￿:
+\0
+¡en salir adelante con lo justo!
+(%촀\0Dispones de pocos recursos, pero
+deberían ser más que suficientes.\0\0($촀\0¡Confía en tus capacidades!
+\0
+Cambio y corto."
+"045","( 촀\0¿Quieres alguna pista?
+\0 Recibido.
+\0
+(
+촀\0Veamosn\0\0
+\0 Déjame ver qué puedo
+decirte, papagay2oa."
+"046_0","(촀\0¡Ah, ya sé!
+\0 ¿Sabías que, (&촀\0si comes
+\0fruta\0￿, te sentirás con mucha más
+energía?
+()촀\0Te volverás tan fuerte que serás
+capaz incluso de \0arrancar árboles\0￿
+\0de cuajo \0￿o de romper rocas.
+($촀\0¡Y lo único que necesitas es la ayuda
+de una pala o hacha!\0\0(%촀\0Espero que te resulte útil la pista.
+\0
+Cambio y corto, papagay2oa."
+"046_1","(촀\0¡Ah, ya sé!
+\0 ¿Sabías que, (&촀\0si un río
+no es muy ancho, puedes cruzarlo
+de un simple salto?
+(촀\0Es tan sencillo como mover \0 \0￿en
+la dirección que quierasn\0\0
+\0 ¡y listo!\0\0(%촀\0Espero que te resulte útil la pista.
+\0
+Cambio y corto, papagay2oa."
+"046_2","(촀\0¡Ah, ya sé!
+\0 ¿Sabías que, (&촀\0si te atascas
+y no eres capaz de seguir adelante,
+puedes llamar al \0servicio de rescate\0￿?
+(""촀\0Se encargarán de devolver la isla a
+su estado original para que puedas
+enfrentarte al laberinto de cero.
+(%촀\0Espero que te resulte útil la pista.
+\0
+Cambio y corto, papagay2oa."
+"046_3","(촀\0¡Ah, ya sé!
+\0 ¿Sabías que, (&촀\0si te topas
+con un árbol en el camino, tienes
+dos opciones?
+(%촀\0La primera es comer fruta
+y arrancarlo con una\0 pala\0￿.\0\0()촀\0La segunda consiste en talarlo con
+ayuda de un \0hacha \0￿y luego arrancar
+el tocón con una \0pala\0￿.
+($촀\0Espero que te resulte útil la pista.
+\0
+Cambio y corto, papagay2oa."
+"046_4","(촀\0¡Ah, ya sé!
+\0 ¿Sabías que, (&촀\0si necesitas
+alguna herramienta en concreto, te
+la puedes fabricar tú mism2oa?
+()촀\0Ya sabes cómo va lo del bricolaje:
+\0
+juntas los materiales necesarios,
+los llevas al \0banco\0￿n\0\0
+\0 ¡y a crear!
+(%촀\0Espero que te resulte útil la pista.
+\0
+Cambio y corto, papagay2oa."
+"047","(촀\0Si no lo veo, no lo creo. 
+\0¿Es posible
+que hayas logrado atravesar el
+laberinto, papagay2oa?"
+"047_a","Así es"
+"047_b","¡Ha sido facilísimo!"
+"048","(촀\0¡Qué águila!
+\0 Ya se lo estás contando
+a \0Tom Nook\0￿;
+\0 seguro que le hace
+ilusión saberlo.
+A todo eston\0\0
+\0( 촀\0 No he podido evitar
+fijarme en que llevas encima algo
+que este dodo no había visto (%촁\0
+\0antes.
+(
+촀\0¿Y (\0촁\0dices que te lo ha dado alguien
+que pasaba por ahí?(%촁\0
+\0 Qué curioson\0\0
+\0(\0촁\0\0\0(촀\0Bien, será todo un placer para Dodo
+Airlines transportar algo tan preciado
+a tu hogar.
+(촀\0Bien, pues con esto ya está todo
+listo para que termines tu \0escapada\0￿
+\0del Primero de Mayo\0￿.
+($촀\0Avísame cuando quieras alzar
+el vuelo.\0\0(%촀\0Por cierto, si te quedas atascad2oa o
+no eres capaz de salir, 
+\0($촀\0puedes llamar
+al \0servicio de rescate\0￿.
+Nuestrosn\0\0
+\0(2촀\0 amigos
+\0 topógrafos
+\0 se
+pondrán manos a la obra y 
+\0(촀\0dejarán
+el laberinto como estaba al inicio.
+($촀\0¡Así podrás volver a intentar
+recorrerlo de cero otra vez!
+\0
+Cambio y corto."
+"049","( 촀\0Aquí Delta Oscar Dos llamando a
+papagay2oa, 
+\0(&촀\0¿list2oa para emprender
+el vuelo?(\0촀\0 
+\0Cambio."
+"049_a","¡Vamos allá!"
+"049_b","Todavía no"
+"050","( 촀\0Veo que nuestros amigos del \0servicio
+de rescate\0￿ te han echado una mano,
+n\0.
+(%촀\0Verás que la isla ha vuelto a su
+estado original, así que puedes tratar
+de recorrer el laberinto de nuevo.
+(촀\0Y no te preocupes: si vuelves a
+atascarte o algo por el estilo, ¡el
+\0servicio de rescate\0￿ acudirá de nuevo!
+(9촀\0Bien, ahora toca reunir valor yn\0\0
+\0
+¡enfrentarse al reto otra vez!
+\0
+-촀\0¡Suerte, papagay2oa! 
+\0Cambio y corto."
+"051","(&촀\0Ah, ¿echas de menos n	\0⁠?\0\0($촀\0Si quieres recorrer el laberinto de
+nuevo, debes ponerte en contacto
+con el \0servicio de rescate\0￿."
+"051_a","¡Quiero irme a casa!"
+"051_b","Me quedo un rato"
+"052","($촀\0¡Recibido! 
+\0Dodo Airlines se ocupará
+de que todo tu equipaje llegue sin
+problema a n	\0.
+()촀\0Una vez en la isla, deberías tenerlo
+todo en los bolsillos,
+\0 aunque ese
+\0regalo\0￿ especial irá directo al buzón.
+Bien, 
+\0si ya está todo listo, 
+\0(&촀\0¿ponemos
+rumbo a casa? 
+\0Cambio."
+"052_a","¡Sí, porfa!"
+"052_b","Todavía no..."
+"053","($촀\0¡Recibido! 
+\0Dodo Airlines se ocupará
+de que todo tu equipaje llegue sin
+problema a n	\0.
+()촀\0Una vez en la isla, deberías tenerlo
+todo en los bolsillos,
+\0 aunque ese
+\0regalo\0￿ especial irá directo al buzón.
+(%촀\0Lo mismo se aplica a cualquier
+\0cupón de bayas\0￿ que hayas obtenido
+durante la visita. 
+\0¿Me recibes?
+Bien, 
+\0si ya está todo listo, 
+\0(&촀\0¿ponemos
+rumbo a casa? 
+\0Cambio."
+"053_a","¡Sí, porfa!"
+"053_b","Todavía no..."
+"054","($촀\0¡Recibido! 
+\0Dodo Airlines se ocupará
+de que todo tu equipaje llegue sin
+problema a n	\0.
+(9촀\0Una vez en la isla, deberías tenerlo
+todo en los bolsillos.\0\0()촀\0Bueno, todo menos los \0cupones de\0￿
+\0bayas \0￿que hayas podido encontrar
+durante tu visita.\0
+(%촀\0\0￿Esos irán\0 \0￿directos al buzón, así que
+no te olvides de echarle un ojo.\0\0Bien, 
+\0si ya está todo listo, 
+\0(&촀\0¿ponemos
+rumbo a casa? 
+\0Cambio."
+"054_a","¡Sí, porfa!"
+"054_b","Todavía no..."
+"055","(9촀\0Antes de emprender el vuelo de
+vuelta, debo advertirte de una cosa.\0\0()촀\0Los destinos de la \0escapada del
+Primero de Mayo\0￿ son distintos
+cada vez.
+('촀\0Si nos marchamos, no podrás volver.
+\0
+(
+촀\0\0(Aunque parece que ya le has sacado
+el máximo partido a esta islan\0\0)\0￿
+(&촀\0Bien, ¿despegamos?"
+"055_a","¡Sí, porfa!"
+"055_b","Todavía no..."

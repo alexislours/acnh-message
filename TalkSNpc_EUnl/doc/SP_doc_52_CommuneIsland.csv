@@ -3,6 +3,10 @@
 maar weten als je het hier wel hebt
 gezien.
 \0((촀"
+"002","(촀\0Er is sprake van een atmosferische
+storing!
+\0(\0촀\0 Zo te horen wordt er flink
+wat gekletst via de radion"
 "101","Hallo, hallo. Dodo aan eiland-
 bewoner.
 \0(&촀\0 Wat kan ik voor je doen?(\0촀\0
@@ -10,8 +14,8 @@ bewoner.
 \0Over."
 "101_a","Ik wil naar huis."
 "101_b","Laat maar."
-"102","(9촀\0Wil je dit feest verlaten en terug naar
-n""\0 gaan?"
+"102","(9촀\0Weet je zeker dat je terug naar
+n	\0 wilt gaan?"
 "102_a","Ja!"
 "102_b","Nee, toch niet..."
 "103","((촀\0
@@ -23,3 +27,99 @@ naar luchtruim. (9촀\0Daar gaan we!"
 kereldame.
 
 \0Geen haast."
+"105","(촀\0Opgelet, loopvogel!
+\0(\0촀\0 Deze spotter
+heeft informatie voor jou. Ja, voor
+jou, n\0n\0\0
+(촀\0Wij bij Dodo Airlines \0bezorgen
+voorwerpen en kopen ze ook in\0￿.
+Sinds
+\0 nu.
+\0 Voor jou.
+\0 Luid en duidelijk?
+(\0촀\0Kijk, je kunt flapperen zoveel je wilt,
+maar een (촀\0overvolle vogel komt niet
+van de grond.
+\0(\0촀\0 Luid en duidelijk?\0\0(촀\0Maar ik ben nog niet uitgesnaterd!\0\0()촀\0Soms moet je je ei kwijt óf wat van
+je lading om vlot te kunnen vliegen.
+\0
+Luid en duidelijk?
+\0 (촀\0Luid en duidelijk!
+(;촀\0Dus!
+\0(촀\0 Dump gerust wat van je spullen
+bij ons.
+\0(촀\0 Die sturen we dan naar je
+thuisbasis of kopen we van je over.\0\0(%촀\0Ik zal je nu veerfijn uitleggen hoe
+dat werkt!(촀"
+"106","(\0촀\0Ten eerste is er onze \0bezorgdienst\0￿!
+\0(촀\0
+Wij brengen al je spullen intact en
+vliegensvlug naar je thuisbasis.\0\0(촀\0En daar brengen we geen extra
+kosten voor in rekening(""촀\0, dus vlieg
+zo vaak je wilt met ons!"
+"107","(\0촀\0Wat betreft de \0inkoopdienst\0￿; dodo's
+zijn echte verzamelaars.
+\0 ('촀\0Misschien
+wist je dat nog niet.\0\0(%촀\0Maar het is waar!
+\0 En via deze dienst
+kom je makkelijk van je overtollige
+bagage af, voor wat extra klingels.\0\0()촀\0\0Nooks hoek\0￿, onze partner, helpt bij
+de aankoop. Je krijgt er net zoveel
+voor als bij de verkoopkist.\0\0(\0촀\0Het bedrag vliegt morgen naar je
+NookBank-rekening, vergeet dat
+niet. Luid en duidelijk?"
+"108","(%촀\0Dat is alle dodo-informatie die ik
+wilde bespreken.\0\0(""촀\0Dodo Airlines, over en uit!"
+"110","Hallo, hallo. Dodo aan eiland-
+bewoner.
+\0(&촀\0 Wat kan ik voor je doen?(\0촀\0
+
+\0Over."
+"110_a","Ik wil naar huis."
+"110_b","Bezorgdienst, over!"
+"110_c","Inkoopdienst, over!"
+"110_d","Laat maar."
+"111","(%촀\0Je wilt gebruikmaken van de
+bezorgdienst? Luid en duidelijk.
+\0(&촀\0
+Welke ballast wil je laten bezorgen?"
+"112","(촀\0Hè? Halt!
+\0(
+촀\0 Je opslag thuis is volledig
+afgeladenn\0\0 Er is geen plek meer.\0\0(%촀\0Als je de stuurknuppel om wilt
+gooien en wat dingen wilt verkopen,
+kunnen we je daar ook bij helpen."
+"113","(&촀\0Je gelast de missie af?
+\0(\0촀\0 Nou, kom nog
+maar eens terug als je van gedachten
+verandert."
+"116","(%촀\0Luid en duidelijk.
+\0(촀\0 Je ballast is klaar
+voor vertrek."
+"118","(\0촀\0Onze bezorgers zijn klaar voor
+vertrek.
+\0(촀\0 We brengen je spullen
+regelrecht naar je opslag."
+"120","(%촀\0Wil je wat ballast verkopen?
+\0 (&촀\0Zeg het
+maar, wat wil je kwijt?"
+"121","(촀\0Halt!
+\0(촀\0 Je NookBank-rekening is vol,
+dus je kunt deze dienst nu niet
+gebruikenn\0\0\0\0(\0촀\0Maarn\0\0 je kunt je ballast wel via de
+bezorgdienst thuis laten bezorgen.
+\0
+Wil je dat?"
+"121_a","Ja, graag."
+"121_b","Liever niet."
+"124","(%촀\0Begrepen!
+\0(&촀\0 Waar wil je van af?"
+"125","(촀\0Ballast overgenomen!\0\0(\0촀\0De betaling komt morgen op je
+rekening aan."
+"126","(촀\0De ballast ligt in het ruim!
+\0(\0촀\0 Verder
+hoef je niets meer te doen."
+"127","(""촀\0Dodo Airlines: voor wie zelf niet kan
+vliegen!"
+"200","(&촀\0Heb je zin om op verkenning te
+gaan?"

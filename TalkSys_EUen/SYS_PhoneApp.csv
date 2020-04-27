@@ -63,7 +63,7 @@ am I right?
 \0ya wanna use this service,
 \0 ya
 gotta 
-\0step outside, capice?d"
+\0step outside, capisce?d"
 "021_01","d\0I got it.
 \0 This is n\0
 of n!\0, right?d"
@@ -237,6 +237,18 @@ the planes land.\0￿
 \0 Ya good with that?d"
 "048_a","Yes, please!"
 "048_b","('촁\0Cancel."
+"049","d\0n\0\0Hey! You're on one of them
+\0maze islands \0￿\0Tom Nook \0￿set up,
+ain't ya?\0\0In that case, I'm supposed to drop
+ya \0where the planes land\0￿ so you can
+start overn\0\0 You good with that?d"
+"049_01","d\0n\0\0Hey! You're on one of them
+\0maze islands \0￿\0Tom Nook \0￿set up,
+ain't ya?\0\0In that case, I'm supposed to drop
+ya \0where the planes land\0￿ so you can
+start over!d"
+"049_a","Yes, please!"
+"049_b","('촁\0Cancel."
 "050_01","d\0Your tent? 
 \0No sweat.d"
 "050_02","d\0Your place, huh? 
@@ -502,6 +514,8 @@ area\0￿ for the cleanup service.\0\0This service can only be used
 outdoors on n	\0."
 "301","Looks like the map app won't work
 for this island."
+"311","Hm? It says ""Outside service area.""
+Guess I can't use it here."
 "321","Looks like I can't use the Chat Log
 app during Party Playn"
 "999","\0100 \0￿miles"

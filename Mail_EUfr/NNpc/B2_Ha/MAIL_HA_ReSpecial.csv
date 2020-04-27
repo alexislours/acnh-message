@@ -12,6 +12,7 @@
 "011","Yo, n\0 !"
 "012","Comment ça va, n\0 ?"
 "013","Mon aimable ami2\0e n\0,"
+"014","Hep, n\0,"
 "018","Coucou, n\0 !"
 "019","2\0n\0 l'2.aventurieraventurière,"
 "020","22Mon p'tit garsMa grande n\0,"
@@ -92,6 +93,12 @@ ou presque. Merci pour ce présent
 très pratique ! Franchement, il me
 rend bien service : moi, en général,
 j'essaie de tout faire à pattes nues."
+"114","J'ai voulu me muscler le cerveau
+en admirant l'œuvre d'art que tu
+m'as offerte de toutes mes forces,
+mais ça n'a rien donné. Par contre,
+toutes mes cuillères sont tordues
+maintenant... "
 "118","J'ai bien reçu ton fossile, merci !
 T'es sûr2\0e de vouloir me le donner ?
 C'est peut-être la découverte du
@@ -142,6 +149,8 @@ en retour. Encore merci !"
 "
 "213","À bientôt ! n
 "
+"214","n
+\0, tordeur inopiné"
 "218","n
 \0, ton pote en sueur"
 "219","Énergiquement, n

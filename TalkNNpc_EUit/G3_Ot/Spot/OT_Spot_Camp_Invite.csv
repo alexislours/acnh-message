@@ -275,6 +275,85 @@ il via libera dal \0centro servizi\0￿ prima
 di trasferirmi effettivamente.
 ($촀\0Aspetteresti qui mentre io vado
 a parlarne con loro?"
+"207_01","(촀\0Oh!
+\0 Vuoi invitarmin\0\0 un'altra volta?
+\0
+(6촀\0Certo, in effetti ti capisco. Si tratta
+di me, in fondo.
+(
+촀\0Che cosa fare, a questo punton\0\0
+
+\0-(촀\0Ho un'idea! Lascerò che sia il fato
+a decidere per me, n\0!
+()촀\0Ti spiego.
+\0 Potremmo fare un gioco,
+sempre se ti va. Se vinci tu,
+\0 verrò a
+vivere su quest'isola.
+\0((&촀\0 D'accordo?"
+"207_01_a","Sì, certo."
+"207_01_b","No, grazie."
+"207_02","( 촀\0Oh, uau. 
+\0Tu che mi chiedi ancora
+una volta di trasferirmi sulla tua
+isola.
+\0 (
+촀\0Sono lusingata e tentatan\0\0
+(6촀\0Io però,
+\0 come sai, 
+\0credo che
+certe cose vadano conquistate.
+Le amicizie, intendo.\0\0($촀\0Perciò possiamo fare così:
+\0()촀\0 facciamo
+un gioco e, se vinci tu, farò i bagagli
+e verrò a vivere su questa bella isola.
+(&촀\0Che pensi della mia idea, 
+\0ti va a
+genio, n\0?"
+"207_02_a","Certamente sì!"
+"207_02_b","No, direi di no."
+"207_03","(촀\0Ohn\0\0 Mi trovi un po' impreparata.
+\0
+Non pensavo che avresti provato
+a invitarmi ancoran\0\0 una volta.
+(6촀\0Ci tieni molto, eh?
+\0 Forse più o meno
+quanto io mi sento lusingata. 
+\0(
+촀\0Solo
+chen\0\0 voglio essere conquistata.
+In che modo, dici?
+\0 ()촀\0Facciamo un
+gioco e, se vinci, mi trasferirò qui.
+
+\0(촀\0Su, dimmi di sì, n\0!"
+"207_03_a","Sì!"
+"207_03_b","Ti devo dire di no."
+"208_01","( 촀\0Ah. D'accordo.
+\0(촀\0 A volte il destino
+segue delle traiettorie inaspettate.
+
+\0Funziona così."
+"208_02","(촀\0Ih ih ih!
+\0 Chi la fa l'aspetti, eh?
+
+\0(%촀\0Anche tu pensi che le vere amicizie
+richiedano più impegno. 
+\0Già.
+(촀\0Magari non mi trasferirò qui con te,
+\0
+ma senza dubbio farò tesoro di ogni
+momento che passeremo insieme."
+"208_03","(촀\0Oh!
+\0 Dici davvero?
+\0(촀\0 Forse non eri
+poi così 2,desiderosodesiderosa di avermi qui
+con te.
+(%촀\0Ne prendo atto. 
+\0((촀\0Comunque sia, ti
+ringrazio molto per l'invito.
+\0 È stato
+un pensiero davvero carino."
 "302","($촀\0Mi dispiace averti fatto aspettare,
 tesoro!
 \0( (촀\0Ho chiesto al \0centro servizi
@@ -401,6 +480,28 @@ un'eccezione per me, n\0!
 \0((촀\0 Ma non
 mi arrendo. Spero ancora di riuscire
 a vivere qui con te, un giorno."
+"405","(촀\0Scusa per l'attesa, tesoro. 
+\0
+Purtroppo
+ho notizie terribilin\0\0
+\0(촀\0 Il mio sogno di
+venire qui è stato distrutto.
+(촀\0Ho parlato con il \0centro servizi\0￿
+e mi hanno detto che non ci sono
+terreni in vendita.
+\0(촀\0 Neanche uno!
+(촀\0Troppa urbanizzazione? 
+\0
+Chissà!
+\0 Ho
+evitato una scenata.
+\0
+ (	촀\0Ma di certo sono
+2\0n\0 molto infelice!
+(%촀\0Forse un dì il mio destino cambierà
+in meglio.
+\0( (촀\0E noi potremo finalmente
+vivere sulla stessa isola."
 "406","(촀\0Mi dispiace per l'attesa, tesoro,
 \0
  ma
@@ -461,6 +562,14 @@ tiene nascosto qualcosa, tesoro?
 trasferire su quest'isola. 
 \0((촀\0Io devo
 stare dove vogliono stare tutti!"
+"424","(
+촀\0È difficile credere che non ci siano
+terreni in vendita su tutta l'isola. 
+\0((&촀\0Uno
+sarà disponibile prima o poi, no?
+('촀\0Che peccato per l'isola!
+\0( (5촀\0Avrei così
+tanto da offrirle!"
 "504","Sai tesoro, 
 \0(%촀\0quest'isola si è
 conquistata un posto speciale

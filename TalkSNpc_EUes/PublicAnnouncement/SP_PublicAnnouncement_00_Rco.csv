@@ -52,7 +52,7 @@ voy a daros un boletín informativo!d"
 "011_01","d\0(촀\0¡Resulta que hoy es el cumpleaños
 de nuestr2oa querid2oa vecin2oa n\0!d"
 "011_02","d\0(촀\0¡Resulta que hoy es el cumpleaños
-de nuestr2oa querid2oa vecin2oa s\0촀!d"
+de nuestr2촀oa\0 querid2촀oa\0 vecin2촀oa\0 s\0촀!d"
 "011_03","d\0(촀\0¡Me complace anunciar que
 hoy es el cumpleaños de s촀!d"
 "012_01_01","d\0(촀\0Hoy no es un día cualquiera,
@@ -85,6 +85,94 @@ las temperaturas, sí, sí.
 especial a celebrarlo con nosotros.
 \0
 (""촀\0Pasaos por la plaza a saludarlo, ¿sí?d"
+"042_01","d\0(촀\0¡Hoy es el \0Primero de Mayo\0￿!
+\0(촀\0 Que no
+se os olvide pasaros por la \0oficina de
+gestión \0￿a por vuestros \0billetes\0￿.
+(촀\0He decidido regalarlos a todos
+los insulanos como muestra de
+mi aprecio.
+(""촀\0Espero que os animéis a aprovechar
+esta oportunidad para explorar
+islas recónditas, ¡sí, sí!d"
+"042_02","d\0(촀\0¡Feliz \0Primero de Mayo\0￿!
+\0(촀\0 Que no se
+os olvide pasaros por la \0oficina de
+gestión \0￿a por vuestros \0billetes\0￿.
+(촀\0He decidido regalarlos a todos
+los insulanos como muestra de
+mi aprecio.
+(""촀\0Espero que os animéis a aprovechar
+esta oportunidad para explorar
+islas recónditas, ¡sí, sí!d"
+"042_03","d\0(촀\0¡Hoy también es el \0Primero de Mayo\0￿!
+\0
+(촀\0Que no se os olvide pasaros por
+la \0oficina \0￿a por vuestros \0billetes\0￿.
+(촀\0He decidido regalarlos a todos
+los insulanos como muestra de
+mi aprecio.
+(""촀\0Espero que os animéis a aprovechar
+esta oportunidad para explorar
+islas recónditas, ¡sí, sí!d"
+"042_04","d\0(촀\0¡Hoy también están en marcha
+las celebraciones del \0Primero
+de Mayo\0￿!
+(촀\0Que no se os olvide pasaros por
+la \0oficina de gestión \0￿a por
+vuestros \0billetes\0￿.
+(촀\0He decidido regalarlos a todos
+los insulanos como muestra de
+mi aprecio.
+(""촀\0Espero que os animéis a aprovechar
+esta oportunidad para explorar
+islas recónditas, ¡sí, sí!d"
+"042_05","d\0(촀\0¡Hoy siguen en marcha
+las celebraciones del
+\0Primero de Mayo\0￿!
+()촀\0Para agradeceros todo vuestro
+apoyo, 
+\0regalamos un \0billete
+Primero de Mayo\0￿ a los residentes.
+(촀\0Usadlo para viajar a una isla
+misteriosa donde hemos preparado
+algo muy especialn\0\0
+(%촀\0Como la \0oficina de gestión\0￿ está en
+obras y no podéis pasar a recogerlo,
+\0
+os lo he dejado en el aeródromo.
+(""촀\0Solo es válido hasta hoy, 
+\0¡así que
+usadlo antes de que termine el día!d"
+"043_01","d\0(촀\0¡Hoy celebramos el \0Día de la
+Naturaleza\0￿!\0\0(%촀\0Es una fiesta que nos recuerda
+que debemos cuidar de nuestro
+querido planeta.
+(촀\0Hemos preparado unas actividades
+especiales que durarán hasta el día
+\04 de mayo\0￿.
+(""촀\0¡Espero que todos os animéis
+a mimar un poco las plantas que
+conviven con nosotros!d"
+"044","d\0(촀\0Estamos en junio, época en la que
+suelen celebrarse muchas \0bodas\0￿,
+sí, sí.
+(%촀\0Dicen que casarse en junio trae
+felicidad y buena suerte.
+\0(""촀\0 ¡Desde aquí
+deseo lo mejor a todas las parejas!d"
+"045","d\0(촀\0Mi querido amigo \0Sócrates \0￿me
+ha pedido que os comunique
+la siguiente noticia.
+()촀\0Con motivo del Día Internacional
+de los Museos,
+\0 se ha organizado
+un evento especial.
+(촀\0Desde el 18 hasta el 31 de mayo,
+podréis participar en la búsqueda de
+sellos que tendrá lugar en el \0museo\0￿.
+(""촀\0Pasaos por allí si os apetece
+apuntaros, ¡sí, sí!d"
 "101","d\0(촀\0¡Acaba de instalarse en la isla
 2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
 s촀!d"
@@ -101,6 +189,17 @@ algo amargan\0\0d"
 "201","d\0(촀\0Con mucha tristeza os comunico que
 s촀 se irá mañana de la isla.\0\0Aprovechad el día de hoy para
 despediros de 2촀élella\0, ¿sí?d"
+"400","d\0(9촀\0Me han comunicado que un individuo
+sospechoso está rondando por las
+islas de la zona.
+()촀\0Parece que se dedica a vender
+antigüedades,
+\0 aunque más de
+una ha resultado ser falsa.
+(촀\0Tened cuidado en qué gastáis
+las bayas, ¿sí?
+\0 Id siempre con
+los ojos bien abiertos.d"
 "600","<"
 "600_01","d\0(촀\0Ah, y una cosa que os quería
 comentarn\0\0d"

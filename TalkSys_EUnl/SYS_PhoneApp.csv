@@ -45,8 +45,8 @@ signalen door elkaar lopen, 
 wordt hetn\0\0 een zooitje.\0\0Als je echt in de nesten zit,
 \0 druk je
 op\0  \0￿om het menu openen en kies
-je \0TERUG NAAR MIJN EILAND\0￿.d\0
-\0d Oké?d"
+je \0TERUG NAAR MIJN EILAND\0￿.
+\0 Oké?d"
 "013","d\0Wacht effe. 
 \0Zit je, eh,
 \0 toevallig in een
@@ -232,6 +232,22 @@ eiland vinden,
 \0 goed?d"
 "048_a","Ja, graag!"
 "048_b","Hm, laat maar."
+"049","d\0Hé daar! Jij zit zeker op een van die
+\0doolhofeilanden\0￿ die \0Tom Nook \0￿in
+elkaar heeft geflanst, of niet?\0\0Hij was helemaal in z'n sas met het
+idee, maar wie maakt er nu overuren
+om iedereen te redden? Precies. Ik.\0\0Ik moet je afleveren \0waar het
+vliegtuig landt\0￿, zodat je het nog
+eens kunt proberen. Goed?d"
+"049_01","d\0Hé daar! Jij zit zeker op een van die
+\0doolhofeilanden\0￿ die \0Tom Nook \0￿in
+elkaar heeft geflanst, of niet?\0\0Hij was helemaal in z'n sas met het
+idee, maar wie maakt er nu overuren
+om iedereen te redden? Precies. Ik.\0\0Ik moet je afleveren \0waar het
+vliegtuig landt\0￿, zodat je het nog
+eens kunt proberen.d"
+"049_a","Ja, graag!"
+"049_b","Hm, laat maar."
 "050_01","d\0Je tent? 
 \0Geen probleem.d"
 "050_02","d\0Je huis? 
@@ -483,6 +499,8 @@ bomen uit je directe omgeving."
 de opruimdienst.\0\0Op n	\0 kan deze dienst alleen buiten gebruikt worden."
 "301","De plattegrond-app werkt kennelijk
 niet voor dit eiland."
+"311","O? Een foutmelding? Zo te zien
+kun je de app hier niet gebruiken."
 "321","Zo te zien kun je tijdens het buurten
 niet van de \0Chatgeschiedenis\0￿-app
 gebruikmakenn"

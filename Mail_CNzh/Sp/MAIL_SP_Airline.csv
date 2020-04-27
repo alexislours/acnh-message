@@ -10,6 +10,8 @@
 "009","n"
 "010","n"
 "011","n"
+"020","n"
+"021","n"
 "101","感谢您多次搭乘
 DodoAirLines的航班。
 为表答谢之情，
@@ -65,6 +67,16 @@ DodoAirLines的航班。
 为表答谢之情，
 特此送上
 我司的定制周边。"
+"120","感谢您多次搭乘
+DodoAirLines的航班。
+\0陌陌\0￿为参加劳动节旅行的各位
+准备了礼物。
+请您查收。"
+"121","感谢您多次搭乘
+DodoAirLines的航班。
+我们为参加劳动节旅行的各位
+准备了\0铃钱兑换券\0￿。
+请您查收。"
 "201","DodoAirLines"
 "202","DodoAirLines"
 "203","DodoAirLines"
@@ -76,3 +88,5 @@ DodoAirLines的航班。
 "209","DodoAirLines"
 "210","DodoAirLines"
 "211","DodoAirLines"
+"220","DodoAirLines"
+"221","DodoAirLines"

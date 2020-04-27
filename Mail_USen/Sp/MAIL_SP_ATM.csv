@@ -1,8 +1,16 @@
 ﻿"label","text"
 "001","Dear n\0,"
+"002","Dear n\0,"
 "101","Thank you for maintaining your
 Bank of Nook account. We do
 appreciate your business. Your
 earned interest of Z\0
 has been added to your account."
-"201","Bank of Nook, n	"
+"102","We are writing to inform you that
+we have reduced the interest rate
+offered to all savings accounts. As
+an apology for any inconvenience,
+please enjoy the attached gift.
+We appreciate your business!"
+"201","Bank of Nook, 2\0n	"
+"202","Bank of Nook"

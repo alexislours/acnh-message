@@ -6,7 +6,7 @@
 \0.\0d
 \0((촀\0
 P\0 (촀\0
-\0\0OUH OUH?!\0d
+\0\0HOU HOU?!\0d
 <"
 "002","(촀\0Oh!
 \0 Pardon!
@@ -205,6 +205,24 @@ don, tu sais!
 \0(촀\0 Alors, voyonsn\0\0
 
 "
+"107","
+\0(촀\0HOU HOU!
+\0
+	\0\0\0(촀\0Maisn\0\0 Ces œuvres sont toutes fausses!
+\0( (\0촀\0Tu m'en vois terriblement navré,
+\0 mais('촀\0
+\0 je dois refuser.
+Ce ne serait pas sérieux de ma part
+d'exposer des copies."
+"108","
+\0(촀\0HOU...
+\0
+	\0\0\0(촀\0Tu sais que je ne peux accepter les
+fauxn\0\0
+\0 Tu comprends, 
+\0('촀\0cela ne ferait
+pas sérieuxn\0\0
+(촀\0Mais j'accepte volontiers le reste."
 "109","(촀\0Fantastique!
 \0(촀\0 C'est avec joie que je
 te déleste."
@@ -264,10 +282,10 @@ davantage sur ce spécimen?"
 après tout.(\0촀"
 "119","(\0촀\0Houn\0\0
 \0 (촀\0Je te remercie sincèrement de
-ta donation.\0\0(\0촀\0Les insectes me font dresser les
-aigrettes sur la tête,
-\0 ((촀\0mais je prendrai
-soin de ton infecte bestiole."
+ton don.\0\0(\0촀\0Certaines créatures me font dresser
+les aigrettes sur la tête,
+\0 ((촀\0mais il est
+de mon devoir d'en prendre soin."
 "120","<"
 "120_01","(촀\0Hou hou!
 \0 (%촀\02\02\0}\0\0!
@@ -320,7 +338,7 @@ reconstitué afin que 
 dans toute sa majestueuse beauté!(\0촀\0
 (촀\0Merci pour tout, hou hou!(\0촀"
 "130","(촀\02\02\0}\0\0 en excellente condition!
-\0 Quelle aubaine!\0\0(:촀\0Hum, je présume que tu souhaites
+\0 Quelle aubaine!\0\0(:촀\0Houm, je présume que tu souhaites
 \0(4촀\0
 un bref exposé à son sujet?"
 "130_a","Et comment!"
@@ -345,6 +363,51 @@ peut-êtren\0\0\0\0En attendant,(%촀\0 nous prendrons
 grand soin de cette pièce.
 \0(촀\0
 Foi de hibou, hou hou!"
+"135","<"
+"135_01","(촀\0Hou, HOU!
+\0 Rêverais-je?
+\0 C'est 2\0}\0\0!
+\0((&촀\0 Est-2촀ilelle\0 authentique?\0\0(촀\0Oui!
+\0 Il n'y a aucun doute possible.
+\0(
+(촀\02촀IlElle\0 est encore plus magnifique que
+je ne me l'imaginais."
+"135_02","(촀\0HOU!
+\0( À moins que je ne me trompe,
+\0(
+(\0촀\0ce qui n'est pas le cas,
+\0((""촀\0 ceci est 2\0
+}\0\0!
+(촀\0Et je ne parle pas d'une contrefaçon,
+nous avons affaire à une œuvre 
+originale.
+\0( J'en suis tout ébouhi!"
+"135_03","(촀\0Hou hou hou! 
+\0Mais c'est 2\0}\0\0, si je ne m'abuse! 
+\0(%촀\0Mais oui!\0\0('촀\0Je n'aurais jamais cru en apercevoir
+2촀unune\0 un jour, mais grâce à toi, j'ai eu
+cette chance!"
+"138","Hou! 
+\0Ma parole!
+\0 Mais c'est
+2\0}\0\0!"
+"139","
+\0Euh,
+\0(촀\0
+
+\0 \0HOU!!!\0d
+	\0
+\0\0\0(촀\0Après un examen plus approfondi, 
+\0
+je suis au regret de t'informer que
+cette œuvren\0\0 
+\0est une imitation!"
+"140","(촀\0Crois bien que j'en suis navré, 
+\0mais
+je dois refuser cette donation.
+\0
+Si, si, 
+\0reprends-la, hou!"
 "141","(촀\0Hou, 
 \0hou!
 \0 Merveilleux!
@@ -377,6 +440,19 @@ un plaisir de l'examiner!"
 \0
 et que tu souhaites le donner,
 (촀\0je le prendrai avec plaisir!"
+"146","()촀\0Nous acceptons les dons d'\0insectes\0￿,
+\0
+de \0poissons\0￿, 
+\0de \0fossiles\0￿ dûment
+expertisés
+\0 et d'\0œuvres d'art\0￿n"
+"147","(%촀\0Je traiterai ce don avec le plus grand
+soin. 
+\0(5촀\0Hou hou, parole de hibou!\0\0()촀\0Je compte par ailleurs l'exposer
+accompagné de menues informations
+pour l'édification de nos visiteurs.
+(촀\0Laisse-moi juste un peu de temps!"
+"148","2\02\0}\0\0 vu2촀\0e\0 de près, c'est un spectacle qui vaut son pesant de clochettes, hou."
 "201","(.촀\0Hoummm? 
 \0Hou? 
 \0(촀\0Il semble que
@@ -623,6 +699,12 @@ cet énergumène sortir de sa cage!
 "306","(촀\0Hou hou!
 \0(촀\0 Quel2촀\0le\0 merveilleu2촀xse\0
 }\0\0!"
+"307","(
+촀\0Hou houn\0\0 Avons-nous affaire là à 2\0}\0\0 original2촀\0e\0?\0\0( 촀\0Fourberie s'il en est!
+\0
+ C'est un fauxn\0\0
+\0
+(9촀\0Une vulgaire contrefaçon!"
 "308","(%촀\0Hou! 
 \0
 Il va nous falloir expertiser ce
@@ -644,6 +726,21 @@ de plus prèsn"
 "313","(촀\0Par mon bec!
 \0 Il s'agit,(촀\0 d'2\0}\0\0,
 \0 ni plus ni moins!"
+"315","(""촀\0Un petit écriteau devant chaque 
+œuvre te fournira (%촀\0quelques 
+informations précieuses à son sujet."
+"316","(
+촀\0Si je ne m'abuse, notre collection n'a
+pas encore eu le bonheur d'accueillir
+2\0}\0\0n\0\0
+(촀\0Si tu comptes en faire don à notre
+musée, ce geste sera apprécié à
+sa juste valeur.
+()촀\0Au fait, n'hésite pas à consulter les
+petits écriteaux devant chaque œuvre.
+\0 (촀\0Ils fourmillent d'informations."
+"351","(촀\0Les faussaires sont légion de nos
+jours. Il convient d'ouvrir l'œil."
 "352","(9촀\0Voilà.
 \0
  Maintenant, (촀\0merci de bien
@@ -796,6 +893,21 @@ mais c'est une vraie réussite!\0\0(촀\0Encore merci pour tous tes efforts
 \0
 Notre musée gagne chaque jour en
 prestige, et tu n'y es pas pour rien!"
+"406","Hou hou! C'était la touche finale à
+notre collection d'art! J'ai du mal à
+le croire. C'est surréaliste!
+Maintenant qu'elles sont en place, tu
+vas voir comme nos œuvres sont
+bien agencées et mises en lumière.
+Tu sais, l'art, c'est ma passion. Aussi
+je suis très pointilleux pour ce qui
+est de la disposition des œuvres.
+J'aime que tout soit cubique, euh...
+carré, pour que les visiteurs
+repartent avec une belle impression.
+Oh... Quelle belle galerie nous
+avons! Reçois l'expression de tous
+mes remerciements!"
 "501","()촀\0Notre collection comprend de
 nombreux objets rares ainsi que des
 chefs-d'œuvre de toutes sortes.

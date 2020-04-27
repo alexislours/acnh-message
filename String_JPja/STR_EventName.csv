@@ -1,5 +1,6 @@
 ﻿"label","text"
 "Countdown","カウントダウン"
+"FathersDay","\0\0ちち父の\0\0ひ日"
 "FishingConventionAutumn","\0\0あき秋の\0\0つ釣り\0\0たいかい大会"
 "FishingConventionSpring","\0\0はる春の\0\0つ釣り\0\0たいかい大会"
 "FishingConventionSummer","\0\0なつ夏の\0\0つ釣り\0\0たいかい大会"
@@ -8,3 +9,8 @@
 "InsectConvention2","ムシとり\0\0たいかい大会"
 "InsectConvention3","ムシとり\0\0たいかい大会"
 "InsectConvention4","ムシとり\0\0たいかい大会"
+"MothersDay","\0\0はは母の\0\0ひ日"
+"SummerSolstice","\0\0げしさい夏至祭"
+"WinterSolstice","\0\0
+とうじさい冬至祭"
+"WorldChild","\0\0こくさい国際こどもの\0\0ひ日"

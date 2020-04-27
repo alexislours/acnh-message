@@ -304,7 +304,8 @@ poor \0Blathers \0￿out.
 \0 (촀\0The \0museum\0￿ must
 go on, n\0!
 \0(촀"
-"025","<opqt"
+"025","<
+opqrt"
 "029","(&촀\0Do you have business at
 \0Resident Services\0￿ 
 \0(촀\0or are you just
@@ -374,6 +375,7 @@ will be perfectly lovely as well."
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉(""촀\0I love the dignified atmosphere of a
 \0museum\0￿,
 \0 don't you, n\0?\0\0촆촃(%촀\0Walking in this hushed space filled
@@ -413,3 +415,18 @@ I can't help but want to catch it!"
 (1촀\0Just imagine what the ancient world
 must have been like.
 \0(촀"
+"122","(%촀\0What an honor it is to lay eyes upon
+the great works of art found in the
+\0museum\0￿, n\0.
+(1촀\0The 
+, for
+examplen\0\0
+\0 The mastery! 
+\0The
+majesty!
+\0 The magnificence!
+( 촀\0Well,
+\0 I'm sure YOU understand.
+\0
+(5촀\0Sophisticated folks such as ourselves
+can't help but be enthralled."

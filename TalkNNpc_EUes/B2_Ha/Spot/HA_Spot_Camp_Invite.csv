@@ -167,10 +167,72 @@ de gestión\0￿ para que me den el
 visto bueno."
 "206_03","(촀\0¡Tú sabes cómo aceptar un reto!
 \0
-¡Y cómo ganarlo, 2""campeóncampeona!\0\0(5촀\0¡2\0n	\0 acaba de añadir a n
-\0 a su plantilla, n\0!\0\0(촀\0En cuanto los de la \0oficina de
-gestión\0￿ me confirmen que puedo
-mudarme aquí, claro."
+¡Y cómo ganarlo, 2""campeóncampeona!\0\0(촀\0En cuanto los de la \0oficina de gestión
+\0￿me lo confirmen,
+\0 me quedo para ser
+tu nuevo vecino."
+"207_01","(촀\0¿De verdad tienes tantas ganas de
+que me mude a n	\0?\0\0Pues bien,
+\0 (촀\0¡que el espíritu olímpico
+lo decida!
+\0 O para el caso,
+\0 que
+decida el azar,
+\0 n\0.\0\0(촀\0Si los músculos de la fortuna dicen
+que me mude,
+\0 no seré yo quien
+lo discuta.
+\0 (5촀\0¿Estás list2oa?"
+"207_01_a","¡Venga, va!"
+"207_01_b","Mejor no..."
+"207_02","(7촀\0Si te entiendo.
+\0 Es difícil encontrar
+deportistas de mi talla.
+\0 Y si el equipo
+de n	\0 me necesitan\0\0\0\0(%촀\0A ver,
+\0 juguemos a un juego.
+\0
+Si ganas,
+\0 me mudo aquí.
+\0 (5촀\0¿Estás
+list2oa,
+\0 n\0?"
+"207_02_a","¡A jugar!"
+"207_02_b","Bah, déjalo"
+"207_03","(6촀\0¿Sigues convencid2oa de que mereces
+que sea tu vecino?
+\0 (촀\0¡Ja, ja!
+\0 Pues
+vamos a verlo,
+\0 n\0.\0\0( 촀\0Así quen\0\0
+\0 ¿Eh?
+\0 ¿Pero dónde está
+min\0\0?
+\0 (촀\0¡Qué desgracia!\0\0(2촀\0Quería desafiarte a un duelo
+de 촀,
+\0 pero me he
+dejado el equipamiento en casa.\0\0(촀\0¿Y si echamos una de cartas?
+\0
+No vamos a sudar tanto,
+\0 pero si
+ganas me mudo aquí,
+\0 n\0."
+"207_03_a","¡Sí, juego de cartas!"
+"207_03_b","No me gusta..."
+"208_01","(촀\0Supongo que es lo mejor.
+\0 Después
+de todo,
+\0 no es justo decidir por azar
+lo que se puede lograr con esfuerzo."
+"208_02","(촀\0¿Eh?
+\0 ¡Pero si para esto no hay que
+entrenar,
+\0 ni cansarse ni nada!
+\0 (촀\0Para
+una vez que no iba a sudarn"
+"208_03","('촀\0Lo siento.
+\0 La próxima vez me traeré
+el equipo de 촀."
 "302","(촀\0Malas noticias.
 \0 He preguntado en la
 \0oficina de gestión vecinal\0￿ y me han
@@ -263,6 +325,15 @@ más gente, n\0.
 \0
 a lo mejor ocupo demasiado
 y habría que echar a alguien."
+"405","(촀\0La \0oficina de gestión vecinal
+\0￿de tu isla me ha dicho que no puedo
+mudarme aquí.
+Se ve que no hay solares a la venta
+para construir más casas, n\0n\0\0\0\0('촀\0De hecho me han confirmado que
+no hay sitio ni para un gimnasio,
+\0
+(
+촀\0¡y eso sí que no!"
 "406","(촀\0Acabo de hablar con la \0oficina
 de gestión vecinal\0￿,
 \0 (촀\0¡y me han dicho
@@ -301,6 +372,12 @@ de que fuese un sitio tan popular!
 (촀\0A lo mejor es que quemo demasiadas
 calorías para los estándares
 de n	\0, n\0."
+"424","(%촀\0¡Parece que en tu isla ya no quedan
+solares a la venta!
+\0 ¿Por qué no me
+has dicho que era tan popular?
+(""촀\0Si se queda algo de espacio libre,
+¡avísame, n\0!"
 "504","(촀\0Desde que estoy aquí, los entrenos
 me cunden más.
 \0 ¡Estoy batiendo

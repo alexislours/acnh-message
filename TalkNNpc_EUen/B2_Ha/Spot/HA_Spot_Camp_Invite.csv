@@ -129,38 +129,74 @@ gonna be, n\0?"
 "206_01","(9촀\0Alright,
 \0 I'm throwing in the towel.
 \0
-You do like towels, right, uhn\0\0
-\0((촀\0
-n\0, huh? 
-\0Cool.\0\0(5촀\0Well, you wanted n
+You do like towels, right?\0\0(5촀\0Well, you wanted n
 \0
 to live on n	\0?
 \0 You
 got it, n\0!\0\0(촀\0Ern\0\0probably.
 \0 Still gotta check
 with \0Resident Services\0￿ first."
-"206_02","(9촀\0I know when I'm beat. 
-\0What's your
-name again?
-\0 2\0n\0?
-\0(
-($촀\0Very cool, n\0!\0\0(6촀\0Well, once I get things squared away
-with \0Resident Services\0￿, I guess I'll
-be your new neighbor.\0\0(5촀\02\0n
+"206_02","(촀\0I know when I'm beat, n\0.\0\0(6촀\0Alright, 
+\0once I get things squared
+away with \0Resident Services\0￿, I guess
+I'm your new neighbor!\0\0(5촀\02\0n
 \0 is 2\0
 n\0 of his word."
 "206_03","(촀\0Way to take a challenge seriously!
 \0
-And triumph, for that matter.\0\0(8촀\0Oh, uhn\0\0
-\0what's your name again,
-champion? 
-\02\0n\0? 
-\0Nice
-to meet you, n\0.\0\0(\0촀\0Alright, you're on.
-\0 (5촀\0I'm gonna go tell
-\0Resident Services\0￿ you want to add
+And triumph, for that matter.\0\0(\0촀\0Alright, you're on.
+\0 (5촀\0I'm gonna go
+tell \0Resident Services\0￿ to add
 n
-\0 to your roster!"
+\0 to the roster!"
+"207_01","(촀\0
+\0Wow, you really want me to move to
+n	\0 that bad, huh?\0\0(촀\0Alright, we're gonna find out if the
+mighty muscles of fate have changed
+their minds, n\0!\0\0(촀\0If the muscles say I oughta move
+here, then who am I to argue.
+\0( (5촀\0You
+ready to make this happen?"
+"207_01_a","Let's do this!"
+"207_01_b","Actually, never mind."
+"207_02","(7촀\0Hey, I hear you. Free agents of my
+caliber are tough to find. 
+\0If Team
+2\0n	\0 still wants men\0\0\0\0(%촀\0Alright, let's play the game again.
+\0
+If you win, I'll move here. 
+\0(5촀\0Ready
+for this, n\0?"
+"207_02_a","Let's play!"
+"207_02_b","Wait. Never mind."
+"207_03","(6촀\0Still think you've got what it takes to
+be 
+\0MY
+\0 neighbor?
+\0( (촀\0Ha ha ha! We'll see
+about that, n\0!\0\0( 촀\0Wait, 
+\0where are myn\0\0
+\0 (촀\0Aww!\0\0(2촀\0I was gonna challenge you to a little
+one-on-one 촀, 
+\0but I just
+remembered I left my gear at home.\0\0(촀\0OK, how about we just play cards
+instead? 
+\0Not nearly as epic, 
+\0but if
+you win, I'll move in, n\0."
+"207_03_a","Cards it is!"
+"207_03_b","I'll pass."
+"208_01","(촀\0It's probably for the best. 
+\0The mighty
+muscles of fate are all noodly today."
+"208_02","(촀\0Come on! 
+\0We haven't even talked
+about my signing bonus yet!
+\0 (촀\0Awwn"
+"208_03","('촀\0Yeah, sorry about that. 
+\0I'll try to
+remember my 촀 gear
+for next time."
 "302","(촀\0Bad news.
 \0 I checked with
 \0Resident Services\0￿ and they said
@@ -253,6 +289,12 @@ anyone else, n\0.\0\0(%촀\0It's understandable. 
 after all.
 \0 Wouldn't want my hugeness
 to push someone off the island!"
+"405","(촀\0I heard from your \0Resident Services\0￿,
+and they said no.
+\0 I guess there isn't
+any land for sale, n\0.\0\0('촀\0I asked and they said I couldn't live
+out of my kayak either.
+\0( (촀\0Oh well!"
 "406","(촀\0Hey! So I just got word back from
 \0Resident Services\0￿.
 \0( (촀\0We're gonna be
@@ -290,6 +332,11 @@ accepting any more residents.
 I had no idea it was so popular!\0\0(촀\0With how many calories I burn every
 day, I guess I can't blame them for
 turning me down, n\0!"
+"424","(%촀\0Sounds like the island doesn't have
+any places for sale!
+\0 Why didn't you
+tell me it was so popular?\0\0(""촀\0If a plot ever opens up, gimme
+a holler, n\0!"
 "504","(촀\0My workouts have been SUPER good
 since I got here. 
 \0I'm totally crushing

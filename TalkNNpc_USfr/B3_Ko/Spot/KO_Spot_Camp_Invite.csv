@@ -164,6 +164,52 @@ nouve2aulle voisin2\0e de ta trempe.\0\0(촀\0Mais d'abord, je doi
 petit projet au \0bureau des résidents\0￿.
 \0
 ($촀\0Souhaite-moi bonne chance!"
+"207_01","(6촀\0Tu m'as pas oublié? 
+\0Ha ha ha!
+
+\0(4촀\0J'apprécie, vraiment. 
+\0Mais c'est pas
+une décision à prendre à la légère.\0\0(촀\0Et si on laissait le hasard décider?
+
+\0On joue à un jeu, tous les deux. 
+\0(;촀\0Si tu
+gagnes, j'emménage! Ça te va?"
+"207_01_a","Bonne idée!"
+"207_01_b","En fait, non."
+"207_02","( 촀\0Oh, je suis très demandé, ces temps-ci!
+\0 Il va bientôt me falloir un agent.
+\0(
+(촀\0Ha ha ha! 
+\0Je plaisante.\0\0(
+촀\0Mais pimentons un peu la chose.
+\0
+On joue à un jeu et si tu gagnes, je viens vivre ici. 
+\0(&촀\0OK?"
+"207_02_a","Amène ton jeu!"
+"207_02_b","Je suis pas joueu2
+rse."
+"207_03","(7촀\0Tu lâches jamais le morceau,
+\0 c'est ce
+qui me plaît chez toi, n\0!\0\0(촀\0Mais je baigne dans l'indécision! 
+\0Et
+si on laissait ça au hasard?
+\0 (촀\0On fait
+un jeu. Tu gagnes et j'emménage ici."
+"207_03_a","D'accord!"
+"207_03_b","Je passe mon tour."
+"208_01","('촀\0Tu es pas d'humeur joueuse?
+\0( (촀\0C'est
+toi qui vois. Dans ce cas, je retourne
+sur mon île, n\0."
+"208_02","( 촀\0Non? 
+\0Bon ben tant pis.
+\0 Une autre
+fois, peut-être. (""촀\0À plus, n\0."
+"208_03","(촀\0Ça te dit pas? 
+\0Bon, ben je vais pas
+jouer tout seul, 2$le jeunela jeune. 
+\0(( 촀\0Et je fais
+quoi, si je gagne?"
 "302","(촀\0J'ai une mauvaise nouvelle, 2$le jeunela jeune.
 \0(
 Votre \0bureau des résidents\0￿ a rejeté
@@ -265,6 +311,15 @@ et elle risquerait de couler.
 possible,
 \0 mais je comprends qu'ils
 ne veuillent pas prendre de risques."
+"405","(촀\0Alorsn\0\0 J'ai appelé le \0bureau des
+résidents\0￿ pour savoir s'il était
+possible d'emménagern\0\0
+('촀\0Et malheureusement non,
+\0 il n'y a
+plus un seul terrain à vendre!\0\0Et je refuse de dormir à la belle
+étoile!
+\0(촀\0 C'est que mon dos réclame
+un matelas digne de ce nom!"
 "406","(6촀\0Alors, voilà.
 \0 J'ai appelé le \0bureau des
 résidents\0￿ de ton île pour voir s'il
@@ -313,6 +368,16 @@ mieux comme çan\0\0
 \0 j'aurais sans doute
 fait fuir la moitié de la population
 en moins d'une semaine!"
+"424","(
+촀\0C'est quand même fou, çan\0\0
+Y'a vraiment plus un seul terrain
+à vendre ici?
+(촀\0En tout cas,
+\0 merci pour l'invitation,
+\0
+2$le jeunela jeune.
+\0 Ça me touche de savoir que
+t'aurais aimé qu'on soit voisins."
 "504","()촀\0Quand je suis arrivé ici,
 \0 j'avais
 peur de me faire plumer comme

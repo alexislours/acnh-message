@@ -12,6 +12,7 @@
 "011","Hey now, n\0..."
 "012","Dear DJ n\0,"
 "013","Hullo, n\0!"
+"014","Whoa there, n\0!"
 "018","Hullo there, n\0..."
 "019","To my fossil-finding friend,"
 "020","Sorry, kiddo..."
@@ -94,6 +95,12 @@ worry about breakin' the one I
 have! It's that kinda thoughtfulness
 that sets you apart. Well, I hope
 you like what I got you."
+"114","I don't know much about fine art,
+but I can tell that thing you got
+me is real expensive and real
+authentic. In other words, it's real!
+Can't make the same guarantee for
+what I got you, but it FEELS real."
 "118","Thanks for sendin' me the fossil,
 kiddo. It's pretty weird to think
 that this thing was a part of some
@@ -143,6 +150,8 @@ at that as you are. Guess we'll see!"
 "212","Sincerely, n
 "
 "213","Handily, n
+"
+"214","With real gratitude, n
 "
 "218","Not fossilized yet, n
 "

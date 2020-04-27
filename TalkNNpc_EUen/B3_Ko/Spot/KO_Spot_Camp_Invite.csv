@@ -144,6 +144,59 @@ really somethin' else, you know that?(촀\0\0\0(촀\0Well, nothing to do
 \0Resident Services\0￿ about movin' in.
 \0(
 ($촀\0Wish me luck, n\0!"
+"207_01","(6촀\0Not givin' up on me, eh? 
+\0Gahaha!
+\0
+(4촀\0I appreciate it, kiddo. 
+\0But I can't
+make a decision on the fly like this.\0\0(촀\0Let's leave it up to good old lady
+luck, hm? 
+\0We'll play a game! 
+\0(;촀\0You
+win and I'll pack my bags. 
+\0Yeah?"
+"207_01_a","Let's play!"
+"207_01_b","Nah, never mind."
+"207_02","( 촀\0Hot diggity, I'm in high demand!
+\0
+Do I need to hire a publicist?
+\0
+(촀\0Gahaha! 
+\0I'm just foolin'.\0\0(
+촀\0Anyway, let's make it interestin'.
+\0
+We'll play a game, and if you win,
+consider me a new resident. 
+\0(&촀\0OK?"
+"207_02_a","You're on!"
+"207_02_b","Nah, never mind."
+"207_03","(7촀\0I admire your gumption, kiddo.
+\0
+And your grit. 
+\0And your go-getter
+attitude, n\0!\0\0(촀\0But I can't make up my mind! 
+\0We're
+gonna have to leave this to luck.
+\0 (촀\0So
+let's play a game.
+\0 Win, and I'll move."
+"207_03_a","Yes! I got this."
+"207_03_b","Nah, I'll pass."
+"208_01","('촀\0Not in the sportin' mood, huh?
+\0( (촀\0Well,
+suit yourself. 
+\0I'll be headin' back to
+my home island, n\0."
+"208_02","( 촀\0Nah? 
+\0Well, maybe another time.
+\0
+(""촀\0Catch ya later, n\0."
+"208_03","(촀\0Not interested, huh? 
+\0Well, it takes
+two to tango. 
+\0(( 촀\0Not that we were
+gonna be dancin'! 
+\0Gah, forget it."
 "302","(촀\0So here's the lowdown, kiddon\0\0
 I checked in with your \0Resident Services\0￿ folks to see about movin' in.
 (\0촀\0Andn\0\0('촀\0it's a no-go. 
@@ -243,6 +296,13 @@ more folks and it might just sink!
 \0
 (촀\0Bah! 
 \0Better not to risk it."
+"405","(촀\0So here's the lowdown, kiddon\0\0
+I talked to your \0Resident Services\0￿
+folks to ask about movin' in.
+(\0촀\0Andn\0\0('촀\0it's a no-go. There's no more
+land for sale! Not a square inch!\0\0(촀\0Well, I ain't livin' on no beach again!
+Been there, done that. 
+\0(촀\0Sorry, kiddo."
 "406","(촀\0So here's the lowdown, kiddon\0\0
 I talked to your \0Resident Services\0￿
 folks to ask about movin' in.
@@ -279,6 +339,16 @@ to believe there's no space for little
 old me.\0\0(촀\0Says something, though, that I got
 invited to such a popular place. Hope
 we stay in touch, n\0."
+"424","(
+촀\0No land for sale anywhere on your
+entire islandn\0\0 Can you imagine?\0\0(촀\0Must be somethin' real special
+happenin' here, huh? 
+\0Shame I
+can't be a part of it.
+(촀\0Thanks for the invite anyway, kiddo.
+\0
+Really perked me up. Gave me
+somethin' to think about."
 "504","(촀\0When I first got here,
 \0 I felt like a
 tourist.

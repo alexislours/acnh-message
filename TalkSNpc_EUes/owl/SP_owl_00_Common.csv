@@ -192,6 +192,33 @@ cargad2oa.
 \0
 
 "
+"107","
+\0(촀\0\0¡¿UHUHU?!\0d
+	\0
+\0\0\0(촀\0Me temo que todas esas obras
+de arte han sido «perpetradas»
+por un despiadado impostor.
+(촀\0Lo siento muchísimo,
+\0 ('촀\0pero
+la política del museo nos impide
+exhibir falsificaciones.(9촀\0
+Por lo tanto,
+\0 no tengo otra opción
+que devolvértelas todas.(\0촀"
+"108","
+\0(촀\0\0¡UHU!\0d
+	\0
+\0\0\0(촀\0Me temo que hay alguna que otra
+obra de arte falsa entre los artículos
+que quieres donarn\0\0
+(촀\0Lo siento mucho,
+\0 ('촀\0pero el código
+ético del museo nos prohíbe exhibir
+obras falsas,
+\0 como podrás imaginar.
+(촀\0Eso sí,
+\0 aceptaré con gusto el resto
+de cosas que querías donar.(\0촀"
 "109","(촀\0¡Eureka!
 \0 (촀\0El museo está dispuesto
 a quedarse con todo lo que traes.(\0촀"
@@ -335,6 +362,59 @@ contarte al respecto.
 explicártelo en otra ocasión.\0\0(%촀\0Por lo demás,
 \0 (촀\0¡cuidaremos bien
 de este ejemplar!"
+"135","<"
+"135_01","(촀\0¿Qué?
+\0 ¡Uhuhu!
+\0 (촀\0¡Pero si es
+2\0}\0\0 auténtic2촀oa\0!\0\0(%촀\0Me dejas sin palabrasn\0\0
+\0 Nunca
+imaginé que fuese a ser (촀\0tann\0\0
+\0 tann\0\0
+\0
+(촀\0¡tan así!"
+"135_02","(촀\0¡Uhu!
+\0 A menos que esté muy
+equivocado,
+\0 esto esn\0\0
+\0
+(촀\0¡2\0}\0\0!
+(%촀\0En efecto,
+\0 lo esn\0\0
+\0 (촀\0¡De cerca es más
+impresionante de lo que pensaba!"
+"135_03","(촀\0¡Uhuhu!
+\0 ¡Eso tiene que ser
+(촀\02\0}\0\0!
+\0
+Bueno,
+\0 si no me equivoco.
+(%촀\0Pero sí,
+\0 ¡lo es!
+\0 (촀\0Nunca pensé que
+llegaría a contemplar 2:촀el auténticola auténtica\0,
+\0
+¡pero aquí estoy!"
+"138","(촀\0¡Uac!
+\0 ¡Por mis plumas!
+\0 ¡Pero si es
+(촀\02\0}\0\0!"
+"139","
+\0Uhu,
+\0 (촀\0
+
+\0 \0¡Uac!
+\0 ¡Qué!\0d
+	\0
+\0
+(촀\0Un examen detenido revela que
+esto esn\0\0
+\0 una falsificación."
+"140","(9촀\0Uhun\0\0
+\0 ('촀\0No puedo aceptar
+falsificaciones.
+\0 (%촀\0Lo siento,
+\0 pero
+tengo que devolverte esta obra."
 "141","(촀\0¡Uhuhu!
 \0 ¡Muchísimas gracias!\0\0(촀\0¿Uac?
 \0 (
@@ -344,12 +424,10 @@ que podamos aceptar ahoran"
 \0 \0insectos\0￿,
 \0 \0peces \0￿y
 \0fósiles \0￿que hayan sido examinados."
-"143","()촀\0Aceptamos(1촀\0n\0\0
-\0 \0insectos\0￿,
-\0 \0peces\0￿
-y seres marinos varios,
-\0 y \0fósiles\0￿
-que hayan sido examinados."
+"143","()촀\0Aceptamos donaciones de \0bichos\0￿,
+\0
+\0peces \0￿y
+\0 \0fósiles\0￿ identificadosn"
 "144","()촀\0Los \0fósiles\0￿ primero hay que
 examinarlos.
 \0 Si tienes alguno,
@@ -358,6 +436,20 @@ examinarlos.
 "145","(%촀\0Si consigues algo de esto,
 \0
 (촀\0¡plantéate donarlo!"
+"146","()촀\0Aceptamos donaciones de \0bichos\0￿,
+\0
+\0peces\0￿,
+\0 \0fósiles\0￿ identificados y \0obras
+de arte\0￿n"
+"147","(%촀\0Trataré esta donación con el más
+exquisito cuidado.
+\0 (5촀\0¡Palabra de búho!\0\0()촀\0Y le añadiré un cartel informativo
+para que todo el mundo
+lo lea cuando esté expuesta.
+(촀\0Pásate luego a verla.
+\0 ¡Uhu!"
+"148","(촀\0Es todo un honor poder contemplar
+de cerca una obra de este calibre."
 "201","( 촀\0¿Uhu?
 \0 (\0촀\0Peron\0\0
 \0 es que no tienes
@@ -589,6 +681,15 @@ por favor!
 2\0}\0\0,
 \0
 ¿no?"
+"307","(
+촀\0¡Uac!
+\0 No doy créditon\0\0
+\0 ¡Esto es
+2\0}\0\0!\0\0( 촀\0¡Un momento!
+\0 Algo no me cuadran\0\0
+\0
+(9촀\0Ya decía yo;
+\0 esto es una falsificación."
 "308","(%촀\0¡Uhu!
 \0 Tendríamos que examinar
 este fósil para saber lo que es.\0\0(&촀\0¿Quieres que lo haga ahora?"
@@ -607,6 +708,25 @@ que quieras."
 "313","(촀\0¡Uac!
 \0 ¡Pero si lo que tenemos aquí
 (촀\0es 2\0}\0\0!"
+"315","(""촀\0Delante de cada obra hay una placa
+con información.
+\0 (%촀\0Léela para conocer
+más detalles sobre ella."
+"316","(
+촀\0Por lo que sé,
+\0 nuestra colección
+no cuenta aún con 2$촀ningúnninguna\0
+}\0\0.\0\0(촀\0De manera que apreciaría muchísimo
+que nos donases 2촀unouna\0.\0\0()촀\0Por cierto,
+\0 si quieres averiguar
+más datos sobre una obra,
+\0 (촀\0delante
+de ella hay una placa informativa."
+"351","(촀\0Siempre se cuelan cosas así entre
+las auténticas obras de arte.
+\0
+Hay que andarse con ojo,
+\0 uhu."
 "352","(9촀\0Y eso es todo lo que tengo que decir.
 \0
 (촀\0Si no te importa,
@@ -775,6 +895,18 @@ Ehn\0\0
 realmente admirable.
 \0 (촀\0¡Muchas
 gracias por tu esfuerzo!"
+"406","¡Uac!
+\0 ¡No puede ser!
+\0 Pero sí,
+\0 ¡es!
+\0
+¡La última pieza que faltaba
+en nuestra colección!
+¡Nuestra pinacoteca está completa!
+\0
+¡Gracias,
+\0 n\0,
+\0 por tu generoso mecenazgo!"
 "501","()촀\0Nuestro museo cuenta con
 numerosas obras maestras
 del arte y de la naturaleza.\0\0(촀\0¡Disfruta siempre que quieras

@@ -51,17 +51,19 @@ luchthaven wil."
 "028","Je kunt geen deurversiering aan
 de voorkant van een tent hangen!"
 "029","Zonder een schep in je hand
-kun je geen boom in een gat
-in de grond planten."
-"030","Je kunt niets planten als er andere
-spelers in de buurt zijn."
+kun je geen boom of struik in
+een gat in de grond planten."
+"030","Je kunt niets planten als er anderen
+in de buurt zijn."
+"031","Je kunt niets begraven als er
+anderen in de buurt zijn."
 "051","Je kunt hier niets meer kwijt.
 Er is niet genoeg plek!"
 "052","Deze kamer is vol, dus je kunt hier
 niets meer kwijt."
 "061","Om in Fotopia kleding met eigen
 ontwerpen te gebruiken druk je
-op \0\0￿, gevolgd door !"
+eerst op \0\0￿ en kies je daarna !"
 "101","Je kunt deze klif niet afbreken
 omdat er iets op is geplaatst."
 "102","Je kunt deze klif niet afbreken
@@ -138,6 +140,9 @@ je beste vrienden."
 "414","Je kunt geen kruimel meer eten!"
 "415","Je kunt alleen bomen planten op
 de eilanden van je beste vrienden."
+"416","Je kunt dat nu niet dragen!"
+"417","Je kunt nu geen hekwerken
+neerzetten."
 "430","Je kunt dit voorwerp niet opbergen,
 omdat je opslag vol is."
 "438","Dit pas niet allemaal in je opslag."

@@ -154,38 +154,100 @@ una bella avventura!"
 decidere il proprio destino, ma va
 benen\0\0
 \0 ho usato metodi peggiori.
-(촀\0Penso che tu sappia già come mi
-chiamo, no?\0\0(5촀\0Beh, ti rinfresco la memoria: 
-\0io sono n
-\0, 
-\0in caso tu non mi conoscessi di fama.\0\0(&촀\0E tu sei n\0, vero? 
-\0(촀\0Non vedo l'ora di mostrare a quest'isola di cosa sono capace!\0\0( 촀\0Ferma todo, però. 
-\0Devo prima andare
-al \0centro servizi \0￿per rendere ufficiale
-il mio trasloco!(촀"
+( 촀\0Sarà meglio che vada al \0centro
+servizi \0￿per rendere ufficiale il mio
+trasloco!(촀"
 "206_02","(촀\0Felicitationes, hai vinto! 
-\0((촀\0E ho vinto
-anch'io, perché posso trasferirmi qui!\0\0(1촀\0Ora il cielo di n	\0 si illuminerà della estrella più luminosa che abbia visto:
-\0(촀\0 n
-\0!\0\0(6촀\0Ti farò vedere la mia rara collezione di gel per barba, n\0.
-\0 Ti chiami così, verdad?!\0\0(
-촀\0Certo, non tutti i puntini sono ancora
+\0(E ho vinto
+anch'io, perché posso trasferirmi qui!
+\0
+( 촀\0Almeno spero.
+(
+촀\0Non tutti i puntini sono ancora
 sulle ""i"".
-\0( 촀\0 Prima sarà meglio fare una
-capatinas al \0centro servizi\0￿."
+\0(촀\0 Prima sarà meglio fare
+una capatinas al \0centro servizi\0￿."
 "206_03","(촀\0Uau, che fortunell2oa!
 \0( (4촀\0Farò meglio a
 preparare le valigie, n\0.\0\0(9촀\0Non scherzo.
 \0 Sono deciso più che
-mai a trasferirmi come concordato.\0\0(7촀\0E giusto per rinfrescarti la memorian\0\0
-\0
-(촀\0Il mio nome è n
-\0!\0\0(%촀\0Arigato per questa occasione, n\0. 
-\0In francese vuol dire gracias amig2oa.
-\0 (7촀\0\0KAlmeno credo!\0\0\0d(5촀\0Ora ti chiedo di scusarmi. 
+mai a trasferirmi come concordato.\0\0(5촀\0Ora ti chiedo di scusarmi. 
 \0(촀\0Devo
 andare a chiedere a quelli del \0centro
 servizi\0￿ di lasciarmi vivere qui da voi!"
+"207_01","(촀\0Continuo a pensare a come ho
+rifiutato il tuo invito a vivere qui e a
+ser oneston\0\0
+\0(촀\0 me siento malissimo!
+(4촀\0Una parte di me vuole che mi inviti
+di nuovo,
+\0 mentre un'altra ha paura
+a fare un cambiamento così.
+(촀\0OK. 
+\0Ho la soluzione: 
+\0(촀\0juegamos!
+
+\0(%촀\0Se vinci, mi trasferisco.
+\0 (9촀\0Se vinco
+io, resto dove sonon\0\0
+($촀\0Cosa ne dici, n\0?"
+"207_01_a","OK!"
+"207_01_b","Non saprei..."
+"207_02","
+\0(촀\0Mi rivolgi ancora la parola anche
+dopo che ho rifiutato il tuo gentile
+invito a trasferirmi qui?
+(촀\0Sorbole, 
+\0forse ho preso la decisione
+sbagliata!\0\0(9촀\0Certo, 
+\0le decisioni importanti non
+sono il mio fuerten\0\0 
+\0(%촀\0È ora che il
+destino si svegli e decida per me!
+(1촀\0Anche se il destino non è stato
+sempre così gentile con men\0\0
+
+\0('촀\0No, 
+\0non si torna indietro!\0\0(촀\0Decidiamo con un gioco di carten\0\0 
+\0()촀\0Se
+vinci, mi trasferisco qui. 
+\0Se vinco io,
+rimango dove sono.
+(촀\0Cosa ne pensi? 
+\0Lo so, 
+\0la posta 
+è muy alta."
+"207_02_a","Ci sto."
+"207_02_b","Forse troppo alta..."
+"207_03","(7촀\0Sono onorato che tu voglia ancora
+che io viva qui, peròn\0\0 non sono muy
+sicuro che sia la mossa giusta.
+(촀\0Se hai un mazzo di carte,
+\0 dico
+che possiamo decidere qui,
+\0 ora.
+
+\0(촀\0Facciamo un piccolo juego, OK?
+()촀\0Se vinci, 
+\0io e le mie magliette
+attillate ci trasferiamo qui.
+\0 Se
+vinco io, dovrai sognartele.
+(3촀\0Allora, 
+\0distribuisco le carte?"
+"207_03_a","Assolutamente!"
+"207_03_b","Passo..."
+"208_01","(%촀\0Devi essere sicur2oa e non lo sembri
+per nada.
+\0 Facciamo un'altra volta!"
+"208_02","(촀\0Ah, ti tiri indietro? 
+\0Ma è questo
+l'entusiamo che porterei ogni día
+2\0 n!\0. 
+\0(촀\0Sorbolen"
+"208_03","( 촀\0Oh, quindi mi stai dicendo che vuoi
+annullare tutto?
+\0 (촀\0Che peccato."
 "302","(촀\0Lo sienton\0\0 ho brutte notizie.\0\0('촀\0Ho parlato con il \0centro servizi
 \0￿e la situazione immobiliare no
 esta buena.
@@ -305,6 +367,17 @@ appositamente come me, figurati!
 sempre avere il gel che si vuole.""
 
 \0(촀\0Ma muchas gracias per l'invito!"
+"405","(:촀\0Ahi ahi ahin\0\0 (촀\0Lo siento, ma ho
+appena ricevuto brutte notizie dal
+\0centro servizi\0￿, n\0.\0\0(촀\0L'isola è piena zeppa e non ci sono
+più terreni in vendita!\0\0(촀\0Non c'è più posto nemmeno per
+costruire il mio modesto castello a
+quattro piani!
+(촀\0Bueno, como dico ion\0\0 
+\0('촀\0""Non si può
+sempre avere il gel che si vuole.""
+
+\0(촀\0Ma muchas gracias per l'invito!"
 "406","(6촀\0Indovina, n\0n\0\0\0\0(촀\0Hai davanti a te il nuovo acquisto di n\0!
 \0 Un'icona del gel a buon mercato e della cultura!\0\0(5촀\0Il \0centro servizi \0￿ha dato l'OK, quindi è ufficiale: n
 \0 el poderoso abiterà sull'isola!\0\0(%촀\0È merito tuo, n\0!
@@ -329,6 +402,16 @@ la voglia di trasferirmicin\0\0
 in giro?!
 \0 Non vedo l'ora di venire
 a vivere qui!"
+"424","(
+촀\0Incredibile quanto sia popolare la tua
+isola!
+\0( ('촀\0Quasi quasi mi è passata
+la voglia di trasferirmin\0\0
+(촀\0Ma nooo, chi voglio prendere in
+giro?!
+\0 Non vedo l'ora di venire
+a vivere qui!\0\0(4촀\0Quindi fammi sapere non appena
+c'è di nuovo un terreno in vendita."
 "504","($촀\0Questa isla emana delle belle
 vibraciones, n\0n\0\0\0\0(1촀\0Qui la mia perizia con il gel per
 cabello aumenterà ancora di

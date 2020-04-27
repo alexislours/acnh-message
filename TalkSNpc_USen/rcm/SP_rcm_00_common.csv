@@ -74,6 +74,11 @@ you (%촃\0understand.
 since it's Sunday, some items, such
 as turnips, are off the table nown\0\0\0\0(\0촂\0(\0촃\0Sorry for the trouble, but please
 reselect what you'd like to sell."
+"025","(촂\0(촃\0Ahn\0\0
+\0 My apologies, butn\0\0
+\0 We cannot
+accept any \0fake\0￿ works of artn\0\0\0\0(\0촂\0(\0촃\0I'm sorry for the hassle, but please
+reselect what you'd like to sell."
 "031","(%촂\0(촃\02\02\0}\0\0!
 \0(
 (촂\0Sure! How about if I offer you
@@ -399,7 +404,7 @@ many things!\0\0(%촂\0(촃\0Maybe you can come back
 \0 (촂\0after you
 make room in your pockets.(%촃\0d\0
 \0 \0K...pockets!\0dd"
-"113","(촂\0(촃\0Excellent purchase!(촃\0d\0
+"113","(촂\0(촃\0Excellent purchase!d\0
 \0 \0K...purchase!\0dd"
 "114","(촀\0Yes, thank you for the
 Z\0!(%촃"
@@ -430,7 +435,7 @@ How many would you like?"
 \0￿)"
 "131_c","I've changed my mind."
 "200","(촂\0(촃\0Thank you!d\0
-\0 \0K...Thank you!\0dd
+\0 \0K...thank you!\0dd(촂\0(촃\0
 Z"
 "201","(촂\0
 \0(촃\0Hello!d\0

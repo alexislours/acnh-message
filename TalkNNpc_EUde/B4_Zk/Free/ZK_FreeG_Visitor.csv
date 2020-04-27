@@ -7,7 +7,7 @@ ständig abbaubares Obst probiert?"
 "001_b","Nein, so was gibt's?"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Aber klar hast du das! 
 \0Ich erkenne
 doch einen Frukto-Gourmet, 
@@ -79,6 +79,15 @@ die Wunder der Welt auf unterhalt-
 same Weise dem Volke präsentiert!"
 "017","<
 "
+"018","($촀\0Hast du schon den ganzen Stolz von
+n\0 gesehen?
+\0 (촀\0Nein,
+\0 nicht mich!
+\0 (촀\0Das \0Museum\0￿!\0\0()촀\0Es ist mehr als nur eine Sammlung
+alter Steine und schräger Fische.
+\0 (%촀\0Die
+neue Kunstausstellung lohnt sich!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -133,6 +142,12 @@ Millionen von Jahren gelebt hat...
 \0damit
 meine Knochen eines Tages auch mal
 museale Beachtung findenn"
+"031","()촀\0Wenn du etwas abschalten möchtest,
+empfehle ich das \0Museum\0￿ von
+n	\0.\0\0(촀\0Wenn mir alles zu viel wird,
+\0
+(1촀\0sehe ich mir da in Ruhe 2)촀dendiedas 2촁
+ an.\0\0(\0촀\0(촀\0Und im Nu ist mein Kopf wieder frei!"
 "201","<\0ÊÎ"
 "202","(4촀\0Hey, dürfte ich dich mal was fragen,
 \0

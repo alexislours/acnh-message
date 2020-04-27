@@ -8,7 +8,7 @@ di quest'isola, n\0?"
 "001_b","No, dimmi di più..."
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(6촀\0Lo immaginavon\0\0
 \0 Tu hai la faccia di
 chi non si fa scappare un prodotto
@@ -66,6 +66,12 @@ dedicata alla meraviglia supreman\0\0
 \0!"
 "017","<
 "
+"018","($촀\0Hai visto il fiore all'occhiello di n!\0?
+\0 (촀\0No, non io!
+\0(촀\0 Il \0museo\0￿!\0\0()촀\0È molto di più di una colección di
+vecchie rocce e creature puzzolenti.\0\0(%촀\0La nuova galleria d'arte merita
+assolutamente una visita!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -94,6 +100,15 @@ lo scheletro di una creatura vissuta
 milioni di anni fan\0\0
 (1촀\0Mi chiedo se un giorno anche le mie
 ossa saranno esposte cosìn"
+"031","()촀\0Se ti serve un reset mentale,
+\0(%촀\0 ti
+consiglio di visitare il \0museo\0￿ di
+n""\0.
+(촀\0Quando neanche un nuovo tipo di
+gel mi soddisfa,
+\0(1촀\0 yo voy ad ammirare
+2\0
+."
 "201","<\0ÊÎ"
 "202","(4촀\0Hola, 
 \0avrei una domanda seria

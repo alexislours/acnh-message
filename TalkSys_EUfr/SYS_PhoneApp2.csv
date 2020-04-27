@@ -191,6 +191,20 @@ te laisser \0là où l'avion atterrira\0￿.
 Est-ce que cela te convient ?d"
 "048_a","(\0촀\0J'ai pas trop le choix !"
 "048_b","Finalement, j'annule."
+"049","d\0Tu me reçois ? On dirait que tu es
+sur une de ces \0îles labyrinthiques
+\0￿que \0Tom Nook \0￿a imaginées.\0\0Mon rapport indique une situation
+grave, mais pas désespéréen\0\0\0\0On réinitialise l'île et je te dépose \0là
+où l'avion atterrit\0￿, si tu veux. Tu en
+dis quoi ?d"
+"049_01","d\0Tu me reçois ? On dirait que tu es
+sur une de ces \0îles labyrinthiques
+\0￿que \0Tom Nook \0￿a imaginées.\0\0Mon rapport indique une situation
+grave, mais pas désespéréen\0\0\0\0On va réinitialiser l'île et je te
+déposerai ensuite \0là où l'avion
+atterrit\0￿. Boucle ta ceinture !d"
+"049_a","Oui, s'il te plaît !"
+"049_b","Nan, attends."
 "050_01","d\0À ta tente ?
 \0 Aucun problème.d"
 "050_02","d\0Chez toi ?

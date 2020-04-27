@@ -137,6 +137,49 @@ permission, n\0.\0\0( 촀\0Oh!
 \0 I should also call Grandma
 and tell her I'm gonna miss
 dinner too, n\0."
+"207_01","(촀\0Oh, you're inviting me again?
+\0(
+(촀\02\0n\0, this is hardn\0\0
+I don't know what to do!\0\0(촀\0Ooh! 
+\0I've got it. 
+\0We can play a game!
+\0
+If you win, I'll just move to your
+island without thinking about it!"
+"207_01_a","You're on!"
+"207_01_b","Never mind."
+"207_02","(
+촀\0Hmmn\0\0moving sounds like a lot of
+work, but then I'd get to hang out
+with you moren\0\0
+(촀\0I can't decide! 
+\0(촀\0Wait, I've got an idea!
+\0
+Let's just play a game that requires
+no effort.
+\0 If you win, I'll move!"
+"207_02_a","Let's do it!"
+"207_02_b","Not right now..."
+"207_03","(7촀\0You must really want me to move
+here since you're inviting me againn\0\0
+\0
+(촀\0But moving is hard!\0\0(촀\0Hey, let's do something fun instead,
+like play a game. 
+\0((%촀\0And if you win, I'll
+move here!"
+"207_03_a","Sure, why not?"
+"207_03_b","Never mind..."
+"208_01","(7촀\0That's OK—at least I don't have to
+make a decision now! 
+\0A huh huhn"
+"208_02","( 촀\0No? 
+\0Aww, I thought it was a good
+idea, n\0. 
+\0(촀\0Oh well!"
+"208_03","(촀\0Ah, that's OK.
+\0 You know me—I'll
+just roll with it. 
+\0(촀\0A huh huh huh!"
 "302","(촀\0Sorry for the wait!
 \0( I went to talk at
 the \0Resident Services \0￿folks heren\0\0\0\0()촀\0They said there's no more room
@@ -212,6 +255,14 @@ so I can't move in!\0\0(촀\0What a shame. Oh well.
 \0( (\0촀\0I hope
 we get to live on the same
 island someday, n\0."
+"405","I asked \0Resident Services \0￿(:촀\0
+\0andn\0\0
+\0
+(촀\0there's no land for sale for new
+houses, (촀\0so I can't move here!\0\0(촀\0Total shame, but oh well.
+\0( (\0촀\0I still hope
+we get to live on the same island
+one day, n\0."
 "406","(촀\0Son\0\0 I talked to \0Resident Services
 \0￿andn\0\0
 \0 (촀\0
@@ -244,6 +295,13 @@ that you don't have any more room!
 here.
 \0($촀\0 But you inviting me made me
 feel good, n\0!"
+"424","(%촀\0
+\0There's no more land for sale on
+your island, so I can't move here!
+\0(촀\0
+\0Total downer.\0\0(\0촀\0($촀\0Well, if this is goodbye, then thanks
+for all the fun! I'll always remember
+my time here, n\0!"
 "504","(촀\0Your island's cozy, everybody's nice,
 they smell good, and they feed me
 stuff. Man, I could stay here forever!"

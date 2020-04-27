@@ -228,6 +228,22 @@ decente dell'isola,
 \0 Va bene?d"
 "048_a","Sì, grazie!"
 "048_b","('촁\0Lascio perdere."
+"049","d\0Ah, sei su una di quelle \0isole
+labirinto\0￿ che ha preparato\0
+\0￿\0Tom Nook\0￿, 
+\0dico bene?\0\0In questo caso, ti mollerò \0dove
+atterrano gli aerei\0￿, 
+\0così potrai
+ricominciaren\0\0 Va bene?d"
+"049_01","d\0Ah, sei su una di quelle \0isole
+labirinto\0￿ che ha preparato\0
+\0￿\0Tom Nook\0￿, 
+\0dico bene?\0\0In questo caso, ti mollerò \0dove
+atterrano gli aerei\0￿, 
+\0così potrai
+ricominciare!d"
+"049_a","Sì, grazie!"
+"049_b","No, sono a posto così."
 "050_01","d\0Nella tua tenda? 
 \0Non c'è problema.d"
 "050_02","d\0A casa tua, eh? 
@@ -494,6 +510,9 @@ alberi nelle tue immediate vicinanze."
 \0e solo quando sei all'aperto."
 "301","Sembra che l'app della mappa
 non funzioni su quest'isola."
+"311","Mh? Dice che sono fuori dall'area
+di copertura. Immagino di non poter
+usare l'app qui."
 "321","A quanto pare non posso usare
 l'app Archivio chat durante il
 Gioco cooperativon"

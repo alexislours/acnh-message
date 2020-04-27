@@ -1,6 +1,6 @@
 ﻿"label","text"
 "101","(촀\0O! 
-\0Wil je deelnemen aan de
+\0Wil je deelnemen aan een
 ceremonie,
 \0 n\0?"
 "102_01","We willen een feestelijke opening
@@ -51,6 +51,12 @@ ervan?"
 ervan?"
 "102_08_a","(%촀\0Ja, graag!"
 "102_08_b","('촀\0Nee, bedankt."
+"102_09","(%촀\0We willen de verbouwing van het
+\0museum \0￿feestelijk vieren.
+\0 (&촀\0Doe je
+mee?"
+"102_09_a","(%촀\0Ja, graag!"
+"102_09_b","('촀\0Nee, bedankt."
 "111","(촀\0Er is momenteel zoveel te vieren!
 \0
 Wat een prachtige tijd om op het

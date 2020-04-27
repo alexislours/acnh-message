@@ -184,11 +184,8 @@ Ja!
 \0so
 was Wichtiges zu entscheiden.
 \0
-Aber es ist ja gut ausgegangen!\0\0(\0촀\0Also noch mal ganz offiziell:
-\0(촀\0 Mein
-Name ist n
-\0,
-\0 n\0!\0\0(5촀\0Ich kann es kaum erwarten, 
+Aber es ist ja gut ausgegangen!
+(5촀\0Ich kann es kaum erwarten, 
 \0endlich
 etwas Glanz in dieses verschlafene
 Provinznest zu bringen!
@@ -201,12 +198,13 @@ paar Unterschriften im \0Servicecenter\0￿,
 \0((촀\0Du hast
 den Hauptgewinn abgestaubt:
 \0
-Ich ziehe nach n	\0!\0\0(1촀\0Reichen Plakate aus oder soll ich „⁠⁠⁠n
-\0⁠“ mit Lasern an den Himmel schreiben lassen?\0\0(
-촀\0Wobei ich mich vorher noch um den
-Papierkram kümmern muss.
-\0( 촀\0 Also ab
-mit mir ins \0Servicecenter\0￿."
+Ich ziehe nach n	\0!\0\0( 촀\0Vorausgesetzt, 
+\0es läuft auch alles
+nach Plan...\0\0(
+촀\0Vorher muss ich mich nämlich noch
+um den Papierkram kümmern.
+\0( 촀\0 Also
+ab mit mir ins \0Servicecenter\0￿."
 "206_03","(촀\0Wow, 
 \0was bist du für ein Glückspilz!
 \0(
@@ -216,19 +214,86 @@ meine Sachen,
 (9촀\0Kein Quatsch –
 \0 ich werde das wirklich
 durchziehen,
-\0 n\0!\0\0(7촀\0Also dannn\0\0
-\0 (촀\02\0n	\0,
-\0 bist du bereit für n
-\0?\0\0(%촀\0Thank you beaucoup für diesen
-Coup.
-\0( Will sagen:
-\0 Danke very much.
-
-\0((촀\0Ha-
-\0HA!\0\0(촀\0Jetzt muss ich nur noch beim
+\0 n\0!\0\0(촀\0Jetzt muss ich nur noch beim
 \0Servicecenter \0￿betteln, 
-\0dass ich auch
-wirklich umziehen darf."
+\0dass ich
+auch wirklich umziehen darf."
+"207_01","(촀\0Ich frage mich, ob es so klug war,
+\0
+deine Einladung abzulehnen.
+\0 (촀\0Selten
+war ich so zwiegespalten!\0\0(4촀\0Einerseits möchte ich, dass du mich
+noch mal einlädst,
+\0 andererseits ist
+das schon ein Riesenschrittn\0\0\0\0(촀\0
+\0Gut. 
+\0Wir machen das jetzt so:
+\0(
+(촀\0Wir spielen darum!\0\0(%촀\0Wenn du gewinnst,
+\0 komme ich zu dir.
+\0(
+(9촀\0Wenn ich gewinne,
+\0 dann nicht.
+\0
+($촀\0Was sagst du,
+\0 n\0?"
+"207_01_a","Machen wir!"
+"207_01_b","Ich weiß ja nicht..."
+"207_02","(촀\0Du redest noch mit mir?
+\0 Und das,
+nachdem ich deine Einladung hierher
+abgelehnt habe?\0\0(촀\0Vielleicht war diese Entscheidung ja
+falsch!
+\0 (9촀\0Ich kann mir da nicht trauen.
+\0
+(%촀\0Das Schicksal muss entscheiden.\0\0(1촀\0Obwohl es das Schicksal nicht immer
+gut mit mir gemeint hatn\0\0
+\0('촀\0 Nein.
+\0
+Es gibt jetzt kein Zurück.\0\0(촀\0Wir lassen die Karten entscheiden!
+\0
+()촀\0Gewinnst du,
+\0 komme ich her.
+\0
+Wenn nicht,
+\0 dann nicht.\0\0(촀\0Was sagst du?
+\0
+Ich weiß.
+\0 Der Einsatz ist hoch."
+"207_02_a","Los geht's!"
+"207_02_b","Zu hoch für mich..."
+"207_03","(7촀\0Ich fühle mich geehrt, dass du mich
+noch hierhaben möchtestn\0\0
+\0( Aber ich
+weiß nicht, ob das das Richtige ist.\0\0(촀\0Aber wenn du Karten dahast,
+\0 können
+wir das gleich jetzt klären.\0\0(촀\0Spielen wir ein Ründchen,
+\0 ja?
+\0
+Wenn du gewinnst,
+\0 ziehe ich her.
+\0
+Wenn nicht,
+\0 bleibe ich,
+\0 wo ich bin.
+(3촀\0Bist du dabei?"
+"207_03_a","Bin dabei!"
+"207_03_b","Lieber nicht..."
+"208_01","(%촀\0Du musst dir sicher sein,
+\0 und das
+klingt mir nicht sicher.
+\0 Aber dann
+vielleicht ein andermal!"
+"208_02","(촀\0Oh, kriegst du kalte Füße? 
+\0Das hier
+ist genau die Art Abwechslung,
+\0 die
+ich zu dir bringen würde. 
+\0(촀\0Aber gut."
+"208_03","( 촀\0Oh, 
+\0du möchtest es also lieber
+lassen?
+\0 (촀\0Schade."
 "302","(촀\0Sorryn\0\0
 \0 Schlechte Neuigkeiten!
 \0(
@@ -347,6 +412,21 @@ Promis wie mich ist noch Platz!\0\0(촀\0Wie schade für n	\0.
 \0( (촀\0Aber mach dir keine Vorwürfe.
 \0 Du hast alles versucht, 
 \0n\0!"
+"405","(:촀\0Ohn\0\0 Hin\0\0\0\0(촀\0Tut mir leid,
+\0 dass du warten
+musstest.
+\0 Ich habe also mit dem
+\0Servicecenter \0￿geredet...\0\0(촀\0Die Insel ist proppenvoll!
+\0 Es steht
+tatsächlich kein Fleckchen Land
+mehr zum Verkauf bereit!
+(촀\0Kein Platz mehr für eine kleine,
+\0
+bescheidene Villa mit Golfplatz
+und Swimmingpool...\0\0(촀\0Wie schade für n	\0.
+\0( (촀\0Aber mach dir keine Vorwürfe.
+\0 Du hast alles versucht, 
+\0n\0!"
 "406","(6촀\0Gute Neuigkeiten, 
 \0n\0!\0\0(촀\02\0n	\0 ist um eine schillernde Persönlichkeit reicher!
 \0 Ich freu mich ja so für euch!\0\0(5촀\0Im \0Servicecenter \0￿waren sie ganz aus
@@ -382,6 +462,24 @@ wie ICH abgewiesen werden...\0\0('촀\0Wer nicht will,
 \0 Ich MUSS einfach
 hierherziehen,
 \0 n\0!"
+"424","(촀\0Nimm's mir nicht übel, 
+\0aber deine
+Insel ist mir im Moment etwas ZU
+populär, 
+\0n\0.\0\0(5촀\0Ich bin mehr Trendsetter als jemand,
+\0
+der dem Trend nur folgt. 
+\0Von daher
+ist es vielleicht ganz gut so.\0\0(촀\0Ach, 
+\0wem mache ich hier etwas vor.
+\0
+(촀\0NIRGENDS WÜRDE ICH LIEBER
+HINZIEHEN!
+(4촀\0Sobald also wieder ein Stück Land
+zum Verkauf bereitsteht,
+\0 sag mir
+bitte Bescheid, 
+\0hörst du?"
 "504","($촀\0Echt relaxtes Ambiente auf dieser
 Insel... 
 \0((1촀\0Hier lässt's sich sicher ganz

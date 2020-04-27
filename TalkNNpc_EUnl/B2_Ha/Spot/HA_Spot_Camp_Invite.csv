@@ -125,27 +125,66 @@ geweldig, n\0!"
 "206","<"
 "206_01","(9촀\0Oké, 
 \0ik gooi de handdoek in de ring.
-Je houdt toch van handdoeken, ehn\0\0
-\0(
-n\0?\0\0(5촀\0Jij wilde dat dé n
+Je houdt toch van handdoeken?\0\0(5촀\0Jij wilde dat dé n
 \0 op n	\0 komt wonen?
 \0 Komt in orde, n\0!\0\0(촀\0Nou jan\0\0 waarschijnlijk.
 \0 Ik moet eerst
 nog bij de \0servicebalie\0￿ vragen of het
 mag."
-"206_02","()촀\0Ik geef me gewonnen.
-\0 Hoe heette je ook alweer?
-\0 2\0n\0?
-\0( ($촀\0Cool, n\0!\0\0(5촀\0Nou, zodra ik alles bij de \0servicebalie
+"206_02","()촀\0Ik geef me gewonnen, n\0.\0\0(5촀\0Nou, zodra ik alles bij de \0servicebalie
 \0￿heb geregeld, word ik dus je nieuwe
 buurman.\0\0Ik ben een n\0 van mijn woord, dus ik ga maar snel inpakken, n\0."
 "206_03","(촀\0Jij neemt je uitdagingen serieus,
-zeg, ehn\0\0 
-\0hoe heette je ook alweer? 
-\0
-2\0n\0?\0\0(\0촀\0Oké, dan zijn we eruit.
-\0 (5촀\0Ik ga bij de \0servicebalie\0￿ melden dat binnenkort n
-\0 in je selectie zit."
+zeg! En je overwinningen ook.\0\0(\0촀\0Oké, dan zijn we eruit.
+\0 (5촀\0Maak je borst maar nat, want n
+\0 zit binnenkort in de selectie!\0\0(7촀\0Als ze het tenminste bij de
+\0servicebalie\0￿ goedvindenn"
+"207_01","(촀\0
+\0Jemig, je wilt echt HEEL erg graag dat ik naar n	\0 verhuis, hè?\0\0(촀\0
+\0Het lot mag het voor ons beslissen.
+\0
+(촀\0Als je deze ultieme krachtmeting
+wint, verhuis ik hiernaartoe!\0\0(5촀\0Ben je er klaar voor, n\0?"
+"207_01_a","Kom maar op!"
+"207_01_b","Laat dan maar zitten..."
+"207_02","(7촀\0Ik begrijp het volkomen. Atleten van
+mijn kaliber zijn lastig te vinden.
+\0 Als
+FC n	\0 me nog wiln\0\0\0\0(%촀\0n\0\0laten we het spelletje dan opnieuw
+spelen.
+\0 Als jij wint, krijg je er een
+teamgenoot bij.\0\0(5촀\0Ben je er klaar voor, n\0?"
+"207_02_a","De beuk erin!"
+"207_02_b","Nee, toch liever niet."
+"207_03","(6촀\0Denk je nog steeds cool genoeg te
+zijn om 
+\0MIJN
+\0 buur2man
+vrouw te worden?\0\0(촀\0Hehehe! Daar komen we maar op één
+manier achter, n\0!\0\0( 촀\0Wacht, 
+\0waar zijn mijnn\0\0
+\0 (촀\0Jammer, man!\0\0(2촀\0Ik wilde je uitdagen tot een potje 촀, 
+\0maar ik heb de juiste uitrusting niet bij me.\0\0(촀\0Anders kaarten we erom? 
+\0Niet half
+zo cool natuurlijk, 
+\0maar als je wint,
+kom ik hier wonen, n\0."
+"207_03_a","Goed idee!"
+"207_03_b","Ik pas."
+"208_01","( 촀\0O,
+\0 het leek mij wel een goed plan.
+\0
+(%촀\0Maakt ook niks uit, we hebben het
+er nog wel over, n\0."
+"208_02","(촀\0Dat meen je niet! 
+\0We hebben het
+nog niet eens gehad over op welke
+positie ik zou spelen!
+\0 (촀\0Jemign"
+"208_03","('촀\0Sorry, man. 
+\0De volgende keer zorg ik
+dat ik de juiste uitrusting bij me heb
+voor een potje 촀."
 "302","(촀\0Slecht nieuws.
 \0 Ik heb de
 \0servicebalie\0￿ gesproken en die zeggen
@@ -230,6 +269,14 @@ voor nog een bewoner, n\0.\0\0(%촀\0Dat snap ik best. 
 vrij fors
 \0 en ik wil niet dat ik met mijn
 spieren iemand van het eiland duw."
+"405","(촀\0Bij de \0servicebalie\0￿ zeiden ze nee
+tegen me.
+\0 Er zijn blijkbaar geen
+percelen te koop, n\0.\0\0('촀\0Ik heb het nog gevraagd, maar
+schijnbaar mag je ook niet uit je
+kano leven. 
+\0(
+\0((촀\0Jammer, man!"
 "406","(촀\0Hé! Ik heb antwoord gekregen van
 de \0servicebalie\0￿.
 \0( (촀\0We worden buren,
@@ -259,6 +306,11 @@ voor nieuwe bewoners.
 idee dat het hier zo populair was!\0\0(촀\0Met het aantal calorieën dat ik per
 dag verbrand, snap ik dat ze zuinig
 zijn op hun voorraden, n\0!"
+"424","(%촀\0Er is blijkbaar geen enkel perceel
+meer te koop op het eiland!\0\0(촀\0Waarom heb je niet gezegd dat het
+hier zo populair is?\0\0(""촀\0Je moet het me maar laten weten als
+er toch nog een plekje voor me
+vrijkomt, n\0!"
 "504","(촀\0Mijn work-outs zijn naar een hoger
 niveau getild 
 \0sinds ik hier ben

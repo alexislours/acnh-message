@@ -4,6 +4,11 @@
 "003","¡Hello, n\0!"
 "004","¡Agárrate, n\0!"
 "005","n\0:"
+"006","¡Sorpresa, n\0!"
+"007","""Dear"" n\0:"
+"008","¡Sonríe, n\0!"
+"009","¡Viva la cultura, n\0!"
+"010","¿Sabes qué, n\0?"
 "101","Dicen que hay una cabeza perfecta
 para cada sombrero... ¿o era al
 revés? Sea como sea, creo que
@@ -33,6 +38,35 @@ debería tener. Como eres mi
 aprendiz estilístic2oa quiero que
 las tengas. Así poco a poco vas
 adquiriendo mi sabiduría. ¡De nada!"
+"106","La otra noche tuve un sueño
+increíble: éramos los dueños de
+una tienda exclusiva que vendía
+artículos de última moda; este era
+nuestro producto destacado.
+¿Se hará realidad el sueño?"
+"107","Lo primero que pensé al ver este
+papel de pared fue ""magnifique"".
+Y luego, ""alternativo"". Y ahí me
+acordé de ti, n\0.
+Aquí lo verdaderamente increíble
+es lo bien que quedará en tu casa."
+"108","El otro día, mientras revelaba
+un rollo de fotos en blanco
+y negro, tuve una revelación:
+¡necesitas un suelo nuevo! Sé que
+este quedará mejor que ninguno.
+Y no, no me des las gracias."
+"109","¿Alguna vez habías visto arte
+en estado puro? ¡Pues deléitate!
+Cuando quieras nos encontramos
+para intercambiar impresiones
+artísticas. ¡Soy un experto en
+materia de arte!"
+"110","Como alguien sabio dijo una vez:
+""Una alfombra parece poca cosa,
+pero te hace ver la vida color
+de rosa"". Espero que la pongas en
+tu casa y me digas si tenía razón."
 "201","n
 \0 el estiloso"
 "202","Pisando fuerte, n
@@ -43,3 +77,13 @@ adquiriendo mi sabiduría. ¡De nada!"
 "
 "205","n
 \0 el clásico"
+"206","Cuento contigo, n
+"
+"207","""Saluti"", n
+"
+"208","¡Es todo un placer! n
+"
+"209","Culturalmente tuyo, n
+"
+"210","Impaciente, n
+"

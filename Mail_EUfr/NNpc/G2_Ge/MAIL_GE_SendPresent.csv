@@ -4,6 +4,11 @@
 "003","Conseil de mode, n\0,"
 "004","Une pensée pour n\0,"
 "005","Envie de meubles, n\0 ?"
+"006","Essaie ça, n\0 !"
+"007","Pour toi, n\0."
+"008","Fini de jouer, n\0."
+"009","Très ch2erère n\0,"
+"010","Ouah ! 2\0n\0 !"
 "101","Ma mère m'a envoyé une TONNE de
 trucs pour jardiner. Plus y en a,
 mieux c'est, comme elle dit ! C'est
@@ -33,6 +38,36 @@ SU-PERBE ! Du coup, je l'achète
 direct ! Et je réalise que j'ai pas la
 place de le mettre chez moi. Alors
 si tu en veux, il est à toi."
+"106","Tu sais bien que la mode, c'est
+aussi sortir de sa zone de confort,
+alors voilà quelque chose que tu
+oserais jamais porter. Je suis pas
+là pour voir ta réaction, alors je
+vais me dire que tu l'adores."
+"107","Tu sais ce qui me plaît avec les
+lunettes ? Elles te donnent une
+tête complètement différente. Oh,
+c'est pas ce que je voulais dire. Tu
+vas pouvoir ressembler à quelqu'un
+d'autre... OK, j'abandonne."
+"108","Le secret d'une super tenue, c'est
+le détail qui sert de fil conducteur.
+Un accessoire bien choisi donne
+une cohérence à ta tenue. Et qui
+sait, ça peut se terminer par un
+défilé devant plein de monde ?"
+"109","J'y pense depuis un moment, j'ai
+envie de passer plus de temps
+avec toi. T'envoyer un cadeau
+surprise est peut-être pas le
+meilleur moyen de te le faire
+comprendre, mais tu saisis l'idée."
+"110","Voilà une de mes fringues favorites
+de tous les temps ! Super coupe,
+des couleurs à tomber... C'est un
+joyau stylistique. J'espère que ça
+sera la cerise sur le gâteau de ton
+look déjà cool, n\0."
 "201","Sous les graines, n
 "
 "202","Il marche encore, n
@@ -42,4 +77,14 @@ si tu en veux, il est à toi."
 "204","n
 \0, peluchophile"
 "205","Balance ton meuble, n
+"
+"206","J'en suis aussi fan ! n
+"
+"207","Étouffons l'affaire. n
+"
+"208","Priorité à la mode. n
+"
+"209","À la revoyure. n
+"
+"210","Tadaaa ! n
 "

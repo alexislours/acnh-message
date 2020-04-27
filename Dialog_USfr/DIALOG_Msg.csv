@@ -116,6 +116,8 @@ aux signataires d'un contrat immobilier.\0￿"
 "0603","Il n'est possible d'échanger
 que jusqu'à cinq articles \0livrés
 par voie postale\0￿ par jour."
+"0702","Tu n'as pas assez de cristaux d'amour!"
+"0702_a","OK"
 "0802","\0\0Jeu local et jeu en ligne\0￿
 Lorsque tu joues en mode local ou en
 ligne, les joueurs que tu rencontres
@@ -858,14 +860,14 @@ créé dans un jeu sur Nintendo 3DS?"
 "2101_b","(\0촀\0Télécharger"
 "2102","« \02\0s촀\0￿ »
 Ce motif personnalisé a été trouvé.
-Veux-tu le sauvegarder?"
+Choisis un emplacement de sauvegarde."
 "2102_a","Retour"
-"2102_b","(\0촀\0OK!"
+"2102_b","OK"
 "2103","« \02\0s촀\0￿ »
-Ce motif personnalisé pro a été
-trouvé. Veux-tu le sauvegarder?"
+Ce motif pro a été trouvé. Choisis
+un emplacement de sauvegarde."
 "2103_a","Retour"
-"2103_b","(\0촀\0OK!"
+"2103_b","OK"
 "2110","Impossible de trouver un motif
 personnalisé créé dans un jeu
 sur Nintendo 3DS.
@@ -873,8 +875,8 @@ sur Nintendo 3DS.
 Connecte-toi à \0NookLink\0￿ depuis
 l'application Nintendo Switch Online
 pour lire un QR Code."
-"2120","Tu as déverrouillé l'onglet des
-motifs personnalisés pro."
+"2120","Tu as débloqué l'onglet des
+motifs pro."
 "2140","\0Motifs pros
 \0￿Les motifs pros permettent aux joueurs
 d'avoir plus de contrôle sur les plus
@@ -1124,7 +1126,7 @@ ni aucun mot ou image offensants.\0￿"
 Merci d'avoir installé l'édition \0pro\0￿
 de \0Motifs personnalisés\0￿.\0\0La version pro permet :
 ・de modifier la palette de couleurs;
-・de créer des motifs perso pro.\0\0Nous espérons que les fonctions
+・de créer des motifs pro.\0\0Nous espérons que les fonctions
 pro te permettront d'exprimer
 toute ta créativité!"
 "5053","\0\0Motifs perso affichant l'icône \0￿
@@ -1520,3 +1522,24 @@ seront réinitialisées si tu lances cette
 partie.\0\0Veux-tu jouer avec \0s\0촀\0￿?"
 "8015_a","Je sais pas."
 "8015_b","Oui!"
+"8016","Le compte Nintendo associé à cet
+utilisateur n'est pas le même que
+précédemment.\0\0Toutes les fonctions nécessitant
+un accès à Internet, comme les
+Meilleurs amis, seront réinitialisées si
+tu reprends cette partie. Continuer?"
+"8016_a","Non"
+"8016_b","Oui"
+"8017","Aucun compte Nintendo n'est
+associé à cet utilisateur, ou
+l'utilisateur doit se reconnecter
+à son compte Nintendo.\0\0Toutes les fonctions nécessitant
+un accès à Internet, comme les
+Meilleurs amis, seront réinitialisées si
+tu reprends cette partie.
+Souhaites-tu reprendre cette partie
+et réinitialiser toutes les fonctions
+nécessitant une connexion Internet?"
+"8017_a","Non"
+"8017_b","Oui"
+"8019","Reprendre la partie"

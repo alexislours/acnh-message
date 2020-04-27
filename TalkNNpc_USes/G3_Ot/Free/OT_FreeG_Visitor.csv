@@ -7,7 +7,7 @@ de n\0?"
 "001_b","¿Qué fruta?"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(%촀\0Así me gusta, n\0:
 \0
 un espíritu curioso con ganas
@@ -56,6 +56,15 @@ maravilloso:
 y cultura a la vuelta de la esquina!"
 "017","<
 "
+"018","()촀\0¿Ya visitaste nuestro \0museo\0￿,
+cielo? 
+\0Tiene verdaderas obras
+de arte, n\0.
+(촀\0Hacer turismo para tomar sol está
+bien,
+\0 pero no hay que olvidarse de
+las experiencias culturales."
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -83,6 +92,11 @@ historia,
 ¿Has visto 2\0
 ?
 \0 (5촀\0Impresionante."
+"031","(촀\0Alguien donó 2\0
+ al museo, ¿sabías?\0\0(%촀\0Deberías ir a verl2)촀oa\0 si no lo has hecho
+todavía.
+\0 Es una maravilla que vale
+la pena contemplar."
 "201","<\0ÊÎ"
 "202","(촀\0Desde que me mudé, me preocupo
 por tin\0\0

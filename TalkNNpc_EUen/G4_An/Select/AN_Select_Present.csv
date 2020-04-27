@@ -51,6 +51,33 @@ accept this.
 smell I can't get enough of.
 \0( (촀\0Very
 cool, n\0!"
+"121","(2촀\0Whoa! 
+\0You SURE
+\0 you wanna give
+this to me? Not that I'm complainin',
+butn\0\0
+\0 (촀\0Thanks, n\0!"
+"122","(;촀\0Art? 
+\0Seriously? 
+\0For me?
+\0 (2촀\0I don'tn\0\0
+know what to say. 
+\0This is rad. 
+\0Is it
+valuable?
+\0 It looks valuable.\0\0(\0촀\0Know what? ('촀\0I don't think I'm cool
+with keeping this right now.
+\0( (촀\0You
+should hang onto it, n\0."
+"123","(촀\0Wait, hang on, hold up! 
+\0You're givin'
+me art?!
+\0( (촀\0Wow, this is really cool!\0\0(4촀\0Hey, uhn\0\0 I don't wanna sound
+ungrateful,
+\0 but has \0Blathers\0￿ seen
+this yet, n\0?\0\0(2촀\0I just feel like \0Blathers\0￿ has done
+a ton for n\0, so he
+oughta get first crack at it."
 "201","(촀\0I bet this'll look great on me!"
 "202","(4촀\0Y'know, this kinda stuff isn't normally
 my style,
@@ -113,8 +140,10 @@ Thanks a ton, n\0!"
 "401","(촀\0You thinkin' what I'm thinkin'?
 \0( (5촀\0Let's
 paint the island with greenery!"
-"402","(촀\0Now THAT is a tasty-lookin'
-}\0\0!"
+"402","(촀\0
+\0There's nothing tastier than 2\0
+}\0\0. 
+\0Thanks!"
 "403","(촀\0Thanks! 
 \0I could eat these for days.
 \0
@@ -211,6 +240,15 @@ accept this. 
 \0Sorry, n\0.\0\0(%촀\0It's SUPER thoughtful, though.
 \0
 I really appreciate it!"
+"509","(&촀\0That what I think it is? 
+\02\02\0
+}\0\0?"
+"510","(촀\0Ha! 
+\0You rock, n\0!
+\0
+2\0n\0 for life! 
+\0Buddies
+for life, n\0!"
 "511","(%촀\02\02\0}\0\0,
 right? 
 \0VERY cool!"

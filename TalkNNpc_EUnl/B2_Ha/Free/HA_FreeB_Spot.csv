@@ -130,7 +130,8 @@ niet erg uitgebreid, vind je niet? 촆(%촀\0Ik
 hoop dat je ze een beetje helpt!\0\0촆촃( 촀\0Huh? Waarom ik het niet zelf doe?\0\0(7촀\0Hehe, ik ben al druk genoeg met mijn
 eigen kunstwerk. Denk maar niet dat
 dit lichaam zichzelf in vorm houdt!"
-"025","<opqt"
+"025","<
+opqrt"
 "029","촊촉(%촀\0Als je door een vraag wordt
 overvallen, ga dan naar de
 \0servicebalie\0￿ voor het antwoord!\0\0촆촃()촀\0Zo heb ik \0Isabelle \0￿gevraagd of we
@@ -171,6 +172,7 @@ vel zitten als ik?"
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉(촀\0Bij een bezoekje aan het \0museum
 \0￿vliegt de tijd voorbij!\0\0촆촃(%촀\0Laatst ging ik er 's ochtends naartoe,
 en tot mijn grote verbazing was het
@@ -196,3 +198,11 @@ meer dan goed! 2\0n\0!"
  in het \0museum\0￿ is zo cool!\0\0(촀\0Als ik ooit een fossiel word, wil ik
 ook zo tentoongesteld worden,
 n\0."
+"122","(%촀\02\02\02촃
+ in het museum 2*)촀
+heeft
+heefthebben een speciaal plekje in mijn hart!\0\0(1촀\0Ik hoef maar naar zo'n meesterwerk
+te kijken, (.촀\0en ik kom helemaal tot
+rustn\0\0
+(;촀\0Zulke dutjes zijn onbetaalbaar,
+geloof me, n\0!"

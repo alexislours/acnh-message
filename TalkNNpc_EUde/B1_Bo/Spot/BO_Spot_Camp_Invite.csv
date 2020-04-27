@@ -205,6 +205,71 @@ und ihr sagen, 
 \0dass ich nicht zum
 Essen komme, 
 \0n\0!"
+"207_01","(촀\0Oh, 
+\0du lädst mich noch mal auf
+deine Insel ein? 
+\0(촀\0Puh, 
+\0n\0.
+\0
+Was soll ich denn jetzt machen?\0\0(촀\0Ha, 
+\0ich hab's! 
+\0Lass uns ein Spiel
+spielen! 
+\0Wenn du gewinnst,
+\0 zieh ich
+ohne zu zögern zu dir!"
+"207_01_a","Einverstanden!"
+"207_01_b","Nee, lass mal."
+"207_02","(
+촀\0Hmmmn\0\0 So ein Umzug klingt ganz
+schön anstrengend, 
+\0aber ich mag
+dich schon gern öfters sehen...
+(촀\0So eine knifflige Entscheidung! 
+\0(촀\0Oh,
+\0
+warum spielen wir nicht ein Spiel?
+\0
+Wenn du gewinnst, 
+\0zieh ich zu dir!"
+"207_02_a","Gerne!"
+"207_02_b","Jetzt nicht..."
+"207_03","(7촀\0Du magst mich bestimmt gern,
+\0 weil
+du mich so oft einlädstn\0\0 
+\0(촀\0Aber so ein
+Umzug ist ganz schön viel Arbeit.
+(촀\0Hey, 
+\0ich hab eine lustige Idee!
+\0 Wir
+spielen ein kleines Spiel, 
+\0(%촀\0und wenn
+du gewinnst, 
+\0zieh ich auf deine Insel!"
+"207_03_a","Klar, warum nicht?"
+"207_03_b","Nee, muss nicht sein."
+"208_01","(7촀\0Null Problemchen. 
+\0Dann muss ich
+wenigstens nicht mein ganzes Nasch-
+zeugs rüberschleppen. 
+\0Äh, he he he."
+"208_02","( 촀\0Nicht? 
+\0Ach, 
+\0schade. 
+\0Ich hab gedacht,
+\0
+du magst Spiele,
+\0 n\0. 
+\0(촀\0Na ja,
+\0
+da kann man wohl nichts machen!"
+"208_03","(촀\0Ach, 
+\0schon okay. 
+\0(7촀\0War aber trotzdem
+total lieb von dir,
+\0 dass du an mich
+gedacht hast. 
+\0Äh, he he he!"
 "302","(촀\0Ich wollte dich nicht warten lassen!
 \0
 Aber ich hab mit den Leuten vom
@@ -309,6 +374,16 @@ Leute, 
 wir trotzdem irgendwann auf der
 selben Insel wohnen, 
 \0n\0."
+"405","Ich hab im \0Servicecenter \0￿gefragt,
+\0
+(:촀\0aber (촀\0da es kein Land zu verkaufen
+gibt, 
+\0(촀\0kann ich nicht herziehen...\0\0(촀\0Das ist total schade, 
+\0aber na ja...
+\0
+(\0촀\0Hoffentlich können wir trotzdem
+einmal Nachbarn sein, 
+\0n\0."
 "406","(촀\0Na gut, 
 \0ich hab also mit den Leuten
 vom \0Servicecenter \0￿geredet und...
@@ -348,6 +423,17 @@ wohnen kann. 
 \0($촀\0Aber vielen Dank
 für die Einladung, 
 \0n\0!"
+"424","(%촀\0Auf deiner Insel sind so viele Leute,
+\0
+und kein Plätzchen zum Kaufen... 
+\0Ich
+kann also nicht herziehen... 
+\0(촀\0Schade.\0\0(\0촀\0($촀\0Ich muss jetzt gehen! 
+\0Ich hatte
+hier ganz viel Spaß! 
+\0Danke dafür,
+\0
+n\0!"
 "504","(촀\0Deine Insel ist fast so kuschelig wie
 meine Lieblingskuscheldecke.
 \0 (1촀\0Und es

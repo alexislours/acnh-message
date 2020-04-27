@@ -307,6 +307,25 @@ aber wir könnten dich \0beim Flugzeug
 \0Einverstanden?d"
 "048_a","Ja, bitte!"
 "048_b","('촁\0Ich bleib doch hier."
+"049","d\0n\0\0Hey!
+\0 Du treibst dich gerade auf
+einer dieser \0Labyrinth-Inseln\0￿ von
+\0Tom Nook\0￿ rum, 
+\0stimmt's?\0\0In dem Fall soll ich dich direkt beim
+\0Flugzeug\0￿ absetzen, 
+\0damit du dich
+neu sortieren kannst. 
+\0Passt das?d"
+"049_01","d\0n\0\0Hey!
+\0 Du treibst dich gerade auf
+einer dieser \0Labyrinth-Inseln\0￿ von
+\0Tom Nook\0￿ rum, 
+\0stimmt's?\0\0In dem Fall soll ich dich direkt beim
+\0Flugzeug\0￿ absetzen, 
+\0damit du dich
+neu sortieren kannst.d"
+"049_a","Geht klar!"
+"049_b","('촁\0Ich bleib doch hier."
 "050_01","d\0Du willst zu deinem Zelt?
 \0
 Gut, 
@@ -632,6 +651,11 @@ auf n	\0 nutzen,
 und nur im Freien."
 "301","Für diese Insel scheint meine
 Karten-App keine Daten zu habenn"
+"311","Nanu? 
+\0„Kein Empfang“n\0\0
+\0 Hmmm...
+\0
+Funktioniert wohl hier nicht."
 "321","Im Party-Modus kann ich
 anscheinend die Chatlog-
 App nicht öffnenn"

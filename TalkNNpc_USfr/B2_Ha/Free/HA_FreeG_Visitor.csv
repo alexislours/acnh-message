@@ -5,7 +5,7 @@ de cette île, n\0?"
 "001_b","Pas du tout."
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Ah! C'est très bien!
 \0 (""촀\0N'hésite pas
 à en manger autant que tu veux!"
@@ -44,6 +44,24 @@ classer parmi les champions,
 \0 non?"
 "017","<
 "
+"018","(%촀\0T'es déjà allé2\0e visiter la galerie d'art
+du \0musée\0￿?
+\0((1촀\0 C'est l'endroit idéal pour
+méditer.(촀\0\0\0Sauf qu'une fois, je méditais sur la
+place de mes muscles dans mon
+corpsn\0\0
+\0(
+( 촀\0Et quand j'ai ouvert les yeux, une
+foule me regardait en prenant des
+notes.\0\0(2촀\0Quelqu'un a même dit que j'étais
+typique de la période « musclée » de
+l'artiste. Quel succès, n\0!"
+"019","($촀\0Est-ce 2
+que qu'⁠n\0 te plaît?
+\0 Je regrette pas une seule seconde d'avoir emménagé ici.\0\0(9촀\0Mais j'imaginais pas que pêcher et
+chasser les insectes (촀\0fasse autant
+travailler les muscles, n\0!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -83,6 +101,11 @@ eu l'occasion de l'essayer."
 \0 2)촀ilelle\0 fait
 sensation!
 \0 Je suis vert de jalousie!"
+"031","('촀\0J'ai encore demandé si mes muscles
+pouvaient être exposés dans la
+galerie d'art du \0musée\0￿n\0\0
+\0 En vain.\0\0(촀\0Par contre, quelqu'un offre 2\0
+ et on lui trouve directement une place?\0\0(촀\0C'est pas juste, n\0."
 "201","(촀\0Te revoir me fait replonger dans le
 passén\0\0
 \0 (6촀\0Tu te rappelles?

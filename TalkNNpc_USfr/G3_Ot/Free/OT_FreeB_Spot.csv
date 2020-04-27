@@ -217,7 +217,8 @@ coup de main.
 \0 (촀\0C'est que je le veux,
 ce musée, n\0!
 \0(촀"
-"025","<opqt"
+"025","<
+opqrt"
 "029","(&촀\0Tu as quelque chose à faire au
 \0bureau des résidents\0￿?
 \0 (촀\0Ou tu viens
@@ -273,6 +274,7 @@ les habitants sont charmants ici!"
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉(""촀\0J'aime beaucoup l'atmosphère
 feutrée du \0musée\0￿.
 \0 Pas toi, n\0?\0\0촆촃(%촀\0On parle toujours tout bas, (4촀\0comme
@@ -302,3 +304,10 @@ leur guise dans leur habitat naturel.
 nous laisse imaginer ce à quoi le
 monde pouvait ressembler, avant.
 \0(촀"
+"122","(%촀\0Quel honneur de lever les yeux sur
+les chefs-d'œuvre dont regorge notre
+\0musée\0￿, n\0.\0\0(1촀\0La 
+, par exemple. Quelle technique! Quelle majesté! Quelle splendeur!\0\0( 촀\0Enfin, je n'ai pas besoin de te faire
+un dessin. 
+\0(5촀\0Entre amateurs éclairés
+et sophistiqués, on se comprend."

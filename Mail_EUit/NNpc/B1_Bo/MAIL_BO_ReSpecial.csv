@@ -12,6 +12,7 @@
 "011","Indovina un po', n\0?"
 "012","Eeeeehiiiiiiii, n\0!"
 "013","Ehi, n\0!"
+"014","All'artistic2oa n\0,"
 "018","Come te la passi, n\0?"
 "019","Che devo fare, n\0?!"
 "020","Ehilà, n\0!"
@@ -89,6 +90,12 @@ lo strumento che mi hai inviato,
 ma mi guardavano tutti in modo
 strano... E dire che lo tenevo
 al guinzaglio, come si deve!"
+"114","L'opera d'arte che mi hai mandato
+è così bella che mi fa sentire
+piccolo piccolo in uno smisurato
+universo. Insomma, sarebbe una
+copertina pazzesca per una serie
+di fantascienza!"
 "118","Mi piacciono i fossili! Pare che
 mettendone uno sotto il cuscino,
 tu possa sognare dinosauri e altri
@@ -135,6 +142,8 @@ ridere anche solo la metà del tuo!"
 "
 "213","Il tuo amico n
 "
+"214","Il tuo ispirato n
+\0!"
 "218","Il tuo paleontologico n
 "
 "219","Il tuo dubbioso n

@@ -243,6 +243,79 @@ chose obtenir une autorisation
 auprès du \0bureau des résidents\0￿.
 ($촀\0Veux-tu m'attendre une seconde,
 le temps que j'aille demander?"
+"207_01","(촀\0Oh!
+\0 Tu réitères ton invitation?
+\0
+(6촀\0Ma foi, on ne peut pas décemment
+te le reprocher.
+(
+촀\0Mais j'hésite, j'hésiten\0\0(촀\0 Oh, j'ai
+trouvé!
+\0 Laissons le hasard prendre
+cette difficile décision à ma place!
+()촀\0On pourrait jouer à un petit jeu.
+\0 Si tu
+gagnes, j'emménage sur ton île
+superbe. 
+\0(&촀\0Ça te va, n\0?"
+"207_01_a","On joue!"
+"207_01_b","J'aime pas les jeux."
+"207_02","( 촀\0Oh, tu me demandes à nouveau de
+vivre sur ton île? 
+\0(
+촀\0C'est flatteurn\0\0
+Et même tentant.
+(6촀\0Mais il faut plus qu'un compliment
+bien pensé pour s'offrir le bonheur
+de m'avoir comme voisine.
+($촀\0Je propose plutôt un jeu. 
+\0()촀\0Si tu
+remportes la victoire, je poserai mes
+valises stylées sur ta charmante île.
+(&촀\0Prêt2\0e à relever le défi?"
+"207_02_a","Je relève!"
+"207_02_b","J'aime pas les défis."
+"207_03","(촀\0Ohn\0\0 Tu me prends au dépourvu.
+J'étais certaine que tu ne réitérerais
+pas ton invitationn\0\0
+(6촀\0Mais cette tentative désespérée a le
+don de m'émouvoir.
+\0 (
+촀\0Par contre, je ne
+serais pas si facile à convaincre.
+(촀\0Je sais! 
+\0()촀\0Jouons à un jeu, dans les
+règles et sans triche, ça va de soi.
+\0
+Si tu gagnes, je m'installe ici.
+(촀\0Oh, dis oui! 
+\0(촀\0Je sens que ça va être
+vraiment amusant, n\0!"
+"207_03_a","Oui!"
+"207_03_b","C'est non."
+"208_01","( 촀\0Oh, je comprends. 
+\0(촀\0Il faut croire que
+le destin a d'autres surprises pour
+moi en réserve."
+"208_02","(촀\0Oh oh oh! 
+\0Regardez qui fait s2
+ona
+difficile, maintenant. 
+\0(%촀\0Bien joué,
+2&mon chouma chérie. 
+\0Mes compliments!
+(촀\0Je n'emménagerai pas, mais je
+profiterai de chaque moment qu'on
+vivra ici,
+\0(6촀\0 adorable petit2\0e farceu2
+rse."
+"208_03","(촀\0Oh, vraiment? 
+\0Comme quoi,
+tu n'étais peut-être pas aussi
+désespéré2\0e que je le croyais.
+(%촀\0Tant mieux, ma foi. 
+\0(촀\0Et merci quand
+même pour l'invitation, ça fait plaisir."
 "302","($촀\0Pardon pour l'attente!
 \0(
 (촀\0Malheureusement, j'ai de mauvaises
@@ -343,6 +416,23 @@ déçue de l'apprendre,
 \0((촀\0 mais ce n'est
 que partie remise,
 \0 n'est-ce pas?"
+"405","(촀\0Merci de ta patience,
+\0 mais
+malheureusement j'ai une mauvaise
+nouvelle pour nous deuxn\0\0
+Je reviens du \0bureau des résidents\0￿,
+\0
+('촀\0
+et il n'y a aucun terrain à vendre.\0\0(%촀\0Ça ressemble à un problème
+d'aménagement du territoire,
+\0
+si tu veux mon avis.
+(촀\0Je suis trop bien élevée pour faire
+un scandale, naturellement, mais
+j'avoue une pointe de déception.
+(촀\0Enfin, je n'ai plus qu'à attendre que
+les étoiles s'alignent en ma faveur
+et libèrent un terrain pour vivre icin"
 "406","(촀\0Désolée pour l'attente.
 \0 (4촀\0Je suis allée
 au \0bureau des résidents\0￿,
@@ -394,6 +484,15 @@ fouineurs?
 ne pas pouvoir venir. 
 \0((촀\0J'ai envie d'être
 là où les choses se passent!"
+"424","(
+촀\0J'ai du mal à croire qu'il n'y ait plus
+de place du tout sur ton îlen\0\0(&촀\0 
+Mais ça finira bien par arriver, non?
+('촀\0Toute cette histoire est bien
+dommage,
+\0 en tout cas.
+\0( (5촀\0J'aurais tant
+eu à vous apporter!"
 "504","Vraiment, 2&mon chouma chérie,
 \0(%촀\0 cette île a
 quelque chose de spécial.\0\0(촀\0Je me sens tellement bien ici!

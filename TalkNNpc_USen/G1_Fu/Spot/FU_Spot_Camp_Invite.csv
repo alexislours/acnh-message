@@ -143,6 +143,80 @@ done with my camping trip.
 to check with \0Resident Services \0￿to
 get their approval. 
 \0(촀\0I'm on it!"
+"207_01","(촀\0Really?
+\0 Even though I rejected you
+last time you asked?\0\0(2촀\0Wow, I'm touched. 
+\0That saidn\0\0
+\0
+(4촀\0I don't know if I'm ready to make
+such a big life decision.
+(촀\0
+\0I know! 
+\0(촀\0Why don't we play a game to
+help me decide?
+\0 If you win,
+\0 I'll honor
+your request and move here.
+($촀\0Sound like a plan, n\0?"
+"207_01_a","Yeah, let's do it!"
+"207_01_b","I'll pass."
+"207_02","(촀\0You're nothing if not persistent,
+n\0.
+\0 It's actually
+quite sweet, n\0.
+(4촀\0But 
+\0should I move here? 
+\0Really?
+\0
+(촀\0I can't decide! 
+\0(
+촀\0
+\0Sayn\0\0
+\0how about we
+we play a little game?
+(%촀\0And we'll let the outcome of the
+game determine the outcome of my
+life! 
+\0( 촀\0What could possibly go wrong?
+()촀\0If you win,
+\0 I'll move.
+\0 If you lose,
+\0
+welln\0\0
+\0let's just see what happens.
+\0
+(&촀\0Are you in?"
+"207_02_a","Yeah, and I'll win!"
+"207_02_b","No, thanks."
+"207_03","(4촀\0I want to say yes, butn\0\0
+\0(촀\0I have a habit
+of giving in too easily to peer
+pressure
+\0 in situations like this.
+(촀\0I have an idea!
+\0 Why don't we leave
+my future up to luck?\0\0(\0촀\0We'll play a game and, if you win,
+\0
+(촀\0I'll make n	\0 my new
+home.
+\0(촀\0 Ready to go?"
+"207_03_a","I was born ready!"
+"207_03_b","Not so much."
+"208_01","(촀\0Oh?
+\0 That's too bad.
+\0( (촀\0I'm not
+disappointed at alln"
+"208_02","( 촀\0So that's a no? 
+\0Well, 
+\0()촀\0there's a time
+and place for games,
+\0 and I guess
+this was neither."
+"208_03","(촀\0I wasn't expecting you to say that,
+\0
+but I understand. 
+\0(촀\0This just wasn't
+the right time, I guess."
 "302","(""촀\0Sorry to keep you waiting!
 \0(
 I checked with \0Resident Services\0￿,
@@ -243,6 +317,17 @@ but they couldn't help me
 in
 \0 (촀\0any more residents right now.\0\0(촀\0I'm disappointed,
 \0 (촀\0but I'm glad I tried."
+"405","(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+but the news wasn't good
+\0n\0\0
+(8촀\0There just aren't any plots for sale
+\0
+(촀\0on the island right now.\0\0(촀\0Even though things didn't work out
+for me this time,
+\0 (촀\0I'm still glad I tried."
 "406","(4촀\0It's um
 \0n\0\0 2\0n\0,
 \0 right?\0\0(""촀\0Sorry to keep you waiting!
@@ -281,6 +366,11 @@ bothering your \0Resident Services
 residents away,
 \0 (%촀\0n	\0
 must be really booming!"
+"424","(8촀\0If only there was an open plot for
+sale on n	\0.
+\0 (촀\0I'd love
+to move here, 
+\0n\0!"
 "504","(촀\0This island's community and scenery
 are both great!
 \0 (촀\0I just love it here.\0\0(1촀\0I really hope someday

@@ -46,10 +46,12 @@ It would be in the way of folks
 trying to get to the airport!"
 "028","You can't put door decorations
 on the front of a tent!"
-"029","You can't plant a tree in a hole
-without a trusty shovel in hand!"
+"029","You can't plant a tree or bush in a
+hole without a trusty shovel in hand!"
 "030","You can't plant things when other
-players are nearby!"
+folks are nearby!"
+"031","You can't bury things when folks
+are nearby!"
 "051","You can't place anything else here.
 There isn't enough room!"
 "052","The room is full, so you can't place
@@ -128,6 +130,8 @@ possibly eat anything else."
 "415","You can't plant that when you're
 on an island that doesn't belong
 to one of your Best Friends."
+"416","You can't wear that right now!"
+"417","You can't build fences right now!"
 "430","You can't put that item away
 because your storage is full."
 "438","This won't all fit in your storage!"

@@ -1,11 +1,13 @@
 ﻿"label","text"
 "Net_nintendo","ニンテンドー"
+"SNpc_alw_alp","リサ＆カイゾー"
 "SNpc_bey","ジャスティン"
 "SNpc_bey_event","ジャスティン"
 "SNpc_boc","ウリ"
 "SNpc_chy","レックス"
 "SNpc_chy_event","レックス"
 "SNpc_dod","モーリー"
+"SNpc_fox","いなりマーケット"
 "SNpc_gst","ゆうたろう"
 "SNpc_gul","ジョニー"
 "SNpc_hgc","ことの"
@@ -17,7 +19,6 @@
 "SNpc_sza","しずえ"
 "SNpc_tkk","とたけけ"
 "System_airline","ドードー・エアラインズ"
-"System_amiibo_print_service","\0\0アミーボamiiboプリントサービス"
 "System_atm","たぬきバンク"
 "System_catalog","たぬきショッピング"
 "System_FarwayMuseum","ファーウェイはくぶつかん"

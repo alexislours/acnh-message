@@ -150,6 +150,73 @@ mijn kampeertripje op zijn einde is.\0\0(
 \0
 moet ik eerst bij de \0servicebalie \0￿om
 toestemming vragen.\0\0(촀\0Ik ga er meteen achteraan!"
+"207_01","(촀\0Echt waar?
+\0 En dat terwijl ik je
+aanbod de vorige keer heb
+afgewezen?\0\0(2촀\0Wauw, dat doet me wel wat. 
+\0
+Maarn\0\0
+\0 (4촀\0ik weet niet of ik zo'n
+grote verandering aankan.
+(촀\0
+\0O, ik heb een idee! 
+\0(촀\0Laten we een spel
+spelen dat me helpt een keuze te
+maken!
+Als jij wint,
+\0 dan neem ik je aanbod
+aan en kom ik hier wonen. ($촀\0Hoe klinkt
+dat, n\0?"
+"207_01_a","Dat is een goed idee!"
+"207_01_b","Ik vind het niks."
+"207_02","(촀\0Je bent behoorlijk volhardend, n\0.
+\0 Eigenlijk is het lief, n\0.\0\0(4촀\0Maar 
+\0wil ik hier komen wonen? 
+\0Ja?
+\0
+Nee?
+\0 (촀\0Ik weet het niet! 
+\0(
+촀\0Wachtn\0\0
+\0 zullen
+we een spelletje spelen?
+(%촀\0Dan bepaalt de uitkomst de
+belangrijkste keuze van mijn leven!
+\0
+( 촀\0Hoe kan dat nou fout gaan?
+()촀\0Als je wint,
+\0 verhuis ik.
+\0 Als je verliest,
+\0
+noun\0\0
+\0 dat zie ik dan wel.
+\0 (&촀\0Doe je mee?"
+"207_02_a","Ja, en ik ga winnen!"
+"207_02_b","Liever niet."
+"207_03","(4촀\0Ik wil ja zeggen, maarn\0\0
+\0(촀\0 in situaties
+als deze
+\0 geef ik onder druk van
+anderen veel te vaak toe.\0\0(촀\0Ik heb een idee!
+\0 Waarom laten we
+mijn keuze niet over aan het lot?\0\0(\0촀\0We spelen een spel en als jij wint,
+\0(촀\0 verkas ik naar n	\0.
+\0(촀\0 Ben je er klaar voor?"
+"207_03_a","Helemaal!"
+"207_03_b","Niet echt, nee..."
+"208_01","(촀\0O?
+\0 Dat is jammer.
+\0( (촀\0Ik ben helemaal
+niet teleurgesteldn"
+"208_02","( 촀\0Liever niet? 
+\0Oké, 
+\0()촀\0we hebben allemaal
+weleens geen zin in spelletjes."
+"208_03","(촀\0Dat had ik niet verwacht,
+\0 maar ik
+begrijp het wel. 
+\0(촀\0Misschien komt het
+op een ander moment beter uit."
 "302","(""촀\0Sorry voor het wachten!
 \0( Ik ben bij de
 \0servicebalie\0￿ geweest
@@ -241,6 +308,19 @@ nieuwe bewoners kunnen aannemen.\0\0(촀\0Jammer, hè?
 \0(촀\0 Maar ja, het is toch
 goed dat ik het in ieder geval heb
 gevraagd."
+"405","(""촀\0Ben ik weer!
+\0(()촀\0 Bij de \0servicebalie\0￿
+\0
+hadden ze helaas slecht nieuws voor
+me
+\0n\0\0
+(8촀\0Ze zeggen
+\0 dat er geen percelen
+te koop staan, (촀\0waardoor er geen
+nieuwe huizen meer bij passen.\0\0(촀\0Jammer dat het niet is gelukt,
+\0(촀\0 maar
+nu weet ik tenminste waar ik aan toe
+ben."
 "406","(4촀\0Jij bent
 \0n\0\0 2\0n\0,
 \0 toch?\0\0(""촀\0Hopelijk heb ik je niet te lang laten
@@ -276,6 +356,9 @@ veel lastig te vallen,
 "423","Als ze aanvragen moeten afwijzen,
 \0(%촀\0 is
 n	\0 wel heel populair!"
+"424","(8촀\0Was er maar een perceel vrij op n	\0.
+\0 (촀\0Ik wil hier zo graag komen wonen, 
+\0n\0!"
 "504","(촀\0De bewoners en het landschap hier
 zijn geweldig!\0\0(1촀\0Ik hoop dat ik ooit op zo'n fijn eiland
 kan wonen,

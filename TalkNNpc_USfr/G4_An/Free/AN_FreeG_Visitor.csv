@@ -8,7 +8,7 @@ Quel fruit est la spécialité
 "001_b","Un de ceux-là?"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(3촀\0T'as gagné cette manche. 
 \0()촀\0Tout juste,
 les n촁. 
@@ -52,6 +52,20 @@ Y'a encore du boulot pour l'moment,
 mais un journ\0\0(촀\0 Ouais, un jour!"
 "017","<
 "
+"018","(촀\0Hé, t'as fait un tour dans la galerie
+d'art du \0musée\0￿?
+\0 Tu rates un truc si
+c'est pas l'cas, n\0.
+()촀\0Y a des chefs-d'œuvre à t'en décoller
+les mirettes tellement ils sont beaux.
+\0(
+(촀\0Oublie pas tes lunettes!"
+"019","(촀\0Alors, qu'est-ce que tu viens faire
+à n\0?
+\0 Chasser la p'tite bête et pêcher la poiscaille?\0\0(\0촀\0Parce que si t'as d'la chancen\0\0(5촀\0 On a
+des bestiaux pas piqués des vers
+dans l'coin, n\0!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -72,6 +86,14 @@ est parfaite pour s'prendre en photo."
 sans être passé2\0e au \0musée\0￿ voir
 2\0
 !"
+"031","(촀\0Ça me met la caboche en ébullition
+quand je m'trouve devant 2\0
+
+.\0\0(1촀\0J'invente de nouvelles recettes,
+j'ai des idées jardinage, j'pense à
+des farcesn\0\0 Y a qu'à d'mander!
+(촀\0J'pensais pas qu'la galerie d'art du
+\0musée\0￿ me f'rait un tel effet!"
 "201","<\0ÊÒ"
 "202","(촀\0Tiens,
 \0 comme on s'retrouve!\0\0(촀\0T'es venu2\0e visiter n\0, ou t'es venu2\0e exprès pour me voir?"

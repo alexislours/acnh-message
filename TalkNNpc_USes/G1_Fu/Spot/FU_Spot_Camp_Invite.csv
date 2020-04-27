@@ -116,6 +116,51 @@ quiso que me mudara a esta isla.
 (촀\0Ahora mismo hablaré con los
 de la \0oficina de gestión vecinal\0￿
 para empezar con los papeles."
+"207_01","(촀\0¿De verdad?
+\0 Me alegro de que(4촀\0 sigas
+intentando a pesar de que la última
+vez tuve que negarme.
+(촀\0Me gustaría decir que ahora lo tengo
+más claro, pero no es así.
+\0('촀\0 No es una
+decisión fácil.
+(촀\0¿Y si lo dejamos en manos
+del destino?
+\0 ¡Lo decidiremos
+jugando a un juego!
+(촀\0Si tú ganas, me mudaré a esta isla.
+\0
+¿Te gusta la idea, n\0?"
+"207_01_a","¡Sí, juguemos!"
+"207_01_b","Mejor no..."
+"207_02","(촀\0¡Gracias por insistir, calabacita!\0\0(촀\0Me gustaría mudarme aquín\0\0 (촀\0¡Pero no
+sé qué hacer!
+\0 (촀\0¿Y si jugamos a algo y
+decidimos según el resultado?
+()촀\0Si ganas tú, me mudo.
+($촀\0¿Te animas?"
+"207_02_a","¡Juguemos!"
+"207_02_b","Mejor paso"
+"207_03","(촀\0Quisiera decir que sí, pero no
+es una decisión sencilla.\0\0(%촀\0Mi corazón me dice que adelante,
+\0
+(촀\0pero mi cabeza me dice que no
+me precipite.\0\0Bueno, (촀\0dejémoslo en las manos
+del destino, ¿sí?
+\0 ()촀\0Juguemos algo
+y si ganas, me mudo.
+\0 ¿Qué dices?"
+"207_03_a","¡A jugar!"
+"207_03_b","No me convence"
+"208_01","(촀\0Ah, bueno,
+\0 si crees que no vale
+la pena,
+\0 lo dejamos."
+"208_02","(촀\0Bueno, supongo que el destino
+ya lo tenía decidido."
+"208_03","(촀\0¿En serio?
+\0 Bueno, parece que la
+decisión está tomada."
 "302","($촀\0¡Perdón por dejarte esperando!
 \0
 Hablé con los de la \02\0Ȃ촄oficina de gestión vecinal \0￿('촀\0y no traigo buenas noticiasn\0\0
@@ -194,6 +239,17 @@ residentes en estos momentos.\0\0(촀\0Qué maln\0\0
 \0 pero quizá pueda
 volver a intentarlo más adelante,
 n\0."
+"405","(9촀\0Bueno, calabacita,
+\0 ya me
+respondieron los de la \0oficina
+de gestión vecinal\0￿.
+()촀\0Resulta que en la isla ya no hay
+terrenos a la venta,
+\0 así que no me
+podré mudar.
+(촀\0Qué mal que no salió como esperaba,
+\0
+pero al menos lo intenté."
 "406","(4촀\0Perdón la esperan\0\0
 \0 Hablé con los de
 la \02\0Ȃ촄oficina de gestión vecinal\0￿ yn\0\0
@@ -216,6 +272,10 @@ a los de la \02\0Ȃ촄oficina de gestión vecinal\0￿."
 "423","(촀\0No me extraña que tengan tantas
 peticiones,
 \0 ¡esta isla es maravillosa!"
+"424","(촀\0De haber sabido que se quedarían
+sin terrenos a la venta,
+\0 habría
+intentado mudarme mucho antes."
 "504","(촀\0Esta isla es mágican\0\0
 \0 El paisaje
 es asombroso y la gente maravillosa.\0\0(1촀\0Me encantaría poder vivir en un lugar

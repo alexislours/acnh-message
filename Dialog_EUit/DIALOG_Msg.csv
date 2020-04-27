@@ -116,6 +116,9 @@ i clienti con un contratto per la casa.\0￿"
 "0603","È possibile scambiare miglia
 \0per posta \0￿con un massimo di 5
 articoli al giorno."
+"0702","Non hai abbastanza
+\0gemme dell'amore\0￿!"
+"0702_a","OK"
 "0802","\0\0Gioco online e in locale\0￿
 Le persone con cui giochi online
 o in locale possono vedere \0testo
@@ -855,13 +858,13 @@ personalizzato chiamato
 \0s촀\0￿.
 Scegli uno slot di salvataggio."
 "2102_a","Indietro"
-"2102_b","Sì"
+"2102_b","OK"
 "2103","È stato trovato un
 modello pro chiamato
 \0s촀\0￿.
 Scegli uno slot di salvataggio."
 "2103_a","Indietro"
-"2103_b","Sì"
+"2103_b","OK"
 "2110","Non sono stati trovati modelli
 personalizzati scaricabili creati
 per i giochi per Nintendo 3DS.
@@ -1502,19 +1505,39 @@ titolo per accedere alle impostazioni
 e cancellare i dati di quel residente."
 "8013","Per uscire da questo schermo, chiudi
 il software dal menu HOME."
-"8014","L'account Nintendo collegato a
-questo utente è cambiato.\0\0Se ricominci a giocare, qualsiasi
+"8014","L'account Nintendo registrato
+per questo utente è cambiato.\0\0Se ricominci a giocare, qualsiasi
 funzionalità che richiede l'uso di
 Internet (tra cui la lista dei migliori
 amici) verrà riportata allo stato iniziale.\0\0Vuoi davvero ricominciare a giocare
 come \0s\0촀\0￿?"
 "8014_a","Non saprei"
 "8014_b","Sì"
-"8015","Questo utente non è collegato
-ad alcun account Nintendo.\0\0Se ricominci a giocare, qualsiasi
+"8015","Questo utente non ha un
+account Nintendo registrato.\0\0Se ricominci a giocare, qualsiasi
 funzionalità che richiede l'uso di
 Internet (tra cui la lista dei migliori
 amici) verrà riportata allo stato iniziale.\0\0Vuoi davvero ricominciare a giocare
 come \0s\0촀\0￿?"
 "8015_a","Non saprei"
 "8015_b","Sì"
+"8016","L'account Nintendo registrato
+per questo utente è cambiato.\0\0Se ricominci a giocare, qualsiasi
+funzionalità che richiede l'uso di
+Internet (tra cui la lista dei migliori
+amici) verrà riportata allo stato iniziale.\0\0Vuoi ricominciare a giocare?"
+"8016_a","No"
+"8016_b","Sì"
+"8017","Questo utente non ha un account
+Nintendo registrato oppure deve
+accedere di nuovo all'account
+Nintendo.\0\0Se ricominci a giocare, qualsiasi
+funzionalità che richiede l'uso di
+Internet (tra cui la lista dei migliori
+amici) verrà riportata allo stato iniziale.\0\0Vuoi ricominciare a giocare e
+riportare qualsiasi funzionalità
+che richiede l'uso di Internet
+allo stato iniziale?"
+"8017_a","No"
+"8017_b","Sì"
+"8019","Riavvio del gioco in corso."

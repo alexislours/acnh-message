@@ -186,13 +186,7 @@ ha hecho sentirme exclusivo.
 tomar una decisión tan importante,
 \0
 pero cosas más raras he hecho.
-(촀\0¿No te he dicho cómo me llamo?
-\0
-(5촀\0Soy n
-\0.\0\0(촀\0Quizá te suene mi blog o alguno de
-mis cortos independientes,
-\0 n\0.\0\0(촀\0Tú eras n\0, ¿no?
-\0 ¡Estupendo!\0\0(촀\0Ahora mismo voy a hablar con los de
+(촀\0Ahora mismo voy a hablar con los de
 la \0oficina de gestión\0￿ para que me
 confirmen lo de la mudanza."
 "206_02","(촀\0¡Enhorabuena por tu victoria!
@@ -202,14 +196,7 @@ yo también gano,
 aquí!
 (%촀\0Ahora mismo voy a hablar con los
 de la \0oficina de gestión\0￿ para que
-lo hagan oficial.
-(1촀\02\0n	\0 no tardará en tener su primera exhibición cultural
-organizada por n
-\0.\0\0(6촀\0Y ten por seguro que en el discurso
-de inauguración mencionaré el
-nombre de n\0.
-Te llamas así,
-\0 ¿verdad?"
+lo hagan oficial."
 "206_03","(촀\0¡Qué suerte has tenido!
 \0 (4촀\0Bueno,
 \0
@@ -218,22 +205,103 @@ tendré que ir haciendo las maletas,
 n\0.
 (9촀\0Pero no para irme,
 \0 sino para venir.
-\0 Pienso seguir adelante con el plan,
+\0
+Pienso seguir adelante con el plan,
 \0
 (촀\0con todas sus consecuencias.
-(7촀\0Me llamo n
-\0,
-\0 no lo olvides.
-\0 Al fin y al cabo,
-\0 (촀\0¡vamos a ser vecinos!\0\0(%촀\0«Arigato» por esta oportunidad,
-\0 n\0.
-\0 O, lo que es lo mismo,
-\0 «gracias» en chino.
-\0 (촀\0¡Je,
-\0 je!\0\0( 촀\0¡Pero basta de cháchara!
+( 촀\0¡Pero basta de cháchara!
 \0(촀\0 Tengo que
 ir a la \0oficina de gestión\0￿ para hacer
 todo el papeleo."
+"207_01","(9촀\0¿Recuerdas cuando me propusiste
+que me mudase aquí y rechacé
+tu oferta?
+(촀\0¡Porque yo sí lo recuerdo! 
+\0¡Muy
+vívidamente además! 
+\0No he parado
+de darle vueltas al tema.
+(촀\0En cierto modo me gustaría que
+volvieses a invitarme, 
+\0pero en parte
+me resisto a dar el paso.
+(촀\0Así que he resuelto que sea el azar
+quien decida por mí.
+\0(%촀\0 Sí:
+\0 ¡nos lo
+jugaremos!
+(5촀\0Si ganas tú, 
+\0me vengo a la isla con
+mi colección de novelas gráficas
+de tapa dura.
+(7촀\0Si gano yo, 
+\0me quedo donde estoy.
+\0
+(&촀\0¿Qué me dices? 
+\0¿Aceptas el riesgo,
+n\0?"
+"207_01_a","¡Pues claro!"
+"207_01_b","No sé..."
+"207_02","(촀\0Me cuesta creer que todavía quieras
+hablar conmigo después de que
+me negase a mudarme aquí.
+(촀\0¿Es posible que tomase la decisión
+equivocada?
+\0 ¡Yo! 
+\0Inauditon\0\0\0\0(9촀\0Quizá no esté capacitado para
+decidirlo por mí mismo. 
+\0Así quen\0\0
+\0
+(촀\0¿y si lo dejamos en manos del azar?
+()촀\0Juguemos a las cartas y, 
+\0si ganas
+tú, 
+\0lo dejo todo y me vengo aquí.
+\0
+Si gano yo, me quedo donde estoy.
+(&촀\0¿Qué opinas? 
+\0¿Quieres jugártela,
+n\0?"
+"207_02_a","¡Adelante!"
+"207_02_b","Mejor no"
+"207_03","(7촀\0Sin duda, 
+\0tienes un gran corazón.
+\0
+Es increíble que aún me hables
+después de que te rechazase.
+(촀\0¿Sabes qué? 
+\0Voy a darle otra
+oportunidad a la idea de mudarme
+aquí. (촀\0
+\0¡Decidámoslo aquí y ahora!
+()촀\0Jugaremos a las cartas y, 
+\0si ganas
+tú, 
+\0me vengo a la isla. 
+\0Si gano yo,
+\0
+me quedo en mi hogar.
+($촀\0¿Aceptas? 
+\0¿Quieres ver qué nos
+depara el azar, n\0?"
+"207_03_a","¡Juguemos!"
+"207_03_b","Creo que paso..."
+"208_01","(%촀\0Si no estás convencid2oa, mejor que
+nos olvidemos del tema. 
+\0($촀\0¡No pasa
+nada! 
+\0Otra vez será."
+"208_02","(촀\0¿Te echas atrás?
+\0 Con lo interesante
+que se volvería n\0 con alguien como yo por aquín\0\0\0\0($촀\0En fin,
+\0 qué le vamos a hacer.
+\0
+¡Otra vez será!"
+"208_03","( 촀\0¿No te atrae la idea?
+\0 Vaya, y yo que
+pensaba que te haría ilusiónn\0\0
+\0(촀\0 Pues
+nada; ¡es una lástima!"
 "302","(촀\0Malas noticiasn\0\0\0\0('촀\0En la \0oficina de gestión vecinal\0￿ me
 han dicho que la oferta de vivienda
 no cubre toda la demanda de la isla.\0\0(촀\0Vamos,
@@ -364,6 +432,21 @@ el espacio,
 \0 nada se puede.
 \0 (촀\0¡Gracias
 de todos modos por invitarme!"
+"405","(:촀\0Ah,
+\0 miran\0\0
+\0 (촀\0Lo siento,
+\0 me han dado
+malas noticias los de la \0oficina de
+gestión vecinal\0￿.
+(촀\0¡En la isla ya no hay más solares
+disponibles!
+\0 (	촀\0Ni siquiera para una
+casa minimalistan\0\0
+\0 Así que nada.
+(촀\0No se puede hacer nada contra las
+burbujas inmobiliarias.
+\0 (촀\0¡Pero gracias
+de todos modos por invitarme!"
 "406","(6촀\0Adivina,
 \0 n\0n\0\0\0\0(촀\0Estás ante el nuevo promotor del arte de vanguardia y las obras de
 culto en n\0.\0\0(5촀\0Pues sí,
@@ -397,6 +480,17 @@ popular.
 vendría a vivir aquín\0\0
 Es broma.
 \0 (촀\0¡Me quiero mudar ya!"
+"424","(
+촀\0No puedo creer que tu isla sea tan
+popular,
+\0 pero ya no hay más solares
+disponibles.
+('촀\0Suelo huir despavorido cuando algo
+se vuelve demasiado popular, 
+\0peron\0\0
+\0
+¡esta vez es diferente!
+(4촀\0Ojalá pudiese venirme a vivir aquín"
 "504","($촀\0Esta isla me transmite vibraciones
 superpositivas.
 \0 (1촀\0Aquí me podría

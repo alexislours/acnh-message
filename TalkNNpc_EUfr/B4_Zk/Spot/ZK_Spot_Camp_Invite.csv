@@ -150,31 +150,85 @@ invité.
 j'emménage à n	\0 !\0\0(6촀\0Laisser un jeu de cartes décider
 quelque chose d'aussi important
 était un choix artistique.
-(촀\0Mais j'y pense, tu sais comment
-je m'appelle, au moins ?\0\0(5촀\02\0n
-\0, ça devrait te parler. Enfinn\0\0 
-\0(tu as peut-être aperçu mon nom sur des affiches d'expos.\0\0(촀\0J'ai hâte de donner libre cours à
-ma créativité sur cette île, n\0 !\0\0n\0\0 (촀\0Oh ! J'ai failli oublier le plus
+n\0\0 (촀\0Oh ! J'ai failli oublier le plus
 important ! Je dois obtenir l'accord du \0bureau des résidents\0￿ !"
 "206_02","(촀\0Félicitations, tu as gagné ! 
 \0((촀\0Cette
 victoire qui me permet d'emménager
 ici est par extension la mienne !\0\0(1촀\0Attends-toi à voir le nom 2
 de d'⁠n
-\0 sur le devant de la scène artistique locale !
-(
-촀\0Enfin, dès que j'aurai expliqué au \0bureau des résidents\0￿ à quel point je suis indispensable, n\0 !"
+\0 sur le devant de la scène artistique locale !\0\0(
+촀\0Enfin, dès que j'aurai expliqué au
+\0bureau des résidents\0￿ à quel point
+je suis indispensable, n\0 !"
 "206_03","(촀\0Eh bien, la chance te montre toutes
 ses belles quenottes !
 \0((4촀\0 Je n'ai plus
 qu'à aller faire mes cartons.
 (9촀\0Aussi arbitraire soit-elle, je compte
-bien respecter cette décision.\0\0(7촀\0Alors regarde-moi bien et n'oublie
-pasn\0\0
-\0(촀\0 je m'appelle n
-\0 !\0\0(5촀\0Bon, si tu veux bien m'excuser, je
+bien respecter cette décision.\0\0(5촀\0Bon, si tu veux bien m'excuser, je
 dois aller (촀\0implorer le \0bureau des
 résidents\0￿ de me laisser vivre ici."
+"207_01","(촀\0Je repense aux étoiles que tu avais
+dans les yeux quand tu m'as invité
+et que j'ai décliné ton offre.
+(4촀\0J'y repense, et j'hésite à satisfaire
+ce désir ardent et bien naturel que
+tu as de vivre dans mon voisinage.
+(촀\0Je sais, laissons le hasard trancher !
+\0
+(촀\0Si tu gagnes, je vous fais l'insigne
+honneur d'emménager ici.
+(9촀\0Sinon, je reste chez moi. 
+\0($촀\0T'en dis
+quoi, n\0 ?"
+"207_01_a","Banco !"
+"207_01_b","Bof, bof..."
+"207_02","(촀\0Tu m'adresses encore la parole alors
+que je t'ai gaillardement envoyé2\0e sur
+les roses quand tu m'as invité ?
+(촀\0Comme quoi, j'ai peut-être fait erreur
+pour une fois ! (9촀\0Il faut dire que c'est
+une décision difficile.
+(1촀\0Je laisserais bien faire le destin, mais
+il se plante aussi parfois. 
+\0Et en même
+temps, j'ai pas mieux sous la patten\0\0
+(촀\0Alors c'est décidé, tranchons ça aux
+cartes !
+\0 ()촀\0Si je gagne, j'emménage ici.
+\0
+Sinon, je reste chez moi.
+(촀\0T'es prêt2\0e à jouer, ou l'enjeu te fait
+trembloter dans tes chaussettes en
+édition limitée ?"
+"207_02_a","C'est parti !"
+"207_02_b","J'en tremblote, mon pote."
+"207_03","(촀\0Je ne suis guère surpris que tu
+m'invites à nouveau, il est normal
+que tu t'obstines à tenter ta chance.
+('촀\0Mais mon image de marque ne tolère
+pas l'approximation. 
+\0Chaque décision
+doit être mûrement pesée.
+(촀\0Par exemple en la jouant aux cartes !
+\0
+Si tu gagnes, j'emménage ici. 
+\0Sinon,
+je reste dans mon espace VIP actuel.
+(3촀\0Tu suis ?"
+"207_03_a","Ouaip, je suis."
+"207_03_b","Nan, je me couche."
+"208_01","(%촀\0Ça manque un peu de conviction,
+tout ça.
+\0 Tant pis, remettons cette
+partie à plus tard !"
+"208_02","(촀\0Oui, je vois bien que t'as les petons
+en compote. 
+\02\0n\0 est pas prête pour moi, faut croire."
+"208_03","( 촀\0Oh, mon projet s'effondre comme
+un château de cartesn\0\0 (촀\0alors qu'on
+les a même pas sorties, les cartes."
 "302","(촀\0J'ai une mauvaise nouvelle.
 J'ai parlé au \0bureau des résidents\0￿
 et le marché immobilier est saturé.\0\0(촀\0Il n'y a plus aucun terrain disponible
@@ -266,6 +320,19 @@ pour accueillir les célébrités !
 \0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai ! « ⁠Désolé, mais
 ce rôle t'est refusé ! » En fait, il n'a
 jamais dit ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation !"
+"405","(촀\0Bon, j'ai eu le \0bureau des résidents\0￿,
+et les nouvelles sont loin d'être
+bonnesn\0\0
+(촀\0Il n'y a plus une seule parcelle
+de terrain à vendre !\0\0(촀\0Enfin, comme dit mon agentn\0\0
+(촀\0
+\0(« ⁠n
+\0, tu es mon dieu incarné ! ⁠»
+\0((촀\0 Ah, non, ce n'est pas ça.\0\0(9촀\0« ⁠Pense à ma commission, n
+\0n\0\0 ⁠»
+\0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai ! « ⁠Désolé, mais
+ce rôle t'est refusé ! » En fait, il n'a
+jamais dit ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation !"
 "406","(6촀\0Tu sais quoi ?
 \0 Tu as en face de toi
 la nouvelle célébrité 2
@@ -295,6 +362,18 @@ presque d'emménager, tiensn\0\0
 \0
 Maintenant, je ferais n'importe
 quoi pour venir ici !"
+"424","(
+촀\0Je ne me remets pas de la popularité
+de cette île.
+\0( ('촀\0Ça me dissuaderait
+presque d'emménager, tiensn\0\0\0\0(촀\0Mais qu'est-ce que je raconten\0\0
+\0
+Maintenant, je ferais n'importe
+quoi pour venir ici !
+(4촀\0Alors si jamais une parcelle de
+terrain se libère,
+\0 j'espère que
+tu m'en parleras en priorité."
 "504","($촀\0Cette île dégage des ondes positives.
 \0((1촀\0
 Je nous verrais bien posés ici,

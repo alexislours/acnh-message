@@ -150,6 +150,67 @@ come campeggiatrice.
 vada al \0centro servizi \0￿per ottenere
 il permesso. 
 \0(촀\0Lo faccio subito!"
+"207_01","(촀\0Vraiment?
+\0 Allora non ce l'hai con me
+anche se l'ultima volta ho rifiutato
+il tuo invito?\0\0(2촀\0Beh, sono commossa. 
+\0Peròn\0\0 (4촀\0non so
+se sono pronta a fare un passo così
+grande.
+(촀\0Ci sono! 
+\0(촀\0Perché non decidiamo
+con un jeux?
+\0 Se vinci, onoro la
+tua richiesta e mi trasferisco.
+($촀\0Siamo d'accordo, n\0?"
+"207_01_a","Sì, facciamolo!"
+"207_01_b","Direi che passo."
+"207_02","(촀\0Sei davvero tenace, n\0.
+\0 Ed è una cosa dolcissimissima, n\0.\0\0(4촀\0Man\0\0 dovrei trasferirmi qui? 
+\0Sul
+serio?
+\0 (촀\0Non so decidermi! 
+\0(
+촀\0Sentin\0\0
+cosa ne dici di fare un petit jeux?
+(%촀\0Lasceremo che sia il destino a
+determinare la mia vita! 
+\0( 촀\0Cosa
+mai potrebbe andare storto?
+()촀\0Se vinci, mi trasferisco.
+\0 Se perdi,
+behn\0\0 Vediamo che succede.
+\0 (&촀\0Ci stai?"
+"207_02_a","Sì e vincerò io!"
+"207_02_b","No, grazie."
+"207_03","(4촀\0Vorrei dire sì, man\0\0
+\0(촀\0 ho l'habitude a
+cedere alla pressione
+\0 in situazioni
+come questa.
+(촀\0Ho un'idea!
+\0 Perché non lasciamo
+il mio futuro nelle mani del fato?\0\0(\0촀\0Faremo un jeux e se vinci,
+\0 (촀\0n""\0 diventerà la mia nuova maison.
+\0(촀\0 Pront2oa?"
+"207_03_a","Sono nat2oa pront2oa!"
+"207_03_b","Non proprio..."
+"208_01","(촀\0Oh?
+\0 Acciderboli.
+\0 (촀\0Ma non sono
+delusa, 
+\0affatton"
+"208_02","( 촀\0Quindi è un no? 
+\0Bien, ()촀\0c'è un tempo
+e un luogo per i giochi
+\0 e questo non
+è né l'uno, né l'altro, 
+\0immaginon"
+"208_03","(촀\0Non mi aspettavo rispondessi così,
+\0
+ma je comprends. 
+\0(촀\0Temo non sia il
+momento giusto."
 "302","(""촀\0Je suis désolée per l'attesa!
 \0( Non ci
 sono buone nuove dal \0centro servizi\0￿,
@@ -243,6 +304,18 @@ non accetteranno neppure me.
 \0 ma
 sono lieta di averci almeno (촀\0provato,
 n\0!"
+"405","(""촀\0Je suis désolée per l'attesa!
+\0( (\0촀\0Mi sono
+recata al \0centro servizi \0￿per chiedere
+informazionin\0\0
+(촀\0Non vi è alcun terreno per costruire
+un nuovo pied-à-terre, donc
+\0(촀\0 dicono
+che non posso trasferirmi qui.
+(\0촀\0Acciderbolina che delusione,
+\0 ma
+sono lieta di averci almeno (촀\0provato,
+n\0!"
 "406","(""촀\0Je suis désolée per l'attesa!
 \0( (\0촀\0
 Ho chiesto informazioni
@@ -274,6 +347,9 @@ precludermi occasioni future adesso,
 infastidendo ancora il \0centro servizi\0￿!"
 "423","Donc, n""\0 dev'essere popolarissimissimissima, 
 \0(촀\0se non possono accettare altri abitanti!"
+"424","(8촀\0Ah, se solo ci fosse un terreno in
+vendita 2\0 n	\0n\0\0\0\0(촀\0Trasferirsi qui sarebbe un sogno
+pour moi, n\0!"
 "504","(촀\0Su quest'isola sia il paesaggio che la
 compagnia sono a dir poco sublimi!
 \0

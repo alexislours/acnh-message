@@ -233,6 +233,18 @@ cette île,
 où l'avion atterrit\0￿. Ça te va ?d"
 "048_a","Oui, s'il te plaît !"
 "048_b","('촁\0Euh... j'annule !"
+"049","d\0n\0\0 Je me trompe, ou tu es sur une de
+ces \0îles labyrinthiques \0￿que \0Tom Nook\0￿
+a imaginées ?\0\0Dans ce cas, je peux te déposer \0là
+où l'avion atterrit\0￿, et tu pourras
+recommencern\0\0 Ça te va ?d"
+"049_01","d\0n\0\0 Je me trompe, ou tu es sur une de
+ces \0îles labyrinthiques \0￿que \0Tom Nook\0￿
+a imaginées ?\0\0Dans ce cas, je vais te déposer \0là
+où l'avion atterrit\0￿, et tu pourras
+recommencer !d"
+"049_a","Oui, s'il te plaît !"
+"049_b","Nan, attends."
 "050_01","d\0À ta tente ?
 \0 Aucun problème.d"
 "050_02","d\0Chez toi ?
@@ -497,6 +509,9 @@ que dans les espaces extérieurs
 de d'n	\0."
 "301","L'application qui affiche la carte
 ne fonctionnera pas sur cette île."
+"311","Tiens ? On dirait que ton
+emplacement actuel n'est pas
+couvert par ce service."
 "321","On dirait que tu ne peux pas utiliser
 l'historique de tchat lorsque tu joues
 en groupen"

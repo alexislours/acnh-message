@@ -270,6 +270,101 @@ Strich durch die Rechnung machen.
 ich denen mal auf den Zahn fühlen
 geh, 
 \0n\0."
+"207_01","(촀\0Du akzeptierst wohl kein Nein als
+Antwort, 
+\0was? 
+\0Bleib cool,
+\0 ich mach
+dir ja keinen Vorwurf...
+(촀\0Schließlich bin ich für jede Insel der
+Hauptgewinn! 
+\0Mit einem Star wie mir
+wird's garantiert NIE langweilig.
+(%촀\0Also gut, 
+\0ich mach dir einen
+Vorschlag. 
+\0Lass uns um meinen
+Umzug spielen, 
+\0okay?
+()촀\0Wenn du gewinnst, 
+\0pack ich meine
+Klamotten und zieh her. 
+\0Gewinn ich,
+\0
+vergessen wir die Chose! 
+\0(&촀\0Deal?"
+"207_01_a","Deal!"
+"207_01_b","Vergiss es."
+"207_02","(촀\0Lass mich raten: 
+\0Nach meiner ersten
+Abfuhr bist du jetzt noch heißer
+drauf, 
+\0mich auf der Insel zu haben?
+(%촀\0Ich kenn das. 
+\0Nichts ist begehrter
+(5촀\0als ein Ticket für ein bereits ausver-
+kauftes Konzert, 
+\0n\0.
+(촀\0Na gut. 
+\0Dir als treuem Fan geb ich
+die Chance auf einen VIP-Pass.
+\0
+Also sperr mal die Öhrchen auf!
+()촀\0Wir zwei spielen ein kleines Spiel,
+\0
+und wenn du gewinnst,
+\0 leg ich hier
+demnächst dauerhaften Tourstop ein.
+(촀\0Klingt doch mega-aufregend, 
+\0oder?
+\0
+(촀\0Wollen wir dann direkt loslegen?"
+"207_02_a","Los geht's!"
+"207_02_b","Muss nicht sein."
+"207_03","(촀\0Du fragst mich, 
+\0ob ich hier wohnen
+mag? 
+\0Schon wieder? 
+\0(2촀\0Da ist aber
+jemand hartnäckig, 
+\0n\0...\0\0(\0촀\0Aber ich find's toll!
+\0 (촀\0Gefragt zu sein
+ist das Schönste auf der Welt! 
+\0Besser
+noch als lila Lipgloss mit Glitter!\0\0(촀\0Weißt du, 
+\0was voll lustig wäre? 
+\0(%촀\0Wir
+könnten doch einfach ein Spiel über
+unsere Zukunft entscheiden lassen!\0\0(1촀\0Wenn ich gewinne,
+\0 setze ich mich
+hin und fang endlich mal mit dem
+Schreiben meiner Autobiografie an.
+(촀\0Solltest du gewinnen, 
+\0dann beweg
+ich mein Popöchen so schnell wie's
+geht auf deine Insel. 
+\0(&촀\0Was sagst du?"
+"207_03_a","Ich sage: Los geht's!"
+"207_03_b","Nö, lass gut sein."
+"208_01","(촀\0Bitte WAS? 
+\0Äh,
+\0 ich meinn\0\0
+\0 (2촀\0schon
+okay.
+\0 Ist ja nicht so,
+\0 dass ich mich
+schon heimlich drauf gefreut hätte..."
+"208_02","(촀\0Huch! 
+\0(촀\0Hab eigentlich gedacht,
+\0 du
+wärst voll begeistert von der Idee,
+\0
+n\0."
+"208_03","(촀\0Puh,
+\0 hoffentlich bereust du deine
+Entscheidung nicht irgendwann. 
+\0Von
+wegen verpasste Chance und so!"
 "302","(촀\0Geht's eigentlich noch?! 
 \0((촀\0Laut
 \0Servicecenter\0￿ ist kein Platz für
@@ -423,6 +518,25 @@ die haben gar nicht richtig zugehört.
 irgendwann aber doch noch, 
 \0in
 deiner Nachbarschaft zu wohnen!"
+"405","(8촀\0Urks, 
+\0im \0Servicecenter \0￿haben sie
+gesagt, 
+\0hier gäb's keinen Bauplatz
+für neue Häuser mehr zu kaufen.\0\0()촀\0Ich hab vorgeschlagen, 
+\0auf einem
+Hausboot zu wohnen. 
+\0(6촀\0Das wär ja
+eh abgefahren, 
+\0n\0...
+(촀\0Aber natüüürlich ist das laut so 'nem
+bescheuerten Paragraphen nicht
+erlaubt. 
+\0(Ich 
+\0HASSE 
+\0Bürokratie!\0\0(촀\0Wenn hier alle so entspannt wie
+du wären, 
+\0könnte ich jetzt schon
+Hausbootkataloge wälzen..."
 "406","($촀\0Und hier das Urteil der Jury des
 \0Servicecenters\0￿n\0\0 
 \0((촀\0Ich bin NICHT
@@ -473,6 +587,17 @@ Popstar auf Tour hier bin.\0\0(촀\0Denk dran, 
 \0dein Ticket rechtzeitig
 zu reservieren, 
 \0wenn's so weit ist!"
+"424","(
+촀\0Ich könnte mich ja einfach bei wem
+einquartieren und ein paar Sternis
+als Untermiete abdrücken...\0\0(2촀\0War nur Spaß, 
+\0n\0.
+\0
+('촀\0Mich durchschmarotzen war noch
+nie mein Ding.\0\0(촀\0Vielleicht gibt's hier ja irgendwann
+mal ein Fleckchen Land zu kaufen.
+\0
+(촀\0Trotzdem danke für die Einladung!"
 "504","()촀\0Immer wenn ich hier zelte, 
 \0passieren
 voll die hammerguten Sachen!

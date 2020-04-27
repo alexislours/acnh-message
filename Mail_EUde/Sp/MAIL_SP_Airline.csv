@@ -10,6 +10,8 @@
 "009","Hey, n\0!"
 "010","Hey, n\0!"
 "011","Hey, n\0!"
+"020","Hey, n\0!"
+"021","Hey, n\0!"
 "101","Wir wollten uns dafür bedanken,
 dass du mit Dodo Airlines fliegst!
 Wir wissen, dass du nicht viel
@@ -76,6 +78,15 @@ Wir wissen, dass du nicht viel
 Auswahlmöglichkeit hast, aber
 trotzdem danke. Anbei ein kleines
 Dankeschön zur Kundenbindung!"
+"120","Vielen Dank, dass du mit
+Dodo Airlines geflogen bist!
+Anbei der Preis, den du während
+der Mai-Feierei von \0Olli\0￿ erhalten
+hast. Weiterhin viel Glück!"
+"121","Vielen Dank, dass du mit Dodo
+Airlines geflogen bist! Anbei alle
+\0Sterni-Coupons\0￿, die du während
+der Mai-Feierei ergattert hast."
 "201","Deine Dodo-Airlines-Crew"
 "202","Deine Dodo-Airlines-Crew"
 "203","Deine Dodo-Airlines-Crew"
@@ -87,3 +98,5 @@ Dankeschön zur Kundenbindung!"
 "209","Deine Dodo-Airlines-Crew"
 "210","Deine Dodo-Airlines-Crew"
 "211","Deine Dodo-Airlines-Crew"
+"220","Deine Dodo-Airlines-Crew"
+"221","Deine Dodo-Airlines-Crew"

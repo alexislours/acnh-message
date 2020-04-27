@@ -4,6 +4,11 @@
 "003","Oh, n\0!"
 "004","Una cosina per te, n\0!"
 "005","Senti un po', n\0..."
+"006","Sei amante del tè, n\0?"
+"007","2@Caro cervelloneCara cervellona n\0..."
+"008","Ehilà, n\0!"
+"009","Domandina, n\0..."
+"010","2DAl superamicone""Alla superamicona n\0..."
 "101","Volevo farti una sorpresa, quindi
 ti invio qualcosa che desidero tu
 abbia. E ora che ce l'hai, spero
@@ -18,18 +23,47 @@ ma tutti mi dicono che sono poco
 credibile. Chissà cosa intendono...
 Ad ogni modo, credo che starebbe
 meglio a te. E quindi... è tutto tuo!"
-"104","Ho visto questo strano abito
-a righe in giro e ho pensato
-che fosse perfetto per te!
-Sarei troppo contento se
-diventasse uno dei tuoi
-indumenti preferiti!"
+"104","Ho visto questa roba mentre ero in
+giro a fare shopping e ho pensato
+fosse perfetta per te, perché ha
+dei buchi per far passare testa e
+braccia, come nel tuo caso. Spero
+che la mia sorpresa ti piaccia!"
 "105","Tu che usi le scarpe, magari ti
 andrebbe di avere questi calzini
 che mi hanno regalato. A me non
 servono... Non li uso nemmeno
 per dormire. Si riposa meglio a
 zampe fresche!"
+"106","Sapevi che il tè è una bevanda
+perfetta per fare una pausa con un
+bel po' di biscottini? Nient'altro si
+adatta così bene! OK, forse la mia
+collezione di... merendine d'epoca.
+Ad ogni modo, ho qualcosa per te!"
+"107","Ti piace la roba artistica? Perché
+mentre stavo pulendo ho trovato
+qualcosa di mitico. Mi è bastato
+osservarlo un po' per perderci
+la testa... e non capire più nulla!
+Forte, eh? Beh, ora tocca a te."
+"108","Stavo cercando uno snack che mi
+era caduto sotto il letto quando ho
+trovato questo. È duro come una
+pietra e non credo sia il dolcetto
+che cercavo... quindi te lo regalo
+volentieri. Non mangiarlo, eh!"
+"109","Hai presente quando il sole va via
+e tutto diventa buio e noioso? Beh,
+con questo oggetto, non ti devi più
+preoccupare di una cosa simile...
+Sfruttalo pure a dovere!"
+"110","Mi è appena arrivata una nuova
+borsa portadolci, quindi quella
+vecchia non mi serve più e la
+regalo a te. Fai solo attenzione
+al fondo perché è ancora un po'
+appiccicoso!"
 "201","Da n
 \0, il donaregali"
 "202","Da n
@@ -40,3 +74,13 @@ zampe fresche!"
 \0, lo stilista"
 "205","Da n
 \0, lo scalzo"
+"206","Buone sorsate da n
+"
+"207","Il tuo pensatore n
+"
+"208","Il tuo amante dei dolci n
+"
+"209","Buonanotte da n
+"
+"210","Il tuo borsamunito n
+"

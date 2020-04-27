@@ -134,18 +134,14 @@ I'm talking about the shop."
 "006_01_03","( 촀\0Oh, n\0!
 \0 Hi!
 \0 (촀\0There's
-something new in the shop
-I think you'll be interested in.\0\0()촀\0We installed a new kiosk next to the
-custom-design display area. 
-\0See it?
-\0(
-(촀\0It's a \0Custom Designs Portal\0￿!\0\0(%촀\0You can use it to order custom
+something new in the shop.\0\0()촀\0We installed an internet kiosk next to
+the custom-design display area.
+\0
+See it?
+\0( (촀\0It's a \0Custom Designs Portal\0￿!\0\0(%촀\0You can use it to order custom
 designs from creators all over the
 world,
 \0 (촀\0or even share your own!
-(\0촀\0Customers with internet access and
-a paid \0Nintendo Switch Online\0￿
-membership can use it.
 (촀\0If you're curious,
 \0 check it out!
 \0-(촀"
@@ -154,7 +150,8 @@ membership can use it.
 \0 (촀\0I hope I'll be seeing you
 in here lots."
 "007","(촀\0Thanks! 
-\0Please come again."
+\0Please come again.(촀\0
+<"
 "008","Oh! 
 \0(촀\0Never mind, then."
 "009","(촀\0Wuh-oh!

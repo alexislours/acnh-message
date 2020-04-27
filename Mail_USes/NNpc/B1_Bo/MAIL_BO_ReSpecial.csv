@@ -12,6 +12,7 @@
 "011","Amig2oa n\0:"
 "012","Holap, n\0:"
 "013","¿Qué onda, n\0?"
+"014","Holita, n\0:"
 "018","¿Qué onda, n\0?"
 "019","¿Qué hago, n\0?"
 "020","¡Hooola, n\0!"
@@ -75,6 +76,10 @@ la herramienta que me mandaste.
 Todo el mundo se me quedaba
 viendo raro, no sé por qué...
 ¡Si la llevaba con correa!"
+"114","La obra de arte que me mandaste
+me hizo sentir dos cosas... Hambre
+y luego sueño. ¡Ahora me encanta
+el arte y todo gracias a ti!"
 "118","Me encantan los fósiles...
 ¿Sabías que si pones uno debajo
 de la almohada, sueñas con
@@ -120,6 +125,8 @@ un regalo también!"
 "
 "213","Adiós, n
 "
+"214","n
+\0 el artista"
 "218","n
 \0 el soñador"
 "219","n

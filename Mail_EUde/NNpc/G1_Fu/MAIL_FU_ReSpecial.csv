@@ -16,6 +16,7 @@ Liebe n\0!"
 "011","Für n"
 "012","Weißt du, n\0?"
 "013","Guten Tag, n\0!"
+"014","Ich bin beeindruckt, n\0!"
 "018","Hallo, n\0!"
 "019","Du bist großartig, n\0!"
 "020","2Lieber
@@ -99,6 +100,12 @@ Ich werde immer an dich denken,
 wenn ich es verwende! Daher habe
 ich auch etwas für dich ausge-
 sucht, das dir hoffentlich gefällt."
+"114","Ich hatte nicht erwartet, ein
+Kunstwerk in meinem Briefkasten
+zu finden! Welch atemberaubendes
+Geschenk. Ich weiß nicht, ob ich es
+dir gleichtun kann, doch ich wollte
+dir etwas zum Dank schicken."
 "118","Das Fossil, das du mir geschenkt
 hast, ist großartig! Wie es wohl
 wäre, diese Insel in ihrer
@@ -148,6 +155,8 @@ Geschenke auszutauschen!"
 "212","Alles Liebe, n
 "
 "213","Es grüßt, n
+"
+"214","Gefällt es dir? n
 "
 "218","Du bist großartig! n
 "

@@ -154,51 +154,108 @@ in the first place.
 to n	\0!\0\0(6촀\0It's a weird way to make such an
 important life decision, but I've
 done weirder, n\0.
-(촀\0Did I even tell you my name?
-\0(
-(5촀\0It's n
-\0, in case you
-haven't seen any of my work.\0\0(촀\0You're n\0, right?
-\0( (&촀\0Any
-relation to Chef 2\0n\0,
-the 촀 prodigy?\0\0( 촀\0Hold that thought. 
-\0I gotta jet over to
-\0Resident Services \0￿and make this
-move official!(촀\0
+( 촀\0I better jet over to \0Resident Services
+\0￿and make this move official!(촀\0
 "
 "206_02","(촀\0Congrats, you win! 
-\0((촀\0And I also win,
-because I get to move here!\0\0(1촀\0When I headline my first show on
-n	\0, the name up in
-lights will be n
-\0.
-(6촀\0And the name I'll read first during
-my acceptance speech will be
-n\0. 
-\0That's you, hm?
+\0(And I also win,
+because I get to move here!
+\0
+( 촀\0At least... I hope so.
 (
-촀\0Of course, there are still a few i's to
-dot and t's to cross.
-\0( 촀\0 I better make
-my way to \0Resident Services\0￿ ASAP."
+촀\0There are still a few i's to dot and t's
+to cross.
+\0(촀\0 I better make my way to
+\0Resident Services\0￿ ASAP."
 "206_03","(촀\0Wow, what a lucky run for you!
 \0(
 (4촀\0Guess I better pack my
 bags, n\0.
 (9촀\0For real, though.
 \0 I'm fully planning
-on following through with this.\0\0(7촀\0And don't forgetn\0\0
-\0
-(촀\0the name's n
-\0.\0\0(%촀\0Arigato for this opportunity,
-n\0. 
-\0That's French
-for grazie, amigo.
-\0 (촀\0Ha HA!
-(5촀\0Now, I hope you'll excuse me.
+on following through with this.\0\0(5촀\0Now, I hope you'll excuse me.
 \0
 (촀\0I have to go beg the kind folks at
 \0Resident Services\0￿ to let me live here!"
+"207_01","(촀\0I keep thinking about how I turned
+down your invite to live here, and
+\0 to
+be honestn\0\0
+\0(촀\0it's eating away at me!
+(4촀\0Part of me wants you to invite me
+again,
+\0 but another part of me is
+hesitant to make a big change.
+(촀\0
+\0OK. 
+\0Here's what we do.
+\0((촀\0 Play for it!
+(%촀\0If you win, 
+\0I move to this island.
+\0(
+(9촀\0If I win, 
+\0I don'tn\0\0
+\0
+($촀\0How does that sound, n\0?"
+"207_01_a","OK!"
+"207_01_b","I don't know..."
+"207_02","
+\0(촀\0You're still speaking to me? 
+\0Even
+after I turned down your offer to live
+heren\0\0
+\0(촀\0 Maybe I made the wrong call!
+(9촀\0I clearly can't be trusted with such a
+big decision. 
+\0(%촀\0It's time fate stepped
+up
+\0 and made the decision for me.
+(1촀\0Though fate hasn't always been kind
+to men\0\0
+\0('촀\0 No. We can't turn back now.\0\0(촀\0We're deciding this with a card
+game!
+\0 ()촀\0If you win,
+\0 I move here.
+\0
+If I win, 
+\0I don't.
+(촀\0What do you think?
+\0 I know.
+\0
+The stakes are high."
+"207_02_a","Let's do it."
+"207_02_b","Maybe too high..."
+"207_03","(7촀\0I'm honored that you still want me to
+live here, butn\0\0
+\0(I'm still not sure it's
+the right move for me or my brand.
+(촀\0If you have a deck of cards,
+\0 I say we
+settle this right here,
+\0 right now.
+(촀\0Let's play a little game, OK?
+\0
+If you win,
+\0 I move to this island.
+\0
+If I win,
+\0 I remain a free agent.
+(3촀\0Should I deal you in?"
+"207_03_a","Yep, deal me in!"
+"207_03_b","I think I'll pass..."
+"208_01","(%촀\0You gotta be sure, and that sounds
+a little wishy-washy to me.
+\0 Maybe
+another time!"
+"208_02","(촀\0Aw, now you get cold feet? 
+\0But this
+is the kind of everyday zazz I could
+bring to n\0. 
+\0(촀\0Oh well."
+"208_03","( 촀\0Oh, so you're saying you'd rather
+scrap the whole plan altogether?
+\0
+(촀\0That's a shame."
 "302","(촀\0Bad news, bud.\0\0('촀\0I talked to \0Resident Services \0￿and the
 real estate sitch here is no bueno.\0\0(촀\0There's actually no room left to
 build new houses, can you believe
@@ -308,6 +365,14 @@ invitees like me!
 (촀\0Well, like my agent says constantlyn\0\0
 \0(
 ('촀\0""You can't always get the part.""\0\0(촀\0But thanks anyway for the invite!"
+"405","(:촀\0Ohn\0\0 Heyn\0\0\0\0(촀\0Sorry, I just got some bad news
+from \0Resident Services\0￿.\0\0(촀\0The island is full up and there are no
+plots of land for sale!\0\0(촀\0Where would I even build the humble
+four-story castle of my dreams?\0\0(촀\0Well, like my agent says constantlyn\0\0
+\0(
+('촀\0""You can't always get the part.""
+\0
+(촀\0But thanks anyway for the invite!"
 "406","(6촀\0Guess whatn\0\0\0\0(촀\0You're looking at the latest celebrity
 addition to n\0!\0\0(5촀\0That's right, \0Resident Services \0￿said I
 am cleared for landing.
@@ -333,6 +398,15 @@ want to move heren\0\0
 (촀\0Nah, who am I kidding.
 \0
 I'm desperate to move here!"
+"424","(
+촀\0I can't believe your island is so
+popular.
+\0( ('촀\0It almost makes me NOT
+want to move heren\0\0
+(\0촀\0Nah, who am I kidding.
+\0(촀\0 I'm desperate
+to move here!\0\0(4촀\0So let me know the minute another
+plot of land goes up for sale."
 "504","($촀\0This island has a chill vibe.
 \0((1촀\0 I could
 get my chi unscrambled here, my

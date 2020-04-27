@@ -262,6 +262,100 @@ genehmigt werden. 
 \0($촀\0Warte hier kurz,
 \0
 ich werde mich auch sputen!"
+"207_01","(촀\0Gute Güte!
+\0 Du lädst mich jan\0\0 schon
+wieder ein.
+\0 (6촀\0Tja, ich kann es dir kaum
+verübeln, nicht wahr?
+(
+촀\0Doch was soll ich tun,
+\0 was soll ich
+tunn\0\0 
+\0-(촀\0
+\0Ich weiß es!
+\0 Ich lasse das
+Schicksal entscheiden, 
+\0n\0!
+()촀\0Wir werden ein Spiel spielen.
+\0 Und
+falls du gewinnst,
+\0 ziehe ich auf dein
+entzückendes Eiland.
+\0((&촀\0 Akzeptabel?"
+"207_01_a","So soll sein es."
+"207_01_b","So läuft das nicht."
+"207_02","( 촀\0Ich fühle mich gebauchpinselt, 
+\0dass
+du mich erneut bittest, 
+\0auf deine
+Insel zu ziehen.
+\0 (
+촀\0Es ist verlockendn\0\0
+(6촀\0Aber
+\0 allzu leicht will ich es dir auch
+nicht machen, 
+\0n\0.\0\0($촀\0Spielen wir
+\0()촀\0 ein Spiel. 
+\0Und wenn du
+siegst, 
+\0gewinnt deine Insel den
+Hauptpreis:
+\0 MICH!
+\0 (&촀\0Wollen wir?"
+"207_02_a","Wir wollen!"
+"207_02_b","Wir wollen nicht."
+"207_03","(촀\0Ohn\0\0 Was soll ich nur tun? 
+\0Ich hätte
+ja nicht gedacht, 
+\0dass du mich noch
+einmal einladen würdest.
+(6촀\0Du bist ja geradezu verzweifelt, hm?
+\0
+Wie schmeichelhaft. 
+\0(
+촀\0Dennoch
+\0
+bekommst du mich nicht geschenkt.
+(촀\0
+\0Wir machen das so!
+\0( ()촀\0Wir spielen ein
+Spiel, 
+\0und wenn du fair gewinnst,
+\0
+ziehe ich hierher, 
+\0n\0.
+(촀\0Oh,
+\0 das wird ein Spaß!
+\0( (촀\0Sag bitte ja.
+\0
+Ja?"
+"207_03_a","Ja!"
+"207_03_b","Ich sage aber Nein!"
+"208_01","( 촀\0Ach.
+\0(촀\0 Es hat dann wohl nicht sollen
+sein.
+\0 C'est la vie."
+"208_02","(촀\0Oh ho ho!
+\0 Wer macht es jetzt wem
+nicht leicht?
+\0 (%촀\0Gut gekontert.
+\0
+Wirklich gut gekontert!
+(촀\0Ich ziehe vielleicht nicht hierher,
+\0 aber
+ich genieße unsere gemeinsame Zeit,
+\0(6촀\0
+du kesses Ding."
+"208_03","(촀\0Ach!
+\0 Tust du das?
+\0(촀\0 Scheint, als wärst
+du doch nicht so verzweifelt, mich
+unbedingt hier zu haben.
+(%촀\0Tja, gut für dich. 
+\0((촀\0Und trotzdem danke
+für die Einladung.
+\0 Es war lieb von dir,
+dass du gefragt hast."
 "302","($촀\0Verzeih, 
 \0dass du warten musstest!
 \0(
@@ -389,6 +483,25 @@ Vorschriften auch für MICH gelten?\0\0(촀\0Enttäuschend! 
 wir eines Tages doch noch zusammen
 auf dieser Insel leben, 
 \0n\0!"
+"405","(촀\0Verzeih, 
+\0dass du warten musstest.
+\0(
+(9촀\0Es gab am \0Servicecenter \0￿einiges
+zu erörtern, 
+\0n\0...
+('촀\0Fazit: 
+\0Es gibt derzeit offenbar keinen
+Bauplatz für neue Häuser zu ver-
+kaufen. 
+\0((촀\0Auf der ganzen Insel nicht!
+(촀\0Ich wollte keine große Szene
+machen, 
+\0(	촀\0aber ich bin gerade 2촀eineineein
+sehr 2P촀enttäuschterenttäuschteenttäuschtes n\0!
+(촀\0Die Umstände können sich aber
+jederzeit ändern. 
+\0Vielleicht kann ich
+ja irgendwann doch noch herziehen!"
 "406","(촀\0Verzeih, 
 \0dass du warten musstest,
 \0
@@ -449,6 +562,19 @@ verschwiegen wurde, 
 (3촀\0Wenn ich denn irgendwann auf
 dieser Insel wohne, 
 \0meine ich..."
+"424","(
+촀\0Schwer zu glauben, 
+\0dass kein
+einziger Bauplatz zu verkaufen sein
+soll.
+\0(&촀\0 Ob sich das noch ändert?
+(5촀\0Nun ja, 
+\0wenn die Insel glaubt, 
+\0ohne
+mich auszukommen, 
+\0muss sie mit den
+Konsequenzen leben, 
+\0n\0!"
 "504","Diese Insel ist wirklich etwas ganz
 Besonderes.
 \0 (

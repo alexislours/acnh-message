@@ -46,9 +46,9 @@ al horno o se pueden asarn\0\0
 ( 촀\0\0K¡Ay, así no era!\0d
 \0 (4촀\0Los nabos son para
 venderse, no para comerse.
-\0 ¡Sí,
-\0 eso
-dice mi abue!
+\0
+¡Sí,
+\0 eso dice mi abue!
 ()촀\0Así quen\0\0 si se consiguen a un buen
 precion\0\0 ¡harán crecer tu dinero en el
 banco!\0\0(&촀\0¿Quieres que te explique más,
@@ -72,7 +72,7 @@ las fluctuaciones del mercado"".
 ('촀\0Aunque no entiendo muy bien eson\0\0\0\0(&촀\0Conoces a \0Tendo\0￿, ¿verdad?
 \0((%촀\0 Ve con
 él cuando quieras vender, siempre
-estará dispuesto a vender.
+estará dispuesto a comprar.
 2:Señor clienteSeñora clienta, (촀\0¿quieres que
 te explique más sobre nabos?"
 "007_a","(%촀\0¡Sí!"
@@ -148,8 +148,10 @@ espacio suficiente.
 \0 Aquí estaré el
 siguiente domingo, por si quieres."
 "018","(
-촀\0Veamos, de Z nabos van a sern\0\0
-\0 Z. 
+촀\0Veamosn\0\0 por Z seránn\0\0
+\0
+¡Z!
+
 \0((&촀\0¿Te parece bien?"
 "018_a","(%촀\0¡Sí, compro!"
 "018_b","('촀\0No me convence"

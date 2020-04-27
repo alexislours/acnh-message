@@ -149,6 +149,47 @@ pour un changement de vie !
 \0Il faut encore
 que je demande l'accord du \0bureau
 des résidents\0￿, n\0."
+"207_01","(촀\0Oh, tu m'invites encore ?
+\0( (촀\02\0n\0, je sais pas quoi répondren\0\0\0\0(촀\0Ooh ! 
+\0Si, je sais ! 
+\0On va faire un jeu !
+\0
+Si tu gagnes, je m'installe ici, y a rien
+de plus simple !"
+"207_01_a","Bonne idée !"
+"207_01_b","Pfff... En fait, nan."
+"207_02","(
+촀\0Hmmn\0\0 Déménager, ça demande
+beaucoup de travail. Mais comme ça,
+on se verra plus souventn\0\0
+(촀\0C'est trop dur de se décider ! 
+\0(촀\0Oh, mais j'ai une idée !
+\0 On va faire un jeu.
+\0 Si tu gagnes, je viens vivre ici !"
+"207_02_a","C'est parti !"
+"207_02_b","Une autre fois."
+"207_03","(7촀\0Tu dois beaucoup tenir à ce que je
+vienne vivre ici, pour m'inviter encore
+une foisn\0\0
+\0 (촀\0Mais je sais paaaaas !\0\0(촀\0Et si on jouait à un jeu, plutôt ? 
+\0((%촀\0On
+n'a qu'à dire que si tu gagnes, je
+m'installe sur ton île !"
+"207_03_a","Bonne idée !"
+"207_03_b","En fait, nan."
+"208_01","(7촀\0C'est pas grave. Au moins, j'ai pas
+besoin de prendre ma décision
+maintenant ! 
+\0Hé hé hén"
+"208_02","( 촀\0Tu es sûr2\0e ? 
+\0Je pensais que c'était
+une bonne idée, n\0. 
+\0(촀\0Tant pis."
+"208_03","(촀\0C'est pas grave, c'était juste une
+idée.
+\0 Tu me connais, je m'en
+remettrai. 
+\0(촀\0Hé hé hé."
 "302","(촀\0Désolé pour l'attente !
 \0( Je suis allé
 discuter avec les gens du \0bureau
@@ -220,6 +261,11 @@ l'île était déjà pleine à craquern\0\0\0\0(촀\0C'est pas de bol, qua
 \0(
 (\0촀\0Enfin, on y arrivera peut-être un
 jour, n\0."
+"405","Je suis allé au \0bureau des résidents\0￿(:촀\0
+\0, (촀\0mais il n'y a plus de terrain disponible pour la moindre maisonn\0\0\0\0(촀\0C'est pas de bol, quand même.
+\0(
+(\0촀\0Enfin, on y arrivera peut-être un
+jour, n\0."
 "406","(촀\0Bien, je suis passé au \0bureau des
 résidents\0￿n\0\0
 \0 (촀\0
@@ -247,6 +293,13 @@ fan des endroits surpeuplés. (촀\0L'île
 est victime de son succès, on dirait !\0\0(\0촀\0Tant pis, oublions ça.
 \0($촀\0 Mais merci
 beaucoup pour l'invitation, n\0 !"
+"424","(%촀\0
+\0Il n'y a plus un seul terrain
+disponible sur ton île ! 
+\0(촀\0
+\0Pff, c'est vraiment pas de chance...\0\0(\0촀\0($촀\0On se dit au revoir, du coup ! Merci
+pour tout, j'ai adoré mon séjour sur
+ton île, n\0 !"
 "504","(촀\0On est trop bien sur cette île !
 \0(
 Les gens sont gentils, ils sentent bon

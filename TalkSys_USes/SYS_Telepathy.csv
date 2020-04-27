@@ -50,10 +50,12 @@ Bloquearía la entrada del aeródromo."
 puertas en la entrada de la tienda
 de campaña."
 "029","Aunque el hoyo esté hecho,
-no puedo plantar un árbol sin
-una pala."
+no puedo plantar un árbol ni
+un arbusto sin una pala."
 "030","No puedo plantar nada
-si hay jugadores cerca."
+si hay gente cerca."
+"031","No puedo enterrar nada
+si hay gente cerca."
 "051","No hay espacio suficiente
 para poner esto."
 "052","Aquí no cabe nada más."
@@ -137,6 +139,8 @@ en las islas de mis mejores amigos."
 "414","¡Ya no puedo comer nada más!"
 "415","No puedo plantar esto en una isla
 que no sea de mis mejores amigos."
+"416","No puedo ponerme esto aquí."
+"417","No puedo colocar vallas aquí."
 "430","No puedo guardar esto porque
 no cabe nada más en el depósito."
 "438","¡Todo esto no cabrá en el depósito!"

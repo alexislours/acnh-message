@@ -1,6 +1,10 @@
 ﻿"label","text"
 "001","(%촀\0Stato volo: Alfa Tango Tango Echo
 Romeo Romeo Alfa Golf Golf India Oscar perfetto.\0\0Missione ""⁠촀 in 촀"" in corso."
+"002","(촀\0Qualcosa bolle in pentola qua!
+
+\0(\0촀\0Sembra che la frequenza radio sia
+intasata da chiacchiere di ogni tipon"
 "101","Missione ""⁠촀 tango 촀 punto zero tre""
 \0.(&촀\0
 È richiesta assistenza?(\0촀\0 
@@ -19,3 +23,138 @@ Partenza immediata."
 \0 Io sono
 in missione ""pausa pranzo"" fino al
 prossimo volo."
+"105","(촀\0Qui è il comandante che parla! 
+\0(\0촀\0Delta
+Delta Tango Charlie ha un messaggio
+per te, n\0n\0\0
+(촀\0Da oggi, la Dodo Airlines decolla nei
+cieli della \0consegna e liquidazione
+di articoli\0￿. 
+\0Ricevuto?\0\0(\0촀\0Vedi, puoi sbattere le ali quanto
+vuoi, 
+\0(촀\0ma un dodo sovraccarico non
+riuscirà mai a staccarsi dal suolo.
+(\0촀\0Hai capito bene o no? 
+\0(촀\0Ricevi chiaro e
+forte il mio messaggio o la tua torre
+di controllo è in silenzio radio?\0\0()촀\0Dicevo: 
+\0(촀\0a volte bisogna spiegare
+le ali, lasciare la zavorra a terra e
+sfruttare le correnti. 
+\0Ricevuto?
+(;촀\0Insomma,
+\0(촀\0 non esitare a consegnarci
+quello che ingombra le tue tasche.\0\0(촀\0Possiamo spedire gli articoli in
+eccesso a casa tua o se preferisci,
+
+\0comprarteli.\0\0(%촀\0E ora che ti ho istruito sul piano
+di volo, 
+\0partiamo con la missione
+""Come funziona nel dettaglio""n\0\0(촀"
+"106","(\0촀\0Partiamo dalla \0consegna\0￿.
+\0(촀\0 Spediremo
+i tuoi beni dritti allo sgabuzzino di
+casa tua in tutta sicurezza.\0\0((촀\0E siccome la soddisfazione dei
+nostri passeggeri è prioritaria,
+\0 non
+applicheremo alcuna commissione.
+(촀\0Approfitta di questo servizio per
+volare leggero tutte le volte che
+vuoi!"
+"107","(""촀\0Alfa Tango Tango Delta Omegan\0\0
+Passiamo ora a illustrare il servizio
+di \0liquidazione\0￿.
+()촀\0Se deciderai di farne uso,
+\0 potrai
+venderci tutto quello che non ti
+serve o non vuoi più.
+(""촀\0Alleggerirai le tasche e metterai
+in stiva un bel po' di stellinen\0\0
+Che manovra efficace, eh?!
+(%촀\0I nostri prezzi sono in linea con
+quelli della \0Bottega di Nook\0￿, 
+\0nostro
+partner,
+\0 per la cassetta deposito.
+(""촀\0Noi prendiamo i tuoi articoli e il
+giorno dopo le stelline atterrano
+dritte sul tuo conto. 
+\0Ricevuto?"
+"108","(%촀\0E con questo si conclude il
+messaggio del vostro capitano
+sui nostri nuovi servizi.\0\0(""촀\0Tango Tango Echo Romeo Alfa Golf,
+
+\0passo e chiudo!"
+"110","Missione ""⁠촀 tango 촀 punto zero tre""
+\0.(&촀\0
+È richiesta assistenza?(\0촀\0 
+\0Passo."
+"110_a","(\0촀\0Riportami a casa."
+"110_b","Servizio di consegna."
+"110_c","Servizio di liquidazione."
+"110_d","No, è tutto a posto."
+"111","(&촀\0Vuoi usare il nostro servizio di
+consegna? 
+\0(%촀\0Ricevuto! 
+\0Dimmi cosa
+vuoi spedire al tuo sgabuzzinon"
+"112","(촀\0Codice Alfa Tango Blu! 
+\0Missione
+annullata!
+\0(
+촀\0 Il tuo sgabuzzino ha
+finito lo spazio disponibile.\0\0(%촀\0Se vuoi cambiare piano di volo, 
+\0ti
+ricordo che puoi anche usufruire
+del nostro servizio di liquidazione."
+"113","(&촀\0Missione annullata, dunque?
+\0(\0촀\0 Beh,
+contattami pure via radio se cambi
+idea. 
+\0Passo e chiudo!"
+"116","(%촀\0Ricevuto.
+\0(촀\0 Articoli registrati, 
+\0il carico
+è pronto al decollo. 
+\0Codice Tango
+India Alfa Alfa Romeo Echo."
+"118","(촀\0Ecco fatto, 
+\0è tutto pronto per la
+spedizione.
+\0 Riceverai i tuoi articoli
+comodamente a casa!
+(촀\0Grazie di aver utilizzato il nostro
+servizio di consegna. 
+\0Passo e chiudo!"
+"120","(&촀\0Vuoi usare il nostro servizio di
+liquidazione per mettere in stiva
+un po' di stelline?
+(%촀\0Ricevuto!
+\0 Di che cosa vuoi disfarti?"
+"121","(촀\0Missione annullata!
+\0(촀\0 Codice Echo
+Tango Romeo! 
+\0Il tuo conto in banca
+ha raggiunto il limite massimon\0\0\0\0(\0촀\0Data la situazione, il servizio di
+liquidazione è inutilizzabile, 
+\0ma
+puoi usare quello di consegna."
+"121_a","Ricevuto, facciamolo!"
+"121_b","Negativo, niente consegna."
+"124","(%촀\0Affermativo!
+\0(&촀\0 Di quali articoli vuoi
+disfarti?"
+"125","(촀\0Missione compiuta, 
+\0il carico è stato
+ricevuto!\0\0(\0촀\0Domani le stelline inizieranno
+la manovra di atterraggio sul tuo
+conto."
+"126","(촀\0Carico ricevuto!
+\0(\0촀\0 Lo consegneremo
+volentieri per te."
+"127","(""촀\0Dodo Airlines: 
+\0i nostri servizi non
+ti lasciano mai a terra!"
+"200","(&촀\0Non sei curios2oa?
+\0 Perché non fai
+una missione di ricognizione?"

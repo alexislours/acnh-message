@@ -132,6 +132,62 @@ ha querido que me mude a esta isla.
 (촀\0Ahora mismo hablaré con los
 de la \0oficina de gestión vecinal\0￿
 para empezar el papeleo."
+"207_01","(촀\0¿De verdad?
+\0 Me alegro de que(4촀\0 sigas
+apoyándome a pesar de que
+la última vez me eché atrás.
+(촀\0Me gustaría decir que ahora lo tengo
+más claro, pero no es así.
+\0('촀\0 Nunca
+sabré si puedo tomar esta decisión.
+(촀\0¿Y si lo dejamos en manos
+del destino?
+\0 ¡Lo decidiremos
+jugando a un juego!
+(촀\0Si tú ganas, me mudaré a esta isla.
+\0
+¿Te gusta la idea, n\0?"
+"207_01_a","¡Venga, sí!"
+"207_01_b","No, dejémoslo"
+"207_02","(촀\0¡Gracias por seguirme el rollo
+otra vez, calabacita!\0\0(촀\0Lo he dicho un poco en broma,
+\0
+pero sí que me gustaría mudarme
+aquín\0\0
+(촀\0¡Ay, no sé qué hacer!
+\0 (촀\0¿Por qué no
+jugamos a algo y decidimos según
+el resultado?
+()촀\0Si ganas tú, me mudo.
+\0 Si pierdesn\0\0
+\0
+(촀\0pues ya veremos qué pasa.
+\0
+($촀\0¿Te animas?"
+"207_02_a","¡Pienso ganar!"
+"207_02_b","No, paso"
+"207_03","(촀\0Ya sé que a ti te emociona la idea,
+pero yo aún no acabo de tenerlo
+claro.\0\0(%촀\0Mi corazón me dice que adelante,
+\0
+(촀\0pero mi cabeza me dice que no
+me precipite.\0\0Venga, (촀\0por una vez voy a ser
+impulsiva y dejaré que la suerte
+decida por mí.
+()촀\0¿Qué tal si jugamos a algo?
+\0
+Si ganas tú, me mudo a n	\0, ¿vale?"
+"207_03_a","¡Vamos allá!"
+"207_03_b","No me convence"
+"208_01","(촀\0Ah, bueno,
+\0 si crees que no merece
+la pena,
+\0 lo dejamos."
+"208_02","(촀\0Vaya, pues supongo que no era
+el momento después de todo."
+"208_03","(촀\0¿En serio?
+\0 Bueno, pues entonces
+la decisión está tomada."
 "302","($촀\0¡Disculpa la espera!
 \0 He hablado con
 los de la \0oficina de gestión vecinal
@@ -215,6 +271,16 @@ más residentes en estos momentos.\0\0(촀\0Es una pena,
 \0 pero quizá pueda
 volver a intentarlo más adelante,
 n\0."
+"405","(9촀\0Bueno, calabacita,
+\0 ya tengo
+respuesta de la \0oficina de
+gestión vecinal\0￿.
+()촀\0Resulta que en la isla no hay solares
+a la venta,
+\0 así que no me podré
+mudar.
+(촀\0Siento que nuestro plan no haya
+llegado a buen puerto, n\0."
 "406","(4촀\0Siento la esperan\0\0
 \0 n\0, ¿no?\0\0(""촀\0He hablado con los de la \0oficina
 de gestión\0￿ yn\0\0
@@ -241,6 +307,10 @@ dejarían mudarme aquí por pesada."
 peticiones de traslado,
 \0 ¡esta isla
 es maravillosa!"
+"424","(촀\0De haber sabido que no iban a
+quedar más solares a la venta,
+\0 habría
+intentado mudarme aquí antes."
 "504","(촀\0Cómo me gusta esta islan\0\0
 \0 El paisaje
 es asombroso y la gente maravillosa.\0\0(1촀\0Me encantaría poder vivir en un lugar

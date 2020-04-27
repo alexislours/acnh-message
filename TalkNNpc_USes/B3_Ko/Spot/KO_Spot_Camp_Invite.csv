@@ -183,6 +183,78 @@ si sería posible mudarme.
 a preguntar en la \0oficina de gestión\0￿
 si me permiten mudarme aquí.
 ($촀\0¡Deséame suerte, n\0!"
+"207_01","(6촀\0No estás dispuesto a renunciar
+a mí,
+\0 ¿eh?
+\0 ¡Ja, ja, ja!
+\0\0\0(4촀\0Aprecio mucho tu interés,
+\0 jovencit2oa,
+\0
+pero entiende que no es algo que
+pueda decidir así como así.\0\0(촀\0Un poco de seriedad.
+\0 ¿Por qué no
+lo decidimos con un juego?
+\0 (촀\0¡Ja, ja, ja!
+\0 Si ganas,
+\0 me mudo a tu isla."
+"207_01_a","¡Juguemos!"
+"207_01_b","Mejor no..."
+"207_02","( 촀\0¡No puedo creer lo solicitado
+que estoy!
+\0 Y sin campañas de
+marketing.
+\0 (촀\0¡Ja, ja, ja!
+\0 Es broma.\0\0(
+촀\0Bueno,
+\0 démosle de todos modos
+un toque de emoción.\0\0Lo decidiremos con un juego,
+\0 si
+ganas,
+\0 seré un nuevo vecino de tu
+isla.
+\0 (&촀\0¿Qué te parece?"
+"207_02_a","¡Sí, juguemos!"
+"207_02_b","Mejor paso..."
+"207_03","(7촀\0Admiro tu tenacidad,
+\0 jovencit2oa.
+\0
+Y tu voluntad.
+\0 Y tu insistencia,
+\0 n\0.\0\0(촀\0Pero ahora mismo soy incapaz
+de decidirme.
+\0 Será mejor que lo
+dejemos al azar.\0\0(촀\0¿Y si lo decidimos con un juego?
+\0
+Si ganas,
+\0 seré un nuevo residente
+de tu isla."
+"207_03_a","Me parece bien"
+"207_03_b","No me convence"
+"208_01","('촀\0Así que no estás para juegosn\0\0
+\0
+(촀\0Vaya,
+\0 no puedo creer que tuve una
+actitud más juvenil que la tuya.
+\0
+Bueno,
+\0 no pasa nada.
+\0 Me regreso
+a mi isla,
+\0 n\0."
+"208_02","( 촀\0¿No?
+\0 Pues bueno,
+\0 quizá en otra
+ocasión.
+\0 (""촀\0¡Nos vemos,
+\0 n\0!"
+"208_03","(촀\0¿No te interesa?
+\0 Bueno,
+\0 yo solo no
+voy a jugar.
+\0 ( 촀\0O sí,
+\0 a un solitarion\0\0
+\0
+Mal chiste."
 "302","(촀\0Qué lástima,
 \0 jovencit2oan\0\0
 \0 En la \0oficina
@@ -298,6 +370,21 @@ la isla no cabe un alma más.
 \0
 ¿Cuánto pesa el alma?
 \0 (촀\0Mejor no correr riesgosn"
+"405","(촀\0Malas noticias,
+\0 jovencit2oa.
+\0 Pasé a
+la \0oficina de gestión vecinal\0￿,
+\0
+a ver si me puedo mudar aquí.
+('촀\0Pero no puede ser.
+\0 Parece que
+ya no hay terrenos a la venta.\0\0(촀\0Y,
+\0 como comprenderás,
+\0 no estoy
+dispuesto a dormir en la playa.
+\0
+(촀\0Lo siento,
+\0 jovencit2oa."
 "406","(""촀\0Disculpa que te haya hecho esperar.
 \0
 Pregunté en la \0oficina de gestión
@@ -343,6 +430,22 @@ para este abuelillo.\0\0(촀\0De todos modos,
 \0 me honra haber
 recibido una invitación de un sitio
 tan popular, n\0."
+"424","(
+촀\0Ya no hay terrenos a la ventan\0\0
+\0
+¿A qué alcalde tengo que sobornar?
+\0
+(촀\0¡Ja, ja, ja!
+(촀\0Es broma.
+\0 No me gusta nada eso
+de las corruptelas.
+\0 Acepto con
+honestidad las circunstancias.
+(촀\0Gracias de todos modos por
+invitarme,
+\0 jovencit2oa.
+\0 Me has hecho
+sentir muy apreciado."
 "504","(촀\0La primera vez que vine lo hice
 como mero turista.
 \0 (6촀\0¡Pero aquí son

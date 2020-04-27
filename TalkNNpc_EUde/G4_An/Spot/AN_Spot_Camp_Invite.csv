@@ -244,6 +244,67 @@ kaiserliches Siegel draufdrücken.
 so gut wie schon fast längst hier,
 \0
 n\0!"
+"207_01","(6촀\0Du lässt nich' locker, 
+\0was? 
+\0((촀\0Hey,
+\0
+deine Insel, 
+\0deine Entscheidung...\0\0(촀\0
+\0Hier, 
+\0Vorschlag! 
+\0Lass uns um meinen
+Umzug zocken! 
+\0Wenn du gewinnst,
+\0
+beweg ich meinen Hintern sofort her!
+(&촀\0Also, 
+\0wie schaut's, n\0?"
+"207_01_a","Gut schaut's!"
+"207_01_b","Nee, lass mal."
+"207_02","(6촀\0Du gibst dich mit 'nem Nein aber
+auch nich' zufrieden,
+\0 was?\0\0(1촀\0Aber vielleicht wär so 'n kleiner
+Locationwechsel gar nich' mal
+sooo verkehrt, 
+\0n\0.
+()촀\0Lass uns drum spielen! 
+\0Wenn du
+gewinnst,
+\0 pack ich hier zusammen
+und zieh nach n	\0!"
+"207_02_a","Klingt cool!"
+"207_02_b","Vergiss es."
+"207_03","(촀\0Ey, 
+\0von dir bekomm ich hier
+noch voll die Selbstzweifel! 
+\0Soll ich
+vielleicht doch umziehen...?
+()촀\0Regeln wir das mit einem Spiel!
+\0
+Wenn du gewinnst, 
+\0werd ich deine
+neue Nachbarin. 
+\0(&촀\0Na, 
+\0was sagste?"
+"207_03_a","Lass uns zocken!"
+"207_03_b","Lieber nicht."
+"208_01","( 촀\0Keinen Bock, was? 
+\0Schon okay.
+\0(
+(촀\0Muss ja auch nich' sein."
+"208_02","( 촀\0Kein Interesse? 
+\0Nich' die Bohne?
+\0
+Aber ich dachte, dass du... 
+\0(촀\0Egal,
+vielleicht dann beim nächsten Mal."
+"208_03","(8촀\0Okay,
+\0 jetzt bin ich komplett verwirrt!
+\0
+Dachte, 
+\0du wärst voll scharf auf
+meinen Umzug! 
+\0(촀\0Gut, dann halt nich'."
 "302","(%촀\0Hatte vorhin das \0Servicecenter \0￿an
 der Strippen\0\0
 \0( ('촀\0Mein Umzug liegt
@@ -366,6 +427,23 @@ komm nich' drauf klar,
 n	\0 aus allen Nähten
 platzt, 
 \0dann is' das halt so."
+"405","(촀\0Ich hab grade mit dem \0Servicecenter\0￿
+geschnackt,
+\0 und ('촀\0es sieht ziemlich
+düster aus, 
+\0n\0...
+(8촀\0Es gibt wohl kein Bauland mehr zu
+kaufen. 
+\0Die einzige Option wäre, 
+\0'ne
+WG zu gründen. 
+\0(촀\0Das geht gar nich'!
+(5촀\0Dafür bin ich viel zu unabhängig.
+\0
+Jawoll! 
+\0(%촀\0Trotzdem cool,
+\0 dass du mich
+auf deiner Insel haben wolltest..."
 "406","(촀\0Ich hatte grad das \0Servicecenter
 \0￿an der Strippe... 
 \0(촀\0Rate mal, 
@@ -417,6 +495,9 @@ Anmeldestopp verhängt.
 kann ich wohl in nächster Zeit
 knicken, 
 \0n\0..."
+"424","(촀\0Gab's auf n	\0 'nen Bauboom?
+\0 Anscheinend gibt's kein Bauland mehr.
+\0 \0KNich' mal unter 'ner Brücke...\0d"
 "504","(%촀\0Ganz schön cremige Insel haste da!
 \0
 (6촀\0Das Layout is' der Knüller und

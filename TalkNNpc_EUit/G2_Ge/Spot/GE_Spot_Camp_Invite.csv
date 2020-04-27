@@ -205,6 +205,75 @@ a vivere qui!
 una piega inaspettata. 
 \0Ti faccio
 sapere presto, n\0."
+"207_01","(촀\0Non accetti un ""no"" come risposta,
+eh? 
+\0(5촀\0Capisco.
+\0 Sono imperialmenten\0\0
+Ehm, empiricamente allucinante.
+(촀\0Ti faccio una proposta. 
+\0Cosa ne dici
+di decidere una volta per tutte 
+\0(%촀\0con
+un bel giochino, n\0?
+()촀\0Se vinci, mi trasferisco qui.
+\0 (4촀\0Se vinco
+io, faremo finta che tutto questo non
+sia mai successo, 
+\0(&촀\0OK?"
+"207_01_a","OK!"
+"207_01_b","Lasciamo stare."
+"207_02","(촀\0Fammi indovinaren\0\0 Il mio rifiuto
+ti ha fatto desiderare ancora di più
+che mi trasferissi, eh? 
+\0(%촀\0Un classico.
+(5촀\0Non c'è niente che faccia più voglia,
+di mettere zampa su un biglietto per
+un concerto esaurito, n\0.
+(촀\0Cioè, dato che sei 2ununa fan accanit2oa,
+
+\0ti do la possibilità di vincere un pass
+VIP all-accessn\0\0
+\0(촀\0 col mio nome sopra!
+()촀\0Funziona così. 
+\0Facciamo un gioco
+e se vinci, trasloco qui per sempre.
+\0
+(촀\0Lo so. 
+\0È un'idea troppo da paura!
+(촀\0Allora, sei pront2oa?"
+"207_02_a","Ma certo!"
+"207_02_b","Mi sa che passo."
+"207_03","(촀\0Mi stai chiedendo di vivere qui?
+
+\0Di nuovo? 
+\0(2촀\0Cioè, sto iniziando a
+imbarazzarmi, n\0.
+(\0촀\0Anche se, detto tra noi,
+\0 (촀\0adoro
+essere richiestissima.\0\0(촀\0Sai cosa sarebbe troppo mitico? 
+\0Un
+gioco!
+\0 (%촀\0Il tipo di gioco che determina
+l'intera traiettoria della tua vita!
+(\0촀\0Se vinco io,
+\0(1촀\0 inizio a scrivere quel pezzo da n\0 solista che voglio mettere in scena da annin\0\0\0\0(촀\0Se vinci tu, 
+\0metto radici su questa
+bella isola. 
+\0Cosa ne pensi?"
+"207_03_a","Vincerò io!"
+"207_03_b","No, grazie."
+"208_01","(촀\0Cosa?!
+\0 Cioèn\0\0(2촀\0 Non importa.
+\0 Non
+è che ci sperassi o cose così!"
+"208_02","(촀\0Oh!
+\0(촀\0 Pensavo che la trovassi anche
+tu un'idea da pauran"
+"208_03","(촀\0Uhm. 
+\0Spero che non te ne pentirai.
+
+\0('촀\0Un'opportunità così non capita tanto
+spesson"
 "302","(촀\0Brutte notizie. 
 \0Pessime!
 \0 (촀\0Le peggiori
@@ -327,6 +396,24 @@ detto che sono piccola. 
 \0 (촀\0Chissà, forse
 un giorno troveremo un modo di
 diventare 2vicinivicine, n\0."
+"405","(8촀\0Ugh, 
+\0il \0centro servizi \0￿dice che non
+ci sono più terreni disponibili, 
+\0quindi
+ora non posso costruire una casa.
+()촀\0Ho risposto che potrei costruire una
+casa sull'albero o scavare un tunnel,
+\0
+oppure che potrei vivere in barca.
+(6촀\0Ho detto che l'avrei chiamata così:
+\0
+""Barca Belle Storie""n\0\0\0\0(촀\0Purtroppo mi hanno ribattuto che
+la gente qua non può vivere su una
+barca, capito?
+(촀\0E vabbè!
+\0 Magari un giorno le leggi
+marittime diventeranno meno rigide
+dalle tue parti, n\0."
 "406","($촀\0Grazie una cifra per avermi
 aspettata!
 \0 (8촀\0Cioè, sono stata
@@ -373,6 +460,19 @@ pop star di supermegasuccesso!
 con tutta la gente che vive qui!
 \0
 (촀\0Compra già il biglietto, n\0!"
+"424","(
+촀\0Cioè, 
+\0a me non pare che manchi
+spazio su quest'isolan\0\0
+\0 (&촀\0E se mi
+piazzassi a casa di qualcuno?
+(2촀\0Ma no, 
+\0scherzo, n\0!
+\0(%촀\0 Preferisco comprare un terreno e fare le cose come si deve.\0\0(촀\0Bah, 
+\0vorrà dire che sarà per
+la prossima volta.
+\0 Comunque,
+grazie una cifra dell'invito!"
 "504","()촀\0Quando faccio campeggio su
 quest'isola capitano robe mitiche!
 \0

@@ -12,6 +12,7 @@
 "011","Che sorpresa, n\0!"
 "012","Che forza, n\0!"
 "013","Salve n\0!"
+"014","Non male, n\0."
 "018","Niente male, n\0."
 "019","Ma dai, n\0!"
 "020","Come hai fatto, n\0?"
@@ -94,6 +95,12 @@ li perdo. Chissà quanti ne ho
 dimenticati sotto terra lavorando
 in giardino... Beh, ora tocca a me
 spedirti qualcosa. Spero ti piaccia!"
+"114","Vorrei saperne di più di arte per
+poterti ringraziare a dovere. Non
+fraintendermi, sono contenta. Solo
+non so se riesco ad apprezzare
+appieno un'opera così. Forse devo
+fissarla intensamente? Ci proverò."
 "118","I fossili mi ricordano la preistoria,
 epoca che mi affascina da sempre.
 Chissà come sarebbe stato vivere
@@ -144,6 +151,8 @@ Beh, spero che almeno ti piaccia!"
 "
 "213","E... beh, grazie! n
 "
+"214","n
+\0, esperta d'arte (AH!)"
 "218","Tua n
 "
 "219","n

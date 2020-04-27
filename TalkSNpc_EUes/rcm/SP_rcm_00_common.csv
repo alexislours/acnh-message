@@ -72,6 +72,10 @@ los domingos no compramos nabos.
 no compramos nabos, disculpa.
 \0
 (\0촂\0(\0촃\0Dime, ¿quieres vender otra cosa?"
+"025","(촂\0(촃\0Ahn\0\0
+\0 Disculpa, pero no podemos
+aceptar obras de arte \0falsificadas\0￿.\0\0(\0촂\0(\0촃\0¿Podrías decirnos qué otra cosa
+quieres vender?"
 "031","(%촂\0(촃\0¡2\02\0}\0\0!
 \0 Con mucho gusto puedo darte Z\0."
 "031_a","(%촀\0¡Trato hecho!"
@@ -428,7 +432,7 @@ adelante con ellos!\0Kd\0 
  \0￿)"
 "131_c","He cambiado de idea"
 "200","(촂\0(촃\0¡Gracias!d\0
-\0 \0K¡Hasta pronto!\0dd
+\0 \0K¡Hasta pronto!\0dd(촂\0(촃\0
 Z"
 "201","(촂\0(촃\0¡Hola!d\0
 \0 \0K¡Hola!\0dd

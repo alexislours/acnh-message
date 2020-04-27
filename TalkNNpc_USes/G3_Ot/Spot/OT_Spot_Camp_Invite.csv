@@ -251,6 +251,76 @@ entusiasme tenerme como vecina,
 (촀\0porque no vas a tener más remedio.
 (촀\0Ahora mismo voy a la \0oficina de
 gestión\0￿ a pedirles su aprobación."
+"207_01","(촀\0¿Vuelves a invitarme a pesar de
+que me negué la última vez?
+\0(촀\0 Eres
+adorablen\0\0
+(6촀\0Aunque no te culpo; es evidente
+que a esta isla le falta un poco de
+elegancia y sentido común.
+(촀\0No sé, no me siento cómoda
+tomando esta decisión.
+\0(촀\0 ¿Y si
+dejamos que decida el azar?
+()촀\0Jugaremos a un juego:
+\0 si ganas tú,
+\0
+me mudaré a esta encantadora isla,
+\0
+(촀\0¿de acuerdo?"
+"207_01_a","¡De acuerdo!"
+"207_01_b","No, lo siento"
+"207_02","(2촀\0Me conmueve que insistas tanto
+para que venga a vivir aquí, cielo.\0\0(%촀\0Reconozco que me siento muy
+halagadan\0\0
+\0 (6촀\0pero no soy fácil de
+convencer.\0\0(촀\0Si quieres que me mude aquí,
+tendrás que ganarme en un juego.
+\0
+¿Qué te parece?"
+"207_02_a","¡De acuerdo!"
+"207_02_b","Voy a pasar"
+"207_03","(촀\0Vaya, no esperaba que volvieras
+a invitarme a vivir aquí.
+\0 Me dejaste
+sin palabrasn\0\0
+(촀\0Me cuesta negarme ante tal muestra
+de aprecio,
+\0 pero la verdad es que
+aún tengo dudas.
+(촀\0¿Por qué no dejamos que el azar
+tome la decisión por mí?
+\0(촀\0 ¡Vamos
+a jugar un juego!
+(촀\0Si ganas, 
+\0me mudo a la isla.
+\0
+(6촀\0Si pierdes,
+\0 seguiré con mi vida
+de ahora.
+\0 ($촀\0¿Te animas?"
+"207_03_a","¡Por supuesto!"
+"207_03_b","Creo que no"
+"208_01","(촀\0Entiendo.
+\0('촀\0 Supongo que no te
+entusiasmaba tanto que fuéramos vecin2oas."
+"208_02","(촀\0¡Al final resulta que eres tú 2ella
+que no es fácil de convencer!
+\0(%촀\0
+Bien jugado.\0\0(촀\0Bueno,
+\0 como no me mudo,
+\0 voy a
+aprovechar el tiempo que me
+queda en la isla."
+"208_03","(촀\0¿En serio?
+\0 Mira que soy una vecina
+ejemplar.
+\0(3촀\0 ¡Nadie te contará mejores
+chismes que yo!
+(촀\0Bueno, gracias por invitarme de
+todos modos.
+\0 Fue un bonito
+gesto, cielo."
 "302","(\0촀\0Disculpa la tardanza.
 \0 (촀\0Hablé con
 tu \02\0Ȃ촄oficina de gestión vecinal\0￿ y me
@@ -367,6 +437,16 @@ bienestar de los vecinosn\0\0
 de vivir aquín\0\0
 \0 pero (;촀\0tendrá que
 esperar, n\0."
+"405","(촀\0Ay,
+\0 qué disgusto me dieron en la
+\0oficina de gestión\0￿.
+\0 Parece ('촀\0que no me
+puedo mudar a n\0.\0\0(촀\0Por lo visto no tienen más terrenos
+para nuevas viviendas.
+\0\0\0(촀\0En fin,
+\0 gracias por la invitación.
+\0
+(촀\0Que no digan que no lo intentamos, n\0."
 "406","(촀\0Gracias por tu paciencia,
 \0 ya tengo
 la respuesta de la \02\0Ȃ촄oficina de gestión vecinal\0￿.
@@ -380,8 +460,7 @@ la respuesta de la \02\0Ȃ촄oficina de gestión vecinal\0￿.
 \0 pues te lo digo yo.
 \0
 (!촀\0¡Que sí!
-\0 ¡Que venga!
-(-촀\0Ay, n\0,
+\0 ¡Que venga!\0\0(-촀\0Ay, n\0,
 \0 qué nerviosa estaba,
 \0 (촀\0no sabes el alivio cuando me dieron luz verde para la mudanza.\0\0(4촀\0Bueno, vecin2oan\0\0
 \0 Pronto nos vamos
@@ -407,6 +486,15 @@ secreto de n	\0, n\0?\0\0(&촀\0¿Qué tiene esta isla que hace
 que todos quieran vivir aquí?
 \0
 (촀\0¿Y por qué nadie me hace un lugar?"
+"424","(촀\0Parece mentira que en toda una isla
+no haya ni un terreno en venta para
+una diminuta casan\0\0
+(7촀\0Claro que
+\0 ¿quién querría vivir
+en una casa así?
+\0 (\0촀\0Si me mudo aquí,
+\0
+(5촀\0¡quiero que sea a lo grande!"
 "504","La verdad es que esta isla tiene
 algo especialn\0\0
 \0 Aquí siento que

@@ -486,6 +486,72 @@ si facile !"
 pour lancer le jeu en ligne !"
 "130_a","Okidodoki !"
 "130_b","Laisse tomber."
+"1300","(촀\0Au fait, j'ai cru voir un \0ticket 1er mai\0￿
+à ton nom derrière le bureaun\0\0 Alors
+n'hésite pas à en profiter !"
+"1301","(촀\0\0Tom Nook\0￿ m'a confié un \0ticket
+1er mai\0￿ pour « n\0 », c'est-à-dire toi.\0\0(%촀\0Pour en profiter, il te suffit de
+prononcer les mots magiques
+« \0Je veux voyager\0￿ », 
+\0(촀\0OK ?"
+"1302","(\0촀\0Doncn\0\0
+\0 (&촀\0Est-ce que tu peux me
+dire où tu vas, pour que je m'occupe
+des formalités ?"
+"1302_02","(\0촀\0Doncn\0\0
+\0 (&촀\0Est-ce que tu peux me
+dire où tu vas, pour que je m'occupe
+des formalités ?"
+"1302_02_a","Aller voir quelqu'un."
+"1302_02_b","Utiliser le \0ticket 1er mai\0￿."
+"1302_02_c","Aller sur l'île de Joe."
+"1302_02_d","Laisse tomber."
+"1302_04","(\0촀\0Doncn\0\0
+\0 (&촀\0Est-ce que tu peux me
+dire où tu vas, pour que je m'occupe
+des formalités ?"
+"1302_04_a","Aller voir quelqu'un."
+"1302_04_b","Utiliser le \0ticket 1er mai\0￿."
+"1302_04_c","\0Ticket Miles Nook\0￿"
+"1302_04_d","Laisse tomber."
+"1302_06","(\0촀\0Doncn\0\0
+\0 (&촀\0Est-ce que tu peux me
+dire où tu vas, pour que je m'occupe
+des formalités ?"
+"1302_06_a","Aller voir quelqu'un."
+"1302_06_b","Utiliser le \0ticket 1er mai\0￿."
+"1302_06_c","\0Ticket Miles Nook\0￿"
+"1302_06_d","Aller sur l'île de Joe."
+"1302_06_e","Laisse tomber."
+"1302_a","Aller voir quelqu'un."
+"1302_b","Utiliser le \0ticket 1er mai\0￿."
+"1302_c","Laisse tomber."
+"1303","(촀\0Prêt2\0e à décoller pour l'\0escapade du
+1er mai\0￿ ?
+\0-촀\0 Okidodoki !
+\02(\0촀"
+"1304","()촀\0Avec l'\0escapade du 1er mai\0￿, \0Tom
+Nook\0￿ propose un voyage d'exception
+vers une île très lointaine !
+(9촀\0Quant à ce que te réservent ces
+lieux mystérieuxn\0\0(6촀\0 Tu le sauras
+en arrivant !
+(%촀\0Les \0bagages ne sont pas autorisés\0￿
+sur ce vol. 
+\0Tout ce que tu trimballes
+t'attendra ici, au guichet.
+((촀\0Mais ne te fais pas de mouron !
+Nous te restituerons tes effets dès
+ton retour, cela va de soi."
+"1305","Alorsn\0\0 (&촀\0Désires-tu me laisser tes
+affaires et décoller pour l'\0escapade
+du 1er mai\0￿ ?"
+"1305_a","En route !"
+"1305_b","Plus tard."
+"1306","(촀\0Okidodoki ! 
+\0(촀\0Fais-moi signe dès que
+tu seras prêt2\0e à t'envoler vers une
+nouvelle aventure !"
 "140","(촀\0Alors çan\0\0 
 \0Quelqu'un (촀\0a fermé l'accès
 de l'autre côté."

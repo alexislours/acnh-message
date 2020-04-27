@@ -12,6 +12,7 @@
 "011","¡Qué bárbar2oa, n\0!"
 "012","¡Te luciste, n\0!"
 "013","Ey, n\0:"
+"014","¡Qué detalle, n\0!"
 "018","¡Guaaau, n\0!"
 "019","¡Qué impacto, n\0!"
 "020","¿Qué ondita, n\0?"
@@ -87,6 +88,12 @@ chévere."
 que tu regalo me viene de lujo.
 Ahora me toca a mí mandarte
 algo, ¡a ver si te sorprendo!"
+"114","Me gustaría saber un poco más de
+arte para apreciar mejor lo que me
+mandaste, pero aun así sé que es
+un regalazo. A lo mejor si me paso
+algunas horas mirándolo, podré
+entender su significado oculto, tú."
 "118","Los fósiles siempre me hacen
 pensar en el pasado. En plan:
 cómo era, qué fiestas montaban...
@@ -133,6 +140,8 @@ algo..."
 "212","¡Qué recuerdos! n
 "
 "213","A veces distraída n
+"
+"214","¡Habrá que probar! n
 "
 "218","De tu compi n
 "

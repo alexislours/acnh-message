@@ -12,6 +12,7 @@
 "011","¡Estás fatal, n\0!"
 "012","¡Qué puntazo, n\0!"
 "013","A las buenas, n\0:"
+"014","¡Qué detallazo, n\0!"
 "018","¡Qué pasada, n\0!"
 "019","¡Hala, n\0!"
 "020","¿Qué hay, n\0?"
@@ -91,6 +92,12 @@ que lo pasábamos?"
 que me viene bien tu regalo.
 Ahora me toca a mí mandarte
 una movida, ¡a ver si acierto!"
+"114","Me gustaría pilotar un poco más de
+arte para apreciar mejor lo que me
+has mandado, pero aun así me flipa
+cosa fina. A lo mejor si me quedo
+mirando durante horas acabaré
+pillando su significado oculto, tú."
 "118","Los fósiles siempre me hacen
 pensar en el pasado. En plan:
 cómo era, qué fiestas montaban...
@@ -138,6 +145,8 @@ un algo por las molestias."
 "212","¡Qué recuerdos! n
 "
 "213","¡A currar! n
+"
+"214","¡Habrá que probar! n
 "
 "218","De tu colega n
 "

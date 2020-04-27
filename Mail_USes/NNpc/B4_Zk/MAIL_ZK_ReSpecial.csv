@@ -12,6 +12,7 @@
 "011","Este... n\0..."
 "012","Ilustre n\0:"
 "013","Fiable n\0:"
+"014","¡""Bonjour"", n\0!"
 "018","Fosilizante n\0:"
 "019","Singular n\0:"
 "020","Sutil n\0:"
@@ -94,6 +95,12 @@ abrumadora con los esquemas
 estéticos y reinventa el concepto
 de utilidad. Te envío algo siguiendo
 ese mismo concepto."
+"114","En el momento en que contemplé
+por primera vez tu regalo, me sentí
+más conmovido que cuando me
+dieron una ovación en el festival
+de cine de autor. No sé ni cómo
+agradecértelo, pero acepta esto."
 "118","Me parece un gran detalle que
 me enviaras un fósil. Se ve que
 conoces bien mi interés por las
@@ -142,6 +149,8 @@ que te guste!"
 "212","n
 \0 el intrigado"
 "213","Conceptualmente, n
+"
+"214","Emocionadísimo, n
 "
 "218","n
 \0 el conocedor"

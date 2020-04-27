@@ -1,0 +1,363 @@
+﻿"label","text"
+"001","(\0촀\0Regardez qui voilà,
+\0 un2\0e autochtone !
+\0(
+($촀\0Enchanté,
+\0 on m'appelle \0Rounard\0￿. 
+\0Je
+suis vendeur itinérant.
+\0(
+(&촀\0Et tu esn\0\0
+\0( (%촀\0n\0 ?\0\0(촀\0Quel chouette nom ! 
+\0Ça sonne
+intelligent, 
+\0puissant. 
+\0Je sais déjà
+qu'on va s'entendre à merveille.
+\0(
+(
+촀\0
+\0(Tu sais, mes clients sont un peun\0\0
+ma deuxième famille !\0\0(\0촀\02\0n\0n\0\0 (촀\0C'est un plaisir de faire ta connaissance, n\0 !"
+"002_01","(1촀\0Honnêtement, je pense que notre
+rencontre, c'est un coup du destin.\0\0(6촀\0Et maintenant qu'on est de la même
+famille ou presque, tu peux être sûr2\0e
+qu'on se reverra.\0\0(%촀\0Comme dit, je suis dans la vente. 
+\0Le
+moment venu, je te ferai la ristourne
+spéciale famille,
+\0( (""촀\0tu vas adorer."
+"002_02","(&촀\0Qu'est-ce que j'ai cru entendre ? Il y
+aurait un \0musée \0￿dans le coin ?\0\0(촀\0Il se trouve que j'ai des tonnes
+d'œuvres d'art dont je sais pas quoi
+faire dans un entrepôt.
+Ça serait l'occasion de les échanger
+contre des clochettes sonnantes et
+trébuchantes.\0\0(%촀\0Bon, si jamais tu entends quelque
+chose dans ce goût-là, pense à moi !
+\0(
+(3촀\0Et à ma ristourne spéciale famille..."
+"003_01","(7촀\0Loin de moi l'idée de te brosser dans
+le sens du poil, mais tu m'as l'air de
+t'y connaître en art.\0\0(촀\0Sois pas surpris2\0e. 
+\0Je sais reconnaître
+un2\0e amat2eurrice d'art quand j'en vois un2\0e.\0\0(9촀\0Et crois-le ou pas, mon intuition me
+dictaitn\0\0
+\0((촀\0 de venir ici avec 2\0}\0\0 !"
+"003_02","(;촀\0
+\0Je sais ! 
+\0Quelle coïncidence !
+\0
+C'est sûrement le destin !\0\0(6촀\0Je suis prêt à te 2촀lela\0 vendre, à toi,
+ma famille, 
+\0à un prix défiant toute
+concurrence.\0\0(&촀\0Que dis-tu de \0498 000 clochettes\0￿ ?
+\0
+C'est une affaire. 
+\0Alors, c'est oui ?"
+"003_02_a","C'est non !"
+"003_02_b","Q-Quoi ?!"
+"004","(촀\0Fais un effort ! 
+\0Tu connais la vraie
+valeur de 2촀ce
+cette\0n\0\0\0\0(
+촀\0Ah,
+\0 je vois,
+\0 tout était écrit. 
+\0Tu fais
+pour ainsi dire partie de ma famille.
+
+\0Tu pourrais être m2
+ona cousin2\0e !\0\0(3촀\0Alors, écoute bien. Je vais te faire
+profiter de mon 
+\0((촀\0« avantage-cousin »,
+marque déposée et brevet en cours.\0\0(\0촀\0Pour Z\0, 
+\0tu peux être
+l'heureu2
+xse propriétaire de 2*촀mon cherma chère\0
+}\0\0."
+"004_a","Vendu !"
+"004_b","Tu délires."
+"005","(촀\0Voilà ce que j'aime entendre ! 
+\0Tu
+ne le regretteras pas.
+\0 Laisse-moi
+prendre soin de tes clochettesn"
+"006","(촀\0Je savais que tu étais un2\0e
+connaisseu2
+rse. 
+\0Au plaisir de refaire
+affaire ensemble, cousin2\0e !"
+"007","(\0촀\0Comment peut-on refusern\0\0
+\0 ('촀\0Très
+bien, soit. C'est ton choix.\0\0(촀\0Sache qu'une offre comme celle-ci
+risque de ne jamais se représenter.
+
+\0Es-tu sûr2\0e de vouloir passer à côté ?\0\0(촀\0Garde tes clochettes, 
+\0Je comprends.
+
+\0Prends le temps de la réflexion et
+reviens me voir si tu changes d'avis."
+"008","(촀\0C'est le destin, je te dis ! 
+\0Venez à
+moi, petites clochn\0\0
+\0 (촀\0Oh. 
+\0Tu n'as pas
+assez de clochettes, cousin2\0e !\0\0(촀\0Une offre comme celle-ci risque de
+ne jamais se représenter, tu sais.\0\0Reviens me voir si tu décides de
+prendre cette histoire au sérieux."
+"009","(촀\0C'est le destin, je te dis ! 
+\0Prépare-toi
+à briller dans les saln\0\0
+\0 (촀\0Oh. 
+\0Tu n'as
+pas assez de place, cousin2\0e !\0\0(촀\0Écoute, c'est une offre qui pourrait
+bien ne jamais se représentern\0\0\0\0Reviens me voir quand tu auras
+libéré de l'espace dans tes poches."
+"010","(촀\0Quelle heureuse visite !
+\0
+Comment ça va, n\0 ?"
+"011","(촀\0Tiens, n\0 ! 
+\0Je savais que tu ne résisterais pas à mon offre bien longtemps !"
+"012","(9촀\0Alors, avec l'avantage-cousinn\0\0
+\0 2\0}\0\0 sera à toi pour (6촀\0Z\0. Vendu ?"
+"012_a","Vendu !"
+"012_b","Sans moi."
+"013","(촀\0Q-Quoi ?! 
+\0Tu passes à côté de
+quelque chose, cousin2\0e !
+\0( ('촀\0Tu ne
+trouveras pas moins cher ailleurs.\0\0(촀\0Chacun dépense ses clochettes
+comme il veut.
+\0 Mais attends-toi à
+ce que je te fasse d'autres offres."
+"014","(8촀\0Ohn\0\0 C'est délicat à annoncern\0\0
+\0
+(2촀\0Quelqu'un d'autre a déjà acheté
+2\0}\0\0.\0\0(촀\0Je suis navré, vraiment ! 
+\0J'ai tout fait
+pour 2촀lela\0 garder, mais la pressionn\0\0
+\0 (촀\0Je
+n'avais pas d'autre choix.\0\0(\0촀\0Tu savais que c'était une super offre.
+\0(
+(촀\0Haut les cœurs, il y en aura d'autres,
+cousin2\0e.
+\0 Sois-en sûr2\0e !"
+"015","(촀\0Quel plaisir de te revoir, n\0 !\0\0(1촀\0C'est bien agréable de visiter
+un endroit où l'art est apprécié
+à sa juste valeurn\0\0\0\0(%촀\0Il est si difficile de trouver des gens
+qui apprécient vraiment la beauté
+des \0œuvres d'art\0￿n\0\0
+\0( (3촀\0 pas vrai ?"
+"016","(촀\0
+\0Ah, c'est toujours un plaisir de te
+voir, n\0 !\0\0(\0촀\0Je ne m'étais pas rendu compte que
+les gens qui comprennent vraiment
+l'art me manquent.
+\0
+(7촀\0Tout comme ceux qui flairent les
+bonnes affaires."
+"017","(촀\0Eh bien, si c'est pas ce2
+\0tte bon2\0ne vie2uxille n\0 !
+\0( (&촀\0Qu'est-ce qu'il y a pour ton service ?"
+"017_a","()촀\0Montre-moi une œuvre !"
+"017_b","('촀\0Je me balade juste."
+"018","(\0촀\0Oh ?
+\0 (촀\0Mais oui, c'est une belle
+journée pour se promener !
+\0
+Profites-en et à plus tard !"
+"019","(촀\0Ha ha ha ! 
+\0Un message clair, net,
+précis et direct.
+\0 Ça me plaît.\0\0(7촀\0Tu as de la chance, 
+\0j'ai justement 
+2\0}\0\0 qui pourrait t'intéresser !\0\0(3촀\0Oublie de me demander d'où elle
+vientn\0\0
+\0 Par contre elle me crie
+« Je veux n\0 ! »\0\0(
+촀\0Hum, 
+\0vu ta tête, soit tu la veux aussi,
+soit tu as un sentiment de déjà-vu.
+
+\0À moins que ce ne soit les deux.(촀"
+"019_01","(%촀\0Je vais miser sur ma première idée.
+Allez, Z\0 et elle est à
+toi.
+\0( (촀\0Alors ? On boucle l'affaire ?"
+"019_01_a","(%촀\0On boucle !"
+"019_01_b","('촀\0Je crois pas, nan."
+"020","(촀\0Vraiment ? 
+\0Tu es sûr2\0e d'être sûr2\0e ?\0\0(촀\0C'est pas tous les jours que j'ai une
+telle pièce en stock.
+\0( (촀\0Mais chacun fait
+ce qu'il veut de ses clochettes."
+"021","(촀\0Oui ! 
+\0J'aime ce que tu fais ! 
+\0Tu
+sautes sur l'occasion comme si
+c'était ta dernière chance. 
+\0Bravo !\0\0(%촀\0Je te prédis des moments merveilleux
+avec t2촀ona\0 splendide }\0\0.
+\0( (""촀\0Merci !"
+"050","<"
+"050_01","(3촀\0Ton île a un truc en plusn\0\0
+\0 Cette
+gentillesse, cette confiance, cette
+générositén\0\0
+\0 (촀\0C'est fantastique !"
+"050_02","(
+촀\0Hmmn\0\0 J'ai acheté un vieux chalutier,
+il y a quelque temps. Ça fera un hall
+d'exposition idéal."
+"050_03","(촀\0Qu'on soit jeune ou vieux, tout le
+monde aime l'art.
+\0 (7촀\0Et les bonnes
+affaires !"
+"060","Je me trompe,
+\0(&촀\0 ou tu n'es pas du
+coin ?
+\0(('촁\0
+\0((촀\0 Quelle coïncidence ! 
+\0Moi non
+plus !\0\0(촀\0Je suis désolé, je ne peux rien te
+vendre. 
+\0Mais ne t'en fais pas,
+\0 ($촀\0on se
+reverra !"
+"061","<"
+"061_01","(6촀\0Tu es venu2\0e faire du tourisme ? 
+\0Cet
+endroit est un paradis. 
+\0Une œuvre
+d'art, presquen\0\0
+\0(촀\0 et je m'y connais !"
+"061_02","(2촀\0D'habitude, c'est le moment où je te
+sors l'affaire du siècle, maisn\0\0 j'ai
+rien à vendre, pour l'instant.\0\0(\0촀\0Mais trêve d'excuses.
+\0( (5촀\0La prochaine
+fois que je te croise, je te ferai une
+offre que tu pourras pas refuser !"
+"061_03","Tu es déjà allé2\0e faire un tour au
+\0musée\0￿ ?
+\0( (촀\0Sache que c'est une
+attraction à ne pas ratern\0\0
+\0\0\0...(촀\0 du moins l'extérieur. 
+\0J'avoue que
+je suis pas allé dedans. 
+\0Beaucoup
+trop de monde à mon goût."
+"101","(\0촀\0Regardez qui voilà,
+\0 un2\0e autochtone !
+\0(
+($촀\0Enchanté,
+\0 on m'appelle \0Rounard\0￿. 
+\0Je
+suis vendeur itinérant.
+\0(
+(&촀\0Et tu esn\0\0
+\0( (%촀\0n\0 ?\0\0(촀\0Quel chouette nom ! 
+\0Ça sonne
+intelligent, 
+\0puissant. 
+\0Je sais déjà
+qu'on va s'entendre à merveille.
+\0(
+(
+촀\0
+\0(Tu sais, mes clients sont un peun\0\0
+ma deuxième famille !\0\0(\0촀\02\0n\0n\0\0 (촀\0C'est un plaisir de faire ta connaissance, n\0 !\0\0(9촀\0Tant que je te tiens, tu aurais deux
+minutes pour écouter un truc qui me
+trotte dans la tête ?"
+"102_01","J'oublie jamais un visage amical.
+\0
+($촀\0Quoi de neuf, n\0 ?\0\0(7촀\0Tu as fait le bon choix, en achetant
+cette œuvre, l'autre fois. J'ai dû
+décevoir beaucoup de monde !"
+"102_02","(촀\0
+\0Alors là, pour une surprise !
+\0( 2\0n\0,
+\0( (촀\0ça fait un bail !"
+"103","(1촀\0Ahn\0\0 Je vais te faire une confidence.
+Je suis tombé sous le charme 2
+de d'⁠n\0.\0\0(촀\0Quand on y pense, vous avez tout
+pour me plaire. 
+\0((%촀\0Et énormément
+d'amateurs d'artn"
+"104","(촀\02\0n\0 ! 
+\0Je pensais justement à toi. 
+\0Il faut qu'on parle, écoute çan"
+"105","()촀\02\0n\0 recherche des œuvres d'art, 
+\0et il se trouve que j'en vends. On est faits pour s'entendre !\0\0(
+촀\0Mais je ne peux pas vendre mes
+trésors sans connaître mon
+interlocuteur.
+\0\0\0Il me faut quelqu'un de confiance,
+que je considère quasiment comme
+un membre de ma famillen\0\0(촀\0\0\0Et puisqu'on est pour ainsi dire
+cousinsn\0\0 et que je connais ton goût
+pour l'artn\0\0
+\0 (촀\0c'est toi que j'ai choisi2\0e !\0\0(3촀\0J'ai des œuvres d'art et des meubles.
+
+\0Et tu bénéficies toujours de mon
+avantage-cousin.
+\0( (&촀\0Tu jettes un œil ?"
+"105_01","(촀\0Je savais que je pouvais compter sur
+toi, cousin2\0e !
+\0 Tu as fait le bon choix."
+"105_02","(촀\0
+\0Je suis blessé !
+\0 Il n'y a aucune
+arnaque. 
+\0Je peux te le prouver."
+"105_03","(%촀\0Mon bateau est en mouillage sur
+la \0côte nord\0￿ et j'ai presque fini de
+réparer les fuites. Une sale histoire.
+(\0촀\0Bref, viens donc voir ce que j'ai
+à vendre,
+\0( (3촀\0tu ne le regretteras pas !"
+"105_a","Et comment !"
+"105_b","Ça sent l'arnaque..."
+"106","J'étais en train den\0\0 
+\0( 촀\0Oh, minute. 
+\0Tu
+as de la visite.
+\0( ('촀\0Tout cela va devoir attendre.\0\0(7촀\0Reprenons cette conversation quand
+on sera tranquilles, tu veux bien ?"
+"107","(6촀\0Tu sais, j'ai de grands projets pour
+toi, moi et cette île.\0\0('촀\0Mais je m'en voudrais de t'accaparer
+alors que tu as de la visite.
+Reparlons de ça quand on sera seuls."
+"160","Je me trompe,
+\0(&촀\0 ou tu n'es pas du
+coin ?
+\0(('촁\0
+\0((촀\0 Quelle coïncidence ! 
+\0Moi non
+plus !\0\0(촀\0Je suis désolé, je ne peux rien te
+vendre. 
+\0Mais ne t'en fais pas,
+\0 ($촀\0on se
+reverra !"
+"161","<"
+"161_01","(6촀\0Tu es venu2\0e faire du tourisme ? 
+\0Cet
+endroit est un paradis. 
+\0Une œuvre
+d'art, presquen\0\0
+\0(촀\0 et je m'y connais !"
+"161_02","(2촀\0D'habitude, c'est le moment où je te
+sors l'affaire du siècle, maisn\0\0 j'ai
+rien à vendre, pour l'instant.\0\0(\0촀\0Mais trêve d'excuses.
+\0( (5촀\0La prochaine
+fois que je te croise, je te ferai une
+offre que tu pourras pas refuser !"
+"161_03","Tu es déjà allé2\0e faire un tour au
+\0musée\0￿ ?
+\0( (촀\0Sache que c'est une
+attraction à ne pas ratern\0\0
+\0\0\0...(촀\0 du moins l'extérieur. 
+\0J'avoue que
+je suis pas allé dedans. 
+\0Beaucoup
+trop de monde à mon goût."

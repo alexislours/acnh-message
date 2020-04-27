@@ -22,11 +22,9 @@ nur um bei mir einzukaufen?
 "003_b","Ich will was kaufen!"
 "003_c","('촀\0Nichts..."
 "011","(촂\0(촃\0Willkommen, 
-\0n\0!
-d\0
-\0\0KHerzlich willkommen!\0dd
-\0
-(\0촀\0Was können wir heute für dich tun?"
+\0n\0! d\0
+\0\0KHerzlich willkommen!\0d d
+\0(\0촀\0Was können wir heute für dich tun?"
 "011_a","Ich will was verkaufen!"
 "011_b","Rübenpreise?"
 "011_c","Heutiger Top-Ankauf?"
@@ -85,6 +83,14 @@ ist es Sonntag geworden,
 \0 und wir
 können keine Rüben mehr ankaufen.\0\0(\0촂\0(\0촃\0Möchtest du etwas anderes zum
 Verkauf auswählen?"
+"025","(촂\0(촃\0Ohn\0\0
+\0 Tut uns wirklich leid, 
+\0abern\0\0
+\0
+Der Handel mit Fälschungen wurde
+uns untersagt.
+(\0촂\0(\0촃\0Bitte wähle etwas anderes zum
+Verkauf aus."
 "031","(%촂\0(촃\02\02\0}\0\0!
 \0
 (촂\0Dafür können wir dir
@@ -483,7 +489,7 @@ Platz in deiner Tasche hast!(%촃\0
 d\0
 \0\0KGanz viel Platz!\0dd"
 "113","(촂\0(촃\0Vielen Dank für deinen Einkauf!
-(촃\0d\0
+d\0
 \0\0KDanke schön!\0dd"
 "114","(촀\0Ich bestätige hiermit, 
 \0von dir
@@ -517,7 +523,7 @@ Wir zahlen dir den doppelten Preisn\0\0
  \0￿)."
 "131_c","Doch nicht..."
 "200","(촂\0(촃\0Vielen Dank!d\0
-\0 \0K...Danke schön!\0dd
+\0 \0K...Danke schön!\0dd(촂\0(촃\0
 Z"
 "201","(촂\0
 \0(촃\0Hallo!d\0

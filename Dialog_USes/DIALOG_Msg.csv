@@ -4,13 +4,13 @@
 ofensivo para que todo el mundo pueda disfrutar
 de Animal Crossing.\0￿\0d"
 "0001_a","¡Espera, no!"
-"0001_b","¡Claro!"
+"0001_b","¡De acuerdo!"
 "0003","¿Se llamará \0\0s촀\0￿?
 \0K\0No incluyas información personal ni vocabulario
 ofensivo para que todo el mundo pueda disfrutar
 de Animal Crossing.\0￿\0d"
 "0003_a","¡Espera, no!"
-"0003_b","¡Claro!"
+"0003_b","¡De acuerdo!"
 "0004","El texto incluye una palabra
 o expresión que no se puede usar."
 "0004_a","Atrás"
@@ -118,6 +118,9 @@ casa para optar a ese programa.\0￿"
 "0603","Solo es posible pedir 5 artículos
 por día y la entrega se realiza
 \0por correo\0￿."
+"0702","No tienes suficientes
+\02\0ࠂ촆joyas amorosas\0￿."
+"0702_a","Cerrar"
 "0802","\0\0Juego local o en línea\0￿
 Al jugar en modo local o en línea, otros
 usuarios podrán ver el contenido que
@@ -178,7 +181,7 @@ y vuelve a intentarlo."
 "0820_a","Entendido"
 "0921","Solo es posible publicar un máximo
 de dos anuncios por visita."
-"0921_a","¡Claro!"
+"0921_a","¡De acuerdo!"
 "0922","Solo es posible publicar un máximo
 de dos anuncios por visita."
 "0922_a","Atrás"
@@ -198,7 +201,7 @@ cambios que acabas de realizar.\0￿"
 "1001","¿Confirmas que tu cumpleaños es
 el Z$촀 de Z#촀?"
 "1001_a","Cambiar"
-"1001_b","¡Claro!"
+"1001_b","¡De acuerdo!"
 "1101","Buscando..."
 "1102","No se encontró ningún artículo."
 "1102_a","Cerrar"
@@ -252,7 +255,7 @@ del importe de \0Z\0\0￿."
 "1119_a","Entendido"
 "1120","Se realizó el envío
 a \0s\0촀\0￿."
-"1120_a","¡Claro!"
+"1120_a","¡De acuerdo!"
 "1121","No es posible realizar pedidos
 mientras hay visita en la isla."
 "1121_a","Cerrar"
@@ -280,7 +283,7 @@ de \0s\0촀\0￿?"
 "1202_a","Mejor no"
 "1202_b","Sí, bórralo"
 "1203","Elige el diseño que quieras borrar."
-"1203_a","¡Claro!"
+"1203_a","¡De acuerdo!"
 "1204","¿Quieres borrar el diseño
 \0s촀\0￿ que
 guardó \0s\0촀\0￿?"
@@ -661,11 +664,11 @@ enviaste a s\0촀."
 de s\0촀."
 "1405","Se sacó a s\0촀
 de tu lista de mejores amigos."
-"1405_a","¡Claro!"
+"1405_a","¡De acuerdo!"
 "1406","No es posible enviar la solicitud
 porque ya alcanzaste el máximo
 de mejores amigos permitido."
-"1406_a","¡Claro!"
+"1406_a","¡De acuerdo!"
 "1407","No es posible enviar la solicitud
 porque ya alcanzaste el máximo
 de solicitudes permitido."
@@ -691,7 +694,7 @@ jugando con él o ella."
 "1412_a","Atrás"
 "1413","Este usuario hizo algún cambio.
 La lista se actualizará ahora."
-"1413_a","¡Claro!"
+"1413_a","¡De acuerdo!"
 "1414","¿Seguro que quieres borrar
 a este usuario de tu lista
 de mejores amigos?"
@@ -729,7 +732,7 @@ de comunicación?"
 "1452_b","Desactivar"
 "1453","Oprime \0\0￿ para activar la comunicación
 y el envío de mensajes."
-"1453_a","¡Claro!"
+"1453_a","¡De acuerdo!"
 "1454","En este momento no es posible
 enviarle mensajes a s\0촀
 porque no está conectad2촀oa\0."
@@ -844,13 +847,13 @@ personalizado llamado
 \0s촀\0￿.
 Elige dónde quieres guardarlo."
 "2102_a","Atrás"
-"2102_b","¡Sí!"
+"2102_b","¡De acuerdo!"
 "2103","Se encontró un diseño
 profesional llamado
 \0s촀\0￿.
 Elige dónde quieres guardarlo."
 "2103_a","Atrás"
-"2103_b","¡Sí!"
+"2103_b","¡De acuerdo!"
 "2110","No se encontró ningún diseño
 personalizado creado para los
 juegos de Nintendo 3DS.
@@ -1499,3 +1502,19 @@ como la lista de mejores amigos.\0\0¿Seguro que quieres volver
 a jugar como \0s\0촀\0￿?"
 "8015_a","No, espera"
 "8015_b","Sí"
+"8016","Este usuario estaba asociado a una
+cuenta Nintendo distinta a la actual.\0\0Si vuelves a iniciar la partida, se
+reiniciará cualquier función que
+utilice internet, como la lista de
+mejores amigos. ¿Quieres continuar?"
+"8016_a","No"
+"8016_b","Sí"
+"8017","Este usuario no está asociado a
+ninguna cuenta Nintendo o bien
+debe volver a iniciar la sesión.\0\0Si vuelves a iniciar la partida, se
+reiniciará cualquier función que
+utilice internet, como la lista de
+mejores amigos. ¿Quieres continuar?"
+"8017_a","No"
+"8017_b","Sí"
+"8019","Volver a empezar la partida"

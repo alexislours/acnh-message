@@ -6,7 +6,7 @@ directement récolté sur notre île?"
 "001_b","Non, dis-m'en plus!"
 "002","<
 ￿"
-"003","<"
+"003","<"
 "004","(촀\0Ah, bien sûr, quelle question.
 \0
 Tu es un2\0e touriste de goût."
@@ -64,6 +64,15 @@ monden\0\0 (!촀\0L'aile n
 \0!"
 "017","<
 "
+"018","($촀\0T'as déjà fait connaissance avec la
+fierté 2
+de d'n\0?
+\0(촀\0 Non, pas moi, voyons!
+\0(촀\0 Le \0musée\0￿!\0\0()촀\0C'est pas qu'un tas de vieux
+rochers poussiéreux.
+\0(%촀\0 On y trouve
+aussi d'authentiques chefs-d'œuvre!"
+"020","<"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
@@ -103,6 +112,19 @@ le squelette d'une créature ayant
 vécu il y a des millions d'annéesn\0\0
 (1촀\0Je me demande si mes os auront
 aussi droit à leur exposition un journ"
+"031","()촀\0Si tu cherches à t'offrir un moment
+de détente neuronale, 
+\0(%촀\0j'te suggère
+le \0musée \0￿2
+de d'n	\0.
+(촀\0Quand j'me sens submergé par ma
+vie trépidante, 
+\0(1촀\0je cours admirer la
+
+.
+(촀\0Et en moins de temps qu'il n'en faut
+pour dire « wow », j'suis à nouveau
+assailli d'idées géniales."
 "201","<\0ÊÎ"
 "202","(4촀\0Dis-moi, j'ai une question sérieuse
 à te posern\0\0\0\0(&촀\0Est-ce que ça t'est déjà arrivé de
@@ -116,10 +138,10 @@ déménagé?"
 tu peux me rendre visite quand tu
 veux, n\0!"
 "204","(촀\0Merci pour ta franchise. 
-\0(5촀\0Si je veux
+\0(5촀\0Si j'veux
 devenir la vedette du coin,
 j'ai besoin de feedbacks honnêtes.
-(%촀\0J'imagine que tu as dû trouver un
+(%촀\0J'imagine que t'as dû trouver un
 moyen de combler (촀\0l'immense vide
 que j'ai laissé derrière moi."
 "205","(촀\0Hé, j'ai posé la question en premier!
@@ -140,7 +162,7 @@ plus ou moins à la mode, mais là,
 ça revient en force!
 (1촀\0Le regard perdu dans les vagues et la
 patte tremblante d'excitation rivée au
-moulinetn\0\0 Il n'y a rien de mieux."
+moulinetn\0\0 Y'a rien de mieux."
 "209","(촀\0La capture d'insectes!\0\0()촀\0Certes, ça date pas d'hier, mais
 est-ce que tu as vu les bibittes qui
 se baladent en ce moment?
@@ -148,7 +170,7 @@ se baladent en ce moment?
 « édition limitée » tellement elles
 ont la classe. 
 \0(촀\0Ha HA!"
-"210","(촀\0Creuser des trous!\0\0()촀\0Certes, c'est le meilleur moyen de
+"210","(촀\0Creuser des trous!\0\0()촀\0Alors OK, c'est le meilleur moyen de
 ruiner les bottines en suède dont
 on vient de faire l'acquisition avisée.
 (1촀\0Mais creuser des trous, c'est avant

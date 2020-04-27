@@ -54,10 +54,13 @@ accéder à l'aéroport !"
 "028","Tu ne peux pas accrocher de
 décoration de porte sur le devant
 de ta tente."
-"029","Il te faut tenir une pelle pour planter
-un arbre dans un trou."
-"030","Tu ne peux rien planter si d'autres
-joueurs sont trop près de toi."
+"029","Il te faut tenir une pelle pour
+planter un arbre ou une pousse
+dans un trou."
+"030","Tu ne peux rien planter quand
+il y a quelqu'un près de toi."
+"031","Tu ne peux rien enterrer quand
+il y a quelqu'un près de toi."
 "051","Tu ne peux plus rien mettre ici.
 Il n'y a pas assez de place !"
 "052","Tu ne peux plus rien installer
@@ -146,6 +149,10 @@ rien avaler pour le moment !"
 "415","Tu ne peux planter cela que
 quand tu visites l'île d'un de
 tes meilleurs amis."
+"416","Tu ne peux pas porter ça
+maintenant !"
+"417","Tu ne peux pas poser de
+clôture maintenant !"
 "430","Tu ne peux pas ranger ceci car ton
 espace de rangement est plein."
 "438","Tu n'as pas assez de place dans

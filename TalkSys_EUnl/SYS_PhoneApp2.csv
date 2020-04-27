@@ -221,6 +221,22 @@ voor dat eiland. 
 afzetten \0waar het vliegtuig landt\0￿.\0\0Is dat een probleem?d"
 "048_a","Nee, hoor!"
 "048_b","Ik wil toch blijven..."
+"049","d\0Hé daar. Ben je lekker op zo'n
+\0meidagreis\0￿ van \0Tom Nook\0￿?\0\0En je zit zeker in de penarie?
+\0 Je bent
+niet de eerste en je zult vast ook niet
+de laatste zijn.\0\0Volgens de reisvoorwaarden moet je
+opnieuw beginnen vanaf \0waar het
+vliegtuig landt\0￿n\0\0 Goed?d"
+"049_01","d\0Hé daar. Ben je lekker op zo'n
+\0meidagreis\0￿ van \0Tom Nook\0￿?\0\0En je zit zeker in de penarie?
+\0 Je bent
+niet de eerste en je zult vast ook niet
+de laatste zijn.\0\0Volgens de reisvoorwaarden moet je
+opnieuw beginnen vanaf \0waar het
+vliegtuig landt\0￿n\0\0 Hou je vast!d"
+"049_a","Ja, graag!"
+"049_b","Hm, laat maar."
 "050_01","d\0Je wilt naar je tent? 
 \0Prima, doen we
 dat!d"

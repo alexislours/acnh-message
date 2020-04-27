@@ -170,6 +170,48 @@ officielles et tout et tout.\0\0(%촀\0OK, j'vais aller voir au \0bureau
 résidents\0￿ vite fait,
 \0(3촀\0 doit y avoir moyen
 de s'arranger, n\0!"
+"207_01","(6촀\0Tu peux plus t'passer d'moi, pas
+vrai?
+\0(촀\0 En même temps, c'est ton île,
+tu sais d'quoi tu parles!
+(촀\0J'ai une idée!
+\0 On va faire un p'tit jeu
+et si tu gagnes, j'pose mes valoches
+ici.
+\0(&촀\0 Ça roule, n\0?"
+"207_01_a","Ça marche!"
+"207_01_b","Ça coince."
+"207_02","(4촀\0Bon, j'avais dit « niet », mais p'têt
+2
+que qu'n	\0 vaut l'détour, au finaln\0\0\0\0()촀\0J'vais sortir un jeu d'cartes et on
+va voir c'qu'elles en pensent. 
+\0Si tu
+gagnes, j'm'installe, n\0."
+"207_02_a","Bingo!"
+"207_02_b","Laisse faire."
+"207_03","(2촀\0OK, tu m'fais douter.
+\0 J'commence
+à m'demander si j'aurais pas dû
+m'pointer plus tôt, n\0.
+()촀\0T'sais quoi?
+\0 On va jouer ça aux
+cartes.
+\0 Si tu gagnes, j'fais ma
+nouvelle vie ici. 
+\0(&촀\0Ça t'va?"
+"207_03_a","Envoie!"
+"207_03_b","J'passe mon tour."
+"208_01","( 촀\0Oh?
+\0 OK, pas d'souci.
+\0
+(7촀\0C'est toi qui vois!"
+"208_02","( 촀\0OK, comme tu l'sens. 
+\0J'croyais qu'tu
+voulaisn\0\0 (촀\0Enfin bref, ce sera p'têt
+pour une autre fois."
+"208_03","(8촀\0OK, t'as réussi à m'avoir. 
+\0J'croyais
+que tu voulaisn\0\0 (촀\0Bref, j'ai compris."
 "302","(%촀\0J'viens d'avoir l'\0bureau des résidents\0￿
 2
 de d'⁠n	\0 au téléphone,
@@ -271,6 +313,17 @@ concert, sérieux?
 (촀\0De toute façon, j'ai passé l'âge de
 poiroter, alors j'vais rentrer chez moi maintenant.
 \0 ('촀\0Merci, mais non merci!"
+"405","(%촀\0J'viens d'parler avec le \0bureau des
+résidents \0￿etn\0\0('촀\0 en un mot,
+ça va pas marcher, n\0.
+(8촀\0Z'ont baragouiné un truc, du genre
+« y a plus d'place pour votre maison,
+allez bâtir ailleurs si on y est ».
+(촀\0Ils m'ont bien proposé d'partager
+une bicoque avec une autre fille,
+mais la coloc, c'est pas pour moi.
+(촀\0C'est pas d'chance, j'me serais bien
+plu icin\0\0 (7촀\0Enfin, merci quand même!"
 "406","(촀\0Bon, j'ai jasé avec le \0bureau des
 résidents\0￿, et c'est officiel :
 \0 on va
@@ -304,6 +357,10 @@ et LÀ je s'rai pas d'avance."
 de sécurité?
 (&촀\0Genre pouvoir évacuer l'île à temps en cas d'attaque 2
 de d'⁠촀?"
+"424","(촀\0Tout l'monde s'est donné
+rendez-vous ici, ou quoi?\0\0(촀\0C'est quand même fou de plus avoir
+un centimètre carré de place pour
+construire quoi qu'ce soitn"
 "504","(%촀\0Cette île est vraiment au poil.
 \0(
 (촀\0Le décor est super et les locaux
@@ -353,7 +410,7 @@ j'peux en planter d'autres icin\0\0
 penser à ça,
 \0(촀\0 et réinvite-moi à
 l'occasion pour qu'on en r'parle!"
-"509","(9촀\0C'est passque j'ai pas une tête
+"509","(9촀\0C'est parc'que j'ai pas une tête
 à aimer les fleurs et les p'tits
 zoziaux, c'est ça?
 (\0촀\0Eh ben détrompe-toi.

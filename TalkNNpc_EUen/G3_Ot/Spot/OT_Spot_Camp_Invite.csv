@@ -281,6 +281,89 @@ grand adventure, n\0.
 their stamp of approval and whatnot.
 ($촀\0Wait here a spell while I go find out,
 would you?"
+"207_01","(촀\0Oh my!
+\0 You're inviting men\0\0again?
+\0
+(6촀\0I suppose I can't really blame you,
+now can I?
+(
+촀\0But what to do,
+\0 what to don\0\0
+
+\0-(촀\0
+\0I know! I shall let fate decide
+for me, n\0!
+()촀\0What I mean is, we'll play a game.
+\0
+And if you win,
+\0 I'll move to this
+charming little island.
+\0((&촀\0 What say you?"
+"207_01_a","I say let's do it!"
+"207_01_b","I say no, thanks."
+"207_02","( 촀\0Eh, I'm flattered you'd ask me once
+again to join you on this island.
+\0
+(
+촀\0I suppose I am a bit temptedn\0\0
+(6촀\0But
+\0 you know how I like to play
+hard to get, my dear.\0\0($촀\0So, how about this.
+\0()촀\0 Let's play a
+little game, and if you win,
+\0 I'll move
+to this fabulous island of yours.
+(&촀\0Shall we give it a go, n\0?"
+"207_02_a","We shall!"
+"207_02_b","We shall not."
+"207_03","(촀\0Ohn\0\0 I'm not sure what to do here.
+I didn't think you'd actually try to
+invite men\0\0again.
+(6촀\0Desperate, are you?
+\0 Well, I am
+flattered. 
+\0(
+촀\0Still,
+\0 I can't make it
+too easy on you, now can I?
+(촀\0
+\0This is what we'll do!
+\0( ()촀\0We shall play a
+game—fair and square, of course—
+and if you win,
+\0 I'll move here.
+(촀\0Oh now,
+\0 it'll be fun!
+\0( (촀\0Just say
+yes, n\0!"
+"207_03_a","Yes!"
+"207_03_b","I'm gonna say no."
+"208_01","( 촀\0Ah. 
+\0I see.
+\0(촀\0 I guess it wasn't meant
+to be.
+\0 C'est la vie."
+"208_02","(촀\0Oh ho ho!
+\0 Look who's playing
+hard to get now!
+\0 (%촀\0Well played.
+\0
+Well played, indeed!
+(촀\0I may not be moving here,
+\0 but I shall
+certainly enjoy whatever time we
+have together,
+\0(6촀\0 you cheeky thing you."
+"208_03","(촀\0Oh!
+\0 Is that so?
+\0(촀\0 I guess you're not
+that desperate to have me here
+after all.
+(%촀\0Well, good on you. 
+\0((촀\0And thank you
+for the invitation, nonetheless.
+\0
+It was lovely of you to ask."
 "302","($촀\0Sorry to keep you waiting, my dear!
 \0(
 (촀\0But I checked with \0Resident Services\0￿,
@@ -408,6 +491,32 @@ the rules for moi, n\0?
 \0((촀\0 But I shall
 hold out hope that some day we
 can live on this island together."
+"405","(촀\0Very sorry for the delay. 
+\0
+But, darling,
+\0
+I have grave newsn\0\0
+\0(촀\0 My dreams of
+moving here have been dashed.
+(촀\0I paid a visit to \0Resident Services\0￿,
+\0
+
+and they said there are no plots for
+sale. 
+\0(촀\0None at all, n\0!
+(촀\0Is it a zoning issue? 
+\0
+Who knows!
+\0
+I didn't want to make a scene,
+\0
+(	촀\0 but
+I'm one unhappy n\0!
+(%촀\0Perhaps one day the stars will align,
+\0
+a plot will go up for sale,
+\0(촀\0 and we will
+get to live on the same island."
 "406","(촀\0Sorry for the wait,
 \0
  but I have big
@@ -467,6 +576,14 @@ to know, darling?
 move to this island. 
 \0((촀\0I want to be
 where everyone else wants to be!"
+"424","(
+촀\0It's hard to believe there's no plot
+of land for sale on your island.
+\0(
+(&촀\0Surely one will open up?
+('촀\0It's a shame, darling.
+\0( (5촀\0I have so
+much to offer a place like this."
 "504","Really, darling, 
 \0(%촀\0this island is
 something special.\0\0(촀\0I feel like I'm my best n\0

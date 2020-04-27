@@ -4,6 +4,11 @@
 "003","¡2\0n\0!"
 "004","Una cosita, n\0:"
 "005","Escucha una cosa, n\0:"
+"006","¿Qué tal, n\0?"
+"007","Querid2oa n\0:"
+"008","Qué cosas, n\0..."
+"009","¡Qué miedo, n\0!"
+"010","¡Hola, n\0!"
 "101","Quería darte una sorpresa,
 así que te envío una cosita
 que quiero que tengas.
@@ -30,6 +35,35 @@ que me han regalado. ¡Yo es que
 no me pongo calcetines ni para
 dormir! Se duerme mejor con
 las patas fresquitas."
+"106","¿Te gusta tomar algo con amigos?
+A mí me encanta que me inviten, y
+por eso se me ha ocurrido enviarte
+esto. Avísame cuando quieras
+estrenarlo y me tendrás en tu
+casa. Yo traeré los dulces."
+"107","He encontrado esto en el trastero
+y no recuerdo de dónde lo saqué.
+Me daba pena dejarlo ahí, así que
+te lo mando, por si quieres darle
+un nuevo hogar. Pues eso, que si
+te gusta, ¡para ti!"
+"108","Se me cayó un caramelo debajo
+de la cama y, cuando metí la mano,
+¡saqué esto! Es tan duro que no
+se puede comer. Quizá tú sepas
+darle alguna utilidad."
+"109","El otro día estaba leyendo un
+cómic de terror, cuando de pronto
+me quedé a oscuras. ¡Qué mal lo
+pasé! Te mando esto para que no
+te pase lo mismo. También es útil
+para ir de noche a la nevera."
+"110","¿Sabes que me he comprado una
+bolsa nueva? Te mando a ti la vieja
+para no tirarla. Está bastante bien
+conservada, aunque tiene la parte
+de dentro algo pegajosa. ¡Espero
+que te sirva!"
 "201","De n
 \0, el que regala"
 "202","De n
@@ -40,3 +74,13 @@ las patas fresquitas."
 \0, el estilista"
 "205","De n
 \0, el descalzo"
+"206","De n
+\0, el detallista"
+"207","De n
+\0, el conservador"
+"208","De n
+\0, el paleontólogo"
+"209","De n
+\0, el precavido"
+"210","De n
+\0, el que recicla"

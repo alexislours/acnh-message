@@ -62,7 +62,7 @@ vadrouille.
 cap sur n""\0?\0\0(촀\0Sois sûr2\0e de toi, je m'en voudrais,
 si tu oubliais quelque chose derrière
 toi.
-\0 Alors,(&촀\0 on est partis ?"
+\0 Alors,(&촀\0 on est partis?"
 "003_a","(%촁\0Oui!"
 "003_b","('촁\0Non, attendsn"
 "004","-촀\0
@@ -123,3 +123,221 @@ la verticale,
 le large si tu te sens d'attaque. 
 \0((촀\0Et
 regarde où tu mets les pattes!"
+"041","(촀\0Atterrissage réussi!
+\0(%촀\0 Bienvenue sur
+ta destination spéciale \01 mai\0￿!\0\0(9촀\0Tu ne poses pas la patte sur une île
+ordinaire, civil2\0e.
+\0(5촀\0 Ici, tu auras affaire
+à un \0labyrinthe\0￿!
+\0
+\0 Bien reçu?
+(촀\0À toi d'en trouver la sortie par tes
+propres moyens. 
+\0(촀\0Pas de vue du ciel
+fournie par le génie aérien!
+(\0촀\0Ce dernier veillera sur tes affaires (%촀\0à
+l'aéroport pendant que 
+\0(촀\0tu pars en
+mission les \0ailes vides\0￿. 
+\0(\0촀\0Ou les \0mains\0￿.
+()촀\0Tu vois, nous autres, nous nous
+repérons grâce à notre radar interne, fierté de notre corps.
+()촀\0Mais toi, simple bipède rivé au
+plancher, tu vas devoir te débrouiller
+autrement pour te sortir de là.
+(촀\0Toutefois, si tu es bloqué2\0e ou perdu2\0e
+dans un épais brouillard, pas de
+panique. 
+\0(%촀\0Appelle le \0service d'aide\0￿.
+()촀\0Nos alliés souterrains remettront
+les compteurs à zéro (""촀\0pour que tu te
+ravitailles et repartes au combat.
+(촀\0Et si jamais tu as besoin d'un petit
+coup de pouce, j'aurai peut-être
+un ou deux indices pour toi.
+(\0촀\0Bien. 
+\0La présentation est terminée.
+\0 
+À mon signaln\0\0 Prêt2\0en\0\0 (촀\0Go, go, go!"
+"042","(&촀\0Perdu2\0e dans un épais brouillard?
+Balloté2\0e par les turbulences? Besoin
+de ravitaillement?
+\0( 촀\0 Je suis à ta dispo."
+"042_a","T'as pas un indice?"
+"042_b","Il me faut un outil."
+"042_c","Je veux rentrer!"
+"042_d","Tout va bien, terminé."
+"043","(9촀\0Je répète pour prévenir toute
+interférence : tu ne reverras jamais
+exactement cette île.
+(\0촀\0L'\0escapade du 1 mai\0￿ est unique.
+\0
+Tu confirmes tes ordres malgré
+tout?"
+"043_a","(%촁\0Oui!"
+"043_b","('촁\0Non, attendsn"
+"044","('촀\0Négatif. 
+\0Cette mission doit être
+accomplie sans matériel. Vole vers
+la victoire, civil2\0e, mais vole à vide.
+(9촀\0L'\0escapade du 1 mai\0￿ implique une
+approche furtive vers l'objectif, qui
+exclut l'équipement. 
+\0Bien reçu?
+('촀\0Je ne te fournirai pas d'outils, même
+si tu le demandes poliment ou que tu
+deviens m2
+ona supérieur2\0e.
+\0 C'est non.
+(\0촀\0Tu m'en vois navré, civil2\0e, mais c'est
+la loi et le code des dodos ne connaît
+pas d'exception. 
+\0C'est comme ça."
+"045","( 촀\0Un indice?
+\0 (%촀\0Bien reçu.
+\0
+(
+촀\0Le temps d'effectuer un relevé
+d'informationsn"
+"046_0","Voici un renseignement :($촀\0 les \0fruits\0￿
+sont un puissant kérosène. (촀\0Avales-en
+un et tu pulvériseras le mur du son!
+()촀\0Ou du moins, tu pourras \0déraciner
+les arbres\0￿ et \0briser les rochers \0￿armé2\0e
+d'une simple pelle ou d'une hache."
+"046_1","(\0촀\0Il me semblait pourtant avoir dit
+« terminé », mais soit. 
+\0()촀\0Parlons un
+peu du franchissement de fossé.
+(촀\0Pour sauter au-dessus d'un fossé
+suffisamment étroit, incline \0
+\0￿dans la direction voulue.
+(\0촀\0Voilà, c'est tout. 
+\0Je dirais bien
+« terminé », mais Double Delta Oscar
+ne se fait pas avoir deux fois."
+"046_2","(%촀\0Si tu te retrouves bloqué2\0e, garde ton
+sang-froid, déploie ton téléphone
+et appelle le \0service d'aide\0￿.
+()촀\0Il sera procédé à une réinitialisation
+de l'île en bonne et due forme, (""촀\0et tu
+pourras réintégrer le labyrinthe."
+"046_3","(""촀\0Bien.
+\0 Dans l'éventualité où un
+arbre entraverait ta progression.
+\0
+Deux possibilités.
+(%촀\0Option A : ingestion de \0fruit\0￿, puis
+déracinement en règle à coups de
+\0pelle\0￿ bien placés.
+()촀\0Option B : abattage dudit arbre à
+l'aide d'une \0hache\0￿, (9촀\0puis excavation
+de la souche à la \0pelle\0￿.
+(촀\0Terminé!"
+"046_4","Autre renseignement :(촀\0 si tu as
+besoin d'outils, fais appel à
+tes talents de bricoleu2
+rse.
+()촀\0La procédure est simple : collecte
+de matériaux, (""촀\0identification d'un
+\0établi de bricolage simple\0￿, et voilà."
+"047","(촀\0Impressionnant! 
+\0(;촀\0Tu as réussi à
+quitter le labyrinthe de tes propres
+ailes, n\0?
+\0(\0촀"
+"047_a","Ouais!"
+"047_b","C'était facile!"
+"048","(촀\0Mes compliments! (촀\0N'oublie pas de
+faire ton rapport à ce cher \0Nook\0￿n\0\0\0\0( 촀\0Oh, enclenchez les aérofreins!
+\0 D'où
+sors-tu cette chose?
+\0 De mémoire de
+pilote, on n'a jamais vu çan\0\0
+(%촀\0Je ne vais pas tourner autour du
+pot, civil2\0e. 
+\0(\0촀\0C'est un visiteur fortuit
+de l'île qui t'a donné cet objet?
+Eh bien, c'est avec une grande fierté
+que ((촀\0Dodo Airlines va livrer ta
+récompense à domicile.
+(\0촀\0Cette \0escapade du 1 mai\0￿ valait le
+détour, non? 
+\0($촀\0J'attends maintenant
+ton signal pour rentrer au bercail.
+(촀\0Toutefois, si tu es bloqué2\0e ou perdu2\0e
+dans le brouillard, pas de panique. 
+
+\0(%촀\0Appelle le \0service d'aide\0￿.
+()촀\0Nos alliés souterrains remettront
+les compteurs à zéro (""촀\0pour que tu te
+ravitailles et repartes au combat."
+"049","( 촀\0Ton attention, s'il te plaît!
+\0
+(&촀\0Quelle est la prochaine étape
+figurant sur ton plan de vol?"
+"049_a","On rentre à la maison."
+"049_b","Laisse tomber, ça va."
+"050","(촀\0Le \0service d'aide\0￿ semble avoir pris
+bien soin de toi,\0 \0￿n\0!
+\0\0\0(%촀\0La procédure de réinitialisation de
+l'île est achevée. 
+\0(""촀\0Tu peux repartir
+dans le labyrinthe quand tu veux.
+(촀\0Et si tu es à nouveau bloqué2\0e, le
+\0service d'aide\0￿ te re-sauvera la
+mise. 
+\0(촀\0Faudrait pas qu'ils s'ennuient!
+(9촀\0Alors accorde-toi un court instant de
+répit et repars au combat, civil2\0e!
+\0
+-촀\0Bonne chance!"
+"051","(&촀\0Décollage pour n	\0?
+\0
+(\0촀\0Si tu veux refaire le labyrinthe,
+
+\0($촀\0appelle le \0service d'aide\0￿."
+"051_a","Direction, la maison!"
+"051_b","Un instant."
+"052","(%촀\0Nous nous assurerons que tes
+affaires te soient restituées une fois
+de retour à n	\0.
+(9촀\0Par contre, le \0cadeau\0￿ de ta nouvelle
+connaissance insulaire ()촀\0sera envoyé
+directement chez toi.
+Il ne devrait pas tarder à faire son
+apparition dans ta boîte aux lettres.
+\0
+($촀\0En attendant, décollage imminent!"
+"052_a","(%촁\0Oui!"
+"052_b","('촁\0Non, attendsn"
+"053","(%촀\0Nous nous assurerons que tes
+affaires te soient restituées une fois
+de retour à n	\0.
+(9촀\0Par contre, le \0cadeau\0￿ de ta nouvelle
+connaissance insulaire ()촀\0sera envoyé
+directement chez toi.
+(\0촀\0Il en va de même pour les \0tickets
+clochettes\0￿ obtenus au cours du
+périple. 
+\0Direction ta boîte aux lettres.
+($촀\0En attendant, décollage imminent!"
+"053_a","(%촁\0Oui!"
+"053_b","('촁\0Non, attendsn"
+"054","(%촀\0Nous nous assurerons que tes
+affaires te soient restituées une fois
+de retour à n	\0.
+(9촀\0Quant aux \0tickets clochettes\0￿ obtenus
+au cours de ton périple, ils seront
+directement envoyés chez toi.
+Pense à jeter un œil à ta boîte aux
+lettres régulièrement. ($촀\0En attendant,
+décollage imminent!"
+"054_a","(%촁\0Oui!"
+"054_b","('촁\0Non, attendsn"
+"055","(9촀\0Tu ne pourras plus jamais visiter
+cette destination d'\0escapade du
+1 mai\0￿. 
+\0(\0촀\0Décollage immédiat?"
+"055_a","(%촁\0Oui!"
+"055_b","('촁\0Non, attendsn"

@@ -132,8 +132,9 @@ divertit2oa come me, n\0!"
 "205_03","(촀\0E quindin\0\0 A che ora inizia la parata
 dei vincitori, n\0?"
 "206","<"
-"206_01","(9촀\0E va bene, n\0.
-\0 Riconosco la sconfitta, getto la spugna.\0\0(5촀\0Se proprio vuoi che un super fusto come me, 
+"206_01","(9촀\0E va bene.
+\0 Riconosco la sconfitta,
+getto la spugna.\0\0(5촀\0Se proprio vuoi che un super fusto come me, 
 \0n
 \0,
 \0 viva 2\0 n""\0,
@@ -141,9 +142,8 @@ dei vincitori, n\0?"
 \0 Devo prima controllare
 con il \0centro servizi\0￿ che la cosa sia
 fattibile, n\0."
-"206_02","()촀\0Io sono uno sportivo e riconosco la sconfitta. 
-\0Tu sei n\0?
-\0( ($촀\0Bel nome, n\0!\0\0(6촀\0Immagino che vivrò qui stabilmente.
+"206_02","()촀\0Io sono uno sportivo e riconosco la
+sconfitta, n\0.\0\0(6촀\0Immagino che vivrò qui stabilmente.
 \0
 Beh, dopo che avrò messo le cose
 in chiaro con il \0centro servizi\0￿n\0\0
@@ -157,14 +157,59 @@ sono abituato ad affrontare le sfide
 e,
 \0 per tutti i deltoidi,
 \0 a vincerlen\0\0
-(8촀\0Oh, ehmn\0\0
-\0 Com'è che ti chiami? 
-\0Era n\0, se non sbaglio, 
-\0vero? 
-\0Beh, piacere!\0\0(5촀\0Andrò a chiedere al \0centro servizi \0￿di aggiungere me, 
+(5촀\0Andrò a chiedere al \0centro servizi \0￿di aggiungere me, 
 \0n
 \0, 
 \0alla lista dei tuoi sfidanti."
+"207_01","(촀\0Hai davvero così tanta voglia che mi
+trasferisca 2\0 n	\0?\0\0(촀\0E va bene, 
+\0scopriamo se i potenti
+muscoli del fato hanno cambiato
+opinione, n\0!\0\0(촀\0Se mi faranno capire che vogliono
+vivere qui, allora non mi opporrò.
+
+\0(5촀\0Tentiamo la sorte?"
+"207_01_a","Facciamolo!"
+"207_01_b","Ehm, meglio di no..."
+"207_02","(7촀\0Ti capisco.
+\0 Trovare sportivi del mio calibro non è facile.
+\0 E se la squadra di n	\0 mi vuolen\0\0\0\0(%촀\0OK, facciamo un gioco, allora.
+\0 Se
+vinci, mi trasferisco qui.
+\0 (5촀\0Sei pront2oa,
+n\0?"
+"207_02_a","Sì, giochiamo!"
+"207_02_b","No, lasciamo perdere."
+"207_03","(6촀\0Credi sempre di essere all'altezza di
+avermi come vicino? 
+\0(촀\0Ah ah, staremo
+a vedere, n\0!\0\0( 촀\0Ma dove sono i miein\0\0
+\0 (촀\0Ah, per tutti
+i bicipiti!\0\0(2촀\0Volevo proporti una sfida a colpi di
+sollevamento pesi, 
+\0ma dimenticavo
+che ho tutti gli attrezzi a casan\0\0\0\0(촀\0OK, 
+\0che ne dici di un gioco di carte,
+invece? 
+\0Non sarà la stessa cosa, 
+\0ma
+se vinci, io mi trasferisco qui."
+"207_03_a","Tira fuori le carte!"
+"207_03_b","Non mi va..."
+"208_01","(촀\0Meglio così. 
+\0Dopotutto, i possenti
+muscoli del fato sono pieni di acido
+lattico, oggi."
+"208_02","(촀\0Ma come?! 
+\0Ma se per questa cosa
+non devi nemmeno allenarti, 
+\0sudare
+o che!
+\0 (촀\0Che tristezzan"
+"208_03","('촀\0Mi dispiace. 
+\0La prossima volta
+mi ricorderò di portare la mia
+attrezzaturan"
 "302","(촀\0Brutte notizie.
 \0 Ho contattato il
 \0centro servizi\0￿ della tua isola e dicono
@@ -263,6 +308,14 @@ più spazio per nessun altro.
 che mi ritrovo, 
 \0rischierei di togliere
 spazio a chi vive già quin"
+"405","(촀\0Ho chiesto al \0centro servizi \0￿e mi
+hanno detto di no:
+\0 non ci sono
+altri terreni in venditan\0\0
+('촀\0Mi hanno detto che non posso
+neanche vivere sul mio kayak.
+
+\0((촀\0Che disdetta!"
 "406","(촀\0Alla fine il \0centro servizi\0￿ mi ha
 risposton\0\0 (촀\0Saremo vicini di casa,
 n\0!
@@ -297,6 +350,12 @@ abbiano rifiutato la mia domandan\0\0\0\0(5촀\0Con tutte le calorie che br
 giorno, 
 \0l'isola stessa potrebbe anche
 andare a fuoco, n\0!"
+"424","(%촀\0Pare che sull'isola non ci siano
+più terreni in vendita!
+\0 Non sapevo
+fosse diventata così popolare!
+(""촀\0Comunque, fammi un fischio se si
+libera un po' di spazio, n\0!"
 "504","(촀\0Da quando sono qui ho stracciato
 tutti i miei record. 
 \0Ogni sessione è
