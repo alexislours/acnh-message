@@ -1,0 +1,164 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hola,
+\0 soy s촀 y estoy ocupado preparando las maletas.
+\0 Vuelve a intentarlo más tarde.\0￿d"
+"001_02","d\0\0Este es el servicio de atención al
+cliente de s촀.
+\0 Es
+broma.
+\0 Llama más tarde.\0￿d"
+"001_03","d\0\0Esta es la voz de s촀.
+\0
+El dueño de la voz está ocupado
+preparando las maletas.\0￿d"
+"001_04","d\0\0Hola,
+\0 soy s촀 pero no estoy.
+\0 Es decir,
+\0 estoy, pero haciendo maletas.
+\0 ¡Gracias por llamar!\0￿d"
+"102","<"
+"102_01","(촀\0¿\0Zona de campamento\0￿?
+\0 (촀\0Pues puede
+estar bien,
+\0 oye.
+\0 ¡Gracias por la
+invitación!
+\0
+Da la casualidad de que no tengo
+nada mejor que hacer, n\0."
+"102_02","(촀\0¿Quieres que pruebe una \02\0Ȃ촄zona de campamento\0￿?
+\0 ¿Y luego le pongo
+estrellitas en alguna guía?
+\0 (촀\0¡Ja, ja, ja!
+(%촀\0Por supuesto,
+\0 (촀\0¿cómo podría rechazar
+una invitación tuya, n\0?"
+"102_03","(%촀\0Mmmn\0\0
+\0 Una invitación a una \02\0Ȃ촄zona de campamento\0￿n\0\0
+\0 (촀\0No sén\0\0\0\0(촀\0Quería ver qué cara ponías mientras
+lo pensaba,
+\0 ¡ja, ja, ja!
+\0 (%촀\0Claro que
+acepto, n\0."
+"102_04","( 촀\0¿\0Zona de campamento\0￿?
+\0(촀\0 ¡No me lo
+preguntes dos veces!
+\0 (""촀\0Prepárate,
+\0
+que voy,
+\0 n\0."
+"202","<"
+"202_01","( 촀\0¿Que vaya a la \02\0Ȃ촄zona de campamento\0￿ de tu isla?
+\0 (촀\0Claro,
+\0 ¿por qué no?
+\0 Puede ser divertido, n\0."
+"202_02","(촀\0¿\0Zona de campamento\0￿?
+\0 (7촀\0Es que así,
+\0 de repenten\0\0
+\0 (촀\0Bueno,
+\0 ¿por qué no?
+\0 No tengo otros planes, n\0."
+"202_03","(%촀\0¿Entonces me invitas a la \02\0Ȃ촄zona de campamento\0￿ de tu isla?
+\0
+(\0촀\0¡Me encanta la idea!
+No sé si estaré preparado o no,
+\0
+(촀\0pero ¡allá voy, n\0!"
+"202_04","(촀\0¿Ir a la \02\0Ȃ촄zona de campamento\0￿ de tu isla?
+\0 (""촀\0¡Por supuesto!
+\0 (\0촀\0(7촀\0Ya voy preparando la tienda, n\0."
+"301","<"
+"301_01","Hola,
+\0 aquí n
+\0n\0\0
+\0 ( 촀\0¿Eh?
+\0 ¿⁠2\0n\0⁠?
+\0 (\0촀\0(&촀\0¿A qué se debe esta ""convocatoria""?"
+"301_02","Hola,
+\0 n
+\0 al habla.
+\0 ( 촀\0¿Cómo?
+\0 ¿⁠2\0n\0⁠?
+\0 (\0촀\0(&촀\0¿A qué se debe tu llamada?"
+"301_03","Buenas,
+\0 habla n
+\0.
+\0 (촀\0¡Anda,
+\0 n\0!
+\0 ¿Qué se te ofrece?"
+"301_04","Sí,
+\0 soy yo,
+\0 n
+\0.
+\0 ( 촀\0¡Ah!
+\0 ¿Qué tal, n\0?
+\0 (\0촀\0Dime,
+\0 ¿de qué se trata?"
+"302","<"
+"302_01","(촀\0¿Eh?
+\0 ¿Que puedo instalarme en
+la \02\0Ȃ촄zona de campamento\0￿ de la islan\0\0?\0\0(
+촀\0Dormir en una tienda tiene su encanto,
+\0 ('촀\0pero a mi edad creo que mejor paso la noche en casa.
+(촀\0Además,
+\0 ¿no crees que la \02\0Ȃ촄zona de campamento\0￿ es mejor para visitantes
+de otros lugares, n\0?"
+"302_02","(촀\0Un momenton\0\0
+\0 ¿Yo?
+\0 ¿Ir a la \02\0Ȃ촄zona de campamento\0￿ de n	\0?\0\0(
+촀\0Creo que tendría más sentido ir a
+acampar a otra islan\0\0
+\0 (7촀\0No lo tomes
+a mal,
+\0 pero mejor no, n\0."
+"302_03","( 촀\0¿Que si me apetece ir a acampar
+en n	\0?
+\0 (촀\0Qué ideas
+tienesn\0\0
+\0
+(\0촀\0A ver,
+\0 puede ser interesante,
+\0 ('촀\0pero
+no para mí.
+\0 ()촀\0Es decir,
+\0 esta isla ya
+la conozco bienn\0\0\0\0(촀\0Y el encanto de ir de campamento está en descubrir cosas nuevas, n\0."
+"302_04","Gracias por el ofrecimiento,
+\0 (촀\0pero no
+me interesa ir a acampar en esta
+isla.
+\0 (촀\0¡No hay peligros!\0\0(촀\0¿Que algo va mal en la tienda?
+\0 Pues
+recoges y en cinco minutos estás
+de vuelta en casa.
+\0 (\0촀\0No tiene gracia.\0\0(%촀\0En mi visión del mundo,
+\0 ir de
+campamento sin riesgos no tiene
+chiste, n\0."
+"401","<"
+"401_01","(촀\0Hooola.
+\0 n
+\0 al habla.
+\0
+¿En qué puedo ayudarte?"
+"401_02","(촀\0Buenas,
+\0 aquí n
+\0.
+\0
+Gracias por llamar,
+\0 peron\0\0
+\0 ($촀\0¿pasa algo?"
+"401_03","Hola,
+\0 n
+\0 al habla.
+\0 (7촀\0Me alegra que me llamesn\0\0
+\0 Sospecho que necesitas algo,
+\0 (&촀\0¿verdad?"
+"401_04","(촀\0Buenas,
+\0 n
+\0 al habla.
+\0 (\0촀\0Una llamada sorpresa siempre
+alegran\0\0
+\0 Necesitas algo,
+\0 (&촀\0¿no?"

@@ -1,0 +1,376 @@
+﻿"label","text"
+"001","<"
+"001_01","(촀\0Do you come to this island a lot?
+\0(
+I can see why someone would.
+\0
+(촀\0It's really nice here,
+\0 n\0."
+"001_02","(촀\0Guess I wasn't the only one
+\0 with the
+idea to come here,
+\0 n\0
+\0n\0\0
+(촀\0It seems like a popular destination!"
+"001_03","(&촀\0What spots would you recommend
+I visit on the island,
+\0 n\0?\0\0(4촀\0I haven't seen much
+\0 outside
+of the \0campsite\0￿ so far
+\0n"
+"002","<"
+"002_01","(촀\0Do you come to this island a lot?
+\0(
+I can see why someone would.
+\0
+(촀\0It's really nice here,
+\0 n\0."
+"002_02","(촀\0Guess I wasn't the only one
+\0 with the
+idea to come here,
+\0 n\0
+\0n\0\0
+(촀\0It seems like a popular destination!"
+"002_03","(&촀\0What spots would you recommend
+I visit on the island,
+\0 n\0?\0\0(4촀\0I haven't seen much
+\0 outside
+of the \0campsite\0￿ so far
+\0n"
+"002_04","(촀\0I got invited to come and camp here
+by one of the locals,
+\0 n\0.\0\0(4촀\0I hope I'm not acting like too much
+\0
+of an obnoxious tourist so far
+\0n"
+"002_05","()촀\0Someone that lives here
+\0 invited me
+to come and camp on the island
+\0n\0\0\0\0(촀\0Hope you're having as much fun
+here as I am,
+\0 n\0!"
+"003","<"
+"003_01","()촀\0Camping has its inconveniences,
+\0 but
+that's honestly part of the appeal
+\0n\0\0\0\0(%촀\0Camping really teaches you what
+you can live without,
+\0 n\0.\0\0(촀\0And there's nothing to distract you
+from enjoying your surroundings!"
+"003_02","(촀\0How do you like n\0
+so far,
+\0 n\0?\0\0(4촀\0I've decided to move in here,
+\0 and
+I'm just starting to realize (촀\0how big
+of a change that will be for me.
+(촀\0I hope I'm up to this challenge."
+"003_03","(1촀\0While I was camping here,
+\0 I could
+escape from all my usual household
+chores for a while,
+\0 n\0
+\0n\0\0\0\0(8촀\0But now that I've decided to move in
+permanently,
+\0 (촀\0I'm going to be busy
+packing as soon as I get home!"
+"101","<"
+"101_01","(""촀\0Hi,
+\0 are you a resident?
+\0 (촀\0Seems like
+a great place to live,
+\0 n\0.\0\0( 촀\0Where are my manners?
+\0 (4촀\0Sorry—
+\0
+my name's n
+\0.\0\0(촀\0You're so lucky to live here!
+\0 I know
+I want to ((촀\0make the most of my visit."
+"101_02","(""촀\0Hi there!
+\0 Do you live here?
+\0 (촀\0You're so
+lucky—
+\0I'm just visiting,
+\0 n\0.\0\0(촀\0I'm n
+\0,
+\0 by the way.\0\0(1촀\0This place is so mellow and laid-back
+\0
+that I can tell already I'm going to go
+home from here feeling restored."
+"101_03","(""촀\0Hi,
+\0 my name's n
+\0.
+\0
+(\0촀\0I'm here on a camping trip!
+\0 (&촀\0Do you
+live on the island,
+\0 n\0?\0\0(%촀\0This must be a great place to live
+\0
+(촀\0if everyone's as friendly as you!"
+"201","<"
+"201_01","(""촀\0Thanks for inviting me.\0\0(5촀\0I plan on overstaying my welcome!
+\0
+(촀\0Just kidding—
+\0please know I'd never
+really do that,
+\0 n\0
+\0n"
+"201_02","(""촀\0Thanks for the invitation!
+\0( (촀\0Seems like
+a great place to camp,
+\0 n\0."
+"201_03","(촀\0I'm so glad you invited me here.
+\0(
+()촀\0I jumped on the first flight I could
+get to this island,
+\0 n\0."
+"202","<"
+"202_01","(""촀\0Hi!
+\0 Do you know s\0촀?
+\0
+(촀\0That's who invited me here.\0\0(4촀\0Have we met already?
+\0
+I'm n
+\0.\0\0(촀\0This seems like such a great island
+to spend time on,(촀\0
+\0 n\0!"
+"202_02","()촀\0I'm here thanks to an invite
+from s\0촀.\0\0(""촀\0I'm n
+\0, by the way.
+\0
+(촀\0Sorry if we've met before.\0\0(4촀\0I'm hoping they can give me a
+tour of the island,
+\0 n\0."
+"202_03","(촀\02\0s\0촀 was kind enough
+invite me here.
+\0
+Do you know them?\0\0(촀\0Wait,
+\0 do I know you?
+\0
+(""촀\0I'm n
+\0.\0\0(1촀\0It's nice to leave the comforts of
+home
+\0 and camp out under the open
+sky sometimes,
+\0 n\0
+\0n"
+"301","<"
+"301_01","(4촀\0I'm planning to use this downtime
+\0
+to read some of my book backlog.\0\0(촀\0So nice
+\0 to have a break from the
+usual chores like this,
+\0 n\0."
+"301_02","(촀\0There's a lot to love about camping,
+\0
+but (촀\0being out under the stars is right
+up at the top for me,
+\0 n\0."
+"301_03","()촀\0I always realize after I get away like
+this
+\0 that it's good to take some time
+alone to just think,
+\0 n\0.
+(촀\0Oh!
+\0( (촀\0I didn't mean that to sound like
+I don't like being social.
+\0 (촀\0I'm really
+grateful to have friends to talk to."
+"301_04","(1촀\0All the fresh air and open sky here is
+waking my inner poet,
+\0 n\0."
+"301_05","(4촀\0You might not guess it,
+\0 but I have
+some tenting skills,
+\0 n\0.\0\0(
+촀\0I guess that might have something
+to do with my having read ""In Tents
+Camping""
+\0 (촀\0cover to cover twice
+\0n"
+"302","<"
+"302_01","(4촀\0I'm planning to use this downtime
+\0
+to read some of my book backlog.\0\0(촀\0So nice
+\0 to have a break from the
+usual chores like this,
+\0 n\0."
+"302_02","(촀\0There's a lot to love about camping,
+\0
+but (촀\0being out under the stars is right
+up at the top for me,
+\0 n\0."
+"302_03","()촀\0I always realize after I get away like
+this
+\0 that it's good to take some time
+alone to just think,
+\0 n\0.
+(촀\0Oh!
+\0( (촀\0I didn't mean that to sound like
+I don't like being social.
+\0 (촀\0I'm really
+grateful to have friends to talk to."
+"401","<"
+"401_01","(
+촀\0Do you really think I'd fit in here?
+\0(
+(촀\0It seems like such a nice community.\0\0(4촀\0I do like the idea
+\0 of making a whole
+new group of friends,
+\0 n\0
+\0n"
+"401_02","(
+촀\0A cross-island move might give me
+the push I need
+\0 to pare down my
+belongings,
+\0 n\0
+\0n\0\0
+(9촀\0I could live without almost everything
+\0
+except my kitchenware or my books
+\0n"
+"401_03","(4촀\0I thought I was just coming here for
+some relaxing camping,
+\0 but now I'm
+moving in.
+\0 (촀\0Guess you never know!
+(9촀\0Life-changing moments don't always
+happen on schedule,
+\0 n\0
+\0n"
+"402","<"
+"402_01","(4촀\0Hope everyone's ready for a new
+neighbor,
+\0 because I was talked into
+moving here by s\0촀.\0\0(촀\0I can't wait to call this place home!"
+"402_02","(4촀\0So,
+\0 big news
+\0n\0\0 (촀\0I'm taking
+s\0촀's suggestion and
+moving here!
+(촀\0I can't wait until I can say I live on
+n\0,
+\0 n\0!"
+"402_03","In case you haven't heard,
+\0 (!촀\0I decided
+I'm going to move to this island!\0\0(2촀\02\0s\0촀
+\0 gave me the idea
+to relocate
+\0n\0\0\0\0()촀\0I'm going to spend the rest of the
+day at the \0campsite\0￿ here,
+\0 and then
+I'll head home to start packing.
+(촀\0Let's get together again
+\0 as soon
+as I can get back,
+\0 n\0!"
+"403","<"
+"403_01","(4촀\0I have some big news
+\0n\0\0 (촀\0I've decided
+I'm going to move to this island!\0\0(촀\0I can't wait to be a part of the
+community here,
+\0 n\0."
+"403_02","(;촀\0Guess what?
+\0 (촀\0I've decided I'm going
+to move here soon,
+\0 n\0!\0\0(촀\0I fell in love with n\0.
+\0
+(4촀\0Can you blame me?"
+"403_03","(6촀\0So,
+\0 I have news
+\0n\0\0 (촀\0I've decided I'm
+going to move here,
+\0 n\0!\0\0()촀\0I'm going to spend the rest of the
+day here at the \0campsite\0￿,
+\0 and then
+I'll head home to start packing.
+(촀\0Let's get together when I get back!"
+"501_01","(1촀\0Something about being here on this
+island
+\0 is really inspiring to me
+\0n\0\0\0\0(촀\0Hey,
+\0 maybe if I moved here,
+\0 (촀\0I'd get
+more poetry written,
+\0 n\0!"
+"501_01_a","Wow, you should!"
+"501_01_b","Seems a bit hasty..."
+"501_02","(촀\0This island's such a good fit for me.
+\0
+(1촀\0It feels almost like I belong here
+somehow,
+\0 n\0
+\0n\0\0\0\0(;촀\0Do you think that could be true?"
+"501_02_a","Sure it could!"
+"501_02_b","I'm not so sure."
+"501_03","(촀\0Awww
+\0n\0\0
+\0 Thinking about leaving this
+place (촀\0makes my heart ache.
+\0 I wish
+I could live just here,
+\0 n\0!"
+"501_03_a","Why don't you?"
+"501_03_b","I'll miss you."
+"502_01","(촀\0You're probably right.
+\0( (4촀\0Maybe I'm
+just flailing around
+\0 for anything that
+might explain my writer's block
+\0n"
+"502_02","(촀\0You're probably right.
+\0 (7촀\0Guess I let
+myself get swept up in the romance
+of this exotic escape,
+\0 n\0."
+"502_03","I know this was just a short visit,
+\0 but
+(촀\0I'm so glad we crossed paths here.
+\0
+(촀\0You take care,
+\0 n\0."
+"601_01","(
+촀\0I had souvenirs handmade for me
+here, 
+\0but (촀\0I haven't done anything in
+return for these folks,
+\0 n\0.
+(촀\0Maybe I could find a way to
+contribute (촀\0if I moved here
+\0n"
+"601_01_a","That's a great idea!"
+"601_01_b","No need to do that."
+"601_02","(촀\0Everyone's been so generous here
+on n\0,
+\0 n\0.\0\0(촀\0I feel so lucky to be heading home
+\0
+with souvenirs crafted just for me.\0\0(촀\0It must be great to live here
+\0 and
+be a part of this community!"
+"601_02_a","Move here and see."
+"601_02_b","We like it here."
+"601_03","(촀\0I'm glad I have some handmade
+souvenirs
+\0 to take home from
+n\0,
+\0 n\0.
+(촀\0It might help me get over
+\0 (촀\0how much
+I'm going to miss this place
+\0n"
+"601_03_a","Why not move here?"
+"601_03_b","We'll miss you too..."
+"602_01","(촀\0Aw,
+\0 you really are all too kind.\0\0(촀\0When I get home, 
+\0I'm telling
+everyone I know (촀\0how great
+n\0 is!"
+"602_02","(촀\0Hope the island's ready for more
+tourists,
+\0 (;촀\0because I'm going to tell
+everyone I know about this place!"
+"602_03","(촀\0You're so sweet.
+\0 (1촀\0When I get back
+home,
+\0 I'm going to pay it forward
+and do something for my friends."

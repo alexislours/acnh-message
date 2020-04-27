@@ -1,0 +1,33 @@
+﻿"label","text"
+"001","¡Ahora empieza el contador!
+\0
+Tengo que pescar Z\0 peces seguidos."
+"002","¡Ya llevo \0Z\0\0￿! ¡Seguro que puedo
+pescar \0Z\0 seguidos\0￿!"
+"003","¡Ya llevo \0Z\0 seguidos\0￿!
+¡Eso significa que he completado
+el \0desafío\0￿! Iré a hablar con \0CJ\0￿."
+"010","¡He pillado \0Z\0 peces grandes\0￿!
+¡Ahora a pescar \0Z\0\0 seguidos\0￿!"
+"011","¡Ya tengo \0Z\0\0￿ \0peces grandes\0￿!
+¡Eso significa que he completado
+el \0desafío\0￿! Iré a hablar con \0CJ\0￿."
+"012","¡He pescado \0Z\0 pez grande\0￿!
+¡Ahora a pescar \0Z\0\0 seguidos\0￿!"
+"013","Esto no es un \0pez grande\0￿n\0\0
+\0
+¡No pasa nada,
+\0 lo volveré a intentar!"
+"020","¡Ya llevo \0Z\0 peces pequeños\0￿!
+¡Seguro que puedo pescar
+\0Z\0\0 seguidos\0￿!"
+"021","¡Ya tengo \0Z\0\0￿ \0peces pequeños\0￿!
+¡Eso significa que he completado
+el \0desafío\0￿! Iré a hablar con \0CJ\0￿."
+"022","¡He pescado \0Z\0 pez pequeño\0￿!
+¡Ahora a pescar \0Z\0\0 seguidos\0￿!"
+"023","Esto no es un \0pez pequeño\0￿n\0\0
+\0
+pero no pasa nada,
+\0
+¡lo seguiré intentando!"

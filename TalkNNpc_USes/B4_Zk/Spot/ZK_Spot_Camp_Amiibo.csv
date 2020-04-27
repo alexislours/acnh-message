@@ -1,0 +1,169 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0¡Hola!
+\0 Apenas mi representante
+haya negociado mis derechos, con
+mucho gusto hablaré contigo.\0￿d"
+"001_02","d\0\0¡Hola!
+\0 Estoy en un proceso de
+renovación personal y no puedo
+hablar ahora. ¡Me mudo!\0￿d"
+"001_03","d\0\0Este es el contestador automático
+de s촀.\0\0Vuelve a intentarlo cuando haya
+terminado con mi mudanza.\0￿d"
+"001_04","d\0\0Gracias por tu interés, pero ahora
+estoy muy ocupado.
+\0 ¡Intenta cuando
+haya terminado, n\0!\0￿d"
+"102","<"
+"102_01","(촀\0¡Anda!
+\0 ¿Me has añadido a la lista de
+invitados para la \02\0Ȃ촄zona de campamento\0￿?\0\0(2촀\0No sé qué decirn\0\0
+\0 Estoy emocionado.
+\0
+(%촀\0Dame unos instantes para recuperar
+la compostura,
+\0 ¿sí?"
+"102_02","(촀\0Impresionante.
+\0 Una invitación
+exclusiva para la afamada \02\0Ȃ촄zona de campamento\0￿.
+\0 Acepto el honor.\0\0(
+촀\0Estoy practicando mi discurso para
+aceptar posibles premios a mi trayectoria.
+\0 (5촀\0Qué bien me queda."
+"102_03","(
+촀\0La \02\0Ȃ촄zona de campamento \0￿adquiere 
+cada vez más popularidad en n	\0n\0\0\0\0(%촀\0Si quiero liderar esa tendencia,
+\0
+(촀\0¡tendré que ponerme a la última en
+moda para acampar,
+\0 n\0!"
+"102_04","(촀\0¿Cómo?
+\0 ¿A la \02\0Ȃ촄zona de campamento\0￿ de n	\0?
+\0 ¿Justamente hoy?
+\0 (촀\0Es una idea millonarian\0\0\0\0(%촀\0Bueno,
+\0 me anoto.
+\0 Preparo mis cosas
+y voy para allá.
+\0 (6촀\0Si me lo propones tú,
+\0
+no puedo decepcionarte."
+"202","<"
+"202_01","( 촀\0¿Me invitas en exclusiva a la \02\0Ȃ촄zona de campamento\0￿?
+\0 (:촀\0Claro,
+\0 me habrás visto
+en la lista de isleños más populares.\0\0(7촀\0Me gusta la idea de vivir esa pequeña
+aventura para variarn\0\0
+\0 (촀\0¡Decidido!
+\0
+¡Allí estaré, n\0!"
+"202_02","(촀\0¿Una invitación para la \02\0Ȃ촄zona de campamento\0￿,
+\0 el lugar más de moda
+ahora mismo en n	\0?
+(
+촀\0Espera que consulto mi agenda
+mentaln\0\0
+\0 (%촀\0¡Estoy libre!
+\0 Allí me tendrás
+en breve, n\0."
+"202_03","(%촀\0Aján\0\0
+\0 Quieres que conozca la \02\0Ȃ촄zona de campamento\0￿ de n	\0,
+\0
+¿no es eso?\0\0(촀\0¡Pues allí nos vemos!
+\0 (2촀\0¡Será de lo más
+exclusivo encontrarnos en persona!"
+"202_04","(촀\0¿Entendí bien?
+\0 (4촀\0¿Quieres que vaya a la \02\0Ȃ촄zona de campamento\0￿ de
+n	\0?\0\0(%촀\0¡Cuenta conmigo!
+\0 Cuando un lugar
+está de moda,
+\0 (촀\0¡yo no puedo
+faltar, n\0!"
+"301","<"
+"301_01","(""촀\0¡Hola,
+\0 hola,
+\0 aquí n
+\0!
+\0
+(촀\0Esa vozn\0\0
+\0 ¿eres n\0?
+\0
+($촀\0¿Cómo te va, n\0?"
+"301_02","(""촀\0¡Buenaaas!
+\0 2\0¡Soy n
+\0!
+\0
+( 촀\0¡Ah,
+\0 eres tú,
+\0 n\0!
+\0
+(&촀\0¿Qué cuentas?"
+"301_03","(""촀\0¡Hola!
+\0 Habla n
+\0n\0\0
+\0
+(촀\0Ah,
+\0 n\0.
+\0(&촀\0 ¿Qué es de tu vida, n\0?"
+"301_04","( 촀\0¡2\0n\0!
+\0 (촀\0Me alegra mucho que me llames.
+\0 ($촀\0¿Cómo te va, n\0?"
+"302","<"
+"302_01","(촀\0¿Eh?n\0\0
+\0 ¿La \02\0Ȃ촄zona de campamento\0￿
+de n\0?
+\0
+(촀\0Me alegra que me lo propongasn\0\0
+(%촀\0Pero a la \02\0Ȃ촄zona de campamento \0￿solo
+se puede acceder con invitación.
+\0
+No lo veo viable, n\0."
+"302_02","(촀\0¿Cómo?
+\0 ¿Que pase por la \02\0Ȃ촄zona de campamento\0￿ de n\0?\0\0(6촀\0Pero esa es un área reservada a
+invitados.
+\0 (:촀\0Por muy prominente que
+yo sean\0\0
+\0 ('촀\0no me parece buena idea."
+"302_03","(%촀\0Ya,
+\0 me imagino que a mucha gente le
+encantaría contar con mi presencia
+en la \02\0Ȃ촄zona de campamento\0￿.
+(9촀\0Pero ese lugar es solo para los que
+fueron invitados, n\0n\0\0\0\0(%촀\0Las reglas de la isla están para algo,
+\0
+(2촀\0así que,
+\0 aunque te agradezco la
+propuesta,
+\0 no la puedo aceptar."
+"302_04","(촀\0¿En n\0?n\0\0
+\0(&촀\0 ¿Sugieres que me quede en la \02\0Ȃ촄zona de campamento \0￿de mi propia isla?\0\0(
+촀\0Es una idea atrevidan\0\0
+\0 (%촀\0pero me temo
+que ese lugar está reservado para los
+que reciben invitación, n\0."
+"401","<"
+"401_01","(""촀\0¡Buenas!
+\0 Aquí el mismísimo
+n
+\0.
+\0 ($촀\0¿Qué tal, n\0?"
+"401_02","(""촀\0¿Sííí?
+\0 Hablas con n
+\0.
+\0
+($촀\0""Moltes gracies"" por llamarme.
+\0
+¿Qué hay de nuevo, n\0?"
+"401_03","(""촀\0¡""Aloha"",
+\0 habla n
+\0!
+\0
+Así se saluda en húngaro,
+\0 creo.
+\0
+¿Todo bien, n\0?"
+"401_04","(촀\0""Hello"".
+\0 Acabas de contactar al
+mismísimo n
+\0.
+\0 ($촀\0¿En qué te puedo ayudar, n\0?"

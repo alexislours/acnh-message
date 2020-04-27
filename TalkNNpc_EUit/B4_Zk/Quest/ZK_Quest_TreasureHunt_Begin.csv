@@ -1,0 +1,212 @@
+﻿"label","text"
+"001","(촀\0Mira, ho un po' di tempo e una bella
+cosa da nasconderen\0\0 Facciamo
+una caccia al tesoro!
+\0 (&촀\0Ti interessa?"
+"001_a","Certo!
+Iniziamo!"
+"001_b","No, ho da fare.
+(#촁\0Adesso non posso..."
+"002","(
+촀\0Mmmh, la mia agenda normalmente
+ricca di impegni dice che ora sono
+libero, perciòn\0\0
+(촀\0Perché non facciamo un gioco?
+(&촀\0Te gusta? 
+\0Magari una bella caccia
+al tesoro, eh?"
+"002_a","Certo!
+Iniziamo!"
+"002_b","No, ho da fare.
+(#촁\0Adesso non posso..."
+"003","(촀\0Se per caso te gusta fare qualcosa
+di stiloso e stravagante...
+\0( (3촀\0potremmo
+fare una bella caccia al tesoro!"
+"003_a","Certo!
+Iniziamo!"
+"003_b","No, ho da fare.
+(#촁\0Adesso non posso..."
+"004","(촀\0Bien!
+\0 Lo sapevo che avresti
+accettato!\0\0(3촀\0Però ahora ho bisogno che aspetti
+un po' qui mentre metto a punto
+le ultime cose..."
+"005","(촀\0Da paura! 
+\0Lo sapevo che non avresti
+potuto dire di no a una simile offerta.\0\0(6촀\0Buenon\0\0 adesso aspetta un momento
+qui mentre vado a nascondere
+il tesoro."
+"006","(촀\0Sorbole!
+\0 Allora diamoci da fare.\0\0(촀\0Vado a cercare un posto dove
+nascondere questo regalo segreto...\0\0(
+촀\0Mmmh, forse questo dettaglio non
+avrei dovuto dirlo ad alta voce, (촀\0ma
+ormai..."
+"007","(촀\0Sorbolen\0\0 ma è tardissimo!
+\0 ('촀\0Non ha
+senso fare una caccia al tesoro
+al buio.
+\0 Rimandiamo, vale?"
+"008","(촀\0Vale, 
+\0sarà per un'altra volta."
+"009","(촀\0Vale, non sarò io a costringerti.\0\0(촀\0Se non ti va di andare in giro a
+scavare per trovare un oggetto a
+caso, hai tutto il diritto di dire di no."
+"010","(촀\0Va bene, va bene, era solo un'idea.
+No hay problema."
+"011","(%촀\0Bueno, ascoltami bene che ti spiego
+come funziona. Ho sepolto il tesoro
+2\0 n\0.
+ð\0\0\0()촀\0Trovalo prima che el tiempo scada
+e hai vinto. 
+\0Beh, alla fine non
+è così complicato.
+ð\0
+(촀\0Ah! 
+\0Dimenticavo di dirti che vinci
+quello che trovi. 
+\0((촀\0Facilissimo, verdad?
+Ĭ"
+"011_01","(%촀\0Bueno, ti spiego come funziona. Io
+ho sotterrato un tesoro da qualche
+parte qui 2\0 n\0.
+ð\0\0\0()촀\0Se riesci a trovarlo prima che scada
+el tiempo, vinci. 
+\0Non dovrebbe
+essere troppo difficile.
+ð\0
+(촀\0Oh! 
+\0La vincita è quello che
+dissotterri. 
+\0((촀\0Ti ho già detto che
+non è muy complicato.
+ð\0
+( 촀\0Ah, un'altra cosa!
+\0 (:촀\0Questa è una
+battaglia fra il mio e il tuo ingegno.
+
+\0('촀\0Quindi nessun altro può aiutarti.
+ð\0
+(9촀\0Ahora, 
+\0sei pront2oa?
+Ĭ"
+"012","(%촀\0Bueno, ascoltami bene che ti spiego
+come funziona. Ho sepolto il tesoro
+2\0 n\0.
+ð\0\0\0()촀\0Trovalo prima che el tiempo scada
+e hai vinto.
+ð\0\0\0(3촀\0Però sappi che stavolta ho reso
+le cose un po' più complicate
+del solito!
+Ĭ"
+"012_01","(%촀\0OK, lascia che ti spieghi come
+funziona. Ho sepolto un tesoro da
+qualche parte 2\0 n\0.
+ð\0\0\0()촀\0Se trovi il tesoro prima che scada
+il tempo, vinci. 
+\0Uhm, non è troppo
+complicato, ecco.
+ð\0
+(3촀\0Anche se questa volta ti rendo la
+vita un po' più difficile, quindi in
+bocca al lupo!
+Ĭ\0
+(:촀\0E questa è una sfida tra me e te,
+non c'è neanche bisogno di dirlo.
+
+\0('촀\0Quindi niente aiuti esterni, capito?
+ð\0
+(9촀\0Ora, 
+\0sei pront2oa?
+Ĭ"
+"013","(&촀\0Conosci già la caccia al tesoro, no?
+\0
+Vuoi che ti ripeta le regole
+per rinfrescarti la memoria?"
+"013_a","Sì, meglio."
+"013_b","Non serve."
+"014","(촀\0Bien, abbiamo 2ununa professionista
+della caccia al tesoro allora!
+
+\0In bocca al lupo!
+´"
+"014_01","(촀\0Bene, dato che sei 2ununa 2.cacciatorecacciatrice
+di tesori professionista, 
+\0non avrai
+bisogno del minimo aiuto, no?
+Z\0
+(촀\0No, infatti. 
+\0Allora buona fortuna!
+Z"
+"015","(촀\0Però tu sabes che sarà più difficile
+del solito, vero?
+\0 (촀\0Buena suerte!
+´"
+"015_01","(촀\0Sai che questa volta sarà un po'
+più difficile del solito, no?
+x\0\0\0(:촀\0Anche se così fosse,
+\0 ricevere aiuto
+dai tuoi amici è vietatissimon\0\0 
+\0(6촀\0È una
+questione tra me e te!
+Z\0
+(촀\0In bocca al lupo!
+Z"
+"101","(9촀\0Caccia al tesoro. 
+\0Adesso. 
+\0Tu e io.
+\0
+Che mi dici?\0\0(촀\0CHE. 
+\0MI. 
+\0(촀\0DICI?!"
+"101_a","TI. DICO. DI. SÌ!"
+"101_b","Uhm... dico di no!"
+"102","(촀\0Uuuhn\0\0 la noia del solito tran tran
+quotidiano mi sta incupendo
+il cuore, n\0.
+(1촀\0Mi viene da chiedermi che ci faccio
+2\0 n!\0?
+\0 (촀\0Che sto
+facendo con la mi vida?
+(
+촀\0Ho bisogno di qualcosa che mi
+emozioni... (촀\0Tipo una caccia al tesoro!
+\0
+Proprio adesso! Te gusta?"
+"102_a","Ma certo!"
+"102_b","Mi spiace, non ora!"
+"103","(촀\0Sorbole, ma la giornata è volata!\0\0('촀\0Non se puede mica organizzare
+una caccia al tesoro a quest'ora!
+Facciamo un'altra volta, OK?"
+"104","(촀\0Sei tostissim2oa!
+\0 Allora vado subito
+a nascondere il tesoro!"
+"105","(촀\0Ma no, e adesso? 
+\0Non puedo mica
+passare tutto il resto del giorno
+a girarmi i pollicin"
+"106","(촀\0Un momentito, ma che mi salta
+in mente?
+\0 Ormai è troppo tardi per
+una cosa simile.
+(7촀\0Mi sa che dovremo rimandare,
+n\0."
+"107","(촀\0Ora sì che ti riconosco,
+n\0!
+\0 Lo sapevo
+che avresti accettato!
+(촀\0Bien, allora resta qui un momentito
+mentre vado a nascondere il tesoro,
+de acuerdo?"
+"108","(촀\0Vale, 
+\0in fondo il vero tesoro per me
+è la tua amicizia!"
+"200","(촀\0Lo so che sembra assurdo,
+ma sta succedendo davvero,
+n\0...
+(촀\0Sull'isola non c'è più nemmeno
+un centimetro quadrato di terreno
+libero per seppellire il tesoro!
+('촀\0Sorbole, credo che dovremo
+rinunciare!"

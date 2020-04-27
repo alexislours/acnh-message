@@ -1,0 +1,464 @@
+﻿"label","text"
+"001","(촀\0Welkom, n\0!
+\0 (\0촀\0Hoe kan ik je vandaag van dienst zijn?"
+"001_a","Ik wil iets verkopen!"
+"001_b","Wat verkoop je vandaag?"
+"001_c","('촀\0Tot ziens..."
+"002","(촀\0Ja, ja!
+\0 Wie hebben we hier?(촀\0
+\0 
+\0(촀\0Wat
+indrukwekkend dat je helemaal naar
+ons prachtige eiland bent afgereisd!\0\0(\0촀\0Hoe kan ik je vandaag van dienst
+zijn?"
+"002_a","Ik wil iets verkopen!"
+"002_b","Wat verkoop je vandaag?"
+"002_c","('촀\0Tot ziens..."
+"003","(촀\0Hoe kan ik je van dienst zijn?"
+"003_a","Ik wil iets verkopen!"
+"003_b","Wat verkoop je vandaag?"
+"003_c","('촀\0Tot ziens..."
+"011","(촂\0Welkom, 
+\0(촃\0n\0!d\0
+\0 \0KHallo, hallo!\0dd 
+\0(\0촂\0Hoe kunnen we je vandaag van dienst zijn?"
+"011_a","Ik wil iets verkopen!"
+"011_b","Wat kosten de knollen?"
+"011_c","Wat is de dagtopper?"
+"011_d","('촀\0Tot ziens..."
+"012","(촀\0Ja, ja!
+\0 Wie hebben we hier?(촀\0
+\0 
+\0(촀\0Wat
+indrukwekkend dat je helemaal naar
+ons prachtige eiland bent afgereisd!\0\0(\0촀\0Wat kan ik vandaag voor je
+betekenen?"
+"012_a","Ik wil iets verkopen!"
+"012_b","Wat kosten de knollen?"
+"012_c","Wat is de dagtopper?"
+"012_d","('촀\0Tot ziens..."
+"013","(촂\0(촃\0Heb je iets nodig?d\0
+\0 \0KVertel, vertel!\0dd"
+"013_a","Ik wil iets verkopen!"
+"013_b","Wat kosten de knollen?"
+"013_c","Wat is de dagtopper?"
+"013_d","('촀\0Tot ziens..."
+"014","(촀\0(촃\0Sorry. Dat had een stuk korter en
+bondiger kunnen zijnn\0\0
+\0(촀\0 Heb je iets
+nodig?"
+"014_a","Ik wil iets verkopen!"
+"014_b","Wat kosten de knollen?"
+"014_c","Wat is de dagtopper?"
+"014_d","('촀\0Tot ziens..."
+"019","Kunnen we je verder(촂\0 nog ergens mee
+helpen vandaag?d\0
+\0 \0KAarzel niet!\0dd"
+"019_a","Ik wil iets verkopen!"
+"019_b","Wat kosten de knollen?"
+"019_c","Wat is de dagtopper?"
+"019_d","('촀\0Tot ziens..."
+"021","(%촂\0(촃\0Natuurlijk! (\0촂\0
+\0(촂\0Wat wil je precies
+verkopen?\0Kd\0
+\0 Zegt u het maar!d\0d(촂\0(촃"
+"022","()촂\0(촃\0Op zondagen kopen we geen knollen.
+\0
+(%촃\0Bedankt voor je begrip. (\0촂\0(\0촃\0Vertel, 
+\0(촂\0(촃\0wat
+wil je verkopen?(촂\0(촃"
+"024","(촂\0(촃\0O, jeen\0\0
+\0 Het spijt me verschrikkelijk,
+maarn\0\0
+\0 aangezien het nu zondag is
+kopen we geen knollen meern\0\0\0\0(\0촂\0(\0촃\0Wil je misschien iets anders
+verkopen?"
+"031","(%촂\0(촃\02\02\0}\0\0!
+\0 (촂\0Eens even zien,
+\0 wat dacht je van Z\0?"
+"031_a","(%촀\0Verkocht!"
+"031_b","('촀\0Nee, toch maar niet..."
+"035","\0K(;촀\0Hmn\0\0
+\0 Zou 2 촀dezeditdeze 2촃}\0\0n\0\0\0d(촀\0 
+\0O! 
+\0(촀\0Let maar niet op mij. Ik mompel maar wat.\0\0Ik kan je Z\0 voor je 2촃}\0\0 geven."
+"035_a","(%촀\0Verkocht!"
+"035_b","('촀\0Nee, toch maar niet..."
+"036","(%촂\0(촃\0Aha! Dit is een doe-het-zelfplan voor
+2\0}\0\0!
+\0\0\0(촂\0We kunnen je er Z\0 voor geven!"
+"036_a","(%촀\0Verkocht!"
+"036_b","('촀\0Nee, toch maar niet..."
+"037","(촂\0(촃\0O!
+\0 Dit is een doe-het-zelfplan voor
+2\0}\0\0!\0\0(촂\0Maar dat is een heel erg waardevol
+(%촃\0plan.
+\0 Weet je zeker dat je ervan af
+wilt?\0\0(촀\0We kunnen je er Z\0 voor gevenn"
+"037_a","(%촀\0Verkocht!"
+"037_b","('촀\0Nee, toch maar niet..."
+"038","(촂\0(촃\0O jeen\0\0
+\0 Het spijt me, maar voor dit
+soort dingen kunnen we je niets
+betalen.\0\0We kunnen het wel kosteloos voor je
+opuimen, als je dat wilt.
+"
+"038_a","Ruim maar op, alsjeblieft!"
+"038_b","Ik hou het wel bij me."
+"041","(촂\0(촃\0Wat heb je vandaag toch prachtige
+dingen meegebracht!
+\0( (
+촂\0(1촃\0Eens even
+rekenenn"
+"041_01","Moet je al die prachtige dingen zien!
+\0
+\0K(;촀\0
+\0Hmn\0\0
+\0 droom ik of zie ik daarn\0\0\0d\0\0(촀\0
+\0O!
+\0(촀\0 Laat maar! Ik heb niets gezegd!
+Eens even rekenenn"
+"041_02","(촂\0(촃\0Wat een boel moois heb je daar!
+\0(
+(
+촂\0(1촃\0Momentjen\0\0
+\0 We tellen het even
+allemaal bij elkaar opn\0\0\0\0n\0\0zonder te vergeten dat de
+dagtoppers \0dubbel \0￿tellen,
+natuurlijkn"
+"042","(촂\0(촃\0Klaar!
+\0( (\0촂\0We kunnen je hier in totaal
+\0 Z\0 voor geven.
+\0 (촂\0Klinkt dat goed?"
+"042_a","(%촀\0Verkocht!"
+"042_b","('촀\0Nee, toch maar niet..."
+"043","(촂\0(촃\0Wat een boel mooien\0\0(촂\0(촃\0
+\0 Huh?
+\0 (\0촂\0(\0촃\0Maar er
+zit een ontzettend waardevol plan
+tussen.
+\0(&촂\0(&촃\0 Weet je het zeker?"
+"043_a","(%촀\0Prima. Ga je gang."
+"043_b","('촀\0Eh, nee. Eén seconde."
+"044_01","(촂\0
+\0(촃\0Begrepen!d\0 
+\0\0KHartstikke goed!\0dd
+\0( (1촂\0(%촃\0Een momentje tot we alles hebben
+opgeteldn"
+"044_02","(촂\0
+\0(촃\0Begrepen!d\0 
+\0\0KMooi zo!\0dd
+\0( (
+촂\0(1촃\0We tellen het even
+allemaal bij elkaarn\0\0 De dagtoppers
+tellen \0dubbel\0￿, natuurlijkn"
+"045","(촂\0(촃\0En klaar!\0\0(\0촂\0Helaas kunnen we je niet voor alles
+betalen, 
+\0maar wat niet van waarde is,
+kunnen we wel voor je weggooien.\0\0(\0촂\0Dat worden dan 
+\0
+Z\0.
+\0(촂\0 Akkoord?"
+"045_a","(%촀\0Verkocht!"
+"045_b","('촀\0Nee, toch maar niet..."
+"046","(촂\0(촃\0On\0\0
+\0 Het spijt me, maar voor zoiets
+kunnen we je helaas niets geven.\0\0We kunnen het wel kosteloos voor je
+weggooien als je dat wilt."
+"046_a","Ruim maar op, alsjeblieft!"
+"046_b","Ik hou het wel bij me."
+"051","(촀\0(촃\0Dank je wel! 
+\0Het was prettig zaken
+te doen! (%촃\0d\0
+\0\0KAltijd fijn!\0dd"
+"051_01","(촂\0
+\0(촃\0Begrepen!d\0
+\0 \0KDuidelijk!\0dd
+\0( We zullen het voor
+je opruimen."
+"052","(촂\0(촃\0Heel erg bedankt!
+\0((\0촂\0(\0촃\0 We zullen de
+wisselklingels in je zakken doen!"
+"053","(촂\0(촃\0Hartelijk bedankt!
+\0((\0촂\0(\0촃\0 Je portemonnee
+en je zakken zitten vol, dus we
+storten de klingels(촂\0(촃\0 op je rekening."
+"054","(촂\0O, jemig!(촃\0d\0
+\0 \0KOeps!\0dd
+\0\0\0('촂\0
+\0('촃\0Ik zeg dit niet graag,
+\0 maar ik kan je
+momenteel niet uitbetalen omdat je
+geen ruimte meer hebtn\0\0\0\0(\0촂\0(%촃\0Wanneer je je zaakjes weer op orde
+hebt gebracht,
+\0(촂\0(촃\0 zien we je graag
+terug.d\0
+\0 \0KAlvast bedankt!\0dd"
+"056_01","(촂\0(촃\0O, voor ik het vergeet! 
+\0(\0촂\0(\0촃\0Ik wilde je iets
+vertellen over het \0fruit\0￿ dat ik net van
+je heb gekochtn\0\0\0\0()촂\0Als je fruit \0eet\0￿, 
+\0(%촃\0zul je merken dat je
+energieker en sterker wordt dan je
+ooit had durven dromen.\0\0(&촂\0(촃\0Had iemand je dat al verteld?"
+"056_02","()촀\0Misschien
+\0(%촃\0 wel zo sterk dat je met het
+juiste gereedschap stenen kunt
+breken of hele bomen uitgraven."
+"056_03","()촀\0Misschien
+\0(%촃\0 wel zo sterk dat je met
+een schep stenen kunt breken of
+zelfsn\0\0 hele bomen kunt uitgraven."
+"056_04","(촂\0(촃\0We kopen je fruit graag op, maar
+misschien moet je het ook eens
+proberen te \0eten\0￿.d\0
+\0 \0KJammie!\0dd"
+"061","(촀\0(촃\0Wil je weten wat er in de vitrine ligt?
+Dit is wat we vandaag voor je
+hebbenn\0\0(촃\0d\0
+\0 \0KEen heleboel!\0dd"
+"081","Op dit moment is de prijs van knollen
+\0
+(촀\0(촃\0Z\0 per knol!"
+"082","Op zondag
+\0 kopen we geen knollen in.
+
+\0(촀\0(촃\0Kom alsjeblieft morgen weer terug."
+"091","(\0촀\0(촀\0Vandaag verkopen we het volgenden\0\0(촀"
+"092","(&촀\0(촃\0Had je nog iets anders gezien dat
+je interesseert?"
+"092_a","Mag ik nog eens kijken?"
+"092_b","Niks nodig."
+"093","(촀\0Ja, ja! Natuurlijk!
+\0( Geef je ogen maar
+eens goed de kost.(촀"
+"094","(%촀\0(촃\02\02\0}\0\0
+\0 2&촀kostkostkosten Z\0."
+"094_a","(%촀\0Koop ik!"
+"094_b","('촀\0Nee, toch maar niet..."
+"096","(촂\0(촃\0O! 
+\0Heb je interesse in de \0vishengel\0￿?\0\0(\0촂\0Wist je dat je die gratis kunt maken
+tijdens de \0doe-het-zelfworkshop\0￿ van
+\0meneer Nook\0￿?
+\0(%촃\0\0\0(촂\0(촃\0Voor Z\0 is ie van jou.
+\0 (&촂\0Wil je 'm nog steeds kopen?(&촃\0d\0
+\0 \0KWat mag het zijn?\0dd"
+"096_a","(%촀\0Koop ik!"
+"096_b","('촀\0Nee, toch maar niet..."
+"101","(%촂\0(촃\0Dat 2촀isiszijn
+\0(촂\0 2\0}\0\0!"
+"102","(%촂\0Daar is maar een beperkt aanbod
+van,
+\0(%촃\0 dus zorg(촂\0(촃\0 dat je er snel bij bent!"
+"103","Eens zienn\0\0
+\0(%촂\0 Dat komt neer op Z\0.
+\0 ($촂\0($촃\0Wat zeg je ervan?"
+"103_a","(%촀\0Koop ik!"
+"103_b","('촀\0Nee, toch maar niet..."
+"104","Eens zienn\0\0
+\0(%촂\0 Dat komt neer op Z\0.
+\0 ($촂\0($촃\0Wat zeg je ervan?"
+"104_01_01","(\0촂\0(\0촃\0Je hebt nog niet geprobeerd iets te
+(&촂\0(&촃\0\0doe-het-zelven \0￿hier op het eiland,
+klopt dat?"
+"104_01_02","(촀\0Meneer de directeur biedt een gratis
+\0doe-het-zelfworkshop\0￿ aan, 
+\0misschien
+moet je dat eerst doen!"
+"104_01_03","(촀\0Meneer de directeur biedt een gratis
+\0doe-het-zelfworkshop\0￿ aan bij de \0servicebalie\0￿.\0\0(촃\0Misschien moet je die eerst doen!"
+"104_02","(촂\0Volgens mij(%촃\0 heb je dit al gekocht,
+(촃\0n\0!"
+"104_a","(%촀\0Koop ik!"
+"104_b","Wat is dit?"
+"104_c","('촀\0Nee, toch maar niet..."
+"105_01","(촂\0(촃\0""2\0}\0\0""
+\0 is een e-⁠boek met \0doe-het-zelfplannen\0￿!d\0 
+\0\0KLekker de handen uit de mouwen!\0dd"
+"106_01_01","()촂\0(촃\0""2\0}\0\0""
+\0 bevat simpele \0doe-het-zelfplannen \0￿met gemakkelijk te vinden materiaal."
+"106_01_02","()촂\0""2\0}\0\0
+\0"" bevat plannen met een interessante mix aan materialen."
+"106_01_03","()촂\0(촃\0""2\0}\0\0""
+\0 bevat plannen met diverse lastig te verkrijgen materialen!"
+"106_02","(촂\0(촃\0Als je het plan koopt, sturen we
+de gegevens direct naar je app."
+"107_01","(촂\0Oké, 
+\0we sturen de plannen uit ""⁠}\0\0⁠""(촃\0 naar je telefoonn"
+"107_02","(촂\0(촃\0Zo, dat was dat!
+\0(촂\0 Hopelijk haal je met
+je nieuwe plannen nog meer plezier
+uit het \0doe-het-zelven\0￿!d\0
+\0 \0KVeel lol!\0dd"
+"110_02","(촂\0(촃\02\0n\0, ik weet vrij zeker dat je dit plan al hebt.\0\0(촂\0(촃\0Als je het toch wilt kopen, kost je dat Z\0.
+\0 Nog steeds(&촀\0 geïnteresseerd?(&촃\0d\0
+\0 \0KAan jou de keuze!\0dd"
+"110_02_a","(%촀\0Koop ik!"
+"110_02_b","('촀\0Nee, toch maar niet..."
+"110_03","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0breekbare gieter\0￿ kunt maken."
+"110_03_01","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0breekbare schep\0￿ kunt maken."
+"110_03_02","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0polsstok\0￿ kunt maken."
+"110_03_03","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0katapult\0￿ kunt maken."
+"110_03_04","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0breekbare bijl\0￿ kunt maken."
+"110_03_05","(촂\0(촃\0Dit is een \0doe-het-zelfplan\0￿ waarmee
+je een \0ladder\0￿ kunt maken."
+"110_04_01","(촂\0(촃\0Dit is een plan voor een simpele
+houten \0gieter\0￿."
+"110_04_02","()촀\0Met een \0gieter \0￿
+\0(%촃\0kun je plantjes water
+geven en groene vingers kweken.(촀\0\0\0(촂\0(촃\0Onmisbaar voor iedereen die door
+middel van kruisbestuiving zeldzame,
+kleurrijke bloemen wilt laten groeien."
+"110_05_01","(촂\0(촃\0Dit is een plan voor een simpele
+houten \0schep\0￿."
+"110_05_02","()촂\0Met een \0schep \0￿kun je (%촃\0kuilen graven.
+Je kunt er ook dingen mee opgraven
+of begraven!\0\0(촂\0Of je kunt ermee (촃\0tegen stenen slaan,
+om zo kleinere stenen en waardevolle
+materialen los te breken.\0\0(%촂\0Dit is het soort gereedschap om over
+(%촃\0op te scheppen, dus zorg dat je er
+altijd (촂\0een bij je hebt!(촃\0d\0
+\0 \0KSuperhandig!\0dd"
+"110_06_01","(촂\0(촃\0Dit is een plan voor een houten
+\0polsstok\0￿."
+"110_06_02","()촂\0Met een \0polsstok\0￿ kun je (%촃\0over rivieren
+springen!(촂\0\0\0(%촂\0(촃\0Erg handig voor op een eiland zoals
+dit, of voor een fierljepper in spe.(촂"
+"110_07_01","(촂\0(촃\0Dit is een plan voor een \0katapult\0￿."
+"110_07_02","()촂\0Je kunt de \0katapult \0￿gebruiken ()촂\0om
+voorwerpen uit de lucht te schietenn\0\0\0\0(촂\0(촃\0Je weet nooit wanneer je iets moet
+neerhalen, dus het is handig om er
+altijd eentje bij je te hebben!"
+"110_08_01","(촂\0(촃\0Dit is een plan voor een simpele \0bijl
+\0￿van steen en takken."
+"110_08_02","()촂\0Als je met je \0bijl\0￿ tegen een boom
+slaat, (%촃\0krijg je iets wat voor elke
+klusser onmisbaar is: (촂\0hout!(촃\0\0\0(\0촂\0(\0촃\0Bovendien heeft de \0breekbare bijl\0￿
+\0
+een stomp stenen blad, zodat
+\0(촂\0(촃\0 je niet
+per ongeluk een boom omhakt.\0\0(%촂\0(촃\0Kortom, zonder een bijl ben je als
+klusser nergens op dit eiland!(촂\0d\0
+\0 \0KJa, ja!\0dd"
+"110_09_01","(촂\0(촃\0Dit is een plan voor een houten
+\0ladder\0￿!"
+"110_09_02","()촂\0Met een \0ladder \0￿kun je (%촃\0kliffen op en af
+klimmen die ongeveer zo hoog zijn
+als jijzelf, (촂\0of misschien ietsjes hoger.\0\0(%촂\0(촃\0Het is een van die handige dingen
+die je op een eiland eigenlijk steeds
+bij je moet hebben!(촂\0d\0
+\0 \0KKomt altijd van pas!\0dd"
+"111","(촂\0(촃\0Bedankt
+\0 voor je aank-
+\0 oeps!\0\0(촂\0(촃\0Sorry, maar eh, 
+\0((촂\0(촃\0je hebt niet genoeg
+klingels bij je.\0\0()촂\0(7촃\0In deze winkel kun je helaas niets op
+krediet kopen, 
+\0dus kom maar terug
+als je genoeg klingels hebt.(촃\0d\0
+\0 \0KPingping!\0dd"
+"112","(촂\0(촃\0Bedankt voor je aank-
+\0 woeps!\0\0(촂\0(촃\0Je hebt 
+\0((촂\0(촃\0veel te veel dingen bij je!\0\0(%촂\0(촃\0Misschien kun je terugkomen
+\0 (촂\0als je
+je zakken wat leger hebt gemaakt.(%촃\0
+d\0
+\0\0KZó wordt het heel lastig!\0dd"
+"113","(촂\0(촃\0Een uitstekende keuze!(촃\0d\0
+\0 \0KPrachtig!\0dd"
+"114","(촀\0Juist, bedankt voor de Z\0!(%촃"
+"121","(촂\0(촃\0De dagtopper van vandaag 
+\02촀isiszijn 2\0}\0\0!"
+"121_01","De dagtoppers van vandaag zijn 2\0}\0\0 en 2\0}\0."
+"121_02","()촂\0Voor dagtoppers betalen we het
+\0dubbele(%촃\0\0￿ van de normale waarde,
+\0(촂\0(촃\0
+dus sla je slag!d\0
+\0 \0KGrijp je kans!\0dd"
+"122","(촂\0(촃\02\02\0}\0\0!\0\0We geven je er \0tweemaal \0￿het normale bedrag voor, dus dat zijnn\0\0 Z\0.
+\0(&촂\0(&촃\0 Akkoord?"
+"122_a","(%촀\0Verkocht!"
+"122_b","('촀\0Nee, toch maar niet..."
+"131","(%촃\0Van 2\02촃}\0\0 kun je er meerdere tegelijk kopen.
+\0(&촂\0 Hoeveel mogen het er zijn?"
+"131_a","1. (\0 Z\0\0￿)"
+"131_b","5. (\0 Z
+\0￿)"
+"131_c","Ik heb me bedacht."
+"200","(촂\0(촃\0Dank je wel!d\0
+\0 \0KBedankt!\0dd
+Z"
+"201","(촂\0
+\0(촃\0Hallo!d\0
+\0 \0KHoi, hoi!\0dd
+\0 Welkom bij \0Nooks hoek\0￿!"
+"202","(촂\0(촃\0Welkom!d\0
+\0 \0KJa, ja!\0dd \0\0(촂\0(촃\0O,
+\0 n\0!
+\0(촂\0(촃\0 Wat leuk dat je er bent!d\0
+\0 \0KGezellig!\0dd"
+"203","(촂\0(촃\02\0n\0!
+\0 Kom je winkelen?d\0 
+\0\0KDan ben je op de juiste plek!\0dd"
+"204","(촂\0We hebben hier allerlei (%촃\0meubels en
+andere spullen. Je vindt vast wel iets
+wat je kunt gebruiken!(촃"
+"205","(%촂\0Kijk maar rustig(%촃\0 even rond!(촂\0
+\0(촃\0d\0
+\0 \0KNeem je tijd!\0dd"
+"206","(%촂\0We zijn bijzonder(%촃\0 trots op ons
+aanbod.
+\0 Kijk dus rustig even rond!(촂\0
+\0
+(촃\0d\0
+\0\0KGeef je ogen de kost!\0dd"
+"207","(촂\0(촃\0Ehn\0\0 Wat leuk dat je langskomtn\0\0
+maar we zijn eigenlijk al gesloten
+voor vandaag.
+´\0\0\0(촂\0(\0촃\0Dus kom vooral (%촃\0een andere keer
+terug!\0Kd\0
+\0 Hopelijk tot gauw!d\0d
+Z"
+"901","( 촂\0O?
+\0(&촂\0 Weet je het zeker?
+\0 (\0촂\0(촃\0Goed, maar
+zeg het (촂\0als we je ergens anders mee
+kunnen helpen.d\0
+\0 \0KDaar zijn we namelijk voor!\0dd"
+"902_01","Begrepen!
+\0 Laat het ons vooral weten
+
+\0(촂\0(촃\0als je nog ergens anders hulp bij
+nodig hebt.d\0
+\0 \0KSchroom niet!\0dd"
+"902_02","(촂\0(촃\0O, je hebt je bedacht?
+\0(촂\0(촃\0 Was er nog
+iets waar je je oog op hebt laten
+vallen?"
+"903_01","(촀\0Ah, 
+\0toch maar niet?
+\0(\0촀\0 Zeg het gerust
+als(촀\0 ik je ergens anders bij kan
+helpen!"
+"903_02","(\0촂\0(\0촃\0Zeg het gerust als je (촂\0(촃\0nog iets nodig
+hebt."
+"903_03","(촀\0Bedankt!
+\0 Aarzel niet me om hulp
+te vragen!"
+"903_04","Dank je wel!d\0
+\0 \0KReuzebedankt!\0dd"
+"904","(촂\0(촃\0Begrepen!d\0
+\0 \0KDuidelijk!\0dd
+\0( Laat het ons
+vooral weten als we iets voor je
+kunnen betekenen.d\0
+\0 \0KWe helpen je graag!\0dd"
+"905","(촂\0(촃\0Prima, laat het ons vooral weten(촂\0
+als je ergens hulp bij nodig hebt.d\0
+
+\0\0KWe staan tot je dienst!\0dd"

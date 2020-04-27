@@ -1,0 +1,158 @@
+﻿"label","text"
+"001","(촀\0J'ai une idée.
+\0 Que dirais-tu de jouer
+à un petit jeu avec moi?
+\0(\0\0(%촀\0C'est un jeu très simple.
+\0 Et si tu
+gagnes,
+\0(촀\0 tu remportes mon incroyable
+}\0\0."
+"001_a","J'en suis!"
+"001_b","Une autre fois."
+"002","(촀\0Voilà ce que je voulais entendre!
+\0
+(\0촀\0Avant que nous commencions,
+\0
+(&촀\0
+veux-tu que je t'explique les règles?"
+"002_a","Oui, je veux bien!"
+"002_b","Ça ira, merci."
+"003","(촀\0Oh, 
+\0
+je vois.
+\0 (\0촀\0Je n'insisterai pas.
+\0(촀\0
+Fais-moi signe si jamais tu changes
+d'avis."
+"004","(촀\0Formidable!
+\0
+ Commençons sans plus
+tarder!
+\0( (<촀\0Tout d'abord,
+\0 je dois bien
+mélanger les cartesn"
+"005","(9촀\0Et maintenant,
+\0 je t'écoute."
+"006_01","(6촀\0Bigre! 
+\0
+Qu'est-ce que tu es douée!
+\0
+Comme promis,
+\0(촀\0 tu remportes donc
+2\0}\0\0."
+"006_02","(
+촀\0Hmmn\0\0 je ne pensais pas que tu
+serais un2\0e adversaire si redoutable,
+n\0.\0\0(촀\0Mais je n'ai qu'une parole.
+\0 Comme
+promis, voilà 2\0}\0\0."
+"006_03","(촀\0Bigre!
+\0 On dirait bien que j'ai
+gagné!
+\0( Désolée pour toi,
+\0
+('촀\0 mais tu
+repars les mains vides, n\0."
+"007_01","(촀\0C'était si amusant que ça ne me gêne
+pas d'avoir perdu!
+\0(촀\0 J'espère qu'on
+pourra vite rejouer ensemble!"
+"007_03","(6촀\0La chance devait être de mon côté,
+aujourd'hui!"
+"008","(촀\0Ah! 
+\0
+Je me doutais bien que cela
+t'intéresserait!
+\0 (\0촀\0Dans ce cas,
+\0
+débutons sans plus tarder.
+( 촀\0Oh?
+\0 Tes poches sont pleines
+\0,
+il semblerait.
+\0 ('촀\0Ça va être difficile de
+te remettre un prix dans ce cas.
+(""촀\0Va donc faire un peu d'ordre dans
+tes affaires,
+\0(촀\0 nous jouerons après
+ça, n\0."
+"100","(촀\0Comme dit, 
+\0
+les règles sont très
+simples.\0\0()촀\0Chaque carte possède un symbole
+différentn\0\0 \0cœur ♥\0￿, \0carreau ♦\0￿,
+\0pique ♠\0￿, ou \0trèfle ♣\0￿.\0\0(%촀\0Je vais tirer une carte.
+\0((""촀\0 À toi de
+deviner le symbole qui figure dessus.\0\0Si tu y parviens,
+\0 tu remportes 2\0}\0\0 que j'ai mis2촀\0e\0 en jeu.
+\0 (촀\0Tu vois,
+\0 c'est simple.\0\0(<촀\0Sur cen\0\0
+\0
+ commençons sans plus
+tarder!"
+"101","J'ai tiré une carte.
+\0
+ (9촀\0Maintenant
+concentre-toin\0\0
+\0(촀\0 Quel symbole figure
+dessus?
+\0 \0♥\0￿, \0♦\0￿,\0 \0￿\0♠\0￿, ou \0♣\0￿?"
+"101_a","\0Cœur ♥\0￿!"
+"101_b","\0Carreau ♦\0￿!"
+"101_c","\0Pique ♠\0￿!"
+"101_d","\0Trèfle ♣\0￿!"
+"102_01","(촀\0Correct! 
+\0
+C'était bien un 촀!
+\0(
+(촀\0Toutes mes félicitations!"
+"102_02","(9촀\0Bien tentén\0\0
+\0
+ mais ce n'est pas ça.
+\0
+(촀\0C'était en fait un 
+\0
+촀."
+"200","Bien,
+\0(""촀\0 voilà comment ça va se
+déroulern\0\0\0\0()촀\0Ces cartes possèdent quatre
+symboles différentsn\0\0\0♥\0￿, \0♦\0￿,\0 \0￿\0♠\0￿, et \0♣.\0￿\0\0(%촀\0Je vais tirer une carte au hasard.
+\0
+(촀\0À toi de deviner de quelle couleur
+est le symbole qui figure dessus.\0\0(\0촀\0Si tu devines juste,
+\0
+ (촀\02\0}\0\0 est à toi!
+\0( (%촀\0Simple comme bonjour,
+\0 non?\0\0(<촀\0Sur ce,
+\0 c'est partin"
+"201","(""촀\0Et voilà!
+\0 La carte a été tirée.\0\0Le symbole est-il
+\0
+ ($촀\0\0rouge\0￿ comme mes
+chaussures favorites,
+\0((6촀\0 ou \0noir\0￿ comme
+ma robe de soirée préférée?"
+"201_a","\0Rouge\0￿!"
+"201_b","\0Noir\0￿!"
+"202_01","(촀\0C'est un 촀!
+\0( (촀\0Et aussi sûr que ce symbole est \0rouge\0￿,
+\0 tu viens de remporter le lot!"
+"202_02","(촀\0Quel dommage,
+\0 c'est un 촀.
+\0(
+Malheureusement,
+\0('촀\0 c'est un symbole
+\0noir\0￿n"
+"202_03","(촀\0Ça alors,
+\0 c'est un 촀!
+\0(
+(촀\0C'est bel et bien un symbole \0noir\0￿!
+\0
+\0
+\0￿Bravo à toi!"
+"202_04","(촀\0Quel dommage, 
+\0
+c'est un 촀.
+\0(
+('촀\0Ce qui signifie hélas que nous avons
+affaire à un symbole \0rouge\0￿."

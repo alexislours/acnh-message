@@ -1,0 +1,319 @@
+﻿"label","text"
+"002","(촀\0¿De verdad?
+\0 Pues si cuento con
+tu apoyo, bichín,
+\0($촀\0 ¡lo haré!\0\0(촀\0Voy a preguntar en la \0oficina de
+gestión vecinal\0￿ si sería posible."
+"101","<"
+"101_01","(촀\0Es bonito soñar,
+\0 pero por muchas
+ganas que tenga,
+\0 ('촀\0creo que ahora
+no es mi momento.
+(촀\0Además, no podría dejar a mis
+amigos atrás.
+\0 Lo entiendes, ¿no?"
+"101_02","(촀\0Sería tan emocionanten\0\0
+\0(촀\0 Aunque
+pensándolo bien,
+\0 no sé si podría
+dejar mi hogar.
+(4촀\0Será mejor que lo dejemos para
+más adelante."
+"101_03","(촀\0Gracias por apoyarme, flor,
+\0 pero
+hasta yo lo veo como una decisión
+demasiado precipitada.
+(촀\0Te prometo que me lo pensaré
+mejor y quizá volvamos a vernos
+en el futuro."
+"201_01","(4촀\0Sé que sería emocionante, pero
+no puedo tomar una decisión
+así a la ligera.
+(촀\0¿Qué tal si lo dejamos al azar?
+\0
+()촀\0Jugaremos a un juego de cartas y,
+\0
+si tú ganas,
+\0 me mudaré.
+\0 (촀\0¿Aceptas?"
+"201_01_a","¡Claro que sí!"
+"201_01_b","No, paso..."
+"201_02","(촀\0Vaya, lo decía medio en broma,
+\0
+(촀\0no esperaba que te fuera a gustar
+tanto la propuesta.
+(
+촀\0Ahora tengo dudasn\0\0
+\0 ¿Qué tal
+(촀\0si dejamos que el azar resuelva
+ese problema?
+()촀\0Jugaremos a un juego y,
+\0
+si ganas,
+\0 ¡me mudaré a la isla!"
+"201_02_a","¡Venga, vale!"
+"201_02_b","No me apetece"
+"201_03","(촀\0¿De verdad te parece buena idea?
+\0
+(2촀\0Eso me hace muy feliz,
+\0 aunque ahora
+me ha entrado la duda.
+(촀\0No se me da bien tomar esta clase
+de decisionesn\0\0
+\0 ¿Y si dejamos que
+elija el azar?
+()촀\0Vamos a jugar a un juego:
+\0 si ganas
+tú,
+\0 ¡vendré a vivir a la isla!
+\0
+(촀\0¿Te animas?"
+"201_03_a","¡Por supuesto!"
+"201_03_b","Creo que no"
+"202_01","(촀\0Bueno, no pasa nada.
+\0 Era una idea
+un poco absurda de todos modos."
+"202_02","(촀\0Es igual, tranquil2oa.
+\0 Quizá no era
+tan buena idea después de todo."
+"202_03","(촀\0No pasa nada.
+\0 Esta isla me encanta,
+\0
+pero debo volver a casa."
+"203_01","(촀\0¡Genial!
+\0 Pues vamos a echar
+una partidita de cartas."
+"204","<"
+"204_01","(촀\0Bueno, supongo que me quedo
+como estoy."
+"204_02","(촀\0Pues nada,
+\0 parece que no me voy
+a mudar."
+"204_03","(촀\0Eso significa que no me mudarén"
+"205","<"
+"205_01","('촀\0Está claro que cambiar de hogar
+no era mi destino.
+\0 (촀\0Aunque lo he pasado de maravilla."
+"205_02","(촀\0En fin,
+\0 gracias por todo,
+\0 flor.
+\0
+(4촀\0Nunca olvidaré este viaje."
+"205_03","(4촀\0En el fondo me habría gustado que
+ganaras tún\0\0
+\0(촀\0 ¡Otra vez será!"
+"206","<"
+"206_01","(촀\0¡Has ganado! 
+\0Eso significa quen\0\0
+(촀\0¡vamos a ser vecin2oas, n\0!\0\0(촀\0Tu nombre era n\0, ¿no?
+\0 (4촀\0Espero que este sea el principio de una gran amistad."
+"206_02","(촀\0¡Rábanos, has ganado!
+\0 Puede que
+sí estuviera destinada a mudarme
+aquí, n\0.
+(촀\0Te llamabas n\0, ¿no?
+\0 (촀\0¡Lo recordaré!
+\0 Tengo muchas ganas de empezar mi nueva vida en la isla."
+"206_03","(촀\0¿Quién lo iba a decir?
+\0 El destino
+ha querido que me mude a esta isla.
+\0
+(촀\0Felicidades por la victoria.
+(촀\02\0n\0, ¿verdad?
+\0 A partir de ahora cuenta conmigo para lo que necesites, n\0."
+"302","($촀\0¡Disculpa la espera!
+\0 He hablado con
+los de la \0oficina de gestión vecinal
+\0￿('촀\0y no traigo buenas noticiasn\0\0
+(촀\0Parece que todas las casas están
+ya ocupadas y no hay más sitio en
+la isla para construir otras nuevas.
+(
+촀\0Se me ocurre que podría preguntar
+a los vecinos si alguno tiene
+pensado mudarse próximamenten"
+"302_a","Vale la pena intentarlo"
+"302_b","No es buena idea"
+"303","(촀\0Ya, tienes razón. 
+\0Seguramente a
+los vecinos no les haría mucha
+gracian"
+"304","(
+촀\0¿Hay alguien que parezca tener
+ganas de irse?\0\0(촀\0Los de la \0oficina de gestión\0￿ no han
+sabido darme ningún nombre,
+\0
+pero quizá tú sepas másn\0\0
+(&촀\0¿A quién crees que debería
+preguntar?"
+"305","( 촀\0¿Así que s촀?"
+"305_a","Sí"
+"305_b","No, espera"
+"305_c","Mejor déjalo estar"
+"306","(%촀\0De acuerdo.
+\0 Intentaré preguntárselo
+delicadamente.
+\0(촀\0 Espero que no se
+lo tome mal."
+"307","( 촀\0Ah, ¿quieres que hable con otro
+vecino entonces?
+\0 (촀\0Pues dime, flor."
+"308","(촀\0Quizá tengas razónn\0\0
+\0 Lo último
+que quiero es ofender a nadie."
+"309","(""촀\0¡Ya estoy de vuelta!
+\0 Eras n\0, ¿verdad?
+\0 ¡Qué bien que me acuerdo!\0\0(촀\0Pues tenías tú razón:
+\0 s촀 me ha confirmado que quiere mudarse.\0\0(촀\0¡Incluso se ha ofrecido a irse lo
+antes posible para que yo pueda
+trasladarme enseguida!
+(촀\0Me hace muchísima ilusión
+vivir aquí con todos vosotros,
+n\0."
+"310","(촀\0Ay, perdona,
+\0 ¿te ha molestado
+la pregunta?
+\0 ¿Me he excedido?"
+"310_a","No, para nada"
+"310_b","Un poco..."
+"311","(촀\0Ah, ¡menos mal!
+\0 Entonces,
+\0 (&촀\0¿se te
+ocurre a quién podría preguntarle?"
+"312","(;촀\0Lo siento mucho. 
+\0En ese caso
+me olvidaré del tema ahora mismito."
+"402","()촀\0Me ha pasado algo muy extraño
+con los de la \0oficina de gestión
+vecinal \0￿de la islan\0\0
+Cuando les he preguntado si podía
+mudarme,
+\0 (촀\0¡me han dicho que aquí
+ya vive alguien igualita a mí!
+(촀\0Me he quedado tan a cuadros que
+me he ido sin saber qué decir.
+\0
+Estoy tan confundidan\0\0
+(8촀\0En fin,
+\0 siento que esto no haya
+salido como esperábamos, flor."
+"403","(9촀\0Los de la \0oficina de gestión vecinal
+\0￿me han dicho algo muy raro.\0\0()촀\0Al parecer alguien que se parece
+a mí ya va a mudarse a esta isla
+próximamente.
+(촀\0Dicen que si hubiera dos vecinas
+idénticas,
+\0 los demás residentes
+quedarían muy desorientados.
+(촀\0Qué extraño, ¿no?
+\0 Nunca me había
+pasado algo así.
+\0 Qué caprichoso
+puede ser el destino a veces.
+(촀\0Bueno, siento que al final no
+haya podido ser, n\0."
+"404","()촀\0Ya estoy aquí, bichín. 
+\0Me temo que
+lo de preguntar en la \0oficina de
+gestión\0￿ no ha ido muy bien.
+('촀\0Dicen que no pueden acoger a
+más residentes en estos momentos.\0\0(촀\0Es una pena,
+\0 pero quizá pueda
+volver a intentarlo más adelante,
+n\0."
+"405","(9촀\0Bueno, calabacita,
+\0 ya tengo
+respuesta de la \0oficina de
+gestión vecinal\0￿.
+()촀\0Resulta que en la isla ya no hay
+sitio para construir más casas,
+\0
+así que no me podré mudar.
+(촀\0Siento que nuestro plan no haya
+llegado a buen puerto, n\0."
+"406","(4촀\0Siento la esperan\0\0
+\0 n\0, ¿no?\0\0(""촀\0He hablado con los de la \0oficina
+de gestión\0￿ yn\0\0
+\0 (!촀\0¡me han dicho que
+puedo mudarme!
+(촀\0Menuda suerte he tenido,
+\0 o quizá
+se hayan alineado los astros,
+n\0.
+(촀\0¡Pronto seremos vecinit2oas, bichín!
+\0
+¡Qué ilusión!"
+"410","(촀\0Oye, ¿y si volviera a preguntar?
+\0
+Puede que la situación haya
+cambiado.
+(&촀\0¿Vale la pena intentarlo?"
+"410_a","Probar es gratis"
+"410_b","Mejor olvídalo..."
+"411","(촀\0Sí, será lo mejorn\0\0
+\0(촀\0 Al final no me
+dejarían mudarme aquí por pesada."
+"421","(
+촀\0No sé cómo reaccionaría si me
+topara con otr2촀oa\0 n\0 2*촀idénticoidéntica\0 a mí. Sería muy raro(.촀\0n\0\0\0\0(촀\0Aunque lo aceptaría,
+\0 con tal
+de poder vivir aquí."
+"422","(촀\0Ya es casualidad que mi doble
+quiera mudarse a esta isla al mismo
+tiempo que yo.
+(촀\0Lástima que se me haya adelantado,
+\0
+me habría encantado vivir aquí."
+"423","(촀\0No me extraña que tengan tantas
+peticiones de traslado,
+\0 ¡esta isla
+es maravillosa!"
+"424","(촀\0De haber sabido que os ibais a
+quedar sin sitio,
+\0 habría intentado
+mudarme aquí mucho antes."
+"504","(촀\0Cómo me gusta esta islan\0\0
+\0 El paisaje
+es asombroso y la gente maravillosa.\0\0(1촀\0Me encantaría poder vivir en un lugar
+como este algún día, n\0."
+"504_a","¡Pues quédate!"
+"504_b","No es mal lugar"
+"505","(촀\0Ay, eres muy amable al invitarme,
+\0
+pero no estoy preparada para un
+cambio tan grande.
+(4촀\0Quizá más adelante,
+\0 si alguien
+vuelve a invitarme otro día,
+\0
+cambie de idean"
+"506","(촀\0¡No seas modest2oa, flor!
+\0 (촀\0Es una isla
+fantástica y todos los residentes
+podéis estar orgullosos."
+"507","(촀\0Cuanto más descubro de esta isla,
+\0
+más ganas tengo de quedarme.\0\0(촀\0Este lugar tiene algo especial que
+me atraen"
+"507_a","¡Múdate aquí!"
+"507_b","¿Tú crees?"
+"508","(촀\0Oh, flor,
+\0 ¿ha parecido que quería
+que me invitaras?
+\0 Perdona, no era
+mi intención.
+(4촀\0Te agradezco la oferta,
+\0 (촀\0pero no
+es buen momento.\0\0(촀\0Pero,
+\0 si alguien volviera a invitarme
+otro día,
+\0 me replantearía las cosasn"
+"509","(
+촀\0¿No te has dado cuenta? Quizá sea
+algo imperceptible para la gente
+que ya vive aquí.
+(촀\0Para eso estamos los turistas,
+\0
+para recordaros lo increíble
+que es vuestro hogar."

@@ -1,0 +1,487 @@
+﻿"label","text"
+"000","Huh?
+\0 ""Geen bereik""?
+\0 Zo te zien
+werkt de app hier niet."
+"001","Wil je de reddingsdienst bellen?"
+"001_a","(\0촁\0Bellen!"
+"001_b","(\0촁\0Niet nodig."
+"010","                    
+\0d\0d\0\0Tot ziens!\0ddd
+"
+"011","d\0
+\0                    \0Hallo!\0d
+\0\0\0Je bent verbonden met het
+noodnummer van
+\0 de \0reddingsdienst\0￿.d"
+"011_01","d\0Eens kijken,
+\0 je bentn\0\0d
+"
+"011_02","d\0Je huidige locatie isn\0\0d
+"
+"012","d\0Shiitake!
+\0 Wat is er mis met dit ding?!
+\0
+Het signaal vliegt alle kanten opn\0\0d"
+"012_01","d\0Zeg, luister eens even. 
+\0Heb je soms
+bezoek? 
+\0Of staat de gate open op de
+luchthaven of zo?\0\0Kijk, het zit zo: je hebt te veel
+signalen door elkaar lopen,
+\0 en daar
+kunnen de systemen niet tegenn\0\0\0\0Als dit echt een noodgeval is, 
+\0druk je
+op\0 \0￿ om het menu te openen 
+\0en kies
+je \0De sessie beëindigen\0￿. Snappie?d"
+"012_02","d\0Zeg, luister eens evenn\0\0
+\0 Zit je
+misschien
+\0 per ongeluk op een ander
+eiland?\0\0Kijk het zit zo: je hebt te veel
+signalen door elkaar lopen, 
+\0en dan
+wordt hetn\0\0 een zooitje.\0\0Als je echt in de nesten zit,
+\0 druk je
+op\0  \0￿om het menu openen en kies
+je \0Terug naar mijn eiland\0￿.d\0
+\0d Oké?d"
+"013","d\0Wacht effe. 
+\0Zit je, eh,
+\0 toevallig in een
+gebouw?\0\0Dan heb ik slecht nieuws voor je,
+\0
+want deze oppikdienst werkt alleen
+buiten.\0\0Kijkn\0\0 
+\0anders zou je zomaar 
+\0met je harses tegen het plafond kunnen
+knallen.
+\0 Dat moeten we niet willen.\0\0Dus 
+\0als je gered wilt worden,
+\0 dan
+moet je eerst zorgen
+\0 dat je buiten
+komt, snappie?d"
+"021_01","d\0Daar ben je.
+\0 2\0n\0 van n!\0, als ik het goed heb.d"
+"021_02","d\0Monumentjen\0\0
+\0 Ja, daar ben je!
+\0 2\0n\0, als ik het goed heb, van n!\0.\0\0
+\0Zit je in de penarie?d"
+"021_03","d\0Hè? 
+\02\0n\0?
+\0 Alweer? Heb je jezelf weer eens in de nesten gewerkt?d"
+"022","d\0Luister. 
+\0Omdat dit de eerste keer is
+dat je belt, 
+\0zal ik effe uitleggen hoe
+we precies te werk gaan.\0\0Wij zijn er voor je
+\0 als je ergens vast
+bent komen te zitten.
+\0 Eén belletje
+naar ons enn\0\0\0\0n\0\0voordat je 
+\0""broodje beton"" kunt
+zeggen, 
+\0hebben wij je al op een
+veilige plek afgezet.\0\0Baanbrekende techniek! 
+\0Hoe?
+\0 Dat ga
+ik jou niet aan je neus hangen!
+\0
+Serieus, dat wil je niet weten.d"
+"023_01","d\0Het kostenplaatje is simpel. 
+\0Eén keer
+redden kost je \0100\0￿ milesn\0\0
+\0 Honderd
+Nook-milesn\0\0 Wat denk je ervan?d"
+"023_01_a","(%촁\0Ja! Help!"
+"023_01_b","('촁\0Nee, laat maar."
+"023_02","d\0Dat kost je \0100 \0￿miles per redding.
+\0
+Wat denk je ervan?d"
+"023_02_a","(%촁\0Ja! Help!"
+"023_02_b","('촁\0Nee, laat maar."
+"023_03","d\0O, jan\0\0 Voor ik het vergeet, vorige keer had je niet genoeg miles, n\0n\0\0
+\0(\0\0Ik mag wel voor je hopen dat je het
+dit keer beter voor elkaar hebtn\0\0\0\0We rekenen \0100 \0￿miles per redding.
+Dat zijn honderd Nook-miles.
+\0 Wat
+denk je ervan?d"
+"023_03_a","(%촁\0Ja! Help!"
+"023_03_b","('촁\0Nee, laat maar."
+"031_01","d\0Wat? 
+\0Zit je wel best daar?d"
+"031_02","d\0Wat? 
+\0Niks aan de hand?
+\0( Luistern\0\0
+\0 Je
+hoeft je geen zorgen te maken over
+dat gedoe met die milesn\0\0
+\0 Oké?d"
+"032_01","d\0Als je echt in de penarie zit,
+\0 geef je
+maar een gil!d"
+"032_02","d\0Heb je soms niet genoeg Nook-miles,
+of zo? 
+\0Geen probleem. Daar komen
+we wel uitn\0\0\0\0Als je echt in de nesten zit, geef je
+maar een gil!d"
+"041_01","d\0Heel goed!
+\0 Mag ik dan eerst even die
+\0100\0￿ miles vangen?d"
+"041_02","d\0Heel verstandig! 
+\0Zo te zien heb je
+Nook-miles zat,
+\0 dus als ik die
+\0100 \0￿miles alvast even mag vangen?d"
+"042_01","d\0Verstandige keuze!
+\0 Als ik dan
+\0 eerst
+even die \0100 \0￿miles mag vangenn\0\0d
+K"
+"042_02","d\0
+
+\0
+\0                      \0HÉ!\0d
+\0
+	\0\0\0Waar denk jij mee bezig te zijn?
+\0(
+Luister, 2makkerdame. 
+\0Je hebt te weinig
+Nook-miles!\0\0Okén\0\0
+\0 tot tien tellen, Resetti!
+\0 Vooruit
+dann\0\0 Omdat het een noodgeval is,
+\0
+help ik je uit de brand. Gratis!d"
+"042_03","d\0
+
+\0
+\0                      \0HÉ!\0d
+\0
+	\0\0\0Wat zijn we aan het doen?
+\0( Je hebt te
+weinig Nook-miles!
+\0 Alweer!\0\0Nou, 
+\0jij bent me een mooie.
+\0 Goedn\0\0
+Omdat het een noodgeval is,
+\0 help ik
+je uit de brand. Gratis!d"
+"042_04","d\0Omdat ik dit geheel belangeloos doe,
+
+\0bepaal ik waar je heen gaat. 
+\0Je hebt
+het dus niet voor het kiezen.d"
+"043","d\0O ja, nog even dit:
+\0 omdat je niet
+alleen reist,
+\0 breng ($촀\0ik je naar het
+\0plein\0￿.d"
+"044_01","d\0Zo, nu we dat hebben afgehandeld,
+\0
+waar kan ik je heen brengen?d"
+"044_01_a","Naar huis."
+"044_01_b","Naar het plein."
+"044_01_c","Naar de luchthaven."
+"044_01_d","Hm, laat maar."
+"044_02","d\0Zo, nu we dat hebben afgehandeld,
+\0
+waar kan ik je heen brengen?d"
+"044_02_a","Naar mijn tent."
+"044_02_b","Naar het plein."
+"044_02_c","Naar de luchthaven."
+"044_02_d","('촁\0Hm, laat maar."
+"044_03","d\0Zo, nu we dat hebben afgehandeld,
+\0
+waar kan ik je heen brengen?d"
+"044_03_a","Naar huis."
+"044_03_b","Naar het plein."
+"044_03_c","Naar de winkel."
+"044_03_d","Naar de luchthaven."
+"044_03_e","Hm, laat maar."
+"045","d\0Trouwens, aangezien je nog niet echt
+een huis hebtn\0\0 moet je me vertellen
+waar je naartoe wilt gaan.d"
+"045_a","Naar het plein."
+"045_b","Naar de luchthaven."
+"045_c","Hm, laat maar."
+"046","d\0Trouwens, aangezien je nog niet echt
+een huis hebtn\0\0 moet je me vertellen
+waar je naartoe wilt gaan.d"
+"046_a","Naar het plein."
+"046_b","Naar de winkel."
+"046_c","Naar de luchthaven."
+"046_d","Hm, laat maar."
+"047","d\0Zo, nu we dat hebben afgehandeld,
+\0
+waar kan ik je heen brengen?d"
+"047_a","Naar mijn tent."
+"047_b","Naar het plein."
+"047_c","Naar de winkel."
+"047_d","Naar de luchthaven."
+"047_e","Hm, laat maar."
+"048","d\0Wat?
+\0 Hé, maatjen\0\0
+\0 Je bent op pad, of
+niet soms?\0\0Ik kan geen goede kaart van dat
+eiland vinden,
+\0 dus ik lever je af
+\0waar het vliegtuig landt\0￿,
+\0 goed?d"
+"048_a","Ja, graag!"
+"048_b","Hm, laat maar."
+"050_01","d\0Je tent? 
+\0Geen probleem.d"
+"050_02","d\0Je huis? 
+\0Appeltje eitje.d"
+"050_03","d\0Het plein? 
+\0Komt voor de bakker!d"
+"050_04","d\0Dus het wordt de winkel? 
+\0Doen we!d"
+"050_05",""
+"050_06","d\0Begrepen.
+\0 Riemen vast,
+\0 want daar
+gaan we!d"
+"050_07","d\0Het wordt de luchthaven! 
+\0Luid en
+duidelijk en zo!d"
+"051","<"
+"051_01","d\0Ehn\0\0
+\0KWelke knop was het ook alweer?\0dd"
+"051_02","d\0Eens even zienn\0\0 Hè?
+\0K
+\0Daarnet deed hij het nogn\0\0\0dd"
+"051_03","d\0Ehmn\0\0 Putdeksels!
+\0K
+\0Dat doet hij anders nooitn\0\0\0dd"
+"052","d\0Deze moet het zijn, denk ik. 
+\0Nou, op
+goed geluk dan maarn\0\0d"
+"053","
+\0　 d\0\0EN DAAR GAAN WE!\0dd
+"
+"061","d\0Doe je ogen maar weer open, hoor!
+
+\0Je bent er!d"
+"062","d\0O ja. 
+\0Nog even ditn\0\0d"
+"063","<"
+"063_01","d\0Bouwen is leuk, maar je moet wel wat
+ruimte vrijhouden. 
+\0Anders verliest
+een eiland zijn karakter!d"
+"063_02","d\0Op n!\0 wordt alles automatisch opgeslagen.
+\0 Je kunt dingen dus niet meer terugdraaien.d"
+"063_03","d\0Resultaat is niet alles.
+\0d촀 Wat je erin
+stopt haal je eruit!
+\0 Dit eiland?
+Je leven?
+\0 Hou het netjes!d"
+"064","<"
+"064_01","d\0Bouwen is leuk, maar je moet wel wat
+ruimte vrijhouden. 
+\0Anders verliest
+een eiland zijn karakter!d"
+"064_02","d\0Op n!\0 wordt alles automatisch opgeslagen.
+\0 Je kunt dingen dus niet meer terugdraaien.d"
+"064_03","d\0Goed. Nook-miles, dus.
+\0 Er zijn zat
+manieren om eraan te komen, daar is
+niks ingewikkelds aan!\0\0Je krijgt ze al als je elke dag bij het
+
+\0\0NookStation \0￿langsgaat.
+\0 Onthoud
+dat!d"
+"201","Wil je de \0Eilandontwerper\0￿-app
+starten en wat bouwwerkzaamheden
+verrichten?"
+"201_a","Ik wil bouwen!"
+"201_b","Opruimdienst, a.u.b.!"
+"201_c","Is er een handleiding?"
+"201_d","Neuh."
+"202","Er wordt een bouwvergunning
+aangevraagdn\0\0
+<"
+"202_01","De \0Eilandontwerper\0￿-app is klaar!
+Vergeet niet een bouwhelm te dragen
+en werk altijd veilig!"
+"205","Ben je klaar met bouwen?"
+"205_a","Ja, ik ben uitgebouwd."
+"205_b","Opruimdienst, a.u.b.!"
+"205_c","Is er een handleiding?"
+"205_d","Nee, ik ga nog even door."
+"206","
+\0Er is iets mis met de verbindingn\0\0
+"
+"207","Heb je geen dekking? Of misschien
+moet je even \0gaan staan \0￿en het nog
+eens proberen."
+"208",""
+"209","Je hebt hier \0geen bereik\0￿. Je kunt
+deze app alleen gebruiken op
+n	\0."
+"210","Bezig met afrondenn\0\0
+<"
+"211","De bouw is beëindigd! Je kunt altijd
+opnieuw van onze diensten
+gebruikmaken."
+"212","Je kunt de \0Eilandontwerper\0￿-app niet
+gebruiken zolang de luchthavengate
+geopend is."
+"213","Je kunt de \0Eilandontwerper\0￿-app niet
+gebruiken omdat er bezoek op je
+eiland is."
+"214","Je kunt de \0Eilandontwerper\0￿-app niet
+gebruiken terwijl je gebruikmaakt
+van de netwerkcommunicatie.\0\0Zet deze eerst uit op de luchthaven."
+"221","De \0Eilandontwerper\0￿-app is
+beschikbaar!"
+"221_01","Druk op \0 \0￿om verschillende
+bouwopties te bekijken. \0Lees de
+handleiding\0￿ voor meer informatie."
+"221_02","Als je een horizontale Joy-Con
+gebruikt, kun je de bouwopties
+bekijken door op \0 \0￿of \0\0￿ te drukken.\0\0\0Lees de handleiding\0￿ voor meer
+informatie."
+"222","<\0\0App-melding\0￿>
+\0Watervergunning \0￿toegevoegd."
+"223","<\0\0App-melding\0￿>
+\0Klifvergunning \0￿toegevoegd."
+"224","<\0\0App-melding\0￿>
+\0Watervergunning \0￿en \0klifvergunning
+\0￿toegevoegd."
+"225","Druk op \0 \0￿om de opties te bekijken.
+\0Lees de handleiding \0￿in de app voor
+meer informatie."
+"225_01","Als je een horizontale Joy-Con
+gebruikt, kun je met \0 \0￿of \0\0￿ de
+bouwopties bekijken.\0\0\0Lees de handleiding\0￿ voor meer
+informatie."
+"241","Zo werkt de \0Eilandontwerper\0￿-app:\0\0\0\0Starten en stoppen met bouwen\0￿
+Gebruik de app om de bouw goed te
+beginnen en te beëindigen."
+"241_01_00","\0\0Verschillende vergunningen\0￿
+Tijdens de bouw kun je vergunningen
+kiezen door op \0 \0￿te drukken."
+"241_01_01","\0\0Verschillende vergunningen\0￿
+Als je een horizontale Joy-Con gebruiktn\0\0\0\0n\0\0kun je heen en weer schakelen
+tussen bouwvergunningen met
+\0 \0￿of \0\0￿."
+"241_02","Denk eraan: je vergunningen voor de
+\0Eilandontwerper\0￿-app zijn alleen
+geldig op n	\0.\0\0Als je het eiland verlaat, wordt de
+bouw beëindigd.\0\0Vergeet niet een bouwhelm te dragen
+en werk altijd veilig."
+"242","Handleiding padenaanleg\0\0Druk terwijl je op een grasveld staat
+op \0 \0￿om een pad te maken of te
+verwijderen."
+"242_00_01","Handleiding padenaanleg\0\0Druk terwijl je op een grasveld staat
+op \0 \0￿om een pad te maken of te
+verwijderen."
+"242_01_00","\0\0Padontwerpen selecteren\0￿
+Druk op \0 \0￿om een keuze te maken
+uit je padontwerpen."
+"242_01_01","\0\0Padontwerpen selecteren\0\0\0￿Als je een horizontale Joy-Con
+gebruikt, kun je op \0 of \0￿ drukken
+om een padontwerp te kiezen."
+"243","Handleiding waterwegbouw\0\0Druk op  \0 \0￿om onder andere rivieren
+en vijvers te graven en met water te
+vullen.\0\0\0\0Watervallen maken\0￿
+Probeer eens boven op een klif te
+graven om een \0waterval\0￿ te maken."
+"243_01","Handleiding waterwegbouw\0\0Druk op \0 \0￿om onder andere rivieren
+en vijvers te graven en met water te
+vullen.\0\0\0\0Watervallen maken\0￿
+Probeer eens boven op een klif te
+graven om een \0waterval\0￿ te maken."
+"244","Handleiding kliffenbouw\0\0Druk op \0 \0￿om langs bestaande
+kliffen nieuwe te maken of om
+bestaande kliffen te verwijderen.\0\0\0\0Kliffen boven op elkaar bouwen\0￿
+Je kunt kliffen stapelen, maar niet
+aan de randen.\0\0Immense muren bouwen kan dus niet!\0\0Maak eerst op een groot oppervlak
+een fundament en leg dan de
+volgende laag aan.\0\0\0\0Watervallen weghalen\0￿
+Gebruik eerst de watervergunning
+om de waterval te dempen.\0\0Vervolgens kun je de klif verwijderen."
+"244_01","Handleiding kliffenbouw\0\0Druk op \0 \0￿om langs bestaande
+kliffen nieuwe te maken of om
+bestaande kliffen te verwijderen.\0\0\0\0Kliffen boven op elkaar bouwen\0￿
+Je kunt kliffen stapelen, maar niet
+aan de randen.\0\0Immense muren bouwen kan dus niet!\0\0Maak eerst op een groot oppervlak
+een fundament en leg dan de
+volgende laag aan.\0\0\0\0Watervallen weghalen\0￿
+Gebruik eerst de watervergunning
+om de waterval te dempen.\0\0Vervolgens kun je de klif verwijderen."
+"245","\0Handleiding opruimdienst\0￿\0\0Soms, wanneer je met een
+constructieproject bezig bent,
+gaat er opeens iets mis.\0\0Misschien heb je jezelf de weg
+versperd of kun je iets op een klif
+niet bereiken.\0\0Op zulke momenten kan de
+opruimdienst je helpen om wat orde
+op zaken te stellen om je heen.\0\0Alleen meubels, hekken of
+soortgelijke voorwerpen \0in je directe
+omgeving \0￿worden opgeruimd.\0\0Zorg dat je zo dicht mogelijk bij de
+voorwerpen in de buurt bent, voordat
+je de dienst inschakelt.\0\0Voorwerpen die door de dienst zijn
+opgehaald, komen in de \0recyclekist
+\0￿bij de servicebalie terecht.\0\0Vergeet niet om de voorwerpen weer
+uit de kist te halen!"
+"251","Welke handleiding wil je lezen?"
+"251_01","Welke handleiding wil je lezen?"
+"251_01_a","Beginnershandleiding."
+"251_01_b","Handleiding padenaanleg."
+"251_01_c","Handleiding waterwegbouw."
+"251_01_d","Handleiding opruimdienst."
+"251_01_e","Ik ben uitgelezen."
+"251_02","Welke handleiding wil je lezen?"
+"251_02_a","Beginnershandleiding."
+"251_02_b","Handleiding padenaanleg."
+"251_02_c","Handleiding kliffenbouw."
+"251_02_d","Handleiding opruimdienst."
+"251_02_e","Ik ben uitgelezen."
+"251_03","Welke handleiding wil je lezen?"
+"251_03_a","Beginnershandleiding."
+"251_03_b","Handleiding padenaanleg."
+"251_03_c","Handleiding waterwegbouw."
+"251_03_d","Handleiding kliffenbouw."
+"251_03_e","Handleiding opruimdienst."
+"251_03_f","Ik ben uitgelezen."
+"251_a","Beginnershandleiding."
+"251_b","Handleiding padenaanleg."
+"251_c","Handleiding opruimdienst."
+"251_d","Ik ben uitgelezen."
+"261","Soms kan er opeens iets misgaan
+tijdens een constructieproject.\0\0Misschien kun je een voorwerp op
+een klif niet bereiken, of heb je
+jezelf de weg versperd.\0\0De opruimdienst kan je helpen door
+voorwerpen om je heen weg te halen.\0\0De weggehaalde voorwerpen komen
+in de \0recyclekist \0￿bij de \0servicebalie\0￿
+terecht.\0\0Lees de handleiding voor meer
+informatie."
+"262","Wil je dat de voorwerpen om je
+heen naar de recyclekist bij de
+servicebalie worden gebracht?"
+"262_a","Ja, ruim maar op!"
+"262_b","Nee, nu niet."
+"263","Begrepen!
+\0 Een momentje geduld
+terwijl de voorwerpen om je
+heen opgeruimd worden..."
+"264","Het opruimen is klaar!
+\0 Denk eraan
+om de voorwerpen uit de \0recyclekist
+\0￿bij de \0servicebalie\0￿ te halen."
+"265","Er is niets gevonden om op te
+ruimen.\0\0De opruimdienst haalt alleen
+voorwerpen en hekwerken
+uit je directe omgeving weg."
+"301","De plattegrond-app werkt kennelijk
+niet voor dit eiland."
+"311","O? Zo te zien heb je hier geen
+bereik. Deze app kun je daarom
+niet gebruiken."
+"999","\0100 \0￿miles"

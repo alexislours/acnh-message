@@ -1,0 +1,473 @@
+﻿"label","text"
+"000","¿Que el servicio está fuera
+de cobertura? Supongo que aquí
+no puedo usar la aplicación."
+"001","¿Quieres llamar al servicio
+de rescate?"
+"001_a","(\0촁\0¡Sí!"
+"001_b","(\0촁\0Ahora no"
+"010","　　　　
+\0d\0d\0\0¡Adiós!\0ddd
+"
+"011","d\0
+\0　　　　　　　\0¡Hola!\0d\0\0Gracias por llamar
+\0
+al \0servicio de rescate\0￿.d"
+"011_01","d\0Veamos,
+\0 tú eresn\0\0
+(\0d"
+"011_02","d\0Tu ubicación actual esn\0\0d
+("
+"012","d\0¡Rayos! 
+\0¿Qué le pasa a esta cosa?
+\0
+La señal se volvió locan\0\0d"
+"012_01","d\0Dime una cosan\0\0 ¿Tienes visita
+ahora mismo? ¿O tienes las puertas
+del aeródromo abiertas?
+Porque esto es lo que pasa cuando
+hay muchas señales juntas: la cosa
+deja de funcionar.
+Si de verdad tienes una emergencia,
+abre el menú con el botón \0 \0￿y elige
+\0Finalizar la sesión\0￿, ¿entendido?d"
+"012_02","d\0Dime una cosan\0\0
+\0 ¿De casualidad
+no estarás visitando la isla de
+otra persona?
+Porque la cosa esta se altera cuando
+detecta más de una señal y deja de
+funcionar así porque le da la gana.
+Si de verdad tienes una emergencia,
+abre el menú con el botón \0 \0￿y elige
+\0Volver a mi isla\0￿, ¿entendido?d"
+"013","d\0Un momento.
+\0
+¿Estás dentro de un edificio?\0\0Lamento informarte que este
+servicio solo funciona al aire libre.\0\0¿O acaso quieres estamparte contra
+el techo?
+\0 Tú acabarás con un
+chichón y yo en los juzgados.
+Si quieres usar este servicio, tienes
+que salir al exterior, ¿entendido?d"
+"021_01","d\0Aquí está.
+\0 Eres n\0 de n\0, ¿no?d"
+"021_02","d\0A vern\0\0 Eres n\0 de n\0, ¿no?
+\0 Pues dime, ¿en qué lío te metiste hoy?d"
+"021_03","d\0¿Otra vez tú, n\0?
+\0
+¿No puedes estarte quiet2oa
+o qué te pasa?d"
+"022","d\0Veo que es la primera vez que usas
+nuestro servicio.
+\0 Te voy a explicar
+de qué se trata esto.
+Básicamente estamos aquí para
+ayudarte cuando te quedes atrapad2oa
+en algún lugar y no sepas salir.
+Llámanos y te transportaremos
+a un lugar seguro antes de que
+puedas decir ""Reseteo"".
+¡Se trata de una tecnología
+revolucionaria!
+\0 De la que no
+pienso darte más detalles.d"
+"023_01","d\0Obviamente te cobraremos algo
+por cada rescate, ¿pues qué creías?
+\0
+¡En la vida nada es gratis!
+Un rescate te costará \0\0100 \0millas\0￿
+del programa de millas Nook.
+\0
+¿Te parece?d"
+"023_01_a","(%촁\0¡Sí! ¡Ayuda!"
+"023_01_b","('촁\0No, gracias"
+"023_02","d\0Serán \0\0100 \0millas\0￿ por el rescate.
+\0
+¿Te parece?d"
+"023_02_a","(%촁\0¡Sí! ¡Ayuda!"
+"023_02_b","('촁\0No, gracias"
+"023_03","d\0Ah, sín\0\0
+\0 La última vez que
+solicitaste el servicio no tenías
+millas suficientes, jovencit2oan\0\0
+Espero que hayas aprendido
+la lección y que no vuelva a
+repetirse.
+Serán \0\0100 \0millas\0￿ por el rescate.
+\0
+¿Te parece?d"
+"023_03_a","(%촁\0¡Sí! ¡Ayuda!"
+"023_03_b","('촁\0No, gracias"
+"031_01","d\0¿Y eso?
+\0 ¿No necesitabas el servicio?d"
+"031_02","d\0¿Y eso?
+\0 ¿Todo bien?
+\0
+No estoy enojado porque no tuviste
+millas suficientes la última vez, ¿eh?d"
+"032_01","d\0¡Si estás en apuros, dilo y
+te ayudaremos de inmediato!d"
+"032_02","d\0¿Que no tienes millas Nook?
+\0
+No pasa nada.
+\0 Pensaremos
+en algo, ¿de acuerdo?
+Si estás en apuros, dilo y
+te ayudaremos de inmediato.d"
+"041_01","d\0¡Enseguida!
+\0 Primero voy a cobrarte
+las \0\0100 \0millas\0￿n\0\0d"
+"041_02","d\0¡Chic2oa list2oa! Parece que esta vez sí
+tienes millas suficientes, así que me
+ahorras el discurso.
+Ahora voy a cobrarte las \0\0100 \0millas\0￿n\0\0d"
+"042_01","d\0¡Entendido!
+\0 Primero voy a cobrar
+las \0\0100 \0millas\0￿ y luegon\0\0
+K\0d"
+"042_02","d\0
+
+\0
+\0　　\0¡OYE!\0d
+\0
+	\0\0\0¿Qué te traes, 2,muchachitomuchachita?
+\0
+¡No tienes millas suficientes!
+\0
+¡¿Intentas tomarme el pelo?!
+Tranquilo, Rese T.,
+\0 respira hondo
+y profundon\0\0
+\0 Recuerda tus sesiones
+de control de la iran\0\0
+Mira, como es una emergencia,
+esta vez no te cobraré nada,
+\0
+¡pero no te acostumbres!d"
+"042_03","d\0
+
+\0
+\0　　\0¡OYE!\0d
+\0
+	\0\0\0¡Otra vez no tienes millas suficientes
+para pagar!
+\0 ¿Cómo puedes ir así por
+la vida, 2,muchachitomuchachita?
+¿Acaso crees que gozas de
+privilegios únicos y especiales?\0\0Supongo que por tratarse de una
+emergencia tendré que ayudarte
+sin cobrarn\0\0 ¡otra vez!d"
+"042_04","d\0Y ya que lo hago por pura caridad,
+voy a llevarte donde me dé la gana.
+\0
+Es lo que hay.d"
+"043","d\0Por cierto, como vas acompañad2oa,
+se irán directo a la \0plaza\0￿.d"
+"044_01","Listo. ¿d\0Dónde quieres que te lleve?d"
+"044_01_a","A casa"
+"044_01_b","A la plaza"
+"044_01_c","Al aeródromo"
+"044_01_d","Ya no quiero"
+"044_02","Listo. ¿d\0Dónde quieres que te lleve?d"
+"044_02_a","A mi tienda de campaña"
+"044_02_b","A la plaza"
+"044_02_c","Al aeródromo"
+"044_02_d","Cambié de idea"
+"044_03","Listo. ¿d\0Dónde quieres que te lleve?d"
+"044_03_a","A casa"
+"044_03_b","A la plaza"
+"044_03_c","A la tienda"
+"044_03_d","Al aeródromo"
+"044_03_e","Ya no quiero"
+"045","d\0Por cierto,
+\0 todavía no tienes
+un lugar donde vivir, ¿no?\0\0Tendrás que decirme adónde
+quieres que te lleven\0\0d"
+"045_a","A la plaza"
+"045_b","Al aeródromo"
+"045_c","Ya no quiero"
+"046","d\0Por cierto,
+\0 todavía no tienes
+un lugar donde vivir, ¿no?\0\0Tendrás que decirme adónde
+quieres que te lleven\0\0d"
+"046_a","A la plaza"
+"046_b","A la tienda"
+"046_c","Al aeródromo"
+"046_d","Ya no quiero"
+"047","Listo. ¿d\0Dónde quieres que te lleve?d"
+"047_a","A mi tienda de campaña"
+"047_b","A la plaza"
+"047_c","A la tienda"
+"047_d","Al aeródromo"
+"047_e","Ya no quiero"
+"048","d\0Rayosn\0\0
+\0 Qué viajecito hicisten\0\0\0\0No tengo información cartográfica
+de esa isla,
+\0 así que voy a dejarte
+\0donde aterrizan los aviones\0￿.
+¿Te parece?d"
+"048_a","¡Sí, porfa!"
+"048_b","Ya no quiero"
+"050_01","d\0¿A tu tienda de campaña?
+\0
+¡Dicho y hecho!d"
+"050_02","d\0¿A tu casa?
+\0 ¡Dalo por hecho!d"
+"050_03","d\0¿A la plaza?
+\0 ¡Perfecto!d"
+"050_04","d\0¿A la tienda de la isla?
+\0 ¡De acuerdo!d"
+"050_05",""
+"050_06","d\0Listo,
+\0 ¡pues abróchate el cinturón
+que allá vamos!d"
+"050_07","d\0¡Pues allá vamos!
+\0 ¡Cambio y fuera,
+\0
+o como se diga!d"
+"051","<"
+"051_01","d\0Mmmn\0\0
+　　　　　　　 \0K¿Qué botón era?n\0\0\0dd"
+"051_02","d\0Veamosn\0\0
+\0K　　　　　　　          ¿Era este botón?\0dd"
+"051_03","d\0A vern\0\0
+　　　　 \0K¡Rayos! Odio estas cosasn\0\0\0dd"
+"052","d\0Bien, creo que ya lo tengo.
+\0
+Ahora lo comprobaremos.d"
+"053","
+\0          d\0\0¡EN CAMINO!\0dd
+"
+"061","d\0¡Listo!
+\0 Fin del viaje.d"
+"062","d\0Ah, sí,
+\0 una última cosan\0\0d"
+"063","<"
+"063_01","d\0Una isla es como un saco de
+papas:
+\0 si la llenas mucho,
+se rompe.
+La clave es la moderación.d"
+"063_02","d\0Ahora que está la función de
+autoguardado ya no puedes resetear
+el progreso en n!\0.d"
+"063_03","d\0No intentes abarcarlo todo de golpe.
+Dedícale su tiempo a cada cosa,
+tanto en la isla como en la vida.d"
+"064","<"
+"064_01","d\0Una isla es como un saco de
+papas:
+\0 si la llenas mucho,
+se rompe.
+La clave es la moderación.d"
+"064_02","d\0Ahora que está la función de
+autoguardado ya no puedes resetear
+el progreso en n!\0.d"
+"064_03","d\0No necesitas estudiar astrofísica
+para conseguir muchas millas Nook.\0\0Por ejemplo, te dan millas por usar
+la \0terminal Nook \0￿todos los días.
+\0
+¡No lo olvides!d"
+"201","¿Abro la aplicación \0Obras públicas
+\0￿y empiezo a trabajar?"
+"201_a","¡Sí!"
+"201_b","Servicio de limpieza"
+"201_c","Ver el manual"
+"201_d","No"
+"202","Solicitando el permiso de obrasn\0\0
+<"
+"202_01","¡La aplicación \0Obras públicas\0￿ está
+lista! Por tu seguridad, trabaja
+siempre con el casco puesto."
+"205","¿Dejo ya de trabajar en las obras
+públicas?"
+"205_a","Sí, ya terminé"
+"205_b","Servicio de limpieza"
+"205_c","Ver el manual"
+"205_d","No, quiero seguir"
+"206","¡Error de conexión!
+"
+"207","La conexión no es muy buena.
+Debería \0levantarme \0￿e intentarlo
+de nuevo."
+"208",""
+"209","Estás \0fuera de la zona de servicio\0￿.
+Solo puedes usar esta aplicación en n""\0 al aire libre."
+"210","Cerrando la aplicaciónn\0\0
+<"
+"211","¡Se cerró la aplicación! Esperamos
+que vuelvas a usar pronto este
+servicio."
+"212","No puedo usar la aplicación \0Obras públicas\0￿ mientras las puertas del
+\0aeródromo\0￿ estén abiertas."
+"213","No puedo usar la aplicación
+\0Obras públicas\0￿ mientras tenga
+visita en la isla."
+"214","La comunicación inalámbrica
+está activada. Si la desactivo en el
+aeródromo, podré usar la aplicación."
+"221","¡La aplicación \0Obras públicas\0￿
+está lista!"
+"221_01","Usa el \0botón  \0￿para cambiar entre
+las distintas opciones. Para más
+información, consulta el \0manual\0￿."
+"221_02","Oprime \0 \0￿o \0 \0￿para cambiar entre
+las distintas opciones al usar
+el control Joy-Con en horizontal.
+Consulta el \0manual \0￿para más
+información."
+"222","\0\0Notificación\0￿
+Se añadió el \0permiso
+de obras fluviales\0￿."
+"223","\0\0Notificación\0￿
+Se añadió el \0permiso de desniveles\0￿."
+"224","\0\0Notificación\0￿
+Se añadieron el \0permiso de obras
+fluviales \0￿y el \0permiso de desniveles\0￿."
+"225","Usa el \0botón  \0￿para cambiar entre
+las opciones. Consulta el \0manual
+\0￿para más información."
+"225_01","Oprime \0 \0￿o \0 \0￿para cambiar entre
+las opciones al usar el control
+Joy-Con en horizontal.
+Consulta el \0manual\0￿ para más
+información."
+"241","Sobre la aplicación \0Obras públicas\0￿\0\0\0\0Empezar y terminar las obras\0￿
+Usa la aplicación tanto para empezar
+como para terminar la obra."
+"241_01_00","\0\0Cambiar de permiso\0￿
+Mientras trabajes, puedes oprimir
+\0\0￿ para cambiar de permiso."
+"241_01_01","\0\0Cambiar de permiso\0\0\0￿Cuando uses el control Joy-Con
+en horizontal, usa \0 \0￿o \0 \0￿para
+cambiar de permiso."
+"241_02","Ten en cuenta que los permisos de
+la aplicación \0Obras públicas \0￿solo
+son válidos en n	\0.\0\0Si sales de la isla, la aplicación
+se cerrará y no podrás seguir
+trabajando.
+Por tu seguridad, trabaja siempre
+con el casco puesto."
+"242","Guía para construir caminos
+Oprime \0 \0￿en zonas de césped
+para poner o quitar caminos."
+"242_00_01","Guía para construir caminos
+Oprime \0 \0￿en zonas de césped
+para poner o quitar caminos."
+"242_01_00","\0\0Elegir diseños para los caminos\0￿
+Oprime \0 \0￿para seleccionar un
+diseño."
+"242_01_01","\0\0Elegir diseños para los caminos\0￿\0\0Cuando uses el control Joy-Con
+en horizontal, usa \0 \0￿o \0 \0￿para
+seleccionar un diseño."
+"243","Guía de obras fluviales\0\0Oprime \0 \0￿para cavar en la tierra y
+crear nuevos ríos, estanques, etc.,
+o modificar los ya existentes.
+\0\0Crear cascadas\0￿
+Cava en el borde de un desnivel
+para crear \0cascadas\0￿."
+"243_01","Guía de obras fluviales\0\0Oprime \0 \0￿para cavar en la tierra y
+crear nuevos ríos, estanques, etc.,
+o modificar los ya existentes.
+\0\0Crear cascadas\0￿
+Cava en el borde de un desnivel
+para crear \0cascadas\0￿."
+"244","Guía de desniveles\0\0Oprime \0 \0￿para construir desniveles,
+redondear los bordes de un desnivel
+o para destruirlo.
+\0\0Sobreponer desniveles\0￿
+Puedes apilar hasta dos desniveles,
+uno encima del otro.
+No puedes colocar desniveles en
+los bordes, es necesario tener una
+superficie ancha.
+\0\0Destruir cascadas\0￿
+Primero, usa el permiso de obras
+fluviales para quitar la cascada.
+Luego podrás destruir el desnivel
+libremente."
+"244_01","Guía de desniveles\0\0Oprime \0 \0￿para construir desniveles,
+redondear los bordes de un desnivel
+o para destruirlo.
+\0\0Sobreponer desniveles\0￿
+Puedes apilar desniveles de
+manera escalonada.
+No puedes colocar desniveles cerca
+de bordes, es necesario tener una
+meseta amplia para hacerlo.
+\0\0Destruir cascadas\0￿
+Primero, usa el permiso de obras
+fluviales para quitar la cascada.
+Luego podrás reducir libremente
+la altura del desnivel."
+"245","\0Servicio de limpieza\0￿\0\0Este servicio es útil durante las
+obras públicas, en las que es común
+terminar con objetos que estorban.
+Retira muebles o vallas \0que estén
+a tu alrededor\0￿ aunque estén fuera
+de tu alcance (p. ej. terreno elevado).
+Asegúrate de acercarte al objeto
+que quieres retirar antes de solicitar
+el \0servicio de limpieza\0￿.
+Los objetos recolectados se enviarán
+al \0depósito de reciclaje\0￿ de la \0oficina
+de gestión\0￿. ¡No olvides recogerlos!"
+"251","¿Qué debería consultar?"
+"251_01","¿Qué debería consultar?"
+"251_01_a","Guía básica"
+"251_01_b","Construir caminos"
+"251_01_c","Obras fluviales"
+"251_01_d","Servicio de limpieza"
+"251_01_e","Dejar de leer"
+"251_02","¿Qué debería consultar?"
+"251_02_a","Guía básica"
+"251_02_b","Construir caminos"
+"251_02_c","Desniveles"
+"251_02_d","Servicio de limpieza"
+"251_02_e","Dejar de leer"
+"251_03","¿Qué debería consultar?"
+"251_03_a","Guía básica"
+"251_03_b","Construir caminos"
+"251_03_c","Obras fluviales"
+"251_03_d","Desniveles"
+"251_03_e","Servicio de limpieza"
+"251_03_f","Dejar de leer"
+"251_a","Guía básica"
+"251_b","Construir caminos"
+"251_c","Servicio de limpieza"
+"251_d","Dejar de leer"
+"261","Durante las obras de construcción,
+es posible que te tropieces con
+pequeños inconvenientes.
+Quizá un objeto te estorbe para
+moverte o no puedas recoger algo
+de un desnivel cercano.
+En estos casos, el \0servicio de
+limpieza\0￿ te será útil: puede retirar
+cualquier decoración circundante.
+Los objetos retirados se guardarán
+en el \0depósito de reciclaje\0￿ de la
+\0oficina de gestión vecinal\0￿.\0\0Para obtener más información,
+consulta el manual de la aplicación."
+"262","¿Quieres que los objetos cercanos
+se envíen al depósito de reciclaje
+de la oficina de gestión vecinal?"
+"262_a","Sí, despeja la zona"
+"262_b","No por ahora"
+"263","¡Entendido!
+\0 Espera un momento
+mientras limpiamos la zona."
+"264","¡Tarea completada!
+\0 No olvides
+recoger los objetos del \0depósito de
+reciclaje\0￿ de la \0oficina de gestión\0￿."
+"265","No se ha podido retirar nada.\0\0El servicio de limpieza solo retira
+los objetos o vallas que estén
+al rededor de ti."
+"301","Parece que la aplicación del mapa
+no funciona en esta isla."
+"311","Dice que estoy fuera de la zona de
+servicio. Supongo que no puedo
+usar la aplicación aquí."
+"999","\0100 \0￿millas"

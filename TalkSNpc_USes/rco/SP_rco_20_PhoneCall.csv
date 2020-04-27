@@ -1,0 +1,152 @@
+﻿"label","text"
+"000","Está sonando mi teléfonon"
+"001","d\0¿Hola?
+\0 ¿2\0n\0?
+\0
+¡\0Tom Nook \0￿al teléfono, sí, sí!
+\0
+¿Qué tal va la búsqueda de terrenos?d"
+"001_a","Encontré algo"
+"001_b","¡Está yendo genial!"
+"002_01","d\0¡Estupendo!
+\0 Me alegra oír que todo
+está yendo de acuerdo con el plan,
+sí, sí.
+Inspecciona la caja que encontrarás
+delante de cada terreno para ver
+los elementos que esa casa necesita.
+Los del interior deben ponerse
+dentro de la \0caja\0￿;
+\0 los del exterior,
+alrededor del terreno, ¿sí?
+¡Ya verás lo bien que queda todo!d"
+"002_02","d\0¡Ah, sí!
+\0 También te va a hacer falta
+una corona hecha de \0flores\0￿.\0\0Encontrarás unas flores preciosas
+\0en las colinas\0￿ de n\0.\0\0Ve allí y busca las que necesites.
+\0 
+Te envié un esquema para
+hacer una \02\0Ȃ촄escalera de mano\0￿, ¿sí?
+Podrás utilizarla para subir a las
+colinas sin problemas.d"
+"002_03","d\0Primero prepara terrenos para
+construir tres casasn\0\0\0\0Cuando hayas reunido todos los
+elementos necesarios,
+\0 ven a hablar
+conmigo,
+\0 ¿sí?\0\0Te esperaré en la \0oficina de gestión
+vecinal\0￿.
+\0 ¡Gracias de nuevo por tu ayuda!d"
+"003_01","d\0¿2\0n\0?
+\0 Soy yo de nuevo.
+\0 Disculpa que te moleste otra vez;
+\0 se me olvidó decirte algon\0\0d"
+"003_02","d\0Ya lo verás, pero te va a hacer falta
+una corona decorativa de \0flores\0￿.\0\0Encontrarás unas flores preciosas
+\0en las colinas\0￿ de nuestra isla.\0\0Ve allí y busca las que necesites.
+\0 
+Te envié un esquema para hacer
+una \02\0Ȃ촄escalera de mano\0￿, ¿sí?
+La podrás a utilizar para subir a las
+colinas sin problemas.
+\0
+¡Mucho ánimo y mucha suerte!d"
+"101","Está sonando mi teléfonon"
+"102","d\0¿Hola?
+\0 ¿2\0n\0?
+\0
+¡Habla \0Tom Nook\0￿!d"
+"103","d\0Disculpa que te llame así tan de
+repente, ¿sí?
+\0 Quiero hablarte de una
+aplicación que quizás te interese.d"
+"103_01","d\0Disculpa que te haya llamado cuando
+acabamos de hablar en personan\0\0\0\0Pero es que se me olvidó contarte
+sobre una aplicación muy
+interesante, ¿sí?d"
+"104","d\0No cuelgues, que ahora mismo
+te la envío.
+\0 Échale un vistazo
+a la pantalla, por favor.d"
+"105","d\0¡Estupendo! Ya se cargó.
+\0
+La aplicación que acabo de enviarte
+se llama \0Llamada local\0￿.
+Puedes usarla para llamar a otros
+residentes de la isla y quedar en
+encontrarte con ellos.d"
+"106","d\0Obtendrás más información cuando
+\0uses la aplicación\0￿ para encontrarte
+con otros residentes.
+\0 Pruébala, ¿sí?d"
+"107","d\0¡Hasta pronto!d"
+"151","¡Ah,
+\0\0 Tom Nook \0￿me envió una
+nueva aplicación!
+\0 A ver qué me
+cuentan"
+"152","""¡Envié la aplicación \0Llamada local
+\0￿a todos los residentes de
+n	\0!
+Podrán usarla para llamarse
+mutuamente y mantenerse en
+contacto.\0\0Obtendrán más información cuando
+\0usen la aplicación\0￿ para encontrarse
+con otros residentes. Úsenla, ¿sí?"""
+"153","¡Esto hay que probarlo!"
+"201","Está sonando mi teléfonon"
+"202","d\0¿Hola?
+\0 ¿2\0n\0?
+\0
+¡Habla \0Tom Nook\0￿!d"
+"203","d\0¿Encontraste un buen lugar para
+2\0}\0\0?d"
+"203_a","¡Claro que sí!"
+"203_b","¡El lugar ideal!"
+"204","d\0¡Perfecto!\0\0Ahora, como parte del kit,
+\0 se
+quedará un \0giroide \0￿para recolectar
+las bayas necesarias para la obra.d"
+"205","d\0Los residentes pueden ir
+contribuyendo poco a poco
+cuando quieran.\0\0¡Empezaremos con las obras cuando
+reunamos las bayas necesarias!d"
+"206","d\0Desde ya, puedes hacer donaciones
+tan generosas como tú quieras, n\0.\0\0\0(De hecho, si no las haces nuestro
+objetivo será tan solo un mero
+sueñon\0\0).\0￿d"
+"207","d\0En fin, como dijen\0\0
+\0 Todas las
+donaciones, al \0giroide\0￿.
+\0
+Hasta pronto, ¿sí?d"
+"301","Está sonando mi teléfonon"
+"302","d\0¿Hola?
+\0 ¿2\0n\0?
+\0
+¡Habla \0Tom Nook\0￿!d"
+"303","d\0Disculpa que te llame así tan de
+repente, ¿sí?
+\0 Quiero hablarte de una
+aplicación que quizás te interese.d"
+"304","d\0No cuelgues, que ahora mismo
+te la envío.
+\0 Échale un vistazo
+a la pantalla, por favor.d"
+"305","d\0Te acabo de enviar la aplicación
+\0Obras públicas\0￿.\0\0Está desarrollada por \0Nook Inc. \0￿y te
+permitirá realizar \0obras \0￿más
+complejas en la isla, ¿sí?\0\0Al principio solo tendrás permiso
+para crear caminos,
+\0 pero puedes
+canjear \0millas\0￿ por más opciones.
+Así tendrás acceso a más tipos de
+caminos o a modificar desniveles
+en el terreno o incluso a crear ríos.
+¡Cuando veas lo divertido que es,
+\0
+seguro que querrás acceder a todas
+las opciones disponibles!d"
+"306","d\0¡Disfruta de tu nueva aplicación
+y aprovéchala al máximo para
+crear tu isla ideal!d"

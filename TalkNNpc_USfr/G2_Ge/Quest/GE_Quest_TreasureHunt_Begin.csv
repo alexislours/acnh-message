@@ -1,0 +1,221 @@
+﻿"label","text"
+"001","(촀\0Kikou! 
+\0Une chasse au trésor avec
+moi,(\0촀\0
+\0 (""촀\0ça te tente?"
+"001_a","Carrément!"
+"001_b","Carrément pas..."
+"002","(촀\0Hé, tu sais que tu es sur le point de
+t'embarquern\0\0
+\0($촀\0 dans une 
+\0chasse au
+trésor?"
+"002_a","C'est jouable."
+"002_b","Pas là, nan."
+"003","(""촀\0Salut! Une chasse au trésor, ça
+te dit?"
+"003_a","Et comment!"
+"003_b","Non merci."
+"004","(촀\0Super!
+\0 (%촀\0Alors écoute bien. 
+\0Je vais
+enterrer un trésor, quelque part
+sur l'île!\0\0Zyva, détends-toi, j'ai un permis et
+tout. 
+\0Bon, bouge pas, je fais ça et
+je reviens."
+"005","(%촀\0D'ac.
+\0 Alors (""촀\0je vais enterrer un trésor
+quelque part sur l'île. 
+\0Ça sera
+pas long."
+"006","(6촀\0Génial!
+\0 Je vais enterrer (촀\0un trésor
+quelque part sur l'île. Attends-moi,
+je reviensn"
+"007","(촀\0Ohn\0\0 
+\0J'avais pas vu l'heure!
+\0 (\0촀\0(\0촀\0Si on
+joue dans le noir, on verra rien et ça
+sera trop compliquén\0\0\0\0Et pisn\0\0 On raconte qu'il y a des
+vampires, par ici, la nuitn\0\0\0\0Alors c'est pas grave,
+\0 (촀\0on jouera un
+autre jour!"
+"008","(촀\0C'est toi qui voisn\0\0 
+\0On remet ça à
+une prochaine fois!"
+"009","D'ac.
+\0 (촀\0Bon ben une autre fois, alors?"
+"010","Comme tu veuxn\0\0
+\0 (촀\0Mais 
+\0il faut trop
+qu'on joue, c'est vraiment sympa,
+tu sais!"
+"011","(촀\0Ça y est!
+Maintenant, écoute les règles!
+d\0\0\0(촀\0Si tu trouves le trésor caché avant la
+fin du tempsn\0\0 
+\0tu gagnes! 
+\0C'est
+tout! Y'a rien d'autre à savoir!
+Z\0\0\0(%촀\0Ah, oui, le trésor est caché dehors.
+(촀\0Certains n'aiment pas qu'on creuse
+dans leur salonn\0\0
+x\0
+
+\0(""촀\0Si tu es prêt2\0en\0\0
+\0
+Que la chasse
+\0 commence!
+<"
+"011_01","(촀\0Bon, je vais t'expliquer les règles,
+n\0!
+\0
+Z\0\0\0(촀\0Si tu trouves le trésor que j'ai caché
+sur l'île avant la fin du temps, 
+\0tu
+gagnes!
+\0 Euh, voilà, c'est tout, lol. 
+x\0\0\0(%촀\0Ah oui, le trésor est caché dehors.
+\0
+(촀\0Pas la peine d'aller creuser dans les
+maisons des voisins!
+x\0\0\0()촀\0Oh, et il faut que tu te débrouilles
+tout2\0e seul2\0e sur ce coup-là. ($촀\0Tes amis
+n'ont pas le droit d'aider.
+\0 Compris?
+\0
+(""촀\0On va y aller, n\0!
+<"
+"012","(촀\0Bon, et maintenant, les règles!
+C'est simple, ce sont les mêmes
+que la dernière fois!
+d\0
+Sauf que (%촀\0tu as moins de temps, cette
+fois!
+\0 (6촀\0Ce sera donc
+\0 plus difficile!
+\0(""촀\0
+Si tu es prêt2\0en\0\0 C'est parti!
+x"
+"012_01","(촀\0Bon, voilà les règles, n\0!
+\0
+<\0\0\0(촀\0Si tu trouves le trésor que j'ai caché
+sur l'île avant la fin du temps, 
+\0tu
+gagnes!
+x\0\0\0(%촀\0J'ai raccourci le chrono cette fois,
+(6촀\0ça risque d'être un peu plus dur!
+Z\0\0\0()촀\0Oh, et il faut que tu te débrouilles
+tout2\0e seul2\0e sur ce coup-là. ($촀\0Tes amis
+n'ont pas le droit d'aider.
+\0 Compris?
+\0
+(""촀\0Alors on peut y aller, n\0!
+<"
+"013","(&촀\0Je te réexplique les règles?"
+"013_a","S'il te plaît."
+"013_b","Non merci."
+"014","(%촀\0Parfait!
+\0 (""촀\0La chasse est ouverte!
+Z"
+"014_01","(%촀\0Parfait!
+\0 ( 촀\0Oh! 
+\0J'allais oublier.
+\0
+Personne n'a le droit de t'aider,
+n\0.
+\0($촀\0 C'est compris?
+x\0\0\0(""촀\0La chasse est ouverte, n\0!
+<"
+"015","(촀\0D'ac!
+\0 (%촀\0Tu as moins de temps, cette
+fois-ci.
+\0 Alors sois rapide!
+Z\0\0\0(""촀\0Troisn\0\0
+\0 Deuxn\0\0
+\0 Unn\0\0
+\0 C'est parti!
+Z"
+"015_01","(촀\0OK!
+\0 (%촀\0Tu as moins de temps cette fois,
+il faut mettre le turbo.
+\0 Tu admireras
+le paysage une autre fois!
+x\0\0\0( 촀\0Oh! 
+\0J'allais oublier. 
+\0Personne n'a
+le droit de t'aider.
+\0 ($촀\0C'est compris?
+\0
+Bien!
+x\0\0\0(""촀\0La chasse est ouverte,
+n\0!
+Z"
+"101","(""촀\0Kikou! 
+\0Dis, tu as cinq minutes?
+\0(\0촀\0
+Tu veux jouer à (촀\0la chasse au trésor,
+avec moi?"
+"101_a","Volontiers."
+"101_b","Nan, pas envie."
+"102","( 촀\0Tiens, n\0.
+\0(촀\0 Écoute,
+j'ai un truc qui pourrait t'intéresser!\0\0()촀\0J'ai envie de rajouter un grain de
+folie dans ma vie...
+\0(1촀\0 Je suis sûre que
+ça ferait de moi une meilleure star!
+(\0촀\0Alors je me disais que tou2\0tes les deux,
+\0
+on pourrait jouer à la chasse au
+trésor!
+\0
+(촀\0C'est pas le genre de trucs qu'on
+fait tous les jours, pas vrai?"
+"102_a","Soyons 2fousfolles!"
+"102_b","Pas maintenant."
+"103","n\0\0( 촀\0 Oh, j'avais pas vu l'heure!
+\0 Il est
+méga tard!
+\0 (7촀\0Désolée, on remet ça à
+une autre fois!"
+"104","(촀\0Tip top!
+\0 Bon, donne-moi deux
+minutes,
+\0 ($촀\0je vais cacher le trésor
+quelque part sur l'île!
+\0
+(\0촀\0(%촀\0Ça fait une semaine que j'y pense,
+je crois que j'ai trouvé l'endroit
+i
+\0dé
+\0aln"
+"105","(""촀\0OK, c'est pas grave!
+\0
+(7촀\0Une autre fois alors, n\0!"
+"106","(촀\0Youpi! n\0\0
+\0( (촀\0Oh.
+\0 Oh!
+\0 T'as vu l'heure?
+(촀\0Il fait déjà méga noir!\0\0(+촀\0Dis, tu crois aux vampires, toin\0\0\0\0(촀\0Parce que je me disaisn\0\0 Il est quand
+même un peu tard 
+\0pour jouer dehors,
+non?"
+"107","(촀\0Ha ha! Génial!
+\0( J'étais sûre que
+tu accepterais, n\0!\0\0(\0촀\0(""촀\0Bouge pas, 
+\0je vais aller enterrer un
+trésor quelque part 
+\0et je reviens!
+(촀\0Aah!
+\0 On va s'amuser!"
+"108","(촀\0Capish. 
+\0Eh ben tant pis pour toin\0\0
+(%촀\0Je retenterai ma chance une autre
+fois, n\0!"
+"200","(촀\0Imagine, j'ai regardé partoutn\0\0 mais
+toutes mes cachettes sont pleines de
+trucs que j'ai déjà cachés!\0\0(8촀\0Je sais que c'est moi qui t'ai
+proposé de jouer, maisn\0\0 on remet
+ça à une prochaine, OK?
+"

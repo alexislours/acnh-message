@@ -1,0 +1,192 @@
+﻿"label","text"
+"001","(촀\0Oye, n\0,
+\0 (\0촀\0si tienes
+tiempo,
+\0 (촀\0¿te apetece buscar un
+tesoro conmigo?(촀"
+"001_a","¡Pues claro!"
+"001_b","Ahora mismo no"
+"002","(촀\0Tres palabras:
+\0 ¡buscar un tesoro!
+\0
+¿Te apetece?(""촀"
+"002_a","¡Sí!"
+"002_b","Ahora mismo no"
+"003","(촀\0¡Mis músculos cerebrales me han
+dado una idea genial!
+\0( (촀\0¿Te apetece
+buscar un tesoro?"
+"003_a","¡Vale!"
+"003_b","No, gracias"
+"004","(""촀\0¡Estupendo!
+\0 ¡Pues vamos allá!\0\0()촀\0Voy a esconder el tesoro,
+\0(촀\0 ¡así que
+no mires!"
+"005","(촀\0¡Vamos allá!
+\0( (%촀\0Vale,
+\0 ahora voy a
+esconder el tesoro,
+\0 (""촀\0así que espera
+aquí un momento."
+"006","(촀\0¡Pues chachi!
+\0( (""촀\0Voy a esconder un
+tesoro por ahí, así que espera aquí
+un momento, 2
+tigre
+leona."
+"007","(촀\0Oye, ¡¿pero cuándo se ha hecho
+tan tarde?!\0\0(촀\0Vamos a tener que dejarlo para otro
+momento,
+\0 (촀\0que con tan poca luz no va
+a haber forma de encontrar nadan"
+"008","(촀\0¿No te mola la sugerencia?
+\0(
+(촀\0Bueno, a lo mejor en otro momento."
+"009","( 촀\0¿No te convence este asunto?
+\0
+(촀\0Bueno, otro día."
+"010","(촀\0Pues qué penan\0\0
+\0 (%촀\0Pero, si no te
+apetece, qué le vamos a hacern\0\0
+\0(
+(""촀\0¡En otro momento, entonces!"
+"011","(%촀\0Te voy a explicar de qué va esto.
+Z\0\0\0()촀\0He escondido un tesoro por ahí,
+y, si lo encuentras en el tiempo
+estipulado,
+\0 (촀\0¡tú ganas!
+´\0\0\0(\0촀\0Está enterrado bajo tierra, así que
+no te molestes en entrar en ningún
+edificio para buscarlo, ¿vale?
+´\0
+(촀\0¡Vamos allá!
+Z"
+"011_01","(%촀\0Te voy a explicar de qué va esto.
+x\0\0\0()촀\0He escondido un tesoro por ahí,
+y, si lo encuentras en el tiempo
+estipulado,
+\0 (촀\0¡tú ganas!
+´\0\0\0(\0촀\0Está enterrado bajo tierra, así que
+no te molestes en entrar en ningún
+edificio para buscarlo, ¿vale?
+´\0
+(9촀\0Ah, y esta es una competición solo
+entre nosotros, ¿eh?
+\0( (""촀\0¡Nadie puede
+ayudarte a buscar!
+´\0
+(촀\0¡Vamos allá!
+Z"
+"012","(%촀\0Esto es lo que hay que hacern\0\0
+\0
+Z\0\0\0()촀\0He enterrado un tesoro por ahí.
+\0
+Si lo encuentras a tiempo, ¡la
+victoria es tuya!
+´\0
+(\0촀\0Aunque vas a tener menos tiempo
+del habitual,
+\0 (6촀\0¡así que no va a ser
+tan fácil!
+´\0
+(촀\0¡Venga, que empezamos!
+Z"
+"012_01","(%촀\0Esto es lo que hay que hacern\0\0
+\0
+Z\0\0\0()촀\0He enterrado un tesoro por ahí.
+\0
+Si lo encuentras a tiempo, ¡la
+victoria es tuya!
+´\0
+(9촀\0Ah, y esta es una competición solo
+entre nosotros, ¿eh?
+\0( (""촀\0¡Nadie puede
+ayudarte a buscar!
+´\0
+(\0촀\0Esta vez vas a tener menos tiempo
+del habitual,
+\0 (6촀\0¡así que no va a ser
+tan fácil!
+´\0
+(촀\0¡Venga, que empezamos!
+Z"
+"013","(촀\0Una cosan\0\0
+\0 (&촀\0¿Quieres que te cuente
+de qué va todo esto?"
+"013_a","Sí"
+"013_b","No"
+"014","(촀\0¡Pues empezamos!
+<"
+"014_01","(촀\0¡Pues venga!
+\0 Ah, sí,
+\0 una cosa más.
+Z\0\0\0(\0촀\0Esto es entre nosotros, así que solo
+puedes desenterrar el tesoro tú,
+¿eh?
+´\0
+(촀\0¡Empezamos!
+<"
+"015","(촀\0Ten en cuenta que hay un límite de
+tiempo, así que no va a resultarte
+fáciln\0\0
+\0 (촀\0¡Buena suerte, crack!
+´"
+"015_01","(촀\0Ten en cuenta que hay un límite de
+tiempo, así que no va a resultarte
+fáciln\0\0
+´\0
+(촀\0Ah,
+\0 y una cosa más.
+\0( ()촀\0Esto es entre
+nosotros, así que solo puedes
+desenterrar el tesoro tú, ¿eh?
+´\0
+(촀\0¡Buena suerte, crack!
+Z"
+"101","(촀\0Oye, si tienes un poco de tiempo,
+\0
+¿no te apetecería buscar tesoros
+un rato?"
+"101_a","¡Chachi!"
+"101_b","Me parece que no..."
+"102","( 촀\0Mira una cosa, n\0.\0\0(
+촀\0Estaba pensando un entreno
+muscular para 2ununa principiante como
+tú
+\0 ()촀\0y se me ha ocurrido una idean\0\0\0\0(촀\0¡Buscar tesoros!
+\0( (촀\0Deberías probarlo.\0\0(촀\0¡Correr por ahí cavando es una forma
+chachi de tonificar la musculatura!"
+"102_a","¡Me has convencido!"
+"102_b","No me convence..."
+"103","(촀\0¡Es supertarde!
+\0( (촀\0Con lo oscuro que
+está, no hay forma de encontrar
+nada,
+\0 ¡y menos un tesoro!
+(촀\0¡Ya probamos en otro momento!"
+"104","(촀\0¡Estupendísimo!
+\0 Voy a esconder
+un tesoro,
+\0 (""촀\0¡así que espérate aquí!"
+"105","(촀\0¿No te suena bien?
+\0( (%촀\0Bueno, tal vez
+acabes cambiando de idea en algún
+momento."
+"106","(촀\0¡Mancuernas, mira la hora que es!
+\0(
+(촀\0¡No se pueden buscar tesoros en la
+oscuridad!
+(촀\0Eso te pondría las cosas mucho más
+difíciles,
+\0 así que mejor lo dejamos
+para otro momento, ¿vale?"
+"107","(촀\0¡Vale, pues voy a esconder el tesoro!
+\0
+(""촀\0No te muevas de aquí, ¿vale?"
+"108","(촀\0¿No?
+\0 (촀\0Pues yo pensaba que la idea
+te iba a encantarn"
+"200","(촀\0Por más que he buscado, no he dado
+con un sitio molón para esconder el
+tesoro, crackn\0\0
+(촀\0Ya jugamos otro rato, ¿vale?"

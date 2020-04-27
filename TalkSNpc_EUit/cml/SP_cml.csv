@@ -1,0 +1,327 @@
+﻿"label","text"
+"001","(촀\0Ciao. 
+\0Io mi chiamo \0Sahara\0￿, perché
+questo è il nome che porto da
+quando porto in giro tappeti.
+(%촀\0Porto questi tappeti dalla casa mia,
+\0
+che è molto lontana,
+\0 per aiutarti ad
+abbellire casa tua,
+\0 che è vicina.
+(9촀\0Ho tappeti piccoli, 
+\0tappeti grandi,
+
+\0e tappeti di tutte le altre misure.
+\0
+Scoprirai aspetto dopo acquisto.
+()촀\0Ah, ho anche misteriosi pavimenti e
+carte da parati.
+\0 Tanta sorpresa avrai
+nel vedere loro! 
+\0(&촀\0Cosa vuoi comprare?"
+"001_a","Un tappeto."
+"001_b","Carta misteriosa."
+"001_c","Pavimento misterioso."
+"001_d","Sono a posto, grazie."
+"002","(촀\0Che pace vederti!
+\0 (&촀\0Vuoi tappeti per
+tuoi pavimenti nudi?
+\0 O misteriose
+carte da parati e pavimenti?"
+"002_a","Un tappeto."
+"002_b","Carta misteriosa."
+"002_c","Pavimento misterioso."
+"002_d","Sono a posto, grazie."
+"003","(촀\0Oh, salve!
+\0 (&촀\0Vuoi vestire di tappeti i
+tuoi pavimenti?
+\0 (\0촀\0Ho anche misteriose
+carte da parati e pavimenti."
+"003_a","Un tappeto."
+"003_b","Carta misteriosa."
+"003_c","Pavimento misterioso."
+"003_d","Scambio i coupon!"
+"003_e","Sono a posto, grazie."
+"004","(촀\0Piccolo costa Z.
+\0
+Medio costa Z.
+\0
+Grande Z\0. Sì."
+"004_0","(9촀\0Ecco un tappeto per comprare.
+\0
+Di che misura lo preferisci?"
+"004_a","Vorrei un tappeto piccolo."
+"004_b","Vorrei un tappeto medio."
+"004_c","Vorrei un tappeto grande."
+"004_d","('촀\0Non voglio nulla."
+"005","(촀\0Lo capisco. Oggi niente stelline per
+me.
+\0( (%촀\0Magari una volta futura, sì."
+"006","(촀\0Ah, la misura preferita di me!
+\0(
+(\0촀\0Ora prego, accetto il pagamento
+di danaro."
+"007","Ora prego, accetto il pagamento
+di danaro. Grazie, sì."
+"008","<"
+"008_01","(촀\0Tu piacerai il tappeto nuovo.
+\0
+Io piacerò il danaro nuovo.
+\0
+E tutti saremo contenti."
+"008_02","(촀\0Quando il cliente sorride,
+\0 il mio cuore
+e il mio portamonete si colmano."
+"008_03","(촀\0Prego di apprezzare il nuovo tappeto
+per tanto tempo."
+"009","(%촀\0Spero che comprerai ancora.
+\0
+($촀\0Lasciati tentare dai couponn"
+"010","(촀\0Grande problema e dolore in tempo
+stesso!
+\0 (촀\0Le tue tasche contengono
+troppi, troppi oggetti già!\0\0(촀\0Parlami di nuovo quando le tue
+tasche conterranno più vuotezza."
+"011","( 촀\0Molto meraviglioso. 
+\0Perdona che
+ho dubitato.
+\0(7촀\0 A volte mi faccio
+i problemi inutili."
+"012","(%촀\0Ah.
+\0 Le tue intenzioni sono chiare
+come tappeti passati allo
+sbattitappeto.
+\0 Magari un'altra volta."
+"015","()촀\0L'unico tappeto grande che porto
+oggi sul groppone è 2\0
+}\0\0.\0\0(&촀\0Va bene che compri lo stesso
+tappeto?
+\0 Il danaro è Z\0."
+"015_a","(%촀\0Affare fatto."
+"015_b","('촀\0No, grazie."
+"016","()촀\0Il tappeto grande di oggi è
+\0
+2\0}\0\0.
+\0(
+(&촀\0Z\0, fatto affare?"
+"016_a","(%촀\0Affare fatto."
+"016_b","('촀\0No, grazie."
+"017","(촀\0Ah, uffaluffa!
+\0 ('촀\0Non hai abbastanza
+di stelline!\0\0(\0촀\0Mi servono Z\0
+\0
+per un tappeto di felicità.
+\0($촀\0 Magari ne
+riparliamo, sì?"
+"020","()촀\0L'unico tappeto medio che porto
+oggi sul groppone è 2\0
+}\0.\0\0(&촀\0Va bene che compri lo stesso
+tappeto?
+\0 Il danaro è Z."
+"020_a","(%촀\0Affare fatto."
+"020_b","('촀\0No, grazie."
+"021","()촀\0Il tappeto medio di oggi è
+\0
+2\0}\0.
+\0(
+(&촀\0Z, fatto affare?"
+"021_a","(%촀\0Affare fatto."
+"021_b","('촀\0No, grazie."
+"022","(촀\0Ah, uffaluffa!
+\0 ('촀\0Non hai abbastanza
+di stelline!\0\0(\0촀\0Mi servono Z
+\0
+per un tappeto di felicità.
+\0($촀\0 Magari ne
+riparliamo, sì?"
+"025","()촀\0L'unico tappeto piccolo che porto
+oggi sul groppone è 2\0
+}\0.\0\0(&촀\0Va bene che compri lo stesso
+tappeto?
+\0 Il danaro è Z."
+"025_a","(%촀\0Affare fatto."
+"025_b","('촀\0No, grazie."
+"026","()촀\0Il tappeto piccolo di oggi è
+\0
+2\0}\0.
+\0(
+(&촀\0Z, fatto affare?"
+"026_a","(%촀\0Affare fatto."
+"026_b","('촀\0No, grazie."
+"027","(촀\0Ah, uffaluffa!
+\0 ('촀\0Non hai abbastanza
+di stelline!\0\0(\0촀\0Mi servono Z
+\0
+per un tappeto di felicità.
+\0($촀\0 Magari ne
+riparliamo, sì?"
+"030","Misteriosa carta di parati ha misero
+valore di Z.
+\0 Sei
+d'accordo con questa stima di me?"
+"030_a","(%촀\0Eccome!"
+"030_b","('촀\0Direi di no..."
+"031","(촀\0Ahhh, ma oggi una carta da parati
+misteriosa ti ho venduto già! 
+\0(9촀\0Solo
+una al giorno, ne vendo.
+(촀\0Comunque lo scambio possiamo fare.
+\0(%촀\0
+Per 5 \0coupon\0￿, una carta da parati
+posso darti."
+"032","(촀\0Ahhh, ma una misteriosa carta da
+parati ti ho già venduto e ho già fatto
+scambio.
+\0 (9촀\0Solo uno al giorno si può.
+(촀\0Trattieni il fiato fino al giorno in cui
+le nostre strade si incroceranno di
+nuovo in armonia."
+"034","(촀\0Ah, ora parole non armoniche dovrò
+utilizzare! 
+\0('촀\0Le tue stelline non sono
+sufficienti in quantità!\0\0(\0촀\0Ho bisogno di Z
+\0
+per questa carta misteriosa.
+\0($촀\0 Un'altra
+volta in futuro ne riparleremo, sì?"
+"035","Ora per favore il pagamento in
+contanti accetto, sì? Grazie."
+"040","Misterioso pavimento ha povero
+valore di Z.
+\0 Sei
+d'accordo con questa stima di me?"
+"040_a","(%촀\0Eccome!"
+"040_b","('촀\0Direi di no..."
+"041","(촀\0Ahhh, ma il misterioso pavimento
+ti ho già venduto oggi! 
+\0(9촀\0Solo uno al
+giorno ne vendo.
+(촀\0Scambiare è buono, però.
+\0(%촀\0
+Per 5 \0coupon\0￿ per tappeti,
+un pavimento posso darti."
+"042","(촀\0Ahhh, ma un misterioso pavimento e
+uno scambio ho già fatto oggi.
+\0 (9촀\0Uno
+al giorno si può soltanto.
+(촀\0Il fiato trattieni e aspetta in armonia
+che le nostre strade si incrocino di
+nuovo."
+"050","(촀\0Regalo \0coupon\0￿ come ricompensa
+ai genti buoni che comprano tappeti
+buoni.\0\0(9촀\0Se raccogli Z\0\0 coupon,
+\0 (촀\0puoi scambiarli
+per misteriosa carta da parati
+\0
+o misteriosi pavimenti!"
+"050_pl","(촀\0Regalo \0coupon\0￿ come ricompensa
+ai genti buoni che comprano tappeti
+buoni.\0\0(9촀\0Se raccogli Z\0\0 coupon,
+\0 (촀\0puoi scambiarli
+per misteriosa carta da parati
+\0
+o misteriosi pavimenti!"
+"051","(%촀\0Siccome che hai comprato
+tappeto grande
+\0 allora (""촀\0ti do
+tre coupon."
+"052","(%촀\0Siccome che hai comprato
+tappeto medio
+\0 allora (""촀\0ti do
+due coupon."
+"053","(%촀\0Siccome che hai comprato
+tappeto piccolo
+\0 allora (""촀\0ti do
+un coupon."
+"054","(촀\0Ecchi a te 
+\0i \0coupon\0￿ bonus.
+\0( (%촀\0Siccome
+che hai comprato tappeto grande
+\0
+allora (""촀\0ti do tre coupon."
+"055","(촀\0Ecchi a te 
+\0i \0coupon\0￿ bonus.
+\0( (%촀\0Siccome
+che hai comprato tappeto medio
+\0
+allora (""촀\0ti do due coupon."
+"056","(촀\0Ecchi a te 
+\0i \0coupon\0￿ bonus.
+\0( (%촀\0Siccome che hai comprato tappeto piccolo
+\0
+allora (""촀\0ti do un coupon."
+"057","(촀\0Grande problema!
+\0 (촀\0Le tue tasche
+contengono troppi, troppi bonus già!\0\0(\0촀\0Devi fare spazio nel tuo cuore per
+bonus.(촀\0 Parlami di nuovo quando le tue tasche conterranno più vuotezza."
+"060","(촀\0Oh-oh!
+\0 Z\0\0 \0coupon\0￿ hai raccolto!\0\0(촀\0E adesso desideri tu avere
+\0 una
+misteriosa carta da parati
+\0 o un
+altrettanto misterioso pavimento?"
+"060_a","(%촀\0Lo desidero!"
+"060_b","('촀\0Non adesso."
+"061","(%촀\0Ho compreso, sì!
+\0 Allora carta
+da parati?
+\0 O pavimento?
+\0 (&촀\0Quale
+ti invita di più?"
+"061_a","(\0촀\0Misteriosa carta da parati."
+"061_b","(\0촀\0Misterioso pavimento."
+"061_c","(\0촀\0Niente, niente."
+"062","(촀\0Una carta da parati sola al giorno.
+\0
+('촀\0E tu ne già hai una.
+\0( (&촀\0Perché non
+provi il misterioso pavimento invece?"
+"062_a","(%촀\0OK!"
+"062_b","('촀\0No, lasciamo stare."
+"063","(촀\0Un pavimento solo al giorno.
+\0 ('촀\0E tu ne
+già hai uno.
+\0( (&촀\0Perché non provi la
+misteriosa carta da parati?"
+"063_a","(%촀\0OK!"
+"063_b","('촀\0No, lasciamo stare."
+"064","(촀\0Oh, 
+\0ma che peccato grande. Possiedi
+tu già
+\0 sia la carta che il pavimento.
+\0(
+(9촀\0Io ne do solo uno al giorno.\0\0(\0촀\0Attendi con alito sospeso.
+\0
+(촀\0Ci incontreremo ancora l'altro giorno."
+"065","(촀\0Eh?! Come di possibile?
+\0( (촀\0Misteriosi
+carte 
+\0e pavimenti
+\0 sono ciò di più
+meraviglioso!\0\0(\0촀\0Ti consiglio di scambiare coupon
+qualche volte.
+\0(9촀\0 Ho faticato tanto
+per farli belli così."
+"066","( 촀\0Oh, bene van\0\0
+\0( (\0촀\0tornerò l'altra volta.
+\0
+(촀\0Spero che potrò aiutare."
+"067","E allora, 
+\0Z\0\0 \0coupon\0￿ prenderò."
+"068","<"
+"068_01","(1촀\0I tuoi occhi saranno grandi come il
+grande deserto
+\0 e il tuo cuore batterà
+forte
+\0(촀\0 quando vedrai."
+"068_02","(1촀\0Vorrai ancora di più, sì.
+\0 Una cosa
+tira l'altra
+\0(촀\0 e poi un'altra e ancora
+un'altra."
+"068_03","(1촀\0Vorrai vedere \0Sahara \0￿ancora, sì.
+\0
+Decorare casa con le mie cose
+\0(촀\0 ti farà
+desiderare ancora più mistero."

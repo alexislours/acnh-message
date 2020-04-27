@@ -1,0 +1,226 @@
+﻿"label","text"
+"001","(촀\0Encontrar tesoros es mi deporte favorito,
+\0 (6촀\0y se puede practicar sin
+gastar una baya.
+\0 (촀\0¿Quieres jugar?"
+"001_a","¡Suena divertido!"
+"001_b","No es el mejor momento"
+"002","( 촀\0Vaya, 
+\0tienes cara de tener muchas
+ganas den\0\0 ($촀\0¡jugar a encontrar
+tesoros conmigo!
+\0 ¡Qué maravilloso!"
+"002_a","¡Claro!"
+"002_b","No tanto..."
+"003","(6촀\0¿Quieres jugar conmigo
+a un juego de detectives?"
+"003_a","¡Suena bien!"
+"003_b","No es buen momento..."
+"004","(촀\0¡Qué ilusión!
+\0 Pues voy a enterrar
+esta maravilla en algún lugar
+de la isla.
+\0 (6촀\0¡Espera un segundo!"
+"005","(촀\0¡Te apuntas a todo!
+\0 (%촀\0No te muevas,
+\0
+que voy a enterrar esta maravilla.
+¡Cierra los ojos!"
+"006","(촀\0La pasaremos bien,
+\0 ¡ya verás!
+\0 (%촀\0Dame
+un segundo,
+\0 que voy a elegir un
+lugar para enterrar(\0촀\0 (6촀\0algo maravilloso."
+"007","(촀\0¡Vaya!
+\0 Qué tarde esn\0\0
+\0 (\0촀\0(촀\0Está demasiado oscuro como para buscar
+tesoros ahora.
+\0 (%촀\0Otro día."
+"008","(촀\0Vaya, qué lástima.
+\0 No pasa nada,
+(촀\0otra vez será, n\0.
+\0(Si es que me olvido de eston\0\0).\0￿"
+"009","(&촀\0Pero, ¿por qué?
+\0 Bueno, no pasa
+nada.
+\0('촀\0 Solo era una idea.
+\0
+\0(촀\0(Una pésima idea, al parecern\0\0).\0￿"
+"010","( 촀\0Eso sí que no me lo esperaba.
+\0
+(7촀\0Qué decepciónn"
+"011","( 촀\0Atención,
+\0 que te explico.
+\0
+()촀\0La cosa funciona así:
+\0 hay un tesoro
+escondido en la islan\0\0
+\0 (촀\0¡bajo tierra!
+´\0\0\0(6촀\0Como en las tiendas,
+\0 hay que buscar
+bien para encontrar las maravillas.
+´\0\0\0('촀\0Solo que aquí no hay que entrar a
+ninguna tienda,
+\0 claro.
+\0 (3촀\0Quedaría feo
+abrir hoyos ahín\0\0
+´\0
+($촀\0Bueno,
+\0 ¡vamos!
+<"
+"011_01","( 촀\0Atención,
+\0 que lo explico claramente.
+\0
+()촀\0La cosa funciona así:
+\0 hay un tesoro
+escondido en la islan\0\0
+\0 (촀\0¡bajo tierra!
+´\0\0\0(6촀\0Como en las tiendas,
+\0 hay que
+buscar para encontrar las joyasn\0\0
+´\0\0\0('촀\0Solo que aquí no hay que entrar
+en tiendas,
+\0 claro.
+\0 (3촀\0Quedaría feo
+cavar hoyos ahín\0\0
+´\0
+(9촀\0Ah,
+\0 y este juego queda entre tú y yo.
+\0
+('촀\0No vale que te ayuden las visitas,
+\0
+¿de acuerdo?
+\0 ($촀\0Bueno,
+\0 ¡vamos!
+´"
+"012","(%촀\0Es fácil, pero estate muy atent2oa,
+\0
+que te lo voy a explicar de corridon\0\0
+´\0\0\0Hay un tesoro enterrado en la isla,
+\0
+(촀\0¡eso es lo que tienes que buscar!
+´\0\0\0()촀\0Ganas si lo encuentras antes de
+que se termine el tiempo,
+\0 ¡y esta vez
+el plazo es más corto,
+\0 te aviso!
+´\0
+(\0촀\0Eso es todo,
+\0 ($촀\0¡adelante!
+Z"
+"012_01","(%촀\0Es fácil, pero estate muy atent2oa,
+\0
+que te lo voy a explicar de corridon\0\0
+´\0\0\0Hay un tesoro enterrado en la isla,
+\0
+(촀\0¡eso es lo que tienes que buscar!
+´\0\0\0()촀\0Ganas si lo encuentras antes de
+que se acabe el tiempo,
+\0 ¡y esta vez
+el plazo es más corto,
+\0 te aviso!
+´\0
+Lo que ('촀\0no ha cambiado es que el
+juego sigue siendo entre tú ((촀\0y yo.
+\0
+Que nadie te ayude,(6촀\0
+\0 ¿eh?
+´\0
+(\0촀\0Eso es todo.
+\0 ($촀\0¡Adelante!
+Z"
+"013","(&촀\0¿Te explico las reglas?"
+"013_a","Sí, me hace falta..."
+"013_b","No, no es necesario..."
+"014","(%촀\0Bien, bien,
+\0 veo que ya tienes
+experiencia en estas cosasn\0\0
+\0
+($촀\0¡Pues empecemos!
+´"
+"014_01","(%촀\0Ah,
+\0 ya tienes experiencia en estos
+asuntos, ¿eh?
+\0 ( 촀\0¡Pues no vale que te
+ayuden!
+\0 (\0촀\0¿Todo listo?
+\0 ($촀\0¡En marcha!
+´"
+"015","(촀\0Bien, 2&caballeroseñorita,
+\0 no te subestimarén\0\0
+\0
+()촀\0Pero esta vez el límite de tiempo es
+muy estricto.
+\0 ¿Preparad2oa?
+\0 ($촀\0¡Adelante!
+Z"
+"015_01","(촀\0Bien, 2 queridoquerida,
+\0 no te subestimarén\0\0
+Z\0\0\0(3촀\0Pero esta vez el límite de tiempo
+es muy estricto.
+\0 (촀\0¡Y no vale recibir
+ayuda!
+\0 (촀\0Eso sería hacer trampan\0\0
+´\0
+(&촀\0¿Preparad2oa?
+\0 ¡Adelante!($촀\0
+Z"
+"101","(촀\0Si tienes tiempo,
+\0 podríamos practicar
+el grato juego de la caza del tesoro.
+\0
+(촀\0¡Será di-
+\0vi-
+\0no!"
+"101_a","¡Me apunto!"
+"101_b","Quizás otro día..."
+"102","(&촀\0¿Quieres añadirle un poco de
+emoción a tu día?
+\0 ()촀\0Te propongo un
+juego:
+\0 (촀\0¡la caza del tesoro!"
+"102_a","¡Soy tod2oa oídos!"
+"102_b","No puedo, perdona..."
+"103","(촀\0Uh, perdona,
+\0 ya sé que fue idea
+mía,
+\0 (촀\0pero es que no me había dado
+cuenta de la horan\0\0
+\0 (%촀\0Otro día.
+\0 (촀\0De día."
+"104","(촀\0¡Maravilloso!
+\0 Enseguida te explico,
+\0
+pero antes voy a enterrar el tesoro."
+"105","( 촀\0Lo siento,
+\0 ¿te agarré en mal
+momento?
+\0 ('촀\0No quería entretenerte.
+\0
+\0(Quería divertirte, otra vez serán\0\0).\0￿"
+"106","(촀\0Uy, ¡pero mira la hora que es,
+\0 ¿hace
+cuánto (&촀\0que estamos hablando?
+\0 (촀\0Se hizo tarde,
+\0 ¿jugamos otro día?"
+"107","(%촀\0Sabía que te gustaría la idea.
+\0
+Tú espérame en la plaza,
+\0 (3촀\0que voy a
+esconder el objeto que buscarásn"
+"108","(촀\0Oh,
+\0 ¿tienes otros compromisos?
+\0
+En ese caso, no te entretengo.
+\0
+\0(촀\0(No me esperaba esta respuestan\0\0).\0￿"
+"200","(촀\0Qué contrariedadn\0\0
+\0 Busqué por toda
+la isla,
+\0 (촀\0pero no encontré ni un solo
+lugar donde enterrar el tesoro.
+(촀\0Lamento haberte propuesto el juego
+y no llevarlo a cabon\0\0
+\0 (촀\0Lo intentamos
+en otra ocasión, ¿sí?"

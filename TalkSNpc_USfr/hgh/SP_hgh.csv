@@ -1,0 +1,149 @@
+﻿"label","text"
+"001","(촀\0Bienvenue chez les \0Sœurs Doigts
+de Fée\0￿, l'antre des vêtements
+griffés!"
+"002","(촀\0Oh, c'est toi, n\0!
+\0 (촀\0Merci de nous avoir déniché cet endroit!"
+"003","(촀\02\0n\0?
+\0 Bienvenue dans notre nouvelle boutique!
+\0 (촀\0Qu'en dis-tu? Ça a du chien, non?"
+"004","(촀\0Quel bonheur de ne plus avoir à
+plier boutiquen\0\0
+\0 Toutes nos créations
+sont « faites à n!\0 »!"
+"005","(
+촀\0Un nouveau visagen\0\0
+\0(\0촀\0 Je suis
+ravie de faire ta connaissance.
+\0
+(촀\0Moi, c'est \0Layette\0￿!"
+"006","(촀\0Je te laisse découvrir notre
+sélection de vêtements, de
+chaussures et d'accessoiresn\0\0
+Tout ici est l'œuvre des \0Sœurs
+Doigts de Fée\0￿."
+"006_01","Alors, (""촀\0je vais t'expliquer comment
+est organisé notre ateliern\0\0\0\0()촀\0Juste à l'entrée, làn\0\0 devant, au
+milieu, c'est notre \0sélection du jour\0￿.
+\0
+(촀\0Ou le coin découverte si tu préfères!\0\0()촀\0À gauche, sur les \0mannequins\0￿,
+nous proposons quelques idées de
+tenues de saison.
+(%촀\0Nous changeons les tenues de temps
+en temps,
+\0 mais pas tous les joursn\0\0
+\0(촀\0
+J'espère qu'elles t'inspireront!
+(촀\0Bien entendu,
+\0 tout ce que tu vois
+sur les mannequins est à vendre. Si
+quelque chose te plaît, je t'en prie!
+(""촀\0Au fond, sur le mur, nous avons les
+\0motifs personnalisés \0￿que les clients
+apportent.\0\0(촀\0Si tu veux exposer les tiens, c'est par
+là que ça se passe!
+\0( (\0촀\0Et si un motif te
+plaîtn\0\0(촀\0 sers-toi, c'est gratuit!
+(\0촀\0Pour finir :
+\0 notre \0cabine d'essayage\0￿.
+\0
+(""촀\0Elle est là, juste à droite.\0\0()촀\0Tu peux y essayer tout ce qui est
+en vente,(촀\0 dans différentes couleurs
+le cas échéant.
+(%촀\0C'est aussi là que nous mettons les
+articles que nous n'avons pas la
+place de mettre en rayon.
+(촀\0C'est une \0cabine d'essayage
+\0￿multi-fonctions en quelque sorte!"
+"006_02","($촀\0Nous sommes ouverts de 9 h à 21 h.
+\0
+(촀\0J'espère te voir souvent à l'atelier."
+"007","(촀\0Merci de ta visite.
+\0 À bientôt,
+j'espère!"
+"008","Oh! 
+\0(촀\0Bien sûr, aucun problème."
+"009","(촀\0Oups!
+\0 Il y a un petit souci.
+\0( (촀\0Tes
+poches sont pleines à craquer.
+\0 Je te
+laisse régler ça, je ne bouge pas."
+"010","(촀\0Oh-oh. 
+\0Je suis désolée,
+\0 on dirait qu'il
+te manque quelques clochettesn"
+"011","(촀\0Parfait!
+\0( Nous disions donc : \0Z\0\0￿."
+"012","Tu as terminé? 
+\0(촀\0Rien ne t'allait?"
+"013","(촀\0Je suis ravie de t'accueillir dans
+notre atelier."
+"014","(촀\0Merci bien!
+\0 Je crois que ce \0ticket
+atelier de couture\0￿ est pour moin\0\0\0\0Je te confie 2\0}\0\0, prends-en bien soin!"
+"021_01","(촀\0Désolée!
+\0 (2촀\0Ma sœur me dit toujours
+que je vais faire fuir les clients à
+parler autant.\0\0(촀\0Est-ce que tu as vu un motif
+personnalisé qui t'intéresse?"
+"021_02","(촀\0Oh!
+\0 (2촀\0On ne peut plus m'arrêter
+quand je commence à parler de
+l'atelier.\0\0(촀\0On dirait que tu as trouvé quelque
+chose qui t'intéresse dans
+la cabine?"
+"021_03","(촀\0Oh!
+\0 (2촀\0Quelle placoteuse je faisn\0\0\0\0Je te prie de m'excuser. (&촀\0Tu as repéré
+quelque chose sur ce mannequin?"
+"021_04","(2촀\0Désoléen\0\0
+\0 Quand je commence à
+parler boutique, on ne m'arrête plus.
+(촀\0Revenons à nos moutons! \0\0Est-ce que cet article t'intéresse?"
+"032","2\02\0}\0\0 est à Z\0.
+\0 (&촀\0Qu'en dis-tu?"
+"032_a","(%촀\0J'achète!"
+"032_b","('촀\0Non merci."
+"051","(촀\02\02\0}\0\0?"
+"052","(촀\02\02\0}\0\0 est une création de ma sœur \0Tiquette\0￿.
+\0 Très bon choix!"
+"054","Ça coûte Z\0.
+\0
+(&촀\0Qu'en dis-tu?"
+"054_a","(%촀\0J'achète!"
+"054_b","('촀\0Non merci."
+"055","(촀\0Oh, tu as un \0ticket atelier de
+couture\0￿?
+\0(촀\0 Il est valable pour tout
+achat jusqu'à Z."
+"056","2\02\0}\0\0 est à Z\0, 
+\0tu peux donc utiliser ton ticket.
+\0(&촀\0 Qu'en dis-tu?"
+"056_a","Je paie en ticket."
+"056_b","Je paie en clochettes."
+"056_c","('촀\0J'ai changé d'avis."
+"060","(촀\0J'allais oublier!"
+"061","(촀\0Je voulais te diren\0\0 Merci, tu nous as
+choisi un emplacement de rêve
+pour l'atelier!"
+"062","(촀\0J'avais l'intention de te prévenir que
+notre atelier avait ouvert, 
+\0(촀\0mais tu as
+été plus rapide que moi!"
+"063","(&촀\0Nous n'avons pas encore eu le plaisir
+de nous rencontrer?
+\0 (촀\0Bienvenue,
+je m'appelle \0Layette\0￿!"
+"070","(촀\0N'hésite pas à essayer si quelque
+chose te plaît!"
+"071","(촀\0Notre collection change d'un jour
+à l'autre,
+\0 je te conseille de venir
+jeter un œil souvent!"
+"072","(촀\0C'est ma sœur qui a créé la plupart
+des articles que tu vois ici."
+"073","(촀\0La cabine d'essayage est à droite.
+\0
+Fais comme chez toi!"
+"074","(촀\0Préviens-moi si tu vois quelque
+chose qui te plaît!"

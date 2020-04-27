@@ -1,0 +1,149 @@
+﻿"label","text"
+"001","(8촀\0Camping macht mich ein bisschen
+unruhig, 
+\0n\0. 
+\0Rumlümmeln
+ist nämlich nicht so mein Ding.\0\0(촀\0Ich hab's! 
+\0Wir könnten was spielen!
+\0
+(&촀\0Was dabei für dich rausspringen
+könnte? 
+\0Mal überlegenn\0\0\0\0(6촀\0Wenn du gewinnst, 
+\0geb ich dir
+2(촀meinen
+meinemein 2촁}\0\0!
+\0(\0\0Na, 
+\0willst du?"
+"001_a","Da bin ich dabei!"
+"001_b","Jetzt gerade nicht..."
+"002","(촀\0Sehr gut! 
+\0(
+촀\0Sollen wir die
+Regeln durchgehen?"
+"002_a","Ja, wäre besser."
+"002_b","Nee, geht schon."
+"003","(촀\0Momentan kein Bedarf, 
+\0wie?
+\0
+(6촀\0Na gut, 
+\0aufgeschoben ist nicht
+aufgehoben."
+"004","(<촀\0Alles klar,
+\0 dann misch ich mal!"
+"005","(6촀\0Dann schauen wir doch mal,
+\0
+wem das Glück jetzt hold ist..."
+"006_01","(9촀\02\02\0n\0 wie
+ich hält Wort.\0\0(촀\0Also viel Spaß mit 2.촀meinemmeinermeinem
+2촁}\0\0!"
+"006_02","(%촀\02$촀Mein
+MeineMein }\0\0
+gehört hiermit dir! 
+\0Hast du dir
+verdient, 
+\0n\0!"
+"006_03","(촀\0Olé!
+\0 Sieg für mich! 
+\0(촀\0NICHTS für dich!
+\0(
+(2촀\0Ähm, 
+\0ich meinten\0\0 
+\0Beim nächsten
+Mal hast du hoffentlich mehr Glück!"
+"007_01","(촀\0Die Runde ging zwar an dich, 
+\0aber
+beim nächsten Mal kann's ganz
+anders aussehen, 
+\0n\0!"
+"007_03","(9촀\0Siege machen auch nur dann Spaß,
+\0
+wenn man manchmal verliert.
+\0
+In diesem Sinnen\0\0
+\0 Bitte schön!"
+"008","(촀\0Also, 
+\0(촀\0legen wir los! \0\0('촀\0Moment, 
+\0Cut! 
+\0(촀\0Du hast doch
+überhaupt keinen Platz für
+2""촀
+eineneineein 2촁}\0\0!
+()촀\0Dann können wir gar nicht spielen! 
+\0(
+Ich warte mal, 
+\0bis du ein bisschen
+Ballast abgestoßen hastn"
+"100","()촀\0Das Spiel läuft wie folgt ab...\0\0(%촀\0Ich habe vier Karten, 
+\0jeweils eine
+von jeder Spielkartenfarbe (\0♥ Herz\0￿, \0♦ Karo\0￿, \0♠ Pik\0￿, \0♣ Kreuz\0￿).\0\0()촀\0Von diesen vier Karten ziehe ich
+eine und du musst dann ihre
+Farbe raten.\0\0(촀\0Wenn du richtigliegst, 
+\0kriegst du
+2(촀meinen
+meinemein 2촁}\0\0.\0\0(<촀\0Probieren wir das mal aus!"
+"101","(9촀\0Ich hab die Karte ausgewähltn\0\0\0\0(&촀\0Was für eine ist es?
+\0( \0♥ Herz\0￿, \0♦ Karo\0￿,
+\0♠ Pik\0￿ oder \0♣ Kreuz\0￿?"
+"101_a","\0♥ Herz\0￿"
+"101_b","\0♦ Karo\0￿"
+"101_c","\0♠ Pik\0￿"
+"101_d","\0♣ Kreuz\0￿"
+"102_01","\0
+\0(촀\0Stimmt, die 촀-Karte!
+\0
+	\0\0d\0\0(촀\0Volltreffer!"
+"102_02","\0
+\0Es ist die (촀\0촀-Karte!
+\0
+	\0\0d\0\0\0d(촀\0Oh, 
+\0n\0n\0\0
+\0 Tut mir echt leid.\0d"
+"200","()촀\0Das Spiel läuft wie folgt ab...\0\0(%촀\0Ich habe vier Karten, 
+\0jeweils eine
+von jeder Spielkartenfarbe (\0♥ Herz\0￿, \0♦ Karo\0￿, \0♠ Pik\0￿ und \0♣ Kreuz\0￿).\0\0()촀\0Von diesen vier Karten ziehe ich
+eine und du musst dann erraten,
+\0
+ob sie \0rot \0￿oder \0schwarz \0￿ist.\0\0(촀\0Wenn du \0rot \0￿sagst 
+\0und es ist die
+\0♥\0￿-Karte oder die \0♦\0￿-Karte, kriegst du
+2(촀meinen
+meinemein 2촁}\0\0.\0\0(촀\0Aber wenn es nicht stimmt, gehört
+2$đ촀dein
+deinedein }\0 mir! 
+\0(<촀\0Probieren wir das mal aus!"
+"201","(3촀\0Ich hab die Karte jetzt hier
+in der Handn\0\0\0\0(&촀\0Wie lautet dein Tipp?
+\0
+\0Rot\0￿ wie \0♥\0￿/\0♦ \0￿oder \0schwarz \0￿wie \0♠/♣\0￿?\0\0(촀\0Die Chance ist fifty-fifty. 
+\0Ha-Ha!
+\0
+(&촀\0Also, 
+\0wie entscheidest du dich?"
+"201_a","\0Rot\0￿"
+"201_b","\0Schwarz\0￿"
+"202_01","\0
+\0(촀\0Die 촀-Karte! 
+\0
+Also \0rot\0￿!
+\0(
+	\0\0d\0\0(5촀\0Du hast es geschafft, 
+\0n\0!"
+"202_02","\0
+\0Die (촀\0촀-Karte... 
+\0\0Schwarz\0￿!
+\0
+	\0\0d\0\0\0d(촀\0Tut mir echt leid, 
+\0n\0.\0d"
+"202_03","\0
+\0Die (촀\0촀-Karte... 
+\0\0Schwarz\0￿!
+\0
+	\0\0d\0\0\0d(5촀\0Du hast es geschafft, 
+\0n\0!\0d"
+"202_04","\0
+\0(촀\0Die 촀-Karte! 
+\0
+Also \0rot\0￿!
+\0(
+	\0\0d\0\0(촀\0Leider daneben, 
+\0n\0!"

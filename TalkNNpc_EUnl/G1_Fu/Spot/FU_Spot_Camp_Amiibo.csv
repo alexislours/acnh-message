@@ -1,0 +1,144 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Dit is s촀.
+\0( Ik kan nu niet praten
+\0 omdat ik me klaarmaak voor mijn verhuizing,
+\0 n\0.\0￿d"
+"001_02","d\0\0s촀 is niet bereikbaar 
+\0want zij is zich aan het voorbereiden op de aankomende verhuizing.\0￿d"
+"001_03","d\0\0Je bent verbonden met s촀.
+\0( Ik verhuis straks
+\0 en kan nu niet praten,
+\0 n\0.\0￿d"
+"001_04","d\0\0Dit is s촀.
+\0( Sorry,
+\0 maar ik kan nu niet praten want ik
+\0 ben aan het inpakken,
+\0 n\0.\0￿d"
+"102","<"
+"102_01","( 촀\0Je wilt dat ik naar de \0kampeerplek\0￿ op
+n	\0 kom?
+\0( (촀\0Dat lijkt me heel leuk!\0\0(촀\0Ik ga meteen mijn kampeerspullen
+inpakken,
+\0 n\0!"
+"102_02","( 촀\0Je wilt dat ik naar de \0kampeerplek\0￿ op
+n	\0 kom?
+\0( (촀\0Wat een leuk idee!\0\0(촀\0Ik kom zo snel mogelijk,
+\0 n\0."
+"102_03","(촀\0Dus ik moet de \0kampeerplek\0￿ op n	\0 bezoeken, hè?
+\0 (촀\0Oké,
+\0 doe ik!\0\0(\0촀\0Ik ga meteen zodra ik mijn spullen
+heb ingepakt.
+\0( (촀\0Ik zie je daar,
+\0 n\0!"
+"102_04","(촀\0Dus je zegt 
+\0dat ik de \0kampeerplek \0￿op n	\0 echt eens moet komen verkennenn\0\0\0\0(촀\0Wat een leuk idee! (촀\0Ik ben al
+onderweg,
+\0 n\0."
+"202","<"
+"202_01","(촀\0Je nodigt me uit om naar de
+\0kampeerplek\0￿
+\0 op n	\0 te komen?\0\0(촀\0Bedankt!
+\0 Dat lijkt me erg leuk.
+(촀\0Ik ga ernaartoe
+\0 zodra ik mijn
+kampeerspullen heb gevonden."
+"202_02","(
+촀\0Je wilt dat ik langskom
+\0 om de
+\0kampeerplek \0￿op n	\0
+uit te proberen?\0\0(촀\0Ja, hoor. Waarom niet?
+\0 Klinkt als een goed idee.
+\0 (%촀\0Tot snel!"
+"202_03","(촀\0Naar de \0kampeerplek\0￿ van n	\0 gaan 
+\0(촀\0klinkt fantastisch!\0\0(촀\0Maar het duurt misschien even voor ik mijn kampeerspullen heb gevonden, n\0
+\0n"
+"202_04","(촀\0Je wilt dat ik naar de \0kampeerplek\0￿
+op je eiland kom?
+\0( ('촀\0Wauw, zulke coole
+uitnodigingen krijg ik zelden!
+\0
+(촀\0Ik ben al onderweg,
+\0 n\0!"
+"301","<"
+"301_01","Hallo,
+\0 met n
+\0.
+\0( ( 촀\0O,
+\0 n\0!
+\0( ($촀\0Zeg het eens,
+\0 n\0."
+"301_02","Hallo,
+\0 je spreekt met n
+\0.
+\0( ( 촀\0Hoi,
+\0 n\0!\0\0Wat is er?
+\0 (8촀\0Is er iets dat je me niet persoonlijk kon vertellen,
+\0 n\0?"
+"301_03","Met n
+\0.
+\0( ( 촀\0O!
+\0 2\0n\0?!\0\0(6촀\0Je weet toch dat we op hetzelfde
+eiland wonen,
+\0 n\0?"
+"301_04","Hallo,
+\0 ja, dit is n
+\0.
+\0 ( 촀\02\0n\0?\0\0(촀\0Is er iets mis,
+\0 n\0?"
+"302","<"
+"302_01","(촀\0Wacht,
+\0 je wilt dat ik ga kamperen
+\0
+(&촀\0op de \0kampeerplek \0￿hier
+\0 op ons
+eiland?\0\0(8촀\0Volgens mij is die alleen voor
+bezoekers
+\0 en ik woon hier al."
+"302_02","(촀\0Hè?
+\0 Je wilt dat ik op onze
+\0kampeerplek \0￿ga kamperen?
+\0( (8촀\0Eh,
+\0 bedoel je echt die 
+\0op ons eiland?
+(촀\0Dat is een grappig idee,
+\0 maar ik denk
+niet dat ik het doe,
+\0 n\0."
+"302_03","(
+촀\0Volgens mij mis ik iets.
+\0(&촀\0 Waarom moet
+ik naar de \0kampeerplek \0￿gaan?
+\0 ( 촀\0Wacht,
+\0
+je wilt dat ik er ga kamperen?
+(촀\0Ik, eh,
+\0 denk niet dat ik dat ga doen,
+\0 n\0
+\0n"
+"302_04","(촀\0Wat?
+\0 (&촀\0Waarom zou ik op de
+\0kampeerplek\0￿ op ons eiland willen
+kamperen,
+\0 n\0?\0\0(8촀\0Sorry,
+\0 maar dat ga ik niet doen."
+"401","<"
+"401_01","Hoi,
+\0 met n
+\0.
+\0( (&촀\0Wat kan ik voor je doen,
+\0 n\0?"
+"401_02","(촀\0Ja,
+\0 met n
+\0.
+\0( (&촀\0Wat is er,
+\0 n\0?"
+"401_03","(촀\0Hoi!
+\0 Met n
+\0!
+\0( (&촀\0Hoe kan ik je helpen,
+\0 n\0?"
+"401_04","(촀\0Met n
+\0.
+\0( (&촀\0Wat kan ik voor je doen,
+\0 n\0?"

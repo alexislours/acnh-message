@@ -1,0 +1,143 @@
+﻿"label","text"
+"001","(촀\0Ehi! 
+\0Vuoi fare un gioco assieme a
+me?
+\0( (6촀\0Non ha niente a che fare coi
+muscolin\0\0
+\0 una volta tanto.
+(%촀\0Se vinci, ti darò 2\0}\0\0.
+\0( ($촀\0Che ne dici, n\0?"
+"001_a","Sì, giochiamo!"
+"001_b","No, passo..."
+"002","(촀\0Così mi piaci!
+\0 Allora, vuoi sapere
+le regole 
+\0oppure ami il brivido del
+rischio e ti butti senza saperle?"
+"002_a","Sentiamo le regole!"
+"002_b","(\0촀\0Vai col rischio!"
+"003","( 촀\0Oh!
+\0 Me ne farò una ragionen\0\0
+\0 (촀\0Sarà
+per un'altra volta, n\0."
+"004","(%촀\0E rischio sia!
+\0( (<촀\0Trattieni il fiato e
+pompa quei bicipiti, perché sto
+per estrarre le cartan"
+"005","(9촀\0Vediamo chi l'ha spuntatan"
+"006_01","(촀\0Per tutti i deltoidi! 
+\0Complimenti per
+la vittoria!
+\0 Beh, come promesso, 
+\0ecco
+2""촀il tuola tua\0 }\0\0!"
+"006_02","(%촀\0Vittoria su tutta la linea!
+\0( (촀\0Le mie
+congratulazioni! 
+\0Ecco, prendi pure
+2""촀questoquesta\0 }\0\0!"
+"006_03","(촀\0Ho vinto io!
+\0 (촀\0Ma c'è mancato pocon"
+"007_01","(%촀\0E va bene, 
+\0vai pure a celebrare negli spogliatoi, n\0."
+"007_03","(촀\0C'è sempre la rivincita. 
+\0Intanto vai
+pure a rinfrescarti, n\0."
+"008","(촀\0Ecco cosa voglio sentire!
+\0 Bene,
+vuoin\0\0
+\0( 촀\0 Aspetta. 
+\0Hai notato che hai
+le tasche piene, n\0?\0\0(촀\0Sono piene, te lo garantisco. 
+\0Perciò
+anche se vinci, non potrò darti
+2\0}\0\0.\0\0(9촀\0Ascolta, non mi va di giocare senza
+niente in palio. 
+\0Così non c'è gusto.
+\0
+('촀\0E neanche adrenalina!\0\0()촀\0Torna quando avrai fatto un po' di
+spazio!"
+"100","(""촀\0Ti accontento subito:
+\0 ecco le regole!\0\0()촀\0Sai che tutte le carte hanno un
+seme?
+\0 Possono essere di cuori \0♥\0￿,
+\0
+quadri \0♦\0￿,
+\0 picche \0♠ 
+\0\0￿o fiori \0♣\0￿.
+(6촀\0Memorizzali meglio della tua scheda
+per i pettorali!
+\0 Dovrai indovinare il
+seme della carta che tirerò fuori.\0\0(\0촀\0Se ci riesci, ti darò 2\0}\0\0.
+\0( ($촀\0Proprio così!\0\0(<촀\0Ora fai un bel respiro e concentrati.
+\0
+La partita ha inizio!"
+"101","(촀\0E ora tocca a te!
+\0 Dimmin\0\0
+\0 di che
+seme è questa carta, n\0?"
+"101_a","Cuori \0♥\0￿!"
+"101_b","Quadri \0♦\0￿!"
+"101_c","Picche \0♠\0￿!"
+"101_d","Fiori \0♣\0￿!"
+"102_01","(촀\02\0촀!
+\0 Hai indovinato!
+\0 La tua
+prodezza mi lascia senza fiato, 
+\0hai
+davvero colpito nel segno!"
+"102_02","( 촀\02\0촀!
+\0 Oh, 
+\0hai mancato
+il bersaglio di un chilometron\0\0
+\0
+('촀\0Spiacente,
+\0 niente da fare!"
+"200","(""촀\0Vuoi sentire le regole, eh?
+\0
+Ti accontento subito!\0\0()촀\0Sai che tutte le carte hanno un
+seme?
+\0 Possono essere di cuori \0♥\0￿,
+\0
+quadri \0♦\0￿,
+\0 picche \0♠ 
+\0\0￿o fiori \0♣\0￿.
+(6촀\0Memorizzali meglio della tua scheda
+per i pettorali!
+\0 Perché dovrai dirmi il
+colore del seme della prossima carta!
+(\0촀\0Sarà \0rosso\0￿ o \0nero\0￿?
+\0 Se indovini,
+\0
+ti darò come premio 2\0}\0\0!\0\0(<촀\0Su,
+\0 fai un bel respiro e concentratin\0\0
+\0
+La partita ha inizio!"
+"201","(촀\0E ora tocca a te!
+\0 Dimmin\0\0
+\0 di che
+colore è il seme di questa carta?"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","(촀\0Il seme è \0rosso\0￿!
+\0 Per mille frullati
+proteici, hai colto neln\0\0
+\0 seme,
+\0
+lasciandomi QUASI senza fiato!"
+"202_02","( 촀\0Oooh! 
+\0Non hai risposto \0nero\0￿ e così
+hai mancato il bersaglio.
+\0 ('촀\0Avresti
+potuto fare di meglio e invecen"
+"202_03","(촀\0Hai risposto \0nero\0￿!
+\0 Mi hai lasciato
+senza fiato quasi quanto centodieci
+chilometri di scattin\0\0
+\0 Niente male!"
+"202_04","( 촀\0Oooh! 
+\0Non hai risposto \0rosso\0￿.
+\0 Ciò
+significa hai mancato il bersaglio di
+un chilometro. ('촀\0
+\0Non ti è andata bene."

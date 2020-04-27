@@ -1,0 +1,164 @@
+﻿"label","text"
+"050","(촀\0Per tutte le ali! Vuoi spedire un
+messaggio?
+\0( n\0\0(2촀\0Cioè, certo che
+puoi, peròn\0\0
+È che il multitasking non è mai stato
+il mio forte. (&촀\0È un problema se chiudo
+il gate fintanto che lo faccio?"
+"050_a","(\0촀\0Certo che no!"
+"050_b","Non chiuderlo!"
+"051","(촀\0Okappa, grazie mille per la
+comprensione.
+\0 E allora si va, gate
+in chiusura!"
+"052","(촀\0E siamo pronti!"
+"070","(&촀\0Vuoi spedire il messaggio, ora?"
+"070_a","Sì."
+"070_b","No."
+"080","(촀\0Okappa. A chi vuoi spedirlo?"
+"080_a","Qualcuno sull'isola."
+"080_b","Il mio io futuro."
+"080_c","Uh, non fa niente."
+"200","(%촀\0Okappa. A qualcuno su quest'isola.
+(&촀\0Chi, esattamente?"
+"210_01","Ah, vuoi spedire un messaggio 2\0 s\0촀? No problem!"
+"210_02","(촀\02\02\0 s촀? Ricevuto!"
+"210_03","(촀\02\02\0 n\0 del futuro, allora!"
+"220_01","(%촀\0Scegli un biglietto e poi scrivici
+sopra il tuo messaggio!(촀"
+"220_02","Okappa. 
+\0Ecco il tuo biglietto!"
+"290","(촀\0Mi spiace
+\0 ma sono già sommerso da
+un sacco di messaggi che non
+abbiamo ancora recapitaton\0\0
+(촀\0Ti dispiace tornare un'altra volta,
+\0
+magari quando sarò uscito da
+questa brutta situazione?"
+"320","( 촀\0Per tutte le ali!
+\0 Oggi hai già spedito
+due messaggi a s\0촀.\0\0(\0촀\0Puoi inviarne altri domani,
+\0(촀\0 che ne
+dici di aspettare fino ad allora?"
+"400",""
+"401","(촀\0Okappa, quanto nel futuro devo
+spedire questo messaggio?"
+"402","(&촀\0Vuoi che arrivi in data \0Z$촀 Z#촀
+Z""촀\0￿?"
+"402_a","Sì."
+"402_b","No."
+"410","Per tutte le ali, ho sbagliato
+qualcosa? Dai, riprova."
+"415","(\0촀\0Okappa! No, un attimon\0\0 Pare che tu
+abbia già un messaggio da spedire
+nel futuro 2\0 n\0n\0\0
+()촀\0Se vuoi inviarne un altro, devi prima
+eliminare il precedente."
+"416","(촀\0Volevo restituirti il regalo prima di
+cancellare il messaggio 
+\0(촀\0ma vedo
+che hai già le tasche pienen\0\0
+(7촀\0Mi spiace, torna quando avrai fatto
+un po' di spazio.(\0촀"
+"420","(%촀\0Okappa, messaggio cancellato.
+
+\0(촀\0Sei pront2oa a scriverne un altro?"
+"420_01","(%촀\0Allora cestino il messaggio che
+volevi spedire nel futuro.\0\0(촀\0Prendi questo biglietto e modificalo.
+Così lo mandi al tuo io. Del futuro."
+"421","(\0촀\0Ricevuto.
+\0(%촀\0 Il biglietto aveva un
+regalo allegato, quindi te lo
+restituisco e 
+\0butto il biglietto.
+(촀\0Su, 
+\0scegline uno nuovo."
+"421_01","(\0촀\0Ricevuto.
+\0(%촀\0 Il biglietto aveva un
+regalo allegato, quindi te lo
+restituisco e 
+\0butto il biglietto.
+(촀\0Prendi questo qui e modificalo, poi
+lo spediamo al tuo io futuro."
+"500","Okappa, (촀\0il costo del servizio è di
+\0200 stelline\0￿."
+"501","(촀\0Messaggio spedito! Grazie mille!"
+"502","(촀\0Grazie mille!
+\0 Mi assicurerò di
+spedire il messaggio il giorno che
+hai indicato!"
+"510","(촀\0Oh-oh! 
+\0Non hai abbastanza stelline.
+
+\0((촀\0Torna quando ne avrai \0200\0￿!\0\0Nel frattempo,
+\0 terrò da parte il
+tuo messaggio.
+\0(촀\0 Prometto di non
+sbirciare!"
+"520","(촀\0Ah, rinunci? 
+\0(%촀\0Okappa, ma conserverò
+il messaggio come bozza."
+"521","(촀\0Per ora ti fermi, eh?
+\0(촀\0 D'accordo,
+lascia che salvi il tuo lavoro, così
+ci puoi tornare più tardi."
+"522","(촀\0Hai finito? 
+\0(촀\0Okappa, fammi sapere
+se ti posso aiutare di nuovo."
+"523","(&촀\0Rinunci?
+\0 (촀\0No problem,
+\0 fammi
+sapere se hai di nuovo bisogno
+del mio aiuto."
+"550","($촀\0Ti restituisco anche il regalo che
+era allegato."
+"551","(촀\0Oh! 
+\0C'è un piccolo intoppo. (\0촀\0(2촀\0Non ho
+abbastanza spazio qui per i regali,
+\0
+perciò te lo restituisco."
+"552","(촀\0Sono qui sei hai bisogno di me!"
+"600","(촀\0Volevi scrivere un messaggio?\0\0Ne ho qui uno che volevi inviare 2\0 s\0촀."
+"601","(촀\0Volevi scrivere un messaggio?\0\0(%촀\0Ne ho qui uno che stavi preparando
+per s촀."
+"602","(촀\0Volevi scrivere un messaggio?
+
+\0(%촀\0Qui ne ho uno per il tuo io futuro."
+"604","(촀\0OK, parliamo di nuovo di messaggi.
+
+\0Ho qui un piccolo capolavoro su cui
+stavi lavorando."
+"610","(촀\0Mi spiace ma non posso più inviare
+nulla 2\0 s\0촀.\0\0(&촀\0Vuoi cambiare il destinatario del
+messaggio
+\0 o cestinarlo?"
+"610_a","Cambiare destinatario."
+"610_b","Cestinarlo."
+"611","(촀\0Mi spiace ma non posso più inviare
+nulla 2\0 s촀.\0\0(&촀\0Vuoi cambiare il destinatario del
+messaggio
+\0 o cestinarlo?"
+"611_a","Cambiare destinatario."
+"611_b","Cestinarlo."
+"620","Chi vuoi che sia il destinatario?"
+"620_a","Qualcuno sull'isola."
+"620_b","Il mio io futuro."
+"630","(%촀\0Okappa, allora cestino questo
+messaggio."
+"800","(촀\0Grazie per averci scelto!"
+"801","(%촀\0Okappa. 
+\0Fammi un fischio la
+prossima volta che ti serve
+qualcosa."
+"802","(&촀\0Ah, sei a posto così? 
+\0(촀\0Okappa, torna
+pure quando vuoi."
+"803","(촀\0Okappa!
+\0 Allora conservo il tuo
+messaggio fino alla data di consegna."
+"804","(촀\0Ricevuto!\0\0Per ora tengo il gate aperto,
+\0 ma
+fammi sapere se cambi idea e vuoi
+aiuto con il servizio postale."

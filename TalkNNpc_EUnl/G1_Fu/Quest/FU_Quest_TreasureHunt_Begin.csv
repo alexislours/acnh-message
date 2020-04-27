@@ -1,0 +1,164 @@
+﻿"label","text"
+"001","Wil je met mij(촀\0 op schattenjacht gaan?"
+"001_a","Tuurlijk!"
+"001_b","Een andere keer..."
+"002","Hoe zou je het vinden om (촀\0met mij
+op schattenjacht te gaan?"
+"002_a","Klinkt leuk!"
+"002_b","Een andere keer?"
+"003","(촀\0Ik heb een idee! Heb je zin (촀\0om op
+schattenjacht te gaan?"
+"003_a","Uitstekend idee!"
+"003_b","Nu liever niet."
+"004","(촀\0Geweldig!\0\0(%촀\0Dan mag je even hier wachten terwijl
+($촀\0ik de schat begraaf die jij gaat
+zoeken."
+"005","(촀\0Oké, daar gaan we dan!\0\0(%촀\0Eerst ga ik de schat begraven,
+($촀\0ergens hier op het eilandn"
+"006","(촀\0Dit wordt leuk!\0\0(%촀\0Maar ik heb eerst een momentje
+nodig ($촀\0om de schat ergens te
+begraven!"
+"007","( 촀\0O nee! Is het al zo laat? (촀\0Ik heb niet
+op de tijd gelet.\0\0Sorryn\0\0 ()촀\0We zullen het een andere
+keer moeten doen 
+\0($촀\0en moeten dan
+wat vroeger beginnen."
+"008","(7촀\0Geen probleemn\0\0 Het was maar
+een idee.\0\0(촀\0Misschien komt het een andere keer
+beter uit?"
+"009","(%촀\0Het leek me wel een leuk idee.\0\0(촀\0Misschien kunnen we het een
+andere keer eens proberen!"
+"010","(4촀\0Misschien kwam ik er ook wel wat
+onverwacht meen\0\0\0\0(%촀\0Ik zal het je een andere keer nog
+eens vragen."
+"011","(촀\0Ik zal de regels even uitleggen.
+Z\0\0\0()촀\0Oké
+\0n\0\0 Dus,
+\0 ik heb ergens op het
+eiland een schat begraven.
+\0 (%촀\0Vind die
+voor de tijd om is.
+x\0\0\0()촀\0De schat is buiten begraven,
+\0 dus je
+hoeft niet in gebouwen te zoeken.
+Z\0\0\0(촀\0Laten we dan maar eens aanstalten
+maken,
+\0 n\0!
+Z\0
+"
+"011_01","(촀\0Ik zal de regels even uitleggen.
+Z\0\0\0()촀\0Ik heb ergens op dit eiland
+\0 een schat begraven.
+\0( (촀\0Vind die voor de tijd om is
+en je wint,
+\0 n\0!
+x\0\0\0()촀\0Hij is buiten begraven,
+\0 dus je hoeft
+niet in gebouwen te zoeken.
+Z\0\0\0(9촀\0Niemand die met je samenspeelt,
+mag je helpen,
+\0 maar (촀\0ze mogen je
+natuurlijk wel aanmoedigen.
+Z\0\0\0(촀\0Oké,
+\0 laten we dan maar eens
+aanstalten maken!
+Z"
+"012","(촀\0Ik zal de regels even uitleggen.
+Z\0\0\0()촀\0Oké
+\0n\0\0 ()촀\0Ik heb ergens op dit eiland een
+schat begraven
+\0 en (%촀\0die moet je vinden
+voor de tijd om is.
+x\0\0\0(6촀\0Ik heb de tijd ingekort
+\0 om je een
+grotere uitdaging te geven.
+x\0\0\0()촀\0De schat is buiten begraven,
+\0 dus je
+hoeft niet in gebouwen te zoeken.
+Z\0\0\0(촀\0Laten we dan maar eens aanstalten
+maken,
+\0 n\0!
+Z"
+"012_01","(촀\0Ik zal de regels even uitleggen.
+Z\0\0\0()촀\0Oké
+\0n\0\0 Dus,
+\0 ik heb ergens op het
+eiland een schat begraven.
+\0 (%촀\0Vind die
+voor de tijd om is.
+x\0\0\0(6촀\0Ik heb de tijd ingekort
+\0 om je een
+grotere uitdaging te geven.
+x\0\0\0(9촀\0Niemand die met je samenspeelt,
+mag je helpen,
+\0 maar (촀\0ze mogen je
+natuurlijk wel aanmoedigen.
+Z\0\0\0(촀\0Laten we dan maar eens aanstalten
+maken,
+\0 n\0!
+Z"
+"013","(&촀\0Wil je de regels horen?"
+"013_a","Ja, graag."
+"013_b","Dat is niet nodig."
+"014","(촀\0Oké,
+\0 dan gaan we beginnen.
+\0 Klaar
+voor de start
+\0n\0\0($촀\0 af,
+\0 n\0!
+Z"
+"014_01","(9촀\0Oké,
+\0 maar je vrienden mogen je alleen aanmoedigen, niet helpen!
+\0
+(\0촀\0Klaar voor de start
+\0n\0\0($촀\0 af!
+Z"
+"015","(%촀\0Oké, maar ik verkort je tijd ()촀\0om het
+wat interessanter te maken.
+\0 (촀\0Laten we
+beginnen,
+\0 n\0!
+Z"
+"015_01","Ik geef je minder tijd om te zoeken
+\0
+en geen van de andere spelers mag
+je helpen,
+\0 n\0.
+x\0\0\0(촀\0Begrepen?
+\0 En je begint
+\0n\0\0 nu!
+Z"
+"101","(촀\0Heb je zin om nu met mij
+schattenjacht te spelen?"
+"101_a","Ja, leuk!"
+"101_b","Nu even niet, sorry."
+"102","( 촀\02\0n\0!\0\0(
+촀\0Ik heb zin om een spel te spelenn\0\0
+(촀\0O, ik heb een idee!\0\0(촀\0Heb je zin om (&촀\0op schattenjacht
+te gaan, nu meteen?"
+"102_a","Wat een goed idee!"
+"102_b","Liever niet..."
+"103","( 촀\0Wacht, is het echt al zo laat?
+\0 (촀\0Sorryn\0\0
+Laten we het een andere keer doen
+en dan wat vroeger beginnen."
+"104","(촀\0Geweldig!\0\0(%촀\0Ik ga op zoek naar een plek op het
+eiland ($촀\0om de schat te begraven!"
+"105","(7촀\0Geen probleem, het was maar een
+idee.\0\0(촀\0Misschien een andere keer?"
+"106","(촀\0O nee, moet je eens kijken hoe laat
+het is! (촀\0En ik had nog wel zoveel zin
+om te spelenn\0\0\0\0(4촀\0Sorry, maar we zullen het een andere
+keer moeten spelen, wanneer we wat
+vroeger kunnen beginnen."
+"107","(촀\0Hoera! Ik heb er zo'n zin in!(촀\0\0\0(%촀\0Wacht hier, dan zoek ik een plek om
+($촀\0de schat voor je te begraven!"
+"108","(4촀\0O, dat is jammer.\0\0(촀\0Dan misschien een andere keer."
+"200","(촀\0Het spijt me. 
+\0Ik heb het hele eiland
+afgezocht, (촀\0maar ik kon geen goede
+plek vinden om de schat te begraven.
+(촀\0Het was mijn idee, dus ik voel me
+best schuldig.
+\0 (촀\0Laten we het maar
+een andere keer doenn"

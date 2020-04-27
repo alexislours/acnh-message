@@ -1,0 +1,128 @@
+﻿"label","text"
+"001","(8촀\0Sono sempre un poquito agitado
+quando sono in campeggio.
+\0 Non so
+mai bene che fare, n\0.
+(촀\0Così mi è venuta un'idea! 
+\0Facciamo
+un giocon\0\0
+\0 e se vinci tu,
+\0 ti do 2""촀il miola mia\0
+}\0\0!"
+"001_a","OK, ci sto!"
+"001_b","Magari dopon"
+"002","(촀\0Evvai! 
+\0(
+촀\0Vuoi che ti spieghi le regole?"
+"002_a","Sì, grazie!"
+"002_b","No, non serve."
+"003","(촀\0Adesso no, eh?
+\0((6촀\0 Bueno, ne riparliamo
+un'altra volta!"
+"004","(<촀\0OK, allora io mescolo!"
+"005","(6촀\0E ora vediamo chi è fortunaton\0\0
+\0(
+촀\0
+e chi invece NOn"
+"006_01","(9촀\0Io sono 2\0n\0 di parola.\0\0(촀\0Spero che ti godrai muchissimo
+2""촀il miola mia\0 }\0\0!"
+"006_02","(%촀\0Beh, è giusto così.
+\0 Spero che 2""촀il miola mia\0 }\0\0 ti farà comodo!"
+"006_03","(촀\0Da paura,
+\0 ho vinto io! 
+\0(촀\0E tu resti a
+secco! 
+\0(2촀\0Es decirn\0\0
+\0 ti andrà meglio
+la prossima volta, n\0!"
+"007_01","(촀\0Oggi non era la mia giornata, man\0\0
+tieni gli occhi aperti: la prossima
+volta farò scintille, n\0!"
+"007_03","(9촀\0E recuerda che vincere è più bello se
+ogni tanto si perde.
+\0 No problemon\0\0(촀\0
+le mie perle di saggezza sono gratis!"
+"008","(촀\0Bueno, 
+\0(촀\0possiamo iniziare!\0\0('촀\0Fermi tutti!
+\0(촀\0 Pare che tu non abbia abbastanza spazio per 2""촀il miola mia\0 }\0\0.
+Devi fare un po' di spazio nelle
+tasche.(1촀\0 Io, nel frattempo, aspetto
+aquín\0\0
+\0 (촀\0Vai!"
+"100","(%촀\0El juego funziona così.
+\0 ()촀\0Le mie carte
+sono di quattro semi diversi:
+\0 cuori \0♥\0￿,
+quadri \0♦\0￿,
+\0 picche \0♠\0￿ e fiori \0♣\0￿.
+(6촀\0Io pescherò, muy elegantemente,
+\0
+una carta e tu dovrai indovinare
+di che seme è. 
+\0Fin qui todo claro?
+(촀\0Se indovini, ti becchi 2""촀il miola mia\0 }\0\0.\0\0(<촀\0Dai, 
+\0vamos a incominciare!"
+"101","(9촀\0Perfecto, ho pescato una cartan\0\0\0\0(&촀\0Di che seme è?
+\0( Cuori \0♥\0￿, quadri \0♦\0￿,
+picche \0♠\0￿ o fiori \0♣\0￿?"
+"101_a","Cuori \0♥\0￿!"
+"101_b","Quadri \0♦\0￿!"
+"101_c","Picche\0 ♠\0￿!"
+"101_d","Fiori\0 ♣\0￿!"
+"102_01","\0
+\0(촀\0Uaaaaau! È 촀!
+\0
+	\0\0\0\0d\0d(촀\0Hai indovinato!\0d"
+"102_02","\0
+\0È (촀\0촀!
+\0
+	\0\0\0\0d\0d(촀\0Oh, n\0n\0\0
+\0 Lo siento mucho.\0d"
+"200","(%촀\0El juego funziona così.
+\0 ()촀\0Le mie carte
+sono di quattro semi diversi:
+\0 cuori \0♥\0￿,
+quadri \0♦\0￿,
+\0 picche \0♠\0￿ e fiori \0♣\0￿.
+(촀\0Io pescherò una carta e tu dovrai
+indovinare di che colore è il suo
+seme!
+(촀\0Per esempio:
+\0 tu dici \0rosso \0￿e la carta
+è cuori \0♥\0￿ o quadri \0♦\0￿? 
+\0((촀\0Ti aggiudichi
+2""촀il miola mia\0 }\0\0!
+(<촀\0Dai,
+\0 vamos a incominciare!"
+"201","(3촀\0La mia carta è prontan\0\0\0\0(&촀\0Di che colore pensi sia il suo seme?
+\0
+\0Rojo\0￿ como la passion o \0negro\0￿ como
+la noche?
+(촀\0Ah ah ah! Lo so, sono un poeta!
+
+\0Ma tornando a noin\0\0
+\0 (&촀\0Quale
+colore scegli?
+\0 \0Rosso \0￿o \0nero\0￿?"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","\0
+\0È (촀\0촀n\0\0
+\0 ed è \0rosso\0￿!
+\0(
+	\0\0\0(5촀\0\0dRisposta esatta, n\0."
+"202_02","\0
+\0È (촀\0촀n\0\0
+\0( ed è \0nero\0￿!
+\0
+	\0\0\0\0d\0d(촀\0Lo siento, n\0.\0d"
+"202_03","\0
+\0È (촀\0촀n\0\0
+\0( ed è \0nero\0￿!
+\0
+	\0\0\0(5촀\0\0dLa risposta è esatta, n\0."
+"202_04","\0
+\0È (촀\0촀n\0\0
+\0( ed è \0rosso\0￿!
+\0
+	\0\0\0(촀\0\0dLo siento mucho, \0dn\0.\0d"

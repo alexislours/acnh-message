@@ -1,0 +1,312 @@
+﻿"label","text"
+"001","(촀\0Oho! Curious about bridges and
+inclines, eh?
+\0 Excellent! Becausen\0\0\0\0(\0촀\0with the renovation of Resident
+Services, we have something new for
+getaway-package participants.
+(촀\0This new service makes it easy and
+fun to add major projects such as
+bridges and inclines to the island.
+(촀\0Major projects don't come cheaply,
+though, no, no!\0\0(촀\0However, everyone who lives on the
+island can freely contribute toward
+the construction fees.
+(촀\0We can discuss your island hopes
+and dreams even if you don't quite
+have the funds together yet.
+(촀\0Be advised, you can only have
+either a bridge or an incline under
+construction at any given time.
+(촀\0So consider your plans carefully
+before discussing them with me, hm?"
+"002","(촀\0Nown\0\0
+\0(&촀\0 What would you like
+to discuss?"
+"002_a","Let's build a bridge."
+"002_b","Let's make an incline."
+"002_c","Demolish something."
+"002_d","Nothing, thanks."
+"003","(촀\0Bridges and inclines, hm?
+\0(&촀\0 How can I
+help you?"
+"003_a","Let's build a bridge."
+"003_b","Let's make an incline."
+"003_c","Demolish something."
+"003_d","Not now."
+"004","(촀\0Understood, understood.
+\0((\0촀\0 Do come
+back whenever you want to talk
+about(""촀\0 bridges or inclines."
+"101","(촀\0Oho, you'd like a new bridge, hm?
+\0(
+Ah, yes.(촀\0 Bridges are a good way to
+connect land separated by rivers."
+"102","(촀\0Go ahead and pick one from our
+catalog, please."
+"103","(촀\02\02\0}\0\0!
+\0
+And you're sure about this? You
+want to proceed with this bridge?"
+"103_a","Yes, please!"
+"103_b","Actually, scratch that."
+"104","(촀\0Excellent!
+\0(\0촀\0 In that case,
+\0(촀\0 let's settle on
+a location next.\0\0(\0촀\0Use the \02\0Ā촃bridge marker kit\0￿(촀\0 I've placed
+within your pockets to set aside
+some land for our bridge project."
+"105","(\0촀\0Use your kit near a river
+\0(촀\0 and you'll
+be able to imagine how a bridge
+will look."
+"106","(촀\0Excellent! 
+\0Orn\0\0(&촀\0maybe not?
+\0
+Your pockets are quite full at
+the moment, n\0.
+(\0촀\0I need to give you a special
+\02\0Ā촃bridge marker kit(촀\0\0￿ so you can set
+aside a place for the new bridge.
+(\0촀\0If you would be so kind, make some
+room in your pockets,(촀\0 and then come
+back to talk about this with me again."
+"107","(촀\0My, my! Changed your mind?
+\0( (\0촀\0It is a
+rather large project, after all.
+\0 (촀\0It's a
+good idea to think it through."
+"108","(
+촀\0Oh myn\0\0 It seems we already have
+\08 bridges\0￿ on this island.
+\0 That's about
+\0
+(촀\0as many as our little isle can handle.
+(\0촀\0If you really want a new bridge,
+\0 we'll
+(촀\0need to \0demolish\0￿ one of the existing
+ones first. Then we can talk!"
+"201","(촀\0Oho, curious about setting up an
+incline?(촀\0 Ramps and stairs make it
+easier to ascend our cliffs! Yes, yes!"
+"202","(촀\0Go ahead and pick one out of our
+catalog, please."
+"203","(촀\02\02\0}\0\0!
+\0
+And you want to proceed with
+the construction of this incline?"
+"203_a","Yes, please!"
+"203_b","Actually, scratch that."
+"204","(촀\0Excellent!
+\0(\0촀\0 In that case,
+\0(촀\0 let's settle on
+a location next.\0\0(\0촀\0Use the \02\0Ȁ촃incline marker kit\0￿(촀\0 I've placed
+within your pockets to set aside
+some land for our incline project."
+"205","(\0촀\0You'll want a decent amount of space
+to use it. And make sure you're
+standing near the \0base of the cliff\0￿.
+(촀\0When you're ready, you'll be able to
+imagine what your new incline will
+look like."
+"206","(촀\0Excellent! 
+\0Orn\0\0(&촀\0maybe not?
+\0
+(촀\0Your pockets are quite full at
+the moment, n\0.
+(\0촀\0I need to give you a special
+\02\0Ȁ촃incline marker kit(촀\0\0￿ so you can set
+aside a place for the new incline.
+(\0촀\0If you would be so kind, make some
+room in your pockets,(촀\0 and then come
+back to talk about this with me again."
+"207","(촀\0My, my! Changed your mind?
+\0( (\0촀\0It is a
+rather large project, after all.
+\0 (촀\0It's a
+good idea to think it through."
+"208","(
+촀\0Oh myn\0\0 It seems we already have
+\08 inclines\0￿ on this island.
+\0 That's about
+\0
+(촀\0as many as our little isle can handle.
+(\0촀\0If you really want a new one,
+\0 we'll
+(촀\0need to \0demolish\0￿ one of the existing
+inclines first. Then we can talk!"
+"301","(촀\0Hm?
+\0((촀\0 You want to demolish
+something?\0\0(촀\0Well, I can certainly understand
+wanting to make the most of the
+space we have on our lovely island.
+(\0촀\0Of course, removing a bridge or
+incline does come with a small
+demolition fee of (촀\0Z\0."
+"302","(
+촀\0Our island doesn't have any bridges
+or inclines at the moment, 
+\0(촀\0so there's
+nothing I can help demolish.
+(:촀\0But for future reference, demolished
+bridges and inclines can't be
+restored.(촀\0 So think carefully!"
+"303","(촀\0Demolished bridges and inclines
+can't be restored!
+\0(\0촀\0 So I implore you,
+make such decisions very carefully.
+Knowing that,
+\0(&촀\0 are you still interested
+in demolishing something?"
+"303_a","You bet I am!"
+"303_b","Nope. No way."
+"304","(촀\0Oh?(촀\0 Demolition?
+\0(촀\0 Well, I guess we do
+have a number of structures on the
+island.
+\0(%촀\0 This was bound to happen."
+"305","It comes down to bridges or inclines.
+
+\0(촀\0So, what are we going to demolish?"
+"306","You want to demolish 
+2\0}\0\0?\0\0(\0촀\0There will, of course, be a small
+(촀\0demolition fee of Z\0.
+\0
+(&촀\0Are you sure about this?"
+"306_01","You want to demolish 
+2\0}\0\0?\0\0(\0촀\0There will, of course, be a small
+(촀\0demolition fee of Z\0.
+\0
+(&촀\0Are you sure about this?"
+"306_01_a","Well, now I don't know."
+"306_01_b","Demolish! Demolish!"
+"306_a","Well, now I don't know."
+"306_b","Demolish! Demolish!"
+"307","(%촀\0Message received, loud and clear!
+\0
+(\0촀\0I'll start the necessary paperwork,
+(촀\0and it should be gone by tomorrow."
+"308","(&촀\0Changed your mind, hm?
+\0(촀\0 Welln\0\0we
+did go through all the trouble to
+build it in the first place.
+
+\0((""촀\0But if you decide it really does need
+to go, I'm here to help you with that."
+"309","(&촀\0Hm? 
+\0What?
+\0((\0촀\0 Would you believe 
+\0(촀\0there
+isn't a single bridge or incline
+to demolish right now?
+(촀\0Still, demolition is a good thing to
+keep in mind for when we do have
+such structures.
+\0 It's all a cycle, hm?"
+"310","(%촀\0Message received, loud andn\0\0
+\0(\0촀\0 Wait.
+\0
+It looks like you don't have the Bells
+to cover demolition costs.\0\0(촀\0These things do have a price.
+\0(""촀\0 So feel
+free to come back when you have the
+needed funds on you."
+"401","(촀\0Ah, n\0,
+\0 looking for a
+location to install our new
+}\0\0, yes?
+(&촀\0How can I help?"
+"401_a","Give me pointers!"
+"401_b","Let's not build it."
+"401_c","Nothing, I'm good."
+"402","(\0촀\0There are a few things to think about
+when selecting a location for bridge
+construction.
+\0(%촀\0 We want to get it right!\0\0(촀\0It's a lot like setting up a tent. Let's
+start by talking a little bit about the
+\02\0Ā촃bridge marker kit \0￿I gave you.
+()촀\0Just find a good spot, face the river,
+(촀\0and deploy!\0\0(\0촀\0However, 
+\0(
+촀\0if the river is too wide or
+too narrow, or(촀\0 if the bank is uneven,
+it's not going to work.
+(\0촀\0And thatn\0\0
+\0(촀\0is just about everything I
+know about bridge construction."
+"402_01","(\0촀\0There are a few things to think about
+when selecting a location for incline
+construction. We want to get it right!\0\0(촀\0It's a lot like setting up a tent. Let's
+start by talking a little bit about the
+\02\0Ȁ촃incline marker kit \0￿I gave you.
+()촀\0Just find a good spot at the \0base of a
+cliff\0￿,(촀\0 and deploy!\0\0(\0촀\0Everything should go swimmingly as
+long as (""촀\0you have a decent amount of
+space to work with.
+(\0촀\0And thatn\0\0
+\0(촀\0is just about everything I
+know about incline construction."
+"403","(\0촀\0I'm excited to see where our new
+(촀\0}\0\0 will go!"
+"404","(&촀\0Oh? You want to cancel the project?
+\0
+(촀\0Well then, I'll take back the unused
+}\0\0."
+"405","(\0촀\0Well then,(촀\0 good luck on your
+location hunt for the
+}\0\0!"
+"501","(촀\0Ah 
+\0(well, right now we are collecting
+funds in order to build our new
+}\0\0.
+As such, 
+\0I'm not discussing other
+changes,
+\0 but (&촀\0what's on your mind?"
+"501_a","Let's not build it."
+"501_b","Nothing, I'm good."
+"502","(촀\0Come again?
+\0( You want to halt
+construction of our new
+}\0\0?
+(촀\0That means the donations made so
+far will go to waste!
+\0(&촀\0 Are you sure
+about this? Really sure?"
+"502_a","Actually, let's keep it."
+"502_b","Shut it down!"
+"503","Understood!
+\0(촀\0 I'll have the site cleaned
+up by tomorrow, then."
+"504","(촀\0Understood!
+\0((\0촀\0 Donations for the
+project can be made with the gyroid
+on-site.
+\0(촀\0 Please help as you can."
+"603","(촀\0Ah, you want to talk about bridges
+or inclines, hm?
+\0 At the moment,
+I can't discuss any changes.\0\0()촀\0You see, my hands are full getting
+things ready to build our new
+}\0\0.
+(\0촀\0We met our donation goal, and
+(촀\0construction should be done by
+tomorrow.
+\0(""촀\0 Let's talk after that!"
+"604","(촀\0Ah, you want to talk about bridges
+or inclines, hm?
+\0 At the moment,
+I can't discuss any changes.\0\0()촀\0My hands are full since we're
+getting ready to shut down the site
+for the }\0\0.
+(\0촀\0Everything should be taken care of
+by tomorrow,
+\0(촀\0 so let's talk after that!"
+"605","(촀\0Ah, you want to talk about bridges
+or inclines, hm?
+\0 At the moment,
+I can't discuss any changes.\0\0(\0촀\0You see, my hands are full since
+we're getting ready to tear down
+2\0}\0\0.
+(촀\0Demolition should be done by
+tomorrow, so
+\0(""촀\0 let's chat after that!"

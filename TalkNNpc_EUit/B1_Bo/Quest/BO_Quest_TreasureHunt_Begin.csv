@@ -1,0 +1,217 @@
+﻿"label","text"
+"001","(촀\0Ehi, hai un minuto?
+\0 Ti andrebbe di
+partecipare a una caccia al tesoro
+con me?"
+"001_a","Certamente!"
+"001_b","Facciamo più tardi."
+"002","(
+촀\0Ti stai annoiando? 
+\0Io tantissimo.
+Ho già riletto tutti i miei fumetti
+due volte...\0\0(촀\0Che ne dici di una caccia al tesoro?"
+"002_a","Perché no?"
+"002_b","Adesso non posso."
+"003","(촀\0Mi è appena venuta un'idea troppo
+mitica: 
+\0una caccia al tesoro! 
+\0(촀\0Hai
+voglia di partecipare?"
+"003_a","Buona idea!"
+"003_b","Meglio di no."
+"004","(촀\0Benissimo!
+\0( Vado a seppellire un
+tesoro da qualche parte sull'isola.
+
+\0Non muoverti da qui!"
+"005","(촀\0Bene!
+\0( Stai ferm2oa qui mentre vado
+
+\0(a seppellire il tesoro."
+"006","(촀\0Evvai! 
+\0Vado a seppellire un pacco
+regalo pieno di succulenti tesori
+
+\0da qualche parte qui sull'isola."
+"007","(촀\0Aaah, 
+\0che peccato, si è fatto tardi!
+\0
+(7촀\0Ho paura che sia troppo buio 
+\0per
+andarsene in giro a seppellire tesori.
+\0 
+Tra l'altro, è anche l'ora dello
+spuntino. 
+\0(촀\0Ma non temere, 
+\0la nostra
+caccia al tesoro è solo rimandata!"
+"008","(촀\0OK, 
+\0magari facciamo un'altra volta,
+n\0!"
+"009","(%촀\0Non c'è problema! 
+\0(Faremo la caccia
+al tesoro quando sarai meno
+impegnat2oa, n\0!"
+"010","Non preoccuparti. 
+\0(7촀\0Vorrà dire che
+andrò a farmi un bello spuntino,
+n\0!"
+"011","(촀\0OK, le regole sono molto semplici!
+\0
+x\0\0\0()촀\0Io seppellisco un tesoro da qualche
+parte. 
+\0Se tu riesci a trovarlo prima
+che scada il tempon\0\0 (촀\0vinci!
+´\0\0\0(촀\0Il tesoro può essere sepolto solo
+all'esterno, 
+\0('촀\0quindi evita di andare
+a scavare in casa della gente.
+´\0\0\0(촀\0E questo è tutto! Sei pront2oa a dare
+la caccia al tesoro?
+ð"
+"011_01","(촀\0Le regole sono facili. Lo so perché
+le ho fatte io.
+\0(촀\0
+<\0\0\0()촀\0Devi trovare il tesoro che ho
+seppellito prima che scada il tempo.
+
+\0(촀\0Se ce la fai, vinci!
+Z\0\0\0(촀\0Il tesoro è sepolto nel terreno,
+non in casa. E la maggior parte della
+gente non tiene il terreno in casa.
+Z\0\0\0(9촀\0Alla maggior parte della gente
+non piacciono le buone idee,
+evidentemente.
+Z\0\0\0(촀\0Comunque! 
+\0Questo è il nostro
+gioco personale, 
+\0(""촀\0quindi gli altri
+non possono aiutare. Solo guardare!
+Z\0\0\0OK! Pronti,
+\0 partenza, 
+\0(촀\0viaaaaaa!
+x"
+"012","(촀\0Le regole sono semplicissime.
+\0(촀\0
+x\0\0\0()촀\0Devi trovare un tesoro sepolto
+prima dello scadere del tempo!
+´\0\0\0(%촀\0Si gioca solo all'aria aperta,
+\0
+quindi stai lontan2oa dalle case!
+´\0\0\0(촀\0Tra l'altro la gente odia che gli si
+scavino buche in casa. Fidati, 
+\0lo so
+per esperienza personale!
+´\0\0\0Questa volta hai meno tempo
+a disposizione, quindi dacci
+dentro!
+\0( Bene, 
+\0sei pront2oa?
+ð"
+"012_01","(촀\0Le regole sono semplicissime!
+\0(촀\0
+<\0\0\0()촀\0Se trovi il tesoro che ho sepolto
+
+\0prima che scada il tempo,
+\0 (촀\0vinci! Tutto qui! Queste sono le regole!
+Z\0\0\0(%촀\0Oh. C'è anche la regola che il
+tesoro si trova sottoterra,
+\0 quindi
+non cercarlo negli edifici.
+Z\0\0\0(9촀\0Ah sì! C'è un'ultima regola, ossia
+che questo è il nostro gioco,
+\0(""촀\0 quindi
+nessuno ti può aiutare!
+Z\0\0\0(촀\0Questa volta hai meno tempo per
+cercare, quindi sbrigati e buona
+fortuna!
+\0( Bene, 
+\0si parteeeeeee!
+x"
+"013","Mmm, 
+\0(&촀\0conosci già le regole della
+caccia al tesoro?"
+"013_a","No, spiegamele!"
+"013_b","(\0촀\0Sì!"
+"014","(촀\0Bene, 
+\0buona fortuna, allora!
+\0(
+(촀\0
+\0Preparati!
+ð"
+"014_01","(촀\0Ottimo.
+\0 Buona fortuna! 
+\0()촀\0Ah sì, ricorda
+che il tesoro lo puoi disseppellire
+solo tu!
+Z\0\0\0(촀\0Bene,
+\0 preparati, n\0!
+Z"
+"015","(촀\0Hai poco tempo a disposizione,
+\0
+quindi non sarà facile! 
+\0((촀\0Sei pront2oa?
+
+\0Buona fortuna!
+ð"
+"015_01","(촀\0Hai meno tempo per cercare,
+\0
+quindi potrebbe essere difficile!
+Z\0\0\0()촀\0Ah sì, solo tu puoi disseppellire
+il tesoro!
+\0( (""촀\0Tutti gli altri guardano e
+basta, OK?
+Z\0
+(촀\0Bene.
+\0 In bocca al lupo, n\0!
+Z"
+"101","(촀\0Ciao, n\0!
+
+\0(촀\0Sono felice di vedertin\0\0
+
+\0mi stavo annoiando tanto!\0\0(4촀\0Sei liber2oa?
+\0 Ti va di fare un gioco?
+
+\0(촀\0Che ne dici di una caccia la tesoro?"
+"101_a","Ottima idea!"
+"101_b","Ora non posso..."
+"102","(
+촀\0Sto cercando 
+\0di decidere a cosa
+giocare adesson\0\0\0\0(촀\0Ehi, 
+\0n\0?
+\0(
+(촀\0Vuoi fare una caccia al tesoro?"
+"102_a","Certo!"
+"102_b","Ora non ho voglia."
+"103","(촀\0Un secondo, 
+\0è già buio e (촀\0non si
+vede niente.
+\0 Dovremo rimandare
+la caccia al tesoro, n\0!"
+"104","(촀\0Bene, 
+\0sapevo che avresti accettato!
+
+\0(촀\0OK, dammi un minuto, che vado
+a seppellire il tesoro.
+(6촀\0Tu stai ferm2oa quin\0\0 e non spiare!"
+"105","(촀\0OK, 
+\0non c'è problema!
+\0( Sarà per
+la prossima volta, n\0!"
+"106","(촀\0Caspitina! 
+\0Non si vede nullan\0\0
+Non possiamo giocare a quest'ora.
+
+\0('촀\0Ci riproviamo di giorno?"
+"107","(촀\0Mitico!
+\0( ()촀\0Vado a seppellire
+il tesoro!"
+"108","Ho capiton\0\0 (촀\0Dai, giocheremo un'altra
+volta!"
+"200","(촀\0Ho cercato per tutta l'isola, ma
+non sono riuscito a trovare un
+posto adatto a seppellire il tesoro!\0\0(7촀\0E una caccia al tesoro senza tesoro
+sarebbe come una merendina senza
+ripieno, 
+\0no?"

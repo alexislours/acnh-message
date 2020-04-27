@@ -1,0 +1,636 @@
+﻿"label","text"
+"000","Nanu? 
+\0„Kein Empfang“n\0\0
+\0 Hmmm...
+\0
+Funktioniert wohl hier nicht."
+"001","\0Notrettung\0￿ rufen?"
+"001_a","(\0촁\0Ja"
+"001_b","(\0촁\0Nein"
+"010","                    
+\0d\0d\0\0Bis dann!\0ddd
+"
+"011","d\0
+\0　　　　　　　 \0Tag!\0d
+\0\0\0Hier spricht die \0Notrettung\0￿.
+\0
+Spezialisten für Klemmen,
+\0 Miseren
+und ähnliche Bredouillen.d"
+"011_01","d\0Also,
+\0 wer ist denn dort bitte?
+\0
+Moment, mal sehenn\0\0d
+"
+"011_02","d\0Du befindest dich geraden\0\0d
+"
+"012","d\0Was zum...?!
+\0 Pah! Schöner Käse.
+\0
+Das Signal springt ja wie verrückt
+durch die Gegend!d"
+"012_01","d\0Hör mal, du! 
+\0Kann es sein, dass du
+im Moment irgendwen von einer
+anderen Insel zu Besuch hast?\0\0Dann ist der Fall nämlich klar.
+\0
+Die Signale geraten durcheinander!
+\0
+Grah, das weiß doch jeder!\0\0Na, egal. 
+\0Wenn's echt ein Notfall ist,
+\0
+dann öffne mit \0\0￿ dein Menü und
+wähle dort \0Schluss machen\0￿.
+\0 Klaro?d"
+"012_02","d\0Hör mal!
+\0 Kann es sein,
+\0 dass du im
+Moment auf einer anderen Insel zu
+Gast bist?
+\0 ...Was?
+\0 Bist du?
+\0 Pah!\0\0Einfach so von Insel zu Insel hüpfen,
+\0
+das gibt doch totalen Signalsalat!
+\0
+Und ich schau hier in die Röhre!\0\0Da ist doch klar wie dicke Torferde,
+\0
+dass das mit dem Abtransport nicht
+funktioniert!
+\0 Gah!\0\0Na, ich sag dir was.
+\0 Wenn's wirklich
+ein Notfall ist, 
+\0öffne mit \0\0￿ das Menü
+und wähle \0Zurück auf meine Insel\0￿!d"
+"013","d\0Moment... 
+\0Sag mal,
+\0 befindest du
+dich etwa gerade in einem Gebäude?
+\0
+Mit Dach und Wänden und so?\0\0Bedaure, 
+\0aber unser Rettungsdienst
+rückt nur an,
+\0 wenn irgendwer im
+Freien feststeckt.
+\0 Nicht drinnen!\0\0Oder sollen wir dich durchs Dach
+hochziehen?
+\0 Und die Rübe macht
+Bekanntschaft mit der Decke?
+\0 Eben!\0\0Erst rettest du dich nach draußen,
+\0
+dann rettet dich der Rettungsdienst.
+\0
+Einfach, oder?
+\0 Und jetzt tschau!d"
+"021_01","d\02\0n\0 von n\0,
+\0 ja? (%촁\0
+\0Verstehe.d"
+"021_02","d\0Ach, 
+\0n\0 von n\0 wieder? (%촁\0
+\0Na, 
+\0wenn's sein muss...d"
+"021_03","d\0Bitte?
+\0 2\0n\0 schon wieder? 
+\0Du ziehst den Ärger ja geradezu magisch an,
+\0 was?(%촁\0d"
+"022","d\0Bist zum ersten Mal dabei, wie?
+
+\0Dann spitz die Lauscherchen,
+\0 ich
+erkläre dir jetzt,
+\0 wie die Sache läuft!\0\0Wir helfen Leuten, die in irgendeiner
+Weise feststecken – 
+\0egal, wie sie's
+fertiggebracht haben.\0\0Du sagst mir einfach Bescheid,
+\0
+dann macht's einmal kurz SCHWUPP!
+n\0\0
+\0und schon bist du in Sicherheit.\0\0...Bitte?
+\0 Wie genau das funktioniert?
+
+\0Auf re-
+\0vo-
+\0lu-
+\0tio-
+\0näre Weise. 
+\0Mehr
+sag ich nicht.
+\0 Betriebsgeheimnis.d"
+"023_01","d\0Ganz umsonst läuft die Sache
+aber nicht.
+\0 Pro Rettung musst du
+\0100\0￿ Meilen latzen!
+\0 Na,
+\0 abgemacht?d"
+"023_01_a","(%촁\0Ja, bitte!"
+"023_01_b","('촁\0Dann doch nicht."
+"023_02","d\0Kleine Rettung gefällig?
+\0
+Kostet \0100\0￿ Meilen,
+\0 der Spaß!d"
+"023_02_a","(%촁\0Ja, bitte!"
+"023_02_b","('촁\0Dann doch nicht."
+"023_03","d\0Ach so, 
+\0letztes Mal hattest du ja gar
+nicht genug Meilen auf dem Konto!
+\0
+Hoffe mal,
+\0 du bist wieder flüssig!\0\0Eine Rettung kostet nämlich
+\0100\0￿ Meilen. 
+\0Was sagste,
+\0
+ist das genehm?d"
+"023_03_a","(%촁\0Ja, bitte!"
+"023_03_b","('촁\0Dann doch nicht."
+"031_01","d\0Bitte? 
+\0Jetzt plötzlich doch nicht?!d"
+"031_02","d\0Was? 
+\0Jetzt plötzlich doch nicht?!
+\0(
+Keine Angst, 
+\0wegen der Meilen vom
+letzten Mal bin ich nicht stinkig!d"
+"032_01","d\0Na gut,
+\0 von mir aus. 
+\0Aber wenn du
+mal echt in Schwierigkeiten steckst,
+\0
+spar bloß nicht am falschen Ende!d"
+"032_02","d\0Keine Angst,
+\0 falls du nicht genug
+Meilen hast oder so!
+\0 Da kann man
+immer ein bisschen was drehen.
+Also keine Scheu.
+\0 Wenn du wirklich,
+\0
+wirklich in Schwierigkeiten steckst,
+\0
+dann meld dich hier bei mir,
+\0 kapiert?d"
+"041_01","d\0Schlaues Köpfchen.
+\0 Gut,
+\0 dann
+lass mal \0100\0￿ Meilen rüberwachsen!d"
+"041_02","d\0Sehr vernünftig.
+\0 Und hat man Worte, 
+\0
+diesmal kannst du ja sogar bezahlen!
+Dann 
+\0\0100\0￿ Meilen bitte, 
+\0Firma dankt!d"
+"042_01","d\0Gute Wahl.
+\0 So, dann lass mal flott
+meine \0100\0￿ Meilen rüberwachsen
+und wir machen uns auf dn\0\0d
+K"
+"042_02","d\0
+
+\0
+\0(촁\0　　d촀\0Heilige Hügelwiese!\0d
+\0
+	\0\0\0(\0촁\0Willst du mich verhohnepiepeln?!
+\0
+Deine Meilen reichen ja gar nicht!
+\0
+Meilenweit davon entfernt!\0\0Da platzt einem doch...
+\0 Puh, 
+\0ruhig
+bleiben. 
+\0Ist ja ein Notfall und so.
+
+\0Gut,
+\0 dann halt diesmal umsonst...d"
+"042_03","d\0
+
+\0
+\0(촁\0　   d촀\0Gütige Grabekralle!\0d
+\0
+	\0\0\0(\0촁\0Du hast ja SCHON WIEDER zu wenig
+Meilen!
+\0 Das machst du doch extra,
+\0
+könnte man meilen.
+\0 Äh,
+\0 meinen.\0\0Sei froh,
+\0 dass ich auf meinen
+Blutdruck achte,
+\0 sonst würde ich
+mich VERGESSEN,
+\0 weißt du das?\0\0Na ja.
+\0 Ist ja ein Notfall.
+\0 Was soll's.
+\0
+Gut, hol ich dich eben WIEDER MAL
+umsonst aus deiner Misere...d"
+"042_04","d\0Aber dafür entscheide ich selbst,
+\0
+wo ich dich absetze,
+\0 klar?
+\0 ICH!
+\0
+Und WEHE,
+\0 es wird gemeckert!d"
+"043","d\0Ach so, 
+\0stopp.
+\0
+Bist ja in Begleitung.
+\0
+Das ändert die Sache so ein wenig.
+
+\0Bei mehreren Leuten soll ich den
+\0Festplatz \0￿anfliegen zum Absetzen!
+\0
+Sind ja keine Taxifirma hier.d"
+"044_01","d\0Alles klärchen? Spitze.
+\0
+Dann sag mal, 
+\0wohin soll die Reise
+denn gehen?d"
+"044_01_a","Nach Hause."
+"044_01_b","Zum Festplatz."
+"044_01_c","Zum Flughafen."
+"044_01_d","('촁\0Ich bleib doch hier."
+"044_02","d\0Alles klärchen? Spitze.
+\0
+Dann sag mal, 
+\0wohin soll die Reise
+denn gehen?d"
+"044_02_a","Zu meinem Zelt."
+"044_02_b","Zum Festplatz."
+"044_02_c","Zum Flughafen."
+"044_02_d","('촁\0Ich bleib doch hier."
+"044_03","d\0Alles klärchen? Spitze.
+\0
+Dann sag mal, 
+\0wohin soll die Reise
+denn gehen?d"
+"044_03_a","Nach Hause."
+"044_03_b","Zum Festplatz."
+"044_03_c","Zum Laden."
+"044_03_d","Zum Flughafen."
+"044_03_e","('촁\0Ich bleib doch hier."
+"045","d\0Ach so.
+\0 Du scheinst noch keinen
+festen Wohnort zu haben.
+\0
+Wo soll's denn dann hingehen?d"
+"045_a","Zum Festplatz."
+"045_b","Zum Flughafen."
+"045_c","('촁\0Ich bleib doch hier."
+"046","d\0Ach so.
+\0 Du scheinst noch keinen
+festen Wohnort zu haben.
+\0
+Wo soll's denn dann hingehen?d"
+"046_a","Zum Festplatz."
+"046_b","Zum Laden."
+"046_c","Zum Flughafen."
+"046_d","('촁\0Ich bleib doch hier."
+"047","d\0Alles klärchen? Spitze.
+\0
+Dann sag mal, 
+\0wohin soll die Reise
+denn gehen?d"
+"047_a","Zu meinem Zelt."
+"047_b","Zum Festplatz."
+"047_c","Zum Laden."
+"047_d","Zum Flughafen."
+"047_e","('촁\0Ich bleib doch hier."
+"048","d\0Ohn\0\0
+\0 Du reist wohl grad durch
+die Weltgeschichte, 
+\0was?\0\0Viel gibt meine Karte nicht her,
+\0
+aber wir könnten dich \0beim Flugzeug
+\0￿absetzen. 
+\0Einverstanden?d"
+"048_a","Ja, bitte!"
+"048_b","('촁\0Ich bleib doch hier."
+"050_01","d\0Du willst zu deinem Zelt?
+\0
+Gut, 
+\0kannste haben!d"
+"050_02","d\0Nach Hause willst du,
+\0 ja? 
+\0
+Alles paletti,
+\0 überlass das Res--
+\0
+äh, 
+\0dem Rettungsdienst.d"
+"050_03","d\0Zum Festplatz,
+\0 ja?
+
+\0Gut,
+\0 ist gebongt.d"
+"050_04","d\0Zum Laden also,
+\0 ja?
+
+\0Gut, 
+\0wie du willst.d"
+"050_05",""
+"050_06","d\0Na gut.
+\0 Dann geht sie jetzt mal ab,
+\0
+die Luzie.d"
+"050_07","d\0Zum \0Flughafen\0￿, 
+\0ist gebongt.d"
+"051","<"
+"051_01","d\0Aaaalson\0\0
+\0KIst das hier der richtige Knopf...?\0dd"
+"051_02","d\0Aaaalson\0\0
+\0KWelcher Knopf war noch mal der richtige?\0dd"
+"051_03","d\0Ääää
+\0ä
+\0ä
+\0ä
+\0hn\0\0
+\0 
+\0KVerflixte Knöpfe,
+\0 daran gewöhn ich mich nie!\0dd"
+"052","d\0Da ist er,
+\0 der Knopf!
+\0
+Dann kann die Post ja abgehen!d"
+"053","d\0
+\0    d\0\0Rette dich,
+\0 wer kann!\0dd
+\0d"
+"061","d\0Da wären wir! 
+\0Kannst die
+Knopfäuglein wieder aufmachen.d"
+"062","d\0Ach ja, 
+\0eines nochn\0\0d"
+"063","<"
+"063_01","d\0Eine Insel ist wie 'ne Pizza.
+\0
+Wenn man zu viel draufpackt,
+\0 wird
+die Sache albern.
+Also alles in Maßen,
+\0 ja?
+\0
+Man muss ja nicht alles zubauen,
+\0
+bis keiner mehr durchkommt.d"
+"063_02","d\0Seitdem es dieses neumodische
+Auto-Speichern gibt,
+\0 ist's Essig mit
+RESET drücken und neu versuchen.
+Nun gilt auch auf n\0:
+Getan ist getan,
+\0 und zurücknehmen
+ist nicht!
+\0 Tja,
+\0 moderne Technik!d"
+"063_03","d\0Ist ja auch nicht wichtig,
+\0 was
+hinten rauskommt.
+\0 Es zählt nur,
+\0
+wie viel Spaß man beim Machen hat!
+Der Einsatz zählt, klaro? Merk dir
+das gut, dann bringst du's zu was
+im Leben.d"
+"064","<"
+"064_01","d\0Eine Insel ist wie 'ne Pizza.
+\0
+Wenn man zu viel draufpackt,
+\0 wird
+die Sache albern.
+Also alles in Maßen,
+\0 ja?
+\0
+Man muss ja nicht alles zubauen,
+\0
+bis keiner mehr durchkommt.d"
+"064_02","d\0Seitdem es dieses neumodische
+Auto-Speichern gibt,
+\0 ist's Essig mit
+RESET drücken und neu versuchen.
+Nun gilt auch auf n\0:
+Getan ist getan,
+\0 und zurücknehmen
+ist nicht!
+\0 Tja,
+\0 moderne Technik!d"
+"064_03","d\0Kleiner Trick gefällig,
+\0 wie du dein
+Meilenkonto ordentlich füttern
+kannst?\0\0Schau jeden Tag beim \0NookPortal
+\0￿vorbei. 
+\0Dafür gibt's schon mal ein
+paar Meilchen umsonst!
+\0 Fein,
+\0 was?d"
+"201","Soll ich die App \0Insel-Designer
+\0￿öffnen und etwas bauen oder
+verändern?"
+"201_a","Ja, los geht's!"
+"201_b","Aufräum-Service!"
+"201_c","Anleitung lesen."
+"201_d","Nö."
+"202","Baugenehmigung wird eingeholtn\0\0
+"
+"202_01","Die App \0Insel-Designer \0￿ist jetzt
+bereit! Achtung: Bei Bauarbeiten
+ist stets ein Helm zu tragen!"
+"205","So!
+\0 War's das mit dem Bauen?"
+"205_a","Jawoll, bin fertig."
+"205_b","Aufräum-Service!"
+"205_c","Anleitung lesen."
+"205_d","Nee, fehlt noch was!"
+"206","n\0\0
+\0Verbindungsfehler!
+"
+"207","Ob's am Empfang liegt?
+Vielleicht sollte ich mal \0aufstehen
+\0￿und es noch mal versuchen."
+"208",""
+"209","Du bist \0außerhalb des
+Gültigkeitsbereiches
+\0￿des \0Insel-Designers\0￿.\0\0Du kannst die App nur
+auf n	\0 nutzen,
+\0
+und nur im Freien."
+"210","Abschlussvorgang beginntn\0\0
+<"
+"211","Bauarbeiten beendet!
+\0
+Danke für das Benutzen der App
+und bis zum nächsten Mal!"
+"212","Wenn das Tor am \0Flughafen\0￿
+offen ist,
+\0 kann ich den
+\0Insel-Designer \0￿nicht verwendenn"
+"213","Solange Besuch da ist,
+\0
+lass ich besser die Finger
+vom \0Insel-Designer\0￿."
+"214","Bevor ich den \0Insel-Designer
+\0￿benutze, 
+\0sollte ich am \0Flughafen\0￿
+die Verbindung beenden."
+"221","Die App \0Insel-Designer
+\0￿ist jetzt bereit!"
+"221_01","Drücke \0\0￿, um die Art der
+Bauarbeiten zu ändern. Details
+findest du unter \0Anleitung lesen\0￿."
+"221_02","Drücke mit waagerechtem
+Joy-Con \0\0￿/\0\0￿, um die Art
+der Bauarbeiten zu ändern.\0\0Details findest du unter
+\0Anleitung lesen\0￿."
+"222","<\0\0App-Benachrichtigung\0￿>
+Es wurde eine \0Gewässerlizenz
+\0￿hinzugefügt."
+"223","<\0\0App-Benachrichtigung\0￿>
+Es wurde eine \0Plateaulizenz
+\0￿hinzugefügt."
+"224","<\0\0App-Benachrichtigung\0￿>
+Es wurden eine \0Gewässer-\0￿ und
+eine \0Plateaulizenz\0￿ hinzugefügt."
+"225","Drücke \0\0￿, um den Modus zu ändern.
+Details findest du in der App unter
+\0Anleitung lesen\0￿."
+"225_01","Drücke mit waagerechtem Joy-Con
+\0\0￿/\0\0￿, um den Modus zu ändern.\0\0Details findest du unter
+\0Anleitung lesen\0￿."
+"241","– Grundlagen des \0Insel-Designers \0￿–\0\0<\0\0Bauarbeiten starten und beenden\0￿>
+Die Bauarbeiten können mithilfe der
+App gestartet und beendet werden."
+"241_01_00","<\0\0Wechsel zwischen den Lizenzen\0￿>
+Drücke \0\0￿, um die Lizenz zu ändern."
+"241_01_01","<\0\0Wechsel zwischen den Lizenzen\0￿>
+Drücke mit waagerechtem Joy-Con
+\0\0￿/\0\0￿, um die Lizenz zu ändern."
+"241_02","Hinweis: Die Lizenzen des \0Insel-
+Designers \0￿gelten ausschließlich
+auf n	\0.\0\0Wenn du die Insel verlässt,
+werden die Bauarbeiten
+automatisch beendet.\0\0Und wie bei allen schweren Arbeiten
+gilt:
+\0 Immer einen Helm tragen,
+\0 denn
+Sicherheit geht vor!"
+"242","– Die Konstruktion von Wegen –\0\0Drücke \0\0￿, um Wege über die
+Grasflächen der Insel zu ziehen oder
+bestehende Wege zu entfernen."
+"242_00_01","– Die Konstruktion von Wegen –\0\0Drücke \0\0￿, um Wege über die
+Grasflächen der Insel zu ziehen oder
+bestehende Wege zu entfernen."
+"242_01_00","<\0\0Auswahl des Wegs\0￿>
+Drücke \0\0￿, um die Art des zu
+bauenden Wegs zu wechseln."
+"242_01_01","<\0\0Auswahl des Wegs\0￿>
+Drücke mit waagerechtem Joy-Con
+\0\0￿/\0\0￿, um andere Wegarten zu bauen."
+"243","– Die Konstruktion von Gewässern –\0\0Drücke \0\0￿, um Flüsse, Teiche etc. zu
+graben oder existierende Gewässer
+zuzuschütten.\0\0<\0\0Wasserfälle\0￿>
+Gräbst du auf einem Plateau,
+entsteht ein \0Wasserfall\0￿."
+"243_01","– Die Konstruktion von Gewässern –\0\0Drücke \0\0￿, um Flüsse, Teiche etc. zu
+graben oder existierende Gewässer
+zuzuschütten.\0\0<\0\0Wasserfälle\0￿>
+Gräbst du auf einem Plateau,
+entsteht ein \0Wasserfall\0￿."
+"244","– Die Konstruktion von Plateaus –\0\0Drücke \0\0￿, um vor dir ein Plateau
+aufzutürmen oder ein bestehendes
+einzureißen.
+<\0\0Plateaus auf Plateaus\0￿>
+Baust du in die Höhe, musst du
+am Rand eine Kante freilassen.
+Achte also darauf, dass auf der
+unteren Ebene genug freie Fläche
+vorhanden ist.
+<\0\0Wasserfälle entfernen\0￿>
+Zuerst mit der Gewässerlizenz
+zuschütten, dann Plateau entfernen!"
+"244_01","– Die Konstruktion von Plateaus –\0\0Drücke \0\0￿, um vor dir ein Plateau
+aufzutürmen oder ein bestehendes
+einzureißen.
+<\0\0Plateaus auf Plateaus\0￿>
+Baust du in die Höhe, musst du
+am Rand eine Kante freilassen.
+Achte also darauf, dass auf der
+unteren Ebene genug freie Fläche
+vorhanden ist.
+<\0\0Wasserfälle entfernen\0￿>
+Zuerst mit der Gewässerlizenz
+zuschütten, dann Plateau entfernen!"
+"245","– Über den Aufräum-Service –\0\0Beim Durchführen von Bauarbeiten
+kann so einiges schiefgehen.\0\0Man versperrt sich selbst den Weg.
+Oder man will etwas bearbeiten, aber
+es liegt oben auf einem Plateau.\0\0In solchen Momenten hilft der
+Aufräum-Service. Der sorgt um
+dich herum für Ordnung!\0\0Davon betroffen sind Möbel,
+Zäune und ähnliche Elemente \0in
+deiner unmittelbaren Umgebung\0￿.\0\0Um den Service zu nutzen, solltest
+du dich also zuerst in die Nähe der
+problematischen Objekte begeben.\0\0Alle dabei aufgeräumten Objekte
+landen in der \0Krimskramskiste\0￿ im
+Servicecenter.\0\0Vergiss nicht, sie dort zeitnah
+wieder einzusammeln!"
+"251","Welche Anleitung lesen?"
+"251_01","Welche Anleitung lesen?"
+"251_01_a","Grundlagen"
+"251_01_b","Wegebau"
+"251_01_c","Gewässerbau"
+"251_01_d","Aufräum-Service"
+"251_01_e","Beenden"
+"251_02","Welche Anleitung lesen?"
+"251_02_a","Grundlagen"
+"251_02_b","Wegebau"
+"251_02_c","Plateaubau"
+"251_02_d","Aufräum-Service"
+"251_02_e","Beenden"
+"251_03","Welche Anleitung lesen?"
+"251_03_a","Grundlagen"
+"251_03_b","Wegebau"
+"251_03_c","Gewässerbau"
+"251_03_d","Plateaubau"
+"251_03_e","Aufräum-Service"
+"251_03_f","Beenden"
+"251_a","Grundlagen"
+"251_b","Wegebau"
+"251_c","Aufräum-Service"
+"251_d","Beenden"
+"261","Der Aufräum-Service kann helfen,
+wenn es beim Durchführen von
+Bauarbeiten zu Problemen kommt.\0\0Etwa, wenn man etwas auf einem
+Plateau nicht erreicht, oder wenn
+man sich selbst den Weg versperrt.\0\0Nutze in solchen Fällen den
+Aufräum-Service, um Elemente
+um dich herum zu entfernen.\0\0Alle dabei aufgeräumten Objekte
+landen in der \0Krimskramskiste\0￿ im
+Servicecenter.\0\0Einzelheiten dazu findest du
+unter \0Anleitung lesen\0￿."
+"262","Aufräum-Service nutzen, 
+\0um Dinge in
+deiner Umgebung in die Krimskrams-
+kiste im Servicecenter zu befördern?"
+"262_a","Ja, aufräumen!"
+"262_b","Nicht jetzt..."
+"263","Alles klar! 
+\0Bitte warte, 
+\0während
+wir um dich herum aufräumen."
+"264","Fertig! 
+\0Vergiss nicht, 
+\0die entfernten
+Objekte aus der \0Krimskramskiste\0￿
+im \0Servicecenter \0￿abzuholen!"
+"265","Es konnten keine Elemente
+aufgeräumt werden.\0\0Der Aufräum-Service ist nur für
+Möbel, Zäune und ähnliches in deiner
+unmittelbaren Umgebung zuständig."
+"301","Für diese Insel scheint meine
+Karten-App keine Daten zu habenn"
+"311","Nanu? 
+\0„Kein Empfang“n\0\0
+\0 Hmmm...
+\0
+Funktioniert wohl hier nicht."
+"999","\0100\0￿ Meilen"

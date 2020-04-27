@@ -1,0 +1,117 @@
+﻿"label","text"
+"001","Oye,
+\0 (촀\0¿qué te parece si jugamos
+a un juego?\0\0(\0촀\0Si ganas,
+\0 te quedas con mi }\0\0.
+\0 ($촀\0¿Qué me dices, n\0?"
+"001_a","¡Parece divertido!"
+"001_b","Mejor no..."
+"002","(촀\0¡Genial!
+\0 (촀\0Pero antes te voy a
+explicar las reglas, n\0."
+"002_a","Sí, cuéntame"
+"002_b","Ya me las sé"
+"003","Qué lástiman\0\0
+\0 (%촀\0De todos modos
+volveré a preguntarte en alguna
+otra ocasión, n\0."
+"004","( 촀\0Bueno,
+\0 ¡pues vayamos al tema!
+\0
+(<촀\0Voy a barajar las cartasn"
+"005","(9촀\0Y la carta esn"
+"006_01","(%촀\0Tal como te prometí,
+\0 aquí tienes mi
+}\0\0.
+\0 ¡Para ti!
+\0 (촀\0Mantengo mi palabra."
+"006_02","(7촀\0Vaya,
+\0 no pensé que acertaríasn\0\0\0\0(\0촀\0Pues bueno,
+\0 tal como lo acordamos:
+mi }\0\0 es para ti.(촀"
+"006_03","(촀\0Qué penan\0\0
+\0 (촀\0Parece que me toca
+quedarme con mi }\0\0n"
+"007_01","(7촀\0Esta vez perdí,
+\0 pero de todos modos
+me la pasé muy bien.
+\0 (촀\0Eso sí,
+\0
+¡la próxima ganaré yo, n\0!"
+"007_03","Esta vez gané yo,
+\0 pero (촀\0no te
+desanimes.
+\0 ¡Volverás a tener
+otras oportunidades!"
+"008","(%촀\0¡Buena respuesta!
+\0 (촀\0Bueno,
+\0 vayamos
+entonces al meollo de la cuestión.\0\0(\0촀\0(:촀\0Peron\0\0
+\0 Un momento.
+\0 (촀\0¡Tienes los
+bolsillos llenos!
+\0 ¿No esperas
+ganar la partida?
+(:촀\0Haz espacio para poder llevarte mi }\0\0 y luego (6촀\0jugamos, n\0."
+"100","()촀\0¡Atención!
+\0 La baraja tiene cuatro
+palos: corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) y tréboles (\0♣\0￿).\0\0(촀\0Voy a sacar una carta y tú tendrás que adivinar de qué palo es.
+\0 Sencillo,
+\0
+¿verdad?
+(\0촀\0Si aciertas el palo,
+\0 (촀\0te puedes quedar
+con mi }\0\0.\0\0(촀\0¡Y ahora a lo que vamos!
+\0 (<촀\0Barajaré
+las cartas,
+\0 a ver qué pasan"
+"101","(촀\0¡Bueno,
+\0 ya tengo una! 
+\0De qué palo
+es: ¿corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) o tréboles (\0♣\0￿)?"
+"101_a","\0Corazones (♥)\0￿"
+"101_b","\0Diamantes (♦)\0￿"
+"101_c","\0Picas (♠)\0￿"
+"101_d","\0Tréboles (♣)\0￿"
+"102_01","(촀\0¡Pues sí, eran 촀! 
+\0¡Acertaste,
+\0 jovencit2oa!"
+"102_02","(촀\0Vaya,
+\0 pues eran 촀, jovencit2oan\0\0
+\0 Qué lástima."
+"200","()촀\0Te explico.
+\0 La baraja tiene cuatro palos: corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) y tréboles (\0♣\0￿).\0\0(촀\0Voy a tomar una carta y tú tendrás
+que adivinar de qué color es.
+\0
+Fácil,
+\0 ¿verdad,
+\0 n\0?
+(\0촀\0Si aciertas el color,
+\0 (촀\0te puedes quedar
+con mi }\0\0.\0\0(\0촀\0Bueno,
+\0 (촀\0pues a lo que vamos.
+\0
+(<촀\0Barajaré las cartas y veremos qué pasan"
+"201","(촀\0¡Ya tengo una carta!
+\0 (6촀\0A ver, ¿qué
+será:
+\0 \0roja \0￿o \0negra\0￿?"
+"201_a","\0Roja\0￿"
+"201_b","\0Negra\0￿"
+"202_01","(촀\0¡Era de 촀!
+\0(촀\0 Es \0roja\0￿,
+\0 ¡así que has acertado,
+\0 jovencit2oa!"
+"202_02","(;촀\0¡Era de 촀!
+\0 (촀\0Como es \0negra\0￿, me temo que no has acertado,
+\0 jovencit2oa."
+"202_03","(촀\0¡Era de 촀!
+\0 (촀\0Y como es \0negra\0￿,
+\0 has acertado,
+\0 jovencit2oa."
+"202_04","(;촀\0¡Era de 촀!
+\0 (촀\0Como es \0roja\0￿, me temo que no has acertado,
+\0 jovencit2oa."

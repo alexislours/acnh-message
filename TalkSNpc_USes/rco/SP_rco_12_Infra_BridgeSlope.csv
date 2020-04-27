@@ -1,0 +1,314 @@
+﻿"label","text"
+"001","(촀\0¿Te interesan los puentes y las
+rampas?
+\0 ¡Excelente, sí, sí!\0\0(\0촀\0Con la remodelación de la \0oficina de
+gestión\0￿, tenemos un nuevo servicio
+disponible para los residentes.
+(촀\0Ahora podrás instalar puentes y
+rampas en la isla de una forma fácil
+y divertida.
+(촀\0Aunque todo esto no es gratis
+ni mucho menos barato, no, non\0\0\0\0(촀\0Pero todos los residentes pueden
+contribuir para cubrir los gastos
+de construcción.\0\0(촀\0Si dispones de los fondos
+suficientes, podemos empezar
+a hacer planes al respecto.
+(촀\0Pero ten en cuenta que solo puedes
+tener en construcción un puente
+o una rampa por la vezn\0\0
+(촀\0Así que piensa bien lo que quieres
+hacer antes de discutir tus planes
+conmigo, ¿sí?"
+"002","(촀\0Buenon\0\0
+\0 (&촀\0¿tienes algún plan
+que quieras discutir conmigo?"
+"002_a","Construir un puente"
+"002_b","Construir una rampa"
+"002_c","Derribar una cosa"
+"002_d","No, gracias"
+"003","(촀\0¿Puentes y rampas?
+\0
+(&촀\0¿En qué puedo ayudarte?"
+"003_a","Construir un puente"
+"003_b","Construir una rampa"
+"003_c","Derribar una cosa"
+"003_d","En otro momento"
+"004","(촀\0Entendido.
+\0 (""촀\0Entonces vuelve cuando
+quieras discutir asuntos sobre
+puentes y rampas, ¿sí?"
+"101","(촀\0Así que quieres un nuevo puenten\0\0
+\0
+(%촀\0Son ideales para conectar terreno
+separado por ríos."
+"102","(촀\0Elige uno de los que tenemos
+en catálogon"
+"103","(촀\0¡2\02\0}\0\0!
+\0
+¿Estás segur2oa de que quieres
+construir este puente?"
+"103_a","¡Sí!"
+"103_b","Mejor no..."
+"104","(촀\0¡Excelente!
+\0 (\0촀\0En ese caso,
+\0 (촀\0ahora hay
+que decidir dónde construirlo.\0\0(\0촀\0Usa la \02\0Ȃ촄señal de puente en obras\0￿(촀\0
+que te dejé en los bolsillos para
+reservarle un terreno al puente."
+"105","(촀\0Si pones la \0señal\0￿ cerca de un río,
+te servirá también para ver cómo
+quedará el puente, ¿sí?"
+"106","(촀\0¡Excelenn\0\0!
+\0 (&촀\0O quizás no.
+\0
+(촀\0Ahora mismo tienes los bolsillos
+llenos, n\0.
+(촀\0Necesitas una \02\0Ȃ촄señal de puente en obras\0￿ para reservar el terreno
+donde irá el nuevo puente.\0\0(촀\0Si eres tan amable,
+\0 primero haz
+un poco de espacio y luego vuelve
+a hablar conmigo, ¿sí?"
+"107","(촀\0¿Has cambiado de parecer?
+\0 ()촀\0Es un
+proyecto importante,
+\0 (촀\0así que es
+buena idea pensarlo bien antesn"
+"108","(
+촀\0Vayan\0\0
+\0 parece que ya tenemos \08
+\0￿puentes en la islan\0\0\0\0(촀\0¡Y ese es el máximo de este tipo
+de obras que nuestra comunidad
+puede tener!
+(촀\0Si de verdad quieres construir
+un nuevo puente,
+\0 (
+촀\0habrá que
+\0demoler \0￿uno de los que ya hayn\0\0
+(%촀\0¡Recién ahí podríamos empezar
+a hablar!"
+"201","(촀\0Así que quieres crear una rampa,
+¿sí?
+\0 (촀\0Las rampas y las escaleras son
+muy prácticas para subir desniveles."
+"202","(촀\0Elige una de nuestro catálogo, ¿sí?"
+"203","(촀\0¡2\02\0}\0\0!
+\0
+¿Empezamos con la construcción?"
+"203_a","¡Sí!"
+"203_b","Mejor no..."
+"204","(촀\0¡Excelente!
+\0 (촀\0Ahora hay que decidir
+dónde construirla.\0\0(촀\0Usa el \02\0ā촃kit de rampa \0￿que
+te dejé en los bolsillos para
+reservar un terreno."
+"205","(\0촀\0Para usarla necesitas un espacio
+amplio que esté cerca de la \0base
+de un desnivel\0￿.
+(촀\0También podrás ver cómo quedará
+tu nueva rampa, ¿sí?"
+"206","(촀\0¡Estupenn\0\0!
+\0 (&촀\0O quizás no tanto.
+\0
+(촀\0Ahora mismo no tienes más espacio
+en los bolsillos, n\0.
+(촀\0Necesitas una \02\0ā촃kit de rampa\0￿ para reservarle un terreno
+a la nueva rampa.\0\0(촀\0Sé tan amable de hacer un poco
+de espacio y luego vuelve a hablar
+conmigo, ¿sí?"
+"207","(촀\0¿Has cambiado de parecer?
+\0 ()촀\0Es un
+proyecto importante,
+\0 (촀\0así que es
+buena idea pensarlo bien antesn"
+"208","(
+촀\0Vayan\0\0
+\0 parece que ya tenemos
+\08 \0￿rampas en la islan\0\0\0\0(촀\0¡Es el máximo de este tipo de obras
+que nuestra comunidad puede
+tener!
+(촀\0Si de verdad quieres construir una
+nueva rampa,
+\0 (
+촀\0habrá que \0demoler
+\0￿una de las que ya hayn\0\0
+(%촀\0¡Recién ahí podríamos empezar
+a hablar!"
+"301","(촀\0¿Mmm?
+\0 (촀\0¿Quieres demoler algo?\0\0(촀\0Entiendo que quieras aprovechar
+al máximo el espacio que nos ofrece
+nuestra excelente isla.
+(촀\0Pero las operaciones de demolición
+cuestan Z\0n"
+"302","(
+촀\0Nuestra isla aún no tiene ni puentes
+ni rampas,
+\0 (촀\0así que no hay nada que
+se pueda demoler.
+(:촀\0Pero, como advertencia para el
+futuro, te diré que lo que se derribe
+no se podrá reconstruir.
+(촀\0¡Así que piénsalo dos veces!"
+"303","(촀\0Los puentes y las rampas que
+derribes no se podrán reconstruirn\0\0
+\0
+así que piénsalo bien, ¿sí?
+(&촀\0¿Quieres continuar con el plan?"
+"303_a","¡Claro que sí!"
+"303_b","Mejor no..."
+"304","(촀\0¿Eh?
+\0 (촀\0¿Quieres demoler algo?\0\0(%촀\0De acuerdo.
+\0 Pongamos manos a la
+obra."
+"305","(촀\0Tú dirás el puente o la rampa
+que quieres demoler, n\0⁠n"
+"306","¿Quieres demoler
+2\0}\0\0⁠?\0\0(촀\0Te informo que los gastos
+de demolición ascienden
+a Z\0n\0\0
+(&촀\0¿Aún te interesa?"
+"306_01","¿Quieres demoler
+2\0}\0\0⁠?\0\0(촀\0Te informo que los gastos
+de demolición ascienden
+a Z\0n\0\0
+(&촀\0¿Aún te interesa?"
+"306_01_a","Lo voy a pensar mejor..."
+"306_01_b","¡A demoler se ha dicho!"
+"306_a","Lo voy a pensar mejor..."
+"306_b","¡A demoler se ha dicho!"
+"307","(%촀\0¡Entendido!
+\0 (\0촀\0Voy a empezar con
+el papeleo necesario
+\0 (촀\0y todo estará
+listo para mañana."
+"308","(&촀\0Cambiaste de parecer, ¿sí?
+\0 (촀\0Buenon\0\0
+\0
+la verdad es que costó bastante
+construir lo que querías demoler.
+(%촀\0Pero tú decides lo que quieres
+que hagamos.
+\0 (""촀\0¡Yo estoy aquí
+a tu entera disposición!"
+"309","(촀\0¿Mmm?
+\0 (&촀\0¿Eh?
+\0 (
+촀\0Pues ahora mismo no
+hay en la isla ningún puente ni rampa
+de acceso que se pueda demoler.
+(촀\0De todos modos no te olvides de
+que la demolición es la solución,
+\0 
+para las obras que sobran.
+¡Es parte del ciclo de desarrollo
+urbano!"
+"310","(%촀\0Entendidn\0\0
+\0(\0촀\0 Espera.\0\0(촀\0Parece que, con las bayas que
+tienes, no puedes cubrir el costo
+de la demoliciónn\0\0
+(촀\0Una operación así no es barata.
+\0
+(""촀\0Vuelve cuando hayas reunido
+los fondos necesarios, ¿sí?"
+"401","(촀\0¡Ah, n\0!
+\0 Estás buscando un lugar para 2*촀el nuevola nueva\0 }\0\0, ¿sí?\0\0(&촀\0¿Y cómo puedo ayudarte?"
+"401_a","¿Cómo se hace eso?"
+"401_b","No quiero construir"
+"401_c","Ahora, de ninguna forma"
+"402","(\0촀\0Hay unas cuantas cosas que debes
+tener en cuenta a la hora de
+encontrar el lugar adecuado.
+(촀\0Se parece mucho a instalar una
+una tienda de campaña. Voy a
+hablarte del \02\0ā촃kit de puente \0￿que te di.
+()촀\0Lo fundamental es encontrar
+un lugar bonito \0cerca de un río\0￿n\0\0
+(촀\0
+\0¡e instalar el puente!
+
+(
+촀\0Pero si el cauce del río es muy ancho
+o muy estrecho,
+\0 o si el terreno
+es accidentado, no servirá para nada.
+(촀\0Ahora ya sabes todo lo que hay
+que saber sobre la construcción
+de puentes."
+"402_01","(\0촀\0Hay unas cuantas cosas que
+debes tener en cuenta a la hora
+de encontrar el lugar adecuado.
+(촀\0Se parece mucho a instalar una
+tienda de campaña. 
+\0Voy a hablarte de la \02\0ā촃kit de rampa \0￿que te di.
+()촀\0Lo que tienes que hacer es encontrar
+un lugar en la \0base de un desnivel⁠\0￿n\0\0 (촀\0
+\0¡e instalar la rampa!
+\0\0(%촀\0Ya con encontrar un lugar así y que
+sea espacioso, es suficiente.\0\0(촀\0Ahora ya sabes todo lo que hay
+que saber sobre la construcción
+de rampas."
+"403","(촀\0¡Qué ganas de ver dónde
+estará nuestr2촀oa\0 2촀
+nuevo
+nueva\0 }\0\0⁠!"
+"404","(&촀\0¿Mmm?
+\0 ¿Quieres cancelar
+el proyecto?\0\0(촀\0Entonces me quedo con 2\0
+}\0\0, ¿sí?"
+"405","(촀\0¡Excelente!
+\0 (촀\0¡Buena suerte en la
+búsqueda de un lugar apropiado para
+2\0}\0\0!"
+"501","(촀\0Ahn\0\0
+\0 ahora estamos recaudando
+fondos para construir 2,촀un nuevouna nueva\0
+}\0\0.
+Por eso no estamos discutiendo
+otros asuntos, pero
+\0 (&촀\0¿tienes algo
+en mente?"
+"501_a","No quiero construir"
+"501_b","Nada, nada..."
+"502","(촀\0¿Cómooo?
+\0 ¿Que quieres parar
+la construcción de nuestr2촀oa\0 nuev2촀oa\0
+}\0\0?
+(촀\0¡Eso significa que las donaciones
+que hemos recaudado hasta ahora
+no sirven para nada!
+(&촀\0¿Estás enteramente segur2oa de esto?"
+"502_a","No, vamos a seguir"
+"502_b","¡Sí, cancela todo!"
+"503","(촀\0¡Entendido!
+\0 (촀\0Mañana mismo el lugar
+de las obras estará limpio, ¿sí?"
+"504","(촀\0¡Excelente!
+\0 (촀\0Las donaciones pueden
+hacerse directamente al \0giroide \0￿que
+está en el lugar de la obra.
+(""촀\0¡Esperamos tu ayuda!"
+"603","(촀\0Ah, ¿quieres hablar sobre puentes
+o rampas?\0\0(%촀\0Verás, ahora mismo no aceptamos
+nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados con
+la construcción 22촀del nuevode la nueva\0
+}\0\0.
+(촀\0Ya hemos recaudado los fondos
+necesarios para proceder y todo
+estará listo mañana mismo.
+(""촀\0Hablamos cuando la construcción
+haya finalizado, ¿sí?"
+"604","(촀\0Ah, ¿quieres hablar sobre puentes
+o rampas?\0\0(%촀\0Verás, ahora mismo no aceptamos
+nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados cancelando
+la construcción 22촀del nuevode la nueva\0
+}\0\0.
+(촀\0Terminaremos mañana.
+\0 (""촀\0Hablamos
+una vez que hayamos cancelado
+la construcción, ¿sí?"
+"605","(촀\0Ah, ¿quieres hablar sobre puentes
+o rampas?\0\0(%촀\0Verás, ahora mismo no aceptamos
+nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados demoliendo
+2\0}\0\0.\0\0(촀\0Mañana mismo no quedará ni rastro.
+\0
+(""촀\0Hablamos cuando hayamos
+terminado de demoler, ¿sí?"

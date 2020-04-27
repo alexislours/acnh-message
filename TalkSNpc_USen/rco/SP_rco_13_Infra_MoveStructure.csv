@@ -1,0 +1,386 @@
+﻿"label","text"
+"001","(촀\0Yes, yes! Let's chat about the \0layout
+of the island\0￿.\0\0(1촀\0As Resident Representative, planning
+the locations of different structures(%촀\0
+falls to you, hm? As such, I'll betn\0\0
+you've probably thought,
+\0(촀\0 ""Oh!
+\0((촀\0 That
+building would be better elsewhere!""
+\0
+(촀\0Happens to the best of us!
+(\0촀\0(9촀\0So I'm here for you! We can talk
+about layout changes that take(5촀\0 full
+advantage of our island's terrain."
+"001_00_01","(촀\0Moving buildings is of course an
+elective service, (7촀\0so there are
+construction costs for you to cover.
+(\0촀\0But don't let a few Bells stop you
+from (""촀\0shaping our island into its most
+ideal form, hm?"
+"001_00_02","( 촀\0Now, if you are interested in moving
+your home, 
+\0(%촀\0say ""\0About my home...\0￿""
+and we (촀\0can discuss that."
+"001_01","(9촀\0Now then, 
+\0(\0촀\0if there's a building you
+have in mind, 
+\0we can discuss moving
+it now.(&촀\0 How about it, hm?"
+"001_01_a","Let's talk relocation."
+"001_01_b","I'm good for now."
+"002","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"003","(촀\0Understood!
+\02(\0촀\0 Well, you know where
+to find me(촀\0 if you ever want to talk
+layout changes."
+"004","(&촀\0Change your mind?
+\02(\0촀\0 Well, you know
+where to find me(촀\0 if you ever want to
+talk layout changes."
+"011","(%촀\0OK. 
+\0(&촀\0Who should we talk to about
+moving their home?"
+"011_01","(촀\02\0s촀?
+\0( Understood!\0\0(\0촀\0The construction costs will run you
+\0Z\0\0￿.
+\0(&촀\0 Should we talk to
+s촀 about this now?"
+"011_01_a","Yes, let's do it!"
+"011_01_b","Let me think on it."
+"012","(촀\0Oh! The \0shop\0￿!
+\0(\0촀\0 Moving that will cost
+you \0Z\0\0￿.
+\0(&촀\0 So, do you want to
+suggest moving it?"
+"012_a","Yes, let's do it!"
+"012_b","Let me think on it."
+"013","(촀\0Ah! The \0museum\0￿!
+\0(\0촀\0 Moving it will run
+you \0Z\0\0￿.
+\0(&촀\0 So, do you want to
+suggest moving it?"
+"013_a","Yes, let's do it!"
+"013_b","Let me think on it."
+"014","(촀\0Ah yes. The \0tailor shop\0￿.
+\0(\0촀\0 It's going to
+cost \0Z\0 \0￿to move it.
+\0(&촀\0 So, do
+you want to suggest moving it?"
+"014_a","Yes, let's do it!"
+"014_b","Let me think on it."
+"015","(촀\0Oh! The \0campsite\0￿!
+\0(\0촀\0
+It'll cost \0Z\0 \0￿to move it.
+(&촀\0Do you want to relocate it?"
+"015_a","Yes, let's do it!"
+"015_b","Let me think on it."
+"021","(""촀\0Yes, yes! Very good!\0\0(촀\0Let's ask s촀 what
+2heshe thinks of the idea.
+\0((\0촀\0 Wait just a
+moment while I contact 2himhern"
+"022","(""촀\0Yes, yes! Very good!\0\0(촀\0Let's see what \0Timmy \0￿and \0Tommy\0￿
+think of the idea, then.
+\0((\0촀\0 Hold on while
+I contact themn"
+"023","(""촀\0Yes, yes! Very good!\0\0(촀\0Let's see what \0Blathers \0￿thinks of the
+idea, then.
+\0((\0촀\0 Wait one moment while I
+contact himn"
+"024","(""촀\0Yes, yes! Very good!\0\0(촀\0Let's see what \0Mabel \0￿thinks of the
+idea, then.
+\0((\0촀\0 Wait one moment while I
+contact hern"
+"025","(촀\0Alright! Thank you for your business!
+\0(
+(\0촀\0Your next step will be to(촀\0 pick out the
+\0campsite\0￿'s new location."
+"026","(\0촀\0In your pockets, you'll now find
+2\0\0}\0\0\0￿.
+\0
+(촀\0Set that up where you want it to go."
+"031","(촀\0Yes, yes! Very good!
+\0( Nown\0\0\0\0(촀\0Hold on,
+\0( n\0.
+\0
+(촀\0You don't have the Bells!\0\0(\0촀\0Around here our motto is
+\0()촀\0 ""You want
+it? You fund it!""
+\0(\0촀\0 So let's try this
+again(""촀\0 when you have the money."
+"032","(촀\0What's this, n\0?
+\0
+(촀\0Your pockets are much too full!\0\0(\0촀\0()촀\0I need to give you a special item to
+complete this transaction.
+\0(촀\0 So please
+go make some space for it first."
+"033","(
+촀\0Hmn\0\0 s촀 recently
+moved to this island.
+\0 ()촀\0Perhaps it'd be
+in poor taste to ask 2himher to relocate?\0\0(\0촀\0We ought to let a little time pass
+before suggesting the idea,
+\0(촀\0 don't
+you think?"
+"034","(
+촀\0Hmn\0\0 s촀 has made
+up 2hisher mind to leave this island, so
+\0
+()촀\0it's bad timing to move 2hisher home.\0\0(\0촀\0If you want to suggest some other
+layout changes later,
+\0(촀\0 we should talk!"
+"034_01","(촀\0Sounds goodn\0\0 But hold on a minute.
+(촀\0Have you not met any of the island
+residents, n\0?
+(\0촀\0You're the Resident Rep., but I think
+they'd be happier(%촀\0 leaving their home
+situation to someone they've met.\0\0(촀\0I mean, if you want to move
+someone's home, you should
+at least meet them first, hm?
+(""촀\0Then come see me, and we can
+discuss any ideas you might have
+about moving them."
+"035","(
+촀\0Hmn\0\0
+\0 I think they might be in the
+middle of a shop remodel right nown\0\0
+\0(
+(촀\0Let's chat when that's done."
+"051","()촀\0I think that covers everything.\0\0(:촀\0So, s촀,
+\0(&촀\0 do you want
+to move where n\0
+thinks you should move?"
+"052","(촀\0n\0\0So, \0s촀\0￿,
+\0 what do
+you (&촀\0think about n\0's
+suggestion to move the shop?"
+"053","(촀\0So, \0Blathers\0￿n\0\0
+\0 2\0n\0's
+suggestion to move the museumn\0\0
+\0
+(&촀\0What do you think?"
+"054","(촀\0Well, \0Mabel\0￿n\0\0
+\0 What do you think
+about n\0's
+(&촀\0suggestion to move your shop?"
+"061","(촀\0I'm all for it!
+\0( 2\0n\0 will
+find us a spot
+\0(촀\0 that'll make
+business boom!
+\0 I'm sure of it!"
+"062","(촀\0Why, yes!
+\0 Of course I'm on board!
+\0
+(촀\0Indeed, go forth and find us a place
+fitting for scientific wonder!"
+"063","(촀\0That sounds fine by me!
+\0((촀\0 I'm sure
+\0Sable \0￿will be happy with wherever
+you pick too, n\0."
+"071","(%촀\0Alright then! Sounds great.
+\0(촀\0 You just
+leave the rest to me and our friend
+n\0."
+"081","(촀\0Well, n\0,
+\0 since the
+matter of moving is now settled,
+\0
+I'll take that construction fee nown"
+"082","(촀\0Next, I'd like you to pick out a new
+spot for s촀's home.\0\0(%촀\0You'll find a \02\0Ā촃moving kit\0￿ in your
+pockets.
+\0(촀\0 Use it to place 2hisher home
+wherever you'd like it to go!"
+"082_01","(촀\0Next up, I'd like you to pick out the
+new location.\0\0In your pockets,(%촀\0 you'll find the
+}\0\0 you'll
+need.
+\0(촀\0 Find a spotn\0\0and deploy!"
+"1000","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1000_a","An island home."
+"1000_b","Shop."
+"1000_c","Not now."
+"1001","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1001_a","An island home."
+"1001_b","Shop."
+"1001_c","Museum."
+"1001_d","Not now."
+"1002","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1002_a","An island home."
+"1002_b","Shop."
+"1002_c","Tailors."
+"1002_d","Not now."
+"1003","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1003_a","An island home."
+"1003_b","Shop."
+"1003_c","Campsite."
+"1003_d","Not now."
+"1004","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1004_a","An island home."
+"1004_b","Shop."
+"1004_c","Museum."
+"1004_d","Tailors."
+"1004_e","Not now."
+"1005","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1005_a","An island home."
+"1005_b","Shop."
+"1005_c","Museum."
+"1005_d","Campsite."
+"1005_e","Not now."
+"1006","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1006_a","An island home."
+"1006_b","Shop."
+"1006_c","Tailors."
+"1006_d","Campsite."
+"1006_e","Not now."
+"1007","Excellent!
+\0(&촀\0 And which building did you
+want to move?"
+"1007_a","An island home."
+"1007_b","Shop."
+"1007_c","Museum."
+"1007_d","Tailors."
+"1007_e","Campsite."
+"1007_f","Not now."
+"101","Yes, yes, indeed. At the moment you
+should be looking for a new place for
+s촁's home.
+(&촀\0Something on your mind?"
+"101_a","Let's not move it."
+"101_b","No, not really."
+"102","Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the \0shop\0￿.
+\0(&촀\0 Something on your mind?"
+"102_a","Let's not move it."
+"102_b","No, not really."
+"103","Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the \0museum\0￿.
+\0(&촀\0 Is something wrong?"
+"103_a","Let's not move it."
+"103_b","No, not really."
+"104","Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the \0tailor shop\0￿.
+\0(&촀\0 Is something wrong?"
+"104_a","Let's not move it."
+"104_b","No, not really."
+"105","Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the \0campsite\0￿.
+\0(&촀\0 Is something wrong?"
+"105_a","Let's not move it."
+"105_b","No, not really."
+"111","(&촀\0Oh my! Did you have trouble finding
+a good location?
+\0(촀\0 Well, I suppose we
+can table this for another day.
+(\0촀\0I'll take back the moving kit I gave
+you before, (촀\0and I'll give you back the
+Bells you paid."
+"112","And don't worry, I'll also make sure
+s촁 knows we won't
+be moving 2hisher home after all."
+"112_01","Don't worry. I'll be sure to tell
+\0Blathers\0￿ that we won't be moving
+the museum after all."
+"112_02","And don't fret about \0Timmy\0￿ and
+\0Tommy\0￿. I'll tell them we won't be
+moving their shop after all."
+"112_03","And don't worry. \0Mabel\0￿ will be fine.
+I'll let her know we won't be moving
+her shop after all."
+"112_04","(촀\0If you do happen to scout a good
+location, 
+\0(""촀\0don't hesitate to come back
+and talk to me about this again."
+"113","(촀\0A clear mind is a good thing to have!
+\0(
+(\0촀\0Once you settle on a location,
+\0 (촀\0I'll
+start the construction paperwork."
+"113_01","(촀\0A clear mind is a good thing to have!
+\0(
+(\0촀\0Once you settle on a location,
+\0 (촀\0I'll
+start the construction paperwork."
+"501","(촀\0Oh dear. Sorry, but
+\0
+ (\0촀\0since you asked
+me to move your home,('촀\0 my paws are
+full at the momentn"
+"502","(촀\0Oh, I'm sorry, but
+\0('촀\0 my paws are full
+with moving s촁's
+home at the momentn"
+"503","(촀\0Oh dear. I'm sorry, but
+\0(촀\0 my paws are
+full moving the \0shop\0￿ at the momentn"
+"504","(촀\0Oh! I'm sorry, but
+\0(촀\0 my paws are full
+with moving the \0museum\0￿ at the
+momentn"
+"505","(촀\0I'm sorry, but
+\0(촀\0 my paws are full right
+now. I'm in the process of moving the
+\0tailor shop \0￿at the momentn"
+"506","(촀\0Oh my. In\0\0I'm sorry, but
+\0(촀\0 my paws
+are full at the moment. I'm getting
+the \0campsite \0￿moved."
+"511","(촀\0Oh. I'm deeply sorry, but
+\0 I'm having
+s\0촀's home moved.
+My paws are fulln"
+"512","(촀\0My paws are full right now.
+\0
+ I'm busy
+moving(\0촀\0 s촁's home at
+s\0촀's request."
+"513","(촀\0I'm sorry. 2\0s\0촀 asked
+(\0촀\0me to relocate the \0shop\0￿, so
+\0(촀\0 I'm
+rather busy with that at the moment."
+"514","(촀\0I'm sorry. 2\0s\0촀 asked
+(\0촀\0me to relocate the \0museum\0￿, so
+\0(촀\0 I'm
+rather busy with that at the moment."
+"515","(촀\0I'm sorry. 2\0s\0촀 asked
+(\0촀\0me to relocate the \0tailor shop\0￿, so my
+\0(촀\0
+paws are rather full at the moment."
+"516","(촀\0I'm sorry. 2\0s\0촀 asked
+(\0촀\0me to relocate the \0campsite\0￿, so I've
+\0(촀\0
+got my paws full right now."
+"521","Everything should be wrapped up by
+\0tomorrow\0￿,
+\0 (촀\0so let's discuss this then.
+\0(
+Or whenever it's convenient."
+"521_01","I do believe everything will be
+wrapped up by (촀\0tomorrow at the
+earliest, so
+\0(""촀\0 let's speak another day!"
+"521_02","If you pick a location today, we
+should be wrapped up by \0tomorrow\0￿,
+\0(촀\0
+so let's discuss future requests then!"

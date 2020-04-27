@@ -1,0 +1,278 @@
+﻿"label","text"
+"001","(촀\0Das kommt jetzt vielleicht etwas
+plötzlich, aber willst du 2""촀
+eineneineein
+2촁}\0\0 kaufen?"
+"001_a","(\0촀\0Quanto costa?"
+"001_b","Kein Bedarf."
+"002","(촀\0Möchtest du mir zufällig 2""촀
+eineneineein
+2촁}\0\0 abkaufen, 
+\0n\0?"
+"002_a","(\0촀\0Interesse ist da..."
+"002_b","Brauch ich nicht."
+"003","(촀\0Oh, 
+\0n\0!(\0촀\0\0\0(%촀\0Hör mal, 
+\0es ist grad der neueste Teil
+meiner Lieblingsbuchserie rausge-
+kommen,
+\0 (촀\0aber ich bin pleite...
+(
+촀\0Da dachte ich mir, ich verkaufe ein
+bisschen was von meinem Kram.
+\0
+(%촀\0Vier Sachen hab ich ausgemistet.
+(4촀\0Möchtest du mir vielleicht diese
+vier abkaufen,
+\0 n\0?"
+"003_a","Klar!"
+"003_b","Eher nicht..."
+"004","(촀\0Oh, n\0...
+\0
+Du wirst nicht glauben, was mir
+passiert ist...
+(촀\0Ich war im Laden und hab 2""촀
+eineneineein
+2촁}\0\0 gekauft,
+weil ich schon lange 2$촀
+eineneineeins wollte...
+(촀\0Zu Hause hab ich dann leider
+festgestellt, dass ich am Vortag
+schon 2$촀
+eineneineeins gekauft hatte!
+(촀\0Oh!
+\0 Vielleicht willst du mir ja 2""촀
+eineneineein
+2촁}\0\0($촀\0
+abkaufen,
+\0 n\0?"
+"004_a","(\0촀\0Zu welchem Preis?"
+"004_b","Tut mir leid..."
+"005","('촀\0Kein Problem ich verstehe schon.
+\0
+(촀\0Vielleicht hab ich ja bei jemand
+anders mehr Glück,
+\0 n\0."
+"006","(촀\0Verstehe...
+\0(\0촀\0 Aber wenn ich etwas
+rumfrage, 
+\0(촀\0finde ich sicher bald
+einen Interessenten, 
+\0n\0."
+"007","('촀\0Schon gut, ich verstehe. 
+\0(촀\0Danke für
+deine Zeit,
+\0 n\0."
+"008","('촀\0Nein, du brauchst dich doch nicht zu
+entschuldigen!
+\0 (촀\0Es war nett, dass du
+mir zugehört hast,
+\0 n\0.
+(촀\0Ich muss beim Einkaufen wirklich
+gewissenhafter sein!"
+"009","( 촀\0Och,
+\0 nein.
+\0( (촀\0Bitte entschuldige das
+schlechte Timing.
+\0 Du bist ja gerade
+arg knapp bei Kassen\0\0
+(촀\0Vielleicht wäre es am besten, 
+\0wenn
+wir diese kleine Unterhaltung
+verschieben würden,
+\0 n\0."
+"100","(
+촀\0Lass mich kurz überlegen...
+\0((&촀\0
+Was hältst du von Z?"
+"100_a","Gekauft!"
+"100_b","Lass gut sein..."
+"101","(촀\0Vielen Dank, dass du mir aus der
+Klemme hilfst!
+\0 Ich bin froh, dass ich
+dich deswegen angesprochen habe!"
+"102","(촀\0Ich bin mir ziemlich sicher,
+2\0}\0\0
+wird sich bei dir wohlfühlen!"
+"103","(
+촀\0Also... 
+\0In dem Fall... 
+\0(촀\0kannst du es
+auch umsonst haben! 
+\0(촀\0Ich brauche
+das Geld gar nicht so dringend."
+"104","(촀\0Wenn du dich darüber freust, ist mir
+das Lohn genug.
+\0 (촀\0Ich hoffe, du hast
+Verwendung dafür, 
+\0n\0."
+"105","(%촀\0Ich verstehe...
+\0(촀\0 Keine Sorge, ich finde
+schon jemanden, der mir das Ding
+abkauft,
+\0 n\0."
+"200","(
+촀\0Dann sagen wir mal...
+\0(\0촀\0
+(&촀\0Z?"
+"200_a","Puh, zu viel..."
+"200_b","Einverstanden."
+"200_c","Nichts für mich."
+"201","(
+촀\0Hm... 
+\0Das ist dir zu teuer?
+(\0촀\0
+\0Könntest du dich mit
+(촀\0Z abfinden?"
+"201_a","Jawollja!"
+"201_b","Immer noch teuer..."
+"202","(촀\0Das freut mich!
+\0
+Vielen herzlichen Dank!"
+"203","(촀\0Es ist so gut wie neu. 
+\0(촀\0Ich bin sicher,
+du wirst viel Freude daran haben,
+\0
+n\0!(촀"
+"204","(촀\0Schade...
+\0(4촀\0 Aber keine Sorge.
+\0(촀\0
+Irgendwer wird es schon haben
+wollen,
+\0 n\0."
+"205","(
+촀\0Hmmmmmm... 
+\0((\0촀\0Dann sagen wir
+\0
+(촀\0Z?"
+"205_a","(\0촀\0Das ist ein Wort!"
+"205_b","(\0촀\0Wir sind nah dran..."
+"206","(8촀\0Weiter kann ich nicht runtergehen,
+\0
+selbst für dich nicht...
+\0 (촀\0Dann wird
+das wohl leider nichts."
+"207","(촀\0Was?! 
+\0(촀\0Warst du schon immer so...
+\0
+sparsam,
+\0 n\0?
+\0
+(\0촀\0Na gut, dann ($촀\0Z\0?"
+"207_a","Yippie, gekauft!"
+"207_b","Ich will's gar nicht."
+"208","(촀\0Herzlichen Dank!"
+"209","(7촀\0Du kannst wirklich gut feilschen,
+\0
+n\0.
+\0(\0촀\0 Aber irgendwie
+hat es Spaß gemacht,
+\0(촀\0 n\0!"
+"210","(촀\0Argh! 
+\0(7촀\0Aber das Feilschen hat
+irgendwie Spaß gemacht. 
+\0(촀\0Also
+trotzdem danke,
+\0 n\0!"
+"300","(촀\0Schön! (\0촀\0Wie wäre es mit 2(촀
+einem
+einer
+einem
+2촂}\0\0 für
+($촀\0Z?"
+"300_a","Gekauft!"
+"300_b","(\0촀\0Noch was anderes?"
+"301","(촀\0Das freut mich!"
+"302","(촀\0Damit hab ich genug Sternis,
+um mein Buch kaufen zu können.
+\0
+(촀\0Danke,
+\0 n\0!"
+"303","(
+촀\0Mal überlegen... 
+\0Ich hätte da noch
+2""촀
+eineneineein 2촁}\0\0
+für ($촀\0Z."
+"303_a","Nehme ich!"
+"303_b","(\0촀\0Noch was anderes?"
+"304","(
+촀\0Na jan\0\0 
+\0Ich könnte dir m2""촀
+eineneineein 2촁}\0\0 für ($촀\0Z verkaufen. 
+\0(\0촀\0Interesse?"
+"304_a","Ja!"
+"304_b","(\0촀\0Noch was anderes?"
+"305","(촀\0Na gut, ein letzter Versuch noch:
+\0
+(\0촀\02\0}\0\0
+(&촀\0für...
+\0 sagen wir mal Z?"
+"305_a","Einverstanden!"
+"305_b","Tut mir leid..."
+"306","('촀\0Nein, nein, 
+\0mach dir keine Sorgen.
+\0
+(촀\0Ist ja nicht deine Schuld, dass nichts
+für dich dabei war, 
+\0n\0."
+"400","(촀\0Oh, vielen lieben Dank!
+\0
+(4촀\0Wären Z in Ordnung?"
+"400_a","Deal!"
+"400_b","(\0촀\0Komm mir entgegen."
+"401","(촀\0Tausend Dank!"
+"402","(촀\0Schön, dass sich doch noch
+2:ein Abnehmereine Abnehmerin gefunden hat!"
+"403","(
+촀\0Hm... 
+\0Mal überlegen...
+\0
+(\0촀\0Ich könnte dir (&촀\0Z
+anbieten. 
+\0(4촀\0Einverstanden?"
+"403_a","Klingt gut!"
+"403_b","(\0촀\0Das kannst du besser."
+"404","(
+촀\0Oje, oje...
+\0
+(&촀\0Könntest du denn mit einem Preis
+von Z leben?"
+"404_a","Absolut!"
+"404_b","(\0촀\0Da geht noch was..."
+"405","(%촀\0Na gut.(\0촀\0
+\0 Mein allerletztes Angebot –
+\0
+und kein Sterni weniger:
+\0
+(9촀\0Z\0! 
+\0(&촀\0Was sagst du?"
+"405_a","Juchhu, gekauft!"
+"405_b","(\0촀\0Veräppelt!"
+"406","(촀\0Herzlichen Dank!(촀"
+"407","(촀\0Damit tust du mir einen großen
+Gefallen!
+\0( (촀\0Und das Feilschen war
+auch irgendwie lustig, 
+\0n\0."
+"408","(촀\0Hihi, wie gemein...
+\0
+(\0촀\0Das Feilschen hat (촀\0aber tatsächlich
+Spaß gemacht,
+\0 n\0."
+"409","(촀\0Oh... 
+\0(촀\0Tut mir leid, aber mit dem
+Preis kann ich nicht runtergehen,
+\0
+n\0."
+"410","(촀\0Oje, 
+\0weiter kann ich leider nicht
+nachgeben.
+\0 (촀\0Tut mir echt leid,
+\0
+n\0."
+"411","(촀\0So leid es mir tut, 
+\0aber das war das
+beste Angebot, das ich dir machen
+konnte,
+\0 n\0."

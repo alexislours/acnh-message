@@ -1,0 +1,106 @@
+﻿"label","text"
+"001","(촀\0Se me ocurre un juego para pasar
+el rato.
+\0 ¡Y te puedo dar un premio
+si ganas!
+(촀\0Mi }\0\0.\0\0($촀\0¿Qué me dices?
+\0 ¿Te animas?"
+"001_a","¡Juguemos!"
+"001_b","Mejor paso..."
+"002","(&촀\0¿Quieres que te explique las reglas
+del juego?"
+"002_a","¡Sí, por favor!"
+"002_b","No hace falta"
+"003","(촀\0Bueno, si quieres jugamos en otro
+momento, n\0."
+"004","(<촀\0Bueno,
+\0 pues primero mezclaré
+muy bien las cartitasn"
+"005","(9촀\0¿Estás segur2oa?
+\0
+Veamosn"
+"006_01","(촀\0¡Ganaste!
+\0 (촀\0Aquí tienes mi }\0\0."
+"006_02","Me tocó perder esta vez.
+\0 (촀\0Y ahora mi
+}\0\0 es tuy2촀oa\0."
+"006_03","(촀\0Parece que hoy no es tu día
+de suerte, calabacita."
+"007_01","(촀\0¿Eres vidente o solo tuviste suerte?
+\0
+(촀\0Tendremos que jugar otra vez para
+comprobarlo,
+\0 n\0."
+"007_03","(촀\0Pero podemos jugar otro día si
+quieres la revancha,
+\0 así que no
+te desanimes."
+"008","(촀\0¡Genial!
+\0 ¡Va a ser muy divertido!\0\0(촀\0Ah, pero,
+\0 tienes los bolsillos llenos.
+\0
+No podré darte el premio que
+ganesn\0\0
+(촀\0¿Qué tal si lo dejamos para cuando
+tengas algo de espacio?"
+"100","()촀\0Es un juego muy fácil, ya verás.
+\0
+Tengo aquí unas cartas con estos
+palos: \0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿
+\0 y \0♣\0￿.\0\0(촀\0Yo elijo una carta y tú tienes
+que adivinar de qué palo es.\0\0(\0촀\0Si aciertas,
+\0 (촀\0te quedas con mi
+}\0\0.\0\0(촀\0Fácil, ¿verdad?
+\0 Pues empecemos.
+\0
+(<촀\0Voy a revolver las cartasn"
+"101","De qué palo es la carta que saqué:
+\0
+¿\0corazones (♥)\0￿, \0diamantes (♦)\0￿,
+\0picas (♠)\0￿ o \0tréboles (♣)\0￿?"
+"101_a","\0Corazones (♥)\0￿"
+"101_b","\0Diamantes (♦)\0￿"
+"101_c","\0Picas (♠)\0￿"
+"101_d","\0Tréboles (♣)\0￿"
+"102_01","(촀\0¡2\0촀!
+\0((촀\0 ¡Acertaste!"
+"102_02","(촀\0¡2\0촀!
+\0( (촀\0Lo siento, 
+\0pero tu respuesta es incorrecta."
+"200","()촀\0Bien, voy a explicarte las reglas.
+\0
+Tengo unas cartas con estos
+palos:
+\0 \0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿
+\0 y \0♣\0￿.\0\0(촀\0Yo elijo una carta y tú tienes que
+adivinar de qué color será el palo
+que saque.\0\0(\0촀\0Si aciertas,
+\0 (촀\0te quedas con mi
+}\0\0.\0\0(촀\0Fácil, ¿no?
+\0 Pues empecemos."
+"201","(9촀\0A ver,
+\0 dime si el palo de la carta que
+acabo de sacar es \0rojo \0￿o \0negro\0￿."
+"201_a","\0Rojo\0￿"
+"201_b","\0Negro\0￿"
+"202_01","(촀\0¡2\0촀!
+\0(
+(촀\0Sí es de color \0rojo\0￿,
+\0 ¡así que ganaste!"
+"202_02","(촀\0¡2\0촀!
+\0(
+(촀\0Es de color \0negro\0￿,
+\0 lo siento, pero
+eso quiere decir que perdiste."
+"202_03","(촀\0¡2\0촀!
+\0(
+(촀\0Sí es de color \0negro\0￿.
+\0 ¡Ganaste!"
+"202_04","(촀\0¡2\0촀!
+\0(
+(촀\0Es de color \0rojo\0￿n\0\0
+\0 perdiste."

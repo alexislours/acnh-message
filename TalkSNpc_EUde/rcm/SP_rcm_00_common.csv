@@ -1,0 +1,603 @@
+﻿"label","text"
+"001","(촀\0Willkommen, 
+\0n\0!
+\0
+(\0촀\0Was kann ich heute für dich tun?"
+"001_a","Ich will was verkaufen!"
+"001_b","Ich will was kaufen!"
+"001_c","('촀\0Nichts..."
+"002","(촀\0Oho!
+\0 Wen haben wir denn hier?(촀\0
+\0
+
+\0(촀\0Bist du den ganzen Weg gekommen,
+\0
+nur um bei mir einzukaufen?
+(\0촀\0Was kann ich für dich tun?"
+"002_a","Ich will was verkaufen!"
+"002_b","Ich will was kaufen!"
+"002_c","('촀\0Nichts..."
+"003","(촀\0Wie kann ich dir behilflich sein?"
+"003_a","Ich will was verkaufen!"
+"003_b","Ich will was kaufen!"
+"003_c","('촀\0Nichts..."
+"011","(촂\0(촃\0Willkommen, 
+\0n\0!
+d\0
+\0\0KHerzlich willkommen!\0dd
+\0
+(\0촀\0Was können wir heute für dich tun?"
+"011_a","Ich will was verkaufen!"
+"011_b","Rübenpreise?"
+"011_c","Heutiger Top-Ankauf?"
+"011_d","('촀\0Nichts..."
+"012","(촀\0Oho!
+\0 Wen haben wir denn hier?(촀\0
+\0
+
+\0(촀\0Bist du den ganzen Weg gekommen,
+\0
+nur um bei uns einzukaufen?
+(\0촀\0Was können wir für dich tun?"
+"012_a","Ich will was verkaufen!"
+"012_b","Rübenpreise?"
+"012_c","Heutiger Top-Ankauf?"
+"012_d","('촀\0Nichts..."
+"013","(촂\0(촃\0Wie können wir dir behilflich sein?
+d\0
+\0\0KWas darf es sein?\0dd
+\0("
+"013_a","Ich will was verkaufen!"
+"013_b","Rübenpreise?"
+"013_c","Heutiger Top-Ankauf?"
+"013_d","('촀\0Nichts..."
+"014","(촂\0(촃\0Ich hoffe, 
+\0die Erklärung war dir jetzt
+nicht zu langn\0\0
+\0 (촂\0(촃\0Was darf es denn
+heute sein?"
+"014_a","Ich will was verkaufen!"
+"014_b","Rübenpreise?"
+"014_c","Heutiger Top-Ankauf?"
+"014_d","('촀\0Nichts..."
+"019","Können wir sonst noch etwas
+(촀\0für dich tun? d\0
+\0\0KIrgendetwas?\0dd"
+"019_a","Ich will was verkaufen!"
+"019_b","Rübenpreise?"
+"019_c","Heutiger Top-Ankauf?"
+"019_d","('촀\0Nichts..."
+"021","(%촂\0(촃\0Sehr gern! (\0촂\0
+\0(촂\0Was hast du anzubieten?
+d\0
+\0\0KZeig doch mal!\0dd(촂\0(촃"
+"022","()촂\0(촃\0Wir dürfen leider aus steuerlichen
+Gründen sonntags keine Rüben
+ankaufen.
+\0 (%촃\0Das verstehst du sicher.
+(\0촂\0(\0촃\0Alson\0\0 
+\0(촂\0(촃\0Was möchtest du verkaufen?(촂\0(촃"
+"024","(촂\0(촃\0Ojen\0\0
+\0 Es tut mir leid, 
+\0abern\0\0
+\0 jetzt
+ist es Sonntag geworden,
+\0 und wir
+können keine Rüben mehr ankaufen.\0\0(\0촂\0(\0촃\0Möchtest du etwas anderes zum
+Verkauf auswählen?"
+"031","(%촂\0(촃\02\02\0}\0\0!
+\0
+(촂\0Dafür können wir dir
+Z\0 anbieten."
+"031_a","(%촀\0Abgemacht!"
+"031_b","('촀\0Lieber nicht."
+"035","\0K(;촀\0Ah!
+\0 Ist 2,촀dieser
+diesedieses }\0\0 etwan\0\0\0d
+(촀\0
+\0Ähem! 
+\0(촀\0Es ist nichts. 
+\0Ich habe nur
+laut gedacht!\0\0Für 2""촀
+eineneineein 2촁}\0\0 zahlen wir Z\0!"
+"035_a","(%촀\0Abgemacht!"
+"035_b","('촀\0Lieber nicht."
+"036","(%촂\0(촃\0Ah! 
+\0Das ist eine Bastelanleitung für
+2""촀
+eineneineein 2촁}\0\0!\0\0(촂\0Dafür können wir dir Z\0
+geben!"
+"036_a","(%촀\0Abgemacht!"
+"036_b","('촀\0Lieber nicht."
+"037","(촂\0(촃\0OH!
+\0 Eine Bastelanleitung für 2""촀
+eineneineein
+2촁}\0\0!\0\0(촂\0Diese Anleitung ist überaus(%촃\0 wertvoll.
+\0
+Brauchst du sie wirklich nicht selbst?
+\0
+Wir zahlen dir Z\0 dafürn"
+"037_a","(%촀\0Abgemacht!"
+"037_b","('촀\0Lieber nicht."
+"038","(촂\0(촃\0Ohn\0\0
+\0 Entschuldige,
+\0 aber dafür
+können wir dir leider nichts geben.\0\0Wir können es aber kostenlos für
+dich entsorgen,
+\0 wenn du möchtest!"
+"038_a","Ja, bitte!"
+"038_b","Lieber doch nicht."
+"041","(촂\0(촃\0Oh, 
+\0da hast du ja einiges für uns
+dabei! 
+\0((
+촂\0(1촃\0Ich rechne das mal kurz
+durchn"
+"041_01","Da hast du ja einiges für uns!
+\0
+\0K(;촀\0
+\0Moment, 
+\0das ist doch nicht etwan\0\0?\0d\0\0(촀\0
+\0Ähem! 
+\0(촀\0Nein, nein, 
+\0alles in Ordnung!
+\0
+Ich rechne schnell alles zusammenn"
+"041_02","(촂\0(촃\0Das ist ja eine tolle Auswahl!
+\0( Dann
+wollen wir doch mal sehenn\0\0\0\0(
+촂\0(1촃\0Wenn wir alles zusammenrechnenn\0\0
+\0
+Nicht zu vergessen natürlich die
+Top-Ankäufe des Tagesn"
+"042","(촂\0(촃\0So!
+\0( (\0촂\0Insgesamt bekämst du
+Z\0 dafür.
+\0(촂\0
+Einverstanden?"
+"042_a","(%촀\0Abgemacht!"
+"042_b","('촀\0Lieber nicht."
+"043","(촂\0(촃\0Da hast du ja einigesn\0\0 
+\0((촂\0(촃\0OH!
+\0 (\0촂\0(\0촃\0Diese
+Bastelanleitung sieht recht wertvoll
+aus. 
+\0(&촂\0(&촃\0Willst du sie wirklich verkaufen?"
+"043_a","(%촀\0Ja, gerne."
+"043_b","('촀\0Ach, lieber doch nicht."
+"044_01","(촂\0
+\0(촃\0Sehr wohl!d\0 
+\0\0K...wohl!\0dd
+\0(
+(1촂\0(%촃\0Dann lass mich nur schnell den
+Wert zusammenrechnenn"
+"044_02","(촂\0
+\0(촃\0Sehr wohl!d\0 
+\0\0K...wohl!\0dd
+\0(
+(
+촂\0(1촃\0Schnell mal alles zusammenrechnen,
+
+\0inklusive Top-Ankäufenn"
+"045","(촂\0(촃\0Und fertig!\0\0(\0촂\0Nicht alles in deiner Auswahl ist von
+Wert, 
+\0aber wir können die wertlosen
+Dinge für dich entsorgen.\0\0(\0촂\0Damit wären wir dann bei...
+\0
+Z\0.
+\0(촂\0 Bist du damit
+einverstanden?"
+"045_a","(%촀\0Abgemacht!"
+"045_b","('촀\0Lieber nicht."
+"046","(촂\0(촃\0Ohn\0\0
+\0 Entschuldige,
+\0 aber dafür
+können wir dir leider nichts geben.\0\0Wir können es aber kostenlos für
+dich entsorgen,
+\0 wenn du möchtest!"
+"046_a","Ja, bitte!"
+"046_b","Lieber doch nicht."
+"051","(촂\0(촃\0Firma dankt!
+\0(
+Wir hoffen, du beehrst uns recht
+bald wieder!(%촃\0 d\0
+\0\0KMöglichst bald!\0dd"
+"051_01","(촂\0
+\0(촃\0Alles klar!d\0
+\0 \0KKein Ding!\0dd
+\0(
+Wir entsorgen das für dich."
+"052","(촂\0(촃\0Firma dankt! 
+\0d\0\0KDanke!\0dd
+\0( (\0촂\0(\0촃\0Das Geld, 
+\0das nicht in deine Börse passt, 
+\0findest du in Beuteln in deiner Tasche!"
+"053","(촂\0(촃\0Firma dankt! 
+\0d\0\0KDanke!\0dd
+\0( (\0촂\0(\0촃\0Da sowohl deine
+Geldbörse als auch deine Tasche voll
+sind,
+\0(촂\0(촃\0 wird das Geld überwiesen!"
+"054","(촂\0Oh nein!(촃\0 d\0
+\0\0KOh weh!\0dd
+\0\0\0('촂\0
+\0('촃\0Du kannst nicht noch mehr Geld bei
+dir tragen.
+\0 ('촀\0So kann ich dir deine
+wohlverdienten Sternis nicht gebenn\0\0\0\0(\0촂\0(%촃\0Schaff doch bitte etwas Platz in
+deiner Tasche
+\0 (촂\0(촃\0und sag dann noch
+einmal Bescheid!"
+"056_01","(촂\0(촃\0Oh, 
+\0bevor ich's vergesse!
+\0 (\0촂\0(\0촃\0Du hast
+ja gerade etwas \0Obst \0￿verkauftn\0\0\0\0()촂\0Wenn du Lebensmittel \0verzehrst\0￿,
+\0
+(%촃\0kannst du unerwartete Kräfte in dir
+erwecken. 
+\0(&촂\0(촃\0Wusstest du das schon?"
+"056_02","()촂\0Du könntest zum Beispiel (%촃\0Felsen
+zerschmettern 
+\0oder mit dem richtigen
+Werkzeug ganze Bäume ausgraben!"
+"056_03","()촂\0Du könntest zum Beispiel (%촃\0Felsen
+zerschmettern 
+\0oder mit einer
+Schaufel ganze Bäume ausgraben!"
+"056_04","(촂\0(촃\0Wir kaufen Essbares natürlich immer
+gerne an, 
+\0aber \0probier\0￿ es ab und zu
+auch ruhig selber! d\0
+\0\0KMmmh, lecker!\0dd"
+"061","(촀\0(촃\0Interesse an den Artikeln im Regal?
+\0
+Hier ist unser heutiges Sortiment!
+(촃\0d\0
+\0\0KViel Spaß beim Stöbern!\0dd"
+"081","Der aktuelle Rübenkurs beträgtn\0\0
+\0
+(촀\0(촃\0Z\0 pro Rübe! 
+\0d\0\0KJa, ja!\0dd"
+"082","Sonntags ist der Rübenhandel
+leider geschlossen.
+\0 (촀\0(촃\0Morgen sind wir
+wieder für alle Rübenwünsche da!"
+"091","(\0촀\0Hier, 
+\0(촀\0das sind unsere aktuellen
+Angebote!(촀"
+"092","(&촃\0(촃\0Gäbe es sonst noch etwas, 
+\0was wir
+dir andrehen können?"
+"092_a","Zeig noch mal!"
+"092_b","Alles in Ordnung!"
+"093","(촀\0Sehr gern, 
+\0sehr gern!
+\0(
+Wir werden nie müde, unsere
+Waren zu präsentieren!(촀"
+"094","(%촀\0(촃\02\02\0}\0\0
+kostet Z\0."
+"094_a","(%촀\0Nehm ich!"
+"094_b","('촀\0Lieber nicht."
+"096","(촂\0(촃\0Oh, 
+\0du möchtest eine \0Angel\0￿ kaufen?\0\0(\0촂\0Der Chef will, 
+\0dass wir auf seinen
+\0Bastelkurs\0￿ hinweisen.\0\0(%촃\0Dort könntest du umsonst eine \0Angel\0￿
+herstellenn\0\0 (촂\0(촃\0Aber wenn du sie lieber
+kaufst, 
+\0ist uns das auch recht!\0\0Für Z\0 bist du dabei. 
+\0(&촂\0Wofür entscheidest du dich?(&촃\0
+d\0
+\0\0KWas darf es sein?\0dd"
+"096_a","(%촀\0Nehm ich!"
+"096_b","('촀\0Lieber nicht."
+"101","(%촂\0(촃\0Das ist 
+\0(촂\02\0}\0\0! 
+\0d\0\0KGenau!\0dd"
+"102","(%촂\0Davon sind nur begrenzte
+(%촃\0Stückzahlen erhältlich.
+\0 Bei Interesse
+(촂\0(촃\0solltest du also schnell zuschlagen!"
+"103","Der Preis beträgt (%촂\0Z\0.
+
+\0($촂\0($촃\0Na, 
+\0Interesse?"
+"103_a","(%촀\0Nehm ich!"
+"103_b","('촀\0Lieber nicht."
+"104","Der Preis beträgt (%촂\0Z\0.
+
+\0($촂\0($촃\0Na, 
+\0Interesse?"
+"104_01_01","(\0촂\0(\0촃\0Du hast dich hier auf der Insel noch
+nicht (&촂\0(&촃\0am \0Basteln \0￿versucht, 
+\0stimmt's?"
+"104_01_02","(촀\0Der Chef bietet derzeit einen
+Schnupperkurs zum \0Basteln\0￿ an.
+\0
+Probier das doch erst einmal aus!"
+"104_01_03","(촂\0Im \0Servicecenter \0￿wird derzeit ein
+(%촃\0Schnupperkurs zum \0Basteln
+\0￿angeboten.
+\0(촃\0 Probier's doch mal aus!"
+"104_02","(촂\0Ich glaube,
+\0(%촃\0 das hast du bereits
+erworben,
+\0(촃\0 n\0!"
+"104_a","(%촀\0Nehm ich!"
+"104_b","Was ist das?"
+"104_c","('촀\0Lieber nicht."
+"105_01","(촂\0(촃\0„2\0}\0\0“
+\0 ist ein digitales Buch mit \0Bastelanleitungen\0￿!d\0 
+\0\0K...ein digitales Buch!\0dd"
+"106_01_01","()촂\0(촃\0„}\0\0“
+\0 enthält einfache \0Bastelanleitungen \0￿mit leicht zu beschaffendem Material."
+"106_01_02","()촂\0(촃\0„}\0\0“
+\0 enthält Anleitungen, 
+\0für die man verschiedene Materialien benötigt."
+"106_01_03","()촂\0(촃\0„}\0\0“
+\0 enthält Anleitungen, 
+\0für die man eine enorme Auswahl Materialien braucht!"
+"106_02","(촂\0(촃\0Solltest du dich zum Kauf ent-
+schließen,
+\0 laden wir dir die Anleitung
+gleich auf dein NookPhone hoch."
+"107_01","(촂\0Dann wollen wir mal die Anleitungen
+aus „}\0\0“(촃\0 auf dein NookPhone hochladenn"
+"107_02","(촂\0(촃\0Und fertig!
+\0(촂\0 Wir hoffen, 
+\0du hast mit
+den neuen Anleitungen noch mehr
+Spaß am \0Basteln\0￿!d\0
+\0 \0K...mehr Spaß am Basteln!\0dd"
+"110_02","(촂\0(촃\0Du scheinst diese Anleitung bereits
+zu besitzen, 
+\0n\0n\0\0\0\0(촂\0(촃\0Wenn du sie trotzdem kaufen willst,
+\0
+bekämen wir Z\0.
+\0
+(&촂\0Was sagst du? (&촃\0d\0
+\0\0KWillst du sie haben?\0dd"
+"110_02_a","(%촀\0Nehm ich!"
+"110_02_b","('촀\0Lieber nicht."
+"110_03","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine \0Wackelgießkanne\0￿.
+
+\0d\0\0KZum Blumengießen!\0dd"
+"110_03_01","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine \0Wackelschaufel\0￿.
+
+\0d\0\0KZum Löcherbuddeln!\0dd"
+"110_03_02","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+einen \0Sprungstab\0￿.
+
+\0d\0\0KZum Über-Flüsse-Springen!\0dd"
+"110_03_03","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine \0Schleuder\0￿. 
+\0d\0\0KZum Rumballern!\0dd"
+"110_03_04","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine \0Wackelaxt\0￿! 
+\0d\0\0KZum Bäumefällen!\0dd"
+"110_03_05","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine \0Leiter\0￿! 
+\0d\0\0KZum Hochklettern!\0dd"
+"110_04_01","(촂\0(촃\0Dies ist eine Anleitung für eine
+simple \0Gießkanne\0￿, 
+\0die du aus ein
+bisschen Holz basteln kannst!"
+"110_04_02","()촂\0Mit einer Gießkanne 
+\0(%촃\0kannst du
+Blumen wässern.(촀\0\0\0(촂\0(촃\0Ein Muss, 
+\0wenn du in deinem Garten
+wunderschön gefärbte Kreuzungen
+züchten möchtest!"
+"110_05_01","(촂\0(촃\0Dies ist eine Anleitung für eine
+simple \0Schaufel\0￿, 
+\0die du aus ein
+bisschen Holz basteln kannst!"
+"110_05_02","()촂\0Mit einer \0Schaufel\0￿ kannst du Löcher
+buddeln, 
+\0(%촃\0um etwas freizulegen 
+\0oder
+auch
+\0 um etwas zu vergrabenn\0\0\0\0(촂\0Du kannst sie auch verwenden, 
+\0(촃\0um
+Gestein und wertvolle Materialien
+aus Felsen herauszuschlagen.\0\0(%촂\0Kurzum: 
+\0ein nützliches Werkzeug,
+
+\0(%촃\0das jeder Inselbewohner (촂\0immer
+dabeihaben sollte!(촃\0 d\0
+\0\0KJederzeit!\0dd"
+"110_06_01","(촂\0(촃\0Das ist eine Anleitung für einen
+simplen \0Sprungstab\0￿, 
+\0den du aus
+ein bisschen Holz basteln kannst!"
+"110_06_02","()촂\0So ein \0Sprungstab\0￿ erlaubt dir, 
+\0
+(%촃\0über Flüsse zu hopsen!(촂\0\0\0(%촂\0(촃\0Seeehr praktisch auf dieser Insel,
+\0
+um den ein oder anderen Umweg
+zu vermeiden!(촂"
+"110_07_01","(촂\0(촃\0Dies ist eine Anleitung für eine
+\0Schleuder\0￿. 
+\0d\0\0KNicht mehr, 
+\0nicht weniger!\0dd"
+"110_07_02","()촂\0Mit einer \0Schleuder\0￿ kannst du die
+Wolken (%촃\0unter Beschuss nehmenn\0\0\0\0(촂\0(촃\0Wozu das gut sein soll? 
+\0(Zu nichts,
+
+\0aber vielleicht schwebt ja irgendwann
+mal ein lohnenderes Ziel vorbein"
+"110_08_01","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine einfache \0Axt\0￿ aus einem Stein
+und Ästen. 
+\0d\0\0KJa, ja!\0dd"
+"110_08_02","()촂\0Schlag mit einer \0Axt\0￿ auf einen Baum
+ein,
+\0 und (%촃\0du erhältst etwas absolut
+Unabdingbares für Bastler: (촂\0Holz!(촃\0
+(\0촂\0(\0촃\0Die \0Wackelaxt\0￿ besitzt eine abgerun-
+dete Klinge, 
+\0(촂\0(촃\0sodass du die Bäume
+nicht aus Versehen fällst.
+(%촂\0(촃\0Sie ist also ein Must-have, 
+\0das du
+als Bastler immer bei dir haben solltest! (촂\0d\0
+\0\0KJa, ja !\0dd"
+"110_09_01","(촂\0(촃\0Das ist eine \0Bastelanleitung \0￿für
+eine\0 Leiter\0￿ aus Holz!"
+"110_09_02","()촂\0Mit einer\0 Leiter\0￿ kannst du auf
+Plateaus klettern(%촃\0, 
+\0die ungefähr so
+hoch wie du sind – 
+\0(촂\0oder etwas höher.
+(%촂\0(촃\0Sie gehört zu den nützlichen Dingen,
+\0
+die du für das Leben auf der Insel
+stets bei dir haben willst!(촂\0d\0
+\0 \0K...stets bei dir!\0dd"
+"111","(촂\0(촃\0Danke vielmals für deinen Eink--
+\0
+\0\0\0(촂\0(촃\0Oh!
+\0(촂\0(촃\0 Du scheinst zu wenig
+Sternis dabeizuhaben.\0\0()촂\0(7촃\0Wir bieten keine Ratenzahlung an,
+\0
+also komm bitte wieder, 
+\0wenn du
+genügend Geld hast!(촃\0 d\0
+\0\0KGanz viele Sternis!\0dd"
+"112","(촂\0(촃\0Vielen Dank für deinen Eink--
+\0
+\0\0\0(촂\0(촃\0Oh! 
+\0(촂\0(촃\0Du scheinst schon ziemlich viele
+Dinge mit dir herumzutragen.
+\0 \0KZu viele!\0d\0\0(%촂\0(촃\0Komm bitte wieder, 
+\0(촂\0wenn du mehr
+Platz in deiner Tasche hast!(%촃\0
+d\0
+\0\0KGanz viel Platz!\0dd"
+"113","(촂\0(촃\0Vielen Dank für deinen Einkauf!
+(촃\0d\0
+\0\0KDanke schön!\0dd"
+"114","(촀\0Ich bestätige hiermit, 
+\0von dir
+Z\0 erhalten zu
+haben!(%촃\0 
+\0d\0\0KIch auch!\0dd"
+"121","(촂\0(촃\0Top-Ankauf des Tages istn\0\0
+\0
+2\0}\0\0!
+
+\0d\0\0KTop!\0dd"
+"121_01","(촂\0(촃\0Top-Ankäufe des Tages sindn\0\0
+\0 2\0}\0\0 und 2\0}\0!"
+"121_02","()촂\0Wir zahlen den \0doppelten\0￿ \0(%촃\0\0￿Preis für
+Top-Ankäufe, 
+\0(촂\0(촃\0also bring sie uns
+vorbei!d\0
+\0 \0K...bring sie uns vorbei!\0dd"
+"122","(촂\0(촃\02\02\0}\0\0!
+\0
+Wir zahlen dir den doppelten Preisn\0\0
+\0
+Z\0.
+\0((&촂\0(&촃\0 Einverstanden?"
+"122_a","(%촀\0Abgemacht!"
+"122_b","('촀\0Lieber nicht."
+"131","Von 2촀demderdem 2촂}\0\0 (%촃\0kannst du auch mehrere auf einmal kaufen. 
+\0(&촂\0Wie viele dürfen es sein?"
+"131_a","1 (\0Z\0 \0￿)."
+"131_b","5 (\0Z
+ \0￿)."
+"131_c","Doch nicht..."
+"200","(촂\0(촃\0Vielen Dank!d\0
+\0 \0K...Danke schön!\0dd
+Z"
+"201","(촂\0
+\0(촃\0Hallo!d\0
+\0 \0K...hallo!\0dd
+
+\0Willkommen in \0Nooks Laden\0￿!"
+"202","(촂\0(촃\0Willkommen! d\0\0K...ja, ja!\0dd\0\0(촂\0(촃\0Oh,
+\0 n\0!
+\0(촂\0(촃\0 Du bist hier,
+\0
+um einzukaufen!d\0
+\0 \0K...einzukaufen!\0dd"
+"203","(촂\0(촃\02\0n\0!
+\0 Du bist hier, 
+\0um einzukaufen!d\0 
+\0\0K...einzukaufen!\0dd"
+"204","(촂\0Wir haben alle Arten von (%촃\0Möbeln 
+\0und
+andere Dinge. 
+\0Du findest bestimmt
+etwas Nützliches darunter!(촃\0 
+\0d\0\0KJa, ja!\0dd"
+"205","(%촂\0Lass dir ruhig Zeit und 
+\0(%촃\0sieh dich um!
+(촂\0
+\0(촃\0d\0
+\0\0K...sieh dich um!\0dd"
+"206","(%촂\0Wir haben ein (%촃\0breitgefächertes
+Angebot.
+\0 Lass dir ruhig Zeit und
+sieh dich um!(촂\0
+\0(촃\0d\0
+\0 \0K...sieh dich um!\0dd"
+"207","(촂\0(촃\0Ohn\0\0 So sehr wir deine Gesellschaft
+auch schätzenn\0\0 aber es ist Zeit,
+
+\0den Laden für heute zu schließen.
+´\0\0\0(촂\0(\0촃\0Wir würden uns freuen,
+\0 (%촃\0dich bald
+wieder hier zu sehen!\0Kd\0
+\0 ...hier zu sehen!d\0d
+´"
+"901","( 촂\0Oh! 
+\0(&촂\0Wirklich?
+\0 (\0촂\0(촃\0Sag einfach Bescheid,
+\0
+(촂\0wenn wir dir irgendwie behilflich sein
+können! d\0
+\0\0KJa, ja!\0dd"
+"902_01","Alles klar!
+\0
+Wenn es sonst noch was gibt,
+\0
+(촂\0(촃\0sag einfach Bescheid! d\0
+\0\0KJederzeit!\0dd"
+"902_02","(촂\0(촃\0Oh, 
+\0wirklich?
+\0
+(촂\0(촃\0Können wir dann vielleicht mit
+irgendetwas anderem helfen?"
+"903_01","(촀\0Oh, 
+\0du möchtest also doch nichts?
+\0(\0촀\0
+Sag bitte Bescheid, 
+\0(촀\0falls wir dir sonst
+noch irgendwie weiterhelfen können!"
+"903_02","(\0촂\0(\0촃\0Wenn du noch irgendeinen Wunsch
+hast,
+\0 (촂\0(촃\0wende dich jederzeit
+vertrauensvoll an uns!"
+"903_03","(촀\0Firma dankt!
+\0 Wenn du sonst noch
+einen Wunsch hast, wende dich
+jederzeit vertrauensvoll an uns!"
+"903_04","(촂\0(촃\0Vielen Dank!d\0
+\0 \0K...Danke schön!\0dd"
+"904","(촂\0(촃\0Ich verstehe.
+\0 d\0\0KVerstanden!\0dd
+\0
+Wenn es sonst noch etwas gibt,
+\0
+sag einfach Bescheid! d\0
+\0\0KJederzeit!\0dd"
+"905","(촂\0(촃\0Gut, 
+\0wenn du sonst noch etwas
+benötigst,
+\0 (촂\0sind wir jederzeit für
+dich da! d\0
+\0\0KJederzeit!\0dd"

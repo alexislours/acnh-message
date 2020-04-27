@@ -1,0 +1,116 @@
+﻿"label","text"
+"001","Hey,
+\0 do ya wanna play ($촀\0a little game
+with me?\0\0(\0촀\0If you win, I'll give you
+my }\0\0
+(촀\0as a prize!"
+"001_a","Sounds good!"
+"001_b","Not right now."
+"002","(촀\0Cool!
+\0 (촀\0OK, let's start then.
+\0(
+($촀\0Do ya need me to explain
+the rules, n\0?"
+"002_a","Yes, please."
+"002_b","Nope."
+"003","(촀\0Aw, OK.
+\0( But I still wanna play if you
+change your mind, n\0(촀\0."
+"004","OK!
+\0( First, I'm gonna mix up
+all the cards real good!
+\0
+(<촀\0
+\0Shuffle, shuffle, shufflen"
+"005","(9촀\0Let's see what the answer is."
+"006_01","(촀\0Ah, wow! You win!
+\0( (촀\0Alrighty, like
+I promised, here's my
+}\0\0!"
+"006_02","(촀\0That means I lose!
+\0( (촀\0OK, here it is!
+My }\0\0!"
+"006_03","(촀\0I win!
+\02 (\0촀\0Sorry, but that means no prize
+for youn\0\0 
+\0(2촀\0You could probably get a
+hug though. 
+\0If ya want."
+"007_01","(촀\0That was great, a huh huh huh!
+\0( I lost
+my thing, but I still had fun!
+\0( (""촀\0Let's
+play again sometime, n\0!"
+"007_03","(촀\0A huh huh. I was so excited I forgot
+to breathe!
+\0( (2촀\0I get all nervous when
+I'm checking the results."
+"008","(촀\0Yay!
+\0 Alright, let's start!
+\0(\0\0(촀\0Uh-oh. You've got some real full
+pockets. ('촀\0Maybe we should call
+it quits.\0\0()촀\0It'd stink like feet if you won but
+couldn't take your prize!
+\0( (""촀\0We'll play
+some other time, n\0!"
+"100","OK! Here's the rule stuff!
+\0( ()촀\0I've got
+cards with four different patterns:
+\0♥heart\0￿, \0♦diamond\0￿, \0♠spade\0￿, \0♣club\0￿.\0\0()촀\0I'm going to draw one card and you
+gotta guess the pattern (%촀\0on that card.\0\0(\0촀\0If ya get it right, you win
+my (""촀\0}\0\0!\0\0(\0촀\0But if ya get (&촀\0it wrongn\0\0 Ummn\0\0
+\0thenn\0\0
+\0
+(촀\0
+\0I dunno! 
+\0((<촀\0So let's start!"
+"101","(=촀\0Alright!
+\02 (\0촀\0Which of these patterns—
+(;촀\0\0♥heart\0￿, \0♦diamond\0￿,\0 \0￿\0♠spade\0￿,\0
+\0￿or \0♣club\0￿—is on this card?"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","The answer'sn\0\0(촀\0
+\0촀!
+\0(
+(촀\0
+\0You got it!"
+"102_02","The answer'sn\0\0(촀\0촀!
+\0(
+(촀\0
+\0Aw, no dice!"
+"200","OK!
+\0( ()촀\0So all of these cards got one of
+these patterns: \0♥heart\0￿,\0 ♦diamond\0￿,\0
+\0￿\0♠spade\0￿, or \0♣club\0￿.\0\0()촀\0I'm gonna draw one card,
+\0 and you
+gotta guess what color (%촀\0the pattern
+on that card is.\0\0(\0촀\0If ya get it right, you win
+my (""촀\0}\0\0!
+(<촀\0OK, let's staaaaaaart!"
+"201","(=촀\0Son\0\0
+\02(\0촀\0is the pattern on this card I just
+drew (;촀\0
+\0""\0red\0￿"" 
+\0or ""\0black\0￿""?!"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","The answer's(촀\0n\0\0촀!
+\0(
+(촀\0That's \0red\0￿!
+\0 You got it right!"
+"202_02","The answer'sn\0\0(촀\0
+\0촀!
+\0(
+(촀\0Aw, that's \0black\0￿! 
+\0You got it wrong!"
+"202_03","The answer'sn\0\0(촀\0
+\0촀!
+\0(
+(촀\0
+\0It's \0black\0￿, so you got it right!"
+"202_04","The answer'sn\0\0(촀\0촀!
+\0(
+(촀\0Aw, it's \0red\0￿. You got it wrong!"

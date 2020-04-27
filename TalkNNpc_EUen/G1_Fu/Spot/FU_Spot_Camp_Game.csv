@@ -1,0 +1,121 @@
+﻿"label","text"
+"001","(4촀\0So,
+\0 I've got a fun idea
+\0n\0\0
+Want to play a game?\0\0()촀\0If you win,
+\0 then you get my
+}\0\0!\0\0($촀\0What do you think,
+\0 n\0?"
+"001_a","OK, let's play!"
+"001_b","Not just now, thanks."
+"002","Want to (&촀\0hear the rules?"
+"002_a","Sure!"
+"002_b","No need. Let's play."
+"003","Alright,
+\0 (촀\0maybe some other time."
+"004","(<촀\0OK,
+\0 I'll start shuffling the cards."
+"005","(6촀\0That's your guess?
+\0( (촀\0Let's find out."
+"006_01","You won,
+\0 (촀\0so you get to keep
+my }\0\0!"
+"006_02","(6촀\0Looks like I lost.
+\0( (\0촀\0That means
+\0 you
+(촀\0get my }\0\0!"
+"006_03","(촀\0I'm sorry.
+\0 Looks like you don't
+win a prize this time around."
+"007_01","(;촀\0Are you some kind of guessing-game
+expert?
+\0( (6촀\0We'll have to try this again
+sometime and find out,
+\0 n\0."
+"007_03","('촀\0Don't let this discourage you
+\0 from
+playing with me (촀\0again sometime."
+"008","(촀\0Ooh, do you mean it?
+\02 ( 촀\0Wait, 
+\0your
+pockets are too full right now.\0\0('촀\0I wouldn't be able to give you your
+prize.
+\0( (\0촀\0Let's play later(촀\0
+\0 when you have
+some pocket space,
+\0 n\0."
+"100","($촀\0OK,
+\0 here are the game's rules.
+\0(
+()촀\0I'll draw one of four cards,
+\0 and you
+have to guess which symbol is on it.
+The choices are \0♥heart\0￿,
+\0 \0♦diamond\0￿,
+\0
+\0♠spade\0￿,
+\0 or \0♣club\0￿.\0\0(\0촀\0Guess right,
+\0 and (%촀\0you'll win
+my }\0\0.\0\0(촀\0Make sense?
+\0 (<촀\0I'll shuffle the cards."
+"101","OK!
+\0 (6촀\0Is the card I just drew
+\0n\0\0
+a \0♥heart\0￿, \0♦diamond\0￿, \0♠spade\0￿,
+or \0♣club\0￿,
+\0 n\0?"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","(촀\0촀!
+\0(
+(촀\0You guessed right!"
+"102_02","(촀\0촀!
+\0(
+(촀\0Aw,
+\0 you didn't get it right
+\0n"
+"200","($촀\0OK,
+\0 here are the game's rules.
+\0(
+(\0촀\0I'll draw one of four cards,
+\0 and you
+have to guess what color it is.
+()촀\0The choices are \0red \0￿for \0♥heart 
+\0￿and \0♦diamond
+\0\0￿ or \0black\0￿ for any
+\0♠spade \0￿and \0♣club\0￿ cards.\0\0(\0촀\0Guess right,
+\0 and (%촀\0you'll win
+my }\0\0.\0\0(촀\0Make sense?
+\0 (<촀\0I'll shuffle the cards."
+"201","OK,
+\0 (6촀\0does the card I just drew
+\0n\0\0
+(\0촀\0have a \0red\0￿
+\0 or \0black\0￿ symbol?
+\0
+(;촀\0Which is it,
+\0 n\0?"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","(촀\0촀!
+\0( It's \0red\0￿!
+\0(
+(촀\0You guessed right!"
+"202_02","(촀\0촀!
+\0( (촀\0Aw, 
+\0that's a \0black\0￿ one.
+\0(
+You didn't guess right
+\0n"
+"202_03","(촀\0촀!
+\0( It's \0black\0￿!
+\0(
+(촀\0You guessed right!"
+"202_04","(촀\0촀!
+\0( (촀\0Aw, 
+\0that's a \0red\0￿ one.
+\0(
+You didn't guess right
+\0n"

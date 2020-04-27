@@ -1,0 +1,246 @@
+﻿"label","text"
+"001","(%촀\0Hai tempo
+\0 di fare con me ($촀\0una caccia
+al tesoro?"
+"001_a","Sì, ci divertiremo!"
+"001_b","Ho un po' da fare!"
+"002","( 촀\0Il tuo sguardo 
+\0mi dice 
+\0($촀\0che vuoi
+fare una caccia al tesoro con me
+\0 e
+che vuoi iniziare subito!"
+"002_a","Indovinato!"
+"002_b","Veramente ti sbagli..."
+"003","($촀\0Ti andrebbe
+\0 di fare una piccola
+caccia al tesoro con me?"
+"003_a","Volentieri!"
+"003_b","Stavolta passo."
+"004","(촀\0Che meraviglia! 
+\0Ti ringrazio!
+\0()촀\0 Allora
+ora aspetta qui 
+\0mentre io vado da
+qualche parte a nascondere il tesoro!"
+"005","(촀\0Sapevo di poter contare su di te!
+\0
+()촀\0Ora 
+\0tu aspetti qui mentre io vado a
+nascondere il tesoro sull'isola!"
+"006","(촀\0Ci divertiremo! 
+\0(\0촀\0Tu aspettami qui! 
+\0(""촀\0Io
+vado a cercare un posticino sull'isola
+dove poter seppellire il tesoro!"
+"007","(촀\0Oh, cielo! 
+\0Guarda che ora si è fatta!
+\0
+('촀\0Ora è troppo buio per andare a
+caccia. 
+\0Il tesoro dovrà aspettare."
+"008","(촀\0Oh, cielo. Capiscon\0\0 (\0촀\0Magari un'altra
+volta."
+"009","(8촀\0Peccaton\0\0
+\0 (\0촀\0Beh,
+\0 (촀\0fammi sapere quando
+te la senti."
+"010","( 촀\0Oh, capiscon\0\0(\0촀\0 Beh, 
+\0magari un'altra
+volta. 
+\0(촀\0Te lo chiederò di nuovo la
+prossima volta che c'è occasione."
+"011","(촀\0Bene. Allora adesso ti spiego le
+regole del gioco.
+\0
+x\0\0\0(촀\0Ho sotterrato un tesoro sull'isola. 
+\0Se
+lo trovi entro il tempo prestabilito,
+
+\0vinci tu!
+\0 Se non ci riesci,
+\0 vinco io!
+´\0
+(%촀\0Ricordati che si trova sotto terra,
+\0
+quindi non c'è bisogno di cercare tra
+gli edifici.
+\0 (""촀\0Tutto chiaro? Iniziamo?
+ð"
+"011_01","(촀\0Dunque, ora ti spiego come funziona.
+\0
+x\0\0\0(촀\0Ho sotterrato un tesoro sull'isola.
+\0
+Trovalo entro il tempo prestabilito
+\0
+ e
+vincerai!
+\0 Se non ci riesci,
+\0
+ vinco io!
+´\0
+(%촀\0Ricorda che si trova sotto terra,
+\0
+quindi non c'è bisogno che cerchi
+dentro gli edifici.
+´\0\0\0(9촀\0Però, 
+\0
+questo è un gioco fra noi due,
+
+\0
+quindi altri che stanno giocando con
+te($촀\0 non possono aiutarti.
+´\0
+(""촀\0Allora, 
+\0
+iniziamo, n\0?
+´"
+"012","(촀\0Benissimo.
+\0 Ora ti spiego come si
+gioca.
+\0
+x\0\0\0(%촀\0Ho sotterrato un tesoro da qualche
+parte nell'isola.
+\0 ()촀\0Se lo trovi entro lo
+scadere del tempo,
+\0 vinci tu.
+\0
+´\0
+Altrimenti 
+\0vinco io!
+´\0 (6촀\0Questa volta hai
+meno tempo,
+\0 quindi potrebbe essere
+un po' più difficilen\0\0
+\0 (""촀\0Buona fortuna!
+ð"
+"012_01","(촀\0Dunque,
+\0
+ ora ti spiego come giocare.
+\0
+x\0\0\0(%촀\0Ho sotterrato un tesoro sull'isola.
+\0 ()촀\0Se
+lo trovi entro il tempo prestabilito,
+\0
+vinci!
+\0 Altrimenti, 
+\0vinco io!
+´\0
+(6촀\0Stavolta il tempo a disposizione è
+più breve,
+\0
+ quindi potresti avere
+difficoltà a trovare il tesoro.
+´\0\0\0($촀\0Oh, un'altra cosa. 
+\0
+Giochiamo solo noi
+due,
+\0 quindi, 
+\0
+(9촀\0altri che giocano con te
+non potranno aiutarti.
+È\0
+(""촀\0Allora, 
+\0
+iniziamo, n\0?!
+È"
+"013","(&촀\0Vuoi che ti spieghi le regole?"
+"013_a","Sì, grazie!"
+"013_b","No, le so a memoria!"
+"014","(촀\0Bene,
+\0 abbiamo a che fare con 2ununa
+professionista!
+\0 (""촀\0Allora,
+\0 iniziamo!
+´"
+"014_01","(%촀\0Sono sicura che dimostrerai ciò che
+vali!
+\0 ($촀\0Ma gli amici non potranno
+aiutarti!
+\0( (""촀\0Ora iniziamo, n\0!
+x"
+"015","(%촀\0Bene,
+\0 (9촀\0ma ti avviso. 
+\0Il tempo a
+disposizione ora è di meno.
+\0 (""촀\0Allora
+
+\0possiamo iniziare?
+´"
+"015_01","(%촀\0Bene.
+\0
+ Ma stavolta fai attenzione
+perché il tempo a disposizione è
+breve.
+\0 (9촀\0Oh, e niente aiuto dagli amici.
+´\0
+(""촀\0E ora
+\0
+ iniziamo, n\0!
+x"
+"101","(촀\0Scusa,
+\0 hai tempo?
+\0 (""촀\0Ti va di fare una
+caccia al tesoro con me?"
+"101_a","Certo! Volentieri!"
+"101_b","Magari un'altra volta."
+"102","( 촀\0Oh...
+\0 n\0!
+\0(
+(촀\0Tempismo perfetto!\0\0(&촀\0Ti andrebbe di provare qualcosa che
+renderà divertente una giornata in
+cui tutto procede tranquillamente?
+(""촀\0Vorrei invitarti a fare una bella caccia
+al tesoro insieme a me. 
+\0(촀\0Che ne dici?"
+"102_a","Mi piacerebbe."
+"102_b","Mi spiace, non posso."
+"103","( 촀\0Oh!
+\0 Come si è fatto tardi!
+\0 (\0촀\0So che è
+stata una mia idea,
+\0 (촀\0ma purtroppo
+
+\0dobbiamo rimandare, n\0!"
+"104","(촀\0Fantastico!
+\0 Grazie di aver accettato,
+
+\0n\0!
+\0( (촀\0Allora
+\0 io vado a
+sotterrare il tesoro!"
+"105","( 촀\0Oh, cielo!
+\0 Scusami, non è proprio il
+momento.
+\0 (\0촀\0Allora
+\0 (촀\0vieni a cercarmi
+quando hai tempo, n\0."
+"106","( 촀\0Oh, cielo!
+\0 Abbiamo chiacchierato così
+tanto che ho perso la cognizione del
+tempo!
+\0\0\0(\0촀\0Mi dispiace, n\0n\0\0
+Si è fatto tardi.
+\0 (촀\0È meglio rimandare
+a un altro giorno."
+"107","(촀\0Sapevo che ti sarebbe piaciuta l'idea!
+\0(촀\0\0\0()촀\0Io vado
+\0 a sotterrare il tesoro. 
+\0Tu
+aspettami nella piazza, n\0."
+"108","( 촀\0Oh!
+\0 Capisco. 
+\0((%촀\0Non importa,
+\0 non ti
+preoccupare.
+\0( (\0촀\0Sarà per un'altra volta,
+n\0!"
+"200","(촀\0Ho cercato dappertutto sull'isola,
+
+\0ma non sono riuscita a trovare un
+posto adeguato per il tesoro.
+(촀\0Mi dispiacen\0\0 L'idea della caccia al
+tesoro è stata mia.
+\0 (촀\0Ma purtroppo
+
+\0dobbiamo rimandarla, n\0."

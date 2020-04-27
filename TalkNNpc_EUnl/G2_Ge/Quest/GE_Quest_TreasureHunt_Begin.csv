@@ -1,0 +1,213 @@
+﻿"label","text"
+"001","(촀\0Hoi hoi! 
+\0Wil je (\0촀\0
+\0(""촀\0schattenjacht spelen
+met mij?"
+"001_a","Tuurlijk!"
+"001_b","Ik heb het te druk."
+"002","(촀\0Jij ziet eruit alsof je wel zin hebt
+omn\0\0
+\0($촀\0 mee te doen aan een
+
+\0schattenjacht!"
+"002_a","Misschien wel, ja."
+"002_b","Niet echt..."
+"003","(""촀\0Hé hoi! Heb je zin om schattenjacht
+te spelen?"
+"003_a","Goed idee!"
+"003_b","Nee, dank je."
+"004","(촀\0Oké!
+\0 (%촀\0Het zit dus zo, weet je? 
+\0Ik ga
+ergens op dit eiland een schat
+begraven!\0\0()촀\0Rustig maar.
+\0 Daar heb ik eerst
+toestemming voor gevraagd.\0\0(촀\0Maar nu moet je eerst eventjes
+wachten, dan zoek ik naar een te gek
+plekje om de schat te begraven."
+"005","(%촀\0Kijk, ik ga dus (""촀\0ergens op dit eiland
+een schat begraven. Wacht hier even,
+oké?
+\0 Oké."
+"006","(6촀\0Oké, 
+\0ik ga ergens op het eiland (촀\0een
+schat begraven!"
+"007","(촀\0O, balen. 
+\0Het is al laat?
+\0 (\0촀\0(\0촀\0En het zou,
+zeg maar, lastig zijn om te zien?\0\0En daarnaast? Ben ik ook bang voor
+vampiers?\0\0Dus
+\0 (촀\0laten we dit maar een andere
+keer doen!"
+"008","(촀\0Okén\0\0 
+\0Misschien een andere keer!"
+"009","Oké.
+\0 (촀\0Nou,
+\0 laten we dan een andere
+keer spelen!"
+"010","Okééén\0\0
+\0 (촀\0Nou, 
+\0laten we een andere
+keer eens spelen. Het is superleuk!"
+"011","(촀\0Dit zijn de regels!
+\0
+<\0\0\0(촀\0Als je de door mij begraven schat
+vindt voor de tijd om isn\0\0 
+\0Win je!
+
+\0Zo!
+\0 Simpel!
+\0 Is!
+\0 Het!
+<\0\0\0(%촀\0En ik kan alleen maar buiten graven?
+
+\0(촀\0Want niemand vindt het leuk als ik
+hun vloer verniel? 
+\0Dus blijf buiten!
+<\0\0\0(""촀\0Oookén\0\0
+\0 Tijd om te beginnen!
+x"
+"011_01","(촀\0Gaaaf! Dit zijn de regels!
+\0
+<\0\0\0(촀\0Als je de door mij begraven schat
+vindt voor de tijd om is, 
+\0win je, n\0!
+Z\0\0\0(%촀\0Binnen in gebouwen zul je niets
+vinden, 
+\0(촀\0dus blijf buiten!
+<\0\0\0()촀\0O, ja! 
+\0Dit is, zeg maar, óns spelletje,
+\0
+dus je krijgt geen hulp van je
+vrienden!
+\0 ($촀\0Snappie?
+\0 Super!
+Z\0
+(""촀\0Okén\0\0
+\0 Daar gaan we, n\0!
+x"
+"012","(촀\0En dan nu de regels. Dit deel is
+supersimpel, want het zijn precies
+dezelfde regels als de vorige keer!
+Z\0
+Met één uitzondering! (%촀\0Deze keer heb
+je minder tijd!
+\0 (6촀\0Dus het is een beetje
+lastiger!
+Z\0\0\0(""촀\0Oké? Cool? 
+\0Dan kunnen we
+beginnen!
+x"
+"012_01","(촀\0Gaaaf! Dit zijn de regels!
+\0
+<\0\0\0(촀\0Als je de door mij begraven schat
+vindt voor de tijd om is, 
+\0win je, n\0!
+Z\0\0\0(%촀\0Deze keer heb je minder tijd dan de vorige keer, 
+\0(6촀\0dus het zou ietsiepietsie moeilijker kunnen zijn!
+Z\0\0\0()촀\0O, 
+\0en dit is, zeg maar, óns spelletje,
+\0
+dus je krijgt geen hulp van je
+vrienden!
+\0 ($촀\0Snappie?
+\0 Super!
+Z\0
+(""촀\0Okén\0\0
+\0 Daar gaan we, n\0!
+x"
+"013","(&촀\0Wil je dat ik de regels uitleg?"
+"013_a","Ja, graag."
+"013_b","Nee."
+"014","(%촀\0Oké!
+\0 (""촀\0Dan kunnen we beginnen!
+Z"
+"014_01","(%촀\0Hartstikke gaaf!
+\0 ( 촀\0O! 
+\0Dit is helemaal jouw potje, n\0. 
+\0Je mag geen hulp van anderen krijgen.\0\0($촀\0Snappie?
+\0 (""촀\0Laten we dan beginnen,
+n\0!
+Z"
+"015","(촀\0Oké!
+\0 (%촀\0Je hebt deze keer minder tijd,
+\0
+dus je zult snel moeten zijn!(""촀\0 Goed,
+
+\0de 
+\0schattenjacht
+\0 is 
+\0begonnen!"
+"015_01","(촀\0Oké!
+\0 (%촀\0Je hebt deze keer minder tijd,
+\0
+dus je zult snel moeten zijn!
+\0\0\0( 촀\0O! 
+\0Dit is helemaal jouw potje, n\0!
+\0 Dus je mag geen hulp van anderen krijgen.\0\0($촀\0Snappie?
+\0 (""촀\0Daar gaan we, n\0!
+Z"
+"101","(&촀\0Hééé, 
+\0heb je, zeg maar, even tijd?
+\0
+(\0촀\0En heb je zin om
+\0 (촀\0schattenjacht te
+spelen?"
+"101_a","Uiteraard!"
+"101_b","Komt nu niet uit."
+"102","( 촀\0O, hé, n\0.
+\0 (촀\0Luister eens even!\0\0()촀\0Als elke dag van mijn leven vol
+spanning was? 
+\0(1촀\0Dan zou ik toch
+\0 een
+nóg betere popster worden?!
+(\0촀\0Dus, 
+\0wat als jij en ik schattenjacht
+spelen?
+\0 (촀\0Dan veranderen we deze dag
+van okén\0\0 naar (촀\0popster-extravagant!"
+"102_a","We gaan ervoor!"
+"102_b","Een andere keer."
+"103","( 촀\0O, balen!
+\0 Het is al superlaat!
+\0 (7촀\0Sorry,
+
+\0maar we zullen het een andere keer
+moeten doen!"
+"104","(촀\0Gaaaaaaf!
+\0 Oké, wacht hier even.
+\0 ($촀\0
+Dan sla ik aan het graven!\0\0(\0촀\0(%촀\0Ik zoek al een week naar een goeie
+plek? En
+\0 volgens mij heb ik hem
+gevonden!"
+"105","(""촀\0Oké, dat is hartstikke cool!
+\0 (7촀\0We
+kunnen ook een andere keer spelen,
+n\0!"
+"106","(촀\0O, wauwn\0\0
+\0 Moet je eens kijken hoe
+laat het is! (촀\0Het is veel te donker,
+hè? \0\0(+촀\0Wat vind jij vann\0\0 vampiers? \0\0Want 
+\0ík
+\0 denk dat het 
+\0veeeeeeel
+\0 te
+laat is om buiten te zijn.
+\0 \0\0K(Jij niet?)\0d\0￿"
+"107","(촀\0Hoeraaa!
+\0( Ik wist wel dat je mee zou
+willen doen, n\0!\0\0(\0촀\0(""촀\0Oké, dan ga ik nu ergens op het
+eiland de schat begraven!
+\0 (촀\0Te gek!
+
+\0Ik heb er superveel zin in!"
+"108","(촀\0Begrepen. 
+\0Dat is balen! (%촀\0Ik zal het je
+een andere keer nog weleens vragen,
+n\0!"
+"200","(촀\0Ik heb overal gezocht? Maar al mijn
+normale begraafplekken zijn vol met
+dingen die ik er heb begraven?\0\0(8촀\0Ik weet dat dit mijn idee was, maar
+laten we dit maar een andere keer
+doen!"

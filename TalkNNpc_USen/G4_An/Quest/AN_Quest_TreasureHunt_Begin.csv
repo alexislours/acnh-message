@@ -1,0 +1,210 @@
+﻿"label","text"
+"001","Hey, if you're bored, I got an
+idea.
+\0 (&촀\0How about I send you on
+a treasure hunt, n\0?"
+"001_a","I am SO in!"
+"001_b","Maybe next time."
+"002","(
+촀\0If you've got time on your hands,
+I know somethin' we could try.
+\0<
+(6촀\0I challenge you to a treasure hunt!"
+"002_a","You're on!"
+"002_b","Mmm, I'll pass."
+"003","(촀\0
+\0Ooh! 
+\0If you don't have any plans,
+why not go huntin' for treasure?"
+"003_a","Sounds good!"
+"003_b","Thanks, but nah."
+"004","((촀\0Yeah! 
+\0Get revved up, 'cause it's ON!
+\0(
+(촀\0Chill here for a sec while I go bury
+the treasure, OK?"
+"005","(촀\0Wooo! 
+\0Sit tight, n\0.
+\0
+(촀\0I'm gonna go bury me
+some treasure!"
+"006","(촀\0That's the spirit! 
+\0((\0촀\0OK, I'm gonna bury
+the treasure somewhere on the
+island. 
+\0Relax, it won't take long."
+"007","n\0\0(7촀\0Actually, hold up. 
+\0It's too dark for
+treasure stuff now. 
+\0((촀\0Sorry to get your
+hopes up, but let's cancel for today."
+"008","($촀\0Aw, slugs. 
+\0Well, I'm game whenever."
+"009","($촀\0No? 
+\0Alright, some other time then."
+"010","( 촀\0What, are you scared to challenge
+the master? 
+\0((촀\0Bwahaha! 
+\0Nah, I'm just
+messin' with you, n\0."
+"011","(%촀\0OK, the treasure's buried. 
+\0()촀\0It's pretty
+simple from here—if you find where I
+hid it before time's up, it's yours!
+ð\0\0\0(7촀\0I'll tell you for free that I buried it
+outside, 
+\0since no one'd let me bust
+up their floors. 
+\0(촀\0Go figure, right?
+ð\0\0\0(\0촀\0And that's it! 
+\0(6촀\0You ready to hunt?
+x"
+"011_01","(%촀\0OK, the treasure's buried. 
+\0()촀\0It's pretty
+simple from here—if you find where I
+hid it before time's up, it's yours!
+ð\0\0\0(7촀\0I'll tell you for free that I buried it
+outside, 
+\0since no one'd let me bust
+up their floors. 
+\0(촀\0Go figure, right?
+ð\0\0\0(9촀\0Also, this is just between you and
+me. 
+\0Only you can dig up treasure,
+got it?
+\0( ('촀\0\0KNot makin' THAT mistake againn\0\0\0d
+ð\0\0\0(\0촀\0And that's it! 
+\0(6촀\0You ready to hunt?
+x"
+"012","(%촀\0OK, the treasure's buried. 
+\0(()촀\0It's pretty
+simple from here—if you find where I
+hid it before time's up, it's yours!
+ð\0\0\0(7촀\0I'll tell you for free that I buried it
+outside, 
+\0since no one'd let me bust
+up their floors. 
+\0((촀\0Go figure, right?
+ð\0\0\0()촀\0You don't have much time for this
+one, so no slackin' off!
+\0 That about
+sums it up. 
+\0(6촀\0Ready to hunt?
+ð"
+"012_01","(%촀\0OK, the treasure's buried. 
+\0(()촀\0It's pretty
+simple from here—if you find where I
+hid it before time's up, it's yours!
+ð\0\0\0(7촀\0I'll tell you for free that I buried it
+outside, 
+\0since no one'd let me bust
+up their floors. 
+\0((촀\0Go figure, right?
+ð\0\0\0(9촀\0Also, this is just between you and
+me. 
+\0Only you can dig up treasure,
+got it?
+\0( ('촀\0\0KNot makin' THAT mistake againn\0\0\0d
+ð\0\0\0()촀\0You don't have much time for this
+one, so no slackin' off!
+\0 That about
+sums it up. 
+\0(6촀\0Ready to hunt?
+ð"
+"013","(9촀\0Have we done one of these before?
+\0(
+(&촀\0Do you need to hear how it goes?"
+"013_a","(%촀\0Yeah, remind me."
+"013_b","('촀\0Nah, let's go!"
+"014","(촀\0Great! 
+\0Then what are we waitin' for?!
+Z"
+"014_01","(촀\0Alright! 
+\0And just to be clear, this is
+between you and me. 
+\0Only you can
+dig up treasure, got it?
+ð\0\0\0(촀\0Now let's get this party started!
+x"
+"015","(6촀\0Sweet! 
+\0Remember, you don't get that
+much time on this one, so don't go
+slackin' off! 
+\0(촀\0And now, 
+\0the hunt is on!
+ð"
+"015_01","(촀\0Goin' pro mode, eh? 
+\0Very cool.
+\0( (9촀\0So
+we're clear, this is between you and
+me. 
+\0Only you can dig up treasure.
+ð\0\0\0(6촀\0The clock's gonna be quick this time
+too, so no slackin' off. 
+\0All good?
+\0(
+(촀\0Then let's get started, n\0!
+x"
+"101","($촀\0Yo! 
+\0You doin' anything right now?
+\0
+Wanna play treasure hunter?"
+"101_a","I sure do!"
+"101_b","I can't right now."
+"102","
+\0(	촀\0\0I'M SO BORED!\0d\0\0(촀\0Oh, uh, 
+\0sorry 'bout that. 
+\0((7촀\0If I'd known
+you were there, I wouldn't've yelled.
+
+\0There's just nothin' HAPPENING!\0\0(촀\0Wish we had an arcade or somethin'
+on this islandn\0\0 
+\0(촀\0
+\0Oh, wait! 
+\0We don't
+need an arcade to play games!\0\0()촀\0You up for a little treasure
+hunt, n\0?"
+"102_a","Let's do it!"
+"102_b","I don't think so."
+"103","(
+촀\0Ohn\0\0
+\0guess it's kinda late for that
+stuff, huh? 
+\0<(7촀\0I might have to give you
+a rain check. 
+\0Sorry 'bout that."
+"104","(촀\0Yessss! 
+\0(()촀\0You wait right here while
+I bury the treasure. 
+\0You won't have
+to wait long, promise!"
+"105","( 촀\0Ohn\0\0
+\0you must be busier than you
+look. 
+\0(%촀\0Well, it's cool. 
+\0Catch you next
+time, n\0."
+"106","(촀\0Whoan\0\0
+\0is it dark out already? 
+\0When'd
+that happen? 
+\0((7촀\0Sorry, but I think we'll
+have to do this some other time."
+"107","((촀\0That's what I like to hear!
+\0(
+(6촀\0\0KGuess I'm not the only one bored
+around heren\0\0\0d\0\0()촀\0Gimme a minute while I go bury the
+treasure, 
+\0and then we can kick this
+thing off!"
+"108","(촀\0No?! 
+\0Awwwn\0\0 
+\0((촀\0Alright, well I ain't
+gonna force you, n\0."
+"200","(9촀\0So I maybe shoulda checked earlier,
+\0
+but it turns out there's nowhere left
+on the island to bury treasure.\0\0(7촀\0Hard to have a treasure hunt
+without that part, right?
+\0(
+(촀\0My bad, n\0."

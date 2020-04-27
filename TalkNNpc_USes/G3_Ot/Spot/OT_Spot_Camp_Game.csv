@@ -1,0 +1,150 @@
+﻿"label","text"
+"001","(
+촀\0Si tienes ganas,
+\0 podríamos jugar
+un juego, n\0.\0\0(%촀\0Es más,
+\0 si ganas te ofreceré mi }\0\0 como premio.
+\0 (촀\0¿Qué me dices?"
+"001_a","¡Adelante!"
+"001_b","En otro momento"
+"002","(촀\0Me alegra que te guste la propuesta
+improvisada.
+\0 Veamos,
+\0
+(&촀\0¿sabes las reglas?"
+"002_a","¿Qué reglas?"
+"002_b","¡Mejor que tú!"
+"003","()촀\0Ah,
+\0 no te preocupes,
+\0 solo era una idea para matar el tiempo.
+\0 (6촀\0Pobre
+tiempo,
+\0 si no nos hizo nadan"
+"004","((촀\0¡Así me gusta!
+\0 Entonces estamos
+list2oas para comenzar.
+\0 (8촀\0Primero voy
+a barajar bien las cartasn"
+"005","(9촀\0Esa es tu respuesta, ¿eh?
+\0
+Bien, vamos a comprobarlon"
+"006_01","(6촀\0No puedo competir con alguien que tiene semejante don para la clarividencia.\0\0()촀\0Lo prometido es deuda:
+\0 mi }\0\0 es tuy2촀oa\0.
+\0 (촀\0Espero que 2촀lola\0 disfrutes."
+"006_02","(7촀\0Tienes más habilidad en este juego
+que yo.\0\0(촀\0Te ganaste mi }\0\0,
+\0 ¡felicitaciones!"
+"006_03","((촀\0Esta ronda la gané yo,
+\0 o sea que tú
+(촀\0te quedas sin premio por esta vez.
+\0
+(6촀\0¡Lo siento, n\0!"
+"007_01","(촀\0En realidad me gusta tanto jugar
+contigo que no me importa perder.
+\0
+(촀\0Ya jugaremos otra partida."
+"007_03","(촀\0Hoy la suerte me sonríen"
+"008","($촀\0Sabía que aceptarías mi propuesta.
+\0
+(촀\0Pero espera,
+\0 ¿qué pasa?
+\0 ¿Tienes
+los bolsillos llenos?
+(
+촀\0Así no te podré dar ningún premion\0\0
+\0
+(촀\0¿Por qué no haces espacio y jugamos
+cuando vuelvas, n\0?"
+"100","(6촀\0Jo, jo,
+\0 no te preocupes,
+\0 te las explico
+en un instante,
+\0 son muy fáciles.\0\0(%촀\0La baraja tiene cuatro palos distintos:
+\0 picas (\0♠\0￿),
+\0 tréboles (\0♣\0￿),
+\0
+diamantes (\0♦\0￿)
+\0 y corazones (\0♥\0￿).
+()촀\0Yo voy a elegir una carta al azar
+\0
+y tú tienes que adivinar de qué
+palo es.
+\0
+(촀\0Si aciertas,
+\0 te llevas mi }\0\0,
+\0 y si no,
+\0 (;촀\0no te llevas nada.
+(9촀\0Si ya tienes todo claro,
+\0
+(촀\0voy a barajarn"
+"101","(촀\0¡Y elijo una!\0\0(촀\0Ahora tienes que adivinar:
+\0 ¿es de
+corazones (\0♥\0￿),
+\0 diamantes (\0♦\0￿),
+\0
+picas (\0♠\0￿)
+\0 o tréboles (\0♣\0￿)?"
+"101_a","\0Corazones (♥)\0￿"
+"101_b","\0Diamantes (♦)\0￿"
+"101_c","\0Picas (♠)\0￿"
+"101_d","\0Tréboles (♣)\0￿"
+"102_01","(촀\0¡Muy bien!
+\0 Era de 촀,
+\0
+efectivamente.
+\0 (촀\0¡Bravo, n\0!"
+"102_02","(촀\0Me temo que no has acertado,
+\0 amor.
+\0
+Era de 촀, n\0."
+"200","(촀\0Ningún problema,
+\0 aquí estoy para explicarlo.
+\0 (
+촀\0Veamos,
+\0 ya conoces
+los palos de la baraja, ¿verdad?
+()촀\0Corazones (\0♥\0￿),
+\0 diamantes (\0♦\0￿),
+\0
+picas (\0♠\0￿)
+\0 y tréboles (\0♣\0￿):
+\0
+dos palos \0rojos\0￿ y dos \0negros\0￿.
+(8촀\0Pues bien,
+\0 cuando saque una carta,
+\0
+tienes que intentar acertar el color.
+\0
+(촀\0Es más fácil que 촀.
+((촀\0¿Todo claro?
+\0 ¿Sí?
+\0
+Pues comencemos, ¿eh?
+\0
+(촀\0Primero barajo el mazon"
+"201","(""촀\0¡Y aquí tengo la carta seleccionada!\0\0(&촀\0¿Qué crees?
+\0 ¿Es \0roja\0￿ como
+(6촀\0mi blusa favorita
+\0 o \0negra\0￿ como
+mi vestido de noche más divino?"
+"201_a","\0Roja\0￿"
+"201_b","\0Negra\0￿"
+"202_01","(촀\0Pues es una carta de 촀,
+\0roja\0￿ como una rosa.
+\0
+(촀\0¡Acertaste!"
+"202_02","(촀\0Caramba, es de 촀,
+\0
+(촀\0o sea que es \0negra\0￿, cielo.
+\0
+Lo siento,
+\0 ('촀\0no acertaste."
+"202_03","(촀\0Es de 촀.
+\0( (촀\0¡O sea \0negra\0￿!
+\0
+¡Bravo! 
+\0
+¡Acertaste!"
+"202_04","(촀\02\0촀n\0\0 La carta es \0roja\0￿.
+\0
+(촀\0Me temo que no has acertado."

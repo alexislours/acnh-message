@@ -1,0 +1,791 @@
+﻿"label","text"
+"001","(&촀\0Do you live here? You like it?
+Seems nice, but I only just got here.
+\0(
+(촀\0By the by, I'm n
+\0.\0\0()촀\0I was looking for a place with a dash
+of pep to it, and s\0촀
+told me this was the place!\0\0(촀\0Well, I got unpacking to do, and a
+lot of arthritis to push through to
+do it.
+\0( (""촀\0Stop by later, alright?"
+"002","<"
+"002_01","(촀\0You live around here? 'Course you
+do!
+\0( (촀\0I'm n
+\0. Pleasure
+to meet you, n\0!\0\0()촀\0You know s\0촀?
+They said this place was the cat's
+pajamas, but that ain't my business.\0\0(%촀\0Quiet type, eh? Well, I'm around if
+you ever want someone jawin' at
+you.
+\0( (""촀\0Take care!"
+"002_02","(:촀\0Youn\0\0 We ain't met before, have we?
+\0(
+(6촀\0Sorry, my memory's a bit flimsy
+lately.
+\0( (""촀\0I'm n
+\0.\0\0()촀\0Someone named s\0촀
+insisted I give n\0 a
+howdy, so here I am!\0\0(촀\0Well, it's no s촀,
+but I suppose it's growin' on me.
+\0(
+(촀\0Anyhoo, maybe I'll see you around."
+"002_03","( 촀\0Hey! You lost? Oh, you live here!
+\0(
+(
+촀\0Huhn\0\0 Thought I'd met everyone.
+\0(
+(""촀\0The name's n
+\0.\0\0()촀\02\0s\0촀 begged me to
+leave s촀 behind.
+\0(
+(촀\0Now I'm getting lost in my own yard!\0\0(7촀\0Ah, well.
+\0( (촀\0It's good to meet a fellow
+neighbor. Maybe you can show me
+around sometime. You take care now!"
+"004","( 촀\0I don't know youn\0\0 At least,
+I don't THINK I know you.
+\0((촀\0
+I'm n
+\0.
+(%촀\0You friends with s\0촀?
+It was them that got me thinkin' of
+moving here to(촀\0n\0\0ton\0\0(,촀\0t— AAACHOO!\0\0(+촀\0S-sorry about that. Took a chill on
+the way over. Been quaffing castor
+oil, but this fever just won't budge.\0\0(9촀\0Well, don't want you catchin' cold,
+so why don't you come by
+another day?"
+"011","( 촀\0Oh! A visitor. Fancy that!
+\0( (&촀\0Hey, so
+this IS n\0, right?
+This the right island?\0\0(8촀\0It is! 
+\0Well, that's a relief! Some
+n\0-er sold me on
+moving heren\0\0
+\0(촀\0but they skedaddled!\0\0(촀\0It takes lot of sand to pull that on
+n
+\0.
+\0( (
+촀\0Now if I could
+just remember their namen\0\0\0\0(7촀\0Ah, well. I'm here now. Oh!
+I'm n
+\0, if you didn't
+catch it.
+\0( (""촀\0Nice to meet you."
+"012","(	촀\0YOU! First you convince me to move
+here, then you don't even visit?
+\0(
+(
+촀\0Waitn\0\0that wasn't you. 
+\0Oh.\0\0(촀\0n\0\0Sorry about that. Some sneak
+invited me here, then had the gall
+to move out before I arrived!\0\0(촀\0Folks got no manners, I swear.
+\0( ( 촀\0Oh!
+Speaking of manners, where're
+mine?
+\0( (""촀\0Name's n
+\0.\0\0(%촀\0Well, wherever that rascal's got to,
+I say n\0's better off
+without 'em! Good riddance!"
+"014","(촀\0Hmm? You from these parts? The
+name's n
+\0. I'm a
+mite new here, n\0.\0\0('촀\0Let me tell you, it's been rough
+going.
+\0( (촀\0First the scamp that invited
+me here goes vamoose, and thenn\0\0\0\0
+
+\0
+\0(,촀\0\0WAAAAACHOOOOOO!\0d
+	\0\0\0(촀\0Ughn\0\0and then I fall sick, to boot!
+\0
+(촀\0Let's get to know each other once
+I've cobbled myself together, OK?"
+"101","(&촀\0Do you live here? 
+\0You like it?
+\0
+Seems nice, but I only just got here.
+\0
+(촀\0By the by, I'm n
+\0.(촀\0\0\0I ran into s\0촀 while
+out on a day trip, you see.\0\0()촀\0I was telling 'em I was after a place
+with a dash of pep to it, and got
+pointed here, n\0!\0\0(촀\0Well, I got unpacking to do, and a
+lot of arthritis to push through to
+do it.
+\0( (""촀\0Stop by later, alright?"
+"102","<"
+"102_01","(촀\0You live around here? 
+\0'Course you
+do!
+\0( (촀\0I'm n
+\0. 
+\0Pleasure
+to meet you, n\0!\0\0()촀\0You know s\0촀? 
+\0They
+said this place was the cat's pajamas,
+but that ain't my business.\0\0(촀\0Anyhoo, I ran into 'em while I was
+out on a little sojourn, n\0.
+\0
+Got myself invited here soon after.\0\0(%촀\0Quiet type, eh? 
+\0Well, I'm around if
+you ever want someone jawin' at
+you.
+\0( (""촀\0Take care!"
+"102_02","(:촀\0Youn\0\0
+\0 We ain't met before, have we?
+\0(
+(6촀\0Sorry, my memory's a bit flimsy
+lately.
+\0( (""촀\0I'm n
+\0.\0\0(촀\0I ran into some eager scamp name of
+s\0촀 when I was out
+day-tripping, n\0.\0\0()촀\0As soon as we started jawin', it was
+insisted I give n\0 a
+howdy, so here I am!\0\0(촀\0I wasn't so sure at first, but I must
+say this place is startin' to grow on
+me.
+\0( (촀\0Maybe I'll see you around."
+"102_03","( 촀\0Hey! You lost? 
+\0Oh, you live here!
+Huhn\0\0
+\0 Thought I'd met everyone.
+\0(
+(""촀\0The name's n
+\0.\0\0()촀\0I met s\0촀 when we
+were out on a little trip. 
+\0They were
+beggin' me to move here.\0\0(촀\0So now here I am, gettin' lost in my
+own front yard, n\0n\0\0\0\0(7촀\0Ah well.
+\0( (촀\0It's good to meet a fellow
+neighbor. 
+\0Maybe you can show me
+around sometime. 
+\0Take care now!"
+"104","( 촀\0I don't know youn\0\0
+\0 At least,
+I don't THINK I know you.
+\0((촀\0
+Hi.
+\0 I'm n
+\0.\0\0(%촀\0You friends with s\0촀?
+\0
+I met 'em on a day trip a
+while back, n\0.\0\0()촀\0In fact, it was them that got me
+thinkin' of moving here to(촀\0n\0\0ton\0\0
+\0(,촀\0t—
+AAAAAACHOOOOO!\0\0(+촀\0S-sorry about that. 
+\0Took a chill on
+the way over. 
+\0Been quaffing castor
+oil, but this fever just won't budge.\0\0(9촀\0Well, 
+\0don't want you catchin' cold,
+so why don't you come by
+another day?"
+"111","( 촀\0Oh! A visitor. 
+\0Fancy that!
+\0( (&촀\0Hey, so
+this IS n\0, right?
+\0
+This the right place?\0\0( 촀\0It is! 
+\0Well, that's a relief!\0\0(8촀\0I was enjoyin' a day trip when some
+n\0-er invited me to
+move heren\0\0
+\0(촀\0but they skedaddled!\0\0(촀\0It takes lot of sand to pull that on
+n
+\0.
+\0( (
+촀\0Now if I could
+just remember their namen\0\0\0\0(7촀\0Ah well. I'm here now.
+\0 And I'm
+n
+\0, if you didn't
+catch it.
+\0( (""촀\0Nice to meet you."
+"112","(	촀\0YOU! 
+\0First you convince me to move
+here, then you don't even visit?
+\0(
+(
+촀\0Waitn\0\0that wasn't you. 
+\0Oh.\0\0(촀\0n\0\0Sorry about that. 
+\0Some sneak
+invited me to move here when we
+were talkin' on a day trip.\0\0('촀\0Then they had the GALL to move out
+before I arrived, n\0!\0\0(촀\0Folks got no manners, I swear.
+\0( (촀\0Oh!
+\0
+Speaking of manners, where're
+mine? 
+\0Name's n
+\0.\0\0(%촀\0Well, wherever that rascal's got to,
+I say n\0's better off
+without 'em! 
+\0Good riddance!"
+"114","(촀\0Hmm? 
+\0You from these parts? 
+\0The
+name's n
+\0. 
+\0I'm a
+mite new here, n\0.\0\0('촀\0Let me tell you, it's been a rough go.
+\0
+I met this fella on a day trip who
+convinced me to move out here.\0\0(촀\0But then the sour scoundrel goes
+vamoose before I get here! 
+\0Moved
+away! 
+\0And THEN there'sn\0\0there'sn\0\0\0\0
+
+\0
+\0(,촀\0\0WAAAAACHOOOOOO!\0d
+	\0\0\0(촀\0Ughn\0\0
+\0there's me fallin' sick, to boot.
+\0
+(촀\0Let's get to know each other once
+I've cobbled myself together, OK?"
+"201","(&촀\0Do you live here? 
+\0You like it?
+\0
+Seems nice, but I only just got here.
+\0(
+(촀\0By the by, I'm n
+\0.(촀\0\0\0I ran into s\0촀 while
+at the \0campsite\0￿, you see.\0\0()촀\0I was telling 'em I was after a place
+with a dash of pep to it, and got
+invited to move here, n\0!\0\0(촀\0Well, 
+\0I got unpacking to do, and a
+lot of arthritis to push through to
+do it.
+\0 Stop by later, alright?"
+"202","<"
+"202_01","(촀\0You live around here? 
+\0'Course you
+do!
+\0( (촀\0I'm n
+\0. 
+\0Pleasure
+to meet you, n\0!\0\0()촀\0You know s\0촀? 
+\0They
+said this place was the cat's pajamas,
+but that ain't my business.\0\0(촀\0Anyhoo, I ran into 'em while I was
+stayin' at the \0campsite\0￿. 
+\0Got myself
+invited here soon after.\0\0(%촀\0Quiet type, eh? 
+\0Well, I'm around if
+you ever want someone jawin' at
+you.
+\0( (""촀\0Take care!"
+"202_02","(:촀\0Youn\0\0
+\0 We ain't met before, have we?
+\0(
+(6촀\0Sorry, my memory's a bit flimsy
+lately.
+\0 I'm n
+\0.\0\0(촀\0I ran into some eager scamp name of
+s\0촀 over at the
+\0campsite\0￿, n\0.
+()촀\0As soon as we started jawin', it was
+insisted I give n\0 a
+longer try, so here I am!\0\0(촀\0I wasn't so sure at first, but I must
+say this place is really growin' on
+me.
+\0( (촀\0Maybe I'll see you around."
+"202_03","( 촀\0Hey! 
+\0You lost?
+\0 Oh, you live here!
+\0
+Huhn\0\0 Thought I'd met everyone.
+\0(
+(""촀\0The name's n
+\0.\0\0()촀\0I met s\0촀 over at the
+\0campsite\0￿.
+\0 They were beggin'
+me to move here.\0\0(촀\0So now here I am, gettin' lost in my
+own front yard, n\0n\0\0\0\0(7촀\0Ah well.
+\0( (촀\0It's good to meet a new
+neighbor. 
+\0You take care now!"
+"204","( 촀\0I don't know youn\0\0
+\0 At least,
+I don't THINK I know you.
+\0((촀\0
+Hi.
+\0 I'm n
+\0.\0\0(%촀\0You friends with s\0촀?
+\0
+I met 'em at the \0campsite\0￿ a
+while back, n\0.\0\0()촀\0In fact, it was them that got me
+thinkin' of moving here to(촀\0n\0\0ton\0\0
+\0(,촀\0t—
+AAAAAACHOOOOO!\0\0(+촀\0S-sorry about that.
+\0 Took a chill on
+the way over.
+\0 Been quaffing castor
+oil, but this fever just won't budge.\0\0(9촀\0Well, 
+\0don't want you catchin' cold,
+so why don't you come by
+another day?"
+"211","( 촀\0Oh! A visitor. 
+\0Fancy that!
+\0( (&촀\0Hey, so
+this IS n\0, right?
+\0
+This the right place?\0\0( 촀\0It is! 
+\0Well, that's a relief!\0\0(8촀\0I was enjoyin' the \0campsite\0￿ when
+some local invited me to move
+heren\0\0
+\0(촀\0but they skedaddled!\0\0(촀\0It takes lot of sand to pull that on
+n
+\0.
+\0( (
+촀\0Now if I could
+just remember their namen\0\0\0\0(7촀\0Ah well. 
+\0I'm here now.
+\0 And I'm
+n
+\0, if you didn't
+catch it.
+\0( (""촀\0Nice to meet you."
+"212","(	촀\0YOU! 
+\0First you convince me to move
+here, then you don't even visit?
+\0(
+(촀\0Wait
+\0n\0\0that wasn't you.
+\0 My bad.\0\0(촀\0Thing is
+\0n\0\0 I met someone from this
+island while I was at the \0campsite\0￿,
+\0
+and they talked me into movin' in.
+(촀\0Then they had the GALL to move out
+before I arrived,
+\0 n\0!\0\0('촀\0Folks got no manners, I swear.
+\0( ( 촀\0Oh!
+Speaking of manners, where're
+mine?
+\0 Name's n
+\0.\0\0(%촀\0Well, wherever that rascal's got to,
+I say n\0's better off
+without 'em! 
+\0Good riddance!"
+"214","(촀\0Hmm? You from these parts? 
+\0The
+name's n
+\0. 
+\0I'm a
+mite new here, n\0.\0\0('촀\0Let me tell you, it's been a rough go.
+\0
+I met this fella at the \0campsite \0￿who
+convinced me to move out here.\0\0(촀\0But then the sour scoundrel goes
+vamoose before I get here! 
+\0Moved
+away! 
+\0And THEN there'sn\0\0
+\0there'sn\0\0\0\0
+
+\0
+\0(,촀\0\0WAAAAACHOOOOOO!\0d
+	\0\0\0(촀\0Ughn\0\0
+\0there's me fallin' sick, to boot!
+\0
+(촀\0Let's get to know each other once
+I've cobbled myself together, OK?"
+"301","( 촀\0You alright? 
+\0That there's a powerful
+look of confoundment you're wearin'.
+\0(
+($촀\0The name's n
+\0.\0\0(1촀\0Let me spin you a yarnn\0\0
+\0 I was at the
+\0campsite\0￿ when s\0촀
+invited me to come live here.\0\0('촀\0OK, so that ain't much of a yarn. 
+\0It's
+barely a strand.
+\0 Still, hopefully that
+clears things up a little!\0\0(촀\0Well, take care of yourself. 
+\0I'll see
+you around, n\0!"
+"302","<"
+"302_01","($촀\0Why, hello there! 
+\0The name's
+n
+\0. 
+\0How do you
+do, n\0?\0\0(1촀\0So there I was, 
+\0enjoyin' a nice,
+warm mug of pickle brine over
+at the \0campsite\0￿n\0\0\0\0(촀\0When s\0촀 comes over,
+\0
+interruptin' my peace and askin' if
+I wanted to move here!(촀\0\0\0Well, let me tell you, I gave 'em quite
+a piece of my mind.
+\0( And that piece
+was,
+\0 (%촀\0""Why, sure! 
+\0I'll pack my things!""\0\0(촀\0Now I'm safe and snug in my
+new home. 
+\02\0n\0's
+quite a treat so far!"
+"302_02","Pleasure to meet youn\0\0
+\0I think. 
+\0(&촀\0We
+ain't met, right? 
+\0I just moved here
+and I'm still sortin' everyone out.\0\0(%촀\0Oh! The name's n
+\0,
+by the by.\0\0()촀\0Anyhoo, I was over at the \0campsite\0￿
+when s\0촀 invited me
+to come live here.\0\0(촀\0Well now, how could I turn down
+such a kindly offer? 
+\0I booked a blimp
+on over just as soon as I could.(촀\0\0\0And that's my story.
+\0( (6촀\0Or what I can
+remember of it, at any rate.\0\0(%촀\0Got plenty more gripping tales where
+that came from, though, so don't be
+a stranger, n\0!
+\0( (촀\0Gahaha!"
+"302_03","($촀\0Well now, pleasure to meet you.
+\0
+My name's n
+\0.\0\0(촀\0You know s\0촀, right?
+\0
+Good folk. 
+\0We got to chattin'
+at the \0campsite\0￿ a while back.\0\0(촀\0Guess I made a positive impression.
+\0
+Got myself invited to move here
+lickety-split, n\0!\0\0(6촀\0But I gotta be honest. 
+\0This is such a
+nice place that I probably woulda
+moved here anyway!\0\0()촀\0What I'm gettin' at is that a friend or
+neighbor of s\0촀 is a
+friend of mine.(촀\0\0\0And also that I'm sure we'll get to
+know each other in time.
+\0( (촀\0Lookin'
+forward to it, in fact!"
+"304","(촀\0Oh. Howdy.
+\0 Don't think we've met.
+\0
+Name's n
+\0.\0\0(""촀\0Do you know s\0촀?
+\0
+()촀\0That's who invited me to move in
+here
+\0 while I was at the \0campsite\0￿.
+(촀\0Was really likin' my new life here on
+n\0 until I got sick
+\0n\0\0\0\0('촀\0Might not wanna get too close,
+\0
+speakin' of.
+\0 (
+촀\0Probably should've
+mentioned that sooner
+\0n\0\0\0\0(9촀\0You don't wanna catch this bug.
+\0
+(.촀\0Let's talk more once I've managed
+to get over this,
+\0 n\0.(촀"
+"311","( 촀\0You alright? 
+\0That there's a powerful
+look of confoundment you're wearin'.
+\0(
+($촀\0The name's n
+\0.\0\0(1촀\0Let me spin you a yarnn\0\0
+\0 I was at the
+\0campsite\0￿ when I got myself invited
+to come live here. 
+\0And here I am!\0\0('촀\0OK, so that ain't much of a yarn. 
+\0It's
+barely a strand.
+\0 Still, hopefully that
+clears things up a little!\0\0(촀\0Well, take care of yourself. 
+\0I'll see
+you around, n\0!"
+"312","($촀\0Why, hello there! 
+\0The name's
+n
+\0. 
+\0How do you
+do, n\0?\0\0(1촀\0So there I was, 
+\0enjoyin' a nice,
+warm mug of pickle brine over
+at the \0campsite\0￿n\0\0\0\0(촀\0When some scamp comes moseyin'
+over,
+\0 interrupting my peace and
+asking if I want to move here!(촀\0\0\0Well, let me tell you, I gave 'em quite
+a piece of my mind.
+\0( And that piece
+was,
+\0 (%촀\0""Why, sure! 
+\0I'll pack my things!""\0\0(촀\0Now I'm safe and snug in my
+new home. 
+\02\0n\0's
+quite a treat so far!"
+"314","(촀\0Heya.
+\0 Don't believe we've met.
+\0
+Name's n
+\0.\0\0()촀\0I got myself invited to move in
+\0 while
+I was stayin' here at the \0campsite\0￿.\0\0(촀\0Was really enjoyin' my life here on
+n\0 until I got sick
+\0n\0\0\0\0('촀\0Might not wanna get too close,
+\0
+speakin' of.
+\0 (
+촀\0Probably should've
+mentioned that before now
+\0n\0\0\0\0(9촀\0You don't wanna catch this bug.
+\0
+(.촀\0Look me up again when I ain't so
+run-down, OK,
+\0 n\0?(촀"
+"401","( 촀\0You live around here? I don't know
+youn\0\0
+\0 (촀\0My name's n
+\0,
+circlin' back from s촀.\0\0(촀\0I swear, if I knew I'd be back, I
+woulda just left the dang boxesn\0\0
+\0 ('촀\0My
+back's in open rebellion right now.\0\0(촀\0Well, come by when I've unpacked.
+\0((9촀\0
+I like to get to know my neighbors.
+\0(
+(3촀\0Gotta know who I can trust."
+"402","(
+촀\0Now, it could just be these eyes
+playin' tricksn\0\0but I'm pretty sure
+I don't know you. 
+\0You a local?\0\0(""촀\0Name's n
+\0.
+\0( (""촀\0I just
+moved back here after living on
+s촀 for a spell.\0\0(8촀\0Maybe you can show this n\0
+around sometime. Honestly, all the
+changes here kinda frighten men"
+"404","(&촀\0Is that a new face I see?
+\0( (9촀\0You'll have
+to speak up, my vision's not what it
+used to be, n\0.\0\0(""촀\0My name's n
+\0
+\0 and
+( 촀\0ahhn\0\0ahhn\0\0(촀\0 I've been sneezing up a
+st—(,촀\0AAAAACHOOOO! Storm. Ugh.\0\0(:촀\0Confound it all! I move back from
+s촀 and take ill as
+soon as I get here.\0\0(촀\0I'm just gonna take it easy for a day
+or so. Why don't you come by when
+I'm feeling better?"
+"411","( 촀\0Hey, you!
+\0( (""촀\0How are you doing? The
+name's n
+\0. I got a
+real important question for you.\0\0(&촀\0Have you ever woken up on a strange
+island in a house full of boxes with
+all your things in 'em? 
+\0No? 
+\0Just me?
+(
+촀\0I thought this was some kinda
+practical joke, but this sure as
+seaweed ain't s촀n\0\0
+(7촀\0Ah well, guess I did it again!
+\0 How do
+you do, neighbor? Fine day, ain't it?"
+"412","<"
+"412_01","(&촀\0We ain't met, right?
+\0( (""촀\0
+I'm n
+\0, just in
+from s촀.\0\0(촀\0Sortin' all these new faces is hard.
+Every time one stops by, I gotta toss
+another childhood memory!\0\0(%촀\0Well, come by my place if you ever
+wanna gab.
+\0 Just(촀\0n\0\0don't ask me to
+ride a bike or write cursive, alright?"
+"412_02","(""촀\0Hey! Aren\0\0we neighbors? Name's
+n
+\0.
+\0( (%촀\0At least, that's
+what my mortgage bill says!
+(
+촀\0I also got an old bill that says I
+come from s촀,
+so I suppose that's true too.
+(촀\0Anyhoo, I'm lookin' forward to
+attempting to get to know you!
+Take care now!"
+"412_03","(촀\0Now that's the confident look of a
+local if I ever saw one.
+\0( (촀\0You ain't lost
+or confused or nothin'!\0\0(""촀\0Howdy! I'm n
+\0,
+fresh off the paddle steamer from
+s촀.\0\0(%촀\0Well, it's a pleasure, but don't let
+me keep you. (6촀\0Come by if you wanna
+yak, or chitchat, or even prattle on!"
+"414","(촀\0We ain't spoken before, right?
+Pleased (촀\0ton\0\0ton\0\0t—
+(,촀\0
+
+\0\0AAAACHOOO!\0d
+	\0\0\0('촀\0Sorry 'bout that. My humors have
+felt a mite off-kilter since I left
+s촀. Must be the air.\0\0(%촀\0They call me n
+\0n\0\0
+uh, but don't ask me who
+""they"" are.
+\0( (촀\0I can't remember.\0\0(9촀\0You know what, stop by again after
+I regain control of my faculties.
+We'll have us a chinwag."
+"501","(촀\0Heya!
+\0 You the one that moved
+in today?
+\0 (%촀\02\0n\0,
+\0 the
+name was.
+\0 (\0촀\0That you?\0\0(촀\0Just got here myself!
+\0
+(""촀\0Name's n
+\0.\0\0(6촀\0Reckon you and I
+\0 will be sharin'
+that new neighbor smell for a bit.\0\0(촀\0Well,
+\0 you take care of yourself,
+\0
+kiddo.
+\0 Wander over if you ever get
+lost,
+\0 and I'll try to do likewise."
+"502","<"
+"502_01","(촀\0Are you the one
+\0 that folk've been
+jabberin' on about?
+\0 The scamp that
+just got here,
+\0 n\0?\0\0(:촀\0I'm n
+\0.
+\0( (\0촀\0Don't let the
+cover fool you,
+\0 kiddo.
+\0 I'm younger'n
+I look.
+\0 (촀\0Gahaha!\0\0(촀\0Hope I ain't comin' on too strong.
+\0
+(촀\0Swing on by if you ever wanna chat."
+"502_02","( 촀\0Eh?
+\0 You that homesteader I keep
+hearin' about?
+\0 2\0n\0?\0\0(촀\0We ain't met.
+\0 2\0n
+\0's
+the name.
+\0( (""촀\0Howdy!
+\0 I'm just now
+plantin' myself here.\0\0(%촀\0Well,
+\0 come see me once you get
+your roots in.
+\0 (6촀\0I'll be around,
+\0 doin'
+my old tree thing.
+\0( (\0촀\0Take care!"
+"502_03","( 촀\0Hmm?
+\0 Well, now!
+\0( Don't think we've
+met.
+\0 (""촀\0I'm n
+\0.\0\0(촀\0And I've been a proud resident
+of n\0 since,
+\0 lessee
+\0n\0\0
+(%촀\0couple days now,
+\0 at least.\0\0(촀\0Well,
+\0 I'm gonna practice shooin' folk
+off my lawn.
+\0 If you ever wanna chat
+with a grump,
+\0 swing on by!"
+"504","
+\0(+촀\0\0COUGH!
+\0 COUGH!
+\0 HACK!\0d\0\0(8촀\0Ugh
+\0n\0\0 So you've come to introduce
+yourself,
+\0 eh?\0\0(""촀\0Name's n
+\0.
+\0
+(촀\0Sorry,
+\0 not much of an intro,
+\0 but
+(8촀\0my trick lung's actin' up on me.\0\0(촀\0Tell you what,
+\0 let's try this again
+once I can manage to actually
+\0 get
+the words out.
+\0 (촀\0Sound good?"
+"511","<"
+"511_01","(촀\0Hey there! You live on this here
+island? Name's n
+\0.
+I just got here, myself.\0\0(촀\0Yep, I'm startin' over. They all said
+I was mad to start over.
+\0( (촀\0And they
+were right, but here I am!\0\0(촀\0Of course, now I gotta deal with a
+world of boxes.
+\0( (촀\0My back wants no
+part of this startin' over businessn\0\0\0\0(촀\0You know what? I'm gonna be at
+this awhile. Why don't you come
+visit later, n\0?"
+"511_02","(:촀\0n\0\0And you are?
+\0( (촀\0Oh! You're my
+neighbor! Ha! Sorry about that.
+I'm n
+\0.\0\0(촀\0Now, don't let the creaky exterior
+fool you. If I like you, I'm actually
+a nice fella most times.\0\0(%촀\0Aaaaanywhatsit, I've got a lot of
+tidying ahead of me. Let's parlay
+some other day.
+\0( (""촀\02\0n\0."
+"512","<"
+"512_01","( 촀\0Hey there! You live around here?
+\0((촀\0
+I'm new on n\0.
+The name's n
+\0.\0\0()촀\0I've been trying to get to know my
+neighbors, but I think I just keep
+scaring folks off.\0\0(촀\0Mind you, I like being alone and all,
+but what if I need to borrow me a
+cup of pickle brine? What then?\0\0(%촀\0Well, I'll let myself get back to being
+alone, n\0. Stop by if you
+wanna gab!"
+"512_02","(%촀\0You've got the look of a local.
+\0(
+(""촀\0Name's n
+\0.
+I'm new here.\0\0(&촀\0You wouldn't happen to know where
+I could find some canasta players,
+would you?
+\0( ('촀\0No? 
+\0Didn't think so.\0\0(촀\0Hmm. Well, find me if you ever
+feel like shooting the breeze.
+\0
+I'll be around."
+"513","(""촀\0Oh, it's you! I ain't seen you since,
+\0
+um(
+촀\0n\0\0wait, we ain't met.\0\0(촀\0Sorry about that. The brain box is
+actin' up again, n\0!\0\0(""촀\0Anyway, hi! I'm n
+\0.
+Pleased to meet you.
+\0( (%촀\0Whew, glad we
+cleared that up. You take care now!"
+"514","(%촀\0You here to introduce yourself?
+\0
+Ain't that neighborly. My name's
+n
+\0. I'm new here.\0\0()촀\0I was going to(촀\0n\0\0ton\0\0(,촀\0t-AAAACHOOO!
+Ugh. (촀\0Don't think m'bones can take
+much more of that.\0\0(촀\0As I was gonna be sayin', I'd ask if
+you wanted to chat, but I don't want
+you gettin' sick on my account.\0\0(촀\0Come by later and we'll get
+accustomed, n\0."

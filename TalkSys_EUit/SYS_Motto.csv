@@ -1,0 +1,616 @@
+﻿"label","text"
+"ant00","""Nella vita bisogna andare a naso."""
+"ant01","""Dai sempre il massimo!"""
+"ant02","""Meglio essere una cicala che
+una formica."""
+"ant03","""Le vere star non si dimenticano
+mai dei propri amici."""
+"ant06","""Nessuno me la fa sotto il naso."""
+"ant08","""Pied-à-terre, dolce pied-à-terre!"""
+"ant09","""L'amore non è altro che
+un incontro di nasi."""
+"bea00","""Devi resistere al dolore!"""
+"bea01","""Viva i lecca-lecca!"""
+"bea02","""Una stellina risparmiata
+è una stellina guadagnata."""
+"bea03","""Tutte le cose belle finiscono,
+prima o poi. Come il gelato!"""
+"bea05","""L'importante è rimanere sempre
+se stessi."""
+"bea06","""Non c'è nulla di meglio
+del miele appena fatto!"""
+"bea07","""Gli amici devono essere come
+i bei vestiti: trendy!"""
+"bea08","""Circondati di cose che ami."""
+"bea09","""Certa gente è come il miele:
+dolce, ma appiccicosa."""
+"bea10","""Le mode vanno e vengono."""
+"bea11","""Prova a guardare il mondo
+dalla cima di un albero."""
+"bea12","""Contano più i fatti delle parole."""
+"bea13","""Un barattolo di miele al giorno...
+toglie il medico di torno."""
+"bea14","""Non mollare mai!"""
+"bea15","""Giudicare un libro dalla copertina
+non è mai la cosa giusta da fare."""
+"brd00","""Devi volerlo!"""
+"brd01","""Tieni sempre le tue ali in forma
+per poter volare via!"""
+"brd02","""L'appetito vien mangiando."""
+"brd03","""Chi nella vita osa, vola in alto!"""
+"brd04","""Chi fa tutto da solo
+è sempre il comandante!"""
+"brd05","""Nella vita, la speranza è trendy!"""
+"brd06","""Fidati del tuo ukulele."""
+"brd08","""Non si può volare senz'ali."""
+"brd11","""Chi si loda, s'imbroda!
+Mmmh, buono il brodo..."""
+"brd15","""Volare è utile; atterrare è
+necessario."""
+"brd16","""Se volere è potere, allora...
+volare è potare."""
+"brd17","""Resistere... è il mio dogma."""
+"brd18","""Ali bagnate, giornate sfortunate."""
+"brd19",""
+"bul00","""Le lacrime fanno gli occhi belli."""
+"bul01","""Il sonno bacia i belli."""
+"bul03","""Prendiamo il toro per le corna!"""
+"bul05","""Non imbufalirti troppo."""
+"bul07","""Fa' quel che dico, non quel che
+faccio."""
+"bul08","""A scherzare col fuoco ci si scotta...
+gli zoccoli!"""
+"cat00","""Tanto va il gatto al negozio
+che ci lascia... il borsellino."""
+"cat01","""Fare le fuuusa è una filosofia
+di vita."""
+"cat02","""Viva le gatte... vive e vegete!"""
+"cat03","""La gatta frettolosa preparò
+una torta bruciacchiata."""
+"cat04","""Se non provi, non lo saprai mai."""
+"cat05","""Se la vita non ti sorride, sorridi
+tu alla vita!"""
+"cat06","""La vita è come un piatto vuoto:
+va riempita di tante cose buone!"""
+"cat07","""Nella vita ci vogliono artigli
+ben affilati."""
+"cat08","""Piatto ricco... mi ci ficco!"""
+"cat09","""Chi fa da sé, fa per tutta l'isola!"""
+"cat10","""Le flessioni sono il sale della vita."""
+"cat11","""Guarda sempre la data di scadenza."""
+"cat12","""Vivere nell'anonimato è vivere
+a metà."""
+"cat13","""Un sano allenamento solleva
+lo spirito."""
+"cat14","""Chi fa le pulizie da sé, fa per tre!"""
+"cat15","""È inutile piangere sul latte versato."""
+"cat16","""Un sorriso a trentadue denti
+aumenta un sacco la popolarità."""
+"cat17","""L'amore non ha confini."""
+"cat18","""Il buonumore è la miglior medicina!"""
+"cat19","""Non è tutto oro ciò che luccica."""
+"cat20","""L'importante è atterrare sempre
+sulle zampe."""
+"cat21","""Il profumo dei fiori è il miglior
+toccasana."""
+"cat22",""
+"cat23","""Il mio stile non ha eguali!"""
+"cbr00","""Viva la marmellata di mirtilli!"""
+"cbr01","""La gentilezza porta in capo
+al mondo."""
+"cbr02","""Un addominale in più non ha mai
+fatto male a nessuno."""
+"cbr03","""Non esagerare!"""
+"cbr04","""Mente sana in corpo sano."""
+"cbr05","""A volte la somma è più grande delle
+sue parti."""
+"cbr06","""I problemi non arrivano mai soli."""
+"cbr07","""Essere soddisfatti è essere ricchi."""
+"cbr09","""L'avidità è la causa di tutti i mali."""
+"cbr10","""Nella botte piccola c'è il miele
+buono."""
+"cbr13","""Sognare non costa nulla."""
+"cbr14","""Viva i gattini pelosissimissimi!"""
+"cbr15","""Chi va in letargo campa cent'anni."""
+"cbr16","""Non c'è nulla di meglio che
+un fumetto letto... a letto."""
+"cbr17","""Chi semina foglie... frutta
+non raccoglie."""
+"cbr19","""In sogno posso ballare per sempre."""
+"chn00","""Chi non si allena è un pollo."""
+"chn01","""Non rompere le uova nel paniere."""
+"chn02","""Penso meglio quando dormo!"""
+"chn05","""Le matin ha l'oro in bocca."""
+"chn09","""Le stelline durano poco a chi ha
+le zampe bucate."""
+"chn10","""Non si sputa nel piatto
+in cui si mangia."""
+"chn11","""Se vai alle Hawaii, trovi di tutto
+ma non i bonsai!"""
+"chn12","""Gallina vecchia... di esperienza 
+ne ha parecchia."""
+"chn13","""Con il gel di mirtilli
+ci si sente più arzilli!"""
+"cow00","""Sempre in gambissima!"""
+"cow01","""Non tutti i ciambelloni
+riescono col buco."""
+"cow06","""Chi s'accontenta gode!"""
+"cow07","""Oggi a me, domani a te."""
+"crd00","""Un vero amico divide la merenda
+con te."""
+"crd01","""La borsa e le scarpe sono la cosa
+più importante nei completi!"""
+"crd02","""Il muscolo fa la forza!"""
+"crd04","""I fatti valgono più di mille parole."""
+"crd06","""La corsa mattutina mi sveglia più
+della caffeina!"""
+"crd07","""Prevenire è seeeempre meglio
+che curare."""
+"crd08","""Uno spuntino davanti alla TV
+e tutti i problemi non ci sono più!"""
+"der00","""Il primo passo è sempre il più
+difficile."""
+"der01","""Batti il ferro finché è caldo."""
+"der02","""Quando vado a una festa
+non scordo mai il gel sulla testa."""
+"der03","""Nessuno è perfetto."""
+"der04","""I veri amici si riconoscono
+nel momento del bisogno."""
+"der05","""Guarda bene prima di attraversare
+la strada."""
+"der06","""Anche i più duri hanno il cuore
+d'oro."""
+"der07","""Pisolini e pasticcini fan felici
+grandi e piccini!"""
+"der08","""A volte una sconfitta vale più
+di mille vittorie."""
+"der09","""Se hai paura del lupo, non entrare
+nel bosco."""
+"dog00","""La vita va tenuta al guinzaglio."""
+"dog01","""Vita da alani, vita da cani."""
+"dog02","""Non sputare nel piatto in cui
+mangi."""
+"dog03","""Non svegliare il can che dorme!"""
+"dog04","""Investi in un buon materasso."""
+"dog05","""Dimmi con chi vai e ti dirò chi sei."""
+"dog06","""Con gli amici, sii fedele come
+un cane."""
+"dog07","""Una vita senza amicizia è come
+una baguette senza burro!"""
+"dog08","""La zampicure perfetta
+va fatta davanti alla toletta."""
+"dog09","""La vita senza computer è come
+una casa senza giroidi: vuota."""
+"dog10","""In amore, ci si completa l'un l'altro."" "
+"dog14","""Cane di gambe corte abbaia
+sempre forte!"""
+"dog15","""Anche il cane in apparenza più duro
+quando è contento scodinzola."""
+"dog16","""Ogni cagnolone è bello
+a mamma sua!"""
+"dog17","""Can che abbaia non morde."""
+"dog18","""Una vida senza amore è come
+una tortilla senza patate."""
+"duk00","""Squadra che vince non si cambia."""
+"duk01","""Anche l'anatroccolo più brutto
+alla fine si trasforma in un cigno."""
+"duk02","""Il rossetto rosso fuoco
+è il tuo migliore alleato."""
+"duk03","""Quando non sai cosa fare, fai
+una lunga passeggiata in spiaggia."""
+"duk04","""Nella vita, stai alla larga
+dalle oche giulive."""
+"duk05","""Non è la qualità che conta,
+ma la quantità."""
+"duk06","""Quando hai finito la lana,
+continua col cotone."""
+"duk07","""Viva me!"""
+"duk08","""Fai della tua vita una storia
+a fumetti."""
+"duk09","""Un becco chiuso non piglia pesci."""
+"duk10","""Sguazzare per ore nel laghetto
+potenzia il fisichetto."""
+"duk11","""Quello che mangi oggi
+è ciò che sarai domani."""
+"duk12","""A volte nella vita, purtroppo,
+bisogna tenere il becco chiuso."""
+"duk13","""Una bella spremuta di pomodoro
+aiuta... la concentrazione!"""
+"duk15","""Il tempo è stelline!"""
+"duk16","""Le bonjour si vede dal matin."""
+"duk17","""L'amore è come un vestito
+attillato: a volte ti sta stretto."""
+"elp00","""Le orecchie grandi sono segno
+di intelligenza."""
+"elp01","""Se vuoi diventare qualcuno nella
+vita, devi allungare la proboscide."""
+"elp02","""Il sonno porta consiglio."""
+"elp03","""I panni sporchi vanno lavati
+nel proprio lavandino di casa."""
+"elp04","""La vera arte non ha prezzo."""
+"elp05","""Non basta indossare un mantello
+per diventare un supereroe."""
+"elp06","""Allena la tua memoria e diventerà
+quella di un elefante!"""
+"elp07","""Nella vita non sono tutte
+rose e fiori!"""
+"elp09","""Il tempo vola... gli elefanti no."""
+"elp10","""I libri sono come i paracadute.
+Funzionano solo da aperti."""
+"elp12","""Fai come ti pare, ma fatti notare!"""
+"flg00","""Non saltare mai a conclusioni
+affrettate."""
+"flg01","""Chi si ferma è perduto."""
+"flg02","""Non devi provarci. Devi riuscirci!"""
+"flg03","""Fidarsi è bene; non fidarsi
+è meglio."""
+"flg04","""Mira sempre all'oro!"""
+"flg05","""L'apparenza inganna."""
+"flg06","""Per vivere al massimo bisogna
+fare dei salti nel vuoto."""
+"flg07","""Il salto sul divano è lo sport
+più sano."""
+"flg09","""Una rana non saprà cantare,
+ma nei salti è imbattibile!"""
+"flg10","""Prima fai un balzo, poi
+fai domande."""
+"flg11","""Soffia sulla patata bollente...
+Non passarla."""
+"flg12","""Zitto e mosca!"""
+"flg13","""I veri amici sono mosche... bianche."""
+"flg15","""Malattia e salute iniziano...
+a letto e in padella."""
+"flg16","""Prima di trovare il principe azzurro
+bisogna baciare molti rospi."""
+"flg17","""Il mondo è bello perché è... Wario!"""
+"flg18","""C'è chi ha il pollice verde...
+e chi no."""
+"flg19","""Se ti salta la mosca al naso...
+cerca di trattenerti!"""
+"goa00","""Sogna un sogno ad occhi aperti!"""
+"goa01","""Sotto la panca la capra canta."""
+"goa02","""L'importante è restare attivi
+a qualsiasi età!"""
+"goa04","""L'abito non fa il monaco."""
+"goa06","""Mettici l'impegno oltre all'ingegno."""
+"goa07","""Sii sempre te stesso e andrai
+lontano."""
+"goa08","""Prima di giudicare qualcuno,
+bela tre volte."""
+"goa09","""Se sbadigli, non sbagli."""
+"gor00","""Gorilla baffuto è sempre piaciuto."""
+"gor01","""Chi si loda s'imbroda."""
+"gor02","""Ride bene chi ride ultimo."""
+"gor04","""È tutta una questione di muscoli."""
+"gor05","""Non giudicare un libro
+dalla copertina."""
+"gor07","""Chi tace acconsente."""
+"gor08","""La vita è come un buffet: non
+smette mai di soddisfarti."""
+"gor09","""Meglio un giorno da gorilla
+che cento da pecora."""
+"gor10","""I favori è bene che vengano
+ricambiati."""
+"ham00","""Che vita sarebbe senza palestra?"""
+"ham01","""Le uova sode sono buone, ma non
+più di una volta a settimana."""
+"ham02","""Per vivere bene ci vogliono
+guance capienti."""
+"ham03","""Il tiempo es fugaz."""
+"ham04","""A volte i sogni si avverano,
+altre volte restano solo sogni."""
+"ham05","""Una ciliegia tira l'altra."""
+"ham06","""Fatti sentire se una cosa
+è importante da dire!"""
+"ham07","""La fortuna è come una ruota:
+gira, gira, gira..."""
+"ham08",""
+"hip00","""Quando qualcuno puzza
+di gorgonzola... fuggi."""
+"hip02","""Se presentatrice vuoi diventare,
+la parlantina devi allenare."""
+"hip03","""Un picnic primaverile è la cosa
+più bella che ci sia!"""
+"hip04","""Si gioca per partecipare,
+ma io preferisco vincere sempre!"""
+"hip05","""La necessità aguzza l'ingegno."""
+"hip08","""La pazienza è la virtù dei forti...
+... che hanno tempo."""
+"hip09","""Un bel piatto di graminacee
+porta sempre il buonumore!"""
+"hrs00","""Fatti gli affari tuoi."""
+"hrs01","""La vita è una sola, VIVILA!"""
+"hrs02","""Cammina a testa alta!"""
+"hrs03","""Porta sempre uno snack con te.
+Nella vita non si sa mai!"""
+"hrs04","""La vita va vissuta al trotto."""
+"hrs05","""Prima gli autografi, poi il piacere."""
+"hrs06","""Per apparire bisogna un po'
+soffrire."""
+"hrs07","""Tutto il mondo è paese... o isola."""
+"hrs08","""Ogni giorno è un dono."""
+"hrs09","""Il galoppo è la cura per ogni male."""
+"hrs10","""Campa cavallo che l'erba cresce."""
+"hrs11","""Il maneggio del vicino
+è sempre più verde."""
+"hrs12","""Quando sei quasi a metà
+dell'opera sei... a cavallo!"""
+"hrs13","""Il bel fisico è un ottimo cavallo
+di battaglia!"""
+"hrs14",""
+"hrs15",""
+"hrs16","""Abbi fiducia in te. Né troppa, né
+troppo poca."""
+"kal00","""Non è bello ciò che è bello,
+ma è bello ciò che piace."""
+"kal01","""Se vuoi viaggiare, apri un libro."""
+"kal02","""Chi legge campa più a lungo."""
+"kal03","""Sorridere non ha mai fatto
+male a nessuno."""
+"kal04","""Tutto è permesso
+in amore e formaggio."""
+"kal05","""Al contadino non far sapere quant'è
+buono l'eucalipto con le pere."""
+"kal08","""Chi mangia eucalipto
+campa cent'anni."""
+"kal09","""Dove c'è un eucalipto c'è un koala."""
+"kal10","""Un sorriso vale più di mille parole."""
+"kgr00","""Che non ti salti mai in mente
+di tradire i tuoi amici."""
+"kgr01","""Buon sangue non mente."""
+"kgr02","""La mamma è come una trapunta:
+ti tiene al caldo senza soffocarti."""
+"kgr05","""La foglia di eucalipto non casca
+mai lontano dall'albero."""
+"kgr06","""Fai il bene e scordalo,
+fai il male e ricordalo."""
+"kgr08","""A potare i bonsai non ti stanchi mai."""
+"kgr09","""Io mi riposo solo quando ho finito!"""
+"kgr10","""Non lasciare mai il certo
+per l'incerto."""
+"lon00","""Se non fatichi non stai
+vivendo davvero!"""
+"lon01","""Oggi leoni, domani leoni
+più vecchi di un giorno."""
+"lon02","""Domenica è sempre domenica."""
+"lon04","""Chi sa fa, chi non sa insegna
+e chi non sa insegnare critica."""
+"lon06","""Gli occhi vanno puntati verso
+il traguardo, sempre!"""
+"lon07","""La sera leoni, la mattina
+dormiglioni!"""
+"lon08","""L'appetito vien... correndo."""
+"mnk01","""Giallo, che passione!"""
+"mnk02","""Abbasso gli stereotipi:
+viva le banane!"""
+"mnk03","""Un'unghia spezzata ti rovina
+la giornata."""
+"mnk04","""Meglio una banana oggi
+che un banano domani."""
+"mnk05","""Nella vita non c'è una ricetta:
+devi fare tutto a occhio."""
+"mnk06","""Com'è buono il marzapane
+col frullato di banane!"""
+"mnk07","""Chi ben comincia è a metà
+dell'opera."""
+"mnk08","""Attenzione a non scivolare
+su una buccia di banana."""
+"mus00","""Mostrami la tua libreria
+e ti dirò chi sei."""
+"mus01","""Attenzione alle trappole."""
+"mus02","""Mostra sempre il tuo profilo
+migliore."""
+"mus03","""Un regalo ben pensato
+è un regalo apprezzato."""
+"mus04","""Mai nascondere i propri
+muscoli sotto i vestiti!"""
+"mus05","""La disciplina prima di tutto."""
+"mus08","""La moda cambia, ma le star
+restano!"""
+"mus09","""Chi sa aspettare ottiene tutto."""
+"mus10","""Quando i gatti non sono sull'isola,
+i topi ballano."""
+"mus12","""Niente di meglio dell'odore
+del formaggio al mattino."""
+"mus14","""Tana dolce tana!"""
+"mus15","""Cogli l'attimo!"""
+"mus16","""L'amore è il rampicante del cuore."""
+"mus17","""Casa mia, casa mia, per piccina che
+tu sia, emani sempre sciccheria!"""
+"mus18","""Il gel sta alla testa
+come le api al miele."""
+"ocp00","""Non arrenderti!"""
+"ocp01","""Ognuno di noi non è che
+una goccia nell'oceano."""
+"ocp02","""Adoro la fortuna... se gira
+nel verso giusto."""
+"ocp03",""
+"ost00","""Mai nascondere la testa nella
+sabbia."""
+"ost01","""L'amicizia è il sentimento più nobile."""
+"ost02","""Che sappiano volare o meno,
+tutti gli uccelli hanno le ali."""
+"ost03","""Allena il fisico finché è caldo."""
+"ost05","""Sicurezza non vuol dire
+incoscienza!"""
+"ost06","""La felicità è in ognuno di noi."""
+"ost07","""Una rosa vale più di mille serenate."""
+"ost08","""L'esperienza è il bastone
+con cui si deve camminare."""
+"ost09","""Meglio tardi che mai!"""
+"ost10","""Chi va piano va sano e va lontano."""
+"pbr00","""Anche i calvi hanno un cuore."""
+"pbr01","""Trattarsi bene è importante quanto
+respirare!"""
+"pbr02","""A nessuno piacciono le ali mosce!"""
+"pbr03","""Più in alto sali, più piccolo
+sembra il mondo."""
+"pbr05","""Dimmi con chi voli e ti dirò chi sei."""
+"pbr06","""Solo se ti apri agli altri
+potrai essere compreso."""
+"pbr07","""Per irrobustire le ali, fai
+voli lunghi e addominali!"""
+"pbr08","""Rosso di sera, bel tempo si spera."""
+"pbr09","""Sognare è un po'
+come volare senz'ali."""
+"pgn00","""Calma e sangue freddo."""
+"pgn01","""Non cammino a papera,
+lavoro sui miei glutei!"""
+"pgn02","""Le bibite senza ghiaccio
+non sanno di niente."""
+"pgn03","""Chi la fa l'aspetti."""
+"pgn04","""Se un buon raccolto speri di avere,
+tanta neve dovrà cadere."""
+"pgn05","""Meglio una granita oggi
+di una freddura domani."""
+"pgn06","""Il gioco è bello finché dura poco."""
+"pgn09","""È nato prima l'uovo o il pulcino?"""
+"pgn10","""Volare per credere."""
+"pgn11","""Il nuoto è lo sport più salutare."""
+"pgn12","""Le regole della moda sono fatte
+per essere rispettate!"""
+"pgn13","""Anche la nevicata più lunga
+prima o poi finisce."""
+"pgn14","""Saper volare non è tutto."""
+"pig00","""Esaltati!"""
+"pig01","""Viva la mamma!"""
+"pig02","""Il silenzio è d'oro."""
+"pig03","""Finisci tutto quello che hai
+nel piatto!"""
+"pig04","""Il meglio deve ancora arrivare!"""
+"pig05","""Non è mai troppo tardi per pisolare."""
+"pig08","""Tratta bene i tuoi muscoli e
+i tuoi muscoli tratteranno bene te."""
+"pig09","""Non rimandare a domani
+il gelato che puoi mangiare oggi."""
+"pig10","""Tutto fiorisce, se seminato
+nel terreno giusto."""
+"pig11","""Se vuoi un ricciolo da paura,
+fai gli impacchi di verdura!"""
+"pig13","""L'eleganza è il profumo
+della vita."""
+"pig14","""Me gusta il gelato alle ghiande!"""
+"pig15","""Nella vita bisogna giocare sporco."""
+"pig16","""Lo stufato di ghiande è
+un successo garantito in tavola."""
+"pig17","""Rosa è bello!"""
+"pig18",""
+"rbt00","""La fama è come una stella cadente."""
+"rbt01","""Non essere un coniglio: osa!"""
+"rbt02","""Chi trova un amico trova un tesoro."""
+"rbt03","""Abbi coraggio!"""
+"rbt04","""La vita va affrontata a denti stretti."""
+"rbt05","""Più siamo, meglio è!"""
+"rbt06","""Non leggere mai le recensioni."""
+"rbt07","""Quando la vita è troppo salata,
+aggiungi dello zucchero."""
+"rbt08","""Se cadi, rialzati!"""
+"rbt09","""Il bianco è il colore dell'innocenza."""
+"rbt10","""Non si vive di sole carote."""
+"rbt11","""Non giudicare un coniglio dalle
+sue orecchie."""
+"rbt12","""Nei giudizi sii sempre... franco."""
+"rbt13","""Una vita sotto i riflettori
+è una vita veramente vissuta."""
+"rbt14","""Il più grande condottiero
+vince senza combattere."""
+"rbt15","""Quando non hai il gel, indossa
+sempre un cappellino."""
+"rbt16","""Non basta essere famosi per
+essere felici. Ma aiuta."""
+"rbt17","""Per diventare modella non è
+essenziale essere bella."""
+"rbt18","""Un supereroe ci salverà tutti
+perché i cattivi li acchiappa tutti!"""
+"rbt19","""Le bugie hanno le orecchie lunghe."""
+"rhn00","""Ricorda di allenare sempre
+i tuoi muscoli!"""
+"rhn01","""Non guardare la gente
+dall'alto in basso!"""
+"rhn02","""Quando parti con la carica,
+carica fino in fondo."""
+"rhn04","""Avere una parola sulla punta
+del corno e non ricordarsela!"""
+"rhn07","""Impara l'arte e mettila da parte."""
+"rhn08","""Tutti i nodi vengono al pettine."""
+"shp00","""Non prendere freddo!"""
+"shp01","""Non seguire il gregge!"""
+"shp02","""Io non credo nelle coincidenze."""
+"shp03","""A volte sono solo questioni
+di lana caprina."""
+"shp04","""Bisogna conoscere
+le proprie pecore."""
+"shp07","""Non fare il pecorone!"""
+"shp08","""Conoscere meglio se stessi aiuta
+a comprendere meglio gli altri."""
+"shp09","""Non tutto il male vien per nuocere."""
+"shp10","""Quando contare le pecore non
+basta, fatti una camomilla!"""
+"shp11","""Cura ogni giorno il tuo manto
+e ti sentirai sempre uno schianto!"""
+"shp12","""In ogni famiglia c'è una pecora
+nera."""
+"shp13","""La vita è un circo e io sono
+il pagliaccio."""
+"shp15","""Sii fedele alla tua più vera natura!"""
+"squ00","""Una coda lunga e folta ti porta
+da tante parti."""
+"squ01","""Il troppo stroppia."""
+"squ02","""Un panino al volo e il sole
+torna a splendere nel cielo."""
+"squ03","""A chi ti fa del male, rendi
+sempre pan per focaccia."""
+"squ04","""L'invidia è una brutta bestia."""
+"squ05","""L'ombretto blu salverà il mondo!"""
+"squ06","""L'amicizia riempie la vita
+come un quadro la stanza."""
+"squ07","""Una foto è un ricordo per sempre."""
+"squ08","""Se la vita non funziona, dalle
+una scossa!"""
+"squ09","""Quando hai l'alito pesante,
+mangia una caramellina."""
+"squ10","""Arriva al nocciolo della questione!"""
+"squ11","""Torta di nocciole e tè...
+è una merenda da re!"""
+"squ13","""Se lo riveli, non è più un segreto."""
+"squ14","""Il battito d'ali d'una farfalla in città
+può causare un uragano sull'isola."""
+"squ15","""La granella di nocciole
+rende buono qualsiasi piatto."""
+"squ16","""Se vuoi un fisico asciutto,
+l'allenamento innanzitutto!"""
+"squ17","""Vivi il presente e non ti
+perderai niente!"""
+"squ18","""Mai dire mai!"""
+"squ19",""
+"squ20",""
+"tig00","""Tigre contro tigre... non andò
+mai a finire bene."""
+"tig01","""Perché lavorare quando
+puoi andare in vacanza?"""
+"tig02","""Metticela tutta, sempre!"""
+"tig03","""Comincia la giornata con grinta!"""
+"tig04","""Una tigre non è altro
+che un gattone palestrato."""
+"tig05","""La vita è come un puzzle: basta
+incastrare i pezzi nel modo giusto."""
+"tig06","""L'amore a prima vista esiste."""
+"wol00","""I lupi solitari hanno capito tutto
+della vita."""
+"wol01","""Chiodo scaccia chiodo."""
+"wol02","""Non avere paura di mostrare i denti."""
+"wol03","""Chi non condivide le proprie ricette
+è un ladro o una spia."""
+"wol04","""Ho una fame da...
+non mi viene la parola..."""
+"wol05","""Una fame da lupi va sempre
+soddisfatta."""
+"wol06","""Il lupo perde il pelo ma non il vizio."""
+"wol08","""Se non si nasce con la camicia,
+la si compra."""
+"wol09","""Mai gridare al lupo, al lupo!"""
+"wol10","""Se vuoi farti strada nella vita...
+beh... in bocca al lupo!"""
+"wol11",""
+"wol12","""Sii sempre la persona che non
+ti pentirai mai di essere stata."""

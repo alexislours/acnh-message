@@ -1,0 +1,727 @@
+﻿"label","text"
+"000_01","(촀\0Hallo, n\0!
+\0 Het is momenteel Z!\0 uur."
+"000_02","(촀\0Ik hoop dat jullie allemaal genieten
+van jullie tijd op het eiland!\0\0(\0촀\0Maar vergeet nietn\0\0 
+\0( 촀\0als je te hard
+van stapel loopt, put je jezelf uit.\0\0(%촀\0Zorg er dus voor dat je zo nu en dan
+een pauze neemt.
+\0 (""촀\0Het is belangrijk
+om je rust te pakken!"
+"001","()촀\0Het is n\0 Z\0 Z\0 Z\0, Z!\0, hier op n\0.(촀"
+"001_01","(촀\0Goedemorgen, allemaal!"
+"001_02","(촀\0Hallo, allemaal!"
+"001_03","(촀\0Goedenavond, allemaal!"
+"002","(촀\0Goedenavond, allemaal!
+\0((\0촀\0 Hier ben ik
+dan met het late nieuws!
+\0(.촀\0 Hopelijk
+dut ik niet in slaapn"
+"003","(촀\0Gelukkig nieuwjaar, allemaal!
+\0 (촀\0Ik sta
+te popelen om te zien wat het nieuwe
+jaar ons gaat brengen!"
+"004","(촀\0Hallo, allemaal! Vandaag begint het
+\0nieuwe maanjaar\0￿!
+\0(촀\0 Ik wens iedereen
+veel geluk en voorspoed toe!"
+"005","(촀\0Het heeft vandaag voor het eerst
+dit jaar gesneeuwd!
+\0(!촀\0 Het is nu echt
+winter op n\0!"
+"005_00_01","Ongelofelijk! Vandaag wordt er op 
+\0(촀\0n\0 ons allereerste \0vistoernooi\0￿ ooit gehouden!\0\0(촀\0Iedereen kan meedoen tussen \09:00\0￿
+en \018:00 uur\0￿. Meld je aan bij de tent
+op het plein!"
+"005_00_02","Ongelofelijk! Vandaag wordt er op (촀\0n\0 ons allereerste \0vistoernooi\0￿ ooit gehouden!\0\0(촀\0Iedereen kan tot \018:00 uur \0￿meedoen.
+Meld je aan bij de tent op het plein!"
+"005_01_01","Vandaag kun je op het plein van
+\09:00 \0￿tot \018:00 uur\0￿ meedoen aan
+het \0Lentevistoernooi\0￿!"
+"005_01_02","Vandaag kun je op het plein
+tot \018:00 uur\0￿ meedoen aan
+het \0Lentevistoernooi\0￿!"
+"005_02_01","Vandaag kun je op het plein van
+\09:00 \0￿tot \018:00 uur\0￿ meedoen aan
+het \0Zomervistoernooi\0￿!"
+"005_02_02","Vandaag kun je op het plein
+tot \018:00 uur\0￿ meedoen aan
+het \0Zomervistoernooi\0￿!"
+"005_03_01","Vandaag kun je op het plein van
+\09:00 \0￿tot \018:00 uur\0￿ meedoen aan
+het \0Herfstvistoernooi\0￿!"
+"005_03_02","Vandaag kun je op het plein
+tot \018:00 uur\0￿ meedoen aan
+het \0Herfstvistoernooi\0￿!"
+"005_04_01","Vandaag kun je op het plein van
+\09:00 \0￿tot \018:00 uur\0￿ meedoen aan
+het \0Wintervistoernooi\0￿!"
+"005_04_02","Vandaag kun je op het plein
+tot \018:00 uur\0￿ meedoen aan
+het \0Wintervistoernooi\0￿!"
+"006_00_01","Ik heb spannend nieuws! (촀\0Vandaag wordt er op n\0 de eerste \0Beestjesbeker\0￿ ooit gehouden!\0\0(촀\0Iedereen kan meedoen tussen \09:00
+\0￿en \018:00 uur\0￿. Meld je aan bij de tent
+op het plein!"
+"006_00_02","Ik heb spannend nieuws! (촀\0Vandaag wordt er op n\0 de eerste \0Beestjesbeker\0￿ ooit gehouden!\0\0(촀\0Iedereen kan tot \018:00 uur\0￿ meedoen.
+Meld je aan bij de tent op het plein!"
+"006_01_01","Van \09:00 \0￿tot \018:00 uur \0￿kun je op
+het plein meedoen aan de tweede
+\0Beestjesbeker \0￿van het seizoen!"
+"006_01_02","Vandaag kun je tot \018:00 uur \0￿mee-
+doen aan de eerste \0Beestjesbeker
+\0￿van het seizoen!"
+"006_02_01","Van \09:00 \0￿tot \018:00 uur \0￿kun je op
+het plein meedoen aan de tweede
+\0Beestjesbeker \0￿van het seizoen!"
+"006_02_02","Vandaag kun je tot \018:00 uur \0￿mee-
+doen aan de tweede \0Beestjesbeker
+\0￿van het seizoen!"
+"006_03_01","Van \09:00 \0￿tot \018:00 uur \0￿kun je op
+het plein meedoen aan de derde
+\0Beestjesbeker \0￿van het seizoen!"
+"006_03_02","Vandaag kun je tot \018:00 uur \0￿mee-
+doen aan de derde \0Beestjesbeker
+\0￿van het seizoen!"
+"006_04_01","Van \09:00 \0￿tot \018:00 uur \0￿kun je op
+het plein meedoen aan de vierde
+\0Beestjesbeker \0￿van het seizoen!"
+"006_04_02","Vandaag kun je tot \018:00 uur \0￿mee-
+doen aan de laatste \0Beestjesbeker
+\0￿van het seizoen!"
+"007_01","(촀\0Kunnen jullie het geloven?
+\0 Dit is de
+laatste dag van Z\0!
+\0 (촀\0Dit jaar heeft
+zoveel voor me betekendn\0\0\0\0( 촀\0Jeetje!
+\0\0\0(촀\0Ik verander snel van onderwerp
+voordat ik kortsluiting veroorzaak.\0\0(촀\0Om het nieuwe jaar te vieren
+\0 gaan
+we met zijn allen op het plein groots
+\0aftellen\0￿.\0\0(촀\0We verkopen en geven allerlei
+spulletjes weg,
+\0 (%촀\0dus kom langs om
+deel te nemen aan de festiviteiten!\0\0(촀\0Ik kan niet wachten om het nieuwe
+jaar met iedereen op het eiland in te
+luiden!"
+"007_02","(촀\0Goedenavond!
+\0 Vandaag gaan we op
+het plein met zijn allen \0aftellen\0￿ om
+zo het nieuwe jaar in te luiden!
+Ò\0\0\0(%촀\0Dat begint al bijna, dus kom zo snel
+als je kunt naar het plein.(""촀\0 Ik zie jullie
+daar!
+Ò"
+"010","(촂\0Hallo, allemaal.
+\0 Sorry voor deze
+plotselinge uitzending, maar ik dacht
+dat jullie wel interesse haddenn\0\0
+(\0촂\0Het is momenteel Z\0:Z\0 uur,
+\0 (촀\0hoog
+tijd voor \0Eiland-FM\0￿!"
+"011_01","(촀\0Het is vandaag de verjaardag van
+onze lokale superster, n\0."
+"011_02","(촀\0Het is vandaag de verjaardag van
+s\0촀! Wat geweldig!"
+"011_03","(촀\0Het is vandaag de verjaardag van
+s촀! Wat geweldig!"
+"012_01_01","(촀\0Vandaag vieren we meerdere verjaardagen!
+\0 Vergeet n\0 enn"
+"012_01_02","(촀\0Vandaag vieren we meerdere verjaardagen!
+\0 Vergeet s\0촀 enn"
+"012_02_01","n\0\0s\0촀 niet te feliciteren!"
+"012_02_02","n\0\0s촀 niet te feliciteren!"
+"012_02_03","(촀\0n\0\0nog heel veel andere eiland-
+bewoners niet te feliciteren! Wat
+leuk dat er zoveel jarigen zijn!"
+"013_01","(촀\0Gefeliciteerd!"
+"013_02","(촀\0Gefeliciteerd!"
+"021","En dan nu de mededelingen van
+vandaagn"
+"022","En dan nog wat mededelingenn"
+"031","En!"
+"101","(촀\0We hebben een nieuwe bewoner!
+Laten we s촀 van harte welkom heten!"
+"102","<"
+"102_01","(촀\02\0s촀, namens je nieuwe eilandfamilie: welkom!"
+"102_02","(촀\0Gefeliciteerd, s촀! Ik weet zeker dat je het hier ontzettend naar je zin gaat hebben."
+"102_03","(촀\0Het is zo fijn om nieuwe vrienden op
+het eiland te hebben!"
+"200","En dan nu over iets andersn"
+"201","Vandaag zegt n\0 gedag tegen die lieve s촀.\0\0Afscheid nemen is moeilijk, maar we
+wensen 2hemhaar veel succes op 2zijnhaar volgende, grote avontuur.\0\0Zorg dat je nog even langs gaat voor
+een praatje voor 2hijze vertrekt, en
+vergeet je zakdoekjes niet."
+"301","(촀\0Vandaag hebben we een bezoeker
+op de \0kampeerplek\0￿!"
+"302","<"
+"302_01","(촀\0Ik hoop dat het hele eiland meehelpt
+onze gast een warm welkom te
+geven!"
+"302_02","(촀\0Ik hoop dat onze gast gaat zien wat
+n\0 zo'n speciale plek maakt."
+"302_03","(촀\0Ga vooral eens langs als je meer over
+onze gast te weten wilt komen!"
+"600","<"
+"600_01","(촀\0O, nog iets!"
+"600_02","(촀\0En voor ik het vergeetn"
+"600_03","(촀\0O!
+\0(촀\0 Dit moeten jullie horen!"
+"602","(촀\0Volgens het weerbericht 
+\0staat ons
+vanavond iets superspeciaals te
+wachten:
+\0 \0vallende sterren\0￿!\0\0(1촀\02\0n\0 verlicht door een gloeiende hemel vol vallende sterrenn\0\0
+\0 (촀\0Dat wordt magisch!\0\0(촀\0Als jullie vanavond tijd hebben, kom
+dan even naar buiten 
+\0en kijk
+omhoog!"
+"603","(촀\0Jongens! Nu,
+\0 op dit exacte moment,
+
+\0is de lucht boven n\0 gevuld met \0vallende sterren\0￿!\0\0(촀\0Ik heb nog nooit zoiets prachtigs
+gezien.
+\0 Gebruik \0 \0￿om naar het
+spektakel in de lucht te kijken.
+(촀\0
+\0Weet je, 
+\0()촀\0er gaat een legende rond
+dat als je dan een wens doet met \0\0￿,
+
+\0hij zeker uitkomt!(촀\0\0\0(7촀\0Ik weet niet of die legende waar is,
+maar het is het proberen waard.
+\0(촀\0 Doe
+eens gek en doe een wens!"
+"610","(%촀\0Ik heb vandaag geen nieuws voor
+jullie, maar
+\0(촀\0 ik wil het graag hebben
+over een seizoengebonden kwestie.(촀"
+"611_01","(촀\0Ik liep vanochtend over het strand en
+toen zag ik een aantal zeldzame,
+gekleurde \0zomerschelpen\0￿!
+Zoals de naam suggereert, 
+\0(%촀\0spoelen
+ze alleen in de zomer aan."
+"611_02_01","Als je er zelf een paar zoekt, (촀\0heb je
+een perfect excuus om fijne zomer-
+creaties in elkaar te knutselen!"
+"611_02_02","(촀\0Ik heb iedereen met de\0 doe-het-zelf\0￿-
+app een plan voor een \0schelpenkrans
+\0￿gestuurd. 
+\0(%촀\0Maak hem eens!"
+"611_03","(촀\0Dus ga er een paar zoeken en maak
+een mooi aandenken aan de zomer!"
+"612_01","(촀\0Tijdens mijn ochtendwandeling zag
+ik dat er wat \0dingen uit de bomen
+waren gevallen\0￿.\0\0()촀\0Soms, als je bomen schudt, kunnen
+er \0eikels\0￿ of zelfs \0dennenappels\0￿ uit
+vallen!\0\0(촀\0Is er iets nog herfstiger dan dat?\0\0(촀\0Dus ga naar buiten, allemaal! Het
+wordt tijd om de boel eens goed
+wakker te schudden!"
+"612_01_01","(촀\0Tijdens mijn ochtendwandeling zag
+ik dat er wat \0dingen uit de bomen
+waren gevallen\0￿.\0\0()촀\0Als je aan een boom schudt, vallen er
+soms \0eikels \0￿of \0dennenappels\0￿ uit.\0\0(1촀\0Nu ik erover nadenk, misschien dat
+dat dit jaar niet al te vaak meer
+gebeurt.
+(촀\0Dus ga naar buiten, allemaal! Het
+wordt tijd om de boel nog eens goed
+wakker te schudden!"
+"612_02_01","( 촀\0
+\0O! Nu ik er toch aan denk!"
+"612_02_02","(촀\0Ik heb een plan
+\0 voor een
+\0herfstfeestboompje
+\0 \0￿naar iedereen
+met de \0doe-het-zelf\0￿-app gestuurd!
+(%촀\0Ik kijk ernaar uit om jullie bomen te
+zien!"
+"612_03","(촀\0Ik zou het zó leuk vinden als ik wat
+herfstige dingen op het eiland zie
+verschijnen!"
+"613_01","(%촀\0Het viel me op dat er over het gehele
+eiland \0paddenstoelen\0￿n\0\0 als
+paddenstoelen uit de grond schieten.\0\0(촀\0Mmmn\0\0 een paddenstoelenquichen\0\0\0\0(2촀\0Ze zijn overheerlijk, maar vergeet
+niet dat je ze ook in sommige
+doe-het-zelfplannen kunt gebruiken."
+"613_02_01","( 촀\0
+\0Nu ik het daar toch over heb!"
+"613_02_02","(촀\0Iedereen met de \0doe-het-zelf\0￿-app
+heeft als het goed is een plan voor
+een \0paddenstoelenkrans \0￿ontvangen.
+(\0촀\0Geen herfst is compleet zonder te
+genieten van die klassieke combo:
+
+\0(촀\0verzamelen en knutselen!"
+"613_03","(%촀\0Trouwens, 
+\0je kunt elke paddenstoel
+op het eiland gewoon veilig eten.(촀\0\0\0(촀\0Nu is het wel zo 
+\0dat het lastig kan
+zijn om paddenstoelen van elkaar te
+onderscheiden.\0\0()촀\0Vraag bij twijfel
+\0 altijd een expert om
+advies voordat je paddenstoelen eet
+die je niet herkent.(촀\0
+"
+"614_01","(+촀\0Op sneeuwachtige dagen zoals deze
+voel ik de kou altijd tot diep in mijn
+bottenn\0\0\0\0(촀\0Gelukkig is het hartverwarmend om
+al die \0sneeuwvlokken\0￿
+\0 (촀\0door de lucht
+te zien dansen.
+(2촀\0Soms schep ik ze voorzichtig uit de
+lucht met een \0net\0￿ om ze in al hun
+glorie van dichtbij te zien."
+"614_02_01","( 촀\0
+\0O ja!"
+"614_02_02","(촀\0Iedereen met de \0doe-het-zelf\0￿-app
+\0
+heeft een plan voor een
+\0sneeuwvlokkenkrans\0￿ ontvangen.\0\0Dus als je net als ik graag
+\0sneeuwvlokken\0￿ vangt,
+\0(촀\0 kun je ze nu
+gebruiken voor winterdecoratie!"
+"614_03","(%촀\0Ik beveel het iedereen van harte aan
+om het zelf een keer te proberen.\0\0(\0촀\0Je zou de \0sneeuwvlokken\0￿ daarna
+kunnen gebruiken (촀\0om iets lekker
+knus en winters mee te maken!"
+"615","(+촀\0Oef!
+\0 Weer zo'n dag waar de kou echt
+in je botten gaat zittenn\0\0\0\0(촀\0Maar dat betekent ook dat het een
+perfecte dag is om in de sneeuw te
+spelen!\0\0()촀\0Als je de kou in gaat,
+\0 probeer dan
+eens sneeuwballen te vinden en ze
+een duwtje te geven.
+(촀\0Blijf ze rollen tot ze groot genoeg
+zijn.
+\0 Als je er twee tegen elkaar aan
+rolt, maak je een \0Sneeuwknul\0￿!
+(촀\0Ik hoop dat ik morgen tijdens mijn
+ochtendwandeling een hele groep
+\0Sneeuwknullen\0￿ zie staan!"
+"616_01","(촀\0Toen ik vanochtend mijn takenlijstje
+doornam, werd ik abrupt onderbroken
+
+\0(촀\0door een verdwaald \0esdoornblad\0￿!
+(\0촀\0Nadat ik het van mijn hoofd had
+afgeveegd,
+\0 (1촀\0besefte ik dat de herfst
+bijna ten einde komt.\0\0(%촀\0Vergeet niet om te genieten van deze
+kleurrijke tijd van het jaar,
+\0(+촀\0 voor de
+winter komt!"
+"616_02_01","( 촀\0
+\0Ah!"
+"616_02_02","(촀\0Degenen met de \0doe-het-zelf\0￿-app
+zullen een nieuw plan voor een \0hoop
+rode bladeren\0￿ zien. 
+\0Graag gedaan!"
+"616_03","()촀\0Wist je dat het mogelijk is om
+\0esdoornbladeren\0￿ met een\0 net\0￿ te
+verzamelen?\0\0Gebruik ze voor een \0doe-het-zelfplan
+\0￿dat je het hele jaar (촀\0aan de pracht
+van de herfst doet denken."
+"617_01","(&촀\0Hebben jullie vanochtend ook
+\0kersenbloesemblaadjes\0￿ door de lucht
+zien dwarrelen?
+\0(촀\0 Het is zó magisch!\0\0(촀\0Erg jammer dat de kersenbloesem-
+tijd zo kort is.
+\0 Maar misschien maakt
+dat het juist zo speciaaln"
+"617_02_01","( 촀\0
+\0Nog iets!"
+"617_02_02","(%촀\0Ik heb alle gebruikers van de \0doe-
+het-zelf\0￿-app een plan voor een
+\0picknickset\0￿ gestuurd.(촀\0\0\0Maak hem eens,
+\0(촀\0 en geniet van een
+heerlijke picknick onder de prachtige,
+bloeiende bomen!"
+"617_03","(촀\0Ik raad iedereen aan om de
+\0kersenbloesemblaadjes \0￿voorzichtig
+met een \0net \0￿uit de lucht te scheppen.\0\0(%촀\0Je kunt ze dan gebruiken om er iets
+súperspeciaals mee te maken!"
+"618_01","(1촀\0Ik zag eerder vandaag wat bamboe
+staan
+\0 en dat deed me denken aan
+een interessant tuinbouwfeitje.
+(&촀\0Wist je dat deze tijd van het jaar
+uitermate geschikt is
+\0 om \0jonge
+lentebamboe\0￿ te oogsten?"
+"618_02_01","( 촀\0
+\0Dat herinnert me eraann"
+"618_02_02","(%촀\0\0Jonge lentebamboe \0￿is nodig om een
+\0noedelwaterglijbaan \0￿te maken. Het
+plan vind je in je \0doe-het-zelf\0￿-app.\0\0(3촀\0Het is een exclusief project, dus
+sommige van de materialen zijn
+alleen in deze periode beschikbaar."
+"618_03","( 촀\0Nu ik eraan denkn\0\0
+\0 wil ik jullie
+motiveren
+\0(촀\0 om gezellig seizoens-
+gebonden dingen te doe-het-zelven."
+"619_01","(촀\0Van midden december tot het einde
+van januari 
+\0zijn de cederbomen op
+het eiland versierd met lichtjes!\0\0(촀\0Ik heb mijn best gedaan om alles zo
+mooi mogelijk te makenn\0\0
+\0(7촀\0 maar ik
+ben er niet van overtuigd.
+(촀\0Ik liep per ongeluk tegen een
+versierde boom aan
+\0 en toen viel
+er een versiering uit!\0\0(촀\0Moet je je voorstellen wat er
+gebeurt als je zo'n boom probeert
+te schuddenn\0\0\0\0(촀\0
+\0Ik wil iedereen vragen om alle
+gevallen versieringen op te pakken
+\0(촀\0
+om zo het eiland schoon te houden."
+"619_02_01","( 촀\0
+\0O, juist!"
+"619_02_02","(촀\0Ik heb een plan naar alle \0doe-het-
+zelf\0￿-appgebruikers gestuurd. 
+\0(촀\0Welk
+plan? 
+\0(촀\0Voor een \0decoratieve krans\0￿!\0\0(
+촀\0Ik durf te wedden dat al die gevallen
+\0versieringen\0￿ heel goed van pas komt
+bij dit soort projectenn"
+"619_03","(
+촀\0En ik denk
+\0 dat die gevallen versiering
+weleens van pas zou kunnen in een
+doe-het-zelfprojectn"
+"701","(
+촀\0Hmn\0\0 Ik heb vandaag niet zo heel
+veel nieuwsn\0\0 Maarn\0\0
+\0(촀\0 O!"
+"702","<"
+"702_01","(촀\0Er is weer een nieuwe editie van
+mijn favoriete tijdschrift uit. Dat ga
+ik vandaag lekker lezen!"
+"702_02","(촀\0Moet je horen! Ik had enorm veel
+moeite met mijn kruiswoordpuzzel,
+maar ik ben er eindelijk uit!"
+"702_03","(촀\0Ik heb een persoonlijk nieuwtje! Ik
+sprak mijn familie thuis via de
+videochat en het gaat goed met ze!"
+"702_04","(촀\0Ik heb mijn daghoroscoop gelezen en
+er staat dat ik vandaag veel geluk ga
+krijgen!"
+"702_05","(촀\0Ik vond vandaag mijn lievelingssok
+achter de wasmachine. Die was ik al
+heel lang kwijt!"
+"703_01","(촀\0Laatst, toen ik kersjes aan het eten
+was, heb ik een prachtige armband
+met de steeltjes gemaakt!"
+"703_02","(촀\0Laatst schilde ik een stuk fruit,
+\0(촀\0 en
+toen kwam de hele schil er in één
+stuk af!"
+"801","(촀\0Er is vandaag weinig nieuws, dus ik
+heb niet zoveel te zeggen. Je krijgt
+natuurlijk wel de groetjes van me!"
+"802","<"
+"802_01","(촀\0Ah, nu ik eraan denkn"
+"802_02","(촀\0Wacht even!"
+"802_03","(촀\0Er schiet me opeens iets te binnenn"
+"803","(
+촀\0Hoewel technisch gezien de datum is
+veranderd, 
+\0(촀\0dusn"
+"804_01_01","(%촀\0Het is alweer het einde van januari.
+(촀\0
+\0Er zit alweer één maand van het
+nieuwe jaar op!\0\0(\0촀\0Februari wordt waarschijnlijk ook
+koud. Dus pak jezelf goed in,
+\0 je wilt
+geen koutje vattenn\0\0
+\0(,촀\0\0\0(2촀\0O! Ehn\0\0
+\0 (7촀\0Was je handen regelmatig.
+Én hand voor de mond als je hoest
+of niest!\0\0(촀\0We moeten die bacillen goed onder
+de duim zien te houden!\0\0(촀\0Goedn\0\0 dit was \0Isabelle\0￿. Over en uit!"
+"804_01_02","(%촀\0Januari is alweer bijna voorbij.(촀\0
+\0 De
+eerste maand van het jaar zit er
+alweer bijna op!\0\0(촀\0Laten we allemaal even de tijd nemen
+om januari gedag te zeggen en te
+bedanken!"
+"804_02_01","Het is bijna maart!(%촀\0 Februari is echt
+voorbijgevlogen! Misschien komt dat
+omdat het de kortste maand is.\0\0(촀\0Hoe dan ook, ik wens alle luisteraars
+een fijn einde van wederom een
+geweldige maand toe!"
+"804_02_02","Het is bijna maart!
+\0(%촀\0 Februari is echt
+voorbijgevlogen! Misschien komt dat
+omdat het de kortste maand is.
+(촀\0Hoe dan ook, 
+\0ik hoop dat maart ook
+net zo plezierig voorbijvliegt!"
+"804_03","Nu maart ten einde komt, vraag ik me
+afn\0\0
+\0(&촀\0 Hoe is het deze maand met jullie
+gegaan?
+\0(촀\0 Hopelijk goed!\0\0(촀\0Nou, hoe jullie maart ook was, laten
+we ervoor zorgen dat april gevuld is
+met geluk! \0Isabelle\0￿, over en uit."
+"804_04_01","(촀\0Dit is alweer het einde van april.(\0촀\0\0\0(촀\0Ze zeggen weleens: ""De lente komt
+eraan!"" Maar voor je het weet is de
+lenten\0\0(촀\0 er alweer vandoor!
+(촀\0Dat gaat ons niet tegenhouden(""촀\0 om
+volop van mei te genieten, toch?
+Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_04_02","(%촀\0Het begint echt een stuk kouder aan
+te voelen zo rond het eind van april,
+hè?\0\0(촀\0Ik vraag me af of mijn luisteraars zich
+al een warmere garderobe hebben
+aangemeten.\0\0Ik kijk ernaar uit om de herfstoutfits
+van iedereen te zien!
+\0(""촀\0 Goed, dit was
+\0Isabelle\0￿. Over en uit!"
+"804_05_01","(촀\0We nemen vandaag alweer afscheid
+van mei.\0\0We gaan warmere temperaturen
+tegemoet,(촀\0 dus zorg dat je klaar bent
+voor die verandering!"
+"804_05_02","(촀\0We nemen vandaag afscheid van
+mei.\0\0Het kan zomaar eens een stuk
+kouder worden,
+\0(촀\0 dus zorg goed voor
+jezelf! Ik wil geen gesnotter zien!"
+"804_06","(1촀\0Ik heb wat stof tot nadenken voor
+jullien\0\0 (%촀\0Het jaar is alweer halverwege!(촀\0\0\0Ging het snel voor jullie? Of juist
+langzaam?\0\0Ik ben van plan jullie het komende
+halfjaar zo goed mogelijk van dienst
+te zijn!\0\0(촀\0
+\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_07_01","Nu juli ten einde komt,
+\0(촀\0 zijn we bijna
+aangekomen bij het warmste
+gedeelte van de zomer!\0\0(\0촀\0Welke leuke dingen(&촀\0 gaan jullie
+deze zomer nog doen?\0\0(촀\0Als je op vakantie gaat, hoop ik dat
+je blijft openstaan voor alle leuke
+mogelijkheden die de reis je biedt!\0\0(촀\0En als het er dan weer op zit, hoop ik
+dat je veilig en wel weer aankomt op
+n\0.
+(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_07_02","Nu juli afloopt,
+\0(촀\0 gaan we het koudste
+gedeelte van de winter in!\0\0(\0촀\0Zorg dat je jezelf goed inpakt als je
+naar buiten gaat.
+\0 Het is belangrijk
+dat je wan\0\0
+\0(,촀\0\0\0(2촀\0Jeetje!
+\0 (7촀\0Ik moet mijn hand voor mijn
+mond houden als ik nies of hoest.
+Mij krijgen die bacillen niet!\0\0(촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_08_01","(촀\0We zijn alweer bij het einde van
+augustus aangekomen!\0\0(촀\0Er staan ons vast nog wat warme
+dagen te wachten, maar het duurt
+niet lang meer voor het koud wordt!\0\0(촀\0Wees voorbereid op temperatuur-
+schommelingenn\0\0
+\0((촀\0 Hoor mij nou eens,
+ik ben net een meteoroloog!"
+"804_08_02","(촀\0We zijn aangekomen bij het einde van
+augustus. Hier is wat leuks om over
+na te denkenn\0\0\0\0(촀\0De koude dagen liggen bijna achter
+ons en het duurt niet lang meer voor
+we lenteweer gaan zien!\0\0(촀\0Maarn\0\0 je wordt snel ziek tijdens zo'n
+seizoensverandering, 
+\0(촀\0dus zorg goed
+voor jezelf!"
+"804_09_01","(촀\0September loopt ten einde, dus het
+wordt binnenkort weer fris.\0\0(촀\0Het is hoog tijd om je herfstkleding
+weer uit de kast te halen, oké?\0\0Ik ben enorm benieuwd naar wat voor
+outfits jullie dit jaar zullen dragen!
+\0
+(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_09_02","(촀\0Vandaag komt september ten einde!\0\0Er wordt gezegd dat de lente vol
+nieuwe ontmoetingen, maar ook vol
+afscheid zit.
+\0
+(&촀\0Is er iets veranderd in jouw leven?
+(촀\0Hoe dan ook, ik hoop dat iedereen
+een geweldige oktober heeft!
+\0
+(""촀\0Goed,
+\0 dit was \0Isabelle\0￿. Over en uit!"
+"804_10_01","
+\0(촀\0Het is Halloween en dat betekentn\0\0
+(촀\0kostuums!
+\0(촀\0 Ik hoop dat jullie je
+vandaag verkleden!\0\0(
+촀\0Sommigen van jullie gaan vast naar
+een kostuumfeest, terwijl 
+\0(촀\0anderen
+het vandaag rustig houden.\0\0(촀\0Hoe je ook besluit je Halloween door
+te brengen, ik hoop dat je veel
+plezier hebt!"
+"804_10_02","(촀\0Het is Halloween, en dat betekentn\0\0
+\0
+(촀\0kostuums!
+\0(촀\0 Ik hoop dat jullie je
+vandaag verkleden!\0\0(
+촀\0Een paar van jullie zijn vast naar
+een kostuumfeest gegaan, 
+\0(촀\0terwijl
+anderen lekker niks hebben gedaan.\0\0(촀\0Hoe je je Halloween ook hebt
+doorgebracht, ik hoop dat je klaar
+bent voor november!"
+"804_11","( 촀\0Ongelofelijk dat november
+en het jaar alweer bijna voorbij zijn!\0\0(촀\0Ik ga voorbereidingen voor de nieuw-
+jaarsviering treffen, zodat jullie
+het nieuwe jaar kunnen inluiden!\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"804_12",""
+"805","(촀\0Ik heb vandaag niet echt nieuws om
+te delen!\0\0(%촀\0Maar we gaan bijna een nieuwe week
+in,
+\0 en ik hoop dat hij aan jullie
+verwachtingen zal voldoen!(촀\0\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"806","<"
+"806_01","Ik heb vandaag niets!
+\0 (촀\0Maar laten we
+er een mooie week van maken, oké?
+\0
+(""촀\0Dit was \0Isabelle\0￿. Over en uit!"
+"806_02","Geen nieuws vandaagn\0\0\0\0(촀\0Behalve dat ik jullie deze week ook
+weer van leuke en informatieve
+uitzendingen wil voorzien!\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"807","(
+촀\0Ik kan geen nieuws bedenkenn\0\0
+\0 (촀\0Het
+is ook pas dinsdag, 
+\0dus doe rustig
+aan. 
+\0(촀\0Overwerk jezelf niet!\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"808","(1촀\0Heb ik vandaag nou echt geen
+nieuwtjes voor jullie?\0\0(%촀\0Blijkbaar!
+\0(촀\0 Maar geef jezelf een
+schouderklopje.
+\0 De helft van de week
+zit er alweer op!
+(!촀\0Laten we hem sterk afsluiten!
+\0 (""촀\0Goed,
+dit was \0Isabelle\0￿. Over en uit!"
+"809","(촀\0Vandaag geen nieuws!\0\0(촀\0Geniet van een geweldige
+donderdagn\0\0
+\0 of, zoals ik hem graag
+noem:
+\0(촀\0 voorvrijdag!
+(1촀\0Het weekend komt al in de buurt,
+\0 ik
+kan het ruiken!\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
+"810","(촀\0Geen belangrijk nieuws vandaag!
+\0 (7촀\0Ligt
+het aan mij
+\0 of is deze week
+voorbijgevlogen?\0\0(촀\0Ik weet hoe hard iedereen heeft
+gewerkt, dus
+\0(""촀\0 geniet van dit
+welverdiende, heerlijke weekend!"
+"811","(촀\0Geen belangrijke nieuwtjes vandaag.
+\0
+Dan wens ik jullie maar
+\0(""촀\0 een geweldig
+weekend op n\0 toe!"
+"820","(
+촀\0Hmn\0\0 Ik heb vandaag niet zo heel
+veel nieuwsn"
+"821","(촀\0O ja! 
+\0(&촀\0Heeft iemand gisteren die film
+op tv gezien?
+\0 ()촀\0Die ene die ze tien
+keer per jaar uitzenden.
+(1촀\0Hoewel ik hem al duizend keer gezien
+heb,
+\0 zie ik die laatste twist nog
+steeds niet aankomen.
+\0(촀\0 Ik duizel nog!"
+"822","(촀\0Ah! 
+\0(&촀\0Heeft iemand gisteren die quiz 
+op tv gezien?\0\0(
+촀\0Hoe bedenken ze toch elke week al
+die vragen?
+\0 Laat staan al die
+antwoordenn"
+"823","(촀\0Hé! 
+\0(&촀\0Heeft iemand die variétéshow
+gisteren gezien?\0\0(촀\0De komiek die ze hadden, was
+fantastisch!
+\0 Ik heb een uur lang
+achterelkaar moeten lachen!
+(촀\0Het was best wel pijnlijk als ik eerlijk
+ben."
+"824","(촀\0O! 
+\0(&촀\0Heeft iemand gisteren dat
+programma gezien? 
+\0Op tv?
+\0 (%촀\0Je weet
+wel welke ik bedoel.
+(촀\0Ik kijk eigenlijk voor de gasten,
+\0
+(촀\0maar die presentatoren zijn zulke
+kletskousen!\0\0(1촀\0Ze blijven maar kletsenn\0\0
+\0 en
+kletsenn\0\0
+\0 en kletsenn\0\0
+\0 en kletsenn\0\0
+"
+"825","(촀\0O, ja! 
+\0(&촀\0Heeft iemand dat kook-
+programma gisteren ook gezien?\0\0(촀\02촀DeHetDe gekruide 촀 2촀diedatdie ze daarin maakten, 2 촀zag
+zagenzag er heerlijk uit!\0\0(촀\0Ik zit eraan te denken om zoiets
+vanavond ook te gaan maken.
+\0
+Hopelijk gaat dat goed!"
+"826","(촀\0Heeft iemand die documentaire
+gezien die ze gisteren uitzonden?\0\0(촀\0Het ging over de geschiedenis van
+촀.
+\0 En ik moet eerlijk zijn: het was vrij informatief!\0\0()촀\0Zo heb ik bijvoorbeeld geleerd
+\0 dat
+als iemand over 촀 praat, ik meteen in slaap val!(촀\0
+"
+"827","(촀\0Zeg! 
+\0Heeft iemand anders
+\0(&촀\0 gisteren
+dat concert op tv gezien?\0\0(촀\0Mijn lievelingsband was één van de
+hoofdacts 
+\0(촀\0en de muziek is in mijn
+hoofd blijven hangen."
+"828","(촀\0
+\0O jeetjen\0\0\0\0(2촀\0Daar ga ik weer, met mijn eindeloze
+gekeuvel over mijn kijkgedrag.
+\0 Het
+spijt me, jongens!"
+"831","<"
+"831_01","(촀\0Nee!
+\0 Ik ben helemaal vergeten dat ik
+tot gisteren mee kon doen aan die
+ene wedstrijd met die mooie prijsn"
+"831_02","(촀\0O nee!
+\0(촀\0 Ik ben vergeten mijn was
+binnen te halen!"
+"831_03","(촀\0O jeetje!
+\0 Ik ben gisteravond vergeten
+mijn telefoon op te ladenn\0\0
+\0(촀\0 Wat als er
+een noodgeval is?"
+"831_04","(촀\0Woeps!
+\0 Mijn broer vroeg of ik hem
+vandaag wakker kon bellen en dat is
+me totaal ontschoten!\0\0(촀\0Ik hoop dat hij al wakker isn"
+"899","(촀\0Ehn\0\0 (촀\0Jemig.
+\0(2촀\0 Dat telt niet echt als
+""nieuws"", of wel?"
+"901","<"
+"901_01","Dat was alles.
+\0 Ik hoop dat iedereen
+\0
+(촀\0een geweldig leuke dag heeft!"
+"901_02","Dat was het voor vandaagn\0\0
+\0 (촀\0Veel
+plezier vandaag!"
+"901_03","(촀\0Zo, en nu ga ik weer terug aan het
+werk om jullie te ondersteunen bij
+het genot van dit prachtige eiland."

@@ -1,0 +1,148 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hola, soy s촀.
+\0 Ahora no te puedo atender porque estoy de mudanza.\0￿d"
+"001_02","d\0\0Soy s촀.
+\0 Ahora mismo estoy ocupada con una mudanza. Inténtalo más tarde.\0￿d"
+"001_03","d\0\0Has llamado a s촀,
+\0 pero ahora no puedo contestar porque voy a mudarme.\0￿d"
+"001_04","d\0\0Hola, soy s촀.
+\0 Estoy liadísima con la mudanza y ahora no puedo atenderte, ¡lo siento!\0￿d"
+"102","<"
+"102_01","(촀\0¿Quieres que vaya a la \0zona de
+acampada \0￿de n	\0?
+\0 (촀\0¡Me encantaría!\0\0(촀\0¡Voy a preparar la mochila
+y enseguida me tienes ahí!"
+"102_02","(촀\0¿Me estás invitando a visitar la
+\0zona de acampada\0￿ de tu isla?
+\0
+(촀\0¡Qué gran idea!
+(촀\0Siempre me ha gustado ir de
+excursión y experimentar nuevas
+sensaciones.
+\0 ¡Allá que voy!"
+"102_03","(
+촀\0¿Dices que debería probar la \0zona
+de acampada\0￿ de tu isla?
+\0 (%촀\0Pues no me
+vendrían mal unas vacacionesn\0\0
+(촀\0¡En cuanto tenga todo listo saldré
+para allá!
+\0 ($촀\0¡Nos vemos pronto!"
+"102_04","(
+촀\0Así que me estás invitando a visitar
+la \0zona de acampada \0￿de tu preciosa islan\0\0
+\0 (촀\0¡Cómo podría negarme!\0\0(촀\0Saldré de inmediato,
+\0 en cuanto
+recuerde dónde guardé mis
+bártulos de acampada."
+"202","<"
+"202_01","(촀\0¿Quieres que vaya a la \0zona de
+acampada \0￿de tu isla?
+\0 (촀\0¡Qué invitación
+tan inesperada!
+(
+촀\0La verdad es que me apetece salir
+un poco de la rutina;
+\0 podría estar
+bienn\0\0
+\0 ($촀\0¡Venga, iré!
+\0 Nos vemos."
+"202_02","( 촀\0¿Dices que en tu isla tenéis una
+\0zona de acampada\0￿ maravillosa?
+\0
+(%촀\0Pues siento cierta curiosidadn\0\0
+(1촀\0No me importaría ir a relajarme
+en la playan\0\0
+\0 ($촀\0¡Voy a comprarme
+el vuelo enseguida!"
+"202_03","(촀\0¿De verdad me estás invitando
+a la \0zona de acampada \0￿de tu isla?
+\0
+(촀\0Qué amable por tu parte, ¡gracias!
+(촀\0Estaré encantada de ir a pasar
+el rato con vosotros.
+\0 ¡Hasta pronto!"
+"202_04","(촀\0¿Me estás invitando a ir de visita
+a la \0zona de acampada\0￿ de tu isla?
+\0
+(%촀\0¡Es una idea fabulosa!
+(촀\0Voy a prepararlo todo para poder
+estar allí tan pronto como sea
+posible.
+\0 ¡Adiós!"
+"301","<"
+"301_01","($촀\0¡Hola!
+\0 Soy n
+\0.
+\0
+¿Quién\0\0?
+\0( 촀\0 ¡Ah, si eres tú, flor!
+\0
+(촀\0¿Qué tal?"
+"301_02","Aquí n
+\0.
+\0
+( 촀\0¿Eres n\0?
+\0
+¿Cómo es que me llamas, bichín?
+(&촀\0¿No podías esperar a vernos para
+contarme algo?"
+"301_03","(촀\0¡Hola! Al habla n
+\0.
+\0
+¿Eres tú, n\0?
+\0
+¡Qué agradable sorpresa!
+(촀\0No es por nada, pero,
+\0 si quieres
+hablar conmigo, puedes venir a
+mi casa."
+"301_04","(촀\0¿Hola?
+\0 ¿2\0n\0?
+\0
+¿Qué ocurre?
+\0 ¿Ha pasado algo?"
+"302","<"
+"302_01","(촀\0¿Cómo?
+\0 ¿Quieres que use la \0zona
+de acampada\0￿ de nuestra isla?\0\0(촀\0No me importaría, pero creo que
+la idea es que la usen los turistas
+y no los residentes."
+"302_02","(촀\0¿Quieres que monte una tienda
+en la \0zona de acampada\0￿?\0\0(촀\0Podría ser divertido,
+\0 pero prefiero
+dormir en mi camita, lo siento."
+"302_03","(
+촀\0Creo que no te he oído bienn\0\0
+\0
+¿Por qué iba yo a usar la \0zona
+de acampada\0￿ de la isla?
+(촀\0Está pensada para las visitas,
+\0
+para que puedan disfrutar de
+la isla tanto como nosotros."
+"302_04","(촀\0¿Me estás pidiendo que use la \0zona
+de acampada\0￿ de nuestra isla?\0\0(8촀\0¡Es para las visitas!
+\0 No me parece
+bien ocuparla si ya vivo aquí,
+\0
+¿lo comprendes?"
+"401","<"
+"401_01","¡Hola! Soy n
+\0.
+\0
+(&촀\0¿Qué puedo hacer por ti, n\0?"
+"401_02","(촀\0¿Diga?
+\0 Soy n
+\0.
+\0
+(&촀\0¿Qué querías, n\0?"
+"401_03","(촀\0¡Hola! Al habla n
+\0.
+\0
+¿Qué hay, n\0?"
+"401_04","(촀\0¿Sí? Al habla n
+\0.
+\0
+¿En qué puedo ayudarte?"

@@ -1,0 +1,284 @@
+﻿"label","text"
+"002","( 촀\0Huh?
+\0 Really?
+\0( (촀\0Oh man! It'll be double
+the fun with you around!\0\0(촀\0I'll go ask the \0Resident Services\0￿
+if I can move to this island
+right away, n\0!"
+"101","<"
+"101_01","( 촀\0Huh?
+\0 Really?!
+\0( Oh man, that's a real
+cool offer, (촀\0but I gotta pass this time.\0\0(촀\0My snacks are waiting for me back
+homen\0\0
+\0and so are my friends.\0\0But thanks for inviting me.
+(촀\0It means a bunch, n\0!"
+"101_02","(촀\0Whaaa?!
+\0( I can live here?!
+\0
+(\0촀\0That'd be super cool, butn\0\0\0\0(촀\0I have bugs back home that are
+waiting to see me again.
+(촀\0I can't just leave them!\0\0(\0촀\0Man, thanks for the invite, but I'm
+real sorry. I gotta head home.
+\0((%촀\0
+It means a lot that ya asked."
+"101_03","( 촀\0Huh?!
+\0( I can move here?!
+\0(
+(\0촀\0That'd be super cool, butn\0\0\0\0()촀\0A bug family just moved into my
+bathroom walls back home, and I
+wanna get to know them.\0\0(촀\0Thanks for inviting me, though.
+I had a lotta fun here, n\0!"
+"201_01","Hmmn\0\0 I dunno.
+\0( It sounds cooln\0\0
+but it's real sudden.\0\0(촀\0Oh, got an idea!
+\0( (\0촀\0How 'bout we play a
+game to decide?\0\0()촀\0If you win,
+\0 I'll move here.
+\0( (촀\0Sound fun?
+Good! 
+\0'Cause it's kinda my only idea
+right now. Soooooo ($촀\0let's do it!"
+"201_01_a","Sure!"
+"201_01_b","Sorry, I'd rather not..."
+"201_02","( 촀\0Huh?!
+\0 Really?
+\0( That'd be super cooln\0\0
+\0(
+(\0촀\0But I dunnon\0\0 Hmm.\0\0(촀\0Oh!
+\0 Here's an idea!
+\0( (촀\0Why thinkn\0\0when
+we can play a game instead?!\0\0(촀\0If you win, I move here!
+\0(
+(;촀\0Good idea, right?"
+"201_02_a","Sure!"
+"201_02_b","Maybe another time."
+"201_03","(촀\0I'm so happy you invited me!
+\0(
+(
+촀\0But I dunnon\0\0I can't decide.
+What should I do?!\0\0(촀\0Wait! 
+\0I did an idea just now!
+\0(
+(촀\0Let'sn\0\0
+\0play a game to decide!\0\0(촀\0And if you win, I move here.
+\0
+To your island! Sound good?"
+"201_03_a","I'm down!"
+"201_03_b","I'm OK, thanks."
+"202_01","Aw,
+\0 OK, n\0."
+"202_02","(촀\0Oh well, n\0!(촀"
+"202_03","Aw,
+\0 you don't wanna?"
+"203_01","(촀\0Alright!
+\0 Let's get started on the
+\02
+card-game showdown gamen\0\0that
+you play with cards!"
+"204","<"
+"204_01","I win!
+\0( (7촀\0Sorry, but I guess I'm not
+moving here."
+"204_02","I win!
+\0((8촀\0 Guess I'm not moving
+this time."
+"204_03","I won, so (촀\0
+\0I won't be movingn"
+"205","<"
+"205_01","(촀\0What a fun way to spend however
+long that took, n\0."
+"205_02","(촀\0That was fun. Maybe I'll get folks
+to play that game when I get home.
+Win, and I'll sleep on your couch!"
+"205_03","(촀\0That was exciting!
+\0( Whew. I dunno if
+you can see it, but my heart is still
+pounding, n\0."
+"206","<"
+"206_01","That meansn\0\0
+\0(촀\02\0n\0n\0\0
+\0
+You win!
+\0 That's real cool.\0\0(%촀\0I'm gonna go home, get all my
+snacks, and bugs, and stuff,
+and then I'll move to this island.\0\0(촀\0Next time ya see me, I'll be a
+fellow islander.
+\0( I can't wait!"
+"206_02","(촀\0You win!
+\0( (촀\0Alright, I'll be moving
+to n\0!\0\0(7촀\0I really wanted to move here, even
+before the game started, so I was
+worried what to do if you lost!\0\0(촀\0Problem solved, huh? We're gonna
+be neighbors! Yay!"
+"206_03","(촀\0That means you win!
+\0( (\0촀\0(촀\0I'm moving
+to this island! It's a thing that's
+happening for real!\0\0(%촀\0Man, I gotta call Grandma
+and tell her I'm gonna
+miss dinner, n\0."
+"302","(촀\0Sorry for the wait!
+\0( I went to talk at
+the \0Resident Services \0￿folks heren\0\0\0\0()촀\0They said there's no more room
+to build property on this island,
+(촀\0so I can't move here. Butn\0\0
+(9촀\0I could always ask another resident
+to swap with me? If that's cool
+with you, n\0."
+"302_a","Go for it."
+"302_b","Please don't."
+"303","(촀\0Aw, OK.
+\0( That's weird, I know.
+\0(
+(\0촀\0I'll give up for now! n"
+"304","(촀\0Yay!
+\0( (%촀\0\0Resident Services \0￿just told me
+I can ask these folks if they want out.
+\0
+(""촀\0Who do you think's my best shot?"
+"305","($촀\02\0s촀, right?"
+"305_a","Yup."
+"305_b","Oops, wrong one."
+"305_c","Actually, let's not."
+"306","(9촀\0OK.
+\0 I'd be nervous,
+\0 but I got no idea
+who they even are, so they can't
+make me nervous! (촀\0Off I go!"
+"307","(촀\0OK, 'cause I wanna be suren\0\0
+\0(
+Who should I ask?"
+"308","(촀\0Aw, that's a shame. But I'll give up
+this time, n\0."
+"309","(촀\0I used all of my courage and asked
+somebody to change their whole life
+for me, a guy they don't known\0\0\0\0And they said OK!\0\0()촀\02\0s촀 said 2heshe was
+thinkin' about moving soon anyway,
+what with all the night clowns.\0\0(9촀\0I decided not to get into it.\0\0(촀\0Anyway, now I can move here! I hope
+you're ready, n\0!"
+"310","(&촀\0Don't see anybody you want me
+to ask?"
+"310_a","There is."
+"310_b","Nope, sorry."
+"311","(촀\0Uh, can you tell me who to
+ask, then?"
+"312","(촀\0No worries!
+\0( Maybe another time!"
+"402","(촀\0Sorry for the wait!
+\0( I went to ask the
+\0Resident Services \0￿people about
+moving here, and they saidn\0\0\0\0(촀\0""How did you get here?! Oh no. (촀\0This
+model was never supposed to leave
+his island. Call Mr. Nook. NOW!""\0\0(촀\0I dunno what happened after that,
+but I think I smelled a soldering
+iron? Anyway, I can't move here.\0\0(\0촀\0I hope we get to live on the same
+island one day. Maybe after whatever
+a ""format and redeploy"" is!"
+"403","(촀\0Hey!
+\0( I asked \0Resident Services \0￿
+\0andn\0\0
+\0
+(촀\0Someone who looks just like me
+is already gonna move here.\0\0(\0촀\0And that's weird, right? Well, the
+best part about weird stuffn\0\0(촀\0
+\0is that
+you can always make it weirder.\0\0(촀\0
+\0Maybe I'll ask this guy to share
+the island. He'll live part-time here,
+and I'll live part-time on his islandn"
+"404","I asked the \0Resident Services\0￿(:촀\0
+\0, but
+(촀\0the island's full up on residents,
+so I can't move in!\0\0(촀\0What a shame. Oh well.
+\0( (\0촀\0I hope
+we get to live on the same
+island someday, n\0."
+"405","I asked \0Resident Services \0￿(:촀\0
+\0andn\0\0
+\0
+(촀\0there's no more room for new
+houses, (촀\0so I can't move here!\0\0(촀\0Total shame, but oh well.
+\0(
+(\0촀\0I still hope we get to live on the
+same island one day, n\0."
+"406","(촀\0Son\0\0 I talked to \0Resident Services
+\0￿andn\0\0
+\0 (촀\0
+\0They said I can move here!(촀\0\0\0(촀\02\0n\0!
+\0 Man, starting
+tomorrow, we're neighbors!
+\0(
+We're gonna hang out every day!"
+"410","(
+촀\0Or maybe I go and ask 'em again?
+\0< (\0촀\0
+Maybe this time they'll say,
+\0(;촀\0 ""We were
+being weird and silly! Move on in!"""
+"410_a","Yeah, maybe!"
+"410_b","I dunno..."
+"411","(7촀\0You're right.
+\0( I guess things don't
+change that quick, huh?
+\0( (촀\0Some other
+time then, n\0!"
+"421","(
+촀\0
+\0I keep feeling like that whole scene
+was real weirdn\0\0but I also kinda
+forget it the more I think about it.\0\0($촀\0
+\0Well, it's a shame I can't move
+here, but thanks for inviting me!"
+"422","(
+촀\0So when me and this other guy swap
+places, 
+\0we'll have to pretend to be
+each other all day and night, butn\0\0
+(%촀\0You'll know it's my turn to live on
+this island 'cause I'll make sure I
+never blink in front of you."
+"423","(%촀\0Your island's so packed with friends
+that you don't have any more room!
+\0
+(촀\0That sounds like a fun island.\0\0(\0촀\0It's a real shame I couldn't move
+here.
+\0($촀\0 But you inviting me made me
+feel good, n\0!"
+"424","(%촀\0
+\0Your island's so packed with folks,
+you can't fit any more. So I can't
+move here! 
+\0(촀\0
+\0Total downer.\0\0(\0촀\0($촀\0Well, if this is goodbye, then thanks
+for all the fun! I'll always remember
+my time here, n\0!"
+"504","(촀\0Your island's cozy, everybody's nice,
+they smell good, and they feed me
+stuff. Man, I could stay here forever!"
+"504_a","Why not live here?"
+"504_b","Right?!"
+"505","(촀\0A huh huh huh,
+\0 that sounds cool.
+\0(
+Invite me again sometime!"
+"506","(""촀\0Yeah, it's real neat here!
+\0( Real darn
+neat. You're so lucky that you (촀\0get to
+live here, n\0."
+"507","(촀\0This island's my favoritest place that
+doesn't got a menu to color while
+you wait for pie."
+"507_a","You should live here!"
+"507_b","Thanks!"
+"508","(촀\0That's a neat idea! 
+\0((7촀\0Ya oughta invite
+me back someday so I've got time
+to think about it, OK?\0\0()촀\0Once I got elected sheriff 'cause I
+didn't think about what I was doing.
+\0
+(5촀\0
+\0So I think stuff through now."
+"509","()촀\0You're lucky!
+\0 You live here, and don't
+gotta leave unless space aliens make ya.
+\0((촀\0 I wanna come back someday!"

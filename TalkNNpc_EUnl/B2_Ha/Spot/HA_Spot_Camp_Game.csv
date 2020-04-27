@@ -1,0 +1,107 @@
+﻿"label","text"
+"001","(촀\0Hé! 
+\0Wil je een spelletje spelen?
+\0( (6촀\0Ik
+beloof dat het niets met spieren te
+maken heeftn\0\0
+\0 deze keer dan.\0\0(%촀\0Als je wint, mag je mijn 2촃}\0\0 hebben.
+\0( ($촀\0Wat denk je ervan?"
+"001_a","Spelen maar!"
+"001_b","Ik pas."
+"002","(촀\0Helemaal goed!
+\0 Oké, wil je dat ik je
+de regels uitleg, 
+\0of ben je op zoek
+naar gevaar, n\0?"
+"002_a","Regels!"
+"002_b","Gevaar!"
+"003","( 촀\0On\0\0
+\0 Niets aan te doen.
+\0 (촀\0Misschien een
+andere keer, n\0."
+"004","(%촀\0Dapper, dapper!
+\0( (<촀\0Staal je sixpack dan
+maar vast, want hier gaan wen"
+"005","(9촀\0Onze waaghals heeft gekozenn"
+"006_01","(촀\0GOAL! 
+\0Gefeliciteerd! 
+\0Mijn 2촃}\0\0 2촀isiszijn nu van jou!"
+"006_02","(%촀\0GOAAAAAAL!
+\0( (촀\0Mijn 2촃}\0\0 2촀isiszijn nu van jou!
+\0 Gefeliciteerd!"
+"006_03","('촀\0Dat moet pijn doenn"
+"007_01","(%촀\0Klasse, 
+\0ga maar naar de kleedkamers, n\0."
+"007_03","(촀\0Kop op, 
+\0we spelen vast nog een keer,
+n\0."
+"008","(촀\0Dat hoor ik graag!
+\0 Cool, daar gaan
+w-
+\0( 촀\0 Eh, wacht even. 
+\0Weet je dat je
+zakken vol zijn, n\0?\0\0(촀\0Voller dan mijn kast met medailles.
+\0 Mijn 2촃}\0\0 zou ik je niet eens kunnen geven!\0\0(9촀\0Kijk, als we zo gaan spelen, hoeft het
+van mij niet. 
+\0Er moet wel iets te
+verliezen zijn!\0\0()촀\0Kom maar terug als je zakken wat
+leger zijn!"
+"100","(""촀\0Jij wilt regels, 
+\0dan krijg je regels!\0\0()촀\0Je weet toch dat kaarten allemaal
+een symbool hebben?
+\0 \0♥ Harten\0￿,
+\0♦ ruiten\0￿, \0♠ schoppen\0￿ en \0♣ klaveren\0￿.\0\0(6촀\0Nu moet je proberen te raden welk
+symbool de bovenste kaart heeftn\0\0\0\0(\0촀\0Raad je het goed, dan krijg je mijn
+2촃}\0\0.
+\0( ($촀\0Gewoon zomaar!\0\0(<촀\0Staal je sixpack maar vast,
+\0 want hier
+gaan we!"
+"101","(촀\0Vertel! 
+\0Welk symbool heeft deze
+kaart?"
+"101_a","\0♥ Harten!\0￿"
+"101_b","\0♦ Ruiten!\0￿"
+"101_c","\0♠ Schoppen!\0￿"
+"101_d","\0♣ Klaveren!\0￿"
+"102_01","(촀\0Kijk nou, het is 촀!
+\0 Een prachtig schot vanaf de middenlijn!
+\0 De keeper is kansloos!"
+"102_02","( 촀\0Ooo! 
+\0Het is 촀.
+\0('촀\0 Wat een ontgoocheling voor onze dappere vedette!"
+"200","(""촀\0Jij wilt regels, 
+\0dan krijg je regels!\0\0(%촀\0Je weet toch dat kaarten allemaal
+een symbool hebben?
+\0 \0♥ Harten\0￿,
+\0♦ ruiten\0￿, \0♠ schoppen\0￿ en \0♣ klaveren\0￿.\0\0()촀\0En ieder symbool is \0rood\0￿ of \0zwart\0￿.
+\0(
+(6촀\0Nu moet je proberen te raden welke
+kleur de bovenste kaart heeftn\0\0\0\0(\0촀\0Raad je het goed, dan krijg je mijn
+2촃}\0\0.
+\0( ($촀\0Gewoon zomaar!\0\0(<촀\0Staal je sixpack maar vast,
+\0 want hier
+gaan we!"
+"201","(촀\0Vertel! 
+\0Welke kleur heeft deze kaart?"
+"201_a","\0Rood!\0￿"
+"201_b","\0Zwart!\0￿"
+"202_01","(촀\0Kijk nou, het is \0rood\0￿!
+\0 Een prachtig
+schot vanaf de middenlijn!
+\0 De keeper
+is kansloos!"
+"202_02","( 촀\0Ooo! 
+\0Het is \0zwart\0￿.
+\0('촀\0 Wat een
+ontgoocheling voor onze dappere
+vedette!"
+"202_03","(촀\0Kijk nou, het is \0zwart\0￿!
+\0 Een prachtig
+schot vanaf de middenlijn!
+\0 De keeper
+is kansloos!"
+"202_04","( 촀\0Ooo! 
+\0Het is \0rood\0￿.
+\0('촀\0 Wat een
+ontgoocheling voor onze dappere
+vedette!"

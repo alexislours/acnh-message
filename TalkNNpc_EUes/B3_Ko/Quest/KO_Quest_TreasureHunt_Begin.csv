@@ -1,0 +1,228 @@
+﻿"label","text"
+"001","(촀\0Quería preguntarten\0\0
+\0
+(&촀\0¿Te interesaría buscar un tesoro
+conmigo?"
+"001_a","¡Por supuesto!"
+"001_b","(\0촀\0Quizá luego"
+"002","(%촀\0A mi mente viejuna se le ha ocurrido
+una nueva idean\0\0
+\0 (&촀\0¿No te apetece
+buscar un tesoro?"
+"002_a","¡Venga!"
+"002_b","Mejor no"
+"003","(&촀\0¿Qué harías si tuvieses un rato libre?
+\0
+Buscar un tesoro,
+\0 (촀\0¿a que sí?
+\0
+¡Venga,
+\0 participa!"
+"003_a","¡Vale!"
+"003_b","Ahora no puedo..."
+"004","(촀\0¡Estupendo!
+\0 Pillo mi pala y me
+pongo a cavar.
+\0 Sí,
+\0 ¡voy a enterrar
+un tesoro!"
+"005","(촀\0¡Perfecto!
+\0 Dame unos minutos,
+\0
+que voy a enterrar una cosan"
+"006","(촀\0Así me gusta,
+\0 jovencit2oa,
+\0 que
+participes.
+\0 (%촀\0Voy a prepararlo todo
+para que empieces a buscarn"
+"007","( 촀\0Anda,
+\0 lo siento.
+\0 Sé que te lo había
+propuesto yo,
+\0 pero ahora no tengo
+tiempon\0\0
+(촀\0¡Lo dejamos para otra ocasión!"
+"008","( 촀\0¿No te interesa?
+\0 Bueno,
+\0 quizá
+en otra ocasión."
+"009","( 촀\0No te hace, ¿eh?
+\0 (촀\0No importa,
+\0
+quizá la próxima vez."
+"010","( 촀\0¿No?
+\0 Y yo que pensaba que sín\0\0
+\0
+(촀\0No hay problema.
+\0 Ya habrá más
+ocasiones."
+"011","(%촀\0Bueno,
+\0 te explico de qué va esto.
+Z\0\0\0()촀\0Si encuentras el tesoro que he
+escondido antes de que se acabe
+el tiempon\0\0
+\0 ¡te lo quedas!
+´\0
+(촀\0Lo he enterrado,
+\0 así que no vayas
+fisgando por las casas.
+\0 (!촀\0¡Suerte!
+x"
+"011_01","(%촀\0Bueno,
+\0 te explico de qué va eston\0\0
+Z\0\0\0()촀\0Si encuentras el tesoro que he
+escondido antes de que se acabe
+el tiempon\0\0
+\0 ¡te lo quedas!
+´\0
+(촀\0Lo he enterrado,
+\0 así que no vayas
+fisgando por las casas.
+\0 ('촀\0¡Y nada de
+pedir ayuda a nadie!
+´\0
+(9촀\0Solo tú puedes desenterrar el
+tesoro,
+\0 ¿entendido?
+\0 (촀\0Pues hala.
+\0
+¡Suerte!
+x"
+"012","(%촀\0Bueno,
+\0 te explico de qué va esto.
+Z\0\0\0()촀\0Es muy sencillo.
+\0 He enterrado un
+tesoro y tú tienes que encontrarlo.
+´\0\0\0(촀\0Si lo encuentras antes de que se
+acabe el tiempo,
+\0 ¡es todo tuyo!
+\0
+Para ti para siempre.
+´\0
+(6촀\0Buenon\0\0
+\0 ¿a qué esperas?
+\0
+¡Ya corre el tiempo!
+Z"
+"012_01","(%촀\0Bueno,
+\0 te explico de qué va eston\0\0
+Z\0\0\0()촀\0Es muy sencillo.
+\0 He enterrado un
+tesoro y tú tienes que encontrarlo.
+ \0\0\0(촀\0Si lo encuentras antes de que se
+acabe el tiempo,
+\0 ¡es todo tuyo!
+\0
+Para ti para siempre.
+´\0
+(9촀\0Eso sí,
+\0 tienes que encontrarlo tú
+sol2oa,
+\0 ¡nada de pedir ayuda!
+x\0\0\0(6촀\0Buenon\0\0
+\0 ¿a qué esperas?
+\0
+¡Ya corre el tiempo!
+x"
+"013","(9촀\0Ahn\0\0
+\0 ¿Te explico de nuevo
+las reglas?"
+"013_a","Sí, porfa"
+"013_b","No, gracias"
+"014","(촀\0Bueno,
+\0 ¡empecemos!
+<"
+"014_01","(9촀\0No hace falta decir que esto es entre
+tú y yo.
+\0 Nadie puede echarte una
+mano.
+\0 Ni una pata.
+\0 Ni nada.
+ \0
+(촀\0¿Estamos?
+\0 Bueno,
+\0 ¡empecemos!
+Z"
+"015","(%촀\0Vale,
+\0 ¡pero date prisa!
+\0
+(촀\0¡No hay mucho tiempo!
+<"
+"015_01","(9촀\0No hace falta decir que esto es
+entre tú y yo.
+\0 Nadie puede echarte
+una mano o una pata, ¿vale?
+´\0
+(촀\0Y ahora date prisa,
+\0 ¡que no tienes
+mucho tiempo!
+"
+"101","(촀\0Buenas,
+\0 jovencit2oa.
+\0 ¿No te interesaría
+encontrar unn\0\0
+\0 (촀\0tesoro?"
+"101_a","Claro que sí"
+"101_b","Me interesa poco..."
+"102","(5촀\0Me imagino que querrás conocer más
+detalles,
+\0 ¿no?
+\0 Bueno,
+\0 a ver cómo
+te lo explicon\0\0\0\0(1촀\0Estaba pensandon\0\0
+\0 Si fuese
+un pirata,
+\0 ¿dónde escondería
+mi tesoro?
+(9촀\0No me malinterpretes,
+\0 no estoy
+pensando en paraísos fiscales,
+\0
+que eso es para piratas modernos.
+Dicho lo cual,
+\0 (촀\0¿no quieres buscar
+tesoros ocultos?"
+"102_a","¡Venga!"
+"102_b","(\0촀\0Mejor otro día"
+"103","(촀\0Vaya,
+\0 lo sienton\0\0
+\0 Soy un pirata
+estrictamente diurno.
+\0 Ya buscaremos
+en otra ocasión."
+"104","(촀\0¡Bieeen!
+\0 Dame unos minutos para
+enterrar el tesoro y enseguida te
+puedes poner a buscar."
+"105","(촀\0No estás por la labor de buscar
+tesoros,
+\0 ¿eh?
+\0 Bueno, quizá en
+otra ocasión."
+"106","(촀\0Qué maln\0\0
+\0 Se nos ha ido el tiempo
+hablando de tesoros y ahora se ha
+hecho demasiado tarde para buscar.
+(촀\0Si eso ya buscamos otro día."
+"107","(촀\0¡Estupendo!
+\0 Ya tengo decidido
+el lugarn"
+"108","(%촀\0Me lo imaginaba.
+\0 Los piratas
+clásicos ya no interesan.
+\0 Bueno,
+\0
+quizá otro día,
+\0 ¿no?"
+"200","( 촀\0Vayan\0\0
+\0 (촀\0He estado buscando
+\0 y no
+encuentro ni un solo lugar apropiado
+para enterrar el tesoro.
+('촀\0Y así,
+\0 lógicamente,
+\0 no hay manera
+de buscarlo.
+\0 (9촀\0Lamento haber creado
+tanta expectativa, n\0."

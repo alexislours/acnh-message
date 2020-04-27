@@ -1,0 +1,365 @@
+﻿"label","text"
+"001","Dime, n\0n\0\0(&촂\0
+\0
+¿Dónde vives?(&촃\0d\0
+\0\0K ¿Ahora mismo?\0dd"
+"001_a","Japón"
+"001_b","En otro lugar..."
+"002","( 촂\0( 촃\0¡Oh! Ya veon\0\0
+\0(촀\0 Así que vives en otro
+lugar.\0\0(
+촂\0A ver si podemos ser más específicos...(
+촃"
+"002_a","Asia"
+"002_b","Norteamérica"
+"002_c","Europa"
+"002_d","En otro lugar..."
+"003","(촂\0(촃\0¡¿En otro lugar?!
+\0
+(%촂\0Bueno, sigamos intentando(%촃\0n"
+"003_a","Sudamérica"
+"003_b","Oceanía"
+"003_c","África"
+"003_d","Ahí tampoco"
+"004","(촂\0(촃\0Ya veo.
+\0 (&촂\0(&촃\0Entonces vives en
+una de estas regiones, ¿no?"
+"004_a","Japón/Asia"
+"004_b","Norteamérica"
+"004_c","Europa"
+"004_d","Ahí tampoco"
+"011","Dime, n\0n\0\0(&촂\0
+\0
+¿Dónde vives?(&촃\0d\0
+\0\0K ¿Ahora mismo?\0dd"
+"011_a","Norteamérica"
+"011_b","En otro lugar..."
+"012","( 촂\0( 촃\0¡Oh! Ya veon\0\0
+\0(촀\0 Así que vives en otro
+lugar.\0\0(
+촂\0A ver si podemos ser más específicos...(
+촃"
+"012_a","Asia"
+"012_b","Europa"
+"012_c","En otro lugar..."
+"013","(촂\0(촃\0¡¿En otro lugar?!
+\0
+(%촂\0Bueno, sigamos intentando(%촃\0n"
+"013_a","Sudamérica"
+"013_b","Oceanía"
+"013_c","África"
+"013_d","Ahí tampoco"
+"014","(촂\0(촃\0Ya veo.
+\0 (&촂\0(&촃\0Entonces vives en
+una de estas regiones, ¿no?"
+"014_a","Norteamérica"
+"014_b","Japón/Asia"
+"014_c","Europa"
+"014_d","Ahí tampoco"
+"021","Dime, n\0n\0\0(&촂\0
+\0
+¿Dónde vives?(&촃\0d\0
+\0\0K ¿Ahora mismo?\0dd"
+"021_a","Europa"
+"021_b","En otro lugar..."
+"022","( 촂\0( 촃\0¡Oh! Ya veon\0\0
+\0(촀\0 Así que vives en otro
+lugar.\0\0(
+촂\0A ver si podemos ser más específicos...(
+촃"
+"022_a","Asia"
+"022_b","Norteamérica"
+"022_c","En otro lugar..."
+"023","(촂\0(촃\0¡¿En otro lugar?!
+\0
+(%촂\0Bueno, sigamos intentando(%촃\0n"
+"023_a","Sudamérica"
+"023_b","Oceanía"
+"023_c","África"
+"023_d","Ahí tampoco"
+"024","(촂\0(촃\0Ya veo.
+\0 (&촂\0(&촃\0Entonces vives en
+una de estas regiones, ¿no?"
+"024_a","Europa"
+"024_b","Japón/Asia"
+"024_c","Norteamérica"
+"024_d","Ahí tampoco"
+"031","Dime, n\0n\0\0(&촂\0
+\0
+¿Dónde vives?(&촃\0d\0
+\0\0K ¿Ahora mismo?\0dd"
+"031_a","Oceanía"
+"031_b","En otro lugar..."
+"101_01","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_02","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_03","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_04","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_05","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_06","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"101_07","(%촂\0Excelente.(%촃\0 
+\0(촂\0(촃\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"102","(%촀\0Excelente. 
+\0(촀\0Esta información nos
+ayudará a encontrar la isla ideal
+para ti."
+"111","()촀\0Naturalmente, te vamos a
+recomendar que te mudes a
+una isla del \0hemisferio norte\0￿.
+(
+촀\0Todavía quedan algunas cosas por
+decidir, pero 
+\0(&촂\0¿te parece bien nuestra
+sugerencia por ahora?(&촃\0d\0
+\0 \0K¿Te parece bien?\0dd"
+"111_a","¡Sí!"
+"111_b","¡Quiero el hemisferio sur!"
+"111_c","¿Cuál es la diferencia?"
+"112","()촀\0Naturalmente, te vamos a
+recomendar que te mudes a
+una isla del \0hemisferio norte\0￿.
+(
+촀\0Todavía quedan algunas cosas por
+decidir, pero 
+\0(&촂\0¿te parece bien nuestra
+sugerencia por ahora?(&촃\0d\0
+\0 \0K¿Te parece bien?\0dd"
+"112_a","¡Sí!"
+"112_b","¡Quiero el hemisferio sur!"
+"112_c","¿Cuál es la diferencia?"
+"113","()촀\0Naturalmente, te vamos a
+recomendar que te mudes a
+una isla del \0hemisferio norte\0￿.
+(
+촀\0Todavía quedan algunas cosas por
+decidir, pero 
+\0(&촂\0¿te parece bien nuestra
+sugerencia por ahora?(&촃\0d\0
+\0 \0K¿Te parece bien?\0dd"
+"113_a","¡Sí!"
+"113_b","¡Quiero el hemisferio sur!"
+"113_c","¿Cuál es la diferencia?"
+"114","()촀\0Naturalmente, te vamos a
+recomendar que te mudes a
+una isla del \0hemisferio norte\0￿.
+(
+촀\0Todavía quedan algunas cosas por
+decidir, pero 
+\0(&촂\0¿te parece bien nuestra
+sugerencia por ahora?(&촃\0d\0
+\0\0K ¿Te parece bien?\0dd"
+"114_a","¡Sí!"
+"114_b","¡Quiero el hemisferio sur!"
+"114_c","¿Cuál es la diferencia?"
+"115","(
+촂\0(
+촃\0Ah, sí, Sudamérica es un territorio
+tan grande que hay zonas en ambos
+hemisferios.
+()촀\0Pero, dado que la mayor parte está
+en el hemisferio sur, creemos que
+preferirás una isla de allí.
+(&촂\0¿Te parece bien mudarte a una
+isla del \0hemisferio sur\0￿?(&촃"
+"115_a","¡Sí!"
+"115_b","¡Quiero el hemisferio norte!"
+"115_c","¿Cuál es la diferencia?"
+"116","()촀\0Naturalmente, te vamos a
+recomendar que te mudes a
+una isla del \0hemisferio sur\0￿.
+(
+촀\0Todavía quedan algunas cosas por
+decidir, pero 
+\0(&촂\0¿te parece bien nuestra
+sugerencia por ahora?(&촃\0d\0
+\0 \0K¿Te parece bien?\0dd"
+"116_a","¡Sí!"
+"116_b","¡Quiero el hemisferio norte!"
+"116_c","¿Cuál es la diferencia?"
+"117","(
+촀\0Ah, sí, África es un territorio tan
+grande que hay zonas en ambos
+hemisferios.
+()촀\0Si vives en el hemisferio norte,
+te aconsejamos que elijas una
+isla de allí.
+(%촀\0Si por el contrario,
+\0 vives en el sur,
+una isla en ese hemisferio sería
+la mejor elección.
+(&촂\0¿Qué hemisferio eliges?(&촃"
+"117_a","¡Quiero el hemisferio norte!"
+"117_b","¡Quiero el hemisferio sur!"
+"117_c","¿Cuál es la diferencia?"
+"201","(""촂\0(촃\0¡Muy bien! 
+\0(촂\0Tenemos algunas islas
+deshabitadas en el hemisferio norte
+que puedes elegir."
+"202","(""촂\0(촃\0¡Muy bien! 
+\0(촂\0Tenemos algunas islas
+deshabitadas en el hemisferio sur
+que puedes elegir."
+"203","(촂\0(촃\0¿Así que prefieres vivir en el otro
+hemisferio?
+\0 (6촀\0¡Suena divertido!\0\0(%촀\0Veamos cuál sería la mejor isla
+deshabitada en el hemisferio
+norte (%촀\0para ti."
+"204","(촂\0(촃\0¿Así que prefieres vivir en el otro
+hemisferio?
+\0 (6촀\0¡Suena divertido!\0\0(%촀\0Veamos cuál sería la mejor isla
+deshabitada en el hemisferio
+sur (%촀\0para ti."
+"301","¡Por supuesto!
+\0 Permíteme
+que te lo expliquen"
+"302","()촀\0En el hemisferio norte, invierno
+es en enero, primavera en abril,
+verano en julio y otoño en octubre.
+(%촀\0En las islas del hemisferio sur
+es justo al revés.\0\0(촀\0Verano es en enero, otoño en abril,
+invierno en julio y primavera en
+octubre."
+"303","()촀\0En el hemisferio sur, verano es
+en enero, otoño en abril, invierno
+en julio y primavera en octubre.
+(%촀\0En las islas del hemisferio norte
+es justo al revés.\0\0(촀\0Invierno es en enero, primavera
+en abril, verano en julio y otoño
+en octubre."
+"304_01","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio norte
+es primavera y en el sur, otoño."
+"304_02","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio norte
+es verano y en el sur, invierno."
+"304_03","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio norte
+es otoño y en el sur, primavera."
+"304_04","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio norte
+es invierno y en el sur, verano."
+"304_05","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio sur
+es primavera y en el norte, otoño."
+"304_06","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio sur
+es verano y en el norte, invierno."
+"304_07","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio sur
+es otoño y en el norte, primavera."
+"304_08","(%촀\0Ahora estamos en Z\0,
+por lo tanto en el hemisferio sur
+es invierno y en el norte, verano."
+"305","()촀\0En resumen,
+\0 las estaciones en cada
+hemisferio siempre son las opuestas.\0\0(촀\0Pero, vivas donde vivas, 
+\0podrás
+disfrutar de las cuatro estaciones
+con normalidad."
+"311","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio norte\0￿, en donde ahora
+es primavera?
+¿O prefieres una isla del \0hemisferio
+sur\0￿, en donde ahora es otoño?d\0
+\0
+\0KEs otoño.\0dd"
+"311_a","¡Quiero el hemisferio norte!"
+"311_b","¡Quiero el hemisferio sur!"
+"311_c","Explícame de nuevo..."
+"312","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio norte\0￿, en donde ahora
+es verano?
+¿O prefieres una isla del \0hemisferio
+sur\0￿, en donde ahora es invierno?d\0
+\0
+\0KEs invierno.\0dd"
+"312_a","¡Quiero el hemisferio norte!"
+"312_b","¡Quiero el hemisferio sur!"
+"312_c","Explícame de nuevo..."
+"313","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio norte\0￿, en donde ahora
+es otoño?
+¿O prefieres una isla del \0hemisferio
+sur\0￿, en donde ahora es primavera?d\0
+\0
+\0KEs primavera.\0dd"
+"313_a","¡Quiero el hemisferio norte!"
+"313_b","¡Quiero el hemisferio sur!"
+"313_c","Explícame de nuevo..."
+"314","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio norte\0￿, en donde ahora
+es invierno?
+¿O prefieres una isla del \0hemisferio
+sur\0￿, en donde ahora es verano?d\0
+\0
+\0KEs verano.\0dd"
+"314_a","¡Quiero el hemisferio norte!"
+"314_b","¡Quiero el hemisferio sur!"
+"314_c","Explícame de nuevo..."
+"315","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio sur\0￿, en donde ahora
+es primavera?
+¿O prefieres una isla del \0hemisferio
+norte\0￿, en donde ahora es otoño?d\0
+\0
+\0KEs otoño.\0dd"
+"315_a","¡Quiero el hemisferio sur!"
+"315_b","¡Quiero el hemisferio norte!"
+"315_c","Explícame de nuevo..."
+"316","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio sur\0￿, en donde ahora
+es verano?
+¿O prefieres una isla del \0hemisferio
+norte\0￿, en donde ahora es invierno?d\0
+\0
+\0KEs invierno.\0dd"
+"316_a","¡Quiero el hemisferio sur!"
+"316_b","¡Quiero el hemisferio norte!"
+"316_c","Explícame de nuevo..."
+"317","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio sur\0￿, en donde ahora
+es otoño?
+¿O prefieres una isla del \0hemisferio
+norte\0￿, en donde ahora es primavera?d\0
+\0
+\0KEs primavera.\0dd"
+"317_a","¡Quiero el hemisferio sur!"
+"317_b","¡Quiero el hemisferio norte!"
+"317_c","Explícame de nuevo..."
+"318","(촀\0Si esto ya quedó claro,
+te volveré a preguntar.\0\0(&촀\0¿Quieres mudarte a una isla del
+\0hemisferio sur\0￿, en donde ahora
+es invierno?
+¿O prefieres una isla del \0hemisferio
+norte\0￿, en donde ahora es verano?d\0
+\0
+\0KEs verano.\0dd"
+"318_a","¡Quiero el hemisferio sur!"
+"318_b","¡Quiero el hemisferio norte!"
+"318_c","Explícame de nuevo..."

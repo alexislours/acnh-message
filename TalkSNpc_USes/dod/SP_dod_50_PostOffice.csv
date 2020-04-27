@@ -1,0 +1,187 @@
+﻿"label","text"
+"050","(촀\0Oh, ¿quieres enviar una tarjeta?\0\0(7촀\0Ehn\0\0
+\0 Por supuesto, peron\0\0
+\0 te aviso
+que lo mío no es supervisar varias
+cosas a la vez.
+(&촀\0¿Te importa que cierre las puertas
+mientras me encargo del envío?"
+"050_a","¡Adelante!"
+"050_b","No, déjalas abiertas"
+"051","(촀\0Gracias por tu comprensión.
+\0
+¡Muy bien, cerraré las puertas!"
+"052","(촀\0¡Ya podemos proceder!"
+"070","(&촀\0¿Enviamos una tarjeta entonces?"
+"070_a","¡Sí, por favor!"
+"070_b","Ahora no..."
+"080","(촀\0Bien, si quieres enviar una tarjeta,
+\0
+empieza por indicar a quién,
+si eres tan amable.(\0촀"
+"080_a","A alguien de la isla"
+"080_b","A mi futur2oa yo"
+"080_c","Mejor no..."
+"200","(%촀\0¡Recibido!
+\0 (&촀\0¿A qué residente de
+la isla quieres hacer el envío?"
+"210_01","¿Es para s\0촀? ¡Bien!"
+"210_02","(촀\0¿Para s촀? ¡Entendido!"
+"210_03","Bien,
+\0 (촀\0¡2ala la n\0 del futuro!"
+"220_01","(%촀\0Tú elige una tarjeta y escribe
+un mensaje en ella.(촀"
+"220_02","Todo listo. 
+\0¡Aquí tienes tu tarjeta!"
+"290","(촀\0Perdón,
+\0 pero se me acumulan
+las tarjetas y no doy abasto,
+\0
+así que no puedo aceptar más.
+(촀\0Lamento importunarte, pero ¿te
+importaría volver más tarde y así
+pongo un poco de orden aquí?"
+"320","( 촀\0Mis registros indican que hoy
+ya le enviaste dos tarjetas a s\0촀.\0\0(\0촀\0Me temo que este día ya no puedes
+enviar ni una más, pero regresa
+mañana.
+\0 (촀\0Disculpa las molestias."
+"400",""
+"401","(촀\0Entonces, ¿a qué fecha del futuro
+enviamos la tarjeta?"
+"402","¿Quieres que la entreguemos
+el \0Z$촀 de Z#촀 del Z""촀\0￿?"
+"402_a","¡Sí!"
+"402_b","No, espera..."
+"410","¿Me equivoqué? Disculpa.
+Indica la fecha que deseas."
+"415","(%촀\0¡Recibido!
+\0 Peron\0\0
+\0 ¡un momento!
+\0
+¡Si ya tienes una tarjeta preparada
+para 2(el futurola futura n\0!
+()촀\0Si quieres enviar otra tarjeta al
+futuro,
+\0 tenemos que descartar
+esa primero."
+"416","(촀\0Quería devolverte el regalo antes
+de descartar la tarjeta,
+\0 (촀\0pero no
+tienes espacio en los bolsillos.
+(7촀\0¿Podrías avisarme cuando hayas
+liberado un poco de espacio?(\0촀"
+"420","(%촀\0Bueno, pues ya reciclé la tarjeta.
+\0
+(촀\0¿Ya sabes lo que vas a poner
+en la nueva?"
+"420_01","(%촀\0Entonces descartamos la tarjeta que
+ibas a enviar a tu 2futurofutura yo.\0\0(촀\0Ahora puedes modificar esta tarjeta
+para mandártela a ti 2
+mismo
+misma, en el
+futuro."
+"421","(\0촀\0Bien.
+\0(%촀\0 La tarjeta lleva también
+un regalo,
+\0 así que te lo devolveré
+antes de tirarla.(\0촀\0
+(촀\0Ahora elige otra."
+"421_01","(\0촀\0Bien.
+\0(%촀\0 La tarjeta lleva también
+un regalo,
+\0 así que te lo devolveré
+antes de tirarla.(\0촀\0
+(촀\0Ahora puedes modificar esta tarjeta para mandártela a ti 2
+mismo
+misma, en el
+futuro."
+"500","Bien,(촀\0 entonces del envío tendrás
+que pagar la módica cantidad
+de \0200 bayas\0￿."
+"501","(촀\0¡Listo! 
+\0Enviaremos la tarjeta lo más
+pronto posible.
+\0 ¡Gracias por confiar
+en Dodo Airlines!"
+"502","(촀\0¡Listo!
+\0 Yo mismo me encargaré
+de enviar la tarjeta el día que
+indicaste."
+"510","Ehhhn\0\0 Lamento informarte que no te
+alcanzan las bayas. ¡Regresa cuando
+tengas \0200\0￿!
+(촀\0Mientras tanto,
+\0 yo te guardo la
+tarjeta.
+\0(촀\0 ¡Te prometo que no la voy
+a leer!"
+"520","(촀\0¿Ya no vas a mandar nada?
+\0 Bueno,(%촀\0
+te guardo la tarjeta como está por si
+quieres continuar en otro momento."
+"521","(촀\0¿Quieres dejarlo por ahora? 
+\0(촀\0Bueno,
+pues guardo lo que has hecho por si
+quieres seguir en otro momento."
+"522","(촀\0Ah, ¿ya no te motiva esa tarjeta?
+\0
+(촀\0¡Recibido!
+\0 Avísame si necesitas
+algo más."
+"523","(&촀\0¿Quieres dejarlo por el momento?
+\0
+(촀\0¡Ningún problema!
+\0 Avísame cuando
+quieras continuar."
+"550","($촀\0Ah, aquí tienes lo que ibas a mandar
+de regalo con la tarjeta."
+"551","(촀\0¡Uy!
+\0 Tenemos un pequeño
+probleman\0\0(\0촀\0\0\0(2촀\0No tengo más espacio en
+la tienda para guardar regalos;
+\0 debo
+devolverte esto."
+"552","(촀\0¡Avísame si necesitas algo!"
+"600","(촀\0¿Quieres escribir una tarjeta?\0\0(%촀\0Pues tengo aquí guardada la que habías dejado a medio escribir para s\0촀."
+"601","(촀\0¿Quieres escribir una tarjeta?\0\0(%촀\0Pues tengo aquí guardada la que habías dejado a medio escribir para s촀."
+"602","(촀\0¿Quieres escribir una tarjeta?\0\0(%촀\0Pues tengo aquí guardada la que
+habías dejado a medio escribir para
+tu 2futurofutura yo."
+"604","Bueno, 
+\0retomemos lo de la tarjeta.
+\0
+(\0촀\0Aquí está la que tenías a medias."
+"610","(촀\0Lo siento,
+\0 pero ya no podemos
+enviarle nada a s\0촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
+\0
+¿O prefieres que descartemos
+la tarjeta?"
+"610_a","Cambio el destinatario"
+"610_b","Tírala, porfa"
+"611","(촀\0Lo siento, pero ya no podemos
+enviarle nada a s촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
+\0
+¿O prefieres descartar la tarjeta?"
+"611_a","Cambio el destinatario"
+"611_b","Tírala, porfa"
+"620","¿A quién quieres enviarle la tarjeta?"
+"620_a","A alguien de la isla"
+"620_b","A mi futur2oa yo"
+"630","(%촀\0Bien; pues se va al reciclaje.
+¡Aquí se recicla todo!"
+"800","(촀\0¡Gracias por confiar en Dodo Airlines!"
+"801","(%촀\0Recibido. 
+\0Tú avísame cuando
+necesites enviar algo."
+"802","(&촀\0Ah, ¿no necesitas nada?
+\0 ¡Entendido!
+(촀\0¡Avísame si cambias de idea!"
+"803","(촀\0¡Entendido!
+\0 Custodiaré la tarjeta
+hasta el día de la entrega."
+"804","(촀\0¡Recibido!\0\0Dejaré las puertas abiertas,
+\0 pero
+avísame si necesitas más servicios
+postales."

@@ -1,0 +1,398 @@
+﻿"label","text"
+"001","(""촀\0Re-bonjour ! 
+\0J'espère que vous avez
+tous trouvé un bon emplacement
+où monter votre tente.
+(촀\0Vous verrez, vous vous sentirez
+bientôt comme chez vous dans
+votre nouveau foyer !"
+"002","(9촀\0Nous pouvons maintenant passer
+aux choses sérieuses, oui, oui.\0\0(촀\0À savoir une grande fête sur la place
+pour pendre dignement la crémaillère
+insulaire autour d'un feu de camp !"
+"003","(
+촀\0Mais il va d'abord falloir rassembler
+un peu de matériel, hm ?"
+"004","(촀\0Et puisque nous vivrons ensemble
+sur cette île, 
+\0(촀\0profitons de l'occasion
+pour apprendre à travailler ensemble."
+"005","(
+촀\0Voyonsn\0\0\0\0\0(%촀\0Méli\0￿, s촀, \0Mélo\0￿ et s촁 s'occuperont des préparatifs sur la place."
+"006","(촀\0Tandis 2
+que qu'⁠n\0 et moi irons chercher des tas de bûches ainsi que de menues victuailles !"
+"007","(\0촀\0Allez,
+\0 chacun sait ce qu'il a à faire,
+\0
+alors au travail !\0\02\0n\0, peux-tu venir me voir un instant,
+\0 hm ?"
+"011","(촀\0Bien, bien, bien, n\0.
+\0 Je voulais juste récapituler ce qu'il nous fallait pour le feu de camp.
+(
+촀\0Je pense qu'une \0dizaine\0￿ de \0branches
+d'arbre\0￿ devraient faire l'affaire.
+\0 Tu en
+trouveras un peu partout sur l'île.
+(%촀\0Quand tu en vois une qui traîne sur
+le sol, appuie simplement sur \0
+\0￿pour la ramasser !
+(촀\0De mon côté, je vais examiner un peu
+ces simili-n촁n\0\0 (6촀\0je ne serais qu'à
+moitié surpris si c'en était de vrai2촀\0e\0s !"
+"012","<"
+"012_01","(&촀\0Tu as peur de ne pas identifier les
+bonnes \0branches\0￿ ?
+\0(촀\0 Crois-moi, tu les
+reconnaîtras en les voyant, oui, oui !
+(촀\0Dans le doute, tu n'as qu'à ramasser
+tous les objets qui font réagir ton
+radar intérieur à \0branches d'arbre\0￿ !"
+"012_02","(촀\0Tu veux que je te rafraîchisse la
+mémoire ?
+\0 Pour ramasser un objet
+sur le sol, il suffit d'appuyer sur \0\0￿.
+()촀\0Il t'arrivera peut-être d'arracher une
+ou deux touffes de mauvaises herbes
+en ramassant du boisn\0\0
+(!촀\0Et on ne pourra que s'en réjouir !
+\0
+On ne travaille jamais trop quand il
+s'agit d'embellir notre chère île !"
+"012_03","(&촀\0Tu ne trouves pas assez de \0branches
+d'arbre\0￿ sur le sol ?
+\0 Je te rappelle
+qu'il nous en faut \010\0￿ !\0\0(촀\0Tu as essayé de secouer un ou
+deux arbres, hm ?\0\0(%촀\0Il te suffit de t'approcher d'un arbre
+sans fruit et d'appuyer sur \0 \0￿pour
+lui bousculer un peu l'écorce.
+(촀\0Essaie et n'hésite pas à insister !
+\0
+Quelque chose finira bien par
+tomber !"
+"012_04","(%촀\0Si tu ne sais plus combien tu as de
+branches, appuie simplement sur \0\0￿
+pour voir le contenu de tes \0poches\0￿ !"
+"013","(촀\0Ah, content de te revoir.
+\0 Ta quête
+de \0branches d'arbre\0￿ a-t-elle été
+couronnée de succès,
+\0 hm ?
+(%촀\0Tu m'en vois ravi,
+\0 oui, oui !
+\0
+Mais je t'en prie,
+\0 laisse-moi te
+soulager de ton fardeau."
+"013_01","Bien bien bien, n\0 ! 
+\0(촀\0Tu as récupéré toutes les \0branches d'arbre\0￿n\0\0 (촀\0Hm ?\0\0(촀\0Oh, mais tu en as même plus qu'il
+n'en faut ! 
+\0Je n'en prendrai que \010\0￿,
+n'abusons pas des bonnes choses.
+(\0촀\0Mais laisse-moi te débarrasser !"
+"014","(촀\0Voilà qui devrait largement suffire
+pour notre feu de camp.
+\0 Tu n'as pas
+traîné, non, non !
+(촀\0J'ai de la chance de partager cette
+île désolée avec un2\0e travailleu2
+rse
+aussi acharné2\0e, oho !"
+"015","(촀\0À propos de survie sur une île
+désolée, passons à notre mission
+suivante :
+\0 trouver des vivres.
+(%촀\0Pendant que tu rassemblais les
+branches, j'ai étudié ces fruits qui
+semblent pousser en abondance ici.
+(
+촀\0Ils ressemblent à des \0n촁\0￿,
+ont une odeur 2
+de d'⁠\0n촁\0￿ et ont
+même le goût 2
+de d'⁠\0n촁\0￿.
+(%촀\0J'en conclus qu'il s'agit à 100 %,
+et sans l'ombre d'un doute,
+d'authentiques \0n촁\0￿.
+(&촀\0Cela t'ennuierait-il d'en cueillir
+\0six\0￿ pour moi, hm ?"
+"016","(촀\0Je suis sûr que tu t'en sortiras très
+bien, mais je vais quand même me
+permettre une brève explicationn\0\0
+()촀\0D'abord, repère un arbre sur lequel
+poussent des \0n촁\0￿, puis appuie
+sur \0\0￿ pour le secouer.
+(""촀\0Plus qu'à te baisser pour récupérer
+ta récolte !
+\0 Tu en cueilleras des
+tonnes en un rien de temps."
+"017","(&촀\0Oh, que vois-je ?
+\0 Tu as déjà cueilli
+assez 2
+de d'⁠\0n촁\0￿ pour tout le
+monde,
+\0 hm ?
+(촀\0Bien, bien, bien !
+\0 Je savais que tu
+étais l2ea cueilleu2
+rse de la situation.
+\0
+Merci encore !
+(촀\0Viens, laisse-moi te débarrasser de
+ces fruits juteux, et commençons
+à les préparer !"
+"021","<"
+"021_01","(촀\0Ces n촁 sont un véritable
+délice.
+\0 Quelle chance qu'2촀ils
+elles\0
+poussent en abondance par ici !"
+"021_02","(촀\0Tu te débrouilles très bien, mais
+pourrais-tu en cueillir \0six\0￿ pour qu'il
+y en ait assez pour tout le monde ?"
+"021_03","(촀\0Besoin d'un conseil, hm ?
+\0 Je ne suis
+pas expert ès \0n촁\0￿, mais je peux
+essayer de t'aider.
+Tu peux secouer les arbres pour les
+faire tomber en appuyant sur \0\0￿, puis
+il ne reste qu'à les ramasser avec \0\0￿."
+"031","(촀\0Bien, bien, bien !
+\0 Je savais que tu
+étais l2ea cueilleu2
+rse de la situation,
+\0
+(%촀\0merci encore !
+(촀\0Viens, laisse-moi te débarrasser
+de ces \0n촁\0￿, et commençons
+à les préparer !"
+"032","(
+촀\0Alors, voyonsn\0\0 (촀\0le compte y est,
+\0
+oui, oui !\0\0(촀\0Que la fête commence !"
+"041_01","(""촀\0Je peux enfin vous souhaiter
+convenablement la bienvenue
+sur votre nouvelle île !
+(5촀\0J'ai participé à bien des aventures
+au cours des années, mais celle-ci
+est la plus galvanisante.
+(4촀\0Contribuer au développement
+d'une toute nouvelle communauté
+représente un défi exaltant,
+\0 oui, oui.
+(촀\0Un défi pour l'homme d'affaires
+\0 et
+également pour l'aventurier,
+\0 oho !"
+"041_02","(촀\0Bon, nous n'atteignons pas les
+chiffres que j'escomptaisn\0\0\0\0(촀\0Mais qu'à cela ne tienne !
+\0 Le défi
+n'en est que plus électrisant !\0\0(5촀\0Et je ne doute pas un seul instant
+qu'à force de persévérance et de
+travail, cette île déserte van\0\0(촀\0
+\0
+\0(
+"
+"041_03","(촀\0Mais peut-on encore parler d'île
+déserte, hm ?
+\0(&촀\0 Alors comment
+conviendrait-il de l'appelern"
+"041_04","(%촀\0Ne manquons pas cette opportunité !
+\0
+(5촀\0En tant que premiers habitants de
+l'île, c'est à nous de la baptiser.
+(촀\0Et dans un esprit démocratique,
+je propose d'organiser un vote.
+\0
+(촀\0Laissons décider la majorité !
+(촀\0Alors creusez-vous les méninges,
+et lorsque tout le monde sera prêt,
+nous échangerons nos idées."
+"042_01","Bien !
+\0 (&촀\0Tout le monde est prêt ?"
+"042_02","(촀\0Et si tout le monde énonçait
+son idée en même temps ?"
+"042_03","
+\0  	  Prêtsn\0\0 C'est parti !"
+"043_01","(!촀\0Quelles charmantes idées,
+\0 oui,
+\0 oui !
+\0
+(%촀\0Toutes plus séduisantes les unes
+que les autres."
+"043_02","(\0촀\0Bien, passons au vote.\0\0Je vais énumérer les propositions,
+\0
+(촀\0et vous applaudirez quand viendra
+le tour de votre préférée."
+"043_03","(1촀\02\0n\0 m'a l'air d'avoir mûrement réfléchi son idée. Commençons par là.(\0촀"
+"043_04","(1촀\0Donc, n\0 proposen"
+"043_05","(촀\02\0n	\0 !"
+"043_06","(촀\0Oh !
+\0 Regardez-moi ce triomphe !
+\0
+(촀\0Tout le monde applaudit des deux
+pattes."
+"043_07","(
+촀\0Eh bien, puisque tout le monde est
+d'accordn\0\0(촀\0 restons-en simplement
+à n	\0 !"
+"044_01","Formidable !"
+"044_02","OK !"
+"044_03","Ça déchire !"
+"044_04","C'est trop fort !"
+"045","(촀\0Parfait !
+\0 Désormais, cette île portera
+donc le nom 2
+de d'⁠n	\0.(촀"
+"045_01","Sounds good!
+\0 Then, as of today,
+this island will be known as
+n""\0!"
+"045_01_02","촆Dis-moi, n\0n\0\0\0\0(%촀\0Puisque tu as prouvé ta valeur en
+trouvant le nom parfait pour n	\0n\0\0\0\0(촀\0... j'aimerais compter sur toi pour
+prendre certaines décisions
+importantes sur cette île.\0\0(촀\0Oui, oui, n\0,
+j'ai l'honneur de te nommer délégué2\0e insulaire 2
+de d'⁠n	\0 !"
+"045_02","2\0n\0, en tant que nouve2aulle porte-parole de tes voisins,(&촀\0 voudrais-tu dire un mot ou deux ?"
+"045_02_a","Salut à tous !"
+"045_02_b","Un mot ou deux !"
+"045_02_c","Comptez sur moi !"
+"045_04_01","(
+촀\0Hm, bonn\0\0
+\0(%촀\0 on a donné un nom à
+notre île, et aussi à notre délégué2\0e
+insulaire.
+(\0촀\0On a accompli pas mal de choses,
+aujourd'hui, mais il se fait tard.(촀\0
+Il est l'heure de porter un toast !"
+"045_04_02","(&촀\0Tout le monde a quelque chose à boire ?\0\0(촀\0Dégustez ce délicieux jus 2
+de d'⁠n촀
+produit avec des fruits fraîchement
+cueillis par notre délégué2\0e insulaire !"
+"045_04_03","(3촀\0Mais foin de longs discoursn\0\0
+(!촀\0À n	\0 et au bonheur de ses résidents !"
+"045_05","
+\0(촀\0                    \0Santé !\0d
+"
+"046","Out of curiosity, n\0...\0\0is it 
+\0n	\0-shima,
+\0
+n	\0-jima, or
+\0
+n	\0-tou?"
+"046_a","n	\0-shima."
+"046_b","n	\0-jima."
+"046_c","n	\0-tou."
+"047","Out of curiosity, n\0,
+\0
+is it 
+\0(&촀\0n	\0-seom
+\0 or
+n	\0-do?"
+"047_a","섬"
+"047_b","도"
+"051","(촀\0Ah, n\0. 
+\0Tout va bien pour toi, hm ?\0\0(%촀\0Je sais que tu as beaucoup à faire,
+alors si tu as les paupières qui font
+du yo-yo, va te coucher !
+(촀\0On s'occupera du feu, sois
+tranquille."
+"051_01","(촀\0Ah, n\0. 
+\0Tout va bien pour toi, hm ?\0\0(%촀\0Je sais que tu as beaucoup à faire,
+alors si tu as les paupières qui font
+du yo-yo, va faire une sieste !
+(촀\0On s'occupera du feu, sois
+tranquille."
+"051_01_a","Ouais, j'ai sommeil."
+"051_01_b","Je déborde d'énergie !"
+"051_a","Ouais, j'ai sommeil."
+"051_b","Je déborde d'énergie !"
+"052","(촀\0Très bien !
+\0 Mais d'abord, tu vas
+avoir besoin de çan"
+"053","(촀\0C'est ton \0lit de camping\0￿ personnel !
+\0
+(%촀\0Il suffit de le déplier dans ta tente
+et c'est parti pour le dodo !
+($촀\0Tu trouveras aussi quelques paquets
+dans ladite tente, hm ?
+\0 Des bricoles
+qui pourraient t'être utiles.
+()촀\0Pour les ouvrir et utiliser les objets
+qu'ils contiennent, il te faudra
+appuyer sur \0\0￿.
+\0 Ensuiten\0\0\0\0(%촀\0Quand tu seras décidé2\0e à rejoindre
+les pattes de Morphée, glisse-toi
+dans le lit à l'aide de \0\0￿."
+"054","(촀\0Demain sera à nouveau une longue
+journée, alors tâche de bien te
+reposer cette nuit.
+(촀\0Je n'ai plus rien à dire aujourd'hui,
+non, non. 
+\0(""촀\0À part, bien sûr :
+\0 fais de
+beaux rêves, n\0 !"
+"055_01","(촀\0Ah, n\0. 
+\0Tout va bien pour toi, hm ?\0\0(%촀\0Je sais que tu as beaucoup à faire,
+alors si tu as les paupières qui font
+du yo-yo, va te coucher !
+(촀\0On s'occupera du feu, sois
+tranquille."
+"055_02","(촀\0Ah, n\0. 
+\0Tout va bien pour toi, hm ?\0\0(%촀\0Je sais que tu as beaucoup à faire,
+alors si tu as les paupières qui font
+du yo-yo, va faire une sieste !
+(촀\0On s'occupera du feu, sois
+tranquille."
+"056","(\0촀\0Tu sais, il faut que je te donne
+quelque chose avant que tu ne
+retournes sous ta tente.
+Alors quand tu iras te coucher,
+vérifie que tu as \0de la place dans
+tes poches\0￿ et viens me parler.
+()촀\0Si elles sont pleines, tu peux déposer
+quelque chose par terre. 
+\0(촀\0Personne
+ne te le chipera, promis !"
+"057","<"
+"057_01","(촀\0Oui, oui.
+\0 Je m'en doutais.
+\0
+Amuse-toi bien, alors !"
+"057_02","(촀\0C'est ce que je constate.
+\0
+Tu ne ménages tes efforts ni pour
+travailler ni pour t'amuser !"
+"058","(%촀\0Passe me voir avant de te coucher,
+s'il te plaît. 
+\0J'ai quelque chose pour
+toi !"
+"061","<"
+"061_01","(촀\0J'espère que le matériel de camping
+dans ta tente te plaira. 
+\0N'oublie pas :
+\0
+tu peux ouvrir les paquets avec \0\0￿ !"
+"061_02","(촀\0Si tu veux utiliser du matériel ou te
+servir d'un meuble, tiens-toi devant
+et appuie sur \0\0￿. 
+\0(촀\0Facile, hm ?"
+"061_03","(%촀\0Quand tu as fini ta journée et que tu
+souhaites t'endormir, utilise \0\0￿ pour
+te glisser dans le lit."
+"111_00","(촀\0Un instant ! 
+\0(촀\0Puis-je te suggérer de
+récupérer d'abord ta tente auprès
+de \0Méli\0￿ ou de \0Mélo\0￿ ?"
+"111_10","(촀\0Un instant ! 
+\0(촀\0Pour être sûrs de partir
+de la bonne patte, tu permets que je
+te dise quelques mots ?"
+"111_20","(촀\0Un instant ! 
+\0(촀\0Tu veux bien participer
+à une petite séance d'intégration
+d'abord, hm ?"
+"111_21","(촀\0Ah, c'est le panneau d'affichage de
+notre île.
+\0 Il n'y a pas grand-chose à
+y lire pour le moment, non, non !"

@@ -1,0 +1,47 @@
+﻿"label","text"
+"001","It's the store's drop box.
+\0
+Should I sell something?"
+"001_a","Yeah, let's sell!"
+"001_b","How does this work?"
+"001_c","Nah, not now."
+"002","Should I sell more stuff through the
+drop-off box?"
+"002_a","Yeah, let's sell!"
+"002_b","How does this work?"
+"002_c","Nah, not now."
+"003","OKn\0\0 So, should I sell something?"
+"003_a","Yeah, let's sell!"
+"003_b","Let's see that again."
+"003_c","Some other time."
+"004","Hm, I think I'd get \0Z\0\0￿.
+\0
+Am I OK with that?"
+"004_a","(\0촀\0Sold!"
+"004_b","(\0촀\0Actually, I'll pass."
+"010","It says it's a ""drop box.""
+\0 I guess I can
+just drop off anything I want to sell."
+"010_a","Sell something."
+"010_b","How does this work?"
+"010_c","Nah, not now."
+"020","(
+촀\0Looks like I can't use this if my
+Bank of Nook account is maxed out."
+"021","(
+촀\0Looks like I can't sell anything else
+this way at the moment."
+"101","\0How to use the drop-off box\0￿\0\0Drop off items to sell at any time!
+Just place your items inside the box.\0\0Payment will be deposited into your
+Bank of Nook account \0the next day\0￿.\0\0\0\01. Items are bought at 80% of their
+shop trade-in value due to handling
+fees.\0\02. We cannot return any items placed
+inside the drop-off box.\0\03. We can only trade turnips and give
+full price for hot items inside the
+store.\0￿"
+"901","It's the drop box for the shop.
+\0 Only
+folks from this island can use it."
+"902","It's some kind of drop-off box. Looks
+like only residents of this island can
+use it."

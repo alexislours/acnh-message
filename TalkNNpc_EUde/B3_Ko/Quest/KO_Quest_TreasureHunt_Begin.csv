@@ -1,0 +1,240 @@
+﻿"label","text"
+"001","(4촀\0Das klingt jetzt sicher seltsam,
+aber...(&촀\0 Willst du mit mir auf
+Schatzsuche gehen?"
+"001_a","Klingt fetzig!"
+"001_b","Och nö..."
+"002","(%촀\0Mein Gehirn hat gerade eine
+schnieke Idee ausgespuckt: 
+\0(&촀\0Wir
+gehen zusammen auf Schatzsuche!"
+"002_a","Jawollja!"
+"002_b","Leider keine Zeit..."
+"003","()촀\0Du siehst wie jemand aus, der gerade
+nichts zu tun hat.
+\0 (&촀\0Wie wäre es dann
+mit einer kleinen Schatzsuche?"
+"003_a","Mach ich mit!"
+"003_b","Ungern."
+"004","(촀\0Na dann!
+\0 (촀\0Ich werde sofort
+ausschwärmen und den Schatz
+irgendwo im Dorf verbuddeln."
+"005","(촀\0Dein Wunsch ist mir Befehl!
+\0 Gib mir
+nur eine Sekunde, um den „Schatz“
+zu verscharren..."
+"006","(촀\0Ha! 
+\0Ich wusste, du bist für so was
+zu haben.
+\0 (%촀\0Dann bereite ich mal
+fix alles vor..."
+"007","( 촀\0Och, menno.
+\0 Da lade ich dich erst
+ein, und dann ist es schon so spät.
+
+\0(촀\0Na ja, ein andermal."
+"008","( 촀\0Nein? 
+\0Tja, dein Verlust."
+"009","( 촀\0Kein Interesse?
+\0 Na, dann vielleicht
+ein andermal."
+"010","( 촀\0Nein? Ganz sicher nicht?
+\0 (촀\0Du weißt ja
+nicht, was dir entgeht!"
+"011","(%촀\0Dann erkläre ich mal, 
+\0wie die Chose
+ablaufen soll.
+´\0\0\0()촀\0Findest du den Schatz, 
+\0bevor die
+Zeit abläuft, 
+\0dannn\0\0 
+\0gehört er dir!
+´\0\0\0(촀\0Ich hab ihn irgendwo im Freien
+vergraben, 
+\0also musst du bei
+niemandem ins Wohnzimmer platzen.
+´\0
+(!촀\0Viel Glück, 
+\0n\0!
+´"
+"011_01","(%촀\0Dann erkläre ich mal, 
+\0wie die Chose
+ablaufen soll.
+´\0\0\0()촀\0Wenn du den Schatz findest, 
+\0bevor
+die Zeit abgelaufen ist, 
+\0dannn\0\0
+\0
+gehört er dir!
+´\0\0\0(촀\0Ich hab ihn irgendwo im Freien
+vergraben, 
+\0also musst du bei
+niemandem ins Wohnzimmer platzen.
+´\0
+(9촀\0Und damit auch das klar istn\0\0 
+\0Nur du
+darfst diesen Schatz ausbuddeln, 
+\0
+sonst niemand!
+´\0\0\0(6촀\0Diese Sache ist nur zwischen dir
+und mir,
+\0 gra ha ha! 
+\0(Also, 
+\0leg mal
+los, 
+\0n\0!
+´"
+"012","(%촀\0Dann erkläre ich dir mal, wie der
+Hase läuft, 
+\0n\0.
+´\0\0\0()촀\0Es ist ganz einfach:
+\0 Ich vergrabe hier
+irgendwo einen Schatz.
+\0 Und du
+suchst ihn dann!
+´\0\0\0(촀\0Solange du ihn findest, 
+\0bevor die
+Zeit abgelaufen ist, darfst du ihn
+behalten!
+´\0\0\0(3촀\0Aber diesmal fällt das Zeitlimit etwas
+knapper ausn\0\0
+\0 (6촀\0Na?
+\0 Worauf wartest
+du noch?
+´"
+"012_01","(%촀\0Dann erkläre ich dir mal, wie der
+Hase läuft, 
+\0n\0.
+´\0\0\0()촀\0Es ist ganz einfach:
+\0 Ich vergrabe hier
+irgendwo einen Schatz. 
+\0Und du
+suchst ihn dann!
+´\0\0\0(촀\0Falls du ihn findest, 
+\0bevor die Zeit
+abgelaufen ist, darfst du ihn
+behalten!
+´\0\0\0()촀\0Ich hab ihn irgendwo im Freien
+vergraben. 
+\0('촀\0Es ist also nicht nötig,
+\0 bei
+Leuten in die gute Stube zu platzen.
+´\0
+(9촀\0Und damit auch das klar istn\0\0 
+\0Nur du
+darfst diesen Schatz ausbuddeln, 
+\0
+sonst niemand!
+´\0\0\0(3촀\0Diesmal fällt das Zeitlimit übrigens
+etwas knapper ausn\0\0
+\0 (6촀\0Na?
+\0 Worauf
+wartest du noch?
+´"
+"013","(9촀\0Also... Soll ich dir die Regeln noch
+mal durchkauen?"
+"013_a","Ja, bitte!"
+"013_b","Nicht nötig."
+"014","(촀\0Prima.
+\0 Dann leg los, 
+\0n\0!
+´"
+"014_01","(9촀\0Ich muss wohl nicht extra betonen,
+\0
+dass dies eine Angelegenheit nur
+zwischen mir und dir ist, 
+\0oder?
+´\0\0\0Also keinerlei Hilfe durch Freunde, 
+\0
+verstanden? (촀\0Dann kann der Spaß
+ja jetzt beginnen, 
+\0n\0!
+´"
+"015","(%촀\0Wie du meinst. 
+\0Diesmal hast du nicht
+besonders viel Zeit.
+\0 Also leg dich
+ins Zeug, 
+\0n\0!
+´"
+"015_01","(9촀\0Ich muss wohl nicht extra betonen,
+\0
+dass dies eine Angelegenheit nur
+zwischen mir und dir ist, 
+\0oder?
+´\0\0\0Also keine Hilfe von anderen, 
+\0klar?
+\0(
+()촀\0Das Zeitlimit ist diesmal übrigens
+etwas knapper. 
+\0((촀\0Und jetzt los!
+´"
+"101","(촀\0Grüß dich.
+\0 Na, Lust auf eine
+kleine...
+\0((촀\0 SCHATZSUCHE?!"
+"101_a","Und wie!"
+"101_b","Ich passe."
+"102","(5촀\0Du fragst dich, was in meinem
+Köpfchen gerade vor sich geht?
+\0
+Hehe, das kann ich dir sagen...\0\0(1촀\0Ich hab überlegt, wenn ich ein Pirat
+wäre, 
+\0wo würde ich dann meinen
+Schatz verstecken...
+(9촀\0Um Missverständnisse zu vermeiden:
+\0
+Ich bin kein Pirat.
+\0 Also, kein so
+richtiger, 
+\0n\0.\0\0(촀\0Nachdem das geklärt wäre...
+\0 Hättest
+du Lust auf eine kleine Schatzsuche?"
+"102_a","Ich bin dabei!"
+"102_b","(\0촀\0Ein andermal..."
+"103","(촀\0Oha!
+\0( (촀\0So spät ist das schon?\0\0(촀\0Tut mir leid, 2 KleinerKleines. 
+\0Ich bin nur
+tagsüber ein Pirat. Wir müssen das
+verschieben.
+\0((9촀\0 Nachts bin ich Ninja!"
+"104","(촀\0Harr, 
+\0harr! 
+\0Dann gib mir einen
+Moment,
+\0 (촀\0um den Schatz zu
+verbuddeln!"
+"105","(촀\0Keine Lust?
+\0 Schade, dann vielleicht
+demnächst,
+\0 n\0."
+"106","(촀\0Ach, Mist. 
+\0Wir hätten die Idee früher
+haben sollen.
+\0 Jetzt ist es etwas zu
+spät dafür geworden.(촀\0
+(촀\0Tut mir leid, 
+\0aber wir müssen das
+vertagen, 
+\0n\0."
+"107","(촀\0Muahahaha!
+\0 Dann vergrab ich mal
+fix das Schätzelein!"
+"108","(%촀\0Verstehe. 
+\0Dann muss ich wohl allein
+Pirat spielen. 
+\0In meiner Badewanne.
+\0
+Ist eh authentischer. 
+\0(촀\0Gra ha ha!"
+"200","(
+촀\0Momentchen mal... 
+\0Auf der ganzen
+Insel ist kein Platz, 
+\0( 촀\0um irgendwo
+einen Schatz zu vergraben?!\0\0('촀\0Dann müssen wir das Ganze wohl
+abblasen. 
+\0(9촀\0Dumm gelaufen,
+
+\0(\0촀\0n\0."

@@ -1,0 +1,203 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hier ist s촀.
+\0(
+Ich bereite mich gerade auf einen
+Umzug vor und habe keine Zeit.\0￿d"
+"001_02","d\0\0Danke für den Anruf.
+\0( Wegen eines
+bevorstehenden Umzugs ist
+s촀 nicht erreichbar.\0￿d"
+"001_03","d\0\0Hier spricht s촀.
+\0(
+Wegen Umzugsvorbereitungen bin
+ich nicht erreichbar, 
+\0n\0.\0￿d"
+"001_04","d\0\0s촀 hier.
+\0( Tut mir leid,
+aber wegen eines anstehenden
+Umzugs bin ich nicht erreichbar.\0￿d"
+"102","<"
+"102_01","n\0\0
+\0( 촀\0Was? 
+\0Lädst du mich etwa auf
+euren \0Campingplatz\0￿ ein? 
+\0((촀\0Da sage
+ich nicht Nein!
+(\0촀\0Ich greife mir schnell alles, was ich
+brauche, 
+\0und breche sofort auf.
+\0
+(촀\0Warte kurz, 
+\0n\0!"
+"102_02","( 촀\0Du lädst mich wirklich auf den \0Campingplatz \0￿von n	\0 ein, 
+\0n\0?\0\0(촀\0Wie aufregend!
+\0 (촀\0Ich mache mich so
+schnell wie möglich auf den Weg!"
+"102_03","n\0\0
+\0(촀\0Ich soll einen Ausflug zum
+\0Campingplatz\0￿ auf n	\0
+machen?
+\0(촀\0 Nichts lieber als das!
+(촀\0Ich packe schnell alles Nötige
+ein und breche dann sofort auf,
+
+\0n\0!"
+"102_04","(촀\0Lädst du mich tatsächlich auf den
+\0Campingplatz \0￿von n	\0 ein, 
+\0n\0?\0\0(촀\0Vielen Dank!
+\0 (촀\0Ich bin schon so gut
+wie unterwegs!"
+"202","<"
+"202_01","n\0\0
+\0(촀\0Huch?! 
+\0Du willst mich zu einem
+Besuch auf dem \0Campingplatz\0￿ von
+n	\0 einladen?
+(촀\0Oh, 
+\0ja! 
+\0Vielen Dank! 
+\0(\0촀\0Ich werde so
+schnell wie möglich aufbrechen.
+\0
+(촀\0Bis später, 
+\0n\0!"
+"202_02","(%촀\0Ich verstehen\0\0 
+\0Auf den \0Campingplatz
+\0￿von n	\0 alson\0\0\0\0(촀\0Ja, 
+\0das klingt durchaus interessant.
+\0(
+Ich nehme die Einladung an,
+
+\0n\0!"
+"202_03","n\0\0
+\0(촀\0Hm?
+\0 Ich soll auf den \0Campingplatz
+\0￿von n	\0 kommen?
+\0
+(촀\0Das klingt gut! 
+\0Sehr gerne!
+(촀\0Allerdings könnte es ein Weilchen
+dauern,
+\0 bis ich meine Camping-
+ausrüstung ausgegraben haben"
+"202_04","n\0\0
+\0(촀\0Oh, 
+\0wirklich?
+\0( (\0촀\0Auf den
+\0Campingplatz\0￿, 
+\0n\0n\0\0
+\0?
+\0
+Alson\0\0 
+\0((촀\0Ich bin schon unterwegs!"
+"301","<"
+"301_01","Hallo! 
+\0n
+\0 hier.
+\0(
+( 촀\0Oh, 
+\0n\0!
+\0( ($촀\0Welchem
+Umstand verdanke ich die Ehre?"
+"301_02","Ja? 
+\0Hier n
+\0.
+\0(
+( 촀\0Oh, 
+\0n\0...\0\0(8촀\0Gibt es etwas, 
+\0das du mir nicht
+von Angesicht zu Angesicht sagen
+wolltest, 
+\0n\0?"
+"301_03","Hallihallo, 
+\0hier ist n
+\0.
+\0( ( 촀\0Waaas, 
+\0du bist es, 
+\0n\0?!\0\0(촀\0Warum kommst du nicht persönlich
+rüber? 
+\0So weit weg wohne ich ja
+nicht, 
+\0n\0!"
+"301_04","Ja, 
+\0hallo? n
+\0 hiern\0\0
+\0
+( 촀\02\0n\0?
+\0( ($촀\0Ist irgendwas
+passiert, 
+\0n\0?"
+"302","<"
+"302_01","n\0\0
+\0(촀\0Ob ich auf dem \0Campingplatz\0￿
+unserer Insel
+\0 (&촀\0einmal zelten will?\0\0(
+촀\0Hmm, 
+\0Spaß könnte das schon
+machen, 
+\0abern\0\0
+\0 (촀\0der ist ja eigentlich
+nur für Gäste gedacht, 
+\0n\0."
+"302_02","n\0\0
+\0(촀\0Wie? 
+\0Ich soll auf dem \0Campingplatz\0￿
+zelten gehen?
+\0( (8촀\0So nah bei meinem
+eigenen Haus?!
+(촀\0Also, 
+\0da käme ich mir doch
+etwas komisch vor.
+\0(
+(촀\0Tut mir leid, 
+\0n\0."
+"302_03","n\0\0
+\0(
+촀\0Also ich weiß nicht.
+\0 Auf dem
+\0Campingplatz\0￿ der eigenen Insel
+Urlaub machen?
+\0 (&촀\0Warum denn?
+(촀\0Nett, dass du mich fragst, 
+\0aber das
+ist nichts für mich.
+\0( (촀\0Ich hoffe, 
+\0du bist
+mir nicht böse, 
+\0n\0."
+"302_04","n\0\0
+\0(촀\0Waaas?! 
+\0Ob ich auf dem
+\0Campingplatz\0￿ unserer Insel
+zelten gehen will?\0\0(
+촀\0Hätte das irgendeinen Sinn?
+\0
+(촀\0Tut mir leid, 
+\0aber das ist nichts
+für mich, 
+\0n\0."
+"401","<"
+"401_01","Hallo,
+\0 hier ist n
+\0.
+\0(
+(&촀\0Was kann ich für dich tun,
+\0 n\0?"
+"401_02","(촀\0Ja,
+\0 hier ist n
+\0.
+\0(
+(&촀\0Wie kann ich helfen,
+\0 n\0?"
+"401_03","(촀\0Hi!
+\0 Hier ist n
+\0!
+\0(
+(&촀\0Kann ich dir weiterhelfen,
+\0 n\0?"
+"401_04","(촀\0Hier spricht n
+\0.
+\0(
+(&촀\0Was ist dein Begehr,
+\0 n\0?"

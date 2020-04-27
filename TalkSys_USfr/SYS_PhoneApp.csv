@@ -1,0 +1,498 @@
+﻿"label","text"
+"000","« Hors de la zone de validité »?
+\0
+On dirait que tu ne peux pas t'en
+servir icin"
+"001","Veux-tu appeler le \0service d'aide\0￿?"
+"001_a","(\0촁\0Oui!"
+"001_b","(\0촁\0Surtout pas!"
+"010","             d\0
+\0d\0\0À la prochaine!\0dd
+\0d"
+"011","d\0
+\0                    \0Allo!\0d
+\0\0\0Merci de cet appel.
+\0 Tu es
+bien en communication avec
+le \0service d'aide\0￿.d"
+"011_01","d\0Alors si j'ai bien compris,
+\0 tu esn\0\0
+\0d"
+"011_02","d\0Tu te trouves actuellementn\0\0
+\0d"
+"012","d\0Eh ben bravo!
+\0 Un engin dernier
+cri, mais un signal de trop et
+ça déraille!\0\0
+\0On n'arrête pas le progrès,
+tu parles!d"
+"012_01","d\0Dis donc, 
+\0t'aurais pas de la visite?
+
+\0Ou alors, t'aurais pas laissé l'accès
+de l'aéroport ouvert?\0\0Parce qu'en gros, là, il y a trop
+d'interférences,
+\0 et tous ces signaux,
+ça fait un peu planter ma ligne.\0\0Alors si c'est une urgence,
+\0
+appuie sur \0 \0￿pour ouvrir le menu
+et choisis \0Terminer la session\0￿!d"
+"012_02","d\0Dis donc, 
+\0tu serais pas sur
+une autre île?\0\0Parce qu'en gros, là, il y a trop
+d'interférences,
+\0 et tous ces signaux,
+ça fait un peu planter ma ligne.\0\0Alors si c'est urgent,
+\0 appuie sur \0
+\0￿pour ouvrir le menu et choisis
+\0Retourner sur mon île\0￿!d"
+"013","d\0Dis donc, 
+\0tu m'appelles d'où, là?
+\0
+Tu serais pas dans un bâtiment,
+à tout hasard?\0\0Ça me fend le cœur pour toi,
+\0
+mais mon service est réservé
+aux gens qui sont dehors.\0\0Faut me comprendren\0\0
+\0 si tu te
+cognes contre un mur tu vas me
+coller un procès!
+Bref, 
+\0si tu veux que je t'aide,
+\0
+tu sors, c'est compris?d"
+"021_01","d\0Bon alors,
+\0 j'ai affaire à n\0 2
+de d'⁠n!\0, c'est juste?d"
+"021_02","d\0Une seconde, veux-tun\0\0
+\0
+Ah, c'est bon!
+\0\0\02\0n\0 2
+de d'⁠n!\0, c'est ça?
+
+\0Et t'es coincé2\0e?d"
+"021_03","d\0Hein? 
+\02\0n\0?
+\0 Encore toi? T'es encore coincé2\0e, c'est ça?d"
+"022","d\0C'est la première fois que tu as
+recours à mon service, non?
+\0
+Alors je te fais un topo rapide.
+Je suis là pour t'aider quand
+tu es coincé2\0e.
+\0 Alors il suffit
+de m'appelern\0\0
+Et moi je te téléporte vite fait bien
+fait, quelque part où tu seras en
+sécurité.\0\0Oui, c'est révolutionnaire, je sais.
+\0
+Comment ça marche?
+\0 Dis donc,
+le secret industriel, tu connais?d"
+"023_01","d\0Bon maintenant, autant parler coûts.
+\0
+Je facture \0100\0￿ points par sauvetage.
+\0
+Oui, 100 points Nook.
+\0 Alors?d"
+"023_01_a","(%촁\0Oui, au secours!"
+"023_01_b","('촁\0Non merci, alors."
+"023_02","d\0Je te prendrai \0100\0￿ points,
+on est d'accord?d"
+"023_02_a","(%촁\0Oui, au secours!"
+"023_02_b","('촁\0Non merci, alors."
+"023_03","d\0T'avais pas assez de points
+la dernière foisn\0\0
+\0( Tu ne comptes
+pas me refaire le coup, j'espère?
+C'est \0100\0￿ points par sauvetage.
+\0
+100 points Nook.
+\0 Alors?d"
+"023_03_a","(%촁\0Oui, au secours!"
+"023_03_b","('촁\0Non merci, alors."
+"031_01","d\0Hein? 
+\0Tu vas te débrouiller
+tout2\0e seul2\0e?d"
+"031_02","d\0Hein? 
+\0Tu vas te débrouiller tout2\0e
+seul2\0e?
+\0( Tu sais,
+\0 je t'en veux pas pour
+la dernière fois. C'est du passé!d"
+"032_01","d\0Si t'es dans le pétrin,
+\0
+il faut me le dire!d"
+"032_02","d\0T'as pas les points Nook, c'est ça?
+\0
+C'est pas bien grave, on peut
+s'arranger.
+Si t'es dans le pétrin,
+il faut me le dire!d"
+"041_01","d\0Tu as fait le bon choix!
+\0
+Mais laisse-moi d'abord
+empocher les \0100\0￿ pointsn\0\0d"
+"041_02","d\0Tu as fait le bon choix! 
+\0Laisse-moi
+empocher \0100\0￿ points Nook d'abord,
+\0
+t'as pas l'air à courtn\0\0d"
+"042_01","d\0Très bien!
+\0 Mais laisse-moi
+d'abord empocher les \0100\0￿ points.
+Et voin\0\0
+K\0d"
+"042_02","d\0
+
+\0
+\0                      \0OH!\0d
+\0
+	\0\0\0Tu te moques de moi ou quoi? 
+\0(
+Tu les as cachés où,
+\0( les 100 points?\0\0Allons Resetti, 
+\0calme-toin\0\0
+\0
+Bonn\0\0 Vu que c'est un cas d'urgence,
+pour cette fois, c'est gratuit.d"
+"042_03","d\0
+
+\0
+\0                      \0OH!\0d
+\0
+	\0\0\0Dis-moi que c'est pas vrai!
+\0(
+Tu m'as encore fait venir alors
+que t'avais pas les points!\0\0J'ai eu affaire à des resquilleurs,
+mais toi, on peut dire que t'es
+un cas d'école!\0\0Allez, je souffle un grand coup
+\0(n\0\0
+Voilà! 
+\0(Vu que c'est un cas d'urgence,
+pour cette fois, c'est gratuit.d"
+"042_04","d\0Mais ma grande bonté s'arrête là!
+Je vais te poser là où ça m'arrange,
+\0
+et après, adios,
+\0 tu assumes!d"
+"043","d\0Encore une chosen\0\0
+\0 Comme tu ne
+voyages pas seul2\0e, 
+\0il faut que je
+te ramène sur la \0place\0￿.d"
+"044_01","d\0Voilà, ça c'est faitn\0\0
+\0
+Alors, je t'emmène où?d"
+"044_01_a","Chez moi."
+"044_01_b","Sur la place."
+"044_01_c","À l'aéroport."
+"044_01_d","('촁\0Euh... j'annule!"
+"044_02","d\0Voilà, ça c'est faitn\0\0
+\0
+Alors, je t'emmène où?d"
+"044_02_a","À ma tente."
+"044_02_b","Sur la place."
+"044_02_c","À l'aéroport."
+"044_02_d","('촁\0Nulle part, j'annule."
+"044_03","d\0Voilà, ça c'est faitn\0\0
+\0
+Alors, je t'emmène où?d"
+"044_03_a","Chez moi."
+"044_03_b","Sur la place."
+"044_03_c","À la boutique."
+"044_03_d","À l'aéroport."
+"044_03_e","('촁\0Euh... j'annule!"
+"045","d\0Bon, je vois que t'as pas vraiment
+encore de chez-toi.\0\0Ce serait quand même plus pratique
+si tu me disais où tu veux que je te
+dépose!d"
+"045_a","Sur la place."
+"045_b","À l'aéroport."
+"045_c","('촁\0Euh... j'annule!"
+"046","d\0Bon, je vois que t'as pas vraiment
+encore de chez-toi.\0\0Ce serait quand même plus pratique
+si tu me disais où tu veux que je te
+dépose!d"
+"046_a","Sur la place."
+"046_b","À la boutique."
+"046_c","À l'aéroport."
+"046_d","('촁\0Euh... j'annule!"
+"047","d\0Voilà, ça c'est faitn\0\0
+\0
+Alors, je t'emmène où?d"
+"047_a","À ma tente."
+"047_b","Sur la place."
+"047_c","À la boutique."
+"047_d","À l'aéroport."
+"047_e","('촁\0Euh... j'annule!"
+"048","d\0Hmm?
+\0 Envie de prendre l'air,
+pas vrai?\0\0J'arrive à rien tirer des données de
+cette île,
+\0 je vais devoir te déposer \0là
+où l'avion atterrit\0￿. Ça te va?d"
+"048_a","Oui, s'il te plaît!"
+"048_b","('촁\0Euh... j'annule!"
+"050_01","d\0À ta tente?
+\0 Aucun problème.d"
+"050_02","d\0Chez toi?
+\0 C'est comme si c'était fait.d"
+"050_03","d\0Sur la place? 
+\0OK!d"
+"050_04","d\0Tu veux aller à la boutique de l'île?
+
+\0Très bien!d"
+"050_05",""
+"050_06","d\0Reçu cinq sur cinq!
+\0 Attache ta
+ceinture,
+\0 c'est parti!d"
+"050_07","d\0Direction l'aéroport! 
+\0Exécution du
+plan de vol.d"
+"051","<"
+"051_01","d\0Alorsn\0\0
+\0KMais quel bouton c'était, déjà?\0dd"
+"051_02","d\0Voyonsn\0\0
+Hmmn\0\0 \0K
+\0Mais c'est pas le bon bouton?\0dd"
+"051_03","d\0Ahn\0\0 Mais zut à la fin!
+\0K
+\0Les gadgets c'est vraiment pas pour moi!\0dd"
+"052","d\0Ça y est, je crois que j'ai trouvé.
+
+\0Et pour s'en assurer, rien de tel
+que la pratiquen\0\0d"
+"053","d\0
+\0           d\0\0Géronimooooo!\0dd
+\0d"
+"061","d\0Tu peux ouvrir les yeux!
+\0
+On est arrivés.d"
+"062","d\0Ah, 
+\0une dernière chosen\0\0d"
+"063","<"
+"063_01","d\0Une île, c'est comme une pizza.
+\0
+Trop de garniture, et tout est
+gâché!
+\0 Privilégie la qualité!d"
+"063_02","d\0Avec la sauvegarde automatique,
+\0
+tu peux plus recommencer à ta
+guise,
+\0 sur n!\0.d"
+"063_03","d\0Il n'y a pas que les résultats,
+dans la vie.
+\0d\0d촀d Alors profite de
+ton île et amuse-toi!d"
+"064","<"
+"064_01","d\0Une île, c'est comme une pizza.
+\0
+Trop de garniture, et tout est
+gâché!
+\0 Privilégie la qualité!d"
+"064_02","d\0Avec la sauvegarde automatique,
+\0
+tu peux plus recommencer à ta
+guise,
+\0 sur n!\0.d"
+"064_03","d\0Accumuler les points Nook,
+\0
+c'est un peu à la portée
+du premier venu.\0\0Il suffit d'aller tous les jours
+au \0Nook Stop\0￿!d"
+"201","Veux-tu démarrer \0Remod'île\0￿
+et faire des travaux?"
+"201_a","Oui!"
+"201_b","Service de nettoyage!"
+"201_c","Lire le mode d'emploi."
+"201_d","Non."
+"202","Permis en cours de créationn\0\0
+<"
+"202_01","L'application \0Remod'île\0￿ est prête!
+Pense à porter un casque, et
+respecte les mesures de sécurité!"
+"205","Arrêter les travaux?"
+"205_a","Oui."
+"205_b","Service de nettoyage!"
+"205_c","Lire le mode d'emploi."
+"205_d","Non."
+"206","n\0\0
+\0 Erreur de connexion!
+"
+"207","La réception est trop mauvaise.
+Il faut que tu te \0lèves\0￿ et que tu
+recommences."
+"208",""
+"209","Tu n'es \0pas dans la zone de
+couverture\0￿.\0\0Cette application n'est disponible qu'à n	\0, en extérieur."
+"210","Lancement de la séquence
+d'achèvementn\0\0
+<"
+"211","Phase de construction terminée!
+Nous te remercions d'avoir fait
+appel à nos services."
+"212","Tu ne peux pas utiliser \0Remod'île
+\0￿tant que l'accès de l'aéroport est
+ouvert."
+"213","Tu ne peux pas utiliser \0Remod'île
+\0￿tant que tu as de la visite sur l'île."
+"214","Tu ne peux pas utiliser \0Remod'île
+\0￿tant que la communication est en
+cours.
+\0
+Désactive-la à l'aéroport avant
+d'utiliser \0Remod'île\0￿."
+"221","\0Remod'île\0￿ est prêt!"
+"221_01","Tu peux passer d'une option de
+construction à l'autre en appuyant
+sur le \0bouton\0￿ \0\0￿.
+Pour plus d'informations, consulte
+le \0mode d'emploi\0￿."
+"221_02","Avec le Joy-Con à l'horizontale,
+passe d'une option à l'autre en
+appuyant sur les \0boutons\0￿ \0\0￿ ou \0\0￿.\0\0Pour plus d'informations, consulte
+le \0mode d'emploi\0￿."
+"222","<\0\0Notification d'application\0￿>
+\0Permis cours d'eau \0￿ajouté."
+"223","<\0\0Notification d'application\0￿>
+\0Permis falaise \0￿ajouté."
+"224","<\0\0Notification d'application\0￿>
+\0Permis cours d'eau\0￿ et \0permis falaise
+\0￿ajoutés."
+"225","Tu peux passer d'une option à l'autre
+en appuyant sur le \0bouton\0￿ \0\0￿.\0\0Pour plus d'informations, consulte
+le \0mode d'emploi\0￿ dans l'application."
+"225_01","Avec le Joy-Con à l'horizontale, tu
+peux passer d'une option à l'autre
+en appuyant sur \0\0￿ ou \0\0￿.\0\0Pour plus d'informations, consulte
+le \0mode d'emploi\0￿ dans l'application."
+"241","- Application \0Remod'île\0￿ -\0\0\0\0Démarrer et arrêter les travaux\0￿
+Utilise l'application pour démarrer
+et arrêter les travaux."
+"241_01_00","\0\0Passer d'un permis à l'autre\0￿
+Pendant les travaux, passe d'un
+permis à l'autre en appuyant sur \0\0￿."
+"241_01_01","\0\0Passer d'un permis à l'autre
+\0￿Avec le Joy-Con à l'horizontale, tu
+peux passer d'un permis à l'autre.\0\0Il suffit d'appuyer sur les \0boutons
+\0￿ ou \0\0￿."
+"241_02","Note que les permis de \0Remod'île\0￿ ne
+peuvent être utilisés que sur
+n	\0.\0\0La construction se termine si tu
+quittes l'île.\0\0Porte toujours ton casque,
+la sécurité n'est pas à négliger
+sur les chantiers!"
+"242","Guide de construction des routes\0\0Sur des zones herbeuses, appuie sur
+\0\0￿ pour créer ou retirer des routes."
+"242_00_01","Guide de construction des routes\0\0Sur des zones herbeuses, appuie sur
+\0\0￿ pour créer ou retirer des routes."
+"242_01_00","\0\0Choisir des motifs de route\0￿
+Appuie sur \0\0￿ pour choisir parmi les
+motifs de route que tu as obtenus."
+"242_01_01","\0\0Choisir des motifs de route\0\0\0￿Avec le Joy-Con à l'horizontale,
+choisis parmi les motifs de route
+que tu possèdes avec \0\0￿ ou \0\0￿."
+"243","Guide de construction cours d'eau\0\0Appuie sur \0 \0￿pour creuser le sol et 
+créer de rivières, des étangs, etc.
+Tu peux aussi les boucher.
+\0\0Créer des chutes d'eau\0￿
+Creuse au sommet d'une falaise
+pour créer une \0chute d'eau\0￿."
+"243_01","Guide de construction cours d'eau\0\0Appuie sur \0 \0￿pour creuser le sol et 
+créer de rivières, des étangs, etc.
+Tu peux aussi les boucher.
+\0\0Créer des chutes d'eau\0￿
+Creuse au sommet d'une falaise
+pour créer une \0chute d'eau\0￿."
+"244","Guide de construction des falaises\0\0Appuie sur \0 \0￿pour créer ou détruire
+des falaises, ou arrondir leurs bords.\0\0\0\0Construire une falaise sur une autre\0￿
+Tu peux empiler les falaises, mais pas
+sur leurs bords.
+Le but n'est pas de créer un mur
+géant!\0\0Établis d'abord une base assez large
+avant de passer à la couche suivante.\0\0\0\0Détruire les cascades\0￿
+Utilise le permis cours d'eau pour
+reboucher la cascade.
+Tu pourras ensuite détruire la falaise."
+"244_01","Guide de construction des falaises\0\0Appuie sur \0 \0￿pour créer ou détruire
+des falaises, ou arrondir leurs bords.\0\0\0\0Construire une falaise sur une autre\0￿
+Tu peux empiler les falaises, mais pas
+sur leurs bords.
+Le but n'est pas de créer un mur
+géant!\0\0Établis d'abord une base assez large
+avant de passer à la couche suivante.\0\0\0\0Détruire les cascades\0￿
+Utilise le permis cours d'eau pour
+reboucher la cascade.
+Tu pourras ensuite détruire la falaise."
+"245","\0Guide du service de nettoyage\0￿\0\0Sur un chantier, il peut arriver que tu
+te retrouves coincé2\0e par les objets
+qui t'entourent.\0\0Si quelque chose t'empêche de te
+déplacer, ou si un objet est
+inaccessible sur une falaise...\0\0Le service de nettoyage peut faire le
+ménage autour de toi.\0\0Seuls les objets (meubles, clôtures,
+etc.) \0à proximité\0￿ peuvent être retirés.\0\0Place-toi tout près de ce qui te
+dérange avant de contacter ce
+service.\0\0Tous les objets ainsi récupérés sont
+ensuite déposés dans la \0boîte de
+recyclage \0￿au bureau des résidents.\0\0Par conséquent, ne perds pas trop
+de temps avant d'aller les y chercher."
+"251","Quelle section veux-tu consulter?"
+"251_01","Quelle section veux-tu consulter?"
+"251_01_a","Le guide de l'utilisateur."
+"251_01_b","Les routes."
+"251_01_c","Les cours d'eau."
+"251_01_d","Le service de nettoyage."
+"251_01_e","Rien, j'ai fini."
+"251_02","Quelle section veux-tu consulter?"
+"251_02_a","Le guide de l'utilisateur."
+"251_02_b","Les routes."
+"251_02_c","Les falaises."
+"251_02_d","Le service de nettoyage."
+"251_02_e","Rien, j'ai fini."
+"251_03","Quelle section veux-tu consulter?"
+"251_03_a","Le guide de l'utilisateur."
+"251_03_b","Les routes."
+"251_03_c","Les cours d'eau."
+"251_03_d","Les falaises."
+"251_03_e","Le service de nettoyage."
+"251_03_f","Rien, j'ai fini."
+"251_a","Le guide de l'utilisateur."
+"251_b","Les routes."
+"251_c","Le service de nettoyage."
+"251_d","Rien, j'ai fini."
+"261","Quelquefois, pendant des travaux de
+construction, tu peux te retrouver
+coincé2\0e.\0\0Un objet est en haut d'une falaise et
+tu ne peux plus l'atteindre, ou bienn\0\0\0\0... une décoration disposée dans un
+endroit exigu t'empêche de te
+déplacern\0\0\0\0Le service de nettoyage est là pour
+ramasser tout objet dans ton
+environnement immédiat.\0\0Ces objets sont ensuite stockés dans
+la \0boîte de recyclage\0￿, au \0bureau des
+résidents\0￿.\0\0Jette un œil au mode d'emploi
+pour en savoir plus."
+"262","Utiliser le service de nettoyage et
+envoyer les objets qui t'entourent
+dans la boîte de recyclage?"
+"262_a","Oui, nettoie-moi ça!"
+"262_b","En fait, non."
+"263","Compris!
+\0 Nettoyage en cours,
+merci de patienter."
+"264","Nettoyage terminé!
+\0 Les objets ont
+été envoyés à la \0boîte de recyclage\0￿
+du \0bureau des résidents\0￿."
+"265","Nous n'avons rien trouvé à nettoyer.\0\0Le service de nettoyage
+\0 n'a d'effet
+que sur les objets et clôtures situés
+juste à côté de toi."
+"301","L'application qui affiche la carte
+ne fonctionnera pas sur cette île."
+"311","Tiens? On dirait que ton
+emplacement actuel n'est pas
+couvert par ce service."
+"999","\0100 \0￿points"

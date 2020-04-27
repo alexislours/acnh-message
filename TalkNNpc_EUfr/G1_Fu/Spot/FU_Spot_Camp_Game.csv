@@ -1,0 +1,96 @@
+﻿"label","text"
+"001","(촀\0Hé, tu veux faire un jeu avec moi ?
+\0(\0\0Si tu gagnes,
+\0 je te donne 2촀monma\0(촀\0 superbe }\0\0.
+\0(
+Marché conclu, n\0 ?"
+"001_a","OK, c'est parti !"
+"001_b","J'ai pas envie."
+"002","Tu veux que(&촀\0 je t'explique les règles ?"
+"002_a","Oui, s'il te plaît !"
+"002_b","Pas besoin."
+"003","(촀\0Peut-être une autre fois."
+"004","(<촀\0Juste le temps de mélangern"
+"005","(3촀\0Voyons si les cartes t'accordent
+leur faveur aujourd'huin"
+"006_01","(촀\0Voici 2\0}\0\0 que je t'ai 2$촀promispromise\0."
+"006_02","Comme promis, 2:촀mon précieuxma précieuse\0 }\0\0 t'appartient désormais."
+"006_03","(촀\0Je suis désolée,
+\0 mais tu n'as rien
+gagné cette fois-ci."
+"007_01","(;촀\0Tu n'aurais pas un don pour deviner
+la couleur des cartes ?
+\0((6촀\0 Il faudra
+remettre ça pour vérifier."
+"007_03","('촀\0Ce n'est peut-être pas ton jour
+de chance.
+\0( (촀\0Refaisons une partie
+à l'occasion,
+\0 si ça te dit !"
+"008","(촀\0Super, alors c'est parti !
+\0(( 촀\0 Oh, maisn\0\0
+tes poches sont pleines.\0\0('촀\0C'est trop bête... Si tu gagnes, je ne
+pourrai pas te donner ton prix.
+\0(\0\0(\0촀\0Jouons une autre fois,(촀\0
+\0 quand tu
+auras les poches moins encombrées,
+n\0."
+"100","()촀\0C'est simple.
+\0( J'ai quatre cartes,
+et chacune porte un symbole
+différent : \0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿,
+\0 et \0♣\0￿.
+(\0촀\0Je vais tirer une carte et tu devras(촀\0
+deviner son symbole.\0\0(\0촀\0Si tu tombes juste, tu gagnes 2\0}\0\0.\0\0(촀\0Tout est clair ?
+\0 (<촀\0Alors c'est parti."
+"101","Et voilà !
+\0 (6촀\0Quel symbole porte
+la carte que je viens de tirer ?
+\0♥\0￿, \0♦\0￿, \0♠\0￿, ou \0♣\0￿ ?"
+"101_a","\0Cœur ♥\0￿ !"
+"101_b","\0Carreau ♦\0￿ !"
+"101_c","\0Pique ♠ \0￿!"
+"101_d","\0Trèfle ♣\0￿ !"
+"102_01","(촀\0On dirait bien que oui !
+\0(
+C'est un 촀,
+\0 tu as gagné !"
+"102_02","(촀\0Pas de bol,
+\0 c'est un 촀n\0\0
+\0(
+On dirait que ce n'est pas ton jour."
+"200","($촀\0C'est ultra simple,
+\0 tu vas voir.
+\0(
+J'ai quatre cartes,
+\0 deux \0rouges\0￿
+et deux \0noires\0￿.\0\0()촀\0Je vais en tirer une au hasard,
+\0
+et tu dois deviner sa couleur.\0\0(\0촀\0Si tu devines correctement,
+\0(촀\0 tu gagnes 2\0}\0\0 !\0\0(촀\0Allez,
+\0 on essaye."
+"201","Allons-y.
+\0( (6촀\0De quelle couleur est
+la carte que je viens de tirer ?
+\0(
+\0Rouge\0￿ ou\0 noire\0￿, n\0 ?"
+"201_a","\0Rouge\0￿ !"
+"201_b","\0Noire\0￿ !"
+"202_01","(촀\02\0촀 !
+\0( C'est bien \0rouge\0￿,
+tu as gagné !"
+"202_02","(촀\02\0촀 !
+\0( (촀\0Mince,
+\0 une carte \0noire\0￿.
+\0
+C'est pas de chance."
+"202_03","Et c'est dun\0\0 (촀\0촀 !
+\0((촀\0 Tu as
+bien fait de choisir le \0noir\0￿ !"
+"202_04","(촀\0Oh non,
+\0 du 촀 !
+\0((촀\0 C'est \0rouge\0￿
+de chez \0rouge\0￿,
+\0 désolée."

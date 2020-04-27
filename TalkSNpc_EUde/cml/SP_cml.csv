@@ -1,0 +1,412 @@
+﻿"label","text"
+"001","(촀\0Salam. 
+\0Nenn mich \0Aziza\0￿.
+\0
+Ich bin bekannt bei allen, 
+\0die
+die schönsten Teppiche suchen.
+(%촀\0\0Aziza\0￿ bringt sie aus der fernen
+Heimat,
+\0 damit du deinen Grund und
+Boden damit verschönern kannst.
+(9촀\0Kleine Teppiche, 
+\0große Teppiche,
+\0
+und mittlere.
+\0 Alle habe ich.
+\0
+Nach dem Kauf siehst du sie.
+\0
+Und mehr noch!
+\0 Auch mysteriöse
+Böden und Tapeten gibt es bei \0Aziza\0￿.
+
+\0Erwirb, 2 FreundFreundin!"
+"001_a","Einen Teppich, bitte!"
+"001_b","Mysteriöse Tapete."
+"001_c","Mysteriöser Boden."
+"001_d","Bin nicht interessiert."
+"002","(촀\0Ich sehe dich wieder, 2 FreundFreundin.
+\0
+(&촀\0Sucht dein Boden nach Teppichen?\0\0(촀\0Auch mysteriöse Tapeten und
+Böden verkaufe ich,
+\0 die dir
+überraschte Freude machen."
+"002_a","Einen Teppich, bitte!"
+"002_b","Mysteriöse Tapete."
+"002_c","Mysteriöser Boden."
+"002_d","Bin nicht interessiert."
+"003","(촀\0Salam erneut,
+\0 2 FreundFreundin!
+\0
+(&촀\0Sehnt sich dein Heim nach
+Teppichen?
+\0 Ich hoffe.
+(\0촀\0\0Aziza\0￿ führt auch mysteriöse
+Böden und Tapeten,
+\0 die Zimmer
+liebreizend machen."
+"003_a","Einen Teppich, bitte!"
+"003_b","Mysteriöse Tapete."
+"003_c","Mysteriöser Boden."
+"003_d","Coupon verwenden!"
+"003_e","Bin nicht interessiert."
+"004","(촀\0\0Aziza\0￿ hat Teppiche in drei Größen.
+\0
+Du, 
+\02 FreundFreundin, 
+\0hast des Wählens
+Qual.\0\0Kleine kosten Z.
+\0
+Mittlere Z.
+\0
+Große kosten Z\0."
+"004_0","(9촀\0Nun wohl.
+\0
+Du wünschst einen Teppichkauf.
+
+\0Welche Größe suchst du?"
+"004_a","Einen kleinen bitte!"
+"004_b","Einen mittleren bitte!"
+"004_c","Einen großen bitte!"
+"004_d","('촀\0Ich brauche keinen."
+"005","(촀\0So,
+\0 so,
+\0 ja.
+\0 Kein Sterni fühlt sich
+gelockt von \0Azizas\0￿ Waren.
+\0( (%촀\0
+Ein andermal gewiss."
+"006","(촀\0Ah, 
+\0meine Lieblingsgröße!
+\0( (\0촀\0
+Ich öffne meine Hand für die Bezahlung, 
+\0die du gibst."
+"007","Kein Handel ohne Bezahlung, 
+\0ja?
+\0
+Meine Hand ist offen, 2 FreundFreundin.
+\0
+Schukran,
+\0 ich danke."
+"008","<"
+"008_01","(촀\0Der Teppich wird dir Freude bringen.
+\0
+Die Sternis werden Aziza freuen.
+\0
+Ein Ausgang voller Glück."
+"008_02","(촀\0Im sonnigen Lächeln glücklicher
+Kunden 
+\0gedeiht \0Azizas\0￿ Freude,
+\0
+so wie ihr Geldbeutel."
+"008_03","(촀\0Vergnüge dich mit deinem Kauf,
+\0
+2 FreundFreundin."
+"009","(%촀\0Kaufe erneut, 
+\02 FreundFreundin.
+\0
+($촀\0\0Azizas\0￿ Coupons seien dir gewissn"
+"010","(촀\0Oh nein!
+\0 2 FreundFreundin,
+\0 so schau nur! 
+\0
+(촀\0Deine Tasche hat keine Kapazität
+mehr!\0\0(촀\0Fülle deine Tasche mit Leere
+und sprich dann wieder mit \0Aziza\0￿,
+\0 ja?"
+"011","( 촀\0Welch Freude. 
+\0Verzeih mein Zweifeln.
+\0(7촀\0
+\0Azizas\0￿ Gedanken sind manchmal
+geplagt von Durcheinandersein."
+"012","(%촀\0Ah.
+\0 Was du willst,
+\0 leuchtet mir ein
+wie Sonnenschein durch Zeltfugen.
+\0
+Ein andermal dann,
+\0 ja?"
+"015","()촀\0Nur einen Teppich großer Größe
+kann ich heute bieten:
+\0 }\0\0.\0\0(&촀\0Willst du wirklich desselben
+Teppichs zwei kaufen?
+\0 Der Preis
+dafür kostet Z\0."
+"015_a","(%촀\0Einverstanden!"
+"015_b","('촀\0Nein, danke."
+"016","()촀\0Mein Teppich großer Größe ist heute
+2\0}\0\0.
+\0(
+(&촀\0Für Z\0,
+\0 topp?"
+"016_a","(%촀\0Einverstanden!"
+"016_b","('촀\0Nein, danke."
+"017","(촀\0O Schreck!
+\0 ('촀\0
+Dein Sterni-Konto ist mager
+und zu ungenährt, 
+\0um zu bezahlen!\0\0(\0촀\0Z\0
+\0 müssen es sein, 
+\0damit der Kauf gilt.
+\0($촀\0 Auf dass die Zukunft deinen Geldbeutel nähre."
+"020","()촀\0Nur ein Teppich mittlerer Größe
+ist heute in meinem Sortiment:
+\0
+2\0}\0.\0\0(&촀\0Möchtest du ihn zweimalig kaufen?
+\0
+Der Preis ist Z."
+"020_a","(%촀\0Einverstanden!"
+"020_b","('촀\0Nein, danke."
+"021","()촀\0Mein Mittelgroßteppich ist heute
+
+\02\0}\0.
+\0( (&촀\0Sind Z ein Preis?"
+"021_a","(%촀\0Einverstanden!"
+"021_b","('촀\0Nein, danke."
+"022","(촀\0Ich schrecke!
+\0 ('촀\0Dein Geldbeutel
+ist zu arm,
+\0 um \0Aziza\0￿ zu bezahlen!\0\0(\0촀\0Z,
+\0 so viel wünsche ich.
+\0($촀\0 Mag die Zukunft einen glücklicheren Handel bringen!"
+"025","()촀\0Einen kleingroßen Teppich
+hat \0Aziza\0￿ heute,
+\0 es ist 2\0}\0.\0\0(&촀\0Willst du dieses schöne Stück
+zweitmalig erwerben,
+\0 2 FreundFreundin?
+
+\0Es kostet Z."
+"025_a","(%촀\0Einverstanden!"
+"025_b","('촀\0Nein, danke."
+"026","()촀\02\02\0}\0
+ist heute \0Azizas\0￿ kleiner Teppich.
+\0(
+(&촀\0Z, abgemacht?"
+"026_a","(%촀\0Einverstanden!"
+"026_b","('촀\0Nein, danke."
+"027","(촀\0Ich klage!
+\0 ('촀\0Du hast weniger Sternis,
+als deine Kauflust gebietet!\0\0(\0촀\0Z
+\0 muss ich wünschen, dann verkaufe ich.
+\0($촀\0
+Möge dein Konto bald gedeihen!"
+"030","\0Azizas\0￿ mysteriöse Tapete kostet
+Z und nicht mehr.
+Verlockt der Preis, 
+\02 FreundFreundin?"
+"030_a","(%촀\0Ja!"
+"030_b","('촀\0Ich passe."
+"031","(촀\0Oje! Eine mysteriöse Tapete
+hast du heute bereits erworben!
+
+\0(9촀\0Und nur eine verkaufe ich pro Tag.
+(촀\0Doch wer \0Aziza-Coupons \0￿hat,
+\0 darf
+freudig sein.
+\0 Denn jene tausche ich
+gerne gegen Mysteriumtapeten ein!(%촀\0
+5 \0Coupons\0￿,
+\0 \0Azizas\0￿ Dankeschön
+für brave Teppichkäufer,
+\0 sind
+der Preis für eine Tapete."
+"032","(촀\0Oje! 
+\0Eine mysteriöse Tapete
+hast du heute bereits erworben!
+
+\0(9촀\0Und nur eine verkaufe ich pro Tag.
+(촀\0Füge dich dem tapetenlosen
+Schicksal,
+\0 2 FreundFreundin,
+\0 bis unsere
+Wege sich erneut begegnen."
+"034","(촀\0Bei meiner Quaste!
+\0('촀\0
+Wie sollen deine Sternis je genügen
+für \0Azizas\0￿ gute Ware?\0\0(\0촀\0Z
+\0 müssen sein,
+\0
+um diesen Kauf zu besiegeln.
+\0($촀\0 Möge
+die Zukunft dir Sternis bringen!"
+"035","Nun wohl,
+\0 die Bezahlung.
+\0
+Ich bitte,
+\0 ich danke."
+"040","Nur Z kostet \0Azizas\0￿ mysteriöser Boden.
+\0
+Sag,
+\0 soll er dein sein?"
+"040_a","(%촀\0Ja!"
+"040_b","('촀\0Ich passe."
+"041","(촀\0Nein doch! 
+\0Du hast heute bereits
+einen Mysteriumboden gekauft.
+\0
+(9촀\0Einen pro Tag,
+\0 mehr darf nicht sein.
+(촀\0Doch wer \0Aziza-Coupons \0￿hat,
+\0 darf
+freudig sein.
+\0 Denn jene tausche ich
+gerne gegen Mysteriumböden ein!(%촀\0
+5 \0Coupons\0￿,
+\0 \0Azizas\0￿ Dankeschön
+für brave Teppichkäufer,
+\0 sind
+der Preis für einen Boden."
+"042","(촀\0Nein doch! 
+\0Du hast heute bereits
+einen Mysteriumboden gekauft.
+\0
+(9촀\0Einen pro Tag,
+\0 mehr darf nicht sein.
+(촀\0Doch verzage nicht, 2 FreundFreundin,
+\0
+denn wir sehen uns wieder.
+\0
+Dann sei die bodenlose Zeit zu Ende."
+"050","(촀\0Frohe Kunde,
+\0 20guter Kundegute Kundin!
+\0
+Erhalte einen \0Aziza-Coupon \0￿als
+Dankeschön von Herzen.\0\0(9촀\0Für Z\0\0 Coupons belohnt \0Aziza\0￿.
+\0
+(촀\0Mit schönen mysteriösen Böden, 
+\0und
+mit herrlichen mysteriösen Tapeten!"
+"050_pl","(촀\0Frohe Kunde,
+\0 20guter Kundegute Kundin!
+\0
+Erhalte \0Aziza-Coupons \0￿als
+Dankeschön von Herzen.\0\0(9촀\0Für Z\0\0 Coupons belohnt \0Aziza\0￿.
+\0
+(촀\0Mit schönen mysteriösen Böden, 
+\0und
+mit herrlichen mysteriösen Tapeten!"
+"051","(%촀\0Für den Teppich großer Größe,
+\0
+den du kauftest,
+\0(""촀\0 schenkt \0Aziza\0￿
+dir 3 Coupons."
+"052","(%촀\0Für den Teppich mittlerer Größe,
+\0
+den du kauftest,
+\0(""촀\0 schenkt \0Aziza\0￿
+dir 2 Coupons."
+"053","(%촀\0Für den Teppich kleiner Größe,
+\0
+den du kauftest,
+\0(""촀\0 schenkt \0Aziza\0￿
+dir 1 Coupon."
+"054","(촀\0Ich schenke dir den Lohn für deinen
+großen Teppichkauf,
+\0 26guter Freundgute Freundin. 
+\0(
+(""촀\03 \0Aziza-Coupons\0￿,
+\0 bitte sehr."
+"055","(촀\0Ich schenke dir den Lohn für deinen
+mittleren Teppichkauf,
+\0 26guter Freundgute Freundin.
+\0(
+(""촀\02 \0Aziza-Coupons\0￿,
+\0 bitte sehr."
+"056","(촀\0Ich schenke dir den Lohn für deinen
+kleinen Teppichkauf,
+\0 26guter Freundgute Freundin.
+\0(
+(""촀\01 \0Aziza-Coupon\0￿,
+\0 bitte sehr."
+"057","(촀\0Ich staune!
+\0 (촀\0Deine Tasche hat
+nicht genug Platz für \0Azizas
+\0￿Zusatzgeschenk.\0\0(\0촀\0Schaffe mehr Platz,
+\0 2 FreundFreundin.
+\0
+(촀\0Befreie deine Tasche von Fülle
+und sprich dann wieder mit \0Aziza\0￿."
+"060","(촀\0O Freude!
+\0 Z\0\0 \0Aziza-Coupons\0￿ sind
+dein allein!
+\0 Eine glückliche Zahl!\0\0(촀\0Dafür darfst du eine mysteriöse Tapete oder einen mysteriösen Boden erhalten.
+\0 Möchtest du?"
+"060_a","(%촀\0Au ja!"
+"060_b","('촀\0Lieber ein andermal."
+"061","(%촀\0Es freut mich.
+\0
+\0 Was möchtest du?
+\0
+Tapete?
+\0
+\0 Einen Boden? (&촀\0
+Sag,
+\0 was dich verlockt."
+"061_a","(\0촀\0Mysteriöse Tapete!"
+"061_b","(\0촀\0Ein mysteriöser Boden!"
+"061_c","(\0촀\0Weder noch."
+"062","(촀\0Nur eine Mysterientapete pro Tag.
+\0
+('촀\0Und die hast du schon, 
+\02 FreundFreundin.
+\0( (&촀\0
+Darf es ein mysteriöser Boden sein?"
+"062_a","(%촀\0Nehm ich!"
+"062_b","('촀\0Nee, lieber nicht."
+"063","(촀\0Nur ein Mysterienboden pro Tag.
+\0
+('촀\0Und den hast du schon, 
+\02 FreundFreundin.
+\0( (&촀\0
+Darf es eine mysteriöse Tapete sein?"
+"063_a","(%촀\0Gerne!"
+"063_b","('촀\0Nein danke."
+"064","(촀\0Oje, 
+\0ich muss verneinen.
+\0 Nur einmal
+pro Tag darf man mysteriöse Böden
+und mysteriöse Tapeten erhalten.\0\0(\0촀\0Und das hast du leider,
+\0 2 FreundFreundin.
+\0
+(촀\0Gedulde dich bis zum Tage unseres
+Wiedersehens.
+\0 Schukran."
+"065","(촀\0\0Aziza\0￿ staunt!
+\0 Wieso?
+\0( (촀\0Mysteriöse
+Böden und Tapeten sind doch
+eine Freude für jedes Herz!\0\0(\0촀\0Kehre in dich, 
+\026guter Freundgute Freundin.
+\0(9촀\0
+Mögest du den Wunsch finden,
+\0
+\0Azizas\0￿ Lohn zu empfangen."
+"066","( 촀\0So, son\0\0
+\0( (\0촀\0Gut,
+\0 \0Aziza\0￿ versteht.
+\0
+(촀\0Beim nächsten Mal sollst du Teppiche
+erhalten,
+\0 die dein Herz erfreuen!"
+"067","Dann will ich Z\0\0 Stück von deinen
+\0Aziza-Coupons \0￿nehmen,
+\0 habe Dank."
+"068","<"
+"068_01","(1촀\0Freue dich auf einen Anblick,
+\0
+der dein Herz 
+\0(촀\0ersprießen lassen
+wird wie Feigenblüten in der Sonne."
+"068_02","(1촀\0Jede Ware,
+\0 die du kaufst,
+\0 verheißt
+Glück und Freude.
+\0 Freue dich und
+\0(촀\0
+kaufe schon bald erneut ein."
+"068_03","(1촀\0Sei erfreut auf dein nächstes Treffen
+mit \0Aziza\0￿.
+\0 Meine mysteriösen Waren
+\0(촀\0
+betören sicher auch deine Sinne!"

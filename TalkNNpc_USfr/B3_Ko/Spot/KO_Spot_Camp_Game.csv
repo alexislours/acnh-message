@@ -1,0 +1,118 @@
+﻿"label","text"
+"001","(촀\0Hé 2$le jeunela jeune, ça te dit de faire un jeu?\0\0(\0촀\0Si tu gagnes,
+\0 je te donne 2\0}\0\0.
+\0(($촀\0 Qu'est-ce que tu en penses, n\0?"
+"001_a","Avec plaisir!"
+"001_b","Pas maintenant."
+"002","(촀\0À la bonne heure!
+\0((촀\0 Laisse-moi
+d'abord t'expliquer les règles,
+n\0."
+"002_a","Oui, s'il te plaît."
+"002_b","Pas la peine."
+"003","(\0촀\0Comme tu veux.
+\0( Je ne peux pas te
+forcer à jouer un jeu(촀\0 auquel tu n'as
+rien à perdre et tout à gagnern"
+"004","( 촀\0Oh,
+\0 je vois que nous avons affaire
+à 20un habituéune habituée.
+\0((<촀\0 Entrons directement
+dans le vif du sujet dans ce casn"
+"005","Et la carte que j'ai tirée est dun"
+"006_01","(촀\0Comme promis 2촀monma\0 superbe }\0\0 est à toi.
+\0((촀\0(%촀\0 Tu l'as bien mérité2촀\0e\0."
+"006_02","(촀\0Tu remportes donc 2촀ce
+cette\0 magnifique }\0\0!\0\0(촀\0En fait,
+\0 je me suis rendu compte que je n'en aurai pas l'usage,
+\0 alors tu me rends service en m'en débarrassantn"
+"006_03","(촀\0Désolé, mais je garde 2\0}\0\0, comme convenu."
+"007_01","(7촀\0J'ai peut-être perdu, mais je me suis
+bien amusé.
+\0((촀\0 Faisons une revanche
+à l'occasion, n\0!"
+"007_03","()촀\0J'ai peut-être gagné,
+\0 mais tu n'as
+rien perdu.
+\0((6촀\0 Ou à la rigueur, un peu
+d'amour-propren"
+"008","(촀\0À la bonne heure!
+\0((촀\0 Laisse-moi
+d'abord t'expliquer lesn\0\0
+\0((&촀\0 Hm?\0\0(촀\0Je crois que tu as les poches pleines,
+\0
+2$le jeunela jeune.
+\0( Je ne pourrai pas te donner
+ton dû si tu gagnes, n\0.
+(촀\0Va faire de la place et reviens me voir si tu es toujours intéressé2\0e par 2\0}\0\0."
+"100","()촀\0C'est simple.
+\0( J'ai quatre cartes avec
+quatre signes différents,
+\0 \0cœur ♥\0￿,
+\0
+\0carreau ♦\0￿,
+\0 \0pique ♠\0￿ et \0trèfle ♣\0￿.
+(촀\0Je vais en tirer une au hasard,
+\0
+et tu dois deviner son signe.\0\0()촀\0Si tu tombes juste,
+\0 je te donne
+2\0}\0\0.\0\0(촀\0Voilà,
+\0 c'est tout.
+\0( Tu es prêt2\0e?
+\0(
+(<촀\0Alors, c'est partin"
+"101","(촀\0Place au tirage.
+\0( (6촀\0Sur quel signe
+paries-tu, n\0? \0Cœur ♥\0￿, \0carreau ♦\0￿, \0pique ♠\0￿ ou \0trèfle ♣\0￿?"
+"101_a","\0Cœur ♥\0￿!"
+"101_b","\0Carreau ♦\0￿!"
+"101_c","\0Pique ♠\0￿!"
+"101_d","\0Trèfle ♣\0￿!"
+"102_01","(=촀\02\0촀! Bien joué!"
+"102_02","(=촀\02\0촀! Dommage..."
+"200","()촀\0Tu vas voir,
+\0 c'est on ne peut plus
+simple.
+\0( J'ai quatre cartes qui ont
+chacune un signe différent.
+(촀\0Il y en a deux \0rouges\0￿,
+\0 \0cœur ♥\0￿ et
+\0carreau ♦\0￿,
+\0 et deux \0noires\0￿,
+\0 \0pique ♠
+\0￿et\0 trèfle ♣\0￿.
+(촀\0Je vais tirer une carte au hasard,
+\0
+et tu dois deviner s'il s'agit d'une
+carte \0rouge\0￿ ou d'une carte \0noire\0￿.
+(촀\0Si tu trouves la bonne couleur,
+\0
+tu gagnes 2\0}\0\0.\0\0(6촀\0Je ne vais pas te faire l'insulte
+de te demander si tu as compris.
+\0(
+(<촀\0Allez,
+\0 c'est partin"
+"201","Très bien.
+\0((;촀\0 Voyons si tu arrives à lire
+dans le cœur des cartesn\0\0 Sur quelle
+couleur paries-tu?
+\0 \0Rouge\0￿ ou \0noir\0￿?"
+"201_a","\0Rouge\0￿!"
+"201_b","\0Noir\0￿!"
+"202_01","(=촀\02\0촀!
+\0( Autrement dit,
+\0 du \0rouge\0￿!
+\0( (촀\0Félicitations!"
+"202_02","(=촀\02\0촀!
+\0( Autrement dit,
+\0 du \0noir\0￿!
+\0(
+(촀\0C'est dommage!"
+"202_03","(=촀\02\0촀!
+\0( Autrement dit,
+\0 du \0noir\0￿!
+\0((촀\0 Félicitations!"
+"202_04","(=촀\02\0촀!
+\0( Autrement dit,
+\0 du \0rouge\0￿!
+\0((촀\0 C'est dommage!"

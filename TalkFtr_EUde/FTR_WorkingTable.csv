@@ -1,0 +1,51 @@
+﻿"label","text"
+"001","Soll ich etwas herstellen oder
+umgestalten?"
+"001_01","Soll ich etwas herstellen oder
+umgestalten?"
+"001_01_a","Ja, etwas herstellen!"
+"001_01_b","Nein, jetzt nicht."
+"001_a","Ja, etwas herstellen!"
+"001_b","Ja, umgestalten!"
+"001_c","Nein, jetzt nicht."
+"002","Dies ist eine Werkbank zum \0Basteln\0￿."
+"011","Soll ich an \0Tom Nooks \0￿Werkbank
+etwas herstellen?"
+"011_01","Soll ich an \0Tom Nooks \0￿Werkbank
+etwas herstellen?"
+"011_01_a","(\0촁\0Ja!"
+"011_01_b","Ja, umgestalten!"
+"011_01_c","(\0촁\0Jetzt nicht..."
+"011_02","Soll ich an \0Tom Nooks \0￿Werkbank
+etwas herstellen?"
+"011_02_a","(\0촁\0Ja!"
+"011_02_b","Umgestaltungskurs."
+"011_02_c","(\0촁\0Jetzt nicht..."
+"011_a","(\0촁\0Ja!"
+"011_b","(\0촁\0Jetzt nicht..."
+"021","Soll ich an dieser Werkbank
+etwas anfertigen?"
+"021_01","Soll ich an dieser Werkbank
+etwas anfertigen?"
+"021_01_a","Ja, etwas herstellen!"
+"021_01_b","Nein, jetzt nicht."
+"021_a","Ja, etwas herstellen!"
+"021_b","Ja, umgestalten!"
+"021_c","Nein, jetzt nicht."
+"022","\0\0Auf fremden Inseln kannst du beim
+Umgestalten keine eigenen Designs
+verwenden.\0￿"
+"031","2\02\0}\0\0
+ist fertig!"
+"031_01","2\02\0}\0\0
+ist fertig!"
+"031_a","(\0촀\0Weitermachen!"
+"031_b","(\0촀\0Genug fürs Erste..."
+"032","2\02\0}\0\0
+wurde umgestaltet!"
+"032_01","2\02\0}\0\0
+wurde umgestaltet!"
+"032_a","(\0촀\0Weiter umgestalten."
+"032_b","(\0촀\0Genug fürs Erste..."
+"051","Ich sollte den Kurs belegen, wenn
+ich keinen Besuch habe."

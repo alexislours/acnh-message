@@ -1,0 +1,807 @@
+﻿"label","text"
+"000_01","(촀\0Hallo, n\0!
+\0
+Es ist jetzt Z\0:Z\0!"
+"000_02","(촀\0Ich hoffe, ihr genießt eure Zeit
+auf der Insel!\0\0(\0촀\0Aber denkt daran,
+\0( 촀\0 es nicht zu
+übertreiben.\0\0(%촀\0Also legt ab und zu eine Pause ein!
+\0
+(""촀\0Alles in Maßen!"
+"001","()촀\0Es ist n\0, der
+Z\0 Z\0 Z\0, Z\0:Z\0 Uhr
+\0
+hier auf n\0.(촀"
+"001_01","(촀\0Guten Morgen, liebe Bewohner!"
+"001_02","(촀\0Hallo, liebe Bewohner!"
+"001_03","(촀\0Guten Abend, liebe Bewohner!"
+"002","(촀\0Hallo, liebe Bewohner!
+\0( (\0촀\0Eine Insel-
+Durchsage zu ungewöhnlicher Zeit!
+\0
+(.촀\0Hoffentlich schlafe ich nicht einn"
+"003","(촀\0Ich wünsche euch allen ein gutes
+Neues Jahr!
+\0 (촀\0Ich bin schon gespannt,
+\0
+was so passieren wird!"
+"004","(촀\0Hallo, liebe Bewohner!
+\0 Heute ist
+\0Mondneujahr\0￿!
+\0(촀\0 Ich wünsche euch
+allen Glück und Zufriedenheit!"
+"005","(촀\0Heute haben wir den ersten Schnee
+dieses Jahr!
+\0(!촀\0 Der Winter ist da!"
+"005_00_01","Unglaublich!
+\0 (촀\0Heute findet unser
+erstes \0Angelturnier\0￿ hier auf n\0 statt!\0\0(촀\0Um \09:00 Uhr\0￿ geht's los, 
+\0Ende ist um
+\018:00 Uhr\0￿.
+\0 Kommt einfach zum Pavil-
+lon auf dem Festplatz und macht mit!"
+"005_00_02","Unglaublich!
+\0 (촀\0Heute findet unser
+erstes \0Angelturnier\0￿ hier auf n\0 statt!\0\0(촀\0Das Turnier läuft noch bis \018:00 Uhr\0￿.
+\0
+Kommt einfach zum Pavillon auf dem
+Festplatz und macht mit!"
+"005_01_01","Heute von \09:00\0￿ bis \018:00 Uhr\0￿ findet
+das \0Frühlings-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_01_02","Noch bis \018:00 Uhr\0￿ findet heute das
+\0Frühlings-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_02_01","Heute von \09:00\0￿ bis \018:00 Uhr\0￿ findet
+das \0Sommer-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_02_02","Noch bis \018:00 Uhr\0￿ findet heute das
+\0Sommer-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_03_01","Heute von \09:00\0￿ bis \018:00 Uhr\0￿ findet
+das \0Herbst-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_03_02","Noch bis \018:00 Uhr\0￿ findet heute das
+\0Herbst-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_04_01","Heute von \09:00\0￿ bis \018:00 Uhr\0￿ findet
+das \0Winter-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"005_04_02","Noch bis \018:00 Uhr\0￿ findet heute das
+\0Winter-Angelturnier\0￿ statt!
+Kommt auf den Festplatz!"
+"006_00_01","Wie aufregend!
+\0 (촀\0Heute findet unser
+erstes \0Insektikus-Turnier\0￿ hier auf n\0 statt!\0\0(촀\0Um \09:00 Uhr\0￿ geht's los, 
+\0Ende ist um
+\018:00 Uhr\0￿.
+\0 Kommt einfach zum Pavil-
+lon auf dem Festplatz und macht mit!"
+"006_00_02","Wie aufregend!
+\0 (촀\0Heute findet unser
+erstes \0Insektikus-Turnier\0￿ hier auf n\0 statt!\0\0(촀\0Das Turnier läuft noch bis \018:00 Uhr\0￿.
+\0
+Kommt einfach zum Pavillon auf dem
+Festplatz und macht mit!"
+"006_01_01","Heute von \09:00\0￿ bis \018:00 Uhr \0￿findet
+das erste \0Insektikus-Turnier\0￿ der
+Saison auf dem Festplatz statt!"
+"006_01_02","Noch bis \018:00 Uhr\0￿ findet heute das
+erste \0Insektikus-Turnier\0￿ der Saison
+auf dem Festplatz statt!"
+"006_02_01","Heute von \09:00\0￿ bis \018:00 Uhr \0￿findet
+das zweite \0Insektikus-Turnier\0￿ der
+Saison auf dem Festplatz statt!"
+"006_02_02","Noch bis \018:00 Uhr\0￿ findet heute das
+zweite \0Insektikus-Turnier\0￿ der Saison
+auf dem Festplatz statt!"
+"006_03_01","Heute von \09:00\0￿ bis \018:00 Uhr \0￿findet
+das dritte \0Insektikus-Turnier\0￿ der
+Saison auf dem Festplatz statt!"
+"006_03_02","Noch bis \018:00 Uhr\0￿ findet heute das
+dritte \0Insektikus-Turnier\0￿ der Saison
+auf dem Festplatz statt!"
+"006_04_01","Heute von \09:00\0￿ bis \018:00 Uhr \0￿findet
+das letzte \0Insektikus-Turnier\0￿ der
+Saison auf dem Festplatz statt!"
+"006_04_02","Noch bis \018:00 Uhr\0￿ findet heute das
+letzte \0Insektikus-Turnier\0￿ der Saison
+auf dem Festplatz statt!"
+"007_01","(촀\0Ist es denn zu glauben?
+\0
+Heute ist der letzte Tag von Z\0!
+\0
+(촀\0Ein bedeutsames Jahr für mich...
+( 촀\0Ach je!
+\0\0\0(촀\0Ich wechsle lieber das Thema, 
+\0bevor
+ich das Mikrofon nassweine.\0\0(촀\0Als kleine Silvesterfeier veranstalten
+wir einen \0Countdown\0￿ auf dem
+Festplatz.
+(촀\0Wir werden den ganzen Tag Dinge
+verkaufen und verschenken,
+\0 (%촀\0also
+kommt vorbei und feiert mit!
+(촀\0Ich kann es kaum erwarten,
+\0 das neue
+Jahr zusammen mit euch allen auf
+der Insel einzuläuten!"
+"007_02","(촀\0Guten Abend!
+\0 Auf dem Festplatz
+findet gerade ein \0Countdown\0￿ für
+Silvester statt!
+Ò\0\0\0(%촀\0Das neue Jahr bricht schon bald
+an, 
+\0also beeilt euch!
+\0\0\0(""촀\0Wir sehen uns auf dem Festplatz!
+Ò"
+"010","(촂\0Hallo miteinander!
+\0 Ich störe euch nur
+ungern in eurem Tagesablauf, 
+\0aber
+ich wollte euch etwas mitteilenn\0\0
+(\0촂\0Es ist jetzt Z\0:Z\0 Uhr
+\0 (촀\0und somit
+Zeit für eine Insel-Durchsage!"
+"011_01","(촀\0Oh,
+\0 heute hat n\0 Geburtstag!"
+"011_02","(촀\0Oh,
+\0 heute hat s\0촀 Geburtstag!
+"
+"011_03","(촀\0Oh,
+\0 heute hat s촀 Geburtstag!"
+"012_01_01","(촀\0Oh,
+\0 heute haben mehrere unserer
+Bewohner Geburtstag,
+\0 und zwar
+n\0 undn"
+"012_01_02","(촀\0Oh,
+\0 heute haben mehrere unserer
+Bewohner Geburtstag,
+\0 und zwar
+s\0촀 undn"
+"012_02_01","s\0촀!"
+"012_02_02","s촀!"
+"012_02_03","(촀\0Noch viele andere!
+\0 Toll, 
+\0dass hier
+so viele am selben Tag Geburtstag
+haben!
+\0 Hihi!"
+"013_01","(촀\0Herzlichen Glückwunsch!"
+"013_02","(촀\0Herzlichen Glückwunsch!"
+"021","Hier nun das Neueste für heute..."
+"022","Weiter mit dem Neuesten von
+heute..."
+"031","Und hier die nächste Neuigkeit..."
+"101","(촀\0Wir haben jemand Neues auf unserer
+Insel!
+\0 Heißen wir s촀 auf n\0 willkommen!"
+"102","<"
+"102_01","(촀\02\0s촀, 
+\0ich denke, ich spreche für alle, 
+\0wenn ich sage, dass es uns freut, 
+\0dich hierzuhaben!"
+"102_02","(촀\0Willkommen, s촀!
+\0
+Ich bin sicher, 
+\0dass dir das Leben
+auf unserer Insel gefallen wird!"
+"102_03","(촀\0Es freut mich immer sehr, 
+\0neue Leute
+auf der Insel begrüßen zu dürfen!"
+"200","Und leider muss ich auch noch
+das Folgende verkündenn"
+"201","Morgen verabschieden wir uns auf n\0 von 2&촀unseremunserer\0 2&촀FreundFreundin\0 s촀.\0\0Es ist kein leichter Abschied, 
+\0aber
+wir wünschen 2촀ihmihr\0 Glück bei 2 촀seinen
+ihren\0
+nächsten Abenteuern.\0\0Schaut heute noch mal für ein letztes
+Gespräch bei 2촀ihmihr\0 vorbei.
+\0 Und nehmt
+vielleicht Taschentücher mit."
+"301","(촀\0Heute haben wir Besuch auf dem
+\0Campingplatz\0￿!"
+"302","<"
+"302_01","(촀\0Ich hoffe, ihr alle begrüßt unseren
+neuen Gast!"
+"302_02","(촀\0Ich hoffe, 
+\0dass unser Gast selbst
+sehen kann, 
+\0was n\0 so besonders macht!"
+"302_03","(촀\0Schaut doch mal auf einen Plausch
+bei unserem Gast vorbei!"
+"600","<"
+"600_01","(촀\0Oh, eine Sache noch!"
+"600_02","(촀\0Huch, fast hätte ich es vergessen..."
+"600_03","(촀\0Oh!
+\0(촀\0 Das hier ist noch wichtig!"
+"602","(촀\0Der Wetterbericht sagt, 
+\0dass uns
+heute Nacht ein seltenes Schauspiel
+erwartet:
+\0 \0Sternschnuppen\0￿!\0\0(1촀\02\0n\0 im Glanz eines Himmels voller Sternschnuppen...
+\0 (촀\0Das wird ein magischer Anblick!\0\0(촀\0Wenn ihr könnt, geht heute Nacht
+nach draußen und schaut zum
+Himmel!"
+"603","(촀\0Genau jetzt ist der Himmel über
+n\0 voller funkelnder \0Sternschnuppen\0￿!\0\0(촀\0Es ist mit das Schönste, was ich je
+gesehen habe, 
+\0also schaut mithilfe
+von \0 (rechter Stick) \0￿nach oben.\0\0(촀\0
+\0Und es kommt noch besser!
+\0()촀\0 Wünscht
+man sich mithilfe von \0\0￿ etwas von
+einer Sternschnuppe, wird es wahr!\0\0(7촀\0Ich weiß nicht, ob das stimmt, aber
+ein Versuch kann ja nicht schaden.
+\0
+(촀\0Ich wünsche euch viel Glück!"
+"610","(%촀\0Heute gibt es eigentlich keine
+erwähnenswerten Neuigkeitenn\0\0
+\0(촀\0
+Deshalb nur etwas zur Jahreszeit!(촀"
+"611_01","(촀\0Ich bin heute Morgen am Strand
+entlanggelaufen und habe seltene,
+\0
+bunte \0Sommermuscheln\0￿ gesehen!\0\0Wie der Name schon sagt, 
+\0(%촀\0findet man
+sie nur im Sommer."
+"611_02_01","Sucht euch ein paar zusammen (촀\0und
+bastelt euch schöne Andenken an
+den Sommer!"
+"611_02_02","(촀\0Ich habe jedem mit der App für
+\0Bastelanleitungen\0￿ eine Anleitung für
+einen \0Muscheltürkranz\0￿ geschickt.\0\0(%촀\0Das wäre doch ein schönes
+Bastelprojekt!"
+"611_03","(촀\0Also sammelt ein paar zusammen
+und bastelt euch Sommerandenken,
+\0
+bevor er wieder vorbei ist!"
+"612_01","(촀\0Bei meinem Morgenspaziergang habe
+ich gesehen, 
+\0dass die Bäume schon
+ihre Früchte verlieren.\0\0(촀\0Wie herbstlich!\0\0()촀\0Manchmal findet man beim
+Bäumeschütteln \0Eicheln\0￿ oder
+\0Zapfen\0￿.\0\0(촀\0Dann legt mal los, 
+\0ran an die Bäume!"
+"612_01_01","(촀\0Bei meinem Morgenspaziergang
+habe ich einige Baumfrüchte auf
+dem Boden herumliegen sehen...\0\0(촀\0So langsam verabschiedet sich
+der Herbst!\0\0()촀\0Wer noch ein paar \0Eicheln\0￿ oder
+\0Zapfen\0￿ von den Bäumen schütteln
+will, 
+\0(촀\0sollte sich beeilen!"
+"612_02_01","( 촀\0
+\0Da fällt mir etwas ein!"
+"612_02_02","(촀\0Alle mit der \0Bastelanleitungen\0￿-App
+haben hoffentlich eine Anleitung für
+ein \0Baumfrucht-Bäumchen\0￿ erhalten.\0\0(%촀\0Ich freue mich schon auf all die
+Bäumchen, 
+\0die ihr basteln werdet!"
+"612_03","(촀\0Es wäre wunderbar, 
+\0ein paar schöne
+Basteleien mit Herbstbezug auf der
+Insel zu sehen."
+"613_01","(%촀\0Heute habe ich die Pilze bemerkt,
+\0 die
+überall auf der Insel wachsen.\0\0(촀\0Mmmn\0\0 Pilz-Pfannkuchenn\0\0\0\0(2촀\0Aber Pilze sind nicht nur lecker,
+\0
+man kann auch mit ihnen basteln!"
+"613_02_01","( 촀\0
+\0Oh, 
+\0ach ja!"
+"613_02_02","(촀\0Alle mit der \0Bastelanleitungen\0￿-App
+müssten von mir eine Anleitung für
+einen \0Pilztürkranz\0￿ bekommen haben.\0\0(\0촀\0Was wäre der Herbst ohne die
+klassische Kombination aus (촀\0Sammeln
+und Basteln!"
+"613_03","(%촀\0Glücklicherweise können alle Pilze
+auf dieser Insel bedenkenlos verzehrt
+werden.(촀\0
+(촀\0Aber es kann schwierig sein, 
+\0Pilze
+voneinander zu unterscheiden.\0\0()촀\0Fragt im Zweifelsfall lieber einen
+Experten, 
+\0bevor ihr einen Pilz esst,
+\0
+den ihr nicht erkennt.(촀\0
+"
+"614_01","(+촀\0An verschneiten Tagen wie heute
+friere ich immer bis auf die Knochen.\0\0(촀\0Aber zum Glück wärmen
+\0 (촀\0all die
+perfekten, 
+\0kleinen \0Schneeflocken\0￿
+mir mit ihrem Tanz das Herz!\0\0(2촀\0Manchmal fange ich sie ganz
+vorsichtig mit dem \0Kescher\0￿, 
+\0um
+sie mir genauer anzusehen."
+"614_02_01","( 촀\0
+\0Ach, richtig!"
+"614_02_02","(촀\0Wer die App für \0Bastelanleitungen\0￿
+hat,
+\0 sollte eine Anleitung für einen
+\0Schneeflockentürschmuck\0￿ haben.\0\0Wenn ihr also wie ich gern Schnee-
+flocken fangt,
+\0(촀\0 könnt ihr mit ihnen
+jetzt hübsche Winterdeko basteln!"
+"614_03","(%촀\0Ich kann nur jedem empfehlen, 
+\0es
+selbst auszuprobieren.\0\0(\0촀\0Und dann könnt ihr mit den
+\0Schneeflocken\0￿ (촀\0etwas schön
+Winterliches basteln!"
+"615","(+촀\0Puh!
+\0 Wieder so ein Tag, 
+\0wo einem die
+Kälte durch und durch geht...\0\0(촀\0Gleichzeitig sind solche Tage perfekt
+dafür, 
+\0draußen im Schnee zu spielen!\0\0()촀\0Und wenn ihr euch raus in die Kälte
+wagt,
+\0 achtet auf Schneebälle auf dem
+Boden und rollt sie ein bisschen.
+(촀\0Wenn sie groß genug sind,
+\0 könnt ihr
+zwei aufeinanderpacken und so
+einen \0Schneemann\0￿ bauen!\0\0(촀\0Ich hoffe,
+\0 dass ich bei meinem
+Spaziergang morgen eine ganze
+\0Schneemann\0￿-Parade sehe!"
+"616_01","(촀\0Während ich mich heute geistig
+auf den Tag vorbereitet habe, 
+\0(촀\0hat
+mich ein \0Herbstblatt\0￿ unterbrochen!\0\0(\0촀\0Als ich es mir vom Kopf geklaubt
+habe,
+\0 (1촀\0ist mir aufgefallen, 
+\0dass der
+Herbst wohl zu Ende geht.\0\0(%촀\0Genießt diese schöne Jahreszeit,
+\0
+(+촀\0bevor der Winter anbricht!"
+"616_02_01","( 촀\0
+\0Ah!"
+"616_02_02","(촀\0Ich habe Nutzern der App für
+\0Bastelanleitungen\0￿ eine Anleitung für
+einen \0Laubhaufen in Rot\0￿ geschickt!"
+"616_03","()촀\0Ihr könnt \0Herbstblätter \0￿mit dem
+\0Kescher\0￿ auffangen.\0\0Und dann könnt ihr mit ihnen etwas
+\0basteln\0￿,
+\0(촀\0 das euch das ganze Jahr
+über an den Herbst erinnert."
+"617_01","(&촀\0Habt ihr heute Morgen auch
+\0Kirschblüten \0￿in der Luft gesehen?
+\0
+(촀\0Einfach zauberhaft!\0\0(촀\0Schade, 
+\0dass es sie nur so kurz gibt.
+\0(
+Aber vielleicht ist das Teil des
+Zaubers..."
+"617_02_01","( 촀\0
+\0Ach, noch etwas!"
+"617_02_02","(%촀\0Ich habe allen Nutzern der App für
+\0Bastelanleitungen\0￿ eine Anleitung für
+ein \0Picknick-Set\0￿ geschickt.(촀\0\0\0Packt euch etwas Essen ein
+\0(촀\0 und
+genießt es unter den wunderschön
+blühenden Bäumen!"
+"617_03","(촀\0Mein Tipp: Fangt die \0Kirschblüten\0￿
+ganz vorsichtig mit dem \0Kescher\0￿.\0\0(%촀\0Dann könnt ihr mit ihnen etwas ganz
+Besonderes basteln!"
+"618_01","(1촀\0Heute habe ich Bambus gesehen und
+dabei ist mir etwas eingefallen...\0\0(&촀\0Habt ihr gewusst, 
+\0dass man um diese
+Jahreszeit frischen Bambus oder
+auch \0Frühlingsbambus\0￿ erntet?"
+"618_02_01","( 촀\0
+\0Das erinnert mich an noch etwas..."
+"618_02_02","(%촀\0Alle Nutzer der \0Bastelanleitungen\0￿-
+App haben die Anleitung für eine
+\0Nudelrutsche\0￿ von mir bekommen.
+(3촀\0Ein exklusives Bastelprojekt, 
+\0dessen
+Material ihr nur um diese Jahreszeit
+findet!"
+"618_03","( 촀\0Was mich wiederum daran erinnert,
+\0
+euch daran zu erinnern,
+\0(촀\0 fleißig zu
+basteln, 
+\0was die Jahreszeit hergibt!"
+"619_01","(촀\0Von Mitte Dezember bis Anfang
+Januar sind die Nadelbäume auf
+der Insel mit Lichtern dekoriert!\0\0(촀\0Ich habe mir wirklich Mühe gegeben
+damitn\0\0
+\0(7촀\0 Aber so ganz bin ich vom
+Ergebnis nicht überzeugt.\0\0(촀\0Ich bin an einem der geschmückten
+Bäume hängengeblieben, 
+\0und ein Teil
+der Deko ist runtergefallen.\0\0(촀\0Ich will gar nicht daran denken, 
+\0was
+passieren könnte, 
+\0wenn jemand
+so einen Baum schütteltn\0\0\0\0(촀\0
+\0Wenn ihr heruntergefallenen
+\0Baumschmuck \0￿seht, 
+\0hebt ihn bitte
+auf,
+\0(촀\0 um die Insel sauber zu halten."
+"619_02_01","( 촀\0
+\0Oh, 
+\0fast vergessen!"
+"619_02_02","(촀\0Ich habe in den \0Bastelanleitungen\0￿
+eine Anleitung herumgeschickt.
+\0
+(촀\0Für einen \0Dekotürkranz\0￿!\0\0(
+촀\0Für dieses Projekt wäre etwas
+von dem heruntergefallenen
+\0Baumschmuck\0￿ wohl ganz praktisch..."
+"619_03","(
+촀\0Vielleicht könnte man mit dem
+heruntergefallenen \0Baumschmuck
+\0￿ja auch etwas basteln..."
+"701","(
+촀\0Hmmn\0\0
+\0 Heute gibt es eigentlich gar
+keine Neuigkeitenn\0\0
+\0 Abern\0\0(촀"
+"702","<"
+"702_01","(촀\0Heute erscheint die neue Ausgabe
+meines Lieblingsmagazins!
+\0 Ich freue
+mich schon darauf, es zu lesen!"
+"702_02","(촀\0Hört mal!
+\0 Ich habe endlich mein
+Kreuzworträtsel gelöst!
+\0 Und das
+war ganz schön schwer!"
+"702_03","(촀\0Ich habe mit meinen Eltern
+per Videochat gesprochen,
+\0
+und es geht ihnen toll!"
+"702_04","(촀\0Ich habe heute mein Horoskop
+gelesen, und ich werde ganz viel
+Glück haben!"
+"702_05","(촀\0Ich habe gestern eine lang vermisste
+Lieblingssocke wiedergefunden!
+\0 Sie
+war hinter der Waschmaschine!"
+"703_01","(촀\0Einmal habe ich Kirschen gegessen
+und danach aus den Stielen ein
+Armband geflochten!"
+"703_02","(촀\0Habt ihr schon mal Obst geschält,
+und die Schale ist in einem Stück
+geblieben?
+\0(촀\0 Fühlt sich gut an, 
+\0oder?"
+"801","(촀\0Heute gibt es keine Neuigkeiten, also
+habe ich außer lieben Grüßen an alle
+nichts zu sagen!"
+"802","<"
+"802_01","(촀\0Obwohl, 
+\0da fällt mir etwas einn"
+"802_02","(촀\0Oh, 
+\0Moment!"
+"802_03","(촀\0Oh, 
+\0eines gäbe es wohl dochn"
+"803","(
+촀\0Obwohl wir ja streng genommen
+ein neues Datum haben, 
+\0(촀\0und das
+bedeutetn"
+"804_01_01","(%촀\0Es ist Ende Januar!(촀\0
+\0
+Der erste Monat des Jahres ist schon
+fast wieder vorbei!\0\0Im Februar bleibt es wahrscheinlich
+kalt,
+\0 also zieht euch weiter warm an,
+\0
+damit ihr euch nicht erkältet!
+\0(,촀\0\0\0(2촀\0Oh!
+\0 Ähmn\0\0
+\0 (7촀\0Denkt daran, 
+\0euch die
+Hände zu waschen!
+\0 Und bedeckt
+beim Husten oder Niesen den Mund!\0\0(촀\0So wird es schwieriger für
+Erkältungen, sich auszubreiten!\0\0(촀\0So, 
+\0und das war es dann von mir!"
+"804_01_02","(%촀\0Es ist Ende Januar!(촀\0
+\0
+Der erste Monat des Jahres ist schon
+fast wieder vorbei!\0\0(촀\0Verabschiedet euch also vom Januar
+\0
+und lasst ihn vielleicht noch mal kurz
+Revue passieren!"
+"804_02_01","(%촀\0Der Februar ist wie im Flug
+vergangen!
+\0 Na ja,
+\0 er ist ja
+auch etwas kürzer.\0\0(촀\0So oder so hoffe ich, 
+\0dass ihr alle
+einen schönen Monat hattet!"
+"804_02_02","Bald bricht der März an!
+\0(%촀\0 Der Februar
+ist wie im Flug vergangen!
+\0 Na ja,
+\0 er
+ist ja auch etwas kürzer.\0\0(촀\0Ich hoffe jedenfalls, der kommende
+März wird genauso schön!"
+"804_03","(\0촀\0Der März neigt sich dem Ende zu!
+\0
+(&촀\0Wie ist er für euch gelaufen?
+\0
+
+\0(촀\0Ich hoffe doch gut!\0\0(촀\0In jedem Fall wünsche ich euch allen,
+\0
+dass der April euch viel Freude bringt!"
+"804_04_01","(촀\0Der April geht zu Ende!
+\0
+Kaum ist der Frühling da,
+\0 (촀\0ist er auch
+fast schon wieder weg!\0\0(촀\0Aber das hält uns nicht davon ab,
+\0
+(""촀\0das Beste aus dem Mai zu machen,
+\0
+oder?
+\0 Und das war es dann von mir!"
+"804_04_02","(%촀\0Findet ihr nicht auch,
+\0 dass es Ende
+April schon recht frisch ist?\0\0(촀\0Zieht ihr euch schon wärmer an?\0\0Ich bin schon gespannt auf eure
+Herbst-Outfits!
+\0
+(""촀\0Das war es dann von mir!"
+"804_05_01","(촀\0Heute müssen wir uns dann
+wohl vom Mai verabschieden!\0\0Bald wird es wärmer, 
+\0(촀\0also stellt euch
+schon mal darauf ein!"
+"804_05_02","(촀\0Heute müssen wir uns dann
+wohl vom Mai verabschieden!\0\0Es könnte bald kälter werden, (촀\0also
+bereitet euch vor!
+\0 Dass mir hier bloß
+niemand eine Erkältung bekommt!"
+"804_06","(%촀\0Das Jahr ist schon halb vorbei!(촀\0\0\0Ist es für euch schnell vergangen?
+\0
+Oder doch eher langsam?\0\0Mein Ziel für die zweite Jahreshälfte
+ist es, 
+\0euch das Leben hier noch
+schöner zu machen!\0\0(촀\0
+\0So, 
+\0das war es dann von mir!"
+"804_07_01","Jetzt, da der Juli endet,
+\0(촀\0 beginnt die
+Hochphase des Sommers!\0\0(\0촀\0Und?
+\0 (&촀\0Was macht ihr so diesen
+Sommer?\0\0(촀\0Wenn ihr eine Reise plant, 
+\0gibt es
+jede Menge interessante Ziele!\0\0(촀\0Aber kommt mir gut nach
+n\0 zurück!\0\0(""촀\0So, 
+\0das war es dann von mir!"
+"804_07_02","(%촀\0Jetzt, da der Juli endet,
+\0(촀\0 geht der
+Winter langsam so richtig los!\0\0(\0촀\0Zieht euch anständig an, 
+\0wenn ihr
+vor die Tür geht.
+\0 Es ist wichtig,
+sich warmn\0\0
+\0(,촀\0\0\0(2촀\0Oh!
+\0 (7촀\0Ich muss daran denken, 
+\0mir
+beim Niesen oder Husten die Hand
+vor den Mund zu halten!\0\0(""촀\0So, 
+\0das war es dann von mir!"
+"804_08_01","(촀\0Ist es tatsächlich schon Ende
+August?\0\0(촀\0Ein paar warme Tage werden wir
+bestimmt noch haben, 
+\0aber nicht
+mehr lang, 
+\0und es wird wieder kalt!\0\0(촀\0Bereitet euch schon mal auf
+plötzliche Kälteeinbrüche vor...
+\0( (촀\0Hihi!
+\0
+Ich klinge wie eine Meteorologin!"
+"804_08_02","(촀\0Wir haben Ende August,
+\0 und es gibt
+Grund zur Freude!\0\0(촀\0Bald ist es vorbei mit der Kälte,
+\0
+und der Frühling beginnt!\0\0(촀\0Manchmal kann einem der Wechsel
+der Jahreszeiten aufs Gemüt
+schlagen.
+\0(촀\0 Passt also auf euch auf!"
+"804_09_01","(\0촀\0Der September ist fast vorbei,
+\0
+also wird es bald etwas frischer.\0\0(촀\0Zeit für die Herbstgarderobe!\0\0Ich kann es kaum erwarten zu sehen,
+\0
+was ihr euch modetechnisch so alles
+einfallen lasst!\0\0(""촀\0So, 
+\0das war es dann von mir!"
+"804_09_02","(촀\0Heute geht der September zu
+Ende!\0\0Es heißt ja, dass der Frühling die Zeit
+ist, 
+\0wo vieles neu beginnt, aber auch
+manches endet.\0\0(&촀\0Hat sich in eurem Leben etwas
+verändert?
+\0 (촀\0Ich wünsche euch allen
+jedenfalls einen tollen Oktober!
+\0
+(""촀\0So, 
+\0das war es von mir!"
+"804_10_01","(촀\0Es ist Halloween, 
+\0und das
+bedeutet Kostüme!
+\0 Werdet ihr
+euch alle verkleiden?\0\0(
+촀\0Manche von euch gehen bestimmt
+auf Kostümpartys, 
+\0(촀\0andere lassen es
+lieber ruhiger angehen.
+(촀\0Egal, was ihr macht, 
+\0ich hoffe, es
+macht euch viel Spaß!"
+"804_10_02","(촀\0Es ist Halloween, 
+\0und das bedeutet
+Kostüme!
+\0 Habt ihr euch heute
+verkleidet?\0\0(
+촀\0Manche von euch waren bestimmt
+auf Kostümpartys, 
+\0(촀\0andere haben es
+ruhiger angehen lassen.
+(촀\0Egal, was ihr unternommen habt,
+
+\0ich hoffe, 
+\0es hat euch viel Spaß
+gemacht!(촀"
+"804_11","(%촀\0Kaum zu glauben, 
+\0dass der November
+und auch das Jahr fast schon vorbei
+sind!\0\0(촀\0Ich werde mein Bestes geben, 
+\0um
+eine schöne Feier zum Jahresende
+auf die Beine zu stellen!
+(""촀\0Und das war es von mir!"
+"804_12",""
+"805","(촀\0Heute habe ich keine großen
+Neuigkeiten!\0\0(%촀\0Aber uns steht eine neue Woche
+bevor, und ich wünsche euch, 
+\0dass
+sie so wird, wie ihr es euch vorstellt!(촀\0\0\0(""촀\0Und das war es von mir!"
+"806","<"
+"806_01","Keine Neuigkeiten heute!
+\0
+(촀\0Gehen wir jetzt die neue Woche an,
+ja?
+\0 (""촀\0Und das war alles von mir!"
+"806_02","Nichts Neues heuten\0\0\0\0(촀\0Aber ich werde mich bemühen, euch
+auch diese Woche unterhaltsame und
+informative Nachrichten zu bringen.\0\0(""촀\0Und das war es von mir!"
+"807","(
+촀\0Mir fällt nichts Erwähnenswertes ein.
+\0
+(촀\0Es ist erst Dienstag, 
+\0teilt euch eure
+Kräfte ein. 
+\0(촀\0Nicht überanstrengen!\0\0(""촀\0Und das war es von mir!"
+"808","(1촀\0Gibt's denn wirklich keine
+Neuigkeiten heute, die ich
+verkünden kann?\0\0(%촀\0Sieht ganz so aus!
+\0(촀\0 Aber immerhin
+ist die Hälfte der Woche schon
+geschafft!
+\0 (!촀\0Gebt weiterhin alles!\0\0(""촀\0Und das war es von mir!"
+"809","(촀\0Es gibt keine Neuigkeiten heute!\0\0(촀\0Einen tollen Donnerstag euch allen,
+\0
+(촀\0und bald ist Freitag!\0\0(1촀\0Ich kann das Wochenende fast schon
+spüren...\0\0(""촀\0Und das war es von mir!"
+"810","(촀\0Keine nennenswerten Meldungen
+heute!
+\0 (7촀\0Bin das nur ich, oder ist die
+Woche wie im Flug vergangen?\0\0(촀\0Ich weiß, wie hart ihr alle
+gearbeitet habt, 
+\0(""촀\0also genießt
+euer Wochenende!"
+"811","(촀\0Nichts Neues heute.
+\0 Dann bleibt mir
+nur, euch ein schönes Wochenende
+auf n\0 zu wünschen!"
+"820","(
+촀\0Hmmn\0\0
+\0 Heute gibt es eigentlich gar
+keine Neuigkeitenn"
+"821","(촀\0Oh! 
+\0((&촀\0Hat jemand den Film gestern im
+Fernsehen gesehen?
+\0
+\0 ()촀\0Den, der die
+ganze Zeit wiederholt wird?
+(1촀\0Ich habe ihn so oft gesehen und bin
+trotzdem am Ende jedes Mal total
+überrascht.
+\0 (촀\0Jedes Mal!"
+"822","(촀\0Ach ja! 
+\0(&촀\0Hat sich noch jemand die
+Quiz-Sendung gestern angesehen?\0\0(
+촀\0Wie kommen die nur jede Woche auf
+diese ganzen Fragen?
+\0 Von den
+Antworten ganz zu schweigenn"
+"823","(촀\0Hey! 
+\0(&촀\0Hat gestern jemand die Varieté-
+Show im Fernsehen gesehen?\0\0(촀\0Der Komiker war fantastisch!
+\0
+Ich habe bestimmt eine Stunde
+lang gelacht!\0\0(촀\0Das hat schon ein bisschen
+wehgetan..."
+"824","(촀\0Oh! 
+\0(&촀\0Hat vielleicht jemand gestern die
+Talkshow gesehen? 
+\0Im Fernsehen? 
+\0
+(%촀\0Ihr wisst schon.
+(촀\0Die Gäste sind ganz interessant,
+\0
+(촀\0aber die Gastgeber sind solche
+Plaudertaschen!\0\0(1촀\0Sie redenn\0\0
+\0 und redenn\0\0
+\0 und redenn"
+"825","(촀\0Hey! 
+\0(&촀\0Hat irgendwer die Kochshow
+gestern gesehen?\0\0(촀\02L촀Der scharfeDie scharfeDas scharfe 촀 hat sehr lecker ausgesehen!\0\0(촀\0Vielleicht probiere ich das Rezept
+heute mal selbst aus.
+\0 Wünscht mir
+viel Glück!"
+"826","(촀\0Hat denn gestern jemand den
+Dokumentarfilm im Fernsehen
+gesehen?\0\0(촀\0Es ging um die Geschichte 2!촀desderdes
+2촃촀.
+\0 Wirklich sehr informativ!\0\0()촀\0Zum Beispiel weiß ich jetzt, dass
+mich Filme über 촀 direkt einschlafen lassen!(촀\0
+"
+"827","(촀\0Sagt mal! 
+\0
+\0(&촀\0Hat sich noch jemand
+gestern im Fernsehen das Konzert
+angeschaut?\0\0(촀\0Meine Lieblingsband war mit dabei,
+\0
+(촀\0und ich habe ihre Musik immer noch
+im Kopf!"
+"828","(촀\0
+\0Ach du liebe Zeitn\0\0 (2촀\0Da rede ich
+wieder mal nur übers Fernsehen...
+\0
+Tut mir leid!"
+"831","<"
+"831_01","(촀\0Huch!
+\0 Ich habe völlig vergessen,
+\0
+dass gestern Einsendeschluss für
+dieses eine Preisausschreiben war..."
+"831_02","(촀\0Oh nein!
+\0(촀\0 Ich habe heute Morgen
+meine Wäsche draußen gelassen!"
+"831_03","(촀\0Oh!
+\0 Ich habe mein Handy nicht
+aufgeladen letzte Nacht...
+\0(촀\0 Was,
+\0
+wenn es plötzlich einen Notfall gibt?"
+"831_04","(촀\0Au weia!
+\0 Ich sollte ja meinen Bruder
+heute Morgen anrufen, 
+\0um ihn
+aufzuwecken!\0\0(촀\0Hoffentlich schläft er nicht immer
+noch..."
+"899","(촀\0Ähn\0\0
+\0 (촀\0Du liebe Güte.
+\0(2촀\0 Das waren jetzt
+nicht wirklich „Neuigkeiten“, 
+\0oder?"
+"901","<"
+"901_01","So,
+\0 damit sind wir für heute am Ende.
+\0
+(촀\0Ich wünsche euch allen noch einen
+wunderschönen Tag!"
+"901_02","So, das war's für heute.
+\0
+(촀\0Dann noch viel Spaß euch allen!"
+"901_03","(촀\0Und damit mache ich mich wieder
+daran, 
+\0euch das Inselleben so
+angenehm wie möglich zu gestalten!"

@@ -1,0 +1,195 @@
+﻿"label","text"
+"050","(촀\0Ah,
+\0 tu veux envoyer une carte ?
+\0( (2촀\0Euh,
+\0
+je m'en charge,
+\0 bien sûr,
+\0 maisn\0\0 le
+multitasking, c'est pas trop mon truc.\0\0(&촀\0Ça te dérange pas si je ferme l'accès
+pendant ce temps ?"
+"050_a","Pas de problème !"
+"050_b","Ne ferme pas !"
+"051","(촀\0Merci de ta compréhension.
+\0
+Dans ce cas,
+\0(촀\0 je ferme l'accès !"
+"052","(촀\0Désolé pour l'attente !"
+"070","(&촀\0Tu veux envoyer une carte ?"
+"070_a","Oui !"
+"070_b","Pas maintenant."
+"080","(촀\0Dis-moi tout.
+\0 (\0촀\0À qui est-ce que
+tu veux envoyer une carte ?"
+"080_a","Un habitant de l'île."
+"080_b","M2
+ona moi du futur."
+"080_c","Laisse tomber."
+"200","(%촀\0À un habitant de cette île,
+\0 okidodoki.
+\0(
+(&촀\0Etn\0\0 c'est qui ?"
+"210_01","(촀\0C'est pour s\0촀 ?
+\0
+Ça marche !"
+"210_02","(촀\0C'est pour s촀 ?
+\0
+Okidodoki !"
+"210_03","(촀\0C'est pour n\0 du futur ?
+\0 OK,
+\0 ça marche !"
+"220_01","(%촀\0Choisis une carte et écris ton
+message dessus !(촀"
+"220_02","Très bien. 
+\0Voilà ta carte !"
+"290","(촀\0Désolé, je croule sous le courrier en
+retard, je ne peux pas accepter plus
+de cartes pour le moment.\0\0(촀\0Est-ce que tu crois que tu peux
+revenir plus tard, le temps que je
+fasse un peu de tri dans tout ça ?"
+"320","( 촀\0Euh, on dirait que tu as déjà envoyé
+deux cartes à s\0촀 aujourd'hui.\0\0(촀\0Si tu attendais demain pour lui écrire
+à nouveau ?"
+"400",""
+"401","(촀\0Alors, quand est-ce que tu voudrais
+la recevoir, cette carte ?"
+"402","(&촀\0Tu veux qu'elle arrive chez toi
+le Z$촀 Z#촀 Z""촀 ?"
+"402_a","C'est bien ça."
+"402_b","Non, un autre jour."
+"410","No problemo. Choisis la date que
+tu veux."
+"415","(\0촀\0Okidodokn\0\0 Euh, attends !
+\0 Tu as déjà
+envoyé une carte à t2
+ona futur2\0e toi !\0\0()촀\0Si tu veux en envoyer une autre,
+tu vas devoir annuler la première."
+"416","(촀\0J'allais te rendre le cadeau joint à la
+carte,
+\0(촀\0 mais on dirait que tu n'as plus
+de place.
+(7촀\0Repasse après avoir libéré un peu
+d'espace,
+\0 OK ?(\0촀"
+"420","(%촀\0Okidodoki,
+\0 j'ai annulé ta précédente
+carte.
+\0 (촀\0Il ne te reste plus qu'à écrire
+la nouvelle."
+"420_01","(%촀\0OK,
+\0 je vais jeter la précédente carte
+que tu avais envoyée à t2
+ona futur2\0e toi.\0\0(촀\0Tu n'as plus qu'à écrire ton nouveau
+message à toi-même sur cette carte."
+"421","(\0촀\0Okidodoki.
+\0(%촀\0 Je te rends le cadeau que
+tu avais joint à ta carte,
+\0 et je ne la
+garde pas plus longtemps.(\0촀\0
+(촀\0Choisis donc une nouvelle carte pour
+écrire ton message !"
+"421_01","(\0촀\0Okidodoki.
+\0(%촀\0 Je te rends le cadeau que
+tu avais joint à ta carte,
+\0 et je ne la
+garde pas plus longtemps.(\0촀\0
+(촀\0Tu n'as qu'à modifier cette carte
+pour écrire le message que tu veux
+à t2
+ona futur2\0e toi !"
+"500","(촀\0Je te prends la modique somme de
+\0200 clochettes\0￿ pour les frais de port."
+"501","(촀\0Et voilà,
+\0 ta carte est partie !"
+"502","(촀\0Mille mercis !
+\0 Je veillerai à ce que
+ta carte arrive le jour indiqué !"
+"510","(촀\0Euh,
+\0 désolé,
+\0 (촀\0mais je peux pas te faire
+de réduc.
+\0((촀\0 Reviens quand tu auras
+\0200\0￿ clochettes à me donner !
+Je garde ta carte bien au chaud en
+attendant.
+\0(촀\0 Je te promets de ne pas
+la lire !"
+"520","(촀\0Ah, tu dois partir ? 
+\0(%촀\0Je garde ta carte
+bien au chaud,
+\0 au cas où tu voudrais
+la continuer plus tard."
+"521","(촀\0Oh, tu t'arrêtes là ?
+\0(%촀\0 Je garde ta carte
+au chaud,
+\0 au cas où tu voudrais la
+continuer plus tard.(촀"
+"522","(촀\0Tu ne veux plus envoyer cette
+carte ?
+\0(촀\0 Ça marche.
+\0 (촀\0Si tu as besoin
+d'autre chose,
+\0 n'hésite pas !"
+"523","(&촀\0Tu dois partir ? 
+\0(촀\0No problemo.
+\0
+Tu sais où me trouver si tu as
+besoin de moi."
+"550","($촀\0Ah, tiens, je te rends l'objet que tu
+avais joint à la carte."
+"551","(촀\0Ah ! 
+\0Juste une chosen\0\0(\0촀\0(2촀\0 Je n'ai pas
+assez de place pour stocker les
+cadeaux ici,
+\0 donc je te rends ça."
+"552","(촀\0Je suis là si tu as besoin de moi !"
+"600","( 촀\0Tu veux écrire une carte ?\0\0(%촀\0Euh,
+\0 j'en ai une ici que tu avais
+commencée pour s\0촀."
+"601","( 촀\0Tu veux écrire une carte ?\0\0(%촀\0Euh,
+\0 j'en ai une ici que tu avais
+commencée pour s촀."
+"602","( 촀\0Tu veux écrire une carte ?\0\0(%촀\0Euh,
+\0 j'en ai une ici que tu avais
+commencée pour t2
+ona futur2\0e toi."
+"604","Concernant ton courriern\0\0(%촀\0 J'ai ici une
+carte que tu avais commencée.
+\0(촀\0 Je te
+sors ça !"
+"610","(촀\0Désolé, mais on dirait bien qu'on
+ne peut plus rien envoyer à s\0촀.\0\0(&촀\0Tu veux adresser cette carte à
+quelqu'un d'autre ?
+\0 (\0촀\0Sinon je peux
+tout simplement la jeter."
+"610_a","Changer de destinataire."
+"610_b","Jeter."
+"611","(촀\0Désolé, mais on dirait bien qu'on
+ne peut plus rien envoyer à s촀.\0\0(&촀\0Tu veux adresser cette carte à
+quelqu'un d'autre ?
+\0 (\0촀\0Sinon je peux
+tout simplement la jeter."
+"611_a","Changer de destinataire."
+"611_b","Jeter."
+"620","À qui est-ce que tu veux l'envoyer ?"
+"620_a","Un habitant de l'île."
+"620_b","M2
+ona moi du futur."
+"630","(%촀\0Okidodoki, 
+\0je m'occupe de jeter
+cette carte pour toi."
+"800","(촀\0Merci d'avoir utilisé nos services !"
+"801","(%촀\0Okidodoki. 
+\0Repasse quand tu veux !"
+"802","(&촀\0Oh, tu es sûr2\0e ?
+\0 Ça marche !
+\0
+(촀\0Reviens quand tu veux !"
+"803","(촀\0Okidodoki !
+\0 Je garde ta carte au
+chaud jusqu'au jour de livraison."
+"804","(촀\0Okidodoki !\0\0()촀\0Je laisse la porte ouverte pour le
+moment.
+\0 (촀\0Si tu as besoin d'utiliser
+le service postal,
+\0 reviens me voir !"

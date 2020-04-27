@@ -1,0 +1,482 @@
+﻿"label","text"
+"000","(촀\0
+\0Ah, 
+\0n\0!
+\0 (""촀\0Hallo,
+\0 hallo!(촀"
+"000_01","(촀\0Hallo, 
+\0hallo!
+\0
+Du bist hier bei der \0Bauberatung\0￿.
+\0 (&촀\0Womit kann ich helfen,
+\0 hm?"
+"000_02","(촀\0
+\0Ah, 
+\0n\0!
+\0
+(""촀\0Willkommen zurück!(촀"
+"000_03","(촀\0
+\0Ah, anderes Thema..."
+"004_01","(촀\0Für \05000 Sternis\0￿ können wir das
+Äußere deines Hauses anpassen."
+"004_02","(촀\0Wir können das Äußere deines
+Hauses kostenlos anpassen!"
+"004_03","()촀\0Wenn du jetzt den Auftrag erteilst,
+ist morgen früh alles fertig.
+\0 (&촀\0Bist du
+interessiert?"
+"004_03_a","(%촀\0Ja, gern!"
+"004_03_b","('촀\0Ein andermal..."
+"005","(촀\0Äh...
+\0 Laut Firmenpolitik muss die
+Bezahlung im Voraus erfolgen.\0\0(\0촀\0Es sieht aber so aus, als hättest du
+nicht genug Sternis.
+\0(촀\0 Komm bitte
+wieder, wenn du genug Geld hast."
+"006","(촀\0Ausgezeichnet!
+\0 Dann zeige ich dir
+unseren Katalog, 
+\0und du suchst dir
+aus, was dir gefällt."
+"007","(&촀\0Hast du es dir anders überlegt?
+\0
+(촀\0Na, 
+\0du weißt ja, wo du mich findest,
+\0
+wenn du dein Haus umbauen willst."
+"008_01","(%촀\0Hmmmn\0\0
+\0(촀\0 Interessante Wahl!"
+"008_02","(촀\0Das macht dann bitte \05000 Sternis\0￿!"
+"009_01","(촀\0Besten Dank!"
+"009_02","(촀\0Ich kümmere mich darum, dass die
+Arbeiten bis morgen früh erledigt
+sind.
+\0 Freust du dich auch so wie ich?"
+"010","(촀\0Dein Auftrag zum Fassadenumbau
+ist bis morgen früh erledigt.
+\0
+(""촀\0Aufregend, 
+\0oder?"
+"012","(촀\0Du möchtest also etwas wegen
+deines Hauses besprechen?
+\0(촀\0 Oh!
+\0
+(촀\0Dazu muss ich dir erst etwas sagen.
+(\0촀\0Ich helfe nicht nur beim Umbau,
+\0(촀\0
+sondern auch bei \0Umzügen\0￿.\0\0(촀\0Und ein Umzug geht auch dann,
+\0
+wenn du noch einen Kredit
+abbezahlst.\0\0(""촀\0Lass es mich einfach wissen, 
+\0wenn
+du Interesse hast, 
+\0ja, 
+\0ja!"
+"013","(촀\0Ah, 
+\0möchtest du umziehen?\0\0(\0촀\0Wenn du einen neuen Ort gefunden
+hast, 
+\0(촀\0sorge ich dafür,
+\0 dass bis zum
+nächsten Morgen alles fertig ist.\0\0(\0촀\0Im Komplettpaket für \030.000 Sternis\0￿.
+\0
+(&촀\0Sollen wir anfangen, 
+\0hm?"
+"013_a","(%촀\0Bereit zum Umzug!"
+"013_b","('촀\0Lieber nicht..."
+"014","( 촀\0Wirklich?
+\0(촀\0 Na, 
+\0falls du doch noch
+möchtest, 
+\0weißt du, 
+\0wo du mich
+findest."
+"015","(촀\0Wunderbar!
+\0( Ähn\0\0 n\0,
+\0 (촀\0die Umzugsgebühr muss ich leider
+sofort kassieren.\0\0(\0촀\0Und im Moment scheinst du sie nicht
+zahlen zu können.
+\0(촀\0 Aber dann warten
+wir einfach, 
+\0bis du es kannst!"
+"016","()촀\0Wenn du einen Ort gefunden hast, 
+\0an
+den du ziehen möchtest,
+\0(촀\0 musst du
+ihn mit einem \0Umzugskit\0￿ markieren.\0\0(촀\0Aber es passt nicht mehr in deine
+Tasche.
+\0(촀\0 Versuchen wir es noch mal,
+\0
+wenn du etwas Platz hast!"
+"017","(촀\0Ja, ja! 
+\0Ausgezeichnet!
+\0(\0촀\0 Als Nächstes
+(촀\0musst du jetzt ein neues Grundstück
+finden."
+"018","()촀\0Du musst das neue Grundstück,
+\0 auf
+das du ziehen möchtest,
+\0(촀\0 dann noch
+für uns markieren.\0\0(\0촀\0Das nötige \0Umzugskit\0￿ findest du in
+deiner Tasche.
+\0(촀\0 So, 
+\0dann such dir mal
+ein hübsches Plätzchen!"
+"020","Ja, ja!
+\0 Ich habe deinen \0Umzugsantrag\0￿
+bereits im System.
+\0(&촀\0 Gibt es noch
+etwas zu besprechen?"
+"020_a","Umzug abbrechen!"
+"020_b","('촀\0Nein, nichts."
+"021","( 촀\0Oh?
+\0(\0촀\0 Keinen passenden Ort entdeckt?
+\0(촀\0
+Dann brechen wir den Umzug ab und
+du bekommst dein Geld zurück."
+"022","(촀\0Umziehen erfordert Vorbereitung,
+hm?
+\0( ()촀\0Du musst markieren, 
+\0wo du
+hinziehen möchtest.\0\0(촀\0Also finde ein Fleckchen und sperre
+es dann als Markierung mit 2.촀deinemdeinerdeinem
+}\0\0 ab!"
+"023","(촀\0Du hast ein Grundstück mit 2.촀deinemdeinerdeinem
+}\0\0 markiert?
+\0(\0촀\0\0\0(""촀\0Dann ist für morgen alles bereit!"
+"031","(촀\0Ah!
+\0((촀\0 Es gibt da etwasn\0\0
+\0(촀\0 über das wir
+reden sollten.\0\0(\0촀\0Hier bei mir am Schalter können sich
+Hausbesitzer melden, 
+\0wenn sie an
+einem \0Umzug\0￿ interessiert sind.\0\0(\0촀\0Und selbst (촀\0wenn du noch einen
+Kredit zu bezahlen hast, 
+\0(""촀\0steht dir die
+\0Eigenheim-Beratung\0￿ bei mir offen."
+"051","(촀\0Zeit, über dein Haus zu sprechen,
+\0
+hm?
+\0 (\0촀\0Da gibt es verschiedene
+Möglichkeiten.
+\0(&촀\0 Wie kann ich helfen?"
+"051_a","Ich will renovieren."
+"051_b","Ich will umziehen."
+"051_c","Nicht jetzt..."
+"052","(촀\0Sollen wir über dein Haus reden,
+\0
+hm?
+\0 (&촀\0Worum genau geht es denn?"
+"052_a","Ich will anbauen."
+"052_b","Ich will renovieren."
+"052_c","Nicht jetzt..."
+"053","(촀\0Zeit, über dein Haus zu sprechen,
+\0
+hm?
+\0 (\0촀\0Ich kann dir Anpassungen der
+Fassade anbieten.
+\0(&촀\0 Interesse, 
+\0hm?"
+"053_a","Ich will renovieren."
+"053_b","Nicht jetzt..."
+"054","(촀\0Sollen wir über dein Haus reden,
+\0
+hm?
+\0 (&촀\0Worum genau geht es denn?"
+"054_a","Ich will anbauen."
+"054_b","Ich will renovieren."
+"054_c","Ich will umziehen."
+"054_d","Nicht jetzt..."
+"055","(촀\0Sollen wir über dein Haus reden,
+\0
+hm?
+\0 (&촀\0Worum genau geht es denn?"
+"055_a","Ich will anbauen."
+"055_b","Ich will umziehen."
+"055_c","Nicht jetzt..."
+"056","(촀\0So, 
+\0jetzt habe ich dich lang genug
+warten lassen...
+\0((&촀\0 Wie kann ich dir
+helfen?"
+"056_a","Ich will anbauen."
+"056_b","Ich will umziehen."
+"056_c","Nicht jetzt..."
+"057","(촀\0So, 
+\0jetzt habe ich dich lang genug
+warten lassen...
+\0((&촀\0 Wie kann ich dir
+helfen?"
+"057_a","Ich will anbauen."
+"057_b","Ich will renovieren."
+"057_c","Ich will umziehen."
+"057_d","Nicht jetzt..."
+"058","(촀\0So, 
+\0jetzt habe ich dich lang genug
+warten lassen...
+\0((&촀\0 Wie kann ich dir
+helfen?"
+"058_a","Ich will renovieren."
+"058_b","Ich will umziehen."
+"058_c","Nicht jetzt..."
+"075_01","(촀\0Lass uns reden!
+\0 Wir können über
+verschiedene Dinge sprechen,
+\0(&촀\0
+was hattest du im Sinn?"
+"075_01_a","Grundstücksverkauf..."
+"075_01_b","Brücken/Aufgänge..."
+"075_01_c","Positionen ändern..."
+"075_01_d","Nicht jetzt..."
+"075_02","(촀\0Lass uns reden!
+\0 Wir können über
+verschiedene Dinge sprechen,
+\0(&촀\0
+was hattest du im Sinn?"
+"075_02_a","Brücken/Aufgänge..."
+"075_02_b","Positionen ändern..."
+"075_02_c","Nicht jetzt..."
+"101","(촀\0
+\0Oh, 
+\0du brauchst gar keine Hilfe?
+\0
+(촀\0Nun, ich bin jedenfalls hier, falls
+du Fragen hast!"
+"102","(촀\0Ja, ja!
+\0 Dieser Kauf will reichlich
+überlegt sein.\0\0Komm zu mir, wenn du dich
+entschieden hast."
+"103","(촀\0Ausgezeichnet!
+\0 Ich werde sogleich
+den Beginn der Baumaßnahmen
+veranlassen.
+(촀\0Bis morgen Vormittag sollte alles
+fertig sein.
+\0 Wie aufregend!"
+"201","(촀\0Oh! 
+\02\0n\0!\0\0(촀\0Hast du dich wegen des Erwerbs
+einer Immobilie entschieden? 
+\0Bist
+du bereit für Komfort und Luxus?
+Zelten macht zwar Spaß, 
+\0aber ein
+Haus bietet mehr Platz und hilft dir,
+\0
+Wurzeln zu schlagen.
+(\0촀\0Ein Haus würde erfordern,
+\0 dass du
+einen neuen Kredit in Höhe von
+\098.000 Sternis\0￿ aufnimmst.
+(&촀\0Was sagst du?
+\0 Bist du bereit für dein
+eigenes, trautes Heim?"
+"201_a","(%촀\0Ja, bitte!"
+"201_b","Ich denk drüber nach."
+"202","(촀\0Vielen Dank!
+\0 Ich werde sogleich
+den Beginn der Baumaßnahmen
+veranlassen.
+(촀\0Übrigens kannst du dir eine von acht
+Farben für dein Dach aussuchen!"
+"203","Bitte wähle eine Farbe für dein Dach,
+hm?"
+"203_a","Rot"
+"203_b","Pink"
+"203_c","Gelb"
+"203_d","Schwarz"
+"203_e","Andere Farbe"
+"204","Es gibt noch vier weitere Farben!
+Wähle eine davon oder von den
+vorherigen Farben, ja?"
+"204_a","Blau"
+"204_b","Türkis"
+"204_c","Grün"
+"204_d","Lila"
+"204_e","Andere Farbe"
+"205","Interesse an einer der ersten vier
+Farben? Lass dir Zeit, es ist eine
+große Entscheidung!"
+"205_a","Rot"
+"205_b","Orange"
+"205_c","Gelb"
+"205_d","Schwarz"
+"205_e","Andere Farbe"
+"206","Natürlich, natürlich. Hier sind die
+anderen vier Farben. (촀\0Überleg dir
+deine Wahl ganz in Ruhe!"
+"206_a","Blau"
+"206_b","Hellblau"
+"206_c","Grün"
+"206_d","Lila"
+"206_e","Andere Farbe"
+"208_01","(촀\0Gut, dann wird dein Dach \0rot\0￿!"
+"208_02","(촀\0Gut, dann wird dein Dach \0pink\0￿!"
+"208_03","(촀\0Gut, dann wird dein Dach \0gelb\0￿!"
+"208_04","(촀\0Gut, dann wird dein Dach \0schwarz\0￿!"
+"208_05","(촀\0Gut, dann wird dein Dach \0blau\0￿!"
+"208_06","(촀\0Gut, dann wird dein Dach \0türkis\0￿!"
+"208_07","(촀\0Gut, dann wird dein Dach \0grün\0￿!"
+"208_08","(촀\0Gut, dann wird dein Dach \0lila\0￿!"
+"209","(촀\0Wird erledigt!"
+"209_01","(촀\0
+\0Oh! 
+\0(\0촀\0Eine Sache nochn\0\0\0\0(촀\0Hausbesitzer werden bei \0Nooks
+Meilenprogramm\0￿ automatisch
+hochgestuft."
+"209_02","(\0촀\0Kleinen Augenblickn"
+"209_03","(촀\0Fertig, 
+\0ja, ja!
+\0(촀\0 Deine Mitgliedschaft
+ist jetzt auf dem neuesten Stand,
+\0
+n\0.\0\0(\0촀\0Wenn du die App für die Nook-Meilen
+nutzt, 
+\0(%촀\0hast du Zugriff auf die Vorteile
+von \0Nook-Meilen+\0￿.\0\0(촀\0Mit \0Nook-Meilen+\0￿ lassen sich auf
+praktische Weise durch Erfüllen von
+Aufgaben Meilen verdienen.\0\0(\0촀\0Die Details siehst du, 
+\0(%촀\0wenn du die
+App startest, 
+\0(촀\0also schau sie dir ruhig
+mal an, 
+\0hm?"
+"209_04","(촀\0Das war erst mal alles von meiner
+Seite!
+\0 Dein neues Heim sollte dann
+morgen fertig sein.
+\0 Aufregend, hm?"
+"211","(
+촀\0Hm...
+\0 (\0촀\0Ich würde dir empfehlen,
+\0
+(촀\0den Raum zu vergrößern.\0\0(\0촀\0Das würde einen Kredit über
+\0198.000 Sternis\0￿ erfordern.
+\0
+(&촀\0Na,
+\0 Interesse?"
+"211_a","(%촀\0Ja, bitte!"
+"211_b","('촀\0Nicht jetzt..."
+"212","(
+촀\0Hm...
+\0(\0촀\0 Ich würde dir empfehlen,
+\0
+(촀\0noch ein Zimmer anzubauen.\0\0Wenn wir es hinten anbauen, 
+\0ändert
+es nicht das Aussehen deines Hauses
+\0
+und es ist günstiger,
+\0 relativ gesehen.
+(\0촀\0Das würde einen Kredit über
+\0348.000 Sternis\0￿ erfordern.
+\0
+(&촀\0Was sagst du?
+\0 Wäre das was, 
+\0hm?"
+"212_a","(%촀\0Ja, bitte!"
+"212_b","('촀\0Nicht jetzt..."
+"213","(촀\0Möchtest du dein Heim erweitern,
+\0
+hm?
+\0 (
+촀\0Wir könnten einen Raum
+hinzufügen.\0\0(\0촀\0Das würde einen Kredit von
+\0548.000 Sternis\0￿ erfordern. 
+\0
+(&촀\0Sollen wir das so machen?"
+"213_a","(%촀\0Ja, bitte!"
+"213_b","('촀\0Nicht jetzt..."
+"214","(촀\0Möchtest du anbauen, 
+\0hm?
+\0
+(
+촀\0Ich könnte einen zusätzlichen Raum
+anbieten.\0\0(\0촀\0Du müsstest nur einen Kredit über
+\0758.000 Sternis\0￿ aufnehmen.
+\0
+(&촀\0Hast du Interesse?"
+"214_a","(%촀\0Ja, bitte!"
+"214_b","('촀\0Nicht jetzt..."
+"215","(촀\0Etwas mehr Platz gefällig, hm?\0\0(촀\0Mit einem Hammer und etwas
+Schweiß können wir dir einen großen
+Raum als Obergeschoss bauen.\0\0(촀\0Natürlich ist das eine Menge Arbeit,
+\0
+das wird also nicht ganz billig.\0\0(\0촀\0Da käme schon ein Kredit über
+\01.248.000 Sternis\0￿ zusammen. 
+\0
+(&촀\0Hast du Interesse?"
+"215_a","(%촀\0Ja, bitte!"
+"215_b","('촀\0Nicht jetzt..."
+"216","(촀\0Oho!
+\0 Hättest du gern(&촀\0 einen eigenen
+Keller?\0\0(
+촀\0Du hast schon den einen oder
+anderen Preisschock mitgemacht,
+\0
+aber sei gewarnt...
+\0(촀\0 Das wird kosten.\0\0(\0촀\0Genauer gesagt \02.498.000 Sternis\0￿.
+\0
+(&촀\0Bist du immer noch interessiert?"
+"216_a","(%촀\0Ja, bitte!"
+"216_b","('촀\0Nicht jetzt..."
+"251","(촀\0Wunderbar!
+\0 Ich freue mich für dich!
+Ich werde sofort den Beginn der
+Baumaßnahmen veranlassen.
+
+\0(촀\0
+\0Oh! 
+\0Da fällt mir ein...
+\0 (\0촀\0Wenn du eine
+andere Farbe für dein Dach willst,
+wäre jetzt eine gute Gelegenheit.
+(촀\0Wir haben acht Farben im Angebot."
+"252","(촀\0Die Bauarbeiten an deinem Haus
+sollten bis morgen beendet sein.
+\0 Du
+bist sicher noch aufgeregter als ich!"
+"261","(촀\0Die Bauarbeiten gehen voran, ja, ja.
+\0
+(""촀\0Deine Vorfreude ist ansteckend!"
+"261_01","Ja, die Arbeiten an deinem Haus
+müssten morgen fertig sein.
+\0 Ich freu
+mich für dich, n\0!"
+"262","(촀\0Hm...
+\0 Solange du noch einen Kredit
+offen hast, kann ich leider keine
+Erweiterungsaufträge annehmen.
+(촀\0Denk daran, im \0NookPortal\0￿ kannst
+du jederzeit Raten einzahlen.\0\0Wenn dein Kredit abbezahlt ist,
+können wir gern reden, hm?"
+"263",""
+"801","(7촀\0Tut mir wirklich leid, aber mit dem
+Besuch habe ich derzeit alle Hände
+voll zu tun."
+"802_01","(촀\0Nutze doch diese Gelegenheit,
+\0
+um unsere Insel von ihrer besten
+Seite zu zeigen!"
+"802_02","(촀\0Wir können gern reden,
+\0 sobald der
+Besuch wieder abgereist ist."
+"900","(촀\0Ich wüsste nichts, 
+\0was ich dir noch
+raten kann, n\0!\0\0(촀\0Du hast so viel erreicht!
+\0 Bestimmt
+weißt du jetzt selbst, 
+\0wie du dein
+Leben hier unterhaltsam gestaltest!"
+"901","(촀\0Ich suche Leute, 
+\0die Interesse an
+einem Kurs zum Thema
+\0Umgestalten\0￿ haben.\0\0()촀\0Seine Kreationen umgestalten zu
+können 
+\0(촀\0macht Basteln noch schöner.
+\0
+Probier's doch mal aus!"
+"902","()촀\0Du hast dich schon für meinen Kurs
+zum Thema \0Umgestalten\0￿ angemeldet,
+\0
+n\0.\0\0(촀\0Frag nach „\0Das Basteln...\0￿“, 
+\0wenn du
+wissen willst, 
+\0wie es weitergeht!"

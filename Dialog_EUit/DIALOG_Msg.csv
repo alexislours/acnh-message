@@ -1,0 +1,1038 @@
+﻿"label","text"
+"0001","Confermi di volerti chiamare
+\0s\0촀\0￿?"
+"0001_a","Modifica"
+"0001_b","OK!"
+"0003","Vuoi suggerire che l'isola
+si chiami \0\0s촀\0￿?"
+"0003_a","Modifica"
+"0003_b","OK!"
+"0004","Il tuo nome contiene una parola
+o un'espressione inutilizzabile."
+"0004_a","Indietro"
+"0005","Puoi usare fino a un massimo
+di cinque numeri."
+"0005_a","Indietro"
+"0011","Vuoi davvero cancellare i tuoi dati
+di salvataggio, n\0?
+\0
+Se lo fai, non potrai più recuperarli."
+"0011_a","\0Sì, cancello!\0￿"
+"0011_b","No, no!"
+"0012","Vuoi davvero cancellare i dati di
+salvataggio di s\0촁?
+
+\0Se lo fai, non potrai più recuperarli."
+"0012_a","\0Sì, cancello!\0￿"
+"0012_b","No, no!"
+"0101","Vuoi realizzare
+2\0\0}\0\0\0￿?"
+"0101_a","Meglio di no"
+"0101_b","Ma certo!"
+"0102","Non hai abbastanza materiali..."
+"0102_a","OK"
+"0103","Hai le tasche piene, quindi non puoi
+realizzare progetti fai da te!"
+"0103_a","OK"
+"0104","Non è cambiato niente!
+Scegli un motivo diverso."
+"0104_a","OK"
+"0105","È possibile personalizzare alcuni
+oggetti con un determinato modello.
+\0\0Gli oggetti personalizzati non
+possono essere lasciati a terra.
+Se un modello personalizzato viene
+aggiornato, verranno aggiornati
+anche tutti gli oggetti che lo usano.\0￿"
+"0105_a","OK"
+"0201","Non hai alcuna canzone da aggiungere."
+"0201_a","OK"
+"0202","Non puoi prendere questa canzone
+perché hai le tasche piene."
+"0202_a","OK"
+"0301","Non puoi prendere questo oggetto
+perché hai le tasche piene."
+"0301_a","OK"
+"0310","Aspetta un attimo, OK?"
+"0321","Non puoi aggiungere ai tuoi
+preferiti un messaggio che
+non hai ancora letto!"
+"0322","Non puoi aggiungere un ordine
+ai tuoi preferiti!"
+"0331","Non puoi cancellare i messaggi
+che sono stati aggiunti ai preferiti!"
+"0332","Puoi aggiungere fino a Z\0 messaggi
+ai preferiti."
+"0333","Non puoi cancellare i messaggi
+che contengono un regalo!"
+"0402","Inserisci una data futura, OK?"
+"0501","Non hai spazio per mettere via i capi
+che vuoi togliere!"
+"0502","Seleziona qualcosa da salvare."
+"0503","Non hai nulla che puoi togliere."
+"0504","\0\0Ora puoi usare il tuo armadio per
+modificare i completi creati con la
+bacchetta!\0￿\0\0Se utilizzi l'opzione \0Cambia i completi
+\0￿per creare dei completi, in seguito
+potrai passare da uno all'altro per
+mezzo di una \0bacchetta\0￿.\0\0\0\0Indossare un completo creato con
+una bacchetta è considerato come
+una trasformazione piuttosto che
+un semplice cambio di abiti.\0\0Ciò che indossi al di sotto resterà
+invariato, ma verrà nascosto dalla
+trasformazione.\0￿"
+"0551","Non stai indossando nulla che possa
+fare parte di un completo!"
+"0552","Non c'è spazio per questo completo
+nel tuo sgabuzzino."
+"0601","Non hai abbastanza miglia."
+"0602","Solo chi partecipa al programma
+\0miglia di Nook+\0￿ può ordinare questo
+articolo. \0\0Il servizio è disponibile solo
+per i clienti proprietari di una casa.\0￿"
+"0603","È possibile scambiare miglia
+\0per posta \0￿con un massimo di 5
+articoli al giorno."
+"0802","\0\0Gioco online e in locale\0￿
+Le persone con cui giochi online
+o in locale possono vedere \0testo
+\0￿e \0grafica\0￿ creati dagli utenti, come:
+\0nomi\0￿, \0chat\0￿, \0messaggi in bacheca\0￿,
+\0aspetto dell'intera isola\0￿, \0stanze delle
+case\0￿, \0modelli personalizzati\0￿ e altro.
+Presta attenzione ai contenuti che
+condividi con altri giocatori quando
+giochi online e in locale con loro."
+"0802_a","Ho capito"
+"0803","Purtroppo la destinazione che hai
+scelto ha già raggiunto il numero
+massimo di visite."
+"0803_a","Indietro"
+"0921","Puoi pubblicare fino a due
+annunci durante una visita."
+"0921_a","OK!"
+"0922","Non puoi pubblicare più di due
+annunci durante una visita."
+"0922_a","Indietro"
+"0951","Vuoi cancellare tutto ciò che hai
+disegnato a mano? (Non potrai
+recuperare i dati perduti!)"
+"0951_a","In realtà, no"
+"0951_b","Cancelliamo"
+"0952","Vuoi smettere di scrivere?"
+"0952_a","No"
+"0952_b","Sì"
+"0953","Vuoi smettere di usare la tastiera?
+\0\0*Tutto ciò che hai inserito finora
+verrà cancellato.\0￿"
+"0953_a","No"
+"0953_b","Cancelliamo"
+"1001","Confermi che la tua data di
+compleanno è la seguente:
+Z$촀 Z#촀?"
+"1001_a","Modifica"
+"1001_b","OK!"
+"1101","Ricerca in corso."
+"1102","Non è stato trovato alcun articolo."
+"1102_a","OK"
+"1103","Non hai abbastanza stelline."
+"1103_a","OK"
+"1104","Vuoi ordinare
+2\0\0}\0\0\0￿
+per \0Z\0\0￿?"
+"1104_a","Annulla"
+"1104_b","Ordina"
+"1105","Vuoi ordinare
+2\0\0}\0\0\0￿
+per \0Z\0\0￿?"
+"1105_a","Ordina"
+"1105_b","Regala"
+"1105_c","Annulla"
+"1108","Hai effettuato l'ordine con successo!
+Verrà recapitato per posta a casa tua
+in breve tempo."
+"1108_a","OK"
+"1109","Hai effettuato un ordine
+per \0s\0촀\0￿!"
+"1109_a","OK"
+"1111","Gli ordini eseguiti tramite catalogo
+sono limitati a 5 articoli per cliente
+e al giorno."
+"1111_a","Chiudi"
+"1112","Fanno \0Z\0\0￿.
+Vuoi far spedire l'acquisto?"
+"1112_a","No"
+"1112_b","OK"
+"1113","Vuoi eliminare questo messaggio
+e annullare l'ordine di 2""촀questoquesta\0
+\0}\0\0\0￿?"
+"1113_a","No"
+"1113_b","Sì"
+"1114","Questo articolo non è in vendita
+e non può essere ordinato."
+"1114_a","OK"
+"1201","Vuoi davvero cancellare il modello
+""s촀""?"
+"1201_a","In realtà, no"
+"1201_b","Cancelliamo"
+"1202","Vuoi davvero cancellare il modello
+""s촀""
+realizzato da s\0촀?"
+"1202_a","In realtà, no"
+"1202_b","Cancelliamo"
+"1203","Scegli un modello personalizzato
+da cancellare."
+"1203_a","OK!"
+"1204","Vuoi davvero cancellare il modello
+""s촀""
+salvato da s\0촀?"
+"1204_a","In realtà, no"
+"1204_b","Cancelliamo"
+"1300","I dati di salvataggio verranno
+cancellati.
+\0\0Non toccare il pulsante POWER .\0￿"
+"1308","La data impostata nella console
+è al di fuori dei limiti consentiti.\0\0Chiudi il gioco nel menu HOME
+e riavvialo dopo aver impostato
+una data compresa fra 1/1/2000
+e 12/31/2060."
+"1310","I dati di salvataggio sono danneggiati.
+Vuoi cancellare i dati danneggiati e
+cominciare una nuova partita?"
+"1310_a","Nuova partita"
+"1310_b","Annulla"
+"1311","Non puoi giocare con i dati
+di salvataggio danneggiati.
+Chiudi il gioco nel menu HOME."
+"1312","I dati di salvataggio sono stati
+cancellati. Comincerà una nuova
+partita."
+"1312_a","OK"
+"1325","Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1326","I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1327","Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1328","キャラクターの\0\0
+なまえ名前や
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+このまま\0\0はじ始めますか？
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1328_a","いいえ / No"
+"1328_b","はい / Sì"
+"1329","Character names and UI elements
+vary from language to language.
+Do you still want to start playing?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1329_a","No / No"
+"1329_b","Yes / Sì"
+"1330","Le nom des personnages et certains
+éléments d'interface peuvent différer
+d'une langue à l'autre. Continuer?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1330_a","Non / No"
+"1330_b","Oui / Sì"
+"1331","Los nombres de los personajes y otros
+aspectos del juego pueden cambiar
+según el idioma. ¿Quieres continuar?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1331_a","No / No"
+"1331_b","Sí / Sì"
+"1332","Character names and UI elements
+vary from language to language.
+Do you still want to start playing?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1332_a","No / No"
+"1332_b","Yes / Sì"
+"1333","Los nombres de los personajes y otros
+aspectos del juego pueden cambiar
+según el idioma. ¿Quieres continuar?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1333_a","No / No"
+"1333_b","Sí / Sì"
+"1334","Le nom des personnages et certains
+éléments d'interface peuvent différer
+d'une langue à l'autre. Continuer ?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1334_a","Non / No"
+"1334_b","Oui / Sì"
+"1335","Namen von Figuren, Menüs usw.
+können sich in anderen Sprachen
+unterscheiden. Trotzdem fortfahren?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1335_a","Nein / No"
+"1335_b","Ja / Sì"
+"1336","I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1336_a","No / No"
+"1336_b","Sì / Sì"
+"1337","Namen van personages en scherm-
+elementen zijn per taal anders. Wil je
+nog steeds beginnen met spelen?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1337_a","Nee / No"
+"1337_b","Ja / Sì"
+"1338","Имена персонажей и элементы
+интерфейса различаются в разных
+языках. Все равно начать игру?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1338_a","Нет / No"
+"1338_b","Да / Sì"
+"1339","캐릭터의 이름과
+게임 내 표시가 달라집니다
+이대로 시작하시겠습니까?
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1339_a","아니요 / No"
+"1339_b","예 / Sì"
+"1340","角色的名字和游戏内的显示
+将会改变，就这样开始游戏吗？
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1340_a","否 / No"
+"1340_b","是 / Sì"
+"1341","角色名稱或遊戲內的顯示將會改變，
+要直接開始遊戲嗎？
+
+I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?"
+"1341_a","否 / No"
+"1341_b","是 / Sì"
+"1342","\0\0
+ホームHOMEメニューの　\0\0せってい設定で
+\0\0もと元の\0\0
+げんご言語に　\0\0もど戻してから
+ゲームを\0\0
+さいきどう再起動してください。
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1343","Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1344","Réinitialise les paramètres de langue
+dans les paramètres de la console via
+le menu HOME, et redémarre le jeu.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1345","Accede a la configuración de la
+consola desde el menú HOME, revierte
+los ajustes de idioma y reinicia el juego.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1346","Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1347","Accede a la configuración de la
+consola desde el menú HOME, revierte
+los ajustes de idioma y reinicia el juego.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1348","Réinitialise les paramètres de langue
+depuis les paramètres de la console
+du menu HOME et redémarre le jeu.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1349","Setze deine Spracheinstellungen in den
+ Systemeinstellungen im HOME-Menü
+zurück und starte das Spiel erneut.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1350","Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1351","Stel via de systeeminstellingen in het
+HOME-menu je oorspronkelijke taal
+in en start de game opnieuw op.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1352","Восстановите настройки языка,
+перейдя в системные настройки из
+меню HOME, и перезапустите игру.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1353","HOME 메뉴의 설정에서
+원래 언어로 되돌린 후
+게임을 다시 시작해주세요.
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1354","请在HOME菜单恢复语言设置后
+重新启动游戏。
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1355","請於HOME選單恢復語言設定後，
+再重新啟動遊戲。
+
+Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco."
+"1356","\0\0ぜんかい前回プレイ\0\0じ時と
+\0\0げんごせってい言語設定が\0\0こと異なるようです。
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1356_a","つぎへ / Avanti"
+"1357","It looks like your language settings
+have changed since the last time
+you played.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1357_a","Next / Avanti"
+"1358","Les paramètres de langue ont été
+modifiés depuis la dernière fois que
+tu as joué.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1358_a","Suivant / Avanti"
+"1359","Los ajustes de idioma cambiaron
+desde la última vez que jugaste.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1359_a","Siguiente / Avanti"
+"1360","It looks like your language settings
+have changed since the last time
+you played.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1360_a","Next / Avanti"
+"1361","Los ajustes de idioma han cambiado
+desde la última vez que jugaste.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1361_a","Siguiente / Avanti"
+"1362","Les paramètres de langue ont été
+modifiés depuis la dernière fois que
+tu as joué.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1362_a","Suivant / Avanti"
+"1363","Anscheinend haben sich deine
+Spracheinstellungen seit dem letzten
+Spielen geändert.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1363_a","Weiter / Avanti"
+"1364","Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1364_a","Avanti / Avanti"
+"1365","Het lijkt erop dat je taalinstellingen
+zijn gewijzigd sinds je voor het
+laatst hebt gespeeld.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1365_a","Volgende / Avanti"
+"1366","Похоже, что настройки языка
+изменились с последнего
+сеанса игры.
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1366_a","Далее / Avanti"
+"1367","지난번 플레이 때와
+언어 설정이 다릅니다
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1367_a","다음 / Avanti"
+"1368","语言设置似乎与上次游戏时不同。
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1368_a","下一页 / Avanti"
+"1370","語言設定似乎與上次遊玩時不同。
+
+Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato."
+"1370_a","下一頁 / Avanti"
+"1501","Vuoi davvero perdere tutte
+le modifiche che hai effettuato?"
+"1501_a","No!"
+"1501_b","Sì!"
+"1502","Vuoi annullare tutti i cambiamenti
+di colore che hai fatto finora?"
+"1502_a","No"
+"1502_b","Sì"
+"1601","Impossibile leggere l'amiibo."
+"1602","Il controller in uso non permette
+di leggere gli amiibo. Usane uno
+compatibile con gli amiibo.
+\0Nota: il Pro Controller non può
+leggere gli amiibo se è collegato
+tramite cavo alla console.\0￿"
+"1605","\0s촀 \0￿si trova già
+a Fotopia."
+"1606","Non è possibile invitare
+\0s촀 \0￿a Fotopia."
+"1607","Non è possibile invitare più
+di 10 personaggi alla volta."
+"1608","Non c'è abbastanza spazio libero
+per invitare questo personaggio."
+"1609","Vuoi chiamare \0Mirco\0￿ o \0Marco\0￿?"
+"1609_a","Mirco"
+"1609_b","Marco"
+"1610","Non puoi invitare l'\0Abitante\0￿
+a Fotopia."
+"1612","Non è possibile leggere gli amiibo
+quando la modalità aereo è attivata.
+\0Tieni premuto  \0￿per accedere alle
+impostazioni rapide e disattivarla."
+"1613","Questo non è un amiibo."
+"1614","Questo amiibo non è compatibile."
+"1701","Non c'è nessuna differenza rispetto
+alla tua casa attuale!"
+"1701_a","Indietro"
+"1801","Purtroppo s\0촀 non ha
+ancora un luogo dove vivere e quindi
+non può ricevere posta."
+"1801_a","Indietro"
+"2001","Non hai abbastanza stelline."
+"2001_a","OK"
+"2002","Non hai spazio nelle tue tasche
+per questo acquisto."
+"2002_a","OK"
+"2003","Non hai spazio nelle tasche o nello
+sgabuzzino per questo acquisto."
+"2003_a","OK"
+"2004","Vuoi effettuare l'acquisto?"
+"2004_a","('촁\0Non ancora"
+"2004_b","(%촁\0Sì, grazie"
+"2005","Vuoi indossare subito
+ciò che hai scelto?"
+"2005_a","('촁\0No, grazie"
+"2005_b","(%촁\0Oh, sì!"
+"2201","Non hai alcun risparmio."
+"2202","Non puoi depositare altre stelline."
+"2203","Non puoi portare altre stelline."
+"2301","Se effettui la transazione, le stelline
+in eccesso rispetto al limite massimo
+del tuo conto saranno perse.
+Va bene?"
+"2301_a","('촁\0No"
+"2301_b","(%촁\0Sì"
+"3001","Un coupon che puoi \0vendere
+\0￿al negozio per \03000 stelline\0￿.
+\0\0Disponibile immediatamente.\0￿"
+"3002","Con questo coupon potrai prendere
+parte a un viaggio speciale. Otterrai
+maggiori informazioni all'aeroporto.
+\0\0Disponibile immediatamente.\0￿"
+"3003","Sei schemi fai da te per realizzare
+strumenti estremamente resistenti.
+\0\0I dati saranno inviati sul Nook Phone
+del cliente in cambio di miglia.\0￿"
+"3004","Ti permette di usare la \0ruota degli
+strumenti\0￿ per accedere agli strumenti.
+\0\0Otterrai maggiori informazioni dopo
+la stampa.\0￿"
+"3005","Cambia look davanti a uno \0specchio
+\0￿o a una \0toletta \0￿con questi tagli
+moderni! \0\0Riceverai la stampa
+subito dopo aver scambiato miglia.\0￿"
+"3006","Cambia look davanti a uno \0specchio
+\0￿o a una \0toletta \0￿con questi tagli pop!
+\0\0Riceverai la stampa subito dopo
+aver scambiato miglia.\0￿"
+"3007","Cambia look davanti a uno \0specchio
+\0￿o a una \0toletta \0￿con queste nuove
+tinte per capelli! \0\0Riceverai la stampa
+subito dopo aver scambiato miglia.\0￿"
+"3008","Impara a organizzare le tue tasche
+così da poter portare più cose.
+\0\0Riceverai la stampa subito dopo
+aver scambiato miglia.\0￿"
+"3009","Perfeziona l'arte di organizzare le tue
+tasche per portare ancora più cose.
+\0\0Riceverai la stampa subito dopo
+aver scambiato le miglia.\0￿"
+"3010","Aggiungi funzioni professionali
+all'applicazione \0I miei modelli\0￿.
+\0\0L'applicazione sarà aggiornata
+immediatamente.\0￿"
+"3011","Uno speciale schema fai da te,
+disponibile solo in cambio di miglia.
+Da usare per personalizzare l'isola.
+\0\0Lo schema sarà stampato subito.\0￿"
+"3012","Un oggetto speciale disponibile
+solamente in cambio di miglia. Da
+usare per personalizzare l'isola.
+\0\0Sarà consegnato per posta.\0￿"
+"3013","Uno \0schema fai da te \0￿per costruire
+\0recinzioni\0￿ per la casa o il giardino.
+Utili per personalizzare l'isola.
+\0\0Lo schema sarà stampato subito.\0￿"
+"3014","Un kit per cambiare il motivo della
+custodia del tuo Nook Phone. Può
+essere usato a un \0banco da lavoro\0￿.
+\0\0Sarà consegnato per posta.\0￿"
+"3015","Aggiunge all'applicazione \0Modifica
+isola \0￿una \0licenza rilievi\0￿ per modificare
+l'altitudine del suolo. \0\0L'applicazione
+sarà aggiornata immediatamente.\0￿"
+"3016","Aggiunge all'applicazione \0Modifica
+isola \0￿una \0licenza fiumi e laghi\0￿ per
+creare o eliminare zone acquatiche.
+\0\0L'aggiornamento avverrà subito.\0￿"
+"3017","Aggiunge all'applicazione \0Modifica
+isola\0￿ una \0licenza\0￿ per creare nuovi
+percorsi. \0\0L'applicazione sarà
+aggiornata immediatamente.\0￿"
+"3018","Aggiunge all'applicazione \0Modifica
+isola \0￿una \0licenza \0￿per creare \0strade \0￿e
+\0selciati \0￿personalizzati. \0\0L'applicazione
+sarà aggiornata immediatamente.\0￿"
+"3019","Articoli originali firmati Nook Inc.
+Divertiti a collezionarli tutti per
+sfoggiare un look strepitoso! \0\0L'invio
+degli articoli avverrà per posta.\0￿"
+"3020","Articoli originali firmati Nook Inc.
+Divertiti a collezionarli tutti per
+creare la tua casa dei sogni! \0\0L'invio
+degli articoli avverrà per posta.\0￿"
+"5001","\0Fotocamera\0￿
+Ti permette di scattare delle foto
+e applicarvi vari filtri ed effetti.\0\0\0\0Le immagini saranno salvate
+nell'album del menu HOME e
+potranno essere viste dagli altri
+utenti che usano la stessa console.\0￿"
+"5011","\0Miglia di Nook\0￿
+Hai deciso di partecipare
+al programma miglia di Nook!\0\0Guadagna \0miglia di Nook \0￿portando
+a termine delle attività sull'isola.\0\0Potrai scambiare queste miglia
+con oggetti e altro ancora al
+\0Punto Nook \0￿nel \0centro servizi\0￿.\0\0Vivi al massimo la tua isola.
+Guadagna miglia di Nook!"
+"5012","Le \0miglia di Nook\0￿ con un \0+\0￿!
+Ora sei nella categoria superiore e
+puoi usare i servizi \0miglia di Nook+\0￿.\0\0Il programma \0miglia di Nook+\0￿ rende
+ancora più facile guadagnare miglia
+godendosi la vita sull'isola.\0\0E ci sono opzioni per guadagnare miglia
+disponibili in esclusiva ai membri del
+programma \0miglia di Nook+\0￿.\0\0Approfitta di questa stupefacente
+opportunità!"
+"5021","\0Enciclopedia\0￿
+Consulta questa applicazione per
+saperne di più sugli insetti e sui
+pesci che hai catturato."
+"5031","\0Laboratorio\0￿
+In questa applicazione trovi le
+informazioni sugli schemi che hai
+raccolto per i tuoi progetti fai da te.\0\0Potrai anche aggiungere gli oggetti
+realizzati più frequentemente ai tuoi
+preferiti. Il fai da te non è mai stato
+più semplice e divertente!"
+"5041","\0Chiama abitante\0￿
+Con questa app potrai invitare fino ad
+altri tre residenti (giocatori) a giocare
+insieme in \0Gioco cooperativo\0￿!\0\0Nota: è necessario un controller
+per ciascun giocatore prima di
+cominciare."
+"5051","\0I miei modelli\0￿
+Con questa applicazione puoi creare
+modelli con cui personalizzare capi di
+abbigliamento o altre cose sull'isola.
+Quando salvi modelli personalizzati
+in questa app, poi puoi condividerli
+con gli altri residenti dell'isola.\0\0\0\0I tuoi modelli personalizzati possono
+essere visti da altri giocatori durante
+il gioco online o in locale, per
+esempio, quando visiti un'altra isola.\0\0Non creare contenuti che possano
+violare i diritti di altri utenti. Non
+includere informazioni personali (tue
+o di altri) e immagini o testi offensivi.\0￿"
+"5052","\0Motivi Pro\0￿
+Grazie di aver installato la versione
+\0professionale \0￿dell'applicazione
+\0I miei modelli\0￿.
+La versione Pro ti permette di:
+・Modificare le tavolozze di colori
+・Creare motivi professionali\0\0Ci auguriamo che le funzioni Pro
+ti consentano di esprimere tutta
+la tua creatività!"
+"5053","\0\0Modelli personalizzati con l'icona \0￿
+I modelli che non hai realizzato
+personalmente sono contrassegnati
+dall'icona \0\0\0￿.\0\0Non è possibile modificare tali
+modelli. Se vuoi usare lo slot che
+occupano, dovrai prima cancellarli."
+"5061","\0Mappa\0￿
+Consulta la mappa per sapere
+la tua posizione attuale.\0\0Premi \0\0￿ per cambiare le impostazioni
+e scegliere se visualizzare o meno
+la minimappa durante le tue attività
+quotidiane."
+"5081","\0Passaporto\0￿
+Qui troverai le informazioni
+relative al tuo passaporto.\0\0\0\0Queste informazioni potrebbero
+essere viste da altri giocatori (per
+esempio quando visiti un'altra isola).\0\0\0￿Potrai cambiare la foto, il commento
+o il titolo in qualsiasi momento.
+Personalizzali in base al tuo stile!"
+"5091","\0Soccorso\0￿
+Usa questo servizio per situazioni di
+emergenza. Per esempio, quando hai
+la via bloccata e non puoi muoverti!\0\0Ti ritroverai a casa tua o al centro
+servizi. \0\0Per poter usufruire di questo
+servizio servono delle miglia di Nook.\0￿"
+"5111","\0Modifica isola\0￿
+Con questa applicazione, potrai
+sviluppare e modificare la tua isola
+realizzando progetti tutti tuoi.
+Potrai utilizzare le miglia di Nook al
+Punto Nook per sbloccare ulteriori
+opzioni di costruzione e nuovi
+percorsi.
+È anche disponibile un \0servizio
+rimozione \0￿da usare nel caso in cui
+alcuni oggetti ostacolino i tuoi lavori
+in corso.
+Per ulteriori informazioni su tale
+servizio o sulle altre funzioni di
+questa applicazione, \0consulta il
+manuale \0￿relativo.\0\0E ora, forza! Scatena la fantasia
+e comincia a modellare l'isola a
+tuo gusto."
+"5121","\0Catalogo Nook\0￿
+Con questa applicazione, potrai ora
+accedere al catalogo Nook dove e
+quando vuoi!
+Fai acquisti al tuo ritmo e in base
+allo stile che più ti rispecchia."
+"5201_00_01","\0\0Gioco cooperativo\0￿
+I residenti di un'isola possono giocare
+insieme in Gioco cooperativo, in cui
+un giocatore sarà il leader e gli altri
+i partecipanti.\0\0Il \0leader\0￿ e i \0partecipanti \0￿svolgono
+compiti diversi, ma cambiare ruolo
+è molto semplice!\0\0\0Giocare come leader\0￿
+Il leader può fare sostanzialmente
+ciò che fa già durante il gioco
+normale.\0\0\0Cambiare il leader\0￿
+Puoi cambiare \0leader\0￿ scuotendo
+delicatamente il controller del leader.\0\0In alternativa, puoi selezionare
+l'opzione \0Cambia leader\0￿ nell'app
+\0Chiama abitante\0￿.\0\0\0Giocare come partecipante\0￿
+I partecipanti non possono usare
+la chat, il Nook Phone o le tasche.
+Possono usare strumenti, spostare
+oggetti e supportare il leader.\0\0Gli oggetti ottenuti per mezzo
+degli strumenti finiranno al \0punto
+di raccolta \0￿nel \0centro servizi\0￿."
+"5201_00_02","\0\0Comandi Joy-Con in orizzontale\0￿
+\0Leader\0￿
+\0\0￿ Apri Nook Phone
+\0\0￿ Gestisci visuale/Cambia strumento
+
+\0Partecipanti
+\0￿ Equipaggia/Cambia strumento"
+"5201_00_03","\0Comandi leader Joy-Con in orizzontale\0￿
+\0\0￿ Apri Nook Phone/\0 \0￿Emozioni
+\0\0￿ Gestisci visuale/Cambia strumento
+\0Comandi partecipante Joy-Con
+in orizzontale
+\0￿ Equipaggia/Cambia strumento
+\0 \0￿Emozioni/\0\0￿ Ripeti emozione"
+"5201_00_04","\0\0Comandi
+\0￿\0Leader\0￿
+Stessi comandi del gioco normale.
+
+\0Partecipanti
+\0￿ Equipaggia/Cambia strumento"
+"5201_00_05","\0Comandi leader\0￿
+Stessi comandi del gioco normale.
+
+\0Comandi partecipante
+ \0￿Equipaggia/Cambia strumento
+\0 \0￿Emozioni
+\0 \0￿Ripeti emozione"
+"5201_01","\0\0Gioco cooperativo\0￿
+I residenti di un'isola possono giocare
+insieme in Gioco cooperativo, in cui
+un giocatore sarà il leader e gli altri
+i partecipanti.\0\0Il \0leader\0￿ e i \0partecipanti \0￿svolgono
+compiti diversi, ma cambiare ruolo
+è molto semplice!\0\0\0Giocare come leader\0￿
+Il leader può fare sostanzialmente
+ciò che fa già durante il gioco
+normale.\0\0\0Cambiare il leader\0￿
+Puoi cambiare \0leader\0￿ scuotendo
+delicatamente il controller del leader.\0\0In alternativa, puoi selezionare
+l'opzione \0Cambia leader\0￿ nell'app
+\0Chiama abitante\0￿.\0\0\0Giocare come partecipante\0￿
+I partecipanti non possono usare
+la chat, il Nook Phone o le tasche.
+Possono usare strumenti, spostare
+oggetti e supportare il leader.\0\0Gli oggetti ottenuti per mezzo
+degli strumenti finiranno al \0punto
+di raccolta \0￿nel \0centro servizi\0￿.
+\0\0Comandi Joy-Con in orizzontale\0￿
+\0Leader\0￿
+\0\0￿ Apri Nook Phone
+\0\0￿ Gestisci visuale/Cambia strumento
+
+\0Partecipanti
+\0￿ Equipaggia/Cambia strumento"
+"5201_02","\0\0Gioco cooperativo\0￿
+I residenti di un'isola possono giocare
+insieme in Gioco cooperativo, in cui
+un giocatore sarà il leader e gli altri
+i partecipanti.\0\0Il \0leader\0￿ e i \0partecipanti \0￿svolgono
+compiti diversi, ma cambiare ruolo
+è molto semplice!\0\0\0Giocare come leader\0￿
+Il leader può fare sostanzialmente
+ciò che fa già durante il gioco
+normale.\0\0\0Cambiare il leader\0￿
+Puoi cambiare \0leader\0￿ scuotendo
+delicatamente il controller del leader.\0\0In alternativa, puoi selezionare
+l'opzione \0Cambia leader\0￿ nell'app
+\0Chiama abitante\0￿.\0\0\0Giocare come partecipante\0￿
+I partecipanti non possono usare
+la chat, il Nook Phone o le tasche.
+Possono usare strumenti, spostare
+oggetti e supportare il leader.\0\0Gli oggetti ottenuti per mezzo
+degli strumenti finiranno al \0punto
+di raccolta \0￿nel \0centro servizi\0￿.
+\0Comandi leader Joy-Con in orizzontale\0￿
+\0\0￿ Apri Nook Phone/\0 \0￿Emozioni
+\0\0￿ Gestisci visuale/Cambia strumento
+\0Comandi partecipante Joy-Con
+in orizzontale
+\0￿ Equipaggia/Cambia strumento
+\0 \0￿Emozioni/\0\0￿ Ripeti emozione"
+"5201_03","\0\0Gioco cooperativo\0￿
+I residenti di un'isola possono giocare
+insieme in Gioco cooperativo, in cui
+un giocatore sarà il leader e gli altri
+i partecipanti.\0\0Il \0leader\0￿ e i \0partecipanti \0￿svolgono
+compiti diversi, ma cambiare ruolo
+è molto semplice!\0\0\0Giocare come leader\0￿
+Il leader può fare sostanzialmente
+ciò che fa già durante il gioco
+normale.\0\0\0Cambiare il leader\0￿
+Puoi cambiare \0leader\0￿ scuotendo
+delicatamente il controller del leader.\0\0In alternativa, puoi selezionare
+l'opzione \0Cambia leader\0￿ nell'app
+\0Chiama abitante\0￿.\0\0\0Giocare come partecipante\0￿
+I partecipanti non possono usare
+la chat, il Nook Phone o le tasche.
+Possono usare strumenti, spostare
+oggetti e supportare il leader.\0\0Gli oggetti ottenuti per mezzo
+degli strumenti finiranno al \0punto
+di raccolta \0￿nel \0centro servizi\0￿.
+\0\0Comandi
+\0￿\0Leader\0￿
+Stessi comandi del gioco normale.
+
+\0Partecipanti
+\0￿ Equipaggia/Cambia strumento"
+"5201_04","\0\0Gioco cooperativo\0￿
+I residenti di un'isola possono giocare
+insieme in Gioco cooperativo, in cui
+un giocatore sarà il leader e gli altri
+i partecipanti.\0\0Il \0leader\0￿ e i \0partecipanti \0￿svolgono
+compiti diversi, ma cambiare ruolo
+è molto semplice!\0\0\0Giocare come leader\0￿
+Il leader può fare sostanzialmente
+ciò che fa già durante il gioco
+normale.\0\0\0Cambiare il leader\0￿
+Puoi cambiare \0leader\0￿ scuotendo
+delicatamente il controller del leader.\0\0In alternativa, puoi selezionare
+l'opzione \0Cambia leader\0￿ nell'app
+\0Chiama abitante\0￿.\0\0\0Giocare come partecipante\0￿
+I partecipanti non possono usare
+la chat, il Nook Phone o le tasche.
+Possono usare strumenti, spostare
+oggetti e supportare il leader.\0\0Gli oggetti ottenuti per mezzo
+degli strumenti finiranno al \0punto
+di raccolta \0￿nel \0centro servizi\0￿.
+\0Comandi leader\0￿
+Stessi comandi del gioco normale.
+
+\0Comandi partecipante
+ \0￿Equipaggia/Cambia strumento
+\0 \0￿Emozioni
+\0 \0￿Ripeti emozione"
+"5202","Congratulazioni per la costruzione
+della tua nuova casa! Ecco alcuni
+consigli per abitarla comodamente.\0\0\0 Accendi o spegni la luce
+ Modifica l'arredamento
+ Apri lo sgabuzzino\0\0 Accendi o spegni la luce\0￿
+Con questa opzione puoi rendere
+la stanza più o meno luminosa.\0\0\0 Modifica l'arredamento\0￿
+Con questa funzione puoi modificare
+l'aspetto di una stanza intera.\0\0\0 Apri lo sgabuzzino\0￿
+Accedi allo sgabuzzino di casa tua
+per depositarvi o ritirare un oggetto.\0\0Quando sei a casa, puoi selezionare
+arredi o altri oggetti dalle tue tasche
+per depositarli qui."
+"8001","\0Su questa console Nintendo Switch
+sono presenti dati residente di
+n\0 non collegati
+ad alcun utente.\0\0Vuoi giocare usando i dati esistenti
+di questo residente e collegarli al tuo
+profilo? Oppure preferisci creare dati
+di un nuovo residente?\0￿"
+"8001_a","Usa i dati"
+"8001_b","Inizia da zero"
+"8002","In questo caso, inizierai il gioco come
+nuovo partecipante al programma del
+Pacchetto isola deserta."
+"8003","Al momento c'è solo \0un residente
+\0￿i cui dati non sono collegati ad
+alcun utente."
+"8003_a","Mostra i dati"
+"8004","Al momento, ci sono \0più residenti
+\0￿i cui dati non sono collegati ad
+alcun utente.\0\0Nei panni di quale residente vuoi
+cominciare a giocare?"
+"8004_a","Mostra i dati"
+"8005","Vuoi avviare il processo di scelta
+dall'inizio o preferisci chiudere il
+gioco?"
+"8005_a","Chiudere"
+"8005_b","Ricominciare"
+"8006","Chiudi il software dal menu HOME."
+"8007","Vuoi cominciare a giocare nei panni
+del residente \0s\0촀\0￿?"
+"8007_a","Non saprei"
+"8007_b","Sì"
+"8008","Comincerai a giocare nei panni
+del residente \0n\0\0￿."
+"8009","\0Su questa console Nintendo Switch
+sono al momento presenti i dati di 8
+residenti di n\0. Non
+è possibile averne di più.\0\0Vuoi cancellare i dati di uno di questi
+residenti e cominciare a giocare nei
+panni di un nuovo residente?\0\0Oppure preferisci usare i dati di uno
+dei residenti che al momento non
+è collegato ad alcun utente?\0￿"
+"8009_a","Usa i dati"
+"8009_b","Cancella dati"
+"8010","Devi cancellare i dati di un residente
+prima di poter cominciare a giocare
+nei panni di un nuovo residente.\0\0Puoi selezionare i dati di un residente
+che non risultano collegati ad alcun
+utente.\0\0\0I dati del portavoce dell'isola
+non si possono cancellare.\0￿"
+"8010_a","Mostra i dati"
+"8011","Devi cancellare i dati di un residente
+prima di poter cominciare a giocare
+nei panni di un nuovo residente.\0\0Puoi selezionare i dati di un residente
+che non risultano collegati ad alcun
+utente."
+"8011_a","Mostra i dati"
+"8012","Al momento, gli unici dati residente
+non collegati a un utente sono quelli
+del portavoce dell'isola di
+n\0.
+Non è possibile cancellare questi
+dati.\0\0Se vuoi eliminare i dati di un altro
+residente, avvia il gioco scegliendo
+l'utente collegato al suddetto
+residente.
+In seguito, premi  sullo schermo del
+titolo per accedere a Impostazioni
+salvataggio e cancellare i dati di
+quel residente."
+"8013","Per uscire da questo schermo, chiudi
+il software dal menu HOME."

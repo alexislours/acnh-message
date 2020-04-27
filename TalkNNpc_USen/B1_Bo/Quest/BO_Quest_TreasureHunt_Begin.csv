@@ -1,0 +1,225 @@
+﻿"label","text"
+"001","(촀\0Hey, you got a minute?
+\0 Wanna go
+on a (""촀\0treasure hunt with me?
+\0 To hunt
+for treasure?"
+"001_a","Sure!"
+"001_b","Maybe later."
+"002","(
+촀\0You bored? I looked at ALL of the
+pictures in BOTH of my books,
+TWICE. 
+\0So I'm pretty bored.\0\0(촀\0Ya wanna go on a treasure hunt
+with me?
+\0(촀"
+"002_a","I'm in!"
+"002_b","I can't right now."
+"003","(촀\0I just had a great idea!
+\0< (촀\0Wanna go
+hunt for some
+\0 treasure with me?"
+"003_a","Sounds good!"
+"003_b","Maybe not right now."
+"004","(촀\0Cool!
+\0( I'm gonna go bury some
+treasure
+\0 somewhere on this island,
+\0
+so hold tight!"
+"005","(촀\0Cool!
+\0( Hang out here
+\0 for a second,
+
+\0(and I'll go bury my treasure!"
+"006","(촀\0Yay! 
+\0I'm gonna go bury a treasure
+box somewhere on the island!"
+"007","(촀\0Oh!
+\0 Maaaan, it's already dark!
+\0
+I guess it's too
+\0 dark to be
+burying things now.
+\0 
+Also, it's way past my snack time.
+\0
+(촀\0No worries. We'll hunt for treasure
+some other time, n\0!"
+"008","OK!
+\0( Some other time,
+maybe, (촀\0n\0!"
+"009","(%촀\0That's fine!
+\0( I'll ask again sometime
+when you're not busy, n\0!"
+"010","No worries. 
+\0I'm gonna go talk to
+some bugs now, n\0!"
+"011","(촀\0OK, so, the rules are real simple!
+\0(촀\0
+x\0\0\0()촀\0If you can find the treasure I buried
+before time runs out,
+\0 thenn\0\0(촀\0you win!
+x\0\0\0(촀\0The treasure's buried in dirt,
+\0 so don't
+go indoors! Folks get mad when('촀\0 you
+try to dig in their floors.
+x\0\0\0(촀\0OK!
+Ready to hunt?
+ð"
+"011_01","(촀\0The rules are real simple. I know,
+'cause I made 'em.
+\0(촀\0
+<\0\0\0()촀\0You gotta find the treasure I buried
+before time's up. (촀\0If ya can do that,
+then ya win!
+\0
+Z\0\0\0(촀\0The treasure's buried in dirt, and not
+indoors. Most folks don't keep dirt
+indoors.
+Z\0\0\0(9촀\0Most folks don't like good ideas.
+Z\0\0\0(촀\0Also! 
+\0This is you and me's serious
+treasure game, 
+\0(""촀\0so other folks can't
+help. They can only watch!
+Z\0\0\0Ready.
+\0 Set? 
+\0(촀\0Gooooooooooo!
+x"
+"012","(촀\0The rules are real easy!
+\0(촀\0
+<\0\0\0()촀\0If you find the treasure I buried
+\0
+before the clock runs out,
+\0
+(촀\0you win!
+Z\0
+(%촀\0The treasure is buried in the dirt,
+\0
+so no need to look indoors!
+Z\0\0\0(촀\0Nobody'd let me bury it in their
+house. And I asked EVERYONE!
+Z\0\0\0Ya don't have as long to search
+this time, so good luck!
+\0(
+Alright, 
+\0ready?
+Z"
+"012_01","(촀\0The rules, man, they're so simple!
+\0(촀\0
+<\0\0\0()촀\0If you find the treaure I buried
+\0 before
+the clock runs out,
+\0 (촀\0you win! That's it!
+That's all the rules!
+Z\0\0\0(%촀\0Oh. And the rule that the treasure
+is buried in dirt,
+\0 so don't look in
+buildings.
+Z\0\0\0(9촀\0Also! The rule that this is our game,
+\0(""촀\0
+so there's no one around to help!
+You're on your own!
+Z\0\0\0(촀\0There ain't as much time to search
+this go, OK? So be quick, and good
+luck!
+\0( Alright, 
+\0here we goooo!
+x"
+"013","Ummm,
+\0 (&촀\0do you already know the
+treasure-hunting rules?"
+"013_a","Nope, tell me!"
+"013_b","(\0촀\0Yup."
+"014","(촀\0A huh huh,
+\0 well, good luck!
+\0(
+(촀\0Alright, 
+\0get ready!
+<"
+"014_01","(촀\0A huh huh,
+\0 good luck!
+\0( (\0촀\0Oh yeah, 
+\0()촀\0and
+you're the only person who can dig
+up the treasure!
+Z\0\0\0(촀\0Alright,
+\0 get ready, n\0!
+Z"
+"015","(촀\0You don't have as much time
+\0
+to search, so it might be hard!
+\0(
+(촀\0Ready? 
+\0Good luck!
+<"
+"015_01","(촀\0You don't have as much time
+\0
+to search, so it might be hard!
+Z\0\0\0(\0촀\0Oh yeah, 
+\0()촀\0and you're the only person
+who can dig up the treasure!
+\0(
+(""촀\0Anyone else has to just watch, OK?
+Z\0
+(촀\0OK,
+\0 good luck, n\0!
+Z"
+"101","(촀\0Oh, it's n\0!
+\0
+(촀\0I'm real glad to run into you!
+\0(
+I've been sooo bored!\0\0(4촀\0Are you, like, free right now?
+\0
+We oughta play a game!
+\0<
+(촀\0
+\0Ya wanna do a treasure hunt?"
+"101_a","Sure!"
+"101_b","Sorry, not now."
+"102","(
+촀\0I was
+\0 just trying to decide what
+\0 to
+play nextn\0\0\0\0(촀\0Hey, 
+\0n\0?
+\0(
+(촀\0You wanna play a
+treasure-hunting game?"
+"102_a","Sounds fun!"
+"102_b","I'm good."
+"103","(촀\0Hang on! 
+\0(It's already dark!
+\0( (촀\0We can't
+play if you can't see.
+\0 We'll have to
+try some other time, n\0!"
+"104","(촀\0Cool! I was hoping you'd say yes!(촀\0
+\0(
+OK, 
+\0hold on a second.\0\0(촀\0I'm gonna go bury my favorite
+\0
+treasure somewhere on the island!
+\0
+(\0촀\0
+\0(6촀\0Stay heren\0\0 And no peeking!"
+"105","(촀\0OK, 
+\0no worries!
+\0( Some other
+time, n\0!"
+"106","(촀\0Oh man!
+\0 It's kinda dark now, huh?
+\0(
+(촀\0Guess you can't really see out here.
+\0
+('촀\0We'll try it during the day sometime."
+"107","(촀\0YAY!
+\0( ()촀\0I'm gonna bury the treasure
+somewhere on the island."
+"108","OK!
+\0( (촀\0We'll play some other time!"
+"200","(촀\0I looked all over the island, but I
+couldn't find anywhere cool to
+bury the treasure!\0\0(촀\0Welp, if ya can't bury treasure,
+ya can't have a treasure hunt!"

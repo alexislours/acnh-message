@@ -1,0 +1,204 @@
+﻿"label","text"
+"001","Hé, si tu t'ennuies, j'ai une idée
+pour toi. 
+\0(&촀\0Ça t'dit, une p'tite
+chasse au trésor, n\0?"
+"001_a","Carrément!"
+"001_b","Une autre fois."
+"002","(
+촀\0Si t'as un peu d'temps, j'ai une
+p'tite suggestion pour toin\0\0
+(6촀\0Un défi chasse au trésor!"
+"002_a","J'en suis!"
+"002_b","Hmm... Non, merci."
+"003","(촀\0Oh!
+\0()촀\0 Si t'as rien d'prévu, ça te dirait
+de partir à la chasse au trésor?"
+"003_a","Ça m'branche!"
+"003_b","Pas tellement, non."
+"004","((촀\0Youhou!
+\0 Prépare-toi parc'qu'y va
+y avoir du sport!
+\0 (촀\0J'vais planquer
+l'trésor, attends-moi ici, OK?"
+"005","(촀\0Wouhou! 
+\0Attends une p'tite minute,
+n\0n\0\0 (촀\0J'ai un trésor
+à enterrer!"
+"006","(촀\0Voilà c'que j'voulais entendre!
+\0 Zou,
+j'vais enterrer l'trésor quelque part
+sur l'île, j'en ai pas pour longtemps."
+"007","(7촀\0Non, mais laisse tomber en fait.
+
+\0(촀\0On va pas faire une chasse au
+trésor en pleine nuit, non plus!"
+"008","($촀\0Ah, dommage. 
+\0Bah, reviens m'voir
+si tu changes d'avis, chuis toujours
+partante."
+"009","($촀\0Non?
+\0 Pas d'souci, ce sera pour
+une autre fois."
+"010","( 촀\0T'as peur de prendre une raclée en
+affrontant la championne?
+\0 (촀\0Ha ha!
+\0
+M'en veux pas, j'te niaise juste!"
+"011","(%촀\0Bon, le trésor est enterré.
+\0 Il attend
+plus qu'un2\0e chasseu2
+rse futé2\0e pour
+le dénicher avant la fin du chrono.
+ð\0
+(7촀\0Indice gratos :
+\0 il est enterré à
+l'extérieur, vu qu'les gens chialent
+quand j'fais des trous chez eux.
+ð\0
+(6촀\0Mais j'te dirai rien d'plus! 
+\0Inutile
+d'insister!
+\0 Motus, bouche cousue
+et débrouille-toi!
+\0 Alors, t'es prêt2\0e?
+ð"
+"011_01","(%촀\0Bon, le trésor est enterré.
+\0 Il attend
+plus qu'un2\0e chasseu2
+rse futé2\0e pour
+le dénicher avant la fin du chrono.
+ð\0
+(7촀\0Indice gratis :
+\0 il est enterré à
+l'extérieur, vu qu'les gens râlent
+quand j'fais des trous chez eux.
+ð\0
+(9촀\0Ah, et interdiction de t'faire aider.
+\0
+Y a que toi qu'as l'droit de déterrer
+l'trésor.
+\0(('촀\0 \0KJ'vais pas r'faire la même erreur...
+ð\0\0\0\0d(6촀\0Mais j'te dirai rien d'plus! 
+\0Inutile
+d'insister!
+\0 Motus, bouche cousue
+et débrouille-toi!
+\0 Alors, t'es prêt2\0e?
+x"
+"012","(%촀\0Bon, le trésor est enterré.
+\0 Il attend
+plus qu'un2\0e chasseu2
+rse futé2\0e pour
+le dénicher avant la fin du chrono.
+ð\0
+(7촀\0Indice gratos : il est enterré à
+l'extérieur, vu qu'les gens chialent
+quand j'fais des trous chez euxn\0\0
+ð\0
+(6촀\0Par contre, interdit d'lambiner,
+le temps t'est compté et y'en a
+pas beaucoup!
+\0 Alors, t'es prêt2\0e?
+ð"
+"012_01","(%촀\0Bon, le trésor est enterré.
+\0 Il attend
+plus qu'un2\0e chasseu2
+rse futé2\0e pour
+le dénicher avant la fin du chrono.
+ð\0
+(7촀\0Indice gratis : il est enterré à
+l'extérieur, vu qu'les gens râlent
+quand j'fais des trous chez euxn\0\0
+ð\0
+(9촀\0Ah, et interdiction de t'faire aider.
+\0
+Y'a que toi qu'as l'droit de déterrer
+l'trésor.
+\0(('촀\0 \0KJ'vais pas r'faire la même erreur...
+ð\0\0\0\0d(6촀\0Et interdiction d'lambiner aussi,
+le temps t'est compté et y'en a
+pas beaucoup!
+\0 Alors, t'es prêt2\0e?
+ð"
+"013","(9촀\0C'est la première fois que tu joues
+à ça?
+\0(&촀\0 Tu veux que j'te fasse un
+topo sur les règles?"
+"013_a","(%촀\0Ouais, j'veux bien."
+"013_b","('촀\0Nan, pas la peine!"
+"014","(촀\0Parfait! 
+\0Alors qu'est-ce
+qu'on attend?!
+Z"
+"014_01","(촀\0Très bien!
+\0 Et rappelle-toi que c'est
+juste entre toi et moi, OK?
+\0( Y a que
+toi qu'as l'droit de déterrer l'trésor!
+ð\0
+(촀\0Allez, vas-y 2(championchampionne!"
+"015","(6촀\0Cool!
+\0 Par contre, interdit d'lambiner,
+le temps t'est compté et y'en a pas
+beaucoup!
+\0 Etn\0\0 c'est parti!
+ð"
+"015_01","(촀\0Ha ha, 2unune vrai2\0e pro.
+\0( Rappelle-toi
+que t'es tout2\0e seul2\0e sur c'coup-là,
+y a que toi qui peux déterrer l'trésor.
+ð\0\0\0(6촀\0Et j'te préviens, t'as pas beaucoup
+d'temps alors lambine pas, n\0!
+x"
+"101","($촀\0Salut!
+\0 T'es occupé2\0e, là?
+\0
+Ça t'dirait, une p'tite chasse
+au trésor?"
+"101_a","Je veux!"
+"101_b","Je peux pas."
+"102","
+\0(	촀\0\0J'M'ENNUIIIIIE!
+\0\0d\0\0(촀\0Oh, euh, pardon. J't'avais pas vu2\0e.
+\0(7촀\0
+Sinon, j'me serais pas permis
+d'brailler. Mais y'a rien à faire ici!
+(촀\0Si au moins on avait une salle
+d'arcaden\0\0 (촀\0Eh, mais on a pas b'soin
+d'salle d'arcade pour jouer!
+()촀\0Une p'tite chasse au trésor,
+ça t'dit, n\0?"
+"102_a","Ça oui!"
+"102_b","Une autre fois?"
+"103","(촀\0Ohn\0\0 En fait, y s'fait tard. 
+\0(촀\0On laisse
+tomber pour ce soir, mais t'as un bon
+pour une chasse quand tu veux!"
+"104","(촀\0Ouais!
+\0 Attends-moi ici pendant
+qu'j'enterre le trésor. 
+\0()촀\0T'auras pas à
+poireauter longtemps, promis juré!"
+"105","( 촀\0T'as pas franchement l'air de crouler
+sous les trucs à faire urgents, mais
+bonn\0\0 (%촀\0C'est pas grave, à plus!"
+"106","(촀\0Ohn\0\0 Il fait trop noir en faitn\0\0 La nuit
+est tombée d'un coup, ou quoi?
+\0
+(7촀\0On va d'voir reporter, désolée."
+"107","((촀\0Bonne réponse! 
+\0(6촀\0\0KVisiblement, chuis pas la
+seule à m'tourner les pouces dans l'coin...\0d\0\0()촀\0Laisse-moi une minute, le temps
+d'enterrer l'trésor, et on pourra
+commencer!"
+"108","(촀\0Non?
+\0 Ohn\0\0 (촀\0Enfin, j'vais pas t'forcer,
+non plus, n\0."
+"200","(9촀\0Tu vas p'têt me dire que j'aurais dû
+vérifier avant, mais y'a plus d'place
+sur l'île pour enterrer mon trésor.
+(촀\0Et une chasse au trésor sans trésor,
+c'est pas vraiment la même chose.
+\0
+Désolée, n\0n"

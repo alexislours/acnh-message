@@ -1,0 +1,496 @@
+﻿"label","text"
+"000","Eh?
+\0 ""Fuori dall'area di servizio""?
+\0
+Mi sa che qui non posso usare l'app."
+"001","Vuoi chiamare il \0soccorso\0￿?"
+"001_a","(\0촁\0Sì!"
+"001_b","(\0촁\0No."
+"010","                 
+\0d\0d\0\0Ci si vede!\0ddd
+"
+"011","d\0
+\0                    \0Salve!\0d
+\0\0\0Grazie per aver chiamato.
+\0 Sei in
+contatto con il 
+\0\0soccorso\0￿.d"
+"011_01","d\0Vediamo,
+\0 tu sein\0\0d
+"
+"011_02","d\0La tua posizione attuale èn\0\0d
+"
+"012","d\0Capperi!
+\0 Non so cosa gli prende a
+questo affare!
+\0 Il segnale è come
+impazziton\0\0d"
+"012_01","d\0Dimmi una cosa. 
+\0Hai per caso un
+ospite? 
+\0Oppure hai lasciato il gate
+aperto o roba del genere?\0\0Il fatto è che quando ci sono troppi
+segnali,
+\0 le cose non funzionano come
+dovrebberon\0\0\0\0Se è davvero un'emergenza,
+\0 apri il
+menu col \0pulsante \0￿
+\0 e seleziona
+\0Chiudo la sessione\0￿, d'accordo?d"
+"012_02","d\0Dimmin\0\0
+\0 per caso stai visitando
+l'isola di qualcun altro?\0\0Perché ho troppi segnali che si
+scontrano l'uno con l'altro 
+\0e la
+situazione può farsin\0\0 caotica.\0\0Se ti trovi davvero, ma davvero nei
+guai,
+\0 seleziona \0Torno alla mia isola
+\0￿dal menu del \0pulsante \0￿. Chiaro?d"
+"013","d\0Aspetta. 
+\0Ti trovi, ehm,
+\0 all'interno di
+un edificio in questo momento?\0\0Mi spiace dirtelo,
+\0 ma questo è un
+servizio vecchio stile e funziona
+solo all'aperto.\0\0Pensacin\0\0
+\0 Se sbatti la testa sul
+soffitto,
+\0 ti verrà un bel mal di testa,
+dico bene?
+\0 Non sarebbe bello.\0\0Perciò 
+\0se vuoi usufruire di questo
+servizio,
+\0 devi per forza 
+\0uscire,
+capito?d"
+"021_01","d\0Capito.
+\0 Sei n\0 di n!\0, giusto?d"
+"021_02","d\0Solo un secondo...
+\0 OK! Ci sono!
+\0 Sei n\0 e chiami da n!\0, giusto?\0\0
+\0Sei un po' nei pasticci, eh?d"
+"021_03","d\0Eh? 
+\0Sei ancora tu, n\0?
+\0 Di nuovo nei guai?d"
+"022","d\0Ehi, 
+\0è la prima volta che usi il nostro
+servizio, vero? 
+\0Ora ti spiego più o
+meno come funziona.\0\0Siamo sempre pronti 
+\0ad aiutarti se
+\0
+ti trovi in difficoltà e non riesci più
+a muoverti. Chiamaci en\0\0\0\0n\0\0 ti porteremo al sicuro 
+\0in un
+baleno.\0\0È una tecnologia rivoluzionaria! 
+\0
+Come funziona?
+\0 È un segreto!
+\0
+Sul serio, lascia perdere.d"
+"023_01","d\0Il tariffario è molto semplice. 
+\0Un
+singolo soccorso costa \0100\0￿ miglian\0\0
+\0
+100 miglia di Nookn\0\0 Che ne dici?d"
+"023_01_a","(%촁\0Sì! Aiuto!"
+"023_01_b","('촁\0No, niente."
+"023_02","d\0Un soccorso costa \0100\0￿ miglia.
+\0
+Va bene?d"
+"023_02_a","(%촁\0Sì! Aiuto!"
+"023_02_b","('촁\0No, niente."
+"023_03","d\0Oh, giàn\0\0 a proposito. L'ultima volta
+non avevi abbastanza miglia, n\0n\0\0
+\0(\0\0Spero che la storia non si ripetan\0\0\0\0La tariffa è \0100\0￿ miglia a soccorso.
+100 miglia di Nook.
+\0 Che ne dici?d"
+"023_03_a","(%촁\0Sì! Aiuto!"
+"023_03_b","('촁\0No, niente."
+"031_01","d\0Come dici? 
+\0Sei a posto?d"
+"031_02","d\0Cosa? 
+\0Sei a posto?
+\0( Ascoltan\0\0
+\0
+Non me la sono presa per quella tua
+mancanza di miglian\0\0
+\0 Lo sai, vero?d"
+"032_01","d\0Se non riesci a muoverti,
+\0 chiamami
+senza esitare!d"
+"032_02","d\0Non hai miglia di Nook a portata
+di mano? 
+\0Non è un problema.
+Troveremo un'altra soluzionen\0\0
+Se non riesci a muoverti, chiama
+senza indugio!d"
+"041_01","d\0Ottimo!
+\0 Prima di tutto incasso
+le \0100\0￿ miglian\0\0d"
+"041_02","d\0Ottimo! 
+\0A quanto pare le miglia di
+Nook non ti mancano,
+\0 quindi ne
+incasso subito \0100\0￿n\0\0d"
+"042_01","d\0Ottima scelta!
+\0 Prima di tutto, 
+\0devo
+incassare le \0100\0￿ miglia e poin\0\0d
+K"
+"042_02","d\0
+
+\0
+\0                      \0EHI!\0d
+\0
+	\0\0\0Che c'è?
+\0( Non vedi che ti mancano
+le miglia di Nook?\0\0Dai, non fare così! 
+\0Vabbèn\0\0
+\0 OKn\0\0
+Visto che è un'emergenza,
+\0 per
+questa volta non ti faccio pagare!d"
+"042_03","d\0
+
+\0
+\0                      \0EHI!\0d
+\0
+	\0\0\0Che c'è ancora?
+\0( Non vedi che ti
+mancano le miglia di Nook?\0\0Che devo fare con te?! 
+\0Vabbè dain\0\0
+\0
+Visto che è un'emergenza,
+\0 per
+questa volta non ti faccio pagare!d"
+"042_04","d\0Visto che lo faccio per pura
+generosità, 
+\0andrai dove decido io. 
+\0
+A soccorso donaton\0\0d"
+"043","d\0Un'altra cosa.
+\0 Dato che viaggi in
+compagnia,
+\0 vi porterò alla \0piazza\0￿.d"
+"044_01","d\0Ora che è tutto pronto,
+\0 dove
+vuoi che ti porti?d"
+"044_01_a","A casa."
+"044_01_b","In piazza."
+"044_01_c","In aeroporto."
+"044_01_d","('촁\0Lascio perdere."
+"044_02","d\0Ora che è tutto pronto,
+\0 dove
+vuoi che ti porti?d"
+"044_02_a","Alla mia tenda."
+"044_02_b","In piazza."
+"044_02_c","In aeroporto."
+"044_02_d","Ho cambiato idea."
+"044_03","d\0Ora che è tutto pronto,
+\0 dove
+vuoi che ti porti?d"
+"044_03_a","A casa."
+"044_03_b","In piazza."
+"044_03_c","Al negozio."
+"044_03_d","In aeroporto."
+"044_03_e","('촁\0Lascio perdere."
+"045","d\0A propositon\0\0 visto che ancora non
+hai una casa tutta tua, devi dirmi tu
+dove andiamo!d"
+"045_a","In piazza."
+"045_b","In aeroporto."
+"045_c","('촁\0Lascio perdere."
+"046","d\0A propositon\0\0 visto che ancora non
+hai una casa tutta tua, devi dirmi tu
+dove andiamo!d"
+"046_a","In piazza."
+"046_b","Al negozio."
+"046_c","In aeroporto."
+"046_d","('촁\0Lascio perdere."
+"047","d\0Ora che è tutto pronto,
+\0 dove
+vuoi che ti porti?d"
+"047_a","Alla mia tenda."
+"047_b","In piazza."
+"047_c","Al negozio."
+"047_d","In aeroporto."
+"047_e","('촁\0Lascio perdere."
+"048","d\0Mmmhn\0\0
+\0 Ehi, amic2oa. 
+\0Sei a zonzo, 
+\0eh?\0\0Non riesco ad avere una mappa
+decente dell'isola,
+\0 perciò ti mollerò
+\0dove atterrano gli aerei.\0￿
+\0 Va bene?d"
+"048_a","Sì, grazie!"
+"048_b","('촁\0Lascio perdere."
+"050_01","d\0Nella tua tenda? 
+\0Non c'è problema.d"
+"050_02","d\0A casa tua, eh? 
+\0Un gioco da ragazzi.d"
+"050_03","d\0In piazza? 
+\0Va bene!d"
+"050_04","d\0Al negozio dell'isola, eh? 
+\0Ma certo!d"
+"050_05",""
+"050_06","d\0OK. 
+\0Allaccia la cintura senza paura!d"
+"050_07","d\0E aeroporto sia. 
+\0Passo e chiudo...
+e tutti gli annessi e connessi.d"
+"051","<"
+"051_01","d\0Ehmn\0\0
+\0KQual era il pulsanten\0\0?\0dd"
+"051_02","d\0Vediamon\0\0
+Eh? \0K
+\0È questo il pulsante giusto, non\0\0?\0dd"
+"051_03","d\0Accn\0\0
+Capperi! \0K
+\0Non vado d'accordo con questi
+aggeggin\0\0\0dd"
+"052","d\0Mi sa che è questo. 
+\0E c'è solo un
+modo per scoprirlon\0\0d"
+"053","
+\0           d\0\0VIA!\0dd
+"
+"061","d\0Sveglia! 
+\0Il viaggio è finito!d"
+"062","d\0Oh, già. 
+\0Un'ultima cosan\0\0d"
+"063","<"
+"063_01","d\0Le isole sono come sacchi di patate.
+\0
+Se le riempi troppo, poi esplodono!
+\0
+La parola d'ordine è moderazione.d"
+"063_02","d\0""Salvataggio automatico"", capito?
+\0
+Significa che non puoi 
+\0resettare
+nulla qui 2\0 n!\0.d"
+"063_03","d\0Non conta solo il risultato.
+\0d\0d촀d Si
+raccoglie ciò che si semina!
+\0 L'isola?
+La tua vita?
+\0 Abbi cura di entrambe!d"
+"064","<"
+"064_01","d\0Le isole sono come sacchi di patate.
+\0
+Se le riempi troppo, poi esplodono!
+\0
+La parola d'ordine è moderazione.d"
+"064_02","d\0""Salvataggio automatico"", capito?
+\0
+Significa che non puoi 
+\0resettare
+nulla qui 2\0 n!\0.d"
+"064_03","d\0Le miglia di Nook, dici?
+\0 Ci sono molti
+modi per accumularle e non sono
+neanche tanto complicati!\0\0Per iniziare, 
+\0le ottieni effettuando
+ogni giorno l'accesso al \0Punto Nook\0￿.
+\0
+Ricordatelo!d"
+"201","Vuoi avviare l'app \0Modifica isola
+\0￿per fare dei lavori di costruzione?"
+"201_a","Diamo il via ai lavori!"
+"201_b","Servizio di pulizia!"
+"201_c","Apri il manuale."
+"201_d","Lasciamo perdere..."
+"202","Ottenimento licenza di costruzionen\0\0
+"
+"202_01","L'app \0Modifica isola\0￿ è pronta!
+Indossa un elmetto durante i lavori:
+la sicurezza prima di tutto!"
+"205","Basta con la costruzione, per ora?"
+"205_a","Sì, basta così."
+"205_b","Servizio di pulizia!"
+"205_c","Apri il manuale."
+"205_d","No, ancora un po'."
+"206","n\0\0
+\0 Errore di collegamento!
+"
+"207","La connessione non è buona? Forse
+dovrei \0alzarmi \0￿e riprovare."
+"208",""
+"209","Sei \0fuori dall'area di servizio\0￿. Puoi
+usare l'app 2\0 n""\0
+solo quando sei all'aperto."
+"210","Chiusura applicazione in corso.
+<"
+"211","Applicazione chiusa! Torna presto
+a usufruire dei nostri servizi."
+"212","Non puoi usare l'applicazione
+\0Modifica isola \0￿se il gate
+dell'aeroporto è aperto."
+"213","Non puoi usare l'applicazione
+\0Modifica isola\0￿ se ci sono visite
+sull'isola."
+"214","Non puoi usare l'applicazione
+\0Modifica isola \0￿se la comunicazione
+è attivata.\0\0Vai all'aeroporto per disattivarla."
+"221","L'applicazione \0Modifica isola
+\0￿è pronta!"
+"221_01","Usa il \0pulsante  \0￿per cambiare
+opzione di costruzione. Per ulteriori
+informazioni, \0consulta il manuale\0￿."
+"221_02","Premi il \0pulsante  \0￿o \0 \0￿per cambiare
+opzione di costruzione quando usi
+un Joy-Con in orizzontale.
+Per informazioni, \0consulta il manuale\0￿."
+"222","\0\0Notifica dall'app\0￿
+È stata aggiunta
+la \0licenza fiumi e laghi\0￿."
+"223","\0\0Notifica dall'app\0￿
+È stata aggiunta la \0licenza rilievi \0￿."
+"224","\0\0Notifica dall'app\0￿
+Sono state aggiunte la \0licenza rilievi\0￿
+e la \0licenza fiumi e laghi\0￿."
+"225","Premi il \0pulsante  \0￿per cambiare
+opzione. Per ulteriori informazioni,
+\0consulta il manuale\0￿."
+"225_01","Puoi premere il \0pulsante  \0￿o \0
+\0￿per cambiare opzione quando usi
+un Joy-Con in orizzontale.
+Per informazioni, \0consulta il manuale\0￿."
+"241","Info sull'app \0Modifica isola\0￿\0\0\0\0Avviare e fermare la costruzione\0￿
+Usa l'app per iniziare e terminare
+la costruzione in modo corretto."
+"241_01_00","\0\0Cambiare licenza\0￿
+Durante la costruzione, premi il
+\0pulsante \0￿ per cambiare licenza."
+"241_01_01","\0\0Cambiare licenza\0￿
+Se usi un Joy-Con in orizzontale,
+cambia licenza con il \0pulsante  \0￿o \0\0￿."
+"241_02","Ricorda che le tue licenze per l'app
+\0Modifica isola \0￿sono valide solo 2\0
+n""\0.
+Se lasci l'isola, la costruzione
+si interromperà.\0\0Indossa sempre un elmetto e
+lavora sempre in sicurezza!"
+"242","Guida alla costruzione delle strade\0\0Premi il \0pulsante \0￿ sull'erba per
+creare o rimuovere strade."
+"242_00_01","Guida alla costruzione delle strade\0\0Premi il \0pulsante \0￿ sull'erba per
+creare o rimuovere strade."
+"242_01_00","\0\0Scegli il tipo di strada\0￿
+Premi il \0pulsante \0￿ per scegliere tra
+i tipi di strada che hai già ottenuto."
+"242_01_01","\0\0Scegli il tipo di strada\0\0\0￿Se usi un Joy-Con in orizzontale,
+premi il \0pulsante  \0￿o \0\0￿ per scegliere
+un tipo di strada tra quelli ottenuti."
+"243","Guida alla costruzione di fiumi e laghi\0\0Premi il \0pulsante  \0￿per scavare nel
+terreno, così da creare fiumi, laghi
+ecc. Puoi anche riempirli.
+\0\0Creare cascate\0￿
+Prova a scavare in cima a un rilievo
+per creare una \0cascata\0￿."
+"243_01","Guida alla costruzione di fiumi e laghi\0\0Premi il \0pulsante  \0￿per scavare nel
+terreno, così da creare fiumi, laghi
+ecc. Puoi anche riempirli.
+\0\0Creare cascate\0￿
+Prova a scavare in cima a un rilievo
+per creare una \0cascata\0￿."
+"244","Guida alla costruzione di rilievi\0\0Premi il \0pulsante  \0￿per creare dei
+rilievi, smussarne di esistenti o per
+distruggerli.
+\0\0Creare rilievi su altri rilievi\0￿
+Puoi creare un rilievo su un altro, ma
+non sul ciglio. Niente muri giganti!
+Comincia creando un'ampia
+superficie di base prima di passare
+al secondo piano.
+\0\0Distruggere cascate
+\0￿Prima usa la licenza fiumi e laghi per
+riempire la cascata.
+In seguito potrai distruggere il rilievo
+a tuo piacimento."
+"244_01","Guida alla costruzione di rilievi\0\0Premi il \0pulsante  \0￿per creare dei
+rilievi, smussarne di esistenti o per
+distruggerli.
+\0\0Creare rilievi su altri rilievi\0￿
+Puoi creare un rilievo su un altro, ma
+non sul ciglio. Niente muri giganti!
+Comincia creando un'ampia
+superficie di base prima di passare
+al secondo piano.
+\0\0Distruggere cascate
+\0￿Prima usa la licenza fiumi e laghi per
+riempire la cascata.
+In seguito potrai distruggere il rilievo
+a tuo piacimento."
+"245","Guida al servizio di pulizia\0\0A volte, quando stai lavorando a
+un progetto di costruzione, potresti
+trovarti inavvertitamente nei guai.\0\0Forse qualcosa che hai posizionato
+ti impedisce di muoverti o non riesci
+ad afferrare un oggetto su un rilievo.\0\0Il servizio di pulizia ti viene in aiuto
+quando hai bisogno di spostare
+qualche oggetto intorno a te.\0\0Vengono spostati solo gli oggetti
+(come mobili o recinzioni) \0nelle tue
+immediate vicinanze\0￿.\0\0Assicurati di avvicinarti agli oggetti
+che ti causano problemi prima di
+richiedere il servizio.\0\0Gli oggetti recuperati verranno
+depositati nel \0punto di raccolta
+\0￿del centro servizi.\0\0Quindi non tardare ad andare a
+prenderli!"
+"251","Che c'è di interessante da leggere?"
+"251_01","Che c'è di interessante da leggere?"
+"251_01_a","La guida di base."
+"251_01_b","Costruire le strade."
+"251_01_c","Costruire fiumi e laghi."
+"251_01_d","Il servizio di pulizia."
+"251_01_e","Non mi va di leggere."
+"251_02","Che c'è di interessante da leggere?"
+"251_02_a","La guida di base."
+"251_02_b","Costruire le strade."
+"251_02_c","Costruire rilievi."
+"251_02_d","Il servizio di pulizia."
+"251_02_e","Non mi va di leggere."
+"251_03","Che c'è di interessante da leggere?"
+"251_03_a","La guida di base."
+"251_03_b","Costruire le strade."
+"251_03_c","Costruire fiumi e laghi."
+"251_03_d","Costruire rilievi."
+"251_03_e","Il servizio di pulizia."
+"251_03_f","Non mi va di leggere."
+"251_a","La guida di base."
+"251_b","Costruire le strade."
+"251_c","Il servizio di pulizia."
+"251_d","Non mi va di leggere."
+"261","A volte, quando stai costruendo
+qualcosa, potresti trovarti in una
+situazione un po' scomoda.\0\0Magari non riesci ad afferrare
+un oggetto in cima a un rilievo.\0\0Oppure una decorazione posizionata
+in un'area molto stretta ti impedisce
+di muoverti.\0\0Il servizio di pulizia ti viene in aiuto
+spostando subito gli oggetti posti
+nelle tue immediate vicinanze.\0\0Gli oggetti recuperati verranno
+depositati nel \0punto di raccolta
+\0￿del \0centro servizi\0￿.\0\0Per ulteriori dettagli, consulta
+il manuale."
+"262","Vuoi usare il servizio di pulizia
+e inviare gli oggetti vicini a te al
+punto di raccolta del centro servizi?"
+"262_a","Sì, facciamo pulizia"
+"262_b","No, non adesso"
+"263","D'accordo!
+\0 Attendi un attimo mentre
+ripuliamo gli oggetti posti nelle tue
+vicinanze."
+"264","Pulizia completata!
+\0 Ricordati di
+recuperare gli oggetti presso il
+\0punto di raccolta \0￿del \0centro servizi\0￿."
+"265","Non ci sono oggetti da ripulire.\0\0Il servizio di pulizia funziona solo
+per oggetti o recinzioni posti nelle
+tue immediate vicinanze."
+"301","Sembra che l'app della mappa
+non funzioni su quest'isola."
+"311","Mh? Dice che sono fuori dall'area
+di copertura. Immagino di non poter
+usare l'app qui."
+"999","\0100 \0￿miglia"

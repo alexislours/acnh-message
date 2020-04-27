@@ -1,0 +1,56 @@
+﻿"label","text"
+"001","C'est la boîte de dépôt de la
+boutique.
+\0 Veux-tu y déposer
+quelque chose à vendre?"
+"001_a","(%촁\0Oui, je veux vendre."
+"001_b","(\0촁\0Comment ça marche?"
+"001_c","('촁\0Pas pour le moment."
+"002","Veux-tu déposer davantage d'objets
+à vendre dans la boîte de dépôt?"
+"002_a","(%촁\0Oui, je veux vendre."
+"002_b","(\0촁\0Comment ça marche?"
+"002_c","('촁\0Pas pour le moment."
+"003","Alorsn\0\0 Veux-tu y déposer
+quelque chose à vendre?"
+"003_a","(%촁\0Oui, je veux vendre."
+"003_b","(\0촁\0Revoir l'explication."
+"003_c","('촁\0Pas cette fois, merci."
+"004","Hmmn\0\0 Ça devrait te rapporter
+\0Z\0\0￿.
+\0 Ça te va?"
+"004_a","(%촁\0Marché conclu!"
+"004_b","('촁\0En fait, non."
+"010","D'après le panneau, c'est une « ⁠boîte
+de dépôt ».
+\0 Visiblement, il suffit d'y
+déposer tout ce qu'on veut vendre."
+"010_a","(\0촁\0Vendre quelque chose."
+"010_b","(\0촁\0Comment ça marche?"
+"010_c","('촁\0Pas pour le moment."
+"020","(
+촀\0On dirait que tu ne peux pas utiliser
+la boîte si ton épargne à la Banque
+Nook a déjà atteint son maximum."
+"021","(
+촀\0On dirait que tu ne peux pas
+vendre davantage d'objets de
+cette façon pour le moment."
+"101","\0Utilisation de la boîte de dépôt\0￿\0\0Tu peux nous déposer tout ce que tu
+veux vendre, quand tu veux! Il suffit
+de placer les objets dans la boîte.\0\0Le montant de la vente sera crédité
+\0le lendemain\0￿ sur ton compte de
+la banque Nook.\0\0\0\01) Aucun objet placé dans la boîte
+de dépôt ne peut être restitué.\0\02) Les objets déposés sont repris
+à 80 % de leur valeur d'achat, pour
+couvrir nos frais de traitement.\0\03) L'échange de navets et le rachat
+des articles phares au prix fort ne
+peut avoir lieu que dans la boutique.\0￿"
+"901","C'est la boîte de dépôt de la
+boutique.
+\0 Seuls les résidents de l'île
+peuvent y déposer quelque chose."
+"902","D'après le panneau, c'est une « ⁠boîte
+de dépôt ».
+\0 Mais son utilisation est
+réservée aux résidents de cette île."

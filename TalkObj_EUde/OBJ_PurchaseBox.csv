@@ -1,0 +1,56 @@
+﻿"label","text"
+"001","Das ist die Verkaufskiste.
+\0
+Willst du etwas verkaufen?"
+"001_a","Na klar!"
+"001_b","Wie funktioniert das?"
+"001_c","Jetzt gerade nicht..."
+"002","Möchtest du noch etwas über die
+Verkaufskiste verkaufen?"
+"002_a","Na klar!"
+"002_b","Wie funktioniert das?"
+"002_c","Jetzt gerade nicht..."
+"003","Und?
+\0 Möchtest du jetzt
+etwas verkaufen?"
+"003_a","Na klar!"
+"003_b","Noch mal erklären!"
+"003_c","Ein andermal."
+"004","Hm, dafür dürfte es \0Z\0
+\0￿geben.
+\0 Wäre das in Ordnung?"
+"004_a","(\0촀\0Abgemacht!"
+"004_b","(\0촀\0Lieber nicht."
+"010","„Verkaufskiste“...
+\0 Da kann
+man wohl Sachen reintun,
+die man verkaufen möchte?"
+"010_a","Etwas verkaufen"
+"010_b","Wie funktioniert das?"
+"010_c","Jetzt gerade nicht..."
+"020","(
+촀\0Anscheinend kann ich die Kiste
+nicht nutzen, wenn mein Konto
+bei der NookDirect Bank voll ist."
+"021","(
+촀\0Sieht aus, als könnte ich im
+Moment auf diese Weise nichts
+mehr verkaufen."
+"101","\0So funktioniert die Verkaufskiste\0￿\0\0Verkauf jederzeit! Lege einfach etwas
+hinein, das du verkaufen willst.\0\0Der Erlös wird \0am nächsten Tag
+\0￿auf dein Konto bei der NookDirect
+Bank überwiesen.\0\0\0\01) Wegen Unkosten beträgt der 
+Verkaufspreis 80 % vom normalen
+Ankaufpreis.\0\02) Gegenstände, die in die Kiste
+gelegt wurden, können NICHT
+zurückgeholt werden.\0\03) Rübenhandel und der erhöhte
+Preis für den Top-Ankauf des Tages
+sind nur im Laden verfügbar!\0￿"
+"901","Die Verkaufskiste für den Laden.
+\0
+Nur Bewohner dieser Insel können
+sie nutzen."
+"902","Eine Art Verkaufskiste...
+\0
+Die können wohl nur Bewohner
+dieser Insel verwenden."

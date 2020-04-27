@@ -1,0 +1,238 @@
+﻿"label","text"
+"001","(촀\0Hey,
+\0 weird question, but
+\0n\0\0(&촀\0you
+wanna get involved in a treasure
+hunt with me?"
+"001_a","Oh yeah!"
+"001_b","(\0촀\0Maybe later."
+"002","(%촀\0My brain's a-stormin'
+\0 and I just had
+an idea.
+\0 (&촀\0Wanna do a treasure hunt?"
+"002_a","Yeah!"
+"002_b","I don't think I can."
+"003","(&촀\0What would you do if you had a little
+extra time?
+\0 (6촀\0Treasure hunt,
+\0 right?
+\0(
+C'mon, kiddo!"
+"003_a","OK!"
+"003_b","(\0촀\0Sorry, I'm busy."
+"004","(촀\0Alright!
+\0 I'll get my shovel and
+get to diggin'.
+\0 That's right—
+\0(6촀\0
+I'm hidin' the treasure!"
+"005","(촀\0Roger that!
+\0 (9촀\0Just gimme a few
+minutes to bury the thing
+\0n"
+"006","(촀\0Ha!
+\0 Knew you were a good
+sport,
+\0 kiddo.
+\0 (%촀\0I'll go get things
+ready for you
+\0n"
+"007","( 촀\0Aw, crud.
+\0( (촀\0Just realized I don't have
+time to do this now.
+\0 Sorry, kiddo."
+"008","( 촀\0No deal, huh?
+\0 (9촀\0Well,
+\0 maybe
+another time."
+"009","( 촀\0Not interested, eh?
+\0 (촀\0Maybe some
+other time!"
+"010","( 촀\0No?
+\0 I was sure you'd go for it.
+\0
+Ah, well.
+\0 (촀\0Let's do it another time!"
+"011","(%촀\0Alright,
+\0 here's how this thing
+is gonna work,
+\0 n\0
+\0n\0\0
+<\0\0\0()촀\0If you can find the treasure I hid
+before the time's up
+\0n\0\0(촀\0you get
+the treasure!
+\0 It's yours!
+x\0
+(6촀\0I buried it in the ground somewhere,
+\0
+so there's no need to go snoopin'
+around
+\0 inside buildings.
+x\0
+(!촀\0Giddyup!
+Z"
+"011_01","(%촀\0OK then, here's the rules!
+<\0\0\0()촀\0If you can find the treasure I buried
+before time runs out,
+\0 you win (촀\0and
+the treasure's yours,
+\0 n\0!
+x\0
+()촀\0It's buried outside,
+\0('촀\0 so don't bother
+lookin' around inside anywhere!
+x\0\0\0(9촀\0And just so we're clear,
+\0 the only one
+who can dig up that treasure is you,
+\0
+OK?
+\0 (6촀\0This is between you and me!
+x\0\0\0(촀\0Alright,
+\0 off you go then!
+Z"
+"012","(%촀\0Alright,
+\0 here's how this thing
+is gonna work.
+Z\0\0\0()촀\0It's pretty simple.
+\0 I put a treasure
+in the ground.
+\0 (촀\0You just gotta find it
+before the time's up,
+\0 and it's yours!
+x\0
+(6촀\0Now
+\0n\0\0what are you waitin' for?
+\0
+Time's a-wastin',
+\0 n\0!
+Z"
+"012_01","(%촀\0OK then,
+\0 here's the rules!
+Z\0\0\0()촀\0This ain't hard.
+\0 I buried a treasure
+out there somewhere.
+\0 (촀\0If you find
+it before time's up,
+\0 it's all yours!
+x\0
+()촀\0It's buried outside,
+\0 so no need to
+go ('촀\0pokin' around inside anyplace.
+x\0\0\0(9촀\0And just so we're clear,
+\0 the only one
+who can dig up that treasure is you,
+\0
+OK?
+\0 (6촀\0This is between you and me!
+x\0\0\0()촀\0There's not a lot of time this time
+around,
+\0 so you better be quick!
+\0
+(촀\0Alright,
+\0 off you go,
+\0 n\0!
+x"
+"013","(9촀\0Hey, uh
+\0n\0\0need a refresher on
+the rules?"
+"013_a","Please!"
+"013_b","No, thanks."
+"014","(촀\0Alright
+\0n\0\0off you go,
+\0 n\0!
+Z"
+"014_01","(9촀\0Dunno if it needs to be said,
+\0 but
+this here's a one-on-one match.
+\0(
+Your buddies can't help you look!
+x\0
+(촀\0Alright,
+\0 off you go,
+\0 n\0!
+Z"
+"015","(%촀\0Alright, then.
+\0 You better hurry up!
+\0
+(촀\0Ain't much time,
+\0 n\0!
+Z"
+"015_01","(9촀\0Dunno if it needs to be said,
+\0 but
+this here's a one-on-one match.
+\0(
+Your buddies can't help you look!
+x\0
+()촀\0There ain't a lot of time this
+go-round,
+\0 so be quick about it!
+\0
+(촀\0Alright,
+\0 off we go,
+\0 n\0!
+x"
+"101","(촀\0Good timin', kiddo.
+\0 Interested in
+findin' some
+\0n\0\0
+\0((6촀\0TREASURE?!"
+"101_a","I AM interested."
+"101_b","I'll pass."
+"102","(5촀\0Wonderin' what's on my mind, eh?
+\0 
+Well, allow me to share
+\0n\0\0\0\0(1촀\0I was just thinkin'
+\0n\0\0if I were a
+pirate,
+\0 where would I hide my
+treasure?
+(9촀\0Now, for legal reasons,
+\0 I have to
+state clearly that I'm not a real
+pirate,
+\0 n\0.
+(6촀\0With that outta the way,
+\0 wanna go
+lookin' for some buried treasure?"
+"102_a","I'm in!"
+"102_b","(\0촀\0Maybe another time."
+"103","(촀\0Sorry, kiddo.
+\0 I'm strictly a daytime
+pirate when it comes to treasure
+huntin'.
+\0 (9촀\0Maybe another time."
+"104","(촀\0Yarrr!
+\0 Just gimme a few minutes
+to bury this treasure
+\0 and you can
+get to piratin'!"
+"105","(6촀\0No go on the piratin', huh?
+\0 
+(\0촀\0Well,
+\0 maybe some other time."
+"106","(촀\0Ah, nuts.
+\0 We spent too much time
+yakkin' about buried treasure
+\0 (촀\0to
+actually go through with it.
+(촀\0Let's try again sometime."
+"107","(촀\0Giddyup!
+\0 I've got just the spot
+picked out
+\0n"
+"108","(%촀\0Alrighty.
+\0 Guess I'll have to get
+my piratin' fix elsewhere.
+\0 Maybe
+another time.
+\0 (촀\0Gahaha!"
+"200","( 촀\0Wait a sec
+\0n\0\0 (촀\0Now that I look around,
+\0
+there ain't a good spot on the island
+left
+\0 where I can bury this treasure.
+('촀\0We can't do a treasure hunt like this.
+\0
+(9촀\0Sorry for bringin' the whole thing up."

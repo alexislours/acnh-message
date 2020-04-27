@@ -1,0 +1,311 @@
+﻿"label","text"
+"001","(촀\0Hallihallo! 
+\0Hättest du vielleicht
+Bock auf 'ne (""촀\0kleine Schatzsuche
+mit mir, 
+\0n\0?"
+"001_a","Klar!"
+"001_b","Kann gerade nicht..."
+"002","(촀\0Du siehst aus, 
+\0als wärst du in
+genau der richtigen Stimmung
+fürn\0\0
+\0($촀\0 eine 
+\0SCHATZSUCHE!"
+"002_a","Gut möglich."
+"002_b","Nicht wirklich..."
+"003","(""촀\0Hallo! 
+\0Magst du mit mir auf
+Schatzsuche gehen, 
+\0n\0?"
+"003_a","Gerne doch!"
+"003_b","Nein danke."
+"004","(촀\0Okay!
+\0 (%촀\0Also hör gut zu, 
+\0so lautet der
+Plan... 
+\0Ich werd irgendwo auf der
+Insel einen Schatz verbuddeln,
+\0 und...
+()촀\0Hey,
+\0 immer mit der Ruhe. 
+\0Ich hab
+'ne Buddel-Lizenz!\0\0(촀\0Also, 
+\0du wartest hier 'nen Moment,
+\0
+während ich das Päckchen vergrabe,
+
+\0n\0..."
+"005","(%촀\0Okayn\0\0
+\0 (""촀\0Ich vergrab irgendwo auf der
+Insel einen Schatz. 
+\0Warte hier 'ne
+Sekunde, 
+\0alles klärchen?"
+"006","(6촀\0Also gut, 
+\0ich werd dann mal hier auf
+der Insel (촀\0einen Schatz vergraben,
+\0
+n\0..."
+"007","(촀\0Ach Mist. 
+\0Ist es wirklich schon so
+spät?
+\0(\0촀\0 Bei dem Funzellicht wirst du
+die Box wohl kaum finden.
+Außerdemn\0\0 
+\0hab ich ein bisschen
+Bammel vor Vampiren...\0\0(촀\0Lass uns die Schatzsuche also
+besser verschieben, 
+\0n\0!"
+"008","(촀\0Okay... 
+\0Vielleicht später dann!"
+"009","Okay.
+\0 (촀\0Dann lass uns halt ein anderes
+Mal losziehen!"
+"010","Okay...
+\0 (촀\0Vielleicht überlegst du's dir
+ja noch mal. 
+\0So 'ne Schatzsuche
+macht nämlich echt Laune!"
+"011","(촀\0Okay, 
+\0n\0!
+
+\0Also, 
+\0hier die Regeln!
+\0
+´\0\0\0(촀\0Findest du den Schatz, 
+\0den ich
+versteckt hab, 
+\0bevor die Zeit rum
+ist...
+\0 gehört er dir! 
+\0Easy, 
+\0oder?
+´\0\0\0(%촀\0In Häusern brauchst du gar nicht
+erst zu suchen.
+\0(촀\0 Die Leute reagieren
+allergisch auf Löcher im Teppich!
+´\0
+(""촀\0Oookayn\0\0
+\0 Auf Los geht'sn\0\0
+\0 LOS!
+´"
+"011_01","(촀\0Okay, 
+\0n\0!
+
+\0Also, 
+\0hier die Regeln!
+\0
+´\0\0\0(촀\0Findest du den Schatz, 
+\0den ich
+versteckt hab, 
+\0bevor die Zeit rum
+ist...
+\0 gehört er dir! 
+\0Easy, 
+\0oder?
+´\0\0\0(%촀\0In Häusern brauchst du gar nicht
+erst zu suchen.
+\0(촀\0 Die Leute reagieren
+allergisch auf Löcher im Teppich!
+´\0
+()촀\0Ach ja, eins noch. 
+\0Das hier ist nur
+UNSER Spiel.
+\0 Wenn dir wer hilft,
+ist das voll unfair!
+\0($촀\0 Verstanden?
+\0 Gut!
+´\0
+(""촀\0Oookayn\0\0
+\0 Auf Los geht'sn\0\0
+\0 LOS!
+x"
+"012","(촀\0Okay! 
+\0Hier die Regelnn\0\0 
+\0die übrigens
+noch dieselben sind wie beim letzten
+Mal! 
+\0Tolle Sache, 
+\0oder?
+´\0
+A
+\0a
+\0a
+\0bern\0\0 
+\0(%촀\0dieses Mal ist die Zeit viel
+knapper! 
+\0(6촀\0Deshalb wird's auch nicht
+so leicht, 
+\0zu gewinnen!
+´\0
+(""촀\0Alles klärchen? 
+\0Also dann... 
+\0Auf Los
+geht'sn\0\0
+\0 LOS, 
+\0n\0!
+´"
+"012_01","(촀\0Okay! 
+\0Hier die Regeln!
+x\0\0\0(촀\0(촀\0Spür rechtzeitig den Schatz auf, 
+\0den
+ich verbuddelt hab, 
+\0und du hast
+gewonnen, n\0!
+´\0\0\0(%촀\0Diesmal ist die Zeit viel knapper.
+\0
+(6촀\0Deshalb wird's auch nicht so leicht,
+
+\0zu gewinnen!
+´\0\0\0()촀\0Ach ja, eins noch. 
+\0Das hier ist nur
+UNSER Spiel.
+\0 Wenn dir wer hilft,
+\0
+ist das voll unfair!
+\0($촀\0 Verstanden?
+\0 Gut!
+´\0
+(""촀\0Dann legen wir mal los,
+\0
+n\0!
+´"
+"013","(&촀\0Soll ich dir die Regeln erklären,
+\0
+n\0?"
+"013_a","Ja, bitte."
+"013_b","Nö."
+"014","(%촀\0Okay!
+\0 (""촀\0Und los geht's, 
+\0n\0!
+Z"
+"014_01","(%촀\0Alles klärchen!
+\0 ( 촀\0Ah! 
+\0Genau! 
+\0Niemand
+sonst darf dir helfen.
+\0 ($촀\0Mach mir 2dendie
+2<EinzelkämpferEinzelkämpferin, 
+\0n\0.
+´\0\0\0(""촀\0Supi,
+\0 auf geht's, 
+\0n\0!
+x"
+"015","(촀\0Okay!
+\0 (%촀\0Diesmal ist das Zeitlimit sogar
+NOCH viel knapper, 
+\0also beeil dich!
+\0
+(""촀\0Bereit? 
+\0Auf Los geht'sn\0\0
+\0 LOS!
+´"
+"015_01","(촀\0Okay!
+\0 (%촀\0Diesmal ist das Zeitlimit sogar
+NOCH viel knapper, 
+\0also beeil dich!
+´\0\0\0Alles klärchen!
+\0 ( 촀\0Ah! 
+\0Genau! 
+\0Niemand
+sonst darf dir helfen.
+\0 ($촀\0Mach mir 2dendie
+2<EinzelkämpferEinzelkämpferin, 
+\0n\0.
+´\0\0\0(""촀\0Bereit? 
+\0Auf Los geht'sn\0\0
+\0 LOS!
+Z"
+"101","(&촀\0Heeey, 
+\0du hast nicht zufällig Zeit und
+Lust auf 'ne kleine Schatzsuche,
+
+\0n\0?"
+"101_a","Klar doch!"
+"101_b","Jetzt nicht."
+"102","( 촀\0Hey, 
+\0n\0.
+\0 (촀\0Hast du mal
+kurz ein Sekündchen Zeit?\0\0()촀\0Als angehender Popstar kann ich's
+mir nicht leisten, 
+\0auf der faulen Haut
+zu liegen. 
+\0(%촀\0Ich will gefordert werden!
+(\0촀\0Was hältst du davon, 
+\0wenn wir mal
+was (촀\0Abgefahrenes machen und
+gemeinsam auf Schatzsuche gehen?"
+"102_a","Coole Idee!"
+"102_b","Ein andermal gern..."
+"103","n\0\0( 촀\0Ach, 
+\0Mist!
+\0 Ich hab gar nicht auf die
+Uhr geguckt.
+\0 (7촀\0Sorry, lass uns lieber
+warten, 
+\0bis es wieder heller ist!"
+"104","(촀\0Dufte Sache!
+\0 Okay, 
+\0warte hier ein
+Sekündchen,
+\0 ($촀\0ich verbuddel in der
+Zwischenzeit den Schatz!
+(\0촀\0(%촀\0Ich weiß auch schon genau, wo!
+\0
+Hab 'ne satte Woche gebraucht,
+\0
+um DIE perfekte Stelle zu finden!"
+"105","(""촀\0Kein Ding, 
+\0passt schon!
+\0
+(7촀\0Lass es uns einfach auf später
+verschieben, 
+\0n\0!"
+"106","n\0\0(촀\0Oh, 
+\0krass!
+\0 Schon SO spät?!
+\0
+(촀\0Im Dunkeln können wir die
+Schatzsuche wohl vergessen...
+(+촀\0Außerdem hab ich echt keinen
+Bock, 
+\0einem Vampir auf die Zehen
+zu treten, 
+\0n\0...
+(4촀\0Warten wir lieber, bis es wieder hell
+ist. 
+\0Nur, um ganz sicher zu gehen.
+\0
+\0KEinverstanden?\0d"
+"107","(촀\0Wuhuuu!
+\0 Dacht ich mir schon,
+\0
+dass du dir das nicht entgehen
+lassen würdest, 
+\0n\0!
+(\0촀\0(""촀\0Okay! 
+\0Dann werd ich mal irgendwo
+auf der Insel den Schatz vergraben!
+\0
+(촀\0Oooh!
+\0 Das wird so was von rocken!"
+"108","(촀\0Voll uncool!
+\0 Na ja, 
+\0kann man wohl
+nichts machen. 
+\0(%촀\0Ich frag einfach
+später noch mal, 
+\0n\0!"
+"200","(촀\0Ich hab echt überall geschaut! 
+\0Aber
+da, 
+\0wo ich sonst Sachen vergraben\0\0
+\0
+ist schon was vergraben. 
+\0Von mir!\0\0(8촀\0Ich weiß ja,
+\0 dass ich dich überhaupt
+erst gefragt hatte und so...
+\0 Aber
+\0
+lass uns ein andermal abhängen!"

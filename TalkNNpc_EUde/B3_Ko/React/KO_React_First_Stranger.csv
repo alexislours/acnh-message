@@ -1,0 +1,957 @@
+﻿"label","text"
+"001","(&촀\0Wohnst du hier?
+\0 Und, gefällt's dir?
+\0
+Sieht nett aus,
+\0 aber ich bin grad erst
+hergezogen, 
+\0n\0.
+(촀\0n
+\0 heiß ich.\0\0()촀\0Ich hab einen Wohnort mit Pepp
+gesucht, 
+\0und s\0촀 hat
+mir die Insel hier empfohlen.
+(촀\0Tja,
+\0 ich hab noch eine Menge
+auszupacken und will eigentlich gar
+nicht.
+\0 (""촀\0Komm mal wieder vorbei, 
+\0ja?"
+"002","<"
+"002_01","(촀\0Wohnst du hier?
+\0
+(5촀\0Klar, 
+\0seh ich dir doch an.
+\0 Ich bin
+n
+\0.
+()촀\0Kennst du s\0촀?
+\0
+2
+촀ErSie\0 hat gesagt, 
+\0hier wäre es toll.
+\0
+(3촀\0Dagegen muss man was tun!\0\0(%촀\0Kleiner Spaß.
+\0 Wenn du Lust auf
+Reden hast, 
+\0findest du mich schon
+irgendwo, 
+\0n\0."
+"002_02","(:촀\0Wir kennen uns noch nicht, 
+\0oder?
+\0
+(6촀\0Wenn doch, 
+\0hast du Glück und lernst
+mich noch mal kennen.
+(""촀\0Ich bin n
+\0.\0\0()촀\02\0s\0촀 hat mich nach
+n\0 eingeladen. 
+\0Tja,
+\0
+und da bin ich nun, 
+\0n\0!
+(촀\0Es ist jetzt nicht s촀,
+\0
+aber man gewöhnt sich an Vieles.
+\0
+(촀\0Vielleicht sieht man sich mal."
+"002_03","( 촀\0Hast du dich verlaufen?
+\0 Oh, 
+\0du bist
+von hier!
+\0 (
+촀\0So was...
+\0 Da denkt man,
+\0
+man kennt jeden...
+(""촀\0Ich bin n
+\0.
+\0
+()촀\02\0s\0촀 hat mich von
+s촀 eingeladen.
+\0
+(촀\0Und jetzt verlaufe ich mich in
+meinem eigenen Vorgarten!\0\0(7촀\0Na ja.
+\0 (촀\0Immer gut, 
+\0einen Nachbarn zu
+treffen.
+\0 Bis dann, 
+\0n\0!"
+"004","( 촀\0Ich kenn dich nicht...
+\0 Zumindest
+denke ich, 
+\0dass ich dich nicht kenne.
+\0
+(촀\0Ich bin n
+\0.
+(%촀\0Bist du mit s\0촀 befreundet?
+\0 2
+촀ErSie\0 hat mich hier nach(촀\0n\0\0
+\0 (,촀\0
+
+\0\0HATSCHI! \0￿
+\02\0n\0!\0\0
+	\0(+촀\0'tschuldigung.
+\0 Hab mir unterwegs
+'ne Erkältung geholt,
+\0 und selbst
+literweise Zwiebelsaft hilft nicht.
+(9촀\0Pur,
+\0 versteht sich.
+\0 Glaub mir, 
+\0du
+willst dich bei mir nicht anstecken.
+\0
+Komm lieber ein andermal vorbei!"
+"011","( 촀\0Oh!
+\0 Besuch!
+\0 (&촀\0Äh, 
+\0das hier ist doch
+n\0,
+\0 stimmt's?
+\0
+Ist das die richtige Insel?\0\0(8촀\0Ja? 
+\0Da bin ich aber erleichtert!\0\0Jemand von n\0 hat
+mich hierher eingeladen, 
+\0(촀\0aber ist
+dann abgetaucht!
+(	촀\0Ganz schön unverschämt, 
+\0den alten
+n
+\0 so hinters Licht
+zu führen.
+(
+촀\0Wenn ich mich nur an den Namen
+erinnern könnten\0\0\0\0(7촀\0Na, 
+\0jetzt bin ich hier. 
+\0Machen wir das
+Beste daraus.
+\0 2\0n
+\0,
+\0
+falls du nicht aufgepasst hast.
+(3촀\0Auf gute Nachbarschaft,
+
+\0n\0!"
+"012","(	촀\0Du!
+\0 Erst lädst du mich ein, 
+\0und dann
+kommst du nicht mal zu Besuch?!
+\0
+(
+촀\0Momentn\0\0 
+\0Das warst nicht du. 
+\0Hm.\0\0(촀\0Hoppla.
+\0 Mich hat jemand überredet
+herzuziehen, 
+\0und hat dann selbst
+die Biege gemacht.\0\0(촀\0Die Leute haben keinen Anstand.
+\0
+( 촀\0Na, 
+\0dann stell ich mich mal vor.
+\0
+(""촀\0Ich bin n
+\0.\0\0(%촀\0Tja, 
+\0weg ist weg, 
+\0aber ich bin hier,
+\0
+also schauen wir mal, 
+\0wie sich das
+Ganze entwickelt, 
+\0n\0."
+"014","(촀\0Hmm?
+\0 Bist du von hier?
+\0
+Mein Name ist n
+\0,
+\0
+und ich bin neu, 
+\0n\0.\0\0('촀\0Ich sag dir,
+\0 ich hab's nicht leicht
+gehabt.
+\0 (촀\0Erst wurde ich eingeladen
+und sitzengelassen, 
+\0und dannn\0\0
+
+
+\0
+\0(,촀\0\0\0HAAAAAAAAAAATSCHI!\0d\0￿
+	\0\0\0(촀\0Grmpf.
+\0 Und dann werd ich noch
+krank!
+\0 (촀\0Lass uns noch mal reden,
+\0
+wenn ich mich wieder berappelt hab!"
+"101","(&촀\0Wohnst du auch hier? 
+\0Und, 
+\0wie ist
+es hier so?
+\0 Ich bin gerade erst hier
+angekommen, 
+\0(촀\0n
+\0.(촀\0\0\0Ich bin auf einer Kaffeefahrt s\0촀 begegnet, 
+\0n\0.\0\0()촀\0Ich hab wohl etwas zu viel über
+meine Insel gemeckert, 
+\0denn 2
+촀ersie\0 hat
+mich prompt eingeladen herzuziehen!\0\0(촀\0Tja, 
+\0jetzt heißt es Auspacken, 
+\0und die
+alten Knochen wollen nicht mehr so.
+\0(
+(""촀\0Komm doch später mal vorbei."
+"102","<"
+"102_01","(&촀\0Wohnst du hier auf der Insel?
+\0((\0촀\0
+Ich bin n
+\0.\0\0Ich bin letztens unterwegs s\0촀 begegnet und hab spontan entschieden herzuziehen.\0\0(촀\02\0n\0 ist größer, als es aussieht. 
+\0Ich dachte, 
+\0ich würde mittlerweile jeden hier kennen.\0\0(""촀\0Also dann, 
+\0auf gute Nachbarschaft,
+
+\0n\0!"
+"102_02","(:촀\0Dun\0\0
+\0 Dich kenn ich noch gar nicht,
+\0
+oder?
+\0( (6촀\0Mein Gedächtnis ist aber auch
+nicht das Alten\0\0\0\0(""촀\0n
+\0 heiße ich jedenfalls!\0\0(촀\0Letztens bin ich auf einem Ausflug mit s\0촀 ins Gespräch gekommen, n\0.\0\0()촀\02
+촀ErSie\0 meinte,
+\0 n\0 und ich wären wie füreinander geschaffen.\0\0(촀\0In meinem jugendlichen Leichtsinn
+hab ich dann dem Umzug
+zugestimmt.
+\0( (촀\0Gra ha ha ha!"
+"102_03","( 촀\0Hast du dich verlaufen?
+\0 Oh, 
+\0du bist
+von hier!
+\0 (
+촀\0So was...
+\0 Da denkt man,
+\0
+man kennt jeden...
+(""촀\0Ich bin n
+\0.
+\0
+()촀\02\0s\0촀 hat mich auf einem Ausflug hierher eingeladen.\0\0(촀\0Dachte zwischenzeitlich schon,
+\0 das
+wär 'ne Falle gewesen, 
+\0aber es ist in
+der Tat ganz annehmbar hier.\0\0(7촀\0Jedenfalls schön, 
+\0dich
+kennenzulernen.
+\0 Auf gute
+Nachbarschaft, 
+\0n\0!"
+"104","( 촀\0Ich kenn dich nicht...
+\0 Zumindest
+wenn ich mich jetzt nicht sehr
+täusche.
+\0 (촀\0Ich bin n
+\0.
+(%촀\0Bist du mit s\0촀 befreundet?
+\0 2
+촀ErSie\0 hat mich auf einem gemeinsamen Ausflug hier nach(촀\0n\0\0\0\0(,촀\0
+\0
+
+\0\0HATSCHI! \0￿
+\02\0n\0!\0\0
+	\0(+촀\0'tschuldigung.
+\0 Hab mir unterwegs
+'ne Erkältung geholt,
+\0 und selbst
+literweise Zwiebelsaft hilft nicht.
+(9촀\0Pur,
+\0 versteht sich.
+\0 Glaub mir, 
+\0du
+willst dich bei mir nicht anstecken.
+\0
+Komm lieber ein andermal vorbei!"
+"111","( 촀\0Oh!
+\0 Besuch!
+\0 (&촀\0Äh, 
+\0das hier ist doch
+n\0,
+\0 stimmt's?
+\0
+Ist das die richtige Insel?\0\0(8촀\0Ja? 
+\0Da bin ich aber erleichtert!\0\0Mich hat auf einem Kurzurlaub
+jemand hierher eingeladen, 
+\0(촀\0aber ist
+dann abgetaucht!
+(	촀\0Ganz schön unverschämt, 
+\0den alten
+n
+\0 so hinters Licht
+zu führen.
+(
+촀\0Wenn ich mich nur an den Namen
+erinnern könnten\0\0\0\0(7촀\0Na, 
+\0jetzt bin ich hier. 
+\0Machen wir das
+Beste daraus.
+\0 2\0n
+\0,
+\0
+falls du nicht aufgepasst hast.
+(3촀\0Auf gute Nachbarschaft,
+
+\0n\0!"
+"112","(	촀\0Du!
+\0 Erst lädst du mich ein, 
+\0und dann
+kommst du nicht mal zu Besuch?!
+\0
+(
+촀\0Momentn\0\0 
+\0Das warst nicht du. 
+\0Hm.\0\0(촀\0Hoppla.
+\0 Mich hat letztens bei einem
+Ausflug jemand zum Herziehen über-
+redetn\0\0
+\0 (촀\0und ist jetzt unauffindbar!\0\0(촀\0Die Leute haben keinen Anstand.
+\0
+( 촀\0Na, 
+\0dann stell ich mich mal vor.
+\0
+(""촀\0Ich bin n
+\0.\0\0(%촀\0Tja, 
+\0weg ist weg, 
+\0aber ich bin hier,
+\0
+also schauen wir mal, 
+\0wie sich das
+Ganze entwickelt, 
+\0n\0."
+"114","(촀\0Hmm?
+\0 Wohnst du auf der Insel?
+\0
+Mein Name ist n
+\0,
+\0
+und ich bin neu hier, 
+\0n\0.\0\0('촀\0Ich sag dir,
+\0 sie wollen mich klein-
+kriegen.
+\0 (촀\0Erst wurde ich eingeladen
+und sitzengelassen, 
+\0und dannn\0\0
+
+
+\0
+\0(,촀\0\0\0HAAAAAAAAAAATSCHI!\0d\0￿
+	\0\0\0(촀\0Dann hol ich mir noch 'ne Erkältung!
+\0
+(촀\0Lass uns noch mal reden,
+\0 wenn ich
+mich wieder berappelt hab!"
+"201","(&촀\0Wohnst du hier?
+\0 Und, 
+\0gefällt's dir?
+\0
+Ich selbst bin ja gerade erst
+angekommen, 
+\0n\0.
+(촀\0n
+\0 heiß ich.\0\0()촀\0Als ich hier zelten war, 
+\0hat s\0촀 mich zum Umzug genötigt.\0\0(촀\0Tja,
+\0 ich hab noch eine Menge
+auszupacken, 
+\0das ist der Nachteil
+darann\0\0
+\0 (""촀\0Komm mal wieder vorbei, 
+\0ja?"
+"202","<"
+"202_01","(촀\0Wohnst du hier?
+\0
+(5촀\0Klar, 
+\0seh ich dir doch an.
+\0
+Ich bin n
+\0.
+()촀\0Kennst du s\0촀?
+\0
+2
+촀ErSie\0 hat mir auf dem \0Campingplatz\0￿
+das Hohelied dieser Insel gesungen.
+Da bin ich aus Mitleid
+hierhergezogen, 
+\0n\0n\0\0
+\0
+(촀\0Gra ha ha, 
+\0kleiner Spaß.\0\0(촀\0Du musst mal vorbeikommen und mir
+'ne sanfte Einführung in die Sitten
+hier geben."
+"202_02","(:촀\0Wir kennen uns noch nicht, 
+\0oder?
+\0
+(6촀\0Wenn doch, 
+\0hast du Glück und lernst
+mich ein zweites Mal kennen.
+(""촀\0n
+\0 lautet mein Name.
+\0
+2\0n\0 lautet mein Spruch.\0\0()촀\02\0s\0촀 hat mich auf eurem \0Campingplatz \0￿bequatscht,
+\0 ich soll doch herziehen. 
+\0(Tja,
+\0 da bin ich!
+(촀\0Ich hoffe mal, 
+\0der Kulturschock geht
+bald vorbei.
+\0 (촀\0Bwa ha ha!"
+"202_03","( 촀\0Hast du dich verlaufen?
+\0 Oh, 
+\0du bist
+von hier!
+\0 (
+촀\0So wasn\0\0
+\0 Da denkt man,
+\0
+man kennt jeden...
+(""촀\0Ich bin n
+\0.
+\0 ()촀\0Auf dem \0Campingplatz\0￿ hier bin ich s\0촀 begegnet.\0\0(촀\0„Du musst uuunbedingt dauerhaft
+bleiben“, 
+\0hieß es da. 
+\0(촀\0Wer kann da
+schon Nein sagen?\0\0(7촀\0Na ja.
+\0( (촀\0Dann auf gute Nachbarschaft,
+
+\0n\0!"
+"204","(촀\0Kennen wir uns?
+\0 Nein, 
+\0oder?
+\0
+Ich heiße n
+\0 und
+wohne jetzt hier.
+()촀\0Eigentlich war ich hier nur zelten, 
+\0da
+kommt s\0촀 und schlägt vor, 
+\0dass ich hierherziehen\0\0\0\0
+\0(,촀\0
+\0
+
+\0\0\0Hatschi!!!\0d\0￿\0\0
+	\0\0(+촀\0\0dUnd jetzt sieh dir das ann\0\0 
+\0Das
+Ökosystem auf eurer Insel will mich
+wohl umbringen, 
+\0n\0!\0\0(촀\0Bleib mir besser eine Weile fern,
+\0 bevor ich mir zur Erkältung von dir
+noch was obendrauf einfange!"
+"211","Tag auch. 
+\0Bin neu hier.
+\0
+(촀\0Just frisch hier eingezogen.\0\0Ich war neulich schon hier zelten,
+\0
+da hat jemand vorgeschlagen, 
+\0ich
+soll dauerhaft bleiben.
+(촀\0Aber diese „nette“ Person ist jetzt
+nirgendwo zu finden.\0\0(	촀\0Ganz schön unverschämt, 
+\0den alten
+n
+\0 so hinters Licht zu führen.\0\0(
+촀\0Wenn ich mich nur an den Namen
+erinnern könnten\0\0\0\0(7촀\0Na, 
+\0jetzt bin ich hier. 
+\0Machen wir das
+Beste daraus.
+\0 2\0n
+\0,
+\0 falls du nicht aufgepasst hast.\0\0(3촀\0Auf gute Nachbarschaft, 
+\0n\0!"
+"212","(	촀\0DU!
+\0 Erst lädst du mich ein, 
+\0und dann
+kommst du nicht mal zu Besuch?!
+\0(
+(
+촀\0Momentn\0\0 
+\0Das warst nicht du. 
+\0Hm.\0\0(촀\0Hoppla.
+\0 Mich hat auf dem \0Camping-
+platz\0￿ jemand überredet herzuziehen
+und ist jetzt verschwunden?\0\0('촀\0Die Leute haben keinen Anstand.
+\0
+( 촀\0Apropos Anstand: 
+\0(""촀\0Gestatten, mein
+Name ist n
+\0.\0\0(%촀\0Tja, 
+\0weg ist weg, 
+\0aber ich bin hier,
+\0
+also schauen wir mal, 
+\0wie sich das
+Ganze entwickelt, 
+\0n\0."
+"214","(촀\0Hmm?
+\0 Bist du von hier?
+\0
+Mein Name ist n
+\0,
+\0
+und ich bin neu, 
+\0n\0.\0\0('촀\0Und das fängt schon toll an hier.
+\0
+(촀\0Mich hat nämlich beim Zelten hier
+jemand zum Umzug animiertn\0\0
+(	촀\0Aber jetzt muss ich feststellen, 
+\0dass
+diese Person in der Zwischenzeit
+weggezogen ist!
+
+
+\0
+\0(,촀\0\0\0HAAAAAAAAAAATSCHI!\0d\0￿
+	\0\0\0(촀\0Und von dem ganzen Ärger bin ich
+auch noch krank geworden! 
+\0((촀\0Komm
+wieder, 
+\0wenn's mir besser geht."
+"301","( 촀\0Alles klar bei dir? 
+\0Siehst ziemlich
+bestürzt über meine Anwesenheit
+aus.
+\0( ($촀\0n
+\0 heiß ich.\0\0(1촀\0Ich erzähl dir mal meine Lebens-
+geschichten\0\0
+\0 Ich war letztens hier
+auf dem \0Campingplatz \0￿zu Besuch.\0\0()촀\0Da kommt s\0촀 an und beredet mich, 
+\0dauerhaft hierhinzuziehen.\0\0(\0촀\0So, 
+\0jetzt weißte Bescheid.
+\0 Dann sieht man sich wohl in Zukunft öfter, 
+\0n\0."
+"302","<"
+"302_01","($촀\0Heda! 
+\0Man nennt mich n
+\0. 
+\0Wie geht's dir so, 
+\0n\0?\0\0(1촀\0Ich war letztens auf dem \0Camping-
+platz\0￿ hier und hab mir nichts, dir
+nichts meine Ravioli geschlürftn\0\0\0\0(촀\0Da kommt s\0촀 an und unterbricht mutwillig meine unschuldige Dosenmahlzeit!\0\0(	촀\0Nur um mich zum Umzug hierher zu
+animieren! 
+\0((촀\0Tja, 
+\0zugesagt hab ich
+dann doch. 
+\0Die Sache ist nämlichn\0\0\0\0(%촀\0Ich mag n\0. 
+\0Da kann ich sogar über die Bewohner hinwegsehen. 
+\0(촀\0Gra ha ha ha ha!"
+"302_02","Schön, dich kennenzulernenn\0\0
+\0
+hoffentlich. 
+\0(&촀\0Wir kennen uns doch
+nicht, 
+\0oder?\0\0(%촀\0Bin grad erst hierhingezogen.
+
+\0n
+\0 der Name.\0\0()촀\0Ich hab letztens euren \0Campingplatz\0￿
+besucht, 
+\0da hat s\0촀 den Umzug vorgeschlagen.\0\0(\0촀\02
+촀ErSie\0 hat die Vorzüge dieser Insel so
+blumig beschrieben, 
+\0(촀\0dass ich mich
+hab breitschlagen lassen.\0\0(6촀\0So, 
+\0Ende meiner Vorgeschichte,
+\0
+n\0.\0\0(촀\0Wenn du später mal vorbeischaust,
+\0
+erzähl ich aber noch gern einen wei-
+teren Schwank aus meiner Jugend."
+"302_03","($촀\0Oh, 
+\0hallo.
+\0 Ich heiße n
+\0. 
+\0Freut mich.\0\0(촀\02\0s\0촀 kennst du sicher, 
+\0oder?
+\0 Wir sind auf dem \0Campingplatz \0￿letztens ins Gespräch gekommen.\0\0(;촀\02
+촀ErSie\0 hat mich dann gefragt, 
+\0ob ich
+nicht herziehen will.
+\0 (6촀\0Muss an meinem
+gewinnenden Lächeln liegen!\0\0()촀\0Jedenfalls ist ein Freund von s\0촀 auch ein Freund von mir, 
+\0n\0.\0\0(""촀\0Dann sag ich einfach maln\0\0
+
+\0auf gute Nachbarschaft!"
+"304","(촀\0Oh. 
+\0Tach. (\0촀\0
+\0Das ist unsere erste
+Begegnung, 
+\0oder?
+\0 Mein Name
+lautet n
+\0.\0\0(촀\0Ich geb sicher nicht den besten
+Anblick abn\0\0 
+\0Hab mir nämlich eine
+fiese Erkältung zugezogen.\0\0(9촀\0Jedenfalls hat s\0촀 mich auf eurem \0Campingplatz \0￿hierher eingeladen.(촀\0\0\02\0s\0촀 schien 'ne ehrliche Haut zu sein, 
+\0also hab ich zugesagtn\0\0\0\0(촀\0Und jetzt hab ich den Salat!
+
+\0Beziehungsweise den Schnupfen.(촀\0\0\0(+촀\0Aber dafür kann s\0촀 ja nichts.
+\0( Das waren die Bazillen und das ganze Gesocks, 
+\0n\0.\0\0(촀\0Na ja, 
+\0genug deliriertn\0\0
+\0 Du willst
+sicher heute noch anderen auf den
+Wecker gehen. 
+\0((촀\0Gra ha hn\0\0(,촀\0
+\0 \0hatschi!\0￿"
+"311","( 촀\0Alles klar bei dir? 
+\0Siehst ziemlich
+bestürzt über meine Anwesenheit
+aus.
+\0( ($촀\0n
+\0 heiß ich.\0\0(1촀\0Ich erzähl dir mal meine Lebens-
+geschichten\0\0
+\0 Ich war letztens hier
+auf dem \0Campingplatz \0￿zu Besuch.\0\0()촀\0Da kommt jemand an und beredet
+mich, 
+\0dauerhaft hierhinzuziehen.\0\0(\0촀\0So, 
+\0jetzt weißte Bescheid.
+\0 Dann sieht man sich wohl in Zukunft öfter, 
+\0n\0."
+"312","($촀\0Heda! 
+\0Man nennt mich n
+\0. 
+\0Wie geht's dir so, 
+\0n\0?\0\0(1촀\0Ich war letztens auf dem \0Camping-
+platz\0￿ hier und hab mir nichts, dir
+nichts meine Ravioli geschlürftn\0\0\0\0(촀\0Da kommt so ein Stinker an und
+unterbricht mutwillig meine
+unschuldige Dosenmahlzeit!\0\0(	촀\0Nur um mich zum Umzug hierher zu
+animieren! 
+\0((촀\0Tja, 
+\0zugesagt hab ich
+dann doch. Die Sache ist nämlichn\0\0\0\0(%촀\0Ich mag n\0. 
+\0Da kann ich sogar über die Bewohner hinwegsehen. 
+\0(촀\0Gra ha ha ha ha!"
+"314","(촀\0Oh. 
+\0Tach. (\0촀\0
+\0Das ist unsere erste
+Begegnung, 
+\0oder?
+\0 Mein Name
+lautet n
+\0.\0\0(촀\0Ich geb sicher nicht den besten
+Anblick abn\0\0 
+\0Hab mir nämlich eine
+fiese Erkältung zugezogen.\0\0(9촀\0Jedenfalls hat mich auf eurem
+\0Campingplatz \0￿jemand hierher eingeladen.(촀\0\0\0Ich war grad in 'ner komischen
+Stimmung, 
+\0also hab ich zugesagtn\0\0\0\0(촀\0Und jetzt hab ich den Salat!
+
+\0Beziehungsweise den Schnupfen,
+\0
+n\0.(촀\0\0\0(+촀\0Na ja, 
+\0genug deliriertn\0\0
+\0 Du willst
+sicher heute noch anderen auf den
+Wecker gehen. 
+\0((촀\0Gra ha hn\0\0(,촀\0
+\0 \0hatschi!\0￿"
+"401","( 촀\0Wohnst du hier?
+\0 Ich kenn dich gar
+nicht.\0\0(촀\0Ich bin n
+\0 und
+wieder da nach einem Abstecher
+nach s촀.
+(촀\0Hätte ich gewusst, dass ich wieder
+hier lande, 
+\0hätte ich die Kisten
+einfach hiergelassen, 
+\0n\0.
+(촀\0Komm vorbei, 
+\0wenn ich fertig bin.
+\0( (9촀\0Ich
+will meine Nachbarn kennenlernen.
+\0(
+(3촀\0Mal sehen, 
+\0wem man trauen kann."
+"402","(
+촀\0Vielleicht trügen mich meine
+lieblichen Äuglein, 
+\0aber dich kenne
+ich nicht, 
+\0glaube ich.
+(""촀\0Ich bin n
+\0.
+\0 (""촀\0Ich war
+eine Weile auf s촀,
+\0
+und jetzt bin ich wieder hier.
+(8촀\0Ich bin mir nicht sicher, 
+\0wie ich die
+ganzen Veränderungen hier finden
+soll, 
+\0n\0n"
+"404","(&촀\0Seh ich da ein neues Gesicht?
+\0( (9촀\0Du
+musst lauter sprechen, 
+\0ich seh nicht
+mehr so gut, 
+\0n\0.\0\0(""촀\0Mein Name ist n
+\0
+\0
+und ( 촀\0\0ha\0￿n\0\0 ( 촀\0\0ha\0￿n\0\0 (,촀\0\0HATSCHI!\0￿\0\0(:촀\0Oh Mann!
+\0 Ich bin kaum wieder
+von s촀 hierher
+zurückgezogen und schon krank.
+(촀\0Ich kurier mich erst mal aus und
+wenn's mir besser geht, können wir
+uns gern unterhalten."
+"411","( 촀\0Hey, du!
+\0 (""촀\0Ich bin n
+\0,
+\0
+und ich habe eine wichtige Frage an
+dich, 
+\0n\0.
+(&촀\0Bist du schon mal an einem fremden
+Ort in einem Haus voller Kisten
+aufgewacht?
+\0( Nein?
+\0 Echt nicht?
+(
+촀\0Aber das hier ist definitiv nicht
+s촀...\0\0(7촀\0Na ja, 
+\0nach ein paar Mal gewöhnt
+man sich daran.
+\0 Wie geht's denn so,
+\0
+28Herr NachbarFrau Nachbarin?
+\0 Schöner Tag,
+\0 was?"
+"412","<"
+"412_01","(&촀\0Wir haben uns noch nicht getroffen,
+\0
+oder?
+\0( (""촀\0Ich bin n
+\0,
+\0
+frisch von s촀.
+(촀\0So viele neue Gesichtern\0\0
+\0 Für jedes,
+das ich mir merke, 
+\0geht noch eine
+Kindheitserinnerung flöten!
+(%촀\0Meine Tür ist fast immer offen.
+\0 (촀\0Nur
+verlang nicht, 
+\0dass ich Rad fahre
+oder Schreibschrift schreibe."
+"412_02","(""촀\0Hey! 
+\0Sind wir Nachbarn?
+\0 Ich
+bin n
+\0.
+\0 (%촀\0So steht's
+zumindest auf meiner Hypothek!
+Außerdem habe ich noch alten
+Papierkram von s촀,
+\0
+also komm ich da wohl her.
+(촀\0Jedenfalls freu ich mich schon
+auf deine Versuche, 
+\0mich besser
+kennenzulernen. 
+\0(촀\0Gra ha ha!"
+"412_03","(촀\0Du siehst mir eindeutig so aus, als
+würdest du dich hier auskennen,
+\0
+n\0!\0\0(""촀\0Hallo! Ich bin n
+\0,
+frisch vom Schaufelraddampfer von
+s촀.\0\0(%촀\0Du bist sicher beeindruckt, aber lass
+dich nicht aufhalten.
+\0 Komm vorbei,
+wenn du mir zuhören willst."
+"414","(촀\0Wir haben uns noch nicht vorgestellt,
+oder?
+\0 Ich bin(촀\0n\0\0
+\0
+(,촀\0
+
+\0\0\0HAAAAATSCHI!\0d\0￿
+	\0\0\0('촀\0'tschuldigung.
+\0 Bin etwas durch, 
+\0seit
+ich von s촀 weg bin.
+\0
+Muss die andere Luft sein.\0\0(%촀\0Man nennt mich n
+\0...
+\0
+Aber frag mich nicht,
+\0 wer „man“
+genau ist.
+(촀\0Ich weiß es nicht mehr, 
+\0n\0.\0\0(9촀\0Komm am besten noch mal wieder,
+wenn ich wieder einigermaßen fit
+bin."
+"501","(촀\0Hallo!
+\0( (&촀\0Du bist heute hergezogen?
+\0
+2\0n\0, 
+\0richtig?
+\0
+Das bist du?
+(촀\0Mein Name ist n
+\0,
+\0
+und ich bin auch neu hier.\0\0(촀\0Tja, dann leb dich mal gut
+ein,
+\0 2 KleinerKleines.
+\0 Man sieht sich,
+
+\0n\0."
+"502","<"
+"502_01","(촀\0Bist du das, von 2demder hier alle
+reden?
+\0 2$Der NeueDie Neue, 
+\0n\0?\0\0(:촀\0Ich bin n
+\0.
+\0 ()촀\0Lass dich
+nicht täuschen.
+\0 Ich bin doppelt so
+jung, wie ich mich fühle.
+\0 (촀\0Gra ha ha!\0\0(6촀\0Wenn du Lust auf einen Plausch
+hast, komm vorbei.
+\0 Mit etwas Glück
+bin ich dann gerade umgänglich."
+"502_02","( 촀\0Hä?
+\0 Bist du der Neuzugang, von dem
+ich so viel höre?
+\0 2\0n\0,
+oder so?
+(촀\0Wir kennen uns noch nicht.
+\0 Ich bin
+n
+\0.\0\0(""촀\0Und ich bin selbst noch nicht so
+lange hier, 
+\0n\0.\0\0(%촀\0Wenn du all deinen Kram erledigt und
+dich etwas eingelebt hast, 
+\0schau
+ruhig mal vorbei!"
+"502_03","( 촀\0Hmm? Ich glaube, du hattest noch
+nicht das Vergnügen.
+\0 (""촀\0Ich bin der
+n
+\0.
+(촀\0Ich bin stolzer Einwohner von
+n\0 seit mindestensn\0\0
+ein paar Tagen, 
+\0n\0.
+(5촀\0So, ich muss noch üben, Leute aus
+meinem Vorgarten zu jagen.
+\0 Aber
+komm ruhig mal vorbei!"
+"504","
+\0(+촀\0\0\0HUST! 
+\0HUST! 
+\0HUST!\0d\0￿\0\0(8촀\0Bist du hier, 
+\0um dich vorzustellen?\0\0(촀\0Ich bin n
+\0.
+\0 (촀\0Keine
+tolle Vorstellung,
+\0 ich weiß,
+\0 aber
+mehr gibt die Lunge grad nicht her.\0\0(촀\0Komm einfach noch mal vorbei,
+\0
+wenn ich wieder auf dem Damm bin,
+\0
+n\0."
+"511","<"
+"511_01","(촀\0Oh, 
+\0hallo!
+\0 Wohnst du hier?
+\0
+n
+\0 ist mein Name.
+\0
+Bin gerade erst hergezogen.\0\0(촀\0Ich fang noch mal an.
+\0 Alle haben
+gesagt, 
+\0in meinem Alter wäre das
+völlig verrückt.
+(촀\0Da konnte ich ja gar nicht mehr
+anders!
+\0 Bwa ha ha!\0\0(촀\0Jetzt habe ich natürlich bergeweise
+Kisten abzuarbeiten.
+\0 (촀\0Mein Rücken
+beschwert sich fast mehr als ich...
+(촀\0Ich bin hier noch eine Weile am
+Herumwursteln,
+\0 also komm doch
+ein andermal vorbei, 
+\0n\0."
+"511_02","(:촀\0n\0\0Und du bist wer genau?
+\0 (촀\0Oh!
+\0
+2P$Mein neuer Nachbar(Meine neue Nachbarin? Tja, ich bin
+n
+\0.
+(5촀\0Lass dich nicht täuschen, ich bin
+ein ganz Netter!
+\0 Wenn ich will...\0\0(%촀\0Jedenfalls muss ich noch aufräumen
+und all so was.
+\0 (""촀\0Wir sehen uns noch,
+
+\0n\0."
+"512","<"
+"512_01","( 촀\0Hey!
+\0 Wohnst du hier?
+\0
+(촀\0Ich bin n
+\0 und neu
+auf n\0.
+()촀\0Ich wollte meine Nachbarn
+kennenlernen, aber ich scheine
+alle zu verschrecken.
+(촀\0Und was macht man dann, wenn man
+mal eine Tasse Lebertran braucht?\0\0(%촀\0Ich mach dann mal weiter mit
+meinem Kram.
+\0 Komm vorbei, wenn
+du quatschen willst, 
+\0n\0!"
+"512_02","(%촀\0Du siehst mir wie jemand von hier
+aus.
+\0 (""촀\0Ich bin n
+\0 und neu hier, 
+\0n\0.\0\0(&촀\0Du weißt nicht zufällig, wo man hier
+Mitspieler für Canasta findet?
+\0 ('촀\0Nein?
+\0
+Das hab ich mir schon gedacht.
+(촀\0Wenn du mal reden willst, komm zu
+mir.
+\0 Ich bin hier irgendwo."
+"513","(""촀\0Oh, wir haben uns ja nicht mehr
+gesehen seit...
+\0 (
+촀\0Warte mal, 
+\0wir
+kennen uns gar nicht.
+(촀\0Hoppla, kleine Fehlzündung in der
+Birne, 
+\0n\0...\0\0(""촀\0Na ja, dann jedenfalls mal hallo vom
+alten n
+\0.
+\0 (%촀\0So, 
+\0das wäre hiermit geklärt.
+\0 Bis dann!"
+"514","(%촀\0Willst du dich vorstellen?
+\0
+Wie nachbarschaftlich. 
+\0Ich bin
+n
+\0 und neu.
+()촀\0Ich wollte(촀\0n\0\0
+\0 (,촀\0\0HATSCHI!\0￿
+Örks. (촀\0Das machen die alten Gräten
+nicht mehr lange mit.\0\0(촀\0Tja, prinzipiell würde ich gern meine
+Lebensweisheiten mit dir teilen,
+aber am Ende steckst du dich an.
+(촀\0Komm einfach ein andermal
+wieder vorbei, 
+\0n\0."

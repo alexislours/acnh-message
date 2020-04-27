@@ -1,0 +1,196 @@
+﻿"label","text"
+"001","(촀\0Hé, dit is misschien een gekke vraag,
+maarn\0\0(&촀\0 wil je op schattenjacht gaan
+met mij?"
+"001_a","Zeker weten!"
+"001_b","(\0촀\0Misschien later."
+"002","(%촀\0Ik had zojuist een geweldig idee.
+
+\0(&촀\0Zullen we op schattenjacht gaan?"
+"002_a","Ja!"
+"002_b","Ik heb geen tijd..."
+"003","(&촀\0Weet je wat ik doe als ik tijd over
+heb? 
+\0(촀\0Dan ga ik op schattenjacht!
+
+\0Kom op, 2jochiemeid, doe je met me mee?"
+"003_a","Oké!"
+"003_b","(\0촀\0Ik heb het te druk."
+"004","(촀\0Oké! 
+\0Dan haal ik mijn schep en dan
+begint het zware werk. 
+\0Want ik ga de
+schatn\0\0(촀\0 begraven!"
+"005","(촀\0Begrepen!
+\0 Geef me een paar
+minuutjes om de schat te begravenn"
+"006","(촀\0Haha! 
+\0Sportief van je, 2jochiemeid.
+\0 (%촀\0Dan
+begin ik nou met de voorbereidingn"
+"007","( 촀\0Alle donders.
+\0 Sorry, ik heb daar nou
+geen tijd voor. 
+\0(촀\0Misschien een andere
+keer!"
+"008","( 촀\0Nee? 
+\0Prima, volgende keer beter."
+"009","( 촀\0Je hebt geen interesse?
+\0 (촀\0Misschien
+een andere keer!"
+"010","( 촀\0Nee? Dit leek me echt iets voor jou.
+\0
+Ach ja. 
+\0(촀\0Misschien een andere keer!"
+"011","(%촀\0Oké, dan zal ik je nou uitleggen hoe
+het werkt.
+<\0\0\0()촀\0Als je binnen de tijd de schat vindt
+die ik ergens heb verstoptn\0\0(촀\0 krijg je
+de schat!
+\0 Echt, hij is dan van jou!
+Z\0\0\0(촀\0Ik heb hem in de grond begraven,
+\0
+dus je hoeft niet in gebouwen rond
+te snuffelen.
+Z\0 (!촀\0Succes!
+Z"
+"011_01","(%촀\0Oké dan, ik zal je uitleggen hoe het
+werkt!
+<\0\0\0()촀\0Als je binnen de tijd de schat vindt
+die ik ergens heb verstopt,
+\0 win jij (촀\0en
+is de schat van jou,
+\0 n\0!
+x\0
+()촀\0Hij is buiten begraven,
+\0('촀\0 dus je hoeft
+niet in gebouwen rond te snuffelen.
+x\0\0\0(9촀\0En voor de duidelijkheid,
+\0 jij bent de
+enige die die schat kan opgraven,
+\0
+oké?
+\0 (6촀\0Dit is tussen jou en mij!
+x\0\0\0(촀\0Goed,
+\0 daar gaan we!
+Z"
+"012","(%촀\0Oké, dan zal ik je nou uitleggen hoe
+het werkt.
+Z\0\0\0()촀\0Het is makkelijk.
+\0 Ik begraaf de schat
+ergens.
+\0 Jij moet hem vinden!
+Z\0\0\0(촀\0Als je hem vindt voor de tijd om is,
+mag je hem houden!
+\0 Echt waar!
+x\0\0\0(6촀\0Dusn\0\0 waar wacht je nog op?
+\0
+Z"
+"012_01","(%촀\0Oké dan,
+\0 ik zal je uitleggen hoe het
+werkt!
+Z\0\0\0()촀\0Het is niet moeilijk.
+\0 Ik heb buiten
+ergens een schat begraven.
+\0 (촀\0Vind hem
+voor de tijd om is,
+\0 en hij is van jou!
+x\0
+()촀\0Hij is buiten begraven,
+\0 dus je hoeft
+niet te gaan rondneuzen ('촀\0in de huizen
+van anderen.
+x\0\0\0(9촀\0En voor de duidelijkheid,
+\0 alleen jij kan de schat opgraven,
+\0
+oké?
+\0 (6촀\0Dit is tussen jou en mij!
+x\0\0\0()촀\0Je hebt dit keer niet zoveel tijd,
+\0 dus
+je kunt maar beter opschieten!
+\0 (촀\0Goed,
+
+\0daar gaan we,
+\0 n\0!
+x"
+"013","(9촀\0Zeg, ehn\0\0 moet ik de regels nog eens
+uitleggen?"
+"013_a","Ja, graag!"
+"013_b","Nee, dank je."
+"014","(촀\0Oké.
+\0 Dan kunnen we beginnen!
+<"
+"014_01","(9촀\0Ik weet niet of het gezegd moet
+worden,
+\0 maar dit is één tegen één.
+\0( Je
+maatjes mogen je niet helpen!
+x\0
+(촀\0Goed,
+\0 daar gaan we,
+\0 n\0!
+Z"
+"015","(%촀\0Oké, dan kunnen we verder. 
+\0Maar
+je moet opschieten!
+\0 (촀\0Er is niet veel
+tijd meer over!
+<"
+"015_01","(9촀\0Ik weet niet of het gezegd moet
+worden,
+\0 maar dit is één tegen één.
+\0( Je
+maatjes mogen je niet helpen!
+x\0\0\0()촀\0Er is maar weinig tijd deze ronde,
+\0 dus schiet op!
+\0(촀\0 Goed,
+\0 daar gaan we,
+\0 n\0!
+Z"
+"101","(촀\0Goeiemorgen, 2jochiemeid. Heb je zin in
+eenn\0\0
+\0((촀\0 schattenjacht?!"
+"101_a","Ik heb zin!"
+"101_b","Geen zin."
+"102","(5촀\0Vraag je je af waar ik aan denk?
+\0
+Nou, dat zal ik je vertellenn\0\0\0\0(1촀\0Ik zat me net af te vragenn\0\0 Waar
+zou ik mijn schat begraven als ik een
+piraat was?
+(9촀\0Om misverstanden te vermijden wil ik
+even duidelijk zeggen dat ik geen
+piraat ben. 
+\02\0n\0.\0\0(촀\0Genoeg daarover, heb je zin om
+naar schatten te zoeken?"
+"102_a","Dat heb ik!"
+"102_b","(\0촀\0Een andere keer."
+"103","(촀\0Sorry, 2jochiemeid. 
+\0Piraat speel ik alleen
+overdag. 
+\0Misschien een andere keer."
+"104","(촀\0Hoera! 
+\0Geef me even om deze schat
+te begraven en dan kan de jacht
+beginnen."
+"105","(촀\0Geen zin in piraterij, hè?
+\0 Nou,
+dan misschien een andere keer."
+"106","(촀\0Hè, balen. 
+\0We hebben zo lang over
+schattenjacht gepraat, dat we geen
+tijd meer hebben om het te spelen.
+(촀\0Laten we het een andere keer doen."
+"107","(촀\0Hoera!
+\0 En ik weet de perfecte plekn"
+"108","(%촀\0Okidoki. 
+\0Dan zal ik met iemand
+anders moeten spelen. 
+\0Volgende
+keer beter. 
+\0(촀\0Bwahaha!"
+"200","( 촀\0Wacht eens evenn\0\0 (촀\0Er is geen mooi
+plekkie over op dit eiland waar ik de
+schat kan begraven.\0\0('촀\0Zo kun je natuurlijk niet op een
+schat gaan jagen.
+\0 (9촀\0Sorry dat ik mijn
+grote muil erover opentrok."

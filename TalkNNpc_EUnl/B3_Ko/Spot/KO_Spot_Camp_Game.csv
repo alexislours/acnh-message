@@ -1,0 +1,90 @@
+﻿"label","text"
+"001","Hallo!(촀\0 Zullen we een spel spelen?\0\0(\0촀\0Als je wint, krijg je mijn 2촃}\0\0. 
+\0($촀\0Lijkt je dat wat, n\0?"
+"001_a","Leuk idee!"
+"001_b","Het komt nu niet goed uit."
+"002","(촀\0Mooi! 
+\0((촀\0Maar voor we beginnen, zal ik
+eerst even de spelregels uitleggen,
+n\0."
+"002_a","Ja, graag."
+"002_b","Ik ken de spelregels al."
+"003","Nou, dat is jammer, 2jochiemeid. Maar
+(%촀\0volgende keer beter, n\0."
+"004","( 촀\0Oké, 2jochiemeid. Laten we meteen
+beginnen!
+\0((<촀\0 Dan schud ik eerst de
+kaartenn"
+"005","(9촀\0En de kaart isn"
+"006_01","(%촀\0Zoals beloofd, geef ik je mijn 2촃}\0\0. Pak aan! 
+\0((촀\0Ik had het tenslotte beloofd!"
+"006_02","(7촀\0Nou, ik had niet gedacht dat je het
+goed zou radenn\0\0
+\0(\0\0(\0촀\0Maar ik heb beloofd dat je mijn 2촃}\0\0 zou krijgen,
+\0 (촀\0dus hier is je prijs."
+"006_03","(촀\0Jammer!
+\0((촀\0 Zo te zien kan ik mijn 2촃}\0\0 houdenn"
+"007_01","(7촀\0Ik heb verloren, maar toch was het
+leuk.
+\0((촀\0 Maar de volgende keer, win ik,
+n\0!"
+"007_03","Ik heb gewonnen, (촀\0maar laat het er
+niet bij zitten, 2jochiemeid. Volgende keer
+beter!"
+"008","(%촀\0Ja! Dat klopt!(촀\0 Dan kan het spel nu
+beginnen.\0\0(\0촀\0(:촀\0Maarn\0\0 wacht eens even.
+\0 (촀\0Je zakken
+zijn vol. Ben je niet van plan om te
+winnen?
+(:촀\0Zorg eerst dat je plek hebt voor mijn 2촃}\0\0.
+\0 (6촀\0Dan kunnen we spelen, n\0."
+"100","()촀\0Oké. Ik heb vier kaarten, elk met een ander symbool: \0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿n\0\0\0\0(촀\0Ik trek een kaart en dan raad jij welk
+symbool erop staat.\0\0(\0촀\0Als je het goed hebt,
+\0(촀\0 geef ik je mijn
+2촃}\0\0.\0\0(\0촀\0Dat is allesn\0\0
+\0(촀\0 En dan begint nu het
+spel!
+\0((<촀\0 Eerst schud ik de kaartenn"
+"101","(촀\0Oké, ik heb een kaart getrokken!
+\0((6촀\0 Nu
+raad jij welk symbool het heeft. Is het
+\0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿, n\0?"
+"101_a","\0♥ Harten!\0￿"
+"101_b","\0♦ Ruiten!\0￿"
+"101_c","\0♠ Schoppen!\0￿"
+"101_d","\0♣ Klaveren!\0￿"
+"102_01","(촀\0Inderdaad, 2jochiemeid! Het is 촀!
+\0( Goed gedaan, n\0!"
+"102_02","(;촀\0Wat jammer! 
+\0Het is 촀!
+\0( (촀\0Zo te zien heeft je intuïtie het niet zo met kaarten vandaag, n\0."
+"200","()촀\0Oké. Ik heb vier kaarten, elk met een ander symbool in zwart of rood:
+\0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿n\0\0\0\0(촀\0Ik trek een kaart en dan raad jij de
+kleur van het symbool. Vergeet niet,
+je hebt twee opties: \0zwart \0￿of \0rood\0￿.\0\0(\0촀\0Als je het goed hebt,
+\0(촀\0 geef ik je mijn
+2촃}\0\0.\0\0(\0촀\0Dat is allesn\0\0
+\0(촀\0 Dan schud ik nu de
+kaarten
+\0((<촀\0 en dan kunnen we beginnen!"
+"201","(촀\0Oké, ik heb een kaart getrokken.
+\0((6촀\0
+Welke kleur is het?
+\0 \0Rood \0￿of \0zwart\0￿?"
+"201_a","\0Rood!\0￿"
+"201_b","\0Zwart!\0￿"
+"202_01","(촀\0Sapperdeflap, 
+\0촀 klopt!
+\0(
+(촀\0Je hebt gewonnen!"
+"202_02","(;촀\0O, sorry, 2jochiemeid. Het juiste antwoord
+is 촀.
+\0( (촀\0Je hebt het dus verkeerd geraden."
+"202_03","(촀\0Sapperloot, 
+\0촀 is het goeie
+antwoord!
+\0( (촀\0Je hebt gewonnen!"
+"202_04","(;촀\0O, sorry, 2jochiemeid. Het goeie antwoord
+is 촀.
+\0( (촀\0Je hebt dus verkeerd
+geraden."

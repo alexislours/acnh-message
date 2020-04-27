@@ -1,0 +1,234 @@
+﻿"label","text"
+"001","(촀\0Dis, 
+\0si tu as un peu de temps à tuer,
+\0
+(""촀\0tu voudrais pas jouer à la chasse
+au trésor avec moi ?"
+"001_a","Bien sûr !"
+"001_b","Une autre fois."
+"002","(
+촀\0Est-ce que tu t'ennuies ? 
+\0Moi oui,
+j'ai déjà regardé toutes les images
+de mes deux livres,
+\0( deux fois !\0\0(촀\0Ça te dirait de jouer à la chasse au
+trésor avec moi ?
+\0(촀"
+"002_a","Allons-y !"
+"002_b","J'ai pas le temps."
+"003","(촀\0Je viens d'avoir une super idée !
+\0<
+(촀\0Si on jouait à la chasse au trésor,
+\0
+toi et moi ?"
+"003_a","Ouais !"
+"003_b","Pas aujourd'hui."
+"004","(촀\0Ouais ! 
+\0(Je vais aller enterrer un
+trésor quelque part sur l'île.
+\0 Toi, ne
+bouge pas d'ici !"
+"005","(촀\0Super !
+\0( Reste ici un instant,
+\0 je vais
+aller enterrer mon trésor !"
+"006","(촀\0Youhou !
+\0( Je vais aller enterrer un
+trésor
+\0 quelque part sur l'île !"
+"007","(촀\0Ah !
+\0 Mais c'est déjà la nuit !
+\0 (7촀\0Il fait
+trop sombre
+\0 pour aller enterrer des
+trucs.\0\0Et puis je suis en retard pour mon
+casse-croûte !
+\0(촀\0 C'est pas grave, 
+\0on
+jouera une autre fois, n\0 !"
+"008","Pas de problème ! 
+\0((촀\0Ce sera pour une
+autre fois, n\0 !"
+"009","(%촀\0Très bien ! 
+\0(Je te redemanderai quand
+tu auras le temps, n\0 !"
+"010","Pas de souci. 
+\0(7촀\0Je vais aller discuter
+avec les insectes, alors."
+"011","(촀\0Alors, les règles sont très simples !
+\0(촀\0
+<\0\0\0()촀\0Si tu arrives à trouver le trésor que
+j'ai enterré
+\0 avant la fin du temps
+imparti,
+\0(촀\0 tu as gagné !
+x\0\0\0(촀\0Le trésor est enterré dans de la
+terre,
+\0 alors pas la peine de chercher
+à l'intérieur des bâtiments !
+x\0\0\0(촀\0Pas la peine de trop te creuser
+la tête !
+\0 Ha ha !
+\0 T'as compris ?
+\0
+« Creuser », 
+\0tout ça ?
+x\0\0\0(\0촀\0Enfin bref.
+\0 (촀\0Prêt2\0e à creuser ?
+´"
+"011_01","(촀\0Alors, les règles sont très simples !
+\0(촀\0
+<\0\0\0()촀\0Si tu arrives à trouver le trésor que
+j'ai enterré
+\0 avant la fin du temps
+imparti,
+\0(촀\0 tu as gagné !
+x\0\0\0(촀\0Le trésor est enterré dans de la
+terre,
+\0 alors pas la peine de chercher
+à l'intérieur des bâtiments !
+x\0\0\0(촀\0Et cette chasse au trésor est juste
+entre toi et moi,
+\0(""촀\0 alors les autres ont
+pas le droit de t'aider !
+x\0\0\0(촀\0Prêt2\0e à creuser ?
+x"
+"012","(촀\0Les règles sont très simples !
+\0(촀\0
+x\0\0\0()촀\0Si tu trouves le trésor que j'ai
+enterré 
+\0avant la fin du chrono,
+\0
+
+\0(촀\0tu as gagné !
+x\0\0\0(%촀\0Le trésor est enterré dans de la
+terre,
+\0 alors pas la peine de chercher
+dans les bâtiments.
+x\0\0\0(촀\0Personne a voulu me laisser enterrer
+mon trésor chez lui,
+\0 et j'ai demandé
+à tout le monde !
+x\0\0\0(촀\0Attention, cette fois-ci, tu n'as pas
+beaucoup de temps, 
+\0alors bonne
+chance !
+\0((촀\0 Prêt2\0e à creuser ?
+´"
+"012_01","(촀\0Les règles sont très simples !
+\0(촀\0
+x\0\0\0()촀\0Si tu trouves le trésor que j'ai
+enterré 
+\0avant la fin du chrono,
+\0
+
+\0(촀\0tu as gagné !
+x\0\0\0(%촀\0Le trésor est enterré dans de la
+terre,
+\0 alors pas la peine de chercher
+dans les bâtiments.
+x\0\0\0(9촀\0Et aussi, c'est notre jeu rien qu'à
+tous les deux ! 
+\0(""촀\0Personne a le droit
+de t'aider !
+Z\0\0\0(촀\0Attention, cette fois-ci, tu n'as pas
+beaucoup de temps, 
+\0alors bonne
+chance !
+\0((촀\0 Prêt2\0e à creuser ?
+´"
+"013","Euh,
+\0(&촀\0 tu connais déjà les règles de la
+chasse au trésor ?"
+"013_a","(\0촁\0Rappelle-les-moi !"
+"013_b","(\0촁\0Oui, oui !"
+"014","(촀\0Hé hé hé !
+\0 Alors, bonne chance !
+\0(
+(촀\0Attention,
+\0 c'est parti !
+<"
+"014_01","(촀\0Hé hé hé,
+\0 bonne chance !
+\0( (\0촀\0Ah, 
+\0()촀\0et
+il y a que toi qui as le droit de
+déterrer le trésor !
+Z\0 
+(촀\0Attention,
+\0 c'est parti, n\0 !
+Z"
+"015","(촀\0Cette fois-ci, tu n'as pas beaucoup
+de temps pour chercher, 
+\0alors ça
+sera un peu plus dur !
+\0( (촀\0Tu es prêt2\0e ?
+Z"
+"015_01","(촀\0Cette fois-ci, tu n'as pas beaucoup
+de temps pour chercher, 
+\0alors ça
+sera un peu plus dur !
+Z\0\0\0(\0촀\0Ah, 
+\0()촀\0et il y a que toi qui as le droit de
+déterrer le trésor !
+\0 (""촀\0Les autres ont
+juste le droit de regarder.
+Z\0\0\0(촀\0Tu es prêt2\0e, n\0 ?
+Z"
+"101","(촀\0Ah, n\0 !
+\0((촀\0 Content de te voir !
+\0( Tu peux pas imaginer à quel point je m'ennuie !\0\0(4촀\0Dis donc... tu as un peu de temps
+pour jouer avec moi ?
+\0<(촀\0
+\0 Qu'est-ce que
+tu dirais d'une chasse au trésor ?"
+"101_a","Avec plaisir !"
+"101_b","J'ai pas le temps."
+"102","(
+촀\0J'étais en train de me demander
+\0
+à quoi j'allais pouvoir jouer,
+maintenantn\0\0\0\0(촀\0Hé, n\0 !
+\0((촀\0 Ça te dirait
+une partie de chasse au trésor ?"
+"102_a","Ça a l'air amusant !"
+"102_b","Non, merci."
+"103","(촀\0Attends un peu !
+\0( Il fait déjà tout
+noir !
+\0((촀\0 On peut pas jouer si t'y vois
+rien.
+\0 Ce sera pour une autre fois !"
+"104","(촀\0Ouais ! J'espérais bien que tu dises
+oui !(촀\0
+\0( Bien,
+\0 attends une seconde !\0\0(촀\0Je vais aller enterrer mon trésor
+préféré quelque part sur l'île !
+\0
+(6촀\0Et interdit de me suivre !"
+"105","(촀\0D'accord,
+\0 pas de problème !
+\0(
+Ce sera pour une autre fois,
+n\0 !"
+"106","(촀\0Ah mais, 
+\0il fait très sombre,
+maintenant, non ?
+\0((촀\0 Tu vas rien y voir.
+\0
+('촀\0Remettons ça à une autre fois."
+"107","(촀\0Super ! 
+\0(()촀\0Ne bouge pas,
+\0 je vais aller
+enterrer mon trésor quelque part
+sur l'île."
+"108","Tant pis !
+\0((촀\0 Ce sera pour une autre
+fois !"
+"200","(촀\0J'ai cherché partout,
+\0 mais j'ai pas
+trouvé d'endroit où enterrer mon
+trésor !\0\0(7촀\0On peut pas jouer à la chasse au
+trésor
+\0 si on peut pas enterrer le
+trésor."

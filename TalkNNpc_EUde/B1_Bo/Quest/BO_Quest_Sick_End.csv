@@ -1,0 +1,181 @@
+﻿"label","text"
+"001","(8촀\0Hey...
+\0( Bist du vorbeigekommen,
+um mal nach mir zu schauen?"
+"001_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"001_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"002","( 촀\0Oh!
+\0 Hey, 
+\0n\0.
+\0(
+(4촀\0Kommst du mich besuchen?
+\0( Ah...
+\0
+Ist nett, dass du nach mir schaust."
+"002_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"002_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"003","2\0n\0?!
+\0<
+(8촀\0Hast du dir Sorgen gemacht und
+wolltest mal nach mir sehen?"
+"003_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"003_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"004","(촀\0Bäh...
+\0 Ich weiß nicht, was los ist.
+\0(
+(촀\0Ich will nach draußen und spielen,
+aber mein Körper macht nicht mit..."
+"004_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"004_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"005","(촀\0Der Kopf ist voll Watte, die Beine
+aus Gummi... 
+\0Das kann doch nicht
+gut sein."
+"005_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"005_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"006","(촀\0Ich fühle mich einfach nicht so,(+촀\0
+wie sich 2\0n\0 fühlen
+sollte..."
+"006_a","(\0촀\0Hier, nimm!
+(\0촀\0Ich habe Medizin!
+(\0촀\0Nimm die Medizin hier!"
+"006_b","(\0촀\0Gute Besserung!
+(\0촀\0Werd schnell gesund!
+(\0촀\0Ruh dich lieber aus..."
+"007","( 촀\0Hey... n\0...
+\0
+($촀\0Bist du hier, um nach mir zu sehen?\0\0(4촀\0Das ist wirklich nett.
+\0( Du darfst dir
+aber keine Sorgen machen, ich bin
+nämlich nur erkältet!(촀"
+"008","( 촀\0Hey, n\0...
+\0<
+(4촀\0Danke, dass du vorbeikommst.\0\0(\0촀\0Jetzt, wo du hier bist,($촀\0 geht es mir
+schon ein bisschen besser.(촀"
+"009","( 촀\02\0n\0?
+\0
+(\0촀\0Kommst du mich besuchen?
+\0
+Ich bin gerade ein bisschen krank.\0\0(촀\0Aber danke, dass du nach mir siehst,
+n\0...(촀"
+"010","
+((,촀\0Oooh...
+\0( Ich sollte wohl ganz schnell
+eine \0Medizin\0￿ nehmen...(촀"
+"011","(+촀\0\0Medizin\0￿...
+\0 Ich brauche Medizin...
+\0
+So ein Ärger...(촀"
+"012","(촀\0Wo hab ich denn nur die \0Medizin\0￿
+hingetan?(촀"
+"013","(촀\0Oh...
+\0 Danke.
+\0( (,촀\0Da gehe ich heute wohl
+lieber ganz früh ins Bett.(촀"
+"014","(촀\0Danke.
+\0( Ich bleibe heute wohl lieber
+daheim.(촀"
+"015","(촀\0Vielen Dank.
+\0( Ich ruhe mich jetzt
+gleich ein bisschen aus.
+\0 Bis dann,
+
+\0n\0...(촀"
+"100","(촀\0\0Medizin\0￿?
+\0 Für mich?
+\0( (8촀\0Wie schlimm
+schmeckt die denn?
+\0 Ist aber auch
+egal, sie kommt ja von dir!"
+"101","( 촀\0\0Medizin\0￿?
+\0( (촀\0Hast du die für mich
+besorgt?"
+"102","(촀\0\0Medizin\0￿?!
+\0 Aber die schmeckt eklig!
+\0(
+(%촀\0Wenn du dir aber schon die Mühe
+machst...
+\0 (""촀\0Dann nehme ich sie tapfer!"
+"103","(촀\0Igitt...
+\0F (8촀\0So, ich hab sie genommen."
+"104","( 촀\0Nanu?
+\0< Schmeckt gar nicht mal sooo
+schlecht..."
+"105","(촀\0Hey!
+\0( Die \0Medizin\0￿ ist gar nicht
+so übel, wie ich gedacht habe!
+
+\0(촀\0Aber Snacks sind natürlich besser!"
+"106","(&촀\0Du hast keine?(촀"
+"107","(촀\0Ist schon okay.
+\0( Jeder macht mal
+Fehler, n\0!(촀"
+"108","( 촀\0Schade, du hast also keine?
+\0(
+(촀\0Hm...
+\0 Dann versuch ich's wohl mal
+mit Bettruhe...(촀"
+"109","Es geht mir schon ein bisschen
+besser!
+\0( (""촀\0Tolle \0Medizin\0￿!\0\0(%촀\0Jetzt noch ein paar Snacks, dann bin
+ich wieder ganz gesund!\0\0(7촀\0Ich finde, ich sollte dir zum Dank für
+deine Hilfe was schenken.\0\0Hier, bitte nimm doch 2,촀diesen
+diesedieses
+2촁}\0!
+2\0n\0!"
+"110","('촀\0Puh.
+\0( Ich glaube, mir geht's schon
+besser.
+\0( (""촀\0Anscheinend wirkt deine
+\0Medizin \0￿superschnell!
+(촀\0
+\0Ich habe hier was als Dank für dich.
+\0(
+(촀\02""촀
+EinenEineEin 2촁}\0!"
+"111","Jetzt geht's mir gleich besser!
+\0(
+(촀\0Das ist mal tolle \0Medizin\0￿!\0\0(\0촀\0Bitte nimm das hier zum Dank.
+\0
+2""촀
+EinenEineEin 2촁}\0!
+\0(
+(""촀\0Du hast mir ganz prima geholfen!"
+"112","(촀\0Hey, pass auf, dass du nicht auch
+krank wirst, 
+\0n\0!"
+"113","(""촀\0Vielen Dank noch mal!
+\0(
+(촀\0Du hast mir den Tag gerettet!"
+"114","(촀\0Du warst eine große Hilfe...
+\0(
+Wenn ich dir mal helfen kann, sag
+Bescheid, 
+\0n\0!"
+"200","Puh,
+\0((촀\0 was fühl ich mich jetzt bessern\0\0\0\0()촀\0Als Dankeschön für die \0Medizin\0￿ wollt
+ich dir auch eigentlich was geben,
+\0
+aber deine Tasche ist ja total voll!\0\0(""촀\0Tja, 
+\0dann schick ich's einfach direkt
+zu dir nach Hause!"

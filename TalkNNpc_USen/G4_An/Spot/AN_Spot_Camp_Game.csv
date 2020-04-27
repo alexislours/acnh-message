@@ -1,0 +1,129 @@
+﻿"label","text"
+"001","($촀\0What's up! 
+\0You like games, right?
+\0(
+()촀\0'Cause I got something I wanna
+pitch to you, n\0n\0\0\0\0(촀\0How'd you like to play a quick game
+for my }\0\0?
+\0
+All yours if you win!"
+"001_a","Really? OK!"
+"001_b","No, thanks."
+"002","(6촀\0Rock! 
+\0Alright, 
+\0let's do th—( 촀\0 Oh! 
+\0Wait.
+\0(
+()촀\0Do you wanna hear the rules first?"
+"002_a","Rules are good!"
+"002_b","Surprise me."
+"003","(8촀\0Oh! 
+\0Uhn\0\0
+\0know anyone who'd be
+interested?
+\0( ('촀\0Actually, never mind.
+\0
+I'll figure this out."
+"004","(촀\0Bwa ha ha! 
+\0You got it!
+\0( (<촀\0Hang on a
+sec while I shufflen\0\0
+\0("
+"005","(9촀\0Moment of truthn\0\0
+\0 Ready?"
+"006_01","(촀\0Great guess! 
+\0Well, that's that. 
+\0My
+}\0\0 is all
+yours, n\0!"
+"006_02","(촀\0Oofn\0\0
+\0 I kinda didn't wanna part with
+my }\0\0n\0\0
+\0((촀\0but
+I promised."
+"006_03","(7촀\0Well, that's how it goes. 
+\0But hey, at
+least you didn't lose anything!"
+"007_01","(촀\0That was awesome.
+\0 Hey, let's do a
+rematch sometime, alright?"
+"007_03","($촀\0Anyway, better luck next time!"
+"008","(6촀\0Rock! 
+\0Alright, 
+\0let's do th—( 촀\0 Oh! 
+\0Wait.
+\0(
+Your pockets are totally full.\0\0(9촀\0If we play, I'm committed. If I lose,
+my }\0\0 is all
+yours, 
+\0period.(촀\0\0\0So yeah, we ain't doin' this unless
+you can take home the winnings.
+\0( (촀\0Go
+clear some space and come back."
+"100","(""촀\0You got it, n\0.\0\0()촀\0OK, 
+\0so all cards have suits, right?
+\0
+Those're the \0♥heart\0￿, \0♦diamond\0￿,
+\0♠spade\0￿, and \0♣club\0￿ symbols.\0\0(6촀\0This is really easy. 
+\0All you gotta do
+is guess the suit of the top card in
+the deck.\0\0(\0촀\0Guess right, and you walk away
+with my }\0\0.
+\0(
+(촀\0And that's it!(촀\0\0\0So!
+\0 (<촀\0Here goesn\0\0
+\0("
+"101","(3촀\0Alright, rock star, you're up. 
+\0What
+suit is the top card?(촀"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","(=촀\0
+\0Ha! 
+\0Yep, that's a 촀!"
+"102_02","(=촀\0
+\0Aw! 
+\0It's a 촀. 
+\0Sorry."
+"200","(""촀\0You got it, n\0.\0\0()촀\0So, 
+\0all cards have suits—the \0♥heart\0￿,
+\0♦diamond\0￿, \0♠spade\0￿, or \0♣club\0￿ marks.
+\0
+And all suits are either \0red\0￿ or \0black\0￿.\0\0(6촀\0This is real easy. 
+\0All you gotta do is
+guess the suit color of the top card
+in the deck.\0\0(\0촀\0Guess right, and you get to keep
+my }\0\0.
+\0(
+(촀\0And that's it!(촀\0\0\0Right!
+\0 (<촀\0Here goesn\0\0
+\0("
+"201","(3촀\0Alright, rock star, you're up. 
+\0What
+color is the top card's suit?(촀"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","(=촀\0
+\0Ha! 
+\0Yep, that suit's definitely \0red\0￿.
+\0
+It's a 촀!"
+"202_02","(=촀\0
+\0Aw! 
+\0It's a 촀. 
+\0The suit's
+\0black\0￿. 
+\0Sorry."
+"202_03","(=촀\0
+\0Ha! 
+\0Yep, that suit's definitely \0black\0￿.
+\0
+It's a 촀!"
+"202_04","(=촀\0
+\0Aw! 
+\0It's a 촀. 
+\0The suit's
+\0red\0￿. 
+\0Sorry."

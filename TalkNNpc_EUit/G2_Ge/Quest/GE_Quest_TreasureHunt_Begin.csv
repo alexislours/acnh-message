@@ -1,0 +1,218 @@
+﻿"label","text"
+"001","(촀\0Ehi, senti! 
+\0Ti andrebbe di fare(\0촀\0
+una
+\0 (""촀\0caccia al tesoro con me?"
+"001_a","Certo!"
+"001_b","Scusa, ho da fare."
+"002","(촀\0Mi sembra che tu abbia l'umore
+giusto pern\0\0
+\0($촀\0
+\0 una caccia al tesoro!"
+"002_a","Forse hai ragione!"
+"002_b","Direi di no."
+"003","(""촀\0Ehilà! Vuoi fare una caccia al tesoro?"
+"003_a","Ci sto!"
+"003_b","No, grazie."
+"004","(촀\0OK!
+\0 (%촀\0Allora,
+\0 io sotterro un pacco
+regalo da qualche parte qui
+sull'isola!\0\0()촀\0Tranquill2oa! Ho l'autorizzazione
+a scavare.\0\0(촀\0Comunque, tu aspetta qui che io
+vado a sotterrare questa roba."
+"005","(%촀\0OK, allora sotterrerò (""촀\0un pacco
+regalo da qualche parte sull'isola.
+Tu aspetta qui, intesi?"
+"006","(6촀\0OK, 
+\0sotterrerò un pacco regalo
+(촀\0da qualche parte qui sull'isola.
+Tu non muoverti!"
+"007","(촀\0Allucinante! 
+\0È già così tardi?
+\0
+(\0촀\0(\0촀\0Se si fa buio, come fai a trovare
+il tesoro?
+E poi io ho troppo paura dei vampiri!\0\0Quindi,
+\0 (촀\0dobbiamo rimandare!"
+"008","(촀\0OKn\0\0 
+\0Magari un'altra volta!"
+"009","OK.
+\0 (촀\0Ma sì,
+\0 giocheremo un'altra volta!"
+"010","OKn\0\0
+\0 (촀\0pazienza. 
+\0Ma prima o poi
+dobbiamo fare una caccia al tesoro
+insieme. È una cifra divertente!"
+"011","(촀\0OK! Ecco le regole!
+\0
+x\0\0\0(촀\0Se trovi il tesoro che ho nascosto
+prima dello scadere del tempon\0\0
+
+\0hai vinto! 
+\0Semplice, no? Da paura!
+´\0
+(%촀\0Ah, posso sotterrare il tesoro solo
+all'aperto. 
+\0(촀\0A nessuno piace
+ritrovarsi il soggiorno tutto buche!
+´\0
+
+\0(""촀\0Alloooran\0\0
+\0 Cominciamo!
+x"
+"011_01","(촀\0OK! Allora ecco le regole!
+\0
+´\0\0\0(촀\0Se trovi il tesoro che ho nascosto
+sull'isola prima che scada il tempo
+
+\0vinci, n\0!
+´\0\0\0(%촀\0Le cose le posso seppellire solo
+fuori, 
+\0(촀\0quindi non entrare a casa
+della gente!
+Z\0\0\0()촀\0Oh! E, cioè, 
+\0questo è il nostro
+gioco,
+\0 quindi non chiedere aiuto
+ai tuoi amici!
+\0
+´\0
+($촀\0Ci sei?
+\0 D'accordo!
+Z\0 (""촀\0Allora si parte,
+n\0!
+´"
+"012","(촀\0OK! Le regole sono facili. Cioè,
+sono quasi quelle dell'altra volta!
+<\0
+Solo che stavolta contan\0\0 il tempo!
+´\0
+(%촀\0Sì, questa volta hai meno tempo per
+cercaren\0\0
+\0 (6촀\0È più difficile vincere!
+\0
+(""촀\0Tutto chiaro? Prontin\0\0 via!
+ð"
+"012_01","(촀\0OK! Allora ti spiego le regole!
+<\0\0\0(촀\0(촀\0Trova il tesoro che ho nascosto
+sull'isola prima che scada il tempo
+e vincerai, n\0!
+Z\0\0\0(%촀\0Questa volta hai meno tempo,
+
+\0(6촀\0quindi potrebbe essere un attimo
+più difficile!
+Z\0\0\0()촀\0Ah! Cioè, 
+\0questo è il nostro gioco,
+\0
+quindi niente aiutini dagli amici!
+
+\0($촀\0Capito tutto?
+\0 Bene!
+Z\0
+(""촀\0Allora iniziamo, n\0!
+x"
+"013","(&촀\0Vuoi che ti spieghi le regole?"
+"013_a","Sì!"
+"013_b","No, grazie."
+"014","(%촀\0OK!
+\0
+(""촀\0Allora, cominciamo!
+´"
+"014_01","(%촀\0Va bene!
+\0 ( 촀\0Ah! Giusto! 
+\0Non puoi farti
+aiutare dagli altri. Devi cavartela da
+sol2oa, n\0.
+\0 ($촀\0Intesi?
+´\0
+(""촀\0OK, iniziamo, n\0!
+Z"
+"015","(촀\0OK!
+\0 (%촀\0Questa volta hai meno tempo
+a disposizione.
+\0 Vai veloce e non
+fermarti!(""촀\0 Diamo il via alla caccia!
+ð"
+"015_01","(촀\0OK!
+\0 (%촀\0Questa volta c'è meno tempo,
+\0
+quindi non perderti in chiacchiere.
+Devi troppo darti una mossa!
+\0
+´\0
+( 촀\0Oh! Giusto! 
+\0Non puoi chiedere aiuto
+ad altra gente, OK? Devi cavartela
+da sol2oa!
+\0 ($촀\0Capito? Bene!
+Z\0(""촀\0
+D'accordo, allora cominciamo,
+n\0!
+´"
+"101","(&촀\0Ehi, 
+\0non avresti un po' di tempo libero?
+\0 (\0촀\0Per fare
+\0 (촀\0una piccola caccia
+al tesoro insieme a me?"
+"101_a","Certo!"
+"101_b","Adesso no."
+"102","( 촀\0Oh, ehi, n\0.
+\0
+(촀\0Senti un attimo!\0\0()촀\0Mi servono nuove emozioni 
+\0(1촀\0per
+diventare
+\0 una pop star
+ancora più da paura!
+(\0촀\0Quindi, 
+\0perché non facciamo una caccia al tesoro 
+\0(촀\0e trasformiamo
+la giornatan\0\0(촀\0 in un grande show?!"
+"102_a","Scateniamoci!"
+"102_b","Un'altra volta."
+"103","( 촀\0Sconvolgente!
+\0 È troppo tardi!
+\0
+(7촀\0Scusa,
+\0 ma dobbiamo rimandare
+a un'altra volta!"
+"104","(촀\0Che storia!
+\0 OK, aspetta qui.
+\0 ($촀\0
+Sotterro il pacco regalo e torno!\0\0(\0촀\0(%촀\0È una settimana che ci penso!
+\0
+Credo di aver trovato il posto perfetto!"
+"105","(""촀\0OK, nessun problema!
+\0
+(7촀\0Facciamo un'altra volta,
+n\0!"
+"106","(촀\0Oh uau!
+\0
+Guarda che ore sono!
+(촀\0È anche troppo buio, no? \0\0(+촀\0Che ne pensi tu dein\0\0 vampiri? \0\0Perché, 
+\0secondo me, 
+\0è davvero
+
+\0troppo tardi
+\0 per stare fuori.
+\0
+\0KNon credi?\0d"
+"107","(촀\0Yuppiii!
+\0(
+Sapevo che avresti accettato,
+n\0!
+(\0촀\0(""촀\0OK! Vado a sotterrare il tesoro
+\0
+da qualche parte qui sull'isola!
+\0
+(촀\0Ah!
+\0 Sono supermegaemozionata!"
+"108","(촀\0Ho capito. 
+\0Ma che delusione!
+(%촀\0Comunque, te lo chiederò di nuovo
+un'altra volta, n\0!"
+"200","(촀\0Ho guardato ovunque, ma tutti i
+posti dove di solito sotterro le cosen\0\0
+sono pieni di cose che ho sotterrato.\0\0(8촀\0So che ti ho chiesto io di giocare,
+ma possiamo rimandare?"

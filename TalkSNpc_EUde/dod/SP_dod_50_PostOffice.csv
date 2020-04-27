@@ -1,0 +1,210 @@
+﻿"label","text"
+"050","(촀\0Oh, 
+\0wolltest du etwa eine Karte
+verschicken?
+\0( n\0\0(2촀\0Ähm, 
+\0alles klarn\0\0
+\0(
+Bin nur kein Freund von Multitasking.
+(&촀\0Würde es dir etwas ausmachen,
+\0
+wenn ich vorher noch schnell den
+Flugsteig schließe?"
+"050_a","Nee, mach ruhig!"
+"050_b","Nein, lass ihn offen!"
+"051","(촀\0Vielen Dank für dein Verständnis.
+\0
+Alles klar, dann machen wir den
+Flugsteig mal flugs dicht!"
+"052","(촀\0Uuund erledigt!"
+"070","(&촀\0Möchtest du eine Karte verschicken?"
+"070_a","Gerne!"
+"070_b","Ein andermal."
+"080","(촀\0Alles klar!
+\0 An wen möchtest
+du schreiben?(\0촀"
+"080_a","Nachbar."
+"080_b","Mein Zukunfts-Ich."
+"080_c","Doch nicht..."
+"200","(%촀\0Aha. 
+\0An jemanden auf dieser Insel.
+\0(
+(\0촀\0Und an wen genau?"
+"210_01","(촀\0An s\0촀? 
+\0Alles klar!"
+"210_02","(촀\0An s촀? Alles klar!"
+"210_03","(촀\0An Zukunfts-n\0 also!"
+"220_01","(%촀\0Dann such dir einfach eine Karte aus
+und schreib deine Nachricht darauf!(촀"
+"220_02","Also gut. 
+\0Hier ist deine Karte!"
+"290","(촀\0Tut mir leid, 
+\0aber hier stapeln sich
+bereits die Karten.
+\0((촀\0 Ich konnte deine
+leider noch nicht verschicken.
+('촀\0Bis auf Weiteres können keine neuen
+Karten mehr angenommen werden.
+\0(%촀\0
+Schau bitte später wieder vorbei."
+"320","( 촀\0Oh! 
+\0Wie's aussieht hast du
+heute bereits zwei Karten an
+s\0촀 verschickt.\0\0(%촀\0Falls du s\0촀 weitere
+Karten senden willst, 
+\0musst du dich(촀\0
+leider bis morgen gedulden."
+"400",""
+"401","(촀\0Also, 
+\0an welchem Datum soll dir
+die Karte zugestellt werden?"
+"402","Du möchtest sie also am(&촀\0
+\0Z$촀 Z#촀 Z""촀 \0￿erhalten?"
+"402_a","Ganz genau."
+"402_b","Nein, warte..."
+"410","Hab ich mich etwa verhört?
+Tut mir leid. Dann auf ein Neues!"
+"415","(\0촀\0Okidoki! 
+\0Oh, 
+\0warte mal!
+\0
+Du hast schon was an Zukunfts-
+n\0 geschickt!
+()촀\0Wenn du eine andere Karte in die
+Zukunft senden möchtest, 
+\0musst du
+die alte zuerst entsorgen."
+"416","(촀\0Bevor ich die Karte wegwerfe,
+\0
+sollst du aber dein Geschenk
+zurückbekommenn\0\0
+Oh, 
+\0(촀\0du hast dafür ja gar keinen Platz
+mehr. 
+\0(7촀\0Komm bitte wieder, 
+\0wenn du
+deine Tasche ausgemistet hast.(\0촀"
+"420","(%촀\0Alles klar, 
+\0die Karte wurde entsorgt.
+\0(촀\0
+Bereit, 
+\0eine neue zu schreiben?"
+"420_01","(%촀\0Dann entsorge ich die Karte an dein
+Zukunfts-Ich jetzt.\0\0(촀\0Nimm diese Karte und bearbeite sie.
+Um sie an dich selbst zu schicken. In
+der Zukunft."
+"421","(%촀\0Ich habe die alte Karte entsorgt
+und dir das beigefügte Geschenk
+zurückgegeben.(\0촀\0
+(촀\0Wenn du möchtest, 
+\0kannst du dir
+jetzt eine neue Karte aussuchen."
+"421_01","(\0촀\0Ich habe die alte Karte entsorgt und(%촀\0
+dir das beigefügte Geschenk
+zurückgegeben.(\0촀\0
+(촀\0Nimm diese Karte und bearbeite sie.
+Um sie an dich selbst zu schicken. In
+der Zukunft."
+"500","Also gut, 
+\0(촀\0die Zustellgebühren
+belaufen sich auf \0200 Sternis\0￿."
+"501","(촀\0Die Karte wurde verschickt!
+\0
+Vielen Dank!"
+"502","(촀\0Besten Dank!
+\0 Ich werde die Karte am
+gewünschten Datum versenden!"
+"510","(촀\0Oh oh! 
+\0Du hast leider nicht genug
+Sternis. 
+\0(촀\0Schau wieder vorbei, 
+\0wenn
+du die \0200\0￿ zusammenhast!
+In der Zwischenzeit bewahre ich
+deine Karte für dich auf.
+\0(촀\0 Ich werde
+sie auch nicht lesen, 
+\0versprochen!"
+"520","(촀\0Oh, du möchtest schon aufhören?
+\0
+(%촀\0Ich behalte die Karte hier, für den
+Fall, dass du weiterschreiben willst."
+"521","(촀\0Du willst für heute Schluss machen?
+\0(촀\0
+Dann hebe ich die Karte einfach bis
+zum nächsten Mal für dich auf."
+"522","(촀\0Keine Lust mehr auf das Karten-
+schreiben?
+\0(촀\0 Kein Ding.
+\0 Sag Bescheid,
+wenn ich wieder helfen kann."
+"523","(&촀\0Wie, 
+\0schon fertig? 
+\0(촀\0Kein Problem.
+\0
+Gib mir einfach Bescheid, 
+\0wenn du
+wieder meine Hilfe brauchst."
+"550","($촀\0Oh, 
+\0aber lass mich dir noch schnell
+das Item wiedergeben, 
+\0das du der
+Karte beigefügt hattest."
+"551","(촀\0Oh! 
+\0Eine Sache noch...(\0촀\0(2촀\0 Ich habe hier
+keinen Platz, um Geschenke aufzube-
+wahren, 
+\0also gebe ich dir das zurück."
+"552","(촀\0Ich bin hier, 
+\0wenn du mich brauchst!"
+"600","(촀\0Wolltest du eine Karte schreiben?\0\0(%촀\0Ich habe hier eine unvollständige
+Karte an s\0촀 liegen."
+"601","(촀\0Wolltest du eine Karte schreiben?\0\0(%촀\0Ich habe hier eine unvollständige
+Karte an s촀 liegen."
+"602","(촀\0Wolltest du eine Karte schreiben?\0\0(%촀\0Ich habe hier eine unvollständige
+Karte an dein Zukunfts-Ich liegen."
+"604","Apropos Kartenschreiben.
+\0(\0촀\0 Ich habe
+hier eine unvollständige Karte liegen."
+"610","(촀\0Tut mir leid,
+\0 aber unglücklicherweise
+können wir keine Karten mehr an
+s\0촀 zustellen.\0\0(&촀\0Möchtest du einen anderen
+Empfänger wählen oder die
+Karte lieber wegwerfen?"
+"610_a","Anderer Adressat..."
+"610_b","Wegwerfen."
+"611","(촀\0Tut mir leid,
+\0 aber unglücklicherweise
+können wir keine Karten mehr an
+s촀 zustellen.\0\0(&촀\0Möchtest du einen anderen
+Empfänger wählen oder die
+Karte lieber wegwerfen?"
+"611_a","Anderer Adressat..."
+"611_b","Wegwerfen."
+"620","An wen soll die Karte gehen?"
+"620_a","Nachbar."
+"620_b","Mein Zukunfts-Ich."
+"630","(%촀\0Und schwupps – schon liegt die
+Karte im Papierkorb."
+"800","(촀\0Danke für deinen Besuch!"
+"801","(%촀\0Verstanden. 
+\0Lass es mich einfach
+wissen,
+\0 falls du mal wieder etwas
+verschicken möchtest."
+"802","(&촀\0Oh, 
+\0du hast es dir anders überlegt?
+\0
+Auch gut. 
+\0(촀\0Wenn ich dir mal wieder
+helfen kann, 
+\0lass es mich wissen!"
+"803","(촀\0Verstanden!
+\0 Ich werde die Karte
+aufbewahren, bis sie verschickt werden soll."
+"804","(촀\0Roger!\0\0Ich lasse den Flugsteig geöffnet.
+\0
+Sag einfach Bescheid, 
+\0wenn du den
+Post-Service nutzen willst."

@@ -1,0 +1,130 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Coucou,
+\0 ici s촀.
+\0( Désolée de ne pas répondre mais je suis en plein déménagement !\0￿d"
+"001_02","d\0\0Ici s촀,
+\0 je ne peux pas parler pour cause de déménagement.
+\0( Désolée, n\0 !\0￿d"
+"001_03","d\0\0Ceci est un message pré-enregistré.
+\0( s촀 ne peut pas vous répondre car elle fait ses cartons.\0￿d"
+"001_04","d\0\0Ici s촀 ! J'ai pas le temps de répondre ! Je me prépare à déménager ! Et je suis pas prêêête !\0￿d"
+"102","<"
+"102_01","( 촀\0Comment ?
+\0 Tu m'invites à venir faire
+du \0camping\0￿ à n	\0 ?\0\0(촀\0Quelle super nouvelle !
+\0( (촀\0Je vais faire
+mon sac de ce pas, n\0 !"
+"102_02","( 촀\0Tu m'invites vraiment à venir faire
+du \0camping\0￿ à n	\0 ?\0\0(촀\0En voilà une super nouvelle !
+\0(
+(촀\0J'arrive aussi vite que possible, n\0."
+"102_03","(촀\0Tu me demandes si je veux venir faire
+du \0camping\0￿ à n	\0 ?
+\0 (%촀\0Mais bien sûr que oui !\0\0(촀\0Le temps de boucler mes affaires,
+\0
+et je me mets en route, n\0 !"
+"102_04","(촀\0Tu viens vraiment de m'inviter à venir
+faire du \0camping\0￿ à n	\0 ?\0\0(촀\0Tu ne peux pas savoir comme ça me
+fait plaisir !
+\0 (촀\0Considère que je suis
+déjà en chemin, n\0."
+"202","<"
+"202_01","(촀\0Ça alors !
+\0 Tu m'invites à faire du
+\0camping\0￿ à n	\0 ?\0\0(촀\0J'accepte avec plaisir,
+\0 merci beaucoup !
+\0 (촀\0J'arrive dès que possible, n\0 !"
+"202_02","(
+촀\0Je vois,
+\0 laisse-moi y réfléchir
+\0n\0\0
+Le \0camping\0￿ 2
+de d'⁠n	\0,
+\0 il est bien noté ?\0\0(촀\0Je te fais marcher.
+\0 Bien sûr que j'accepte avec plaisir !
+\0( (%촀\0À tout bientôt, n\0."
+"202_03","(촀\0Oh mais j'adorerais venir faire un
+brin de \0camping\0￿ à n	\0 !\0\0(촀\0Je vais me mettre à la recherche de
+mon sac de voyage et j'arrive dès
+que possible, n\0 !"
+"202_04","(촀\0Tu me proposes de venir faire un peu
+de\0 camping\0￿ sur ton île ?
+\0(('촀\0 Comment
+refuser une telle invitation ?
+(촀\0Je me mets en route dès que
+possible, n\0 !"
+"301","<"
+"301_01","Allô, c'est n
+\0.
+\0 ( 촀\0Oh,
+\0 n\0 !
+\0 ($촀\0Qu'est-ce qui me vaut ce plaisir, n\0 ?"
+"301_02","Allô, c'est n
+\0 à l'appareil.
+\0( ( 촀\02\0n\0 ?\0\0Qu'est-ce qu'il y a ?
+\0 (8촀\0Tu voulais me
+dire quelque chose, n\0 ?"
+"301_03","Ici n
+\0 à l'appareil.
+\0( ( 촀\0Tiens,
+\0 n\0 ?\0\0(6촀\0Pourquoi tu m'appelles au lieu de
+venir me voir directement, n\0 ?"
+"301_04","Allô,
+\0 ici n
+\0.
+\0 ( 촀\0Oh, n\0 ?\0\0(촀\0Est-ce qu'il y a un problème, n\0 ?"
+"302","<"
+"302_01","(촀\0Tu veux que j'aille m'installer dehors
+dans le \0camping\0￿ ?
+\0( Euhn\0\0 je ne
+comprends pasn\0\0\0\0(8촀\0Je veux dire,
+\0 il est réservé aux
+visiteurs, 
+\0etn\0\0(촀\0 et moi j'habite déjà
+ici, n\0."
+"302_02","(촀\0Quoi ?
+\0 Tu me proposes de séjourner
+dans notre\0 camping\0￿ ?
+\0 (8촀\0Tu parles bien
+de celui de notre île, hein ?
+(촀\0L'idée est plutôt originale,
+\0 mais je
+crois que je vais devoir décliner
+l'invitation,(촀\0 n\0."
+"302_03","(
+촀\0Je ne suis pas sûre d'avoir bien
+comprisn\0\0
+\0 (&촀\0Tu me proposes de faire
+un séjour dans notre \0camping\0￿ ?\0\0( 촀\0Maisn\0\0
+\0 j'ai déjà une maison ici,
+\0 tu
+sais ?
+\0 (촀\0Désolée,
+\0 mais je vais devoir
+refuser ton offre, n\0n"
+"302_04","(촀\0Quoi ?
+\0 Je ne te suis pasn\0\0
+\0 Pourquoi
+est-ce que je voudrais faire du
+\0camping\0￿ sur une île où je vis déjà ?\0\0(8촀\0Désolée,
+\0 mais je vais devoir refuser
+ton invitation, n\0."
+"401","<"
+"401_01","Coucou,
+\0 ici n
+\0.
+\0( (&촀\0Qu'est-ce que je peux faire pour toi, n\0 ?"
+"401_02","(촀\0Allô !
+\0 Oui, c'est bien n
+\0.
+\0( (&촀\0Qu'est-ce que je peux faire pour toi, n\0 ?"
+"401_03","(촀\0Coucou !
+\0 Oui,
+\0 c'est bien n
+\0 !
+\0( (&촀\0En quoi est-ce que je peux t'aider, n\0 ?"
+"401_04","(촀\0Allô,
+\0 c'est bien n
+\0.
+\0( (&촀\0Qu'est-ce qui me vaut le plaisir de cet appel, n\0 ?"

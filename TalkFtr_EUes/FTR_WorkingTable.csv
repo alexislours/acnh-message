@@ -1,0 +1,49 @@
+﻿"label","text"
+"001","¿Comienzo un proyecto de bricolaje?"
+"001_01","¿Comienzo un proyecto de bricolaje?"
+"001_01_a","Fabricar algo"
+"001_01_b","Ahora no"
+"001_a","Fabricar algo"
+"001_b","Personalizar algo"
+"001_c","Ahora no"
+"002","Es un banco de bricolaje."
+"011","¿Empiezo un proyecto en
+el banco de bricolaje de \0Tom Nook\0￿?"
+"011_01","¿Empiezo un proyecto en
+el banco de bricolaje de \0Tom Nook\0￿?"
+"011_01_a","(\0촁\0¡Manos a la obra!"
+"011_01_b","Personalizar algo"
+"011_01_c","(\0촁\0Ahora no"
+"011_02","¿Empiezo un proyecto en
+el banco de bricolaje de \0Tom Nook\0￿?"
+"011_02_a","(\0촁\0¡Manos a la obra!"
+"011_02_b","Hacer el taller"
+"011_02_c","(\0촁\0Ahora no"
+"011_a","(\0촁\0¡Manos a la obra!"
+"011_b","(\0촁\0Ahora no"
+"021","¿Tomo prestado este banco
+de bricolaje y construyo algo?"
+"021_01","¿Tomo prestado este banco
+de bricolaje y construyo algo?"
+"021_01_a","Fabricar algo"
+"021_01_b","Ahora no"
+"021_a","Fabricar algo"
+"021_b","Personalizar algo"
+"021_c","Ahora no"
+"022","\0\0No es posible personalizar algo
+con tus diseños mientras visitas
+otra isla.\0￿"
+"031","¡He fabricado
+2\0}\0\0!"
+"031_01","¡He fabricado
+2\0}\0\0!"
+"031_a","(\0촀\0¡A por otro proyecto!"
+"031_b","(\0촀\0Lo dejo ya"
+"032","¡He personalizado
+2\0}\0\0!"
+"032_01","¡He personalizado
+2\0}\0\0!"
+"032_a","(\0촀\0¡Personalizo otra cosa!"
+"032_b","(\0촀\0Lo dejo ya"
+"051","Ahora tengo visita. Ya participaré
+en el taller en otro momento."

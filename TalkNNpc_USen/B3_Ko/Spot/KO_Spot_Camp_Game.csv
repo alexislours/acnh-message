@@ -1,0 +1,107 @@
+﻿"label","text"
+"001","Hey!(촀\0 How 'bout we play a game?\0\0(\0촀\0If you win,
+\0 I'll give you my
+}\0\0.\0\0
+\0($촀\0Whaddaya say,
+\0 n\0?"
+"001_a","Sounds like fun!"
+"001_b","Aw, not right now."
+"002","(촀\0Great! 
+\0((촀\0But before we start, I should
+explain the rules, n\0."
+"002_a","Yes, please do."
+"002_b","I already know them."
+"003","Well, ain't that disappointing. But I
+can (%촀\0always ask ya again some other
+time, n\0."
+"004","( 촀\0Well, OK then. We can just jump right
+on in!
+\0((<촀\0 I'll shuffle the cards like son"
+"005","(9촀\0And the card isn"
+"006_01","(%촀\0As promised, I'll give you my
+}\0\0.\0\0Take it! 
+\0((촀\0I'm not one to go back on
+my word."
+"006_02","(7촀\0Huh. I didn't think you'd actually
+guess rightn\0\0
+\0(\0\0(\0촀\0Well, as promised, here's my
+}\0\0.
+\0
+(촀\0Go on, take your prize."
+"006_03","(촀\0What a shame!
+\0((촀\0 Looks I'll hold on to
+my }\0\0n"
+"007_01","(7촀\0I lost this time, but I still had fun.
+\0((촀\0
+I'll win next time, though. Mark my
+words, n\0!"
+"007_03","I won this time, but(촀\0 don't let it get
+you down. There'll be other chances
+for you to win!"
+"008","(%촀\0Gahaha! Good answer!(촀\0 Let's get right
+down to business.\0\0(\0촀\0(:촀\0Well, nown\0\0 Wait a sec.
+\0 (촀\0Your pockets
+are full! Were you not planning on
+winning our game?
+(:촀\0Go make some room if you wanna
+win my }\0\0.
+\0
+(6촀\0Then we can play, n\0."
+"100","()촀\0OK. I got four cards, and each has
+a different symbol: \0♥heart\0￿,
+\0♦diamond\0￿, \0♠spade\0￿, or \0♣club\0￿n\0\0\0\0(촀\0I'll draw a card. Then you guess
+which symbol is on it.\0\0(\0촀\0If you guess right,
+\0(촀\0 I'll give you my
+}\0\0.\0\0(\0촀\0That's all there is to itn\0\0
+\0(촀\0 And now
+our one-round battle begins!
+\0((<촀\0 First,
+I'll shuffle the cardsn"
+"101","(촀\0Alright, I drew a card!
+\0((6촀\0 Now you
+guess its symbol. Is it \0♥heart\0￿,
+\0♦diamond\0￿,\0 \0￿\0♠spade\0￿, or \0♣club\0￿?"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","(촀\0You got it! It's a 촀!
+\0(
+Well done, kiddo, n\0!"
+"102_02","(;촀\0Aw, too bad! 
+\0It's a 촀!
+\0(
+(촀\0Guess your instincts weren't up
+to snuff today, n\0."
+"200","()촀\0So. I got four cards, and each has
+a symbol in \0black\0￿ or \0red\0￿: \0♥heart\0￿,\0
+♦diamond\0￿,\0 \0￿\0♠spade\0￿, or \0♣club\0￿
+\0n\0\0\0\0(촀\0I'll draw a card, and you guess the
+color of its symbol. Remember, you
+only have two options: \0black\0￿ or \0red\0￿.
+(\0촀\0If you guess right,
+\0 (촀\0I'll give you my
+}\0\0.\0\0(촀\0That about does it.
+\0 I'll just give the
+(<촀\0cards a good shuffle,
+\0 and we'll go!"
+"201","(촀\0OK, I drew my card.
+\0((6촀\0 So which color
+do you think it is?
+\0 \0Red\0￿ or \0black\0￿?"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","(촀\0Holy moly, 
+\0촀 is right!
+\0(
+(촀\0You're the winner!"
+"202_02","(;촀\0Sorry, kiddo. Answer's 촀.
+\0(
+(촀\0You didn't guess right."
+"202_03","(촀\0Holy moly, 
+\0촀 is right!
+\0(
+(촀\0You're the winner!"
+"202_04","(;촀\0Sorry, kiddo. Answer's 촀.
+\0(
+(촀\0You didn't guess right."

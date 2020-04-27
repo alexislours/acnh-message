@@ -1,0 +1,473 @@
+﻿"label","text"
+"002","(촀\0Oh,
+\0 vraiment ?
+\0 (촀\0T'es sûr2\0e que cette île
+est prête à accueillir un sportif aussi
+\0 
+musclé que moi ?
+\0 (촀\0Ce serait top !\0\0Eh ben, d'accord !
+\0 ()촀\0Je vais demander
+au \0bureau des résidents\0￿."
+"101","<"
+"101_01","( 촀\0Hein ?
+\0 Que je vienne vivre ici ?
+\0
+Ce serait super sympa, maisn\0\0
+\0 ('촀\0ça va
+pas le faire,
+\0 désolé, n\0.\0\0(촀\0Il m'a fallu des années pour disposer
+de façon optimale tout mon matériel
+de muscu.
+\0 Je peux pas le déplacer ! "
+"101_02","(촀\0
+\0Hein ?!
+\0 Déménager pour m'installer
+ici ?
+\0 Ouah,
+\0 ce serait tropn\0\0
+\0 ('촀\0Ah nan,
+\0
+c'est pas possible.\0\0()촀\0Tu vois,
+\0 je travaille depuis
+\0 des mois
+sur une boisson protéinée innovante,
+\0
+et là je suis à deux doigts d'aboutirn\0\0\0\0(8촀\0La recette est SUPER complexe.
+\0
+J'ai même dû m'acheter un tableau
+pour noter comment je procédais.\0\0(촀\0Bref,
+\0 si je change les conditions de
+préparation,
+\0 faudra tout reprendre à
+zéro.
+\0 ('촀\0Je déménage pas maintenant."
+"101_03","( 촀\0Venir vivre ici ?
+\0 ('촀\0Non,
+\0 ce serait sans
+doute formidable,
+\0 mais je peux pas.\0\0()촀\0Ma vocation,
+\0 c'est d'inciter les gens
+à se muscler,
+\0 tu vois.
+\0 Et ici,
+\0 tout le
+monde a déjà de superbes muscles.\0\0(%촀\0Je devrais plutôt mettre mes talents
+à profit sur une île qui en aurait plus
+besoin.
+\0 (촀\0Désolé,
+\0 mais je dois refuser."
+"201_01","(&촀\0Hein ?
+\0 Vraiment ?!
+\0 Ouah,
+\0 je sais
+pas trop quoi dire, n\0n\0\0\0\0(\0촀\0Tu sais quoi ?
+\0 (%촀\0Laissons donc le bras
+musclé du destin en décider !\0\0()촀\0On va jouer à un petit jeu,
+\0 et si tu
+gagnes,
+\0 j'emménage ici.
+\0 D'accord ?"
+"201_01_a","Très bien. Allons-y !"
+"201_01_b","Euh, non merci."
+"201_02","(&촀\0Quoi ?
+\0 Tu veux me recruter dans
+l'équipe 2
+de d'⁠n	\0 ?\0\0()촀\0Eh bien,
+\0 si tu veux me convaincre
+de défendre les couleurs de ton île,
+\0
+on va d'abord jouer à un petit jeu !\0\0(%촀\0Si tu gagnes,
+\0 j'emménage ici.
+\0 Prêt2\0e ?"
+"201_02_a","Toujours partant2\0e !"
+"201_02_b","Non, je ne crois pas..."
+"201_03","( 촀\0Moi ?
+\0 Que je vienne habiter ici ?
+\0 (6촀\0Ha !
+\0
+Tu crois être à la hauteur pour qu'on
+vive sur la même île, n\0 ?\0\0(촀\0Ben,
+\0 y a qu'une façon de le savoir !
+\0
+Toi et moi,
+\0 on va jouer à un petit jeu.\0\0()촀\0Si tu réussis à gagner,
+\0 j'emménage
+ici.
+\0 Alors,
+\0 t'es partant2\0e ?"
+"201_03_a","Oh, oui ! C'est parti !"
+"201_03_b","Nan, pas question."
+"202_01","( 촀\0Oh,
+\0 vraiment ?
+\0 (촀\0On dirait que le bras
+du destin a un accès de faiblesse,
+\0
+aujourd'hui, n\0n"
+"202_02","(촀\0Bonn\0\0
+\0 c'est toi qui vois.
+\0 Dans ce cas,
+\0
+je reste sur le marché des transferts,
+n\0 !"
+"202_03","(촀\0Oh.
+\0 Je te comprends.
+\0 Honnêtement,
+('촀\0je sais pas si je serais à la hauteur
+d'être mon propre rival,
+\0 tu saisn"
+"203_01","(촀\0Youhou !
+\0 On va tout de suite disputer
+un jeu de cartes, n\0 !\0\0()촀\0C'est tout simple :
+\0 je vais tirer une
+carte,
+\0 et tu devras deviner quelque
+chose à son sujet.
+\0 C'est partin"
+"204","<"
+"204_01","(촀\0La victoire me revient !
+\0 (촀\0Ce qui
+m'ennuie un peu,
+\0 en faitn\0\0(촀\0\0\0J'aurais eu beaucoup de plaisir
+à trimballer tout mon barda pour
+m'installer sur cette îlen"
+"204_02","(%촀\0Tu as bien joué,
+\0 mais j'ai gagné
+quand même."
+"204_03","(2촀\0Tu peux pas gagner à tous les coups.
+\0
+De toute façon,
+\0 il paraît que c'est de
+ses défaites qu'on apprend le plus."
+"205","<"
+"205_01","(촀\0Eh ben,
+\0 ç'a été un super jeu !
+\0 ( 촀\0Oh,
+\0
+j'espère que tu t'es amusé2\0e aussi,
+n\0 !"
+"205_02","(%촀\0J'espère que ce jeu de cartes t'a
+plu, à
+\0 toi aussi.
+\0 Moi,
+\0 j'adore, n\0 !"
+"205_03","(촀\0Bonn\0\0
+\0 quand organise-t-on la parade
+d'honneur pour ma victoire, n\0 ?"
+"206","<"
+"206_01","(9촀\0Tu as gagné, n\0n\0\0
+\0 Je ne lutterai pas plus longtemps.
+\0 (
+촀\0C'est pourtant un beau sport,
+\0 la lutte !\0\0(촀\0T'es pas d'accord,
+\0 euhn\0\0
+\0 (촀\0attendsn\0\0
+\0
+tu veux bien me rappeler ton nom ?
+\0
+(%촀\0Ah,
+\0 n\0,
+\0 c'est ça !
+(5촀\0Tu voulais 2
+que qu'⁠n
+\0 vienne vivre à n	\0 ?
+\0 Eh bien c'est d'accord,
+\0 je viens !"
+"206_02","(9촀\0Je sais reconnaître ma défaite !
+\0 (7촀\0Ohn\0\0
+\0
+tu peux juste me rappeler ton nom ?
+\0
+(%촀\02\0n\0,
+\0 hein ?
+\0 Merci !\0\0(5촀\0Eh bien,
+\0 n\0,
+\0 n
+\0 est 2\0n\0 de parole !\0\0(6촀\0Tu as gagné,
+\0 je vais donc venir
+m'installer ici, n\0 !"
+"206_03","(%촀\0Tu sais relever un défi avec sérieux !
+\0
+(촀\0Et en plus,
+\0 tu as remporté la victoire.
+\0
+Bravo,
+\0 euhn\0\0\0\0(7촀\0Ohn\0\0
+\0 tu peux me rappeler comment
+tu t'appelles ?
+\0 (%촀\02\0n\0,
+\0 hein ?
+\0 Bravo,
+\0 n\0 !\0\0Eh bien,
+\0 tu as gagné.
+\0 (5촀\0Ton île peut se
+féliciter d'accueillir dans son équipe
+n
+\0, n\0 !"
+"302","(촀\0Mauvaise nouvellen\0\0
+\0 Le \0bureau des
+résidents\0￿ de ton île m'a répondun\0\0
+\0 ('촀\0et
+c'est non,
+\0 je peux pas emménager ici.\0\0(촀\0Y aurait plus assez de place sur l'île
+pour nous accueillir,
+\0 moi et mes bras
+terriblement musclés, n\0.\0\0(9촀\0Par contre,
+\0 il suffirait qu'une
+personne quitte l'île et je pourrais
+envisager de venir m'y installern\0\0\0\0(촀\0Tu crois que je pourrais essayer de
+m'arranger avec un résident actuel ?"
+"302_a","Tente le coup !"
+"302_b","Non, mauvaise idée."
+"303","(
+촀\0Hmmn\0\0
+\0 Un étranger musclé venant
+voir les habitants pour leur demander
+de quitter l'île ?
+\0 ('촀\0Ça ferait mochen"
+"304","(촀\0Tu as raison.
+\0( (촀\0D'après le \0bureau
+des résidents\0￿, certains habitants
+pourraient vouloir déménager.
+(&촀\0Qui est-ce que tu me conseillerais
+d'aller voir, n\0 ?"
+"305","(&촀\0Donc,
+\0 tu voudrais que j'aille discuter
+avec s촀 pour l'inviter à s'en aller,
+\0 c'est bien ça ?"
+"305_a","C'est ça !"
+"305_b","Mais non, pas 2촀luielle\0 !"
+"305_c","Euh... non, laisse tomber."
+"306","(%촀\0Très bien,
+\0 je vais aller 2촀lela\0 voir tout de
+suite.
+\0 2촀IlElle\0 refusera peut-être,
+\0 mais
+ça vaut le coup de demander !"
+"307","( 촀\0Oh,
+\0 j'ai failli faire une bouletten\0\0
+\0
+(%촀\0Bon,
+\0 qui je devrais aller voir,
+\0 alors ?"
+"308","(8촀\0Ah bonn\0\0
+\0 euhn\0\0
+\0 d'accord.
+\0 (촀\0Oublie
+ma suggestion, n\0n"
+"309","(촀\0Ça a marché !
+\0 J'étais à peine arrivé
+là-bas qu'2촀ilelle\0 s'est 24촀mis de luimise d'elle\0-même
+à faire ses cartons, n\0 !\0\0()촀\0J'y suis allé,
+\0 j'ai expliqué la situation,
+\0
+montré un peu mes muscles,
+\0 et bam !
+\0
+(촀\0L'affaire était dans le sac !\0\0(촀\02촀IlElle\0 m'a paru très sympa.
+\0 Et un poil
+2(촀nerveuxnerveuse\0,
+\0 aussin\0\0
+\0 (촀\0J'espère que son
+futur nouveau foyer lui plaira !\0\0(7촀\0Ohn\0\0
+\0 tu peux me rappeler comment
+tu t'appelles ?
+\0 2\0n\0,
+\0 c'est bien ça ?\0\0(촀\0Alors à bientôt dans les parages,
+\0
+n\0 !"
+"310","(&촀\0Hein ?
+\0 Tu crois qu'aucun résident ne
+se laisserait convaincre de s'en aller
+pour faire un peu de place sur l'île ?"
+"310_a","Si, peut-être bien..."
+"310_b","Non, personne."
+"311","(%촀\0Bon,
+\0 tant mieux.
+\0 Et à ton avisn\0\0 qui
+je devrais aller inciter à déménager,
+\0
+n\0 ?"
+"312","(8촀\0Ah bonn\0\0
+\0 Ben si tu le disn\0\0
+\0 (촀\0Oublie ma
+suggestion,
+\0 alors, n\0n"
+"402","(9촀\0Bonn\0\0
+\0 J'ai eu la réponse du \0bureau
+des résidents\0￿ de l'île :
+\0 ('촀\0ils ont rejeté
+ma demande, n\0.\0\0(촀\0Il paraît que ça enfreindrait l'arrêté
+limitant le nombre d'équipements
+de musculation sur l'île.
+\0
+(촀\0Va savoir ce qu'ils veulent dire par
+là !
+\0 (\0촀\0Enfin bon,
+\0 tant pis.
+\0 (촀\0Et merci pour
+ton invitation !"
+"403","(촀\0J'ai eu la réponse du \0bureau des
+résidents\0￿ de ton île :
+\0 ('촀\0mon projet de
+déménagement n'a pas été approuvé.\0\0(촀\0Quelqu'un qui me ressemble serait
+déjà sur le point d'emménager sur
+l'île,
+\0 à ce qu'il paraît. 2\0n\0n\0\0\0\0(촀\0Aurais-je un jumeau caché ?!
+\0 Est-il
+aussi fort que moi ?
+\0 Nan,
+\0 il suffit de
+me regarder :
+\0 c'est im-
+\0pos-
+\0siblen"
+"404","(촀\0Le \0bureau des résidents\0￿ de ton île
+m'a répondu :
+\0 ('촀\0il n'y a plus de place
+pour accueillir d'autres habitants.\0\0(%촀\0Je comprends.
+\0(5촀\0 Musclé comme je suis,
+\0
+je risquerais de pousser quelqu'un
+dans la mer par mégarde !"
+"405","(촀\0Le \0bureau des résidents\0￿ de ton île
+m'a répondu,
+\0 ('촀\0et c'est non :
+\0 il n'y a
+plus de place pour d'autres maisons.\0\0(촀\0D'après eux,
+\0 on pourrait même plus
+caser une salle de sport.
+\0 (
+촀\0C'est quand
+même dingue,
+\0 non ? 2\0n\0 !"
+"406","(촀\0Je viens juste d'avoir la réponse du
+\0bureau des résidents\0￿ de ton île.\0\0(촀\0Ben ça y est,
+\0 on va devenir voisins !
+\0
+(촀\0Tout le monde là-bas pourra bientôt
+admirer mes biceps, n\0 !\0\0(7촀\0Ohn\0\0
+\0 tu peux me rappeler comment
+tu t'appelles ?
+\0 2\0n\0,
+\0 c'est bien ça ?\0\0(촀\0À un de ces quatre,
+\0 alors,
+\0 n\0 !"
+"410","(%촀\0En faitn\0\0
+\0 je crois que je devrais
+recontacter le \0bureau des résidents\0￿.\0\0Qui sait ?
+\0 (촀\0J'aurai peut-être plus de
+chance ce coup-ci, n\0 !"
+"410_a","Oh oui, essaie encore !"
+"410_b","C'est pas la peine..."
+"411","(촀\0T'as sans doute raison.
+\0 S'ils avaient
+voulu que je vienne,
+\0 ils auraient déjà
+approuvé ma requêten\0\0\0\0(촀\0Et les relancer sans arrêt risque de
+me faire une sale réputation.
+\0 (5촀\0Mieux
+vaut me faire une belle musculation !"
+"421","()촀\0Il paraît que sur ton île,
+\0 il y a déjà
+un autre résident qui me ressemble
+comme deux gouttes d'eau.\0\0(촀\0Deux voisins aussi costauds,
+\0 ça peut
+paraître chouetten\0\0
+\0 ('촀\0mais j'ai peur de
+faire couler l'île,
+\0 avec nos haltères."
+"422","(촀\0Mon dossier d'inscription pour
+emménager sur ton île a été rejetén\0\0\0\0(촀\0Quelqu'un qui me ressemble aurait
+déposé sa demande juste avant moi.\0\0(촀\0J'aimerais bien rencontrer ce sosie !
+\0
+D'après sa description,
+\0 il devrait être
+un camarade d'entraînement parfait !"
+"423","(%촀\0Ton île n'accepte plus de résidents
+supplémentaires.
+\0 Je pensais pas que
+c'était une destination si appréciée !\0\0(5촀\0Ou alors,
+\0 ils ont eu peur que ma
+musculature éblouissante provoque
+des mouvements de foule !"
+"424","(%촀\0Il paraît qu'y a plus une place libre,
+\0
+sur ton îlen\0\0
+\0 Tu m'avais pas dit que
+c'était une destination si appréciée !\0\0(""촀\0Si jamais un emplacement se libèren\0\0
+\0
+fais-moi signe,
+\0 hein ! 2\0n\0 !"
+"504","(촀\0Depuis que je suis ici,
+\0 je suis SUPER
+efficace aux entraînements.
+\0 Je bats
+tous mes records personnels !\0\0(5촀\0Si je reste ici plus longtemps,
+\0 mon
+superbe corps d'athlète va devenir
+encore plus musclé, n\0 !"
+"504_a","Eh bien vas-y, reste !"
+"504_b","(\0촁\0Pense à bien t'hydrater."
+"505","( 촀\0Tu veux diren\0\0
+\0 rester vraiment ?
+\0
+Que je m'installe ici ?
+\0 (
+촀\0Ma foi,
+\0 c'est
+vrai que c'est tentant.
+\0 Hmmn\0\0\0\0()촀\0Si je vivais ici, 
+\0je ferais tout le temps
+de l'exercice,
+\0 (1촀\0et je pourrais plus
+savourer mes bonnes courbatures.(촀\0\0\0D'un autre côté, plus d'exercice,
+\0
+c'est pas une mauvaise chosen\0\0
+\0 ('촀\0Nan,
+faut que je pèse le pour et le contre.\0\0(7촀\0Mais je serai toujours partant pour
+venir camper. 
+\0Redemande-moi la
+prochaine fois."
+"506","()촀\0Oui,
+\0 merci !
+\0 Bien s'hydrater est la clé
+du succès,
+\0 enn\0\0
+\0 Eh ben,
+\0 pour tout,
+\0
+en fait, n\0 !
+\0 ($촀\0Bon conseil."
+"507","(6촀\0Cet endroit est génial !
+\0 Je pensais
+pas rencontrer ici un tel intérêt pour
+mes entraînements, n\0 !\0\0(7촀\0D'habitude,
+\0 on me demande d'arrêter
+de parler de muscles au bout de cinq
+ou six minutesn\0\0
+\0 mais pas ici !"
+"507_a","Reste nous en parler !"
+"507_b","(6촁\0On se demande pourquoi."
+"508","( 촀\0Tu veux diren\0\0
+\0 rester,
+\0 m'installer ici ?
+\0
+($촀\0Hmmn\0\0\0\0(5촀\0Cette île a un gros potentiel, 
+\0mais il
+faut encore que je répande le culte
+de la courbature à travers le monde.\0\0(
+촀\0En tout cas c'est super tentantn\0\0
+\0P
+('촀\0Nan, j'arrive pas à me décider.\0\0(촀\0Je vais dire !
+\0((%촀\0 T'as qu'à me réinviter
+dans quelque temps, et on en
+reparle. 
+\0(""촀\0Ça marche, n\0 ?"
+"509","()촀\0Je me l'explique pas non plus !
+\0 Tout
+ce que je veux,
+\0 c'est aider les gens
+à avoir un beau corps bien musclé !\0\0(촀\0Voilà pourquoi je fais tant d'efforts
+en musculation,
+\0 pour offrir à tous un
+formidable exemple, n\0 !"

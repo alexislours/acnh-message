@@ -1,0 +1,419 @@
+﻿"label","text"
+"000","(촀\0
+\0Ah, 
+\0n\0!
+\0 (""촀\0Salve,
+\0 salve!(촀"
+"000_01","(촀\0Salve, salve! Questo è lo \0sportello
+consulenza edile\0￿!
+\0(&촀\0 Cosa posso fare
+per te?"
+"000_02","(촀\0
+\0Ah, 
+\0n\0!
+\0
+(""촀\0Bentornat2oa!(촀"
+"000_03","(촀\0
+\0Ah,
+\0 scusa se cambio argomenton"
+"004_01","(촀\0Possiamo personalizzare l'aspetto
+esteriore della tua casa per \05000
+stelline\0￿."
+"004_02","(촀\0Possiamo personalizzare l'aspetto
+esteriore della tua casa gratis!"
+"004_03","Se effettui l'ordine adesso, tutto
+sarà pronto entro domani mattina.
+\0
+Alloran\0\0 (&촀\0vuoi procedere?"
+"004_03_a","(%촀\0Sì, certo!"
+"004_03_b","('촀\0Facciamo un'altra volta."
+"005","(촀\0Ehmn\0\0 È prassi della Nook Inc. di
+riscuotere il pagamento prima che
+inizino i lavori di personalizzazione.\0\0(\0촀\0Pare che al momento tu non abbia
+abbastanza stelline,
+\0(촀\0 torna pure
+quando ce le avrai, sì, sì!"
+"006","(촀\0Fantastico! Ti mostro subito il nostro
+catalogo, così potrai scegliere cosa
+preferisci per la tua casa."
+"007","Oh, ohn\0\0
+\0(&촀\0 Hai cambiato idea?
+\0
+(촀\0Nessun problema.
+\0 Sai dove trovarmi
+se vuoi personalizzare la tua casa."
+"008_01","(%촀\0Mmmhn\0\0
+\0(촀\0 Una scelta interessante!"
+"008_02","(촀\0In tutto fa \05000 stelline\0￿, sì, sì!"
+"009_01","(촀\0Mille grazie!"
+"009_02","(촀\0Farò in modo che i lavori siano
+terminati entro domani mattina. 
+\0
+Sarai sicuramente emozionat2oa!"
+"010","(촀\0Le personalizzazioni che hai
+ordinato saranno pronte domani.
+\0
+(""촀\0Non stai più nella pelle, vero?"
+"012","(촀\0Così vorresti parlare di casa tua, sì?
+(촀\0Va bene, man\0\0
+\0((촀\0 c'è una cosa che
+voglio dirti prima.
+(\0촀\0Oltre a occuparci di costruzioni,
+\0
+(촀\0aiutiamo anche gli abitanti a \0spostare
+la loro casa\0￿.
+(촀\0È qualcosa che possiamo fare anche
+se bisogna ancora restituire il
+prestito.
+\0 (""촀\0Se ti interessa, dimmelo! Sì!"
+"013","(촀\0Ah, vuoi spostare casa tua?\0\0(\0촀\0Dopo aver scelto un nuovo posto,
+
+\0(촀\0la mattina seguente te la trasferirò.\0\0(\0촀\0Il costo totale è \030.000 stelline\0￿.
+\0
+(&촀\0Vuoi avviare la procedura?"
+"013_a","(%촀\0Via col trasferimento!"
+"013_b","('촀\0Ho cambiato idea."
+"014","( 촀\0Veramente?(촀\0 Bene, se dovessi
+ripensarci, mi troverai qui!"
+"015","(촀\0Perfetto!
+\0( Ehmn\0\0 n\0,
+\0
+(촀\0Temo di essere costretto a chiederti
+il pagamento anticipato delle spese.\0\0(\0촀\0Ma pare che tu non abbia abbastanza
+da poter coprire i costi, adesso.
+\0(촀\0 Ne
+riparliamo in un momento migliore."
+"016","()촀\0Innanzitutto devi delimitare un
+terreno con un \0kit trasloco
+\0\0￿(촀\0 dopo
+aver scelto il posto.\0\0(촀\0Ma ora hai le tasche troppo piene per
+il kit.
+\0(촀\0 Riparliamone concretamente
+quando avrai più spazio."
+"017","(촀\0Sì, sì! Perfetto!
+\0(\0촀\0 Ora la prossima cosa
+da fare
+\0 (촀\0è trovare un nuovo terreno."
+"018","()촀\0Dovrai delimitare il terreno(촀\0 che avrai
+scelto per la tua nuova casa.\0\0(\0촀\0In tasca dovresti avere il \0kit trasloco
+\0￿che ti serve.
+\0(촀\0 Sistemalo nel posto in
+cui vuoi trasferirti!"
+"020","(촀\0Sì, sì! 
+\0(\0촀\0Ho già accettato la tua
+richiesta di \0spostare casa tua\0￿.
+\0(&촀\0
+Hai qualcosa in mente?"
+"020_a","Non voglio spostarla."
+"020_b","('촀\0No, niente."
+"021","( 촀\0Oh? Non hai trovato un posto
+adatto?
+\0 (\0촀\0Allora annulliamo tutto.
+\0
+(촀\0Ti restituirò le stelline anticipate."
+"022","(촀\0Sono necessari dei preparativi, prima
+di spostare tutto.
+\0( ()촀\0Innanzitutto devi
+scegliere la nuova posizione.
+(촀\0Scegli il posto che ti piace e usa 2\0}\0\0 per marcarlo!"
+"023","(촀\0Hai già delimitato il terreno con 2\0}\0\0?
+\0(\0촀\0\0\0(""촀\0Allora i lavori saranno ultimati
+entro domani!"
+"031","(촀\0Ah!
+\0((촀\0 C'èn\0\0
+\0(촀\0 un'altra cosa di cui devo
+parlarti.\0\0(\0촀\0A questo \0sportello consulenza edile\0￿,
+
+\0chi ha una casa
+\0(촀\0 può venire a parlarmi
+per \0spostare la propria casa\0￿.
+(\0촀\0Ti posso aiutare (촀\0anche se hai ancora
+un prestito da restituire.
+\0(""촀\0 Basta che
+dici: ""\0A proposito di casa...\0￿""!"
+"051","(촀\0È ora di parlare di casa tua, sì, sì.
+\0
+(\0촀\0Posso soddisfare richieste di vario
+tipo.
+\0(&촀\0 Cosa vorresti fare?"
+"051_a","Vorrei personalizzarla."
+"051_b","Vorrei trasferirmi."
+"051_c","Non ora."
+"052","(촀\0Sei venut2oa a parlarmi di casa tua?
+\0
+(&촀\0Cosa mi vuoi dire?"
+"052_a","Vorrei ampliarla."
+"052_b","Vorrei personalizzarla."
+"052_c","Non ora."
+"053","(촀\0È ora di parlare di casa tua, sì, sì.
+\0
+(\0촀\0Al momento posso aiutarti con la
+personalizzazione.
+\0(&촀\0 Vuoi?"
+"053_a","Vorrei personalizzarla."
+"053_b","Non ora."
+"054","(촀\0Sei venut2oa a parlarmi di casa tua?
+\0
+(&촀\0Cosa mi vuoi dire?"
+"054_a","Vorrei ampliarla."
+"054_b","Vorrei personalizzarla."
+"054_c","Vorrei trasferirmi."
+"054_d","Non ora."
+"055","(촀\0Sei venut2oa a parlarmi di casa tua?
+\0
+(&촀\0Cosa mi vuoi dire?"
+"055_a","Vorrei ampliarla."
+"055_b","Vorrei trasferirmi."
+"055_c","Non ora."
+"056","(촀\0Va bene, ti ho fatto già aspettare
+abbastanzan\0\0
+\0((&촀\0 Come posso aiutarti?"
+"056_a","Vorrei ampliarla."
+"056_b","Vorrei trasferirmi."
+"056_c","Non ora."
+"057","(촀\0Va bene, ti ho fatto già aspettare
+abbastanzan\0\0
+\0((&촀\0 Come posso aiutarti?"
+"057_a","Vorrei ampliarla."
+"057_b","Vorrei personalizzarla."
+"057_c","Vorrei trasferirmi."
+"057_d","Non ora."
+"058","(촀\0Va bene, ti ho fatto già aspettare
+abbastanzan\0\0
+\0((&촀\0 Come posso aiutarti?"
+"058_a","Vorrei personalizzarla."
+"058_b","Vorrei trasferirmi."
+"058_c","Non ora."
+"075_01","(촀\0Parliamo!
+\0 Ci sono diversi argomenti
+che possiamo trattare, man\0\0
+\0 a te
+(&촀\0cosa interessa di specifico?"
+"075_01_a","Vendiamo un terreno."
+"075_01_b","Ponti e rampe."
+"075_01_c","Spostare un edificio."
+"075_01_d","Non ora."
+"075_02","(촀\0Parliamo!
+\0 Ci sono diversi argomenti
+che possiamo trattare, man\0\0
+\0 a te
+(&촀\0cosa interessa di specifico?"
+"075_02_a","Ponti e rampe."
+"075_02_b","Spostare un edificio."
+"075_02_c","Non ora."
+"101","(촀\0
+\0Oh, 
+\0non hai bisogno di aiuto?
+\0
+(촀\0Se hai domande sulla tua casa,
+sono sempre a tua disposizione!"
+"102","(촀\0Sì, sì!
+\0 Si tratta di un acquisto
+importante che richiede un'adeguata
+riflessione.
+Quando avrai preso una decisionen\0\0
+sai dove trovarmi!"
+"103","(촀\0Perfetto!
+\0 Darò immediatamente
+inizio ai lavori.\0\0(촀\0Dovrebbe essere tutto pronto entro
+domani mattina.
+\0 Non vedi l'ora,
+vero?"
+"201","(촀\0Oh! 2\0n\0!\0\0(촀\0Hai deciso di comprare una casa?
+Di passare a una vita con tutte
+le comodità possibili?\0\0Vivere in tenda è entusiasmante,
+ma una casa offre più spazio e
+la sensazione di stabilità.\0\0(\0촀\0Per costruire una casa è necessario
+stipulare un prestito che ammonta a
+\098.000 stelline\0￿n\0\0\0\0(&촀\0Cosa ne pensi? Vuoi costruire
+la tua casetta?"
+"201_a","(%촀\0Sì, va bene!"
+"201_b","Vorrei pensarci su."
+"202","(촀\0Grazie per la fiducia accordataci!
+\0
+Darò subito inizio ai lavori.\0\0(촀\0Sappi che per il tetto puoi anche
+scegliere fra otto colori diversi."
+"203","Ecco la lista dei colori. Potresti
+scegliere quello che preferisci
+per il tuo tetto?"
+"203_a","Rosso."
+"203_b","Rosa."
+"203_c","Giallo."
+"203_d","Nero."
+"203_e","Un altro colore."
+"204","Ecco gli altri quattro colori!
+Scegline uno di questi o uno
+dalla lista precedente."
+"204_a","Blu."
+"204_b","Turchese."
+"204_c","Verde."
+"204_d","Indaco."
+"204_e","Un altro colore."
+"205","Vuoi rivedere i colori della prima
+lista? Prendi tutto il tempo che vuoi,
+è una decisione importante."
+"205_a","Rosso."
+"205_b","Rosa."
+"205_c","Giallo."
+"205_d","Nero."
+"205_e","Un altro colore."
+"206","Certo, certo. Ecco gli altri quattro
+colori. (촀\0Hai tutto il tempo di
+scegliere quello che ti dice il cuore."
+"206_a","Blu."
+"206_b","Turchese."
+"206_c","Verde."
+"206_d","Indaco."
+"206_e","Un altro colore."
+"208_01","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0rosso\0￿."
+"208_02","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0rosa\0￿."
+"208_03","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0giallo\0￿."
+"208_04","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0nero\0￿."
+"208_05","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0blu\0￿."
+"208_06","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0turchese\0￿."
+"208_07","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0verde\0￿."
+"208_08","(촀\0Bene, bene!
+\0 Il tuo tetto sarà \0indaco\0￿."
+"209","(촀\0Inoltro subito l'ordine, sì, sì!"
+"209_01","(촀\0
+\0Oh! 
+\0(\0촀\0Quasi dimenticavo di dirtelon\0\0\0\0(촀\0I proprietari di immobili ricevono automaticamente uno status più alto nel \0programma miglia di Nook\0￿."
+"209_02","(\0촀\0Dammi solo un attimo, per favoren"
+"209_03","(촀\0Ecco fatto!
+\0((촀\0 Ho aggiornato i tuoi dati
+di partecipazione al programma,
+n\0.\0\0(\0촀\0Quando usi la app Miglia di Nook,
+\0(%촀\0
+ora avrai diritto a tutti i vantaggi
+di soci2oa \0miglia di Nook+\0￿.\0\0(촀\0Il programma \0miglia di Nook+
+\0￿ti permette di ottenere miglia
+aggiuntive in circostanze particolari.\0\0(\0촀\0Scoprirai tutti i dettagli (%촀\0la prossima
+volta che accederai alla app, 
+\0(촀\0quindi
+dai un'occhiata all'occasione."
+"209_04","(촀\0Questo è tutto!
+\0 La tua bellissima
+casetta dovrebbe essere pronta
+già domani. Non sei emozionat2oa?"
+"211","(
+촀\0Dunque, dunquen\0\0
+\0 (\0촀\0Per casa tua, ti
+consiglierei
+\0(촀\0 di ingrandire la stanza.\0\0(\0촀\0Per farlo, è necessario stipulare un
+prestito di \0198.000 stelline\0￿.
+\0
+(&촀\0Ti interessa?"
+"211_a","(%촀\0Sì, va bene!"
+"211_b","('촀\0Non ora."
+"212","(
+촀\0Certo, certon\0\0
+\0(\0촀\0 Per casa tua, credo
+(촀\0che si potrebbe aggiungere un'altra
+stanza.\0\0()촀\0Se aggiungessi una stanza sul retro,
+la forma della casa non cambierebbe,
+ma avresti molto più spazio.
+(1촀\0I costi sarebbero anche
+relativamente contenuti.\0\0(\0촀\0Sarebbe necessario stipulare un
+prestito di \0348.000 stelline\0￿.
+\0(&촀\0 Che te
+ne pare? Procediamo?"
+"212_a","(%촀\0Sì, va bene!"
+"212_b","('촀\0Non ora."
+"213","(촀\0Ti va di ingrandire casa?
+\0
+(
+촀\0Forse potremmo aggiungere un'altra
+stanza, per creare più spazio.\0
+(\0촀\0\0￿Il prestito ammonterebbe a
+\0548.000 stelline\0￿. 
+\0(&촀\0Ti interessa?"
+"213_a","(%촀\0Sì, va bene!"
+"213_b","('촀\0Non ora."
+"214","(촀\0Vuoi ingrandire la tua casa?
+\0
+(
+촀\0Credo che con un'altra stanza 
+avresti lo spazio che desideri.\0
+(\0촀\0\0￿Il prestito ammonterebbe a
+\0758.000 stelline\0￿. 
+\0(&촀\0Ti interessa?"
+"214_a","(%촀\0Sì, va bene!"
+"214_b","('촀\0Non ora."
+"215","(촀\0Vuoi ingrandire la tua casa?\0\0(촀\0Con gli strumenti giusti e olio di
+gomito potremmo costruire un nuovo
+piano fatto di una grande stanza!\0\0(촀\0Come capirain\0\0 aggiungere un altro
+piano comporta dei costi alquanto
+elevati.\0\0(\0촀\0Si tratterebbe di un prestito di
+\01.248.000 stelline\0￿. 
+\0(&촀\0Ti interessa?"
+"215_a","(%촀\0Sì, va bene!"
+"215_b","('촀\0Non ora."
+"216","(촀\0Eh? Vorresti avere(&촀\0 una cantina
+nella tua casa?\0\0(
+촀\0Finora non hai mai perso i sensi
+sentendo i prezzi, quindi credo che
+sopravviverai,
+\0(촀\0 anche stavolta.\0\0(\0촀\0Senza giri di parole: il prestito
+ammonterebbe a \02.498.000 stelline\0￿.
+\0
+(&촀\0Sei davvero sicur2oa di volerla?"
+"216_a","(%촀\0Sì, va bene!"
+"216_b","('촀\0Non ora."
+"251","(촀\0Bene, bene!
+\0 Sono molto felice per te!
+Darò immediatamente inizio ai lavori!\0\0(촀\0
+\0Oh! 
+\0Ora che ci penson\0\0 (\0촀\0forse sarebbe
+il momento adatto per cambiare
+il colore del tetto.
+\0(&촀\0 Non credi?\0\0(촀\0In tutto ci sono 8 colori tra i quali
+scegliere."
+"252","(촀\0I lavori dovrebbero essere finiti
+entro domani.
+\0 Scommetto che
+non stai più nella pelle!"
+"261","(촀\0Credo che i lavori commissionati non
+siano ancora stati completati.
+\0
+(""촀\0Sì, sì, 
+\0so che non vedi l'ora!"
+"261_01","Certo, certo, i lavori a casa tua
+saranno finiti entro domani,
+n\0!"
+"262","(촀\0Mmhn\0\0 non vorrei deluderti ma
+\0
+ non
+posso accettare nuove richieste
+se il prestito non è ancora estinton\0\0\0\0(촀\0Ricorda che puoi ripagare il prestito
+al \0Punto Nook\0￿ quando vuoi.
+\0
+ Ne
+riparliamo quando hai ripagato tutto."
+"263",""
+"801","(7촀\0Scusami, ma sono molto impegnato
+perché abbiamo qualcuno qui in
+visita proprio adesso."
+"802_01","(촀\0Dovresti sfruttare quest'opportunità
+per far vedere le meraviglie della
+tua isola, n\0!"
+"802_02","(촀\0Potremo dedicarci agli affari quando
+non ci sarà più nessuno in visita,
+sì, sì."
+"900","(촀\0Non ho più nulla da insegnarti, n\0!\0\0(촀\0Hai imparato tutto il possibile.
+Adesso vai e pensa a divertirti e
+a goderti la vita sull'isola."
+"901","(촀\0Sono alla ricerca di partecipanti per
+il mio corso di \0personalizzazione\0￿.\0\0()촀\0Imparare a personalizzare le proprie
+creazioni 
+\0(촀\0rende il fai da te ancora più
+divertente, perciò non mancare!"
+"902","()촀\0Carissim2oa n\0, ti sei già iscritt2oa al mio corso di \0personalizzazione\0￿!(촀\0
+Se vuoi sapere come procedere,
+basta che mi dici: ""\0Il corso di fai da te...\0￿"""

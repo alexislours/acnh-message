@@ -1,0 +1,129 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0¡Aquí s촀!
+\0 Estoy mudándome, así que no puedo hacer nada más. ¡Hablamos luego!\0￿d"
+"001_02","d\0\0¡Aquí s촀!
+\0 Me agarras en plena mudanza. ¡Hablamos otro día, tú!\0￿d"
+"001_03","d\0\0¡Aquí s촀!
+\0 Estoy preparando la mudanza, así que no tengo tiempo ahora. ¡Perdón!\0￿d"
+"001_04","d\0\0¡Aquí s촀!
+\0 Todavía no termino con lo de la mudanza, así que hablamos luego, ¿sí?\0￿d"
+"102","<"
+"102_01","(%촀\0¡Ajá!
+\0 Conque quieres que vaya
+a la \02\0Ȃ촄zona de campamento\0￿ de tu isla,
+¿eh?
+(촀\0¡Pues no se diga más! 
+\0Allá me
+iré, con todo, n\0."
+"102_02","(촀\0¿Cómo? 
+\0¿Me estás invitando a ir
+de campamento?
+\0(촀\0 ¡Goaooo! ¡Qué bien
+me conoces!
+(5촀\0Voy corriendo a tu isla."
+"102_03","(촀\0¿Que si quiero ir a acampar a tu isla?
+\0
+¿Tú que crees?
+\0 (촀\0¡Pues
+\0 claro 
+\0que 
+\0sí!"
+"102_04","(&촀\0¿Que si quiero ir a la \02\0Ȃ촄zona de campamento \0￿de tu isla?\0\0(촀\0¡La pregunta ofende! 
+\0¡Ya sabes
+que(촀\0 yo a estas cosas me apunto
+sin dudarlo, n\0!"
+"202","<"
+"202_01","( 촀\0¿Me estás invitando a la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0(촀\0 ¡Qué detallazo! 
+\0Habrá que ir, ¿no?"
+"202_02","( 촀\0¿Que quieres que me dé una vuelta
+a la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0
+¡Esto sí que no me lo esperaba!
+(촀\0Pues bueno, tendré que ir
+preparando la maleta."
+"202_03","( 촀\0¿Que si me quiero ir a acampar
+a tu isla?
+\0(촀\0 ¡Pues claro que sí, tú!\0\0(5촀\0¡Dentro de nada nos vemos por allá!"
+"202_04","( 촀\0¿Esto es una invitación oficial a
+la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0
+¡Qué chévere!
+(촀\0Ahí nos vemos dentro de
+poquitísimo, n\0."
+"301","<"
+"301_01","¡Aquí n
+\0!
+\0(촀\0 Ah, hola, n\0. 
+\0¿Para qué me necesitas?"
+"301_02","¡Aquí n
+\0!
+\0( 촀\0 ¡Oy oy, n\0! ¡Qué sorpresón! 
+\0¿Querías algo?"
+"301_03","¡Aquí n
+\0!
+\0(&촀\0 Uy, n\0, 
+\0¿qué hay de nuevo?"
+"301_04","¡Aquí n
+\0!
+\0(3촀\0 ¡Ah, hola, n\0!
+\0 ¿Me extrañaste o quieres algo?"
+"302","<"
+"302_01","¡Aaah, ya veo! 
+\0(
+촀\0Conque quieres
+invitarme a la \02\0Ȃ촄zona de campamento\0￿
+de n	\0, ¿eh?
+Se te agradece la invitación,(촀\0 pero
+prefiero dejar el espacio libre para
+los que nos visitan de otros lados.
+(5촀\0Al fin y al cabo, yo ya tengo aquí
+mi propia madriguera, n\0."
+"302_02","(촀\0¿Que si me quiero ir a acampar?
+\0
+Deja lo pienson\0\0
+\0(촀\0 ¡pues claro que sí!\0\0¿Y adónde quieres que vayamos,
+o qué?
+\0 (촀\0¿2\0n	\0?\0\0(촀\0¡Pero ya vivo aquí!
+\0 Yo pensé que
+era en plan de salir a la aventura
+y conocer un lugar nuevo."
+"302_03","Peron\0\0
+\0(촀\0 ¿por qué querría quedarme
+en la \02\0Ȃ촄zona de campamento \0￿de
+nuestra isla, n\0?
+(촀\0¿Y si luego tenemos visita de otras
+islas y no tienen dónde quedarse?\0\0(촀\0¡Hay que pensar en los compis!"
+"302_04","(&촀\0¿Que si quiero acampar en la isla?
+\0
+Puesn\0\0
+\0('촀\0 la verdad es que no.\0\0Para quedarme en el mismo lugar,
+(5촀\0prefiero la comodidad de mi propia
+madriguera, la verdad.
+Oye,(촀\0 ¿por qué no invitas mejor
+a compis de otras islas? 
+\0¡Seguro que
+lo disfrutan más, n\0!"
+"401","<"
+"401_01","(촀\0¡Habla n
+\0!
+\0 ¿Qué pasó?"
+"401_02","(5촀\0¡Habla n
+\0!
+\0 ¿Qué querías?"
+"401_03","(촀\0¡Aquí n
+\0!
+\0 ¿Qué hay?"
+"401_04","(촀\0Que sí, mamá, que dije que siempre
+como mi ración de verdurasn\0\0
+\0
+(촀\0¡Uy!
+\0
+¡Tú no eres mi mamá!
+\0
+(7촀\0Pues empecemos otra vezn\0\0
+\0 ¡Aquí
+n
+\0! 
+\0¿Qué pasó?"

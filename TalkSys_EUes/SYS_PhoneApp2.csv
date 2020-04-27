@@ -1,0 +1,278 @@
+﻿"label","text"
+"001","dummy"
+"010","　　　　
+\0d\0d\0¡Hasta luego!dd
+"
+"011","
+\0　　　　　　　d\0\0¡Hola!\0d
+\0\0\0Gracias por llamar
+al \0servicio de rescate\0￿.d"
+"011_01","d\0Deja que compruebe quién eresn\0\0d
+"
+"011_02","d\0Y ahora estás enn\0\0d
+"
+"012","d\0Pero ¿quén\0\0?
+\0 La señal está dando
+vueltas en círculos, como loca.
+\0
+Me recuerda a cierto familiar míon\0\0d"
+"012_01","d\0Una pregunta:
+\0
+\0 ¿ha venido alguien
+de otra isla a visitarte, figura?\0\0Porque el sistema no funciona
+cuando hay varias señales juntas,
+¿sabes?
+Es como a Rese T., no le viene
+bien el estrésn\0\0\0\0Mira, si de verdad tienes una
+emergencia,
+\0 abre el menú con \0\0￿
+y elige \0Finalizar la sesión\0￿, ¿vale?d"
+"012_02","d\0Me parece que ya sé cuál es
+el probleman\0\0
+\0 ¿A que estás
+de visita en otra isla, figura?
+Porque este trasto y yo ya tenemos
+una edad y nos cuesta atinar cuando
+hay más de una señal.
+Si de verdad tienes una emergencia,
+\0
+abre el menú con \0 \0￿y elige
+\0Volver a mi isla\0￿, ¿vale?d"
+"013","d\0Un momento.
+\0 Por lo que veo
+estás dentro de un edificio.\0\0Pues siento comunicarte que este
+servicio solo funciona al aire libre.\0\0No puedo recogerte si hay vigas
+y cables de por medio.
+\0 Sería
+peligroso.
+Si quieres usar el servicio de rescate,
+\0
+haz el favor de salir al exterior.
+\0
+Qué te cuestan\0\0d"
+"021_01","d\0¡Ahí estás!
+\0 Eres n\0 de n\0, ¿no?d"
+"021_02","d\0A vern\0\0
+\0 Eres n\0 de n\0, ¿no?
+\0 Gracias por usar nuestro servicio.d"
+"021_03","d\0Peron\0\0
+\0 ¿Eres n\0 otra vez?
+\0 ¿Vuelves a estar en apuros?(%촁\0d"
+"022",""
+"023_01","d\0Un rescate te costará \0100 \0￿millas.
+\0
+¿Te parece bien?d"
+"023_01_a","(%촁\0¡Sí, ayúdame!"
+"023_01_b","('촁\0No, gracias"
+"023_02","d\0Serán \0100 \0￿millas por el rescate.
+¿Te parece bien?d"
+"023_02_a","(%촁\0¡Sí, ayúdame!"
+"023_02_b","('촁\0No, gracias"
+"023_03","d\0Por cierto, la última vez que usaste
+este servicio no tenías millas
+suficientes, ¿recuerdas?
+Pero seguro que esta vez ya
+lo habrás tenido en cuenta.\0\0Serán \0100 \0￿millas por el rescate.
+\0
+¿Te parece bien?d"
+"023_03_a","(%촁\0¡Sí, ayúdame!"
+"023_03_b","('촁\0No, gracias"
+"031_01","d\0¿Estás segur2oa?d"
+"031_02","d\0¿Cómo?
+\0 Oye, a nadie le importa que
+no pudieras pagar la última vez,
+\0 así
+que no te preocupes.d"
+"032_01","d\0¡Si tienes problemas, dilo y
+acudiremos de inmediato!d"
+"032_02","d\0Si el problema es que ahora
+tampoco tienes,
+\0 no te preocupes.
+\0
+Ya pensaremos en algo, ¿vale?
+\0
+Si estás en apuros, dilo y
+acudiremos de inmediato.d"
+"041_01","d\0¡Enseguida!
+\0 Primero voy a cobrar
+las \0100 \0￿millasn\0\0d"
+"041_02","d\0De acuerdo.
+\0 Parece que esta vez sí
+tienes millas suficientes,
+\0 así que voy
+a cobrar las \0100 \0￿millas ahoran\0\0d"
+"042_01","d\0¡Entendido!
+\0 Primero voy a cobrar
+las \0100 \0￿millas y luegon\0\0d
+K"
+"042_02","
+
+\0
+\0　　(촁\0d\0\0¡UN SEGUNDO!\0d
+\0
+	\0\0\0Te faltan millas, amig2oa. No estarás
+intentando usar el servicio de gratis,
+¿verdad?
+En ese caso tendré que dejarte
+ahí tirad2oan\0\0
+\0 ¡Es broma,
+\0 yo jamás
+haría eso!
+Aunque tienes suerte que no te
+haya respondido mi hermanon\0\0\0\0A este rescate invita la casa.d"
+"042_03","
+
+\0
+\0　　(촁\0d\0\0¡EEEEEEH!\0d
+\0
+	\0\0\0No puede sern\0\0
+\0 ¿Vas cort2oa de millas
+otra vez?
+\0 ¿En qué te las gastas
+todas, chic2oa?
+Es igual,
+\0 no puedo dejarte ahí,
+así que voy a rescatarte sin cobrarn\0\0
+¡otra vez!d"
+"042_04","d\0Y, ya que lo hago como favor,
+te llevaré al sitio que yo elija.
+\0
+¡Faltaría más!d"
+"043","d\0Por cierto, como no viajas sol2oa,
+tendré que dejaros en la \0plaza\0￿.d"
+"044_01","d\0Listo.
+\0 ¿Dónde quieres que te lleve?d"
+"044_01_a","A casa"
+"044_01_b","A la plaza"
+"044_01_c","Al aeródromo"
+"044_01_d","He cambiado de idea"
+"044_02","d\0Listo.
+\0 ¿Dónde quieres que te lleve?d"
+"044_02_a","A mi tienda"
+"044_02_b","A la plaza"
+"044_02_c","Al aeródromo"
+"044_02_d","He cambiado de idea"
+"044_03","d\0Listo.
+\0 ¿Dónde quieres que te lleve?d"
+"044_03_a","A casa"
+"044_03_b","A la plaza"
+"044_03_c","A la tienda"
+"044_03_d","Al aeródromo"
+"044_03_e","He cambiado de idea"
+"045","d\0Muy bien, atiende:
+\0 parece que aún
+no tienes un lugar donde vivir,
+¿no es así?
+Entonces tendrás que decirme dónde
+quieres que te lleve exactamente,
+\0
+porque no soy adivinon\0\0d"
+"045_a","A la plaza"
+"045_b","Al aeródromo"
+"045_c","He cambiado de idea"
+"046","d\0Veamos, figura:
+\0 por lo que parece,
+aún no tienes un lugar donde vivir.\0\0Tendrás que decirme dónde quieres
+que te lleven\0\0d"
+"046_a","A la plaza"
+"046_b","A la tienda"
+"046_c","Al aeródromo"
+"046_d","He cambiado de idea"
+"047","d\0Listo. ¿Dónde quieres que te lleve?d"
+"047_a","A mi tienda"
+"047_b","A la plaza"
+"047_c","A la tienda"
+"047_d","Al aeródromo"
+"047_e","He cambiado de idea"
+"048","d\0Vaya, qué lejos estásn\0\0
+\0
+¿Has ido a hacer turismo?
+\0
+Pues me alegro por ti.
+Lo malo es que no tengo datos
+cartográficos de esta islan\0\0\0\0Voy a tener que dejarte \0donde
+aterrizan los aviones\0￿.
+\0 ¿De acuerdo?d"
+"048_a","¡Me vale!"
+"048_b","He cambiado de idea"
+"050_01","d\0¿A tu tienda de campaña?
+\0
+¡Dicho y hecho!d"
+"050_02","d\0¿A tu casa?
+\0 ¡Dalo por hecho!d"
+"050_03","d\0¿A la plaza?
+\0 ¡Perfecto!d"
+"050_04","d\0¿A la tienda de la isla?
+\0 ¡De acuerdo!d"
+"050_05",""
+"050_06","d\0¡Muy bien!
+\0 ¡En marcha!d"
+"050_07","d\0¡Al aeródromo entonces!d"
+"051","<"
+"051_01","d\0A ver si no la líon\0\0
+\0K¿Qué botón era?n\0\0\0dd"
+"051_02","d\0Vamos, Forma T., tú puedesn\0\0
+\0KLe daré a este botón y a ver qué pasa.\0dd"
+"051_03","d\0¿No tenía que pulsar aquí?
+\0KJuraría que era este botónn\0\0\0dd"
+"052","d\0Vale, creo que ya lo tengo.
+\0
+Ahora sabremos si he acertado.d"
+"053","
+\0          d\0d\0\0¡VAMOS ALLÁ!\0ddd
+"
+"061","d\0¡Ya has llegado!
+\0 Abre los ojos.d"
+"062","d\0Ah, sí,
+\0 una última cosan\0\0d"
+"063","<"
+"063_01","d\0No sé si sabes que soy un gran
+admirador del lenguaje.\0\0Hasta he escrito relatos sobre
+el alfabeto.
+\0 La letra «F» está
+inspirada en un topo muy apuesto.d"
+"063_02","d\0Nunca he entendido la expresión
+«pelillos a la mar».\0\0¿Acaso arrancarte pelillos y
+lanzarlos al mar te ayuda a
+olvidar lo malo del pasado?
+Porque a mí no me ha funcionadon\0\0d"
+"063_03","d\0Tengo un primo que siempre usa
+la expresión «tener dos pelos de
+frente».
+Le he intentado explicar que se dice
+«dos dedos» y no «dos pelos», pero
+no me cree.
+Y no le culpo;
+\0 tiene más lógica
+tener pelos en la frente y no
+dedosn\0\0d"
+"064","<"
+"064_01","d\0No sé si sabes que soy un gran
+admirador del lenguaje.\0\0Hasta he escrito relatos sobre
+el alfabeto.
+\0 La letra «F» está
+inspirada en un topo muy apuesto.d"
+"064_02","d\0Nunca he entendido la expresión
+«pelillos a la mar».\0\0¿Acaso arrancarte pelillos y
+lanzarlos al mar te ayuda a
+olvidar lo malo del pasado?
+Porque a mí no me ha funcionadon\0\0d"
+"064_03","d\0¿Usas la \0terminal Nook\0￿ todos
+los días?
+\0 Es la forma más fácil
+de ganar millas.d"
+"2001","d\0¿Qué?
+\0 ¿Dices que hoy parezco
+distinto?
+\0 Me alegra que lo hayas
+notado, figura.
+Hoy \0Rese\0￿n\0\0
+\0 digo,
+\0 el operador
+habitual
+\0 se ha tomado el día libre.\0\0Así que le sustituyo yo.
+\0 Más o menos
+sé cómo funciona esto, pero puede
+que vaya un poco más lento.
+En fin, basta de cháchara
+y a la faenan\0\0d"

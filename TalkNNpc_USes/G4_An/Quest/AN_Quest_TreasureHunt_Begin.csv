@@ -1,0 +1,234 @@
+﻿"label","text"
+"001","Si estás aburrid2oa, podríamos hacer
+algo bien chévere.
+\0 (4촀\0Tres palabras:
+\0
+Búsqueda
+\0 del
+\0 tesoro."
+"001_a","¡Sí!"
+"001_b","Mejor otro día..."
+"002","(4촀\0¿No te llama la atención algo así
+comon\0\0 búsqueda del tesoro?
+\0
+Di que sí, anda."
+"002_a","¡Sí!"
+"002_b","Mejor paso"
+"003","(
+촀\0Si no sabes cómo quemar el tiempon\0\0
+\0
+(촀\0¿se te antoja una búsqueda del
+tesoro así muy locochona?"
+"003_a","¡Pues claro!"
+"003_b","Mejor luego..."
+"004","((촀\0¡No esperaba menos de ti!
+\0
+(5촀\0Iré a enterrar el tesoro entonces."
+"005","(4촀\0Conque te gustan los retos, ¿no?
+\0 ¡Eres casi tan rud2oa como yo!
+\0(촀\0 Pues
+voy a enterrar ese tesoro."
+"006","(촀\0No eres de l2oas que se acobardan,
+¿eh?
+\0(5촀\0 Pues ya mismo voy a enterrar
+el tesoro."
+"007","(7촀\0Uy, ¡pero ya se hizo de noche!
+\0
+(촀\0No voy a ver nada de nada para
+enterrar el coso ese.
+(2촀\0Lo dejamos para otro día, ¿sí?"
+"008","(촀\0Ni hablarn\0\0 no pasa nada.
+\0
+Lo dejamos para después, ¿eh?"
+"009","($촀\0¿De plano vas a pasar?
+\0 Pues se
+respetan\0\0 ¡Lo dejamos para después!"
+"010","(4촀\0¡Ajá!
+\0 Conque te intimida lo buena
+que soy en esto, ¿eh?
+\0 (%촀\0Te entiendo.
+\0
+Lo dejamos para después."
+"011","(%촀\0Te cuento de qué se trata:
+\0
+Enterré un tesoro en un lugar.
+\0
+Hasta aquí todo fácil, ¿no?
+ð\0
+(
+촀\0Si lo encuentras antes de que
+se acabe el tiempo, 
+\0te lo puedes
+quedar. 
+\0(;촀\0¡Para siempre!
+ð\0
+Por cierto, (3촀\0cuando digo ""enterrado""
+lo digo literalmente. 
+\0(5촀\0¡Está bajo tierra,
+y al aire libre!
+ð\0
+(촀\0¿Estás list2oa?
+x"
+"011_01","(%촀\0A ver te cuento de qué se trata:
+\0
+()촀\0Enterré un tesoro por ahí.
+\0
+Hasta aquí todo fácil, ¿verdad?
+ð\0
+(
+촀\0Si logras encontrarlo antes de que
+se acabe el tiempo, 
+\0(!촀\0te lo puedes
+quedar.
+ð\0
+(3촀\0Y cuando digo ""enterrado"" ¡me refiero a que está bajo tierra y
+al aire libre!
+ð\0\0\0Una última cosa:
+\0 (%촀\0este juego es entre
+tú y yo, ¿eh?
+\0 (\0촀\0Nadie puede ayudarte
+a desenterrar el tesoro.
+ð\0
+(&촀\0Bueno, 
+\0(촀\0¿estás list2oa o qué?
+x"
+"012","(%촀\0Enterré un coso por ahí.
+\0 Al aire libre, obvio.
+\0 Tampoco iba a ponerme a
+romper el pison\0\0
+ð\0
+(
+촀\0La cosa funciona así:
+\0 Tienes que
+encontrarlo antes de que se acabe el
+tiempo,
+\0 si lo encuentras, ¡es tuyo!
+ð\0
+(3촀\0Para hacerlo todo más emocionante,
+esta vez tendrás menos tiempo para
+buscarlo.
+ð\0
+(!촀\0¡Tú puedes!
+x"
+"012_01","(%촀\0Enterré algo por ahí.
+\0 (촀\0Al aire libre,
+claro.
+\0 Nadie me dio permiso de ir
+a hacer hoyos en su casan\0\0
+ð\0
+(
+촀\0La cosa funciona así: si lo encuentras
+antes de que se acabe el tiempo,
+\0 (촀\0¡todo para ti! 
+\0Así de fácil.
+ð\0
+(3촀\0Para hacerlo todo más emocionante,
+esta vez tendrás menos tiempo.
+ð\0\0\0Una última cosa:
+\0 (%촀\0este juego es entre
+tú y yo, ¿eh?
+\0 (\0촀\0Nadie puede ayudarte
+a desenterrar el tesoro.
+ð\0
+(!촀\0¡Andando!
+x"
+"013","(
+촀\0A ver, ¿es tu primera búsqueda
+del tesoro?
+\0 (&촀\0¿Necesitas que te cuente
+cómo funciona esto?"
+"013_a","(%촀\0Sí, explícame"
+"013_b","('촀\0Sé cómo es"
+"014","(촀\0¡Bien! 
+\0¡Manos a la obra entonces!
+Z"
+"014_01","¡Bien!
+\0 (6촀\0Y que no me entere yo de
+que alguien te ayuda a desenterrarlo,
+¿eh?
+\0 Tienes que hacerlo tú sol2oa.
+ð\0
+(촀\0¡Andando!
+Z"
+"015","(촀\0¡Bien!
+\0 Recuerda que no vas a tener
+mucho tiempo,
+\0 ¿eh?
+ð"
+"015_01","(촀\0Oye, (%촀\0recuerda que nadie puede
+ayudarte a desenterrarlo,
+\0 tienes
+que hacerlo tú sol2oa.
+ð\0
+Además, no vas a tener mucho
+tiempo, 
+\0(촀\0¡así que nada de distracciones!
+\0 (%촀\0¡Empecemos!
+ð"
+"101","(4촀\0A mí no me engañasn\0\0
+\0 ¡Tú andas
+aburrid2oa!
+\0 ¿Se te antoja una
+búsqueda del tesoro?"
+"101_a","¡Claro que sí!"
+"101_b","Ahora no, gracias..."
+"102","
+\0(	촀\0\0¡Estoy aburrida!\0d
+\0\0\0(촀\0¡Uy!
+\0(7촀\0 De haber sabido que estabas
+ahí, no me pongo a dar berridos
+así de la nada.
+(촀\0¡Es que estoy más aburrida que
+una ostra, tú!
+\0(촀\0 Ojalá hubiera una
+pista de carreras en la isla, o algo.
+(
+촀\0Peron\0\0
+\0 se me ocurre algo para pasar
+el rato.
+(촀\0¿Qué te parece una búsqueda del
+tesoro?
+\0 ¿Te apuntas, o qué,
+n\0?"
+"102_a","¡Claro que me apunto!"
+"102_b","Mejor no..."
+"103","(
+촀\0Uy, ya es tardísimon\0\0
+\0 ¡Y yo tengo
+una fiestuqui!
+\0 (7촀\0Tendremos que dejarlo
+para otro día, ¿sí?"
+"104","(!촀\0Así me gusta, ¡con actitud!\0\0(%촀\0Espera aquí mientras entierro el
+dichoso tesoro.
+\0 Y nada de ver, ¿eh?"
+"105","(촀\0¿No quieres?
+\0(\0촀\0 Buenon\0\0
+\0(촀\0 ¡A ver con qué
+me entretengo ahora!
+\0 (!촀\0En fin, otra vez
+será, n\0."
+"106","(촀\0¡Mira qué hora es!
+\0
+(촀\0¡Y yo aquí con toda la calma!\0\0(촀\0Había quedado para irme de jolgorio,
+así que vamos a tener que dejarlo
+para otro día."
+"107","(촀\0¡Es2ea es mi n\0!
+\0
+Al fin encuentro a alguien
+igual de aburrid2oa que yo.
+(%촀\0Tú espérame aquí mientras entierro
+el asunto, ¿sí?
+\0(5촀\0 ¡No me tardo!"
+"108","(촀\0¡¿Qué?! 
+\0¿En serio?
+\0
+(촀\0Buenon\0\0
+\0 ¡Tú te lo pierdes!
+\0
+(%촀\0Otra vez será, supongo."
+"200","(
+촀\0A ver, cómo te lo digo sin que
+te me enojesn\0\0\0\0Verás, (7촀\0resulta que no hay ni un solo
+espacio en la isla para enterrar
+cosas,
+\0 (촀\0¡así que no pude hacerlo!"

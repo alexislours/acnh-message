@@ -1,0 +1,49 @@
+﻿"label","text"
+"001","Should I craft something?"
+"001_01","Should I craft something?"
+"001_01_a","Let's craft!"
+"001_01_b","Not right now."
+"001_a","Let's craft!"
+"001_b","Customize something."
+"001_c","Not right now."
+"002","This workbench is for DIY projects."
+"011","Should I craft something using
+\0Tom Nook\0￿'s workbench?"
+"011_01","Should I craft something using
+\0Tom Nook\0￿'s workbench?"
+"011_01_a","(\0촁\0Let's craft!"
+"011_01_b","Customize something."
+"011_01_c","(\0촁\0Maybe later."
+"011_02","Should I craft something using
+\0Tom Nook\0￿'s workbench?"
+"011_02_a","(\0촁\0Let's craft!"
+"011_02_b","Take workshop."
+"011_02_c","(\0촁\0Maybe later."
+"011_a","(\0촁\0Let's craft!"
+"011_b","(\0촁\0Maybe later."
+"021","Should I craft something using
+this workbench?"
+"021_01","Should I craft something using
+this workbench?"
+"021_01_a","Let's craft!"
+"021_01_b","Not right now."
+"021_a","Let's craft!"
+"021_b","Customize something."
+"021_c","Not right now."
+"022","\0\0You cannot customize with custom
+designs while on someone else's
+island.\0￿"
+"031","I made 2\0
+}\0\0!"
+"031_01","I made 2\0
+}\0\0!"
+"031_a","(\0촀\0Keep crafting!"
+"031_b","(\0촀\0All done for now."
+"032","I customized 2\0
+}\0\0!"
+"032_01","I customized 2\0
+}\0\0!"
+"032_a","(\0촀\0Continue customizing."
+"032_b","(\0촀\0I'm done for now."
+"051","I've got company at the moment,
+so I'll do the workshop later."

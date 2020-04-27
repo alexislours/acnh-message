@@ -1,0 +1,264 @@
+﻿"label","text"
+"001","(촀\0Hey, ich hab grad Zeit und einen
+Schatz, alson\0\0 machen wir doch
+eine Schatzsuche! 
+\0(&촀\0Hast du Lust?"
+"001_a","Yeah!
+Schatzsuche ist toll!"
+"001_b","Bin grad beschäftigt.
+Vielleicht später mal."
+"002","(
+촀\0In meinem Terminkalender ist grade
+etwas Luft... 
+\0(촀\0Wollen wir was machen?
+(&촀\0Wie wär's... 
+\0mit einer Schatzsuche?"
+"002_a","Klingt super!
+Oh! Ja!"
+"002_b","Bin grad beschäftigt.
+Vielleicht später mal."
+"003","(촀\0Hättest du Lust auf was Cooles und
+Spannendes? 
+\0((3촀\0Dann hätte ich da eine
+Schatzsuche im Angebot!"
+"003_a","Yippie!
+Das machen wir!"
+"003_b","Kein Interesse.
+Ist grad schlecht."
+"004","(촀\0Sehr gut! 
+\0Ich wusste, du könntest
+nicht widerstehen, (6촀\0
+\0n\0.\0\0(3촀\0Okay, 
+\0du müsstest hier nur kurz
+warten, 
+\0während ich ein paar
+Vorbereitungen treffen"
+"005","(촀\0Super, n\0! 
+\0Hab mir gleich
+gedacht, dass das genau das richtige
+Event für dich ist.
+(6촀\0Okay... 
+\0ruh dich noch ein bisschen
+aus, bis ich dieses Ding hier
+„losgeworden“ bin, 
+\0n\0."
+"006","(촀\0Genial! 
+\0Dann los!\0\0(촀\0Ich such mal ein gutes Versteck
+für dieses geheime Geschenk.\0\0(
+촀\0Hm. 
+\0Das mit dem Geschenk hätte
+ich vielleicht nicht verraten sollen...
+
+\0(촀\0Ach, jetzt ist es raus. 
+\0Was soll's!"
+"007","(촀\0Oh, warten\0\0 Es ist nach Mitternacht!
+\0
+('촀\0Bei der Dunkelheit findet man nie
+was. 
+\0Vielleicht ein andermal?"
+"008","(촀\0Ach, macht nichts.
+\0
+Dann vielleicht ein anderes Mal."
+"009","(촀\0Hey, es würde sich lohnen.
+\0
+(촀\0Ich würde auf jeden Fall was ganz
+Tolles vergraben."
+"010","(촀\0Hey, war nur ein Vorschlag.
+\0
+Kein Stress! 
+\0Das schadet dem Teint..."
+"011","(%촀\0Gut. 
+\0Ich erklär dir, 
+\0wie's funktioniert.
+\0
+Ich hab hier auf n\0
+einen Schatz vergraben.
+´\0\0\0()촀\0Wenn du ihn findest, 
+\0bevor die Zeit
+um ist,
+\0 gewinnst du. 
+\0Ist eigentlich
+recht simpel, 
+\0nicht?
+´\0
+(촀\0Oh! 
+\0Und dein Gewinn ist praktisch
+das, 
+\0was du ausgräbst. 
+\0((촀\0Wie schon
+gesagt – 
+\0simpelstens!
+´"
+"011_01","(%촀\0Gut. 
+\0Ich erklär dir, 
+\0wie's funktioniert.
+\0
+Ich hab hier auf n\0 einen Schatz vergraben.
+´\0\0\0()촀\0Wenn du ihn findest, 
+\0bevor die Zeit
+um ist,
+\0 gewinnst du. 
+\0Ist eigentlich
+recht simpel, 
+\0nicht?
+´\0
+(촀\0Oh! 
+\0Und dein Gewinn ist praktisch
+das, 
+\0was du ausgräbst. 
+\0((촀\0Wie schon
+gesagt – 
+\0simplicissimo!
+´\0\0\0( 촀\0Eine letzte Sachen\0\0
+\0 (:촀\0An diesem Spiel
+nehmen nur wir beide teil! 
+\0('촀\0Hilfe von
+außen ist ein absolutes Tabu!
+´\0\0\0(9촀\0Also, 
+\0bist du bereit?
+´"
+"012","(%촀\0Gut. 
+\0Ich erklär dir,
+\0 wie's funktioniert.
+\0
+Ich hab hier auf n\0
+einen Schatz vergraben.
+´\0\0\0()촀\0Wenn du ihn findest, 
+\0bevor die Zeit
+um ist, 
+\0gewinnst du. 
+\0Ist eigentlich
+recht simpel, 
+\0nicht?
+´\0
+()촀\0Diesmal gebe ich dir aber etwas weniger Zeit.
+\0 Also leg dich ins Zeug!
+\0(
+(9촀\0Son\0\0
+\0 Können wir loslegen?
+´"
+"012_01","(%촀\0Gut. 
+\0Ich erklär dir,
+\0 wie's funktioniert.
+\0
+Ich hab hier auf n\0
+einen Schatz vergraben.
+´\0\0\0()촀\0Wenn du ihn findest, 
+\0bevor die Zeit
+um ist, 
+\0gewinnst du. 
+\0Ist eigentlich
+recht simpel, 
+\0nicht?
+´\0
+(3촀\0Diesmal gebe ich dir aber etwas
+weniger Zeit.
+\0 Also leg dich ins Zeug!
+´\0\0\0(:촀\0Dass wir die einzigen Teilnehmer an
+diesem Spielchen sind, 
+\0ist wohl eh
+klar, 
+\0oder? 
+\0(('촀\0Keine Hilfe von außen!
+´\0\0\0(9촀\0Son\0\0
+\0 Können wir loslegen?
+´"
+"013","(&촀\0Du weißt Bescheid, nicht? 
+\0Soll ich's
+dir trotzdem noch mal kurz erklären?"
+"013_a","Ja, zur Sicherheit."
+"013_b","Nö. Nicht nötig."
+"014","(촀\0Cool! 
+\0Wir haben hier ganz klar
+2
+eineneine 2L""Profi-Schatzjäger&Profi-Schatzjägerin!
+
+\0Viel Glück, 
+\0n\0!
+´"
+"014_01","(촀\0Als Schatzjagdprofi wirst du ja nicht
+in Versuchung geraten, 
+\0andere
+um Hilfe zu bitten, 
+\0richtig?
+´\0\0\0(촀\0Dann ist ja gut. 
+\0Viel Glück also!
+´"
+"015","(촀\0Du weißt schon, 
+\0dass das etwas
+schwerer wird als sonst?
+\0
+(촀\0Na, dann! 
+\0Weidmannsheil!
+´"
+"015_01","(촀\0Da du weniger Zeit zur Verfügung
+hast als zuletzt, 
+\0wird es diesmal
+etwas schwieriger...
+´\0\0\0(:촀\0Hilfe von anderen ist trotzdem nach
+wie vor ein absolutes No-Go! 
+\0(6촀\0Hier
+geht's nur um dich und mich!
+´\0\0\0(촀\0Viel Glück, 
+\0n\0!
+´"
+"101","(9촀\0Schatzsuche. 
+\0Hier und jetzt.
+\0
+Du und ich. 
+\0Was sagst du?
+\0
+(촀\0WAS 
+\0SAGST 
+\0DU 
+\0(촀\0DAZU?!"
+"101_a","ICH SAG „JA“!"
+"101_b","(\0촀\0Äh... Ich sag „Nein“."
+"102","(촀\0Ojen\0\0 Irgendwie schlägt mir
+dieser Inselalltag aufs Gemüt,
+n\0!\0\0(1촀\0Ist das hier auf n\0
+noch süßer Müßiggang?
+\0
+(촀\0Oder ödes Einerlei?\0\0(
+촀\0Ich brauche Abwechslung.
+\0(
+(촀\0Ein Abenteuer! 
+\0Wie wär's denn mit
+einer Schatzsuche? 
+\0Bist du dabei?"
+"102_a","Auf jeden Fall!"
+"102_b","Nee, lieber nicht."
+"103","(촀\0Nanu!? Der Tag ist um!
+
+\0Wie ist das denn passiert?\0\0('촀\0Jetzt ist es leider zu spät für eine
+Schatzsuche. 
+\0Ein andermal, ja?"
+"104","(촀\0Also, los! 
+\0Ich vergrabe den Schatz!"
+"105","(촀\0Oje, 
+\0und was nun? 
+\0Na ja,
+\0 ich werde
+mich den Rest des Tages schon
+irgendwie beschäftigen können..."
+"106","(촀\0Warte mal! Das geht ja gar nicht!
+\0
+Es ist ja viel zu spät für so was.\0\0(7촀\0Tja, ich fürchte, 
+\0ich muss dir einen
+Korb geben, n\0."
+"107","(촀\0Wusst ich's doch!
+\0
+Du, n\0, bist eben
+genauso abenteuerlustig wie ich.\0\0(촀\0Alles klar. 
+\0Du wartest hier, während
+ich das perfekte Versteck für diesen
+tollen Schatz suche, 
+\0ja?"
+"108","(촀\0Ach, schon gut. 
+\0Der wahre Schatz
+ist sowieso unsere Freundschaft!"
+"200","(촀\0Mit dieser Insel stimmt was nicht,
+n\0!\0\0(촀\0Hier ist nirgends Platz, um was
+zu vergraben! 
+\0('촀\0Ich fürchte, wir
+müssen uns was anderes ausdenken."

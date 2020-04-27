@@ -1,0 +1,411 @@
+﻿"label","text"
+"001","Dimmi, n\0n\0\0(&촂\0
+\0
+Tu dove vivi?(&촃\0d\0
+\0\0K Dove vivi adesso?\0dd"
+"001_a","Giappone."
+"001_b","Altrove."
+"002","( 촂\0( 촃\0Oh! 
+\0Ah ah! 
+\0(촀\0A quanto pare ci sono
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
+촂\0Proviamo a restringere il campo.
+(
+촃"
+"002_a","Asia."
+"002_b","America del Nord."
+"002_c","Europa."
+"002_d","Altrove."
+"003","(촂\0(촃\0Ah! 
+\0Di nuovo ""altrove""!
+\0( (%촂\0Bene, bene.
+\0
+Continuiamo a cercare(%촃\0n"
+"003_a","America del Sud."
+"003_b","Oceania."
+"003_c","Africa."
+"003_d","No, non ci siamo."
+"004","( 촂\0( 촃\0Oh! 
+\0(&촂\0(&촃\0Quindi vivi in una di queste
+aree, dico bene?"
+"004_a","Giappone/Asia."
+"004_b","America del Nord."
+"004_c","Europa."
+"004_d","No, non ci siamo."
+"011","Dimmi, n\0n\0\0(&촂\0
+\0
+Tu dove vivi?(&촃\0d\0
+\0\0K Dove vivi adesso?\0dd"
+"011_a","America del Nord."
+"011_b","Altrove."
+"012","( 촂\0( 촃\0Oh! 
+\0Ah ah! 
+\0(촀\0A quanto pare ci sono
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
+촂\0Proviamo a restringere il campo.
+(
+촃"
+"012_a","Asia."
+"012_b","Europa."
+"012_c","Altrove."
+"013","(촂\0(촃\0Ah! 
+\0Di nuovo ""altrove""!
+\0( (%촂\0Bene, bene.
+\0
+Continuiamo a cercare(%촃\0n"
+"013_a","America del Sud."
+"013_b","Oceania."
+"013_c","Africa."
+"013_d","No, non ci siamo."
+"014","( 촂\0( 촃\0Oh! 
+\0(&촂\0(&촃\0Quindi vivi in una di queste
+aree, dico bene?"
+"014_a","America del Nord."
+"014_b","Giappone/Asia."
+"014_c","Europa."
+"014_d","No, non ci siamo."
+"021","Dimmi, n\0n\0\0(&촂\0
+\0
+Tu dove vivi?(&촃\0d\0
+\0\0K Dove vivi adesso?\0dd"
+"021_a","Europa."
+"021_b","Altrove."
+"022","( 촂\0( 촃\0Oh! 
+\0Ah ah! 
+\0(촀\0A quanto pare ci sono
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
+촂\0Proviamo a restringere il campo.
+(
+촃"
+"022_a","Asia."
+"022_b","America del Nord."
+"022_c","Altrove."
+"023","(촂\0(촃\0Ah! 
+\0Di nuovo ""altrove""!
+\0( (%촂\0Bene, bene.
+\0
+Continuiamo a cercare(%촃\0n"
+"023_a","America del Sud."
+"023_b","Oceania."
+"023_c","Africa."
+"023_d","No, non ci siamo."
+"024","( 촂\0( 촃\0Oh! 
+\0(&촂\0(&촃\0Quindi vivi in una di queste
+aree, dico bene?"
+"024_a","Europa."
+"024_b","Giappone/Asia."
+"024_c","America del Nord."
+"024_d","No, non ci siamo."
+"031","Dimmi, n\0n\0\0(&촂\0
+\0
+Tu dove vivi?(&촃\0d\0
+\0\0K Dove vivi adesso?\0dd"
+"031_a","Oceania."
+"031_b","Altrove."
+"101_01","(%촂\0Ah!(%촃\0 Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_02","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_03","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_04","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_05","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_06","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"101_07","(%촂\0Ah! (%촃\0Bene, bene! 
+\0((촂\0(촃\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"102","(%촀\0Ah! Bene, bene! 
+\0((촀\0Questa informazione
+ci aiuterà a trovare un'isola adatta!"
+"111","()촀\0In tal cason\0\0 noi suggeriremmo
+di trasferirti in un'isola
+dell'\0emisfero settentrionale\0￿.
+(
+촀\0Dovremo definire altri dettagli,
+\0
+ma intanton\0\0(&촂\0
+\0 sei d'accordo con
+la posizione suggerita?(&촃\0d\0
+\0 \0KSei d'accordo?\0dd"
+"111_a","OK!"
+"111_b","Emisfero meridionale!"
+"111_c","Non saprei..."
+"112","()촀\0In tal cason\0\0 noi suggeriremmo
+di trasferirti in un'isola
+dell'\0emisfero settentrionale\0￿.
+(
+촀\0Dovremo definire altri dettagli,
+\0
+ma intanton\0\0(&촂\0
+\0 sei d'accordo con
+la posizione suggerita?(&촃\0d\0
+\0 \0KSei d'accordo?\0dd"
+"112_a","OK!"
+"112_b","Emisfero meridionale!"
+"112_c","Non saprei..."
+"113","()촀\0In tal cason\0\0 noi suggeriremmo
+di trasferirti in un'isola
+dell'\0emisfero settentrionale\0￿.
+(
+촀\0Dovremo definire altri dettagli,
+\0
+ma intanton\0\0(&촂\0
+\0 sei d'accordo con
+la posizione suggerita?(&촃\0d\0
+\0 \0KSei d'accordo?\0dd"
+"113_a","OK!"
+"113_b","Emisfero meridionale!"
+"113_c","Non saprei..."
+"114","()촀\0In tal cason\0\0 noi suggeriremmo
+di trasferirti in un'isola
+dell'\0emisfero settentrionale\0￿.
+(
+촀\0Dovremo definire altri dettagli,
+\0
+ma intanton\0\0(&촂\0
+\0 sei d'accordo con
+la posizione suggerita?(&촃\0d\0
+\0 \0KSei d'accordo?\0dd"
+"114_a","OK!"
+"114_b","Emisfero meridionale!"
+"114_c","Non saprei..."
+"115","(
+촂\0
+\0(
+촃\0Sì, sìn\0\0 L'America del Sud è molto
+vasta: 
+\0(촀\0credo che abbia territori in
+entrambi gli emisferi!
+()촀\0Ma gran parte del continente si trova
+nell'\0emisfero meridionale\0￿, 
+\0perciò
+forse preferisci un'isola lì?
+A te la scelta, naturalmente.
+(&촂\0Quale emisfero ti interessa, quindi?
+\0
+Va bene quello meridionale?(&촃\0d\0
+\0 \0KVa bene?\0dd"
+"115_a","OK!"
+"115_b","Emisfero settentrionale!"
+"115_c","Non saprei..."
+"116","()촀\0In tal cason\0\0 noi suggeriremmo
+di trasferirti in un'isola
+dell'\0emisfero meridionale\0￿.
+(
+촀\0Dovremo definire altri dettagli,
+\0
+ma intanton\0\0(&촂\0
+\0 sei d'accordo con
+la posizione suggerita?(&촃\0d\0
+\0 \0KSei d'accordo?\0dd"
+"116_a","OK!"
+"116_b","Emisfero settentrionale!"
+"116_c","Non saprei..."
+"117","(
+촂\0(
+촃\0Sì, sìn\0\0 L'Africa è molto vasta: 
+\0(촀\0credo
+che abbia territori in entrambi
+gli emisferi.
+(%촀\0Se il tuo paese si trova nell'emisfero
+settentrionale, forse preferirai
+un'isola che gli somigli.
+()촀\0Ma se abiti nell'emisfero meridionale
+potresti desiderare un'isola con
+quelle caratteristiche.
+(&촂\0Che emisfero scegli, quindi?
+Settentrionale o meridionale?(&촃"
+"117_a","Emisfero settentrionale!"
+"117_b","Emisfero meridionale!"
+"117_c","Non saprei..."
+"201","(""촀\0Bene!
+\0 (촂\0(촃\0In tal caso,
+\0 potrai scegliere
+fra diverse adorabili isole disabitate
+\0
+dell'emisfero settentrionale."
+"202","(""촀\0Bene!
+\0 (촂\0(촃\0In tal caso,
+\0 potrai scegliere
+fra diverse adorabili isole disabitate
+\0
+dell'emisfero meridionale."
+"203","(촂\0(촃\0Oh! 
+\0Desideri provare qualcosa di
+diverso, eh? 
+\0(6촀\0Beh,
+\0 potrebbe essere
+un'esperienza interessante!
+(%촂\0Troveremo un'isola adatta
+a te (%촃\0nell'emisfero settentrionale."
+"204","(촂\0(촃\0Oh! 
+\0Desideri provare qualcosa di
+diverso, eh? 
+\0(6촀\0Beh,
+\0 potrebbe essere
+un'esperienza interessante!
+(%촂\0Troveremo un'isola adatta
+a te (%촃\0nell'emisfero settentrionale."
+"301","Suppongo che tutto questo parlare
+di ""emisferi"" richieda qualche
+spiegazione in più, dopotutton"
+"302","()촀\0Nell'emisfero settentrionale a
+gennaio è inverno, ad aprile è
+primavera, a luglio è estaten\0\0
+... e a ottobre è autunno. 
+\0(%촀\0Nelle isole
+dell'emisfero meridionale, invece, 
+\0si
+verifica la situazione opposta.
+(촀\0Perciò a gennaio sarà estate, ad
+aprile autunno,
+\0 a luglio inverno
+e a ottobre primavera."
+"303","()촀\0Nell'emisfero meridionale a gennaio
+è estate, ad aprile è autunno, 
+\0a luglio
+è inverno e a ottobre è primavera.
+(%촀\0Invece, nelle isole dell'emisfero
+settentrionale, 
+\0si verifica la
+situazione opposta.
+(촀\0Perciò a gennaio sarà inverno, ad
+aprile primavera, 
+\0a luglio estate e
+a ottobre autunno."
+"304_01","(%촀\0Siamo 2\0 Z\0: nell'emisfero
+settentrionale è primavera e in
+quello meridionale è autunno."
+"304_02","(%촀\0Ora siamo 2\0 Z\0, perciò è
+estate nell'emisfero settentrionale
+e inverno in quello meridionale."
+"304_03","(%촀\0Ora siamo 2\0 Z\0, perciò è
+autunno nell'emisfero settentrionale
+e primavera in quello meridionale."
+"304_04","(%촀\0Ora siamo 2\0 Z\0, perciò è
+inverno nell'emisfero settentrionale
+ed estate in quello meridionale."
+"304_05","(%촀\0Ora siamo 2\0 Z\0, perciò è
+primavera nell'emisfero meridionale
+e autunno in quello settentrionale."
+"304_06","(%촀\0Ora siamo 2\0 Z\0, perciò è
+estate nell'emisfero meridionale e
+inverno in quello settentrionale."
+"304_07","(%촀\0Ora siamo 2\0 Z\0, perciò è
+autunno nell'emisfero meridionale e
+primavera in quello settentrionale."
+"304_08","(%촀\0Ora siamo 2\0 Z\0, perciò è
+inverno nell'emisfero meridionale
+ed estate in quello settentrionale."
+"305","()촀\0In altre parole, il clima in un
+emisfero è all'opposto di quello
+nell'altro!
+(촀\0Ma, indipendentemente da dove vivi,
+\0
+potrai goderti tutte le stagioni con
+tutte le meraviglie che portano.(촀"
+"311","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+settentrionale\0￿, dove è primavera?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero meridionale\0￿,
+dove è autunno?d\0
+\0\0K Autunno?\0dd"
+"311_a","Emisfero settentrionale!"
+"311_b","Emisfero meridionale!"
+"311_c","Rispiegami tutto!"
+"312","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+settentrionale\0￿, dove è estate?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero meridionale\0￿,
+dove è inverno?d\0
+\0 \0KInverno?\0dd"
+"312_a","Emisfero settentrionale!"
+"312_b","Emisfero meridionale!"
+"312_c","Rispiegami tutto!"
+"313","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+settentrionale\0￿, dove è autunno?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero meridionale\0￿,
+dove è primavera?d\0
+\0 \0KPrimavera?\0dd"
+"313_a","Emisfero settentrionale!"
+"313_b","Emisfero meridionale!"
+"313_c","Rispiegami tutto!"
+"314","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+settentrionale\0￿, dove è inverno?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero meridionale\0￿,
+dove è estate?d\0
+\0 \0KEstate?\0dd"
+"314_a","Emisfero settentrionale!"
+"314_b","Emisfero meridionale!"
+"314_c","Rispiegami tutto!"
+"315","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+meridionale\0￿, dove è primavera?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero settentrionale\0￿,
+dove è autunno?d\0
+\0\0K Autunno?\0dd"
+"315_a","Emisfero meridionale!"
+"315_b","Emisfero settentrionale!"
+"315_c","Rispiegami tutto!"
+"316","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+meridionale\0￿, dove è estate?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero settentrionale\0￿,
+dove è inverno?d\0
+\0\0K Inverno?\0dd"
+"316_a","Emisfero meridionale!"
+"316_b","Emisfero settentrionale!"
+"316_c","Rispiegami tutto!"
+"317","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+meridionale\0￿, dove è autunno?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero settentrionale\0￿,
+dove è primavera?d\0
+\0\0K Primavera?\0dd"
+"317_a","Emisfero meridionale!"
+"317_b","Emisfero settentrionale!"
+"317_c","Rispiegami tutto!"
+"318","(
+촀\0Quindi lascia che te lo chieda ancora:
+\0
+($촀\0preferisci un'isola nell'\0emisfero
+meridionale\0￿, dove è inverno?
+(&촀\0O vuoi trasferirti in un'isola
+nell'\0emisfero settentrionale\0￿,
+dove è estate?d\0
+\0\0K Estate?\0dd"
+"318_a","Emisfero meridionale!"
+"318_b","Emisfero settentrionale!"
+"318_c","Rispiegami tutto!"

@@ -1,0 +1,53 @@
+﻿"label","text"
+"001","Questa è la cassetta deposito del
+negozio.
+\0 Vuoi lasciarci qualcosa
+da vendere?"
+"001_a","Sì, dai!"
+"001_b","Come funziona?"
+"001_c","Non ora."
+"002","Vuoi vendere qualcos'altro usando
+la cassetta deposito?"
+"002_a","Sì, dai!"
+"002_b","Come funziona?"
+"002_c","Non ora."
+"003","E quindin\0\0 vuoi vendere qualcosa?"
+"003_a","Sì, dai!"
+"003_b","Rivedo le istruzioni."
+"003_c","Un'altra volta."
+"004","Credo che tu possa guadagnarci
+\0Z\0\0￿.
+\0 Va bene?"
+"004_a","(\0촀\0Affare fatto!"
+"004_b","(\0촀\0Ho cambiato idea."
+"010","Sembra che si tratti di una ""cassetta
+deposito"".
+\0 Quindi potrai metterci
+qualsiasi cosa desideri vendere."
+"010_a","Vendo qualcosa."
+"010_b","Come funziona?"
+"010_c","Non ora."
+"020","(
+촀\0A quanto pare non puoi usare la
+cassetta deposito se il tuo conto
+ha raggiunto il limite massimo."
+"021","(
+촀\0Pare che in questo momento tu non
+possa vendere qualcos'altro usando
+questo metodo."
+"101","\0Come usare la cassetta deposito\0￿\0\0Infila qui tutto ciò che vuoi vendere
+in qualsiasi momento!\0\0Le stelline ottenute verranno versate
+direttamente sul tuo conto della
+Banca Nook \0il giorno successivo\0￿.\0\0\0\01. Viene applicata una commissione
+pari al 20% del valore dell'oggetto.\0\02. Gli oggetti depositati nella
+cassetta deposito non potranno
+essere restituiti.\0\03. L'acquisto di rape e degli articoli
+del giorno a prezzo pieno è possibile
+solo all'interno del negozio.\0￿"
+"901","È la cassetta deposito del negozio.
+\0
+Possono usarla solo gli abitanti di
+quest'isola."
+"902","Sembra una sorta di cassetta
+deposito. Pare che possano usarla
+solo gli abitanti di quest'isola."

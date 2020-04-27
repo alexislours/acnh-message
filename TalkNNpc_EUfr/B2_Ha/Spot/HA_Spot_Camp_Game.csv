@@ -1,0 +1,206 @@
+﻿"label","text"
+"001","(촀\0Hé !
+\0 Tu voudrais jouer à un petit jeu
+rapide avec moi ?
+\0 (6촀\0Promis,
+\0 ça fait pas
+appel aux musclesn\0\0
+\0 pour une fois.\0\0(%촀\0Si tu gagnes, je t'offre 2촀monma\0 fidèle
+}\0\0.
+\0 ($촀\0Alors,
+\0 t'es partant2\0e ?"
+"001_a","Bien sûr !"
+"001_b","Non merci."
+"002","(촀\0Ça, c'est une réponse qui me plaît !
+\0
+Bon,
+\0 tu veux entendre les règles,
+\0 ou
+partir à l'aventure les yeux fermés ?"
+"002_a","Les règles d'abord !"
+"002_b","On joue directement !"
+"003","( 촀\0Ohn\0\0
+\0 Bonn\0\0
+\0 c'est un peu une victoire
+par forfait,
+\0 je diraisn\0\0
+\0 (촀\0Une autre fois,
+\0
+peut-être ? 2\0n\0."
+"004","(%촀\0T'as pas froid aux yeux,
+\0 c'est bien !
+\0
+(<촀\0À vos marquesn\0\0
+\0 prêt2\0e ?
+\0 C'est parti !"
+"005","(9촀\0Tout va se décider maintenantn"
+"006_01","(촀\0Bravo,
+\0 bien joué !
+\0 2촀MonMa\0 fidèle }\0\0 est à toi !"
+"006_02","(%촀\0Jeu,
+\0 set
+\0 et match !
+\0 (촀\0T'es champion2\0ne,
+\0
+bravo !
+\0 Tu remportes 2*촀mon cherma chère\0
+}\0\0 !"
+"006_03","('촀\0Ah là làn\0\0
+\0 Quel revers incroyablen"
+"007_01","(%촀\0C'était un beau match.
+\0 Allez,
+\0 à la douche et au vestiaire, n\0."
+"007_03","(촀\0Tu te rattraperas au match retour.
+\0
+Allez,
+\0 à la douche et au vestiaire,
+n\0."
+"008","(촀\0Ça, c'est une réponse qui me plaît !
+\0
+Bon,
+\0 tu veux entendre les règles
+\0 oun\0\0
+\0
+( 촀\0Maisn\0\0
+\0 t'as les poches pleines,
+\0 là !\0\0(촀\0Pff,
+\0 même si tu gagnais,
+\0 t'aurais pas
+la place pour emporter 2촀monma\0 fidèle
+}\0\0.\0\0('촀\0Désolé,
+\0 mais si y a pas d'enjeu,
+\0 y a
+pas de plaisir.
+\0 (9촀\0Moi je veux du risque,
+\0
+de l'adrénaline,
+\0 le cœur qui bat !\0\0()촀\0On va remettre ce match à une autre
+fois,
+\0 reviens me voir quand t'auras
+un peu vidé tes poches !"
+"100","(""촀\0Tu veux les règles,
+\0 eh ben d'accord !
+\0
+Je vais te les expliquer !\0\0()촀\0Tu sais sûrement que,
+\0 dans un jeu de
+cartes,
+\0 y a quatre familles :
+\0 \0cœur ♥\0￿,
+\0
+\0carreau ♦\0￿,
+\0 \0pique ♠\0￿
+\0 et \0trèfle ♣\0￿.\0\0(6촀\0Mettons donc ce savoir en pratique !
+\0
+Je vais tirer une carte,
+\0 et tu devras
+deviner de quelle famille elle est !\0\0(촀\0Si tu tombes juste,
+\0 je t'offrirai 2촀monma\0
+fidèle }\0\0 !\0\0(<촀\0À présent,
+\0 prépare-toi.
+\0 Attentionn\0\0
+\0
+Prêt2\0e ?
+\0 C'est parti !"
+"101","(촀\0Ça y est,
+\0 j'ai tiré une carte !
+\0
+Alors,
+\0 à ton avisn\0\0
+\0 elle est de
+quelle famille, n\0 ?"
+"101_a","\0Cœur ♥\0￿ !"
+"101_b","\0Carreau ♦\0￿ !"
+"101_c","\0Pique ♠\0￿ !"
+"101_d","\0Trèfle ♣\0￿ !"
+"102_01","(촀\0Et c'est un
+\0 촀 !
+\0 Trou en un !
+\0
+Panier à trois points !
+\0 Grand chelem !
+\0
+Essai transformé !
+\0 BUUUT !"
+"102_02","(촀\0Et c'estn\0\0
+\0 ( 촀\0Oooh !
+\0 Un \0촀\0￿n\0\0
+\0
+Hors limite !
+\0 Filet !
+\0 Hors-jeu !
+\0 Faute !
+\0
+('촀\0Ah là là,
+\0 ça doit faire mal !"
+"200","(""촀\0Tu veux les règles,
+\0 eh ben d'accord !
+\0
+Je vais te les expliquer !\0\0()촀\0Aux cartes,
+\0 il y a quatre familles :
+\0
+\0cœur ♥\0￿
+\0 et \0carreau ♦\0￿
+\0 sont en \0rouge\0￿,
+\0
+\0pique ♠\0￿
+\0 et \0trèfle ♣\0￿
+\0 en \0noir\0￿.\0\0(6촀\0Mettons donc ce savoir en pratique !
+\0
+Je vais tirer une carte,
+\0 et tu devras
+deviner si elle est \0rouge\0￿ ou \0noire\0￿ !\0\0(촀\0Si tu tombes juste,
+\0 je t'offrirai 2촀monma\0
+fidèle }\0\0 !\0\0(<촀\0À présent,
+\0 prépare-toi.
+\0 Attentionn\0\0
+\0
+Prêt2\0e ?
+\0 C'est parti !"
+"201","(촀\0Ça y est,
+\0 j'ai tiré une carte !
+\0 Alors,
+\0
+à ton avisn\0\0
+\0 quelle couleur a-t-elle ?"
+"201_a","\0Rouge\0￿ !"
+"201_b","\0Noire\0￿ !"
+"202_01","(촀\0Et c'est une carte
+\0 \0rouge\0￿ !
+\0 Grand
+chelem !
+\0 Trou en un !
+\0 Panier à trois
+points !
+\0 Essai transformé !
+\0 BUUUT !"
+"202_02","(촀\0Et c'estn\0\0
+\0 ( 촀\0Oooh !
+\0 Une carte \0noire\0￿n\0\0
+\0
+Hors limite !
+\0 Filet !
+\0 Hors-jeu !
+\0 Faute !
+\0
+('촀\0Ah là là,
+\0 ça doit faire mal !"
+"202_03","(촀\0Et c'est une carte
+\0 \0noire\0￿ !
+\0 Panier à
+trois points !
+\0 Grand chelem !
+\0 Trou
+en un !
+\0 Essai transformé !
+\0 BUUUT !"
+"202_04","(촀\0Et c'estn\0\0
+\0 ( 촀\0Oooh !
+\0 Une carte \0rouge\0￿n\0\0
+\0
+Hors limite !
+\0 Filet !
+\0 Hors-jeu !
+\0 Faute !
+\0
+('촀\0Ah là là,
+\0 ça doit faire mal !"

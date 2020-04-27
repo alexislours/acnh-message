@@ -1,0 +1,215 @@
+﻿"label","text"
+"001","(촀\0Oye, ¿estás ocupad2oa?
+\0
+(""촀\0¿Te gustaría hacer una búsqueda del
+tesoro paran\0\0
+\0 encontrar un tesoro?"
+"001_a","¡Me apunto!"
+"001_b","En otro momento"
+"002","(
+촀\0Hoy, en vez de leer mis cómics,
+me gustaría salir a hacer algo
+diferenten\0\0
+(촀\0¿Te gustaría acompañarme a buscar
+tesoros?"
+"002_a","¡Pues claro!"
+"002_b","Ahora no puedo"
+"003","(촀\0¡Se me acaba de ocurrir una idea!
+\0
+(촀\0¿Quieres ir a buscar tesoros?"
+"003_a","¡Suena bien!"
+"003_b","Ahora no puedo..."
+"004","(4촀\0Excelenten\0\0
+\0( Esconderé un tesoro
+en algún lugar de la islan\0\0
+\0
+(촀\0Espera un momentito."
+"005","(촀\0¡Genial!
+\0 Espera un momento, en lo
+que voy a esconder el tesoro.
+\0 No te
+vayas a mover, ¿eh?"
+"006","(촀\0¡Genial!
+\0 ¡Espera un ratito en lo que
+voy a esconder una cajita repleta
+de tesoros!"
+"007","(촀\0¡Uy!
+\0 ¡Pero ya es de noche!
+\0 
+(7촀\0Ya no se ve casi nada,
+\0 y además
+ya se me pasaron dos comidasn\0\0
+(촀\0Dejamos esto de la búsqueda
+de tesoros para después,
+\0 ¿sí?"
+"008","(촀\0Bueno, lo podemos dejar para
+otra ocasiónn"
+"009","(%촀\0No te preocupes;
+\0 lo dejamos
+para despuésn"
+"010","(7촀\0No pasa nada,
+\0 buscaré otra cosa
+para desaburrirmen"
+"011","(촀\0Las reglas son más simples que
+prepararse un plato de cerealn\0\0
+´\0\0\0()촀\0Si encuentras el tesoro que acabo
+de escondern\0\0
+\0 (촀\0¡tú ganas!
+´\0\0\0(촀\0Está enterrado afuera,
+\0 así que no
+tienes que meterte a ningún
+lugar o edificion\0\0
+('촀\0Es que luego se enojan si intentas
+excavar en sus salasn\0\0
+´\0\0\0(촀\0¿List2oa para buscar tesoros?
+Z"
+"011_01","(촀\0Las reglas son más simples
+\0
+que abrir una bolsa de papitas
+con una sola manon\0\0
+´\0\0\0()촀\0Si logras encontrar el tesoro
+que acabo de esconder antes de
+que se acabe el tiempon\0\0
+\0 (촀\0¡tú ganas!
+´\0\0\0(촀\0Está enterrado en la tierra,
+\0 así que
+no te vayas a meter a ningún lugar,
+ni casa de nadie.
+(촀\0La gente se enoja si cavas en sus
+cocinasn\0\0
+´\0\0\0(""촀\0Y que conste que nadie
+puede ayudarte a buscar, ¿eh?
+\0
+Solo es un juego entre tú y yo.
+´\0
+(촀\0¿List2oa para buscar tesoros?
+Z"
+"012","(촀\0¡Las reglas son tan fáciles como
+comerse una pizza entera!
+\0(촀\0
+´\0\0\0()촀\0Si encuentras el tesoro enterrado
+antes de que se acabe el tiempo,
+\0
+(;촀\0¡ganas!
+´\0\0\0(%촀\0Lo enterré en la tierra,
+\0 así que no
+pierdas el tiempo asomándote
+en las casas ¿eh?
+´\0
+(촀\0Es que nadie me dejó hacer
+un hoyo en el suelo de su
+sala para esconderlo, así quen\0\0
+´\0
+()촀\0Esta vez no tienes tanto tiempo
+para encontrar el tesoro, ¡así que
+apúrate!
+´\0
+(촀\0¿Estás list2oa?
+Z"
+"012_01","(촀\0¡Jugar a esto es más fácil que
+quedarse dormido después de
+haber comido sopita de fideos!
+\0(촀\0
+´\0\0\0()촀\0Si encuentras el tesoro que enterré
+antes de que se acabe el tiempo,
+\0
+(촀\0¡tú ganas!
+´\0\0\0(%촀\0Está enterrado.
+\0 No vayas a buscar
+adentro de las casas, ni de otro lugar.
+\0 (촀\0Nadie me dejó hacerlon\0\0
+´\0
+()촀\0Esta vez no tienes tanto tiempo
+para encontrar el tesoro,
+\0
+¡así que te vas a tener que apurar!
+´\0\0\0(촀\0Y que quede claro que este juego es
+entre tú y yo, ¿eh?
+\0 (""촀\0Nadie puede
+ayudarte a buscar.
+´\0
+(촀\0¿Estás list2oa?
+Z"
+"013","Oyen\0\0
+\0 (&촀\0¿ya sabes cómo funciona esto
+de buscar tesoros?"
+"013_a","(\0촀\0Pues no"
+"013_b","(\0촀\0¡Sí!"
+"014","(촀\0Je, je, jen\0\0
+\0 ¡Buena suerte!
+\0
+(촀\0¡Empezamos!
+d"
+"014_01","(촀\0Je, je, jen\0\0
+\0 ¡Buena suerte!
+\0 (촀\0¡Ah, sí!
+\0
+Recuerda que nadie, pero nadie,
+puede ayudarte a buscarn\0\0
+´\0
+(촀\0¡Empezamos!
+Z"
+"015","(촀\0Esta vez tienes menos tiempo,
+\0
+así que a lo mejor es un poquito
+más difícil.
+(촀\0¿Preparad2oa?
+\0 ¡Buena suerte!
+´"
+"015_01","(촀\0Esta vez tienes menos tiempo
+\0 para
+hacerlo más difícil y emocionanten\0\0
+(촀\0¡Recuerda que nadie debe ayudarte!
+´\0
+(촀\0¿Preparad2oa?
+\0 ¡Empezamos!
+Z\0 "
+"101","(촀\0¡n\0!\0\0(촀\0Te apareces justo a tiempon\0\0
+¡Estoy demasiado aburrido!\0\0(4촀\0No tendrás un momenton\0\0
+\0
+para jugar una cosan\0\0
+\0
+(촀\0¡Como buscar tesoros!"
+"101_a","¡Sí!"
+"101_b","Ahora no puedo..."
+"102","(
+촀\0Justo estaba pensando a qué
+podría jugar ahoran\0\0\0\0(촀\0Oye, n\0n\0\0
+\0
+(촀\0¿te gustaría buscar tesoros?"
+"102_a","¡Sí!"
+"102_b","Mejor luego..."
+"103","(촀\0¡Uy, pero ya es de noche!
+\0
+()촀\0Si no se ve,
+\0 no podemos jugarn\0\0
+\0
+(촀\0Lo dejamos para después, ¿sí?"
+"104","(촀\0¡Yujuuu!
+\0 Sabía que dirías que sín\0\0
+\0
+(촀\0Espérame aquí, ¿sí?\0\0(촀\0Esconderé mi tesoro favorito
+en algún lugar de la islan\0\0
+\0
+('촀\0No vayas a hacer trampan"
+"105","(촀\0Ahn\0\0
+\0 Bueno, no pasa nada.
+\0
+¡Jugamos luego!"
+"106","(촀\0¡Uy, se hizo muy de noche!
+\0
+(촀\0Si no vemos, no podemos jugarn\0\0
+\0
+(%촀\0Lo dejamos para después, ¿sí?"
+"107","(촀\0¡Yujuuu!
+\0 ()촀\0Entonces, iré a enterrar
+un tesoro por ahí."
+"108","Uyn\0\0
+\0 (촀\0Bueno, ¡jugamos en otra
+ocasión!"
+"200","(촀\0Busqué por toda la isla y no
+encontré el lugar adecuado
+para esconder mi tesoron\0\0
+(7촀\0Y si yo no puedo enterrarlo,
+tú no puedes buscarlon\0\0\0\0(촀\0Tendremos que dejarlo para
+otra ocasiónn"

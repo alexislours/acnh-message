@@ -1,0 +1,287 @@
+﻿"label","text"
+"001","(촀\0Bene, bene! Vuoi saperne di più su
+ponti e rampe, eh?
+\0 Ottimo! Perchén\0\0\0\0(\0촀\0In seguito ai lavori di rinnovo del
+centro servizi, ora abbiamo una
+novità per il Pacchetto isola deserta!
+(촀\0Sì, sì, ora realizzare progetti più
+impegnativi come ponti e rampe sarà
+molto più facile e divertente!
+(촀\0Ma quel genere di progetti è
+piuttosto costoso, sì, sì!\0\0(촀\0Comunque, considera che tutti gli
+abitanti dell'isola contribuiranno alle
+spese di realizzazione del progetto.
+(촀\0Ciò significa che, anche se non hai
+ancora i fondi, possiamo discutere
+dei tuoi pianin\0\0
+(촀\0Ma ricorda: possono esserci solo un
+ponte e una rampa in costruzione
+simultaneamente, sì, sì.
+(촀\0Quindi pensa bene a cosa vuoi
+costruire prima di discuterne con
+me, siamo intesi?"
+"002","(촀\0Bene, benen\0\0
+\0(&촀\0 Di che cosa vuoi
+parlare?"
+"002_a","Costruisco un ponte."
+"002_b","Costruisco una rampa."
+"002_c","Demolisco qualcosa."
+"002_d","Di nulla, grazie."
+"003","(촀\0Ponti e rampe, eh?
+\0(&촀\0 Bene, bene, cosa
+posso fare per te?"
+"003_a","Costruisco un ponte."
+"003_b","Costruisco una rampa."
+"003_c","Demolisco qualcosa."
+"003_d","Non ora."
+"004","(촀\0Sì, sì, ho capito.
+\0((\0촀\0 Ma torna pure da
+me quando vuoi parlare di (""촀\0ponti o
+di rampe."
+"101","(촀\0Bene, bene, vuoi parlare di ponti,
+sì?\0\0(촀\0I ponti sono un ottimo modo per
+collegare lembi di terra separati da
+un fiume."
+"102","(촀\0Bene, bene, scegline uno dal nostro
+catalogo."
+"103","(촀\02\02\0}\0\0!\0\0Sì, sì, sei proprio sicur2oa di voler
+procedere a costruire questo ponte?"
+"103_a","Sì!"
+"103_b","Veramente no."
+"104","(촀\0Bene, bene!(\0촀\0 A questo punto,
+\0(촀\0 il
+passo successivo è scegliere dove
+collocarlo.
+(\0촀\0Usa il \0kit progettazione ponte\0￿(촀\0 che ti
+ho appena dato per dedicare un'area
+alla costruzione del ponte, sì, sì."
+"105","(\0촀\0Usa il kit vicino a un fiume
+\0(촀\0 e potrai
+vedere in anteprima che aspetto
+avrà il ponte."
+"106","(촀\0Bene, bene! 
+\0On\0\0(&촀\0 anche no?
+\0 (촀\0Al momento non hai abbastanza spazio
+per tenere il kit, n\0.
+(촀\0Per dedicare un'area al nuovo ponte
+devo darti un \0kit progettazione
+ponte\0￿.
+(\0촀\0Sì, sì, quindi dovresti essere tanto
+gentile da fare un po' di spazio,(촀\0 e poi
+tornare da me a discuterne."
+"107","(촀\0Accipicchia! Hai cambiato idea?
+\0( (\0촀\0In
+effetti è un progetto di una certa
+importanza,
+\0 (촀\0bisogna pensarci bene."
+"108","(
+촀\0Uhmn\0\0 Sembra siano già stati
+costruiti \08\0￿ ponti.
+\0 Sì, sì,
+\0 praticamente
+(촀\0già il massimo per la nostra isola.
+(\0촀\0Se vuoi costruire un nuovo ponte
+\0
+(촀\0dovremo prima \0demolire\0￿ uno di
+quelli esistenti. E poi riparlarne!"
+"201","(촀\0Bene, bene, vuoi che ti parli delle
+rampe?(촀\0 Sono ottime per superare
+dei rilievi, sì, sì!"
+"202","(촀\0Adesso scegline una dal nostro
+catalogo."
+"203","(촀\02\02\0}\0\0!\0\0Sei sicur2oa di voler procedere con la
+costruzione di questa rampa?"
+"203_a","Sì!"
+"203_b","Veramente no."
+"204","(촀\0Bene, bene!(\0촀\0 A questo punto,
+\0(촀\0 il
+passo successivo è scegliere dove
+collocarla.
+(\0촀\0Usa il \0kit progettazione rampa\0￿(촀\0 che ti
+ho appena dato per dedicare un'area
+alla costruzione della rampa, sì, sì."
+"205","(\0촀\0Per usarlo ti servirà una discreta
+quantità di spazio, e assicurati di
+trovarti vicino alla \0base del rilievo\0￿.
+(촀\0Quando sei pront2oa, potrai vedere
+come apparirà la tua nuova rampa,
+sì, sì."
+"206","(촀\0Bene, bene! 
+\0On\0\0(&촀\0 anche no?
+\0 (촀\0Al momento non hai abbastanza spazio
+per tenere il kit, n\0.
+(촀\0Per dedicare un'area alla nuova
+rampa ti serve un \0kit progettazione
+rampa\0￿.
+(\0촀\0Sì, sì, quindi dovresti essere tanto
+gentile da fare un po' di spazio,(촀\0 e poi
+tornare da me a discuterne."
+"207","(촀\0Accipicchia! Hai cambiato idea?
+\0( (\0촀\0In
+effetti è un progetto di una certa
+importanza,
+\0 (촀\0bisogna pensarci bene."
+"208","(
+촀\0Uhmn\0\0 Sembra che siano già state
+costruite \08\0￿ rampe.
+\0 Sì, sì,
+\0 in pratica
+(촀\0già il massimo per la nostra isola.
+(\0촀\0Se vuoi costruire una nuova rampa
+\0
+(촀\0dovremo prima \0demolire\0￿ una di
+quelle esistenti. E poi riparlarne!"
+"301","(촀\0Accipicchia!
+\0((촀\0 Vuoi demolire qualcosa?\0\0(촀\0Bene, bene. Io capisco se vuoi
+sfruttare al meglio lo spazio a
+disposizione sull'isola.
+(\0촀\0Ovviamente, per demolire un ponte
+o una rampa bisogna pagare una
+piccola tassa di (촀\0Z\0."
+"302","(
+촀\0La nostra isola non ha né ponti né
+rampe al momento, 
+\0(촀\0quindi non c'è
+nulla da demolire, sì, sì.
+(:촀\0Comunque, per tua informazione, i
+ponti e le rampe che demolisci non
+sono recuperabili.(촀\0 Fai attenzione!"
+"303","(촀\0I ponti e le rampe che demolisci non
+sono recuperabili!
+\0(\0촀\0 Quindi ti prego,
+pensa con molta attenzione, sì, sì.
+Alla luce di ciò,
+\0(&촀\0 vuoi ancora demolire
+qualcosa?"
+"303_a","Ma certo!"
+"303_b","Non credo proprio."
+"304","(촀\0Che!?(촀\0 Vuoi demolire?(촀\0 Beh, mi pare
+che ci siano varie strutture sull'isola,
+sì, sì.
+\0(%촀\0 Doveva accadere prima o poi."
+"305","Si tratta di ponti o di rampe, sì, sì.
+
+\0(촀\0Che cosa dobbiamo demolire?"
+"306","Vuoi demolire 2\0}\0\0?\0\0(\0촀\0Per farlo bisogna pagare (촀\0una tassa
+di Z\0.
+\0 (&촀\0Accetti?"
+"306_01","Vuoi demolire 2\0}\0\0?\0\0(\0촀\0Per farlo bisogna pagare (촀\0una tassa
+di Z\0.
+\0 (&촀\0Accetti?"
+"306_01_a","Beh, non saprei..."
+"306_01_b","Demoliamo tutto!"
+"306_a","Beh, non saprei..."
+"306_b","Demoliamo tutto!"
+"307","(%촀\0Messaggio ricevuto, bene, bene.
+(\0촀\0Avvierò subito le pratiche necessarie
+(촀\0ed entro domani non ci sarà più."
+"308","(&촀\0Hai cambiato idea, eh?
+\0(촀\0 Sì, sìn\0\0 dopo
+tutta la fatica fatta per costruire un
+progetto del genere, in effettin\0\0
+
+\0((""촀\0Comunque, se sei proprio convint2oa di
+doverlo demolire, io sono sempre
+disposto a darti una mano."
+"309","(촀\0Cosa!?
+\0(&촀\0 Man\0\0 
+\0((\0촀\0Non ci crederai, ma al
+momento 
+\0(촀\0non c'è nemmeno un ponte
+o una rampa da demolire!
+(촀\0Comunque, ad averne, è sempre
+bene tenere a mente questa opzione.
+\0
+Può sempre servire, sì, sì."
+"310","(%촀\0Messaggio ricevuto, benen\0\0(\0촀\0 Aspetta.\0\0Pare che tu non abbia abbastanza
+stelline per pagare la tassa di
+demolizionen\0\0
+(촀\0Questo genere di cose costa, sì, sì.
+\0(""촀\0
+Comunque, torna pure quando avrai
+i soldi necessari per farlo."
+"401","(촀\0Ah, n\0,
+\0 sei alla ricerca di un posto dove collocare 2\0}\0\0?\0\0(&촀\0Come posso aiutarti?"
+"401_a","Mi servono consigli!"
+"401_b","Rinunciamo."
+"401_c","Non mi serve nulla."
+"402","(\0촀\0Bene, bene, ci sono un po' di cose da
+considerare quando si sceglie dove
+costruire un ponte. 
+\0(%촀\0È una cosa seria!
+(촀\0In fondo è molto simile al piazzare
+una tenda. Parliamo un po' del \0kit
+progettazione ponte \0￿che ti ho dato.
+()촀\0Trova un buon punto, rivolgilo verso
+il fiume (촀\0e piazzalo, sì sì!\0\0(\0촀\0Però, 
+\0(
+촀\0se il fiume è troppo stretto o
+troppo largo,(촀\0 o se la riva è un po'
+sconnessa, non va bene.
+(\0촀\0Sì, sì, e queston\0\0
+\0(촀\0 è tutto ciò che so
+su come costruire un ponte."
+"402_01","(\0촀\0Bene, bene, ci sono un po' di cose da
+considerare quando si sceglie dove
+costruire una rampa. Non è facile!
+(촀\0In fondo è molto simile al piazzare
+una tenda. Parliamo un po' del \0kit
+progettazione rampa \0￿che ti ho dato.
+()촀\0Trova un buon punto alla \0base di un
+rilievo\0￿(촀\0 e piazzalo lì, sì sì!\0\0(\0촀\0Tutto il resto dovrebbe andare liscio,
+(""촀\0se hai abbastanza spazio per
+eseguire i lavori.
+(\0촀\0Sì, sì, e queston\0\0
+\0(촀\0 è tutto ciò che so
+su come costruire una rampa."
+"403","(\0촀\0Bene, bene, sono proprio ansioso di vedere dove sistemerai 2\0(촀\0}\0\0!"
+"404","(&촀\0Ah, vuoi annullare la messa in opera
+del progetto? (촀\0Bene, bene, allora mi
+riprendo il kit necessario."
+"405","(촀\0Beh, ti auguro buona fortuna con
+la ricerca del punto giusto per
+2\0}\0\0!"
+"501","(촀\0Sì, sì, 
+\0(al momento siamo alle prese con la raccolta dei fondi per 2\0}\0\0.\0\0Perciò non è il momento di discutere
+di altri cambin\0\0 ma (&촀\0avevi comunque
+qualcosa in mente?"
+"501_a","Rinunciamo."
+"501_b","No, non importa."
+"502","(촀\0Come dici!?
+\0( Vuoi sospendere i lavori di costruzione avviati per 2\0}\0\0?
+(촀\0Questo significa che tutte le
+donazioni andranno sprecate!
+\0(&촀\0 Sei
+sicur2oa? Ma proprio sicur2oa?"
+"502_a","Continuiamo i lavori."
+"502_b","Chiudiamo il cantiere!"
+"503","E va bene!(촀\0 Il cantiere verrà rimosso
+entro domani, sì, sì."
+"504","(촀\0Bene, bene!
+\0((\0촀\0 Le donazioni per il
+progetto le raccoglie il giroide in
+loco.
+\0 (촀\0Dai una mano, se puoi."
+"603","(촀\0Ah, vuoi parlare di ponti e di rampe?
+\0
+Al momento non posso discutere di
+altri cambi, sì, sì.
+()촀\0Perché vedi, adesso sono molto impegnato a costruire 2\0}\0\0.\0\0(\0촀\0Con le donazioni abbiamo raggiunto
+la cifra richiesta(촀\0 e i lavori dovrebbero
+terminare entro domani.
+(""촀\0Riparliamone dopo, sì, sì!"
+"604","(촀\0Ah, vuoi parlare di ponti e di rampe?
+\0
+Al momento non posso discutere di
+altri cambi, sì, sì.
+()촀\0Adesso sono molto impegnato a smantellare il cantiere per 2\0}\0\0.
+(\0촀\0Dovremmo aver rimosso tutto entro
+domani. (""촀\0Riparliamone dopo, sì, sì!"
+"605","(촀\0Ah, vuoi parlare di ponti e di rampe?
+\0
+Al momento non posso discutere di
+altri cambi, sì, sì.
+()촀\0Adesso sono impegnato a demolire
+2\0}\0\0.\0\0(\0촀\0Non dovrebbe esserci più nulla sul
+posto entro domani. (""촀\0Riparliamone
+dopo, sì, sì!"

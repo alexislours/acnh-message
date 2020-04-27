@@ -1,0 +1,113 @@
+﻿"label","text"
+"001","(8촀\0Ik word altijd een beetje rusteloos als ik kampeer, n\0.
+\0 Ik weet nooit hoe ik mijn tijd moet besteden!\0\0(촀\0O! 
+\0Ik heb een idee! 
+\0We kunnen een
+spelletje spelen. 
+\0(6촀\0Als je wint, krijg je
+mijn 2촃}\0\0!"
+"001_a","Oké, kom maar op!"
+"001_b","Nee, dank jen"
+"002","(촀\0Yes! 
+\0(
+촀\0Oké, wil je dat ik de regels
+uitleg?"
+"002_a","Ja, graag!"
+"002_b","Nee, ik snap het wel."
+"003","(촀\0Nee?
+\0((6촀\0 Goed, misschien een ander
+keertje dan, n\0!"
+"004","(<촀\0Ik schud nu mijn kaarten!"
+"005","(6촀\0Eens zien wie er geluk heeftn\0\0
+\0(
+촀\0
+en wie nietn"
+"006_01","(9촀\0Ik ben 2\0n\0 van mijn woord.\0\0(촀\0Hopelijk beleef je veel plezier aan
+mijn 2촃}\0\0!"
+"006_02","(%촀\0Je hebt je prijs eerlijk verdiend.
+\0 Ik hoop dat je blij bent met mijn 2촃}\0\0!"
+"006_03","(촀\0Ja!
+\0 Ik win! 
+\0(촀\0Geen prijs voor jou!
+
+\0(2촀\0Ik bedoeln\0\0
+\0 Volgende keer beter."
+"007_01","(촀\0Het was niet mijn dag vandaag,
+\0 maar
+pas maar op voor de volgende keer
+dat we spelen, n\0!"
+"007_03","(9촀\0Winnen is alleen leuk als je af en toe
+verliest.
+\0 Dusn\0\0(촀\0 geen dank dat ik van
+je gewonnen heb!"
+"008","(촀\0Goed, 
+\0(촀\0laat de spelen beginnen!\0\0('촀\0Ho, stop de camera!
+\0(촀\0 Je zakken zijn zo
+riant gevuld dat er geen plek is voor
+mijn 2촃}\0\0.\0\0Ik ga wel even aan iets leuks denken
+tot je wat ruimte vrij hebt gemaakt(1촀\0n\0\0
+\0
+(촀\0Ahum!"
+"100","()촀\0Oké, het gaat als volgtn\0\0\0\0(%촀\0Ik heb vier kaarten met ieder een
+ander symbool.\0\0De symbolen zijn \0♥ harten\0￿, \0♦ ruiten\0￿, \0♠ schoppen\0￿ en \0♣ klaveren\0￿, net als
+in een gewoon kaartspel dus.
+()촀\0Ik kies een willekeurige kaart
+\0 en jij
+moet raden wat het symbool is.\0\0(촀\0Als je het goed raadt, krijg je mijn
+2촃}\0\0.
+(<촀\0Laten we kijken hoe het gaatn"
+"101","(9촀\0Ik heb een kaart gekozenn\0\0\0\0(&촀\0Welk symbool denk je dat hij heeft?
+\0(
+\0♥ Harten\0￿, \0♦ ruiten\0￿, \0♠ schoppen\0￿ of
+\0♣ klaveren\0￿?"
+"101_a","\0♥ Harten!\0￿"
+"101_b","\0♦ Ruiten!\0￿"
+"101_c","\0♠ Schoppen!\0￿"
+"101_d","\0♣ Klaveren!\0￿"
+"102_01","\0
+\0(촀\0Wauw! Het is echt 촀!
+\0
+	\0\0\0\0d\0d(촀\0Je hebt het helemaal goed!\0d"
+"102_02","\0
+\0Het is (촀\0촀!
+\0
+	\0\0\0\0d\0d(촀\0O, n\0n\0\0
+\0 Dat is pech hebben.\0d"
+"200","()촀\0Oké, we gaan het als volgt doenn\0\0\0\0(%촀\0Ik heb vier kaarten met verschillende
+symbolen: \0♥ harten\0￿, \0♦ ruiten\0￿,
+\0♠ schoppen\0￿ en \0♣ klaveren\0￿.\0\0()촀\0Ik kies een kaart en jij moet raden
+of de kaart \0rood\0￿ is of \0zwart\0￿.\0\0(촀\0Als je \0rood\0￿ kiest
+\0 en de kaart blijkt
+\0♥ harten \0￿of \0♦ ruiten\0￿ te zijn,
+\0 dan win
+je mijn 2촃}\0\0!
+(<촀\0Laten we kijken hoe het gaatn"
+"201","(3촀\0Ik heb een kaart in mijn handn\0\0\0\0(&촀\0Welke kleur denk je dat hij heeft?
+\0
+Le \0rouge\0￿ of le \0noir\0￿?\0\0(촀\0HaHA! 
+\0Dat zijn woorden die ik net
+heb verzonnen om cool te klinken.
+\0 (&촀\0Oké, wat wordt het?
+\0 \0Rood \0￿of \0zwart\0￿?"
+"201_a","\0Rood!\0￿"
+"201_b","\0Zwart!\0￿"
+"202_01","\0
+\0Het is (촀\0촀, dusn\0\0
+\0 \0rood\0￿!
+\0(
+	\0\0\0(5촀\0\0dJe hebt het goed geraden, n\0!"
+"202_02","\0
+\0Het is (촀\0촀, dusn\0\0
+\0( \0zwart\0￿!
+\0
+	\0\0\0\0d\0d(촀\0Helaas, je zit er naast, n\0.\0d"
+"202_03","\0
+\0Het is (촀\0촀, dusn\0\0
+\0( \0zwart\0￿!
+\0
+	\0\0\0(5촀\0\0dJe hebt het goed, n\0!"
+"202_04","\0
+\0Het is (촀\0촀, dusn\0\0
+\0( \0rood\0￿!
+\0
+	\0\0\0(촀\0\0dDat is pech hebben, \0dn\0.\0d"

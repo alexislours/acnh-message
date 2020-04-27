@@ -1,0 +1,184 @@
+﻿"label","text"
+"001","Hé, als je je verveelt, heb ik een idee.
+\0
+(&촀\0Zal ik je op een schatzoektocht
+uitsturen?"
+"001_a","Dat zie ik wel zitten!"
+"001_b","Een andere keer."
+"002","(
+촀\0Als je tijd hebt, dan weet ik wel wat
+voor je.
+\0 (6촀\0Ik daag je uit tot
+schatzoeken!"
+"002_a","Ik doe mee!"
+"002_b","Hmm... Nee, bedankt."
+"003","(촀\0Ooo! 
+\0()촀\0Als je geen plannen hebt,
+zullen we dan gaan schatzoeken?"
+"003_a","Klinkt goed!"
+"003_b","Nee, dank je."
+"004","((촀\0Ja! Riemen vast, want we gaan van
+start!
+\0 (촀\0Blijf hier even wachten terwijl
+ik de schat begraaf, ja?"
+"005","(촀\0Woehoe! Hou je vast, n\0.
+\0 (촀\0Ik ga een schat begraven!"
+"006","(촀\0Zo wil ik het horen! 
+\0(\0촀\0Oké, ik begraaf
+de schat ergens op het eiland. Blijf
+rustig hier, dit duurt niet lang."
+"007","n\0\0(7촀\0Wacht even. Het is te donker om
+te schatzoeken. 
+\0(촀\0Sorry dat ik hoop
+heb gewekt, maar we stellen het uit."
+"008","($촀\0O, jammer. 
+\0Misschien een andere
+keer dan."
+"009","($촀\0Nee? 
+\0Goed, een andere keer dan."
+"010","( 촀\0Wat, durf je het niet tegen de
+meester op te nemen? 
+\0(촀\0Hahaha!
+O, ik hou je maar voor het lapje."
+"011","(%촀\0Oké, de schat is begraven. 
+\0()촀\0Het is
+eenvoudig: als je de schat vindt
+voordat de tijd om is, is hij van jou!
+ð\0\0\0(7촀\0Ik vertel je wel gratis en voor niets
+dat ik hem buiten heb begravenn\0\0
+\0
+(촀\0omdat het binnen nergens mocht.
+ð\0\0\0(\0촀\0Dat was het wel. 
+\0(6촀\0Ben je klaar voor
+de jacht?
+x"
+"011_01","(%촀\0Oké, de schat is begraven. 
+\0()촀\0Het is
+eenvoudig: als je de schat vindt
+voordat de tijd om is, is hij van jou!
+ð\0\0\0(7촀\0Ik vertel je wel gratis en voor niets
+dat ik hem buiten heb begraven, 
+\0omdat het binnen nergens mocht.
+ð\0\0\0(9촀\0Dit is overigens tussen jou en mij.
+
+\0Alleen jij kan de schat opgraven,
+begrepen?
+\0( ('촀\0\0KDie fout maak ik niet weern\0\0\0d
+ð\0\0\0(\0촀\0Dat was het.
+\0(6촀\0 Ben je klaar voor de
+jacht?
+x"
+"012","(%촀\0Oké, de schat is begraven. 
+\0()촀\0Het is
+eenvoudig: als je de schat vindt
+voordat de tijd om is, is hij van jou!
+ð\0\0\0(7촀\0Ik vertel je wel gratis en voor niets
+dat ik hem buiten heb begravenn\0\0
+\0
+(촀\0omdat het binnen nergens mocht.
+ð\0\0\0()촀\0Je hebt niet veel tijd deze keer, dus
+geen gelanterfant!
+\0(\0촀\0 Dat was het.
+
+\0(6촀\0Ben je klaar voor de jacht?
+ð"
+"012_01","(%촀\0Oké, de schat is begraven. 
+\0(()촀\0Het is
+eenvoudig: als je de schat vindt
+voordat de tijd om is, is hij van jou!
+ð\0\0\0(7촀\0Ik vertel je wel gratis en voor niets
+dat ik hem buiten heb begraven,
+
+\0omdat het binnen nergens mocht.\0\0(9촀\0Dit is overigens tussen jou en mij.
+
+\0Alleen jij kan de schat opgraven,
+begrepen?
+\0( ('촀\0\0KDie fout maak ik niet weern\0\0\0d
+ð\0\0\0()촀\0Je hebt maar weinig tijd, dus niet
+lanterfanten!
+\0 Dat was het wel zo'n
+beetje. 
+\0(6촀\0Klaar om te jagen?
+ð"
+"013","(9촀\0Doe je dit voor de eerste keer?
+\0
+(&촀\0Wil je weten hoe het werkt?"
+"013_a","(%촀\0Ja, ik heb uitleg nodig."
+"013_b","('촀\0Laten we beginnen!"
+"014","(촀\0Geweldig! 
+\0Waar wachten we nog op?!
+Z"
+"014_01","(촀\0Prima! 
+\0En even voor de duidelijkheid:
+dit is tussen jou en mij. 
+\0Alleen jij kan
+de schat opgraven, begrepen?
+ð\0\0\0(촀\0Oké dan, laten we knallen!
+x"
+"015","(6촀\0Cool! 
+\0Denk eraan dat je maar weinig
+tijd hebt, dus niet lanterfanten!
+
+\0(촀\0De jacht is geopend!
+ð"
+"015_01","(촀\0Een expert? 
+\0Tof, hoor.
+\0( (9촀\0Voor de
+duidelijkheid: dit is tussen jou en mij.
+
+\0Alleen jij kan de schat opgraven.
+ð\0\0\0(6촀\0Er staat dit keer minder tijd op de klok, 
+\0oké?
+\0( (촀\0Laten we dan maar eens
+beginnen, n\0!
+x"
+"101","($촀\0Hoi! 
+\0Heb je het druk op het moment?
+\0
+Heb je zin om te schatzoeken?"
+"101_a","Zeker weten!"
+"101_b","Nu even niet."
+"102","
+\0(	촀\0\0IK VERVEEL ME ZO!
+\0\0d\0\0(촀\0O. Sorry, hoor. 
+\0(7촀\0Als ik je had gezien,
+zou ik niet zo'n keel hebben opgezet.
+Er gebeurt gewoon helemaal niets!\0\0(촀\0Hadden we op dit eiland maar een
+amusementshaln\0\0 
+\0(촀\0O, wacht! Ik heb
+een ander idee om ons te vermaken!\0\0()촀\0Zin om te schatzoeken, n\0?"
+"102_a","Doen we!"
+"102_b","Geen zin..."
+"103","(
+촀\0On\0\0 Het is wel een beetje laat, hè?
+
+\0(7촀\0We moeten het voor een andere keer
+bewaren. Sorry."
+"104","(촀\0Jaaaa! 
+\0()촀\0Wacht hier even terwijl ik de
+schat ga begraven. 
+\0Dit duurt maar
+eventjes, beloofd!"
+"105","( 촀\0On\0\0 Zo druk zie je er toch niet uit.
+
+\0(%촀\0Goed, hoor. Tot de volgende keer,
+n\0."
+"106","(촀\0On\0\0 Is het al zo donker? 
+\0(촀\0Dat ging
+wel erg snel! 
+\0(7촀\0Sorry, maar we moeten
+het uitstellen tot een andere keer."
+"107","((촀\0Zo hoor ik het graag!
+\0
+(6촀\0\0\0KIk ben dus niet de enige die zich te pletter
+verveelt\0dn\0\0\0￿\0\0()촀\0Wacht eventjes terwijl ik de schat
+begraaf, dan kunnen we daarna van
+start!"
+"108","(촀\0Nee?! 
+\0Ooon\0\0 
+\0(촀\0Goed dan, ik kan je niet
+dwingen te doen wat je niet wilt."
+"200","(9촀\0Ik had er misschien eerder op
+moeten letten, maar er is nergens
+op het eiland plek voor een schat.\0\0(7촀\0Dat maakt een schatzoektocht wel wat moeilijker, hè? 
+\0(촀\0Sorry, n"

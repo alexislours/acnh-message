@@ -1,0 +1,182 @@
+﻿"label","text"
+"001","(촀\0Che ne diresti di partecipare a una
+caccia al tesoro insieme a me?"
+"001_a","Certo!"
+"001_b","Scusa, ora non posso."
+"002","(촀\0Stavo pensando di partecipare
+a una caccia al tesoro... 
+\0Vuoi
+unirti a me?"
+"002_a","Sì, che bello!"
+"002_b","Magari un'altra volta."
+"003","(촀\0Ho un'idea davvero amusante!
+
+\0(촀\0Una caccia al tesoro, 
+\0che ne
+pensi?"
+"003_a","Ci sto!"
+"003_b","Adesso no, grazie."
+"004","(촀\0Che bello!\0\0(%촀\0Tu resta lì e non cambiare idea.
+\0
+($촀\0Io vado a sotterrare il tesoro
+che tu dovrai trovare, 
+\0va bene?"
+"005","(촀\0Très bien!\0\0(%촀\0Per prima cosa, devo andare a
+sotterrare il tesoro da qualche
+parten"
+"006","(촀\0Stupendo, ci divertiremo
+tantissimissimo!\0\0(%촀\0Dammi solo il tempo di sotterrare
+il tesoro da qualche parten"
+"007","( 촀\0Oh, no! 
+\0Ma è già così tardi?
+\0
+(촀\0Non me ne ero resa conto.\0\0()촀\0Purtroppo dobbiamo rimandare, 
+\0mi
+spiace. 
+\0($촀\0La prossima volta inizieremo
+prima."
+"008","(7촀\0C'est bon, pas de problème!
+\0
+Era solo un'idea così.\0\0(촀\0Magari facciamo un'altra volta?"
+"009","(%촀\0Pensavo potesse essere divertente.\0\0(촀\0Beh, ci saranno altre occasioni!"
+"010","(4촀\0Ne t'inquiète pasn\0\0\0\0(%촀\0Ti inviterò di nuovo un'altra volta."
+"011","(촀\0Ora ti spiego le regole.
+Z\0\0\0()촀\0Allora, ho sotterrato un tesoro
+qui sull'isola. 
+\0(%촀\0Tu devi trovarlo
+prima dello scadere del tempo.
+x\0
+()촀\0L'ho sotterrato all'aperto, 
+\0quindi
+non serve che tu perda tempo
+a cercare dentro gli edifici.
+Z\0
+(촀\0È tutto. 
+\0Sei 2prontopronta? 
+\0Via, n\0!
+Z"
+"011_01","(촀\0Adesso ti spiego le regole.
+Z\0\0\0()촀\0Ho sotterrato un trésor, 
+\0qui
+sull'isola.
+\0( (촀\0Se lo trovi entro il tempo
+a disposizione, vinci,
+\0 n\0!
+x\0
+()촀\0L'ho sotterrato all'aperto,
+\0 quindi non
+perdere pas de tempo a cercarlo
+dentro gli edifici.
+Z\0\0\0(9촀\0Chi gioca con te non potrà aiutarti,
+
+\0ma (촀\0potrà fare il tifo pour toi.
+Z\0\0\0(촀\0Bien,
+\0 iniziamo!
+Z"
+"012","(촀\0Ora ti spiego le regole.
+Z\0\0\0()촀\0Très bien, ascolta: 
+\0()촀\0ho sotterrato un
+tesoro qui sull'isola 
+\0e (%촀\0tu devi trovarlo
+prima che scada il tempo.
+x\0
+(6촀\0Questa volta ho ridotto il tempo
+a tua disposizione per rendere
+la caccia ancora più emozionante.
+x\0\0\0()촀\0È sotterrato all'aperto, quindi non
+perdere tempo a cercare negli edifici,
+d'accordo?
+Z\0\0\0(촀\0Ci siamo! 
+\0Prontin\0\0 
+\0Attentin\0\0 
+\0(촀\0Via,
+
+\0n\0!
+Z"
+"012_01","(촀\0Très bien, ti spiego le regole.
+Z\0\0\0()촀\0Ascolta
+\0n\0\0 Dunque,
+\0 ho sotterrato un
+trésor da qualche parte sull'isola.
+\0
+(%촀\0Trovalo prima che scada il tempo.
+x\0
+(6촀\0Ho accorciato il tempo a disposizione
+
+\0così il gioco sarà più divertente.
+x\0\0\0(9촀\0Quelli che giocano con te non
+potranno aiutarti,
+\0 ma (촀\0possono
+sostenerti moralmente.
+Z\0\0\0(촀\0Allons, iniziamo,
+\0 n\0!
+Z"
+"013","(&촀\0Vuoi che ti spieghi le regole?"
+"013_a","Sì!"
+"013_b","No, grazie."
+"014","(촀\0Va bene, allora cominciamo subito.
+\0\0\0Prontin\0\0 
+\0Attentin\0\0 
+\0($촀\0Via,
+\0 n\0!
+Z"
+"014_01","(9촀\0Très bien,
+\0 ma i tuoi amici possono
+solo fare il tifo per te. Non potranno
+aiutarti.
+\0 (\0촀\0Pronti
+\0n\0\0($촀\0 Via,
+\0 n\0!
+Z"
+"015","(%촀\0Va bene, ma sappi che stavolta ti
+darò meno tempo, ()촀\0
+\0così la sfida sarà
+più elettrizzante.
+\0 (촀\0Ora iniziamo!
+Z"
+"015_01","Ti darò meno tempo per la caccia,
+\0
+e nessuno degli amici che gioca con
+te potrà aiutarti,
+\0 n\0.
+x\0\0\0(촀\0Tutto chiaro?
+\0 Alors, iniziamon\0\0 Via!
+Z"
+"101","(촀\0Che ne diresti di partecipare
+a una bella caccia al tesoro
+con me?"
+"101_a","Buona idea!"
+"101_b","Adesso no, grazie."
+"102","( 촀\0Oh, n\0!\0\0(촀\0Sto cercando qualcuno per prendere
+parte a una caccia al tesoro. 
+\0(촀\0Ti va di
+partecipare?"
+"102_a","Che bella idea!"
+"102_b","No, grazie."
+"103","( 촀\0Aspetta, ma che ore sono? 
+\0(촀\0È troppo
+tardi, scusan\0\0 La prossima volta
+cominceremo prima, va bene?"
+"104","(촀\0Fantastico!\0\0(%촀\0Vado a cercare un posto qui sull'isola
+dove sotterrare il tesoro. 
+\0($촀\0Torno tout
+de suite!"
+"105","(7촀\0Nessun problema, era solo un'idea.\0\0(촀\0Magari facciamo un'altra volta?"
+"106","(촀\0Oh, non\0\0 Guarda come è tardi!
+\0
+(촀\0Avevo tanta voglia di giocaren\0\0\0\0(4촀\0Mi dispiace, 
+\0dobbiamo rimandare
+a quando avremo più tempo."
+"107","(촀\0Oui! 
+\0Sono così emozionata!\0\0(%촀\0Tu aspettami qui. 
+\0Io vado a cercare
+un posto per sotterrare il tesoro!"
+"108","(4촀\0Oh, quel dommage!\0\0(촀\0Magari un'altra volta, d'accordo?"
+"200","(촀\0Sono costernata. 
+\0Ho cercato per
+tutta l'isola, (촀\0ma non ho trovato alcun
+posto dove poter sotterrare il tesoro.
+(촀\0Mi spiace averti fatto perdere tempo.
+
+\0Possiamo riprovarci un altro giorno,
+magari."

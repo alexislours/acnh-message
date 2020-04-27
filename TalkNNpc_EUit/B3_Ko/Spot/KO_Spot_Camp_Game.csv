@@ -1,0 +1,99 @@
+﻿"label","text"
+"001","Ehilà!(촀\0 Giochiamo?\0\0(\0촀\0Se vinci tu ti darò 2\0}\0\0. 
+\0($촀\0Che ne dici, n\0?"
+"001_a","Sembra divertente!"
+"001_b","Uhm, non adesso."
+"002","(촀\0Da paura! 
+\0((촀\0Ma prima di iniziare devo
+spiegarti le regole, n\0."
+"002_a","Va bene."
+"002_b","Le conosco già."
+"003","Cavoli, è davvero un gran peccato.
+(%촀\0Ma va bene, posso sempre infastidirti
+un'altra voltan\0\0 (촀\0AHAHAH!(촀"
+"004","( 촀\0Allora passiamo subito alla pratica!
+
+\0((<촀\0Adesso mescolo un po' le carten\0\0
+Hai un mestolo? (촀\0AHAHAH!(촀"
+"005","(9촀\0E la carta èn"
+"006_01","(%촀\0Come promesso, eccoti 2\0}\0\0. È tu2촀oa\0! 
+\0((촀\0Mantengo sempre la parola data.
+Sempre ammesso che tu non voglia
+restituirmelan\0\0 (촀\0AHAHAH!(촀"
+"006_02","(7촀\0Cavolin\0\0 Non pensavo che potessi
+indovinare davveron\0\0
+\0(\0\0(\0촀\0Beh, come promesso, eccoti 2\0}\0\0.
+\0 (촀\0Tieni, prendi il tuo premio."
+"006_03","(촀\0Che peccato!
+\0((촀\0 Vorrà dire che mi terrò
+2\0}\0\0n"
+"007_01","(7촀\0Ho perso, ma è stato divertente.
+
+\0((촀\0Vincerò la prossima volta, ci puoi
+contare, n\0!
+E parti da 0, mi raccomandon\0\0
+(촀\0AHAHAH!(촀"
+"007_03","Stavolta ho vinto io,(촀\0 ma non perderti
+d'animo. Non esiste un ufficio oggetti smarriti per quello. (촀\0AHAHAH!(촀\0
+Avrai altre possibilità di vincere!"
+"008","(%촀\0Cavoli, bella risposta!(촀\0 Passiamo agli
+affari, n\0.\0\0(\0촀\0(:촀\0Man\0\0 un momenton\0\0 (촀\0Non hai più
+spazio per portare altri oggetti!
+Forse non speri di vincere?
+(:촀\0Se proprio vuoi avere 2\0}\0\0 in palio, devi fare un po' di spazio.\0\0(
+촀\0Come se non ce ne fosse già
+abbastanza nell'universon\0\0 (촀\0AHAHAH!(촀\0
+Solo allora potremo giocare."
+"100","()촀\0Allora, ho 4 carte, ognuna di un
+seme diverso: \0♥\0￿, \0♦\0￿, \0♠\0￿ o \0♣\0￿.\0\0(촀\0Io ne estraggo una e tu ne indovini il seme, n\0. Fai presto, prima che germogli. (촀\0AHAHAH!(촀\0
+(\0촀\0Se hai ragione,
+\0(촀\0 ti darò 2\0}\0\0.\0\0(\0촀\0E niente, tutto quin\0\0 (촀\0Quindi passiamo
+alla nostra sfida!
+\0((<촀\0 Per prima cosa,
+mescolo le carten"
+"101","(촀\0Bene, ho estratto la carta!
+\0((6촀\0 Ora devi
+indovinarne il seme, n\0.
+\0♥\0￿, \0♦\0￿, \0♠\0￿ o \0♣\0￿?"
+"101_a","Cuori \0♥\0￿!"
+"101_b","Quadri \0♦\0￿!"
+"101_c","\0Picche ♠\0￿!"
+"101_d","\0Fiori ♣\0￿!"
+"102_01","(촀\0Capperi, hai indovinato! Il seme è proprio 촀!
+\0( Ben fatto, n\0!"
+"102_02","(;촀\0Capperi, che peccato! 
+\0Il seme è
+촀!
+\0( (촀\0Oggi non è giornata. A
+proposito, che giorno è? (촀\0AHAHAH!(촀"
+"200","()촀\0Allora, ho 4 carte, ognuna di un seme
+di colore rosso o nero: \0♥\0￿, \0♦\0￿, \0♠\0￿ o \0♣\0￿.\0\0(촀\0Io ne estraggo una e tu ne indovini
+il colore, n\0. Ricorda, le
+opzioni sono solo due: rosso o nero.
+(\0촀\0Se hai ragione,
+\0(촀\0 ti darò 2\0}\0\0.\0\0(\0촀\0E niente, tutto quin\0\0 (촀\0Quindi passiamo
+alla nostra sfida!
+\0((<촀\0 Per prima cosa,
+mescolo le carten"
+"201","(촀\0Bene, ho estratto la carta!
+\0((6촀\0 Ora devi
+indovinarne il colore, n\0.
+\0Rosso \0￿o \0nero\0￿?"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","(촀\0Capperi! Il seme della carta estratta
+è 촀, quindi \0rosso\0￿!
+\0( (촀\0Hai vinto,
+n\0!"
+"202_02","(;촀\0Oh, mi spiace. Purtroppo la risposta
+è 촀, quindi \0nero\0￿.
+\0( (촀\0Non hai
+indovinato."
+"202_03","(촀\0Capperi! Il seme della carta estratta
+è 촀, quindi \0nero\0￿!
+\0( (촀\0Hai vinto,
+n\0!"
+"202_04","(;촀\0Oh, mi spiace. Purtroppo la risposta
+è 촀, quindi \0rosso\0￿.
+\0( (촀\0Non hai
+indovinato."

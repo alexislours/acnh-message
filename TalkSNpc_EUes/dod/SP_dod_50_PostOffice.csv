@@ -1,0 +1,195 @@
+﻿"label","text"
+"050","(촀\0Oh, ¿quieres enviar una postal?\0\0(2촀\0Eston\0\0
+\0 Por supuesto, peron\0\0
+\0 deberías
+saber que no se me da demasiado
+bien supervisar varias cosas a la vez.
+(&촀\0¿Te importa que cierre las puertas
+mientras nos ocupamos del envío?"
+"050_a","¡Adelante!"
+"050_b","No, déjalas abiertas"
+"051","(촀\0Gracias por tu comprensión.
+\0
+¡Muy bien, cerraré las puertas!"
+"052","(촀\0¡Ya podemos proceder!"
+"070","(&촀\0¿Enviamos una postal entonces?"
+"070_a","¡Sí, por favor!"
+"070_b","Ahora mismo no"
+"080","(촀\0Bien, si quieres enviar una postal,
+\0
+empieza por decirme a quién,
+si eres tan amable.(\0촀"
+"080_a","A alguien de la isla"
+"080_b","A mi futur2oa yo"
+"080_c","Mejor no..."
+"200","(%촀\0¡Recibido! (&촀\0¿A qué residente de
+la isla?"
+"210_01","¿Es para s\0촀? ¡Vale!"
+"210_02","(촀\0¿Para s촀? ¡Entendido!"
+"210_03","Muy bien,
+\0 (촀\0¡2ala la n\0 del futuro!"
+"220_01","(%촀\0Tú elige una postal y escribe
+un mensaje en ella.(촀"
+"220_02","Todo listo. 
+\0¡Aquí tienes tu postal!"
+"290","(촀\0Perdona,
+\0 pero se me acumulan
+las postales y no doy abasto,
+\0
+así que no puedo aceptar más.
+(촀\0Lamento importunarte,
+\0 pero ¿te
+importaría volver más tarde y así
+pongo un poco de orden aquí?"
+"320","( 촀\0¡Anda!
+\0 Pero si hoy ya has enviado
+dos postales a s\0촀.\0\0(\0촀\0Me temo que hasta mañana no
+podrás enviarle ninguna más.
+\0
+(촀\0Disculpa las molestias."
+"400",""
+"401","(촀\0Entonces, ¿a qué fecha del futuro
+enviamos la postal?"
+"402","(&촀\0¿Quieres que se entregue
+el \0Z$촀 de Z#촀 de Z""촀\0￿?"
+"402_a","Exacto"
+"402_b","No, espera"
+"410","¿He metido la pata? Disculpa.
+Indícame la fecha que deseas."
+"415","(%촀\0¡Recibido!
+\0 Peron\0\0
+\0 ( 촀\0¡un momento!
+\0
+¡Si ya tienes una postal preparada
+para 2(el futurola futura n\0!
+()촀\0Si quieres enviar otra postal al
+futuro,
+\0 tenemos que tirar esa
+primero."
+"416","(촀\0Quería devolverte el regalo antes
+de tirar la postal,
+\0(촀\0 pero no tienes
+sitio en los bolsillos.
+\0
+(7촀\0¿Te importaría avisarme cuando
+hayas hecho hueco?(\0촀"
+"420","(%촀\0Bueno, pues ya he reciclado
+la postal.
+\0 (촀\0¿Ya has pensado lo
+que quieres poner en la nueva?"
+"420_01","(%촀\0Entonces descartamos la postal que
+ibas a enviar a tu 2futurofutura yo.\0\0(촀\0Ahora puedes modificar esta postal
+para mandártela a ti 2
+mismo
+misma, en el
+futuro."
+"421","(\0촀\0Muy bien.
+\0(%촀\0 La postal lleva también
+un regalo,
+\0 así que te lo devolveré
+antes de tirarla.(\0촀\0
+(촀\0Venga, 
+\0elige otra."
+"421_01","(\0촀\0Muy bien.
+\0(%촀\0 La postal lleva también
+un regalo,
+\0 así que te lo devolveré
+antes de tirarla.(\0촀\0
+(촀\0Venga,
+\0 ahora puedes modificar esta
+postal para mandártela a ti 2
+mismo
+misma,
+en el futuro."
+"500","Bien, (촀\0ahora solo te queda abonar
+el módico precio de \0200 bayas\0￿
+por el envío."
+"501","(촀\0¡Y listo! Enviaremos la postal lo más
+pronto posible. ¡Gracias por confiar
+en Dodo Airlines!"
+"502","(촀\0¡Y ya está!
+\0 Yo mismo me encargaré
+de enviar la postal el día que has
+indicado."
+"510","(촀\0¡Huy, huy, huy!
+\0 Me temo que no
+te alcanzan las bayas.
+\0 ¡Avísame
+cuando tengas \0200\0￿!
+(촀\0Mientras tanto,
+\0 yo te guardo la
+postal.
+\0(촀\0 ¡Te prometo que no la voy
+a leer!"
+"520","(촀\0¿No lo tienes claro? 
+\0Bueno, entonces
+(%촀\0te guardo la postal por si quieres
+continuar en otro momento."
+"521","(촀\0¿Lo dejas aquí? 
+\0(촀\0Bueno, pues guardo
+lo que has hecho hasta ahora por si
+quieres seguir en otro momento."
+"522","(촀\0Ah, ¿ya no te motiva esa postal?
+\0
+(촀\0¡Recibido!
+\0 
+\0(촀\0Avísame si vuelves a
+necesitar mi ayuda."
+"523","(&촀\0¿Lo dejas por el momento?
+\0 (촀\0¡Ningún
+problema!
+\0 Avísame si te animas
+más tarde."
+"550","($촀\0Ah,
+\0 aquí tienes el objeto que ibas
+a mandar de regalo con la postal."
+"551","(촀\0¡Huy!
+\0 Tenemos un pequeño
+probleman\0\0(\0촀\0\0\0(2촀\0No me queda sitio en la trastienda
+para guardar regalos;
+\0 debo
+devolverte esto."
+"552","(촀\0¡Avísame si me necesitas!"
+"600","(촀\0¿Quieres escribir una postal?\0\0(%촀\0Pues tengo aquí guardada la que habías dejado a medio escribir para s\0촀."
+"601","(촀\0¿Quieres escribir una postal?\0\0(%촀\0Pues tengo aquí guardada la que habías dejado a medio escribir para s촀."
+"602","(촀\0¿Quieres escribir una postal?\0\0(%촀\0Pues tengo aquí guardada la que
+habías dejado a medio escribir para
+tu 2futurofutura yo."
+"604","Bueno, 
+\0retomemos lo de la postal.
+\0
+(\0촀\0Aquí está la que tenías a medias."
+"610","(촀\0Lo siento,
+\0 pero ya no podemos
+enviarle nada a s\0촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
+\0
+¿O prefieres que tiremos la postal?"
+"610_a","Cambio el destinatario"
+"610_b","Tírala, porfa"
+"611","(촀\0Lo siento,
+\0 pero ya no podemos
+enviarle nada a s촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
+\0
+¿O prefieres que tiremos la postal?"
+"611_a","Cambio el destinatario"
+"611_b","Tírala, porfa"
+"620","¿A quién quieres enviar la postal?"
+"620_a","A alguien de la isla"
+"620_b","A mi futur2oa yo"
+"630","(%촀\0Muy bien; pues se va a la papelera.
+¡Aquí se recicla todo!"
+"800","(촀\0¡Gracias por depositar
+tu confianza en Dodo Airlines!"
+"801","(%촀\0De acuerdo. 
+\0Tú avísame cuando
+necesites enviar algo."
+"802","(&촀\0Ah, ¿no necesitas nada?
+\0(촀\0 ¡Entendido!
+¡Avísame si cambias de idea!"
+"803","(촀\0¡Entendido!
+\0 Custodiaré la postal
+hasta el día de la entrega."
+"804","(촀\0¡Recibido!\0\0Dejaré las puertas abiertas,
+\0 pero
+avísame si necesitas más servicios
+postales."

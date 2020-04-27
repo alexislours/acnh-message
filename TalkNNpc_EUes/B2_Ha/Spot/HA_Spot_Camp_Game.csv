@@ -1,0 +1,114 @@
+﻿"label","text"
+"001","(촀\0¡Eh!
+\0 ¿Quieres jugar a un jueguecito
+conmigo?
+\0 (6촀\0Te prometo que esta vez
+no es cuestión de músculos.\0\0(%촀\0Si ganas, puedes quedarte con
+mi }\0\0.
+\0
+($촀\0¿Qué me dices, plusmarquista?"
+"001_a","¡Vamos allá!"
+"001_b","Paso"
+"002","(촀\0¡Así me gusta!
+\0 Bueno,
+\0 ¿quieres que
+te explique las reglas o prefieres
+vivir al límite, n\0?"
+"002_a","¡Explícamelas!"
+"002_b","¡Me gusta el riesgo!"
+"003","( 촀\0Ahn\0\0
+\0 (촀\0Bueno, 2ella que sabe eres tú.
+\0
+(촀\0Avísame cuando quieras jugar,
+n\0."
+"004","(%촀\0¡Pues riesgo tendrás!
+\0 (<촀\0Endurece
+esos abdominales, que allá vamosn"
+"005","(9촀\0¿Quién se llevará la victoriaaa?"
+"006_01","(촀\0¡Así es el juego!
+\0 ¡Felicidades!
+\0
+¡Mi }\0\0 es tuy2촀oa\0!"
+"006_02","(%촀\0¡Juego, 
+\0set
+\0 y partido!
+\0 (촀\0¡Enhorabuena
+para 2F el nuevo campeón""la nueva campeona!\0\0(촀\0¡Para ti para siempre mi flamante
+}\0\0!"
+"006_03","('촀\0Parecía que no iba a pasarn\0\0
+\0 (촀\0¡pero
+he ganado yo!"
+"007_01","(%촀\0Bueno,
+\0 y ahora,
+\0 ¡a las duchas, n\0!"
+"007_03","(촀\0Siempre cabe la revanchan\0\0
+\0
+¡Ahora, a las duchas, n\0!"
+"008","(촀\0¡Así me gusta, plusmarquista!
+\0
+Vale, entoncesn\0\0
+\0( 촀\0 ¡Un momento!
+\0
+Pero si tienes los bolsillos llenosn\0\0
+(촀\0Así no hay manera de que te dé
+mi }\0\0.\0\0(9촀\0Y, si no podemos poner nada
+en juego,
+\0 ('촀\0las competiciones no son
+ni la mitad de interesantes.
+()촀\0Hablamos cuando tengas un poco
+más de espacio, ¿te parece?"
+"100","(""촀\0¡Si quieres reglas,
+\0 las tendrás!\0\0()촀\0Todas las cartas tienen un palo, ¿no?
+\0
+Hay \0corazones (♥)\0￿, \0diamantes (♦)\0￿,
+\0picas (♠)\0￿, y \0tréboles (♣)\0￿.
+(6촀\0Con esto en mente,
+\0 la cosa consiste
+en adivinar de cuál de ellos será la
+próxima carta que salga.
+(\0촀\0Aciértalo y te quedas con mi
+}\0\0.
+\0 ($촀\0¡Así de simple!\0\0(<촀\0¡Venga, que empezamos!"
+"101","(촀\0¡Adivina!
+\0 ¿De qué palo será la carta?"
+"101_a","\0Corazones (♥)\0￿"
+"101_b","\0Diamantes (♦)\0￿"
+"101_c","\0Picas (♠)\0￿"
+"101_d","\0Tréboles (♣)\0￿"
+"102_01","(촀\0¡2\0촀!
+\0 ¡Golazo por toda la escuadra!"
+"102_02","( 촀\02\0촀n\0\0
+\0 (촀\0Y con las mieles
+de la victoria tan cerca como
+las teníasn"
+"200","(""촀\0¡Si quieres reglas,
+\0 las tendrás!\0\0()촀\0Todas las cartas tienen un palo, ¿no?
+\0
+Hay \0corazones (♥)\0￿, \0diamantes (♦)\0￿,
+\0picas (♠)\0￿, y \0tréboles (♣)\0￿.
+(6촀\0Con esto en mente,
+\0 se trata de
+adivinar simplemente si la próxima
+carta es \0roja\0￿ o \0negra\0￿.
+(\0촀\0Aciértalo y será para ti para siempre
+mi }\0\0.
+\0 ($촀\0¡Más fácil, imposible!\0\0¡Vamos allá!"
+"201","(촀\0¡Adivina!
+\0 ¿De qué color crees que
+será la carta?"
+"201_a","\0¡Rojo!\0￿"
+"201_b","\0¡Negro!\0￿"
+"202_01","(촀\0¡Es \0roja\0￿!
+\0 ¡Triplazo desde medio
+campooo!"
+"202_02","( 촀\0Es \0negra\0￿n\0\0
+\0 Cuando la victoria estaba
+tan al alcance de la manon\0\0 y pasa
+esto."
+"202_03","(촀\0¡Es \0negra\0￿!
+\0 ¡Remate de revés y punto
+de partido!"
+"202_04","( 촀\0Es \0roja\0￿n\0\0
+\0 (촀\0Con la victoria a la vuelta
+de la esquinan\0\0 ¡Qué revés,
+n\0!"

@@ -1,0 +1,174 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Heda, 
+\0hier ist s촀!
+\0(
+Ich bin grad mit Packen beschäftigt.
+\0(
+Melde dich wann anders noch mal!\0￿d"
+"001_02","d\0\0Hallo, 
+\0s촀 hier.
+\0(
+Ich stemme grad einen Umzug, 
+\0also
+ruf sonst wann an, nur nicht jetzt.\0￿d"
+"001_03","d\0\0Das hier ist der Anschluss von s촀.
+\0( Ich ziehe um und kann deshalb nicht rangehen!\0￿d"
+"001_04","d\0\0s촀 hier.
+\0 Danke für den Anruf, 
+\0aber ich bin mit Packen beschäftigt!\0￿d"
+"102","<"
+"102_01","(촀\0Wie? 
+\0Ich soll bei euch zelten?
+\0(
+(촀\0Wie der Zufall so will, 
+\0kommt mir
+das gerade recht, 
+\0n\0!"
+"102_02","( 촀\0Ich soll mal auf euren \0Campingplatz\0￿
+kommen?
+\0( (%촀\0Na, 
+\0wenn du sooo nett
+fragst, 
+\0will ich mal nicht so sein."
+"102_03","(%촀\0Hmmm, 
+\0eine Einladung zum Zelten?
+\0(
+(촀\0Na gut!
+\0 Man muss ja auch mal was
+unternehmen, 
+\0n\0."
+"102_04","( 촀\0Ich soll euren \0Campingplatz \0￿unsicher
+machen?
+\0(촀\0 Wie du willst, 
+\0n\0!\0\0(\0촀\0Ich bereite schnell alles vor und
+breche auf.
+\0 (촀\0Aber du kommst dann
+gefälligst auch Hallo sagen!"
+"202","<"
+"202_01","( 촀\0Wie, 
+\0der \0Campingplatz\0￿ auf deiner
+Insel ist ganz toll?
+\0( ((촀\0Muss ich mir dann
+wohl mal ansehen, 
+\0n\0n"
+"202_02","(촀\0Ob ich mir euren \0Campingplatz
+\0￿ansehen möchte?
+\0( (7촀\0Das kommt jetzt
+aber plötzlichn\0\0
+(\0촀\0Aber gut. 
+\0(촀\0In meinem Alter hat man
+ja nichts Wichtigeres mehr zu tun,
+
+\0n\0.
+\0 (촀\0Bwa ha ha ha!"
+"202_03","(%촀\0Verstehe, 
+\0ich soll bei euch zelten.
+\0(
+(\0촀\0Gut, 
+\0wär ja auch mal was anderes.
+\0(
+(%촀\0Dann mach ich mich mal fertig."
+"202_04","(&촀\0Zelten?
+\0 Bei euch?
+\0( (\0촀\0Das könnt was
+werdenn\0\0 
+\0(7촀\0Wenn ich mein Zelt finden
+kann, 
+\0bin ich dabei, 
+\0n\0."
+"301","<"
+"301_01","Hallo, 
+\0n
+\0 am Apparat.
+\0( ( 촀\02\0n\0?
+\0( (&촀\0Irgendwas passiert?"
+"301_02","Hey, 
+\0hier ist n
+\0.
+\0(
+( 촀\02\0n\0?!
+\0( (&촀\0Warum rufst du mich so plötzlich an?"
+"301_03","Hey, 
+\0hier spricht 
+\0n
+\0.
+\0((촀\0
+2\0n\0!
+\0( Was kann ich für dich tun?"
+"301_04","n
+\0,
+\0 was gibt's denn?
+\0(
+( 촀\02\0n\0?
+\0( (\0촀\0Alles in Ordnung bei dir?"
+"302","<"
+"302_01","(촀\0Ich soll auf dem \0Campingplatz
+\0￿zelten?!
+\0( (
+촀\0Hm, 
+\0eine Nacht im Zelt
+könnte meinem Rücken guttun...
+('촀\0Aber nein, 
+\0das riskier ich besser
+nicht. 
+\0Könnte genauso gut noch
+schlimmer werden dadurch.
+(:촀\0Außerdem ist der \0Campingplatz\0￿ für
+Besucher von außerhalb gedacht,
+
+\0n\0!"
+"302_02","(촀\0Ich soll hier auf n	\0 zelten, 
+\0n\0?!\0\0(촀\0...Nee du, lass mal.
+\0 Auf der eigenen
+Insel Urlaub machen, (7촀\0
+\0das ist nichts
+für mich."
+"302_03","( 촀\0Camping auf n	\0?
+\0
+(촀\0Du machst Sachen, 
+\0n\0...
+\0(
+(\0촀\0Kauziger Einfall,
+\0 ('촀\0aber nichts für mich.
+()촀\0Das einzig Gute am Camping ist
+doch, 
+\0dass man fremde Orte sieht.
+\0(
+(촀\0Das würde hier ja wegfallen."
+"302_04","Danke für den Vorschlag,
+\0 (촀\0aber auf
+der eigenen Insel zu zelten klingt
+nicht gerade nach Urlaubsspaß...\0\0(7촀\0Man rennt andauernd den gleichen
+Nasen über den Weg, 
+\0denen man
+doch eigentlich entkommen wollte!\0\0(\0촀\0Nein, 
+\0neinn\0\0
+\0 (%촀\0Wenn ich hier bei uns
+die Natur genießen will, 
+\0kann ich
+auch einfach die Fenster aufmachen."
+"401","<"
+"401_01","(촀\0Hallo, 
+\0n
+\0 hier.
+\0(
+Was kann ich für dich tun?"
+"401_02","(촀\0n
+\0 am Apparat.
+\0(
+Danke für den Anruf.
+\02
+($촀\0n\0\0
+\0Und, 
+\0worum geht's?"
+"401_03","Tag auch, 
+\0hier ist n
+\0.
+\0(
+(7촀\0Womit verdiene ich die Ehre?
+\02
+(&촀\0Hab ich irgendwas verbrochen?"
+"401_04","(촀\0Hier spricht n
+\0, hallo!
+\0( (&촀\0Worum dreht sich's?"

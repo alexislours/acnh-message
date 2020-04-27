@@ -1,0 +1,118 @@
+﻿"label","text"
+"001","Dis, dis,
+\0($촀\0 tu voudrais pas jouer à un
+petit jeu avec moi ?\0\0(\0촀\0Si tu gagnes,
+\0(촀\0 je te donnerai 2\0}\0\0, n\0 !"
+"001_a","D'accord !"
+"001_b","Une autre fois."
+"002","(촀\0Ouais !
+\0 (촀\0Alors, on y va !
+\0(($촀\0 Tu veux que
+je t'explique les règles, n\0 ?"
+"002_a","S'il te plaît."
+"002_b","Ça ira."
+"003","(촀\0Oh, dommagen\0\0 
+\0Mais si tu changes
+d'avis, je suis toujours partant,
+n\0 !"
+"004","D'accord, ça marche !
+\0((<촀\0 D'abord, il faut
+que je mélange bien les cartesn\0\0
+Comme çan"
+"005","(9촀\0Nous allons découvrir la réponsen"
+"006_01","(촀\0Hé hé ! Tu as gagné !
+\0((촀\0 Comme promis,
+voilà 2\0}\0\0 !"
+"006_02","(촀\0Du coup, j'ai perdu !
+\0((촀\0 Bon, une
+promesse est une promesse, voilà
+2\0}\0\0 !"
+"006_03","(촀\0J'ai gagné !
+\02(\0촀\0 Désolé, pas de cadeau
+pour toin\0\0
+\0(2촀\0 Mais je peux te faire un
+câlin, 
+\0si tu veux."
+"007_01","(촀\0Hé hé hé ! On s'est bien amusés,
+hein ?
+\0( Même si j'ai perdu, c'était
+rigolo !
+\0((""촀\0 Faudra recommencer !"
+"007_03","(촀\0Hé hé hé ! J'étais tellement nerveux
+que j'ai oublié de respirer ! 
+\0Il y a trop
+de suspense dans ce jeu !"
+"008","(촀\0Ouais ! Alors, c'est parti !
+\0(\0\0(촀\0Oh ! Euh, en fait, j'avais pas vu à
+quel point tes poches sont pleines.
+\0('촀\0
+Il vaut mieux remettre ça à plus tard.\0\0()촀\0Ce serait trop pas cool si tu gagnais
+mais que tu pouvais pas prendre ton
+prix, tu crois pas, n\0 ?"
+"100","OK !
+\0 Alors voilà les règles, je vais
+essayer de bien expliquer !\0\0()촀\0J'ai quatre cartes, chacune avec
+un symbole différent : \0cœur ♥\0￿, 
+\0carreau ♦\0￿, \0pique ♠\0￿ et \0trèfle ♣\0￿.\0\0()촀\0Je vais en tirer une,
+\0 (%촀\0et il faudra que
+tu devines son symbole.\0\0(\0촀\0Si tu devines juste, tu gagneras
+2\0}\0\0 !\0\0(\0촀\0Mais si tu te trompesn\0\0 hmmn\0\0
+\0 eh
+benn\0\0
+\0 (촀\0Je sais pas ! 
+\0((<촀\0C'est parti !"
+"101","(=촀\0Et voilà ! À ton avis, c'est quoi, le
+symbole sur cette carte ? \0Cœur ♥\0￿,
+\0carreau ♦\0￿, \0pique ♠ \0￿ou \0trèfle ♣\0￿ ?"
+"101_a","\0Cœur ♥ \0￿!"
+"101_b","\0Carreau ♦\0￿ !"
+"101_c","\0Pique ♠\0￿ !"
+"101_d","\0Trèfle ♣ \0￿!"
+"102_01","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0Bravo !
+\0 Bonne réponse !"
+"102_02","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0Dommagen\0\0
+\0 mauvaise réponse !"
+"200","OK !
+\0 Alors voilà les règles, faut pas
+que je me trompen\0\0\0\0()촀\0J'ai quatre cartes, chacune avec
+un symbole différent : \0cœur ♥\0￿, 
+\0carreau ♦\0￿, \0pique ♠\0￿ et \0trèfle ♣\0￿.\0\0()촀\0Je vais en tirer une,
+\0 (%촀\0et il faudra
+que tu devines la couleur de son
+symbole.\0\0(\0촀\0Si tu devines juste, tu gagneras
+2\0}\0\0 !\0\0(<촀\0Alors attentiooooooonn\0\0 
+\0(C'est parti !"
+"201","(=촀\0Tadaaa !
+\02(\0촀\0 Alors, à ton avis,
+\0(;촀\0 est-ce que
+cette carte a un symbole \0rouge\0￿ 
+\0ou un
+symbole \0noir\0￿ ?"
+"201_a","\0Rouge\0￿ !"
+"201_b","\0Noir\0￿ !"
+"202_01","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0C'est \0rouge\0￿ !
+\0 Bonne réponse !"
+"202_02","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0C'est \0noir\0￿n\0\0
+\0 mauvaise réponse !"
+"202_03","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0C'est \0noir\0￿ !
+\0 Bonne réponse !"
+"202_04","C'estn\0\0
+\0 (촀\0un 촀 !
+\0(
+(촀\0C'est \0rouge\0￿n\0\0
+\0 mauvaise réponse !"

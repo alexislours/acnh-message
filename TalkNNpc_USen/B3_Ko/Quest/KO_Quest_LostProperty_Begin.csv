@@ -1,0 +1,198 @@
+﻿"label","text"
+"001","(:촀\0Hey, I was wonderin'n\0\0 I'm pretty
+sure I dropped a pouch of important
+stuff around here.
+\0(&촀\0 You seen it?"
+"001_a","(\0촀\0I'll go look for it!"
+"001_b","Haven't seen it."
+"002","(촀\0You ever drop a pouch filled with
+real important stuff and then
+have to beg a friend to find it?"
+"002_a","(\0촀\0I'll find it for you!"
+"002_b","(\0촀\0Nope, never."
+"003","(촀\02\0n\0! 
+\0Where is it?!\0\0(촀\0I'm talkin' about my special
+pouch, kiddo. 
+\0It's lost!
+\0(촀\0
+And I'm lost without it!"
+"003_a","(\0촀\0I'll go find it!"
+"003_b","(\0촀\0Uh, good luck..."
+"004","(촀\0I'm in a real bag here, kiddon\0\0
+\0
+(	촀\0Whaddaya mean, that's not
+a real expression?!
+(촀\0Anyway, it's relevant, 'cause what
+I'm lookin' for is my special bag!
+\0
+(&촀\0Can you help me find it?"
+"004_a","(\0촀\0Sure, I can do that."
+"004_b","(\0촀\0Sorry. Good luck."
+"006","(촀\0So I was readin' this book that I
+just couldn't put downn\0\0(촀\0and then I
+put it down ONE TIME and it's lost!
+(촀\0I gotta know what happens next!
+\0
+Can you help me find it?"
+"006_a","(\0촀\0Sure, why not?"
+"006_b","(\0촀\0I can't help you now."
+"007","(9촀\0So I was readin' this whodunit
+book and I was JUST about to
+find out who done itn\0\0
+(촀\0'Course I went and left it sittin'
+around somewhere and now I
+can't find it."
+"007_a","(\0촀\0I'll help investigate!"
+"007_b","(\0촀\0I hope you find it!"
+"008","(7촀\0I, uh, seem to have misplaced
+my planner, n\0.\0\0()촀\0Now, it was mostly empty, but I
+did scribble down a great openin'
+line for my noveln"
+"008_a","(\0촀\0I'll go find it!"
+"008_b","(\0촀\0Sorry. Good luck."
+"009","(
+촀\0I can't seem to find my notebookn\0\0
+\0
+(&촀\0Have you seen it around anywhere?\0\0(촀\0It's about yea big and it's filled
+withn\0\0
+\0(촀\0well, never mind what it's
+filled with!"
+"009_a","(\0촀\0I'll go find it for you!"
+"009_b","(\0촀\0I'm sorry."
+"011","(촀\0Whew, that's great. 
+\0(촀\0Just bring it
+straight to me when you find it
+and don't look inside, OK?"
+"012","(!촀\02\0n\0, that's great!\0\0(촀\0I hope you don't have to go out of
+your way, but, uhn\0\0do please search
+every square inch of the island."
+"013","(촀\0You serious?!
+\0 (촀\0Well, that'd be a
+HUGE help!\0\0(&촀\0Would you mind bringin' it straight
+to me as soon as you find it?
+\0
+(촀\0I'm desperate here, n\0."
+"014","(촀\0Wow, thanks a bunch!\0\0(5촀\0I'll just rest easy, then. 
+\0Be sure and
+bring it straight to me when you
+find it, OK? 
+\0('촀\0No questions asked."
+"015","(촀\0Ah, well. 
+\0I guess I'll just
+keep on lookin'n"
+"016","(촀\0Well, I'm sure it'll turn up
+somewhere or anothern"
+"017","(촀\0Gah! 
+\0I can't rest until I've
+found itn"
+"018","(촀\0Well, thanks for that. 
+\0I'm gonna
+need itn"
+"020","( 촀\0Yeah?
+\0 Great! 
+\0(촀\0Bring me anything
+that vaguely fits the description
+just in case, OK?"
+"021","(촀\0Great!
+\0 Now, don't go TOO far outta
+your way, but, uhn\0\0definitely search
+every square inch of this island!"
+"022","(촀\0You serious?
+\0( (4촀\02\0n\0, that
+would be so helpful.\0\0(6촀\0I'll try and write the rest of the
+novel on the clanky ol' typewriter
+in my brain while I waitn"
+"023","(촀\0Wow! 
+\0Thanks a bunch, kiddo.\0\0(9촀\0Now remember, there's no reason
+to look inside. 
+\0('촀\0None."
+"024","(촀\0Ah, well. 
+\0If I don't find it soon,
+I'll just start over. 
+\0(6촀\0It's good
+enough to read twice anyway!"
+"025","(7촀\0Guess this is one mystery I'll
+have to solve myselfn"
+"026","(촀\0If someone else finds that planner,
+finishes the book, and sells the
+movie rights, I'm gonna be furious!"
+"027","(촀\0Well, probably for the best anyway.
+\0
+If that poetry fell into the wrong
+handsn\0\0I meann\0\0
+(촀\0I didn't say poetry! 
+\0You said it!"
+"101","(&촀\0Hey, can I bend your ear for just
+a moment?
+\0(촀\0 I can't find my carryin'
+pouch. 
+\0Have you seen it?
+(촀\0I'm just sick thinkin' that I've
+lost it forevern"
+"101_a","I'll go look for it!"
+"101_b","I haven't seen it."
+"102","(
+촀\0Now where did I drop that pouchn\0\0\0\0(촀\0Yeah, yeah. I shouldn't have dropped
+it in the first place.
+\0 (촀\0But I did, and
+now it's gone forever!"
+"102_a","Maybe I can help..."
+"102_b","Sorry, good luck."
+"103","(촀\0Whoa, you'd do that for me?\0\0(촀\0That'd be a big help. 
+\0
+Much appreciated, kiddo!"
+"104","(촀\0Ah, well. 
+\0My pouch, my problem,
+I suppose. 
+\0(
+촀\0Now where did I drop
+that durned thingn"
+"105","( 촀\0Really?
+\0( (6촀\0Well, that's awfully
+neighborly of you.\0\0(%촀\0Just bring it straight back to me
+if you find it, OK?
+\0 No dillydallying
+or fiddlin' about!"
+"106","(촀\0Yeah, yeah. 
+\0((+촀\0Ooh, all this lookin'
+around is makin' the old neck
+flare up."
+"201","(&촀\0Hey, you're on a walk, right?
+\0((3촀\0
+And you're keepin' your eyes
+open while you walk, right?
+(촀\0Well, how about puttin' them eyes
+to use for me by lookin' for my
+lost planner?"
+"201_a","Sure, I'll look for it."
+"201_b","I can't right now."
+"202","(9촀\0Alright, keep this on the down
+low, would ya?\0\0(촀\0I dropped my planner around here
+somewhere and it's filled with
+my proprietary brainthoughts!
+(촀\0I don't want anyone else readin' 'em!
+\0
+So can you help me find it?"
+"202_a","Sure, I can help."
+"202_b","Sorry, good luck."
+"203","(촀\0Aww, you're the best, kiddo.\0\0(9촀\0Just keep it a secret if you find
+it, OK? 
+\0n
+\0's planner
+is for n
+\0 only!"
+"204","(촀\0I gotcha. 
+\0Your eyeballs are already
+committed to somethin' else.
+\0
+(촀\0Thanks anyway, kiddo."
+"205","(촀\0You serious?
+\0( (촀\0Alright, well, if you
+can keep a secret, then I'd be
+mighty appreciative.
+(촀\0Just bring it on back here with
+your eyes clamped shut, OK?"
+"206","(촀\0Alright, that's probably for the
+best, anyhow. 
+\0(6촀\0With any luck,
+it's already been destroyed."

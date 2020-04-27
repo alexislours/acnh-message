@@ -1,0 +1,168 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Ciao!
+\0 Parla s촀. 
+\0Sto facendo preparativi per il trasloco, non posso rispondere.
+\0 Riprova!\0￿d"
+"001_02","d\0\0Ehi.
+\0 Sei in collegamento con un robot che fa le veci di s촀.
+\0 Non male come invenzione, vero?\0\0Sono uscita per procurarmi un paio
+di cose necessarie al trasloco.
+\0 Dura
+la vita, eh?
+\0 Come me, del resto.\0￿d"
+"001_03","d\0\0Ehi! 
+\0Sono s촀. 
+\0Più o meno.
+\0( Anzi, solo meno!
+\0 Non ci sono proprion\0\0\0\0Sono uscita per procurarmi qualcosa
+per il trasloco. 
+\0Spiacente, ma al
+momento sono molto impegnata!\0￿d"
+"001_04","d\0\0Se stai cercando s촀, allora l'hai trovata!\0\0Anzi, in verità no. 
+\0Sono uscita per
+sbrigare le ultime faccende prima
+del trasloco. 
+\0Mi dispiace per te!\0￿d"
+"102","<"
+"102_01","(&촀\0Eh? 
+\0La tua \0area per campeggio\0￿? 
+\0(촀\0Non
+è pensata malen\0\0
+\0 Magari mi ci vuole
+proprio.
+\0 Va bene, dai.
+\0 Parto subito!"
+"102_02","(&촀\0Come? 
+\0L'\0area per campeggio\0￿?
+\0( (6촀\0Ma sì,
+non male come idea. 
+\0Do una pulitina
+qua e vengo, n\0!"
+"102_03","(
+촀\0La tua \0area per campeggio\0￿? 
+\0Stavo
+giusto pensando di fare vacanza.
+
+\0<(촀\0Arrivo prima possibile, n\0!"
+"102_04","()촀\0Alla tua \0area per campeggio\0￿?
+\0 Ad altri
+avrei detto no.
+\0( (촀\0Ma visto che sei tun\0\0
+\0
+perché no, n\0?"
+"202","<"
+"202_01","(&촀\0Un'\0area per campeggio\0￿, dici?
+
+\02\02\0 n	\0?\0\0(촀\0Non è una brutta idea.
+\0 Un posto
+nuovo,
+\0 facce nuoven\0\0
+\0(%촀\0 Dai, ci sto.
+\0
+Arrivo appena posso, n\0!"
+"202_02","(
+촀\0La tua \0area per campeggio\0￿, eh?
+\0
+Mi sembrerebbe strano accettare
+un invito così senza riflettercin\0\0
+(촀\0Ma perché no?
+\0 A me piacciono
+l'avventura e il divertimento,
+n\0!"
+"202_03","(&촀\0Venire alla tua \0area per campeggio\0￿?
+\0
+Mmmhn\0\0
+\0 Non vado in campeggio da
+una vita.
+\0( (촀\0OK, ci sto, n\0!"
+"202_04","(촀\0La tua \0area per campeggio\0￿?
+\0 Ma sì,
+dai.
+\0 Mai fatto feste sfrenate in tenda!
+\0
+Arrivo al più presto, n\0!"
+"301","<"
+"301_01","(6촀\0Ehi, parla n
+\0!
+\0(
+Oh, n\0,
+\0 sei tu.\0\0(4촀\0Ehmn\0\0
+\0 Tu sai che abito a due
+passi da te e che puoi passare
+quando vuoi, vero?
+\0 (%촀\0OK,
+\0 dimmi tutto."
+"301_02","(9촀\0Oh, ciao.
+\0 Sono n
+\0.
+\0(
+(촀\0Ehi, n\0,
+\0 che c'è?"
+"301_03","Ecco n
+\0, 
+\0la dura del rock!
+\0 ( 촀\0Oh, ciao, n\0.\0\0(2촀\0Ehmn\0\0
+\0 come va?
+\0 Ti serve qualcosa?"
+"301_04","(촀\0Ciao! 
+\0Sono n
+\0!
+\0(
+(%촀\0Ehi, n\0! 
+\0Tutto bene?"
+"302","<"
+"302_01","(:촀\0OK, il campeggio non mi dispiace,
+lo ammetto. (&촀\0Ma perché mai dovrei
+farlo 2\0 n	\0?\0\0(촀\0Se proprio devo andare in un'\0area
+per campeggio\0￿, 
+\0preferisco una da cui
+non si veda casa mia, n\0!"
+"302_02","(&촀\0Vuoi che vada all'\0area per campeggio
+\0￿dell'isola?
+\0( ('촀\0No,
+\0 no e poi
+\0 no.\0\0(촀\0Sarebbe come fare una vacanza in
+giardino. 
+\0((촀\0E a me in vacanza piace
+il brivido dell'ignoto, n\0!"
+"302_03","(&촀\0Eh? 
+\0Perché mai dovrei passare
+le vacanze nella nostra \0area per
+campeggio\0￿, n\0?
+(촀\0Senti, non ho tempo per gli scherzi.
+\0(
+Ho appena riempito la vasca per-
+\0
+( 촀\0Kzzzkzn\0\0
+\0 Non ti sent-
+\0 Kzzkzz!
+\0( (촀\0
+\0Ciao."
+"302_04","(&촀\0Io? 
+\0Vuoi che passi io le ferie alla
+nostra \0area per campeggio\0￿?\0\0('촀\0Mi spiace, non se ne parla proprio.
+
+\0Ho altro da faren\0\0
+\0 (8촀\0\0(2GliLe dico cosa 
+quando ho inventato una scusan\0\0)\0￿"
+"401","<"
+"401_01","(촀\0Ehi, qui n
+\0. 
+\0Che ti serve?"
+"401_02","($촀\0Parla n
+\0."
+"401_03","(%촀\0Sono n
+\0.
+\0 Scusa l'attesa."
+"401_04","(촀\0Sono n
+\0.
+\0 Di nuovo.
+\0
+Senti, se pensi che ion\0\0 (촀\0
+\0Oh!\0\0(2촀\0Scusa. 
+\0Ultimamente qualcuno mi
+fa un sacco di scherzi telefonici.
+\0(
+(촀\0Dai, dimmi. 
+\0Che ti serve?"

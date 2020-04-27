@@ -1,0 +1,255 @@
+﻿"label","text"
+"001","(촀\0Hey, hast du 'ne Minute Zeit?
+\0
+(""촀\0Wie wär's mit einer Schatzsuche?
+
+\0Also Schätze suchen und so?"
+"001_a","Klar!"
+"001_b","Später vielleicht."
+"002","(
+촀\0Ist dir auch langweilig?
+\0 Ich habe
+mir schon alle Bilder in all meinen
+Büchern angeguckt...
+\0 Zweimal sogar!
+(촀\0Hast du vielleicht Lust, 
+\0auf
+Schatzsuche zu gehen?
+\0(촀"
+"002_a","Bin dabei!"
+"002_b","Geht gerade nicht..."
+"003","(촀\0Ich hab da 'ne Idee!
+\0< (촀\0Wie wär's denn
+mit einer kleinen Schatzsuche?"
+"003_a","Klingt gut!"
+"003_b","Jetzt lieber nicht."
+"004","(촀\0Yippie! 
+\0Dann vergrabe ich gleich mal
+irgendwo auf der Insel den Schatz.
+\0
+Warte kurz!"
+"005","(촀\0Wunderbärchen!
+\0( Dann wart mal kurz
+hier und ich vergrabe den Schatz!"
+"006","(%촀\0Fein, 
+\0fein!
+\0<
+(촀\0Dann renne ich gleich mal los und
+vergrabe den Schatz irgendwo!"
+"007","(촀\0Oh!
+\0 Menno, jetzt ist's schon dunkel!
+\0
+(7촀\0Da kann man nichts mehr
+verbuddeln.\0\0(촀\0Aber dann eben ein anderes Mal,
+\0
+n\0!"
+"008","Na gut!
+\0( Dann vielleicht ein andermal,
+(촀\0n\0!"
+"009","(%촀\0Alles klar!
+\0( Dann frag ich dich noch
+mal, wenn du nicht so beschäftigt
+bist, 
+\0n\0!"
+"010","Macht nix. 
+\0(7촀\0Dann quatsche ich jetzt
+mit ein paar Insekten, 
+\0n\0!"
+"011","(촀\0Regeln gibt es eigentlich keine!
+\0(촀\0
+x\0\0\0()촀\0Du musst nur den Schatz finden,
+\0
+bevor die Zeit um ist, 
+\0uuuundn\0\0
+\0
+(촀\0Gewonnen!
+x\0\0\0(촀\0Ich hab den Schatz an der frischen
+Luft verbuddelt! 
+\0('촀\0Brauchst also nicht
+in Häuser gucken... 
+x\0\0\0(촀\0Gut, 
+\0los geht's!
+x"
+"011_01","(촀\0Die Regeln sind echt simpel. 
+\0Klar.
+\0
+Ich habe sie ja auch selbst gemacht.
+\0(촀\0
+´\0\0\0()촀\0Du musst den Schatz finden, 
+\0bevor
+die Zeit um ist. 
+\0(촀\0Schaffst du das,
+\0
+hast du gewonnen!
+\0
+´\0\0\0(촀\0Der Schatz ist in der Erde versteckt.
+\0
+Nicht in Häusern. 
+\0Die meisten Leute
+haben keine Erde in ihren Häusern.
+´\0\0\0(9촀\0Die wissen halt nicht,
+\0 was gut ist.
+´\0\0\0(촀\0Und wichtig! 
+\0Hier spielen nur wir
+beide, klärchen?
+\0 (""촀\0Alle anderen dürfen
+nur zugucken, nicht helfen!
+´\0\0\0Auf die Plätzchen.
+\0 Fertig.
+
+\0(촀\0Loooooooooos!
+´"
+"012","(촀\0Regeln gibt es eigentlich keine!
+\0(촀\0
+x\0\0\0()촀\0Du musst nur den Schatz finden,
+\0
+bevor die Zeit um ist, 
+\0uuuundn\0\0
+\0
+(촀\0Gewonnen!
+´\0\0\0(촀\0Ich hab den Schatz an der frischen
+Luft verbuddelt! 
+\0('촀\0Brauchst also nicht
+in Häuser gucken...
+´\0
+(촀\0Dafür hast du diesmal besonders
+wenig Zeit, 
+\0also beeil dich!
+
+\0((촀\0Gut, 
+\0bist du bereit?
+´"
+"012_01","(촀\0Die Regeln sind echt total leicht!
+\0(촀\0
+x\0\0\0()촀\0Wenn du den Schatz findest,
+\0 bevor
+die Zeit abgelaufen ist,
+\0 (촀\0hast du
+gewonnen! 
+\0Das waren die Regeln!
+´\0\0\0(%촀\0Oh. 
+\0Eine Regel noch. 
+\0Der Schatz ist
+draußen vergraben,
+\0 also schau nicht
+in Häusern oder so.
+´\0\0\0(9촀\0Und außerdem ist das nur unser
+Spiel,
+\0(""촀\0 also darf keiner helfen.
+Du schaffst das auch allein!
+´\0\0\0(촀\0Diesmal hast du weniger Zeit als
+sonst. 
+\0Also hopphopp, und viel
+Glück!
+\0( Und jetzt
+\0 geht's loooooos!
+´"
+"013","Äh,
+\0 (&촀\0kennst du schon die Regeln für
+die Schatzsuche?"
+"013_a","(\0촀\0Nein, lass hören!"
+"013_b","(\0촀\0Ich weiß Bescheid."
+"014","(촀\0Äh, he he he,
+\0 na, 
+\0dann viel Glück!
+\0(
+(촀\0Mach dich bereit, 
+\0n\0!
+´"
+"014_01","(촀\0Äh, he he he,
+\0 na, 
+\0dann viel Glück!
+\0( (\0촀\0Ach ja, 
+\0()촀\0du bist außerdem 2derdie Einzige,
+2derdie den Schatz ausbuddeln kann!
+´\0\0\0(촀\0Also dann!
+\0 Mach dich bereit,
+
+\0n\0!
+´"
+"015","(촀\0Du hast weniger Zeit zum Suchen,
+\0
+also wird's etwas schwieriger!
+\0(
+(촀\0Bereit? 
+\0Viel Glück, 
+\0n\0!
+´"
+"015_01","(촀\0Du hast nicht viel Zeit zum Suchen,
+\0
+also könnte es knifflig werden!
+´\0\0\0(\0촀\0Ach ja, 
+\0()촀\0du bist außerdem die einzige
+Person, die den Schatz ausbuddeln
+darf!
+´\0
+(""촀\0Alle anderen dürfen nur zugucken,
+ja?
+Z\0 (촀\0Also dann,
+\0 hau rein,
+
+\0n\0!
+´"
+"101","(촀\0Oh, n\0!
+\0
+(촀\0Gut, dich zu sehen!
+\0(
+Mir ist sooo langweilig!\0\0(4촀\0Hast du grad Zeit?
+\0 Wir könnten
+was spielen!
+\0< (촀\0
+\0Wie wär's denn mit
+Schatzsuche?"
+"101_a","Aber gern!"
+"101_b","Jetzt passt es nicht..."
+"102","(
+촀\0Ich überlege mir gerade, was ich als
+Nächstes spielen könnte...\0\0(촀\0Na, 
+\0n\0?
+\0(
+(촀\0Lust auf eine Schatzsuche?"
+"102_a","Klingt lustig!"
+"102_b","Danke, aber nein."
+"103","(촀\0Halt! 
+\0(Es ist ja schon dunkel!
+\0( (촀\0Wenn du
+nichts sehen kannst, können wir
+nicht spielen.\0\0Wir müssen das Spiel dann wohl
+verschieben, 
+\0n\0!"
+"104","(촀\0Das ist fein!
+\0(
+(촀\0Dann warte doch bitte mal ganz kurz.\0\0(촀\0Ich vergrabe meinen Schatz
+irgendwo auf der Insel!
+\0
+(6촀\0Du bleibst hier... 
+\0und nicht gucken!"
+"105","(촀\0Okay, 
+\0kein Problem!
+\0(
+Dann ein anderes Mal, 
+\0n\0!"
+"106","(촀\0Menno!
+\0 Ziemlich dunkel, oder?
+\0(
+(촀\0So wird das nix.
+\0 ('촀\0Das müssen wir
+auf ein andermal verschieben."
+"107","(촀\0Yippie!
+\0( Dann vergrabe ich den
+Schatz mal iiirgendwo hier auf
+der Insel...
+
+\0(""촀\0Und du freust dich schon mal
+auf was gaaanz Besonderes,
+
+\0n\0!"
+"108","Okay!
+\0( (촀\0Ein anderes Mal klappt's
+bestimmt!"
+"200","(촀\0Ich hab überall nachgeguckt, aber
+konnte einfach kein gutes Versteck
+finden...\0\0(7촀\0Und ohne Versteck keine
+Schatzsuche. 
+\0(\0촀\0So schade,
+wie das ist..."

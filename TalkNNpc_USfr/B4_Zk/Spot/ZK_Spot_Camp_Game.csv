@@ -1,0 +1,111 @@
+﻿"label","text"
+"001","(8촀\0J'ai un problèmen\0\0 J'adore camper,
+mais je sais jamais quoi faire,
+n\0.
+(촀\0Ah, mais j'ai une idée de malade!
+\0
+On va jouer à un truc!\0\0(6촀\0Si tu gagnes, t'empoches 2D촀mon divinissimema divinissime\0 }\0\0!\0\0Alors, t'en dis quoi?"
+"001_a","OK!"
+"001_b","Plus tard, peut-êtren"
+"002","(촀\0Amazing! 
+\0(
+촀\0Est-ce que je dois
+d'abord t'expliquer les règles?"
+"002_a","Oui, ça vaut mieux!"
+"002_b","Non, c'est bon."
+"003","(촀\0T'as pas envie, c'est ça?
+\0((6촀\0
+Penses-y pour une autre fois!"
+"004","(<촀\0Regarde bien pendant
+que je mélange!"
+"005","(6촀\0Allez, on va voir qui repartira avec
+le gros lotn\0\0
+\0(
+촀\0 et qui repartira avec
+le cœur grosn"
+"006_01","(9촀\0Même si ça m'en coûte, 2\0n\0 tient toujours sa parole.\0\0(촀\0Alors sans rancune et que 2\0}\0\0 t'apporte joie et sérénité!"
+"006_02","(%촀\0T'as gagné à la loyale.
+\0 J'espère que
+2\0}\0\0 te plaira!"
+"006_03","(촀\0Ouais, j'ai gagné!
+\0 Wouhou! 
+\0
+(촀\0Tu repars les mains vides,
+ça t'apprendra à être si maun\0\0
+\0
+(2촀\0Humn\0\0 Sorry, j'm'emporte. 
+\0Je
+voulais diren\0\0
+\0(촀\0 Quelle regrettable
+défaite,
+\0 tu m'en vois navré,
+\0 vraiment.
+(촀\0Mais t'auras p'têt' plus de
+chance la prochaine fois!"
+"007_01","(촀\0J'étais pas trop en forme aujourd'hui.
+La prochaine fois, ça se passera pas
+de même, n\0."
+"007_03","(9촀\0Pour véritablement apprécier
+une victoire, faut connaître
+l'amertume de la défaite.
+(촀\0C'est un service que je te rends, là!"
+"008","(촀\0Très bien, commençons 
+\0(촀\0par un gros
+plan sur ton visage défiguré par
+l'anticipation!\0\0('촀\0Ah, non, coupez, ça va pas du
+tout, là!\0\0(촀\0Comment j'pourrais te donner 2\0}\0\0 si tes poches sont déjà pleines?\0\0Voilà le marché : toi, tu fais le tri,
+et moi(1촀\0n\0\0 Ben moi, j'attends ici!
+"
+"100","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes, et chacune
+comporte un signe : \0♥\0￿, \0♦\0￿,\0 \0￿\0♠ \0￿ou\0 ♣\0￿.
+Y'a pas deux fois le même signe.
+()촀\0Moi, j'prends une carte, et toi,
+t'essaies de deviner son signe.\0\0(촀\0Si tu tombes juste, à toi 2\0}\0\0. (<촀\0Bon, y'a plus qu'à essayern"
+"101","(9촀\0Alorsn\0\0 Quel est le signe de la carte
+dans ma main?\0\0Cœur \0♥\0￿, carreau \0♦\0￿, pique \0♠\0￿
+ou trèfle \0♣\0￿?"
+"101_a","Cœur \0♥\0￿"
+"101_b","Carreau \0♦\0￿"
+"101_c","Pique \0♠\0￿"
+"101_d","Trèfle \0♣\0￿"
+"102_01","\0
+\0(촀\0Et c'est du 촀!
+\0
+	\0\0\0\0d\0d(촀\0T'as deviné juste!\0d"
+"102_02","\0
+\0Hmmn\0\0
+C'était du (촀\0촀!
+\0
+	\0\0\0\0d\0d(촀\0Désolé, n\0.\0d"
+"200","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes en \0♥\0￿, \0♦\0￿,\0 \0￿\0♠ \0￿ou\0 ♣\0￿.
+Y'a pas deux fois le même signe.\0\0()촀\0Moi, j'prends une carte, et toi,
+t'essaies de deviner sa couleur.\0\0(촀\0Donc, si tu m'dis \0rouge\0￿, et que ma
+carte est du \0♥ \0￿ou du \0♦\0￿, tu gagnesn\0\0\0\0Et t'empoches 2@촀mon magnifiquema magnifique\0 }\0\0. (<촀\0Bon, y'a plus qu'à essayern"
+"201","(3촀\0Voilà, j'ai pris une carten\0\0\0\0(&촀\0De quelle couleur est-elle?
+\0
+\0Rouge\0￿n\0\0 ou \0noire\0￿?"
+"201_a","\0Rouge\0￿"
+"201_b","\0Noire\0￿"
+"202_01","\0
+\0(촀\02\0촀!
+
+\0Donc c'est \0rouge\0￿!
+\0(
+	\0\0\0(5촀\0\0dT'as vu juste, n\0."
+"202_02","\0
+\0(촀\02\0촀!
+
+\0(C'est donc \0noir\0￿!
+\0
+	\0\0\0\0d\0d(촀\0Pas de chance, n\0.\0d"
+"202_03","\0
+\0(촀\02\0촀! 
+\0C'est \0noir\0￿!
+\0(
+	\0\0\0(5촀\0\0dT'as vu juste, n\0."
+"202_04","\0
+\0(촀\02\0촀!
+
+\0(C'est donc \0rouge\0￿!
+\0
+	\0\0\0\0d\0d(촀\0Pas de chance, n\0.\0d"

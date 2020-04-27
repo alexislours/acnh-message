@@ -1,0 +1,122 @@
+﻿"label","text"
+"001","(촀\0Hey,
+\0 how do you feel about playing a
+game with me?\0\0My }\0\0 is
+yours if you win!(;촀\0 What do
+you say?!"
+"001_a","I'm in!"
+"001_b","I can't right now..."
+"002","(촀\0Need me to explain the rules?"
+"002_a","Yes, please!"
+"002_b","No, thanks."
+"003","(촀\0Aww, welln\0\0
+\0< (\0촀\0(촀\0Let's try some
+other time, n\0."
+"004","(%촀\0Alright!
+\0(촀\0
+\0 Here we go!
+\0 (<촀\0First, I'm going
+to give these cards a shufflen"
+"005","Andn\0\0let's see what we've gotn"
+"006_01","And, as promised, (""촀\0
+\0here's my
+}\0\0!"
+"006_02","(""촀\0Niiice job!
+\0 Here you go, as promised!
+\0
+2\02\0}\0\0!"
+"006_03","Sorry
+\0, but no present (6촀\0for
+you this time."
+"007_01","(8촀\0Blegh! I won't lose next time!
+\0
+(\0촀\0Treat my }\0\0
+(6촀\0super good, 'K? n\0n"
+"007_03","(촀\0Come back for a rematch
+sometime, n\0!"
+"008","(촀\0Yeeeesss!
+\0 Let's play!
+\0 (;촀\0Hang on.
+\0 Your
+pockets are crazy full.
+\0( (\0촀\0Can you
+please go make some room?
+\0
+(""촀\0It'd stink if you won, but couldn't
+take your prize. I'll hit you up when
+you're ready, n\0."
+"100","Alright, strap yourself in
+for an explanation!\0\0()촀\0
+\0I have four cards, 'K? One each of
+these suits: \0♥heart\0￿, \0♦diamond\0￿,
+\0♠spade\0￿, and \0♣club\0￿.
+Now, 
+\0()촀\0I'm going to draw one card.
+Then you'll guess which suit
+that card is! (촀\0
+\0Legit simple.\0\0(\0촀\0If you guess right,
+\0 (%촀\0then I'll give you
+my }\0\0!\0\0(촀\0That's a one-in-four chance to win.
+Think about how many numbers there aren\0\0 Picking one out of four is easy!\0\0Alright! I'm going to start the ol'
+hyper shuffle as ofn\0\0
+\0(<촀\0
+\0RIGHT NOW!"
+"101","(=촀\0Alright, I've got a card, n\0.
+\0
+(촀\0If this was a TV show, the music
+would get really dramatic right now.\0\0And the camera would push in really
+close on my face. And I'd look at you
+and say, all seriousn\0\0\0\0(9촀\0
+\0""Which suitn\0\0\0♥heart\0￿,\0 ♦diamond\0￿,
+\0♠spade\0￿, or\0 ♣club\0￿(\0촀\0n\0\0do you think
+this cardn\0\0hasn\0\0printedn\0\0on it?""
+(촀\0See? Dramatic!
+\0 Anyhoon\0\0(9촀\0
+\0answer me!"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","(촀\0Iiiiiiiit'sn\0\0
+\0(a 촀! (촀\0
+\0Ohmigosh,
+you got it!"
+"102_02","(촀\0It's a 촀!
+\0 (\0촀\0Oh no,
+(촀\0
+\0wrong guess!"
+"200","Alright, strap in for a quick
+explanation of the rules!\0\0()촀\0
+\0I've got four cards, one each of
+these suits: \0♥heart\0￿, \0♦diamond\0￿,
+\0♠spade\0￿, and \0♣club\0￿.\0\0\0\0￿I'm going to draw one card,
+(""촀\0then you'll guess what color
+the suit is!\0\0(\0촀\0If you guess right,
+\0 (%촀\0I'll give you my
+fab }\0\0!(\0촀\0\0\0(촀\0Sound good?
+\0 Of course it does!
+(<촀\0Let me shuffle these cards till
+they're dizzy andn"
+"201","(=촀\0Ohmigosh! I've drawn one!
+\0 (\0촀\0Now.
+\0
+What color is this card?
+(;촀\0
+\0\0Red\0￿ or \0black\0￿?!"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","n\0\0(촀\0It's a 촀!
+\0 (촀\0That's \0red\0￿!
+\0
+You got it!"
+"202_02","(촀\0It's a 촀!
+\0(\0촀\0 That's \0black\0￿! Sorry,(촀\0
+\0
+but you guessed wrong!"
+"202_03","(촀\0It's a 촀!
+\0 (촀\0That's \0black\0￿!
+You guessed right!"
+"202_04","(촀\0It's a 촀!
+\0(\0촀\0 Aw, it's \0red\0￿! Sorry,
+\0(촀\0
+you guessed wrong!"

@@ -1,0 +1,591 @@
+﻿"label","text"
+"001","(촀\0Oho, 
+\0ein kleiner Plausch über die
+strukturelle \0Gestaltung unserer Insel\0￿,
+\0
+wie?
+\0 Aber immer, 
+\0aber gerne!\0\0(1촀\0Zumal du als 2V&unser Inselsprecher,unsere Inselsprecherin(1촀\0
+ja sowieso genau 24der Richtigedie Richtige
+in Sachen Planung und Co. bist!
+Falls du also mal denkst: 
+\0(촀\0„He,
+\0 also
+das Gebäude hier würde sich dort
+links hinten viel besser machen“n\0\0
+(촀\0Dann nicht verzagen
+\0, Nook befragen!
+\0
+(\0촀\0(9촀\0Für Umgestaltungswünsche bin ich
+nämlich der Waschbär vom Fach!"
+"001_00_01","(촀\0So ein Bauwerk verschiebt man
+natürlich nicht mit einer Pfote, 
+\0(7촀\0also
+kostet die Sache auch ein wenig.
+(\0촀\0Aber wer wird schon jeden Sterni
+umdrehen, 
+\0(""촀\0wenn es um den idealen
+Look für das eigene Inselchen geht!"
+"001_00_02","( 촀\0Falls du deine eigene Behausung
+umverlegen willst,
+\0(%촀\0 dann sprich mich
+einfach auf „\0Mein Zuhause...\0￿“ an!(촀\0
+"
+"001_01","(9촀\0Dann sag doch mal. 
+\0(&촀\0Hättest du denn
+Umverlegungspläne für irgendeines
+unserer schönen Bauwerke?"
+"001_01_a","Ja, hab ich!"
+"001_01_b","Nö, alles hübsch so."
+"002","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"003","(촀\0Verstehe!
+\02(\0촀\0 Aber im Fall der Fälle
+(촀\0sprich mich einfach an 
+\0und verrate
+mir deine Umbauprojekte,
+\0 ja?"
+"004","(&촀\0Doch nicht so recht überzeugt?
+\02(\0촀\0
+Kein Problem!
+\0(촀\0 Ich bin stets für dich
+da,
+\0 falls dich doch die Laune packt!"
+"011","(%촀\0Aha. 
+\0(&촀\0Wessen Haus soll denn an einen
+neuen Standort verlegt werden?"
+"011_01","(촀\0Das Haus von s촀?
+\0(
+Alles klärchen!\0\0(\0촀\0Die Unkosten für die ganze Sache
+betragen \0Z\0\0￿.
+\0(&촀\0 Soll ich mal
+bei s촀 anfragen?"
+"011_01_a","Ja, bitte!"
+"011_01_b","Ich denk drüber nach."
+"012","(촀\0Oho!
+\0 Ein neuer Geschäftsstandort
+für den \0Laden\0￿,
+\0 wie?
+\0 Na,
+\0 das klingt
+doch zauberhaft!
+(\0촀\0Der Preis dafür würde sich auf \0Z\0 \0￿belaufen. 
+\0(&촀\0Möchtest
+du unser Geschäft verlegen?"
+"012_a","Ja, bitte!"
+"012_b","Ich denk drüber nach."
+"013","(촀\0Ui, 
+\0das \0Museum\0￿!
+\0(\0촀\0 Das ließe sich
+einrichten, 
+\0für \0Z\0\0￿. 
+\0(&촀\0
+Willst du es verlegen?"
+"013_a","Ja, bitte!"
+"013_b","Ich denk drüber nach."
+"014","(촀\0Die \0Schneiderei\0￿ also
+\0, ja?
+\0(\0촀\0
+Das würde \0Z\0 \0￿kosten.
+\0
+(&촀\0Möchtest du sie verlegen?"
+"014_a","Ja, bitte!"
+"014_b","Ich denk drüber nach."
+"015","(촀\0Aha,
+\0 der \0Campingplatz\0￿ also!
+\0(\0촀\0
+Das würde \0Z\0 \0￿kosten.
+\0
+(&촀\0Na,
+\0 soll der Platz verlegt werden?"
+"015_a","Ja, bitte!"
+"015_b","Ich denk drüber nach."
+"021","(""촀\0Aber sicher doch!
+\0 Mit Freuden!\0\0(촀\0Dann wollen wir rasch mal hören,
+\0
+was s촀 so denkt.
+\0(
+(\0촀\0Nur ein Sekündchen bitten"
+"022","(""촀\0Aha,
+\0 aha!
+\0 Gut,
+\0 gut!\0\0(촀\0Fragen wir mal \0Nepp \0￿und \0Schlepp\0￿,
+\0
+was die beiden davon halten.
+\0((\0촀\0 Nur ein
+kleines Momentchen Geduld bitten"
+"023","(""촀\0So,
+\0 so.
+\0 Ja,
+\0 ja!\0\0(촀\0Ich will rasch den guten \0Eugen
+\0￿fragen,
+\0 ob ihm die Sache zusagt.
+\0((\0촀\0
+Nur einen Augenblick bitten"
+"024","(""촀\0Jawoll,
+\0 jawoll! 
+\0So,
+\0 so!\0\0(촀\0Ich frage mal kurz \0Tina\0￿, 
+\0ob ihr der
+Gedanke zusagt.
+\0((\0촀\0 Einen Moment nur
+bitte,
+\0 es dauert gar nicht langen"
+"025","(촀\0Vorzüglich.
+\0 Ich freue mich!
+\0(
+(\0촀\0Dann müsstest du nur (촀\0den neuen Ort
+für den \0Campingplatz \0￿aussuchen."
+"026","(\0촀\02\02\0\0}\0\0 \0￿in deiner Tasche sollte dir helfen,
+\0 die Sache über die Bühne zu bringen.\0\0(촀\0Hab ich soeben hineingezaubert!
+\0
+Einfach einen hübschen Ort suchen,
+\0
+benutzen,
+\0 glücklich sein!"
+"031","(촀\0Jawohl,
+\0 jawohl!
+\0 Ganz vorzüglich,
+\0
+dann will ich mal raschn\0\0\0\0(촀\0Na so was!
+\0 Da fehlen dir aber die
+nötigen Sternis, 
+\0n\0!
+\0
+(촀\0Du bist nicht liquide,
+\0 nein,
+\0 nein!\0\0(\0촀\0Also,
+\0 für einen feuchten Pfotendruck
+arbeitet hier leider keiner,
+\0 Pardon.
+\0
+(""촀\0Komm wieder,
+\0 wenn du Sternis hast!"
+"032","(촀\0Nanu! 
+\0Was seh ich da?
+\0(촀\0
+Deine Tasche ist ja leider randvoll,
+
+\0n\0.\0\0(\0촀\0()촀\0Ich müsste dir da nämlich etwas
+Bestimmtes geben,
+\0 damit die Sache
+auch funktioniert.
+(촀\0Komm doch bitte wieder,
+\0 wenn du
+ein wenig Platz in der Tasche hast. 
+\0
+Dann versuchen wir's noch mal,
+\0 ja?"
+"033","(
+촀\0Hm. 
+\0s촀 ist ja erst vor Kurzem hergezogen.
+\0 Und dann gleich wieder umziehen?
+\0 Ich weiß ja nichtn\0\0\0\0()촀\0Ob wir nicht etwas warten sollten?
+\0
+Dann kann 2ersie sich auch ein wenig
+bei uns einleben und so.
+(촀\0Warte doch ein paar Tage,
+\0 ja?
+\0
+Dann steht der Sache ganz bestimmt
+nichts mehr im Wege!"
+"034","(
+촀\0Puhn\0\0
+\0 Weißt du,
+\0 s촀 will ja sowieso demnächst wegziehen undn\0\0
+\0 Na jan\0\0\0\0()촀\0Wir sollten 2ihmihr da nicht noch mit
+einem Umzug das Leben schwer
+machen,
+\0 findest du nicht auch?
+(\0촀\0Aber wenn du ein anderes Gebäude
+verlegen möchtest,
+\0(촀\0 dann können
+wir das sehr gern besprechen!"
+"034_01","(촀\0Klingt gutn\0\0
+\0 Aber warte mal kurz.
+\0
+(촀\0Kennst du überhaupt schon deine
+Nachbarn, 
+\0n\0?
+(\0촀\0Du bist zwar 2<InselsprecherInselsprecherin,
+\0(%촀\0 aber
+bevor du wichtige Entscheidungen
+triffst, 
+\0solltest du alle kennenlernen.\0\0(촀\0Du wärst sicher auch nicht glücklich,
+\0
+wenn irgendein Unbekannter deine
+Wohnsituation bestimmt, 
+\0hm?
+(""촀\0Komm danach noch mal zu mir und
+wir bereden, 
+\0wer wohin ziehen soll."
+"035","(
+촀\0Hmn\0\0
+\0 Die beiden scheinen gerade
+ganz mit Renovierungsarbeiten
+beschäftigt zu seinn\0\0
+(촀\0Fleißige Kerlchen,
+\0 ja,
+\0 ja!
+\0
+Lass uns die Sache doch noch mal
+besprechen,
+\0 wenn sie fertig sind!"
+"051","()촀\0So stehen die Dinge also, 
+\0ja, ja.
+\0(
+(촀\0Nun, 
+\0s촀...\0\0(&촀\0Möchtest du an die Stelle ziehen,
+\0
+die n\0 für dich aussucht?"
+"052","(촀\0n\0\0Also, \0s촀\0￿.
+\0
+(&촀\0Zufrieden mit dem Umzugsvorschlag
+von n\0?"
+"053","(촀\0\0Eugen\0￿,
+\0 mein Bestern\0\0
+\0
+Sagt dir (&촀\0der Umzugsvorschlag
+von n\0 zu?"
+"054","(촀\0Dann sag doch mal,
+\0 \0Tina\0￿n\0\0
+
+\0Gefällt dir (&촀\0der Umzugsvorschlag
+von n\0?"
+"061","(촀\0Klar doch!
+\0( 2\0n\0 findet
+bestimmt (촀\0den besten Standort aller
+Zeiten für unser Geschäft!
+\0 Juhu!"
+"062","(촀\0Aber jederzeit!
+\0 (촀\0In bessere Hände
+könnte man die Standortwahl für
+unser Haus der Kultur kaum legen!"
+"063","(촀\0Gern doch,
+\0 wieso nicht?
+\0((촀\0 \0Sina \0￿und ich
+sind schon ganz gespannt auf den
+neuen Standort, 
+\0n\0."
+"071","(%촀\0Vortrefflich.
+\0 Dann ist ja alles klar!
+\0
+(촀\0Dann kümmern n\0 und ich uns um den Rest,
+\0 ja?"
+"081","(촀\0So,
+\0 n\0. 
+\0
+Der Plan steht,
+\0 dann lass uns nun
+rasch noch die Bezahlung erledigen."
+"082","(촀\0Als Nächstes müsstest du ein
+lauschiges Plätzchen für das Haus
+von s촀 finden.
+(%촀\0In deiner Tasche findest du ein
+praktisches \0Umzugskit\0￿,
+\0 das ich dir
+zu diesem Zwecke überreicht habe.
+(촀\0Damit spazierst du einfach dorthin,
+\0
+wo das Haus stehen soll,
+\0 und setzt
+es dann ein!"
+"082_01","(촀\0Als Nächstes müsstest du nun einen
+neuen Standort finden. 
+\0Dabei hilft dir
+eine Kleinigkeit von mir, 
+\0und zwarn\0\0
+(%촀\0...2\02\0}\0\0!
+\0
+Hab ich dir soeben in die Tasche
+gezaubert. (촀\0
+\0Clever,
+\0 oder?
+Damit marschierst du einfach
+zu dem neuen Standort,
+\0 dann
+einmal Einsetzen
+\0 – und voilà!"
+"1000","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1000_a","Wohnhaus..."
+"1000_b","Laden..."
+"1000_c","Nicht jetzt..."
+"1001","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1001_a","Wohnhaus..."
+"1001_b","Laden..."
+"1001_c","Museum..."
+"1001_d","Nicht jetzt..."
+"1002","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1002_a","Wohnhaus..."
+"1002_b","Laden..."
+"1002_c","Schneiderei..."
+"1002_d","Nicht jetzt..."
+"1003","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1003_a","Wohnhaus..."
+"1003_b","Laden..."
+"1003_c","Campingplatz..."
+"1003_d","Nicht jetzt..."
+"1004","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1004_a","Wohnhaus..."
+"1004_b","Laden..."
+"1004_c","Museum..."
+"1004_d","Schneiderei..."
+"1004_e","Nicht jetzt..."
+"1005","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1005_a","Wohnhaus..."
+"1005_b","Laden..."
+"1005_c","Museum..."
+"1005_d","Campingplatz..."
+"1005_e","Nicht jetzt..."
+"1006","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1006_a","Wohnhaus..."
+"1006_b","Laden..."
+"1006_c","Schneiderei..."
+"1006_d","Campingplatz..."
+"1006_e","Nicht jetzt..."
+"1007","Oha!
+\0(&촀\0 Und was genau hattest du
+da im Sinn,
+\0 hm?"
+"1007_a","Wohnhaus..."
+"1007_b","Laden..."
+"1007_c","Museum..."
+"1007_d","Schneiderei..."
+"1007_e","Campingplatz..."
+"1007_f","Nicht jetzt..."
+"101","Hm,
+\0 hm, 
+\0ja, 
+\0ja. 
+\0Momentan bräuchten
+wir einen neuen Standort für das
+Haus von s촁.
+(&촀\0Wüsstest du denn ein nettes
+Plätzchen?"
+"101_a","Lassen wir es stehen!"
+"101_b","Ich suche noch..."
+"102","Hm,
+\0 hm, 
+\0jawoll, 
+\0jawoll. 
+\0
+Momentan bräuchten wir einen
+neuen Standort für unseren \0Laden\0￿.
+(&촀\0Hättest du da vielleicht ein
+geeignetes Fleckchen im Sinn?"
+"102_a","Stehenlassen!"
+"102_b","Ich suche noch..."
+"103","Hm,
+\0 hm, 
+\0so, 
+\0so. 
+\0Momentan suchen
+wir einen neuen Standort für unser
+schönes \0Museum\0￿.
+(&촀\0Ist denn alles in Ordnung,
+\0
+wenn man fragen darf?"
+"103_a","Stehenlassen!"
+"103_b","Ich suche noch..."
+"104","Jawoll,
+\0 jawoll, 
+\0aha, 
+\0aha.
+\0
+Momentan suchen wir nach einem
+neuen Standort für die \0Schneiderei\0￿.
+(&촀\0Ist denn alles in Ordnung,
+\0
+wenn man fragen darf?"
+"104_a","Stehenlassen!"
+"104_b","Ich suche noch..."
+"105","Ja,
+\0 ja, 
+\0so, 
+\0so.
+\0
+Momentan suchen wir nach einem
+neuen Ort für den \0Campingplatz\0￿.
+(&촀\0Ist denn alles in Ordnung,
+\0
+wenn man fragen darf?"
+"105_a","Stehenlassen!"
+"105_b","Ich suche noch..."
+"111","(&촀\0Huch!
+\0 Kein Glück bei der Suche?
+\0
+Magst du die Sache(%촀\0 vielleicht
+auf ein andermal verschieben,
+\0 ja?
+(\0촀\0Gut,
+\0 dann nehme ich das Kit einfach
+wieder zurück,
+\0 (촀\0und du bekommst die
+Sternis wieder, 
+\0die du gezahlt hast!"
+"112","Ich sage s촁 Bescheid, 
+\0dass der Umzug flachfällt.
+\0
+Keine Sorge,
+\0 nichts für ungut!"
+"112_01","Und keine Sorge wegen\0 Eugen\0￿.
+\0
+Ich erkläre ihm,
+\0 dass kein Umzug
+stattfindet.
+\0 Das versteht er schon!"
+"112_02","Und keine Sorge wegen \0Nepp\0￿ und
+\0Schlepp\0￿. 
+\0Ich sag ihnen,
+\0 dass der
+Umzug erst mal abgeblasen ist."
+"112_03","Und \0Tina\0￿ sage ich auch Bescheid.
+\0
+Die Gute wird sicher verstehen,
+\0 dass
+es gerade schlecht passt mit Umzug."
+"112_04","(촀\0Sollte dir dann doch ein guter Ort
+ins Auge fallen,
+\0(""촀\0 meld dich einfach
+bei mir und wir reden weiter!"
+"113","(촀\0Aha,
+\0 dann will ich dich mal nicht
+aufhalten!
+\0((\0촀\0 Teil mir einfach den neuen
+Ort mit (촀\0und ich erledige den Rest!"
+"113_01","(촀\0Aha,
+\0 dann mal frohes Suchen!
+\0((\0촀\0
+Teil mir einfach den neuen Ort mit
+(촀\0und ich kümmere mich um den Rest!"
+"501","(촀\0Oje.
+\0 Tut mir schrecklich leid, 
+\0
+(\0촀\0
+aber dein Umzug('촀\0 nimmt mich gerade
+voll und ganz in Beschlagn"
+"502","(촀\0Oje.
+\0 Verzeih mir, 
+\0
+(\0촀\0aber der Umzug
+von s촁('촀\0 nimmt mich gerade voll und ganz in Beschlagn"
+"503","(촀\0Oje.
+\0 Ich bin untröstlich, 
+\0aber mit dem
+Umzug des \0Ladens \0￿habe ich derzeit
+\0(촀\0
+alle Pfoten voll zu tun,
+\0 weißt du?"
+"504","(촀\0Oje.
+\0 Pardon, 
+\0aber mit dem Umzug
+des \0Museums \0￿habe ich derzeit
+\0(촀\0 alle
+Pfoten voll zu tun,
+\0 verstehst du?"
+"505","(촀\0Oje.
+\0 Pardon, 
+\0aber mit dem Umzug
+der \0Schneiderei \0￿habe ich derzeit
+\0(촀\0
+alle Pfoten voll zu tun.
+\0 Bedaure!"
+"506","(촀\0Oje.
+\0 Gerade ist leider schlecht.
+\0
+Ich bin (촀\0ganz mit der Verlegung des
+\0Campingplatzes \0￿beschäftigt!"
+"511","(촀\0Sei mir nicht böse, 
+\0aber der Umzug
+von s\0촀 nimmt mich gerade voll und ganz in Beschlagn"
+"512","(촀\0Es geht gerade nicht so gut, leider!
+\0
+
+2\0s\0촀 wollte ja,
+\0(\0촀\0 dass s촁 umziehtn\0\0\0\0Da stecke ich momentan
+bis zu den Tasthaaren in Arbeit!
+\0
+Sei mir nicht böse,
+\0 ja?"
+"513","(촀\0Verzeihung,
+\0 aber auf Anfrage von
+s\0촀 soll der (\0촀\0\0Laden
+\0￿ja gerade umziehen,
+\0 undn\0\0
+(촀\0Nun ja,
+\0 ich bin zwar ein Ausbund der
+Behilflichkeit,
+\0 aber zweiteilen kann
+ich mich leider noch nicht.
+\0 Bedaure!"
+"514","(촀\0Verzeihung,
+\0 aber auf Anfrage von
+s\0촀 soll das (\0촀\0\0Museum
+\0￿ja gerade umverlegt werden,
+\0 undn\0\0
+(촀\0Nun ja,
+\0 ich schlage sonst ja KEINEM
+einen Wunsch ab,
+\0 aber zweiteilen
+kann ich mich leider nicht.
+\0 Bedaure!"
+"515","(촀\0Verzeihung,
+\0 aber auf Anfrage
+von s\0촀 zieht die (\0촀\0\0Schneiderei \0￿ja gerade um,
+\0 undn\0\0
+(촀\0Nun ja,
+\0 leider kann ich mir stets nur
+für einen Kunden Zeit nehmen.
+\0
+Bitte nimm's mir nicht übel!"
+"516","(촀\0Verzeihung,
+\0 aber auf Anfrage
+von s\0촀 wird der (\0촀\0\0Campingplatz\0￿ gerade umverlegtn\0\0
+(촀\0So was beschäftigt selbst den
+emsigsten Waschbären vollauf.
+\0
+Ein andermal, 
+\0ja?
+\0 Und entschuldige!"
+"521","\0Morgen \0￿ist die Sache auf jeden Fall
+abgeschlossen.
+\0 (촀\0Dann bin ich für alle
+Anliegen zu haben,
+\0 versprochen!"
+"521_01","Die Sache ist allerfrühestens morgen
+abgeschlossen.
+\0 (촀\0Sprich mich doch (""촀\0ein
+andermal an,
+\0 wie wär's?"
+"521_02","Falls du heute einen Ort findest,
+\0
+sollte die Sache schon \0morgen\0￿
+komplett abgeschlossen sein.
+(촀\0Und dann können wir alles andere
+besprechen,
+\0 was dir so auf dem
+Herzen liegt.
+\0 Ich freu mich!"

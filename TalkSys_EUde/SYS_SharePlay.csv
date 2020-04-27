@@ -1,0 +1,64 @@
+﻿"label","text"
+"002","Es scheinen gerade keine Bewohner
+zum Spielen verfügbar zu sein."
+"003","Bitte wähle die Bewohner, mit
+denen du spielen möchtest."
+"003_f","Doch nicht..."
+"006","Du spielst gerade schon mit anderen
+Leuten. 
+\0Was möchtest du tun?"
+"006_01","Du spielst gerade schon mit einem
+anderen Bewohner. 
+\0Was möchtest
+du tun?"
+"006_01_a","Anführer wechseln"
+"006_01_b","Schluss machen"
+"006_01_c","(\0촁\0Speichern & beenden"
+"006_01_d","Anleitung lesen"
+"006_01_e","(\0촁\0Weiterspielen"
+"006_a","Anführer wechseln"
+"006_b","Schluss machen"
+"006_c","Bewohner neu wählen"
+"006_d","(\0촁\0Speichern & beenden"
+"006_e","Anleitung lesen"
+"006_f","(\0촁\0Weiterspielen"
+"007","2\0s\0촀, bitte drücke
+\0 + \0￿ (oder \0 + \0￿) gleichzeitig.
+"
+"008","Es wurde kein Controller verbunden.
+\0
+Die Sitzung wird vorerst beendet.
+Ĭ"
+"009","Konntest du keinen Controller für
+s\0촀 verbinden?"
+"009_a","Neu verbinden"
+"009_b","Andere Option"
+"010","Es gab ein Problem mit der
+Controller-Verbindung
+\0.
+Die Sitzung wird vorerst beendet.
+Ĭ"
+"011","Controller verbunden.
+\0 Viel Spaß!"
+"013","Du kannst keine anderen Bewohner
+anrufen, während das Netzwerkspiel
+aktiv ist."
+"014","Allein kannst du nicht mit nur einem
+Joy-Con spielen. 
+\0Bitte verbinde
+einen Controller.
+´"
+"016","Der Anführer kann im Moment nicht
+gewechselt werden."
+"017","Du kannst im Moment niemanden
+anrufen."
+"018","Kein Netz.
+Dieser Service steht dir nur auf
+deiner eigenen Insel zur Verfügung."
+"019","Bitte wähle die Inselbewohner, mit
+denen du spielen möchtest.\0\0\0\0Du kannst nicht mit Inselbewohnern
+spielen, deren Nutzerdaten von der
+Konsole gelöscht wurden.\0￿"
+"020","Du kannst jetzt niemanden anrufen.\0\0\0\0Du kannst nicht mit Inselbewohnern
+spielen, deren Nutzerdaten von der
+Konsole gelöscht wurden.\0￿"

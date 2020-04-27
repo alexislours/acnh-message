@@ -1,0 +1,137 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0¡Hola!
+\0 ¡Soy s촀!
+\0
+Estoy mudándome,
+\0 ¡y por eso
+no puedo hablar ahora contigo!\0￿d"
+"001_02","d\0\0Hola, soy s촀.
+\0
+Ahora estoy haciendo mis maletas,
+así que hablamos luego.\0￿d"
+"001_03","d\0\0¡Holap, soy s촀!
+\0
+Estoy haciendo mis maletas,
+así que no puedo hablar ahora.\0￿d"
+"001_04","d\0\0¡Hola, soy s촀!
+\0
+No puedo hablar porque estoy
+haciendo mis maletas.
+\0 ¡Je, je, je!\0￿d"
+"102","<"
+"102_01","(%촀\0Sí, claron\0\0
+\0 (촀\0¡Me encanta la idea!
+\0
+¡Claro que me apunto a ir
+a la \02\0Ȃ촄zona de campamento \0￿de tu isla!
+(""촀\0¡Nos vemos pronto, n\0!"
+"102_02","(촀\0¡Uy!
+\0 ¡¿Acampar?!
+\0 (촀\0¡Pues claro!
+¡Me encanta tu isla, n\0!"
+"102_03","¿Acampar, dices?
+\0 ¿Hay insectos?\0\0(%촀\0Porque los insectos me caen muy
+bienn\0\0 Siempre cuentan cosas interesantes.
+(""촀\0¡Me encanta ir a \0acampar\0￿, n\0!"
+"102_04","(촀\0¿Eh?
+\0 ¿Que vaya a la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0 (촀\0¡Sí!
+\0 ¡Estaré
+allí antes de lo que querías!"
+"202","<"
+"202_01","( 촀\0¿Quieres que nos veamos
+en la \0zona de campamento\0￿?
+\0
+(촀\0¡Suena bien!
+\0 ¡Allá voy!"
+"202_02","(촀\0¿Me estás invitando a ir a \0acampar\0￿?
+\0
+¿A tu isla?
+\0 (촀\0¡Eso suena genial!"
+"202_03","(%촀\0¿Quieres que nos veamos en
+la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0
+(촀\0¡Sí quiero ir, n\0!"
+"202_04","( 촀\0¿Que vaya a la \02\0Ȃ촄zona de campamento \0￿de tu isla?
+\0 (촀\0Claron\0\0\0\0¡Espérame, que ya voy,
+n\0!"
+"301","<"
+"301_01","¡Alóóó, n
+\0 al ""tueléfono""!
+\0 (촀\0¿Eh?
+\0
+¿2\0n\0?
+\0 ¿Qué pasa?"
+"301_02","¡Holap, soy n
+\0!
+\0
+(촀\0Ah, n\0.
+\0 (3촀\0¿Me llamas para contarme un secretito?"
+"301_03","¡Hola!
+\0 ¡n
+\0 hablando!
+\0
+(촀\0¡Ah, n\0!
+\0
+¡Cuéntame qué cuentas!"
+"301_04","¡Hola!
+\0 ¡Estás hablando
+con un n
+\0!\0\0(촀\0¿2\0n\0?
+\0
+¡Dime qué pasa!"
+"302","<"
+"302_01","¿Quieres que vayamos a acampar?
+\0
+( 촀\0¡¿A n	\0?!
+\0
+No lo sé, no lo sén\0\0
+(8촀\0Mejor no, si no luego las visitas de
+verdad no podrán quedarse en la
+\02\0Ȃ촄zona de campamento\0￿, n\0n"
+"302_02","(촀\0¿Que quieres que vayamos
+a \0acampar\0￿?
+\0 (촀\0¡Pues vamos!
+\0
+¿Y adónde?
+(촀\0¡¿A n	\0?!
+\0 (
+촀\0Eeehn\0\0
+('촀\0No, gracias.
+\0 (촀\0Para quedarme a dormir
+en esta isla, prefiero mi camita."
+"302_03","(%촀\0¿Quieres que vaya a la \02\0Ȃ촄zona de campamento \0￿de nuestra isla?\0\0($촀\0¿Para conocer gente allí?
+\0
+(촀\0¡¿Y pasar la noche también allí?!\0\0()촀\0Ya sé qué tan fresco es el aire fresco
+de por aquí, así que no quieron\0\0
+(;촀\0¡Gracias!"
+"302_04","( 촀\0¿Eh?
+\0 ¿Que quieres que acampemos en la isla?
+\0 (촀\0¿Dormir en la \02\0Ȃ촄zona de campamento \0￿teniendo casa aquí?\0\0(
+촀\0Mmmn\0\0
+\0 Ya me confundí, así que voy a
+decirte que non"
+"401","<"
+"401_01","¡Hola, soy n
+\0!
+\0
+(촀\0¿Qué puedo hacer por ti?"
+"401_02","(촀\0¡Hola,
+\0 n
+\0 hablando, cambio!
+\0 Gracias por llamarn\0\0
+\0 Uy, ya
+sé que mi teléfono funciona.
+¿Querías algo?"
+"401_03","(""촀\0Hola, soy n
+\0n\0\0
+\0
+(촀\0Si llamaste, es porque necesitas
+algo, ¿verdad?"
+"401_04","(촀\0Hola, n
+\0 aquí.
+\0
+($촀\0Me encanta recibir llamadas, y más
+si eres tú.
+\0 (&촀\0¿Querías algo?"

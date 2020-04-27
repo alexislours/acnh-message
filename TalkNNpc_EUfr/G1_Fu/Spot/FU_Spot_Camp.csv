@@ -1,0 +1,329 @@
+﻿"label","text"
+"001","<"
+"001_01","(촀\0Tu viens souvent sur l'île ?
+\0(
+Je te comprends.
+\0 (촀\0C'est si joli ici,
+\0
+n\0."
+"001_02","(촀\0Je ne suis pas la seule à avoir eu
+l'idée de venir,
+\0 n\0
+\0n\0\0 (촀\0C'est une destination populaire !"
+"001_03","(&촀\0Tu as un endroit à me recommander
+sur l'île, n\0 ?\0\0(4촀\0Le \0camping \0￿est sympa, mais on en a
+vite fait le tour
+\0n"
+"002","<"
+"002_01","(촀\0Tu viens souvent sur l'île ?
+\0(
+Je te comprends.
+\0 (촀\0C'est si joli ici,
+\0
+n\0."
+"002_02","(촀\0Je ne suis pas la seule à avoir eu
+l'idée de venir,
+\0 n\0
+\0n\0\0 (촀\0C'est une destination populaire !"
+"002_03","(&촀\0Tu as un endroit à me recommander
+sur l'île, n\0 ?\0\0(4촀\0Le \0camping \0￿est sympa, mais on en a
+vite fait le tour
+\0n"
+"002_04","(촀\0C'est quelqu'un de l'île qui m'a
+invitée à venir camper ici, n\0.\0\0(4촀\0J'essaie de me fondre dans le
+décorn\0\0
+\0 Je ne fais pas trop
+touriste ?"
+"002_05","()촀\0Quelqu'un de l'île m'a invitée à venir
+passer quelques jours au camping
+\0n\0\0
+\0
+(%촀\0Ça ne se refuse pas !\0\0(촀\0Qu'est-ce qu'on est bien ici, n\0 !"
+"003","<"
+"003_01","()촀\0Quand on campe, on a pas son petit
+confort,
+\0 mais c'est justement ce qui
+fait le charme du camping, non ?
+(%촀\0On se rend compte qu'on peut se
+passer de tout un tas de choses,
+\0
+n\0.\0\0(촀\0Et en l'absence de distractions,
+on apprend à apprécier ce qui
+nous entoure au centuple !"
+"003_02","(촀\0Tu te plais bien à n\0,
+
+\0n\0 ?\0\0(4촀\0Je viens de décider de m'installer
+ici,
+\0 (촀\0et je commence seulement à
+réaliser tout ce que ça implique.
+(촀\0Le changement me fait peur, mais je
+suis prête à relever le défi."
+"003_03","(1촀\0Au \0camping\0￿, on échappe à la
+routine,
+\0 n\0
+\0n\0\0\0\0(8촀\0Mais maintenant que j'ai décidé de
+m'installer ici pour de bon,
+\0 (촀\0j'ai peur
+que la routine reprenne le dessus !"
+"101","<"
+"101_01","(""촀\0Tu habites sur l'île ?
+\0( (촀\0C'est un vrai
+petit paradis
+\0 ici !\0\0( 촀\0Mais où sont passées mes
+manières ?
+\0 (4촀\0Je suis désoléen\0\0
+\0 je
+m'appelle n
+\0.\0\0(촀\0Je compte profiter un max de
+ce séjour, n\0 !"
+"101_02","(""촀\0Hola !
+\0 Tu es du coin ?
+\0( (촀\0Tu en as de
+la chance.
+\0 Moi je suis de passage.
+\0
+(촀\0Je m'appelle n
+\0.\0\0(촀\0J'ai un programme très chargé !
+\0
+(1촀\0Relaxation,
+\0 farnienten\0\0(촀\0 Hi hi,
+\0
+la vie est dure, n\0n"
+"101_03","(""촀\0Hello, je m'appelle n
+\0.
+\0 (\0촀\0Je loge au \0camping \0￿!
+\0( (&촀\0Et toi ?\0\0Tu habites l'île, n\0 ?\0\0(%촀\0Ça doit être la patte,
+\0 de vivre icin\0\0
+(촀\0Est-ce que tout le monde est aussi
+gentil que toi ?"
+"201","<"
+"201_01","(""촀\0J'adore cette île !
+\0( Merci de m'avoir
+invitée.\0\0(5촀\0J'y suis, j'y reste !
+\0 (촀\0Je plaisanten\0\0
+
+\0Si seulement c'était aussi simple,
+\0
+n\0."
+"201_02","(""촀\0Merci pour l'invitation !
+\0( (촀\0On ne peut
+pas rêver meilleur emplacement
+pour un \0camping\0￿, n\0."
+"201_03","(촀\0Je suis si contente que tu m'aies
+invitée ici !
+\0( ()촀\0J'ai sauté dans le
+premier avion, n\0."
+"202","<"
+"202_01","(""촀\0Coucou !
+\0( Est-ce que tu connais s\0촀 ?
+\0 (촀\0Parce que c'est 2
+촀luielle\0 qui m'a invitée ici.\0\0(촀\0Et comment refuser un petit séjour
+sur une île de rêve, n\0 ?(촀\0\0\0(&촀\0Mais au fait, les présentations ont déjà été faites ?
+\0(촀\0 Je m'appelle n
+\0."
+"202_02","()촀\0C'est s\0촀 qui m'a invitée à venir camper ici.\0\0(""촀\0Moi c'est n
+\0, au fait.
+\0
+(촀\0Je crois qu'on ne s'était jamais
+rencontré2\0es.\0\0(4촀\0J'espère qu'2
+촀ilelle\0 aura le temps de
+me faire visiter l'île, n\0n"
+"202_03","(촀\0Si je suis ici,
+\0 c'est grâce à s\0촀.
+\0 2
+촀IlElle\0 m'a invitée ici.\0\0(촀\0Attends,
+\0 est-ce qu'on se connaît ?
+\0
+(""촀\0Je m'appelle n
+\0.\0\0(1촀\0Il suffit d'une nuit à la belle étoile
+pour se sentir en vacances, n\0n"
+"301","<"
+"301_01","(4촀\0Tu sais ce que c'est,
+\0 entre une chose
+et une autre,
+\0 on a jamais le temps
+de rien fairen\0\0\0\0(촀\0J'ai décidé de m'accorder une petite
+pause lecture-nature, n\0 !"
+"301_02","(촀\0Ce que je préfère dans le campingn\0\0(촀\0
+c'est le fait de dormir à la belle
+étoile, n\0."
+"301_03","()촀\0De temps en temps,
+\0 j'aime bien
+m'échapper un peu pour réfléchir,
+\0
+loin de tout, n\0.
+(촀\0Oh !
+\0( (촀\0Je ne fuis pas mes congénères,
+
+\0(촀\0j'aime trop papoter."
+"301_04","(1촀\0L'air frais, le ciel à perte de vuen\0\0
+Cet endroit réveille mon âme de
+poète, n\0."
+"301_05","(4촀\0Tu peux me demander tout ce que
+tu veux sur le mot « camping »,
+n\0.\0\0(촀\0Je viens d'acheter un nouveau
+dictionnaire étymologique."
+"302","<"
+"302_01","(4촀\0Tu sais ce que c'est,
+\0 entre une chose
+et une autre,
+\0 on a jamais le temps
+de rien fairen\0\0\0\0(촀\0J'ai décidé de m'accorder une petite
+pause lecture-nature, n\0 !"
+"302_02","(촀\0Ce que je préfère dans le campingn\0\0(촀\0
+c'est le fait de dormir à la belle
+étoile, n\0."
+"302_03","()촀\0De temps en temps,
+\0 j'aime bien
+m'échapper un peu pour réfléchir,
+\0
+loin de tout, n\0.
+(촀\0Oh !
+\0( (촀\0Je ne fuis pas mes congénères,
+
+\0(촀\0j'aime trop papoter."
+"401","<"
+"401_01","(
+촀\0Tu crois que j'arriverai à
+m'intégrer ?
+\02 (촀\0Tout le monde a
+l'air de si bien s'entendren\0\0\0\0(4촀\0J'aimerais faire partie de votre petit
+groupe, moi aussi, n\0n"
+"401_02","(
+촀\0En déménageant, j'arriverai peut-être
+enfin à me débarrasser du superflu,
+n\0n\0\0
+(9촀\0Le plus difficile,
+\0 ce sera de trier mes
+livres et mes moules à gâteaun"
+"401_03","(4촀\0J'étais venue pour campern\0\0
+\0 et voilà
+que j'emménage.
+\0 (촀\0Petit changement
+de plan, n\0 !
+(9촀\0Il faut savoir se laisser porter et
+saisir les opportunités quand elles
+se présententn"
+"402","<"
+"402_01","(4촀\0J'espère que vous n'avez rien contre
+une nouvelle voisine ?\0\0(촀\0Parce 2
+que qu'⁠s\0촀 m'a convaincue de m'installer ici, n\0 !\0\0(촀\0J'ai hâte d'avoir mon chez-moi !"
+"402_02","(4촀\0J'ai une grande nouvellen\0\0(촀\0
+J'ai décidé de suivre le conseil
+2
+de d'⁠s\0촀.
+(촀\0Je viens habiter à n\0, n\0 !"
+"402_03","Je ne sais pas si tu as entendu la
+grande nouvelle ?
+\0 (!촀\0Je m'installe
+définitivement sur l'île !\0\0(2촀\0C'est s\0촀
+\0 qui m'a donné envie de déménagern\0\0\0\0()촀\0C'est ma dernière journée au
+\0camping\0￿,
+\0 ensuite je file faire
+mes cartonsn\0\0
+(촀\0La prochaine fois qu'on se verra,
+on sera voisin2\0es, n\0 !"
+"403","<"
+"403_01","(4촀\0J'ai pris une grande décision
+\0n\0\0
+(촀\0Je m'installe sur l'île !\0\0(촀\0Rhô, j'ai hâte de pouvoir dire :
+« ⁠J'habite à n	\0,
+\0 et toi ? »n\0\0 2\0n\0 !"
+"403_02","(;촀\0Tu sais quoi ?
+\0 (촀\0C'est ici que j'ai envie
+de vivre.
+\0 Je déménage, n\0 !\0\0(촀\0Je suis tout simplement tombée
+amoureuse 2
+de d'⁠n\0.
+\0
+(4촀\0Qui pourrait m'en vouloir ?"
+"403_03","(6촀\0Je ne sais pas si tu es au courantn\0\0
+\0
+(촀\0Je me plais tant ici
+\0 que j'ai décidé
+de déménager, n\0 !\0\0()촀\0Je passe encore la journée au
+\0camping\0￿,
+\0 et après je file faire
+mes cartons !
+(촀\0À très bientôt, futur2\0e voisin2\0e !"
+"501_01","(1촀\0Je ne sais pas à quoi ça tient,
+\0 mais
+cette île me fait du bienn\0\0\0\0(촀\0Oh,
+\0 j'arriverais peut-être à écrire
+mon roman
+\0 (촀\0si je m'installais ici,
+n\0 ?"
+"501_01_a","Sûrement, fonce !"
+"501_01_b","Tu t'emballes un peu..."
+"501_02","(촀\0Je rêve d'habiter dans un endroit
+pareil.
+\0 (1촀\0J'ai l'impression de me sentir
+enfin chez moi, n\0n\0\0\0\0(;촀\0Et si le destin était en train de me
+dire de m'installer ici ?"
+"501_02_a","C'est bien possible !"
+"501_02_b","(&촀\0Tu crois au destin, toi ?"
+"501_03","(촀\0Maintenant que je connais cet
+endroit
+\0n\0\0
+\0 ça va être dur d'en
+repartir !
+(촀\0J'aimerais rester ici pour toujours,
+n\0 !"
+"501_03_a","Eh bien, reste !"
+"501_03_b","(\0촀\0Tu vas me manquer."
+"502_01","(촀\0Tu as raison.
+\0( (4촀\0J'essaie de me trouver
+des excuses, mais je manque juste
+de discipline
+\0n"
+"502_02","(촀\0C'est juste que je suis si bien icin\0\0
+\0
+(7촀\0Mais les vacances ne peuvent pas
+durer éternellement, n\0."
+"502_03","C'est gentil de dire ça !
+\0 (촀\0Je suis
+contente qu'on ait eu l'occasion de
+faire connaissance.
+\0
+(촀\0Mais toutes les bonnes choses ont
+une fin, n\0."
+"601_01","(
+촀\0Tout le monde a été adorable,
+\0
+je repars même avec des souvenirs
+artisanaux, n\0.\0\0(촀\0Je me sens si redevablen\0\0\0\0(촀\0Je trouverais peut-être un moyen
+de vous remercier,
+\0 (촀\0si j'emménageais
+sur l'île
+\0n"
+"601_01_a","Quelle bonne idée !"
+"601_01_b","(촀\0Merci à toi !"
+"601_02","(촀\0Les habitants 2
+de d'⁠n\0 m'ont accueillie à bras ouverts, n\0.\0\0(촀\0Dire que je repars avec des souvenirs
+
+\0fabriqués tout spécialement pour
+moin\0\0\0\0(촀\0Ça doit être topissime d'avoir des
+voisins comme vous !"
+"601_02_a","Alors viens vivre ici !"
+"601_02_b","(%촀\0Je confirme."
+"601_03","(촀\0Heureusement que j'ai des souvenirs
+faits main pour me consolern\0\0\0\0(촀\0
+\0Parce 2
+que qu'⁠
+\0n\0
+\0 (촀\0va beaucoup me manquer, n\0n"
+"601_03_a","Si tu t'installais ici ?"
+"601_03_b","(%촀\0Tu nous manqueras !"
+"602_01","(촀\0Tu es chou.
+\0( (촀\02\0n\0 est un vrai petit bijou,
+\0 je ne suis pas près de vous oublier !"
+"602_02","(촀\0Hi hi.
+\0 Et tu sais quoi ? (1촀\0Mes voisins
+ne sont pas mal non plus après tout.
+\0
+Je devrais le leur dire plus souventn"
+"602_03","(촀\0Mercin\0\0
+\0 J'espère que vous n'avez
+rien contre les touristes !
+\0 (;촀\0Parce que
+je vais vous faire une pub d'enfer !"

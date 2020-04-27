@@ -1,0 +1,354 @@
+﻿"label","text"
+"001","(촀\0¡Hablemos sobre los traslados!
+\0
+¡Sí, sí!\0\0()촀\0Como portavoz vecinal,
+\0 (1촀\0es cosa tuya
+planificar dónde irán los diferentes
+edificios y obras públicas de la isla.
+(%촀\0Seguro que a veces has pensado que
+algo estaría mejor en otro sitio, ¿sí?\0\0(촀\0¡Nos pasa a todos!\0\0(5촀\0Pues aquí estoy yo para ayudarte
+a planificar cualquier traslado
+que se te ocurra."
+"001_00_01","(촀\0Trasladar edificios es algo optativo,
+así que tiene sus costes.\0\0(""촀\0¡Pero que unas cuantas bayas
+no sean obstáculo para que nuestra
+isla sea un lugar mucho más cómodo!"
+"001_00_02","Si te interesa trasladar tu hogar
+a otro sitio,
+\0 (촀\0dime «\0Se trata de mi
+casa...\0￿» para hablar del asunto."
+"001_01","(9촀\0Bueno,
+\0 (촀\0si tienes en mente alguna
+cosa que quieras trasladar,
+\0 podemos
+discutir el asunto ahora mismo, ¡sí!"
+"001_01_a","¡Hablemos!"
+"001_01_b","Ahora mismo no..."
+"002","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"003","(촀\0¡Entendido!
+\0 (촀\0Ya sabes dónde
+encontrarme si te entran ganas
+de trasladar cosas, ¿sí?"
+"004","(&촀\0¿Has cambiado de idea?
+\0
+(촀\0Bueno, ven a verme si decides
+trasladar algo de sitio, ¿sí?"
+"011","Perfecto.
+\0 (&촀\0¿Qué casa quieres
+trasladar?"
+"011_01","(촀\0¿Movemos la de s촀?
+\0
+¡Entendido!\0\0(\0촀\0Los costes de traslado ascienden
+a \0Z\0\0￿.
+\0 (&촀\0¿Se lo comunicamos
+ya a s촀?"
+"011_01_a","¡Sí, adelante!"
+"011_01_b","Me lo voy a pensar..."
+"012","(촀\0La \0tienda\0￿, ¿sí?
+\0
+(\0촀\0Pues costará \0Z\0\0￿.
+(&촀\0¿Quieres trasladarla?"
+"012_a","¡Sí, adelante!"
+"012_b","Me lo voy a pensar..."
+"013","(촀\0El \0museo\0￿, ¿sí?
+\0
+(\0촀\0Te costará \0Z\0\0￿.
+(&촀\0¿Quieres trasladarlo?"
+"013_a","¡Sí, adelante!"
+"013_b","Me lo voy a pensar..."
+"014","(촀\0La \0sastrería\0￿, ¿sí?
+\0
+(\0촀\0Serán \0Z\0\0￿.
+(&촀\0¿Quieres trasladarla?"
+"014_a","¡Sí, adelante!"
+"014_b","Me lo voy a pensar..."
+"015","(촀\0La \0zona de acampada\0￿, ¿sí?
+\0
+(\0촀\0Pues serán \0Z\0\0￿.
+(&촀\0¿Quieres trasladarla?"
+"015_a","¡Sí, adelante!"
+"015_b","Me lo voy a pensar..."
+"021","(촀\0¡Sí, sí! ¡Muy bien!\0\0(촀\0Vamos a preguntarle a s촀 qué le parece la idea.\0\0Espera un momento, que voy
+a contactar con 2촀élella\0, ¿sí?"
+"022","(촀\0¡Sí, sí! ¡Muy bien!
+\0
+(촀\0Vamos a ver qué les parece
+la idea a \0Tendo \0￿y a \0Nendo\0￿.\0\0(\0촀\0Espera un momento,
+que les pregunton"
+"023","(촀\0¡Sí, sí! ¡Excelente!
+\0
+(촀\0Vamos a ver qué le parece
+la idea a \0Sócrates\0￿.\0\0(\0촀\0Espera un momento, que se
+lo pregunton"
+"024","(촀\0¡Sí, sí! ¡Maravilloso!
+\0
+(촀\0Vamos a ver qué le parece
+la idea a \0Pili\0￿.\0\0(\0촀\0Espera un momento, que se
+lo pregunton"
+"025","(촀\0¡Estupendo! ¡Gracias por confiar
+en nosotros!\0\0(촀\0Ahora solo queda elegir la nueva
+ubicación de la \0zona de acampada\0￿."
+"026","(\0촀\0En los bolsillos encontrarás
+2\0\0}\0\0\0￿.
+\0
+(촀\0Pon2촀lola\0 donde quieras."
+"031","(촀\0¡Sí, sí!
+\0 ¡Estupendo!
+\0 Y ahoran\0\0
+\0
+(촀\0Un momento, n\0n\0\0\0\0(촀\0¡No tienes bayas suficientes!\0\0(\0촀\0Yo siempre digo eso de
+\0 ()촀\0«cosa
+que quieres, baya que pagas».\0\0(""촀\0Así que ya volvemos a hablar
+del tema cuando tengas
+la cantidad suficiente, ¿sí?"
+"032","(촀\0¡Espera, n\0!
+\0
+(촀\0Tienes los bolsillos a rebosarn\0\0\0\0(\0촀\0()촀\0He de darte una cosa para poder
+seguir con el plan,
+\0 (촀\0así que vuelve
+cuando tengas más espacio, ¿sí?"
+"033","(
+촀\0Mmmn\0\0 s촀 se ha mudado hace poco.\0\0()촀\0A lo mejor es un poco pronto para
+preguntarle si quiere trasladar
+su casa, ¿no?
+(촀\0Quizá es mejor esperar un poco más
+antes de plantearle la idea, ¿sí?"
+"034","(
+촀\0Mmmn\0\0
+\0 s촀 ha decidido que se muda,
+\0 ()촀\0así que quizá
+no tenga sentido plantearle la idean\0\0\0\0(촀\0Piénsatelo un poco más y me dices
+si te interesa hacer algún otro
+traslado, ¿sí?"
+"034_01","(촀\0Suena bienn\0\0
+\0 pero esperan\0\0
+\0
+(촀\0¿Aún no conoces a ninguno de
+los residentes, n\0?
+(
+촀\0No creo que les haga mucha gracia
+trasladar su casa por la ocurrencia
+de alguien a quien aún no conocen.
+(촀\0Ya que eres nuestr2oa portavoz vecinal,
+deberías conocer a todo el mundo,
+\0
+(촀\0o al menos a quien quieras mudarn\0\0
+(""촀\0Cuando lo hagas, vuelve a hablar
+conmigo sobre posibles traslados,
+\0
+¿te parece?"
+"035","(
+촀\0Mmmn\0\0
+\0 creo que ahora están
+reformando la \0tienda\0￿n\0\0\0\0(촀\0Hablamos del tema cuando acaben,
+¿sí?"
+"051","(촀\0Entonces dime,
+\0 s촀,
+\0 (&촀\0¿te gustaría mudarte a la ubicación que elija n\0?"
+"052","(촀\0\0s촀\0￿,
+\0 (&촀\0¿qué os parece la idea de n\0 de trasladar la \0tienda\0￿?"
+"053","(촀\0\0Sócrates\0￿n\0\0
+\0 n\0 piensa que sería buena idea trasladar el \0museo\0￿.\0\0(&촀\0¿A ti qué te parece?"
+"054","(촀\0\0Pili\0￿n\0\0
+\0 (&촀\0¿qué te parece la idea de n\0 de trasladar vuestra \0sastrería\0￿?"
+"061","(촀\0¡Muy bien!\0\0(촀\0¡Seguro que n\0 nos encontrará una ubicación perfecta para los negocios!"
+"062","(촀\0¡Uhu!
+\0 ¡Me parece estupendo!
+\0
+(촀\0Estoy convencido de que encontrará
+una ubicación con interés científico."
+"063","(촀\0¡Pues suena bien!
+\0 (""촀\0¡Seguro que elige
+una ubicación que a \0Mili\0￿ también
+le encantará!"
+"071","(%촀\0¡Pues estupendo!
+\0 (촀\0Déjanoslo todo
+a n\0 y a mí, ¿sí?"
+"081","(촀\0Bueno, n\0,
+\0 ya se ha decidido el traslado, así que toca pagar los costes, ¿sí?"
+"082","(촀\0Ahora
+\0 hay que encontrar
+una nueva ubicación para la casa
+de s촀.
+(촀\0En los bolsillos encontrarás un \0kit
+de traslado\0￿ que podrás usar para
+reubicar la casa donde quieras."
+"082_01","(촀\0Ahora
+\0 hay que encontrar
+una nueva ubicación.\0\0(촀\0En los bolsillos encontrarás
+2\0}\0\0 para la reubicación."
+"1000","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1000_a","Una casa"
+"1000_b","MiniNook"
+"1000_c","En otro momento"
+"1001","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1001_a","Una casa"
+"1001_b","MiniNook"
+"1001_c","El museo"
+"1001_d","En otro momento"
+"1002","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1002_a","Una casa"
+"1002_b","MiniNook"
+"1002_c","La sastrería"
+"1002_d","En otro momento"
+"1003","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1003_a","Una casa"
+"1003_b","MiniNook"
+"1003_c","La zona de acampada"
+"1003_d","En otro momento"
+"1004","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1004_a","Una casa"
+"1004_b","MiniNook"
+"1004_c","El museo"
+"1004_d","La sastrería"
+"1004_e","En otro momento"
+"1005","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1005_a","Una casa"
+"1005_b","MiniNook"
+"1005_c","El museo"
+"1005_d","La zona de acampada"
+"1005_e","En otro momento"
+"1006","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1006_a","Una casa"
+"1006_b","MiniNook"
+"1006_c","La sastrería"
+"1006_d","La zona de acampada"
+"1006_e","En otro momento"
+"1007","(촀\0¡Excelente!
+\0 (&촀\0¿Y qué edificio quieres
+trasladar?"
+"1007_a","Una casa"
+"1007_b","MiniNook"
+"1007_c","El museo"
+"1007_d","La sastrería"
+"1007_e","La zona de acampada"
+"1007_f","En otro momento"
+"101","Sí, sí.
+\0 De momento tienes que
+encontrar una nueva ubicación para
+la casa de s촁.
+(&촀\0¿Tienes ya algo en mente?"
+"101_a","Que se quede donde está"
+"101_b","Pues todavía no..."
+"102","Sí, sí.
+\0 De momento tienes que
+encontrar una nueva ubicación
+para la \0tienda\0￿.
+(&촀\0¿Tienes ya algo en mente?"
+"102_a","Está bien donde está"
+"102_b","Pues todavía no..."
+"103","Sí, sí.
+\0 De momento tienes que
+encontrar una nueva ubicación
+para el \0museo\0￿.
+(&촀\0¿Tienes ya algo en mente?"
+"103_a","Está bien donde está"
+"103_b","Pues todavía no..."
+"104","Sí, sí.
+\0 De momento tienes que
+encontrar una nueva ubicación
+para la \0sastrería\0￿.
+(&촀\0¿Tienes ya algo en mente?"
+"104_a","Está bien donde está"
+"104_b","Pues todavía no..."
+"105","Sí, sí.
+\0 De momento tienes que
+encontrar una nueva ubicación
+para la \0zona de acampada\0￿.
+(&촀\0¿Tienes ya algo en mente?"
+"105_a","Está bien donde está"
+"105_b","Pues todavía no..."
+"111","(&촀\0¿No encuentras una ubicación
+que te convenza?
+\0 (촀\0Bueno, quizá
+podamos dejarlo para otro día.
+(\0촀\0Me quedo con el \0kit de traslado\0￿
+que te di
+\0 (촀\0y te devuelvo las bayas
+que me habías pagado."
+"112","Y no te preocupes;
+\0 le diré a s촁 que al final no vamos a trasladar su casa."
+"112_01","No te preocupes;
+\0 le diré a \0Sócrates
+\0￿que, de momento, el \0museo\0￿ no se
+traslada."
+"112_02","Y no te preocupes por \0Tendo
+\0￿y \0Nendo\0￿;
+\0 les diré que, de momento,
+la \0tienda\0￿ se queda como está."
+"112_03","Y no te preocupes por \0Pili\0￿;
+\0 ya le digo
+yo que, por el momento, la \0sastrería\0￿
+no se mueve de su sitio."
+"112_04","(촀\0Si encuentras alguna ubicación que
+te convenza,
+\0 (""촀\0ven a hablar conmigo,
+¿sí?"
+"113","(촀\0Bueno, no te preocupes.
+\0
+(촀\0Cuando encuentres la ubicación ideal
+empezaremos con el papeleo."
+"113_01","(촀\0Bueno, no pasa nada.
+\0
+(촀\0Cuando encuentres la ubicación ideal
+empezaremos con el papeleo."
+"501","(촀\0Disculpa, pero ahora tengo las garras
+ocupadas con el traslado de tu casa,
+¿sí?"
+"502","(촀\0Disculpa, pero ahora tengo las garras
+ocupadas con el traslado de la casa
+de s촁, ¿sí?"
+"503","(촀\0Disculpa, pero ahora tengo
+las garras ocupadas con el traslado
+de la \0tienda\0￿, ¿sí?"
+"504","(촀\0Disculpa, pero ahora tengo
+las garras ocupadas con el traslado
+del \0museo\0￿, ¿sí?"
+"505","(촀\0Disculpa, pero ahora tengo
+las garras ocupadas con el traslado
+de la \0sastrería\0￿, ¿sí?"
+"506","(촀\0Disculpa, pero ahora tengo
+las garras ocupadas con el traslado
+de la \0zona de acampada\0￿, ¿sí?"
+"511","(촀\0Lo siento,
+\0 pero tengo las garras
+ocupadas con el traslado de la casa
+de s\0촀, ¿sí?"
+"512","(촀\0Ahora estoy ocupado con el traslado
+de la casa de s촁 a petición de s\0촀, ¿sí?"
+"513","(촀\0Lo siento, pero s\0촀 me ha pedido que traslade la \0tienda\0￿ y ahora estoy muy ocupado, ¿sí?"
+"514","(촀\0Lo siento, pero s\0촀 me ha pedido que traslade el \0museo\0￿ y ahora estoy muy ocupado, ¿sí?"
+"515","(촀\0Lo siento;
+\0 s\0촀 me ha pedido que traslade la \0sastrería\0￿ y ahora estoy muy ocupado, ¿sí?"
+"516","(촀\0Lo siento;
+\0 s\0촀 me ha pedido que traslade la \0zona de acampada\0￿ y ahora estoy ocupadon"
+"521","\0Mañana\0￿ habré acabado,
+\0 (촀\0así que
+podemos hablar entoncesn\0\0
+\0
+¡O cuando te venga bien, sí, sí!"
+"521_01","\0Mañana\0￿, como pronto, habré
+acabado,
+\0 (촀\0así que hablamos
+otro día, ¿sí?"
+"521_02","Si encuentras una ubicación hoy,
+\0
+todo estará listo \0mañana\0￿n\0\0
+\0 (촀\0¡y ya
+podremos hacer nuevos planes!"

@@ -1,0 +1,511 @@
+﻿"label","text"
+"001","(촀\0Tiens, n\0!"
+"001_00","(촀\0À propos,
+\0 n\0!"
+"001_01","(촀\0Félicitations pour ton nouveau
+chez-toi!"
+"001_10","(촀\0Oh!
+\0 Il y a quelque chose d'autre
+dont je voulais te parlern\0\0
+\0(4촀\0 si tu as
+deux minutes pour moi.
+(:촀\0C'est rapport àn\0\0 un engagement
+à long terme, alors si tu veux en
+discuter plus tard,
+\0 (촀\0pas de stress!"
+"001_10_a","Bien sûr!"
+"001_10_b","Je suis occupé2\0e..."
+"002","(%촀\0OK, pas de problème,
+\0 ne t'en fais
+pas.
+\0 (촀\0Dis-moi juste quand tu as un
+moment!(촀"
+"002_01","(촀\0Alors, 
+\0qu'est-ce que je peux faire
+pour toi?"
+"002_01_a","Achète-moi des trucs!"
+"002_01_b","Tu as quoi à vendre?"
+"002_01_c","Je t'écoute!"
+"002_01_d","Non, rien."
+"002_02","(%촀\0OK, c'est toi qui vois.
+\0( (6촀\0On en parlera
+quand tu te sentiras prêt2\0e.(촀"
+"010","(촀\0Ah, n\0. C'est toujours un plaisir.\0\0(4촀\0Avant de parler d'autre chose, je
+voudrais te rappeler qu'il faut qu'on
+parle de notre petit engagementn\0\0
+(%촀\0Fais-moi simplement signe quand tu
+es prêt2\0e à en discuter."
+"010_a","Je t'écoute!"
+"010_b","(\0촁\0Une autre fois..."
+"011","(촀\0Tu veux quelque chose de spécial?"
+"011_a","Achète-moi des trucs!"
+"011_b","Tu as quoi à vendre?"
+"011_c","Je t'écoute!"
+"011_d","Non, rien."
+"012_01","(촀\0Super! 
+\0Je vais essayer de faire
+court.\0\0(4촀\0Je me disais que tu serais peut-être
+intéressé2\0e par une collaboration d'un
+nouveau genren\0\0
+(!촀\0n\0\0 la construction d'une nouvelle
+\0boutique\0￿!\0\0()촀\0Après tout,
+\0 notre petite communauté
+insulaire n'arrête pas de grandir etn\0\0
+nos besoins aussi.
+(1촀\0J'aimerais proposer un plus grand
+choix de produits,
+\0 mais comme tu le
+vois,
+\0 je suis un peu à l'étroit ici.
+(5촀\0J'en ai parlé à notre président et il
+est d'accord qu'il y a un vrai besoin."
+"012_02","(촀\0Le problèmen\0\0 c'est les matériaux de
+construction.
+\0 Il faudrait en mettre de
+côté pour la boutiquen\0\0
+(
+촀\0n\0\0 mais, on en a aussi besoin pour
+nos projets résidentiels.
+\0 Du coup,
+
+\0j'aurais une faveur à te demander.\0\0(%촀\0Est-ce que tu crois que tu pourrais
+collecter des matériaux sur les arbres
+et les rochers autour de toi?
+(촀\0Notre étude d'impact indique que ça
+n'aura pas d'effet sur la flore et la
+faune locales!
+(%촀\0En revanche,
+\0 il nous faudra un
+paquet de matériaux pour construire
+une boutique digne de ce nomn\0\0
+(촀\0Tu peux bien sûr compter sur nous
+pour te dédommager
+\0 à hauteur de
+tes efforts!"
+"012_02_a","((촁\0OK!"
+"012_02_b","Ça marche..."
+"012_03","(촀\0
+\0Merci mille fois!"
+"012_04","()촀\0Pour te faciliter la tâche,
+\0 j'ai préparé
+une liste des matériaux à réunir.\0\0(1촀\0Il nous faut\0 \0￿du \0bois\0￿, 
+\0du \0bois dur\0￿ 
+\0et
+du \0bois tendre\0￿ :
+\0 \030 morceaux\0￿ de
+chaquen\0\0 et aussi 
+\0(촀\0\030 pépites de fer\0￿!\0\0(\0촀\0(촀\0La provenance des matériaux n'a pas
+d'importance. 
+\0Ils peuvent venir aussi
+bien de cette île que d'une autre!\0\0()촀\0Et tu peux faire ça à ton rythme, 
+\0il
+n'y a pas d'urgence.
+\0(촀\0 Une fois que tu
+auras tout réuni, 
+\0viens me voir, 
+\0OK?"
+"013","(촀\0Bienvenue, n\0!
+\0
+(\0촀\0Que puis-je faire pour toi?"
+"013_a","\0À propos du magasin\0￿..."
+"013_b","Achète-moi des trucs!"
+"013_c","Tu as quoi à vendre?"
+"013_d","Non, rien."
+"014","(촀\0Tu veux quelque chose de spécial?"
+"014_a","\0À propos du magasin\0￿..."
+"014_b","Achète-moi des trucs!"
+"014_c","Tu as quoi à vendre?"
+"014_d","Non, rien."
+"015","(촀\0Pour réunir les matériaux nécessaires
+à sa construction,
+\0 nous faisons appel
+à la générosité des résidents!"
+"015_a","J'ai des matériaux!"
+"015_b","Il faut quoi, déjà?"
+"015_c","Ça marche!"
+"023","(촀\0Je suis impatient de découvrir
+l'endroit que tu vas choisir pour
+la nouvelle boutique!\0\0(촀\0Quand tu auras trouvé le coin idéal,
+\0
+plantes-y le \0kit chantier boutique\0￿ que
+je t'ai donné!"
+"024","(촀\02\0n\0!
+\0 (촀\0Tu as planté le
+\0kit chantier boutique\0￿!\0\0(촀\0Il ne nous reste plus qu'à remonter
+nos manchesn\0\0 (""촀\0en travaillant bien on
+devrait pouvoir ouvrir demain!"
+"051","(촀\0Oh,
+\0 tu as des matériaux pour la
+boutique?
+\0 (촀\0Merci mille fois pour
+ton aide!"
+"052_01","(
+촀\0En comptant ce qu'on a reçu,
+\0(촀\0 il nous
+manque encore \030\0￿ morceaux de
+\0bois\0￿n\0\0 (\0촀\0(&촀\0Je peux te demander ça?"
+"052_01_a","Tiens, cadeau!"
+"052_01_b","Pas tout de suite..."
+"052_02","(
+촀\0En comptant ce qu'on a reçu,
+\0(촀\0 il nous
+manque encore \030\0￿ morceaux de \0bois
+dur\0￿n\0\0 (\0촀\0(&촀\0Je peux te demander ça?"
+"052_02_a","Tiens, cadeau!"
+"052_02_b","Pas tout de suite..."
+"052_03","(
+촀\0En comptant ce qu'on a reçu,
+\0(촀\0 il nous
+manque encore \030\0￿ morceaux de \0bois
+tendre\0￿n\0\0 (\0촀\0(&촀\0Tu peux nous fournir ça?"
+"052_03_a","Tiens, cadeau!"
+"052_03_b","Pas tout de suite..."
+"052_04","(
+촀\0En comptant ce qu'on a reçu,
+\0(촀\0 il nous
+manque encore \030 pépites de fer\0￿n\0\0 (\0촀\0
+(&촀\0Tu peux nous fournir ça?"
+"052_04_a","Tiens, cadeau!"
+"052_04_b","Pas tout de suite..."
+"053_01","(\0촀\0Avec tout ce qu'on a déjà reçu,
+\0(촀\0 il ne
+nous manque plus que \030 \0￿morceaux
+de \0bois\0￿!"
+"053_02","(\0촀\0Avec tout ce qu'on a déjà reçu,
+\0(촀\0 il ne
+nous manque plus que \030 \0￿morceaux
+de \0bois dur\0￿!"
+"053_03","(\0촀\0Avec tout ce qu'on a déjà reçu,
+\0(촀\0 il ne
+nous manque plus que \030 \0￿morceaux
+de \0bois tendre\0￿!"
+"053_04","(\0촀\0Avec tout ce qu'on a déjà reçu,
+\0
+(촀\0 il ne nous manque plus que
+\030 pépites de fer\0￿!"
+"053_05","()촀\0Pour faciliter l'organisation, on
+préfère recevoir les matériaux en
+quantités exactesn\0\0
+(촀\0Repasse quand tu auras accumulé
+une quantité suffisante de quelque
+chose, d'accord? Merci d'avance!"
+"054","(%촀\0Pas de problème!
+\0 Rien ne presse.
+\0
+(촀\0Sens-toi libre de donner ce que tu
+peux,
+\0 quand tu le peux!"
+"055","(촀\0Merci mille fois! 
+\0Avec çan\0\0(촀\0 On a
+tout ce qu'il faut pour construire
+notre nouvelle boutique!"
+"056_01","(촀\0En guise de remerciementn\0\0 
+\0voici 2\0}\0\0,
+\0 2\0}\0n\0\0\0\0n\0\0 et 2\0}\0!"
+"056_02","(촀\0En guise de remerciementn\0\0 voici 2\0}\0\0 et
+\0 2\0}\0!"
+"056_03","(촀\0En guise de remerciementn\0\0 voici 2\0}\0\0!"
+"056_04","(4촀\0En guise de remerciementn\0\0
+\0 comme
+c'est un peu grâce à toi qu'on a
+réussi à réunir les matériauxn"
+"057","(4촀\0Oh, 
+\0encore une chosen\0\0
+\0 comme
+c'est un peu grâce à toi qu'on a
+réussi à réunir les matériauxn"
+"058_01","(촀\0On aimerait te demander de choisir
+l'endroit où sera construite notre
+nouvelle boutique!"
+"058_02","(촀\0Plante ce \0kit chantier boutique\0￿ là où
+tu veux qu'elle soit installée 
+\0et on
+commencera la construction.\0\0(촀\0Je suis impatient de découvrir
+l'endroit que tu vas choisir!"
+"061","(
+촀\0Voyons voir ce que tu amènes
+de beaun\0\0\0\0(촀\0\0Nom d'une truffe!\0\0\0dTu as apporté en une fois tous les
+matériaux dont on a besoin!\0\0(&촀\0Tu es sûr2\0e que ça ne te dérange pas
+de donner tout ça d'un coup?"
+"061_a","Tiens, cadeau!"
+"061_b","Pas tout de suite..."
+"062","(
+촀\0Voyons voir ce que tu amènes
+de beaun\0\0\0\0(촀\0\0Nom d'une truffe!\0\0\0dTu as apporté en une fois tous les
+matériaux qui manquaient!\0\0(&촀\0Tu es sûr2\0e que ça ne te dérange pas
+de donner tout ça d'un coup?"
+"062_a","Tiens, cadeau!"
+"062_b","Pas tout de suite..."
+"071_01","(촀\0En ce moment, on essaie de réunir
+trois types de matériaux :
+\0(%촀\0 \0bois dur\0￿,
+\0
+\0bois tendre\0￿($촀\0
+\0 et \0pépites de fer\0￿."
+"071_02","(촀\0En ce moment, on essaie de réunir
+trois types de matériaux :
+\0(%촀\0 \0bois\0￿,
+\0 \0bois
+tendre\0￿($촀\0
+\0 et \0pépites de fer\0￿."
+"071_03","(촀\0En ce moment, on essaie de réunir
+trois types de matériaux :
+\0(%촀\0 \0bois\0￿,
+\0 \0bois
+dur\0￿($촀\0
+\0 et \0pépites de fer\0￿."
+"071_04","(촀\0En ce moment, on essaie de réunir
+trois types de matériaux :
+\0(%촀\0 \0bois dur\0￿,
+\0
+\0bois tendre\0￿($촀\0
+\0 et \0bois\0￿ ordinaire!"
+"072_01","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois\0￿
+\0($촀\0 et
+\0bois dur\0￿."
+"072_02","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois\0￿
+\0($촀\0 et
+\0bois tendre\0￿."
+"072_03","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois\0￿
+\0($촀\0 et
+\0pépites de fer\0￿."
+"072_04","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois dur\0￿
+\0
+($촀\0et \0bois tendre\0￿."
+"072_05","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois dur\0￿
+\0
+($촀\0et \0pépites de fer\0￿."
+"072_06","(촀\0En ce moment, on essaie de réunir
+deux types de matériaux :
+\0(%촀\0 \0bois
+tendre\0￿
+\0 ($촀\0et \0pépites de fer\0￿."
+"081_01","(촀\0On dirait que 
+\0tu as du \0bois\0￿ sur toi.
+\0
+Est-ce que tu veux en donner
+
+\0(&촀\0\030\0￿ morceaux pour la boutique?"
+"081_01_a","Tiens, cadeau!"
+"081_01_b","Pas tout de suite..."
+"081_02","(촀\0On dirait que 
+\0tu as du \0bois dur\0￿ sur
+toi.
+\0 Est-ce que tu veux en donner
+
+\0(&촀\0\030\0￿ morceaux pour la boutique?"
+"081_02_a","Tiens, cadeau!"
+"081_02_b","Pas tout de suite..."
+"081_03","(촀\0On dirait que 
+\0tu as du \0bois tendre\0￿
+sur toi.
+\0 Est-ce que tu veux en donner
+
+\0(&촀\0\030\0￿ morceaux pour la boutique?"
+"081_03_a","Tiens, cadeau!"
+"081_03_b","Pas tout de suite..."
+"081_04","(촀\0On dirait que 
+\0tu as des \0pépites de fer
+\0￿sur toi.
+\0 Est-ce que tu veux en donner
+
+\0(&촀\0\030\0￿ pour la boutique?"
+"081_04_a","Tiens, cadeau!"
+"081_04_b","Pas tout de suite..."
+"082_01","(촀\0Tu as du \0bois\0￿ et du \0bois dur\0￿ sur toi.
+\0
+Veux-tu en donner 
+\0(&촀\0\030\0￿ morceaux de
+chaque pour la boutique?"
+"082_01_a","Tiens, cadeau!"
+"082_01_b","Pas tout de suite..."
+"082_02","(촀\0Tu as du \0bois\0￿ et du \0bois tendre\0￿ sur
+toi.
+\0 Veux-tu en donner 
+\0(&촀\0\030\0￿ morceaux
+de chaque pour la boutique?"
+"082_02_a","Tiens, cadeau!"
+"082_02_b","Pas tout de suite..."
+"082_03","(촀\0Tu as du \0bois\0￿ et des \0pépites de fer
+\0￿sur toi.
+\0 Veux-tu en donner 
+\0(&촀\0\030\0￿ de
+chaque pour la boutique?"
+"082_03_a","Tiens, cadeau!"
+"082_03_b","Pas tout de suite..."
+"082_04","(촀\0Tu as du \0bois dur\0￿ et du \0bois tendre\0￿
+sur toi.
+\0 Veux-tu donner 
+\0(&촀\0\030\0￿ morceaux
+de chaque pour la boutique?"
+"082_04_a","Tiens, cadeau!"
+"082_04_b","Pas tout de suite..."
+"082_05","(촀\0Tu as du \0bois dur\0￿ et des \0pépites de
+fer\0￿ sur toi.
+\0 Veux-tu en donner 
+\0(&촀\0\030\0￿ de
+chaque pour la boutique?"
+"082_05_a","Tiens, cadeau!"
+"082_05_b","Pas tout de suite..."
+"082_06","(촀\0Tu as du \0bois tendre\0￿ et des \0pépites
+de fer\0￿ sur toi.
+\0 Veux-tu en donner 
+\0
+(&촀\0\030\0￿ de chaque pour la boutique?"
+"082_06_a","Tiens, cadeau!"
+"082_06_b","Pas tout de suite..."
+"083_01","(촀\0Tu as des \0pépites de fer\0￿, du \0bois dur
+\0￿et du\0 bois tendre\0￿.
+\0 Veux-tu en donner
+\0
+(&촀\0\030\0￿ de chaque pour la boutique?"
+"083_01_a","Tiens, cadeau!"
+"083_01_b","Pas tout de suite..."
+"083_02","(촀\0Tu as des \0pépites de fer\0￿, du \0bois\0￿ et
+du\0 bois tendre\0￿.
+\0 Veux-tu en donner
+\0
+(&촀\0\030\0￿ de chaque pour la boutique?"
+"083_02_a","Tiens, cadeau!"
+"083_02_b","Pas tout de suite..."
+"083_03","(촀\0Tu as des \0pépites de fer\0￿, du \0bois\0￿ et
+du\0 bois dur\0￿.
+\0 Veux-tu en donner 
+\0(&촀\0\030\0￿ de
+chaque pour la boutique?"
+"083_03_a","Tiens, cadeau!"
+"083_03_b","Pas tout de suite..."
+"083_04","(촀\0Tu as du \0bois\0￿, du \0bois dur\0￿ et du\0 bois
+tendre\0￿.
+\0 Veux-tu donner 
+\0(&촀\0\030\0￿ morceaux
+de chaque pour la boutique?"
+"083_04_a","Tiens, cadeau!"
+"083_04_b","Pas tout de suite..."
+"091","Euhn\0\0
+\0(&촀\0 Hm?
+\0(\0촀\0 Désolé mais, je crois
+que tu n'as pas ce qu'il faut.\0\0(9촀\0Pour faciliter l'organisation,
+\0 on
+préfère recevoir les matériaux en
+quantités exactesn\0\0\0\0(7촀\0Tu vas sans doute penser que je
+coupe les cheveux en quatre, maisn\0\0
+(촀\0c'est pour la bonne cause!"
+"092_01","(촀\0Merci mille fois!
+\0 On n'a jamais été
+aussi près de pouvoir construire
+notre boutique!"
+"092_02","(촀\0Merci mille fois!
+\0 Avec ça, on a déjà
+la moitié des matériaux qu'il nous
+faut pour construire la boutique!"
+"092_03","(촀\0Merci mille fois!
+\0 Encore un petit
+effort et on aura tout ce qu'il faut
+pour construire notre boutique!"
+"093_01","(촀\0En guise de remerciement, 
+\0voici 2\0\0}\0\0\0￿!"
+"093_02","(촀\0En guise de remerciement, 
+\0voici 2\0\0}\0\0\0￿
+\0 et 2\0\0}\0\0￿."
+"093_03","(촀\0En guise de remerciement,
+\0 voici 2\0\0}\0\0\0￿,
+\0 2\0\0}\0\0￿n\0\0\0\0n\0\0 et 2\0\0}\0\0￿!"
+"094_01","(촀\0Pour ce qui est des matériaux
+manquantsn\0\0 merci d'avance
+pour ta coopération!"
+"094_02","(촀\0Pour ce qui est du dernier matériau
+manquantn\0\0 merci mille fois d'avance
+pour ta coopération!"
+"101","Pour construire la boutique,
+\0 il nous
+faut :
+\0 \030 bois\0￿, 
+\0\030 bois durs\0￿
+\0, \030 bois
+tendres\0￿ 
+\0et \030 pépites de fer\0￿!"
+"102","(촀\0Ne te sens pas obligé2\0e de tout
+apporter d'un coup.\0\0()촀\0Tu peux faire ça progressivement, en
+venant me voir quand tu as réuni
+30 morceaux d'un même matériau!(촀"
+"103_01","(
+촀\0Nous avons déjà réuni certains des
+matériaux nécessaires, mais il nous
+manque encoren"
+"103_02_01","()촀\0\030\0￿ morceaux de \0bois dur\0￿,
+\0 \030\0￿ de \0bois
+tendre\0￿,
+\0 ainsi que \030 pépites de fer\0￿.
+\0
+(촀\0Mille mercis d'avance pour ton aide!"
+"103_02_02","()촀\0\030\0￿ morceaux de \0bois\0￿,
+\0 \030\0￿ de \0bois
+tendre\0￿,
+\0 ainsi que \030 pépites de fer\0￿.
+\0
+(촀\0Mille mercis d'avance pour ton aide!"
+"103_02_03","()촀\0\030\0￿ morceaux de \0bois\0￿,
+\0 \030\0￿ de \0bois
+dur\0￿,
+\0 ainsi que \030 pépites de fer\0￿.
+\0
+(촀\0Mille mercis d'avance pour ton aide!"
+"103_02_04","()촀\0\030\0￿ morceaux de \0bois\0￿, 
+\0\030\0￿ de \0bois dur\0￿,
+\0
+et \030\0￿ de \0bois tendre\0￿.
+\0 (촀\0Mille mercis
+d'avance pour ton aide!"
+"103_03_01","()촀\0\030\0￿ morceaux de \0bois\0￿,
+\0 et \030\0￿ de 
+\0bois dur\0￿.
+\0 (촀\0Mille mercis d'avance
+pour ton aide!"
+"103_03_02","()촀\0\030\0￿ morceaux de \0bois\0￿,
+\0 et \030\0￿ de 
+\0bois tendre\0￿.
+\0 (촀\0Mille mercis d'avance
+pour ton aide!"
+"103_03_03","()촀\0\030\0￿ morceaux de \0bois\0￿,
+\0 et \030 pépites
+de fer\0￿.
+\0 (촀\0Mille mercis d'avance pour
+ton aide!"
+"103_03_04","()촀\0\030\0￿ morceaux de \0bois dur\0￿,
+\0 et \030\0￿ de 
+\0bois tendre\0￿.
+\0 (촀\0Mille mercis d'avance
+pour ton aide!"
+"103_03_05","()촀\0\030\0￿ morceaux de \0bois dur\0￿,
+\0 et
+\030 pépites de fer\0￿.
+\0 (촀\0Mille mercis
+d'avance pour ton aide!"
+"103_03_06","()촀\0\030\0￿ morceaux de \0bois tendre\0￿,
+\0 et
+\030 pépites de fer\0￿.
+\0 (촀\0Mille mercis
+d'avance pour ton aide!"
+"103_04_01","(%촀\0\030\0￿ morceaux de \0bois\0￿.
+\0 (촀\0Mille mercis
+d'avance pour ton aide!"
+"103_04_02","(%촀\0\030\0￿ morceaux de \0bois dur\0￿.
+\0 (촀\0Mille
+mercis d'avance pour ton aide!"
+"103_04_03","(%촀\0\030\0￿ morceaux de \0bois tendre\0￿.
+\0 (촀\0Mille
+mercis d'avance pour ton aide!"
+"103_04_04","(%촀\0\030 pépites de fer\0￿.
+\0 (촀\0Mille mercis
+d'avance pour ton aide!"

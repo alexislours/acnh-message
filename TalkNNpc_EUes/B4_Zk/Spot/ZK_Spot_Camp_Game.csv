@@ -1,0 +1,147 @@
+﻿"label","text"
+"001","(촀\0Oye, ¡tengo una idea! ¿Qué te parece
+si apostamos algo en un juego?\0\0(&촀\0¿Con qué podría convencerte?
+\0 (
+촀\0A ver
+que piensen\0\0
+\0 (6촀\0¡Ya sé!
+\0 Si ganas,
+\0 ¡te
+doy mi }\0\0!"
+"001_a","¡Me apunto!"
+"001_b","Ahora no..."
+"002","(촀\0¡Así me gusta!
+\0 Bien, ¿te explico
+el funcionamiento del juego?"
+"002_a","Sí, porfa"
+"002_b","¡No hace falta!"
+"003","(촀\0Pues qué lástiman\0\0
+\0 Bueno, si cambias
+de opinión avísame, ¿vale?\0\0(촀\0¡Que sepas que muchos seguidores
+de mi blog se pelearían por poder
+jugar conmigo, n\0!"
+"004","(<촀\0¡De acuerdo!
+\0 ¡Pues a barajar se ha
+dicho! 
+\0¿Sabías que tengo un talento
+natural para ello?"
+"005","(6촀\0Veamos a quién le ha sonreído
+la fortuna y 
+\0a quién no."
+"006_01","(9촀\0Bueno, soy 2\0n\0 de
+palabra, así que (%촀\0puedes quedarte
+con mi }\0\0."
+"006_02","(%촀\0Lo prometido es deuda.
+\0 ¡Quédate
+con mi }\0\0!"
+"006_03","(촀\0¡Bravo!
+\0 ¡He ganado! 
+\0(촀\0Y tú has
+perdidn\0\0
+\0 (2촀\0Eston\0\0
+\0 Bueno,
+\0 ya tendrás
+mejor suerte la próxima vez."
+"007_01","(촀\0No me explico cómo ha podido
+ocurrirn\0\0
+\0 ¡Es la primera vez que
+pierdo en años!
+(7촀\0\0(Si no contamos aquella vez que me
+presenté al concurso de talentosn\0\0)\0￿\0\0(""촀\0¡Espero que algún día me concedas
+la revancha, n\0!"
+"007_03","(9촀\0Las victorias solo se disfrutan si
+también sufrimos derrotas de vez
+en cuando, (촀\0así quen\0\0
+\0 ¡de nada!"
+"008","(촀\0Pues venga,
+\0 (촀\0¡que dé comienzo el
+juego!\0\0('촀\0¡Espera,
+\0 espera!
+\0 (촀\0No parece que
+te quede sitio para llevarte mi
+}\0\0n\0\0
+(1촀\0Te espero aquí hasta que hayas
+liberado algo de espacion\0\0
+\0 (촀\0¡Ejem!"
+"100","()촀\0¡Ojo!
+\0 Tengo cuatro cartas de palos
+distintos:
+\0 picas (\0♠\0￿),
+\0 tréboles (\0♣\0￿),
+\0
+diamantes (\0♦\0￿)
+\0 y corazones (\0♥\0￿).
+(%촀\0El juego es muy sencillito:
+\0 cogeré
+una carta y tú tendrás que adivinar
+de qué palo es.
+(촀\0Si aciertas,
+\0 como premio te llevas
+mi }\0\0.\0\0(<촀\0¡Vamos 
+\0allá!"
+"101","(9촀\0Piensa con todas tus fuerzas en
+la carta que tengo en la manon\0\0\0\0(&촀\0¿De qué palo crees que es:
+\0
+corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) o tréboles (\0♣\0￿)?"
+"101_a","Corazones (\0♥\0￿)"
+"101_b","Diamantes (\0♦\0￿)"
+"101_c","Picas (\0♠\0￿)"
+"101_d","Tréboles (\0♣\0￿)"
+"102_01","\0
+\0(촀\0¡Pero si eran 촀!
+\0
+	\0\0\0\0d\0d(촀\0¡Qué buen ojo tienes!\0d"
+"102_02","\0
+\0¡Eran (촀\0촀!
+\0
+	\0\0\0\0d\0d(촀\0Siento que no haya podido
+ser, \0dn\0."
+"200","()촀\0¡Fíjate!
+\0 Tengo cuatro cartas de palos
+distintos:
+\0 picas (\0♠\0￿),
+\0 tréboles (\0♣\0￿),
+\0
+diamantes (\0♦\0￿)
+\0 y corazones (\0♥\0￿).
+(%촀\0El juego es facilísimo:
+\0 yo cojo
+una carta y tú debes adivinar
+de qué color es el palo.
+(촀\0Por ejemplo, si eliges \0rojo\0￿ y la carta
+era de \0♥ \0￿o \0♦\0￿,
+\0 ¡te puedes quedar con
+mi }\0\0!
+(<촀\0¡Vamos al grano!
+\0 Barajo un poco yn"
+"201","(3촀\0¡Aquí está la carta!\0\0(&촀\0¿De qué color crees que es el palo?
+\0
+¿«\0Rouge\0￿» o «\0noir\0￿»?\0\0(촀\0Ah, perdona. A veces me olvido
+de que no todo el mundo domina
+los idiomas. 
+\0Probaré otra vez.
+(&촀\0¿Crees que el palo es \0rojo \0￿o \0negro\0￿?"
+"201_a","\0Rojo\0￿"
+"201_b","\0Negro\0￿"
+"202_01","\0
+\0Es de (촀\0촀n\0\0
+\0 ¡Ergo \0rojo\0￿!
+\0(
+	\0\0\0(5촀\0\0d¡Has acertado de pleno, n\0!"
+"202_02","\0
+\0Es de (촀\0촀n\0\0
+\0 ¡Ergo \0negro\0￿!
+\0
+	\0\0\0\0d\0d(촀\0Se siente, n\0.\0d"
+"202_03","\0
+\0Es de (촀\0촀n\0\0
+\0 ¡Ergo \0negro\0￿!
+\0
+	\0\0\0(5촀\0\0d¡La suerte ha estado de tu lado,
+n\0!"
+"202_04","\0
+\0Es de (촀\0촀n\0\0
+\0 ¡Ergo \0rojo\0￿!
+\0(
+	\0\0\0\0d(촀\0Mala suerte, n\0\0d.\0d"

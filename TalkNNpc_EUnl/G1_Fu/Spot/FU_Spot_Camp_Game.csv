@@ -1,0 +1,121 @@
+﻿"label","text"
+"001","(4촀\0Ik
+\0 heb een leuk idee
+\0n\0\0 Zullen we een
+spelletje spelen?\0\0()촀\0Als je wint,
+\0 geef ik jou mijn 2촃}\0\0!\0\0($촀\0Wil je het proberen,
+\0 n\0?"
+"001_a","Ja, lijkt me leuk!"
+"001_b","Nu even niet, dank je."
+"002","Wil je (&촀\0de spelregels horen?"
+"002_a","Ja, graag!"
+"002_b","Nee, hoeft niet."
+"003","Oké,
+\0 (촀\0dan misschien een andere keer."
+"004","(<촀\0Goed,
+\0 dan zal ik de kaarten
+schudden."
+"005","(6촀\0Dus dat wordt het?
+\0( (촀\0Laten we snel
+kijken of je gelijk hebt."
+"006_01","Omdat je gewonnen hebt,
+\0 (촀\0mag je mijn 2촃}\0\0 hebben!"
+"006_02","(6촀\0Ik heb verloren.
+\0( (\0촀\0Dus jij krijgt
+\0(촀\0 mijn
+2촃}\0\0!"
+"006_03","(촀\0Jammer.
+\0 Je hebt deze keer geen prijs
+gewonnen."
+"007_01","(;촀\0Ben je soms een expert in raden?
+\0(
+(6촀\0We moeten een andere keer nog
+maar eens spelen,
+\0 n\0."
+"007_03","('촀\0Ik hoop dat je
+\0 later nog een keer zin
+hebt(촀\0 om een spelletje te spelen."
+"008","(촀\0O, meen je dat?
+\02 ( 촀\0Wacht, 
+\0je zakken
+zitten veel te vol.\0\0('촀\0Dan kan ik je geen prijs geven.
+\0( (\0촀\0Laten
+we maar een andere keer spelen,(촀\0
+\0 als
+je meer plek hebt,
+\0 n\0."
+"100","($촀\0Oké,
+\0 de regels zijn simpel.
+\0(()촀\0 Ik heb 4
+kaarten
+\0 en iedere kaart heeft een
+ander symbool: \0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿,
+\0 en \0♣\0￿n\0\0
+(\0촀\0Ik zal een kaart trekken
+\0 en jij moet
+raden(촀\0 welk symbool er op de kaart
+staat.\0\0(\0촀\0Als je het goed raadt,
+\0(%촀\0 win je mijn
+2촃}\0\0.\0\0(촀\0Ben je er klaar voor?
+\0 (<촀\0Ik ga nu
+schudden."
+"101","Oké!
+\0 (6촀\0Wat staat er op de kaart die ik
+heb getrokken? \0♥ Harten\0￿, \0♦ ruiten\0￿,
+\0♠ schoppen\0￿, of \0♣ klaveren\0￿?"
+"101_a","\0♥ Harten!\0￿"
+"101_b","\0♦ Ruiten!\0￿"
+"101_c","\0♠ Schoppen!\0￿"
+"101_d","\0♣ Klaveren!\0￿"
+"102_01","(촀\02\0촀!
+\0((촀\0 Je hebt het goed!"
+"102_02","(촀\02\0촀!
+\0((촀\0 Ah,
+\0 dat is niet goed
+\0n"
+"200","($촀\0Oké,
+\0 hier komen de spelregels.
+\0(
+()촀\0Ik heb 4 kaarten,
+\0 ieder met een ander symbool: \0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿,
+\0 en \0♣\0￿n\0\0\0\0(\0촀\0Ik trek een kaart
+\0 en jij moet raden
+(촀\0wat de kleur van het symbool is op
+de kaart.
+\0 \0Rood\0￿ of \0zwart\0￿.\0\0(\0촀\0Als je het goed raadt,
+\0 win je(%촀\0 mijn
+2촃}\0\0.\0\0(촀\0Simpel, hè?
+\0 (<촀\0Ik zal nu de kaarten
+schudden."
+"201","Oké,
+\0 (6촀\0heeft de kaart die ik net heb
+getrokken
+\0n\0\0(\0촀\0 een \0rood\0￿
+\0 of een \0zwart\0￿
+symbool?
+\0
+(;촀\0Wat kies je,
+\0 n\0?"
+"201_a","\0Rood!\0￿"
+"201_b","\0Zwart!\0￿"
+"202_01","(촀\0촀!
+\0( Dat is \0rood\0￿!
+\0((촀\0 Je hebt het
+goed!"
+"202_02","(촀\0촀!
+\0( (촀\0Ah, 
+\0dat is \0zwart\0￿.
+\0( Je hebt het helaas niet goed
+\0n"
+"202_03","(촀\0촀!
+\0( Dat is \0zwart\0￿!
+\0((촀\0 Je hebt het goed!"
+"202_04","(촀\0촀!
+\0( (촀\0Ah, 
+\0dat is \0rood\0￿.
+\0( Je hebt het helaas niet goed
+\0n"

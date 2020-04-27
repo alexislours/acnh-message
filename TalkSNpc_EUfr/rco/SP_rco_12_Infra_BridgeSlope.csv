@@ -1,0 +1,329 @@
+﻿"label","text"
+"001","(촀\0Ho ho !
+\0 Tu veux en savoir plus à
+propos des ponts et des rampes,
+hm ?
+\0 Ça tombe bienn\0\0
+(\0촀\0Notre nouveau bureau des résidents
+propose justement un service inédit
+aux adhérents de la formule Évasion.
+(촀\0Grâce à lui, réaliser des projets
+d'envergure tels que des ponts et
+des rampes devient un jeu d'enfant !
+(촀\0Ne va pas en conclure que ces
+chantiers sont soudain devenus
+bon marché, non non !\0\0(촀\0Mais comme tous les résidents de
+l'île peuvent participer aux frais, ce
+n'est pas un obstacle insurmontable.
+(촀\0Et de toute façon, nous pouvons
+discuter de ta vision de l'île même si
+tu n'as pas une clochette vaillante !
+(촀\0Enfin, garde à l'esprit que nous ne
+pouvons mettre en chantier qu'un
+pont ou qu'une rampe à la fois.
+(촀\0Alors ne va pas trop vite en besogne
+et étudie soigneusement tes projets
+avant de m'en parler, hm ?"
+"002","(촀\0Bienn\0\0
+\0(&촀\0 De quoi souhaites-tu
+me parler ?"
+"002_a","Construire un pont."
+"002_b","Installer une rampe."
+"002_c","Démolir un élément."
+"002_d","Rien, merci."
+"003","(촀\0Les ponts et les rampes, hm ?
+\0
+(&촀\0Et en quoi puis-je t'aider ?"
+"003_a","Construire un pont."
+"003_b","Installer une rampe."
+"003_c","Démolir un élément."
+"003_d","En fait, non."
+"004","(촀\0Je vois, je vois. 
+\0(\0촀\0Reviens me voir dès
+que tu voudras aborder le fascinant
+sujet(""촀\0 des ponts et des rampes."
+"101","(촀\0Ho ho, un pont, hm ?
+\0 Excellente idée.
+\0(촀\0
+Il n'y a pas mieux pour relier deux
+terrains séparés par une rivière."
+"102","(촀\0Je t'en prie, fais ton choix parmi
+les modèles proposés dans notre
+catalogue."
+"103","(촀\02\02\0}\0\0 !
+\0
+Tu es sûr2\0e de ton choix ?
+\0 Ce pont-là
+et pas un autre, hm ?"
+"103_a","Absolument !"
+"103_b","Nan, j'ai rien dit."
+"104","(촀\0Parfait !(\0촀\0 Dans ce cas, 
+\0(촀\0nous devons
+maintenant choisir un endroit.\0\0(\0촀\0Pour cela, utilise le \0kit emplacement
+pont\0￿ (촀\0que j'ai glissé dans tes poches
+afin de délimiter le chantier."
+"105","(\0촀\0Utilise ton kit près d'une rivière 
+\0(촀\0et
+un peu d'imagination te suffira pour
+visualiser le chantier achevé."
+"106","(촀\0Parfait !
+\0 Oun\0\0 (&촀\0Ou pas ? 
+\0(촀\0J'ai bien peur
+que tes poches soient pleines et
+archi-pleines, n\0.
+(\0촀\0Comment pourrais-je te donner le \0kit
+emplacement pont(촀\0\0￿ nécessaire à la
+délimitation d'un chantier ?
+(\0촀\0Sans vouloir te commander, tu peux
+faire de la place dans tes poches s'il
+te plaît ?
+\0(촀\0 Nous reparlerons ensuite."
+"107","(촀\0Hein ?
+\0 Tu as changé d'avis ? 
+\0(\0촀\0Enfin,
+tu as raison de réfléchir, 
+\0(촀\0ce n'est pas
+un projet à prendre à la légère."
+"108","(
+촀\0Ohn\0\0 Il semble que nous avons déjà
+\0huit\0￿ ponts. 
+\0(촀\0Notre petite île ne peut
+guère en soutenir davantage.
+(\0촀\0À moins que tu sois disposé2\0e (촀\0à en
+\0démolir\0￿ un au préalable ? 
+\0Dans ce
+cas, ça change tout !"
+"201","(촀\0Ah, les rampes !
+\0 Les escaliers, les
+pentesn\0\0 (촀\0Rien de mieux pour faciliter
+l'accès aux falaises, non, non !"
+"202","(촀\0Je t'en prie, fais ton choix parmi
+les modèles proposés dans notre
+catalogue."
+"203","(촀\02\02\0}\0\0 !
+\0
+Tu es sûr2\0e de toi ?
+\0 Tu arrêtes ton
+choix sur cette rampe-là, hm ?"
+"203_a","Absolument !"
+"203_b","Nan, j'ai rien dit."
+"204","(촀\0Parfait !(\0촀\0 Dans ce cas, 
+\0(촀\0nous devons
+maintenant choisir un endroit.\0\0(\0촀\0Pour cela, utilise le \0kit emplacement
+rampe \0￿(촀\0que j'ai glissé dans tes poches
+afin de délimiter le chantier."
+"205","(\0촀\0Pense à ménager assez d'espace
+quand tu l'utiliseras, et aussi à le
+placer près du \0pied de la falaise\0￿.
+(촀\0Quand tu seras prêt2\0e, laisse faire ton
+imagination et tu pourras visualiser
+le résultat."
+"206","(촀\0Parfait !
+\0 Oun\0\0 (&촀\0Ou pas ? 
+\0(촀\0J'ai bien peur
+que tes poches soient pleines et
+archi-pleines, n\0.
+(\0촀\0Comment pourrais-je te donner le
+\0kit emplacement rampe(촀\0\0￿ nécessaire
+à la délimitation d'un chantier ?
+(\0촀\0Sans vouloir te commander, tu peux
+faire de la place dans tes poches s'il
+te plaît ?
+\0(촀\0 Nous reparlerons ensuite."
+"207","(촀\0Hein ?
+\0 Tu as changé d'avis ? 
+\0(\0촀\0Enfin,
+tu as raison de réfléchir, 
+\0(촀\0ce n'est pas
+un projet à prendre à la légère."
+"208","(
+촀\0Ohn\0\0 Il semble que nous avons déjà
+\0huit\0￿ rampes. 
+\0(촀\0Notre petite île ne peut
+guère en accueillir davantage.
+(\0촀\0À moins que tu sois disposé2\0e (촀\0à en
+\0démolir\0￿ une au préalable ? 
+\0Dans ce
+cas, ça change tout !"
+"301","(촀\0Hm ? 
+\0(촀\0Tu souhaites démolir un pont
+ou une rampe ?\0\0(촀\0Ma foi, ça prouve que tu as à cœur
+d'exploiter au mieux l'espace
+disponible sur notre charmante île.
+(\0촀\0Je me dois toutefois de t'informer
+qu'une telle prestation se négocie au
+modeste tarif de (촀\0Z\0."
+"302","(
+촀\0Notre île ne disposant d'aucun pont
+ni de la moindre rampe, 
+\0(촀\0je vois mal
+ce que nous pourrions démolirn\0\0
+(:촀\0Mais je signale à tout hasard qu'une
+telle destruction serait irréversible.
+\0
+(촀\0Tiens-le-toi pour dit, oui, oui !"
+"303","(촀\0Une fois démolis, les ponts et autres
+rampes ne peuvent plus être remis
+en place, 
+\0(촀\0alors réfléchis bien !
+Cet avertissement préalable ayant
+été fourni en bonne et due forme,
+
+\0(&촀\0souhaites-tu changer d'avis ?"
+"303_a","(\0촀\0Pas question."
+"303_b","(\0촀\0Tout bien réfléchi..."
+"304","(촀\0Oh ?
+\0(촀\0 Une démolition ? 
+\0(촀\0Ma foi, avec
+toutes ces structures sur l'île,
+
+\0(%촀\0j'imagine que ça devait arriver."
+"305","Alors parlons peu, parlons pont,
+ou prenons langue et parlons rampe.
+
+\0(촀\0Que veux-tu démolir au juste, hm ?"
+"306","Tu veux détruire notre adorable
+}\0\0 ?\0\0(\0촀\0Ce sera fait dès que tu le désireras,
+et bien sûr, (촀\0que tu te seras délesté2\0e
+de Z\0 de rien du tout."
+"306_01","Tu veux détruire notre adorable
+}\0\0 ?\0\0(\0촀\0Ce sera fait dès que tu le désireras,
+et bien sûr, (촀\0que tu te seras délesté2\0e
+de Z\0 de rien du tout."
+"306_01_a","J'hésite, du coup."
+"306_01_b","DÉ-MO-LI-TION !"
+"306_a","J'hésite, du coup."
+"306_b","DÉ-MO-LI-TION !"
+"307","(%촀\0Message reçu cinq sur cinq, oui, oui.
+(\0촀\0Le temps d'expédier la paperasse, (촀\0et
+on aura fait place nette demain."
+"308","(&촀\0Un petit doute, hm ? 
+\0(촀\0Pas étonnant,
+vu les efforts harassants déployés
+pour bâtir ces merveilles à la base.
+(""촀\0Ceci dit, si tu décides de faire table
+rase malgré tout, fais-moi signe et
+j'y mettrai un grand coup de masse."
+"309","(촀\0Qu'ouïs-je ? 
+\0(&촀\0Tu es bien conscient2\0e
+(촀\0qu'il n'y a pas l'ombre d'un pont
+ou d'une rampe à démolir, hm ?
+(촀\0Mais nous en reparlerons sans doute
+plus tard. Construire et démolir, c'est
+toujours gagner des clochettes, hm ?"
+"310","(%촀\0Message reçu cinq surn\0\0 
+\0(\0촀\0Euh, 
+\0à
+propos de chiffres, j'ai bien peur
+que tu manques de clochettes.
+(촀\0Désolé, mais on ne rase pas gratis.
+\0
+(""촀\0Reviens me voir quand tu seras un
+peu mieux pourvu2\0e, hm ?"
+"401","(촀\0Ah, n\0, tu cherches un endroit où bâtir notre futur2촀\0e\0
+}\0\0, hm ?\0\0(&촀\0Alors dis-moi tout : 
+\0comment
+puis-je t'aider ?"
+"401_a","J'ai besoin de conseils !"
+"401_b","Je laisse tomber."
+"401_c","En fait, ça ira."
+"402","(%촀\0Il y a quelques éléments à prendre
+en compte lorsqu'on détermine
+l'emplacement d'un pont.
+(촀\0C'est un peu comme installer une
+tente. 
+\0Mais parlons d'abord du \0kit
+emplacement pont\0￿ que je t'ai confié.
+()촀\0Il faut d'abord dénicher l'endroit
+idéal, puis se mettre face à la rivière,
+(촀\0et enfin placer le kit !
+(\0촀\0Cependant, 
+\0(
+촀\0si la rivière est trop large
+ou trop étroite, (촀\0ou la rive irrégulière,
+ce sera un coup d'épée dans l'eau.
+(\0촀\0Etn\0\0 (촀\0je crois qu'on a fait le tour de
+mes connaissances en matière de
+construction de pont."
+"402_01","(\0촀\0Il y a quelques éléments à prendre
+en compte lorsqu'on détermine
+l'emplacement d'une rampe.
+(촀\0C'est un peu comme installer une
+tente. 
+\0Mais parlons d'abord du \0kit
+emplacement rampe \0￿que tu as reçu.
+()촀\0Il faut d'abord dénicher l'endroit
+idéal, puis se positionner au \0pied
+d'une falaise\0￿, (촀\0et enfin placer le kit !
+(\0촀\0Tout devrait se passer au poil,
+pourvu que tu ménages suffisamment
+d'espace pour le chantier.
+(\0촀\0Etn\0\0 (촀\0je crois qu'on a fait le tour de
+mes connaissances en matière de
+construction de rampe."
+"403","(\0촀\0J'ai hâte de voir où viendra
+fièrement se dresser notre (촀\0futur2촀\0e\0
+}\0\0 !"
+"404","(&촀\0Oh ?
+\0 Tu souhaites annuler le projet ?
+\0
+(촀\0Dans ce cas, je ferais aussi bien de
+reprendre ce kit devenu inutile."
+"405","(촀\0À la bonne heure. 
+\0(촀\0Bonne chance
+pour trouver l'endroit idéal pour
+notre }\0\0 !"
+"501","(촀\0Nous réunissons déjà les fonds pour
+notre }\0\0 flambant neu2촀fve\0n\0\0\0\0C'est pourquoi l'heure n'est plus
+tellement aux changements et autres
+tergiversations, mais je t'écoute."
+"501_a","On annule tout."
+"501_b","Non, tout va bien."
+"502","(촀\0Dis-moi que j'ai les esgourdes qui
+débloquent !
+\0 Annuler le chantier de
+notre }\0\0 ?
+(촀\0Tous les dons accumulés vont finir
+à la poubelle, pauvres et innocentes
+clochettes !
+\0 (&촀\0Tu es vraiment sûr2\0e ?"
+"502_a","Nan, je rigole."
+"502_b","On annule, j'ai dit !"
+"503","Soit, je m'en occupe. (촀\0Dès demain,
+ce projet appartiendra au passé
+et le site sera à nouveau disponible."
+"504","(촀\0Ho ho, quel2\0le farceu2
+rse ! (\0촀\0Entre deux
+hoquets d'hilarité, n'oublie quand
+même pas d'aller voir le gyroïden\0\0
+(촀\0Il t'attend sur le chantier et sera
+ravi d'accepter tes généreux dons,
+oui, oui !"
+"603","(촀\0Ah, les ponts et les rampes, hm ?
+\0
+Hélas, je ne peux pas étudier de
+changement à l'heure actuelle.
+()촀\0Il se trouve que le chantier d2촀ue la\0
+futur2촀\0e\0 }\0\0 me prend tout mon temps.\0\0(\0촀\0Mais j'en vois le bout, oui, oui. 
+\0(촀\0Les
+fonds sont réunis et tout sera achevé
+demain. 
+\0(""촀\0Repasse à ce moment-là !"
+"604","(촀\0Ah, les ponts et les rampes, hm ?
+\0
+Hélas, je ne peux pas étudier de
+changement à l'heure actuelle.
+()촀\0Il se trouve que l'annulation de
+notre }\0\0 me prend tout mon temps.\0\0(\0촀\0Je pense que j'aurai terminé toutes
+les démarches administratives d'ici
+demain. 
+\0(""촀\0Repasse à ce moment-là !"
+"605","(촀\0Ah, les ponts et les rampes, hm ?
+\0
+Hélas, je ne peux pas étudier de
+changement à l'heure actuelle.
+()촀\0Il se trouve que la démolition de
+notre }\0\0 me prend tout mon temps.\0\0(\0촀\0Les travaux de démolition devraient
+être terminés d'ici demain. 
+\0(""촀\0Repasse
+à ce moment-là !"

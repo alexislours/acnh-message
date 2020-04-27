@@ -1,0 +1,813 @@
+﻿"label","text"
+"001","(""촀\0Salut,
+\0 je viens juste d'arriver sur l'île.
+\0
+(촀\0Je m'appelle n
+\0 !\0\0()촀\0Mon ami2
+촀\0e\0 s\0촀 m'a
+convaincue de venir m'installer ici
+et de quitter s촀.\0\0(촀\0Toi,
+\0 tu es n\0,
+\0 c'est
+ça ?
+\0 Il paraît que tu es déjà plutôt
+apprécié2\0e dans le coin, n\0.\0\0(촀\0Le déballage de mes affaires va bien
+m'occuper aujourd'hui,
+\0 mais on peut
+(촀\0sûrement se voir bientôt, d'accord ?(촀"
+"002","<"
+"002_01","(촀\0Bonjour !
+\0 Je crois qu'on n'a pas
+encore eu l'occasion de se
+présentern\0\0\0\0Je suis n
+\0.
+\0 Avant,
+\0
+j'habitais à s촀.\0\0($촀\0Tu t'appellesn\0\0 n\0 ?
+(촀\0C'est vraiment un nom très chouette.\0\0()촀\02\0s\0촀 m'a convaincue de m'installer à n\0,
+\0 (%촀\0pour prendre un nouveau départ.\0\0(촀\0Je suis bien contente d'avoir fait ta
+connaissance,
+\0 (4촀\0et j'espère qu'on va
+devenir des ami2\0es. 2\0n\0 !"
+"002_02","(""촀\0Salut,
+\0 ravie de te rencontrer !
+\0 (촀\0J'ai
+quitté s촀 il n'y a pas
+très longtemps,
+\0 pour m'installer ici.\0\0(촀\0Et jusqu'ici,
+\0 je me plais énormément
+sur cette île !
+\0 (촀\0Je ne le regrette pas.\0\0()촀\0C'est mon ami2
+촀\0e\0 s\0촀
+qui m'a convaincue de déménager
+à n\0.\0\0(;촀\0Toi,
+\0 tu es n\0,
+\0 c'est
+ça ?
+\0 (촀\0J'ai entendu dire beaucoup de
+bien à ton sujet !\0\0Je suis contente qu'on soit voisin2\0es,
+\0
+et (4촀\0j'espère bien qu'on deviendra des
+ami2\0es, n\0."
+"002_03","(촀\0Oh, bonjour !
+\0 C'est un plaisir de faire
+ta connaissance.
+\0 (촀\0Je me présente :
+n
+\0.\0\0Tu es n\0, c'est ça ?
+\0
+(촀\0Je suis contente de t'avoir croisé2\0e !\0\0()촀\02\0s\0촀 m'a convaincue
+d'emménager à n\0,
+\0
+(%촀\0et je lui en suis très reconnaissante.\0\0(촀\0Parce que c'est grâce à 2
+촀luielle\0 que toi
+et moi avons cette chance de faire
+connaissance, n\0 !"
+"004","(촀\0Enchantée de faire ta connaissance.
+\0
+(,촀\0AAA
+\0TCHOUM !
+\0 (촀\0Oups,
+\0 désoléen\0\0
+(\0촀\0Je m'appelle n
+\0.\0\0(촀\0Toi, tu es (\0촀\0n\0,
+\0 c'est
+ça ?
+\0 Connais-tu s\0촀 ?\0\0(%촀\0C'est 2
+촀luielle\0 qui m'a poussée à venir
+m'installer ici, etn\0\0 (,촀\0AAA
+\0TCHOUM !\0\0(8촀\0Grr,
+\0 fichu rhumen\0\0 (4촀\0Il vaudra mieux
+discuter de tout ça quand je serai
+remise,
+\0 d'accord ?\0\0(,촀\0ATCHOUM !
+\0 (\0촀\0Désolée.
+\0 (,촀\0AAA
+\0TCHOUM !"
+"011","(""촀\0Ravie de faire ta connaissance !
+\0
+(촀\0Je m'appelle n
+\0,
+\0
+et je suis nouvelle, ici.\0\0()촀\0Une connaissance qui vivait sur cette
+île m'a convaincue de déménager ici,
+\0
+(촀\0mais elle est partie sans prévenir.\0\0(촀\0Désolée,
+\0 je ne t'ai même pas laissé
+le temps de te présenter !
+\0 (4촀\0Tu es
+n\0,
+\0 c'est ça ?\0\0(촀\0Je me sentais un peu seule, ici,
+\0 alors
+j'apprécie vraiment que tu me prêtes
+une oreille attentive, n\0.\0\0Tu es quelqu'un de très gentil, etn\0\0
+(촀\0j'espère qu'on deviendra ami2\0es !(촀"
+"012","()촀\0Depuis que j'ai emménagé ici,
+\0 je n'ai
+pas eu l'occasion de me présentern\0\0
+\0
+(촀\0Je m'appelle n
+\0.\0\0()촀\0Quelqu'un de l'île m'avait persuadée
+de déménager ici, mais à l'arrivéen\0\0
+(촀\0cette personne n'habite plus l'île.
+(\0촀\0Enfin,
+\0 c'est le genre de choses qui
+arrivent.
+\0 (촀\0C'est la vie,
+\0 il faut croire.
+\0
+(촀\0Tu es n\0, c'est ça ?\0\0(4촀\0Je suis contente d'avoir l'occasion
+de te rencontrer enfin.
+\0 (촀\0J'espère
+qu'on sera ami2\0es, 
+\0n\0 !(촀"
+"014","(,촀\0ATCHOUM ! 
+\0((4촀\0Désoléen\0\0 un rhume.
+\0
+Je m'appelle n
+\0.\0\0(4촀\0Tu es n\0, c'est ça ?
+\0
+(,촀\0ATCHOUM !
+\0( (촀\0Ravie de te rencontrer.\0\0()촀\0Quelqu'un d'ici m'a dit que cette île
+était un chouette endroit où habiter.\0\0Mais avant même que je m'y installe,
+(촀\0cette personne a quitté l'îlen\0\0\0\0(촀\0En plus, avec ce rhume, j'ai mal à la
+tête. La situation commençait un peu
+à tourner à la catastrophen\0\0\0\0(촀\0Enfinn\0\0 jusqu'à notre rencontre, bien
+sûr !
+\0 Que tu m'écoutes comme çan\0\0
+(촀\0J'apprécie vraiment !
+\0( (,촀\0ATCHOUM !\0\0(촀\0Bonn\0\0 On en discutera davantage
+quand je serai guérie de ce rhume."
+"101","(""촀\0Coucou !
+\0 J'ai emménagé aujourd'hui.
+\0
+(촀\0Je m'appelle n
+\0.\0\0(
+촀\0Tu as une tête à t'appeler
+\0n\0\0 (촀\0n\0.
+\0 (촀\0J'ai vu juste ?\0\0(4촀\0Je suis nouvelle ici,
+\0 j'ai été invitée
+à venir emménager sur cette île
+par s\0촀.\0\0(\0촀\0Il faut encore que je déballe toutes
+mes affaires,
+\0 ($촀\0mais j'espère qu'on
+aura bientôt l'occasion de se voir !"
+"102","<"
+"102_01","( 촀\0On ne se connaît pas encore,
+je crois ?
+\0 (촀\0Je suis toute nouvelle
+sur l'île.
+\0
+Je m'appelle n
+\0.\0\0($촀\0Tu es n\0, non ?
+\0
+(촀\0Je le trouve marrant, ton nom.\0\0()촀\0Je me suis installée ici sur les
+conseils 2
+de d'⁠s\0촀.\0\0(촀\0Tu sais tout !
+\0 (촀\0Je dois dire que tout
+se passe merveilleusement bien
+\0
+jusque-là, n\0."
+"102_02","(""촀\0Hola !
+\0 Tu dois être n\0 ?
+\0 (6촀\0J'ai tellement entendu parler de toi !\0\0(%촀\0Moi c'est n
+\0.
+\0(촀\0 J'habite ici depuis peu.
+\0 Enchantée de faire ta connaissance !\0\0()촀\0J'ai décidé de m'installer ici
+\0 après
+y avoir été gentiment invitée par s\0촀.\0\0(촀\0Et tu vois, ça nous a permis de nous
+rencontrer !
+\0 (촀\0J'espère qu'on sera
+ami2\0es, n\0 !"
+"102_03","(촀\0Hello !
+\0 Tu ne serais pas n\0 ?\0\0(4촀\0Je m'appelle n
+\0.
+\0 Je viens d'emménager sur l'île.\0\0()촀\0C'est s\0촀 qui a eu la gentillesse de m'inviter à venir m'installer ici.\0\0(촀\0Sans 2
+촀luielle\0, nous ne nous serions
+peut-être jamais rencontré2\0es.
+\0
+C'est le destin, n\0 !"
+"104","(촀\0Je m'appelle n
+\0,
+\0 ravie de te rencontrer.\0\0(\0촀\0Tu dois être,
+\0 aaa
+\0n\0\0 (,촀\0atchoum !\0\0(9촀\0Désolée.
+\0 Tu t'appelles n\0, non ?\0\0()촀\0C'est grâce à s\0촀 si j'habite ici,
+\0 2
+촀ilelle\0 m'a gentiment invitée
+à venir emménager sur votre île.\0\0(+촀\0Mais je suis malade depuis que j'ai
+emménagén\0\0 (촀\0On discutera une
+prochaine foisn\0\0
+\0 (,촀\0Aaaan\0\0 atchoum !"
+"111","(""촀\0Coucou !
+\0 Je viens d'emménager.
+\0
+(촀\0Je m'appelle n
+\0.\0\0()촀\0J'ai rencontré quelqu'un d'ici,
+\0
+et je me suis laissée convaincre
+de déménager.\0\0(촀\0Le souci,
+\0 c'est que cette personne
+a déménagé ailleurs entre-tempsn\0\0\0\0( 촀\0Oh, mais
+\0 je ne t'ai même pas laissé
+le temps de te présenter !
+\0 (4촀\0Désoléen\0\0
+\0
+2\0n\0,
+\0 n'est-ce pas ?\0\0(촀\0Merci de m'avoir écoutée.
+\0( (촀\0Je me sens
+un peu moins seule grâce à toi, n\0."
+"112","()촀\0Je n'ai pas encore eu l'occasion de
+me présenter
+\0 depuis que j'ai
+emménagé ici
+\0n\0\0
+(촀\0Je m'appelle n
+\0.
+\0 Il faut que je te raconte ma petite histoiren\0\0\0\0()촀\0À la base,
+\0 j'ai rencontré quelqu'un
+originaire d'ici,
+\0 qui m'a convaincue
+de venir emménager sur votre îlen\0\0
+(촀\0Mais quand je suis arrivée avec tous
+mes cartons, on m'a dit que cette
+personne venait de partirn\0\0
+(9촀\0J'ai trouvé ça un peu bizarre
+\0n\0\0\0\0(촀\0Mais je ne regrette pas d'être ici
+pour autant !
+\0 Tu es n\0,
+\0 n'est-ce pas ?\0\0(4촀\0Je suis contente de t'avoir
+rencontré2\0e, n\0. (촀\0J'espère qu'on deviendra ami2\0es !(촀"
+"114","(,촀\0ATCHOUM !
+\02 (4촀\0Désolée
+\0n\0\0 je suis
+enrhubée.
+\0 Boi c'est n
+\0.\0\0(4촀\0Et toi ?
+\0 2\0n\0, non ?
+\0
+(촀\0Enchantée de faire ta connaissance.\0\0()촀\0J'ai rencontré une personne d'ici qui
+b'a convaincue de venir b'installer là.\0\0Bais elle a débénagé entre-temps !
+\0 (,촀\0ATCHOUM !
+\0( (촀\0Pour couronner le tout,
+\0
+j'ai chopé un bauvais rhuben\0\0(촀\0\0\0Désolée,
+\0 je ne suis pas tout le temps
+aussi ronchonn\0\0
+\0 (,촀\0ATCHOUM !
+\0( (4촀\0Je me
+rattraperai quand je serai guérie."
+"201","(""촀\0Coucou, je suis nouvelle sur l'île !
+\0
+(촀\0Je m'appelle n
+\0 !\0\0(7촀\0J'étais de passage au \0camping\0￿ quand
+s\0촀 m'a proposé d'emménager icin\0\0
+\0 Et me voilà !\0\0(촀\0Tu es n\0, non ?
+\0
+(1촀\0On m'a raconté quelques histoires
+croustillantes à ton sujet.\0\0(\0촀\0Là, il faut que je finisse de déballer
+mes affaires, n\0n\0\0
+\0 (촀\0mais on fait quelque chose bientôt, OK ?"
+"202","<"
+"202_01","(""촀\0Je ne me suis pas encore présentée.
+\0
+(촀\0Je m'appelle n
+\0.\0\0(촀\0Je viens tout juste de m'installer ici,
+\0
+j'arrive 2
+de d'⁠s촀.\0\0($촀\0Tu es n\0,
+\0 n'est-ce pas ?
+\0 (촀\0J'aime beaucoup ce nom.\0\0()촀\0C'est s\0촀
+\0 qui m'a convaincue d'emménager ici, 
+quand j'étais au \0camping\0￿.\0\0(촀\0J'ai hâte que nous fassions plus
+ample connaissance, n\0 !(촀"
+"202_02","(""촀\0Coucou !
+\0 (촀\0Tu dois être n\0 ? Je viens d'emménager.\0\0()촀\0J'ai décidé de m'installer ici après
+un séjour au \0camping\0￿.
+\0 C'est une
+idée 2
+de d'⁠s\0촀.
+(6촀\0Tu sais que j'ai beaucoup entendu
+parler de toi ?\0\0(4촀\0Je suis contente que nous soyons
+voisin2\0es.
+\0 J'espère que nous serons
+aussi ami2\0es, n\0."
+"202_03","(촀\0Salut !
+\0 Je suis n
+\0. Ravie de te rencontrer.
+\0 (""촀\0Tu t'appelles n\0, non ?\0\0(촀\0Est-ce que tu connais s\0촀 ?\0\0()촀\0C'est 2
+촀luielle\0 qui m'a donné l'idée
+de déménager ici
+\0 quand j'étais
+au \0camping\0￿, n\0.
+(촀\0Et grâce à 2
+촀luielle\0, nous avons pu faire
+connaissance, 2toustoutes les deux.
+\0 (촀\0Je lui
+en suis doublement reconnaissante !"
+"204","(촀\0Je suis contente de te rencontrer.
+\0 (,촀\0AAAn\0\0 TCHOUM !
+\0 (촀\0Désolée,
+\0 j'ai pas
+eu le temps de me tourner !
+Je m'appelle n
+\0. (""촀\0Toi c'est (\0촀\0n\0,
+\0 non ?\0\0(촀\0Dis,
+\0 est-ce que tu connais s\0촀 ?
+\0 (촀\0On s'est rencontré2
+촀\0e\0s au \0camping\0￿.
+C'est 2
+촀luielle\0 qui m'a incitée à venir
+m'installer ici.
+\0( (,촀\0
+\0ATCHOUM !
+ (8촀\0Désolée
+\0n\0\0
+Ce rhume va me rendre chèvre !
+(4촀\0On continuera cette discussion
+quand je serai remise sur patte,
+\0
+d'accordn\0\0?"
+"211","(""촀\0Hello !
+\0 On ne se connaît pas ?
+\0
+(촀\0Je m'appelle n
+\0.\0\0()촀\0Je me suis liée d'amitié avec une
+personne de l'île quand je suis venue
+campern\0\0
+Elle m'a convaincue de venir vivre
+ici,
+\0 puis(촀\0 elle a déménagé avant mon
+arrivéen\0\0
+(촀\0Je te prie de m'excuser,
+\0 je t'ai même
+pas laissé le temps de te présenter !
+\0
+(4촀\0Tu es n\0, je crois ?\0\0(촀\0Toute cette histoire m'a filé le
+bourdon,
+\0 mais ça m'a fait du bien
+de parler un peu.
+(촀\0Qui sait,
+\0 c'est peut-être le début
+d'une grande amitié, n\0 ?(촀"
+"212","()촀\0Je suis toute nouvelle sur l'île,
+\0
+je n'ai même pas encore eu
+l'occasion de me présenter
+\0n\0\0
+(촀\0Je m'appelle n
+\0.\0\0()촀\0Je me suis laissée convaincre de
+déménager sur l'île quand j'étais
+au \0camping\0￿n\0\0
+(촀\0Par une personne qui a elle-même
+quitté l'île entre-tempsn\0\0\0\0(\0촀\0C'est à n'y rien comprendre.
+\0 (촀\0La vie
+nous joue parfois des tours, hein ?\0\0(촀\0Au fait, tu es n\0,
+\0 non ?\0\0(4촀\0Je suis contente qu'on ait enfin
+l'occasion de faire connaissance,
+n\0.\0\0(촀\0Si jamais tu veux être 20mon nouveauma nouvelle
+meilleur2\0e ami2\0e sur l'île, la place est
+libre !(촀"
+"214","(,촀\0ATCHOUM !
+\0 (4촀\0Désoléen\0\0
+\0 j'ai pris froid.
+\0
+Moi c'est n
+\0.\0\0(4촀\0Tu ne serais pas n\0,
+\0 par hasard ?
+\0 (촀\0On se rencontre enfin !\0\0()촀\0Quelqu'un d'ici m'a convaincue de
+venir m'installer sur l'île,
+\0 (촀\0avant de
+la quitter définitivementn\0\0\0\0(,촀\0ATCHOUM !
+\0( Ça m'a contrariée comme
+tu ne peux pas imaginern\0\0
+\0 (촀\0En plus,
+je suis maladen\0\0
+(촀\0Mais je sens que notre rencontre va
+marquer un nouveau départ, n\0 !\0\0En tout cas,
+\0 je te remercie de m'avoir
+écoutée.
+\0 (,촀\0ATCHOUM !
+\0( (촀\0On remet ça
+dès que je suis remise, d'accord ?"
+"301","(촀\0Je ne m'attendais pas à avoir de la
+visite !
+\0( (촀\0Désolée pour le bazarn\0\0\0\0Oh, mais j'en oublie mes manières !
+\0
+(""촀\0Je me présente, je m'appelle n
+\0.\0\0(&촀\0Toi c'est n\0,
+\0 n'est-ce pas ?
+\0 (촀\0Enchantée de faire ta connaissance !
+\0\0\0()촀\0C'est s\0촀 qui m'a suggéré de venir vivre ici,
+\0 quand j'étais au \0camping\0￿n\0\0\0\0(%촀\0Je l'ai pris2
+촀\0e\0 au mot.
+\0 (촀\0J'ai hâte d'être
+installée,
+\0 qu'on puisse continuer
+cette discussion, n\0 !"
+"302","<"
+"302_01","(""촀\02\0n\0,
+\0 si je ne m'abuse ?
+\0 (%촀\0L'île est petite,
+\0 je t'ai déjà aperçu2\0e dans le coin.\0\0(촀\0Moi c'est n
+\0.
+\0
+()촀\0Je suis nouvelle,
+\0 mais je commence
+à prendre mes marquesn\0\0
+(1촀\0J'ai l'impression qu'hier encore,
+je faisais la connaissance 2
+de d'⁠s\0촀 au \0camping\0￿n\0\0\0\0()촀\0C'est 2
+촀luielle\0 qui m'a convaincue de
+venir m'installer sur l'île, tu sais.
+\0
+(촀\0Une décision que je ne regrette pas !
+((촀\0Ça m'a fait plaisir de papoter avec
+toi, n\0.
+\0 ($촀\0J'espère qu'on refera ça bientôt !"
+"302_02","($촀\0Oh, mais tu es n\0 ?
+\0
+(""촀\0Moi
+\0 c'est n
+\0.\0\0(%촀\0On s'était déjà croisé2\0es depuis mon
+emménagement,
+\0 mais je n'ai jamais
+eu l'occasion de me présenter.
+\0
+(촀\0Tout le monde est si gentil ici !\0\0(1촀\0C'est ce qui m'a décidée à m'installer
+ici,
+\0 après un séjour au \0camping\0￿
+\0n\0\0 ()촀\0Sur
+les conseils 2
+de d'⁠s\0촀.\0\0(\0촀\0Je suis si bien ici,
+\0 et (촀\0encore mieux
+maintenant que je te connais,
+(촀\0n\0 !"
+"302_03","(촀\0Coucou,
+\0 moi c'est n
+\0.
+\0( (촀\0Et tu es
+\0n\0\0 n\0, c'est bien ça ?\0\0(4촀\0Je viens de m'installer ici.
+\0 (1촀\0J'ai fait un
+petit séjour au \0camping\0￿
+\0n\0\0 et je suis
+tombée amoureuse de cet endroit !
+(촀\02\0s\0촀 n'a pas eu trop
+de mal à me convaincre de venir
+vivre ici.\0\0(촀\0Je suis contente qu'on ait enfin eu
+l'occasion de discuter.
+\0 (%촀\0On remet ça
+quand tu veux, n\0 !"
+"304","(촀\0Dis
+\0n\0\0 
+\0tu ne serais pas
+\0 n\0 ?\0\0(,촀\0ATCHOUM !
+\0( (촀\0Je suis désolée de ne
+pas être venue me présenter avant.
+\0
+Je m'appelle n
+\0.\0\0(1촀\0Depuis le jour où j'ai mis la patte
+au \0camping\0￿,
+\0 je sais que je suis faite
+pour vivre à n\0n\0\0\0\0()촀\0Alors quand s\0촀 m'a suggéré de venir vivre ici
+\0n\0\0 ça a fait tilt.\0\0(,촀\0ATCHOUM !
+\0( (촀\0Désolée,
+\0 c'est difficile
+de tenir une conversation dans ces
+conditions, n\0.\0\0(+촀\0Je te propose de remettre ça à
+une autre fois,
+\0 quand je serai
+débarrassée de ce vilain rhumen"
+"311","(""촀\0Salut !
+\0 Moi,
+\0 c'est n
+\0.
+\0
+(촀\0Tu dois être n\0.\0\0(촀\0Pardon pour le bazar, n\0
+\0n\0\0
+Je viens d'emménager sur l'île.\0\0()촀\0Un jour où j'étais au \0camping\0￿,
+\0 j'ai
+expliqué à un de tes voisins à quel
+point je me sentais bien icin\0\0
+(9촀\0C'est là qu'il m'a dit : 
+\0« Pourquoi ne
+viens-tu pas t'installer sur l'île ? »
+\0
+(;촀\0Alors c'est ce que j'ai fait !\0\0(6촀\0Ça ne me ressemble pas de prendre
+une telle décision sur un coup de
+tête,
+\0 mais (촀\0je ne regrette rien !"
+"312","(""촀\0Coucou,
+\0 je suis n
+\0.
+\0
+($촀\0Et mon petit doigt me dit que tu
+es n\0.\0\0(촀\0J'imagine que t'avoir comme 2voisinvoisine
+est un des avantages de vivre à
+n\0.
+(%촀\0J'ai bien fait de suivre le conseil
+qu'on m'a donné au \0camping\0￿ et
+de venir m'installer ici.
+(촀\0J'ai hâte de mieux te connaître,
+n\0 !
+\0(촀"
+"314","(""촀\0Tu es n\0,
+\0 n'est-ce pas ?\0\0(,촀\0ATCHOUM !
+\0( (4촀\0Étrange qu'on ne se soit
+pas 2""croiséscroisées avantn\0\0 Mon nom à moi,
+c'est n
+\0.\0\0J'adore me faire de 2<nouveaux amisnouvelles amies
+d'habitude,
+\0 mais ce rhume m'a
+mise K.-O., n\0n\0\0
+\0
+()촀\0C'est quelqu'un que j'ai rencontré
+au \0camping\0￿ qui m'a suggéré de
+m'installer à n\0.
+(,촀\0ATCHOUM !
+\0( (촀\0Désolée.
+\0 J'espère au
+moins que je ne suis pas en train
+de te contaminer, n\0.
+(+촀\0On r-reparlera de tout ça quand je
+serai guérien"
+"401","(""촀\0Tu es bien
+\0 n\0,
+\0 non ?
+\0
+(촀\0J'ai entendu parler de toi, n\0.\0\0(4촀\0Oh, désolée !
+\0 J'ai oublié mes bonnes
+manières.
+\0 (촀\0Je suis n
+\0.\0\0()촀\0J'ai vécu autrefois sur cette île,
+\0 avant
+de déménager à s촀.
+\0
+(촀\0Et là,
+\0 je suis revenue m'installer ici !
+(촀\0C'est un plaisir d'avoir l'occasion de
+faire enfin ta connaissance.
+\0 (촀\0J'espère
+qu'on deviendra ami2\0es.(촀"
+"402","(""촀\0Tu es bien
+\0 n\0,
+\0 c'est
+ça ?
+\0 (촀\0Ravie de faire ta connaissance,
+\0
+je m'appelle n
+\0.\0\0()촀\0J'ai vécu sur cette île,
+\0 par le passé,
+\0
+mais j'avais ensuite déménagé à
+s촀.\0\0Et après un certain temps là-bas,
+\0 (%촀\0me
+voilà de retour ici !
+\0 (
+촀\0Bizarrement,
+\0 tout
+me paraît nouveau,
+\0 cette foisn\0\0\0\0(촀\0C'est peut-être ta présence sur cette
+île qui change tout, n\0 ?"
+"404","(촀\0Salut,
+\0 je suis n
+\0.
+\0 ($촀\0Ton
+\0 nom, c'est
+\0 n\0,
+\0 c'est ça ?
+\0 (\0촀\0Ravie de te renn\0\0 (,촀\0A
+\0TCHOUM !\0\0()촀\0J'ai déjà vécu ici autrefois,
+\0 mais je
+suis revenue il y a quelque temps
+m'installer à n\0.\0\0(8촀\0Enfinn\0\0 je n'ai pas encore pu profiter
+beaucoup de l'île,
+\0 avec ce rhume !\0\0(%촀\0Une fois rétablie,
+\0 j'aimerais qu'on
+fasse plus ample connaissance.
+\0
+(,촀\0ATCHOUM !\0\0(4촀\0N'attrape pas mon rhume,
+\0 heinn"
+"411","(&촀\0On n'a pas encore fait connaissance,
+\0
+il me semble ?
+\0 (촀\0Je me présente :
+\0
+n
+\0.
+Je viens d'emménager ici,
+\0 j'arrive
+2
+de d'⁠s촀.
+\0 (;촀\0Toi, tu es n\0,
+\0 c'est bien ça ?\0\0(%촀\0J'aimerais beaucoup qu'on fasse plus
+connaissance,
+\0 (4촀\0si je viens à bout de
+tous ces cartons à vidern\0\0\0\0(촀\0J'adore me faire de nouveaux amis !"
+"412","<"
+"412_01","(""촀\0Tu es n\0,
+\0 hein ?
+\0
+(촀\0Ravie de te rencontrer, n\0.\0\0()촀\0Je suis n
+\0,
+\0 ancienne
+résidente 2
+de d'⁠s촀,
+n\0.\0\0(촀\0J'espère qu'on pourra devenir ami2\0es,
+\0
+(촀\0maintenant qu'on a eu l'occasion de
+faire connaissance.(촀"
+"412_02","(촀\0Tu es n\0,
+\0 n'est-ce
+pas ?
+\0 (촀\0Ravie de faire ta connaissance,
+n\0 !\0\0Moi,
+\0 je m'appelle n
+\0.
+\0
+()촀\0J'habitais à s촀 avant
+de venir ici,
+\0 à n\0.\0\0(4촀\0J'espérais bien avoir la chance de te
+croiser à l'occasionn\0\0 (촀\0et j'espère que
+nous deviendrons des ami2\0es."
+"412_03","($촀\0Salut,
+\0 tu es bien n\0,
+\0
+n'est-ce pas ?
+\0 (촀\0Moi, je m'appelle
+n
+\0.\0\0()촀\0J'attendais avec impatience de te
+croiser,
+\0 depuis que j'ai emménagé ici
+en arrivant 2
+de d'⁠s촀n\0\0\0\0(4촀\0Tout le monde dans le coin te trouve
+très gentil2\0le,
+\0 alors (촀\0j'ai hâte qu'on
+fasse davantage connaissance !"
+"414","(,촀\0ATCHOUM !
+\0 (촀\0Salut,
+\0 je m'appelle
+n
+\0.
+\0 Ton nom à toi,
+\0
+c'est n\0,
+\0 hein ?\0\0()촀\0J'attendais avec espoir une visite de
+ta part,
+\0 depuis que j'ai emménagé ici
+en arrivant 2
+de d'⁠s촀n\0\0\0\0(촀\0C'est bien ma chance d'être malade
+juste quand tu passesn\0\0 (,촀\0A
+\0TCHOUM !\0\0(4촀\0Désoléen\0\0 Il vaut mieux qu'on essaie
+de se revoir quand je serai rétablie."
+"501","(&촀\0Tu es
+\0 n\0,
+\0 c'est ça ?\0\0(촀\0Ravie de faire ta connaissance !
+\0
+(촀\0Je viens d'emménager aujourd'hui,
+\0
+(\0촀\0et je m'appelle n
+\0.\0\0Au \0bureau des résidents\0￿, ils m'ont
+dit quen\0\0 (;촀\0tu t'installes juste sur l'île,
+toi aussi ?
+\0 (%촀\0Quelle coïncidence, alors !\0\0(촀\0Espérons que c'est un signe,
+\0 et que
+nous sommes (촀\0destiné2\0es à devenir
+des ami2\0es !"
+"502","<"
+"502_01","(촀\0Tu serais pas n\0, qui
+a emménagé en ville aujourd'hui ?\0\0(""촀\0Ça me fait plaisir de te rencontrer !
+\0
+Je m'appelle n
+\0.\0\0(촀\0J'adore voir de nouveaux visages
+dans les parages !
+\0 (촀\0À bientôt,
+n\0."
+"502_02","(촀\0Oh !
+\0 Il me semble qu'on ne s'était
+pas encore rencontré2\0es.
+\0 (촀\0Mon nom
+est n
+\0.\0\0(;촀\0Et toi,
+\0( (촀\0tu esn\0\0 n\0 ?
+\0(
+(촀\0Je suis vraiment contente de faire
+ta connaissance !\0\0C'est amusant de voir de nouveaux
+visages dans le coin !
+\0 (촀\0J'espère qu'on
+deviendra des ami2\0es, n\0."
+"502_03","(촀\0Salut ! Je ne crois pas qu'on ait déjà
+fait connaissancen\0\0 (촀\0Je m'appelle
+n
+\0.\0\0(%촀\0Et toi,
+\0 tu es n\0 ? (촀\0J'espère que j'ai bien prononcé ton nomn\0\0
+\0 (촀\0Ravie de te rencontrer !\0\0(4촀\0J'ai hâte qu'on ait l'occasion de
+mieux se connaître, n\0.
+(촀\0J'adore me faire de nouveaux amis !(촀"
+"504","(,촀\0ATCHOUM !
+\0( (+촀\0Oh, désoléen\0\0
+\0( (촀\0C'est pas
+idéal comme introduction,
+\0 quand on
+se rencontre pour la première foisn\0\0\0\0AAAA
+\0(,촀\0TCHOUM ! 
+\0((촀\02\0n\0n\0\0
+\0
+Je m'appelle n
+\0.\0\0(촀\0Et toi, tu esn\0\0
+\0 n\0 ?
+Enchantée den\0\0
+\0( (,촀\0AAA
+\0TCHOUM !\0\0(*촀\0Désolée,
+\0 je me sens pas en forme,
+aujourd'hui.
+\0 (촀\0On discutera davantage
+quand j'irai mieux, n\0."
+"511","<"
+"511_01","(""촀\0Bonjour,
+\0 voisin2\0e !
+\0 Je suis nouvelle,
+ici.
+\0 (촀\0Je m'appelle n
+\0.\0\0Et toi,
+\0 tu esn\0\0 n\0 ?
+\0
+(%촀\0Ravie de faire ta connaissance !\0\0(촀\0Désolée,
+\0 c'est un chaos total dans
+ma maisonn\0\0
+\0 (촀\0Je n'ai pas fini de
+déballer mes affaires, n\0.\0\0(촀\0J'espère que tu repasseras me voir,
+\0
+une fois que j'aurai eu le temps
+\0 ($촀\0de
+mettre de l'ordre et de m'installer !"
+"511_02","(촀\0Ouah, déjà de la visite ?!
+\0 (촀\0Tu dois
+être n\0n\0\0 (촀\0Je suis nouvelle,
+\0 ici,
+\0 à n\0.\0\0J'espère que (4촀\0ça ne te gêne pas,
+\0 si je
+me repose un peu sur toi,
+\0 le temps
+que je sois correctement installée.\0\0(촀\0Oh, je m'appelle n
+\0,
+\0 au fait !
+\0 (촀\0C'est probablement par là que j'aurais dû commencer, non ?"
+"512","<"
+"512_01","(""촀\0Salut, tu habites ici ?
+\0 (촀\0Je viens juste
+d'emménager sur l'île.\0\0Je m'appelle n
+\0.
+\0
+Et toi,
+\0 tu esn\0\0 ($촀\0n\0 ?\0\0(4촀\0J'ignore encore tant de choses sur
+cet endroitn\0\0
+\0 (촀\0Tu ne m'en voudras pas
+si je te demande ton avis,
+\0 j'espère !
+(4촀\0Ce serait sympa,
+\0 d'avoir déjà sur l'île
+2 un amiune amie sur qui compter."
+"512_02","( 촀\0Oh, on ne se connaît pas encore !
+\0
+(촀\0Je suis n
+\0.
+\0 Je viens
+d'emménager sur cette île.\0\0(촀\0Je peux t'appeler n\0,
+\0
+tu n'y vois pas d'inconvénient ?\0\0(4촀\0Je vais avoir besoin d'2 un amiune amie qui
+connaisse n\0 mieux
+que moi, n\0n\0\0(촀"
+"513","(""촀\0Salut,
+\0 je ne crois pas qu'on se soit
+déjà rencontré2\0esn\0\0\0\0(촀\0Je m'appelle n
+\0 ;
+\0 j'ai
+déménagé ici il n'y a pas longtemps.
+\0
+Et toi, tu esn\0\0 n\0 ?\0\0(4촀\0Je ne me sentais pas à part entière
+résidente 2
+de d'⁠n\0,
+\0
+($촀\0jusqu'à ce que je me présente à toi.
+(촀\0J'espère qu'on deviendra des ami2\0es,
+\0
+à présent qu'on a fait connaissance."
+"514","(,촀\0ATCHOUM !
+\0 (촀\0Il me semble qu'on ne
+se connaît pas encore,
+\0 si ?
+\0 (촀\0Tu es
+\0
+n\0,
+\0 c'est ça ?\0\0(%촀\0Ravie de te rencontrer.
+\0 (,촀\0ATCHOUM !
+\0
+(촀\0Désoléen\0\0 Je suis n
+\0.\0\0Ça me gêne d'être malade comme ça
+\0
+(촀\0pour notre première rencontren\0\0
+\0
+Que vas-tu penser de moi ?\0\0(%촀\0Il faut qu'on se revoie
+\0 (촀\0quand je serai
+rétablie, n\0."

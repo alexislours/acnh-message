@@ -1,0 +1,36 @@
+﻿"label","text"
+"001","Que veux-tu faire ?"
+"001_a","(\0촁\0Terminer la session."
+"001_b","(\0촁\0Laisse tomber."
+"002","Que veux-tu faire ?"
+"002_a","(\0촁\0Terminer la session."
+"002_b","(\0촁\0Signaler."
+"002_c","(\0촁\0Laisse tomber."
+"004","Es-tu prêt2\0e à retourner sur ton île ?"
+"004_a","(\0촁\0Retourner sur mon île."
+"004_b","(\0촁\0Laisse tomber."
+"005","Es-tu prêt2\0e à retourner sur ton île ?"
+"005_a","(\0촁\0Retourner sur mon île."
+"005_b","(\0촁\0Signaler."
+"005_c","(\0촁\0Laisse tomber."
+"006","Veux-tu mettre fin à cette session ?"
+"006_a","(\0촁\0Terminer la session."
+"006_b","(\0촁\0Laisse tomber."
+"011","On fait une pause ?"
+"011_a","(\0촁\0Sauvegarder et arrêter."
+"011_b","(\0촁\0Continuer de jouer."
+"012","La sauvegarde a été effectuée.
+\0
+Reviens jouer quand tu veux !"
+"013","Impossible de sauvegarder
+pour le moment."
+"019","Il est impossible de sauvegarder
+pour le moment."
+"020","On fait une pause ?
+\0\0(La prochaine fois que tu reviendras
+jouer, tu repartiras de chez toi.)\0￿"
+"020_a","(\0촁\0Sauvegarder et arrêter."
+"020_b","(\0촁\0Continuer de jouer."
+"021",""
+"021_a",""
+"021_b",""

@@ -1,0 +1,226 @@
+﻿"label","text"
+"001","(촀\0Zeg, heb je het druk?
+\0 Wil je anders
+met mij op (""촀\0schattenjacht gaan?
+\0
+Je weet wel, een schat zoeken?"
+"001_a","Tuurlijk!"
+"001_b","Misschien later."
+"002","(
+촀\0Verveel jij je ook? Ik heb alle plaatjes
+in allebei mijn boeken al twee keer
+doorgekeken.
+\0 Dus ik verveel me wel.\0\0(촀\0Heb je misschien zin om met mij op
+schattenjacht te gaan?
+\0(촀"
+"002_a","Ik doe mee!"
+"002_b","Het komt nu niet uit."
+"003","(촀\0Ik had net echt een waanzinnig idee!
+\0<
+(촀\0Zullen we samen op
+\0 schattenjacht
+gaan?"
+"003_a","Klinkt goed!"
+"003_b","Nu maar even niet."
+"004","(촀\0Gaaf zeg!
+\0( Ik ga ergens op dit eiland
+\0
+een schat verstoppen,
+\0 en daarna
+gaat het beginnen!"
+"005","(촀\0Gaaf!
+\0( Als je hier even blijft wachten,
+\0
+dan ga ik
+\0( de schat verstoppen!"
+"006","(촀\0Jeee! 
+\0Ik ga ergens op dit eiland een
+doos met een schat erin begraven!"
+"007","(촀\0O!
+\0 Het is alweer midden in de nacht!
+\0
+(7촀\0Nu is het een beetje
+\0 te donker om
+nog iets te gaan begraven.\0\0Ik moet sowieso ook eerst iets eten.
+\0
+(촀\0Maar geen zorgen, die schattenjacht
+komt nog wel! 2\0n\0!"
+"008","Oké!
+\0( Een ander keertje dan
+misschien. (촀\02\0n\0!"
+"009","(%촀\0Geen punt!
+\0( Ik vraag het nog wel een
+keer als je het minder druk hebt.
+2\0n\0!"
+"010","Nou, jammer, maar geeft niks.
+\0
+(7촀\0Dan ga ik nu eerst wel even met wat
+beestjes babbelen. 2\0n\0!"
+"011","(촀\0Oké, de regels zijn eigenlijk heel
+eenvoudig!
+\0(촀\0
+x\0\0\0()촀\0Als je de schat vindt voordat de tijd
+om is,
+\0 dann\0\0 (촀\0heb je gewonnen!
+x\0\0\0(촀\0De schat ligt in de aarde begraven,
+\0
+dus niet binnen. ('촀\0Niemand vindt het
+leuk als je in zijn of haar vloer graaft.
+x\0\0\0(촀\0Goed dan! Ben je er klaar voor?
+ð"
+"011_01","(촀\0De regels zijn heel simpel.
+\0 Echt!
+\0 Ik
+heb ze zelf verzonnen.
+\0(촀\0
+<\0\0\0()촀\0Ik heb een schat begraven en die
+moet je vinden voor de tijd om is. (촀\0Als
+het je lukt, heb je gewonnen!
+\0
+Z\0\0\0(촀\0Ik heb de schat ergens in de aarde
+begraven, niet binnen.
+\0 Bij bewoners
+vind je geen aarde binnen.
+Z\0\0\0(9촀\0Ze houden blijkbaar niet van goede
+ideeën.
+Z\0\0\0(촀\0Enn\0\0
+\0 dit spelletje is tussen jou en
+mij,
+\0(""촀\0 dus anderen mogen alleen
+toekijken, niet helpen!
+Z\0\0\0Ben jen\0\0
+\0 er klaar voor?
+\0(촀\0 Starten maar!
+x"
+"012","(촀\0De regels zijn niet ingewikkeld.
+\0(촀\0
+<\0\0\0()촀\0Als het je lukt de begraven schat te
+vinden
+\0 voordat de tijd om is,
+\0 (촀\0heb je
+gewonnen!
+Z\0\0\0(%촀\0Ik heb de schat in de aarde
+begraven,
+\0 dus het heeft geen zin om
+er in gebouwen naar te zoeken!
+Z\0\0\0(촀\0Ik mocht hem bij niemand in huis
+begraven. En ik heb het echt aan
+iedereen gevraagd!
+Z\0\0\0Je hebt deze keer niet heel veel tijd
+om te zoeken, dus doe goed je best!
+\0(
+Okidoki,
+\0 zullen we beginnen?
+Z"
+"012_01","(촀\0De regels zijn supersimpel!
+\0(촀\0
+<\0\0\0()촀\0Als je de schat vindt die ik heb
+begraven
+\0 voor de tijd om is,
+\0(촀\0 win je!
+Dat zijn de regels!
+Z\0\0\0(%촀\0O! En er is een regel dat ik de schat
+buiten heb begraven.
+\0 Dus je hoeft
+niet naar binnen met je schep.
+Z\0\0\0(9촀\0Enn\0\0 er is nog een regel dat anderen
+niet mogen helpen, alleen toekijken,
+\0(""촀\0
+want we spelen mijn zijn tweeën!
+Z\0\0\0(촀\0Je hebt nu niet veel tijd om te
+zoeken, dus zorg dat je snel bent!
+\0( Oké,
+\0 daar gaan we!
+x"
+"013","O, wacht even,
+\0 (&촀\0ken je eigenlijk de
+schattenjachtregels al?"
+"013_a","(\0촁\0Nee, dus vertel maar!"
+"013_b","(\0촀\0Ja, hoor."
+"014","(촀\0Ahahaha,
+\0 nou, succes dan maar!
+\0(
+(촀\0Goed,
+\0 dan beginnen we!
+<"
+"014_01","(촀\0Ghehehe,
+\0 succes!
+\0( (\0촀\0O, enn\0\0 
+\0()촀\0jij bent de
+enige die de schat mag opgraven!
+Z\0\0\0(촀\0Goed,
+\0 ben je er klaar voor?
+\0 2\0n\0!
+Z"
+"015","(촀\0Je hebt niet heel veel tijd om te
+zoeken,
+\0 dus makkelijk wordt het niet!
+\0(
+(촀\0Klaar?
+\0 Succes!
+<"
+"015_01","(촀\0Je hebt niet veel tijd om te zoeken,
+\0
+dus het kan lastig worden!
+Z\0\0\0(\0촀\0O, enn\0\0
+\0()촀\0 jij bent de enige die de schat
+mag opgraven!
+\0((""촀\0 Anderen mogen
+alleen toekijken, oké?
+Z\0
+(촀\0Goed,
+\0 succes, n\0!
+Z"
+"101","(촀\0O, hallo n\0!
+\0 (촀\0Wat leuk dat ik jou tegenkom!
+\0( Ik verveel me echt héél erg!\0\0(4촀\0Heb jij nu toevallig tijd?
+\0 We zouden
+bijvoorbeeld een spelletje kunnen
+doen!
+\0< (촀\0
+\0Zin in een schattenjacht?"
+"101_a","Ja, hoor!"
+"101_b","Sorry, nu even niet."
+"102","(
+촀\0Ik probeerde
+\0 net te bedenken
+\0 wat ik
+eens zou gaan doenn\0\0\0\0(촀\0Zeg,
+\0 n\0?
+\0( (촀\0Heb jij soms zin in een spelletje schattenjacht?"
+"102_a","Dat klinkt leuk!"
+"102_b","Nee, bedankt."
+"103","(촀\0O, wacht even!
+\0( Het is al donker!
+\0(
+(촀\0Er is geen lol aan als je niks ziet.\0\0We zullen het een ander keertje
+moeten doen! 2\0n\0!"
+"104","(촀\0Gaaf! Ik hoopte al dat je ja zou
+zeggen!(촀\0
+\0( Goed,
+\0 wacht even.\0\0(촀\0Ik ga mijn favoriete schat
+\0 ergens op
+het eiland verstoppen!
+\0(\0촀\0
+\0 (6촀\0Niet stiekem kijken, hè!"
+"105","(촀\0Oké,
+\0 geeft niks!
+\0( Een ander keertje
+dan, n\0!"
+"106","(촀\0Oei!
+\0 Het is nu wel erg donker, hè?
+\0(
+(촀\0Zo vind je natuurlijk niks.
+\0 ('촀\0We
+kunnen dit beter doen als het licht is."
+"107","(촀\0Jeee!
+\0( ()촀\0Ik ga de schat ergens op het
+eiland begraven."
+"108","Oké!
+\0( (촀\0Dan doen we het een andere
+keer!"
+"200","(촀\0Ik heb overal op het eiland gekeken,
+maar ik kon nergens een goeie plek
+vinden om de schat te begraven!\0\0(7촀\0En tja, als ik de schat niet kan
+begraven, kunnen we ook geen
+schattenjacht houden, weet je!"

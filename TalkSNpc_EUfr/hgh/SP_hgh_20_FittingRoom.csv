@@ -1,0 +1,73 @@
+﻿"label","text"
+"001","(촀\0Tu as quelque chose à essayer ?
+\0
+Mais, je t'en prie !"
+"002","(촀\0Ça ne serait pas un \0ticket atelier de
+couture\0￿ que je vois là ? 
+\0Tu en as,
+de la chance !\0\0(%촀\0Tu peux l'échanger contre ce que tu
+veux, pour une valeur maximale de
+Z.
+\0(촀\0 Penses-y !"
+"002_pl","(촀\0Ça ne serait pas des \0tickets atelier
+de couture\0￿ que je vois là ? 
+\0Tu en as,
+de la chance !\0\0(%촀\0Tu peux les échanger contre ce que
+tu veux, pour une valeur maximale de
+Z.
+\0(촀\0 Penses-y !"
+"003","(촀\0C'est notre \0cabine d'essayage\0￿.
+\0 Si tu
+veux essayer avant d'acheter, c'est
+par ici que ça se passe.
+(&촀\0Et si un article te plaît ?
+\0 Voire même
+plusieurs ? (%촀\0Parfait, tu peux payer
+sur place.
+\0 C'est bien pratiquen\0\0
+(촀\0La cabine est à ta disposition !"
+"010","<"
+"010_01","(촀\0Ça te va comme un gant !
+\0 Merci de
+ta visite."
+"010_02","(촀\0Ça te va à ravir !
+\0 Merci d'être
+passé2\0e !"
+"010_03","(촀\0Regarde-toi, tu es tout2\0e pimpant2\0e !
+\0
+Merci d'être passé2\0e !"
+"011","Tu as laissé ce que tu portais dans
+la cabine.
+\0 Je mets ça dans tes
+poches !"
+"012","Tu as laissé ce que tu portais dans
+la cabine.
+\0 J'expédie ça dans ton
+espace de rangement !"
+"013","Tu as laissé ce que tu portais dans
+la cabine.
+\0 Je vais envoyer ça dans
+ton espace de rangement !
+(촀\0Et s'il n'y a pas assez de place,
+je glisserai le reste directement
+dans tes poches !"
+"015","(촀\0En te remerciant !
+\0 Je glisse tes
+emplettes dans tes poches."
+"016","(촀\0En te remerciant !\0\0La maison s'occupe de tout, tu
+recevras ça directement dans ton
+espace de rangement. "
+"017","(촀\0En te remerciant !
+\0 Je vais expédier 
+tes emplettes directement dans ton
+espace de rangement.
+Si tout ne rentre pas, je mettrai le
+reste dans tes poches.(\0촀"
+"019","(촀\0Tu es sous l'effet d'une baguette de
+transformationn\0\0\0\0(촀\0Tu vas devoir attendre d'être à
+nouveau toi-même pour pouvoir
+utiliser la cabine, je suis navrée."
+"020","(\0촀\0Mais tu ne pourras pas l'utiliser tant
+que tu seras sous l'effet d'une
+baguette de transformation.
+(촀\0Un changement à la fois, d'accord ?"

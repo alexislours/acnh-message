@@ -1,0 +1,125 @@
+﻿"label","text"
+"001","(8촀\0I always get a little restless when
+I'm camping, n\0.
+\0 I just
+don't know what to DO!
+(촀\0Oh! 
+\0We could play a game!
+\0
+(&촀\0What's in it for you?
+\0
+(
+촀\0Let me thinkn\0\0
+(6촀\0If you win, I'll give you
+my }\0\0!"
+"001_a","Let's do it!"
+"001_b","Not right nown"
+"002","(촀\0Yes! 
+\0(
+촀\0Alright, should we go over
+the rules first?"
+"002_a","Uh, yeah!"
+"002_b","Nah, I'm good."
+"003","(촀\0Not this time, huh?
+\0((6촀\0 Alright, keep it
+in mind for later, n\0!"
+"004","(<촀\0Alright, watch me shuffle!"
+"005","(6촀\0Now, let's see who's lucky and
+who'sn\0\0
+\0(
+촀\0notn"
+"006_01","(9촀\0I'm 2\0n\0 of my word.\0\0(촀\0I hope you thoroughly enjoy
+my }\0\0!"
+"006_02","(%촀\0Well, you earned it.
+\0 I hope you like
+my }\0\0!"
+"006_03","(촀\0Yes!
+\0 I won! 
+\0(촀\0Nothing for you!
+\0
+(2촀\0I meann\0\0
+\0 Better luck next time."
+"007_01","(촀\0It wasn't my day today, but watch
+out for me next time, n\0!"
+"007_03","(9촀\0Winning is only fun if you
+occasionally lose too.
+\0
+Son\0\0(촀\0you're welcome!"
+"008","(촀\0Now then, 
+\0(촀\0let the games begin!\0\0('촀\0Cut, cut, cut!
+\0(촀\0 It looks like you don't
+have room in your pockets for
+my }\0\0.
+I'll wait here while you clear out
+some space for it(1촀\0n\0\0
+\0
+n\0\0
+\0(촀\0Ahem!"
+"100","()촀\0OK, here's what we're gonna don\0\0\0\0(%촀\0I've got four cards, and each one
+is a different suit.
+\0 The suits are
+\0♥heart\0￿, \0♦diamond\0￿, \0♠spade\0￿, \0♣club\0￿.
+()촀\0I'll pick a card, and you'll try to
+guess which suit it is.\0\0(촀\0If you get it right, you'll get
+my }\0\0.\0\0(<촀\0Let's give it a shotn"
+"101","(9촀\0The card is in my handn\0\0\0\0(&촀\0What's it gonna be?
+\0( \0♥Heart\0￿,
+\0♦diamond\0￿, \0♠spade\0￿, or \0♣club\0￿?"
+"101_a","\0♥Heart\0￿"
+"101_b","\0♦Diamond\0￿"
+"101_c","\0♠Spade\0￿"
+"101_d","\0♣Club\0￿"
+"102_01","\0
+\0(촀\0Whoa! It's a 촀!
+\0
+	\0\0d\0\0(촀\0You nailed it!"
+"102_02","\0
+\0It's a (촀\0촀!
+\0
+	\0\0d\0\0\0d(촀\0Oh, n\0n\0\0
+\0 Sorry about that.\0d"
+"200","()촀\0OK, here's what we're gonna don\0\0\0\0(%촀\0I've got four cards, and each one
+is a different suit.
+\0 The suits are
+\0♥heart\0￿, \0♦diamond\0￿, \0♠spade\0￿, \0♣club\0￿.
+()촀\0I'll pick a card, and you'll try to
+guess what color its suit is.\0\0(촀\0So if you pick \0red\0￿, 
+\0and the card is
+either \0♥heart\0￿ or \0♦diamond\0￿, 
+\0you'll
+win my }\0\0!
+(<촀\0Let's give it a shotn"
+"201","(3촀\0My card is readyn\0\0\0\0(&촀\0What color do you think its suit is?
+\0
+Le \0rouge\0￿ or \0noir\0￿ as night?\0\0(촀\0Ha HA! 
+\0I just made up those words
+to sound cool.
+\0 (&촀\0Which is it really?
+\0
+\0Red \0￿or \0black\0￿?"
+"201_a","\0Red\0￿"
+"201_b","\0Black\0￿"
+"202_01","\0
+\0It's a (촀\0촀n\0\0
+\0and
+that's \0red\0￿!
+\0(
+	\0\0d\0\0(5촀\0Right on the money, n\0."
+"202_02","\0
+\0It's a (촀\0촀n\0\0
+\0(and
+that's \0black\0￿!
+\0
+	\0\0d\0\0\0d(촀\0So sorry, n\0.\0d"
+"202_03","\0
+\0It's a (촀\0촀n\0\0
+\0(and
+that's \0black\0￿!
+\0
+	\0\0d\0\0(5촀\0Right on the money, n\0."
+"202_04","\0
+\0It's a (촀\0촀n\0\0
+\0(and
+that's \0red\0￿!
+\0
+	\0\0d\0\0(촀\0So sorry, \0dn\0.\0d"

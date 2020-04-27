@@ -1,0 +1,176 @@
+﻿"label","text"
+"001","(촀\0Ho un gioco interessante da proporti,
+tesoro. 
+\0Ci giochiamo (""촀\02""촀il miola mia\0
+}\0\0?\0\0È semplice.
+\0
+()촀\0 Se vinci tu,
+\0
+ ottieni
+2""촀il miola mia\0 }\0\0
+in regalo, n\0."
+"001_a","Ci sto!"
+"001_b","Un'altra volta..."
+"002","(촀\0Aha!
+\0 Sapevo che avresti accettato!
+\0(　
+(\0촀\0Prima di iniziare,
+\0
+ ho una domanda.
+\0
+
+(&촀\0Conosci le regole?"
+"002_a","No, dimmele."
+"002_b","Certo che le so."
+"003","(촀\0Ah, beh. 
+\0
+Se è quello che vuoi.
+\0 (\0촀\0Non
+insisterò,
+\0(촀\0ma se ti venisse voglia di
+giocare, fammelo sapere, per favore."
+"004","(촀\0Magnifico!
+\0
+ Iniziamo subito!
+\0(
+(<촀\0Prima di tutto,
+\0 mescolo bene le
+carte.
+\0 Con molta attenzionen"
+"005","(9촀\0E ora controlliamo se hai indovinato."
+"006_01","(6촀\0Ottimo! 
+\0
+Te la cavi bene con questo
+gioco.
+\0 E come promesso, ti darò
+2""촀il miola mia\0 }\0\0.
+(촀\0Ecco, n\0(촀\0."
+"006_02","(
+촀\0Ehmn\0\0 non potevo immaginare che
+tu fossi così brav2oa in questo gioco,
+n\0.\0\0Comunque,(촀\0 dal momento che hai
+vinto, come promesso, 
+\0
+ti darò
+\0
+2""촀il miola mia\0 }\0\0."
+"006_03","(촀\0Oh, cielo! Ho vinto questa... mano!
+\0(
+Mi dispiace,
+\0
+('촀\0 ma ciò vuol dire niente
+regali per te, n\0."
+"007_01","(촀\0È stato molto divertente. 
+\0
+Tanto che
+non mi dispiace neanche aver perso.
+\0
+(촀\0Giochiamo ancora insieme!"
+"007_03","(6촀\0Devo ricordarmi di ringraziare la dea
+bendata, per avermi sorriso oggi."
+"008","(촀\0Aha! 
+\0
+Ero certa di suscitare il tuo
+interesse!
+\0 (\0촀\0Bene, iniziamo subito!\0\0( 촀\0Cosa succede?
+\0 Mi sembra che tu
+abbia le tasche piene.
+\0 ('촀\0In queste
+condizioni non potrò darti regali.
+(""촀\0Ti suggerisco di mettere un po'
+d'ordine
+\0
+(촀\0 e, quando avrai finito,
+inizieremo il gioco, n\0."
+"100","(촀\0
+\0
+Le regole sono molto semplici.\0\0()촀\0Sai che le carte hanno semi
+diversin\0\0 cuori \0♥\0￿, quadri \0♦\0￿,
+picche \0♠ \0￿e fiori \0♣\0￿?
+Allora adesso
+\0
+(%촀\0 io prenderò una carta.
+\0(
+(""촀\0E tu indovinerai il seme.\0\0(\0촀\0Se indovini,
+\0
+(""촀\0 ti darò 2""촀il miola mia\0 }\0\0.
+\0(
+(촀\0Non è complicato, vero?\0\0(<촀\0Direi che siamo pront2ie a iniziare.
+
+\0
+Via con il divertimento!"
+"101","Ho preso una carta.
+\0
+ (9촀\0Ora concentrati
+
+\0e indovina di che seme èn\0\0
+\0(촀\0 cuori \0♥\0￿,
+quadri \0♦\0￿, picche\0 \0￿\0♠\0￿ o fiori \0♣\0￿?"
+"101_a","Cuori \0♥\0￿!"
+"101_b","Quadri \0♦\0￿!"
+"101_c","\0Picche ♠\0￿!"
+"101_d","\0Fiori ♣\0￿!"
+"102_01","(촀\0Hai indovinato! 
+\0
+La carta è di
+촀!
+\0( (촀\0Congratulazioni!"
+"102_02","(9촀\0Apprezzo lo sforzon\0\0
+\0
+ ma hai
+sbagliato.
+\0 (촀\0La risposta esatta è
+
+\0
+촀. "
+"200","Bene,
+\0(""촀\0 ora ti spiego le regolen\0\0\0\0()촀\0Vedi che ogni carta ha un seme
+diverson\0\0 cuori \0♥\0￿, quadri \0♦\0￿,
+picche \0♠ \0￿e fiori \0♣\0￿?
+(%촀\0Io ne prenderò una.
+\0 A questo punto
+\0
+
+(촀\0tu dovrai indovinarne il colore!\0\0(\0촀\0Se indovini, ti regalerò 
+\0
+(촀\02""촀il miola mia\0
+}\0\0!
+\0(
+(%촀\0Facilissimo, no?
+(<촀\0Bene!
+\0 Allora iniziamon"
+"201","(""촀\0Ecco fatto! Ho pescato una carta.
+Ora dimmin\0\0\0\0($촀\0Il seme è \0rosso\0￿ 
+\0
+come le mie scarpe
+con i tacchi alti 
+\0((6촀\0o \0nero\0￿ come il mio
+vestito da sera preferito?"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","(촀\0La carta è di 촀!
+\0(
+(촀\0Ed è \0rossa\0￿ come una rosa rossa,
+tesoro. Quindi hai indovinato!"
+"202_02","(촀\0Oh, tesoro.
+\0
+ Questa carta è di
+촀.
+\0( Quindi è \0nera\0￿ 
+\0
+('촀\0e purtroppo
+hai sbagliato."
+"202_03","(촀\0Oh, magnifico! È di 촀!
+\0(
+(촀\0È \0nera!
+\0
+\0￿ Congratulazioni! 
+\0
+Hai
+indovinato!"
+"202_04","(촀\0Oh, cielo. 
+\0
+Questa carta è di 촀.
+\0(
+('촀\0È \0rossa\0￿, quindi hai sbagliato. Mi
+dispiace."

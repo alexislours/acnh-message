@@ -1,0 +1,189 @@
+﻿"label","text"
+"001","(촀\0Oye, n\0,
+\0 (\0촀\0si tienes
+tiempo,
+\0 (촀\0¿te gustaría buscar
+un tesoro conmigo?"
+"001_a","¡Pues claro!"
+"001_b","Ahora mismo no"
+"002","(촀\0Tres palabras:
+\0 ¡buscar un tesoro!
+\0
+¿Te gustaría?(""촀"
+"002_a","¡Sí!"
+"002_b","Ahora mismo no"
+"003","(촀\0¡Mis músculos cerebrales me dieron
+una idea muy brutal!
+\0( (촀\0¿Te gustaría
+buscar un tesoro?"
+"003_a","¡Acepto!"
+"003_b","No, gracias"
+"004","(""촀\0¡Buenísimo!
+\0 ¡Manos a la obra!\0\0()촀\0Voy a esconder el tesoro,
+\0(촀\0 ¡así que
+no veas!"
+"005","(촀\0¡Sííí!
+\0( (%촀\0Bueno,
+\0 ahora voy a
+esconder el tesoro,
+\0 así que
+espérate aquí un momento."
+"006","(촀\0¡Brutal!
+\0( (""촀\0Voy a esconder un tesoro
+por ahí, así que espera aquí
+un momento, 2""campeóncampeona."
+"007","(촀\0Ay, ¡¿en qué momento se hizo
+tan tarde?!\0\0(촀\0Vamos a tener que dejarlo para otro
+momento,
+\0 (촀\0que con tan poca luz no
+vamos a poder encontrar nadan"
+"008","(촀\0¿No te gusta la idea?
+\0(
+(촀\0Bueno, quizá en otro momento."
+"009","( 촀\0¿No te convence la idea?
+\0
+(촀\0Bueno, otro día."
+"010","(촀\0Qué lástiman\0\0
+\0 Pero, si no quieres,
+qué le vamos a hacern\0\0
+\0(
+(""촀\0¡En otro momento, será!"
+"011","(%촀\0Te voy a explicar cómo es esto.
+Z\0\0\0()촀\0Yo escondí un tesoro por ahí,
+y, si lo encuentras en el tiempo
+estipulado,
+\0 (촀\0¡tú ganas!
+´\0\0\0(\0촀\0Está enterrado bajo tierra, así que
+no te molestes en andar buscando
+dentro de la casa de nadie.
+´\0
+(촀\0¡Manos a la obra!
+Z"
+"011_01","(%촀\0Te voy a explicar cómo es esto.
+x\0\0\0()촀\0Yo escondí un tesoro por ahí,
+y, si lo encuentras en el tiempo
+estipulado,
+\0 (촀\0¡tú ganas!
+´\0\0\0(\0촀\0Está enterrado bajo tierra, así que
+no te molestes en andar buscando
+dentro de la casa de nadie.
+´\0
+(9촀\0Ah, y esta es una competencia solo
+entre nosotros, ¿eh?
+\0( (""촀\0¡Los otros
+pueden animar pero no participar!
+´\0
+(촀\0¡Manos a la obra!
+Z"
+"012","(%촀\0Esto es lo que hay que hacern\0\0
+\0
+Z\0\0\0()촀\0Hay un tesoro enterrado por ahí.
+\0
+Si lo encuentras a tiempo, ¡la
+victoria es tuya!
+´\0
+(\0촀\0Aunque vas a tener menos tiempo
+del habitual,
+\0 (6촀\0¡así que no va a ser
+tan fácil!
+´\0
+(촀\0¡Vamos, comencemos!
+Z"
+"012_01","(%촀\0La cosa es asín\0\0
+\0
+Z\0\0\0()촀\0Enterré un tesoro por ahí.
+\0
+Si lo encuentras a tiempo,
+¡la victoria es tuya!
+´\0
+(9촀\0Ah, y esta es una competencia solo
+entre nosotros, ¿eh?
+\0( (""촀\0¡Los otros
+pueden animar pero no participar!
+´\0
+(\0촀\0Esta vez vas a tener menos tiempo
+del habitual,
+\0 (6촀\0¡así que no va a ser
+tan fácil!
+´\0
+(촀\0¡Manos a la obra!
+Z"
+"013","(촀\0A vern\0\0
+\0 (&촀\0¿Quieres que te cuente
+cómo es la cosa?"
+"013_a","Sí"
+"013_b","No"
+"014","(촀\0¡Empecemos, entonces!
+<"
+"014_01","(촀\0¡Pues vamos!
+\0 Ah, sí,
+\0 una cosa más.
+Z\0\0\0(\0촀\0Esto es entre nosotros, así que solo
+puedes desenterrar el tesoro tú.
+´\0
+(촀\0¡Empezamos!
+<"
+"015","(촀\0Ten en cuenta que hay un límite de
+tiempo, así que no va a ser tan
+fáciln\0\0
+\0 (촀\0¡Buena suerte, fiera!
+´"
+"015_01","(촀\0Ten en cuenta que hay un límite
+de tiempo, así que no será tan
+fáciln\0\0
+´\0
+(촀\0Ah,
+\0 y una cosa más.
+\0( ()촀\0Esto es entre
+nosotros, así que solo puedes
+desenterrar el tesoro tú.
+´\0
+(촀\0¡Buena suerte, máquina!
+Z"
+"101","(촀\0Ey, si tienes un poco de tiempo,
+\0
+¿te gustaría buscar tesoros
+un rato?"
+"101_a","¡Claro que sí!"
+"101_b","Me parece que no..."
+"102","( 촀\0Una cosita, n\0.\0\0(
+촀\0Estaba pensando en una rutina
+muscular para 2ununa principiante como
+tú
+\0 ()촀\0y se me ocurrió una idean\0\0\0\0(촀\0¡Buscar tesoros!
+\0( (촀\0Deberías probarlo.\0\0(촀\0¡Correr por ahí cavando es una forma
+brutal de tonificar la musculatura!"
+"102_a","¡Me gusta la idea!"
+"102_b","No me convence..."
+"103","(촀\0¡Es supertarde!
+\0( (촀\0Con lo oscuro que
+está, ya no se puede encontrar
+nada,
+\0 ¡y menos un tesoro!
+(촀\0¡Ya intentaremos en otro momento!"
+"104","(촀\0¡Brutal!
+\0 Voy a esconder un tesoro,
+\0
+(""촀\0¡así que espérate aquí!"
+"105","(촀\0¿No te convence?
+\0( (%촀\0Bueno, quizá
+terminas cambiando de idea
+en algún momento."
+"106","(촀\0¡Mancuernas, mira la hora que es!
+\0(
+(촀\0¡No se pueden buscar tesoros en la
+oscuridad!
+(촀\0Eso te pondría las cosas mucho más
+difíciles,
+\0 así que mejor lo dejamos
+para otro momento, ¿te parece?"
+"107","(촀\0¡Bueno, entonces voy a esconder
+el tesoro!
+\0 (""촀\0No te muevas de aquí."
+"108","(촀\0¿No?
+\0 (촀\0Pues yo pensaba que la idea
+te iba a encantarn"
+"200","(촀\0Por más que he buscado, no he
+encontrado el sitio adecuado
+para esconder el tesoro, fieran\0\0
+(촀\0Mejor jugamos en otro momento."

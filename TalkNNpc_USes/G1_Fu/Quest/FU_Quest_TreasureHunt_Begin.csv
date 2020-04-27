@@ -1,0 +1,196 @@
+﻿"label","text"
+"001","(촀\0¿Te gustaría jugar a la búsqueda
+del tesoro conmigo?"
+"001_a","¡Claro!"
+"001_b","Ahora no puedo"
+"002","(촀\0Estaba pensando en organizar
+una búsqueda del tesoro,
+\0
+¿te apuntas?"
+"002_a","¡Por supuesto!"
+"002_b","(\0촀\0Mejor otro día"
+"003","(촀\0¡Se me ocurrió algo divertido!
+\0
+(촀\0¿Qué tal si jugamos a la búsqueda
+del tesoro?"
+"003_a","¡Suena divertido!"
+"003_b","Ahora no, gracias"
+"004","($촀\0¡Perfecto!\0\0()촀\0Yo entierro el tesoro y tú lo buscas,
+¿sí?
+\0 (촀\0Espera aquí un momentito."
+"005","($촀\0¡Bien!
+\0 Esto será divertido.\0\0(촀\0Voy a enterrar en algún lugar de la
+isla el tesoro que debes encontrar."
+"006","($촀\0¡Estupendo, n\0!\0\0(촀\0Dame un momentito para enterrar
+el tesoro que tienes que buscarn"
+"007","(촀\0Uy,
+\0 ¡¿pero qué horas son estas?!
+\0
+(촀\0No me había dado cuenta de que
+era tan tarde, lo siento.
+(&촀\0¿Lo dejamos para otro día?
+\0
+(%촀\0Cuando tengamos más tiempo
+y eso."
+"008","(촀\0Ah, bueno, no pasa nada.
+\0
+Ya jugaremos cuando puedas."
+"009","(촀\0Uy,
+\0 habría sido divertidon\0\0\0\0(촀\0Pero lo dejamos para otro día,
+n\0."
+"010","(촀\0Está bien.
+\0 El destino nos permitirá
+jugar en la ocasión indicada."
+"011","(촀\0Voy a explicarte las reglasn\0\0
+x\0\0\0()촀\0Enterré un tesoro en la isla.
+\0
+Tú tienes que encontrarlo antes
+de que se acabe el tiempo.
+È\0
+(촀\0Lo escondí afuera,
+\0 no te tienes
+que meter a ninguna edificación.
+´\0\0\0(촀\0Eso es todo.
+\0 ¿List2oa?
+\0
+(촀\0¡Adelante!
+x"
+"011_01","(촀\0Voy a explicarte las reglasn\0\0
+x\0\0\0()촀\0Enterré un tesoro en la isla.
+\0
+Ganarás si lo encuentras antes
+de que se acabe el tiempo.
+È\0
+(촀\0Lo escondí afuera,
+\0 no hace falta que
+busques dentro de las edificaciones.
+´\0\0\0(촀\0Ah, nadie puede ayudarte a buscarlo,
+¿entendido?
+\0 Tienes que hacerlo tú.
+´\0\0\0(촀\0Eso es todo.
+\0 ¿List2oa?
+\0
+(촀\0¡Adelante!
+x"
+"012","()촀\0Escúchame bienn\0\0 enterré el tesoro
+en algún lugar de la isla y tú debes
+encontrarlo dentro del tiempo límite.
+È\0
+(촀\0He puesto un tiempo bastante
+corto para que sea más difícil
+y emocionante.
+È\0
+('촀\0No vayas a buscar adentro de ninguna casa ni edificación, ¿eh?
+\0
+(촀\0Lo escondí en el exterior.
+È\0
+(촀\0Eso es todo.
+\0 ¿List2oa?
+\0 ($촀\0¡A buscar!
+x"
+"012_01","()촀\0Te cuento:
+\0 enterré un tesoro
+en algún lugar de la isla y tú debes
+encontrarlo en un tiempo límite.
+È\0
+(촀\0El tiempo que tienes es bastante
+corto para que sea más difícil
+y emocionante.
+È\0
+('촀\0Ni te molestes en mirar dentro de
+las edificaciones, ¿de acuerdo?
+\0
+(촀\0Lo escondí en el exterior.
+È\0
+(촀\0Ah, y nadie puede ayudarte
+a buscar, ¿eh?
+\0 Tienes que hacerlo tú.
+´\0\0\0(촀\0Pues ya está.
+\0 ¿List2oa?
+\0 ($촀\0¡A buscar!
+x"
+"013","(&촀\0¿Quieres que te explique cómo
+se juega?"
+"013_a","Sí, por favor"
+"013_b","No hace falta"
+"014","(촀\0¡Genial, pues podemos empezar
+ya mismo!
+x\0\0\0($촀\0¡Que empiece la búsqueda!
+x"
+"014_01","(촀\0¡Estupendo!
+\0 Pero nadie puede
+ayudarte a buscar, ¿eh?
+\0 (%촀\0Tienes
+que hacerlo por tu cuenta.
+È\0
+(촀\0¿List2oa?
+\0 ¡Vamos!
+x"
+"015","(촀\0De acuerdo,
+\0 pero te aviso que,
+\0
+para darle más emoción,
+\0 voy
+a disminuir el tiempo disponible.
+È\0
+(촀\0¿Todo listo?
+\0 ($촀\0¡Pues comencemos!
+x"
+"015_01","(촀\0De acuerdo,
+\0 pero te aviso que,
+\0
+para darle más emoción,
+\0 voy
+a disminuir el tiempo disponible.
+x\0
+(촀\0Ah, y nadie puede ayudarte a
+buscar, ¿eh?
+\0 ($촀\0¡Andando!
+Z"
+"101","(촀\0¡Calabacita! 
+\0¿Quieres jugar a la
+búsqueda del tesoro?"
+"101_a","¡Pues claro!"
+"101_b","Ahora no, lo siento"
+"102","( 촀\0¡2\0n\0!\0\0(촀\0Estoy buscando a alguien para
+jugar a la búsqueda del tesoro.
+\0
+(촀\0¿Te apuntas?"
+"102_a","¡Me apunto!"
+"102_b","Ahora no puedo..."
+"103","(촀\0Espera,
+\0 ¿tan tarde es?
+\0 (촀\0Entonces
+será mejor que lo dejemos para
+otro día.
+\0 ¡Disculpa, n\0!"
+"104","(촀\0¡Cuánto me alegro!\0\0(%촀\0Conozco el lugar perfecto para
+enterrar el tesoro.
+\0($촀\0 Ahora vuelvo."
+"105","( 촀\0Ah, no pasa nada.
+\0 (촀\0Solo pensaba
+que podría ser divertido,
+\0 pero
+lo podemos dejar para otro día."
+"106","(촀\0¡Rabanitos, pero qué tarde es!
+\0
+(촀\0Qué mal,
+\0 tenía muchísimas ganas
+de jugar contigon\0\0
+(촀\0Espero que lo volvamos a intentar
+otro día que tengamos más tiempo."
+"107","(촀\0¡Ay, qué nervios!\0\0(촀\0Espera aquí mientras voy a enterrar
+el tesoro."
+"108","(촀\0Bueno,
+\0 qué le vamos a hacern\0\0
+\0
+Otro día será,
+\0 n\0."
+"200","(촀\0Lo siento, lechuguitan\0\0
+\0 Busqué
+por toda la isla y no encontré
+ningún lugar donde enterrarlo.
+(촀\0Perdón por hacerte perder tu
+tiempo.
+\0 Podemos volver a
+intentarlo otro día."

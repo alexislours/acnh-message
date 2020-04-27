@@ -1,0 +1,48 @@
+﻿"label","text"
+"001","Dit is de verkoopkist van de winkel.
+\0
+Wil je iets verkopen?"
+"001_a","Ja, ik wil iets verkopen!"
+"001_b","Hoe werkt dit?"
+"001_c","Nee, niet nu."
+"002","Wil je nog meer verkopen via de
+verkoopkist?"
+"002_a","Ja, ik wil iets verkopen!"
+"002_b","Hoe werkt dit?"
+"002_c","Nee, niet nu."
+"003","Okén\0\0 Dus, wil je iets verkopen?"
+"003_a","Ja, ik wil iets verkopen!"
+"003_b","Ik wil de uitleg weer zien."
+"003_c","Een ander keertje."
+"004","Hier krijg je \0Z\0 \0￿voor.
+\0
+Ga je daarmee akkoord?"
+"004_a","(\0촀\0Verkocht!"
+"004_b","(\0촀\0Nee, laat maarn"
+"010","Dit is een verkoopkist.
+\0 Hier kun je
+alles inleveren wat je wilt verkopen."
+"010_a","Ik wil iets verkopen."
+"010_b","Hoe werkt dit?"
+"010_c","Nee, niet nu."
+"020","(
+촀\0Je kunt hier geen gebruik van maken
+als je NookBank-rekening vol staat."
+"021","(
+촀\0Je kunt momenteel niks anders meer
+verkopen op deze manier."
+"101","\0Hoe gebruik je de verkoopkist\0￿\0\0Lever voorwerpen in die je wilt
+verkopen, wanneer je wilt! Plaats je
+voorwerpen gewoon in de kist.\0\0De betaling wordt \0de volgende dag\0￿
+gestort op je NookBank-rekening.\0\0\0\01) Vanwege administratiekosten
+ontvang je 80% van inruilwaarde.\0\02) We kunnen voorwerpen die in de
+verkoopkist zijn geplaatst, niet
+teruggeven.\0\03) Knollen en dagtoppers worden
+alleen in de winkel aangenomen.\0￿"
+"901","Dit is de verkoopkist van de winkel.
+Deze kist is alleen bestemd voor
+bewoners van dit eiland.
+"
+"902","Dit is een verkoopkist. Deze kist is
+alleen bestemd voor bewoners van
+dit eiland."

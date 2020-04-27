@@ -1,0 +1,271 @@
+﻿"label","text"
+"001","dummy"
+"010","                      
+\0d\0Au revoir !d
+"
+"011","
+\0                d\0\0Bonjour !\0d
+\0\0\0Ici le \0service d'aide\0￿. 
+\0
+Merci de cet appel.d"
+"011_01","d\0Alors si j'ai bien compris,
+\0 tu esn\0\0d
+"
+"011_02","d\0Tu te trouves actuellementn\0\0d
+"
+"012","d\0Ah, mais mince alors !
+\0
+Ce signal est incompréhensible !d"
+"012_01","d\0Tu n'aurais pas de la visite,
+par hasard ?
+\0 Quelqu'un est venu
+prendre le thé avec toi, c'est ça ?
+Si je puis être clair, le système
+déraille s'il y a trop de signaux.\0\0Un peu comme Sonny à la cinquième
+tasse de cafén\0\0\0\0Alors si c'est un cas d'urgence,
+\0
+appuie sur \0 \0￿pour ouvrir le menu
+et choisis \0Terminer la session \0￿!d"
+"012_02","d\0Je pense avoir compris le problème.\0\0Tu rends visite à quelqu'un sur
+une autre île, c'est ça ? Et tu en
+profites pour faire du tourisme ?\0\0Moi, j'aime quand tout est simple,
+vois-tu.
+\0 Et trop de signaux d'un
+seul coup, c'est loin d'être simple.\0\0Alors si c'est urgent,
+\0 appuie sur \0
+\0￿pour ouvrir le menu et choisis
+\0Retourner sur mon île \0￿!d"
+"013","d\0Laisse-moi t'arrêter tout de suite.
+Tu n'es même pas à l'extérieur,
+n'est-ce pas ?
+Alors que je sois clair : 
+\0le service ne
+fonctionne pas si tu es à l'intérieur.\0\0Je ne tiens pas particulièrement
+à me prendre une porte dans le nez !\0\0Si tu veux mon aide, 
+\0il faut que tu
+sortes, d'accord ?d"
+"021_01","d\0Tu es n\0 2
+de d'⁠n!\0, c'est bien cela ?d"
+"021_02","d\0Voyons un peun\0\0 Ah, c'est bon !
+\0
+Tu es n\0 2
+de d'⁠n!\0, c'est bien cela ?\0\0(%촁\0
+\0Ça me fait plaisir d'avoir de tes
+nouvelles, même en ces piètres circonstances.d"
+"021_03","d\0Attends un peun\0\0
+\0 Tu es encore
+dans le pétrin ?
+\0(%촁\0d"
+"022",""
+"023_01","d\0Le système est plutôt simple :
+je te sors de là pour \0100\0￿ miles
+Nook.
+\0 Alors ?d"
+"023_01_a","(%촁\0Alors oui, à l'aide !"
+"023_01_b","('촁\0Non merci."
+"023_02","d\0C'est \0100\0￿ miles Nook le sauvetage.
+Alors, qu'est-ce que tu en penses ?d"
+"023_02_a","(%촁\0Alors oui, à l'aide !"
+"023_02_b","('촁\0Non merci."
+"023_03","d\0Tu n'avais pas assez de miles Nook
+la dernière fois, n\0.\0\0J'espère qu'aujourd'hui, tu as
+les provisions nécessaires.
+\0
+Alors, faut-il que je t'aide ?d"
+"023_03_a","(%촁\0Alors oui, à l'aide !"
+"023_03_b","('촁\0Non merci."
+"031_01","d\0Vraiment ?d"
+"031_02","d\0Tu ne veux pas ? Vraiment ?
+\0
+Écoute, ce n'est pas grave si tu
+n'avais pas les miles la dernière fois.d"
+"032_01","d\0Si tu es dans le pétrin,
+\0 dis-le !d"
+"032_02","d\0Mais tu as vraiment besoin d'aide,
+non ?
+\0 Tant pis si tu n'as pas les
+miles, je suis là pour t'aider !d"
+"041_01","d\0Très bien, et comme les bons
+comptes font les bons amis,
+\0
+montre-moi les \0100\0￿ miles Nook.d"
+"041_02","d\0Très bien. Et comme cette fois-ci,
+tu as les fonds, j'empoche de suite
+les \0100\0￿ miles Nook !d"
+"042_01","d\0Très bien ! Je te rappelle que
+c'est \0100\0￿ miles, si tu pouvais me
+les donner tout de suiten\0\0d
+K"
+"042_02","
+
+\0
+\0　　 d\0\0Minute, papillon !\0d
+\0
+	\0\0\0Tu t'es bien gardé2\0e de me dire
+que tu n'avais pas les miles !\0\0Je vais te laisser croupir ici alorsn\0\0
+\0
+Mais je plaisante, voyons !
+\0
+
+\0Cette fois, ce sera gratuit !d"
+"042_03","
+
+\0
+\0　　　　　 　d\0\0Hein ?\0d
+\0
+	\0\0\0(\0촁\0Mais pincez-moi !
+\0( Tu es encore
+à court de miles !
+\0 Mais qui me
+fiche des clients pareils ?!\0\0Bon, ce n'est pas si grave.
+\0(
+Cette fois encore, ce sera gratuit.d"
+"042_04","d\0Alors, vu que tu ne paies pas,
+\0
+je te dépose où ça m'arrange.
+\0
+Inutile de pleurnicher.d"
+"043","d\0Ah, au fait, comme tu n'es pas
+seul2\0e, 
+\0je dois te déposer sur
+la \0place\0￿.d"
+"044_01","d\0Bon, maintenant qu'on est en règle,
+\0
+où souhaites-tu que je te dépose ?d"
+"044_01_a","Chez moi."
+"044_01_b","Sur la place."
+"044_01_c","À l'aéroport."
+"044_01_d","Finalement, j'annule."
+"044_02","d\0Bon, maintenant qu'on est en règle,
+\0
+où souhaites-tu que je te dépose ?d"
+"044_02_a","À ma tente."
+"044_02_b","Sur la place."
+"044_02_c","À l'aéroport."
+"044_02_d","Finalement, j'annule."
+"044_03","d\0Bon, maintenant qu'on est en règle,
+\0
+où souhaites-tu que je te dépose ?d"
+"044_03_a","Chez moi."
+"044_03_b","Sur la place."
+"044_03_c","À la boutique."
+"044_03_d","À l'aéroport."
+"044_03_e","Finalement, j'annule."
+"045","d\0Désolé de te le dire comme ça,
+\0
+mais tu n'as pas encore vraiment
+de chez-toi.\0\0Ce qui veut dire que je ne sais pas
+du tout où te déposer.d\0
+\0(d Je n'aurais
+rien contre un indicen\0\0d"
+"045_a","Sur la place."
+"045_b","À l'aéroport."
+"045_c","Finalement, j'annule."
+"046","d\0Désolé de te le dire comme ça,
+\0
+mais tu n'as pas encore vraiment
+de chez-toi.\0\0Ce qui veut dire que je ne sais pas
+du tout où te déposer.d\0
+\0(d Je n'aurais
+rien contre un indicen\0\0d"
+"046_a","Sur la place."
+"046_b","À la boutique."
+"046_c","À l'aéroport."
+"046_d","Finalement, j'annule."
+"047","d\0Voilà, ça c'est faitn\0\0
+\0
+Alors, je t'emmène où ?d"
+"047_a","À ma tente."
+"047_b","Sur la place."
+"047_c","À la boutique."
+"047_d","À l'aéroport."
+"047_e","Finalement, j'annule."
+"048","d\0Dis,
+\0 tu me reçois ? 
+\0Écoute, tu es
+loin de chez toi et je n'arrive pas
+à obtenir de carte de cette île.
+Cela veut dire que je vais devoir
+te laisser \0là où l'avion atterrira\0￿.
+\0
+Est-ce que cela te convient ?d"
+"048_a","J'ai pas trop le choix !"
+"048_b","Finalement, j'annule."
+"050_01","d\0À ta tente ?
+\0 Aucun problème.d"
+"050_02","d\0Chez toi ?
+\0 D'accord !d"
+"050_03","d\0Sur la place ? 
+\0OK !d"
+"050_04","d\0Tu veux aller à la boutique de l'île ?
+
+\0C'est comme si c'était fait !d"
+"050_05",""
+"050_06","d\0Très bien !
+\0
+Allons-y !d"
+"050_07","d\0À l'aéroport ? 
+\0C'est comme si
+c'était fait.d"
+"051","<"
+"051_01","d\0Bon alors je fais quoi, moi ?
+\0KIl faut appuyer sur ce bouton ?\0dd"
+"051_02","d\0Allez Don, tu peux le fairen\0\0
+\0KChoisis un bouton au hasard. 
+\0
+Que peut-il arriver de si grave ?\0dd"
+"051_03","d\0À toi de jouer, Resettin\0\0
+\0KCe serait quand même bien plus simple
+si j'avais pris mes lunettes.\0dd"
+"052","d\0Bien.
+\0 Le sort en est jeté.d"
+"053","
+\0　　 　　d\0d\0C'est parti !dd
+"
+"061","d\0On est arrivés ! Tu peux ouvrir
+les yeux.d"
+"062","d\0Ah,
+\0 une dernière chosen\0\0d"
+"063","<"
+"063_01","d\0J'essaie toujours de peser mes
+mots avant de m'exprimer,
+contrairement à mon frère.\0\0Je songe à écrire un dictionnaire
+du bien-parler pour lui. Ce serait
+une bonne idée, n'est-ce pas ?d"
+"063_02","d\0Cette manie qu'ont les gens de
+dire que quelque chose n'est pas
+terrible alors qu'en fait, ça l'estn\0\0
+Pour me calmer et me recentrer,
+je fais du yoga.d"
+"063_03","d\0J'ai un petit cousin qui écrit
+toujours « porc épique » au lieu
+de « porc-épic ».\0\0J'ai essayé de le corriger et de lui
+montrer des documentaires
+animaliers, mais rien n'y fait.\0\0Avec la jeune génération,
+mieux vaut se faire une raisonn\0\0d"
+"064","<"
+"064_01","d\0J'essaie toujours de peser mes
+mots avant de m'exprimer,
+contrairement à mon frère.\0\0Je songe à écrire un dictionnaire
+du bien-parler pour lui. Ce serait
+une bonne idée, n'est-ce pas ?d"
+"064_02","d\0Cette manie qu'ont les gens de
+dire que quelque chose n'est pas
+terrible alors qu'en fait, ça l'estn\0\0
+Pour me calmer et me recentrer,
+je fais du yoga.d"
+"064_03","d\0Tu te sers bien tous les jours
+du \0Nook Stop\0￿ au bureau des
+résidents pour gagner des miles ?\0\0Il faut le faire, c'est vraiment la base.d"
+"2001","d\0Oui ? Ce n'est pas comme
+d'habitude, c'est ça ?
+\0 Je pensais
+bien que tu le remarquerais.
+Alors voilà. \0Rese\0￿n\0\0 euh, je veux
+dire ton opérateur habituel est
+en pause, en ce moment.
+Donc aujourd'hui, je fais office
+de remplaçant. Pour ma première
+fois,
+\0( j'espère que tu seras patient2\0e.
+Alorsn\0\0d"

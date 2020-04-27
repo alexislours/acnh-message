@@ -1,0 +1,174 @@
+﻿"label","text"
+"050","(촀\0Oh, didja want to send a letter?\0\0n\0\0(2촀\0Uh, I mean, sure thing, butn\0\0
+\0(
+I'm not great at multitasking.\0\0(&촀\0You mind if I close the gate for
+now while we do this?"
+"050_a","Sure thing!"
+"050_b","Don't close it!"
+"051","(촀\0Appreciate you understanding.
+\0
+Alright, here we go—closing
+the gate!"
+"052","(촀\0And we're ready!"
+"070","(&촀\0Ready to send a letter?"
+"070_a","Send one!"
+"070_b","Some other time."
+"080","(촀\0Alright—where do you wanna
+send it?(\0촀"
+"080_a","A resident here."
+"080_b","My future self."
+"080_c","Never mind."
+"200","(%촀\0Gotcha. Someone on this island.
+(&촀\0Who, exactly?"
+"210_01","Sending to s\0촀?
+No problem!"
+"210_02","(촀\0To s촀? Sounds good!"
+"210_03","(촀\0To n\0 of the future,
+then!"
+"220_01","(%촀\0Just choose a card and write your
+letter on it!(촀"
+"220_02","Alrighty then. 
+\0Here's your card!"
+"290","(촀\0Sorry,
+\0 I'm already drowning in letters
+I haven't been able to send yet, 
+\0so I
+can't take any more right now.\0\0(촀\0I don't wanna be a pain, 
+\0but could
+you come back in a while and let
+me sort this mess out?"
+"320","( 촀\0Oh!
+\0 Looks like you already sent two
+letters today to s\0촀.\0\0(\0촀\0You can send more tomorrow,
+\0
+(촀\0so how about we just wait?"
+"400",""
+"401","(촀\0So, how far into the future should I
+be sending this thing?"
+"402","You wanna send it to(&촀\0
+\0Z#촀 Z$촀\0￿, \0Z""촀\0￿?"
+"402_a","That's right."
+"402_b","Let's change the date."
+"410","Did I goof? Sorry. Couldja try again?"
+"415","(\0촀\0Okeydoke! Oh,
+\0 wait a minute! Looks
+like you've already got a letter in the
+hopper for future n\0.
+()촀\0If you wanna send another future
+letter, you gotta discard the old one."
+"416","(촀\0I was gonna return the present to
+you before we delete the letter,
+\0(촀\0
+but it looks like you're all full up.
+(7촀\0Sorry, couldja come back again
+after you make some room?(\0촀"
+"420","(%촀\0Alright, we deleted that letter.
+\0
+(촀\0Ready to write a new one?"
+"420_01","(%촀\0I'll go ahead and throw away the
+letter you were going to send to
+the future you.\0\0(촀\0So take this card and edit it. To send
+to yourself. In the future."
+"421","(\0촀\0Heard ya loud and clear.
+\0(%촀\0 The card has
+a present attached, so I'll give that
+back,
+\0 and just toss the card itself.(\0촀\0
+(촀\0Go ahead 
+\0and pick out a new card
+for yourself."
+"421_01","(\0촀\0Heard ya loud and clear.
+\0(%촀\0 The card has
+a present attached, so I'll give that
+back,
+\0 and just toss the card itself.(\0촀\0
+(촀\0Take this card and edit it to send to
+yourself in the future."
+"500","Alright, (촀\0delivery fee comes to
+\0200 Bells\0￿."
+"501","(촀\0Letter sent! Thanks for
+your business!"
+"502","(촀\0Thanks a bunch!
+\0 I'll be sure to send
+your letter on the day you requested!"
+"510","(촀\0Wuh-oh! 
+\0You don't have quite
+enough Bells here. 
+\0((촀\0When you've
+got \0200\0￿, come see me again!
+In the meanwhile,
+\0 I'll just hold on to
+the letter for you.
+\0(촀\0 I promise not to
+peek at it!"
+"520","(촀\0Oh, you gotta quit? 
+\0(%촀\0Well, I'll keep
+the letter in case you wanna come
+back to it."
+"521","(촀\0Wrapping it up for now, eh?
+\0(촀\0 Well,
+lemme just save your work for later."
+"522","(촀\0You're all done? 
+\0(촀\0Gotcha.
+\0
+\0(촀\0 Lemme
+know if I can help again sometime."
+"523","(&촀\0Quittin' time?
+\0 (촀\0No problem.
+\0 Lemme
+know if you ever need my help again."
+"550","($촀\0Oh,
+\0 and lemme just return the item
+you had attached to the letter."
+"551","(촀\0Oh! 
+\0One little hitch—(\0촀\0(2촀\0I don't have
+any space back here to store
+presents,
+\0 so I'll return this to you."
+"552","(촀\0I'll be here whenever you need me!"
+"600","(촀\0Didja want to write a letter?\0\0(%촀\0I've got one here that you were
+working on for s\0촀."
+"601","(촀\0Didja want to write a letter?\0\0(%촀\0I've got one here that you were
+working on for s촀.
+"
+"602","(촀\0Didja want to write a letter?\0\0(%촀\0I've got one here that you were
+working on for your future self.
+"
+"604","OK, 
+\0let's talk letters again.
+\0(\0촀\0 Got a
+beaut here that you were working
+on before."
+"610","(촀\0Sorry, we can't send anything to
+s\0촀 anymore.\0\0(&촀\0You wanna aim this letter at someone
+else?
+\0 Or just throw it away?"
+"610_a","Change addressee."
+"610_b","Throw it away."
+"611","(촀\0Sorry, we can't send anything to
+s촀 anymore.\0\0(&촀\0You wanna aim this letter at someone
+else?
+\0 Or just throw it away?"
+"611_a","Change addressee."
+"611_b","Throw it away."
+"620","Who do you wanna send it to?"
+"620_a","A resident here."
+"620_b","My future self."
+"630","(%촀\0Alright, I'll go ahead and throw away
+this letter for you."
+"800","(촀\0Thanks for your business!"
+"801","(%촀\0Gotcha. 
+\0Just gimme a holler next
+time you need to send somethin'."
+"802","(&촀\0Oh, you're all set?
+\0 Great!
+\0(촀\0 Just come
+back when you need somethin'!"
+"803","(촀\0Read ya loud and clear!
+\0 I'll just hold
+on to your letter until the delivery
+date."
+"804","(촀\0Roger!\0\0I'll keep the gate open for now,
+\0 but
+let me know if you change your mind
+and want help with postal services."

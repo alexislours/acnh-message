@@ -1,0 +1,113 @@
+﻿"label","text"
+"001","($촀\0Oye,
+\0 ¿no te apetecería jugar
+a un juego conmigo?\0\0(촀\0Mi }\0\0 es tuy2촀oa\0 si me ganas."
+"001_a","¡Suena bien!"
+"001_b","Ahora no, gracias"
+"002","(촀\0¡Vale!
+\0 (촀\0Pues vamos allá.
+\0
+($촀\0¿Quieres que te explique las reglas
+del jueguecito, n\0?"
+"002_a","Sí, por favor"
+"002_b","No, gracias"
+"003","(촀\0Vayan\0\0
+\0 (촀\0Bueno, si cambias de idea,
+ven a buscarme, n\0n"
+"004","¡Vale!
+\0 Primero voy a barajar todas
+estas cartasn\0\0
+\0 (<촀\0Barajamos, barajamos
+y barajamosn"
+"005","(9촀\0A ver esa respuestan"
+"006_01","(촀\0¡Vaya, has ganado!
+\0 (촀\0Y, como yo lo
+que prometo lo cumplo,
+\0 ¡para ti
+mi }\0\0!"
+"006_02","(촀\0Pues he perdidon\0\0
+\0 (촀\0¡Aquí tienes
+mi }\0\0!"
+"006_03","(촀\0¡Eso significa que he ganado!
+\0
+(촀\0No te llevas premio,
+\0 pero, si quieres,
+te doy un abrazon"
+"007_01","(촀\0Qué bien que me lo he pasadon\0\0
+\0
+¡He perdido en dos sentidos, pero
+aun así ha estado requetegenial!
+(""촀\0¡A ver si volvemos a jugar pronto,
+n\0!"
+"007_03","(촀\0¡Me lo he pasado requetepipa,
+n\0!
+\0 Qué nervios lo de
+comprobar la respuesta, ¿eh?"
+"008","(촀\0¡Vale!
+\0 ¡Vamos allá!\0\0(촀\0Pero espera,
+\0 que tienes los bolsillos
+a topen\0\0 ('촀\0Creo que será mejor que lo
+dejemos para otro momento.\0\0()촀\0Menuda faena si ganases y no te
+pudieses llevar el premio, ¿no?
+\0
+(""촀\0¡Ya jugamos otro rato, n\0!"
+"100","Pues vamos a ellon\0\0
+\0
+()촀\0Tengo cartas de estos cuatro
+palos: \0♥\0￿, \0♦\0￿, \0♠ \0￿y\0 \0￿\0♣\0￿.\0\0()촀\0Voy a sacar una carta y tú tienes
+que adivinar a qué palo corresponde.\0\0(%촀\0¡Si aciertas, te quedas con
+mi }\0\0!\0\0(촀\0Pero, si fallasn\0\0
+\0 ¡bueno, ya veremos
+cuando llegue el momento!\0\0(<촀\0¡Vamos allá!"
+"101","(=촀\0¡Vale!
+\0
+(\0촀\0Cuatro palos: \0♥\0￿, \0♦\0￿,\0♠\0￿ y \0♣\0￿.
+\0
+(;촀\0¿De cuál es la carta?"
+"101_a","\0♥ (Corazones)\0￿"
+"101_b","\0♦ (Diamantes)\0￿"
+"101_c","\0♠ (Picas)\0￿"
+"101_d","\0♣ (Tréboles)\0￿"
+"102_01","Y la respuesta esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0¡Has acertado!"
+"102_02","Y el palo esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0Qué faenan"
+"200","Vamos a ellon\0\0
+\0
+()촀\0Tengo cartas de los siguientes
+palos: \0♥\0￿, \0♦\0￿, \0♠ \0￿y\0 \0￿\0♣\0￿.\0\0()촀\0Voy a sacar una carta y tú tienes
+que adivinar el color del palo
+al que corresponde.\0\0(%촀\0¡Si aciertas, te quedas con
+mi }\0\0!\0\0(<촀\0¡Qué empiece el espectáculo!"
+"201","(=촀\0¡Venga!
+\0
+(\0촀\0El palo de esta cartan\0\0
+\0
+(;촀\0¿es \0rojo \0￿o \0negro\0￿?"
+"201_a","\0¡Rojo!\0￿"
+"201_b","\0¡Negro!\0￿"
+"202_01","Y la respuesta esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0¡\0Rojo\0￿!
+\0 ¡Has acertado! "
+"202_02","Y he sacadon\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0\0Negro\0￿n\0\0
+\0 ¡Has fallado!"
+"202_03","Vamos a vern\0\0
+\0 ¡(촀\0촀!
+\0
+(촀\0
+\0¡Es de color \0negro\0￿, así que
+has acertado!"
+"202_04","A ver, a vern\0\0(촀\0
+\0 ¡촀!
+\0
+(촀\0Pues \0rojo\0￿n\0\0
+\0 Has falladon"

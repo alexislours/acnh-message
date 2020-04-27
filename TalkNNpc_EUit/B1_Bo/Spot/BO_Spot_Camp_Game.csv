@@ -1,0 +1,129 @@
+﻿"label","text"
+"001","(촀\0Ehi, ti va di giocare a un piccolo
+gioco con me, n\0?\0\0(\0촀\0Se vinci, (%촀\0io ti darò come premio
+2""촀il miola mia\0 }\0\0!"
+"001_a","Va bene!"
+"001_b","Adesso no."
+"002","(촀\0Evvai!
+\0 (촀\0Allora cominciamo.
+\0( ($촀\0Devo
+spiegarti le regole, n\0?"
+"002_a","Sì grazie."
+"002_b","Non c'è bisogno."
+"003","( 촀\0Ah, OK.
+\0( Comunque, 
+\0(촀\0se cambi idea io
+sono sempre disponibile a giocare,
+n\0."
+"004","OK!
+\0( Per prima cosa, mescolerò
+le carte per bene! 
+\0(<촀\0
+\0E mescola,
+\0
+mescola,
+\0 mescolan"
+"005","(9촀\0Vediamo se hai dato la risposta
+giustan"
+"006_01","(촀\0Mitico, hai vinto!
+\0( (촀\0Perciò, come
+ti avevo promesso, ecco 2""촀il miola mia\0
+}\0\0."
+"006_02","(촀\0Caspiterina, ho perso!
+\0 (촀\0OK, ecco 2""촀il miola mia\0 }\0\0n\0\0
+\0 o meglio, 
+\02""촀il tuola tua\0!"
+"006_03","(촀\0Caspitina, ho vinto io, n\0!
+\0(\0\0(\0촀\0Mi spiace, niente premio per ten\0\0 
+\0(2촀\0Ma
+se vuoi, una volta o l'altra possiamo
+fare uno spuntino insiemen"
+"007_01","(촀\0Dai, è stato divertente, anche se ho
+perso!
+\0( (""촀\0Giochiamo ancora una volta
+o l'altra, n\0!"
+"007_03","(촀\0Beh,
+\0 è stato divertente!
+\0 (2촀\0Anche se
+la suspense del gioco mi ha fatto
+venire una fame pazzescan"
+"008","(촀\0Evviva, allora cominciamo!\0\0(촀\0Caspitina! 
+\0Ma hai le tasche strapiene
+e non puoi portare altro con ten\0\0
+('촀\0Ho paura che dovremo rimandare.\0\0()촀\0Se vincessi tu e non potessi portarti
+a casa il premio mi dispiacerebbe
+tantissimo, n\0!
+(""촀\0Dai, giocheremo un'altra volta."
+"100","OK! Le regole sono questen\0\0
+()촀\0Le carte che ho sono di 4 semi
+diversi:
+\0 \0♥\0￿, \0♦\0￿, \0♠\0￿ e \0♣\0￿.
+()촀\0Io ne pescherò una e tu dovrai
+indovinarne il seme.\0\0(\0촀\0Se lo indovini,
+\0 allora vincerai (""촀\02""촀il miola mia\0
+}\0\0!\0\0(\0촀\0Ma se sbaglin\0\0 Uhmn\0\0 (&촀\0
+\0behn\0\0
+\0 
+\0non so!
+
+\0((<촀\0Dai, iniziamo, n\0!"
+"101","(=촀\0Bene,
+\0 dimmin\0\0
+\02 (\0촀\0Quale sarà il seme
+della carta che ho pescato?
+(;촀\0
+\0\0♥\0￿, \0♦\0￿, \0♠\0￿ o \0♣\0￿?"
+"101_a","\0Cuori\0￿ \0♥\0￿!"
+"101_b","\0Quadri\0￿ \0♦\0￿!"
+"101_c","\0Picche ♠\0￿!"
+"101_d","\0Fiori ♣\0￿!"
+"102_01","Il seme della carta che ho pescato
+èn\0\0(촀\0
+\0 촀!
+\0( (촀\0
+\0Hai indovinato!"
+"102_02","Il seme della carta che ho pescato
+èn\0\0(촀\0
+\0 촀!
+\0( (촀\0
+\0Mi dispiace, ma ti è
+andata male!"
+"200","OK! ()촀\0Le carte che ho sono di 4 semi
+diversi: \0♥\0￿, \0♦\0￿, \0♠\0￿ e \0♣\0￿.\0\0()촀\0Io ne pescherò una e tu dovrai
+indovinare il colore del suo seme.\0\0(\0촀\0Se lo indovini,
+\0 allora vincerai (""촀\02""촀il miola mia\0
+}\0\0!\0\0(\0촀\0Ma se sbaglin\0\0 Uhmn\0\0 (&촀\0
+\0behn\0\0
+\0 
+\0non so!
+
+\0((<촀\0Dai, iniziamo, n\0!"
+"201","(=촀\0Dunque,
+\0 dimmin\0\0
+\02(\0촀\0 di che colore è
+il seme della carta che ho appena
+pescato? (;촀\0
+\0\0Rosso\0￿ 
+\0o \0nero\0￿?"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","Il seme della carta è(촀\0n\0\0 촀!
+\0(
+E quindi \0rosso\0￿!(촀\0
+\0 Hai indovinato,
+n\0!"
+"202_02","Il seme della carta è(촀\0n\0\0 촀!
+\0(
+E quindi \0nero\0￿!
+\0 (촀\0Mi spiace, la tua
+risposta è sbagliata, n\0!"
+"202_03","Il seme della carta è(촀\0n\0\0 촀!
+\0(
+E quindi \0nero\0￿!(촀\0
+\0 Hai indovinato,
+n\0!"
+"202_04","Il seme della carta è(촀\0n\0\0 촀!
+\0(
+E quindi \0rosso\0￿!
+\0 (촀\0Mi spiace, la tua
+risposta è sbagliata, n\0!"

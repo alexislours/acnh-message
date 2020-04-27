@@ -1,0 +1,625 @@
+﻿"label","text"
+"001","(촀\0Hallöchen,
+\0 n\0!"
+"001_00","(촀\0Ach so,
+\0 n\0!
+\0
+Da war ja noch was!
+\0 Und zwaaarn"
+"001_01","(촀\0Glückwunsch zum neuen Eigenheim!"
+"001_10","(촀\0Ach so!
+\0 Ich wollte da noch
+mit dir über etwas sprechenn\0\0
+\0(4촀\0
+Also,
+\0 falls du mal Zeit hast und so.
+(:촀\0Nur so ein kleiner Vorschlag von mir.
+Nicht schlimm,
+\0 wenn es jetzt nicht so
+gelegen kommt. 
+\0(촀\0Wann du magst!"
+"001_10_a","In Ordnung!"
+"001_10_b","Hab wenig Zeit..."
+"002","(%촀\0Ach so, klar.
+\0 Kein Problem!
+\0
+(촀\0Sag einfach, wenn du mal
+ein bisschen Zeit hast,
+\0 ja?(촀"
+"002_01","(촀\0Gut, 
+\0was kann ich denn Schönes
+für dich tun?"
+"002_01_a","Ich will was verkaufen!"
+"002_01_b","Ich will was kaufen!"
+"002_01_c","Du wolltest reden...?"
+"002_01_d","Nichts..."
+"002_02","(%촀\0Auch gut
+\0, auch gut.
+\0(
+(6촀\0Melde dich einfach,
+\0 wenn du
+Zeit hast für einen kleinen Plausch.(촀"
+"010","(촀\0Ui, n\0!
+Schön, dass du mal wieder
+vorbeischaust!\0\0(4촀\0Erst noch mal von mir so ganz
+nebenbein\0\0 Ich wollte ja immer noch
+mit dir über was sprechen,
+\0 weißt du?
+(%촀\0Sagst du mir einfach,
+\0 wenn du
+mal Zeit hast?
+\0 Das wäre total nett!"
+"010_a","Jetzt hab ich Zeit!"
+"010_b","(\0촁\0Ein andermal..."
+"011","(촀\0Wie kann ich dir behilflich sein?"
+"011_a","Ich will was verkaufen!"
+"011_b","Ich will was kaufen!"
+"011_c","Du wolltest reden...?"
+"011_d","Nichts..."
+"012_01","(촀\0Vorzüglich! 
+\0Ich mach's auch ganz,
+ganz kurz,
+\0 okay?\0\0(4촀\0Ich wollte mal fragen: Hättest du
+Lust, an einem tollen Bauprojekt
+mitzumachen? 
+\0(!촀\0Einem neuen \0Laden\0￿!
+()촀\0Je mehr hier auf der Insel los ist,
+\0
+desto mehr interessierte Kunden.
+\0
+Ist ja klar!
+(1촀\0Ich würde auch gern ein viel
+größeres Sortiment anbieten,
+\0 was
+hier ja aus Platzgründen nicht geht...
+(5촀\0Unser großer Häuptling weiß auch
+schon Bescheid.
+\0 Und expandieren
+will er ja sowieso immer,
+\0 du weißt ja."
+"012_02","(촀\0Es gäbe da nur ein kleines Problem.
+\0
+Unser Inselchen ist zwar superschön,
+\0
+aber nicht gerade ein Baumarkt.
+(
+촀\0Und wo wir ja schon so viele
+Behausungen bauen müssen...
+\0
+Für einen Laden bleibt da nicht viel.
+(%촀\0Aber weißt du, was?
+\0 Ich hab eine
+Idee!
+\0 DU könntest doch einfach hier
+in der Natur Baustoffe sammeln!
+Von Bäumen,
+\0 Steinen...
+\0 Zeug,
+\0 aus
+dem ein geschickter Bastler ein
+hübsches Geschäft errichten kann.
+(촀\0Das ist sogar umweltverträglich!
+\0
+Wir haben uns da selbst erkundigt
+und so!
+\0 Die Insel leidet nicht!
+(#촀\0Äh,
+\0 aber zurück zum Thema.
+\0(
+(&촀\0Würdest du vielleicht Baumaterial
+für unser Ladenprojekt besorgen?
+(%촀\0Wir würden uns auch erkenntlich
+dafür zeigen,
+\0 versteht sich ja von
+selbst.
+\0 Eine Pfote wäscht die andere!"
+"012_02_a","Okay!"
+"012_02_b","Ich muss wohl..."
+"012_03","(촀\0Vielen Dank!
+\0 Du bist spitze!"
+"012_04","()촀\0So.
+\0 Ich weiß,
+\0 es ist ziemlich viel
+auf einmal,
+\0 aber folgende Sachen
+bräuchten wir zu unserem Glück...
+(1촀\0\0Holz\0￿, 
+\0\0Hartholz
+\0 \0￿und \0Weichholz\0￿.
+Jeweilsn\0\0
+\0 Na ja,
+\0 \030 Stück\0￿ pro Sorte!
+(촀\0Und dazu \030 Stücke Eisenerz\0￿!\0\0(\0촀\0(촀\0Es ist auch egal,
+\0 woher die Sachen
+kommen.
+\0 Sie können von hier sein
+oder von einer ganz anderen Insel!\0\0()촀\0Und keine Eile,
+\0 ja?
+\0(촀\0
+Ich habe noch keinen Baum
+weglaufen sehen!\0\0Sobald du von einem Material
+die volle Garnitur hast,
+\0 dann komm
+hier vorbei und sag mir Bescheid!"
+"013","(촀\0Willkommen, 
+\0n\0!
+\0
+(\0촀\0Was kann ich heute für dich tun?"
+"013_a","\0Zum Ladenbau...\0￿"
+"013_b","Ich will was verkaufen!"
+"013_c","Ich will was kaufen!"
+"013_d","Nichts..."
+"014","(촀\0Wie kann ich dir behilflich sein?"
+"014_a","\0Zum Ladenbau...\0￿"
+"014_b","Ich will was verkaufen!"
+"014_c","Ich will was kaufen!"
+"014_d","Nichts..."
+"015","(촀\0Im Moment bitten wir unsere werten
+Inselbewohner um Baustoffspenden
+für den Laden,
+\0 den wir bauen wollen!"
+"015_a","Ich will was beitragen!"
+"015_b","Was war noch nötig?"
+"015_c","Alles klar."
+"023","(촀\0Hach,
+\0 ich bin ja so gespannt!
+\0
+Welches Plätzchen wirst du wohl
+für unser neues Geschäft wählen?\0\0(촀\0Nicht vergessen:
+\0 Wenn du den
+idealen Ort gefunden hast,
+\0 stell
+einfach mein \0Laden-Bauschild\0￿ hin."
+"024","(촀\02\0n\0!
+\0
+(촀\0Das \0Laden-Bauschild\0￿ steht!
+\0
+Jetzt gibt's kein Zurück!
+(촀\0Wird ein ganz schöner Trubel,
+\0
+alles bis morgen fertigzubekommen,
+\0
+aber ich freu mich unheimlich!"
+"051","(촀\0Oh,
+\0 etwas spenden, 
+\0das hört man
+gern!
+\0 (촀\0Da danke ich aber im Namen
+des ganzen Unternehmens!"
+"052_01","(
+촀\0Ein paar Sachen haben wir schon,
+\0
+(촀\0nur \030 Stücke Holz\0￿ fehlen nochn\0\0
+\0 (\0촀\0
+(&촀\0Ob du uns da aushelfen könntest?"
+"052_01_a","Hier, bitte!"
+"052_01_b","Später..."
+"052_02","(
+촀\0Nach den ganzen Spenden bisher
+
+\0(촀\0fehlen uns nur noch \030 Stücke\0￿
+\0Hartholz\0￿. (\0촀\0
+\0(&촀\0Ob du welches hast?"
+"052_02_a","Hier, bitte!"
+"052_02_b","Später..."
+"052_03","(
+촀\0Wir sind schon recht gut versorgt,
+
+\0(촀\0bloß \030 Stücke Weichholz\0￿ bräuchten
+wir nochn\0\0(\0촀\0
+\0(&촀\0 Hättest du welches?"
+"052_03_a","Hier, bitte!"
+"052_03_b","Später..."
+"052_04","(
+촀\0\030 Stücke\0￿ \0Eisenerz \0￿fehlen uns noch,
+\0
+den Rest hätten wir!(\0촀\0
+\0(&촀\0 Ob du uns wohl
+welches besorgen kannst?"
+"052_04_a","Hier, bitte!"
+"052_04_b","Später..."
+"053_01","(\0촀\0Viele Sachen wurden bereits
+gespendet.
+\0 Es fehlen bloß noch
+\0
+(촀\0\030 Stücke Holz\0￿!"
+"053_02","(\0촀\0Viele Sachen wurden bereits
+gespendet.
+\0 Es fehlen bloß noch
+
+\0(촀\0\030 Stücke Hartholz\0￿!"
+"053_03","(\0촀\0Viele Sachen wurden bereits
+gespendet.
+\0 Es fehlen bloß noch
+
+\0(촀\0\030 Stücke Weichholz\0￿!"
+"053_04","(\0촀\0Viele Sachen wurden bereits
+gespendet.
+\0 Es fehlen bloß noch
+
+\0(촀\0\030 Stücke Eisenerz\0￿!"
+"053_05","()촀\0Am liebsten wäre es uns,
+\0 die Anzahl
+benötigter Materialien auf einmal zu
+erhalten.
+\0 Hilft beim Lagern und so.
+(촀\0Wenn du also von einer Sache die
+nötige Menge gesammelt hast,
+\0 schau
+einfach vorbei und gib sie hier ab!"
+"054","(%촀\0Gar kein Problemchen!
+\0 (촀\0Komm einfach
+später mal vorbei,
+\0 wir freuen uns
+jederzeit über eine kleine Spende!"
+"055","(촀\0Ich werd verrückt!
+\0 (촀\0Wenn mich nicht
+alles täuscht,
+\0 hätten wir damit alles
+für unser Ladenbauvorhaben!"
+"056_01","(촀\0Ich hab was für dich.
+\0
+Als Dankeschön für deine
+Großzügigkeit,
+\0 hier!
+2\02\0}\0\0, 
+\02\0}\0 und 2\0}\0!\0\0Alles für dich!
+\0 Viel Spaß damit,
+\0
+und vielen Dank noch mal."
+"056_02","(촀\0Hier, als Dankeschön 2\0}\0\0 und
+\0 2\0}\0!"
+"056_03","(촀\0Hier, 
+\0als kleines Dankeschön 2\0
+}\0\0 für dich!"
+"056_04","(4촀\0Und weil du uns so mit dem
+Baumaterialsammeln geholfen hast,
+\0
+überlassen wir dir die Ehre.
+Welche Ehre, 
+\0möchtest du wissen?"
+"057","(4촀\0Eine Kleinigkeit nurn\0\0
+\0 Wo wir ja jetzt
+alles beisammen haben und mit dem
+Ladenbau loslegen können und son"
+"058_01","(촀\0Nun, 
+\0da das ja eigentlich alles dein
+Verdienst ist,
+\0 da könntest DU doch
+bestimmen,
+\0 wo der stehen soll!"
+"058_02","(촀\0Pflanz einfach das \0Laden-Bauschild
+\0￿dorthin,
+\0 wo es dir passt. 
+\0Die Firma
+kümmert sich um den Rest!\0\0(촀\0Ich freu mich schon darauf,
+\0 dass du
+uns einen tollen Standort aussuchst!"
+"061","(
+촀\0Mal sehen, 
+\0was du uns so Schönesn\0\0
+\0
+(촀\0Potz Blitz!
+\0 Das ist ja alles auf einmal!
+\0
+Alles,
+\0 was wir brauchen!\0\0(&촀\0Sag mal,
+\0 möchtest du wirklich
+alle vier Sachen auf einen Schlag
+spenden?
+\0 Wäre dir das recht?"
+"061_a","Hier, bitte!"
+"061_b","Später..."
+"062","(
+촀\0Dann mal sehen.
+\0 Diesmal hast dun\0\0
+\0(촀\0
+\0
+Mach Sachen!
+\0 ALLES!
+\0 Du hast alles
+dabei,
+\0 was uns noch fehlt!\0\0(&촀\0Möchtest du uns alles spenden,
+\0
+was wir noch brauchen?
+\0 Das wäre
+ja toll von dir!"
+"062_a","Hier, bitte!"
+"062_b","Später..."
+"071_01","(촀\0Momentan bräuchten wir drei
+Sachen zum Loslegen:
+\0(%촀\0 \0Hartholz\0￿,
+\0
+\0Weichholz\0￿ ($촀\0und \0Eisenerz\0￿."
+"071_02","(촀\0Momentan bräuchten wir drei
+Sachen zum Loslegen:
+\0(%촀\0 \0Holz\0￿,
+\0
+\0Weichholz ($촀\0\0￿und \0Eisenerz\0￿."
+"071_03","(촀\0Momentan bräuchten wir drei
+Sachen zum Loslegen:
+\0(%촀\0 \0Holz\0￿,\0
+\0
+Hartholz ($촀\0\0￿und \0Eisenerz\0￿."
+"071_04","(촀\0Momentan bräuchten wir drei
+Sachen zum Loslegen:
+\0(%촀\0 \0Hartholz\0￿,
+\0
+\0Weichholz\0￿ ($촀\0und einfaches \0Holz\0￿!"
+"072_01","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+nämlich($촀\0 \0Holz\0￿ und \0Hartholz\0￿."
+"072_02","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+nämlich($촀\0 \0Holz\0￿ und \0Weichholz\0￿."
+"072_03","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+($촀\0nämlich \0Holz\0￿ und \0Eisenerz\0￿."
+"072_04","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+($촀\0nämlich \0Hartholz\0￿ und \0Weichholz\0￿."
+"072_05","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+($촀\0nämlich \0Hartholz \0￿und \0Eisenerz\0￿."
+"072_06","(촀\0Zwei Sachen fehlen uns derzeit noch,
+\0
+($촀\0nämlich \0Weichholz \0￿und \0Eisenerz\0￿."
+"081_01","(촀\0Na, so was!
+\0 Du hast ja \0Holz\0￿ dabei!
+\0(&촀\0
+Wolltest du vielleicht \030 Stück \0￿davon
+für unser neues Geschäft spenden?"
+"081_01_a","Hier, bitte!"
+"081_01_b","Später..."
+"081_02","(촀\0Sieh an!
+\0 Du hast ja \0Hartholz\0￿ dabei!
+\0(&촀\0
+Wolltest du vielleicht \030 Stück \0￿davon
+für unser neues Geschäft spenden?"
+"081_02_a","Hier, bitte!"
+"081_02_b","Später..."
+"081_03","(촀\0Nanu!
+\0 Du hast ja \0Weichholz\0￿ dabei!
+\0(&촀\0
+Wolltest du vielleicht \030 Stück \0￿davon
+für unser neues Geschäft spenden?"
+"081_03_a","Hier, bitte!"
+"081_03_b","Später..."
+"081_04","(촀\0Oho!
+\0 Du hast ja \0Eisenerz\0￿ dabei!
+\0(&촀\0
+Wolltest du vielleicht \030 Stück \0￿davon
+für unser neues Geschäft spenden?"
+"081_04_a","Hier, bitte!"
+"081_04_b","Später..."
+"082_01","(촀\0Ui, 
+\0du hast ja \0Holz \0￿und \0Hartholz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_01_a","Hier, bitte!"
+"082_01_b","Später..."
+"082_02","(촀\0Du hast ja \0Holz \0￿und \0Weichholz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_02_a","Hier, bitte!"
+"082_02_b","Später..."
+"082_03","(촀\0Du hast ja \0Holz \0￿und \0Eisenerz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_03_a","Hier, bitte!"
+"082_03_b","Später..."
+"082_04","(촀\0Du hast ja \0Weichholz \0￿und \0Hartholz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_04_a","Hier, bitte!"
+"082_04_b","Später..."
+"082_05","(촀\0Du hast ja \0Hartholz \0￿und \0Eisenerz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_05_a","Hier, bitte!"
+"082_05_b","Später..."
+"082_06","(촀\0Du hast ja \0Weichholz \0￿und \0Eisenerz\0￿
+dabei!
+\0 (&촀\0Wolltest du uns vielleicht
+\030 Stück\0￿ von beidem spenden?"
+"082_06_a","Hier, bitte!"
+"082_06_b","Später..."
+"083_01","(촀\0Im Moment hast du \0Weichholz\0￿,
+\0
+\0Hartholz\0￿ und \0Eisenerz\0￿ dabei.
+\0(&촀\0
+Möchtest du je \030 Stück\0￿ spenden?"
+"083_01_a","Hier, bitte!"
+"083_01_b","Später..."
+"083_02","(촀\0Im Moment hast du \0Weichholz\0￿,
+\0
+\0Holz\0￿ und \0Eisenerz\0￿ dabei.
+\0(&촀\0
+Möchtest du je \030 Stück\0￿ spenden?"
+"083_02_a","Hier, bitte!"
+"083_02_b","Später..."
+"083_03","(촀\0Im Moment hast du \0Holz\0￿,
+\0
+\0Hartholz\0￿ und \0Eisenerz\0￿ dabei.
+\0(&촀\0
+Möchtest du je \030 Stück\0￿ spenden?"
+"083_03_a","Hier, bitte!"
+"083_03_b","Später..."
+"083_04","(촀\0Im Moment hast du \0Weichholz\0￿,
+\0
+\0Hartholz\0￿ und einfaches \0Holz\0￿ dabei.
+\0(&촀\0
+Möchtest du je \030 Stück\0￿ spenden?"
+"083_04_a","Hier, bitte!"
+"083_04_b","Später..."
+"091","Öhn\0\0
+\0 Hm,
+\0 irgendwie hast du
+gerade nichts dabei,
+\0 was wir für
+unser Projekt gebrauchen könnten.\0\0(9촀\0Leider bräuchten wir von allen
+Sachen die komplette Menge,
+\0
+nicht bloß einen Teil.\0\0(7촀\0Ich weiß,
+\0 das ist müßig für dich,
+\0
+aber sonst gibt's hier im Lager
+ein heil
+\0lo
+\0ses
+\0 Durcheinander!"
+"092_01","(촀\0Ich bedanke mich!
+\0 Damit rückt
+der Traum vom neuen Geschäft
+gleich ein Stückchen näher!"
+"092_02","(촀\0Ein Hoch auf deine Großzügigkeit!
+\0
+Mit dieser Spende haben wir die
+Hälfte der Sachen beisammen!"
+"092_03","(촀\0Herzlichsten Dank!
+\0 Nicht mehr viel,
+\0
+dann kann der Bau unseres neuen
+Geschäfts endlich losgehen!"
+"093_01","(촀\0Hier,
+\0 ein Dankeschön des Hauses.
+\0
+2\02\0\0}\0\0\0￿ nur für dich.
+\0 Kommt von Herzen!"
+"093_02","(촀\0Dafür gibt's ein kleines Dankeschön
+von mir.\0\0Hier,
+\0 für 2J""den edlen Spender$die edle Spenderin! 
+\02\02\0\0}\0\0\0￿ und 2\0\0}\0\0￿!"
+"093_03","(촀\0Da will man sich doch gleich
+erkenntlich zeigen.
+\0 Hier,
+\0 für dich!\0\02\02\0\0}\0\0\0￿!
+\0
+2\02\0\0}\0\0￿!
+\0
+U
+\0u
+\0u
+\0undn\0\0\0\0...2\0\0}\0\0￿!
+\0
+Viel Spaß damit!"
+"094_01","(촀\0Wir würden uns schrecklich freuen,
+\0
+falls du uns auch mit dem restlichen
+Baumaterial helfen könntest."
+"094_02","(촀\0Falls dir noch genug von dem letzten
+Baumaterial in die Hände fällt,
+\0 denk
+doch bitte wieder an uns..."
+"101","Wir brauchen ()촀\0\0Holz\0￿,
+\0 \0Hartholz\0￿,
+\0
+\0Weichholz\0￿ und \0Eisenerz\0￿.
+\0
+(촀\0\030 Stück \0￿von allem!"
+"102","(촀\0Du brauchst nicht alle vier Sachen
+auf einmal abzuliefern.
+\0 Sie separat
+vorbeizubringen reicht völlig!\0\0()촀\0Falls du aber alle 30 Stück von einer
+Sache auf einmal abliefern könntest,
+\0
+wäre das vorzüglich.(촀"
+"103_01","(
+촀\0Nun,
+\0 so ein paar Materialien haben
+wir ja bereits.
+\0 Von den Sachen,
+\0 die
+wir brauchen,
+\0 fehlt noch Folgendes..."
+"103_02_01","(촀\0...\0Hartholz\0￿,
+\0 \0Weichholz\0￿ und
+\0Eisenerz\0￿,
+\0 jeweils \030 Stück\0￿!
+\0
+Falls du uns hilfst,
+\0 wäre das toll!"
+"103_02_02","(촀\0...\0Holz\0￿,
+\0 \0Weichholz\0￿ und \0Eisenerz\0￿,
+\0
+jeweils \030 Stück\0￿!
+\0 Falls du uns hilfst,
+\0
+wäre das toll!"
+"103_02_03","(촀\0...\0Holz\0￿,
+\0 \0Hartholz\0￿ und \0Eisenerz\0￿,
+\0
+jeweils \030 Stück\0￿!
+\0 Falls du uns hilfst,
+\0
+wäre das toll!"
+"103_02_04","(촀\0...\0Holz\0￿,
+\0 \0Hartholz\0￿ und \0Weichholz\0￿,
+\0
+jeweils \030 Stück\0￿!
+\0 Falls du uns hilfst,
+\0
+wäre das toll!"
+"103_03_01","(촀\0...\030 Stücke Holz\0￿ uuund
+\030 Stücke Hartholz\0￿. 
+\0Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_03_02","(촀\0...\030 Stücke Holz\0￿ uuund
+\030 Stücke Weichholz\0￿. 
+\0Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_03_03","(촀\0...\030 Stücke Holz\0￿ uuund
+\030 Stücke Eisenerz\0￿. 
+\0Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_03_04","(촀\0...\030 Stücke Hartholz\0￿ uuund
+\030 Stücke Weichholz\0￿.
+\0 Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_03_05","(촀\0...\030 Stücke Hartholz\0￿ uuund
+\030 Stücke Eisenerz\0￿.
+\0 Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_03_06","(촀\0...\030 Stücke Weichholz\0￿ uuund
+\030 Stücke Eisenerz\0￿.
+\0 Das war's!
+\0
+Wir zählen auf deine Großzügigkeit!"
+"103_04_01","(촀\0...\030 Stücke Holz\0￿,
+\0 und das wär's!
+\0
+Gar nicht mehr viel,
+\0 oder?
+\0
+Allerbesten Dank schon jetzt!"
+"103_04_02","(촀\0...\030 Stücke Hartholz\0￿,
+\0 und das
+wär's! 
+\0Gar nicht mehr viel,
+\0 oder?
+\0
+Allerbesten Dank schon jetzt!"
+"103_04_03","(촀\0...\030 Stücke Weichholz\0￿,
+\0 und das
+wär's! 
+\0Gar nicht mehr viel,
+\0 oder?
+\0
+Allerbesten Dank schon jetzt!"
+"103_04_04","(촀\0...\030 Stücke Eisenerz\0￿,
+\0 und das
+wär's! 
+\0Gar nicht mehr viel,
+\0 oder?
+\0
+Allerbesten Dank schon jetzt!"

@@ -1,0 +1,266 @@
+﻿"label","text"
+"001","(7촀\0Ehilà. 
+\0Al momento sono un po'
+a corto di stelline.\0\0Non è che per caso vorresti comprare
+2\0}\0\0?"
+"001_a","(\0촀\0Quanto vorresti?"
+"001_b","No, grazie."
+"002","(촀\0Ehi, è il tuo giorno fortunato.
+
+\0Perché? Vedi, sto vendendo
+2\0}\0\0!\0\0(7촀\0Magari a te serve una cosa
+del genere?"
+"002_a","(\0촀\0Quanto vorresti?"
+"002_b","No, grazie."
+"003","(촀\0Ah, sono molto felice di vederti,
+n\0!\0\0(7촀\0Vedi, al momento le mie taschen\0\0
+sono un po' vuoten\0\0\0\0(촀\0Insomma, per non farla lunga, sto
+vendendo delle cose. 
+\0Quattro, per
+la precisione.
+(3촀\0Vuoi dare un'occhiata?"
+"003_a","(\0촀\0Ma certo."
+"003_b","No, grazie."
+"004","(7촀\0Ehi, n\0...
+
+\0Hai un minuto per me?
+\0 (9촀\0Il fatto
+è che sono un po' nei guain\0\0
+(촀\0Sai, ogni volta che mi imbatto
+in 2\0}\0\0,
+devo comprarne un sacco!
+(촀\0Quindi adesso mi ritrovo ad averne
+cinque 
+\0e a dovermi liberare di un po'
+di quella roba.
+(5촀\0E qui entri in gioco tu.
+\0 Non è che
+ti andrebbe di comprarne?"
+"004_a","(\0촀\0Quanto vorresti?"
+"004_b","Mi spiace, ma passo."
+"005","(%촀\0Non fa nienten\0\0 Posso capirti.
+\0
+(6촀\0Sarà per un'altra volta!"
+"006","(촀\0OK, OK. 
+\0Vorrà dire che chiederò
+a qualcun altro, allora. (촀\0
+\0AHAHAH!"
+"007","(촀\0Come ti pare.
+\0 Mi sa che dovrò
+chiedere a qualcun altro se vuole
+fare un affare, n\0."
+"008","(촀\0Mmmhn\0\0 
+\0Beh, se non ne vendo
+affatto... 
+\0in fondo non c'è niente
+di male! (촀\0
+\0AHAHAH!(촀"
+"009","(촀\0È proprio un piacere fare affar- 
+\0(촀\0Fermi
+tutti! 
+\0Non hai abbastanza stelline?\0\0(촀\0Guarda,
+\0 non ti preoccuparen\0\0 Il
+mio piccolo favore può attendere,
+n\0.
+(6촀\0Non mi pare il caso di andare in
+bancarotta per men\0\0 Sai poi dover
+raccogliere i cocci? 
+\0(촀\0AHAHAH!(촀"
+"100","(
+촀\0Vediamon\0\0 che ne diresti di
+Z?"
+"100_a","Va bene!"
+"100_b","No, grazie."
+"101","(촀\0Mitico! 
+\0Hai fatto un affare!"
+"102","(%촀\0So bene che è in buone mani,
+
+\0(촀\0ma un po' mi mancherà 2""촀il miola mia\0
+}\0\0n"
+"103","(;촀\0Giochi a contrattare, eh?
+\0 OKn\0\0
+(6촀\0Hai vinto.\0\0(촀\0Sì beh, per stavolta non ti faccio
+pagare nulla. 
+\0È il tuo giorno
+fortunato, n\0."
+"104","(촀\0Puoi farci quello che vuoi con
+quell'oggetto. 
+\0Tenerlo, rivenderlo...
+non mi importa! 
+\0(촀\0AHAHAH!"
+"105","(7촀\0Non c'è problema.
+\0 Vedrò se
+qualcun altro è interessato."
+"200","(
+촀\0OK, allora vediamo di fare questo
+affare. 
+\0(($촀\0Che ne dici di Z?"
+"200_a","(\0촀\0È troppo."
+"200_b","Va bene!"
+"200_c","No, grazie."
+"201","(6촀\0Ah, vuoi contrattare, eh? 
+\0Beh,
+alloran\0\0 
+\0(Rispondo con Z!"
+"201_a","Ora va bene!"
+"201_b","È ancora troppo."
+"202","(촀\0Mitico, 
+\0che trattativa lampo!
+
+\0Grazie!"
+"203","(촀\0È bello fare affari con te."
+"204","(%촀\0Niente da fare, eh?
+\0 Beh, immagino
+non fosse scritto nelle stelle.
+\0 Anche
+perché non sanno scrivere. (촀\0
+\0AHAHAH!
+(촀\0Sarà per la prossima volta!"
+"205","(촀\0Sei un osso duro, eh! 
+\0Allora
+facciamon\0\0 
+\0($촀\0Z?"
+"205_a","Ma sì, dai!"
+"205_b","(\0촀\0Ancora un po' meno..."
+"206","('촀\0Spiacente,
+\0 meno di così non posso
+chiedere. 
+\0(촀\0Sarà per un'altra volta!"
+"207","(촀\0Argh! 
+\0Ti approfitti della mia bontà!
+
+\0(9촀\0L'ultima offerta è di Z\0n\0\0
+
+\0Prendere o lasciare, n\0!"
+"207_a","Ora ci siamo. Prendo!"
+"207_b","(\0촀\0Allora lascio, grazie."
+"208","(-촀\0Me l'hai fatto sudare, 
+\0ma hai fatto
+un vero affare..."
+"209","(6촀\0Sei proprio 2@un negoziatore una negoziatrice
+speciale, lo sai? (촀\0
+\0<AHAHAH!"
+"210","(%촀\0OK,
+\0 per stavolta non è andata.
+\0
+Magari sarà per la prossima!"
+"300","(5촀\0È questo che volevo sentire!\0\0Allora, per cominciare avrei 2\0}\0\0 a,
+\0 
+\0diciamon\0\0 
+\0Z. 
+\0(&촀\0Ci stai?"
+"300_a","Ci sto!"
+"300_b","Mmmh... Non mi serve."
+"301","(촀\0Mitico!
+\0 Ecco qua. 
+\0E grazie
+della tua generosità, n\0!"
+"302","(촀\0Ora devo solo trovare il modo
+di scialacquare queste stellinen"
+"303","(&촀\0Va bene, allora che ne diresti
+di 2\0}\0\0?\0\0(
+촀\0Come prezzo direi che Z andrebbero benen"
+"303_a","Sì, va bene!"
+"303_b","(\0촀\0Che altro hai?"
+"304","(촀\0Capperi, non ci sei 2 cascatocascata.
+\0<
+(
+촀\0Ehm, 
+\0alloran\0\0 
+\0potrei venderti
+2\0}\0\0.
+($촀\0Come prezzo parliamo di
+Z.
+\0 Ti interessa?"
+"304_a","Sì! 2촀LoLa\0 prendo!"
+"304_b","Non mi interessa."
+"305","(촀\0Argh! Sto finendo l'assortimento,
+qua! 
+\0Mi hai preso per un negozio?
+
+\0
+\0(
+촀\0OK, n
+\0, riflettin\0\0
+(3촀\0Ormai non mi resta che proporti 2\0}\0\0 per 
+\0Z. 
+\0Ti va bene?"
+"305_a","Mi va bene!"
+"305_b","No, grazie."
+"306","(촀\0Ma non ti è piaciuto proprio niente!
+
+\0(
+촀\0Come commerciante non devo essere
+un granché.
+Chissà, 
+\0forse se fossi un granchio...
+(촀\0
+\0AHAHAH!(촀"
+"400","(
+촀\0Behn\0\0 
+\0perché sei tu, 
+\0posso farti
+un prezzonen\0\0 Z,
+
+\0per esempio. 
+\0($촀\0Ti va bene?"
+"400_a","Sì!"
+"400_b","(\0촀\0Scenderesti un po'?"
+"401","(촀\0Troppo forte, grazie! 
+\0Affare fatto!"
+"402","(촀\0Cavoli, 
+\0mi hai dato un grande aiuto,
+n\0."
+"403","(6촀\0Ah, 
+\0sei un osso duro, eh? 
+\0Ti stimo.
+
+\0OK! 
+\0($촀\0Z.
+\0 Che ne pensi?"
+"403_a","Va bene!"
+"403_b","(\0촀\0È ancora troppo."
+"404","(촀\0Vuoi prendermi per sfinimento?
+\0(
+($촀\0Allora facciamo 
+\0Z.
+Va bene oran\0\0
+\0?"
+"404_a","Sì!"
+"404_b","(\0촀\0Dai, abbassa il prezzo!"
+"405","(촀\0Argh! 
+\0Al mio capo non piaceràn\0\0
+(촀\0Ah, già. 
+\0Io non ho un capo!\0\0(5촀\0Allora puoi avere l'oggetto per
+Z\0. Non una di più,
+non una di meno. Affare fatto?"
+"405_a","Va bene!"
+"405_b","No, grazie."
+"406","(-촀\0Ti stimo troppo! 
+\0Trattativa conclusa,
+
+\0finalmente, n\0..."
+"407","(6촀\0Non te la cavi mica male
+a contrattare. (촀\0
+\0AHAHAH!(촀\0
+"
+"408","(촀\0Mi stai dicendo che dopo tutto
+questo tira e molla non compri
+niente?!
+(촀\0Guarda, ho di meglio da fare...
+
+\0Magari sarà per un'altra volta,
+n\0."
+"409","('촀\0Mi spiace, 
+\0più di così non posso
+scendere. 
+\0(촀\0Forse avrai più fortuna
+la prossima volta."
+"410","('촀\0Mi spiace,
+\0 meno di così non posso
+proprio chiedere..."
+"411","(촀\0Senti, anche a me servono le stelline
+per camparen\0\0 
+\0('촀\0Mi spiace, 
+\0chiudiamo
+qui le trattative, n\0."

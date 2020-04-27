@@ -1,0 +1,177 @@
+﻿"label","text"
+"001","(&촀\0As-tu par hasard suivi un programme
+d'entraînement physique intéressant,
+ces derniers temps, n\0 ?"
+"001_a","Ouaip."
+"001_b","Non."
+"001_c","(\0촁\0Je vais m'y mettre."
+"002","(촀\0Ah, oui ?
+\0 (촀\0Je suis bien content
+d'entendre ça !\0\0(촀\0Ça fait du bien de s'entraîner, hein ?
+Continuons comme ça, tous les deux,
+n\0 !"
+"003","(촀\0Ah, je voisn\0\0
+\0 Je suppose que tu as
+des passe-temps
+\0 (4촀\0plusn\0\0
+\0 paisibles,
+n\0.
+(7촀\0Et si à l'occasion, on se retrouvait
+pour faire 2\0촀 ? ((촀\0Je suis sûr que ça te plairait !"
+"004","(촀\0Oh, super ! Je viendrai t'encourager,
+alors, n\0 !"
+"008","(촀\0Un de mes vieux amis m'a invité
+à venir faire du sport avec lui.\0\0(%촀\0Quand on évolue à mon niveau, c'est
+courant, ce genre de propositions.
+\0
+Disn\0\0 (&촀\0quel sport me suggérerais-tu ?"
+"008_a","(\0촁\0Le handball.
+(\0촁\0Le basket.
+(\0촁\0Le football."
+"008_b","(\0촁\0La lutte.
+(\0촁\0La boxe.
+(\0촁\0Le judo."
+"008_c","(\0촁\0Le saut à l'élastique."
+"009","(1촀\0Ouin\0\0 C'est assez physique, ça
+demande du talent, et il y a assez
+de compétition pour que je m'amuse.\0\0Bon, très bien ! Commençons donc
+par quelques exercices de contrôle
+du ballon, n\0 !"
+"010","(1촀\0Ouin\0\0 C'est assez physique, ça
+demande du talent, et il y a assez
+de compétition pour que je m'amuse.\0\0(촀\0Bon, très bien ! Commençons donc
+par apprendre les règles, alors.
+2\0n\0 !"
+"011","(촀\0Maisn\0\0 il y a même pas d'adversaire
+dans ce que tu me proposesn\0\0
+(
+촀\0Et l'esprit de compétition, alors ?"
+"015","(촀\0Il est temps de te soumettre à
+mon célèbre Test de personnalité
+musculaire, n\0 !
+(촀\0Dis-moi,
+\0 quels muscles voudrais-tu
+exercer plus particulièrement ?"
+"015_a","(\0촁\0Mes biceps."
+"015_b","(\0촁\0Mes triceps."
+"015_c","(\0촁\0Mes quadriceps."
+"015_d","(\0촁\0Mes deltoïdes."
+"016","()촀\0Ton choix me révèle des informations
+sur ta personnalité, n\0.\0\0(%촀\0Le bras fléchi pour gonfler le biceps
+est un symbole classique de la force.\0\0(촀\0J'en déduis que tu es une personne 
+\0
+âpre à la tâche,
+\0 prête à travailler dur
+pour obtenir de bons résultats."
+"017","()촀\0Ton choix me révèle des informations
+sur ta personnalité, n\0.\0\0(%촀\0Les biceps saillants sont souvent mis
+à l'honneur. Pourtant, tu choisis les
+triceps, au rôle de soutien important.
+(촀\0J'en déduis que tu es quelqu'un de
+\0
+fidèle,
+\0 qui n'hésite jamais à aider ses
+amis,
+\0 sans tirer la couverture à soi."
+"018","()촀\0Ton choix me révèle des informations
+sur ta personnalité, n\0.\0\0(%촀\0Les muscles des cuisses sont très
+importants pour étendre les jambes,
+courir, ou simplement tenir debout.
+(촀\0J'en déduis que ce qui prime chez
+toi,
+\0 c'est les valeurs fondamentales,
+\0
+comme l'honnêteté et la gentillesse."
+"019","()촀\0Ton choix me révèle des informations
+sur ta personnalité, n\0.\0\0(%촀\0Les muscles des épaules permettent
+de lancer ou agiter des choses, mais
+aussi et avant tout de les soulever.
+(촀\0J'en déduis que tu es du genre
+\0 à
+motiver tes amis
+\0 et à leur donner la
+force d'accomplir de grandes choses."
+"022","(촀\0Il est temps que je te soumette à
+mon Test de personnalité sportif,
+\0
+qui sera très bientôt breveté !
+(촀\0Dis-moi,
+\0 quel sport apprécies-tu
+le plus avec tes amis ?"
+"022_a","(\0촁\0Le football."
+"022_b","(\0촁\0Le base-ball."
+"022_c","(\0촁\0Le marathon."
+"022_d","(\0촁\0Le basket."
+"023","()촀\0Je peux déterminer ce que tes amis
+pensent de toi d'après le sport
+que tu as choisi, n\0.
+(%촀\0En foot, il faut avoir un bon esprit
+d'équipe et une bonne vision du jeu,
+c'est ça l'important.
+(촀\0Ton choix me révèle que tes amis
+te considèrent comme « 2
+celui
+celle sur
+qui on peut compter »."
+"024","()촀\0Je peux déterminer ce que tes amis
+pensent de toi d'après le sport
+que tu as choisi, n\0.
+(%촀\0En base-ball, il faut avoir des talents
+d'athlète et bien comprendre des
+enjeux stratégiques complexes.
+(촀\0Ton choix me révèle que tes amis
+te considèrent comme « 2(le copainla copine
+sérieu2
+xse et responsable »."
+"025","()촀\0Je peux déterminer ce que tes amis
+pensent de toi d'après le sport
+que tu as choisi, n\0.
+(%촀\0Courir un marathon, c'est du sérieux.
+Pour y parvenir, le mental est aussi
+important que la condition physique.
+(촀\0Ton choix me révèle que tes amis
+te considèrent comme « 2
+celui
+celle qui
+ne manque pas d'ambition »."
+"026","()촀\0Je peux déterminer ce que tes amis
+pensent de toi d'après le sport
+que tu as choisi, n\0.
+(%촀\0Au basket, tu as absolument besoin
+de tes coéquipi2ersères, mais tu peux
+aussi t'imposer comme la superstar.
+(촀\0Ton choix me révèle que tes amis
+te considèrent comme « 2
+celui
+celle qui
+ira loin »."
+"030","(\0촀\0Y a-t-il une raison particulière qui
+t'a poussé2\0e à choisir ta coiffure,
+n\0 ?"
+"030_a","Oui, tout à fait."
+"030_b","Pas vraiment."
+"030_c","(\0촁\0C'est mon secret."
+"031","(촀\0Je le savais !
+\0 (촀\0Mon instinct ne
+me trompe jamais.\0\0(5촀\0Moi, je me coiffe en général de façon
+à courir le plus vite possible !\0\0(%촀\0On ne sait jamais quand on peut
+avoir besoin d'un petit avantage
+aérodynamique, n\0."
+"032","(;촀\0Ah oui ?
+\0 (촀\0Je m'imaginais que tu avais
+une raison de te coiffer comme ça,
+n\0.\0\0(5촀\0Moi,
+\0 je me coiffe en général de façon
+à améliorer ma pénétration de l'eau,
+\0
+histoire de nager comme une torpille.
+(7촀\0Enfinn\0\0
+\0 en même temps,
+\0 j'aime pas
+plonger la tête sous l'eau,
+\0 et je nage
+avec une bouée et des brassardsn"
+"033","(촀\0Ah bon ?!
+\0 (촀\0Maisn\0\0 si c'est un secret,
+je suis encore plus curieux d'en
+connaître la raison, n\0 !"

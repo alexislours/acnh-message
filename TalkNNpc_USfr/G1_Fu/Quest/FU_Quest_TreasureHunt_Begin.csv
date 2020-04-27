@@ -1,0 +1,175 @@
+﻿"label","text"
+"001","Veux-tu partir avec moi(촀\0 pour une chasse au trésor?"
+"001_a","Carrément!"
+"001_b","Pas maintenant, non."
+"002","Ça te dirait de jouer à la chasse
+au trésor avec moi?(촀"
+"002_a","Très bonne idée!"
+"002_b","Une autre fois..."
+"003","(촀\0Eh, j'ai une idée!
+\0 (촀\0Une chasse au
+trésor, ça te tente?"
+"003_a","Tu l'as dit!"
+"003_b","Pas maintenant, merci."
+"004","(촀\0Cool!\0\0(%촀\0J'en ai pour une minute. ($촀\0Je vais
+enterrer le trésor quelque part!"
+"005","(촀\0On va bien s'amuser!\0\0(%촀\0Il faut que je trouve un endroit où
+enterrer le trésor.($촀\0 Je reviens tout de
+suite!"
+"006","(촀\0Génial!\0\0(%촀\0Donne-moi une minute, ($촀\0je vais
+enterrer le trésor!"
+"007","( 촀\0Oh, je n'ai pas vu l'heure passer.
+(촀\0Il est déjà si tard?\0\0Désoléen\0\0 ()촀\0On le fera une autre fois,
+
+\0($촀\0il faudra qu'on s'y mette plus tôt."
+"008","(7촀\0D'accord, ce n'est pas bien graven\0\0
+C'était juste une idée comme ça.
+(촀\0Une autre fois, peut-être?"
+"009","(%촀\0Je pensais qu'on pourrait s'amuser.
+(촀\0On essaiera une autre fois!"
+"010","(4촀\0J'imagine que mon invitation
+sortait un peu de nulle partn\0\0\0\0(%촀\0Mais je compte bien
+t'inviter à nouveau!"
+"011","(%촀\0Bienn\0\0
+\0( ()촀\0Un trésor est enterré sur l'île
+\0
+et (%촀\0tu dois le retrouver dans le temps
+imparti.
+x\0
+()촀\0Il est caché dehors, pas la peine
+d'entrer chez les gens, d'accord?
+Z\0\0\0(\0촀\0Tu es prêt2\0e?
+\0 Attentionn\0\0
+\0 (촀\0C'est
+parti!
+\0(촀\0
+Z"
+"011_01","(촀\0Je vais t'expliquer les règles.
+2\0\0\0()촀\0J'ai caché un trésor quelque part sur
+l'île.
+\0( (촀\0Si tu réussis à le trouver dans
+le temps imparti, tu as gagné!
+x\0
+()촀\0Il est à l'extérieur, alors pas la peine
+d'aller fouiller chez les gens.
+Z\0\0\0(9촀\0Tes amis n'ont pas le droit de
+t'aider,
+\0 mais (촀\0peuvent quand
+même t'encourager.
+d\0\0\0(촀\0Allez.
+\0 C'est parti, n\0!
+2"
+"012","(%촀\0Bienn\0\0
+\0( ()촀\0J'ai enterré un trésor quelque
+part sur l'île 
+\0et (%촀\0tu dois le retrouver
+dans le temps alloué.
+x\0
+()촀\0Je te préviens, tu n'auras pas
+beaucoup de temps. 
+\0(촀\0Je me suis dit
+que ce serait plus drôle comme ça.
+x\0\0\0()촀\0Ah, le trésor est caché dehors, pas la
+peine de farfouiller chez les gens.
+Z\0\0\0(\0촀\0Tu es prêt2\0e?
+\0 Attentionn\0\0
+\0(촀\0
+C'est parti!
+\0(촀\0
+Z"
+"012_01","(촀\0Je vais t'expliquer les règles.
+2\0\0\0()촀\0Alorsn\0\0 Un trésor est caché sur l'île.
+\0
+(%촀\0Tu devras le trouver dans le temps
+imparti.
+x\0
+(6촀\0Tu auras moins de temps cette fois,
+\0
+histoire de corser un peu les choses.
+Z\0\0\0(9촀\0Tes amis n'ont pas le droit de
+t'aider,
+\0 mais (촀\0peuvent quand même
+t'encourager.
+d\0\0\0(촀\0Allez.
+\0 C'est parti!
+2"
+"013","(&촀\0Souhaites-tu que je t'énonce
+les règles?"
+"013_a","Oui."
+"013_b","Non."
+"014","(%촀\0Très bien, alors autant s'y mettre
+tout de suite.
+\0((\0촀\0 Est-ce que tu es
+2prêt
+prête?
+\0 Alorsn\0\0(촀\0
+\0( C'est parti!
+\0(촀\0
+x"
+"014_01","(9촀\0OK,
+\0 mais tes amis ont juste le
+droit de t'encourager, c'est tout.
+\0
+(촀\0Attentionn\0\0 top chrono!
+Z"
+"015","(%촀\0D'accord, mais il faudra aller plus
+vite cette fois,
+\0()촀\0 pour pimenter
+un peu la chasse.\0\0C'est bon, tu as compris?
+\0 Alorsn\0\0
+\0(촀\0
+c'est parti,
+\0 n\0!
+\0(촀\0
+<"
+"015_01","Tu auras moins de temps cette fois,
+\0
+et tes amis n'ont pas le droit de
+t'aider,
+\0 n\0.
+x\0\0\0(촀\0C'est compris?
+\0 On va pouvoir y aller
+alors
+\0n\0\0 au travail!
+Z"
+"101","(촀\0Si je te dis « ⁠chasse au trésor »,
+toi, qu'est-ce que tu me réponds?"
+"101_a","Que c'est super!"
+"101_b","Pas maintenant."
+"102","( 촀\02\0n\0!
+\0(
+(
+촀\0Je me disais qu'on pourrait jouer à
+un jeun\0\0
+\0 (촀\0Ah ça y est, j'ai trouvé!\0\0(촀\0Que penses-tu
+\0(&촀\0 d'aller faire une
+chasse au trésor?"
+"102_a","Ça a l'air très amusant!"
+"102_b","Non, merci."
+"103","( 촀\0Oh, mais il est déjà si tard?\0\0(촀\0Désoléen\0\0 Nous devrions essayer
+une autre fois, et nous y mettre
+plus tôt."
+"104","(촀\0Bonne réponse!\0\0(%촀\0Attends-moi ici alors, ($촀\0je vais enterrer
+le trésor quelque part!"
+"105","(7촀\0Ne t'inquiète pas, c'était juste
+une idée comme ça.
+\0 (촀\0Une autre fois,
+peut-être?"
+"106","(촀\0Oh non, il est vraiment tard!(촀\0
+J'aurais tellement voulu faire
+cette chassen\0\0\0\0(4촀\0Désolée de te faire faux bond,
+mais nous devons remettre ça
+à une autre fois, et plus tôtn"
+"107","(촀\0Youpiii!\0\0(%촀\0J'en ai pas pour longtemps,
+\0 il faut
+que j'aille ($촀\0enterrer le trésor!"
+"108","(4촀\0Oh, c'est dommage.
+\0
+(촀\0Une autre fois, peut-être."
+"200","(촀\0J'ai fouillé toute l'île, mais je n'ai
+pas trouvé (촀\0un seul endroit valable
+où enterrer le trésorn\0\0
+(촀\0Désolée, c'était une mauvaise idée.
+\0
+(촀\0On dirait que la chasse au trésor est
+annuléen"

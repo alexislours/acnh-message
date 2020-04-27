@@ -1,0 +1,215 @@
+﻿"label","text"
+"001","Se non sai cosa fare, io avrei un'idea.
+\0
+(&촀\0Che ne dici di una bella caccia al
+tesoro, n\0?"
+"001_a","Ottima idea!"
+"001_b","Adesso, proprio no."
+"002","(촀\0Se la noia si sta impossessando di te,
+ho in mente qualcosa per salvarti.
+\0
+(6촀\0Che ne dici di una caccia al tesoro?"
+"002_a","Eccomi!"
+"002_b","No, grazie."
+"003","(&촀\0Sei in cerca di emozioni forti?
+\0(촀\0 Ho
+quello che fa per te:
+\0 un'avvincente
+caccia al tesoro!"
+"003_a","Mi iscrivo subito!"
+"003_b","Sono contro la caccia."
+"004","((촀\0Allora preparati a una sfida senza
+pari! 
+\0(촀\0Aspetta un attimo qui, mentre
+vado a seppellire il tesoro."
+"005","(촀\0Vedo che non stai più nella pelle, n\0.
+\0(촀\0 Ma se non mi dai il tempo di sotterrare il tesoron\0\0\0\0()촀\0... non avrai proprio un bel niente
+a cui dare la caccia!"
+"006","(촀\0Non essere troppo impaziente!
+
+\0(6촀\0Dammi il tempo di trovare un posto
+dove sotterrare il tesoro."
+"007","(촀\0Ehm, mi dispiace, 
+\0ma guarda che ora
+si è fatta! 
+\0(5촀\0La vita notturna chiama 
+\0e
+io non posso mancare all'appello!
+(촀\0Per la caccia al tesoro, forse ci si
+vede domani. 
+\0Possibilmente sul
+tardin\0\0 (촀\0ma non troppo, n\0!"
+"008","(촀\0Dici sul serio? 
+\0(3촀\0O forse hai paura
+della mia suprema abilità nel
+nascondere cose, n\0?"
+"009","(%촀\0Rispetto la tua decisione. (촀\0Ma si vede
+che la noia ha già annullato anche
+la tua volontàn"
+"010","( 촀\0Hai per caso paura? 
+\0(촀\0Ah ah ah ah ah!
+\0
+Credi forse che il tesoro ti salti
+addosso?"
+"011","(%촀\0OK, il tesoro è sotto terra. 
+\0()촀\0Ora tocca
+a te: se lo trovi prima che scada
+il tempo, diventa tuo!
+ð\0
+()촀\0Ti do un aiutino: lo trovi all'aperton\0\0
+(촀\0perché nessuno mi ha permesso di
+fare un buco nel pavimento di casa.
+ð\0
+(6촀\0E questo è quanto. 
+\0(촀\0Dichiaro apertan\0\0
+la caccia al tesoro!
+x"
+"011_01","(%촀\0OK, il tesoro è sotterrato! 
+\0()촀\0È troppo
+facile: se scopri dov'è nascosto
+prima che scada il tempo, è tuo!
+ð\0\0\0(7촀\0Sono così buona che ti dico che è
+fuori, 
+\0perché nessuno mi ha lasciata
+fare un buco nel pavimento. 
+\0(촀\0Peccato!
+ð\0\0\0(9촀\0E rimanga fra te e me. 
+\0Puoi
+dissotterrare il tesoro solo tu,
+capito?
+\0( ('촀\0\0KCerca di non fare il mio stesso erroren\0\0\0d
+ð\0\0\0(\0촀\0È tutto! 
+\0(6촀\0Pront2oa per la caccia?
+x"
+"012","(%촀\0OK, il tesoro è sotto terra. 
+\0()촀\0Ora tocca
+a te: se lo trovi prima che scada
+il tempo, diventa tuo!
+ð\0
+()촀\0Ti do un aiutino: lo trovi all'aperton\0\0
+(촀\0perché nessuno mi ha permesso di
+fare un buco nel pavimento di casa.
+ð\0
+()촀\0Stavolta non hai molto tempo, quindi
+non fermarti ad annusare i fiori!
+\0(\0촀\0
+(6촀\0Che la caccia cominci!
+ð"
+"012_01","(%촀\0OK, il tesoro è sotto terra. 
+\0
+\0(Ora tocca
+a te: se lo trovi prima che scada
+il tempo, è tuo!
+ð\0
+(7촀\0Vuoi un consiglio? Lo trovi fuori,
+\0
+(촀\0perché nessuno mi ha permesso di
+fare un buco nel pavimento di casa.
+\0((촀\0
+ð\0
+(9촀\0Ah, rimanga fra noi! 
+\0Solo tu puoi
+dissotterrare il tesoro, capito?
+\0( ('촀\0\0KNon
+commettere il mio stesso erroren\0\0\0d
+ð\0\0\0()촀\0Non hai molto tempo, stavolta.
+Quindi non perdere tempo in giro!
+\0
+Lo dico per te. 
+\0(6촀\0Che la caccia cominci!
+ð"
+"013","(9촀\0Conosci già le regole della caccia
+al tesoro?
+\0(&촀\0 O vuoi che ti rinfreschi
+le idee?"
+"013_a","(%촀\0Rinfrescale."
+"013_b","('촀\0Non serve!"
+"014","(촀\0Bene! 
+\0Che stiamo aspettando?!
+x"
+"014_01","(촀\0Bene! 
+\0E per evitare malintesi, meglio
+essere chiari fin da subito. 
+\0Solo tu
+puoi dissotterrare il tesoro, capito?
+ð\0\0\0(촀\0E ora iniziamo col divertimento!
+x"
+"015","(6촀\0OK. Ricorda che non hai molto
+tempo. Non cincischiare! 
+\0(촀\0La caccia
+al tesoro è ufficialmente aperta!
+ð"
+"015_01","(촀\0Oh, ti dai delle grandi arie da
+professionista, eh? 
+\0Bene, bene.
+\0(
+(9촀\0Allora mettiamo le cose in chiaro.
+
+\0Sei l'unic2oa a poter estrarre il tesoro.
+x\0\0\0(6촀\0E stavolta le lancette gireranno più
+velocemente: non perdere tempo,
+
+\0capito?
+\0( (촀\0E ora iniziamo, n\0!
+x"
+"101","($촀\0Ehi! 
+\0Hai da fare? 
+\0Altrimenti, ti va di
+cimentarti nella caccia al tesoro?"
+"101_a","Certo!"
+"101_b","Non adesso."
+"102","
+\0(	촀\0\0CHE NOIA!
+\0\0d\0\0(촀\0Oh, scusa. 
+\0(7촀\0Non ti volevo spaventare.
+
+\0(촀\0A volte la vita su un'isola mi sta
+un po' strettan\0\0 
+\0(촀\0Ah, ho un'idea!
+()촀\0Che ne dici di una caccia al tesoro
+per movimentare un po' la giornata,
+n\0?"
+"102_a","Ci sto!"
+"102_b","Non ho voglia."
+"103","(
+촀\0Ohn\0\0 già così tardi? (촀\0Mi spiace, ma
+la notte è fatta per le feste, non
+per seppellire tesori!
+()촀\0Altrimenti gli altri penserebbero 
+\0che
+sto nascondendo il bottino di chissà
+quale attività illegale!"
+"104","(촀\0Perfetto! 
+\0()촀\0Tu aspetta qui, io vado
+a sotterrare il tesoro. 
+\0Non ti farò
+attendere troppo, (3촀\0promesso!
+"
+"105","( 촀\0Ohn\0\0 non sembrava che avessi altri
+impegni. 
+\0(촀\0Vabbè, faremo la prossima
+volta, n\0."
+"106","(촀\0Ohn\0\0 è già così tardi? 
+\0(2촀\0Mi spiace, ma
+in realtà adesso non posso giocare.
+
+\0Ho un appuntamenton\0\0 (촀\0con la notte!"
+"107","((촀\0Saggia decisione!
+\0
+(6촀\0\0KNon sono l'unica ad annoiarmi oggi,
+a quanto pare...\0d
+()촀\0Dammi un minuto per sotterrare
+il tesoro e poi ci sarà da divertirsi!"
+"108","(촀\0No?! 
+\0Ohn\0\0 
+\0(촀\0E io che già mi aspettavo
+di vederti vincere, n\0!"
+"200","(9촀\0Avrei dovuto controllare prima di
+farti illudere: su quest'isola non c'è
+più posto per sotterrare nulla.
+(촀\0Quindi dobbiamo rinunciare alla
+nostra caccia al tesoro!\0\0(3촀\0Avrei potuto non dirtelo e farti
+cercare per oren\0\0 (촀\0Sarebbe stato
+uno spasso vedere la tua faccia!
+(촀\0Ma non sono così cattiva come mi
+dipingono, n\0!"

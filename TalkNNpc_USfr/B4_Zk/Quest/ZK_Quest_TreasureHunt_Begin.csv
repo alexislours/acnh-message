@@ -1,0 +1,219 @@
+﻿"label","text"
+"001","(촀\0Hé, c'est ton jour de chancen\0\0
+Je suis entre deux tournages,
+et j'ai un magot!
+(&촀\0Alors, une chasse au trésor,
+ça te dit?"
+"001_a","Carrément!
+Oui, tout de suite!"
+"001_b","Je suis occupé2\0e...
+Pas tout de suite."
+"002","(
+촀\0Toi, on peut dire que t'as de la
+chancen\0\0
+\0 (촀\0Pour une fois que je suis
+pas totally overbookén\0\0
+(&촀\0
+\0Alors, une chasse au trésor,
+ça te botte?"
+"002_a","Mais oui!
+Oui! Génial!"
+"002_b","Je suis occupé2\0e...
+Pas tout de suite."
+"003","(촀\0Tu veux un défi qui sorte de
+l'ordinaire?
+\0( (3촀\0Alors la chasse
+au trésor devrait te plaire!"
+"003_a","Ouais!
+Je te suis!"
+"003_b","J'suis pas intéressé2\0e.
+Pas maintenant."
+"004","(촀\0Ouais!
+\0 Je savais que t'allais adorer!
+(3촀\0Bon, je vais tout préparer, et toi,
+tu m'attends bien gentiment icin"
+"005","(촀\02\0n\0, super! 
+\0Je savais que
+t'allais accepter un truc aussi
+sautén\0\0
+(6촀\0Oh, pardonn\0\0 Je voulais dire : tu vas
+voir, on va s'amuser. D'ailleurs,
+je vais l'enterrer, attends-moi ici."
+"006","(촀\0Super!
+\0 (촀\0Alors je vais chercher
+la cachette idéale pour ce super
+cadeau.\0\0(
+촀\0J'aurais mieux fait de me taire,
+moin\0\0
+\0 (촀\0mais c'est trop tard!"
+"007","(촀\0Euhn\0\0 Il fait quand même un peu
+beaucoup nuit, là! 
+\0('촀\0C'est pas dans
+le noir que tu trouveras un trésor.
+
+\0Une autre fois, OK?"
+"008","(촀\0Ah, no worries. 
+\0Une autre fois
+peut-être."
+"009","(촀\0Bon, je t'en veux pas. Enfin,
+pas beaucoup.\0\0(촀\0Tu veux pas creuser la terre pour
+trouver un objet un peu au hasard,
+c'est ton choix."
+"010","(촀\0C'était juste une idée comme ça.
+
+\0Je vais pas en faire une maladie."
+"011","(%촀\0Bon, que je t'explique. J'ai caché
+un trésor à n\0.
+ð\0\0\0()촀\0Si tu trouves le trésor dans
+les temps, t'as gagné. 
+\0
+C'est pas hyper compliqué, en faitn\0\0
+ð\0
+(촀\0Ah oui, aussi, 
+\0le machin que
+tu déterres, bah t'auras qu'à
+le garder.
+\0(
+(촀\0Comme on dit, c'est vraiment pas
+sorcier.
+Ĭ"
+"011_01","(%촀\0Bon, j't'explique. J'ai caché
+un trésor à n\0.
+ð\0\0\0()촀\0Si tu trouves le trésor dans
+les temps, t'as gagné.
+\0
+C'est pas hyper compliqué, en faitn\0\0
+ð\0
+(촀\0Ah oui, aussi, 
+\0le truc que
+tu déterres, bah, t'auras qu'à
+le garder.
+\0(
+(촀\0Comme j't'ai dit, c'est vraiment
+pas sorcier.
+Ĭ\0\0\0( 촀\0Une dernière chose!
+\0 (:촀\0C'est un duel
+entre deux cerveaux, pas un de plus,
+OK? 
+\0('촀\0Donc juste entre toi et moi.
+ð\0
+(9촀\0Bon, 
+\0t'es prêt2\0e?
+Ĭ"
+"012","(%촀\0Bon, que je t'explique. J'ai caché
+un trésor à n\0.
+ð\0\0\0()촀\0Si tu trouves le trésor dans
+les temps, t'as gagné. 
+\0
+C'est pas hyper compliqué, en faitn\0\0
+ð\0
+(3촀\0Enfin, sauf que cette fois, c'est pas
+pour les petits joueurs. J'ai un peu
+corsé le truc. Good luck!
+Ĭ"
+"012_01","(%촀\0Bon, j't'explique. J'ai caché
+un trésor à n\0.
+ð\0\0\0()촀\0Si tu trouves le trésor dans les
+temps, t'as gagné.
+\0 C'est pas
+hyper compliqué, en faitn\0\0
+ð\0
+(3촀\0Enfin, sauf que cette fois, c'est pas
+pour les 2@p'tits joueurs p'tites joueuses. J'ai un peu
+corsé le truc. Bonne chance!
+Ĭ\0
+(:촀\0Et ça va sans dire, mais c'est une
+histoire entre toi et moi.
+\0('촀\0 Va pas
+chercher quelqu'un pour t'aider.
+ð\0
+(9촀\0Bon, 
+\0on peut y aller?
+Ĭ"
+"013","(&촀\0T'as déjà participé à une chasse au
+trésor, ou bien?
+\0 Il faut que je te
+refasse un topo?"
+"013_a","Je veux bien, en fait..."
+"013_b","Non merci, ça ira."
+"014","(촀\0Ho ho, je vois qu'on a affaire
+à 2unune pro! 
+\0Bonne chance!
+Z"
+"014_01","(촀\0Ho ho, j'vois qu'on a affaire à 2unune
+pro!
+\0 Alors on s'entend qu'il est hors
+de question de demander de l'aide.
+Z\0
+(촀\0Parfait. 
+\0Bonne chance!
+Z"
+"015","(촀\0Ça sera un peu plus dur que
+d'habitude, capisce?
+\0 (촀\0Bonne chance!
+Z"
+"015_01","(촀\0Ça sera un peu plus dur que
+d'habitude, capice?
+Z\0\0\0(:촀\0Mais n'oublie pas,
+\0 se faire aider,
+c'est trichern\0\0
+\0 (6촀\0Là on parle d'un duel
+exclusivement entre toi et moi!
+Z\0
+(촀\0Bonne chance!
+Z"
+"101","(9촀\0Une chasse au trésor 
+\0avec ton
+animateur préféré, 
+\0soit moi. 
+Qu'est-ce que t'en dis?
+"
+"101_a","Oui! Oui! Oui!"
+"101_b","Comment dire... Non?"
+"102","(촀\0Tu sais n\0, parfois,
+j'en ai assez de ma vie de luxe sur
+des jets privésn\0\0
+(1촀\0Je me pose des questions
+existentielles comme « Qu'est-ce que
+je fais à n\0? »
+\0 (촀\0
+« Quel est ce véritable moi caché
+derrière le strass et les paillettes? »\0\0(
+촀\0J'ai besoin d'un retour à la terren\0\0
+\0
+(촀\0Je sais! Une chasse au trésor!
+\0
+On en fait une tout de suite?"
+"102_a","Si ça peut t'aider..."
+"102_b","Hmm... pas maintenant."
+"103","(촀\0Ah, mais le temps a passé super
+vite, en fait!\0\0('촀\0Il est trop tard pour la chasse au
+trésor. 
+\0Une autre fois, d'accord?"
+"104","(촀\0Super!
+\0 Je pars enterrer le trésor!"
+"105","Comme tu veux.
+\0(()촀\0 J'peux très bien
+trouver autre chose pour m'occuper,
+commen\0\0 euhn\0\0(촀\0 regarder mes pieds."
+"106","(촀\0Mais il est beaucoup trop tard,
+en fait!
+\0 Il faut qu'on remette ça.\0\0(7촀\0T'inquiète pas, n\0,
+t'auras l'exclusivité sur ma prochaine
+chasse au trésor."
+"107","(촀\0C'est tout toi, n\0!
+\0
+Toujours 2prêt
+prête à m'écouter dans
+mes états d'âme!
+(촀\0Attends-moi ici, je vais chercher
+le meilleur endroit pour l'enfouir!"
+"108","(촀\0Bah, tant pis. 
+\0J'aurai plus
+de temps à consacrer à
+mon véritable trésor : moi!"
+"200","(촀\02\0n\0, il se trame
+un truc sur cette île!\0\0(촀\0J'ai réussi à enterrer mon trésor
+nulle part! Non mais vraiment!
+\0('촀\0
+On devra s'occuper autrement."

@@ -1,0 +1,326 @@
+﻿"label","text"
+"002","( 촀\0Sérieusement ?
+\0( (촀\0Ouah, trop bien !
+Qu'est-ce qu'on va s'amuser, si on
+vit sur la même île !\0\0(촀\0Je vais voir le \0bureau des résidents
+\0￿de ce pas pour leur demander si je
+peux m'installer ici, n\0 !"
+"101","<"
+"101_01","( 촀\0Sérieusement ?
+\0 Ouah, c'est super
+gentil de ta part, (촀\0mais je peux pas
+acceptern\0\0\0\0(촀\0J'ai un placard à goûters plein à ras
+bord qui m'attend à la maisonn\0\0
+\0
+sans parler de tous mes copains.\0\0Mais merci beaucoup pour ta
+proposition !(촀\0 Ça fait drôlement
+plaisir, n\0 !"
+"101_02","(촀\0Arrête ?!
+\0( Tu me proposes de vivre
+ici ?!
+\0 Pour de vrai ?(\0촀\0 Ça serait
+vraiment extra, maisn\0\0\0\0(촀\0Et mes insectes qui m'attendent à la
+maison ?(촀\0 Je vais quand même pas les
+abandonner !\0\0(\0촀\0Ça me touche beaucoup, vraiment,
+mais il faut que je rentre chez moi.
+\0(
+(%촀\0Merci encore, et sans rancune !"
+"101_03","( 촀\0Hein ?!
+\0( Tu me proposes de rester
+vivre ici ?!
+\0((\0촀\0 Ben moi, c'est sûr que
+j'adorerais, maisn\0\0\0\0()촀\0Il y a une nouvelle famille d'insectes
+qui vient de s'installer sous mon
+meuble de salle de bainn\0\0\0\0(촀\0Je peux pas m'en aller avant même
+de les connaître ! Mais merci, en tout
+cas ! Je me suis bien amusé, ici."
+"201_01","Hmmn\0\0 Ben, je sais pas trop.
+\0( C'est
+tentantn\0\0 mais quand même un peu
+soudain.\0\0(촀\0Tiens, je sais !
+\0( (\0촀\0On a qu'à jouer à un
+jeu, d'accord ?\0\0()촀\0Si tu gagnes,
+\0 je m'installe sur ton île.
+\0(
+(촀\0Ça roule ?
+\0( ($촀\0Allez zou, en piste !"
+"201_01_a","Ça roule !"
+"201_01_b","Non merci..."
+"201_02","( 촀\0Pour de vrai ?!
+\0( Ça serait classe, c'est
+vrain\0\0
+\0((\0촀\0 Mais hmm, j'hésiten\0\0\0\0(촀\0Attends,
+\0 je sais !
+\0( (촀\0Pourquoi risquer de
+se faire des nœuds au cerveau alors
+qu'on pourrait faire un jeu ?\0\0(촀\0Si tu gagnes, je m'installe ici !
+\0(
+(;촀\0Une idée de génie, tu trouves pas ?"
+"201_02_a","Je risque pas de perdre !"
+"201_02_b","Une autre fois, d'accord ?"
+"201_03","(촀\0Ouah, c'est super sympa, merci pour
+l'invit' !
+\0( (
+촀\0Mais je sais pas tropn\0\0 Faut
+quand même que j'y réfléchissen\0\0\0\0(촀\0Ah mais non, attends ! 
+\0Y a un autre
+moyen !
+\0((촀\0 On n'a qu'à faire un jeu, toi
+et moi. 
+\0Comme ça, pas de stress !\0\0(%촀\0Si tu gagnes, je viens m'installer ici.
+\0
+(촀\0Alors, tope là ?"
+"201_03_a","Tope là !"
+"201_03_b","Non merci."
+"202_01","Bonn\0\0
+\0 Alors tant pis, n\0."
+"202_02","(촀\0Comme tu préfères, n\0 !(촀"
+"202_03","Tu veux vraiment pas ?
+\0 Tant pis."
+"203_01","(촀\0Chouette !
+\0 Alors c'est parti, je
+propose un jeu de cartes
+\02 qui se
+joue avec des cartes !"
+"204","<"
+"204_01","J'ai gagné !
+\0( (7촀\0Désolé, mais on dirait
+que je vais pas emménager ici."
+"204_02","Ce qui veut dire quen\0\0 j'ai gagné !
+\0((8촀\0
+C'est pas encore aujourd'hui que
+j'emménagerai icin"
+"204_03","J'ai gagné !(촀\0
+\0 Alors, j'emménage
+pas icin"
+"205","<"
+"205_01","(촀\0On s'est bien amusés, non ?
+\0( J'aurai
+des trucs à raconter en rentrant,
+n\0 !"
+"205_02","(촀\0On s'est bien amusés !
+\0((
+촀\0 Peut-être que
+je jouerai à ce jeu avec mes copains
+à la maison.\0\0(촀\0« Si tu gagnes, je couche sur ton
+canapé ! »"
+"205_03","(촀\0Quel suspense ! 
+\0((촀\0Je sais pas si ça se
+voit, mais j'ai encore le cœur qui bat
+à 200 à l'heure, n\0 !"
+"206","<"
+"206_01","Tu sais ce que ça veut dire
+\0(촀\0n\0\0
+\0 C'est toi qui gagnes !
+\0 Bravo, c'était bien joué.\0\0(%촀\0J'ai plus qu'à rentrer emballer mon
+garde-manger, mes insectes et mes
+affaires, et puis je débarque ici.\0\0(""촀\0Je sais plus si je m'étais présentén\0\0
+Je m'appelle n
+\0 !
+\0((촀\0 Et toi, c'est n\0, non ?\0\0(촀\0La prochaine fois qu'on se voit,
+je serai un habitant de ton île !
+\0(
+J'ai hâte, tu peux pas savoir !"
+"206_02","(촀\0Tu as gagné !
+\0( (촀\0C'est décidé, alors, je m'installe sur n\0 !\0\0(7촀\0J'espérais bien que tu gagnerais,
+pour tout te dire. J'avais vraiment
+très envie d'emménager ici !\0\0(촀\0Du coup, tout est pour le mieux !
+Tu t'en es sorti2\0e comme un2\0e chef2\0fe,
+voisin2\0e !
+(""촀\0Au fait, je me suis présenté ?
+Je m'appelle n
+\0 !
+\0((촀\0 Toi, c'est n\0, c'est ça ?"
+"206_03","(촀\0T'as gagné la partie !
+\0( (\0촀\0(촀\0Et moi, le droit
+d'emménager ici ! Ouah, j'arrive pas
+à y croire, c'est surréaliste !\0\0(%촀\0Eh bien soit, je répondrai à l'appel
+du destin, n\0 ! C'est parti
+pour un changement de vie !
+(""촀\0Je me présente, si je l'ai pas déjà
+faitn\0\0 n
+\0, enchanté !
+\0((촀\0 Toi, c'est n\0, non ?"
+"302","(촀\0Désolé pour l'attente !
+\0( Je suis allé
+discuter avec les gens du \0bureau
+des résidents\0￿n\0\0\0\0()촀\0Apparemment, il n'y a plus de place
+pour de nouvelles constructions, ici.
+(촀\0Je ne peux donc pas m'installern\0\0
+(9촀\0Sauf bien sûr si l'un des résidents
+actuels voulait bien me céder sa
+place, n\0. Ça t'irait, dis ?"
+"302_a","Pas de problème."
+"302_b","Je ne préfère pas."
+"303","(촀\0Non, tu as raison.
+\0( Ça ne se fait pas,
+ce genre de choses !
+\0( (\0촀\0Tant pis, c'était
+juste une idée comme ça."
+"304","(촀\0Génial !
+\0( (%촀\0Le \0bureau des résidents\0￿
+m'a donné une liste des gens à qui
+je pourrais demander.\0\0(""촀\0À ton avis, avec qui j'aurais le plus
+de chances, n\0 ?"
+"305","($촀\0À s촀, peut-être ?"
+"305_a","Parfait."
+"305_b","Surtout pas !"
+"305_c","Oublions tout ça."
+"306","(9촀\0Bien, j'y vais.
+\0 Je devrais peut-être
+me sentir mal,
+\0(촀\0 mais c'est plus facile
+quand on ne connaît pas les gens !"
+"307","(촀\0Ouf, j'ai bien fait de vérifiern\0\0
+\0( Tu
+veux que j'aille voir qui, alors ?"
+"308","(촀\0Mince alors, c'est dommagen\0\0 Tant
+pis, ça doit pas être mon destin,
+n\0."
+"309","(촀\0Demander à quelqu'un de partir pour
+laisser la place à un parfait inconnun\0\0
+Fallait oser, mais l'affaire est réglée !\0\0()촀\0s촀 avait l'intention de s'en aller, de toute façon. Trop d'attaques de clowns, ces temps-ci.\0\0(9촀\0Moi qui ai la phobie des clowns, j'ai
+préféré ne pas relever, tu penses !
+Moins j'en sais, mieux je me porte.\0\0(촀\0Enfin bref, je vais enfin pouvoir
+m'installer ici !\0\0(""촀\0Au fait, moi c'est n
+\0.
+Et toi, tu t'appelles n\0, c'est bien ça ?"
+"310","(&촀\0Tu ne sais pas trop à qui je pourrais
+demander de s'en aller ?"
+"310_a","J'ai bien une idée..."
+"310_b","Malheureusement non."
+"311","(촀\0Tu veux bien me donner le nom de
+la personne que je dois aller voir,
+alors ?"
+"312","(촀\0Bah, ne t'en fais pas pour ça !
+\0(
+On en reparle une prochaine fois,
+si tu veux !"
+"402","(촀\0Désolé pour l'attente !
+\0( Je suis passé
+au \0bureau des résidents\0￿,\0 (9촀\0\0￿et ça s'est
+passén\0\0 bizarrement.\0\0(촀\0« Hmm... je crois qu'on l'a déjà,
+celui-là ! ». C'est ce qu'ils m'ont dit.
+Tu y comprends quelque chose, toi ?
+(촀\0En tout cas, j'ai bien peur que mon
+installation soit compromise pour
+le moment.\0\0(\0촀\0Mais je ne perds pas espoir d'y
+arriver un jour ou l'autre !"
+"403","(촀\0Alors !
+\0( Je suis passé au \0bureau des
+résidents\0￿
+\0, et tu ne sais pas ce qu'ils
+m'ont dit ?
+\0
+(촀\0Un type qui a exactement la même
+tête que moi est sur le point de
+s'installer ici !\0\0(\0촀\0Alors ils veulent pas de moi, ils 
+disent qu'on arriverait pas à nous
+distinguer, tout çan\0\0\0\0(촀\0Je devrais peut-être en profiter et
+me faire passer pour lui, tu crois
+pas ?"
+"404","Je suis allé voir le \0bureau des
+résidents\0￿(:촀\0
+\0,(촀\0 mais ils m'ont dit que
+l'île était déjà pleine à craquern\0\0\0\0(촀\0C'est pas de bol, quand même.
+\0(
+(\0촀\0Enfin, on y arrivera peut-être un
+jour, n\0."
+"405","Je suis allé voir le \0bureau des
+résidents\0￿(:촀\0
+\0,(촀\0 mais il n'y a plus de
+place pour la moindre maisonn\0\0\0\0(촀\0C'est pas de bol, quand même.
+\0(
+(\0촀\0Enfin, on y arrivera peut-être un
+jour, n\0."
+"406","(촀\0Bien, je suis passé au \0bureau des
+résidents\0￿n\0\0
+\0 (촀\0
+\0C'est bon, je peux
+m'installer ici !(촀\0\0\0(촀\0C'est pas génial ?
+\0 On va être voisins, toi et moi !\0\0(\0촀\0Hé hé, 
+\0moi c'est n
+\0 !
+\0( Et toi, tu t'appelles n\0, c'est bien ça ?\0\0(촀\0On va en passer du bon temps, tous les deux !"
+"410","(
+촀\0Ou alorsn\0\0
+\0 Je pourrais insister.
+\0<
+(;촀\0Peut-être qu'ils auront changé
+d'avis,
+\0 cette fois-ci ?"
+"410_a","C'est possible !"
+"410_b","Ça m'étonnerait..."
+"411","(7촀\0Ouais, c'est vrai qu'il y a pas de
+raison.
+\0( (촀\0Une autre fois, n\0 !"
+"421","(
+촀\0
+\0Je n'aurai probablement jamais le
+fin mot de l'histoire, mais bonn\0\0\0\0($촀\0
+\0Quoi qu'il en soit, c'était très sympa
+de ta part de me proposer de
+m'installer ici !"
+"422","(
+촀\0Le problème, 
+\0c'est que toi-même,
+tu ne me reconnaîtrais pasn\0\0\0\0(%촀\0On pourrait convenir d'un signe
+secret ! Ne jamais cligner des yeux,
+par exemple !"
+"423","(%촀\0C'est mieux comme ça, 
+\0je ne suis pas
+fan des endroits surpeuplés. (촀\0L'île
+est victime de son succès, on dirait !\0\0(\0촀\0Tant pis, oublions ça.
+\0($촀\0 Mais merci
+beaucoup pour l'invitation, n\0 !"
+"424","(%촀\0
+\0Il y a bien de la place pour caser une
+toute petite maison, non ? 
+\0(\0촀\0Non ? (촀\0
+\0Pff,
+c'est vraiment pas de chance !\0\0(\0촀\0($촀\0On se dit au revoir, du coup ! Merci
+pour tout, j'ai adoré mon séjour sur
+ton île, n\0 !"
+"504","(촀\0On est trop bien sur cette île !
+\0(
+Les gens sont gentils, ils sentent bon
+et ils me donnent du bon manger !\0\0(촀\0Je pourrais rester ici pour toujours,
+n\0 !"
+"504_a","Alors emménage ici !"
+"504_b","Ouais, je sais !"
+"505","(촀\0Hé hé hé,
+\0 en voilà une idée qu'elle
+est bonne.\0\0()촀\0Mais je voudrais apprendre à mieux
+connaître cette île avant de me
+décider.\0\0Et pour ça,(""촀\0 faudra que tu m'invites
+encore, n\0 !"
+"506","(""촀\0Ouais, c'est trop bien ici !
+\0 Trop trop
+bien ! 
+\0(촀\0T'as vraiment une super
+chance d'habiter sur cette île !"
+"507","(촀\0Cette île, c'est mon endroit le plus
+préféré
+\0 parmi les endroits qu'ont pas
+de coloriage à faire au dos du menu."
+"507_a","Alors installe-toi ici !"
+"507_b","Merci... je crois..."
+"508","(촀\0Ça, c'est une idée !
+\0( (7촀\0Mais il faut
+que j'y réfléchisse encore un peu,
+d'accord ?
+()촀\0Une fois, j'ai été élu conseiller
+municipal parce que je savais pas ce
+que je faisaisn\0\0
+(5촀\0Alors maintenant, je pèse le pour, le
+contre et le sans opinion avant de
+prendre une décision.
+(9촀\0La prochaine fois, je te donnerai une
+réponse définitive, promis !
+\0(2촀\0 Mais
+pour ça, faut que tu me réinvitesn"
+"509","()촀\0T'as trop de la chance !
+\0 Tu habites ici
+et personne peut te forcer à partir !
+\0KÀ part les extraterrestres, évidemmentn\0\0\0d\0\0(촀\0J'espère que je pourrai revenir, un
+jour, n\0 !"

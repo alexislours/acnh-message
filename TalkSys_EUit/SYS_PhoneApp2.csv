@@ -1,0 +1,311 @@
+﻿"label","text"
+"001","dummy"
+"010","                      
+\0d\0d\0Ci si vede!dd
+"
+"011","
+\0                    d\0\0Salve!\0d
+\0\0\0Grazie per aver chiamato.
+\0 Sei in
+contatto con il 
+\0\0soccorso\0￿.d"
+"011_01","d\0Un secondon\0\0
+\0 tu sein\0\0d
+"
+"011_02","d\0La tua posizione attuale èn\0\0d
+"
+"012","d\0Accipicchia! 
+\0Non riesco proprio a
+decifrare questo cartellon\0\0 
+\0Credo che
+sia la calligrafia del mio fratellinon\0\0d"
+"012_01","d\0Ascolta, 
+\0hai visite?
+\0 Qualcuno è
+venuto qui ad ammirare il tramonto,
+a raccogliere frutta o altre cose così?\0\0Sarò franco. 
+\0Se ci sono troppi cartelli
+il sistema non fila come dovrebbe.
+\0
+Come Sonny dopo troppi resetn\0\0\0\0Se hai un'emergenza,
+\0 apri il menu
+del \0pulsante  \0￿e scegli \0Chiudo la
+sessione\0￿, tutto chiaro?d"
+"012_02","d\0Ah, credo di aver capito cosa c'è
+che non va.
+\0 Stai facendo un giro
+turistico o visiti l'isola di qualcuno?
+Voglio essere franco con te. 
+\0Troppi
+cartellin\0\0 complicano troppo le cose.\0\0Se proprio ti serve aiuto, 
+\0devi
+selezionare \0Torno alla mia isola \0￿nel
+menu del \0pulsante \0￿, chiaro?d"
+"013","d\0Fermi tutti. 
+\0Non sei nemmeno
+all'esterno,
+\0 te ne rendi conto?\0\0Non c'è niente da fare: 
+\0questo
+servizio non funziona al chiuso.\0\0Non voglio rischiare di andare a
+sbattere il naso contro una porta.\0\0Quindi, 
+\0se proprio ti serve il mio
+aiuto,
+\0 per lo meno devi uscire fuori,
+chiaro?d"
+"021_01","d\0OK,
+\0 sei n\0 di n!\0, giusto?d"
+"021_02","d\0Vediamon\0\0 
+\0Sei n\0 di n!\0, giusto?\0\0(%촁\0
+\0Molto bene.d"
+"021_03","d\0Un secondon\0\0
+\0 Oh, ehi, n\0.
+\0 Sei di nuovo nei guai?(%촁\0d"
+"022",""
+"023_01","d\0È molto semplice: un soccorso costa
+\0100\0￿ miglia.
+\0 Che ne dici?d"
+"023_01_a","(%촁\0OK, va bene!"
+"023_01_b","('촁\0No, grazie."
+"023_02","d\0Un soccorso costa \0100\0￿ miglia.
+\0
+Ci stai?d"
+"023_02_a","(%촁\0OK, va bene!"
+"023_02_b","('촁\0No, grazie."
+"023_03","d\0Ti ricordi, n\0?
+\0( L'ultima volta che hai chiamato non avevi abbastanza miglia.
+\0
+Spero che tu abbia risolto
+il probleman\0\0 Un soccorso costa
+\0100\0￿ miglia.
+\0 Ci stai?d"
+"023_03_a","(%촁\0OK, va bene!"
+"023_03_b","('촁\0No, grazie."
+"031_01","d\0Cosa? Stai scherzando?d"
+"031_02","d\0Eh? 
+\0Come sarebbe a dire ""No,
+grazie""?
+\0( Ascoltamin\0\0
+\0\0\0Non mi interessa se l'altra volta eri a
+corto di miglia.
+\0 Non sono arrabbiato,
+credimi.d"
+"032_01","d\0Se non riesci a muoverti,
+\0 chiamami
+senza esitare!d"
+"032_02","d\0Hai davvero bisogno di aiuto? 
+\0Te lo
+dico chiaro e tondon\0\0
+\0 con o senza
+miglia di Nook, tu chiamami.\0\0Se sei nei pasticci,
+\0 ci penso io.
+\0(
+Sono stato chiaro?d"
+"041_01","d\0Benissimo! Allora siamo d'accordo.
+
+\0Adesso prepara le \0100\0￿ miglia.d"
+"041_02","d\0Perfetto! Gradirei il pagamento
+anticipato. Sai com'è,
+\0 l'altra volta
+non avevi le \0100\0￿ miglian\0\0d"
+"042_01","d\02
+Bravo
+Brava!
+\0 Sono \0100\0￿ miglia, 
+\0pagamento
+anticipaton\0\0d
+K"
+"042_02","
+
+\0
+\0d\0　　　\0FERMI TUTTI!\0d
+\0
+	\0\0\0A che gioco stai giocando?
+\0( Non hai
+abbastanza miglia!\0\0Mi dispiace, 
+\0ma non ti posso proprio
+aiutaren\0\0
+\0 (촀\0Sto scherzando.
+\0 Per questa
+volta offre la casa!d"
+"042_03","
+
+\0
+\0(촁\0　　　　　　　d\0\0CHEEE?!\0d
+\0
+	\0\0\0(\0촁\0Ma mi prendi in giro?! 
+\0(Sei di nuovo
+a corto di miglia?\0\0Accidenti, 
+\0che giornatan\0\0
+\0 E va bene,
+non ti preoccupare,
+\0( non ti lascio nei
+guai. 
+\0Ti aiuto gratis.d"
+"042_04","d\0Però, visto che comunque ti sto
+facendo un favore, 
+\0decido io dove
+lasciarti. 
+\0E non si discute.d"
+"043","d\0Un'altra cosa:
+\0 siccome non viaggi da
+sol2oa,
+\0 devo mandarti in \0piazza\0￿. Mi
+spiace, sono le regole.d"
+"044_01","d\0Ora che tutto è chiarito,
+\0 dove ti
+porto?d"
+"044_01_a","A casa."
+"044_01_b","In piazza."
+"044_01_c","In aeroporto."
+"044_01_d","Ho cambiato idea."
+"044_02","d\0Ora che tutto è chiarito,
+\0 dove ti
+porto?d"
+"044_02_a","Alla mia tenda."
+"044_02_b","In piazza."
+"044_02_c","In aeroporto."
+"044_02_d","Ho cambiato idea."
+"044_03","d\0Ora che tutto è chiarito,
+\0 dove ti
+porto?d"
+"044_03_a","A casa."
+"044_03_b","In piazza."
+"044_03_c","Al negozio."
+"044_03_d","In aeroporto."
+"044_03_e","Ho cambiato idea."
+"045","d\0D'accordo. 
+\0Le cose stanno così: 
+\0non
+hai ancora scelto un posto dove
+andare a viveren\0\0\0\0Questo significa che non so dove
+portarti. 
+\0Non è che mi daresti un
+suggerimento?d"
+"045_a","In piazza."
+"045_b","In aeroporto."
+"045_c","Ho cambiato idea."
+"046","d\0D'accordo. 
+\0Le cose stanno così: 
+\0non
+hai ancora scelto un posto dove
+andare a viveren\0\0\0\0Questo significa che non so dove
+portarti. 
+\0Non è che mi daresti un
+suggerimento?d"
+"046_a","In piazza."
+"046_b","Al negozio."
+"046_c","In aeroporto."
+"046_d","Ho cambiato idea."
+"047","d\0Ora che è tutto pronto,
+\0 dove
+vuoi che ti porti?d"
+"047_a","Alla mia tenda."
+"047_b","In piazza."
+"047_c","Al negozio."
+"047_d","In aeroporto."
+"047_e","Ho cambiato idea."
+"048","d\0Mi pare che al momento tu sia un po'
+lontan2oa da n	\0.\0\0Il massimo che posso fare per te è
+\0riportarti lì\0￿. Ti va bene?d"
+"048_a","Non ho scelta!"
+"048_b","Ho cambiato idea."
+"050_01","d\0Alla tua tenda? 
+\0Ma certo.d"
+"050_02","d\0A casa dolce casa? 
+\0Agli ordini.d"
+"050_03","d\0In piazza? 
+\0Nessun problema.d"
+"050_04","d\0Al negozio dell'isola? 
+\0Niente di più
+facile.d"
+"050_05",""
+"050_06","d\0Agli ordini!
+\0
+Pronti, partenzan\0\0 
+\0viaaaa!d"
+"050_07","d\0L'aeroporto, eh? 
+\0Ricevuto.d"
+"051","<"
+"051_01","d\0E questo che sarebbe?
+              \0KImmagino di dover premere quin\0\0\0dd"
+"051_02","d\0Forza 20vecchio miovecchia mia, è semplicen\0\0
+　\0KScegli un pulsante. 
+\0Cosa può andare storto?\0dd"
+"051_03","d\0E bravo Resettin\0\0
+　　　　 \0KPosso ingrandire il testo?\0dd"
+"052","d\0Sicuro. 
+\0Proviamoci.d"
+"053","
+\0　　 　　d\0d\0\0Così non va!\0ddd
+"
+"061","d\0Puoi anche aprire gli occhi! 
+\0Il viaggio
+è finito!d"
+"062","d\0Oh, già. 
+\0Un'ultima cosan\0\0d"
+"063","<"
+"063_01","d\0Non so se lo sapevi,
+\0 ma io sono un
+grande fan del linguaggio. 
+\0Lo trovo
+interessantissimo.
+\0
+Ho scritto persino un compendio di
+frasi che si usano di solito in certe
+occasioni, soprattutto gentili.
+Diciamo che l'ho fatto pensando
+soprattutto a mio fratellon\0\0d"
+"063_02","d\0Sai, molta gente usa spesso il modo
+di dire 
+\0""Quel che è fatto è fatto""n\0\0\0\0Ma ogni volta che lo sento dire da
+qualcuno, mi chiedo che cosa sia
+stato fatto esattamenten\0\0
+Mah, per fortuna che di solito non
+do troppo peso a questi dilemmi
+esistenziali.d"
+"063_03","d\0Di tanto in tanto qualcuno usa
+l'espressione ""vederci come una
+talpa"" per intendere una vista scarsa.
+Questa cosa non la capiscon\0\0 Io
+SONO una talpa, e anche mio fratello
+lo è, eppure ci vediamo benissimo!
+Uhm, ma non eri qui accanto a me
+giusto un attimo fa?d"
+"064","<"
+"064_01","d\0Non so se lo sapevi,
+\0 ma io sono un
+grande fan del linguaggio. 
+\0Lo trovo
+interessantissimo.
+\0
+Ho scritto persino un compendio di
+frasi che si usano di solito in certe
+occasioni, soprattutto gentili.
+Diciamo che l'ho fatto pensando
+soprattutto a mio fratellon\0\0d"
+"064_02","d\0Sai, molta gente usa spesso il modo
+di dire 
+\0""Quel che è fatto è fatto""n\0\0\0\0Ma ogni volta che lo sento dire da
+qualcuno, mi chiedo che cosa sia
+stato fatto esattamenten\0\0
+Mah, per fortuna che di solito non
+do troppo peso a questi dilemmi
+esistenziali.d"
+"064_03","d\0Stai usando il \0Punto Nook\0￿ al centro
+servizi ogni giorno per guadagnare
+miglia, vero?
+\0( Sono le basi, eh.d"
+"2001","d\0Noti qualcosa di diverso dal solito?
+\0
+Immaginavo che questo particolare
+non ti sarebbe sfuggito.
+Hai un ottimo spirito d'osservazione,
+n\0.\0\0Le cose stanno così: oggi \0Rese\0￿- 
+\0cioè,
+volevo dire il tuo solito operatoren\0\0
+beh, si è preso un giorno libero.\0\0Quindi lo sostituisco io. 
+\0Pensa a me
+come a un supplente a scuola.\0\0Però, non aspettarti da me lezioni di
+chissà quale livellon\0\0 Comunque sia,
+
+\0stavolta va così. Pace.d"

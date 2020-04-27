@@ -1,0 +1,63 @@
+﻿"label","text"
+"002","It seems there aren't any other island
+residents to play with right now."
+"003","Please select the island residents
+you want to play with."
+"003_f","Never mind."
+"006","You're playing with other folks at the
+moment. 
+\0What would you like to do?"
+"006_01","You're playing with another resident
+right now.
+\0 What would you like to do?"
+"006_01_a","Change Leader."
+"006_01_b","End session."
+"006_01_c","(\0촁\0Save and end."
+"006_01_d","Check how to play."
+"006_01_e","(\0촁\0Keep playing."
+"006_a","Change Leader."
+"006_b","End session."
+"006_c","Pick residents again."
+"006_d","(\0촁\0Save and end."
+"006_e","Check how to play."
+"006_f","(\0촁\0Keep playing."
+"007","2\0s\0촀, please press
+\0\0￿ and \0\0￿ (or \0\0￿ and \0\0￿)
+at the same time.
+"
+"008","A controller was not connected.
+\0
+Ending the session for now.
+Ĭ"
+"009","Can you connect a controller
+for s\0촀?"
+"009_a","Reconnect from start."
+"009_b","Try another option."
+"010","A controller was not connected.
+\0
+Ending the session for now.
+Ĭ"
+"011","Controllers have been connected
+for all island residents.
+\0 Have fun!"
+"013","You cannot call other residents
+when networked play is active."
+"014","When playing alone, a solo Joy-Con
+is not a valid controller method.
+\0
+Please connect a controller.
+´"
+"016","You can't change
+the Leader right now."
+"017","You can't call anyone right now."
+"018","Huh?
+\0 ""Outside Service Area""?
+\0 Guess
+I can only use this on my own island."
+"019","Please select the island residents
+you want to play with.\0\0\0\0You can't play with residents
+whose user data has been
+deleted from the system.\0￿"
+"020","You cannot call anyone at this time.\0\0\0\0You can't play with residents
+whose user data has been
+deleted from the system.\0￿"

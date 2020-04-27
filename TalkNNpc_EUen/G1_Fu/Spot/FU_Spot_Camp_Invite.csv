@@ -1,0 +1,354 @@
+﻿"label","text"
+"002","(촀\0Thanks for making me feel welcome!
+(4촀\0Hopefully the \0Resident Services\0￿ here
+\0
+feels the same way that you do
+\0n"
+"101","<"
+"101_01","(촀\0It's nice to dream,
+\0 but I think I'll
+just put a pin in that for now.\0\0(촀\0I don't think I could leave my
+friends behind
+\0 just yet
+\0n"
+"101_02","(촀\0Now that I think about it,
+\0 it'd be
+really hard to leave my home.\0\0(4촀\0Sorry.
+\0 Maybe someday, though
+\0n"
+"101_03","(4촀\0Thanks for making me feel welcome,
+\0
+but I couldn't just pack up and move.
+\0
+(촀\0I've got books lent out to neighbors!"
+"201_01","(촀\0It makes me so happy to hear you
+say that!
+\0 (
+촀\0But I'm not sure how to
+make such a big decision
+\0n\0\0
+(촀\0I know!
+\0( Why don't we (6촀\0play a game
+to decide if I'm going to move?\0\0()촀\0If you win,
+\0 I'll move to this island!
+\0(
+(&촀\0What do you say,
+\0 n\0?"
+"201_01_a","You're on!"
+"201_01_b","I'll pass."
+"201_02","(;촀\0I didn't expect you to invite me
+to move here!
+\0( That's sweet,
+\0 (촀\0but
+moving's such a big decision
+\0n\0\0
+(촀\0Here's an idea!
+\0 This might sound
+kind of random,
+\0 but (6촀\0what if you and
+I played a game to help me decide?\0\0(촀\0If you win,
+\0 then I'll go ahead (%촀\0and
+move to your island,
+\0 n\0."
+"201_02_a","Sure, why not?"
+"201_02_b","Nah, I don't think so."
+"201_03","( 촀\0That's a sweet offer,
+\0 but (촀\0I don't know
+how I can decide to make a big move
+just like that,
+\0 n\0
+\0n\0\0
+(촀\0I have a fun idea!
+\0( (6촀\0Why don't we let
+the outcome of a game decide this?\0\0If you win,
+\0 ((촀\0I'll move to your island!"
+"201_03_a","OK, you're on!"
+"201_03_b","I'm gonna pass."
+"202_01","( 촀\0OK, no worries.
+\0 (촀\0I guess it was
+kind of a goofy idea
+\0 anyway."
+"202_02","(촀\0Yeah,
+\0 maybe you're rightn\0\0
+\0
+(4촀\0Guess I got carried away."
+"202_03","(4촀\0It was just a silly idea.
+\0( (촀\0Thanks for the suggestion,
+\0 but I'll stay put for now."
+"203_01","(촀\0Great!
+\0( (촀\0Then it looks like it's time for
+a card-game battle!"
+"204","<"
+"204_01","Well,
+\0 that means I won.
+\0(
+(촀\0Guess I'll stay put for now."
+"204_02","(촀\0I win, so it's decided for me.
+\0
+(%촀\0I'll stay where I am for now."
+"204_03","(촀\0Since that means I won,
+\0 (%촀\0I'll take it
+as a sign that I shouldn't move."
+"205","<"
+"205_01","(
+촀\0Maybe this was meant to be
+\0n\0\0
+Well,
+\0 (""촀\0thanks for playing along."
+"205_02","(4촀\0Thanks for humoring me with this.
+\0(
+(촀\0I'm still grateful for your invitation."
+"205_03","(4촀\0No hard feelings,
+\0 I hope?
+\0( (촀\0It was fun
+playing this with you,
+\0 at least."
+"206","<"
+"206_01","(촀\0So you won!
+\0 (\0촀\0Which means
+\0n\0\0
+(!촀\0we're going to be neighbors!\0\0(9촀\0It's n\0, 
+\0right?
+\0
+(촀\0Here's to getting to know each
+other more,
+\0 n\0!"
+"206_02","(!촀\0You won!
+\0( (;촀\0Maybe I really am
+fated
+\0 to move to this island.\0\0Well,
+\0 (촀\0um
+\0n\0\0n\0,
+\0
+right?
+\0 (촀\0Yeah.\0\0(촀\0I'm really looking forward
+\0 to getting
+to know each other better soon."
+"206_03","(6촀\0Maybe you were meant to beat me
+\0
+so I would have to move here,
+\0 (촀\0uh
+\0n\0\0
+Sorry,
+\0 was it n\0?\0\0(촀\0Good to know someone here already,
+\0
+since I'm gonna be a resident soon!\0\0(촀\0This is going to be so exciting!"
+"302","(""촀\0Sorry to keep you waiting!
+\0(
+I checked with \0Resident Services\0￿,
+\0
+but the news wasn't goodn\0\0\0\0(촀\0There's no room for any new homes
+to be built right now,
+\0 and the homes
+(촀\0already standing are all occupied.
+(
+촀\0Hmmm,
+\0 maybe I should check around
+\0
+and see if anybody here (9촀\0is planning
+on moving out,
+\0 n\0
+\0n"
+"302_a","Worth a shot."
+"302_b","Maybe don't do that."
+"303","(촀\0Yeah,
+\0 probably not a good idea.
+\0(
+(촀\0I'm a guest here
+\0 and don't want
+to make a pest of myself."
+"304","(&촀\0Is there anyone here
+\0 you think
+might be looking to move out?\0\0(8촀\0I already asked at \0Resident Services\0￿
+\0
+if they knew of anyone who might
+want to leave,
+\0 n\0
+\0n"
+"305","( 촀\0So, s촀?"
+"305_a","Yeah."
+"305_b","Wait, not them."
+"305_c","Hm...let's not do this."
+"306","(
+촀\0Maybe I can find a way to ask
+\0
+that won't seem too pushy."
+"307","( 촀\0Oh,
+\0 was that the wrong name?
+\0(
+(&촀\0Then who should I ask here?"
+"308","(9촀\0You're probably right.
+\0( (촀\0The last thing
+I want to do as a guest on this island
+\0
+is offend anyone that lives here."
+"309","(""촀\0It's n\0,
+\0 isn't it?
+\0
+(촀\0Glad I got your name right!\0\0So anyway,
+\0 (촀\0your instinct was right!
+\0(
+()촀\0I asked,
+\0 and s촀
+really was planning to move.
+When I explained my situation,
+\0 (촀\02heshe
+agreed to move up 2hisher moving plans!
+\0(
+(촀\0Thanks so much
+\0 for encouraging me.
+(촀\0I can't wait to be part of the
+community here,
+\0 n\0!"
+"310","(촀\0Have I taken this a little too far?"
+"310_a","No, not at all."
+"310_b","Maybe, yeah."
+"311","OK,
+\0 (6촀\0then who should I ask?"
+"312","(9촀\0Fair enough.
+\0( I'll just let this
+idea go for now, then."
+"402","(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+but got kind of a weird response
+\0n\0\0
+(촀\0They said someone just like me
+already lives here,
+\0 (촀\0so my request
+just made them uncomfortable.
+(8촀\0I'm not sure how to feel about that,
+\0
+but I guess I'm glad I asked."
+"403","(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+but got kind of a weird response
+\0n\0\0
+(촀\0Someone that looks just like me is
+moving here soon,
+\0 so (촀\0they think it'd
+be confusing if I lived here too.
+(8촀\0I'm not sure how to feel about that,
+\0
+but I guess I'm glad I tried at least."
+"404","(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+but they couldn't help me
+\0n\0\0
+(8촀\0They said they aren't able to take
+in
+\0 (촀\0any more residents right now.\0\0(촀\0I'm disappointed,
+\0 (촀\0but I'm glad I tried."
+"405","(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+but the news wasn't good
+\0n\0\0
+(8촀\0There just isn't room
+\0 for any more
+new homes (촀\0on the island right now.\0\0(촀\0Even though things didn't work out
+for me this time,
+\0 (촀\0I'm still glad I tried."
+"406","(4촀\0It's um
+\0n\0\0 2\0n\0,
+\0 right?\0\0(""촀\0Sorry to keep you waiting!
+\0(
+()촀\0I checked with \0Resident Services\0￿,
+\0
+and I have some good news
+\0n\0\0
+(촀\0It sounds like I can move here!
+\0(
+(촀\0Either I have great timing
+\0, or I was
+meant to move here,
+\0 n\0
+\0n\0\0
+(촀\0We're gonna be neighbors soon!"
+"410","(
+촀\0You know,
+\0 sometimes these things
+are all about timing,
+\0 n\0
+\0n\0\0\0\0(촀\0The situation might have changed
+in the meantime.
+\0 (&촀\0Do you think it's
+worth going to ask one more time?"
+"410_a","Sure, nothing to lose."
+"410_b","I don't think so, no."
+"411","(촀\0Yeah,
+\0 you're probably right
+\0n\0\0\0\0(촀\0I'd hate to burn my bridges here
+\0 by
+bothering your \0Resident Services
+\0￿one too many times,
+\0 n\0."
+"421","(
+촀\0I'm not sure how I'd react if I ran
+into someone just like me.
+\0( (8촀\0Would it
+be scary,
+\0 funny,
+\0 or just awkward?"
+"422","(9촀\0Imagine moving to a new place
+\0
+at the same time as your exact
+duplicate.
+\0 (;촀\0Talk about confusing!"
+"423","If they're having to turn new
+residents away,
+\0 (%촀\0n	\0
+must be really booming!"
+"424","(8촀\0I wish I'd known
+\0 to try and get
+in here before n	\0
+ran out of room to build."
+"504","(촀\0This island's community and scenery
+are both great!
+\0 (촀\0I just love it here.\0\0(1촀\0I really hope someday
+\0 I can live on
+an island this nice,
+\0 n\0
+\0n"
+"504_a","Wanna live here?"
+"504_b","Thanks for saying so!"
+"505","( 촀\0That's so sweet of you to invite me,
+\0
+but (촀\0I'm just not sure I'm ready to
+make a big move like that just yet.
+(6촀\0Another visit might convince me,
+\0 if
+someone were to invite me back
+\0n"
+"506","(촀\0Of course!
+\0( (4촀\0But you should know
+I only said it
+\0 because it's true."
+"507","(촀\0The more I learn about this island,
+\0
+(%촀\0the more appealing it seems to me.\0\0(촀\0The place
+\0 just sort of grows on you!"
+"507_a","Move here and see!"
+"507_b","You think so?"
+"508","(촀\0I hope it didn't sound like I was
+fishing for an invitation like that,
+\0
+(촀\0though I do appreciate the offer.
+(4촀\0Another stay here might win me over,
+\0
+if someone was nice enough to invite
+me back,
+\0 hint hint,
+\0 n\0
+\0n"
+"509","(촀\0Maybe it's hard to notice when
+you're already living here.\0\0(6촀\0Guess it's up to the tourists like me
+\0
+to (5촀\0discover and point out all the best
+things about n	\0!"

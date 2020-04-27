@@ -1,0 +1,347 @@
+﻿"label","text"
+"001","dummy"
+"010","                   
+\0d\0d\0Arrivederci!dd
+"
+"011","
+\0                   d\0Ähn\0\0 
+\0Salve!
+\0\0\0Hier spricht die \0Notrettung\0￿.
+\0
+Spezialisten für Klemmen, Miseren
+und ähnliche Bredouillen.d"
+"011_01","d\0Wer ist denn dort bitte?
+\0
+Moment, 
+\0mal sehenn\0\0d
+"
+"011_02","d\0Du befindest dich geraden\0\0d
+"
+"012","d\0Was ist das?!
+\0
+Das Signal spinnt ganz schön rum.d"
+"012_01","d\0Kann es sein, dass du im Moment
+irgendwen von einer anderen Insel
+zu Besuch hast?\0\0Dann ist es kein Wunder,
+\0 dass die
+Signale durcheinandergeraten.\0\0Aber wenn's halt ein Notfall ist,
+\0
+dann öffne mit \0\0￿ dein Menü 
+\0und
+wähle dort \0Schluss machen\0￿.
+\0 Capisce?d"
+"012_02","d\0Bist du zufällig gerade auf einer
+anderen Insel zu Gast?\0\0Dann ist ja wohl klar, 
+\0dass das mit
+dem Abtransport nicht funktionieren
+kann.\0\0Aber, 
+\0hör zun\0\0
+\0 Wenn's wirklich ein
+Notfall ist, 
+\0öffne mit \0\0￿ das Menü
+und wähle \0Zurück auf meine Insel\0￿.d"
+"013","d\0Moment... 
+\0Befindest du dich etwa
+gerade in einem Gebäude?
+\0
+Dann klappt das nicht.\0\0Der Rettungsdienst kann nur
+arbeiten,
+\0 wenn jemand im Freien
+feststeckt.\0\0Wäre sonst einfach zu gefährlich,
+\0
+das musst du verstehen!\0\0Also geh einfach raus, 
+\0wenn du
+wirklich unsere Hilfe brauchst.d"
+"021_01","d\02\0n\0 von n\0,
+\0 ja? (%촁\0
+\0Alles klar.d"
+"021_02","d\0Ach, 
+\0n\0 von n\0 wieder?(%촁\0 
+\0Kein Problem, 
+\0wir helfen immer gern.d"
+"021_03","d\0Bitte?
+\0 2\0n\0 schon wieder? 
+\0Mal wieder in Schwierigkeiten,
+\0 was?(%촁\0d"
+"022",""
+"023_01","d\0Pro Rettung wären \0100\0￿ Meilen fällig.
+\0
+Na,
+\0 einverstanden?d"
+"023_01_a","(%촁\0Ja, bitte!"
+"023_01_b","('촁\0Dann doch nicht."
+"023_02","d\0Kleiner Flug gegen Zahlung
+von \0100\0￿ Meilen gefällig?d"
+"023_02_a","(%촁\0Ja, bitte!"
+"023_02_b","('촁\0Dann doch nicht."
+"023_03","d\0Oh, 
+\0letztes Mal hattest du ja gar
+nicht genug Meilen auf dem Konto.
+\0
+Sieht das jetzt besser aus?\0\0Eine Rettung kostet nämlich
+\0100\0￿ Meilen. 
+\0Ist das so in Ordnung?d"
+"023_03_a","(%촁\0Ja, bitte!"
+"023_03_b","('촁\0Dann doch nicht."
+"031_01","d\0Hm? 
+\0Also lieber doch nicht?d"
+"031_02","d\0Was? 
+\0Jetzt plötzlich doch nicht?!
+\0(
+Keine Angst, 
+\0die Meilen vom letzten
+Mal musst du nicht nachzahlen!d"
+"032_01","d\0Wenn du in Schwierigkeiten steckst,
+\0
+sag einfach Bescheid!d"
+"032_02","d\0Falls du nicht genug Meilen hast
+oder so was, 
+\0können wir da ein
+bisschen was drehenn\0\0
+Also sag Bescheid, wenn du wirklich
+Hilfe brauchst.d"
+"041_01","d\0Alles paletti.
+\0 Dann lass mal
+\0100\0￿ Meilen rüberwachsen!d"
+"041_02","d\0Alles paletti.
+\0 Und diesmal kannst du
+ja auch zahlen. 
+\0Dann \0100\0￿ Meilen
+bitte.d"
+"042_01","d\0Alles paletti.
+\0 Dann gib mir schnell
+die \0100\0￿ Meilen, 
+\0und schon sindn\0\0d
+K"
+"042_02","
+
+\0
+\0(촁\0　　　　　       d\0\0Oha!\0d
+\0
+	\0\0\0(\0촁\0Du hast leider nicht genug Meilen auf dem Konto. 
+\0So geht das ja eigentlich
+nichtn\0\0\0\0Aber wenn es halt ein Notfall ist,
+\0
+kann man wohl nichts machen.
+\0
+Dann geht es diesmal aufs Haus.d"
+"042_03","
+
+\0
+\0(촁\0　　　　       　d\0\0Oha!\0d
+\0
+	\0\0\0(\0촁\0Du hast ja schon wieder zu wenig
+Meilen auf dem Konto! 
+\0So geht das
+ja eigentlich nichtn\0\0\0\0Aber wenn es halt ein Notfall ist,
+\0
+kann man wohl nichts machen.
+\0
+Geht es eben wieder aufs Haus.d"
+"042_04","d\0Wir setzen dich dann aber irgendwo
+ab, 
+\0wo es uns grad gut in den Kram
+passt.d"
+"043","d\0Ach übrigens, 
+\0was deine Begleitung
+angeht... 
+\0Wir setzen euch beide
+einfach auf dem \0Festplatz\0￿ ab.d"
+"044_01","d\0Prima, dann wäre das ja geklärt.
+\0
+Also dann, 
+\0wohin soll die Reise
+gehen?d"
+"044_01_a","Nach Hause."
+"044_01_b","Zum Festplatz."
+"044_01_c","Zum Flughafen."
+"044_01_d","Ich will doch bleiben."
+"044_02","d\0Prima, dann wäre das ja geklärt.
+\0
+Also dann, 
+\0wohin soll die Reise
+gehen?d"
+"044_02_a","Zu meinem Zelt."
+"044_02_b","Zum Festplatz."
+"044_02_c","Zum Flughafen."
+"044_02_d","Ich will doch bleiben."
+"044_03","d\0Prima, dann wäre das ja geklärt.
+\0
+Also dann, 
+\0wohin soll die Reise
+gehen?d"
+"044_03_a","Nach Hause."
+"044_03_b","Zum Festplatz."
+"044_03_c","Zum Laden."
+"044_03_d","Zum Flughafen."
+"044_03_e","Ich will doch bleiben."
+"045","d\0Son\0\0 
+\0Einziges Problem ist jetzt,
+\0
+dass du anscheinend noch keinen
+festen Wohnsitz hier hast.\0\0Könntest du mir also 'nen Tipp
+geben, 
+\0wo's hingehen soll?d"
+"045_a","Zum Festplatz."
+"045_b","Zum Flughafen."
+"045_c","Ich will doch bleiben."
+"046","d\0Son\0\0 
+\0Einziges Problem ist jetzt,
+\0
+dass du anscheinend noch keinen
+festen Wohnsitz hier hast.\0\0Könntest du mir also 'nen Tipp
+geben, 
+\0wo's hingehen soll?d"
+"046_a","Zum Festplatz."
+"046_b","Zum Laden."
+"046_c","Zum Flughafen."
+"046_d","Ich will doch bleiben."
+"047","d\0Alles klärchen? Spitze.
+\0
+Dann sag mal, 
+\0wohin soll die Reise
+denn gehen?d"
+"047_a","Zu meinem Zelt."
+"047_b","Zum Festplatz."
+"047_c","Zum Laden."
+"047_d","Zum Flughafen."
+"047_e","Ich will doch bleiben."
+"048","d\0n\0\0Oha. 
+\0Du bist grad fern der
+Heimat, 
+\0was?\0\0Unsere Karte ist etwas ungenau,
+
+\0also würde ich dich \0beim Flugzeug
+\0￿absetzen.
+\0 Okay für dich?d"
+"048_a","Klar!"
+"048_b","Ich will doch bleiben."
+"050_01","d\0Du willst zu deinem Zelt?
+\0
+Gut, 
+\0kannste haben!d"
+"050_02","d\0Nach Hause willst du?
+\0
+Wird gemacht, 
+\0Chef.d"
+"050_03","d\0Zum \0Festplatz \0￿der Insel? 
+\0Auf geht's.d"
+"050_04","d\0Zum Laden der Insel?
+
+\0Gut, 
+\0null Problemo.d"
+"050_05",""
+"050_06","d\0Alles klar!
+\0
+Dann nichts wie los.d"
+"050_07","d\0Einmal \0Flughafen\0￿?
+
+\0Wird gemacht, 
+\0Chef.d"
+"051","<"
+"051_01","d\0Aaaalson\0\0
+\0KIch drück mal den Knopf hier.\0dd"
+"051_02","d\0Aaaalson\0\0
+\0
+\0KIch hoffe, 
+\0ich mach das richtig.\0dd"
+"051_03","d\0Aaaalson\0\0
+\0
+\0KMuss das hier so klein geschrieben sein?\0dd"
+"052","d\0So, 
+\0jetzt kann's losgehenn\0\0d"
+"053","
+\0                    d\0d\0Andiamo!dd
+"
+"061","d\0Und schon sind wir da!d"
+"062","d\0Ach ja, 
+\0eine Sache nochn\0\0d"
+"063","<"
+"063_01","d\0Hast du auch schon mal den
+Ausdruck 
+\0„Mund-zu-Mund-
+Propaganda“ 
+\0gehört?\0\0Der ist nämlich falsch!
+\0(
+„Mund-zu-Mund“ gibt's höchstens
+bei der Beatmung.\0\0Wenn du allen erzählst, 
+\0wie sehr dir
+die Notrettung geholfen hast, 
+\0dann
+ist das „Mundpropaganda“!d"
+"063_02","d\0Kennst du den Unterschied zwischen
+„Katheter“ und „Katheder“? 
+\0Dann
+bist du was ganz Besonderes!\0\0Der Katheter ist ein medizinisches
+Instrument. 
+\0Findet man in
+Krankenhäusern und so.
+Das Katheder ist ein Pult, 
+\0von dem
+ich meine Weisheiten predigen
+könnte, 
+\0wenn ich eins hätte.d"
+"063_03","d\0Hast du auch schon mal gehört,
+\0
+wie jemand gesagt hat, 
+\0er wäre
+„baff erstaunt“?\0\0Hoffentlich nicht, 
+\0denn das ist
+Quatsch.
+\0 Man ist entweder „bass
+erstaunt“ oder einfach nur „baff“!\0\0So wie ich, 
+\0wenn ich heutzutage
+noch mal jemandem begegne, 
+\0der
+Redewendungen korrekt verwendet.d"
+"064","<"
+"064_01","d\0Hast du auch schon mal den
+Ausdruck 
+\0„Mund-zu-Mund-
+Propaganda“ 
+\0gehört?\0\0Der ist nämlich falsch!
+\0(
+„Mund-zu-Mund“ gibt's höchstens
+bei der Beatmung.\0\0Wenn du allen erzählst, 
+\0wie sehr dir
+die Notrettung geholfen hast, 
+\0dann
+ist das „Mundpropaganda“!d"
+"064_02","d\0Kennst du den Unterschied zwischen
+„Katheter“ und „Katheder“? 
+\0Dann
+bist du was ganz Besonderes!\0\0Der Katheter ist ein medizinisches
+Instrument. 
+\0Findet man in
+Krankenhäusern und so.
+Das Katheder ist ein Pult, 
+\0von dem
+ich meine Weisheiten predigen
+könnte, 
+\0wenn ich eins hätte.d"
+"064_03","d\0Beim \0NookPortal\0￿ im Servicecenter
+\0
+kannst du jeden Tag Meilen
+absahnen.
+\0 Ganz mühelos.d"
+"2001","d\0Wie bitte, 
+\0dir ist aufgefallen, 
+\0dass
+heute hier jemand anderes am
+Schaltpult sitzt als sonst?\0\0Nicht schlecht, 
+\0n\0.
+
+\0Hast 'n feines Näschen.\0\0Es ist wahr, 
+\0der Kleinen\0\0
+\0 also, 
+\0ich
+meine,
+\0 der Kollege 
+\0hat heute frei,
+
+\0deshalb springe ich ein.\0\0Ich hab hier nicht so die Routine wie
+er, 
+\0also nimm's mir nicht krumm,
+\0
+wenn's heute etwas unrund läuft.\0\0Ähem, 
+\0weiter im Text...d"

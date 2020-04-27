@@ -1,0 +1,174 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0This is s촀.
+\0(\0\0I'm not free to talk now because
+I'm packing to move,
+\0 n\0.\0￿d"
+"001_02","d\0\0Thanks for getting in touch.
+\0(
+2\0s촀 is unavailable
+\0
+due to a pending move.\0￿d"
+"001_03","d\0\0You've reached s촀.
+\0(
+I'm preparing to move,
+\0 so I can't
+talk right now,
+\0 n\0.\0￿d"
+"001_04","d\0\0This is s촀.
+\0( I'm sorry,
+\0
+I can't talk now
+\0 because
+I'm packing to move,
+\0 n\0.\0￿d"
+"102","<"
+"102_01","( 촀\0What's that?
+\0 Are you inviting me to
+n	\0's \0campsite\0￿?\0\0(촀\0I'm so excited!
+\0( (촀\0I'll start packing my
+camping gear now,
+\0 n\0!"
+"102_02","( 촀\0You're really inviting me to visit
+n	\0's \0campsite\0￿?\0\0(촀\0This is so exciting!
+\0( (촀\0I'll be there just
+as soon as I can,
+\0 n\0."
+"102_03","(촀\0You're asking me to come visit the
+\0campsite\0￿ on n	\0?
+\0
+(%촀\0Absolutely I will!\0\0(촀\0I'll leave for the island
+\0 as soon as
+I can pack my stuff,
+\0 n\0!"
+"102_04","(촀\0Are you really inviting me
+\0 to stay
+at n	\0's \0campsite\0￿?\0\0(촀\0Thanks so much!
+\0 (촀\0I'm as good as on
+my way right now,
+\0 n\0."
+"202","<"
+"202_01","(촀\0Oh wow!
+\0 You're inviting me to stay
+at the n	\0 \0campsite\0￿?\0\0(촀\0I'd love to.
+\0 Thanks so much!
+\0
+(촀\0I'll head over as soon as I can
+pack a bag,
+\0 n\0!"
+"202_02","(
+촀\0Let me think
+\0n\0\0 2\0n	\0's
+\0campsite\0￿,
+\0 huh?\0\0(촀\0I'm kidding.
+\0 Of course I'm interested!
+\0(
+(%촀\0See you there soon,
+\0 n\0."
+"202_03","(촀\0Getting to stay at the \0campsite\0￿ on
+n	\0
+\0 (촀\0sounds so fun!\0\0(촀\0But it might take me a while
+\0 to find
+my camping gear,
+\0 n\0
+\0n"
+"202_04","(촀\0You're asking me to come and stay at
+your \0campsite\0￿?
+\0( How could I say no?
+\0
+('촀\0I never get invites this cool!
+(촀\0I'm on my way now,
+\0 n\0!"
+"301","<"
+"301_01","You've reached n
+\0.
+\0
+( 촀\0Oh,
+\0 hey there, n\0!
+\0
+($촀\0What's up,
+\0 n\0?"
+"301_02","2\0n
+\0 speaking.
+\0(
+( 촀\02\0n\0?\0\0What's up?
+\0 (8촀\0Something you couldn't
+share face-to-face,
+\0 n\0?"
+"301_03","You've reached n
+\0.
+\0(
+( 촀\02\0n\0?\0\0(6촀\0You do realize we live on the
+same island,
+\0 n\0?"
+"301_04","Hello,
+\0 yes,
+\0 this is n
+\0.
+\0
+( 촀\02\0n\0?\0\0(촀\0Is something wrong,
+\0 n\0?"
+"302","<"
+"302_01","(촀\0Wait—
+\0you want me to camp
+at our island's \0campsite\0￿?
+\0(
+I don't get it
+\0n\0\0\0\0(8촀\0I mean,
+\0 that's meant for visitors,
+\0 and
+(촀\0I already live here,
+\0 n\0."
+"302_02","(촀\0Huh?
+\0 You want me to camp out at
+our \0campsite\0￿?
+\0 (8촀\0And you are talking
+about the one here,
+\0 on this island?
+(촀\0That's a funny idea,
+\0 but I think I'm
+going to pass on it,(촀\0
+\0 n\0."
+"302_03","(
+촀\0I must be missing something.
+\0 (&촀\0Why do
+you want me to go to the \0campsite\0￿?\0\0( 촀\0Wait,
+\0 did you want me to camp
+there?
+\0 (촀\0Um,
+\0 I don't think I'll be
+doing that,
+\0 n\0
+\0n"
+"302_04","(촀\0What?
+\0 I don't get it.
+\0 Why (&촀\0would
+I want to camp right here
+\0 at our
+island's \0campsite\0￿,
+\0 n\0?\0\0(8촀\0Sorry,
+\0 I'm going to have to decline."
+"401","<"
+"401_01","Hello,
+\0 this is n
+\0.
+\0(
+(&촀\0What can I do for you,
+\0 n\0?"
+"401_02","(촀\0Yes,
+\0 this is n
+\0.
+\0(
+(&촀\0What do you need,
+\0 n\0?"
+"401_03","(촀\0Hi!
+\0 This is n
+\0!
+\0(
+(&촀\0Can I help you,
+\0 n\0?"
+"401_04","(촀\0This is n
+\0.
+\0(
+(&촀\0What's on your mind,
+\0 n\0?"

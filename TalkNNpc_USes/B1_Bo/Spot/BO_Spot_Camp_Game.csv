@@ -1,0 +1,100 @@
+﻿"label","text"
+"001","Oye, ($촀\0¿y si jugamos a algo muy
+divertido, n\0?\0\0(\0촀\0Si ganas, te llevas de premio mi
+}\0\0."
+"001_a","¡Juguemos!"
+"001_b","Ahora no, gracias"
+"002","(촀\0¡Bien!
+\0 (촀\0Pues a jugar.
+\0 ($촀\0¿Quieres que
+te explique las reglas?"
+"002_a","¡Bueno!"
+"002_b","No, gracias"
+"003","(촀\0Uyn\0\0
+\0 (촀\0Bueno, si cambias de idea,
+ven a buscarme, ¿sí?"
+"004","Primero voy a revolver todas las
+cartasn\0\0
+\0 (<촀\0Revolvemos,
+\0 revolvemos,
+revolvemosn"
+"005","(9촀\0Veamos la respuestan"
+"006_01","(촀\0¡Uy, ganaste!
+\0 (촀\0Ahora viene el premio,
+\0 ¡ten mi }\0\0!"
+"006_02","(촀\0Perdín\0\0
+\0 (촀\0¡Toma mi }\0\0!"
+"006_03","(촀\0¡Gané yooo!
+\0 (촀\0No te llevas premio,
+\0 pero, si quieres, te doy un abrazon"
+"007_01","(촀\0¡Me divertí muchísimo aunque perdí!
+\0
+(
+촀\0Entonces en realidad no perdí
+completamenten\0\0
+(""촀\0¡Espero que juguemos otra vez,
+n\0!"
+"007_03","(촀\0¡Me divertí mil millones de montones,
+n\0!
+\0 (7촀\0Aunque me puse nervioso al comprobar la respuestan"
+"008","(촀\0¡Yujuuu!\0\0(촀\0Un momenton\0\0
+\0 ¡tienes los bolsillos
+rellenísimos! ('촀\0Así no podemos jugar.\0\0()촀\0Sería ""abobinable"" si ganaras y no
+pudieras llevarte tu premio.\0\0(""촀\0¡Lo dejamos para después, n\0!"
+"100","Veamosn\0\0
+\0 ()촀\0Tengo cartas de estos
+cuatro palos: \0♥\0￿, \0♦\0￿, \0♠ \0￿y \0♣\0￿.\0\0()촀\0Voy a sacar una carta y tú tienes
+que adivinar a qué palo corresponde.\0\0(%촀\0¡Si aciertas, te quedas con
+mi }\0\0!\0\0(촀\0Y si te equivocas,
+\0 ¡no sé lo que
+pasará!
+\0 Como sean\0\0
+\0 (<촀\0¡Andando!"
+"101","(=촀\0¡Bien!
+\0 (\0촀\0¿De cuál de estos palos es mi carta: \0♥\0￿, \0♦\0￿,\0♠\0￿ y \0♣\0￿."
+"101_a","\0♥ (Corazones)\0￿"
+"101_b","\0♦ (Diamantes)\0￿"
+"101_c","\0♠ (Picas)\0￿"
+"101_d","\0♣ (Tréboles)\0￿"
+"102_01","Y la respuesta esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0¡Acertaste!"
+"102_02","La carta esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0Qué maln"
+"200","()촀\0Tengo cartas de los siguientes
+palos: \0♥\0￿, \0♦\0￿, \0♠ \0￿y\0 \0￿\0♣\0￿.\0\0()촀\0Voy a sacar una carta y tú tienes
+que adivinar el color del palo
+al que corresponde.\0\0(%촀\0¡Si aciertas, te quedas con
+mi }\0\0!\0\0(<촀\0¡Qué empiece el espectáculo!"
+"201","(=촀\0¡Dime!
+\0 (\0촀\0El color de esta cartan\0\0
+\0
+(;촀\0¿es \0rojo \0￿o \0negro\0￿?"
+"201_a","\0¡Rojo!\0￿"
+"201_b","\0¡Negro!\0￿"
+"202_01","Y la respuesta esn\0\0
+\0 (촀\0¡촀!
+\0
+(촀\0¡\0Rojo\0￿!
+\0 ¡Acertaste!"
+"202_02","El color de la carta esn\0\0
+\0
+(촀\0¡촀!
+\0
+(촀\0\0Negro\0￿n\0\0
+\0 ¡Perdiste!"
+"202_03","Vamos a vern\0\0
+\0 ¡(촀\0촀!
+\0
+(촀\0
+\0¡Es de color \0negro\0￿, lo que significa
+que tu respuesta es correctísima!"
+"202_04","A ver,
+\0 a vern\0\0(촀\0
+\0 ¡촀!
+\0
+(촀\0Es \0rojo\0￿n\0\0
+\0 Perdisten"

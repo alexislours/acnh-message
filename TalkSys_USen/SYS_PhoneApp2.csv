@@ -1,0 +1,334 @@
+﻿"label","text"
+"001","dummy"
+"010","                      
+\0d\0d\0See ya!dd
+"
+"011","
+\0                     d\0\0Hiya!\0d
+-\0\0\0Thanks for callin'.
+\0 This is the
+
+\0\0Rescue Service \0￿hotline.d"
+"011_01","d\0One sec,
+\0 you aren\0\0d
+"
+"011_02","d\0Your current location isn\0\0d
+"
+"012","d\0Ah, for cryin' out loud! 
+\0I can't make
+heads or tails of this signal. 
+\0Looks
+like my kid brother's handwritingn\0\0d"
+"012_01","d\0Listen, paln\0\0
+\0you got a visitor?
+\0
+Somebody pop over to shoot the
+breeze? Pick fruit or whatnot?\0\0Let me spell it out. 
+\0Too many signals,
+and the system don't work right.
+\0
+Like Sonny after too much javan\0\0\0\0If ya got yourself an emergency,
+\0
+open the \0 Button \0￿menu and pick
+\0End Session\0￿, will ya?d"
+"012_02","d\0Oh, I think I see what's wrong.
+\0
+You doin' some sightseein'? 
+\0Visiting
+somebody else's island, maybe?
+Lemme tell you about me. 
+\0I like it
+simple. 
+\0Too many signals zippin'
+around makes thingsn\0\0less simple.\0\0If you really need help, 
+\0you gotta
+go choose \0Return to my island \0￿on
+the \0 Button \0￿menu, capice?d"
+"013","d\0Stop. 
+\0You ain't even outside,
+\0 are ya?\0\0Here's the deal, pal. 
+\0This service
+don't work if you're indoors.\0\0It ain't rocket science. 
+\0I can't come
+grab you if I got rafters and beams
+in the way. 
+\0I ain't a miracle worker!\0\0So, 
+\0ya want my help,
+\0 I'm gonna need
+ya to 
+\0step outside, OK?d"
+"021_01","d\0Here we go! 
+\0This is
+n\0 from
+n!\0, right?d"
+"021_02","d\0Let's seen\0\0 Ah!
+\0 2\0n\0
+on n!\0, right?
+(%촁\0
+\0Nice to hear from ya.d"
+"021_03","d\0Hang onn\0\0
+\0 Oh, n\0.
+\0
+You in hot water AGAIN?(%촁\0d"
+"022",""
+"023_01","d\0Pretty basic system here—rescues
+go for \0100 \0￿miles.
+\0 You in?d"
+"023_01_a","(%촁\0Yes! Help!"
+"023_01_b","('촁\0No, thanks."
+"023_02","d\0It's \0100 \0￿miles per rescue.
+\0
+Whaddaya say?d"
+"023_02_a","(%촁\0Yes! Help!"
+"023_02_b","('촁\0No, thanks."
+"023_03","d\0You know, n\0.
+\0( You
+were short on miles last time you
+called.
+\0 Hope you got that sortedn\0\0\0\0Fee's \0100 \0￿miles.
+\0 You in?d"
+"023_03_a","(%촁\0Yes! Help!"
+"023_03_b","('촁\0No, thanks."
+"031_01","d\0What, seriously?d"
+"031_02","d\0Huh? 
+\0No deal?
+\0( Hey, listenn\0\0
+\0 No one
+cares if you were short on miles
+before.
+\0 Not an issue—capice?d"
+"032_01","d\0If you're in a jam,
+\0 just say the word!d"
+"032_02","d\0You really need help? 
+\0Let's be
+clearn\0\0
+\0I don't care if you got
+Nook Miles or not.\0\0If you're in a tough spot,
+\0 I'm your
+mole.
+\0( Got it?d"
+"041_01","d\0Nice! 
+\0OK, let's make it official.
+
+\0Show me the \0100 \0￿miles.d"
+"041_02","d\0There ya go. 
+\0And since you're all
+set with your \0100 \0￿miles this time,
+\0
+I'll just take 'em up front!d"
+"042_01","d\0Smart kid!
+\0 It's \0100 \0￿miles, 
+\0so let's
+get that squared awayn\0\0d
+K"
+"042_02","
+
+\0
+\0(촁\0d\0　　　\0WAIT A MINUTE!\0d
+\0
+	\0\0\0(\0촁\0What're you tryin' to pull here?
+\0(
+You're a little short on miles, there.\0\0Hmph. 
+\0Guess I just leave you theren\0\0
+\0
+Eh, just kiddin'! What kinda mole'd
+do that? 
+\0This one's on the house!d"
+"042_03","
+
+\0
+\0(촁\0　　　　　　d\0\0WAHHH!\0d
+\0
+	\0\0\0(\0촁\0You gotta be kiddin' me! 
+\0(You're short
+on miles again, bright eyes?\0\0Poached earthworms! 
+\0What a dayn\0\0
+\0
+Eh, don't worry none.
+\0( I ain't gonna
+leave ya hanging. 
+\0This one's on me.d"
+"042_04","d\0But since I'm doin' you a favor,
+\0
+I choose where to drop ya.
+\0
+No negotiatin'.d"
+"043","d\0One more thing.
+\0 Since you're not
+traveling alone,
+\0 I gotta send ya
+to the \0plaza\0￿. Regs, you know?d"
+"044_01","d\0Now that that's settled,
+\0 where can
+I take ya?d"
+"044_01_a","Home."
+"044_01_b","The plaza."
+"044_01_c","The airport."
+"044_01_d","Cancel."
+"044_02","d\0Now that that's settled,
+\0 where can
+I take ya?d"
+"044_02_a","My tent."
+"044_02_b","The plaza."
+"044_02_c","The airport."
+"044_02_d","Cancel."
+"044_03","d\0Now that that's settled,
+\0 where can
+I take ya?d"
+"044_03_a","Home."
+"044_03_b","The plaza."
+"044_03_c","The shop."
+"044_03_d","The airport."
+"044_03_e","Cancel."
+"045","d\0OK, pal. 
+\0Here's the deal. 
+\0You haven't
+settled on a place to live yetn\0\0\0\0So that means I don't know where
+to drop ya. 
+\0Wanna give me a hint?d"
+"045_a","The plaza."
+"045_b","The airport."
+"045_c","Cancel."
+"046","d\0OK, pal. 
+\0Here's the deal. 
+\0You haven't
+settled on a place to live yetn\0\0\0\0So that means I don't know where
+to drop ya. 
+\0Wanna give me a hint?d"
+"046_a","The plaza."
+"046_b","The shop."
+"046_c","The airport."
+"046_d","Cancel."
+"047","d\0Now that that's settled,
+\0 where can
+I send ya?d"
+"047_a","My tent."
+"047_b","The plaza."
+"047_c","The shop."
+"047_d","The airport."
+"047_e","Cancel."
+"048","d\0n\0\0Huh? 
+\0You there, champ? 
+\0I see
+you been doin' some sightseeing,
+right?\0\0Problem is, I can't get map data for
+that island. 
+\0So I'm gonna have to
+drop you \0where the planes land\0￿.
+\0
+That work for you?d"
+"048_a","Guess it'll have to!"
+"048_b","Cancel."
+"050_01","d\0Your tent? 
+\0Sure thing.d"
+"050_02","d\0Home sweet home? 
+\0You got it, boss.d"
+"050_03","d\0The plaza? 
+\0No prob.d"
+"050_04","d\0The island shop? 
+\0Piece of mud pie.d"
+"050_05",""
+"050_06","d\0You got it!
+\0 Ready, set, 
+\0goooooooooo!d"
+"050_07","d\0The airport, huh? 
+\0You got it, pal.d"
+"051","<"
+"051_01","d\0What am I workin' with heren\0\0?
+\0KGuess I press this doohickeyn\0\0\0dd"
+"051_02","d\0Easy does it, Donn\0\0
+\0KPick a button. 
+\0What's the worst that happens?\0dd"
+"051_03","d\0I'm a Resetti. I got thisn\0\0
+\0KCan I make the font bigger?\0dd"
+"052","d\0Sure. 
+\0Let's roll the dice.d"
+"053","
+\0　　 d\0d\0\0Here goes nothin'!\0ddd
+"
+"061","d\0Open your eyes, kid! 
+\0Trip's over!d"
+"062","d\0Oh yeah. 
+\0One last thingn\0\0d"
+"063","<"
+"063_01","d\0So I'm a big fan of, 
+\0you know,
+\0
+language. 
+\0Think about it a lot.
+\0 Even
+wrote some alphabet fanfiction.
+Spoiler—the letter ""I"" MIGHT be
+based on a certain ruggedly
+handsome mole.
+\0( Wink, wink.d"
+"063_02","d\0Ya know how people say 
+\0""I could care
+less"" when what they really mean
+
+\0is that they COULDN'T care less?\0\0You know, 
+\0'cause their care tank's
+empty? 
+\0That bugs me.
+\0 But I'm doin'
+yoga 'n stuff.
+\0( Tryin' to get centered.d"
+"063_03","d\0This cousin of mine 
+\0always says
+
+\0""it takes two to tangle"" 
+\0instead of
+""two to tango.""\0\0I've tried correctin' him, 
+\0but it's no
+good. 
+\0(Doesn't know a thing about
+dancin' OR math.
+He also says 
+\0""hit the snail on the
+head,"" 
+\0but I think that's on purpose.
+\0(
+Kid loves a game of Smack the Snail.d"
+"064","<"
+"064_01","d\0So I'm a big fan of, 
+\0you know,
+\0
+language. 
+\0Think about it a lot.
+\0 Even
+wrote some alphabet fanfiction.
+Spoiler—the letter ""I"" MIGHT be
+based on a certain ruggedly
+handsome mole.
+\0( Wink, wink.d"
+"064_02","d\0Ya know how people say 
+\0""I could care
+less"" when what they really mean
+
+\0is that they COULDN'T care less?\0\0You know, 
+\0'cause their care tank's
+empty? 
+\0That bugs me.
+\0 But I'm doin'
+yoga 'n stuff.
+\0( Tryin' to get centered.d"
+"064_03","d\0You're using the \0Nook Stop\0￿ in
+Resident Services every day to earn
+miles, right?
+\0( That's, like, the basics.d"
+"2001","d\0Heh. Somethin' seem different?
+\0
+I figured you'd notice.\0\0Yeah, 
+\0you're one sharp
+cookie, n\0.\0\0Here's the skinny. \0Rese\0￿n\0\0the, uh,
+service operator
+\0 is sorta on a break
+right now.\0\0I'm stepping in for him. 
+\0Think of me
+as a substitute teacher, if ya like.\0\0I ain't what you'd call 
+\0a high-society
+mole, so sorry if I'm a bit, uh,
+\0( rough
+around the edges.
+Now then, 
+\0ahemn\0\0d"

@@ -1,0 +1,186 @@
+﻿"label","text"
+"001","(촀\0Hi there! 
+\0Would you like to do(\0촀\0 a
+\0
+(""촀\0treasure hunt with me?"
+"001_a","Sure!"
+"001_b","Sorry, I'm busy."
+"002","(촀\0You look like you're in the mood ton\0\0(촀\0do a TREASURE HUNT!"
+"002_a","Possibly."
+"002_b","Not particularly?"
+"003","(""촀\0Hi! Want to do a treasure hunt?"
+"003_a","Let's do it!"
+"003_b","No, thanks."
+"004","(촀\0'K! So, it's like thisn\0\0
+\0 ()촀\0I'm going
+to bury treasure somewhere on
+this island.\0\0(촀\0Relax. 
+\0I've got the digging permits.\0\0(촀\0Anyhoo, hang tight here for a sec,
+and I'll do the whole burying thing."
+"005","(%촀\0I'm so going to bury treasure
+somewhere on the island!
+Wait here a sec, 'K?"
+"006","(6촀\0Alright, 
+\0I'm going to bury (촀\0treasure
+somewhere on the island!"
+"007","(촀\0Ughn\0\0 It's getting kind of late.
+\0 It'd be
+really hard to see. (촀\0Andn\0\0I'm kind of
+worried about vampiresn\0\0\0\0(촀\0So let's do this some other time!"
+"008","(촀\0'Kn\0\0 
+\0Maybe some other time!"
+"009","(촀\0Well,
+\0 let's play some other time!"
+"010","OKn\0\0
+\0 (촀\0Well, 
+\0we should play
+sometime. It's crazy fun!"
+"011","(촀\0'K! Here's the rules!
+\0
+<\0\0\0(촀\0If you find the treasure I hid before
+your time is upn\0\0you win!
+\0
+It's just! 
+\0That! 
+\0Easy!
+<\0\0\0(%촀\0Now, I can only bury things outside
+since folks get mad when you dig
+up their floors.
+\0 So stay outside!
+<\0\0\0(\0촀\0OKn\0\0
+\0(!촀\0 THE! HUNT! IS! ON!
+x"
+"011_01","(촀\0OK! Then here's the rules!
+\0
+<\0\0\0(촀\0If you can find the treasure I hid
+on the island before time runs out,
+
+\0you win, n\0!
+Z\0\0\0(%촀\0I can only bury things outside,
+
+\0(촀\0so no need to go inside any
+buildings!
+Z\0\0\0()촀\0Oh, and, like, 
+\0this is just OUR game,
+\0
+so no help from any of your friends!
+\0($촀\0
+Got it?
+\0 Good!
+Z\0
+(""촀\0OK, here we go, n\0!
+x"
+"012","(촀\0OK! Then here are the rules—and
+they're easy! Because they're the
+SAME RULES AS LAST TIME, YAY!
+<\0
+(6촀\0Find the treasure before the time
+runs out. That's it! EXCEPT!(%촀\0
+There's less TIME thisn\0\0
+\0um,
+\0 time.
+\0(
+<\0
+Alright? 
+\0(!촀\0THE! HUNT! IS! ON!
+Z"
+"012_01","(촀\0OK! Then here's the rules!
+<\0\0\0(촀\0(촀\0If you can find the treasure I hid
+on the island before time runs out,
+you win, n\0!
+Z\0\0\0(%촀\0There's less time this time,
+\0 (6촀\0so it
+could be un petit more difficult!
+Z\0\0\0()촀\0Oh, and, like, 
+\0this is just OUR game,
+\0
+so no help from any of your friends!
+
+\0($촀\0Got it?
+\0 Good!
+Z\0
+(""촀\0'K, here we go, n\0!
+x"
+"013","(&촀\0Need me to explain the rules?"
+"013_a","Yes."
+"013_b","Nope."
+"014","(%촀\0'K, then!
+\0 (""촀\0Let's go!
+Z"
+"014_01","(%촀\0OK then!
+\0 ( 촀\0Oh! 
+\0Right! 
+\0And you can't
+get help from anyone else. This is all
+you, n\0.
+\0 ($촀\0Got it?\0\0(""촀\0'K, let's go, n\0!
+Z"
+"015","(촀\0OK!
+\0 (%촀\0There's less time this time,
+so move fast! Alrightn\0\0
+\0(!촀\0
+THE! HUNT! IS! ON!
+Z"
+"015_01","(촀\0'K!
+\0 (%촀\0There's less time this time,
+\0 so no
+goofing around. You have to hurry!
+\0\0\0( 촀\0Oh! 
+\0Right! 
+\0And you can't get help
+from anyone else, 'K? This is all
+on you!
+\0 ($촀\0Got it? Good!\0\0(""촀\0Alright, here we go, n\0!
+Z"
+"101","(&촀\0Hey, 
+\0are you, like, free right now?
+\0(\0촀\0
+You want to do some treasure
+hunting?"
+"101_a","Sure!"
+"101_b","Not right now."
+"102","( 촀\0Oh! Hey, n\0.
+\0
+(촀\0Listen for a second!\0\0(1촀\0
+\0I feel like, if every day of my life
+was full of excitement, it'd make
+me a way more awesome pop starn\0\0\0\0(촀\0So, how about you and me, we do a
+treasure hunt and turn this day from
+mildn\0\0
+\0into (촀\0POP-STAR WILD?"
+"102_a","Let's do it!"
+"102_b","Some other time."
+"103","( 촀\0Oh, lame! It's actually super late!
+\0
+Sorry, we need to do this some
+other time!"
+"104","(촀\0Yaaaaay!
+\0 'K, wait here just a sec
+while I go bury some treasure!
+\0\0\0(\0촀\0(%촀\0I've thought about it for a week,
+and I think I've found the
+perfect place!"
+"105","(""촀\0'K, that's totally cool!
+\0 Let's do
+something some other time,
+n\0!"
+"106","(촀\0Oh, wow. Look at how late it is!
+(촀\0It's way too dark, huh?\0\0Do you have opinions on
+\0
+werethings? Werefish, werebugs,
+werefolksn\0\0that kind of stuff?\0\0(촀\0Because I do! And I think it's WAY
+too late to be outside!"
+"107","(촀\0Yaaaay!
+\0( I knew you'd say yes,
+n\0!\0\0(\0촀\0(""촀\0'K! I'm going to go bury some
+treasure somewhere on the island!
+\0
+(촀\0Ahh!
+\0 I'm already super excited!"
+"108","(촀\0That's too bad. (%촀\0I'll ask you again
+some other time, n\0."
+"200","(촀\0I looked everywhere, but all the
+places where I usually bury thingsn\0\0
+are full of things I've buried.\0\0(8촀\0
+\0I know I asked you to do this and all,
+but let's play another time!"

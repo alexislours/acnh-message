@@ -1,0 +1,132 @@
+﻿"label","text"
+"001","(촀\0Oye, tengo una superidea:
+\0 ¿jugamos
+a algo? (%촀\0Y, si ganas,
+\0 (촀\0¡te regalo
+mi }\0\0!
+(;촀\0¿Te ape, n\0?
+\0 ¡Di que sí,
+\0 di que sí!"
+"001_a","¡Claro que sí!"
+"001_b","Mejor no..."
+"002","(촀\0¡Chupi!
+\0 ¿Quieres que te explique
+las reglas?"
+"002_a","¡Sí, porfa!"
+"002_b","No hace falta"
+"003","(촀\0Jopé, qué rabian\0\0
+\0(%촀\0 Pero, oye, si no
+te ape, está estupén que lo digas.
+\0
+(촀\0¡Haz lo que te pida el cuerpo!"
+"004","(촀\0¡Genial! 
+\0Pues empecemos entonces.
+\0
+(<촀\0Antes de nada tengo que barajar las
+cartas bien barajaditasn"
+"005","(촀\0A ver, a veeeern"
+"006_01","(촀\0Jon\0\0
+\0 ((촀\0Pero la moi siempre cumple
+sus promesas, 
+\0(%촀\0así que aquí tienes
+mi }\0\0."
+"006_02","(촀\0Has jugado 
+\0super
+
+\0
+\0bién
+
+\0, guapi.
+\0
+(%촀\0Y, como ganas tú,
+\0 aquí tienes
+mi }\0\0."
+"006_03","(4촀\0Oooh, qué penan\0\0
+\0 Esta vez te quedas
+sin regalito de la moi."
+"007_01","(8촀\0Cuídal2촀oa\0 superbién, ¿vale? 
+\0Jo, pero
+qué rabian\0\0
+\0(6촀\0 Me tendrás que dar
+la revancha pronto, n\0."
+"007_03","(%촀\0Que sepas que estoy dispuestísima
+a darte la revancha. 
+\0((촀\0Aunque debes
+saber que iré 
+\0a
+
+\0 
+\0por
+
+\0 
+\0TODAS
+."
+"008","(촀\0¡Viva!
+\0 ¡Vamos a jugaaaar!
+\0
+( 촀\0Jopé.
+\0 Que tienes los bolsillos
+superllenos de cosis, n\0.
+(
+촀\0Pues, si ganas,
+\0 no podrás llevarte
+el premio y qué bajonchi eso, ¿no?
+\0
+(촀\0¡Jugamos cuando hagas huequi!"
+"100","Vale, presta muchisisísima atención.\0\0()촀\0Tengo cuatro cartas de cuatro palos:
+corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) y tréboles (\0♣\0￿).
+(%촀\0Yo saco una carta y tú intentas
+adivinar de qué palo es.\0\0((촀\0Si aciertas, te puedes quedar con
+mi }\0\0.
+\0 ¿A que es superfácil?\0\0(촀\0Pues vamos allá.
+\0(<촀\0 Antes de nada,
+\0
+barajo las cartasn"
+"101","(=촀\0Vale, ya he elegido mi carta.
+\0(촀\0 Adivina:
+¿corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) o tréboles (\0♣\0￿)?"
+"101_a","\0Corazones (♥)\0￿"
+"101_b","\0Diamantes (♦)\0￿"
+"101_c","\0Picas (♠)\0￿"
+"101_d","\0Tréboles (♣)\0￿"
+"102_01","(촀\0¡Pues sí!
+\0 ¡Eran 촀!
+
+\0(촀\0Qué fuerte me parece que hayas
+acertado."
+"102_02","(촀\0Eran 촀n\0\0
+\0 ¡Qué penita que hayas fallado!"
+"200","Vale, presta muchisisísima atención.\0\0()촀\0Tengo cuatro cartas de cuatro palos:
+corazones (\0♥\0￿), diamantes (\0♦\0￿),
+picas (\0♠\0￿) y tréboles (\0♣\0￿).
+(%촀\0Yo saco una carta y tú intentas
+adivinar de qué color es.
+\0 ¡Es más
+fácil que intentar adivinar el palo!
+((촀\0Si aciertas, te puedes quedar con
+mi }\0\0.
+\0 ¿A que es superfácil?\0\0(촀\0Pues vamos allá.
+\0(<촀\0 Antes de nada,
+\0
+barajo las cartasn"
+"201","(=촀\0¡Ya tengo mi carta!
+\0 Concéntrate
+bien: 
+\0(;촀\0¿crees que es \0roja \0￿
+\0o \0negra\0￿?"
+"201_a","\0Roja\0￿"
+"201_b","\0Negra\0￿"
+"202_01","(촀\0¡Era de 촀!
+\0 O sea, \0roja\0￿n\0\0
+\0(촀\0 ¡o sea que has acertado!"
+"202_02","(촀\0¡Era de 촀!
+\0 O sea, \0negra\0￿,
+\0('촀\0 o sea que no has acertado."
+"202_03","(촀\0¡Era de 촀!
+\0 O sea, \0negra\0￿n\0\0
+\0(촀\0 ¡o sea que has acertado!"
+"202_04","(촀\0¡Era de 촀!
+\0 O sea, \0roja\0￿,
+\0('촀\0 o sea que me temo que no has acertado."

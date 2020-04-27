@@ -1,0 +1,153 @@
+﻿"label","text"
+"001","(&촀\0As-tu déjà emprunté quelque chose
+si longtemps que tu hésites à en
+reparler à son propriétaire ?
+(4촀\0Je me trouve actuellement dans
+cette situation, et je n'ose pas aller
+voir s촀n"
+"001_a","(\0촀\0Je peux le faire."
+"001_b","(\0촀\0Tu devrais t'excuser."
+"002","(
+촀\0s촀 m'a rendu visite
+il y a peu, mais 2촀ilelle\0 a oublié
+quelque chose chez moin\0\0
+(촀\0Je ne sais même pas s2촀'ili elle\0 s'est
+rendu compte qu'2촀ilelle\0 avait perdu
+quelque chose,
+\0 pour être franche."
+"002_a","(\0촀\0Je vais lui rendre !"
+"002_b","(\0촀\0C'est ton problème."
+"003","(촀\0Je suis très contrariée.
+\0 Figure-toi
+que je viens de recevoir un colis
+adressé à s촀 !
+('촀\0Si la poste ne fait plus son travail
+correctement, où va-t-on, je te le
+demande !
+(촀\0Je vais devoir assurer la livraison
+moi-même,
+\0 tu te rends compte ?"
+"003_a","Je peux le faire, moi !"
+"003_b","(\0촀\0Tu survivras..."
+"004","( 촀\0Tu ferais ça pour moi, vraiment ?
+\0
+(촀\0Je t'en serais très reconnaissante !\0\0(
+촀\0Bien entendu,
+\0 j'irai tout de même
+présenter mes excuses en personne
+par la suite.
+(9촀\0Je connais les bonnes manières,
+moi.
+\0('촀\0 Tout le monde n'a pas eu une
+aussi bonne éducation."
+"005","( 촀\0Vraiment ?
+\0 Tu me rendrais un grand
+service, tu sais.\0\0('촀\0Je ne voudrais pas qu'2촀ilelle\0 se mette
+à chercher son objet partout,
+\0 (촀\0sans
+se douter que c'est moi qui l'ai.
+(%촀\0Tiens, je te le confie. 
+\0Merci !"
+"006","(&촀\0Es-tu sûr2\0e que ça ne te pose pas
+de problème ?
+\0((6촀\0 Dans ce cas, voici
+le colis à lui remettre."
+"007","(촀\0Tu as probablement raison,
+\0 où sont
+passées mes manières ?\0\0(촀\0Merci de m'avoir rappelé cette
+évidence, n\0."
+"008","(촀\0C'est vrain\0\0
+\0 Les règles de vie en
+société imposent effectivement que
+je m'en occupe moi-même.
+(%촀\0Ne t'inquiète pas,
+\0 j'irai."
+"009","(	촀\0Oh !
+\0 Je ne comprends pas que cela
+ne te scandalise pas !\0\0(
+촀\0Cependant, l'essentiel est que ce
+colis parvienne à s촀.
+\0
+((촀\0J'irai donc le lui porter."
+"101","(&촀\0Aurais-tu une minute à m'accorder ?
+\0
+()촀\0En faisant les boutiques récemment,
+\0
+j'ai déniché (촀\0une petite merveille !
+(촀\0Elle n'est pas pour moi, non,
+
+\0mais(촀\0 pour s촀 !\0\0(
+촀\0Je suis cependant gênée d'offrir
+un cadeau sans raison particulièren\0\0
+
+\0Veux-tu bien le lui livrer pour moi ?"
+"101_a","Compte sur moi !"
+"101_b","Non, impossible."
+"102","(촀\0Oh, 2cher
+chère n\0 !
+\0
+(촀\0J'ai terriblement besoin de ton aide !\0\0(촀\0Vois-tu, s촀 et moi
+avons eu une petite dispute.\0\0(촀\0Ce n'est pourtant pas ma faute !
+
+\0(\0촀\0Mais d'après 2촀luielle\0,(촀\0 j'ai dit quelque
+chose de méchant.
+(촀\0Je tiens à me réconcilier avec 2촀luielle\0,
+aussi lui ai-je acheté un cadeau.
+\0
+(촀\0Hélas, je n'ose aller le lui apportern\0\0
+(&촀\0Crois-tu que tu pourrais me rendre
+ce service ?
+\0(8촀\0 Je t'en serais à jamais
+reconnaissante !"
+"102_a","Si tu veux."
+"102_b","Débrouille-toi !"
+"103","(촀\0Oh, merci n\0 !
+\0
+(촀\0Tu m'es d'un grand secours.
+\0
+(\0촀\0Tiens, voilà le paquet !"
+"104","(촀\0Merci, tu m'ôtes un grand poids.
+\0
+(촀\0Je suis navrée de me reposer sur toi,
+et je te remercie d'avance."
+"105","(촀\0Oh, je voisn\0\0
+\0(촀\0 Eh bien, je vais prendre
+mon courage à deux pattesn"
+"106","(촀\0C'est dur, mais c'est juste.
+\0('촀\0 Tu n'as
+rien à voir là-dedans, après tout.\0\0(촀\0Merci de m'avoir rappelé les bonnes
+manières, n\0."
+"108","(8촀\0Si c'est possible, je voudrais que
+tu t'en occupes dans la journée.
+\0
+(%촀\0Merci d'avance, n\0."
+"109","(
+촀\0La journée étant déjà bien avancée,
+je te donne jusqu'à demain.
+\0(%촀\0 Je sais
+que tu trouveras le temps."
+"201","(1촀\0Je me demande si s촀
+se souvient qu'2촀ilelle\0 m'a prêté
+quelque chosen\0\0
+(촀\0Mais c'est sans importance.
+\0(촀\0 Ce qui
+compte, c'est que tu aies accepté
+de lui rapporter.
+\0 Merci d'avance !"
+"202","(1촀\0Je me demande si s촀
+s'est rendu compte qu'2촀ilelle\0 avait
+oublié quelque chose chez moin\0\0
+(촀\0Il vaut mieux que tu le lui rapportes
+rapidement !"
+"203","(%촀\0s촀 doit se demander
+où est son colis.
+\0(&촀\0 Pourrais-tu
+le lui apporter rapidement ?"
+"204","(촀\0N'oublie pas d'aller apporter
+mon cadeau à s촀.
+\0
+(촀\0Oh, j'espère qu'il lui plairan"
+"205","(촀\0s촀 doit être très en
+colère contre moi.
+\0(촀\0 Apporte-lui
+vite mon cadeau d'excuses !"

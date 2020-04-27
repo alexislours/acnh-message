@@ -1,0 +1,226 @@
+﻿"label","text"
+"001","(%촀\0Si tu as un peu de temps devant toi,
+\0
+($촀\0je te propose de faire une petite
+chasse au trésor."
+"001_a","Je suis partant2\0e."
+"001_b","Je suis occupé2\0e."
+"002","( 촀\0Je reconnaitrais ce regard entre
+mille.
+\0($촀\0 Toi, tu as envie de faire
+une chasse au trésor !"
+"002_a","Quand tu veux !"
+"002_b","Euh, non..."
+"003","($촀\0Je ferais bien une petite chasse
+au trésor !
+\0 Qu'est-ce que tu en
+dis, 2(mon chérima chérie ?"
+"003_a","Compte sur moi !"
+"003_b","La prochaine fois..."
+"004","(촀\0Parfait ! 
+\0Merci !
+\0()촀\0 Il ne me reste plus
+qu'à aller enterrer le trésor quelque
+part sur l'îlen\0\0 Ne bouge pas."
+"005","(촀\0Je peux toujours compter sur toi !
+\0
+()촀\0Attends-moi ici,
+\0 je vais enterrer le
+trésor quelque part sur l'île."
+"006","(촀\0Hi hi, on va s'amuser ! 
+\0Attends-moi
+ici, 
+\0(""촀\0il faut juste que j'aille enterrer le
+trésor quelque part sur l'île."
+"007","(촀\0Nom d'2\0n\0 ! 
+\0Tu as vu
+l'heure ?
+\0 ('촀\0On n'y voit plus rien,
+\0 je
+crois qu'il va falloir remettre ça."
+"008","(촀\0Bien sûr, je comprendsn\0\0 (\0촀\0On fera
+cette chasse au trésor une autre
+fois."
+"009","(8촀\0C'est vraiment dommagen\0\0
+\0 (\0촀\0Mais je
+comprends,
+\0 (촀\0tu n'es pas à ma
+disposition, tout de même !"
+"010","( 촀\0Je comprendsn\0\0(\0촀\0 
+\0Il y aura d'autres
+occasions. 
+\0(촀\0Tu finiras bien par
+acceptern"
+"011","(촀\0Voilà les règles du jeu.
+\0
+x\0\0\0(촀\0J'ai caché un trésor sur l'île.
+\0 Si tu le
+trouves dans le temps imparti, 
+\0c'est
+gagné !
+\0 Sinon, c'est moi qui gagne.
+´\0
+(%촀\0Je l'ai enterré dehors,
+\0 pas la peine
+de rentrer chez qui que ce soit.
+\0
+(""촀\0On y va ?
+ð"
+"011_01","(촀\0C'est très simplen\0\0
+\0
+(\0\0\0(촀\0J'ai caché un trésor sur l'île.
+\0 Si tu le
+trouves dans le temps imparti, c'est
+gagné !
+x\0
+(%촀\0Je l'ai enterré.
+\0 Ce qui veut dire qu'il
+est caché en extérieur.
+Z\0\0\0(9촀\0Et je joue avec toi et toi seul2\0e, OK ?
+\0(
+($촀\0Les autres n'ont pas le droit de
+t'aider.
+x\0
+(""촀\0C'est à peu près tout.
+\0
+ On y va,
+n\0 ?
+<"
+"012","(촀\0Très bien, mon chou.
+\0 Je vais
+t'expliquer rapidement les règles
+du jeu.
+\0
+x\0\0\0(%촀\0J'ai enterré un trésor sur l'île.
+\0 ()촀\0Si tu
+le trouves avant la fin du chrono,
+\0
+tu as gagné.
+\0 Sinon,
+\0 j'ai gagné !
+´\0
+(6촀\0Je te préviens, tu n'auras pas
+beaucoup de tempsn\0\0
+\0 (""촀\0C'est parti,
+\0
+que 2lela 2&meilleurmeilleure gagne !
+ð"
+"012_01","(촀\0Bien.
+\0
+ Tu vas voir, c'est très simple.
+2\0\0\0(%촀\0J'ai caché un trésor sur l'île.
+\0 ()촀\0Si tu
+le trouves dans le temps imparti,
+\0
+c'est gagné !
+x\0
+(6촀\0Tu auras moins de temps cette fois,
+\0
+
+histoire de corser un peu les choses.
+´\0\0\0($촀\0Et cela va sans dire :
+\0
+ c'est notre petit
+jeu à nous.
+\0 
+\0
+(9촀\0Les autres n'ont pas le
+droit de t'aider.
+\0
+(""촀\0Je crois que c'est tout.
+\0
+ On y va,
+n\0 ?
+<"
+"013","(&촀\0Tu te souviens des règles du jeu ?"
+"013_a","('촀\0Hmm, pas vraiment..."
+"013_b","(%촀\0Oui, m'dame !"
+"014","(촀\0Je vois que j'ai affaire à un2\0e pro !
+\0
+(""촀\0Je déclare cette chasse au trésorn\0\0 ouverte !
+x"
+"014_01","(%촀\0Je vois que j'ai affaire à un2\0e pro !
+\0
+($촀\0Tes amis n'ont pas le droit de
+t'aider, OK ?
+x\0
+(""촀\0Je déclare cette chasse au trésorn\0\0 ouverte !
+<"
+"015","(%촀\0Parfait.
+\0 (9촀\0J'ai décidé de corser les
+choses,
+\0 tu auras moins de temps
+que d'habitude.
+\0
+(""촀\0Allez, 
+\0bonne chance à toi !
+<"
+"015_01","(%촀\0Parfait.
+\0 Fais attention, il y a une
+difficulté supplémentaire.
+\0 Tu auras
+moins de temps cette fois.
+\0
+x\0
+(9촀\0Une dernière chose : 
+\0tes amis
+n'auront pas le droit de t'aider.
+(""촀\0Allez, 
+\0bonne chance à toi !
+"
+"101","(촀\0Dis,
+\0 si tu as un moment,
+\0 (""촀\0ça te dirait
+de faire une chasse au trésor avec
+moi ?"
+"101_a","Bonne idée !"
+"101_b","Ça tombe mal..."
+"102","( 촀\0Oh !
+\0 2\0n\0 !
+\0(
+(촀\0Tu tombes bien.\0\0(&촀\0Quelque chose me dit que tu as
+envie de t'amuser, aujourd'hui.\0\0(""촀\0Je voulais justement faire une
+chasse au trésorn\0\0 
+\0(촀\0On joue
+ensemble ?"
+"102_a","Avec plaisir."
+"102_b","Je peux pas, désolé2\0e."
+"103","( 촀\0Je n'avais pas vu l'heure !
+\0 (\0촀\0Il va
+falloir annuler.
+\0 (6촀\0Désolée de t'avoir
+vendu du rêve, n\0n"
+"104","(촀\0Parfait !
+\0 Merci, 
+\0n\0 !
+\0(
+(촀\0Je vais aller cacher le trésor !"
+"105","( 촀\0Tu as à faire,
+\0 mon chou ?
+\0 (\0촀\0Je vois,
+\0
+(촀\0on fera ça quand le gros rush sera
+passé, n\0."
+"106","( 촀\0Ma parole, j'ai perdu toute notion
+du temps ?\0\0(\0촀\0Pas question de te laisser chercher
+ce trésor en pleine nuit,
+\0 n\0n\0\0 (촀\0C'est annulé."
+"107","(촀\0Je savais que tu serais partant2\0e.
+\0(촀\0\0\0()촀\0Je vais aller enterrer le trésor
+quelque partn\0\0
+\0 (촀\0Toi, tu m'attends
+sagement sur la place, n\0."
+"108","( 촀\0Oh !
+\0 Je vois. 
+\0((%촀\0Ne t'en fais pas.
+\0(
+(\0촀\0Ce ne sont pas les occasions
+qui manquent, n\0 !"
+"200","(촀\0J'ai vraiment cherché partout, 
+\0mais
+je n'ai pas trouvé un seul endroit où
+cacher le trésor.
+(촀\0Je suis navrée de t'avoir fait
+attendre pour rienn\0\0
+\0 (촀\0Je me sens
+si bête, n\0."

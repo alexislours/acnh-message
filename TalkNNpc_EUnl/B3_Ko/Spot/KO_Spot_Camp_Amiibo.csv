@@ -1,0 +1,113 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hallo, met s촀.
+\0( Ik ben aan het inpakken en kan niet praten.
+\0( Probeer het later nog eens!\0￿d"
+"001_02","d\0\0Met de automatische antwoorddienst van s촀.
+\0( Grapje. Ik weet niet eens wat dat is.\0￿d"
+"001_03","d\0\0Je spreekt met s촀. Nou ja, je belt me. Je spreekt niet met me, want ik pak mijn boeltje in.\0￿d"
+"001_04","d\0\0Met de mobilofoonn\0\0 bomilofoonn\0\0 het mobieltje van s촀. Ik verhuis nu en kan niet opnemen.\0￿d"
+"102","<"
+"102_01","(촀\0Hé? Kamperen?
+\0((촀\0 Dat is een goed
+idee.
+\0( Bedankt voor het idee! Ik heb
+wel even tijd, n\0."
+"102_02","(촀\0Of ik naar een kampeerplek wil gaan?
+\0(
+(%촀\0Ja, hoor.
+\0(촀\0 Tegen jou kan ik geen nee
+zeggen, n\0!"
+"102_03","(%촀\0Hmmmn\0\0
+\0 of ik wil kamperenn\0\0
+\0( (촀\0Ja,
+hoor! Ik zat net te denken dat ik jou
+al lang niet heb gezien, n\0."
+"102_04","( 촀\0De kampeerplek? 
+\0(촀\0Ja!
+\0((\0촀\0 Daar wil ik best
+heen gaan. (""촀\0Ik kom eraan; zorg dat je
+er klaar voor bent, n\0!"
+"202","<"
+"202_01","( 촀\0Of ik naar de \0kampeerplek \0￿op je
+eiland wil komen?
+\0( (촀\0Tuurlijk! Lijkt me
+leuk, n\0."
+"202_02","(촀\0Naar de \0kampeerplek\0￿?
+\0( (7촀\0Het komt wat
+plotseling, maarn\0\0
+\0( (촀\0waarom niet?
+\0 Mijn
+agenda is nog leeg, n\0."
+"202_03","(%촀\0Oké. 
+\0Je wilt dat ik naar je
+kampeerplek ga.
+\0( (\0촀\0Goed idee! Hou je
+vast, ik kom eraan, (촀\0n\0!"
+"202_04","(촀\0O. Of ik op je eiland wil kamperen?
+\0(
+(""촀\0Jofel idee! 
+\0((\0촀\0Okén\0\0 (7촀\0Tijd om een tent
+op te zetten, n\0!"
+"301","<"
+"301_01","Hallo, dit is 
+\0n
+\0n\0\0
+\0( ( 촀\0Hè? 2\0n\0?
+\0( (\0촀\0Waarom (&촀\0bel je me?"
+"301_02","Hallo, n
+\0 hier.
+\0( ( 촀\0Wachtn\0\0 
+\0n\0?
+\0( (\0촀\0Waarom (&촀\0bel jij me op?"
+"301_03","Hallo, met n
+\0.
+\0( (촀\0Goh, n\0!
+\0( Wat kan ik voor je doen?"
+"301_04","Hallo. Met n
+\0.
+\0( ( 촀\0O! Hoe gaat het, n\0?
+\0( (\0촀\0Je belt, dus er is vast iets aan de hand."
+"302","<"
+"302_01","(촀\0Hè? Kan ik op dit eiland kamperen?
+\0(
+(
+촀\0Slapen in een tent is leuk,
+\0 ('촀\0maar toch
+doe ik het liever niet.
+(촀\0Want denk je niet dat de \0kampeerplek
+\0￿geschikter is voor lui die ons eiland
+willen bezoeken, n\0?"
+"302_02","(촀\0Wacht eens evenn\0\0
+\0 Ik? Kamperen op de kampeerplek van n	\0?!\0\0(
+촀\0Het lijkt me leuker om op een ander
+eiland te kamperenn\0\0
+\0 (7촀\0Sorry, maar ik
+pas, n\0."
+"302_03","( 촀\0Kamperen op n	\0?
+\0 (촀\0Interessant idee.
+\0((\0촀\0 Het lijkt me wel wat, ('촀\0maar ik denk toch dat ik pas.\0\0()촀\0Ik kampeer graag als ik ook dingen
+kan ontdekken, (촀\0maar dit eiland ken ik
+al te goed, n\0."
+"302_04","Bedankt voor de uitnodiging, 
+\0(촀\0maar ik
+heb geen interesse in kamperen op
+dit eiland.
+(촀\0Daarbij loop je totaal geen risico!\0\0(촀\0Gaat er iets mis? Boem! Ren je
+gewoon naar huis!(\0촀\0 Nee, hoor. Dat is
+veel te makkelijk.\0\0(%촀\0En als het aan mij ligt, is er niks makkelijk aan kamperen, n\0."
+"401","<"
+"401_01","(촀\0Hallo hallo. Met n
+\0.
+\0( Wat kan ik voor je doen?"
+"401_02","(촀\0Hallo, met n
+\0.
+\0( Bedankt voor het bellen, maarn\0\0 ehn\0\0
+\02($촀\0 wat moet je van me?"
+"401_03","Ha, met n
+\0. (7촀\0Leuk om gebeld te wordenn\0\0
+\02(\0촀\0 Volgens mij wil je me iets vragen.(&촀\0 Heb ik gelijk?"
+"401_04","(촀\0Hoi, met n
+\0.
+\0((\0촀\0 Leuk om zomaar gebeld te worden.
+\0(&촀\0 Wat kan ik voor je doen?"

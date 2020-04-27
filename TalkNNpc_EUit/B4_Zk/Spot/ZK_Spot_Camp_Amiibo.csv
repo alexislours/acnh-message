@@ -1,0 +1,126 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hola! 
+\0In questo momento non sono
+disponibile: sono troppo impegnato
+a impacchettare gel e vestiti attillati.\0￿d"
+"001_02","d\0\0Hola! 
+\0In questo momento mi sto
+preparando a cambiare aria (e isola)
+e non posso parlare!\0￿d"
+"001_03","d\0\0Risponde il servizio di segreteria
+di s촀.\0\0Al momento non sono raggiungibile causa trasloco. Siete pregati di
+richiamare più tardi.\0￿d"
+"001_04","d\0\0Grazie per la chiamata, al momento
+non posso rispondere.\0\0
+\0Siete pregati di richiamare quando
+avrò completato il trasloco,
+n\0!\0￿d"
+"102","<"
+"102_01","(촀\0Sorbole! 
+\0Mi vuoi invitare alla
+tua \0area per campeggio\0￿?
+\0(2촀\0
+Es meravilloso!\0\0(%촀\0Dammi solo un paio di minuti, mi
+metto il gel e sono pronto!"
+"102_02","(촀\0Sorbole! 
+\0Un invito exclusivo para
+l'\0area per campeggio\0￿.
+\0 Che onoren\0\0
+Accetto, certo che accetto!
+(5촀\0Metto il gel e i vestiti in valigia
+e arrivo."
+"102_03","(
+촀\0L'\0area per campeggio\0￿ è sulla bocca di tutti. 2\02\0 n	\0 non si parla d'altron\0\0(%촀\0 OK, accetto!
+(촀\0Ho già in mente un completo da
+campeggio che è una vera bomba,
+n\0!"
+"102_04","(촀\0Come dici?
+\0 All'\0area per campeggio\0￿?
+\0 Oggi?
+\0 2\02\0 n	\0? 
+\0E sarà fantastico?\0\0(촀\0Uaun\0\0 che sorpresa. (%촀\0OK. Metto tutta la mia roba in valigia e parto.
+\0((6촀\0 Beh, non tutta, non ci starebbe!"
+"202","<"
+"202_01","( 촀\0Come? Un invito esclusivo per l'\0area
+per campeggio\0￿?
+\0((:촀\0 Ci devo pensare
+un momentito o due.\0\0(7촀\0Un po' di avventura ogni tanto fa
+benen\0\0
+\0((촀\0 OK, accetto! Parto appena
+si è asciugato il gel, n\0!"
+"202_02","(촀\0Ah, capisco. Un invito per l'\0area per
+campeggio\0￿, la zona più esclusiva di
+n	\0.\0\0(
+촀\0Fammi controllare l'agendan\0\0
+\0
+(%촀\0Muy bien! Sono libero! Parto subito,
+n\0!"
+"202_03","(%촀\0Muy bien!
+\0 Vuoi che vada all'\0area per campeggio\0￿ di n	\0, verdad?\0\0(촀\0Bueno, preparati: sto arrivando!
+\0(
+(2촀\0Non vedo l'ora di conoscerti
+di persona."
+"202_04","(촀\0Come?!
+\0(4촀\0 Devo venire all'\0area per
+campeggio\0￿ di n	\0?\0\0(%촀\0Ma certo! Mi metto una camicia
+attillata e parton\0\0
+\0((촀\0 sarò lì a breve,
+n\0!"
+"301","<"
+"301_01","(""촀\0Hola, qui è n
+\0.
+\0((촀\0 Ti
+riconoscon\0\0 sei n\0?
+\0(
+($촀\0Como estàs, n\0?"
+"301_02","(""촀\0Holaaa! Sono n
+\0!
+\0(
+( 촀\0Oh, ciao n\0!
+\0(
+(&촀\0Cosa mi racconti?"
+"301_03","(""촀\0Hola! Sono n
+\0.
+\0(
+(촀\0Oh, ehi, n\0.
+\0((&촀\0 2
+Amigo
+Amiga, que pasa?"
+"301_04","( 촀\0Hola, n\0! Che piacere sentirti.(촀\0
+\0(($촀\0 Novità, n\0?"
+"302","<"
+"302_01","(촀\0Eh?
+\0 L'\0area per campeggio\0￿?
+(촀\0Ti ringrazio per l'invito, ma no
+puede accettaren\0\0\0\0(%촀\0Io vivo già 2\0 n\0 e l'\0area per campeggio\0￿ è riservata agli ospiti, n\0."
+"302_02","(촀\0Cosa?
+\0( Vuoi che vada all'\0area per
+campeggio\0￿? ('촀\0No se puede proprio!\0\0(6촀\0L'\0area per campeggio\0￿ è per gli ospiti
+(:촀\0e io sono tutto fuorché un ospite qui
+2\0 n\0. "
+"302_03","(%촀\0OK, capisco. Vuoi che ti faccia un po'
+di compagnia,(9촀\0 ma l'\0area per
+campeggio\0￿ è riservata agli ospitin\0\0\0\0(%촀\0Le regole sono regole. Comunque
+gracias per avermi contattato, (2촀\0mi ha
+fatto molto piacere, n\0!"
+"302_04","(촀\0Fammi capiren\0\0
+\0(&촀\0 Mi hai invitato
+all'\0area per campeggio\0￿ dell'isola
+su cui vivo?\0\0(
+촀\0Che 2 burloneburlona!
+\0(%촀\0 Lo sai benissimo
+che quell'area è riservata agli ospiti,
+n\0."
+"401","<"
+"401_01","(""촀\0Hola, sono n
+\0.
+\0( ($촀\0Come va, n\0?"
+"401_02","(""촀\0Hola, sono n
+\0.
+\0( ($촀\0Gracias por la chiamata! Cosa mi racconti, n\0?"
+"401_03","(""촀\0Hola, n
+\0 qui! Tutto OK, n\0?"
+"401_04","(촀\0Hola, parla n
+\0. Grazie per la chiamata!
+\0(($촀\0 Come posso aiutarti, n\0?"

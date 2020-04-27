@@ -1,0 +1,453 @@
+﻿"label","text"
+"001","(촀\0Hello there, n\0!"
+"001_00","(촀\0Oh, n\0! By the wayn"
+"001_01","(촀\0Congratulations on your new home!"
+"001_10","I have something I would like to chat
+aboutn\0\0
+\0(4촀\0if you have a moment, that is.\0\0(:촀\0It is a bit of a proposal, so if now's
+not a good time, I understand
+completely. 
+\0(촀\0No pressure!"
+"001_10_a","Sure!"
+"001_10_b","I'm a little busy..."
+"002","(%촀\0Of course.
+\0 Not a problem at all.
+\0
+(촀\0Just let me know when you have
+a spare moment or two!(촀"
+"002_01","(촀\0Now then, 
+\0how can I help you today?"
+"002_01_a","I want to sell!"
+"002_01_b","What's for sale?"
+"002_01_c","I'm ready to chat!"
+"002_01_d","See you later."
+"002_02","(%촀\0Ah, certainly.
+\0( (6촀\0Happy to talk about
+it when the time is right for you.(촀"
+"010","(촀\0Ah, good to see you again,
+n\0.\0\0(4촀\0Before we get started, I did want to
+give you the tiniest reminder about
+my proposaln\0\0
+(%촀\0Please let me know when it would
+be convenient for you to discuss."
+"010_a","Yeah, now's good!"
+"010_b","(\0촁\0Some other time..."
+"011","(촀\0How can I help you?"
+"011_a","I want to sell!"
+"011_b","What's for sale?"
+"011_c","I'm ready to chat!"
+"011_d","See you later."
+"012_01","(촀\0Very good! 
+\0I'll get right to the point.\0\0(4촀\0I'm hoping that you might be
+interested in collaborating on a
+new venture—
+\0(!촀\0building a new \0shop\0￿!
+()촀\0After all, our little island community
+is growing, and our needs are
+growing too.
+(1촀\0I'd love to offer a much wider
+inventory of goods, but as you
+can see, I am a bit limited in here.
+(5촀\0I've already spoken with our
+fearless leader, of course, and
+he agrees that we have a need."
+"012_02","(촀\0Ah, but here's the thingn\0\0
+\0 Building
+materials are hard to get. So can we
+set them aside for building a shop?
+(
+촀\0I really don't see it, since we'll need
+those materials for residential
+projectsn\0\0 But I have an idea.
+(%촀\0Yes, yes! You could gather up
+materials from around the island,
+right? From the trees and rocks?
+(촀\0Our environmental review even
+suggests that there will be zero
+impact to native flora or fauna!
+(#촀\0Ah, but I'm getting offtrackn\0\0\0\0(%촀\0We'll need a lot of materials for a
+proper shop. And we will of course
+offer compensation for your efforts."
+"012_02_a","((촁\0OK."
+"012_02_b","OK, I'll help."
+"012_03","
+\0((촀\0Thank you so much!"
+"012_04","()촀\0Now, I know this is a lot, but I put
+together a list of the items I'd like
+you to gather.
+(1촀\0We'll need \030 \0￿pieces each of regular
+\02\0Ѐ촃wood\0￿, \02\0Ѐ촃hardwood\0￿, and \02\0Ѐ촃softwood\0￿n\0\0
+\0
+Andn\0\0
+\0(촀\0\030 2\0Ѐ촃iron nuggets\0￿!\0\0(\0촀\0(촀\0I'm not concerned about where these
+materials come from. 
+\0They could
+come from this island or any other!\0\0()촀\0And you can gather these materials
+at your own pace.
+\0(촀\0 Once you have
+a set of something, come see me!"
+"013","(촀\0Welcome, n\0!
+\0
+(\0촀\0How can I help you today?"
+"013_a","\0About building a shop.\0￿"
+"013_b","I want to sell!"
+"013_c","What's for sale?"
+"013_d","See you later."
+"014","(촀\0How can I help you?"
+"014_a","\0About building a shop.\0￿"
+"014_b","I want to sell!"
+"014_c","What's for sale?"
+"014_d","See you later."
+"015","(촀\0Right now we're asking residents
+for their help in donating the
+materials we need to build a shop!"
+"015_a","I'd like to donate!"
+"015_b","What do you need?"
+"015_c","Got it."
+"023","(촀\0I can't wait to see where you decide
+to put our new shop!\0\0(촀\0Remember, once you find a place,
+please put up the \02\0Ā촃shop construction kit\0￿ I gave you."
+"024","(촀\02\0n\0!\0\0(촀\0You put up the \02\0Ā촃shop construction kit\0￿!\0\0(촀\0We've got our work cut out for us if
+we're going to open by tomorrow,
+but I can't wait!"
+"051","(촀\0Oh, you'll make a donation?
+\0 (촀\0Thank
+you so much for helping us!"
+"052_01","(
+촀\0We already received some donations,
+so
+\0(촀\0 right now we need \030\0￿ pieces of
+\02\0Ѐ촃wood\0￿n\0\0 (\0촀\0(&촀\0Can I ask you for that?"
+"052_01_a","These are for you!"
+"052_01_b","Not right now..."
+"052_02","(
+촀\0We already received some donations,
+so
+\0(촀\0 right now we need \030\0￿ pieces of
+\02\0Ѐ촃hardwood\0￿n\0\0 (\0촀\0
+\0(&촀\0Can you donate that?"
+"052_02_a","These are for you!"
+"052_02_b","Not right now..."
+"052_03","(
+촀\0We already received some donations,
+so
+\0(촀\0 right now we need \030\0￿ pieces of
+\02\0Ѐ촃softwood\0￿n\0\0 (\0촀\0
+\0(&촀\0Can you donate that?"
+"052_03_a","These are for you!"
+"052_03_b","Not right now..."
+"052_04","(
+촀\0We already received some donations,
+so
+\0(촀\0 we need \030\0￿ \02\0Ѐ촃iron nuggets\0￿n\0\0(\0촀\0
+\0(&촀\0 Can
+you handle that?"
+"052_04_a","These are for you!"
+"052_04_b","Not right now..."
+"053_01","(\0촀\0We already received some of the
+necessary donations, so we only
+need
+\0 (촀\0\030\0￿ pieces of \02\0Ѐ촃wood\0￿ now!"
+"053_02","(\0촀\0We already received some of the
+necessary donations, so we only
+need
+\0 (촀\0\030\0￿ pieces of \02\0Ѐ촃hardwood\0￿ now!"
+"053_03","(\0촀\0We already received some of the
+necessary donations, so we only
+need
+\0 (촀\0\030\0￿ pieces of \02\0Ѐ촃softwood\0￿ now!"
+"053_04","(\0촀\0We already received some of the
+necessary donations, so we only
+need
+\0 (촀\0\030\0￿ \02\0Ѐ촃iron nuggets\0￿ now!"
+"053_05","()촀\0We'd like to receive donations in the
+exact amount needed, just to help
+keep things organized.
+(촀\0So when you've gathered up enough
+of something we need, please stop
+by to donate to our wonderful cause!"
+"054","(%촀\0That's fine!
+\0 There's no pressure. Just(촀\0
+feel free to donate whatever you can
+whenever you want."
+"055","(촀\0Oh my goodness! 
+\0(촀\0This means we
+have everything we need to get
+started on our shop!"
+"056_01","(촀\0As a thank-youn\0\0
+\0please take 2\0
+}\0\0,
+\0 2\0
+}\0, andn\0\0\0\02\0}\0!"
+"056_02","(촀\0As a thank-youn\0\0please have 2\0
+}\0\0 and
+\0
+2\0}\0!"
+"056_03","(촀\0As a thank-youn\0\0
+\0 Please have 2\0
+}\0\0!"
+"056_04","(4촀\0And because you helped gather what
+we need to start construction on the
+shop, we want you to have the honor.
+What is this honor, you ask?"
+"057","(4촀\0One more thingn\0\0
+\0 Since we have all
+the materials we need and can start
+construction on the shopn"
+"058_01","(촀\0We'd like you, a key figure in making
+this happen, to pick out the perfect
+location for the new shop!"
+"058_02","(촀\0Place that \02\0Ā촃shop construction kit
+\0￿wherever you like, and we'll get
+started on construction.\0\0(촀\0I'm so excited to see the location
+you pick for us!"
+"061","(
+촀\0Let's see. You brought inn\0\0
+\0(촀\0 Oh my!
+You brought in everything we need!
+All at once!\0\0(&촀\0Are you really going to provide all
+four kinds of materials right now?"
+"061_a","These are for you!"
+"061_b","Not right now..."
+"062","(
+촀\0OK, you brought inn\0\0
+\0(촀\0
+\0 My goodness!
+You brought in the rest of what
+we need!\0\0(&촀\0Are you really going to donate all the
+remaining materials?"
+"062_a","These are for you!"
+"062_b","Not right now..."
+"071_01","(촀\0Right now we're asking for three
+kinds of donations:
+\0\0(%촀\0\0￿ \02\0Ѐ촃hardwood\0￿,
+\02\0Ѐ촃softwood\0￿, and($촀\0 \02\0Ѐ촃iron nuggets\0￿."
+"071_02","(촀\0Right now we're asking for three
+kinds of donations:
+\0\0(%촀\0\0￿ \02\0Ѐ촃wood\0￿, \02\0Ѐ촃softwood\0￿,
+($촀\0and \02\0Ѐ촃iron nuggets\0￿."
+"071_03","(촀\0Right now we're asking for three
+kinds of donations:
+\0\0(%촀\0\0￿ \02\0Ѐ촃wood\0￿, \02\0Ѐ촃hardwood\0￿,
+($촀\0and \02\0Ѐ촃iron nuggets\0￿."
+"071_04","(촀\0Right now we're asking for three
+kinds of donations:
+\0\0(%촀\0\0￿ \02\0Ѐ촃hardwood\0￿,
+\02\0Ѐ촃softwood\0￿, ($촀\0and regular \02\0Ѐ촃wood\0￿!"
+"072_01","(촀\0Right now we're asking for two kinds
+of donations:
+\0($촀\0 \02\0Ѐ촃wood\0￿ and \02\0Ѐ촃hardwood\0￿."
+"072_02","(촀\0Right now we're asking for two kinds
+of donations:
+\0($촀\0 \02\0Ѐ촃wood\0￿ and \02\0Ѐ촃softwood\0￿."
+"072_03","(촀\0Right now we're asking for two kinds
+of donations:
+\0($촀\0 \02\0Ѐ촃wood\0￿ and \02\0Ѐ촃iron nuggets\0￿."
+"072_04","(촀\0Right now we're asking for two
+kinds of donations:
+\0($촀\0 \02\0Ѐ촃hardwood
+\0￿and \02\0Ѐ촃softwood\0￿."
+"072_05","(촀\0Right now we're asking for two
+kinds of donations:
+\0($촀\0 \02\0Ѐ촃hardwood
+\0￿and \02\0Ѐ촃iron nuggets\0￿."
+"072_06","(촀\0Right now we're asking for two
+kinds of donations:
+\0\0($촀\0\0￿ \02\0Ѐ촃softwood
+\0￿and \02\0Ѐ촃iron nuggets\0￿."
+"081_01","(촀\0It seems 
+\0you happen to be carrying
+some \02\0Ѐ촃wood\0￿.
+\0 Did you want to donate
+
+\0(&촀\0\030\0￿ pieces for the shop?"
+"081_01_a","These are for you!"
+"081_01_b","Not right now..."
+"081_02","(촀\0It seems you happen to be carrying
+some \02\0Ѐ촃hardwood\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ pieces for the shop?"
+"081_02_a","These are for you!"
+"081_02_b","Not right now..."
+"081_03","(촀\0It seems you happen to be carrying
+some \02\0Ѐ촃softwood\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ pieces for the shop?"
+"081_03_a","These are for you!"
+"081_03_b","Not right now..."
+"081_04","(촀\0It seems you happen to be carrying
+some \02\0Ѐ촃iron nuggets\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ of those for the shop?"
+"081_04_a","These are for you!"
+"081_04_b","Not right now..."
+"082_01","(촀\0It seems you're carrying some \02\0Ѐ촃wood\0￿
+and \02\0Ѐ촃hardwood\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ pieces of each?"
+"082_01_a","These are for you!"
+"082_01_b","Not right now..."
+"082_02","(촀\0It seems you're carrying some \02\0Ѐ촃wood\0￿
+and \02\0Ѐ촃softwood\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ pieces of each?"
+"082_02_a","These are for you!"
+"082_02_b","Not right now..."
+"082_03","(촀\0It seems you're carrying some \02\0Ѐ촃wood\0￿
+and \02\0Ѐ촃iron nuggets\0￿.
+\0 Did you want to
+donate 
+\0(&촀\0\030\0￿ of each now?"
+"082_03_a","These are for you!"
+"082_03_b","Not right now..."
+"082_04","(촀\0It seems you're carrying some
+\02\0Ѐ촃hardwood \0￿and \02\0Ѐ촃softwood\0￿.
+\0 Did you
+want to donate 
+\0(&촀\0\030\0￿ pieces of each?"
+"082_04_a","These are for you!"
+"082_04_b","Not right now..."
+"082_05","(촀\0It seems you're carrying some
+\02\0Ѐ촃hardwood \0￿and \02\0Ѐ촃iron nuggets\0￿.
+\0 Did you
+want to donate 
+\0(&촀\0\030\0￿ of each now?"
+"082_05_a","These are for you!"
+"082_05_b","Not right now..."
+"082_06","(촀\0It seems you're carrying some
+\02\0Ѐ촃softwood \0￿and \02\0Ѐ촃iron nuggets\0￿.
+\0 Did you
+want to donate 
+\0(&촀\0\030\0￿ of each now?"
+"082_06_a","These are for you!"
+"082_06_b","Not right now..."
+"083_01","(촀\0Right now, you have some \02\0Ѐ촃softwood\0￿,
+\02\0Ѐ촃hardwood\0￿, and \02\0Ѐ촃iron nuggets\0￿.
+\0 Do you
+want to donate 
+\0(&촀\0\030\0￿ of each?"
+"083_01_a","These are for you!"
+"083_01_b","Not right now..."
+"083_02","(촀\0Right now, you have some \02\0Ѐ촃softwood\0￿,
+\02\0Ѐ촃wood\0￿, and \02\0Ѐ촃iron nuggets\0￿.
+\0 Do you want
+to donate 
+\0(&촀\0\030\0￿ of each?"
+"083_02_a","These are for you!"
+"083_02_b","Not right now..."
+"083_03","(촀\0Right now, you have some \02\0Ѐ촃wood\0￿,
+\02\0Ѐ촃hardwood\0￿, and \02\0Ѐ촃iron nuggets\0￿.
+\0 Do you
+want to donate 
+\0(&촀\0\030\0￿ of each?"
+"083_03_a","These are for you!"
+"083_03_b","Not right now..."
+"083_04","(촀\0Right now, you have some \02\0Ѐ촃softwood\0￿,
+\02\0Ѐ촃wood\0￿, and \02\0Ѐ촃hardwood\0￿.
+\0 Do you want
+to donate 
+\0(&촀\0\030\0￿ of each?"
+"083_04_a","These are for you!"
+"083_04_b","Not right now..."
+"091","Ern\0\0
+\0(&촀\0 Huh?
+\0(\0촀\0 You don't seem to have
+what I need at the moment.\0\0(9촀\0In order to organize donations, we
+need the full amount of a material
+to be donated all at once.\0\0(7촀\0I realize I shouldn't be so picky when
+asking for donations, but I hope you
+understand where I'm coming from!"
+"092_01","(촀\0Thank you so much!
+\0 This brings us
+one step closer to building a shop."
+"092_02","(촀\0Thank you so much! Now we're
+halfway to our donation goals!"
+"092_03","(촀\0Thank you so much! We only need
+one last bit to reach our donation
+goals for building the shop."
+"093_01","(촀\0To thank you, 
+\0I'd like to offer you
+2\0\0}\0\0\0￿!"
+"093_02","(촀\0To thank you, let me offer you 2\0
+\0}\0\0\0￿ and
+2\0\0}\0\0￿."
+"093_03","(촀\0To thank you, let me offer you 2\0
+\0}\0\0\0￿, 2\0
+\0}\0\0￿, andn\0\0
+2\0\0}\0\0￿!"
+"094_01","(촀\0We'd love your cooperation in
+donating the remaining materials."
+"094_02","(촀\0We'd love your cooperation in
+donating the last type of material
+we need."
+"101","We need \0()촀\030\0￿ pieces each of \02\0Ѐ촃wood\0￿,
+\02\0Ѐ촃hardwood\0￿, and \02\0Ѐ촃softwood\0￿,
+\0(촀\0 as well as
+\030 2\0Ѐ촃iron nuggets\0￿ to build the shop."
+"102","(촀\0You don't need to bring in everything
+at once.\0\0()촀\0Once you have \030\0￿ pieces of any of
+the materials we need, I'd appreciate
+it if you could bring them in.(촀"
+"103_01","(
+촀\0Well, some of the materials we need
+have already been donated, so right
+now we're looking forn"
+"103_02_01","(촀\0\030\0￿ pieces each of \02\0Ѐ촃hardwood\0￿ and
+\02\0Ѐ촃softwood\0￿,
+\0 plus \030\0￿ \02\0Ѐ촃iron nuggets\0￿.
+\0
+Thank you in advance for your help!"
+"103_02_02","(촀\0\030\0￿ pieces each of \02\0Ѐ촃wood\0￿ and
+\02\0Ѐ촃softwood\0￿,
+\0 plus \030\0￿ \02\0Ѐ촃iron nuggets\0￿.
+\0
+Thank you in advance for your help!"
+"103_02_03","(촀\0\030\0￿ pieces each of \02\0Ѐ촃wood\0￿ and
+\02\0Ѐ촃hardwood\0￿,
+\0 plus \030\0￿ \02\0Ѐ촃iron nuggets\0￿.
+\0
+Thank you in advance for your help!"
+"103_02_04","(촀\0\030\0￿ pieces each of \02\0Ѐ촃wood\0￿, \02\0Ѐ촃hardwood\0￿,
+and \02\0Ѐ촃softwood\0￿.
+\0 Thank you in advance
+for your help!"
+"103_03_01","(촀\0\030\0￿ pieces each of \02\0Ѐ촃wood\0￿ and
+\02\0Ѐ촃hardwood\0￿.
+\0 Thank you in
+advance for your help!"
+"103_03_02","(촀\0\030\0￿ pieces each of \02\0Ѐ촃wood\0￿ and
+\02\0Ѐ촃softwood\0￿.
+\0 Thank you in
+advance for your help!"
+"103_03_03","(촀\0\030\0￿ pieces of \02\0Ѐ촃wood\0￿ as well as \030 2\0Ѐ촃iron nuggets\0￿.
+\0 Thank you in advance for
+your help!"
+"103_03_04","(촀\0\030\0￿ pieces each of \02\0Ѐ촃hardwood\0￿ and
+\02\0Ѐ촃softwood\0￿.
+\0 Thank you in advance for
+your help!"
+"103_03_05","(촀\0\030\0￿ pieces of \02\0Ѐ촃hardwood\0￿ as well as
+\030 2\0Ѐ촃iron nuggets\0￿.
+\0 Thank you in
+advance for your help!"
+"103_03_06","(촀\0\030\0￿ pieces of \02\0Ѐ촃softwood\0￿ as well as
+\030 2\0Ѐ촃iron nuggets\0￿.
+\0 Thank you in
+advance for your help!"
+"103_04_01","(촀\0\030\0￿ pieces of \02\0Ѐ촃wood\0￿.
+\0 Thank you in
+advance for your help!"
+"103_04_02","(촀\0\030\0￿ pieces of \02\0Ѐ촃hardwood\0￿.
+\0 Thank you in
+advance for your help!"
+"103_04_03","(촀\0\030\0￿ pieces of \02\0Ѐ촃softwood\0￿.
+\0 Thank you in
+advance for your help!"
+"103_04_04","(촀\0\030\0￿ \02\0Ѐ촃iron nuggets\0￿.
+\0 Thank you in
+advance for your help!"

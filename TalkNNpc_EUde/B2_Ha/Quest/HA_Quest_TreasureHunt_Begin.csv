@@ -1,0 +1,241 @@
+﻿"label","text"
+"001","(촀\0Hör mal, 
+\0n\0! 
+\0(\0촀\0Wenn du grad nichts Besseres zu tun hast, 
+\0(촀\0wie wär's mit einer Schatzsuche?(촀"
+"001_a","Ich bin dabei!"
+"001_b","Nicht jetzt..."
+"002","(촀\0Vorschlag: 
+\0(\0촀\0Schatzsuche. 
+\0((""촀\0Oder
+ausführlicher: 
+\0Willst du in einer
+Schatzsuche gegen mich antreten?"
+"002_a","Jaaa!"
+"002_b","Bin beschäftigt..."
+"003","(촀\0Oooh, 
+\0meine Hirnmuskulatur
+hat grad eine Idee ausgeflext!
+
+\0((\0촀\0Wir spielen Schatzsuche! 
+\0(촀\0Lust?"
+"003_a","Lust!"
+"003_b","Keine Lust."
+"004","(""촀\0Jawoll, 
+\0dann ziehen wir das durch!\0\0()촀\0Ich geh mal kurz den Schatz
+verstecken. 
+\0((촀\0Eine Sekunde!"
+"005","(촀\0Klasse, 
+\0dann ist es abgemacht!
+\0((%촀\0
+Zuerst muss ich das Ding verstecken,
+
+\0(""촀\0also warte kurz hier."
+"006","(촀\0Topp! 
+\0Die Wette gilt!
+\0((""촀\0 Dann verstecke
+ich mal fix das Objekt der Begierde,
+
+\0n\0."
+"007","(촀\0Huch, 
+\0war es eben auch schon so
+spät?!\0\0(촀\0Dann müssen wir das wohl
+verschieben. 
+\0(촀\0Nachts lässt es
+sich nicht gut Schätze suchen.(\0촀"
+"008","(촀\0Echt nicht?
+\0((촀\0 Na gut.
+\0
+Aber aufgehoben ist nicht
+aufgeschoben, 
+\0oder wie das heißt!"
+"009","( 촀\0Ach, 
+\0zur Hantel!
+\0(촀\0
+Dann ein andermal, 
+\0n\0."
+"010","(촀\0Schade, 
+\0schade. 
+\0((%촀\0Aber zu deinem
+Glück zwingen will ich dich heute
+mal nicht.
+\0((""촀\0 Nächstes Mal wieder!"
+"011","(%촀\0Okay, 
+\0die Regeln sind ganz einfach.
+x\0\0\0()촀\0Ich hab einen Schatz versteckt. 
+\0Du
+musst ihn innerhalb des Zeitlimits
+finden. 
+\0Dann hast du gewonnen.
+´\0\0\0(\0촀\0Er ist irgendwo draußen vergraben,
+
+\0('촀\0also brauchst du nicht in Häusern zu
+suchen. 
+\0(촀\0Auf die Plätze, 
+\0fertig, 
+\0los!
+´"
+"011_01","(%촀\0Okay, 
+\0die Regeln sind ganz einfach.
+´\0\0\0()촀\0Ich hab einen Schatz versteckt.
+\0
+Wenn du ihn innerhalb des Zeitlimits
+findest, 
+\0hast du gewonnen.
+´\0\0\0(\0촀\0Der Schatz ist irgendwo draußen
+versteckt, 
+\0('촀\0du musst also bei
+niemandem in die Bude platzen.
+´\0\0\0(9촀\0Ach, 
+\0noch was: 
+\0Das ist ein Duell
+nur zwischen uns beiden. 
+\0((""촀\0Zugucken
+und anfeuern darf natürlich, 
+\0wer will!
+´\0\0\0(촀\0Auf die Plätze, 
+\0fertig, 
+\0los!
+´"
+"012","(%촀\0Okay, 
+\0die Regeln sind ganz einfach.
+´\0\0\0()촀\0Ich hab einen Schatz versteckt. 
+\0Du
+musst ihn innerhalb des Zeitlimits
+finden. 
+\0Dann hast du gewonnen.
+´\0\0\0(\0촀\0Diesmal hast du nicht sehr viel
+Zeit, 
+\0also leg dich ins Zeug.
+
+\0(촀\0Auf die Plätze, 
+\0fertig, 
+\0los!
+´"
+"012_01","(%촀\0Okay, 
+\0die Regeln sind ganz einfach.
+´\0\0\0()촀\0Ich hab einen Schatz versteckt. 
+\0Du
+musst ihn innerhalb des Zeitlimits
+finden. 
+\0Dann hast du gewonnen.
+´\0\0\0(9촀\0Ach, 
+\0noch was: 
+\0Das ist ein Duell
+nur zwischen uns beiden. 
+\0((""촀\0Zugucken
+und anfeuern darf natürlich, 
+\0wer will!
+´\0\0\0(\0촀\0Diesmal hast du nicht sehr viel
+Zeit, 
+\0(6촀\0also leg dich ins Zeug.
+
+\0(촀\0Auf die Plätze, 
+\0fertig, 
+\0los!
+´"
+"013","(촀\0Zu allererstn\0\0 
+\0(&촀\0Soll ich die Regeln
+erklären, 
+\0n\0?"
+"013_a","Ja, bitte."
+"013_b","Nicht nötig."
+"014","(촀\0Dann legen wir doch einfach mal
+los, 
+\0n\0!
+´"
+"014_01","(촀\0Dannn\0\0
+\0 Ach, 
+\0eine Sache noch: 
+\0((\0촀\0Das
+ist ein Duell! 
+\0(Außer dir darf niemand
+sonst den Schatz ausbuddeln!
+´\0\0\0(촀\0Nun geht's aber wirklich endlich los,
+
+\0n\0!
+´"
+"015","(촀\0Diesmal ist das Zeitlimit besonders
+knapp bemessen. 
+\0(촀\0Du wirst schwitzen,
+\0
+wie du noch nie geschwitzt hast!
+´"
+"015_01","(촀\0Diesmal ist das Zeitlimit besonders
+knapp bemessen.
+´\0\0\0(촀\0Ach, 
+\0und noch was: 
+\0((\0촀\0Das ist ein Duell!
+
+\0(Außer dir darf niemand sonst den
+Schatz ausbuddeln!
+´\0\0\0(촀\0Dann geht's jetzt los, 
+\0n\0!
+´"
+"101","(촀\0Wenn du nichts Besseres zu tun
+hast, willst du mit mir Schatzsuche
+spielen, 
+\0n\0?"
+"101_a","Und wie!"
+"101_b","Tut mir leid..."
+"102","( 촀\0Hör mal zu, 
+\0n\0.\0\0(
+촀\0Wie kann selbst ein Amateur richtig
+Muskeln aufbauen? 
+\0()촀\0Diese Frage hab
+ich mir gestellt. 
+\0Dann kam die Idee...\0\0(촀\0Mit einer Schatzsuche! 
+\0((촀\0Möchtest du
+dabei gegen mich antreten?\0\0(1촀\0Du rennst einfach quer über die
+Inseln\0\0
+\0<(촀\0 Da schwellen die Muskeln
+quasi von ganz alleine, 
+\0n\0!(촀"
+"102_a","Da mach ich mit!"
+"102_b","Klingt doof."
+"103","(촀\0Oh nein! 
+\0Seit wann ist es denn so
+spät? 
+\0((촀\0Im Dunkeln ist gut Munkeln,
+aber nicht gut Schatzsuchen.
+(촀\0Dann holen wir das irgendwann
+anders mal nach, 
+\0n\0!"
+"104","(촀\0Klasse! 
+\0Dann verstecke ich sofort
+mal den Schatz. 
+\0((""촀\0Rühr dich nicht
+vom Fleck, 
+\0n\0!"
+"105","(촀\0Wie jetzt?! 
+\0Dein Ernst? 
+\0((\0촀\0Tja, 
+\0vielleicht
+änderst du ja irgendwann mal deine
+Meinung..."
+"106","(촀\0Oh, 
+\0Moment! 
+\0Mir wird jetzt erst klar,
+\0
+wie spät es schon ist! 
+\0((촀\0Dich im Dun-
+keln suchen zu lassen wäre unfair!
+(촀\0Dann starten wir demnächst mal
+einen neuen Anlauf."
+"107","(촀\0Super! 
+\0Dann bringe ich mal den
+Schatz irgendwo unter die Erde.
+\0(""촀\0
+Warte einfach kurz hier!"
+"108","(촀\0Das ist wenigstens ehrlichn\0\0
+\0<(촀\0
+Trotzdem war ich mir sicher,
+\0 du wärst
+davon begeistert, 
+\0n\0...(\0촀"
+"200","(촀\0Ich hab kein gutes Versteck für den
+Schatz gefunden. 
+\0Ich hab die ganze
+Insel abgesucht!\0\0(\0촀\0Dann wird das wohl diesmal leider
+nichts, 
+\0n\0..."

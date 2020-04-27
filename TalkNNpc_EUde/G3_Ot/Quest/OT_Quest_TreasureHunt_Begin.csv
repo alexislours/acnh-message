@@ -1,0 +1,257 @@
+﻿"label","text"
+"001","(%촀\0Wenn du etwas Zeit erübrigen
+kannst,
+\0 wollen wir beide vielleicht
+($촀\0eine Runde Schatzsuche spielen?"
+"001_a","Klingt gut."
+"001_b","Ist gerade ungünstig."
+"002","( 촀\0Nun, 
+\0ich sehe es dir an der Nasen-
+spitze an – 
+\0($촀\0du willst mit mir auf
+Schatzsuche gehen,
+\0( und zwar jetzt!"
+"002_a","So ist es!"
+"002_b","Nicht wirklich."
+"003","($촀\0Wenn du Interesse hast, 
+\0könnten
+wir eine kleine Schatzsuche
+veranstalten."
+"003_a","Legen wir los!"
+"003_b","Nein danke."
+"004","(촀\0Wunderbar! 
+\0Ich danke dir!
+\0()촀\0 Jetzt
+
+\0werde ich den Schatz irgendwo auf
+der Insel vergraben. Warte bitte hier."
+"005","(촀\0Bist du aber 2V(ein munterer Geselle*eine muntere Gesellin.
+\0 ()촀\0Du wartest hier, 
+\0 und ich vergrabe
+den Schatz irgendwo auf der Insel."
+"006","(촀\0Das wird ein Spaß. 
+\0Dann 
+\0(\0촀\0warte du
+bitte hier. 
+\0(""촀\0Und ich vergrabe den
+Schatz irgendwo auf dieser Insel."
+"007","(촀\0Gute Güte! 
+\0Wie die Zeit verfliegt!
+\0 ('촀\0Jetzt ist es zu dunkel, um zu suchen.
+\0
+Die Schatzsuche muss wohl warten."
+"008","(촀\0Schon gut, ich verstehen\0\0
+\0
+(\0촀\0Ich versuche es ein andermal."
+"009","(8촀\0Höchst bedauerlichn\0\0
+\0 (\0촀\0Gut, dann
+warten wir eben,
+\0 (촀\0bis dir der Sinn
+danach steht."
+"010","( 촀\0Oh, na gutn\0\0
+\0(\0촀\0 Vielleicht 
+\0hast du ja
+später Zeit dafür. 
+\0(촀\0Ich frage bei
+Gelegenheit noch mal an."
+"011","(촀\0Es funktioniert folgendermaßenn\0\0
+x\0\0\0(촀\0Ich habe den Schatz auf der Insel
+vergraben.
+\0 Findest du ihn innerhalb
+der Zeit, 
+\0gewinnst du!
+x\0\0\0Wenn nicht,
+\0 gewinne ich!
+x\0\0\0(%촀\0Denk daran,
+\0 er ist im Boden
+vergraben.
+\0 Den Häusern kannst
+du also fernbleiben.
+x\0
+(""촀\0Wollen wir beginnen, 
+\0n\0?
+ð"
+"011_01","(촀\0Es funktioniert folgendermaßenn\0\0
+x\0\0\0(촀\0Ich habe den Schatz auf der Insel
+vergraben.
+\0 Findest du ihn innerhalb
+der Zeit, 
+\0gewinnst du!
+x\0\0\0Wenn nicht,
+\0 gewinne ich!
+x\0\0\0(%촀\0Denk daran,
+\0 er ist im Boden
+vergraben.
+\0 Den Häusern kannst
+du also fernbleiben.
+x\0
+(9촀\0Außerdem möchte ich hervorheben,
+\0
+dass Hilfe durch andere nicht legitim
+ist. 
+\0Nur du allein spielst gegen mich!
+x\0
+(""촀\0Wollen wir beginnen, 
+\0n\0?
+ð"
+"012","(촀\0So, 20mein Liebermeine Liebe,
+\0 unser kleines Spiel
+läuft ab wie folgt.
+\0
+x\0\0\0(%촀\0Ich habe einen Schatz auf der Insel
+vergraben.
+x\0\0\0()촀\0Findest du ihn innerhalb der Zeit,
+\0
+gewinnst du!
+\0 Findest du ihn nicht,
+
+\0gewinne ich!
+x\0
+(6촀\0Diesmal ist das Zeitlimit etwas
+knapper,
+\0 das macht die Sache
+spannendern\0\0
+x\0
+(""촀\0Viel Glück!
+ð"
+"012_01","(촀\0So, 20mein Liebermeine Liebe,
+\0 unser kleines Spiel
+läuft ab wie folgt.
+\0
+x\0\0\0(%촀\0Ich habe einen Schatz auf der Insel
+vergraben.
+x\0\0\0()촀\0Findest du ihn innerhalb der Zeit,
+\0
+gewinnst du!
+\0 Wenn nicht, 
+\0dann
+gewinne ich!
+x\0
+(6촀\0Diesmal ist das Zeitlimit etwas
+knapper,
+\0 das macht die Sache
+spannendern\0\0
+x\0
+($촀\0Noch etwasn\0\0
+\0
+ Du trittst hier ganz
+allein gegen mich an! 
+\0(9촀\0Die Hilfe durch
+andere ist strikt untersagt!
+\0
+x\0
+(""촀\0Viel Glück!
+ð"
+"013","(&촀\0Darf ich dich über die Spielregeln
+in Kenntnis setzen?"
+"013_a","Ja bitte!"
+"013_b","Nein, passt schon!"
+"014","(촀\0Schau ann\0\0
+\0 2b,ein Profi-Schatzsucher2eine Profi-Schatzsucherin
+will sich beweisen!
+\0 (""촀\0Wie du meinst.
+
+\0Fangen wir an, 
+\0n\0!
+x"
+"014_01","($촀\0Als Schatzjagdprofi benötigst du
+gewiss keine Hilfe durch Freunde,
+\0
+oder? 
+\0((%촀\0Gut, 
+\0die ist nämlich untersagt!
+x\0\0\0(""촀\0Nun, 
+\0dann kann das Spiel ja
+beginnen, 
+\0n\0!
+ð"
+"015","(%촀\0Ganz wie du willst.
+\0 (9촀\0Aber ich warne
+dich:
+\0 Das Zeitlimit ist jetzt kürzer.
+\0
+(""촀\0Also gut, 
+\0lasset die Spiele beginnen!
+x"
+"015_01","(%촀\0Achte darauf, 
+\0dass die verfügbare
+Zeit diesmal knapper bemessen ist.
+\0
+(9촀\0Und lass dir keinesfalls helfen!
+x\0
+(""촀\0Dann kann das Spiel ja jetzt
+beginnen, 
+\0n\0!
+ð"
+"101","(촀\0Wenn es deine Zeit erlaubt,
+\0 hättest
+du dann vielleicht Lust,
+\0(""촀\0 mit mir auf
+Schatzsuche zu gehen?"
+"101_a","Klingt gut!"
+"101_b","Nicht wirklich."
+"102","( 촀\0Oh!
+\0 2\0n\0!
+\0(
+(촀\0Perfektes Timing.\0\0(&촀\0Hättest du Lust auf etwas wildes
+Herzklopfen an deinem ansonsten
+verschlafenen Tag?
+(""촀\0Dann ist meine Schatzsuche genau
+das Richtige für dich. 
+\0(촀\0Machst du mit?"
+"102_a","Mit Vergnügen."
+"102_b","Ist gerade ungünstig."
+"103","( 촀\0Oh!
+\0 Ist das spät.
+\0 (\0촀\0Es tut mir leid.
+\0 Ja,
+es war meine Idee, aber
+\0 (촀\0verschieben wir es einfach, 
+\0n\0."
+"104","(촀\0Grandios!
+\0 Danke, 
+\0n\0!
+\0(
+(촀\0Und jetzt
+\0 vergrabe ich den Schatz!"
+"105","( 촀\0Oh.
+\0 Ist es bei dir gerade ungünstig?
+\0
+(\0촀\0Na gut,
+\0 (촀\0dann lass mich wissen, wenn
+du Zeit hast, 
+\0n\0."
+"106","( 촀\0Gute Güte,
+\0 bei unserer angeregten
+Konversation habe ich ganz die Zeit
+vergessen!\0\0(\0촀\0Tut mir leid, aber jetzt ist es viel zu
+spät,
+\0 n\0.
+\0 (촀\0Wir holen
+das ein andermal nach."
+"107","(촀\0Ich WUSSTE, du bist dabei!
+\0(촀\0\0\0()촀\0Dann
+\0 werde ich mal den Schatz
+vergraben.
+\0 Und du wartest am
+\0Festplatz\0￿ auf mich, 
+\0n\0."
+"108","( 촀\0Oh!
+\0 Verstehe. 
+\0((%촀\0Schon gut,
+\0 mach dir
+keine Sorgen.
+\0( (\0촀\0Wir versuchen es ein
+andermal, 
+\0n\0!"
+"200","(촀\0Ich habe die ganze Insel abgesucht,
+
+\0aber nirgends gibt es eine gute
+Stelle, um den Schatz zu vergraben.
+(촀\0Und das, obwohl ich dich eingeladen
+hatten\0\0
+\0 Es tut mir leid.
+\0 (촀\0Nun, 
+\0dann
+eben ein andermal, 
+\0n\0."

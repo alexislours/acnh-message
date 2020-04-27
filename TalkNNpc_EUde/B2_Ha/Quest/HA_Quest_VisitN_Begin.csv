@@ -1,0 +1,188 @@
+﻿"label","text"
+"001","(촀\0Hey, 
+\0n\0, hast du
+Lust, (촀\0mich mal in meiner Bude
+zu besuchen?\0\0(5촀\0Vielleicht interessiert es dich ja zu
+sehen,
+\0 wo ich täglich trainiere,
+
+\0n\0."
+"001_a","Ja, schon!"
+"001_b","Keine Zeit!"
+"002","(촀\0Heeey, 
+\0n\0!
+\0(
+Du solltest mich mal besuchen!\0\0(2촀\0Gute Freunde sollten sich immer mal
+die Zeit nehmen, zusammen zu
+quatschen. 
+\0(촀\0Was meinst du dazu?"
+"002_a","Klingt gut."
+"002_b","Passt mir grad nicht."
+"003","(촀\0Alarm,
+\0 Alarm,
+\0 Alarm!
+\02(촀\0 Ich habe
+eine grandiose Idee, 
+\0n\0!\0\0(7촀\0Die Idee ist,
+\0 dass du mich besuchst.
+\0
+(""촀\0Ich habe kürzlich sogar aufgeräumt!
+\0
+Der Zeitpunkt wäre also ideal."
+"003_a","Ich komme gerne."
+"003_b","Schaffe ich nicht."
+"004","( 촀\0Oh! 
+\0Na gut,
+\0 alles klar!(촀\0 Vielleicht
+ein andermal, 
+\0n\0."
+"005","(촀\0Na guuut...
+\0( (촀\0Vielleicht klappt
+es ja ein andermal!"
+"006","(&촀\0Keine Chance, 
+\0dass du kommst, ja?
+\0(
+(촀\0Na gut, 
+\0aber lass uns zusehen,
+dass es ein andermal klappt!"
+"007","(촀\0Klasse!
+\0((촀\0 Wann kommst du?"
+"007_a","Jetzt!"
+"007_b","Morgen."
+"008","(촀\0Klasse!
+\0 Und wann passt es
+dir am besten?"
+"008_a","Jetzt sofort!"
+"008_b","Morgen wäre gut."
+"009","(촀\0Spitze, 
+\0olé! 
+\0Wann soll
+die Aktion steigen?"
+"009_a","Gehen wir jetzt!"
+"009_b","Am besten morgen."
+"101","(""촀\0Alles klar! 
+\0Worauf warten wir
+dann noch?"
+"102","(%촀\0Klasse! 
+\0Gehen wir!"
+"103","(촀\0Genau! 
+\0Was du heute kannst
+besorgen und so...(""촀\0 Wer zuerst
+da ist!"
+"104","(&촀\0Hey, 
+\0das wird dein erster richtiger
+Besuch bei mir, richtig? 
+\0(6촀\0Du wirst
+überwältigt sein, 
+\0kein Zweifel!"
+"105","( 촀\0Hey, 
+\0du kommst mich zum ersten Mal
+besuchen, nicht wahr?\0\0(2촀\0Ich bin fast so nervös wie ein Profi
+vor einem Länderspiel...
+\0 Hoffentlich
+gefällt dir meine Bude, 
+\0n\0!"
+"106","(촀\0Zur Hantel! 
+\0So spät?\0\0(%촀\0Danke, 
+\0dass du mich besuchen
+wolltest, 
+\0(촀\0aber ich muss jetzt
+leider sofort los, 
+\0n\0."
+"201","(%촀\0Also gut,
+\0 dann sehn wir uns morgen.
+
+\0((촀\0Die Uhrzeit ist egal,
+\0 komm einfach
+vorbeigejoggt, 
+\0n\0!"
+"202","(""촀\0Super! 
+\0Dann bis morgen!
+\0
+(촀\0Vergiss es aber nicht, 
+\0ich werde
+nämlich extra auf dich warten!"
+"203","(%촀\0Gut, morgen also!
+\0(촀\0 Ich freue mich
+darauf, dich zu sehen, 
+\0n\0."
+"204","(7촀\0Und nur zur Sicherheitn\0\0
+\0 Klopf am
+besten laut an, 
+\0falls ich gerade ein
+Nickerchen mache, 
+\0n\0."
+"205","(촀\0Cool, 
+\0dann steht der Termin.
+\0(촀\0
+Ich freu mich drauf, 
+\0dich in alter
+Frische empfangen zu dürfen!"
+"206","(촀\0Weißt du noch, wie du zu mir
+kommst?
+\0 (6촀\0Verlauf dich nicht,
+
+\0n\0!"
+"207","(&촀\0Wenn ich es mir recht überlege,
+warst du noch nie bei mir, 
+\0oder?
+\0
+(촀\0Es wird dir gefallen, 
+\0n\0!"
+"208","( 촀\0Hey,
+\0 du warst noch gar nicht bei
+mir zu Hause, 
+\0was?\0\0(촀\0Lauf dich auf dem Weg zu mir warm,
+
+\0damit wir direkt mit dem Training
+anfangen können, 
+\0n\0!"
+"301","(%촀\0Komm morgen einfach vorbei,
+\0
+wann es dir am besten passt.\0\0(촀\0Auch wenn es noch mitten in der
+Nacht ist. 
+\0Ich versuche, mit offenen
+Augen zu schlafen, 
+\0n\0!"
+"302","(촀\0Dann also morgen Party bei mir!
+\0
+(%촀\0Mit überschaubarer Anzahl an
+Gästen zwar,
+\0 aber wird sicher lustig!"
+"303","(촀\0Ah, 
+\0morgen passt es dir also?
+\0(
+(촀\0Mir auch!
+\0 Ich werde dich
+erwarten, 
+\0n\0!"
+"401","(촀\0Hey, 
+\0das kommt jetzt vielleicht etwas
+unvermittelt, aber...
+\0 besuch mich
+doch mal bei mir zu Hause!\0\0(%촀\0Ich zeige dir, 
+\0was ich so an Kram
+habe und wo ich trainiere.
+\0 (촀\0Ist sicher
+ganz interessant für dich!"
+"401_a","Denke ich auch!"
+"401_b","Passt mir leider nicht."
+"402","(
+촀\0Mit guten Freunden quatsche ich
+gern bei mir zu Hause. 
+\0Gemeinsames
+Training ist natürlich noch besser!\0\0(촀\0Na?
+\0 Fühlst du dich angesprochen?
+\0
+(&촀\0Möchtest du mich mal besuchen,
+
+\0n\0?"
+"402_a","Gerne!"
+"402_b","Leider keine Zeit!"
+"403","( 촀\0Oh, 
+\0na gut!(\0촀\0 Vielleicht ein andermal."
+"404","(%촀\0Kein Ding!
+\0(촀\0 Da bin ich vielleicht ein
+bisschen zu sehr mit der Tür ins
+Haus gefallen, 
+\0n\0."

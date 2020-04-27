@@ -1,0 +1,121 @@
+﻿"label","text"
+"001","($촀\0Ah, ciao. 
+\0Ti piacciono i giochi, no?
+\0(
+()촀\0Non importa, piacciono a me e te ne
+volevo proporre uno, n\0n\0\0\0\0(촀\0Metto persino in palio 2""촀il miola mia\0 }\0\0.
+\0
+Allora, ti va di giocare?"
+"001_a","Ah sì? Allora ci sto!"
+"001_b","No, grazie."
+"002","(6촀\0Evvai! 
+\0OK, 
+\0comincia- ( 촀\0Ups! 
+\0Un attimo.
+\0(
+()촀\0Vuoi che ti spieghi le regole, prima?"
+"002_a","(촀\0Perché no?"
+"002_b","(\0촀\0Le so già."
+"003","(8촀\0Oh! 
+\0Ehmn\0\0 ma forse conosci
+qualcuno che vuole giocare?
+\0( ('촀\0No,
+lascia perdere.
+\0 Me la caverò da sola."
+"004","(촀\0Gah ah ah! 
+\0Bene!
+\0( (<촀\0Aspetta un attimo,
+mescolo le carten\0\0
+\0("
+"005","(9촀\0Ed ecco il momento della veritàn\0\0
+\0
+Ci sei?"
+"006_01","(촀\0Hai indovinato! 
+\0Allora è deciso,
+\0 2\0}\0\0 ora appartiene a te, n\0!"
+"006_02","(촀\0Uffan\0\0 speravo di potermi tenere 2\0}\0\0n\0\0 (촀\0ma una promessa è una promessa."
+"006_03","(촀\0Beh, ti è andata male. 
+\0Però vedila
+così: almeno non hai perso nulla!"
+"007_01","(촀\0È stato divertente.
+\0 Magari potremmo
+fare un'altra partita, prima o poi."
+"007_03","(%촀\0Ti andrà meglio la prossima volta.
+\0(
+($촀\0A presto, n\0!"
+"008","(6촀\0Bene! 
+\0Allora, 
+\0comincia-( 촀\0 Oh! 
+\0Aspetta.
+\0(
+Non hai spazio nelle tasche.\0\0(9촀\0Se giochiamo e io perdo, 2""촀il miola mia\0
+}\0\0 ti appartiene, 
+\0punto e basta.(촀\0\0\0Quindi, non possiamo giocare finché
+non avrai posto per portare con te
+eventuali vincite.
+\0( (촀\0Fai spazio e torna."
+"100","(""촀\0Procediamo, n\0.\0\0()촀\0OK, 
+\0sai che le carte hanno semi, no?
+\0
+I semi sono 4: cuori \0♥\0￿, quadri \0♦\0￿, picche\0 ♠\0￿ e fiori\0 ♣\0￿.\0\0(6촀\0È molto semplice. 
+\0Devi indovinare
+il seme della carta che sta in
+cima al mazzo.\0\0(\0촀\0Se indovini, ti porti via 2""촀il miola mia\0 }\0\0.
+\0( (촀\0Questo è quanto!(촀\0\0\0Bene!
+\0 (<촀\0Cominciamon\0\0
+\0("
+"101","(3촀\0Dai, concorrente, tocca a te. 
+\0Qual è
+il seme della prima carta del mazzo?(촀"
+"101_a","Cuori \0♥\0￿!"
+"101_b","Quadri \0♦\0￿!"
+"101_c","Picche \0♠\0￿!"
+"101_d","Fiori \0♣\0￿!"
+"102_01","(=촀\0
+\0Ah! 
+\0Eh sì, è proprio 촀!"
+"102_02","(=촀\0
+\0Oh! 
+\0È 촀. 
+\0Nulla da fare."
+"200","(""촀\0OK, procediamo, n\0.\0\0()촀\0Le carte hanno 4 semi:
+\0 cuori\0 ♥\0￿,
+quadri \0♦\0￿,
+\0 picche \0♠\0￿ e fiori \0♣\0￿.
+\0
+Quindi, due semi \0rossi\0￿ e due \0neri\0￿.
+(6촀\0È semplice. 
+\0Devi solo indovinare
+di che colore è il seme della carta
+in cima al mazzo.\0\0(6촀\0Se hai indovinato, puoi prenderti 2\0}\0\0.
+\0 E questo è quanto! (<촀\0
+\0Cominciamon\0\0
+\0("
+"201","(3촀\0Forza, concorrente, tocca a te.
+
+\0Di che colore è il seme della
+prima carta del mazzo?(촀"
+"201_a","\0Rosso\0￿!"
+"201_b","\0Nero\0￿!"
+"202_01","(=촀\0
+\0Ah! 
+\0E sì, è proprio \0rosso\0￿.
+\0
+Ed è di 촀!"
+"202_02","(=촀\0
+\0Oh! 
+\0La prima carta è di 촀,
+
+\0che è un seme \0nero\0￿. 
+\0Hai perso."
+"202_03","(=촀\0
+\0Ah! 
+\0E sì, è proprio \0nero\0￿.
+\0
+Ed è di 촀!"
+"202_04","(=촀\0
+\0Oh! 
+\0La prima carta è di 촀, 
+\0che
+è un seme \0rosso\0￿. 
+\0Hai perso."

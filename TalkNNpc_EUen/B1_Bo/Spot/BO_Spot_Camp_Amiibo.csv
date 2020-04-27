@@ -1,0 +1,178 @@
+﻿"label","text"
+"001","<"
+"001_01","d\0\0Hi!
+\0 It's me! 2\0s촀!
+\0(
+
+\0I'm in the middle of moving,
+\0
+so I can't talk right now!\0￿d"
+"001_02","d\0\0Hi, it's s촀! 
+\0(I'm busy
+getting ready to move
+so I gotta chat later, OK?\0￿d"
+"001_03","d\0\0It's me! 
+\02\0s촀!
+\0(
+I'm doing a big move, so I can't
+talk to you right now!\0￿d"
+"001_04","d\0\0Hiiiiiiiiiii, this is s촀!
+\0(
+I can't answer right noooow 'cause
+I'm busy moooooving! 
+\0(Sorrrrrry!\0￿d"
+"102","<"
+"102_01","(%촀\0Uh-huh, uh-huhn\0\0(촀\0that sounds great!
+\0(
+I'll come to your island's \0campsite\0￿!
+
+\0(""촀\0See ya soon, n\0!"
+"102_02","(촀\0Ooh! Camping?!
+\0((촀\0 You betcha!
+I love your island, n\0!"
+"102_03","Camping?
+\0( Are there bugs there?
+(%촀\0Rightn\0\0outdoorsn\0\0bugsn\0\0OKn\0\0
+
+\0((""촀\0I'd love to go camping, n\0!"
+"102_04","(촀\0Huh?
+\0( Come to the \0campsite\0￿?
+\0(
+OK!(촀\0
+\0 I'll be right over!"
+"202","<"
+"202_01","( 촀\0You wanna play at the \0campsite\0￿?
+\0(
+(촀\0Sounds fun!
+\0( I'll be right over!"
+"202_02","(촀\0You're inviting me to go camping?
+\0(
+On your island?
+\0( (촀\0That sounds
+real fun!"
+"202_03","(%촀\0Ya wanna hang out at the \0campsite
+\0￿on your island?
+\0( (촀\0Yeah I'll come over!
+It sounds like fun, n\0!"
+"202_04","( 촀\0Come chill at your island's
+\0campsite\0￿?
+\0( (촀\0Sure, why not!
+\0(
+I'll be right over, n\0."
+"301","<"
+"301_01","Hi, this is n
+\0!
+\0( (촀\0Huh?
+\0
+2\0n\0?
+\0( What's up?"
+"301_02","Hi, this is n
+\0!
+\0( (촀\0Oh!
+Hey, n\0.
+\0( (\0촀\0Whatcha
+callin' me for?
+\0(3촀\0
+\0 Secret talks?"
+"301_03","Hi! It's n
+\0!
+(촀\0Hey, n\0!
+\0(
+What's up?"
+"301_04","Heya, it's me! 2\0n
+\0!
+\0(
+(촀\02\0n\0?
+\0( What's up?"
+"302","<"
+"302_01","You wanna go camping?
+\0(
+( 촀\0On n	\0?!
+\0(
+(촀\0A huh huh huh!
+\0 What?\0\0(8촀\0Man, nah. Other folks can't visit
+if I'm clogging up the \0campsite\0￿."
+"302_02","(촀\0Huh?
+\0 You wanna go camping?!
+\0(
+(촀\0OK!
+\0( So where you wanna go?
+\0
+(\0촀\0(촀\0n	\0?! Uhhhhhhn\0\0\0\0('촀\0No, thanks.
+\0( (\0촀\0If I'm sleeping on this
+island, I'd rather do it on the floor
+of my house, listening to the bugs."
+"302_03","(%촀\0You want me to come to the
+\0campsite\0￿?
+\0( ($촀\0Is someone there?
+\0(
+(\0촀\0Huh? (촀\0You wanna camp there?!
+(촀\0I'll pass, a huh huh huh!
+\0( ()촀\0I like to chat
+with folks who come (""촀\0here to camp!
+I don't wanna get in their way."
+"302_04","( 촀\0Huh?
+\0( Let's camp on this island?!
+\0
+(촀\0You wanna play at the \0campsite\0￿
+even though we have homes?\0\0(
+촀\0Hmm,
+\0 nah.
+\0( (7촀\0I always spill juice in my
+tent, so it's real sticky and I don't
+wanna clean it up right now."
+"401","<"
+"401_01","I'm n
+\0!
+\0( What ya
+need? I'm real bored, so let's
+(촀\0get REAL interesting!"
+"401_02","(촀\0Hello!
+\0 This is n
+\0.
+\0(
+Thanks for the call!
+\0( Now I know my
+phone works! Whaddaya need?"
+"401_03","(""촀\0Hi! 
+\0It's n
+\0! 
+\0What's
+up? 
+\0(촀\0Hi, by the way. 
+\0I was so excited
+when I answered I forget if I said it.\0\0()촀\0I know lots of ways to say hi, so you
+called the right guy for a greeting.
+\0
+Let's seen\0\0 
+\0(""촀\0Hola! 
+\0Salut! Ciao! Andn\0\0
+
+\0Nǐn hǎo! 
+\0Ahlan! 
+\0Guten Tag! 
+\0Anyoung!
+
+\0Konnichiwa! 
+\0Zdravstvuyte! 
+\0Saluton!
+
+\0Namaste! Shikamoo! 
+\0(&촀\0And, ummn\0\0
+\0( Hi!\0\0(촀\0So what's your deal? Did ya call just
+to get said hello to, or is there
+something else?"
+"401_04","(촀\0Hi! It's lovable n
+\0!
+\0(
+(\0촀\0It's so exciting getting a call!
+\02 (촀\0It's
+like a mystery! 
+\0(
+촀\0
+\0Who's calling?
+\0 Why?\0\0(촀\0What'd I do? Or forget to do?! 
+\0(촀\0I can't
+answer, I'm fresh from the shower!
+But I gotta know who's calling?!\0\0(\0촀\0So, 
+\0(촀\0whaddaya need me for?"

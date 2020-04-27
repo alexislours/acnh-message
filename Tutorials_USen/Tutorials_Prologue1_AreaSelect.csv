@@ -1,0 +1,380 @@
+﻿"label","text"
+"001","So, tell me, n\0n\0\0(&촂\0
+\0
+Where do you live now?(&촃\0d\0
+\0\0K ...live now?\0dd"
+"001_a","Japan."
+"001_b","Elsewhere."
+"002","( 촂\0( 촃\0Oh! 
+\0Ha ha! 
+\0(촀\0Seems like a lot of folks
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
+촂\0Let's see if we can narrow it down.(
+촃"
+"002_a","Asia."
+"002_b","North America."
+"002_c","Europe."
+"002_d","Elsewhere."
+"003","(촂\0(촃\0Wow! 
+\0Still elsewhere, huh?
+\0(
+(%촂\0Well, let's keep trying(%촃\0n"
+"003_a","South America."
+"003_b","Oceania."
+"003_c","Africa."
+"003_d","Nope."
+"004","(촂\0(촃\0Great! 
+\0(&촂\0(&촃\0So you live in one of these
+locations, right?"
+"004_a","Japan/Asia."
+"004_b","North America."
+"004_c","Europe."
+"004_d","Nope."
+"011","So, tell me, n\0n\0\0(&촂\0
+\0
+Where do you live now?(&촃\0d\0
+\0\0K ...live now?\0dd"
+"011_a","North America."
+"011_b","Elsewhere."
+"012","( 촂\0( 촃\0Oh! 
+\0Ha ha! 
+\0(촀\0Seems like a lot of folks
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
+촂\0Let's see if we can narrow it down.(
+촃"
+"012_a","Asia."
+"012_b","Europe."
+"012_c","Elsewhere."
+"013","(촂\0(촃\0Wow! 
+\0Still elsewhere, huh?
+\0(
+(%촂\0Well, let's keep trying(%촃\0n"
+"013_a","South America."
+"013_b","Oceania."
+"013_c","Africa."
+"013_d","Nope."
+"014","(촂\0(촃\0Great! 
+\0(&촂\0(&촃\0So you live in one of these
+locations, right?"
+"014_a","North America."
+"014_b","Japan/Asia."
+"014_c","Europe."
+"014_d","Nope."
+"021","So, tell me, n\0n\0\0(&촂\0
+\0
+Where do you live now?(&촃\0d\0
+\0\0K ...live now?\0dd"
+"021_a","Europe."
+"021_b","Elsewhere."
+"022","( 촂\0( 촃\0Oh! 
+\0Ha ha! 
+\0(촀\0Seems like a lot of folks
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
+촂\0Let's see if we can narrow it down.(
+촃"
+"022_a","Asia."
+"022_b","North America."
+"022_c","Elsewhere."
+"023","(촂\0(촃\0Wow! 
+\0Still elsewhere, huh?
+\0(
+(%촂\0Well, let's keep trying(%촃\0n"
+"023_a","South America."
+"023_b","Oceania."
+"023_c","Africa."
+"023_d","Nope."
+"024","(촂\0(촃\0Great! 
+\0(&촂\0(&촃\0So you live in one of these
+locations, right?"
+"024_a","Europe."
+"024_b","Japan/Asia."
+"024_c","North America."
+"024_d","Nope."
+"031","So, tell me, n\0n\0\0(&촂\0
+\0
+Where do you live now?(&촃\0d\0
+\0\0K ...live now?\0dd"
+"031_a","Oceania."
+"031_b","Elsewhere."
+"101_01","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_02","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_03","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_04","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_05","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_06","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"101_07","(%촂\0Ah,(%촃\0 excellent! 
+\0((촂\0(촃\0That information really
+helps us focus on just the right
+island for you."
+"102","(%촀\0Ah, excellent! 
+\0((촀\0That information really
+helps us focus on just the right
+island for you."
+"111","()촀\0So, naturallyn\0\0we'd recommend that
+you relocate to an island in the
+\0northern hemisphere\0￿.
+(
+촀\0There are a few more decisions to
+make, 
+\0(&촂\0but does that sound OK
+to you so far?(&촃\0d\0
+\0 \0K...so far?\0dd"
+"111_a","OK!"
+"111_b","Southern hemisphere!"
+"111_c","I'm not sure..."
+"112","()촀\0So, naturallyn\0\0we'd recommend that
+you relocate to an island in the
+\0northern hemisphere\0￿.
+(
+촀\0There are a few more decisions to
+make, 
+\0(&촂\0but does that sound OK
+to you so far?(&촃\0d\0
+\0 \0K...so far?\0dd"
+"112_a","OK!"
+"112_b","Southern hemisphere!"
+"112_c","I'm not sure..."
+"113","()촀\0So, naturallyn\0\0we'd recommend that
+you relocate to an island in the
+\0northern hemisphere\0￿.
+(
+촀\0There are a few more decisions to
+make, 
+\0(&촂\0but does that sound OK
+to you so far?(&촃\0d\0
+\0 \0K...so far?\0dd"
+"113_a","OK!"
+"113_b","Southern hemisphere!"
+"113_c","I'm not sure..."
+"114","()촀\0So, naturallyn\0\0we'd recommend that
+you relocate to an island in the
+\0northern hemisphere\0￿.
+(
+촀\0There are a few more decisions to
+make, 
+\0(&촂\0but does that sound OK
+to you so far?(&촃\0d\0
+\0 \0K...so far?\0dd"
+"114_a","OK!"
+"114_b","Southern hemisphere!"
+"114_c","I'm not sure..."
+"115","(
+촂\0
+\0(
+촃\0Yes, yesn\0\0 South America is a large
+and wonderful place.
+\0(촀\0 I believe it has
+some parts in both hemispheres!
+()촀\0Ah, but since most of the continent
+is in the \0southern hemisphere\0￿, I bet
+you'd prefer an island there.
+(&촂\0Does that sound OK?(&촃\0d\0
+\0 \0K...sound OK?\0dd"
+"115_a","OK!"
+"115_b","Northern hemisphere!"
+"115_c","I'm not sure..."
+"116","()촀\0So, naturallyn\0\0we'd recommend that
+you relocate to an island in the
+\0southern hemisphere\0￿.
+(
+촀\0There are a few more decisions to
+make, 
+\0(&촂\0but does that sound OK
+to you so far?(&촃\0d\0
+\0 \0K...so far?\0dd"
+"116_a","OK!"
+"116_b","Northern hemisphere!"
+"116_c","I'm not sure..."
+"117","(
+촂\0(
+촃\0Yes, yesn\0\0 Africa is a large and
+wonderful place.
+\0(촀\0 I believe it has
+some parts in both hemispheres!
+(%촀\0So, if your home is in the north,
+we'd suggest you choose an island
+in the northern hemisphere.
+()촀\0On the other hand, if you're in the
+south, an island in the southern
+hemisphere may suit you.
+(&촂\0So, which will it be?(&촃"
+"117_a","Northern hemisphere!"
+"117_b","Southern hemisphere!"
+"117_c","I'm not sure..."
+"201","(""촀\0Very good! 
+\0(촂\0(촃\0We have a number of
+lovely uninhabited islands in the
+northern hemisphere to choose from."
+"202","(""촀\0Very good! 
+\0(촂\0(촃\0We have a number of
+lovely uninhabited islands in the
+southern hemisphere to choose from."
+"203","(촂\0(촃\0Oh! 
+\0You want to mix things up?
+\0
+(6촀\0Well, that can be fun!\0\0(%촂\0We'll go ahead and find the perfect
+uninhabited island(%촃\0 in the northern
+hemisphere for you."
+"204","(촂\0(촃\0Oh! 
+\0You want to mix things up?
+\0
+(6촀\0Well, that can be fun!\0\0(%촂\0We'll go ahead and find the perfect
+uninhabited island(%촃\0 in the southern
+hemisphere for you."
+"301","Maybe this ""hemisphere"" business
+needs some explanation. There are
+two of them, northern and southern."
+"302","()촀\0In the north, you get winter in
+December, spring in March, summer
+in June, and fall in Septembern\0\0
+(%촀\0Islands in the southern hemisphere
+experience the opposite.\0\0(촀\0So, it'll be summer in December,
+fall in March, winter in June,
+and spring in September."
+"303","()촀\0In the south, you get summer in
+December, fall in March, winter in
+June, and spring in September.
+(%촀\0Islands in the northern hemisphere
+experience the opposite.\0\0(촀\0So, it'll be winter in December,
+spring in March, summer in June,
+and fall in September."
+"304_01","(%촀\0It's currently Z\0, so it's
+spring in the northern hemisphere
+and fall in the southern."
+"304_02","(%촀\0It's currently Z\0, so it's
+summer in the northern hemisphere
+and winter in the southern."
+"304_03","(%촀\0It's currently Z\0, so it's fall
+in the northern hemisphere and
+spring in the southern."
+"304_04","(%촀\0It's currently Z\0, so it's
+winter in the northern hemisphere
+and summer in the southern."
+"304_05","(%촀\0It's currently Z\0, so it's
+spring in the southern hemisphere
+and fall in the northern."
+"304_06","(%촀\0It's currently Z\0, so it's
+summer in the southern hemisphere
+and winter in the northern."
+"304_07","(%촀\0It's currently Z\0, so it's
+fall in the southern hemisphere
+and spring in the northern."
+"304_08","(%촀\0It's currently Z\0, so it's
+winter in the southern hemisphere
+and summer in the northern."
+"305","(촀\0In other words, the weather in the
+hemispheres is exactly opposite!\0\0(촀\0But no matter where you live, you
+can experience all the seasons and
+the wonders they bring.(촀"
+"311","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0northern
+hemisphere\0￿, where it's now spring?
+(&촀\0Or would you prefer the \0southern
+hemisphere\0￿, where it's fall?d\0
+\0\0K ...fall?\0dd"
+"311_a","Northern hemisphere!"
+"311_b","Southern hemisphere!"
+"311_c","Explain that all again!"
+"312","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0northern
+hemisphere\0￿, where it's now summer?
+(&촀\0Or would you prefer the \0southern
+hemisphere\0￿, where it's winter?d\0
+\0
+\0K...winter?\0dd"
+"312_a","Northern hemisphere!"
+"312_b","Southern hemisphere!"
+"312_c","Explain that all again!"
+"313","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0northern
+hemisphere\0￿, where it's now fall?
+(&촀\0Or would you prefer the \0southern
+hemisphere\0￿, where it's spring?d\0
+\0
+\0K...spring?\0dd"
+"313_a","Northern hemisphere!"
+"313_b","Southern hemisphere!"
+"313_c","Explain that all again!"
+"314","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0northern
+hemisphere\0￿, where it's now winter?
+(&촀\0Or would you prefer the \0southern
+hemisphere\0￿, where it's summer?d\0
+\0
+\0K...summer?\0dd"
+"314_a","Northern hemisphere!"
+"314_b","Southern hemisphere!"
+"314_c","Explain that all again!"
+"315","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0southern
+hemisphere\0￿, where it's now spring?
+(&촀\0Or would you prefer the \0northern
+hemisphere\0￿, where it's fall?d\0
+\0\0K ...fall?\0dd"
+"315_a","Southern hemisphere!"
+"315_b","Northern hemisphere!"
+"315_c","Explain that all again!"
+"316","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0southern
+hemisphere\0￿, where it's now summer?
+(&촀\0Or would you prefer the \0northern
+hemisphere\0￿, where it's winter?d\0
+\0
+\0K...winter?\0dd"
+"316_a","Southern hemisphere!"
+"316_b","Northern hemisphere!"
+"316_c","Explain that all again!"
+"317","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0southern
+hemisphere\0￿, where it's now fall?
+(&촀\0Or would you prefer the \0northern
+hemisphere\0￿, where it's spring?d\0
+\0
+\0K...spring?\0dd"
+"317_a","Southern hemisphere!"
+"317_b","Northern hemisphere!"
+"317_c","Explain that all again!"
+"318","(
+촀\0So let me ask againn\0\0
+\0 ($촀\0Would you like
+to move to an island in the \0southern
+hemisphere\0￿, where it's now winter?
+(&촀\0Or would you prefer the \0northern
+hemisphere\0￿, where it's summer?d\0
+\0
+\0K...summer?\0dd"
+"318_a","Southern hemisphere!"
+"318_b","Northern hemisphere!"
+"318_c","Explain that all again!"

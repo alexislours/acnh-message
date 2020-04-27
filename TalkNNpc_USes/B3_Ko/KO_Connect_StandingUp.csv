@@ -1,0 +1,43 @@
+﻿"label","text"
+"101","(""촀\0Mucho mejor,
+\0 n\0.
+"
+"102","(촀\0Bueno,
+\0 n\0,
+\0 cuéntame.
+"
+"103","(8촀\0¿Qué decías,
+\0 n\0?
+"
+"201","<"
+"201_01","(촀\0¡Anda,
+\0 si es n\0!
+\0 (9촀\0Espera un segundo, n\0,
+\0 deja que me ponga de pie."
+"201_02","(촀\0¿Qué tal,
+\0 n\0?
+\0
+(\0촀\0A ver,
+\0 espera a que me levante,
+\0
+n\0."
+"201_03","(촀\0¿Necesitas algo,
+\0 n\0?
+\0 (9촀\0Déjame levantarme.
+\0 No quiero ser descortés, n\0."
+"202","<"
+"202_01","(촀\0¡Anda,
+\0 n\0!
+\0 (9촀\0Espera un segundo, n\0,
+\0 deja que me ponga de pie."
+"202_02","(촀\0¿Qué hay,
+\0 n\0?
+\0
+(\0촀\0A ver,
+\0 espera a que me levante,
+\0
+n\0."
+"202_03","(촀\0¿2\0n\0, qué cuentas?
+\0 (9촀\0Espera, déjame levantarme.
+\0
+No quiero ser descortés."

@@ -1,0 +1,592 @@
+﻿"label","text"
+"001","...Huh?
+\0 My pockets are full already!
+\0
+Should I swap it with something?"
+"001_a","Swap it!"
+"001_b","Drop it!"
+"002","Look!
+\0 I dug up
+2\0}\0\0!"
+"003","...But
+\0 I can't carry anything else!
+\0
+Should I swap it with something?"
+"003_01","...Huh?
+\0 My pockets are full already!
+\0
+Should I swap it with something?"
+"003_01_a","Swap it!"
+"003_01_b","Bury it again."
+"003_a","Swap it!"
+"003_b","Bury it again."
+"004","...But
+\0 I can't carry anything else!
+\0
+Should I swap it with something?"
+"004_a","Swap it!"
+"004_b","Let it go."
+"005","...But
+\0 I can't carry anything else!
+\0
+Should I swap it with something?"
+"005_a","Swap it!"
+"005_b","Drop it."
+"006","...But
+\0 I can't carry anything else!
+\0
+Should I swap it with something?"
+"006_a","Swap it!"
+"006_b","Forget it."
+"007",".
+\0.
+\0.
+\0But I don't have any room for it!
+\0
+
+Oh well.
+\0 I guess I'll let it go."
+"011","I won't have room for this in
+my pockets if I pluck it, so I'll
+just leave it the way it is."
+"013","I was going to clean up a
+bit, 
+\0
+but my pockets are full,
+\0
+
+so I'll just leave it like it is."
+"014","There's not enough room in my wallet
+\0
+
+and I can't carry this around with me
+right now,
+\0
+ so I'll just leave it."
+"015","...Huh?
+\0 My pockets are full!
+\0
+Guess I'll just leave this here, then."
+"016",".
+\0.
+\0.
+\0But I don't have any room for it!
+\0
+
+Guess I'll just forget it, then."
+"017","...Huh?
+\0 My pockets are full already!
+\0
+Should I swap it with something?"
+"017_a","Swap it!"
+"017_b","Bury it again."
+"021","Ow! Ow ow ow
+\0.
+\0.
+\0.
+\0
+I got stung by wasps!"
+"022","Aw, that itches!
+\0
+I got bit by a mosquito
+\0.
+\0.
+\0.
+´"
+"023","Oh, good!\0\0All the pesky cockroaches are
+GONE! 
+\0I feel so much better now!"
+"024","I picked up a 2\0Ā촃wasp nest!"
+"025","I could probably use this 2\0Ā촃wasp nest
+for something cool, liken\0\0 Yeah!
+I just came up with a DIY recipe!"
+"100","I found treasure!"
+"100_01","I found treasure!\0\0It probably belongs to an island
+resident. I guess I'll leave it here.
+For now..."
+"1001","n\0\0My phone is ringing."
+"1002","Oops! There goes my phone again."
+"101","I picked up 2\0
+}\0\0!\0\0I should probably try to
+reunite this with its owner!"
+"102","Somebody lost their
+}\0\0!\0\0I bet it belongs to a resident of this
+island. I don't want to accidentally
+take it home, so I'll leave it here."
+"103","Somebody lost their
+}\0\0!\0\0I wonder who lost it.
+\0( I don't want
+to cause the owner any extra
+trouble, so I'll just leave it here."
+"104","This is someone else's treasure.
+\0
+It'd be rude to open it."
+"105","Someone lost this..."
+"110_01","A well-used, well-loved picture
+book.
+\0( There are little broken bits
+
+\0of candy between the pages...
+"
+"110_02","This book is hard to read. The pages
+are warped, like they've gotten wet
+before.
+\0 I think it's an exercise book."
+"110_03","There are lots of pictures of potted
+trees inside.
+\0( It looks like an
+introductory guide to bonsai trees."
+"110_04","It's a novel.
+\0 The author was obviously
+trying to be fancy by using lots
+of foreign words. I don't get it."
+"110_05","This novel looks really difficult.
+\0( It's
+the kind of book only a voracious
+reader would think to pick up."
+"110_06","It's a comic.
+\0( There's a girl with
+big, sparkling eyes on the cover.
+She's probably the hero."
+"110_07","It's one of those love stories that are
+so popular nowadays.
+\0( It has a subtle
+aroma too.
+\0( Or is that my imagination?"
+"110_08","A book with pressed flowers inside.
+\0
+OH!
+\0 It still has the price sticker on it!"
+"110_09","This looks like someone's diary.
+\0(
+Is this stain 
+\0from drool?
+\0( Maybe
+they fell asleep on it while writing."
+"110_10","Somebody scribbled something
+on the cover in pencil. Looks
+like it reads,
+\0( ""xtreme xercises""?"
+"110_11","An old planner that's seen plenty of
+wear and tear.
+\0( The last page has tally
+marksn\0\0
+\0( They are up to 12 now."
+"110_12","The cover of the book says
+""Mi diario secreto."" 
+\0(I get the
+feeling I shouldn't look inside."
+"110_13","It reads ""My Journal"" in tiny letters
+on the cover.
+\0( It's hard not to, but
+I probably shouldn't peek inside."
+"110_14","It's an autograph book, but it's
+covered with all kinds of sparkly
+stickers.
+\0( It's making my eyes hurt."
+"110_15","I think it's a personal planner.
+\0 Every
+line is filled in with precise, perfect
+handwriting.
+\0( Errn\0\0 I should close this."
+"110_16","This looks like somebody's notebook.
+\0
+The handwriting is mostly illegible,
+but I can make out the word ""Band."""
+"110_17","This pouch is stuffed with
+something that smells delicious
+and is probably full of sugar."
+"110_18","A very simple bagn\0\0
+\0(that's a tad open.
+
+\0I spot some gym clothes, I think."
+"110_19","A sturdy, old-fashioned sort
+of bag.
+\0( It gets full points for
+utility and zero points for style."
+"110_20","It's a stylish bag.
+\0( The complex
+design says more about style
+than it does about function."
+"110_21","An adorable handcrafted bag with
+something hard and rectangular
+inside.
+\0( Maybe it's a book?"
+"110_22","A bag made from a soft printed fabric
+featuring cartoon characters.
+\0( It's all
+lumpy from being packed too full."
+"110_23","Maybe this is someone's makeup
+bag?
+\0( It smells like lovely perfume."
+"110_24","A stylish bag
+\0 adorned with gold
+metal spikes.
+\0 It's got attitude!"
+"110_25","This pouch looks like it's starting to
+tear in places.
+\0( It's a little sticky too.
+\0
+Did someone spill juice on it?"
+"110_26","A dusty, well-used bag.
+\0( It vaguely
+smells like those minty sports creams
+that athletes use."
+"110_27","This classic pouch was built with
+functionality in mind, nothing more.
+\0(
+It's the work of a craftsman.
+\0 Maybe."
+"110_28","A stylish bag that looks like it could
+be popular.
+\0( Whether it actually is
+popular might depend on the owner..."
+"110_29","A bag with a simple design.
+\0 I can tell
+it was painstakingly made by hand."
+"110_30","A snappy bag
+\0 covered with buttons
+and pins of different pop stars."
+"110_31","A pretty bag that's been well-loved.
+\0
+It looks like it's been customized a
+number of times."
+"110_32","The front of the bag has embroidered
+lettering in gold thread. The words
+are...""Bikers Are More Fun."""
+"200","My new life is underway...
+\0
+I can do whatever I want!
+\0
+WOO-HOO!"
+"204_02","Yes!
+\0 I finished paying
+off my home loan!"
+"204_03","Sweet!
+\0 I finally finished paying
+off my very last home loan!"
+"205",""
+"210","I see. This totally makes sense!"
+"210_01","I learned some \0pop hairstyles\0￿!
+I bet I could change up my look
+with a \0vanity\0￿ or a \0mirror\0￿."
+"210_02","I learned some \0cool hairstyles\0￿!
+I bet I could change up my look
+with a \0vanity\0￿ or a \0mirror\0￿."
+"210_03","I learned how to make some new
+\0hair colors\0￿! I bet I could change up
+my look with a \0vanity\0￿ or a \0mirror\0￿."
+"210_04","I learned some tricks for organizing
+my belongings! I bet I can carry
+a bit more stuff now!"
+"210_05","I've mastered the art of organizing!
+I bet I can carry a lot of stuff now!"
+"210_06","I learned how to easily switch tools!"
+"210_06_01","When \0I'm outside\0￿, I can press \0\0￿ to
+use the \0Tool Ring\0￿ now."
+"210_06_02","When \0I'm outside\0￿, I can press \0\0￿ to
+use the \0Tool Ring\0￿! \0\0(On a horizontal
+Joy-Con, use  +  instead.)\0￿"
+"210_07","I can make stronger tools that won't
+break so easily now! This is gonna be
+a material-gathering game changer!"
+"210_08","I've got the \0Pro\0￿ edition of the
+\0Custom Designs\0￿ app now! I'm gonna
+make my debut as a pro designer!"
+"211_01","Now I can do \0river construction
+\0￿with my \0Island Designer \0￿app!"
+"211_02","Now I can do \0cliff construction
+\0￿with my \0Island Designer \0￿app!"
+"211_03","Now I can make \0custom design
+paths\0￿ with my \0Island Designer \0￿app!"
+"211_04","Now I can make \0stone paths
+\0￿with my \0Island Designer \0￿app!"
+"211_05","Now I can make \0brick paths
+\0￿with my \0Island Designer \0￿app!"
+"211_06","Now I can make \0dark dirt paths
+\0￿with my \0Island Designer \0￿app!"
+"211_07","Now I can make \0arched tile paths
+\0￿with my \0Island Designer \0￿app!"
+"211_08","Now I can make \0sand paths
+\0￿with my \0Island Designer \0￿app!"
+"211_09","Now I can make \0terra-cotta tiles
+\0￿with my \0Island Designer \0￿app!"
+"211_10","Now I can make \0wooden paths
+\0￿with my \0Island Designer \0￿app!"
+"212","Wow!
+\0 Well, now that \0K.K. \0￿has
+performed, it's time to focus on
+making island life better and better.
+That means living each day to
+the fullest, doing things I like,
+and having lots of fun!"
+"213","Whew! All the home and furnishing
+prep work is done!"
+"214","Waitn\0\0 This meansn"
+"214_01","All the home and furnishing
+prep work is done!"
+"215","Alright! We reached
+our donation goal!"
+"216","Now I've got the \0Nook Shopping\0￿ app
+on my \0NookPhone\0￿! I can shop
+whenever I want, wherever I want!"
+"290","<"
+"290_01","Oh no!
+\0 I guess that's it for
+my \0}\0\0\0￿..."
+"290_02","Oh no!
+\0 Thank you for your service,
+faithful \0}\0\0\0￿..."
+"290_03","Oh no!
+\0 It's the end of the line for my
+trusty \0}\0\0\0￿..."
+"505","(
+촀\0This 2\0Ȁ촃old tire could be repurposedn\0\0
+\0
+(촀\0I've got an idea for a DIY recipe!"
+"506","(
+촀\0This 2\0Ȁ촃empty can could be
+repurposedn\0\0
+\0(촀\0 I've got an idea
+for a DIY recipe!"
+"507","(
+촀\0This 2\0Ā촃boot could be repurposedn\0\0
+\0
+(촀\0I've got an idea for a DIY recipe!"
+"508","(
+촀\0This 2\0Ā촃manila clam could be used as
+fishing baitn\0\0
+\0(촀\0 I've got an idea for a
+DIY recipe!"
+"509","Huh... OK!
+"
+"509_01","SWEET!
+\0 I learned a DIY recipe for
+2\0}\0\0!"
+"511","(
+촀\0Huh.
+\0 So that's how it's donen\0\0
+\0
+(촀\0I just discovered a recipe for
+making a \02\0Ā촃pitfall seed\0￿!"
+"512","(촀\0AH!
+\0 In\0\0I just came up with
+a recipe for a \02\0Ā촃golden axe\0￿!"
+"513","(
+촀\0I could probably wear these if I found
+another 2\0Ā촃boot, right?
+\0(촀\0
+\0 I've got an idea
+for a DIY recipe!"
+"514","(
+촀\0I sure have fished up a lot of trashn\0\0
+\0
+(촀\0
+\0I've got an idea for a DIY recipe!"
+"700","Happy birthday to 
+\0me!
+\0 It's always
+nice getting to celebrate with
+good cake and good friends."
+"701","Supplies for getaway-package
+participants are likely inside."
+"901","Should I put my tent here?"
+"901_a","Let me imagine it..."
+"901_b","This is the spot!"
+"901_c","I need to rethink it."
+"902","Would this be a good place
+for \0Blathers\0￿'s tent?"
+"902_a","Let me imagine it..."
+"902_b","This is the spot!"
+"902_c","I need to rethink it."
+"903","Should I reserve this
+space for the \0shop\0￿?"
+"903_a","Let me imagine it..."
+"903_b","This is the spot!"
+"903_c","I need to rethink it."
+"904","Should I put s촀's
+tent here?"
+"904_a","Let me imagine it..."
+"904_b","This is the spot!"
+"904_c","I need to rethink it."
+"905","Should I reserve this
+space for a new home?"
+"905_a","Let me imagine it..."
+"905_b","This is the spot!"
+"905_c","I need to rethink it."
+"906","Should I reserve this spot
+\0 for
+2\0\0}\0\0\0￿?"
+"906_a","Let me imagine it..."
+"906_b","This is the spot!"
+"906_c","I need to rethink it."
+"907","Should I reserve this spot
+\0 for
+2\0\0}\0\0\0￿?"
+"907_a","Let me imagine it..."
+"907_b","This is the spot!"
+"907_c","I need to rethink it."
+"908","Should I reserve this space
+for the \0tailor shop\0￿?"
+"908_a","Let me imagine it..."
+"908_b","This is the spot!"
+"908_c","I need to rethink it."
+"909","Should I set this area
+aside as \0plot one\0￿?"
+"909_01","Should I set this area
+aside as \0plot two\0￿?"
+"909_01_a","Let me imagine it..."
+"909_01_b","This is the spot!"
+"909_01_c","I need to rethink it."
+"909_02","Should I set this area
+aside as \0plot three\0￿?"
+"909_02_a","Let me imagine it..."
+"909_02_b","This is the spot!"
+"909_02_c","I need to rethink it."
+"909_03","Is this a good spot for the \0campsite\0￿?"
+"909_03_a","Let me imagine it..."
+"909_03_b","This is the spot!"
+"909_03_c","I need to rethink it."
+"909_04","This seems like a good spot.
+Should I move the \0campsite \0￿here?"
+"909_04_a","Let me imagine it..."
+"909_04_b","This is the spot!"
+"909_04_c","I need to rethink it."
+"909_a","Let me imagine it..."
+"909_b","This is the spot!"
+"909_c","I need to rethink it."
+"910","There isn't enough space here."
+"911","I'm too close to the water.
+I need more room."
+"911_01","The ground isn't stable near these
+rocks, so I shouldn't try to build
+anything here."
+"912","I'm too close to the water.
+I need more room."
+"913","I'm too close to a cliff.
+I need more room."
+"914","I'm too close to the ledge.
+I need more room."
+"914_01","Everyone gathers in this plaza, so
+you should choose a different place."
+"915","If I place buildings too close to each
+other, it'll block the flow of traffic.
+Better choose another place!"
+"916","If it's too close to a bridge like this,
+it'll block the flow of traffic. Better
+choose another place!"
+"917","If it's too close to an incline like
+this, it'll block the flow of traffic.
+Better choose another place!"
+"918","This is too close to the plaza. I don't
+want anything to get in the way here.
+Better choose another place!"
+"919","This is fairly close to someone's
+mailbox, so this isn't a good spot.
+Better choose another place!"
+"919_01","I'll need to move the \0mailbox\0￿ first."
+"921","There's no river near here that I can
+place a bridge over!"
+"926","To place a bridge, you need the river
+to be just the right width. And the
+land on either side should be even."
+"926_01","It'd be hard to use a bridge
+here with the water so close."
+"926_02","It'd be hard to use a bridge
+here with the cliff so close."
+"926_03","I don't think it'd be a good idea to
+build a bridge on the sand here."
+"927","I don't see an even stretch of cliffs
+here where an incline could go."
+"928","If I put an incline here, the end of it
+will bump up against a cliff."
+"928_01","This is a little too high. I don't think
+I'll build an incline up here."
+"931","
+\0We'll have to do a little landscaping,
+but we can make this work.
+Should we go ahead?"
+"931_a","OK!"
+"931_b","I need to rethink it."
+"932","
+\0Is this a good spot?"
+"932_a","OK!"
+"932_b","I need to rethink it."
+"941","Should I move here?"
+"941_a","Let me imagine it..."
+"941_b","This is the spot!"
+"941_c","I need to rethink it."
+"942","Should s촀
+move here?"
+"942_a","Let me imagine it..."
+"942_b","This is the spot!"
+"942_c","I need to rethink it."
+"943","Should the \0museum\0￿ move here?"
+"943_a","Let me imagine it..."
+"943_b","This is the spot!"
+"943_c","I need to rethink it."
+"944","Should the \0shop\0￿ move here?"
+"944_a","Let me imagine it..."
+"944_b","This is the spot!"
+"944_c","I need to rethink it."
+"945","Should the \0tailor shop\0￿ move here?"
+"945_a","Let me imagine it..."
+"945_b","This is the spot!"
+"945_c","I need to rethink it."
+"951","I set up my tent!
+\0
+That's a big first step!"
+"951_01","I set up my tent!
+\0 Now I have a home
+base for my new island life!"
+"952","\0Blathers\0￿ can set up his place now!"
+"953","This is where the \0shop\0￿ will go!
+\0
+I bet this island is about to
+become a whole lot livelier!"
+"953_01","This is where the \0tailor shop\0￿ will go!
+\0
+A wave of fashion will wash over us!"
+"954","
+\02\0s촀's got a place
+for 2hisher tent now!"
+"954_01","Looks like everyone has a spot
+picked out for their tents now.
+I need to get back to the plaza."
+"955","I picked a spot for a home to be built
+in the future.
+\0 A new island neighbor
+is potentially a new island friend!"
+"955_01","I picked a spot for a future home to
+be built. I hope it works!"
+"956","I picked a spot for \0plot 1\0￿!"
+"956_01","I picked a spot for \0plot 2\0￿!"
+"956_02","I picked a spot for \0plot 3\0￿!"
+"957","I picked a spot for the \0campsite\0￿!
+\0
+I hope lots of folks come by to visit."
+"958","I picked a spot for a \0bridge\0￿!
+\0
+Let the land connect!"
+"959","I picked a spot for an \0incline\0￿!
+\0
+That's a step-up for this island!"
+"960","I've picked a spot for my home!
+Starting tomorrow, I'll be getting
+a fresh start in a new location."
+"960_01","I've picked a new place for
+s촀's home! I sure
+hope 2heshe likes it."
+"960_02","I've picked a new location
+for the \0museum\0￿!"
+"960_03","I've picked a new location
+for the \0shop\0￿!"
+"960_04","I've picked a new location
+for the \0tailor shop\0￿!"
+"960_05","I picked a new location for
+the \0campsite\0￿! I hope we get
+even more visitors now!"
+"990","I'm searching for treasure right now,
+\0
+so I'll look for a good place for this
+some other time."

@@ -1,0 +1,135 @@
+﻿"label","text"
+"001","(4촀\0Ich hatte gerade eine Ideen\0\0
+\0
+Hast du Lust auf ein lustiges
+Spielchen, 
+\0n\0?\0\0()촀\0Wenn du gewinnst, 
+\0gehört 2$촀mein
+meinemein }\0\0 dir!
+\0( ($촀\0Was hältst du davon?"
+"001_a","Klingt gut, spielen wir!"
+"001_b","Passt mir jetzt nicht."
+"002","(&촀\0Sollen wir die Regeln durchgehen?"
+"002_a","Klar!"
+"002_b","Nicht nötig."
+"003","In Ordnung, 
+\0(촀\0vielleicht ein andermal!"
+"004","(<촀\0Fein, 
+\0dann mische ich die Karten!"
+"005","(6촀\0Aha! 
+\0((촀\0Mal sehen, 
+\0ob du recht hast..."
+"006_01","Du hast gewonnen! 
+\0((촀\0Damit gehört 2$촀mein
+meinemein }\0\0 jetzt dir, 
+\0n\0!"
+"006_02","(6촀\0Also habe ich verloren! 
+\0((촀\0Damit gehört 2$촀mein
+meinemein }\0\0 jetzt dir, 
+\0n\0!"
+"006_03","(촀\0Tut mir leid. 
+\0Diesmal gehst du
+leider leer aus."
+"007_01","(;촀\0Bist du etwa Ratespiel-Profi? 
+\0((6촀\0Das
+können wir demnächst einmal bei
+einer weiteren Runde herausfinden."
+"007_03","(촀\0Ich hoffe, dieser kleine Misserfolg
+hält dich nicht davon ab, 
+\0es
+irgendwann erneut zu probieren!"
+"008","(촀\0Oooh, wirklich?
+\02 ( 촀\0Halt, 
+\0deine Taschen
+sind ja viel zu voll.\0\0('촀\0So kann ich dir gar keinen Preis
+geben.
+\0( (\0촀\0Spielen wir später,(촀\0
+\0 wenn du
+Platz geschaffen hast,
+\0 n\0."
+"100","($촀\0Also,
+\0 das Spiel geht so... 
+\0(()촀\0Ich habe
+vier Karten, 
+\0und zwar je eine von
+jeder Spielfarbe 
+\0(\0♥\0￿,
+\0\0♦\0￿,
+\0 \0♠\0￿
+\0 und \0♣\0￿).\0\0(\0촀\0Ich ziehe nur eine Karte,
+\0 und du
+musst dann raten, 
+\0zu welcher
+Spielfarbe sie gehört.\0\0(\0촀\0Wenn du richtigliegst, 
+\0(%촀\0gewinnst du
+2(촀meinen
+meinemein 2촁}\0\0.\0\0(촀\0Ganz einfach, 
+\0nicht wahr? 
+\0
+(<촀\0Dann mische ich jetzt die Karten."
+"101","So! 
+\0(6촀\0Zu welcher Spielfarbe gehört
+die Karte, 
+\0die ich gezogen habe?
+\0(
+\0♥\0￿,
+\0 \0♦\0￿,
+\0 \0♠\0￿ 
+\0oder \0♣\0￿, 
+\0n\0?"
+"101_a","\0♥ Herz\0￿"
+"101_b","\0♦ Karo\0￿"
+"101_c","\0♠ Pik\0￿"
+"101_d","\0♣ Kreuz\0￿"
+"102_01","(촀\0촀! 
+\0((촀\0Richtig geraten!"
+"102_02","(촀\0촀! 
+\0((촀\0Leider falsch..."
+"200","($촀\0Also,
+\0 das Spiel geht so... 
+\0(()촀\0Ich habe
+vier Karten, 
+\0und zwar je eine von
+jeder Spielfarbe 
+\0(\0♥\0￿,
+\0\0♦\0￿,
+\0 \0♠\0￿
+\0 und \0♣\0￿).
+(\0촀\0Ich ziehe eine Karte, 
+\0und dann musst
+du raten, 
+\0ob das Symbol darauf
+rot oder schwarz ist.\0\0(\0촀\0Wenn du richtigliegst, 
+\0(%촀\0gewinnst du
+2(촀meinen
+meinemein 2촁}\0\0.\0\0(촀\0Ganz einfach, 
+\0nicht wahr? 
+\0
+(<촀\0Dann mische ich jetzt die Karten."
+"201","So! 
+\0(6촀\0Ist das Symbol für die Spielfarbe
+der Karte, 
+\0die ich gezogen habe,
+\0
+\0rot \0￿oder \0schwarz\0￿, 
+\0n\0?"
+"201_a","\0Rot!\0￿"
+"201_b","\0Schwarz!\0￿"
+"202_01","(촀\0촀! 
+\0(Ein \0rotes \0￿Symbol!
+\0(
+(촀\0Du hast richtig geraten!"
+"202_02","(촀\0촀! 
+\0((촀\0Oje, 
+\0ein \0schwarzes \0￿Symbol.
+\0(
+Leider falsch geraten..."
+"202_03","(촀\0촀!
+\0( Ein \0schwarzes \0￿Symbol!
+\0(
+(촀\0Du hast richtig geraten!"
+"202_04","(촀\0촀! 
+\0((촀\0Oje, 
+\0ein \0rotes \0￿Symbol.
+\0(
+Leider falsch geraten..."

@@ -1,0 +1,134 @@
+﻿"label","text"
+"001","Hey, ($촀\0sollen wir was spielen?\0\0(\0촀\0Wenn du gewinnst, gebe ich dir 
+2(촀meinen
+meinemein 2촁}\0\0 (촀\0als Preis,
+\0 n\0!"
+"001_a","Klingt gut!"
+"001_b","Jetzt gerade nicht..."
+"002","(촀\0Cool!
+\0 (촀\0Dann lass uns loslegen!
+\0(
+($촀\0Soll ich dir die Regeln erklären,
+
+\0n\0?"
+"002_a","Ja, bitte."
+"002_b","Nicht nötig."
+"003","(촀\0Ach, 
+\0schade.
+\0( Wenn du doch noch
+spielen willst, 
+\0ich bin weiter für ein
+Ründchen zu haben."
+"004","Also gut!
+\0( Zuerst mische ich die
+Karten ordentlich durch!
+\0 (<촀\0
+\0Misch,
+misch, misch..."
+"005","(9촀\0Dann schauen wir mal!"
+"006_01","(촀\0Oh, 
+\0wow!
+\0 Du hast gewonnen!
+\0(
+(촀\0Dann ist hier wie versprochen 2$촀mein
+meinemein
+}\0\0!"
+"006_02","(촀\0Das heißt, 
+\0ich habe verloren!
+\0(
+(촀\0Dann bekommst du wie versprochen
+2(촀meinen
+meinemein 2촁}\0\0!"
+"006_03","(촀\0Ich hab gewonnen!
+\02 (\0촀\0Das heißt,
+\0
+du kriegst leider keinen Preis..."
+"007_01","(촀\0Das war lustig, 
+\0äh, he he he!
+\0( Auch
+wenn ich verloren habe.
+\0( (""촀\0Wir müssen
+irgendwann wieder spielen!"
+"007_03","(촀\0Äh he he he.
+\0 Vor lauter Spannung
+hab ich glatt das Atmen vergessen!"
+"008","(촀\0Juchhu!
+\0 Dann kann's ja losgehen!
+\0(\0\0(촀\0Oha.
+\0 Deine Tasche ist ja voll.
+\0
+('촀\0Dann sollten wir es lieber doch
+sein lassen.\0\0()촀\0Weil, es wäre ja voll schade, wenn
+du gewinnen würdest, aber keinen
+Platz für deinen Preis hättest!\0\0(""촀\0Dann spielen wir ein andermal,
+
+\0n\0!"
+"100","Hier sind die Regeln!
+\0( ()촀\0Ich habe Karten
+mit vier Arten von Farben: \0♥♦\0￿\0♠♣.\0￿\0\0()촀\0Ich ziehe eine Karte, 
+\0und du musst
+raten,(%촀\0 welche Farbe sie hat.\0\0(\0촀\0Wenn du richtig liegst, gewinnst du
+(""촀\02(촀meinen
+meinemein 2촁}\0\0!\0\0(\0촀\0Aber wenn du falsch liegst...
+\0 (&촀\0Dann...
+\0
+Ähn\0\0
+\0 (촀\0
+\0Weiß ich auch nicht! 
+\0((<촀\0Fangen wir
+einfach mal an!"
+"101","(=촀\0So!
+\02(\0촀\0 Welche dieser (;촀\0vier Farben
+\0♥♦\0￿\0♠♣ \0￿hat die Karte?"
+"101_a","\0♥ Herz\0￿"
+"101_b","\0♦ Karo\0￿"
+"101_c","\0♠ Pik\0￿"
+"101_d","\0♣ Kreuz\0￿"
+"102_01","Die Antwort lautetn\0\0 (촀\0
+\0촀!
+\0(
+(촀\0
+\0Du hast richtiggelegen!"
+"102_02","Die Antwort lautetn\0\0 (촀\0
+\0촀!
+\0(
+(촀\0
+\0Och, so ein Pech!"
+"200","Gut!
+\0( ()촀\0Ich habe Karten mit den
+folgenden Farben: \0♥♦\0￿\0♠♣.\0￿\0\0()촀\0Ich ziehe eine Karte, 
+\0und du musst
+raten,(%촀\0 ob sie \0rot\0￿ oder \0schwarz\0￿ ist.\0\0(\0촀\0Wenn du recht hast, gewinnst du
+(""촀\02(촀meinen
+meinemein 2촁}\0\0!\0\0(<촀\0Also loooooos!"
+"201","(=촀\0Und? 
+\02(\0촀\0Welche Farbe hat meine Karte?
+(;촀\0
+\0\0Rot\0￿ 
+\0oder \0schwarz\0￿?"
+"201_a","\0Rot\0￿"
+"201_b","\0Schwarz\0￿"
+"202_01","Die Antwort lautet(촀\0n\0\0
+\0 촀!
+\0(
+(촀\0Das bedeutet \0rot\0￿!
+\0
+Du hast richtiggelegen!"
+"202_02","Die Antwort lautet(촀\0n\0\0
+\0 촀!
+\0(
+(촀\0Das bedeutet \0schwarz\0￿!
+\0
+Damit liegst du also leider falsch..."
+"202_03","Die Antwort lautet(촀\0n\0\0
+\0 촀!
+\0(
+(촀\0Das bedeutet \0schwarz\0￿!
+\0
+Du hast richtiggelegen!"
+"202_04","Die Antwort lautet(촀\0n\0\0
+\0 촀!
+\0(
+(촀\0Das bedeutet \0rot\0￿!
+\0
+Damit liegst du also leider falsch..."

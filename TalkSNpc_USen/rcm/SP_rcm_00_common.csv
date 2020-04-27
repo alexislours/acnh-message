@@ -1,0 +1,501 @@
+﻿"label","text"
+"001","(촀\0Welcome, n\0!
+\0
+(\0촀\0How can I help you today?"
+"001_a","I want to sell!"
+"001_b","What's for sale?"
+"001_c","('촀\0See you later."
+"002","(촀\0Oho!
+\0 And what do we have here?(촀\0
+\0
+
+\0(촀\0I'm impressed that you traveled all
+the way to our fair island!
+(\0촀\0What can I do you for today?"
+"002_a","I want to sell!"
+"002_b","What's for sale?"
+"002_c","('촀\0See you later."
+"003","(촀\0How can I help you?"
+"003_a","I want to sell!"
+"003_b","What's for sale?"
+"003_c","('촀\0See you later."
+"011","(촂\02\0(촃\0n\0,
+\0 welcome!d\0
+\0 \0K...welcome!\0dd
+\0 (\0촂\0What do you need today?"
+"011_a","I want to sell!"
+"011_b","Turnip prices?"
+"011_c","What's hot today?"
+"011_d","('촀\0See you later."
+"012","(촀\0Oho!
+\0 And what do we have here?(촀\0
+\0
+
+\0(촀\0I'm impressed that you traveled all
+the way to our fair island!
+(\0촀\0What can I do you for today?"
+"012_a","I want to sell!"
+"012_b","Turnip prices?"
+"012_c","What's hot today?"
+"012_d","('촀\0See you later."
+"013","(촂\0(촃\0Yes! Yes, of course!d\0
+\0 \0K...of course!\0dd
+\0(
+What do you need?"
+"013_a","I want to sell!"
+"013_b","Turnip prices?"
+"013_c","What's hot today?"
+"013_d","('촀\0See you later."
+"014","(촂\0(촃\0Sorry about that. That explanation
+went on for a bitn\0\0
+\0(촂\0(촃\0 How can I help?"
+"014_a","I want to sell!"
+"014_b","Turnip prices?"
+"014_c","What's hot today?"
+"014_d","('촀\0See you later."
+"019","Is there anything else (촂\0(촃\0I can do for
+you today?d\0
+\0 \0K...today?\0dd"
+"019_a","I want to sell!"
+"019_b","Turnip prices?"
+"019_c","What's hot today?"
+"019_d","('촀\0See you later."
+"021","(%촂\0(촃\0Of course! (\0촂\0
+\0(촂\0What exactly are you
+offering?d\0
+\0 \0K...offering?\0dd(촂\0(촃"
+"022","()촂\0(촃\0Now, we have a policy in place of not
+buying turnips on Sundays.
+\0 I'm sure
+you (%촃\0understand.
+(\0촂\0(\0촃\0So, 
+\0(촂\0(촃\0what would you like to sell?(촂\0(촃"
+"024","(촂\0(촃\0Ummmn\0\0
+\0 Sincerest apologies, butn\0\0
+\0
+since it's Sunday, some items, such
+as turnips, are off the table nown\0\0\0\0(\0촂\0(\0촃\0Sorry for the trouble, but please
+reselect what you'd like to sell."
+"031","(%촂\0(촃\02\02\0}\0\0!
+\0
+(촂\0Sure! How about if I offer you
+Z\0?"
+"031_a","(%촀\0Sold!"
+"031_b","('촀\0Actually, I'll pass."
+"035","\0K(;촀\0Ahn\0\0
+\0 Could this }\0\0 ben\0\0\0d
+(촀\0
+\0Oh! 
+\0(촀\0Don't mind me! Just rambling.\0\0I can give you Z\0 for
+your }\0\0."
+"035_a","(%촀\0Sold!"
+"035_b","('촀\0Actually, I'll pass."
+"036","(%촂\0(촃\0Ah! This is a DIY recipe for 2\0
+}\0\0!\0\0(촂\0I can pay you Z\0 for it!"
+"036_a","(%촀\0Sold!"
+"036_b","('촀\0Actually, I'll pass."
+"037","(촂\0(촃\0OH!
+\0 This is the DIY recipe for 2\0
+}\0\0!\0\0(촂\0This is an extremely valuable(%촃\0 recipe.
+\0
+Are you really sure you want to part
+with it?
+\0 I can give you Z\0n"
+"037_a","(%촀\0Sold!"
+"037_b","('촀\0Actually, I'll pass."
+"038","(촂\0(촃\0Ohn\0\0
+\0 I'm sorry, but I can't pay you
+for items like this.\0\0I can dispose of it for free if you
+don't need it, though."
+"038_a","Take my trash!"
+"038_b","I'll take my trash back."
+"041","(촂\0(촃\0Look at all the fine things you've
+brought in today! 
+\0((
+촂\0(1촃\0Allow me just
+a moment to run the numbersn"
+"041_01","Look at all the fine things you've
+brought in today!
+\0 \0K(;촀\0
+\0Waitn\0\0
+\0 Are they sellingn\0\0\0d\0\0(촀\0
+\0Oh!
+\0(촀\0 It's nothing! Nothing! I'll start
+running the numbersn"
+"041_02","(촂\0(촃\0Look at this fine selection!
+\0((
+촂\0(1촃\0 Let's
+seen\0\0
+\0 I'll run the numbersn\0\0take
+any high-value hot itemsn"
+"042","(촂\0(촃\0And done!
+\0( (\0촂\0I can buy these from you
+for a total of
+\0 Z\0.
+\0(촂\0
+Sound good?"
+"042_a","(%촀\0Sold!"
+"042_b","('촀\0Actually, I'll pass."
+"043","(촂\0(촃\0So many fine thin\0\0(촂\0(촃\0
+\0 Huh?
+\0 (\0촂\0(\0촃\0I'm seeing
+an extremely valuable recipe in the
+mix.
+\0(&촂\0(&촃\0 Are you sure about this?"
+"043_a","(%촀\0It's fine. Go ahead."
+"043_b","('촀\0Er, no. Hold on a sec."
+"044_01","(촂\0
+\0(촃\0Understood!d\0 
+\0\0K...understood!\0dd
+\0(
+(1촂\0(%촃\0I'll just run the numbersn"
+"044_02","(촂\0
+\0(촃\0Understood!d\0 
+\0\0K...understood!\0dd
+\0(
+(
+촂\0(1촃\0Well, I'll run the numbers, taking any
+hot items into considerationn"
+"045","(촂\0(촃\0And done!\0\0(\0촂\0There is a portion of your submission
+I cannot pay Bells for. I can dispose
+of any unwanted items, though.
+(\0촂\0That said, your total comes out to
+\0
+Z\0.
+\0(촂\0 Sound good?"
+"045_a","(%촀\0Sold!"
+"045_b","('촀\0Actually, I'll pass."
+"046","(촂\0(촃\0Ohn\0\0
+\0 I'm sorry, but I can't pay you
+for items like these.\0\0I can dispose of them for free if you
+don't need these things, though."
+"046_a","Take my trash!"
+"046_b","I'll take my trash back."
+"051","(촀\0(촃\0Thank you! 
+\0Please come again!(%촃\0d\0
+\0 \0K...again!\0dd"
+"051_01","(촂\0
+\0(촃\0Understood!d\0
+\0 \0K...understood!\0dd
+\0(
+We'll take care of disposal."
+"052","(촂\0(촃\0Thank you for your business!
+\0((\0촂\0(\0촃\0 I'll go
+ahead and put any excess Bells into
+bags in your pockets!"
+"053","(촂\0(촃\0Thank you very much!
+\0((\0촂\0(\0촃\0 Your wallet
+and pockets are full, so I'll just wire
+the payment(촂\0(촃\0 to your account."
+"054","(촂\0Oh dear!(촃\0d\0
+\0 \0K...oh dear!\0dd
+\0\0\0('촂\0
+\0('촃\0It doesn't seem like you can carry
+\0
+your full payment at this time, so I
+can't pay youn\0\0\0\0(\0촂\0(%촃\0Please take a moment to organize
+your belongings, 
+\0(촂\0(촃\0then talk to me
+again.d\0
+\0 \0K...again!\0dd"
+"056_01","(촂\0(촃\0Oh, before I forget! 
+\0(\0촂\0(\0촃\0I wanted to tell
+you something about the \0fruit\0￿ you
+just sold men\0\0\0\0()촂\0When you \0eat\0￿ food like fruit, 
+\0(%촃\0you'll
+find yourself energized with more
+power than you might have imagined.
+(&촂\0(촃\0Has anyone shared that with you?"
+"056_02","()촂\0What I mean is,
+\0(%촃\0 you could break open
+rocks or maybe even dig up a whole
+tree if you had the right tool!"
+"056_03","()촂\0What I mean is,
+\0(%촃\0 you could break open
+rocks or maybe even dig up a whole
+treen\0\0with a shovel, of course."
+"056_04","(촂\0(촃\0Now, it's fine for you to sell me your
+fruit, but you should try \0eating \0￿it
+once in a while too!d\0
+\0 \0K...too!\0dd"
+"061","(촀\0(촃\0Curious about what's in the cabinet?
+Here's what we have today!(촃\0d\0
+\0 \0K...today!\0dd"
+"081","The current price for turnips is
+\0
+(촀\0(촃\0Z\0 per turnip!"
+"082","On Sundays
+\0 we take a little break
+from buying turnips.
+\0 (촀\0(촃\0Please check
+back in with us tomorrow."
+"091","(\0촀\0(촀\0Here's what we have to sell today.(촀"
+"092","(&촃\0(촃\0Anything else look interesting?"
+"092_a","Show me again!"
+"092_b","I'm alright!"
+"093","(촀\0Yes, yes! Of course!
+\0( Feel free to look
+all you want.(촀"
+"094","(%촀\0(촃\02\02\0}\0\0
+\0
+would be Z\0."
+"094_a","(%촀\0I'll buy it!"
+"094_b","('촀\0Actually, I'll pass."
+"096","(촂\0(촃\0Oh! 
+\0Interested in a \0fishing rod\0￿?\0\0(\0촂\0You can build one for free, you know,
+in \0President Nook\0￿'s \0DIY \0￿workshop.
+
+\0(%촃\0So I'd suggest that route.
+(촂\0(촃\0This one costs Z\0.
+\0
+(&촂\0Are you still interested?(&촃\0d\0
+\0 \0K...interested?\0dd"
+"096_a","(%촀\0I'll buy it!"
+"096_b","('촀\0Actually, I'll pass."
+"101","(%촂\0(촃\0Seems like you're interested in
+\0(촂\0 2\0
+}\0\0."
+"102","(%촂\0Those are in limited supply,
+\0(%촃\0 so act
+fast if (촂\0(촃\0you're serious."
+"103","Let's seen\0\0
+\0(%촂\0 That's Z\0.
+\0
+($촂\0($촃\0What do you think?"
+"103_a","(%촀\0I'll buy it!"
+"103_b","('촀\0Actually, I'll pass."
+"104","Let's seen\0\0
+\0(%촂\0 That's Z\0.
+\0
+($촂\0($촃\0What do you think?"
+"104_01_01","(\0촂\0(\0촃\0You haven't attempted(&촂\0(&촃\0 a \0DIY \0￿project
+here on the island yet, correct?"
+"104_01_02","(촀\0Right now, the boss is offering a free
+\0DIY \0￿workshop, so
+\0 please give that a
+try first!"
+"104_01_03","(촂\0Right now, the boss is (%촃\0offering a
+free \0DIY \0￿workshop inside \0Resident
+Services\0￿, so
+\0(촃\0 please try that first!"
+"104_02","(촂\0I do believe(%촃\0 you've purchased this
+already,(촃\0 n\0!"
+"104_a","(%촀\0I'll buy it!"
+"104_b","What is this?"
+"104_c","('촀\0Actually, I'll pass."
+"105_01","(촂\0(촃\0""2\0}\0\0""
+\0
+is a digital \0DIY \0￿recipe book!d\0 
+\0\0K...book!\0dd"
+"106_01_01","()촂\0(촃\0This }\0\0
+\0
+contains simple \0DIY \0￿recipes that use
+materials you can easily obtain."
+"106_01_02","()촂\0(촃\0This }\0\0
+\0
+contains recipes that require an
+interesting variety of materials."
+"106_01_03","()촂\0(촃\0This }\0\0
+\0
+contains a mix of recipes that require
+a mastery of various materials!"
+"106_02","(촂\0(촃\0I'll send the recipe data to your app
+immediately if you decide to make a
+purchase."
+"107_01","(촂\0OK, 
+\0time to send the recipes from
+""}\0\0""(촃\0 to
+your phonen"
+"107_02","(촂\0(촃\0And we're done!
+\0(촂\0 I hope you enjoy
+\0DIY \0￿even more now with your new
+recipes!d\0
+\0 \0K...new recipes!\0dd"
+"110_02","(촂\0(촃\02\0n\0, I'm pretty sure
+you already have this recipe.\0\0(촂\0(촃\0But if you still want to buy it, it'll
+cost Z\0.
+\0(&촀\0
+\0 Are you still
+(&촂\0interested?(&촃\0d\0
+\0 \0K...interested?\0dd"
+"110_02_a","(%촀\0I'll buy it!"
+"110_02_b","('촀\0Actually, I'll pass."
+"110_03","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃flimsy watering can\0￿."
+"110_03_01","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃flimsy shovel\0￿."
+"110_03_02","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃vaulting pole\0￿."
+"110_03_03","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃slingshot\0￿."
+"110_03_04","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃flimsy axe\0￿!"
+"110_03_05","(촂\0(촃\0This is a \0DIY\0￿ recipe used to create a
+\02\0Ā촃ladder\0￿!"
+"110_04_01","(촂\0(촃\0This is a recipe for a simple \0watering
+can\0￿ made out of wood."
+"110_04_02","()촂\0With a watering can,
+\0(%촃\0 you can water
+flowers and enjoy gardening.(촀\0\0\0(촂\0(촃\0This is a must-have item for anyone
+who wants to create rare, colorful
+flowers through crossbreeding."
+"110_05_01","(촂\0(촃\0This is a recipe for a simple \0shovel\0￿
+made out of wood."
+"110_05_02","()촂\0\0Shovels\0￿ are useful for(%촃\0 making holes
+in the ground. You can dig things
+upn\0\0and bury them too!\0\0(촂\0You can also (촃\0smack large rocks to
+chip off smaller stones and other
+important materials.\0\0(%촂\0It's the kind of tool you'll (%촃\0always
+want(촂\0 to have on hand!(촃\0d\0
+\0 \0K...have on hand!\0dd"
+"110_06_01","(촂\0(촃\0This is a recipe for a \02\0Ā촃vaulting pole
+\0￿made out of wood."
+"110_06_02","()촂\0You can use a \02\0Ā촃vaulting pole \0￿to (%촃\0hop
+over rivers!(촂\0\0\0(%촂\0(촃\0It's a handy item to have when you
+live on an island like this one.(촂"
+"110_07_01","(촂\0(촃\0This is a recipe for a \02\0Ā촃slingshot\0￿."
+"110_07_02","()촂\0You can use a \02\0Ā촃slingshot \0￿to\0(%촃\0\0￿ knock
+items out of the skyn\0\0\0\0(촂\0(촃\0You never know when you might want
+to bring something down, so may
+as well carry one around with you!"
+"110_08_01","(촂\0(촃\0This is a recipe for a basic \0axe\0￿ made
+from a stone and 2\0Ѐ촃tree branches."
+"110_08_02","()촂\0Hit a tree with an \0axe\0￿ and(%촃\0 you'll get
+something absolutely necessary for
+any DIY enthusiast: (촂\0wood!(촃\0
+(\0촂\0(\0촃\0What's more, the \02\0Ā촃flimsy axe\0￿
+\0 has a
+rounded stone blade, so
+\0(촂\0(촃\0 you won't
+chop down any trees when using it.
+(%촂\0(촃\0That makes it a must-have item,
+something to carry at all times if you
+want to live the DIY life here!(촂\0d\0
+\0 \0K...here!\0dd"
+"110_09_01","(촂\0(촃\0This is a recipe for a \02\0Ā촃ladder \0￿made
+from wood!"
+"110_09_02","()촂\0You can use a \02\0Ā촃ladder \0￿to climb up(%촃\0
+or down cliffs that are about your
+height—(촂\0maybe a little taller.\0\0(%촂\0(촃\0It's one of those handy tools for
+island living that you always want
+to have on hand!(촂\0d\0
+\0 \0K...on hand!\0dd"
+"111","(촂\0(촃\0Thank you for your purcha—
+\0\0\0(촂\0(촃\0Oh! 
+\0((촂\0(촃\0You, ah, don't have enough
+money in your pockets.\0\0()촂\0(7촃\0Our shop doesn't offer a line of
+credit, 
+\0
+\0so please come back when
+you have more money.(촃\0d\0
+\0 \0K...money!\0dd"
+"112","(촂\0(촃\0Thank you for your purcha—
+\0\0\0(촂\0(촃\0Whoa!
+\0((촂\0(촃\0 You're already carrying so
+many things!\0\0(%촂\0(촃\0Maybe you can come back
+\0 (촂\0after you
+make room in your pockets.(%촃\0d\0
+\0 \0K...pockets!\0dd"
+"113","(촂\0(촃\0Excellent purchase!(촃\0d\0
+\0 \0K...purchase!\0dd"
+"114","(촀\0Yes, thank you for the
+Z\0!(%촃"
+"121","(촂\0(촃\0The high-value hot item of the day is
+\0
+2\0}\0\0!"
+"121_01","(촂\0(촃\0The hot items of the day are: 2\0
+}\0\0 and
+2\0}\0."
+"121_02","()촂\0We pay \0twice(%촃\0\0￿ the usual amount for
+hot items,
+\0(촂\0(촃\0 so go ahead and bring 'em
+in!d\0
+\0 \0K...bring 'em in!\0dd"
+"122","(촂\0(촃\02\02\0}\0\0!
+I'll give \0twice \0￿the usual amount, son\0\0
+Z\0.
+\0(&촂\0(&촃\0 Is that OK?"
+"122_a","(%촀\0Sold!"
+"122_b","('촀\0Actually, I'll pass."
+"131","2\0}\0\0?
+\0(%촃\0
+I can sell in singles or in bulk.
+\0(&촂\0
+How many would you like?"
+"131_a","Just 1. (\0Z\0\0￿)"
+"131_b","I'll take 5! (\0Z
+\0￿)"
+"131_c","I've changed my mind."
+"200","(촂\0(촃\0Thank you!d\0
+\0 \0K...Thank you!\0dd
+Z"
+"201","(촂\0
+\0(촃\0Hello!d\0
+\0 \0K...hello!\0dd
+\0 Welcome to
+\0Nook's Cranny\0￿!"
+"202","(촂\0(촃\0Welcome!d\0
+\0 \0K...welcome!\0dd \0\0(촂\0(촃\0Oh,
+\0 n\0!
+\0(촂\0(촃\0 You've come
+to shop!d\0
+\0 \0K...shop!\0dd"
+"203","(촂\0(촃\02\0n\0!
+\0
+You've come to shop!d\0 
+\0\0K...shop!\0dd"
+"204","(촂\0We've got all sorts of (%촃\0furniture and
+goods. I'm sure you'll find something
+useful here!(촃"
+"205","(%촂\0Take your time, and (%촃\0have a nice look
+around!(촂\0
+\0(촃\0d\0
+\0 \0K...look around!\0dd"
+"206","(%촂\0We're very (%촃\0proud of our selection.
+\0
+Please take your time and look
+around!(촂\0
+\0(촃\0d\0
+\0 \0K...look around!\0dd"
+"207","(촂\0(촃\0Umn\0\0 As much as we do enjoy your
+companyn\0\0it's past our closing hours
+for today.
+´\0\0\0(촂\0(\0촃\0But we'll look forward to (%촃\0seeing you
+here again another time!\0Kd\0
+\0 ...another time!d\0d
+Z"
+"901","( 촂\0Oh?
+\0(&촂\0 Are you sure?
+\0 (\0촂\0(촃\0Well, if there's
+anything else I can help you with,
+\0
+(촂\0please let me know.d\0
+\0 \0K...know!\0dd"
+"902_01","Understood!
+\0 Please let me know
+\0(촂\0(촃\0 if
+you need anything else.d\0
+\0 \0K...else!\0dd"
+"902_02","(촂\0(촃\0Oh! Changed your mind?
+\0(촂\0(촃\0 Anything
+else catch your eye?"
+"903_01","(촀\0Ah, 
+\0changed your mind?
+\0(\0촀\0 Please let
+me know if(촀\0 there's anything else I
+can help with!"
+"903_02","(\0촂\0(\0촃\0I'll be here if you (촂\0(촃\0need anything else."
+"903_03","(촀\0Thank you!
+\0 Please don't hesitate to
+ask me for assistance."
+"903_04","Thank you!d\0
+\0 \0K...thank you!\0dd"
+"904","(촂\0(촃\0Understood!d\0
+\0 \0K...understood!\0dd
+\0(
+Please let me know if you need help
+with anything else!d\0
+\0 \0K...anything else!\0dd"
+"905","(촂\0(촃\0Well then, please don't hesitate (촂\0to
+ask if you need assistance!d\0 
+\0\0K...assistance!\0dd"

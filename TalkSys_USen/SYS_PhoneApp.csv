@@ -1,0 +1,505 @@
+﻿"label","text"
+"000","Huh?
+\0 ""Outside Service Area""?
+\0 Guess
+I can't use the app here."
+"001","Call Rescue Service?"
+"001_a","(\0촁\0Call!"
+"001_b","(\0촁\0Nope."
+"010","                    
+\0d\0d\0\0See ya!\0ddd
+"
+"011","d\0
+\0                     \0Hello!\0d
+-\0\0\0Thanks for your call.
+\0 You've reached
+the 
+\0\0Rescue Service \0￿hotline.d"
+"011_01","d\0Let's see,
+\0 you aren\0\0d
+"
+"011_02","d\0Your current location isn\0\0d
+"
+"012","d\0Dirt clods!
+\0 I dunno what's goin' on
+with this thing!
+\0 Signal's bouncin'
+around like crazyn\0\0d"
+"012_01","d\0Tell me somethin', pal. 
+\0You got a
+visitor? 
+\0Or maybe ya got the gate
+open at the airport or somethin'?\0\0'Cause here's the deal—ya get too
+many signals jumbled together,
+\0
+and things don't work so welln\0\0\0\0If this is really an emergency-type
+\0
+situation, open the \0 Button\0￿ menu,
+\0
+and select \0End Session\0￿, will ya?d"
+"012_02","d\0Tell me somethin', paln\0\0
+\0 Are you,
+by chance,
+\0 off visitin' somebody
+else's island?\0\0'Cause listen up—I get too many
+signals smackin' into each other,
+
+\0an' things can getn\0\0messy.\0\0If you're really, truly in a jam,
+\0 ya
+gotta select \0Return to my island \0￿on
+the \0 Button\0￿ menu. Got it?d"
+"013","d\0Hold up. 
+\0Are you, uh,
+\0 currently
+inside a building?\0\0Hate to break it to ya, bud,
+\0
+but this is one o' those
+outdoor-only services.\0\0Listenn\0\0
+\0ya whack your noggin on
+the ceiling,
+\0 ya got a major headache,
+am I right?
+\0 No one wants that.\0\0So 
+\0ya wanna use this service,
+\0 ya
+gotta 
+\0step outside, capice?d"
+"021_01","d\0I got it.
+\0 This is n\0
+of n!\0, right?d"
+"021_02","d\0Just gimme a sec...
+\0 OK! Got it!
+\0
+2\0n\0 from over
+on n!\0, right?
+
+\0In a bit of a jam, huh?d"
+"021_03","d\0Huh? 
+\02\0n\0?
+\0
+Again? Got yourself in another
+pickle, huh?d"
+"022","d\0Hey, pal. 
+\0You're a first-time user,
+right? 
+\0Let me lay out the nuts and
+bolts of the service for ya.\0\0We're here to 
+\0help ya out when
+\0
+ya get yourself stuck somewhere.
+Give us a call, andn\0\0\0\0faster than you can say 
+\0""earthworm
+sandwich,"" 
+\0we transport you
+someplace nice and safe.\0\0Revolutionary tech! 
+\0How's it work?
+\0
+Trade secret, ya nosy noodle!
+\0
+Seriously. Leave it alone.d"
+"023_01","d\0Fee structure's simple. 
+\0A single
+rescue'll cost ya \0100 \0￿milesn\0\0
+\0 That's
+100 Nook Milesn\0\0 Whaddaya say?d"
+"023_01_a","(%촁\0Yes! Help!"
+"023_01_b","('촁\0No, thanks."
+"023_02","d\0It's \0100 \0￿miles per rescue.
+\0
+Whaddaya say?d"
+"023_02_a","(%촁\0Yes! Help!"
+"023_02_b","('촁\0No, thanks."
+"023_03","d\0Oh yeahn\0\0 That reminds me.
+Last time you didn't have enough
+miles, n\0n\0\0
+\0(
+I hope history ain't repeatin' itselfn\0\0\0\0The fee is \0100 \0￿miles a pop. That's
+100 Nook Miles.
+\0 Whaddaya say?d"
+"023_03_a","(%촁\0Yes! Help!"
+"023_03_b","('촁\0No, thanks."
+"031_01","d\0What's that? 
+\0You're good?d"
+"031_02","d\0What? 
+\0You're good?
+\0( Listenn\0\0
+\0
+I'm not irked 'bout your previous
+miles issuen\0\0
+\0 Ya know that, right?d"
+"032_01","d\0If you're in a jam,
+\0 just say the word!d"
+"032_02","d\0Ain't got the Nook Miles or somethin'
+like that? 
+\0No big deal. We can work
+somethin' outn\0\0
+If you're in a jam, just say the word!d"
+"041_01","d\0Good call!
+\0 Lemme just take those
+\0100 \0￿miles up frontn\0\0d"
+"041_02","d\0Smart thinkin'! 
+\0Looks like you ain't
+short on Nook Miles,
+\0 so lemme just
+take those \0100 \0￿miles up frontn\0\0d"
+"042_01","d\0Good choice!
+\0 First, 
+\0lemme just get
+the \0100 \0￿miles up front, andn\0\0d
+K"
+"042_02","d\0
+
+\0
+\0                      \0HEY!\0d
+\0
+	\0\0\0What's the big idea?
+\0( Listen, pal.
+\0
+You ain't got the Nook Miles!\0\0C'mon! 
+\0Deep breath, Resettin\0\0
+\0 OKn\0\0
+Seeing as this is an emergency,
+\0 I'll
+cover ya. No charge!d"
+"042_03","d\0
+
+\0
+\0                      \0HEY!\0d
+\0
+	\0\0\0What's goin' on here?
+\0( You ain't
+got the Nook Miles!
+\0 Again!\0\0Sheesh! 
+\0Ain't you a piece of work?
+\0
+OKn\0\0 Seeing as this is an emergency,
+\0
+I'll cover ya. No charge!d"
+"042_04","d\0Since I'm doin' this outta the
+kindness of my heart, 
+\0you'll go where
+I put ya. 
+\0Beggars can't be choosers.d"
+"043","d\0One more thing.
+\0 Since you're not
+traveling alone,
+\0 I gotta send ya to
+the \0plaza\0￿.d"
+"044_01","d\0Now that that's settled,
+\0 where can
+I send ya?d"
+"044_01_a","Home."
+"044_01_b","The plaza."
+"044_01_c","The airport."
+"044_01_d","('촁\0Cancel."
+"044_02","d\0Now that that's settled,
+\0 where can
+I send ya?d"
+"044_02_a","My tent."
+"044_02_b","The plaza."
+"044_02_c","The airport."
+"044_02_d","('촁\0Cancel."
+"044_03","d\0Now that that's settled,
+\0 where can
+I send ya?d"
+"044_03_a","Home."
+"044_03_b","The plaza."
+"044_03_c","The shop."
+"044_03_d","The airport."
+"044_03_e","('촁\0Cancel."
+"045","d\0By the way, seeing as ya ain't settled
+on a place to call homen\0\0ya gotta tell
+me where we're headed!d"
+"045_a","The plaza."
+"045_b","The airport."
+"045_c","('촁\0Cancel."
+"046","d\0By the way, seeing as ya ain't settled
+on a place to call homen\0\0ya gotta tell
+me where we're headed!d"
+"046_a","The plaza."
+"046_b","The shop."
+"046_c","The airport."
+"046_d","('촁\0Cancel."
+"047","d\0Now that that's settled,
+\0 where can
+I send ya?d"
+"047_a","My tent."
+"047_b","The plaza."
+"047_c","The shop."
+"047_d","The airport."
+"047_e","('촁\0Cancel."
+"048","d\0Huh?
+\0 Hey, paln\0\0
+\0 You're out and
+about, ain't ya?\0\0I can't get no good map data off that
+island, so I'm gonna drop ya \0where
+the planes land.\0￿
+\0 Ya good with that?d"
+"048_a","Yes, please!"
+"048_b","('촁\0Cancel."
+"050_01","d\0Your tent? 
+\0No sweat.d"
+"050_02","d\0Your place, huh? 
+\0Easy peasy.d"
+"050_03","d\0The plaza? 
+\0You got it!d"
+"050_04","d\0The ol' island shop, eh? 
+\0Sure thing!d"
+"050_05",""
+"050_06","d\0Gotcha.
+\0 Buckle up, buttercup.
+\0
+Here we go!d"
+"050_07","d\0Airport it is! 
+\0Roger wilco and all that.d"
+"051","<"
+"051_01","d\0Uhn\0\0
+\0KWhich button was itn\0\0?\0dd"
+"051_02","d\0Let's seen\0\0 Huh?\0K
+\0
+This is the right button, ain't itn\0\0?\0dd"
+"051_03","d\0Errn\0\0 Dirt clods!\0K
+\0
+I ain't no good with these gizmosn\0\0\0dd"
+"052","d\0I think this is it. 
+\0Only one way to
+find outn\0\0d"
+"053","
+\0　       d\0\0RANGERS, GO!\0dd
+"
+"061","d\0Open your eyes, kid! 
+\0Trip's over!d"
+"062","d\0Oh yeah. 
+\0One last thingn\0\0d"
+"063","<"
+"063_01","d\0Islands are like potato sacks.
+\0 Cram
+too much into 'em, and they burst!
+\0
+Moderation's the key, pal.d"
+"063_02","d\0So ya got ""auto-saving,"" huh?
+\0
+Means ya can't 
+\0reset things here
+on n!\0.d"
+"063_03","d\0Results ain't everything.
+\0d촀 What you
+put in is what you get out!
+\0 This
+island? Your life?
+\0 Keep 'em tidy!d"
+"064","<"
+"064_01","d\0Islands are like potato sacks.
+\0 Cram
+too much into 'em, and they burst!
+\0
+Moderation's the key, pal.d"
+"064_02","d\0So ya got ""auto-saving,"" huh?
+\0
+Means ya can't 
+\0reset things here
+on n!\0.d"
+"064_03","d\0So. Nook Miles, right?
+\0 There are
+ways to stack 'em up, and it ain't
+rocket science!\0\0To begin with, 
+\0ya get miles just by
+accessing the \0Nook Stop \0￿on the
+daily.
+\0 Remember that!d"
+"201","Should I start up the \0Island Designer
+\0￿app and do some construction work?"
+"201_a","Start construction!"
+"201_b","Request cleanup."
+"201_c","Check the manual."
+"201_d","Nah."
+"202","Getting permission for constructionn\0\0
+"
+"202_01","The \0Island Designer\0￿ app is ready!
+Remember to wear a helmet during
+construction, and work safely!"
+"205","Am I done building for now?"
+"205_a","Yeah, I'm done."
+"205_b","Request cleanup."
+"205_c","Check the manual."
+"205_d","Nah, I'll keep going."
+"206","n\0\0
+\0Connection error!
+"
+"207","Is the reception bad or what? Maybe
+I should \0stand up \0￿and try again."
+"208",""
+"209","You're \0outside of the valid service
+area\0￿. You can only use this app while
+outdoors on n	\0."
+"210","Commencing wrap-up sequencen\0\0
+<"
+"211","Construction controls terminated!
+Please feel free to use our services
+again."
+"212","I can't use the \0Island Designer \0￿app
+when the airport gate is open."
+"213","I can't use the \0Island Designer\0￿ app
+when company is visiting the island."
+"214","I can't use the \0Island Designer \0￿app
+when communications are active.\0\0I'll need to shut them off at the
+airport first."
+"221","\0Island Designer \0￿is ready!"
+"221_01","Use the \0 Button \0￿to switch between
+different construction options.
+Please \0check the manual\0￿ for info."
+"221_02","Press \0 \0￿or \0 \0￿to switch between
+construction options when using
+a horizontal Joy-Con.
+Please \0check the manual\0￿ for info."
+"222","\0\0App Notification\0￿:
+\0Waterscaping permit \0￿added."
+"223","\0\0App Notification\0￿:
+\0Cliff-construction permit \0￿added."
+"224","\0\0App Notification\0￿:
+\0Waterscaping \0￿and \0cliff-construction
+permits \0￿added."
+"225","Press the \0 Button \0￿to switch
+between options. \0Check the manual
+\0￿in the app for more information."
+"225_01","You can press \0 \0￿or \0 \0￿to switch
+between options when using a
+horizontal Joy-Con.
+Please \0check the manual\0￿ for info."
+"241","About the \0Island Designer \0￿App\0\0\0\0Starting and Stopping Construction\0￿
+Please use the app to properly
+begin and end construction."
+"241_01_00","\0\0Switching Between Permits\0￿
+During construction, you can press
+the \0 Button\0￿ to switch permits."
+"241_01_01","\0\0Switching Between Permits\0￿
+When using a horizontal Joy-Con,
+switch construction permits by...
+pressing \0 \0￿or \0\0￿."
+"241_02","Please note: Your permits for the
+\0Island Designer \0￿app are only valid for
+use on n	\0.
+If you leave the island,
+construction will end.\0\0Always wear a helmet, and always
+work with safety in mind!"
+"242","Path Construction Guide
+Press \0 \0￿while on grassy areas
+to create or remove paths."
+"242_00_01","Path Construction Guide
+Press \0 \0￿while on grassy areas
+to create or remove paths."
+"242_01_00","\0\0Selecting Path Designs\0￿
+Press the \0 Button \0￿to select from
+path designs you've obtained."
+"242_01_01","\0\0Selecting Path Designs\0\0\0￿When using a horizontal Joy-Con,
+press \0 \0￿or\0  \0￿to select from path
+designs you've obtained."
+"243","Waterscaping Construction Guide\0\0Press \0 \0￿to dig into the ground and
+create new rivers, ponds, etc. You
+can also fill them in.
+\0\0Creating Waterfalls\0￿
+Try digging atop a cliff
+to create a \0waterfall\0￿."
+"243_01","Waterscaping Construction Guide\0\0Press \0 \0￿to dig into the ground and
+create new rivers, ponds, etc. You
+can also fill them in.
+\0\0Creating Waterfalls\0￿
+Try digging atop a cliff
+to create a \0waterfall\0￿."
+"244","Cliff Construction Guide\0\0Press \0 \0￿to create cliffs, round the
+edges of existing cliffs, or destroy
+existing cliffs.
+\0\0Building Cliffs on Top of Cliffs\0￿
+You can stack cliffs, but not right at
+the edge. No building giant walls!
+Start by making a big base
+with lots of surface area before
+moving up to the next tier.
+\0\0Destroying Waterfalls\0￿
+First use the waterscaping
+permit to fill in the waterfall.
+After that, you can destroy
+the cliff at will."
+"244_01","Cliff Construction Guide\0\0Press \0 \0￿to create cliffs, round the
+edges of existing cliffs, or destroy
+existing cliffs.
+\0\0Building Cliffs on Top of Cliffs\0￿
+You can stack cliffs, but not right at
+the edge. No building giant walls!
+Start by making a big base
+with lots of surface area before
+moving up to the next tier.
+\0\0Destroying Waterfalls\0￿
+First use the waterscaping
+permit to fill in the waterfall.
+After that, you can destroy
+the cliff at will."
+"245","\0Cleanup Service Guide\0￿\0\0Sometimes, when you're working on
+construction projects, you might
+accidentally find yourself in a pinch.\0\0Perhaps something you put out
+keeps you from moving around, or
+you can't grab an item up on a cliff.\0\0The cleanup service is for these
+moments where you need the items
+around you cleaned up a bit.\0\0Only items such as furniture or
+fencing \0in your immediate vicinity
+\0￿are moved with this service.\0\0Make sure you get close to the items
+causing you trouble before you apply
+for the service.\0\0Any items picked up by the service
+will be deposited in the \0recycle box\0￿
+at Resident Services.\0\0So don't delay in picking up those
+items from the box!"
+"251","What should I read up on?"
+"251_01","What should I read up on?"
+"251_01_a","Basic user guide."
+"251_01_b","Path construction."
+"251_01_c","Waterscaping."
+"251_01_d","Cleanup service."
+"251_01_e","I'm done reading."
+"251_02","What should I read up on?"
+"251_02_a","Basic user guide."
+"251_02_b","Path construction."
+"251_02_c","Cliff construction."
+"251_02_d","Cleanup service."
+"251_02_e","I'm done reading."
+"251_03","What should I read up on?"
+"251_03_a","Basic user guide."
+"251_03_b","Path construction."
+"251_03_c","Waterscaping."
+"251_03_d","Cliff construction."
+"251_03_e","Cleanup service."
+"251_03_f","I'm done reading."
+"251_a","Basic user guide."
+"251_b","Path construction."
+"251_c","Cleanup service."
+"251_d","I'm done reading."
+"261","Sometimes while doing construction,
+you might find yourself in a little bit
+of trouble.\0\0Perhaps you can't pick up an item
+placed on top of a cliff.\0\0Maybe a decoration in a narrow area
+is keeping you from moving around.\0\0The cleanup service can help by
+picking up items placed immediately
+around you.\0\0Any cleaned-up items will be placed
+in the \0recycle box\0￿ inside \0Resident
+Services\0￿.\0\0Please check the manual for details."
+"262","Would you like to use the cleanup
+service and send items around you to
+the recycle box at Resident Services?"
+"262_a","Yes, clean things up!"
+"262_b","No, not right now."
+"263","Understood!
+\0 Please wait as we clean
+up the items around you."
+"264","Cleanup complete!
+\0 Please remember
+to grab any items from the \0recycle
+box \0￿at \0Resident Services\0￿."
+"265","We couldn't find anything to
+clean up.\0\0The cleanup service
+\0 will only work
+on items and fencing placed in your
+immediate vicinity."
+"301","Looks like the map app won't work
+for this island."
+"311","Hm? It says ""Outside service area.""
+Guess I can't use it here."
+"999","\0100 \0￿miles"

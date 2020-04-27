@@ -1,0 +1,275 @@
+﻿"label","text"
+"001","(촀\0Sorry to just spring this on you,
+\0
+(4촀\0but could I convince you
+\0 to buy
+2\0}\0\0?"
+"001_a","(\0촀\0Sure."
+"001_b","Don't need any, sorry."
+"002","(촀\0Is it possible you'd be willing to buy
+\0
+2\0}\0\0?"
+"002_a","(\0촀\0I guess."
+"002_b","I...don't need any."
+"003","(촀\0Oh,
+\0 n\0!(\0촀\0\0\0()촀\0Here's the thing.
+\0 A new volume of
+my favorite series just came out,
+\0
+(6촀\0but I can't afford to buy it now
+\0n\0\0
+(
+촀\0I thought I could sell a few things
+I don't need to earn the money,
+\0
+and (%촀\0these four are what I have.
+(4촀\0Would you consider buying
+four things from me?
+\0 (촀\0I really
+want to read that book!"
+"003_a","Sure!"
+"003_b","Sorry, can't help you."
+"004","(촀\0Oh, n\0
+\0n\0\0\0\0(\0촀\0You won't believe (촀\0what I just
+realized that I did.\0\0(촀\0I was at the store,
+\0 and I bought
+something that was on my list
+\0n\0\0\0\0(촀\0Thing is,
+\0 when I got home,
+\0
+I realized I'd just bought the
+same exact thing yesterday!
+(촀\0Wait!
+\0 Would you be willing to ($촀\0buy my
+extra }\0\0?"
+"004_a","(\0촀\0For how much?"
+"004_b","Sorry, can't help you."
+"005","('촀\0It's OK.
+\0 I understand.
+\0 (촀\0I guess I can
+just ask around,
+\0 n\0."
+"006","(촀\0That's alright
+\0n\0\0(\0촀\0 I'm sure I can find
+(촀\0somebody around here
+\0 who will
+want this,
+\0 n\0."
+"007","('촀\0I understand.
+\0 (촀\0Still,
+\0 it was nice
+of you to spare me few moments
+of your time,
+\0 n\0."
+"008","('촀\0Oh,
+\0 please don't apologize.
+\0
+(촀\0You helped by lending me your
+ear for a while,
+\0 n\0.
+I just make (촀\0this goofy mistake
+sometimes
+\0 when I'm shopping."
+"009","( 촀\0Oh no.
+\0( (촀\0I'm sorry for my timing.
+\0
+You're short on Bells right now,
+\0
+aren't you,
+\0 n\0?
+(촀\0Maybe we can talk about all this
+some other time,
+\0 n\0."
+"100","(촀\0Oh,
+\0 thank you!
+\0 (\0촀\0Do you think
+(&촀\0Z sounds fair?"
+"100_a","I'll buy it for that."
+"100_b","Actually..."
+"101","(촀\0Oh,
+\0 thank you so much for
+helping me like this!
+\0 I'm so
+glad I brought this up."
+"102","(촀\0Hopefully you're glad to end up with
+2\0}\0\0."
+"103","(
+촀\0Ah
+\0n\0\0 Well,
+\0 then
+\0n\0\0 (촀\0I don't need your
+money.
+\0 You can have it for free!"
+"104","(촀\0Making you happy is good enough
+for me,
+\0 n\0.
+\0 (촀\0Enjoy it."
+"105","(%촀\0That's OK,
+\0 n\0
+\0n\0\0
+(촀\0Don't worry,
+\0 I'm sure I can find
+somebody else that'll want this."
+"200","(
+촀\0Well,
+\0 then
+\0n\0\0 (&촀\0How does
+Z sound?"
+"200_a","Too much for me."
+"200_b","I'll buy it."
+"200_c","I'll pass."
+"201","(
+촀\0Hmm
+\0n\0\0 Too expensive,
+\0 huh?
+\0 (\0촀\0How
+about (촀\0Z,
+\0 instead?"
+"201_a","I'll buy it!"
+"201_b","Sorry, still not biting..."
+"202","(촀\0Thanks so much for this!"
+"203","(촀\0It's practically good as new.
+\0 (촀\0Put
+it to good use
+\0, n\0!"
+"204","(촀\0Aw,
+\0 that's alright
+\0n\0\0 (4촀\0Don't worry
+about me. I'm sure someone else
+will want this,
+\0 n\0."
+"205","(
+촀\0Hmmmmm
+\0n\0\0 (\0촀\0How about (촀\0Z?"
+"205_a","Sold!"
+"205_b","Keep going..."
+"206","(8촀\0I can't go lower,
+\0 even for you
+\0n\0\0
+(촀\0I guess this means no deal."
+"207","(촀\0Really?
+\0 Have you always been
+so shrewd?
+\0( (\0촀\0Would you bite at
+($촀\0Z\0?"
+"207_a","It's a deal!"
+"207_b","I just don't need it."
+"208","(촀\0Thank you very much!"
+"209","(촀\0You really drive a hard bargain!
+\0
+(\0촀\02\0n\0,
+\0 (촀\0that was a lot of fun!"
+"210","(촀\0Too bad!
+\0( Haggling with you was fun,
+\0
+though.
+\0 (촀\0Thanks for considering this
+at all,
+\0 n\0!"
+"300","(촀\0Thanks!
+\0 (4촀\0Does Z sound
+like a fair deal to you
+\0 for 2\0
+}\0\0?"
+"300_a","Sold."
+"300_b","(\0촀\0What else is there?"
+"301","(촀\0Really?
+\0 Thank you!"
+"302","(촀\0This is great!
+\0 I should have enough
+to buy that new book I wanted.
+\0
+(촀\0Thank you so much,
+\0 n\0!"
+"303","(
+촀\0Let's see now
+\0n\0\0 How does
+Z sound
+\0 (4촀\0for 2\0
+}\0\0?
+\0 Fair?"
+"303_a","Sold."
+"303_b","(\0촀\0What else you got?"
+"304","(
+촀\0Well
+\0n\0\0 For Z
+\0 I could sell
+you my }\0\0.
+\0
+($촀\0Interested?"
+"304_a","It's a deal!"
+"304_b","(\0촀\0What else is there?"
+"305","( 촀\0Oh!
+\0 Um,
+\0 let me think.
+\0( (\0촀\0How about
+2\0}\0\0n\0\0\0\0(&촀\0For, oh
+\0n\0\0 say,
+\0 Z?"
+"305_a","Sold."
+"305_b","Sorry, but..."
+"306","('촀\0Don't worry about it,
+\0 n\0.
+\0
+(촀\0It's not your fault
+\0 if I don't have
+anything to grab your interest."
+"400","(촀\0Oh,
+\0 thank you sooo much!
+\0(
+(4촀\0Does Z sound fair?"
+"400_a","Consider it sold."
+"400_b","(\0촀\0C'mon, gimme a deal."
+"401","(촀\0Thank you very much!"
+"402","You've made sure that it won't go to
+waste.
+\0 (촀\0Thank you,
+\0 n\0!(촀"
+"403","(
+촀\0Well
+\0n\0\0 Let me think
+\0n\0\0
+I could do Z.
+\0
+(4촀\0Will that work for you?"
+"403_a","Consider it sold."
+"403_b","(\0촀\0Dig a little deeper."
+"404","(
+촀\0Oh,
+\0 wow.
+\0 Let me see
+\0n\0\0
+(&촀\0What about Z?"
+"404_a","Consider it sold."
+"404_b","(\0촀\0You can do better!"
+"405","(%촀\0Alright,
+\0 then.
+\0 (\0촀\0My final offer
+\0—and
+not a Bell lower—is Z\0!
+\0
+(&촀\0What do you say to that?"
+"405_a","Sold!"
+"405_b","Sorry, but..."
+"406","(촀\0Thank you very much!(촀"
+"407","(촀\0You're really helping me out!
+\0
+(촀\0And our haggling was kind of
+fun too.
+\0 Thanks,
+\0 n\0."
+"408","(촀\02\0n\0,
+\0 that's too bad
+\0n\0\0
+(\0촀\0On the bright side,
+\0 (촀\0I really
+enjoyed our back-and-forth."
+"409","(촀\0Oh, n\0
+\0n\0\0 (촀\0I really can't make you a better deal than that."
+"410","(촀\0Aw,
+\0 I can't drop the price any lower."
+"411","(촀\0Aw,
+\0 n\0
+\0n\0\0 (촀\0That's the best
+I can do,
+\0 sorry."

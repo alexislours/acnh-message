@@ -1,0 +1,167 @@
+﻿"label","text"
+"001","Want to join me
+\0 (촀\0for
+a treasure hunt?"
+"001_a","Sure!"
+"001_b","Sorry, not right now."
+"002","How would you like
+\0 to (촀\0do
+some treasure hunting?"
+"002_a","Sounds fun!"
+"002_b","Some other time?"
+"003","(촀\0I've got an idea!
+\0 Feel like
+(촀\0going on a treasure hunt?"
+"003_a","You're on!"
+"003_b","Not just now, thanks."
+"004","(촀\0Great!\0\0(%촀\0Hold that thought
+\0 while I go
+($촀\0bury treasure for you to find."
+"005","(촀\0OK, let's do this!\0\0(%촀\0First,
+\0 I need to go bury the treasure
+($촀\0somewhere around this island
+\0n"
+"006","(촀\0This'll be fun!\0\0(%촀\0Just give me a moment
+\0 to 
+($촀\0bury treasure someplace!"
+"007","( 촀\0Oh no!
+\0 Is that really the time?
+(촀\0I had no idea it was so late.\0\0Sorryn\0\0 ()촀\0We'll have to try this again
+some other time
+\0 ($촀\0and start earlier."
+"008","(7촀\0That's OK
+\0n\0\0 Just a fun idea I had.\0\0(촀\0Maybe we can do it another time?"
+"009","(%촀\0Just thought it might be fun.\0\0(촀\0Let's try again
+\0 some other time!"
+"010","(4촀\0Guess that was out of left field
+\0n\0\0\0\0(%촀\0I'll invite you some other time."
+"011","(촀\0I'll explain the rules.
+Z\0\0\0()촀\0OK
+\0n\0\0 So,
+\0 I've buried a treasure
+somewhere on the island.
+\0 (%촀\0You need
+to dig it up before time runs out.
+x\0
+()촀\0I buried it outside,
+\0 so no need
+to search inside any buildings.
+Z\0\0\0(촀\0Let's get going,
+\0 n\0!
+Z"
+"011_01","(촀\0I'll explain the rules.
+Z\0\0\0()촀\0Somewhere on the island,
+\0 I've buried
+a treasure.
+\0( (촀\0You win if you dig it up
+within the time limit,
+\0 n\0!
+x\0
+()촀\0I've buried it outside,
+\0 so there's no
+need to look inside any buildings.
+Z\0\0\0(9촀\0No one who's here playing with you
+can help,
+\0 but (촀\0they can cheer you on.
+Z\0\0\0(촀\0OK,
+\0 let's get going!
+Z"
+"012","(촀\0I'll explain the rules.
+Z\0\0\0()촀\0OK
+\0n\0\0 ()촀\0I've buried a treasure on the
+island somewhere,
+\0 and (%촀\0you need to
+dig it up before your time runs out.
+x\0
+(6촀\0I've made the time period shorter
+this time
+\0 to increase the challenge.
+x\0\0\0()촀\0It's buried outdoors,
+\0 so don't
+bother searching any buildings.
+Z\0\0\0(촀\0Let's get going,
+\0 n\0!
+Z"
+"012_01","(촀\0I'll explain the rules.
+Z\0\0\0()촀\0OK
+\0n\0\0 So,
+\0 I've buried a treasure
+somewhere on the island.
+\0 (%촀\0You need
+to dig it up before time runs out.
+x\0
+(6촀\0I've made the time period shorter
+this time
+\0 to increase the challenge.
+x\0\0\0(9촀\0No one who's here playing with you
+can help,
+\0 but (촀\0they can cheer you on.
+Z\0\0\0(촀\0Let's get going,
+\0 n\0!
+Z"
+"013","(&촀\0Want to hear the rules?"
+"013_a","Yes."
+"013_b","No."
+"014","(촀\0OK,
+\0 then let's get started.
+\0
+Ready and
+\0n\0\0($촀\0go,
+\0 n\0!
+Z"
+"014_01","(9촀\0OK,
+\0 but your friends can only
+cheer you on—no helping.
+\0
+(\0촀\0Ready and
+\0n\0\0($촀\0go,
+\0 n\0!
+Z"
+"015","(%촀\0OK, but I'm cutting time short ()촀\0to
+make this a bit more interesting.
+\0
+(촀\0Better get going,
+\0 n\0!
+Z"
+"015_01","I'm giving you less time to search,
+\0
+and no one who's here playing with
+you can help out,
+\0 n\0.
+x\0\0\0(촀\0Got it?
+\0 Then get going
+\0n\0\0now!
+Z"
+"101","(촀\0How'd you like to play a
+treasure-hunting game
+with me right now?"
+"101_a","Sounds fun!"
+"101_b","Not just now, thanks."
+"102","( 촀\02\0n\0!\0\0(
+촀\0I was just thinking it might be
+fun to play a gamen\0\0 (촀\0I know!\0\0(촀\0How would you like to (&촀\0go on
+a treasure hunt right now?"
+"102_a","That does sound fun!"
+"102_b","No, thanks."
+"103","( 촀\0Wait, is it really that late?
+\0
+(촀\0Sorryn\0\0 Maybe we should try this
+again when we can start earlier."
+"104","(촀\0Great!\0\0(%촀\0I'll go look for a spot on the island
+where I can ($촀\0bury the treasure!"
+"105","(4촀\0No worries,
+\0 it was just a thought.\0\0(촀\0Some other time,
+\0 maybe?"
+"106","(촀\0Oh no, look how late it's gotten!
+(촀\0I really wanted to play this toon\0\0\0\0(4촀\0Sorry to do this, but we'll need to
+try again when we can start earlier."
+"107","(촀\0Yay! I'm so excited!(촀\0\0\0(%촀\0Wait here, and I'll go find a spot
+to ($촀\0bury the treasure for you!"
+"108","(4촀\0Oh, that's too bad.\0\0(촀\0Maybe some other time,
+\0 then."
+"200","(촀\0I'm so sorry. 
+\0I searched the island, (촀\0but I just couldn't seem to find a
+good spot to bury the treasure.
+(촀\0I feel bad, since this was my idea.
+\0
+(촀\0Let's call it off for todayn"

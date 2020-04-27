@@ -1,0 +1,57 @@
+﻿"label","text"
+"001","<"
+"001_01","(촀\0What? Y-you're really giving me
+(촀\02\0}\0\0?"
+"001_02","(촀\0Are you sure you want to give me
+(촀\02\0}\0\0?"
+"001_03","(촀\02\02\0}\0\0!
+(4촀\0You really want to give that to me? "
+"002","<"
+"002_01","(촀\0Wow, you're giving me 2\0
+}\0\0?"
+"002_02","2\02\0}\0\0!
+(촀\0That's really thoughtful of you."
+"002_03","(촀\02\02\0}\0\0!"
+"003","<"
+"003_01","(촀\0For me, really?"
+"003_02","(촀\0You really want to give this to me?"
+"003_03","(촀\0Oh, wow! (촀\0Really?"
+"004","<"
+"004_01","(촀\0Mind if I open this up right now?"
+"004_02","(촀\0Can I go ahead and open this?"
+"004_03","(&촀\0I wonder what's inside?"
+"005","<"
+"005_01","(촀\0Aw, you got my hopes up
+\0n"
+"005_02","(&촀\0Changed your mind?"
+"005_03","(4촀\0Something wrong?"
+"006","<"
+"006_01","As a thank you,
+\0 (촀\0please take my
+}\0."
+"006_02","(4촀\0I have something here for you
+\0n\0\0
+(촀\02\02\0}\0."
+"006_03","(촀\0Here,
+\0 I want you to have my
+}\0."
+"007","<"
+"007_01","(촀\0I'd feel bad accepting this for free,
+\0
+so (촀\0I hope you'll take Z\0
+in return,
+\0 along with my thanks."
+"007_02","(6촀\0I'd like to give you something in
+return,
+\0 but all I have to give you is
+Z\0. (촀\0I hope you'll take them."
+"007_03","(촀\0To show my appreciation for your
+kindness,
+\0 please have Z\0."
+"010","(촀\0I've got a gift here to thank you!
+\0
+( 촀\0Whoops,
+\0 your pockets are too full.\0\0(\0촀\0Not a problem, though.
+\0 (촀\0I'll just mail
+this to your home,
+\0 n\0."

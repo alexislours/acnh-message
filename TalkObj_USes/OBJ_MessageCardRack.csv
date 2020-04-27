@@ -1,0 +1,17 @@
+﻿"label","text"
+"001","Hay un letrero que dice:
+""Próximamente, tarjetas a la venta""."
+"010","Tienen un expositor con tarjetas.
+\0
+Le puedo enviar una a quien
+yo quiera por \0200 bayas\0￿."
+"011","Ahora no lo puedo hacern"
+"090","Tienen un expositor con tarjetas,
+pero parece que solo los residentes
+de esta isla pueden usarlon"
+"091","Tienen un expositor con tarjetas,
+pero ya lo miraré en otro momento.
+Ahora tenemos visita."
+"100",""
+"100_a",""
+"100_b",""

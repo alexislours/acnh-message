@@ -1,0 +1,214 @@
+﻿"label","text"
+"001","Hast du etwas Zeit?
+\0 (촀\0Dann könnten
+wir zusammen Schatzsuche spielen!"
+"001_a","Klingt gut!"
+"001_b","Ein andermal..."
+"002","Was hältst du von (촀\0einer kleinen
+Schatzsuche?"
+"002_a","Au ja!"
+"002_b","Grad ist schlecht..."
+"003","(촀\0Ich hab eine Idee!
+\0 (촀\0Wollen wir
+zusammen Schatzsuche spielen?"
+"003_a","So was von!"
+"003_b","Nicht unbedingt."
+"004","(촀\0Sehr schön!
+\0(
+(%촀\0Dann warte einmal kurz hier,
+\0
+($촀\0während ich den Schatz verstecke."
+"005","(촀\0Sehr gut, 
+\0legen wir los!
+\0( (%촀\0Erst muss ich
+aber noch irgendwo auf der Insel
+($촀\0den Schatz vergraben."
+"006","(촀\0Das wird sicher ein großer Spaß!
+\0(
+(%촀\0Gib mir nur einen Augenblick, um
+($촀\0den Schatz irgendwo zu vergraben!"
+"007","( 촀\0Oh nein!
+\0 So spät ist es schon?
+\0
+(촀\0Das war mir irgendwie nicht bewusst.\0\0Tut mir leid...
+\0 ()촀\0Dann müssen wir das
+ein andermal nachholen, 
+\0($촀\0und dann
+etwas früher am Tag."
+"008","(7촀\0Na, dann nicht...
+\0 War nur so eine
+Idee.
+\0 (촀\0Ein andermal vielleicht?"
+"009","(%촀\0Ich dachte nur, an so was könntest
+du Spaß haben.
+\0 (촀\0Dann vielleicht
+irgendwann anders mal!"
+"010","(4촀\0Tut mir leid, da habe ich dich wohl
+etwas zu sehr überrumpelt...
+\0
+(%촀\0Ich frag dich irgendwann noch mal."
+"011","()촀\0Dann erläutere ich mal die Regeln...
+´\0\0\0Ich habe gerade (%촀\0irgendwo auf der
+Insel einen Schatz vergraben.
+´\0\0\0(촀\0Wenn du ihn innerhalb des Zeitlimits
+bergen kannst, 
+\0hast du gewonnen!
+´\0\0\0()촀\0Ich habe ihn draußen versteckt,
+\0 also
+brauchst du nicht in Gebäuden zu
+suchen, 
+\0n\0.
+´\0
+(촀\0Alles klar,
+\0 dann legen wir mal los!
+´"
+"011_01","()촀\0Dann erklär ich dir mal, 
+\0wie das
+Ganze abläuft...
+´\0\0\0Ich habe hier (%촀\0irgendwo auf der
+Insel einen Schatz vergraben.
+´\0\0\0(촀\0Wenn du ihn innerhalb des Zeitlimits
+findest, 
+\0hast du gewonnen!
+´\0\0\0()촀\0Ich habe ihn draußen versteckt,
+\0
+also brauchst du gar nicht erst in
+Gebäuden suchen, 
+\0n\0.
+´\0
+Freunde, 
+\0die mit dir zusammen
+spielen, 
+\0('촀\0können dir dabei leider
+nicht helfen, aber dich anfeuern!
+´\0\0\0(촀\0Also gut,
+\0 dann lass uns loslegen!
+´"
+"012","()촀\0Dann erläutere ich mal die Regeln...
+´\0\0\0Ich habe gerade (%촀\0irgendwo auf der
+Insel einen Schatz vergraben.
+´\0\0\0(촀\0Wenn du ihn innerhalb des Zeitlimits
+bergen kannst, hast du gewonnen!
+´\0\0\0(8촀\0Diesmal hast du besonders wenig
+Zeit,
+\0 also leg dich ins Zeug!
+´\0\0\0()촀\0Ich habe den Schatz draußen
+versteckt,
+\0 also brauchst du nicht in
+Gebäuden zu suchen, 
+\0n\0.
+´\0
+(촀\0Alles klar,
+\0 dann wollen wir mal!
+´"
+"012_01","()촀\0Dann lass mich dir noch schnell
+die Regeln erklären...
+´\0\0\0(%촀\0Irgendwo hier auf der Insel
+habe ich einen Schatz vergraben.
+´\0\0\0(촀\0Findest du ihn innerhalb des
+Zeitlimits, 
+\0hast du gewonnen!
+´\0\0\0(8촀\0Diesmal bleibt dir noch weniger Zeit,
+\0
+also halte dich ran!
+\0 Ach, 
+\0und der
+Schatz ist irgendwo hier draußen!
+´\0\0\0Freunde,
+\0 die mit dir zusammen
+spielen, 
+\0('촀\0können dir dabei leider
+nicht helfen, 
+\0aber dich anfeuern!
+´\0\0\0(촀\0Alles klar,
+\0 dann kann es losgehen!
+´"
+"013","(&촀\0Soll ich dir kurz die Regeln erklären?"
+"013_a","Ja, bitte!"
+"013_b","Nicht nötig."
+"014","(%촀\0Gut, dann fangen wir direkt an!(\0촀\0
+\0
+Auf die Plätze... 
+\0Fertig...
+\0((촀\0 LOS!
+´"
+"014_01","(9촀\0Aber denk dran, 
+\0deine Freunde
+können dich nur anfeuern und dir
+nicht helfen.
+\0 Fertig? 
+\0Dannn\0\0
+\0 Los!
+´"
+"015","(%촀\0In Ordnung! 
+\0Ich geb dir aber weniger
+Zeit,
+\0 ()촀\0damit das Ganze ein bisschen
+spannender wird.
+´\0
+(촀\0Trödel also besser nicht rum,
+\0
+n\0!
+´"
+"015_01","Ich gebe dir diesmal weniger Zeit
+für die Suche, 
+\0und es darf dir auch
+niemand dabei helfen, 
+\0n\0.
+´\0\0\0(촀\0Alles klar?
+\0 Dann kann es ja
+losgehen!
+´"
+"101","(촀\0Möchtest du nicht vielleicht
+„Schatzsuche“ mit mir spielen?"
+"101_a","Gerne!"
+"101_b","Ich bin beschäftigt..."
+"102","( 촀\02\0n\0!
+\0( (
+촀\0Ich hab heute
+nichts zu tun, was könnte man da
+machen...? 
+\0((촀\0Oh, ich hab's!
+(촀\0Wie wäre es mit einer kleinen
+(&촀\0Schatzsuche?"
+"102_a","Klingt spaßig!"
+"102_b","Nichts für mich..."
+"103","( 촀\0Moment, 
+\0so spät ist es schon?!
+\0
+(촀\0Tut mir leid...
+\0 Das müssen wir wohl
+auf einen anderen Tag verschieben."
+"104","(촀\0Prima!
+\0( (%촀\0Dann suche ich mal ein
+schönes Plätzchen auf der Insel,
+wo ich ($촀\0den Schatz vergraben kann!"
+"105","(7촀\0Kein Problem, 
+\0war nur ein Vorschlag.
+\0
+(촀\0Dann vielleicht ein andermal..."
+"106","(촀\0Oh nein, so spät ist es schon?!
+\0
+(촀\0Dabei hab ich mich grad richtig
+darauf gefreut...
+(4촀\0Tut mir leid, aber wir müssen das
+an einem anderen Tag in Angriff
+nehmen,
+\0 und dann etwas früher."
+"107","(촀\0Yippie, ich freue mich!(촀\0\0\0(%촀\0Warte bitte einen Augenblick lang
+hier, 
+\0während ich ($촀\0den Schatz
+vergrabe!"
+"108","(4촀\0Oh, schade...
+\0
+(촀\0Aber vielleicht änderst du ja
+irgendwann mal deine Meinung."
+"200","(촀\0Tut mir leid, 
+\0aber ich habe auf der
+ganzen Insel keinen Platz gefunden,
+\0
+(촀\0wo ich den Schatz vergraben konnte.
+(촀\0Das hätte ich besser vorher
+überprüfen sollen... 
+\0(촀\0Dann wird
+daraus wohl leider nichts."

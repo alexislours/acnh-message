@@ -1,0 +1,51 @@
+﻿"label","text"
+"101","Alright.
+\0 (촀\0So what's up,
+\0 n\0?
+"
+"102","(촀\0OK.
+\0 I'm ready now,
+\0 (촀\0n\0.
+"
+"103","OK.
+\0 2\0n\0.
+\0 (촀\0What did you
+want to tell me?
+"
+"201","<"
+"201_01","( 촀\02\0n\0!
+\0
+($촀\0What's on your mind?
+\0(
+(\0촀\0Give me a second
+\0n"
+"201_02","(촀\0Oh hey,
+\0 n\0!
+\0
+(촀\0Give me just a moment.
+\0
+I'll stand up first
+\0,
+\0 n\0."
+"201_03","(촀\02\0n\0,
+\0 did you need
+to chat with me?
+\0
+(\0촀\0Let me stand up first."
+"202","<"
+"202_01","( 촀\02\0n\0!
+\0
+(\0촀\0What's on your mind?
+\0(
+(촀\0I'll get up first,
+\0 n\0."
+"202_02","(촀\0Hey, n\0!
+\0(
+(촀\0Just give me a second
+to get up,
+\0 n\0."
+"202_03","(""촀\0Want to chat,
+\0 n\0?
+\0(
+(촀\0Guess my break's over,
+\0 n\0."
