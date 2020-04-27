@@ -89,9 +89,10 @@ non si cambia"". 
 \0 (&촀\0Che
 intercalare dovrei usare adesso?"
 "101","(
-촀\0Mmmh, fammi capire...
-\0 Secondo te...
-(&촀\0Ora dovrei dire ""n\0""?"
+촀\0Mmmh, vediamo se ho capito benen\0\0
+
+\0(&촀\0Secondo te, adesso dovrei mettermi
+a dire ""n\0""?"
 "101_a","Esatto."
 "101_b","(\0촀\0Aspetta, ci penso."
 "102","(;촀\0Come, ""n\0""?

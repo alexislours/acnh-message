@@ -7,6 +7,13 @@ here would really help me take things
 to the level AFTER nextn\0\0\0\0(촀\0OK, I'm in!
 \0( (%촀\0I'll call \0Resident Services
 \0￿and work it out with them."
+"003","( 촀\0Wow! 
+\0You're really getting those
+invite reps in.
+\0( (%촀\0That kind of focused
+determination is super inspiring.\0\0(촀\0OK, I'm in!
+\0 I'll call \0Resident Services
+\0￿and work it out with them."
 "101","<"
 "101_01","( 촀\0Huh? 
 \0Live here? 
@@ -129,18 +136,19 @@ You do like towels, right, uhn\0\0
 \0
 to live on n	\0?
 \0 You
-got it, n\0!"
+got it, n\0!\0\0(촀\0Ern\0\0probably.
+\0 Still gotta check
+with \0Resident Services\0￿ first."
 "206_02","(9촀\0I know when I'm beat. 
 \0What's your
 name again?
 \0 2\0n\0?
 \0(
-($촀\0Very cool, n\0!\0\0(6촀\0Well, n\0, 
-\0I guess I'm
-moving here.
-\0( (5촀\02\0n
-\0 is
-2\0n\0 of his word."
+($촀\0Very cool, n\0!\0\0(6촀\0Well, once I get things squared away
+with \0Resident Services\0￿, I guess I'll
+be your new neighbor.\0\0(5촀\02\0n
+\0 is 2\0
+n\0 of his word."
 "206_03","(촀\0Way to take a challenge seriously!
 \0
 And triumph, for that matter.\0\0(8촀\0Oh, uhn\0\0
@@ -149,10 +157,10 @@ champion? 
 \02\0n\0? 
 \0Nice
 to meet you, n\0.\0\0(\0촀\0Alright, you're on.
-\0 (5촀\0This place just
-added n
-\0 to its
-roster, n\0!"
+\0 (5촀\0I'm gonna go tell
+\0Resident Services\0￿ you want to add
+n
+\0 to your roster!"
 "302","(촀\0Bad news.
 \0 I checked with
 \0Resident Services\0￿ and they said
@@ -222,22 +230,21 @@ about moving out, n\0?"
 \0Well, if you say so,
 \0 we can just
 forget it, n\0."
-"402","(9촀\0Well, I talked to \0Resident Services\0￿.
-\0
-('촀\0They turned me down.\0\0(촀\0They said something about going
-over a foam-roller ordinance limit.
-\0(
-(촀\0What's that about, n\0?\0\0(#촀\0Oh well.
-\0 Thanks for the invite!"
-"403","(촀\0I checked with \0Resident Services\0￿, but
-they wouldn't approve the move.\0\0(촀\0They said someone who looks
-EXACTLY like me is already
-moving in soon, n\0.\0\0(8촀\0Do I have a twin?
-\0 Are they as
-strong as me?
-\0 ('촀\0Nah, look at me.
-\0
-That's impossible!"
+"313","(촀\0
+\0Alright!
+\0 The heat is on!
+\0 Let me pitch
+an idean\0\0(%촀\0 Whaddaya think of trading
+s촀 away for me?\0\0()촀\0\0Resident Services\0￿ passed me the
+name, so I thought I'd see if it was
+a hole in one.\0\0(&촀\0Should I talk to s촀
+about a trade?"
+"313_a","Do it!"
+"313_b","No can do."
+"314","(촀\0Foul ball, huh? 
+\0Well, I understand.
+
+\0Maybe next season, n\0."
 "404","('촀\0So I talked to \0Resident Services\0￿.
 \0
 They said there isn't room for
@@ -246,13 +253,6 @@ anyone else, n\0.\0\0(%촀\0It's understandable. 
 after all.
 \0 Wouldn't want my hugeness
 to push someone off the island!"
-"405","(촀\0I heard from your \0Resident Services\0￿,
-and they said no.
-\0 I guess there isn't
-room for new houses, n\0.\0\0('촀\0I asked and they said they couldn't
-even fit a gym. 
-\0((
-촀\0How crazy is that?!"
 "406","(촀\0Hey! So I just got word back from
 \0Resident Services\0￿.
 \0( (촀\0We're gonna be
@@ -284,29 +284,12 @@ a bad rep.
 \0 more
 lifting reps!
 \0 That's my motto!"
-"421","()촀\0I heard there's already someone on
-the island who looks just like me.\0\0('촀\0I know having two of me around
-SOUNDS cool,
-\0 but the island might
-sink under all our free weights."
-"422","(촀\0My move-in application was rejected
-because someone who looks exactly
-like me filed earlier, n\0.\0\0(%촀\0I'd really like to meet them.
-\0 They
-sound like the perfect workout
-buddy!
-\0 (촀\0Oh well."
 "423","(%촀\0They told me the island wasn't
 accepting any more residents.
 \0
 I had no idea it was so popular!\0\0(촀\0With how many calories I burn every
 day, I guess I can't blame them for
 turning me down, n\0!"
-"424","(%촀\0Sounds like the island ran out of
-room!
-\0 Why didn't you tell me it was
-so popular?\0\0(""촀\0If space ever opens up, gimme
-a holler, n\0!"
 "504","(촀\0My workouts have been SUPER good
 since I got here. 
 \0I'm totally crushing

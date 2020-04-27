@@ -10,8 +10,8 @@ an
 "002_b","War ein Versehen!"
 "003","( 촀\0Gah! 
 \0Wohin willste denn jetzt?"
-"003_a","Hab was zu erledigen..."
-"003_b","Ich bleibe!"
+"003_a","(\0촀\0Hab was zu erledigen."
+"003_b","(\0촀\0Ich bleibe!"
 "004","(%촀\0Verstehe... 
 \0(촀\0Da hab ich schon etwas
 Pipi im Auge, 
@@ -22,8 +22,10 @@ Braut wie ich hat ein dickes Fell.
 das aber nach, 
 \0n\0!"
 "005","(2촀\0Gahaha!
-\0 Was für ein Zufall... Mir is'
-just eingefallen, dass ich den Ofen
+\0 Was für ein Zufall... 
+\0Mir is'
+just eingefallen, 
+\0dass ich den Ofen
 angelassen hab...
 (%촀\0Ich mach mich auch vom Acker!"
 "006","(%촀\0Dann mal nichts wie ab! 

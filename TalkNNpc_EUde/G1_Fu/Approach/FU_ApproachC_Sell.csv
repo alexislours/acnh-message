@@ -1,11 +1,11 @@
 ﻿"label","text"
 "001","(촀\0Das kommt jetzt vielleicht etwas
-plötzlich, aber willst du 2""촀
-eineneineein
+plötzlich, aber willst du 2(촀meinen
+meinemein
 2촁}\0\0 kaufen?"
 "001_a","(\0촀\0Quanto costa?"
 "001_b","Kein Bedarf."
-"002","(촀\0Möchtest du mir zufällig 2""촀
+"002","(촀\0Möchtest du mir zufällig 2""촀
 eineneineein
 2촁}\0\0 abkaufen, 
 \0n\0?"
@@ -27,24 +27,25 @@ vier abkaufen,
 \0 n\0?"
 "003_a","Klar!"
 "003_b","Eher nicht..."
-"004","(촀\0Oh, n\0...
+"004","(촀\0Oh, 
+\0n\0...
 \0
-Du wirst nicht glauben, was mir
+Du wirst nicht glauben, 
+\0was mir
 passiert ist...
-(촀\0Ich war im Laden und hab 2""촀
+(촀\0Ich war im Laden und hab 2""촀
 eineneineein
-2촁}\0\0 gekauft,
-weil ich schon lange 2$촀
-eineneineeins wollte...
-(촀\0Zu Hause hab ich dann leider
-festgestellt, dass ich am Vortag
-schon 2$촀
+2촁}\0\0 gekauft,
+\0 weil ich schon lange 2$촀
+eineneineeins wollte...\0\0(촀\0Zu Hause hab ich dann leider
+festgestellt, 
+\0dass ich am Vortag
+schon 2$촀
 eineneineeins gekauft hatte!
 (촀\0Oh!
-\0 Vielleicht willst du mir ja 2""촀
+\0 Vielleicht willst du mir ja 2""촀
 eineneineein
-2촁}\0\0($촀\0
-abkaufen,
+2촁}\0\0($촀\0 abkaufen,
 \0 n\0?"
 "004_a","(\0촀\0Zu welchem Preis?"
 "004_b","Tut mir leid..."
@@ -91,9 +92,8 @@ Was hältst du von Z?"
 Klemme hilfst!
 \0 Ich bin froh, dass ich
 dich deswegen angesprochen habe!"
-"102","(촀\0Ich bin mir ziemlich sicher,
-2\0}\0\0
-wird sich bei dir wohlfühlen!"
+"102","(촀\0Ich bin mir ziemlich sicher,
+\0 2\0}\0\0 wird sich bei dir wohlfühlen!"
 "103","(
 촀\0Also... 
 \0In dem Fall... 
@@ -145,7 +145,7 @@ wollen,
 \0((\0촀\0Dann sagen wir
 \0
 (촀\0Z?"
-"205_a","(\0촀\0Das ist ein Wort!"
+"205_a","Das ist ein Wort!"
 "205_b","(\0촀\0Wir sind nah dran..."
 "206","(8촀\0Weiter kann ich nicht runtergehen,
 \0
@@ -165,8 +165,7 @@ sparsam,
 "209","(7촀\0Du kannst wirklich gut feilschen,
 \0
 n\0.
-\0(\0촀\0 Aber irgendwie
-hat es Spaß gemacht,
+\0(\0촀\0 Aber irgendwie hat es Spaß gemacht,
 \0(촀\0 n\0!"
 "210","(촀\0Argh! 
 \0(7촀\0Aber das Feilschen hat
@@ -174,12 +173,12 @@ irgendwie Spaß gemacht. 
 \0(촀\0Also
 trotzdem danke,
 \0 n\0!"
-"300","(촀\0Schön! (\0촀\0Wie wäre es mit 2(촀
+"300","(촀\0Schön!
+\0 (\0촀\0Wie wäre es mit 2(촀
 einem
 einer
 einem
-2촂}\0\0 für
-($촀\0Z?"
+2촂}\0\0 für ($촀\0Z?"
 "300_a","Gekauft!"
 "300_b","(\0촀\0Noch was anderes?"
 "301","(촀\0Das freut mich!"
@@ -191,23 +190,20 @@ um mein Buch kaufen zu können.
 "303","(
 촀\0Mal überlegen... 
 \0Ich hätte da noch
-2""촀
-eineneineein 2촁}\0\0
-für ($촀\0Z."
+2""촀
+eineneineein 2촁}\0\0 für ($촀\0Z."
 "303_a","Nehme ich!"
 "303_b","(\0촀\0Noch was anderes?"
 "304","(
 촀\0Na jan\0\0 
-\0Ich könnte dir m2""촀
+\0Ich könnte dir m2""촀
 eineneineein 2촁}\0\0 für ($촀\0Z verkaufen. 
 \0(\0촀\0Interesse?"
 "304_a","Ja!"
 "304_b","(\0촀\0Noch was anderes?"
 "305","(촀\0Na gut, ein letzter Versuch noch:
 \0
-(\0촀\02\0}\0\0
-(&촀\0für...
-\0 sagen wir mal Z?"
+(\0촀\02\0}\0\0 (&촀\0fürn\0\0 sagen wir mal Z?"
 "305_a","Einverstanden!"
 "305_b","Tut mir leid..."
 "306","('촀\0Nein, nein, 

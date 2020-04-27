@@ -45,16 +45,14 @@ fier, n\0 !"
 "105","(촀\0Merci d'être venu2\0e, n\0 !\0\0(4촀\0Surtout, fais comme chez toi,
 n\0 !"
 "200","(촀\0Dis, n\0, 
-\0((\0촀\0puisque
-tu es là,
-\0($촀\0 ça te dirait qu'on joue
-à un jeu ?"
+\0((\0촀\0puisque tu es là,
+\0($촀\0 ça te dirait qu'on joue à un jeu ?"
 "200_a","Bonne idée !"
 "200_b","Non, merci."
 "201","(촀\0Dis,
 \0($촀\0 tu veux jouer à un jeu ?"
 "201_a","Avec plaisir !"
-"201_b","Une autre fois."
+"201_b","(\0촀\0Une autre fois."
 "202","(9촀\02\0n\0 !
 \0 Tu veux jouer à un jeu ?
 \0(6촀\0 Allez ! Jouons à un jeu !"

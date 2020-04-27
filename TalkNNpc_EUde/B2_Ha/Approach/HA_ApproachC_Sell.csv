@@ -1,37 +1,32 @@
 ﻿"label","text"
 "001","(촀\0Hey,
 \0 ich war gerade am Überlegen,
-dich mal zu besuchen.\0\0(""촀\022촀Dieser Diese Dieses }\0\0
-ist ziemlich cool, 
+dich mal zu besuchen.\0\0(""촀\022촀Dieser Diese Dieses }\0\0 ist ziemlich cool, 
 \0oder? 
-\0(촀\0Möchtest du
-2촀ihnsiees vielleicht kaufen?"
+\0(촀\0Möchtest du 2촀ihnsiees vielleicht kaufen?"
 "001_a","(\0촀\0Och, warum nicht?"
 "001_b","Kein Bedarf."
 "002","(촀\0Hey, 
-\0interessiert dich 2,촀dieser
+\0interessiert dich 2,촀dieser
 diesedieses
 }\0\0?
 \0(
-(촀\0Möchtest du 2촀ihnsiees vielleicht kaufen?"
+(촀\0Möchtest du 2촀ihnsiees vielleicht kaufen?"
 "002_a","(\0촀\0Kostet?"
 "002_b","Nein, danke!"
 "003","(촀\0Oh, 
 \0n\0!
-\0 ()촀\0Ich hab beim
-Ausmisten etwas Zeugs gefunden,
-das ich nicht gebrauchen kann.\0\0Vier Stücke könnte ich dir anbieten.
+\0 ()촀\0Ich hab beim Ausmisten etwas Zeugs gefunden,
+\0 das ich nicht gebrauchen kann.\0\0Vier Stücke könnte ich dir anbieten.
 
 \0($촀\0Willst du mir vielleicht eins davon
-abkaufen?"
+abkaufen, 
+\0n\0?"
 "003_a","(\0촁\0Um was geht's denn?"
 "003_b","(\0촁\0Nö."
 "004","( 촀\02\0n\0,
-\0((촀\0 ich habe mir
-22촀diesen diese dieses 2촁}\0\0
-gekauft, 
-\0aber 2촀ersiees gefällt mir nicht.
-Vielleicht kannst du damit was
+\0((촀\0 ich habe mir 22촀diesen diese dieses 2촁}\0\0 gekauft, 
+\0aber 2촀ersiees gefällt mir nicht.\0\0Vielleicht kannst du damit was
 anfangen.
 \0 (&촀\0Möchtest du mir ein
 Angebot machen, 
@@ -82,8 +77,7 @@ Geschäft."
 "100_b","Das ist zu teuer!"
 "101","(촀\0Klasse! 
 \0Ein super Deal für uns beide!"
-"102","(%촀\022촀Dieser Diese Dieses }\0\0
-gehört damit jetzt dir, 
+"102","(%촀\022촀Dieser Diese Dieses }\0\0 gehört damit jetzt dir, 
 \0n\0!"
 "103","(촀\0Findest du? 
 \0(
@@ -114,11 +108,9 @@ Foulspiel hatte ich nicht vor.
 \0Z!"
 "201_a","Diesmal passt es!"
 "201_b","Immer noch zu viel!"
-"202","(""촀\02""촀Der Die Das }\0\0
-gehört damit dir, 
+"202","(""촀\02""촀Der Die Das }\0\0 gehört damit dir, 
 \0n\0!
-\0
-Viel Spaß damit, 
+\0 Viel Spaß damit, 
 \0n\0!"
 "203","(""촀\0Schön vorsichtig damit umgehen, 
 \0ja?
@@ -137,7 +129,7 @@ Viel Spaß damit, 
 (&촀\0
 \0<Z?"
 "205_a","Abgemacht!"
-"205_b","(\0촀\0Das geht noch billiger."
+"205_b","Das geht noch billiger."
 "206","(촀\0Tut mir leid, 
 \0sofortiger Spielabbruch!
 \0
@@ -164,9 +156,8 @@ kein Training, 
 "300","(촀\0Oh, 
 \0du hast Interesse?
 \0
-(촀\02,촀Dieser
-DieseDieses 2촁}\0\0
-könnte für Z dir gehören!"
+(촀\02,촀Dieser
+DieseDieses 2촁}\0\0 könnte für Z dir gehören!"
 "300_a","Da schlag ich ein!"
 "300_b","Kein Bedarf."
 "301","(촀\0Klasse! 
@@ -178,23 +169,19 @@ wieder mehr Platz fürs Training,
 "303","(촀\0Oh! 
 \0(\0촀\0Dann was anderes. 
 \0(&촀\0Wäre dir
-2$촀mein
-meinemein }\0\0
-Z wert?"
+2$촀mein
+meinemein }\0\0 Z wert?"
 "303_a","Ja!"
 "303_b","Auch nicht."
 "304","(촀\0Nein? 
-\0(Dann bringe ich mal
-2&촀meinen
-meineein 2촁}\0\0
-ins Spiel... 
+\0(Dann bringe ich mal 2(촀meinen
+meinemein 2촁}\0\0 ins Spiel... 
 \0(9촀\0Z!"
 "304_a","Ja, klingt gut."
 "304_b","(\0촁\0War das alles?"
 "305","(촀\0Waaas?
 \0 (9촀\0Also gut, 
-\0letztes Angebot...\0\0(\0촀\02촀EinEineEin }\0\0
-für Zn\0\0 (&촀\0Okay?"
+\0letztes Angebot...\0\0(\0촀\02촀EinEineEin }\0\0 für Zn\0\0 (&촀\0Okay?"
 "305_a","Bin dabei!"
 "305_b","Lieber nicht."
 "306","(촀\0Na gut. 
@@ -225,14 +212,14 @@ Sport.
 \0 Alson\0\0 (&촀\0
 \0Z?"
 "403_a","Einverstanden."
-"403_b","(\0촀\0Jetzt komm schon..."
+"403_b","Jetzt komm schon..."
 "404","(촀\0Uiuiuiuiui...
 \0( (9촀\0Da hat aber jemand
 das Kämpferherz ausgepackt.
 \0
 Was sagst du denn zu Z?"
 "404_a","Abgemacht!"
-"404_b","(\0촀\0Gib mal FETT Rabatt!"
+"404_b","Gib mal FETT Rabatt!"
 "405","(촀\0Wie du abgehst!
 \0 Das nenne ich
 konsequentes Pressing!

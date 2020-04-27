@@ -1,4 +1,19 @@
 ﻿"label","text"
+"010","( 촀\0Oh, 
+\0hey, n\0!\0\0(%촀\0Wusstest du schon, 
+\0dass du ab
+sofort Karten an (촀\0Freunde senden
+kannst, 
+\0mit denen du gespielt hast?"
+"020","(9촀\0Dabei gelten allerdings ein paar
+wichtige Regeln.\0\0(%촀\0Würdest du dir das hier durchlesen?
+\0(\0촀\0
+Unsere Anwälte pochen drauf..."
+"040","(\0촀\0Wie wär's, 
+\0(&촀\0willst du es gleich mal
+ausprobieren?"
+"040_a","Gerne!"
+"040_b","Doch nicht..."
 "050","(촀\0Oh, 
 \0wolltest du etwa eine Karte
 verschicken?
@@ -17,6 +32,31 @@ Flugsteig schließe?"
 Alles klar, dann machen wir den
 Flugsteig mal flugs dicht!"
 "052","(촀\0Uuund erledigt!"
+"053","(촀\0Oh, 
+\0wolltest du etwa eine Karte
+verschicken?
+\0( n\0\0(2촀\0Ähm, 
+\0alles klar.
+\0(
+Bin nur kein Freund von Multitasking.
+(&촀\0Würde es dir etwas ausmachen,
+\0
+wenn ich vorher noch schnell die
+Verbindung dichtmache?"
+"053_a","Nee, mach ruhig!"
+"053_b","Halt, warte!"
+"054","(촀\0Vielen Dank für dein Verständnis.
+\0
+Alles klar, 
+\0die Verbindung ist nuuunn\0\0
+\0
+gekappt!"
+"055","(촀\0Okay! 
+\0()촀\0Dann bleiben die Tore erst mal
+geöffnet. 
+\0(촀\0Sag Bescheid, 
+\0wenn du
+doch noch Post verschicken willst."
 "070","(&촀\0Möchtest du eine Karte verschicken?"
 "070_a","Gerne!"
 "070_b","Ein andermal."
@@ -26,6 +66,13 @@ du schreiben?(\0촀"
 "080_a","Nachbar."
 "080_b","Mein Zukunfts-Ich."
 "080_c","Doch nicht..."
+"081","(촀\0Alles klar!
+\0 An wen möchtest
+du schreiben?(\0촀"
+"081_a","Nachbar."
+"081_b","Mein Zukunfts-Ich."
+"081_c","Freund."
+"081_e","Doch nicht..."
 "200","(%촀\0Aha. 
 \0An jemanden auf dieser Insel.
 \0(
@@ -47,13 +94,77 @@ leider noch nicht verschicken.
 Karten mehr angenommen werden.
 \0(%촀\0
 Schau bitte später wieder vorbei."
+"301","(촀\0Alles klar! 
+\0An welchen Freund soll
+deine Karte denn gehen?"
+"311","Hm... 
+\0()촀\0Du kannst leider keine
+Karten an Freunde verschicken.\0\0(\0촀\0Aktiviere hierfür die „Freie
+Kommunikation mit anderen“
+in den Altersbeschränkungen."
+"312","( 촀\0Oh, 
+\0(
+촀\0du hast anscheinend noch
+keine Freunde online besucht.\0\0(%촀\0Um ihnen Karten senden zu können,
+\0(\0촀\0
+musst du sie zuerst besucht haben!"
 "320","( 촀\0Oh! 
 \0Wie's aussieht hast du
 heute bereits zwei Karten an
-s\0촀 verschickt.\0\0(%촀\0Falls du s\0촀 weitere
-Karten senden willst, 
-\0musst du dich(촀\0
-leider bis morgen gedulden."
+s\0촀 verschickt.\0\0(%촀\0Falls du s\0촀 weitere Karten senden willst, 
+\0musst du dich(촀\0 leider bis morgen gedulden."
+"321","(%촀\0Prima! 
+\0Dann wollen wir mal alles
+für den ($촀\0Versand vorbereiten!"
+"350","( 촀\0Oh,
+\0 deine erste Karte an Nintendo?
+\0
+('촀\0Leider fehlt es ihnen dort an Zeit,
+\0
+um auf Karten zu antworten, 
+\0abern\0\0
+()촀\0Vielleicht veröffentlichen sie deine
+Karte ja auf ihrer offiziellen Website
+\0
+oder in sozialen Medien!
+Gib deshalb in deiner Karte keine
+persönlichen Informationen von dir
+preis, 
+\0okay?
+(촀\0Soviel dazu von meiner Seite. 
+\0Also
+dann, 
+\0weiterhin frohes Schreiben!"
+"351","(촀\0Oh, 
+\0du willst also eine Karte an
+Nintendo verschicken? 
+\0((촀\0Dann leg
+mal los!"
+"352","( 촀\0Oh! 
+\0Wie's aussieht hast du heute
+bereits zwei Karten an Nintendo
+verschickt. 
+\0(9촀\0Mehr geht leider nicht.
+(%촀\0Morgen kannst du ihnen aber gern
+wieder etwas schreiben. 
+\0(촀\0Warte also
+einfach noch ein Weilchen."
+"353","Prima, dann lass uns sicherstellen,
+dass Nintendo deine lieben Zeilen
+auch erhältn"
+"380","( 촀\0Hoppla,
+\0 ('촀\0da ist was schiefgelaufen.
+\0
+(\0촀\0Willst du es direkt noch mal
+versuchen (9촀\0
+\0oder etwas warten?"
+"380_a","Versuch's noch mal."
+"380_b","Hm, lieber später..."
+"381","Also gut, 
+\0dann ($촀\0gebe ich dir
+deine Sternis wieder zurück."
+"382","(%촀\0Und das beigefügte Geschenk
+bekommst du natürlich (촀\0auch wieder."
 "400",""
 "401","(촀\0Also, 
 \0an welchem Datum soll dir
@@ -62,10 +173,12 @@ die Karte zugestellt werden?"
 \0Z$촀 Z#촀 Z""촀 \0￿erhalten?"
 "402_a","Ganz genau."
 "402_b","Nein, warte..."
-"410","Hab ich mich etwa verhört?
-Tut mir leid. Dann auf ein Neues!"
+"410","Hab ich mich etwa verhört?
+\0(
+(촀\0Tut mir leid. 
+\0Dann auf ein Neues!"
 "415","(\0촀\0Okidoki! 
-\0Oh, 
+\0(촀\0Oh, 
 \0warte mal!
 \0
 Du hast schon was an Zukunfts-
@@ -185,8 +298,25 @@ Karte lieber wegwerfen?"
 "620","An wen soll die Karte gehen?"
 "620_a","Nachbar."
 "620_b","Mein Zukunfts-Ich."
+"621","An wen soll die Karte gehen?"
+"621_a","Nachbar."
+"621_b","Mein Zukunfts-Ich."
+"621_c","Freund."
+"621_d","Nintendo."
+"625","Oh,
+\0 du hast ja schon die
+Zustellgebühren bezahlt!\0\0Ich geb dir deine Sternis zurück,
+\0
+damit du einen anderen Empfänger
+wählen kannst."
 "630","(%촀\0Und schwupps – schon liegt die
 Karte im Papierkorb."
+"631","(%촀\0Gut, 
+\0die Karte wurde entsorgt.
+\0
+Dann geb ich dir mal die \0200 Sternis\0￿
+zurück, 
+\0die du schon gezahlt hattest."
 "800","(촀\0Danke für deinen Besuch!"
 "801","(%촀\0Verstanden. 
 \0Lass es mich einfach

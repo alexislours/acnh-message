@@ -1,6 +1,6 @@
 ﻿"label","text"
 "001","Ehi, n\0! 
-\0Sei in piedi?\0\0Spero di non averti svegliat2oa, 
+\0Sei in piedi?\0\0Spero di non averti svegliat2oa, 
 \0ma
 ci sarebbe una cosa di cui vorrei
 parlarti. 
@@ -108,8 +108,8 @@ Beh, che tu non ne hai! (촀\0Sì! 
 \0Ma
 certon"
 "008_a","(%촁\0OK!"
-"008_b","(촀\0Non posso pagare."
-"008_c","(&촀\0Cosa sono le stelline?"
+"008_b","(촁\0Non ho stelline."
+"008_c","(&촁\0Cosa sono le stelline?"
 "009","(촀\0Non preoccuparti!
 \0(5촀\0 Sono preparato a
 questo genere di situazioni.\0\0(4촀\0Car2oa n\0, sono felice di presentartin\0\0 
@@ -138,7 +138,7 @@ informazioni nel tuo Nook Phone.
 (%촀\0Apri l'applicazione \0Miglia di Nook\0￿!
 (촀\0Vedrai subito che hai già guadagnato
 delle miglia per aver viaggiato fin qui
-e esserti registrat2oa al programma!"
+ed esserti registrat2oa al programma!"
 "013","(%촀\0Adesso, se vuoi scusarmi, avrei altre
 faccende da sbrigare.\0\0(촀\0Ma lascia che ti dia di nuovo il mio
 più caldo benvenuto e ti faccia i miei

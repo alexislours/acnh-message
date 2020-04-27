@@ -9,7 +9,7 @@ di poter stringere fra le zampe
 \02\0}촀!"
 "003","(촀\0Caspitina, 
 \0n\0!
-\0 2\02\0}\0\0 autentic2촀oa\0, n\0!"
+\0 2\02\0}\0\0 autentic2촀oa\0, n\0!"
 "004","(촀\0Uau! 
 \0(Troppo mitico! 
 \0(È davvero
@@ -18,7 +18,7 @@ di poter stringere fra le zampe
 sicur2oa di volermelo dare?"
 "004_a","È tutto tuo, amico mio!
 Certo, caro amico!"
-"004_b","Uh! Posso riaverlo...?
+"004_b","(\0촀\0Uh! Posso riaverlo...?
 Uhm, in effetti, no..."
 "005","(촀\0Grazie di tutto cuore! 
 \0Gli altri miei
@@ -86,18 +86,18 @@ non vorrai tenere e tornerai da men"
 "023","(촀\0Caspitina, 
 \0finalmente ho tra le zampe
 2\0}\0\0!"
-"024","(촀\02촀Un Un'\0inimitabile, 
+"024","(촀\02촀Un Un'\0inimitabile, 
 \0incontrovertibile
 
 \0}\0\0!
-\0(\0\0(촀\0È bellissim2촀oa\0! 
+\0(\0\0(촀\0È bellissim2촀oa\0! 
 \0((;촀\0Sei sicur2oa che posso
-tenerl2촀oa\0? 
+tenerl2촀oa\0? 
 \0È un esemplare così raron"
 "024_a","Ma certo!
 Questo pesce è tuo."
-"024_b","In effetti, lo rivorrei...
-È vero... OK, lo tengo."
+"024_b","(\0촀\0In effetti, lo rivorrei...
+(\0촀\0È vero... OK, lo tengo."
 "025","(촀\0Troppo mitic2oa, 
 \0n\0,
 
@@ -137,27 +137,27 @@ ringraziamento, n\0!"
 di averti chiesto aiuto. 
 \0(Lascia che
 ti dimostri quanton\0\0 (%촀\0Ecco, prendi!"
-"041","(촀\02""촀QuestoQuesta\0 }\0 sembra fatt2촀oa\0 apposta per te! 
+"041","(촀\02""촀QuestoQuesta\0 }\0 sembra fatt2촀oa\0 apposta per te! 
 \0Non trovi, n\0?"
 "042","(5촀\0Ta-
 \0daaa! 
 \0Guarda un po' che regalo: 
 \02\0}\0! (촀\0
 \0Spero che ti piaccia!"
-"043","(촀\0L'ho scelt2촀oa\0 personalmente per te:
+"043","(촀\0L'ho scelt2촀oa\0 personalmente per te:
 
 \0è 2\0}\0!"
 "044","(촀\0Ebbene, 
-\0che ne pensi di 2""촀questoquesta\0 }\0?
+\0che ne pensi di 2""촀questoquesta\0 }\0?
 \0 (촀\0Forte,
 \0 vero, n\0?"
 "045","(촀\0Visto? 
 \0Non ti piace? 
 \0O l'adori?
-\0 È 2\0}\0 ed è tutt2촀oa\0 per te!"
-"046","(촀\0Dritt2촀oa\0 dalla mia collezione personale,
+\0 È 2\0}\0 ed è tutt2촀oa\0 per te!"
+"046","(촀\0Dritt2촀oa\0 dalla mia collezione personale,
 
-\02""촀questoquesta\0 }\0."
+\02""촀questoquesta\0 }\0."
 "051","(촀\0Uuuh! 
 \0Fammi vedere, 
 \0ti prego!"
@@ -233,7 +233,7 @@ correre troppo lungo la spiaggian\0\0
 (7촀\0
 \0o spaventerai le povere creature."
 "201","Vorrei davvero tanto 2\0}촀!\0\0Secondo me, 
-\02촀lile\0 trovi sugli alberi.
+\02촀lile\0 trovi sugli alberi.
 
 \0(%촀\0Sì, 
 \0io guarderei proprio sui loro
@@ -243,19 +243,19 @@ tronchi, 
 \0
 2\0}촀!\0\0()촀\0Di solito si nasconde nell'erba,
 
-\0quindi per prenderne un2촀oa\0n\0\0
+\0quindi per prenderne un2촀oa\0n\0\0
 
 \0(촀\0ci vuole la calma che non ho!"
 "203","(촀\0Voglio librarmi in aria come
 2\0}촀!
-\0(\0\0(\0촀\0O anche solo averne 2촀unouna\0 catturat2촀oa\0
+\0(\0\0(\0촀\0O anche solo averne 2촀unouna\0 catturat2촀oa\0
 da te. 
 \0(%촀\0Basta andare in giro finché
-non vedi svolazzarne 2촀unouna\0 e poin\0\0 
+non vedi svolazzarne 2촀unouna\0 e poin\0\0 
 \0zac!"
 "204","(촀\0Eh sì, 
 \0vorrei davvero tanto
-2\0}촀n\0\0\0\0()촀\0Le libellule come 2촀luilei\0 si agitano
+2\0}촀n\0\0\0\0()촀\0Le libellule come 2촀luilei\0 si agitano
 molto, 
 \0capisci? 
 \0Perciò ti consiglio
@@ -273,7 +273,7 @@ un ceppo d'albero, 
 \0devi cercare di
 coglierlo di sorpresa, n\0!"
 "207","(4촀\0Il mio sogno nel cassetto sarebbe
-2\0}촀n\0\0\0\0()촀\02촀LiLe\0 puoi trovare in spiaggia, 
+2\0}촀n\0\0\0\0()촀\02촀LiLe\0 puoi trovare in spiaggia, 
 \0ma stai
 attent2oa perché sono dei fulmini. 
 \0(촀\0Per
@@ -282,14 +282,14 @@ me sono imprendibilin"
 
 \02\0}촀!\0\0(촀\0Bazzica i fiumi, a quanto ne so. 
 \0Me
-2촀lola\0 prenderesti, 
+2촀lola\0 prenderesti, 
 \0n\0?"
 "212","(촀\0Voglio proprio mettere le zampe su
 2\0}촀!\0\0(
 촀\0Sono ragionevolmente sicuro che
 si trovino in pozze e laghettin\0\0 
 \0(;촀\0Per
-te sarà un giochetto pescarne un2촀oa\0!"
+te sarà un giochetto pescarne un2촀oa\0!"
 "213","(1촀\0Mi piacerebbe tanto avere
 2\0}촀!\0\0(
 촀\0Pare vivano dove i fiumi incontrano
@@ -305,5 +305,5 @@ troverai il mio sogno... 
 \02\0}촀!
 (%촀\0Mi raccomando, 
 \0niente corse sulla spiaggia! 
-\0(7촀\0È più timid2촀oa\0 di me e si
+\0(7촀\0È più timid2촀oa\0 di me e si
 spaventa facilmenten"

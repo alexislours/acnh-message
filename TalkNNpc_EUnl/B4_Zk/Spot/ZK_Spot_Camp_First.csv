@@ -1,9 +1,18 @@
 ﻿"label","text"
-"001","(""촀\0Buongiorno!\0\0(촀\0Ik ben n
+"001","(""촀\0Buongiorno! Dat is Engels voor
+""hoi hoi"".\0\0(촀\0Ik ben n
 \0.
 \0((5촀\0 Wat een genoegen dat ik,
 \0 terecht,
 \0 als eerste deze \0kampeerplek\0￿ mag gebruiken."
+"001_01","(
+촀\0Jij woont op dit eiland,
+\0 of niet soms?
+\0(%촀\0
+Ja, dat dacht ik al. 
+\0Anderen
+doorgronden is mijn sterke punt.\0\0(2촀\0Ik zie zelfs dat jij het echt leuk gaat
+vinden dat ik er ben."
 "002_01","(촀\02\0n\0. Dit eiland is fantastisch!\0\0(&촀\0Wat het zo geweldig maakt?
 \0((6촀\0 Nou, ik
 ben blij dat ik mezelf dat afvraag.\0\0()촀\0Onder andere overheerlijke n촁 en de ruimte die er is voor de vrije kunsten!
@@ -35,12 +44,12 @@ speciale service voor bekendheden.\0\0(4촀\0Alleen één dingetjen\0\0
 \0(('촀\0 Ik wil niet de
 enige zijn die die service gebruikt.\0\0(&촀\0Kun je 
 \0bij de
-\0 VIP-manager van het
+\0 vipmanager van het
 eiland informeren of gewone lui er
 ook gebruik van mogen maken?"
 "003_01","(촀\0Guten Tag! 
-\0(9촀\0Mijn lot ligt in jouw
-handen.
+\0(9촀\0Dat is Turks voor ""mijn
+lot ligt in jouw handen"".
 \0((촀\0 HaHA!"
 "003_a","Zal ik doen!"
 "003_b","Oké!"
@@ -79,7 +88,7 @@ kits, n\0?""
 \0 Ik ben zo hip!\0\0(&촀\0Ik heb het gevoel dat je goed nieuws
 voor me hebt, klopt dat?\0\0(촀\0Echt?!
 \0 Een rode loper en mijn eigen
-VIP-bungalow?\0\0(6촀\0Dat is n
+vipbungalow?\0\0(6촀\0Dat is n
 \0-taal voor ""een uitnodiging om hier te komen wonen"". 
 \0(촀\0HaHA!\0\0(촀\0Oké, dan moet ik maar terug naar
 mijn eiland en mijn zaken regelenn\0\0
@@ -110,11 +119,8 @@ de fabuleuze bewoners van n\0?\0\0(촀\0Ik ben n
 "007","<"
 "007_01","(5촀\0Ik woon hier nog niet,
 \0 maar ik voel
-me hier al helemaal bekend.\0\0()촀\0Ik weet de beste n촁 te
-vinden
-\0 en welk strand zich het beste
-leent voor het maken van selfies.
-(1촀\0Ja, volgens mij word ik al ""Mister n\0"" genoemd.
+me hier al helemaal bekend.\0\0()촀\0Ik weet de beste n촁 te vinden
+\0 en welk strand zich het beste leent voor het maken van selfies.\0\0(1촀\0Ja, volgens mij word ik al ""Mister n\0"" genoemd.
 \0 En niet onterecht, al zeg ik het zelf."
 "007_02","(5촀\0Dankzij mijn bezoek voel ik me 2\0
 2,촀nieuwe
@@ -124,14 +130,13 @@ heb meer waardering gekregen voor
 harde arbeid.\0\0(6촀\0Ik overweeg zelfs om een keer zo'n
 gewicht te heffen om te zien hoe dat
 is."
-"007_03","(1촀\0Ik ben van huis uit een heel
-2D촀eenvoudigeeenvoudigeenvoudige n\0n\0\0\0\0(촀\0Het enige wat ik hoop te bereiken, is rijk worden
+"007_03","(1촀\0Ik ben van huis uit een heel 2D촀eenvoudigeeenvoudigeenvoudige n\0n\0\0\0\0(촀\0Het enige wat ik hoop te bereiken, is
+rijk worden
 \0 en bevriend zijn met de
 hipste en knapste sterren ter wereld."
 "008","<"
 "008_01","(:촀\0Ik moet je iets belangrijks vertellen,
-n\0n\0\0\0\0(6촀\0Van nu af aan zul je n\0 moeten delen met een heel 2촀chiquechic\0 n\0.
-(촀\0Met mij dus!
+n\0n\0\0\0\0(6촀\0Van nu af aan zul je n\0 moeten delen met een heel 2촀chiquechic\0 n\0.\0\0(촀\0Met mij dus!
 \0( HaHA.
 \0( (촀\0Dat was
 waarschijnlijk veel te makkelijk voor
@@ -157,3 +162,14 @@ verhuis naar n\0!\0\0Normaal zou ik een hypevideo maken
 of een persbericht schrijven,
 \0(촀\0 maar ik
 doe het deze keer uit de losse pols."
+"101","( 촀\0Wauw!
+\0 n\0 is echt populair, n\0.\0\0(촀\0Echt iets voor mij, 
+\0want dan heb ik
+veel kansen om mijn visitekaartjes af
+te geven.
+\0(2촀\0 Ze zijn prachtig, echt waar!
+Maar
+\0(4촀\0 hopelijk kunnen we ook even
+bijpraten nadat je visite is opgestapt.
+\0(촀\0
+Dat lijkt me geweldig."

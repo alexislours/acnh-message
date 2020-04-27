@@ -4,6 +4,16 @@
 willkommen!
 \0( (\0촀\0Hoffentlich sieht es das
 (촀\0\0Servicecenter \0￿genauson"
+"003","(4촀\0Freut mich sehr, 
+\0dass du mich noch
+mal fragst... 
+\0(('촀\0Wo ich doch beim
+letzten Mal nicht so begeistert war.
+(촀\0Dafür bin ich es jetzt umso mehr!
+
+\0((촀\0Ich frage gleich mal beim \0Service-
+center\0￿ nach, 
+\0ob ich kommen darf!"
 "101","<"
 "101_01","( 촀\0Ohn\0\0 
 \0Das ist wirklich nett von dir,
@@ -144,35 +154,36 @@ viel Spaß bereitet, 
 (\0촀\0Damit steht die Entscheidung
 felsenfest.
 \0( ((촀\0Ich ziehe auf diese Insel!
-(9촀\02\0n\0 heißt du doch, 
-\0nicht wahr? 
-\0(촀\0Auf dass wir uns bald besser kennenlernen, 
-\0n\0!"
+(9촀\0Aber zuerst sollte ich mal beim
+\0Servicecenter\0￿ vorbeischauen.
+\0(
+(촀\0Am besten direkt gleich!"
 "206_02","(촀\0Da muss ich mich geschlagen geben!
 \0(
 (1촀\0Das Schicksal will also, 
 \0dass ich mich
 hier niederlasse, 
 \0n\0n\0\0
-Also, 
-\0(촀\0ähn\0\0 
-\0n\0, 
-\0oder? 
-\0(촀\0Gut! 
-\0(촀\0Ich freue mich schon darauf,
-\0
-dich besser kennenzulernen."
+(
+촀\0Hm. 
+\0(Als Nächstes sollte ich dann
+wohl mal beim \0Servicecenter\0￿ vorbei-
+schauen.
+\0 (촀\0Also, nichts wie hin!"
 "206_03","(%촀\0Sieht aus, 
 \0als hätte Fortuna deine
 Hand gelenkt, 
 \0(촀\0weil sie wollte,
 \0 dass
-ich mich hier niederlasse.\0\0(촀\02\0n\0 heißt du, 
-\0nicht wahr? 
-\0Wie schön, 
-\0dass ich jetzt schon jemanden hier kenne.\0\0Das wird sicher aufregend hier,
-
-\0n\0!"
+ich mich hier niederlasse.\0\0(촀\0Dann ist es also entschieden.
+\0
+Nach meinem Camping-Ausflug
+werd ich sofort herziehen.
+(
+촀\0Aber zuvor sollte ich mir noch die
+Erlaubnis vom \0Servicecenter\0￿
+einholen.
+\0 (촀\0Das werd ich gleich tun!"
 "302","(""촀\0So, 
 \0da bin ich wieder.
 \0(
@@ -228,20 +239,17 @@ das Ganze lieber bleiben."
 "309","(4촀\02\0n\0 heißt du doch, 
 \0oder? 
 \0((촀\0Puh, 
-\0zum Glück hab ich deinen
-Namen richtig zusammenbekommen.\0\0(촀\0Du hattest übrigens den richtigen
+\0zum Glück hab ich deinen Namen richtig zusammenbekommen.\0\0(촀\0Du hattest übrigens den richtigen
 Riecher. 
-\0(()촀\02\0s촀 hatte
-schon an einen Umzug gedacht!
-(\0촀\0Und mir zuliebe hat 2촀ersie\0 sich bereit
+\0(()촀\02\0s촀 hatte schon an einen Umzug gedacht!\0\0(\0촀\0Und mir zuliebe hat 2촀ersie\0 sich bereit
 erklärt, 
 \0das Ganze sofort anzugehen.
 \0
 (촀\0Danke für deinen Beistand!
 (촀\0Ich freue mich schon riesig darauf,
 \0
-zur Inselgemeinschaft zu
-gehören, 
+zur Inselgemeinschaft zu gehören,
+
 \0n\0!"
 "310","(촀\0Wäre ja auch ein unglaublicher
 Zufall gewesen..."
@@ -254,36 +262,25 @@ Umzugskandidaten, 
 \0 (촀\0als sollte ich mir das
 Ganze abschminken, 
 \0n\0."
-"402","(""촀\0Da bin ich wieder!
-\0(
-(\0촀\0Im \0Servicecenter\0￿ habe ich eine etwas
-seltsame Auskunft erhaltenn\0\0\0\0(촀\0Da hier eine Person wohnt, 
-\0die mir
-zum Verwechseln ähnlich sieht,
-\0 (촀\0soll
-ich besser nicht herziehen.
-(\0촀\0Hmmm, 
-\0das wäre wohl wirklich etwas
-komisch. 
-\0(촀\0Ja, 
-\0es ist bestimmt besser
-so, 
-\0n\0!"
-"403","(""촀\0Da bin ich wieder!
-\0(
-(\0촀\0Im \0Servicecenter\0￿ habe ich eine etwas
-seltsame Auskunft erhaltenn\0\0\0\0(촀\0Hier soll bald eine Person hinziehen,
-
-\0die mir zum Verwechseln ähnlich
-sieht.
-\0 (촀\0Deshalb rät man mir ab.
-(\0촀\0Hmmm, 
-\0das wäre wohl wirklich etwas
-komisch. 
-\0(촀\0Ja, 
-\0es ist bestimmt besser
-so, 
-\0n\0!"
+"313","(촀\0Findest du wirklich?
+\0( (9촀\0Hm,
+\0 ich könnte
+schwören, 
+\0im \0Servicecenter\0￿ wurde
+über einen Umzug getuschelt.
+(8촀\0s촀 spielt wohl mit dem Gedanken, 
+\0hier demnächst 2촀
+seineihre\0 Zelte abzubrechen.\0\0Vielleicht sollte ich mich einfach
+direkt an s촀 wenden.
+\0
+(&촀\0Was meinst du?"
+"313_a","Klar, mach!"
+"313_b","Besser nicht."
+"314","(촀\0Ja, 
+\0das wäre vermutlich zu dreist.
+\0<
+(촀\0Dann muss ich wohl meine Umzugs-
+pläne vorerst auf Eis legen."
 "404","(""촀\0So, 
 \0da wäre ich wieder.
 \0( (\0촀\0Stell dir vor,
@@ -293,20 +290,6 @@ habe!\0\0(촀\0Auf der Insel ist aktuell kein Platz für
 zusätzliche Einwohner.
 \0 (촀\0Also aus der
 Traum vom Umzug...\0\0(\0촀\0Tja, 
-\0was soll's... 
-\0(촀\0Zumindest habe
-ich es versucht, 
-\0n\0."
-"405","(""촀\0So, 
-\0da wäre ich wieder.
-\0( (\0촀\0Stell dir vor,
-\0
-was ich im \0Servicecenter\0￿ erfahren
-habe!\0\0(촀\0Es gibt hier keine Stelle, 
-\0wo man
-noch ein Haus errichten könnte.
-\0
-(촀\0Also aus der Traum vom Umzug...\0\0(\0촀\0Tja, 
 \0was soll's... 
 \0(촀\0Zumindest habe
 ich es versucht, 
@@ -348,26 +331,10 @@ Hoffnungen machen.
 (\0촀\0Und den armen Leuten vom
 (촀\0\0Servicecenter\0￿ will ich ja auch nicht
 unnötig auf die Nerven gehen."
-"421","Jemand, 
-\0der genauso aussieht wie
-ichn\0\0
-\0 (7촀\0Treffen würde ich die Person ja
-schon gern einmal, 
-\0n\0."
-"422","Zwei neue Einwohner, die sich
-gleichen wie ein Ei dem anderenn\0\0
-\0
-(%촀\0Das wäre wirklich zu verwirrend."
 "423","2\0n	\0 kann keine neuen
 Einwohner aufnehmen... 
 \0(촀\0Das zeugt
 von der Beliebtheit dieser Insel!"
-"424","2\0n	\0 ist also schon
-dicht besiedelt? 
-\0(촀\0Kein Wunder, 
-\0so
-schön wie es hier ist, 
-\0n\0!"
 "504","(촀\0Die Leute auf dieser Insel sind
 so nett! 
 \0Und dann noch die tolle

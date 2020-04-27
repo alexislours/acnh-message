@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Hein?
 \0( Tu t'en vas?"
-"001_a","J'ai un truc à faire..."
+"001_a","(\0촀\0J'ai un truc à faire..."
 "001_b","Non, je reste ici."
 "002","(촀\02\0n\0?
 \0( (8촀\0Tu t'en vas?"
@@ -10,7 +10,7 @@
 "003","(&촀\0Où tu vas,
 \0 n\0?"
 "003_a","J'ai un truc à faire!"
-"003_b","Nulle part!"
+"003_b","(\0촀\0Nulle part!"
 "004","(""촀\0D'accord!
 \0 Dans ce cas, je vais
 chez moi!

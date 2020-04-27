@@ -187,14 +187,13 @@ toute chamboulée, n\0!"
 n\0!\0\0(""촀\0J'ai été invitée à passer quelques jours au camping de cette île.
 \0
 (6촀\0Comment refuser une telle offre?"
-"202_02","($촀\0Ravie de te rencontrer! Je m'appelle n
-\0.\0\0(촀\0J'ai été invitée à venir séjourner sur
-cette île! 
-\0((촀\0Et j'ai bien l'intention d'en
-profiter à fond, n\0!"
-"202_03","(%촀\0Je suis n
-\0,
-\0 ravie de te rencontrer!\0\0()촀\0Quelqu'un d'ici m'a invitée à venir
+"202_02","($촀\0Bonjour!
+\0(5촀\0 Tu sais, tu me croiras si
+tu veuxn\0\0\0\0(촀\0Mais j'ai été invitée à venir séjourner
+sur cette île! 
+\0((촀\0Et j'ai bien l'intention
+d'en profiter à fond, n\0!"
+"202_03","()촀\0Quelqu'un d'ici m'a invitée à venir
 faire du camping sur votre île.
 \0 (촀\0Je suis
 donc venue dès que j'ai pu.
@@ -218,10 +217,9 @@ qu'une séance de yoga!
 "301_02","Pour ne rien te cacher, 2&mon chouma chérie,('촀\0 je
 ne pensais pas être taillée pour le
 camping.
-(촀\0J'apprécie les mille petits conforts de
-la vien\0\0
-\0((9촀\0 une chasse d'eau, un toit
-au-dessus de la tête, tout çan\0\0
+(촀\0D'habitude, j'ai horreur de voyager
+sans le strict minimumn\0\0
+\0((9촀\0 un fauteuil de massage, mes parfumsn\0\0
 ()촀\0Mais finalement, je me suis très bien
 faite au camping.
 \0((5촀\0 À croire qu'il a
@@ -283,10 +281,9 @@ qu'une séance de yoga!
 "302_02","Pour ne rien te cacher, 2&mon chouma chérie,('촀\0 je
 ne pensais pas être taillée pour le
 camping.
-(촀\0J'apprécie les mille petits conforts de
-la vien\0\0
-\0((9촀\0 une chasse d'eau, un toit
-au-dessus de la tête, tout çan\0\0
+(촀\0D'habitude, j'ai horreur de voyager
+sans le strict minimumn\0\0
+\0((9촀\0 un fauteuil de massage, mes parfumsn\0\0
 ()촀\0Mais finalement, je me suis très bien
 faite au camping.
 \0((5촀\0 À croire qu'il a
@@ -317,7 +314,7 @@ suis impatiente, n\0!"
 촀\0Vu que je déménage bientôt, il va
 falloir que je nettoie ma maison
 actuelle de fond en comblen\0\0
-(""촀\0J'essaye de la tenir impeccable,
+(""촀\0J'essaie de la tenir impeccable,
 \0 mais
 (촀\0il doit bien y avoir quelques moutons
 de poussière par-ci par-làn\0\0
@@ -391,7 +388,7 @@ chou! Rien ne serait plus faux.\0\0()촀\0Mais s\0촀 a tellement insisté
 \0((4촀\0 C'est agréable, quand on nous témoigne de l'intérêt, non?\0\0(""촀\0Je vais donc terminer mon séjour au
 camping, 
 \0et puis (촀\0je n'aurai plus qu'à
-aller faire mes cartons!
+aller faire mes boîtes!
 ($촀\0Je suis bien contente
 \0(촀\0 de t'avoir
 bientôt pour voisin2\0e, n\0!"

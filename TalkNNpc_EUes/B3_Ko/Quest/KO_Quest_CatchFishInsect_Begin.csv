@@ -222,10 +222,7 @@ Ahora no puedo...
 Perdona, pero no..."
 "101","(촀\0Oye,
 \0 n\0,
-\0 ¿quizá
-podría valerme de tu talento para
-una cosilla que se me resiste?
-(촀\0Los años se notan,
+\0 ¿quizá podría valerme de tu talento para una cosilla que se me resiste?\0\0(촀\0Los años se notan,
 \0 y ya no estoy
 en condiciones de atrapar 2\0
 }촀.
@@ -262,17 +259,16 @@ Te lo pediré con las buenas maneras
 que me enseñaron mis padres.
 Mira que lo intento,
 \0 ¡pero no consigo
-2\0}촀!\0\0(&촀\0¿No podrías pescarme 2""촀algunoalguna\0?
+2\0}촀!\0\0(&촀\0¿No podrías pescarme 2""촀algunoalguna\0?
 \0
 Te lo agradecería mucho."
 "201_a","¡Yo me encargo!"
 "201_b","(\0촀\0Lo siento..."
 "202","(촀\0A veces pienso que jamás
 conseguiré pescar 2\0
-}촀n\0\0
-(촀\0Aceptado eso,
+}촀n\0\0\0\0(촀\0Aceptado eso,
 \0 me alegraría mucho
-si alguien pescara 2""촀algunoalguna\0 para mí."
+si alguien pescara 2""촀algunoalguna\0 para mí."
 "202_a","(\0촀\0¡Cuenta conmigo!"
 "202_b","(\0촀\0¡No te rindas!"
 "203","(촀\0¡No me lo puedo creer!

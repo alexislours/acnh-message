@@ -1,11 +1,6 @@
 ﻿"label","text"
 "001","(""촀\0¡Hola, n\0!
-\0
-(촀\0Estábamos hablando de comida,
-¿sabes?
-¡2\0n촁 conoce un
-montón de platos (촃\0que a mí ni me
-suenan!(촃"
+\0 (촀\0Estábamos hablando de comida, ¿sabes?\0\0¡2\0n촁 conoce un montón de platos (촃\0que a mí ni me suenan!(촃"
 "002","No vayas diciendo eso por toda la
 isla,
 \0 촇촅(\0촀\0que tampoco quiero que
@@ -23,8 +18,8 @@ de primera calidad.
 "004","(촃\0Jon\0\0
 \0(촀\0 ¡qué suerte!
 \0
-(;촀\0Yo ayer cené unos simples huevos
-fritos con patatas.(촃\0(촃"
+(;촀\0Yo ayer cené unos simples
+huevos fritos con patatas.(촃\0(촃"
 "005","()촀\0Aunque ayer para almorzar tomé un
 manjar a base de fina masa de harina
 de trigo,초 tomate fresco y mozarella."
@@ -45,11 +40,11 @@ de los lados de cada rebanada.
 comes!
 \0 (촀\0Yo desayuné dos simples
 tostadas con mermelada.(촃\0(촃"
-"009","(촂\0¿Qué es todo eso?
-\0 Lo que comes
+"009","(
+촀\0Qué interesanten\0\0
+\0 (촂\0Lo que comes
 suena la mar de tradicionaln\0\0\0\0(%촀\0¡A lo mejor debería probarlo para ver
-si sabe tan exótico como suena,
-n\0!"
+si sabe tan exótico como suena, n\0!"
 "101","(촀\0Oye, n촁,
 \0 adivina qué estoy pensandon\0\0
 \0 (;촀\0¡ahora mismo!( 촃\0(촃"
@@ -58,11 +53,11 @@ si sabe tan exótico como suena,
 (
 촀\0Vamos a vern"
 "103","(촀\0Te encantan las siestas,
-\0 ¿así que
-estás pensando en el sueño que has
-tenido en tu última cabezadita?(촂\0(촂"
+\0 así que
+¿estás pensando en el sueño que
+has tenido en tu última cabezadita?(촂\0(촂"
 "104","(촀\0¡He soñado que estaba en un enorme
-cubo de 촀!\0\0(촀\0Y por más que comía,
+cubo de 촀!\0\0(촀\0Y, por más que comía,
 \0
 ¡no se acababa nunca!\0\0(촀\0¡Increíble!
 \0
@@ -74,7 +69,7 @@ en tu cena de esta noche!(촂\0(촂"
 "106","¡2\0n\0! 
 \0((촀\0(촀\0
 \0Sín\0\0
-\0 no sé si cenar 촀 o 촁.\0\0(촀\0Anoche estuve toda la noche en vela
+\0 No sé si cenar 촀 o 촁.\0\0(촀\0Anoche estuve toda la noche en vela
 con eston\0\0 ¿Cómo lo has sabido?"
 "107","()촀\0Siempre andas detrás de sabores
 vanguardistas para tus papilas
@@ -117,14 +112,10 @@ tú también?(촃\0(촃\0(촀"
 "204","(7촀\0Yo soy de los que crean su propio
 estilo más que copiarlo de los demás,
 \0
-pero si insistesn\0\0\0\0(촀\0«¡Soy yo, n
-\0,
-\0 y
-siempre puedes contar conmigo!
-\0
-(\0촀\0Ejemn\0\0
-\0 (촂\0¡2\0n\0!»
-(&촀\0Bueno,
+pero si insistesn\0\0\0\0(촀\0«¡Soy yo, n촁,
+\0 y siempre puedes contar conmigo!
+\0 (\0촀\0Ejemn\0\0
+\0 (촂\0¡⁠2\0n\0!»\0\0(&촀\0Bueno,
 \0 ¿qué te parece?(촀\0(촂"
 "205","(촀\0¡Genial, n촁!\0\0(촃\0¡Me ha encantado oír mi muletilla
 de los labios de alguien tan molón

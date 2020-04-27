@@ -5,7 +5,7 @@
 keertje willen vereren met een
 bezoekje?"
 "001_a","Maar natuurlijk!"
-"001_b","Een ander keertje."
+"001_b","(\0촀\0Een ander keertje."
 "002","($촀\02\0n\0
 \0, zou je het leuk vinden
 \0 even bij mij thuis op bezoek te komen?\0\0(촀\0Buiten verder kletsen is prima,
@@ -13,7 +13,7 @@ bezoekje?"
 binnen is het veel gerieflijker, zeker
 in mijn paleisje!"
 "002_a","Lijkt me gezellig!"
-"002_b","Een andere keer."
+"002_b","(\0촀\0Een andere keer."
 "003","Zeg, 
 \0n\0n\0\0($촀\0 Ik wil je dolgraag mijn charmante stulpje laten zien!
 \0 Kom je een keer langs?\0\0(촀\0En als interieurdesign ook jóúw
@@ -22,7 +22,7 @@ liefhebberij is,
 \0 (촀\0raken we
 wellicht nooit uitgepraat!"
 "003_a","Ja, lijkt me leuk!"
-"003_b","Liever een andere keer."
+"003_b","(\0촀\0Liever een andere keer."
 "004","(촀\0O,
 \0 op die maniern\0\0 (촀\0Goed,
 \0 hopelijk

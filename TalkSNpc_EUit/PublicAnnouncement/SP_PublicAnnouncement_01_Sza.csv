@@ -91,24 +91,31 @@ Basta iscriversi alla tenda in piazza!"
 "006_01_01","Oggi in piazza si terrà la prima
 \0Insettomania \0￿della stagione,
 dalle \09:00\0￿ alle \018:00\0￿!"
-"006_01_02","La prima \0Insettomania\0￿ della stagione
-continuerà fino alle \018:00 \0￿di oggi!"
+"006_01_02","È in corso la prima \0Insettomania
+\0￿della stagione. 
+\0Continuerà fino
+alle \018:00 \0￿di oggi!"
 "006_02_01","Oggi in piazza si terrà la seconda
 \0Insettomania \0￿della stagione, dalle
 \09:00\0￿ alle \018:00\0￿!"
-"006_02_02","La seconda \0Insettomania\0￿ della
-stagione continuerà fino alle
+"006_02_02","È in corso la seconda \0Insettomania
+\0￿della stagione. 
+\0Continuerà fino alle
 \018:00 \0￿di oggi!"
 "006_03_01","Oggi in piazza si terrà la terza
 \0Insettomania \0￿della stagione,
 dalle \09:00\0￿ alle \018:00\0￿!"
-"006_03_02","La terza \0Insettomania\0￿ della stagione
-continuerà fino alle \018:00 \0￿di oggi!"
+"006_03_02","È in corso la terza \0Insettomania
+\0￿della stagione. 
+\0Continuerà fino
+alle \018:00 \0￿di oggi!"
 "006_04_01","Oggi in piazza si terrà l'ultima
 \0Insettomania \0￿della stagione,
 dalle \09:00\0￿ alle \018:00\0￿!"
-"006_04_02","L'ultima \0Insettomania\0￿ della stagione
-continuerà fino alle \018:00 \0￿di oggi!"
+"006_04_02","È in corso l'ultima \0Insettomania
+\0￿della stagione. 
+\0Continuerà fino
+alle \018:00 \0￿di oggi!"
 "007_01","(촀\0Sembra impossibile,
 \0 vero?
 \0 (촀\0Eppure,
@@ -138,6 +145,24 @@ abitanti dell'isola!"
 \0perciò affrettatevi.
 \0 (""촀\0Ci vediamo là!
 Ò"
+"008_01_01","(촀\0Il giorno della \0caccia all'uovo\0￿
+si avvicina
+\0 a grandi salti!(\0촀\0\0\0(촀\0E questo mi fa pensare che anche
+il tempo cambierà.\0\0(1촀\0Accifuffoli! 
+\0È incredibile come non
+si faccia in tempo ad abituarsi a una
+stagione, 
+\0che già ne arriva un'altra."
+"008_01_02","(촀\0Oggi è il giorno della \0caccia all'uovo\0￿
+
+\0e la piazza è in pieno fermento!
+\0
+(촀\0Siete emozionati?
+(1촀\0Chissà, magari riceveremo anche una
+visita specialen\0\0\0\0(\0촀\0In ogni caso, 
+\0(촀\0sono sicura che oggi ci
+sarà da divertirsi! (%촀\0Mi raccomando, se
+potete fate un salto in piazza."
 "010","(촂\0Salve a tutti!
 \0 Mi scuso per questa
 improvvisa interruzione della vostra
@@ -173,31 +198,31 @@ compiano gli anni lo stesso giorno!"
 "022","E ora passiamo agli altri annunci
 di oggin"
 "031","E c'è dell'altro!"
-"101","(촀\02D촀Un nuovo amicoUna nuova amica\0 ci ha raggiunto 2\0 n\0!
+"101","(촀\02D촀Un nuovo amicoUna nuova amica\0 ci ha raggiunto 2\0 n\0!
 \0 Un caloroso benvenuto an\0\0
 \0 s촀!"
 "102","<"
 "102_01","(촀\0Perciò, 
 \0a nome di tutta la comunità:
 \0
-2.촀benvenutobenvenuta\0 s촀!"
+2.촀benvenutobenvenuta\0 s촀!"
 "102_02","(촀\0Felicitazioni per il tuo trasferimento,
 \0
 s촀! 
 \0Spero che ti piacerà vivere qui!"
 "102_03","(촀\0Sono veramente felice di avere
-2D촀un nuovo amicouna nuova amica\0 sull'isola!"
+2D촀un nuovo amicouna nuova amica\0 sull'isola!"
 "200","Passando a un argomento
 leggermente diverson"
 "201","Domani s촀 lascerà
-la nostra n\0.\0\0Sarà difficile 2 촀dirgli
+la nostra n\0.\0\0Sarà difficile 2 촀dirgli
 dirle\0 addio, 
 \0ma sarà
-facile 20촀augurargliaugurarle\0 tutto il meglio
+facile 20촀augurargliaugurarle\0 tutto il meglio
 per la sua nuova vita.
 Mi raccomando,
 \0 ricordate di passare
-a salutarl2촀oa\0 prima che se ne vada!
+a salutarl2촀oa\0 prima che se ne vada!
 
 \0E niente lacrimen\0\0
 \0 se poteten"
@@ -264,8 +289,8 @@ in estate."
 e di usarle per realizzare qualche
 fuffissimo oggetto!"
 "611_02_02","(%촀\0Ho inviato uno schema per una
-\0ghirlanda conchiglie \0￿a tutti quelli che
-usano l'applicazione \0Laboratorio\0￿.
+\0ghirlanda tema conchiglia \0￿a tutti
+quelli che usano l'app \0Laboratorio\0￿.
 (촀\0Andate pure a vedere se desiderate
 realizzarne una!"
 "611_03","(촀\0Consiglio a tutti di raccoglierne un
@@ -302,9 +327,9 @@ incantevole stagione finisca!"
 \0A proposito!"
 "612_02_02","(촀\0Ho inviato lo schema
 \0 per un
-\0alberello frutti del bosco\0￿ 
-\0a tutti quelli
-che usano l'applicazione \0Laboratorio\0￿.
+\0alberello frutti dell'albero\0￿ 
+\0a tutti
+gli utenti dell'app \0Laboratorio\0￿.
 (%촀\0Non vedo l'ora di ammirare le vostre
 creazioni!"
 "612_03","(촀\0Non sarebbe fuffosissimo vedere
@@ -324,8 +349,8 @@ carinissimi oggetti fai da te!"
 "613_02_01","( 촀\0
 \0A proposito!"
 "613_02_02","(촀\0Tutti quelli che usano l'applicazione
-\0Laboratorio \0￿dovrebbero aver ricevuto
-il mio schema per la \0ghirlanda funghi\0￿.
+\0Laboratorio \0￿avranno ricevuto il mio
+schema per la \0ghirlanda tema fungo\0￿.
 (\0촀\0L'autunno unisce alla perfezione due
 attività che adoro: 
 \0(촀\0la raccolta di

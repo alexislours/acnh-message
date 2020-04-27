@@ -36,15 +36,15 @@ bonheur !"
 \0(&촀\0n\0, n'est-ce pas ?\0\0(촀\0C'est une petite île. 
 \0((촀\0Les nouvelles
 circulent vite !"
-"001_03_02","Figure-toi que \0Tom Nook \0￿m'a confié
+"001_03_02","()촀\0Figure-toi que \0Tom Nook \0￿m'a confié
 un \0ticket Miles Nook\0￿ au nom den\0\0
 « n\0 ». (촀\0
 \0Il est à toi !
-Si tu veux l'utiliser,
+(%촀\0Si tu veux l'utiliser,
 \0 tu n'as qu'à
 prononcer les mots magiques
 \0
-(""촀\0« \0Je veux voyager \0￿», OK ?"
+(촀\0« \0Je veux voyager \0￿», OK ?"
 "001_03_03","(%촀\0Comme tu le vois, on propose pas
 mal de services ici, 
 \0(촀\0mais seuls les
@@ -94,7 +94,7 @@ l'utiliser quand tu veux."
 "005_02","(촀\0À propos, on dirait que tu as un
 \0ticket Miles Nook\0￿ ? N'hésite pas
 à l'utiliser !"
-"006_01","(\0촀\0Ça marchen\0\0
+"006_01","(\0촀\0Doncn\0\0
 \0 (&촀\0Est-ce que tu peux me
 dire où tu vas, pour que je m'occupe
 des formalités ?"
@@ -109,14 +109,14 @@ l'utiliser quand tu veux."
 "006_02_b","\0Ticket Miles Nook\0￿"
 "006_02_c","Aller sur l'île de Joe."
 "006_02_d","Laisse tomber."
-"006_03","(\0촀\0Ça marchen\0\0
+"006_03","(\0촀\0Doncn\0\0
 \0 (&촀\0Est-ce que tu peux me
 dire où tu vas, pour que je m'occupe
 des formalités ?"
 "006_03_a","Aller voir quelqu'un."
 "006_03_b","Aller sur l'île de Joe."
 "006_03_c","Laisse tomber."
-"006_04","(\0촀\0Ça marchen\0\0
+"006_04","(\0촀\0Doncn\0\0
 \0 (&촀\0Est-ce que tu peux me
 dire où tu vas, pour que je m'occupe
 des formalités ?"
@@ -198,7 +198,8 @@ tu peux partir dès maintenant.
 "035","(촀\0Tu veux utiliser un \0ticket Miles
 Nook\0￿ pour partir en voyage ?
 \0
--촀\0Okidodoki !(\0촀"
+-촀\0Okidodoki !
+\02(\0촀"
 "035_01","(촀\0Dans ce cas, 
 \0je vais tout simplement
 garder le ticket à ton nom que m'a
@@ -231,7 +232,7 @@ reçois ? 
 \0\0Okidodoki !
 \0 J'en ai une paire prête à décoller !\0￿\0d
 \0d촂
-(\0\0\0(\0촀\0
+Z\0\0\0(\0촀\0
 \02(촀\0Et voilà !
 \0 Je n'ai plus qu'à te
 souhaiter un excellent vol.
@@ -268,6 +269,10 @@ bout,
 "091_02","(촀\0Merci de ton attention !
 \0(촀\0 On peut
 passer à la suite, maintenantn"
+"092","(촀\0Ça marche !\0\0(2촀\0Et désolé si on t'a déjà montré ça,
+\0
+mais c'est la règle quand quelqu'un
+se prépare à jouer en ligne."
 "101","(&촀\0Tu veux te rendre sur une île proche
 en \0multijoueur local\0￿,
 \0 ou partir plus
@@ -282,7 +287,7 @@ rendre pour le momentn\0\0
 (촀\0Désolé, 
 \0c'est vraiment dodommage."
 "102_a","Cherche encore !"
-"102_b","OK, je repasserai."
+"102_b","(\0촀\0OK, je repasserai."
 "103","Attends une seconde,
 \0(&촀\0 sur quelle île
 est-ce que tu veux aller ?"
@@ -294,12 +299,11 @@ imminent pour s촀n\0\0
 "104_a","Oui !"
 "104_b","Cherche encore !"
 "104_c","Laisse tomber."
-"105","(9촀\0OK, j'ai trouvén\0\0 
-\0mais c'est complet.
-(촀\02\0s촀 n'accepte plus
-de visiteurs pour le moment."
+"105","(9촀\0OK, j'ai trouvé quelque chosen\0\0 
+\0mais
+c'est complet. (촀\02\0s촀 n'accepte plus de visiteurs."
 "105_a","Tu peux revérifier ?"
-"105_b","OK, je repasserai."
+"105_b","(\0촀\0OK, je repasserai."
 "106","(촀\0Ah !
 \0(
 촀\0 Il faut un \0Dodo Code™\0￿ pour
@@ -309,7 +313,7 @@ visiter cette île.
 "107","('촀\0Ce n'est pas le bon Dodo Code™.
 \0(
 (&촀\0Tu veux réessayer ?"
-"107_a","Réessayer."
+"107_a","(\0촀\0Réessayer."
 "107_b","Laisse tomber."
 "108","(촀\0Aïe !(
 촀\0 Il y a des interférences.
@@ -407,21 +411,20 @@ si ça marche, maintenant ?"
 "117_02_b","Je réessaierai plus tard."
 "118_01","(7촀\0En fait, 
 \0si quelqu'un est en cours de
-conversation sur une île,
-\0 ou en train
-de travailler sur quelque chosen\0\0
-n\0\0 ('촀\0tu ne peux pas t'y rendre. 
-\0(%촀\0Si la
-connexion échoue plusieurs fois de
+conversation,
+\0 ou en train de travailler
+sur quelque chosen\0\0
+n\0\0 ('촀\0tu ne peux pas décoller d'ici. 
+\0(%촀\0Si
+la connexion échoue plusieurs fois de
 suite,
-\0 mieux vaut réessayer plus tard.
-(촀\0Dans ces cas-là,
+\0 mieux vaut réessayer plus tard.\0\0(촀\0Dans ces cas-là,
 \0 le plus simple est
 peut-être d'envoyer un message à
 ton hôte !
 \0 (
 촀\0Quelque chose du genren\0\0
-()촀\0« \0Je voudrais rentrer,
+()촀\0« \0Je voudrais partir,
 \0 est-ce que tu
 peux arrêter de discuter et fermer
 ton NookPhone, stp ?\0￿ »
@@ -438,9 +441,7 @@ Tu veux que je revérifie,
 si ça marche, maintenant ?"
 "118_02_a","Tu peux revérifier ?"
 "118_02_b","Je réessaierai plus tard."
-"120","(촀\0Okidodoki !
-\0( ($촀\0Les portes sont
-ouvertes !"
+"120","(촀\0Allez, j'ouvre les portes !"
 "120_01","(촀\0Mais dis-moi,
 \0 on dirait que tu es
 en train d'utiliser l'application
@@ -467,8 +468,8 @@ en multijoueur localn\0\0
 \0J'ouvre l'accès !"
 "125","()촀\0Sache juste que quand l'accès est
 ouvert, 
-\0des visiteurs peuvent se
-pointer sur ton île n'importe quand.\0\0(6촀\0Et ça peut même être des gens que
+\0des visiteurs peuvent venir
+sur ton île n'importe quand.\0\0(6촀\0Et ça peut même être des gens que
 tu ne connais pasn\0\0 en fait, ça peut
 être n'importe qui.
 (촀\0Donc si tu joues en bonne compagnie
@@ -485,6 +486,14 @@ si facile !"
 pour lancer le jeu en ligne !"
 "130_a","Okidodoki !"
 "130_b","Laisse tomber."
+"140","(촀\0Alors çan\0\0 
+\0Quelqu'un (촀\0a fermé l'accès
+de l'autre côté."
+"150","(&촀\0Tu veux aller autre part ?
+\0(\0촀\0 Je peux
+faire une autre recherche."
+"150_a","Oui, s'il te plaît."
+"150_b","Je réessaierai plus tard."
 "200","(촀\0Dis-moi tout !
 \0( (&촀\0Qu'est-ce que je peux
 faire pour toi ?"
@@ -497,9 +506,17 @@ faire pour toi ?"
 faire pour toi ?"
 "201_a","Ouvre l'accès, stp."
 "201_b","Désactiver communication."
-"201_c","J'ai oublié mon Dodo Code."
+"201_c","J'ai oublié mon Dodo Code™."
 "201_d","En fait, je veux voyager."
 "201_e","('촀\0Ça ira, merci."
+"202","(촀\0Dis-moi tout !
+\0( (&촀\0Qu'est-ce que je peux
+faire pour toi ?"
+"202_a","Ouvre l'accès, stp."
+"202_b","Désactiver communication."
+"202_c","J'ai oublié mon Dodo Code™."
+"202_d","En fait, je veux voyager."
+"202_e","('촀\0Ça ira, merci."
 "210","(촀\0Dis-moi tout !
 \0( (&촀\0Qu'est-ce que je peux
 faire pour toi ?"
@@ -510,9 +527,16 @@ faire pour toi ?"
 \0( (&촀\0Qu'est-ce que je peux
 faire pour toi ?"
 "211_a","Ferme l'accès, stp."
-"211_b","J'ai oublié mon Dodo Code."
+"211_b","J'ai oublié mon Dodo Code™."
 "211_c","En fait, je veux voyager."
 "211_d","('촀\0Ça ira, merci."
+"212","(촀\0Dis-moi tout !
+\0( (&촀\0Qu'est-ce que je peux
+faire pour toi ?"
+"212_a","Ferme l'accès, stp."
+"212_b","J'ai oublié mon Dodo Code™."
+"212_c","En fait, je veux voyager."
+"212_d","('촀\0Ça ira, merci."
 "220","( 촀\0OK, 
 \0donc tu ne veux pas recevoir
 de la visite, 
@@ -534,7 +558,15 @@ moment,
 \0 Ton code actuel
 est :
 \0(촀\0 « \0n\0\0￿ » !"
-"251",""
+"224","(%촀\0No problemo ! 
+\0Ton code actuel est :
+\0
+(촀\0 « \0n\0\0￿ » !"
+"251_01","(촀\0Okidodoki !
+\0( (\0촀\0Je coupe la
+communication."
+"251_02","(촀\0Nous espérons bientôt te revoir à
+notre guichet !"
 "252","(%촀\0Si tu veux à nouveau accueillir des
 visiteurs,
 \0(\0촀\0 dis-le-moi et 
@@ -553,14 +585,26 @@ provenance d'une autre île !"
 \0(&촀\0 je peux faire quelque chose
 pour toi ?"
 "301_a","Ouvre l'accès, stp."
-"301_b","J'ai oublié mon Dodo Code."
+"301_b","J'ai oublié mon Dodo Code™."
 "301_c","('촀\0Ça ira, merci."
 "302","Et sinon,
 \0(&촀\0 je peux faire quelque chose
 pour toi ?"
 "302_a","Ferme l'accès, stp."
-"302_b","J'ai oublié mon Dodo Code."
+"302_b","J'ai oublié mon Dodo Code™."
 "302_c","('촀\0Ça ira, merci."
+"303","Et sinon,
+\0(&촀\0 je peux faire quelque chose
+pour toi ?"
+"303_a","Ouvre l'accès, stp."
+"303_b","J'ai oublié mon Dodo Code™."
+"303_c","('촀\0Ça ira, merci."
+"304","Et sinon,
+\0(&촀\0 je peux faire quelque chose
+pour toi ?"
+"304_a","Ferme l'accès, stp."
+"304_b","J'ai oublié mon Dodo Code™."
+"304_c","('촀\0Ça ira, merci."
 "305","Et sinon,
 \0(&촀\0 je peux faire quelque chose
 pour toi ?"
@@ -596,7 +640,7 @@ toujours un plaisir de recevoir de
 la visite à n\0 !
 (&촀\0Je peux faire quelque chose
 pour toi ?"
-"700_a","Je veux rentrer."
+"700_a","(\0촀\0Je veux rentrer."
 "700_b","('촀\0Ça ira, merci."
 "701","Okidodoki ! 
 \0(촀\0Viens me voir quand tu

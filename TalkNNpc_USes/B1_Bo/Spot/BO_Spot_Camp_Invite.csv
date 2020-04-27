@@ -6,6 +6,11 @@
 divertida contigo cercan\0\0
 (촀\0Voy a preguntar en la \02\0Ȃ촄oficina de gestión vecinal \0￿si me puedo quedar
 a vivir, n\0n"
+"003","( 촀\0¿En serio me dices?
+\0 (7촀\0Bueno, si
+insistes tanto,
+\0 ¡quedaría feo decirte que no!\0\0(촀\0Voy a preguntar en la \02\0Ȃ촄oficina de gestión vecinal \0￿a ver si puedo
+quedarme a vivir, n\0n"
 "101","<"
 "101_01","( 촀\0¡¿De verdad verdaderísima?!\0\0(촀\0Me gustaría decir que sín\0\0 pero voy
 a decir que non\0\0 ¡Tengo dulces y
@@ -93,25 +98,35 @@ de mis caricaturas favoritasn\0\0
 (%촀\0¡Me voy muy contento!"
 "206","<"
 "206_01","Eso significan\0\0
-\0 (촀\0¡que tú ganas!
-\0
-(;촀\0n\0 era, ¿no?\0\0(%촀\0Iré a casa a empacar todos mis
-dulces, cómics y figuritas de acciónn\0\0\0\0(촀\0¡Cuando nos volvamos a ver, seremos
-vecinos, n\0!"
+\0 (촀\0¡que tú ganas!\0\0(%촀\0Voy a tener que ir a mi casa a buscar
+mis reservas de dulces,
+\0 los cómics,
+
+\0las consolas,
+\0 las figuritas de acciónn\0\0
+(7촀\0Aunque primero tengo que preguntar
+en la \0oficina de gestión\0￿, ¿no?\0\0(촀\0¡Porque no me quiero llevar un
+chasco!"
 "206_02","(촀\0¡Tú ganas!
-\0 (촀\0Me mudo a n!\0⁠.\0\0(7촀\0Tuve nervios de perder en el juego
+\0 (촀\0Me mudo a n\0, n\0⁠.\0\0(7촀\0Tuve nervios de perder en el juego
 porque yo sí quería mudarmen\0\0\0\0(촀\0Hasta hambre me dio.
 \0 En fin, ¡lo que
 importa es que seremos vecinos!
 \0
-(;촀\0Te llamabas n\0, ¿no?"
+(촀\0Ahora ya puedo respirar tranquilon\0\0
+\0
+(촀\0¡Ah, no!
+\0 ¡Tengo que hablar con
+los de la \0oficina de gestión\0￿!\0\0(촀\0Espero que no haya ningún problema
+y me dejen vivir aquí.
+\0
+¡Después te cuento!"
 "206_03","(촀\0¡Tenemos 2""ganadorganadora!
 \0 (촀\0¡Me mudo
-a tu isla!\0\0()촀\0Iré a casa a recoger todas mis cosas,
-\0
-(촀\0¡y cuando regrese seremos vecinos!\0\0Solo quiero confirmar una cosan\0\0
-\0
-(;촀\0Te llamabas n\0, ¿no?"
+a tu isla!\0\0(7촀\0Bueno, aún no sé si me mudo,
+primero tengo que preguntar en
+la \0oficina de gestión vecinal\0￿.
+(촀\0¡Pero seguro que me dicen que sí!"
 "302","(촀\0Perdón por hacerte esperarn\0\0
 \0 Hablé
 con la gente de la \02\0Ȃ촄oficina de gestión vecinal \0￿de la islan\0\0\0\0()촀\0Y me dijeron que no tienen espacio,
@@ -153,51 +168,28 @@ preguntar?"
 "311","(촀\0¿Me dices su nombre?"
 "312","(촀\0No te preocupesn\0\0 ¡Ya será en otro
 momento!"
-"402","(촀\0¡Gracias por esperar!
-\0
-Ya pregunté en la \02\0Ȃ촄oficina de gestión vecinal \0￿si podía mudarmen\0\0
-(촀\0Pero me dijeron que ya hay alguien
-igualito a mí viviendo aquín\0\0 y que
-por eso no puedo mudarme.
-( 촀\0¿Será como en esa peli de ciencia
-ficción que vi el otro día?\0\0(촀\0Había dos conejos iguales que si
-se veían a los ojos causaban un
-colapso ""muelecular"" en el universo.
-(9촀\0Tengo que ver esa peli otra vez para
-saber si encontraron una soluciónn\0\0\0\0(%촀\0¡Y así poder ser vecinos!"
-"403","(촀\0¡Listo!
-\0 Pregunté en la \02\0Ȃ촄oficina de gestión vecinal \0￿yn\0\0
-\0 (촀\0hay alguien igual
-que yo que se va a mudar a la isla.
-(
-촀\0Si tan iguales somosn\0\0 (촀\0¡a lo mejor
-podría hacerme pasar por él y
-mudarme yo!
-(9촀\0Bueno, mejor non\0\0 porque me
-pondría muy nervioso y me
-descubrirían.
-()촀\0Es que siempre que me pongo
-nervioso digo mi ""mueletilla"" sin
-parar, n\0.
-\0 ¿Viste?"
+"313","(촀\0¡Yupi!
+\0 Pues podría hablar con 2촀ununa\0
+tal s촀n\0\0\0\0(4촀\0Los de la \0oficina de gestión\0￿ dijeron
+que estaba pensando en mudarse.
+(&촀\0¿Voy a su casa y le pregunto?"
+"313_a","¡Sí, hazlo!"
+"313_b","Mejor no"
+"314","( 촀\0Ah, pero yo creía quen\0\0
+\0 (촀\0Bueno,
+mejor me olvido del tema entonces, n\0."
 "404","(촀\0Ya pregunté en la \02\0Ȃ촄oficina de gestión vecinal\0￿n\0\0
 \0 (촀\0pero dicen que la isla ya no
 tiene espacio para nadie más.\0\0(촀\0Tan emocionado que estaban\0\0 
 \0 (%촀\0Cuando sople mis velas de cumple
 pediré que seamos vecinosn"
-"405","Pregunté en la \02\0Ȃ촄oficina de gestión vecinal \0￿yn\0\0
-\0 (촀\0me dijeron que no tienen
-espacio para poner más casas.\0\0(촀\0Esto me pone más triste que ayer
-que me quedé sin leche para el
-cerealn\0\0
-(촀\0Pero no pasa nada.
-\0 Si mi suerte no
-se pone peor, a lo mejor seremos
-vecinos un día, n\0."
-"406","(촀\0Hablé con los de la \02\0Ȃ촄oficina de gestión vecinal \0￿yn\0\0 yn\0\0
+"406","(촀\0Hablé con los de la \02\0Ȃ촄oficina de gestión vecinal \0￿yn\0\0
+\0 yn\0\0
 \0 (촀\0¡me dijeron que puedo mudarme!\0\0(촀\0¡A partir de mañana vamos a ser
-vecinos, n\0!
-\0 ¡Y la vamos a pasar genial!"
+vecinos, n\0!\0\0(촀\0Y, por si no lo sabes ya, yo me llamo
+n
+\0.
+\0(촀\0 ¡Y la vamos a pasar genial, n\0!"
 "410","(
 촀\0¿Crees que debería preguntar
 otra vez?
@@ -209,29 +201,12 @@ que ya puedo mudarmen"
 \0 es demasiado pronton\0\0
 \0 (촀\0¡Ya lo intentaremos después,
 n\0!"
-"421","(
-촀\0Esto parece sacado de una peli
-de ciencia ficciónn\0\0\0\0(촀\0Qué mal que no pueda mudarme
-aquí,
-\0 (촀\0¡pero gracias por invitarme! "
-"422","(
-촀\0No puedo creer que haya alguien tan
-parecido a mí, n\0n\0\0 ¡Y que
-quiera mudarse a la misma isla!
-(%촀\0Por eso no podré mudarme a la isla
-ahoran\0\0 
-\0Pero gracias por invitarme."
 "423","(촀\0Con tanta gente viviendo aquí,
 seguro que esta isla es muy
 divertida, n\0.
 (\0촀\0Qué mal que no pueda mudarme,
 \0
 ($촀\0¡pero tu invitación me puso feliz!"
-"424","(촀\0Con tantos aquí, ya no hay
-espacio para mí.\0\0($촀\0Por ahora nos despedimos,
-\0
-¡pero tal vez algún día seremos
-vecinos!"
 "504","(촀\0Tu isla es bonita, huele bien y tiene
 cosas muy ricasn\0\0 (촀\0¡Podría quedarme 
 aquí para siempre!"

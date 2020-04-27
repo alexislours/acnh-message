@@ -19,8 +19,7 @@ quête de la créature de mes rêves.
 (촀\0À dessein purement artistique !
 (1촀\0Je veux capturer l'essence de leurs
 pattes rampantes et de leurs
-antennes frétillantes !\0\0
-\0((촀\0Nous avons une chance inestimable
+antennes frétillantes !\0\0(촀\0Nous avons une chance inestimable
 qu'ils nous laissent vivre dans leur
 monden"
 "002","( 촀\0Oh ! 
@@ -158,17 +157,12 @@ autre île. 
 \0((촀\0Auras-tu un insecte pour
 moi d'ici là ?"
 "024","(촀\02\02\0}\0\0 !
-\0
-De battre mon cœur s'est arrêté ! (촀\0
-\0
-Quellen\0\0
-\0 Quelle splendeur 
-!
-\0(
-\0Calme-toi, Djason !\0\0(6촀\0\0￿2\02\0}\0\0n\0\0
-\0 Est-ce que tu pourrais me 2촀lela\0 vendre, pour, mettons, Z ?"
+\0 Mon cœur n'en croit pas ses ventricules ! (촀\0
+\0Quelle splendeur !
+\0(\0\0\0Calme-toi, Djason !\0\0(6촀\0\0￿2\02\0}\0\0n\0\0
+\0 Est-ce que tu pourrais me 2촀lela\0 vendre, pour, mettons, Z ?"
 "024_a","Affaire conclue !"
-"024_b","En y repensant..."
+"024_b","(\0촀\0En y repensant..."
 "025","(!촀\0Mais tu en as tout un essaim ?! 
 \0
 C'est le plus beau jour de ma vie ! 
@@ -177,7 +171,7 @@ C'est le plus beau jour de ma vie ! 
 Bon. 
 \0(3촀\0Z le tout, qu'en dis-tu ?"
 "025_a","J'en dis que c'est vendu !"
-"025_b","En y réfléchissant..."
+"025_b","(\0촀\0En y réfléchissant..."
 "027","(촀\0Vrai... Vraiment ?
 \0(촀\0 Merci mille fois !"
 "028","(촀\0Si tu en attrapes encore, dis-le-moi !"
@@ -281,8 +275,7 @@ ton île.\0\0(2촀\0Auras-tu la gentillesse de me
 présenter aux insectes qui y 
 ont élu domicile ?"
 "100","(&촀\0C'est au sujet de ta commande
-d'une œuvre inspirée par 2\0}\0 ?
-(1촀\0Son image exacte est gravée dans
+d'une œuvre inspirée par 2\0}\0 ?\0\0(1촀\0Son image exacte est gravée dans
 ma mémoire !\0\0Je dois l'immortaliser avant que la
 flamme s'éteigne !\0\0(;촀\0Quand ma muse par mon art sera
 enfin apaisée,
@@ -342,7 +335,7 @@ enfin commencer. 
 \0(
 (&촀\0Saurais-tu t'en séparer de \0Z\0\0￿ ?
 \0
-2ȑ촀Ils
+2Ȓ촀Ils
 Elles\0 seront bien avec moi."
 "107_a","Oui !"
 "107_b","('촀\0Ah non alors !"
@@ -387,12 +380,12 @@ Scarabée\0￿ » !"
 prêtes à vous couper la jugulaire !
 
 \0(*촀\0Ces yeux rouges qui vous pénètrent !
-(#촀\0Mon chef-d'œuvre, le « \0Roi Lucane \0￿», 
+(#촀\0Mon chef-d'œuvre, le « \0Roi Lucane \0￿»,
 te donnera littéralement le grand
 frisson !"
 "152","(촀\0(촀\0Alors tu veux une sculpture
 2
-de d'\0}\0\0￿?
+de d'\0}\0 \0￿?
 \0( Cet ange qui virevolte parmi nous ?\0\0(촀\0Ces glorieuses créatures sont comme
 des lunettes nous permettant
 d'entrevoir la pureté de leur monde.

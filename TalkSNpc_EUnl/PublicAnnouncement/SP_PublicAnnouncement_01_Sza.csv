@@ -8,7 +8,7 @@ van stapel loopt, put je jezelf uit.\0\0(%촀\0Zorg er dus voor dat je zo nu
 een pauze neemt.
 \0 (""촀\0Het is belangrijk
 om je rust te pakken!"
-"001","()촀\0Het is n\0 Z\0 Z\0 Z\0, Z!\0, hier op n\0.(촀"
+"001","()촀\0Het is n\0 Z\0 Z\0 Z\0, Z!\0 uur, hier op n\0.(촀"
 "001_01","(촀\0Goedemorgen, allemaal!"
 "001_02","(촀\0Hallo, allemaal!"
 "001_03","(촀\0Goedenavond, allemaal!"
@@ -111,6 +111,24 @@ zo het nieuwe jaar in te luiden!
 als je kunt naar het plein.(""촀\0 Ik zie jullie
 daar!
 Ò"
+"008_01_01","(촀\0En vergeet het niet! 
+\0(촀\0\0Konijnendag\0￿
+\0
+komt er weer aan gehuppeld!(\0촀\0\0\0Dat zal wel betekenen dat het weer
+binnenkort kan omslaan.\0\0(1촀\0Zijn we net gewend aan het ene
+seizoen, 
+\0($촀\0is het andere seizoen
+alweer in aantocht!"
+"008_01_02","(촀\0Ik hoop dat jullie er zin in hebbenn\0\0
+\0(촀\0
+want vandaag is het \0Konijnendag\0￿!
+\0(
+Het plein trekt veel bekijks.\0\0(&촀\0Misschien hebben we wel een
+speciale gast?
+\0 (3촀\0Hint, hint.\0\0(\0촀\0Er is vandaag sowieso (촀\0een boel
+leuks te doen! 
+\0(%촀\0Dus zorg dat je
+even langsgaat op het plein!"
 "010","(촂\0Hallo, allemaal.
 \0 Sorry voor deze
 plotselinge uitzending, maar ik dacht
@@ -135,9 +153,9 @@ bewoners niet te feliciteren! Wat
 leuk dat er zoveel jarigen zijn!"
 "013_01","(촀\0Gefeliciteerd!"
 "013_02","(촀\0Gefeliciteerd!"
-"021","En dan nu de mededelingen van
-vandaagn"
-"022","En dan nog wat mededelingenn"
+"021","En dan nu het nieuws van vandaagn"
+"022","En dan gaan we nu verder met het
+nieuws van vandaagn"
 "031","En!"
 "101","(촀\0We hebben een nieuwe bewoner!
 Laten we s촀 van harte welkom heten!"
@@ -170,7 +188,7 @@ onze gast te weten wilt komen!"
 \0staat ons
 vanavond iets superspeciaals te
 wachten:
-\0 \0vallende sterren\0￿!\0\0(1촀\02\0n\0 verlicht door een gloeiende hemel vol vallende sterrenn\0\0
+\0 \0vallende sterren\0￿!\0\0(1촀\0n\0 verlicht door een gloeiende hemel vol vallende sterrenn\0\0
 \0 (촀\0Dat wordt magisch!\0\0(촀\0Als jullie vanavond tijd hebben, kom
 dan even naar buiten 
 \0en kijk
@@ -204,7 +222,7 @@ ze alleen in de zomer aan."
 "611_02_01","Als je er zelf een paar zoekt, (촀\0heb je
 een perfect excuus om fijne zomer-
 creaties in elkaar te knutselen!"
-"611_02_02","(촀\0Ik heb iedereen met de\0 doe-het-zelf\0￿-
+"611_02_02","(촀\0Ik heb iedereen met de\0 Doe-het-zelf\0￿-
 app een plan voor een \0schelpenkrans
 \0￿gestuurd. 
 \0(%촀\0Maak hem eens!"
@@ -232,7 +250,7 @@ wakker te schudden!"
 \0 voor een
 \0herfstfeestboompje
 \0 \0￿naar iedereen
-met de \0doe-het-zelf\0￿-app gestuurd!
+met de \0Doe-het-zelf\0￿-app gestuurd!
 (%촀\0Ik kijk ernaar uit om jullie bomen te
 zien!"
 "612_03","(촀\0Ik zou het zó leuk vinden als ik wat
@@ -245,7 +263,7 @@ niet dat je ze ook in sommige
 doe-het-zelfplannen kunt gebruiken."
 "613_02_01","( 촀\0
 \0Nu ik het daar toch over heb!"
-"613_02_02","(촀\0Iedereen met de \0doe-het-zelf\0￿-app
+"613_02_02","(촀\0Iedereen met de \0Doe-het-zelf\0￿-app
 heeft als het goed is een plan voor
 een \0paddenstoelenkrans \0￿ontvangen.
 (\0촀\0Geen herfst is compleet zonder te
@@ -273,7 +291,7 @@ lucht met een \0net\0￿ om ze in al hun
 glorie van dichtbij te zien."
 "614_02_01","( 촀\0
 \0O ja!"
-"614_02_02","(촀\0Iedereen met de \0doe-het-zelf\0￿-app
+"614_02_02","(촀\0Iedereen met de \0Doe-het-zelf\0￿-app
 \0
 heeft een plan voor een
 \0sneeuwvlokkenkrans\0￿ ontvangen.\0\0Dus als je net als ik graag
@@ -312,7 +330,7 @@ kleurrijke tijd van het jaar,
 winter komt!"
 "616_02_01","( 촀\0
 \0Ah!"
-"616_02_02","(촀\0Degenen met de \0doe-het-zelf\0￿-app
+"616_02_02","(촀\0Degenen met de \0Doe-het-zelf\0￿-app
 zullen een nieuw plan voor een \0hoop
 rode bladeren\0￿ zien. 
 \0Graag gedaan!"
@@ -352,7 +370,7 @@ lentebamboe\0￿ te oogsten?"
 \0Dat herinnert me eraann"
 "618_02_02","(%촀\0\0Jonge lentebamboe \0￿is nodig om een
 \0noedelwaterglijbaan \0￿te maken. Het
-plan vind je in je \0doe-het-zelf\0￿-app.\0\0(3촀\0Het is een exclusief project, dus
+plan vind je in je \0Doe-het-zelf\0￿-app.\0\0(3촀\0Het is een exclusief project, dus
 sommige van de materialen zijn
 alleen in deze periode beschikbaar."
 "618_03","( 촀\0Nu ik eraan denkn\0\0
@@ -670,7 +688,7 @@ kletsenn\0\0
 "
 "825","(촀\0O, ja! 
 \0(&촀\0Heeft iemand dat kook-
-programma gisteren ook gezien?\0\0(촀\02촀DeHetDe gekruide 촀 2촀diedatdie ze daarin maakten, 2 촀zag
+programma gisteren ook gezien?\0\0(촀\02촀DeHetDe gekruide 촀 2촀diedatdie ze daarin maakten, 2 촀zag
 zagenzag er heerlijk uit!\0\0(촀\0Ik zit eraan te denken om zoiets
 vanavond ook te gaan maken.
 \0
@@ -720,8 +738,8 @@ me totaal ontschoten!\0\0(촀\0Ik hoop dat hij al wakker isn"
 \0
 (촀\0een geweldig leuke dag heeft!"
 "901_02","Dat was het voor vandaagn\0\0
-\0 (촀\0Veel
-plezier vandaag!"
+\0 (촀\0Maak er
+een mooie dag van, allemaal!"
 "901_03","(촀\0Zo, en nu ga ik weer terug aan het
 werk om jullie te ondersteunen bij
 het genot van dit prachtige eiland."

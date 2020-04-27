@@ -19,6 +19,18 @@ jedenfalls schon ganz wie zu Hause!
 dann zeig ich denen mal, 
 \0wie man
 Nägel mit Köpfen macht!"
+"003","(6촀\0Also eins muss man dir lassen:
+\0
+Hartnäckig bist du! 
+\0(\0촀\0Na gut, 
+\0dann
+lass ich mich halt breitschlagen.
+(촀\0Ich ziehe zur dir auf die Insel.
+
+\0(촀\0Aber nur, 
+\0wenn das \0Servicecenter\0￿
+grünes Licht gibt,
+\0 n\0."
 "101","<"
 "101_01","(촀\0Im Ernst, 
 \02 KleinerKleines?
@@ -183,56 +195,36 @@ der Normalzustand, 
 \0((\0촀\0
 Spielschulden sind Ehrenschulden,
 \0(촀\0
-also zieh ich um!\0\0(7촀\0Wo wir einmal dabei sind, 
-\0können wir
-auch gleich das Vorstellungsgedöns
-mit abhaken, 
-\0oder?
-(""촀\02\0n
-\0 ist mein werter Name!
-\0(\0촀\0 Deiner ist n\0,
-\0 wie der Buschfunk berichtet!\0\0(촀\0Kann's kaum erwarten, 
-\0paar Jährchen
-in friedloser Nachbarschaft mit dir zu
-verbringenn\0\0
-\0 (촀\0Gra ha ha ha ha!"
+also zieh ich um!\0\0(촀\0n\0\0Obwohl, 
+\0das zu sagen ist vielleicht
+etwas voreilig, 
+\0n\0.\0\0(%촀\0Erst mal beim \0Servicecenter
+\0￿anfragen, 
+\0(촀\0ob mein Typ hier
+überhaupt gefragt istn"
 "206_02","('촀\0Hmpf, 
 \0da fehlt sogar mir 'ne Ausrede!
 \0
 Aber irgendwie hat's trotzdem Spaß
 gemacht,
 \0(""촀\0 warum auch immern\0\0
-(촀\0Son\0\0
-\0(촀\0 Zeit, den Umzug anzuleiern...
-\0
-(촀\0Hah!
-\0 Dabei haben wir uns nicht mal
-nach Strich und Faden vorgestellt!
-Mich nennen alle n
-\0.
-\0 Und du bistn\0\0 n\0, 
-\0korrekt?
-\0 Korrekt, 
-\0n\0!\0\0(촀\0Dann lass uns mal halbwegs gute
-Freunde sein, 
-\0n\0!"
+(%촀\0Son\0\0
+\0 Zeit, den Umzug anzuleiern,
+\0
+n\0.\0\0(촀\0Das \0Servicecenter \0￿könnte uns da
+ja noch einen Strich durch die
+Rechnung machen."
 "206_03","Graaah!
 \0('촀\0 Ist Jahrzehnte her,
 \0 dass
 ich mir so 'ne Abreibung abholen
 musste.
 \0(촀\0 Gut hingekriegt,
-\0 2 KleinerKleines!\0\0So, 
-\0genug der Demut, 
-\0jetzt wird sich
-erst mal ordnungsgemäß vorgestellt!\0\0(""촀\0Ich bin der n
-\0 und du musst 2derdie n\0 sein, 
-\0wenn mich nicht alles trügt!\0\0(촀\0Gar nicht übel, 
-\0dass ich jetzt hier auf
-die Insel ziehen\0\0
-\0 ($촀\0Famos würd ich's
-aber auch nicht nennen,
-\0(촀\0 gra ha ha!"
+\0 2 KleinerKleines!\0\0(%촀\0So, 
+\0dann hat jetzt wohl das
+\0Servicecenter\0￿ das letzte Wort, 
+\0ob's
+mit dem Umzug wirklich hinhaut."
 "302","(촀\0Schlechte Neuigkeiten, 
 \02 KleinerKleinesn\0\0
 \0
@@ -331,35 +323,23 @@ auf die Pelle rücken, 
 \0dann frag ich dich einfach
 mal wann anders,
 \0 n\0."
-"402","(촀\0Du musst jetzt stark sein,
-\0 2 KleinerKleines!
+"313","(촀\0Sag bloß!\0\0()촀\0Das ist aber nicht zufällig 2 촀dieser
+diese\0
+s촀, 
+\0von 2촀demder\0 im \0Servicecenter \0￿schon die Rede war?\0\0(\0촀\0Dann werd ich 2촀ihnsie\0 direkt mal
+überfallen und 2촀ihmihr\0 ($촀\0die Pistole auf
+die Brust setzen, 
+\0n\0.\0\0(촀\0Natürlich nur im übertragenen Sinne,
+
+\0gra ha ha!"
+"313_a","Tu das!"
+"313_b","Lieber nicht..."
+"314","Verstehe. 
+\0(촀\0Dann zieh ich wohl mal
+wieder wie üblich den Kürzeren.
 \0
-Ich bin nämlich zum \0Servicecenter\0￿
-und da haben die mir weisgemachtn\0\0
-('촀\0Meinen Umzug kann ich vergessen,
-\0
-weil's hier schon so eine Tröte wie
-mich gibt, 
-\0n\0!
-(촀\0Zwei von meiner Sorte sorgen wohl
-für Verwirrungn\0\0
-\0 (
-촀\0was ich irgendwie
-auch schon recht verwirrend finde!"
-"403","(촀\0Du musst jetzt stark sein,
-\0 2 KleinerKleines!
-\0
-Ich bin nämlich zum \0Servicecenter\0￿
-und da haben die mir weisgemachtn\0\0
-('촀\0Meinen Umzug kann ich vergessen,
-\0
-weil 'n angeblicher Zwilling von mir
-schon 'ne Einladung gekriegt hat!
-(촀\0Dass ich 'nen unbekannten Zwilling
-haben soll,
-\0 klingt ja noch plausibeln\0\0
-\0
-(&촀\0Aber das mit der Einladung?!?"
+Nun ja,
+\0 vielleicht ein andermal."
 "404","(촀\0Du musst jetzt stark sein,
 \0 2 KleinerKleines!
 \0
@@ -378,21 +358,6 @@ sobald ich mich hier niederlasse.
 \0 wüsst ich ein paar bessere
 Kandidaten als die hier,
 \0(촀\0 gra ha ha!"
-"405","(촀\0Schlechte Neuigkeiten, 
-\02 KleinerKleinesn\0\0
-\0
-Hab mich im \0Servicecenter\0￿ wegen
-meinem Umzug erkundigtn\0\0
-(\0촀\0Undn\0\0
-\0('촀\0 keine Chance.
-
-\0Angeblich habt ihr nicht genug
-Platz für neue Hütten, 
-\0n\0!\0\0(촀\0Pfff,
-\0 ich zieh bestimmt nicht wieder
-an den Strand!
-\0(촀\0 Ständig hat man den
-ganzen Sand in der Kauleiste!"
 "406","(촀\0Gibt 'n paar Neuigkeiten,
 \0 2 KleinerKleinesn\0\0
 \0
@@ -428,32 +393,6 @@ war ich einfach nicht grantig genug!"
 von dir!
 \0(촀\0 Außerdem liegt mir so 'ne
 Grantigkeit auch gar nicht im Blutn"
-"421","(
-촀\0Verflixt und zugenähtn\0\0
-\0 Kann gar
-nicht glauben, 
-\0dass es mich doppelt-
-gemoppelt geben soll, 
-\0n\0.
-Einer Sache bin ich mir aber sicher!
-\0
-Ich bin auf jeden Fall das schmuckere
-Exemplar von uns beiden, 
-\0(촀\0gra ha ha! \0\0(\0촀\0Und dass ich nicht herziehen darf,
-\0 (촀\0ist
-echt 'ne Schande.
-\0 Aber besser,
-\0 als
-gar nicht erst eingeladen zu werden!"
-"422","(촀\0Hätte nie gedacht, 
-\0dass mir mal wer
-anders den Platz im Rampenlicht
-streitig macht, 
-\0n\0!
-(촀\0Zum Glück war's einer mit derselben
-Visagen\0\0
-\0 (\0촀\0Und ich kann's später doch
-auch noch einmal probieren!"
 "423","(%촀\0Deine Insel scheint gefragt zu sein,
 \0
 2 KleinerKleines! 
@@ -464,14 +403,6 @@ keinen Platz mehr für mich gibt...\0\0(촀\0Na ja, 
 Gentleman wenigstens eingeladenn\0\0
 \0
 Jetzt aber erst mal adieu mit tschö!"
-"424","(
-촀\0Kein Platz mehr für neue Hüttenn\0\0
-\0
-Wo gibt's denn so was?\0\0(촀\0Bei euch scheint wirklich der Bär zu
-steppen,
-\0(촀\0 darum wenigstens danke
-fürs Einladen, 
-\02 KleinerKleines!"
 "504","(촀\0Als ich hier ankam, 
 \0hab ich mich wie
 ein alter Besserwisser gefühlt. 

@@ -30,8 +30,8 @@ te veel signalen!\0\0Het hele systeem raakt overstuur als
 het te veel tegelijk moet doenn\0\0 Net
 als Sonny met koffie op.\0\0Als het een noodgeval is,
 \0 open dan
-het menu met \0 \0￿en kies \0Ja, ik ben
-klaar\0￿, gesnopen?d"
+het menu met \0 \0￿en kies \0JA, IK BEN
+KLAAR\0￿, gesnopen?d"
 "012_02","d\0Ik geloof dat ik het probleem al in de
 smiezen heb.
 \0 Ben je de toerist aan
@@ -41,10 +41,10 @@ het graag simpel houd.
 \0 Te veel
 signalen overaln\0\0 da's niet simpel.\0\0Als je echt hulp nodig hebt,
 \0 open dan
-het menu met \0\0￿ en kies \0Terug naar
-mijn eiland\0￿,
+het menu met \0\0￿ en kies \0TERUG
+NAAR MIJN EILAND\0￿,
 \0 snappie?d"
-"013","d\0Ho eens even, wat maak je me nou.
+"013","d\0Ho eens even, wat maak je me nou?
 \0
 Jij bent in een gebouw,
 \0 of niet? \0\0Zo werkt dit dus niet, hè, makker.
@@ -54,7 +54,7 @@ te werk.\0\0Is toch niet zo gek? 
 \0Ik kom je niet
 halen als ik dwars door de fundering
 moet. 
-\0Stel je voor wat een rotzooi!\0\0Dus eh, 
+\0Stel je voor wat een rotzooi!\0\0Dus, eh, 
 \0als je mijn hulp nodig hebt,
 \0
 dan moet ik je toch echt vragen 
@@ -239,12 +239,12 @@ klingel.d"
 \0Prima, maatje.d"
 "051","<"
 "051_01","d\0Eens zien, hoe werkt dit ook weern\0\0?
-              \0\0KHoort dat draadje los te zittenn\0\0\0d\0￿d"
+\0\0KHoort dat draadje los te zittenn\0\0\0d\0￿d"
 "051_02","d\0Alles onder controle, Donn\0\0
-　\0\0KGewoon een knop kiezen. 
+\0\0KGewoon een knop kiezen. 
 \0Hopelijk mol ik niks.\0d\0￿d"
 "051_03","d\0Je kunt het, Resettin\0\0
-　　　　 \0\0KKunnen die lettertjes niet wat groter?\0d\0￿d"
+\0\0KKunnen die lettertjes niet wat groter?\0d\0￿d"
 "052","d\0Zo, alles is er klaar voor. 
 \0Dit gaat
 helemaal zeker weten hartstikke
@@ -314,7 +314,7 @@ het zit,
 \0( om de een of andere reden
 blijven ze het maar zeggenn\0\0d"
 "064_03","d\0Je gebruikt toch wel elke dag het
-\0NookStation\0￿ in de servicebalie voor
+\0Nookstation\0￿ in de servicebalie voor
 de miles, hè?
 \0( Makkelijk verdiend.d"
 "2001","d\0Pardon?

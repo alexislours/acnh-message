@@ -8,7 +8,7 @@ lijkt als ik bij je op bezoek kom,
 "002","(촀\0Hé, n\0, vind je het cool 
 \0(&촀\0als ik bij jou op bezoek kom?"
 "002_a","Ja, hoor."
-"002_b","Een andere keer."
+"002_b","(\0촀\0Een andere keer."
 "003","(1촀\0Ik zou het best leuk vinden om, zeg
 maar, even bij te kletsen? (촀\0Hé! Zullen
 we anders even naar jou toe gaan?"
@@ -145,7 +145,7 @@ extra lastig om 
 \0n\0? 
 \0(9촀\0Ik wil zien hoe jij de boel geïnterieurd hebt!"
 "402_a","Prima!"
-"402_b","Een andere keer."
+"402_b","(\0촀\0Een andere keer."
 "403","(촀\0Snap ik. 
 \0Ik laat ook bijna nooit
 anderen onverwacht langskomen.\0\0(%촀\0Geen probleem, ik kom wel een

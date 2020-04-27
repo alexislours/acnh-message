@@ -6,11 +6,9 @@
 T'es là, n\0?
 P"
 "002","Salut, n\0!
-\0 C'est moi,
-n
+\0 C'est moi, n
 \0! 
-\0J'viens envahir
-ta maison pour relaxer avec toi!
+\0J'viens envahir ta maison pour relaxer avec toi!
 x"
 "003","Hé, n
 \0 est là!
@@ -83,19 +81,17 @@ brin d'surprise, ça fait pas d'mal!"
 "210","()촀\0J'sais bien qu'c'est mal élevé de
 pointer chez les gens sans prévenirn\0\0\0\0(촀\0Mais ça valait l'coup, rien qu'pour
 voir ta tête quand j'ai débarqué!"
-"211","($촀\0Dis, n\0, ça t'branche
-de faire un p'tit jeu?"
+"211","($촀\0Dis, n\0, ça t'branche de faire un p'tit jeu?"
 "211_a","Ah oui!"
-"211_b","Bof, bof."
+"211_b","(\0촀\0Bof, bof."
 "212","(촀\0Hé, n\0! 
-\0(촀\0J'te défie
-officiellement à un p'tit jeu!"
+\0(촀\0J'te défie officiellement à un p'tit jeu!"
 "212_a","J'relève le défi!"
 "212_b","J'refuse officiellement."
 "213","($촀\0Motivé2\0e pour un p'tit jeu,
 n\0?"
-"213_a","Bonne idée!"
-"213_b","J'passe mon tour."
+"213_a","(\0촀\0Bonne idée!"
+"213_b","(\0촀\0J'passe mon tour."
 "214","( 촀\0Tu veux pas?
 \0 (7촀\0Bah en fait, moi
 non plus. 2\0n\0."

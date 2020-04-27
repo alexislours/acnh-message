@@ -229,22 +229,23 @@ hemisferio?
 deshabitada en el hemisferio
 sur (%촀\0para ti."
 "301","¡Por supuesto!
-\0 Permíteme
-que te lo expliquen"
-"302","()촀\0En el hemisferio norte, invierno
-es en enero, primavera en abril,
-verano en julio y otoño en octubre.
-(%촀\0En las islas del hemisferio sur
-es justo al revés.\0\0(촀\0Verano es en enero, otoño en abril,
-invierno en julio y primavera en
-octubre."
-"303","()촀\0En el hemisferio sur, verano es
-en enero, otoño en abril, invierno
-en julio y primavera en octubre.
-(%촀\0En las islas del hemisferio norte
-es justo al revés.\0\0(촀\0Invierno es en enero, primavera
-en abril, verano en julio y otoño
-en octubre."
+\0 Permíteme que te
+explique lo de los hemisferiosn"
+"302","()촀\0En el norte, es invierno en diciembre,
+primavera en marzo, verano en junio
+y otoño en septiembre.
+(%촀\0En las islas del hemisferio sur,
+es justo al revés.\0\0(촀\0Es verano en diciembre, otoño en
+marzo, invierno en junio y primavera
+en septiembre."
+"303","()촀\0En el sur, es verano en diciembre,
+otoño en marzo, invierno en junio
+y primavera en septiembre.
+(%촀\0En las islas del hemisferio norte,
+\0
+es justo al revés.\0\0(촀\0Es invierno en diciembre, primavera
+en marzo, verano en junio y otoño
+en septiembre."
 "304_01","(%촀\0Ahora estamos en Z\0,
 por lo tanto en el hemisferio norte
 es primavera y en el sur, otoño."

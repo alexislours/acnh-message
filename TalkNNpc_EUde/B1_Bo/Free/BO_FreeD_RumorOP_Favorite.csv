@@ -12,7 +12,8 @@
 \0dass s\0촀 am liebsten 촀 werden würde?"
 "001_03_a","Sieht so aus."
 "001_03_b","(\0촀\0Das ist mir neu."
-"001_04","Wusstest du, dass das liebste Hobby von s\0촀 촀 ist?"
+"001_04","(촀\0Wusstest du, 
+\0dass das liebste Hobby von s\0촀 촀 ist?"
 "001_04_a","Sieht so aus."
 "001_04_b","(\0촀\0Das ist mir neu."
 "001_05","(촀\0Wusstest du, 
@@ -26,28 +27,27 @@
 촀“!"
 "001_101_a","Hab ich auch gehört."
 "001_101_b","(\0촀\0Echt?!"
-"001_102","Nach seinem 촀 gefragt sagte s\0촀: 
+"001_102","(촀\0Nach seinem 촀 gefragt sagte s\0촀: 
 \0„⁠2\0
 촀“⁠!"
 "001_102_a","Hab ich auch gehört."
 "001_102_b","(\0촀\0Echt?!"
-"001_103","Weißt du, was s\0촀 als Traumberuf nennt? 
+"001_103","(촀\0Weißt du, 
+\0was s\0촀 als Traumberuf nennt? 
 \0„⁠2\0
 촀⁠“!"
 "001_103_a","Hab ich auch gehört."
 "001_103_b","(\0촀\0Echt?!"
-"001_104","Kennst du das Lieblingshobby von
+"001_104","(촀\0Kennst du das Lieblingshobby von
 s\0촀? 
-\0Laut 2
-촀ihmihr\0 selber 
+\0Laut 2촀ihmihr\0 selber 
 \0 ist es „⁠
 촀⁠“!"
 "001_104_a","Hab ich auch gehört."
 "001_104_b","(\0촀\0Echt?!"
 "001_105","(촀\0Weißt du, 
 \0was s\0촀 besonders gut kann? 
-\0Laut 2
-촀ihmihr\0 ist es „⁠
+\0Laut 2촀ihmihr\0 ist es „⁠
 촀⁠“!"
 "001_105_a","Hab ich auch gehört."
 "001_105_b","(\0촀\0Echt?!"
@@ -115,8 +115,7 @@ was Besonderes, 
 \0( (촀\0Weil auf dieser Insel alle gute Freunde sind!
 \0(촀"
 "021","Das hab ich von s\0촀 höchstpersönlich erfahren.
-\0 ((촀\0Stimmt also hundertprozentig!\0\0(%촀\0Ich hab extra gaaanz viel mit 2
-촀ihmihr\0
+\0 ((촀\0Stimmt also hundertprozentig!\0\0(%촀\0Ich hab extra gaaanz viel mit 2촀ihmihr\0
 gequasselt. 
 \0(""촀\0Jetzt sind wir gaaanz
 dicke Freunde, 
@@ -143,8 +142,7 @@ hab, 
 "050_03_a","Klar!"
 "050_03_b","Weiß ich nicht."
 "050_04","Weißt du, 
-\0(&촀\0womit s\0촀 sich in 2 
-촀seiner
+\0(&촀\0womit s\0촀 sich in 2 촀seiner
 ihrer\0 Freizeit am liebsten beschäftigt, 
 \0n\0?"
 "050_04_a","Natürlich!"
@@ -186,8 +184,7 @@ du könntest das wissen.\0\0(\0촀\02\0s\0촀 mag sicher am liebsten Bil
 \0ich bin sicher, 
 \0da ähneln wir uns.
 \0
-($촀\0Ich sollte 2
-촀ihnsie\0 bei Gelegenheit mal
+($촀\0Ich sollte 2촀ihnsie\0 bei Gelegenheit mal
 fragen, 
 \0n\0."
 "060_03","( 촀\0Och, 
@@ -196,8 +193,7 @@ fragen, 
 \0
 du kannst mir das sagenn\0\0\0\0(
 촀\0Was für Comics würden zu s\0촀 passen?
-\0 (8촀\0Sicher ganz tolle und spannende!\0\0(\0촀\0Ich muss 2
-촀ihnsie\0 demnächst (""촀\0unbedingt mal danach fragen, 
+\0 (8촀\0Sicher ganz tolle und spannende!\0\0(\0촀\0Ich muss 2촀ihnsie\0 demnächst (""촀\0unbedingt mal danach fragen, 
 \0n\0!"
 "060_04","( 촀\0Oh,
 \0 du weißt das also auch nichtn\0\0\0\0(\0촀\0Ich persönlich glaub ja,
@@ -227,8 +223,7 @@ fragen, 
 das vielleicht wissenn\0\0\0\0(
 촀\0Ich kann mir echt nicht vorstellen,
 \0
-was für einen Sport s\0촀 so mag.\0\0(\0촀\0Wenn ich 2
-촀ihnsie\0 das nächste Mal sehe,
+was für einen Sport s\0촀 so mag.\0\0(\0촀\0Wenn ich 2촀ihnsie\0 das nächste Mal sehe,
 
 \0sollte ich ($촀\0einfach mal fragen, 
 \0n\0!"
@@ -240,14 +235,12 @@ was für einen Sport s\0촀 so mag.\0\0(\0촀\0Wenn ich 2
 \0dachte ich mir.\0\0(\0촀\0Vielleicht lerne ich ja was ganz Neues kennen, 
 \0was unheimlich
 lecker ist?!
-\0 ($촀\0Ich muss 2
-촀ihnsie\0 mal fragen!"
+\0 ($촀\0Ich muss 2촀ihnsie\0 mal fragen!"
 "060_08","( 촀\0Och, 
 \0mennon\0\0
 \0( Ich dachte, 
 \0du würdest
-das vielleicht wissen.\0\0()촀\0Bei Fressalien liegen ich und s\0촀 auf einer Wellenlänge.\0\0(7촀\0Deshalb wollt ich sooo gern 2
-촀
+das vielleicht wissen.\0\0()촀\0Bei Fressalien liegen ich und s\0촀 auf einer Wellenlänge.\0\0(7촀\0Deshalb wollt ich sooo gern 2촀
 seineihre\0
 Leibspeise rausfinden.\0\0(촀\0Ich muss wohl einfach mal meinen
 Futtermut zusammennehmen 
@@ -269,11 +262,9 @@ drüber nachzudenken, 
 \0( Ich hätte jetzt gedacht,
 \0
 du wärst da im Bilde.\0\0(
-촀\0Was treibt s\0촀 wohl in 2 
-촀seiner
+촀\0Was treibt s\0촀 wohl in 2 촀seiner
 ihrer\0 Freizeit?
-\0< (촀\0Vielleicht kann ich da ja mitmachen?!\0\0(촀\0Wenn 2
-촀ersie\0 mir mal wieder über den
+\0< (촀\0Vielleicht kann ich da ja mitmachen?!\0\0(촀\0Wenn 2촀ersie\0 mir mal wieder über den
 Weg läuft, 
 \0werde ich das sofort
 fragen, 
@@ -283,11 +274,9 @@ fragen, 
 \0(\0촀\0 Dann weißt du da
 also auch nicht mehr als ich.\0\0(%촀\0Ich wette, 
 \0s\0촀 hat ganz famose Sachen drauf, 
-\0(6촀\0da würde uns die Kinnlade runterfallen!\0\0(촀\0Frag 2
-촀ihnsie\0 doch mal ganz unauffällig,
+\0(6촀\0da würde uns die Kinnlade runterfallen!\0\0(촀\0Frag 2촀ihnsie\0 doch mal ganz unauffällig,
 \0
-wenn du 2
-촀ihnsie\0 siehst, 
+wenn du 2촀ihnsie\0 siehst, 
 \0n\0."
 "101","(촀\0Sag mal, 
 \0wie gut kennst du eigentlich
@@ -300,8 +289,7 @@ wenn du 2
 \0wie knuffig!
 \0(
 (2촀\0Ich würd s\0촀 auch gern besser kennen, als ich es tu.\0\0(촀\0Ich will wissen, 
-\0was 2
-촀ersie\0 so alles mag,
+\0was 2촀ersie\0 so alles mag,
 \0
 n\0!"
 "110_01","(촀\0Wusst ich's doch!
@@ -321,8 +309,7 @@ wenn du 2
 \0n\0..."
 "110_02_a","Ja!"
 "110_02_b","Nicht wirklich."
-"110_03","(\0촀\02
-촀SeinIhr\0 Traumberuf ist ja 촀n\0\0
+"110_03","(\0촀\02촀SeinIhr\0 Traumberuf ist ja 촀n\0\0
 \0 (촀\0Gilt das dann zufällig auch für dich, 
 \0n\0?"
 "110_03_a","Ja!"
@@ -353,8 +340,7 @@ in Sachen 촀 sagst du auch:
 \0(\0촀\0Dann sag mal,
 \0 n\0...\0\0($촀\0Lässt dir der Begriff „⁠
 촀⁠“ das Wasser im Mund zusammenlaufen?\0\0()촀\0Das ist nämlich die Antwort von
-s\0촀 auf die Frage nach 2 
-촀seinem
+s\0촀 auf die Frage nach 2 촀seinem
 ihrem\0 촀."
 "110_102_a","Absolut!"
 "110_102_b","Nein."
@@ -416,8 +402,7 @@ wie s\0촀, 
 "120_05","(촀\0Dann guckst du bestimmt auch
 genauso wenig Fernsehen wie
 s\0촀.
-()촀\0Das habe ich nämlich über 2
-촀ihnsie\0
+()촀\0Das habe ich nämlich über 2촀ihnsie\0
 gehört, 
 \0n\0!"
 "120_05_a","So ist es."
@@ -428,8 +413,8 @@ von Sport wie s\0촀?\0\0(\0촀\0Muss doch einen Grund geben,
 \0($촀\0warum ihr so gut befreundet seid,
 
 \0n\0!"
-"120_06_a","(\0촀\0Sport ist Mord."
-"120_06_b","(\0촀\0Ich mag Sport schon."
+"120_06_a","Sport ist Mord."
+"120_06_b","Ich mag Sport schon."
 "120_07","(촀\0Verstehe!
 \0( (\0촀\0Trinkt ihr dann auch öfter
 mal zusammen was, 
@@ -506,8 +491,7 @@ hilft, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 mag 2촁촀!
+(촀\02촀ErSie\0 mag 2촁촀!
 \0(촀\0\0\0(촀\0Jetzt kannst du ein Gespräch über
 촀 führen und so tun,
 \0 als würdest du das Gleiche mögen!"
@@ -515,20 +499,16 @@ hilft, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 mag 2촁촀!
-\0(촀\0\0\0(촀\0Jetzt kannst du 2J
-촀 ihm ganz einfach ihr ganz einfach\0
-2
-촀seinihr\0 촀 servieren,
+(촀\02촀ErSie\0 mag 2촁촀!
+\0(촀\0\0\0(촀\0Jetzt kannst du 2J촀 ihm ganz einfach ihr ganz einfach\0
+2촀seinihr\0 촀 servieren,
 \0
 n\0!"
 "170_03","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 will 촀 werden!
+(촀\02촀ErSie\0 will 촀 werden!
 \0(촀\0\0\0(촀\0Jetzt habt ihr schon mal ein
 passendes Gesprächsthema, 
 \0um
@@ -538,8 +518,7 @@ das Eis zu brechen, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 mag 2촁촀!
+(촀\02촀ErSie\0 mag 2촁촀!
 \0(촀\0\0\0(촀\0Hobbys sind doch immer ein schönes
 Thema, 
 \0um ins Gespräch zu kommen,
@@ -548,10 +527,8 @@ Thema, 
 "170_05","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 hat ein Händchen 24fürfürfürsfürfürfür 2촁촀!
-\0(촀\0\0\0(촀\0Du könntest 2
-촀ihnsie\0 ja mal wie zufällig um Tipps dazu bitten, 
+\0 (촀\02촀ErSie\0 hat ein Händchen 24fürfürfürsfürfürfür 2촁촀!
+\0(촀\0\0\0(촀\0Du könntest 2촀ihnsie\0 ja mal wie zufällig um Tipps dazu bitten, 
 \0n\0."
 "170_101","(9촀\0Also, 
 \0ich hab gehört, wie s\0촀 gesagt hatn\0\0
@@ -567,8 +544,7 @@ Thema, 
 \0
 (촀\0„2\0
 촀“!
-\0(촀\0\0\0(촀\0Und zwar ging es da um 2
-촀seinihr\0
+\0(촀\0\0\0(촀\0Und zwar ging es da um 2촀seinihr\0
 촀. 
 \0Vielleicht hast
 du ja was davon parat, 
@@ -580,8 +556,7 @@ du ja was davon parat, 
 \0
 (촀\0„2\0
 촀“!
-\0(촀\0\0\0(촀\0Und zwar ging es da um 2 
-촀seinen
+\0(촀\0\0\0(촀\0Und zwar ging es da um 2 촀seinen
 ihren\0
 Traumberuf. 
 \0(촀\0Du kannst ja mal ganz
@@ -593,13 +568,11 @@ zufällig das Gespräch darauf bringen."
 \0
 (촀\0„2\0
 촀“!
-\0(촀\0\0\0(촀\0Und zwar ging es da um 2
-촀seinihr\0 Lieb-
+\0(촀\0\0\0(촀\0Und zwar ging es da um 2촀seinihr\0 Lieb-
 lingshobby.
 \0 Vielleicht hilft dir das ja,
 
-\0mit 2
-촀ihmihr\0 ins Gespräch zu kommen!"
+\0mit 2촀ihmihr\0 ins Gespräch zu kommen!"
 "170_105","(9촀\0Also, 
 \0ich hab gehört, 
 \0wie
@@ -610,39 +583,33 @@ lingshobby.
 \0(촀\0\0\0(촀\0Da ging es um Talente, 
 \0die man hat.
 
-\0Du kannst 2
-촀ihnsie\0 ja mal um ein paar
+\0Du kannst 2촀ihnsie\0 ja mal um ein paar
 Tipps dazu bitten, 
 \0n\0!"
 "180_01","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 hört keine Musik, 
+(촀\02촀ErSie\0 hört keine Musik, 
 \0n\0!
-\0(촀\0\0\0(촀\0Deshalb halt dich in 2 
-촀seiner
+\0(촀\0\0\0(촀\0Deshalb halt dich in 2 촀seiner
 ihrer\0 Nähe am
 besten mit dem Pfeifen zurück!"
 "180_02","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 liest nicht gern, 
+(촀\02촀ErSie\0 liest nicht gern, 
 \0n\0!
 \0(촀\0\0\0(촀\0Spiel deshalb am besten auch 2dendie
 Lesefaule2n\0, 
-\0wenn du dich mit 2
-촀ihmihr\0
+\0wenn du dich mit 2촀ihmihr\0
 anfreunden willst!"
 "180_03","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 liest keine Comics, 
+(촀\02촀ErSie\0 liest keine Comics, 
 \0n\0!
 \0(촀\0\0\0(촀\0Lass den Comicnerd lieber nicht zu
 weit raushängen, 
@@ -650,8 +617,7 @@ weit raushängen, 
 "180_04","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 schaut keine Filme, 
+\0 (촀\02촀ErSie\0 schaut keine Filme, 
 \0n\0!
 \0(촀\0\0\0(촀\0Wenn du also ein Gesprächsthema
 suchst, 
@@ -661,8 +627,7 @@ das Wetter."
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 schaut nicht fern, 
+(촀\02촀ErSie\0 schaut nicht fern, 
 \0n\0!
 \0(촀\0\0\0(\0촀\0Klingt erst mal komisch. 
 \0(%촀\0Ist aber so."
@@ -670,20 +635,16 @@ das Wetter."
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
 \0
-(촀\02
-촀ErSie\0 mag keinen Sport, 
+(촀\02촀ErSie\0 mag keinen Sport, 
 \0n\0!
-\0(촀\0\0\0(촀\0Lade 2
-촀ihnsie\0 also am besten nicht gleich
+\0(촀\0\0\0(촀\0Lade 2촀ihnsie\0 also am besten nicht gleich
 zu einem Inselmarathon oder so ein!"
 "180_07","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 hat kein Lieblingsgetränk, 
+\0 (촀\02촀ErSie\0 hat kein Lieblingsgetränk, 
 \0n\0!
-\0(촀\0\0\0(촀\0Vielleicht kannst du 2
-촀ihmihr\0 ja mal
+\0(촀\0\0\0(촀\0Vielleicht kannst du 2촀ihmihr\0 ja mal
 ein paar von deinen Favoriten
 einschenken!"
 "180_08","(9촀\0Also, 
@@ -691,31 +652,25 @@ einschenken!"
 über s\0촀n\0\0
 \0
 (5촀\0Thema Leibgericht.
-\0( (촀\02
-촀ErSie\0 hat keins!\0\0(촀\0So kann das doch nicht weitergehen!
+\0( (촀\02촀ErSie\0 hat keins!\0\0(촀\0So kann das doch nicht weitergehen!
 
 \0Mach eine Verköstigung oder so! 
 \0Hilf
-2
-촀ihmihr\0, 
+2촀ihmihr\0, 
 \0bevor es zu spät ist!"
 "180_09","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 hat keinen bestimmten Traumberuf!
-\0(촀\0\0\0(촀\0Vielleicht kannst du 2
-촀ihmihr\0 ja von
+\0 (촀\02촀ErSie\0 hat keinen bestimmten Traumberuf!
+\0(촀\0\0\0(촀\0Vielleicht kannst du 2촀ihmihr\0 ja von
 deinen Träumen erzählen, 
-\0um 2
-촀ihmihr\0
+\0um 2촀ihmihr\0
 Anregungen zu geben, 
 \0n\0."
 "180_10","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 hat kein richtiges Hobby, 
+\0 (촀\02촀ErSie\0 hat kein richtiges Hobby, 
 \0n\0!
 \0(촀\0\0\0(촀\0Vielleicht könnt ihr ja was finden,
 \0
@@ -725,14 +680,10 @@ euch so anfreunden?"
 "180_11","(9촀\0Also, 
 \0streng geheime Geheiminfo
 über s\0촀n\0\0
-\0 (촀\02
-촀ErSie\0 denkt, 
-\02
-촀ersie\0 hätte kein richtiges Talent!
+\0 (촀\02촀ErSie\0 denkt, 
+\02촀ersie\0 hätte kein richtiges Talent!
 \0(촀\0\0\0(촀\0Aber vielleicht fällt dir ja was auf,
 \0
-was 2
-촀ersie\0 richtig gut kann, 
+was 2촀ersie\0 richtig gut kann, 
 \0ohne dass
-2
-촀ersie\0 es selbst überhaupt merkt?"
+2촀ersie\0 es selbst überhaupt merkt?"

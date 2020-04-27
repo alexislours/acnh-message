@@ -1,18 +1,16 @@
 ﻿"label","text"
 "001","Das ist die Verkaufskiste.
 \0
-Willst du etwas verkaufen?"
+Soll ich etwas verkaufen?"
 "001_a","Na klar!"
 "001_b","Wie funktioniert das?"
 "001_c","Jetzt gerade nicht..."
-"002","Möchtest du noch etwas über die
+"002","Soll ich noch etwas über die
 Verkaufskiste verkaufen?"
 "002_a","Na klar!"
 "002_b","Wie funktioniert das?"
 "002_c","Jetzt gerade nicht..."
-"003","Und?
-\0 Möchtest du jetzt
-etwas verkaufen?"
+"003","Alson\0\0 Soll ich jetzt etwas verkaufen?"
 "003_a","Na klar!"
 "003_b","Noch mal erklären!"
 "003_c","Ein andermal."

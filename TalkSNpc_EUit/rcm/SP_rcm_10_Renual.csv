@@ -1,7 +1,9 @@
 ﻿"label","text"
 "002_02","(촀\0Spero che continuerai a fare
 acquisti alla \0Bottega di Nook\0￿!
-\0((\0촀"
+\0(($촃\0
+d\0
+\0\0K... di \0Nook\0￿!\0dd"
 "002_03","( 촀\0Oops, scusan\0\0 (촀\0Non mi ero accorto
 che stavi guardando una cosa."
 "051","(촀\02(BenvenutoBenvenuta, n\0!
@@ -82,12 +84,14 @@ O trovi il negozio chiuso?
 lasciarlo nella cassetta.
 \0((촃\0 Facile, no?
 ()촂\0Ti invieremo i ricavi al più presto,
-direttamente sul tuo conto corrente.\0\0(\0촂\0Tieni presente due cose:
-\0 per l'uso
+direttamente sul tuo conto corrente.
+\0
+Tieni presente alcune cose, peròn\0\0\0\0(7촃\0Non accettiamo rape 
+\0e per l'uso
 della cassetta deposito si applica
 una piccola commissione di servizio.
-(\0촂\0Inoltre, nella cassetta non è possibile
-lasciare rape o articoli del giorno."
+()촂\0Inoltre, gli articoli del giorno sono
+venduti al prezzo normale.(\0촂\0(\0촃"
 "061_05","n\0\0 (촂\0(촃\0E questo è tutto!"
 "101","(촀\0Indovina un po', n\0n\0\0
 \0( (촀\0Ci sono delle grossissime novità!"
@@ -104,15 +108,14 @@ ulteriormente il negozio!"
 perciò il negozio resterà chiuso
 tutto il giorno.\0\0(7촀\0Ci scusiamo per il disagion\0\0(%촀\0 ma
 niente paura: riapriremo già dopodomani!"
-"151","(촀\02(BenvenutoBenvenuta al nostro nuovo negozio!\0\0(\0촀\0Sono felice che sia 2venutovenuta a farci
-visita($촀\0 proprio nel giorno della
+"151","(촀\02(BenvenutoBenvenuta al nostro (촃\0(촀\0nuovo negozio!\0\0(\0촀\0(\0촃\0Sono felice che sia 2venutovenuta a farci
+visita($촀\0(촃\0 proprio nel giorno della
 riapertura dopo il rinnovo!"
-"151_01","(촀\02(BenvenutoBenvenuta, n\0!
-\0(
-(%촀\0Sbaglio, o è la prima volta che
-vieni al negozio dopo il rinnovo?\0\0(\0촀\0Cosa te ne pare
-\0($촀\0 del nuovo locale?
-Bello grande, vero?"
+"151_01","(촀\0Oh, n\0! (촃\02(BenvenutoBenvenuta!
+\0( (%촀\0Sbaglio, o è la prima volta che fai visita al negozio dopo il rinnovo?\0\0(\0촀\0(\0촃\0Cosa te ne pare
+\0($촀\0 del nuovo locale?
+\0
+(촃\0Bello grande, vero?"
 "152","(촀\0Spero che continuerai a fare
 acquisti alla \0Bottega di Nook\0￿!
 \0((\0촀"

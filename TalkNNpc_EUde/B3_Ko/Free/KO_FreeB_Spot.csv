@@ -12,8 +12,10 @@ Insel 
 genau im Auge behalten!"
 "001_03","(
 촀\0Man mag von diesem Fleckchen hier
-denken, was man will...\0\0(%촀\0Für einen wahren Patrioten gehört
-auch der zu n\0!"
+denken,
+\0 was man willn\0\0\0\0(%촀\0Auch der gehört zu n\0, 
+\0und ich habe das Recht, 
+\0mich hier rumzutreiben!"
 "001_04","()촀\0So leere Fleckchen wie dieses
 \0 eignen
 sich perfekt, um nachzudenken
@@ -117,40 +119,32 @@ seiner Größe beurteilen, 
 das Badezimmer ist! 
 \0(촀\0Bwa ha ha ha!"
 "014","촊(
-촀\02\0s\0촀 scheint in촉
-geheimer Mission unterwegs
-zu sein.
-\0 Oder so was in der Art.
-촆촃(%촀\0Auf jeden Fall ist es ziemlich still
+촀\02\0s\0촀 scheint in촉 geheimer Mission unterwegs zu sein.
+\0 Oder so was in der Art.\0\0촆촃(%촀\0Auf jeden Fall ist es ziemlich still
 da drin.
-\0 (촀\0N-nicht, 
+\0 (촀\0N-
+\0nicht, 
 \0dass ich dort
 einbrechen wollen würde, 
 \02 KleinerKleines!"
 "015","촊(&촀\0He, 
 \0hast du das Haus von s\0촀 gesehen?
-\0 (촀\0촉Hab gehört, 2
-촀ersie\0 hat ganz schön angebaut!\0\0촆촃(촀\0Als Nächstes kommt dann wohl ein
+\0 (촀\0촉Hab gehört, 2촀ersie\0 hat ganz schön angebaut!\0\0촆촃(촀\0Als Nächstes kommt dann wohl ein
 Burggraben, 
 \0n\0!"
 "016","촊(
 촀\0Wenn ich s\0촀 wäre,
-\0촉
-wäre ich zufrieden mit meinem Haus.\0\0촆촃(5촀\0Aber vielleicht reicht 2
-촀ihmihr\0 das noch
+\0촉 wäre ich zufrieden mit meinem Haus.\0\0촆촃(5촀\0Aber vielleicht reicht 2촀ihmihr\0 das noch
 nicht, 
-\0und 2
-촀ersie\0 will ein noch größeres
+\0und 2촀ersie\0 will ein noch größeres
 Haus, 
 \0wer weiß?"
 "017","촊(촀\0Unglaublich, 
 \0wie groß das 촉Haus von
 s\0촀 inzwischen ist!\0\0촆촃(촀\0Aber ich maße mir da kein Urteil an.
 \0
-Wenn s\0촀 ein großes
-Haus will, 
-\0warum nicht?
-(
+Wenn s\0촀 ein großes Haus will, 
+\0warum nicht?\0\0(
 촀\0Vielleicht ist ja mein Haus auch zu
 klein!
 \0( (촀\0Ich mach mich wohl besser
@@ -169,13 +163,9 @@ sich einen Keller geleistet!\0\0(촀\0Oh, 
 \02 KleinerKleines.
 \0 Die sind
 so eine Art Festung für mich.\0\0(
-촀\0Wie s\0촀 wohl 2
-촀
-seineihre\0
-Festung dekoriert?
-\0 Hat 2
-촀ersie\0 ein
-eigenes Wappen?
+촀\0Wie s\0촀 wohl 2촀
+seineihre\0 Festung dekoriert?
+\0 Hat 2촀ersie\0 ein eigenes Wappen?
 \0 Ohne geht nicht!"
 "020","(촀\0In diesem Zelt sieht der Laden noch
 etwas armselig aus, 
@@ -230,10 +220,10 @@ dem ewigen Anstehen.
 \0 (
 촀\0Genau das sind die
 Sachen, die mich stören!"
-"031","(%촀\0Dieser \0Platz\0￿ ist eines der Aushänge-
-schilder unserer Insel. 
-\0Natur und
-Bewohner in perfekter Harmonie.\0\0()촀\0Synergieeffekte. 
+"031","(%촀\0Der \0Festplatz\0￿ ist ein Aushängeschild
+unserer Insel. 
+\0Natur und Bewohner in
+perfekter Harmonie.\0\0()촀\0Synergieeffekte. 
 \0Nachhaltigkeit und
 so. 
 \0(Zumindest steht das in einem der
@@ -261,6 +251,7 @@ keine Veränderungen,
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","()촀\0Als ich klein war, 
 \0haben meine Eltern
 mich ständig durch dieses oder jenes
@@ -278,16 +269,16 @@ mir ein Gedanke.
 (&촀\0Wann schlafen Fische? 
 \0Und wo?!
 \0
-Haben die kleine Betten?\0\0(촀\0Wo schläft denn 2F(촀der kleinedie kleinedas kleine
+Haben die kleine Betten?\0\0(촀\0Wo schläft denn 2F)촀der kleinedie kleinedas kleine
 
 \0, 
 \0hä?"
 "120","(촀\0Ich hab mir die Tage im \0Museum\0￿
-2(촀'nen'ne'n 2촁
+2)촀'nen'ne'n 2촁
  angesehen.\0\0(
 촀\0Da bin ich ins Grübeln gekommen...
 \0
-Früher hätte ich so 2&(촀
+Früher hätte ich so 2&)촀
 eineneine
 eines locker in
 die Hand genommen.
@@ -301,7 +292,7 @@ so was auf mir landet."
 \0
 Du weißt doch, welches ich meine.
 \0
-(촀\02(촀DenDieDas 2촁
+(촀\02)촀DenDieDas 2촁
 !
 (1촀\0Kannst du dir vorstellen, dass so was
 mal wirklich rumgekreucht ist?

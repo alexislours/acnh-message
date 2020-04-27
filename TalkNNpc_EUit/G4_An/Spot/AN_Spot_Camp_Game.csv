@@ -3,7 +3,7 @@
 \0Ti piacciono i giochi, no?
 \0(
 ()촀\0Non importa, piacciono a me e te ne
-volevo proporre uno, n\0n\0\0\0\0(촀\0Metto persino in palio 2""촀il miola mia\0 }\0\0.
+volevo proporre uno, n\0n\0\0\0\0(촀\0Metto persino in palio 2""촀il miola mia\0 }\0\0.
 \0
 Allora, ti va di giocare?"
 "001_a","Ah sì? Allora ci sto!"
@@ -48,19 +48,20 @@ fare un'altra partita, prima o poi."
 \0comincia-( 촀\0 Oh! 
 \0Aspetta.
 \0(
-Non hai spazio nelle tasche.\0\0(9촀\0Se giochiamo e io perdo, 2""촀il miola mia\0
-}\0\0 ti appartiene, 
-\0punto e basta.(촀\0\0\0Quindi, non possiamo giocare finché
-non avrai posto per portare con te
-eventuali vincite.
-\0( (촀\0Fai spazio e torna."
+Hai le tasche piene.\0\0(9촀\0Se giochiamo e io perdo, devo pur
+poterti dare il premio che ti spetta,
+
+\0cosa credi?(촀\0\0\0Quindi non possiamo giocare finché
+non avrai fatto spazio come si deve.
+
+\0((촀\0Torna quando sarai 2prontopronta."
 "100","(""촀\0Procediamo, n\0.\0\0()촀\0OK, 
 \0sai che le carte hanno semi, no?
 \0
 I semi sono 4: cuori \0♥\0￿, quadri \0♦\0￿, picche\0 ♠\0￿ e fiori\0 ♣\0￿.\0\0(6촀\0È molto semplice. 
 \0Devi indovinare
 il seme della carta che sta in
-cima al mazzo.\0\0(\0촀\0Se indovini, ti porti via 2""촀il miola mia\0 }\0\0.
+cima al mazzo.\0\0(\0촀\0Se indovini, ti porti via 2""촀il miola mia\0 }\0\0.
 \0( (촀\0Questo è quanto!(촀\0\0\0Bene!
 \0 (<촀\0Cominciamon\0\0
 \0("

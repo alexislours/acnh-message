@@ -93,15 +93,18 @@ spreken over mijn kunst of een opdracht.\0d"
 "010_a","Wil je een beestje kopen?"
 "010_b","Een opdracht?"
 "010_c","Een ander keertje."
-"011","(촀\0W-Wat, echt?! 
+"011","(촀\0
+\0W-Wat, echt?! 
 \0Dat is geweldig! Ik kan
 niet wachten!
-\0(&촀\0 Wat heb je voor me?!\0\0(8촀\0Wacht, je straalt het niet uit. 
+\0((&촀\0 Wat heb je voor me?!\0\0(8촀\0Wacht, je straalt het niet uit. 
 \0Nee, (;촀\0
 \0je
 aura mist totaal de 
+\0
 \0GRANDEUR
- van
+
+\0 van
 een ware beestjesbezitter!\0\0('촀\0Nee, ik kan alleen insecten kopen
 die,
 \0 zeg maar, 
@@ -110,12 +113,12 @@ die,
 kom weer langs als je echt iets hebt!"
 "012","(%촀\0Even ter informatie,
 \0 ik vertrek
-morgenochtend om 5:00 uur, dusn\0\0
+morgenochtend om \05:00 uur\0￿, dusn\0\0
 \0(
 (촀\0als je wat wilt, moet het voor die tijd."
 "013","(%촀\0Even ter informatie,
 \0 ik vertrek
-om 5:00 uur 's morgens, dusn\0\0
+om \05:00 uur\0￿ 's morgens, dusn\0\0
 \0(
 (촀\0als je wat wilt, moet het voor die tijd."
 "014","( 촀\0Wat?
@@ -147,6 +150,7 @@ maken, laat het me dan weten, nou, doeg.\0d"
 "015_c","Een ander keertje."
 "016","(촀\0
 \0Echt? 
+\0
 \0WAT VOOR EEN
 ?!"
 "020","(촀\0HUH?!\0\0(촀\0Nee, oké, 
@@ -168,11 +172,11 @@ het volgende eilandn\0\0
 \0((촀\0 Misschien heb
 je voor die tijd nog iets voor me?"
 "024","(촀\02\02\0}\0\0!
-\0 Stelp mijn tranen van geluk! (촀\0Wat 20촀is hijis hetzijn zen\0\0 
+\0 Stelp mijn tranen van geluk! (촀\0Wat 20촀is hijis hetzijn zen\0\0 
 \0mooi
 !
-\0( \0\0KRustig aan, Flickn\0\0\0d\0￿\0\0(6촀\02촀DieDatDie 2촃}\0\0 van jen\0\0
-\0 Zou je 2촀diedatdie wellicht willen verkopen voor, (&촀\0eh, Z?"
+\0( \0\0KRustig aan, Flickn\0\0\0d\0￿\0\0(6촀\02촀DieDatDie 2촃}\0\0 van jen\0\0
+\0 Zou je 2촀diedatdie wellicht willen verkopen voor, (&촀\0eh, Z?"
 "024_a","(%촀\0Ja, deal!"
 "024_b","('촀\0Nee, toch niet..."
 "025","(!촀\0Een hele zwerm?! 
@@ -364,7 +368,7 @@ kolossus voor je die over de wereld
 schrijdt als een insect!
 \0(촀\0 \0KIk stuur hem op.\0d"
 "150","(촀\0W-Wat, echt? 
-\0Je wilt een beeld van \02\0}\0\0￿?
+\0Je wilt een beeld van 2\0\0}\0\0￿?
 \0( Het bakbeest onder de insecten?\0\0(촀\0Dit beestje is een sublieme
 mengeling van kracht en elegantie!
 \0(
@@ -372,7 +376,7 @@ mengeling van kracht en elegantie!
 meesterwerk. Zie hier, mijn:
 \0Modelgoliathkever XL\0￿!"
 "151","(촀\0W-Wat, echt? 
-\0Je wilt een beeld van \02\0}\0\0￿?
+\0Je wilt een beeld van 2\0\0}\0\0￿?
 \0( Het snoeimes van de onderwereld?\0\0(촀\0Die vlijmscherpe scharen die als een
 zeis vijanden omver maaien! 
 \0(*촀\0Die rode
@@ -380,7 +384,7 @@ ogen die recht in je ziel kijken!\0\0(촀\0Dit wordt mijn meest griezelige
 meesterwerk, dat beloof ik je. Zie
 hier, mijn: \0Modelgirafhertkever XL\0￿!"
 "152","(촀\0W-Wat, echt? 
-\0Je wilt een beeld van \02\0}\0\0￿?
+\0Je wilt een beeld van 2\0\0}\0\0￿?
 \0( De engel onder de stervelingen?\0\0(촀\0Deze sublieme vliedende zielen
 bieden ons een venster op de
 puurheid van het Wemelrijk.\0\0(촀\0Dit wordt beslist mijn meest
@@ -388,7 +392,7 @@ puurheid van het Wemelrijk.\0\0(촀\0Dit wordt beslist mijn meest
 verheven meesterwerk. Zie hier, mijn:
 \0Model-A.-vogelvlinder XL\0￿!"
 "153","(촀\0W-Wat, echt? 
-\0Je wilt een beeld van \02\0}\0\0￿?
+\0Je wilt een beeld van 2\0\0}\0\0￿?
 \0( Die geest die fladdert als een mot?\0\0(촀\0Het tragische verhaal van dit beestje
 zal ongehoord blijven, 
 \0(촀\0want het heeft
@@ -405,7 +409,7 @@ puur gestold natuurgeweld!\0\0(촀\0Dit wordt mijn meest vurige
 meesterwerk, dat beloof ik je. Zie
 hier, mijn: \0Modelbronlibel XL\0￿!"
 "155","(촀\0W-Wat, echt? 
-\0Je wilt een beeld van \02\0}\0\0￿?
+\0Je wilt een beeld van 2\0\0}\0\0￿?
 \0( De spectaculaire speer in de atmosfeer?\0\0(;촀\0Zijn gevlekte schild is als een spiegel
 van het bonte Wemelrijk, dat hij
 verdedigt met zijn heersende hoorn!

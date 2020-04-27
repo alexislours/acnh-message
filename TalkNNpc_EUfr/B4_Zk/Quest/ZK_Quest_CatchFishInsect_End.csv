@@ -1,13 +1,13 @@
 ﻿"label","text"
 "001","(촀\0Enfin !
 \0 Ça fait une éternité que
-j'attends mon adorable petit2촀\0e\0
+j'attends mon adorable petit2촀\0e\0
 }촀 !"
 "002","(촀\0Bienvenue dans l'univers étonnant
 de l'ébouriffant n
-\0, joli2촀\0e\0 }촀 !"
+\0, joli2촀\0e\0 }촀 !"
 "003","(6촀\0Nous voilà enfin réunis,
-mon adorable et magnifique 2 촀
+mon adorable et magnifique 2 촀
 petitpetite\0
 }\0\0 !"
 "004","(촀\0Attends, t'es 2sûrsûre de ton coup, là ?
@@ -15,7 +15,7 @@ petitpetite\0
 Tu veux vraiment me donner
 2\0}\0\0 ?"
 "004_a","Bah oui, pourquoi ?"
-"004_b","Hmm, en fait..."
+"004_b","(\0촀\0Hmm, en fait..."
 "005","Oh purée !"
 "006","(촀\0Ouf ! 
 \0Parce que bon, recevoir
@@ -64,7 +64,7 @@ souches d'arbre, tu me le donnes ?"
 tremblantes d'émotion sur
 2\0}촀 !"
 "022","(%촀\0Tu as trouvé un nouveau papa,
-petit2촀\0e\0 }촀."
+petit2촀\0e\0 }촀."
 "023","(6촀\02\0n\0, c'est génial !
 \0
 Je vais enfin devenir propriétaire
@@ -89,10 +89,8 @@ un cadeau comme ça, c'est quand
 même une pression de fou !
 (%촀\0Mais ce bon vieux poisson d'eau
 de mer, tu me le donnes ?"
-"031","(촀\02\0n\0, j'ai envie de
-te remercier.
-\0 (5촀\0Je vais te faire un
-autographe, dis-moi où signer."
+"031","(촀\02\0n\0, j'ai envie de te remercier.
+\0 (5촀\0Je vais te faire un autographe, dis-moi où signer."
 "032","(촀\0T'es au top, n\0 !
 Merci beaucoup !"
 "033","(촀\0Je vais pas te laisser partir les pattes
@@ -186,18 +184,18 @@ tu devrais en trouver."
 "207","(촀\0Eh, j'te rappelle qu'il me faut
 2\0}촀 !\0\0($촀\0Va à la plage, tu devrais en trouver !"
 "211","(촀\0Il me faut absolument
-2\0}촀.\0\0(%촀\02촀Ils
+2\0}촀.\0\0(%촀\02촀Ils
 Elles\0 barbotent dans les coins d'eau
 douce, ou les rivières,
 \0 pour être plus
 précis."
 "212","(촀\0Il me faut absolument
-2\0}촀.\0\0(%촀\02촀Ils
+2\0}촀.\0\0(%촀\02촀Ils
 Elles\0 barbotent dans les coins d'eau
 douce, ou les étangs, pour être plus
 précis."
 "213","(촀\0Il me faut absolument
-2\0}촀.\0\0(%촀\02촀Ils
+2\0}촀.\0\0(%촀\02촀Ils
 Elles\0 ne sont pas faciles à dénicher,
 mais essaie de lancer ta ligne là où
 se rencontrent la rivière et l'océan."

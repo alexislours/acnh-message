@@ -8,13 +8,25 @@
 \0Campingplatz\0￿ so prominent
 eingeweiht wird,
 \0 was?"
+"001_01","(
+촀\0Du bist doch 2
+einereine von den
+Einheimischen, 
+\0oder?
+\0(%촀\0 Ja, 
+\0ich sehe
+so was auf den ersten Blick.
+(2촀\0Und ich wage sogar vorherzusagen,
+
+\0dass du meinen Besuch hier sehr
+genießen wirst!"
 "002_01","(촀\02\0n\0 ist total angesagt, 
 \0n\0!\0\0(&촀\0Was macht dieses besondere Etwas
 aus?
 \0( Das Wetter?
 \0 Der Strand?
 \0 Die
-köstlichen regionalen n촁?\0\0(6촀\0Oder ist es doch 2#촀derdiedas traditionelle 촀 der Einheimischen?\0\0(1촀\0Was auch immer es ist,
+köstlichen regionalen n촁?\0\0(6촀\0Oder ist es doch 2$촀derdiedas traditionelle 촀 der Einheimischen?\0\0(1촀\0Was auch immer es ist,
 \0 ich finde es
 einfach unwiderstehlichn"
 "002_01_a","Zieh doch her!"
@@ -41,9 +53,9 @@ Musikvideo endlich gedreht."
 "002_03_a","Genau, zieh her!"
 "002_03_b","Zieh doch ganz her!"
 "003","(2촀\0Wow.
-\0 Was für eine Ehre für m--
-\0, äh,
-\0
+\0 Was für eine Ehre für m--,
+\0 äh,
+\0
 für dich! 
 \0((
 촀\0Und ich sollte zuschlagen,
@@ -58,7 +70,7 @@ klarkommen,
 Manager oder so checken?
 \0((촀\0 Ich will
 euch ja nicht überfordern."
-"003_01","(촀\0Sodann... Bonjour! 
+"003_01","(촀\0Sodannn\0\0 Bonjour! 
 \0(9촀\0Fühle dich
 geehrt!
 \0 Mein glanzvolles Schicksal
@@ -81,11 +93,16 @@ aus."
 \0
 (촀\0Hab ich die Rolle als „neuester
 Inselbewohner“ bekommen?!
-(촀\0Ach, dein Blick sagt mir alles. Du
+(촀\0Ach, 
+\0dein Blick sagt mir alles. 
+\0Du
 hast bei den ganz hohen Tieren ein
-gutes Wort für mich eingelegt, was?
+gutes Wort für mich eingelegt, 
+\0was?
 (6촀\0Dann werd ich mal meine überraschte
-Reaktion einstudieren – für später,
+Reaktion einstudieren –
+\0 für später,
+\0
 wenn das offizielle Okay kommt!
 \0(촀\0
 "
@@ -164,7 +181,7 @@ eineneineein ganz 22촀anderenandereanderes 2촁n\0 gemacht, 
 \0
 das ist der neue n
 \0!\0\0(6촀\0Ich hab sogar überlegt,
-\0 mich 2!촀imin derim 촀 zu versuchen.
+\0 mich 2""촀imin derim 촀 zu versuchen.
 \0 Unglaublich, aber wahr!"
 "007_03","(1촀\0Tief im Herzen bin ich doch 2촀eineineein
 2>촀einfachereinfacheeinfaches n\0 gebliebenn\0\0\0\0(촀\0Ich lebe für die schlichten Freuden –
@@ -204,3 +221,11 @@ Extraklasse, 
 Video lasse ich einfach weg.
 \0 Ganz
 bescheiden und bodenständig!"
+"101","(촀\0Hier auf n\0 herrscht ja ein reger Durchgangsverkehrn\0\0\0\0(9촀\0Stört mich natürlich nicht. 
+\0(%촀\0Ich zücke
+immer gern meine Visitenkarte. 
+\0Hab
+extra eine mit Prägedruck gewählt.\0\0(4촀\0Aber sobald dein Besuch sich
+verzogen hat, 
+\0(6촀\0würde ich gern noch
+mal unter vier Augen mit dir redenn"

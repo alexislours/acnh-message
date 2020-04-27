@@ -85,7 +85,7 @@ Laten we er eentje doen!\0\0Oké, stel je voor
 \0 \0\0K(als je wilt)\0d\0￿ dat je 
 muziek hoort komen uit het huis van
 (촀\0iemand die je leuk vindtn\0\0\0\0(촀\0Wat voor muziek zou je dan graag
-willen horen?"
+willen horen, n\0?"
 "009_a","Klassiek."
 "009_b","Rock."
 "009_c","Pop."
@@ -94,12 +94,13 @@ willen horen?"
 \0 (촀\0Dan ga je vast
 graag om met anderen dien\0\0\0\0(촀\0n\0\0net als klassieke muziekstukken
 variëren in stemming van kalmerend
-tot spannend!\0\0(&촀\0Daar kijk je van op? 
+tot spannend, n\0!\0\0(&촀\0Daar kijk je van op? 
 \0Een popster
 moet verstand hebben van meer dan
 enkel pop! 
 \0()촀\0En klassiek is best cool!"
-"011","(%촀\0Rock, n\0? Dan heeft
+"011","(%촀\0Rock, n\0?
+\0 Dan heeft
 jouw type vast een wilde kant!\0\0(\0촀\0Rock, dag en nacht! (촀\0Lange rock of
 korte rock!
 \0 (5촀\0Wapperrock en
@@ -117,15 +118,13 @@ Is geweldig! Is hartstikke gaaf. Isn\0\0\0\0
 
 \0
 \0
-\0n\0\0de 
-\0beste muziek ooooit
-\0!\0\0
+\0n\0\0DE BESTE MUZIEK OOOOOIT!\0\0
 \0Als je van popmuziek houdt, heb je
 iemand als ik nodig!
 \0 Iemand als ik,
 maar niet 
 \0echt
-\0 ikn\0\0 \0\0(촀\0Mijn hart behoort aan \0K.K.\0￿n"
+\0 ikn\0\0\0\0(촀\0Mijn hart behoort aan \0K.K.\0￿n"
 "013","(%촀\0Een muziekdoos?\0\0(촀\0Een muziekdoos moet een enorm
 volume hebben om van buiten
 gehoord te worden!\0\0(촀\0Jouw ware liefde is vast iemand
@@ -144,19 +143,19 @@ hoe anderen je zien?\0\0(%촀\0Jij zou als zwarte kat gaann\0\0
 \0 (1촀\0Dus
 dan zien anderen je alsn\0\0\0\0n\0\0iemand die poeslief is!(촀\0 \0\0(촀\0Snap je?
 \0 
-\0(촀\0\0K(Wantn\0\0 het is een kattenkostuum?
+\0(촀\0\0\0K(Wantn\0\0 het is een kattenkostuum?
 
 \0Katn\0\0 poeslief?)
-\0\0d(촀\0\0 \0K(Nee?)\0d\0￿"
+\0\0d(촀\0 \0K(Nee?)\0d\0￿"
 "016","(;촀\0Cool! Wist je trouwens dat de keuze
 van je kostuum kan beïnvloeden
 hoe anderen je zien?\0\0(%촀\0Jij zou als vampier gaan?
-\0 \0K(Alle vampiers
-zijn Dracula's, wist je dat al?)\0d
+\0 \0\0K(Alle vampiers
+zijn Dracula's, wist je dat al?)\0d\0￿
 \0 (1촀\0Anderen zien
 je dan alsn\0\0\0\0(촀\0n\0\0iemand die geen aioli eet!\0\0(촀\0Snap je?
 \0 Omdat je een Dracula
-bent? \0K(En in aioli zit superveel knoflookn\0\0)\0d
+bent? \0\0K(En in aioli zit superveel knoflookn\0\0)\0d\0￿
 \0
 (촀\0\0K\0(Nee?)\0￿\0d"
 "017","(;촀\0Cool! Wist je trouwens dat de keuze
@@ -165,7 +164,7 @@ hoe anderen je zien?\0\0(%촀\0Jij zou als filmster gaan?
 \0 (1촀\0Nou,
 \0 dan
 zien anderen je alsn\0\0\0\0(촀\0n\0\0iemand die ze graag zien vallen!(촀\0 \0\0(촀\0Snap je?
-\0 (촀\0\0\0K(Sterren n\0\0die vallen? Vallende
+\0 (촀\0\0\0K(Sterrenn\0\0 die vallen? Vallende
 sterren?)\0d
 \0 (촀\0\0K(Nee?)\0d\0￿"
 "018","(;촀\0Cool! Wist je trouwens dat de keuze
@@ -202,7 +201,7 @@ uit met 
 \0 En ik? (""촀\0Mijn kapper
 moet 
 \0werken
-\0 voor zijn geld!"
+\0 voor zijn klingels!"
 "022","(촀\0Je bent niet zo op de hoogte van
 haartrends?
 \0 (촀\0Nou, geen zorgen, jouw

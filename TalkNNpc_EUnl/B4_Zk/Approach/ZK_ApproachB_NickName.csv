@@ -6,14 +6,14 @@ briljants te binnen!
 perfecte bijnaam voor jou!"
 "001_a","(\0촀\0Vertel!
 (\0촀\0Wat heb je bedacht?"
-"001_b","(\0촀\0Hoef ik niet te weten.
-(\0촀\0Geen interesse."
+"001_b","Hoef ik niet te weten.
+Geen interesse."
 "002","(촀\02\0n\0, ik voel me zo geïnspireerdn\0\0 Ik kwam er net op!\0\0(7촀\0Je weet dat ik je soms ""⁠n\0⁠"" noem, toch?
 \0 Nou, ik heb nu iets nieuws bedacht."
 "002_a","(\0촀\0Wat dan precies?
 (\0촀\0Vertel!"
-"002_b","(\0촀\0Nee joh.
-(\0촀\0Bedankt, liever niet."
+"002_b","Nee, joh.
+Bedankt, liever niet."
 "003","(7촀\0Hoi, ik heb een vraagje.
 \0 Ik weet dat je soms ""s\0촀"" wordt genoemd.
 \0 (&촀\0Mag ik dat ook zeggen?"
@@ -27,8 +27,8 @@ heb namelijk bedacht hoe ik je vanaf
 nu wil noemen."
 "004_a","(\0촀\0Laat maar horen dan!
 (\0촀\0Wat heb je bedacht?"
-"004_b","(\0촀\0Hoef ik niet te horen.
-(\0촀\0Wil ik niet weten."
+"004_b","Hoef ik niet te horen.
+Wil ik niet weten."
 "005","(촀\0Ha, ik was net naar je op zoek!\0\0(6촀\0Wist je dat ik elke ochtend drie
 minuten mediteer?
 \0 Het heeft net zijn
@@ -57,9 +57,9 @@ Liever niet."
 \0 (5촀\0Het is: ""⁠n\0⁠""!
 \0 Briljant, toch?"
 "100_a","Inderdaad briljant!
-Helemaal niet slecht!"
+(\0촁\0Helemaal niet slecht!"
 "100_b","Eh, nee dank je.
-Het is een beetje..."
+(\0촁\0Het is een beetje..."
 "101","(%촀\0Oké, begrepen.
 \0 ('촀\0Ik zal je dan niet
 lastigvallen met een nieuwe bijnaam."
@@ -84,7 +84,7 @@ dan op terug!"
 촀\0Heb ik je goed verstaan?
 \0 (&촀\0Ik moet je vanaf nu dus ""n\0"" noemen?"
 "106_a","Jazeker!"
-"106_b","(\0촀\0Misschien toch niet..."
+"106_b","Misschien toch niet..."
 "107","(촀\0Ik ben even in de war, hoor.
 \0 Hoe wil
 je nou dat ik je noem?"

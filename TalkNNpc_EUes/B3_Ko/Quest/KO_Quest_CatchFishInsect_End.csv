@@ -6,14 +6,11 @@
 "002","(촀\0¡Ah!
 \0 Definitivamente,
 \0
-¡2\0}촀
-que andaba buscando!"
+¡2\0}촀 que andaba buscando!"
 "003","(촀\0¡Anda!
 \0 ¡Pero si es 
-\02\0
-(%촀\0}\0\0!
-\0
-(촀\0¡Tú sí que sabes,
+\02\0(%촀\0}\0\0!
+\0 (촀\0¡Tú sí que sabes,
 \0 jovencit2oa!"
 "004","(촀\0¡Rayos!
 \0 (%촀\0¡Has atrapado 2\0
@@ -116,9 +113,7 @@ acudido a ti."
 \0
 ¡2\02\0}\0!"
 "042","(%촀\0Toma,
-\0 por favor acepta(촀\0
-2\0}\0
-como muestra de agradecimiento."
+\0 por favor acepta(촀\0 2\0}\0 como muestra de agradecimiento."
 "043","(촀\0Sería exagerado llamar a esto
 «recompensa»,
 \0 pero aquí lo tienes:
@@ -130,8 +125,7 @@ como muestra de agradecimiento."
 ¡2\0}\0!"
 "045","(촀\0No es gran cosa,
 \0 pero tengo
-2\0}\0
-para ti,
+2\0}\0 para ti,
 \0 por tu gran ayuda."
 "046","(촀\0Tengo una cosilla para ti,
 \0
@@ -206,14 +200,14 @@ y en el mar se me da aún peor.
 \0
 (;촀\0¡Ese olor a sal!"
 "201","(4촀\0¡Avísame si me consigues
-2\0}촀!\0\0(%촀\02촀LosLas\0 he visto dando vueltas por
+2\0}촀!\0\0(%촀\02촀LosLas\0 he visto dando vueltas por
 los árboles de aquí,
 \0 (8촀\0pero,
 \0 con lo
 torpe que soy,
-\0 siempre 2촀loslas\0 ahuyento."
+\0 siempre 2촀loslas\0 ahuyento."
 "202","(4촀\0¡Ojalá pudieras conseguirme
-2\0}촀!\0\0(촀\0Nunca consigo atrapar 2촀unouna\0n\0\0
+2\0}촀!\0\0(촀\0Nunca consigo atrapar 2촀unouna\0n\0\0
 \0
 (
 촀\0Supongo que no puedo disimular mis
@@ -232,15 +226,15 @@ pasos sobre la hierba, n\0."
 \0
 salen disparados."
 "205","(4촀\0Ojalá pudieras conseguirme
-2\0}촀 de 2촀loslas\0 que rondan por las flores.\0\0(%촀\0Veo un bicho de esos en un brote,
+2\0}촀 de 2촀loslas\0 que rondan por las flores.\0\0(%촀\0Veo un bicho de esos en un brote,
 \0
 (8촀\0parece que le voy a echar la redn\0\0
 \0
 ¡y no consigo atraparlo!"
 "206","(4촀\0¿Crees que podrías conseguirme
-2\0}촀 de 2촀loslas\0 que andan por los tocones?\0\0(%촀\0Se camuflan con la corteza,
+2\0}촀 de 2촀loslas\0 que andan por los tocones?\0\0(%촀\0Se camuflan con la corteza,
 \0 así que
-(촀\0resulta difícil 2""촀verlosverlas\0."
+(촀\0resulta difícil 2""촀verlosverlas\0."
 "207","(4촀\0Sería muy feliz si me consiguieses
 2\0}촀.\0\0(8촀\0Se mueven por la arena muy rápido,
 \0
@@ -261,7 +255,7 @@ sombra sobre el agua, n\0."
 2\0}촀?\0\0()촀\0Parece que suelen nadar por
 las desembocaduras de los ríos.
 \0
-(9촀\0Pero nunca he pescado 2&촀ningunoninguna\0n"
+(9촀\0Pero nunca he pescado 2&촀ningunoninguna\0n"
 "214","(4촀\0¡No sabes cuánto te agradecería
 que pudieses pescarme
 2\0}촀!\0\0Mi escaso talento para la pesca

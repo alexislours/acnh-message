@@ -1,11 +1,15 @@
 ﻿"label","text"
-"0001","Weet je zeker dat je de naam
-""\0s\0촀\0￿"" wilt gebruiken?"
-"0001_a","Wijzigen"
+"0001","""\02\0s\0촀\0￿"", wauw! Weet
+je het zeker, \0s\0촀\0￿?
+\0K\0Bederf de pret niet door persoonlijke informatie
+of aanstootgevende taal te gebruiken.\0￿\0d"
+"0001_a","Oei, nee!"
 "0001_b","Oké!"
-"0003","Wil je de naam ""\0\0s촀\0￿""
-voorstellen?"
-"0003_a","Wijzigen"
+"0003","""\0\0s촀\0￿"", oké! Dus je
+stelt ""\0\0s촀\0￿"" voor?\0K\0
+Bederf de pret niet door persoonlijke informatie
+of aanstootgevende taal te gebruiken.\0￿\0d"
+"0003_a","Oei, nee!"
 "0003_b","Oké!"
 "0004","Je hebt een tekst ingevoerd
 die ongepaste taal bevat."
@@ -16,27 +20,27 @@ gebruiken."
 "0011","Weet je zeker dat je je opgeslagen
 gegevens wilt wissen? Je kunt dit
 later niet meer ongedaan maken."
-"0011_a","\0Wissen\0￿"
-"0011_b","Annuleren"
+"0011_a","\0Wissen!\0￿"
+"0011_b","Annuleren."
 "0012","Weet je zeker dat je de opgeslagen
 gegevens van s\0촁
 wilt wissen? Je kunt dit later niet
 meer ongedaan maken."
-"0012_a","\0Wissen\0￿"
-"0012_b","Annuleren"
-"0101","Wil je \02\0}\0\0
+"0012_a","\0Wissen!\0￿"
+"0012_b","Annuleren."
+"0101","Wil je 2\0\0}\0\0
 \0￿maken?"
-"0101_a","Nee"
-"0101_b","Ja"
+"0101_a","Nee, laat maar."
+"0101_b","Ja, graag."
 "0102","Je hebt niet genoeg materiaal."
-"0102_a","Oké"
+"0102_a","Oké."
 "0103","Je kunt niet meer spullen bij je
 dragen, dus je kunt nu niets maken."
-"0103_a","Oké"
+"0103_a","Oké."
 "0104","Er is niets veranderd!
 Kies een ontwerp dat anders
 is dan het huidige."
-"0104_a","Sluiten"
+"0104_a","Oké!"
 "0105","Sommige voorwerpen kunnen worden
 aangepast met een eigen ontwerp.
 \0\0Voorwerpen met een eigen ontwerp
@@ -45,16 +49,20 @@ Als een eigen ontwerp is bijgewerkt,
 zullen alle voorwerpen met dat eigen
 ontwerp gebruikmaken van het
 bijgewerkte ontwerp.\0￿"
-"0105_a","Sluiten"
+"0105_a","Oké!"
 "0201","Je hebt geen liedjes om
 toe te voegen!"
-"0201_a","Sluiten"
+"0201_a","Oké!"
 "0202","Je kunt niet meer spullen
 bij je dragen!"
-"0202_a","Sluiten"
+"0202_a","Oké!"
 "0301","Je kunt niet meer spullen
 bij je dragen!"
-"0301_a","Sluiten"
+"0301_a","Oké!"
+"0303_a","Oké!"
+"0304_a","Oké!"
+"0307","Bezig post te ontvangen..."
+"0308","Bezig de gegevens te controleren..."
 "0310","Eén momentje, oké?"
 "0321","Je kunt een bericht niet als favoriet
 markeren voor je het hebt gelezen!"
@@ -66,17 +74,33 @@ niet weggooien!"
 markeren."
 "0333","Je kunt geen berichten weggooien
 waar cadeaus bij zitten!"
+"0334","Je hebt een kaart ontvangen van een
+vriend(in)! Je kunt kaarten schrijven
+en versturen op de luchthaven."
+"0335","Bij ontvangst wordt een kaart
+opgeslagen op het Nintendo Switch-
+systeem en kan deze niet opnieuw
+ontvangen worden. Kaarten die nog
+niet op het systeem zijn ontvangen,
+blijven 90 dagen bewaard op de server.\0\0Er kunnen maximaal 300 kaarten
+tegelijk worden bewaard op de
+server. Als er daarna meer kaarten
+bij komen, worden er kaarten van de
+server verwijderd, beginnende bij de
+oudste kaarten. Verwijderde kaarten
+kunnen niet meer worden ontvangen."
 "0402","Voer een dag in de toekomst in."
 "0501","Je hebt geen ruimte voor de kleren
 die je uit wilt trekken."
 "0502","Kies iets om te registreren!"
-"0503","Je hebt niets dat je uit kunt trekken."
+"0503","Er is niets dat kan worden
+uitgetrokken."
 "0504","\0\0Je kunt nu bij elke kast je flitsoutfits
 bewerken!\0￿\0\0Als je \0FLITSOUTFITS BEWERKEN\0￿
 kiest om outfits te creëren, kun je ze
 later aantrekken met een \0toverstaf\0￿.\0\0\0\0Een flitsoutfit gebruiken is een
 transformatie van je look, geen
-kledingwisseling.\0\0Wat je onder de transformatie draagt,
+kledingwisseling.\0\0Wat je onder een flitsoutfit draagt,
 verandert niet.\0￿"
 "0551","Je draagt niets dat onderdeel
 kan uitmaken van een outfit!"
@@ -85,24 +109,65 @@ je opslag."
 "0601","Je hebt niet genoeg Nook-miles."
 "0602","Alleen leden van \0Nook-miles+\0￿
 kunnen dit product bestellen.
-\0\0De diensten van Nook-miles+ zijn
-voor klanten met een eigen huis.\0￿"
+\0\0Deze dienst is er enkel voor klanten
+met een contract voor een huis.\0￿"
 "0603","Je kunt maximaal vijf keer per dag
 \0per post\0￿ miles inwisselen."
 "0802","\0\0Lokaal en online spelen\0￿
 Het volgende zal zichtbaar zijn voor
 spelers met wie je lokaal of online
-speelt: eilanden, huizen en door
-spelers gemaakte \0content\0￿, zoalsn\0\0\0\0n\0\0\0namen \0￿van spelers en eilanden,
-\0chatberichten\0￿, berichten op het
-mededelingenbord, kamers van
-huizen, eigen ontwerpen en meer.
+speelt: \0eilanden\0￿, \0huizen en door
+spelers gemaakte content\0￿, zoalsn\0\0\0\0n\0\0\0namen van spelers en eilanden\0￿,
+\0chatberichten\0￿, \0berichten op het
+mededelingenbord\0￿, \0kamers van
+huizen\0￿, \0eigen ontwerpen en meer\0￿.
 Let goed op welke content je met
 anderen deelt tijdens het spelen."
-"0802_a","Ik begrijp het"
+"0802_a","Ik begrijp het."
 "0803","Helaas kan dit eiland momenteel
 geen nieuwe bezoekers ontvangen."
-"0803_a","Terug"
+"0803_a","Terug."
+"0804","\0Wees lief tegen anderen!\0￿ Deel geen
+illegale content, persoonlijke informatie,
+content die de rechten van anderen
+schendt of content die irritatie opwekt
+bij anderen.\0\0Speel niet vals en irriteer geen andere
+spelers. Op in-game gedrag en alle
+gedeelde content is de Nintendo-
+gedragscode van toepassing.\0\0Als wordt vastgesteld dat je content
+of gedrag in overtreding is met de
+Nintendo-gedragscode, kunnen er
+acties worden ondernomen, waaronder
+het verwijderen van je content van de
+server en het beperken van de
+mogelijkheid om online te spelen.\0\0Je kunt op \0\0￿ drukken om ongepaste
+content of ongepast gedrag te melden.
+
+Zorg dat je je tijdens het spelen aan de
+Nintendo-gedragscode houdt en houd
+rekening met andere spelers."
+"0804_a","Ik begrijp het."
+"0805","De sessie is afgebroken omdat een
+van de medespelers een dialoog- of
+menuvenster voor een bepaalde tijd
+niet heeft afgesloten. Wanneer dit
+gebeurt, gaat alle voortgang verloren
+sinds de laatste keer dat deze is
+opgeslagen."
+"0805_a","Ik begrijp het."
+"0806","Er is een communicatiefout opgetreden
+waardoor de eilandinformatie niet kan
+worden getoond."
+"0806_a","Terug"
+"0810","Wil je opnieuw proberen verbinding
+met het internet te maken?"
+"0810_a","Nee, laat maar."
+"0810_b","Ja, graag!"
+"0820","Je profielfoto kon niet verstuurd
+worden. Als dit probleem zich blijft
+voordoen, maak dan een nieuwe
+profielfoto en probeer het opnieuw."
+"0820_a","Oké."
 "0921","Tijdens een bezoek kun je maximaal
 twee berichten plaatsen."
 "0921_a","Oké!"
@@ -112,81 +177,128 @@ twee berichten plaatsen!"
 "0951","Wil je alles wissen wat je met de
 hand hebt getekend? (Dit kan niet
 ongedaan worden gemaakt.)"
-"0951_a","Nee"
-"0951_b","Ja"
+"0951_a","Nee, toch niet."
+"0951_b","Alles wissen."
 "0952","Wil je stoppen met schrijven?"
-"0952_a","Nee"
-"0952_b","Ja"
-"0953","Wil je stoppen met bewerken via het
-toetsenbord? \0\0Alles wat je zojuist
-hebt ingevoerd, wordt gewist.\0￿"
-"0953_a","Nee"
-"0953_b","Ja"
+"0952_a","Nee, wacht."
+"0952_b","Ja!"
+"0953","Wil je het toetsenbord sluiten?
+\0\0Alles wat je zojuist hebt ingevoerd,
+wordt gewist.\0￿"
+"0953_a","Nee, wacht."
+"0953_b","Ja, sluit maar."
 "1001","Je verjaardag is op Z$촀 Z#촀.
 Klopt dit?"
-"1001_a","Wijzigen"
+"1001_a","Wijzigen."
 "1001_b","Oké!"
 "1101","Bezig met zoeken naar producten..."
 "1102","Er zijn geen producten gevonden."
-"1102_a","Sluiten"
+"1102_a","Oké!"
 "1103","Je hebt niet genoeg klingels."
-"1103_a","Sluiten"
-"1104","Wil je \02\0}\0\0
+"1103_a","Oké!"
+"1104","Wil je 2\0\0}\0\0
 \0￿bestellen voor \0Z\0\0￿?"
-"1104_a","Annuleren"
-"1104_b","Bestellen"
+"1104_a","Annuleren."
+"1104_b","Bestellen."
 "1105","Wil je voor \0Z\0\0￿
-\02\0}\0\0\0￿
+2\0\0}\0\0\0￿
 bestellen?"
-"1105_a","Bestellen"
-"1105_b","Cadeau doen"
-"1105_c","Annuleren"
+"1105_a","Bestellen."
+"1105_b","Cadeau doen."
+"1105_c","Annuleren."
 "1108","Je bestelling is geplaatst en wordt
 binnenkort via de post bezorgd!"
-"1108_a","Oké"
-"1109","Je bestelling voor \0s\0촀
-\0￿is geplaatst!"
-"1109_a","Oké"
+"1108_a","Oké."
 "1111","Elke klant kan per dag maximaal
 vijf artikelen bestellen uit
 de catalogus."
-"1111_a","Oké"
+"1111_a","Oké."
 "1112","Dat kost dan \0Z\0\0￿.
 Wil je dit artikel versturen?"
-"1112_a","Nee"
-"1112_b","Ja"
+"1112_a","Eh, toch niet."
+"1112_b","Ja, graag!"
 "1113","Weet je zeker dat je deze kaart wilt
-wissen en je bestelling van \02\0
+wissen en je bestelling van 2\0\0
 2촃}\0\0 \0￿wilt
 annuleren?"
-"1113_a","Nee"
-"1113_b","Ja"
+"1113_a","Nee, toch niet!"
+"1113_b","Ja, dat wil ik."
 "1114","Dit artikel is niet te koop en kan
 momenteel niet worden besteld."
-"1114_a","Sluiten"
-"1201","""s촀"" zal dan
+"1114_a","Oké!"
+"1115","Naar wie wil je dit sturen?"
+"1115_a","Een bewoner."
+"1115_b","Een vriend(in)."
+"1115_c","Terug."
+"1116","Dit voorwerp kon niet verstuurd
+worden. Wil je het nog eens
+proberen?"
+"1116_a","Nee."
+"1116_b","Ja!"
+"1117","Bezig verbinding te maken
+met het internet..."
+"1118","Bezig met versturen...
+\0\0Druk niet op  tijdens het opslaan.\0￿"
+"1119","De kosten voor het voorwerp,
+\0Z\0\0￿, worden vergoed."
+"1119_a","Oké."
+"1120","Het voorwerp is onderweg naar
+\0s\0촀\0￿."
+"1120_a","Oké!"
+"1121","Je kunt geen bestellingen plaatsen
+als je gezelschap hebt."
+"1121_a","Oké!"
+"1122","Je kunt geen bestellingen plaatsen
+terwijl je het eiland van een andere
+speler bezoekt."
+"1122_a","Oké!"
+"1123","Je kunt geen bestellingen plaatsen
+als de gate open is."
+"1123_a","Oké!"
+"1124","Je kunt nu geen bestellingen
+plaatsen. Verbreek de verbinding
+bij de luchthavenbalie."
+"1124_a","Oké!"
+"1201","""\0s촀\0￿"" zal dan
 verwijderd worden. Weet je zeker
 dat je wilt verdergaan?"
-"1201_a","Nee"
-"1201_b","Ja"
+"1201_a","Beter van niet."
+"1201_b","Jazeker!"
 "1202","Weet je zeker dat je
- ""s촀"",
-ontworpen door s\0촀,
-wilt wissen?"
-"1202_a","Nee"
-"1202_b","Ja"
+""\0s촀\0￿"",
+ontworpen door \0s\0촀\0￿,
+wilt verwijderen?"
+"1202_a","Beter van niet."
+"1202_b","Jazeker!"
 "1203","Kies een ontwerp dat kan worden
-gewist."
+verwijderd."
 "1203_a","Oké!"
 "1204","Weet je zeker dat je
-""s촀"",
-opgeslagen door s\0촀,
-wilt wissen?"
-"1204_a","Nee"
-"1204_b","Ja"
-"1300","Je opgeslagen gegevens zullen
-worden gewist.
-\0\0Druk niet op de  POWER-knop.\0￿"
+""\0s촀\0￿"",
+opgeslagen door \0s\0촀\0￿,
+wilt verwijderen?"
+"1204_a","Beter van niet."
+"1204_b","Jazeker!"
+"1221","Weet je zeker dat je
+""\0s촀\0￿""
+wilt overschrijven?"
+"1221_a","Beter van niet."
+"1221_b","Jazeker!"
+"1222","Weet je zeker dat je
+""\0s촀\0￿"",
+ontworpen door \0s\0촀\0￿,
+wilt overschrijven?"
+"1222_a","Beter van niet."
+"1222_b","Jazeker!"
+"1224","Weet je zeker dat je
+""\0s촀\0￿"",
+opgeslagen door \0s\0촀\0￿,
+wilt overschrijven?"
+"1224_a","Beter van niet."
+"1224_b","Jazeker!"
+"1300","Bezig met het wissen van
+de opgeslagen gegevens...
+\0\0Druk niet op  (POWER-knop).\0￿"
 "1308","Er is een datum ingesteld op het
 systeem die niet binnen het
 ondersteunde bereik valt.\0\0Sluit de game af via het HOME-menu
@@ -196,15 +308,15 @@ Start de game daarna opnieuw op."
 "1310","Je opgeslagen gegevens zijn
 beschadigd. Wil je de gegevens
 wissen en opnieuw beginnen?"
-"1310_a","Ja"
-"1310_b","Nee"
+"1310_a","Ja, graag."
+"1310_b","Nee."
 "1311","De game kan niet worden gespeeld
 met beschadigde opgeslagen
 gegevens. Sluit de game af via
 het HOME-menu."
 "1312","De opgeslagen gegevens zijn gewist.
 De game wordt nu gestart."
-"1312_a","Oké"
+"1312_a","Oké."
 "1325","Het lijkt erop dat je taalinstellingen
 zijn gewijzigd sinds je voor het
 laatst hebt gespeeld."
@@ -216,7 +328,7 @@ HOME-menu je oorspronkelijke taal
 in en start de game opnieuw op."
 "1328","キャラクターの\0\0
 なまえ名前や
-ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが
 このまま\0\0はじ始めますか？
 
 Namen van personages en scherm-
@@ -315,7 +427,7 @@ nog steeds beginnen met spelen?"
 "1338_a","Нет / Nee"
 "1338_b","Да / Ja"
 "1339","캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Namen van personages en scherm-
@@ -331,7 +443,7 @@ elementen zijn per taal anders. Wil je
 nog steeds beginnen met spelen?"
 "1340_a","否 / Nee"
 "1340_b","是 / Ja"
-"1341","角色名稱或遊戲內的顯示將會改變，
+"1341","角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Namen van personages en scherm-
@@ -343,8 +455,7 @@ nog steeds beginnen met spelen?"
 ホームHOMEメニューの　\0\0せってい設定で
 \0\0もと元の\0\0
 げんご言語に　\0\0もど戻してから
-ゲームを\0\0
-さいきどう再起動してください。
+ゲームを\0\0さいかい再開してください
 
 Stel via de systeeminstellingen in het
 HOME-menu je oorspronkelijke taal
@@ -432,14 +543,15 @@ in en start de game opnieuw op."
 Stel via de systeeminstellingen in het
 HOME-menu je oorspronkelijke taal
 in en start de game opnieuw op."
-"1355","請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+"1355","請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Stel via de systeeminstellingen in het
 HOME-menu je oorspronkelijke taal
 in en start de game opnieuw op."
 "1356","\0\0ぜんかい前回プレイ\0\0じ時と
-\0\0げんごせってい言語設定が\0\0こと異なるようです。
+\0\0げんごせってい言語設定が\0\0こと異なるようです
 
 Het lijkt erop dat je taalinstellingen
 zijn gewijzigd sinds je voor het
@@ -524,7 +636,7 @@ zijn gewijzigd sinds je voor het
 laatst hebt gespeeld."
 "1366_a","Далее / Volgende"
 "1367","지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 Het lijkt erop dat je taalinstellingen
 zijn gewijzigd sinds je voor het
@@ -536,20 +648,122 @@ Het lijkt erop dat je taalinstellingen
 zijn gewijzigd sinds je voor het
 laatst hebt gespeeld."
 "1368_a","下一页 / Volgende"
-"1370","語言設定似乎與上次遊玩時不同。
+"1370","語言設定似乎與上次遊玩時不同
 
 Het lijkt erop dat je taalinstellingen
 zijn gewijzigd sinds je voor het
 laatst hebt gespeeld."
 "1370_a","下一頁 / Volgende"
+"1372","De opgeslagen gegevens worden
+bijgewerkt vanwege de nieuwe
+releaseversie."
+"1372_a","Oké."
+"1373","Bezig met bijwerken...
+\0\0Druk niet op .\0￿"
+"1374","De opgeslagen gegevens zijn
+bijgewerkt en de game zal nu
+opstarten."
+"1374_a","Oké."
+"1401","Er is een bestevriendverzoek
+verstuurd aan \0s\0촀\0￿."
+"1402","Je bent nu beste vrienden met
+\0s\0촀\0￿."
+"1403","Je verzoek aan \0s\0촀\0￿
+is ingetrokken."
+"1404","Je hebt het verzoek van
+\0s\0촀\0￿ afgewezen."
+"1405","Jij bent niet langer beste vrienden
+met \0s\0촀\0￿."
+"1405_a","Oké!"
+"1406","Je kunt geen verzoeken meer sturen,
+omdat je het maximale aantal beste
+vrienden hebt."
+"1406_a","Oké!"
+"1407","Je kunt geen verzoeken meer sturen,
+omdat je op het moment het maximale
+aantal verzoeken hebt verstuurd."
+"1407_a","Terug"
+"1408","Je kunt geen verzoek sturen, omdat
+de persoon aan wie je het wilt sturen,
+het maximale aantal aanvragen heeft."
+"1408_a","Terug"
+"1409","Jullie kunnen geen beste vrienden
+worden, omdat je het maximale aantal
+beste vrienden hebt."
+"1409_a","Terug"
+"1410","Jullie kunnen geen beste vrienden
+worden, omdat je het maximale aantal
+verzoeken hebt bereikt."
+"1410_a","Terug"
+"1411","Het verzoek is ingetrokken."
+"1411_a","Terug"
+"1412","Je kunt iemand met wie je aan het
+spelen bent, niet uit je lijst van beste
+vrienden verwijderen."
+"1412_a","Terug"
+"1413","Omdat de andere persoon een actie
+heeft uitgevoerd, wordt deze informatie
+nu bijgewerkt."
+"1413_a","Oké!"
+"1414","Weet je zeker dat je geen beste
+vrienden meer wilt zijn met deze
+speler?"
+"1414_a","Terug"
+"1414_b","Ja."
+"1430","Je kunt niet online spelen als er een
+lokale draadloze verbinding actief is."
+"1430_a","Terug"
+"1431","Je kunt niet online spelen als je met
+andere bewoners aan het buurten
+bent."
+"1431_a","Terug"
+"1432","Je moet minstens één beste vriend
+hebben geregistreerd om deze optie
+in te kunnen schakelen."
+"1432_a","Terug"
+"1433","Voor je verzoek verwerkt kan worden,
+moet deze informatie worden
+bijgewerkt. Wil je dat dit nu doen?"
+"1433_a","Nee."
+"1433_b","Ja!"
+"1450","Er is een internetverbinding vereist
+voor deze functie. Wil je verbinding
+maken met het internet?"
+"1450_a","Laat maar..."
+"1450_b","Ja, verbinden!"
+"1451","Wil je deze communicatiefunctie
+inschakelen?"
+"1451_a","Hm, laat maar..."
+"1451_b","Activeren."
+"1452","Wil je deze communicatiefunctie
+uitschakelen?"
+"1452_a","Hm, laat maar..."
+"1452_b","Uitschakelen."
+"1453","Druk op \0\0￿ om deze communicatie-
+functie in te schakelen en om gebruik
+te maken van de mogelijkheid om
+berichten te sturen."
+"1453_a","Oké!"
+"1454","2\0\0s\0촀\0￿ is offline, dus je
+kunt 2촀hemhaar\0 op het moment geen
+berichten sturen."
+"1454_a","Terug"
+"1455","Je kunt geen berichten sturen als er
+geen andere spelers online zijn."
+"1455_a","Terug"
+"1456","De communicatiefunctie is uitgeschakeld
+omdat de netwerkverbinding werd
+onderbroken. Schakel de functie weer
+in en probeer het opnieuw."
+"1456_a","Terug"
 "1501","Weet je zeker dat je je wijzigingen
 ongedaan wilt maken?"
-"1501_a","Nee"
-"1501_b","Ja"
+"1501_a","Nee, wacht!"
+"1501_b","Jazeker!"
 "1502","Wil je alle recente kleurwijzigingen
 ongedaan maken?"
-"1502_a","Nee"
-"1502_b","Ja"
+"1502_a","Nee, toch niet."
+"1502_b","Ja, graag!"
 "1601","De amiibo kon niet worden gelezen."
 "1602","Met de controller die je gebruikt, kun
 je geen amiibo lezen. Gebruik een
@@ -566,8 +780,8 @@ tegelijk uitnodigen."
 "1608","Er is niet genoeg vrije ruimte
 om dit personage uit te nodigen."
 "1609","Wil je Timmy of Tommy uitnodigen?"
-"1609_a","Timmy"
-"1609_b","Tommy"
+"1609_a","Timmy."
+"1609_b","Tommy."
 "1610","Je kunt de Dorpsbewoner niet in
 Fotopia uitnodigen."
 "1612","Als de vliegtuigstand aan staat,
@@ -578,26 +792,97 @@ de vliegtuigstand uit te zetten."
 "1614","Deze amiibo wordt niet ondersteund."
 "1701","Dit is hetzelfde als je huidige huis!"
 "1701_a","Terug"
-"1801","2\0s\0촀 heeft nog
+"1801","2\0\0s\0촀\0￿ heeft nog
 geen plek om te wonen en
 kan dus geen post ontvangen."
 "1801_a","Terug"
+"1900","Wil je \0s\0촀\0￿ melden?"
+"1900_a","Annuleren."
+"1900_b","Melden."
+"1920","Je melding is verstuurd."
+"1920_a","Oké!"
+"1921","De melding kon niet worden verstuurd.
+Wil je het opnieuw proberen?"
+"1921_a","Nee, laat maar."
+"1921_b","Opnieuw!"
+"1930","Je kunt geen meldingen versturen
+als je gebruikmaakt van lokale
+communicatie."
+"1930_a","Terug"
+"1931","Je bent nog niet verbonden met het
+internet, dus je kunt geen melding
+versturen."
+"1931_a","Terug"
+"1932","Je kunt dit bericht niet melden."
+"1932_a","Terug"
+"1933","Je kunt deze kaart niet melden."
+"1933_a","Terug"
+"1936","Je kunt dit ontwerp niet melden."
+"1936_a","Terug"
+"1938","Je kunt geen melding maken van
+je eigen account."
+"1938_a","Oké!"
+"1940","Deze mededeling is niet geschreven
+door een onlinespeler. Wel kun je
+\0s\0촀\0￿ melden omdat de
+mededeling nog niet verwijderd was."
+"1941","Het tentoongestelde voorwerp is niet
+gemaakt door een onlinespeler. Wel kun
+je \0s\0촀\0￿ melden omdat het
+voorwerp nog niet verwijderd was."
 "2001","Je hebt niet genoeg klingels."
-"2001_a","Sluiten"
+"2001_a","Oké!"
 "2002","Je hebt niet genoeg ruimte in je
 zakken voor deze aankoop!"
-"2002_a","Sluiten"
+"2002_a","Oké!"
 "2003","Je hebt niet genoeg ruimte voor
 deze aankoop in je zakken of je
 opslag."
-"2003_a","Sluiten"
+"2003_a","Oké!"
 "2004","Wil je dit afrekenen?"
-"2004_a","Nee"
-"2004_b","Ja"
+"2004_a","Nee."
+"2004_b","Ja, graag."
 "2005","Wil je aantrekken wat je hebt
 uitgezocht?"
-"2005_a","Nee"
-"2005_b","Ja"
+"2005_a","Nee, bedankt."
+"2005_b","Nou en of!"
+"2101","Wil je verbinding maken met het
+internet en een eigen ontwerp
+downloaden dat gemaakt is voor
+Nintendo 3DS-games?"
+"2101_a","Terug"
+"2101_b","Ja"
+"2102","Er is een eigen ontwerp gevonden
+genaamd ""\0s촀\0￿"".
+Wil je een vakje kiezen om dit ontwerp
+op te slaan?"
+"2102_a","Terug"
+"2102_b","Ja"
+"2103","Er is een speciaal ontwerp gevonden
+genaamd ""\0s촀\0￿"".
+Wil je een vakje kiezen om dit ontwerp
+op te slaan?"
+"2103_a","Terug"
+"2103_b","Ja"
+"2110","Er zijn geen downloadbare eigen
+ontwerpen gevonden die gemaakt
+zijn voor Nintendo 3DS-games.
+
+Ga naar \0NookLink \0￿vanuit de
+Nintendo Switch Online-app om de
+vereiste QR Code te scannen."
+"2120","Je hebt de tab 'Speciale ontwerpen'
+vrijgespeeld."
+"2140","\0Speciale ontwerpen\0￿
+Speciale ontwerpen geven je de kans
+om je ontwerpen nauwkeuriger vorm
+te geven.\0\0Om speciale ontwerpen te maken of aan
+te passen moet je de Eigen ontwerpen-
+app bijwerken. \0\0Zonder update kun je
+speciale ontwerpen alleen dragen.\0￿\0\0Je kunt de Eigen ontwerpen-app
+bijwerken door Nook-miles in te
+wisselen bij het \0NookStation\0￿ in de
+\0servicebalie\0￿."
 "2201","Je rekening is leeg."
 "2202","Je kunt niets meer aan je spaargeld
 toevoegen."
@@ -607,8 +892,102 @@ zakken zijn vol!"
 wordt overgemaakt, gaan alle klingels
 die niet meer op je rekening passen,
 verloren. Wil je toch verdergaan?"
-"2301_a","Nee"
-"2301_b","Ja"
+"2301_a","Nee."
+"2301_b","Ja."
+"2401","Je profiel bevat content die in
+overtreding is met de Nintendo-
+gedragscode. Controleer je pasfoto
+en/of het korte bericht in je paspoort
+en pas deze aan zodat ze geen
+ongemak veroorzaken voor andere
+spelers."
+"2401_a","Ik begrijp het."
+"2421","\0\0Lees dit goed door voordat je
+ontwerpen gaat plaatsen:\0￿
+De eigen ontwerpen die je plaatst,
+kunnen door spelers van over de hele
+wereld worden gezien. Plaats geen
+ontwerpen met content die illegaal is
+of ongemak kan veroorzaken.\0\0Geplaatste ontwerpen kunnen worden
+verwijderd als deze worden beschouwd
+als ongepast en in overtreding met de
+Nintendo-gedragscode."
+"2421_a","Ik begrijp het"
+"2422","Je creatie is geplaatst! Het ontwerp-ID
+is: \0촀\0￿.
+Wil je deze informatie delen op
+sociale media?"
+"2422_a","Nee."
+"2422_b","Ja."
+"2423","Je creatie kon niet worden geplaatst.
+Wil je het opnieuw proberen?"
+"2423_a","Nee."
+"2423_b","Ja."
+"2424","Ben je klaar bij het
+ontwerp-uitwisselpunt?"
+"2424_a","Nee."
+"2424_b","Ja."
+"2425","Wat leuk dat je eigen ontwerpen wilt
+plaatsen. Bedankt daarvoor!\0\0Je bent nu geregistreerd als ontwerper.
+Je ID is \0촀\0￿.
+Je kunt je ontwerper-ID altijd bekijken
+in de Paspoort-app van je NookPhone."
+"2425_a","Oké!"
+"2427","Wil je een ander ontwerp plaatsen?"
+"2427_a","Naar menu."
+"2427_b","Ja, dat wil ik!"
+"2428","Je hebt het maximale aantal eigen
+ontwerpen bereikt dat je kunt plaatsen.
+Kies er een uit om te verwijderen."
+"2428_a","Oké!"
+"2429","Je kunt pas gebruikmaken van het
+ontwerp-uitwisselpunt wanneer je
+zelf een eigen ontwerp hebt gemaakt."
+"2429_a","Oké!"
+"2430","Dit ontwerp is al geplaatst.
+\0\0Je kunt het opnieuw plaatsen
+wanneer je het hebt bewerkt.\0￿"
+"2430_a","Terug"
+"2431","Bezig te zoeken naar eigen ontwerpen..."
+"2432","Je hebt je eigen ontwerper-ID
+ingevoerd. Wil je je eigen ontwerpen
+zien, \0n\0\0￿?"
+"2432_a","Terug"
+"2432_b","Ja"
+"2433","Er zijn geen eigen ontwerpen
+geregistreerd met de ontwerp-ID
+""\0촀\0￿"".
+Wil je de ID wijzigen?"
+"2433_a","Naar menu."
+"2433_b","Wijzigen."
+"2434","Er zijn geen eigen ontwerpen
+geregistreerd voor de ontwerper-ID
+""\0촀\0￿"".
+Wil je de ID wijzigen?"
+"2434_a","Naar menu."
+"2434_b","Wijzigen."
+"2435","Het eigen ontwerp is verwijderd."
+"2436","Kies een ontwerp om te plaatsen."
+"2437","Weet je zeker dat je het ontwerp
+""\0s촀\0￿"" wilt
+verwijderen?"
+"2437_a","Annuleren."
+"2437_b","Verwijderen."
+"2438","Je hebt geen geplaatste ontwerpen."
+"2438_a","Terug"
+"2439","De Eigen ontwerpen-app wordt nu
+geopend. Kies een vakje waar je dit
+ontwerp wilt opslaan."
+"2440","Je hebt het ontwerp-ID van een van
+jouw eigen ontwerpen ingevoerd. Wil
+je jouw eigen ontwerpen bekijken?"
+"2440_a","Terug"
+"2440_b","Ja"
+"2441","Vanwege een fout kon het ontwerp
+niet gedeeld worden op sociale media."
+"2501","Elke speler kan iedere dag maximaal
+twee berichten versturen via de
+Nook-catalogus."
 "3001","Een bon die je in de winkel kunt
 \0verkopen \0￿voor \03000 klingels\0￿.
 \0\0Deze bon is meteen beschikbaar.\0￿"
@@ -661,7 +1040,7 @@ voor bij het klussen aan je eiland.
 voor bij het klussen aan je eiland.
 \0\0Het plan wordt meteen afgedrukt.\0￿"
 "3014","Een pakket om het ontwerp van je
-NookPhone-hoes te veranderen. Je
+NookPhone-hoesje te veranderen. Je
 kunt het bij een \0werkbank\0￿ gebruiken.
 \0\0Je ontvangt het pakket per post.\0￿"
 "3015","Voegt een \0klifvergunning \0￿aan de
@@ -702,7 +1081,7 @@ op het eiland.\0\0Wissel de miles vervolgens in op het
 diverse voordelen en producten.\0\0Leef je eilandleven ten volste en
 verdien \0Nook-miles\0￿!"
 "5012","\0Nook-miles\0￿ met een \0+\0￿!
-Je bent een niveau gestegen,
+Je bent een niveau gestegen
 en kunt nu van de diensten van
 \0Nook-miles+\0￿ gebruikmaken.\0\0Met \0Nook-miles+\0￿ wordt het
 nóg makkelijker om miles
@@ -724,8 +1103,9 @@ doe-het-zelven!"
 Nodig via deze app maximaal drie
 andere spelers uit die op het eiland
 wonen, om mee te spelen in \0Buurten\0￿!
-Voordat je begint, heb je controllers
-voor elke speler nodig."
+Voordat je begint, heb je genoeg
+controllers nodig voor het aantal
+spelers."
 "5051","\0Eigen ontwerpen\0￿
 Met deze app kun je zelf ontwerpen
 maken om op kleding of op het eiland
@@ -774,6 +1154,25 @@ Je wordt dan naar een andere plek
 verplaatst, zoals je huis of de
 servicebalie.
 \0\0Deze dienst kost Nook-miles.\0￿"
+"5101","\0Beste vrienden\0￿
+Je kunt deze lijst gebruiken om te
+zien met welke vrienden en beste
+vrienden je hebt gespeeld.\0\0Bij spelers met wie je beste vrienden
+bent, kun je zien wanneer ze online
+zijn.\0\0Als jij en je beste vrienden online zijn,
+kunnen jullie elkaar via het internet
+berichten sturen.\0\0\0\0Je kunt op  drukken als je niet wilt
+dat anderen kunnen zien wanneer je
+online bent of als je geen berichten
+wilt uitwisselen.\0￿"
+"5102","Je kunt eigen ontwerpen downloaden
+via NookLink door QR Codes te
+scannen die gemaakt zijn in
+Nintendo 3DS-games.
+\0\0Open NookLink in de Nintendo Switch
+Online-app onder 'Gamegebonden
+diensten' voor uitleg over het scannen
+van QR Codes van eigen ontwerpen.\0￿"
 "5111","\0Eilandontwerper\0￿
 Met deze app kun je bouwprojecten
 leiden om je eiland verder te
@@ -795,6 +1194,15 @@ tot de Nook-catalogus dankzij deze
 superhandige app!
 Winkel in je eigen tempo en je eigen
 stijl!"
+"5122","\0Chatgeschiedenis\0￿
+Je kunt deze app gebruiken om de
+chatgesprekken met andere spelers
+waar en wanneer je wilt terug te lezen.
+Misschien heb je niet de kans
+gehad om iets te lezen terwijl jullie
+samen aan het spelen waren.\0\0Of je wilt een bericht lezen van een
+van je beste vrienden die ver weg
+woont. Best een handige app, hè?!"
 "5201_00_01","\0\0Buurten\0￿
 In Buurten kunnen eilandbewoners
 samen spelen. Eén speler is de leider
@@ -818,16 +1226,15 @@ in de \0recyclekist \0￿bij de \0servicebalie\0￿."
 \0Leider\0￿
 \0\0￿ NookPhone openen
 \0\0￿ Camera / Ander gereedschap
-
 \0Volgers
 \0￿ Gereedschap gebruiken/wisselen"
 "5201_00_03","\0Horizontale Joy-Con-besturing leider\0￿
-\0\0￿ Nookphone openen / \0 \0￿Emoties
+\0\0￿ NookPhone openen / \0 \0￿Emoties
 \0\0￿ Camera / Ander gereedschap
-
 \0Horizontale Joy-Con-besturing volgers
 \0￿ Gereedschap gebruiken/wisselen
-\0 \0￿Emoties / \0\0￿ Emotie herhalen"
+\0\0￿ Oppakken
+\0 \0￿Emoties / \0 \0￿Geleerde emotie herhalen"
 "5201_00_04","\0\0Besturing
 \0￿\0Leider\0￿
 Dezelfde besturing als bij normaal
@@ -840,7 +1247,8 @@ Dezelfde besturing als bij normaal
 spelen.
 \0Besturing voor volgers
  \0￿Gereedschap gebruiken/wisselen
-\0 \0￿Emoties / \0 \0￿Emotie herhalen"
+\0 \0￿Oppakken
+\0 \0￿Emoties / \0 \0￿Geleerde emotie herhalen"
 "5201_01","\0\0Buurten\0￿
 In Buurten kunnen eilandbewoners
 samen spelen. Eén speler is de leider
@@ -864,7 +1272,6 @@ in de \0recyclekist \0￿bij de \0servicebalie\0￿.
 \0Leider\0￿
 \0\0￿ NookPhone openen
 \0\0￿ Camera / Ander gereedschap
-
 \0Volgers
 \0￿ Gereedschap gebruiken/wisselen"
 "5201_02","\0\0Buurten\0￿
@@ -887,12 +1294,12 @@ meubels verplaatsen en de leider hel-
 pen. Zelfgemaakte voorwerpen komen
 in de \0recyclekist \0￿bij de \0servicebalie\0￿.
 \0Horizontale Joy-Con-besturing leider\0￿
-\0\0￿ Nookphone openen / \0 \0￿Emoties
+\0\0￿ NookPhone openen / \0 \0￿Emoties
 \0\0￿ Camera / Ander gereedschap
-
 \0Horizontale Joy-Con-besturing volgers
 \0￿ Gereedschap gebruiken/wisselen
-\0 \0￿Emoties / \0\0￿ Emotie herhalen"
+\0\0￿ Oppakken
+\0 \0￿Emoties / \0 \0￿Geleerde emotie herhalen"
 "5201_03","\0\0Buurten\0￿
 In Buurten kunnen eilandbewoners
 samen spelen. Eén speler is de leider
@@ -943,7 +1350,8 @@ Dezelfde besturing als bij normaal
 spelen.
 \0Besturing voor volgers
  \0￿Gereedschap gebruiken/wisselen
-\0 \0￿Emoties / \0 \0￿Emotie herhalen"
+\0 \0￿Oppakken
+\0 \0￿Emoties / \0 \0￿Geleerde emotie herhalen"
 "5202","Gefeliciteerd met de bouw van je
 nieuwe huis! Hier zijn een paar tips
 voor optimaal woongemak:\0\0\0 Licht aan/uit
@@ -961,34 +1369,64 @@ te bergen.
 Als je in je huis bent, kun je meubels
 en andere spullen uit je zakken halen
 om op te bergen in de opslagruimte."
+"5203","\0Chat\0￿ met andere spelers!\0\0Druk op \0 \0￿om aan al je medespelers
+een bericht te schrijven.\0\0Je kunt berichten teruglezen in
+de \0Chatgeschiedenis\0￿-app op je
+NookPhone."
+"5301","Als er bij het buurten een verandering
+wordt gemaakt aan een eigen ontwerp
+dat op dat moment wordt gedragen,
+zie je dit niet direct terug.\0\0Als je het aangepaste eigen ontwerp
+wilt dragen, selecteer het dan opnieuw
+en kies \0DRAGEN\0￿."
+"5302","Een eigen ontwerp dat op dit moment
+wordt gedragen, is overschreven.\0\0Als je het nieuwe eigen ontwerp wilt
+dragen, selecteer het dan opnieuw
+en kies \0DRAGEN\0￿."
+"5303","Een eigen ontwerp maakt deel uit
+van een flitsoutfit. De outfit verandert
+niet als het ontwerp wordt aangepast.\0\0Maar als het eigen ontwerp wordt
+veranderd en je de outfit vervolgens
+aanpast of probeert op te slaan, gaat
+dat deel van de outfit verloren."
+"5304","Deze outfit bevat een eigen ontwerp.
+Het eigen ontwerp zal niet bewaard
+worden. Weet je het zeker?"
+"5304_a","Laat maar..."
+"5304_b","Oké!"
+"5305","\0\0NookPhone-hoesje\0￿
+Met dit pakket kun je het ontwerp
+van je smartphone aanpassen.\0\0Als er een eigen ontwerp op je hoesje
+staat, zal het hoesje niet veranderen
+als je het eigen ontwerp later aanpast."
 "8001","\0Er staan op dit Nintendo Switch-
 systeem bewonergegevens van
 n\0 die niet aan een
 profiel zijn gekoppeld.\0\0Wil je met een bestaande bewoner
 spelen en je profiel eraan koppelen,
 of wil je een nieuwe bewoner maken?\0￿"
-"8001_a","Bestaand"
-"8001_b","Nieuw"
+"8001_a","Bestaand."
+"8001_b","Nieuw."
 "8002","In dat geval begin je de game als
 een nieuwe deelnemer aan het
 Eilandleven-pakket."
 "8003","Momenteel zijn de gegevens van
 \0één bewoner \0￿niet aan een profiel
 gekoppeld."
-"8003_a","Bekijken"
+"8003_a","Bekijken."
 "8004","Momenteel zijn de gegevens van
 \0meerdere bewoners \0￿niet aan
 profielen gekoppeld.\0\0Als welke bewoner wil je spelen?"
-"8004_a","Bekijken"
+"8004_a","Bekijken."
 "8005","Wil je de bewonerselectie opnieuw
 beginnen of de game afsluiten?"
-"8005_a","Afsluiten"
-"8005_b","Opnieuw"
+"8005_a","Afsluiten."
+"8005_b","Opnieuw."
 "8006","Sluit de game af via het HOME-menu."
 "8007","Wil je als de eilandbewoner
 \0s\0촀 \0￿spelen?"
-"8007_a","Nee"
-"8007_b","Ja"
+"8007_a","Nee."
+"8007_b","Ja."
 "8008","Je speelt de game als de
 eilandbewoner \0n\0\0￿."
 "8009","\0Er staan bewonergegevens van acht
@@ -998,21 +1436,21 @@ het maximale aantal bewoners.\0\0Wil je bewonergegevens wissen en
 als nieuwe bewoner spelen, of spelen
 als een bestaande bewoner die niet
 aan een profiel is gekoppeld?\0￿"
-"8009_a","Bestaand"
-"8009_b","Wissen"
+"8009_a","Bestaand."
+"8009_b","Wissen."
 "8010","Voordat je als nieuwe bewoner kunt
 spelen, moet je de bewonergegevens
 van een bewoner wissen.\0\0Je kunt alleen bewonergegevens
 wissen die niet aan een profiel zijn
 gekoppeld. \0Je kunt de gegevens van
 de eilandwoordvoerder niet wissen.\0￿"
-"8010_a","Bekijken"
+"8010_a","Bekijken."
 "8011","Voordat je als nieuwe bewoner kunt
 spelen, moet je de bewonergegevens
 van een bewoner wissen.\0\0Je kunt alleen bewonergegevens
 wissen die niet aan een profiel zijn
 gekoppeld."
-"8011_a","Bekijken"
+"8011_a","Bekijken."
 "8012","Alleen de bewonergegevens van
 de eilandwoordvoerder van
 n\0 zijn niet aan
@@ -1020,8 +1458,24 @@ een profiel gekoppeld.\0\0Deze gegevens kunnen niet worden
 gewist. Als je de gegevens van een
 ander wilt wissen, start de game dan
 op met het profiel van die bewoner.\0\0Daarna kun je in het titelscherm op
- drukken om de instellingen voor
-opgeslagen gegevens te openen en
-die bewoner te wissen."
+ drukken om de instellingen te
+openen en die bewoner te wissen."
 "8013","Sluit de game af via het HOME-menu
 om dit scherm te sluiten."
+"8014","De Nintendo-account die aan deze
+gebruiker is gekoppeld, is anders
+dan voorheen.\0\0Functies die het internet gebruiken,
+waaronder de lijst 'Beste vrienden',
+worden naar de oorspronkelijk staat
+teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
+\0s\0촀\0￿?"
+"8014_a","Nee."
+"8014_b","Ja."
+"8015","Deze gebruiker is niet gekoppeld
+aan een Nintendo-account.\0\0Functies die het internet gebruiken,
+waaronder de lijst 'Beste vrienden',
+worden naar de oorspronkelijk staat
+teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
+\0s\0촀\0￿?"
+"8015_a","Nee."
+"8015_b","Ja."

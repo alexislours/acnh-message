@@ -427,12 +427,11 @@ de ser un manojo de mocos, ¿sí,
 n\0?"
 "211","(촀\0¡Anda!
 \0 ¿Vives aquí?
-\0 ¡Pues yo
+\0 Pues mira, ¡yo
 también!
 \0 (촀\0Aunque si te digo la verdad,
-\0 
-estoy algo confundido, n\0.
-(
+\0
+estoy algo confundido, n\0.\0\0(
 촀\0Estaba aquí de \0acampada\0￿ intentando
 volver a los orígenes y reconectar
 con la naturaleza, ¿no?
@@ -441,11 +440,11 @@ me acercó a cantarme las virtudes
 del lugar.
 \0 Que me viniera aquí y tal.
 (%촀\0¿Y por qué no?
-\0 Así que me vengo y
-resulta quen\0\0
-\0 (촀\0¡se ha largado!
-\0 O se ha
-evaporado,
+\0 Así que me vengo
+y resulta quen\0\0
+\0 (촀\0¡se ha largado!
+\0
+O se ha evaporado,
 \0 vete tú a saber.
 (5촀\0Pero es igual.
 \0 Soy n
@@ -501,13 +500,20 @@ mi nariz,
 "301","(""촀\0Ah,
 \0 tú eres n\0,
 \0 (4촀\0¿verdad?
-\0 (촀\0Seguro que me recuerdasn\0\0\0\0(5촀\0Soy n
-\0.
-\0 (촀\0Cuando nos vimos en la \0zona de acampada\0￿ me invitaste a vivir aquí.\0\0Pues (촀\0aquí estoy.
-\0 ¡Me acabo de mudar hoy mismo!
-\0 (6촀\0Te veo emocionad2oa,
-\0 así
-que tómate tu tiempo y respira."
+\0 (촀\0A mí me llaman n
+\0.\0\0(
+촀\0Me lo llaman mucho,
+\0 de hecho.
+\0
+Por ejemplo, (%촀\0s\0촀:
+\0 2촀lola\0 conocí cuando vine \0de acampada\0￿.\0\0()촀\0Nos caímos tan bien que me invitó
+a vivir aquí y acepté.
+\0 (촀\0¡Me acabo de
+mudar hoy mismo!
+(6촀\0Te veo emocionad2oa con la noticia,
+\0
+así que tómate tu tiempo para
+procesarla y respira, n\0."
 "302","<"
 "302_01","(""촀\0Buenas,
 \0 (촀\0soy n
@@ -804,15 +810,12 @@ en n\0!"
 \0 (촀\0(Así se dice en francés.)
 (촀\0Ah,
 \0 ¿n\0?
-\0 Un nombre
-muy especial.
+\0 Un nombre muy especial.
 \0 (5촀\0Casi como el mío:
-\0
-n
+\0 n
 \0.\0\0(촀\0Me mudé aquí desde s촀, ¿sabes?\0\0(1촀\0El caso es que, ahora que te
 conozco,
-\0 (6촀\0¡n\0 me
-gusta aún más,
+\0 (6촀\0¡n\0 me gusta aún más,
 \0 n\0!"
 "414","(+촀\0¿Me lo parece a mín\0\0 o no nos hemos
 visto nunca antes?
@@ -984,7 +987,7 @@ me mudé a n\0n\0\0
 de referencia alternativo de 
 촀,
 \0 n\0!\0\0(1촀\0Podríamos ponernos como nombren\0\0
-¡«2\0촀 2&촀atómicoatómica\0»!
+¡«2\0촀 2&촀atómicoatómica\0»!
 \0
 (6촀\0¿Empezamos por planificar una gira?"
 "513","(""촀\0«Ciao»,

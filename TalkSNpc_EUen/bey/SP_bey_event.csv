@@ -199,9 +199,10 @@ one that got awayn\0\0\0\0(촀\0Well, alright. 
 is on till \0Z%촁 n촁\0￿ if the tide decides to
 turn for ya. 
 \0Cruise by whenever."
-"025","Uhn\0\0you've got \0Z 2*Āpoints
-pointpoints
-\0￿right now."
+"025","Hmmn\0\0
+\0 You've got \0Z
+2*Āpoints
+pointpoints\0￿ in your pool, son"
 "026","(""촀\0What up, flyfisher! 
 \0Wanna dip those
 toes in the \0Fishing Tourney\0￿?
@@ -401,7 +402,7 @@ my followers keep followin'.
 \0( (촀\0Win-win!"
 "049_a","Let's sell some fish!"
 "049_b","Swap my points for swag!"
-"049_c","There's something else..."
+"049_c","About the tourney..."
 "049_d","('촀\0Nah. I'm good."
 "050","(촀\0Fintastic! 
 \0What're you sellin'?"
@@ -456,16 +457,23 @@ but them's the breakwaters. 
 "061","(촀\0Uhn\0\0
 \0 I love your passion, but it
 looks like your Bells are runnin'
-kinda shallow. 
-\0Nyuk!\0\0()촀\0After your first run, it's Z
-to enter. 
-\0The fee keeps the fish fund
-funded and all that fun fin fluff."
+kinda shallow! 
+\0Nyuk!\0\0()촀\0That fee keeps the fish fund funded
+and all that fun fin fluff, friend.
+\0(
+(2촀\0\0Phew, that's hard to say!\0￿"
 "062","(촀\0YES! 
 \0Nobody can resist the siren
-song of the \0Fishing Tourney\0￿. 
-\0That'll
-be Z for the entry fee."
+song of the \0Fishing Tourney\0￿.\0\0One thing.
+\0 ()촀\0Since you already sailed
+the tourney seas today, I gotta have
+Z for your entry fee. 
+\0Cool?"
+"062_01","(촀\0Knew you'd be on board!
+\0
+That'll be Z."
+"062_a","(%촀\0Very cool!"
+"062_b","('촀\0No, thanks."
 "063","()촀\0Alright, I'm gonna spray \0Z\0 minutes
 \0￿on the clock for you to catch as many
 fish as you can.\0\0(촀\0
@@ -485,7 +493,7 @@ too.
 \0 There's a bonus that'll
 backstroke in if you manage
 to catch \0at least Z fish\0￿. 
-\0Nyuk!\0\0(촀\0Onboard with all that?
+\0Nyuk!\0\0(촀\0On board with all that?
 \0(
 (촀\0Then let's launch!"
 "065","($촀\0Aye aye!"
@@ -846,7 +854,7 @@ bonus wadin' in at \0Z
 Reel nice!"
 "150","(\0촀\0Alright, it looks like the total haul for
 everyone wasn\0\0
-\0(%촀\0\0Z	 fish\0￿, with a co-op
+\0(%촀\0\0Z	 fish\0￿, with a co-op
 bonus wadin' in at \0Z
  or more fish\0￿.\0\0(촀\0And YOU caught \0Z fish\0￿ with a solo
 bonus floatin' in at \0Z or more fish\0￿."
@@ -874,6 +882,52 @@ pointpoints\0￿!"
 you can swap 'em for some slick
 fish swag.
 \0( (촀\0Give it a whirl!"
+"156","Alright. 
+\0Looks like there weren\0\0
+\0
+\0Z fish \0￿bathing in the \0cooler\0￿.
+\0 (촀\0You
+got a reel angle on anglin'. 
+\0Nice!"
+"156_01","( 촀\0Oh, hey. 
+\0The cooler can tilt if you
+stick over 20 fish in there.
+\0( (%촀\0I didn't
+want it capsizin', so I took a few out.\0\0(6촀\0Don't worry. 
+\0I shipped 'em off to a
+way-slick fish sanctuary. 
+\0They're
+gonna love it there. 
+\0Nyuk 
+\0nyuk!\0\0()촀\0You're still gonna net points for
+everything, so I hope we're still
+on an even keel."
+"157","(촀\0Anywave! 
+\0On top of the standard \0Z
+points \0￿you earned, you'll also get a
+bonus for catchin' \0Z or more fish\0￿!\0\0(9촀\0Oh, and the total haul for everyone
+wasn\0\0
+\0(%촀\0 \0Z	 fish\0￿, with a co-op bonus
+wadin' in at \0Z
+ or more\0￿."
+"158","(촀\0Anywave! 
+\0On top of the standard \0Z
+points\0￿ you earned, you'll also get a
+bonus for haulin' in \0Z or more fish\0￿!"
+"159","(6촀\0Yo! 
+\0What up! 
+\0I'm \0C.J.\0￿, and I'm here
+anchorin'n\0\0
+\0(촀\0the \0FISHING TOURNEY\0￿!
+\0(
+It's the apex of
+\0(9촀\0—hang on a sec.\0\0(&촀\0Didn't I see you anglin' up a storm
+earlier? 
+\0Yeah, I did!
+\0( (%촀\0You're really
+castin' yourself out there!\0\0(촀\0So how was it? 
+\0Have fun? 
+\0Nyuk!"
 "160","(%촀\0The fish that everyone caught are all
 partyin' in the \0cooler\0￿. 
 \0You can sort
@@ -944,10 +998,11 @@ another run? 
 "166","(""촀\0Simple, right? 
 \0And you can enter
 as many times as you like.\0\0(3촀\0So! 
-\0Ready to get your feet wet in the
-\0Fishing Tourney\0￿? 
+\0The \0Fishing Tourney\0￿! 
+\0Ready to
+get your feet wet? 
 \0It's your first run
-as \0Leader\0￿, so the entry fee is waived."
+today as \0Leader\0￿, so no entry fee."
 "166_a","Sign me up!"
 "166_b","('촀\0Nah. I'm good."
 "167","(""촀\0Simple, right? 
@@ -956,7 +1011,7 @@ as many times as you like.\0\0(3촀\0So! 
 \0You ready to dip your toes in the
 \0Fishing Tourney\0￿? 
 \0It's your first run
-as \0Leader\0￿, so the entry fee is waived."
+today as \0Leader\0￿, so no entry fee."
 "167_a","Sign me up!"
 "167_b","What're the rules?"
 "167_c","Swap my points for swag!"
@@ -1000,9 +1055,9 @@ Can't wait for the next one!"
 "170_a","Swap my points for swag!"
 "170_b","('촀\0I'm just hangin' out."
 "171","(3촀\0Ready to chart a course to
-\0Fishing Tourney\0￿ glory?\0\0(촀\0Since it'll be your first run as
-\0Team Leader\0￿, there's not gonna
-be an entry fee. 
+\0Fishing Tourney\0￿ glory?\0\0(촀\0Since it'll be your first run today
+as \0Team Leader\0￿, the entry fee is
+waived. 
 \0Nyuk!"
 "171_a","Sign me up!"
 "171_b","What're the rules?"

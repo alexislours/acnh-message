@@ -1,18 +1,16 @@
 ﻿"label","text"
 "001","(촀\0Bist du auch beim \0Insektikus-Turnier\0￿
 dabei, 
-\0n\0?\0\0(\0촀\0Mach vorher schön die Tasche leer,
-damit du genug Platz für Insekten
-hast.
-(촀\0Sonst musst du sie nur wieder
-freilassen.
-\0(촀"
+\0n\0?\0\0()촀\0Ich werde so viel fangen, 
+\0dass der
+Insektenkäfig aus den Nähten platzt.
+
+\0(촀\0\0Carlson\0￿ wird Augen machen!"
 "002","\0(촀\0Carlson\0￿ kauft wohl alle Insekten,
-die man ihm bringt.\0\0(
+die man ihm bringt, 
+\0n\0.\0\0(
 촀\0Außerdem zahlt er angeblich auch
-höhere Preise als der Laden.
-\0
-(&촀\0Glaubst du, er isst sie auf?
+höhere Preise als der Laden.\0\0(&촀\0Glaubst du, er isst sie auf?
 \0
 Ich weiß, er sagt,
 \0 dass er das
@@ -20,8 +18,9 @@ nicht tut...\0\0(촀\0Aber ich sage auch von vielen
 Dingen, die ich tue, 
 \0dass ich sie
 NICHT tue..."
-"003","Manche Insekten machen schnell die
-Mücke, wenn man sie erschreckt,
+"003","()촀\0Manche Insekten machen schnell die
+Mücke, 
+\0wenn man sie erschreckt,
 \0
 aber da gibt's einen Trick!
 (9촀\0Wenn du ein Insekt siehst, 
@@ -31,7 +30,8 @@ deinen Kescher ganz,
 \0(
 Schleich dich laaaangsam an 
 \0undn\0\0\0\0Bring den Kescher runter.
-\0 Sei eins mit deinem Kescher.
+\0 Sei eins
+mit deinem Kescher.
 \0 Fang das Insekt.\0\0(\0촀\0Ganz genau.
 \0 Fang das Insekt.
 \0

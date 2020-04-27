@@ -7,11 +7,11 @@
 \0 (촀\0Je savais que c'était une mission pour toi!"
 "004","( 촀\02\02\0}\0\0! 
 \0Ça vaut cher,
-\0 (&촀\0tu es sûr2\0e que tu ne veux pas 2촀lela\0 garder?"
+\0 (&촀\0tu es sûr2\0e que tu ne veux pas 2촀lela\0 garder?"
 "004_a","(\0촀\0Mais non, prends!
-C'est pour toi!"
-"004_b","(\0촀\0Hmm, rends-2촀lela\0-moi...
-(\0촀\0Si, je vais 2촀lela\0 garder..."
+(\0촀\0C'est pour toi!"
+"004_b","(\0촀\0Hmm, rends-2촀lela\0-moi...
+(\0촀\0Si, je vais 2촀lela\0 garder..."
 "005","(촀\0Tu ne sais pas à quel point ça me
 fait plaisir!
 \0( (촀\0J'ai l'impression d'être
@@ -73,21 +73,21 @@ ramener n'importe quel insecte que
 tu verras sur une souche!"
 "021","(촀\02\02\0}촀!
 \0 
-\0Je ne pensais pas en revoir 2촀unune\0 un jour!"
+\0Je ne pensais pas en revoir 2촀unune\0 un jour!"
 "022","(촀\0Ça alors!
-\0 C'est 2촀luielle\0!
+\0 C'est 2촀luielle\0!
 \0(촀\0 C'est 2\0}촀 que j'attendais!"
 "023","(촀\0Waouh, 
-\0regarde-moi 2촀ce
+\0regarde-moi 2촀ce
 cette\0 magnifique }\0\0! 
 \0((촀\0Tu as fait une heureuse, tu sais!"
 "024","(촀\02\02\0}\0\0? 
 \0(Un poisson aussi précieuxn\0\0 pour moi?
 \0 (%촀\0Il vaut son pesant d'or, tu sais."
 "024_a","Bien sûr, pour toi!
-Rien que pour toi!"
+(\0촀\0Rien que pour toi!"
 "024_b","(\0촀\0Ah, je le garde alors.
-(\0촀\0Je vais le garder..."
+Je vais le garder..."
 "025","(촀\0Si tu savais à quel point je suis
 heureuse!
 \0( (촀\0Si je suis en train de
@@ -126,7 +126,7 @@ il se doit."
 (\0촀\0D'ailleurs,
 \0 ($촀\0je tiens à te remercier."
 "041","(%촀\0Je n'ai pas su résister.
-\0 C'est 2\0}\0. (4촀\0Je l'ai choisi2촀\0e\0 rien que pour toi."
+\0 C'est 2\0}\0. (4촀\0Je l'ai choisi2촀\0e\0 rien que pour toi."
 "042","(%촀\0J'ai pensé que tu serais ravi2\0e d'avoir
 2\0}\0.
 \0 (4촀\0En tout cas, je suis ravie de l'offrir."
@@ -135,10 +135,10 @@ il se doit."
 \0 (7촀\0je tenais à ce que tu l'aies."
 "044","(촀\0Je tenais à te donner ça.
 \0 C'est 2\0}\0.
-\0 (7촀\0J'espère qu'2촀ilelle\0 te plaît!"
+\0 (7촀\0J'espère qu'2촀ilelle\0 te plaît!"
 "045","(%촀\02\02\0}\0.
-\0( (촀\0Tu l'as amplement mérité2촀\0e\0!"
-"046","(%촀\0Tu as plus que mérité 22촀ce petitcette petite\0 (촀\0}\0,
+\0( (촀\0Tu l'as amplement mérité2촀\0e\0!"
+"046","(%촀\0Tu as plus que mérité 22촀ce petitcette petite\0 (촀\0}\0,
 \0 2(mon chérima chérie."
 "051","(""촀\0Ça valait la peine d'attendre."
 "052","(촀\0C'est vrai?!"
@@ -266,9 +266,9 @@ doucement.
 촀\0Je suis sûre qu'il y en a sur la plage.
 \0
 Attention,
-\0 2촀ils
+\0 2촀ils
 elles\0 sont rapides.
-\0 2촀Ils
+\0 2촀Ils
 Elles\0
 
 \0((촀\0me filent toujours entre les pattes."

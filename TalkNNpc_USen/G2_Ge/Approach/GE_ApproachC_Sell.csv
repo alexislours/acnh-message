@@ -22,19 +22,19 @@ I need some Bells. 
 \0
 Soooo, 
 \0I'm selling some stuff!\0\0(8촀\0I'll show you four things and, if you
-see anything you want, (촀\0it'd be
-awesome if you'd buy it from me!"
+see anything you want,
+\0 (촀\0don't be shy!"
 "003_a","(\0촀\0Show me!"
 "003_b","No, thanks."
 "004","(촀\0Hey, n\0!
 \0 I just got
 2\0}\0\0,
-and now there's a problem!\0\0(촀\0I've already got more than I need.
-\0 I
-know, right?
+and there's a problem!\0\0(촀\0I've already got more than I need.
+\0
+I know, right?
 \0(
-촀\0 It'd be a waste to throw
-it away, so want to buy this from me?"
+촀\0 Feel like buyin' stuff
+from me, like, now?"
 "004_a","(\0촀\0How much?"
 "004_b","Nope, sorry."
 "005","(촀\0Oh, uhn\0\0
@@ -44,17 +44,17 @@ ask somebody else!"
 \0 (촀\0No worries, though!
 I'll ask someone else."
 "007","('촀\0No prob! 
-\0It's a super sudden thing
+\0It's a super-sudden thing
 to ask. 
-\0(촀\0I'm going to look around.
-
-\0Somebody'll want it! 
+\0(촀\0I'll look around. 
+\0Somebody's
+gotta be interested! 
 \0'K, byeee!"
 "008","(촀\0Really?
-\0 Ugh! Where am I going to put
-this?
-\0 (촀\0Well, OK. I'll go see if anyone
-else is interested. Bye!"
+\0 Ugh! My place is already
+packed.
+\0 (촀\0Well, OK. I'll go see if
+anyone else is interested. Bye!"
 "009","(촀\0Thanks!\0\0(촀\0Hold up!
 \0 You don't have enough
 Bells!

@@ -33,11 +33,13 @@ all kinds of cards at the \0card stand\0￿!"
 you're 
 \0(&촀\0n\0, right?\0\0(촀\0It's a small island. 
 \0((촀\0Word gets around."
-"001_03_02","I just got a \02\0Ā촃Nook Miles Ticket \0￿from
+"001_03_02","()촀\0I just got a \02\0Ā촃Nook Miles Ticket \0￿from
 \0Tom Nook\0￿ with ""n\0""
-written on it, which makes it yours.\0\0So if you want to use this ticket,
+written on it, 
+\0(촀\0which makes it yours.\0\0(%촀\0So if you want to use this ticket,
 you just gotta say the magic words
-""\0I wanna fly!\0￿"" Got it?"
+""\0I wanna fly!\0￿""
+\0(촀\0 Got it?"
 "001_03_03","(%촀\0So yeah, we've got a lotta services
 here, 
 \0(촀\0but we can only offer 'em to
@@ -178,7 +180,8 @@ got your tools ready and everything.
 "032_b","Actually, I'm good."
 "035","(촀\0So you wanna use your
 \02\0Ā촃Nook Miles Ticket\0￿?
-\0 -촀\0Roger!(\0촀"
+\0 -촀\0Roger!
+\02(\0촀"
 "035_01","(촀\0In that case,
 \0 I'll just take this ticket
 I got from \0Tom Nook\0￿n"
@@ -244,6 +247,10 @@ so please read the whole thing."
 the yawnfest there.
 \0(촀\0 Let's move on to
 the next stepn"
+"092","(촀\0Sounds good!\0\0(2촀\0Oh, and sorry if we showed you this
+before,
+\0 but the legal eagles say we
+gotta before someone plays online."
 "101","(&촀\0You wanna head to a nearby island
 on \0local play\0￿,
 \0 or some far-off 
@@ -270,10 +277,10 @@ wanna go to?"
 "104_a","Let's fly!"
 "104_b","Try searching again."
 "104_c","Actually, I'm good."
-"105","(9촀\0OK, I found the placen\0\0
-\0but it's at full
-capacity and(촀\0 s촀's
-not taking visitors right now."
+"105","(9촀\0OK, I found a place called
+s촀n\0\0
+\0(촀\0but it's at full
+capacity and not taking visitors."
 "105_a","Can you check again?"
 "105_b","I'll try another time."
 "106","(촀\0Hang on!
@@ -373,8 +380,8 @@ right now?"
 "117_02_a","Can you check again?"
 "117_02_b","Let's try another time."
 "118_01","(7촀\0See, 
-\0we can't take off for an island
-if someone there is in the middle of
+\0we can't take off from an island
+if someone here is in the middle of
 talking or workin' on something.
 (%촀\0If you try a few times and it keeps
 not connecting,
@@ -386,8 +393,8 @@ host a different way,
 \0 it might be
 quicker to send 'em a message!
 (
-촀\0Maybe something like, ""\0I wanna go
-home,
+촀\0Maybe something like, ""\0I wanna take
+off,
 \0 but first I need you to stop
 chatting and close your NookPhone\0￿.""
 (촀\0Just be sure to be diplomatic about
@@ -398,8 +405,9 @@ phone sometimes, right?"
 right now?"
 "118_02_a","Can you check again?"
 "118_02_b","Let's try another time."
-"120","(촀\0You got it!
-\0( ($촀\0Openin' the gate now."
+"120","(촀\0Alright, here we go!
+\0( ($촀\0Openin' the
+gate now."
 "120_01","(촀\0Looks like you're busy doing
 \0Island Designer \0￿stuff.\0\0()촀\0Sorry, but the regs say we can't let
 you use the \0Island Designer \0￿app
@@ -445,6 +453,14 @@ to the ol' internet for some online
 play, thenn"
 "130_a","Roger!"
 "130_b","Actually, never mind."
+"140","(촀\0Well, dang. 
+\0Someone went (촀\0and
+closed the gate over there."
+"150","(&촀\0You wanna try going someplace
+else?
+\0(\0촀\0 I can search again."
+"150_a","Try searching again."
+"150_b","Let's try another time."
 "200","(촀\0Hey there again!
 \0( (&촀\0What can I do
 you for?"
@@ -457,9 +473,17 @@ you for?"
 you for?"
 "201_a","Please open the gate."
 "201_b","End communications."
-"201_c","I forgot my Dodo Code."
+"201_c","I forgot my Dodo Code™."
 "201_d","Actually, I want to travel."
 "201_e","('촀\0I'm good, thanks."
+"202","(촀\0Hey there again!
+\0( (&촀\0What can I do
+you for?"
+"202_a","Please open the gate."
+"202_b","End communications."
+"202_c","I forgot the Dodo Code™."
+"202_d","Actually, I want to travel."
+"202_e","('촀\0I'm good, thanks."
 "210","(촀\0Hey there again!
 \0( (&촀\0What can I do
 you for?"
@@ -470,9 +494,16 @@ you for?"
 \0( (&촀\0What can I do
 you for?"
 "211_a","Please close the gate."
-"211_b","I forgot my Dodo Code."
+"211_b","I forgot my Dodo Code™."
 "211_c","Actually, I want to travel."
 "211_d","('촀\0I'm good, thanks."
+"212","(촀\0Hey there again!
+\0( (&촀\0What can I do
+you for?"
+"212_a","Please close the gate."
+"212_b","I forgot the Dodo Code™."
+"212_c","Actually, I want to travel."
+"212_d","('촀\0I'm good, thanks."
 "220","( 촀\0Oh, so instead of having visitors,
 
 \0(&촀\0you wanna do some traveling?"
@@ -488,7 +519,16 @@ have any visitors, so no problem!"
 \0The code right
 now is
 \0(촀\0 ""\0n\0\0￿""!"
-"251",""
+"224","(%촀\0Sure thing! The code right now
+is
+\0 (촀\0""\0n\0\0￿""!"
+"251_01","(촀\0You got it, friend.
+\0( (\0촀\0Prepare for
+radio silence. 
+\0I'm turning off
+communications!"
+"251_02","(촀\0Hope you'll be back to use our
+services again soon!"
 "252","(%촀\0Gotcha.
 \0 If you want to let more
 company in,
@@ -506,14 +546,26 @@ island."
 \0(&촀\0 is there anything I can
 do to help you out?"
 "301_a","Please open the gate."
-"301_b","I forgot my Dodo Code."
+"301_b","I forgot my Dodo Code™."
 "301_c","('촀\0I'm good, thanks."
 "302","By the way,
 \0(&촀\0 is there anything I can
 do to help you out?"
 "302_a","Please close the gate."
-"302_b","I forgot my Dodo Code."
+"302_b","I forgot my Dodo Code™."
 "302_c","('촀\0I'm good, thanks."
+"303","By the way,
+\0(&촀\0 is there anything I can
+do to help you out?"
+"303_a","Please open the gate."
+"303_b","I forgot the Dodo Code™."
+"303_c","('촀\0I'm good, thanks."
+"304","By the way,
+\0(&촀\0 is there anything I can
+do to help you out?"
+"304_a","Please close the gate."
+"304_b","I forgot the Dodo Code™."
+"304_c","('촀\0I'm good, thanks."
 "305","By the way,
 \0(&촀\0 is there anything I can
 do to help you out?"

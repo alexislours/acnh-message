@@ -7,7 +7,7 @@ of n\0?"
 "001_b","Is it one of those?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(3촀\0n\0\0You win this round.
 \0( ()촀\0Anyway, 
 \0yep,
@@ -52,10 +52,12 @@ get almost anything there!"
 They're still getting everything set
 up, but some dayn\0\0
 \0 (촀\0Some day!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(""촀\0You gotta check out our \0museum\0￿.
 \0(
 (촀\0It's, like,
@@ -80,56 +82,52 @@ our 
 out the 
 
 at the \0museum\0￿'s fossil exhibit!"
-"101","<\0fi"
-"102","(촀\0You just couldn't stay away, could
+"201","<\0ÊÒ"
+"202","(촀\0You just couldn't stay away, could
 you?
 \0( (촀\0So which is it—you here to see
 n\0, 
 \0or see me?"
-"102_a","You, of course!"
-"102_b","I missed this place."
-"103","(촀\0Seriously?! 
+"202_a","You, of course!"
+"202_b","This island's great..."
+"203","(촀\0Seriously?! 
 \0I mean, I was kinda
 joking, butn\0\0
 \0 (2촀\0Aww! Thanks!\0\0(%촀\0Hey, if you EVER need something,
 \0(
 ((촀\0I'll be there in a heartbeat."
-"104","(촀\0Hey! 
+"204","(촀\0Hey! 
 \0C'mon! 
 \0((촀\0Like, 
 \0lie to me
-or something, n\0.\0\0(촀\0Totally can't can blame you, though.
+or something, n\0.\0\0(%촀\0Totally can't blame you, though.
 \0
 2\0n\0's super nice.
-\0
-(%촀\0Plus, everyone here misses you back."
-"105","(촀\02\0n\0! 
+\0(
+($촀\0Thanks for swingin' by."
+"210","(촀\02\0n\0! 
 \0Hey!
-\0( (%촀\0How you
+\0 (%촀\0How you
 been? 
-\0Are you digging your
-new place?"
-"106","<"
-"106_01","($촀\0You being good buddies to your
-neighbors?
-\0( (7촀\0I mean, 
-\0it's you,
-son\0\0
+\0How's stuff goin'
+back in n	\0?"
+"211","<"
+"211_01","($촀\0You bein' good to the old crew?
+\0(
+(7촀\0I mean, 
+\0it's you, son\0\0
 \0probably!\0\0(%촀\0Like, all you gotta do is walk up to
 someone and flash that smile.
-\0( (촀\0BAM!
+\0( (촀\0
+\0BAM!
 \0
-Instant friends, n\0!"
-"106_02","(촀\0You plant any flowers over there?
+Everything's good, n\0!"
+"211_02","(촀\0Plant any new flowers over there?
 \0(
 (촀\0Treat 'em right, and they'll treat
 YOU right, n\0!"
-"106_03","($촀\0Got any weird bugs or fish over
-there?
-\0( (
-촀\0I bet there's a few we don't
-have here, n\0!\0\0(1촀\0And now I'm picturing you running
-around, 
-\0eyeballin' out every fish
-and insect you can.
-\0< (6촀\0That's so you!"
+"211_03","I'm lovin' where I am now, butn\0\0
+\0(9촀\0yeah,
+sometimes I miss the old haunts.\0\0(7촀\0One of these days, I oughta go
+back and check out how things
+have changed, n\0."

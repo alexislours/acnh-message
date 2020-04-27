@@ -132,8 +132,8 @@ Dit is ons spelletje.
 \0 Dat
 betekent 
 \0
-(9촀\0dat andere lieverds waar je
-mee speelt niet mogen helpen.
+(9촀\0dat andere lieverds met wie
+je speelt, niet mogen helpen.
 È\0
 (""촀\0Dus, 
 \0
@@ -181,7 +181,7 @@ hebt,
 \0 (""촀\0zou je dan misschien
 schattenjacht met mij willen spelen?"
 "101_a","Ja, dat klinkt goed!"
-"101_b","Misschien een andere keer."
+"101_b","(\0촀\0Misschien een andere keer."
 "102","( 촀\0O!
 \0 2\0n\0!
 \0( (촀\0Perfecte timing.\0\0(&촀\0Voel je de behoefte wat spanning

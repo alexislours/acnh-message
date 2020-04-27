@@ -14,11 +14,9 @@ Je suis là,
 \0 comme convenu !
 x"
 "005","2\0n\0 ?
-\0 Est-ce que tu
-es là ?
+\0 Est-ce que tu es là ?
 \0 Ne sois pas timide !
-\0 C'est toi
-qui m'as invitée à passer chez toi !
+\0 C'est toi qui m'as invitée à passer chez toi !
 x"
 "006","Coucou !
 \0 2\0n\0 !
@@ -48,10 +46,8 @@ d'être là, n\0.
 x"
 "011","(촀\0Bonjour, 
 \0n\0 !
-\0 (2촀\0Je ne
-sais pas ce qui m'a pris,
-\0 mais je me
-suis levée aux aurores aujourd'hui !"
+\0 (2촀\0Je ne sais pas ce qui m'a pris,
+\0 mais je me suis levée aux aurores aujourd'hui !"
 "012","(촀\0Bien le bonjour !
 \0 (2촀\0Je suis honorée
 de voir que tu m'as attendue, n\0 !"
@@ -115,7 +111,7 @@ dirais qu'on profite d'être ici pour
 jouer à un petit jeu,
 \0 toi et moi ?"
 "202_a","Bonne idée !"
-"202_b","Ça ira, je pense."
+"202_b","(\0촀\0Ça ira, je pense."
 "203","(8촀\0Vraiment ?
 \0 (""촀\0Enfin, 
 \0ce n'est pas grave.

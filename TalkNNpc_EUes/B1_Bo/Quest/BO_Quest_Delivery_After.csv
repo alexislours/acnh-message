@@ -1,14 +1,12 @@
 ﻿"label","text"
 "001","(촀\0Oye, n\0n\0\0
-\0 ¡Gracias
-por devolverle a s촀
-lo que me prestó!"
+\0 ¡Gracias por devolverle a s촀 lo que me prestó!"
 "002","(촀\0Una cosita, n\0n\0\0
 \0
 ¿Le devolviste a s촀
 lo que te pedí?
-(4촀\0¿L2촀oa\0 notasten\0\0
-\0 enfadad2촀oa\0?
+(4촀\0¿L2촀oa\0 notasten\0\0
+\0 enfadad2촀oa\0?
 \0(
 (\0촀\0Me has hecho un favorazo con esto.
 \0
@@ -23,7 +21,7 @@ pasando un pocon\0\0
 "004","(
 촀\0La verdad es que ya me estaba
 retrasando con la devoluciónn\0\0\0\0(촀\0¿Estaba s촀 muy
-enfadad2촀oa\0?"
+enfadad2촀oa\0?"
 "004_a","(\0촀\0Pues mira..."
 "004_b","(\0촀\0Se me ha olvidado"
 "005","(촀\0¡¿Quéee?!
@@ -109,9 +107,7 @@ devolviste lo que se olvidó?"
 "105","(촀\0¿Que se te ha olvidado?
 \0(
 (\0촀\0Jo, n\0n\0\0
-\0 Pues me
-hacía ilusión enterarmen\0\0
-(촀\0¡Aunque lo que más mola es haber
+\0 Pues me hacía ilusión enterarmen\0\0\0\0(촀\0¡Aunque lo que más mola es haber
 podido devolverle por fin lo que
 se dejó en mi casa!"
 "106","(촀\0¡¿Lo has abierto?!
@@ -158,7 +154,7 @@ Qué gracios2oa eres a veces,
 n\0n\0\0
 (&촀\0¿Qué habría dentro?\0\0(%촀\0Bueno, ya le pregunto
 a s촀 la próxima
-vez que 2촀lola\0 vea."
+vez que 2촀lola\0 vea."
 "206","(촀\0¡¿Lo hasn\0\0
 \0 abierto?!
 \0( (촀\0Pero si era
@@ -314,21 +310,19 @@ es todo un honorn\0\0
 \0
 n\0!"
 "401","(촀\0Oye, n\0n\0\0
-\0 Gracias
-por darle a s촀
-el detalle que le había preparadon"
+\0 Gracias por darle a s촀 el detalle que le había preparadon"
 "402","(촀\0Buenon\0\0 
 \0¿qué tal ha ido todo?
 \0
 (&촀\0¿Tenía s촀 pinta
-de estar aún enfadad2촀oa\0?"
-"402_a","Ah, cierto..."
+de estar aún enfadad2촀oa\0?"
+"402_a","('촁\0Para nada"
 "402_b","(\0촀\0Se me ha olvidado"
 "403","(촀\0Bueno, 
 \0¿cómo ha ido la cosa?
 \0(
 ¿s촀 estaba aún
-enfadad2촀oa\0?"
+enfadad2촀oa\0?"
 "403_a","(\0촀\0Pues mira..."
 "403_b","(\0촀\0Se me ha olvidado"
 "404","(촀\0¡¿Que se te ha olvidado?!
@@ -369,7 +363,7 @@ di a s촀?\0\0('촀\0Pues casi mejor lo hago yon\0\0
 "503","(8촀\0Oyen\0\0
 \0 veo que no le has repartido
 a s촀 eso que te di
-para 2촀élella\0n\0\0\0\0(\0촀\0¿Podrías devolvérmelo?
+para 2촀élella\0n\0\0\0\0(\0촀\0¿Podrías devolvérmelo?
 \0
 (촀\0Creo que,
 \0 si se lo doy yo
@@ -434,10 +428,8 @@ que no es tuyo,
 \0 n\0n"
 "512","(촀\0¡¿Por qué está esto abierto?!\0\0(촀\0Ahora hay que volver
 a envolverlooon\0\0\0\0(9촀\02\0n\0,
-\0 no me mola
-nada ponerme serio,
-\0 ¡pero es que
-lo que no es tuyo no se abre!"
+\0 no me mola nada ponerme serio,
+\0 ¡pero es que lo que no es tuyo no se abre!"
 "513","(촀\0¡¿Esto está abierto?!\0\0(촀\0Ahora tengo que volver a envolverlo,
 \0
 ¡con lo que me cuestan a mí estas

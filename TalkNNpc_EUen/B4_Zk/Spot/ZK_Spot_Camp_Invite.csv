@@ -3,6 +3,16 @@
 \0 (7촀\0Well, I'm flattered.\0\0(%촀\0I guess we should go talk to
 \0Resident Services \0￿to see what
 we can do!"
+"003","(&촀\0Youn\0\0you still want me?
+\0 (4촀\0Even after I
+turned you down and—\0\0(2촀\0Unless you've forgotten about that in
+which case there's no need to dredge
+up the past. 
+\0Right?
+(촀\0You know what? Let's do it.\0\0I could use a change of scenery(촀\0 and
+this island could certainly benefit
+from my branding expertise.
+(촀\0Wish me luck at \0Resident Services!\0￿"
 "101","<"
 "101_01","(촀\0Oh, n\0, now I'm torn.\0\0(
 촀\0I've got so much going on back
@@ -143,14 +153,19 @@ in the first place.
 \0(촀\0 I'm moving
 to n	\0!\0\0(6촀\0It's a weird way to make such an
 important life decision, but I've
-done weirder.
+done weirder, n\0.
 (촀\0Did I even tell you my name?
 \0(
 (5촀\0It's n
 \0, in case you
-haven't seen any of my work.
-(촀\0I can't wait to show this n \0
-what I'm capable of, n\0!"
+haven't seen any of my work.\0\0(촀\0You're n\0, right?
+\0( (&촀\0Any
+relation to Chef 2\0n\0,
+the 촀 prodigy?\0\0( 촀\0Hold that thought. 
+\0I gotta jet over to
+\0Resident Services \0￿and make this
+move official!(촀\0
+"
 "206_02","(촀\0Congrats, you win! 
 \0((촀\0And I also win,
 because I get to move here!\0\0(1촀\0When I headline my first show on
@@ -160,21 +175,30 @@ lights will be n
 (6촀\0And the name I'll read first during
 my acceptance speech will be
 n\0. 
-\0That's you, hm?"
+\0That's you, hm?
+(
+촀\0Of course, there are still a few i's to
+dot and t's to cross.
+\0( 촀\0 I better make
+my way to \0Resident Services\0￿ ASAP."
 "206_03","(촀\0Wow, what a lucky run for you!
 \0(
 (4촀\0Guess I better pack my
 bags, n\0.
 (9촀\0For real, though.
 \0 I'm fully planning
-on following through with this.\0\0(7촀\0So, without further adon\0\0
-\0(촀\0the
-name's n
+on following through with this.\0\0(7촀\0And don't forgetn\0\0
+\0
+(촀\0the name's n
 \0.\0\0(%촀\0Arigato for this opportunity,
 n\0. 
 \0That's French
 for grazie, amigo.
-\0 (촀\0Ha HA!"
+\0 (촀\0Ha HA!
+(5촀\0Now, I hope you'll excuse me.
+\0
+(촀\0I have to go beg the kind folks at
+\0Resident Services\0￿ to let me live here!"
 "302","(촀\0Bad news, bud.\0\0('촀\0I talked to \0Resident Services \0￿and the
 real estate sitch here is no bueno.\0\0(촀\0There's actually no room left to
 build new houses, can you believe
@@ -261,35 +285,26 @@ to leave the island?"
 "312","((촀\0Fair enough.
 \0 Don't do anything
 you might regret later, n\0."
-"402","(:촀\0Ohn\0\0 Heyn\0\0\0\0(촀\0Sorry, I just got some bad news
-from \0Resident Services\0￿.\0\0(촀\0My cousin already lives here!
-\0(
-(	촀\0He and I have vowed to never live
-on the same island, so it's a no-go.
-(촀\0Well, like my agent says constantlyn\0\0
-\0(
-('촀\0""You can't always get the part.""\0\0(촀\0But thanks anyway for the invite!"
-"403","(:촀\0Ohn\0\0 Heyn\0\0\0\0(촀\0Sorry, I just got some bad news
-from \0Resident Services\0￿.\0\0(촀\0My cousin is moving heren\0\0today!
-\0(
-(	촀\0He and I have vowed to never live
-on the same island, so it's a no-go.
-(촀\0Well, like my agent says constantlyn\0\0
-\0(
-('촀\0""You can't always get the part.""\0\0(촀\0But thanks anyway for the invite!"
+"313","(촀\0Terrifico!
+\0(4촀\0 Would you mind if I discuss
+the sitch with s촀?\0\0(3촀\0My sources at \0Resident Services\0￿
+assure me 2he'd
+she'd be happy to work
+something out with me."
+"313_a","Go for it!"
+"313_b","Hold on..."
+"314","(촀\0Uh-oh.
+\0 Did I say something wrong?
+\0
+(촀\0Let's just put a pause on this whole
+scheme for now, n\0.
+(촀\0I don't want you going into it with
+any doubts, n\0."
 "404","(:촀\0Ohn\0\0 Heyn\0\0\0\0(촀\0Sorry, I just got some bad news
 from \0Resident Services\0￿.\0\0(촀\0The island is full-up! 
 \0There's no
 more room—not even for celebrity
 invitees like me!
-(촀\0Well, like my agent says constantlyn\0\0
-\0(
-('촀\0""You can't always get the part.""\0\0(촀\0But thanks anyway for the invite!"
-"405","(:촀\0Ohn\0\0 Heyn\0\0\0\0(촀\0Sorry, I just got some bad news
-from \0Resident Services\0￿.\0\0(촀\0The island is full-up! 
-\0There's no
-more room to build even a humble
-four-story castle.
 (촀\0Well, like my agent says constantlyn\0\0
 \0(
 ('촀\0""You can't always get the part.""\0\0(촀\0But thanks anyway for the invite!"
@@ -310,31 +325,7 @@ time, yeah, n\0?"
 "411","(7촀\0I get thatn\0\0
 \0 The world can be an
 unsure place, n\0."
-"421","(
-촀\0I can see why my cousin would
-want to live here.\0\0(9촀\0We've got the same taste in
-everything, from 촀
-to 촀.
-(촀\0But again, having both of us on
-the same island would be TOO
-MUCH, n\0."
-"422","(
-촀\0I can see why my cousin would
-want to live here.\0\0(9촀\0We've got the same taste in
-everything, from 촀
-to 촀.
-(촀\0But again, having both of us on
-the same island would be TOO
-MUCH, n\0."
 "423","(
-촀\0I can't believe your n \0 is so
-popular.
-\0( ('촀\0It almost makes me NOT
-want to move heren\0\0
-(촀\0Nah, who am I kidding.
-\0
-I'm desperate to move here!"
-"424","(
 촀\0I can't believe your n \0 is so
 popular.
 \0( ('촀\0It almost makes me NOT

@@ -8,7 +8,7 @@ Me ha encantado el color."
 ¡gracias!"
 "100_03","(촀\0¡Gracias! 
 \0Estaba pensando
-en comprarme 2촀unouna\0 igual."
+en comprarme 2촀unouna\0 igual."
 "101","(%촀\0Seguro que quedará de maravilla
 en mi casa."
 "102","(촀\0Me gusta que sea tan brillante
@@ -18,6 +18,12 @@ especial a mi puerta."
 "103","(%촀\0Creo que lograré cambiar
 el ambiente de mi hogar con
 esta nueva adquisición."
+"104","\0(
+촀\0(Este objeto me da una sensación
+extraña,
+\0 como si ya lo conocieran\0\0
+\0
+(%촀\0Bah, será cosa mía.)\0￿"
 "111","(촀\0Parece un espécimen alucinante.
 \0
 ¡Gracias, n\0!"
@@ -51,7 +57,7 @@ queda bien."
 \0
 Muchas gracias."
 "207_02","(촀\0Me gusta mucho, ¡gracias!"
-"207_03","(촀\0¡Parece hech2촀oa\0 a mi medida!
+"207_03","(촀\0¡Parece hech2촀oa\0 a mi medida!
 \0
 ¡Muchas gracias!"
 "221","(촀\0Es un detalle,
@@ -63,7 +69,7 @@ de verdad!"
 regalos tan prácticos, n\0."
 "302","(
 촀\0Vaya, tendré que aprender a usar
-un2촀oa\0 de est2촀oa\0s.
+un2촀oa\0 de est2촀oa\0s.
 \0(촀\0 ¡Gracias!"
 "303","(촀\0¡Muchas gracias! 
 \0Ya me vienen
@@ -97,9 +103,8 @@ Menuda pieza."
 "407","(촀\0Gracias, flor. 
 \0Le buscaré un buen
 lugar en mi casita."
-"408","(촀\0¡Qué }\0\0
-tan extraordinari2촀oa\0!"
-"409","(촀\0Muchas gracias por cazarl2촀oa\0 para
+"408","(촀\0¡Qué }\0\0 tan extraordinari2촀oa\0!"
+"409","(촀\0Muchas gracias por cazarl2촀oa\0 para
 mí.
 \0 ¡Me encanta!"
 "410","(촀\0Me hace mucha ilusión,
@@ -110,7 +115,7 @@ un ejemplar de esta especie.
 \0
 (%촀\0Seguro que la isla entera se
 beneficiaría a la larga."
-"411","(촀\0Me parece que en \0Sócrates \0￿aún
+"411","(촀\0Me parece que \0Sócrates \0￿aún
 no dispone de un ejemplar
 como este.
 (촀\0Es un regalo genial, 

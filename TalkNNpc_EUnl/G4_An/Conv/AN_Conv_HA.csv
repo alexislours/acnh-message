@@ -77,7 +77,7 @@ Waar dient al dat bankdrukken toe?\0\0초(촀\02\0n\0! Help me! Waa
 "014_c","('촀\0Kijk niet naar mij..."
 "015","(%촀\0Huh? Deze enorme armen zijn voor
 mezelf?
-\0( (촀\0Ik bedoel, natuurlijk!\0\0()촀\0Daardoor is schoonmaken een eitje!
+\0( (촀\0Ik bedoel, natuurlijk!\0\0촇()촀\0Daardoor is schoonmaken een eitje!
 \0(
 (촀\0Het is superhandig om de bank met
 één hand op te kunnen tillen!"
@@ -86,7 +86,7 @@ over nagedacht.
 \0( (5촀\0Nu wil ik ook wel
 gespierd worden! 2\0n\0!"
 "017","(촀\0Precies! Deze armen zijn puur voor
-de show!\0\0(5촀\0Als ik zo doorga, komt er een
+de show!\0\0(\0촀\0촇Als ik zo doorga, komt er een
 moment dat ik de \0servicebalie\0￿ uit
 zijn voegen trek. Wacht maar af!"
 "018","(촀\0Dat is het op vier na domste ding dat
@@ -96,7 +96,7 @@ wachten!"
 paniek.
 \0( Eh, ik ben zo opgepompt
 wantn\0\0
-\0( (촀\0Ja, ik weet het, n\0!\0\0(5촀\0Ik help anderen graag!
+\0( 촇(촀\0Ja, ik weet het, n\0!\0\0(5촀\0Ik help anderen graag!
 \0 Ik kan zware
 dingen versjouwen en, ehn\0\0
 \0 tips

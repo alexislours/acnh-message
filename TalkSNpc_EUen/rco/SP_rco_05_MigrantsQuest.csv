@@ -114,7 +114,7 @@ andn\0\0(촀\0welln\0\0place the bridge, hm?
 Now, placing bridges can be tricky
 business, so do come see me if you
 have trouble or need advice.\0\0(""촀\0Good luck, n\0!"
-"015_02","(촀\0With your 2\0Ā촃bridge construction kit on
+"015_02","(촀\0With your \02\0Ā촃bridge construction kit\0￿ on
 hand, go to the spot where you'll set
 the bridge, and thenn\0\0
 \0(set the bridge!\0\0Since you're here, would you(&촀\0 like
@@ -229,8 +229,8 @@ mode!"
 "105_01","(촀\0I vow to get this done quickly and
 get it done right!"
 "105_02","(촀\0I vow to get this done quickly and
-to get it done right!\0\0Why, (촀\0if all goes well, we could start
-seeing someone in the new home
+to get it done right!\0\0Why, (촀\0if all goes well, we could
+have someone in a new home
 as soon as tomorrow!"
 "106","(\0촀\0By the way, I plan on letting the
 island know about folks moving in

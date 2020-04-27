@@ -4,6 +4,15 @@ accolta a braccia aperte!\0\0(4촀\0Spero vivamente che il \0centro serv
 \0￿locale mi riservi lo stesso
 trattamento
 \0n"
+"003","( 촀\0Davvero?
+\0 (4촀\0Sai, avevo rifiutato perché
+non mi era sembrata una buona idea,
+ma adesson\0\0
+(%촀\0Bien, ci ho pensato su e credo che
+sia arrivato il momento di fare
+questo grande passo.\0\0(촀\0Andrò a demander al \0centro servizi
+\0￿se posso venire a vivere su questa
+bellissimissima isola, n\0."
 "101","<"
 "101_01","(촀\0Per un'amante dei libri come me,
 sognare è dolcissimissimissimo,
@@ -109,42 +118,38 @@ ma porto con me tanti bei ricordi di
 questa visita 2\0 (촀\0n""\0."
 "206","<"
 "206_01","(촀\0Parbleu, hai vinto!
-\0( (\0촀\0Il che significa
-\0n\0\0
-(!촀\0Che tu e io saremo 2vicinivicine!\0\0( 촀\0Certo, magari è un po' tardi per
-le presentazioni,
-\0 (4촀\0man\0\0 je m'appelle
-n
-\0.
-(촀\0Tu invece sei n\0?
-\0
-(촀\0Spero vivamente che questo sia
-l'inizio 
-\0di una deliziosa amicizia!"
+\0( (\0촀\0Il che significan\0\0
+(!촀\0Che tu e io saremo 2vicinivicine!\0\0(
+촀\0Anche se immagino che prima debba
+andare a informare il \0centro servizi\0￿.
+
+\0((촀\0Ci farò un salto tout de suite!"
 "206_02","(촀\0Acciderbolina, hai vinto tu!
 \0( (;촀\0Forse
 era destino
 \0 che mi trasferissi su
 quest'isola.
-(촀\0E poiché saremo 2vicinivicine,
-\0 mi presento:
-(""촀\0je m'appelle n
-\0.\0\0(&촀\0E tu sei n\0, n'est-ce pas? Deliziata di fare la tua conoscenza.\0\0(촀\0Non vedo l'ora di poter trascorrere
-un po' di tempo insieme, n\0!"
+(
+촀\0Ora non mi resta che rivolgermi
+al \0centro servizi \0￿
+\0per chiedere se
+posso stabilirmi qui. 
+\0(촀\0Ci vado subito!"
 "206_03","(
 촀\0Uhm, probabilmente era destino che
 perdessi,
 \0 così mi sarei trasferita su
 quest'isolan\0\0
-()촀\0Alors, passerei subito alle
-presentazioni,
-\0 visto che finiremo
-per essere presto 2vicinivicine
-\0n\0\0
-(""촀\0Je m'appelle n
-\0.
-(촀\0Tu sei n\0?\0\0(촀\0Sento già che vivere qui sarà
-sublime, n\0!"
+(촀\0Alors, così sia. 
+\0Traslocherò qui non
+appena avrò finito il mio soggiorno
+come campeggiatrice.
+(
+촀\0Oh,
+\0 ma prima sarà meglio che
+vada al \0centro servizi \0￿per ottenere
+il permesso. 
+\0(촀\0Lo faccio subito!"
 "302","(""촀\0Je suis désolée per l'attesa!
 \0( Non ci
 sono buone nuove dal \0centro servizi\0￿,
@@ -215,45 +220,25 @@ facilmente, n\0n"
 \0(촀\0di dover rinunciare
 al proposito, almeno per il momento,
 n\0."
-"402","(""촀\0Je suis désolée per l'attesa!
-\0( (\0촀\0Ho
-chiesto informazioni al \0centro
-servizi\0￿n\0\0\0\0(촀\0Parrebbe che sull'isola viva già
-qualcuno come me,
-\0 (촀\0quindi sono restii
-a permettermi di trasferirmi qui.
-(\0촀\0Acciderbolina che delusione,
-\0 ma
-sono lieta di averci almeno (촀\0provato,
-n\0!"
-"403","(""촀\0Je suis désolée per l'attesa!
-\0( (\0촀\0Ho fatto
-una verifica al \0centro servizi\0￿n\0\0\0\0(촀\0Poiché qualcuno che mi assomiglia
-sta già per trasferirsi qui,
-\0(촀\0 la mia
-presenza darebbe adito a confusione.
-(\0촀\0Acciderbolina che delusione,
-\0 ma
-sono lieta di averci almeno (촀\0provato,
-n\0!"
+"313","(촀\0Dici sul serio? 
+\0((9촀\0Bien, in questo caso
+devo confidarti una cosa che ho
+sentito al \0centro servizi\0￿n\0\0
+(8촀\0A quanto pare, 
+\0qualcuno che si chiama s촀 starebbe pensando di traslocare.\0\0(&촀\0Credi che dovrei parlare direttamente
+con 2촀luilei\0 per averne conferma?"
+"313_a","Certo!"
+"313_b","Meglio di no."
+"314","(촀\0Forse hai raison, probabilmente
+sarebbe un gesto eccessivo.\0\0(촀\0E va bene, vorrà dire che per adesso
+rinuncerò all'idea di trasferirmi qui,
+n\0."
 "404","(""촀\0Je suis désolée per l'attesa!
 \0( (\0촀\0Mi sono
 recata al \0centro servizi\0￿n\0\0\0\0(촀\0Pare che al momento non possano
 accettare nuovi residenti, 
 \0(촀\0donc
 non accetteranno neppure me.
-(\0촀\0Acciderbolina che delusione,
-\0 ma
-sono lieta di averci almeno (촀\0provato,
-n\0!"
-"405","(""촀\0Je suis désolée per l'attesa!
-\0( (\0촀\0Mi sono
-recata al \0centro servizi \0￿per chiedere
-informazionin\0\0
-(촀\0Non vi è alcuno spazio per costruire
-un nuovo pied-à-terre, donc
-\0(촀\0 dicono
-che non posso trasferirmi qui.
 (\0촀\0Acciderbolina che delusione,
 \0 ma
 sono lieta di averci almeno (촀\0provato,
@@ -267,8 +252,8 @@ trasferirmi su questa deliziosa isola,
 n\0!
 (1촀\0Sarà stato l'ottimo tempismo...
 \0(
-oppure il fato a determinare che
-dovessi trasferirmi qui?
+oppure proprio il fato a determinare
+che dovessi trasferirmi qui?
 (촀\0Essere la tua nuova vicina sarà a
 dir poco sublimissimissimissimo,
 n\0!"
@@ -287,20 +272,8 @@ quando sono andata a chiederen\0\0
 precludermi occasioni future adesso,
 \0
 infastidendo ancora il \0centro servizi\0￿!"
-"421","A me non importerebbe affatto poter
-incontrare qualcuno che mi assomigli
-tanto.
-(7촀\0Anche se, riflettendoci attentamente,
-vivere sulla stessa isola potrebbe
-essere complicato, n\0."
-"422","Avere qui due nuovi abitanti quasi
-identici allo stesso tempo
-\0(%촀\0 potrebbe
-essere un gran problema per tuttin"
 "423","Donc, n""\0 dev'essere popolarissimissimissima, 
 \0(촀\0se non possono accettare altri abitanti!"
-"424","Donc n""\0 dev'essere popolarissimissimissima, 
-\0(촀\0se non è possibile costruire altri pied-à-terre!"
 "504","(촀\0Su quest'isola sia il paesaggio che la
 compagnia sono a dir poco sublimi!
 \0

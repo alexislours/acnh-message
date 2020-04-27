@@ -25,8 +25,8 @@ Geburtstag!\0\0(6촀\0Hast du mir vielleicht auch eine
 Fuß erwischen, aber... 
 \0ich würde
 mich über ein Geschenk sehr freuen!"
-"005_a","(\0촀\0Ich hab was für dich!"
-"005_b","(\0촀\0Ich hab leider nichts."
+"005_a","Ich hab was für dich!"
+"005_b","Ich hab leider nichts."
 "006","(촀\0Gute Freunde sind am Geburtstag
 immer gern gesehene Gäste.
 \0
@@ -88,20 +88,19 @@ von dir gefällt, 
 \0
 2\02\0}\0\0?!\0\0(5촀\0Guck mal, 
 \0n\0,
-\0
-genau so 2$촀
+\0 genau so 2$촀
 eineneineeins trage ich gerade!\0\0(%촀\0Gute Freunde haben halt einen
 ähnlichen Geschmack, 
 \0(촀\0n\0!"
 "020","(촀\0Oh!
 \0
 2\02\0}\0\0!\0\0(
-촀\02촀DerDieDas kommt mir doch bekannt vor!
+촀\02촀DerDieDas kommt mir doch bekannt vor!
 \0(
 (촀\0
 
 \0Ah!
-\0 Weil du gerade so 2$촀
+\0 Weil du gerade so 2$촀
 eineneineeins anhast!\0\0
 	\0(촀\0Dann passen wir ja wie Zwillinge
 zueinander! 
@@ -141,8 +140,7 @@ Zweifel, 
 Na klar,
 \0 das ist was, was du
 auswählen würdest!"
-"026","( 촀\02\02\0}\0\0,
-
+"026","( 촀\02\02\0}\0\0, 
 \0ganz nett, 
 \0ja!\0\0(촀\0So langsam kriege ich ein immer
 besseres Gefühl für Sachen,
@@ -178,7 +176,7 @@ Danke!\0\0(7촀\0Unsere Geschmäcker sind wirklich
 sehr ähnlich, 
 \0n\0."
 "031","(&촀\0Huch? 
-\0Eine Bastelanleitung für 2""촀
+\0Eine Bastelanleitung für 2""촀
 eineneineein
 2촁}\0\0,
 \0 oder?\0\0(4촀\0Das ist echt sportlich von dir, 
@@ -197,8 +195,7 @@ besorgt hast, 
 haben, 
 \0Geburtstag hin oder her!
 2\02\0}\0,
-\0
-bitte schön, 
+\0 bitte schön, 
 \0n\0!"
 "049","(촀\0Auch wenn es MEIN Geburtstag istn\0\0
 Ich finde, 
@@ -334,9 +331,8 @@ wiedertreffe, 
 Geschenke. 
 \0Amüsier dich gut!"
 "072","(&촀\02\0n\0?! 
-\0Du bist nach
-n\0 gekommen, um
-mit mir meinen Geburtstag zu feiern?\0\0(촀\0Dass du hergekommen bist, 
+\0Du bist nach n\0 gekommen, 
+\0um mit mir meinen Geburtstag zu feiern?\0\0(촀\0Dass du hergekommen bist, 
 \0ist
 echt das beste aller Geschenke!\0\0(%촀\0Amüsier dich gut! 
 \0(촀\0Schnapp dir ruhig
@@ -375,7 +371,7 @@ wieder.
 \0da bist du ja wieder!
 \0(
 (6촀\0Jetzt bereit zum Geschenkeheben?\0\0(촀\02\02\0}\0 hier ist schwerer, 
-\0als 2촀ersiees aussieht. 
+\0als 2촀ersiees aussieht. 
 \0((촀\0Genau das richtige Workout für dich!
 \0(촀"
 "100","(%촀\0Weißt du, was?

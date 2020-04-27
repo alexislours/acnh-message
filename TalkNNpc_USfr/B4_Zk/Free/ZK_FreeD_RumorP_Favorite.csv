@@ -15,7 +15,7 @@ vais-je bien pouvoir te poser, n\0?"
 (%촀\0Exactement!"
 "010_01_b","('촀\0Non, plus vraiment."
 "010_02","(
-촀\021촀LeLa\0 촀 qui met tes papilles en extase, c'était quoi, déjà?\0\02\02\0촀, c'est bien ça?"
+촀\022촀LeLa\0 촀 qui met tes papilles en extase, c'était quoi, déjà?\0\02\02\0촀, c'est bien ça?"
 "010_02_a","(%촀\0Oui!
 (%촀\0Bien vu!"
 "010_02_b","('촀\0Non, plus vraiment."
@@ -116,7 +116,7 @@ point t'étais doué2\0e pour 촀, n\0.\0\0(1촀\0Si j'avais une 
 surpris d'avoir vu juste, n\0.\0\0()촀\0J'piquais une jasette avec n촀 l'autre jour.\0\0On étalait nos connaissances sur
 pléthore de sujets, dont 2\0촀.\0\0(4촀\0J'en suis venu à parler de toi
 \0((촀\0 et de ta passion pour « ⁠
-촀 »!\0\0(촀\0Alors oui, je parle de ce qui me
+촀 ⁠»!\0\0(촀\0Alors oui, je parle de ce qui me
 r'garde pas, mais j'raconte pas
 n'importe quoi non plus. 
 \0((촀\0Ha HA!"
@@ -128,26 +128,27 @@ jour.\0\0On parlait de nos préférences
 en matière de 촀.\0\0(4촀\0Ton nom m'est venu à l'esprit et
 
 \0((촀\0j'ai parlé de ton goût pour « ⁠
-촀 »!\0\0(5촀\0J'entretiens ta réputation, tu sais.
+촀 ⁠»!\0\0(5촀\0J'entretiens ta réputation, tu sais.
 Alors tout ce qu'il me reste à dire,
 c'estn\0\0(촀\0 de rien!"
 "011_103","(%촀\0Je le sentais en mon for intérieur, n\0!\0\0()촀\0J'étais en profonde discussion avec
 n촀 l'autre jour.
 \0 On discutait ambitions.\0\0(4촀\0J'me suis peut-être emporté
-à répéter que tu voulais devenir « ⁠
+à répéter que tu voulais devenir
+« 
 촀 »!\0\0(촀\0Qui serais-je sans ma mémoire,
 si ce n'est un humble sculpteur,
 poète, scénariste et comédien?"
 "011_104","(촀\0Au moins, j'ai pas mis les pieds dans
 le plat. Me voilà soulagé, n\0.\0\0()촀\0En parlant avec n촀,(4촀\0 j'ai dit que tu aimais « ⁠
-촀 »!\0\0(촀\0Si tu te mets à autre chose,
+촀 ⁠»!\0\0(촀\0Si tu te mets à autre chose,
 comme 촀, préviens-moi, s'il te plaît!"
 "011_105","(촀\0Ha HA!
 \0(촀\0 Moi, j'ai un don inné pour
 savoir de quoi je parle, n\0.\0\0()촀\0L'autre jour, en discutant avec
 n촀, on en est venus à parler talents.\0\0(4촀\0J'ai peut-être mentionné à quel
 point t'étais doué2\0e pour « ⁠
-촀 ».\0\0(1촀\0Si j'avais une once de ton talent pour
+촀 ⁠».\0\0(1촀\0Si j'avais une once de ton talent pour
 촀, j'aurais le monde à mes pattes, n\0."
 "020","(촀\0Y'en a qui font semblant de détester
 les potins.
@@ -178,29 +179,29 @@ de cette frange!\0\0(3촀\0Alors figure-toi que quelqu'un
 (%촀\0Eh oui!"
 "030_05_b","('촀\0Non, plus vraiment."
 "030_101","(8촀\0Y paraît qu'en matière de 촀, tu préfères « ⁠
-촀 »?"
+촀 ⁠»?"
 "030_101_a","(%촀\0Eh oui...
 (%촀\0On peut rien te cacher."
 "030_101_b","('촀\0Non, plus vraiment."
-"030_102","(8촀\021촀TonTa\0 촀 préféré21촀\0e\0 serait
+"030_102","(8촀\022촀TonTa\0 촀 préféré22촀\0e\0 serait
 ce qu'on nomme « ⁠
-촀 »?"
+촀 ⁠»?"
 "030_102_a","(%촀\0Oui, c'est vrai.
 (%촀\0Vrai de vrai, oui."
 "030_102_b","('촀\0Non, plus vraiment."
-"030_103","(8촀\0On dit que tu veux devenir « ⁠촀 ». Est-ce que c'est vrai?"
+"030_103","(8촀\0On dit que tu veux devenir « ⁠촀 ⁠». Est-ce que c'est vrai?"
 "030_103_a","(%촀\0Oui, c'est vrai.
 (%촀\0Ouais!"
 "030_103_b","('촀\0Non, plus vraiment."
 "030_104","(8촀\0Ton passe-temps préféré serait,
 je cite, « ⁠
-촀 ».\0\0(&촀\0C'est vrai?"
+촀 ⁠».\0\0(&촀\0C'est vrai?"
 "030_104_a","(%촀\0Oui, c'est vrai.
 (%촀\0Ouais!"
 "030_104_b","('촀\0Non, plus vraiment."
 "030_105","(8촀\0Il paraît que t'as un don pour,
 je cite, « ⁠
-촀 ».\0\0(&촀\0Est-ce que c'est vrai, n\0?"
+촀 ⁠».\0\0(&촀\0Est-ce que c'est vrai, n\0?"
 "030_105_a","(%촀\0Totalement vrai!
 (%촀\0Eh oui!"
 "030_105_b","('촀\0Non, plus vraiment."
@@ -280,7 +281,7 @@ comme dit ma grand-tante!"
 
 \0((촀\0mais chacun sa spécialité, n\0!"
 "032_101","(촀\0Pfffn\0\0 Moi et « ⁠
-촀 », ça fait trois, mais bonn\0\0\0\0
+촀 ⁠», ça fait trois, mais bonn\0\0\0\0
 \0((촀\0Chacun son truc, n\0."
 "032_102","(1촀\0J'ai toujours rêvé d'y goûter,
 \0(9촀\0 mais
@@ -397,12 +398,12 @@ C'est bien ça, n\0?"
 infaillible. 
 \0(Mon « little bro' » et moi,
 on l'appelle « Maman »."
-"051","(%촀\0« 2\0
-촀 »? C'est bien ce que tu viens de dire? J'voudrais pas me tromper."
+"051","(%촀\0« ⁠2\0
+촀 ⁠»? C'est bien ce que tu viens de dire? J'voudrais pas me tromper."
 "051_a","Oui.
 Oui, c'est ça."
 "051_b","Non!
-Attends un peu..."
+(\0촀\0Attends un peu..."
 "052","(촀\0Pas de problème!
 \0(($촀\0 Prends bien
 le temps de cogiter. 
@@ -423,7 +424,7 @@ pour 2\0촀!"
 dans l'art de 촀!"
 "060_101","( 촀\0Ah, 
 \0donc t'aimes bien « ⁠
-촀 » par-dessus tout!"
+촀 ⁠» par-dessus tout!"
 "060_102","( 촀\0Ah, 
 \0donc t'as bien un faible pour
 « 
@@ -439,7 +440,7 @@ dans l'art de 촀!"
 "060_105","( 촀\0Oh! 
 \0Donc tu as bien un talent
 certain pour ça : « ⁠
-촀 »!"
+촀 ⁠»!"
 "061","(%촀\0Les rumeurs locales, y'a qu'ça
 d'vrai, n\0. (촀\0Et quand elles sont fausses, tous aux abris!\0\0(6촀\0On m'a bien renseigné, donc tout va
 bien. Quand la rumeur va, tout va! "
@@ -830,7 +831,7 @@ c'est l'heure de conquérir le monde!"
 terre coupées en bâtonnets et
 cuites dans de l'huile brûlante.
 Dis-moi ce que tu manges, et je
-te dirais qui tu es.\0\0Donc toi, n\0, t'as une personnalité bouillanten\0\0\0\0(촀\0Craquant2\0e à l'extérieur,
+te dirai qui tu es.\0\0Donc toi, n\0, t'as une personnalité bouillanten\0\0\0\0(촀\0Craquant2\0e à l'extérieur,
 \0 avec un
 cœur tendre et fondant!
 \0(촀\0 J'ai vu
@@ -1009,7 +1010,7 @@ dénuée de sens?
 ma vie!(촀\0 J'l'échangerais pour
 rien au monde!\0\0(촀\0Allez, n\0, viens à côté de moi, qu'on fasse un selfie!"
 "105_04","(촀\0J'sentais bien que j'avais affaire à
-un autre amateur de films d'horreur!\0\0(%촀\0J'suis tout comme toi, j'adore
+un2\0e amat2eurrice de films d'horreur!\0\0(%촀\0J'suis tout comme toi, j'adore
 avoir la chair de poule!\0\0(
 촀\0Mais j'me demande ce qui me
 fascine tant dans ces histoires où
@@ -1104,10 +1105,9 @@ Si ça te passionne à ce point,
 j'veux bien essayer, moi aussi.
 (촀\0Et qui sait?
 \0(촀\0 Y'a fort à parier
-qu'on fondera le fan-club
-2
-de d'⁠« 
-촀 »!"
+qu'on fondera le fan-club 2
+de d'⁠« ⁠
+촀 ⁠»!"
 "106_04","(9촀\0« 2\0
 촀 »? 
 \0Alors je connais pas, mais je vais me rattraper de ce pas!\0\0(촀\0Allez, je file, j'ai un marathon
@@ -1122,8 +1122,7 @@ caler les fesses sur mon canapé pour
 regarder ça pendant des heures."
 "106_06","(9촀\0« 2\0
 촀 »,
-\0
-je le note, n\0.\0\0(촀\0Tu pourras te vanter de m'avoir
+\0 je le note, n\0.\0\0(촀\0Tu pourras te vanter de m'avoir
 intrigué, 
 \0avec ce sport dont j'ai
 jamais entendu parler!
@@ -1156,10 +1155,9 @@ parlern\0\0 Mais je suis déjà conquis!
 Si t'es fan, j'le suis aussi.
 (촀\0C'est obligé, par les lois des
 tendances!"
-"106_11","(9촀\0« ⁠
+"106_11","(9촀\0« ⁠2\0
 촀 »n\0\0
 \0(%촀\0 C'est bien la première fois que j'en
-entends parler.\0\0(%촀\0 C'est bien la première fois que j'en
 entends parler.\0\0(촀\0Eh ben! Un jour sans écran, et tout
 fout l'camp, comme dit mon pépé!
 \0(촀\0

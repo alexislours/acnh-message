@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","It's the store's drop box.
+"001","It's the store's drop-off box.
 \0
 Should I sell something?"
 "001_a","Yeah, let's sell!"
@@ -19,9 +19,9 @@ drop-off box?"
 Am I OK with that?"
 "004_a","(\0촀\0Sold!"
 "004_b","(\0촀\0Actually, I'll pass."
-"010","It says it's a ""drop box.""
-\0 I guess I can
-just drop off anything I want to sell."
+"010","It says it's a ""drop-off box.""
+\0 I guess
+I can drop off anything I want to sell."
 "010_a","Sell something."
 "010_b","How does this work?"
 "010_c","Nah, not now."
@@ -39,9 +39,9 @@ fees.\0\02. We cannot return any items placed
 inside the drop-off box.\0\03. We can only trade turnips and give
 full price for hot items inside the
 store.\0￿"
-"901","It's the drop box for the shop.
-\0 Only
-folks from this island can use it."
+"901","It's the drop-off box for the shop.
+\0
+Only folks from this island can use it."
 "902","It's some kind of drop-off box. Looks
 like only residents of this island can
 use it."

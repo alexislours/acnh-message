@@ -7,6 +7,21 @@ proportionné!\0\0(%촀\0Je ne vois qu'une solution!
 grands pas en parler au \0bureau des
 résidents\0￿!
 \0 Let's go!"
+"003","(&촀\0Tun\0\0 Tu n'as pas changé d'avis?
+\0
+(4촀\0Malgré mon refus, tu persistes à
+m'inviter, n\0?
+(2촀\0À moins que ça te soit sorti de la
+tête. Si c'est le cas, aucune raison
+de remuer le passé. 
+\0Pas vrai?
+(촀\0Tu sais quoi? Je marche!
+Que dis-je? Je cours, je vole
+et j'emménage!\0\0(촀\0Changer de décor ne me fera pas
+de mal, et ma présence ne pourra
+que faire grandir le prestige de l'île.
+(촀\0Je fonce au \0bureau des résidents\0￿,
+souhaite-moi bonne chance!"
 "101","<"
 "101_01","(촀\0Me voilà en proie à une grande
 tourmente, n\0.\0\0(
@@ -32,8 +47,7 @@ de chef-d'œuvre sur la planche,
 ('촀\0C'est le genre de prodige qu'on
 n'accomplit qu'une fois dans sa
 vie, vois-tu.\0\0
-\0((촀\0Mais si n\0 connaît
-une pénurie artistique, je peux évidemment revenir!"
+\0((촀\0Mais si n\0 connaît une pénurie artistique, je peux évidemment revenir!"
 "101_03","(8촀\0C'est fort alléchant, n\0.
 \0
 Voire irrésistiblen\0\0 
@@ -56,14 +70,13 @@ qui déterminera le cours de
 mon existence?"
 "201_01_a","Carrément!"
 "201_01_b","Je ne sais pas trop..."
-"201_02","(촀\0Ta proposition est tellement
-alléchante que j'arrive pas
-à me décidern\0\0\0\0(촀\0On a qu'à laisser Madame Fortune
-s'en charger grâce à une partie
-de cartes!
-(6촀\0Si tu gagnes, je reviens avec boîtes,
-meubles, camions et jet privé.\0\0Si je gagne, je repars avec mes
-souvenirs impérissables.\0\0(&촀\0Ça te va?"
+"201_02","(촀\0Ta proposition est si alléchante
+que je n'arrive pas à me décidern\0\0\0\0(촀\0Laissons donc Madame Fortune
+s'en charger par une partie de
+cartes!
+(6촀\0Si tu gagnes, je reviens avec
+sachets, cartons, camions, jet privé.\0\0Si je gagne, je repars avec mes
+souvenirs impérissables.\0\0(&촀\0Cela te convient-il?"
 "201_02_a","Oui!"
 "201_02_b","Pas vraiment, non."
 "201_03","(
@@ -136,33 +149,36 @@ invité.
 \0(1촀\0 Je me suis amusé comme
 un malade!"
 "206","<"
-"206_01","(촀\0Eh ben voilà, c'est réglé,
+"206_01","(촀\0Eh bien voilà, c'est réglé,
 \0(촀\0
 j'emménage à n	\0!\0\0(6촀\0Laisser un jeu de cartes décider
-quelque chose d'aussi important,
-c'était un choix artistique.
+quelque chose d'aussi important
+était un choix artistique.
 (촀\0Mais j'y pense, tu sais comment
 je m'appelle, au moins?\0\0(5촀\02\0n
 \0, ça devrait te parler. Enfinn\0\0 
-\0(t'as p'têt' aperçu mon nom sur des affiches d'expos.\0\0n\0\0 Et toi, c'est n\0, c'est bien ça?\0\0(촀\0J'ai hâte de donner libre cours à
-ma créativité sur cette île, n\0!"
+\0(tu as peut-être aperçu mon nom sur des affiches d'expos.\0\0(촀\0J'ai hâte de donner libre cours à
+ma créativité sur cette île, n\0!
+n\0\0 (촀\0Oh! J'ai failli oublier le plus
+important! Je dois obtenir l'accord du \0bureau des résidents\0￿!"
 "206_02","(촀\0Félicitations, t'as gagné! 
 \0((촀\0Cette victoire qui me permet d'emménager
 ici est par extension la mienne!\0\0(1촀\0Attends-toi à voir le nom 2
 de d'⁠n
-\0 sur le devant de la scène artistique locale!\0\0(6촀\02\0n\0 sera la première personne que je remercierai dans mon discours. 
-\0C'est bien toi, non?"
+\0 sur le devant de la scène artistique locale!\0\0(
+촀\0Enfin, dès que j'aurai expliqué au \0bureau des résidents\0￿ à quel point je suis indispensable, n\0!"
 "206_03","(촀\0Eh ben, la chance te sourit à pleines
 dents!
-\0((4촀\0 J'ai plus qu'à aller faire mes
-boîtes.
+\0((4촀\0 J'ai plus qu'à aller préparer
+mes affaires pour le déménagement.
 (9촀\0Aussi arbitraire qu'elle puisse être,
 je compte bien respecter cette
-décision.\0\0(7촀\0Ah, un détail pourtant importantn\0\0
-\0(촀\0
-j'm'appelle n
-\0!\0\0(%촀\0Tu verras, n\0. De grandes choses nous attendent, tous les deux.
-\0(촀\0 Ha HA!"
+décision.\0\0(7촀\0Alors regarde-moi bien et n'oublie
+pasn\0\0
+\0(촀\0 j'm'appelle n
+\0!\0\0(5촀\0Bon, si tu veux bien m'excuser, je
+dois aller (촀\0implorer le \0bureau des
+résidents\0￿ de me laisser vivre ici."
 "302","(촀\0J'ai une mauvaise nouvelle.
 J'ai parlé au \0bureau des résidents\0￿
 et le marché immobilier est saturé.\0\0(촀\0Y'a plus aucun terrain disponible
@@ -225,35 +241,20 @@ demander de faire ses bagages?"
 "312","((촀\0Très bien.
 \0 Mieux vaut rien faire
 que de le regretter, n\0."
-"402","(촀\0Bon, j'ai eu le \0bureau des résidents\0￿,
-et les nouvelles sont loin d'être
-bonnesn\0\0\0\0(촀\0Mon cousin habite déjà ici!
-(	촀\0On a jamais pu se supporter,
-tous les deux!
-Alors je regrette, mais c'est non.\0\0(촀\0Enfin, comme dit mon agentn\0\0
-(촀\0
-\0(« ⁠n
-\0, tu es mon dieu incarné! »
-\0((촀\0 Ah, non, c'est pas ça.\0\0(9촀\0« ⁠Pense à ma commission, n
-\0n\0\0 »
-\0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai! « ⁠Désolé, mais
-ce rôle t'est refusé! » En fait, il dit
-jamais ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation!"
-"403","(촀\0Bon, j'ai eu le \0bureau des résidents\0￿,
-et les nouvelles sont loin d'être
-bonnesn\0\0
-(촀\0Mon cousin vient tout juste
-d'emménager ici! (	촀\0On a jamais
-pu se supporter, lui et moi.
-Alors je regrette, mais c'est non.\0\0(촀\0Enfin, comme dit mon agentn\0\0
-(촀\0
-\0(« ⁠n
-\0, tu es mon dieu incarné! »
-\0((촀\0 Ah, non, c'est pas ça.\0\0(9촀\0« ⁠Pense à ma commission, n
-\0n\0\0 »
-\0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai! « ⁠Désolé, mais
-ce rôle t'est refusé! » En fait, il dit
-jamais ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation!"
+"313","(촀\0Formidable! 
+\0(4촀\0Je peux en toucher un 
+mot à s촀, qu'en dis-tu?\0\0(3촀\0D'après mes informateurs du \0bureau
+des résidents\0￿, 2촀ilelle\0 serait susceptible
+de se mettre de mon côté."
+"313_a","Vas-y!"
+"313_b","Non, laisse faire."
+"314","(촀\0Oh, tu n'es pas convaincu2\0e?
+\0(촀\0 Eh bien,
+on devrait peut-être attendre alors.
+\0
+Laissons ce projet reposer un peu.
+(촀\0Je ne veux pas que tu t'y engages
+sans conviction, n\0. n\0."
 "404","(촀\0Bon, j'ai eu le \0bureau des résidents\0￿,
 et les nouvelles sont loin d'être
 bonnesn\0\0
@@ -264,25 +265,9 @@ soit, même les célébrités!
 (촀\0Enfin, comme dit mon agentn\0\0
 (촀\0
 \0(« ⁠n
-\0, tu es mon dieu incarné! »
+\0, tu es mon dieu incarné! ⁠»
 \0((촀\0 Ah, non, c'est pas ça.\0\0(9촀\0« ⁠Pense à ma commission, n
-\0n\0\0 »
-\0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai! « ⁠Désolé, mais
-ce rôle t'est refusé! » En fait, il dit
-jamais ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation!"
-"405","(촀\0Bon, j'ai eu le \0bureau des résidents\0￿,
-et les nouvelles sont loin d'être
-bonnesn\0\0
-(촀\0L'île est pleine à craquer!
-\0 Y'a même
-plus la place de construire le
-moindre manoir!
-(촀\0Enfin, comme dit mon agentn\0\0
-(촀\0
-\0(« ⁠n
-\0, tu es mon dieu incarné! »
-\0((촀\0 Ah, non, c'est pas ça.\0\0(9촀\0« ⁠Pense à ma commission, n
-\0n\0\0 »
+\0n\0\0 ⁠»
 \0( (촀\0Non, toujours pasn\0\0\0\0('촀\0Allez, dernier essai! « ⁠Désolé, mais
 ce rôle t'est refusé! » En fait, il dit
 jamais ça, mais on se comprend.\0\0(촀\0Merci quand même pour l'invitation!"
@@ -306,32 +291,12 @@ la bonne, n\0!"
 \0 Le doute est
 propre à l'humain, après tout,
 n\0."
-"421","(
-촀\0Que mon cousin soit venu habiter
-ici, ça m'étonne pas trop.\0\0(9촀\0On aime les mêmes trucs,
-que ce soit 2\0촀 ou 2\0촀.\0\0(촀\0Mais bon, cette île est trop petite
-pour nous accueillir tous les deux,
-n\0."
-"422","(
-촀\0Que mon cousin ait prévu de
-s'installer ici ne m'étonne guère.\0\0(9촀\0On aime les mêmes trucs,
-que ce soit 2\0촀 ou 2\0촀.\0\0(촀\0Mais bon, cette île est trop petite
-pour nous accueillir tous les deux,
-n\0."
 "423","(
 촀\0J'me remets pas de la popularité
 de cette île.
 \0( ('촀\0Ça me dissuaderait
 presque d'emménager, tiensn\0\0
 (촀\0Mais qu'est-ce que je raconten\0\0
-\0
-Maintenant, je ferais n'importe
-quoi pour venir ici!"
-"424","(
-촀\0J'me remets pas de la popularité
-de cette île.
-\0( ('촀\0Ça me dissuaderait
-presque d'emménager, tiensn\0\0\0\0(촀\0Mais qu'est-ce que je raconten\0\0
 \0
 Maintenant, je ferais n'importe
 quoi pour venir ici!"

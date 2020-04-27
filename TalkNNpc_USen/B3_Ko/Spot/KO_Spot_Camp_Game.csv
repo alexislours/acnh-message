@@ -39,14 +39,14 @@ words, n\0!"
 you down. There'll be other chances
 for you to win!"
 "008","(%촀\0Gahaha! Good answer!(촀\0 Let's get right
-down to business.\0\0(\0촀\0(:촀\0Well, nown\0\0 Wait a sec.
+down to business.\0\0(\0촀\0(:촀\0Well nown\0\0 Wait a sec.
 \0 (촀\0Your pockets
 are full! Were you not planning on
 winning our game?
 (:촀\0Go make some room if you wanna
-win my }\0\0.
-\0
-(6촀\0Then we can play, n\0."
+win yourself somethin'.
+\0 (6촀\0Then we
+can play, n\0."
 "100","()촀\0OK. I got four cards, and each has
 a different symbol: \0♥heart\0￿,
 \0♦diamond\0￿, \0♠spade\0￿, or \0♣club\0￿n\0\0\0\0(촀\0I'll draw a card. Then you guess
@@ -91,17 +91,22 @@ do you think it is?
 \0 \0Red\0￿ or \0black\0￿?"
 "201_a","\0Red\0￿"
 "201_b","\0Black\0￿"
-"202_01","(촀\0Holy moly, 
-\0촀 is right!
-\0(
-(촀\0You're the winner!"
-"202_02","(;촀\0Sorry, kiddo. Answer's 촀.
-\0(
-(촀\0You didn't guess right."
-"202_03","(촀\0Holy moly, 
-\0촀 is right!
-\0(
-(촀\0You're the winner!"
-"202_04","(;촀\0Sorry, kiddo. Answer's 촀.
-\0(
-(촀\0You didn't guess right."
+"202_01","(촀\0Holy moly,
+\0 a 촀!
+\0((촀\0 \0Red\0￿ is right!
+
+\0You're the winner!"
+"202_02","(;촀\0Sorry, kiddo. 
+\0It's a 촀 so
+the answer's \0black\0￿.
+\0( (촀\0You didn't
+guess right."
+"202_03","(촀\0Holy moly,
+\0 a 촀!
+\0((촀\0 \0Black \0￿is
+right! 
+\0You're the winner!"
+"202_04","(;촀\0Sorry, kiddo. 
+\0It's a 촀 so the
+answer's \0red\0￿.
+\0( (촀\0You didn't guess right."

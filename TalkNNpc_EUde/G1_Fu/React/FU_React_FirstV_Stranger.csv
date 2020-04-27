@@ -27,10 +27,8 @@ Insel zu Besuch?
 n
 \0!
 (%촀\0Du heißt n\0?
-\0(촀\0 Ein
-schöner Name!
-\0 (촀\0Schön, dich
-kennenzulernen, 
+\0(촀\0 Ein schöner Name!
+\0 (촀\0Schön, dich kennenzulernen, 
 \0n\0!"
 "001_03","(""촀\0Hallo, 
 \0n
@@ -49,13 +47,10 @@ gesehen...
 \0( (;촀\0Das heißt wohl, du
 kommst von einer anderen Insel?
 (%촀\0...Verstehe!
-\0 (촀\02\0n\0 heißt
-du also.
+\0 (촀\02\0n\0 heißt du also.
 \0 Freut mich! 
-\0(\0촀\0Mein Name ist
-n
-\0!
-(2촀\0Schön, mal jemanden von außerhalb
+\0(\0촀\0Mein Name ist n
+\0!\0\0(2촀\0Schön, mal jemanden von außerhalb
 kennenzulernen, 
 \0n\0."
 "002_02","(촀\0Wir kennen uns noch nicht, oder?
@@ -75,12 +70,7 @@ zu Besuch gekommen?\0\0(%촀\0.
 \0.
 \0.
 \0Verstehe,
-\0 (촀\0n\0
-heißt du also.
-\0 Hab ich das richtig
-ausgesprochen?
-(\0촀\0So, 
-\0auf n\0 hast du
-jetzt (촀\0zumindest eine Freundin,
-
+\0 (촀\0n\0 heißt du also.
+\0 Hab ich das richtig ausgesprochen?\0\0(\0촀\0So, 
+\0auf n\0 hast du jetzt (촀\0zumindest eine Freundin, 
 \0n\0!"

@@ -12,14 +12,14 @@ au trésor,
 \0 on va
 partir à la chasse au trésor!"
 "002_a","Youpi!"
-"002_b","Je peux pas..."
+"002_b","(\0촀\0Je peux pas..."
 "003","(&촀\0Tu sais quel est le meilleur moyen
 de tuer le temps? 
 \0(촀\0Une bonne petite
 chasse au trésor!
 \0 Alors, on y va?"
 "003_a","C'est parti!"
-"003_b","Vas-y tout seul."
+"003_b","(\0촀\0Vas-y tout seul."
 "004","(촀\0Bien! 
 \0Sur ce, je vais aller chercher
 ma pelle et creuser un trou.
@@ -121,7 +121,7 @@ et ne traîne pas, n\0!
 "013","(9촀\0Hmmn\0\0 t'as besoin que je te
 rappelle les règles?"
 "013_a","Je veux bien."
-"013_b","Non, ça ira."
+"013_b","(\0촀\0Non, ça ira."
 "014","(촀\0D'accord.
 \0 Dans ce cas, c'est parti!
 <"
@@ -153,7 +153,7 @@ de temps, alors ne traîne pas.
 d'attaque pour partir à la chassen\0\0
 (촀\0AU TRÉSOR?!"
 "101_a","OH QUE OUI!"
-"101_b","Bof..."
+"101_b","(\0촀\0Bof..."
 "102","(5촀\0Tu te demandes peut-être à quoi
 je pense?
 \0 Alors, laisse-moi te

@@ -17,15 +17,13 @@ C'est moi, n
 x"
 "006","Yo,
 \0 n\0 !
-\0 Besoin de
-muscles ?
+\0 Besoin de muscles ?
 \0 n
 \0 est là !
 x"
 "007","Hééé !
 \0 2\0n\0 !
-\0 C'est
-n
+\0 C'est n
 \0 !
 \0 T'es chez toi ?
 x"
@@ -37,33 +35,26 @@ T'es chez toi, 2*p'tit garsma grande ?
 un tour à la salle de sport ?
 x"
 "010","Faut croire 2
-que qu'⁠n\0
-est pas chez 2luiellen\0\0
+que qu'⁠n\0 est pas chez 2luiellen\0\0
 \0 Bon ben,
-\0 je vais
-aller courir un peu,
+\0 je vais aller courir un peu,
 \0 à la place !
 x"
 "011","(촀\0Allez,
 \0 n\0,
-\0 la journée
-appartient aux lève-tôt ! 
-\0(.촀\0D'ailleurs,
-elle a intérêt à valoir le coupn"
+\0 la journée appartient aux lève-tôt ! 
+\0(.촀\0D'ailleurs, elle a intérêt à valoir le coupn"
 "012","(""촀\0Bonjour,
 \0 n\0 !
 \0
 (촀\0J'espère que je te dérange pas !"
 "013","(촀\0Salut,
 \0 n\0 !
-\0 (7촀\0Désolé
-de débarquer chez toi à une heure
-aussi tardiven\0\0 2\0n\0."
+\0 (7촀\0Désolé de débarquer chez toi à une heure aussi tardiven\0\0 2\0n\0."
 "014","(7촀\0Salut,
 \0 n\0.
 \0 Je sais,
-\0 il
-est super tardn\0\0 (촀\0ou déjà
+\0 il est super tardn\0\0 (촀\0ou déjà
 \0 super tôt ?\0\0(.촀\0C'est bientôt l'heure où je me lève
 d'habitude pour mon entraînement
 matinaln"
@@ -86,7 +77,7 @@ C'est un petit cadeau de ma part !
 \0 non ?"
 "103","(촀\02\02\0}\0 !
 \0 (촀\0C'était juste à côté des boissons protéinées,
-\0 dans le magasin.\0\0Quand je l'ai vu2촀\0e\0,
+\0 dans le magasin.\0\0Quand je l'ai vu2촀\0e\0,
 \0 je me suis dit que
 ça te plairait, n\0 !"
 "104","(%촀\02\02\0}\0 !
@@ -102,16 +93,12 @@ C'est un petit cadeau de ma part !
 "200_b","Pas maintenant, merci."
 "201","(촀\0Hé,
 \0 n\0 !
-\0 Vu que je
-suis làn\0\0
-\0 (촀\0ça te dirait de jouer à un jeu
-avec moi ?"
+\0 Vu que je suis làn\0\0
+\0 (촀\0ça te dirait de jouer à un jeu avec moi ?"
 "201_a","Ce serait amusant !"
 "201_b","Non merci."
-"202","(%촀\0Alors, n\0n\0\0 ça te
-dirait qu'on joue à un jeu ?
-\0 (촀\0Je parie
-que t'arriveras pas à me battre !"
+"202","(%촀\0Alors, n\0n\0\0 ça te dirait qu'on joue à un jeu ?
+\0 (촀\0Je parie que t'arriveras pas à me battre !"
 "202_a","Pari tenu : on joue !"
 "202_b","(\0촁\0T'as peut-être raison..."
 "203","( 촀\0Ah,

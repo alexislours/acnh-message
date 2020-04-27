@@ -71,7 +71,8 @@ unschlagbar. 
 "010_103_b","('촀\0Eigentlich nicht..."
 "010_104","(
 촀\0„⁠2\0⁠
-촀⁠“⁠.⁠.⁠. Das war es doch, 
+촀⁠“⁠⁠n\0\0 
+\0Das war es doch, 
 \0was du gern betreibst, 
 \0oder bilde ich mir das ein?"
 "010_104_a","(%촀\0Das stimmt so!"
@@ -154,7 +155,7 @@ erwähnen, 
 \0wie hervorragend du in
 Sachen 촀 bist.\0\0(1촀\0Wäre ich nur halb so gut, 
 \0wenn es
-2#촀umumums 촀 geht, 
+2$촀umumums 촀 geht, 
 \0läge mir die Welt zu Füßen..."
 "011_101","(%촀\0Ganz ausgezeichnet, 
 \0dann hat mich
@@ -395,7 +396,7 @@ die ich bereits ausübe. 
 auf dieser Insel bestünde nur aus
 mir. 
 \0(촀\0Welch unerwartete Wendung!\0\0(\0촀\0Wir müssen unbedingt einmal bei
-2(촀
+2(촀
 einem
 einer
 einem 2촂촀 darüber
@@ -703,8 +704,7 @@ gefragt, 
 \0(&촀\0Hast du einen Lieblingssport,
 \0
 n\0? 
-\0(촀\0Ich bin
-neugierig."
+\0(촀\0Ich bin neugierig."
 "100_06_a","Tennis."
 "100_06_b","Golf."
 "100_06_c","Leichtathletik."
@@ -1050,7 +1050,7 @@ fehlen die nötigen Mägen!\0\0(촀\0Oh! 
 DU bist ein Mensch.
 \0 (
 촀\0Gut, 
-\0also...\0\0(촀\0Sollte ich dir jemals 2""촀
+\0also...\0\0(촀\0Sollte ich dir jemals 2""촀
 eineneineein 2촁촀 servieren, 
 \0halte besser Abstand.\0\0(9촀\0Die Geheimzutat ist Gras.
 \0
@@ -1242,8 +1242,7 @@ mehr aufhören (촀\0und sitze im Morgen-
 grauen immer noch vor der Kiste!\0\0(촀\0Ich kann einfach nicht anders,
 \0
 n\0! 
-\0(촀\0Ich MUSS
-wissen, 
+\0(촀\0Ich MUSS wissen, 
 \0was als Nächstes passiert!"
 "104_06","($촀\0Das ist ja mal lustig. 
 \0Ich selbst
@@ -1309,9 +1308,9 @@ man Krokodilstränen verdrückt...\0\0(9촀\0Das sind die Fähigkeiten, 
 in der Welt da draußen WIRKLICH
 braucht."
 "104_10","(촀\0Unmöglich, 
-\0n\0! 
-\0Ich
-bin AUCH ein großer Anime-Fan!\0\0(1촀\0Ich habe sogar überlegt, 
+\0n\0!
+
+\0Ich bin AUCH ein großer Anime-Fan!\0\0(1촀\0Ich habe sogar überlegt, 
 \0eine
 Karriere als Anime-Synchronsprecher
 zu verfolgen...\0\0(촀\0Versteh mich nicht falsch. 
@@ -1322,7 +1321,7 @@ Legende gewesen, 
 \0n\0!\0\0(5촀\0Ich wollte nur nicht, 
 \0dass mein
 Talent vom Eigentlichen ablenkt –
-\0
+\0
 den Geschichten und Charakteren."
 "104_11","(&촀\0Du spielst Gitarre?
 \0 Nicht schlecht!

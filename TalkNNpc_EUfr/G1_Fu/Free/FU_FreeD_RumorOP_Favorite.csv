@@ -1,24 +1,21 @@
 ﻿"label","text"
 "001_01","(;촀\0Je vais te dire quelque chose sur s\0촀
 \0n\0\0\0\0()촀\0Niveau 촀,
-\0 2
-촀ilelle\0 préfère 2\0촀, n\0."
+\0 2촀ilelle\0 préfère 2\0촀, n\0."
 "001_01_a","Je le savais.
 C'est vrai."
 "001_01_b","(\0촀\0Vraiment ?
 (\0촀\0Ah bon ?"
 "001_02","(;촀\0Tu veux que je te dise un truc sur
 s\0촀 ?\0\0()촀\0Si tu veux lui servir quelque chose
-qu'2
-촀ilelle\0 aime, donne-lui 2\0촀, n\0."
+qu'2촀ilelle\0 aime, donne-lui 2\0촀, n\0."
 "001_02_a","Évidemment.
 Je le savais déjà."
 "001_02_b","(\0촀\0Je l'ignorais.
 (\0촀\0Je note."
 "001_03","(;촀\0J'ai appris une chose intéressante
 à propos 2
-de d'⁠s\0촀n\0\0\0\0()촀\02
-촀IlElle\0 rêve de devenir 촀, n\0."
+de d'⁠s\0촀n\0\0\0\0()촀\02촀IlElle\0 rêve de devenir 촀, n\0."
 "001_03_a","C'est ce qu'on m'a dit.
 Il paraît, oui."
 "001_03_b","(\0촀\0J'apprends un truc.
@@ -27,45 +24,34 @@ Il paraît, oui."
 \0 tu savais 2
 que qu'⁠s\0촀 aimait bien 촀 ?\0\0On dirait pas,
 \0 comme ça, n\0 !"
-"001_04_a","2
-촀IlElle\0 adore ça.
+"001_04_a","2촀IlElle\0 adore ça.
 C'est son dada."
 "001_04_b","(\0촀\0C'est vrai ?
 (\0촀\0Je ne l'aurais pas cru."
 "001_05","(촀\0Tu veux que je te dise un truc
-sur s\0촀 ?\0\0()촀\0Il paraît qu'2
-촀ilelle\0 est super doué2
-촀\0e\0
+sur s\0촀 ?\0\0()촀\0Il paraît qu'2촀ilelle\0 est super doué2촀\0e\0
 pour 촀, n\0 !"
-"001_05_a","C'est 2*
-촀un vraiune vraie\0 pro.
-Oui, 2
-촀ilelle\0 assure."
+"001_05_a","C'est 2*촀un vraiune vraie\0 pro.
+Oui, 2촀ilelle\0 assure."
 "001_05_b","(\0촀\0C'est bon à savoir.
 (\0촀\0Merci pour l'info."
-"001_101","J'ai appris un truc sur s\0촀, n\0.\0\0()촀\0Si tu lui demandes ce qu'2
-촀ilelle\0 préfère
-en 촀, 2
-촀ilelle\0 te répondra « ⁠
-촀 »."
+"001_101","J'ai appris un truc sur s\0촀, n\0.\0\0()촀\0Si tu lui demandes ce qu'2촀ilelle\0 préfère
+en 촀, 2촀ilelle\0 te répondra « ⁠
+촀 ⁠»."
 "001_101_a","J'étais au courant.
 Je le savais."
 "001_101_b","(\0촀\0C'est dingue...
 (\0촀\0Qui l'eût cru..."
-"001_102","(%촀\0Niveau 촀, s\0촀 sait ce qu'2
-촀ilelle\0 aime.\0\0(촀\0« 2\0
+"001_102","(%촀\0Niveau 촀, s\0촀 sait ce qu'2촀ilelle\0 aime.\0\0(촀\0« 2\0
 촀 » !
-\0((%촀\0 En tout cas, c'est ce qu'2
-촀ilelle\0 dit."
+\0((%촀\0 En tout cas, c'est ce qu'2촀ilelle\0 dit."
 "001_102_a","J'ai aussi entendu ça.
 Je le savais déjà."
 "001_102_b","(\0촀\0Tu en es sûre ?
-(\0촀\02
-촀IlElle\0 a vraiment dit ça ?"
+(\0촀\02촀IlElle\0 a vraiment dit ça ?"
 "001_103","(;촀\0Tu veux que je te dise un truc à
 propos 2
-de d'⁠s\0촀 ?\0\0Un jour, 2
-촀ilelle\0 espère devenir
+de d'⁠s\0촀 ?\0\0Un jour, 2촀ilelle\0 espère devenir
 « 
 촀 » !"
 "001_103_a","Il paraît, oui.
@@ -75,16 +61,13 @@ propos 2
 "001_104","(6촀\0Tu t'es déjà demandé à quoi
 s\0촀 passait son temps ?\0\0(촀\0« 2\0
 촀 » !
-\0((%촀\0 C'est 2
-촀luielle\0-même qui l'a dit."
+\0((%촀\0 C'est 2촀luielle\0-même qui l'a dit."
 "001_104_a","À ce qu'il paraît, oui.
 C'est la vérité."
 "001_104_b","(\0촀\0Première nouvelle !
 (\0촀\0Tu en es sûre ?"
 "001_105","Tiens, j'ai appris quelque chose
-sur s\0촀.\0\02
-촀IlElle\0 serait 2$
-촀expertexperte\0 dès qu'il s'agit de
+sur s\0촀.\0\02촀IlElle\0 serait 2$촀expertexperte\0 dès qu'il s'agit de
 « 
 촀 » !"
 "001_105_a","C'est ce qu'on dit.
@@ -100,8 +83,7 @@ Il paraît, oui."
 "010_02","(촀\0Je crois bien 2
 que qu'⁠s\0촀 et la lecture, ça fait deuxn\0\0(촀\0 Tout le contraire de moi !"
 "010_02_a","Il paraît, oui.
-2
-촀IlElle\0 déteste ça."
+2촀IlElle\0 déteste ça."
 "010_02_b","(\0촀\0Tu es sûre de toi ?
 (\0촀\0Ah bon ?"
 "010_03","(촀\0Il paraît 2
@@ -111,8 +93,7 @@ C'est ce qui se dit."
 "010_03_b","(\0촀\0Je l'ignorais.
 (\0촀\0Jamais jamais ?"
 "010_04","(촀\0Tu savais 2
-que qu'⁠s\0촀 n'était vraiment pas branché2
-촀\0e\0 films ?"
+que qu'⁠s\0촀 n'était vraiment pas branché2촀\0e\0 films ?"
 "010_04_a","Bien sûr !
 Je le savais."
 "010_04_b","(\0촀\0Non, aucune idée.
@@ -122,8 +103,7 @@ Je le savais."
 Il paraît."
 "010_05_b","(\0촀\0Ah bon ?
 (\0촀\0C'est inattendu."
-"010_06","À ce qu'il paraît, s\0촀 ('촀\0n'est pas très sporti2
-촀fve\0, n\0."
+"010_06","À ce qu'il paraît, s\0촀 ('촀\0n'est pas très sporti2촀fve\0, n\0."
 "010_06_a","Je confirme.
 En effet."
 "010_06_b","(\0촀\0Même pas un peu ?
@@ -149,12 +129,9 @@ Il paraît, oui."
 J'ai la même info."
 "010_10_b","(\0촀\0Du tout, du tout ?
 (\0촀\0Ça m'étonne..."
-"010_11","(8촀\02\0s\0촀 prétend qu'2
-촀ilelle\0
-n'a aucun talent particulier."
+"010_11","(8촀\02\0s\0촀 prétend qu'2촀ilelle\0 n'a aucun talent particulier."
 "010_11_a","C'est ce qu'il paraît.
-C'est ce qu'2
-촀ilelle\0 dit."
+C'est ce qu'2촀ilelle\0 dit."
 "010_11_b","(\0촀\0Tu le crois, ça ?
 (\0촀\0C'est vrai ?"
 "020","(촀\0Tu étais déjà au courant ?
@@ -163,11 +140,8 @@ C'est ce qu'2
 potinsn\0\0
 (8촀\0Pourquoi je suis la seule à ne rien
 savoir sur s\0촀 ?"
-"021","(6촀\0Je le tiens directement 2
-촀du
-de la\0 principal2
-촀\0e\0 intéressé2
-촀\0e\0n\0\0\0\0(4촀\0Ça m'a fait rudement plaisir 2
+"021","(6촀\0Je le tiens directement 2촀du
+de la\0 principal2촀\0e\0 intéressé2촀\0e\0n\0\0\0\0(4촀\0Ça m'a fait rudement plaisir 2
 que qu'⁠s\0촀 partage ça avec moi !"
 "022","(%촀\0C'est ce qu'on m'a dit.\0\0(
 촀\0Mais j'aurais peut-être dû vérifier
@@ -194,19 +168,16 @@ Je crois savoir."
 촀\0Je me demande ce 2
 que qu'⁠s\0촀 aimerait faire dans la vien\0\0
 Est-ce que tu sais(&촀\0 s'il y a un métier
-qui 2
-촀lela\0 fait rêver ?"
+qui 2촀lela\0 fait rêver ?"
 "050_03_a","Oui, je sais.
 Je pense savoir."
 "050_03_b","Aucune idée.
 (\0촀\0Bonne question..."
 "050_04","(
 촀\0Je n'arrive pas à imaginer à quoi
-s\0촀 pourrait passer son tempsn\0\0\0\0Tu sais (&촀\02 
-촀s'ilsi elle\0 a un hobby en particulier, n\0 ?"
+s\0촀 pourrait passer son tempsn\0\0\0\0Tu sais (&촀\02 촀s'ilsi elle\0 a un hobby en particulier, n\0 ?"
 "050_04_a","Je peux te le dire.
-Je sais ce qu'2
-촀ilelle\0 fait."
+Je sais ce qu'2촀ilelle\0 fait."
 "050_04_b","(\0촀\0Il faudra lui demander.
 Pas la moindre idée."
 "050_05","(%촀\0Je suis sûre que tout le monde a
@@ -218,7 +189,7 @@ un talent caché.\0\0(
 "050_05_a","Oui !
 J'ai ma petite idée..."
 "050_05_b","Non.
-Je me demande..."
+(\0촀\0Je me demande..."
 "051","(촀\0Tu as déjà fait ta petite enquête,
 \0
 on dirait !
@@ -264,8 +235,7 @@ pour de nouveaux films.
 fois qu'on se croise. "
 "060_05","(촀\0Ce n'est pas graven\0\0 En fait,
 \0()촀\0 j'aurais
-aimé savoir 2 
-촀s'ilsi elle\0 aime regarder des
+aimé savoir 2 촀s'ilsi elle\0 aime regarder des
 émissions culinaires.
 (촀\0Je finirai bien par trouver quelqu'un
 avec qui regarder le dernier épisode
@@ -277,8 +247,7 @@ tabou après tout."
 "060_07","(
 촀\0Hmmn\0\0 Je ne vais quand même pas
 l'inviter à boire le thé sans savoir
-2 
-촀s'ilsi elle\0 en boitn\0\0
+2 촀s'ilsi elle\0 en boitn\0\0
 (촀\0Oh,
 \0 et puis pourquoi pas après tout.
 \0(
@@ -321,9 +290,7 @@ connaissez depuis longtemps ?
 (4촀\0Je suis un peu jalousen\0\0
 Mais bonn\0\0 (촀\0Les bon2snes ami2
 ses de mes
-bon2
-촀snes\0 ami2
-촀ses\0 sont mes bon2snes ami2
+bon2촀snes\0 ami2촀ses\0 sont mes bon2snes ami2
 ses."
 "110_01","(촀\0J'en étais sûre !
 \0( (촀\0Hé mais alorsn\0\0\0\0(&촀\0Ça veut dire que toi aussi tu aimes
@@ -347,12 +314,10 @@ Hors de question."
 \0(
 (
 촀\0Tiens,
-\0 ça me fait pensern\0\0\0\02\0s\0촀 aimerait devenir
-촀, un jour.
-\0
-(&촀\0Toi aussi, du coup ?"
+\0 ça me fait pensern\0\0\0\02\0s\0촀 aimerait devenir 촀, un jour.
+\0 (&촀\0Toi aussi, du coup ?"
 "110_03_a","C'est mon rêve.
-Un jour..."
+(\0촀\0Un jour..."
 "110_03_b","En fait, non.
 Pas du tout."
 "110_04","(촀\0C'est bien ce que je me disais !
@@ -389,8 +354,8 @@ Moi ? Non."
 tu aurais(6촀\0 du mal à survivre sans
 « 
 촀 » ?"
-"110_102_a","C'est ma raison d'être.
-Je ne m'en lasse pas."
+"110_102_a","(\0촀\0C'est ma raison d'être.
+(\0촀\0Je ne m'en lasse pas."
 "110_102_b","Absolument pas.
 Pas ma tasse de thé."
 "110_103","(촀\0J'aurais pu le parier !
@@ -398,7 +363,7 @@ Pas ma tasse de thé."
 (촀\0Tiens,
 \0 question subsidiairen\0\0\0\0Est-ce que vous(6촀\0 avez le même rêve ?
 Pour s\0촀, c'est d'être « ⁠
-촀 »."
+촀 ⁠»."
 "110_103_a","Oui, tout pareil.
 Eh oui."
 "110_103_b","(\0촀\0J'ai un autre rêve.
@@ -462,8 +427,7 @@ pour les films ?"
 "120_04_b","(\0촀\0J'aime bien les films.
 (\0촀\0Ça me dérange pas."
 "120_05","(%촀\0C'est noté.
-\0( (촀\0Il paraît qu'2
-촀ilelle\0 ne
+\0( (촀\0Il paraît qu'2촀ilelle\0 ne
 regarde jamais la télévisionn\0\0
 (&촀\0C'est aussi ton cas ?"
 "120_05_a","C'est aussi mon cas.
@@ -498,10 +462,8 @@ pas de nourriture préférée ?"
 "120_09","(촀\0J'aurais pu le parier.
 \0((&촀\0 Et vous avez
 beaucoup de choses en commun ?\0\0()촀\0Par exemple,
-\0 j'ai appris qu'2
-촀ilelle\0
-n'avait aucun métier qui 2
-촀lela\0 fasse
+\0 j'ai appris qu'2촀ilelle\0
+n'avait aucun métier qui 2촀lela\0 fasse
 rêver.
 \0((&촀\0 C'est aussi ton cas ?"
 "120_09_a","Oui.
@@ -519,12 +481,10 @@ de passe-temps particulier ?"
 (\0촀\0Rien de particulier."
 "120_10_b","(\0촀\0J'ai un hobby !
 (\0촀\0Ah si, j'ai un truc."
-"120_11","( 촀\0Tu dois tout savoir 2""
-촀de luid'elle\0,
+"120_11","( 촀\0Tu dois tout savoir 2""촀de luid'elle\0,
 \0 alors.
 \0(
-(촀\0Comme le fait qu'2
-촀ilelle\0 estime n'avoir
+(촀\0Comme le fait qu'2촀ilelle\0 estime n'avoir
 aucun talent particuliern\0\0
 (\0촀\0Toi aussi,
 \0(&촀\0 tu as l'impression
@@ -555,39 +515,28 @@ d'apprendre à vous connaître !"
 étiez prochesn\0\0\0\0(촀\0Dans ce cas,
 \0 laisse-moi t'apprendre
 quelque chose à son sujet."
-"170_01","Niveau 촀, 2
-촀ilelle\0 est plutôtn\0\0 (;촀\0촀.\0\0(촀\0Ça vous fait un sujet de
+"170_01","Niveau 촀, 2촀ilelle\0 est plutôtn\0\0 (;촀\0촀.\0\0(촀\0Ça vous fait un sujet de
 conversation, au cas où !"
-"170_02","()촀\02
-촀IlElle\0 adore 2\0촀.\0\0(6촀\0La prochaine fois que vous allez au
-restaurant, tu pourras 2
-촀lela\0 surprendre
-en commandant ce qu'2
-촀ilelle\0 préfère !"
-"170_03","()촀\02
-촀IlElle\0 aimerait bien être 촀.\0\0(%촀\0Je trouve que ça lui irait bien,
+"170_02","()촀\02촀IlElle\0 adore 2\0촀.\0\0(6촀\0La prochaine fois que vous allez au
+restaurant, tu pourras 2촀lela\0 surprendre
+en commandant ce qu'2촀ilelle\0 préfère !"
+"170_03","()촀\02촀IlElle\0 aimerait bien être 촀.\0\0(%촀\0Je trouve que ça lui irait bien,
 \0
 pas toi ?"
-"170_04","(;촀\02
-촀IlElle\0 adore 촀.\0\0(촀\0Si vous ne savez pas de quoi
+"170_04","(;촀\02촀IlElle\0 adore 촀.\0\0(촀\0Si vous ne savez pas de quoi
 discuter ensemble,
 \0 vous pouvez
 commencer par là !"
-"170_05","(%촀\02
-촀IlElle\0 est vraiment doué2
-촀\0e\0 pour
+"170_05","(%촀\02촀IlElle\0 est vraiment doué2촀\0e\0 pour
 촀.\0\0(촀\0Si tu as besoin de conseils dans ce
 domaine,
 \0 tu sais à qui t'adresser !"
 "170_101","()촀\0Un jour je lui ai demandé quel
-était son style de 촀 préféré.\0\0(;촀\0Et 2
-촀ilelle\0 a répondu « ⁠
-촀 ».
-\0(
-('촀\0Mais je n'en sais pas plus."
+était son style de 촀 préféré.\0\0(;촀\0Et 2촀ilelle\0 a répondu « ⁠
+촀 ⁠».
+\0( ('촀\0Mais je n'en sais pas plus."
 "170_102","()촀\0Je lui ai demandé quelle était sa
-촀 préférée.\0\0Et 2
-촀ilelle\0 a répondu,
+촀 préférée.\0\0Et 2촀ilelle\0 a répondu,
 \0 mot pour mot :
 \0
 (;촀\0« 
@@ -595,91 +544,67 @@ domaine,
 à engager la conversation !"
 "170_103","Son métier de rêve, ça serait
 « 
-촀 ».\0\0Va en discuter avec 2
-촀luielle\0 si tu veux
+촀 ».\0\0Va en discuter avec 2촀luielle\0 si tu veux
 en savoir plus, je suis sûre que ça
-ne 2
-촀lela\0 dérangera pas d'en parler."
+ne 2촀lela\0 dérangera pas d'en parler."
 "170_104","Si tu lui demandes quel est son
-passe-temps préféré, 2
-촀ilelle\0 te dira
+passe-temps préféré, 2촀ilelle\0 te dira
 « 
 촀 » !\0\0(촀\0Mais si tu veux en savoir plus,
 \0
 il faudra lui en parler directementn"
-"170_105","(;촀\02
-촀IlElle\0 aurait un talent caché pour
+"170_105","(;촀\02촀IlElle\0 aurait un talent caché pour
 « 
 촀 ».\0\0(촀\0Ça peut vous faire un bon sujet
 de conversation !"
-"180_01","()촀\02
-촀IlElle\0 n'écoute jamais de musique,
+"180_01","()촀\02촀IlElle\0 n'écoute jamais de musique,
 \0
-à ce qu'il paraît.\0\0(촀\0Si tu veux te rapprocher 2""
-촀de luid'elle\0,
+à ce qu'il paraît.\0\0(촀\0Si tu veux te rapprocher 2""촀de luid'elle\0,
 évite de l'inviter à un concert !"
-"180_02","()촀\02
-촀IlElle\0 ne lit pas grand-chose,
+"180_02","()촀\02촀IlElle\0 ne lit pas grand-chose,
 \0
 pour ne pas dire rien du tout.
 \0(
 (촀\0C'est tout le contraire de moin\0\0
 (
 촀\0Je me demande s'il y a un livre ou
-une bédé qui pourrait 2
-촀lela\0 faire
+une bédé qui pourrait 2촀lela\0 faire
 changer d'avisn"
-"180_03","()촀\02
-촀IlElle\0 n'est pas bédés.
+"180_03","()촀\02촀IlElle\0 n'est pas bédés.
 \0( Pas du tout.\0\0(
 촀\0Je me demande si c'est parce qu'il
 y a trop de texte ou trop d'imagesn"
-"180_04","(;촀\02
-촀IlElle\0 ne regarde jamais de films.\0\0(촀\0Sa vie doit être suffisamment
+"180_04","(;촀\02촀IlElle\0 ne regarde jamais de films.\0\0(촀\0Sa vie doit être suffisamment
 mouvementée pour ne pas avoir
 besoin d'aller au cinéma !"
-"180_05","2
-촀IlElle\0 ne regarde jamais la télévision,
+"180_05","2촀IlElle\0 ne regarde jamais la télévision,
 d'après ce que j'ai compris.\0\0(
-촀\02
-촀IlElle\0 n'a peut-être tout simplement
+촀\02촀IlElle\0 n'a peut-être tout simplement
 pas le temps pour çan"
-"180_06","Le sport 2
-촀lela\0 laisse complètement
-indifférent2
-촀\0e\0.\0\0('촀\0Je ne suis pas très sportive non plus.\0\0(촀\0Mais je regarde volontiers une
+"180_06","Le sport 2촀lela\0 laisse complètement
+indifférent2촀\0e\0.\0\0('촀\0Je ne suis pas très sportive non plus.\0\0(촀\0Mais je regarde volontiers une
 compétition de 촀 sur
 gazon de temps en temps."
-"180_07","('촀\02
-촀IlElle\0 n'a pas vraiment de boisson
+"180_07","('촀\02촀IlElle\0 n'a pas vraiment de boisson
 préférée.\0\0(
 촀\0Je me demande s'il en existe une
 qui pourrait le devenirn"
-"180_08","()촀\0Il n'y a rien qu'2
-촀ilelle\0 préfère manger
+"180_08","()촀\0Il n'y a rien qu'2촀ilelle\0 préfère manger
 plutôt qu'autre chose.\0\0Mais bon,
-\0(5촀\0 2
-촀ilelle\0 n'a jamais goûté à ma
+\0(5촀\0 2촀ilelle\0 n'a jamais goûté à ma
 cuisine,
 \0 alors je ne peux pas lui en
 vouloir."
 "180_09","('촀\0Il n'y a pas vraiment de métier
-qu'2
-촀ilelle\0 rêverait de faire plus
+qu'2촀ilelle\0 rêverait de faire plus
 qu'un autre.\0\0(촀\0C'est ce qui arrive quand on se sent
 capable de tout !"
-"180_10","()촀\02
-촀IlElle\0 n'a pas de passe-temps à
+"180_10","()촀\02촀IlElle\0 n'a pas de passe-temps à
 proprement parler.\0\0(촀\0J'espère que si ça change,
 \0
-2
-촀ilelle\0 m'en parlera."
-"180_11","(촀\02
-촀IlElle\0 considère qu'2
-촀ilelle\0 n'est doué2
-촀\0e\0
+2촀ilelle\0 m'en parlera."
+"180_11","(촀\02촀IlElle\0 considère qu'2촀ilelle\0 n'est doué2촀\0e\0
 pour rien de particulier.\0\0('촀\0Je suis sûre que c'est faux,
 \0 mais
-peut-être qu'2
-촀ilelle\0 n'a pas encore
+peut-être qu'2촀ilelle\0 n'a pas encore
 découvert(촀\0 son talent caché."

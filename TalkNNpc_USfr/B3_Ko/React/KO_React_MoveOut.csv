@@ -35,11 +35,8 @@ j'ai rarement eu l'occasion de
 m'ennuyer ici.
 \0(%촀\0 Et je t'en remercie."
 "004","(촀\0Oh, n\0!
-\0(4촀\0 Ça va sans
-doute te paraître soudain comme
-annonce,
-\0 mais je m'en vais demain.
-(7촀\0J'ai pas eu l'occasion de t'en parler
+\0(4촀\0 Ça va sans doute te paraître soudain comme annonce,
+\0 mais je m'en vais demain.\0\0(7촀\0J'ai pas eu l'occasion de t'en parler
 avant,
 \0 et là je suis pas mal occupé
 avec mon déménagementn\0\0
@@ -64,11 +61,8 @@ de se parler une fois,
 \0 c'est déjà ça!"
 "006","(촀\0Oh,
 \0 n\0! 
-\0Je suis
-content de te voir. 
-\0(촀\0Je voulais te
-parler d'un trucn\0\0
-(4촀\0Il se trouve que c'est mon dernier
+\0Je suis content de te voir. 
+\0(촀\0Je voulais te parler d'un trucn\0\0\0\0(4촀\0Il se trouve que c'est mon dernier
 jour sur cette île,
 \0 eh oui.
 \0 Alors, on se
@@ -80,11 +74,8 @@ mon instinct,
 \0 je pensen"
 "006_01","(촀\0Oh,
 \0 n\0! 
-\0Je suis
-content de te voir. 
-\0(촀\0Je voulais te
-parler d'un trucn\0\0
-(4촀\0Je vais pas essayer de noyer le pot ni
+\0Je suis content de te voir. 
+\0(촀\0Je voulais te parler d'un trucn\0\0\0\0(4촀\0Je vais pas essayer de noyer le pot ni
 tourner autour de la poiscaille, alors
 voilà :
 \0 je quitte l'île.
@@ -133,9 +124,7 @@ ou bien à l'autre bout du monde!"
 \0 Prochain arrêt :
 \0
 s촀.
-\0 (6촀\0En voilà un nom
-qui sonne comme un nouveau départ.
-(""촀\0Viens donc m'y rendre visite
+\0 (6촀\0En voilà un nom qui sonne comme un nouveau départ.\0\0(""촀\0Viens donc m'y rendre visite
 à l'occasion
 \0, si jamais tu passes
 dans les parages.
@@ -171,11 +160,8 @@ d'2unune guide digne de ce nom,
 \0
 pour bien m'intégrer!"
 "105","(&촀\0Si je te dis « ⁠s촀 »,
-\0
-ça te dit quelque chose?
-\0(5촀\0
-Parce que c'est là que je vais!
-(1촀\0Maintenant que c'est décidé,
+\0 ça te dit quelque chose?
+\0(5촀\0 Parce que c'est là que je vais!\0\0(1촀\0Maintenant que c'est décidé,
 \0 je vais
 pouvoir commencer à m'imaginer
 comment est la vie là-basn"
@@ -270,26 +256,6 @@ devant le pas de ta porte,
 \0 2cher
 chère
 2Z(futur nouveau voisin.future nouvelle voisine!"
-"206","(촀\0Voilà ce qui s'est passé,
-\0 2$le jeunela jeune :
-\0
-j'ai appelé le \0bureau des résidents\0￿
-pour savoir s'il restait de la placen\0\0
-('촀\0Et non.
-\0 Apparemment, je ressemble
-trop à un habitant du coin et ils ont
-peur que ça cause de la confusion."
-"207","(촀\0Bon,
-\0 j'ai contacté le \0bureau des
-résidents\0￿ pour savoir s'il était
-possible que je vienne emménagern\0\0
-('촀\0Et on dirait que non.
-\0 Apparemment,
-quelqu'un qui me ressemble est déjà
-sur le point d'arriver.
-(촀\0Et avoir deux quasi-sosies sur
-la même île risque d'embrouiller
-l'administration, il sembleraitn"
 "208","(촀\0Bon,
 \0 j'ai appelé le \0bureau des
 résidents\0￿ pour voir s'il était
@@ -312,21 +278,6 @@ Et je refuse de dormir à la belle
 étoile!
 \0(촀\0 C'est que mon dos réclame
 un matelas digne de ce nom!"
-"211","(
-촀\0C'est quand même pas banal qu'il
-y ait déjà un zigoto avec presque
-la même tête que moi sur placen\0\0
-(촀\0Si ça se trouve, c'est mon jumeau
-maléfique!"
-"212","(촀\0C'est quand même n'importe quoi,
-cette histoire de sosie qui comme par
-hasard emménage en ce momentn\0\0
-('촀\0C'est une coïncidence qui pouvait
-pas plus mal tombern\0\0\0\0(촀\0Enfin tant pis.
-\0 On se recroisera
-quand le destin en aura décidé ainsi,
-\0
-et puis c'est tout!"
 "213","(촀\0Ton île doit être vraiment populaire
 s'il n'y a plus de place pour un
 nouvel arrivant!

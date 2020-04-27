@@ -6,7 +6,7 @@ organic fruit yet?"
 "001_b","No, tell me more!"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Oh, welln\0\0of course you have!
 \0
 You've got good taste."
@@ -55,10 +55,12 @@ something really special.
 packed to the rafters with wonders
 of the worldn\0\0
 (!촀\0I can't wait!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Who's got an impeccable sense
 of style and recommends the
 
@@ -100,27 +102,32 @@ an actual creature that lived millions
 of years ago.
 (1촀\0I hope my bones get their own
 exhibit somedayn"
-"101","<\0fj"
-"102","(4촀\0Hey, can I ask you something
+"201","<\0ÊÎ"
+"202","(4촀\0Hey, can I ask you something
 that's, 
 \0like,
-\0 serious business?\0\0(&촀\0Did you ever think about me after
-you moved away from here?"
-"102_a","Of course!"
-"102_b","To be honest, no."
-"102_c","Did you miss me?"
-"103","(6촀\0Awwn\0\0I feel the same way. 
+\0 serious business?\0\0(&촀\0Have you ever thought about me,
+\0
+you know,
+\0 since I moved away?"
+"202_a","Of course!"
+"202_b","To be honest, no."
+"202_c","Did you miss me?"
+"203","(6촀\0Awwn\0\0I feel the same way. 
 \0((촀\0Well,
 the good news is that you can
 come see me anytime, n\0!"
-"104","(촀\0Hey, thanks for being honest.
+"204","(촀\0Hey, thanks for being honest.
 \0 (5촀\0If I
 want to get my brand where I want
 it to be, I need feedback like that.
-(%촀\0You've moved on to bigger and
-better islands, no doubt, and I
-wish you the best of luck!"
-"105","(촀\0Hey, I asked you first! 
+( 촀\0And
+\0 I suppose you had no choice but
+to find some way,
+\0 however difficult,
+\0(촀\0
+to fill that giant void I left behind."
+"205","(촀\0Hey, I asked you first! 
 \0(6촀\0Ah, but I can't
 resist your cheeky charm, so I'll
 actually answer.
@@ -131,23 +138,23 @@ the memories I have with you.
 (촀\0n\0\0OK, we've gotta talk about
 something else now or I'm gonna
 lose it."
-"106","(촀\0Hey, have you heard about the
+"206","(촀\0Hey, have you heard about the
 latest trend sweeping the island?"
-"107","<lmno"
-"108","(촀\0It's fishing in the ocean!\0\0(촀\0I mean, sure, fishing has been
+"207","<ÐÑÒÓ"
+"208","(촀\0It's fishing in the ocean!\0\0(촀\0I mean, sure, fishing has been
 around forever, but it's recently
 back in vogue.
 (1촀\0There's something about gazing out
 over the sparkling sea while reeling
 in a catch that's so satisfyingn"
-"109","(촀\0It's catching bugs!\0\0()촀\0Yeah, I know folks have been
+"209","(촀\0It's catching bugs!\0\0()촀\0Yeah, I know folks have been
 catching bugs forever, but have you
 SEEN the cool bugs out there lately?
 (6촀\0Some of those things look like
 they should have a designer label
 on them. 
 \0(촀\0Ha HA!"
-"110","(촀\0It's digging holes!\0\0()촀\0Now, hear me out. 
+"210","(촀\0It's digging holes!\0\0()촀\0Now, hear me out. 
 \0I know it just
 sounds like a good way to get dirt
 on your brand-new faux-suede boots.
@@ -156,7 +163,7 @@ you're re-imagining the very
 landscape of our island!
 (9촀\0I find it to be one of the most
 creative things you can don"
-"111","(촀\0It's gardening!\0\0()촀\0Sure, we've been planting and
+"211","(촀\0It's gardening!\0\0()촀\0Sure, we've been planting and
 tending to plants for ages.
 \0(
 (촀\0But not like this!

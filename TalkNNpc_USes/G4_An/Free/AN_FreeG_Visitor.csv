@@ -6,7 +6,7 @@
 "001_b","Es... una muy rica"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(%촀\0¡Estás en lo correcto!
 \0
 (촀\0¡La fruta típica es 2\0n촀!"
@@ -46,10 +46,12 @@ para tener un \0museo \0￿tremendo. 
 (촀\0Seguro que vendrá un montón de
 gente a visitarlo. (5촀\0¡Qué ambientazo
 se va a armar, ya verás!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0¿Ya visitaste el \0museo\0￿, tú?\0\0(촀\0No me salgas con que eres de
 es2oas que evitan el rollo culturaln\0\0\0\0(촀\0¡Este museo está bue
 \0ní
@@ -62,13 +64,13 @@ es2oas que evitan el rollo culturaln\0\0\0\0(촀\0¡Este museo está 
 "028","(촀\0Si no has ido al \0museo \0￿todavía, no sé
 qué esperas, guapuraza.\0\0(%촀\0Tenemos cosas que no se ven
 todos los días, ¿eh?
-\0 Por ejemplon\0\0(촀\0¡Un2(촀\0a\0 
+\0 Por ejemplon\0\0(촀\0¡Un2)촀\0a\0 
 \0!"
 "029","(
 촀\0Oye, ¿alguna vez has visto 2\0
- en vivo y a todo color, tú?\0\0(5촀\0¡Porque en el \0museo \0￿tenemos un2(촀oa\0
-vivit2(촀oa\0 y coleando! 
-\0(촀\0No te l2(촀oa\0 puedes
+ en vivo y a todo color, tú?\0\0(5촀\0¡Porque en el \0museo \0￿tenemos un2)촀oa\0
+vivit2)촀oa\0 y coleando! 
+\0(촀\0No te l2)촀oa\0 puedes
 perder, hazme caso."
 "030","A todo esto, (촀\0¡no puedes decir que
 fuiste a n\0 si no
@@ -77,51 +79,59 @@ te dejará con la boca abierta:
 \0
 ¡2\0
 !"
-"101","<\0fi"
-"102","(촀\0A ver confiesa: 
-\0(3촀\0¿en realidad viniste
-a visitar n\0 o a mí?"
-"102_a","¡A ti, claro!"
-"102_b","Quería ver la isla"
-"103","(5촀\0¡Ya me las olía!
-\0 Como que siempre
-tengo ese efecto en la gente.
-\0 No sé
-por qué, la verdad.
-(%촀\0Pero que sepas que el sentimiento
-es mutuo.
-\0 ¡Eres un2oa de mis compis
-preferid2oas!"
-"104","(촀\0¡¿No tenías ni poquititas ganas
-de verme a mí?!
-\0 Al menos disimula
-un poquito, ¿no?
-(%촀\0Pero te entiendo y te perdonon\0\0
-\0
-(촀\0¡solo porque sé lo chévere que
-es n\0!"
-"105","Desembucha, n\0n\0\0
+"201","<\0ÊÒ"
+"202","(촀\0Ahora que no nos oye nadie más,
+confiesa: 
+\0(3촀\0¿viniste a verme a
+mín\0\0
+\0 o a n\0?"
+"202_a","¡A ti, claro!"
+"202_b","Quería ver la isla"
+"203","(촀\0¡Estaba claro!
+\0 Suelo tener ese efecto
+en la gente.
+\0 No sé por qué,
+\0 (5촀\0¡pero soy
+irresistible!
+Bueno, (3촀\0espero que sepas que
+el sentimiento es mutuo, amigui.
 \0
-(&촀\0¿Cómo te trata la vida en tu nuevo
-hogar? 
-\0¿Te gusta vivir en otra isla?"
-"106","<"
-"106_01","(:촀\0Más les vale a todos los lugareños
-de por allá ser agradables contigon\0\0
-\0
-(촀\0¡o se van a enterar de quién soy yo!
-(촀\0Aunque la verdad es que contigo
-es imposible no ser agradable."
-"106_02","($촀\0¿Tienen muchas flores por allá?
-\0
-(촀\0Si es así, más te vale que las estés
-regando y toda la cosa, ¿eh?
-()촀\0Las florecitas son bien roqueras
-y hay que cuidarlas."
-"106_03","Cuéntame, (&촀\0¿hay muchos insectos
-y peces por allá? 
-\0¿Andas de un lado
-para el otro con la red y la cañan\0\0?
-(촀\0A quién quiero engañarn\0\0 lo que en
-realidad me interesa saber es qué
-tan bueno se pone el jolgorio."
+¡Eres un2oa de mis (""촀\0compis prefe!"
+"204","(촀\0¡Pero bueno! 
+\0Se ve que la isla es
+más interesante que yo,
+\0 ¿eh?
+\0
+(촀\0Por lo menos disimula un pocon\0\0
+(%촀\0En fin, supongo que te entiendo.
+\0
+(촀\0¿Quién no querría ver n\0? ¡Es lo máximo!"
+"210","Bueno, n\0, cuentan\0\0
+\0
+(&촀\0¿Cómo está n	\0 desde que me fui?"
+"211","<"
+"211_01","(촀\0Espero que todos sean buena onda
+por allí.
+\0 (!촀\0¡Aunque la verdad es que
+contigo es imposible no serlo!
+(3촀\0Si hiciesen un concurso mundial
+de buena onda, 
+\0(촀\0¡sin dudas que
+ganarías tú, n\0!"
+"211_02","Yn\0\0
+\0(&촀\0 lo más importante:
+\0 ¿vive 2 촀
+algúnalguna\0
+n\0 por allí?\0\0(촀\0Lo pregunto solo por temas de
+estadística y eso. 
+\0¡Tampoco es
+que me importe!
+\0(촀\0 \0(Para nadan\0\0).\0￿"
+"211_03","(%촀\0A ver, me encanta mi nuevo hogar,
+\0
+(2촀\0pero a veces extraño el lugar
+donde vivía antes, n\0.
+(5촀\0Quizás un día de estos paso a
+saludar a mis viejos amiguis.
+
+\0(촀\0¡Sería bue-ní-si-mo!"

@@ -23,7 +23,7 @@ ti prego di tornare qui.
 \0 In caso di
 bisogno, usa la tua nuova mappa!
 (촀\0Bene, bene! 
-\0(""촀\0Parti pure. 
+\0(""촀\0Vai pure. 
 \0Ti auguro
 di trovare il posto dei tuoi sogni!"
 "002","<"
@@ -38,17 +38,14 @@ da noi a dircelo, per favore."
 \0dove preferiscin\0\0 purché ci sia posto."
 "002_03","(촀\0Ti stai chiedendo che dimensioni
 abbia la \0tenda\0￿?\0\0(
-촀\0Immagina cinque persone come te,
-\0
-in piedi,
-\0 una di fianco all'altran\0\0
-\0(%촀\0 e
-avrai la larghezza.
-( 촀\0Oh,
-\0 e per la profondità,
-\0 calcolane
-solo tre.
-\0 (촀\0Bene, bene!"
+촀\0Immagina cinque persone come
+te,
+\0 in piedi,
+\0 una di fianco all'altran\0\0
+(%촀\0Quella è la larghezza.
+(%촀\0Ah, 
+\0per la profondità invecen\0\0
+calcolane circa tre."
 "100","<"
 "100_01","(촀\0A organizzare tutto qui provvediamo
 noi!

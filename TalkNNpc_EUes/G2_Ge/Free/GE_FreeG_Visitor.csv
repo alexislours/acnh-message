@@ -9,7 +9,7 @@ fruta de n\0?"
 "001_b","(\0촀\0¿Qué?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Menos mal,
 \0 porque no te puedes
 perder nuestr2촀oa\0s n촁.
@@ -74,10 +74,12 @@ tiendita de campaña superhumilde!\0\0(촀\0Pásate a saludar a \0Sócr
 \0
 que seguro que eso de investigar
 todo (%촀\0solo le aburre mogollón."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Pues yo creo que deberías visitar
 el \0museo\0￿,
 \0 que tiene cosis idealas
@@ -95,7 +97,7 @@ mismo es ir al \0museo\0￿ a ver
 (%촀\0Te superrecomiendo que vayas,
 n\0."
 "029","()촀\0No te puedes perder 2\0
- que tienen en el \0museo\0￿.\0\0((촀\0Yo, desde que 2(촀lola\0 vi, soy 
+ que tienen en el \0museo\0￿.\0\0((촀\0Yo, desde que 2)촀lola\0 vi, soy 
 \0mega
 fán,
 n\0."
@@ -104,38 +106,40 @@ mismo es ir al \0museo\0￿ a ver
 \0 increíble, ¿vale?
 (""촀\02\02\0
  es mi superprefe.
-\0 (%촀\0Ve a verl2(촀oa\0 y entenderás lo que digo."
+\0 (%촀\0Ve a verl2)촀oa\0 y entenderás lo que digo."
 "101","<\0fi"
-"102","(""촀\0¡Has vuelto, n\0!
-\0 (2촀\0Ay, ¿es porque me echabas de
-menos?"
-"102_a","¡Sí!"
-"102_b","Pues no mucho..."
-"103","(촀\0¡Qué mon2oa!
-\0 (7촀\0Yo a ti también,
-\0 que
-lo sepas, n\0.\0\0('촀\0Me quedé así como plof cuando
-te fuiste,
-\0 (촀\0pero sabía que volverías
-de visita algún día.
+"201","<\0ÊÍ"
+"202","(촀\0Has venido de visita porque me
+echabas de menos,
+\0 ¿a que sí, n\0?"
+"202_a","¡Totalmente!"
+"202_b","No ha sido por eso, no"
+"203","(촀\0¡Qué mon2oa!
+\0 Yo también te echo
+de menos (7촀\0a ti,
+\0 que lo sepas, n\0.\0\0(4촀\0Si te soy sincera, estoy la mar de
+feliz y emocionada viviendo aquí,
+\0
+(8촀\0¡pero me acuerdo muchérrimo de ti!
 ((촀\0A ver,
-\0 que para algo somos amiguis.
-\0
-Vuelve cuando quieras, guapísim2oa."
-"104","(촀\0¡Ja!
+\0 que para algo somos amiguis
+inseparables.
+\0 Ven a verme cuanto
+quieras, guapísim2oa."
+"204","(촀\0¡Ja!
 \0 ¡No me lo creo!
 \0 (6촀\0No puedes
 vivir sin míiiiin\0\0\0\0(\0촀\0Ahora en serio,
-\0 (촀\0cuando te fuiste me
-dio un poco así de bajón, ¿sabes?\0\0()촀\0Pero descubrí 촀 y, oye, como que me animó mucho.
-\0
-(촀\0Ahora lo hago todo el rato."
-"105","Bueno, n\0,
-\0 ahora vives en n	\0, ¿no?
-\0 (%촀\0Pues cuenta, cuenta."
-"105_a","¡Es muy divertida!"
-"105_b","¡Es muy bonita!"
-"106","(촀\0¿Ah, sí?
+\0 (촀\0cuando me marché
+me dio un poco así de bajón,
+¿sabes?
+()촀\0Pero descubrí que me encanta 촀 y, oye, como que me animó mucho.\0\0(촀\0Ahora lo hago todo el rato."
+"205","(;촀\0Bueno, n\0,
+\0 ¿qué tal la vida en n	\0 desde que me fui?
+\0 (%촀\0Cuenta, cuenta."
+"205_a","¡Muy divertida!"
+"205_b","Bastante tranquila"
+"206","(촀\0¿Ah, sí?
 \0 Yo soy 
 \0super
 
@@ -147,13 +151,18 @@ diversión en todas sus formas.\0\0(촀\0¡Eh!
 \0 escucha:
 \0 cuando sea
 famosa y esté en plan de gira
-y eso, ¿vale?
+y eso, n\0n\0\0
 (촀\0¡Aprovecharé para pasar por n	\0 y así nos vemos! (촀\0¡Aaay, qué chipichipi será!"
-"107","( 촀\0¿Ah, sí?
+"207","( 촀\0¿Ah, sí?
 \0 ()촀\0Pues me alegro,
 \0 porque
-la bonitez de una isla también
-es importante.
-($촀\0Y además estás tú allí para darle
-tu toque divino a todo.
-\0 (촀\0Qué envidia me da n	\0n"
+la tranquilidad en la vida a veces
+también es importante.
+($촀\0Pero, oye, un poco de animación
+y emoción tampoco está mal de
+vez en cuando, ¿a que no?
+(%촀\0Tú no te preocupes:
+\0 cuando salga
+de gira mundial, 
+\0(촀\0hago parada en n	\0 fijo fijo, 
+\0guapi."

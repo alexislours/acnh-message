@@ -4,8 +4,8 @@
 \0 Zo te zien
 werkt de app hier niet."
 "001","Wil je de reddingsdienst bellen?"
-"001_a","(\0촁\0Bellen!"
-"001_b","(\0촁\0Niet nodig."
+"001_a","(\0촁\0Ja."
+"001_b","(\0촁\0Nee."
 "010","                    
 \0d\0d\0\0Tot ziens!\0ddd
 "
@@ -34,7 +34,7 @@ kunnen de systemen niet tegenn\0\0\0\0Als dit echt een noodgeval is, 
 \0druk je
 op\0 \0￿ om het menu te openen 
 \0en kies
-je \0De sessie beëindigen\0￿. Snappie?d"
+je \0DE SESSIE BEËINDIGEN\0￿. Snappie?d"
 "012_02","d\0Zeg, luister eens evenn\0\0
 \0 Zit je
 misschien
@@ -45,7 +45,7 @@ signalen door elkaar lopen, 
 wordt hetn\0\0 een zooitje.\0\0Als je echt in de nesten zit,
 \0 druk je
 op\0  \0￿om het menu openen en kies
-je \0Terug naar mijn eiland\0￿.d\0
+je \0TERUG NAAR MIJN EILAND\0￿.d\0
 \0d Oké?d"
 "013","d\0Wacht effe. 
 \0Zit je, eh,
@@ -299,10 +299,10 @@ dat!d"
 "201","Wil je de \0Eilandontwerper\0￿-app
 starten en wat bouwwerkzaamheden
 verrichten?"
-"201_a","Ik wil bouwen!"
-"201_b","Opruimdienst, a.u.b.!"
-"201_c","Is er een handleiding?"
-"201_d","Neuh."
+"201_a","Ik wil bouwen"
+"201_b","Opruimdienst, a.u.b."
+"201_c","Ik wil de handleiding lezen."
+"201_d","Laat maar..."
 "202","Er wordt een bouwvergunning
 aangevraagdn\0\0
 <"
@@ -310,10 +310,10 @@ aangevraagdn\0\0
 Vergeet niet een bouwhelm te dragen
 en werk altijd veilig!"
 "205","Ben je klaar met bouwen?"
-"205_a","Ja, ik ben uitgebouwd."
-"205_b","Opruimdienst, a.u.b.!"
-"205_c","Is er een handleiding?"
-"205_d","Nee, ik ga nog even door."
+"205_a","Ja, ik ben klaar."
+"205_b","Opruimdienst, a.u.b."
+"205_c","Ik wil de handleiding lezen."
+"205_d","Nee. ik ben niet klaar."
 "206","
 \0Er is iets mis met de verbindingn\0\0
 "
@@ -422,9 +422,9 @@ gaat er opeens iets mis.\0\0Misschien heb je jezelf de weg
 versperd of kun je iets op een klif
 niet bereiken.\0\0Op zulke momenten kan de
 opruimdienst je helpen om wat orde
-op zaken te stellen om je heen.\0\0Alleen meubels, hekken of
-soortgelijke voorwerpen \0in je directe
-omgeving \0￿worden opgeruimd.\0\0Zorg dat je zo dicht mogelijk bij de
+op zaken te stellen om je heen.\0\0De opruimdienst ruimt alleen
+geplaatste voorwerpen, hekken en
+bomen \0in je directe omgeving\0￿ op.\0\0Zorg dat je zo dicht mogelijk bij de
 voorwerpen in de buurt bent, voordat
 je de dienst inschakelt.\0\0Voorwerpen die door de dienst zijn
 opgehaald, komen in de \0recyclekist
@@ -432,28 +432,28 @@ opgehaald, komen in de \0recyclekist
 uit de kist te halen!"
 "251","Welke handleiding wil je lezen?"
 "251_01","Welke handleiding wil je lezen?"
-"251_01_a","Beginnershandleiding."
-"251_01_b","Handleiding padenaanleg."
-"251_01_c","Handleiding waterwegbouw."
-"251_01_d","Handleiding opruimdienst."
-"251_01_e","Ik ben uitgelezen."
+"251_01_a","Beginnershandleiding"
+"251_01_b","Handleiding padenaanleg"
+"251_01_c","Handleiding waterwegbouw"
+"251_01_d","Handleiding opruimdienst"
+"251_01_e","Laat maar..."
 "251_02","Welke handleiding wil je lezen?"
-"251_02_a","Beginnershandleiding."
-"251_02_b","Handleiding padenaanleg."
-"251_02_c","Handleiding kliffenbouw."
-"251_02_d","Handleiding opruimdienst."
-"251_02_e","Ik ben uitgelezen."
+"251_02_a","Beginnershandleiding"
+"251_02_b","Handleiding padenaanleg"
+"251_02_c","Handleiding kliffenbouw"
+"251_02_d","Handleiding opruimdienst"
+"251_02_e","Laat maar..."
 "251_03","Welke handleiding wil je lezen?"
-"251_03_a","Beginnershandleiding."
-"251_03_b","Handleiding padenaanleg."
-"251_03_c","Handleiding waterwegbouw."
-"251_03_d","Handleiding kliffenbouw."
-"251_03_e","Handleiding opruimdienst."
-"251_03_f","Ik ben uitgelezen."
-"251_a","Beginnershandleiding."
-"251_b","Handleiding padenaanleg."
-"251_c","Handleiding opruimdienst."
-"251_d","Ik ben uitgelezen."
+"251_03_a","Beginnershandleiding"
+"251_03_b","Handleiding padenaanleg"
+"251_03_c","Handleiding waterwegbouw"
+"251_03_d","Handleiding kliffenbouw"
+"251_03_e","Handleiding opruimdienst"
+"251_03_f","Laat maar..."
+"251_a","Beginnershandleiding"
+"251_b","Handleiding padenaanleg"
+"251_c","Handleiding opruimdienst"
+"251_d","Laat maar..."
 "261","Soms kan er opeens iets misgaan
 tijdens een constructieproject.\0\0Misschien kun je een voorwerp op
 een klif niet bereiken, of heb je
@@ -462,26 +462,28 @@ voorwerpen om je heen weg te halen.\0\0De weggehaalde voorwerpen komen
 in de \0recyclekist \0￿bij de \0servicebalie\0￿
 terecht.\0\0Lees de handleiding voor meer
 informatie."
-"262","Wil je dat de voorwerpen om je
-heen naar de recyclekist bij de
-servicebalie worden gebracht?"
-"262_a","Ja, ruim maar op!"
-"262_b","Nee, nu niet."
+"262","Wil je de opruimdienst gebruiken
+om de voorwerpen om je heen naar
+de recyclekist te laten brengen?"
+"262_a","Ja."
+"262_b","Nee."
 "263","Begrepen!
 \0 Een momentje geduld
 terwijl de voorwerpen om je
 heen opgeruimd worden..."
 "264","Het opruimen is klaar!
-\0 Denk eraan
-om de voorwerpen uit de \0recyclekist
-\0￿bij de \0servicebalie\0￿ te halen."
+\0
+Let op: alleen voorwerpen en hekken
+worden naar de \0recyclekist \0￿gebracht."
 "265","Er is niets gevonden om op te
-ruimen.\0\0De opruimdienst haalt alleen
-voorwerpen en hekwerken
-uit je directe omgeving weg."
+ruimen.\0\0De opruimdienst verwijdert alleen
+geplaatste voorwerpen, hekken en
+bomen uit je directe omgeving."
+"266","Je bevindt je \0buiten het bereik\0￿ van
+de opruimdienst.\0\0Op n	\0 kan deze dienst alleen buiten gebruikt worden."
 "301","De plattegrond-app werkt kennelijk
 niet voor dit eiland."
-"311","O? Zo te zien heb je hier geen
-bereik. Deze app kun je daarom
-niet gebruiken."
+"321","Zo te zien kun je tijdens het buurten
+niet van de \0Chatgeschiedenis\0￿-app
+gebruikmakenn"
 "999","\0100 \0￿miles"

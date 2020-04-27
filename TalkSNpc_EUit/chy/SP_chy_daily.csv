@@ -112,14 +112,14 @@ insetti,
 da me dopo averne preso uno vero!"
 "012","(%촀\0Giusto perché tu lo sappia,
 \0 domani
-mattina devo partire alle 5n\0\0
+mattina devo partire alle \05:00\0￿n\0\0
 \0(
 (촀\0Fammi sapere prima di allora, OK?"
 "013","(%촀\0Giusto perché tu lo sappia,
 \0 devo
-partire alle 5 del mattino, quindin\0\0
-
-\0((촀\0fammi sapere per allora, va bene?"
+partire alle \05:00\0￿, quindin\0\0 
+\0((촀\0fammi
+sapere per allora, va bene?"
 "014","( 촀\0Eh?
 \0 Oh, scusa.(2촀\0
 \0 Ero sovrappensiero.\0\0(&촀\0Allora, hai già trovato degli insetti?
@@ -174,9 +174,9 @@ Il cuore mi frinisce nel petto! (촀\0Èn\0\0
 \0un sogno
 !
 \0( \0Mantieni la calma, Ivanon\0\0
-(6촀\0\0￿Per caso non mi venderestin\0\0 2""촀questoquesta\0 }\0\0
+(6촀\0\0￿Per caso non mi venderestin\0\0 2""촀questoquesta\0 }\0\0
 \0 per, diciamo, (&촀\0Z?"
-"024_a","Vendo, vendo!"
+"024_a","(\0촁\0Vendo, vendo!"
 "024_b","('촀\0Ora che ci penson"
 "025","(!촀\0Tutti questi tesorini?! 
 \0Questo è il
@@ -185,7 +185,7 @@ giorno più bello della mia vita! 
 (\0촀\0\0OK, ora rilassati, Ivanon\0\0\0￿\0\0Ehm, 
 \0(3촀\0in cambio posso offrirti,
 diciamo, Z?"
-"025_a","Vendo, vendo!"
+"025_a","(\0촁\0Vendo, vendo!"
 "025_b","('촀\0Ora che ci penson"
 "027","(촀\0Dici sul serio?!
 \0(촀\0 G-Grazie!"
@@ -246,7 +246,7 @@ queste metamorfosi!"
 la bellezza,
 \0 in essa si riflette
 2\0}\0."
-"048","(1촀\0È 2\0}\0 l'unic2̑촀oa\0 a comprendere veramente il mondo?"
+"048","(1촀\0È 2\0}\0 l'unic2̒촀oa\0 a comprendere veramente il mondo?"
 "049","(1촀\0Se 2\0}\0 mi si parasse davanti, 
 \0(&촀\0come reagirei? Con il riso o con il pianto?"
 "070","\0\0K(1촀\0Mi identifico con i tre segmenti
@@ -360,11 +360,11 @@ massima cura."
 \0￿(\0촀\0Cioè,
 \0 ehmn\0\0
 \0(\0\0(;촀\0\0IL NOSTRO CONTRATTO
-È STIPULATO!\0d\0\0(-촀\0Sento già il sacro fuoco della
-della mia creatività avvolgermi e
-scaldare il mio sangue freddo!
+È STIPULATO!\0d\0\0(-촀\0Sento già il sacro fuoco della mia
+creatività avvolgermi e scaldare
+il mio sangue freddo!
 (7촀\0Quando, grazie all'ispirazione della
-musa l'avrò ultimat2đ촀oa\0, ti spedirò
+musa l'avrò ultimat2Ē촀oa\0, ti spedirò
 2\0}\0."
 "109","(촀\0\0COSA?!
 \0\0d

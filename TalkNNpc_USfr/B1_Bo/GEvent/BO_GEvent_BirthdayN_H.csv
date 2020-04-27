@@ -13,11 +13,9 @@ Tu es venu2\0e célébrer ma fête?
 fête, n\0!"
 "004","(2촀\0Ça fait vraiment plaisir d'être
 entouré de tous mes amis pour
-célébrer ma fête.\0\0(촀\02\0s촀 m'a même donné
-un cadeau tout à l'heure!\0\0(\0촀\0Est-ce quen\0\0 toi aussi,
-\0($촀\0
-tu m'as apporté quelque chose,
-n\0?"
+célébrer ma fête.\0\0(촀\02\0s촀 m'a même donné un cadeau tout à l'heure!\0\0(\0촀\0Est-ce quen\0\0 toi aussi,
+\0($촀\0 tu m'as
+apporté quelque chose, n\0?"
 "004_a","Bien évidemment!"
 "004_b","Non, désolé2\0e."
 "005","(촀\0J'adore les fêtes!
@@ -25,8 +23,7 @@ Et aujourd'hui, c'est moi la star!\0\0()촀\0Et qui dit jour de fête,
 \0 dit gâteau et
 surtoutn\0\0 cadeau!\0\0(4촀\0Allez, arrête de jouer avec mes 
 nerfs, n\0!
-\0 Tu m'as
-apporté un cadeau, non?"
+\0 Tu m'as apporté un cadeau, non?"
 "005_a","Bien sûr que oui!"
 "005_b","Ben... non."
 "006","(1촀\0J'avais tellement hâte que ma
@@ -35,8 +32,7 @@ fête arrive!\0\0(\0촀\0On mange du gâteau, 
 cadeauxn\0\0
 \0(촀\0 On est la star pour toute
 une journée!\0\0(\0촀\0Dis, n\0,
-\0(;촀\0 est-ce que
-tu m'as apporté un cadeau?
+\0(;촀\0 est-ce que tu m'as apporté un cadeau?
 \0(촀"
 "006_a","Oui, le voilà!"
 "006_b","Non, j'ai oublié."
@@ -79,7 +75,7 @@ Quel suspense!"
 \0 Une fête ne serait
 pas une vraie fête sans gâteau!\0\0(촀\0Tu me connais vraiment très bien,
 n\0!"
-"018","(촀\02\02\0}\0\0!\0\0(촀\0J'en ai déjà un2촀\0e\0,
+"018","(촀\02\02\0}\0\0!\0\0(촀\0J'en ai déjà un2촀\0e\0,
 \0(2촀\0 mais ça me fait
 plaisir que tu connaisses si bien
 mes goûts, n\0!"
@@ -91,7 +87,7 @@ mangeant,
 \0 j'aurai un rechange!\0\0(""촀\0Je crois que ça va beaucoup me
 servir, n\0!"
 "020","(촀\0Hé!
-\0 Mais c'est l2촀ea\0 même }\0\0 que cel2촀uile\0 que tu portes!\0\0(촀\0On va pouvoir être assortis, n\0!\0\0(2촀\0Les gens vont nous prendre pour
+\0 Mais c'est l2촀ea\0 même }\0\0 que cel2촀uile\0 que tu portes!\0\0(촀\0On va pouvoir être assortis, n\0!\0\0(2촀\0Les gens vont nous prendre pour
 des jumeaux,
 \0 hé hé hé!"
 "021","(촀\0Attendsn\0\0
@@ -103,13 +99,12 @@ ce que je crois que c'est?
 j'aurais jamais espéré recevoir un
 aussi beau cadeau!"
 "022","(촀\0Hein?! Je rêve ou quoi?! 2\02\0
-}\0\0?!\0\0(\0촀\0Tu es sûr2\0e que je peux l2촀ea\0 prendre?!
+}\0\0?!\0\0(\0촀\0Tu es sûr2\0e que je peux l2촀ea\0 prendre?!
 (촀\0Ouah, n\0!
 \0 T'es l2ea meilleur2\0e!"
 "023","(촀\02\02\0}\0\0!
 \0( (촀\0Ouah!
-\0 Comment tu as deviné que
-c'est ce que je voulais?"
+\0 Comment tu as deviné que c'est ce que je voulais?"
 "024","Ouais!
 \0(촀\0 J'ai eu 2\0}\0\0!
 \0 (촀\0Ça, c'est un super cadeau!"
@@ -177,15 +172,11 @@ moi aussi, pour te remercier. C'est
 \0 Grâce à toi,
 j'ai passé un super jour de fête,
 n\0!"
-"051","(촀\0Merci pour aujourd'hui,
-n\0! 
-\0($촀\0Je veux qu'on
-soit amis pour toujours!"
+"051","(촀\0Merci pour aujourd'hui, n\0! 
+\0($촀\0Je veux qu'on soit amis pour toujours!"
 "052","(촀\0Vraiment, n\0,
-\0
-merci pour ton cadeau!
-\0((촀\0 J'oublierai
-jamais ma fête cette année!"
+\0 merci pour ton cadeau!
+\0((촀\0 J'oublierai jamais ma fête de cette année!"
 "054","(촀\0Il y a pas mieux que les
 jours de fête!
 \0((1촀\0 Plein de cadeaux,
@@ -199,9 +190,7 @@ fête,
 \0(촀\0 mais maintenant,
 je m'élargisn"
 "056","Dis, n\0, 
-\0(&촀\0comment
-est-ce que tu manges ton gâteau
-de fête, d'habitude?\0\0(
+\0(&촀\0comment est-ce que tu manges ton gâteau de fête, d'habitude?\0\0(
 촀\0Moi, il m'est arrivé de le couper en
 fines partsn\0\0 ou de prendre tout le
 gâteau à la fourchetten\0\0\0\0(촀\0Mais j'ai encore jamais plongé ma
@@ -225,8 +214,7 @@ surtout,
 cadeaux aujourd'hui,
 \0 je suis trop
 content, n\0!\0\0(\0촀\0Et toi, n\0n\0\0
-\0(;촀\0 tu as
-un cadeau pour moi?"
+\0(;촀\0 tu as un cadeau pour moi?"
 "060_a","(\0촀\0Ouaip!"
 "060_b","Nan!"
 "061","(촀\0J'ai hâte de voir ce que tu
@@ -234,7 +222,7 @@ vas m'offrir pour ma fête,
 n\0.\0\0(4촀\0Tu m'as apporté un cadeau,
 \0 hein?"
 "061_a","(\0촀\0Évidemment!"
-"061_b","Argh, j'ai oublié..."
+"061_b","(\0촀\0Argh, j'ai oublié..."
 "062","(촀\0J'ai fait le plein de suuuuuuuuucre!!!\0\0Je veux que tu m'offres un cadeau!
 \0
 Tu m'as apporté un cadeau?
@@ -266,11 +254,9 @@ fête, n\0!"
 \0 Ça aurait pas été
 pareil sans toi."
 "068","2\0n\0! 
-\0(촀\0Merci d'être
-venu2\0e à ma fête n\0!"
+\0(촀\0Merci d'être venu2\0e à ma fête n\0!"
 "069","Ah, n\0,
-\0( 촀\0 tu rentres
-déjà?
+\0( 촀\0 tu rentres déjà?
 \0(('촀\0 Pas de problème.\0\0(촀\0Je voulais juste te remercier du fond
 du cœur
 \0 d'être venu2\0e célébrer ma fête, n\0."

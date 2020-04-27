@@ -29,19 +29,15 @@ para eson\0\0
 mí tu (촀\0}\0\0?"
 "003_a","¡Pues venga!"
 "003_b","Mejor no..."
-"004","(1촀\0La verdad es que no diría que
-no al traspaso de 2\0
-}\0\0
-\0n\0\0
-('촀\0Pero nadan\0\0
+"004","(1촀\0La verdad es que no diría que no
+al traspaso de 2\0}\0\0n\0\0\0\0('촀\0Pero nadan\0\0
 \0 ni flores.
-\0 (9촀\0¡Para el carro!\0\0(촀\0¿Es eso que veo ahí 2\0
-}\0\0?
-
+\0 (9촀\0¡Para el carro!
+\0
+(촀\0¿Eso que veo ahí es 2\0}\0\0?\0\0
 \0(촀\0¿Me estás ofreciendo una cesión?
 (#촀\0Porfan\0\0
-\0(8촀\0 cámbiamel2촀oa\0 por mi
-}\0."
+\0(8촀\0 cámbiamel2촀oa\0 por mi }\0n"
 "004_a","¡Por supuesto!"
 "004_b","Por supuesto que no"
 "100","(촀\0¡Olé! Ya sabía yo que eras buena
@@ -55,11 +51,12 @@ molestado con todo este rollo,
 "102","(""촀\0¡Gracias, n\0!
 \0
 (촀\0¡Menuda asistencia, n\0!"
-"200","(촀\0¡Sí! ¡Sabía que no podrías resistirte
+"200","(촀\0¡Sí!
+\0 ¡Sabía que no podrías resistirte
 a la emoción de un trueque tan
-extremo!\0\0(%촀\0¡Entonces, me traspasas tu
-}\0\0 y yo te
-cedo mi }\0!"
+extremo!
+(%촀\0Entonces,
+\0 ¡me traspasas tu }\0\0 y yo te cedo mi }\0!"
 "201","(촀\0Vaya, no hay trato, ¿verdad?
 \0
 (\0촀\0Bueno, hay gente que no tiene

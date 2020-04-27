@@ -54,7 +54,7 @@ van de laatste \0Beestjesbeker\0￿.\0\0(\0촀\0Je hebt nu \0Z
 \0 Je zakken zitten al zo vol dat
 er niks meer bij kan, dus ook dit
 geleedpotig gewin niet.\0\0(9촀\0Kom maar terug wanneer je geestelijk
-en ehn\0\0 zakkelijk voorbereid bent."
+en, ehn\0\0 zakkelijk voorbereid bent."
 "011","(촀\0Gruwelijk!
 \0 (
 촀\0Dus je wilt \0(\0촀\0Z\0 2(\0puntenpuntpunten \0￿voor
@@ -84,7 +84,7 @@ nog een prijs, maar geen plek in je
 exo-skelet- (촀\0
 \0Ik bedoel zakken!
 (2촀\0Daar moet je misschien eerst wat
-aan doenn\0\0 En eh, kom daarna maar
+aan doenn\0\0 En, eh, kom daarna maar
 terug."
 "016","Je hebt nog best heel wat punten
 over.
@@ -117,12 +117,12 @@ simpel. Elke ronde vang je zoveel
 mogelijk beestjes \0in Z\0 20฀minutenminuutminuten\0￿ tijd.\0\0(%촀\0Je score is gebaseerd op hoeveel
 beestjes je vangt.\0\0(6촀\0Als je genoeg punten scoort, dan kun
 je die inruilen voor prachtige prijzen
-uit het wonderlijke wemelrijk.\0\0(;촀\0Tijdens de competitie belanden de
-beestjes die je vangt, op wonderlijke
-wijze in de \0insectenkooi\0￿ bij de tent.\0\0(촀\0Zolang je een net hebt, kun je
-altijd aan een ronde beginnen.
-\0
-(촀\0Geen ruimte in zakken vereist!"
+uit het wonderlijke wemelrijk.\0\0(;촀\0De beestjes die je vangt tijdens de
+competitie, vinden zelf de weg naar
+de \0insectenkooi\0￿ onder de partytent.\0\0(촀\0Zolang je een net hebt, kun je altijd
+aan een ronde beginnen.
+\0(촀\0 Geen
+ruimte in je zakken vereist!"
 "022","()촀\0De regels voor de \0Beestjesbeker\0￿ zijn
 simpel. Elke ronde vang je zoveel
 mogelijk beestjes \0in Z\0 minuten\0￿ tijd.\0\0(%촀\0Je score is gebaseerd op hoeveel
@@ -130,12 +130,12 @@ beestjes je vangt.\0\0( 촀\0O, je krijgt ook bonuspunten voor al
 de punten die je vrienden verdienen,
 wanneer je met anderen speelt!\0\0(6촀\0Als je genoeg punten scoort, dan kun
 je die inruilen voor prachtige prijzen
-uit het wonderlijke wemelrijk.\0\0(;촀\0Tijdens de competitie belanden de
-beestjes die je vangt, op wonderlijke
-wijze in de \0insectenkooi\0￿ bij de tent.\0\0(촀\0Zolang je een net hebt, kun je
-altijd aan een ronde beginnen.
-\0
-(촀\0Geen ruimte in zakken vereist!"
+uit het wonderlijke wemelrijk.\0\0(;촀\0De beestjes die je vangt tijdens de
+competitie, vinden zelf de weg naar
+de \0insectenkooi\0￿ onder de partytent.\0\0(촀\0Zolang je een net hebt, kun je altijd
+aan een ronde beginnen.
+\0(촀\0 Geen
+ruimte in je zakken vereist!"
 "023","(9촀\0Dus. 
 \0Ben je er klaar voor de beestjes
 te eren met de \0Beestjesbeker\0￿? 
@@ -184,10 +184,11 @@ het aantal beestjes dat je vangt!
 \0(;촀\0punten kun je inwisselen
 voor onschatbare en wonderlijke
 waren uit het wemelrijk!"
-"028","(1촀\0De beestjes en bewoners van het
-wemelrijk belanden op wonderlijke
-wijze in de \0insectenkooi\0￿ bij de tent.\0\0($촀\0Je hebt dus alleen een net en geen
-ruimte in je zakken nodig. 
+"028","(1촀\0Alle beestjes die je vangt, zullen
+zichzelf transsubstantiëren naar
+de \0insectenkooi\0￿ onder de partytent.\0\0($촀\0Je hoeft geen ruimte in je zakken te
+hebben,
+\0 een net is genoeg. 
 \0(촀\0Dat is de
 oneindige goedheid van de beestjes!"
 "029","Dusn\0\0
@@ -200,8 +201,8 @@ oneindige goedheid van de beestjes!"
 "030","(&촀\0Dus, eh,
 \0 doe je ook mee aan de
 \0Beestjesbeker\0￿?
-\0 (\0촀\0De eerste keer dat
-je meedoet is gratis,
+\0 (\0촀\0De eerste ronde
+vandaag is gratis,
 \0 dan weet je dat."
 "030_a","Ik speel een ronde!"
 "030_b","('촀\0Het komt nu niet uit."
@@ -251,7 +252,8 @@ bijeenkomsten, 
 gezoem bracht mij hiernaartoe!\0\0(""촀\0Hoe dan ook, speel een ronde mee!
 \0
 (!촀\0De \0Beestjesbeker\0￿ kan simpele zielen
-zoals wij naar het wemelrijk leiden!"
+zoals wij naar het wemelrijk leiden!
+(%촀\0Je kunt tot \0Z%촁:00 uur\0￿ meedoen."
 "037","(촀\0De \0Beestjesbeker\0￿ is begonnen!
 
 \0Het moment waarop de klamboe
@@ -305,7 +307,7 @@ zullen je zegenen. 
 \0(1촀\0ZO ZAL HET ZIJN."
 "045","( 촀\0O, zo te zien heb je al \0Z 2(Āpuntenpuntpunten\0￿n\0\0 (&촀\0Wil je die inwisselen voor mijn waren uit het wemelrijk?"
 "045_a","Inwisselen, graag!"
-"045_b","('촀\0Een andere keer."
+"045_b","(\0촀\0Een andere keer."
 "046","( 촀\0O! 
 \0Je hebt al \0Z 2(Āpuntenpuntpunten \0￿gespaard! \0\0(%촀\0Wil je wellicht Z\0 punten inruilen
 (&촀\0voor chitine-curiositeiten, 
@@ -313,7 +315,7 @@ zullen je zegenen. 
 \0
 mijn glorieuze geleedpotige waren?"
 "046_a","Inwisselen, graag!"
-"046_b","('촀\0Een andere keer."
+"046_b","(\0촀\0Een andere keer."
 "047","(%촀\0Veelpotige vraagstukken, ritselende
 raadsels?
 \0 Ik wijd heel mijn bestaan
@@ -331,13 +333,13 @@ ik blijf na de beker nog even hangen.
 "049","( 촀\0O,
 \0 n-natuurlijk!
 \0 Tja eh,
-\0 Wat alsn\0\0
+\0 wat alsn\0\0
 \0(
 (2촀\0\0Kik nu je beestjes koop en extra betaal en ik zorg
 dat ze bij mij een goed onderkomen vinden!\0d"
 "049_a","Wil je beestjes kopen?"
 "049_b","Ik wil punten inruilen."
-"049_c","Iets anders."
+"049_c","Over de Beestjesbeker..."
 "049_d","('촀\0Laat maar."
 "050","( 촀\0J-Ja, 
 \0natuurlijk! 
@@ -359,7 +361,7 @@ kameraden nu dan te zien?\0￿\0d\0\0(&촀\0Ahum. 
 "051_b","('촀\0Laat maar."
 "052","(촀\02\02\0}\0!
 \0 Nooit eerder heb ik er een van zo dichtbij gezienn\0\0
-\0( \0\0KEn zo perfectn\0\0\0d\0\0(&촀\0\0￿Wat is er nodig om je te overtuigen 2đ촀diedatdie 2촃}\0 voor Z te verkopen?"
+\0( \0\0KEn zo perfectn\0\0\0d\0\0(&촀\0\0￿Wat is er nodig om je te overtuigen 2Ē촀diedatdie 2촃}\0 voor Z te verkopen?"
 "052_a","Ja, alsjeblieft."
 "052_b","('촀\0Laat maar."
 "053","(촀\0Ik ben altijd bereid voor een beestje
@@ -367,15 +369,18 @@ te betalen! 
 \0((9촀\0ALTIJD."
 "054","(촀\0Echt?!
 \0(촀\0 W-Wauw, bedankt!"
-"056","(촀\0W-Wat, echt?! 
+"056","(촀\0
+\0W-Wat, echt?! 
 \0Dat is geweldig!
-\0(&촀\0
+\0((&촀\0
 Wat heb je voor me?!\0\0(8촀\0Wacht, je straalt het niet uit. 
 \0Nee, (;촀\0
 \0je
 aura mist totaal de 
+\0
 \0GRANDEUR
- van
+
+\0 van
 een ware beestjesbezitter!\0\0('촀\0Nee, ik kan alleen insecten kopen
 die,
 \0 zeg maar, 
@@ -411,11 +416,22 @@ insectenn\0\0
 \0 (;촀\0Zonder overleef je niet!"
 "061","( 촀\0O!
 \0 Eh, het spijt me, maar je hebt
-niet genoeg klingels.\0\0(촀\0Na de eerste ronde kost deelname
-je \0Z\0￿.
+niet genoeg klingels.\0\0(촀\0Kom maar weer terug wanneer je
+\0Z\0￿ hebt.
 \0 Sorry!"
-"062","(%촀\0Oké, mooi. 
-\0Dat is dan \0Z\0￿."
+"062","(촀\0M-Meen je dat? 
+\0Fenomenaal! 
+\0((%촀\0Je bent
+duidelijk klaar om je over te geven
+aan de glorie der geleedpotigen!\0\0(7촀\0Eh, na de eerste ronde kost
+deelname je \0Z\0￿.
+\0
+(&촀\0Kun je je daarin vinden?"
+"062_01","(%촀\0Geweldign\0\0
+\0(:촀\0 Dan help ik je even van
+die \0Z\0￿ afn"
+"062_a","Natuurlijk!"
+"062_b","Laat dan maar zitten..."
 "063","(%촀\0Okén\0\0 Je tijd gaat bijna in, je hebt
 \0Z\0 20฀minutenminuutminuten\0￿.
 \0 Vang ze allemaal.
@@ -432,7 +448,7 @@ plaatsen enn"
 \0 Vang ze allemaal.
 
 \0Of in elk geval veel, zoveel je kunt.\0\0( 촀\0O, en je krijgt bonuspunten als je er
-tenminste \0Z\0￿ vangtn\0\0 Dus, eh, tja,
+ten minste \0Z\0￿ vangtn\0\0 Dus, eh, tja,
 \0
 succes!\0\0(촀\0De ronde begint voor iedereen op
 hetzelfde moment, 
@@ -451,8 +467,7 @@ een energien\0\0 
 \0insectenkooi\0￿ van s\0촀!
 (%촀\0Je kunt niet aan de volgende ronde
 beginnen totdat alle \0insectenkooien
-\0￿leeg zijn. (촀\0Sorry!\0\0(촀\02\0s\0촀 zal eerst 2
-촀zijnhaar\0 beestjes mee moeten nemen of aan mij moeten verkopen.\0\0($촀\0Uiteraard geef ik er een goede prijs
+\0￿leeg zijn. (촀\0Sorry!\0\0(촀\02\0s\0촀 zal eerst 2촀zijnhaar\0 beestjes mee moeten nemen of aan mij moeten verkopen.\0\0($촀\0Uiteraard geef ik er een goede prijs
 voor!"
 "067","(&촀\0Voel je dat? 
 \0(1촀\0De energie van een
@@ -507,7 +522,7 @@ best gedaann\0\0 
 \0((4촀\0hopelijk was het leuk."
 "080_a","Het was superleuk!"
 "080_b","Het was echt intens!"
-"080_c","Het was een beetjen"
+"080_c","Het was een beetje..."
 "081","( 촀\0E-Echt?
 \0 Ik bedoeln\0\0
 \0 mooi!
@@ -515,9 +530,7 @@ best gedaann\0\0 
 \0((4촀\0Ik ben niet echt een fan van grote
 festivals, 
 \0dus ik hoopte maarn"
-"082","(!촀\0\0JA, DAT DUS?!
-\0\0d
-(\0촀\0Ik ben blij dat jij het ook cool vond!
+"082","(!촀\0\0JA, DAT DUS?!\0d\0\0(\0촀\0Ik ben blij dat jij het ook cool vond!
 \0
 (촀\0Bedankt dat je meegedaan hebt!"
 "083","(촀\0O, eh. 
@@ -643,7 +656,7 @@ nest verstoorde, te vermorzelen!"
 naar je \0insectenkooi\0￿ gekeken?\0\0(7촀\0Nee, zomaar,
 \0 maar als je toevallig je
 beestjes niet wilt hebben,
-\0 Bevrij- eh,
+\0 bevrij- eh,
 ( 촀\0KOOP ik ze graag van je, hoor."
 "120_a","Koop ze allemaal maar!"
 "120_b","Mijn insectenkooi?"
@@ -658,7 +671,7 @@ boezembeestjes nodig? 
 Z voor de hele
 beestjesboel? Een goede dealn"
 "123_a","Allemaal verkocht!"
-"123_b","Wacht even."
+"123_b","(\0촀\0Wacht even."
 "124","( 촀\0O, eh, het lijkt erop dat je geen
 ruimte hebt voor meer klingels. 
 \0(""촀\0Ik
@@ -669,8 +682,8 @@ maak het over naar je rekeningn"
 geef ik je in een klingelzak, oké?
 \0(""촀\0
 Dankjewel!"
-"127","(촀\0Ik zal zorgen dat alle beestjes uit je
-\0insectenkooi \0￿zich thuis voelen.
+"127","(촀\0Ik zal zorgen dat elk beestje uit je
+\0insectenkooi \0￿zich thuis voelt.
 \0
 Hopelijk speel je nog een keer mee!"
 "128","(촀\0De volgende \0Beestjesbeker\0￿ staat
@@ -680,11 +693,11 @@ klaar voor \0Z#촀\0￿.
 dit jaar, maar de volgende wordt in
 \0Z#촀\0￿ gehouden.\0\0(9촀\0Vergeet het niet."
 "130","()촀\0Elk beestje dat je vangt, wordt direct
-op onnavolgbare wijze naar je
+op onnavolgbare wijze naar de
 \0insectenkooi \0￿overgebracht.
 (%촀\0Als je je beestjes wilt ophalen, moet
 je
-\0 bij je kooi bij de tent zijn.
+\0 bij de partytent zijn.
 \0( (;촀\0Volg de
 weergaloze geur van het wemelrijk."
 "131","(%촀\0Wanneer je \0insectenkooi\0￿ leeg is, kun
@@ -738,7 +751,7 @@ niet DE manier om extra punten te
 scoren,
 \0(6촀\0 maar zeker wel EEN manier."
 "144","( 촀\0O, hoi! 
-\0Fijn dat je er bij bent vandaag
+\0Fijn dat je erbij bent vandaag
 voor dit beestjesfestijn!\0\0(&촀\0Was het wat?
 \0(&촀\0 Heb je onvoorstelbare
 nieuwe dingen en beestjes ervaren?
@@ -749,16 +762,16 @@ nieuwe dingen en beestjes ervaren?
 zien niet met zwermen gezegend.
 
 \0(Helaasn\0\0
-( 촀\0Maar de andere deelnemers hebben
+( 촀\0Maar alle deelnemers samen hebben
 in totaal een score van \0Z	\0￿.\0\0En bij \0meer dan Z
 \0￿ heeft iedereen
 recht op een bonus.
 \0( (%촀\0Deze ronde
 krijg je dus \0Z 2(܀puntenpuntpunten\0￿!"
-"146","( 촀\0Als je de nieuwe vriendjes zoekt die
-je deze ronde gevangen hebt,
-\0(""촀\0 die
-zitten in de \0insectenkooi\0￿ bij de tent.
+"146","( 촀\0Je vindt de nieuwe vriendjes die je
+deze ronde gevangen hebt,
+\0(""촀\0 in de
+\0insectenkooi\0￿ onder de partytent.
 (4촀\0Ik koop graag de beestjes van je
 waarmee je geen diepgaande relatie
 aan wilt gaan.
@@ -801,9 +814,51 @@ hebt,
 samenn\0\0
 \0 (촀\0Wauw!
 \0(촀\0 Wel \0Z 2(܀puntenpuntpunten\0￿!"
+"151","(%촀\0Je hebt al \0Z \0￿beestjes gevangen.
+\0(
+(촀\0Dat heb je vliegensvlug gedaan!\0\0()촀\0In zo'n kleine ruimte kunnen niet
+meer dan 20 beestjes zitten, 
+\0(촀\0anders
+gebeuren er vreselijk dingen!
+(4촀\0Daarom ben ik zo vrij geweest om
+een paar beestjes uit de \0insectenkooi
+\0￿te halen.
+(%촀\0Voor de bestwil van de beestjes én
+van de wereld
+\0(7촀\0 hoop ik dat je ze
+als een donatie wilt beschouwen.
+( 촀\0Natuurlijk krijg je er punten voor!
+\0( (
+촀\0De
+standaard \0Z punten\0￿,
+\0 plus een bonus
+voor het vangen van \0Z of meer\0￿n\0\0
+(:촀\0Dat is samen \0Z punten\0￿!"
+"152","(%촀\0Je hebt al \0Z \0￿beestjes gevangen.
+\0(
+(촀\0Dat heb je vliegensvlug gedaan!\0\0()촀\0In zo'n kleine ruimte kunnen niet
+meer dan 20 beestjes zitten, 
+\0(촀\0anders
+gebeuren er vreselijke dingen!
+(4촀\0Daarom ben ik zo vrij geweest om
+een paar beestjes uit de \0insectenkooi
+\0￿te halen.
+(%촀\0Voor de bestwil van de beestjes én
+van de wereld
+\0(7촀\0 hoop ik dat je ze
+als een donatie wilt beschouwen.
+( 촀\0(
+촀\0Even kijken,
+\0 samen hebben jullie
+\0Z	 \0￿beestjes gevangenn\0\0\0\0(촀\0Dus hebben jullie er \0Z
+ of meer
+\0￿gevangen(9촀\0
+\0 en krijg je bonuspunten.
+
+\0(Samen maakt datn\0\0 (:촀\0\0Z punten\0￿!"
 "160","()촀\0De \0insectenkooi\0￿ met al je beestjes
-staat bij de tent. (1촀\0Volg gewoon de
-geur van nektar en ambrozijn.
+staat onder de partytent. (1촀\0Ga maar op
+de geur van nektar en ambrozijn af.
 (%촀\0De beestjes die door de rest van de
 deelnemers zijn gevangen, zijn ook
 daar.\0\0(""촀\0Dus je kunt voor hen even een kijkje
@@ -838,7 +893,7 @@ op onnavolgbare wijze naar je
 meedoen. 
 \0(1촀\0Zelfs als hun zakken al
 barsten van de beestjes!"
-"163","Oké, (9촀\0Ik start zo de timer. Je hebt
+"163","Oké, (9촀\0ik start zo de timer. Je hebt
 \0Z\0 20ࠀminutenminuutminuten \0￿zodra we klaar zijn met dit
 gesprek.
 \0 Vang alles dat beweegt!
@@ -856,12 +911,12 @@ Klaar voor de start enn\0\0 
 gaan alleen naar de teamleider,
 \0 dus
 (6촀\0zorg dat je weet wie de leider is.
-()촀\0De beestjes die je tijdens deze ronde
+()촀\0De beestjes die je tijdens een ronde
 vangt, komen in de \0insectenkooi\0￿
-terecht, naast de tent.
+terecht, onder de partytent.
 (%촀\0De beestjes die door de rest van de
-deelnemers worden gevangen,
-komen ook in je \0insectenkooi \0￿terecht."
+deelnemers zijn gevangen, komen
+ook in de \0insectenkooi \0￿terecht."
 "165","(&촀\0Doe je mee aan de \0Beestjesbeker\0￿?
 \0
 (\0촀\0Je hebt al eens een team geleid, dus
@@ -897,10 +952,10 @@ beestjesvriend. 
 \0 Zorg
 ervoor dat je niet door de spanning
 uit je vel springt of te vroeg ontpopt!"
-"170","( 촀\0Hoe beviel het vieren van veelpotige
-vrienden vandaag? 
-\0Heb je iets over
-jezelf kunnen leren dankzij hen?"
+"170","( 촀\0Hoe beviel deze \0Beestjesbeker\0￿, onze
+viering van veelpotige vrienden? 
+\0Heb
+je iets over jezelf kunnen leren?"
 "171","( 촀\0Eh, hoi!
 \0 Doe je mee aan een ronde
 van de \0Beestjesbeker\0￿?

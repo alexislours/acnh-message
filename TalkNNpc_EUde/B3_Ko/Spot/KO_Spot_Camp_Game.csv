@@ -4,7 +4,7 @@
 kleinen Spielchen, 
 \0hm?\0\0(\0촀\0Gewinnst du,
 \0 dann kriegst du
-2(촀meinen
+2(촀meinen
 meinemein 2촁}\0\0.
 \0
 ($촀\0Sind wir im Geschäft,
@@ -34,22 +34,22 @@ Dann legen wir eben gleich los!
 (<촀\0Ich mische mal die Kartenn"
 "005","(9촀\0Und die Farbe istn"
 "006_01","(%촀\0Wie versprochen kriegst du jetzt
-2(촀meinen
+2(촀meinen
 meinemein 2촁}\0\0.
 \0 Nimm! 
-\0((촀\0Fand 2촀dendiedas eh nicht so knorken"
+\0((촀\0Fand 2촀dendiedas eh nicht so knorken"
 "006_02","(7촀\0Hmpf.
 \0 Konnte doch keiner wissen,
 \0
 dass du richtig rätstn\0\0\0\0(\0촀\0Sei's drum, 
-\0da hast du 2(촀meinen
+\0da hast du 2(촀meinen
 meinemein 2촁}\0\0! 
 \0Nimm schon,
 \0 (촀\0versprochen ist versprochen!"
 "006_03","(촀\0So ein Pech aber auch, 
 \0gra ha ha!
 \0((촀\0
-2(촀Meinen
+2(촀Meinen
 MeineMein 2촁}\0\0 muss ich dann wohl behaltenn"
 "007_01","(7촀\0Bin ja bekannt dafür, 
 \0auch mal
@@ -68,11 +68,12 @@ Eines Tages biste auch mal dran!"
 \0 Dabei
 haste nicht nur die Hosenn\0\0
 \0 sondern
-auch die Taschen voll, 
-\0(촀\0gra ha ha!
-Geh dich erst mal (:촀\0erleichtern, 
-\0wenn
-du 2촀dendiedas 2촁}\0\0 von mir haben willst, 
+auch die Taschen voll. 
+\0(촀\0Gra ha ha!
+Geh dich erst mal (:촀\0erleichtern,
+
+\0wenn du mit mir spielen willst,
+
 \0n\0!"
 "100","()촀\0Na schön.
 \0 Hab hier vier Karten,
@@ -83,7 +84,7 @@ und du darfst raten, 
 \0welche Farbe
 die hat, 
 \0n\0.\0\0(\0촀\0Liegst du richtig,
-\0(촀\0 geb ich dir 2(촀meinen
+\0(촀\0 geb ich dir 2(촀meinen
 meinemein
 2촁}\0\0.\0\0(\0촀\0Mehr gibt's dazu nicht zu sagenn\0\0
 \0(촀\0
@@ -119,15 +120,14 @@ Glück gehabt, 
 \0n\0!"
 "200","()촀\0Alson\0\0
 \0 Ich hab vier Karten, 
-\0jede mit
-einer von vier Farben, 
-\0aber immer \0rot
-\0￿oder \0schwarz\0￿:
-\0 \0♥\0￿, \0♦\0￿,\0 \0♠\0 \0￿und\0 \0♣\0\0￿.\0\0(촀\0Dann zieh ich eine Karte davon und
+\0jede
+entweder \0rot \0￿oder \0schwarz\0￿:
+\0
+\0♥\0￿, \0♦\0￿,\0 \0♠\0 \0￿und\0 \0♣\0\0￿.\0\0(촀\0Dann zieh ich eine Karte davon und
 du rätst,
 \0 ob sie rot oder schwarz ist.\0\0(촀\0Falls du richtigliegen solltest,
 \0
-gibt's von mir als Preis 2촀dendiedas
+gibt's von mir als Preis 2촀dendiedas
 2촁}\0\0 hier.\0\0(\0촀\0Das wär's auch schon.
 \0(촀\0 Ich werd jetzt
 (<촀\0einfach die Karten mischen und
@@ -140,7 +140,7 @@ schon steppt hier dern\0\0
 du hast keinen Schimmer,
 \0 frag dich
 aber trotzdem:
-\0 \0Rot\0￿ oder \0schwarz\0￿?"
+\0 \0rot\0￿ oder \0schwarz\0￿?"
 "201_a","\0Rot!\0￿"
 "201_b","\0Schwarz!\0￿"
 "202_01","(촀\0Verflixt und zugenäht, 
@@ -153,10 +153,10 @@ ist 촀,
 \0 du bist mir 'ne Tröten\0\0
 \0 Die Karte
 ist 촀, 
-\0also liegst du meilenweit
-daneben.
+\0also wär \0schwarz\0￿ richtig 
+gewesen.
 \0((촀\0 Pech gehabt, 
-\0n\0!"
+\0n\0."
 "202_03","(촀\0Verflixt und zugenäht, 
 \0die Karte ist
 촀,
@@ -167,7 +167,7 @@ daneben.
 \0 du bist mir 'ne Tröten\0\0
 \0 Die Karte
 ist 촀, 
-\0also liegst du meilenweit
-daneben.
+\0also wär \0rot\0￿ richtig
+gewesen.
 \0((촀\0 Pech gehabt, 
-\0n\0!"
+\0n\0."

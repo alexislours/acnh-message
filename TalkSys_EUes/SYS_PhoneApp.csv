@@ -412,9 +412,9 @@ la altura de la zona elevada."
 "245","\0Servicio de recogida\0￿\0\0Si, mientras estás realizando obras
 públicas, te estorba algún objeto,
 este servicio podría serte muy útil.
-Podrá retirar muebles y vallas \0que te
-circunden\0￿ aunque estén fuera de tu
-alcance, p. ej. sobre terreno elevado.
+Podrá retirar muebles, vallas y
+árboles \0que te circunden\0￿ aunque
+estén colocados fuera de tu alcance.
 Asegúrate de pegarte al objeto
 que te estorba antes de solicitar
 el \0servicio de recogida\0￿.
@@ -467,15 +467,18 @@ de la oficina de gestión vecinal?"
 \0
 Será solo un momento."
 "264","¡Tarea completada!
-\0 No olvides
-recoger los objetos del \0depósito de
-reciclaje\0￿ de la \0oficina de gestión\0￿."
+\0 Ten en cuenta
+que solo los objetos y las vallas se
+enviarán al \0depósito de reciclaje\0￿."
 "265","No se ha podido retirar nada.\0\0El servicio de recogida solo retira
-los objetos o vallas que estén
-colocados a tu alrededor."
+los objetos, vallas o árboles que
+estén colocados a tu alrededor."
+"266","Estás \0fuera de la zona de servicio\0￿.
+Solo puedes usar esta aplicación en
+n	\0 al aire libre."
 "301","Parece que la aplicación del mapa
 no funciona en esta isla."
-"311","Dice que estoy fuera de la zona de
-servicio. Supongo que no puedo
-usar la aplicación aquí."
+"321","Vaya, parece que la aplicación
+\0Historial del chat\0￿ no funciona
+durante partidas en grupon"
 "999","\0100 \0￿millas"

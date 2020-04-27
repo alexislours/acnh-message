@@ -1,16 +1,16 @@
 ﻿"label","text"
 "001","(촀\0Hey, 
-\0(촀\0ich hab gehört, du hättest 2""촀
+\0(촀\0ich hab gehört, du hättest 2""촀
 eineneineein
 2촁}\0\0.
 \0(
 (9촀\0Ist da was dran?\0\0(촀\0Ja?! 
-\0Kann ich 2촀ihnsiees dann vielleicht
+\0Kann ich 2촀ihnsiees dann vielleicht
 haben?
 \0(촀\0 Du könntest mir einen
 Traum erfüllen, 
 \0n\0!"
-"002","(촀\0Ich will unbedingt 2""촀
+"002","(촀\0Ich will unbedingt 2""촀
 eineneineein
 2촁}\0\0 haben!
 \0
@@ -25,37 +25,33 @@ haben, was ich suche...\0\0(촀\0Und, 
 Hab ich recht damit, dass wir so
 weit auf einer Wellenlänge sind?\0\0(촀\0Was? 
 \0Tatsächlich?!
-\0(촀\0 Du hast 2""촀
+\0(촀\0 Du hast 2""촀
 eineneineein
 2촁}\0\0?
 \0
 (촀\0Wie cool ist das denn?"
-"003","(촀\0Ich suche schon seit Langem
-2""촀
+"003","(촀\0Ich suche schon seit Langem 2""촀
 eineneineein 2촁}\0\0,
-\0
-aber ohne Erfolg...\0\0(촀\0Ein wahrer Suchmarathon...
+\0 aber ohne Erfolg...\0\0(촀\0Ein wahrer Suchmarathon...
 \0
 (촀\0Wie jetzt?!
 \0 Du besitzt tatsächlich
-2""촀
-eineneineein 2촁}\0\0?\0\0(촀\0Kann ich 2촀ihnsiees haben?
+2""촀
+eineneineein 2촁}\0\0?\0\0(촀\0Kann ich 2촀ihnsiees haben?
 \0(9촀\0 Natürlich nicht
 geschenkt!
 \0 Ich zahle, 
 \0n\0!"
 "003_a","(\0촁\0Wie viel?"
 "003_b","Ich gebe nichts her."
-"004","(촀\02(촀Einen 
-Eine Ein 2촁}\0\0
-zu finden ist schwieriger, als ein
-Auswärtsspiel zu gewinnen!
-(촀\0Ich geb's wohl besser auf. 
+"004","(촀\02(촀Einen 
+Eine Ein 2촁}\0\0 zu finden ist schwieriger, 
+\0als ein Auswärtsspiel zu gewinnen!\0\0(촀\0Ich geb's wohl besser auf. 
 \0(촀\0Moment!
 \0
 Du hast doch wohl nicht etwa...?\0\0(촀\0Ja, doch! 
-\0Das ist tatsächlich 2촀eineineein
-}\0\0!\0\0(&촀\0Verkaufst du 2촀ihnsiees mir, 
+\0Das ist tatsächlich 2촀eineineein
+}\0\0!\0\0(&촀\0Verkaufst du 2촀ihnsiees mir, 
 \0n\0?"
 "004_a","(\0촁\0Wie viel bietest du?"
 "004_b","Ist leider nicht drin."
@@ -92,10 +88,8 @@ Mittellinie gekommen...
 \0 (""촀\0Vielleicht
 finde ich ja einen anderen Verkäufer."
 "104","(촀\0Wir beide sind halt ein Team,
-\0
-n\0!
-\0(촀\0 Da brennt
-nichts an, 
+\0 n\0!
+\0(촀\0 Da brennt nichts an, 
 \0n\0!"
 "105","(촀\0Hui, 
 \0das kam ja wie ein ganz linker
@@ -134,7 +128,8 @@ Geschäft oder was?"
 "110_b","Nee, zu wenig."
 "111","(촀\0Wirklich?! 
 \0(촀\0Klasse!"
-"112","(촀\0Tja, damit ist mein K. o. besiegelt.
+"112","(촀\0Tja,
+\0 damit ist mein K. o. besiegelt.
 \0
 (촀\0Aber irgendwo werd ich schon noch
 fündig, 
@@ -163,20 +158,19 @@ super, 
 ('촀\0So ein Pfostenschuss!
 \0(\0촀\0 Dann wird das
 wohl nichts mit uns zwei Hübschen."
-"117","(촀\02$촀Ein 
+"117","(촀\02$촀Ein 
 Eine Ein }\0\0!
 \0
-Endlich hab ich 2&촀
+Endlich hab ich 2&촀
 eineneine
 eines!
 \0
 (촀\0Danke, 
 \0n\0!"
-"118","(촀\0Aha, du machst hinten dicht,
-\0
-n\0. 
-\0Absolut kein
-Durchkommen...\0\0(촀\0Dann geht das Match halt an
+"118","(촀\0Aha, 
+\0du machst hinten dicht,
+\0 n\0. 
+\0Absolut kein Durchkommen...\0\0(촀\0Dann geht das Match halt an
 dich, 
 \0n\0!"
 "200","(8촀\0Wärst du eventuell an einem Verkauf
@@ -245,7 +239,7 @@ nicht verdenken, 
 \0n\0.\0\0(촀\0Wenn nur mein Portemonnaie
 genauso dick wie mein Bizeps
 wäre..."
-"307","(촀\02$촀Ein 
+"307","(촀\02$촀Ein 
 Eine Ein }\0\0!
 \0
 Endlich!\0\0(5촀\0Da könnte ich nachher zur Feier
@@ -270,13 +264,10 @@ Liegestütze machen, 
 und hoffentlich irgendwann
 erfolgreich sein, 
 \0n\0."
-"403","(촀\02$촀Ein 
+"403","(촀\02$촀Ein 
 Eine Ein }\0\0,
-\0
-endlich ist meine Jagd von
-Erfolg gekrönt!\0\0(촀\02\0n\0, 
-\0dafür schulde
-ich dir was, 
+\0 endlich ist meine Jagd von Erfolg gekrönt!\0\0(촀\02\0n\0, 
+\0dafür schulde ich dir was, 
 \0n\0!"
 "404","(촀\0Tja, 
 \0ähm, 

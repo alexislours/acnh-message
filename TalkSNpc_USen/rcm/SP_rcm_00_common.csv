@@ -1,17 +1,16 @@
 ﻿"label","text"
 "001","(촀\0Welcome, n\0!
-\0
+\0(
 (\0촀\0How can I help you today?"
 "001_a","I want to sell!"
 "001_b","What's for sale?"
 "001_c","('촀\0See you later."
 "002","(촀\0Oho!
-\0 And what do we have here?(촀\0
-\0
+\0 And what do we have here?
+\0(
 
 \0(촀\0I'm impressed that you traveled all
-the way to our fair island!
-(\0촀\0What can I do you for today?"
+the way to our fair island!\0\0(\0촀\0What can I do you for today?"
 "002_a","I want to sell!"
 "002_b","What's for sale?"
 "002_c","('촀\0See you later."
@@ -22,18 +21,17 @@ the way to our fair island!
 "011","(촂\02\0(촃\0n\0,
 \0 welcome!d\0
 \0 \0K...welcome!\0dd
-\0 (\0촂\0What do you need today?"
+\0( (\0촂\0What do you need today?"
 "011_a","I want to sell!"
 "011_b","Turnip prices?"
 "011_c","What's hot today?"
 "011_d","('촀\0See you later."
 "012","(촀\0Oho!
-\0 And what do we have here?(촀\0
-\0
+\0 And what do we have here?
+\0(
 
 \0(촀\0I'm impressed that you traveled all
-the way to our fair island!
-(\0촀\0What can I do you for today?"
+the way to our fair island!\0\0(\0촀\0What can I do you for today?"
 "012_a","I want to sell!"
 "012_b","Turnip prices?"
 "012_c","What's hot today?"
@@ -77,7 +75,7 @@ since it's Sunday, some items, such
 as turnips, are off the table nown\0\0\0\0(\0촂\0(\0촃\0Sorry for the trouble, but please
 reselect what you'd like to sell."
 "031","(%촂\0(촃\02\02\0}\0\0!
-\0
+\0(
 (촂\0Sure! How about if I offer you
 Z\0?"
 "031_a","(%촀\0Sold!"
@@ -311,12 +309,17 @@ your phonen"
 \0DIY \0￿even more now with your new
 recipes!d\0
 \0 \0K...new recipes!\0dd"
+"108","()촀\0Oh! 
+\0I'm afraid we can only sell that
+to customers who have the \0DIY\0￿ app.\0\0(촀\0If you'd like to learn more about \0DIY\0￿,
+
+\0you should stop by \0Resident Services
+\0￿once you get back to your island."
 "110_02","(촂\0(촃\02\0n\0, I'm pretty sure
 you already have this recipe.\0\0(촂\0(촃\0But if you still want to buy it, it'll
 cost Z\0.
-\0(&촀\0
-\0 Are you still
-(&촂\0interested?(&촃\0d\0
+\0( (&촂\0Are you still
+interested?(&촃\0d\0
 \0 \0K...interested?\0dd"
 "110_02_a","(%촀\0I'll buy it!"
 "110_02_b","('촀\0Actually, I'll pass."
@@ -464,16 +467,16 @@ for today.
 here again another time!\0Kd\0
 \0 ...another time!d\0d
 Z"
-"901","( 촂\0Oh?
-\0(&촂\0 Are you sure?
-\0 (\0촂\0(촃\0Well, if there's
+"901","(&촂\0Oh?
+\0 Are you sure?
+\0( (\0촂\0(촃\0Well, if there's
 anything else I can help you with,
 \0
 (촂\0please let me know.d\0
 \0 \0K...know!\0dd"
-"902_01","Understood!
-\0 Please let me know
-\0(촂\0(촃\0 if
+"902_01","(촂\0Understood!
+\0 Please let me know
+\0(촃\0 if
 you need anything else.d\0
 \0 \0K...else!\0dd"
 "902_02","(촂\0(촃\0Oh! Changed your mind?
@@ -481,7 +484,7 @@ you need anything else.d\0
 else catch your eye?"
 "903_01","(촀\0Ah, 
 \0changed your mind?
-\0(\0촀\0 Please let
+\0((\0촀\0 Please let
 me know if(촀\0 there's anything else I
 can help with!"
 "903_02","(\0촂\0(\0촃\0I'll be here if you (촂\0(촃\0need anything else."

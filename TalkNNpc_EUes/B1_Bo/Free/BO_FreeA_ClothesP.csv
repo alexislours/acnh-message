@@ -1,10 +1,8 @@
 ﻿"label","text"
 "001","<"
 "001_01","(%촀\0Oye, n\0.
-\0 Es2촀ea\0 es
-mi viej2촀oa\0 }촀,
-\0 ¿verdad?
-(촀\0Qué alegría que te guste tanton\0\0
+\0 Es2촀ea\0 es mi viej2촀oa\0 }촀,
+\0 ¿verdad?\0\0(촀\0Qué alegría que te guste tanton\0\0
 \0
 (촀\0¡Ahora mismo me siento como la
 mismísima Mofette de la Oleur!\0\0(9촀\0Si no has visto su programa
@@ -12,55 +10,50 @@ mismísima Mofette de la Oleur!\0\0(9촀\0Si no has visto su programa
 \0 ¡te lo
 recomiendo, n\0!"
 "001_02","(
-촀\02촀EseEsa\0 }촀 te queda genialn\0\0\0\0(%촀\0¡Sabía que estaba hech2촀oa\0 para ti, n\0.
+촀\02촀EseEsa\0 }촀 te queda genialn\0\0\0\0(%촀\0Sabía que estaba hech2촀oa\0 para ti, n\0.
 \0 (촀\0¡Qué estilazo tienes!"
-"001_03","(촀\0Oye, es2촀oa\0 }촀 que llevas es genial.\0\0(6촀\0Seguro que l2촀oa\0 ha elegido alguien
+"001_03","(촀\0Oye, es2촀ea\0 }촀 que llevas es genial.\0\0(6촀\0Seguro que l2촀oa\0 ha elegido alguien
 con muy buen gusto.
 \0 (촀\0¡Hablo de mí,
-claro! ¡Je, je, je!\0\0(촀\0En fin, me alegro de que te guste."
+claro!
+\0 ¡Je, je, je!
+(촀\0En fin, me alegro de que te guste."
 "002","<"
 "002_01","(촀\0¡Qué 2
-molónmolona estás con es2촀ea\0 }\0\0!\0\0(촀\0¡Te queda de maravilla!
+molónmolona estás con es2촀ea\0 }\0\0!\0\0(촀\0¡Te queda de maravilla!
 \0( Parece que
-fue hech2촀oa\0 a tu medida, n\0."
-"002_02","(촀\02\0n\0, veo que llevas puest2촀oa\0 2\0}\0\0.\0\0(%촀\0Pues la verdad es que luce mucho
+fue hech2촀oa\0 a tu medida, n\0."
+"002_02","(촀\02\0n\0, veo que llevas puest2촀oa\0 2\0}\0\0.\0\0(%촀\0Pues la verdad es que luce mucho
 mejor en ti (촀\0que en el suelo de mi
 casa, n\0n"
-"002_03","(촀\0Es2촀ea\0 }\0\0 te queda de maravilla.\0\0(촀\0Me alegro mucho de que te l2촀oa\0 pongas."
+"002_03","(촀\0Es2촀ea\0 }\0\0 te queda de maravilla.\0\0(촀\0Me alegro mucho de que te l2촀oa\0 pongas."
 "003","<"
 "003_01","(촀\0Oye, n\0,
-\0 2ė촀eseesa\0 }촁 que llevasn\0\0
+\0 2Ę촀eseesa\0 }촁 que llevasn\0\0
 \0 (촀\0¡te queda genial!"
-"003_02","(;촀\0Oye, ¿de dónde has sacado es2ė촀ea\0
-maravillosísim2ė촀oa\0 y estilosísim2ė촀oa\0
+"003_02","(;촀\0Oye, ¿de dónde has sacado es2Ę촀ea\0
+maravillosísim2Ę촀oa\0 y estilosísim2Ę촀oa\0
 }촁?
 (;촀\0Yo también quiero un melón molón
 como el tuyon"
-"003_03","(2촀\0Jo, es2ė촀ea\0 }촁
-te queda genial en la cabeza.
-\0
-(""촀\0¡Mola!"
+"003_03","(2촀\0Jo, es2Ę촀ea\0 }촁 te queda genial en la cabeza.
+\0 (""촀\0¡Mola!"
 "004","<"
-"004_01","(촀\0Es2ȗ촀ea\0 }촂 que
-llevasn\0\0
+"004_01","(촀\0Es2Ș촀ea\0 }촂 que llevasn\0\0
 \0 ¡mola mazo!"
-"004_02","(촀\0Es2ȗ촀ea\0 }촂n\0\0
-\0
-¡te queda superchachi!
-\0
-(;촀\0Ojalá tuviese tanto estilo como tún"
+"004_02","(촀\0Es2Ș촀ea\0 }촂n\0\0
+\0 ¡te queda superchachi!
+\0 (;촀\0Ojalá tuviese tanto estilo como tún"
 "004_03","(&촀\0¿Es 2\0}촂?
-\0
-(%촀\0¡Mola, n\0!"
+\0 (%촀\0¡Mola, n\0!"
 "005","($촀\0Oye, n\0,
-\0 ¿eso es
-2\0}촃?\0\0(촀\0A mí me gustan los pantalones
+\0 ¿eso es 2\0}촃?\0\0(촀\0A mí me gustan los pantalones
 con goma en la cinturan\0\0\0\0(촀\0¡Por muchas merendolas que hagas,
 \0
 siempre te caben!"
 "006","(촀\0¡Si hay algo que mola de lo
 que llevas hoy puesto,
-\0 es es2З촀ea\0
+\0 es es2И촀ea\0
 }촄!
 (1촀\0Con esa preciosidad en las patas,
 \0
@@ -96,10 +89,10 @@ un estilazo que quita el hipo,
 \0( ¡¿Que es un trabajo
 de s\0촂
 de s촀?!
-(%촀\0Pues como 20ȍ촀diseñadordiseñadora\0 mola
+(%촀\0Pues como 20Ȏ촀diseñadordiseñadora\0 mola
 un puñadon\0\0\0\0(1촀\0¡Ojalá hiciera un diseño inspirado
 en 2\0촀!"
-"010","(촀\02촀EseEsa\0 }촀 que llevas es superprimaveral.
+"010","(촀\02촀EseEsa\0 }촀 que llevas es superprimaveral.
 \0 (;촀\0¡Hasta puedo oler las flores!"
 "011","(%촀\0Si tuviera que definir con una
 palabra esa ropa que llevasn\0\0
@@ -114,8 +107,7 @@ ser calentito, n\0n\0\0
 (촀\0¡como unos churros recién hechos!"
 "014","(
 촀\0Oye, n\0n\0\0
-\0 ¿no tienes
-mucho calor con esa ropa?\0\0(촀\0¡Ah, seguro que también te sirve
+\0 ¿no tienes mucho calor con esa ropa?\0\0(촀\0¡Ah, seguro que también te sirve
 para mantener calentitas las torrijas!"
 "015","(촀\0¿No tienes frío?
 \0 (촀\0Aaah,
@@ -123,7 +115,7 @@ para mantener calentitas las torrijas!"
 \0
 ¡seguro que has comido (6촀\0algo picante!"
 "016","(촀\0Oye, n\0,
-\0 qué }촀 más mon2촀oa\0 llevas,
+\0 qué }촀 más mon2촀oa\0 llevas,
 \0 (;촀\0¡pareces una chuche!\0\0(촀\0Ni que decir tiene que me encanta,
 claron"
 "017","(;촀\0Hala, qué chulada de }촀.
@@ -134,9 +126,9 @@ Vamos,(촀\0
 esa pinta,
 \0 (촀\0¡yo iba, n\0!"
 "018","(
-촀\0Te queda bien 2촀eseesa\0 }촀.
-\0 Parece cómod2촀oa\0.\0\0(촀\0¡Y está limpísim2촀oa\0!
-\0 ¿Te 2촀lola\0 has puesto
+촀\0Te queda bien 2촀eseesa\0 }촀.
+\0 Parece cómod2촀oa\0.\0\0(촀\0¡Y está limpísim2촀oa\0!
+\0 ¿Te 2촀lola\0 has puesto
 (&촀\0hace mucho rato?\0\0(촀\0Yo da igual lo que me ponga,
 \0 porque
 en media hora (촀\0parece una servilleta
@@ -146,9 +138,9 @@ usada, n\0."
 \0 (""촀\0¡Vas hech2oa un maniquí!\0\0(촀\0Si fueras una tarta,
 \0 te tendrían en
 la vitrina para atraer al público, n\0."
-"020","(&촀\0¿Llevas 2\0}촀?
+"020","(&촀\0¿Llevas 2\0}촀?
 \0 (
-촀\0Parece muy cómod2촀oa\0n\0\0\0\0(%촀\0Solo de ver2촀lola\0 le entran a uno
+촀\0Parece muy cómod2촀oa\0n\0\0\0\0(%촀\0Solo de ver2촀lola\0 le entran a uno
 ganas de moverse.\0\0(
 촀\0No sé, es como si dijeran\0\0
 \0
@@ -156,7 +148,7 @@ ganas de moverse.\0\0(
 \0
 (2촀\0A veces se me olvida, n\0n"
 "021","(촀\0¿Llevas 2\0}촀?
-\0 (촀\0¿Y si te 2촀lola\0 manchas, n\0?\0\0(촀\0Yo no puedo ir tan elegante,
+\0 (촀\0¿Y si te 2촀lola\0 manchas, n\0?\0\0(촀\0Yo no puedo ir tan elegante,
 \0
 me pongo nervioso.
 \0 (촀\0Y los nervios me
@@ -185,10 +177,10 @@ aprovecharlo otro día!
 ()촀\0Yo lo llamo «merendola tardía»."
 "101_03","(
 촀\0Oye,
-\0 siempre te veo con es2촀ea\0
+\0 siempre te veo con es2촀ea\0
 }촀, n\0n\0\0\0\0(&촀\0¿Es tu uniforme o algo así?"
-"101_04","(촀\0Te mola mucho es2촀ea\0 }촀, ¿eh?
-\0 L2촀oa\0 llevas todos los díasn\0\0\0\0(
+"101_04","(촀\0Te mola mucho es2촀ea\0 }촀, ¿eh?
+\0 L2촀oa\0 llevas todos los díasn\0\0\0\0(
 촀\0Yo creo que nunca he sido tan fiel a
 algon\0\0
 \0 (촀\0¡excepto a las torrijas,

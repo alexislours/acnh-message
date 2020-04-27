@@ -26,6 +26,11 @@ sofort dort unterbringen!"
 "103","(1촀\0Was ist wohl die beste Stelle dafürn\0\0
 (촀\0Damit komme ich meinem
 Traumzimmer einen Schritt näher!"
+"104","\0(
+촀\0Mir ist, als hätte ich eine Erinnerung
+an dieses Stückn\0\0
+\0 (%촀\0Doch es könnte
+auch Einbildung sein.\0￿"
 "111","(촀\0Wie überaus exquisit! 
 \0($촀\0Vielen Dank
 für dieses bezaubernde Geschenk,
@@ -149,9 +154,9 @@ den Tisch, 
 (촀\022\0DenDieDasDieDieDie werde ich nachher sofort
 aufstellen!"
 "406","(촀\0Oh! 
-\02촀(Ein echter, lebender&Eine echte, lebende(Ein echtes, lebendes
+\02촀(Ein echter, lebender&Eine echte, lebende(Ein echtes, lebendes
 }\0\0?!"
-"407","(촀\0Ob 2촀ersiees sich bei mir zu Hause
+"407","(촀\0Ob 2촀ersiees sich bei mir zu Hause
 wohlfühlen wird?
 \0
 ($촀\0Danke, 
@@ -174,9 +179,7 @@ erst einmal bei \0Eugen\0￿ vorstellig
 zu werden, 
 \0n\0."
 "411","(2촀\0Oh n\0,
-\0 deine
-Großzügigkeit rührt mich schier
-zu Tränen.\0\0(촀\0Doch vielleicht wäre dein Geschenk
+\0 deine Großzügigkeit rührt mich schier zu Tränen.\0\0(촀\0Doch vielleicht wäre dein Geschenk
 bei \0Eugen\0￿ besser aufgehoben als bei
 meiner Wenigkeit, 
 \0n\0."
@@ -202,7 +205,7 @@ gerechnet!
 n\0."
 "507","( 촀\0Du meine Güte,
 \0 eine
-Bastelanleitung für 2""촀
+Bastelanleitung für 2""촀
 eineneineein
 2촁}\0\0?"
 "508","(촀\0Das ist überaus aufmerksam von dir,

@@ -125,27 +125,31 @@ unknowingly bought one!
 might well pop out just as far!"
 "Fish_02222","(%촀\0Ah, the magnificent \02\0Ā촃killifish\0￿! Did you
 know there are over 1,000 different
-species of \02\0Ā촃killifish\0￿?\0\0( 촀\0
+species?
+( 촀\0
 \0My goodness, what a family tree
 to keep track of!\0\0(1촀\0My own favorite \02\0Ā촃killifish \0￿species are
-the \0mangrove\0￿, which can live on land
-for weeks, breathing air! Andn\0\0\0\0(촀\0the \0mummichog\0￿, the first fish ever
-brought to space.\0\0(1촀\0I wonder if the \02\0Ā촃killifish \0￿you've
+the mangrove, which can live on land
+for weeks, breathing air! Andn\0\0
+(촀\0the mummichog, the first fish ever
+brought to space.\0\0(촀\0I wonder if the \02\0Ā촃killifish \0￿you've
 brought me is related to either
-of those intrepid explorers?\0\0(촀\0I shall have to interview it once it
-has settled into its new home!"
+of those intrepid explorers?"
 "Fish_02223","(촀\0Ohoo! So you have found a \02\0Ā촃crawfish\0￿.
 \0((%촀\0
 Neither crab nor lobster, 
 \0(""촀\02\0Ā촃crawfish
 evolved in an interesting manner.
-(1촀\0Beware their fearsome pinchy
-pinchers! Behold their many legs!
-\0(
-I say—it is a bit bug-like, eh wotn\0\0\0\0(:촀\0\0KThe more I look at it,
-\0( (촀\0the more unsettled I feeln\0\0\0d
-Let's tuck it away and never speak
-of it again, shall we?"
+(9촀\0Beware their fearsome pinchy
+pinchers!
+\0 Behold their many legs!
+\0
+(촀\0I say! It is a bit bug-like, eh wotn\0\0
+\0K(촀\0The more I look at it,
+\0 the more unsettled I feeln\0\0
+\0\0d
+(:촀\0Let's be done with this and never
+speak of it again, shall we?"
 "Fish_02224","(촀\0The \02\0Ā촃soft-shelled turtle\0￿
 \0(%촀\0 is not one to
 shy away from biting when provoked.\0\0('촀\0In addition to its powerful bite,
@@ -338,15 +342,15 @@ fickle fashion sense."
 around, and, 
 \0in the world of fish,
 \0
-(5촀\0that's a bit of an accomplishment!
+(5촀\0that's quite an accomplishment!
 (%촀\0They are territorial predators, and
 therefore must constantly defend
 their ""turf"" from others.
 ((촀\0So when you see a large \02\0Ā촃char \0￿like
 this one, it is likely a skilled fighter
-and veteran of many battles!
-(촀\0\0KI don't suppose you could transfer it to the
-museum tank for me, could you?\0d"
+and veteran of many battles.
+(촀\0\0KMy feathers! I hope it never has cause to go
+to battle with me!\0d"
 "Fish_02241","(촀\0The \02\0Ā촃stringfish\0￿
 \0 grows slowly, but also
 lives quite a long time for a fish,
@@ -461,17 +465,23 @@ just waiting to strike.\0\0(9촀\0Well, never fear—
 \0I shall keep THIS
 one under the strictest lock and key,
 with('촀\0 nary a bathroom break allowed!"
-"Fish_02250","(촀\0It would seem your angling expertise
+"Fish_02250","(촀\0It would seem your angling expertise
 knows no bounds!\0\0This beauteous \02\0Ȁ촃arowana\0￿
 \0(%촀\0 fetches a
-pretty Bell, though I'd venture to say that its true price is beyond measure.\0\0(
-촀\0The \02\0Ȁ촃arowana\0￿ has been on the
+pretty Bell, though I'd venture to say
+that its true price is beyond measure.
+()촀\0The \02\0Ȁ촃arowana\0￿ is an excellent jumper.
+\0(
+Some have been seen
+\0(촀\0 leaping six
+feet out of the water, eh wot!
+(
+촀\0Alas, it has also been on the
 endangered-species list for
-some time.\0\0It's up to us to remain educated and
-do all we can to help preserve such
-magnificent creatures.\0\0(촀\0Not to worry, old bean. This lovely
-fishy friend is in good wings here!\0\0(촀\0On behalf of the museum,
-\0 (:촀\0I thank you warmly for your unending generosity!"
+some time.
+(촀\0It's up to us to do all we can to help
+preserve such magnificent creatures
+for the years to come."
 "Fish_02251","(촀\0Woo-hoo! So shiny! This massive
 fish's name, (촀\0\02\0Ā촃dorado\0￿, means ""golden""
 in Spanish—a fitting title.
@@ -858,7 +868,7 @@ venomous.
 of the 2\0Ā촃blowfish with an unusual
 shape,
 \0 like a fish head with a tail.
-(/촀\0They are a fairly relaxed species,
+(.촀\0They are a fairly relaxed species,
 \0
 often content to ride where the
 currents take them.

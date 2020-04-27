@@ -211,24 +211,22 @@ overwhelming, n\0."
 "202_01","(촀\0Why, how do you do, n\0?\0\0(""촀\0Someone from this island invited
 me here for a little camping trip.
 \0
-(6촀\0How could I say possibly no?"
-"202_02","($촀\0How do you do?
-\0
-I'm n
-\0.\0\0(촀\0I was invited here by a local,
-you know, 
-\0((촀\0so I'm here and
-ready for fun, n\0!"
-"202_03","(%촀\0I'm n
-\0.
-\0 A pleasure
-to make your acquaintance.\0\0()촀\0One of the lovely local residents
+(6촀\0How could I possibly say no?"
+"202_02","I was invited here by a local, you
+know.
+\0(5촀\0 It's quite the honor, don't
+you think?
+Now that I'm here, darling, 
+\0(촀\0I am
+ready to experience the magic,
+n\0!"
+"202_03","()촀\0One of the lovely local residents
 invited me to try camping here.
-\0
+\0(
 (촀\0So I came as soon as I could.
 (촀\0I just HAD to see what all the fuss
 was about!
-\0((촀"
+\0-(촀"
 "301","<"
 "301_01","(%촀\0It's important that one set out on
 new travel adventures whenever
@@ -245,11 +243,11 @@ the shopping.
 "301_02","To be honest, darling,('촀\0 I wouldn't
 have thought camping like this
 would suit me.
-(촀\0After all, I do tend to enjoy the finer
-things in lifen\0\0
-\0((9촀\0like a solid roof over
-my head and a toilet that flushes.
-()촀\0But much to my surprise, camping
+(촀\0After all, I usually loathe to go
+without basic amenitiesn\0\0
+\0((9촀\0you know,
+like an infinity pool or a heated bidet.
+()촀\0But much to my surprise, roughing it
 suits me just fine. 
 \0((5촀\0I find it appeals
 to my bold nature.
@@ -312,11 +310,11 @@ the shopping.
 "302_02","To be honest, darling,('촀\0 I wouldn't
 have thought camping like this
 would suit me.
-(촀\0After all, I do tend to enjoy the finer
-things in lifen\0\0
-\0((9촀\0like a solid roof over
-my head and a toilet that flushes.
-()촀\0But much to my surprise, camping
+(촀\0After all, I usually loathe to go
+without basic amenitiesn\0\0
+\0((9촀\0you know,
+like an infinity pool or a heated bidet.
+()촀\0But much to my surprise, roughing it
 suits me just fine. 
 \0((5촀\0I find it appeals
 to my bold nature.

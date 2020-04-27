@@ -36,7 +36,7 @@ Grundstück platziert werden."
 "012_b","Items für \0draußen\0￿"
 "012_c","Ablauf"
 "012_d","Beenden"
-"013","n\0\0Du hast nichts zum Abgeben."
+"013","n\0\0Ich habe nichts zum Abgeben."
 "013_a","Items für \0drinnen\0￿"
 "013_b","Items für \0draußen\0￿"
 "013_c","Ablauf"
@@ -50,9 +50,9 @@ in der Nähe des Grundstücks:"
 "015_b","Items für \0draußen\0￿"
 "015_c","Ablauf"
 "015_d","Beenden"
-"021_01","Du hast ein Item abgegeben!"
-"021_02","Du hast zwei Items abgegeben!"
-"021_03","Du hast drei Items abgegeben!"
+"021_01","Ich habe ein Item abgegeben!"
+"021_02","Ich habe zwei Items abgegeben!"
+"021_03","Ich habe drei Items abgegeben!"
 "022","Alle für dieses Zuhause nötigen
 Items für drinnen sind bereit!"
 "022_01","Alle für dieses Zuhause nötigen
@@ -86,5 +86,6 @@ welche Items benötigt werden.\0￿"
 "103","Hier entsteht das neue
 Haus von s촀.
 	– Nook Inc. –"
-"901","Du solltest das Haus vorbereiten,
+"901","Ich sollte das Haus vorbereiten,
+\0
 wenn kein Besuch mehr da ist."

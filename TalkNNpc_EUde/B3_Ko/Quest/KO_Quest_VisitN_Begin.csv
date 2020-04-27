@@ -1,13 +1,17 @@
 ﻿"label","text"
 "001","(
-촀\0Oh, n\0... Ich hab
-überlegt... (촀\0Willst du mich mal
+촀\0Oh,
+\0 n\0n\0\0
+\0 Ich hab
+überlegtn\0\0
+\0 (촀\0Willst du mich mal
 besuchen kommen?
 (7촀\0Nicht dass ich dich besser kennen-
-lernen will... (촀\0Aber DU sollst MICH
+lernen willn\0\0
+\0 (촀\0Aber DU sollst MICH
 besser kennenlernen! 
 \0(촀\0Gra ha ha!"
-"001_a","(\0촀\0Warum nicht!"
+"001_a","Warum nicht!"
 "001_b","Ich bin ausgebucht..."
 "002","(5촀\0Du solltest mal zu mir nach Hause
 kommen!
@@ -24,7 +28,7 @@ doch mal vorbei.
 \0 (촀\0Am besten...
 jetzt sofort?"
 "003_a","Klingt gut!"
-"003_b","(\0촀\0Klingt bedrohlich!"
+"003_b","Klingt bedrohlich!"
 "004","(촀\0Das ist dann wohl ein Nein. 
 \0Na, egal.
 \0
@@ -52,10 +56,12 @@ klappt's ja ein andermal,
 das große Ereignis stattfinden?"
 "008_a","Sofort!"
 "008_b","(\0촀\0Morgen vielleicht?"
-"009","(촀\0Na, das ist doch schon mal was!
+"009","(촀\0Na, 
+\0das ist doch schon mal was!
 \0(
 촀\0
-Also... Willst du direkt mitkommen?"
+Alson\0\0
+\0 Willst du direkt mitkommen?"
 "009_a","Gern!"
 "009_b","Lieber morgen."
 "101","(%촀\0„Was du heute kannst besorgen...“
@@ -113,8 +119,10 @@ bei mir, oder?
 \0( (촀\0Tja, erwarte nur nicht
 zu viel!"
 "208","(
-촀\0Mal überlegen... Du warst noch nie
-bei mir, oder?
+촀\0Mal überlegenn\0\0
+\0 Du warst noch nie
+bei mir, 
+\0oder?
 \0 (촀\0Dann sollte ich wohl
 etwas aufräumen!"
 "301","(9촀\0Ich erwarte dich dann morgen bei

@@ -26,7 +26,7 @@ die untere?"
 "001_b","Die untere bitte."
 "001_c","Was ist das?"
 "001_d","Ich gucke nur..."
-"002","(촀\0s촀?
+"002","(촀\02\0s촀?
 Das ist von dir, nicht wahr?
 \0
 Alson\0\0 (&촀\0was möchtest du tun?"
@@ -34,11 +34,22 @@ Alson\0\0 (&촀\0was möchtest du tun?"
 "002_b","Darf ich ausstellen?"
 "002_c","Ich gucke nur..."
 "003","(촀\0Das Design von s\0촀 heißt „⁠s촀⁠“. Alson\0\0(&촀\0 was hast du vor?"
+"003_01","(촀\0Das Design von s\0촀 heißt „⁠s촀⁠“. Alson\0\0(&촀\0 was hast du vor?"
+"003_01_a","Will ich haben!"
+"003_01_b","Darf ich ausstellen?"
+"003_01_c","Melden"
+"003_01_d","Ich gucke nur..."
 "003_a","Will ich haben!"
 "003_b","Darf ich ausstellen?"
 "003_c","Ich gucke nur..."
 "004","(촀\0Dieses Design heißt „⁠s촀⁠“.\0\02\0s\0촀 von s촀 hat es entworfen. 
 \0(&촀\0Was möchtest du tun?"
+"004_01","(촀\0Dieses Design heißt „⁠s촀⁠“.\0\02\0s\0촀 von s촀 hat es entworfen. 
+\0(&촀\0Was möchtest du tun?"
+"004_01_a","Will ich haben!"
+"004_01_b","Darf ich ausstellen?"
+"004_01_c","Melden"
+"004_01_d","Ich gucke nur..."
 "004_a","Will ich haben!"
 "004_b","Darf ich ausstellen?"
 "004_c","Ich gucke nur..."
@@ -134,3 +145,21 @@ die Profi-Edition.
 \0NookPortal\0￿ im \0Servicecenter\0￿.
 \0(촀\0 Probier
 das doch bei Gelegenheit mal aus!"
+"040","(%촀\0Gut, 
+\0gutn\0\0 
+\0Dann werde ich dieses
+Design mal entfernen."
+"051","(촀\0Moment mal, 
+\0n\0!
+\0
+(\0촀\0Du hast das Design überschrieben,
+\0
+das du gerade trägst, 
+\0oder?
+()촀\0Wenn du ein Design bei uns über-
+schreibst,
+\0 ändert sich dadurch nicht
+automatisch das von dir getragene.\0\0(촀\0Falls du das neue Design anlegen
+möchtest, 
+\0rufe es auf und wähle
+dann \0Anziehen\0￿ aus."

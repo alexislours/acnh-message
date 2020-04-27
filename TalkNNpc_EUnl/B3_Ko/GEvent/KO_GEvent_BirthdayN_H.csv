@@ -28,7 +28,7 @@ toch altijd wel te waarderen!
 \0(\0촀\0\0\0Ik wil niet brutaal zijn, maar(7촀\0 heb jij
 toevallig ook nog wat meegebracht?"
 "006_a","Ja, hier is het!"
-"006_b","Oeps, vergeten..."
+"006_b","(\0촀\0Oeps, vergeten..."
 "007","( 촀\0Och, dat geeft niks, 2jochiemeidn\0\0 (촀\0Maak je
 geen zorgen. Maar vragen staat vrij,
 toch? 2\0n\0."
@@ -57,7 +57,7 @@ drong. (촀\0Zal ik het maar openmaken?"
 geen zoetigheid, (6촀\0maar vandaag maak
 ik een uitzondering!"
 "018","(촀\02\02\0}\0\0?
-\0(\0촀\0 (;촀\0Het is je zeker niet opgevallen dat ik er daar al 2""촀eeneenenkele van heb.
+\0(\0촀\0 (;촀\0Het is je zeker niet opgevallen dat ik er daar al 2""촀eeneenenkele van heb.
 \0( (촀\0Bwahaha!
 \0(\0촀\0\0\0(촀\0Geintje, 2jochiemeid! 
 \0(6촀\0Hiervan kun je er
@@ -152,11 +152,11 @@ om zoveel cadeaus te krijgenn"
 \0 (;촀\0En al die
 cadeaus zijn ook niet mis!(촀"
 "061_a","Hier is het mijne!"
-"061_b","Oei, pijnlijk momentje..."
+"061_b","(\0촁\0Oei, pijnlijk momentje..."
 "062","(촀\0Ik heb al heel wat moois gehad, en
 dan moet (;촀\0jouw cadeau nog komen!"
 "062_a","Nou, hier heb je het..."
-"062_b","O-o..."
+"062_b","(\0촁\0O-o..."
 "064","( 촀\0Wat krijgen we nou? Ga je nou al
 naar huis?
 \0 (촀\0Jammer dat je niet nog
@@ -234,4 +234,4 @@ twee cadeaus moest kopen, maar
 \0
 (6촀\0dat was vast geen probleem, toch?"
 "100_a","Dit is voor jou!"
-"100_b","Ik moet je teleurstellen."
+"100_b","(\0촁\0Ik moet je teleurstellen."

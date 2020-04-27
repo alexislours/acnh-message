@@ -80,7 +80,7 @@ mission de la plus haute importance.
 (촀\0Lorsque tu seras prêt2\0e, viens me
 parler et donne-moi le mot de passe
 suivant :(\0촀\0 « ⁠\0Je dois faire quoi?\0￿ »
-(9촀\0L'agent Nook, Tom Nook te révèlera
+(9촀\0L'agent Nook, \0Tom Nook\0￿ te révèlera
 alors tous les détails de l'opération!"
 "011_01","(촀\0Oh!
 \0(촀\0 Tu peux donc déjà m'aider à
@@ -193,7 +193,7 @@ tu préfères.
 viens me voir et prononce la phrase
 magique :
 \0 « ⁠\0Je dois faire quoi?\0￿ »."
-"017_a","Je m'en occupe!"
+"017_a","C'est déja fait!"
 "017_b","C'est prêt!"
 "018","(촀\0Grâce à tes soins diligents, un pont
 se dresse à n\0!

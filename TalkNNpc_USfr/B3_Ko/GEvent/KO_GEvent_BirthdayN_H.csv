@@ -5,13 +5,10 @@ Tu viens célébrer ma fête?
 \0
 (촀\0Fais comme chez toi!"
 "002","(촀\0Ah, n\0!
-\0 (촀\0Ça me fait
-plaisir de te voir, merci d'être 2venu
+\0 (촀\0Ça me fait plaisir de te voir, merci d'être 2venu
 venue."
 "003","(""촀\02\0n\0! Tu es 2venu
-venue me
-soutenir dans cette épreuve?
-(촀\0Merci d'y avoir pensé, 2$le jeunela jeune."
+venue me soutenir dans cette épreuve? (촀\0Merci d'y avoir pensé, 2$le jeunela jeune."
 "004","(%촀\0Un jour comme aujourd'hui, je suis
 content d'avoir des amis comme
 toi pour m'aider à passer le cap.
@@ -19,7 +16,7 @@ toi pour m'aider à passer le cap.
 épatants,
 \0(\0촀\0 mais je sens que le tien
 va tous les éclipser,(;촀\0 pas vrai?"
-"004_a","À toi de me le dire!"
+"004_a","(\0촀\0À toi de me le dire!"
 "004_b","2DésoléDésolée..."
 "005","(촀\0C'est bien que tout le monde soit là.
 
@@ -32,7 +29,7 @@ que j'ai reçus.
 \0(4촀\0 Je ne me
 rappelle pas avoir reçu le tienn"
 "005_a","Tiens, c'est pour toi!"
-"005_b","Euh, en fait..."
+"005_b","(\0촀\0Euh, en fait..."
 "006","()촀\0Le plus beau cadeau que je puisse
 recevoir,
 \0 c'est d'être entouré des
@@ -42,7 +39,7 @@ d'amitié plus matérielles,
 \0(7촀\0 si jamais
 tu comptais m'offrir quelque chose..."
 "006_a","Cadeau!"
-"006_b","J'ai oublié..."
+"006_b","(\0촀\0J'ai oublié..."
 "007","( 촀\0Oh.
 \0 Bah,
 \0 t'inquiète pas pour ça,
@@ -165,9 +162,7 @@ choisir les navets!"
 \0 (7촀\0Hé hén\0\0 C'est le bruit de mon estomac qui t'a donné l'idée?"
 "031","(촀\0Saperlipopette!
 \0( C'est un plan
-de bricolage pour fabriquer 2\0
-}\0\0!
-(
+de bricolage pour fabriquer 2\0}\0\0!\0\0(
 촀\0Qu'est-ce que je vais bien pouvoir
 en fairen\0\0\0\0(촀\0C'est gentil de ta part, mais je ne
 saurais pas reconnaître un plan
@@ -233,14 +228,14 @@ ce qu'on m'a offert.
 de d'⁠촀, mais j'ai rien contre une fête de temps en temps.\0\0(:촀\0Et non, ce n'est pas uniquement
 à cause des cadeaux que je reçois.
 "
-"061_a","Au fait... Cadeau!"
-"061_b","Je n'ai rien prévu..."
+"061_a","(\0촀\0Au fait... Cadeau!"
+"061_b","(\0촀\0Je n'ai rien prévu..."
 "062","(촀\0J'ai reçu des cadeaux épatants!
 \0
 (;촀\0Mais je suis sûr que le tien sera
 épatantissimen"
-"062_a","Devine! Tiens!"
-"062_b","Euh... aucune..."
+"062_a","(\0촀\0Devine! Tiens!"
+"062_b","(\0촀\0Euh... aucune..."
 "064","( 촀\0Hé, tu rentres déjà?
 \0(촀\0 J'aurais bien
 aimé que tu restes plus longtemps...\0\0(%촀\0Mais c'est déjà super que tu sois
@@ -331,12 +326,9 @@ mon cadeau.
 \0 Ça m'aurait embêté
 de ne pas pouvoir te le donner.
 (촀\0C'est 2\0}\0.
-\0((""촀\0 J'espère qu'2촀ilelle\0 te plaira!"
+\0((""촀\0 J'espère qu'2촀ilelle\0 te plaira!"
 "100","(촀\0Tu savais 2
-que qu'⁠s촀
-était 2nénée le même jour que moi?
-(;촀\0Ça fait bizarre, crois-moi.
-()촀\0Enfin, c'est pour ça qu'on a décidé
+que qu'⁠s촀 était 2nénée le même jour que moi? (;촀\0Ça fait bizarre, crois-moi.\0\0()촀\0Enfin, c'est pour ça qu'on a décidé
 de célébrer nos deux fêtes ici,
 \0
 (촀\0pour deux fois plus de fun!
@@ -344,4 +336,4 @@ de célébrer nos deux fêtes ici,
 cadeaux.
 \0 (;촀\0Mais vu les goûts de s촀, ça m'étonnerait.(촀"
 "100_a","Celui-là est pour toi!"
-"100_b","J'ai rien prévu..."
+"100_b","(\0촀\0J'ai rien prévu..."

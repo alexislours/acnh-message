@@ -36,9 +36,7 @@ Soy n
 "009","Puede que haya salidon\0\0
 x"
 "010","¿2\0n\0?
-\0 Me parece que
-no estás en casa, así que volveré
-más tarde.
+\0 Me parece que no estás en casa, así que volveré más tarde.
 x"
 "011","($촀\0¡Buenos días, n\0!
 \0
@@ -76,8 +74,7 @@ detalle traerte una cosilla."
 \0
 (2촀\0Pensé que te gustarían"
 "104","(촀\0Es 2\0}\0.
-L2촀oa\0 he elegido especialmente
-para ti."
+L2촀oa\0 he elegido especialmente para ti."
 "105","(촀\0Es 2\0}\0.
 \0
 No es gran cosa,
@@ -94,8 +91,7 @@ a un juego?"
 (촀\0¿Te apetece jugar a algo?"
 "201_a","Claro"
 "201_b","No mucho"
-"202","(촀\0Eh, n\0, ¿por qué no
-jugamos a un juego?"
+"202","(촀\0Eh, n\0, ¿por qué no jugamos a un juego?"
 "202_a","¡Venga, sí!"
 "202_b","Paso..."
 "203","(촀\0De acuerdon\0\0

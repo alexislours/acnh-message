@@ -9,25 +9,25 @@ attività, vi stancherete senza riuscire
 a finirle. 
 \0(촀\0Quindi fate delle pause!d"
 "001","d\0(촂\0(촃\0Sì, sì, ciao a tutti. Parla 
-\0\0Tom Nook\0￿!
-\0
-(\0촂\020Sono le È l'Sono le Z\0:Z\0 di n\0 Z\0
-Z\0 Z\0.(촂\0d"
+\0\0Tom Nook\0￿!\0\0(\0촂\020Sono le È l'Sono le Z\0:Z\0 di n\0
+Z\0 Z\0 Z\0.(촂\0d"
 "002","d\0Salve a tuttin\0\0
-\0 Parla \0Tom Nook\0￿n\0\0
-\0
-Sono le ore Z\0:Z\0 di n\0,
-\0
-Z\0 Z\0 Z\0.\0\0Questo è un annuncio notturno,
+\0 Parla \0Tom Nook\0￿n\0\0\0d
+\0\0d
+20Sono le È l'Sono le Z\0:Z\0 di n\0
+Z\0 Z\0 Z\0.\0\0Questo è un comunicato notturno,
 rivolto ai nottambuli!d"
 "003","d\0(촀\0Buongiorno a tutti!
 \0 (촀\0Voglio augurarvi
 un felice anno nuovo!
 \0 (촀\0Sì, sì, che sia
 pieno di gioia per tutti!
-(\0촀\0Sono le ore Z\0:Z\0 del giorno n\0 Z\0 Z\0 Z\0.d"
-"004","d\0(촀\0Salve a tutti, parla \0Tom Nook\0￿! 
-\0(\0촀\0Sono le ore Z\0:Z\0 di n\0 Z\0 Z\0 Z\0.\0\0n\0\0(촀\0 Ah!
+(\0촀\020Sono le È l'Sono le Z\0:Z\0 di n\0
+Z\0 Z\0 Z\0.d"
+"004","d\0(촀\0Salve a tutti, parla \0Tom Nook\0￿!
+\0(\0촀\0
+20Sono le È l'Sono le Z\0:Z\0 di n\0
+Z\0 Z\0 Z\0.\0\0(촀\0Ah!
 \0(%촀\0 Significa che è il Capodanno
 lunare!\0\0(촀\0Vorrei augurare a tutti voi tanta
 gioia e prosperità!
@@ -37,19 +37,19 @@ gioia e prosperità!
 \0
 \0KBrrrn\0\0 Fa tanto freddon\0\0\0d\0\0(+촀\0Oggi è n\0 Z\0 Z\0 Z\0
 \0
-e sono le ore Z\0:Z\0.\0\0Sì, sì, e i miei baffi sono congelatin\0\0\0\0(촀\0Comunque sia, anche oggi vi darò il
+e28 sono le d è l' sono le Z\0:Z\0.\0\0Sì, sì, e i miei baffi sono congelatin\0\0\0\0(촀\0Comunque sia, anche oggi vi darò il
 solito comunicato, il freddo non avrà
 la meglio su di me, no, no!d"
 "010","d\0(촂\0Sì, sì, salve a tutti!
 \0 Come va la
-giornata?\0\0(\0촂\0Adesso sono le ore Z\0:Z\0,
-\0 (촀\0e ci inserirei un bel comunicato, se possibile.
-E siccome il microfono ce l'ho io,
-posso eccome, bene, bene!d"
+giornata?\0\0(\0촂\0Adesso 20sono le è l'sono le Z\0:Z\0
+\0 (촀\0e vi darei
+un bel comunicato, se possibile.\0\0Anzi, siccome il microfono ce l'ho
+io, lo faccio eccome, 
+\0sì, sì!d"
 "011_01","d\0(촀\0Oggi è anche il compleanno di n\0, carissim2oa abitante della nostra isola!d"
-"011_02","d\0(촀\0Oggi è anche il compleanno di s\0촀, carissim2
-촀oa\0 abitante della nostra isola!d"
-"011_03","d\0(촀\0Oggi è anche il compleanno di s촀, carissim2촀oa\0 abitante della nostra isola!d"
+"011_02","d\0(촀\0Oggi è anche il compleanno di s\0촀, carissim2촀oa\0 abitante della nostra isola!d"
+"011_03","d\0(촀\0Oggi è anche il compleanno di s촀, carissim2촀oa\0 abitante della nostra isola!d"
 "012_01_01","d\0(촀\0Pare che oggi sia un giorno speciale
 per dei nostri amici. È il compleanno
 di n\0 en\0\0d"
@@ -64,25 +64,40 @@ così tanti di voi!d"
 "013_01","d\0(촀\0Sì, sì, tantissimi auguri!d"
 "013_02","d\0(촀\0Auguro a tutti voi un compleanno
 straordinario, sì, sì!d"
-"021","d\0(9촀\0(촃\0Per quanto riguarda le novità di
-oggin\0\0d"
-"022","d\0(9촂\0(촃\0E per le altre novità di oggin\0\0d"
+"021","d\0(9촀\0(촃\0Per quanto riguarda le ultime
+novitàn\0\0d"
+"022","d\0(9촂\0(촃\0E continuiamo con le altre novità
+odiernen\0\0d"
 "031","d\0Inoltren\0\0d"
+"041_01","d\0(촀\0A breve festeggeremo il giorno
+della \0caccia all'uovo\0￿!\0\0(%촀\0E ciò significa che presto anche
+le temperature cominceranno a
+cambiare, sì, sì.
+(1촀\0Come passa veloce il tempon\0\0
+Quasi non me ne sono accorto.d"
+"041_02","d\0(촀\0Oggi è il giorno della \0caccia all'uovo\0￿!\0\0(촀\0Per festeggiare questo evento,
+\0
+abbiamo tra noi un ospite speciale
+
+\0giunto da molto lontano.
+(""촀\0Spero vorrete fare un salto
+in piazza per salutarlo, 
+\0sì?d"
 "101","d\0(촀\0A partire da oggi, nella nostra n!\0 c'è un volto nuovo: s촀!d"
 "102","<"
-"102_01","d\0(%촀\0Sì, sì, spero che 2촀glilegli darete tutto il
+"102_01","d\0(%촀\0Sì, sì, spero che 2촀glilegli darete tutto il
 supporto e l'accoglienza possibili!(촀\0d"
 "102_02","d\0(%촀\0Se vi incontrate in giro per l'isola,
 \0
-non dimenticate di dar2촀glilegli un caloroso
+non dimenticate di dar2촀glilegli un caloroso
 benvenuto a nome di tutti!(촀\0d"
-"102_03","d\0(%촀\0Sì, sì, sono sicuro che passer2촀ààanno
+"102_03","d\0(%촀\0Sì, sì, sono sicuro che passer2촀ààanno
 la giornata di oggi a disfare
 scatoloni, perciò non affollatevi!(촀\0d"
 "200","d\0Oran\0\0 Cambiamo discorso!d"
 "201","d\0(촀\0La nostra isola dirà presto addio 2\0 s촀
 \0, che ci lascia per ragioni personali.\0\0Sì, sì, se ne andrà domani, perciò
-fate uno sforzo e fate2촀glile\0 oggi un in
+fate uno sforzo e fate2촀glile\0 oggi un in
 bocca al lupo per la nuova avventura!d"
 "600","<"
 "600_01","d\0(촀\0
@@ -124,19 +139,19 @@ passeggiavo sulla spiaggia, sì, sì.
 stesso nome suggerisce, quel genere
 si trova solo d'estate!d"
 "611_02_01","d\0(%촀\0Questa è un'ottima opportunità per
-fare del fai da te trasformando quelle
-conchiglie in oggetti unici, sì, sì.d"
-"611_02_02","d\0Potete anchen\0\0(촀\0 realizzare una
-\0ghirlanda conchiglie\0￿ 
-\0con lo schema
-che vi ho inviato all'app \0Laboratorio\0￿!d"
+dedicarsi al fai da te e trasformare
+quelle conchiglie in oggetti unici.d"
+"611_02_02","d\0Potete anchen\0\0\0\0(촀\0... realizzare una \0ghirlanda tema
+conchiglia\0￿ 
+\0con lo schema che vi
+ho inviato all'app \0Laboratorio\0￿!d"
 "611_03","d\0(%촀\0Questa è un'ottima opportunità per
 fare del fai da te trasformando quelle
 conchiglie in oggetti unici, sì, sì.d"
 "612_01","d\0(촀\0Sì, sì, stamattina mentre assolvevo ai
 miei soliti compiti, qualcosa è caduto
 da un albero. Molto autunnale.
-d\0()촀\0dPotreste riuscire a ottenere una
+()촀\0Potreste riuscire a ottenere una
 \0ghianda \0￿o una \0pigna\0￿ se scuotete gli
 alberi.
 (촀\0Accogliete così l'autunno!d"
@@ -154,9 +169,9 @@ l'autunno senza aver approfittato
 dei suoi frutti un'ultima volta!d"
 "612_02_01","d\0(촀\0
 \0Ah!d"
-"612_02_02","d\0(촀\0Permettetemi di aggiornare l'app
-\0Laboratorio\0￿ con un delizioso schema
-per \0alberello frutti del bosco\0￿, sì, sì!d"
+"612_02_02","d\0(촀\0Aggiorno subito l'app \0Laboratorio
+\0￿con un delizioso schema per un
+\0alberello frutti dell'albero\0￿, sì, sì!d"
 "612_03","d\0(%촀\0Bene, bene, tutti voi che potete
 creare oggetti autunnali, fatelo per
 decorare la nostra isola a tema!(촀\0d"
@@ -173,8 +188,8 @@ dei progetti fai da te!d"
 "613_02_01","d\0(촀\0
 \0Ah!d"
 "613_02_02","d\0(촀\0Gli utenti dell'applicazione
-\0Laboratorio \0￿noteranno un nuovo
-schema per una \0ghirlanda funghi\0￿.
+\0Laboratorio \0￿vedranno uno schema
+nuovo per una \0ghirlanda tema fungo\0￿.
 Spero che vi farà piacere,
 \0 sì, sì!d"
 "613_03","d\0(%촀\0Comunque, sappiate che tutti i
@@ -205,12 +220,12 @@ procione vedervi raccogliere \0fiocchi
 di neve \0￿per delle creazioni invernali.(촀\0d"
 "615","d\0(+촀\0Sì, sì, oggi è un altro di quei gelidi
 giorni da congelarsi fino alle ossan\0\0\0\0(촀\0Però è il clima perfetto per creare
-un simpatico \0Pallino\0￿!\0\0()촀\0Quando la neve si accumula, fuori
+un simpatico \0pupazzo di neve\0￿!\0\0()촀\0Quando la neve si accumula, fuori
 potreste trovare delle palle di neve.(\0촀\0\0\0(촀\0Fatele rotolare per renderle più
 grandi e impilatele per realizzare
-il vostro \0Pallino\0￿!d"
+il vostro \0pupazzo di neve\0￿!d"
 "616_01","d\0(촀\0Oggi una \0foglia d'acero \0￿è caduta da
-un albero di fonte a me, e mi ha
+un albero di fronte a me e mi ha
 ricordato che siamo in autunno.
 (%촀\0Spero che tutti voi approfittiate del
 breve periodo della caduta delle
@@ -239,9 +254,9 @@ aggiornata con lo schema di un
 delizioso \0set da picnic\0￿, sì, sì.(촀\0\0\0(촀\0Che c'è di più pittoresco di ammirare
 i petali di ciliegio mentre gustate
 dei fantastici manicaretti?d"
-"617_03","d\0(촀\0Raccogliete i \0d\0petali di ciliegiod \0￿con un
-\0retino\0￿, e magarin\0\0 potreste usarli per
-un bel progetto fai da te, eh?(촀\0d"
+"617_03","d\0(촀\0Raccogliete i \0petali di ciliegio \0￿con
+un \0retino\0￿ e magarin\0\0 usateli per un
+bel progetto fai da te, sì?d"
 "618_01","d\0(1촀\0Stamattina, mentre facevo la mia
 solita passeggiata, un bambù
 ha attirato la mia attenzione, sì, sì.
@@ -283,16 +298,17 @@ prospettiva.
 Potete così godervi angolazioni
 differenti.(촀\0d"
 "702_04","d\0Fate buon uso(&촀\0 del \0punto di raccolta
-\0￿del \0centro servizi\0￿?\0\0()촀\0Nel \0punto di raccolta\0￿ si depositano
-articoli che non servono più, per darli
-a chi ne ha bisogno.(촀\0\0\0(%촀\0Si possono trovare tesori lasciati
+\0￿del \0centro servizi\0￿?\0\0()촀\0Nel \0punto di raccolta\0￿ finiscono gli
+articoli che non servono più 
+\0e chi
+ne ha bisogno può prenderli.(촀\0\0\0(%촀\0Si possono trovare tesori lasciati
 da altri. Per questo si consiglia di
 passare a controllare ogni tanto.(촀\0d"
-"703","d\0(촀\0E ora vi parlerò degli eccellenti premi
-che è possibile ottenere usando il
-\0servizio di scambio delle miglia\0￿.d"
+"703","d\0(촀\0Vorrei presentarvi uno dei fantastici
+articoli che si possono ottenere con
+il \0servizio di scambio delle miglia\0￿.d"
 "704","<"
-"704_01","d\0(\0촀\0Oggi vorrei parlarvi din\0\0
+"704_01","d\0(\0촀\0Vi parlerò quindi din\0\0
 \0
 (촀\0\0I miei modelli: versione pro\0￿!\0\0(%촀\0Si tratta di un aggiornamento
 dell'applicazione \0I miei modelli\0￿.(촀\0\0\0()촀\0Include una funzione per la
@@ -304,58 +320,55 @@ i modelli pro, man\0\0
 (촀\0Se volete creare dei modelli pro,
 vi consiglio di provare questo
 aggiornamento.d"
-"704_02","d\0(\0촀\0Oggi vorrei parlarvi degli
-\0 (촀\0\0Schemi per
-strumenti utili\0￿!\0\0()촀\0Come dice il nome, d\0(촀\0dsi tratta di
-schemi per realizzare strumenti
+"704_02","d\0(\0촀\0Quindi vorrei parlarvi degli
+
+\0(촀\0\0Schemi per strumenti utili\0￿!\0\0()촀\0Come potete immaginare, (촀\0si tratta
+di schemi per realizzare strumenti
 più resistenti.\0\0(%촀\0Se avete voglia di mandare in
 pensione qualche strumento non
 proprio affidabilen\0\0\0\0
-\0(촀\0... potreste voler spendere qualche
-stellina per questi schemi.d"
-"704_03","d\0(\0촀\0Oggi vorrei parlarvi di una cosa
-molto interessante:
-\0 (촀\0\0la ruota degli
-strumenti\0￿!
-(\0촀\0Vi siete ormai abituati alla vita
+\0(촀\0... potreste voler utilizzare qualche
+miglia per questi schemi.d"
+"704_03","d\0(\0촀\0E quindi vi parlerò den\0\0
+
+\0(촀\0\0La ruota degli strumenti\0￿!\0\0(\0촀\0Vi siete ormai abituati alla vita
 sull'isola
 \0(&촀\0 e andate sempre in giro
-con un sacco di oggetti?
+con un sacco di strumenti?
 (촀\0E forse siete stanchi di dover
 passare sempre da uno all'altro?\0\0()촀\0La \0ruota degli strumenti\0￿ permette di
 selezionare otto strumenti preferiti 
 \0e
 passare velocemente da uno all'altro!(촀\0
 (6촀\0
-\0La consiglio a chiunque voglia avere
-accesso rapido a tutti i propri
-strumenti.d"
-"704_04","d\0(\0촀\0Il nostro argomento di oggi èn\0\0
-\0
-(촀\0la \0Guida all'uso delle tasche\0￿!\0\0(\0촀\0Più a lungo si vive in un luogo, più
+\0La consiglio a chiunque voglia
+avere accesso rapido a tutti i
+propri strumenti.d"
+"704_04","d\0(\0촀\0E quindi vi parlerò dellan\0\0
+\0
+(촀\0\0Guida all'uso delle tasche\0￿!\0\0(\0촀\0Più a lungo si vive in un luogo, più
 cose si accumulano. E ovviamente,
 ciò vale anche per quest'isolan\0\0
 Vi sentite un po'(&촀\0 sovraccarichi?
 
 \0(%촀\0Se è così, siete fortunati, perché
-questa guida è quello che fa per voi!\0\0()촀\0Quando avrete imparato le tecniche
-di questa guida, sarete in grado din\0\0
-d\0(촀\0dportare nelle tasche più roba.
+questa guida è quello che fa per voi!\0\0()촀\0Quando ne avrete imparato le
+tecniche, sarete in grado din\0\0
+(촀\0portare più cose nelle tasche.
 (촀\0
 \0L'organizzazione prima di tutto!
-\0
+\0
 (%촀\0Consiglio a tutti questo oggetto per
-vivere una vita diligente e ordinata.(촀\0d"
-"704_05","d\0(\0촀\0A questo riguardo non si può proprio
-fare a meno di parlare din\0\0
-\0(촀\0 \0tagli di
-capelli \0￿e di \0colori\0￿!
+vivere una vita diligente e ordinata.d"
+"704_05","d\0(\0촀\0Una parte importante dell'aspetto
+di qualcuno ha a che vedere con i
+\0tagli di capelli \0￿e i \0colori\0￿!
 ()촀\0Sapevate che alcune guide, come
 \0I migliori 8 tagli pop\0￿, contengono un
 sacco di idee per cambiare il look?(촀\0
-(%촀\0Bastano una \0toletta\0￿ o uno \0specchio\0￿ e 
-una guida del genere en\0\0 il gioco è
-fatto!(\0촀\0\0\0(촀\0Consiglio queste guide a chiunque
+(%촀\0Bastano una \0toletta\0￿ o uno \0specchio
+\0￿e una guida del genere en\0\0 il gioco
+è fatto!(\0촀\0\0\0(촀\0Consiglio queste guide a chiunque
 sia in cerca di consigli e spunti per
 stare al passo con i tempi!d"
 "705","d\0(촀\0Vorrei condividere con voi qualche
@@ -363,17 +376,18 @@ informazione che potrebbe migliorare
 la qualità della vostra vita sull'isola.d"
 "706","<"
 "706_01","d\0(%촀\0Nella vostra tenda è disponibile
-anche una radio portatile. È ottima
-per ascoltare ogni genere di musica.(\0촀\0\0\0(촀\0Però, ci sono anche altri dispositivi
-per ascoltare la musica, come i
-\0giradischi\0￿, sì, sì!
-(
-촀\0Immaginate di poter ascoltare la
-vostra musica preferita in qualsiasi
-momenton\0\0\0\0()촀\0Potete anche acquistare dei \0brani
-musicali \0￿da usare con quei giradischi
-dal \0Catalogo Nook\0￿.
-\0(촀\0 Ricordatevene!d"
+anche una radio portatile. 
+\0È ottima
+per ascoltare ogni genere di musica.(\0촀\0\0\0(촀\0Però ci sono anche altri dispositivi
+per farlo, 
+\0come i \0giradischi\0￿, sì, sì!\0\0(
+촀\0Ah, poter ascoltare la propria
+canzone preferita sprofondati
+in un comodo divanon\0\0\0\0()촀\0E se desiderate ampliare la vostra
+collezione di \0brani musicali\0￿, 
+\0il
+\0Catalogo Nook \0￿è ciò che fa per voi!
+(촀\0Buon ascolto!d"
 "706_02","d\0(\0촀\0Avete preso una decisione molto
 importante quando avete scelto di
 trasferirvi 2\0 n\0.
@@ -393,14 +407,13 @@ d'abito sarà possibile in qualsiasi
 momento, sì, sì.(촀\0\0\0(촀\0Provate un nuovo stile a casa
 \0 e
 poi uscite a stupire il mondo!d"
-"706_04","d\0(1촀\0Le lunghe notti di d\0n!\0d
-
-\0(촀\0vanno illuminate con \0candele \0￿o con
-\0lampade\0￿!\0\0()촀\0Le diverse fonti di luce e il loro
+"706_04","d\0(1촀\0Le lunghe notti di n!\0 
+\0(촀\0vanno illuminate con \0candele \0￿o con \0lampade\0￿!\0\0()촀\0Le diverse fonti di luce e il loro
 posizionamento influenzano molto
 l'atmosfera di una stanza, sì, sì!
-(%촀\0Tutti voi appassionati di interni là
-fuori,(촀\0 provate diversi modi di fare
+(촀\0Tutti voi appassionati di interni là
+fuori, 
+\0provate diversi modi di fare
 luce in casa vostra!d"
 "711","d\0Vi state appassionando alle
 creazioni fai da te?\0\0Sì, sì, se ancora non avete provato,
@@ -408,10 +421,10 @@ creazioni fai da te?\0\0Sì, sì, se ancora non avete provato,
 \0fate un salto al centro servizi per
 un \0corso\0￿ gratuito!d"
 "799","d\0(""촀\0È tutto per il momento! Tanti saluti!d"
-"800","d\0(촀\0Non ci sono notizie di rilievo, oggi,
+"800","d\0(촀\0Oggi non ci sono notizie di rilievo,
 \0
-quindi darò alcuni consigli pratici per
-la vita 2\0 n!\0!d"
+quindi darò alcuni consigli pratici
+per la vita 2\0 n!\0!d"
 "801","d\0(9촀\0E ora le notizie del giornon\0\0d"
 "802","<"
 "802_01","d\0(촀\0Perbacco, non ce ne sono!

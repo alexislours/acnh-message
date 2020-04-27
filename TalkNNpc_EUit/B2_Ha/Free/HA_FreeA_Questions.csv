@@ -46,12 +46,11 @@ da soli.
 \0(
 촀\0 Dove sarebbe, secondo te,
 la competizione?"
-"015","(촀\0Ehilà, 
-\0ho una domanda super
-forzuta da farti!\0\0(촀\0Dimmi un po': 
-\0su quali muscoli
-vorresti lavorare di più,
-n\0?"
+"015","(촀\0Ah, 
+\0ho una domanda super forzuta
+da farti!\0\0(촀\0Dimmi: 
+\0su quali muscoli vorresti
+lavorare di più, n\0?"
 "015_a","I bicipiti."
 "015_b","(\0촀\0I tricipiti."
 "015_c","(\0촀\0I quadricipiti."
@@ -92,35 +91,43 @@ praticare con degli amici?"
 "022_b","Baseball."
 "022_c","Maratona."
 "022_d","Pallacanestro."
-"023","()촀\0Questa risposta dice molto
-di te.\0\0(%촀\0Nel calcio, lo spirito di gruppo
+"023","()촀\0La tua risposta ha molto senso.\0\0(%촀\0Nel calcio, lo spirito di gruppo
 e la visione di gioco sono aspetti
 fondamentali.
-(촀\0Ne deduco che i tuoi amici ti
-considerino una persona molto
-coscienziosa e affidabile."
-"024","()촀\0Questa risposta dice molto
-di te.\0\0(%촀\0Nel baseball contano sia le doti
+(촀\0Devi usare la testa come si deve.
+
+\0((촀\0E non intendo solo per colpire
+il pallone!"
+"024","( 촀\0Molto interessante, n\0!\0\0(%촀\0Nel baseball contano sia le doti
 atletiche che il sapiente utilizzo
-di complesse strategie di gioco.
-(촀\0Ne deduco che i tuoi amici
-ti considerino una persona
-molto seria e intelligente."
-"025","()촀\0Questa risposta dice molto
-di te.\0\0(%촀\0La maratona non è uno sport
-semplice. 
-\0L'equilibrio fisico e
-mentale sono molto importanti.
-(촀\0Ne deduco che i tuoi amici
-ti considerino una persona
-ambiziosa, ma equilibrata."
-"026","()촀\0Questa risposta dice molto
-di te.\0\0(%촀\0Nel basket il gioco di squadra è
-importante, ma ti permette anche
-di importi come la stella del gruppo.
-(촀\0Ne deduco che i tuoi amici ti
-considerino una persona fuori dal
-comune e con un grande potenziale."
+di complesse strategie di gioco.\0\0(촀\0E poi è esaltante al massimo e alla
+fine ti ritrovi a gridare di brutto,
+tipon\0\0\0\0
+\0
+
+\0(!촀\0\0FORZA
+\0 RAGAZZI!
+\0(
+ANDIAMOOOOOO!\0d\0\0
+	\0
+\0(6촀\0Uau, adesso sono davvero su
+di giri!
+\0( (촀\0Dai, andiamo a giocare!"
+"025","(%촀\0Correre una maratona non
+è mica uno scherzo!\0\0(촀\0L'equilibrio fisico e mentale sono
+molto importanti se vuoi farcela,
+n\0.\0\0(9촀\0E se vuoi partecipare a una maratona
+con degli amici, 
+\0assicurati che siano
+quelli giusti.
+\0( (5촀\0Come me!"
+"026","()촀\0Ti capisco, n\0.\0\0(%촀\0La pallacanestro è uno sport di
+squadra, ma ti permette anche di
+importi come la stella del gruppo.
+(%촀\0E non c'è niente di meglio che
+mettere in mostra le tue abilità
+nelle schiacciate. 
+\0((5촀\0Io lo so bene!"
 "030","(\0촀\0Dimmi, hai dei gusti particolari in
 fatto di pettinature, n\0?"
 "030_a","Sì."

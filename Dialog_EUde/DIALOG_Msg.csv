@@ -1,10 +1,14 @@
 ﻿"label","text"
-"0001","Bist du sicher, dass du
-\0s\0촀\0￿ heißen möchtest?"
+"0001","Ist „\0s\0촀\0￿“ in Ordnung?
+\0K\0In der Welt von Animal Crossing sind
+alle willkommen. Verwende bitte
+nichts Persönliches oder Anstößiges.\0￿\0d"
 "0001_a","Ändern"
 "0001_b","OK"
-"0003","Bist du sicher, dass die Insel
-\0\0s촀\0￿ heißen soll?"
+"0003","Ist „\0\0s촀\0￿“ in Ordnung?
+\0K\0In der Welt von Animal Crossing sind
+alle willkommen. Verwende bitte
+nichts Persönliches oder Anstößiges.\0￿\0d"
 "0003_a","Ändern"
 "0003_b","OK"
 "0004","Der von dir gewählte Text kann
@@ -56,6 +60,10 @@ nichts mehr tragen."
 "0301","Deine Tasche ist voll, du kannst
 nichts mehr tragen."
 "0301_a","Schließen"
+"0303_a","Schließen"
+"0304_a","Schließen"
+"0307","Post wird abgeholt..."
+"0308","Daten werden überprüft..."
 "0310","Einen Moment, bitte!"
 "0321","Du kannst eine Nachricht nicht als
 Favoriten markieren, wenn du sie
@@ -68,12 +76,26 @@ markierten Nachrichten löschen."
 Favoriten markieren."
 "0333","Du kannst keine Karten wegwerfen,
 denen noch ein Geschenk beiliegt."
+"0334","Du hast eine Karte von einem Freund
+erhalten! Am Flughafen kannst du
+Karten schreiben und verschicken."
+"0335","Sobald eine Postkarte empfangen
+wurde, wird sie auf der Nintendo
+Switch-Konsole gespeichert und kann
+nicht erneut empfangen werden.
+Nicht empfangene Karten bleiben
+90 Tage lang auf dem Server gespei-
+chert und werden dann gelöscht.\0\0Es können bis zu 300 Karten für dich
+auf dem Server gespeichert werden.
+Wenn du mehr erhältst, werden die
+jeweils ältesten gelöscht und können
+dann nicht mehr empfangen werden."
 "0402","Gib ein Datum in der Zukunft an."
 "0501","Du hast keinen Platz für die Kleidung,
 die du entfernen möchtest."
 "0502","Wähle etwas zum Registrieren aus!"
-"0503","Du hast nichts, was du ablegen
-könntest."
+"0503","Es ist nichts vorhanden, was
+abgelegt werden könnte."
 "0504","\0\0Du kannst jetzt an Schränken
 Outfits für deinen
 Verwandlungsstab festlegen!\0￿\0\0Wähle \0Stab-Outfits ändern\0￿, um
@@ -88,8 +110,8 @@ Moment nicht in dein Lager!"
 "0601","Sie haben nicht genug Meilen."
 "0602","Nur Mitglieder bei \0Nook-Meilen+\0￿
 können dieses Item bestellen.
-\0\0Nook-Meilen+ ist für Bewohner
-mit einem eigenen Haus.\0￿"
+\0\0Nook-Meilen+ ist für Bewohner mit
+einem Hausvertrag bei Nook Inc.\0￿"
 "0603","Es können pro Tag höchstens
 fünf über Meilen erworbene Items
 \0per Post\0￿ versandt werden."
@@ -108,6 +130,52 @@ anderen teilst."
 "0803","Die Insel bietet leider keinen Platz
 mehr für weitere Besucher."
 "0803_a","Zurück"
+"0804","\0Sei rücksichtsvoll!\0￿ Teile keine
+illegalen Inhalte, persönlichen
+Informationen, Inhalte, die Rechte
+anderer verletzen, oder Inhalte, die
+andere als unangenehm empfinden
+könnten.\0\0Bitte brich nicht die Regeln des
+Spiels und verhalte dich anderen
+Spielern gegenüber nicht störend.
+Die Nintendo-Verhaltensrichtlinie
+gilt für dein Verhalten im Spiel und
+alle geteilten Inhalte.\0\0Sollte bei deinen Inhalten oder
+deinem Verhalten ein Verstoß gegen
+die Nintendo-Verhaltensrichtlinie
+festgestellt werden, behält Nintendo
+sich vor, Inhalte vom Server zu
+löschen oder deinen Zugang zum
+Online-Spiel einzuschränken.\0\0Du kannst \0\0￿ drücken, um
+unangemessene Inhalte oder
+unangemessenes Verhalten
+zu melden.
+Bitte befolge die Nintendo-
+Verhaltensrichtlinie und nimm
+Rücksicht auf andere Spieler."
+"0804_a","Ich verstehe"
+"0805","Die Sitzung wurde zwangsweise be-
+endet, weil ein Mitspieler ein Dialog-
+oder Menüfenster eine bestimmte
+Zeit lang nicht geschlossen hat.
+Wenn dies geschieht, werden die
+Speicherdaten auf den Zeitpunkt des
+letzten Speicherns zurückgesetzt."
+"0805_a","Ich verstehe"
+"0806","Es ist ein Verbindungsproblem
+aufgetreten, deshalb kann keine Info
+zum Reiseziel angezeigt werden."
+"0806_a","Zurück"
+"0810","Möchtest du eine Verbindung
+zum Internet aufbauen und
+es erneut versuchen?"
+"0810_a","Nein"
+"0810_b","Ja"
+"0820","Dein Profilbild konnte nicht gesendet
+werden. Sollte dieser Fehler wieder-
+holt auftreten, nimm ein neues Bild
+auf und versuche es dann erneut."
+"0820_a","Schließen"
 "0921","Bei einem Ausflug kannst du bis
 zu zwei Aushänge verfassen."
 "0921_a","OK"
@@ -151,9 +219,6 @@ für \0Z\0\0￿ bestellen?"
 Sie wird Ihnen in Kürze per Post
 nach Hause geliefert."
 "1108_a","OK"
-"1109","Bestellung für \0s\0촀
-\0￿angenommen!"
-"1109_a","OK"
 "1111","Jeder Kunde kann pro Tag
 höchstens fünf Artikel aus
 dem Katalog bestellen."
@@ -163,7 +228,7 @@ Möchtest du das Item verschicken?"
 "1112_a","Nein"
 "1112_b","Ja"
 "1113","Möchtest du die Bestellung
-2.촀deinesdeinerdeines \02촃}\0\0\0￿
+2.촀deinesdeinerdeines \02촃}\0\0\0￿
 stornieren und diese Karte löschen?"
 "1113_a","Nein"
 "1113_b","Ja"
@@ -171,24 +236,74 @@ stornieren und diese Karte löschen?"
 Verkauf und kann nicht bestellt
 werden."
 "1114_a","Schließen"
-"1201","„s촀“
+"1115","An wen geht die Sendung?"
+"1115_a","Bewohner"
+"1115_b","Freund"
+"1115_c","Zurück"
+"1116","Die Sendung ist fehlgeschlagen.
+Möchtest du es erneut versuchen?"
+"1116_a","Nein"
+"1116_b","Ja"
+"1117","Verbindung zum Internet
+wird hergestellt..."
+"1118","Artikel wird gesendet...
+\0\0Berühre nicht  (POWER-Knopf).\0￿"
+"1119","Der Artikelpreis (\0Z\0\0￿)
+wird erstattet."
+"1119_a","OK"
+"1120","Der Artikel wurde an
+\0s\0촀\0￿ gesendet."
+"1120_a","OK"
+"1121","Wenn jemand zu Besuch ist, kannst
+du keine Bestellungen aufgeben."
+"1121_a","Schließen"
+"1122","Wenn du auf der Insel eines
+anderen Spielers bist, kannst du
+keine Bestellungen aufgeben."
+"1122_a","Schließen"
+"1123","Wenn der Flugsteig offen ist, kannst
+du keine Bestellungen aufgeben."
+"1123_a","Schließen"
+"1124","Du kannst jetzt keine Bestellungen
+aufgeben. Bitte beende die
+Verbindung am Flughafenschalter."
+"1124_a","Schließen"
+"1201","„\0s촀\0￿“
 wird dabei gelöscht. Fortfahren?"
 "1201_a","Nein"
 "1201_b","Ja"
 "1202","Möchtest du
-„s촀“ von
-s\0촀 wirklich löschen?"
+„\0s촀\0￿“
+(von \0s\0촀\0￿ entworfen)
+wirklich löschen?"
 "1202_a","Nein"
 "1202_b","Ja"
 "1203","Wähle ein eigenes Design,
 das gelöscht werden kann."
 "1203_a","OK"
 "1204","Möchtest du
-„s촀“
-(von s\0촀 gespeichert)
+„\0s촀\0￿“
+(von \0s\0촀\0￿ gespeichert)
 wirklich löschen?"
 "1204_a","Nein"
 "1204_b","Ja"
+"1221","Möchtest du
+„\0s촀\0￿“
+wirklich überschreiben?"
+"1221_a","Nein"
+"1221_b","Ja"
+"1222","Möchtest du
+„\0s촀\0￿“
+(von \0s\0촀\0￿ entworfen)
+wirklich überschreiben?"
+"1222_a","Nein"
+"1222_b","Ja"
+"1224","Möchtest du
+„\0s촀\0￿“
+(von \0s\0촀\0￿ gespeichert)
+wirklich überschreiben?"
+"1224_a","Nein"
+"1224_b","Ja"
 "1300","Speicherdaten werden gelöschtn\0\0
 \0\0Berühre nicht  (POWER-Knopf).\0￿"
 "1308","Das System ist auf ein Datum
@@ -220,7 +335,7 @@ unterscheiden. Trotzdem fortfahren?"
 zurück und starte das Spiel erneut."
 "1328","キャラクターの\0\0
 なまえ名前や
-ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが
 このまま\0\0はじ始めますか？
 
 Namen von Figuren, Menüs usw.
@@ -319,7 +434,7 @@ unterscheiden. Trotzdem fortfahren?"
 "1338_a","Нет / Nein"
 "1338_b","Да / Ja"
 "1339","캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Namen von Figuren, Menüs usw.
@@ -335,7 +450,7 @@ können sich in anderen Sprachen
 unterscheiden. Trotzdem fortfahren?"
 "1340_a","否 / Nein"
 "1340_b","是 / Ja"
-"1341","角色名稱或遊戲內的顯示將會改變，
+"1341","角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Namen von Figuren, Menüs usw.
@@ -347,8 +462,7 @@ unterscheiden. Trotzdem fortfahren?"
 ホームHOMEメニューの　\0\0せってい設定で
 \0\0もと元の\0\0
 げんご言語に　\0\0もど戻してから
-ゲームを\0\0
-さいきどう再起動してください。
+ゲームを\0\0さいかい再開してください
 
 Setze deine Spracheinstellungen in den
  Systemeinstellungen im HOME-Menü
@@ -436,14 +550,15 @@ zurück und starte das Spiel erneut."
 Setze deine Spracheinstellungen in den
  Systemeinstellungen im HOME-Menü
 zurück und starte das Spiel erneut."
-"1355","請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+"1355","請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Setze deine Spracheinstellungen in den
  Systemeinstellungen im HOME-Menü
 zurück und starte das Spiel erneut."
 "1356","\0\0ぜんかい前回プレイ\0\0じ時と
-\0\0げんごせってい言語設定が\0\0こと異なるようです。
+\0\0げんごせってい言語設定が\0\0こと異なるようです
 
 Anscheinend haben sich deine
 Spracheinstellungen seit dem letzten
@@ -528,7 +643,7 @@ Spracheinstellungen seit dem letzten
 Spielen geändert."
 "1366_a","Далее / Weiter"
 "1367","지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 Anscheinend haben sich deine
 Spracheinstellungen seit dem letzten
@@ -540,12 +655,116 @@ Anscheinend haben sich deine
 Spracheinstellungen seit dem letzten
 Spielen geändert."
 "1368_a","下一页 / Weiter"
-"1370","語言設定似乎與上次遊玩時不同。
+"1370","語言設定似乎與上次遊玩時不同
 
 Anscheinend haben sich deine
 Spracheinstellungen seit dem letzten
 Spielen geändert."
 "1370_a","下一頁 / Weiter"
+"1372","Wegen eines Versionsupdates
+werden nun die Speicherdaten
+aktualisiert."
+"1372_a","OK"
+"1373","Speicherdaten werden aktualisiertn\0\0
+\0\0Berühre nicht  (POWER-Knopf).\0￿"
+"1374","Die Speicherdaten wurden
+aktualisiert. Das Spiel wird
+nun gestartet."
+"1374_a","OK"
+"1401","Du hast eine Beste-Freunde-Anfrage
+an \0s\0촀\0￿ gesendet."
+"1402","2\0\0s\0촀\0￿ ist jetzt als
+bester Freund registriert."
+"1403","Die Anfrage an \0s\0촀\0￿
+wurde zurückgezogen."
+"1404","Du hast die Anfrage von
+\0s\0촀\0￿ abgelehnt."
+"1405","2\0\0s\0촀\0￿ ist jetzt nicht
+mehr als bester Freund registriert."
+"1405_a","OK"
+"1406","Da du die maximale Anzahl an besten
+Freunden registriert hast, kannst
+du keine Anfragen mehr senden."
+"1406_a","OK"
+"1407","Du hast die maximale Anzahl von
+Anfragen gesendet und kannst
+keine weiteren senden."
+"1407_a","Zurück"
+"1408","Du kannst keine Anfrage senden,
+weil der Empfänger die maximale
+Anzahl von Anfragen empfangen hat."
+"1408_a","Zurück"
+"1409","Da du die maximale Anzahl an besten
+Freunden registriert hast, könnt
+ihr keine besten Freunde werden."
+"1409_a","Zurück"
+"1410","Du hast die maximale Anzahl von
+Anfragen erreicht, deshalb könnt
+ihr keine besten Freunde werden."
+"1410_a","Zurück"
+"1411","Die Anfrage wurde bereits
+zurückgezogen."
+"1411_a","Zurück"
+"1412","Du kannst einen Nutzer nicht aus
+der Beste-Freunde-Liste entfernen,
+während du mit ihm spielst."
+"1412_a","Zurück"
+"1413","Dein Gegenüber hat eine Aktion
+vorgenommen, deshalb wird
+nun die Liste aktualisiert."
+"1413_a","OK"
+"1414","Möchtest du diesen Nutzer
+wirklich aus der Beste-
+Freunde-Liste entfernen?"
+"1414_a","Zurück"
+"1414_b","Ja"
+"1430","Du kannst dies nicht nutzen, während
+eine lokale Verbindung besteht."
+"1430_a","Zurück"
+"1431","Du kannst dies nicht nutzen,
+während du mit anderen Bewohnern
+im Party-Modus spielst."
+"1431_a","Zurück"
+"1432","Um diese Option zu aktivieren,
+musst du mindestens einen
+besten Freund registrieren."
+"1432_a","Zurück"
+"1433","Bevor diese Aktion durchgeführt
+wird, muss die Liste aktualisiert
+werden. Möchtest du dies tun?"
+"1433_a","Zurück"
+"1433_b","Aktualisieren"
+"1450","Du kannst dies nur nutzen, wenn
+eine Internetverbindung besteht.
+Möchtest du eine Internetverbindung
+herstellen?"
+"1450_a","Abbrechen"
+"1450_b","Verbinden"
+"1451","Möchtest du die Kommunikations-
+funktion aktivieren?"
+"1451_a","Doch nicht..."
+"1451_b","Aktivieren"
+"1452","Möchtest du die Kommunikations-
+funktion deaktivieren?"
+"1452_a","Doch nicht..."
+"1452_b","Deaktivieren"
+"1453","Drücke \0\0￿, um die Kommunikations-
+funktion zu aktivieren und somit
+Nachrichten verschicken zu können."
+"1453_a","OK"
+"1454","2\0\0s\0촀\0￿ ist offline,
+deshalb kannst du 2촀ihmihr\0
+keine Nachrichten schicken."
+"1454_a","Zurück"
+"1455","Wenn keine anderen Spieler
+online sind, kannst du keine
+Nachrichten versenden."
+"1455_a","Zurück"
+"1456","Die Kommunikationsfunktion wurde
+durch eine Verbindungsunter-
+brechung deaktiviert. Aktiviere sie
+und versuche es dann erneut."
+"1456_a","Zurück"
 "1501","Möchtest du deine Änderungen
 wirklich verwerfen?"
 "1501_a","Nein"
@@ -587,11 +806,46 @@ kein amiibo."
 "1701","Das sieht nicht anders aus als
 dein momentanes Haus!"
 "1701_a","Zurück"
-"1801","2\0s\0촀 braucht erst ein
-Zuhause, bevor du 2
-촀ihmihrihm etwas
+"1801","2\0\0s\0촀\0￿ braucht erst ein
+Zuhause, bevor du 2촀ihmihrihm etwas
 schicken kannst!"
 "1801_a","Zurück"
+"1900","2\0\0s\0촀\0￿ melden?"
+"1900_a","Abbrechen"
+"1900_b","Melden"
+"1920","Die Meldung wurde gesendet."
+"1920_a","OK"
+"1921","Die Meldung konnte nicht
+gesendet werden."
+"1921_a","Abbrechen"
+"1921_b","Neuer Versuch"
+"1930","Während eine lokale Verbindung
+besteht, kannst du keine Meldungen
+senden."
+"1930_a","Zurück"
+"1931","Du hast noch keine Verbindung zum
+Internet hergestellt, deshalb kannst
+du keine Meldungen senden."
+"1931_a","Zurück"
+"1932","Du kannst diesen
+Beitrag nicht melden."
+"1932_a","Zurück"
+"1933","Diese Karte kannst du nicht melden."
+"1933_a","Zurück"
+"1936","Dieses ausgestellte Design
+kannst du nicht melden."
+"1936_a","Zurück"
+"1938","Du kannst nicht deinen
+eigenen Account melden."
+"1938_a","Schließen"
+"1940","Dieser Beitrag stammt nicht von
+einem Online-Spieler. Du kannst
+\0s\0촀\0￿ melden, 2촀derdie\0 den
+Beitrag nicht gelöscht hat."
+"1941","Dieses Design stammt nicht von
+einem Online-Spieler. Du kannst
+\0s\0촀\0￿ melden, 2촀derdie\0 das
+Design nicht gelöscht hat."
 "2001","Du hast nicht genug Geld."
 "2001_a","Schließen"
 "2002","Du hast nicht genug Platz, um
@@ -608,6 +862,43 @@ dieses Item kaufen zu können."
 Kleidung gleich tragen?"
 "2005_a","Nein"
 "2005_b","Ja"
+"2101","Möchtest du eine Verbindung
+zum Internet herstellen und ein
+Design herunterladen, das für die
+Nintendo 3DS-Spiele erstellt wurde?"
+"2101_a","Zurück"
+"2101_b","Herunterladen"
+"2102","Ein Design mit dem Namen
+„\0s촀\0￿“
+wurde gefunden.
+Bitte wähle einen Speicherort."
+"2102_a","Zurück"
+"2102_b","OK"
+"2103","Ein Profi-Design mit dem Namen
+„\0s촀\0￿“
+wurde gefunden.
+Bitte wähle einen Speicherort."
+"2103_a","Zurück"
+"2103_b","OK"
+"2110","Es konnte kein Design gefunden
+werden, das für die Nintendo 3DS-
+Spiele erstellt wurde.
+
+Bitte öffne \0NookLink\0￿ in der
+\0Nintendo Switch Online-App\0￿
+und lies einen QR-Code ein."
+"2120","Die Seite für Profi-Designs
+wurde freigeschaltet."
+"2140","\0Profi-Designs\0￿
+Mit Profi-Designs hast du eine
+größere Kontrolle über deine
+Werke als bei normalen Designs.\0\0Um Profi-Designs zu erstellen oder
+zu bearbeiten, benötigst du ein
+Upgrade für die Designs-App. \0\0Tragen
+kannst du Profi-Designs auch so.\0￿\0\0Die Profi-Edition der Designs-App
+kannst du am \0NookPortal\0￿ im
+\0Servicecenter\0￿ gegen Nook-Meilen
+freischalten."
 "2201","Sie haben momentan keine
 Ersparnisse."
 "2202","Sie können Ihren Ersparnissen
@@ -620,6 +911,104 @@ Konto passt, verloren. Möchten Sie
 trotzdem fortfahren?"
 "2301_a","Nein"
 "2301_b","Ja"
+"2401","Inhalte deines Profils verletzen die
+Nintendo-Verhaltensrichtlinie. Bitte
+überprüfe dein Foto und/oder deinen
+Kommentar und passe diese so an,
+dass sie anderen Spielern kein
+Unbehagen bereiten."
+"2401_a","Verstanden"
+"2421","\0\0Bitte vor dem Hochladen von
+Designs lesen:\0￿ Von dir hochgeladene
+Designs sind für Spieler aus aller
+Welt sichtbar. Bitte lade keine
+Designs hoch, die illegale Inhalte
+umfassen oder anderen Spielern
+Unbehagen bereiten könnten.\0\0Hochgeladene Designs werden
+möglicherweise vom Server gelöscht,
+wenn sie als unangemessen
+eingestuft werden und die Nintendo-
+Verhaltensrichtlinie verletzen."
+"2421_a","Verstanden"
+"2422","Dein Design wurde hochgeladen.
+ID: \0촀\0￿.
+Möchtest du dies in sozialen
+Medien mitteilen?"
+"2422_a","Nein"
+"2422_b","Ja"
+"2423","Dein Design konnte nicht
+hochgeladen werden. Möchtest
+du es noch einmal versuchen?"
+"2423_a","Nein"
+"2423_b","Ja"
+"2424","Möchtest du die Nutzung
+des Terminals beenden?"
+"2424_a","Nein"
+"2424_b","Ja"
+"2425","Danke für dein Interesse am
+Hochladen von Designs!\0\0Du bist jetzt als Ersteller mit der
+ID \0촀\0￿ registriert.
+Du kannst deine Ersteller-ID
+jederzeit im Pass auf deinem
+NookPhone nachsehen."
+"2425_a","Verstanden"
+"2427","Möchtest du ein weiteres
+Design hochladen?"
+"2427_a","Zum Menü"
+"2427_b","Hochladen"
+"2428","Du hast die Obergrenze für
+hochgeladene Designs erreicht.
+Welches möchtest du löschen?"
+"2428_a","Verstanden!"
+"2429","Es gibt keine Designs, die du selbst
+erstellt hast. Bitte erstelle eines,
+bevor du diesen Service nutzt."
+"2429_a","Verstanden!"
+"2430","Dieses Design wurde
+bereits hochgeladen.
+\0\0Wenn du es veränderst, kannst
+du es erneut hochladen.\0￿"
+"2430_a","Zurück"
+"2431","Designs werden gesucht..."
+"2432","Du hast deine eigene Ersteller-ID
+eingegeben, \0n\0\0￿.
+Möchtest du deine Designs sehen?"
+"2432_a","Zurück"
+"2432_b","Ja"
+"2433","Es wurde kein Design für die ID
+\0촀\0￿ gefunden.
+Möchtest du deine Eingabe ändern?"
+"2433_a","Zum Menü"
+"2433_b","Ändern"
+"2434","Es wurden keine Designs für die
+Ersteller-ID \0촀\0￿
+gefunden. Eingabe ändern?"
+"2434_a","Zum Menü"
+"2434_b","Ändern"
+"2435","Das Design wurde gelöscht."
+"2436","Bitte wähle das Design, das
+hochgeladen werden soll."
+"2437","Soll dieses Design wirklich
+gelöscht werden?
+\0s촀\0￿"
+"2437_a","Abbrechen"
+"2437_b","Löschen"
+"2438","Es wurden keine hochgeladenen
+Designs gefunden."
+"2438_a","Zurück"
+"2439","Die Designs-App wird nun geöffnet.
+Bitte wähle einen Speicherort."
+"2440","Du hast die Design-ID eines von dir
+selbst gestalteten Werkes eingegeben.
+Möchtest du deine Designs sehen?"
+"2440_a","Zurück"
+"2440_b","Ja"
+"2441","Das Teilen des Designs in sozialen
+Medien ist fehlgeschlagen, weil ein
+Fehler aufgetreten ist."
+"2501","Jeder Spieler kann pro Tag bis
+zu zwei Nachrichten online via
+Nook Shopping versenden."
 "3001","Ein Coupon über \03000 Sternis\0￿, den
 Sie im Laden \0verkaufen\0￿ können.
 \0\0Sofort verfügbar.\0￿
@@ -725,7 +1114,7 @@ als Favoriten markieren. So wird
 das \0Basteln\0￿ sehr viel komfortabler!"
 "5041","\0Bewohner rufen\0￿
 Mit dieser App kannst du mit bis zu
-drei anderen Bewohnern (Spieler)
+drei anderen Bewohnern (Spielern)
 dieser Insel im \0Party-Modus\0￿ spielen!
 Jeder Spieler benötigt einen
 Controller."
@@ -779,6 +1168,25 @@ weiterkannst.\0\0Du wirst dann nach Hause oder ins
 \0Servicecenter\0￿ gebracht.
 \0\0Die Nutzung dieses Dienstes kostet
 Nook-Meilen.\0￿"
+"5101","\0Beste Freunde\0￿
+Mithilfe dieser App kannst du sehen,
+mit welchen Freunden und besten
+Freunden du gespielt hast.\0\0Hast du einen anderen Spieler als
+besten Freund registriert, kannst du
+sehen, wenn er online ist.\0\0Seid ihr beide online, dann könnt ihr
+euch über das Internet Nachrichten
+zuschicken.\0\0\0\0Wenn du deinen Online-Status nicht
+preisgeben oder keine Nachrichten
+austauschen möchtest, drücke ,
+um diese Funktion zu deaktivieren.\0￿"
+"5102","Du kannst jetzt Designs herunterladen,
+die via NookLink durch Einlesen von in
+Nintendo 3DS-Spielen erstellten
+QR-Codes hochgeladen wurden.
+\0\0Bitte rufe NookLink unter „Spielbezo-
+gene Services“ in der Nintendo Switch
+Online-App auf, um mehr über das
+Einlesen von QR-Codes zu erfahren.\0￿"
 "5111","\0Insel-Designer\0￿
 Mithilfe dieser App kannst du
 Bauarbeiten durchführen und
@@ -797,6 +1205,14 @@ eigenen Vorstellungen um!"
 Ab sofort auch als App! Du kannst
 also ganz bequem per NookPhone
 einkaufen! Rund um die Uhr, ja, ja!"
+"5122","\0Chatlog\0￿
+Mithilfe dieser App kannst du alle
+Nachrichten nachlesen, die du mit
+anderen Spielern ausgetauscht hast.\0\0Du warst beim gemeinsamen Spiel
+abgelenkt und hast etwas verpasst?\0\0Oder möchtest du die Worte eines
+besten Freundes, den du lange nicht
+gesehen hast, Revue passieren
+lassen? Für all dies ist diese App da!"
 "5201_00_01","\0\0Party-Modus\0￿
 In diesem Modus könnt ihr zusammen
 auf einer Insel spielen. Einer ist
@@ -820,7 +1236,6 @@ Ihre gesammelten Items landen in der
 \0Anführer\0￿
 \0\0￿ NookPhone
 \0\0￿ Blickwinkel/Werkzeuge wechseln
-
 \0Unterstützer
 \0￿ Werkzeuge ausrüsten/wechseln"
 "5201_00_03","\0Joy-Con (waagerecht): Anführer\0￿
@@ -828,8 +1243,8 @@ Ihre gesammelten Items landen in der
 \0\0￿ Blickwinkel/Werkzeuge wechseln
 
 \0Joy-Con (waagerecht): Unterstützer
-\0￿ Werkzeuge ausrüsten/wechseln
-\0\0￿ Emotionen / \0\0￿ Letzte Emotion"
+\0￿ Werkzeuge ausrüsten / \0\0￿ Aufheben
+\0\0￿ Emotionen / \0\0￿ Letzte Emotion"
 "5201_00_04","\0\0Steuerung
 \0￿\0Anführer\0￿
 Wie im Einzelspiel.
@@ -841,8 +1256,8 @@ Wie im Einzelspiel.
 
 \0Steuerung als Unterstützer
  \0￿Werkzeuge ausrüsten/wechseln
-\0 \0￿Emotionen
-\0 \0￿Letzte Emotion wiederholen"
+\0\0￿ Aufheben / \0 \0￿Emotionen
+\0 \0￿Letzte Emotion wiederholen"
 "5201_01","\0\0Party-Modus\0￿
 In diesem Modus könnt ihr zusammen
 auf einer Insel spielen. Einer ist
@@ -866,7 +1281,6 @@ Ihre gesammelten Items landen in der
 \0Anführer\0￿
 \0\0￿ NookPhone
 \0\0￿ Blickwinkel/Werkzeuge wechseln
-
 \0Unterstützer
 \0￿ Werkzeuge ausrüsten/wechseln"
 "5201_02","\0\0Party-Modus\0￿
@@ -893,8 +1307,8 @@ Ihre gesammelten Items landen in der
 \0\0￿ Blickwinkel/Werkzeuge wechseln
 
 \0Joy-Con (waagerecht): Unterstützer
-\0￿ Werkzeuge ausrüsten/wechseln
-\0\0￿ Emotionen / \0\0￿ Letzte Emotion"
+\0￿ Werkzeuge ausrüsten / \0\0￿ Aufheben
+\0\0￿ Emotionen / \0\0￿ Letzte Emotion"
 "5201_03","\0\0Party-Modus\0￿
 In diesem Modus könnt ihr zusammen
 auf einer Insel spielen. Einer ist
@@ -944,8 +1358,8 @@ Wie im Einzelspiel.
 
 \0Steuerung als Unterstützer
  \0￿Werkzeuge ausrüsten/wechseln
-\0 \0￿Emotionen
-\0 \0￿Letzte Emotion wiederholen"
+\0\0￿ Aufheben / \0 \0￿Emotionen
+\0 \0￿Letzte Emotion wiederholen"
 "5202","\0\0Herzlichen Glückwunsch zur
 Fertigstellung deines neuen Heims!\0￿
 Hier ein paar Tipps zum Einzug:\0\0\0 Licht an- und ausschalten
@@ -961,6 +1375,42 @@ abzulegen oder zu entnehmen.\0\0Während du dich in deinem Haus
 aufhältst, kannst du deine Tasche
 öffnen und Möbel oder andere Items
 direkt einlagern."
+"5203","Kommuniziere per \0Chat\0￿!\0\0Drücke \0\0￿, um allen Mitspielern
+eine Nachricht zu schreiben.\0\0Ausgetauschte Nachrichten
+kannst du auf deinem NookPhone
+in der App \0Chatlog \0￿nachlesen."
+"5301","Während du im \0Party-Modus
+\0￿spielst, werden Änderungen an
+Designs, die du gerade trägst,
+nicht automatisch sichtbar.
+Um ein geändertes Design
+anzulegen, musst du es aufrufen
+und erneut \0Anziehen\0￿ auswählen."
+"5302","Das Design, das du gerade
+trägst, wurde überschrieben.
+
+Wenn du das neue Design anlegen
+möchtest, musst du es aufrufen
+und erneut \0Anziehen\0￿ auswählen."
+"5303","Ein Design wurde im Verwandlungs-
+stab gespeichert. Auch wenn du das
+ursprüngliche Design bearbeitest,
+bleibt es im Outfit erhalten.\0\0Wenn du jedoch danach dein Outfit
+änderst oder entfernst, geht das
+enthaltene Design verloren, also
+sei bitte vorsichtig."
+"5304","Dieses Outfit enthält ein eigenes
+Design, das beim Entfernen nicht
+als Teil des Outfits erhalten bleibt.
+Möchtest du dennoch fortfahren?"
+"5304_a","Abbrechen"
+"5304_b","OK"
+"5305","\0\0NookPhone-Gestaltungskit\0￿
+Mithilfe so eines Kits kannst du
+dein NookPhone umgestalten.\0\0Verwendest du dafür ein eigenes
+Design, so bleibt das Aussehen des
+NookPhones auch dann erhalten,
+wenn du das Design danach änderst."
 "8001","\0Für die Insel n\0, die auf
 dieser Nintendo Switch-Konsole ge-
 speichert ist, gibt es Bewohnerdaten,
@@ -1026,9 +1476,24 @@ gelöscht werden.\0\0Wenn du die Daten eines anderen
 Bewohners löschen möchtest, starte
 das Spiel mit dem Nutzer, der mit
 diesem Bewohner verknüpft ist.\0\0Drücke dann auf dem Titelbildschirm
-, um die Speicherdaten-Optionen
-aufzurufen und den Bewohner zu
-löschen."
+, um die Einstellungen aufzurufen
+und den Bewohner zu löschen."
 "8013","Um diesen Bildschirm zu
 schließen, beende das Spiel
 über das HOME-Menü."
+"8014","Der mit diesem Nutzer verknüpfte
+Nintendo-Account hat sich geändert.\0\0Alle Funktionen, die das Internet
+nutzen (z.B. die Beste-Freunde-Liste)
+werden zurückgesetzt, wenn du
+das Spiel fortsetzt.\0\0Möchtest du das Spiel als
+\0s\0촀\0￿ fortsetzen?"
+"8014_a","Nicht sicher"
+"8014_b","Ja"
+"8015","Dieser Nutzer ist mit keinem
+Nintendo-Account verknüpft.\0\0Alle Funktionen, die das Internet
+nutzen (z.B. die Beste-Freunde-Liste)
+werden zurückgesetzt, wenn du
+das Spiel fortsetzt.\0\0Möchtest du das Spiel als
+\0s\0촀\0￿ fortsetzen?"
+"8015_a","Nicht sicher"
+"8015_b","Ja"

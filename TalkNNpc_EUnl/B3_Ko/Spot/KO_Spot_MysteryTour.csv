@@ -19,8 +19,8 @@ dat denk ik
 redenen om hier te zijn,
 \0 neem ik aan.
 \0
-(8촀\0\0Wat is de mijne ook alweer\0￿
-\0n"
+(8촀\0\0K\0Wat is de mijne ook alweer\0￿
+\0n\0\0\0d"
 "001_02","(""촀\0Hé!
 \0 Ik ben n
 \0.
@@ -35,29 +35,28 @@ het bevalt me wel,
 bestemming is,
 \0 maar (촀\0ik vind het leuk
 dat ik even met jou kan beppen."
-"001_03","(촀\0Ik had niet verwacht om iemand
-anders tegen te komen.
-\0 (8촀\0Waar we dan
-ook mogen zijn
-\0n\0\0\0\0Maar ja,(촀\0
+"001_03","(촀\0O! 
+\0Potjanhagel,
+\0 wat krijgen we nou?
+\0(
+(촀\0Je moet iemand niet zo laten
+schrikken, 2jochiemeid!\0\0Maar ja,(촀\0
 \0 ik ben n
 \0.
 \0 En (&촀\0jij bent
 \0n\0\0 n\0, van n""\0?\0\0(
-촀\0Ik verwachtte niet nieuwe mensen
-te ontmoeten.
+촀\0Ik had niet verwacht hier iemand
+tegen te komen.
 \0 Nou,
-\0 (촀\0eigenlijk wist ik
-helemaal niet wat ik kon verwachten."
+\0 (촀\0eigenlijk had
+ik helemaal geen verwachtingen."
 "004","(9촀\0Het is vaak goed
 \0 om een stap terug
 te nemen om de situatie van een
-afstandje te bekijken.\0\0Ik vraag me nou af (
-촀\0of het tijd wordt
-dat ik de boel opschud
-\0 om aan iets
-nieuws te beginnen
-\0n"
+afstandje te bekijken.\0\0(촀\0En als ik zo terugkijk,
+\0 denk ik dat een
+verandering me geen slecht zal doen,
+n\0n"
 "004_a","(\0촁\0Kom naar mijn eiland!"
 "004_b","(\0촁\0Dat gevoel ken ik wel."
 "005","(촀\0Goh,
@@ -84,11 +83,11 @@ vriendelijk als jij?"
 "007_a","Het is er fantastisch!"
 "007_b","Iedereen is vriendelijk!"
 "008","(촀\0Bwahaha!
-\0 Ik houd je maar voor het
-lapje!
-\0( (촀\0Tuurlijk hou je van je eiland
-\0n\0\0
-Anders nodigde je me toch niet uit?\0\0(9촀\0Dus als ik contact opneem met die
+\0 Geintje, 2jochiemeid!
+\0( (촀\0Tuurlijk
+hou je van je eiland
+\0n\0\0 Anders had je
+me toch niet uitgenodigd?\0\0(9촀\0Dus als ik contact opneem met die
 \0Tom Nook\0￿,
 \0 helpt hij me met al het
 papierwerk?
@@ -115,13 +114,11 @@ vertellen waar we zijn,
 "009_02","Ligt het aan mij
 \0 (&촀\0of is het terrein van
 dit eiland
-\0 wat ongewoon?\0\0(8촀\0Toen ik een ommetje maakte,
-\0 leek
-het (촀\0of ik een cirkel maakte en mezelf
-zou tegenkomen,
-\0 n\0
-\0n"
-"009_03","Toen je je boeltje pakte voor je reisje
+\0 wat ongewoon?\0\0(8촀\0Tijdens mijn ommetje 
+\0verwachtte ik
+half dat ik in een rondje zou lopen en(촀\0
+mezelf weer tegen zou komenn"
+"009_03","Toen je je boeltje pakte voor je reis
 hierheen,
 \0 (&촀\0heb je er toen aan gedacht
 om je gereedschap mee te nemen?
@@ -133,7 +130,7 @@ ruilen voor gereedschap,
 (촀\0was dat een gedoe,
 \0 n\0!"
 "010","<"
-"010_01","('촀\0Ik heb geen idee wat ik van n""\0 kan verwachten
+"010_01","('촀\0Ik heb geen idee wat ik van n	\0 kan verwachten
 \0n\0\0\0\0Maar volgens mij (%촀\0bof ik eindelijk
 weer eens,
 \0 n\0!"
@@ -141,10 +138,11 @@ weer eens,
 \0 (4촀\0dat ik
 \0 zou
 worden gevraagd om op een eiland
-als n""\0 te wonen!
-(촀\0Als je me vanochtend had verteld dat
-ik ga verhuizen,
-\0 had ik vast gezegd
+als n	\0 te wonen!
+(촀\0Als je me vanochtend had verteld
+dat ik zou verhuizen,
+\0 had ik vast
+gezegd
 \0n\0\0\0\0(
 촀\0Nou,
 \0 eerlijk gezegd weet ik niet wat

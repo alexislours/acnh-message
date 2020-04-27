@@ -54,7 +54,8 @@ Which brings us to the back walln\0\0
 (촀\0We'd LOVE to display your designs,
 of course.
 \0( (\0촀\0And if you want any of
-these designsn\0\0(촀\0their yours for free!
+these designs, 
+\0(촀\0they're yours for free!
 (\0촀\0Now, the last thing I want to tell you
 about is the \0fitting room\0￿.
 \0 (""촀\0It's on the
@@ -68,8 +69,86 @@ day,(촀\0 including all the color variations.
 check out items we couldn't put out.
 (촀\0Yeah, the \0fitting room \0￿is really great.
 \0(
-(%촀\0And it's a great way to see how
+(%촀\0And it's a terrific way to see how
 an outfit is coming together."
+"006_01_02","Here, (""촀\0let me give you a quick
+tour of our shopn\0\0\0\0()촀\0OK, son\0\0when you first walk in,
+\0
+you'll find our \0recommended items\0￿
+right there, front and center.
+We change these up every single day.
+\0
+(촀\0You know, 
+\0to keep things fresh!\0\0()촀\0Then, over on the left, you'll find our
+\0mannequins\0￿. 
+\0They're dressed up in
+whatever seasonal outfits we're into.
+(%촀\0We change 'em up from time to time
+
+\0rather than daily. 
+\0((촀\0Still, we hope
+you'll be inspired!
+(촀\0And of course,
+\0 if you see something
+on the mannequins you love, you're
+more than welcome to buy it.
+(\0촀\0Which brings us to the back walln\0\0
+(""촀\0Here you'll find \0custom designs
+\0￿brought in by our customers.
+(촀\0We'd 
+\0LOVE
+\0 to display your designs,
+of course.
+\0( (\0촀\0And if you want any of
+these designs, 
+\0(촀\0they're yours for free!
+()촀\0Speaking of custom designs,
+\0 next
+to the wall displays you'll find our
+\0Custom Designs Portal\0￿.(촀\0
+You can use that kiosk to order
+designs from creators all over the
+world,
+\0 (촀\0and even share your own!
+(\0촀\0And the last thing I want to tell you
+about is the \0fitting room\0￿.
+\0 (""촀\0It's on the
+right side of the shop in the back.
+()촀\0This is where you can go to try on
+anything that's available for sale that
+day,
+\0(촀\0 including all the color variations.
+(%촀\0Our display space is limited,
+\0 so the
+\0fitting room\0￿ is also the place to
+check out items we couldn't put out.
+(촀\0Yeah, the \0fitting room \0￿is really great.
+\0(
+(%촀\0And it's a terrific way to see how
+an outfit is coming together.
+(\0촀\0I think that's everything!
+\0 (2촀\0Wow.
+
+\0I guess I get kind of chatty when
+I'm talking about the shop."
+"006_01_03","( 촀\0Oh, n\0!
+\0 Hi!
+\0 (촀\0There's
+something new in the shop
+I think you'll be interested in.\0\0()촀\0We installed a new kiosk next to the
+custom-design display area. 
+\0See it?
+\0(
+(촀\0It's a \0Custom Designs Portal\0￿!\0\0(%촀\0You can use it to order custom
+designs from creators all over the
+world,
+\0 (촀\0or even share your own!
+(\0촀\0Customers with internet access and
+a paid \0Nintendo Switch Online\0￿
+membership can use it.
+(촀\0If you're curious,
+\0 check it out!
+\0-(촀"
 "006_02","($촀\0We're open every day from 9 AM to
 9 PM.
 \0 (촀\0I hope I'll be seeing you
@@ -89,7 +168,7 @@ back when you've fixed that."
 \0 looks like you're a little
 short of Bellsn"
 "011","(촀\0Great!
-\0 That'll be \0Z\0\0￿."
+\0( That'll be \0Z\0\0￿."
 "012","All done? 
 \0(촀\0Nothing caught your eye?"
 "013","(촀\0Hello there!"
@@ -97,29 +176,13 @@ short of Bellsn"
 \0 I'll just take that
 \02\0Ā촃tailors ticket\0￿ off your handsn\0\0\0\0I hope you enjoy your new
 }\0\0!"
-"021_01","(촀\0Whoa!
-\0 (2촀\0Sometimes, when I start
-talking about the shop, I just go
-on and on.
-(촀\0Anyway, were you interested in
-something from the custom-design
-space?"
-"021_02","(촀\0Whoa!
-\0 (2촀\0I guess I get kind of chatty
-when I talk about the shop.\0\0Anyway, (촀\0it looked like you were
-interested in what's behind the
-curtainn"
-"021_03","(촀\0Oh!
-\0 (2촀\0I guess I get kind of chatty
-when I talk about the shop.\0\0Sorry, (&촀\0were you interested in
-something that mannequin is
-wearing?"
-"021_04","(2촀\0Ehn\0\0
-\0I guess I get kind of chatty
-when I talk about the shop.
-\0(
-(촀\0Were you interested in this item?"
-"032","Oh, }\0\0?
+"021_01","(촀\0Were you interested in something
+from the custom-design space?"
+"021_02","(촀\0It looked like you were interested
+in what's behind the curtainn"
+"021_03","(&촀\0Were you interested in that display?"
+"021_04","(촀\0Were you interested in this item?"
+"032","2\02\0}\0\0?
 That's Z\0.
 \0(&촀\0
 Interested?"
@@ -139,11 +202,10 @@ was designed by my sister,
 \02\0Ā촃tailors ticket\0￿!
 \0(촀\0 You can use that
 for anything up to Z."
-"056","That }\0\0 is
-Z\0, 
-\0so you can use a
-ticket for it.
-\0(&촀\0 Do you want it?"
+"056","It's Z\0—or a tailors ticket—
+for }\0\0.
+\0
+(&촀\0Interested?"
 "056_a","Use a ticket."
 "056_b","Pay with Bells."
 "056_c","('촀\0I changed my mind."

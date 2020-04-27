@@ -34,7 +34,7 @@ de place, 
 \0nous pouvons en parler.
 (&촀\0Qu'en dis-tu, hm ?"
 "001_01_a","Parlons-en."
-"001_01_b","Ça ira pour l'instant."
+"001_01_b","(\0촀\0Ça ira pour l'instant."
 "002","Parfait ! 
 \0(&촀\0Puis-je savoir quel édifice
 tu as en tête ?"
@@ -84,7 +84,7 @@ occuper pour la modique somme de
 "021","(""촀\0Oui, oui !
 \0(촀\0 Plus qu'à demander son
 avis à s촀.
-\0(\0촀\0 Je l2촀ea\0 contacte sur-le-champ !"
+\0(\0촀\0 Je l2촀ea\0 contacte sur-le-champ !"
 "022","(""촀\0Oui, oui !
 \0(촀\0 Plus qu'à demander leur
 avis à \0Méli \0￿et \0Mélo\0￿.

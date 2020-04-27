@@ -43,10 +43,10 @@ potrebbero sembrarti un po' strane,
 
 \0((촀\0ma cercherò di raccontarle bene!"
 "011","(&촀\0Posso aiutarti?"
-"011_a","Guarda qui."
-"011_b","Parliamo?"
+"011_a","(\0촀\0Guarda qui."
+"011_b","(\0촀\0Parliamo?"
 "012","(촀\0Ma certo! 
-\02""촀QuelloQuella\0 èn\0\0
+\02""촀QuelloQuella\0 èn\0\0
 \0
 2\0}\0\0!"
 "013","(촀\0Uh uuuh, 
@@ -90,13 +90,12 @@ foto in calzamaglia di flanella."
 "052","(1촀\0Ci sono diverse storie sull'origine
 della costellazione dell'Acquario.
 \0(\0촀\0
-Ti racconto la mia preferita.
-\0(
+Ti racconto la mia preferita.
 ($촀\0Tanto tempo fa, gli dei erano alla
 ricerca di un coppiere per i loro
-banchetti sul Monte Olimpo. 
-Un giorno Zeus, assunte le fattezze
-di aquila, (촀\0vide un bellissimo giovane
+banchetti sul Monte Olimpo.
+(촀\0Un giorno Zeus, assunte le fattezze
+di aquila, vide un bellissimo giovane
 di nome Ganimede.
 (2촀\0Il re degli dei
 \0 ""
@@ -107,15 +106,17 @@ di nome Ganimede.
 \0i
 \0n
 \0s
-\0e"" (diciamo così), Ganimede a prestare i propri
+\0e"" (diciamo
+così), Ganimede a prestare i propri
 servigi agli dei, sul Monte Olimpon\0\0
-Anche se questo significava che
-non avrebbe mai più rivisto
-la sua famiglia.
+(%촀\0Anche se questo significava che
+non avrebbe mai più rivisto la sua
+famiglia.
 (촀\0Per consolare i genitori di Ganimede,
-Zeus decise di immortalare il giovane
-nel cielo.
-(촀\0Povero ragazzo, costretto a servire
+Zeus creò in cielo una costellazione
+a immagine del giovane.
+(촀\0Povero ragazzo, 
+\0costretto a servire
 gli dei a causa della sua bellezzan"
 "053","(1촀\0Ci sono diverse storie sull'origine
 della costellazione dei Pesci.
@@ -351,7 +352,7 @@ parlato troppo!
 \0( (2촀\0Spero di non averti
 2$annoiatoannoiatan\0\0
 (%촀\0Prima che tu vada, però, ti devo
-restituire 2""촀questoquesta\0."
+restituire 2""촀questoquesta\0."
 "064","(촀\0Se vuoi sentire un'altra storia,
 portami altri oggetti
 \0 che hanno
@@ -359,24 +360,23 @@ un legame con l'astronomia!"
 "101","(촀\0Uuuh-uh! Buona sera!
 \0(
 (\0촀\0Sei di n\0?"
-"102","(촀\0Sei 2(il famosola famosa n\0!
-\0
-Mio fratello parla spessissimo di te!
-\0
-(촀\0Mi chiamo \0Celeste\0￿, molto piacere!
-(촀\0Sì, \0Blatero \0￿non fa che ripetere che
-senza il tuo aiuto non sarebbe stato
-possibile aprire il \0museo\0￿.
+"102","(촀\0Uuuh uh! 
+\0Tu devi essere 2(il famosola famosa n\0! 
+\0(촀\0Io mi chiamo \0Celeste\0￿, 
+\0molto piacere!\0\0(&촀\0Non è che per caso conosci mio
+fratello, \0Blatero\0￿? 
+\0È il curatore di
+un \0museo\0￿.
+(\0촀\0Beh, se ti è capitato di incontrarlo,
+di certo hai presente chi intendon\0\0\0\0A Blati,
+\0 ( 촀\0ehm, a mio fratello piace
+parlare per ore di ogni argomenton\0\0
 
-\0(3촀\0Sembra un disco rotto!(%촀\0 Comunque ti
-ringrazio per tutto quello che hai
-fatto per Blatty.
-(촀\0Cioè, per mio fratellon\0\0
-\0(2촀\0
-\0 volevo dire
-\0
-""per mio fratello""!
-\0d(\0촀"
+\0((3촀\0Sembra un disco rotto!
+(%촀\0Comunque, è un vero pozzo di
+scienza en\0\0 
+\0(2촀\0Oh, ma sto perdendo
+tempo come al solito!"
 "103","()촀\0\0Blatero \0￿mi ha consigliato di venire
 qui ad ammirare il cielo stellaton"
 "104","(촀\0Questo posto ha superato di gran

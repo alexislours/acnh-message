@@ -4,10 +4,10 @@
 \0
 (촀\0Ik heb een nieuwe bijnaam voor je!"
 "001_a","(\0촁\0Echt waar? Welke?"
-"001_b","Bedankt, maar..."
+"001_b","(\0촀\0Bedankt, maar..."
 "002","(촀\02\0n\0! Raad eens? (촀\0Ik heb de perfecte bijnaam voor je verzonnen!"
 "002_a","(\0촁\0O ja? Vertel!"
-"002_b","De oude is prima."
+"002_b","(\0촀\0De oude is prima."
 "003","(4촀\0Ik hoorde een paar buren je
 ""s\0촀"" noemenn\0\0\0\0(촀\0Ik vind het een geweldige bijnaam.
 (4촀\0Vind je het goed als ik je ook zo
@@ -18,7 +18,7 @@ noem?"
 iets te vragenn\0\0 (촀\0Hoe zou je het
 vinden als ik je een bijnaam gaf?"
 "004_a","(\0촁\0Welke bijnaam?"
-"004_b","Bedankt, maar..."
+"004_b","(\0촀\0Bedankt, maar..."
 "005","(촀\0Wat een goede timing! (촀\0Ik heb net
 een nieuwe bijnaam voor je
 bedacht, n\0.\0\0(%촀\0""2\0n\0"" is oké, maarn\0\0 (4촀\0Wil je weten welke splinternieuwe bijnaam ($촀\0ik voor jou heb verzonnen?"
@@ -62,8 +62,7 @@ alsjeblieft (촀\0nog één keer."
 "110","Ik snap wel (%촀\0waarom dit een lastige
 beslissing is.
 \0( (9촀\0Denk er even goed over
-na.
-(""촀\0Zullen we het nu nog eens proberen,
+na.\0\0(""촀\0Zullen we het nu nog eens proberen,
 \0
 n\0?"
 "200","(2촀\0Ik ben zo blij dat ik je dit heb durven

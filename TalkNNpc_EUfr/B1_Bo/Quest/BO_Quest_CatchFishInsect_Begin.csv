@@ -1,14 +1,14 @@
 ﻿"label","text"
-"003","()촀\0J'aimerais vraiment attraper 2\0}촀n\0\0\0\0(9촀\0Mais 2촀ils
+"003","()촀\0J'aimerais vraiment attraper 2\0}촀n\0\0\0\0(9촀\0Mais 2촀ils
 elles\0 sont vraiment trop
-fort2촀\0e\0s à cache-cache,
+fort2촀\0e\0s à cache-cache,
 \0('촀\0 j'en trouve
 nulle part, n\0 !"
 "003_a","(\0촀\0Tu veux que je t'aide ?"
 "003_b","(\0촀\0Courage !"
 "004","(%촀\02\02\0}촀, c'est mon insecte préféré du moment, 
 \0j'en rêve la nuit !\0\0(촀\0Mais ça commence à faire un moment
-que j'en ai pas vu un2촀\0e\0 en vrai !"
+que j'en ai pas vu un2촀\0e\0 en vrai !"
 "004_a","Laisse-moi faire."
 "004_b","(\0촀\0C'est pas de chance..."
 "008","(%촀\0Ça fait un moment que j'ai pas vu
@@ -16,12 +16,12 @@ que j'en ai pas vu un2촀\0e\0 en vrai !"
 2
 de d'⁠}촀 dans le coin.
 \0(
-촀\0 2촀Ils
+촀\0 2촀Ils
 Elles\0 me manquentn"
-"008_a","(\0촀\0Je vais t'en trouver un2촀\0e\0."
+"008_a","(\0촀\0Je vais t'en trouver un2촀\0e\0."
 "008_b","(\0촀\0C'est ballot."
 "009","(2촀\0J'aimerais bien inviter 2\0}촀 chez moi,
-\0 juste pour discutern\0\0\0\0(8촀\0Mais j'arrive pas à en pêcher un2촀\0e\0..."
+\0 juste pour discutern\0\0\0\0(8촀\0Mais j'arrive pas à en pêcher un2촀\0e\0..."
 "009_a","Laisse faire l2ea pro !"
 "009_b","(\0촀\0N'abandonne pas !"
 "011","(촀\0Ouais !
@@ -67,7 +67,7 @@ de scarabée à corne fera l'affaire.
 "021_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","(
@@ -80,7 +80,7 @@ quelle espèce fera l'affaire.\0\0(촀\0Ils ont tous des faces de ciseaux !
 "022_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","()촀\0J'aimerais enregistrer le chant d'une
@@ -94,7 +94,7 @@ chanté tout l'été fera l'affaire !
 "023_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","(1촀\0Je me demande si la poussière
@@ -110,7 +110,7 @@ espèce,
 "025_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(6촀\0J'ai toujours rêvé de donner le
@@ -127,7 +127,7 @@ pas !"
 "026_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "027","(
@@ -145,7 +145,7 @@ l'affaire.
 "027_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","(7촀\0J'essaie d'attraper des insectes qui
@@ -160,7 +160,7 @@ une souche d'arbre, ça me va !
 "028_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","()촀\0Les poissons des rivières s'enfuient
@@ -176,7 +176,7 @@ une rivière,
 "031_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","()촀\0À la plage, l'air marin me détend
@@ -190,7 +190,7 @@ poisson d'eau de mern\0\0\0\0(촀\0N'importe lequel fera l'affaire !
 "032_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(""촀\0Dis, tu es doué2\0e pour attraper les
@@ -198,19 +198,19 @@ insectes ?\0\0(4촀\0Ça fait un moment que je recherche
 2\0}촀, mais sans succèsn\0\0\0\0(9촀\0C'est pourquoi j'aurais besoin de ton
 aide.
 \0 ($촀\0Tu crois que tu pourrais m'en
-attraper un2촀\0e\0 ?"
+attraper un2촀\0e\0 ?"
 "101_a","Je m'en charge !"
 "101_b","J'ai pas le temps..."
 "102","(촀\0Ces derniers temps,
 \0 j'ai beau
 chercher,
 \0 pas moyen de trouver
-2\0}촀n\0\0\0\0(촀\0Tu crois qu'2촀ils
+2\0}촀n\0\0\0\0(촀\0Tu crois qu'2촀ils
 elles\0 me fuient ?
 \0( Est-ce
 que j'aurais fait quelque chose qui
 leur a pas plu ?"
-"102_a","Je t'en trouve un2촀\0e\0 !"
+"102_a","Je t'en trouve un2촀\0e\0 !"
 "102_b","(\0촀\0Continue de chercher !"
 "103","(촀\0Ouah, merci !
 \0( Je savais que
@@ -229,15 +229,15 @@ gentil !"
 \0 Je peux pas
 baisser les bras si facilement !
 \0
-(촀\0Je vais bien finir par en trouver un2촀\0e\0 !"
+(촀\0Je vais bien finir par en trouver un2촀\0e\0 !"
 "201","(
 촀\0Ça fait un petit moment que j'essaie,
 
 \0mais j'arrive pas à pêcher 2
-de d'⁠}촀 !\0\0(촀\0Imagine si je vois plus un2촀\0e\0 seul2촀\0e\0
+de d'⁠}촀 !\0\0(촀\0Imagine si je vois plus un2촀\0e\0 seul2촀\0e\0
 }촀 de ma vie ! 
 \0Qu'est-ce que je vais faire ?!"
-"201_a","Je vais t'en pêcher un2촀\0e\0 !"
+"201_a","Je vais t'en pêcher un2촀\0e\0 !"
 "201_b","(\0촀\0N'abandonne pas !"
 "202","(
 촀\0C'est vraiment très bizarre,
@@ -247,7 +247,7 @@ une éternité que j'ai pas pêché
 \0
 J'espère qu'il leur est rien arrivé
 de maln"
-"202_a","Je vais t'en pêcher un2촀\0e\0."
+"202_a","Je vais t'en pêcher un2촀\0e\0."
 "202_b","(\0촀\0Cherche encore un peu."
 "203","(촀\0Ouais !
 \0 Merci, n\0 !

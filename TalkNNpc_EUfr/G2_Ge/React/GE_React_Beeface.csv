@@ -22,11 +22,8 @@ une guêpe qui t'a piqué2\0e ?\0\0(촀\0Aïe, aïe, aïe 
 2MonMa pauvre, ça doit trop faire mal !
 (촀\0Faut vite que tu trouves un \0remède \0￿!"
 "005","(촀\0Pauvre n\0 !
-\0 T'as vu
-ta tête ?! 
-\0(촀\0C'est une guêpe qui t'a
-fait ça ?!
-()촀\0T'inquiète, ça devrait partir tout
+\0 T'as vu ta tête ?! 
+\0(촀\0C'est une guêpe qui t'a fait ça ?!\0\0()촀\0T'inquiète, ça devrait partir tout
 seul. Mais si tu peux pas attendre,
 trouve-toi un \0remède \0￿!"
 "006","(촀\0Oh. Oh ! OH ?!
@@ -41,9 +38,7 @@ aussi que je suis une fleur, (촀\0et je me
 fais piquer.\0\0(7촀\0Tout ça pour dire, avale ce \0remède\0￿
 (%촀\0et tu retrouveras une tête normale
 en moins de deux ! "
-"007","(촀\0Allez, perds pas de temps,
-n\0 ! Reprends ton
-aspect normal, n\0 !(\0촀"
+"007","(촀\0Allez, perds pas de temps, n\0 ! Reprends ton aspect normal, n\0 !(\0촀"
 "011","(촀\0
 \0\0SPAVRESSA ?!\0d
 (\0\0\0

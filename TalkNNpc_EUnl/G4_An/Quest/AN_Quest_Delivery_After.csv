@@ -10,14 +10,14 @@ zorgen of het gelukt is.
 
 \0(촀\0Ik ben weer lekker bezig."
 "003","(;촀\0Dusssn\0\0 zei s촀 er nog iets over?"
-"003_a","(\0촁\0Ja, 2촀hijze\0 zei..."
+"003_a","(\0촁\0Ja, 2촀hijze\0 zei..."
 "003_b","(\0촁\0Dat is me ontschoten."
 "004","(;촀\0Zeg, had s촀 nog iets te zeggen?"
 "004_a","(\0촁\0Nu je het zegt..."
 "004_b","(\0촁\0Dat ben ik vergeten."
 "005","(촀\0Nou ja, als je het niet meer weet, was
 het vast niet belangrijk. 
-\0((촀\02촀HijZe\0 heeft het
+\0((촀\02촀HijZe\0 heeft het
 terug, en daar gaat het om."
 "006","(촀\0Wat in- Je hebt een íngepákt pakje
 zomaar opengemaakt?!\0\0(촀\0Dat heeft me superveel inpaktijd
@@ -88,8 +88,8 @@ jou te danken, n\0!"
 over maar dan zit ik toch te
 stressen, n\0."
 "103","(;촀\0En eh, zei s촀 er nog iets over?"
-"103_a","(\0촁\0Zeker, ja."
-"103_b","(\0촁\0Dat weet ik niet meer."
+"103_a","Zeker, ja."
+"103_b","Dat weet ik niet meer."
 "104","(;촀\0Hou me niet langer in spanning! Zei s촀 er nog iets over?"
 "104_a","(\0촁\0Ik moet iets bekennen..."
 "104_b","(\0촁\0Dat ben ik vergeten."
@@ -109,13 +109,13 @@ heeft gekost om in te pakken?!\0\0(촀\0Nu lijkt het of ik geen moeite heb
 gedaan. 
 \0((촀\0Je moet echt leren om je in
 te houden, n\0!"
-"108","(촀\02$촀Hij hadZe had\0 het al opnieuw gekocht?
+"108","(촀\02$촀Hij hadZe had\0 het al opnieuw gekocht?
 Meen je dat nou?!\0\0(
 촀\0Ik heb het zeker iets te lang
 gehoudenn\0\0
 \0 (\0촀\0Oeps. (촀\0Nou ja, bedankt
 voor je hulp, n\0."
-"109","(촀\02$촀Hij hadZe had\0 nog niet gemerkt dat 2촀hijze\0 iets
+"109","(촀\02$촀Hij hadZe had\0 nog niet gemerkt dat 2촀hijze\0 iets
 bij mij vergeten was?
 \0 (촀\0Ha! Heb ik
 even geluk, zeg.\0\0(촀\0In ieder geval was het top van je dat
@@ -131,14 +131,14 @@ gaan, hoor. 
 \0 (촀\0Enorm
 bedankt, n\0."
 "203","(;촀\0O, zei s촀 nog iets?"
-"203_a","(\0촁\0Jazeker..."
+"203_a","Jazeker..."
 "203_b","(\0촁\0Dat is me ontschoten."
 "204","(;촀\0Wat zei s촀 toen 2hijze het pakje kreeg?"
 "204_a","(\0촁\0Het zit zo..."
 "204_b","(\0촁\0Dat is me ontschoten."
 "205","(촀\0Jammer. Ik was daar zo nerveus over.
 \0
-Maar als 2촀hijze\0 kwaad was geweest, had
+Maar als 2촀hijze\0 kwaad was geweest, had
 je het wel onthouden, toch?\0\0(\0촀\0Nou ja, toch bedankt dat je het pakje
 voor me hebt afgeleverd. 
 \0(촀\0Ik kan echt
@@ -167,13 +167,13 @@ moeten, n\0."
 "301","(촀\0Heb je het cadeautje zonder problemen aan s촀 kunnen geven? 
 \0(촀\0Ja? Helemaal top."
 "302","(;촀\0Sorry dat ik zo nieuwsgierig benn\0\0 maar zei s촀 er nog iets over?"
-"302_a","(\0촁\0Jazeker, 2촀hijze\0 zei..."
+"302_a","(\0촁\0Jazeker, 2촀hijze\0 zei..."
 "302_b","(\0촁\0Dat ben ik kwijt."
 "303","(4촀\0Ik ben wel nieuwsgierign\0\0 Zei s촀 nog iets?"
 "303_a","(\0촁\0Nou, eh, het zit zo..."
-"303_b","(\0촁\0Ik weet het niet meer."
+"303_b","Ik weet het niet meer."
 "304","(촀\0Dat weet je niet meer? Jemig. Is dat
-even een teleurstelling. Nou ja, 2촀hijze\0
+even een teleurstelling. Nou ja, 2촀hijze\0
 heeft het gekregenn\0\0\0\0(\0촀\0Bedankt, n\0. 
 \0(촀\0Ik sta bij je in het krijt, n\0!"
 "305","(촀\0Je hebt het cadeau van een ander
@@ -189,20 +189,20 @@ nou weer?!\0\0(촀\0Het is heel makkelijk, n\0:
 \0 staat je naam op het pakje?
 \0 Nee?
 \0( (	촀\0MAAK HET DAN NIET OPEN!"
-"307","(촀\0Dat meen je niet! 2촀HijZe\0 trok het ter
+"307","(촀\0Dat meen je niet! 2촀HijZe\0 trok het ter
 plekke aan?! Tóf! 
 \0(2촀\0Ik ben benieuwd
 naar het resultaat, n\0."
 "308","(%촀\0Oké, tof.
-\0(촀\0 2촀HijZe\0 vond het wel aardig,
+\0(촀\0 2촀HijZe\0 vond het wel aardig,
 en dat is mooi. 
 \0Bedankt voor de
 update!"
 "309","(%촀\0Zo ging het dus? 
 \0(1촀\0Nou ja, misschien
-heb ik geluk en zie ik 2촀hemhaar\0 er een
-keer in rondlopen.\0\0(\0촀\0Mijn dank aan Koeriersdienst n\0. Ik wist niet of 2촀hijze\0 mijn cadeautje leuk zou vindenn\0\0\0\0
-\0(촀\0En ik wilde de uitdrukking op 2촀zijnhaar\0
+heb ik geluk en zie ik 2촀hemhaar\0 er een
+keer in rondlopen.\0\0(\0촀\0Mijn dank aan Koeriersdienst n\0. Ik wist niet of 2촀hijze\0 mijn cadeautje leuk zou vindenn\0\0\0\0
+\0(촀\0En ik wilde de uitdrukking op 2촀zijnhaar\0
 gezicht niet zien als ik een misser
 had gemaakt."
 "310","(*촀\0Oookééén\0\0
@@ -210,9 +210,9 @@ had gemaakt."
 \0(촀\0In ieder geval is
 het iets om aan te trekken als het
 wasdag isn\0\0 haha. 2\0n\0!
-(\0촀\0Ik weet gewoon dat 2촀hijze\0 al blij was
+(\0촀\0Ik weet gewoon dat 2촀hijze\0 al blij was
 om überhaupt iets te krijgen. 
-\0(촀\02촀HijZe\0
+\0(촀\02촀HijZe\0
 weet wel wat ik ermee bedoel."
 "312","(2촀\0Ik dacht inderdaad al dat s촀 en ik veel gemeen hadden.\0\0(촀\0Wat supertof dat ze er blij mee was,
 n\0!"
@@ -238,7 +238,7 @@ dat hij er blij mee was."
 "401","(촀\0s촀 heeft mijn goedmakertje gekregen, toch? 
 \0(촀\0Fijn! Er hing veel af van dat pakje."
 "402","(4촀\0Dusssn\0\0 had s촀 nog iets te zeggen?"
-"402_a","(\0촁\0En of! 2촀HijZe\0 zei..."
+"402_a","(\0촁\0En of! 2촀HijZe\0 zei..."
 "402_b","(\0촁\0Dat is me ontschoten."
 "403","(4촀\0Dusssn\0\0 had s촀 nog iets te zeggen?"
 "403_a","(\0촁\0Ja, eh, nou, ik..."
@@ -279,15 +279,15 @@ goedmakertje dat je van mij aan s촀 moet geven, enn\0\0\0\0(\0촀\0n\0
 \0(&촀\0zou je het me
 dan terug willen geven?"
 "506","(7촀\0Het leek me uiteindelijk beter om het
-2촀hemhaar\0 zelf te geven, dat is alles. 
+2촀hemhaar\0 zelf te geven, dat is alles. 
 \0(촀\0Sorry
 dat ik het je vroeg, n\0."
-"507","(7촀\0Ik dacht gewoon: ik geef het 2촀hemhaar\0
+"507","(7촀\0Ik dacht gewoon: ik geef het 2촀hemhaar\0
 zelf wel, snap je?
 \0 (촀\0Sorry dat ik weer
 moeilijk doe, n\0."
 "508","(7촀\0Ik wilde je er toch niet mee
-opzadelen, dus ik breng het 2촀hemhaar\0 zelf
+opzadelen, dus ik breng het 2촀hemhaar\0 zelf
 wel. 
 \0(촀\0Maak je geen zorgen, joh!"
 "509","(7촀\0Ik bedacht me gewoon dat als je
@@ -313,7 +313,7 @@ sowieso moeten doenn"
 nou?!
 \0(촀\0 Wat een dag is ditn\0\0\0\0(\0촀\0Goed, ik fiks het wel. 
 \0(%촀\0Ik pak het weer
-in en geef het aan 2촀hemhaar\0 alsof er geen
+in en geef het aan 2촀hemhaar\0 alsof er geen
 vuiltje aan de lucht is, n\0."
 "514","(촀\0Wacht,
 \0 je hebt het opengemaakt?!
@@ -323,7 +323,7 @@ het voor jou was of zo?
 (\0촀\0Ach, ik heb toch nog pakpapier over.
 \0
 Ik pak het wel weer in en geef het
-2촀hemhaar\0 zelf.
+2촀hemhaar\0 zelf.
 \0( ('촀\0Bedankt hè. 2\0n\0!"
 "515","(촀\0Je hebt mijn cadeau uitgepakt? Mijn
 góédmakertje? 

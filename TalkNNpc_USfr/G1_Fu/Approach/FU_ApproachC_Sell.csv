@@ -22,9 +22,9 @@ ce numéron"
 "004","(촀\0Oh, n\0n\0\0 J'ai fait une chose complètement étrangen\0\0\0\0(촀\0J'étais au magasin, et j'ai acheté
 2\0}\0\0, vu que c'était sur ma listen\0\0\0\0(촀\0Arrivée à la maison, je me suis
 aperçue que j'en avais déjà acheté
-2촀unune\0 hier!
+2촀unune\0 hier!
 (촀\0Hé!
-\0 Tu n'aurais pas envie ($촀\0de me 2촀lela\0
+\0 Tu n'aurais pas envie ($촀\0de me 2촀lela\0
 racheter, dis?"
 "004_a","Bien sûr."
 "004_b","Non, 2désolédésolée."
@@ -55,7 +55,7 @@ clochettes?
 "100","(촀\0Oh, merci! (\0촀\0Que dirais-tu de 
 (&촀\0Z?"
 "100_a","Marché conclu."
-"100_b","Hmm, en fait..."
+"100_b","(\0촀\0Hmm, en fait..."
 "101","(촀\0Un grand merci à toi!"
 "102","(촀\02\0n\0, je suis sûre que 2\0}\0\0 sera très bien chez toi."
 "103","(
@@ -81,7 +81,7 @@ d'intéressé, n\0."
 "201_a","J'achète!"
 "201_b","Ça reste cher..."
 "202","(촀\0Je te remercie!"
-"203","(촀\0Tu verras, 2촀ilelle\0 est comme neu2촀fve\0.
+"203","(촀\0Tu verras, 2촀ilelle\0 est comme neu2촀fve\0.
 (촀\0Fais-en bon usage, n\0!(촀"
 "204","(촀\0Bouhn\0\0 J'ai fait chou blanc.
 \0( (촀\0Mais je
@@ -92,7 +92,7 @@ trouver un acheteur, n\0."
 촀\0Hmmmmmn\0\0 
 \0((촀\0Z?"
 "205_a","Vendu!"
-"205_b","On y est presque..."
+"205_b","(\0촀\0On y est presque..."
 "206","('촀\0Je ne peux pas descendre plus bas,
 même pour toi, n\0n\0\0
 (촀\0Restons-en là, n\0."
@@ -119,7 +119,7 @@ acheter mon magazine! (촀\0Je te
 remercie, n\0!"
 "303","(
 촀\0Qu'est-ce qui pourrait t'intéressern\0\0
-(4촀\02\02\0}\0\0, peut-être?\0\0Je 2촀lela\0 vends à Z."
+(4촀\02\02\0}\0\0, peut-être?\0\0Je 2촀lela\0 vends à Z."
 "303_a","J'achète."
 "303_b","(\0촀\0T'as pas autre chose?"
 "304","(
@@ -131,7 +131,7 @@ facilen\0\0 Heureusement que j'ai gardé
 le meilleur pour la fin.
 Je suis sûre que tu rêves d'avoir
 2\0}\0\0!
-\0 Z et 2촀ilelle\0 est à toi."
+\0 Z et 2촀ilelle\0 est à toi."
 "305_a","J'achète."
 "305_b","Argh, 2désolédésolée."
 "306","('촀\0Je n'aurais pas fait une très bonne

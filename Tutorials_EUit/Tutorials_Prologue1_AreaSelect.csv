@@ -254,34 +254,36 @@ diverso, eh? 
 \0 potrebbe essere
 un'esperienza interessante!
 (%촂\0Troveremo un'isola adatta
-a te (%촃\0nell'emisfero settentrionale."
+a te (%촃\0nell'emisfero meridionale."
 "301","Suppongo che tutto questo parlare
 di ""emisferi"" richieda qualche
-spiegazione in più, dopotutton"
+spiegazione in più, dopotutton\0\0
+(%촀\0Ce ne sono due: uno settentrionale
+e uno meridionale."
 "302","()촀\0Nell'emisfero settentrionale a
-gennaio è inverno, ad aprile è
-primavera, a luglio è estaten\0\0
-... e a ottobre è autunno. 
-\0(%촀\0Nelle isole
-dell'emisfero meridionale, invece, 
-\0si
-verifica la situazione opposta.
-(촀\0Perciò a gennaio sarà estate, ad
-aprile autunno,
-\0 a luglio inverno
-e a ottobre primavera."
-"303","()촀\0Nell'emisfero meridionale a gennaio
-è estate, ad aprile è autunno, 
-\0a luglio
-è inverno e a ottobre è primavera.
-(%촀\0Invece, nelle isole dell'emisfero
-settentrionale, 
-\0si verifica la
-situazione opposta.
-(촀\0Perciò a gennaio sarà inverno, ad
-aprile primavera, 
-\0a luglio estate e
-a ottobre autunno."
+dicembre è inverno, a marzo è
+primavera, a giugno è estaten\0\0
+n\0\0 e a settembre è autunno.
+
+\0(%촀\0Nell'emisfero meridionale, invece,
+
+\0si verifica la situazione opposta.
+(촀\0Perciò a dicembre sarà estate, a
+marzo autunno,
+\0 a giugno inverno
+e a settembre primavera."
+"303","()촀\0Nell'emisfero meridionale a
+dicembre è estate, a marzo è
+autunno, 
+\0a giugno è invernon\0\0
+n\0\0 e a settembre è primavera.
+(%촀\0Invece, nell'emisfero settentrionale,
+
+\0si verifica la situazione opposta.
+(촀\0Perciò a dicembre sarà inverno, a
+marzo primavera, 
+\0a giugno estate
+e a settembre autunno."
 "304_01","(%촀\0Siamo 2\0 Z\0: nell'emisfero
 settentrionale è primavera e in
 quello meridionale è autunno."

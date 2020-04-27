@@ -6,9 +6,7 @@ J'espère que tout va comme tu veux.
 2\0n\0 !
 (촀\0Rah, j'y crois pas !
 \0 J'ai encore dit
-« n\0 » ! Je ne sais pas
-d'où m'est venue cette manie.
-(
+« n\0 » ! Je ne sais pas d'où m'est venue cette manie.\0\0(
 촀\0En tout cas, il serait temps que je
 change de disque.
 \0 Qu'est-ce que
@@ -22,11 +20,8 @@ tu en dis ? 
 « n\0 » sans m'en rendre
 compten\0\0
 (
-촀\0D'après n촀, ça arrive
-souvent.
-\0 (촀\0Il serait peut-être temps
-que j'essaie de changer çan\0\0
-(&촀\0T'en dis quoi, 2
+촀\0D'après n촀, ça arrive souvent.
+\0 (촀\0Il serait peut-être temps que j'essaie de changer çan\0\0\0\0(&촀\0T'en dis quoi, 2
 gamingamine ? 
 \0N'aie pas
 peur de parler franchement. 
@@ -46,7 +41,7 @@ sérieusement songer à changer çan\0\0
 \0
 Qu'est-ce que tu en penses ?"
 "003_a","Oui, pourquoi pas ?"
-"003_b","Ne change rien !"
+"003_b","(\0촀\0Ne change rien !"
 "004","(
 촀\02\0n\0n\0\0 2\0n\0n\0\0
 \0(
@@ -96,14 +91,14 @@ saisi.
 \0 (&촀\0Tu veux que je me mette
 à dire « n\0 » ?"
 "101_a","C'est ça."
-"101_b","Euh, attends !"
+"101_b","(\0촀\0Euh, attends !"
 "102","(;촀\0« 2\0n\0 » ?
-\0( (촀\0C'est celle
-que j'utilisais jusqu'à maintenant !
+\0( (촀\0C'est celle que
+j'utilisais jusqu'à maintenant !
 \0
 (&촀\0Ça veut dire qu'on ne change rien ?"
 "102_a","Oui !"
-"102_b","Mince, attends..."
+"102_b","(\0촀\0Mince, attends..."
 "103","(촀\0Y a pas de souci ! 
 \0Allez, fais-moi
 entendre ta nouvelle proposition."

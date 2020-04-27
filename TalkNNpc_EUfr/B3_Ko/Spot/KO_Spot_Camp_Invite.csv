@@ -12,6 +12,14 @@ pas mal de paperasse et de cartons
 \0(
 C'est d'accord !\0\0(촀\0Je vais de ce pas régler les formalités
 avec le \0bureau des résidents\0￿."
+"003","(촀\0Tu veux m'avoir à l'usure, c'est ça ?
+\0
+Allez, pour cette fois, je vais te faire
+une fleur !\0\0(촀\0J'accepte !
+\0 Enfinn\0\0
+\0(2촀\0 si le \0bureau des
+résidents\0￿ me donne son accord,
+n\0."
 "101","<"
 "101_01","(촀\0Ha ha,
 \0 toujours le mot pour rire !
@@ -139,41 +147,26 @@ raconter quand je serai de retour !"
 "206_01","(%촀\0Bon,
 \0 chose promise,
 \0 chose due.
-\0(
-(5촀\0À nous deux,
-\0 n	\0 !\0\0(촀\0J'y pense,
-\0 je ne me suis même pas
-présenté.
-\0((촀\0 Je suis n
-\0.\0\0Tu t'appelles n\0,
-\0 c'est ça ?
-\0(($촀\0 Enchanté !
-\0( Je sens qu'on va bien s'entendre, n\0 !"
+\0
+\0Bureau des résidents\0￿, à nous deux !
+\0
+On verra bien ce qu'il en ressort."
 "206_02","(%촀\0Dame Fortune a parlé.
 \0( Et elle doit
 m'avoir à la bonne,
 \0(촀\0 car elle a dit
 ce que j'espérais entendre.
-(5촀\0J'ai hâte de faire mes cartons !\0\0( 촀\0Je m'appelle n
-\0,
-\0 au fait.
-\0((촀\0 Toi,
-\0 c'est n\0,
-\0 c'est ça ?\0\0(촀\0Les aventures 2
-de d'⁠n\0 et n
-\0 à n	\0 vont commencer !"
+(5촀\0Plus qu'à parler de mes projets
+d'emménagement au \0bureau des
+résidents\0￿ et roulez jeunesse !"
 "206_03","(%촀\0Eh bien,
 \0 on dirait que c'est décidé.
 \0(
-(촀\0En tant que futurs voisins,
-\0 je crois
-que des présentations s'imposent.
-(촀\0Tu t'appelles n\0,
-\0 c'est ça ?
-\0( Je suis n
-\0,
-\0( enchanté.\0\0(""촀\0J'espère qu'on pourra souvent
-taper le carton, n\0 !"
+(촀\0Tu sais, ça me fera plaisir d'avoir un2\0e
+nouve2aulle voisin2\0e de ta trempe.\0\0(촀\0Mais d'abord, je dois parler de notre
+petit projet au \0bureau des résidents\0￿.
+\0
+($촀\0Souhaite-moi bonne chance !"
 "302","(촀\0J'ai une mauvaise nouvelle, 2
 gamingamine.
 \0(
@@ -200,13 +193,13 @@ une autre fois, n\0."
 "304","(촀\0Ça confirme ce que m'a dit le \0bureau
 des résidents\0￿, mais je n'osais pas
 trop y croire !
-(촀\0Eh bien qu'est-ce que tu attends ?
+(촀\0Eh bien, qu'est-ce que tu attends ?
 \0(
 Donne-moi un nom que je puisse
 aller lui parler !"
-"305","(&촀\0s촀, c'est bien 2촀luielle\0 ?"
-"305_a","C'est bien 2촀luielle\0 !"
-"305_b","Ah non, pas 2촀luielle\0."
+"305","(&촀\0s촀, c'est bien 2촀luielle\0 ?"
+"305_a","C'est bien 2촀luielle\0 !"
+"305_b","Ah non, pas 2촀luielle\0."
 "305_c","En fait, oublie tout ça."
 "306","(""촀\0Parfait !
 \0( Je vais de ce pas lui parler.
@@ -238,8 +231,7 @@ tous les deux."
 "310","( 촀\0Qu'est-ce qu'il t'arrive ?
 Tu as oublié de qui il s'agit ?"
 "310_a","Ça me revient !"
-"310_b","Désolé2
-촀\0e\0..."
+"310_b","Désolé2촀\0e\0..."
 "311","(촀\0Alors qu'est-ce que tu attends ?
 \0(
 Crache le morceau, n\0 !"
@@ -254,34 +246,19 @@ mémoire, je sais de quoi je parle.
 \0
 on a qu'à dire que ça sera pour
 la prochaine fois, n\0n"
-"402","(촀\0J'ai la réponse du \0bureau des
-résidents\0￿,
-\0 et ce n'est pas celle
-que j'espérais.
-(촀\0Pour faire court,
-\0 j'aurais déjà une
-sorte de sosie ici et ils craignent une
-certaine confusion si j'emménage.
-(촀\0Je ne sais pas ce qui me déçoit le
-plus entre leur refus et l'idée que je
-ne sois pas si unique, n\0n"
-"403","(촀\0J'ai la réponse du \0bureau des
-résidents\0￿,
-\0 et ce n'est pas celle
-que j'espérais.
-(촀\0Pour faire court,
-\0 j'ai un doppelgänger
-qui m'a grillé la politesse.\0\0(촀\0D'après le bureau,
-\0 une personne qui
-me ressemble énormément est déjà
-censée emménager sur l'île.\0\0(촀\0Et ils ont peur qu'avec deux comme
-moi,
-\0 la situation ici devienne hors
-de contrôle.
-(촀\0Je ne peux pas leur donner tort,
-\0
-mais ça veut dire que je dois faire
-une croix sur n	\0..."
+"313","(촀\0À la bonne heure !
+\0
+Euhn\0\0 On parle bien 2
+de d'⁠s촀, pas vrai ?\0\0(%촀\0En tout cas, le \0bureau des résidents\0￿
+avait l'air de dire que je pouvais lui
+en parler.
+\0 Et toi, t'en penses quoi ?⁠"
+"313_a","Je suis d'accord !"
+"313_b","Nan, laisse tomber."
+"314","Je vois. 
+\0(촀\0Ma foi, si c'est comme ça,
+c'est comme çan\0\0 Ce sera peut-être
+pour la prochaine fois, n\0."
 "404","(촀\0J'ai parlé au \0bureau des résidents\0￿,
 \0
 et bonjour la déconvenuen\0\0\0\0(촀\0L'île est déjà pleine à craquer.
@@ -292,17 +269,6 @@ et elle risquerait de couler.
 possible,
 \0 mais je comprends qu'ils
 ne veuillent pas prendre de risques."
-"405","(촀\0Alorsn\0\0 J'ai appelé le \0bureau des
-résidents\0￿ pour savoir s'il était
-possible d'emménagern\0\0
-('촀\0Et malheureusement non,
-\0 il n'y a
-plus de place pour construire une
-nouvelle maison !
-Et je refuse de dormir à la belle
-étoile !
-\0(촀\0 C'est que mon dos réclame
-un matelas digne de ce nom !"
 "406","(6촀\0Alors voilà.
 \0 J'ai appelé le \0bureau des
 résidents\0￿ de ton île pour voir s'il
@@ -340,24 +306,6 @@ forcer le destin,(촀\0
 \0
 2
 gamingamine."
-"421","(
-촀\0Je n'aurais jamais imaginé qu'un
-double de moi puisse un jour me
-poser problème.
-(촀\0J'espère au moins que je suis
-le plus beau des deux !\0\0(촀\0En tout cas,
-\0 merci pour l'invitation.
-\0(
-Ce n'est peut-être que partie remise,
-n\0."
-"422","(촀\0Comment mon alter ego peut-il
-me faire un coup pareil ?!\0\0(촀\0Ah,
-\0 si tous les moi du monde
-voulaient se donner la patten\0\0\0\0(촀\0Enfin,
-\0 je crois que c'est raté pour
-cette fois,
-\0 mais merci encore pour
-l'invitation."
 "423","(촀\0Ton île doit être vraiment populaire
 s'il n'y a plus de place pour un
 nouvel arrivant !
@@ -369,17 +317,6 @@ mieux comme çan\0\0
 \0 j'aurais sans doute
 fait fuir la moitié de la population
 en moins d'une semaine !"
-"424","(
-촀\0C'est quand même fou, çan\0\0
-Y a vraiment plus la place de bâtir
-quoi que ce soit ?
-(촀\0En tout cas,
-\0 merci pour l'invitation,
-\0
-2
-gamingamine.
-\0 Ça me touche de savoir que
-t'aurais aimé qu'on soit voisins."
 "504","()촀\0Quand je suis arrivé ici,
 \0 j'avais
 peur de me faire plumer comme

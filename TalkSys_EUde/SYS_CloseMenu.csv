@@ -1,31 +1,39 @@
 ﻿"label","text"
 "001","Was möchtest du tun?"
 "001_a","(\0촁\0Schluss machen"
-"001_b","(\0촁\0Doch nicht..."
+"001_b","Pass ansehen"
+"001_c","Nichts"
 "002","Was möchtest du tun?"
 "002_a","(\0촁\0Schluss machen"
-"002_b","(\0촁\0Melden"
-"002_c","(\0촁\0Doch nicht..."
-"004","Möchtest du zu deiner Insel
-zurückkehren?"
+"002_b","Pass ansehen"
+"002_c","(\0촁\0Melden"
+"002_d","Nichts"
+"004","Was möchtest du tun?"
 "004_a","(\0촁\0Zurück auf meine Insel"
-"004_b","(\0촁\0Doch nicht..."
-"005","Möchtest du zu deiner Insel
-zurückkehren?"
+"004_b","Pass ansehen"
+"004_c","Nichts"
+"005","Was möchtest du tun?"
 "005_a","(\0촁\0Zurück auf meine Insel"
-"005_b","(\0촁\0Melden"
-"005_c","(\0촁\0Doch nicht..."
+"005_b","Pass ansehen"
+"005_c","(\0촁\0Melden"
+"005_d","Nichts"
 "006","Möchtest du Schluss machen?"
 "006_a","(\0촁\0Schluss machen"
-"006_b","(\0촁\0Doch nicht..."
+"006_b","Pass ansehen"
+"006_c","(\0촁\0Melden"
+"006_d","Nichts"
+"007","Du solltest warten, bis
+das Konzert vorbei ist."
 "011","Was möchtest du tun?"
 "011_a","(\0촁\0Speichern & beenden"
 "011_b","(\0촁\0Weiterspielen"
 "012","Speichervorgang abgeschlossen.
 \0
 Bis bald!"
-"013","Du kannst jetzt noch nicht speichern."
-"019","Du kannst jetzt nicht speichern."
+"013","Das Spiel kann jetzt noch
+nicht gespeichert werden."
+"019","Das Spiel kann jetzt nicht
+gespeichert werden."
 "020","Möchtest du Schluss machen?
 \0\0(Beim nächsten Spielstart beginnst
 du in deinem Zuhause.)\0￿"

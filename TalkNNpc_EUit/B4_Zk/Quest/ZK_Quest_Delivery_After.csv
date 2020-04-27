@@ -6,12 +6,12 @@ chiuso occhion\0\0 
 \0Sorbole, solo 10 ore
 filate di sonno,
 \0 entiendes?"
-"003","(&촀\0Dimmi un po'n\0\0 Come ha reagito s촀 quando 2촀glile\0 hai consegnato il pacchetto?"
-"003_a","Allora..."
-"003_b","Non ricordo."
+"003","(&촀\0Dimmi un po'n\0\0 Come ha reagito s촀 quando 2촀glile\0 hai consegnato il pacchetto?"
+"003_a","(\0촁\0Allora..."
+"003_b","(\0촁\0Non ricordo."
 "004","(&촀\0E sentiamo, 
-\0in che modo ha reagito s촀 quando 2촀glile\0 hai dato il pacchetto?"
-"004_a","Beh, ecco..."
+\0in che modo ha reagito s촀 quando 2촀glile\0 hai dato il pacchetto?"
+"004_a","(\0촁\0Beh, ecco..."
 "004_b","(\0촁\0L'ho dimenticato..."
 "005","(촀\0Sul serio? 
 \0Eppure non mi sembra
@@ -70,11 +70,11 @@ una flessione di troppo."
 \0(촀\0Muchas gracias, amig2oa mi2oa!"
 "103","(&촀\0Ma 
 \0s촀 ha detto per caso qualcosa,
-\0 quando 2촀glile\0 hai dato il pacchetto?"
+\0 quando 2촀glile\0 hai dato il pacchetto?"
 "103_a","Sì..."
 "103_b","Non ricordo."
 "104","($촀\0s촀 non ha avuto niente da dirti su di me, quindi?"
-"104_a","Ecco, allora..."
+"104_a","(\0촁\0Ecco, allora..."
 "104_b","Non che io ricordi, no."
 "105","(촀\0Non ricordi? 
 \0(촀\0Bueno, pare che
@@ -130,8 +130,8 @@ un doppione! 
 "203_b","(\0촁\0Non saprei..."
 "204","(\0촀\0Alloran\0\0
 \0 (&촀\0Che ti ha detto s촀?"
-"204_a","Beh, dunque..."
-"204_b","L'ho dimenticato."
+"204_a","(\0촁\0Beh, dunque..."
+"204_b","(\0촁\0L'ho dimenticato."
 "205","(촀\0Sorbole! 
 \0Ma in fondo è sufficiente
 che quel pacchetto abbia ritrovato
@@ -153,7 +153,7 @@ caso non avresti dovuto farlo!"
 "208","(촀\0Eh, 
 \0cosa?
 \0 Mi stai dicendo che
-alla fine era un regalo per te?\0\0(촀\0Astut2촀oa\0, 2&촀il carola cara\0 s촀! 
+alla fine era un regalo per te?\0\0(촀\0Astut2촀oa\0, 2&촀il carola cara\0 s촀! 
 \0Non so come riesca a fare certe cose.
 \0 Sono troppo colpito!"
 "209","(촀\0Bueno, 
@@ -168,11 +168,11 @@ alla fine era un regalo per te?\0\0(촀\0Astut2촀oa\0, 2&촀il c
 \0vuota il sacco! 
 \0Che cosa ti ha
 detto s촀?"
-"302_a","Sì, allora..."
+"302_a","(\0촁\0Sì, allora..."
 "302_b","Non me lo ricordo."
 "303","(&촀\0E dimmi, 
 \0s촀 era fuori di sé dalla gioia, verdad?"
-"303_a","Beh, ecco..."
+"303_a","(\0촁\0Beh, ecco..."
 "303_b","Non me lo ricordo..."
 "304","(촀\0Ahn\0\0 Bueno, non posso negare
 di essere un po' deluso."
@@ -188,7 +188,7 @@ l'abbia aperton\0\0 il regalo era per
 "308","(
 촀\0Se s촀 è felice, io sono felice, n\0.
 \0(촀\0 Ma era felice, verdad?"
-"309","(촀\0Oh, conoscendo s촀 non mi sorprende affatto.\0\0(촀\0Probabilmente era troppo 2""촀timidotimida\0
+"309","(촀\0Oh, conoscendo s촀 non mi sorprende affatto.\0\0(촀\0Probabilmente era troppo 2""촀timidotimida\0
 per fare una prova lì sul momento."
 "310","(
 촀\0Mmmh,
@@ -238,11 +238,11 @@ sui rovi! 
 촀\0O forse era ""sui sassi""?
 \0
 Mmmhn"
-"402_a","Dunque..."
+"402_a","(\0촁\0Dunque..."
 "402_b","(\0촁\0Non saprei..."
 "403","(&촀\0E dunque? 
 \0s촀 ha detto qualcosa di particolare?"
-"403_a","Beh, in effetti..."
+"403_a","(\0촁\0Beh, in effetti..."
 "403_b","(\0촁\0Non ci ho fatto caso."
 "404","(촀\0De verdad?!
 \0 Ma quella era la cosa

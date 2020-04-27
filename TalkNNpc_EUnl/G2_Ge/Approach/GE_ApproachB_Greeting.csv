@@ -14,7 +14,7 @@ Voor als we elkaar tegenkomen!\0\0(촀\0Maarn\0\0
 bedacht. 
 \0(&촀\0Heb jíj een cool idee?"
 "001_a","(\0촀\0Wat vind je hiervan?"
-"001_b","Ken ik jou?"
+"001_b","(\0촀\0Ken ik jou?"
 "002","(촀\0Hé, we zeggen toch altijd
 \0 ()촀\0""⁠2\0n\0Hallo zonnestraaln⁠"" tegen elkaar?\0\0(
 촀\0Nou, 
@@ -32,7 +32,7 @@ Maar ik ben hetn\0\0 best wel 
 snap je?
 \0($촀\0 Wat vind jij?"
 "002_a","(\0촀\0Ik heb een idee!"
-"002_b","Ik heb het druk."
+"002_b","(\0촀\0Ik heb het druk."
 "003","(""촀\0Hé, 
 \0n\0! Ik probeer iets te bedenken om tegen, 
 \0je weet wel, (촀\0
@@ -54,7 +54,7 @@ trouwe fans mee te begroeten?"
 weet je, als titel voor mijn
 debuutalbum?(&촀"
 "004_a","(\0촀\0Ik heb een beter idee."
-"004_b","Welk debuutalbum?"
+"004_b","(\0촀\0Welk debuutalbum?"
 "005","(촀\0Hihi! 
 \0Dat was grappig.
 \0 Ik bedenk nog
@@ -95,7 +95,7 @@ nummers heb geschreven!"
 \0
 (;촀\0Zeg het eens!"
 "101_a","Best goed!"
-"101_b","Dat moet beter."
+"101_b","(\0촀\0Dat moet beter."
 "102","""2\0n\0Hallo zonnestraaln""?
 \0 (&촀\0Wat? 
 \0Wil je het houden zoals het was?"

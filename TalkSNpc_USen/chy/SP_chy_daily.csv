@@ -39,7 +39,7 @@ here until \0Z%촀 n촀\0￿, son"
 "004","($촀\0Oh, hey. 
 \0(&촀\0Remember men\0\0
 \0\0Flick\0￿?\0\0The guy who loves bugs
-\0(촀\0 in all their
+\0(촀\0 in all their
 skittery, chittery, sometimes-glittery
 glory?
 (촀\0I'm still looking for my soul bug,
@@ -93,15 +93,18 @@ my art, just let me know.\0d"
 "010_a","I've got a bug to sell!"
 "010_b","Commissions?"
 "010_c","('촀\0Maybe another time."
-"011","(촀\0R-really?! 
+"011","(촀\0
+\0R-really?! 
 \0That's great!
-\0(&촀\0 What have
+\0((&촀\0 What have
 you got for me?!\0\0(8촀\0Wait—you don't have the energy,
 \0
 the aura, (;촀\0
 \0the 
+\0
 \0MAJESTY 
-of someone
+
+\0of someone
 with bugs in their pockets!
 ('촀\0Sorry, but I can only buy bugs that,
 \0
@@ -111,12 +114,12 @@ you know, 
 when you've caught some!"
 "012","(%촀\0Just so you know,
 \0 I have to leave
-tomorrow morning at 5 AM, son\0\0
+tomorrow morning at \05 AM\0￿, son\0\0
 \0(
 (촀\0please get back to me by then, OK?"
 "013","(%촀\0Just so you know,
 \0 I have to leave
-at 5 AM, son\0\0
+at \05 AM\0￿, son\0\0
 \0((촀\0please get back to me
 by then, OK?"
 "014","( 촀\0Huh?
@@ -145,6 +148,7 @@ art just let me know OK bye.\0d"
 "015_c","('촀\0Maybe another time."
 "016","(촀\0
 \0Really? 
+\0
 \0WHAT KIND
 ?!"
 "020","(촀\0What?!\0\0(촀\0No, it's cool.
@@ -394,7 +398,7 @@ piece. 
 for you a colossus that will bestride
 the world like a bug!
 \0(촀\0 \0KIt'll come in the mail.\0d"
-"150","(촀\0R-really? 
+"150","(2촀\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(
@@ -406,7 +410,7 @@ mighty strength and graceful grace!
 (#촀\0I promise this will be my gigantic-est
 masterpiece, and I shall title it
 \0The Grand Goliath Beetle\0￿!"
-"151","(촀\0R-really? 
+"151","(7촀\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(
@@ -418,7 +422,7 @@ that bore into your very soul!
 (#촀\0I promise this will be my intense-est
 masterpiece, and I shall title it
 \0The Grand Giraffe Stag Beetle\0￿!"
-"152","(촀\0R-really? 
+"152","(촀\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(
@@ -430,7 +434,7 @@ of the Infested Realms.
 \0-est
 masterpiece, and I shall title it \0The
 Grand Queen Alexandra's Birdwing\0￿!"
-"153","(촀\0R-really? 
+"153","(촀\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(
@@ -442,7 +446,7 @@ no mouths to tell it!
 (#촀\0I promise this will be my silent-est
 masterpiece, and I shall title it
 \0The Grand Atlas Moth\0￿!"
-"154","(촀\0R-really? 
+"154","(1촀\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(
@@ -455,7 +459,8 @@ of a glacier, 
 (#촀\0I promise this will be my fiery-est
 masterpiece, and I shall title it
 \0The Grand Banded Dragonfly\0￿!"
-"155","(촀\0R-really? 
+"155","(촀\0
+\0R-really? 
 \0You want a sculpture of
 2\0\0}\0\0￿?
 \0(

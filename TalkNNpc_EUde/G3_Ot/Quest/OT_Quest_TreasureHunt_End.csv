@@ -29,7 +29,8 @@ Schatz bitte, 
 kommen mag?"
 "005","(촀\0Also gut, 
 \0dann wollen wir mal!"
-"006","(촀\0Dann schauen wir mal. Was mag sich
+"006","(촀\0Dann schauen wir mal. 
+\0Was mag sich
 wohl darin verbergenn"
 "007","(촀\0Schau nur! 
 \0Es ist 2\0
@@ -37,14 +38,14 @@ wohl darin verbergenn"
 \0(촀\0\0\0($촀\0Hier bitte, 
 \0n\0.
 \0
-(%촀\02촀DenDieDas hast du dir redlich verdient."
+(%촀\02촀DenDieDas hast du dir redlich verdient."
 "008","(촀\0Und hier ist deine Belohnung,
 20mein Liebermeine Liebe.
 
 \02\02\0}\0!\0\0(%촀\0Was hältst du davon?
 \0 ($촀\0Ich hoffe, mein Geschenk findet deine Zustimmung."
 "009","(""촀\0Und hier ist dein verdienter Preisn\0\0
-\0(촀\02\0}\0!\0\0(촀\0Ich hoffe, 2촀ersiees wird dir gute Dienste
+\0(촀\02\0}\0!\0\0(촀\0Ich hoffe, 2촀ersiees wird dir gute Dienste
 leisten, n\0."
 "010","( 촀\0Gute Güte!
 \0 (6촀\0Ich hätte nicht gedacht,
@@ -52,9 +53,8 @@ dass du 2
 einereine von der verschlagenen
 Sorte bist."
 "011","( 촀\0Aber n\0!
-\0( (8촀\0Willst du
-jetzt im Ernst anfangen zu feilschen,
-oder was?"
+\0( (8촀\0Willst du jetzt im Ernst anfangen zu feilschen, 
+\0oder was?"
 "012","(촀\0Nun sieh doch mal her, 
 
 \0n\0!\0\0Möchtest du dir denn nicht den
@@ -127,11 +127,8 @@ sehr darauf, bald wieder mit dir zu
 spielen."
 "302","(촀\0Oh! 
 \02\0n\0!
-\0 Da bist du
-also. 
-\0(촀\0Ich habe so unglaublich lange
-auf deine Rückkehr gewartet!
-(\0촀\0Irgendwann musste ich die Schatz-
+\0 Da bist du also. 
+\0(촀\0Ich habe so unglaublich lange auf deine Rückkehr gewartet!\0\0(\0촀\0Irgendwann musste ich die Schatz-
 suche beenden,
 \0 aber wir (%촀\0spielen
 sicher bald wieder miteinander!"

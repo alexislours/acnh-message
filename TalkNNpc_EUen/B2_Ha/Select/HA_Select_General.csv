@@ -17,11 +17,11 @@ Huh!"
 nice }\0\0."
 "003","<"
 "003_01","( 촀\0Huh?
-\0 What's this, n\0?"
+\0 Whaddaya got, n\0?"
 "003_02","(&촀\0Wha?
 \0 For me, n\0?"
-"003_03","(촀\0Huh?
-\0 Is that for me?"
+"003_03","(촀\0Really?
+\0 What is it?"
 "004","<"
 "004_01","(촀\0I gotta open it now!
 \0 I can't wait!"
@@ -72,3 +72,25 @@ out withn\0\0
 \0( 촀\0but your pockets are full!\0\0(\0촀\0I'll just mail it to you.
 \0( (촀\0Then you can
 deadlift your mailbox, n\0!"
+"100","(촀\0Ha! 
+\0That }\0\0
+is just like what I'm wearing!"
+"101","(
+촀\0It's a lot less sweatyn\0\0and having
+2\0}\0\0 in
+reserve isn't a bad idean"
+"102","(""촀\0Thanks! 
+\0Now I can push myself
+even harder before I need to
+do laundry, n\0!"
+"110","( 촀\0Huh? 
+\0But I'm already wearing
+2\0}\0\0n"
+"111","(
+촀\0\0Actually, I'm always ruining or losing
+this kind of stuff. Having a spare on
+the bench could come in handy.\0￿"
+"112","(촀\0Thanks a lot, n\0!
+\0 I'm
+gonna take super-good care of
+my new }\0\0!"

@@ -8,11 +8,8 @@ voir s촀n"
 "001_a","(\0촀\0Je peux le faire."
 "001_b","(\0촀\0Tu devrais t'excuser."
 "002","(
-촀\0s촀 m'a rendu visite
-il y a peu, mais 2촀ilelle\0 a oublié
-quelque chose chez moin\0\0
-(촀\0Je ne sais même pas s2촀'ili elle\0 s'est
-rendu compte qu'2촀ilelle\0 avait perdu
+촀\0s촀 m'a rendu visite il y a peu, mais 2촀ilelle\0 a oublié quelque chose chez moin\0\0\0\0(촀\0Je ne sais même pas s2촀'ili elle\0 s'est
+rendu compte qu'2촀ilelle\0 avait perdu
 quelque chose,
 \0 pour être franche."
 "002_a","(\0촀\0Je vais lui rendre!"
@@ -27,7 +24,7 @@ demande!
 (촀\0Je vais devoir assurer la livraison
 moi-même,
 \0 tu te rends compte?"
-"003_a","Je peux le faire, moi!"
+"003_a","(\0촀\0Je peux le faire, moi!"
 "003_b","(\0촀\0Tu survivras..."
 "004","( 촀\0Tu ferais ça pour moi, vraiment?
 \0
@@ -42,7 +39,7 @@ moi.
 aussi bonne éducation."
 "005","( 촀\0Vraiment?
 \0 Tu me rendrais un grand
-service, tu sais.\0\0('촀\0Je ne voudrais pas qu'2촀ilelle\0 se mette
+service, tu sais.\0\0('촀\0Je ne voudrais pas qu'2촀ilelle\0 se mette
 à chercher son objet partout,
 \0 (촀\0sans
 se douter que c'est moi qui l'ai.
@@ -67,8 +64,7 @@ je m'en occupe moi-même.
 ne te scandalise pas!\0\0(
 촀\0Cependant, l'essentiel est que ce
 colis parvienne à s촀.
-\0
-((촀\0J'irai donc le lui porter."
+\0 ((촀\0J'irai donc le lui porter."
 "101","(&촀\0Aurais-tu une minute à m'accorder?
 \0
 ()촀\0En faisant les boutiques récemment,
@@ -86,12 +82,11 @@ un cadeau sans raison particulièren\0\0
 "102","(촀\0Oh, 2cher
 chère n\0!
 \0
-(촀\0J'ai terriblement besoin de ton aide!\0\0(촀\0Vois-tu, s촀 et moi
-avons eu une petite dispute.\0\0(촀\0Ce n'est pourtant pas ma faute!
+(촀\0J'ai terriblement besoin de ton aide!\0\0(촀\0Vois-tu, s촀 et moi avons eu une petite dispute.\0\0(촀\0Ce n'est pourtant pas ma faute!
 
-\0(\0촀\0Mais d'après 2촀luielle\0,(촀\0 j'ai dit quelque
+\0(\0촀\0Mais d'après 2촀luielle\0,(촀\0 j'ai dit quelque
 chose de méchant.
-(촀\0Je tiens à me réconcilier avec 2촀luielle\0,
+(촀\0Je tiens à me réconcilier avec 2촀luielle\0,
 aussi lui ai-je acheté un cadeau.
 \0
 (촀\0Hélas, je n'ose aller le lui apportern\0\0
@@ -100,7 +95,7 @@ ce service?
 \0(8촀\0 Je t'en serais à jamais
 reconnaissante!"
 "102_a","Si tu veux."
-"102_b","Débrouille-toi!"
+"102_b","(\0촀\0Débrouille-toi!"
 "103","(촀\0Oh, merci n\0!
 \0
 (촀\0Tu m'es d'un grand secours.
@@ -126,28 +121,18 @@ tu t'en occupes dans la journée.
 je te donne jusqu'à demain.
 \0(%촀\0 Je sais
 que tu trouveras le temps."
-"201","(1촀\0Je me demande si s촀
-se souvient qu'2촀ilelle\0 m'a prêté
-quelque chosen\0\0
-(촀\0Mais c'est sans importance.
+"201","(1촀\0Je me demande si s촀 se souvient qu'2촀ilelle\0 m'a prêté quelque chosen\0\0\0\0(촀\0Mais c'est sans importance.
 \0(촀\0 Ce qui
 compte, c'est que tu aies accepté
 de le lui rapporter.
 \0 Merci d'avance!"
-"202","(1촀\0Je me demande si s촀
-s'est rendu compte qu'2촀ilelle\0 avait
-oublié quelque chose chez moin\0\0
-(촀\0Il vaut mieux que tu le lui rapportes
+"202","(1촀\0Je me demande si s촀 s'est rendu compte qu'2촀ilelle\0 avait oublié quelque chose chez moin\0\0\0\0(촀\0Il vaut mieux que tu le lui rapportes
 rapidement!"
-"203","(%촀\0s촀 doit se demander
-où est son colis.
-\0(&촀\0 Pourrais-tu
-le lui apporter rapidement?"
+"203","(%촀\0s촀 doit se demander où est son colis.
+\0(&촀\0 Pourrais-tu le lui apporter rapidement?"
 "204","(촀\0N'oublie pas d'aller apporter
 mon cadeau à s촀.
 \0
 (촀\0Oh, j'espère qu'il lui plairan"
-"205","(촀\0s촀 doit être très en
-colère contre moi.
-\0(촀\0 Apporte-lui
-vite mon cadeau d'excuses!"
+"205","(촀\0s촀 doit être très en colère contre moi.
+\0(촀\0 Apporte-lui vite mon cadeau d'excuses!"

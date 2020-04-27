@@ -2,7 +2,7 @@
 "001","(4촀\0Mi è venuta un'idean\0\0 Ti andrebbe
 di fare un gioco con le carte e
 mettere in palio qualcosa?\0\0(\0촀\0Se vinci tu, 
-\0ti prendi (촀\02""촀il miola mia\0
+\0ti prendi (촀\02""촀il miola mia\0
 }\0\0!\0\0($촀\0Alors, 
 \0che ne dici? 
 \0Non è un'idea
@@ -21,10 +21,10 @@ subliiime?"
 verifichiamo!"
 "006_01","Hai vinto tu, félicitations!
 \0 (촀\0Il premio è
-2""촀il miola mia\0 }\0\0!"
+2""촀il miola mia\0 }\0\0!"
 "006_02","(6촀\0Acciderbolina, ho perso.
 \0( (\0촀\0(촀\0Hai vinto
-2""촀il miola mia\0 }\0\0!"
+2""촀il miola mia\0 }\0\0!"
 "006_03","(촀\0Quanto mi dispiace! 
 \0Questa volta
 non hai vinto nulla, n\0."
@@ -55,7 +55,7 @@ diverso: \0♥\0￿,
 (\0촀\0Ne scelgo una
 \0 e sta a te dire
 (촀\0a che seme appartiene.\0\0(\0촀\0Se indovini,
-\0(%촀\0 ottieni 2""촀il miola mia\0 sublime
+\0(%촀\0 ottieni 2""촀il miola mia\0 sublime
 }\0\0.\0\0(촀\0Tu as bien compris? 
 \0(<촀\0Allora mescolo
 le carte, n\0."
@@ -89,7 +89,7 @@ un seme diverso: \0♥\0￿,
 (\0촀\0Donc, ne scelgo una
 \0 e sta a te dire
 (촀\0di che colore è il seme.\0\0(\0촀\0Se indovini,
-\0(%촀\0 ottieni 2""촀il miola mia\0 sublime
+\0(%촀\0 ottieni 2""촀il miola mia\0 sublime
 }\0\0.\0\0(촀\0Tu as bien compris?
 \0 (<촀\0Mescolo
 le carte, n\0."

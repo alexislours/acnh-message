@@ -41,7 +41,7 @@ Recordaría tu caran\0\0\0\0(촀\0¡Pues yo 
 \0soy 
 \0n
 \0!
-\0
+\0(
 (촀\0Es una pena no haberte visto antes,
 porque justo hoy me voy de la isla.
 (!촀\0Espero que te ocupes de que
@@ -57,7 +57,7 @@ pero 
 "006_01","(촀\0¡¿Tú por aquí, n\0?!\0\0(!촀\0Me agarras con las manos en la
 mudanza, tú,
 \0 así que te aviso que no
-te voy a hacer mucho caso, ¿eh?
+te voy a hacer mucho caso, ¿eh?(\0촀\0
 Eres libre de quedarte si quieres,
 \0
 (7촀\0pero si yo fuera tú, no lo haría, la
@@ -75,9 +75,9 @@ estoy enfocadísima con la mudanza.\0\0(촀\0Traigo un desastre que no sabe
 n\0n\0\0\0\0(촀\0Me quedaría un rato a hablar contigo, 
 \0¡pero ni he decidido adónde
 mudarme!"
-"008","(!촀\0¡Gracias!
-\0(
-촀\0 Llevo días pensando en lugares y no consigo decidirme.\0\0(3촀\0Seguramente al final me iré al
+"008","(!촀\0¡Gracias! Llevo días pensando en lugares (
+촀\0y no consigo decidirme.\0\0
+\0<(3촀\0Seguramente al final me iré al
 primero que me pase por la cabeza.
 \0
 (촀\0¡Viva el azar!"
@@ -103,6 +103,7 @@ ser vecin2oas!
 y cada uno de los isleños de n	\0."
 "105","(
 촀\0¿Habías escuchado de s촀?
+\0P
 \0
 (3촀\0Si no, ¡pronto lo harás!\0\0(5촀\0Me voy a mudar para allá, y estoy
 decidida a darle fama. 
@@ -126,7 +127,7 @@ recordarán también!"
 "108","(
 촀\0¿Sabes qué es lo mejor de la
 mudanza?
-\0 (5촀\0Me dijeron que lo van
+\0< (5촀\0Me dijeron que lo van
 a derribar todo, tú.
 Lo que significa quen\0\0
 \0(3촀\0 ¡no tengo que
@@ -156,9 +157,9 @@ tienen un espacio para tu servidora!"
 촀\0 Bueno,
 tampoco es que tenga planes
 mejores. 
-\0(;촀\0¡Ni planes en general!
+\0<(;촀\0¡Ni planes en general!
 (3촀\0Te ves chéveren\0\0
-\0seguro que tu isla
+\0 seguro que tu isla
 también. 
 \0(촀\0¡Pues me mudo contigo!\0\0(5촀\0Llamaré a la \02\0Ȃ촄oficina de gestión vecinal \0￿de n	\0 para
 ver si tienen hueco para mí.
@@ -180,35 +181,6 @@ la suerte.
 No sabes el montón de planes que
 tengo para l2oas dos.
 (3촀\0¡Ve cargando las pilas!"
-"206","(
-촀\0Mandé una solicitud a tu \02\0Ȃ촄oficina de gestión vecinal\0￿ para ver si podía mudarme a la islan\0\0\0\0(촀\0Y, cuando vieron mi foto, me dijeron
-que ya vivía allí. 
-\0¿Puedes creerlo?
-\0
-('촀\0¡Porque yo no!
-(%촀\0Les pedí que fueran comprensivos
-porque iba de tu parte, pero ni así.
-\0
-(촀\0¡No hubo manera de convencerlos!
-('촀\0En fin, me tendré que ir con
-mis cachivaches a otra parte, tú.\0\0De todas formas, (촀\0¡gracias por
-la invitación!"
-"207","(&촀\0¿Alguna vez te has preguntado
-si tendrás un2\0a gemel2oa secret2oa
-por ahí?
-(촀\0Te cuento: llamé a la \02\0Ȃ촄oficina de gestión vecinal\0￿ de n	\0
-para ver si podía mudarme.\0\0(9촀\0Y me dijeron que no.
-\0 Resulta que
-al parecer, una persona igualita a mí
-había mandado una solicitud antes.
-\0
-(촀\0¿No te parece loquísimo todo?\0\0(%촀\0Hasta le hablé a mi mamá para
-preguntarle si había algo importante
-que no me ha contadon\0\0
-(9촀\0Pero me pidió que no empezara con
-mis teorías conspiratorias.\0\0(촀\0En fin, tendré que buscar otro
-lugar adónde ir. 
-\0¡Lo siento por ti!"
 "208","(촀\0¡Oye, no me habías dicho nada
 de que n	\0 fuera tan popular!\0\0(촀\0Hablé con la \02\0Ȃ촄oficina de gestión vecinal\0￿ a ver si podían hacerme un
 espacio, pero está todo a reventar.
@@ -227,21 +199,6 @@ a poder mudar, tú.\0\0(%촀\0Dicen que no cabe ni un alfiler.
 que deben de traer!
 En fin, (3촀\0ya encontraré otro lugar
 igual de buenazo."
-"211","(촀\0No creo que me sentiría cómoda
-en un lugar donde hay alguien tan
-parecida a mí.
-(5촀\0Prefiero ser única e inigualable,
-así que mejor me mudo a otro lugar
-donde les haga falta una yo."
-"212","(
-촀\0Me dijeron que alguien que se
-parece un montón a mí también
-se muda a n	\0.
-(촀\0Todo el mundo sabe que dos
-n
-\0 es demasiado.
-\0
-('촀\0¡Ni hablar, n\0!"
 "213","(
 촀\0Al parecer en n	\0 no cabe ni un alfiler, tú.\0\0(3촀\0Debe ser tremendo vivir en un lugar
 tan popular, ¿eh?"

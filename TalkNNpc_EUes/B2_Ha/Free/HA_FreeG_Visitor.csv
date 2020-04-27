@@ -6,7 +6,7 @@ típica de esta isla, n\0?"
 "001_b","Pues no..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0¡Pues estupendo!
 \0 (""촀\0
 ¡Entonces come hasta que te hartes!"
@@ -36,10 +36,12 @@ algún día.\0\0()촀\0Podría empezar por acoger una
 exposición sobre mis cuádriceps.
 \0
 (촀\0¡Así se daría a conocer enseguida!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Te recomiendo que les eches un
 vistazo a todas las exposiciones que
 hay en el \0museo\0￿.
@@ -64,32 +66,41 @@ un plan de entrenamiento rompedor.
  del \0museo\0￿, atleta.\0\0(촀\0¡Es un auténtico prodigio de la
 naturaleza,
 \0 como mis abdominales!"
-"101","(촀\0Cómo me alegro de verte otra vez
-en la islan\0\0
-\0 (6촀\0¿Recuerdas cuando nos
-echábamos pulsos hasta las tantas?"
-"102","<ghi"
-"103","(%촀\0Yo he seguido con mi entreno
-secreto diario desde que te fuiste,
+"201","(촀\0Cómo me alegro de verte otra vezn\0\0
+\0
+(6촀\0¿Recuerdas cuando nos echábamos
+pulsos hasta las tantas?"
+"202","<ËÌÍ"
+"203","(%촀\0Yo he continuado con mi entreno
+secreto diario desde que me marché,
 ¿sabes, 2""campeóncampeona?
 ()촀\0¿Y tú?
-\0 (촀\0¿Sigues intentando
-superar tus marcas?"
-"104","(\0촀\0Mmmn\0\0
+\0 (촀\0¿Sigues intentando superar
+tus marcas?"
+"204","(촀\0Veo que has seguido entrenando,
+¿eh?
+\0 ¡Vaya brazacos que traes!
+\0
+(2촀\0No me atrevería a competirn\0\0
+(9촀\0Pero tranqui,
+\0 que me pondré
+las pilas para estar a tu altura.
+\0
+(5촀\0¡Ya verás, ya, n\0!"
+"205","(\0촀\0Mmmn\0\0
 \0 Ahora que lo pienso,
 \0 (2촀\0al final
 nunca decidimos quién de los dos
-estaba más cuadrado, ¿no?"
-"105","(%촀\0¿Te parece si lo resolvemos ahora?
+estaba más cuadrado, ¿no?
+(%촀\0¿Te parece si lo resolvemos ahora?
 \0
 (촀\0¡Vamos a comparar los abdominales!"
-"105_a","¡Vale!"
-"105_b","Mejor no"
-"106","(%촀\0Guay,
+"205_a","¡Vale!"
+"205_b","Mejor no"
+"206","(%촀\0Guay,
 \0 pues vamos allá, ¿eh?
-\0
-
-\0(5촀\0Aunque te aviso de que puedo
+\0
+(5촀\0Aunque te aviso de que puedo
 partir almendras con el ombligo.
 (촀\0¡¿Cómo?!
 \0 ¿Que no te lo crees?
@@ -97,15 +108,14 @@ partir almendras con el ombligo.
 (
 촀\0¡Yo jamás le mentiría a 2&un amigouna amiga!
 \0
-(9촀\0No hace falta que me mires asín\0\0
-\0
+(9촀\0No hace falta que me mires asín\0\0
 (촀\0Bueno,
 \0 allá tú.
-\0 (%촀\0Cuando quieras
+\0 Cuando quieras
 te lo demuestro,
-\0 aunque justo hoy
+\0 (2촀\0aunque justo hoy
 me he quedado sin almendrasn"
-"107","( 촀\0¿Y eso?
+"207","( 촀\0¿Y eso?
 \0 ¡Menudo muermazo!
 \0
 (6촀\0Bah,

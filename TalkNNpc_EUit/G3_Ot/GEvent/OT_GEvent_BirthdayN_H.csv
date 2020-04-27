@@ -35,7 +35,7 @@ essere troppo indiscreta,
 e tu? 
 \0Mi hai portato un regalo?"
 "005_a","Ecco qua."
-"005_b","Ehm, scusa..."
+"005_b","(\0촀\0Ehm, scusa..."
 "006","(촀\0Che festa meravigliosa!\0\0(1촀\0No, non credo che potrei mai
 stufarmi di torte di compleanno
 e regali scelti col cuore.
@@ -100,10 +100,10 @@ coincidenza.\0\0('촀\0Non potevi saperlo ma in casa ho già
 2\0}\0\0.\0\0(2촀\0Conta il pensiero, però.
 \0 In più, non
 mi dispiacerebbe anche averne 10
-di 2""촀questiqueste\0."
+di 2""촀questiqueste\0."
 "019","(촀\0Ohn\0\0 che coincidenza!
 \0(
-(촀\0Indosso esattamente 2.촀lo stessola stessa\0
+(촀\0Indosso esattamente 2.촀lo stessola stessa\0
 }\0\0!\0\0(2촀\0Guardiamo il lato positivo delle cose.
 \0
 Almeno conosci i miei gusti."
@@ -111,15 +111,15 @@ Almeno conosci i miei gusti."
 \0 Adoro
 2\0}\0\0.\0\0(
 촀\0Un attimo però, c'è qualcosa che
-non tornan\0\0 mi sembra di 2""촀averloaverla\0
-già 2촀
+non tornan\0\0 mi sembra di 2""촀averloaverla\0
+già 2촀
 visto
 vista\0n\0\0\0\0(9촀\0Dimmi, n\0, dove
 hai trovato l'ispirazione per un
 regalo del genere?"
 "021","(촀\0Sul serio?
 \0 Non stai scherzando?
-Hai scelto come regalo 2""촀questoquesta\0
+Hai scelto come regalo 2""촀questoquesta\0
 }\0\0?
 (촀\0Oh, sono così felice!
 \0 Non so se mi
@@ -133,7 +133,7 @@ errore?
 2\0}\0\0?
 (2촀\0Non so che cosa ho fatto per
 meritarmelo, ma ti assicuro che
-2촀lola\0 custodirò gelosamente. 
+2촀lola\0 custodirò gelosamente. 
 \0Grazie!"
 "023","(촀\0Oooh, mi fa sempre piacere ricevere
 2\0}\0\0.
@@ -146,7 +146,7 @@ sempre contenta di ricevere in regalo
 "025","(촀\02\02\0}\0\0!\0\0(촀\0Un regalo davvero molto utile."
 "026","(촀\0Oh, che 2carinocarina che sei. 
 \0È proprio da
-te scegliere di regalarmi 2""촀questoquesta\0
+te scegliere di regalarmi 2""촀questoquesta\0
 }\0\0."
 "027","(촀\0Ohn\0\0\0\0('촀\0Non posso accettare, scusa.
 \0 Spero
@@ -251,7 +251,7 @@ piangeren\0\0\0\0(촀\0M-ma vedere i m-miei amici ri-riuniti
 a festeggiare m-mi rende cosìn\0\0
 feliceeeen\0\0 Uaaah!"
 "060","(2촀\0Ho una confessione da farti, n\0n\0\0 Nel profondo del mio cuore spero in un tuo regalo."
-"060_a","Eccolo qui!"
+"060_a","(\0촀\0Eccolo qui!"
 "060_b","Non l'ho portato..."
 "061","(촀\0Questa giornata è stata fantastica.
 \0
@@ -381,7 +381,7 @@ pensierino per ringraziarti.\0\0(""촀\0È 2\0}\0,
 
 \0niente di eccezionale.
 \0( (촀\0Spero solo che
-non ti dispiaccia portartel2촀oa\0 dietro."
+non ti dispiaccia portartel2촀oa\0 dietro."
 "100","(""촀\0Oh, ciao, n\0!
 \0 Vuoi
 sapere una cosa divertente?\0\0(&촀\0Lo sai che io 2\0 s촀 compiamo gli anni lo stesso giorno?

@@ -1,16 +1,13 @@
 ﻿"label","text"
 "001","(촀\0Oh!
-\0 Merci d'avoir rapporté
-à s촀 (촀\0l'objet que
-je lui avais emprunté!"
+\0 Merci d'avoir rapporté à s촀 (촀\0l'objet que je lui avais emprunté!"
 "002","(촀\0C'est vraiment gentil d'être allé2\0e
 rapporter ça à s촀!\0\0(촀\0Ça faisait longtemps que ça me
 tracassait,
 \0 mais grâce à toi(%촀\0 c'est
 de l'histoire ancienne!"
-"003","Au fait, (&촀\0comment s촀
-a réagi?"
-"003_a","En fait..."
+"003","Au fait, (&촀\0comment s촀 a réagi?"
+"003_a","(\0촀\0En fait..."
 "003_b","Je me rappelle pas."
 "004","(&촀\0Est-ce 2
 que qu'⁠s촀 a dit quelque chose de spécial?"
@@ -18,7 +15,7 @@ a réagi?"
 "004_b","J'ai oublié!"
 "005","(
 촀\0J'imagine que tu t'en souviendrais
-si s촀 s'était mis2촀\0e\0 en colère...\0\0(촀\0Alors, c'est que tout va bien!
+si s촀 s'était mis2촀\0e\0 en colère...\0\0(촀\0Alors, c'est que tout va bien!
 Dorénavant, (%촀\0j'essaierai de rendre
 plus vite ce que j'emprunte!"
 "006","(촀\0Quoi, tu l'as ouvert avant?
@@ -40,24 +37,16 @@ qu'elle ne s'est pas mise en colère,
 (촀\0Je me sens mieux, et c'est grâce
 à toi.
 \0 Merci, n\0!"
-"009","(촀\0Heureusement pour moi,
-(촀\0s촀 ne se fâche pas
-pour si peu.
-(%촀\0Merci encore de m'avoir rendu
+"009","(촀\0Heureusement pour moi, (촀\0s촀 ne se fâche pas pour si peu.\0\0(%촀\0Merci encore de m'avoir rendu
 ce service, n\0."
-"010","(%촀\0s촀 est toujours
-si compréhensive...\0\0(촀\0Merci encore pour ton aide,
-n\0!"
+"010","(%촀\0s촀 est toujours si compréhensive...\0\0(촀\0Merci encore pour ton aide, n\0!"
 "011","(8촀\0J'avais vraiment peur qu'elle m'en
 veuille, n\0!
 \0(촀\0 Tu ne peux
 pas savoir comme je suis soulagée.
 (촀\0Merci, n\0!"
-"012","(%촀\0Tant mieux! (촀\0s촀
-ne se fâche pas si facilement,
-\0
-alors je m'en doutais un peu.\0\0(촀\0Merci d'avoir fait la livraison,
-n\0!"
+"012","(%촀\0Tant mieux! (촀\0s촀 ne se fâche pas si facilement,
+\0 alors je m'en doutais un peu.\0\0(촀\0Merci d'avoir fait la livraison, n\0!"
 "013","(촀\0Pfiouuun\0\0 Quel soulagement!
 Je suis contente qu'il ne m'en
 veuille pas, n\0!\0\0(촀\0J'ai bien fait de te demander de
@@ -72,25 +61,18 @@ se fâcherait pas pour si peu.
 (%촀\0Ce n'est pas son genre!
 (촀\0Tu m'as rendu un grand service,
 n\0!"
-"101","(촀\0Merci d'avoir rapporté à
-s촀 le truc qu'2촀ilelle\0
-avait oublié chez moi!"
-"102","($촀\0C'est gentil d'avoir ramené
-à s촀 l'objet qu'2촀ilelle\0
-avait oublié chez moi!
+"101","(촀\0Merci d'avoir rapporté à s촀 le truc qu'2촀ilelle\0 avait oublié chez moi!"
+"102","($촀\0C'est gentil d'avoir ramené à s촀 l'objet qu'2촀ilelle\0 avait oublié chez moi!
 (촀\0Ça m'enlève un poids, tu sais."
 "103","Alors,(&촀\0 est-ce 2
-que qu'⁠s촀
-a dit quelque chose de spécial?"
-"103_a","En fait..."
+que qu'⁠s촀 a dit quelque chose de spécial?"
+"103_a","(\0촀\0En fait..."
 "103_b","Je ne sais plus!"
-"104","Mais dis-moi,(&촀\0 comment
-s촀 a réagi
-quand tu le lui as donné?"
+"104","Mais dis-moi,(&촀\0 comment s촀 a réagi quand tu le lui as donné?"
 "104_a","(\0촀\0Eh bien..."
 "104_b","Euh... J'ai oublié!"
 "105","(촀\0J'imagine 2
-que qu'⁠s촀 devait être soulagé2촀\0e\0.
+que qu'⁠s촀 devait être soulagé2촀\0e\0.
 \0(%촀\0 À sa place,
 \0 je le serais, n\0."
 "106","(촀\0C'est pas vrain\0\0 Tu as ouvert
@@ -102,29 +84,20 @@ chemin?\0\0(촀\0Je ne veux pas sembler ingrate,
 \0 mais
 tu aurais pu t'abstenir de faire ça,
 n\0."
-"108","( 촀\0Oh, s촀 avait déjà
-acheté un autre exemplaire?\0\0(촀\0C'est bête, j'aurais vraiment dû
+"108","( 촀\0Oh, s촀 avait déjà acheté un autre exemplaire?\0\0(촀\0C'est bête, j'aurais vraiment dû
 lui rapporter ça plus tôt..."
 "109","(%촀\0Alors comme ça,
-\0 s촀 
-n'avait pas remarqué qu'2촀ilelle\0 avait 
-oublié quelque chose chez moi...
-(촀\0Je suis contente qu'2촀ilelle\0 ait pu
+\0 s촀 n'avait pas remarqué qu'2촀ilelle\0 avait oublié quelque chose chez moin\0\0\0\0(촀\0Je suis contente qu'2촀ilelle\0 ait pu
 le récupérer, en tout cas!"
 "201","(촀\0Merci d'avoir apporté son colis
 à s촀!"
-"202","(촀\0C'est gentil d'avoir apporté à
-s촀 le colis que
-j'avais reçu par erreur!
-(촀\0Tout est donc rentré dans l'ordre.
+"202","(촀\0C'est gentil d'avoir apporté à s촀 le colis que j'avais reçu par erreur!\0\0(촀\0Tout est donc rentré dans l'ordre.
 \0
 (촀\0Et c'est grâce à toi!"
-"203","(&촀\0s촀 a dit quelque
-chose de spécial, au fait?"
-"203_a","Eh bien..."
+"203","(&촀\0s촀 a dit quelque chose de spécial, au fait?"
+"203_a","(\0촀\0Eh bien..."
 "203_b","Je ne sais plus!"
-"204","(&촀\0Au fait, comment s촀
-a-t-2촀ilelle\0 réagi?"
+"204","(&촀\0Au fait, comment s촀 a-t-2촀ilelle\0 réagi?"
 "204_a","(\0촀\0En fait..."
 "204_b","Zut, j'ai oublié!"
 "205","(촀\0Bon, ça veut dire que tout
@@ -152,18 +125,14 @@ parvenu à s촀!"
 "301","(촀\0Merci beaucoup d'avoir apporté
 ce cadeau pour moi."
 "302","Alors, (&촀\0est-ce 2
-que qu'⁠s촀
-a dit quelque chose de particulier?"
-"302_a","Eh bien..."
+que qu'⁠s촀 a dit quelque chose de particulier?"
+"302_a","(\0촀\0Eh bien..."
 "302_b","Aucune idée."
-"303","(&촀\0Au fait, comment s촀
-a-t-2촀ilelle\0 réagi?"
+"303","(&촀\0Au fait, comment s촀 a-t-2촀ilelle\0 réagi?"
 "303_a","(\0촀\0En fait..."
 "303_b","J'ai pas fait attention!"
 "304","Bah, ce n'est pas grave.
-\0
-(%촀\0s촀 m'en parlera
-sûrement en personne.\0\0(촀\0Merci encore, n\0!"
+\0 (%촀\0s촀 m'en parlera sûrement en personne.\0\0(촀\0Merci encore, n\0!"
 "305","(촀\0Tu plaisantes?
 \0((촀\0 Mais pourquoi
 tu as ouvert son cadeau avant
@@ -175,26 +144,20 @@ de le livrer, n\0?\0\0(촀\0Je ne veux pas passer pour une
 ingrate,
 \0 mais j'aurais préféré que
 tu te retiennes de faire çan"
-"307","(촀\0s촀 a essayé
-immédiatement, alors?
-\0
-(촀\0Ça me fait trop plaisir!\0\0(촀\0J'ai hâte de voir comment
-ça rend sur 2촀luielle\0!"
+"307","(촀\0s촀 a essayé immédiatement, alors?
+\0 (촀\0Ça me fait trop plaisir!\0\0(촀\0J'ai hâte de voir comment
+ça rend sur 2촀luielle\0!"
 "308","(%촀\0Je vois,
 \0 je vois.
 \0 (4촀\0Je suis contente que
 mon cadeau soit arrivé à bon port,
 n\0."
 "309","(촀\0Je vois, contente que tout se soit
-bien passé!\0\0(4촀\0J'aurais quand même bien voulu
-2
+bien passé!\0\0(4촀\0J'aurais quand même bien voulu 2
 que qu'⁠s촀 l'essaie,
-\0
-mais tant pisn\0\0
-(7촀\0J'aurai sûrement l'occasion de
-2촀lela\0 voir avec, n\0!"
-"310","( 촀\0Ah, s촀 s'est
-rechangé2촀\0e\0 aussitôt?
+\0 mais tant pisn\0\0\0\0(7촀\0J'aurai sûrement l'occasion de 2촀lela\0 voir
+avec, n\0!"
+"310","( 촀\0Ah, s촀 s'est rechangé2촀\0e\0 aussitôt?
 \0 (촀\0Hmmmn\0\0\0\0(촀\0C'est vrai qu'on ne peut pas savoir
 si un vêtement va à quelqu'un(4촀\0 tant
 qu'il ne l'a pas essayén"
@@ -202,21 +165,15 @@ qu'il ne l'a pas essayén"
 difficile,
 \0 (촀\0mais je suis contente
 que ça lui ait plu."
-"313","(%촀\0s촀 a des goûts bien
-précis, alors (촀\0je suis soulagée qu'elle
-ait apprécié mon cadeau!"
-"314","(촀\0s촀 a toujours très
-bon goût,
-\0 alors je suis ravie
-que ça lui ait plu!"
+"313","(%촀\0s촀 a des goûts bien précis, alors (촀\0je suis soulagée qu'elle ait apprécié mon cadeau!"
+"314","(촀\0s촀 a toujours très bon goût,
+\0 alors je suis ravie que ça lui ait plu!"
 "315","()촀\0Je n'étais pas sûre de lui trouver
 quelque chose qui lui convienne,
 \0
 (촀\0alors je suis plutôt soulagée."
-"316","(촀\0Même si s촀 aime à
-peu près tout,
-\0 (촀\0je suis contente
-que mon cadeau lui ait plu!"
+"316","(촀\0Même si s촀 aime à peu près tout,
+\0 (촀\0je suis contente que mon cadeau lui ait plu!"
 "317","(촀\0Je dois dire que je n'étais pas tout
 à fait certaine que mon cadeau lui
 plairait, n\0n\0\0
@@ -230,11 +187,11 @@ qu'il ait aimé mon cadeau!"
 je n'étais pas sûre de moin\0\0
 \0(촀\0 alors
 tant mieux s'il a aimé mon cadeau!"
-"401","(촀\0Merci d'avoir apporté mon
-cadeau à s촀!"
+"401","(촀\0Merci d'avoir apporté mon cadeau
+à s촀!"
 "402","Dis-moi, (&촀\0comment est-ce 2
 que qu'⁠s촀 a réagi?"
-"402_a","Eh bien..."
+"402_a","(\0촀\0Eh bien..."
 "402_b","Zut, je ne sais plus."
 "403","Alors, (&촀\0tu pourrais me dire comment
 s촀 a réagi?"
@@ -268,14 +225,10 @@ un truc à s촀n\0\0
 (\0촀\0Tu l'as toujours, ce truc?
 \0
 ($촀\0Je voudrais le récupérer..."
-"503","(4촀\0Tu te souviens du colis adressé
-à s촀 et qui est arrivé
-chez moi par erreur?
-(\0촀\0Si tu l'as toujours, ($촀\0tu veux bien
+"503","(4촀\0Tu te souviens du colis adressé à s촀 et qui est arrivé chez moi par erreur?\0\0(\0촀\0Si tu l'as toujours, ($촀\0tu veux bien
 me le rendre?"
 "504","(4촀\0Tu te souviens du cadeau que
-je t'ai demandé d'apporter à 
-s촀?\0\0(\0촀\0Si tu ne lui as pas encore apporté,
+je t'ai demandé d'apporter à s촀?\0\0(\0촀\0Si tu ne lui as pas encore apporté,
 ($촀\0tu veux bien me le rendre?"
 "505","(4촀\0Tu sais, ce cadeau d'excuses
 que tu as accepté d'apporter à
@@ -330,9 +283,7 @@ d'y aller, pas à toi."
 \0
 (촀\0Pffn\0\0
 \0 Tant pis, je vais le refaire
-et lui apporter ça moi-même.\0\0(2촀\0s촀 appréciera
-sûrement le fait que je vienne
-en personne, n\0."
+et lui apporter ça moi-même.\0\0(2촀\0s촀 appréciera sûrement le fait que je vienne en personne, n\0."
 "515","(촀\0Le papier cadeau n'est plus là!\0\0(촀\0Bonn\0\0
 \0( (%촀\0Je n'ai plus qu'à refaire
 l'emballage et lui apporter mon

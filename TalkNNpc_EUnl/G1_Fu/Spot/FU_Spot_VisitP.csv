@@ -2,7 +2,7 @@
 "001","Hoi! Ik ben het, n
 \0. Mag ik naar binnen komen?
 x"
-"002","Is er iemand thuis! 
+"002","Is er iemand thuis? 
 \0Ik ben het, n
 \0. Komt het uit als ik even naar binnen kom?
 x"
@@ -21,7 +21,7 @@ op bezoek te gaan!
 x"
 "008","(촀\0Ik stoor toch niet?
 x"
-"100","(4촀\0Sorry dat ik zo onverwachts
+"100","(4촀\0Sorry dat ik zo onverwacht
 langskomn\0\0\0\0(촀\0Ik vroeg me af hoe het met jou ging,
 (2촀\0dus besloot ik even bij je langs te
 gaan."
@@ -32,13 +32,11 @@ even bij te kletsen."
 kijken of je thuis was. (촀\0Ik ben blij
 dat je er bent!"
 "200","(4촀\0Ik heb een kleinigheidje voor je.
-(촀\0Ik hoop dat je wat hebt aan 2 촀dezeditdeze
+(촀\0Ik hoop dat je wat hebt aan 2 촀dezeditdeze
 2촃}\0."
 "201","(4촀\0Ik wil je graag iets geven. Alsjeblieft,
 2\0}\0."
-"202","(4촀\0O ja, ik heb nog een kleinigheidje
-voor je meegenomen: (\0촀\02\0
-}\0."
+"202","(4촀\0O ja, ik heb nog een kleinigheidje voor je meegenomen: (\0촀\02\0}\0."
 "203","(4촀\0Ik weet niet of je ervan houdt, maar
 (촀\0ik heb iets voor je meegenomen:
 2\0}\0!
@@ -50,8 +48,7 @@ gezegd dat ik genoeg te eten hebn"
 }\0.\0\0(4촀\0Misschien komt het van pas als
 je honger hebt."
 "205","(촀\0Ik heb ook nog een kleinigheidje
-voor je!\0\0(4촀\0Hopelijk ben je blij met 2\0
-}\0."
+voor je!\0\0(4촀\0Hopelijk ben je blij met 2\0}\0."
 "206","(4촀\0Sorry voor mijn onaangekondigde
 bezoekje, maar (촀\0bedankt voor je
 gastvrijheid."

@@ -14,7 +14,7 @@ poi è svanito.
 (촀\0Lo cerco da un bel po' ormain\0\0 
 \0(&촀\0Non
 è che per caso tu l'hai visto?"
-"002_a","Ti aiuto a cercarlo!"
+"002_a","(\0촁\0Ti aiuto a cercarlo!"
 "002_b","No, non l'ho visto."
 "003","(촀\0Sono uscita dal mio pied-à-terre con
 un sacchetto dal contenuto molto
@@ -51,7 +51,7 @@ essere caduto da qualche parte.
 \0ma ancora
 non sono riuscita a trovarlo,
 n\0."
-"008_a","Posso aiutarti!"
+"008_a","(\0촁\0Posso aiutarti!"
 "008_b","(\0촀\0Lo ritroverai di sicuro."
 "009","(촀\0Stamattina avevo il presentimento
 che sarebbe successo qualcosa di
@@ -121,8 +121,8 @@ ci guardi dentro, se lo trova."
 abbandonato da qualche parte?\0\0(촀\0Io ne ho perso uno con dentro
 qualcosa di molto importanten\0\0\0\0(촀\0Ho cercato dappertutto, ma non
 lo trovo!"
-"101_a","Ti aiuto io!"
-"101_b","Spero che lo troverai."
+"101_a","(\0촁\0Ti aiuto io!"
+"101_b","(\0촁\0Spero che lo troverai."
 "102","( 촀\0Oh, n\0!\0\0(촀\0Sono disperata! 
 \0Ho perso un
 sacchetto con dentro una cosa
@@ -151,8 +151,8 @@ andata a fare una passeggiatina,
 ma ora è introvabilen\0\0
 (촀\0Ho paura che mi sia caduto
 da qualche parte!"
-"201_a","Ti aiuterò a cercarlo!"
-"201_b","No, non l'ho visto."
+"201_a","(\0촁\0Ti aiuterò a cercarlo!"
+"201_b","(\0촁\0No, non l'ho visto."
 "202","(촀\0Ho perso il mio diario!\0\0(촀\0Nel mio pied-à-terre non l'ho
 trovato, 
 \0quindi ho iniziato a
@@ -161,7 +161,7 @@ cercare fuorin\0\0
 \0se
 qualcuno lo trovasse e lo leggesse!"
 "202_a","(;촀\0Terrò gli occhi aperti!"
-"202_b","Io non l'ho visto."
+"202_b","(\0촁\0Io non l'ho visto."
 "203","(촀\0Sei eccezionale, n\0!
 \0
 (촀\0Se lo trovi, fammelo sapere subito."

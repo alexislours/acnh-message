@@ -1,9 +1,9 @@
 ﻿"label","text"
 "001","Inizio un progetto fai da te?"
 "001_01","Inizio un progetto fai da te?"
-"001_01_a","Crea qualcosa."
+"001_01_a","Sì, al lavoro!"
 "001_01_b","Adesso no."
-"001_a","Crea qualcosa."
+"001_a","Sì, al lavoro!"
 "001_b","Personalizza qualcosa."
 "001_c","Adesso no."
 "002","È un banco da lavoro per
@@ -26,9 +26,9 @@ realizzare progetti fai da te."
 lavoro e inizio un progetto fai da te?"
 "021_01","Prendo in prestito questo banco da
 lavoro e inizio un progetto fai da te?"
-"021_01_a","Crea qualcosa."
+"021_01_a","Sì, al lavoro!"
 "021_01_b","Adesso no."
-"021_a","Crea qualcosa."
+"021_a","Sì, al lavoro!"
 "021_b","Personalizza qualcosa."
 "021_c","Adesso no."
 "022","\0\0Non puoi personalizzare qualcosa

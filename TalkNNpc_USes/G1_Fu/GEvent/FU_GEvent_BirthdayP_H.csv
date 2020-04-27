@@ -16,7 +16,7 @@ calabacita!\0\0('촀\0No hay tiempo para explicaciones,
 (촀\0tienes que venir conmigo ¡ya!"
 "005","
 \0
-\0¡Feliz cumpleaños!
+\0\0¡Feliz cumpleaños!\0d
 "
 "006","(4촀\0¿Te lo esperabas?
 \0 Queríamos
@@ -96,9 +96,9 @@ Unan\0\0
 "025","(촀\0¡La rompiste!
 \0 Veamos qué tienen\0\0\0\0(촀\0¡Oooh! ¡Unos deliciosos 2\0܁촅pastelitos de cumpleaños!"
 "026","(촀\0¡Muy bien!
-\0 Ahora veamos qué tienen\0\0\0\0(촀\0¡Un montón de pastelitos de cumpleaños!"
+\0 Ahora veamos qué tienen\0\0\0\0(촀\0¡Un montón de \02\0܁촅pastelitos de cumpleaños\0￿!"
 "027","(촀\0¡Bien, n\0!
-\0 Mira lo que cayó de la piñatan\0\0\0\0(촀\0¡Unos pastelitos de cumpleaños!
+\0 Mira lo que cayó de la piñatan\0\0\0\0(촀\0¡Unos \02\0܁촅pastelitos de cumpleaños\0￿!
 \0
 Y son todos para ti."
 "028","(촀\0Espero que los disfrutes.\0\0(촀\0Puedes compartirlos con los amigos

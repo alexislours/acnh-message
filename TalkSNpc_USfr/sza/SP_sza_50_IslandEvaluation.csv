@@ -240,7 +240,7 @@ notre île\0￿!
 \0 Ce sujet me tient à cœur!"
 "102","(\0촀\0Alors, laissez-moi vous expliquer
 comment le groupe de travail
-\0 (moi)
+\0, moi,
 \0(%촀\0
 rassemble et analyse les données.\0\0()촀\0Je réalise d'abord un sondage sur
 un échantillon composé de résidents,
@@ -333,9 +333,9 @@ oui, ouin\0\0
 \0 Vraiment?!\0d"
 "508_05","(촀\0Merci du fond du cœur!
 \0\0\0Oui, 
-\0je vous communiquerai tous les
-détails par courriel dans les plus brefs
-délais!\0\0(촀\0Tous les habitants de l'île attendront
+\0je vous communiquerai tous
+les détails par courriel dans les
+plus brefs délais!\0\0(촀\0Tous les habitants de l'île attendront
 cela avec impatience!
 \0 Encore merci!
 \0
@@ -367,6 +367,9 @@ dès le lendemain!"
 \0 mais il va
 voir s'il peut nous rendre visite dès
 le lendemain!"
+"512_05","(촀\0Bon, il n'est pas disponible demain,
+mais il va regarder son agendan\0\0
+Après-demain, j'espère!"
 "513_01","(촀\0
 \02\0n\0!촆
 \0 Tu te rends compte? Notre rêve va enfin se réaliser!\0\0(%촀\0Nous allons annoncer la nouvelle

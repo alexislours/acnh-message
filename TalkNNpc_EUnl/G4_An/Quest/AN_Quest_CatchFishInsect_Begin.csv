@@ -3,27 +3,29 @@
 ene insect aan. 
 \0(촀\0En wat krijg ik ervoor
 terug? Noppes!\0\0(촀\0Ik ben ten einde raad. 
-\0Ik krijg 2촀diedatdie 2촃}촀 vast nooit te pakkenn"
+\0Ik krijg 2촀diedatdie 2촃}촀 vast nooit te pakkenn"
 "003_a","(\0촁\0Ik help je er wel bij."
-"003_b","(\0촁\0Kop op!"
+"003_b","(\0촁\0Met zo'n houding niet, nee..."
 "004","()촀\0Ik ben in de bergen opgegroeid, dus
-ik weet wel wat van insecten.\0\0(1촀\0Mijn vrienden en ik vonden 2\02촃}촀 altijd 2촀dehetde allerleuksten"
+ik weet wel wat van insecten.\0\0(1촀\0Mijn vrienden en ik vonden 2\02촃}촀 altijd 2촀dehetde allerleuksten"
 "004_a","(\0촁\0Ik vang er wel een!"
-"004_b","(\0촁\0Zo zo..."
+"004_b","(\0촁\0Ga dan op insectenjacht!"
 "008","(9촀\0Dit klinkt misschien gek, maarn\0\0
 ik ben bezeten van een bepaalde
 vissoort. 
 \0(촀\0Kon ik er maar een vangen!\0\0(촀\0Maar helaas. 
-\0Achn\0\0 Misschien is 2촀diedatdie 2촃}촀 al die moeite niet waard."
+\0Achn\0\0 Misschien is 2촀diedatdie 2촃}촀 al die moeite niet waard."
 "008_a","(\0촁\0Ik vang er een voor je!"
-"008_b","(\0촁\0Je geeft het op?!"
+"008_b","(\0촁\0Kom op, je kunt het!"
 "009","()촀\0Een maatje van me had een heel
 aquarium vol vissen. 
 \0Ze moet er
-dertig of veertig gehad hebben.\0\0(%촀\02촀DeHetDe coolste vond ik altijd 2\02촃}촀.
-\0 (촀\0Ik zie 2 촀zijnzijnhun schubben nog voor men"
-"009_a","(\0촁\0Wil je er een?"
-"009_b","(\0촁\0Die zijn mooi, ja."
+dertig of veertig gehad hebben.\0\0(%촀\02촀DeHetDe coolste vond ik altijd 2\02촃}촀.
+\0 (촀\0Ik zie 2 촀zijnzijnhun schubben nog voor men\0\0\0\0(촀\0Had ik 2촀ererze zelf maar2 촀
+ een.
+ een.."
+"009_a","(\0촁\0Dat regel ik wel voor je!"
+"009_b","(\0촁\0Succes bij het vissen!"
 "011","(촀\0Voor het echie?!
 \0((촀\0 Dat zou geweldig
 zijn!"
@@ -52,9 +54,9 @@ klusje klaar ik zelf!"
 \0((촀\0Ik
 pep mezelf op en dan ga ik het
 he-le-maal zelf regelen!"
-"018","(촀\0Ze zijn gewoon hartstikke tof.
-\0 (6촀\0En dat
-weten ze zelf vast ook."
+"018","('촀\0Ze zijn gewoon hartstikke tof.
+\0 (촀\0
+\0En dat weten ze zelf vast ook, n\0n"
 "021","(9촀\0Weet je wie tof zijn?
 \0 Gehoornde
 kevers. 
@@ -205,10 +207,10 @@ Nu niet, sorry."
 "101_a","(\0촁\0Zal ik er een vangen?"
 "101_b","(\0촁\0Sorry, ik heb het druk."
 "102","(촀\0Dit geloof je toch niet! 
-\0('촀\0Ik vang gewoon geen 2r촀$enkele, verdraaide enkel, verdraaid$enkele, verdraaide }촀!\0\0(촀\0Ik knipper met mijn ogen en poef!
+\0('촀\0Ik vang gewoon geen 2r촀$enkele, verdraaide enkel, verdraaid$enkele, verdraaide }촀!\0\0(촀\0Ik knipper met mijn ogen en poef!
 \0
-Weg! Alsof hij me geld schuldig is!
-(	촀\0Dit gebeurde me vroeger nóóit!"
+Weg! Alsof hij me klingels schuldig
+is! (	촀\0Dit gebeurde me vroeger nóóit!"
 "102_a","(\0촁\0Dit is een klus voor mij."
 "102_b","(\0촁\0Kop op! Je kunt het."
 "103","(촀\0Precies! 

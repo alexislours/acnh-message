@@ -9,11 +9,7 @@ toi, 
 Viens donc !"
 "001_b","C'est pas le moment.
 Pas maintenant, non."
-"002","(5촀\0Alors n\0, voilà
-le topo.(%촀\0 Je viens chez toi, et toi,
-t'essaies de pas t'évanouir.
-\0(
-(촀\0Alors, qu'est-ce t'en dis ?"
+"002","(5촀\0Alors n\0, voilà le topo.(%촀\0 Je viens chez toi, et toi, t'essaies de pas t'évanouir.\0\0(촀\0Alors, qu'est-ce t'en dis ?"
 "002_a","C'est trop d'honneur !
 Oui, avec plaisir !"
 "002_b","Euh... Non ?
@@ -76,8 +72,7 @@ commémoratifs feront l'affaire."
 \0On remet ça à une autre fois."
 "201","(%촀\0Demain ? OK.
 \0( (촀\0T'as tout intérêt à te
-préparer, n\0, y aura
-sûrement des paparazzis !"
+préparer, n\0, y aura sûrement des paparazzis !"
 "202","(%촀\0OK, j'ai un créneau demain. 
 \0
 Ça te laissera le temps de te

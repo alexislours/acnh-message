@@ -85,25 +85,29 @@ pour l'occasion!"
 se tiendra aujourd'hui de \09 h\0￿ à
 \018 h\0￿. Rendez-vous sur la place!"
 "006_01_02","Le premier \0insectosafari\0￿ de la saison
-est en cours. Il se tiendra jusqu'à
+est en cours.
+\0 Il se tiendra jusqu'à
 \018 h\0￿ ce soir!"
 "006_02_01","Le deuxième \0insectosafari\0￿ de la
 saison se tiendra aujourd'hui de \09 h
 \0￿à \018 h\0￿. Rendez-vous sur la place!"
 "006_02_02","Le deuxième \0insectosafari\0￿ de la
-saison est en cours. Il se tiendra
+saison est en cours.
+\0 Il se tiendra
 jusqu'à \018 h \0￿ce soir!"
 "006_03_01","Le troisième \0insectosafari\0￿ de la
 saison se tiendra aujourd'hui de \09 h
 \0￿à \018 h\0￿. Rendez-vous sur la place!"
 "006_03_02","Le troisième \0insectosafari\0￿ de la
-saison est en cours. Il se tiendra
+saison est en cours.
+\0 Il se tiendra
 jusqu'à \018 h \0￿ce soir!"
 "006_04_01","Le dernier \0insectosafari\0￿ de la saison
 se tiendra aujourd'hui de \09 h\0￿ à
 \018 h\0￿. Rendez-vous sur la place!"
 "006_04_02","Le dernier \0insectosafari\0￿ de la saison
-est en cours. Il se tiendra jusqu'à
+est en cours.
+\0 Il se tiendra jusqu'à
 \018 h\0￿ ce soir!"
 "007_01","(촀\0Vous vous rendez compte? C'est le
 dernier jour de Z\0!\0\0(촀\0Je garderai tant de souvenirs de
@@ -121,11 +125,27 @@ habitants de l'île!"
 \0 Le grand \0compte à
 rebours\0￿ du réveillon a lieu en ce
 moment même sur la place!
-Ò\0\0\0(%촀\0Il ne reste plus que quelques instants
-avant la nouvelle année, alors venez
-vite nous y rejoindre!
+Ò\0\0\0(%촀\0Il ne reste plus que quelques
+instants avant la nouvelle année,
+alors venez vite nous y rejoindre!
 Ò\0\0\0(""촀\0À tout de suite!
 Ò"
+"008_01_01","(촀\0Et n'oubliez pas!
+\0( (촀\0La \0fête des œufs
+\0￿approche à grands bonds!\0\0(촀\0Je parie qu'on va aussi assister
+à un changement de météo.\0\0(1촀\0Il suffit de s'acclimater à une saison
+
+\0pour que la suivante vienne tout
+changer à nouveau!"
+"008_01_02","(촀\0J'espère que vous êtes en forme, 
+\0(촀\0car
+aujourd'hui, c'est la \0fête des œufs\0￿!
+\0
+Il y a de la joie dans l'air!
+(&촀\0Aurions-nous la visite d'un invité très
+spécial?\0\0(\0촀\0En tout cas, (촀\0cette journée promet de l'amusement et de la gaieté! 
+\0(%촀\0Alors
+pensez à faire un saut sur la place!"
 "010","(촂\0Chers amis.
 \0 Je me permets de vous
 interrompre dans vos activités
@@ -375,7 +395,7 @@ bambou printemps \0￿»?"
 pour le \0nagashi-sômen\0￿ que j'ai
 envoyé sur l'appli \0Créations\0￿.
 (3촀\0Les matériaux pour réaliser ce
-projet ne sont disponibles qu'à
+projet ne sont disponibles qu'en
 cette saison!"
 "618_03","( 촀\0Ce qui me fait pensern\0\0
 \0 (촀\0N'hésitez pas
@@ -470,8 +490,8 @@ janvier.(촀\0
 année écoulé!\0\0(촀\0Prenons tous un instant pour dire
 au revoir et merci au premier mois
 de l'année, mes amis!"
-"804_02_01","(1촀\0Si ce n'est quen\0\0(%촀\0 j'ai du mal à croire
-que février se termine déjà. C'est le mois le plus
+"804_02_01","(1촀\0J'ai du mal à croire que février se
+termine déjà. C'est le mois le plus
 court, mais quand même!\0\0Quoi qu'il en soit, j'espère que
 vous avez tous bien profité de
 ce merveilleux mois!"
@@ -540,8 +560,7 @@ surtout.
 frn\0\0
 \0(,촀\0\0\0(2촀\0Oh, pardonnez-moi!
 \0 (7촀\0Et pensez bien
-à mettre la patte devant votre bouche
-quand vous éternuezn\0\0\0\0(촀\0C'était \0Marie\0￿, à bientôt sur les
+à mettre la patte devant votre bouche quand vous éternuezn\0\0\0\0(촀\0C'était \0Marie\0￿, à bientôt sur les
 ondes!"
 "804_08_01","(촀\0Le mois d'août se termine déjàn\0\0\0\0(촀\0Nous avons certainement encore de
 belles journées en perspective, mais
@@ -689,12 +708,13 @@ débats d'hier, à la télé?
 \0 (%촀\0Vous savez
 bien, ils font ça toutes les semaines!\0\0(촀\0Ils ont toujours des invités très
 intéressants, (촀\0mais les présentateurs
-ne les laissent jamais en placer une!\0\0(1촀\0À croire qu'ils n'ont jamais l'occasion
+ne les laissent jamais en placer une!\0\0(
+촀\0À croire qu'ils n'ont jamais l'occasion
 de parler en dehors de l'émissionn\0\0
 "
 "825","(촀\0Mais oui! 
-\0(&촀\0Vous avez regardé l'émission
-culinaire d'hier, à la télé?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2촀\0e\0!\0\0(촀\0Pour ma part, j'ai bien intention de
+\0(&촀\0Vous avez regardé
+l'émission culinaire d'hier, à la télé?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2촀\0e\0!\0\0(촀\0Pour ma part, j'ai bien intention de
 m'essayer à cette recette dès ce
 soir.
 \0 Je vais bien m'appliquer!"
@@ -711,13 +731,13 @@ suivi
 \0(&촀\0 la retransmission du concert à
 la télé, hier?\0\0(촀\0Mon groupe préféré a interprété un
 de ses titres emblématiques, 
-\0(촀\0et j'ai
+\0(촀\0et j'ai
 toujours la musique en tête!"
 "828","(촀\0
 \0Oh là làn\0\0 (2촀\0Me revoilà qui ennuie tout
 le monde avec mes histoires de télé.
 \0
-Pardonnez-moi, on passe à la suite!"
+Pardonnez-moi!"
 "831","<"
 "831_01","(촀\0Aïe!
 \0 J'ai oublié de m'inscrire à ce

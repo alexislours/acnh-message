@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","Er is hier geen plek om
-iets te plaatsen."
+"001","Daar is hier niet genoeg plek voor."
 "002","Er is hier geen plek om
 dit op te hangen."
 "003","Er is in deze kamer geen plek
@@ -39,9 +38,8 @@ bezig houden wanneer je
 geen bezoek hebt."
 "022","Deurversiering kan alleen op
 je voordeur."
-"023","Je krijgt zo misschien bezoek,
-dus je kunt nu beter geen hek
-neerzetten."
+"023","Je hebt bezoek, dus je kunt nu beter
+geen hekwerk neerzetten."
 "024","Je hebt nu bezoek, dus je kunt
 geen dingen laten vallen."
 "025","Er zit al versiering op deze deur."
@@ -52,10 +50,18 @@ in de weg staan voor wie naar de
 luchthaven wil."
 "028","Je kunt geen deurversiering aan
 de voorkant van een tent hangen!"
+"029","Zonder een schep in je hand
+kun je geen boom in een gat
+in de grond planten."
+"030","Je kunt niets planten als er andere
+spelers in de buurt zijn."
 "051","Je kunt hier niets meer kwijt.
 Er is niet genoeg plek!"
 "052","Deze kamer is vol, dus je kunt hier
 niets meer kwijt."
+"061","Om in Fotopia kleding met eigen
+ontwerpen te gebruiken druk je
+op \0\0￿, gevolgd door !"
 "101","Je kunt deze klif niet afbreken
 omdat er iets op is geplaatst."
 "102","Je kunt deze klif niet afbreken
@@ -111,21 +117,21 @@ verder niets meer in opbergen."
 gebruiken."
 "405","Je draagt niets wat je kunt
 opbergen."
-"406","Je hebt meer ruimte nodig om
-dit aas te gebruiken."
+"406","Je kunt dit aas alleen maar strooien
+in water waar vissen voorkomen."
 "407","Je kunt je niet omkleden terwijl
 je een flitsoutfit draagt."
 "408","Dit doe-het-zelfplan heb je al."
 "409","Er zitten niet genoeg klingels
 in je portemonnee."
 "410","Dit lijkt een \0doe-het-zelfplan\0￿.
-Hoe zou je dat het best kunnen
-opslaan..."
+Hoe zou je dat nou het best kunnen
+opslaan?"
 "411","Je kunt de stopwatch nu niet
 gebruiken."
-"412","Voorwerpen die door behang bedekt
-worden, gaan naar je opslag. Zorg
-ervoor dat je voldoende ruimte hebt."
+"412","Er is geen plaats voor ramen, want er
+hangen voorwerpen in de weg en je
+opslag is te vol om die op te bergen."
 "413","Dit gereedschap kun je alleen
 gebruiken op de eilanden van
 je beste vrienden."
@@ -173,3 +179,12 @@ niets meer bij je dragen."
 "513","Je zakken zijn vol."
 "514","Deze recyclekist is alleen voor
 bewoners van n\0."
+"600","Je kunt niets downloaden
+zolang je bezoek hebt."
+"601","Je kunt niets downloaden
+zolang de gate open is."
+"602","Je kunt niets downloaden
+zolang je op reis bent."
+"603","Om eigen ontwerpen te downloaden
+zet je eerst de netwerkcommunicatie
+uit bij de luchthavenbalie."

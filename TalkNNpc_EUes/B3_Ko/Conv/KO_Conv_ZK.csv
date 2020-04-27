@@ -8,39 +8,36 @@ Venga,
 \0 dame una opinión sincera.
 \0
 Y más precisa."
-"003","촆(""촀\0¡Ah,
-\0 n\0촃,
-\0 llegas justo
-para salvarme!(촃\0초 ()촀\0No veas qué brasa
-me está dando n촁n\0\0
-Quiere que elija la mejor pose.
+"003","촆(촀\0¡Rescátame,
+\0 n\0촃!
+\0 (7촃\0초No veas qué brasa me está dando n촁n\0\0\0\0()촀\0Quiere que elija su mejor pose.
 \0
 (8촀\0¿No podrías decidirlo por mí?
 \0
 (A mí no me gusta ninguna.)
-Venga,
+촅(촀\0Venga,
 \0 n촁,
-\0
-(촃\0haz una nueva demostración."
+\0 (촃\0haz una nueva demostración."
 "004","(촀\0
 \0\0¡Ta-chán!\0d"
-"005","(촀\0¿Y la otra?"
+"005","(촀\0¿Y la otra?(촀"
 "006","(촀\0
 \0\0¡Aquí está!\0d"
-"007","(촀\0Había una másn"
+"007","(촀\0Había una másn\0\0(촀"
 "008","(5촀\0
 \0\0¡Observad!\0d"
-"009","Ya está.
+"009","촆Ya está.
 \0 (촀\0Venga,
 \0 terminemos de una
 vez.
-\0 (&촀\0¿Qué pose es menos casposa?"
-"009_a","(촀\0La primera"
-"009_b","(촀\0La segunda"
-"009_c","(5촀\0La tercera"
-"010","(9촀\0(촃\0Bueno,
-\0 puede ser."
-"011","(촀\0Sigo sin ver para qué sirve 촇todo este
+\0 (&촀\0¿Qué pose es menos casposa?초"
+"009_a","(촀\0La primera(촀"
+"009_b","(촀\0La segunda(촀"
+"009_c","(5촀\0La tercera(촀"
+"010","(9촀\0촇Pues me parece (촃\0muy bien,
+\0
+esa misma."
+"011","촅(촀\0Sigo sin ver para qué sirve 촇todo este
 alarde de expresividad exagerada."
 "012","((촀\0¡Es un estudio de mercado,
 \0 colega!
@@ -56,9 +53,9 @@ pase de moda!"
 \0 Y me interesa
 un pimiento todo ese mundillo de
 los virus y los tópicos tendenciosos."
-"014","(%촀\0Ahí está.
+"014","촇촃(%촀\0Ahí está.
 \0 (촃\0Esa vale."
-"015","(8촀\0Gracias (촃\0por ponerle fin a esta
+"015","촇(8촀\0Gracias 촃(촃\0por ponerle fin a esta
 pérdida de tiempo."
 "101","(촀\0Oye,
 \0 ¿cómo es que se te ocurren
@@ -68,13 +65,11 @@ tiempo libre?"
 "102","(촀\0Ah,
 \0 ¿te gustan?
 \0 Son todos
-(5촀\0«contenidos originales de
-n촁»n\0\0
-Bueno,
+(5촀\0«contenidos originales de n촁»n\0\0\0\0()촀\0Bueno,
 \0 estoy verificando que
-realmente lo soy.
-\0 No quiero tener
-problemas de derechos de autor."
+realmente lo sean.
+\0 (촀\0No quiero tener
+problemas de derechos de autorn"
 "103","(촀\0Nadie ha dicho que me gusten.
 \0 Solo
 tengo curiosidad por saber qué hay
@@ -95,9 +90,7 @@ humo!
 \0 (촀\0Ahora todo el mundo asociará
 n촁 y publicidad engañosa."
 "201","(9촀\0Tú y yo nos parecemos tanto
-como 2\0n촀 y 2\0
-촀.
-¿Pero qué digo?
+como 2\0n촀 y 2\0촀.\0\0¿Pero qué digo?
 \0 (촀\0Si esas dos cosas
 tienen más en común que nosotros,
 \0

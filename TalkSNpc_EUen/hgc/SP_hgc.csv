@@ -200,29 +200,43 @@ aren't you?
 look all put together.
 \0(($촀\0 And be sure
 to let me know when you're ready!"
-"038_01","( 촀\0Uhmn\0\0 
-\0So, by any chance,
-\0 (촀\0are you
-doing a construction project right
-now?\0\0(\0촀\0When you're trying outfits,(%촀\0you
-should really do it sans-helmet.\0\0(촀\0But by all means, come back and
-give it a try when you're done with your work!"
-"038_02","( 촀\0Uhmn\0\0 
-\0So, by any chance,
-\0 (촀\0are you
-doing a construction project right
-now?\0\0(\0촀\0I like the helmet...(%촀\0but it'll spoil the
-effect of your outfit.\0\0(촀\0Why not come back and show me
-when your work is done, without
-the helmet?"
-"038_03","( 촀\0Uhm
-\0n\0,
-\0 (촀\0are you on
-a construction project right now?
-\0
-(촀\0You must have your hands full!\0\0(\0촀\0When you're trying outfits,(%촀\0you
-should really do it sans-helmet.\0\0So come speak to me again, (촀\0when
-you're not so busy, OK?"
+"038_01","()촀\0Hey, son\0\0it looks like you might be
+busy doing some island-design
+work.
+(촀\0But, ehn\0\0
+\0when you show me your
+outfit, 
+\0('촀\0please don't wear that helmet.\0\0(촀\0I can wait until you're done working.
+Just let me know when you're ready."
+"038_02","( 촀\0Oh, 
+\0n\0!
+\0( (&촀\0Are you
+doing some island designing
+right now?
+(2촀\0You know I love designing things
+too,
+\0 butn\0\0\0\0()촀\0Please don't forget to take off your
+helmet before you show me your
+outfit, OK?
+(촀\0I don't mind waiting until you're
+done.
+\0 Just tell me when you're ready."
+"038_03","( 촀\0Ah, 
+\0n\0!
+\0 (촀\0It looks like
+you're having fun designing
+the island right now.
+(촀\0I know how absorbing design work
+can be, so I hate to interruptn\0\0\0\0()촀\0But, you know, 
+\0that helmet might
+throw off your look. 
+\0So I'll just check
+your outfit after you've taken it off.
+('촀\0I don't mind waiting. 
+\0Just come find
+me when you're ready.
+\0(촀\0 And thanks
+for your help, n\0!"
 "040","(촀\0Oh good!
 \0
 
@@ -526,6 +540,48 @@ and,
 \0
 (촀\0 my goodness, there's so much
 I can learn from the folks here."
+"160","($촀\0I see you've changed.
+\0( (촀\0Oh! 
+\0Oh no!
+\0
+It looks like you're wearing a custom
+design.
+(촀\0I'm sorry, but I can't evaluate your
+outfit properly when you have a
+custom design on.
+(&촀\0Would you mind getting changed
+and then showing me your outfit?
+\0(
+(촀\0I'd really appreciate it."
+"161","(촀\0You changed your outfit for me,
+I see.
+\0( (촀\0Oh no!
+\0 You're wearing a
+custom design, aren't you?
+(촀\0I'm so sorry.
+\0 I can't judge your outfit
+if there's a custom design mixed in.
+\0
+It'll throw things off, you see.
+($촀\0If you could change your clothes and
+then show me your lookn\0\0
+\0well, 
+\0(촀\0that
+would be trés magnifique.
+(7촀\0That's just a little something all the
+famous designers say."
+"164","(&촀\0Can I take a look at your outfit?"
+"164_a","(%촀\0Sure, of course."
+"164_b","('촀\0Not yet."
+"165","(&촀\0Could you let me see your outfit?"
+"165_a","(%촀\0Of course!"
+"165_b","('촀\0I'm not ready."
+"166","($촀\0I'd love to see your outfit. 
+\0That is,
+\0
+(&촀\0if you don't mind?"
+"166_a","(%촀\0OK!"
+"166_b","('촀\0I need more time."
 "200","(\0촀\0So, I'd like you to show me a
 \0party outfit\0￿.\0\0()촀\0Say you and your best friend were
 going to a fancy soiree. 

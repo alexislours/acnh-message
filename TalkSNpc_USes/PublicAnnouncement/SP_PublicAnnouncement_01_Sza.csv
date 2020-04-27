@@ -13,7 +13,8 @@ vez en cuando para descansar
 y reponer fuerzas."
 "001","()촀\02.Son las
 Es laSon las Z\0:Z\0 
-\0del n\0, Z\0 de Z\0 del Z\0.(촀"
+\0del n\0,
+Z\0 de Z\0 del Z\0.(촀"
 "001_01","(촀\0¡Buenos días, residentes!"
 "001_02","(촀\0¡Hola, residentes!"
 "001_03","(촀\0¡Buenas noches, residentes!"
@@ -22,7 +23,7 @@ Es laSon las Z\0:Z\0 
 Hoy traigo un boletín informativo
 de última hora.
 \0(.촀\0 Veamosn"
-"003","(촀\0¡Feliz Año Nuevo!
+"003","(촀\0¡Feliz año nuevo!
 \0 Espero que sea
 (촀\0un año de felicidad y prosperidad
 para nuestra isla."
@@ -91,25 +92,29 @@ de Insectos\0￿ de la temporada en la
 plaza! Será de las \09:00\0￿ a las \018:00\0￿."
 "006_01_02","Ya comenzó la primera \0Caza
 de Insectos \0￿de la temporada y durará
-hasta las \018:00\0￿. ¡Vayan a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Vayan a la plaza!"
 "006_02_01","¡Hoy tendremos la segunda \0Caza
 de Insectos\0￿ de la temporada en la
 plaza! Será de las \09:00\0￿ a las \018:00\0￿."
 "006_02_02","Ya comenzó la segunda \0Caza
 de Insectos \0￿de la temporada y durará
-hasta las \018:00\0￿. ¡Vayan a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Vayan a la plaza!"
 "006_03_01","¡Hoy tendremos la tercera \0Caza
 de Insectos\0￿ de la temporada en la
 plaza! Será de las \09:00\0￿ a las \018:00\0￿."
 "006_03_02","Ya comenzó la tercera \0Caza
 de Insectos \0￿de la temporada y durará
-hasta las \018:00\0￿. ¡Vayan a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Vayan a la plaza!"
 "006_04_01","¡Hoy tendremos la última \0Caza
 de Insectos\0￿ de la temporada en la
 plaza! Será de las \09:00\0￿ a las \018:00\0￿."
 "006_04_02","Ya comenzó la última \0Caza
 de Insectos \0￿de la temporada y durará
-hasta las \018:00\0￿. ¡Vayan a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Vayan a la plaza!"
 "007_01","(촀\0¿Pueden creer que hoy es el 
 último día del año?
 \0 (촀\0El Z\0 ha sido
@@ -136,6 +141,17 @@ de comenzar la \0cuenta regresiva\0￿.
 \0
 ¡Vengan a la plaza cuanto antes!
 Ò"
+"008_01_01","(촀\0¡Quiero recordarles que pronto
+vamos a celebrar la \0Caza del Huevo\0￿!\0\0(촀\0Además está empezando a
+cambiar la temperatura.\0\0(촀\0Da un poco de pereza pasar a otra
+estación cuando ya te acostumbraste
+a la anterior, ¿no?"
+"008_01_02","(촀\0¡Espero que tengan mucha energía
+porque hoy celebramos el día de
+la \0Caza del Huevo\0￿!
+(촀\0Hay mucho movimiento en la plaza
+y creo que también tenemos visita.\0\0(촀\0¡Pasen por allí a divertirse un rato
+cuando tengan un momento!"
 "010","(촂\0¡Hola, residentes!
 \0 Perdón por la
 interrupción,
@@ -165,20 +181,20 @@ años el mismo día."
 informativo de hoyn"
 "022","Tengo un anuncio másn"
 "031","Siguiente anuncion"
-"101","(촀\0¡Tenemos 2,촀un nuevouna nueva\0 residente en
+"101","(촀\0¡Tenemos 2,촀un nuevouna nueva\0 residente en
 la isla!
-\0 Se llama s촀 y estamos encantados de recibirl2촀oa\0."
+\0 Se llama s촀 y estamos encantados de recibirl2촀oa\0."
 "102","<"
 "102_01","(촀\0Te doy la bienvenida en nombre de
 todos, s촀."
-"102_02","(촀\0¡Bienvenid2촀oa\0 a nuestra isla!
+"102_02","(촀\0¡Bienvenid2촀oa\0 a nuestra isla!
 \0
 Esperamos que la pases genial aquí."
 "102_03","(촀\0¡Me alegra muchísimo que más gente
 venga a vivir a nuestra querida isla!"
 "200","Y ahora una noticia un poco tristen"
-"201","Mañana le decimos adiós a nuestr2촀oa\0
-querid2촀oa\0 vecin2촀oa\0 s촀.\0\0Es una pena tener que separarnos,
+"201","Mañana le decimos adiós a nuestr2촀oa\0
+querid2촀oa\0 vecin2촀oa\0 s촀.\0\0Es una pena tener que separarnos,
 pero todos te deseamos mucha
 suerte en tu nueva vida.
 No olviden ir a despedirse antes
@@ -277,8 +293,8 @@ instalada la aplicación \0Creaciones\0￿."
 "612_03","(촀\0Además, sería bonito decorar la isla
 con objetos otoñales hechos por
 los propios residentes."
-"613_01","(촀\0¡Esta mañana amanecimos con
-\0setas \0￿y \0hongos \0￿por la isla!\0\0(촀\0Además de cocinarse, se pueden
+"613_01","(촀\0¡Esta mañana vi que había \0hongos
+\0￿por toda la isla!\0\0(촀\0Además de cocinarse, se pueden
 usar en \0proyectos de taller\0￿."
 "613_02_01","( 촀\0¡Y hablando de proyectosn\0\0!"
 "613_02_02","(촀\0Compartiré un maravilloso
@@ -312,7 +328,7 @@ la aplicación \0Creaciones\0￿."
 "614_03","(%촀\0Lo recomiendo totalmente a quienes
 no lo hayan hecho todavía.\0\0(촀\0Además, los \0copos \0￿también pueden
 usarse en proyectos invernales."
-"615","(+촀\0Uf, hoy tenemos otro día heladon\0\0\0\0Lo que quiere decirn\0\0 (촀\0¡que es la
+"615","(+촀\0Hoy tenemos otro día heladon\0\0\0\0Lo que quiere decirn\0\0 (촀\0¡que es la
 temperatura ideal para salir a jugar
 en la nieve!
 ()촀\0Que a su vez quiere decirn\0\0 ¡que es
@@ -357,8 +373,9 @@ primaverales."
 \0
 vi una caña de bambú y recordé
 un dato curioso.
-(촀\0¡Esta es la mejor temporada para
-cosechar \0tallos de bambú\0￿!"
+(&촀\0¿Sabían que en esta época
+se pueden cosechar \0tallos
+de bambú primaveral\0￿?"
 "618_02_01","(6촀\0¿Y por qué menciono eso?"
 "618_02_02","(%촀\0Porque envié las instrucciones\0 \0￿para
 crear un \02\0ā촃canal de bambú para fideos\0￿.\0\0(촀\0Es un \0proyecto \0￿muy especial para
@@ -375,9 +392,7 @@ isla estarán decorados con luces.
 no me convence del todo cómo
 quedaronn\0\0
 (촀\0Hoy choqué sin querer con un cedro
-decorado y se cayeron unos cuantos
-adornos.
-(촀\0Me da miedo pensar qué ocurrirá
+decorado y me cayó (촀\0un adorno en la cabezan\0\0\0\0(촀\0Me da miedo pensar qué ocurrirá
 si alguien se pone a sacudirlosn\0\0\0\0(촀\0Sería genial si todos recogieran los
 adornos que encuentren tirados en el
 suelo."

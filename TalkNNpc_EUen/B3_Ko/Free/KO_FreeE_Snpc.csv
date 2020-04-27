@@ -91,9 +91,9 @@ nice, once you get to know her
 (%촀\0Seems like a friendly enough kiddo.
 \0
 (촀\0Gonna try to catch him some fish?"
-"016","\0Flick\0￿'s come back around again.
+"016","(8촀\0Seems \0Flick\0￿'s come by for a visit.
 \0
-(8촀\0If he's here for bugs and other
+If he's here for bugs and other
 crawlies,
 \0 (9촀\0he's welcome to 'em."
 "017","()촀\0Heard that \0Kicks\0￿ character is here
@@ -106,6 +106,26 @@ shoes and bags,
 lookin' for someone (촀\0to explain the
 stars in the sky to you,
 \0 n\0."
+"019","(9촀\0Question for ya, kiddon\0\0
+\0 (&촀\0Is it just me,
+or are folks seemin' a mite on edge
+lately, n\0?\0\0(촀\0Like so-and-so sayin' they heard
+noises or saw something or being
+afraid of pickin' n촁 after dark.
+('촀\0Everyone's all worked up about some
+kinda something they think's gonna
+come hoppin' up any second now.\0\0(	촀\0Well, I ain't seen or heard nothin'!
+\0
+It's all a lot of hooey if you ask me!\0\0(%촀\0Today's just another mighty fine
+n\0 day exactly like
+\0( 촀\0
+\0n\0\0
+\0(
+(;촀\0
+\0D-did you hear that?!\0\0(촀\0I'm sure that was just the wind
+playin' tricks.
+\0 Gotta be.
+\0( (촀\0Gahaha!"
 "100","(9촀\0Just saw someone I didn't recognize.
 \0
 Can't say

@@ -1,8 +1,8 @@
 ﻿"label","text"
 "001","(촀\0Ben dis donc ! Tu as trouvé 
 \02\0}촀 ! Ça n'a pas dû être facile !"
-"002","(2촀\02\02\0}촀 que je t'avais demandé2촀\0e\0 ! Tu assures grave, tu sais ?"
-"003","(촀\0Vise un peu 2촀
+"002","(2촀\02\02\0}촀 que je t'avais demandé2촀\0e\0 ! Tu assures grave, tu sais ?"
+"003","(촀\0Vise un peu 2촀
 celui
 celle\0-là ! Je te présente
 2\0}\0\0 !
@@ -18,7 +18,7 @@ de vrai ?
 \0 Ces bestioles-là sont hyper
 rares !"
 "004_a","Bien sûr !
-C'est pour toi."
+(\0촀\0C'est pour toi."
 "004_b","En fait, non.
 Oups, désolé2\0e."
 "005","(촀\0Ha ha ! T'es trop fort2\0e !"
@@ -56,7 +56,7 @@ un insecte qui aime les souches."
 \0 OH...
 \0 OH !
 \0 Tu as attrapé 2\0
-\0}촀 et tu me 2촀lela\0 donnes !"
+\0}촀 et tu me 2촀lela\0 donnes !"
 "022","(촀\0Hein ? 
 \0Est-ce quen\0\0 Oh ! C'est 2\0
 \0
@@ -101,11 +101,9 @@ pour toi !"
 \0 (2촀\0J'ai aussi quelque chose
 pour toi !
 "
-"034","(촀\0C'est qui l2ea meilleur2\0e ? C'est
-n\0 !
+"034","(촀\0C'est qui l2ea meilleur2\0e ? C'est n\0 !
 \0 (\0촀\0Et j'ai même 
-\0(5촀\0une
-récompense pour toi !"
+\0(5촀\0une récompense pour toi !"
 "041","($촀\0Vise un peu ! J'espère que ça te
 plaît, c'est rien de moins qu'2\0
 }\0 !"
@@ -114,7 +112,7 @@ plaît, c'est rien de moins qu'2\0
 (촀\0J'espère que ça te fait plaisir !"
 "043","(""촀\0Boum ! 
 \0Allez, c'est cadeau ! 2\02\0}\0 !
-\0 (4촀\0Je l'ai choisi2촀\0e\0 exprès pour toi !"
+\0 (4촀\0Je l'ai choisi2촀\0e\0 exprès pour toi !"
 "044","(촀\02\02\0
 \0(4촀\0}\0 !
 \0
@@ -195,27 +193,27 @@ Ou d'un lac !
 trouver un poisson de mer ?\0\0(촀\0Un bon, un gros, qui vit dans l'eau
 salée !"
 "201","(촀\0J'ai vraiment super envie d'2\0}촀 !
-\0( Tu pourrais m'en attraper 2촀unune\0 ?\0\0($촀\0Si tu vas voir sur les arbres, tu
+\0( Tu pourrais m'en attraper 2촀unune\0 ?\0\0($촀\0Si tu vas voir sur les arbres, tu
 devrais en trouver !"
 "202","(촀\0Mon rêve, c'est de voir 2\0}촀 !\0\0(
-촀\02촀Ils
+촀\02촀Ils
 Elles\0 ont une tenue de camouflage et
 se cachent dans les herbes.(촀\0 Bonne
 chasse, n\0 !"
 "203","(촀\0Je ferais n'importe quoi pour voir
-2\0}촀 !\0\0($촀\0Il doit bien y en avoir un2촀\0e\0 qui
+2\0}촀 !\0\0($촀\0Il doit bien y en avoir un2촀\0e\0 qui
 virevolte dans le coinn"
 "204","(촀\0J'ai trop hâte que tu me ramènes
-2\0}촀 !\0\0($촀\0J'ai cru en apercevoir 2촀unune\0 par ici,
+2\0}촀 !\0\0($촀\0J'ai cru en apercevoir 2촀unune\0 par ici,
 tout à l'heure. 2\0n\0 ?"
 "205","(촀\0Si tu pouvais me rapporter 2\0}촀, ce serait trop génial !\0\0(%촀\0Oh,
 \0 et prends garde à ne pas faire
-mal à la fleur où 2촀ilelle\0 se trouve.
+mal à la fleur où 2촀ilelle\0 se trouve.
 \0(
 (""촀\0Elle risquerait de se défendre !"
 "206","(촀\0C'est dingue, je ne pense plus qu'à
 2\0}촀 !
-\0( J'ai hâte d'en avoir 2촀unune\0 à moi !\0\0(%촀\0Souviens-toi que tu dois d'abord
+\0( J'ai hâte d'en avoir 2촀unune\0 à moi !\0\0(%촀\0Souviens-toi que tu dois d'abord
 chercher une souche !
 \0( (""촀\0Bonne chance,
 n\0 !"
@@ -229,12 +227,12 @@ poissons, maisn\0\0
 \0 tu pourrais pêcher
 2\0}촀 ?
 ($촀\0Fais le tour des rivières du coin,
-tu devrais finir par en trouver un2촀\0e\0.
+tu devrais finir par en trouver un2촀\0e\0.
 Bonne chance !"
 "212","(%촀\0Vivement que tu me ramènes 2\0}촀 ! (촀\0Ahhh ! J'ai trop hâte !\0\0($촀\0Si j'étais toi, j'irai chercher du côté
 d'un lac !
 \0( (촀\0Bonne chance, n\0 !"
-"213","(%촀\0Je ferais tout pour avoir 2\0}촀. Reviens quand tu en auras 2촀unune\0 !\0\0(""촀\0Je croisn\0\0 que j'en ai vu 2촀unune\0 à
+"213","(%촀\0Je ferais tout pour avoir 2\0}촀. Reviens quand tu en auras 2촀unune\0 !\0\0(""촀\0Je croisn\0\0 que j'en ai vu 2촀unune\0 à
 l'endroit où la rivière se jette dans
 la mer.(""촀\0 Commence par là !"
 "214","(%촀\0Vite, vite ! J'ai trop hâte d'avoir 2\0}촀 ! J'en peux plus d'attendre !!!\0\0($촀\0Regarde dans la mer, 

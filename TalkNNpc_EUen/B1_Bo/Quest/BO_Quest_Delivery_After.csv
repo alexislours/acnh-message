@@ -27,8 +27,8 @@ real mad?"
 \0Maaaaaaaan!\0\0Ah, no worries. (%촀\0
 \0I can't get mad. I'm
 as forgetful as you, n\0!"
-"006","(촀\0You opened it?!
-\0( Dude.
+"006","(촀\0You opened it?!
+\0( Whoa.
 \0 It's not cool
 to open other folks' stuff!(촀\0
 \0 C'mon!"
@@ -125,7 +125,7 @@ present?! 
 \0(9촀\0I worked real
 hard to wrap it up!\0\0(촀\0Promise you won't do that kind of
 thing again, OK?"
-"108","(촀\0They already bought a new one?\0\0(촀\0Oh, shootn\0\0
+"108","(촀\02촀HeShe\0 already bought a new one?\0\0(촀\0Oh, shootn\0\0
 \0( I shoulda delivered
 it sooner.
 \0( I feel real badn"
@@ -218,15 +218,16 @@ Folks only try on gifts they like a
 bunch! (촀\0
 \0I'll have to go see later!"
 "308","(%촀\0Oh, I gotcha.
-\0 (촀\0I'm glad they don't
+\0 (촀\0I'm glad 2촀heshe\0 doesn't
 hate it.
 \0( (\0촀\0Thanks for doing the
 delivery thing, n\0."
 "309","(
-촀\0They didn't try it on?
+촀\02촀HeShe\0 didn't try it on?
 \0( Strange.
 \0(
-I thought they'd really like it."
+I thought 2촀he'd
+she'd\0 really like it."
 "310","Wow.(촀\0
 \0 Guess I was wrong.
 \0
@@ -290,9 +291,9 @@ best, n\0!"
 \0how did it go?
 \0( (&촀\0Did it seem like
 s촀 was still,
-\0
-ummn\0\0angry?"
-"402_a","Oh yeah..."
+\0 ummn\0\0
+angry?"
+"402_a","Not at all!"
 "402_b","I forget."
 "403","(촀\0Son\0\0umn\0\0how'd it go? 
 \0((&촀\0
@@ -335,7 +336,7 @@ forgive me?
 \0 Very cool. 
 \0
 \0Sounds like
-they're not angry anymore?
+2촀heshe\0's not angry anymore?
 \0
 That's great!\0\0(%촀\0I guess we'll be able to make up,
 thanks to you! (촀\0

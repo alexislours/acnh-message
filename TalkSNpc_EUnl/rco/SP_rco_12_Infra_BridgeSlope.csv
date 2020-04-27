@@ -105,9 +105,9 @@ eruit komt te zien."
 "206","(촀\0Uitmuntend! 
 \0Ofn\0\0(&촀\0 Misschien toch
 niet?
-\0 (촀\0Je zakken zitten nogal vol, n\0.\0\0(\0촀\0Ik moet je een \0hellingafbakenings-
-pakket\0￿ geven\0(촀\0\0￿ zodat je plek voor de
-helling kunt reserveren.\0\0(\0촀\0Kun je zo vriendelijk zijn om ruimte in
+\0 Je zakken zitten nogal vol, n\0.\0\0(\0촀\0Ik moet je een \0hellingafbakenings-
+pakket\0￿ geven\0(촀\0\0￿ zodat je een plek voor
+de helling kunt reserveren.\0\0(\0촀\0Kun je zo vriendelijk zijn om ruimte in
 je zakken te maken?
 \0(촀\0 Daarna kunnen
 we er nog eens over praten."
@@ -117,9 +117,10 @@ we er nog eens over praten."
 \0 (촀\0Het is
 slim om er goed over na te denken."
 "208","(
-촀\0O, jeen\0\0 Zo te zien hebben we al \08
-\0￿hellingen.
-\0 Meer
+촀\0O, jeen\0\0
+\0 Zo te zien hebben we al \08
+hellingen\0￿.
+\0< Meer
 \0 (촀\0kan ons bescheiden
 eilandje niet aan.\0\0(\0촀\0Als je een nieuwe helling wilt,
 
@@ -131,13 +132,13 @@ beste wilt maken van de ruimte die
 we op ons prachtige eiland hebben.\0\0(\0촀\0Natuurlijk brengt het afbreken van
 een brug of een helling sloopkosten
 van (촀\0Z\0 met zich mee."
-"302","(
-촀\0Ons eiland heeft momenteel geen
+"302","(촀\0Ons eiland heeft momenteel geen
 bruggen of hellingen,
 \0(촀\0 dus er kan
 niets worden afgebroken.\0\0(:촀\0En onthoud dat afgebroken bruggen
 of hellingen niet hersteld kunnen
-worden.(촀\0 Dus denk er goed over na!"
+worden.
+\0((촀\0 Dus denk er goed over na!"
 "303","(촀\0Afgebroken bruggen en hellingen
 kunnen niet worden hersteld!
 \0(\0촀\0
@@ -223,7 +224,7 @@ werken.\0\0(\0촀\0Dat isn\0\0
 \0(촀\0 zo'n beetje alles wat ik je
 kan vertellen over het bouwen van
 hellingen."
-"403","(\0촀\0Ik ben benieuwd waar 2 촀onzeonsonze nieuwe
+"403","(\0촀\0Ik ben benieuwd waar 2 촀onzeonsonze nieuwe
 (촀\02촃}\0\0 komt!"
 "404","(&촀\0Het project afblazen?
 \0 (촀\0Prima, dan pak
@@ -231,7 +232,7 @@ ik 2\02촃}\0\0 wel weer van je over."
 "405","(\0촀\0Nou, ik hoop dat je een goede plek voor 2\02촃}\0\0 vindt!"
 "501","(촀\0Ah, 
 \0(nou, we zamelen op dit moment
-klingels in voor de bouw van 2\02,촀nieuwe
+klingels in voor de bouw van 2\02,촀nieuwe
 nieuwnieuwe }\0\0.\0\0Daarom 
 \0heb ik het te druk voor
 andere veranderingen.

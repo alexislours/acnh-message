@@ -9,6 +9,17 @@ zu hinterfragen,
 \0￿anfragen,
 \0 ob man mich hier als neue
 Bürgerin willkommen heißen würde."
+"003","(촀\0Auch wenn ich vormals ablehnte,
+
+\0überzeugt mich nun dein Eifer.
+\0(
+(촀\0Ich fühle mich geradezu geehrt!
+(%촀\0Nun gut, 
+\0sofern das \0Servicecenter\0￿
+((촀\0seine Zustimmung erteilt, 
+\0werde ich
+umziehen.
+\0( (촀\0Bitte warte einen Moment."
 "101","<"
 "101_01","(촀\0Wie wunderbar, 
 \0solche Worte aus
@@ -207,12 +218,15 @@ dass ich auf diese Insel ziehe!\0\0('촀\0Gestern noch hätte ich diese
 Entwicklung nicht für möglich
 gehalten, 
 \0n\0.
-(촀\0Doch nun wird das alles Realität.
+(
+촀\0Aber zuerst sollte ich wohl beim
+\0Servicecenter\0￿ um Erlaubnis bitten.
 \0
-(4촀\0Wie lautet dein Name?
-\0
-2\0n\0? 
-\0Freut mich!"
+Das werde ich umgehend tun!
+(\0촀\0Wärst du wohl so lieb, kurz zu
+warten?
+\0 ($촀\0Ich bin in Windeseile
+wieder bei dir!"
 "206_02","(촀\0Der Sieg geht an dich! 
 \0((%촀\0Was so
 viel bedeutet wien\0\0
@@ -223,22 +237,31 @@ wie versprochen hierherziehen.
 (촀\0Somit gibt es nun eine Menge
 vorzubereiten, 
 \0n\0.
-(촀\0Ein neues Abenteuer wartet! ( 촀\0Und dein Name warn\0\0 
-\0n\0?
-\0
-($촀\0Auf dass wir gute Freunde werden!"
+(촀\0Ein neues Abenteuer wartet! ( 촀\0Doch
+zuerst sollte ich mir noch die Erlaub-
+nis des \0Servicecenters\0￿ einholen!
+Wärst du so freundlich, 
+\0($촀\0hier kurz auf
+mich zu warten? 
+\0Ich hoffe, 
+\0ich werde
+mit froher Kunde zurückkehren!"
 "206_03","(촀\0Der Sieg geht an dich!
 \0(
 (2촀\0Das Schicksal hat entschieden,
 und ich werde hierherziehen!
 (5촀\0Manchmal muss man sich einfach auf
 die Karten verlassen, 
-\0n\0!\0\0(촀\0Ich muss umgehend mit den
-Vorbereitungen beginnen!
-\0 Dein Name
-war...? 
-\0(2\0n\0! 
-\0Auf bald!"
+\0n\0!\0\0(
+촀\0Doch eine Sachen können mir die
+Karten nicht abnehmen: 
+\0den Gang
+zum \0Servicecenter\0￿!
+Schließlich muss mein Umzug noch
+genehmigt werden. 
+\0($촀\0Warte hier kurz,
+\0
+ich werde mich auch sputen!"
 "302","($촀\0Verzeih, 
 \0dass du warten musstest!
 \0(
@@ -284,9 +307,9 @@ an einem Umzug interessiert seienn"
 "305_a","Ja!"
 "305_b","Wobei... Moment..."
 "305_c","Lass es lieber ganz..."
-"306","(""촀\0Ich werde umgehend mit 2촀ihmihr\0 reden.
+"306","(""촀\0Ich werde umgehend mit 2촀ihmihr\0 reden.
 \0(
-(%촀\02촀ErSie\0 wird sich sicher darauf einlassen.
+(%촀\02촀ErSie\0 wird sich sicher darauf einlassen.
 \0
 (5촀\0Ich kann sehr überzeugend sein!"
 "307","( 촀\0Ah, 
@@ -302,12 +325,12 @@ handelt es sich denn, 
 \0Wenn es nicht
 sein soll, 
 \0muss ich das akzeptieren!"
-"309","(""촀\0Ich habe s촀 von meinen Zukunftsträumen und der Hoffnung, hier zu leben, erzählt...\0\0(촀\02촀ErSie\0 hat sich umgehend mit der
+"309","(""촀\0Ich habe s촀 von meinen Zukunftsträumen und der Hoffnung, hier zu leben, erzählt...\0\0(촀\02촀ErSie\0 hat sich umgehend mit der
 Vorstellung von einem Leben
 woanders anfreunden können!
 (촀\0Ehrlich gesagt schien es mir fast,
 \0
-als habe 2촀ersie\0 solch eine Gelegenheit
+als habe 2촀ersie\0 solch eine Gelegenheit
 sehnlichst herbeigehofft.
 (촀\0Es ist nur schade, 
 \0dass ich nun s촀 nicht in der Nachbarschaft haben werde.\0\0(4촀\0Sei's drumn\0\0 
@@ -329,39 +352,26 @@ an wen ich mich wenden sollte."
 werde ich nicht erneut nachbohren,
 \0
 sondern von einem Umzug absehen."
-"402","()촀\0Ich bin beim \0Servicecenter \0￿vorstellig
-geworden undn\0\0
-\0 wurde mit wenig
-schönen Informationen konfrontiert.
-(8촀\0Meine Cousine lebt hier schon! 
-\0(
-(9촀\0Und die sieht mir so ähnlich
-wie eine Zwillingsschwester...
-()촀\0Somit kann ich nicht auf dieser
-Insel leben. 
-\0('촀\0Das würde meine
-Einzigartigkeit in Frage stellen!
-(촀\0Vielleicht ändern sich die Dinge ja
-eines Tages, 
-\0aber vorerst ist an
-meinem Beschluss nicht zu rütteln!"
-"403","(촀\0Verzeih die lange Wartezeit!
+"313","(촀\0Dein Zuspruch freut mich zutiefst!
 \0
-(촀\0Mein Gespräch beim \0Servicecenter\0￿
-hat viel Zeit gekostet. 
-\0(( 촀\0Und Nerven!
-(8촀\0Mir wurde nämlich gesagt, 
-\0dass eine
-Cousine mütterlicherseits von mir auf
-die Insel ziehen wird.
-(촀\0Sie ist 2d촀der allerletztedie allerletztedas allerletzte n\0,
-2촀dendiedas ich hier sehen möchte.\0\0(촀\0Mit gutem Grund! 
-\0(Sie sieht mir so
-ähnlich wie eine Zwillingsschwester!\0\0('촀\0Insofern kann ich nicht mir ihr auf
-derselben Insel leben. 
-\0(Ich bin
-schließlich einzigartig, 
-\0n\0!"
+Im \0Servicecenter\0￿ wurde mir auch
+unter der Hand ein Name genannt...\0\0()촀\0s촀 würde unter Umständen 2촀seinihr\0 Domizil für meine Wenigkeit räumen.\0\0Damit wir uns nicht falsch verstehen:
+\0
+(&촀\0Du gehst mit diesem Vorhaben doch
+d'accord, 
+\0habe ich recht?"
+"313_a","Sicher, nur zu!"
+"313_b","Ich denke, eher nicht..."
+"314","( 촀\0Ah, 
+\0nichts für ungut.
+\0 (8촀\0Ich hätte wohl
+besser daran getan, 
+\0die Dinge nicht
+gleich zu überstürzen.
+(촀\0Bitte sieh mir meine Enttäuschung
+nach.
+\0 (2촀\0Lass uns diese Angelegenheit
+einfach schnell vergessen..."
 "404","(""촀\0Verzeih, 
 \0dass du warten musstest,
 \0
@@ -379,25 +389,6 @@ Vorschriften auch für MICH gelten?\0\0(촀\0Enttäuschend! 
 wir eines Tages doch noch zusammen
 auf dieser Insel leben, 
 \0n\0!"
-"405","(촀\0Verzeih, 
-\0dass du warten musstest.
-\0(
-(9촀\0Es gab am \0Servicecenter \0￿einiges
-zu erörtern, 
-\0n\0...
-('촀\0Fazit: 
-\0Es gibt offenbar keinen
-Platz für neue Häuser. 
-\0((촀\0Auf der
-ganzen Insel nicht!
-(촀\0Ich wollte keine große Szene
-machen, 
-\0aber die Enttäuschung
-nagt doch sehr an mir!
-(촀\0Die Voraussetzungen können sich
-aber noch ändern. 
-\0Vielleicht kann ich
-ja irgendwann doch noch herziehen!"
 "406","(촀\0Verzeih, 
 \0dass du warten musstest,
 \0
@@ -441,23 +432,6 @@ eine Plage empfindet, 
 üben müssen und darauf hoffen,
 \0
 dass sich die Situation ändert!"
-"421","(촀\0Dass meine Cousine ausgerechnet nach n\0 ziehen musste, 
-\0n\0...\0\0(
-촀\0Das beweist ihren guten Geschmack.
-\0(
-(9촀\0Den hat sie sich bei mir abgeguckt!\0\0(촀\0Ach, 
-\0ohne sie hätte alles so schön
-sein können. 
-\0('촀\0Wirklich schade!"
-"422","(촀\0Warum nur musste meine Cousine nach n\0 ziehen, 
-\0n\0?\0\0()촀\0Es ist meiner Exklusivität nicht
-zuträglich, 
-\0wenn es mich sozusagen
-in doppelter Ausführung gibt...\0\0(8촀\0Dass sie auf so eine fabelhafte Insel
-gezogen ist, 
-\0beweist zumindest, 
-\0(촀\0dass
-sie nicht auf den Kopf gefallen ist!"
 "423","(촀\0Eine Insel, 
 \0die so en vogue ist, 
 \0dass
@@ -475,22 +449,6 @@ verschwiegen wurde, 
 (3촀\0Wenn ich denn irgendwann auf
 dieser Insel wohne, 
 \0meine ich..."
-"424","(
-촀\0Schwer zu glauben, 
-\0dass nicht noch
-Platz für ein einziges kleines
-Häuschen auf der Insel sein soll.
-(\0촀\0Andererseits ist man sich beim
-\0Servicecenter \0￿wohl bewusst, 
-\0dass
-Häuser durchaus anwachsen können.
-(5촀\0Nun ja, 
-\0wenn die Insel glaubt, 
-\0ohne
-mich auszukommen, 
-\0muss sie mit den
-Konsequenzen leben, 
-\0n\0!"
 "504","Diese Insel ist wirklich etwas ganz
 Besonderes.
 \0 (

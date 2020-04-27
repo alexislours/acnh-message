@@ -1,6 +1,5 @@
 ﻿"label","text"
-"Fossil_00169","(촀\0Oho!
-\0(촀\0 \0Ankylosaurus\0￿ was the herbivore
+"Fossil_00169","(촀\0Oho! (촀\0\0Ankylosaurus\0￿ was the herbivore
 hero,
 \0(촀\0 the grazing gladiator,
 \0 (!촀\0the
@@ -15,8 +14,7 @@ ATTACKED predators.
 (촀\0Can you imagine such behavior in
 an herbivore?(촀\0 It simply beggars the
 imagination!(\0촀"
-"Fossil_00170","(촀\0Oho!
-\0(촀\0 \0Ankylosaurus\0￿ was the herbivore
+"Fossil_00170","(촀\0Oho! (촀\0\0Ankylosaurus\0￿ was the herbivore
 hero,
 \0(촀\0 the grazing gladiator,
 \0 (!촀\0the
@@ -31,8 +29,7 @@ ATTACKED predators.
 (촀\0Can you imagine such behavior in
 an herbivore?(촀\0 It simply beggars the
 imagination!(\0촀"
-"Fossil_00171","(촀\0Oho!
-\0(촀\0 \0Ankylosaurus\0￿ was the herbivore
+"Fossil_00171","(촀\0Oho! (촀\0\0Ankylosaurus\0￿ was the herbivore
 hero,
 \0(촀\0 the grazing gladiator,
 \0 (!촀\0the
@@ -166,7 +163,8 @@ other large herbivores.
 attacks of predators (촀\0and fight back
 with its thumb claws!
 (촀\0It could even walk on two legs when
-it wanted to! (9촀\0Ern\0\0truly it was the
+it wanted to!
+\0( (9촀\0Ern\0\0truly it was the
 most elegant and lithe of dinosaurs."
 "Fossil_00189","(촀\0Ah, that graceful ballerina of the
 Cretaceous, the \0Iguanodon\0￿!\0\0(6촀\0When I say it was graceful, I mean
@@ -176,7 +174,8 @@ other large herbivores.
 attacks of predators (촀\0and fight back
 with its thumb claws!
 (촀\0It could even walk on two legs when
-it wanted to! (9촀\0Ern\0\0truly it was the
+it wanted to!
+\0( (9촀\0Ern\0\0truly it was the
 most elegant and lithe of dinosaurs."
 "Fossil_00190","(촀\0Ah, that graceful ballerina of the
 Cretaceous, the \0Iguanodon\0￿!\0\0(6촀\0When I say it was graceful, I mean
@@ -186,7 +185,8 @@ other large herbivores.
 attacks of predators (촀\0and fight back
 with its thumb claws!
 (촀\0It could even walk on two legs when
-it wanted to! (9촀\0Ern\0\0truly it was the
+it wanted to!
+\0( (9촀\0Ern\0\0truly it was the
 most elegant and lithe of dinosaurs."
 "Fossil_00192","(촀\0The adorable \0Ophthalmosaurus\0￿—
 cutest of all the Ichthyosaurs!\0\0(&촀\0What makes a large, sea-dwelling
@@ -238,7 +238,7 @@ rules, and some species were
 (촀\0Scientists have pondered for years:
 were mammoths the COOLEST of
 all extinct species? Perhaps so!"
-"Fossil_00198","\0(촀\0Pachycephalosaurus\0￿ was, to be
+"Fossil_00198","\0Pachycephalosaurus\0￿ was, to be
 blunt, (촀\0not the brightest star in
 the dinosaur firmament.
 (-촀\0What I mean is, with its incredibly
@@ -250,7 +250,7 @@ extremely 
 \0safen\0\0in itsn\0\0
 \0bonyn\0\0
 \0prison."
-"Fossil_00199","\0(촀\0Pachycephalosaurus\0￿ was, to be
+"Fossil_00199","\0Pachycephalosaurus\0￿ was, to be
 blunt, (촀\0not the brightest star in
 the dinosaur firmament.
 (-촀\0What I mean is, with its incredibly
@@ -262,7 +262,7 @@ extremely 
 \0safen\0\0in itsn\0\0
 \0bonyn\0\0
 \0prison."
-"Fossil_00200","\0(촀\0Pachycephalosaurus\0￿ was, to be
+"Fossil_00200","\0Pachycephalosaurus\0￿ was, to be
 blunt, (촀\0not the brightest star in
 the dinosaur firmament.
 (-촀\0What I mean is, with its incredibly
@@ -278,7 +278,7 @@ extremely 
 \0 (촀\0I like
 to think of it as the beast with the
 golden tones.
-(촀\0You see, the three-foot structure of
+()촀\0You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 (촀\0As a dyed-in-the-feathers optimist
@@ -288,7 +288,7 @@ serenaded the late Cretaceous!"
 \0 (촀\0I like
 to think of it as the beast with the
 golden tones.
-(촀\0You see, the three-foot structure of
+()촀\0You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 (촀\0As a dyed-in-the-feathers optimist
@@ -298,7 +298,7 @@ serenaded the late Cretaceous!"
 \0 (촀\0I like
 to think of it as the beast with the
 golden tones.
-(촀\0You see, the three-foot structure of
+()촀\0You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 (촀\0As a dyed-in-the-feathers optimist
@@ -550,9 +550,9 @@ two feet tall and similarly wide.
 were arranged or what they were for.
 \0
 (촀\0Yet more mysteries of the ancients!"
-"Fossil_00234","(촀\0Woo HOO! 
-\0The \0Plesiosaurus\0￿ is a
-classic of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
+"Fossil_00234","(촀\0Ah yes! 
+\0The \0Plesiosaurus\0￿ is a classic
+of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 (9촀\0Incidentally, despite the ""saurus""
@@ -561,9 +561,9 @@ Common error, eh wot.
 (촀\0But they were surely a majestic sight,
 swimming in those ancient seasn\0\0(1촀\0
 \0Klike a long-necked rubber ducky...\0d"
-"Fossil_00235","(촀\0Woo HOO! 
-\0The \0Plesiosaurus\0￿ is a
-classic of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
+"Fossil_00235","(촀\0Ah yes! 
+\0The \0Plesiosaurus\0￿ is a classic
+of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 (9촀\0Incidentally, despite the ""saurus""
@@ -572,9 +572,9 @@ Common error, eh wot.
 (촀\0But they were surely a majestic sight,
 swimming in those ancient seasn\0\0(1촀\0
 \0Klike a long-necked rubber ducky...\0d"
-"Fossil_00236","(촀\0Woo HOO! 
-\0The \0Plesiosaurus\0￿ is a
-classic of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
+"Fossil_00236","(촀\0Ah yes! 
+\0The \0Plesiosaurus\0￿ is a classic
+of the ancient-reptile world!\0\0(촀\0That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 (9촀\0Incidentally, despite the ""saurus""
@@ -682,27 +682,30 @@ sometimes used as ""index fossils.""\0\0(촀\0In other words, these creatur
 as markers in time, helping to
 identify the age of other formations!\0\0(촀\0Who knows what other secrets lie
 hidden in those spiral shells?"
-"Fossil_00296","(촀\0\02\0Ā촃Coprolites\0￿
-\0((2촀\0, or fossilizedn\0\0
-\0feces,
-(촀\0are astonishing treasure troves
-of fascinating information!
+"Fossil_00296","\0(2촀\02\0Ā촃Coprolites\0￿ are, in factn\0\0ehmn\0\0bits
+of fossilizedn\0\0
+\0feces.
+\0( 촀\0 Hoo! Eww!
+It's true!
+(9촀\0It must be said they are also
+astonishing treasure troves of
+ancient information, eh wot!
 (
 촀\0For example,
-\0 certain herbivorous
-dinosaurs'
-\0 \02\0Ā촃coprolites\0￿ contained
-small pebblesn\0\0\0\0(%촀\0This indicated that they ate plants
-and pebbles whole 
-\0(5촀\0and ground them
-up
-\0 in their stomachs!
-\0(\0촀\0
-(촀\0So while these animals' eating habits
-may have been unrefined, the rocks
-helped 
-\0""refine""
-\0 their food anyway!"
+\0 the \02\0Ā촃coprolite\0￿ from
+certain plant-eating dinosaurs has
+been found to contain small pebbles.
+This tells us that these dinosaurs,
+\0(5촀\0
+like many modern birds,
+\0 ate rocks to
+help grind the greens in their bellies.
+(촀\0Indeed!
+\0 Fossilized feces reveal not
+only what food the dinos ate, but
+how they digested it too. 
+\0((촀\0Hoo knew?!
+\0<(촀"
 "Fossil_00298","(촀\0\02\0Ȁ촃Archaeopteryx\0￿'s feathers(%촀\0 led many
 people to believe it was the
 progenitor of the birds, eh wotn\0\0
@@ -901,64 +904,56 @@ among those behemoths. They were
 nocturnal before it was cool!"
 "Fossil_04688","(촀\0\0Brachiosaurus\0￿, whose name means
 ""arm lizard""
-\0('촀\0\0K—no idea—\0d
+\0('촀\0\0K—eh, wot—\0d
 \0(촀\0was one of the
 largest herbivorous dinosaurs.
-(!촀\0Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-(촀\0Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-(촀\0Research marches ever onward!
-\0
-(&촀\0Perhaps one day we'll even find
-out why it's named ""arm lizard""!"
+(!촀\0Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+(촀\0Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+(촀\0What a ferocious forager it must
+have been indeed!"
 "Fossil_04689","(촀\0\0Brachiosaurus\0￿, whose name means
 ""arm lizard""
-\0('촀\0\0K—no idea—\0d
+\0('촀\0\0K—eh, wot—\0d
 \0(촀\0was one of the
 largest herbivorous dinosaurs.
-(!촀\0Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-(촀\0Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-(촀\0Research marches ever onward!
-\0
-(&촀\0Perhaps one day we'll even find
-out why it's named ""arm lizard""!"
+(!촀\0Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+(촀\0Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+(촀\0What a ferocious forager it must
+have been indeed!"
 "Fossil_04690","(촀\0\0Brachiosaurus\0￿, whose name means
 ""arm lizard""
-\0('촀\0\0K—no idea—\0d
+\0('촀\0\0K—eh, wot—\0d
 \0(촀\0was one of the
 largest herbivorous dinosaurs.
-(!촀\0Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-(촀\0Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-(촀\0Research marches ever onward!
-\0
-(&촀\0Perhaps one day we'll even find
-out why it's named ""arm lizard""!"
+(!촀\0Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+(촀\0Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+(촀\0What a ferocious forager it must
+have been indeed!"
 "Fossil_04691","(촀\0\0Brachiosaurus\0￿, whose name means
 ""arm lizard""
-\0('촀\0\0K—no idea—\0d
+\0('촀\0\0K—eh, wot—\0d
 \0(촀\0was one of the
 largest herbivorous dinosaurs.
-(!촀\0Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-(촀\0Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-(촀\0Research marches ever onward!
-\0
-(&촀\0Perhaps one day we'll even find
-out why it's named ""arm lizard""!"
+(!촀\0Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+(촀\0Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+(촀\0What a ferocious forager it must
+have been indeed!"
 "Fossil_04697","(촀\0The \0Quetzalcoatlus\0￿! 
 \0(촀\0The undisputed
 ruler of the skiesn\0\0at least during

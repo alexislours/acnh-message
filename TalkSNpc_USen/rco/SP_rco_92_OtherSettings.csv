@@ -5,6 +5,13 @@ This is where I take on important
 requests related to save data.\0\0()촀\0The requests I accept here are very
 serious ones, so children should get
 help from a parent or guardian.(촀"
+"002","Hello, n\0.
+\0
+This is where I take on important
+requests related to settings.\0\0()촀\0The requests I accept here are very
+serious ones, so
+\0 children should get
+help from a parent or guardian.(촀"
 "010_01","(9촀\0Now, 
 \0with that saidn"
 "010_02","(9촀\0And that should cover everything.
@@ -21,6 +28,14 @@ help you?"
 "012_a","Delete resident registration."
 "012_b","Listen to explanation."
 "012_c","I'm done talking."
+"020","Now, what settings would you like to
+talk about today?"
+"020_a","Save data settings."
+"020_b","NookLink settings."
+"020_c","Nothing right now."
+"021","(촀\0Save data settings, hm?
+\0
+Of course! Of course!"
 "051","(촀\0Yes, yes, I understand!
 \0 In that case,
 let's return you to the title screen.\0\0(""촀\0
@@ -58,7 +73,7 @@ about deleting their resident
 registration.\0\0(9촀\0In other words, 
 \0I'm talking about
 \0deleting your player save data\0￿
-for \0Animal Crossing: New Horizons\0￿.\0\0(촀\0You can't delete just the save data
+for \0Animal Crossing: New Horizons\0￿.\0\0(촀\0You can't delete just the save data
 for a player from System Settings on
 the Nintendo Switch HOME Menu.\0\0()촀\0So, 
 \0if you want to delete information
@@ -95,9 +110,9 @@ registrationn\0\0\0\0(%촀\0they could opt to play as
 with me here about deleting
 resident registrations.\0\0(9촀\0In other words, 
 \0I'm talking about
-\0deleting player save data \0￿for \0Animal
-Crossing: New Horizons\0￿.\0\0(촀\0You can't delete just the player save
-data from System Settings on
+\0deleting player save data \0￿for
+\0Animal Crossing: New Horizons\0￿.\0\0(촀\0You can't delete only one player's
+save data from System Settings on
 the Nintendo Switch HOME Menu.\0\0()촀\0So, 
 \0if you want to delete information
 about a player living on this island,
@@ -126,7 +141,7 @@ Resident Representativen\0\0\0\0(9촀\0your only option is to delete all sa
 data for the game!\0\0To do this, go to the Nintendo Switch
 HOME Menu and select \0System
 Settings\0￿.\0\0Once there, select \0Data Management\0￿,
-then look for \0Delete Save Data\0￿.\0\0(9촀\0Select \0Animal Crossing: New
+then look for \0Delete Save Data\0￿.\0\0(9촀\0Select \0Animal Crossing: New
 Horizons\0￿. After that, choose \0Delete
 All Save Data for This Software\0￿.\0\0()촀\0You should know, though, that this
 method can't be used to just delete a
@@ -139,7 +154,7 @@ Resident Representative's datan\0\0\0\0(9촀\0your only option is to delete
 data for the game!\0\0To do this, go to the Nintendo Switch
 HOME Menu and select \0System
 Settings\0￿.\0\0Once there, select \0Data Management\0￿,
-then look for \0Delete Save Data\0￿.\0\0(9촀\0Select \0Animal Crossing: New
+then look for \0Delete Save Data\0￿.\0\0(9촀\0Select \0Animal Crossing: New
 Horizons\0￿. After that, choose \0Delete
 All Save Data for This Software\0￿.\0\0()촀\0You should know, though, that this
 method can't be used to just delete a

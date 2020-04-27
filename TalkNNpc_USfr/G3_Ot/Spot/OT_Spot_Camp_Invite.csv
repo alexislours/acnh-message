@@ -7,6 +7,18 @@ que je vienne m'installer ici?!\0\0(촀\0Oh, mais ça serait avec plaisir, 
 je m'arrange avec le \0bureau des
 résidents\0￿,
 \0 mais j'y crois!"
+"003","(촀\0J'ai refusé ton invitation, et
+tu continues à me proposer
+d'emménager ici!
+(촀\0J'avoue que je ne suis pas insensible
+à ces marques d'intérêt répétées.
+\0
+(6촀\0La flatterie, je n'ai jamais été contre.
+(%촀\0Très bien, tu as gagné. 
+\0Si j'obtiens
+le feu vert du \0bureau des résidents\0￿,
+
+\0(촀\0je ferai mes valises, n\0."
 "101","<"
 "101_01","(촀\0Ça me touche beaucoup que tu me
 demandes ça,
@@ -189,45 +201,48 @@ rentrer chez moi,
 \0(%촀\0 mais sache que j'ai
 passé un merveilleux moment ici."
 "206","<"
-"206_01","(촀\0Tu as gagné, n\0!
-\02
-( 촀\0Bigre! 
+"206_01","(촀\0Tu as gagné!
+\02 ( 촀\0Eh bien! 
 \0
-Ça veut dire que je vais
-devoir emménager ici!\0\0('촀\0C'est un rebondissement pour le
-moins inattendun\0\0
-\0((촀\0 mais que j'accepte
-volontiers!
-(촀\0Je suis impatiente de découvrir de
-quoi sera faite ma nouvelle vie, n\0!"
-"206_02","(촀\0On dirait bien que tu as gagné,
-n\0!
-\0( (%촀\0Comme promis,
+Ça veut dire
+que je vais devoir emménager ici!\0\0(촀\0C'est une grande aventure qui
+s'annonce, n\0!\0\0(
+촀\0Une grande aventure qui commence
+par une petite visite au \0bureau des
+résidents\0￿n\0\0
+($촀\0Le temps de m'assurer que je peux
+m'installer sur l'île et je reviens!"
+"206_02","(촀\0On dirait bien que tu as gagné!
+\0(
+(%촀\0Comme promis,
+\0 je vais donc venir
+vivre sur ton île.
+(촀\0Un nouveau chapitre de ma vie
+trépidante s'ouvre, (5촀\0le futur point
+culminant de mes mémoires!
+(촀\0Oh, mais avant d'écrire la suite de
+mes aventures, j'ai une formalité à
+accomplir au \0bureau des résidents\0￿.
+($촀\0Je vais de ce pas solliciter une
+autorisation officielle. 
+\0Attends-moi
+ici, je reviens, n\0."
+"206_03","(촀\0Félicitations!
+\0( (2촀\0On dirait bien que 
+je vais emménager sur cette île
 \0
-je vais donc venir vivre sur ton île.
-(2촀\0Bigren\0\0 je ne m'y attendais
-vraiment pasn\0\0
-\0((촀\0 Je vais avoir du
-pain sur la planche!
-(촀\0C'est le début d'une nouvelle
-aventure, 2&mon chouma chérie!
-\0 Et j'ai hâte de
-découvrir ce qu'elle nous réserve!"
-"206_03","(촀\0Toutes mes félicitations!
-\0( (2촀\0On dirait
-bien que je vais devoir emménager
-sur cette île,
-\0 au finaln\0\0
+finalementn\0\0
 (%촀\0Je m'en réjouis,
 \0 ne t'en fais pas.
 \0( (5촀\0Je
-n'ai jamais été du genre à dire non à
+n'ai jamais été du genre à refuser
 une nouvelle aventure, n\0.
 (
-촀\0Dis-moi, ton petit nom c'est bien
-n\0?
-\0 (6촀\0Eh bien,
-à très bientôt, n\0."
+촀\0Ceci dit, il me faut avant toute
+chose obtenir une autorisation
+auprès du \0bureau des résidents\0￿.
+($촀\0Veux-tu m'attendre une seconde,
+le temps que j'aille demander?"
 "302","($촀\0Pardon pour l'attente!
 \0(
 (촀\0Malheureusement, j'ai de mauvaises
@@ -259,9 +274,9 @@ dit que j'arriverais peut-être à
 convaincre quelqu'un de partirn"
 "305","($촀\0s촀, c'est bien ça?"
 "305_a","Oui!"
-"305_b","Oups, pas 2촀luielle\0."
+"305_b","Oups, pas 2촀luielle\0."
 "305_c","J'ai changé d'avis."
-"306","(""촀\0Je vais aller l2촀ea\0 voir de ce pas.
+"306","(""촀\0Je vais aller l2촀ea\0 voir de ce pas.
 \0(
 (
 촀\0Hmmn\0\0 j'espère que l'idée lui plaira."
@@ -278,10 +293,8 @@ je respecte ton choix, n\0."
 "309","(""촀\0Bonn\0\0
 \0
  nous avons longuement
-discuté.
-\0 ()촀\0Très longuement discuté,
-mêmen\0\0
-(촀\0Et 2촀ilelle\0 est d'accord pour me laisser
+discuté, avec s촀.
+\0 ()촀\0Très longuement discuté, mêmen\0\0\0\0(촀\0Et 2촀ilelle\0 est d'accord pour me laisser
 sa place!
 \0 (2촀\0Je dois dire que c'est une
 personne tout à fait charmante.\0\0(촀\0Je regretterais presque de ne pas
@@ -302,33 +315,22 @@ en tête?"
 arrivent.
 \0((%촀\0 Oublions cette idée pour
 le moment, n\0."
-"402","()촀\0Je reviens tout juste du \0bureau des
-résidents\0￿,
-\0 et tu ne vas pas me
-croiren\0\0
-(8촀\0Ma cousine vit déjà sur place!
-\0((9촀\0
-On se ressemble peut-être comme
-deux gouttes d'eaun\0\0
-(촀\0Mais je peux t'assurer que nous ne
-sommes absolument pas faites
-pour nous entendre!
-('촀\0Navrée,
-\0 mais je ne peux pas vivre sur
-la même île qu'elle."
-"403","(촀\0Pardon pour l'attente! 
-\0Je suis
-passée au \0bureau des résidents\0￿ 
-\0
-(촀\0et
-j'ai de bien tristes nouvellesn\0\0
-(8촀\0Il semblerait que quelqu'un qui me
-ressemble comme deux gouttes d'eau
-soit déjà sur le point d'emménager!
-('촀\0Et ma demande a été par conséquent
-refusée.
-\0 (촀\0C'est quand même vraiment
-un drôle de hasard, n\0."
+"313","(촀\0Ah, je suis bien contente que tu
+voies les choses ainsi!\0\0()촀\0Figure-toi que d'après le \0bureau des
+résidents\0￿, s촀 pourrait se montrern\0\0 coopérati2촀fve\0.\0\0(\0촀\0Pour dire les choses clairement :
+
+\0(&촀\0penses-tu que je devrais lui suggérer
+de mettre les voiles, n\0?"
+"313_a","Et comment!"
+"313_b","Nan, fais pas ça!"
+"314","( 촀\0Ah.
+\0 Je vois.
+\0 Soit. 
+\0(8촀\0Je me suis sans
+doute laissée emporter un tantinet.\0\0(촀\0Je préfère oublier cette petite
+déception.
+\0 (2촀\0N'en parlons plus,
+d'accord?"
 "404","(""촀\0Désolée pour l'attente, 
 \0mais (9촀\0tu ne
 croiras jamais ce qu'on vient de me
@@ -341,20 +343,6 @@ déçue de l'apprendre,
 \0((촀\0 mais ce n'est
 que partie remise,
 \0 n'est-ce pas?"
-"405","(촀\0Merci de ta patience,
-\0 mais
-malheureusement j'ai une mauvaise
-nouvelle pour nous deuxn\0\0
-Je reviens du \0bureau des résidents\0￿,
-\0
-('촀\0
-et il n'y a plus du tout de place pour
-une nouvelle maison sur cette île.
-(촀\0Je suis trop bien élevée pour faire
-un esclandre, naturellement, mais
-j'avoue une pointe de déception.
-(촀\0Enfin, j'imagine que ce n'est que
-partie remise, n\0."
 "406","(촀\0Désolée pour l'attente.
 \0 (4촀\0Je suis allée
 au \0bureau des résidents\0￿,
@@ -391,27 +379,6 @@ des résidents\0￿ et retenter ma chance."
 passer pour une importunen\0\0\0\0(8촀\0Je crois que je n'ai plus qu'à m'armer
 de patience et à croiser les doigts,
 n\0."
-"421","(촀\0C'est quand même fou que ma
-cousine ait décidé de s'installer(촀\0
-précisément sur cette île.\0\0(
-촀\0Ça prouve qu'elle a bon goût, on ne
-peut pas lui enlever çan\0\0(9촀\0 comme
-quoi,
-\0 à force de me copiern\0\0
-(촀\0À bien y réfléchir, j'aurais préféré ne
-pas savoir que c'est à cause d'elle
-que je ne peux pas m'installer icin"
-"422","(촀\0C'est quand même triste, cette
-histoire de sosien\0\0
-\0( (9촀\0Pourquoi ce n'est
-pas elle qui a été refusée?
-(촀\0Je sais que je peux sembler cruelle
-en disant ça,
-\0('촀\0 mais c'est la déception
-qui parle.\0\0(촀\0Au fond de moi,
-\0 j'espère qu'elle
-profitera de sa chance pour nous
-deux."
 "423","(촀\0Cette île n'est pas si populaire pour
 rienn\0\0
 \0((촀\0 je me demande si tu me dis
@@ -427,18 +394,6 @@ fouineurs?
 ne pas pouvoir venir. 
 \0((촀\0J'ai envie d'être
 là où les choses se passent!"
-"424","(
-촀\0J'ai du mal à croire qu'il n'y ait plus
-de place du tout sur ton îlen\0\0(&촀\0 Même
-une mini-maison ne rentrerait pas?
-(\0촀\0En même tempsn\0\0
-\0('촀\0 qu'est-ce que
-je pourrais bien faire d'une
-mini-maison, en réalité?\0\0('촀\0Toute cette histoire est bien
-dommage,
-\0 en tout cas.
-\0( (5촀\0J'aurais tant
-eu à vous apporter!"
 "504","Vraiment, 2&mon chouma chérie,
 \0(%촀\0 cette île a
 quelque chose de spécial.\0\0(촀\0Je me sens tellement bien ici!

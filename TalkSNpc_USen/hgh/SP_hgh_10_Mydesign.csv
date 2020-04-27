@@ -37,6 +37,14 @@ You made this one, didn't you?
 designed by s\0촀.
 \0(
 n\0\0So, (&촀\0what did you want to do?"
+"003_01","That's (촀\0s촀,
+designed by s\0촀.
+\0(
+n\0\0So, (&촀\0what did you want to do?"
+"003_01_a","I want this design."
+"003_01_b","Display my work here."
+"003_01_c","Report."
+"003_01_d","Just browsing."
 "003_a","I want this design."
 "003_b","Display my work here."
 "003_c","Just browsing."
@@ -44,6 +52,14 @@ designed by s\0촀.
 2\0s\0촀 from
 s촀 designed it.
 n\0\0So, (&촀\0what did you want to do?"
+"004_01","That's (촀\0s촀.
+2\0s\0촀 from
+s촀 designed it.
+n\0\0So, (&촀\0what did you want to do?"
+"004_01_a","I want this design."
+"004_01_b","Display my work here."
+"004_01_c","Report."
+"004_01_d","Just browsing."
 "004_a","I want this design."
 "004_b","Display my work here."
 "004_c","Just browsing."
@@ -120,12 +136,12 @@ Even hats! 
 (촀\0With so many options, you can
 create the kind of pattern that
 really says ""n\0."""
-"031","(\0촀\0It looks you haven't upgraded your
-Custom Designs app yet.\0\0(촀\0That's not a problem for using the
-pro design you just took—wear it
+"031","(\0촀\0It looks like you haven't upgraded
+your Custom Designs app yet.\0\0(촀\0That's not a problem for using the
+Pro design you just took—wear it
 all you like! 
 \0(\0촀\0Butn\0\0
-()촀\0If you want to create pro custom
+()촀\0If you want to create Pro custom
 designs of your own, 
 \0(촀\0you're gonna
 need the upgrade.
@@ -134,3 +150,15 @@ the \0Nook Stop\0￿
 \0 in \0Resident Services\0￿.
 \0(촀\0
 Check it out!"
+"040","(%촀\0Okeydoke,
+\0 I'll go ahead and remove
+this custom design."
+"051","( 촀\0
+\0Oh! It looks like you saved over the
+design you're wearing now.\0\0()촀\0Don't worry. 
+\0The design you have
+on now will stay right where it is
+until you want to change it.\0\0(\0촀\0When you're ready to put on your
+new design,
+\0 (촀\0all you have to do is
+select it and choose \0Wear\0￿."

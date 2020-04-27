@@ -11,7 +11,7 @@ question.
 "001_b","(\0촀\0Euh, non..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Vraiment ?
 \0 C'est 2\0n촀 ?!
 \0
@@ -66,10 +66,12 @@ pierre et tout !
 la prochaine fois que tu seras de
 passage,
 \0(촀\0 sinon ça sera la honte !"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","('촀\0Je n'y connais rien en art mais j'aime
 bien me balader au \0musée\0￿ en faisant
 comme si c'était le cas.
@@ -106,55 +108,55 @@ c'est que t'as rien contre le
 charme rétro.\0\0()촀\0Du coup, tu seras sans doute ravi2\0e
 d'apprendre que notre \0musée\0￿ a
 2\0
-.\0\0(촀\0À côté d2(촀
+.\0\0(촀\0À côté d2)촀
 e lui
 'elle\0, même moi, je suis
 un perdreau de l'année !"
-"101","<\0fi"
-"102","Tiens, gamin2\0e, j'ai une question :
+"201","<\0ÊÍ"
+"202","J'ai une question pour toi, gamin2\0e.
 \0
-(&촀\0la vie à n\0
-te manque,
-\0 ou pas vraiment ?"
-"102_a","(\0촀\0Un peu, oui."
-"102_b","(\0촀\0Pas vraiment."
-"103","(촀\0Juste un petit peu, hein ? 
-\0Allez,
-fais pas 2 ton durta duren\0\0((촀\0 Promis,
-je le répéterai à personne.
-(촀\0En tout cas,
-\0 sache que tu seras
-toujours 22le bienvenula bienvenue ici,
-\0
-n\0."
-"104","(촀\0Eh ben ! Je m'attendais pas à une
-réponse aussi brutalement honnête !\0\0(6촀\0Enfin tant mieux si t'as trouvé
-le bonheur dans ta nouvelle vie.\0\0(촀\0Pour être franc, 
-\0n\0
-s'en sort aussi pas mal depuis
-ton départ."
-"105","(촀\0Tiens, mais c'est n\0 !
-\0(
-(촀\0Comment va la vie sur ta nouvelle
-île ?"
-"105_a","Ça va super !"
-"105_b","Ça se passe."
-"105_c","Ha ha ha !"
-"106","(촀\0Ah !
-\0(7촀\0 Pour tout dire,
-\0 on s'inquiétait
-un peu que tu retrouves pas
-un voisinage de notre qualité.\0\0(촀\0Mais j'suis content de voir qu'un
+(&촀\0Ça te manque de plus me croiser à
+n	\0 ?"
+"202_a","Un peu, oui."
+"202_b","Pas vraiment."
+"203","(촀\0Sérieusement ? 
+\0Alors ça, je m'y
+attendais pas !
+\0(\0촀\0 Je demande comme
+ça pour rire, et toi, paf !
+\0 (2촀\0Tu dis oui !
+(%촀\0Bah écoute,
+\0 je vais rester sur cette
+île un moment,
+\0 (촀\0donc hésite pas à
+venir me voir quand tu veux !"
+"204","(촀\0Ouais,
+\0 je m'en doutais !
+\0 (\0촀\0La nostalgie
+du bon vieux temps, c'est pas trop
+ton truc, pas vrai ?\0\0(7촀\0Bah écoute,
+\0 en ce qui me concerne,
+ça m'a quand même fait plaisir de te
+revoir, n\0 !"
+"205","(촀\0Tiens, mais c'est n\0 !
+\0( (촀\0Comment va la vie sur n	\0 ?"
+"205_a","Ça va super !"
+"205_b","Ça se passe."
+"205_c","Ha ha ha !"
+"206","(촀\0Eh ben tant mieux !
+\0 Je savais que
+j'avais pas de souci à me faire pour
+toi, gamin2\0e !\0\0(촀\0Enfin, j'suis content de voir qu'un
 accès de nostalgie t'a quand même
-conduit2\0e à nous rendre visite !"
-"107","(촀\0Oh ? 
+conduit2\0e à me rendre visite !"
+"207","(촀\0Oh ? 
 \0Venant de toi, je m'attendais
 à une réponse plus enthousiaste,
 mais je vais me contenter de ça.\0\0(%촀\0Le secret, c'est de se laisser porter
 par le vent et de traquer les sources
 2
 de d'⁠촀 !(촀\0 Ha ha ha !"
-"108","(촀\0Quoi, j'ai dit une bêtise ?\0\0(
+"208","(촀\0Quoi, j'ai dit une bêtise ?\0\0(
 촀\0Faut te trouver un hobby,
 \0 si tu te
 sens proche de la crise de nerfsn\0\0

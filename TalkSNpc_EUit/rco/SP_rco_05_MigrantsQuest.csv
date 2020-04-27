@@ -21,8 +21,7 @@ giuston\0\0\0\0(촀\0
 al più presto! Arrivederci!"
 "002","(촀\0Ah, 
 \0(n\0!
-\0 (촀\0Perdona
-l'attesa.\0\0(&촀\0Immagino tu abbia avuto modo di
+\0 (촀\0Perdona l'attesa.\0\0(&촀\0Immagino tu abbia avuto modo di
 ascoltare quanto ho appena detton\0\0\0\0()촀\0Sì, sì, è da un po' che promuoviamo
 il Pacchetto isola deserta per
 n\0n\0\0\0\0(촀\0
@@ -45,8 +44,8 @@ interamente ammobiliate!\0\0(
 terreni e del mobilion\0\0(촀\0 È troppo per
 un semplice procione."
 "005","(\0촀\0
-\0Bene, bene 
-\0(8촀\0n\0n\0\0 Eccoti qui (7촀\0nel momento del bisognon\0\0 Dev'essere il destino.\0\0(8촀\0Non è che mi aiuteresti ad allestire
+\0Ma ora che sei qui, 
+\0(8촀\0n\0n\0\0(7촀\0 nel momento del bisognon\0\0 Dev'essere il destino.\0\0(8촀\0Non è che mi aiuteresti ad allestire
 queste case? Tutte e tre, s'intende!\0\0()촀\0È chiaro che ti ricompenserò
 adeguatamente per il tuo aiuto!(촀"
 "005_a","Ma certo!"
@@ -59,7 +58,7 @@ Non lo dimenticherò!"
 \0Oh!
 \0(\0촀\0 Ma prima devi conoscere qualche
 dettaglio assolutamente top-secretn\0\0
-(촀\0Torna da me quando sei pront2oa.(\0촀\0\0\0Scegli l'opzione ""\0Cosa dovrei fare?\0￿""
+(촀\0Torna da me quando sei pront2oa.(\0촀\0\0\0Scegli l'opzione ""\0Cosa dovrei fare?\0￿"".
 \0
 (9촀\0Per ora, l'agente Nook passa e
 chiuden\0\0 (촀\0Tutto questo è uno spasso!"
@@ -108,7 +107,7 @@ en\0\0(촀\0 behn\0\0 colloca il ponte, OK?
 Sì sì, però collocare un ponte non è
 sempre una cosa facile. Se hai dei
 problemi, torna pure da me.\0\0(""촀\0Buona fortuna, n\0!"
-"015_02","(촀\0Con il tuo kit creazione ponte,
+"015_02","(촀\0Con il tuo \0kit creazione ponte\0￿,
 vai nel punto in cui vuoi collocare
 il ponte e poin\0\0
 \0( colloca il ponte!\0\0Già che sei qui,(&촀\0 non è che vuoi per
@@ -177,7 +176,7 @@ case!"
 (촀\0quindi torna quando potrai portare
 \03\0￿ oggetti."
 "032_03","(촀\0Bene, bene, n\0! Ora sei pront2oa! Puoi finalmente portare ciò che ti serve per la prossima fase."
-"033","Prendi questi \03\0￿ \0kit edilizi\0￿."
+"033","Prendi questi \03\0￿ \0kit abitativi\0￿."
 "034","()촀\0Con i \0kit abitativi \0￿che ti ho dato puoi
 scegliere i terreni per \03\0￿ casen\0\0\0\0(촀\0Ovviamente, poi queste case hanno
 bisogno di \0mobilio\0￿.\0\0()촀\0Ogni \0kit abitativo\0￿ include già una
@@ -261,7 +260,7 @@ farcela, n\0. È sicuro."
 costruire 
 \0e accogliere i residenti a
 cui appartengono le case!(촀"
-"111_02","()촀\0Ora resta da finire di costruire e
+"111_02","()촀\0Ora resta da finire di costruire
 \0
 e accogliere i nuovi ospiti nelle
 loro case!(촀"
@@ -352,8 +351,8 @@ passare dal \0Punto Nook\0￿, OK?"
 perciò se vuoi scusarmin\0\0
 \0(촀\0
 \0 OH!
-\0 Sì, sì!\0\0()촀\0Nel comunicato di oggi ho parlato di
-un laboratorio di \0personalizzazione
+\0 Sì, sì!\0\0()촀\0Nel comunicato di oggi ho parlato
+di un corso di \0personalizzazione
 \0￿per gli abitanti dell'isola.(촀\0
 (\0촀\0Se sei in grado di personalizzare le
 cose,(촀\0 il fai da te sarà ancora più

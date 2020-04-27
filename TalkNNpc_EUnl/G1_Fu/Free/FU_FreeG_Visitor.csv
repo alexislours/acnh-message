@@ -4,7 +4,7 @@
 "001_b","Geen idee."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Wat goed! (%촀\0Mijn vrienden vragen altijd of ik (촀\0n촁 van n\0 kan meenemenn\0\0\0\0(촀\0Ik hoop dat je er ook eentje proeft."
 "005","(촀\0Dat is 2\0n촀! (촀\0Met n촁 van n\0 (5촀\0maak je de lekkerste dingen!"
 "013","(%촀\0Bij de \0servicebalie \0￿is het altijd druk,
@@ -22,10 +22,12 @@ nodig heb maar wel wil hebbenn\0\0
 \0 (촀\0En het is in een tentn\0\0\0\0()촀\0Ooit zullen er echte zalen zijn waarin
 van alles wordt tentoongesteld. (%촀\0Ik
 kan niet wachten om dat te zien."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0Heb je al een tour door ons \0museum
 \0￿gedaan?
 \0 ()촀\0Er valt daar enorm veel te
@@ -42,39 +44,57 @@ om er naartoe te gaan."
 favoriete tentoonstelling isn"
 "030","(촀\0Wist je dat in ons \0museum\0￿ (;촀\02\0
  tentoongesteld wordt?\0\0(촀\02\0n\0, ik ben dol op fossielen en volgens mij maakt dat exemplaar (5촀\0de tentoonstelling uniek!"
-"101","<\0fi"
-"102","(촀\0We leven niet meer op hetzelfde
-eiland, maarn\0\0 (4촀\0denk je nog weleens
-aan de lol die we samen hadden?"
-"102_a","Ja, natuurlijk!"
-"102_b","O, eh... Jaaaa..."
-"103","(촀\0Ik ben zo blij dat jij dat ook doet!
-\0
-(4촀\0Ik was bang dat je me alweer was
-vergeten.
-(2촀\0Ik heb ook wat gedichten over onze
-tijd geschrevenn\0\0
-\0 (촀\0Is dat raar?"
-"104","(촀\0O!
-\0 (촀\0Sorry voor de ongemakkelijke
-situatie.
-\0 (촀\0Maar dat toont wel dat je
-tevreden bent met je huidige leven.
-()촀\0In veel artikels staat dat je niet te
-lang bij het verleden moet stilstaann\0\0\0\0(%촀\0n\0\0maar dat je je juist op nieuwe
-avonturen moet richten, n\0!"
-"105","(4촀\0Dit is misschien een gekke vraag,
-maarn\0\0
-\0 (;촀\0denk je dat ik ben veranderd
-sinds de laatste keer dat je me zag?"
-"105_a","Ja, een beetje."
-"105_b","Helemaal niet!"
-"106","(촀\0Dus het valt op? (촀\0Dat is geweldig!\0\0(7촀\0Ik heb mijn houding verbeterd zodat
-ik zelfbewuster overkom. (%촀\0Daar heb ik
-namelijk iets over gelezenn\0\0
-(촀\0Je kent me heel goed, dus het is(촀\0 fijn
-dat jij deze verandering ziet!"
-"107","(촀\0Dat is fijn om te horen!\0\0(7촀\0Ik las laatst iets over houdingen en
-dacht (촀\0dat die van mij misschien niet
-goed was, n\0.\0\0(4촀\0Ik wil niet overkomen als iemand die
-geen zelfvertrouwen heeftn"
+"201","<\0ÊÍ"
+"202","(촀\0Ik weet dat we niet meer op
+hetzelfde eiland wonen, 
+\0maarn\0\0\0\0(4촀\0n\0\0denk jij ook zo nu en dan terug aan
+al de lol die we samen hebben gehad,
+\0
+n\0?"
+"202_a","Ja, natuurlijk!"
+"202_b","O... eh... hm..."
+"203","(촀\0O,
+\0 ik ben zo blij dat jij dat ook doet!
+\0
+(4촀\0Ik hoopte al
+\0 dat ik voor jou net zo
+onvergetelijk was als jij voor mij.
+(2촀\0Ik heb zelfs een aantal gedichten
+geschreven over onze tijd samen
+\0n\0\0
+(촀\0Is dat vreemd?"
+"204","(촀\0O!
+\0 (촀\0Sorry als dat een gênante vraag
+was.
+\0 (촀\0Zolang onze nieuwe leventjes
+maar goed bevallen.
+()촀\0We kunnen niet in het verleden
+leven.
+\0 Laten we nú genieten van
+onze tijd samen,
+\0 n\0!"
+"205","(4촀\0Ik wil je niet onder druk zetten,
+\0
+maar
+\0n\0\0\0\0(;촀\0n\0\0vind je dat ik veranderd ben sinds
+de laatste keer dag je me hebt
+gezien?"
+"205_a","Misschien een beetje..."
+"205_b","Helemaal niet!"
+"206","(촀\0Het is je dus opgevallen?
+\0 (촀\0O,
+\0 wat vind
+ik dat fijn!\0\0(7촀\0Ik let extra op mijn houding
+\0 om
+zelfverzekerder over te komen. (%촀\0Die
+tip heb ik laatst in een boek gelezen.
+(촀\0Jij kent me heel goed,
+\0 dus het is (촀\0fijn
+dat jij al verschil ziet!"
+"207","(촀\0Dat vind ik zo fijn om te horen!\0\0(7촀\0Want door een boek dat ik laatst heb
+gelezen, ben ik gaan twijfelen (촀\0aan
+mijn lichaamshouding,
+\0 n\0.
+(4촀\0Ik wil niet dat anderen denken dat
+ik niet zelfverzekerd ben
+\0n"

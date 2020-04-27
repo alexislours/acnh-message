@@ -28,7 +28,7 @@ de geit!\0\02\0n\0, heb je even een momentje?"
 "011","(촀\0Goed,
 \0 dit is wat we nodig hebben
 voor het kampvuurn\0\0\0\0(
-촀\0Ik denk dat we er met 10 \0takken\0￿ wel
+촀\0Ik denk dat we er met \010 takken\0￿ wel
 zijn.
 \0 Die liggen letterlijk overal voor
 het oprapen!\0\0(%촀\0Als je er eentje op de grond ziet
@@ -89,7 +89,7 @@ vlotjes gedaan!
 eiland mag delen met zo'n
 harde werker!(\0촀"
 "015","(촀\0En over het delen van het eiland
-gesproken; we zullen ook wat te
+gesprokenn\0\0 We zullen ook wat te
 eten moeten zien te verzamelen.
 (%촀\0Terwijl jij zo ijverig naar takken
 zocht, heb ik de lokale vruchten
@@ -100,11 +100,11 @@ honderd procent zeker, 
 \0zonder
 twijfel, 
 \0authentieke \0n촁 \0￿zijn!\0\0
-\0((&촀\0Dus eh, zou je er eventjes \06 \0￿van
+\0((&촀\0Dus, eh, zou je er eventjes \06 \0￿van
 willen verzamelen?"
 "016","(촀\0Ik heb alle vertrouwen in je
 verzamelkunsten, maar voor het
-geval dat je het niet meer weetn\0\0
+geval dat je het nog niet wistn\0\0
 ()촀\0Als je een boom ziet met \0n촁\0￿, schud er dan aan met \0\0￿. 
 \0Daarna moet je alleen nog rapen!\0\0(""촀\0Ik weet zeker dat je binnen de kortste keren genoeg \0n촁 \0￿voor ons hebt verzameld."
 "017","(&촀\0On\0\0 wat is dit nou? 
@@ -138,7 +138,7 @@ nieuwe eiland!\0\0(5촀\0Ik heb me al met veel zaakjes
 beziggehouden, maar dit is
 misschien wel het spannendste.
 (4촀\0Een hele nieuwe gemeenschap uit
-het niets opbouwen is een serieuze
+het niets opbouwen, is een serieuze
 test van mijn zakelijk instinct.
 (촀\0En natuurlijk mijn talent om te
 overleven in de wilde natuur, 
@@ -155,13 +155,14 @@ dat we met hard werken en flink doorzetten 
 ""onbewoond"" eiland noemen, hm?
 \0(
 (&촀\0Maar wat is het dan weln"
-"041_04","(%촀\0Ik ruik een kans! En daar heb ik een
+"041_04","(촀\0Ik ruik een kans! En daar heb ik een
 neusje voor.
-\0 (5촀\0Wij als eerste bewoners
+\0 (%촀\0Wij als eerste bewoners
 kunnen dit eiland een naam geven.
 (촀\0Laten we erover stemmen, dat is
 wel zo eerlijk. 
-\0(촀\0De meerderheid wint, hm?\0\0(촀\0Dus denk er even rustig over na,
+\0(촀\0De meerderheid wint,
+hm?\0\0(촀\0Dus denk er even rustig over na
 en als iedereen zover is, kijken we
 wat jullie hebben bedacht."
 "042_01","Hm,
@@ -176,7 +177,7 @@ allemaal!
 \0 (%촀\0Allemaal juweeltjes."
 "043_02","(\0촀\0Maar we kunnen er maar eentje
 kiezen.
-\0 Ik zal elke naam opnoemen,(촀\0
+\0 Ik zal elke naam opnoemen(촀\0
 en dan klap je voor je favoriet."
 "043_03","(1촀\02\0n\0, jij staat recht voor me, dus ik begin maar met jou.(\0촀"
 "043_04","(1촀\0Dus het voorstel van n\0 isn"
@@ -212,14 +213,14 @@ gebruikmaken.\0\0(촀\0Ja, ja, n\0, ik benoem je tot \0eilandwoordvoe
 eiland hebben en weten wie onze
 eilandwoordvoerder isn\0\0\0\0(\0촀\0n\0\0is het na een lange en drukke dag(촀\0
 tijd voor een toost!"
-"045_04_02","Heeft iedereen (&촀\0iets te drinken?\0\0(촀\0Een heerlijk sapje van n촁
+"045_04_02","Heeft iedereen (&촀\0iets te drinken?\0\0(촀\0Een heerlijk sapje van \0n촁\0￿
 \0 die op ons eigen eiland door de eilandwoordvoerder zijn geplukt!"
 "045_04_03","(3촀\0Dan is het nu tijd voorn\0\0
 \0((!촀\0 een toost! 
 \0Op n	\0 en het geluk van alle bewoners!"
 "045_05","
 \0(촀\0                    (촀\0\0Proost!\0d
-"
+<"
 "046","Out of curiosity, n\0...\0\0is it 
 \0n	\0-shima,
 \0
@@ -251,9 +252,9 @@ dus als je even een uiltje wilt
 knappen in je tent, hou je niet in!
 (촀\0Wij houden het vuur wel aan de
 gang."
-"051_01_a","Geen slecht idee."
+"051_01_a","(\0촀\0Geen slecht idee."
 "051_01_b","Ik ben niet moe!"
-"051_a","Geen slecht idee."
+"051_a","(\0촀\0Geen slecht idee."
 "051_b","Ik ben niet moe!"
 "052","(촀\0Gelijk heb je!
 \0 Ik zou ook moe zijn.
@@ -287,11 +288,17 @@ knappen in je tent, hou je niet in!
 (촀\0Wij houden het vuur wel aan de
 gang."
 "056","(\0촀\0O, 
-\0ik wil je nog wat geven voor je terug naar je tent gaat, hm.\0\0Voor je wilt gaan rusten, moet je nog een keer met me praten terwijl je \0plek hebt om wat te dragen\0￿!\0\0()촀\0Als je zakken vol zitten,
-\0 kies dan iets dat je niet nodig hebt 
-\0en zet het hier ergens neer.
+\0ik wil je nog wat geven voor je
+terug naar je tent gaat, hm.\0\0Praat dus nog even met me voordat
+je gaat slapen en zorg dat je dan
+\0plek hebt om iets mee te nemen\0￿!\0\0()촀\0Als je zakken vol zitten,
+\0 kies dan iets
+dat je niet nodig hebt 
+\0en laat het
+maar hier achter.
 \0
-(촀\0Maak je maar geen zorgen, er zal niemand aan je spullen zitten!"
+(촀\0Maak je maar geen zorgen, er zal
+niemand aan je spullen zitten!"
 "057","<"
 "057_01","(촀\0Ja, ja. 
 \0Ik had moeten zien dat

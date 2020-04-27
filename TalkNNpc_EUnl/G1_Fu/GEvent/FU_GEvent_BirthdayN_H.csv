@@ -53,14 +53,14 @@ openmaken?"
 inrichting laten inspireren?
 \0 (촀\0Zoiets
 heb ik heel graag in mijn huis!"
-"019","(촀\02\02\0}\0\0! (촀\0Heel erg bedankt, ik ben er zo blij mee!\0\0(촀\0Ik draag 2촀diedatdie van mij zo vaak dat ik
-2촀hemhetze zelfs niet uittrek om te wassen.
+"019","(촀\02\02\0}\0\0! (촀\0Heel erg bedankt, ik ben er zo blij mee!\0\0(촀\0Ik draag 2촀diedatdie van mij zo vaak dat ik
+2촀hemhetze zelfs niet uittrek om te wassen.
 (촀\0En nu heb ik een reserve-exemplaar!"
 "020","(촀\0O wauw! Nu heb ik net als jij 2\0}\0\0(촀\0, n\0!\0\0Ik vind het zo leuk dat we nu allebei
 dezelfde outfit kunnen dragen,
 n\0.\0\0(촀\0Dan zijn we net een tweeling!"
 "021","(촀\0O, n\0!
-\0 22촀Is dieIs datZijn die 2촃}\0\0 voor mij?\0\0(4촀\0Weet je zeker dat je mij zo'n duur
+\0 22촀Is dieIs datZijn die 2촃}\0\0 voor mij?\0\0(4촀\0Weet je zeker dat je mij zo'n duur
 cadeau wilt geven?"
 "022","(촀\02\02\0}\0\0! (촀\0Wauw! Ikn\0\0 wauw. Ik ben in shock.\0\0(;촀\0Dit is zo'n geweldig cadeau enn\0\0
 (촀\0ik weet, geloof ik, niet wat ik moet
@@ -80,8 +80,8 @@ bedoel, het is toch niet je bedoeling
 bijvoorbeeld (촀\0in een salade!\0\0Ik weet dat je ze ook kunt verkopen,
 ()촀\0maar als ze zo vers zijn als deze, eet
 ik ze liever op.(촀"
-"030","(촀\0Ik vroeg me al af wat er zo lekker rook! Het 2 촀waswas
-waren vast 2\02촃}\0\0.\0\0(촀\0Heb je 2 촀dezeditdeze speciaal voor mij
+"030","(촀\0Ik vroeg me al af wat er zo lekker rook! Het 2 촀waswas
+waren vast 2\02촃}\0\0.\0\0(촀\0Heb je 2 촀dezeditdeze speciaal voor mij
 besteld? Wat aardig van je!"
 "031","(촀\0Dit is het doe-het-zelfplan voor 2\0}\0\0!\0\0(
 촀\0Hmmmm
@@ -90,7 +90,7 @@ aannemen,
 \0 n\0.\0\0(촀\0Ik vind het heel aardig van je,
 \0 maar ik
 zou het zo vervelend vinden als het
-een zeldzaam plan zou blijken te zijn.\0\0(촀\0Ik zou het fijn vinden als je het
+een zeldzaam plan blijkt te zijn.\0\0(촀\0Ik zou het fijn vinden als je het
 gebruikt om iets voor jezelf te
 maken."
 "048","(촀\0Hartstikke bedankt! 
@@ -100,7 +100,7 @@ maken."
 je cadeau! 
 \0(촀\0Ik heb ook een cadeautje
 voor jou.
-(촀\0Je mag 2 촀dezeditdeze 2촃}\0 mee naar huis nemen!"
+(촀\0Je mag 2 촀dezeditdeze 2촃}\0 mee naar huis nemen!"
 "050","(촀\0Je hebt er een speciale dag van
 gemaakt en ik ben erg blij met je
 cadeau. (촀\0Bedankt, n\0!"
@@ -141,8 +141,8 @@ geeft, n\0!"
 "061_b","Ik heb geen cadeaus."
 "062","Volgens iedereen geef jij de beste cadeaus, n\0. 
 \0(4촀\0Ik ben vast blij met wat je me ook geeftn"
-"062_a","Wat vind je hiervan?"
-"062_b","O! Eh, sorry, maar..."
+"062_a","(\0촀\0Wat vind je hiervan?"
+"062_b","(\0촀\0O! Eh, sorry, maar..."
 "064","(촀\0Ga je al? 
 \0Bedankt voor je komst (촀\0en
 dat je ook een cadeautje voor me
@@ -218,8 +218,7 @@ voor ik je mijn cadeau heb gegeven.
 \0 daar ben je dan!
 \0(
 ()촀\0Nu je er weer ruimte voor hebt, wil ik
-je je cadeautje meegeven.
-(!촀\02\02\0}\0!
+je je cadeautje meegeven.\0\0(!촀\02\02\0}\0!
 \0( (촀\0Veel plezier ermee!"
 "100","(촀\0Wat grappig dat s촀 en ik dezelfde dag jarig zijn. 
 \0(촀\0Het lijkt of we wel vrienden moeten zijn.\0\0(촀\0Daarom vieren we onze verjaardag

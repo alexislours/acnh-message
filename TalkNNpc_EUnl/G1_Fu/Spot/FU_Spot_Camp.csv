@@ -33,12 +33,11 @@ echt bezoeken,
 \0 buiten
 de \0kampeerplek\0￿
 \0n"
-"002_04","(촀\0Een van de eilandbewoners nodigde
-me uit om hier te kamperen,
-\0
-n\0.\0\0(4촀\0Hopelijk ben ik tot nu toe geen al
-te irritante toerist geweest
-\0n"
+"002_04","(촀\0Een van de eilandbewoners nodigde me uit om hier te kamperen,
+\0 n\0.\0\0(4촀\0Ik probeer een beetje op de
+achtergrond te blijven
+\0n\0\0 Zou het
+opvallen dat ik een toerist ben?"
 "002_05","()촀\0Iemand die hier woont,
 \0 nodigde me
 uit om op het eiland te kamperen
@@ -126,15 +125,11 @@ dit eiland gesprongen,
 op te kamperen,
 \0 n\0!(촀"
 "202_02","()촀\0Ik ben hier op uitnodiging van
-s\0촀.\0\0(""촀\0Trouwens, ik ben n
-\0.
-\0 (촀\0Sorry als ik dat al eerder heb gezegd.\0\0(4촀\0Ik hoop dat 2hijze me ook een tour van
-het eiland kan geven,
+s\0촀.\0\0(4촀\0Ik hoop dat 2hijze me een tour van het
+eiland kan geven,
 \0 n\0."
-"202_03","(촀\02\0s\0촀 heeft me uitgenodigd om hiernaartoe te komen. Ken je 2hemhaar?\0\0(촀\0Wacht,
-\0 ken ik jou?
-\0 (""촀\0Ik ben n
-\0.\0\0(1촀\0Soms is het fijn
+"202_03","(촀\02\0s\0촀 heeft me uitgenodigd om hiernaartoe te komen.
+\0 Ken je 2hemhaar?\0\0(1촀\0Soms is het fijn
 \0 om thuis de boel
 de boel te laten en in de openlucht
 te kamperen,
@@ -159,9 +154,9 @@ mooi moment om goed over dingen
 na te denken,
 \0 n\0.
 (촀\0O!
-\0( (촀\0Ik bedoel niet dat ik niet me je wil
+\0( (촀\0Ik bedoel niet dat ik niet met je wil
 praten, hoor!
-\0 (촀\0 Ik vind het fijn om tijd
+\0 (촀\0Ik vind het fijn om tijd
 met vrienden door te brengen."
 "301_04","(1촀\0Door deze frisse lucht ben ik in een
 poëtische bui,
@@ -174,7 +169,7 @@ opzetten van een tent,
 촀\0Misschien dat het helpt dat ik de
 tent-opzet-handleiding
 \0 (촀\0twee keer
-heb gelezen van begin tot eind
+heb gelezen tijdens mijn vliegreis
 \0n"
 "302","<"
 "302_01","(4촀\0Ik ben van plan om in mijn vakantie
@@ -195,17 +190,17 @@ mooi moment om goed over dingen
 na te denken,
 \0 n\0.
 (촀\0O!
-\0( (촀\0Ik bedoel niet dat ik niet me je wil
+\0( (촀\0Ik bedoel niet dat ik niet met je wil
 praten, hoor!
-\0 (촀\0 Ik vind het fijn om tijd
+\0 (촀\0Ik vind het fijn om tijd
 met vrienden door te brengen."
 "401","<"
 "401_01","(
-촀\0Denk je echt dat ik hier mijn plekje
-zal vinden?
-\02 (촀\0Iedereen hier lijkt zo
-aardig te zijn.\0\0(4촀\0Het lijkt me leuk
-\0 om heel wat nieuwe
+촀\0Ik hoop dat ik hier mijn plekje vind.
+\02
+(촀\0Iedereen die ik tot nu toe heb
+ontmoet, is heel aardig tegen me.\0\0(4촀\0Het lijkt me leuk
+\0 om een boel nieuwe
 vrienden te maken,
 \0 n\0
 \0n"
@@ -260,14 +255,13 @@ weer terug op het eiland ben,
 \0n\0\0 (촀\0Ik heb
 besloten om naar dit eiland te
 verhuizen!\0\0(촀\0Ik kan niet wachten om deel uit te
-maken van de eilandgemeenschap,
-
-\0 n\0."
+maken van de eilandgemeenschap,
+\0
+n\0."
 "403_02","(;촀\0Raad eens?
 \0 (촀\0Ik heb besloten dat ik
 binnenkort hier kom wonen,
-\0
-n\0!\0\0(촀\0Ik ben verliefd geworden op n\0.
+\0 n\0!\0\0(촀\0Ik ben verliefd geworden op n\0.
 \0 (4촀\0Dat kun jij natuurlijk wel begrijpen."
 "403_03","(6촀\0Nou,
 \0 ik heb nieuws
@@ -303,8 +297,8 @@ aan mijn vertrek van het eiland.
 \0 Kon
 ik hier maar wonen,
 \0 n\0!"
-"501_03_a","Waarom doe je dat niet?"
-"501_03_b","Ik ga je missen."
+"501_03_a","Dat kan!"
+"501_03_b","Hm, ik weet niet, hoor..."
 "502_01","(촀\0Je hebt vast gelijk.
 \0( (4촀\0Misschien ben ik
 onbewust op zoek
@@ -334,8 +328,7 @@ bijdragen
 \0n"
 "601_01_a","Dat is een goed idee!"
 "601_01_b","Dat is niet nodig."
-"601_02","(촀\0Iedereen is zo gul hier op
-n\0,
+"601_02","(촀\0Iedereen is zo gul hier op n\0,
 \0 n\0.\0\0(촀\0Wat heb ik een geluk dat ik naar
 huis ga
 \0 met souvenirs die speciaal

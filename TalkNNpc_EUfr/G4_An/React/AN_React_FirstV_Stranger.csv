@@ -6,12 +6,8 @@ trompe ?
 rencontrer, n\0 !
 Mon blase, c'est n
 \0 !
-\0
-(촀\0J'suis pas du coin non plus, en fait !
-\0
-J'ai débarqué aujourd'hui !
-(6촀\0Et donc, tu t'appelles
-n\0 ? OK, cool.\0\0(9촀\0Bon, j'veux pas avoir l'air impolie,
+\0 (촀\0J'suis pas du coin non plus, en fait !
+\0 J'ai débarqué aujourd'hui !\0\0(6촀\0Et donc, tu t'appelles n\0 ? OK, cool.\0\0(9촀\0Bon, j'veux pas avoir l'air impolie,
 mais comme dit, j'emménage !
 \0
 (촀\0Alors j'retourne à mes cartons.
@@ -25,11 +21,8 @@ d'toi ! 
 \0($촀\0Bienvenue !
 (촀\0J'm'appelle n
 \0.
-\0 Et
-toi, c'est n\0 ?
-\0 Ça va,
-j'le prononce pas d'travers ?
-(2촀\0Si t'avais pas d'viné en voyant les
+\0 Et toi, c'est n\0 ?
+\0 Ça va, j'le prononce pas d'travers ?\0\0(2촀\0Si t'avais pas d'viné en voyant les
 cartons, j'viens d'débarquer icin\0\0
 (촀\0Aujourd'hui même !
 ()촀\0Ça m'ferait plaiz que tu passes me
@@ -62,11 +55,8 @@ d'cette île ?
 \0
 J'm'appelle n
 \0.
-(촀\0Et toi, c'estn\0\0 n\0,
-c'est ça ?
-\0 J'ai entendu parler de
-ta venue.
-(""촀\0Bienvenue à n\0 !
+(촀\0Et toi, c'estn\0\0 n\0, c'est ça ?
+\0 J'ai entendu parler de ta venue.\0\0(""촀\0Bienvenue à n\0 !
 \0
 (%촀\0Sois pas mal à l'aise parce que t'es
 pas chez toi.
@@ -90,12 +80,9 @@ Reviens bientôt !"
 \0
 (촀\0T'es pas d'cette île, si ?\0\0(""촀\0Appelle-moi n
 \0 !
-\0
-(%촀\0Toi, tu dois être n\0 ?
-\0
-OK, c'est noté.
-\0 J'oublierai pas !
-(%촀\0T'aimes n\0 ?
+\0 (%촀\0Toi, tu dois être n\0 ?
+\0 OK, c'est noté.
+\0 J'oublierai pas !\0\0(%촀\0T'aimes n\0 ?
 \0 Prends
 une profonde respiration et hume un
 peu c't'air frais qui sent bon l'océan !

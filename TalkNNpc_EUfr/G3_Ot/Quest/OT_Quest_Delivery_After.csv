@@ -1,21 +1,17 @@
 ﻿"label","text"
 "001","(촀\0Ah,
 \0 je te remercie d'être
-allé2\0e rendre à s촀
-l'objet qu'2촀ilelle\0 m'avait prêté."
-"002","(촀\0Tu as rapporté à s촀
-l'objet que je lui avais emprunté,
-n'est-ce pas ?
-(촀\0Je suis profondément soulagée.
+allé2\0e rendre à s촀 l'objet qu'2촀ilelle\0 m'avait prêté."
+"002","(촀\0Tu as rapporté à s촀 l'objet que je lui avais emprunté, n'est-ce pas ?\0\0(촀\0Je suis profondément soulagée.
 \0
 (촀\0Merci pour ton aide !"
-"003","Au fait, (&촀\0comment a-t-2촀ilelle\0 réagi ?"
-"003_a","Eh bien..."
-"003_b","J'ai oublié."
+"003","Au fait, (&촀\0comment a-t-2촀ilelle\0 réagi ?"
+"003_a","(\0촀\0Eh bien..."
+"003_b","(\0촀\0J'ai oublié."
 "004","(&촀\0Pourrais-tu me dire comment
-2촀ilelle\0 a pris la chose ?"
+2촀ilelle\0 a pris la chose ?"
 "004_a","(\0촀\0En fait, euh..."
-"004_b","Je ne sais plus..."
+"004_b","(\0촀\0Je ne sais plus..."
 "005","( 촀\0Ah bon ?
 \0(
 촀\0 Je dois probablement
@@ -99,25 +95,22 @@ résolue,
 faire à ce sujet.(촀\0 Merci à toi !"
 "101","(촀\0Chouette !
 \0(촀\0 Je te remercie d'avoir
-rapporté à s촀 l'objet
-qu'2촀ilelle\0 avait oublié chez moi."
+rapporté à s촀 l'objet qu'2촀ilelle\0 avait oublié chez moi."
 "102","Dis-moi, (&촀\0comment a réagi
-s촀 lorsque tu lui as
-rendu son bien ?
-(촀\0Non, attendsn\0\0
+s촀 lorsque tu lui as rendu son bien ?\0\0(촀\0Non, attendsn\0\0
 \0 En réalité, je m'en
 fiche.
 \0(촀\0 Merci pour ton aide en tout
 cas, n\0."
-"103","Dis-moi, (&촀\0a-t-2촀ilelle\0 dit quelque chose
+"103","Dis-moi, (&촀\0a-t-2촀ilelle\0 dit quelque chose
 de particulier ?"
-"103_a","En fait..."
-"103_b","Mince, je ne sais plus."
+"103_a","(\0촀\0En fait..."
+"103_b","(\0촀\0Mince, je ne sais plus."
 "104","Alors, (&촀\0quelle a été sa réaction,
 \0
 dis-moi ?"
 "104_a","(\0촀\0Eh bien..."
-"104_b","Je ne sais plus."
+"104_b","(\0촀\0Je ne sais plus."
 "105","(촀\0Comment ça,
 \0 tu ne sais plus ?!
 \0
@@ -139,12 +132,12 @@ donné pour qu'il soit parfait ?
 que qu'⁠s촀 ne s'en offusquera pasn\0\0 (촀\0mais tu as mal agi,
 \0 tu sais."
 "108","(촀\0Comment ?!
-\0( 2촀IlElle\0 en avait déjà
+\0( 2촀IlElle\0 en avait déjà
 acheté un autre exemplaire
 en remplacement ?\0\0(촀\0J'ai été bien sotte de ne pas lui
 rapporter ça plus tôtn"
-"109","(%촀\0Ainsi, 2촀ilelle\0 ne s'était pas rendu
-compte qu'2촀ilelle\0 avait laissé quelque
+"109","(%촀\0Ainsi, 2촀ilelle\0 ne s'était pas rendu
+compte qu'2촀ilelle\0 avait laissé quelque
 chose chez moin\0\0
 (5촀\0J'ai bien fait de lui rendre cela
 rapidement.
@@ -154,28 +147,26 @@ participation, n\0."
 \0 (%촀\0Merci d'avoir bien voulu
 porter le colis à s촀."
 "202","(&촀\0Tu as bien apporté son colis
-à s촀 comme je te
-l'avais demandé ?
-(촀\0Oh, merci !
+à s촀 comme je te l'avais demandé ?\0\0(촀\0Oh, merci !
 \0(촀\0 Tu es si serviable,
 n\0n"
 "203","(&촀\0Eh bien ?
-\0 J'imagine qu'2촀ilelle\0 devait
-être ravi2촀\0e\0 que tu le lui apportes ?
+\0 J'imagine qu'2촀ilelle\0 devait
+être ravi2촀\0e\0 que tu le lui apportes ?
 \0
 ($촀\0Raconte-moi tout."
-"203_a","En fait..."
-"203_b","J'ai oublié !"
-"204","Dis-moi, (&촀\0comment a-t-2촀ilelle\0 réagi
+"203_a","(\0촀\0En fait..."
+"203_b","(\0촀\0J'ai oublié !"
+"204","Dis-moi, (&촀\0comment a-t-2촀ilelle\0 réagi
 quand tu le lui as donné ?"
 "204_a","(\0촀\0Pour être honnête..."
-"204_b","Je... J'ai oublié."
+"204_b","(\0촀\0Je... J'ai oublié."
 "205","(
 촀\0Hmmn\0\0
-\0 S2촀'ili elle\0 avait été contrarié2촀\0e\0,
+\0 S2촀'ili elle\0 avait été contrarié2촀\0e\0,
 tu l'aurais remarqué.
 \0 Cela ne l'a
-donc pas perturbé2촀\0e\0 outre mesure.\0\0(%촀\0Je suis certaine que ta promptitude
+donc pas perturbé2촀\0e\0 outre mesure.\0\0(%촀\0Je suis certaine que ta promptitude
 y est pour beaucoup.
 \0(촀\0 Je te remercie,
 n\0."
@@ -203,13 +194,13 @@ destinataire.
 mon cadeau à s촀."
 "302","Alors,
 \0 (&촀\0est-ce que cela lui a plu ?"
-"302_a","Eh bien..."
-"302_b","Je ne sais plus."
+"302_a","(\0촀\0Eh bien..."
+"302_b","(\0촀\0Je ne sais plus."
 "303","(&촀\0Alors ?
-\0 Comment a-t-2촀ilelle\0 réagi
+\0 Comment a-t-2촀ilelle\0 réagi
 au moment de l'ouvrir ?"
 "303_a","(\0촀\0En fait..."
-"303_b","Euh... je ne sais plus."
+"303_b","(\0촀\0Euh... je ne sais plus."
 "304","(촀\0Tu ne sais plus ?!
 \0(촀\0 C'est fâcheux,
 \0
@@ -217,7 +208,7 @@ j'aurais aimé que tu fasses un peu
 plus attention.
 (촀\0Tant pis,
 \0 j'irai lui demander ce
-qu'2촀ilelle\0 en a pensé, n\0n"
+qu'2촀ilelle\0 en a pensé, n\0n"
 "305","(촀\0Nonn\0\0
 \0(촀\0 Tu as réellement ouvert
 son cadeau à sa place ?\0\0(	촀\0Qu'est-ce qui t'échappe, au juste,
@@ -228,7 +219,7 @@ dans le concept de « cadeau » ?!
 l'ouvrir alors qu'il ne t'était pas
 destiné ?!\0\0(촀\0J'avais tout spécialement choisi
 l'emballage pour faire plaisir à s촀, n\0n"
-"307","(촀\02촀IlElle\0 a essayé aussitôt, vraiment ?
+"307","(촀\02촀IlElle\0 a essayé aussitôt, vraiment ?
 \0(
 (촀\0Tant mieux, tant mieux.
 \0(촀\0 Cela prouve
@@ -240,12 +231,12 @@ cadeau a fait mouche.
 \0(촀\0 Tu m'en vois
 absolument ravie, n\0 !"
 "309","( 촀\0Ah,
-\0 2촀ilelle\0 n'a pas daigné essayer ?
+\0 2촀ilelle\0 n'a pas daigné essayer ?
 \0
 (5촀\0Je suis pourtant certaine que
 c'est tout à fait son style.
 (촀\0Enfin,
-\0 je ne peux pas 2촀lela\0 forcer,
+\0 je ne peux pas 2촀lela\0 forcer,
 n\0."
 "310","(
 촀\0J'étais pourtant sûre que mon
@@ -302,20 +293,20 @@ nouvelle, n\0."
 à s촀,
 \0 n'est-ce pas ?"
 "402","(촀\0Eh bien ? 
-\0Qu'a-t-2촀ilelle\0 dit ?
+\0Qu'a-t-2촀ilelle\0 dit ?
 \0
-(&촀\0Est-2촀ilelle\0 fâché2촀\0e\0 contre moi ?"
-"402_a","Eh bien..."
-"402_b","Je ne sais plus."
+(&촀\0Est-2촀ilelle\0 fâché2촀\0e\0 contre moi ?"
+"402_a","(\0촀\0Eh bien..."
+"402_b","(\0촀\0Je ne sais plus."
 "403","(촀\0Je crains la réponse,
 \0 mais il faut
-que je sachen\0\0(&촀\0 Est-ce qu'2촀ilelle\0 avait
+que je sachen\0\0(&촀\0 Est-ce qu'2촀ilelle\0 avait
 l'air de m'en vouloir ?"
 "403_a","(\0촀\0En fait..."
-"403_b","J'ai oublié..."
+"403_b","(\0촀\0J'ai oublié..."
 "404","(촀\0Sérieusement ?!
 \0 (촀\0Comment savoir
-s2촀'ili elle\0 m'a pardonné ou non,
+s2촀'ili elle\0 m'a pardonné ou non,
 \0
 maintenant ?
 (촀\0Me voilà bien embêtéen"
@@ -331,10 +322,10 @@ emballé avec tant de soinn\0\0
 réussir à me faire pardonnern\0\0
 \0
 (9촀\0Fais attention la prochaine fois."
-"407","(촀\02촀IlElle\0 ne m'en veut pas, alors ?
+"407","(촀\02촀IlElle\0 ne m'en veut pas, alors ?
 \0
 (촀\0Je suis soulagée, tu sais.\0\0(촀\0Merci de m'avoir aidée à faire la paix
-avec 2촀luielle\0.
+avec 2촀luielle\0.
 \0(%촀\0 Tout devrait rentrer dans
 l'ordre,
 \0 grâce à toi."
@@ -354,14 +345,14 @@ toujours, n'est-ce pas ?"
 "503","(&촀\0Tu as toujours le colis destiné
 à s촀, n'est-ce pas ?\0\0()촀\0Je le lui apporterai moi-même, tout
 bien réfléchi.
-\0 2촀IlElle\0 doit avoir hâte de
+\0 2촀IlElle\0 doit avoir hâte de
 le récupérer."
 "504","(8촀\0As-tu toujours le cadeau que
 je t'avais demandé d'apporter
 à s촀 ?
 ()촀\0J'irai le lui offrir en personne,
 
-\02촀ilelle\0 mérite bien que je fasse un
+\02촀ilelle\0 mérite bien que je fasse un
 effort supplémentaire."
 "505","(촀\0Dis, tu sais que je t'avais confié
 un cadeau pour s촀n\0\0\0\0(촀\0Si je ne vais pas m'excuser très vite,
@@ -396,11 +387,8 @@ pas disposer du temps nécessaire.
 ouvrir ton agenda avant de promettre
 quoi que ce soit, n\0 !"
 "510","(
-촀\0Je vois, s촀 avait l'air
-tellement fâché2촀\0e\0 que tu n'as pas
-réussi à lui parler,
-\0 c'est ça ?
-(촀\0Je n'ai plus qu'à y aller moi-même.
+촀\0Je vois, s촀 avait l'air tellement fâché2촀\0e\0 que tu n'as pas réussi à lui parler,
+\0 c'est ça ?\0\0(촀\0Je n'ai plus qu'à y aller moi-même.
 \0
 (9촀\0Je serai forte, n\0."
 "511","(촀\0Mais ?! 
@@ -472,7 +460,7 @@ destiné à s촀 ?
 \0 je n'aurais pas dû
 te confier une tâche si importante.
 \0
-(촀\0Je lui expliquerai, 2촀ilelle\0 comprendran"
+(촀\0Je lui expliquerai, 2촀ilelle\0 comprendran"
 "519","(촀\0Comment ça, tu ne l'as plus ?
 \0
 Qu'en as-tu fait ?

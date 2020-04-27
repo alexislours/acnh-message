@@ -1,9 +1,10 @@
 ﻿"label","text"
 "001","(촂\0¡Ey, máquina!
-\0 (촂\0Ya que estás aquí,
-te propongo un juego.\0\0Yo digo una palabra y tú tienes que
-decir otra que empiece con la última
-letra de la que yo diga."
+\0 (촂\0Llegas justo a tiempo.
+\0
+¿Quieres jugar conmigo y con n촁 a un juego?\0\0()촀\0Uno dice una palabra y el siguiente
+tiene que decir otra que empiece con
+la última letra de esa palabra."
 "002","(촃\0¡Sí! ¡Acepto el reto!
 \0
 (""촃\0¡Yo empiezo!\0\0(
@@ -125,30 +126,29 @@ para las entrevistas."
 "102","(촃\0¡Bueno! ¡Ejem!\0\0()촃\0Eeehn\0\0
 \0 ""Hoy tenemos con nosotros
 al señor 2\0n촀, digno
-sucesor del Artista Culturistan\0\0
-\0""
-(""촃\0""Vamos a aprovechar esta especial
+sucesor del Artista Culturistan\0\0"".
+\0\0\0(""촃\0""Vamos a aprovechar esta especial
 oportunidad para preguntarle cuál
-es el secreto de su éxito.""
-(촀\0""¿Cuál es el secreto de su éxito?"""
+es el secreto de su éxito"".
+(촀\0""¿Cuál es el secreto de su éxito?""."
 "103","(%촂\0""Bueno, estar preparado es
 fundamental.
 \0 (7촂\0No solo estoy
-siempre al 110 por cienton\0\0
-\0""
+siempre al 110 por cienton\0\0"".
+\0
 (촀\0""¡Ese es también el número
 de sentadillas que hago dos
-veces al día!"""
+veces al día!""."
 "104","(촃\0Siguiente preguntan\0\0
 \0 ""¡Oh, qué
 interesante! ¿Y por qué tanto
-énfasis en las sentadillas?"""
+énfasis en las sentadillas?""."
 "105","(5촂\0""Bueno, yo siempre he creído que
 todo ejercicio empieza por levantarse
-cuando se está sentado.""
+cuando se está sentado"".
 (촀\0""Y esta rutina me recuerda esa
 importante máxima con cada
-movimiento."""
+movimiento""."
 "106","(촃\0Espera, ¡tiempo!\0\0(&촃\0¿Tú no decías que lo fundamental
 para la tonificación muscular eran
 el autocontrol y la disciplina?"

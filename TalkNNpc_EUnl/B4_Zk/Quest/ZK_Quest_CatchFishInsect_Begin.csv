@@ -6,13 +6,13 @@
 "003_a","(\0촁\0Wil je er een?
 (\0촁\0Ik vang er een voor je."
 "003_b","(\0촁\0Succes ermee.
-(\0촁\0Ik kan je niet helpen."
+Ik kan je niet helpen."
 "004","(4촀\0Hé, er is iets dat me 's nachts uit
 mijn slaap houdt.\0\0(촀\0Ik zou zo graag 2\0}촀 willen hebbenn"
 "004_a","(\0촁\0Wil je er een?
 (\0촁\0Ik vang er een voor je."
 "004_b","(\0촁\0Succes ermee.
-(\0촁\0Ik kan je niet helpen."
+Ik kan je niet helpen."
 "008","(2촀\0Is het vreemd om verliefd te zijn op
 2\0}촀?
 \0('촀\0\0\0Ik vind van niet!(1촀\0 De kleur, de glans,
@@ -22,13 +22,13 @@ de pure, natuurlijke stijln\0\0
 "008_a","(\0촁\0Wil je er een?
 (\0촁\0Ik vang er een voor je."
 "008_b","(\0촁\0Succes ermee.
-(\0촁\0Ik kan je niet helpen."
+Ik kan je niet helpen."
 "009","(4촀\0Hé, er is iets dat me 's nachts uit
 mijn slaap houdt.\0\0(촀\0Ik zou zo graag 2\0}촀 willen hebbenn"
 "009_a","(\0촁\0Wil je er een?
 (\0촁\0Ik vang er een voor je."
 "009_b","(\0촁\0Succes ermee.
-(\0촁\0Ik kan je niet helpen."
+Ik kan je niet helpen."
 "011","(촀\0Wat? 
 \0Echt?! 
 \0(촀\0Je moet je niet
@@ -147,7 +147,7 @@ bloem gezien? 
 \0((촀\0Hoe ze blijven
 zitten is een klein wonder!\0\0(
 촀\0Ik heb een aantal bloemen
-geprepareerd thuis, en nu zoek ik
+geprepareerd thuis en nu zoek ik
 insecten om erop los te laten.\0\0(&촀\0Zou je me daarmee kunnen helpen?
 \0
 Het maakt niet uit wat voor soort,
@@ -209,22 +209,22 @@ Natuurlijk!"
 Het komt nu niet uit.
 Nu niet, sorry."
 "101","(촀\0Hé, jij bent echt goed in het vangen
-van insecten, toch?\0\0(촀\0(&촀\0Kun jij 2\0}촀 voor me opsporen?\0\0(촀\0Het lukt me zelf nooit om 2촀diedatdie te
+van insecten, toch?\0\0(촀\0(&촀\0Kun jij 2\0}촀 voor me opsporen?\0\0(촀\0Het lukt me zelf nooit om 2촀diedatdie te
 vangen."
 "101_a","Ja, hoor!
-(\0촁\0Dat lukt wel."
-"101_b","Nu meteen? Eh...
-(\0촁\0Het spijt me."
+Dat lukt wel."
+"101_b","(\0촁\0Nu meteen? Eh...
+Het spijt me."
 "102","(&촀\0Heb jij ooit gejaagd op 2\0machtige
 2촃}촀?\0\0(
 촀\0Ik hoor dat ze niet zo lastig te
 vangen zijn als sommigen denken.\0\0
 \0Dus ik vroeg me afn\0\0(촀\0 Heb je zin
 om het eens te proberen?"
-"102_a","(\0촁\0Ja, hoor!
-(\0촁\0Klinkt interessant..."
-"102_b","(\0촁\0Sorry, geen interesse.
-(\0촁\0Nee, bedankt."
+"102_a","Ja, hoor!
+Klinkt interessant..."
+"102_b","Sorry, geen interesse.
+Nee, bedankt."
 "103","(!촀\0Oké dan!
 \0 Ik wist dat ik op je kon
 rekenen.\0\0(%촀\0Ik ben superbenieuwd hoe groot je
@@ -240,21 +240,21 @@ schitterende exemplaar brengt!"
 zo drukbezet zou zijn als ik.\0\0
 \0(촀\0Volgende keer beter misschienn"
 "201","(촀\0Hé, jij bent echt goed in het vangen
-van vissen, toch?\0\0(촀\0(&촀\0Kun jij 2\0}촀 voor me vangen?\0\0(촀\0Het lukt me zelf nooit om 2촀diedatdie te
+van vissen, toch?\0\0(촀\0(&촀\0Kun jij 2\0}촀 voor me vangen?\0\0(촀\0Het lukt me zelf nooit om 2촀diedatdie te
 vangen."
 "201_a","Ja, hoor!
-(\0촁\0Dat lukt wel."
-"201_b","Nu meteen? Eh...
-(\0촁\0Het spijt me."
+Dat lukt wel."
+"201_b","(\0촁\0Nu meteen? Eh...
+Het spijt me."
 "202","(&촀\0Heb jij ooit 2\0machtige 2촃}촀 binnen proberen te halen?\0\0(
 촀\0Ik hoor dat ze niet zo lastig te
 vangen zijn als sommigen denken.\0\0
 \0Dus ik vroeg me afn\0\0(촀\0 Heb je zin
 om het eens te proberen?"
-"202_a","(\0촁\0Ja, hoor!
-(\0촁\0Klinkt interessant..."
-"202_b","(\0촁\0Sorry, geen interesse.
-(\0촁\0Nee, bedankt."
+"202_a","Ja, hoor!
+Klinkt interessant..."
+"202_b","Sorry, geen interesse.
+Nee, bedankt."
 "203","(!촀\0Oké dan!
 \0 Ik wist dat ik op je kon
 rekenen.\0\0(%촀\0Ik ben superbenieuwd hoe groot je

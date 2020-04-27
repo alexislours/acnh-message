@@ -136,12 +136,12 @@ Ja, das stimmt."
 (\0촀\0Tja, sag bloß."
 "010_07","Hm, 
 \0also, 
-\0s\0촀 soll gar kein Lieblingsgetränk haben..."
+\0()촀\0s\0촀 soll gar kein Lieblingsgetränk haben..."
 "010_07_a","Hab ich auch gehört.
 (\0촀\0Seltsam, oder?"
 "010_07_b","(\0촀\0Das war mir neu!
 (\0촀\0Wirklich wahr?"
-"010_08","2\0s\0촀 hat gar kein Leibgericht! 
+"010_08","()촀\02\0s\0촀 hat gar kein Leibgericht! 
 \0Echt wahr, 
 \0n\0!"
 "010_08_a","Ganz genau.
@@ -188,8 +188,7 @@ Kann nicht stimmen!"
 \0ist nur so 'n Gerücht,
 
 \0das ich gehört hab...\0\0(촀\0Vielleicht frag ich s\0촀 mal selbst, 
-\0wenn ich 2
-촀ihmihrihm das nächste Mal begegne, 
+\0wenn ich 2촀ihmihrihm das nächste Mal begegne, 
 \0n\0!"
 "050_01","(촀\0Sag mal, 
 \0n\0n\0\0 
@@ -256,8 +255,7 @@ nicht?!\0\0(1촀\0Okay, 
 (8촀\0Äh... 
 \0Könntest du mal fragen, 
 \0wenn
-du 2
-촀ihnsieihn das nächste Mal siehst...?"
+du 2촀ihnsieihn das nächste Mal siehst...?"
 "060_02","( 촀\0WIE JETZT?! 
 \0(7촀\0Ich hab dich gefragt,
 \0
@@ -302,8 +300,7 @@ Wow, 
 \0oder Werfisch-Filme?\0\0(촀\0Argh! 
 \0(\0촀\0Jetzt würde ich's schon voll
 gern wissen... 
-\0(8촀\0Kannst du 2
-촀ihnsieihn nicht
+\0(8촀\0Kannst du 2촀ihnsieihn nicht
 einfach nächstes Mal fragen?\0\0(촀\0Ich MUSS es wissen, 
 \0n\0!"
 "060_05","Kein Ding! 
@@ -318,7 +315,7 @@ dann du...\0\0(1촀\0Okay, 
 2\0s\0촀 liebt Krimiserien!(\0촀\0
 \0
 Wo der Detektiv so sagt...\0\0„Der Verdächtige 
-\0hat 2촀dendiedas 촀 gegen Mitternacht entwendet und an 
+\0hat 2촀dendiedas 촀 gegen Mitternacht entwendet und an 
 \0( 촀\0Aliens verkauft!“(\0촀\0\0\0Und die Musik dann so 
 \0DA-
 \0DA-
@@ -337,8 +334,7 @@ weißt... 
 \0M
 \0-촀! 
 \0Das ist
-wie 28
-촀normalernormalenormales 촀,
+wie 28촀normalernormalenormales 촀,
 \0 aber
 mit Explosionen in Zeitlupe!\0\0WAHNSINN! 
 \0B
@@ -360,8 +356,7 @@ B
 \0(촀\0eigentlich gibt's das gar nicht.
 \0
 Sollte es aber! 
-\02\0s\0촀 und ich wären voll die Profis!\0\0Wenn du 2
-촀ihnsieihn das nächste Mal siehst,
+\02\0s\0촀 und ich wären voll die Profis!\0\0Wenn du 2촀ihnsieihn das nächste Mal siehst,
 \0
 frag doch, 
 \0ob wir 'nen Club gründen!
@@ -381,8 +376,7 @@ Schmeckt 촁 nachts besser? 
 \0
 Klaro. 
 \0\0KSpoiler.\0d\0\0(7촀\0Jetzt muss ich wissen, 
-\0ob 2
-촀ersieer das
+\0ob 2촀ersieer das
 auch so sieht! 
 \0($촀\0Du könntest nicht
 zufällig mal fragen, 
@@ -395,8 +389,7 @@ Hey, 
 \0
 n\0!\0\0()촀\0Ich glaube ja, 
 \0s\0촀 ist voll der Gourmet. 
-\0(2촀\0Dann muss ich 2
-촀ihnsieihn wohl ein paar Sachen fragen...\0\0Wie weiß ich zum Beispiel, 
+\0(2촀\0Dann muss ich 2촀ihnsieihn wohl ein paar Sachen fragen...\0\0Wie weiß ich zum Beispiel, 
 \0wann ich genug Brokkoli im Pudding hab? 
 \0Passen n촁 zu Zahnpasta?\0\0(;촀\0Ich brauch Antworten!
 
@@ -447,8 +440,7 @@ fragen, 
 \0
 Hey,
 \0 s\0촀 hat voll die irren Geheimnisse, n\0.\0\0(1촀\0Geraten? 
-\02
-촀ErSieEr hat bestimmt ein super-
+\02촀ErSieEr hat bestimmt ein super-
 seltenes Talent... 
 \0Mit Delfinen reden
 oder... 
@@ -460,9 +452,7 @@ euch mal trefft? 
 nämlich was Dringendes fragen!"
 "101","(촀\0Hey, 
 \0du und (\0촀\0s\0촀,
-\0
-(&촀\0ihr seid echt gute Freunde,
-
+\0 (&촀\0ihr seid echt gute Freunde, 
 \0oder,
 \0 n\0?"
 "101_a","Na klar!"
@@ -478,9 +468,9 @@ bestimmt ($촀\0alles Mögliche über s\0촀!\0\0(%촀\0Ich werd dich 
 wenn wir uns das nächste Mal
 treffen, 
 \0n\0!"
-"110_01","(촀\0Also, was 
-\0촀 angeht
-\0, da weiß ich, 
+"110_01","(촀\0Also,
+\0 was 촀 angeht,
+\0 da weiß ich, 
 \0dass s\0촀 촀 LIEBT.\0\0(&촀\0Und du, 
 \0n\0?"
 "110_01_a","Ich auch!
@@ -492,12 +482,11 @@ Eher nicht..."
 \0촀e?!
 \0
 Ich hab gehört, 
-\0s\0촀
-findet 촀 total gut.\0\0(&촀\0Ihr seid voll die super Freunde,
-\0
-also du bestimmt auch,
-\0
-n\0, oder?!"
+\0s\0촀 findet 촀 total gut.\0\0(&촀\0Ihr seid voll die super Freunde,
+\0 also
+du bestimmt auch,
+\0 n\0, 
+\0oder?!"
 "110_02_a","Aber hallo!
 Was denn sonst?"
 "110_02_b","Nee...
@@ -516,7 +505,7 @@ Eher nicht..."
 \0(&촀\0Steht ihr auf die gleichen Sachen, 
 \0n\0?"
 "110_04_a","Aber unbedingt!
-(\0촀\0Gibt nichts Besseres!"
+Gibt nichts Besseres!"
 "110_04_b","(\0촀\0Geht so...
 Nicht ganz meins."
 "110_05","()촀\0Okay, 
@@ -548,8 +537,7 @@ von s\0촀?!
 촀“!!!\0\0(&촀\0Das bestellt ihr im Restaurant
 bestimmt beide, 
 \0oder,
-\0
-n\0?"
+\0 n\0?"
 "110_102_a","Aber unbedingt.
 Da liegst du richtig."
 "110_102_b","Nicht wirklich.
@@ -568,13 +556,9 @@ dir, 
 Das Gleiche."
 "110_103_b","Nichts für mich.
 Was anderes..."
-"110_104","()촀\0Wenn man s\0촀 nach
-2 
-촀seinem
+"110_104","()촀\0Wenn man s\0촀 nach 2 촀seinem
 ihrem\0 Lieblingshobby fragt, 
-\0dann sagt 2
-촀ersie\0 Folgendesn\0\0
-„2\0
+\0dann sagt 2촀ersie\0 Folgendesn\0\0\0\0„2\0
 촀“.
 \0
 (&촀\0Gilt das auch für dich, 
@@ -599,7 +583,7 @@ Musik, 
 \0Nicht mal
 meine Songs? 
 \0Wenn ich Popstar bin?"
-"120_01_a","(\0촀\0Ja, nichts für mich...
+"120_01_a","Ja, nichts für mich...
 Das stimmt."
 "120_01_b","(\0촀\0Doch!
 (\0촀\0Sicher mag ich Musik!"
@@ -618,7 +602,7 @@ Ding, 
 \0\0Bestimmt hören
 beide lieber Musik.
 \0 Popmusik!\0￿"
-"120_03_a","(\0촀\0Keine Comics für mich.
+"120_03_a","Keine Comics für mich.
 Könnte man so sagen."
 "120_03_b","(\0촀\0Doch, Comics fetzen!
 (\0촀\0Ich mag Comics!"
@@ -631,8 +615,7 @@ wenn ihr mal zusammen abhängt."
 Ja, das ist wahr."
 "120_04_b","(\0촀\0Doch, ich mag Filme!
 (\0촀\0Filme sind aber toll!"
-"120_05","2
-촀ErSieEr sieht nicht gern fern. 
+"120_05","2촀ErSieEr sieht nicht gern fern. 
 \0(&촀\0Du auch
 nicht, 
 \0n\0? 
@@ -674,8 +657,7 @@ Ganz genau."
 (\0촀\0Klar habe ich eins."
 "120_09","(
 촀\02\0s\0촀 hat mal gesagt,
-\0 dass 2
-촀ersieer keinen besonderen Traumjob hat. 
+\0 dass 2촀ersieer keinen besonderen Traumjob hat. 
 \0Und du, 
 \0n\0?\0\0($촀\0Okay, 
 \0ich schätze, 
@@ -687,8 +669,7 @@ Ganz genau."
 (\0촀\0Sicher habe ich einen!"
 "120_10","(
 촀\02\0s\0촀 hat mal erzählt,
-\0 dass 2
-촀ersieer eigentlich gar kein Hobby hat...\0\0($촀\0Und du, 
+\0 dass 2촀ersieer eigentlich gar kein Hobby hat...\0\0($촀\0Und du, 
 \0n\0?
 \0
 Wie sieht's bei dir hobbymäßig
@@ -701,8 +682,7 @@ Genau das Gegenteil!"
 "120_11","(
 촀\02\0s\0촀 sagt, 
 \0dass es gar nichts gibt, 
-\0was 2
-촀ersieer megagut kann, 
+\0was 2촀ersieer megagut kann, 
 \0n\0...\0\0($촀\0Und du, 
 \0n\0? 
 \0Kannst du was megagut? 
@@ -751,42 +731,34 @@ euch besser kennenlernen und so!
 \0 Ich helf euch!"
 "170_01","(촀\0Nehmen wir einfach mal
 das Thema 촀!\0\0()촀\0Hab gehört, 
-\0dass s\0촀 da voll auf 촀 abfährt!(\0촀\0\0\0Quatsch mit 2
-촀ihmihr\0 also ruhig mal über21촀\0\0s
+\0dass s\0촀 da voll auf 촀 abfährt!(\0촀\0\0\0Quatsch mit 2촀ihmihr\0 also ruhig mal über22촀\0\0s
 촀!
 \0 (촀\0Das wird bestimmt totaaal aufregend!!!"
 "170_02","(촀\0Gib s\0촀 einfach mal eine Runde 2촁촀 aus, 
 \0n\0!\0\0(6촀\0Ich weiß nämlich REIN ZUFÄLLIG,
 \0
-dass das 2
-촀seinihr\0 촀 ist!
+dass das 2촀seinihr\0 촀 ist!
 
 \0(%촀\0Echt jetzt, 
 \0ich schwöre!"
 "170_03","(촀\0Ich hab nämlich letztens mit s\0촀 gequasselt und weißte, was, 
-\0n\0?\0\02
-촀ErSie\0 sofort so: 
+\0n\0?\0\02촀ErSie\0 sofort so: 
 \0(5촀\0„Ich will uuunbedingt
-mal 촀 werden!“\0\0(\0촀\0Frag 2
-촀ihnsie\0 doch auch mal danach!
+mal 촀 werden!“\0\0(\0촀\0Frag 2촀ihnsie\0 doch auch mal danach!
 \0
 So habt ihr zwei Süßen gleich was
 zum Quasseln, 
 \0n\0!"
 "170_04","(\0촀\02\0s\0촀 hat nämlich ausgeplaudert
 \0 – Pass auf!
-\0 – dass 2
-촀ersie\0 촀 als Hobby hat!\0\0(\0촀\02\0n\0, 
+\0 – dass 2촀ersie\0 촀 als Hobby hat!\0\0(\0촀\02\0n\0, 
 \0das ist deine Chance!
 \0 2\0촀 28istististsindsindsind voll euer Oberthema, 
 \0n\0!"
 "170_05","(\0촀\02\0s\0촀 hat mir geflüstert, 
-\0(촀\0dass 2
-촀ersie\0 angeblich totaaal talentiert 2&iminimininin 촀 wäre!\0\0(\0촀\0Wenn du 2
-촀ihnsie\0 mal danach fragst,
+\0(촀\0dass 2촀ersie\0 angeblich totaaal talentiert 2&iminimininin 촀 wäre!\0\0(\0촀\0Wenn du 2촀ihnsie\0 mal danach fragst,
 \0 n\0,
-\0 findet 2
-촀ersie\0 das hundertpro megacool,
+\0 findet 2촀ersie\0 das hundertpro megacool,
 \0 n\0!"
 "170_101","(촀\022DerDieDasDieDieDie Lieblings-촀 von s\0촀n\0\0 
 \0„⁠
@@ -799,49 +771,39 @@ auf „⁠
 \0 „⁠⁠
 촀⁠“?!\0\0(6촀\0Ich weiß nämlich REIN ZUFÄLLIG,
 \0
-dass das 2
-촀seinihr\0 촀
+dass das 2촀seinihr\0 촀
 sein soll! 
 \0(%촀\0Echt jetzt, 
 \0ich schwöre!"
 "170_103","(촀\0Ich hab nämlich letztens mit s\0촀 gequasselt und weißte, was, 
-\0n\0?\0\02
-촀ErSie\0 sofort so: 
+\0n\0?\0\02촀ErSie\0 sofort so: 
 \0(5촀\0„Ich will uuunbedingt
 mal ‚⁠
-촀⁠‘ werden!⁠“\0\0(\0촀\0Frag 2
-촀ihnsie\0 doch auch mal danach!
+촀⁠‘ werden!⁠“\0\0(\0촀\0Frag 2촀ihnsie\0 doch auch mal danach!
 \0
 So habt ihr zwei Süßen gleich was
 zum Quasseln, 
 \0n\0!"
 "170_104","(\0촀\02\0s\0촀 hat nämlich erzählt,
-\0 dass 2
-촀ersie\0 voll das crazy Hobby hatn\0\0
+\0 dass 2촀ersie\0 voll das crazy Hobby hatn\0\0
 \0 ( 촀\0„⁠2\0
 촀⁠“!\0\0(\0촀\02\0n\0, 
 \0das ist deine Chance!
 \0 So 'n Hobby ist das beste Anquatsch-Theman\0\0 
 \0(""촀\0ALLER ZEITEN!"
 "170_105","(\0촀\02\0s\0촀 hat erzählt, 
-\0(촀\0dass 2
-촀ersie\0 total das Talent hat und zwarn\0\0
+\0(촀\0dass 2촀ersie\0 total das Talent hat und zwarn\0\0
 \0 „⁠
-촀⁠“⁠!\0\0(\0촀\0Wenn du 2
-촀ihnsie\0 mal danach fragst,
+촀⁠“⁠!\0\0(\0촀\0Wenn du 2촀ihnsie\0 mal danach fragst,
 \0 n\0,
-\0 findet 2
-촀ersie\0 das hundertpro megacool,
+\0 findet 2촀ersie\0 das hundertpro megacool,
 \0 n\0!"
 "180_01","(\0촀\02\0s\0촀(8촀\0 meinte, 
-\0dass 2
-촀ersie\0 Musik HASST! n\0\0
+\0dass 2촀ersie\0 Musik HASST! n\0\0
 \0Okaaay, 
-\02
-촀ersie\0 hat einfach nur keine Lieblingsmusik!\0\0(\0촀\0Also,
+\02촀ersie\0 hat einfach nur keine Lieblingsmusik!\0\0(\0촀\0Also,
 \0 weißt du, was?
-\0 Wenn du 2
-촀ihnsie\0
+\0 Wenn du 2촀ihnsie\0
 triffst,
 \0 quatschst du über alles nur
 nichtn\0\0
@@ -853,9 +815,7 @@ nichtn\0\0
 "180_02","(\0촀\0Okaaay,
 \0 mit Büchern kannst du s\0촀 jagen!
 \0 Echt jetzt, 
-\0hat 2
-촀ersie\0 selbst fast genau so gesagt!\0\0(\0촀\0Zur Sicherheit solltest du vor 2
-촀ihmihr\0(촀\0
+\0hat 2촀ersie\0 selbst fast genau so gesagt!\0\0(\0촀\0Zur Sicherheit solltest du vor 2촀ihmihr\0(촀\0
 keine Klamotten mit Sprüchen oder
 so drauf anziehen, 
 \0n\0!"
@@ -863,8 +823,7 @@ so drauf anziehen, 
 \0 als findet s\0촀 alle Comics totaaal komisch und doof!\0\0(촀\0Also weißt du,
 \0 was zu tun ist!
 \0 (촀\0Sobald
-du 2
-촀ihnsie\0 siehst, 
+du 2촀ihnsie\0 siehst, 
 \0verschwinden sofort
 alle Comics in 2Bdeinem Man-Bag""deiner Handtasche!"
 "180_04","(\0촀\0Ich sag dir mal wasn\0\0
@@ -876,8 +835,7 @@ wollt, 
 \0n\0!"
 "180_05","(\0촀\02\0s\0촀 guckt niemals nie Fernsehen.
 \0(8촀\0 Bestimmt, 
-\0weil's meine Musikvideos eh nur im Internet gibt...\0\0Du lässt also beim Quasseln mit 2
-촀ihmihr\0
+\0weil's meine Musikvideos eh nur im Internet gibt...\0\0Du lässt also beim Quasseln mit 2촀ihmihr\0
 das ganze TV-Blabla außen vor und
 erzählst dafür was vonn\0\0
 \0 (촀\0M-
@@ -889,8 +847,7 @@ erzählst dafür was vonn\0\0
 \0 ( 촀\0Entferner! 
 \0Wie megagenial, 
 \0oder,
-\0 n\0?\0\0Dann kannst du nämlich mit 2
-촀ihmihr\0 über
+\0 n\0?\0\0Dann kannst du nämlich mit 2촀ihmihr\0 über
 das ganze andere Zeug quatschen,
 \0
 was auch ich cool finde!"
@@ -898,33 +855,27 @@ was auch ich cool finde!"
 \0ich trink ja schon immer am allerallerliebsten 촀, 
 \0aber s\0촀n\0\0(촀\0
 \0 gar nix!
-\0\0\0Wenn du 2
-촀ihnsie\0 also mal triffst, 
+\0\0\0Wenn du 2촀ihnsie\0 also mal triffst, 
 \0laber
-2
-촀ihnsie\0 einfach damit zu, 
+2촀ihnsie\0 einfach damit zu, 
 \0wie gut mir
-2$촀mein
+2$촀mein
 meinemein 촀 getan hat! "
 "180_08","()촀\0Ich weiß, 
 \0das klingt jetzt vielleicht
 total schräg, 
-\0aber s\0촀 hat tatsächlich kein Lieblingsessen!\0\0(\0촀\0Schlag (촀\02
-촀ihmihr\0 doch einfach mal eins vor,
+\0aber s\0촀 hat tatsächlich kein Lieblingsessen!\0\0(\0촀\0Schlag (촀\02촀ihmihr\0 doch einfach mal eins vor,
 \0
 n\0n\0\0
 \0 Müsst ja nicht gleich mit Foodbloggen anfangen!"
 "180_09","(\0촀\02\0s\0촀 chillt einfach zu gern hart ab. 
-\02
-촀
-SeineIhre\0 Zukunft scheint 2
-촀ihmihr\0 totaaal schnuppe zu seinn\0\0\0\0(촀\0Ich komm ja bald groß raus,
+\02촀
+SeineIhre\0 Zukunft scheint 2촀ihmihr\0 totaaal schnuppe zu seinn\0\0\0\0(촀\0Ich komm ja bald groß raus,
 \0 und hab
 damit nix am Hut,
 \0 aber 
 \0DU könntest
-ruhig öfter mal mit 2
-촀ihmihr\0 abhängen!"
+ruhig öfter mal mit 2촀ihmihr\0 abhängen!"
 "180_10","(8촀\02\0s\0촀 soll ja irgendwie null Hobbys haben und son\0\0\0\0()촀\0Warum checkst du nicht mal ab,
 \0
 ob ihr zusammen was anstellen
@@ -933,11 +884,8 @@ könnt, 
 "180_11","(
 촀\0Ist irgendwie bissi traurig, 
 \0aber s\0촀 hat gar kein Talent oder son\0\0
-\0 ( 촀\0Sagt 2
-촀ersie\0 zumindest!\0\0(촀\0Aber ich nehm 2
-촀ihmihr\0 das auf keinsten
+\0 ( 촀\0Sagt 2촀ersie\0 zumindest!\0\0(촀\0Aber ich nehm 2촀ihmihr\0 das auf keinsten
 ab!
 \0 Und DUn\0\0
 \0 (촀\0Du kitzelst mal schön
-irgendein Talent aus 20
-촀dem Typender Trulla\0 raus!"
+irgendein Talent aus 20촀dem Typender Trulla\0 raus!"

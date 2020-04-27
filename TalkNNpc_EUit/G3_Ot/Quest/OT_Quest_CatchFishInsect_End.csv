@@ -10,9 +10,9 @@ quest'esemplare si è conclusa!"
 \0(&촀\0Un esemplare di valore
 \0 inestimabile, per me?"
 "004_a","Certo!
-È per te!"
-"004_b","Ridammelo!
-Ripensandoci..."
+(\0촀\0È per te!"
+"004_b","(\0촀\0Ridammelo!
+(\0촀\0Ripensandoci..."
 "005","(촀\0Non hai idea di quanto sia felice!
 \0(
 (촀\0Non starò sognando? 
@@ -88,9 +88,9 @@ che ami poggiarsi sui ceppi d'albero."
 \0(Un esemplare così prezioson\0\0 per me? 
 \0Veramente?"
 "024_a","Certo!
-Tutto per te!"
-"024_b","Ehm, ci ho ripensato.
-In effetti... me lo tengo."
+(\0촀\0Tutto per te!"
+"024_b","(\0촀\0Ehm, ci ho ripensato.
+(\0촀\0In effetti... me lo tengo."
 "025","(촀\0Non hai idea di quanto mi renda
 felice!
 \0( (촀\0È vero 
@@ -240,7 +240,7 @@ muoverti troppo.
 \0( (촀\0In bocca al lupo!"
 "201","(%촀\0Spero proprio che tu riesca a trovare 2\0}촀,
 \0 tesoro.
-\0( (촀\0Non vedo l'ora!\0\0()촀\0Ce ne potrebbe essere qualcun2촀oa\0 su
+\0( (촀\0Non vedo l'ora!\0\0()촀\0Ce ne potrebbe essere qualcun2촀oa\0 su
 un albero,
 \0 quindi prova a cercare lì.
 \0(\0\0(\0촀\0Ma ti avviso,
@@ -250,7 +250,7 @@ lentamente!"
 2\0}촀,
 \0
 tesoro. Non vedo l'ora!\0\0(
-촀\0Potresti trovarne qualcun2촀oa\0 che
+촀\0Potresti trovarne qualcun2촀oa\0 che
 saltella fra l'erba.
 \02 Ma fai attenzione!
 \0

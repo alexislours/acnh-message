@@ -77,18 +77,15 @@ sin postre?
 (촀\0Cómo me conoces, n\0n"
 "018","(촀\0¡Qué sorpresa!
 \0 ¡Me has traído
-2\0}\0\0!\0\0(촀\0Ya tenía 2촀unouna\0,
+2\0}\0\0!\0\0(촀\0Ya tenía 2촀unouna\0,
 \0 (2촀\0pero me encanta que
 sepas lo que me gustan"
 "019","(촀\0¡Esto es una maravilla!
 \0
 (촀\0¡2\02\0}\0\0!
-\0
-¡Me encanta!
-(%촀\0¡Ya tengo recambio para cuando
-me manche de 촀
-2촀ella\0 que llevo puest2촀oa\0!"
-"020","(촀\0¡Pero si es 2촀ella\0 mism2촀oa\0 mismitísim2촀oa\0
+\0 ¡Me encanta!\0\0(%촀\0¡Ya tengo recambio para cuando
+me manche de 촀 2촀ella\0 que llevo puest2촀oa\0!"
+"020","(촀\0¡Pero si es 2촀ella\0 mism2촀oa\0 mismitísim2촀oa\0
 }\0\0 que llevas ahora!\0\0(촀\0¡Ahora ya podemos ponernos
 lo mismo!
 \0 ¡Así seguro que la gente
@@ -149,7 +146,7 @@ agradecimiento.
 ¡Es 2\0}\0!"
 "049","(2촀\0¡Menuda sorpresa que me has dado
 con el regalo, n\0!\0\0(\0촀\0Toma,
-\0 est2촀ea\0 }\0 es para ti."
+\0 est2촀ea\0 }\0 es para ti."
 "050","(촀\0¡Muchas gracias por el regalo!
 \0
 ¡Qué cumpleaños más genial,
@@ -161,9 +158,7 @@ siempre, n\0!"
 "052","(촀\0Tengo que decirte una cosita,
 \0
 n\0,
-\0 (촀\0¡muchas gracias
-por el regalo!
-((촀\0Este cumple no lo olvidaré nunca."
+\0 (촀\0¡muchas gracias por el regalo!\0\0((촀\0Este cumple no lo olvidaré nunca."
 "054","(촀\0Las fiestas de cumple son lo mejor:
 \0
 (1촀\0regalos,
@@ -191,10 +186,7 @@ antes de meterla en el horno!\0\0(
 "057","(촀\0¡Me he puesto de tarta hasta arriba!
 \0
 (촀\0Es una sensación taaan genialn"
-"058","(촀\0Jo, n\0, estoy tan
-contento de que estés aquí
-para celebrar mi cumplen\0\0
-(촀\0¡Relájate y disfruta a tope
+"058","(촀\0Jo, n\0, estoy tan contento de que estés aquí para celebrar mi cumplen\0\0\0\0(촀\0¡Relájate y disfruta a tope
 de la fiesta!"
 "060","(촀\0¡Me chifla que la gente me regale
 cosas,
@@ -242,8 +234,7 @@ venir a la fiesta.
 \0 ¡No habría sido
 lo mismo sin ti!"
 "068","(촀\0¡2\0n\0!
-\0 (촀\0¡Gracias por
-haber venido a mi fiesta!"
+\0 (촀\0¡Gracias por haber venido a mi fiesta!"
 "069","( 촀\0¡2\0n\0!
 \0 ¿Ya te vas?
 \0
@@ -274,9 +265,7 @@ No esperaba verte en n\0, n\0n\0\0\0\0(""촀\0¡Ahora vivo aquí!
 \0
 Soy n
 \0 yn\0\0
-\0 (;촀\0la verdad
-es que no sé quién eresn\0\0
-(&촀\0Ah, ¿que te llamas n\0?\0\0(""촀\0¡Pues encantado de conocerte!
+\0 (;촀\0la verdad es que no sé quién eresn\0\0\0\0(&촀\0Ah, ¿que te llamas n\0?\0\0(""촀\0¡Pues encantado de conocerte!
 \0
 (촀\0¡2>Un nuevo amigoUna nueva amiga por mi cumple
 es el mejor de los regalos!"

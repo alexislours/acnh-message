@@ -24,6 +24,11 @@ anziehen wird, 
 "103","(%촀\0So was kann ich in meiner Bude
 gut gebrauchen, 
 \0n\0!"
+"104","\0(9촀\0Irgendwie kommt mir das Ding sehr
+vertraut vorn\0\0
+\0( ('촀\0Aber Quatsch, 
+\0sicher
+nur Einbildung!\0￿"
 "111","(""촀\0Ein wirklich hübsches Fossil.
 \0
 Cool, 
@@ -128,30 +133,27 @@ bestimmt noch rein."
 DieseDieses
 Diese
 Diese
-Diese }\0\0
-2\\0riechtriechtriechtriechenriechenriechen echt gut. 
+Diese }\0\0 2\\0riechtriechtriechtriechenriechenriechen echt gut. 
 \0Danke!"
 "405","(촀\0Ich kriege ja nicht oft Blumenn\0\0
 \0 und
 fühle mich jetzt wie ein Spitzenathlet
 auf einer Sportgala, 
 \0n\0!"
-"406","(촀\02\02\0}\0\0?
-
-\02촀DerDieDas stand jetzt nicht ganz oben auf
-meiner Prioritätenliste, 
-\0aber danke!"
-"407","(촀\0Vielleicht kann ich mir ein paar
-Bewegungsmuster fürs Schwimmen
+"406","(촀\02\02\0}\0\0?"
+"407","(촀\0Danke! 
+\0Vielleicht kann ich mir ein
+paar Bewegungsmuster fürs
+Schwimmen abgucken, 
+\0n\0!"
+"408","(촀\02\02\0}\0\0?"
+"409","(%촀\0Besten Dank! 
+\0Viele Insekten können
+ja ein Vielfaches ihres Gewichts
+tragenn\0\0\0\0(촀\0Vielleicht kann ich mir bei diesem
+Exemplar ein bisschen was
 abgucken, 
 \0n\0!"
-"408","(촀\02\02\0}\0\0?
-Danke! 
-\0(%촀\0Viele Insekten können ein
-Vielfaches ihres Gewichts tragen."
-"409","(촀\0Vielleicht kann ich mir bei diesem
-Exemplar ein bisschen was
-abgucken!"
 "410","(촀\0Danke! 
 \0(\0촀\0Allerdings kommt mir dieses
 Insekt arg unbekannt vor. 
@@ -168,7 +170,7 @@ lieber an \0Eugen \0￿weiterreichen,
 \0
 n\0?"
 "501","(촀\0Huch?!
-\0 Ist das wirklich 2촀eineineein
+\0 Ist das wirklich 2촀eineineein
 }\0\0?"
 "502","(촀\0Zur Hantel, 
 \0deinen Müll kannst du
@@ -188,7 +190,7 @@ Verwendung dafür. 
 \0(촀\0Danke!"
 "507","(촀\0Oh, 
 \0ist das nicht eine
-Bastelanleitung für 2""촀
+Bastelanleitung für 2""촀
 eineneineein
 2촁}\0\0?"
 "508","(

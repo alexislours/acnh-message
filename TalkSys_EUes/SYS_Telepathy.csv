@@ -1,7 +1,8 @@
 ﻿"label","text"
 "001","Aquí no hay sitio."
-"002","Aquí no hay espacio para colgar
-esto."
+"002","No puedo colgar esto aquí.
+\0
+Necesito una pared despejada."
 "003","En esta habitación no hay sitio
 para poner esta alfombra."
 "003_01","Aquí no hay sitio para poner
@@ -15,7 +16,7 @@ hay que dejarla despejada."
 "008","Me da que esto no se puede poner
 en el suelo."
 "009","Esto no se cuelga en la pared."
-"010","Aquí no hay sitio para plantar nada."
+"010","No es posible plantar esto aquí."
 "011","Es una tienda de campaña,
 no se pueden colgar cosas
 en la pared."
@@ -38,8 +39,8 @@ no tenga visita."
 "022","Este tipo de decoraciones las tengo
 que colgar en la puerta de mi casa."
 "023","Será mejor que no me ponga a
-colocar vallas ahora mismo, podría
-venir visita en cualquier momento."
+colocar vallas mientras tenga
+visita."
 "024","Mejor dejo esto para luego,
 que ahora tengo visita."
 "025","¡Esta puerta ya está decorada!"
@@ -49,9 +50,17 @@ estarían por en medio."
 Bloquearía la entrada al aeródromo."
 "028","No puedo colgar decoraciones para
 puertas en la entrada de la tienda."
+"029","Aunque el agujero esté hecho,
+no puedo plantar un árbol sin
+una pala."
+"030","No puedo plantar nada
+si hay gente por medio."
 "051","No hay espacio suficiente
 para poner esto."
 "052","Aquí no cabe nada más."
+"061","Puedo vestir a alguien con un diseño
+personalizado en Fotopía si pulso \0
+\0￿y luego ."
 "101","No puedo modificar la elevación
 del terreno si tiene cosas encima."
 "102","No puedo modificar la elevación
@@ -114,8 +123,8 @@ Ya no cabe nada más."
 "404","No puedo usar esto ahora."
 "405","No llevo nada puesto
 que pueda quitarme."
-"406","Necesito más espacio para usar
-el cebo."
+"406","Tengo que usar el cebo
+en una masa de agua."
 "407","No puedo cambiarme de ropa
 mientras lleve puesto un conjunto
 de la varita."
@@ -127,15 +136,15 @@ de bricolaje\0￿. ¿Qué podría
 hacer para memorizarlo?"
 "411","No es momento
 de usar el cronómetro."
-"412","Los enseres que cubras con papel
-de pared se enviarán al trastero.
-Asegúrate de que haya espacio."
+"412","\0WNo es posible instalar esta pared porque
+no hay sitio en tu trastero para guardar
+los objetos que coincidirían con ventanas.\0d"
 "413","Solo puedo usar esta herramienta
 en las islas de mis mejores amigos."
 "414","¡Ya no puedo comer nada más!"
-"415","No puedo plantar esto en una isla
-que no sea de alguno de mis mejores
-amigos."
+"415","No puedo plantar esto
+en una isla que no sea de
+alguno de mis mejores amigos."
 "430","No puedo guardar esto porque
 en el trastero no cabe nada más."
 "438","¡Todo esto no cabrá en el trastero!"
@@ -180,3 +189,12 @@ porque llevo los bolsillos llenos."
 "513","¡Llevo los bolsillos llenos!"
 "514","Parece que solos los residentes de
 n\0 pueden usar el depósito de reciclaje."
+"600","¡No puedo ponerme a descargar
+diseños mientras tengo visita!"
+"601","No puedo descargar diseños con
+las puertas del \0aeródromo \0￿abiertas."
+"602","No puedo descargar diseños
+mientras estoy de viaje."
+"603","No puedo descargar diseños hasta
+que no desactive la comunicación
+inalámbrica en el aeródromo."

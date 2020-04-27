@@ -13,7 +13,7 @@ Posso venire a vederli di persona?"
 \0(
 (%촀\0Ho un po' di tempo libero.
 Possiamo andare da te?"
-"003_a","Perché no?"
+"003_a","(\0촁\0Perché no?"
 "003_b","Meglio di no."
 "004","( 촀\0OKn\0\0
 \0(4촀\0 capisco, non c'è problema."
@@ -94,7 +94,7 @@ oggi!"
 "402","( 촀\0Ehi, n\0!
 \0 ()촀\0Non so come ammazzare il tempo. 
 \0Non è che potrei venire da te, n\0?\0\0(촀\0Ti assicuro che non sarò invadente!"
-"402_a","Vieni, mi fa piacere!"
+"402_a","(\0촁\0Vieni, mi fa piacere!"
 "402_b","(\0촁\0Purtroppo no."
 "403","(촀\0Eh già. 
 \0Immaginavo che potessi

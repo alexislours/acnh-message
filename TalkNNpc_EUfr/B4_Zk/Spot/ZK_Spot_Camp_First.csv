@@ -1,15 +1,22 @@
 ﻿"label","text"
-"001","(""촀\0Ohé, l'ami2\0e !\0\0(촀\0Je m'appelle n
+"001","(""촀\0Ohé, l'ami2\0e !\0\0(촀\0Je suis n
 \0.
-\0(
-(5촀\0Typiquement, je suis le premier
-à profiter de ce \0camping\0￿."
+\0( (5촀\0Comme de bien entendu, c'est moi qui ai l'honneur d'inaugurer ce \0camping\0￿."
+"001_01","(
+촀\0Et tu vis sur cette île, supputé-je ?
+\0
+(%촀\0Oui, je m'en doutais.
+\0 Quand je
+suppute, je touche toujours au but.
+(5촀\0Par exemple, je suppute que tu
+vas nager dans l'allégressitude
+avec un voisin comme moi."
 "002_01","(촀\02\0n\0, cet endroit mérite vraiment d'être connun\0\0\0\0(&촀\0Pourquoi ?
 \0((6촀\0 Eh bien, cette question
 que tu ne poses pas est tout à fait
 pertinenten\0\0\0\0()촀\0Les loisirs, le soleil, le vent,
 les n촁, et je ne parle même
-pas 2!촀du
+pas 2""촀du
 de la\0 촀.
 (1촀\0Ça me donne presque envie
 de venir m'installer icin"
@@ -108,13 +115,13 @@ meilleurs selfies.
 (1촀\0Si mon prochain disque fait
 un flop, je pense me reconvertir
 en guide touristiquen\0\0
-« ⁠2\0n\0, la vue en VIP ».
+« ⁠2\0n\0, la vue en VIP ⁠».
 \0 Alors, qu'est-ce que tu en penses ?"
 "007_02","(5촀\0Maintenant que je suis venu ici,
 je ne suis plus 2촀lela\0 même n\0n\0\0\0\0(촀\0J'apprécie à nouveau les choses
 simples et le dur labeur.\0\0(6촀\0Je songe même à prendre des cours
 de 촀, tu y crois, toi ?"
-"007_03","(1촀\0Dans le fond, je ne suis qu'2\0n\0 tout ce qu'il y a de plus simplen\0\0\0\0(촀\0Par exemple mon rêve de nager dans
+"007_03","(1촀\0Dans le fond, je ne suis qu'2\0n\0 tout ce qu'il y a de plus simplen\0\0\0\0(촀\0Par exemple, mon rêve de nager dans
 une piscine de clochettesn\0\0 c'est la
 simplicité incarnée."
 "008","<"
@@ -139,3 +146,12 @@ mes fansn\0\0
 Mais là, j'ai le nez dans les poches
 des déménageurs, qui eux ont le
 nez dans mes cartons."
+"101","( 촀\0Ouah, n\0 est pas un bled de seconde zone. 
+\0C'est l'île la plus courue des sept mers !\0\0(촀\0C'est pas moi qui m'en plaindrais.
+\0 (%촀\0Je
+suis toujours ravi de pouvoir tendre
+ma carte à mille badauds éblouis.
+(촀\0Mais quand tu seras seul2\0e, je dirais
+pas non à un petit tête-à-tête. 
+\0(5촀\0Rien
+que toi, moi, et mon bagout hilarant."

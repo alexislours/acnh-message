@@ -1,10 +1,6 @@
 ﻿"label","text"
-"Fossil_00169","(촀\0Oh!
-\0 Si je ne m'abuse, il s'agit d'un
-\0ankylosaure\0￿. 
-\0()촀\0C'est un peu le barbare
-à gourdin des créatures disparues.
-(%촀\0Entre sa queue en forme de marteau,
+"Fossil_00169","()촀\0L'\0ankylosaure\0￿ est un peu le barbare
+à gourdin des créatures disparues.\0\0(%촀\0Entre sa queue en forme de marteau,
 ses piquants acérés et son cuir
 épais, on peut dire qu'il en imposait!
 (3촀\0Sais-tu garder un secret?
@@ -15,12 +11,8 @@ arrivait d'attaquer les prédateursn\0\0
 de la part d'un herbivore?
 \0(촀\0 Cela
 défie l'entendement!(\0촀"
-"Fossil_00170","(촀\0Oh!
-\0 Si je ne m'abuse, il s'agit d'un
-\0ankylosaure\0￿. 
-\0()촀\0C'est un peu le barbare
-à gourdin des créatures disparues.
-(%촀\0Entre sa queue en forme de marteau,
+"Fossil_00170","()촀\0L'\0ankylosaure\0￿ est un peu le barbare
+à gourdin des créatures disparues.\0\0(%촀\0Entre sa queue en forme de marteau,
 ses piquants acérés et son cuir
 épais, on peut dire qu'il en imposait!
 (3촀\0Sais-tu garder un secret?
@@ -31,12 +23,8 @@ arrivait d'attaquer les prédateursn\0\0
 de la part d'un herbivore?
 \0(촀\0 Cela
 défie l'entendement!(\0촀"
-"Fossil_00171","(촀\0Oh!
-\0 Si je ne m'abuse, il s'agit d'un
-\0ankylosaure\0￿. 
-\0()촀\0C'est un peu le barbare
-à gourdin des créatures disparues.
-(%촀\0Entre sa queue en forme de marteau,
+"Fossil_00171","()촀\0L'\0ankylosaure\0￿ est un peu le barbare
+à gourdin des créatures disparues.\0\0(%촀\0Entre sa queue en forme de marteau,
 ses piquants acérés et son cuir
 épais, on peut dire qu'il en imposait!
 (3촀\0Sais-tu garder un secret?
@@ -294,7 +282,7 @@ par endroits, il restait peu de placen\0\0
 \0 Alors, il était un
 peu riquiqui, mais au moins il étaitn\0\0
 protégén\0\0 dans sa prisonn\0\0 en os."
-"Fossil_00202","(촀\0Oh, le \02\0ā촃parasaurolophus\0￿! (촀\0Ou,
+"Fossil_00202","(촀\0Le \0parasaurolophus\0￿! (촀\0Ou,
 comme j'aime l'appeler, la
 bête aux éclats dorés.
 (%촀\0Regarde l'os creux, de près d'un
@@ -304,7 +292,7 @@ caisse de réson
 (촀\0C'est à cause de cet appendice de
 mélomane que j'aime le voir comme
 le ténor du Crétacé!"
-"Fossil_00203","(촀\0Oh, le \02\0ā촃parasaurolophus\0￿! (촀\0Ou,
+"Fossil_00203","(촀\0Le \0parasaurolophus\0￿! (촀\0Ou,
 comme j'aime l'appeler, la
 bête aux éclats dorés.
 (%촀\0Regarde l'os creux, de près d'un
@@ -314,7 +302,7 @@ caisse de réson
 (촀\0C'est à cause de cet appendice de
 mélomane que j'aime le voir comme
 le ténor du Crétacé!"
-"Fossil_00204","(촀\0Oh, le \02\0ā촃parasaurolophus\0￿! (촀\0Ou,
+"Fossil_00204","(촀\0Le \0parasaurolophus\0￿! (촀\0Ou,
 comme j'aime l'appeler, la
 bête aux éclats dorés.
 (%촀\0Regarde l'os creux, de près d'un
@@ -591,7 +579,7 @@ de la peau, et pouvaient atteindre
 (&촀\0On ignore comment elles étaient
 disposées et à quoi elles servaient.
 (촀\0Le passé recèle tant de mystères!"
-"Fossil_00234","(촀\0Hou hou!
+"Fossil_00234","(촀\0Hou hou!
 \0 Le \0plésiosaure\0￿ est un
 incontournable du monde disparu
 des reptiles de jadis!
@@ -611,7 +599,7 @@ arpentant les océans de jadisn\0\0
 (1촀\0\0KComme une sorte de canard en plastique
 des temps immémoriaux et à l'interminable
 coun\0\0\0d"
-"Fossil_00235","(촀\0Hou hou!
+"Fossil_00235","(촀\0Hou hou!
 \0 Le \0plésiosaure\0￿ est un
 incontournable du monde disparu
 des reptiles de jadis!
@@ -630,8 +618,8 @@ tout un spectacle époustouflant, en
 arpentant les océans de jadisn\0\0
 (1촀\0\0KComme une sorte de canard en plastique
 des temps immémoriaux et à l'interminable
-cou\0d\0Kn\0\0\0d"
-"Fossil_00236","(촀\0Hou hou!
+coun\0\0\0d"
+"Fossil_00236","(촀\0Hou hou!
 \0 Le \0plésiosaure\0￿ est un
 incontournable du monde disparu
 des reptiles de jadis!
@@ -650,7 +638,7 @@ tout un spectacle époustouflant, en
 arpentant les océans de jadisn\0\0
 (1촀\0\0KComme une sorte de canard en plastique
 des temps immémoriaux et à l'interminable
-cou\0d\0Kn\0\0\0d"
+coun\0\0\0d"
 "Fossil_00238","(촀\0Du haut de ses 12 mètres et de ses
 neuf tonnes, le \0tyrannosaure\0￿ est
 l'archétype du dinosaure.
@@ -761,19 +749,26 @@ formations environnantes!
 (촀\0Qui sait quels secrets renferment
 encore les mystérieuses arabesques
 de ces coquilles spiralées? "
-"Fossil_00296","(촀\0Le coprolithe, (2촀\0plus communément
-appelé « \0crotte de dinosaure\0￿ »,
-(촀\0recèle de précieuses informations!
-(
-촀\0Ainsi, dans ceux que nous ont
-laissés certains herbivores, on
-trouve de petits caillouxn\0\0
-()촀\0Ce dont on conclut qu'ils ne faisaient
-littéralement qu'une bouchée des
-végétaux et des minéraux!
-(%촀\0Alors on glosera autant qu'on voudra
-sur la finesse de leur alimentation,
-mais ils avaient l'estomac solide!"
+"Fossil_00296","(2촀\0Le \0coprolithe\0￿ n'est ni plus ni moins...
+qu'une crotte de dinosauren\0\0( 촀\0 Hou
+hou, pas très ragoûtant!
+(9촀\0Ceci dit, il recèle souvent de
+précieuses informations!\0\0(
+촀\0Par exemple,
+\0 savais-tu qu'on a
+retrouvé des petits cailloux dans les
+excréments de certains herbivores?
+On peut en conclure que,
+\0(5촀\0 comme
+beaucoup d'oiseaux d'aujourd'hui...\0\0... ces dinosaures avalaient des
+cailloux pour broyer les végétaux
+qu'ils ingurgitaient.
+Les excréments fossilisés nous en
+apprennent tant sur l'alimentation
+et la digestion des dinosaures! 
+\0(
+(촀\0Hou hou, qui aurait cru que ce serait
+si passionnant?!"
 "Fossil_00298","(%촀\0Les plumes de l'\0archéoptéryx\0￿ ont
 conduit maints experts du dimanche
 à y voir le père de tous les oiseauxn\0\0

@@ -9,14 +9,14 @@ averlo ancora fatto. 
 un tesoro!"
 "003","(&촀\0Come ha reagito s촀?"
 "003_a","Con gioia."
-"003_b","Non mi ricordo."
+"003_b","(\0촁\0Non mi ricordo."
 "004","(&촀\0E dimmi, 
 \0come ha reagito
 s촀?"
 "004_a","(\0촀\0La verità è che..."
-"004_b","Non mi ricordo."
+"004_b","(\0촁\0Non mi ricordo."
 "005","(
-촀\0Immagino che se si fosse 22촀arrabbiatoarrabbiata\0
+촀\0Immagino che se si fosse 22촀arrabbiatoarrabbiata\0
 te lo ricorderesti di sicuron\0\0 
 \0(촀\0Quindi
 tout va bien!
@@ -78,12 +78,12 @@ enorme aiuto, n\0!"
 \0Mi fa piacere che abbia riavuto ciò che è suo!"
 "103","(&촀\0Come ha reagito s촀?"
 "103_a","(촀\0Con gratitudine."
-"103_b","Non me lo ricordo..."
+"103_b","(\0촁\0Non me lo ricordo..."
 "104","(&촀\0Come ha reagito s촀?"
 "104_a","(\0촀\0Beh, io, veramente..."
-"104_b","Non mi ricordo."
+"104_b","(\0촁\0Non mi ricordo."
 "105","(촀\0Immagino che s촀
-fosse 2.촀sollevatosollevata\0n\0\0\0\0(%촀\0Quando mi riportano qualcosa,
+fosse 2.촀sollevatosollevata\0n\0\0\0\0(%촀\0Quando mi riportano qualcosa,
 io sono sempre felicissimissima!"
 "106","(촀\0Comment? 
 \0Hai aperto il pacchetto
@@ -103,9 +103,9 @@ priman\0\0 
 \0(촀\0In ogni caso,
 \0 grazie mille di
 tutto, n\0."
-"109","(%촀\0Quindi non si era 2&촀accortoaccorta\0 di aver
+"109","(%촀\0Quindi non si era 2&촀accortoaccorta\0 di aver
 lasciato qualcosa da men\0\0\0\0(촀\0Beh, mi fa piacere che abbiamo
-potuto 28촀restituirglirestituirle\0 ciò che è suo!"
+potuto 28촀restituirglirestituirle\0 ciò che è suo!"
 "201","(촀\0Merci di aver riportato il suo
 pacchetto 2\0 s촀."
 "202","(촀\0Ti sono molto grata di aver portato 2\0 s촀 il pacchetto che avevo ricevuto io per errore.\0\0(촀\0Ora le cose si sono sistematen\0\0
@@ -113,10 +113,10 @@ pacchetto 2\0 s촀."
 Ed è tutto merito tuo!"
 "203","(&촀\0Cosa ha detto s촀 riguardo all'errore relativo alla consegna?"
 "203_a","(촀\0È divertente, perché..."
-"203_b","Non me lo ricordo..."
+"203_b","(\0촁\0Non me lo ricordo..."
 "204","(&촀\0Cosa ha detto s촀 riguardo alla confusione che c'è stata?"
 "204_a","(\0촀\0Beh, a dire il vero..."
-"204_b","Non mi ricordo..."
+"204_b","(\0촁\0Non mi ricordo."
 "205","(촀\0Bien, vuol dire che alla fine è andato
 tutto bene.
 \0(%촀\0 Ne sono molto heureuse,
@@ -141,10 +141,10 @@ pacchettino 2\0 s촀."
 "302","(&촀\0Allora, 
 \0come ha reagito?"
 "302_a","(촀\0È stata una sorpresa!"
-"302_b","Scusa, non ricordo..."
+"302_b","(\0촁\0Scusa, non ricordo..."
 "303","(&촀\0Come ha reagito s촀?"
 "303_a","(\0촀\0Beh, è andata così..."
-"303_b","In realtà, non ricordo."
+"303_b","(\0촁\0In realtà, non ricordo."
 "304","Beh, 
 \0(%촀\0penso che poi mi racconterà
 di persona com'è andatan\0\0\0\0(촀\0Merci, n\0!"
@@ -154,12 +154,12 @@ regalo prima di darglielo?\0\0(촀\0Queston\0\0 non me lo sarei mai
 aspettato da te."
 "306","(촀\0Hai aperto il suo regalo?! 
 \0(8촀\0Anche se 2\0 s촀 non importa, 
-\0non è stato carino.\0\0(9촀\0Mi dispiace dirtelo, ma toccava a 2촀luilei\0
+\0non è stato carino.\0\0(9촀\0Mi dispiace dirtelo, ma toccava a 2촀luilei\0
 aprire il suo regalo, non a te."
 "307","(촀\0Ha fatto subito una prova, dici? 
 \0(촀\0Sono
 taaanto felice!\0\0(촀\0Non vedo l'ora di scoprire come
-2촀glile\0 sta!"
+2촀glile\0 sta!"
 "308","(촀\0Oh, 
 \0fantastico! 
 \0(2촀\0Spero che abbia
@@ -210,11 +210,11 @@ contenta che abbia gradito!"
 "401","(촀\0Merci per aver consegnato il mio
 regalo 2\0 s촀!"
 "402","(&촀\0Come ha reagito?"
-"402_a","Molto bene, direi..."
-"402_b","Non mi ricordo..."
+"402_a","(\0촁\0Molto bene, direi..."
+"402_b","(\0촁\0Non mi ricordo..."
 "403","(&촀\0Dimmi, come ha reagito s촀?"
 "403_a","(\0촀\0Beh, a dire il vero..."
-"403_b","Scusa, non ricordo."
+"403_b","(\0촁\0Scusa, non ricordo."
 "404","(촀\0Oh, davvero? 
 \0(촀\0Quel dommage, 
 \0ero
@@ -309,7 +309,7 @@ fin dall'inizio."
 \0hai aperto il regalo!\0\0(촀\0Pazienzan\0\0 
 \0(%촀\0Rifarò il pacchetto
 e glielo consegnerò di persona.\0\0(2촀\0Così facendo, 
-\0potrò 2,촀parlargliparlarle\0
+\0potrò 2,촀parlargliparlarle\0
 a quattr'occhi, 
 \0n\0."
 "515","(촀\0Oh! 
@@ -326,7 +326,7 @@ una cosa presa in prestito.
 \0
 (촀\0Troverò una soluzionen"
 "517","(촀\0Hai perso quello che ti ho dato? 
-\0(촀\0Ironia della sorte, s촀 è 2B촀stato il primostata la prima\0 a perderlo.\0\0(
+\0(촀\0Ironia della sorte, s촀 è 2B촀stato il primostata la prima\0 a perderlo.\0\0(
 촀\0Forse il destino di questo oggetto
 è quello di non essere trovaton\0\0
 \0

@@ -133,7 +133,7 @@ dag om is."
 "011_02","(촀\0O,
 \0 n\0!
 \0 Raad eens, schat?!
-\0 (촀\0s\0촀 stond erop dat ik hier zou komen wonen.\0\0(촀\0Dus hier ben ik dan!
+\0 (촀\02\0s\0촀 stond erop dat ik hier zou komen wonen.\0\0(촀\0Dus hier ben ik dan!
 \0 Vanaf vandaag
 ben ik een inwoner van dit eiland,
 \0
@@ -165,14 +165,14 @@ der op het eiland tegen te komen."
 \0 ('촀\0Ik heb je in geen tijden gezien,
 \0 en dat terwijl we op hetzelfde eiland wonen.\0\0(촀\0Inderdaad,
 \0 ik woon inmiddels hier!
-\0( ()촀\0s\0촀 vatte het énige idee op
-\0 dat ik zou verhuizen!\0\0(7촀\0Het spijt me dat we elkaar niet
+\0( ()촀\02\0s\0촀 kwam met de énige vraag
+\0 of ik wilde verhuizen!\0\0(7촀\0Het spijt me dat we elkaar niet
 eerder hebben getroffen.
 \0 (촀\0Ik hoop je
 vanaf nu veel vaker te zien, schat!"
 "014","(촀\02\0n\0n\0\0(,촀\0
 \0( Het spijt me vreselijk dat ik je nog niet ben komen begroeten.\0\0(,촀\0
-\0(s\0촀 stelde voor dat ik hier kwam wonen,
+\0(2\0s\0촀 stelde voor dat ik hier kwam wonen,
 \0 dus (,촀\0
 \0ik ben ern\0\0 maar ik ben helaas ziek geworden.\0\0(,촀\0
 \0(Grutjes!
@@ -513,8 +513,7 @@ beetje presentabel maken.
 daarna verder keuvelen."
 "212","<"
 "212_01","(4촀\0O, n\0!
-\0 Ben je al op de hoogte van het laatste nieuws?\0\0()촀\0Ik was op de \0kampeerplek \0￿met s\0촀 toen 2
-촀hijze\0 me uitnodigde hier te komen wonen.\0\0(촀\0En zo geschiedde!
+\0 Ben je al op de hoogte van het laatste nieuws?\0\0()촀\0Ik was op de \0kampeerplek \0￿met s\0촀 toen 2촀hijze\0 me uitnodigde hier te komen wonen.\0\0(촀\0En zo geschiedde!
 \0( (5촀\0Ik ben een
 officiële bewoner, n\0.\0\0(%촀\0Tot nu toe 
 \0
@@ -781,8 +780,7 @@ buurt te hebben. 
 \0
  het lijkt eeuwen geleden dat we elkaar op de \0kampeerplek \0￿zagen.\0\0()촀\0Tijdens die buitengewoon geslaagde
 vakantie heb ik besloten me hier
-voorgoed te vestigen.\0\0(6촀\0Toen 2
-촀hijze\0 me uitnodigde,
+voorgoed te vestigen.\0\0(6촀\0Toen 2촀hijze\0 me uitnodigde,
 \0 was die lieve s\0촀 zo overtuigend,
 \0
  dat ik simpelweg niet kon weigeren.\0\0(\0촀\0Dat betekent dat ik nu je nieuwe
@@ -795,8 +793,7 @@ net zo dolletjes als ik, n\0."
 \0 (\0촀\0We hebben elkaar hier op de \0kampeerplek \0￿ontmoet.
 \0
 ($촀\0 Weet je nog?\0\0()촀\0Toen heeft s\0촀 me uitgenodigd hier te komen wonen. 
-\0((촀\02
-촀HijZe\0 wist deze plek wel te verkopen!\0\0(""촀\0Het klonk bijna te mooi om waar te
+\0((촀\02촀HijZe\0 wist deze plek wel te verkopen!\0\0(""촀\0Het klonk bijna te mooi om waar te
 zijn.
 \0( (6촀\0Je begrijpt dat ik dit zelf moest
 ervaren.\0\0Welnu, 

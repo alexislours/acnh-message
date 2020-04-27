@@ -6,14 +6,12 @@
 "002","(촀\0Tengo que pedirte un favor,
 \0 corazón:
 \0
-quítame de las manos (촀\0est2촀ea\0 }\0\0,
+quítame de las manos (촀\0est2촀ea\0 }\0\0,
 \0 anda."
-"003","2\0n\0, un pajarito
-me dijo que andabas buscando
-2\0}\0\0n\0\0
-¡Así que he ido y te l2촀oa\0 he comprado!
-¡De nada!\0\0Aunque, ahora que lo pienson\0\0
-¿para qué ibas tú a querer 2촀unouna\0n\0\0?"
+"003","()촀\02\0n\0, un pajarito me dijo que andabas buscando 2\0}\0\0n\0\0\0\0(촀\0¡Así que he ido y te l2촀oa\0 he comprado!
+¡De nada!\0\0(
+촀\0Aunque, ahora que lo pienson\0\0
+¿para qué ibas tú a querer 2촀unouna\0n\0\0?"
 "003_a","Para nada..."
 "003_b","Los pajaritos mienten"
 "004","()촀\0Soy tan organizada que no compro
@@ -31,8 +29,8 @@ que ya he comprado.
 (촀\0Yo ya tengo tres."
 "100","(\0촀\0Es 2\0}\0\0.
 \0
-('촀\0Si no l2촀oa\0 quieres,
-\0 véndel2촀oa\0, n\0.\0\0()촀\0O dónal2촀oa\0 a la beneficencia.
+('촀\0Si no l2촀oa\0 quieres,
+\0 véndel2촀oa\0, n\0.\0\0()촀\0O dónal2촀oa\0 a la beneficencia.
 \0
 Es lo que hago yo (6촀\0cuando
 hay alguien mirando."
@@ -88,9 +86,9 @@ esos pajaritos buenas maneras.
 venderle a \0Tendo\0￿ y \0Nendo\0￿
 \0
 o a quien quieras, n\0n"
-"303","(6촀\0Si no sabes qué hacer con 2촀élella\0,
+"303","(6촀\0Si no sabes qué hacer con 2촀élella\0,
 \0
-a lo mejor algún vecino 2촀lola\0 quiere,
+a lo mejor algún vecino 2촀lola\0 quiere,
 n\0."
 "400","(8촀\0Y disculpa por cargarte con mis
 sobras,

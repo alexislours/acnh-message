@@ -28,7 +28,7 @@ dire: 
 edificio che vorresti spostare,
 
 \0(&촀\0potremmo occuparcene subito, no?"
-"001_01_a","Parliamone."
+"001_01_a","(\0촀\0Parliamone."
 "001_01_b","Adesso no."
 "002","Benissimo!
 \0(&촀\0 E quale edificio vorresti
@@ -73,7 +73,7 @@ Ti costerà \0Z\0\0￿.
 "015_a","Sì, va bene!"
 "015_b","Vorrei pensarci su."
 "021","(""촀\0Sì, sì!! Molto bene!\0\0(촀\0Chiediamo 2\0 s촀 che ne pensa.
-\0(\0촀\0 Dammi solo un attimo per contattarl2촀oa\0n"
+\0(\0촀\0 Dammi solo un attimo per contattarl2촀oa\0n"
 "022","(""촀\0Sì, sì! Molto bene!\0\0(촀\0Vediamo cosa ne pensano \0Mirco \0￿e
 \0Marco\0￿.
 \0(\0촀\0 Dammi solo un attimo per
@@ -91,7 +91,7 @@ te! 
 \0(촀\0Adesso devi scegliere la nuova
 ubicazione dell'\0area per campeggio\0￿."
 "026","Sì, sì! Nelle tue tasche troverai 2\0\0}\0\0\0￿.
-\0 (촀\026촀PosizionaloPosizionala\0 nel luogo desiderato."
+\0 (촀\026촀PosizionaloPosizionala\0 nel luogo desiderato."
 "031","(촀\0Sì, sì! Molto bene! Adesson\0\0\0\0(촀\0Ma aspetta, n\0!
 \0 (촀\0E le stelline?\0\0Il nostro motto è:
 \0()촀\0 ""Se un sogno vuoi
@@ -231,31 +231,31 @@ spostare?"
 una nuova posizione per la casa di
 s촁.
 (&촀\0Ne hai già in mente una?"
-"101_a","Annulliamo tutto."
+"101_a","(\0촀\0Annulliamo tutto."
 "101_b","No, in realtà no."
 "102","Sì, sì, certo. Adesso dovresti cercare
 una nuova posizione per il \0negozio\0￿.
 
 \0(&촀\0Ne hai già in mente una?"
-"102_a","Annulliamo tutto."
+"102_a","(\0촀\0Annulliamo tutto."
 "102_b","No, in realtà no."
 "103","Sì, sì, certo. Adesso dovresti cercare
 una nuova posizione per il \0museo\0￿.
 
 \0(&촀\0C'è qualcosa che non va?"
-"103_a","Annulliamo tutto."
+"103_a","(\0촀\0Annulliamo tutto."
 "103_b","No, in realtà no."
 "104","Sì, sì, certo. Adesso dovresti cercare
 una nuova posizione per la \0sartoria\0￿.
 
 \0(&촀\0C'è qualcosa che non va?"
-"104_a","Annulliamo tutto."
+"104_a","(\0촀\0Annulliamo tutto."
 "104_b","No, in realtà no."
 "105","Sì, sì, certo. Adesso dovresti cercare
 una nuova posizione per l'\0area per
 campeggio\0￿. 
 \0(&촀\0C'è qualcosa che non va?"
-"105_a","Annulliamo tutto."
+"105_a","(\0촀\0Annulliamo tutto."
 "105_b","No, in realtà no."
 "111","(&촀\0Oh, accipicchia! Non sei riuscit2oa a
 trovare una buona posizione?

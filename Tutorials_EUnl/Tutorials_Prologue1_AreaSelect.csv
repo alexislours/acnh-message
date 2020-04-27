@@ -1,6 +1,6 @@
 ﻿"label","text"
 "001","Daarom wil ik je nu graag vragenn\0\0 
-\0Waar woon je, n\0.
+\0Waar woon je, n\0?
 \0(&촃\0d\0\0K Waar ter wereld?\0dd"
 "001_a","Japan."
 "001_b","Ergens anders."
@@ -32,7 +32,7 @@ ergens?"
 "004_c","Europa."
 "004_d","Nee."
 "011","Daarom wil ik je nu graag vragenn\0\0 
-\0Waar woon je, n\0.
+\0Waar woon je, n\0?
 \0(&촃\0d\0\0K Waar ter wereld?\0dd"
 "011_a","Noord-Amerika."
 "011_b","Ergens anders."
@@ -63,7 +63,7 @@ ergens?"
 "014_c","Europa."
 "014_d","Nee."
 "021","Daarom wil ik je nu graag vragenn\0\0 
-\0Waar woon je, n\0.
+\0Waar woon je, n\0?
 \0(&촃\0d\0\0K Waar ter wereld?\0dd"
 "021_a","Europa."
 "021_b","Ergens anders."
@@ -94,7 +94,7 @@ ergens?"
 "024_c","Noord-Amerika."
 "024_d","Nee."
 "031","Daarom wil ik je nu graag vragenn\0\0 
-\0Waar woon je, n\0.
+\0Waar woon je, n\0?
 \0(&촃\0d\0\0K Waar ter wereld?\0dd"
 "031_a","Australië."
 "031_b","Ergens anders."
@@ -226,19 +226,21 @@ eiland(%촃\0 op het zuidelijk halfrond voor
 je zoeken!"
 "301","Misschien moet eerst even worden
 uitgelegd hoe het zit met die twee
-halfrondenn"
+halfrondenn\0\0
+(%촀\0Er zijn er twee: een noordelijk en
+een zuidelijk halfrond."
 "302","()촀\0Op het noordelijk halfrond is het
-winter in januari, lente in april, zomer
-in juli en herfst in oktobern\0\0\0\0(%촀\0Voor eilanden op het zuidelijk
-halfrond is dat omgekeerd.\0\0(촀\0Daar is het dus zomer in januari,
-herfst in april, winter in juli en lente
-in oktober."
+winter in december, lente in maart,
+zomer in juni en herfst in september.\0\0(%촀\0Voor eilanden op het zuidelijk
+halfrond is dat omgekeerd.\0\0(촀\0Daar is het dus zomer in december,
+herfst in maart, winter in juni en
+lente in september."
 "303","()촀\0Op het zuidelijk halfrond is het
-zomer in januari, herfst in april,
-winter in juli en lente in oktobern\0\0\0\0(%촀\0Voor eilanden op het noordelijk
-halfrond is dat omgekeerd.\0\0(촀\0Daar is het dus winter in januari,
-lente in april, zomer in juli en herfst
-in oktober."
+zomer in december, herfst in maart,
+winter in juni en lente in septembern\0\0\0\0(%촀\0Voor eilanden op het noordelijk
+halfrond is dat omgekeerd.\0\0(촀\0Daar is het dus winter in december,
+lente in maart, zomer in juni en
+herfst in september."
 "304_01","(%촀\0Het is nu Z\0, dus het is lente op het noordelijk halfrond en herfst op het zuidelijk halfrond."
 "304_02","(%촀\0Het is nu Z\0, dus het is zomer op het noordelijk halfrond en winter op het zuidelijk halfrond."
 "304_03","(%촀\0Het is nu Z\0, dus het is herfst op het noordelijk halfrond en lente op het zuidelijk halfrond."

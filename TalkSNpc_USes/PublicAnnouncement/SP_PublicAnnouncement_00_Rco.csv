@@ -21,7 +21,7 @@ Es laSon las Z\0:Z\0 del n\0,
 aquellos que se van a dormir tarde.d"
 "003","d\0(촀\0¡Hola, residentes!
 \0 ¡Quiero desearles
-a todos un feliz Año Nuevo!\0\02.Son las
+a todos un feliz año nuevo!\0\02.Son las
 Es laSon las Z\0:Z\0 del n\0,
 Z\0 de Z\0 del Z\0.d"
 "004","d\0(촀\0¡Hola, residentes!
@@ -76,21 +76,30 @@ sí, sí!d"
 "021","d\0(9촀\0(촃\0Y ahora las noticias del dían\0\0d"
 "022","d\0(9촂\0(촃\0Sigamos con las noticiasn\0\0d"
 "031","d\0Y ademásn\0\0d"
+"041_01","d\0(촀\0¡Pronto celebraremos el día
+de la \0Caza del Huevo\0￿!\0\0(%촀\0Lo que significa que pronto
+también empezará a cambiar
+la temperatura, sí, sí.
+(1촀\0Qué rápido pasa el tiempon\0\0d"
+"041_02","d\0(촀\0¡Hoy es la \0Caza del Huevo\0￿!\0\0(촀\0Además vino alguien muy especial
+a celebrarlo con nosotros.
+\0
+(""촀\0Pasen por la plaza a saludarlo, ¿sí?d"
 "101","d\0(촀\0¡Acaba de instalarse en la isla
-2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
+2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
 s촀!d"
 "102","<"
-"102_01","d\0(%촀\0Espero que todos l2촀oa\0 ayuden a
+"102_01","d\0(%촀\0Espero que todos l2촀oa\0 ayuden a
 adaptarse a la vida en n\0.d"
 "102_02","d\0(촀\0Ya verás como todo el mundo te
 recibe con los brazos abiertos.d"
-"102_03","d\0(%촀\0Hoy estará ocupad2촀oa\0 con la mudanza,
+"102_03","d\0(%촀\0Hoy estará ocupad2촀oa\0 con la mudanza,
 pero pasen a presentarse
 cuando tengan la oportunidad.d"
 "200","d\0Ahoran\0\0 ¡Cambiando de tema!d"
 "201","d\0(촀\0Con mucha tristeza les comunico que
 s촀 se irá mañana de la isla.\0\0Aprovechen el día de hoy para
-despedirse de 2촀élella\0, ¿sí?d"
+despedirse de 2촀élella\0, ¿sí?d"
 "600","<"
 "600_01","d\0(촀\0Ah, y una cosa que les quería
 comentarn\0\0d"
@@ -110,12 +119,12 @@ el año con ánimo y alegría, sí, sí!d"
 \0
 (촀\0¡esta noche podremos ver una\0 lluvia
 de estrellas\0￿ en la isla!
-d\0(1촀\0dSerá impresionante ver como surcan
+(1촀\0Será impresionante ver como surcan
 los cielosn\0\0
 \0 (촀\0¡Pediré muchísimos
 deseos,
 \0 sí, sí!
-d\0(촀\0dEspero que todos se animen a salir
+(촀\0Espero que todos se animen a salir
 de sus casas para ver el espectáculo.d"
 "603","d\0(촀\0Ahora mismo,
 \0 si salen al exterior,
@@ -197,7 +206,7 @@ esquema de la \02\0Ȃ촄corona hongos\0￿.
 \0 todos los hongos que
 crecen en la isla son comestibles,
 así que pueden quedarse tranquilos.\0\0(촀\0Sin embargo,
-\0 si viajan a otra isla,
+\0 en cualquier otro lugar,
 \0
 tengan cuidado y no se coman el
 primer hongo que veann\0\0\0\0(%촀\0A veces cuesta diferenciar los que son comestibles de los que no.\0\0()촀\0En caso de duda es mejor
@@ -259,19 +268,19 @@ la naturaleza mientras dure!d"
 (촀\0¡Aprovéchenlo para admirar los
 cerezos en flor mientras disfrutan
 una comida casera al aire libre!d"
-"617_03","d\0(촀\0Atrapen \0d\02\0܁촅pétalos de cerezod \0￿con una
+"617_03","d\0(촀\0Atrapen \02\0܁촅pétalos de cerezo \0￿con una
 \0red\0￿n\0\0
 \0 ¡y úsenlos para crear \0proyectos
 de taller\0￿ primaverales!d"
 "618_01","d\0(1촀\0En mi paseo matutino me puse
-a observar el bambún\0\0\0\0(&촀\0¿Sabían que el bambú joven, conocido como \02\0ā촃tallo de bambú\0￿,
+a observar el bambún\0\0\0\0(&촀\0¿Sabían que el bambú joven, conocido como \02\0ā촃tallo de bambú primaveral\0￿,
 \0
 se recoge en esta época del año?d"
 "618_02_01","d\0(촀\0¡Ah!d"
-"618_02_02","d\0(%촀\0Les envié el esquema del \02\0ā촃canal de bambú para fideos \0￿a \0Creaciones\0￿.\0\0(촀\0Se hace con \0tallos de bambú\0￿,
-\0
-¡así que aprovechen ahora que
-es la época, sí, sí!d"
+"618_02_02","d\0(%촀\0Les envié el esquema del \02\0ā촃canal de bambú para fideos \0￿a \0Creaciones\0￿.\0\0(촀\0Se hace con \0tallos de bambú
+primaveral\0￿,
+\0 ¡así que aprovechen
+ahora que es la época, sí, sí!d"
 "618_03","d\0(%촀\0¡No dejen pasar la oportunidad
 de crear \0proyectos de taller
 \0￿propios de esta época del año!d"
@@ -290,7 +299,7 @@ de romper el hielo!d"
 Nook\0￿ de la oficina de gestión?\0\0()촀\0Pueden ganar millas extras por
 el simple hecho de usarla
 todos los días.
-d\0(촀\0d¡Cuantos más días la usen,
+(촀\0¡Cuantos más días la usen,
 más millas recibirán, sí, sí!d"
 "702_03","d\0(&촀\0¿Ya tuvieron la oportunidad
 de admirar el maravilloso paisaje
@@ -313,7 +322,7 @@ sí, sí!d"
 artículos que pueden conseguir con
 el \0servicio de canje de millas\0￿.d"
 "704","<"
-"704_01","d\0(\0촀\0Hoy les voy a hablar sobren\0\0
+"704_01","d\0(\0촀\0Les voy a hablar sobren\0\0
 \0
 (촀\0¡\02\0촀Mis diseños profesionales\0￿!\0\0(%촀\0Es una actualización de la aplicación
 \0Mis diseños\0￿.(촀\0\0\0()촀\0Les permite editar la paleta de
@@ -326,7 +335,7 @@ profesionales, peron\0\0
 ¡esta actualización es indispensable,
 \0
 sí, sí!d"
-"704_02","d\0(\0촀\0¡Hoy quiero hablarles de las
+"704_02","d\0(\0촀\0¡Quiero hablarles de las
 (촀\0\02\0촀Herramientas fantásticas\0￿!\0\0()촀\0Como su nombre lo indica, son
 esquemas para hacer herramientas
 que no se rompan con facilidad.
@@ -334,7 +343,7 @@ que no se rompan con facilidad.
 más duraderas,
 \0(촀\0 ¡quizás les interese
 canjear algunas millas por esto!d"
-"704_03","d\0(\0촀\0Hoy quiero hablarles de la guían\0\0
+"704_03","d\0(\0촀\0Quiero hablarles de la guían\0\0
 \0
 (촀\0¡\02\0촀Organiza tus herramientas\0￿!\0\0(&촀\0¿Ya se acostumbraron a la vida de
 la isla a tal punto que llevan
@@ -348,7 +357,7 @@ una forma mucho más práctica!\0\0(촀\0Es ideal para acceder rápidamente
 a sus herramientas más preciadas,
 \0
 sí, sí.d"
-"704_04","d\0(\0촀\0Hoy les voy a contar sobre
+"704_04","d\0(\0촀\0Les voy a contar sobre
 la guía
 \0 (촀\0\02\0촀Organiza tus bolsillos\0￿.\0\0(\0촀\0Ya sea viviendo en una isla o no,
 al final uno termina acumulando

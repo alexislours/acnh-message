@@ -2,35 +2,35 @@
 "001","(촀\0He, du. 
 \0Ich bin grad ein bisschen
 pleite.\0\0Willst du mir nicht irgendwas
-abkaufen? Zum Beispiel m2""촀
+abkaufen? Zum Beispiel m2""촀
 eineneineein
 2촁}\0\0?"
 "001_a","(\0촀\0Wie viel?"
 "001_b","Nein, danke."
 "002","(5촀\0Heute ist dein Glückstag. 
 \0Ich
-verkaufe nämlich m2""촀
+verkaufe nämlich m2""촀
 eineneineein
 2촁}\0\0!\0\0(&촀\0Vielleicht kannst du ja was damit
 anfangen?"
 "002_a","(\0촀\0Wie viel?"
 "002_b","Nein, danke."
 "003","(촀\0Da läuft mir ja gerade 24der Richtigedie Richtige
-über den Weg, n\0!\0\0(7촀\0Ich hab nämlich ein klitzekleines
-Problem... finanzieller Art.\0\0(촀\0Um es kurz zu machen: 
-\0Ich verkaufe
+über den Weg,
+\0 n\0!\0\0(7촀\0Ich hab nämlich ein klitzekleines
+Problemn\0\0 finanzieller Art.\0\0(촀\0Um es kurz zu machen: 
+\0Ich verkaufe
 ein paar Sachen.
-\0 Vier, um genau zu
+\0 Vier, um genau zu
 sein.
-\0 (3촀\0Na, Interesse?"
+\0 (3촀\0Na,
+\0 Interesse?"
 "003_a","(\0촀\0Zeig mal her."
 "003_b","Nein, danke."
 "004","(7촀\0He, 
 \0n\0. 
-\0Hörst du
-mal kurz zu?
-\0 (9촀\0Ich habe ein ernstes
-Problem...\0\0(촀\0Immer, wenn ich 2""촀
+\0Hörst du mal kurz zu?
+\0 (9촀\0Ich habe ein ernstes Problem...\0\0(촀\0Immer, wenn ich 2""촀
 eineneineein 2촁}\0\0 sehe,
 \0 schreit mein Hirn:
 \0 KAUFEN!\0\0(촀\0Dementsprechend hab ich davon
@@ -38,7 +38,7 @@ jetzt schon fünf.
 \0 Tja,
 \0 saublöd...\0\0(5촀\0Da kommst du ins Spiel.
 \0
-Willst du mir nicht 2$촀
+Willst du mir nicht 2$촀
 eineneineeins
 davon abkaufen?"
 "004_a","(\0촀\0Wie viel?"
@@ -59,7 +59,8 @@ Nerven.
 Bewohnern den Vortritt lassen?
 \0
 Wie edel von dir, n\0!"
-"008","(촀\0Hmm... Hast du allgemein was
+"008","(촀\0Hmmn\0\0
+\0 Hast du allgemein was
 gegen Secondhandzeugs?
 \0 Dabei
 ist das Ding wie neu!"
@@ -75,7 +76,8 @@ Schulden zu machen. 
 \0(6촀\0Die Sache
 kann auch noch warten!"
 "100","(
-촀\0Mal überlegen... Was hältst du von
+촀\0Mal überlegenn\0\0
+\0 Was hältst du von
 Z?"
 "100_a","Gekauft!"
 "100_b","Dann nicht."
@@ -85,11 +87,9 @@ bevor du's dir noch anders
 überlegt. 
 \0(촀\0Gra ha ha ha!"
 "102","(%촀\0Auf Wiedersehen, 
-\0o du 2$촀mein
-meinemein
-}\0\0! 
-\0((촀\0Leiste
-n\0 gute Dienste!"
+\0o du 2$촀mein
+meinemein }\0\0! 
+\0((촀\0Leiste n\0 gute Dienste!"
 "103","(;촀\0Du verhandelst knallhart, was?
 \0
 Na gut...
@@ -160,8 +160,7 @@ ausgebufft,
 \0 Wer nicht will, der hat schon!"
 "300","(5촀\0Ich sehe, dein Interesse ist geweckt!
 \0
-2\02\0}\0\0
-für Z. 
+2\02\0}\0\0 für Z. 
 \0(&촀\0Bist du dabei?"
 "300_a","Nehme ich!"
 "300_b","Brauch ich nicht."
@@ -174,7 +173,7 @@ schnell wieder zu verprassen!"
 noch im Angebot...
 \0(
 2\02\0}\0\0?\0\0(
-촀\02촀DenDieDas könnte ich dir für Z
+촀\02촀DenDieDas könnte ich dir für Z
 überlassen."
 "303_a","Her damit!"
 "303_b","(\0촀\0Nichts anderes da?"
@@ -193,14 +192,12 @@ veranschlagen.
 \0 So langsam gehen mir die
 Optionen aus. 
 \0(
-촀\0Denk nach,
-n
-\0...\0\0(촀\0Wie wäre es mit 2(촀
+촀\0Denk nach, 
+\0n
+\0...\0\0(촀\0Wie wäre es mit 2(촀
 einem
 einer
-einem
-2촂}\0\0 für
-2Ā\0\0schlappe Z?"
+einem 2촂}\0\0 für 2Ā\0\0schlappe Z?"
 "305_a","Kaufe ich!"
 "305_b","Tut mir leid, aber..."
 "306","(촀\0Du interessierst dich also einen
@@ -210,7 +207,8 @@ auf dem neusten Stand der Mode?
 (5촀\0Nein,
 \0 unmöglich!"
 "400","(
-촀\0Tja... Auf Z könnte ich
+촀\0Tjan\0\0
+\0 Auf Z könnte ich
 noch runtergehen.
 \0 ($촀\0Würde das
 deinen Geiz zufriedenstellen?"
@@ -248,7 +246,7 @@ diesmal wirklich! 
 \0Z\0.
 \0
 Ja oder nein?"
-"405_a","(\0촀\0Naaa gut."
+"405_a","Naaa gut."
 "405_b","Nö, danke."
 "406","(-촀\0Puh!
 \0 Das waren ja mal anstrengende

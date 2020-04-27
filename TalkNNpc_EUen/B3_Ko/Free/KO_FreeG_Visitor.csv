@@ -8,7 +8,7 @@ here on n\0?"
 "001_b","(\0촀\0Sorry, no."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Is that right?
 \0 2\0n촁?
 \0 (6촀\0Well,
@@ -60,10 +60,12 @@ when we do
 \0n\0\0 Just to prove me
 right!
 \0 (촀\0Gahaha!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","('촀\0Can't say I know much about art
 \0n\0\0
 (\0촀\0But I like that there's some in the
@@ -110,57 +112,58 @@ is the 
 \0
 (촀\0Yep, compared to that thing,
 I'm a real spring chicken!"
-"101","<\0fi"
-"102","Got a question for you, kiddo.
+"201","<\0ÊÍ"
+"202","Got a question for you, kiddo.
 \0
-(&촀\0Do you miss livin' here on
-n\0 at all?"
-"102_a","(\0촀\0A little bit."
-"102_b","(\0촀\0Not really."
-"103","(촀\0Just a little bit, huh? 
+(&촀\0Do you miss havin' me around
+on n	\0 at all?"
+"202_a","A little bit."
+"202_b","Not really."
+"203","(촀\0Just a little bit, huh? 
 \0C'mon, you
 can tell me the whole story. I won't
 go blabbin' to just anyone.
 (촀\0Aw, I'm just givin' you a hard
 time. 
-\0(촀\0You can come visit me
-here anytime, n"
-"104","(촀\0Wow, not a nostalgic bone in
+\0(촀\0You come visit me here
+anytime, n\0!"
+"204","(촀\0Wow, not a nostalgic bone in
 your body, eh? 
 \0(6촀\0That's downright
-cold-blooded!
+cold-blooded, n\0!
 (1촀\0Well, I guess that means things
-must be goin' well on your new
-island. 
+must be goin' well back on
+n	\0. 
 \0(촀\0Good stuff!"
-"105","(촀\0Well, if it isn't n\0!
+"205","(촀\0Well, if it isn't n\0!
 \0(
-(촀\0How are things goin' over
-on that new island for you?"
-"105_a","Going great!"
-"105_b","Not bad."
-"105_c","Bahahaha!"
-"106","(촀\0Well, glad to hear it! 
+(촀\0How are things goin' for you
+back on n	\0?"
+"205_a","Going great!"
+"205_b","Not bad."
+"205_c","Bahahaha!"
+"206","(촀\0Well, glad to hear it! 
 \0'Course, I knew
-you'd do just fine anywhere, kiddo.\0\0(촀\0Don't be a stranger to all of us
-on n\0. 
-\0(""촀\0Come back
-and see us anytime!"
-"107","(촀\0Not bad? 
-\0Well, I hope you're just 
+you'd do just fine, kiddo.\0\0(촀\0Well, don't you be a stranger to
+me here on n\0. 
+\0(""촀\0Visit
+anytime you like, n\0."
+"207","(촀\0Not bad? 
+\0Well, I hope you're just
 bein' modest. 
-\0(촀\0Anyhow, as long as 
-you're happy, that's what counts.
+\0(촀\0Anyhow, just be happy.
+\0
+That's what counts, n\0.
 (5촀\0Take it from me. 
 \0I go where the
 wind blows and the 촀
 flows like water. 
 \0(촀\0Gahaha!"
-"108","(촀\0Uhhn\0\0wow. 
+"208","(촀\0Uhhn\0\0wow. 
 \0Did I ask somethin'
 I shouldn't have?\0\0(
 촀\0Maybe you oughta take a break,
 get some fresh air. 
 \0Pick up a
 hobbyn\0\0like 촀n\0\0
-(촀\0Just take a load off, kiddo."
+(촀\0Just take a load off, n\0."

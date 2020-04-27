@@ -2,9 +2,7 @@
 "001","(촀\0Merci d'avoir rapporté ce truc à
 s촀 à ma place!"
 "002","(촀\02\0n\0!
-\0( Tu as fait
-un méga boulot, avec
-s촀. Merci!"
+\0( Tu as fait un méga boulot, avec s촀. Merci!"
 "003","Bon, 
 \0et (&촀\0quelle tête a fait
 s촀?"
@@ -13,12 +11,10 @@ un méga boulot, avec
 "004","Et donc... 
 \0(&촀\0Comment a réagi
 s촀?"
-"004_a","En fait..."
-"004_b","Je me souviens plus!"
+"004_a","(\0촀\0En fait..."
+"004_b","(\0촀\0Je me souviens plus!"
 "005","(
-촀\0Hmm... Si s촀
-s'était mis2촀\0e\0 en colère, tu l'aurais
-remarqué, hein?\0\0(촀\0Alors c'est bon, ça veut dire qu'2촀ilelle\0
+촀\0Hmm... Si s촀 s'était mis2촀\0e\0 en colère, tu l'aurais remarqué, hein?\0\0(촀\0Alors c'est bon, ça veut dire qu'2촀ilelle\0
 m'en veut pas,
 \0 hein?
 \0 Hein?!"
@@ -37,10 +33,7 @@ m'en veut pas,
 une bonne action!\0\0(촀\0Enfin, si s촀 ne m'en veut pas, ça van\0\0
 \0 (촀\0mais, fais attention la prochaine fois!"
 "008","(촀\0Je m'en doutais!
-\0 (%촀\0s촀
-est pas du genre à faire des
-histoires.
-(\0촀\0Mais c'est pas une raison pour
+\0 (%촀\0s촀 est pas du genre à faire des histoires.\0\0(\0촀\0Mais c'est pas une raison pour
 en profiter... 
 \0(7촀\0La prochaine fois,
 je ferai plus attention."
@@ -53,11 +46,8 @@ pas du genre à se fâcher pour rien,
 n\0!
 \0 2\0n\0!"
 "010","(촀\0Ouf!
-\0 C'est bien s촀,
-ça,
-\0 elle est pas du genre à se
-fâcher pour des pruneaux!\0\0(촀\0Merci n\0,
-t'as été grandiose!!!"
+\0 C'est bien s촀, ça,
+\0 elle est pas du genre à se fâcher pour des pruneaux!\0\0(촀\0Merci n\0, t'as été grandiose!!!"
 "011","(촀\0T'es sûr2\0e?
 \0 Tu dis pas ça pour
 me faire plaisir?!
@@ -76,48 +66,32 @@ des histoires!
 \0t'as été super sur
 ce coup-là, n\0!"
 "013","(%촀\0Je vois!
-\0 (촀\0s촀 a pas
-toujours l'air accessible, mais
-il a un bon fond,
-\0 pas vrai?
-(촀\0Tu m'as sauvée, n\0!
+\0 (촀\0s촀 a pas toujours l'air accessible, mais il a un bon fond,
+\0 pas vrai?\0\0(촀\0Tu m'as sauvée, n\0!
 \0
 (촀\0Merci tout plein, n\0!"
 "014","(촀\0T'es sérieu2
 xse?! 
 \0(촀\0Tant mieux!
-\0 
-(8촀\0J'avais peur 2
-que qu'⁠s촀
-soit super méga fâché!
-(촀\0Je me sens déjà plus légère.
+\0 (8촀\0J'avais peur 2
+que qu'⁠s촀 soit super méga fâché!\0\0(촀\0Je me sens déjà plus légère.
 \0 Merci
 n\0, tu es super!"
 "015","(7촀\0Oh...
-\0(\0촀\0 J'aurais dû me douter
-(촀\02
-que qu'⁠s촀 allait pas
-m'en vouloir!
-(촀\0Merci d'avoir géré la livraison, 
+\0(\0촀\0 J'aurais dû me douter (촀\02
+que qu'⁠s촀 allait pas m'en vouloir!\0\0(촀\0Merci d'avoir géré la livraison, 
 n\0!"
 "101","( 촀\0Hé! 
-\0Merci d'avoir rapporté à
-s촀 (촀\0le truc qu'2촀ilelle\0
-avait oublié chez moi!"
-"102","(촀\02\0n\0! Tu as été super,
-en allant voir s촀
-aussi vite! Merci!"
+\0Merci d'avoir rapporté à s촀 (촀\0le truc qu'2촀ilelle\0 avait oublié chez moi!"
+"102","(촀\02\0n\0! Tu as été super, en allant voir s촀 aussi vite! Merci!"
 "103","Et alors, dis-moi,
 \0(&촀\0 comment a réagi
-s촀 en voyant ce que
-tu lui apportais?"
-"103_a","Eh bien..."
-"103_b","Je me souviens plus!"
-"104","Et donc, (&촀\0quelle tête a fait
-s촀 quand tu lui as
-donné son truc?"
-"104_a","En fait..."
-"104_b","J'ai pas fait attention!"
+s촀 en voyant ce que tu lui apportais?"
+"103_a","(\0촀\0Eh bien..."
+"103_b","(\0촀\0Je me souviens plus!"
+"104","Et donc, (&촀\0quelle tête a fait s촀 quand tu lui as donné son truc?"
+"104_a","(\0촀\0En fait..."
+"104_b","(\0촀\0J'ai pas fait attention!"
 "105","(촀\0Ah bon?!
 \0<(7촀\0 Zut, j'aurais bien voulu
 savoirn\0\0\0\0(%촀\0Bah, du moment que son truc
@@ -144,15 +118,11 @@ unen\0\0 pour unen\0\0 (촀\0
 \0On va
 penser que je suis PAS COOL!"
 "108","(촀\0Quoiiii?!
-\0 s촀 a déjà
-acheté un autre exemplaire?\0\0(촀\0Pfff, c'est trop bêten\0\0
+\0 s촀 a déjà acheté un autre exemplaire?\0\0(촀\0Pfff, c'est trop bêten\0\0
 \0 (촀\0J'aurais dû
 lui ramener plus tôtn"
 "109","( 촀\0Oh, 
-\0s촀 s'était même
-pas rendu compte qu'2촀ilelle\0 avait
-oublié un truc chez moi?
-(촀\0C'est cool qu'2촀ilelle\0 l'ait récupéré,
+\0s촀 s'était même pas rendu compte qu'2촀ilelle\0 avait oublié un truc chez moi?\0\0(촀\0C'est cool qu'2촀ilelle\0 l'ait récupéré,
 en tout cas!
 \0 (""촀\0Et c'est grâce à toi,
 n\0!"
@@ -165,13 +135,12 @@ avec s촀! Merci!"
 "203","Et du coup... 
 \0(&촀\0Est-ce 2
 que qu'⁠s촀 a dit quelque chose de spécial?"
-"203_a","En fait..."
-"203_b","Je sais plus."
+"203_a","(\0촀\0En fait..."
+"203_b","(\0촀\0Je sais plus."
 "204","(&촀\0Est-ce 2
-que qu'⁠s촀
-a dit un truc particulier?"
-"204_a","Euh, en fait..."
-"204_b","Me souviens plus..."
+que qu'⁠s촀 a dit un truc particulier?"
+"204_a","(\0촀\0Euh, en fait..."
+"204_b","(\0촀\0Me souviens plus..."
 "205","(7촀\0Ah bon?
 \0 Bah, du moment que
 le paquet a été livré, moi...\0\0(%촀\0Mais je suis sûre que ça lui a fait
@@ -188,9 +157,7 @@ plus faire ça, OK?!"
 \0tu l'as vraiment ouvert?!
 \0
 (촀\0J'y crois pas! 
-\0s촀 a
-dû trouver ça méga bizarre!
-(촀\0J'espère qu'2촀ilelle\0 pense pas que c'est
+\0s촀 a dû trouver ça méga bizarre!\0\0(촀\0J'espère qu'2촀ilelle\0 pense pas que c'est
 moi qui suis méga bizarre, du coup!"
 "208","(;촀\0Alors ça?!
 \0 (촀\0Dire que c'était un
@@ -210,17 +177,15 @@ Merci!"
 \0 Merci
 d'avoir livré mon cadeau
 (""촀\0à s촀!"
-"302","(&촀\0Est-ce qu'2촀ilelle\0 a dit un truc
+"302","(&촀\0Est-ce qu'2촀ilelle\0 a dit un truc
 particulier, au fait?"
-"302_a","En fait..."
-"302_b","J'ai oublié."
+"302_a","(\0촀\0En fait..."
+"302_b","(\0촀\0J'ai oublié."
 "303","Au fait, 
-\0(&촀\0quelle tête a fait
-s촀?
-\0 Est-ce qu'2촀ilelle\0
-a dit un truc de spécial?!"
-"303_a","Eh bien..."
-"303_b","Je ne sais plus!"
+\0(&촀\0quelle tête a fait s촀?
+\0 Est-ce qu'2촀ilelle\0 a dit un truc de spécial?!"
+"303_a","(\0촀\0Eh bien..."
+"303_b","(\0촀\0Je ne sais plus!"
 "304","(촀\0Heeeein?!
 \0(촀\0 Comment je fais pour
 savoir si mon cadeau était méga
@@ -230,9 +195,7 @@ génial ou juste génial, moi?
 on dirait que tu me reproches de
 pas lui avoir apporté moi-mêmen\0\0
 (\0촀\0Bah, c'est pas grave. 
-\0J'aurai
-qu'à demander à s촀
-quand je 2촀lela\0 verrai."
+\0J'aurai qu'à demander à s촀 quand je 2촀lela\0 verrai."
 "305","(촀\0T'es sérieu2
 xse? 
 \0Tu l'as vraiment
@@ -245,8 +208,7 @@ l'emballage pour impressionner
 offre des cadeaux déjà ouverts?!\0\0(
 촀\0Ma mère, p'têtn\0\0
 \0(	촀\0 mais essaie pas de
-détourner le sujet de conversation!\0\0(촀\0Même si s촀 s'en
-fiche,
+détourner le sujet de conversation!\0\0(촀\0Même si s촀 s'en fiche,
 \0 moi ça me dérange!"
 "307","(촀\0Wouah, 
 \0c'est méga génial!
@@ -259,9 +221,7 @@ normal que ça lui ait plu!"
 \0(2촀\0
 C'est cool!"
 "309","(7촀\0Bon... 
-\0Même si s촀 a
-pas essayé mon cadeau dans
-la minute,
+\0Même si s촀 a pas essayé mon cadeau dans la minute,
 \0 ('촀\0ça veut rien dire!"
 "310","Ah bon?
 \0 Pourtant chuis 100 %
@@ -286,18 +246,14 @@ prend même pour une star!
 \0(촀\0 mais au
 moins j'ai pas de mal à lui trouver
 des cadeaux!"
-"314","(촀\0Chuis super contente que ça ait
-plu à s촀!
-\0 C'est pas
-facile de viser juste avec elle...
-Ce serait presque plus facile
+"314","(촀\0Chuis super contente que ça ait plu à s촀!
+\0 C'est pas facile de viser juste avec elle...\0\0Ce serait presque plus facile
 (촀\0d'espionner ses conversations pour
 savoir exactement ce qu'elle veut!
 (4촀\0Presquen"
 "315","(촀\0On dirait que ça a fait plaisir à s촀, alors!\0\0C'est chouette, parce que j'avais
 vraiment pas d'autre idée!"
-"316","(촀\0s촀 a aimé mon
-cadeau?
+"316","(촀\0s촀 a aimé mon cadeau?
 \0 Super!\0\0(%촀\0Bon, 
 \0en même temps(촀\0 il aime à
 peu près tout, lol!
@@ -321,18 +277,17 @@ que faire plaisir à s촀!"
 cadeau à s촀!"
 "402","(촀\0Et, 
 \0euhn\0\0
-\0 Tu peux me dire
-(&촀\0si s촀 était toujours
-fâché2촀\0e\0?"
-"402_a","En fait..."
-"402_b","Je me rappelle pas."
+\0 Tu peux me dire (&촀\0si s촀 était toujours
+fâché2촀\0e\0?"
+"402_a","(\0촀\0En fait..."
+"402_b","(\0촀\0J'ai pas fait attention!"
 "403","(촀\0Et, 
 \0du coupn\0\0
 \0(&촀\0 Est-ce que t'as eu
 l'impression 2
 que qu'⁠s촀
-était toujours fâché2촀\0e\0?"
-"403_a","Eh bien..."
+était toujours fâché2촀\0e\0?"
+"403_a","(\0촀\0Eh bien..."
 "403_b","Aucune idée."
 "404","(촀\0Hein?!
 \0 Mais c'était le truc le plus
@@ -354,15 +309,15 @@ désolée..."
 "406","(촀\0De quoi?
 \0 Tu l'as ouvert?!
 \0 Et tu n'as
-même pas dit à s촀 que c'était toi qui l'avais ouvert?\0\0(촀\02촀IlElle\0 va penser quoi de quelqu'un
+même pas dit à s촀 que c'était toi qui l'avais ouvert?\0\0(촀\02촀IlElle\0 va penser quoi de quelqu'un
 qui envoie un cadeau d'excuses
 sans l'emballer avant?
 (촀\0Bouaaaah!
 \0<(촀\0 Si ça se trouve,
-2촀ilelle\0 voudra plus jamais me voir
+2촀ilelle\0 voudra plus jamais me voir
 de TOUTE LA VIE!"
 "407","(촀\0Pfiouuun\0\0
-\0 (촀\0s촀 était même pas fâché2촀\0e\0, alors?!\0\0(%촀\0Grâce à toi, tout va redevenir
+\0 (촀\0s촀 était même pas fâché2촀\0e\0, alors?!\0\0(%촀\0Grâce à toi, tout va redevenir
 comme avant, n\0!
 \0
 (촀\0Merci tout plein, n\0!"
@@ -376,10 +331,7 @@ demandé de livrer?
 moi-même!"
 "502","( 촀\0Ah, 
 \0n\0!
-\0(\0촀\0 Tu as
-encore (&촀\0ce que s촀
-a oublié chez moi?
-()촀\0Finalement, je vais pouvoir lui
+\0(\0촀\0 Tu as encore (&촀\0ce que s촀 a oublié chez moi?\0\0()촀\0Finalement, je vais pouvoir lui
 ramener moi-même, 
 \0alors tu veux
 bien me le rendre?"
@@ -392,10 +344,7 @@ moi-même, 
 \0alors tu pourrais
 me le rendre, steuplè?"
 "504","(8촀\0Dis,
-\0 t'as pas encore apporté
-mon cadeau à s촀,
-hein?
-J'me suis décidée à y aller
+\0 t'as pas encore apporté mon cadeau à s촀, hein?\0\0J'me suis décidée à y aller
 moi-même finalement,
 \0 alors
 (&촀\0tu pourrais me le rendre?"
@@ -418,10 +367,7 @@ pas rendu ça avant!"
 soit moi qui m'en charge.
 (""촀\0Désolée de t'avoir embêté2\0e avec
 mes histoires, n\0!"
-"508","($촀\0J'veux dire, s촀
-a sûrement hâte de recevoir
-son paquet, alors...
-(%촀\0Bref, je m'en occupe!(\0촀\0 Désolée,
+"508","($촀\0J'veux dire, s촀 a sûrement hâte de recevoir son paquet, alors...\0\0(%촀\0Bref, je m'en occupe!(\0촀\0 Désolée,
 (""촀\0j'aurais jamais dû te demander un
 truc pareil, n\0!"
 "509","(7촀\0Tu vois,
@@ -434,9 +380,7 @@ ma place, n\0!"
 "510","(9촀\0Quand on veut s'excuser, on y va
 soi-même, sinon ça sert à rien et
 (촀\0c'est trop la honte.
-(%촀\0Je vais dire à s촀 que
-je suis super désolée, (촀\0et 2촀ilelle\0 sera
-obligé2촀\0e\0 de me pardonner, hi hi!"
+(%촀\0Je vais dire à s촀 que je suis super désolée, (촀\0et 2촀ilelle\0 sera obligé2촀\0e\0 de me pardonner, hi hi!"
 "511","(촀\0C'est pas vrain\0\0 Mais pourquoi
 tu l'as ouvert?!\0\0(촀\0Va falloir que je refasse l'emballage,
 maintenant...

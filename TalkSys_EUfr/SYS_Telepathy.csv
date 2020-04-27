@@ -1,8 +1,8 @@
 ﻿"label","text"
 "001","Il n'y a pas assez de place pour
-l'installer par ici."
-"002","Il n'y a pas assez de place pour
-l'accrocher par ici."
+mettre ça ici."
+"002","Il n'y a nulle part où l'accrocher
+par ici."
 "003","Il n'y a pas assez de place pour
 installer ce tapis dans cette pièce."
 "003_01","Il n'y a pas assez de place ici
@@ -40,8 +40,8 @@ de ça, tu as de la compagnie."
 "022","Une décoration de porte... c'est fait
 pour décorer la porte de ta maison !"
 "023","Ce n'est pas le moment d'installer
-une clôture, tu pourrais avoir
-de la compagnie."
+une clôture, tu risques d'être
+interrompu2\0e par des visiteurs."
 "024","Ce n'est pas le moment de déposer
 ça par terre, tu as de la compagnie."
 "025","Il y a déjà une décoration
@@ -54,11 +54,18 @@ accéder à l'aéroport !"
 "028","Tu ne peux pas accrocher de
 décoration de porte sur le devant
 de ta tente."
+"029","Il te faut tenir une pelle pour planter
+un arbre dans un trou."
+"030","Tu ne peux rien planter si d'autres
+joueurs sont trop près de toi."
 "051","Tu ne peux plus rien mettre ici.
 Il n'y a pas assez de place !"
 "052","Tu ne peux plus rien installer
 dans cette pièce. Elle est déjà
 pleine à craquer !"
+"061","À Photopia, appuie sur \0 \0￿pour
+changer de décor, puis sélectionne
+ pour porter un motif perso !"
 "101","Tu ne peux pas modifier cette falaise
 car il y a quelque chose dessus."
 "102","Si tu modifies le terrain ici, la falaise
@@ -115,8 +122,9 @@ tu ne peux plus rien y mettre."
 "404","Tu ne peux pas utiliser
 ceci pour le moment."
 "405","Tu n'as rien à retirer..."
-"406","Il te faut plus de place
-pour lancer des appâts."
+"406","Tu dois lancer l'appât dans une
+étendue d'eau susceptible d'abriter
+des poissons."
 "407","Tu ne peux pas te changer
 pendant une transformation !"
 "408","Tu connais déjà ce plan de bricolage."
@@ -188,3 +196,15 @@ tu ne peux rien porter de plus !"
 "514","Boîte de recyclage réservée aux
 résidents 2
 de d'⁠n\0."
+"600","Tu ne peux pas télécharger
+un motif personnalisé quand
+tu as de la compagnie."
+"601","Tu ne peux pas télécharger un motif
+personnalisé quand l'accès est
+ouvert."
+"602","Tu ne peux pas télécharger
+un motif personnalisé quand
+tu visites une autre île."
+"603","Pour pouvoir télécharger un motif
+personnalisé, va d'abord à l'aéroport
+et désactive la communication."

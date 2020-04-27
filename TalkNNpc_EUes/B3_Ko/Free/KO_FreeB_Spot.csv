@@ -47,9 +47,9 @@ preferencias,
 ¿no te (
 촀\0gustaría tener una casa
 de verdad?
-(촀\0Aunque sí eres feliz así,
-\0 ¡bien por ti,
-n\0!"
+(촀\0Aunque, si eres feliz así,
+\0
+¡bien por ti, n\0!"
 "005","촊(
 촀\0Bueno,
 \0 es una casa bastante
@@ -64,7 +64,7 @@ mansión te queda,
 \0 (촀\0¡ja, ja, ja!"
 "006","촊(촀\0¡Anda,
 \0 cuánto espacio!
-\0 촆(1촀\0¡Hasta 2 촀ella\0 últim2 촀oa\0 촀 de mi colección cabría aquí,
+\0 촆(1촀\0¡Hasta 2!촀ella\0 últim2!촀oa\0 촀 de mi colección cabría aquí,
 \0 n\0!"
 "007","(촀\0Oye,
 \0 me han dicho que has añadido
@@ -83,9 +83,8 @@ que detrás de una casa así hay
 mucho trabajo,
 \0 n\0."
 "009","촊(촀\0¡Qué casa tan amplia tienes!
-\0 (촀\0
 \0
-¿Ya tienes cosas para llenarla?\0\0촆(6촀\0Incluso sin la segunda planta,
+(촀\0¿Y está toda llena de cosas?\0\0촆(6촀\0Aunque solo tenga una planta,
 \0
 ¡menudo castillo te estás montando,
 \0
@@ -175,8 +174,7 @@ antigua como yo,
 s\0촀.
 (1촀\0Me pregunto cómo será la vista
 desde arriban"
-"019","(촀\0¡Así que s\0촀 se
-ha construido un sótano!\0\0(촀\0Me encantan los sótanos.
+"019","(촀\0¡Así que s\0촀 tiene un sótano!\0\0(촀\0Me encantan los sótanos.
 \0 Son como
 un búnkern\0\0
 \0 Tienen algo de aventura.\0\0(
@@ -275,6 +273,7 @@ estrambóticos."
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","()촀\0Quizá te sorprenda saber que desde
 mi juventud me gustan mucho
 los museos.\0\0(촀\0Qué tiemposn\0\0
@@ -293,12 +292,12 @@ pensamiento n
 
 \0?"
 "120","(촀\0El otro día estaba en el \0museo\0￿ y me
-fijé por casualidad en 2(촀ununa\0 pequeñ2(촀oa\0
+fijé por casualidad en 2)촀ununa\0 pequeñ2)촀oa\0
 
 n\0\0
 (
 촀\0Me trajo recuerdos de cuando
-era joven y podía tocarl2(촀oa\0s tan
+era joven y podía tocarl2)촀oa\0s tan
 tranquilamente.
 ('촀\0Pero con los años me he vuelto más
 sensible,

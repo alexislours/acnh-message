@@ -41,8 +41,8 @@ wilt hebben!"
 deur in huis vallen.\0\0(4촀\0Ik vroeg me af of je interesse had
 om mee te werken aan de bouwn\0\0
 
-\0(!촀\0van een nieuwe \0winkel\0￿!\0\0()촀\0Zoals je weet, is onze kleine eiland-
-gemeenschap aan het groeien, en
+\0(!촀\0van een \0winkel\0￿!\0\0()촀\0Zoals je weet, neemt het aantal
+huiseigenaren zoals jij toe, en
 daarmee ook onze behoeften.\0\0(1촀\0Ik zou meer spullen willen aanbieden,
 maar zoals je ziet, zitten we hier om
 ruimte verlegen.\0\0(5촀\0Ik heb al even overlegd met meneer
@@ -64,7 +64,7 @@ het eiland zal hebben!\0\0(%촀\0En dat is maar goed ook, want we
 zullen een heleboel nodig hebben!\0\0()촀\0We zullen je natuurlijk ook belonen
 voor al je harde werk!"
 "012_02_a","((촁\0Oké!"
-"012_02_b","Oké, ik help je."
+"012_02_b","Natuurlijk help ik je."
 "012_03","
 \0((촀\0Ontzettend bedankt!"
 "012_04","()촀\0Ik weet dat het veel is, maar ik heb
@@ -79,9 +79,8 @@ materialen vandaan komen. 
 nu van dit eiland of een ander is!\0\0()촀\0En je hoeft je niet te haasten,
 \0 oké?
 \0(촀\0
-(촀\0Bomen lopen niet zomaar weg!\0\0Zodra je er van iets 30 hebt,
-moet je me maar weer even bij
-me langskomen! "
+(촀\0Bomen lopen niet zomaar weg!\0\0Zodra je er van iets \030 \0￿hebt, moet je
+maar weer even bij me langskomen!"
 "013","(촀\0Welkom, n\0!
 \0 (\0촀\0Hoe kan ik je vandaag van dienst zijn?"
 "013_a","Over die winkel..."
@@ -184,7 +183,7 @@ winkel te beginnen."
 van de winkel hebt verzameld, 
 \0is de
 eer aan jou!
-Welke eer, 
+(8촀\0Welke eer, 
 \0vraag je je misschien af?"
 "057","(4촀\0Nog één dingn\0\0
 \0 Nu we alle materialen
@@ -194,7 +193,7 @@ bouw van de winkeln"
 in deze onderneming, de perfecte
 locatie voor de winkel uitkiest!"
 "058_02","(촀\0Zet een mooi plekje af met dat
-\0winkelbouwpakket\0￿, en dan beginnen
+\0winkelbouwpakket\0￿ en dan beginnen
 wij met de bouw.\0\0(촀\0Ik ben ontzettend benieuwd welke
 locatie je voor ons gaat uitkiezen!"
 "061","(
@@ -418,7 +417,7 @@ voor je hulp!"
 \030 ijzerklompjes\0￿.
 \0 Alvast bedankt
 voor je hulp!"
-"103_02_04","(촀\0n\0\0\030\0￿ stuks \0hout,\0￿ \0hardhout\0￿, en
+"103_02_04","(촀\0n\0\0\030\0￿ stuks \0hout,\0￿ \0hardhout\0￿ en
 \0zachthout\0￿.
 \0 Alvast bedankt voor je
 hulp!"

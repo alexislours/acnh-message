@@ -1,4 +1,19 @@
 ﻿"label","text"
+"010","O, hoi, n\0! Wist je dat je nu kaarten kunt sturen naar vrienden met wie je hebt gespeeld?"
+"020","(9촀\0Voor je deze dienst kunt gebruiken,
+\0
+
+\0moet ik je wat extra informatie geven
+van onze juristen van De Gier.
+($촀\0Kun je dit even doorlezen om te
+voorkomen dat ik in de problemen
+kom?"
+"040","(촀\0Zo! 
+\0Hebben we dat ook gehad.
+\0
+(&촀\0Wil je nu een kaart sturen?"
+"040_a","Ja, graag!"
+"040_b","Laat maar."
 "050","(촀\0O, wil je een kaart sturen?
 \0( (2촀\0Ehn\0\0
 Dat kan op zich wel, maarn\0\0
@@ -12,6 +27,20 @@ even dichtgooi?"
 \0 Goed, dan
 gooi ik nu de gate even dicht!"
 "052","(촀\0Oké, we zijn er klaar voor!"
+"053","(촀\0O, wil je een kaart sturen?\0\0(2촀\0Ehn\0\0 Nou ja, geen probleem, maarn\0\0
+\0(
+ik ben niet zo goed in multitasken.\0\0(&촀\0Vind je het goed als ik dan even de
+verbinding verbreek?"
+"053_a","Ga je gang!"
+"053_b","Nee, wacht..."
+"054","(촀\0Bedankt voor je begrip. 
+\0Goed, de
+verbinding isn\0\0
+\0 verbroken."
+"055","(촀\0Jij bent de baas!\0\0()촀\0Ik laat de dingen zoals ze zijn,
+\0(촀\0 maar
+als je je bedenkt en het postkantoor
+wilt gebruiken, weet je me te vinden!"
 "070","(&촀\0Wil je een kaart sturen?"
 "070_a","Ja, graag!"
 "070_b","Een andere keer."
@@ -19,6 +48,11 @@ gooi ik nu de gate even dicht!"
 "080_a","Een bewoner hier."
 "080_b","Mijn toekomstige ik."
 "080_c","Hm, laat maar..."
+"081","(촀\0Goed. Waar moet je kaart heen?(\0촀"
+"081_a","Een bewoner hier."
+"081_b","Mijn toekomstige ik."
+"081_c","Een vriend of vriendin."
+"081_e","Hm, laat maar..."
 "200","(%촀\0Begrepen. Iemand op dit eiland.
 (&촀\0Naar wie dan precies?"
 "210_01","Naar s\0촀? Geen probleem!"
@@ -36,21 +70,74 @@ er even geen meer aannemen.\0\0(촀\0Kun je straks terugkomen? 
 \0Dan
 kan ik mijn zaakjes eerst op orde
 brengen."
+"301","(촀\0Goed! Wie wil je een kaart sturen?"
+"311","()촀\0Hmn\0\0 
+\0()촀\0Zo te zien kun je nu geen
+kaarten naar vrienden sturen.\0\0Als je dat wel wilt doen, schakel je in
+het ouderlijk toezicht VRIJE
+COMMUNICATIE MET ANDEREN in."
+"312","(
+촀\0O, je hebt nog geen adressen van
+vrienden. 
+\0(촀\0Bezoek een vriend online
+om een kaart te kunnen sturen!"
 "320","( 촀\0O, 
 \0blijkbaar heb je vandaag al twee kaarten naar s\0촀 gestuurd.\0\0(\0촀\0Morgen kun je meer kaarten sturen,
 \0(촀\0
 dus ik ben bang dat je nog even moet
 wachten."
+"321","(%촀\0Oké, dan gaan we nu je post
+verzenden!"
+"350","( 촀\0O, stuur je voor het eerst een kaart
+naar Nintendo? Helaas hebben ze
+daar ('촀\0geen tijd om te reageren.
+()촀\0Maar misschien gebruiken ze je kaart
+wel op de officiële website of op de
+sociale media van Nintendo.
+Let er daarom op dat je geen
+persoonlijke informatie op je kaart
+zet.
+(촀\0Oké, dat was alle blablabla waar ik je
+op moet wijzen. Veel plezier bij het
+schrijven!"
+"351","(촀\0O, 
+\0je gaat een kaart naar Nintendo
+sturen? 
+\0((촀\0Geweldig!"
+"352","( 촀\0O! 
+\0Zo te zien heb je al twee kaarten
+naar Nintendo gestuurd 
+\0((9촀\0en dat is het
+maximale aantal.\0\0(촀\0Je kunt ze morgen weer een kaart
+sturen, 
+\0dus je zult nog even moeten
+wachten."
+"353","Oké, dan nemen we nu contact op
+met Nintendon"
+"380","( 촀\0Hm. 
+\0(Zo te zien is het niet gelukt.
+\0( (&촀\0
+\0Wil
+je dat ik het meteen opnieuw probeer
+of wacht je liever even?"
+"380_a","Probeer het meteen!"
+"380_b","Het heeft geen haast."
+"381","Prima, maar je had al betaald, 
+\0($촀\0dus
+die klingels krijg je weer terug."
+"382","(촀\0En natuurlijk ook het cadeau dat
+bij de kaart zat!"
 "400",""
 "401","(촀\0En hoe ver wil je dit ding de
 toekomst in sturen?"
 "402","Dus je wilt 'm versturen naar(&촀\0
-Z$촀 Z#촀 Z""촀?"
+\0Z$촀 Z#촀 Z""촀\0￿?"
 "402_a","Dat klopt."
 "402_b","Nee, wacht..."
 "410","Heb ik het fout? Sorry. Kun je
 het nog een keer herhalen?"
-"415","(\0촀\0Okidoki! O, 
+"415","(\0촀\0Okidoki! 
+\0(촀\0O, 
 \0wacht eens! Blijkbaar
 heb je al een kaart verstuurd naar de
 n\0 in de toekomst.\0\0()촀\0Als je nog een kaart naar de
@@ -128,8 +215,7 @@ plek om cadeaus te bewaren,
 \0 dus je
 krijgt dit terug van mij."
 "552","(촀\0Ik ben hier om je te helpen!"
-"600","(촀\0Wil je een kaart sturen?\0\0(%촀\0Ik heb er hier eentje die je voor s\0촀 aan het schrijven was.
-"
+"600","(촀\0Wil je een kaart sturen?\0\0(%촀\0Ik heb er hier eentje die je voor s\0촀 aan het schrijven was."
 "601","(촀\0Wil je een kaart sturen?\0\0(%촀\0Ik heb er hier eentje die je voor s촀 aan het schrijven was."
 "602","(촀\0Wil je een kaart sturen?\0\0(%촀\0Ik heb er hier eentje die je voor je
 toekomstige zelf aan het schrijven
@@ -154,7 +240,19 @@ sturen? 
 "620","Naar wie wil je 'm sturen?"
 "620_a","Een bewoner hier."
 "620_b","Mijn toekomstige ik."
+"621","Naar wie wil je 'm sturen?"
+"621_a","Een bewoner hier."
+"621_b","Mijn toekomstige ik."
+"621_c","Een vriend of vriendin."
+"621_d","Nintendo."
+"625","O, je hebt al voor deze bezorging
+betaald. Ik zal het geld teruggeven
+zodat je iemand anders kunt kiezen."
 "630","(%촀\0Oké, dan gooi ik deze kaart weg."
+"631","(%촀\0Oké, de kaart gaat naar de papierbak.
+
+\0Dan geef ik je nu de 200 klingels
+terug die je al had betaald."
 "800","(촀\0Bedankt voor je bezoek!"
 "801","(%촀\0Luid en duidelijk. 
 \0Geef maar een gil

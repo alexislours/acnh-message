@@ -1,10 +1,14 @@
 ﻿"label","text"
-"0001","Are you sure you're OK with
-\0s\0촀\0￿?"
+"0001","Are you OK with \0s\0촀\0￿?
+\0K\0The world of Animal Crossing is
+welcoming to all, so don't include
+personal info or offensive words.\0￿\0d"
 "0001_a","Rethink It"
 "0001_b","OK"
-"0003","Do you want to suggest the name
-\0\0s촀\0￿?"
+"0003","Are you OK with \0\0s촀\0￿?
+\0K\0The world of Animal Crossing is
+welcoming to all, so don't include
+personal info or offensive words.\0￿\0d"
 "0003_a","Rethink It"
 "0003_b","OK"
 "0004","You've included a word or phrase
@@ -51,6 +55,10 @@ can register!"
 "0202_a","Close"
 "0301","Your pockets are too full to hold this."
 "0301_a","Close"
+"0303_a","Close"
+"0304_a","Close"
+"0307","Receiving new mail."
+"0308","Verifying data."
 "0310","Hold on just a sec, OK?"
 "0321","You can't favorite a message if you
 haven't even read it yet!"
@@ -60,12 +68,25 @@ messages!"
 "0332","You can favorite up to Z\0 messages."
 "0333","You can't throw away message cards
 that have presents attached!"
+"0334","You've received a message card from
+a friend! You can create and send
+message cards at the airport."
+"0335","Once a message card is received, it
+is saved on the Nintendo Switch
+system and can't be received again.
+Unreceived message cards are
+stored on the server for 90 days.
+After 90 days, they are deleted.\0\0You can have up to 300 message
+cards saved on the server. Once you
+exceed that amount, message cards
+will be deleted in order from oldest to
+newest, and the deleted cards can't
+be received."
 "0402","Enter a future day, OK?"
 "0501","You don't have anywhere to put
 the clothes you're removing."
 "0502","Select something to register!"
-"0503","You don't have anything you
-can remove."
+"0503","Nothing to remove right now."
 "0504","\0\0You can now use your closet to edit
 wand outfits!\0￿\0\0If you use the \0Edit Wand Outfits
 \0￿option to create outfits, you can later
@@ -93,10 +114,48 @@ homes\0￿, \0custom designs\0￿, and other
 content. Please be mindful of the
 content you share with others as you
 enjoy communicating with them."
-"0802_a","I understand."
+"0802_a","I Understand"
 "0803","Sorry, that island can't accommodate
 any more visitors right now."
 "0803_a","Back"
+"0804","\0Be considerate\0￿! Please do not share
+illegal content, personal information,
+content that infringes on the rights
+of others, or content that irritates
+others.\0\0Please don't cheat or behave in a
+way that would irritate other players.
+The Nintendo Code of Conduct
+applies to in-game behavior and any
+shared content.\0\0If your content or behavior is
+deemed to violate the Nintendo Code
+of Conduct, action can be taken,
+including deleting content from the
+server or restricting access to online
+play.\0\0You can press \0\0￿ to report
+inappropriate content and behavior.
+
+Please be mindful of the Nintendo
+Code of Conduct, and be
+considerate of other players."
+"0804_a","I Understand"
+"0805","The session was forcibly ended
+because a visitor or host didn't end
+a conversation or close a window
+within a set amount of time.
+Your save data will be reverted to
+the last time it was updated."
+"0805_a","I Understand"
+"0806","Destination info cannot be shown
+due to a communications error."
+"0806_a","Back"
+"0810","Do you want to try to connect
+to the internet again?"
+"0810_a","Give Up"
+"0810_b","Try Again"
+"0820","Your profile could not be sent. If this
+process fails repeatedly, please retake
+your profile photo and try again."
+"0820_a","Close"
 "0921","You can make up to two posts during
 one trip."
 "0921_a","OK"
@@ -136,9 +195,6 @@ for \0Z\0\0?\0￿"
 order will be delivered shortly to
 your home through the mail."
 "1108_a","OK"
-"1109","Your order for \0s\0촀\0￿
-has been received!"
-"1109_a","OK"
 "1111","Catalog orders are limited to a
 maximum of 5 items per customer
 per day."
@@ -155,24 +211,68 @@ and cancel your order for
 "1114","This item is not for sale and can't be
 ordered right now."
 "1114_a","Close"
+"1115","Who is this going to?"
+"1115_a","A resident."
+"1115_b","A friend."
+"1115_c","Go back."
+"1116","The item could not be sent.
+Do you want to try again?"
+"1116_a","Cancel."
+"1116_b","Try again."
+"1117","Connecting to the internet..."
+"1118","Sending item...
+\0\0Do not touch  while saving.\0￿"
+"1119","The item's cost of \0Z\0\0￿
+will be returned."
+"1119_a","OK"
+"1120","The item was sent off to
+\0s\0촀\0￿."
+"1120_a","OK"
+"1121","You can't place orders while
+company is around."
+"1121_a","Close"
+"1122","You can't place orders while you're
+visiting another player's island."
+"1122_a","Close"
+"1123","You can't place orders while the
+airport gate is open."
+"1123_a","Close"
+"1124","You can't place orders at this time.
+Please close the connection at the
+airport counter."
+"1124_a","Close"
 "1201","Are you sure you want to delete
-""s촀""?"
+\0s촀\0￿?"
 "1201_a","Actually, no."
 "1201_b","Delete it."
 "1202","Are you sure you want to delete
-""s촀,""
-designed by s\0촀?"
+\0s촀\0￿,
+designed by \0s\0촀\0￿?"
 "1202_a","Actually, no."
 "1202_b","Delete it."
 "1203","Select a custom design that can
 be deleted."
 "1203_a","OK"
 "1204","Are you sure you want to delete
-""s촀,""
-saved by s\0촀?"
+\0s촀\0￿,
+saved by \0s\0촀\0￿?"
 "1204_a","Actually, no."
 "1204_b","Delete it."
-"1300","Your save data will be deleted.
+"1221","Are you sure you want to overwrite
+\0s촀\0￿?"
+"1221_a","Actually, no."
+"1221_b","Overwrite it."
+"1222","Are you sure you want to overwrite
+\0s촀\0￿,
+designed by \0s\0촀\0￿?"
+"1222_a","Actually, no."
+"1222_b","Overwrite it."
+"1224","Are you sure you want to overwrite
+\0s촀\0￿,
+saved by \0s\0촀\0￿?"
+"1224_a","Actually, no."
+"1224_b","Overwrite it."
+"1300","Deleting save data.
 \0\0Do not touch the  POWER Button.\0￿"
 "1308","The system is set to a date outside
 the supported range.\0\0Please close the game from the
@@ -201,7 +301,7 @@ via the System Settings in the
 HOME Menu and restart the game."
 "1328","キャラクターの\0\0
 なまえ名前や
-ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが
 このまま\0\0はじ始めますか？
 
 Character names and UI elements
@@ -300,7 +400,7 @@ Do you still want to start playing?"
 "1338_a","Нет / No"
 "1338_b","Да / Yes"
 "1339","캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Character names and UI elements
@@ -316,7 +416,7 @@ vary from language to language.
 Do you still want to start playing?"
 "1340_a","否 / No"
 "1340_b","是 / Yes"
-"1341","角色名稱或遊戲內的顯示將會改變，
+"1341","角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Character names and UI elements
@@ -328,8 +428,7 @@ Do you still want to start playing?"
 ホームHOMEメニューの　\0\0せってい設定で
 \0\0もと元の\0\0
 げんご言語に　\0\0もど戻してから
-ゲームを\0\0
-さいきどう再起動してください。
+ゲームを\0\0さいかい再開してください
 
 Please revert your language settings
 via the System Settings in the
@@ -417,14 +516,15 @@ HOME Menu and restart the game."
 Please revert your language settings
 via the System Settings in the
 HOME Menu and restart the game."
-"1355","請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+"1355","請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Please revert your language settings
 via the System Settings in the
 HOME Menu and restart the game."
 "1356","\0\0ぜんかい前回プレイ\0\0じ時と
-\0\0げんごせってい言語設定が\0\0こと異なるようです。
+\0\0げんごせってい言語設定が\0\0こと異なるようです
 
 It looks like your language settings
 have changed since the last time
@@ -509,7 +609,7 @@ have changed since the last time
 you played."
 "1366_a","Далее / Next"
 "1367","지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 It looks like your language settings
 have changed since the last time
@@ -521,12 +621,105 @@ It looks like your language settings
 have changed since the last time
 you played."
 "1368_a","下一页 / Next"
-"1370","語言設定似乎與上次遊玩時不同。
+"1370","語言設定似乎與上次遊玩時不同
 
 It looks like your language settings
 have changed since the last time
 you played."
 "1370_a","下一頁 / Next"
+"1372","The save data will now be updated
+due to the new release version."
+"1372_a","OK"
+"1373","Updating save datan\0\0
+\0\0Do not touch .\0￿"
+"1374","The save data has been updated
+and the game will now start."
+"1374_a","OK"
+"1401","Sent a Best Friend request to
+\0s\0촀\0￿."
+"1402","You're now Best Friends with
+\0s\0촀\0￿."
+"1403","You've withdrawn your request to
+\0s\0촀\0￿."
+"1404","You've rejected the request from
+\0s\0촀\0￿."
+"1405","The Best Friend designation between
+you and \0s\0촀\0￿ has been
+removed."
+"1405_a","OK"
+"1406","You cannot send a request because
+you've reached the Best Friends limit."
+"1406_a","OK"
+"1407","You cannot send a request because
+you've reached your request limit."
+"1407_a","Back"
+"1408","You can't send a request because
+the person you want to send it to has
+reached their request limit."
+"1408_a","Back"
+"1409","You can't become Best Friends
+because you've reached the Best
+Friends limit."
+"1409_a","Back"
+"1410","You can't become Best Friends
+because you've reached your
+limit for requests."
+"1410_a","Back"
+"1411","This request has already been
+withdrawn."
+"1411_a","Back"
+"1412","You can't remove someone from
+your Best Friends List while you are
+playing with them."
+"1412_a","Back"
+"1413","The other person has performed an
+action, so the list will now update."
+"1413_a","OK"
+"1414","Are you sure you want to stop being
+Best Friends?"
+"1414_a","Back"
+"1414_b","Stop"
+"1430","You can't use this when a local
+wireless connection is active."
+"1430_a","Back"
+"1431","You can't use this when playing with
+other residents via Party Play."
+"1431_a","Back"
+"1432","At least one Best Friend is required
+before you can toggle this option."
+"1432_a","Back"
+"1433","The list must be updated before
+your request can be processed.
+Would you like to update the list now?"
+"1433_a","Back"
+"1433_b","Update"
+"1450","An internet connection is required to
+use this feature. Do you want to
+connect to the internet?"
+"1450_a","Never mind."
+"1450_b","Connect."
+"1451","Enable this communication feature?"
+"1451_a","Never mind."
+"1451_b","Enable it."
+"1452","Disable this communication feature?"
+"1452_a","Never mind."
+"1452_b","Disable it."
+"1453","Please press \0\0￿ to enable the
+communication feature and the
+ability to send messages."
+"1453_a","OK"
+"1454","\02\0s\0촀\0￿ is offline, so you
+can't send messages to them
+right now."
+"1454_a","Back"
+"1455","You can't send messages when no
+other players are online."
+"1455_a","Back"
+"1456","Communication has been turned off
+since the network connection was
+disrupted. Please turn it on and try
+again."
+"1456_a","Back"
 "1501","Are you sure you want to discard
 your changes?"
 "1501_a","Keep editing!"
@@ -565,9 +758,42 @@ can turn off flight mode."
 "1701","This isn't any different from your
 current home!"
 "1701_a","Back"
-"1801","2\0s\0촀 doesn't have a
+"1801","\02\0s\0촀\0￿ doesn't have a
 home yet and can't receive mail."
 "1801_a","Back"
+"1900","Report \0s\0촀\0￿?"
+"1900_a","Cancel."
+"1900_b","Send report."
+"1920","Report process complete."
+"1920_a","OK."
+"1921","The report could not be sent."
+"1921_a","Never mind."
+"1921_b","Try again!"
+"1930","You can't send reports when using
+local wireless communication."
+"1930_a","Back"
+"1931","You have not connected to the
+internet yet, so you can't send a
+report."
+"1931_a","Back"
+"1932","You cannot report this post."
+"1932_a","Back"
+"1933","You cannot report this card."
+"1933_a","Back"
+"1936","You can't report this displayed
+design."
+"1936_a","Back"
+"1938","You can't submit a report on your
+own account."
+"1938_a","Close"
+"1940","This post was not made by an online
+player. A report can be sent instead
+for \0s\0촀\0￿, who has not
+deleted the post."
+"1941","This custom-design display was not
+made by an online player. A report
+can be sent for \0s\0촀\0￿,
+who has not deleted the design."
 "2001","You don't have enough Bells."
 "2001_a","Close"
 "2002","You don't have room in your pockets
@@ -583,6 +809,39 @@ purchase in your pockets or storage."
 picked out?"
 "2005_a","No, thanks."
 "2005_b","Yeah!"
+"2101","Do you want to connect to the
+internet and download a custom
+design made for Nintendo 3DS
+games?"
+"2101_a","Back"
+"2101_b","Download"
+"2102","A custom design named
+\0s촀\0￿ was
+found. Please select a save slot."
+"2102_a","Back"
+"2102_b","OK!"
+"2103","A Pro custom design named
+\0s촀\0￿ was
+found. Please select a save slot."
+"2103_a","Back"
+"2103_b","OK!"
+"2110","We couldn't find any downloadable
+custom designs made for
+Nintendo 3DS games.
+
+Please access \0NookLink\0￿ from the
+Nintendo Switch Online app to scan
+a QR Code."
+"2120","You've unlocked the Pro design tab."
+"2140","\0Pro Designs\0￿
+Pro designs offer players greater
+control over the finer details of their
+designs.\0\0You'll need to upgrade your Custom
+Designs app to edit or create Pro
+designs. \0\0Even if you don't upgrade,
+you can still wear Pro designs.\0￿\0\0You can upgrade the Custom Designs
+app by redeeming Nook Miles at the
+\0Nook Stop\0￿ in \0Resident Services\0￿."
 "2201","You don't currently have any savings."
 "2202","You can't add more to your savings."
 "2203","You have no room for a withdrawal!"
@@ -591,6 +850,97 @@ any Bells that don't fit in your bank
 account will be lost. Is that OK?"
 "2301_a","Nope."
 "2301_b","Sell anyway!"
+"2401","Content you've set in your profile
+is in violation of the Nintendo
+Code of Conduct. Please review your
+passport photo and/or profile
+comment and adjust them so they
+won't cause discomfort to other
+players who may view them."
+"2401_a","I Understand"
+"2421","\0\0Please Read Before Posting Designs\0￿
+The custom designs you post can
+be viewed by other players around
+the world.\0\0Please do not post designs that
+contain illegal content or would make
+other players uncomfortable.\0\0Posted designs can be deleted from
+the server if they are deemed to be
+inappropriate and in violation of the
+Nintendo Code of Conduct."
+"2421_a","I Understand"
+"2422","Your creation is posted! The design
+ID is \0촀\0￿.
+Would you like to share this info
+on social media?"
+"2422_a","No"
+"2422_b","Share It"
+"2423","Your creation could not be posted.
+Would you like to try again?"
+"2423_a","No."
+"2423_b","Try again."
+"2424","Are you done using the kiosk?"
+"2424_a","Keep using it."
+"2424_b","All done!"
+"2425","Thank you for your interest in
+posting designs!\0\0You are now registered as a creator.
+Your ID is \0촀\0￿.
+You can check your creator ID at
+any time from the Passport app on
+your NookPhone."
+"2425_a","Got it!"
+"2427","Would you like to post another
+creation?"
+"2427_a","Back to Menu"
+"2427_b","Post Design"
+"2428","You've reached the limit for the
+number of custom designs you can
+post. Please select one to delete."
+"2428_a","Got it!"
+"2429","You don't seem to have any custom
+designs of your own. Please try again
+after you've made a custom design."
+"2429_a","Got it!"
+"2430","It seems this design has already
+been posted.
+\0\0You can repost it if you edit it.\0￿"
+"2430_a","Back"
+"2431","Searching custom designs..."
+"2432","You entered your own creator ID.
+Do you want to view your own
+designs, \0n\0\0￿?"
+"2432_a","Back"
+"2432_b","View Mine"
+"2433","There is no design listed with the ID
+of \0촀\0￿.
+Would you like to enter the ID again?"
+"2433_a","Back to Menu"
+"2433_b","Redo"
+"2434","There are no designs for creator
+ID \0촀\0￿.
+Would you like to enter the ID again?"
+"2434_a","Back to Menu"
+"2434_b","Redo"
+"2435","The custom design has been deleted."
+"2436","Please select a design to post."
+"2437","\02\0s촀\0￿...
+Are you sure you want to
+delete this custom design?"
+"2437_a","Cancel"
+"2437_b","Delete"
+"2438","You don't have any posted designs."
+"2438_a","Back"
+"2439","The Custom Designs app will now
+open. Please select a save slot."
+"2440","You have entered the design ID of
+one of your own designs. Do you
+want to view your designs?"
+"2440_a","Back"
+"2440_b","View Mine"
+"2441","An error has prevented the design
+from being shared on social media."
+"2501","Each player can send up to 2
+messages per day online through
+Nook Shopping."
 "3001","A voucher you can \0sell \0￿in the shop
 for \03,000 Bells\0￿.
 \0\0This voucher is issued immediately.\0￿"
@@ -723,8 +1073,8 @@ edition of \0Custom Designs\0￿.\0\0The Pro edition allows you to:
 custom designs with the Pro
 editing features!"
 "5053","\0\0Custom Designs Marked With \0￿
-Custom designs you did not make are
-marked with \0\0\0￿.\0\0You cannot edit custom designs with
+Custom designs you did not make
+are marked with \0\0\0￿.\0\0You cannot edit custom designs with
 \0\0\0￿. If you want to use that design slot,
 you'll have to delete that design first."
 "5061","\0Map\0￿
@@ -747,6 +1097,25 @@ path is blocked and you're stuck!\0\0You'll be sent to a place such as
 your home or Resident Services.
 \0\0Nook Miles are generally required
 to use this service.\0￿"
+"5101","\0Best Friends List\0￿
+You can use this app to check which
+friends and Best Friends you've
+played with.\0\0When you are Best Friends with
+another player, you can tell when
+they are playing online.\0\0If both of you are online, you can use
+the internet to send direct messages
+to each other.\0\0\0\0If you do not want others to know if
+you are online, or if you do not want
+to exchange messages, press  to
+enable or disable this feature.\0￿"
+"5102","You can now download custom
+designs uploaded via NookLink by
+reading QR Codes made in
+Nintendo 3DS games.
+\0\0Please access NookLink under
+Game-Specific Services in the
+Nintendo Switch Online app for info
+on reading custom design QR Codes.\0￿"
 "5111","\0Island Designer\0￿
 This app helps you develop and
 shape the island through
@@ -771,6 +1140,16 @@ anytime, anywhere, thanks to this
 handy-dandy app!
 Shop at your own pace in a way that
 matches your own style!"
+"5122","\0Chat Log\0￿
+You can use this app to review the
+conversations you've had with other
+players anywhere, anytime!
+Maybe you didn't get a chance to
+read something someone said while
+you were playing together.\0\0Or maybe you want to reread a
+message sent from a Best Friend
+who lives far away. Sounds like a
+pretty convenient app, right?"
 "5201_00_01","\0\0Party Play\0￿
 Island residents can play together in
 Party Play, where one player is the
@@ -788,22 +1167,21 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-\0Resident Services recycle box\0￿."
+will be sent to the \0recycle box\0￿ in
+\0Resident Services\0￿."
 "5201_00_02","\0\0Horizontal Joy-Con Controls\0￿
 \0Leader\0￿
 \0\0￿ Open NookPhone
 \0\0￿ Control camera / Swap tools
-
 \0Followers
 \0￿ Equip / Swap tools"
 "5201_00_03","\0Leader Horizontal Joy-Con Controls\0￿
-\0\0￿ Open NookPhone / \0 \0￿Reactions
-\0\0￿ Control camera / Swap tools
+\0 \0￿Open NookPhone / \0 \0￿Reactions
+\0 \0￿Control camera / Swap tools
 
 \0Follower Horizontal Joy-Con Controls
-\0￿ Equip / Swap tools
-\0 \0￿Reactions / \0\0￿ Repeat Reaction"
+ \0￿Equip or Swap tools / \0 \0￿Reactions
+\0 \0￿Pick up / \0\0￿ Repeat Reaction (if known)"
 "5201_00_04","\0\0Controls
 \0￿\0Leader\0￿
 Same controls as in normal play.
@@ -814,9 +1192,9 @@ Same controls as in normal play.
 Same controls as normal play.
 
 \0Follower Controls
- \0￿Equip / Swap tools
-\0 \0￿Reactions
-\0 \0￿Repeat Reaction"
+ \0￿Equip or Swap tools
+\0 \0￿Pick up / \0 \0￿Reactions
+\0 \0￿Repeat Reaction (if known)"
 "5201_01","\0\0Party Play\0￿
 Island residents can play together in
 Party Play, where one player is the
@@ -834,13 +1212,12 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-\0Resident Services recycle box\0￿.
+will be sent to the \0recycle box\0￿ in
+\0Resident Services\0￿.
 \0\0Horizontal Joy-Con Controls\0￿
 \0Leader\0￿
 \0\0￿ Open NookPhone
 \0\0￿ Control camera / Swap tools
-
 \0Followers
 \0￿ Equip / Swap tools"
 "5201_02","\0\0Party Play\0￿
@@ -860,15 +1237,15 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-\0Resident Services recycle box\0￿.
+will be sent to the \0recycle box\0￿ in
+\0Resident Services\0￿.
 \0Leader Horizontal Joy-Con Controls\0￿
-\0\0￿ Open NookPhone / \0 \0￿Reactions
-\0\0￿ Control camera / Swap tools
+\0 \0￿Open NookPhone / \0 \0￿Reactions
+\0 \0￿Control camera / Swap tools
 
 \0Follower Horizontal Joy-Con Controls
-\0￿ Equip / Swap tools
-\0 \0￿Reactions / \0\0￿ Repeat Reaction"
+ \0￿Equip or Swap tools / \0 \0￿Reactions
+\0 \0￿Pick up / \0\0￿ Repeat Reaction (if known)"
 "5201_03","\0\0Party Play\0￿
 Island residents can play together in
 Party Play, where one player is the
@@ -886,8 +1263,8 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-\0Resident Services recycle box\0￿.
+will be sent to the \0recycle box\0￿ in
+\0Resident Services\0￿.
 \0\0Controls
 \0￿\0Leader\0￿
 Same controls as in normal play.
@@ -911,15 +1288,15 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-\0Resident Services recycle box\0￿.
+will be sent to the \0recycle box\0￿ in
+\0Resident Services\0￿.
 \0Leader Controls\0￿
 Same controls as normal play.
 
 \0Follower Controls
- \0￿Equip / Swap tools
-\0 \0￿Reactions
-\0 \0￿Repeat Reaction"
+ \0￿Equip or Swap tools
+\0 \0￿Pick up / \0 \0￿Reactions
+\0 \0￿Repeat Reaction (if known)"
 "5202","Congratulations on the construction
 of your new home! Here are a few
 tips for comfortable living:\0\0\0 Turn lights on or off
@@ -933,6 +1310,39 @@ Access your home's storage to
 stash or retrieve items.\0\0When in your home, you can open
 your pockets to select furniture or
 other items and put them in storage."
+"5203","\0Chat\0￿ with other players!\0\0Press \0 \0￿to send messages to
+everyone you are playing with.\0\0You can also use the \0Chat Log\0￿ app on
+your NookPhone to see past messages."
+"5301","During \0Party Play\0￿, changes made to
+custom designs you're wearing will
+not be shown automatically.
+
+To show off the changes to a
+custom design, select the updated
+design and choose \0Wear\0￿."
+"5302","You have saved over a custom design
+that you are currently wearing.
+
+To show off the changes to a
+custom design, select the updated
+design and choose \0Wear\0￿."
+"5303","You have registered a custom design
+to a transformation outfit. The design
+on the outfit will not disappear even if
+that design is changed with the editor.\0\0However, if the custom design is
+changed and you alter the outfit later
+or try to store it, please be aware that
+part of the outfit will be lost."
+"5304","This outfit includes a custom design.
+The custom design will not be stored.
+Do you still want to store this outfit?"
+"5304_a","No"
+"5304_b","Yes"
+"5305","\0\0Customizable Phone Case Kits\0￿
+These kits can be used to change
+the appearance of your NookPhone.\0\0If you use a custom design, your
+NookPhone will keep its appearance
+even if that design is changed later."
 "8001","\0Currently, there is existing resident
 data for n\0 on this
 Nintendo Switch system that is not
@@ -998,7 +1408,21 @@ different resident, please start the
 game using the user account for that
 resident.
 Then you can press  on the title
-screen to access the save data
-settings and delete that resident."
+screen to access the settings
+and delete that resident."
 "8013","To close this screen, please close
 the game from the HOME Menu."
+"8014","The Nintendo Account linked to this
+user is different than it was before.\0\0Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you play again.\0\0Do you want to start playing again
+as \0s\0촀\0￿?"
+"8014_a","I'm not sure."
+"8014_b","Yes."
+"8015","This user does not have a Nintendo
+Account linked.\0\0Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you play again.\0\0Do you want to start playing again
+as \0s\0촀\0￿?"
+"8015_a","I'm not sure."
+"8015_b","Yes."

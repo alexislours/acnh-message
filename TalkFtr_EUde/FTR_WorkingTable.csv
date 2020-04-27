@@ -1,37 +1,33 @@
 ﻿"label","text"
-"001","Soll ich etwas herstellen oder
-umgestalten?"
-"001_01","Soll ich etwas herstellen oder
-umgestalten?"
-"001_01_a","Ja, etwas herstellen!"
-"001_01_b","Nein, jetzt nicht."
-"001_a","Ja, etwas herstellen!"
-"001_b","Ja, umgestalten!"
-"001_c","Nein, jetzt nicht."
+"001","Was soll ich tun?"
+"001_01","Was soll ich tun?"
+"001_01_a","Etwas herstellen!"
+"001_01_b","Nichts..."
+"001_a","Etwas herstellen!"
+"001_b","Etwas umgestalten!"
+"001_c","Nichts..."
 "002","Dies ist eine Werkbank zum \0Basteln\0￿."
-"011","Soll ich an \0Tom Nooks \0￿Werkbank
-etwas herstellen?"
-"011_01","Soll ich an \0Tom Nooks \0￿Werkbank
-etwas herstellen?"
-"011_01_a","(\0촁\0Ja!"
-"011_01_b","Ja, umgestalten!"
-"011_01_c","(\0촁\0Jetzt nicht..."
-"011_02","Soll ich an \0Tom Nooks \0￿Werkbank
-etwas herstellen?"
-"011_02_a","(\0촁\0Ja!"
+"011","Was soll ich an \0Tom Nooks
+\0￿Werkbank tun?"
+"011_01","Was soll ich an \0Tom Nooks
+\0￿Werkbank tun?"
+"011_01_a","(\0촁\0Etwas herstellen!"
+"011_01_b","Etwas umgestalten!"
+"011_01_c","(\0촁\0Nichts..."
+"011_02","Was soll ich an \0Tom Nooks
+\0￿Werkbank tun?"
+"011_02_a","(\0촁\0Etwas herstellen!"
 "011_02_b","Umgestaltungskurs."
-"011_02_c","(\0촁\0Jetzt nicht..."
-"011_a","(\0촁\0Ja!"
-"011_b","(\0촁\0Jetzt nicht..."
-"021","Soll ich an dieser Werkbank
-etwas anfertigen?"
-"021_01","Soll ich an dieser Werkbank
-etwas anfertigen?"
-"021_01_a","Ja, etwas herstellen!"
-"021_01_b","Nein, jetzt nicht."
-"021_a","Ja, etwas herstellen!"
-"021_b","Ja, umgestalten!"
-"021_c","Nein, jetzt nicht."
+"011_02_c","(\0촁\0Nichts..."
+"011_a","(\0촁\0Etwas herstellen!"
+"011_b","(\0촁\0Nichts..."
+"021","Was soll ich an dieser Werkbank tun?"
+"021_01","Was soll ich an dieser Werkbank tun?"
+"021_01_a","Etwas herstellen!"
+"021_01_b","Nichts..."
+"021_a","Etwas herstellen!"
+"021_b","Etwas umgestalten!"
+"021_c","Nichts..."
 "022","\0\0Auf fremden Inseln kannst du beim
 Umgestalten keine eigenen Designs
 verwenden.\0￿"

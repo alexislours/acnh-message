@@ -181,7 +181,7 @@ macht dann \098.000 Sternis\0￿, 
 "012_04_01","(\0촀\0(촀\0
 \0Ahn\0\0
 \0(\0촀\0 Keine Bange.
-\0 Du kannst ihn in
+\0 Du kannst ihn
 in großen oder kleinen Schritten
 zurückzahlen.\0\0(촀\0Rückzahlungen erfolgen über den
 \0Bankautomaten\0￿ des \0NookPortals\0￿."
@@ -193,7 +193,7 @@ Insel-Pakets.\0\0(촀\0Kredite müssen in Sternis
 zurückgezahlt werden.\0\0(\0촀\0(촀\0
 \0Ahn\0\0
 \0(\0촀\0 Keine Bange.
-\0 Du kannst ihn in
+\0 Du kannst ihn
 in großen oder kleinen Schritten
 zurückzahlen.\0\0(촀\0Rückzahlungen erfolgen über den
 \0Bankautomaten\0￿ des \0NookPortals\0￿."
@@ -312,10 +312,20 @@ Das macht \01.248.000 Sternis\0￿, 
 \0hm?"
 "061_04","(\0촀\0Außerdem ist da noch etwas...\0\0(촀\0Du kannst jetzt bei uns auch die
 Fassade deines Hauses anpassen
-lassen!\0\0(촀\0Dach, Fassade, Tür und Briefkasten...
+lassen!\0\0(촀\0Dach, 
+\0Fassade, 
+\0Tür
+\0 und Briefkasten...
 \0
 Da steht dir jetzt einiges an
-Möglichkeiten offen!"
+Möglichkeiten offen!\0\0(\0촀\0Ach übrigens, 
+\0deinen \0Briefkasten
+\0￿kannst du nicht nur umgestalten,
+\0
+(%촀\0sondern auch \0umpositionieren\0￿!\0\0()촀\0Hebe ihn einfach mithilfe von \0\0￿ hoch
+
+\0(촀\0und stelle ihn dann am gewünschten
+Ort auf."
 "071_01","(촀\0Jetzt hast du also einen Keller.\0\0Nicht viele Leute haben ein Haus,
 \0
 das so beeindruckend ist wie deines!"

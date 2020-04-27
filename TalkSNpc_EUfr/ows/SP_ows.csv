@@ -52,8 +52,8 @@ souvent un peu bizarresn\0\0
 \0( (촀\0mais
 j'essaierai de te raconter ça bien !"
 "011","(&촀\0Ouh ouh ! Je peux t'aider ?"
-"011_a","Regarde ça !"
-"011_b","Parlons un peu !"
+"011_a","(\0촀\0Regarde ça !"
+"011_b","(\0촀\0Parlons un peu !"
 "012","(촀\0Ouh ouh ! 
 \0Ça c'estn\0\0
 \0 2\0}\0\0 !"
@@ -402,23 +402,21 @@ tu sais où me trouver !"
 "101","(촀\0Bien le bonsoir, ouh ouh !
 \0(
 (\0촀\0Tu habites sur cette île ?"
-"102","(촀\0C'est donc toi, n\0 !
-\0
-(촀\0Ravie de te rencontrer. Moi c'est
+"102","(촀\0Oh, mais c'est toi, l2ea fameu2
+xse n\0 !\0\0(촀\0Ravie de te rencontrer. Moi c'est
 \0Céleste\0￿ ! 
-\0\0Thibou\0￿ m'a parlé de toi.
+\0(%촀\0Tu connais peut-être mon
+frère, \0Thibou\0￿ ?\0\0(\0촀\0Il est conservateur de \0musée\0￿.
+\0 Tu t'en
+souviens forcément si tu l'as croisé !
 \0
-(촀\0\0Thibou\0￿, c'est mon frère. 
-\0Il m'a
-raconté comment tu l'as aidé à ouvrir
-son \0musée\0￿. 
-\0(3촀\0Il aime beaucoup parler !
-(%촀\0Merci pour tout ce que tu as fait pour
-lui en tout cas,
-\0 c'est trop gentil.(2촀\0
-\0
-Il ne mérite pas tant d'efforts !
-\0d(\0촀"
+
+\0( 촀\0C'est une incorrigible pipelette.
+(촀\0Mais c'est ce qui fait son charmen\0\0
+À condition que tu ne sois pas trop
+pressé2\0e, ouh ouh !\0\0(2촀\0Oh, mais voilà que je me mets à
+pépier, moi aussi !
+\0 Brefn"
 "103","()촀\0Sur le conseil de \0Thibou\0￿, je
 suis venue ici pour regarder
 les étoiles etn"

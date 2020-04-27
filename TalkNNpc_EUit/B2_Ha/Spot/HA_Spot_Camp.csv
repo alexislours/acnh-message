@@ -108,30 +108,22 @@ chilometrica quando ho ricevuto il
 tuo invito.
 \0( (촀\0Grazie, n\0!"
 "202","<"
-"202_01","($촀\0Come stai?
-\0 Io sono n
-\0!\0\0(\0촀\0Sono stato invitato qui dan\0\0
+"202_01","($촀\0Ehilà, 
+\0come stai?\0\0(\0촀\0Sono stato invitato qui dan\0\0
 
 \0qualcuno.
 \0( (
 촀\0Se solo mi ricordassi
 il suo nome, potrei ringraziarlo!"
-"202_02","($촀\0Come va? 
-\0Sono n
-\0.
-\0 Piacere di conoscerti, n\0.\0\0(%촀\0Qualcuno mi ha invitato qui per una
+"202_02","($촀\0Come va, n\0?\0\0(%촀\0Qualcuno mi ha invitato qui per una
 gara di sollevamento pesi.
 \0 (5촀\0È tutta la
 settimana che mi alleno!"
-"202_03","(""촀\0Come va?
-\0 Non ci siamo ancora
-presentati, vero?
-\0 Io mi chiamo
-n
-\0.\0\0(촀\0Che posto mitico! 
-\0Dopo aver ricevuto
-l'invito, sono corso subito qui,
-n\0!"
+"202_03","(""촀\0Come va? 
+\0(촀\0Questo posto è mitico!
+
+\0Dopo aver ricevuto l'invito, sono
+corso subito qui, n\0!"
 "301","<"
 "301_01","()촀\0C'è chi non è tagliato per vivere in
 una tenda, 
@@ -209,15 +201,14 @@ compagno d'allenamento! 
 saremo vicini di casa!\0\0(%촀\0Sono stato reclutato da s\0촀 per un torneo di 촀.
 \0 (촀\0Non vedo l'ora!"
 "402_02","(9촀\0E così, pare che mi trasferirò quin\0\0\0\0(
-촀\0Mi si è 22
-촀avvicinatoavvicinata\0 s\0촀 e sono rimasto ipnotizzato dai suoi tricipitin\0\0\0\0(촀\0Poi non ricordo più nullan\0\0 So solo
+촀\0Mi si è 22촀avvicinatoavvicinata\0 s\0촀 e sono rimasto ipnotizzato dai suoi tricipitin\0\0\0\0(촀\0Poi non ricordo più nullan\0\0 So solo
 che ho una voglia irrefrenabile di
 venire a vivere qui, n\0."
 "402_03","(%촀\0Stai cercando un nuovo compagno
 d'allenamento? 
 \0(촀\0Allora sei a cavallo!
 
-\0Sto per trasferirmi qui, n\0!\0\0(6촀\0Mi sono unito a s\0촀 e al suo nuovo programma di esercizi per le braccia. 
+\0Sto per trasferirmi qui, n\0!\0\0(6촀\0Mi sono unito 2\0 s\0촀 e al suo nuovo programma di esercizi per le braccia. 
 \0(5촀\0Che fortuna, eh?"
 "403","<"
 "403_01","( 촀\0Quasi dimenticavo di dirti che avrai

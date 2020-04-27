@@ -6,7 +6,7 @@
 "001_b","Ni idea"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0¡Muy bien!
 \0 (촀\0Mis amigos fuera
 de la isla siempre me piden
@@ -39,10 +39,12 @@ algún día será un gran edificio lleno
 de interesantes exposiciones.
 (촀\0Qué ganas tengo de que llegue
 ese día, n\0."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0¿Has visitado nuestro \0museo\0￿?
 \0
 ()촀\0Tiene muchas cosas interesantes
@@ -71,14 +73,14 @@ hay expuesto un ejemplar de
 \0
 me hace mucha ilusión que podamos
 disfrutar de esa joya."
-"101","<\0fi"
-"102","(촀\0A veces me acuerdo de lo mucho
+"201","<\0ÊÍ"
+"202","(촀\0A veces me acuerdo de lo mucho
 que nos divertíamos cuando éramos
 vecin2oas,
 \0 ¿tú no?"
-"102_a","Claro que me acuerdo"
-"102_b","Bueno... no mucho..."
-"103","(촀\0¡Ay, qué bien que no sea solo yo!
+"202_a","Claro que me acuerdo"
+"202_b","Bueno... no mucho..."
+"203","(촀\0¡Ay, qué bien que no sea solo yo!
 \0
 Me apenaba que quizá mi amistad
 no hubiese significado mucho para ti.
@@ -87,37 +89,39 @@ escribí algunos poemas sobre lo
 mucho que te echaba de menosn\0\0
 (촀\0Perdona, no quería que sonara raro.
 \0
-Mejor olvida lo que he dicho."
-"104","(촀\0Rábanos,
+Mejor olvida lo que he dicho,
+n\0."
+"204","(촀\0Rábanos,
 \0 te he hecho sentir
 incómod2oa,
 \0 perdona,
 \0 ('촀\0pero no
 tienes por qué.
-(촀\0La vida sigue y que no te acuerdes
+(촀\0La vida sigue,
+\0 y que no te acuerdes
 significa que tienes una vida muy
 plena,
 \0(%촀\0 ¡lo cual me alegra!
 (촀\0Hay que dejar el pasado atrás para
 poder vivir nuevas aventuras,
 (촀\0n\0n"
-"105","(4촀\0¿Puedo hacerte una pregunta, flor?
+"205","(4촀\0¿Puedo hacerte una pregunta, flor?
 \0
 (&촀\0¿Me recuerdas diferente a como soy
 ahora?
 \0 ¿Crees que he cambiado?"
-"105_a","Un poco sí..."
-"105_b","No, eres la misma"
-"106","(촀\0¿Entonces se me nota?
+"205_a","Un poco sí..."
+"205_b","No, eres la misma"
+"206","(촀\0¿Entonces se me nota?
 \0
 (촀\0¡Ay, qué bien, n\0!\0\0(4촀\0He intentado corregir mi postura
 para parecer más cercana y abierta.\0\0(촀\0Me hace ilusión que te hayas dado
 cuenta,
 \0 (촀\0porque significa que me
 conoces mejor de lo que pensaba."
-"107","(촀\0¡Uf, menos mal!\0\0()촀\0Últimamente notaba que mi energía
+"207","(촀\0¡Uf, menos mal!\0\0()촀\0Últimamente notaba que mi energía
 no estaba del todo equilibrada y
 eso me preocupaba.
 (촀\0Pero si tú dices que estoy igual,
 \0
-¡me quedo más tranquila!"
+¡me quedo más tranquila, n\0!"

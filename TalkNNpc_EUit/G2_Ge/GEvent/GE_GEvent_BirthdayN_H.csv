@@ -45,8 +45,8 @@ regalo mi hai portato!
 Dopotutto, 
 \0mi conosci 
 \0così bene!"
-"005_a","Buon compleanno!"
-"005_b","Un regalo? Ups..."
+"005_a","(\0촀\0Buon compleanno!"
+"005_b","(\0촀\0Un regalo? Ups..."
 "006","(촀\0Le feste di compleanno 
 \0sono 
 \0proprio
@@ -67,8 +67,8 @@ essere
 \0 Immediatamente?
 Cioèn\0\0 Per favore?
 \0 Per favoreeeee?"
-"006_a","Vai con il regalo!"
-"006_b","Mi sono dimenticat2oa..."
+"006_a","(\0촀\0Vai con il regalo!"
+"006_b","(\0촀\0Mi sono dimenticat2oa..."
 "007","( 촀\0Ohn\0\0
 (""촀\0Beh, 
 \0ma sì, 
@@ -311,7 +311,7 @@ Ehi, n\0, non vorrei
 
 \0Me lo hai portato un regalo?"
 "060_a","(\0촀\0Puoi scommetterci!"
-"060_b","Ho brutte notizie..."
+"060_b","(\0촀\0Ho brutte notizie..."
 "061","(""촀\0Vuoi che sia sincera con te?
 \0
 (2촀\0OK! Non vedevo l'oran\0\0 di ricevere
@@ -322,7 +322,7 @@ un regalo da ten\0\0 Ecco, ora lo sai.\0\0(촀\0Sarebbe troppo sconvolgent
 \0Adoro le
 sorprese!"
 "061_a","(\0촀\0Buon compleanno!"
-"061_b","Ooops..."
+"061_b","(\0촀\0Ooops..."
 "062","(1촀\0Cioèn\0\0 Amo le torten\0\0 e i regalin\0\0
 e avere tanti amici a casa mian\0\0
 Il mix perfetto per un compleanno!
@@ -330,8 +330,8 @@ Il mix perfetto per un compleanno!
 \0
 (2촀\0Tu sei 2$un amicoun'amican\0\0 a casa mian\0\0
 la torta c'èn\0\0 Manca solo il regalo!"
-"062_a","Ecco qui!"
-"062_b","Avrei dovuto?"
+"062_a","(\0촀\0Ecco qui!"
+"062_b","(\0촀\0Avrei dovuto?"
 "064","( 촀\0Levi le tende?
 \0 (촀\0Mi ha fatto un cifra
 piacere averti qui!\0\0(""촀\0Grazie per il regalo!
@@ -411,5 +411,5 @@ nella stessa isola!
 regali?
 (5촀\0No, dai, un regalo basta e avanzan\0\0
 per me!"
-"100_a","Ecco il regalo per te!"
-"100_b","Ooops. Niente regali."
+"100_a","(\0촀\0Ecco il regalo per te!"
+"100_b","(\0촀\0Ooops. Niente regali."

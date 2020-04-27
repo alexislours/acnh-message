@@ -5,10 +5,11 @@ maar, eh,
 \0 wil je toevallig mijn 2촃}\0\0 kopen?"
 "001_a","(\0촀\0Voor hoeveel?"
 "001_b","Nee, dank je."
-"002","(촀\0Wat vind je hiervann\0\0 Ik dacht(%촀\0
+"002","(촀\0Wil jij iets van mij kopen?
+\0( Ik dacht(%촀\0
 dat jij wel geïnteresseerd zou zijn in
 \0
-(촀\02 촀dezeditdeze 2촃}\0\0!"
+(촀\02 촀dezeditdeze 2촃}\0\0!"
 "002_a","(\0촀\0Noem je prijs!"
 "002_b","Vandaag niet, sorry."
 "003","(2촀\0Eh,
@@ -23,8 +24,8 @@ ik niet, eh, te veel op geknoeid heb.
 "003_a","(\0촀\0Wat heb je zoal?"
 "003_b","Sorry, maar nee."
 "004","(촀\0Geen idee waarom, maar ik heb bij het winkelen per ongeluk 2\0}\0\0 gekocht.\0\0()촀\0Het probleem is
-\0 dat ik 2:촀er al eener al eendie al heb.
-(&촀\0Zou jij 2촀hemhetze van me willen kopen?"
+\0 dat ik 2:촀er al eener al eendie al heb.
+(&촀\0Zou jij 2촀hemhetze van me willen kopen?"
 "004_a","(\0촀\0Hoeveel wil je ervoor?"
 "004_b","Nee, hoef ik niet."
 "005","( 촀\0O.

@@ -269,7 +269,7 @@ l'occasion de nous revoir.
 \0J'espère que tu aimes.
 \0
 (촀\0 C'est moi qui
-l'ai fait2촀\0e\0.
+l'ai fait2촀\0e\0.
 (7촀\0Je viens de lancer ma marque de
 prêt-à-porter, 
 \0
@@ -488,6 +488,42 @@ ma créativité.
 de d'⁠n\0 ?
 \0
 (촀\0 Wow, je vais apprendre beaucoup des gens d'ici."
+"160","($촀\0Tu t'es changé2\0e, je vois.
+\0 (촀\0Oh !
+\0 Mais tu
+portes un motif perso, n'est-ce pas ?\0\0(촀\0Je suis navrée, mais je ne peux pas
+juger d'une tenue où figure un motif
+personnalisé.
+(&촀\0Ça t'ennuierait de te changer et
+de me montrer ta tenue ? 
+\0(촀\0Je t'en
+serais très reconnaissante."
+"161","(촀\0Ah, tu t'es changé2\0e. 
+\0(촀\0Oh non !
+\0 Tu as
+intégré un motif perso à ta tenue ?\0\0(촀\0Excuse-moi, mais je ne peux pas
+évaluer ton look dans ces conditions.
+
+\0C'est hors de mes attributions.
+($촀\0Si tu voulais bien te changer et
+exhiber ta tenue devant moi,
+ça seraitn\0\0(촀\0 bellissima.
+(7촀\0Comme on dit dans le monde
+de la haute couturen"
+"164","(&촀\0Tu permets que je jette un œil à
+ta tenue ?"
+"164_a","(%촀\0Bien sûr."
+"164_b","('촀\0Pas encore."
+"165","(&촀\0Tu veux bien que je regarde
+ta tenue ?"
+"165_a","(%촀\0Bien sûr !"
+"165_b","('촀\0Je suis pas prêt2\0e."
+"166","($촀\0J'adorerais jeter un œil à ta tenue.
+
+\0Enfin,
+\0 (&촀\0à moins que ça te dérange ?"
+"166_a","(%촀\0Vas-y !"
+"166_b","('촀\0C'est trop tôt."
 "200","(\0촀\0J'aimerais que tu mettes au point
 une \0tenue de fête\0￿.\0\0()촀\0Tu es invité2\0e à une soirée de gala et
 tu veux marquer le coupn\0\0 
@@ -514,15 +550,15 @@ ou en camping.
 \0 Comment tu
 t'habillerais ?
 (%촀\0Ça peut aussi être des vêtements
-décontractés, parfaits pour un
-pique-nique en forêt."
+dans lesquels tu es à l'aise, parfaits
+pour un pique-nique en forêt."
 "205","(\0촀\0J'aimerais que tu mettes au point
 une \0tenue féerique\0￿.\0\0(촀\0Pense chevaliers, princesses,
 personnages de contes de féen"
 "206","(\0촀\0J'aimerais que tu me montres une
-\0tenue effrayante\0￿.\0\0(""촀\0Je veux du gothique, du sombre,
-ou juste quelque chose que tu
-porterais pour Halloween."
+\0tenue effrayante\0￿.\0\0(""촀\0Je veux quelque chose qui fiche la
+frousse, ou que tu porterais pour
+Halloween."
 "208","(\0촀\0Ce qui m'intéresserait, c'est de voir
 une \0tenue de scène\0￿.
 \0

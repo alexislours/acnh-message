@@ -30,19 +30,19 @@ Lebewohl sagen konnte!
 sein...
 \0 Bitte vergiss mich nicht!"
 "004","( 촀\02\0n\0...
-\0 (촀\0Das kommt für
-dich jetzt sicher sehr plötzlich...
-\0 Ich
-hab mich entschlossen, wegzuziehen.
-(\0촀\0Das ging alles so schnell, dass ich
-nicht mal Zeit hatte, dir Bescheid zu
+\0 (촀\0Das kommt für dich jetzt sicher sehr plötzlich...
+\0 Ich hab mich entschlossen, wegzuziehen.\0\0(\0촀\0Das ging alles so schnell, 
+\0dass ich
+nicht mal Zeit hatte, 
+\0dir Bescheid zu
 sagen.
 \0 (촀\0Tut mir leid...
 (\0촀\0Ich werde dich vermissen.
 \0 (촀\0Aber ich
 bin ja nicht aus der Welt.
 \0 Ich bin
-sicher, wir sehen uns mal wieder."
+sicher, 
+\0wir sehen uns mal wieder."
 "005","(촀\0Oh, du wohnst jetzt hier?
 \0(
 (촀\0Schön, dich kennenzulernen!\0\0(\0촀\0Entschuldige die Unordnung,
@@ -177,37 +177,6 @@ erreicht, und...
 (촀\0Ein schönes Gefühl, dass das erledigt
 ist. 
 \0(촀\0Ich freue mich schon sehr!"
-"206","(""촀\0Es gibt Neuigkeiten.
-\0 (\0촀\0Die Leute vom
-\0Servicecenter \0￿auf n	\0
-haben mir Folgendes erzählt...
-(촀\0Es lebt dort anscheinend schon eine
-Person, die genauso aussieht wie
-ich!\0\0Um ständige Verwechslungen und
-Missverständnisse zu vermeiden,
-\0
-(촀\0können sie mich nicht aufnehmen.
-(촀\0Tja, 
-\0aus der Traum.
-\0( (촀\0Aber einen
-Versuch war es wert,
-\0 n\0!"
-"207","(""촀\0Zuerst die gute Nachricht:
-\0
-(\0촀\0Ich habe das \0Servicecenter \0￿von
-n	\0 erreicht.
-(촀\0Die schlechte ist, dass sie bereits
-eine neue Bewohnerin erwarten, 
-\0die
-mir bis aufs Haar gleicht!\0\0Um ständige Verwechslungen und
-Missverständnisse zu vermeiden,
-\0
-(촀\0können sie mich nicht aufnehmen.
-(촀\0Tja, 
-\0aus der Traum.
-\0( (촀\0Aber einen
-Versuch war es wert,
-\0 n\0!"
 "208","(""촀\0So!
 \0( (\0촀\0Das \0Servicecenter \0￿von
 n	\0 hat mir folgende
@@ -230,14 +199,6 @@ Grundstück mehr zu vergeben.
 \0 (촀\0Aber einen
 Versuch war es wert, 
 \0n\0."
-"211","(촀\0Schon kurios, dass ich einen Zwilling
-habe!
-\0(7촀\0 Aber es wäre wirklich seltsam,
-auf der gleichen Insel zu wohnen."
-"212","Es wäre sicher auch für mich
-komisch gewesen, 
-\0(%촀\0so nah bei
-meinem bösen Zwilling zu wohnen."
 "213","Das zeigt wohl vor allem eines...
 \0
 (촀\02\0n	\0 muss wirklich

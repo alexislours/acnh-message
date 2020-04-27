@@ -28,9 +28,7 @@ manger celle de demain
 aujourd'hui!
 \0 Je suis trop intelligent!"
 "005","Dis-moi, n\0,
-\0
-(&촀\0qu'est-ce que tu préfères manger
-pour la collation?"
+\0 (&촀\0qu'est-ce que tu préfères manger pour la collation?"
 "005_a","Du gâteau.
 Du chocolat.
 Des bonbons."
@@ -55,9 +53,7 @@ du sucré, n\0."
 pour choisir l'un ou l'autre.
 \0(촀\0 Alors
 je mange les deux!"
-"009","(촀\0Dis, n\0, laquelle
-de ces friandises est ta préférée,
-n\0?"
+"009","(촀\0Dis, n\0, laquelle de ces friandises est ta préférée, n\0?"
 "009_a","Les biscuits."
 "009_b","Le chocolat."
 "009_c","La crème glacée."
@@ -84,10 +80,8 @@ confits,
 \0(촀\0 c'est comme un trésor sucré.\0\0(촀\0Si jamais tu as encore envie de
 discuter gâteaux, n'hésite pas à
 venir me voir, n\0!"
-"014","(촀\0Je sais que c'est une drôle de
-question,
-\0 mais parmi ces couleurs,
-laquelle te paraît la plus chaude?"
+"014","(촀\02\0n\0, si on faisait un petit jeu?
+\0 Dis-moi ta couleur préférée, et je te dirai quel aliment tu es."
 "014_a","Rouge."
 "014_b","Orange."
 "014_c","Jaune."

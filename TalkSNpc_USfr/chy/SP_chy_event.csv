@@ -47,11 +47,11 @@ Il te reste encore des points du
 dernier \0insectosafari\0￿.
 (\0촀\0Tu as tout juste \0Z points\0￿.
 \0 (&촀\0Souhaites-tu les échanger contre une relique?"
-"005_a","Une relique, une relique!"
+"005_a","(\0촀\0Une relique, une relique!"
 "005_b","('촀\0Ça ira, merci."
 "006","( 촀\0Euhn\0\0 Oui?
 \0 Que veux-tu?(\0촀"
-"006_a","Échanger mes points."
+"006_a","(\0촀\0Échanger mes points."
 "006_b","('촀\0En fait, rien."
 "010","(촀\0Attends.
 \0 Tes poches sont pleines.\0\0(9촀\0Tu sais ce qu'on dit.
@@ -219,7 +219,7 @@ Tu peux arriver les poches pleines.
 célébration qu'est l'\0insectosafari\0￿?
 \0 (\0촀\0\0\0Si cela peut t'aider à te décider,
 
-\0le premier tour est gratuit."
+\0le premier tour du jour est gratuit."
 "030_a","Je veux jouer, oui!"
 "030_b","('촀\0Pas maintenant."
 "031","(!촀\0L'\0insectosafari\0￿ se poursuit jusqu'à
@@ -269,7 +269,10 @@ avaient besoin qu'on les représente!
 \0tu devrais jouer!
 \0
 (!촀\0L'\0insectosafari\0￿ nous rapproche des
-insectes, nous, terrestres mortels."
+insectes, nous, terrestres mortels.
+Tu peux te joindre à la fête quand il
+te plaira. 
+\0Elle se clôturera à \0Z%촁 h\0￿."
 "037","(촀\0C'est l'heure de l'\0insectosafari\0￿!
 \0
 Levons la moustiquaire qui nous
@@ -352,7 +355,7 @@ Alors parlons, euhn\0\0\0\0(2촀\0\0KJe veux t'acheter des insectes! 
 un bon prix et je te promets d'en prendre soin!\0d"
 "049_a","Ah, tu achètes?"
 "049_b","J'ai des points à échanger."
-"049_c","Autre chose."
+"049_c","L'insectosafari..."
 "049_d","('촀\0Laisser tomber."
 "050","( 촀\0Ohn\0\0 Bienn\0\0 bien sûr! 
 \0(&촀\0De quelle
@@ -374,7 +377,7 @@ absolu? Celui par qui tout arriva?\0￿\0\0(&촀\0Humn\0\0 
 Je n'en ai encore jamais possédén\0\0
 \0(
 \0Du moins, pas de son vivantn\0\0\0￿
-(&촀\0Peux-tu me vendre 22đ촀ce divincette divine\0 }\0 pour Z?"
+(&촀\0Peux-tu me vendre 22Ē촀ce divincette divine\0 }\0 pour Z?"
 "052_a","Vendu!"
 "052_b","('촀\0Euh... Non?"
 "053","(촀\0L'achat d'insectes est mon péché
@@ -428,12 +431,24 @@ un filet!\0\0(;촀\0Sans filet,
 ta perte!"
 "061","( 촀\0Oh!
 \0 Euhn\0\0 Je m'excuse, mais tu n'as
-pas assez de clochettes.\0\0(촀\0Après le premier tour, il faut payer
+pas assez de clochettes.\0\0(촀\0Reviens me voir quand tu auras
 \0Z\0￿.
 \0 Désolé!"
-"062","(%촀\0Très bien. 
-\0Il t'en coûtera
-\0Z\0￿."
+"062","(촀\0Super! 
+\0Ça remplit le ciel d'autant de
+petites lucioles! 
+\0((4촀\0C'est une image,
+\0(
+on n'attrape pas que les lucioles.
+(7촀\0Alors, après le premier tour, les frais
+de participation s'élèvent à
+\0Z\0￿. 
+\0(&촀\0Ça te convient?"
+"062_01","(%촀\0Parfaitn\0\0
+\0(:촀\0 Dans ce cas, laisse-moi te
+délester de ces \0Z\0￿n"
+"062_a","Aucun problème!"
+"062_b","Laisse tomber."
 "063","(%촀\0OKn\0\0 Le chronomètre est réglé sur
 \0Z\0 minutes\0￿.
 \0 Toi,
@@ -595,7 +610,7 @@ entomologiques?"
 "094_b","('촀\0Ça ira, merci."
 "100","( 촀\0Est-ce que je peux,
 \0 euhn\0\0 t'aider?"
-"100_a","J'ai des points à échanger."
+"100_a","(\0촀\0J'ai des points à échanger."
 "100_b","('촀\0Pas vraiment, non."
 "101","(%촀\0Le prochain \0insectosafari \0￿aura lieu
 en \0Z#촀\0￿.\0\0J'espère que tu suivras l'appel de la
@@ -664,7 +679,7 @@ le calcul.\0\0(1촀\0Alors
 le sous-ordren\0\0\0\0(&촀\0Je t'en offre Z.
 Qu'en penses-tu?"
 "123_a","Marché conclu!"
-"123_b","Il faut que je réfléchisse."
+"123_b","(\0촀\0Il faut que je réfléchisse."
 "124","( 촀\0Ohn\0\0 Tu n'as plus de place dans ton
 porte-monnaie. 
 \0(""촀\0Je vais envoyer cela
@@ -811,6 +826,55 @@ et de tes divers bonus te vautn\0\0
 \0
 (촀\0Waouh!
 \0(촀\0 Pas moins de \0Z points\0￿!"
+"151","(%촀\0Déjà \0Z\0￿ insectes. 
+\0(촀\0La vélocité avec
+laquelle tu t'acquittes de ce
+sacerdoce m'emplit d'admiration.
+()촀\0Cependant, il n'est guère prudent de
+conserver plus de 20 spécimens dans
+un espace confinén\0\0
+(촀\0Qui sait les phénomènes surnaturels
+que pourrait déclencher leur
+puissance combinée?
+(4촀\0C'est pourquoi j'ai pris la liberté d'en
+retirer quelques-uns de la \0cage à
+insectes\0￿.
+(%촀\0J'ai pris cette initiative pour le bien
+des insectes, et par extension, celui du monde.
+\0
+(7촀\0Merci pour ce généreux don.
+( 촀\0Et n'aie crainte, cela ne change rien
+au pointage. (
+촀\0Lequel s'élève donc à
+\0Z\0￿ \0points\0￿ de basen\0\0
+n\0\0 plus le bonus réglementaire \0à
+partir de Z\0￿ capturesn\0\0 (:촀\0Soit un
+admirable total de \0Z\0￿ \0points\0￿!"
+"152","(%촀\0Déjà \0Z\0￿ insectes. 
+\0(촀\0La vélocité avec
+laquelle vous vous acquittez de ce
+sacerdoce m'emplit d'admiration.
+()촀\0Cependant, il n'est guère prudent de
+conserver plus de 20 spécimens dans
+un espace confinén\0\0
+(촀\0Qui sait les phénomènes surnaturels
+que pourrait déclencher leur
+puissance combinée?
+(4촀\0C'est pourquoi j'ai pris la liberté d'en
+retirer quelques-uns de la \0cage à
+insectes\0￿.
+(%촀\0J'ai pris cette initiative pour le bien
+des insectes, et par extension, celui du monde.
+\0
+(7촀\0Merci pour votre généreux don.
+( 촀\0N'ayez crainte, cela ne change rien à
+votre pointage.\0\0 (
+촀\0Voyonsn\0\0 vous avez
+capturé \0Z	\0￿ insectes en toutn\0\0\0\0(촀\0Le \0seuil de\0￿ \0Z
+\0￿ étant atteint,
+\0 (9촀\0le bonus
+d'équipe vous revient. Vous obtenez
+doncn\0\0 \0(촀\0\0￿un total de \0Z\0￿ \0points\0￿!"
 "160","()촀\0La \0cage à insectes\0￿ se trouve près de
 la tente. (1촀\0Suis la délicate fragrance de
 ces créatures, semblable au nectar.\0\0(%촀\0Tous les insectes attrapés par
@@ -913,9 +977,8 @@ Il commencera à \0Z%촀 h\0￿.
 Profite du bruissement des insectes!"
 "170","(
 촀\0Hmm...
-\0 L'\0insectosafari \0￿d'aujourd'hui
-\0
-(%촀\0fut une merveilleuse célébration à la
+\0 Cet \0insectosafari \0￿(%촀\0fut une
+merveilleuse célébration à la
 gloire des rampants!"
 "171","( 촀\0Bonjour!
 \0 Veux-tu participer à

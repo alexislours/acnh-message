@@ -1,8 +1,10 @@
 ﻿"label","text"
-"001_01","(촀\0Oh, n\0!
-(촀\0It's great to see you!\0\0That campfire (촀\0was a lot of fun!"
-"001_02","(촀\0Oh, n\0.
-(촀\0It's great to see you!"
+"001_01","(촀\0Oh, n\0!
+\0
+It's great to see you!\0\0That campfire (촀\0was a lot of fun!"
+"001_02","(촀\0Oh, n\0!
+\0
+It's great to see you!"
 "001_03","(\0촀\0We're keeping \0Resident Services
 \0￿open at night, so feel free to stop by
 (촀\0if you need to talk about anything.\0\0(\0촀\0For the time being, I'll be out and
@@ -26,15 +28,16 @@ and we're moving out of Resident
 Services and into our own shop!
 (촀\0I hope you'll stop in to shop once
 construction is complete."
-"003_01","(촀\0Oh, n\0.
-(촀\0It's good to see you!\0\0How are you enjoying island life?"
+"003_01","(촀\0Oh, n\0!
+\0
+It's good to see you!\0\0How are you enjoying island life?"
 "003_02","(촀\0Feel free to chat with me anytime if
 there's anything you need to help
 you get used to living here."
 "009","<"
 "009_01","(촀\0Welcome to n\0!
 \0
-(촀\0I hope you fully enjoy all the natural
+I hope you fully enjoy all the natural
 wonders this island has to offer!"
 "009_02","Are you(&촀\0 acquainted with someone on
 this island?\0\0(촀\0If so, I'm glad that connection

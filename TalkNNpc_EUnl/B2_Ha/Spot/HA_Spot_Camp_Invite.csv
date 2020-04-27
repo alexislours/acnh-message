@@ -7,6 +7,14 @@ echt wonderen doen voor mijn
 conditien\0\0\0\0(촀\0Oké, afgesproken!
 \0( (%촀\0Ik zal de
 \0servicebalie\0￿ bellen om het te regelen."
+"003","( 촀\0Wauw! 
+\0Je volharding is inspirerend!
+\0(
+(%촀\0Dat brengt me toch weer aan het
+twijfelen.\0\0(촀\0Oké, genoeg getreuzel!
+\0 Ik zal de
+\0servicebalie \0￿even bellen om mijn
+verhuizing in gang te zetten."
 "101","<"
 "101_01","( 촀\0Huh? 
 \0Hier wonen? 
@@ -116,20 +124,28 @@ geweldig, n\0!"
 "205_03","(촀\0Dusn\0\0 wanneer is de huldiging, n\0?"
 "206","<"
 "206_01","(9촀\0Oké, 
-\0ik gooi de handdoek in de ring, n\0.\0\0(5촀\0Jij wilde dat dé n
+\0ik gooi de handdoek in de ring.
+Je houdt toch van handdoeken, ehn\0\0
+\0(
+n\0?\0\0(5촀\0Jij wilde dat dé n
 \0 op n	\0 komt wonen?
-\0 Komt in orde, n\0!"
+\0 Komt in orde, n\0!\0\0(촀\0Nou jan\0\0 waarschijnlijk.
+\0 Ik moet eerst
+nog bij de \0servicebalie\0￿ vragen of het
+mag."
 "206_02","()촀\0Ik geef me gewonnen.
-\0 Hoe heette je
-ook alweer?
+\0 Hoe heette je ook alweer?
 \0 2\0n\0?
-\0( ($촀\0Cool, n\0!\0\0(5촀\0Nou, n\0, ik ben een n\0 van mijn woord, dus ik ga maar snel inpakken, n\0."
+\0( ($촀\0Cool, n\0!\0\0(5촀\0Nou, zodra ik alles bij de \0servicebalie
+\0￿heb geregeld, word ik dus je nieuwe
+buurman.\0\0Ik ben een n\0 van mijn woord, dus ik ga maar snel inpakken, n\0."
 "206_03","(촀\0Jij neemt je uitdagingen serieus,
 zeg, ehn\0\0 
 \0hoe heette je ook alweer? 
-\02\0n\0?\0\0Oké, dan zijn we eruit.
-\0 (5촀\0Dit eiland heeft nu n
-\0 in zijn selectie zitten, n\0."
+\0
+2\0n\0?\0\0(\0촀\0Oké, dan zijn we eruit.
+\0 (5촀\0Ik ga bij de \0servicebalie\0￿ melden dat binnenkort n
+\0 in je selectie zit."
 "302","(촀\0Slecht nieuws.
 \0 Ik heb de
 \0servicebalie\0￿ gesproken en die zeggen
@@ -161,7 +177,7 @@ om weg te gaan? 
 "305_c","Eh... Nee, laat maar."
 "306","(%촀\0Oké, ik ga het proberen. 
 \0Misschien
-zegt 2촀hijze\0 nee, maar ik kan het op zijn
+zegt 2촀hijze\0 nee, maar ik kan het op zijn
 minst vragen."
 "307","( 촀\0Oef! 
 \0Ik was al haast onderweg.
@@ -170,16 +186,16 @@ aan wie zal ik het dan vragen?"
 "308","(8촀\0On\0\0
 \0 O-ké, n\0n"
 "309","(촀\0Dat ging makkelijk! 
-\0Zodra s촀 me zag aankomen, begon 2촀hijze\0 in te pakken.\0\0()촀\0Echt, het was zo geregeld!
+\0Zodra s촀 me zag aankomen, begon 2촀hijze\0 in te pakken.\0\0()촀\0Echt, het was zo geregeld!
 \0 Ik heb de
 situatie uitgelegd,
 \0 mijn spierballen
 laten zien 
-\0en het was rond!\0\0(촀\02촀HijZe\0 leek me heel aardig. 
+\0en het was rond!\0\0(촀\02촀HijZe\0 leek me heel aardig. 
 \0Wel een
 beetje nerveus.
-\0( (촀\0Hopelijk bevalt 2촀zijnhaar\0
-nieuwe woonplek 2촀hemhaar\0, n\0!\0\0(\0촀\0Maarn\0\0 
+\0( (촀\0Hopelijk bevalt 2촀zijnhaar\0
+nieuwe woonplek 2촀hemhaar\0, n\0!\0\0(\0촀\0Maarn\0\0 
 \0Hoe heet je eigenlijk?
 \0
 (촀\02\0n\0?
@@ -196,26 +212,16 @@ verhuizen?"
 \0Nou, als jij het zegt,
 \0 dan laten we
 het er hier bij zitten, n\0."
-"402","(9촀\0Ik heb een praatje gemaakt bij de
-\0servicebalie\0￿.
-\0('촀\0 En die hebben mijn
-aanvraag afgewezen.\0\0(촀\0Er schijnt hier al iemand te wonen 
-die op mij lijkt, 
-\0n\0.('촀\0 Wat ik
-betwijfel met mijn bicepsen.\0\0()촀\0Ik heb zelf geen bewijs gezien,
-\0 maar
-blijkbaar ontvangen ze voortdurend
-fitnessvideo's van die uitslover."
-"403","(촀\0Bij de \0servicebalie\0￿ konden ze mijn
-verhuizing niet goedkeuren.\0\0(촀\0Ze zeggen dat er hier binnenkort
-iemand komt wonen,
-\0 die precies op
-mij lijkt, n\0.\0\0(8촀\0Heb ik soms een tweelingbroer?
-\0 En
-is hij zo sterk als ik?
-\0 ('촀\0Nee, dat kan
-niet.
-\0 Heb je mijn armen gezien?"
+"313","(촀\0
+\0Cool!
+\0 We maken een doorstart!
+\0 (%촀\0Wat denk je ervan om s촀 voor mij te ruilen?\0\0()촀\0De \0servicebalie \0￿gaf aan dat 2촀hijzij\0 een
+transfer wel zou zien zitten.\0\0(&촀\0Zal ik met s촀 praten over een ruil?"
+"313_a","Ja, graag!"
+"313_b","Beter van niet..."
+"314","(촀\0Je houdt FC n\0 liever zoals het is, hè? 
+\0Logisch. 
+\0Misschien volgend seizoen beter, n\0."
 "404","('촀\0Ik heb de \0servicebalie\0￿ gesproken.
 \0
 Ze zeggen dat er geen plek meer is
@@ -223,26 +229,15 @@ voor nog een bewoner, n\0.\0\0(%촀\0Dat snap ik best. 
 \0Ik ben natuurlijk
 vrij fors
 \0 en ik wil niet dat ik met mijn
-kracht iemand van het eiland duw."
-"405","(촀\0Bij de \0servicebalie\0￿ zeiden ze nee
-tegen me.
-\0 Er is blijkbaar geen plek
-voor nieuwe huizen, n\0.\0\0('촀\0Ik heb nog gevraagd of er ruimte is
-voor een sportschool, maar zelfs dat
-kan niet. 
-\0((
-촀\0Dat is toch waanzin?!"
-"406","(촀\0Hé! Ik heb antwoord gekregen van de
-\02\0Ą촃servicebalie\0￿.
+spieren iemand van het eiland duw."
+"406","(촀\0Hé! Ik heb antwoord gekregen van
+de \0servicebalie\0￿.
 \0( (촀\0We worden buren,
 n\0!\0\0(촀\0Iedereen op het eiland zal vast
 enorm onder de indruk zijn van mijn
 enorme bicepsen.\0\0(5촀\0Dat ben ik ook nog steeds,
 \0 ook al
-heb ik ze al mijn hele leven!\0\0(%촀\0O ja, nog even checkenn\0\0
-\0 Jouw naam is 
-\0n\0, toch?
-\0( (촀\0Tot later, n\0!"
+heb ik ze al mijn hele leven!"
 "410","(%촀\0Weet je wat,
 \0 ik zal het nog eens
 proberen bij de \0servicebalie\0￿.\0\0(촀\0Misschien heb ik deze keer wel
@@ -258,31 +253,12 @@ eerder gezegd, n\0.\0\0(촀\0En
 krijgen.
 \0((5촀\0 Dat past niet bij mijn imago
 van vriendelijke spierbonk."
-"421","()촀\0Blijkbaar woont er al iemand op het
-eiland woont die er precies hetzelfde
-uitziet als ik.\0\0('촀\0Cool natuurlijk als ik hier twee keer
-zou wonen,
-\0 maar van al onze halters
-zou het eiland gelijk zinken."
-"422","(촀\0Mijn verhuisaanvraag is afgewezen,
-\0
-omdat iemand die precies op mij lijkt,
-me voor is geweest, n\0.\0\0(%촀\0Ik hoop dat ik hem eens tegenkom.
-\0
-Hij klinkt als de perfecte maat om
-mee te trainen!"
 "423","(%촀\0Ze zeiden dat er geen plek meer is
 voor nieuwe bewoners.
 \0 Ik had geen
 idee dat het hier zo populair was!\0\0(촀\0Met het aantal calorieën dat ik per
 dag verbrand, snap ik dat ze zuinig
 zijn op hun voorraden, n\0!"
-"424","(%촀\0Er is blijkbaar geen plek meer op het
-eiland!
-\0 Waarom heb je niet gezegd
-dat het hier zo populair is?\0\0(""촀\0Je moet het me maar laten weten als
-er toch nog een plekje voor me
-vrijkomt, n\0!"
 "504","(촀\0Mijn work-outs zijn naar een hoger
 niveau getild 
 \0sinds ik hier ben

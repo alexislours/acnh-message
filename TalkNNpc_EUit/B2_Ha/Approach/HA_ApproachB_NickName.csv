@@ -4,8 +4,8 @@ soprannome incredibile per te.
 \0
 (촀\0Fai un bel respiro..."
 "001_a","(\0촁\0Quale sarebbe?
-Dimmelo!"
-"001_b","Magari più tardi.
+(\0촀\0Dimmelo!"
+"001_b","(\0촀\0Magari più tardi.
 No, grazie."
 "002","((촀\0Un nuovo soprannome è quello che
 ci vuole per te.\0\0(%촀\0Ovviamente quello che hai va bene,
@@ -13,8 +13,8 @@ ma questo nuovo è spaziale.
 \0
 (촀\0Lo adorerai, te l'assicuro!"
 "002_a","(\0촁\0Quale sarebbe?
-Dimmelo!"
-"002_b","Va già bene così.
+(\0촀\0Dimmelo!"
+"002_b","(\0촀\0Va già bene così.
 No, grazie."
 "003","(&촀\0Pare che ultimamente qualcuno ti
 chiami ""⁠s\0촀⁠"", 
@@ -23,13 +23,13 @@ chiami ""⁠s\0촀⁠"", 
 s\0촀, n\0?"
 "003_a","Ma certo!
 Fai pure!"
-"003_b","Scusa, ma...
-Ehm, è un po'..."
+"003_b","(\0촀\0Scusa, ma...
+(\0촀\0Ehm, è un po'..."
 "004","(촀\0Oh! Evviva!
 \0 (&촀\0Ti piacerebbe un nuovo
 soprannome, n\0?"
 "004_a","(\0촁\0Per esempio?"
-"004_b","Sto bene così."
+"004_b","(\0촀\0Sto bene così."
 "005","(""촀\0Sono felice di vederti.
 \0((촀\0 Ho appena
 pensato a un soprannome
@@ -46,14 +46,14 @@ speciale. 
 ""s\0촀"", n\0?"
 "006_a","Ma certo!
 Fai pure!"
-"006_b","Scusa, ma...
+"006_b","(\0촀\0Scusa, ma...
 No, non farlo..."
 "100","(촀\0Che ne dici di: ""n\0""?
 \0
 \0
 (촀\0Spacca, eh?"
 "100_a","Bello!"
-"100_b","Mmmh..."
+"100_b","(\0촀\0Mmmh..."
 "101","( 촀\0Cooosa?! 
 \0((촀\0Eppure mi sono spremuto
 le meningi come non ho mai fatto

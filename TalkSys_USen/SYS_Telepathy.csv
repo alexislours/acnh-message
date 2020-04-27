@@ -33,8 +33,8 @@ you don't have company, OK?"
 have any company, OK?"
 "022","Door decorations should
 go on your front door!"
-"023","You might get company, so maybe
-don't build any fences right now."
+"023","You have visitors, so maybe don't
+build any fences right now."
 "024","You have company right now,
 so drop that some other time!"
 "025","There's already a door
@@ -46,10 +46,17 @@ It would be in the way of folks
 trying to get to the airport!"
 "028","You can't put door decorations
 on the front of a tent!"
+"029","You can't plant a tree in a hole
+without a trusty shovel in hand!"
+"030","You can't plant things when other
+players are nearby!"
 "051","You can't place anything else here.
 There isn't enough room!"
 "052","The room is full, so you can't place
 anything else."
+"061","To wear custom designs while inside
+Photopia, press \0 \0￿to change the set,
+then  to change outfits!"
 "101","You can't modify this cliff because
 there's something on it."
 "102","If you make a modification here,
@@ -104,23 +111,23 @@ can't put anything else in it."
 "406","You'll want to sprinkle this bait in
 a body of water with fish in it."
 "407","You can't change clothes
-while you're transforming!"
+while you're transformed!"
 "408","You already know this DIY recipe."
 "409","You don't have enough
 Bells in your wallet."
 "410","Is this a \0DIY\0￿ recipe? I wonder
 how I can memorize it..."
 "411","You can't use the timer right now!"
-"412","Items covered by wallpaper get put
-in storage. You need storage space
-before you can put up wallpaper."
+"412","Items in the same spot as a window
+get put in storage. You need more
+storage space to put up a window."
 "413","You can only use this tool when
-you're on a best-friend's island."
+you're on a Best Friend's island."
 "414","You're too full! You couldn't
 possibly eat anything else."
 "415","You can't plant that when you're
 on an island that doesn't belong
-to one of your best friends."
+to one of your Best Friends."
 "430","You can't put that item away
 because your storage is full."
 "438","This won't all fit in your storage!"
@@ -160,3 +167,11 @@ you can't carry any more!"
 "513","Your pockets are full!"
 "514","Looks like this recycle box is only
 for n\0 residents."
+"600","You can't download while
+you have company."
+"601","You can't download while
+the gate is open."
+"602","You can't download while on a trip."
+"603","You can't download custom designs
+right now. Go to the airport counter
+and turn off communications."

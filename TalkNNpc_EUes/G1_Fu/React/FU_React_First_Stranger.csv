@@ -19,14 +19,11 @@ ordenar todas mis cosas."
 \0Creo que aún no nos
 conocemos.
 \0 Soy n
-\0
-y vengo de s촀.
-($촀\0¿Tú eres n\0?
+\0 y vengo de s촀.\0\0($촀\0¿Tú eres n\0?
 \0
 (촀\0¡Qué nombre tan maravilloso!\0\0()촀\0¿Conoces a s\0촀?
 \0
-2
-촀ÉlElla\0 fue quien me convenció de
+2촀ÉlElla\0 fue quien me convenció de
 que me mudara aquí.
 (%촀\0Necesitaba un cambio de aires y creo
 que venir a n\0 ha sido la decisión más acertada.\0\0(촀\0Ya nos veremos por aquí y espero
@@ -35,8 +32,7 @@ que podamos llegar a ser amig2oas,
 "002_02","(""촀\0¡Hola, encantada de conocerte!
 \0
 (촀\0Soy n
-\0 y hace poco que vivo aquí.\0\0()촀\0Mi amig2
-촀oa\0 s\0촀 me habló tanto de esta isla que al final decidí mudarme.\0\0( 촀\0¿Tú eres n\0?
+\0 y hace poco que vivo aquí.\0\0()촀\0Mi amig2촀oa\0 s\0촀 me habló tanto de esta isla que al final decidí mudarme.\0\0( 촀\0¿Tú eres n\0?
 \0
 (촀\0¡He oído muchas cosas buenas
 sobre ti!
@@ -49,8 +45,7 @@ para lo que quieras, n\0."
 \0,
 \0 es un placer conocerte, n\0.\0\0()촀\02\0s\0촀, quien me convenció de que me mudara aquí,
 \0 también me habló de ti.\0\0(촀\0Tenía muchas ganas de venir
-a n\0 y empezar
-una nueva vida."
+a n\0 y empezar una nueva vida."
 "004","( 촀\0Ah, hola,
 \0 es un placer conocern\0\0
 \0(,촀\0
@@ -198,8 +193,7 @@ cuando se me haya pasado.
 \0 (,촀\0¡Achís!"
 "111","(""촀\0¡Hola!
 \0 Me llamo n
-\0
-(촀\0y me acabo de mudar a esta isla.\0\0()촀\0Conocí a alguien de aquí y me
+\0 (촀\0y me acabo de mudar a esta isla.\0\0()촀\0Conocí a alguien de aquí y me
 convenció para que me mudara.\0\0(촀\0Pero cuando me vine,
 \0 ¡descubrí que
 ya se había ido!\0\0( 촀\0Ayn\0\0
@@ -207,8 +201,7 @@ ya se había ido!\0\0( 촀\0Ayn\0\0
 \0 que ni siquiera te he
 preguntado cómo te llamas.
 \0 (4촀\0Tú eres n\0,
-\0 ¿verdad?
-(촀\0Me sentía un poquito abandonada
+\0 ¿verdad?\0\0(촀\0Me sentía un poquito abandonada
 y me ha hecho bien que me
 escucharas,
 \0 n\0.
@@ -306,8 +299,7 @@ mudado aquí no hace mucho.\0\0()촀\0Me decidí a venir después de pasar
 unos días en la \0zona de acampada\0￿,
 \0
 donde conocí a s\0촀.
-Fue 2
-촀élella\0 quien me sugirió la idea.
+Fue 2촀élella\0 quien me sugirió la idea.
 \0
 (촀\0Tú eres n\0,
 \0 ¿no?
@@ -323,9 +315,7 @@ a ser amig2oas,
 \0
 (촀\0Me llamo n
 \0.
-\0 (""촀\0Y tú
-debes de ser n\0n\0\0
-¿Por casualidad conoces
+\0 (""촀\0Y tú debes de ser n\0n\0\0\0\0¿Por casualidad conoces
 a s\0촀?\0\0()촀\0Fue quien me dio la idea de venir
 aquí,
 \0 un día que charlamos en
@@ -450,10 +440,7 @@ instalado,
 (%촀\0Creo que te he visto un par
 de vecesn\0\0\0\0(촀\0Yo soy n
 \0.
-\0 ()촀\0Estoy
-empezando a conocer a los vecinos
-de n\0.
-(1촀\0Parece que fue ayer cuando estuve
+\0 ()촀\0Estoy empezando a conocer a los vecinos de n\0.\0\0(1촀\0Parece que fue ayer cuando estuve
 de visita en la \0zona de acampada\0￿
 de la islan\0\0
 Allí tuve ocasión de hablar con
@@ -739,13 +726,10 @@ venir cuando mi hogar esté listo."
 "511_02","(촀\0¡Oh!
 \0 ¿Una visita tan pronto?
 \0
-Debes de ser n\0.\0\0(촀\0Yo soy n\0 y acabo
-de llegar a n
+Debes de ser n\0.\0\0(촀\0Yo soy n\0 y acabo de llegar a n
 \0n\0\0
-\0
-(촀\0¡No!
-\0 ¡Al revés!
-(2촀\0Estoy un poco agobiada con lo
+\0 (촀\0¡No!
+\0 ¡Al revés!\0\0(2촀\0Estoy un poco agobiada con lo
 de la mudanza, perdona. 
 \0($촀\0¡Ya nos
 veremos por la isla, n\0!"
@@ -770,9 +754,7 @@ a ser una más, n\0."
 conozco!
 \0 ($촀\0Soy n
 \0,
-\0
-acabo de mudarme a la isla.
-(촀\0Te llamas n\0, ¿no?
+\0 acabo de mudarme a la isla.\0\0(촀\0Te llamas n\0, ¿no?
 \0
 Me gustaría mucho que pudiéramos
 ser amig2oas, n\0."
@@ -780,9 +762,7 @@ ser amig2oas, n\0."
 presentado.
 \0 Soy n
 \0,
-\0
-también vivo aquí.
-(4촀\0¿Puedo llamarte n\0?
+\0 también vivo aquí.\0\0(4촀\0¿Puedo llamarte n\0?
 \0
 Me han hablado mucho de ti y me
 hacía ilusión conocerte.

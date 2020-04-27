@@ -12,7 +12,7 @@ und wir können uns Wichtigerem
 zuwendenn\0\0\0\0(촀\0Und zwar einer großen Einzugsparty
 zu euren Ehren! 
 \0Stilecht mit tollem
-Knisterfeuer hier auf dem \0Platz\0￿!"
+Knisterfeuer hier auf dem \0Festplatz\0￿!"
 "003","(
 촀\0Dazu müssen wir zwar erst ein paar
 Kleinigkeiten beschaffen..."
@@ -20,10 +20,8 @@ Kleinigkeiten beschaffen..."
 Inselnachbarn sind, (촀\0können wir so
 ein bisschen unser Teamwork üben!"
 "005","(
-촀\0Dann mal sehenn\0\0\0\0\0(%촀\0Nepp\0￿, s촀, \0Schlepp \0￿und s촁 machen den Platz partyfertig!"
-"006","(촀\02\0n\0 und ich sorgen
-derweil für Feuerholz und vielleicht
-was Leckeres zum Essen."
+촀\0Dann mal sehenn\0\0\0\0\0(%촀\0Nepp\0￿, s촀, \0Schlepp \0￿und s촁 machen den \0Festplatz \0￿partyfertig!"
+"006","(촀\02\0n\0 und ich sorgen derweil für Feuerholz und vielleicht was Leckeres zum Essen."
 "007","(\0촀\0Gut, alles klar?
 \0 Na, dann auf!\0\0Und n\0...
 Könnte ich kurz eine Kleinigkeit
@@ -48,16 +46,24 @@ an, 
 echte n촁,
 \0 so was riech ich!"
 "012","<"
-"012_01","(&촀\0Bitte? Was für \0Äste \0￿wir
-brauchen? (촀\0Du, so ein Feuer ist
+"012_01","(&촀\0Bitte? 
+\0Was für \0Äste \0￿wir
+brauchen? 
+\0(촀\0Du, 
+\0so ein Feuer ist
 WIRKLICH nicht wählerisch!
-(촀\0Solange es dünn und holzig ist und
-mal an einem Baum hing, ist es mit
+(촀\0Solange es dünn und holzig ist 
+\0und
+mal an einem Baum hing, 
+\0ist es mit
 ziemlicher Sicherheit ein \0Ast\0￿..."
-"012_02","(촀\0Wie? Noch mal die Erklärung? Gern!
-\0
+"012_02","(촀\0Wie? 
+\0Noch mal die Erklärung? 
+\0Gern!
+\0(
 Wenn du was vom Boden aufheben
-möchtest, dann drück einfach \0\0￿.\0\0()촀\0Es kann auch mal vorkommen,
+möchtest, 
+\0dann drück einfach \0\0￿.\0\0()촀\0Es kann auch mal vorkommen,
 \0
 dass du dabei aus Versehen etwas
 Unkraut aus dem Boden zupfst.
@@ -191,14 +197,16 @@ Fülle sie hier wachsen!"
 damit auch für jeden Partygast
 \0
 genug da ist."
-"021_03","Bitte? Kleiner Erntetipp gefällig?
+"021_03","Bitte? 
+\0Kleiner Erntetipp gefällig?
 \0
-Na, ich würde mich einfach mal an
+Na,
+\0 ich würde mich einfach mal an
 einen Baum stellen und \0 \0￿drücken.
-Damit schüttelst du den Baum,
+(촀\0Damit schüttelst du den Baum,
 \0
 und schon kannst du mit \0 \0￿die
-\0n촁 \0￿auflesen."
+\02촁n촁 \0￿auflesen."
 "031","(촀\0Ich bin entzückt!
 \0 Ganz klar,
 besser als du macht das niemand!
@@ -266,9 +274,11 @@ ruft jeder seinen Vorschlag, hm?"
 der ihm in den Sinn gekommen ist!"
 "042_03","
 \0                  Bereitn\0\0 LOS!"
-"043_01","(!촀\0Herrlich! Wie viel Fantasie ihr habt!
+"043_01","(!촀\0Herrlich! 
+\0Wie viel Fantasie ihr habt!
 \0
-Ganz klar, bei solch tollen Ideen(%촀\0
+Ganz klar, 
+\0bei solch tollen Ideen(%촀\0
 werden wir auf jeden Fall fündig."
 "043_02","(\0촀\0Dann stimmen wir jetzt alle ab.
 \0
@@ -289,9 +299,12 @@ klatscht für den,
 Publikumsliebling!
 \0(촀\0 Alle klatschen!"
 "043_07","(
-촀\0Also, wenn alle einverstanden
-sind... Nehmen wir doch einfach
-„n	\0“, hm?"
+촀\0Also, 
+\0wenn alle einverstanden
+sindn\0\0
+\0 Nehmen wir doch einfach
+„n	\0“,
+\0 hm?"
 "044_01","Find ich gut!"
 "044_02","Klaro!"
 "044_03","Auf jeden!"
@@ -327,7 +340,7 @@ und 2Z*unseren Inselsprecher,unsere Inselsprecherin gewählt.
 \0
 aber zuerst stoßen wir noch an!"
 "045_04_02","(&촀\0Hat jeder sein Gläschen?\0\0(촀\0Randvoll mit frischem Saft aus den
-guten 2촂n촁 hier, 
+guten 2촂\0n촁\0￿ hier, 
 \0frisch geerntet
 von 2\*unserem Inselsprecher.unserer Inselsprecherin!"
 "045_04_03","(3촀\0Dann alle zusammenn\0\0
@@ -338,8 +351,9 @@ von 2\*unserem Inselsprecher.unserer Inselsprecherin!"
 "045_05","
 \0(촀\0                \0Zum Wohl!\0d
 "
-"046","Sag mal, n\0...
-\0
+"046","Sag mal,
+\0 n\0...
+\0
 Darf's noch ein wenig mehr Flair
 sein?\0\02\0n	\0 Rock vielleicht?
 \0
@@ -439,11 +453,13 @@ Wir alle passen gut darauf auf,
 \0 das
 verspreche ich dir!"
 "057","<"
-"057_01","(촀\0Ha! Aber natürlich!
+"057_01","(촀\0Ha! 
+\0Aber natürlich!
 \0 Jemand mit so
 viel Power wie du geht nicht so früh
 ins Bett.
-\0 Dann viel Spaß noch, ja?"
+\0 Dann viel Spaß noch, 
+\0ja?"
 "057_02","(촀\0Aha! 
 \0Nach dem langen Tag auch
 gerne mal eine lange Party, wie?
@@ -474,14 +490,20 @@ bei \0Nepp \0￿oder \0Schlepp \0￿dein Zelt
 abzuholen!"
 "111_10","(촀\0Ähem!
 \0( (촀\0Würdest du kurz mit mir
-sprechen? Es geht um meine
+sprechen? 
+\0Es geht um meine
 Inselgemeinschaftsplanung!"
-"111_20","(촀\0Äh, Pardon! 
+"111_20","(촀\0Äh, 
+\0Pardon! 
 \0Willst du nicht zuerst bei
 unserem Einstiegskurs mitmachen?
 
-\0(%촀\0Glaub mir, du wirst mir danken!"
-"111_21","(촀\0Aha! Du hast unser schwarzes Brett
-entdeckt, ja?
+\0(%촀\0Glaub mir, 
+\0du wirst mir danken!"
+"111_21","(촀\0Aha! 
+\0Du hast unser schwarzes Brett
+entdeckt, 
+\0ja?
 \0 Leider ist es noch ein
-bisschen leer, aber das wird noch!"
+bisschen leer, 
+\0aber das wird noch!"

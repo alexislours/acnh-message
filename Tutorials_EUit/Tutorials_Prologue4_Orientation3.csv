@@ -40,7 +40,7 @@ rafforzare il nostro gioco di squadra!"
 \0 (
 촀\0Credo che basteranno \010 rami\0￿.\0\0(%촀\0Li trovi in giro per l'isola.
 \0 Quando ne
-vedi uno, premi \0 \0￿per raccoglierlo!\0\0(촀\0Nel mentre, investigherò certi frutti
+vedi uno, premi \0 \0￿per raccoglierlo!\0\0(촀\0Nel mentre, esaminerò certi frutti
 sugli alberi che sembrano proprio
 2\0n촁.
 \0 (6촀\0Forse lo sono davvero!"
@@ -93,14 +93,12 @@ Dalli pure a me."
 "013_01","Ah, 
 \0bene, bene, n\0!
 \0 (촀\0Pare che tu abbia raccolto i \0rami \0￿necessari an\0\0
-\0(촀\0 Mmmh?\0\0(촀\0Ne hai portati anche troppi!
+\0(촀\0 Mmmh?\0\0(촀\0Ne hai portati anche troppi!
 \0 A me
 ne bastano \010\0￿!
-\0 Tieni pure gli altri.
+\0 Tieni pure il resto.
 \0
-Sono certo che ti torneranno utili.
-(\0촀\0Provvedo subito a liberarti di quelli
-che ci servono."
+Sono certo che saprai cosa farne."
 "014","(촀\0Sì, sì!
 \0 Ora possiamo preparare
 il nostro bel falò.
@@ -227,11 +225,12 @@ La maggioranza vince, va bene?
 (촀\0Adesso ognuno deve pensare a un
 nome da proporre. 
 \0Poi passeremo
-alle votazioni."
+alle votazioni, 
+\0sì, sì."
 "042_01","Bene, bene! 
 \0(&촀\0Siete tutti pronti?"
 "042_02","((촀\0Allora che ognuno gridi la propria
-idea, contemporaneamente!"
+proposta, contemporaneamente!"
 "042_03","
 \0                  Prontin\0\0 VIA!"
 "043_01","(!촀\0Che idee splendide.
@@ -242,17 +241,17 @@ idea, contemporaneamente!"
 \0 Io dirò i nomi
 uno dopo l'altro
 \0 (촀\0e voi applaudirete
-per quello che preferite."
+quello che preferite."
 "043_03","(1촀\0Comincerò con la proposta
 di n\0."
 "043_04","(1촀\0Allora, n\0 ha suggeriton"
 "043_05","(촀\0n	\0!"
 "043_06","(촀\0Uau, 
 \0che entusiasmo! 
-\0(촀\0Si sono
-spellati tutti le zampe per gli
-applausi,
-\0 nessuno escluso!"
+\0(촀\0Tutti si sono
+spellati le zampe dagli applausi,
+\0
+nessuno escluso!"
 "043_07","(
 촀\0A questo punto,
 \0 direi che siamo tutti
@@ -298,7 +297,7 @@ avvenimenti e si sta facendo tardi.
 \0Concludiamo con un bel brindisi!"
 "045_04_02","(&촀\0Avete tutti la vostra bevanda
 in mano?\0\0(촀\0Sappiate che si tratta di succo fresco
-di n촀
+di \0n촀\0￿
 \0 ottenuto dai frutti raccolti
 oggi stesso 20dal nostrodalla nostra portavoce!"
 "045_04_03","(3촀\0E adesso, 
@@ -309,7 +308,7 @@ oggi stesso 20dal nostrodalla nostra portavoce!"
 agli abitanti di n	\0!"
 "045_05","
 \0(촀\0                    (촀\0\0A noi!\0d
-"
+<"
 "046","(
 촀\0Toglimi una curiosità, n\0.
 \0 Quando pensi al nome dell'isolan\0\0\0\0(&촀\0Lo pensi come n	\0 City,

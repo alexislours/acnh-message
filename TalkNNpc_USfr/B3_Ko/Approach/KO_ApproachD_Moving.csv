@@ -23,18 +23,15 @@ pour rien, t'inquiète pas.
 nouvelles aventures(촀\0."
 "002_a","Pars pas!"
 "002_b","À la revoyure!"
-"003","2\0n\0, ((촀\0J'ai pris une
-grave décision! (5촀\0Je vais quitter l'île
-et m'installer ailleurs!
-\0
-(;촀\0En fait je viens juste d'y penser!
+"003","2\0n\0, ((촀\0j'ai pris une grave décision! (5촀\0Je vais quitter l'île et m'installer ailleurs!
+\0\0\0(;촀\0En fait je viens juste d'y penser!
 
 \0(촀\0Je voudrais voir jusqu'où cette idée
 m'emmènera. (\0촀\0Tu t'en remettras?
-(%촀\0Et puis si on réfléchit trop, on n'arrive
-jamais à rien. 
-\0(촀\0Puisque le fer est
-chaud, je vais le battre."
+(%촀\0Et puis si on réfléchit trop, on
+n'arrive jamais à rien. 
+\0(촀\0Puisque le fer
+est chaud, je vais le battre."
 "003_a","Reste avec nous!"
 "003_b","Bats-le et va-t'en!"
 "004","(촀\0Tu sais que tu rends pas les choses
@@ -65,8 +62,7 @@ du chantage affectif?\0\0n\0\0
 un peu ici. Tu es content2\0e, j'espère?\0\0(
 촀\0En y réfléchissant, j'ai tout ce dont
 j'ai besoin, ici.
-\0 (촀\02\0n\0, et
-l'herbe est assez verte à mon goût!"
+\0 (촀\02\0n\0, et l'herbe est assez verte à mon goût!"
 "007","(촀\0Merci pour le soutien! 
 \0(9촀\0J'aurais pas
 pu résister, si tu m'avais fait tes

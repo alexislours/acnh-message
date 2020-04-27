@@ -42,13 +42,13 @@ Chuis 2unune pro."
 "010_101","(
 촀\0Qu'est-ce que tu préfères, niveau
 촀, déjà ? « ⁠2\0
-촀 » ?"
+촀 ⁠» ?"
 "010_101_a","(%촀\0Bingo.
 (%촀\0Correct."
 "010_101_b","(\0촀\0Raté !
 (\0촀\0Pus vraiment."
-"010_102","(&촀\0Tu t'souviens d'la fois où on causait 촀 préférée et que t'as dit « 
-촀 » ?"
+"010_102","(&촀\0Tu t'souviens d'la fois où on causait 촀 préférée et que t'as dit « ⁠
+촀 ⁠» ?"
 "010_102_a","(%촀\0J'adore ça !
 (%촀\0Bien sûr !"
 "010_102_b","Ça m'ressemble pas.
@@ -144,7 +144,7 @@ Pas vrai."
 Pas vraiment..."
 "030_101","« On » t'aurait d'mandé c'est quoi
 2\0촀 que t'aimes le plus.\0\0Et t'aurais répondu « ⁠
-촀 ». C'est vrai c'mensonge ?"
+촀 ⁠». C'est vrai c'mensonge ?"
 "030_101_a","C'est la vérité vraie !
 C'est 100 % vrai !"
 "030_101_b","C'est des craques.
@@ -169,7 +169,7 @@ C'est ce que j'ai dit."
 "030_103_b","En fait, non.
 Ce n'est plus le cas."
 "030_104","(9촀\0Ton truc, c'est, je cite, « ⁠
-촀 ».
+촀 ⁠».
 \0( Vrai ou faux ?"
 "030_104_a","Vrai de vrai.
 C'est bien ça."
@@ -177,7 +177,7 @@ C'est bien ça."
 Oui mais non."
 "030_105","Alors pour vérifier,(&촀\0 t'as vraiment
 dit qu't'es une pointure pour « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "030_105_a","J'ai dit ça.
 C'est la vérité."
 "030_105_b","Ça m'étonnerait.
@@ -192,7 +192,7 @@ faut qu'on cause 촀 plus souvent, n\0 !"
 c'est mon rêve !
 \0( C'est un max de
 taf, mais t'imagines le délire ?!
-(5촀\0« 2\0n\0 2\0촀 »n\0\0(촀\0 Ça aurait d'la gueule quand même."
+(5촀\0« 2\0n\0 2\0촀 ⁠»n\0\0(촀\0 Ça aurait d'la gueule quand même."
 "031_04","(촀\0Yesss !
 \0 C'est tout pareil que moi.
 \0(
@@ -211,7 +211,7 @@ c'est mon rêve !
 \0( C'est un max de
 taf, mais t'imagines le délire ?!
 (5촀\0« 2\0n\0, 
-촀 »n\0\0(촀\0 Ça aurait d'la gueule quand même."
+촀 ⁠»n\0\0(촀\0 Ça aurait d'la gueule quand même."
 "031_104","(촀\0Yesss !
 \0 C'est tout pareil que moi.
 \0(
@@ -373,26 +373,26 @@ ou t'avais d'jà répondu ça ?
 vraiment pour 촀, alors !"
 "060_101","( 촀\0Minuten\0\0
 \0 T'avais pas d'jà répondu « ⁠
-촀 » ?
+촀 ⁠» ?
 \0( Tu confirmes, alors !"
 "060_102","( 촀\0Minuten\0\0
 \0 T'avais pas d'jà répondu « ⁠
-촀 » ?
+촀 ⁠» ?
 \0( Tu confirmes, alors !"
 "060_103","( 촀\0Minuten\0\0
 \0 T'avais pas d'jà répondu « ⁠
-촀 » ?
+촀 ⁠» ?
 \0( Tu confirmes, alors !"
 "060_104","( 촀\0Hmm ?
 \0 T'as pas déjà sorti ça ?
 \0(
 (%촀\0J't'entends encore dire « ⁠
-촀 ».\0\0(촀\0C'est vraiment ton kif alors !"
+촀 ⁠».\0\0(촀\0C'est vraiment ton kif alors !"
 "060_105","( 촀\0Hmm ?
 \0 T'as pas déjà sorti ça ?
 \0(
 (%촀\0J't'entends encore dire « ⁠
-촀 ».\0\0(촀\0Tu dois vraiment assurer alors !"
+촀 ⁠».\0\0(촀\0Tu dois vraiment assurer alors !"
 "061","()촀\0OK, pigé, j'demandais juste
 histoire de, n\0."
 "100_01","Raconte un peu,
@@ -738,7 +738,7 @@ Comme j'y vais toujours à l'instinct,
 c'est autant d'la cuisine que d'la
 performance artistique.
 Mais j'fais parfois de bonnes
-trouvailles, genre 2\0촀 flambé2촀\0e\0."
+trouvailles, genre 2\0촀 flambé2촀\0e\0."
 "104_01","(촀\0D'la pop, hein ? C'est un peu trop
 gentillet pour moi, mais y a quand
 même deux, trois bons riffs.
@@ -830,8 +830,8 @@ qui combine les deux !"
 "104_10","(촀\0Classe !
 \0( Électrique ou acoustique ?
 \0(
-($촀\0Bah, osef, ça déchire dans les deux
-cas.
+($촀\0Bah, aucune importance, ça déchire
+dans les deux cas.
 (;촀\0Si jamais tu montes un groupe et
 que t'as besoin de quelqu'un pour
 beugler en rythme, pense à moi."

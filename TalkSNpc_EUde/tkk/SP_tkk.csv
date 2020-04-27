@@ -1,10 +1,9 @@
 ﻿"label","text"
-"001","Tut mir leid, 
+"001","Für heute bin ich durch, 
 \02
-AmigoSüße, 
-\0aber ich bin
-durch für heute.
-\0< -촀\0Schau früher rein,
+AmigoSüße.
+\0<
+-촀\0Schau nächstes Mal wieder vorbei,
 \0
 wenn du den Gig erleben willst, 
 \0'kay?"
@@ -111,8 +110,7 @@ zu sehen.
 "015_b","('촀\0Lieber ein andermal."
 "016","-촀\0Ohne dich, 
 \0n\0, 
-\0ist
-mein Auftritt einfach nicht komplett.(\0촀\0\0\0-촀\0Soll ich dann mal für dich die
+\0ist mein Auftritt einfach nicht komplett.(\0촀\0\0\0-촀\0Soll ich dann mal für dich die
 Saiten reiten?"
 "016_a","(%촀\0Mit Vergnügen!"
 "016_b","('촀\0Lieber ein andermal."
@@ -120,21 +118,20 @@ Saiten reiten?"
 \0Aber mal so richtig.
 \0
 Ich wusste, 
-\0dass du kommst, 
-\0n\0.(\0촀\0
--촀\0Steht dir der Sinn nach guter Musik?"
+\0dass du kommst,
+
+\0n\0.(\0촀\0\0\0-촀\0Steht dir der Sinn nach guter Musik?"
 "017_a","(%촀\0Ja, gern!"
 "017_b","('촀\0Lieber ein andermal."
 "018","-촀\0Hey, 
 \0n\0. 
 \0Du, 
 \02
-AmigoSüße,
-bist 2derdie Beste.
+AmigoSüße, 
+\0bist 2derdie Beste.
 \0 Echt jetzt.(\0촀\0
 \0 -촀\0Na, 
-\0magst
-du deinen Lauschern was gönnen?"
+\0willst du deinen Lauschern was gönnen?"
 "018_a","(%촀\0Na klar!"
 "018_b","('촀\0Lieber ein andermal."
 "019","n\0\0-촀\0Deine Unterstützung bedeutet mir
@@ -336,15 +333,11 @@ mal geben?"
 "054","-촀\0Verstehe schon.
 \0 Kein Thema."
 "060","2\0n\0.
-\0-촀\0 Hast du 'ne
-Sekunde?
-\0 Ich wollte was mit dir
-bequatschen."
-"061","-촀\0Kennst du jemanden namens
-s\0촀 hier auf
-n\0?\0\0Ich frage, 
-\0weil 2ersie am
-Z$촀 Z#촀 Geburtstag hat.\0\0-촀\0Ganz unter uns:
+\0-촀\0 Hast du 'ne Sekunde?
+\0 Ich wollte was mit dir bequatschen."
+"061","-촀\0Kennst du jemanden namens s\0촀 hier auf n\0?\0\0Ich frage, 
+\0weil 2ersie am Z$촀 Z#촀
+Geburtstag hat.\0\0-촀\0Ganz unter uns:
 \0 Ich will für 2ihnsie eine
 besondere Show auf die Beine
 stellen.

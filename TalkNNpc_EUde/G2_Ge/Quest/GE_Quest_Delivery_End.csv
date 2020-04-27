@@ -35,29 +35,27 @@ Du bist voll gut im Raten!\0\0(촀\0Okay, 
 \0(촀\0
 In Wahrheit war \0촁 drin!"
 "005","(촀\0Und der Preis istn\0\0
-\0 genau 2촀derdiedas gleiche
-}\0\0, 2촀dendiedas du mir gerade zurückgebracht hast!"
-"006","(촀\02,촀Diesen
-DieseDieses 2촁}\0\0
-hatte ich einfach vergessen, 
-\0also
-verdiene ich 2촀ihnsiees nicht mehr.\0\0Deshalb schenke ich 2촀ihnsiees jetzt dir!"
+\0 genau 2촀derdiedas gleiche
+}\0\0, 2촀dendiedas du mir gerade zurückgebracht hast!"
+"006","(촀\02,촀Diesen
+DieseDieses 2촁}\0\0 hatte ich einfach vergessen, 
+\0also verdiene ich 2촀ihnsiees nicht mehr.\0\0Deshalb schenke ich 2촀ihnsiees jetzt dir!"
 "007","Hier, 
-\0(촀\0jetzt kriegst du 2,촀diesen
-diesedieses 2촁}\0\0, 2촀dendiedas ich bestellt hatte!
+\0(촀\0jetzt kriegst du 2,촀diesen
+diesedieses 2촁}\0\0, 2촀dendiedas ich bestellt hatte!
 \0 Viel Spaß!"
 "008","(7촀\0Also... 
 \0danke noch mal fürs
 Vorbeibringen, 
 \0n\0!\0\0(""촀\0Wenn du s촁 siehst,
 \0
-sag 2Ď촀ihmihrihm mal Hallo von mir."
+sag 2ď촀ihmihrihm mal Hallo von mir."
 "009","(촀\0Das mit dem Quiz war sooo knapp!
 \0
 Trotzdem, 
 \0(촀\0danke, dass du mir das
 zurückgebracht hast!\0\0(""촀\0Sag s촁 auch Danke von mir, 
-\0wenn du 2Ď촀ihnsie\0 mal siehst, 
+\0wenn du 2ď촀ihnsie\0 mal siehst, 
 \0n\0."
 "101","(촀\0Echt supi von dir,
 \0 dass du dir so viel
@@ -78,10 +76,11 @@ ich auch keinen Stress mehr!
 \0
 (\0촀\0Hier,
 \0(촀\0 für dich!"
-"103","(""촀\02\02\0}\0,
+"103","(""촀\0Ein Foto von mir,
 \0 tadaaa!
 \0 So was kriegt nicht jeder,
-\0 also(촀\0 schließ 2촀ihnsiees in 'nem Tresor ein!\0\0(촀\0Ach was, 
+\0 also(촀\0 schließ es
+in 'nem Tresor ein!\0\0(촀\0Ach was, 
 \0war nur Spaß,
 
 \0n\0!"
@@ -129,8 +128,8 @@ so was als Belohnung zu geben?
 \0
 Egal,
 \0 ich hab hiern\0\0
-\0 Trommelwirbeln\0\0\0\02촀DenDieDas 2촁}\0,
-\0 2촀dendiedas ich gerade getragen habe!
+\0 Trommelwirbeln\0\0\0\02촀DenDieDas 2촁}\0,
+\0 2촀dendiedas ich gerade getragen habe!
 \0((촀\0 Na???
 \0 Überrascht?"
 "110","(촀\0Du wirst
@@ -163,15 +162,15 @@ drauf ab, 
 \0! 
 \0(&촀\0Ist das etwan\0\0?
 \0 (촀\0Ja,
-\0 ist es!\0\02$촀Mein
+\0 ist es!\0\02$촀Mein
 MeineMein }\0\0, 
-\02촀dendiedas ich s촁 ausgeliehen hatte!"
-"202","( 촀\02$촀Mein
+\02촀dendiedas ich s촁 ausgeliehen hatte!"
+"202","( 촀\02$촀Mein
 MeineMein 
 \0}\0\0!
 \0
 Echt jetzt? 
-\02촀DenDieDas habe ich bei
+\02촀DenDieDas habe ich bei
 s촁 vergessen?!"
 "203","(촀\0Ernsthaft?! 
 \0Wie krass!
@@ -199,9 +198,9 @@ Geschenk für mich besorgt?\0\0(촀\0C
 \0
 (촀\0Das ist soooo „s촁“!"
 "205","(촀\0WAS?!
-\0 s촁 will mir 2""촀
+\0 s촁 will mir 2""촀
 eineneineein 2촁}\0\0 schenken?\0\0(촀\0s촁 hat sich den Streit von neulich auch zu Herzen genommen, 
-\0was?\0\0('촀\0Ich sollte mich wohl bei 2Ď촀ihmihrihm
+\0was?\0\0('촀\0Ich sollte mich wohl bei 2ď촀ihmihrihm
 entschuldigen..."
 "206","(촀\0Das hatte ich ja total vergessen!
 \0
@@ -209,20 +208,20 @@ entschuldigen..."
 
 \0n\0!"
 "207","(2촀\0Und ich dachte, 
-\0ich seh 2촀dendiedas nie
+\0ich seh 2촀dendiedas nie
 wieder, 
-\0n\0!\0\0(\0촀\0Bin ich froh, dass du mir 2촀dendiedas
+\0n\0!\0\0(\0촀\0Bin ich froh, dass du mir 2촀dendiedas
 gebracht hast, 
 \0bevor ich noch
-2$촀
+2$촀
 eineneineeins gekauft habe.
 \0(촀\0 \0KSchon wieder!\0d"
 "208","(
 촀\0Alsooo, 
 \0n\0n\0\0
 \0 Vielleicht hat s촁 es aufgemacht,
-\0 weil 2Ď촀ersiees dachte, 
-\0es wär 2&Ď촀
+\0 weil 2ď촀ersiees dachte, 
+\0es wär 2&ď촀
 seinsihrs
 seins?\0\0(촀\0Ich meine, 
 \0würd ich wahrscheinlich
@@ -231,11 +230,12 @@ auch machen!
 \0(촀\0Danke fürs
 Vorbeibringen, 
 \0n\0!"
-"209","(촀\0Okay, was ich sagen will,
-n\0?
-\0(촀\0 Vielen, vielen
-Dank fürs Vorbeibringen!\0\0Wenn du mal eine Backup-Sängerin
-brauchst, bin ich immer für dich da,
+"209","(촀\0Okay, 
+\0was ich sagen will,
+\0 n\0?
+\0(촀\0 Vielen, vielen Dank fürs Vorbeibringen!\0\0Wenn du mal eine Backup-Sängerin
+brauchst, 
+\0bin ich immer für dich da,
 \0
 n\0!"
 "210","Tja... 
@@ -281,7 +281,7 @@ Sei vorsichtiger, 
 \0(촀\0also
 danke! 
 \0Dafür bekommst du von mir
-(""촀\02""촀
+(""촀\02""촀
 eineneineein 2촁}\0."
 "224","(촀\0Also, 
 \0dieses Mal bin ich super-
@@ -351,7 +351,7 @@ großmütig wie ichn\0\0
 \0 immerhin hast du es mir
 gegeben...
 \0 (촀\0Dafür gibt's von mir
-2""촀
+2""촀
 eineneineein 2촁}\0."
 "234","(촀\0Danke noch mal, n\0!
 \0

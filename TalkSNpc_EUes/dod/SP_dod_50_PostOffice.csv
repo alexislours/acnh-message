@@ -1,4 +1,19 @@
 ﻿"label","text"
+"010","( 촀\0¡Ah,
+\0 n\0!
+\0 (촀\0¿Sabes que es posible enviar postales a los amigos con los que hayas jugado?"
+"020","(9촀\0Pero, antes de que puedas usar
+este servicio,
+\0 tengo que informarte
+de ciertos asuntos legales.
+(7촀\0¿Te importaría leerte esto
+con atención?"
+"040","(촀\0Bueno, ahora que ya nos hemos
+quitado esto de encima,
+\0 (&촀\0¿quieres
+probar a enviar una postal?"
+"040_a","¡Sí, por favor!"
+"040_b","Pues no..."
 "050","(촀\0Oh, ¿quieres enviar una postal?\0\0(2촀\0Eston\0\0
 \0 Por supuesto, peron\0\0
 \0 deberías
@@ -12,6 +27,24 @@ mientras nos ocupamos del envío?"
 \0
 ¡Muy bien, cerraré las puertas!"
 "052","(촀\0¡Ya podemos proceder!"
+"053","(촀\0Oh, ¿quieres enviar una postal?\0\0(2촀\0Eston\0\0
+\0 Por supuesto, peron\0\0
+\0 deberías
+saber que no se me da demasiado
+bien supervisar varias cosas a la vez.
+(&촀\0¿Te importa si antes desactivo
+la comunicación inalámbrica?"
+"053_a","¡Adelante!"
+"053_b","No, espera"
+"054","(촀\0Gracias por tu comprensión.
+\0
+¡Voy a desactivar la comunicación
+inalámbrica!"
+"055","(촀\0¡Claro, tú mandas!
+\0 No tocaré nada.
+\0
+()촀\0Avísame si cambias de opinión y
+quieres usar el servicio postal."
 "070","(&촀\0¿Enviamos una postal entonces?"
 "070_a","¡Sí, por favor!"
 "070_b","Ahora mismo no"
@@ -22,6 +55,14 @@ si eres tan amable.(\0촀"
 "080_a","A alguien de la isla"
 "080_b","A mi futur2oa yo"
 "080_c","Mejor no..."
+"081","(촀\0Bien, si quieres enviar una postal,
+\0
+empieza por decirme a quién,
+si eres tan amable.(\0촀"
+"081_a","A alguien de la isla"
+"081_b","A mi futur2oa yo"
+"081_c","A un amigo"
+"081_e","Mejor no..."
 "200","(%촀\0¡Recibido! (&촀\0¿A qué residente de
 la isla?"
 "210_01","¿Es para s\0촀? ¡Vale!"
@@ -41,12 +82,62 @@ así que no puedo aceptar más.
 \0 pero ¿te
 importaría volver más tarde y así
 pongo un poco de orden aquí?"
+"301","(촀\0¡Tú mandas! ¿A qué amigo se la
+enviamos?"
+"311","()촀\0Para enviar postales,
+\0 debes activar
+la comunicación con otros usuarios
+en los ajustes del control parental."
+"312","(
+촀\0Vaya, vayan\0\0
+\0 Parece que aún no
+tienes la dirección de ningún amigo.\0\0(촀\0Te explico:
+\0 para enviar postales a tus
+amigos,
+\0 primero tienes que hacerles
+una visita en línea."
 "320","( 촀\0¡Anda!
 \0 Pero si hoy ya has enviado
 dos postales a s\0촀.\0\0(\0촀\0Me temo que hasta mañana no
 podrás enviarle ninguna más.
 \0
 (촀\0Disculpa las molestias."
+"321","(%촀\0Bien, vamos a prepararlo todo
+para que puedas enviar postales
+a tus amigos."
+"350","( 촀\0Ah, ¿es la primera vez que escribes
+a Nintendo? ('촀\0Pues debes saber que
+no recibirás ninguna respuestan\0\0
+()촀\0Eso sí, podrían publicar tu postal en
+su sitio web o en las redes sociales.\0\0Por eso es mejor que no incluyas
+ninguna información personal.\0\0(촀\0Y ya está, esas son las advertencias
+legales que tenía que comunicarte.
+¡Ya puedes ponerte a escribir!"
+"351","(촀\0Ah, ¿vas a enviar una postal
+a Nintendo?
+\0(촀\0 ¡Qué detallista!"
+"352","( 촀\0¡Anda!
+\0 Se ve que hoy ya has enviado
+dos postales a Nintendo y ese es
+el límite.
+(9촀\0Me temo que hasta mañana no
+podrás enviar ninguna más.
+\0
+(;촀\0Disculpa las molestias."
+"353","¡Perfecto! Voy a poner en marcha
+el sistema de contacto con
+Nintendon"
+"380","( 촀\0Huy, parece que ha habido algún
+problemilla. 
+\0(&촀\0¿Quieres que volvamos
+a probar ahora o mejor más tarde?"
+"380_a","¡Ahora!"
+"380_b","(\0촀\0En otro momento..."
+"381","($촀\0Entendido.
+\0 Entonces te devuelvo
+las bayas."
+"382","(%촀\0Ah, y te devuelvo también el regalo
+que ibas a enviar con la postal, claro."
 "400",""
 "401","(촀\0Entonces, ¿a qué fecha del futuro
 enviamos la postal?"
@@ -131,9 +222,8 @@ lo que has hecho hasta ahora por si
 quieres seguir en otro momento."
 "522","(촀\0Ah, ¿ya no te motiva esa postal?
 \0
-(촀\0¡Recibido!
-\0 
-\0(촀\0Avísame si vuelves a
+(촀\0¡Recibido!
+\0 Avísame si vuelves a
 necesitar mi ayuda."
 "523","(&촀\0¿Lo dejas por el momento?
 \0 (촀\0¡Ningún
@@ -176,8 +266,20 @@ enviarle nada a s촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
 "620","¿A quién quieres enviar la postal?"
 "620_a","A alguien de la isla"
 "620_b","A mi futur2oa yo"
+"621","¿A quién quieres enviar la postal?"
+"621_a","A alguien de la isla"
+"621_b","A mi futur2oa yo"
+"621_c","A un amigo"
+"621_d","A Nintendo"
+"625","Ah, veo que ya habías pagado por
+el envío.\0\0Déjame devolverte las bayas primero
+y luego cambias el destinatario, ¿sí?"
 "630","(%촀\0Muy bien; pues se va a la papelera.
 ¡Aquí se recicla todo!"
+"631","(%촀\0Muy bien;
+\0 la postal ya está lista para
+reciclarla y enseguida te devuelvo
+las 200 bayas que habías abonadon"
 "800","(촀\0¡Gracias por depositar
 tu confianza en Dodo Airlines!"
 "801","(%촀\0De acuerdo. 

@@ -4,12 +4,12 @@ schoonmaken,
 \0( (2촀\0en iemand moet het
 zien voor ik alles weer vies maak."
 "001_a","Tuurlijk kom ik!"
-"001_b","(\0촁\0Niet nu."
+"001_b","Niet nu."
 "002","(촀\0Joh, kom eens lekker bij me langs
 om te chillen.\0\0(4촀\0Alles is nu nog schoon, maar de
 vraag is hoelang dat zo blijftn"
 "002_a","Ik kom zeker!"
-"002_b","(\0촁\0Dat gaat even niet..."
+"002_b","Dat gaat even niet..."
 "003","( 촀\0Hé n\0, heb je zin om langs te komen en wat te kleppen over de goeie ouwe tijd?\0\0
 \0((촀\0Ik heb snoep in huis!"
 "003_a","Snoep? Dan kom ik!"
@@ -81,7 +81,7 @@ Ik heb niets te doen vandaag.
 \0( (촀\0
 Ik heb zelfs schoongemaakt!"
 "401_a","Ja, leuk!"
-"401_b","Misschien later."
+"401_b","(\0촀\0Misschien later."
 "402","(촀\0Hé n\0, heb jij op dit moment iets te doen?
 \0( (6촀\0Heb je zin om bij mij langs te komen?"
 "402_a","Prima!"

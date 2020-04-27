@@ -4,7 +4,7 @@ mais je sais jamais quoi faire,
 n\0.
 (촀\0Ah, mais j'ai une idée de malade!
 \0
-On va jouer à un truc!\0\0(6촀\0Si tu gagnes, t'empoches 2D촀mon divinissimema divinissime\0 }\0\0!\0\0Alors, t'en dis quoi?"
+On va jouer à un truc!\0\0(6촀\0Si tu gagnes, t'empoches 2D촀mon divinissimema divinissime\0 }\0\0!\0\0Alors, t'en dis quoi?"
 "001_a","OK!"
 "001_b","Plus tard, peut-êtren"
 "002","(촀\0Amazing! 
@@ -50,10 +50,12 @@ une victoire, faut connaître
 l'amertume de la défaite.
 (촀\0C'est un service que je te rends, là!"
 "008","(촀\0Très bien, commençons 
-\0(촀\0par un gros
-plan sur ton visage défiguré par
-l'anticipation!\0\0('촀\0Ah, non, coupez, ça va pas du
-tout, là!\0\0(촀\0Comment j'pourrais te donner 2\0}\0\0 si tes poches sont déjà pleines?\0\0Voilà le marché : toi, tu fais le tri,
+\0(촀\0par un
+gros plan sur ton visage défiguré
+par l'anticipation!\0\0('촀\0Ah, non, coupez, ça va pas
+du tout, là!\0\0(촀\0Comment j'pourrais te donner
+ta récompense si tes poches
+sont déjà pleines?\0\0Voilà le marché : toi, tu fais le tri,
 et moi(1촀\0n\0\0 Ben moi, j'attends ici!
 "
 "100","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes, et chacune
@@ -62,12 +64,12 @@ Y'a pas deux fois le même signe.
 ()촀\0Moi, j'prends une carte, et toi,
 t'essaies de deviner son signe.\0\0(촀\0Si tu tombes juste, à toi 2\0}\0\0. (<촀\0Bon, y'a plus qu'à essayern"
 "101","(9촀\0Alorsn\0\0 Quel est le signe de la carte
-dans ma main?\0\0Cœur \0♥\0￿, carreau \0♦\0￿, pique \0♠\0￿
-ou trèfle \0♣\0￿?"
-"101_a","Cœur \0♥\0￿"
-"101_b","Carreau \0♦\0￿"
-"101_c","Pique \0♠\0￿"
-"101_d","Trèfle \0♣\0￿"
+dans ma main?\0\0\0Cœur ♥\0￿, \0carreau ♦\0￿, \0pique ♠\0￿
+ou \0trèfle ♣\0￿?"
+"101_a","\0Cœur ♥\0￿"
+"101_b","\0Carreau ♦\0￿"
+"101_c","\0Pique ♠\0￿"
+"101_d","\0Trèfle ♣\0￿"
 "102_01","\0
 \0(촀\0Et c'est du 촀!
 \0
@@ -80,7 +82,7 @@ C'était du (촀\0촀!
 "200","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes en \0♥\0￿, \0♦\0￿,\0 \0￿\0♠ \0￿ou\0 ♣\0￿.
 Y'a pas deux fois le même signe.\0\0()촀\0Moi, j'prends une carte, et toi,
 t'essaies de deviner sa couleur.\0\0(촀\0Donc, si tu m'dis \0rouge\0￿, et que ma
-carte est du \0♥ \0￿ou du \0♦\0￿, tu gagnesn\0\0\0\0Et t'empoches 2@촀mon magnifiquema magnifique\0 }\0\0. (<촀\0Bon, y'a plus qu'à essayern"
+carte est du \0♥ \0￿ou du \0♦\0￿, tu gagnesn\0\0\0\0Et t'empoches 2@촀mon magnifiquema magnifique\0 }\0\0. (<촀\0Bon, y'a plus qu'à essayern"
 "201","(3촀\0Voilà, j'ai pris une carten\0\0\0\0(&촀\0De quelle couleur est-elle?
 \0
 \0Rouge\0￿n\0\0 ou \0noire\0￿?"

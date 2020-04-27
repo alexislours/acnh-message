@@ -105,13 +105,8 @@ suis venue direct!"
 "202_01","(""촀\0Wello!
 \0 Je suis n
 \0, star en formation! (촀\0C'est s\0촀 qui m'a invitée!"
-"202_02","(""촀\0
-\0n
-\0, très heureuse! Tu connais s\0촀? 2
-촀IlElle\0 m'a invitée à venir camper ici!"
-"202_03","(""촀\0Salut! Je suis n
-\0! 2\0s\0촀 m'a dit de
-venir ici, alors me voilààà!"
+"202_02","(""촀\0Tu connais s\0촀? 2촀IlElle\0 m'a invitée à venir camper ici!"
+"202_03","(""촀\02\0s\0촀 m'a dit de me ramener ici, alors me voilààà!"
 "301","<"
 "301_01","()촀\0
 \0L'air 2
@@ -121,7 +116,8 @@ venir ici, alors me voilààà!"
 \0(Je me sens toute revigorée, n\0."
 "301_02","(1촀\0
 \0Y'a des jours, je suis plutôt
-« campeuse tranquillou », et d'autres, « campeuse casse-cou »n\0\0\0\0(촀\0
+« campeuse tranquillou », et
+d'autres, « campeuse casse-cou »n\0\0\0\0(촀\0
 \0En ce moment, je serais du genre
 « campeuse pas-encore-décidou »,
 n\0."
@@ -148,7 +144,8 @@ le bon sens du terme,(촀\0 lol!"
 \0(Je me sens toute revigorée, n\0."
 "302_02","(1촀\0
 \0Y'a des jours, je suis plutôt
-« campeuse tranquillou », et d'autres, « campeuse casse-cou »n\0\0\0\0(촀\0
+« campeuse tranquillou », et
+d'autres, « campeuse casse-cou »n\0\0\0\0(촀\0
 \0En ce moment, je serais du genre
 « campeuse pas-encore-décidou »,
 n\0."
@@ -185,13 +182,13 @@ retourner les oreilles?
 \0 (""촀\0Je vaisn\0\0
 (촀\0m'installer sur cette île!\0\0()촀\0
 \02\0s\0촀 m'a invitée, et 
-n\0 me plaît carrément, alors j'ai dit oui!\0\0($촀\0Par tout2""촀\0e\0 2\0촀 du monde, on va danser cette île comme jamais, n\0!"
+n\0 me plaît carrément, alors j'ai dit oui!\0\0($촀\0Par tout2#촀\0e\0 2\0촀 du monde, on va danser cette île comme jamais, n\0!"
 "402_02","(촀\0
 \0Tu connais la dernière? Je vais m'installer à n\0!
 \0
 (촀\0Tadaaa!
 \0 Ça te surprend?\0\0()촀\0
-\0C'est s\0촀 qui a lancé l'idée et j'ai dit « Pourquoi pas »!\0\0(촀\0
+\0C'est s\0촀 qui a lancé l'idée et j'ai dit « ⁠Pourquoi pas ⁠»!\0\0(촀\0
 \0J'ai trop hâte d'être une vraie n\0-oise! 
 \0Ça va dépoussiérer les lasers à papi,(촀\0 lol!"
 "402_03","Hé, (;촀\0devine!

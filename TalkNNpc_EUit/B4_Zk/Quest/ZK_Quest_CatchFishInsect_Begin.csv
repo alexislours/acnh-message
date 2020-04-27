@@ -5,7 +5,7 @@ di 2\0}촀?
 ('촀\0Per me no!
 (1촀\0Il suo colore, la sua lucentezza,
 la sua linea sobria ed eleganten\0\0
-Quanto ne vorrei un2촀oa\0, n\0!"
+Quanto ne vorrei un2촀oa\0, n\0!"
 "003_a","(\0촁\0Vuoi che ti aiuti?
 (\0촁\0Ci penso io!"
 "003_b","(\0촁\0Non posso aiutarti.
@@ -26,7 +26,7 @@ di 2\0}촀?
 ('촀\0Per me no!
 (1촀\0Il suo colore, la lucentezza, la sua
 linea sobria ed eleganten\0\0 Quanto
-ne vorrei un2촀oa\0, n\0!"
+ne vorrei un2촀oa\0, n\0!"
 "008_a","(\0촁\0Vuoi che ti aiuti?
 (\0촁\0Ci penso io!"
 "008_b","(\0촁\0Non posso aiutarti.
@@ -91,7 +91,7 @@ così tanto estilo!
 "021_a","Lascia fare a me!
 OK!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","(촀\0Ehi, sbaglio o hai mucho tiempo
@@ -108,7 +108,7 @@ uno. Va bene qualsiasi tipo!"
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","(촀\0Hai la faccia di un2oa brav2oa a
@@ -129,7 +129,7 @@ a più non puedo, senza mollare mai!"
 "023_a","Lascia fare a me!
 OK!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","(&촀\0Ho sentito che sei 2ununa valiente
@@ -144,7 +144,7 @@ una farfalla. Me ne cattureresti una?
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(6촀\0OK, dimmi qual è il tuo insetto
@@ -162,7 +162,7 @@ una giacca luccicante come lei!"
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","( 촀\0Hai mai visto un insetto posarsi
@@ -178,7 +178,7 @@ sappia posarsi su un fiore."
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","(
@@ -198,7 +198,7 @@ qualsiasi insetto amante dei ceppi!"
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","(&촀\0Ehi, come te la cavi con la pesca?
@@ -213,7 +213,7 @@ di acqua dolce? Por favor?"
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","(&촀\0Ehi, come te la cavi con la pesca?
@@ -227,7 +227,7 @@ de mar?
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(촀\0A te piace catturare insetti, no?
@@ -241,7 +241,7 @@ fartin\0\0
 "101_b","Adesso? Mmmh...
 (\0촁\0Mi spiace, ma... no."
 "102","(&촀\0Dimmi un po', ti è mai capitato
-di dare la caccia 2촀alalla\0 temibile
+di dare la caccia 2촀alalla\0 temibile
 }촀?
 (
 촀\0Pare che in fondo non sia così
@@ -273,10 +273,10 @@ fartin\0\0
 2\0}촀 per me?\0\0(촀\0Ecco qua, è tutto."
 "201_a","Certo!
 (\0촁\0E va bene."
-"201_b","Adesso? Mmmh...
+"201_b","(\0촁\0Adesso? Mmmh...
 (\0촁\0Mi spiace, ma... no."
 "202","(&촀\0Dimmi un po', ti è mai capitato
-di dare la caccia 2촀alalla\0 temibile
+di dare la caccia 2촀alalla\0 temibile
 }촀?
 (
 촀\0Pare che in fondo non sia così

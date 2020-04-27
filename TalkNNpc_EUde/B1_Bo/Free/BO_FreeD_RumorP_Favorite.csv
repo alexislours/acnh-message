@@ -236,8 +236,9 @@ deinem Traumberuf gesagt hast?
 촀“?"
 "030_103_a","(%촀\0Ja!"
 "030_103_b","('촀\0Nein..."
-"030_104","Stimmt es, dass du auf die Frage
-nach deinem Lieblingshobby
+"030_104","Stimmt es, 
+\0dass du auf die Frage
+nach deinem Lieblingshobby($촀\0
 „
 촀“ sagst?"
 "030_104_a","(%촀\0Ja!"
@@ -246,7 +247,7 @@ nach deinem Lieblingshobby
 \0
 „⁠2\0
 촀“. 
-\0Hast du das echt gesagt, 
+\0($촀\0Hast du das echt gesagt, 
 \0n\0?"
 "030_105_a","(%촀\0Ja!"
 "030_105_b","('촀\0Nein..."

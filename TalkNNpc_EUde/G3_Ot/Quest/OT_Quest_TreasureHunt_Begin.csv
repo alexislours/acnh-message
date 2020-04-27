@@ -24,7 +24,8 @@ veranstalten."
 \0()촀\0 Jetzt
 
 \0werde ich den Schatz irgendwo auf
-der Insel vergraben. Warte bitte hier."
+der Insel vergraben. 
+\0Warte bitte hier."
 "005","(촀\0Bist du aber 2V(ein munterer Geselle*eine muntere Gesellin.
 \0 ()촀\0Du wartest hier, 
 \0 und ich vergrabe
@@ -227,8 +228,7 @@ Konversation habe ich ganz die Zeit
 vergessen!\0\0(\0촀\0Tut mir leid, aber jetzt ist es viel zu
 spät,
 \0 n\0.
-\0 (촀\0Wir holen
-das ein andermal nach."
+\0 (촀\0Wir holen das ein andermal nach."
 "107","(촀\0Ich WUSSTE, du bist dabei!
 \0(촀\0\0\0()촀\0Dann
 \0 werde ich mal den Schatz

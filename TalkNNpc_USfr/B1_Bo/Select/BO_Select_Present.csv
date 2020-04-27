@@ -7,9 +7,7 @@ En plus, c'est pile dans ma palette
 de couleurs!"
 "100_02","Merci, (촀\0
 \0n\0!
-\0( (%촀\0Ça me
-faisait envie depuis un bout de
-temps, figure-toin\0\0\0\0Mais si c'est toi qui me l'offres,
+\0( (%촀\0Ça me faisait envie depuis un bout de temps, figure-toin\0\0\0\0Mais si c'est toi qui me l'offres,
 ça me fait encore plus plaisir,
 n\0!"
 "100_03","(촀\0Merci beaucoup, c'est trop gentil!
@@ -33,6 +31,8 @@ foisn\0\0
 "103","(촀\0Ouuh! J'adore recevoir de nouveaux
 meubles! Ils sentent toujours bon le
 neuf, (5촀\0et ça fait chic dans la maison!"
+"104","(촀\0\0J'ai déjà vu ce truc quelque partn\0\0
+\0(\0￿"
 "111","(촀\0Ouah!
 \0( (촀\0Merci tout plein, n\0!
 \0(촀"
@@ -99,9 +99,7 @@ moment
 \0 et je ferai un défilé de mode
 pour les insectes, n\0!"
 "301","(촀\0Merci, n\0!
-\0(()촀\0 C'est le
-genre de choses que je perds tout le
-tempsn\0\0(5촀\0 Mais pas cette fois, promis!"
+\0(()촀\0 C'est le genre de choses que je perds tout le tempsn\0\0(5촀\0 Mais pas cette fois, promis!"
 "302","(촀\0Merci beaucoup!
 \0( (&촀\0J'ai juste aucune
 idée de comment m'en servir.
@@ -138,12 +136,12 @@ les insectes!"
 Et puis comme ça, ça va sentir autre
 chose que la nourriture, chez moi!"
 "406","(촀\02\02\0}\0\0?
-\0( ($촀\0C'est toi qui l'as attrapé2촀\0e\0?"
+\0( ($촀\0C'est toi qui l'as attrapé2촀\0e\0?"
 "407","(촀\0Merci n\0!
 \0( ()촀\0Je suis certain qu'on va bien s'entendren\0\0
 \0 (촀\0comme des poissons dans l'eau!"
 "408","(촀\02\02\0}\0\0?!
-\0( ($촀\0C'est toi qui l'as attrapé2촀\0e\0?"
+\0( ($촀\0C'est toi qui l'as attrapé2촀\0e\0?"
 "409","(촀\0Merci, c'est trop gentil!
 \0( Mes amis
 les insectes vont l'adorer! Je vais
@@ -165,14 +163,10 @@ peux le manger, n\0!"
 "501","Hein?
 \0( (촀\02\02\0}\0\0?!"
 "502","(촀\0Mais enfin, n\0!
-\0( Que
-veux-tu que je fasse de ça?(
-촀\0 Je te le
-rends, sinon c'est poubelle direct!"
-"503","(촀\0Ohn\0\0 2\0n\0, tu es bien
-sûr2\0e
-\0( (&촀\0que tu voulais me donner
-des clochettes?"
+\0( Que veux-tu que je fasse de ça?(
+촀\0 Je te le rends, sinon c'est poubelle direct!"
+"503","(촀\0Ohn\0\0 2\0n\0, tu es bien sûr2\0e
+\0( (&촀\0que tu voulais me donner des clochettes?"
 "504","(촀\0C'est très gentil,
 \0 mais je ne peux
 vraiment pas accepter!
@@ -196,10 +190,8 @@ le garder.\0\0()촀\0Mais merci d'avoir pensé à moi!
 
 \0Ouah, génial!"
 "512","Merci,(촀\0 n\0!
-\0((촀\0 Je
-l'écoute en boucle, moi aussi!
-\0(
-(2촀\0On a les mêmes goûts, on dirait!"
+\0((촀\0 Je l'écoute en boucle, moi aussi!
+\0( (2촀\0On a les mêmes goûts, on dirait!"
 "513","Merci beaucoup, c'est vraiment
 très gentil! (촀\0Je vais l'écouter tout
 à l'heure."

@@ -88,11 +88,10 @@ m'entraîner sous cette pluie.\0\0(\0촀\0Aujourd'hui,
 \0 le temps est parfait pour
 exercer un peu tous ses muscles!"
 "022","(촀\0Ah,
-\0 ce soleil!
-\0 (촀\0Profitons-en :
-\0 c'est le
-moment de transpirer un bon coup,
-n\0!"
+\0 il fait beau, ces temps-ci!
+\0
+(촀\0Profitons-en pour transpirer un bon
+coup, n\0!"
 "023","()촀\0C'est bien joli,
 \0 les pétales de cerisier
 pleuvant sur nous,
@@ -148,7 +147,8 @@ moi,
 \0 de temps en temps!"
 "033","
 
-\0(,촀\0\0AAAATCHOUM!\0d\0\0(2촀\0Un pétale de fleur m'est rentré dans
+\0(,촀\0\0AAAATCHOUM!\0d\0\0
+	\0(2촀\0Un pétale de fleur m'est rentré dans
 le nez,
 \0 en faisant de l'aérobique.\0\0C'était super gênant,
 \0

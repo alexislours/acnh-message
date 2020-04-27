@@ -3,13 +3,13 @@
 \0(7촀\0scusa se lo chiedo così
 all'improvviso, 
 \0ma vorresti comprare
-2""촀il miola mia\0 }\0\0?"
+2""촀il miola mia\0 }\0\0?"
 "001_a","(\0촀\0Quanto costa?"
 "001_b","Grazie, non mi serve."
-"002","(3촀\0Dimmi un po' che ne pensi, amic2oan\0\0
-\0 (촀\0Ho 2\0}\0\0 22촀bellissimobellissima\0 da venderti!"
+"002","(3촀\0Ehi, amic2oa, ti andrebbe di comprare
+qualcosa da me?\0\0(촀\0Ho 2\0}\0\0 22촀bellissimobellissima\0 da venderti!"
 "002_a","(\0촀\0Che prezzo mi fai?"
-"002_b","Preferisco passare."
+"002_b","(\0촀\0Preferisco passare."
 "003","(2촀\0Vorrei comprare l'edizione limitata
 del primo numero di Zuppaman,
 
@@ -27,11 +27,11 @@ perchén\0\0 
 dal mio ultimo spuntino, va bene?
 ()촀\0Ad ogni modo, 
 \0adesso ne ho
-tropp2촀ie\0n\0\0 
+tropp2촀ie\0n\0\0 
 \0(&촀\0quindi non è che me ne
-compreresti 2촀unouna\0, n\0?"
+compreresti 2촀unouna\0, n\0?"
 "004_a","(\0촀\0Quanto vorresti?"
-"004_b","Sto bene anche senza."
+"004_b","(\0촀\0Sto bene anche senza."
 "005","( 촀\0Oh, 
 \0ehmn\0\0 
 \0OK. 
@@ -69,7 +69,7 @@ saltan"
 \0(&촀\0 Che te ne sembra?"
 "100_a","Affare fatto!
 Ci sto!"
-"100_b","Mi pare un po' esoso.
+"100_b","(\0촀\0Mi pare un po' esoso.
 Passo, ma grazie."
 "101","(촀\0Oh, uau! 
 \0Grazie mille! 
@@ -116,7 +116,7 @@ potuto comprare con quella cifra.
 "201_a","Ora ci siamo.
 Così è fattibile."
 "201_b","È ancora troppo...
-Mi pare sempre caro."
+(\0촀\0Mi pare sempre caro."
 "202","(촀\0Mitico! 
 \0Grazie una tonnellata!"
 "203","(촀\0Sono sicuro che te ne prenderai cura
@@ -142,7 +142,7 @@ non mi mancherà più di tanto."
 "205_a","Ora si ragiona!
 Sì, così ci sto."
 "205_b","È ancora un salasso.
-Mmmh... Non saprei..."
+(\0촀\0Mmmh... Non saprei..."
 "206","(촀\0Mi spiace, 
 \0ma un prezzo più basso
 sarebbe sottoterran\0\0 

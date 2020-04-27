@@ -7,6 +7,12 @@ divertida contigo cercan\0\0
 (촀\0Voy a preguntar en la \0oficina de
 gestión vecinal \0￿a ver si puedo
 quedarme a vivir, n\0n"
+"003","( 촀\0¿Va en serio?
+\0 (7촀\0Bueno, si insistes
+tanto,
+\0 ¡estaría feo decirte que no!\0\0(촀\0Voy a preguntar en la \0oficina de
+gestión vecinal \0￿a ver si puedo
+quedarme a vivir, n\0n"
 "101","<"
 "101_01","( 촀\0¡¿No estás de broma?!
 \0
@@ -115,31 +121,34 @@ cuando estoy haciendo tartan\0\0
 no olvidar nunca!"
 "206","<"
 "206_01","Eso significan\0\0
-\0 (촀\0¡que tú ganasn\0\0!
-\0
-(;촀\0n\0 era, ¿no?\0\0(%촀\0Voy a casa, recojo las reservas
-de chuches, los cómics, las consolas,
-las figuritasn\0\0
-(촀\0¡Y la próxima vez que nos veamos
-ya seremos compis insulanos!"
+\0 (촀\0¡que tú ganas!\0\0(%촀\0Voy a tener que ir a casa a recoger
+las reservas de chuches,
+\0 los cómics,
+
+\0las consolas,
+\0 las figuritasn\0\0
+(7촀\0Aunque primero debería preguntar
+en la \0oficina de gestión\0￿, ¿no?\0\0(촀\0¡No vaya a ser que nos llevemos
+un chasco!"
 "206_02","(촀\0¡Tú ganas!
-\0 (촀\0Me mudo a n\0⁠.\0\0(7촀\0La verdad es que tenía muchas ganas
+\0 (촀\0Me mudo a n\0, n\0⁠.\0\0(7촀\0La verdad es que tenía muchas ganas
 de mudarme aquí, así que me daba
 miedo acabar ganando yon\0\0
 (촀\0Ahora ya puedo respirar tranquilon\0\0
 \0
-¡y además vamos a ser vecinos!
-\0
-(;촀\0Te llamabas n\0, ¿no?"
+(촀\0¡Ah, no!
+\0 ¡Que tengo que hablar con
+los de la \0oficina de gestión\0￿!
+(촀\0Espero que no haya ningún problema
+y me dejen vivir aquí.
+\0 ¡En nada te
+cuento!"
 "206_03","(촀\0¡Tenemos 2""ganadorganadora!
 \0 (촀\0¡Me mudo
-a tu isla y casi ni me lo creo!\0\0()촀\0Recojo por aquí, vuelvo a casa,
-hago maletas,
-\0 (촀\0¡y en un pispás
-seremos vecinos!
-(;촀\0Una cosa que quería preguntarten\0\0
-\0
-Te llamabas n\0, ¿no?"
+a tu isla y casi ni me lo creo!\0\0(7촀\0Bueno, aún no sé si me mudo,
+primero tengo que preguntar en
+la \0oficina de gestión vecinal\0￿.
+(촀\0¡Pero seguro que me dicen que sí!"
 "302","(촀\0Perdón por la esperan\0\0
 \0 He hablado
 con la gente de la \0oficina de gestión
@@ -180,9 +189,9 @@ me dijisten\0\0
 ()촀\0Parece que s촀 quería mudarse de todos modos, así que ganamos todos.\0\0(9촀\0Por si acaso cambiaba de idea,
 no he querido preguntar por qué
 quería irse de esta isla tan chachin\0\0
-(촀\0¡El caso es que vamos a ser vecinos,
-n\0!\0\0(촀\0¡Y a lo mejor es por eso por lo que
-no puedo parar de aplaudir!(촀"
+(촀\0¡El caso es que yo, n
+\0, y tú, n\0, seremos vecinos!\0\0(촀\0¡Y a lo mejor es por eso por lo que
+no puedo parar de aplaudir, n\0!(촀"
 "310","(&촀\0¿No ves a nadie a quien pueda
 preguntar?"
 "310_a","¡Alguien sí que hay!"
@@ -191,34 +200,18 @@ preguntar?"
 su nombre?"
 "312","(촀\0No te preocupesn\0\0 ¡Mejor en otro
 momento!"
-"402","(촀\0¡Gracias por tu paciencia!
-\0
-Ya he preguntado por lo de mudarme
-en la \0oficina de gestión vecinal\0￿...
-(촀\0Pero me han dicho que ya hay
-alguien igualito a mí viviendo aquí
-y que no podía instalarme.
-(촀\0Digo yo que, si dos animales iguales
-viven en la isla, se produce algún
-tipo de colapso a nivel molecular.
-(촀\0¡Imagínate el follón si planto aquí
-mi casa y la isla explota o algo así!\0\0(9촀\0Voy a verme mi colección de pelis
-de ciencia-ficción completa para ver
-si encuentro más datosn\0\0
-(%촀\0¡Y ya volveré a hablar con ellos!
-\0
-Les resolveré el problema,
-\0
-y así podremos ser vecinos."
-"403","(촀\0¡Ya está hecho!
-\0 He preguntado
-en la \0oficina de gestión vecinal \0￿yn\0\0
-\0
-(촀\0otro igual que yo se viene para acá.
-(촀\0¡No sabía que algo así pudiera
-vetarte la mudanza!\0\0(3촀\0A lo mejor puedo hacerme pasar
-por él e instalarme en su lugar,
-como en cierta peli de terror que vin"
+"313","(촀\0¡Yupi!
+\0 Pues podría hablar con 2촀ununa\0
+tal s촀n\0\0\0\0(4촀\0Los de la \0oficina de gestión\0￿ han
+mencionado que estaba pensando
+en mudarse.
+(&촀\0¿Voy a su casa y le pregunto?"
+"313_a","¡Sí, hazlo!"
+"313_b","Mejor no"
+"314","( 촀\0Ah, pero yo creía quen\0\0
+\0 (촀\0Bueno,
+mejor nos olvidamos del tema de
+momento, n\0."
 "404","(촀\0He preguntado en la \0oficina de
 gestión vecinal\0￿n\0\0
 \0 (촀\0pero estáis llenos,
@@ -227,26 +220,16 @@ y no puede mudarse nadie más.
 esto es una faena.
 \0 (%촀\0Bueno, espero
 que podamos ser vecinos algún día."
-"405","He preguntado en la \0oficina
-de gestión vecinal \0￿yn\0\0
-\0 (촀\0ya no queda
-sitio para hacer más casas.
-(촀\0Este chasco ha sido peor que el
-que me llevé anteayer cuando vi
-que se habían acabado las torrijas.
-(;촀\0En fin,
-\0 con un poco de suerte, un día
-de estos conseguimos ser vecinos,
-n\0."
 "406","(촀\0Bueno,
-\0 he hablado con la \0oficina de
-gestión vecinal \0￿yn\0\0
-\0 (촀\0¡han dicho que
-puedo mudarme!
-(촀\0¡A partir de mañana vamos
-a ser vecinos, n\0!
-\0
-¡Nos lo vamos a pasar chachi!"
+\0 he hablado con la \0oficina
+de gestión vecinal \0￿yn\0\0
+\0 (촀\0¡han dicho
+que puedo mudarme!
+(촀\0¡A partir de mañana vamos
+a ser vecinos, n\0!\0\0(촀\0Y, por si no lo sabes ya, yo me llamo
+n
+\0.
+\0(촀\0 ¡Nos lo vamos a pasar chachi, n\0!"
 "410","(
 촀\0¿Tú crees que debería preguntar
 otra vez?
@@ -259,22 +242,6 @@ que sí puedo empezar a traer cajasn"
 demasiado pronton\0\0
 \0 (촀\0¡Ya probamos
 en otro momento, n\0!"
-"421","(
-촀\0Esto parece un capítulo
-de «Abracadabrantemente
-abracadabrante»n\0\0
-(촀\0Es una pena que no pueda mudarme
-aquí,
-\0 (촀\0¡pero muchas gracias
-por invitarme! "
-"422","(
-촀\0Aunque sería bastante difícil imitarlo
-en todo, incluyendo sus muletillas,
-n\0n\0\0
-(%촀\0Esta vez no va a poder ser,
-\0 pero te
-agradezco mogollón que pensaras
-en mí para esto."
 "423","(촀\0Con tanta gente viviendo aquí,
 seguro que esta isla es de lo más
 divertida, n\0.
@@ -282,11 +249,6 @@ divertida, n\0.
 instalarme,
 \0 ($촀\0¡pero tu invitación
 me ha alegrado el día!"
-"424","(촀\0Con tantos que sois aquí, ya no hay
-posibilidad de venirme a vivir.\0\0($촀\0De momento nos despedimos,
-\0
-¡pero quién sabe si no acabaremos
-siendo vecinos!"
 "504","(촀\0Tu isla es superacogedora, la gente
 es simpatiquísima y la comida está
 de rechupeten\0\0

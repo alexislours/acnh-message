@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(촀\0n\0!
+"001","(촀\02\0n\0!
 \0
 Willkommen!
 \0 Schön,
@@ -37,8 +37,8 @@ Geburtstagsfeier!\0\0(촀\0Ich hab heute schon so viele tolle
 Geschenke bekommen!\0\0(4촀\0Ich bin richtig gespannt,
 \0 ob du wohl
 auch etwas für mich dabei hast..."
-"006_a","(\0촀\0Dann guck mal hier!"
-"006_b","(\0촀\0Oje! Tut mir leid..."
+"006_a","Dann guck mal hier!"
+"006_b","Oje! Tut mir leid..."
 "007","(촀\0Oh nein,
 \0 da bin ich aber ins
 Fettnäpfchen getreten...
@@ -106,9 +106,8 @@ es mal in die Wäsche musste...\0\0(촀\0Aber jetzt,
 \0
 muss ich nie wieder was anderes
 tragen!"
-"020","(촀\02,촀Dieser
-DieseDieses }\0\0
-sieht ja genau aus wie 2*촀deiner
+"020","(촀\02,촀Dieser
+DieseDieses }\0\0 sieht ja genau aus wie 2*촀deiner
 deine
 deins!\0\0(촀\0Wie schön,
 \0 dann können wir jetzt ja
@@ -176,7 +175,7 @@ Extra für mich!?
 \0 das
 freut mich aber sehr!"
 "031","(촀\0Das ist ja eine \0Bastelanleitung\0￿ für
-2""촀
+2""촀
 eineneineein 2촁}\0\0!\0\0(
 촀\0Hmmmm
 \0n\0\0 Das kann ich wirklich
@@ -193,7 +192,7 @@ benutzen würdest."
 \0vielen Dank!
 \0(\0촀\0
 Zufälligerweise kann ich mich
-direkt dafür revanchieren...\0\0(촀\0Mit 2(촀
+direkt dafür revanchieren...\0\0(촀\0Mit 2(촀
 einem
 einer
 einem 2촂}\0!"
@@ -202,7 +201,7 @@ zu Besuch,
 \0 sondern bringst mir auch
 noch ein Geschenk mit!\0\0(촀\0Da muss ich mich sofort
 revanchieren... 
-\0Mit 2(촀
+\0Mit 2(촀
 einem
 einer
 einem
@@ -242,8 +241,7 @@ zusammen, 
 "058","(2촀\0Diese Feier wird in meinem Tagebuch
 viele Seiten in Anspruch nehmen!"
 "060","2\0n\0,
-\0 (4촀\0hast du zufällig
-ein Geschenk für mich dabei?"
+\0 (4촀\0hast du zufällig ein Geschenk für mich dabei?"
 "060_a","(\0촀\0Jetzt, wo du's sagst..."
 "060_b","Leider nicht!"
 "061","(촀\0Es ist so wunderschön, mit euch

@@ -80,7 +80,7 @@ hat, desto mehr Mühe muss man
 sich bei der Einrichtung geben...\0\0(촀\0Ich sollte mir ein paar Tipps von dir
 geben lassen, 
 \0n\0!"
-"006","촊촉( 촀\0n\0,
+"006","촊촉( 촀\02\0n\0,
 \0 du hast jetzt ein
 größeres Haus, 
 \0nicht wahr?
@@ -88,17 +88,18 @@ größeres Haus, 
 \0촆촃Supercool, 
 \0n\0!\0\0Dann hast du ja jetzt viel mehr Platz
 für süße Möbel und so!"
-"007","촊촉($촀\0Du hast angebaut, 
+"007","촊촉($촀\0Du hast hinten noch ein Zimmer,
+
 \0nicht wahr?\0\0촆촃(촀\0Ich kaufe ja auch STÄNDIG
-irgendwelche Klamotten, Möbel
+irgendwelche Klamotten, 
+\0Möbel
 und so...\0\0(7촀\0Da käme mir etwas mehr Stauraum
-auch gelegen."
+auch gelegen, 
+\0n\0."
 "008","촊촉2\0n\0, 
-\0dein Haus (;촀\0hat
-ganze drei Zimmer, 
+\0dein Haus (;촀\0hat ganze drei Zimmer, 
 \0nicht wahr?
-\0
-촆촃(촀\0Ich bin ja SOOO neidisch!\0\0(1촀\0Drei Zimmer sind viel besser als
+\0 촆촃(촀\0Ich bin ja SOOO neidisch!\0\0(1촀\0Drei Zimmer sind viel besser als
 zwei. 
 \0Zwar weniger als vier, 
 \0('촀\0aber
@@ -130,21 +131,16 @@ ganze Nacht schreien, ohne
 dass einen jemand hört.\0\0(촀\0Singen! 
 \0Ich meinte Singen!"
 "012","촊촉2\0s\0촀 lebt wohl ganz bescheiden im Zelt... 
-\0(&촀\0Weißt du, ob 2
-촀ersie\0 bald mal ein Haus bauen will?\0\0촆촃(\0촀\0Stell dir vor, es gefällt 2
-촀ihmihr\0 darin
+\0(&촀\0Weißt du, ob 2촀ersie\0 bald mal ein Haus bauen will?\0\0촆촃(\0촀\0Stell dir vor, es gefällt 2촀ihmihr\0 darin
 so gut, 
-\0(촀\0dass 2
-촀ersie\0 für immer und
+\0(촀\0dass 2촀ersie\0 für immer und
 ewig so wohnt!\0\0(촀\0Das wär abgefahren, 
 \0n\0!"
 "013","촊촊Das kleine Häuschen von s\0촀 sieht echt gemütlich aus.
 \0 촆촃(%촀\0Gefällt mir sehr!"
-"014","촊촉( 촀\02\0s\0촀 hat 2
-촀seinihr\0 Haus etwas vergrößert, 
+"014","촊촉( 촀\02\0s\0촀 hat 2촀seinihr\0 Haus etwas vergrößert, 
 \0nicht wahr?\0\0촆촃(
-촀\0Vielleicht hatte 2
-촀ersie\0 sich neue Möbel
+촀\0Vielleicht hatte 2촀ersie\0 sich neue Möbel
 bestellt und dann erst gemerkt, dass
 sie nicht ins Haus passen?\0\0(\0촀\0Passiert mir dauerndn\0\0 ('촀\0Aber anstatt
 anzubauen, vergrabe ich das Zeugs
@@ -155,11 +151,9 @@ dann. 
 \02\0s\0촀
 hat jetzt ein zusätzliches
 Zimmer. 
-\0Irre, was?\0\0촊촉(;촀\0Wofür benutzt 2
-촀ersie\0 es wohl? 
+\0Irre, was?\0\0촊촉(;촀\0Wofür benutzt 2촀ersie\0 es wohl? 
 \0촆촃(6촀\0Ich muss
-2
-촀ihnsie\0 mal darüber ausquetschen!"
+2촀ihnsie\0 mal darüber ausquetschen!"
 "016","촊촉( 촀\0Das Haus von s\0촀 ist
 ganz schön groß!\0\0촆촃(6촀\0Genau die richtige Größe,
 \0 um einen
@@ -172,22 +166,21 @@ nicht zu verlaufen, müsste ich
 Hinweisschilder aufstellen oder so..."
 "018","촊촉Unglaublich, 
 \0oder? 
-\02\0s\0촀 wohnt jetzt in einem Hochhaus! 
+\02\0s\0촀 wohnt in einem Hochhaus! 
 \0(촀\0Na ja, 
 \0fast...\0\0(
-촀\0Ich wär viel zu faul, um so ein
+촀\0Ich wär viel zu faul, 
+\0um so ein
 Riesenhaus sauber zu halten.
 
 \0(촀\0Oder vielleichtn\0\0\0\0촆촃()촀\0Wenn ein Zimmer zu dreckig wird, 
 \0zieht man einfach ins nächste
 weiter. 
 \0(촀\0Voll genial!"
-"019","(촀\0War dir klar, dass 촊촉s\0촀 einen Keller hat?\0\0촆촃(촀\0Denkst du, 2
-촀ersie\0 trainiert da unten
+"019","(촀\0War dir klar, dass 촊촉s\0촀 einen Keller hat?\0\0촆촃(촀\0Denkst du, 2촀ersie\0 trainiert da unten
 heimlich Tanzschritte, 
 \0um
-Baletttänzer2
-촀\0in\0 zu werden?\0\0(6촀\0Ich sollte fragen, ob ich mitmachen
+Baletttänzer2촀\0in\0 zu werden?\0\0(6촀\0Ich sollte fragen, ob ich mitmachen
 darf!"
 "020","(7촀\0Diese Insel ist noch mega-
 unzivilisiert, 
@@ -262,15 +255,14 @@ für 'ne Liveshow. 
 \0Mit mir in der
 Hauptrolle, 
 \0selbstverständlich!"
-"032","(촀\0Ich mag diesen \0Platz\0￿ hier einfach!
+"032","(촀\0Ich mag den \0Festplatz\0￿ einfach!
 \0
 ()촀\0Man findet immer jemanden zum
 Quatschen oder so.
 (촀\0Diesmal hab ich zum Beispiel DICH
 getroffen, 
 \0n\0! 
-\0Besser
-kann's doch gar nicht laufen."
+\0Besser kann's doch gar nicht laufen."
 "033","촊Das Schaufenster von der촉
 \0Schneiderei\0￿ ist einfach VOLL 
 \0MEGA,
@@ -296,14 +288,14 @@ die Erklärungstexte nur überfliegen"
 "119","촊촉In der Fischausstellung des \0Museums\0￿
 (촀\0ist es so düster, 
 \0dass man sich fast
-wie unter Wasser fühlt!\0\0촆촃(1촀\0Ein Tänzchen mit 2(촀demderdem 2촂
+wie unter Wasser fühlt!\0\0촆촃(1촀\0Ein Tänzchen mit 2)촀demderdem 2촂
 \0...
 \0 (촀\0Perfekt für eine süße Meerjungfrau!"
-"120","(7촀\0Von 2(촀demderdem 2촂
- in der Insektenausstellung kann ich momentan nicht genug bekommen!\0\0()촀\0Wie 2(촀ersiees sich bewegt, das ist son\0\0
+"120","(7촀\0Von 2)촀demderdem 2촂
+ in der Insektenausstellung kann ich momentan nicht genug bekommen!\0\0()촀\0Wie 2)촀ersiees sich bewegt, das ist son\0\0
 so unglaublichn\0\0 
 \0(촀\0SÜÜÜÜẞ!"
-"121","2(촀DerDieDas ($촀\0
+"121","2)촀DerDieDas ($촀\0
  im
 \0Museum\0￿ ist einfach nur krass,
 

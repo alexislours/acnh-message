@@ -1,8 +1,6 @@
 ﻿"label","text"
 "001","(""촀\0Hé, n\0! 
-\0Je viens
-tout juste d'apprendre la
-signification de « ⁠MMA ».\0\0(촀\0Ça veut dire « ⁠mon ou ma meilleur(e)
+\0Je viens tout juste d'apprendre la signification de « ⁠MMA ».\0\0(촀\0Ça veut dire « ⁠mon ou ma meilleur(e)
 ami(e) ».\0\0('촀\0Moi, je croyais que c'était l'imitation
 du bruit que fait une voiture de
 coursen\0\0(!촀\0 « ⁠Mmmmmmah! »
@@ -11,7 +9,7 @@ coursen\0\0(!촀\0 « ⁠Mmmmmmah! »
 qu'on pourrait se trouver un salut
 de « ⁠MMA », toi et moi. Ça te tente?"
 "001_a","Bien sûr!"
-"001_b","Bof."
+"001_b","(\0촀\0Bof."
 "002","()촀\0Dis, t'as remarqué que je te saluais
 toujours en disant :
 « ⁠2\0n\0Bien l'bonjour, p'tit fourn »?
@@ -19,10 +17,9 @@ toujours en disant :
 촀\0Je me disais qu'il serait peut-être
 temps de varier un peu tout ça.
 Tu vois l'genre?
-(&촀\0Qu'est-ce que t'en dis,
-n\0?"
+(&촀\0Qu'est-ce que t'en dis, n\0?"
 "002_a","Très bonne idée!"
-"002_b","Inutile de changer."
+"002_b","(\0촀\0Inutile de changer."
 "003","(촀\0Tiens, salut n\0!
 \0
 Écoute ça,
@@ -33,7 +30,7 @@ un éclair de génie ce matin!
 salutation spéciale? (촀\0Comme une
 sorte de code secret!"
 "003_a","(&촀\0Que dirais-tu de..."
-"003_b","Peut-être plus tard..."
+"003_b","(\0촀\0Peut-être plus tard..."
 "004","(촀\0Salut n\0!
 \0 J'étais justement en train de penser à toi.\0\0()촀\0Je méditais sur le fait que je te
 salue toujours avec la phrase :
@@ -44,7 +41,7 @@ temps de trouver une nouvelle
 formule.
 \0 (&촀\0T'en penses quoi?"
 "004_a","(&촀\0Que dirais-tu de..."
-"004_b","Elle est bien comme ça!"
+"004_b","(\0촀\0Elle est bien comme ça!"
 "005","(!촀\0« ⁠Mmmmmmah! »
 \0 ()촀\0C'est le bruit que
 fait ton refus sur l'autoroute de

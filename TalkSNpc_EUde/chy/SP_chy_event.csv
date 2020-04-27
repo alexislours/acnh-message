@@ -89,7 +89,7 @@ nur schnell im Reliquiar stöbernn"
 \0\0d
 2\02\0}\0!
 \0
-Ist 2촀ersiees nicht atemberaubend?"
+Ist 2촀ersiees nicht atemberaubend?"
 "013","(5촀\0Ich habe alle Ecken der Welt durch-
 forstet, 
 \0um die fühlerige Erhabenheit
@@ -277,10 +277,10 @@ kostet \0Z\0￿."
 "029_b","('촀\0Momentan nicht..."
 "030","(&촀\0Gut,
 \0 möchtest du am \0Insektikus-
-Turnier\0￿ teilnehmen?\0\0(\0촀\0Die erste Teilnahme ist kostenfrei,
-\0
-falls dir das dein Entscheidung
-erleichtern sollte."
+Turnier\0￿ teilnehmen?\0\0(\0촀\0Die erste Teilnahme heute ist
+kostenfrei,
+\0 falls dir das deine
+Entscheidung erleichtern sollte."
 "030_a","Ich will teilnehmen!"
 "030_b","('촀\0Momentan nicht..."
 "031","(!촀\0Bis \0Z%촁:00 Uhr \0￿hast du die einmalige
@@ -337,8 +337,8 @@ anstaltungen, 
 wurde ich jedoch surrend berufen!
 (""촀\0Du solltest daran teilnehmen!
 \0(%촀\0
-Es öffnet uns das Tor in ein fast
-schon außerweltliches Reich!"
+Bis \0Z%촁:00 Uhr \0￿kannst du diese
+faszinierende Welt erkunden."
 "037","(촀\0Die Grenze zwischen unserer Welt
 und dem Reich der Insekten ist
 heute am durchlässigsten!
@@ -462,7 +462,7 @@ Preis, 
 Krabbeltier ein glückliches Zuhause!"
 "049_a","Käfer verkaufen!"
 "049_b","Punkte einlösen!"
-"049_c","Etwas anderes..."
+"049_c","Wegen des Turniers..."
 "049_d","('촀\0Danke, jetzt nicht..."
 "050","( 촀\0N-
 \0natürlich, 
@@ -571,14 +571,27 @@ bloßen Händen zu fangen."
 \0das ist mir äußerst
 unangenehmn\0\0
 \0 Aber du hast nicht
-genügend Sternis in deinem Besitz.\0\0(촀\0Die Teilnahmegebühr beträgt nach
+genügend Sternis in deinem Besitz.\0\0(촀\0Komm bitte wieder, wenn du
+\0Z\0￿ zusammengekratzt
+hast.
+\0 Entschuldige!"
+"062","(촀\0Oh,
+\0 das freut mich. 
+\0(Jedes Krabbel-
+viech zählt. 
+\0(4촀\0Es muss nicht mal
+krabbeln. 
+\0Schwirren geht auch.
+(촀\0Die Teilnahmegebühr beträgt nach
 der kostenfreien Kennenlernrunde
 \0Z\0￿.
-\0 Entschuldige!"
-"062","(%촀\0Oh,
+\0 In Ordnung?"
+"062_01","(%촀\0Oh,
 \0 das freut mich.
 
 \0Das macht dann \0Z\0￿."
+"062_a","Klaro!"
+"062_b","Muss nicht sein..."
 "063","(%촀\0Gut. Du hast \0Z\0 Minuten\0￿, 
 \0um so viele
 Insekten wie möglich zu fangen.
@@ -616,10 +629,8 @@ käfig\0￿ leeren,
 Runde beginnen können. 
 \0(촀\0Tut mir leid.
 (촀\0Würdest du s\0촀 sagenn\0\0
-\0 dass spektakuläre Krabbelfreunde auf 2
-촀ihnsie\0 warten?\0\0($촀\0Ich wäre übrigens ein freudiger
-Abnehmer und würde 2
-촀ihnsie\0 natürlich
+\0 dass spektakuläre Krabbelfreunde auf 2촀ihnsie\0 warten?\0\0($촀\0Ich wäre übrigens ein freudiger
+Abnehmer und würde 2촀ihnsie\0 natürlich
 entsprechend fürstlich entlohnen!"
 "067","(&촀\0Spürst du das? 
 \0(1촀\0Ein \0Insektenkäfig\0￿
@@ -1096,6 +1107,57 @@ hast,
 rechnen aller Bonin\0\0\0\0(촀\0Insektomenal!
 \0(촀\0 Das sind ja dann
 insgesamt unglaubliche \0Z Punkte\0￿!"
+"151","(%촀\0Im \0Insektenkäfig \0￿2ࠀsindistsind insgesamt
+\0Z \0￿2<ࠀExemplareExemplarExemplare gelandetn\0\0
+\0( (촀\0Eine
+außerordentliche Geschwindigkeit!
+()촀\0Mehr als 20 sollte man nicht auf
+kleinem Raum allein lassen, 
+\0(촀\0sonst
+starten sie eine Verschwörung!
+(4촀\0Deshalb habe ich ein paar Insassen
+des \0Insektenkäfigs\0￿ freigelassen.\0\0(%촀\0Glaub mir, 
+\0es ist zu unser aller
+Bestem,
+\0(7촀\0 also weine ihnen bitte
+nicht allzu viele Tränen nach.
+( 촀\0Punkte bekommst du natürlich!
+\0(
+(
+촀\0Und zwar \0Z\0￿,
+\0 plus den Bonus
+für \0Z oder mehr\0￿ Tierchenn\0\0
+(:촀\0Insgesamt also \0Z 2*܀Punkte
+PunktPunkte\0￿!"
+"152","(%촀\0Im \0Insektenkäfig \0￿2ࠀsindistsind insgesamt
+\0Z \0￿2<ࠀExemplareExemplarExemplare gelandetn\0\0
+\0( (촀\0Eine
+außerordentliche Geschwindigkeit!
+()촀\0Mehr als 20 sollte man nicht auf
+kleinem Raum allein lassen, 
+\0(촀\0sonst
+starten sie eine Verschwörung!
+(4촀\0Deshalb habe ich ein paar Insassen
+des \0Insektenkäfigs\0￿ freigelassen.\0\0(%촀\0Glaub mir, 
+\0es ist zu unser aller
+Bestem,
+\0(7촀\0 also weine ihnen bitte
+nicht allzu viele Tränen nach.
+( 촀\0Punkte bekommst du natürlich!
+\0
+(
+촀\0Und zwar \0Z\0￿,
+\0 plus den Bonus
+für \0Z oder mehr\0￿ Tierchenn\0\0
+n\0\0Alle Pilger,
+\0 ähm, 
+\0Teilnehmer haben
+zusammen \0Z	 2<ऀExemplareExemplarExemplare \0￿gefangen.\0\0(9촀\0Das sind \0Z
+ oder mehr\0￿n\0\0
+\0
+Somit kommt noch ein Bonus dazu.\0\0(:촀\0Insgesamt wären wir also bei
+\0Z 2.܀Punkten
+PunktPunkten\0￿!"
 "160","()촀\0Der \0Insektenkäfig\0￿ mit allen
 Exemplaren, 
 \0die du gefangen
@@ -1215,8 +1277,10 @@ den Larven – 
 ihr schon das Kribbeln? 
 \0((:촀\0Überall auf
 eurer Haut?"
-"170","( 촀\0Hat das heutige \0Insektikus-Turnier
-\0￿euch bereichert? 
+"170","(
+촀\0Ich hoffe, 
+\0das \0Insektikus-Turnier \0￿hat
+euch bereichert. 
 \0(%촀\0Hat es euch eurem
 inneren Insekt nähergebracht?"
 "171","( 촀\0Wie geht es euch? 

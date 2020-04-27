@@ -15,7 +15,7 @@ aficionad2oa a la pesca como tú!"
 sobre el uso de la redn\0\0\0\0(&촀\0Tú eres la autoridad en el tema,
 \0 ¿no?
 \0
-( 촀\0¡Tengo entendido que ayer cazaste muchísimos insectos!
+¡Tengo entendido que ayer cazaste muchísimos insectos!
 (4촀\0Yo también quiero tener días
 así de productivos, n\0."
 "104","(촀\0Ayer te dedicaste a recoger caracolas
@@ -98,7 +98,7 @@ especial cariñon\0\0
 \0 (촀\0¡sé que
 fuiste tú!
 \0 (6촀\0¿Acaso olvidas que yo siempre me entero de todo?
-(촀\0Muchísimas gracias por esforzarte
+Muchísimas gracias por esforzarte
 en hacer más agradable la vida de tus vecinos.
 \0 Eres un amor."
 "113","(3촀\0Se dice por la isla que ayer estuviste
@@ -111,6 +111,25 @@ sentimientos y
 \0 Es hermoso que las emociones afloren.
 \0
 (촀\0¡No cambies nunca, n\0!"
+"114","(&촀\0¿Son ciertos los rumores?
+\0
+¿Estuviste visitando muchas islas? Esa mirada te delata.\0\0(촀\0Me das mucha envidia.
+\0 Y también me
+alegro por ti,
+\0 claro.
+\0 (6촀\0Pero sobre todo
+siento envidia, n\0."
+"115","(촀\0¡Ayer no parabas de recibir visitas!
+\0
+(촀\0¿Disfrutaste haciendo de 2*anfitriónanfitriona?\0\0(
+촀\0Puede resultar un papel sacrificado,
+\0
+pero (%촀\0también es muy gratificante.\0\0(1촀\0Hay una satisfacción especial
+de ver a tus invitados a gusto
+y pasando un momento agradable.
+(촀\0Espero que todos la hayan pasado
+de maravillas y que sigas trayendo a
+tus amigos a vernos, n\0."
 "116","(촀\0Ayer te picó el gusanito de la
 creatividad,
 \0 ¿no, cariño?
@@ -139,8 +158,7 @@ pilas en la quietud del hogar.
 "119","(6촀\0Ayer apenas pisaste tu casa,
 \0 cielín.
 (촀\0Es un placer disfrutar del aire libre en esta isla,
-\0 ¿verdad?
-(촀\0A mí también me pasa a veces,
+\0 ¿verdad?\0\0(촀\0A mí también me pasa a veces,
 \0 y mira
 que soy disciplinada:
 \0 (7촀\0salgo de casa y me olvido de volver, n\0."
@@ -161,7 +179,7 @@ y me quiebro una pierna,
 a quién demandar, n\0).\0￿"
 "121","(촀\0Cariño, no te tenía por alguien
 distraído,
-\0 (8촀\0pero dicen que ayer no parabas de caerte en hoyos.
+\0 pero dicen que ayer no parabas de caerte en hoyos.
 (&촀\0¿Estás bien?
 \0 ¿No te rompiste nada?
 \0
@@ -215,12 +233,19 @@ robes el protagonismo de vez en
 cuando.
 \0 (6촀\0Así descanso, n\0."
 "126_01","(
-촀\0Escuché que ayer te picaron
-las avispasn\0\0
-\0 (촀\0¡¿varias veces?!\0\0(촀\0Pero ¿qué estabas haciendo?
+촀\0Cariño,
+\0 ayer te picaron las avispasn\0\0
+\0
+(촀\0¡¿varias veces?!\0\0(촀\0Pero ¿qué estabas haciendo?
 \0
 ¿Malabarismos con los nidos?\0\0(촀\0Ten cuidado, cielo.
-\0 Me imagino (6촀\0cómo te debe haber quedado la cara, n\0n"
+\0 Me imagino
+(6촀\0cómo te debe haber quedado
+la cara, n\0.
+\0
+( 촀\0Por la sorpresa,
+\0 me refiero,
+\0 claron"
 "126_02","(촀\0Ayer me dejaste muy preocupada.
 \0
 (촀\0¡Cómo te dejaron la cara esas
@@ -259,7 +284,7 @@ ruido,
 \0 hayas encontrado algo que
 valiera la penan"
 "129","En n\0 ('촀\0no se habla de otra cosan\0\0
-\0 (8촀\0¿Sabes a qué me refiero?
+\0 ¿Sabes a qué me refiero?
 \0 (촀\0¡A ti, n\0!\0\0(촀\0Eso que hiciste ayer de poner bayas
 en un hoyon\0\0
 \0 (촀\0¡Qué ideas tienes!\0\0()촀\0Te sugiero que la próxima vez
@@ -307,8 +332,7 @@ que construiste,
 con el trabajo que hiciste ayern\0\0\0\0()촀\0Le diste un nuevo aspecto a la isla,
 \0
 literalmente:
-\0 (촀\0¡hasta el terreno es diferente!
-(촀\0Todos tenemos curiosidad de ver qué
+\0 (촀\0¡hasta el terreno es diferente!\0\0(촀\0Todos tenemos curiosidad de ver qué
 es lo próximo que se te ocurre, n\0."
 "136","(촀\0Tienes muy clara tu imagen de n\0, ¿verdad?\0\0(
 촀\0Ayer te dedicaste a las vallas,
@@ -357,7 +381,7 @@ a dar cuenta?
 (촀\0Caramba,
 \0 qué creatividad la tuya.
 \0
-(촀\0Me sorprendes, n\0."
+Me sorprendes, n\0."
 "142","()촀\0Vi que cambiaste la bandera, n\0,
 \0 (촀\0¡qué diseño tan atrevido!\0\0(촀\0Tienes mucho futuro diseñando
 banderas, n\0."
@@ -378,8 +402,7 @@ luciendo tus mejores galas,
 "144","(촀\0Ayer todos te vimos saltando ríos
 con tu 2\0Ȃ촄garrocha cual rana de charco.\0\0('촀\0Confieso que me aterraría un poco hacerlo yo, ¡n\0!\0\0
 \0(촀\0No sé si porque me daría miedo
-(촀\0arruinarme el peinado al saltar por el airen\0\0
-(촀\0n\0\0 o porque se me correría todo
+(촀\0arruinarme el peinado al saltar por el airen\0\0\0\0(촀\0n\0\0 o porque se me correría todo
 el maquillaje al ( 촀\0caer en el agua."
 "145","()촀\0¿Le compraste muchos nabos
 ayer a \0Juliana\0￿,
@@ -387,10 +410,9 @@ ayer a \0Juliana\0￿,
 \0 (촀\0Qué valiente.\0\0(
 촀\0Es una actividad arriesgada:
 \0
-(촀\0en cuanto te descuidas,
-\0 se echan (촀\0a perder.
-\0 (촀\0¡A perder bayas!
-(%촀\0Asegúrate de venderlos a tiempo,
+en cuanto te descuidas,
+\0 (촀\0se echan a perder.
+\0 (촀\0¡A perder bayas!\0\0(%촀\0Asegúrate de venderlos a tiempo,
 \0
 ($촀\0¡y suerte con los precios, n\0!"
 "146","(4촀\0Escuché que esta semana le sacaste
@@ -418,7 +440,7 @@ el mundo sería un lugar mejor,
 n\0.
 \0 (촀\0¡Y más bonito!"
 "149","(%촀\0Sé que has estado probando cosas
-nuevas con tu peinado últimamente,
+nuevas con tu cabello últimamente,
 \0
 cielo,
 \0 (촀\0¡y aplaudo la iniciativa!

@@ -5,7 +5,7 @@
 "001_b","Aún no"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0¡Tragas más que yo,
 \0 que ya es decir!
 (촀\0Je, je, je,
@@ -52,10 +52,12 @@ que te guste!"
 que necesita cosas para las salas.\0\0()촀\0Estaría superbién si pudieses donar
 un par de cosas o tres,
 \0 n\0."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0Hay un \0museo \0￿genial en n\0.\0\0(촀\0Deberías acercarte ya que estás
 en la isla.
 \0 Está abierto siempre,
@@ -63,11 +65,11 @@ en la isla.
 así que puedes ir cuando quieras.
 (촀\0¡La cultura no se para nunca!"
 "028","(촀\0En nuestro \0museo \0￿hay 2\0
-\0 expuest2(촀oa\0.\0\0(%촀\0Si te interesan los peces,
+\0 expuest2)촀oa\0.\0\0(%촀\0Si te interesan los peces,
 \0 ¡tienes
 que pasarte a echarle un vistazo!"
 "029","(촀\0El \0museo \0￿tiene 2\0
- entre las movidas que expone.\0\0(%촀\0No había visto ningun2(촀oa\0 hasta ayer.
+ entre las movidas que expone.\0\0(%촀\0No había visto ningun2)촀oa\0 hasta ayer.
 \0
 (촀\0¡Menudo bicho es, n\0!"
 "030","(촀\0El \0museo \0￿tiene un fósil de 
@@ -75,23 +77,22 @@ que pasarte a echarle un vistazo!"
 mirándolon\0\0
 \0 (촀\0¡La de cosas que habrá
 visto él a lo largo de los años!"
-"101","(촀\0Oye, n\0,
-\0 ¿qué es lo que haces para divertirte en tu nueva isla?"
-"101_a","Pescar"
-"101_b","Cazar bichos"
-"101_c","Jugar al escondite"
-"101_d","Buscar tesoros"
-"101_e","Visitar a mis amigos"
-"102","(촀\0¡Sí, la pesca!
+"201","(촀\0Oye, n\0,
+\0 ¿qué es lo que haces últimamente en n	\0 para divertirte?"
+"201_a","Pescar"
+"201_b","Cazar bichos"
+"201_c","Jugar al escondite"
+"201_d","Buscar tesoros"
+"201_e","Visitar a mis amigos"
+"202","(촀\0¡Sí, la pesca!
 \0
 (촀\0A mí también me mola mogollón.\0\0(
 촀\0¿Los peces de esta isla opinarán
 lo mismo que los de tu pueblo
 sobre eso de que los pesquen?
-(%촀\0Avísame si resulta que pescas mucho
-en n	\0,
-\0 ¡que entonces me mudo!"
-"103","( 촀\0¿Cazas bichos?
+(%촀\0Yo creo que a lo mejor están más
+receptivos a la idea, ¿sabes?"
+"203","( 촀\0¿Cazas bichos?
 \0 Eso mola.
 \0
 
@@ -100,25 +101,21 @@ mis amigos bichosn\0\0
 
 \0(촀\0Aunque todos corren que se las
 pelan, así que siempre pierdon\0\0\0\0(&촀\0¿Los bichos de tu isla juegan
-bien a tula?\0\0(%촀\0Si me dices que sí,
-\0 ¡a lo mejor
-me planteo mudarme a n	\0!"
-"104","(%촀\0El escondite,
+bien a tula?
+\0(%촀\0 Si no, ¡tienes que
+enseñarles, n\0!"
+"204","(%촀\0El escondite,
 \0 sí, 2
 señorseñora.
 \0
-(촀\0Eso suena tope de divertido.\0\0(&촀\0¿En tu isla hay muchos sitios
-para esconderse?\0\0()촀\0Una vez, jugando al escondite,
+(촀\0Eso suena tope de divertido.\0\0()촀\0Una vez,
+\0 cuando todavía vivía en n	\0,
+\0 me escondí en un árbol y (촀\0me quedé atascado.\0\0Pero, como no quería perder,
 \0
-me quedé atascado en un árbol.\0\0No quería perder,
-\0 (;촀\0así que decidí
-no pedir ayuda.\0\0(+촀\0No te imaginas el hambre y el frío
-que pasén\0\0
-\0 (촀\0¡pero al final gané yo!\0\0(%촀\0Si en n	\0 jugáis bien
-al escondite,
-\0 ¡a lo mejor tengo que
-plantearme una mudanza para allá!"
-"105","(&촀\0¡¿Vas a buscar tesoros?!
+(;촀\0decidí no pedir ayuda.\0\0(+촀\0No te imaginas el hambre y el frío
+que pasé, n\0n\0\0
+\0 (촀\0¡pero al final gané yo!"
+"205","(&촀\0¡¿Vas a buscar tesoros?!
 \0
 (촀\0¡Jo, como si fuera una peli
 de la Tintorera Aventurera!\0\0(\0촀\0Debe de ser una sensación genial
@@ -126,15 +123,12 @@ ir por ahí cavando agujeros con la
 emoción de encontrar algo molón.
 (촀\0¡Sería como convertirse en el
 compañero de aventuras de mi
-escuala cinematográfica favorita!
-(%촀\0Si se encuentran muchos tesoros
-en n	\0,
-\0 ¡a lo mejor
-voy y me mudo!"
-"106","(%촀\0Quedar con los amigos mola.
+escuala cinematográfica favorita!"
+"206","(%촀\0Quedar con los amigos mola.
 \0
-(6촀\0¡Nosotros también hacemos por aquí
-quedadas que hacen época!
-(\0촀\0Por ejemplo, con n촀 o con n촁n\0\0
-\0 ¡Saben un montón sobre cómo divertirse!\0\0(%촀\0Si en n	\0 os mola quedar con amiguetes,
-\0 ¡me voy a pensar seriamente mudarme allí!"
+(6촀\0¡Nosotros también montamos por
+aquí quedadas que hacen época!
+(%촀\0Anímate a hablar con más gente de
+la isla. 
+\0(""촀\0¡Ya verás que todos son
+igual de majos que yo!"

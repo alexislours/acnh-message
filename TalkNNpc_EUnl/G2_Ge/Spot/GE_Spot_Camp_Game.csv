@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Hé hoi,
 \0 wil je een spelletje met me
-spelen?\0\0Als je wint, 2촀isiszijn mijn 2촃}\0\0 van jou!(;촀\0 Wat zeg je ervan?"
+spelen?\0\0Als je wint, 2촀isiszijn mijn 2촃}\0\0 van jou!(;촀\0 Wat zeg je ervan?"
 "001_a","Ik doe mee!"
 "001_b","Het komt niet goed uit."
 "002","(촀\0Wil je dat ik de spelregels uitleg?"
@@ -15,7 +15,7 @@ spelen?\0\0Als je wint, 2촀isiszijn mijn 2촃}\0\0 van jou!(;�
 \0 Daar gaan we dan!
 \0 (<촀\0Eerst
 schud ik, zeg maar, deze kaartenn"
-"005","En wordt het nu spannendn"
+"005","En nu wordt het spannendn"
 "006_01","En, zoals beloofd, (""촀\0
 \0krijg je mijn 2촃}\0\0!"
 "006_02","(""촀\0Superknap gedaan!
@@ -43,11 +43,12 @@ maar geen plek had voor de prijs.
 Ik wacht wel, n\0."
 "100","Oké, ik hoop dat je er klaar voor
 bent!\0\0()촀\0
-\0Ik heb dus, zeg maar, vier kaarten?
-Een \0♥ harten\0￿, een \0♦ ruiten\0￿, een
-\0♠ schoppen\0￿ en een \0♣ klaveren\0￿.\0\0Dus 
-\0()촀\0ik trek zo een kaart. En dan moet
-jij raden welke het is! (촀\0
+\0Ik heb vier kaarten met ieder een
+ander symbool? \0♥ Harten\0￿, \0♦ ruiten\0￿,
+\0♠ schoppen\0￿ en \0♣ klaveren\0￿.\0\0Dus 
+\0()촀\0ik trek zo een kaart. En dan
+moet jij, zeg maar, raden welke
+het is! (촀\0
 \0Suuupersimpel.\0\0(\0촀\0Als je het goed raadt,
 \0 (%촀\0geef ik je mijn
 2촃}\0\0!\0\0(촀\0Dus drie kaarten zijn foutn\0\0 en één is
@@ -56,14 +57,13 @@ ene goeie kaart te kiezen!\0\0Oké, dan ga ik de kaarten schudden
 en ik beginn\0\0
 \0(<촀\0 
 \0NU!"
-"101","(=촀\0Oké, ik heb een kaart, n\0.
-\0 (촀\0Als dit een tv-show was, begon nu dramatische muziek.\0\0En de camera zou inzoomen op mijn
+"101","Oké, ik heb een kaart, n\0.
+\0 (촀\0Als dit een tv-show was, begon er nu dramatische muziek.\0\0En de camera zou inzoomen op mijn
 gezicht. En dan zou ik naar jou kijken
 en superserieus zeggenn\0\0\0\0(9촀\0
 \0""Kies een kaart: \0♥ harten\0￿, \0♦ ruiten\0￿,
 \0♠ schoppen\0￿ of\0 ♣ klaveren\0￿(\0촀\0n\0\0 Welken\0\0
-kaartn\0\0 isn\0\0 het?""
-\0
+kaartn\0\0 isn\0\0 het?""
 (촀\0Zie je? Echt superdramatisch!
 \0 Najan\0\0(9촀\0
 \0
@@ -79,16 +79,15 @@ je mag nu je antwoord geven!"
 \0 (\0촀\0O nee, (촀\0
 \0je had het verkeerd!"
 "200","Oké, ik zal snel de regels uitleggen!\0\0()촀\0
-\0Ik heb vier kaarten, een \0♥ harten\0￿,
-een \0♦ ruiten\0￿, een \0♠ schoppen\0￿ en
-een \0♣ klaveren\0￿.\0\0\0\0￿Ik trek er één (""촀\0en dan moet jij raden
+\0Ik heb vier kaarten, \0♥ harten\0￿,
+\0♦ ruiten\0￿, \0♠ schoppen\0￿ en \0♣ klaveren\0￿.\0\0\0\0￿Ik trek er één (""촀\0en dan moet jij raden
 welke kleur de kaart heeft!\0\0(\0촀\0Als je goed raadt,
 \0 (%촀\0geef ik je mijn
 2촃}\0\0!(\0촀\0\0\0(촀\0Lijkt je dat wat?
 \0 Natuuuurlijk lijkt je
 dat wat! (<촀\0Dan ga ik nu superhard de
 kaarten schuddenn"
-"201","(=촀\0Sjeempie! Ik heb een kaart
+"201","Sjeempie! Ik heb een kaart
 getrokken!
 \0 (\0촀\0Dus.
 \0 Welke kleur is de
@@ -103,12 +102,13 @@ kaart? (;촀\0
 "202_02","(촀\0Het is 촀!
 \0(\0촀\0 Hij is dus
 \0zwart\0￿! Sorry,(촀\0
-\0 maar je hebt verkeerd
-geraden!"
+\0 maar je hebt het
+verkeerd geraden!"
 "202_03","(촀\0Het is 촀!
 \0 (촀\0Hij is dus
 \0zwart\0￿! Sjeempie, goed gedaan!"
 "202_04","(촀\0Het is 촀!
 \0(\0촀\0 O nee, hij is
 \0rood\0￿! Sorry,
-\0(촀\0 je hebt fout geraden!"
+\0(촀\0 je hebt het fout
+geraden!"

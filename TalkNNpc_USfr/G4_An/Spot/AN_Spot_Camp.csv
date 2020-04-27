@@ -59,9 +59,7 @@ d'venir."
 commencer, n\0."
 "101","<"
 "101_01","(촀\0Ça va?
-\0 T'es du coin?
-\0
-(%촀\0J'te d'mande si tu habites sur
+\0 T'es du coin?\0\0(%촀\0J'te d'mande si tu habites sur
 c'caillou parc'que j'trouve le coin
 carrément malade, n\0!\0\0()촀\0Et j'aimerais bien trouver un habitué
 pour savoir si c'est tout l'temps
@@ -97,9 +95,7 @@ qu'il existait, n\0!"
 \0C'est s\0촀 qui m'a d'mandé de v'nir dans l'coin."
 "202_02","(촀\0Ouah!
 \0 (%촀\02\0s\0촀 m'a pas raconté n'importe quoi en disant qu'j'allais aimer l'coin!"
-"202_03","($촀\0Hep, ça gazouille?\0\0(%촀\0Tu connais s\0촀? C'est 2
-촀luielle\0 qui m'a parlé de c'patelinn\0\0 (촀\02
-촀IlElle\0 a assuré, n\0!"
+"202_03","($촀\0Hep, ça gazouille?\0\0(%촀\0Tu connais s\0촀? C'est 2촀luielle\0 qui m'a parlé de c'patelinn\0\0 (촀\02촀IlElle\0 a assuré, n\0!"
 "301","<"
 "301_01","(%촀\0Dormir dans une tenten\0\0 ça passe.
 \0
@@ -119,10 +115,10 @@ téléphone etn\0\0 (+촀\0au s'cours.
 posées sur la roche, la boustifaille 
 a meilleur goût qu'au reston\0\0
 ()촀\0Quand j'étais p'tite, mon père avait
-rapporté 2\0촀 au camping, n\0.\0\0(6촀\0J'en ai jamais mangé d'meilleur2촀\0e\0, parole! 
+rapporté 2\0촀 au camping, n\0.\0\0(6촀\0J'en ai jamais mangé d'meilleur2촀\0e\0, parole! 
 \0(촀\0C'était à tomber par terre!"
 "301_04","()촀\0Pour moi, « camping » rime avec
-« y a un feu d'camp, fais-y brûler
+« y'a un feu d'camp, fais-y brûler
 ton calendrier »!\0\0(%촀\0Pendant les vacances, pas d'agenda
 et un seul rendez-vous :
 \0 celui d'la
@@ -151,7 +147,7 @@ téléphone etn\0\0 (+촀\0au s'cours.
 posées sur la roche, la boustifaille 
 a meilleur goût qu'au reston\0\0
 ()촀\0Quand j'étais p'tite, mon père avait
-rapporté 2\0촀 au camping, n\0.\0\0(6촀\0J'en ai jamais mangé d'meilleur2촀\0e\0, parole! 
+rapporté 2\0촀 au camping, n\0.\0\0(6촀\0J'en ai jamais mangé d'meilleur2촀\0e\0, parole! 
 \0(촀\0C'était à tomber par terre!"
 "401","<"
 "401_01","( 촀\0T'sais, j'ai pas mal pensé à mon
@@ -187,8 +183,7 @@ se prennent pas la tête, et puis
 me pencher sur la question."
 "402_03","Hé, n\0!
 \0
-2\0s\0촀 et toi, vous êtes bons amis, pas vrai?\0\02
-촀IlElle\0 me fait tout un pataquès pour
+2\0s\0촀 et toi, vous êtes bons amis, pas vrai?\0\02촀IlElle\0 me fait tout un pataquès pour
 que j'bouge à n\0, et j'crois que j'vais la prendre au mot.\0\0(촀\0J'ai hâte de mieux vous connaîtren\0\0
 J'suis sûre qu'on s'ra comme les
 trois doigts d'la patte, n\0!"
@@ -214,7 +209,7 @@ m'dépatouiller avec mes boîtes!
 \0
 Tu m'feras visiter pour fêter ça?"
 "403_03","(9촀\0Ça y est, j'vais faire le grand sautn\0\0
-T'es prête?
+T'es prêt2\0e?
 \0 Attentionn\0\0(촀\0 J'm'installe
 à n\0, n\0!\0\0(%촀\0Ouais, j'ai décidé ça à l'instant.
 \0

@@ -6,7 +6,7 @@ hier auf n\0 wachsen?"
 "001_b","(\0촀\0Wovon sprichst du?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ach, wirklich?
 \0
 (촀\0Dann tut's mir leid, dass ich so eine
@@ -62,11 +62,17 @@ es mal groß und stark.
 \0 Ist nur 'ne
 Frage von Jahrzehnten.
 \0 (촀\0Gra ha ha!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
-"025","Das \0Museum\0￿ von n\0,
+"024","<ἃᤀ촀"
+"025","Das \0Museum von 
+
+\0n\0
+
+\0￿,
 \0
 (9촀\0sagen wir mal son\0\0
 \0 (6촀\0Man gibt
@@ -90,7 +96,7 @@ lung im \0Museum \0￿ist beeindruckend.
 \0...\0\0()촀\0Das muss mein Seelenverwandter
 sein, 
 \0n\0!"
-"029","In unserem \0Museum\0￿ gibt's 2(촀'nen'ne'n
+"029","In unserem \0Museum\0￿ gibt's 2)촀'nen'ne'n
 2촁
  zu
 bewundern.
@@ -101,63 +107,71 @@ würde so groß werden wie wir.
 "030","(6촀\0Willst du was sehen, das noch
 älter ist als ich?\0\0(%촀\0Dann sieh dir mal die Fossilien im
 \0Museum\0￿ an. 
-\0Ganz besonders 2(촀dendiedas
+\0Ganz besonders 2)촀dendiedas
 2촁
 ...
 (촀\0Immer, wenn ich davorsteh, fühl
 ich mich wie ein echter Jungspund!"
-"101","<\0fi"
-"102","Na, 2 KleinerKleines...
+"201","<\0ÊÍ"
+"202","Na, 
+\02 KleinerKleines...
+\0 Sei ehrlich. 
+\0(6촀\0Du vermisst mich auf n	\0 ganz schön, 
+\0nicht wahr?"
+"202_a","Ein bisschen schon..."
+"202_b","Gar nicht!"
+"203","(촀\0Nur ein bisschen?
+\0 Komm schon,
+\0
+schütte mir ruhig dein Herz aus.
 \0
-(6촀\0Bringt dich das Heimweh zurück
-nach n\0?"
-"102_a","(\0촀\0Ja..."
-"102_b","(\0촀\0Gar nicht!"
-"103","Ui,
-\0(6촀\0 das klingt jetzt doch etwas
-wehmütig.
-\0 (\0촀\0Komm schon, schütte mir
-dein Herz aus.
-\0(8촀\0 Das bleibt unter uns!
-(촀\0Ach, jetzt ziehe ich dich schon
+Das bleibt auch unter uns!
+(촀\0Ach, 
+\0jetzt ziehe ich dich schon
 wieder durch den Kakao...
 \0 (%촀\0Dabei bin
-ich ganz ehrlich froh, dich zu sehen!"
-"104","(촀\0Was, kein bisschen?! 
-\0(6촀\0Statt Blut fließt
-dir wohl eine sterile Nährflüssigkeit
-durch die Adern!
-(1촀\0Aber gleichzeitig heißt das wohl, es
-geht dir in deiner neuen Heimat gut.
-
-\0(촀\0Das will ich dir mal gönnen!"
-"105","(""촀\0n\0
-\0, wie 2ersie leibt und
-lebt!
-\0 (촀\0Na, wie ist das Leben in deiner
-neuen Wahlheimat?"
-"105_a","Alles super!"
-"105_b","Geht schon."
-"105_c","Hahaha..."
-"106","(촀\0Na, das freut einen doch!
+ich ganz ehrlich froh, 
+\0dich zu sehen!"
+"204","(촀\0Was, kein bisschen?! 
+\0(6촀\0Statt Blut
+fließt bei dir wohl eine sterile
+Nährflüssigkeit durch die Adern!
+(1촀\0Aber gleichzeitig heißt das wohl,
+\0 es
+geht dir auf n	\0 gut.
+\0 (촀\0Das will ich dir mal gönnen!"
+"205","(""촀\02\0n\0,
+\0 wie 2ersie leibt und lebt!
+\0 (촀\0Na,
+\0 wie läuft es denn so bei euch auf n	\0?"
+"205_a","Alles super!"
+"205_b","Geht schon."
+"205_c","Hahaha..."
+"206","(촀\0Na, das freut einen doch!
 \0
-(%촀\0Ich hätte auch nie bezweifelt, dass
+(%촀\0Ich hätte auch nie bezweifelt, 
+\0dass
 du dich dort hervorragend schlägst.
 (5촀\0Immerhin habe ich dich abgehärtet.
 \0
 Dagegen ist alles andere ein
 Kinderspiel.
-\0 (촀\0Gra ha ha, n\0!"
-"107","(촀\0Na, ich hoffe mal, du willst nur nicht
-zu prahlerisch erscheinen.\0\0(5촀\0Andererseits klar, dass es nirgendwo
-so schön ist wie hier. 
+\0 (촀\0Gra ha ha, 
+\0n\0!"
+"207","(촀\0Na,
+\0 ich hoffe mal, 
+\0du willst nur nicht
+zu prahlerisch erscheinen.\0\0(5촀\0Oder hat mein Weggang die Insel
+tatsächlich ins Verderben geworfen?
+
 \0(촀\0Bwa ha ha ha!"
-"108","(촀\0Nanu...?
+"208","(촀\0Nanu...?
 \0
 (촀\0War das jetzt ein verlegenes Lachen
 oder ein zufriedenes?
 (\0촀\0Wenn dein Leben nicht ganz im
-Gleichgewicht ist, solltest du viel-
+Gleichgewicht ist, 
+\0solltest du viel-
 leicht was ganz Neues ausprobieren.
 (촀\0촀 zum Beispiel!
 \0

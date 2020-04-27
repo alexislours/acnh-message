@@ -5,13 +5,11 @@ eu une idée de génie.\0\0(4촀\0Tu ne devines pasn\0\0? 
 un nouveau surnom !"
 "001_a","(\0촁\0Ah oui ? Dis-moi."
 "001_b","Argh, non merci..."
-"002","(촀\0Tu ne devineras jamais,
-n\0...\0\0(촀\0J'ai pensé à un nouveau surnom
+"002","(촀\0Tu ne devineras jamais, n\0...\0\0(촀\0J'ai pensé à un nouveau surnom
 qui sera parfait pour toi !"
 "002_a","(\0촁\0Ah oui ? C'est quoi ?"
 "002_b","J'ai déjà un surnom."
-"003","(4촀\0Je sais que tu te fais appeler
-s\0촀n\0\0\0\0(촀\0J'aime beaucoup ce surnomn\0\0
+"003","(4촀\0Je sais que tu te fais appeler s\0촀n\0\0\0\0(촀\0J'aime beaucoup ce surnomn\0\0
 (4촀\0Dis, est-ce que je peux l'utiliser,
 moi aussi ?"
 "003_a","Bien sûr !"
@@ -24,23 +22,17 @@ que je te donne un petit surnom ?"
 "005","(촀\0Tu tombes à point nommé ! (촀\0J'étais
 en train de réfléchir à un nouveau
 surnom pour toi.
-(%촀\02\0n\0, c'est très bien
-maisn\0\0 (4촀\0tu veux savoir à quoi
-j'ai pensé ?"
+(%촀\02\0n\0, c'est très bien maisn\0\0 (4촀\0tu veux savoir à quoi j'ai pensé ?"
 "005_a","(\0촁\0Bien sûr, je t'écoute."
 "005_b","J'en ai pas très envie."
 "006","(촀\0Tu tombes bienn\0\0 (4촀\0Alors comme ça,
-les autres t'ont 2&surnommésurnommée
-s\0촀 ?
-(촀\0J'aime beaucoup ce surnom. (4촀\0À tel
+les autres t'ont 2&surnommésurnommée s\0촀 ?\0\0(촀\0J'aime beaucoup ce surnom. (4촀\0À tel
 point que j'aimerais l'utilisern\0\0
 si tu es d'accord ?"
 "006_a","Bien sûr."
 "006_b","2DésoléDésolée, mais non."
-"100","(촀\0Je pensais t'appelern\0\0
-« n\0 ».
-\0
-($촀\0Ça te plaît,
+"100","(촀\0Je pensais t'appelern\0\0 « ⁠n\0 ⁠».
+\0 ($촀\0Ça te plaît,
 \0 n\0 ?"
 "100_a","Ça me va !"
 "100_b","Ça m'emballe pas."
@@ -69,13 +61,11 @@ peux sûrement trouver mieux."
 On est bien d'accord, ($촀\0je t'appellerai
 comme ça maintenant ?"
 "106_a","Nickel."
-"106_b","Euh... attends."
+"106_b","(\0촀\0Euh... attends."
 "107","( 촀\0Hmm ? (\0촀\0Non ? (촀\0Alors il va falloir que
 tu me répètes comment tu veux
 que je t'appelle."
-"108","(%촀\0Je continuerai à t'appeler
-(촀\0« n\0 ». Compris,
-n\0."
+"108","(%촀\0Je continuerai à t'appeler (촀\0« ⁠n\0 ⁠». Compris, n\0."
 "109","À partir d'aujourd'hui, tu seras 
 (촀\0« n\0 » !
 \0((촀\0 2""Le seulLa seule et unique, n\0."

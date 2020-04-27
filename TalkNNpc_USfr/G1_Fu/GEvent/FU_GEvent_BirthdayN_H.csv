@@ -2,9 +2,7 @@
 "001","(""촀\0Hé, n\0, entre!
 (촀\0Je suis si contente de te voir!"
 "002","(""촀\02\0n\0! Tu es 2venu
-venue
-célébrer ma fête avec moi?(촀\0
-C'est vraiment gentil!"
+venue célébrer ma fête avec moi?(촀\0 C'est vraiment gentil!"
 "003","(""촀\0Bienvenue, n\0!(촀\0
 Joins-toi donc à nous!"
 "004","(촀\0Ça me fait très plaisir d'avoir
@@ -12,13 +10,12 @@ des invités pour ma fête!\0\0(촀\0Certains amis avaient même
 un cadeau pour moi, j'en suis
 toute retournée!"
 "004_a","(\0촀\0J'ai ça pour toi!"
-"004_b","Zut, j'ai oublié..."
+"004_b","(\0촀\0Zut, j'ai oublié..."
 "005","(촀\0Merci infiniment d'être 2venu
 venue!\0\0Oh, excuse-moin\0\0 (2촀\0je crois que
 je suis encore émue par le cadeau
 que j'ai reçu juste avant ton arrivée.\0\0(촀\0Si tu avais un cadeau pour moi,
-n\0, (촀\0mon cœur en
-exploserait!"
+n\0, (촀\0mon cœur en exploserait!"
 "005_a","(\0촀\0Oui, j'ai un cadeau!"
 "005_b","Je n'ai rien du tout."
 "006","(촀\0Bienvenue à ma fête!\0\0(4촀\0Je suis tellement contente qu'on
@@ -79,25 +76,25 @@ chez moi. Merci beaucoup!
 \0(촀"
 "019","(촀\02\02\0}\0\0!
 \0( (촀\0Merci beaucoup, c'est vraiment
-le cadeau parfait!\0\0(촀\0J'adore porter 2*촀le mienla mienne\0 et devoir
-l'enlever pour 2촀lela\0 laver me brise
+le cadeau parfait!\0\0(촀\0J'adore porter 2*촀le mienla mienne\0 et devoir
+l'enlever pour 2촀lela\0 laver me brise
 toujours le cœur."
-"020","(촀\0Oh, super, à présent j'ai 2\0}\0\0, (촀\0comme toi, n\0!\0\0Toi et moi, nous pourrons 2촀lela\0 mettre
+"020","(촀\0Oh, super, à présent j'ai 2\0}\0\0, (촀\0comme toi, n\0!\0\0Toi et moi, nous pourrons 2촀lela\0 mettre
 en même temps, n\0.\0\0(촀\0Nous allons pouvoir nous promener
 partout dans la même tenue!"
 "021","(촀\0Oh, n\0!
 \0 Tu m'offres 2\0}\0\0?\0\0(4촀\0C'est très cher, tu saisn\0\0 Est-ce que
-tu veux vraiment me 2촀lela\0 donner?"
+tu veux vraiment me 2촀lela\0 donner?"
 "022","(촀\02\02\0}\0\0! 
 \0((촀\0Je suisn\0\0 tout simplement sans voix.\0\0(;촀\0Ce cadeau est tout ce dont
 je pouvais rêvern\0\0
 \0 (촀\0Je ne sais
 vraiment pas quoi dire."
-"023","(촀\0Voilà que tu m'offres 2\0}\0\0. C'est très gentil!\0\02\0n\0, je 2촀lela\0 chérirai de tout mon cœur!"
+"023","(촀\0Voilà que tu m'offres 2\0}\0\0. C'est très gentil!\0\02\0n\0, je 2촀lela\0 chérirai de tout mon cœur!"
 "024","(촀\0Oh, 
 \0j'espérais justement qu'une âme généreuse m'offrirait 2\0}\0\0!\0\0(촀\0C'est vraiment formidable, n\0!"
 "025","(촀\02\02\0}\0\0. Merci, n\0!"
-"026","Voyons un peun\0\0 (촀\0Oh, tu m'offres2\0}\0\0? (촀\0C'est un très beau cadeau, merci!"
+"026","Voyons un peun\0\0 (촀\0Oh, tu m'offres 2\0}\0\0? (촀\0C'est un très beau cadeau, merci!"
 "027","(촀\0Maisn\0\0 qu'est-ce que c'est?
 ('촀\0Non, je ne peux pas accepter ton
 argent, ce ne serait pas correct!\0\0(4촀\0En fait, je préfère autant un modeste
@@ -165,10 +162,8 @@ belle petite ville pour ma fête.(촀"
 journal.(촀\0 Je sens que je vais en
 écrire, des pages sur cette fête!"
 "060","(촀\02\0n\0,
-\0 tu ne vas pas y
-croire :
-\0 (;촀\0il y a ENCORE des invités
-qui m'apportent des cadeaux!"
+\0 tu ne vas pas y croire :
+\0 (;촀\0il y a ENCORE des invités qui m'apportent des cadeaux!"
 "060_a","(\0촀\0Tiens, c'est pour toi."
 "060_b","Je n'ai rien apporté."
 "061","Oh, pardonn\0\0(2촀\0 Je suis encore émue
@@ -185,7 +180,7 @@ pour offrir des cadeaux,
 \0 n\0.\0\0(4촀\0Je suis persuadée que tu me ferais
 plaisir à coup sûr."
 "062_a","J'ai un cadeau!"
-"062_b","Ah, euh... pardon, mais..."
+"062_b","(\0촀\0Ah, euh... pardon, mais..."
 "064","(촀\0Tu pars déjà?
 \0 Merci encore d'être
 2venu
@@ -263,11 +258,9 @@ j'aimerais te donner?
 être repassé2\0e me voir.
 \0 (촀\0C'est promis?"
 "081","(촀\0Te voilà, n\0!
-\0( ()촀\0J'aimerais que tu ramènes un petit
-souvenir chez toin\0\0\0\0(!촀\02\02\0}\0!
+\0( ()촀\0J'aimerais que tu ramènes un petit souvenir chez toin\0\0\0\0(!촀\02\02\0}\0!
 \0( (촀\0J'espère que ça te plaît."
-"100","(촀\0s촀 et moi sommes
-2촀nésnées\0 le même jour,
+"100","(촀\0s촀 et moi sommes 2촀nésnées\0 le même jour,
 \0 c'est amusant.\0\0(촀\0C'est comme si notre amitié
 était écrite.
 \0(촀\0 Alors, nous célébrons

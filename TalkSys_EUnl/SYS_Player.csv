@@ -3,7 +3,7 @@
 \0 Je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"001_a","Omruilen!"
+"001_a","Ruilen!"
 "001_b","Laten vallen."
 "002","Kijk eens wat je hebt opgegraven!
 \0
@@ -16,27 +16,27 @@ Wil je er iets voor ruilen?"
 \0 Je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"003_01_a","Omruilen!"
+"003_01_a","Ruilen!"
 "003_01_b","Weer begraven."
-"003_a","Omruilen!"
+"003_a","Ruilen!"
 "003_b","Weer begraven."
 "004","Maarn\0\0
 \0 je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"004_a","Omruilen!"
+"004_a","Ruilen!"
 "004_b","Vrijlaten."
 "005","Maarn\0\0
 \0 je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"005_a","Omruilen!"
+"005_a","Ruilen!"
 "005_b","Laten vallen."
 "006","Maarn\0\0
 \0 je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"006_a","Omruilen!"
+"006_a","Ruilen!"
 "006_b","Laat maar..."
 "007","Maarn\0\0
 \0 je hebt er geen plek voor!
@@ -49,7 +49,7 @@ helaas je enige optie."
 in je zakken,
 \0 dus je kunt hem beter
 laten staan."
-"013","Je kunt niets meer oppakken,
+"013","Je kunt niets meer opruimen,
 
 \0
 want je zakken zitten vol."
@@ -74,8 +74,8 @@ helaas je enige optie."
 \0 Je zakken zitten vol!
 \0
 Wil je er iets voor ruilen?"
-"017_a","Omruilen!"
-"017_b","Weer begraven."
+"017_a","Ruilen!"
+"017_b","Weer de grond in!"
 "021","Au! Auwauwaun\0\0 Je bent gestoken
 door wespen!"
 "022","Ah, dat jeukt!
@@ -98,9 +98,9 @@ hier achter te laten. Voor nun"
 "1002","Hé! Je telefoon gaat weer."
 "101","Je hebt iets gevonden! 2\02\0
 }\0\0!\0\0Misschien kun je de eigenaar vinden."
-"102","2\02\0}\0\0 2촀diedatdie iemand verloren is!\0\0Een van de eilanders komt er vast
+"102","2\02\0}\0\0 2촀diedatdie iemand verloren is!\0\0Een van de eilanders komt er vast
 naar zoeken, dus het is beter om
-2촀hemhetze voorlopig hier te laten."
+2촀hemhetze voorlopig hier te laten."
 "103","Iemand is zijn of haar }\0\0 verloren!\0\0Wie zou het kunnen zijn?
 \0( Laat maar
 lekker liggen, je wilt de eigenaar niet
@@ -246,7 +246,7 @@ geborduurd in gouden letters. Er
 staatn\0\0 ""Motorrijders Zijn Het Leukst""."
 "200","Je nieuwe leven is begonnenn\0\0
 \0
-Je kunt helemaal doen wat je wilt!
+Je kunt nu doen wat je zelf wilt!
 \0
 WOE-HOEEEE!"
 "204_02","Hoera!
@@ -324,7 +324,7 @@ je \0NookPhone\0￿! Je kunt nu waar en
 wanneer je maar wilt winkelen!"
 "290","<"
 "290_01","O nee!
-\0 Daar 2""촀gaatgaatgaan je \02촃}\0\0\0￿n"
+\0 Daar 2""촀gaatgaatgaan je \02촃}\0\0\0￿n"
 "290_02","O nee!
 \0 Bedankt voor je trouwe dienst, \0}\0\0\0￿n"
 "290_03","O nee!
@@ -376,6 +376,18 @@ idee voor een doe-het-zelfplan!"
 \0
 (촀\0
 \0Je hebt een idee voor een doe-het-zelfplan!"
+"515","(
+촀\0Kon je het patroon op het ei maar
+voor iets anders gebruikenn\0\0
+\0 (촀\0
+\0Je hebt
+ideeën voor doe-het-zelfplannen!"
+"518","(
+촀\0Wat als je die doe-het-zelfplannen
+met eierenschalen als inspiratie
+combineert?\0\0(촀\0
+\0Je hebt een idee voor een doe-het-
+zelfplan!"
 "700","Gefeliciteerd!
 \0 Het is altijd leuk om je
 verjaardag te vieren met lekkere taart
@@ -459,7 +471,7 @@ bouwen."
 "914_01","Het plein is een centraal punt voor
 activiteiten. Je kunt dus maar beter
 een andere plek zoeken."
-"915","Zo dicht bij een gebouw wordt de
+"915","Zo dicht bij een bouwwerk wordt de
 doorgang belemmerd. Wellicht lukt
 het ergens anders?"
 "916","Zo dicht bij de brug wordt de
@@ -476,6 +488,9 @@ brievenbus, dus dit is geen goede
 plek. Wellicht lukt het ergens anders?"
 "919_01","Je moet de \0brievenbus\0￿ eerst
 verplaatsen."
+"920","Zo dicht bij de steiger wordt de
+doorgang belemmerd. Wellicht lukt
+het ergens anders?"
 "921","Er is hier geen rivier, dus je kunt hier
 geen brug plaatsen."
 "926","Je kunt alleen een brug plaatsen

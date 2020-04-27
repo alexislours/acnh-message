@@ -21,7 +21,7 @@ fais-moi signe,
 \0 n\0.
 \0
 (%촀\0C'est peut-être à vendre !"
-"004_a","Un truc me tente !"
+"004_a","(\0촀\0Un truc me tente !"
 "004_b","Ça ira, je pense."
 "005","(&촀\0Qu'est-ce que tu penses de ma déco,
 \0
@@ -30,14 +30,14 @@ alors ?
 hésite pas à me le dire !\0\0(4촀\0Qui saitn\0\0 je serai peut-être
 d'humeur à te le vendre,
 \0 n\0n"
-"005_a","Un truc me tente !"
+"005_a","(\0촀\0Un truc me tente !"
 "005_b","Ça ira, je pense."
 "006","($촀\0Tu vois quelque chose qui te donne
 envie ?
 \0 (촀\0Si t'as pas peur d'acheter un
 truc d'occasion,
 \0 on peut s'arranger."
-"006_a","Un truc me tente !"
+"006_a","(\0촀\0Un truc me tente !"
 "006_b","Ça ira, je pense."
 "007","($촀\0Qu'est-ce que ce sera ?
 \0 (6촀\0Je suis
@@ -76,22 +76,22 @@ tu changes d'avis."
 "100","( 촀\0Alors comme ça,
 \0 c'est 2\0}\0\0 qui t'intéressen\0\0\0\0(8촀\0J'y suis assez attaché,
 \0 mais je peux
-te 2촀lela\0 laisser pour Z\0.
+te 2촀lela\0 laisser pour Z\0.
 \0
 (&촀\0Qu'est-ce que t'en penses ?"
 "100_a","J'achète !"
-"100_b","Oublie ça..."
+"100_b","(\0촀\0Oublie ça..."
 "101","(6촀\0T'as l'œil,
 \0 2
 gamingamine !
 \0(
 촀\0 2\02\0}\0\0, doncn\0\0\0\0(
-촀\0Je te 2촀lela\0 laisse pourn\0\0 (촀\0Allez,
+촀\0Je te 2촀lela\0 laisse pourn\0\0 (촀\0Allez,
 \0 disons
 Z\0.(\0촀\0
 \0 Ça te va ?"
 "101_a","J'achète !"
-"101_b","Oublie ça..."
+"101_b","(\0촀\0Oublie ça..."
 "102","(촀\0Oh ben dis donc.
 \0 T'as l'air d'être 2*intéresséintéressée par 2\0}\0\0n\0\0\0\0(
 촀\0J'y tiens beaucoup,
@@ -101,18 +101,18 @@ m'en sépare,
 Z\0. 
 \0(&촀\0Toujours tenté2\0e ?"
 "102_a","J'achète !"
-"102_b","Oublie ça..."
+"102_b","(\0촀\0Oublie ça..."
 "103","( 촀\0Non ? 
 \0Tant pis.
 \0 Si jamais tu changes
 d'avis,
-\0 tu sauras où 2촀lela\0 retrouver !"
+\0 tu sauras où 2촀lela\0 retrouver !"
 "104","(촀\0Je crois que t'as pas assez de
 clochettes en poche, 2
 gamingaminen\0\0
 \0(
 (촀\0Dommage pour toi."
-"200","(촀\02B촀Adjugé, venduAdjugée, vendue\0 !"
+"200","(촀\02B촀Adjugé, venduAdjugée, vendue\0 !"
 "201","(촀\0Merci pour cette visite fort
 enrichissante, 
 \0(촀\0ha ha !"
@@ -123,9 +123,9 @@ gamingamine !"
 "203","(촀\0Je compte sur toi pour en
 prendre soin !"
 "204","(%촀\0J'espère que t'y feras attention."
-"205","(촀\0Je sais qu'2L촀il est pas neuf$elle est pas neuve\0, mais
+"205","(촀\0Je sais qu'2L촀il est pas neuf$elle est pas neuve\0, mais
 j'en ai bien pris soin.
-\0(%촀\0 2촀IlElle\0 devrait
+\0(%촀\0 2촀IlElle\0 devrait
 pas te lâcher avant un moment."
 "206","(촀\0Attends un peun\0\0 mais t'as les
 poches pleines !
@@ -138,15 +138,13 @@ gamingamine,
 intention de m'en séparer."
 "301","(촀\02\02\0}촀 ?!
 \0
-C'est 2촀luielle\0 que tu veux acheter ?!
+C'est 2촀luielle\0 que tu veux acheter ?!
 ('촀\0Désolé,
 \0 ça va pas être possiblen"
 "302","(촀\0Oh,
 \0 n\0n\0\0
 \0 ('촀\0Désolé,
-\0 mais
-2\0}\0\0
-n'est pas à vendre,
+\0 mais 2\0}\0\0 n'est pas à vendre,
 \0 par contren"
 "303","(7촀\0Désolé 2
 gamingamine,

@@ -26,12 +26,12 @@ denken dat ik hem nooit zal vindenn"
 "006","( 촀\0Ik wil je wat vragen. (&촀\0Heb jij ergens
 een boek zien liggen?\0\0(8촀\02\0n\0, ik ben het boek kwijtgeraakt dat ik aan het lezen wasn"
 "006_a","(\0촀\0Ik help je met zoeken."
-"006_b","(\0촀\0Heb ik niet gezien."
+"006_b","Heb ik niet gezien."
 "007","(촀\0Ik was een detectiveverhaal aan het
 lezen tot ik het plots kwijt was.\0\0(촀\0Ik heb echt overal gezocht, maar kan
 mijn boek maar niet vindenn"
 "007_a","Ik zal ernaar zoeken."
-"007_b","(\0촀\0Sorry, niet gezien."
+"007_b","Sorry, niet gezien."
 "008","(촀\0Ik denk dat ik mijn dagboek heb
 verloren!\0\0(촀\0Ik had het bij me toen ik ging
 wandelen, dus het moet ergens
@@ -85,7 +85,7 @@ vreemde het vindt en leestn"
 belangrijks erinn\0\0\0\0(촀\0Ik heb overal gezocht, maar kan hem
 niet vinden!"
 "101_a","Ik help je wel!"
-"101_b","Hopelijk vind je hem."
+"101_b","(\0촀\0Hopelijk vind je hem."
 "102","( 촀\02\0n\0!\0\0(촀\0Misschien kun jij me helpenn\0\0\0\0Ik moet een tas vinden waar iets
 heel belangrijks in zit."
 "102_a","Ik help je zoeken."
@@ -112,7 +112,7 @@ vast laten vallenn\0\0
 ben ik er buiten naar op zoekn\0\0\0\0(촀\0Het zou zo gênant zijn als een
 vreemde mijn dagboek vond en las!"
 "202_a","Ik ga ernaar op zoek."
-"202_b","(\0촀\0Sorry, niet gezien."
+"202_b","Sorry, niet gezien."
 "203","(촀\0Je bent de beste, n\0! (촀\0Geef het alsjeblieft terug zodra je het vindt."
 "204","(촀\0O, okén\0\0 (촀\0Hopelijk is degene die het
 dagboek vindt, zo vriendelijk om het

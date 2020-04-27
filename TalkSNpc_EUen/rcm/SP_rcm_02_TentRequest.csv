@@ -69,7 +69,7 @@ impact to native flora or fauna!
 proper shop. And we will of course
 offer compensation for your efforts."
 "012_02_a","((촁\0OK."
-"012_02_b","OK, I'll help."
+"012_02_b","Sure, I'll help."
 "012_03","
 \0((촀\0Thank you so much!"
 "012_04","()촀\0Now, I know this is a lot, but I put
@@ -87,7 +87,7 @@ at your own pace.
 \0(촀\0 Once you have
 a set of something, come see me!"
 "013","(촀\0Welcome, n\0!
-\0
+\0(
 (\0촀\0How can I help you today?"
 "013_a","\0About building a shop.\0￿"
 "013_b","I want to sell!"
@@ -111,7 +111,7 @@ please put up the \02\0Ā촃shop construction kit\0￿ I gave you."
 we're going to open by tomorrow,
 but I can't wait!"
 "051","(촀\0Oh, you'll make a donation?
-\0 (촀\0Thank
+\0( (촀\0Thank
 you so much for helping us!"
 "052_01","(
 촀\0We already received some donations,

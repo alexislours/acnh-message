@@ -79,7 +79,7 @@ vendere."
 \0 non è possibilen\0\0 2\0}\0\0n\0\0\0d
 (촀\0
 \0Ah!
-\0(촀\0 Scusa, pensavo ad alta voce.\0\0Ti posso offrire Z\0 per 2""촀questoquesta\0 }\0\0."
+\0(촀\0 Scusa, pensavo ad alta voce.\0\0Ti posso offrire Z\0 per 2""촀questoquesta\0 }\0\0."
 "035_a","(%촀\0Affare fatto!"
 "035_b","('촀\0Ho cambiato idea."
 "036","(%촂\0(촃\0Ah! Uno schema fai da te per
@@ -88,7 +88,7 @@ vendere."
 (촂\0Se me lo vendi, ti offro Z\0!"
 "036_a","(%촀\0Affare fatto!"
 "036_b","('촀\0Ho cambiato idea."
-"037","(촂\0(촃\0Ooh!
+"037","(촂\0(촃\0Oh!
 \0 Questo è uno schema
 fai da te per 2\0}\0\0!\0\0(촂\0È uno schema molto prezioso.
 \0
@@ -172,9 +172,10 @@ con te!(%촃\0 d\0\0KAffari con te!\0dd"
 Ce ne sbarazzeremo noi!"
 "052","(촂\0(촃\0È un piacere fare affari con te!
 \0(
-(\0촂\0(\0촃\0Hai il portafogli pieno.\0\0Ti metterò in tasca le stelline in
-eccesso dentro dei sacchetti!
-d\0
+(\0촂\0(\0촃\0Considerando che hai il portafogli
+pienon\0\0\0\0Metterò le stelline in eccesso nelle
+tue tasche dentro dei sacchetti!
+(촃\0d\0
 \0\0KDentro dei sacchetti!\0dd"
 "053","(촂\0(촃\0Grazie!
 \0((\0촂\0(\0촃\0 Hai sia il portafoglio che
@@ -305,6 +306,13 @@ decidessi di acquistarlo."
 divertirti ancora di più con i nuovi
 schemi \0fai da te\0￿! d\0
 \0\0KFai da te!\0dd"
+"108","()촀\0Oh! 
+\0Mi spiace, ma questo schema fai
+da te può essere venduto solo a chi
+possiede l'app \0Laboratorio\0￿.\0\0(촀\0Se vuoi saperne di più sul \0fai da te\0￿,
+
+\0fai un salto al \0centro servizi \0￿della tua
+isola quando vi avrai fatto ritorno."
 "110_02","(촂\0(촃\0Sai, n\0, credo che tu abbia già questo schema.\0\0(촂\0(촃\0Ma se ne vuoi comprare un'altra
 copia, costa Z\0.
 \0
@@ -412,8 +420,8 @@ il\0 doppio(%촃\0\0￿ del solito, 
 "122_b","('촀\0Ho cambiato idea."
 "131","2\02\0}\0\0
 \0(%촃\0 è uno dei nostri articoli più richiesti! 
-\0(&촂\02""촀QuantiQuante\0 ne vuoi?"
-"131_a","2촀UnoUna\0. (\0Z\0 \0￿)"
+\0(&촂\02""촀QuantiQuante\0 ne vuoi?"
+"131_a","2촀UnoUna\0. (\0Z\0 \0￿)"
 "131_b","Cinque. (\0Z
  \0￿)"
 "131_c","Ho cambiato idea."

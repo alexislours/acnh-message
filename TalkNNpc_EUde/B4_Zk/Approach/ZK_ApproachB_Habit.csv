@@ -20,28 +20,33 @@ Auffrischung?"
 \0n\0?
 \0 Alles
 n\0 auf n\0!\0\0(
-촀\0Hmm... Ist „n\0“ vielleicht
+촀\0Hmmn\0\0
+\0 Ist „n\0“ vielleicht
 out? 
-\0Fühlt sich plötzlich komisch an,
+\0Fühlt sich plötzlich komisch an,
+\0
 wenn ich's sage.\0\0(&촀\0Was denkst du?
 \0 Wird es Zeit für was
 Neues?
 \0 (6촀\0Oder bin ich wie immer am
 Puls der Zeit?
 \0 2\0n\0!"
-"002_a","(\0촀\0Änderung ist fällig!"
-"002_b","(\0촀\0Du bist voll am Puls!"
-"003","(촀\0So was... Hör dir das mal an.
+"002_a","Änderung ist fällig!"
+"002_b","Du bist voll am Puls!"
+"003","(촀\0So wasn\0\0
+\0 Hör dir das mal an.
 \0
-n촀 hat gesagt, dass
+n촀 hat gesagt, 
+\0dass
 mein Spruch „von letzter Woche“ ist.
 (촀\0Im Ernst? 
 \02\0n\0?
 \0
 (5촀\0Cooler als das geht's ja wohl nicht!
 \0
-Findest du auch, oder?"
-"003_a","(\0촁\0Ja, also...
+Findest du auch, 
+\0oder?"
+"003_a","(\0촁\0Tja, also...
 (\0촁\0Sooo cool auch nicht."
 "003_b","(\0촁\0Voll cool!
 (\0촀\0Total. Alles gut."
@@ -104,12 +109,16 @@ quasi auf der Nostalgiewelle surfen?"
 \0wie jetzt?
 \0(
 (촀\0Du lässt mich einfach hängen?"
-"200","(1촀\02\0n\0... Ja, das klingt doch
+"200","(1촀\02\0n\0n\0\0
+\0 Ja, 
+\0das klingt doch
 gut. 
-\0Danke für deine Hilfe,
+\0Danke für deine Hilfe,
+\0
 n\0!
 (6촀\0Ich kann dir keine Sternis oder so
-geben, aber du wirst in meiner
+geben,
+\0 aber du wirst in meiner
 Autobiographie gut wegkommen!"
 "201","(9촀\02\0n\0n\0\0
 \0 ('촀\0Das mag ich nicht.

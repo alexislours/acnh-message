@@ -319,7 +319,7 @@ Alles paletti,
 \0
 äh, 
 \0dem Rettungsdienst.d"
-"050_03","d\0Zum Festplatz,
+"050_03","d\0Zum \0Festplatz\0￿,
 \0 ja?
 
 \0Gut,
@@ -427,10 +427,10 @@ paar Meilchen umsonst!
 "201","Soll ich die App \0Insel-Designer
 \0￿öffnen und etwas bauen oder
 verändern?"
-"201_a","Ja, los geht's!"
-"201_b","Aufräum-Service!"
-"201_c","Anleitung lesen."
-"201_d","Nö."
+"201_a","Bauarbeiten beginnen"
+"201_b","Aufräum-Service"
+"201_c","Anleitung lesen"
+"201_d","Abbrechen"
 "202","Baugenehmigung wird eingeholtn\0\0
 "
 "202_01","Die App \0Insel-Designer \0￿ist jetzt
@@ -438,10 +438,10 @@ bereit! Achtung: Bei Bauarbeiten
 ist stets ein Helm zu tragen!"
 "205","So!
 \0 War's das mit dem Bauen?"
-"205_a","Jawoll, bin fertig."
-"205_b","Aufräum-Service!"
-"205_c","Anleitung lesen."
-"205_d","Nee, fehlt noch was!"
+"205_a","Beenden"
+"205_b","Aufräum-Service"
+"205_c","Anleitung lesen"
+"205_d","Fortsetzen"
 "206","n\0\0
 \0Verbindungsfehler!
 "
@@ -461,17 +461,16 @@ und nur im Freien."
 \0
 Danke für das Benutzen der App
 und bis zum nächsten Mal!"
-"212","Wenn das Tor am \0Flughafen\0￿
-offen ist,
-\0 kann ich den
-\0Insel-Designer \0￿nicht verwendenn"
-"213","Solange Besuch da ist,
+"212","Solange der Flugsteig offen ist,
 \0
-lass ich besser die Finger
-vom \0Insel-Designer\0￿."
-"214","Bevor ich den \0Insel-Designer
-\0￿benutze, 
-\0sollte ich am \0Flughafen\0￿
+kannst du den \0Insel-Designer \0￿nicht
+verwendenn"
+"213","Solange Besuch da ist,
+\0 kannst du
+den \0Insel-Designer\0￿ nicht verwenden."
+"214","Bevor du den \0Insel-Designer
+\0￿verwendest, 
+\0musst du am \0Flughafen\0￿
 die Verbindung beenden."
 "221","Die App \0Insel-Designer
 \0￿ist jetzt bereit!"
@@ -565,9 +564,9 @@ kann so einiges schiefgehen.\0\0Man versperrt sich selbst den Weg.
 Oder man will etwas bearbeiten, aber
 es liegt oben auf einem Plateau.\0\0In solchen Momenten hilft der
 Aufräum-Service. Der sorgt um
-dich herum für Ordnung!\0\0Davon betroffen sind Möbel,
-Zäune und ähnliche Elemente \0in
-deiner unmittelbaren Umgebung\0￿.\0\0Um den Service zu nutzen, solltest
+dich herum für Ordnung!\0\0Davon betroffen sind Möbel, Zäune,
+Bäume und Ähnliches \0in deiner
+unmittelbaren Umgebung\0￿.\0\0Um den Service zu nutzen, solltest
 du dich also zuerst in die Nähe der
 problematischen Objekte begeben.\0\0Alle dabei aufgeräumten Objekte
 landen in der \0Krimskramskiste\0￿ im
@@ -617,20 +616,23 @@ kiste im Servicecenter zu befördern?"
 \0Bitte warte, 
 \0während
 wir um dich herum aufräumen."
-"264","Fertig! 
-\0Vergiss nicht, 
-\0die entfernten
-Objekte aus der \0Krimskramskiste\0￿
-im \0Servicecenter \0￿abzuholen!"
+"264","Fertig!
+\0
+Bitte beachte, dass nur Items und
+Zäune in der \0Krimskramskiste \0￿landen."
 "265","Es konnten keine Elemente
 aufgeräumt werden.\0\0Der Aufräum-Service ist nur für
-Möbel, Zäune und ähnliches in deiner
+Möbel, Zäune, Bäume etc. in deiner
 unmittelbaren Umgebung zuständig."
+"266","Du bist \0außerhalb des
+Gültigkeitsbereiches
+\0￿des \0Aufräum-Services\0￿.\0\0Du kannst die App nur
+auf n	\0 nutzen,
+\0
+und nur im Freien."
 "301","Für diese Insel scheint meine
 Karten-App keine Daten zu habenn"
-"311","Nanu? 
-\0„Kein Empfang“n\0\0
-\0 Hmmm...
-\0
-Funktioniert wohl hier nicht."
+"321","Im Party-Modus kann ich
+anscheinend die Chatlog-
+App nicht öffnenn"
 "999","\0100\0￿ Meilen"

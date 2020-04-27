@@ -8,7 +8,7 @@ qui 2\0 n!\0?"
 "001_b","(\0촀\0Veramente no."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah!
 \0 2\02\0n촀?
 \0 (6촀\0In effetti non
@@ -62,10 +62,12 @@ un museo vero!
 a visitarlon\0\0 se non altro per darmi
 ragione! 
 \0(촀\0AHAHAH!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(3촀\0Che rimanga tra noin\0\0 Il \0museo \0￿di n!\0 è ancora spoglio come un albero in autunno.\0\0(9촀\0Se non si copre, 
 \0molto presto si
 beccherà un bel raffreddore.
@@ -109,67 +111,70 @@ che sono all'antica non sono mai
 stati al \0museo\0￿.
 (%촀\0Lì sono esposti fossili incredibilin\0\0
 Incluso il mio preferito, 
-\02((촀un beluna bella\0
+\02()촀un beluna bella\0
 
 .
 (촀\0Al confronto, io sembro un pulcino!
 
 \0(촀\0AHAHAH!"
-"101","<\0fi"
-"102","Senti, avrei una domanda per te.
-
-\0(&촀\0Per caso ti manca vivere qui 2\0
-n!\0?"
-"102_a","(\0촀\0Un po'."
-"102_b","(\0촀\0Per niente."
-"103","(촀\0Solo un po', eh? 
-\0Dai, guarda che
-con me ti puoi confidare. 
-\0Non lo
-dirò ad anima viva!
-(촀\0Ma ora la smetto. 
-\0Non volevo metterti in difficoltà... 
-\0(6촀\0Beh, non
-troppo! 
-\0(촀\0Vieni a trovarmi quando vuoi."
-"104","(촀\0Addirittura! 
-\0Neanche una punta
-di nostalgia?! 
-\0(*촀\0Che freddezzan\0\0
-BRRR! 
+"201","<\0ÊÍ"
+"202","È la mia immaginazione
+\0 o sei venut2oa (촀\02\0 n\0 solo per vedere il sottoscritto?"
+"202_a","Beh... sì."
+"202_b","Niente affatto."
+"203","(촀\0Eh? Sul serio?!
+\0 (\0촀\0Capperi, era una
+domanda scherzosa.
+\0 (7촀\0Chi l'avrebbe
+mai detto?
+\0 La cosa non mi dispiace.
+(%촀\0Resterò qua per un po'.
+\0 Quindi
+devi tornare a trovarmi quando
+ti manco.
+\0 Se ci tieni, n\0."
+"204","(촀\0Uau, non sai dove sta di casa
+la nostalgia, eh?
+\0 Che sentimento
+sfuggente, n\0! 
 \0(촀\0AHAHAH!
-(촀\0Beh, allora immagino che le cose
-vadano proprio bene sulla tua isola.
-
-\0(촀\0Buon per te, n\0!"
-"105","(촀\0Ma guarda chi si rivede, 
-\0n\0! 
-\0(촀\0Come vanno le cose sulla tua nuova isola?"
-"105_a","(\0촀\0Alla grande!"
-"105_b","(\0촀\0Non male."
-"105_c","(\0촀\0Eh eh eh..."
-"106","(촀\0Sono proprio felice di sentirlo!
+(2촀\0Beh,
+\0 poco importa.
+\0 A me tutto
+sommato fa piacere rivederti,
+\0
+mi basta quello."
+"205","(촀\0Beh, guarda chi si vede: 2 il buonla cara n\0!
+\0( (촀\0Come butta laggiù 2\0 n""\0?"
+"205_a","Una favola!"
+"205_b","Non male."
+"205_c","Mmmh, beh, ecco..."
+"206","(촀\0Troppo forte! Mi fa piacere sentirlo.
 \0
-Dopotutto, ero sicuro che ti saresti
-2 trovatotrovata bene dovunque!
-(촀\0Però torna a trovarci qualche volta qui 2\0 n!\0. 
-\0(""촀\0Ti aspettiamo a zampe aperte!"
-"107","(촀\0""Non male""? 
-\0Spero tu lo dica solo
-per non farmi invidia! 
-\0(촀\0Comunque,
-l'importante è che tu sia felice.
-(5촀\0Io, ad esempio, 
-\0vado dove soffia
-il vento e 2\0촀
-scorre a fiumi. (촀\0
-\0AHAHAH!"
-"108","(촀\0Uhn\0\0 capperi. 
-\0Magari non avrei
-dovuto chiedertelo?\0\0(
-촀\0Sai, forse hai bisogno di una pausa,
-di un po' d'aria fresca. 
-\0Trovati un
-hobbyn\0\0 che so, 촀?
-(촀\0Hai bisogno di rilassarti,
+Ero preoccupatissimo. Io non saprei
+che fare senza di me. 
+\0(촀\0AHAHAH!
+(7촀\0Allora di' ai miei vecchi concittadinin\0\0
+\0(concisolanin\0\0?)\0￿ di non scordarsi di
+me.
+\0(""촀\0 Alle brutte mi trovate qui, dai!"
+"207","(촀\0""Non male""? 
+\0Non fare 2illa modest2oa:
+senza di me può andare soltanto
+malissimo! 
+\0(촀\0AHAHAH!
+(촀\0Uffa, io vorrei solo che tu fossi felice.
+Quello conta.
+\0 (5촀\0Su certe cosen\0\0 fidati
+di questo musone, n\0."
+"208","(촀\0Allora? Non lo sai?
+\0 Hai perso la
+memoria?
+\0 Ti hanno sfrattat2oa?
+\0
+Devo farti la domanda di riservan\0\0?
+(
+촀\0Forse dovresti fare una pausan\0\0 O
+trovarti un hobby. Che so, qualcosa
+come 촀n\0\0\0\0(촀\0Dovresti imparare a rilassarti,
 n\0."

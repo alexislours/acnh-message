@@ -13,7 +13,7 @@ volentierin\0\0 forse."
 \0(\0촀\0Dai pure un'occhiata in giro.\0\0E se trovi qualcosa che ti piace,
 ($촀\0magari posso vendertelan\0\0\0\0(7촀\0Qualche stellina in più per comprare
 dei fumetti nuovi non guasta mai!"
-"004_a","Qualcosa ci sarebbe..."
+"004_a","(\0촀\0Qualcosa ci sarebbe..."
 "004_b","Non mi serve niente."
 "005","(2촀\0Ti piace la mia stanza?
 \0( L'ho
@@ -21,7 +21,7 @@ arredata tutto da solo!\0\0(\0촀\0Se vedi qualcosa che ti piace,
 fammelo sapere.
 \0 Magari(6촀\0 te la
 posso vendere."
-"005_a","Ho trovato qualcosa."
+"005_a","(\0촀\0Ho trovato qualcosa."
 "005_b","No, non voglio niente."
 "006","(촀\0Ti piace la mia stanza? 
 \0((5촀\0L'ho arredata
@@ -29,7 +29,7 @@ e decorata personalmenten\0\0\0\0(\0촀\0Dimmi se vedi qualcosa che ti piac
 forse te la potrei vendere. 
 \0(촀\0Mi piace
 giocare a fare il negoziante!"
-"006_a","Qualcosa ci sarebbe..."
+"006_a","(\0촀\0Qualcosa ci sarebbe..."
 "006_b","Non mi serve niente."
 "007","(촀\0Eh eh, dimmin\0\0 
 \0((%촀\0Ti posso vendere
@@ -70,7 +70,7 @@ da amicon\0\0 Z\0!"
 "102","(촀\02\02\0}\0\0!
 \0(
 (4촀\0Ottima scelta! Piace moltissimo
-anche a me.\0\0(촀\0Ebbene, può essere 2촀tuotua\0 per
+anche a me.\0\0(촀\0Ebbene, può essere 2촀tuotua\0 per
 sole Z\0!
 \0("
 "102_a","Stupendo!"
@@ -81,7 +81,7 @@ sole Z\0!
 "104","(촀\0Caspitina, n\0n\0\0
 Non hai abbastanza stelline(\0촀\0.
 \0(
-(7촀\0Non te 2촀lola\0 posso vendere."
+(7촀\0Non te 2촀lola\0 posso vendere."
 "200","(촀\0Evviva!"
 "201","(촀\0Evvai!
 \0( Grazie mille!"
@@ -89,14 +89,14 @@ Non hai abbastanza stelline(\0촀\0.
 \0(
 (촀\0Eh eh, 
 \0sono un vero negoziante."
-"203","(촀\0L'ho sempre 2*촀trattatotrattata\0 con i guanti!
+"203","(촀\0L'ho sempre 2*촀trattatotrattata\0 con i guanti!
 \0(
 (""촀\0Mi aspetto che tu faccia lo stesso,
 d'accordo?"
-"204","(4촀\02*촀TrattaloTrattala\0 come tratteresti il primo
+"204","(4촀\02*촀TrattaloTrattala\0 come tratteresti il primo
 numero del tuo fumetto preferito,
 n\0!"
-"205","(1촀\02""촀QuestoQuesta\0 }\0\0
+"205","(1촀\02""촀QuestoQuesta\0 }\0\0
 ne avrebbe di storie da raccontare,
 se solo potesse parlaren\0\0\0\0Per esempio, quella è una macchia
 di 촀n\0\0 Quel segno
@@ -106,17 +106,17 @@ invecen\0\0
 \0( Caspiterina, non hai più spazio
 per portare altro, n\0.\0\0(촀\0Ti spedisco il mio pensierino a casa
 più tardi. (촀\0E grazie!"
-"300","(촀\02촀QuelQuella\0 }촀 è 2V촀$uno dei miei amici(una delle mie amiche\0 più 2촀caricare\0, n\0!\0\0(8촀\0Mi dispiace davvero, 
+"300","(촀\02촀QuelQuella\0 }촀 è 2V촀$uno dei miei amici(una delle mie amiche\0 più 2촀caricare\0, n\0!\0\0(8촀\0Mi dispiace davvero, 
 \0ma non posso
 separarmene, 
 \0n\0."
-"301","(촀\0No! Mi dispiace, ma 2""촀questoquesta\0
+"301","(촀\0No! Mi dispiace, ma 2""촀questoquesta\0
 }촀
 ha bisogno di me!
 \0(
 (촀\0Non c'è qualche altra cosa che
 ti interessa, n\0?"
-"302","2""촀QuestoQuesta\0 }\0\0
+"302","2""촀QuestoQuesta\0 }\0\0
 \0
 (9촀\0ha un valore sentimentale per me.
 \0(
@@ -124,4 +124,4 @@ ti interessa, n\0?"
 sceglier un'altra cosa, n\0."
 "303","(촀\02\02\0}\0\0?! 
 \0(
-(촀\0No, 2""촀quelloquella\0 non posso proprio 2*촀venderlovenderla\0.\0\0(7촀\0Dà un tono all'ambiente!"
+(촀\0No, 2""촀quelloquella\0 non posso proprio 2*촀venderlovenderla\0.\0\0(7촀\0Dà un tono all'ambiente!"

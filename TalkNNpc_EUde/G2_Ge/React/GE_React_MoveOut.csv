@@ -16,10 +16,8 @@ immer an dich, 
 \0n\0!"
 "002","(촀\0Hey-hey, 
 \0n\0!
-\0 (\0촀\0Ganz
-lieben Dank für deinen Rat gestern!
-\0
-(%촀\0Ich hab beschlossen umzuziehn!\0\0(
+\0 (\0촀\0Ganz lieben Dank für deinen Rat gestern!
+\0 (%촀\0Ich hab beschlossen umzuziehn!\0\0(
 촀\0Okay, 
 \0etwas Sorgen mach ich mir
 schon, 
@@ -87,17 +85,15 @@ Schlechtes Timing?
 ($촀\0Okay, 
 \0man sieht sich!"
 "006","( 촀\02\0n\0! 
-\0(촀\0Ich hab
-beschlossen umzuziehn. 
-\0(8촀\0Ich wohn
-hier also bald gar nicht mehr, okay?\0\0(7촀\0Ich hab 
+\0(촀\0Ich hab beschlossen umzuziehn. 
+\0(8촀\0Ich wohn hier also bald gar nicht mehr,
+\0 okay?\0\0(7촀\0Ich hab 
 \0TOTAL 
 \0keine Ahnung, 
 \0wohin
 ich ziehe, 
 \0also... (%촀\0werden die nächsten
-Tage bestimmt 
-\0voll spannend..."
+Tage bestimmt voll spannend..."
 "006_01","( 촀\02\0n\0! 
 \0(촀\0Du kommst genau richtig!
 \0($촀\0 Ich sag dieser Insel hier Auf Wiedersehen, 
@@ -141,11 +137,9 @@ reisen! 
 voll schöne Outfits! 
 \0Yay, Weltreise!!!"
 "101","Hallo und hallöchen,
-\0
-n\0!(촀\0
+\0 n\0!(촀\0
 \0 Hör mal,
-\0
-ich zieh nach (촀\0s촀!\0\0(촀\0Und das wird so total klasse, 
+\0 ich zieh nach (촀\0s촀!\0\0(촀\0Und das wird so total klasse, 
 \0okay?
 \0
 Ich werd voll die vielen Freunde
@@ -173,9 +167,7 @@ hat? 
 \0(&촀\0Vielleicht erkenn ich überhaupt
 nix mehr wieder..."
 "104","Hey n\0, 
-\0das nächste
-Mal sehen wir uns dann schon auf
-($촀\0n	\0!\0\0(촀\0Und dann musst du mir 
+\0das nächste Mal sehen wir uns dann schon auf ($촀\0n	\0!\0\0(촀\0Und dann musst du mir 
 \0A
 \0L
 \0L
@@ -288,43 +280,10 @@ herziehen!
 n	\0!\0\0Denn hier kommt
 \0(촀\0 n
 \0!"
-"206","($촀\0Hallöchen, 
-\0n\0! 
-\0(8촀\0Okay.
-\0
-Ich hab also mit dem \0Servicecenter\0￿
-auf n	\0 gesprochen...\0\0(촀\0Und die sagen, 
-\0da wohnt schon eine,
-\0
-die 
-\0GENAU 
-\0wie ich aussieht! 
-\0Also...
-\0
-äh, 
-\0kann ich nicht umziehn, 
-\0okay?\0\0Lange Geschichte... 
-\0GAH! 
-\0Ich dachte,
-\0
-ich wär sie endlich los! 
-\0BESONDERS
-
-\0nach der Sache mit dem Vulkan..."
-"207","($촀\0Okay, 
-\0bin schon wieder zurück!
-\0
-(8촀\0Ich hab also im \0Servicecenter\0￿ auf
-n	\0 mal nachgefragt...\0\0(촀\0Da hat sich wohl schon wer anders
-meinen Platz geschnappt.\0\0(촀\0Aber danke für die Einladung!
-\0
-Vielleicht ein andermal!"
 "208","($촀\0Hey, 
 \0n\0!
 \0 (8촀\0Okay, 
-\0ich
-hab also mal mit dem \0Servicecenter\0￿
-auf n	\0 geredet...\0\0(촀\0Und deine Insel ist 
+\0ich hab also mal mit dem \0Servicecenter \0￿auf n	\0 geredet...\0\0(촀\0Und deine Insel ist 
 \0TOTAL voll.
 \0
 
@@ -355,26 +314,6 @@ Da gibt's keinen Platz mehr für
 da kein Haus bauen kann... 
 \0(촀\0Vielleicht
 nächstes Mal dann!"
-"211","(8촀\0Okay, 
-\0ich hab also mit dem
-\0Servicecenter\0￿ auf n	\0
-gesprochen.\0\0Nichts zu machen. 
-\0Ging glaub ich
-darum, 
-\0dass ich zu megasüß bin,
-\0
-oder um Bauvorschriften, 
-\0oder so.\0\0Da wird also nichts draus, 
-\0aber
-(""촀\0vielen Dank für die Einladung!"
-"212","Ich hab also mit jemandem von
-deinem \0Servicecenter\0￿ geredet. 
-\0Hm,
-\0
-kam mir irgendwie bekannt vor...\0\0(촀\0Jedenfalls haben wir uns nicht so
-richtig einigen können... 
-\0($촀\0Aber danke
-für die Einladung!"
 "213","(
 촀\0Deine Insel muss ja superbeliebt
 sein, 
@@ -405,7 +344,8 @@ noch mal anrufen, 
 "300_b","Weiß nich'..."
 "301","(촀\0
 \0Gah.
-\0 Hast recht. Da wird wohl nix
+\0 Hast recht. 
+\0Da wird wohl nix
 draus.
 \0 Ist zwar ätzend, (촀\0
 \0aber so is'

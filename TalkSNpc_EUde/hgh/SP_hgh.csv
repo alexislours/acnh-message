@@ -8,9 +8,7 @@ maßgeschneiderte Mode!"
 "002","(촀\0Oh, 
 \0n\0!
 \0 (촀\0Vielen Dank,
-\0
-dass du diese tolle Stelle für
-unseren Laden gefunden hast!"
+\0 dass du diese tolle Stelle für unseren Laden gefunden hast!"
 "003","(촀\0Oh, 
 \0hi n\0!
 \0
@@ -81,6 +79,70 @@ Sachen, die wir nicht aufstellen.
 (%촀\0Und du kannst auch sehen, 
 \0wie gut
 dir ein Outfit steht."
+"006_01_02","Ja, (""촀\0dann darf ich dich einmal durch
+unseren Laden führenn\0\0\0\0()촀\0Gleich wenn du reinkommst,
+\0 siehst
+du unsere \0Empfehlungen\0￿.\0\0Die ändern wir jeden Tag.
+\0
+(촀\0Du weißt schon, 
+\0um für Abwechslung
+zu sorgen!
+()촀\0Dort links findest du unsere
+\0Schneiderpuppen\0￿. 
+\0Sie tragen immer
+die angesagten Teile der Saison.
+(%촀\0Wir ändern ihre Ausstattung auch,
+\0
+aber nicht unbedingt täglich.
+
+\0(촀\0Lass dich trotzdem inspirieren!
+(촀\0Und wenn dir an den Schneider-
+puppen etwas gut gefällt,
+\0 kannst du
+es natürlich gerne kaufen.
+Kommen wir nun zur hinteren Wandn\0\0
+(""촀\0Hier findest du \0eigene Designs
+\0￿unserer Kunden.
+(촀\0Gerne stellen wir auch deine Designs
+aus.
+\0 (\0촀\0Und du kannst dir die hier
+gezeigtenn\0\0(촀\0 sogar kostenlos nehmen!
+()촀\0Daneben ist das \0Designtausch-
+Terminal\0￿ aufgestellt.(촀\0\0\0Hier kannst du Designs von
+Erstellern aus aller Welt bestellen
+\0
+(촀\0oder sogar deine eigenen hochladen!
+(\0촀\0Zu guter Letzt noch der
+\0Umkleideraum\0￿.
+\0 (""촀\0Den findest du
+ganz rechts im Laden.
+()촀\0Dort kannst du alles anprobieren,
+\0
+was wir gerade anbieten,
+\0(촀\0 und zwar
+in allen verfügbaren Farben.
+(%촀\0Wir haben nur wenig Platz,
+\0 daher
+findest du im \0Umkleideraum\0￿ auch die
+Sachen, die wir nicht aufstellen.
+(촀\0Ja, der \0Umkleideraum \0￿ist praktisch.
+\0(
+(%촀\0Und du kannst auch sehen, 
+\0wie gut
+dir ein Outfit steht."
+"006_01_03","(촀\0Ah!
+\0 2\0n\0!
+\0 (촀\0Hör mal kurz zu.
+\0 ()촀\0Wir haben uns jetzt etwas ganz Neumodisches angeschafft.\0\0(&촀\0Siehst du die Maschine da neben
+der Design-Ausstellung?\0\0(촀\0Das ist unser neues \0Designtausch-
+Terminal\0￿.
+\0 (촀\0Du kannst dort Designs von
+Leuten aus aller Welt herunterladen!\0\0(%촀\0Und umgekehrt kannst du deine
+eigenen Designs der ganzen Welt
+zur Verfügung stellen!\0\0(촀\0Erfordert eine Internetverbindung
+und eine kostenpflichtige Mitglied-
+schaft für \0Nintendo Switch Online\0￿.\0\0($촀\0Nur, 
+\0damit du Bescheid weißt!"
 "006_02","($촀\0Wir haben jeden Tag von 9:00 Uhr
 bis 21:00 Uhr geöffnet.
 \0 (촀\0Ich hoffe,
@@ -110,33 +172,21 @@ ich immer gut gebrauchen!"
 "013","(촀\0Hallo!"
 "014","(촀\0Vielen Dank!
 \0 Den \0Schneiderei-
-Coupon\0￿ nehme ich dir dann mal abn\0\0\0\0Viel Spaß mit 2.촀deinemdeinerdeinem neuen
+Coupon\0￿ nehme ich dir dann mal abn\0\0\0\0Viel Spaß mit 2.촀deinemdeinerdeinem neuen
 2촂}\0\0!"
-"021_01","(촀\0Oje!
-\0 (2촀\0Manchmal finde ich einfach kein
-Ende, wenn ich über den Laden rede.\0\0(촀\0Wie dem auch sei. 
-\0Hast du ein
-Design gesehen, 
-\0das du gerne
-umgestalten würdest?"
-"021_02","(촀\0Oje!
-\0 (2촀\0Ich bin oft schwer zu bremsen,
-wenn ich über den Laden rede.\0\0(촀\0Es scheint, 
+"021_01","(촀\0Hast du ein Design gesehen, 
+\0das du
+gerne umgestalten würdest?"
+"021_02","(촀\0Es scheint, 
 \0als interessierst du dich
 für das, 
 \0was sich hinter dem Vorhang
 verbirgtn"
-"021_03","(촀\0Oh!
-\0 (2촀\0Ich bin oft schwer zu bremsen,
-wenn ich über den Laden rede.\0\0(&촀\0Interessierst du dich für etwas, 
-\0das
-die Schneiderpuppe trägt?"
-"021_04","(2촀\0Ähemn\0\0
-\0 Ich bin oft schwer zu
-bremsen, wenn ich über den Laden
-rede.
-\0( (촀\0Interessiert dich dieser Artikel?"
-"032","2,촀Dieser
+"021_03","(&촀\0Interessierst du dich für etwas,
+\0
+das die Schneiderpuppe trägt?"
+"021_04","(촀\0Interessiert dich dieser Artikel?"
+"032","2,촀Dieser
 DieseDieses }\0\0
 kostet Z\0.
 \0
@@ -145,7 +195,7 @@ kostet Z\0.
 "032_a","(%촀\0Ist gekauft!"
 "032_b","('촀\0Oje, doch nicht..."
 "051","(촀\0Das ist 2\0}\0\0!"
-"052","(촀\02,촀Dieser
+"052","(촀\02,촀Dieser
 DieseDieses }\0\0 ist eine Kreation meiner Schwester \0Minna\0￿!
 \0 Wunderschön, 
 \0oder?"

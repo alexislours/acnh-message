@@ -9,47 +9,45 @@ bewoners."
 "002","Kies uit de volgende diensten:"
 "002_01","Kies uit de volgende diensten:"
 "002_01_a","Nook-catalogus"
-"002_01_b","Pinautomaat"
-"002_01_c","Stoppen"
-"002_a","Nook-miles inwisselen"
-"002_b","Nook-catalogus"
-"002_c","Pinautomaat"
-"002_d","Stoppen"
+"002_01_b","Klingelautomaat."
+"002_01_c","Stoppen."
+"002_a","Nook-miles inwisselen."
+"002_b","Nook-catalogus."
+"002_c","Klingelautomaat."
+"002_d","Stoppen."
 "003","Bedankt voor je bezoek."
 "005","Kies uit de volgende diensten:"
-"005_a","Nook-miles inwisselen"
-"005_b","Nook-catalogus"
-"005_c","Pinautomaat"
-"005_d","-kampeerder uitnodigen"
-"005_e","Stoppen"
+"005_a","Nook-miles inwisselen."
+"005_b","Nook-catalogus."
+"005_c","Klingelautomaat."
+"005_d","-kampeerder uitnodigen."
+"005_e","Stoppen."
 "007","Kies uit de volgende diensten:"
-"007_a","Nook-miles inwisselen"
-"007_b","Nook-catalogus"
-"007_c","Pinautomaat"
-"007_d","-kampeerder uitnodigen"
-"007_e","Stoppen"
+"007_a","Nook-miles inwisselen."
+"007_b","Nook-catalogus."
+"007_c","Klingelautomaat."
+"007_d","-kampeerder uitnodigen."
+"007_e","Stoppen."
 "008","Kies uit de volgende diensten:"
-"008_a","Nook-catalogus"
-"008_b","Pinautomaat"
-"008_c","-kampeerder uitnodigen"
-"008_d","Stoppen"
+"008_a","Nook-catalogus."
+"008_b","Klingelautomaat."
+"008_c","-kampeerder uitnodigen."
+"008_d","Stoppen."
 "012","Wil je \0Z(촀
 \0\0￿ inwisselen voor 2\0\0}\0\0\0￿?"
-"012_a","Ja"
-"012_b","Nee"
-"013","2촀DezeDit\0 \02촃}\0\0\0￿
-\0 is een bouwvergunning voor de \0Eilandontwerper\0￿-app.\0\0De waarde is Z(촀.
-\0
-Wil je miles inwisselen voor deze
-vergunning?"
-"013_a","Ja"
-"013_b","Nee"
+"012_a","(\0촀\0Ja, wissel maar in."
+"012_b","(\0촀\0Nee, liever niet."
+"013","2촀DezeDit\0 \02촃}\0\0\0￿
+\0 is een bouwvergunning voor de \0Eilandontwerper\0￿-app.\0\02촀HijHet\0 kost Z(촀.
+\0 Wil je miles inwisselen voor deze vergunning?"
+"013_a","(\0촀\0Ja, wissel maar in."
+"013_b","(\0촀\0Nee, liever niet."
 "014","Je verzoek is verwerkt. Het gekozen
 voorwerp wordt naar je huis
 verstuurd."
 "015","Wil je nog iets kiezen?"
-"015_a","Ja"
-"015_b","Nee"
+"015_a","Ja."
+"015_b","(\0촀\0Nee, liever niet."
 "016","\0\0Systeemmelding\0\0Je kunt nu miles inwisselen via je
 rekening.\0\0We hopen dat je veel plezier blijft
 beleven aan de vele voordelen van
@@ -72,17 +70,17 @@ opnieuw."
 "025","Bezig met het afdrukken van 2\0
 \0}\0\0\0￿n\0\0
 7"
-"026_01","Je \02\0Ą촃Nook-miles-bon \0￿is afgedrukt.\0\0Neem deze bon mee naar de luchthaven van n	\0 als je hem wilt inwisselen."
-"026_02","Je \02\0Ą촃klingelbon \0￿is afgedrukt.\0\0Neem deze bon mee naar \0Nooks
+"026_01","Je \0Nook-miles-bon \0￿is afgedrukt.\0\0Neem deze bon mee naar de luchthaven van n	\0 als je hem wilt inwisselen."
+"026_02","Je \0klingelbon \0￿is afgedrukt.\0\0Neem deze bon mee naar \0Nooks
 hoek\0￿ als je hem wilt inwisselen
 tegen klingels."
-"027","Het \0doe-het-zelfplan\0￿ voor \02\02촃}\0\0 \0￿kost \0Z(촀\0￿.\0\0Je hebt dit plan al. Weet je zeker dat
+"027","Het \0doe-het-zelfplan\0￿ voor 2\0\02촃}\0\0 \0￿kost \0Z(촀\0￿.\0\0Je hebt dit plan al. Weet je zeker dat
 je er miles voor wilt inwisselen?"
-"027_a","Ja"
-"027_b","Nee"
-"028","Het \0doe-het-zelfplan\0￿ voor \02\02촃}\0\0 \0￿kost \0Z(촀\0￿.\0\0Wil je je miles ervoor inwisselen?"
-"028_a","Ja"
-"028_b","Nee"
+"027_a","(\0촀\0Ja, wissel maar in."
+"027_b","(\0촀\0Nee, liever niet."
+"028","Het \0doe-het-zelfplan\0￿ voor 2\0\02촃}\0\0 \0￿kost \0Z(촀\0￿.\0\0Wil je je miles ervoor inwisselen?"
+"028_a","(\0촀\0Ja, wissel maar in."
+"028_b","(\0촀\0Nee, liever niet."
 "029","Je hebt het \0doe-het-zelfplan
 \0￿ontvangen."
 "030","Om \0doe-het-zelfplannen\0￿ te
@@ -106,7 +104,7 @@ van het NookStation."
 Nook-catalogus. Je hebt er honderd
 bestellingen mee geplaatst.
 Om dat te vieren krijg je van ons de
-Nook-catalogus-\0app\0￿. Hiermee kun je
+\0Nook-catalogus\0￿-app. Hiermee kun je
 altijd en overal shoppen.
 Houd je NookPhone bij de automaat
 om de app te installeren."
@@ -161,10 +159,11 @@ Nooks milesprogramma.\0￿"
 "501","Hiermee kun je met \0amiibo van
 Animal Crossing-personages \0￿dieren
 uitnodigen op de kampeerplek."
-"512","Wil je amiibo gebruiken om een dier
-op de kampeerplek uit te nodigen?"
-"512_a","Ja"
-"512_b","Nee"
+"512","Wil je een amiibo gebruiken om een
+dier uit te nodigen op de
+kampeerplek?"
+"512_a","Ja."
+"512_b","(\0촀\0Nee, liever niet."
 "514","Er is momenteel een bezoeker op de
 kampeerplek aanwezig.\0\0Als je een kampeerder met amiibo
 uitnodigt, vertrekt de huidige
@@ -177,15 +176,15 @@ dat je wilt uitnodigen op de
 kampeerplek."
 "522","Dat is de amiibo van s촀!
 \0( Wil je 2hemhaar uitnodigen op de kampeerplek?"
-"522_a","Ja"
-"522_b","Laat maar"
+"522_a","(\0촀\0Ja."
+"522_b","(\0촀\0Laat maar."
 "523","Dat is de amiibo van \0Timmy\0￿ en
 \0Tommy\0￿! 
 \0(Wie van de twee wil je
 uitnodigen op de kampeerplek?"
-"523_a","Timmy"
-"523_b","Tommy"
-"523_c","Laat maar"
+"523_a","Timmy."
+"523_b","Tommy."
+"523_c","(\0촀\0Laat maar."
 "524","Het lijkt erop dat we doorverbonden
 worden met het antwoordapparaatn"
 "525","Dat is de amiibo van s촀!
@@ -199,8 +198,13 @@ worden met het antwoordapparaatn"
 geannuleerd.
 \0( Wil je verdergaan
 met het gebruik van deze dienst?"
-"529_a","Nee"
-"529_b","Ja"
+"529_a","(\0촀\0Nee."
+"529_b","(\0촀\0Ja."
+"530","Dat is de amiibo van s촀!
+\0( Wil je 2hemhaar uitnodigen op de kampeerplek?"
+"530_a","(\0촀\0Ja."
+"530_b","(\0촀\0Laat maar."
+"531","Het lijkt erop dat je s촀 op dit moment niet kunt bereiken."
 "541","Je kunt één kampeerder per dag
 uitnodigen op de kampeerplek.
 Probeer het morgen opnieuw."
@@ -237,15 +241,15 @@ kabel is verbonden, kan deze geen
 amiibo lezen.\0￿"
 "548","Het lezen van de amiibo is mislukt."
 "549","Wil je het opnieuw proberen?"
-"549_a","Ja"
-"549_b","Nee"
+"549_a","(\0촀\0Ja."
+"549_b","(\0촀\0Nee."
 "550","Wil je een andere amiibo gebruiken
 om iemand anders naar de
 kampeerplek uit te nodigen?"
-"550_a","Ja"
-"550_b","Nee"
+"550_a","Ja."
+"550_b","(\0촀\0Nee, liever niet."
 "572_a","Ja"
-"572_b","Nee"
+"572_b","(\0촀\0Nee, liever niet."
 "581","\0\0Systeembericht\0￿\0\0Je kunt nu posters bestellen van
 modellen die je naar \0Fotopia \0￿hebt
 laten komen.\0\0Je bestelt ze\0 \0￿in de \0Nook-catalogus

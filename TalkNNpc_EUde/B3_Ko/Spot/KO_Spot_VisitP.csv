@@ -68,7 +68,7 @@ Ich hab dir was mitgebracht! 
 \0hier hab ich ja
 noch was Kleines für dich: 
 \0
-2""촀
+2""촀
 eineneineein 2촁}\0.\0\0(4촀\0Nur als kleine Entschädigung für
 meinen Besuch.
 \0 (촀\0Gra ha ha!"
@@ -76,8 +76,7 @@ meinen Besuch.
 \02 KleinerKleines.
 \0(%촀\0
 2\02\0}\0,
-\0
-nur für dich!"
+\0 nur für dich!"
 "203","(촀\0Ach ja! 
 \0Ich hab dir was Kleines zum
 Schnabulieren mitgebracht:
@@ -133,7 +132,7 @@ Freundschaft arbeite.
 
 \0Willst du ein Spiel spielen?"
 "211_a","Klingt gut!"
-"211_b","(\0촀\0Vielleicht später."
+"211_b","Vielleicht später."
 "212","(촀\0Idee! 
 \0Wir spielen jetzt ein Spiel!"
 "212_a","Au ja!"

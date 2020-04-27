@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","()촀\0Klopt het dat je 2\0}\0\0 op de kop wilt tikken?\0\0(""촀\0Dan heb ik goed nieuws voor je.
 \0
-2촀DieDatDie heb ik voor jou bij me,
+2촀DieDatDie heb ik voor jou bij me,
 n\0!"
 "001_a","(\0촁\0Fantastisch! Bedankt!"
 "001_b","(\0촁\0Eh... Wat?"
@@ -42,7 +42,7 @@ nergens naar op zoek bent? 
 mijn mond moeten houden.\0\0Maakt niet uit, n\0!"
 "006","(촀\0Helemaal niet!
 \0( (
-촀\0Ja, 20촀hij ishet isze zijn al gebruikt,
+촀\0Ja, 20촀hij ishet isze zijn al gebruikt,
 maar ik zorg heel goed voor mijn
 spullen, n\0!"
 "007","('촀\0Vertel mij wat! 
@@ -65,18 +65,18 @@ je hebt niet genoeg klingels.\0\0(7촀\0Dusn\0\0 misschien de volgende keer
 "100","($촀\0En ik hoef er maar Z
 voor te hebben!"
 "100_a","Verkocht!"
-"100_b","Eh, in dat geval..."
+"100_b","(\0촀\0Eh, in dat geval..."
 "101","(;촀\0Hallo zeg! 
 \0Laat de klingels maar
 rollen!"
-"102","(%촀\0Zonder gekheid, ik ben blij dat mijn 2촃}\0\0 bij jou in goeie handen 2촀isiszijn, n\0."
+"102","(%촀\0Zonder gekheid, ik ben blij dat mijn 2촃}\0\0 bij jou in goeie handen 2촀isiszijn, n\0."
 "103","(촀\0Te veel?
 \0( (
 촀\0Hmm. Weet je wat het is? Ik
 vind het niet eens belangrijk wat ik
 ervoor krijg. Ik wil er gewoon vanafn\0\0\0\0()촀\0Neem dus maar mee. 
 \0Cadeautje!"
-"104","(7촀\0Hopelijk 2:촀komt hijkomt hetkomen ze van pas, n\0!"
+"104","(7촀\0Hopelijk 2:촀komt hijkomt hetkomen ze van pas, n\0!"
 "105","(촀\0Nou zeg! 
 \0((촀\0Hopelijk vind ik iemand die
 wel geïnteresseerd is, n\0."
@@ -138,7 +138,7 @@ onderhandeld sindsn\0\0 ach, laat maar."
 \0(
 (%촀\0Het gaat je zeker alleen om het
 afdingen, n\0n"
-"300","()촀\0Nou, hier heb ik 2\0}\0\0. Voor Z 20촀is hijis hetzijn ze van jou.
+"300","()촀\0Nou, hier heb ik 2\0}\0\0. Voor Z 20촀is hijis hetzijn ze van jou.
 \0(6촀"
 "300_a","(%촀\0Verkocht."
 "300_b","(\0촁\0Wat heb je nog meer?"
@@ -149,14 +149,14 @@ mijn knar als in mijn huiskamer."
 tocht naar de kringloopwinkel,
 n\0."
 "303","O, hmmmn\0\0 Interesse in 2\0}\0\0? 
-\0(%촀\022촀Die isDat isDie zijn wel Z waard."
+\0(%촀\022촀Die isDat isDie zijn wel Z waard."
 "303_a","(\0촁\0Ooo, geef!"
 "303_b","('촀\0Nee. Misschien iets anders?"
 "304","(
 촀\0Goeie vraag. 
 \0(7촀\0Voor Z wil ik mijn 2촃}\0\0 wel aan je kwijt."
 "304_a","(\0촁\0Ja, toppie!"
-"304_b","('촀\0Ehhh. Verder nog iets?"
+"304_b","(\0촀\0Ehhh. Verder nog iets?"
 "305","(촀\0Serieus? 
 \0Ik heb alleen nog 2\0}\0\0n\0\0
 \0( (8촀\0Vind je Z redelijk?"
@@ -166,7 +166,7 @@ tocht naar de kringloopwinkel,
 \0 (7촀\0Je bent een
 lastige klant. 
 \0Ik vind wel iemand
-anders die 2촀hemhetze wil."
+anders die 2촀hemhetze wil."
 "400","(촀\0Wacht, je wilt er wel over
 onderhandelen?!
 \0 ()촀\0Tja, ehn\0\0 Hmm.
@@ -195,8 +195,8 @@ geen nee tegen zeggen!"
 (\0촁\0Ik ben bijna overtuigd!"
 "405","(9촀\0Oein\0\0 
 \0(촀\0Oké, laatste bod. 
-\0Normaal ga
-ik niet zo laag, maar ik heb het geld
+\0Normaal ga ik
+niet zo laag, maar ik heb de klingels
 nodig. Wat zeg je van Z\0?"
 "405_a","(%촀\0Verkocht!"
 "405_b","('촀\0Nee, laat maar.

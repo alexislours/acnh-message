@@ -2,7 +2,7 @@
 "001","(촂\0Oye, n\0n\0\0
 \0 sabes que hay un montón de sitios que ver en el mundo, ¿verdad?\0\0촅촇(촂\0¡Y todos tienen unos platos típicos
 con una pinta estupenda!(촃\0(촃"
-"002","(촃\0¡¿De verdad?!
+"002","¡¿De verdad?!
 \0 (1촃\0Pues estaría genial
 probar toda esa comidan\0\0\0\0(\0촃\0촆초(&촃\0¿A ti dónde te gustaría ir a comer,
 n\0?"
@@ -26,13 +26,14 @@ probar toda esa comidan\0\0\0\0(\0촃\0촆초(&촃\0¿A ti dónde
 \0
 ¡Yo pensaba más bien que te
 arrancarían la pata de un mordisco!"
-"006","(촂\0¡Que no, hombre!\0\0Ya verás,
+"006","(촂\0¡Que no, hombre!(&촃\0\0\0(
+촃\0Ya verás,
 \0 (""촀\0¡iremos a los trópicos,
 \0
 comeremos fruta,
 \0 acariciaremos
-tiburones
-\0 (촀\0y lo pasaremos pirata!"
+tiburones('촁\0
+\0(촃\0 y lo (촀\0pasaremos pirata!"
 "007","(+촃\0¡Brrr!
 \0 Bueno, la verdad es que (촀\0no hay
 nada como una sopa calentita
@@ -58,13 +59,15 @@ de n촁 con un aliño de n촀!"
 ingrediente principal y yo el aliño?"
 "011","(
 촃\0(촂\0A un sitio lejano podríamos ir
-en barcon\0\0\0\0촇촅(촃\0¡Pero, si vamos demasiado lejos,
-podríamos acabar volviendo aquí!"
+en barcon\0\0\0\0촇촅( 촀\0Aunque,
+\0 si vamos demasiado lejos,
+\0
+(촃\0¡acabaríamos volviendo aquí!"
 "012","(촂\0¡O imagínate que el mundo es plano,
 \0
 vamos demasiado lejos y (촂\0acabamos
 cayéndonos por uno de los bordes!(촃"
-"013","(촂\0¡¿Pero qué dices?!
+"013","¡¿Pero qué dices?!(촂\0
 \0 ()촃\0El mundo es
 tan redondo como la cabeza de
 n\0n"
@@ -108,8 +111,7 @@ de que es bastante difícil!"
 "102","(촃\0Prepárate porque ha llegado
 el momento de jugar an\0\0
 \0\0\0촆(촃\0
-\0¡Adivina el refrán con
-n촁!\0\0(!촃\0
+\0¡Adivina el refrán con n촁!\0\0(!촃\0
 \0\0¿A buen hambren\0\0
 \0?\0d"
 "102_a","No hay pan duro"
@@ -137,7 +139,7 @@ el momento de jugar an\0\0
 촆(촃\0Eres la repera,
 \0 je, je, jen"
 "106","(촂\0¡No has fallado ni uno, n\0!
-\0 (%촀\0Me dejas patidifuso."
+\0 (%촀\0Me dejas patidifuso."
 "107","(촀\0¡Qué maravilla!
 \0 Eres comon\0\0
 \0

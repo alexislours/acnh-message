@@ -7,7 +7,7 @@
 "001_b","(\0촀\0Quoi ?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Super ! J'avais peur que tu passes à
 côté !(%촀\0 Nos n촁 ont vraiment (촀\0un
 goût inoubliable !"
@@ -57,10 +57,12 @@ différencen\0\0
 ( 촀\0Bref. Le musée n'est encore qu'une
 tente, pour le moment. (\0촀\0Et \0Thibou
 \0￿(촀\0doit être dedans, si tu veux le voir."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Le \0musée \0￿de l'île vaut une petite
 visite, ne serait-ce que pour ses
 locaux.
@@ -74,7 +76,7 @@ pas déjà fait, n\0 !"
 pendant des heures !
 \0 (촀\0Essaie,
 \0 ($촀\0n\0, tu verras !"
-"029","()촀\0Tu as jeté un œil 20(촀au petità la petite\0 
+"029","()촀\0Tu as jeté un œil 20)촀au petità la petite\0 
 , (촀\0au \0musée 2
 de d'⁠\0￿
 
@@ -90,41 +92,43 @@ requinque pour la journée !⁠"
  a un espace entier consacré aux fossiles,(""촀\0 et ils ont mis le paquet !\0\0Celui que je préfère, c'est 2\0
  ! (촀\0Faut que t'ailles le voir, sérieux !"
 "101","<\0fi"
-"102","(""촀\02\0n\0 !
-\0
-Tu es venu2\0e sur cette île 
-(6촀\0parce que je te manquais ?"
-"102_a","J'avoue..."
-"102_b","Euh, nan..."
-"103","(촀\0Oooh, merci ! 
+"201","<\0ÊÍ"
+"202","(""촀\02\0n\0 !
+\0 Tu es venu2\0e sur cette île (6촀\0parce que je te manquais ?"
+"202_a","(\0촀\0J'avoue..."
+"202_b","Euh, nan..."
+"203","(촀\0Oooh, merci ! 
 \0(7촀\0Je me disais justement
 que ta petite tête me manquait
 aussi, n\0 !
-('촀\0En vrai, j'étais effondrée quand tu
-es parti2\0e, (촀\0mais je savais que tu
-reviendrais de temps en temps !
-((촀\0Après tout, on est meilleur2\0es potes
-ou on l'est pas, hein ? C'est cool de
-te revoir."
-"104","(촀\0HA !
+(8촀\0Je m'amuse bien sur cette île, tu
+sais.
+\0 Mais quand je dansen\0\0\0\0(촀\0Bah, c'est quand même vachement
+plus sympa quand tu es là, à côté, en
+train de taper dans tes mains !\0\0(4촀\0Du coup,
+\0 la prochaine fois que tu te
+sens envahi2\0e par une irrépressible
+envie de me voir,
+\0 fais le détour, OK ?"
+"204","(촀\0HA !
 \0 Bien tenté,
 \0 mais ça prend pas !
 (6촀\0Je te manquais trop,
 \0 je le lis dans
-tes yeux !\0\0(촀\0J'étais si mal quand tu es parti2\0e que
+tes yeux !\0\0(촀\0J'étais si mal après mon départ que
 je me suis mise à (촀\0촀 pour noyer mon chagrin !\0\0(\0촀\0Et mine de rien, 
 \0(2촀\0c'est devenu mon
 hobby principal !"
-"105","Kikou, n\0 ! Tu vis
-bien à n	\0, je me
-trompe ? C'est comment, là-bas ?"
-"105_a","On s'amuse bien !"
-"105_b","C'est magnifique."
-"106","Vous vous amusez ? Oh, mais
+"205","(;촀\0Dis,
+\0 ça se passe comment sur n	\0 depuis que je suis partie ?"
+"205_a","On s'amuse bien !"
+"205_b","C'est tranquillou."
+"206","Vous vous amusez ? Oh, mais
 j'adore m'amuser !\0\0(촀\0Quand je serai une star du showbiz,
 je partirai en tournée et je passerai
-(""촀\0par n	\0, c'est juré !\0\0(%촀\0Comme ça, je découvrirai ton île et je
-te ferai un petit coucou ! (촀\0
+(""촀\0par n	\0 !\0\0(%촀\0Comme ça, je pourrai voir ce que
+devient l'île et te faire un petit
+coucou ! (촀\0
 \0Carrément
 
 \0 !
@@ -132,9 +136,14 @@ Ze.
 \0 Meilleure.
 \0 Idée.
 \0 Ever !"
-"107","( 촀\0Ooh, j'aime bien les endroits magnifiques !(촀\0 Et plus c'est beau, plus on s'y amuse !
-(\0촀\0Bon, pis si tu y vis,
-\0($촀\0 ça ajoute un côté
-glamour à ton île. Je suis trop jalouse
-(촀\02
-de d'⁠n	\0 !"
+"207","Tranquillou, hein ?
+\0 (3촀\0Ça, ça veut dire
+que vous diriez pas non à une petite
+dose d'ambiance, pas vrai ?
+(촀\0T'inquiète, je vais faire un concert
+« Back in n	\0 »,(촀\0 ça va dépoter, on va mettre le feu à l'île !\0\0(촀\0Je suis trop impatiente ! 
+\0(촀\0Je vais
+appeler mon manager pour fixer la
+daten\0\0
+\0 (8촀\0
+\0\0KIl faut juste que je trouve un manager.\0d"

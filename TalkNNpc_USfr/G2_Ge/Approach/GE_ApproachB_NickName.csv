@@ -4,17 +4,12 @@
 à te trouver un surnom!  "
 "001_a","(\0촀\0Vas-y, dis-moi!"
 "001_b","(\0촀\0J'en veux pas."
-"002","(촀\0Tu sais, n\0, ça fait
-un moment que je cherche un
-surnom pour toi
+"002","(촀\0Tu sais, n\0, ça fait un moment que je cherche un surnom pour toi
 \0.
 \0.
-\0.
-(%촀\02\0n\0, c'est bien aussi,
-pas de problème, 
+\0.\0\0(%촀\02\0n\0, c'est bien aussi, pas de problème, 
 \0hein... (
-촀\0Mais à mon
-avis, 
+촀\0Mais à mon avis, 
 \0on peut trouver mieux."
 "002_a","(\0촀\0Je t'écoute."
 "002_b","Ça m'intéresse pas."
@@ -40,10 +35,7 @@ quel surnom je pourrais te donner,
 me dire un trucn\0\0 Je te donnerais
 bien un petit surnom!
 (촀\0Et à vrai dire,
-\0 « n\0 »
-c'est pas mal, mais tu mérites
-mieux!
-Et je crois que j'ai ce qu'il fautn"
+\0 « n\0 » c'est pas mal, mais tu mérites mieux!\0\0Et je crois que j'ai ce qu'il fautn"
 "005_a","(\0촀\0Dis-moi!"
 "005_b","Non, merci."
 "006","(촀\0Hé, t'imagines pas 
@@ -59,10 +51,10 @@ t'appelle « s\0촀 »!
 t'appelle comme ça?"
 "006_a","('촀\0Mais pas du tout!"
 "006_b","(%촀\0En fait, oui."
-"100","(""촀\0Je pensais àn\0\0 « n\0 ».
+"100","(""촀\0Je pensais àn\0\0 « ⁠n\0 ⁠».
 \0 Qu'est-ce que t'en dis?"
 "100_a","C'est super mignon!"
-"100_b","C'est pas terrible."
+"100_b","(\0촀\0C'est pas terrible."
 "101","(촀\0Oh
 \0.
 \0.
@@ -98,13 +90,13 @@ chercher autre chose."
 Ça n'a rien d'original... C'est
 vraiment ce que tu veux?"
 "105_a","Oui!"
-"105_b","À la réflexion..."
+"105_b","(\0촀\0À la réflexion..."
 "106","(촀\0Tu veux qu'on t'appelle comme ça?
 
 \0(&촀\0Moi, ça me pose pas de problème,
 hein, n\0!"
 "106_a","On fait comme ça."
-"106_b","Attends!"
+"106_b","(\0촀\0Attends!"
 "107","( 촀\0Bon, 
 \0quel 
 \0surnom 

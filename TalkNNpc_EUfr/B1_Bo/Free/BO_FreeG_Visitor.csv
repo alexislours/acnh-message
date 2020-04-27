@@ -7,11 +7,9 @@
 "001_b","Pas encore."
 "002","<
 ￿"
-"003","<￿￿"
-"004","(촀\0Tu n'as pas perdu de temps,
-n\0 ! 
-\0((촀\0Elles sont
-délicieuses, pas vrai ?\0\0(촀\0Moi aussi, je les adore.
+"003","<"
+"004","(촀\0Tu n'as pas perdu de temps, n\0 ! 
+\0((촀\0Elles sont délicieuses, pas vrai ?\0\0(촀\0Moi aussi, je les adore.
 \0 Manges-en
 autant que tu veux, n\0 !"
 "005","( 촀\0Hein ?
@@ -39,12 +37,8 @@ qualité,
 \0(%촀\0 tu peux acheter les yeux
 fermés, n\0 !"
 "015","(촀\0La boutique 2
-de d'⁠n\0
-est gigantesque ! On y trouve tout
-ce qu'on veut sans souci.\0\0(""촀\0Tu devrais y faire un tour,
-n\0 !
-\0(5촀\0 Tu y trouveras
-forcément ton bonheur !"
+de d'⁠n\0 est gigantesque ! On y trouve tout ce qu'on veut sans souci.\0\0(""촀\0Tu devrais y faire un tour, n\0 !
+\0(5촀\0 Tu y trouveras forcément ton bonheur !"
 "016","(촀\0J'ai un ami ici, à n\0
 qui travaille très dur pour ouvrir un
 \0musée\0￿.\0\0()촀\0Mais d'abord,
@@ -55,10 +49,12 @@ des insectes, ou des œuvres d'artn\0\0\0\0(""촀\0Si tu pouvais faire don 
 quelque chose à exposer,
 \0 je suis sûr
 qu'il te serait très reconnaissant."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0On a un super \0musée\0￿ à
 n\0 !\0\0(촀\0Tu devrais aller le visiter pendant
 que tu es là.
@@ -66,13 +62,13 @@ que tu es là.
 ton temps, il est ouvert 24 h sur 24.\0\0(5촀\0La culture n'a pas d'heures
 d'ouverture !"
 "028","(촀\0À l'aquarium du \0musée\0￿, il y a 2\0
-\0 !\0\0(%촀\0Je pourrais l2(촀ea\0 regarder nager
-pendant des heures, 2(촀ilelle\0 est si
-gracieu2(촀xse\0 !
-\0 Tu devrais aller l2(촀ea\0 voir !"
+\0 !\0\0(%촀\0Je pourrais l2)촀ea\0 regarder nager
+pendant des heures, 2)촀ilelle\0 est si
+gracieu2)촀xse\0 !
+\0 Tu devrais aller l2)촀ea\0 voir !"
 "029","(촀\0Au \0musée\0￿, il y a 2\0
- !\0\0(%촀\0Je discutais avec 2(촀luielle\0, hier soir, et
-2(촀ilelle\0 a dit : « n\0 ! »
+ !\0\0(%촀\0Je discutais avec 2)촀luielle\0, hier soir, et
+2)촀ilelle\0 a dit : « n\0 ! »
 \0 (촀\0Comme moi ! 2\0n\0 !"
 "030","(촀\0Au \0musée\0￿, il y a un fossile
 2
@@ -81,52 +77,39 @@ gracieu2(촀xse\0 !
 heures,
 \0 ça me donne l'impression de
 voyager dans le tempsn"
-"101","(촀\0Dis, n\0,
-\0($촀\0 qu'est-ce
-que tu fais pour t'amuser sur ta
-nouvelle île ?"
-"101_a","Je pêche."
-"101_b","J'attrape des insectes."
-"101_c","Je joue à cache-cache."
-"101_d","Je cherche des trésors."
-"101_e","Je papote."
-"102","(촀\0Oh,
+"201","(촀\0Dis, n\0,
+\0($촀\0 qu'est-ce que tu fais pour t'amuser sur n	\0 ?"
+"201_a","Je pêche... des poissons."
+"201_b","J'attrape des insectes."
+"201_c","Je ramasse des coquillages."
+"201_d","Je chasse des trésors."
+"201_e","Je papote avec mes potes."
+"202","(촀\0Oh,
 \0 tu pêches !
 \0((촀\0 Moi aussi, je
-continue à pêcher !\0\0(1촀\0C'est bon, le poissonn\0\0
+continue à pêcher !\0\0(1촀\0Hé hé, des petits poissonsn\0\0
 \0 (
-촀\0Je me
-demande si les poissons de ton île
-ont le même goût que ceux d'icin\0\0\0\0(%촀\0Si n	\0 est un bon coin
-pour pêcher,
-\0 peut-être que j'y
-déménagerai un journ"
-"103","(촀\0Des insectes, hein ? 
+촀\0Tu
+savais que les poissons d'ici sentent
+comme ceux 2
+de d'n	\0 ?\0\0(촀\0Ça me rappelle plein de bons
+souvenirs, tout ça, n\0 !"
+"203","(촀\0Des insectes, hein ? 
 \0((\0촀\0Moi aussi je
 joue à chat avec les insectes,
 \0(촀\0 mais
 je perds toujours,
-\0 ha ha ha !\0\0(9촀\0C'est qu'ils sont très agiles !
-\0 (\0촀\0Est-ce
-que les insectes de ton île
-\0 (&촀\0sont aussi
-forts à chat que ceux d'ici ?\0\0(%촀\0Si je veux de nouveaux adversaires,
-\0
-peut-être que je songerai à
-déménager à n	\0n"
-"104","(촀\0Oh !
-\0 Cache-cache !
-\0( Ça a l'air
-amusant !\0\0(&촀\0Est-ce qu'il y a beaucoup de bonnes
-cachettes sur ton île ?\0\0(1촀\0Une fois, je suis resté coincé dans un
-arbre en jouant à cache-cache.\0\0()촀\0Je voulais pas perdre alors j'ai pas
-appelé à l'aide.
-\0(촀\0 J'avais froid et faim,
-et j'ai quand même perdun\0\0\0\0(%촀\0Peut-être que je déménagerai à
-n	\0
-\0(""촀\0 et qu'on pourra
-jouer ensemble, n\0 !"
-"105","(&촀\0Tu cherches des trésors ?
+\0 ha ha ha !\0\0(""촀\0Passe le bonjour aux insectes
+2
+de d'n	\0 de ma part, n\0 !"
+"204","(%촀\0Oh, 
+\0des coquillages ? 
+\0(Ça a l'air
+amusant, n\0 !\0\0(\0촀\0Et puis tu peux en ramasser tant que
+tu veux,
+\0($촀\0 il en arrive tous les jours de
+nouveaux, pas vrai ?\0\0(촀\0Ils doivent vraiment aimer n	\0, les coquillages, n\0 !"
+"205","(&촀\0Tu cherches des trésors ?
 \0( Ouah, moi
 aussi je veux trouver des trésors !\0\0(\0촀\0Ça fait un moment que j'ai pas
 creusé de trous à la recherche de
@@ -134,11 +117,8 @@ trésorsn\0\0 ou juste comme çan\0\0\0\0(촀\0Est-ce que tu creuses souv
 trous ?
 \0(촀\0 Tu devrais, ça détend,
 \0 et on
-se sent plus proche de la nature.\0\0(%촀\0S'il y a des trésors à déterrer à
-n	\0, 
-\0(""촀\0peut-être que
-j'y déménagerai un journ"
-"106","(%촀\0Ah oui,
+se sent plus proche de la nature."
+"206","(%촀\0Ah oui,
 \0 papoter, c'est sympa !
 \0(
 (\0촀\0Hé hé,
@@ -147,7 +127,4 @@ j'y déménagerai un journ"
 ce qu'il faut sur cette île !\0\0(\0촀\0Rien 2
 que qu'⁠n촀 et
 n촁, c'est des vrais
-moulins à paroles, ces deux-làn\0\0\0\0(%촀\0Mais peut-être qu'un jour, je
-déménagerai à n	\0,
-\0
-(""촀\0comme ça, on pourra papoter !"
+moulins à paroles, ces deux-làn\0\0\0\0(%촀\0On s'ennuie jamais, ici, n\0."

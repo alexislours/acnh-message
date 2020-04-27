@@ -1,9 +1,8 @@
 ﻿"label","text"
-"000","(촀\0
-\0Ah, 
+"000","(""촀\0Ah, 
 \0n\0!
-\0 (""촀\0Hallo,
-\0 hallo!(촀"
+\0 Hallo,
+\0 hallo!"
 "000_01","(촀\0Hallo, 
 \0hallo!
 \0
@@ -14,9 +13,10 @@ Du bist hier bei der \0Bauberatung\0￿.
 \0Ah, 
 \0n\0!
 \0
-(""촀\0Willkommen zurück!(촀"
-"000_03","(촀\0
-\0Ah, anderes Thema..."
+(""촀\0Willkommen zurück!"
+"000_03","( 촀\0
+\0Ah, 
+\0anderes Theman"
 "004_01","(촀\0Für \05000 Sternis\0￿ können wir das
 Äußere deines Hauses anpassen."
 "004_02","(촀\0Wir können das Äußere deines
@@ -27,12 +27,14 @@ ist morgen früh alles fertig.
 interessiert?"
 "004_03_a","(%촀\0Ja, gern!"
 "004_03_b","('촀\0Ein andermal..."
-"005","(촀\0Äh...
+"005","(7촀\0Alson\0\0
 \0 Laut Firmenpolitik muss die
-Bezahlung im Voraus erfolgen.\0\0(\0촀\0Es sieht aber so aus, als hättest du
+Bezahlung im Voraus erfolgen.\0\0(9촀\0Es sieht aber so aus, 
+\0als hättest du
 nicht genug Sternis.
-\0(촀\0 Komm bitte
-wieder, wenn du genug Geld hast."
+\0 Komm bitte
+wieder,
+\0 (촀\0wenn du genug Geld hast."
 "006","(촀\0Ausgezeichnet!
 \0 Dann zeige ich dir
 unseren Katalog, 
@@ -44,7 +46,7 @@ aus, was dir gefällt."
 \0du weißt ja, wo du mich findest,
 \0
 wenn du dein Haus umbauen willst."
-"008_01","(%촀\0Hmmmn\0\0
+"008_01","(9촀\0Hmmmn\0\0
 \0(촀\0 Interessante Wahl!"
 "008_02","(촀\0Das macht dann bitte \05000 Sternis\0￿!"
 "009_01","(촀\0Besten Dank!"
@@ -92,8 +94,7 @@ möchtest, 
 findest."
 "015","(촀\0Wunderbar!
 \0( Ähn\0\0 n\0,
-\0 (촀\0die Umzugsgebühr muss ich leider
-sofort kassieren.\0\0(\0촀\0Und im Moment scheinst du sie nicht
+\0 (촀\0die Umzugsgebühr muss ich leider sofort kassieren.\0\0(\0촀\0Und im Moment scheinst du sie nicht
 zahlen zu können.
 \0(촀\0 Aber dann warten
 wir einfach, 
@@ -138,9 +139,9 @@ hm?
 \0( ()촀\0Du musst markieren, 
 \0wo du
 hinziehen möchtest.\0\0(촀\0Also finde ein Fleckchen und sperre
-es dann als Markierung mit 2.촀deinemdeinerdeinem
+es dann als Markierung mit 2.촀deinemdeinerdeinem
 }\0\0 ab!"
-"023","(촀\0Du hast ein Grundstück mit 2.촀deinemdeinerdeinem
+"023","(촀\0Du hast ein Grundstück mit 2.촀deinemdeinerdeinem
 }\0\0 markiert?
 \0(\0촀\0\0\0(""촀\0Dann ist für morgen alles bereit!"
 "031","(촀\0Ah!
@@ -279,41 +280,45 @@ veranlassen.
 Farben für dein Dach aussuchen!"
 "203","Bitte wähle eine Farbe für dein Dach,
 hm?"
-"203_a","Rot"
-"203_b","Pink"
-"203_c","Gelb"
-"203_d","Schwarz"
-"203_e","Andere Farbe"
-"204","Es gibt noch vier weitere Farben!
+"203_a","Rot."
+"203_b","Rosa."
+"203_c","Gelb."
+"203_d","Schwarz."
+"203_e","Andere Farbe."
+"204","Es gibt noch vier weitere Farben!
+\0(%촀\0
 Wähle eine davon oder von den
-vorherigen Farben, ja?"
-"204_a","Blau"
-"204_b","Türkis"
-"204_c","Grün"
-"204_d","Lila"
-"204_e","Andere Farbe"
-"205","Interesse an einer der ersten vier
-Farben? Lass dir Zeit, es ist eine
+vorherigen Farben,
+\0 ja?"
+"204_a","Blau."
+"204_b","Hellblau."
+"204_c","Grün."
+"204_d","Lila."
+"204_e","Andere Farbe."
+"205","(%촀\0Interesse an einer der ersten vier
+Farben? 
+\0((촀\0Lass dir Zeit, 
+\0es ist eine
 große Entscheidung!"
-"205_a","Rot"
-"205_b","Orange"
-"205_c","Gelb"
-"205_d","Schwarz"
-"205_e","Andere Farbe"
+"205_a","Rot."
+"205_b","Rosa."
+"205_c","Gelb."
+"205_d","Schwarz."
+"205_e","Andere Farbe."
 "206","Natürlich, natürlich. Hier sind die
 anderen vier Farben. (촀\0Überleg dir
 deine Wahl ganz in Ruhe!"
-"206_a","Blau"
-"206_b","Hellblau"
-"206_c","Grün"
-"206_d","Lila"
-"206_e","Andere Farbe"
+"206_a","Blau."
+"206_b","Hellblau."
+"206_c","Grün."
+"206_d","Lila."
+"206_e","Andere Farbe."
 "208_01","(촀\0Gut, dann wird dein Dach \0rot\0￿!"
-"208_02","(촀\0Gut, dann wird dein Dach \0pink\0￿!"
+"208_02","(촀\0Gut, dann wird dein Dach \0rosa\0￿!"
 "208_03","(촀\0Gut, dann wird dein Dach \0gelb\0￿!"
 "208_04","(촀\0Gut, dann wird dein Dach \0schwarz\0￿!"
 "208_05","(촀\0Gut, dann wird dein Dach \0blau\0￿!"
-"208_06","(촀\0Gut, dann wird dein Dach \0türkis\0￿!"
+"208_06","(촀\0Gut, dann wird dein Dach \0hellblau\0￿!"
 "208_07","(촀\0Gut, dann wird dein Dach \0grün\0￿!"
 "208_08","(촀\0Gut, dann wird dein Dach \0lila\0￿!"
 "209","(촀\0Wird erledigt!"
@@ -436,10 +441,12 @@ bist sicher noch aufgeregter als ich!"
 "261","(촀\0Die Bauarbeiten gehen voran, ja, ja.
 \0
 (""촀\0Deine Vorfreude ist ansteckend!"
-"261_01","Ja, die Arbeiten an deinem Haus
+"261_01","(%촀\0Ja, 
+\0die Arbeiten an deinem Haus
 müssten morgen fertig sein.
-\0 Ich freu
-mich für dich, n\0!"
+\0 (""촀\0Ich freu
+mich für dich, 
+\0n\0!"
 "262","(촀\0Hm...
 \0 Solange du noch einen Kredit
 offen hast, kann ich leider keine

@@ -1,7 +1,8 @@
 ﻿"label","text"
 "001","Aquí no hay espacio suficiente."
-"002","Aquí no hay espacio para colgar
-esto."
+"002","No puedo colgar esto aquí.
+\0
+Necesito una pared despejada."
 "003","En esta habitación no hay espacio
 para poner una alfombra."
 "003_01","Aquí no hay espacio para poner
@@ -15,7 +16,7 @@ hay que dejarla despejada."
 "008","Creo que esto no se puede
 poner en el suelo."
 "009","Esto no se cuelga en la pared."
-"010","Aquí no hay lugar para plantar nada."
+"010","No es posible plantar esto aquí."
 "011","No se pueden colgar cosas
 en una tienda de campaña."
 "012","¡Este no es momento de ponerme
@@ -35,9 +36,9 @@ cuando no tenga visita."
 "021","Lo instalaré cuando no tenga visita."
 "022","Este tipo de decoraciones se tienen
 que colgar en la puerta de la casa."
-"023","Mejor no me pongo a colocar vallas
-ahora mismo, podría llegar alguna
-visita en cualquier momento."
+"023","Será mejor que no me ponga a
+colocar vallas mientras tenga
+visita."
 "024","Mejor hago esto cuando no
 tenga visita."
 "025","¡Esta puerta ya está decorada!"
@@ -48,9 +49,17 @@ Bloquearía la entrada del aeródromo."
 "028","No puedo poner decoraciones de
 puertas en la entrada de la tienda
 de campaña."
+"029","Aunque el hoyo esté hecho,
+no puedo plantar un árbol sin
+una pala."
+"030","No puedo plantar nada
+si hay jugadores cerca."
 "051","No hay espacio suficiente
 para poner esto."
 "052","Aquí no cabe nada más."
+"061","Puedo vestir a alguien con un diseño
+personalizado en Fotopía si oprimo \0
+\0￿y luego ."
 "101","No puedo cambiar el desnivel en
 el terreno si tiene cosas encima."
 "102","No puedo modificar el terreno aquí
@@ -107,8 +116,8 @@ Ya no cabe nada más."
 "404","No puedo usar esto ahora."
 "405","No tengo nada puesto que
 pueda quitarme."
-"406","Necesito más espacio para usar
-el cebo."
+"406","Tengo que usar el cebo
+en un cuerpo de agua."
 "407","No puedo cambiarme de ropa
 mientras lleve puesto un atuendo
 de la varita."
@@ -120,9 +129,9 @@ la billetera."
 ¿Qué haré para memorizarlo?"
 "411","No es momento
 de usar el cronómetro."
-"412","Todo lo que cubra con papel de
-pared se guardará. Necesito
-liberar espacio en el depósito."
+"412","Haz espacio en tu depósito para
+enviar los objetos que están en el
+lugar que ocupará la ventana."
 "413","Solo puedo usar esta herramienta
 en las islas de mis mejores amigos."
 "414","¡Ya no puedo comer nada más!"
@@ -171,3 +180,12 @@ porque tengo los bolsillos llenos."
 "513","¡Tengo los bolsillos llenos!"
 "514","Parece que solo los residentes de
 n\0 pueden usar el depósito de reciclaje."
+"600","¡No puedo ponerme a descargar
+diseños mientras tengo visita!"
+"601","No puedo descargar diseños con
+las puertas del \0aeródromo \0￿abiertas."
+"602","No puedo descargar diseños
+mientras estoy de viaje."
+"603","No puedo descargar diseños hasta
+que no desactive la comunicación
+inalámbrica en el aeródromo."

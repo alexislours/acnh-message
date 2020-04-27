@@ -8,26 +8,20 @@
 \0 (촀\0Oh, ça
 veut dire que tu es en mesure
 d'exaucer mes rêves, n\0!"
-"002","(촀\0Grr! Je cherche partout 2\0
-}\0\0n\0\0
-(촀\0Et pas moyen d'en trouver 2촀unune\0!
-(
-촀\0Et puis je me suis dit que
-2*mon chumma chumette n\0
-pourrait avoir ce que je cherche.
-(촀\0Doncn\0\0 t'accepterais de me rendre
+"002","(촀\0Grr! Je cherche partout 2\0}\0\0n\0\0 (촀\0Et pas moyen d'en trouver 2촀unune\0!\0\0(
+촀\0Et puis je me suis dit que 2*mon chumma chumette n\0 pourrait avoir ce que je cherche.\0\0(촀\0Doncn\0\0 t'accepterais de me rendre
 service?
 \0 (촀\0Quoin\0\0 oui, pour de vrai?!
 \0
 (촀\0T'es vraiment formidable!"
-"003","(촀\0Je suis à la recherche d'2촀unune\0
+"003","(촀\0Je suis à la recherche d'2촀unune\0
 }\0\0n\0\0\0\0(촀\0Mais j'ai déjà cherché partout, j'en
 ai des crampes dans les mollets, etn\0\0
 Attends,
-\0 (촀\0t'en as justement 2촀unune\0?!
-(촀\0J'oserais pas te demander de me 2촀lela\0
+\0 (촀\0t'en as justement 2촀unune\0?!
+(촀\0J'oserais pas te demander de me 2촀lela\0
 donner, mais t'accepterais peut-être
-de me 2촀lela\0 vendre? 2\0n\0?"
+de me 2촀lela\0 vendre? 2\0n\0?"
 "003_a","(\0촀\0Combien?"
 "003_b","Non, je ne peux pas."
 "004","(촀\0Je cherche d'un bout à l'autre
@@ -42,7 +36,7 @@ ce serait pasn\0\0
 \0 T'as
 2\0}\0\0!
 \0
-(&촀\0Tu me 2촀lela\0 vendrais? 2\0n\0?"
+(&촀\0Tu me 2촀lela\0 vendrais? 2\0n\0?"
 "004_a","(\0촀\0Combien?"
 "004_b","Non, je ne peux pas."
 "005","(촀\0Pffn\0\0 c'est bien dommage.
@@ -59,7 +53,7 @@ but!
 \0 Tant pis.
 \0
 (""촀\0N'en parlons plus. 2\0n\0."
-"100","(4촀\0Dis-moi, n\0n\0\0 (&촀\0Tu serais d'accord pour me 2촀lela\0 vendre?"
+"100","(4촀\0Dis-moi, n\0n\0\0 (&촀\0Tu serais d'accord pour me 2촀lela\0 vendre?"
 "100_a","(\0촀\0Combien?"
 "100_b","Non, pas question."
 "101","(
@@ -112,7 +106,7 @@ fait de siffler un hors-jeu,
 \0
 n\0. (촀\02\0n\0!"
 "109","(촀\0Quoi? C'est vrai? Tu acceptes de
-me 2촀lela\0 vendre, finalement?"
+me 2촀lela\0 vendre, finalement?"
 "110","(
 촀\0Bon, alorsn\0\0
 \0 (&촀\0Que dirais-tu si je t'en
@@ -147,7 +141,7 @@ signe si tu changes d'avis."
 \0
 Ça y est,
 \0 grâce à toi, j'en ai enfin
-2촀unune\0.
+2촀unune\0.
 \0 (촀\0Merci! 2\0n\0!"
 "118","(촀\0Hmm...
 \0 désolé, n\0.
@@ -159,7 +153,7 @@ passe en force, n\0.
 \0
 et quitter le terrain, n\0."
 "200","(4촀\0Alors, dis-moin\0\0 (&촀\0T'accepterais de
-me 2촀lela\0 vendre?"
+me 2촀lela\0 vendre?"
 "200_a","(\0촀\0Combien?"
 "200_b","Non, désolé2\0e."
 "201","(
@@ -246,11 +240,10 @@ fait partie de l'entraînement,
 "403","(촀\0Super!
 \0 J'ai enfin mis la patte sur
 2\0}\0\0!\0\0(촀\0Ah, n\0,
-\0 je te dois
-une fière chandelle! 2\0n\0!"
+\0 je te dois une fière chandelle! 2\0n\0!"
 "404","(촀\0J'ai juste Z à te
 proposern\0\0
-\0 (4촀\0Est-ce que tu me 2촀lela\0
+\0 (4촀\0Est-ce que tu me 2촀lela\0
 vendrais à ce prix-là?"
 "404_a","Bien sûr!"
 "404_b","Non, pas question."

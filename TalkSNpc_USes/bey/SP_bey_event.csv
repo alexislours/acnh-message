@@ -17,7 +17,7 @@ temporadan\0\0
 pronto para tanto entusiasmon\0\0
 \0
 (촀\0¡Yo llevo ya 2 horas de pie!"
-"001","(""촀\0¿Cómo estamos; todo bien?
+"001","(""촀\0¿Cómo estamos? ¿Todo bien?
 \0
 ¿La emoción del torneo te tiene
 más tens2oa que un sedal?
@@ -314,13 +314,11 @@ puntopuntos\0￿!
 \0 (&촀\0¿Quieres que los canjeemos por pezcancía fresca?"
 "046_a","¡Dame pezcancía fresca!"
 "046_b","('촀\0Quizás otro día"
-"047","(촀\0¿Puedo convencerte de que te
-apuntes al \0Torneo de Pesca \0￿o no?
-\0
-¿O quieres preguntarme otra cosa?"
-"047_a","¡Quiero participar!"
+"047","(촀\0¿Quieres volver a apuntarte
+al \0Torneo de Pesca\0￿?"
+"047_a","¡Sí, quiero participar!"
 "047_b","¿Cuáles son las reglas?"
-"047_c","Cuéntame algo más"
+"047_c","Otra cosa..."
 "047_d","('촀\0Nada, ya me iba"
 "048","(촀\0¿Solo querías saludarme?
 \0 (촀\0¡Perfecto!
@@ -328,15 +326,15 @@ apuntes al \0Torneo de Pesca \0￿o no?
 Aquí me tienes hasta 2Ȅlaslaslas\0 Z%촂:00\0￿,
 \0
 por lo que sea que necesites."
-"049","(&촀\0¿Algo más?
+"049","(&촀\0¿Otra cosa?
 \0 A vern\0\0
-\0 (촀\0¡Ah, claro!\0\0()촀\0Como incentivo a la participación en
+\0 (촀\0¡Ah, ya sé!\0\0()촀\0Como incentivo a la participación en
 el torneo,
 \0 les compro las capturas a
 un precio único."
 "049_a","¡Pues quiero vender!"
 "049_b","¡Quiero pezcancía!"
-"049_c","Cuéntame algo más"
+"049_c","Acerca del torneo..."
 "049_d","('촀\0Nada, ya me iba"
 "050","(촀\0¡Me encanta oírte decir eso!
 \0
@@ -348,7 +346,7 @@ entero?
 "051_a","Trato hecho"
 "051_b","('촀\0Paso"
 "052","(촀\0¡2\02\0}\0!
-\0 Qué magnífico ejemplar.\0\0(촀\0Te l2đ촀oa\0 compro por Z."
+\0 Qué magnífico ejemplar.\0\0(촀\0Te l2Ē촀oa\0 compro por Z."
 "052_a","Trato hecho"
 "052_b","('촀\0Paso"
 "053","(촀\0¡Genial!
@@ -376,12 +374,19 @@ participar.
 \0 (촀\0Lo siento, ñuf."
 "061","( 촀\0Vayan\0\0
 \0 (촀\0No andas muy caudalos2oa
-de bayas, ¿verdad?\0\0La cuota de inscripción en el torneo
-son Z a partir de la
-segunda vezn"
-"062","(""촀\0¡Claro que sí!
-\0 Me cobro las Z de la cuota de inscripción.
-\0 ¡Ñuf!"
+de bayas, ¿verdad?\0\0()촀\0Esas Z de la cuota de
+inscripción nos permiten mantener
+el torneo a flote, (%촀\0¿sabes?"
+"062","()촀\0A partir del segundo chapuzón,
+\0
+la inscripción cuesta Z, ñuf.
+\0 (촀\0¿Te parece bien?"
+"062_01","(""촀\0¡Genial!
+\0 Sabía que no me fallarías.
+\0
+(촀\0Son Z."
+"062_a","(%촀\0¡Me parece muy bien!"
+"062_b","('촀\0No, gracias..."
 "063","()촀\0Bien, empezamos.
 \0 Voy a poner
 el contador en \0Z\0 minutos\0￿ para
@@ -411,8 +416,7 @@ competitividad, por lo que veo!"
 hasta que estén todas vacías,
 \0
 así que nos quedamos estancados.
-(%촀\0Si l2
-촀oa\0 ves,
+(%촀\0Si l2촀oa\0 ves,
 \0 dile que la vacíe.
 \0 ¡Yo le
 compro los peces si quiere!"
@@ -708,14 +712,11 @@ conseguido, ¿no?"
 pecespez
 peces
 \0￿en la \0hielera\0￿, ¿no?"
-"148","(%촀\0Bien, teníamos \0Z 2""ࠀ
+"148","(%촀\0Bien,
+\0 hay \0Z 2""ࠀ
 pecespez
-peces\0￿ en la
-la \0hielera\0￿. 
-\0(촀\0¡Y una bonificación
-por atrapar \0Z 2""Ѐ
-pecespez
-peces o más\0￿!"
+peces \0￿en la \0hielera\0￿.
+\0 (촀\0¡Y damos una bonificación por atrapar \0Z o más\0￿!"
 "149","(촀\0Tenemos un total de \0Z	 26ऀcapturascapturacapturas
 \0￿de todos los pescamaniacos.\0\0(%촀\0Más una bonificación de equipo
 por capturar \0Z
@@ -758,6 +759,53 @@ puntopuntos\0￿!"
 canjearlos por pezcancía muy fresca.
 \0
 ¡Ñuf!"
+"156","(촀\0Veo que conseguimos \0Z peces\0￿.
+\0
+¡No está nada mal!"
+"156_01","( 촀\0Pero vamos a tener cuidado con la
+\0hielera de pesca\0￿:
+\0 si metemos más de
+20 peces,
+\0 se puede desbordar.
+()촀\0Ya quité algunos por si acaso,
+¿sí?
+\0 Los mandé a un spa para peces
+que conozco.
+(촀\0¡Estarán de lo más bien!
+\0 Y los puntos
+cuentan de todas formas,
+\0 así que
+tranqui.
+\0 ¡Ñuf!"
+"157","(촀\0Además de los \0Z puntos\0￿, te llevas
+una bonificación por haber pescado
+\0Z peces o más\0￿.
+(%촀\0Y no nos olvidemos de tus amigosn\0\0
+\0
+(촀\0¡En total pescaron \0Z	 peces\0￿!\0\0(촀\0Así que también te llevas los puntos
+por haber pescado \0Z
+ o más \0￿entre
+todos.
+\0 ¡Felicitaciones!"
+"158","(촀\0Además de los \0Z puntos\0￿,
+\0 te llevas
+una bonificación por haber pescado
+\0Z peces o más\0￿.
+\0 ¡Felicitaciones!"
+"159","(촀\0¿Te gusta la pesca?
+\0 (6촀\0¿Tienes agallas
+para medir tu ingenio con la propia
+madre naturaleza?
+(""촀\0Soy \0CJ\0￿, organizador del evento
+deportivo más emon\0\0
+\0 ( 촀\0Oye, ¡que ya
+nos conocemos!
+(촀\0¡Y además has estado ahí,
+\0 presa
+de la fiebre pesquera,
+\0 con la caña
+echando humo, pescamaniac2oa!
+(촀\0¿Qué tal te fue en el torneo?"
 "160","(""촀\0¿Están deseando admirar su
 botín en la \0hielera de pesca\0￿?
 \0
@@ -830,10 +878,10 @@ veces que queramos.
 \0 (""촀\0¿Todo claro
 como el agua?
 (3촀\0¿Qué me dices?
-\0 Por ser tu primera
-vez como 2""capitáncapitana,
-\0 la inscripción
-es gratuita."
+\0 Por ser hoy tu
+primera vez como 2""capitáncapitana,
+\0
+la inscripción es gratuita."
 "166_a","¡Me apunto!"
 "166_b","('촀\0No, esta vez paso"
 "167","(촀\0Y además podemos repetir todas las
@@ -841,10 +889,10 @@ veces que queramos.
 \0 (""촀\0¿Todo claro
 como el agua?
 (3촀\0¿Qué me dices?
-\0 Por ser tu primera
-vez como 2""capitáncapitana,
-\0 la inscripción
-es gratuita."
+\0 Por ser hoy tu
+primera vez como 2""capitáncapitana,
+\0
+la inscripción es gratuita."
 "167_a","¡Me apunto!"
 "167_b","¿Cuáles son las reglas?"
 "167_c","Quiero pezcancía"
@@ -883,9 +931,10 @@ el siguiente!"
 "170_a","Quiero pezcancía"
 "170_b","(\0촀\0Solo saludaba"
 "171","(5촀\0¿Todo listo para pasar a la historia
-de la pesca competitiva al límite?\0\0(촀\0Ya que te estrenas como 2""capitáncapitana,
-\0
-la inscripción te sale gratis.
+de la pesca contrarreloj?\0\0(촀\0Ya que es tu primera ronda del día
+como \02""capitáncapitana\0￿,
+\0 la inscripción
+te sale gratis.
 \0 ¡Ñuf!"
 "171_a","¡Me apunto!"
 "171_b","¿Cuáles son las reglas?"
@@ -896,7 +945,7 @@ la inscripción te sale gratis.
 de la disciplina!\0\0(%촀\0El triunfo es todo tuyo,
 \0 (5촀\0pero el orgullo y la alegría lo sentimos todos, pescamaniac2oa legendari2oa."
 "201","(9촀\0En resumen,
-\0 ¡tu caudal supera los (촀\0\0Z puntos\0￿!
+\0 tu caudal supera los (촀\0\0Z puntos\0￿.
 \0 ¡Tremend2oa 2""campeóncampeona!\0\0(5촀\0¡Qué orgullo ser testigo de un nuevo
 logro de la pescamanía!"
 "202","(9촀\0En resumen,
@@ -933,7 +982,7 @@ están siempre frescos!
 "309","('촀\0Nada, ya me iba"
 "310","¡Dame pezcancía fresca!"
 "311","('촀\0Quizás otro día"
-"314","Cuéntame algo más"
+"314","Otra cosa..."
 "315","¡Pues quiero vender!"
 "316","Trato hecho"
 "317","('촀\0Paso"

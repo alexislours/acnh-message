@@ -9,7 +9,7 @@ diese Insel bekannt ist,
 "001_b","Nicht direkt..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Dann ist ja gut! 
 \0((""촀\0Iss so viele davon,
 \0
@@ -44,10 +44,12 @@ irgendwann mal in ein waschechtes
 (촀\0Bis dahin hat der Trainer noch einen
 Haufen Arbeit vor sich, 
 \0n\0!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Warst du schon in unserem \0Museum\0￿?
 Der Ausstellungsraum ist riesig!\0\0( 촀\0Ob ich oft da reingehe? 
 \0Nun ja...
@@ -57,18 +59,18 @@ Der Ausstellungsraum ist riesig!\0\0( 촀\0Ob ich oft da reingehe? 
 gezerrt habe, 
 \0n\0."
 "028","(촀\02\02\0
-\0 im \0Museum\0￿ ist mein großes Vorbild.\0\0(1촀\02(촀ErSieEs ist die ganze Zeit unter Wasser,
+\0 im \0Museum\0￿ ist mein großes Vorbild.\0\0(1촀\02)촀ErSieEs ist die ganze Zeit unter Wasser,
 \0
-und es macht 2(촀ihmihrihm gar nichts aus.
+und es macht 2)촀ihmihrihm gar nichts aus.
 \0(
 (촀\0Ich will das auch können!"
-"029","(&촀\0Hast du schon mal 2(촀dendiedas 2촁
+"029","(&촀\0Hast du schon mal 2)촀dendiedas 2촁
  im \0Museum\0￿ ganz genau beobachtet?\0\0(촀\0Dabei ist mir eine Idee für ein ganz
 neues Workout gekommen!\0\0
 \0(3촀\0Jetzt brauch ich nur noch 'ne
 Testperson, 
 \0n\0..."
-"030","(%촀\02(촀DerDieDas 
+"030","(%촀\02)촀DerDieDas 
  ist mein Lieblingsfossil im ganzen \0Museum\0￿.\0\0(촀\0So roh, 
 \0so wild, 
 \0so schön!
@@ -76,31 +78,39 @@ Testperson, 
 \0((촀\0Dabei hat es keinen einzigen
 Muskel mehr, 
 \0n\0!"
-"101","(촀\0Wenn ich dich sehe, 
-\0denke ich immer
-gleich an alte Zeitenn\0\0 (6촀\0Wie oft wir
+"201","(촀\0Dich wiederzusehen weckt Erinne-
+rungen an alte Zeitenn\0\0
+\0 (6촀\0Wie oft wir
 unsere Muskeln verglichen haben!"
-"102","<ghi"
-"103","(%촀\0Auch nachdem du weg warst, 
+"202","<ËÌÍ"
+"203","(%촀\0Auch nachdem ich weg war, 
 \0hab ich
 jeden einzelnen Tag mein Training
-durchgezogen.\0\0()촀\0Und bei dir? 
+durchgezogen, 
+\0n\0.\0\0()촀\0Und bei dir? 
 \0Wie viel Kilos stemmst
 du mittlerweile?"
-"104","(\0촀\0Hmmn\0\0 
-\0Wenn ich so drüber
-nachdenke, 
-\0((2촀\0gab's nie einen
-klaren Gewinner, 
-\0oder?"
-"105","Komm, 
+"204","(8촀\0Um gegen dich in einem Wettkampf
+mithalten zu können,
+\0 müsste ich
+mich mächtig ins Zeug legen!(촀\0\0\0Du hast dir da ein paar ganz schöne
+Muckis angezüchtet. 
+\0(""촀\0Hut ab vor so
+viel Durchhaltevermögen."
+"205","(
+촀\0Wie wäre es mit einem spontanen
+Kräftemessen, 
+\0um zu sehen, wer von
+\0
+uns beiden durchtrainierter ist?
+(%촀\0Komm, 
 \0um der alten Zeiten willen!
 
-\0((촀\0Wir zählen jetzt die Rillen in
-unserem Waschbrettbauch!"
-"105_a","Ich bin dabei!"
-"105_b","Muss nicht sein."
-"106","(%촀\0Okay, 
+\0((촀\0Wir zählen jetzt die Rillen in unseren
+Waschbrettbäuchen!"
+"205_a","Ich bin dabei!"
+"205_b","Muss nicht sein."
+"206","(%촀\0Okay, 
 \0bereit? 
 \0Mein Sixpackn\0\0 
 \0(5촀\0ist ein
@@ -116,13 +126,13 @@ genau nachgezählt! 
 \0auch egal. 
 \0Glaub, 
 \0was du willst.
-\0
+\0(
 (촀\0n\0\0
-\0Aber es sind wirklich zwölf, 
+\0Aber es sind wirklich zwölf, 
 \0n\0!"
-"107","( 촀\0Ach, 
+"207","( 촀\0Ach, 
 \0zur Hantel! 
-\0Spielverderber!
+\02@Spielverderber Spielverderberin!
 \0
 (6촀\0Aber ich versteh's schon. 
 \0((5촀\0Gegen

@@ -255,7 +255,7 @@ our island, and we've selected our
 Resident Representative.
 (\0촀\0It's been a big day, but it's gotten
 rather late,(촀\0 so let's have a toast!"
-"045_04_02","Everyone have a (&촀\0beverage in hand?\0\0(촀\0It's fresh juice made from n촁
+"045_04_02","Everyone have a (&촀\0beverage in hand?\0\0(촀\0It's fresh juice made from \0n촁\0￿
 \0
 our new Resident Representative
 harvested on this very island!"
@@ -266,7 +266,7 @@ harvested on this very island!"
 the happiness of its residents!"
 "045_05","
 \0(촀\0                    (촀\0\0Cheers!\0d
-"
+<"
 "046","Out of curiosity, n\0...\0\0is it 
 \0n	\0-shima,
 \0

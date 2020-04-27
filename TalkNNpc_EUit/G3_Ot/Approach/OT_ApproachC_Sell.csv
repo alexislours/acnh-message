@@ -2,12 +2,12 @@
 "001","(촀\0Non vorrei disturbarti, n\0,
 
 \0(7촀\0ma che ne diresti di comprare
-2촀illa\0 2촀miomia\0 }\0\0?"
+2촀illa\0 2촀miomia\0 }\0\0?"
 "001_a","Sì, ma quanto costa?"
 "001_b","(*촁\0No, grazie."
 "002","(촀\0Ehi n\0, che ne dici di
 \0
-(7촀\0farti un regalo e comprare 2""촀il miola mia\0
+(7촀\0farti un regalo e comprare 2""촀il miola mia\0
 }\0\0?"
 "002_a","(\0촀\0Sì. Quante stelline?"
 "002_b","Non mi interessa."
@@ -86,8 +86,8 @@ difficile per te, n\0.
 "100_a","Dico di sì!"
 "100_b","Dico di no."
 "101","(촀\0Sei fantastic2oa!"
-"102","(%촀\0Sapere che avrai cura 2촀del
-della\0 2촀miomia\0 }\0\0
+"102","(%촀\0Sapere che avrai cura 2촀del
+della\0 2촀miomia\0 }\0\0
 \0 (촀\0mi tranquillizza, n\0."
 "103","(
 촀\0Oh, capiscon\0\0
@@ -116,12 +116,12 @@ di tirare sul prezzo, eh?
 \0 Allora
 facciamo pure Z!"
 "201_a","Affare fatto!"
-"201_b","Mmmmmmh..."
+"201_b","(\0촀\0Mmmmmmh..."
 "202","(촀\0Fantastico! Aggiudicato!
 \0
 Ti ringrazio molto, n\0!"
 "203","(%촀\0Spero proprio che l'acquisto di
-2""촀questoquesta\0 }\0\0
+2""촀questoquesta\0 }\0\0
 possa renderti felice quanto me!"
 "204","(촀\0Oh non\0\0 Non sono riuscita a tenere
 vivo il tuo interesse?
@@ -133,7 +133,7 @@ cambi idea più tardi, n\0."
 \0
 È la mia ultima offerta."
 "205_a","Aggiudicato!"
-"205_b","È davvero l'ultima?"
+"205_b","(\0촀\0È davvero l'ultima?"
 "206","(촀\0Mmmh.
 \0('촀\0 Mi dispiace, 
 \0
@@ -154,7 +154,7 @@ trovato un accordo."
 Magari forsen\0\0(촀\0 La prossima volta
 andrà meglio!"
 "300","(촀\0Oh, che carin2oa!\0\0(\0촀\0(촀\0Potresti cominciare dall'acquisto di
-2""촀questoquesta\0 }\0\0
+2""촀questoquesta\0 }\0\0
 \0 per ($촀\0Z.\0\0(%촀\0Sempre se per te va benen"
 "300_a","Ma certo!"
 "300_b","Non va bene."
@@ -170,7 +170,7 @@ più ordinata!
 per
 \0 (&촀\0Z? È un affare!"
 "303_a","Colgo l'affare al volo!"
-"303_b","Riprova."
+"303_b","(\0촀\0Riprova."
 "304","(
 촀\0Va benen\0\0(\0촀\0
 \0 Che ne diresti allora(\0촀\0(&촀\0

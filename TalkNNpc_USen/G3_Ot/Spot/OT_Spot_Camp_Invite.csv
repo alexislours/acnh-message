@@ -5,6 +5,17 @@ The both of us living here?!\0\0(촀\0Why, this island won't know
 what hit it, n\0!\0\0(촀\0Of course, I'll need to check with
 \0Resident Services \0￿to make sure
 I'm welcome, but otherwise I'm IN!"
+"003","(촀\0I turned you down, 
+\0yet you're still
+so keen to have me move here!\0\0(촀\0I confess, it feels good to feel truly
+wanted on this island. 
+\0((6촀\0A little ego
+boost goes a long way.
+(%촀\0Very well, 
+\0let me check with \0Resident
+Services\0￿.
+\0(촀\0 I'll move here if they give
+me the go-ahead, n\0."
 "101","<"
 "101_01","(촀\0Aren't you lovely!
 \0(('촀\0 Alas, no. 
@@ -226,37 +237,34 @@ envy, darling."
 \0
 It also means
 I'll be moving to this island!
-('촀\0Yesterday, I never would have
-imagined I'd be getting ready to
-live here.
-\0((촀\0 But now it's decided!
 (촀\02\0n\0, it's going to be a
-wild adventure, I'm sure!\0\0(4촀\0But,
-\0
- ehn\0\0
-\0
-n\0n\0\0
-
-\0(촀\0I do hope I can count on
-you to help me settle in."
-"206_02","(촀\0That means you are the victorn\0\0
-n\0! 
-\0((&촀\0That IS your
-name,
-\0
- isn't it?
-Well, (%촀\0it also means I'll be moving to
-this island like I promised.\0\0(2촀\0Goodness, it'sn\0\0really happening.
-
-\0
-Hard to believe, isn't it? 
-\0((촀\0And I have
-so much to do to prepare!
+wild adventure, I'm sure!\0\0(
+촀\0Although,
+\0 first,
+\0 I really must check in
+with \0Resident Services\0￿ to make sure
+it's OK for me to move heren\0\0
+(\0촀\0I'll run over there now to ask.
+\0 ($촀\0If you
+could wait here a moment, I'll be
+right back, n\0."
+"206_02","(촀\0That means you are the victor! 
+\0((%촀\0It also
+means I'll be moving to this island
+like I promised.
 (촀\0A new adventure awaits, darling!
 \0(
 When I write a memoir about my
 life,
-\0(5촀\0 surely this will be a highlight."
+\0(5촀\0 surely this will be a highlight.
+( 촀\0Oh dear!
+\0 (촀\0I just realized that I must
+get approval to move here from
+\0Resident Services\0￿.
+If you would,
+\0($촀\0 just wait here a
+moment while I make sure I have
+the official go-ahead, n\0."
 "206_03","(촀\0Which means you have triumphed!
 \0(
 (2촀\0And my fate is sealedn\0\0I shall
@@ -266,13 +274,13 @@ move to this island after all.
 (5촀\0I just KNEW I was meant to have a
 grand adventure, n\0.
 (
-촀\0Now remind me, 
-\0
-your name wasn\0\0
-n\0, yes?\0\0(6촀\0Well, n\0,
-\0 I do hope
-you're ready 
-\0(촀\0to be MY NEIGHBOR!"
+촀\0Thoughn\0\0
+\0hmmn\0\0
+\0(촀\0I do need to ask
+\0Resident Services\0￿ if this move has
+their stamp of approval and whatnot.
+($촀\0Wait here a spell while I go find out,
+would you?"
 "302","($촀\0Sorry to keep you waiting, my dear!
 \0(
 (촀\0But I checked with \0Resident Services\0￿,
@@ -364,41 +372,25 @@ my head high 
 \0
 (촀\0and move on for now,
 n\0."
-"402","()촀\0I just got back from chatting with
-\0Resident Services \0￿and there's no
-tiptoeing around thisn\0\0
-(8촀\0They say my COUSIN already lives
-here!
-\0( (9촀\0And while we may appear
-to be two peas in a podn\0\0
-(촀\0we are more liken\0\0
-\0
-liken\0\0
-\0(
-촀\0two entirely
-different vegetables who are
-NOT SIMILAR AT ALL!
-I'm sorry. ('촀\0I simply cannot live here
-with HER. 
-\0(Perhaps things will change
-one dayn\0\0(촀\0but for now, that is that."
-"403","(촀\0So sorry for the wait! 
-\0I ran over to
-check in with \0Resident Services\0￿ 
-\0
-(촀\0and
-got some truly awful news.
-(8촀\0They say my second cousin on my
-mother's side is moving here.
-\0( She's
-(촀\0the LAST n\0 I want to see!
-(촀\0We look the same and we even
-have the same name,
-\0( (	촀\0but we are
-TOTALLY DIFFERENT!
-I'm sorry, ('촀\0but I simply can't live
-on the same island as HER,
-n\0."
+"313","(촀\0I'm so glad you think so!\0\0(\0촀\0You know,
+\0()촀\0 at \0Resident Services\0￿,
+\0 they
+suggested that s촀
+might cooperate with my plan.
+(\0촀\0Just to be crystal clear though,
+\0
+(&촀\0are you OK with me talking to 2himher,
+n\0?"
+"313_a","I'm totally OK with that!"
+"313_b","Actually, please don't."
+"314","( 촀\0Ah. 
+\0I see.
+\0 Well now.
+\0 (8촀\0I feel like I've
+gotten a little ahead of myself.\0\0(촀\0I'm sure you can understand my
+disappointment.
+\0 (2촀\0Let's just forget this
+whole chat about moving, shall we?"
 "404","(""촀\0Sorry to make you wait, 
 \0but you'll
 (9촀\0never believe what has happened.\0\0I paid a visit to \0Resident Services
@@ -416,30 +408,6 @@ the rules for moi, n\0?
 \0((촀\0 But I shall
 hold out hope that some day we
 can live on this island together."
-"405","(촀\0Very sorry for the delay. 
-\0
-But, darling,
-here's the thingn\0\0
-\0(9촀\0this place is much
-too popular.
-I paid a visit to \0Resident Services\0￿,
-\0
-('촀\0
-and they said there's no room for
-new homes.
-\0( (촀\0None at all!
-Perhaps it's a zoning issu(촀\0e? 
-\0
-Who
-knows!
-\0 (\0촀\0I didn't want to make a scene
-\0
-(	촀\0
-but I am one unhappy n\0!
-(촀\0Ah well. Perhaps one day the stars
-will align
-\0((촀\0 and we'll get to live on the
-same island together, n\0."
 "406","(촀\0Sorry for the wait,
 \0
  but I have big
@@ -483,30 +451,6 @@ their facts straight."
 want to be seen as a nuisance.\0\0(8촀\0I suppose I'll just have to be
 patient and hope things
 change, n\0."
-"421","(촀\0That cousin of mine! 
-\0Of all the places
-she had to moven\0\0
-\0(촀\0why HERE?!\0\0(
-촀\0I mean,
-\0
- she does have good taste.
-\0(
-(9촀\0Which she copied from me because
-THAT'S how she is.
-(촀\0I just wish \0Resident Services\0￿
-hadn't told me she lived here.
-\0
-('촀\0What a shame, n\0."
-"422","(촀\0Why must my cousin move here?
-\0(
-(9촀\0Oh, how I wish \0Resident Services
-\0￿had told her not to come.
-(촀\0I know that sounds awful, 
-\0but you('촀\0
-don't know what she's like.\0\0(8촀\0I suppose I should just appreciate
-that she had the good taste
-\0(촀\0 to move
-to a fabulous island like this."
 "423","(촀\0An island so popular they can't even
 accept new residentsn\0\0
 \0((촀\0I'm starting to
@@ -523,16 +467,6 @@ to know, darling?
 move to this island. 
 \0((촀\0I want to be
 where everyone else wants to be!"
-"424","(
-촀\0It's hard to believe there's no
-room for new homes on your island.
-(&촀\0Surely a small house could be built?
-\0(
-(\0촀\0But thenn\0\0
-\0('촀\0I suppose I wouldn't be
-happy with a small house, would I?\0\0('촀\0It's a shame, darling.
-\0( (5촀\0I have so
-much to offer a place like this."
 "504","Really, darling, 
 \0(%촀\0this island is
 something special.\0\0(촀\0I feel like I'm my best n\0

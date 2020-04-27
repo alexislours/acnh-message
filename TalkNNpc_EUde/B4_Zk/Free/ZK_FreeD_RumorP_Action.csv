@@ -7,7 +7,7 @@ gegeben.
 n\0.
 (1촀\0Manchmal, 
 \0wenn ich so richtig schön
-2(#촀in denin dieins 2촁촀 vertieft bin, 
+2($촀in denin dieins 2촁촀 vertieft bin, 
 \0wirkt ein Tag wie eine Minute.\0\0(%촀\0Denk nur daran, 
 \0zwischendurch
 etwas zu meditieren und ein Glas
@@ -41,9 +41,9 @@ oder ein Armband oder...
 nicht, 
 \0was macht man sonst damit?"
 "105","(%촀\0Du sollst ja gestern fleißig Muscheln
-geerntet haben.\0\0('촀\0Ich hätte ja nicht die Geduld dafür.\0\0(촀\0Ich meine, 
-\0wenn mir so eine Muschel
-direkt in die Tasche springt, 
+ausgegraben haben.\0\0('촀\0Ich hätte ja nicht die Geduld dafür.\0\0(촀\0Ich meine, 
+\0wenn so eine Muschel
+einfach so herumliegt, 
 \0gern!
 \0
 Aber dafür arbeiten...
@@ -103,11 +103,11 @@ Bäume nach, ja?
 n촁..."
 "111","(&촀\0Hey, 
 \0hast du dich hier als Hobby-
-2$GärtnerGärtnerin versucht?
+2$GärtnerGärtnerin versucht?
 \0 (촀\0Es wirkt nämlich
 plötzlich alles so viel grüner!\0\0(촀\0Tja, ein grüner Daumen kommt eben
 nie aus der Mode!"
-"112","(촀\02L촀Ein kleinerEine kleineEin kleines 촀 hat mir
+"112","(촀\02L촀Ein kleinerEine kleineEin kleines 촀 hat mir
 gesteckt, 
 \0dass du hier gießen warst.\0\0(1촀\0Ich sehe es vor mir...
 \0 Die Gießkanne
@@ -132,11 +132,24 @@ möglichen Sachen reagieren?
 \0
 dass 2촀eineineein n\0 für eine Rolle gesucht wird, 
 \0gib Bescheid!"
+"114","(&촀\0Hey, 
+\0du bist derzeit ja ziemlich viel
+unterwegs, 
+\0n\0!\0\0(촀\0Hast du dir Souvenirs mitgebracht?\0\0(1촀\02¢!촀6Einen schicken importierten0Eine schicke importierte2Ein schickes importiertes
+2촁촀 oder so was?
+
+\0Sag schon!"
+"115","(촀\0Hey, 
+\0war schön, 
+\0dass du ein paar
+Gästen n\0 gezeigt hast.\0\0(5촀\0Und ich stelle mein Domizil gerne
+als Eintrag für die Karte mit den
+Sehenswürdigkeiten zur Verfügung!"
 "116","($촀\0Man sieht dich in letzter Zeit ja oft
 beim \0Basteln\0￿...\0\0(7촀\0Ich wünschte, 
 \0ich könnte auch
 Sachen machen.\0\0(촀\0Also,
-\0 jetzt mal von 2.촀meinemmeinermeinem
+\0 jetzt mal von 2.촀meinemmeinermeinem
 Weltklasse-2촂촀 abgesehen!"
 "117","( 촀\0Du hast deinen Werkzeugen alles
 abverlangt, 
@@ -151,7 +164,7 @@ geht, 
 \0ist besser als der
 geschenkte Gaul auf dem Dach.“
 (5촀\0Nur eine der vielen Weisheiten,
-die mir 2(#촀beimbei derbeim 촀
+die mir 2($촀beimbei derbeim 촀
 zugeflogen sind."
 "118","(
 촀\0Hey, 
@@ -226,7 +239,7 @@ an gestern? 
 \0Unser Lachen? 
 \0Unser
 Weinen? 
-\02""촀DenDieDas 2촁촀?
+\02#촀DenDieDas 2촁촀?
 (촀\0Gut, 
 \0ein bisschen übertreibe ich
 vielleicht, 
@@ -272,7 +285,7 @@ von deinem Wespen-Malheur gehört,
 \0
 n\0.
 (5촀\0Ich habe mal ein Wespenstich-Opfer
-in „Der Vampir 2촀desderdes 2촃촀“
+in „Der Vampir 2 촀desderdes 2촃촀“
 gespielt, 
 \0ich kenn mich also aus.
 (촀\0n\0\0Ja, 
@@ -390,9 +403,9 @@ sie einlöst, 
 "139","(촀\0Sehr gut, 
 \0n\0!\0\0(5촀\0Meinen Glückwunsch zum
 Abbezahlen deines Kredits!\0\0(3촀\0Jetzt kannst du anfangen,
-\0 auf 2 촀dendiedas
+\0 auf 2!촀dendiedas
 촀 zu sparen, 
-\02 촀dendiedas ich zum Geburtstag will.
+\02!촀dendiedas ich zum Geburtstag will.
 \0( (촀\0Ha-HA!"
 "140","(6촀\0Ein kleiner Waschbär hat mir
 geflüstert, 
@@ -447,7 +460,7 @@ zum Anziehen zur Hand ist..."
 dich übers Wasser springen sehe,
 \0
 n\0.
-(촀\0Ich war mal ein richtiges Ass 2!촀imin derim
+(촀\0Ich war mal ein richtiges Ass 2""촀imin derim
 촀. 
 \0Warum kann ich also
 nicht so springen?!"
@@ -493,24 +506,26 @@ gerückt!
 vielleicht auch einsetzen, 
 \0um meinen
 Kleiderschrank zu sortieren?"
-"149","(촀\0Gefällt mir, 
-\0dein neuer Haarschnitt,
-
-\0n\0.\0\0(
+"149","(촀\0Gefallen mir, 
+\0deine Haare.
+\0(
+(
 촀\0Ich frage mich, 
-\0wie der mir wohl
-stehen würde...\0\0('촀\0Aber als Zeichen des Respekts werde
-ich deine Frisur nicht kopieren.\0\0(6촀\0Zumindest die nächsten zwei Wochen
-nicht."
+\0wie mir wohl dieser
+Look stehen würden\0\0\0\0('촀\0Aber als Zeichen des Respekts
+werde ich dich nicht kopieren.\0\0(6촀\0Zumindest die nächsten zwei
+Wochen nicht, 
+\0n\0!"
 "150","(촀\0Oh, 
 \0wow!
 \0
 (&촀\0Bist du's, 
-\0n\0?\0\0(촀\0Ich hätte dich fast nicht erkannt!
-\0
-Du hast deinen Stil wirklich neu
-erfunden!
-(촀\0Ich wünschte, 
+\0n\0?\0\0(촀\0Du hast doch was an dir verändert,
+\0
+oder?
+\0 (촀\0Gefällt mir richtig gut,
+\0 deine
+neue Optik!\0\0(촀\0Ich wünschte, 
 \0ich hätte deine
 Wandlungsfähigkeit.
 \0 Dann würde ich

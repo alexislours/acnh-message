@@ -5,7 +5,7 @@ met mij op (""촀\0schattenjacht gaan?
 \0
 Je weet wel, een schat zoeken?"
 "001_a","Tuurlijk!"
-"001_b","Misschien later."
+"001_b","(\0촁\0Misschien later."
 "002","(
 촀\0Verveel jij je ook? Ik heb alle plaatjes
 in allebei mijn boeken al twee keer
@@ -114,9 +114,9 @@ Okidoki,
 Z"
 "012_01","(촀\0De regels zijn supersimpel!
 \0(촀\0
-<\0\0\0()촀\0Als je de schat vindt die ik heb
-begraven
-\0 voor de tijd om is,
+<\0\0\0()촀\0Als je de schat die ik heb begraven,
+\0
+vindt voor de tijd om is,
 \0(촀\0 win je!
 Dat zijn de regels!
 Z\0\0\0(%촀\0O! En er is een regel dat ik de schat
@@ -129,7 +129,8 @@ niet mogen helpen, alleen toekijken,
 want we spelen mijn zijn tweeën!
 Z\0\0\0(촀\0Je hebt nu niet veel tijd om te
 zoeken, dus zorg dat je snel bent!
-\0( Oké,
+\0(
+Oké,
 \0 daar gaan we!
 x"
 "013","O, wacht even,

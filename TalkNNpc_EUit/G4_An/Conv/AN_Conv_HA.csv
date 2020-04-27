@@ -23,13 +23,13 @@ piegamenti?\0\0초(촀\0Aiuto, n\0! Perché voglio a tutti i costi ad
 "004_b","Per vantartene."
 "004_c","('촀\0Non chiederlo a me..."
 "005","(\0촀\0Per me stesso?
-\0( (촀\0Giusto! Proprio così!
+\0( (촀\0Giusto, proprio così!
+\0촇
 Gli addominali mi rappresentano!
 \0(
-(촀\0Fanno di me un'opera d'arte.\0\0(%촀\0Spesso l'arte èn\0\0 fine a se stessa!
-Proprio come me!
-\0( (촀\0Fiuuu! Che
-risposta geniale!"
+(촀\0Fanno di me un'opera d'arte.\0\0(%촀\0Spesso l'arte èn\0\0 fine a se stessan\0\0
+come me!
+\0( (촀\0Uau, che risposta geniale!"
 "006","(%촀\0Vabbè, n촁, contento
 tu, contenti tutti.
 \0( (촀\0Scusa se ti ho
@@ -37,15 +37,16 @@ messo in crisi, n\0!"
 "007","(&촀\0Per vantarmi? Io?
 \0( (
 촀\0Ah, ma certo!
-\0(
-(촀\0Che senso avrebbe, altrimenti? Ecco
+\0(촇
+(촀\0Che senso avrebbe, altrimenti? 
+\0Ecco
 perché adoro le canotte attillate!"
 "008","('촁\0
 \0P촅(촀\0E sì. Indossi anche adesso un bel
 capo attillato. 
 \0(Sei sicuro che al tuo
 cervello arrivi abbastanza ossigeno?촇(%촃\0(촂\0(촃"
-"009","(촀\0Aspetta, fammici pensare un attimo.
+"009","(촀\0촇Aspetta, fammici pensare un attimo.
 \0(
 (
 촀\0OK, ehm, voglio degli addominali
@@ -76,26 +77,29 @@ come diren\0\0
 \0( (촀\0Uffa! 
 \0Non lo so!\0\0(촀\0Perché sollevo pesi? A che mi
 serve esercitare i bicipiti con
-tutti quei manubri?
+tutti quei manubri? 초
 (촀\0Aiutami a trovare una risposta, n\0! Perché voglio una montagna di muscoli? 
 \0Perché?"
 "014_a","Per te stesso!"
 "014_b","Per vantartene."
 "014_c","('촀\0Non chiederlo a me..."
-"015","(%촀\0Eh? La montagna di muscoli è per
+"015","(%촀\0Eh? 
+\0La montagna di muscoli è per
 me?
-\0( (촀\0Ma certo, hai ragione!\0\0()촀\0Grazie a loro, fare le pulizie è molto
+\0( (촀\0Ma certo, hai ragione!\0\0촇()촀\0Grazie a loro, fare le pulizie è molto
 più semplice!
 \0( (촀\0Sollevo il divano con
-una sola mano e pulisco sotto!"
+una sola zampa e pulisco sotto!"
 "016","(촀\0Ah! Non ci avevo pensato!
 In effettin\0\0 
 \0(5촀\0potrebbe fare comodo
 anche a me, n\0!"
-"017","(촀\0Proprio così, le mie braccia servono
-solo a fare colpo sugli altri!\0\0(5촀\0Vedrai, prima o poi riuscirò
-anche ad accartocciare il \0centro
-servizi\0￿. Sarà uno spettacolo!"
+"017","(촀\0Proprio così,
+\0 le mie braccia servono
+solo a fare colpo sugli altri!\0\0촇(5촀\0Vedrai, prima o poi riuscirò anche
+ad accartocciare il \0centro servizi\0￿.
+
+\0Sarà uno spettacolo!"
 "018","(촀\0Questa è una delle cose più stupide
 che abbia mai sentiton\0\0 
 \0(촀\0Voglio
@@ -103,7 +107,7 @@ proprio vedere!"
 "019","(촀\0Ion\0\0 ehmn\0\0 niente panico!
 \0( Voglio
 i muscoli perchén\0\0
-\0 (촀\0Ah, ci sono! \0\0(5촀\0Per aiutare gli altri spostando oggetti
+\0 촇(촀\0Ah, ci sono! \0\0(5촀\0Per aiutare gli altri spostando oggetti
 pesanti en\0\0 dando consigli su come
 mantenersi in forma!
 \0( (촀\0Fiuuu!"

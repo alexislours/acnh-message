@@ -192,7 +192,7 @@ quale sia il tuo talento, tu rispondi
 (%촀\0Sì."
 "030_105_b","('촀\0No, non più."
 "031_01","(촀\0Ah, 
-\0lo sapevo che ti 2Npiacevapiaceva\0piacevanopiacevano\0 촀.
+\0lo sapevo che ti 2Npiacevapiaceva\0piacevanopiacevano\0 2\0촀.
 \0 (촀\0Che storia, 
 \0anche a me!\0\0(촀\0Dovremmo parlare più spesso di 촀 io e te, n\0."
 "031_02","(6촀\0Capisco. 
@@ -376,7 +376,7 @@ male io. Oppure l'ho sognato?
 "051_a","Sì.
 Esatto."
 "051_b","No, non ci siamo...
-Aspetta un attimo..."
+(\0촀\0Aspetta un attimo..."
 "052","( 촀\0Eh?
 \0 Eppure mi sembra di aver
 ripetuto alla lettera quello che hai
@@ -1069,9 +1069,9 @@ cambiare idea, fammelo sapere."
 \0( (&촀\0Ma non è che forse ti
 manca la pazienza per stare sedut2oa
 un paio di ore?\0\0(%촀\0Forse sei un2oa che non sa stare con
-con le zampe in zampan\0\0 
-\0(촀\0Aspetta,
-ho un'idea!\0\0(촀\0Potresti venire a casa mia!
+le zampe in zampan\0\0 
+\0(촀\0Aspetta, ho
+un'idea!\0\0(촀\0Potresti venire a casa mia!
 \0 Io metto
 in pausa il film e tu prepari i popcorn
 tutte le volte che vuoi."

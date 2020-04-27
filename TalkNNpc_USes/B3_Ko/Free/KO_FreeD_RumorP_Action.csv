@@ -98,6 +98,21 @@ expresarte tanto,
 n\0?\0\0(6촀\0Me dijeron que reaccionabas muy
 emotivamente a todo,
 \0 n\0."
+"114","(""촀\0Me enteré por ahí de que ayer
+estuviste de visita en otras islas,
+\0
+n\0n\0\0\0\0(%촀\0¡Me alegra que tengas amigos
+por todas partes!\0\0Eso sí,
+\0 n\0,
+\0 cuando salgas
+de turista,
+\0 procura dejar una buena
+imagen de nuestra isla."
+"115","(촀\0¡Qué amplio es tu círculo
+de amistades,
+\0 n\0!\0\0(;촀\0¡Y ayer parece que se expandió hasta
+nuestra isla,
+\0 n\0!"
 "116","(""촀\0Ayer te pegó la fiebre de las
 manualidades,
 \0 ¿eh?
@@ -192,12 +207,13 @@ muy 2.parlanchínparlanchina,
 que contar,
 \0 ¡soy todo oídos,
 \0 n\0!"
-"126_01","(촀\0Me contaron que ayer te picaron
-las avispas.
-\0 Qué mala suerte,
-\0
-n\0.\0\0(:촀\0Hay que tener cuidado cuando
-se sacuden los árboles."
+"126_01","(촀\0Me contaron que ayer te picaron las
+avispas no una,
+\0 sino varias veces.
+\0
+Qué mala suerten\0\0
+(:촀\0Hay que tener cuidado cuando
+se sacuden los árboles, n\0⁠."
 "126_02","(촀\0Siento que te hayan picado ayer.
 \0
 Las avispas suelen tener muy mal
@@ -392,18 +408,19 @@ por mantener cuidada nuestra isla,
 n\0."
 "149","(&촀\0¿Así que ayer cambiaste tu estilo,
 \0
-n\0?\0\0(7촀\0Pues mira,
+n\0?
+\0 Algo del pelo, ¿eh?\0\0(7촀\0Pues mira,
 \0 si no me lo hubieran
 dicho,
 \0 ni me hubiera enterado,
 \0
-n\0.\0\0(촀\0Tengo que prestar más atención
-a las cuestiones estéticas superficiales."
+n\0.\0\0(촀\0Tengo que prestar más atención a las
+cuestiones estéticas superficiales."
 "150","( 촀\0Ey,
 \0 ¡qué cambio de estilo!
-\0 (
-촀\0Me
-costará un poco acostumbrarmen\0\0
+\0
+(
+촀\0Me costará acostumbrarmen\0\0
 \0
 (촀\0¡pero me gusta,
 \0 n\0!"

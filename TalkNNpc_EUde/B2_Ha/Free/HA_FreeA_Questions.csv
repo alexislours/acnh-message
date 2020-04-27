@@ -26,13 +26,13 @@ mir zusammen Sport treiben.\0\0(%촀\0Jetzt haben wir die Qual der Wahl.
 \0
 (&촀\0Was meinst du, welche Sportart
 wir angehen sollten?"
-"008_a","Handball
-Basketball
-Fußball"
-"008_b","Ringen
-Boxen
-Judo"
-"008_c","Bungeespringen"
+"008_a","Handball.
+Basketball.
+Fußball."
+"008_b","Ringen.
+Boxen.
+Judo."
+"008_c","Bungeespringen."
 "009","(1촀\0Da sind schnelle Sprints und meine
 unnachahmlichen Dribbelkünste
 gefragt...
@@ -95,50 +95,37 @@ zugute, 
 \0für die du dich stets einsetzt!"
 "022","(촀\0Frage! 
 \0Welche von den folgenden
-Sportarten würdest du am liebsten
-mit deinen Freunden betreiben?"
-"022_a","Fußball"
-"022_b","Baseball"
-"022_c","Marathon"
-"022_d","Zehnkampf"
-"023","()촀\0Aha, 
-\0das ist einfach zu deuten,
-\0
+Sportarten reizt dich am meisten?"
+"022_a","Fußball."
+"022_b","Baseball."
+"022_c","Marathon."
+"022_d","Zehnkampf."
+"023","(%촀\0Macht Sinn. 
+\0Beim Fußball kommt
+es auf präzises Passspiel und gute
+Zusammenarbeit an.\0\0(촀\0Du bist halt ein echter Teamplayer,
 
-\0n\0.\0\0(%촀\0Beim Fußball kommt es auf präzises
-Passspiel und gute Zusammenarbeit
-an.\0\0(촀\0Ich würde tippen, 
-\0dass du bei
-deinen Freunden als absolut
-zuverlässig giltst."
-"024","()촀\0Aha, 
-\0das ist einfach zu deuten,
-\0
-
-\0n\0.\0\0(%촀\0Baseball ist ein komplexer Sport
+\0n\0."
+"024","(%촀\0Baseball ist ein komplexer Sport
 und verlangt ein sehr gutes
-Spielverständnis.\0\0(촀\0Ich würde tippen, 
-\0dass du bei
-deinen Freunden als seriös giltst
-und als Denker bekannt bist."
-"025","()촀\0Aha, 
-\0das ist einfach zu deuten,
-
-\0n\0.\0\0(%촀\0Einen Marathon zu laufen ist kein
+Spielverständnis.\0\0(촀\0Das passt gut zu jemandem, 
+\0der
+so seriös und bedacht ist wie du,
+\0
+n\0."
+"025","(%촀\0Einen Marathon zu laufen ist kein
 Zuckerschlecken. 
 \0Dazu braucht
-man einen eisernen Willen!\0\0(촀\0Ich würde tippen, 
-\0dass du bei
-deinen Freunden als sehr
-ehrgeizig giltst."
-"026","()촀\0Aha, 
-\0das ist einfach zu deuten,
-
-\0n\0.\0\0(%촀\0Zehnkampf ist etwas für wahre
-Sport-Tausendsassas.\0\0(촀\0Ich würde tippen, 
-\0dass du dir bei
-deinen Freunden einen Namen als
-Alleskönner gemacht hast."
+man einen eisernen Willen!\0\0(촀\0Mein Respekt ist dir sicher, 
+\0wenn
+du das durchziehst, 
+\0n\0!"
+"026","(%촀\0Zehnkampf ist etwas für wahre
+Sport-Tausendsassas.\0\0(촀\0Klar wie Kloßbrühe, 
+\0dass 2eineine
+24AlleskönnerAlleskönnerin wie du sich zu so
+was hingezogen fühlt, 
+\0n\0!"
 "030","(\0촀\0Hast du dich aus einem bestimmten
 Grund für deine aktuelle Frisur
 entschieden, 

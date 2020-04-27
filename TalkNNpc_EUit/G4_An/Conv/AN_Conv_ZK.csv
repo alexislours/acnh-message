@@ -129,7 +129,7 @@ e fulmini."
 \0 Da paura!
 
 \0Sarà uno spettacolo incredibile!\0\0(%촀\0Quando pensi di scatenarti di nuovo sulla pista da ballo, n촀?"
-"028","('촀\0Uhmn\0\0 Non lo farò. 
+"028","촅('촀\0Uhmn\0\0 Non lo farò. 
 \0Come ho detto
 prima, non voglio fare del male a
 nessuno, n\0.
@@ -148,15 +148,15 @@ da ballo!"
 al rallentatore.
 \0 Quello è un effetto
 speciale che usano nei film."
-"031","(&촀\0Davvero, n촀?
+"031","촇(&촀\0Davvero, n촀?
 \0 Io invece lo faccio sempre."
-"032","(:촀\0Come no.
+"032","촅(:촀\0Come no.
 \0( Riesci a rallentare lo
 scorrere del tempo quando ti muovi.
 \0(
 (촀\0E va bene, ti credo. 
 \0Come fai?(촀"
-"033","(촀\0Non lo so.
+"033","촇(촀\0Non lo so.
 \0 Fisso le lancette
 dell'orologio e iniziano a muoversi
 sempre più lentamente, giuro!"
@@ -169,17 +169,18 @@ di convincere una troupe a fare un
 sopralluogo qui.\0\0(촀\0Deve essere chiaro a tutti che n!\0 ha tanto da offrire, oltre a un attore hermoso."
 "103","(%촀\0Come ogni n\0 che si rispetti, anche a me non dispiace n!\0,
 \0 ma farci un film?\0\0('촀\0Non ne sono molto convintan"
-"104","( 촀\0Oh, n\0! Capiti a fagiolo!
+"104","( 촀\0Oh, n\0! Capiti a fagiolo!촆
 \0( (촀\0Vuoi unirti a noi per un minuto? 
 \0Ecco di che si trattan\0\0\0\0()촀\0Sto convincendo lo studio di produzione 2\0촀 a fare un sopralluogo qui per un film.\0\0($촀\0A parte il sottoscritto,
 \0 cos'altro dovrebbero tenere d'occhio 2\0 n!\0?"
 "104_a","Il panorama mozzafiato!"
 "104_b","I suoi abitanti!"
 "104_c","Niente in particolare..."
-"105","촃(%촀\0Beh, certo, 
+"105","촆촃(%촀\0Beh, certo, 
 \0n!\0 ha un panorama davvero niente male. 
-\0La sera, poi! Ma non intendevo quello."
-"106","(촀\0Hai ragione! 
+\0La sera, poi! 
+\0Ma non intendevo quello."
+"106","촇(촀\0Hai ragione! 
 \0Non esiste panorama
 mejor per filmarmi in una scena
 drammatica.
@@ -188,7 +189,7 @@ drammatica.
 \0( (6촀\0Voglio proprio
 vedere che razza di film verrà fuori.
 Senti, io proprio non credo chen"
-"108","( 촀\0Oh, tra l'altro, n촀!(촂\0
+"108","촇( 촀\0Oh, tra l'altro, n촀!(촂\0
 \0 Ti piacerebbe lavorare in sala di montaggio?\0\0Posso metterci una buona parola.
 
 \0((촀\0Fammi sapere!"
@@ -198,7 +199,7 @@ problemi a tagliare qualche scena
 del film.
 (촀\0Soprattutto quelle dove compari
 tu, n\0!"
-"110","(9촀\0Uhm, beh, tutti qui sono gentili
+"110","촆(9촀\0Uhm, beh, tutti qui sono gentili
 \0
 e anche la troupe non si troverebbe
 male.
@@ -215,7 +216,7 @@ parola,
 della mia vita."
 "113","(촀\0Visto? 
 \0Anche n\0 crede che non sia una buona idea."
-"114","()촀\0Por mi n\0 intende che non dovremmo limitarci allo studio 2\0촀n\0\0\0\0(촀\0Oh! 
+"114","촇()촀\0Por mi, n\0 intende che non dovremmo limitarci allo studio 2\0촀n\0\0\0\0(촀\0Oh! 
 \0Che ne dite dello studio 2\0촀? 
 \0Proverò a chiamarli, magari mi rispondonon"
 "115","(&촀\0""Magari mi rispondono""?
@@ -231,10 +232,16 @@ me!"
 stranierin\0\0
 \0((&촀\0 ma almeno sai cosa
 vogliono dire, n\0?"
-"202","($촀\0Ma certo che tengo muy tiempo, n촀n\0\0
-\0(()촀\0 Vuol dire
-\0 ""Certo che lo so!"" in spagnolo.\0\0(촀\0A proposito di paroloni e frasi
-complesse(\0촀\0n\0\0\0\0(촀\0Tu dici sempre ""n\0"". Sarebbe un titolo perfetto per la mia autobiografia.\0\0Non ti dispiace se te lo rubo, vero?"
+"202","(촀\0Stai per caso insinuando che sono
+un ignorantone, n촀?\0\0('촀\0Non potrei mai ingannare qualcuno.
+
+\0(촀\0Che culpa ne ho io se sono un
+poliglotta nato?
+(촀\0E a proposito di paroloni e frasi
+complesse(\0촀\0n\0\0\0\0(촀\0Tu dici sempre ""n\0"".
+
+\0Sarebbe un titolo perfetto per
+la mia autobiografia.\0\0Non ti dispiace se te lo rubo, vero?"
 "203","(9촀\0Ma sei serio? Vuoi davvero intitolare la tua autobiografia ""n\0""?\0\0(%촀\0Va beh, fai un po' come vuoi, n\0.
 \0((촀\0 Non vedo l'ora di leggere questo grande capolavoron"
 "204","(%촀\0Ma claro que sì! Vedrai, n촀,

@@ -88,30 +88,43 @@ play with your buddies?"
 "022_b","Baseball."
 "022_c","Marathon."
 "022_d","Basketball."
-"023","()촀\0That really says a lot about
-you, n\0.\0\0(%촀\0In soccer, strong teamwork and play
-execution are really important.\0\0(촀\0I bet your friends think of you
-as ""the reliable one."""
-"024","()촀\0That really says a lot about
-you, n\0.\0\0(%촀\0Baseball requires both athletic skill
+"023","(
+촀\0That makes a lot of sense.
+\0 In soccer,
+strong teamwork and play execution
+are really important, n\0.\0\0(촀\0You really gotta use your head out
+there.
+\0( (촀\0And not just to hit the ball!"
+"024","( 촀\0Very interesting, n\0!\0\0(%촀\0Baseball requires both athletic skill
 and a deep understanding of the
-game's complex strategies.
-(촀\0I bet your friends think of you as
-""the serious one."""
-"025","()촀\0That really says a lot about
-you, n\0.\0\0(%촀\0Running a marathon is no joke.
+game's complex strategies.\0\0(촀\0Plus you get to psych yourself up
+a bunch and get really loud, liken\0\0\0\0
+\0
+
+\0(!촀\0\0LET'S
+\0 GO
+\0 TEAM!
+\0(
+WOOOOOOOOO!\0d\0\0
+	\0
+\0(6촀\0OK, now I'm pumped!
+\0( (촀\0Play ball!"
+"025","(%촀\0Running a marathon is no joke!
 \0 Your
-success depends as much on your
-mental state as your physical state.
-(촀\0If I had to guess, your friends think
-of you as ""the ambitious one."""
-"026","()촀\0That really says a lot about
-you, n\0.\0\0(%촀\0In basketball, you definitely need
-your team,
-\0 but you can also rise to
-the top as a superstar.
-(촀\0If I had to guess, your friends think
-of you as ""the hotshot."""
+mind and body gotta be in sync if
+you wanna succeed, n\0.\0\0(9촀\0And if you wanna run a marathon
+with friends, 
+\0you gotta make sure
+you bring the right ones.
+\0( (5촀\0Like me!"
+"026","()촀\0I get you. 
+\0Basketball's definitely all
+about the team,
+\0 but you can also rise
+to the top as a superstar.\0\0(%촀\0Plus, there is nothing better than
+showing off your dunking skills.
+\0(
+(5촀\0I should know, n\0!"
 "030","(\0촀\0Got any maxims on haircuts you feel
 strongly about, n\0?"
 "030_a","Yep!"

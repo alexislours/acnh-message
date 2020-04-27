@@ -86,7 +86,7 @@ ti piaccia!"
 \0 (촀\0Ti ho portato una cosa.
 
 \0Ho pensato che potrebbe piacerti!"
-"103","($촀\02\02\0}\0! 26촀L'ho sceltoL'ho scelta\0 pensando a te!
+"103","($촀\02\02\0}\0! 26촀L'ho sceltoL'ho scelta\0 pensando a te!
 \0(촀\0 Ci ho azzeccato?"
 "104","(""촀\0Ti ho portato nientepopodimenoché 2\0}\0! "
 "105","Stavo pensando a te e ho visto 2\0}\0! 
@@ -99,7 +99,7 @@ facciamo un gioco?"
 \0
 ($촀\0Ti va di fare un gioco?"
 "201_a","Giochiamo!"
-"201_b","Magari un'altra volta."
+"201_b","(\0촀\0Magari un'altra volta."
 "202","(촀\0Ti va di fare un gioco?"
 "202_a","Volentieri!"
 "202_b","No, grazie."

@@ -10,11 +10,11 @@ Ich danke dir, 
 \0n\0."
 "003","(&촀\0Hat s촀 noch irgendetwas dazu gesagt?"
 "003_a","Ja! Und zwar..."
-"003_b","Weiß nicht mehr..."
+"003_b","(\0촀\0Weiß nicht mehr..."
 "004","(&촀\0Und, 
 \0wie hat s촀 reagiert?"
 "004_a","(\0촀\0Das war so..."
-"004_b","Weiß ich nicht mehr."
+"004_b","(\0촀\0Weiß ich nicht mehr."
 "005","( 촀\0Du kannst dich nicht erinnern?!
 \0
 (촀\0Hm, 
@@ -118,11 +118,11 @@ Hilfe, 
 \0oder? 
 \0($촀\0Hat 2ersie noch irgendetwas gesagt?"
 "103_a","Ja, das war so..."
-"103_b","Öhm, hab's vergessen..."
+"103_b","(\0촀\0Öhm, hab's vergessen..."
 "104","(촀\0Als s촀 den Gegenstand in Empfang nahm, 
 \0($촀\0hat 2ersie da noch etwas gesagt?"
 "104_a","(\0촀\0Und ob! Es war so..."
-"104_b","Weiß ich nicht mehr..."
+"104_b","(\0촀\0Weiß ich nicht mehr..."
 "105","(촀\0Dun\0\0 
 \0hast es vergessen?!
 \0 (촀\0Hihi...
@@ -151,8 +151,8 @@ zurückgegeben. 
 so schnell schon Ersatz?\0\0(촀\0Das hätte ich wohl besser lösen
 können, 
 \0n\0..."
-"109","(%촀\0Dann hatte 2촀ersie\0 also noch gar nicht
-bemerkt, dass 2촀ersie\0 bei mir etwas
+"109","(%촀\0Dann hatte 2촀ersie\0 also noch gar nicht
+bemerkt, dass 2촀ersie\0 bei mir etwas
 vergessen hatte?\0\0(촀\0Du hast mir sehr geholfen,
 \0
 n\0!"
@@ -166,12 +166,12 @@ vergessen hatte?\0\0(촀\0Du hast mir sehr geholfen,
 \0(
 ($촀\0Hat 2ersie irgendetwas dazu gesagt?"
 "203_a","Ja! Und zwar..."
-"203_b","Weiß ich nicht mehr."
+"203_b","(\0촀\0Weiß ich nicht mehr."
 "204","(촀\0Hat s촀 bei der Übergabe noch irgendeine Bemerkung gemacht?"
 "204_a","(\0촀\0Die Sache ist so..."
 "204_b","Erinnere mich nicht..."
 "205","(촀\0Verstehe, 
-\0dann war 2촀ihmihr\0 die
+\0dann war 2촀ihmihr\0 die
 ausbleibende Sendung also
 noch gar nicht aufgefallen.\0\0Dank deiner schnellen Auslieferung,
 
@@ -206,18 +206,18 @@ gut gemacht, 
 "301","(촀\0Ach ja... 
 \0Vielen Dank, dass du
 s촀 mein kleines Präsent übergeben hast."
-"302","(7촀\0Wie hat 2촀ersie\0 reagiert?"
+"302","(7촀\0Wie hat 2촀ersie\0 reagiert?"
 "302_a","Folgendermaßen..."
-"302_b","Keine Ahnung..."
+"302_b","(\0촀\0Keine Ahnung..."
 "303","(7촀\0Wie ist die Reaktion auf das
 Geschenk ausgefallen?"
 "303_a","(\0촀\0Das war so..."
-"303_b","Weiß ich nicht mehr."
+"303_b","(\0촀\0Weiß ich nicht mehr."
 "304","(촀\0Wie bitte, 
 \0du kannst dich an die
 Reaktion nicht erinnern?\0\0(
 촀\0Ich wüsste zu gern, ob das Geschenk
-auf Gegenliebe gestoßen ist...\0\0(%촀\0Ich werde 2촀ihmihr\0 wohl mal selbst auf
+auf Gegenliebe gestoßen ist...\0\0(%촀\0Ich werde 2촀ihmihr\0 wohl mal selbst auf
 den Zahn fühlen müssen... 
 \0((촀\0Dir
 jedenfalls vielen Dank, 
@@ -239,30 +239,30 @@ denn so etwas tun, 
 촀\0Ich hatte mir für s촀 extra so viel Mühe gemacht. 
 \0Die Verpackung ist doch das Wichtigste!"
 "307","(촀\0Oh, 
-\02촀ersie\0 hat sich direkt umgezogen?
+\02촀ersie\0 hat sich direkt umgezogen?
 \0(
-(촀\0Dann hat 2촀ihmihr\0 das Geschenk also
+(촀\0Dann hat 2촀ihmihr\0 das Geschenk also
 zugesagt?
 (촀\0Ähem. 
-\0Ich werde 2촀ihnsie\0 bald einmal
+\0Ich werde 2촀ihnsie\0 bald einmal
 besuchen gehen, 
 \0n\0."
 "308","(촀\0Oh, 
-\0dann hat das Geschenk 2촀ihmihr\0 also
+\0dann hat das Geschenk 2촀ihmihr\0 also
 einigermaßen gefallen? 
 \0Das freut
 mich, 
 \0n\0."
-"309","( 촀\02촀ErSie\0 hat es nicht einmal anprobiert?
+"309","( 촀\02촀ErSie\0 hat es nicht einmal anprobiert?
 
 \0Ich bin sicher,
-\0 es würde 2촀ihmihr\0 ganz
+\0 es würde 2촀ihmihr\0 ganz
 herausragend stehen...\0\0(%촀\0Nun, 
 \0man kann niemanden zu
 seinem Glück zwingen, 
 \0n\0."
 "310","( 촀\0Oje, 
-\0dann fand 2촀ersie\0 nicht, dass es 2촀ihmihr\0
+\0dann fand 2촀ersie\0 nicht, dass es 2촀ihmihr\0
 steht? 
 \0(('촀\0Kleidung zu verschenken ist
 immer eine heikle Angelegenheit..."
@@ -322,20 +322,20 @@ ganz besonders.\0\0(촀\0Danke, dass du mir das erzählt hast,
 \0nicht wahr?"
 "402","(촀\0Wie ist es gelaufen? 
 \0((&촀\0Konnte das
-Geschenk 2촀ihnsie\0 besänftigen?"
+Geschenk 2촀ihnsie\0 besänftigen?"
 "402_a","Es war so..."
-"402_b","Weiß ich gar nicht..."
+"402_b","(\0촀\0Weiß ich gar nicht..."
 "403","(촀\0Wie ist es gelaufen? 
 \0((&촀\0Konnte das
-Geschenk 2촀ihnsie\0 besänftigen?"
+Geschenk 2촀ihnsie\0 besänftigen?"
 "403_a","(\0촀\0Hör mal zu..."
 "403_b","Keine Ahnung!"
 "404","(촀\0Was?! 
-\0((촀\0Aber 2촀
+\0((촀\0Aber 2촀
 seineihre\0 Reaktion war doch
 das Wichtigste an der ganzen Sache!\0\0(촀\0Wie soll ich denn jetzt herausfinden,
 \0
-ob 2촀ersie\0 noch wütend auf mich istn\0\0
+ob 2촀ersie\0 noch wütend auf mich istn\0\0
 \0?"
 "405","(촀\0Wie bitte?!
 \0(
@@ -353,7 +353,7 @@ geeignet, 
 \0einen Keil zwischen uns
 zu treiben, 
 \0n\0..."
-"407","(&촀\02촀ErSie\0 war nicht mehr böse auf mich?
+"407","(&촀\02촀ErSie\0 war nicht mehr böse auf mich?
 \0(
 (촀\0Das nimmt eine große Last von
 meinem Herzen!\0\0(촀\0Ich danke dir, 
@@ -368,14 +368,14 @@ Gegenstand anvertraut habe, 
 \0den
 s촀 vergessen hatte?\0\0(&촀\0Du hast ihn noch nicht
 zurückgebracht, 
-\0oder?\0\0()촀\02촀ErSie\0 vermisst ihn sicher schon, 
+\0oder?\0\0()촀\02촀ErSie\0 vermisst ihn sicher schon, 
 \0also
 gib ihn mir doch zurück, 
 \0damit ich
 ihn selbst abliefern kann."
 "503","(&촀\0Hast du immer noch das Paket für
 s촀, 
-\0das ich dir mitgegeben hatte?\0\0()촀\02촀ErSie\0 wartet womöglich sehnsüchtig
+\0das ich dir mitgegeben hatte?\0\0()촀\02촀ErSie\0 wartet womöglich sehnsüchtig
 darauf, 
 \0also gib es mir bitte zurück.
 \0
@@ -425,7 +425,7 @@ aufbürden, 
 \0
 n\0..."
 "510","(9촀\0Ich gebe zu, 
-\02:촀ein wütendereine wütende\0 s촀 kann furchterregend sein.\0\0(촀\0Aber ich muss wohl ernten, was ich
+\02:촀ein wütendereine wütende\0 s촀 kann furchterregend sein.\0\0(촀\0Aber ich muss wohl ernten, was ich
 gesät habe... 
 \0(*촀\0Wünsche mir Glück,
 
@@ -458,7 +458,7 @@ nur der Inhalt? 
 \0(n\0\0
 \0(촀\0Jetzt sag nicht, du
 hast es einfach aufgemacht?!\0\0(촀\0Das war an s촀 adressiert! 
-\0Hast du noch nie vom Postgeheimnis gehört?\0\0(촀\0Da werde ich 2촀ihmihr\0 einiges zu erklären
+\0Hast du noch nie vom Postgeheimnis gehört?\0\0(촀\0Da werde ich 2촀ihmihr\0 einiges zu erklären
 haben...
 \0 Reife Leistung, n\0!"
 "514","(&촀\0Was ist denn mit der Verpackung
@@ -477,7 +477,7 @@ hast, 
 "515","(&촀\0Was ist das? 
 \0(n\0\0
 \0(촀\0Du hast das
-Geschenk geöffnet?!\0\0(촀\0Wenn ich das so überreiche, wird 2촀ersie\0
+Geschenk geöffnet?!\0\0(촀\0Wenn ich das so überreiche, wird 2촀ersie\0
 noch wütender auf mich sein als
 vorher!\0\0(촀\0Das ist wirklich allerhand...
 

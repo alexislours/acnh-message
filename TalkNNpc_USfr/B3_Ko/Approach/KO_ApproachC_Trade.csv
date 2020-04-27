@@ -6,10 +6,10 @@ content de te voir!\0\0(3촀\0Enfin pour être précis,
 content de voir que tu possèdes 2\0}\0\0n\0\0\0\0(촀\0Que dirais-tu de procéder à
 un échange qui nous profiterait
 à tous les deux?\0\0()촀\0Voilà mon offre :
-\0 je te propose de 2촀lela\0 troquer contre 2\0}\0.
+\0 je te propose de 2촀lela\0 troquer contre 2\0}\0.
 \0(&촀\0 Alors?"
 "001_a","Ça oui!"
-"001_b","Euh..."
+"001_b","(\0촀\0Euh..."
 "002","(촀\0Tiens, je n'ai pas pu m'empêcher de
 remarquer que tu possédais 2\0}\0\0n\0\0\0\0(3촀\0Ça te dit de jouer à un petit jeu?
 
@@ -26,12 +26,12 @@ tu vas prendre la clé des champs?"
 \0 je me disais
 que tu saurais me dire où trouver ça.
 (촀\0Hein?!
-\0 Tu en as 2촀unune\0 sur toi?!
+\0 Tu en as 2촀unune\0 sur toi?!
 \0 (촀\0Dis,
 tu voudrais bien l'échanger contre
 2\0}\0?"
 "003_a","Bien sûr!"
-"003_b","Dans tes rêves!"
+"003_b","(\0촀\0Dans tes rêves!"
 "004","(촀\02\0n\0,
 \0 je suis au bout du rouleaun\0\0\0\0(7촀\0Je recherche désespérément 2\0}\0\0,
 \0 etn\0\0\0\0(촀\0Attendsn\0\0

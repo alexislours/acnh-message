@@ -7,7 +7,7 @@ la frutta di n!\0!"
 "001_b","(&촀\0Che vuoi dire?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(""촀\0Mi piace il tuo spirito avventuroso!
 \0
 (촀\0Provare le nostre n촁 non è da
@@ -61,10 +61,12 @@ uno, qui.
 però, è ancora ospitata in una tenda,
 \0(촀\0
 quindi preferisco non illudermi."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Come saprai, sulla nostra isola c'è
 un \0museo\0￿.
 \0( ()촀\0Ogni stanza ha un tema
@@ -85,82 +87,76 @@ di farci un salto, n\0."
  tra gli insetti esposti (촀\0è il mio preferito, n\0!(촀"
 "030","(촀\02\02\0
 
-\0 nel \0museo\0￿ della nostra isola (촀\0è davvero 2.(촀magnificomagnifica\0!\0\0(\0촀\0Per me
+\0 nel \0museo\0￿ della nostra isola (촀\0è davvero 2.)촀magnificomagnifica\0!\0\0(\0촀\0Per me
 \0 i fossili hanno un fascino
 misterioso. 
 \0(%촀\0C'è molto da imparare
 anche solo osservandoli."
-"101","<\0fj"
-"102","Dimmi, n\0,
-\0 (&촀\0ti sei 2,ambientatoambientata sulla tua isola?"
-"102_a","Sì, va alla grande!"
-"102_b","Non ancora del tutto."
-"102_c","Ehm..."
-"103","(촀\0Oh,
+"201","<\0ÊÎ"
+"202","Dimmi, n\0,
+\0 (&촀\0ti sei 2$abituatoabituata alla mia assenza, n\0?"
+"202_a","Sì, tutto a posto!"
+"202_b","Non ancora."
+"202_c","Ehm..."
+"203","(촀\0Oh,
 \0 che notizia fantastica!
-\0( ()촀\0A dire
+\0( (\0촀\0A dire
 il vero,
-\0 ero molto preoccupata per
-te quando sei 2 partitopartita.
-(\0촀\0Anche se,
-\0 sentirmi dire che sei felice
-senza di noin\0\0 (4촀\0mi fa sentire... ecco...
-un po' triste. 
-\0Lo so
-\0 che è sciocco.
-(\0촀\0Comunque sia, 
-\0(""촀\0vieni a farci visita
+\0 (%촀\0ero molto preoccupata per
+ten\0\0\0\0(\0촀\0Anche se,
+\0 sentirti dire che stai bene
+senza di me
+\0(7촀\0 mi fa sentiren\0\0 eccon\0\0
+un po' triste.\0\0(촀\0Comunque sia, 
+\0vieni a farmi visita
 quando vuoi.
-\0 Saranno tutti contenti
-di vederti.
-\0(촀\0 Me compresa, 
-\0ovviamente!"
-"104","( 촀\0Oh,
+\0 (\0촀\0È meraviglioso rivedere
+gli amici
+\0 ($촀\0ogni tanto, n\0."
+"204","( 촀\0Oh,
 \0 davvero?
-\0( ()촀\0Beh,
-\0 per queste cose
-ci vuole tempo. 
-\0Tu sei 2unouna che non
-molla, perciò ce la farai!
-(%촀\0Sì, è difficile abituarsi alle novità.
-
-\0Anche qui,
-\0 su quest'isola, le cose
-cambiano di continuo.
-\0 (촀\0È dura..."
-"105","(촀\0Così mi fai preoccupare!
-\0 Sei 2sicurosicura
-di stare bene, n\0?\0\0(촀\0Quando ti ho visto partire, 
-\0mi sono
-sentita come una mamma che vede
-i suoi piccoli volare via dal nidon\0\0
-(촀\0Su, non fare così!
-\0 Se sei triste,
-\0 non
-devi nasconderlo! Con me puoi
-anche piangere, lo sai."
-"106","(""촀\0Ascolta, n\0, 
-\0ora che hai lasciato la nostra isola e visto altri posti,
-\0 ho una domanda per ten\0\0\0\0()촀\0Dal tuo nuovo punto di vista, (&촀\0che
-cosa pensi di quest'isola? Sentiti
-2liberolibera di dire quello che vuoi."
-"106_a","È bellissima!"
-"106_b","(촀\0Ha del potenziale."
-"106_c","(촀\0Beh..."
-"107","(촀\0Quindi secondo te
-\0 n!\0 non ha niente da invidiare a tutte le altre isole!\0\0(촀\0Magnifico,
-\0 n\0! 
-\0Mi fa davvero molto piacere. 
-\0(촀\0Sono più che orgogliosa di questa nostra isoletta!"
-"108","( 촀\0Quindi
-\0 tu dici che alcune cose si
-potrebbero migliorare?
-\0( (%촀\0Beh,
-\0 credo
-che avremmo i mezzi per farlo!
-(\0촀\0Con l'aiuto di n\0 (5촀\0ci rimboccheremo le maniche e cambieremo quest'isola in meglio!\0\0(%촀\0Dal canto tuo, n\0, dovrai tornare per godere delle novità di n!\0!"
-"109","n\0\0(촀\0 Non ti piace,
-\0 eh?\0\0(촀\0Già, in fondo n!\0 è cambiata da quando ci vivevi tu.\0\0()촀\0Giorno dopo giorno, ora dopo ora,
-il tempo passa. 
-\0(('촀\0Non si può tornare
-indietro, n\0."
+\0( (촀\0Beh, conoscendoti
+direi che non ci metterai molto ad
+abituarti.\0\0(4촀\0Oh oh, 
+\0so cosa possiamo fare.
+\0( (\0촀\0Una
+bella chiacchierata!
+\0 (5촀\0Farai il pieno di
+me e poi non ti mancherò per un po'!"
+"205","(촀\0Oh no, 
+\0così mi fai preoccupare!
+Sei 2sicurosicura di stare bene,
+n\0?\0\0(촀\0Quando ho lasciato l'isolan\0\0
+ero sicura che non avresti avuto
+problemin\0\0\0\0(촀\0Su, non fare così!
+\0 Se sei triste,
+non devi nasconderlo! Con me puoi
+anche piangere, lo sai, n\0!"
+"206","A proposito, n\0,
+\0 (%촀\0ho una domanda per te.\0\0(9촀\0Se ti chiedessero un'opinione
+sincera su quest'isola, 
+\0(&촀\0tu cosa
+risponderesti, n\0?"
+"206_a","Che è bella!"
+"206_b","Che ha potenziale!"
+"206_c","Uhm..."
+"207","(촀\0Quindi sei d'accordo che n\0
+\0(촀\0 non ha nulla da invidiare alla mia vecchia isola?\0\0(촀\0Oh oh, 
+\0sentirtelo dire mi fa pensare
+di aver fatto la scelta giusta a
+trasferirmi qui, n\0."
+"208","( 촀\0Quindi tu dici che alcune cose si
+potrebbero migliorare? 
+\0(&촀\0Avere un
+margine di crescita è positivo, no?\0\0(촀\0Con l'aiuto di n\0 
+\0(5촀\0ci daremo da fare e cambieremo quest'isola in meglio, n\0!"
+"209","(촀\0Ehi, aspetta un attimo!
+\0( Non ti piace
+e non hai il coraggio di dirlo ad alta
+voce?!\0\0(촀\0Beh, anche se adesso viviamo su
+isole diverse, non significa che devi
+indorare la pillola!\0\0(4촀\0Anche se,
+\0 devo ammettere che
+\0 ho
+sempre apprezzato la tua gentilezza
+e i tuoi modi cortesi, n\0."

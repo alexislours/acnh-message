@@ -9,14 +9,12 @@ tien. 
 énigmatique, rien qu'à nous?"
 "001_a","(\0촁\0Ça marche!"
 "001_b","(\0촁\0Je passe mon tour."
-"002","(4촀\0Tu te souviens de notre salut perso? « ⁠2\0n\0Hello bellon »! (촀\0On le changen\0\0 ou pas?"
+"002","(4촀\0Tu te souviens de notre salut perso?
+« ⁠⁠2\0n\0Hello bellon ⁠»! (촀\0On le changen\0\0 ou pas?"
 "002_a","(\0촁\0On le change!"
 "002_b","(\0촁\0Ou pas!"
 "003","(6촀\0Hé, n\0!
-\0 J'ai une
-proposition qui me trotte dans la
-caboche depuis un moment...
-(&촀\0Si on se trouvait une phrase rien
+\0 J'ai une proposition qui me trotte dans la caboche depuis un moment...\0\0(&촀\0Si on se trouvait une phrase rien
 qu'à nous? 
 \0(촀\0Ce serait notre marque
 de fabrique, en quelque sorte!"
@@ -32,7 +30,8 @@ du qui en met plein la vuen\0\0 (촀\0Je sais!
 \0
 On va se trouver un salut particulier!
 (%촀\0Pour l'instant, on se contente de
-« 2\0n\0Hello bellon »n\0\0 (6촀\0Mais on peut faire mieux que ça!"
+« 2\0n\0Hello bellon »n\0\0 (6촀\0Mais on peut
+faire mieux que ça!"
 "004_a","(\0촁\0Je veux, qu'on peut."
 "004_b","(\0촁\0Non, c'est le top!"
 "005","( 촀\0Je pensais que l'idée constituait le
@@ -58,7 +57,7 @@ t'as en magasin?"
 \0 Mais d'abord, mettons-nous en
 situationn\0\0 (6촀\02\0n\0Hello bellon!\0\0(&촀\0Alors, c'est chic et choc, ou bof bof?"
 "101_a","Chic et choc!"
-"101_b","Bof bof..."
+"101_b","(\0촀\0Bof bof..."
 "102","(9촀\0OK.
 \0 Mais d'abord, mettons-nous en
 situationn\0\0 (6촀\02\0n\0Hello bellon!\0\0(촀\0Euhn\0\0 Si ma mémoire me prend

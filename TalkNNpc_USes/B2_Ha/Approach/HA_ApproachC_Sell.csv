@@ -69,10 +69,8 @@ hay que tonificarlo, n\0.
 "100_b","No compro"
 "101","(촀\0¡Sí!
 \0 ¡Trato hecho!"
-"102","(%촀\0¡Ahora es tu
-
-\0}\0\0,
-n\0!"
+"102","(%촀\0¡Ahora es tu 
+\0}\0\0, n\0!"
 "103","(촀\0¿Ah, sí?
 \0 (
 촀\0Bueno, ¿sabes una cosa?\0\0(촀\0Las bayas no me hacen falta,
@@ -102,7 +100,11 @@ Pensé que esto iba a ser más fácil\0,
 \0Z?"
 "201_a","Eso ya suena mejor"
 "201_b","Sigo pasando"
-"202","(촀\0¡Brutaaal!(""촀\0 ¡Que disfrutes de tu }\0\0, n\0!"
+"202","(촀\0¡Brutaaal!(""촀\0 ¡Que disfrutes de tu 2촀
+nuevo
+nueva\0
+}\0\0,
+\0 n\0!"
 "203","(""촀\0¡A disfrutar!
 \0
 (촀\0\0(Venta conseguida, n\0n\0\0).\0￿"
@@ -138,9 +140,10 @@ pasé un buen rato regateando
 contigo, n\0."
 "300","(촀\0¡¿De verdad?! ¿Te interesa?
 \0 (\0촀\0Tengo
-2\0}\0\0
-por, digamosn\0\0
-\0 ¿(&촀\0Z? "
+2\0
+\0}\0\0 por,
+\0 digamosn\0\0
+\0 ¿(&촀\0Z?"
 "300_a","Tenemos un trato"
 "300_b","No tenemos trato"
 "301","(촀\0¡Bien, pues trato hecho!"
@@ -160,18 +163,15 @@ por
 \0 (9촀\0Buenon\0\0
 \0
 (\0촀\0¡Mi }\0\0
-\0 por
-tus Z!
-\0 (&촀\0¿Tenemos un trato?"
+\0 por Z!
+\0 (&촀\0¿Tenemos un trato?"
 "304_a","Pues suena bien..."
 "304_b","(\0촁\0No suena muy bien..."
 "305","(촀\0¿Qué me dices?
 \0(9촀\0 Bueno.
-\0 ¡Mi última
-oferta, n\0!\0\0(\0촀\0¿Me compras 2\0
-}\0\0
-por Z
-\0(&촀\0?"
+\0
+¡Mi última oferta, n\0!\0\0(\0촀\0¿Me compras 2\0}\0\0
+\0 por Z(&촀\0?"
 "305_a","Hecho"
 "305_b","No, gracias"
 "306","Bueno, no importa. Además, podría

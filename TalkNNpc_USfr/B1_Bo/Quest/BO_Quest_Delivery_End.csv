@@ -1,7 +1,6 @@
 ﻿"label","text"
 "001","Attention n\0,
-\0( (;촀\0c'est
-l'heure du jeu-questionnaire!\0\0(촀\0Si tu réponds correctement,
+\0( (;촀\0c'est l'heure du jeu-questionnaire!\0\0(촀\0Si tu réponds correctement,
 \0 tu
 gagneras un super cadeau!\0\0(\0촀\0Voilà la question :
 \0 à ton avis,
@@ -28,21 +27,15 @@ Dommage!
 \0( (촀\0Mauvaise réponse!"
 "005","C'est pour toi!
 \0((촀\0 Hé oui, c'est 2\0}\0\0 que je viens de récupérer!"
-"006","2\02\0}\0\0 que j'avais oublié2촀\0e\0 est maintenant à toi, l2ea grand2\0e gagnant2\0e!"
-"007","2\02\0}\0\0 que j'avais commandé2촀\0e\0 est tout à toi, maintenant!"
-"008","(촀\0Merci pour la livraison,
-n\0, 
-\0c'était
-vraiment gentil de ta part.\0\0(""촀\0Passe le bonjour à
-s촁 pour moi,
-n\0!"
+"006","2\02\0}\0\0 que j'avais oublié2촀\0e\0 est maintenant à toi, l2ea grand2\0e gagnant2\0e!"
+"007","2\02\0}\0\0 que j'avais commandé2촀\0e\0 est tout à toi, maintenant!"
+"008","(촀\0Merci pour la livraison, n\0, 
+\0c'était vraiment gentil de ta part.\0\0(""촀\0Passe le bonjour à s촁 pour moi, n\0!"
 "009","(촀\0Dommage pour le jeu,
 \0 tu auras plus
 de chance la prochaine fois!
 \0 Merci
-d'être venu2\0e m'apporter ce paquet!\0\0(""촀\0Et passe le bonjour à
-s촁 de ma part,
-n\0!"
+d'être venu2\0e m'apporter ce paquet!\0\0(""촀\0Et passe le bonjour à s촁 de ma part, n\0!"
 "101","(촀\0Merci de t'être déplacé2\0e pour
 m'apporter ça, n\0!\0\0Ah, et passe le bonjour à
 s촁 de ma part!\0\0Tiens,
@@ -53,7 +46,7 @@ pour ta peine, n\0!"
 s촁, maintenant!\0\0(\0촀\0Et ça, c'est pour toi!
 \0((7촀\0 C'est pour
 te remercier."
-"103","(촀\0C'est 2\0}\0!\0\0(2촀\0Hé hé! 
+"103","(촀\0C'est une photo de moi!\0\0(2촀\0Hé hé! 
 \0C'est assez rare, alors
 prends-en bien soin, n\0!"
 "104","(촀\0J'espère que ça te plaît,
@@ -62,7 +55,7 @@ prends-en bien soin, n\0!"
 "105","(촀\02\02\0}\0!
 \0( (4촀\0Je pense que ça t'ira très bien.
 \0( Tu devrais l'essayer!"
-"106","(촀\02\02\0}\0, l2촀ea\0 r2촀oieine\0 de la collation!
+"106","(촀\02\02\0}\0, l2촀ea\0 r2촀oieine\0 de la collation!
 \0((촀\0 Je n'en donne qu'à mes meilleurs amis!"
 "107","(촀\0Merci pour la livraison, n\0.
 \0( C'était vraiment sympa de ta part!"
@@ -74,7 +67,7 @@ réconcilier avec s촁!"
 pour te remerciern\0\0
 \0((&촀\0 mais quoi?
 \0(
-(촀\0Ah oui, je sais!\0\0(7촀\0Je te donne 2\0}\0 que je portais! 2촀IlElle\0 est encore chaud2촀\0e\0!"
+(촀\0Ah oui, je sais!\0\0(7촀\0Je te donne 2\0}\0 que je portais! 2촀IlElle\0 est encore chaud2촀\0e\0!"
 "110","(촀\0Comment ça,
 \0 « non, merci »?
 \0( (\0촀\0Oh,
@@ -92,7 +85,7 @@ mode!
 \0( Ça faisait une éternité
 que j'avais prêté ça à
 s촁!"
-"202","2.촀Mon petitMa petite\0 }\0\0!\0\0(%촀\0Alors je l'avais oublié2촀\0e\0 chez s촁n\0\0
+"202","2.촀Mon petitMa petite\0 }\0\0!\0\0(%촀\0Alors je l'avais oublié2촀\0e\0 chez s촁n\0\0
 \0((촀\0 C'est tout moi, ça!"
 "203","(촀\0Quoi?
 \0( Mon colis a été livré chez
@@ -123,28 +116,22 @@ pour m'excuser et faire la paix!"
 \0(
 (촀\0Merci d'être venu2\0e me l'amener,
 n\0!"
-"207","(촀\0Moi qui croyais que je l'avais perdu2촀\0e\0
+"207","(촀\0Moi qui croyais que je l'avais perdu2촀\0e\0
 pour toujours!
 \0( Merci de me l'avoir
-ramené2촀\0e\0, n\0!"
+ramené2촀\0e\0, n\0!"
 "208","(
 촀\0Peut-être 2
-que qu'⁠s촁
-l'a ouvertn\0\0
-\0( 2IlElle a pas dû voir que
-c'était mon nom sur le colisn\0\0\0\0(촀\0Enfin,
+que qu'⁠s촁 l'a ouvertn\0\0
+\0( 2IlElle a pas dû voir que c'était mon nom sur le colisn\0\0\0\0(촀\0Enfin,
 \0 le contenu est en bon état,
 \0
 c'est le principal!\0\0(촀\0Merci de t'être déplacé2\0e exprès pour
 me l'apporter, n\0."
 "209","(촀\0Merci, n\0,
-\0 et passe
-le bonjour à s촁,
-n\0!"
+\0 et passe le bonjour à s촁, n\0!"
 "210","(%촀\0Merci mille fois, n\0!\0\0(촀\0Grâce à toi,
-\0 s촁 et
-moi, on va pouvoir se réconcilier,
-n\0!"
+\0 s촁 et moi, on va pouvoir se réconcilier, n\0!"
 "220","(
 촀\0Mais ça aurait été encore mieux
 \0 si
@@ -159,12 +146,10 @@ rien, hein!"
 \0( C'est toi qui l'as ouvert?!\0\0(\0촀\0Alors c'était bien emballé, en fait.
 \0(
 (%촀\0De la part 2
-de d'⁠s촁,
-ça m'étonnait, aussin\0\0\0\0(촀\0Puisque tu as été honnête,
+de d'⁠s촁, ça m'étonnait, aussin\0\0\0\0(촀\0Puisque tu as été honnête,
 \0 je te
 pardonne, n\0.
-\0
-Mais juste pour cette fois!"
+\0 Mais juste pour cette fois!"
 "222","(7촀\0Promets que tu ne recommenceras
 pas, d'accord?
 \0(9촀\0 C'est pas bien!"
@@ -175,9 +160,7 @@ te remercier pour ta peine,
 \0 c'est 
 2\0}\0."
 "224","(촀\0Merci, n\0,
-\0((\0촀\0 mais ne
-recommence pas à ouvrir les paquets
-des autres,
+\0((\0촀\0 mais ne recommence pas à ouvrir les paquets des autres,
 \0 d'accord?"
 "225","(%촀\0Emballer quelque chose qu'on rend,
 \0
@@ -226,21 +209,15 @@ de venir me l'apporter,
 \0 tu mérites
 quand même une récompense.\0\0(촀\0Tiens,
 \0 c'est 2\0}\0."
-"234","(촀\0Merci, n\0, mais il
-faut que tu perdes l'habitude
-\0 d'ouvrir
-les paquets des autres,
+"234","(촀\0Merci, n\0, mais il faut que tu perdes l'habitude
+\0 d'ouvrir les paquets des autres,
 \0 d'accord?"
 "235","(8촀\02\0n\0!
-\0( C'est pas parce
-qu'on est amis de festin
-\0 que ça te
-donne le droit d'ouvrir mes paquets!"
+\0( C'est pas parce qu'on est amis de festin
+\0 que ça te donne le droit d'ouvrir mes paquets!"
 "236","(촀\02\0n\0!
-\0( Tu peux pas
-ouvrir mes affaires comme ça!
-\0(
-Moi aussi, j'ai des secrets!"
+\0( Tu peux pas ouvrir mes affaires comme ça!
+\0( Moi aussi, j'ai des secrets!"
 "237","Enfin, 
 \0tu as été honnête, 
 \0(alors je

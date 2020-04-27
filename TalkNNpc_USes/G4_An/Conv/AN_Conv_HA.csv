@@ -58,9 +58,8 @@ cómo vivir tu vida. 
 es que seas feliz y punto."
 "011","(
 촀\0Oye, n촁n\0\0
-\0 tú que
-eres tan deportista, ¿en qué tipo
-de campeonato ganarías?"
+\0 tú que eres tan deportista,
+\0 ¿en qué tipo de campeonato ganarías?"
 "012","(촀\0¿Insinúas que hay algún tipo de
 campeonato en el que NO ganaría?\0\0(촀\0Con la de horas que entreno por
 semana, te garantizo que no hay
@@ -72,10 +71,9 @@ que se te dé mejor, ¿no?"
 \0 Soy un experto haciendo
 sentadillas, pero eso no cuenta como
 deporte, claro.
-(%촀\0También soy un experto en el bádmintonn\0\0
-\0 aunque no es un
-deporte tan extremo.
-(촀\0No sé, ¡no podría elegir uno solo!
+(%촀\0También soy un experto en el 촀n\0\0
+\0 aunque no es un deporte tan extremo.\0\0(촀\0No sé,
+\0 ¡no podría elegir uno solo!
 \0
 (촀\0초¿Tú cuál crees 촆que se me da
 mejor, n\0?(촀"
@@ -84,11 +82,12 @@ mejor, n\0?(촀"
 "014_c","¡Gimnasia rítmica!"
 "015","( 촀\0La natación, ¿eh? 
 \0Pues sí, creo
-que tienes razón.\0\0(촀\0Además, tengo la ventaja de que
+que tienes razón.\0\0촇(촀\0Además, tengo la ventaja de que
 mis músculos intimidan a los demás
 contrincantesn\0\0
-(촀\0Cuánta razón tienes, n\0."
-"016","(%촀\0Sí, la verdad es que sí das la pinta
+초(촀\0Cuánta razón tienes, n\0."
+"016","(%촀\0Sí,
+\0 촇la verdad es que sí das la pinta
 de campeón de natación, tú.\0\0(촀\0Y pensar que yo todavía nado con
 flotadoresn\0\0
 \0 ¡El deporte no es lo

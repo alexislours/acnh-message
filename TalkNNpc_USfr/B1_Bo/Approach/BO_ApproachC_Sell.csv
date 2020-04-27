@@ -5,7 +5,7 @@
 "001_a","(\0촀\0Combien tu en veux?"
 "001_b","Non merci, ça ira."
 "002","(촀\0Est-ce que ça te dirait de m'acheter
-un2촀\0e\0 magnifique }\0\0?"
+un2촀\0e\0 magnifique }\0\0?"
 "002_a","(\0촀\0À quel prix?"
 "002_b","Je m'en passerai."
 "003","(2촀\0Il y a un truc que j'ai vraiment envie
@@ -25,9 +25,9 @@ le ventre vide,
 sûrement parce que j'étais resté sans
 manger pendant toute une heure!\0\0()촀\0Bref,
 \0 il se trouve que j'en avais déjà
-un2촀\0e\0,
+un2촀\0e\0,
 \0 (&촀\0du coup je me demandais si tu
-voudrais pas me l2촀ea\0 rachetern"
+voudrais pas me l2촀ea\0 rachetern"
 "004_a","(\0촁\0Combien?"
 "004_b","J'en ai pas besoin."
 "005","(촀\0Ah bon, tant pis.
@@ -69,8 +69,8 @@ Non, merci."
 \0 merci, n\0!
 \0
 (촀\0Bien, procédons à l'échangen"
-"102","(촀\02\02\0}\0\0 est sûrement aussi heureu2촀xse\0 que
-moi que tu l'aies acheté2촀\0e\0!"
+"102","(촀\02\02\0}\0\0 est sûrement aussi heureu2촀xse\0 que
+moi que tu l'aies acheté2촀\0e\0!"
 "103","(8촀\0Ah bonn\0\0 Mais je peux quand même
 pas jeter ça à la poubelle,
 \0 ce serait
@@ -78,7 +78,7 @@ du gâchis!\0\0(촀\0Oh, et puis tu sais quoi? Je t'en fais
 cadeau!
 \0(촀\0 Qui a besoin de clochettes
 quand on a des amis comme toi?"
-"104","(%촀\0Avec toi, je sais que m2촀ona\0 joli2촀\0e\0 }\0\0 est entre de bonnes mains!"
+"104","(%촀\0Avec toi, je sais que m2촀ona\0 joli2촀\0e\0 }\0\0 est entre de bonnes mains!"
 "105","(촀\0C'est trop cher pour toi?
 \0 Tant pis,
 je vais voir si quelqu'un d'autre en
@@ -119,13 +119,11 @@ descends àn\0\0 Z?"
 "205_a","Marché conclu!
 Là, ça me va."
 "205_b","Encore trop cher.
-Hum... Je sais pas..."
+(\0촀\0Hum... Je sais pas..."
 "206","(촀\0Désolé, n\0,
-\0(촀\0 je peux
-pas descendre plus bas. 
+\0(촀\0 je peux pas descendre plus bas. 
 \0(\0촀\0Tant pis,
-\0
-on fera des affaires une autre foisn"
+\0 on fera des affaires une autre foisn"
 "207","(촀\0Hmmmn\0\0
 \0 (
 촀\0Je peux descendre à
@@ -142,8 +140,7 @@ J'en veux pas, en fait."
 "209","(촀\0Tu es vraiment doué2\0e en affaires,
 \0
 n\0!
-\0(6촀\0 Je devrais
-suivre ton exemple!"
+\0(6촀\0 Je devrais suivre ton exemple!"
 "210","(촀\0Dommagen\0\0
 \0(촀\0 Mais je me suis bien
 amusé à jouer au marchand avec toi!
@@ -180,7 +177,7 @@ Je prends!"
 "305","(촀\0Il me reste un dernier truc à vendre :
 \0
 2\0}\0\0.
-\0 ($촀\02촀IlElle\0 est à toi pour Z."
+\0 ($촀\02촀IlElle\0 est à toi pour Z."
 "305_a","Marché conclu!
 J'achète!"
 "305_b","Je m'en passerai.

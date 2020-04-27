@@ -12,12 +12,10 @@ Tu veux
 \0 jouer 
 \0avec moi ?
 x"
-"003","Salut n\0, c'est moi,
-
+"003","Salut n\0, c'est moi, 
 \0(n
 \0 !
-\0( J'avais envie
-de venir jouer avec toi !
+\0( J'avais envie de venir jouer avec toi !
 x"
 "004","Ouh ouh, n\0 !
 \0(
@@ -116,8 +114,7 @@ toi, 
 \0(촀\0 je me suis invité.
 \0
 (5촀\0Allez vas-y, n\0 !
-\0(촀\0 Fais-moi
-passer un moment inoubliable !"
+\0(촀\0 Fais-moi passer un moment inoubliable !"
 "210","(촀\0Il me semble quen\0\0
 \0 je voulais
 vraimentn\0\0
@@ -127,15 +124,13 @@ crois que j'ai complètement oublién"
 "211","(촀\0Tu veux jouer avec moi,
 n\0 ?"
 "211_a","Bien sûr !"
-"211_b","Ça ira."
+"211_b","(\0촀\0Ça ira."
 "212","(촀\02\0n\0 !
-\0((촀\0 Tu veux qu'on
-joue à un jeu, n\0 ?"
+\0((촀\0 Tu veux qu'on joue à un jeu, n\0 ?"
 "212_a","C'est parti !"
 "212_b","Pas pour l'instant."
 "213","(""촀\02\0n\0 !
-\0( Tu veux qu'on
-fasse un jeu, tous les deux ?"
+\0( Tu veux qu'on fasse un jeu, tous les deux ?"
 "213_a","D'accord."
 "213_b","Pas tout de suite."
 "214","(촀\0C'est pas graven\0\0

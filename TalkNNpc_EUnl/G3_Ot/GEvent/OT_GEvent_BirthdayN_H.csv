@@ -43,7 +43,7 @@ genoeg krijgen!
 leukste is als het aantal gasten en
 het aantal cadeaus hetzelfde zijnn"
 "006_a","(\0촀\0Ik heb iets voor je!"
-"006_b","Sorry, vergeten."
+"006_b","(\0촀\0Sorry, vergeten."
 "007","(촀\0Maak je geen zorgen,
 \0 dat geeft niet.
 \0(
@@ -52,7 +52,7 @@ herinneren op jouw verjaardagn"
 "008","(촀\0Lieve schat, maak je maar geen
 zorgen om mij.\0\0(4촀\0Dat je hier bent is al een cadeau op
 zich.
-\0 (촀\0Hoezeer ik ook 2< 촀een nieuweeen nieuwnieuwe
+\0 (촀\0Hoezeer ik ook 2<!촀een nieuweeen nieuwnieuwe
 촀 zou willenn"
 "009","(촀\0O, je bent het vast thuis vergeten.
 \0
@@ -94,11 +94,11 @@ ongemakkelijk.\0\0('촀\0Je had ook eigenlijk niet kunnen weten dat ik al 2
 zoiets moois zou ik er wel tien willen
 hebben!"
 "019","(촀\0Lieve deugdn\0\0 Wat een toeval!
-\0( (촀\02 촀DezeDitDeze 2촃}\0\0 2촀isiszijn precies 2<촀dezelfdehetzelfdedezelfde als 2촀diedatdie ik nu draag!\0\0(2촀\0Je weet in ieder geval wat ik mooi
+\0( (촀\02 촀DezeDitDeze 2촃}\0\0 2촀isiszijn precies 2<촀dezelfdehetzelfdedezelfde als 2촀diedatdie ik nu draag!\0\0(2촀\0Je weet in ieder geval wat ik mooi
 vind, zoveel is duidelijk."
 "020","(촀\0O, dat is fantastisch!
 \0 Voor 2\0}\0\0 kun je mij altijd wakker maken.\0\0(
-촀\0Wacht eens evenn\0\0 2:촀Hij komtHet komtZe komen me op
+촀\0Wacht eens evenn\0\0 2:촀Hij komtHet komtZe komen me op
 de een of andere manier bekend
 voorn\0\0\0\0(9촀\0Zeg, n\0, waar heb je toch de inspiratie opgedaan om dit te kiezen? Ik sta voor een raadseln"
 "021","(촀\0Meen je dat?
@@ -110,9 +110,9 @@ heb, maar ik ben je erg dankbaar!"
 "022","(촀\02\02\0}\0\0?
 \0 Voor mij? Weet je het heel zeker?\0\0(2촀\0Ik twijfel bijna of ik zoiets waardevols
 wel kan aannemenn\0\0 Bíjna.
-\0 Ik zal 2촀hemhetze
+\0 Ik zal 2촀hemhetze
 voor altijd koesteren!"
-"023","(촀\02\02\02&촀
+"023","(촀\02\02\02&촀
 mooiemooi
 mooie }\0\0 kan ik altijd waarderen!
 \0 Je bent een engel!"
@@ -143,7 +143,7 @@ niet in de bek.
 \0 (촀\0Ik zal zorgen dat ik
 dit opeet voordat het rot."
 "030","(촀\02\02\0}\0\0!\0\0(촀\0Bedankt, n\0.
-\0 2D촀Hij smaaktHet smaaktZe smaken vast heel lekker."
+\0 2D촀Hij smaaktHet smaaktZe smaken vast heel lekker."
 "031","(촀\0Hemeltjen\0\0
 \0 Is dit heus
 \0(촀\0 een
@@ -221,7 +221,7 @@ zou maken, is een geschenk van jou.\0\0(4촀\0Ik veronderstel toch niet te v
 Ik bedoel,
 \0 (&촀\0jij hebt toch zeker wel iets
 voor me meegenomen?"
-"061_a","(\0촀\0Maar natuurlijk!"
+"061_a","Maar natuurlijk!"
 "061_b","Sorry, helaas niet."
 "062","(촀\0Vandaag heb ik alles wat mijn hartje
 begeert.
@@ -256,7 +256,7 @@ het naar je zin hebt, nietwaar?
 \0 (촀\0Leuk
 dat je op verjaardagsvisite kwam."
 "068","(촀\0Hé, niet weggaan voordat ik je heb
-kunnen bedanken voor je komst!\0\0Dus ehn\0\0 (촀\0dank je wel!
+kunnen bedanken voor je komst!\0\0Dus, ehn\0\0 (촀\0dank je wel!
 \0 Ik ben erg blij
 dat je kon komen.
 \0 (%촀\0Hopelijk zie ik je

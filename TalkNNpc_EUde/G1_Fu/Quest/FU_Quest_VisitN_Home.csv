@@ -36,10 +36,8 @@ jeden Winkel gründlich aufgeräumt."
 \0(촀\0du hast dich
 an unsere Verabredung erinnert."
 "200","2\0n\0, 
-\0nun, da du hier
-bist, 
-\0($촀\0wollen wir nicht ein Spiel
-spielen?"
+\0nun, da du hier bist, 
+\0($촀\0wollen wir nicht ein Spiel spielen?"
 "200_a","Unbedingt!"
 "200_b","Hmm, heute nicht..."
 "201","(촀\0Oh! 
@@ -49,9 +47,8 @@ spielen?"
 "201_a","Klingt gut!"
 "201_b","Im Moment nicht..."
 "202","2\0n\0, 
-\0(촀\0wie wäre es,
-wenn wir ($촀\0ein Spiel zusammen
-spielen?"
+\0(촀\0wie wäre es, 
+\0wenn wir ($촀\0ein Spiel zusammen spielen?"
 "202_a","Würde mir gefallen!"
 "202_b","Nicht in Stimmung..."
 "203","(촀\0Das macht doch nichts.

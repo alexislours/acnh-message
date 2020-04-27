@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Ehi, ti va di giocare a un piccolo
 gioco con me, n\0?\0\0(\0촀\0Se vinci, (%촀\0io ti darò come premio
-2""촀il miola mia\0 }\0\0!"
+2""촀il miola mia\0 }\0\0!"
 "001_a","Va bene!"
 "001_b","Adesso no."
 "002","(촀\0Evvai!
@@ -27,12 +27,12 @@ mescola,
 giustan"
 "006_01","(촀\0Mitico, hai vinto!
 \0( (촀\0Perciò, come
-ti avevo promesso, ecco 2""촀il miola mia\0
+ti avevo promesso, ecco 2""촀il miola mia\0
 }\0\0."
 "006_02","(촀\0Caspiterina, ho perso!
-\0 (촀\0OK, ecco 2""촀il miola mia\0 }\0\0n\0\0
+\0 (촀\0OK, ecco 2""촀il miola mia\0 }\0\0n\0\0
 \0 o meglio, 
-\02""촀il tuola tua\0!"
+\02""촀il tuola tua\0!"
 "006_03","(촀\0Caspitina, ho vinto io, n\0!
 \0(\0\0(\0촀\0Mi spiace, niente premio per ten\0\0 
 \0(2촀\0Ma
@@ -60,14 +60,14 @@ diversi:
 \0 \0♥\0￿, \0♦\0￿, \0♠\0￿ e \0♣\0￿.
 ()촀\0Io ne pescherò una e tu dovrai
 indovinarne il seme.\0\0(\0촀\0Se lo indovini,
-\0 allora vincerai (""촀\02""촀il miola mia\0
+\0 allora vincerai (""촀\02""촀il miola mia\0
 }\0\0!\0\0(\0촀\0Ma se sbaglin\0\0 Uhmn\0\0 (&촀\0
 \0behn\0\0
 \0 
 \0non so!
 
 \0((<촀\0Dai, iniziamo, n\0!"
-"101","(=촀\0Bene,
+"101","Bene,
 \0 dimmin\0\0
 \02 (\0촀\0Quale sarà il seme
 della carta che ho pescato?
@@ -91,14 +91,14 @@ andata male!"
 "200","OK! ()촀\0Le carte che ho sono di 4 semi
 diversi: \0♥\0￿, \0♦\0￿, \0♠\0￿ e \0♣\0￿.\0\0()촀\0Io ne pescherò una e tu dovrai
 indovinare il colore del suo seme.\0\0(\0촀\0Se lo indovini,
-\0 allora vincerai (""촀\02""촀il miola mia\0
+\0 allora vincerai (""촀\02""촀il miola mia\0
 }\0\0!\0\0(\0촀\0Ma se sbaglin\0\0 Uhmn\0\0 (&촀\0
 \0behn\0\0
 \0 
 \0non so!
 
 \0((<촀\0Dai, iniziamo, n\0!"
-"201","(=촀\0Dunque,
+"201","Dunque,
 \0 dimmin\0\0
 \02(\0촀\0 di che colore è
 il seme della carta che ho appena

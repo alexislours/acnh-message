@@ -29,10 +29,20 @@ la superior o la inferior?"
 "002_b","Expón aquí mi diseño"
 "002_c","Solo estoy mirando..."
 "003","Es (촀\0«s촀», obra de s\0촀.\0\0(&촀\0Bien, ¿qué quieres hacer?"
+"003_01","Es (촀\0«s촀», obra de s\0촀.\0\0(&촀\0Bien, ¿qué quieres hacer?"
+"003_01_a","Quiero este diseño"
+"003_01_b","Expón aquí mi diseño"
+"003_01_c","Denunciar jugador"
+"003_01_d","Solo estoy mirando..."
 "003_a","Quiero este diseño"
 "003_b","Expón aquí mi diseño"
 "003_c","Solo estoy mirando..."
 "004","Es (촀\0«s촀», obra de s\0촀, de s촀.\0\0(&촀\0Bien, ¿qué quieres hacer?"
+"004_01","Es (촀\0«s촀», obra de s\0촀, de s촀.\0\0(&촀\0Bien, ¿qué quieres hacer?"
+"004_01_a","Quiero este diseño"
+"004_01_b","Expón aquí mi diseño"
+"004_01_c","Denunciar jugador"
+"004_01_d","Solo estoy mirando..."
 "004_a","Quiero este diseño"
 "004_b","Expón aquí mi diseño"
 "004_c","Solo estoy mirando..."
@@ -119,3 +129,14 @@ la actualización en la \0terminal Nook\0￿.
 para adquirirlan\0\0
 \0 ¡y luego podrás
 diseñar con más libertad!"
+"040","(%촀\0De acuerdo,
+\0 voy a quitar
+este diseño."
+"051","(촀\0Anda, n\0,
+\0 se ha sobrescrito el diseño que llevas puesto.\0\0()촀\0Pero no te preocupes,
+\0 porque
+tu vestuario no cambiará.\0\0(촀\0Si lo que quieres es vestir el nuevo
+diseño,
+\0 póntelo con la opción
+\0Equipar\0￿,
+\0 ($촀\0¡como siempre!"

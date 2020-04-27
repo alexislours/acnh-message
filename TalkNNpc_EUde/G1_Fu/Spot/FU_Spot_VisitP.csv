@@ -50,7 +50,7 @@ einfach plötzlich Lust, dich zu sehen."
 sich ein Abstecher zu dir angeboten.
 \0
 (촀\0Schön, dass ich dich antreffe!"
-"200","(촀\02""촀
+"200","(촀\02""촀
 EinenEineEin 2촁}\0
 hab ich dir mitgebracht!
 \0( (4촀\0Als Gast-
@@ -58,21 +58,21 @@ geschenk vielleicht etwas lausig..."
 "201","(촀\0Ach ja,
 \0 ich hätte hier eine
 Kleinigkeit für dich...
-\0 (촀\02""촀
+\0 (촀\02""촀
 EinenEineEin
 2촁}\0!"
 "202","(촀\0Ach ja,
 \0 hier hätte ich noch was...
 \0
-(촀\02""촀
+(촀\02""촀
 EinenEineEin 2촁}\0!
 \0
-(2촀\0Ich hoffe, 2촀ersiees gefällt dir."
+(2촀\0Ich hoffe, 2촀ersiees gefällt dir."
 "203","(4촀\0Ich weiß nicht, ob du so etwas gern
 magst,
 \0 aber ich hab es dir einfach
 mal mitgebracht...
-(촀\02\02""촀
+(촀\02\02""촀
 eineneineein 2촁}\0!\0\0(7촀\0Meine Mutter hat mir so viel von dem
 Zeug zugeschickt,
 \0 dass ich gar nicht
@@ -81,16 +81,15 @@ weiß,
 "204","(촀\0Hör mal,
 \0 ich habe hier etwas für dich!
 \0(
-(\0촀\02\02""촀
+(\0촀\02\02""촀
 eineneineein 2촁}\0!\0\0(촀\0Nichts Tolles, 
 \0aber vielleicht magst du es ja."
 "205","(촀\0Ein kleines Mitbringsel hab ich auch
-für dich dabei. 
-\0
-(\0촀\02\02""촀
-eineneineein 2촁}\0!
+für dich dabei.\0\0(\0촀\02""촀
+EinenEineEin 2촁}\0!
 \0(
-(4촀\0Ich hoffe, es schmeckt dir..."
+(4촀\0Ich hoffe, 
+\0es schmeckt dir..."
 "206","(4촀\0Normalerweise bin ich nicht so
 spontan...
 \0( (촀\0Aber solange ich nicht

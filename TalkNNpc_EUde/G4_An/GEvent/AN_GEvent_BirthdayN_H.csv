@@ -5,12 +5,14 @@ verschärft meinen Geburtstag
 zu rocken,
 \0 n\0?"
 "002","($촀\0Ja, locker!
-\0 2DerDie n\0 is'
-auch am Start!
-\0( Lass uns zu meinen
-Ehren heut derb auf den Putz hauen!"
-"003","(""촀\0Yo, Gänseblümchen. Ich hoffe,
-du bist gut vorbereitet, (5촀\0denn gleich
+\0 2DerDie n\0 is' auch am Start!
+\0( Lass uns zu meinen Ehren heut derb auf den Putz hauen!"
+"003","(""촀\0Yo, 
+\0Gänseblümchen. 
+\0Ich hoffe,
+\0
+du bist gut vorbereitet, 
+\0(5촀\0denn gleich
 startet die fetteste Party des Jahres!"
 "004","(;촀\0Echt schick, 
 \0wie sich die Gang hier
@@ -45,7 +47,7 @@ werden.
 \0 du hast
 ein Geschenk für mich am Start..."
 "006_a","Hab ich!"
-"006_b","Ganz schön frech..."
+"006_b","(\0촀\0Ganz schön frech..."
 "007","(촀\0Krasses Statement.
 \0( ((촀\0Aber kein Ding,
 die Hauptsache is' ja, dass du's
@@ -106,12 +108,12 @@ mal Süßes bringst
 \0 \0Kund nich' nur Saures\0d.
 \0(
 (촀\0Sieht echt hammerlecker aus!"
-"018","(촀\02촀Ein'neEin }\0\0?
+"018","(촀\02촀Ein'neEin }\0\0?
 \0(
 (촀\0Gahaha! Kennst mich echt gut.
 \0 Hab
 mir gestern erst so ein Teil besorgt!"
-"019","(&촀\02촀Ein'neEin }\0\0!?
+"019","(&촀\02촀Ein'neEin }\0\0!?
 \0(
 (촀\0Gahaha!
 \0 Hast schon gemerkt, dass
@@ -120,7 +122,7 @@ ich das gleiche Teil grad an hab?
 \0 (%촀\0Sollte ich mich mit
 Schoko einwutzen, kann ich mich
 direkt umziehen, und keiner merkt's!"
-"020","(&촀\02촀Ein'neEin }\0\0? 
+"020","(&촀\02촀Ein'neEin }\0\0? 
 \0((촀\0
 Ich werd verrückt!
 \0 Du hast ja genau
@@ -196,7 +198,7 @@ Mittagessen auch geregelt.
 "031","(촀\0Sag mal, 
 \0spinn ich,
 \0 oder schenkst du
-mir hier grad 'ne Anleitung für 2촀'nen'ne'n2촁
+mir hier grad 'ne Anleitung für 2촀'nen'ne'n2촁
 }\0\0?!\0\0(촀\0Das is' ja mal mächtig korrekt von
 dir!
 \0( (촀\0n\0\0'n bisschen ZU korrekt sogar,
@@ -214,7 +216,7 @@ hast du drauf, 
 Erwarte aber nich' zu viel.
 \0
 (촀\0Is' schließlich MEIN Geburtstag!
-(9촀\0Da haste 2X촀'nen popeligen'ne popeligeein popeliges
+(9촀\0Da haste 2X촀'nen popeligen'ne popeligeein popeliges
 2촁}\0.
 \0
 (6촀\0Ich untertreibe maßlos.
@@ -228,7 +230,7 @@ du an mich gedacht hast.
 \0
 Is' nix Besonderes, aber ich hoffe, du
 kannst trotzdem was damit anfangen.
-(촀\02촀Ein'neEin }\0!
+(촀\02촀Ein'neEin }\0!
 \0
 (촀\0Riesenapplaus für mich und meine
 abartig extreme Großzügigkeit!(촀"
@@ -275,7 +277,7 @@ wenn ich ein Geschenk von dir
 kriegen würde...
 \0 (6촀\0Zwinker, zwinker."
 "060_a","Schon verstanden."
-"060_b","Zwinker ruhig weiter..."
+"060_b","(\0촀\0Zwinker ruhig weiter..."
 "061","(7촀\0Ich muss echt sagen, all die
 astreinen Geschenke haben
 mich eiskalt erwischt.
@@ -360,17 +362,12 @@ bücher eingehn,
 \0 n\0!"
 "072","($촀\0Wie cool!
 \0 2\0n\0!
-\0( (촀\0Nie
-hätt ich's mir erträumt, 
-\0dass wir uns
-HIER über den Weg laufen würden!
-(9촀\0Was es Neues gibt? 
+\0( (촀\0Nie hätt ich's mir erträumt, 
+\0dass wir uns HIER über den Weg laufen würden!\0\0(9촀\0Was es Neues gibt? 
 \0Öhmn\0\0
 \0()촀\0 Also, 
 \0
-auf n\0 lässt sich's
-echt gut aushalten!
-(%촀\0Die Nachbarschaft rockt, 
+auf n\0 lässt sich's echt gut aushalten!\0\0(%촀\0Die Nachbarschaft rockt, 
 \0die
 Inselluft is' der Hit 
 \0uuundn\0\0\0\0(!촀\0Ein paar Hoschberts schmeißen mir,
@@ -434,4 +431,4 @@ ein Geschenk von dir,
 der Oberhammer, 
 \0n\0..."
 "100_a","Hier, bitte schön!"
-"100_b","Das ist jetzt doof..."
+"100_b","(\0촀\0Das ist jetzt doof..."

@@ -5,7 +5,7 @@
 "001_b","Non ne ho idea..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Félicitations! 
 \0(촀\0Gli amici mi chiedono
 sempre di portare loro 2\0n촁
@@ -38,10 +38,12 @@ un negozio così sull'isola!"
 e un sacco di cose in esposizione!
 \0
 (%촀\0È solo questione di tempo."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0Hai già visitato il nostro \0museo\0￿?
 \0
 ()촀\0Ha davvero molto da offrire.\0\0(촀\0Quando vado ci passo l'intera
@@ -60,49 +62,53 @@ la mia preferita!"
 grande orgoglio per la nostra
 isola. 
 \0E poi io li adoooro!"
-"101","<\0fi"
-"102","(촀\0Ora viviamo su isole diverse, peròn\0\0
-\0
-(4촀\0Ripensi mai a me e a quanto ci siamo
-2(divertitidivertite, n\0?"
-"102_a","Ma certo!"
-"102_b","Oh, ehm... cosa?"
-"103","(촀\0Oh, che piacere sapere che non
-sono l'unica! 
-\0(4촀\0Temevo di non essere
-stata un'amica memorabile per ten\0\0
-(2촀\0Ho anche scritto una poesia in
-ricordo dei cari vecchi tempin\0\0
+"201","<\0ÊÍ"
+"202","(촀\0So che ora viviamo su isole diverse,
 
-\0(촀\0Tu magari lo troverai très bizarre."
-"104","(촀\0Oh, scusa! 
-\0(촀\0Forse non avrei dovuto
-chiedertelo. 
-\0(촀\0Ma ciò dimostra che
-la tua nuova vita va a gonfie vele!
-()촀\0In molti consigliano di dimenticare
-il passato e di focalizzarsi solo sul
-presente e sul futuro.
-(촀\0Vorrà dire che cercherò di seguire
-il tuo esempio, 
-\0n\0n"
-"105","(4촀\0Non vorrei metterti in difficoltà,
-man\0\0
-\0 Pensi che sia cambiata molto
-dall'ultima volta che ci siamo 2
-visti
-viste?"
-"105_a","Sì, forse un pochino..."
-"105_b","Sei sempre la stessa!"
-"106","(촀\0Oh, l'hai notato! 
-\0Che gioia!\0\0(%촀\0Sai, ho cercato di migliorare la mia
-postura per sembrare più sicura di
-me. 
-\0L'ho letto in una rivistan\0\0
-(촀\0Sono feliiice che tu abbia notato
-un cambiamenton\0\0 Si vede che mi
-conosci bene!"
-"107","(촀\0Mi fa così piaceeere sentirtelo dire!\0\0(촀\0Mi sembrava di essermi ingobbita
-ultimamente e temevo che si notasse
-un po', n\0.
-(4촀\0Merci di avermi rassicuratan"
+\0man\0\0(4촀\0 ricordi quanto ci siamo divertit2ie
+insieme,
+\0 n\0?"
+"202_a","Certo!"
+"202_b","Mh, non saprei..."
+"203","(촀\0Oh,
+\0 sono così feliiice di non essere
+la sola!
+\0 (4촀\0Temevo di non essere stata
+\0
+un'amica memorabile pour toi.
+(2촀\0In realtà ho anche scritto delle poesie ispirate ai vecchi tempin\0\0
+(촀\0Avrò esagerato?"
+"204","(촀\0Oh!
+\0 (촀\0Excuse-moi, non volevo
+sembrare invadente.
+\0 (촀\0L'importante è
+che adesso siamo felici e soddisfatt2ie.
+()촀\0Ho letto molti articoli che consigliano di non pensare troppo al passaton\0\0
+Hourra pour le futur,
+\0 n\0!"
+"205","(4촀\0Non vorrei metterti in difficoltà,
+\0
+ma
+\0n\0\0 (;촀\0Credi che io sia cambiata molto
+\0
+dall'ultima volta che mi hai vista?"
+"205_a","Sì, forse un pochino..."
+"205_b","(촀\0Sei sempre la stessa!"
+"206","(촀\0Oh, l'hai notato, allora?
+(촀\0Uuuh,
+\0 sono così feliiice!\0\0(7촀\0In realtà,
+\0 sto cercando di migliorare
+la mia postura, per sembrare più
+sicura. (%촀\0L'ho letto in una rivista
+\0n\0\0
+(촀\0Tu mi conosci très bien
+\0 ed è (촀\0una
+gioia per me che tu l'abbia notato!"
+"207","(촀\0Mi fa piacere sentirtelo dire!\0\0(7촀\0Ho letto un articolo che parlava di
+postura
+\0 e mi sono allarmata. (촀\0Temevo
+di essermi ingobbita,
+\0 n\0.
+(4촀\0Odierei avere una postura che mi
+fa sembrare insicura
+\0n"

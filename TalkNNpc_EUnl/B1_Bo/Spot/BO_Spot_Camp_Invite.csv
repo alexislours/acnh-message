@@ -5,6 +5,12 @@
 wordt alles dubbel zo leuk!\0\0(촀\0Ik ga meteen bij de \0servicebalie\0￿
 vragen of ik op je eiland kan
 wonen, n\0!"
+"003","(9촀\0Weet je wat nóg leuker is dan
+uitgenodigd te worden om ergens
+te komen wonen?\0\0(촀\0Een heleboel keren te worden
+uitgenodigd!\0\0(촀\0Ik ga even checken bij de
+\0servicebalie \0￿of ik direct naar dit
+eiland kan verhuizen, n\0!"
 "101","<"
 "101_01","( 촀\0Huh?
 \0 Echt?!
@@ -89,7 +95,7 @@ niet naartoe ga verhuizen."
 \0ik ga niet
 verhuizenn"
 "205","<"
-"205_01","(촀\0Wat een leuk tijdsverdrijf. Hoe laat is
+"205_01","(촀\0Wat een leuk tijdverdrijf. Hoe laat is
 het eigenlijk?
 \0 Ik ben mijn besef van
 tijd kwijt, n\0."
@@ -103,36 +109,37 @@ het ziet, maar mijn hart bonkt nog
 steeds in mijn keel, n\0."
 "206","<"
 "206_01","Dat betekent
-\0(촀\0 dat jij wintn\0\0eh, 
-\0n\0!
-\0 Wat goed, zeg!\0\0(%촀\0Ik ga naar huis, pak al mijn snoep,
-beestjes en anderen spullen in
-\0 en
-dan kom ik hier wonen.\0\0(촀\0Als ik terug ben,
-\0 ben ik je buurman!
-\0(
-Ik kan haast niet wachten!"
+\0(촀\0 dat jij wint!
+\0 Wat goed!(
+촀\0
+Oké, dan moet ik nu wel nog de
+\0servicebalie\0￿ om toestemming vragen.(촀\0\0\0Als ze die geven, dan ga ik naar huis,
+pak al mijn snoep, beestjes en
+andere spullen in
+\0 en kom hier wonen.\0\0(촀\0Ik kan haast niet wachten, n\0!"
 "206_02","(촀\0Jij wint!
-\0( (촀\0Oké, dat betekent dat ik op
-n\0 kom wonen!\0\0(7촀\0Ik wilde stiekem heel graag hier
-wonen,
-\0 dus ik maakte me zorgen dat
-je zou verliezen!\0\0(촀\0Poeh, probleem opgelost!
-\0 We worden
-buren! Jeee!\0\0(%촀\0En je heet toch, n\0?
-\0 Heerlijk!"
-"206_03","(촀\0Dan heb je gewonnen!
-\0( (\0촀\0(촀\0Ik kom dus
-hier wonen!
-\0 Echt!(\0촀\0 Hoe heet je?
-2\0n\0?\0\0(""촀\0Mijn naam is n
-\0 
-\0en ik ben 2\0n\0 
-\0en ik ben dol op chocolade. 
-\0(Hoi.\0\0(%촀\0Ik moet maar snel mijn oma bellen
-\0
-om uit te leggen waarom ik later ben
-voor het avondeten, n\0."
+\0( (9촀\0Oké, dan moet ik nun\0\0
+\0((촀\0
+\0 O ja!
+
+\0De \0servicebalie\0￿ om toestemming
+vragen!
+\0 Hopelijk mag het.\0\0(7촀\0Ik wilde hier al komen wonen voordat
+we het spel speelden en ik hoopte zo
+dat je zou winnen!\0\0(1촀\0En nu is het bijna zover. Ik ben zo
+blij, het lijkt wel alsof ik een ton vol
+촀 heb gewonnen!\0\0(%촀\0Als de \0servicebalie \0￿ja zegt, worden
+we dus misschien wel buren! 
+\0((촀\0Gaaf,
+n\0!"
+"206_03","(촀\0Dan heb je gewonnen!\0\0(9촀\0Oké, oké, oké! 
+\0Rustig aan.
+\0 Ik moet
+eerst nog toestemming krijgen van
+de \0servicebalie\0￿.\0\0( 촀\0O!
+\0 En ik moet mijn oma bellen om uit
+te leggen waarom ik later ben voor
+het avondeten, n\0."
 "302","(촀\0Sorry voor het wachten!
 \0( Ik ben bij de
 \0servicebalie \0￿geweestn\0\0\0\0()촀\0Ze zeiden dat er geen plek meer is
@@ -170,10 +177,14 @@ zal ik dan toe gaan?"
 \0 Dan moeten we
 het maar opgeven, n\0."
 "309","(촀\0Ik heb het geprobeerdn\0\0
-\0 Ik heb iemand gevraagd of 2촀hijze\0 wil verhuizen
-voor een persoon die 2촀hijze\0 niet kent.\0\0Enn\0\0 s촀 heeft ja gezegd!\0\0()촀\02촀HijZe\0 wilde al verhuizen, want 2촀hijze\0 slaapt
+\0 Ik heb iemand gevraagd of 2촀hijze\0 wil verhuizen.\0\0(촀\0Voor mij, 
+\0n
+\0, 
+\0iemand die 2촀hijze\0 niet eens kentn\0\0\0\0(촀\0O, trouwens, ik ben n
+\0. 
+\0Hoi.\0\0Enn\0\0 s촀 heeft ja gezegd!\0\0()촀\02촀HijZe\0 wilde al verhuizen, want 2촀hijze\0 slaapt
 zo slecht vanwege de giechelbuien
-die 2촀hijze\0 krijgt van de nachtclowns.\0\0(9촀\0Ik durfde niet te vragen wat 2촀hijze\0
+die 2촀hijze\0 krijgt van de nachtclowns.\0\0(9촀\0Ik durfde niet te vragen wat 2촀hijze\0
 bedoelde,
 \0 dus ik heb maar geknikt
 en geglimlacht.\0\0(촀\0Maar goed, ik kan hier wonen!
@@ -189,31 +200,16 @@ toe kan gaan?"
 "312","(촀\0Geeft niet!
 \0( Misschien lukt het een
 andere keer."
-"402","(촀\0Sorry voor het wachten!
-\0( Ik ben naar
-de personen van de \0servicebalie
-\0￿gegaan om te praten over verhuizen.\0\0(촀\0Die lui leken te schrikken toen ze me
-zagen.(촀\0 Ze hadden het over tijdreizen
-en botsende dimensies of zoiets!\0\0(촀\0Verder waren ze best aardig.
-\0 Ik word
-in de gaten gehouden zodat me niks
-gebeurt
-\0 en ze betalen mijn terugreis.\0\0(\0촀\0Wie weet komen we ooit op hetzelfde
-eiland te wonen
-\0 als ze dat met die
-dimensies hebben uitgevogeld."
-"403","(촀\0Hé!
-\0( Ik ging naar de \0servicebalie \0￿
-\0enn\0\0
-\0
-(촀\0ze zeiden dat er hier al iemand komt
-te wonen die op mij lijkt.\0\0(\0촀\0Maf, hè?
-\0 Maar wat leuk is aan maffe
-dingenn\0\0(촀\0
-\0 is dat je ze nog veel maffer
-kunt maken.\0\0(촀\0Misschien wil die dubbelganger wel
-eilanden delenn\0\0 Dan wisselen we
-steeds wie op welk eiland woont."
+"313","(촀\0Jeee!
+\0 Hé, vind je het goed als ik met s촀 ga praten over een ruil?\0\0(4촀\0Iemand bij de \0servicebalie\0￿ had het
+over 2zijnhaarn"
+"313_a","Ga je gang!"
+"313_b","Nee, doe maar niet."
+"314","( 촀\0Ehn\0\0 M-Maar ik dacht d-datn\0\0
+\0(
+(촀\0Nou, goed dan.
+\0 Dan vergeten we
+het maar, n\0."
 "404","Ik ben bij de \0servicebalie\0￿ geweest,(:촀\0
 \0
 maar(촀\0 het eiland is helemaal vol, dus
@@ -221,20 +217,14 @@ ik kan er niet meer bij!\0\0(촀\0Helaas pindakaas.
 \0((\0촀\0 Misschien komen
 we ooit nog eens op hetzelfde eiland
 te wonen, n\0."
-"405","Bij de \0servicebalie \0￿(:촀\0
-\0zeiden zen\0\0(촀\0 dat er
-geen plek is om nieuwe huizen te
-bouwen.(촀\0 Ik kan hier dus niet wonen!\0\0(촀\0Echt jammer, maar niks aan te doen.
-\0(
-(\0촀\0Ik hoop dat we ooit op hetzelfde
-eiland kunnen wonen, n\0."
 "406","(촀\0Dusn\0\0 ik heb gebabbeld met die
 personen achter de \0servicebalie
 \0￿enn\0\0
 \0 (촀\0
 \0ik mag hier komen wonen!(촀\0\0\0(촀\02\0n\0!
-\0 Vanaf morgen zijn we buren!
-\0( Dan kunnen we elkaar dus iedere dag zien!"
+\0 Ik ben je nieuwe buurman, n
+\0.
+\0( Nu kunnen we elkaar iedere dag zien!"
 "410","(
 촀\0Zal ik het nog een keer gaan vragen?
 \0<
@@ -248,20 +238,6 @@ personen achter de \0servicebalie
 niet zo snel van gedachten.
 \0( (촀\0Wie weet
 lukt het een andere keer!"
-"421","(
-촀\0Beetje raar dit allesn\0\0
-\0 maar hoe meer
-ik erover nadenk, hoe meer ik ervan
-vergeet.\0\0($촀\0Het is jammer dat ik niet hier kan
-wonen, maar cool dat je het vroeg."
-"422","(
-촀\0Als ik en die andere jongen dan van
-plek wisselen,
-\0 moeten we dag en
-nacht doen alsof we elkaar zijnn\0\0\0\0(%촀\0Maar om je te laten weten wanneer ik
-het ben,
-\0 zal ik nooit met mijn ogen
-knipperen als ik voor je sta."
 "423","(%촀\0Er zijn zoveel vrienden op jouw
 eiland dat er geen ruimte meer is!
 \0
@@ -269,11 +245,6 @@ eiland dat er geen ruimte meer is!
 \0
 ($촀\0maar het is fijn om te weten dat je
 mij er ook bij wilde, n\0!"
-"424","(%촀\0Jouw eiland zit zo vol dat er helemaal
-niemand meer bij past!(촀\0
-\0 Echt jammer.\0\0(\0촀\0($촀\0Toch bedankt dat ik hier mocht
-kamperen. Ik vond het heel leuk,
-n\0!"
 "504","(촀\0Jouw eiland is fijn!
 \0 De bewoners zijn
 aardig,
@@ -297,7 +268,7 @@ beter kennen."
 \0 ook
 al krijg je hier geen kleurplaat terwijl
 je op je pannenkoek zit te wachten."
-"507_a","Kom hier dan wonen!"
+"507_a","Kom dan hier wonen!"
 "507_b","Lief dat je dat zegt."
 "508","(촀\0Wat een cool idee!
 \0( (7촀\0Daar ga ik een

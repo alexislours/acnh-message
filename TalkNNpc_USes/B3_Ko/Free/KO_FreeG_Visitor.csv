@@ -9,7 +9,7 @@ aquí en n\0?"
 "001_b","(\0촀\0No, ni idea"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0¿En serio?
 \0 ¿2B촀El celebérrimoLa celebérrima\0 n촀?
 \0 (6촀\0Bueno,
@@ -69,13 +69,15 @@ Bueno,
 \0 y espero
 (촀\0que vuelvas a visitarnos cuando
 tengamos un recinto decente."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(3촀\0Te cuento algo,
 \0 acá entre nosn\0\0
-El \0museo \0￿de n\0 tiene una política de excelencia, ¿sabes?\0\0(%촀\0¡Eso quiere decir que  fue construido
+El \0museo \0￿de n\0 tiene una política de excelencia, ¿sabes?\0\0(%촀\0¡Eso quiere decir que fue construido
 con visión de futuro para reunir una
 enorme variedad de valiosos objetos!
 (촀\0En unos cuantos añitos será como
@@ -117,50 +119,45 @@ muy notables.
 (촀\0Pues sí,
 \0 ¡en comparación yo no soy
 más que un chiquillo!"
-"101","<\0fi"
-"102","Disculpa que te haga una pregunta
-un tanto indiscreta.
-\0 (&촀\0¿No extrañas
-vivir aquí en n\0?"
-"102_a","(\0촀\0Un poco"
-"102_b","(\0촀\0No, la verdad no"
-"103","(촀\0¿Solo un poco?
-\0 Anda,
-\0 no ocultes
-tus sentimientos.
-\0 Prometo no
-contárselo a nadie.
-(촀\0Bueno,
-\0 no puedo forzar una
-confesión de sentimientos.
-\0 (촀\0Pero
-visítanos cuando quieras,
-\0 ¿sí?"
-"104","(촀\0Así que tu espíritu no conoce
-la nostalgia,
-\0 ¿eh?
-\0 (6촀\0A mí me parece
-que te gusta hacerte 2<el indiferentela indiferente.
-(1촀\0Eso o simplemente te va muy
-bien en tu nueva isla,
-\0 (촀\0cosa
-que me alegra."
-"105","(촀\0Anda,
-\0 pero si es n\0,
-\0
-2ella que nos dejó abandonn\0\0 Eh,
-\0 esten\0\0\0\0(촀\0¿Cómo te tratan en tu nueva isla?"
-"105_a","¡Genial!"
-"105_b","No me tratan mal..."
-"105_c","¡Buaaah!"
-"106","(촀\0¡Me alegro!
+"201","<\0ÊÍ"
+"202","(
+촀\0Permíteme una pregunta un tanto
+indiscreta.\0\0(&촀\0¿Qué te trae por n\0, el turismo o venir a charlar conmigo?"
+"202_a","(\0촀\0¡Quería verte!"
+"202_b","(\0촀\0Me gusta esta isla"
+"203","(촀\0¿Lo dices en serio?
+\0 Fíjate que
+lo insinuaba en broman\0\0
+\0(촀\0 Pero no te
+preocupes:
+\0 no se lo contaré a nadie.
+(촀\0Me halaga que disfrutes tanto de
+mi compañía, 
+\0así que ya sabes:
+\0
+¡ven a verme cuanto quieras!"
+"204","(촀\0Me lo tenía que haber imaginado, sí.
+\0
+(6촀\0A menos que te estés haciendo 2ella
+misterios2oa como para disimular.
+(%촀\0Sea lo que sea, me alegra tenerte
+por aquí. 
+\0(촀\0¡Ya sabes que eres más
+que bienvenid2oa en la isla!"
+"205","(촀\0¡Vaya,
+\0 pero si es n\0!
+\0 (촀\0Dime, ¿qué tal te tratan en mi antigua isla?"
+"205_a","¡Genial!"
+"205_b","No me tratan mal..."
+"205_c","¡Buaaah!"
+"206","(촀\0¡Me alegro!
 \0 Aunque tampoco me
 sorprende,
-\0 porque sabía que te
-iría bien en cualquier lugar.\0\0(촀\0Pero no te olvides de tus amigos de n\0
-\0 (""촀\0¡y ven a vernos
-cuando quieras!"
-"107","(촀\0¿Y eso?
+\0 (6촀\0porque a ti te va bien
+en cualquier lugar.
+(촀\0Pero no te olvides de que n\0 existe, ¿eh?
+\0 (""촀\0¡Ven a verme de vez en cuando!"
+"207","(촀\0¿Eh?
 \0 Bueno,
 \0 espero que lo
 digas en sentido literal,
@@ -169,11 +166,11 @@ digas en sentido literal,
 que no te pasa nada malo.
 (촀\0Pero confío en que te pueda ir aún
 mejor.\0\0(5촀\0O haz como yo,
-\0 que voy adonde
+\0 que voy allí donde
 me lleva el viento y fluyen ríos de
 촀,
 \0 (촀\0¡ja, ja, ja!"
-"108","(촀\0Ayn\0\0
+"208","(촀\0Ayn\0\0
 \0 Lo siento,
 \0 ¿toqué algún
 tema delicado?\0\0(
@@ -181,7 +178,6 @@ tema delicado?\0\0(
 \0 respira aire
 fresco,
 \0 búscate un pasatiempon\0\0\0\0Como 촀,
-\0 por
-poner un ejemplon\0\0
-\0 (촀\0Simplemente
-relájate, no sufras."
+\0 por decir un ejemplon\0\0
+\0 (촀\0Simplemente relájate,
+\0 no sufras."

@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(촀\0Merci voor het terugbrengen van wat onze 2&촀vriendvriendin\0 s촀 mij had geleend."
+"001","(촀\0Merci voor het terugbrengen van wat onze 2&촀vriendvriendin\0 s촀 mij had geleend."
 "002","(촀\0Zeg, je hebt dat ding dat ik geleend had van s촀, weer teruggegeven?\0\0(촀\0Een pak van mijn hart.
 \0 Vriendelijk
 bedankt voor je hulp."
@@ -85,9 +85,9 @@ meer over te maken. (촀\0Dank je wel!"
 me niet zo.
 \0 (촀\0Nogmaals bedankt voor
 je hulp in ieder geval."
-"103","(&촀\0Zeg, had s촀 zich erge zorgen gemaakt? Zei 2촀hijze\0 nog iets dat het vermelden waard is?"
+"103","(&촀\0Zeg, had s촀 zich erge zorgen gemaakt? Zei 2촀hijze\0 nog iets dat het vermelden waard is?"
 "103_a","Dat zal ik je vertellen."
-"103_b","Oeps, vergeten."
+"103_b","(\0촀\0Oeps, vergeten."
 "104","(촀\0Vertel eens, hoe was de reactie van
 s촀?"
 "104_a","(\0촀\0Eh, dus eigenlijk..."
@@ -116,8 +116,8 @@ gewacht.
 dan ook meteen?
 (촀\0Ik heb het duidelijk helemaal
 verprutst!"
-"109","(%촀\0Zie je wel? Ik wist dat 2촀hijze\0 geen flauw
-benul had dat 2촀hijze\0 iets bij mij had
+"109","(%촀\0Zie je wel? Ik wist dat 2촀hijze\0 geen flauw
+benul had dat 2촀hijze\0 iets bij mij had
 laten liggen.\0\0(5촀\0Dankzij jouw hulp is deze hele zaak snel afgehandeld.
 \0 (촀\0Bedankt, n\0."
 "201","(촀\0Nu je het zegt.
@@ -131,7 +131,7 @@ engel, n\0!"
 \0 s촀 was vast erg dankbaar dat je het bezorgde.
 \0 ($촀\0Vertel me alles."
 "203_a","Zal ik doen..."
-"203_b","Ik ben het vergeten..."
+"203_b","(\0촀\0Ik ben het vergeten..."
 "204","(촀\0En? 
 \0Zei s촀 nog iets over het pakketje dat het vermelden waard is?"
 "204_a","(\0촀\0Om eerlijk te zijn..."
@@ -167,19 +167,19 @@ is gekomen.
 "301","(촀\0Hartelijk dank dat je dat presentje voor s촀 even wilde bezorgen."
 "302","(&촀\0En?
 \0 Viel het in de smaak?"
-"302_a","Ik zal het je vertellen..."
+"302_a","(\0촀\0Ik zal het je vertellen..."
 "302_b","Weet ik niet meer."
 "303","(&촀\0En?
-\0 Hoe reageerde 2촀hijze\0?"
+\0 Hoe reageerde 2촀hijze\0?"
 "303_a","(\0촀\0Het zit zo..."
-"303_b","Eh, vergeten."
+"303_b","(\0촀\0Eh, vergeten."
 "304","(촀\0Hoe presteer je dat?
 \0 Had je soms je
 vingers in je oren en je ogen dicht?
 \0
 (촀\0Dit gaat me de hele dag dwarszitten!
 (촀\0Pfff, er zit weinig anders op dan dat
-ik 2촀hemhaar\0 zelf vraag wat 2촀hijze\0 ervan vond.
+ik 2촀hemhaar\0 zelf vraag wat 2촀hijze\0 ervan vond.
 \0
 2\0n\0n"
 "305","(촀\0Neen\0\0
@@ -199,7 +199,7 @@ besteed aan het uitzoeken van het
 perfecte pakpapier!
 (촀\0Hopelijk is s촀 barmhartig genoeg om het me niet kwalijk te nemenn"
 "307","(&촀\0Dus s촀 probeerde het gelijk uit?
-\0 (촀\0Dan moet 2촀hijze\0 het wel heel leuk gevonden hebben.
+\0 (촀\0Dan moet 2촀hijze\0 het wel heel leuk gevonden hebben.
 \0 Mooi zo!"
 "308","(촀\0O, fantastisch.
 \0 Zo te horen was het
@@ -264,17 +264,17 @@ verslagje?"
 \0 Hoe ging het?
 \0 Wat zei s촀?
 \0( (&촀\0Is 2hijze nog steeds boos op me?"
-"402_a","Nou, het ging zo..."
+"402_a","(\0촀\0Nou, het ging zo..."
 "402_b","Ik weet het niet meer."
 "403","(촀\0O, ik durf het haast niet te vragen, maar was s촀 nog steeds boos op me?"
 "403_a","(\0촀\0Eigenlijk..."
-"403_b","Glad vergeten..."
+"403_b","(\0촀\0Glad vergeten..."
 "404","(촀\0Dit kun je niet menen!
 \0 Maar dat was
 het allerbelangrijkste,
 \0 (촀\0het hele punt
 van het cadeau, n\0!\0\0(촀\0Pfffn\0\0
-\0 Hoe weet ik nu of 2촀hijze\0 nog
+\0 Hoe weet ik nu of 2촀hijze\0 nog
 steeds boos op me is?
 \0 (촀\0Ik zal er wel
 nooit achter komenn"
@@ -290,9 +290,9 @@ stukken gescheurd?
 dat nadat ik al die moeite gedaan
 hebn\0\0
 (	촀\0Ik wilde mijn verontschuldigingen
-aanbieden aan een 2&촀vriendvriendin\0, maar nu
+aanbieden aan een 2&촀vriendvriendin\0, maar nu
 moet jij je bij mij verontschuldigen!"
-"407","(&촀\0Dus ehn\0\0 2촀HijZij\0 is niet meer boos op
+"407","(&촀\0Dus, ehn\0\0 2촀HijZij\0 is niet meer boos op
 me?
 \0 (촀\0Pfff, wat een opluchting.\0\0(촀\0Bedankt dat je me hebt geholpen bij
 mijn verzoening.
@@ -300,7 +300,7 @@ mijn verzoening.
 wel weer in orde is."
 "501","(
 촀\0Nog even over dat ding dat ik van
-s촀 had geleendn\0\0 (&촀\02촀HijZe\0 heeft het nog niet terug, toch?\0\0()촀\0Ik zat te denken dat ik zoiets
+s촀 had geleendn\0\0 (&촀\02촀HijZe\0 heeft het nog niet terug, toch?\0\0()촀\0Ik zat te denken dat ik zoiets
 misschien toch beter in eigen
 persoon kon doen."
 "502","(&촀\0Weet je nog dat ik wilde dat je iets
@@ -311,7 +311,7 @@ zelf. 
 "503","(&촀\0Je hebt nog steeds het pakketje dat
 je bij s촀 zou bezorgen, toch?\0\0()촀\0Als je het niet erg vindt, breng ik het
 zelf wel even.
-\0 Ik weet dat 2촀hijze\0 erop
+\0 Ik weet dat 2촀hijze\0 erop
 aan het wachten is."
 "504","(8촀\0Lieve schat, vergis ik me of heb je
 nog steeds het cadeautje dat je aan
@@ -418,7 +418,7 @@ er wel wat op."
 "519","(촀\0Maar hoe kun je het nou kwijtraken?
 \0
 (	촀\0Dat cadeautje was bedoeld voor
-s촀!\0\0(촀\0Ik had het 2촀hemhaar\0 ook gewoon zelf
+s촀!\0\0(촀\0Ik had het 2촀hemhaar\0 ook gewoon zelf
 moeten geven.
 \0 O, niets meer aan te
 doenn"

@@ -37,7 +37,7 @@ objets,
 tous,
 \0 hein!
 \0 (촀\0J'en garde à soulever!"
-"005_a","Y'aurait bien un truc..."
+"005_a","(\0촁\0Y'aurait bien un truc..."
 "005_b","Non, j'ai besoin de rien."
 "006","(&촀\0Y'a des objets qui te plaisent,
 \0 chez
@@ -71,11 +71,11 @@ que mes goûts sont un peu trop
 musclés pour toi, n\0!"
 "100","(촀\02\02\0}\0\0?
 \0
-(촀\02<촀Il est beauElle est belle\0,
+(촀\02<촀Il est beauElle est belle\0,
 \0 n'est-ce pas?\0\0(7촀\0J'y suis très attaché,
 \0 mais si tu
 insistes,
-\0 je peux te 2촀lela\0 céder
+\0 je peux te 2촀lela\0 céder
 contren\0\0 (촀\0Z\0!(촀"
 "100_a","OK, je l'achète!"
 "100_b","Non, je vais m'en passer."
@@ -101,12 +101,12 @@ sur toi,
 \0 on dirait.
 \0 Désolé,
 \0 (촀\0je peux pas
-te 2촀lela\0 céder gratis. 2\0n\0."
+te 2촀lela\0 céder gratis. 2\0n\0."
 "200","(촀\0Profite bien de ta nouvelle
 acquisition!"
 "201","(촀\0Voilà!
 \0 Marché conclu,
-\0 2촀ilelle\0 est à toi."
+\0 2촀ilelle\0 est à toi."
 "202","(촀\0Merci!
 \0 C'est un plaisir de faire
 des affaires avec toi!"
@@ -116,12 +116,12 @@ les traces de sueur dessus,
 \0 elles
 ne partent plus!"
 "204","(7촀\0Fais-y attention :
-\0 traite-2촀lela\0 avec
+\0 traite-2촀lela\0 avec
 autant de soin que si c'était ton
 tapis roulant d'exercice préféré!"
 "205","(%촀\0Quel crève-cœur de s'en séparern\0\0
 (""촀\0Mais un marché est un marché.
-2촀IlElle\0 est à toi!"
+2촀IlElle\0 est à toi!"
 "206","( 촀\0Oh!
 \0 Mais tes poches sont pleines!
 \0
@@ -147,15 +147,15 @@ compagnie n'est pas à vendre!"
 \0
 (
 촀\0Je peux pas faire ça,
-\0 2촀ilelle\0 m'a appris
+\0 2촀ilelle\0 m'a appris
 tout ce que je sais en natation!\0\0('촀\0Désolé,
-\0 mais 2촀ilelle\0 n'est pas à vendre!"
+\0 mais 2촀ilelle\0 n'est pas à vendre!"
 "302","(촀\0Ah,
-\0 tu t'intéresses à 2촀monma\0 superbe
+\0 tu t'intéresses à 2촀monma\0 superbe
 }\0\0?
-\0 (%촀\02촀IlElle\0
+\0 (%촀\02촀IlElle\0
 est vraiment formidable, hein?
-('촀\0Mais justement : je peux pas te 2촀lela\0
+('촀\0Mais justement : je peux pas te 2촀lela\0
 vendre, désolé."
 "303","()촀\0T'as jamais eu un objet fétiche qui contribuait à définir 2\0n\0 que tu étais?\0\0(촀\0Ohn\0\0
 \0 sans doute pas.

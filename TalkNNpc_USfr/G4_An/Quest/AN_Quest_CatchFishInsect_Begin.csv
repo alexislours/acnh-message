@@ -15,28 +15,28 @@ J'crois que j'attraperai jamais
 les insectes, tu penses bien que
 ça m'connaît.
 (1촀\0Moi et mes chums, on avait notre
-p'tit2촀\0e\0 chouchou2촀\0te\0 :
+p'tit2촀\0e\0 chouchou2촀\0te\0 :
 \0 c'était
 2\0}촀n"
-"004_a","(\0촁\0J't'en attrape 2촀unune\0!"
-"004_b","(\0촁\0Tu m'étonnes!"
+"004_a","(\0촁\0J't'en attrape 2촀unune\0!"
+"004_b","(\0촁\0Bonne chasse!"
 "008","(9촀\0Ça va t'paraître bizarre, maisn\0\0 y'a
 un poisson qui m'obsèden\0\0 (촀\0Il faut
 qu'j'en pêche un spécimen!
 (촀\0Mais j'peux toujours courir.
 \0 J'ferais
-p'têt' mieux d'oublier ce2촀\0tte\0 vilain2촀\0e\0 
+p'têt' mieux d'oublier ce2촀\0tte\0 vilain2촀\0e\0 
 }촀..."
 "008_a","(\0촁\0J'm'en occupe!"
-"008_b","(\0촁\0Tu jettes l'éponge?"
+"008_b","(\0촁\0Tu peux le faire!"
 "009","()촀\0Une de mes copines avait un énorme
 aquarium. 
 \0À la louche, y'avait
 30 poissons qui barbotaient là.
-(%촀\0Mais m2촀ona\0 préféré2촀\0e\0, c'était de loin
+(%촀\0Mais m2촀ona\0 préféré2촀\0e\0, c'était de loin
 2\0}촀n\0\0 J'vois encore sa p'tite frimoussen"
-"009_a","(\0촁\0J'vais t'trouver ça."
-"009_b","(\0촁\0Ouais, des belles bêtes."
+"009_a","(\0촁\0J't'attrape un spécimen."
+"009_b","(\0촁\0Va t'en chercher 2촀unune\0!"
 "011","(촀\0T'es sérieu2
 xse?
 \0(촀\0 Ce serait génial!"
@@ -64,10 +64,10 @@ pas grave, n\0!"
 \0((촀\0J'vais
 m'donner un grand coup d'patte aux
 fesses et on va voir c'qu'on va voir!"
-"018","(촀\0Elle est trop mignonne, c'te bestiole!
+"018","('촀\0Elle est trop mignonne, c'te bestiole!
 \0
-Je m'demande si elle s'en rend
-compte, n\0n"
+Je m'demande si y a des concours
+de beauté, chez ces bêtes-làn"
 "021","(9촀\0Tu sais c'que j'adore?
 \0 Les scarabées
 rhinocéros.
@@ -83,7 +83,7 @@ N'importe lequel, chuis pas difficile!"
 "021_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","(촀\0Je suis une gamine d'la montagne,
@@ -102,7 +102,7 @@ un pour moi?"
 "022_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","(%촀\0J'ai appris quelque chose
@@ -122,7 +122,7 @@ attraper une?
 "023_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","(7촀\0Dis, n\0n\0\0 Tu crois
@@ -141,7 +141,7 @@ quelles sont leurs fleurs préférées?
 "025_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(""촀\0T'sais, j'aime bien les libellules,
@@ -157,7 +157,7 @@ une libellule?
 "026_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "027","()촀\0J'ai un minuscule service à te
@@ -177,7 +177,7 @@ d'une pauv' fleurette innocente."
 "027_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","Tantôt, j'ai vu un insecte sur une
@@ -193,7 +193,7 @@ tu l'attrapes et tu m'l'apportes!"
 "028_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","(
@@ -209,7 +209,7 @@ quel poisson d'eau douce!"
 "031_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","(촀\0Eh, tu crois qu'les poissons dans
@@ -229,7 +229,7 @@ pêcher un poisson d'eau salée?"
 "032_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(8촀\0Désolée d'te tomber dessus sans
@@ -239,7 +239,7 @@ service, mais j'ai un p'tit problème!
 2\0}촀? (촀\0Jen\0\0 enfin, tu sais, j'voudrais bienn"
 "101_a","(\0촁\0Que j't'en capture un?"
 "101_b","(\0촁\0J'ai à faire, je regrette."
-"102","('촀\0Pas moyen d'attraper l2촀ea\0 moindre
+"102","('촀\0Pas moyen d'attraper l2촀ea\0 moindre
 }촀!
 \0 (촀\0J'en ai ras-le-filet d'ces bestioles!\0\0(촀\0Si j'ai l'malheur de respirer d'travers,
 elles détalent comme si elles me
@@ -279,9 +279,9 @@ Du coup, tu m'pêcherais
 moyen d'en pêcher un!
 \0(&촀\0 Il aime pas
 mes hameçons maison, tu crois?"
-"201_a","Je t'en pêcherai un!"
+"201_a","(\0촀\0Je t'en pêcherai un!"
 "201_b","(\0촁\0Je peux pas t'aider..."
-"202","(""촀\0Salut, n\0. La pêche est bonne en ce moment? (촀\0Parc'que chez moi, ça mord pas fort.\0\0()촀\0J'ai mis tout mon cœur à pêcher un2촀\0e\0
+"202","(""촀\0Salut, n\0. La pêche est bonne en ce moment? (촀\0Parc'que chez moi, ça mord pas fort.\0\0()촀\0J'ai mis tout mon cœur à pêcher un2촀\0e\0
 }촀n\0\0(촀\0 mais c'était un coup d'canne dans l'eau."
 "202_a","(\0촁\0Je vais t'aider!"
 "202_b","(\0촁\0Ouais, la vie est dure."

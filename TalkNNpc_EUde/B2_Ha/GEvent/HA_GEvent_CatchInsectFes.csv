@@ -2,9 +2,7 @@
 "001","(촀\0Bald fängt das \0Insektikus-Turnier\0￿ an,
 \0
 n\0! 
-\0Ich kann es
-kaum erwarten.
-(촀\0Etwas einnetzen sollte kein Problem
+\0Ich kann es kaum erwarten.\0\0(촀\0Etwas einnetzen sollte kein Problem
 sein. 
 \0Zumindest gelingt mir das
 beim Fußball immer, 
@@ -27,10 +25,11 @@ mit zusätzlichen Übungen!\0\0(5촀\0Mach dich auf was gefasst,
 \0
 n\0!"
 "004","(	촀\02\0n\0! 
-\0Gegen DICH
-werde ich nicht verlieren!
+\0Ich werde VIEL
+mehr als du fangen!
 \0
-((촀\0Verlass dich drauf!"
+((촀\0Verlass dich drauf, 
+\0n\0!"
 "005","(&촀\0Hast du dich auch mit mentalem
 Training aufs Insektenfangen
 vorbereitet? 
@@ -47,9 +46,9 @@ als du nicht geguckt hast!"
 "006","(:촀\02\0n\0!
 \0 (촀\0Du musst ALLES
 versuchen, 
-\0um mich zu besiegen!
-\0
-Ich will eine Herausforderung!\0\0(	촀\0Und ich will dich bei diesem
+\0um mich zu übertrump-
+fen!
+\0 Ich will eine Herausforderung!\0\0(	촀\0Und ich will dich bei diesem
 Wettkampf zerquetschen wie
 eine lästige Fliege!\0\0(촀\0Was ich sagen will, 
 \0ist... 
@@ -82,11 +81,10 @@ arbeiten, 
 \0um das auch irgendwann
 zu schaffen, 
 \0n\0!"
-"011","(:촀\0n\0! 
+"011","(:촀\02\0n\0! 
 \0Vergiss nie, 
-\0was
-der Volksmund so treffend sagt:
-(	촀\0Wer nie aufgibt, 
+\0was der Volksmund so treffend sagt: 
+\0(	촀\0Wer nie aufgibt, 
 \0lacht am besten!"
 "012","(""촀\0Immer langsam, 
 \0n\0!\0\0(촀\0Ich will morgen kein Gejammer

@@ -55,7 +55,7 @@ op vakantie.
 toe een doelgroeptestn\0\0
 (
 촀\0Tot nu toe is alles top.
-\0((%촀\0 100 procent van n
+\0((%촀\0 100% van n
 \0 geeft deze kampeerplek een hoge beoordeling."
 "101_02","($촀\0Hé, jij bent toch een lokale bewoner?
 \0
@@ -92,9 +92,9 @@ de grote show. 
 \0Ik hoopte al een tijdje
 op een kans om te kunnen stralenn"
 "202","<"
-"202_01","(촀\0Je vraagt je waarschijnlijk af wie ik
-ben en wat mij hier brengt.\0\0(5촀\0Wel, de naam is n
-\0 en ik ben te gast bij de weergaloze s\0촀, n\0."
+"202_01","(촀\0Je vraagt je waarschijnlijk af wat mij
+hier brengt.\0\0(5촀\0Wel, ik ben te gast bij de weergaloze
+s\0촀, n\0."
 "202_02","(6촀\0Wat ik hier doe?
 \0 2\0s\0촀, die ik verder niet bij naam zal noemen, heeft me uitgenodigd.
 (
@@ -102,9 +102,9 @@ ben en wat mij hier brengt.\0\0(5촀\0Wel, de naam is n
 \0 Volgens mij ging daar iets
 mis."
 "202_03","(6촀\0Alles doeg?
-\0 Snap je 'm? 
-\0(5촀\0n
-\0 is de naam! Ik doe de dingen graag wat anders.\0\0(촀\0Je kunt bij s\0촀 terecht als je iemand wilt bedanken voor mijn aanwezigheid, n\0."
+\0 Snap je 'm?
+\0 Ik doe de
+dingen graag wat anders.\0\0(촀\0Je kunt bij s\0촀 terecht als je iemand wilt bedanken voor mijn aanwezigheid, n\0."
 "301","<"
 "301_01","(촀\0Weet je wat het beste is aan
 kamperen? 
@@ -179,11 +179,8 @@ gehoeven!"
 "401","<"
 "401_01","(5촀\0Ik woon hier nog niet,
 \0 maar ik voel
-me hier al helemaal bekend.\0\0()촀\0Ik weet de beste n촁 te
-vinden
-\0 en welk strand zich het beste
-leent voor het maken van selfies.
-(1촀\0Ja, volgens mij word ik al ""Mister n\0"" genoemd.
+me hier al helemaal bekend.\0\0()촀\0Ik weet de beste n촁 te vinden
+\0 en welk strand zich het beste leent voor het maken van selfies.\0\0(1촀\0Ja, volgens mij word ik al ""Mister n\0"" genoemd.
 \0 En niet onterecht, al zeg ik het zelf."
 "401_02","(5촀\0Dankzij mijn bezoek voel ik me 2\0
 2,촀nieuwe
@@ -193,14 +190,13 @@ heb meer waardering gekregen voor
 harde arbeid.\0\0(6촀\0Ik overweeg zelfs om een keer zo'n
 gewicht te heffen om te zien hoe dat
 is."
-"401_03","(1촀\0Ik ben van huis uit een heel
-2D촀eenvoudigeeenvoudigeenvoudige n\0n\0\0\0\0(촀\0Het enige wat ik hoop te bereiken, is rijk worden
+"401_03","(1촀\0Ik ben van huis uit een heel 2D촀eenvoudigeeenvoudigeenvoudige n\0n\0\0\0\0(촀\0Het enige wat ik hoop te bereiken, is
+rijk worden
 \0 en bevriend zijn met de
 hipste en knapste sterren ter wereld."
 "402","<"
 "402_01","(9촀\0Moet je horen, n\0n\0\0
-\0(촀\0 Ik denk dat ik hier maar permanent ga wonen!
-(6촀\0Daar mag je s\0촀 wel voor bedanken, want die heeft me op het idee gebracht, n\0."
+\0(촀\0 Ik denk dat ik hier maar permanent ga wonen!\0\0(6촀\0Daar mag je s\0촀 wel voor bedanken, want die heeft me op het idee gebracht, n\0."
 "402_02","()촀\0Op het moment kampeer ik voor mijn
 zenmomentje, maar, ehn\0\0
 \0(&촀\0 Hoe noem
@@ -216,8 +212,7 @@ wel een reden om het wel te doen!\0\0(촀\0Namelijk die overheerlijke lokal
 \0 (촀\0HaHA!"
 "403","<"
 "403_01","(:촀\0Ik moet je iets belangrijks vertellen,
-n\0n\0\0\0\0(6촀\0Van nu af aan zul je n\0 moeten delen met een heel 2촀chiquechic\0 n\0.
-(촀\0Met mij dus!
+n\0n\0\0\0\0(6촀\0Van nu af aan zul je n\0 moeten delen met een heel 2촀chiquechic\0 n\0.\0\0(촀\0Met mij dus!
 \0( HaHA.
 \0( (촀\0Dat was
 waarschijnlijk veel te makkelijk voor
@@ -297,12 +292,14 @@ een telefoontje over een auditie.
 \0((촀\0 Ik
 kan maar beter weer naar huis gaan!"
 "601_01","(7촀\0Ik wil niet zeggen dat ik met chique
-cadeautjes om te kopen benn\0\0\0\0(6촀\0n\0\0maar ik denk er toch over om hier
-te blijven na dat cadeau dat iemand
-van n	\0 me gaf."
+cadeautjes om te kopen ben,
+\0 maar
+na dat cadeaun\0\0\0\0(6촀\0n\0\0denk ik er toch over om hier te
+blijven."
 "601_01_a","Ja, kom hier wonen!"
-"601_01_b","Het is maar een meubel."
-"601_02","($촀\0Wist je dat iemand van n	\0 me een heel mooi souvenir heeft gegeven?\0\0(4촀\0Ik weet niet of dat een vast gebruik
+"601_01_b","Het is maar een cadeau."
+"601_02","($촀\0Geweldig dat ik gelijk zo'n mooi
+souvenir heb gekregen!\0\0(4촀\0Ik weet niet of dat een vast gebruik
 is op dit eiland, maar, ehn\0\0
 \0(&촀\0 wanneer
 kan ik hier komen wonen?"

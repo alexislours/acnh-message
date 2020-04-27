@@ -57,7 +57,7 @@ bekomme ich nie genug!
 ehrlich gesagt doch ein Defizit
 feststellen müssen."
 "006_a","(\0촀\0Ich hab ein Geschenk!"
-"006_b","Das ist ja schade..."
+"006_b","(\0촀\0Das ist ja schade..."
 "007","(촀\0Ich hätte mich zwar sehr gefreut,
 \0
 aber... (9촀\0möglicherweise habe ich
@@ -115,7 +115,7 @@ wäre ein Geburtstag aber
 auch unvollkommen!"
 "018","(촀\0Oh, 
 \0da hätten wir ein
-kleines Malheur.\0\0('촀\0Ich habe nämlich bereits 2""촀
+kleines Malheur.\0\0('촀\0Ich habe nämlich bereits 2""촀
 eineneineein
 2촁}\0\0.\0\0(%촀\0Aber davon konntest du ja keine
 Kenntnis haben. 
@@ -124,7 +124,7 @@ allem der Gedanke, 
 \0der zählt!"
 "019","(2촀\02\02\0}\0\0!
 \0
-Exakt 2P촀einen solcheneine solcheein solches trage ich doch
+Exakt 2P촀einen solcheneine solcheein solches trage ich doch
 gerade, 
 \0n\0n\0\0\0\0(촀\0Immerhin kennst du meinen
 Geschmack.
@@ -132,9 +132,9 @@ Geschmack.
 nicht,
 \0 mehrere davon zu besitzen."
 "020","(촀\0Oh ja, 
-\02¦촀4ein wirklich wunderschöner4eine wirklich wunderschöne4ein wirklich wunderschönes
+\02¦촀4ein wirklich wunderschöner4eine wirklich wunderschöne4ein wirklich wunderschönes
 }\0\0!\0\0(
-촀\0Allerdings kommt 2촀ersiees mir doch arg
+촀\0Allerdings kommt 2촀ersiees mir doch arg
 bekannt vor... 
 \0(촀\0Ah, 
 \0weil du gerade
@@ -215,7 +215,7 @@ den Appetit an!"
 \0 handelt es sich hier
 wahrhaftig um eine Anleitungn\0\0 
 \0(촀\0für
-2""촀
+2""촀
 eineneineein 2촁}\0\0?
 (촀\0Hach, 
 \0das ist ja umwerfend! 
@@ -239,14 +239,14 @@ gern mit einem Gegengeschenk
 erkenntlich zeigen, 
 \0n\0!
 (""촀\0Ich bitte dich,
-\0 nimm 2,촀diesen
+\0 nimm 2,촀diesen
 diesedieses 2촁}\0 als Zeichen meiner Anerkennung!"
 "049","(촀\0Der Erhalt eines Präsentes weckt
 stets ganz zauberhafte Emotionen.\0\0(촀\0Um auch dich in den Genuss selbiger
 Gefühlslage kommen zu lassen,
 \0 habe
 ich ein Dankesgeschenk für dich!
-(5촀\02,촀Diesen
+(5촀\02,촀Diesen
 DieseDieses 2촁}\0 wirst du nur schwerlich ablehnen können,
 \0 n\0!"
 "050","(4촀\0Von dir beschenkt zu werden war,
@@ -332,7 +332,7 @@ man sich erhoffen konnte.
 noch nicht von jedem Gast ein
 Geschenk bekommen..."
 "062_a","Hier ist was für dich!"
-"062_b","Macht doch nichts!"
+"062_b","(\0촀\0Macht doch nichts!"
 "064","(&촀\0Brichst du schon auf? 
 \0
 (촀\0Manchmal muss man gehen,
@@ -386,11 +386,8 @@ es ein ganz fabelhafter Geburtstag!"
 \0
 2\0n\0!
 \0
- Das errätst
-du nie!
-\0 (4촀\0Nicht nur, dass diese Insel
-fortan mein neues Domizil ist...
-(촀\0Nein, heute ist zudem mein Geburts-
+ Das errätst du nie!
+\0 (4촀\0Nicht nur, dass diese Insel fortan mein neues Domizil ist...\0\0(촀\0Nein, heute ist zudem mein Geburts-
 tag!
 \0( (촀\0Es freut mich wahrlich sehr, dass
 du just an diesem Tag vorbeischaust.\0\0(%촀\0Das muss gemeinsam zelebriert
@@ -447,7 +444,7 @@ werden, 
 \0( ()촀\0Wie versprochen
 möchte ich meine Dankbarkeit in
 Form eines Geschenks ausdrücken.\0\0(""촀\02\02\0}\0 mag dafür inadäquat sein, 
-\0(촀\0aber vielleicht gefällt 2촀ersiees dir ja doch!"
+\0(촀\0aber vielleicht gefällt 2촀ersiees dir ja doch!"
 "100","(""촀\0Sei gegrüßt, 
 \0n\0!
 \0

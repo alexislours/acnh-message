@@ -7,19 +7,19 @@ Romeo Alfa Tango Oscar.
 Delta Oscar Delta Oscar al 100%."
 "001_02","(&촀\0È il tuo primo \0viaggio a sorpresa\0￿?
 \0
-()촀\0Lascia che ti spieghi un paio di
-cosette.\0\0(""촀\0Innanzitutto, durante questo tipo di
+()촀\0Allora lascia che ti spieghi un paio
+di cosette.\0\0(""촀\0Innanzitutto, durante questo tipo di
 viaggi vige il protocollo ""chi lo trova,
 se lo tiene"".\0\0
 \0Che si tratti di legna, frutta, pesce
-\0, o
+\0 o
 di qualsiasi altro oggetto, la regola è
 una:
 \0 se riesci a trasportarlo, è tuo.
-()촀\0Poin\0\0 ti servono strumenti? Te li
-posso procurare io, ma ti costerà
-un po' di miglia.
-\0\0\0(촀\0Per finire, c'è una cosa
+()촀\0E poin\0\0 ti servono strumenti? 
+\0Posso
+procurarteli io, ma ti costerà un po'
+di miglia.\0\0(촀\0Per finire, c'è una cosa
 importantissima che devi
 assolutamente tenere a mente.
 (:촀\0Una volta abbandonata l'isola, è
@@ -28,28 +28,34 @@ qualcosa, 
 \0non potrai più recuperarla.
 (9촀\0A fine viaggio, i piani di volo vengono
 distruttin\0\0 Motivi di sicurezzan\0\0
-\0
-Non sono autorizzato a dire altro.
+\0 Non
+sono autorizzato a dire altro.
 (%촀\0E questo è tutto.
-\0 Ora vain\0\0
-\0 
-\0(1촀\0e non fare
-nulla che un dodo non farebbe,
-ricevuto?"
+\0 Ora vai pure a
+esploraren\0\0
+\0 (1촀\0e non fare nulla che
+un dodo non farebbe, ricevuto?"
 "001_03","((촀\0Nel frattempo, stabilirò qui il quartier
 generale.
 \0 Mettiti in contatto se ti
 servono strumenti o vuoi ripartire.
-(촀\0Bene, 2$figliolofigliola, ora vai e dacci dentro.
-Buona fortuna."
-"002","2\0촀, qui 촀. Mi ricevi? 
-\0(&촀\0Necessiti assistenza? 
+(촀\0Bene, 2$figliolofigliola, 
+\0buon divertimento!"
+"002","Qui Delta Tango Due a 2.visitatorevisitatrice
+in gita. 
+\0(&촀\0Serve assistenza con qualche
+manovra?(\0촀\0 
 \0Passo."
 "002_a","Voglio tornare a casa."
 "002_b","Mi servono strumenti."
 "002_c","('촁\0No, niente."
-"003","(&촀\0Sei 2prontopronta per la missione ""rientro
-2\0 n""\0""?"
+"003","(&촀\0Sei 2prontopronta per la missione ""rientro 2\0 n""\0""? 
+\0Hai tutto con te?\0\0(9촀\0Dico sul serio, 
+\0hai tutto tutto con
+te? 
+\0Non vorrei mai che lasciassi
+qualcosa qua, perciòn\0\0
+(&촀\0Sei davvero 2prontopronta per tornare?"
 "003_a","(%촁\0Sì!"
 "003_b","('촁\0No, non ancoran"
 "004","-촀\0

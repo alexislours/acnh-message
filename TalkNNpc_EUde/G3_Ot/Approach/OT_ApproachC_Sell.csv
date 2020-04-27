@@ -1,15 +1,13 @@
 ﻿"label","text"
 "001","(7촀\0Verzeihung, 
-\0möchtest du 2(촀meinen
+\0möchtest du 2(촀meinen
 meinemein
 2촁}\0\0 käuflich erwerben, 
 \0n\0?"
 "001_a","(\0촀\0Für wie viel?"
 "001_b","Nein, danke."
 "002","(7촀\02\0n\0, 
-\0hättest du
-vielleicht Interesse an 2.촀meinemmeinermeinem
-}\0\0?"
+\0hättest du vielleicht Interesse an 2.촀meinemmeinermeinem 2촂}\0\0?"
 "002_a","(\0촀\0Wie viel kostet das?"
 "002_b","Eigentlich nicht."
 "003","(촀\0Du kommst gerade richtig!
@@ -28,19 +26,14 @@ Bredouille helfen, 
 "003_b","Keine Zeit!"
 "004","( 촀\0Oh, 
 \0n\0.
-\0(촀\0 Vielleicht
-kannst du mir ja aus einer kleinen
-Verlegenheit helfen?
-()촀\0Als ich in einem Fachmagazin über
+\0(촀\0 Vielleicht kannst du mir ja aus einer kleinen Verlegenheit helfen?\0\0()촀\0Als ich in einem Fachmagazin über
 촀 recherchierte,
-\0
-sah ich ein Preisausschreiben.
-(2촀\0Nun,
+\0 sah ich ein Preisausschreiben.\0\0(2촀\0Nun,
 \0 ich ließ mich hinreißen,
 \0 und
 eh ich mich's versah,
 \0 gewann ich
-2""촀
+2""촀
 eineneineein 2촁}\0\0n\0\0
 (촀\0Damit hatte ich überhaupt nicht
 gerechnet.
@@ -90,14 +83,14 @@ ich auch bereits durchleben dürfen.\0\0
 \0dann eben ein andermal,
 
 \0n\0."
-"100","(촀\0Wunderbar!
-\0 (&촀\0Wären Z ein
-dir genehmer Preis?"
+"100","(&촀\0Wären Z ein dir
+genehmer Preis, 
+\0n\0?"
 "100_a","Ja!"
 "100_b","Nein."
 "101","(촀\0Mirakulös!"
 "102","(%촀\0Es beruhigt mich zu wissen,
-\0 dass 2$촀mein
+\0 dass 2$촀mein
 meinemein }\0\0
 \0(촀\0 in guten Händen sein wird."
 "103","(
@@ -106,7 +99,7 @@ meinemein }\0\0
 wirklich verschlanken.
 \0 (촀\0Dann erlaube
 mir, dir ein Geschenk zu machen!"
-"104","(촀\0Hoffentlich findest du für 2(촀meinen
+"104","(촀\0Hoffentlich findest du für 2(촀meinen
 meinemein 2촁}\0\0 eine gute Verwendung, 
 \0n\0!"
 "105","(촀\0Verstehe. 
@@ -129,12 +122,12 @@ Preis noch etwas modifiziere, 
 Also gut, 
 \0Z!"
 "201_a","Einverstanden!"
-"201_b","Hmmmmmm..."
+"201_b","(\0촀\0Hmmmmmm..."
 "202","(촀\0Vortrefflich, dann ist es abgemachte
 Sache!
 \0 (촀\0Ich danke dir, 
 \0n\0!"
-"203","(%촀\02$촀Mein
+"203","(%촀\02$촀Mein
 MeineMein }\0\0 wird dir hoffentlich ebenso viel Vergnügen bereiten wie mir."
 "204","(촀\0Ojemine,
 \0 da habe ich dich wohl
@@ -150,7 +143,7 @@ du deine Meinung ja noch."
 \0
 (촀\0Das ist mein finales Angebot!"
 "205_a","Angenommen!"
-"205_b","Richtig, richtig final?"
+"205_b","(\0촀\0Richtig, richtig final?"
 "206","(촀\0Ist es denn die Möglichkeit?
 \0
 ('촀\0Noch günstiger kann ich den Preis
@@ -169,19 +162,18 @@ noch ins Geschäft kommen würden!"
 "209","(촀\0Aber du bist wirklich eine harte Nuss,
 \0
 n\0!
-\0 Einer solchen
-Persistenz war ich nicht gewachsen."
+\0 Einer solchen Persistenz war ich nicht gewachsen."
 "210","(촀\0Oje. 
 \0(촀\0Nun gut, 
 \0der Verkauf wird mir
 irgendwann schon noch gelingen,
 \0
 n\0!"
-"300","(\0촀\0(촀\0Du würdest mir sehr helfen, wenn du
-2.촀meinen meine 
-mein }\0\0
-\0
-für ($촀\0Z erwürbest..."
+"300","(\0촀\0(촀\0Du würdest mir sehr helfen, 
+\0wenn du
+2.촀meinen meine 
+mein 2촁}\0\0
+\0 für ($촀\0Z erwürbest..."
 "300_a","Ich würbe gern!"
 "300_b","Keine Chance!"
 "301","(촀\0Hurraaa!
@@ -194,14 +186,13 @@ zumindest eine kleine Nuance
 \0n\0!"
 "303","(%촀\0Na gut.
 \0(&촀\0 Wie wäre denn stattdessen
-2\0}\0\0 für
-(&촀\0Z? 
+2\0}\0\0 für (&촀\0Z? 
 \0Klingt das nicht gut?"
 "303_a","Finde ich schon!"
 "303_b","Versuch's noch mal."
 "304","(
 촀\0Verstehen\0\0(\0촀\0
-\0 (&촀\0Und Z für 2""촀
+\0 (&촀\0Und Z für 2""촀
 eineneineein 2촁}\0\0?
 \0 Wie wäre das?"
 "304_a","Wäre wunderbar!"
@@ -210,8 +201,7 @@ eineneineein 2촁}\0\0?
 \0Hier mein letztes Angebot:
 \0
 2\0(\0촀\0}\0\0
-\0
-für (&촀\0Z! 
+\0 für (&촀\0Z! 
 \0Na?"
 "305_a","Ja! Geht doch..."
 "305_b","Nein danke..."

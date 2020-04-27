@@ -5,7 +5,7 @@ Tu e io siamo amiconi, giusto?\0\0(""촀\0Allora non credi che dovremmo aver
 una specie di saluto in codice
 supersegreto?
 (촀\0Niente male, n\0?"
-"001_a","Ho una buona idea!"
+"001_a","(\0촀\0Ho una buona idea!"
 "001_b","(\0촁\0Non saprei..."
 "002","(""촀\0Ehi, perché non cambiamo il nostro
 saluto segreto?(&촀\0 Basta con il solito
@@ -17,7 +17,7 @@ accorgerà e non sarà più un segreto.
 \0 Hai qualche
 idea fenomenale?"
 "002_a","(\0촀\0Che ne pensi di..."
-"002_b","Quello attuale è OK."
+"002_b","(\0촀\0Quello attuale è OK."
 "003","(&촀\0Dunque siamo ottimi amici, giusto?\0\0(촀\0Non sarebbe forte avere un nostro
 saluto segreto?
 \0((촀\0 Fammi sapere
@@ -31,7 +31,7 @@ se hai qualche idea."
 vogliamo sorprendere i nostri
 avversari, è meglio cambiare tattica."
 "004_a","(\0촁\0Che ne dici di questo?"
-"004_b","Mi piace com'è ora."
+"004_b","(\0촀\0Mi piace com'è ora."
 "005","(촀\0Mmmh... Beh, adesso non mi viene
 in mente niente. (촀\0Possiamo pure
 lasciar perdere per il momento."

@@ -62,7 +62,7 @@ contre un prix ?"
 "005_b","('촀\0Non merci."
 "006","(촀\0Qu'est-ce que je peux faire pour toi,
 pêchiste ?"
-"006_a","Échange-moi mes points !"
+"006_a","(\0촀\0Échange-moi mes points !"
 "006_b","('촀\0Rien, merci."
 "007","(촀\0Yo, peau de pêche !
 \0 \0Pollux\0￿, à ton
@@ -84,7 +84,7 @@ reviens me voir, OK ?"
 "011","(촀\0Ça marche !
 \0((촀\0 Je t'échange \0Z\0\0￿ de tes
 points contre un super prix !"
-"012","(5촀\0Plus vrai que nature !
+"012","(5촀\0Plus vrai2촀\0e\0 que nature !
 (촀\02\02\0}\0,
 \0 (""촀\0rien que pour toi !"
 "013","(%촀\0N'oublie pas que le \0tournoi de pêche\0￿
@@ -109,7 +109,7 @@ points en magasin,
 \0 ma parolen\0\0
 \0 (&촀\0Ça
 t'intéresserait de m'échanger ça ?"
-"016_a","Pourquoi pas ?"
+"016_a","(\0촀\0Pourquoi pas ?"
 "016_b","('촀\0Non merci."
 "017","(%촀\0Comme tu veux, pêchiste.
 \0
@@ -350,14 +350,14 @@ point
 pointpoints \0￿! 
 \0Tu veux m'échanger ça contre un prix ?"
 "045_a","Oui !"
-"045_b","Plus tard."
+"045_b","(\0촀\0Plus tard."
 "046","\0(촀\0Z 2(Ā
 point
 pointpoints \0￿! 
 \0Chicos, pêchiste !
 \0( (&촀\0Tu veux m'en échanger \0Z\0 \0￿contre un prix ?"
 "046_a","Oui !"
-"046_b","Plus tard."
+"046_b","(\0촀\0Plus tard."
 "047","(%촀\0En matière de \0tournoi de pêche\0￿, je
 suis incollable.
 \0 ($촀\0Tu peux me demander
@@ -390,7 +390,7 @@ hausse la valeur de la marchandise.
 manient les vers avec élégance."
 "049_a","Achète-moi du poisson !"
 "049_b","Échange-moi mes points !"
-"049_c","Autre chose..."
+"049_c","À propos du tournoi..."
 "049_d","Laisse tomber."
 "050","(촀\0Ça marche, pêchiste ! 
 \0Qu'est-ce
@@ -441,19 +441,25 @@ poissons seront enchantés !(9촀\0 Maisn\0\0
 \0
 pêchiste,
 \0 mais tu es un peu court2\0e
-niveau clochettesn\0\0 
-()촀\0À partir de la deuxième participation,
-\0
-c'est Z l'entrée.
-\0 ('촀\0Pas
-de \0tournoi de pêche\0￿ sans arêtes..."
+niveau clochettesn\0\0
+()촀\0Et pas de pépettes, pas de pêche.
+Reviens quand ton compte sera à
+flot."
 "062","(촀\0Roule !
 \0 On a tous dans le bocal des
 vers à faire valoir.
 \0 Je suis sûr que les
-poissons seront enchantés !(9촀\0 
-(%촀\0Ta participation te coûtera la
-modique somme de Z."
+poissons seront enchantés !(9촀\0
+()촀\0Par contre, t'as déjà taquiné ton
+moulinet aujourd'hui, alors il faut te
+délester de Z. 
+\0OK ?"
+"062_01","(촀\0Ah, je savais que t'étais pas pêchiste
+à pinailler pour des pacotilles !
+
+\0Ça nous fera Z."
+"062_a","(%촀\0Avec plaisir !"
+"062_b","('촀\0Non, merci."
 "063","(촀\0Bien, je vais lancer le chrono et tu
 auras \0Z\0 minutes\0￿ pour attraper le
 plus de poissons possible.\0\0(%촀\0Tu recevras un bonus si tu attrapes
@@ -619,7 +625,7 @@ peu la tête dans la vase.
 jeter un œil à l'emploi du temps
 \0 (촀\0pour
 ne pas rater le prochain tournoi !"
-"090_a","Échange-moi mes points !"
+"090_a","(\0촀\0Échange-moi mes points !"
 "090_b","Rien, merci."
 "092","(촀\0Ça marche ! 
 \0Je vais rester par ici
@@ -627,7 +633,7 @@ jusqu'à \0Z%촂 h\0￿, donc si tu changes
 d'avis, tu sais où me trouver !"
 "100","($촀\0Yo pêchiste !
 \0 Ça flotte ?"
-"100_a","Échange-moi mes points !"
+"100_a","(\0촀\0Échange-moi mes points !"
 "100_b","Laisse tomber."
 "101","(5촀\0J'organise un autre \0tournoi de pêche\0￿
 sur n	\0 en \0Z#촀\0￿.
@@ -717,7 +723,7 @@ faire de ton poisson,
 "123","Je te prends le tout pour Z,
 \0 (&촀\0c'est bon pour toi ?"
 "123_a","C'est bon pour moi !"
-"123_b","Attends un peu..."
+"123_b","(\0촀\0Attends un peu..."
 "124","(\0촀\0Ça flotte,
 \0 pêchiste !
 \0 ( 촀\0Euh,
@@ -887,7 +893,7 @@ te vaut un bonus de coopération !
 (촀\0Joli !"
 "150","(\0촀\0Ensemble,
 \0 vous avez attrapé
-\0Z	\0￿ \024ऀpoissonpoissonpoissons\0￿,
+\0Z	\0￿ \024ऀpoissonpoissonpoissons\0￿,
 \0 et à partir de \0Z
 \0￿,
 \0 tu
@@ -923,6 +929,52 @@ prix pas piqué des versn\0\0
 \0
 vas-y,
 \0 fais chauffer le moulinet !"
+"156","Alorsn\0\0 \0Z\0￿ \0poissons\0￿ sont passé dans
+la \0glacière\0￿.
+\0(촀\0 On mouline pas pour des
+prunes, par ici.
+\0 Ça me plaît."
+"156_01","( 촀\0Oh, pêchiste. 
+\0(%촀\0La glacière a la panse
+qui éclate au-delà de 20 poissons,
+alors j'en ai repêché quelques-uns.
+(6촀\0T'inquiète, ils barbotent pas en
+eaux troubles. 
+\0Je leur ai dégoté une
+piscine au poil, et même à l'écaille.
+()촀\0Et je te la fais pas à l'envers, tu vas
+quand même empocher tes points.
+
+\0Alors tu vois, tout baigne !"
+"157","(촀\0Bref !
+\0 En plus des \0Z\0￿ \0points\0￿ qui te
+reviennent, tu récoltes le bonus pour
+avoir remonté \0au moins Z prises\0￿ !
+(9촀\0Oh, et au total, vous avez pêché
+\0Z	\0￿ \0poissons\0￿n\0\0 (%촀\0À toi le bonus de
+coopération octroyé \0à partir de Z
+\0￿ !"
+"158","(촀\0Bref !
+\0 En plus des \0Z points\0￿ qui te
+reviennent, tu touches le bonus pour
+avoir remonté \0au moins Z prises\0￿ !"
+"159","(촀\0Yo, pêchiste !
+\0 Ça fait une paie !
+\0
+(촀\0C'est moi \0Pollux\0￿,
+\0 castor de rivière
+et amateur de poissons de luxe !
+(촀\0J'ai l'insigne honneur de présider
+le \0tournoi de pêche\0￿ qui sen\0\0 (9촀\0Eh,
+\0
+mais,
+\0 attends une seconde !
+(&촀\0Je t'ai vu2\0e lancer ta ligne et jouer
+du vers tout à l'heure,
+\0 non ?\0\0(촀\0Alors, c'était comment ?
+\0
+Tu as attrapé quelque chose ?
+"
 "160","(촀\0Les poissons que vous attrapez sont
 stockés dans la \0glacière\0￿, 
 \0et vous les
@@ -1002,18 +1054,18 @@ ne te coûtera que Z."
 \0 rien de bien compliqué !\0\0(3촀\0Alors ? 
 \0(&촀\0Tu veux taquiner le
 poisson en bonne compagnie ?\0\0(%촀\0Comme c'est ta première
-participation en tant que \0leader\0￿,
-\0
-(촀\0tu n'as rien à payer !"
+participation en tant que \0leader\0￿
+aujourd'hui,
+\0 (촀\0tu n'as rien à payer !"
 "166_a","Je veux participer !"
 "166_b","Laisse tomber."
 "167","(""촀\0Tu vois,
 \0 rien de bien compliqué !\0\0(3촀\0Alors ? 
 \0(&촀\0Tu veux taquiner le
 poisson en bonne compagnie ?\0\0(%촀\0On dirait que c'est ta première
-participation en tant que \0leader\0￿,
-\0
-(촀\0donc tu n'as rien à payer !"
+participation en tant que \0leader\0￿ 
+aujourd'hui,
+\0 (촀\0donc c'est gratis !"
 "167_a","Je veux participer !"
 "167_b","C'est quoi les règles ?"
 "167_c","Échange-moi mes points !"
@@ -1047,14 +1099,14 @@ contre un petit quelque chose ?"
 un \0tournoi de pêche\0￿ qui s'achève.
 \0
 Vivement le prochain !"
-"170_a","Échange-moi mes points !"
+"170_a","(\0촀\0Échange-moi mes points !"
 "170_b","Laisse tomber."
 "171","(""촀\0Alors, pêchiste ? 
 \0(&촀\0Tu veux t'essayer
 au \0tournoi de pêche \0￿?\0\0(%촀\0Comme c'est ta première
-participation en tant que \0leader\0￿,
-\0
-(촀\0tu n'as rien à payer !"
+participation en tant que \0leader\0￿
+aujourd'hui,
+\0 (촀\0tu n'as rien à payer !"
 "171_a","Je veux participer !"
 "171_b","C'est quoi les règles ?"
 "171_c","Échange-moi mes points !"

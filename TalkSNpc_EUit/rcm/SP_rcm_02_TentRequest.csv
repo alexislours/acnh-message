@@ -9,7 +9,7 @@ di una certa cosa.
 adesso non hai tempo di parlarne,
 
 \0(촀\0non c'è nessun problema."
-"001_10_a","Certo!"
+"001_10_a","Dimmi tutto!"
 "001_10_b","Ora ho da fare..."
 "002","(%촀\0Non c'è problema!
 \0 (촀\0Fammi sapere
@@ -38,11 +38,11 @@ tutta orecchie!"
 "011_c","Riguardo la tua proposta..."
 "011_d","Torno un'altra volta."
 "012_01","(촀\0Molto bene! 
-\0Vengo subito al dunque.\0\0(4촀\0Volevo proporti di partecipare a
-una grande impresa: 
-\0(!촀\0la costruzione
-di un nuovo \0negozio\0￿!
-()촀\0La popolazione di n\0 cresce a vista d'occhio e, al negozio, abbiamo difficoltà a tenere il passo.\0\0(1촀\0Vorrei poter offrire una più ampia
+\0Vengo subito al dunque.\0\0(4촀\0Volevo proporti di partecipare a una
+grande impresa: 
+\0(!촀\0la costruzione di un
+\0negozio\0￿ vero e proprio!
+()촀\0Vedi, il numero di proprietari di case qui 2\0 n\0 sta piano piano crescendon\0\0\0\0(1촀\0Io vorrei poter offrire una più ampia
 gamma di prodotti alla clientela, ma,
 come vedi, lo spazio qui è limitato.
 (5촀\0Naturalmente ho già discusso
@@ -62,11 +62,11 @@ gli studi di fattibilità,
 un impatto ambientale pari a zero.\0\0(#촀\0Ma sto divagandon\0\0\0\0(%촀\0Il punto è che avremo bisogno
 di molto materiale
 \0 per costruire
-un negozio nuovo.\0\0(촀\0Naturalmente, se deciderai di
+il negozio.\0\0(촀\0Naturalmente, se deciderai di
 aiutarci,
 \0 verrai ripagat2oa per l'aiuto."
 "012_02_a","((촁\0OK!"
-"012_02_b","OK, ti aiuto io!"
+"012_02_b","Va bene, ti aiuterò..."
 "012_03","(촀\0Non so come ringraziarti!"
 "012_04","()촀\0Ho fatto la lista di tutto il materiale
 di cui avremo bisogno. Preparati,
@@ -88,19 +88,20 @@ materiale, vieni a portarmela."
 "013","(촀\02(BenvenutoBenvenuta, n\0!
 \0
 (\0촀\0Come posso aiutarti?"
-"013_a","\0A proposito del negozio...\0￿"
+"013_a","\0Riguardo al negozio...\0￿"
 "013_b","Vorrei vendere..."
 "013_c","Cosa c'è in vendita?"
 "013_d","Torno un'altra volta."
 "014","(촀\0Come posso aiutarti?"
-"014_a","\0A proposito del negozio...\0￿"
+"014_a","\0Riguardo al negozio...\0￿"
 "014_b","Vorrei vendere..."
 "014_c","Cosa c'è in vendita?"
 "014_d","Torno un'altra volta."
-"015","(촀\0Abbiamo chiesto agli abitanti
-dell'isola di aiutarci a raccogliere
-il materiale per costruire un negozio."
-"015_a","Faccio una donazione!"
+"015","(촀\0Per raccogliere i materiali necessari
+alla sua costruzione,
+\0 contiamo sulla
+collaborazione dei nostri residenti!"
+"015_a","Ho dei materiali!"
 "015_b","Di cosa hai bisogno?"
 "015_c","Ho capito."
 "023","(촀\0Non vedo l'ora di scoprire dove
@@ -109,70 +110,77 @@ il \0kit negozio \0￿che ti ho dato."
 "024","(촀\0Magnifico, n\0!
 \0 (촀\0Hai usato il \0kit negozio\0￿!\0\0(촀\0C'è un bel po' da fare se vogliamo
 aprire domani, ma già non vedo l'ora!"
-"051","(촀\0Vuoi fare una donazione?
-\0 (촀\0Magnifico!
-Grazie mille per il supporto!"
+"051","(촀\0Oh, 
+\0hai dei materiali per il negozio?
+
+\0(촀\0Magnifico! 
+\0Grazie mille del supporto!"
 "052_01","(
-촀\0Abbiamo già ricevuto diverse
-donazioni:
-\0(촀\0 ci mancano solo
-\030\0￿ pezzi di \0legno normale\0￿.(\0촀\0
-(&촀\0Riusciresti a procurarceli?"
-"052_01_a","Tieni!"
+촀\0Considerando ciò che abbiamo già
+ricevuto, 
+\0((촀\0ci mancano solo \030\0￿ pezzi
+di \0legno normale\0￿.(\0촀\0
+(&촀\0Riusciresti a procurarceli tu?"
+"052_01_a","Sì, ecco a te!"
 "052_01_b","Non ora..."
 "052_02","(
-촀\0Abbiamo già ricevuto diverse
-donazioni:
-\0(촀\0 ci mancano solo
-\030\0￿ pezzi di \0legno duro\0￿.(\0촀\0
-(&촀\0Perché non ce li doni tu?"
-"052_02_a","Tieni!"
+촀\0Considerando ciò che abbiamo già
+ricevuto, 
+\0((촀\0ci mancano solo \030\0￿ pezzi
+di \0legno duro\0￿.(\0촀\0
+(&촀\0Riusciresti a procurarceli tu?"
+"052_02_a","Sì, ecco a te!"
 "052_02_b","Non ora..."
 "052_03","(
-촀\0Abbiamo già ricevuto diverse
-donazioni:
-\0(촀\0 ci mancano solo
-\030\0￿ pezzi di \0legno morbido\0￿.(\0촀\0
-(&촀\0Perché non ce li doni tu?"
-"052_03_a","Tieni!"
+촀\0Considerando ciò che abbiamo già
+ricevuto, 
+\0((촀\0ci mancano solo \030\0￿ pezzi
+di \0legno morbido\0￿.(\0촀\0
+(&촀\0Riusciresti a procurarceli tu?"
+"052_03_a","Sì, ecco a te!"
 "052_03_b","Non ora..."
 "052_04","(
-촀\0Abbiamo già ricevuto diverse
-donazioni.
-\0(촀\0 Ci mancano solo
-\030\0￿ \0minerali di ferro\0￿.(\0촀\0
-(&촀\0Perché non ce li doni tu?"
-"052_04_a","Tieni!"
+촀\0Considerando ciò che abbiamo già
+ricevuto, 
+\0((촀\0ci mancano solo \030 minerali
+di ferro\0￿.(\0촀\0
+(&촀\0Riusciresti a procurarceli tu?"
+"052_04_a","Sì, ecco a te!"
 "052_04_b","Non ora..."
-"053_01","(%촀\0Abbiamo già ricevuto diverse
-donazioni. Al momento ci mancano
-solo
-\0 (촀\0\030\0￿ pezzi di \0legno normale\0￿!"
-"053_02","(%촀\0Abbiamo già ricevuto diverse
-donazioni. Al momento ci mancano
-solo
-\0 (촀\0\030\0￿ pezzi di \0legno duro\0￿!"
-"053_03","(%촀\0Abbiamo già ricevuto diverse
-donazioni. Al momento ci mancano
-solo
-\0 (촀\0\030\0￿ pezzi di \0legno morbido\0￿!"
-"053_04","(%촀\0Abbiamo già ricevuto diverse
-donazioni. Al momento ci mancano
-solo
-\0 (촀\0\030\0￿ \0minerali di ferro\0￿!"
+"053_01","(%촀\0Abbiamo ricevuto la maggior parte
+dei materialin\0\0 
+\0(촀\0Adesso ci mancano
+solo \030\0￿ pezzi di \0legno normale\0￿!"
+"053_02","(%촀\0Abbiamo ricevuto la maggior parte
+dei materialin\0\0 
+\0(촀\0Adesso ci mancano
+solo \030\0￿ pezzi di \0legno duro\0￿!"
+"053_03","(%촀\0Abbiamo ricevuto la maggior parte
+dei materialin\0\0 
+\0(촀\0Adesso ci mancano
+solo \030\0￿ pezzi di \0legno morbido\0￿!"
+"053_04","(%촀\0Abbiamo ricevuto la maggior parte
+dei materialin\0\0 
+\0(촀\0Adesso ci mancano
+solo \030 minerali di ferro\0￿!"
 "053_05","()촀\0Per motivi organizzativi, non
-possiamo accettare materiale in
+possiamo accettare materiali in
 quantità inferiore a quella richiesta.
-(촀\0Per potere fare una donazione, devi
-raccogliere la quantità minima
-di ciascun tipo di materiale. "
+(촀\0Perciò,
+\0 ripassa quando ne avrai
+accumulati a sufficienza, d'accordo?
+
+\0Grazie mille!"
 "054","(%촀\0Non c'è problema,
 \0 non sei 2(obbligatoobbligata.
-(촀\0Puoi donare quando vuoi."
+
+\0(촀\0Sentiti 2liberolibera di contribuire con ciò
+che puoi, 
+\0quando puoi."
 "055","(촀\0Magnifico! 
 \0(촀\0Abbiamo tutto il materiale
 necessario per la costruzione del
-nuovo negozio!"
+negozio!"
 "056_01","(촀\0Per ringraziartin\0\0
 \0 ti regaliamo
 2\0}\0\0,
@@ -191,29 +199,33 @@ sarebbe, dici?"
 "057","(4촀\0Un'altra cosa:
 \0 siccome senza il tuo
 contributo, non saremmo mai riusciti
-a raccogliere il materialen"
+a raccogliere i materiali necessarin"
 "058_01","(촀\0Vorremmo che fossi tu a scegliere
-il punto in cui verrà costruito
-il nuovo negozio."
+il punto in cui verrà costruito il
+nostro negozio nuovo di zecca."
 "058_02","(촀\0Sistema il \0kit negozio \0￿dove preferisci
 e daremo subito avvio ai lavori.\0\0(촀\0Che emozione! 
 \0Sono proprio curioso
 di vedere che posizione sceglierai
 per il nostro negozio!"
 "061","(
-촀\0Vediamo cosa abbiamo quin\0\0
-\0(촀\0 Non
-credo ai miei occhi! Questo è tutto
-il materiale di cui abbiamo bisogno.\0\0(&촀\0Vuoi davvero donarlo tutto insieme?"
-"061_a","Tieni!"
+촀\0Vediamo, cosa abbiamo quin\0\0\0\0(촀\0Non credo ai miei occhi! 
+\0Hai portato
+in un colpo solo tutti i materiali di
+cui avevamo bisogno!\0\0(&촀\0Vuoi davvero darceli tutti insieme,
+
+\0adesso?"
+"061_a","Sì, ecco a te!"
 "061_b","Non ora..."
 "062","(
-촀\0Dunque, vuoi donaren\0\0
-\0(촀\0
-\0 Incredibile!
-È il resto del materiale che ci serviva!\0\0(&촀\0Sei 2sicurosicura di volercelo donare
-tutto adesso?"
-"062_a","Tieni!"
+촀\0Dunque, 
+\0cosa ci porti di bellon\0\0
+\0
+(촀\0Incredibile! 
+\0È il resto dei materiali
+che ci serviva!\0\0(&촀\0Sei 2sicurosicura di volerceli dare tutti
+adesso?"
+"062_a","Sì, ecco a te!"
 "062_b","Non ora..."
 "071_01","(촀\0Ci mancano ancora tre tipi di
 materiali: 
@@ -256,113 +268,119 @@ di materiali:
 \0($촀\0 \0legna morbida
 \0￿e \0minerali di ferro\0￿."
 "081_01","(촀\0Sembra proprio che tu abbia
-parecchia \0legna normale\0￿.\0\0(&촀\0Desideri donarne \030\0￿ pezzi per
-la costruzione del nuovo negozio?"
-"081_01_a","Tieni!"
+parecchia \0legna normale\0￿.\0\0(&촀\0Desideri metterne a disposizione
+\030\0￿ pezzi per la costruzione del
+negozio?"
+"081_01_a","Sì, ecco a te!"
 "081_01_b","Non ora..."
 "081_02","(촀\0Sembra proprio che tu abbia
-parecchia \0legna dura\0￿.\0\0(&촀\0Desideri donarne \030\0￿ pezzi per
-la costruzione del nuovo negozio?"
-"081_02_a","Tieni!"
+parecchia \0legna dura\0￿.\0\0(&촀\0Desideri metterne a disposizione
+\030\0￿ pezzi per la costruzione del
+negozio?"
+"081_02_a","Sì, ecco a te!"
 "081_02_b","Non ora..."
 "081_03","(촀\0Sembra proprio che tu abbia
-parecchia \0legna morbida\0￿.\0\0(&촀\0Desideri donarne \030\0￿ pezzi per
-la costruzione del nuovo negozio?"
-"081_03_a","Tieni!"
+parecchia \0legna morbida\0￿.\0\0(&촀\0Desideri metterne a disposizione
+\030\0￿ pezzi per la costruzione del
+negozio?"
+"081_03_a","Sì, ecco a te!"
 "081_03_b","Non ora..."
 "081_04","(촀\0Sembra proprio che tu abbia
-parecchi \0minerali di ferro\0￿.\0\0(&촀\0Desideri donarne \030\0￿ per 
-la costruzione del nuovo negozio?"
-"081_04_a","Tieni!"
+parecchi \0minerali di ferro\0￿.\0\0(&촀\0Desideri metterne a disposizione
+\030\0￿ per la costruzione del negozio?"
+"081_04_a","Sì, ecco a te!"
 "081_04_b","Non ora..."
 "082_01","(촀\0Sembra proprio che tu abbia
 parecchia \0legna normale\0￿ e
-\0legna dura\0￿.\0\0(&촀\0Desideri donarne \030 \0￿pezzi di ciascun
-tipo per la costruzione del nuovo
-negozio?"
-"082_01_a","Tieni!"
+\0legna dura\0￿.\0\0(&촀\0Desideri mettere a disposizione
+\030 \0￿pezzi di ciascun tipo per la
+costruzione del negozio?"
+"082_01_a","Sì, ecco a te!"
 "082_01_b","Non ora..."
 "082_02","(촀\0Sembra proprio che tu abbia
 parecchia \0legna normale\0￿ e \0legna
-morbida\0￿.\0\0(&촀\0Desideri donarne \030\0￿ pezzi di ciascun
-tipo per la costruzione del nuovo
-negozio?"
-"082_02_a","Tieni!"
+morbida\0￿.\0\0(&촀\0Desideri mettere a disposizione
+\030 \0￿pezzi di ciascun tipo per la
+costruzione del negozio?"
+"082_02_a","Sì, ecco a te!"
 "082_02_b","Non ora..."
 "082_03","(촀\0Sembra proprio che tu abbia
 parecchia \0legna normale\0￿ e diversi
-\0minerali di ferro\0￿.\0\0(&촀\0Desideri donarne \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"082_03_a","Tieni!"
+\0minerali di ferro\0￿.\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"082_03_a","Sì, ecco a te!"
 "082_03_b","Non ora..."
 "082_04","(촀\0Sembra proprio che tu abbia
 parecchia \0legna dura\0￿ e \0legna
 morbida\0￿.
-\0\0\0(&촀\0Desideri donarne \030\0￿ pezzi di ciascun
-tipo per la costruzione del nuovo
-negozio?"
-"082_04_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030 \0￿pezzi di ciascun tipo per la
+costruzione del negozio?"
+"082_04_a","Sì, ecco a te!"
 "082_04_b","Non ora..."
 "082_05","(촀\0Sembra proprio che tu abbia
 parecchia \0legna dura\0￿ e diversi
 \0minerali di ferro\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"082_05_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"082_05_a","Sì, ecco a te!"
 "082_05_b","Non ora..."
 "082_06","(촀\0Sembra proprio che tu abbia
 parecchia \0legna morbida\0￿ e diversi
 \0minerali di ferro\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"082_06_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"082_06_a","Sì, ecco a te!"
 "082_06_b","Non ora..."
 "083_01","(촀\0Hai \0minerali di ferro\0￿, \0legna dura \0￿e
 \0legna morbida\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"083_01_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"083_01_a","Sì, ecco a te!"
 "083_01_b","Non ora..."
 "083_02","(촀\0Hai \0legna normale\0￿, \0legna morbida \0￿e
 \0minerali di ferro\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"083_02_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"083_02_a","Sì, ecco a te!"
 "083_02_b","Non ora..."
 "083_03","(촀\0Hai \0legna normale\0￿, \0legna dura\0￿ e
 \0minerali di ferro\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"083_03_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"083_03_a","Sì, ecco a te!"
 "083_03_b","Non ora..."
 "083_04","(촀\0Hai \0legna normale\0￿, \0legna morbida\0￿ e
 \0legna dura\0￿.
-\0\0\0(&촀\0Desideri donare \030\0￿ unità di ciascun
-materiale per la costruzione del
-nuovo negozio?"
-"083_04_a","Tieni!"
+\0\0\0(&촀\0Desideri mettere a disposizione
+\030\0￿ unità di ciascun materiale per
+la costruzione del negozio?"
+"083_04_a","Sì, ecco a te!"
 "083_04_b","Non ora..."
-"091","Mmmn\0\0
+"091","Mmmhn\0\0
 \0(&촀\0 Sono desolato, 
-\0(\0촀\0ma pare che
-al momento tu non possa fare una
-donazione.\0\0(9촀\0Per motivi organizzativi, non
-accettiamo materiale in quantità
-inferiore a quella prestabilita.\0\0(7촀\0So che può sembrare una regola
-eccessivamente restrittiva, ma sono
-sicuro che ne comprendi i motivi."
+\0(\0촀\0ma pare
+che al momento tu non abbia ciò
+di cui abbiamo bisogno.\0\0(9촀\0Per motivi organizzativi, non
+accettiamo materiali in quantità
+inferiore a quella prestabilita.\0\0(7촀\0Mi spiace essere così puntiglioso
+con simili questioni logistiche. 
+\0Sai,
+\0
+deformazione professionale."
 "092_01","(촀\0Ti siamo debitori!
 \0 Grazie al tuo
 contributo, siamo più vicini alla meta."
-"092_02","(촀\0Grazie mille! Abbiamo appena
-raggiunto la metà delle donazioni
-necessarie!"
+"092_02","(촀\0Grazie mille! 
+\0Abbiamo appena
+raggiunto la metà dei materiali
+necessari per il nostro obiettivo!"
 "092_03","(촀\0Non so come ringraziarti! Ancora
 un piccolo sforzo e il nostro sogno
 diventerà realtà."
@@ -390,8 +408,10 @@ tutto in una volta sola.\0\0()촀\0È sufficiente che ci porti 30 unità
 di uno qualunque dei materiali
 necessari. (촀\0Ti saremmo molto grati!"
 "103_01","(
-촀\0Abbiamo già ricevuto alcune
-donazioni. Al momento ci mancanon"
+촀\0Abbiamo già ricevuto alcuni dei
+materiali necessari. 
+\0Al momento
+ci mancanon"
 "103_02_01","(촀\0\030\0￿ pezzi ciascuno di \0legno duro\0￿ e
 di \0legno morbido\0￿,
 \0 nonché \030\0￿ \0minerali

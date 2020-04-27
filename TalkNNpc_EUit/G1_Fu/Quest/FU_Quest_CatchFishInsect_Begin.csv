@@ -14,25 +14,25 @@ e vorrei tanto esaminare da vicino
 (촀\0Purtroppo è un tipo di insetto che
 non si lascia catturare per nulla
 facilmenten"
-"004_a","Vuoi che ti aiuti?"
+"004_a","(\0촁\0Vuoi che ti aiuti?"
 "004_b","(\0촀\0Continua a provarci!"
 "008","()촀\0Di recente, ho visto la foto di 2\0}촀 in un manuale di pesca.\0\0(%촀\0Si tratta di esemplari meravigliosi
 \0
 (촀\0che però non si trovano facilmente
 qui in giro.
 (촀\0Sarebbe così bello se riuscissi
-a catturarne 2촀unouna\0."
-"008_a","Ti do una mano io."
+a catturarne 2촀unouna\0."
+"008_a","(\0촁\0Ti do una mano io."
 "008_b","(\0촀\0Non mollare!"
 "009","()촀\02\02\0}촀n\0\0
 \0
 Ne hai sentito parlare? È una specie
 che io ho scoperto poco tempo fa.
-(촀\0Da allora sogno di catturarne 2촀unouna\0n\0\0
+(촀\0Da allora sogno di catturarne 2촀unouna\0n\0\0
 
 \0(촀\0Purtroppo con la mia canna è
 impossibile."
-"009_a","Posso aiutarti?"
+"009_a","(\0촁\0Posso aiutarti?"
 "009_b","(\0촀\0Prova ancora."
 "011","(촀\0Oh, merci, merci, merci! 
 \0(촀\0Spero tanto
@@ -71,7 +71,7 @@ me? 
 "021_a","Lascia fare a me!
 OK!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","(%촀\0Le mandibole dei coleotteri sono
@@ -85,7 +85,7 @@ per me?"
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","( 촀\0Capita anche a te che il suono delle
@@ -101,7 +101,7 @@ cicala per me, n\0?"
 "023_a","Lascia fare a me!
 OK!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","(4촀\0Vorrei chiederti un favore,
@@ -118,7 +118,7 @@ dolci? 
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(""촀\0Le libellule sono così affascinanti.
@@ -134,7 +134,7 @@ una libellula per me?"
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","()촀\0Sto facendo una ricerca sugli insetti
@@ -147,7 +147,7 @@ potresti catturarlo per me,
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","()촀\0Ho letto che le termiti e altri insetti
@@ -165,7 +165,7 @@ prenderlo e portarmelo subito?"
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","()촀\0Medito spesso sulle differenze tra
@@ -181,7 +181,7 @@ per poterlo studiare da vicino?"
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","()촀\0Ultimamente ho riflettuto molto
@@ -195,7 +195,7 @@ da prenderne uno per me?"
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(촀\0Ho bisogno che tu mi faccia un

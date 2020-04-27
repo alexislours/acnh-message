@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","(7촀\0Huhu... 
 \0Ich hab eine kleine Frage.
-(&촀\0Willst du vielleicht 2(촀meinen
+(&촀\0Willst du vielleicht 2(촀meinen
 meinemein
 2촁}\0\0 kaufen?"
 "001_a","(\0촀\0Kostet?"
@@ -11,7 +11,7 @@ meinemein
 \0das du
 bestimmt gern kaufen würdest.(%촀\0
 \0
-(촀\02""촀
+(촀\02""촀
 EinenEineEin 2촁}\0\0!"
 "002_a","(\0촀\0Für wie viel?"
 "002_b","Glaube ich nicht."
@@ -25,20 +25,19 @@ abdrücke haben!
 (&촀\0Magst du mir nicht was abkaufen?"
 "003_a","(\0촀\0Was denn?"
 "003_b","Och nö, lass mal."
-"004","(촀\0Vor Kurzem habe ich mir 2""촀
-eineneineein
-2촁}\0\0 gekauft,
-\0
-obwohl ich schon 2&촀
+"004","(촀\0Vor Kurzem habe ich mir 2""촀
+eineneineein 2촁}\0\0 gekauft,
+\0 obwohl ich schon 2&촀
 eineneine
-eines hatte.
-('촀\0Frag nicht warum...
+eines hatte.\0\0('촀\0Frag nicht, warum...
 \0(촀\0 Ich war etwas
-neben der Spur, weil ich seit über
+neben der Spur, 
+\0weil ich seit über
 einer Stunde nichts gegessen hatte!
-(촀\0Möchtest du mir vielleicht 2$촀
+(촀\0Möchtest du mir vielleicht 2$촀
 eineneineeins
-davon abkaufen?"
+davon abkaufen, 
+\0n\0?"
 "004_a","(\0촀\0Wie viel willst du?"
 "004_b","Nö, kein Bedarf."
 "005","( 촀\0Oh. 
@@ -93,9 +92,9 @@ verschwenden wir keine Zeit!"
 wirklich was anfangen."
 "103","( 촀\0Auweian\0\0 
 \0Es wäre aber auch schade,
-2촀ihnsiees einfach nur wegzuwerfenn\0\0\0\0(촀\0Wir sind ja Futterfreunde, 
+2촀ihnsiees einfach nur wegzuwerfenn\0\0\0\0(촀\0Wir sind ja Futterfreunde, 
 \0da kann
-ich 2촀ihnsiees dir ja auch so überlassen.\0\0(촀\0Gute Freunde sind doch wichtiger
+ich 2촀ihnsiees dir ja auch so überlassen.\0\0(촀\0Gute Freunde sind doch wichtiger
 als Sternis, 
 \0n\0!
 
@@ -187,12 +186,10 @@ ganz lustig. 
 wiederholen!
 \0 Äh, he he he!"
 "300","(촀\0Hui!
-\0 Lass mich kurz überlegen...\0\0(&촀\0Wie wäre es mit 2(촀
+\0 Lass mich kurz überlegen...\0\0(&촀\0Wie wäre es mit 2(촀
 einem
 einer
-einem
-2촂}\0\0 für,
-
+einem 2촂}\0\0 für, 
 \0sagen wir... 
 \0Z?"
 "300_a","Nehme ich!
@@ -209,9 +206,8 @@ Leckereien leisten, von denen ich
 so lange geträumt habe!"
 "303","( 촀\0Ah,
 \0 nicht dein Ding... 
-\0Verstehe!\0\0(&촀\0Wäre 2촀eineineein }\0\0 für...
-\0
-Z eher was für dich?"
+\0Verstehe!\0\0(&촀\0Wäre 2촀eineineein }\0\0 für...
+\0 Z eher was für dich?"
 "303_a","Kann man so sagen!
 Aber hallo!"
 "303_b","(\0촀\0Was hast du noch?
@@ -219,8 +215,7 @@ Aber hallo!"
 "304","(
 촀\0Vielleicht fällt mir noch das Richtige
 für dich ein, 
-\0wart mal...\0\0(촀\02촀EinEineEin }\0\0
-für schlappe... 
+\0wart mal...\0\0(촀\02촀EinEineEin }\0\0 für schlappen\0\0 
 \0Z?"
 "304_a","Au ja!
 Gerne doch!"
@@ -229,8 +224,7 @@ Gerne doch!"
 "305","( 촀\0Huch?
 \0 Na gut, (촀\0letztes Angebot!
 \0(\0촀\0
-Was hältst du hiervon...?\0\0(촀\02촀EinEineEin }\0\0
-füüüüür...
+Was hältst du hiervon...?\0\0(촀\02촀EinEineEin }\0\0 füüüüürn\0\0
 \0 Z?"
 "305_a","Abgemacht!
 Da schlage ich ein!"
@@ -271,7 +265,7 @@ Ansprechpartner, 
 Einverstanden!"
 "403_b","(\0촀\0Das ist mir zu viel.
 (\0촀\0Geht's nicht billiger?"
-"404","(촀\0Uiuiui... Und Z?
+"404","(촀\0Uiuiuin\0\0 Und Z?
 \0
 (&촀\0Das wär doch ein echter
 Freundschaftspreis, 

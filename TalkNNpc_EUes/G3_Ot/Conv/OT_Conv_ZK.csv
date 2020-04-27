@@ -1,8 +1,8 @@
 ﻿"label","text"
-"001","( 촀\0Hola, n\0.촅
+"001","촆( 촀\0Hola, 초n\0.
 \0
-¿Has oído?\0\0촅n촁 va a montar una obra de teatro(5촃\0
-\0 y quiere darme el papel de princesa.촆\0\0(
+¿Has oído?\0\0촅n촁 va a montar una obra de teatro
+\0(5촃\0 y quiere darme el papel de princesa.촆\0\0(
 촀\0No sé yo si será un personaje
 adecuado para mín\0\0(촂"
 "002","(촀\0¡Quién mejor!촂
@@ -11,7 +11,8 @@ regia
 \0 y un aire autoritario
 \0 (촂\0sin
 parangón en n\0.
-(촀\0초Pero no te preocupes, n\0,
+(촀\0초Pero no te preocupes,
+\0 n\0,
 \0 (%촀\0que para ti también habrá un papel.\0\0촆(5촀\0¡Serás 2,el Aldeanola Aldeana 3!
 \0 ()촀\0Correrás de
 un lado a otro sin decir palabra,
@@ -19,8 +20,8 @@ un lado a otro sin decir palabra,
 (촀\0pero en eso tienes experiencia.(6촂\0
 (
 촀\0La gran pregunta es:
-\0 ¿a quién
-interpreto (&촀\0yo?(촂\0(촀\0(촂"
+\0
+¿a quién interpreto (&촀\0yo?(촂\0(촀\0(촂"
 "002_a","¡Al príncipe!"
 "002_b","¡A la princesa!"
 "002_c","Al sapo..."
@@ -65,13 +66,13 @@ interpretados por varones.
 \0 (촂\0¡un reto
 que podría convertirse (5촀\0en el papel
 que defina mi carrera!(촀\0(촂"
-"011","촅(촀\0Pero, n\0,촁
-\0 la princesa iba a ser el papel que definiera
+"011","촆(촀\0Pero, n\0,촁
+\0 la princesa iba a ser el papel que definiera
 \0 
 \0mi
 
-\0 carrera,
-\0 (촃\0no la suyan\0\0\0\0촅()촀\0Aunque, pensándolo mejor,
+\0 carrera,
+\0 (촃\0no la suyan\0\0\0\0촅()촀\0Aunque, pensándolo mejor,
 \0 creo
 que lo más adecuado para mí
 sería (촂\0un papel de reina( 촃\0n"
@@ -185,7 +186,7 @@ a un número mayor de nuestrosn\0\0(촀\0
 \0 Con mi aptitud natural
 para la parodia,
 \0 el parecido era
-patente.(촂\0\0\0촆¿Verdad,
+patente.(촂\0\0\0촆(9촂\0¿Verdad,
 \0 n\0?
 \0 (6촀\0¿No es cierto que sonaba igual que la duquesa del museo,
 \0 (촂\0aquí presente?(촀\0(촂"
@@ -207,9 +208,9 @@ de diva,
 "114","Llevas razón,촃
 \0 ese último comentario
 (%촀\0ha estado fuera de lugar.
-\0 Disculpas.
+\0 Disculpas.촅
 \0
-촆(촀\0Y tú,
+(촀\0Y tú,
 \0 cielo,
 \0 (2촃\0¿no te disculpas también?"
 "115","촅(5촀\0¿Lo ves?

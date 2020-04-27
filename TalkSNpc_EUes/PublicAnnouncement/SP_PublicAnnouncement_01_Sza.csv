@@ -13,7 +13,8 @@ vez en cuando para descansar
 y reponer fuerzas."
 "001","()촀\02.Son las
 Es laSon las Z\0:Z\0 
-\0del n\0, Z\0 de Z\0 de Z\0.(촀"
+\0del n\0,
+Z\0 de Z\0 de Z\0.(촀"
 "001_01","(촀\0¡Buenos días a todos!"
 "001_02","(촀\0¡Hola a todos!"
 "001_03","(촀\0¡Buenas noches, residentes!"
@@ -22,7 +23,7 @@ Es laSon las Z\0:Z\0 
 Hoy traigo un boletín informativo
 de última hora.
 \0(.촀\0 Veamosn"
-"003","(촀\0¡Feliz Año Nuevo!
+"003","(촀\0¡Feliz año nuevo!
 \0 Espero que sea
 (촀\0un año de felicidad y prosperidad
 para nuestra isla."
@@ -90,25 +91,29 @@ la primera \0Caza de Bichos\0￿ de
 la temporada de \09:00\0￿ a \018:00\0￿!"
 "006_01_02","La primera \0Caza de Bichos
 \0￿de la temporada se celebra hoy
-hasta las \018:00\0￿. ¡Id a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Id a la plaza!"
 "006_02_01","¡Hoy celebramos en la plaza
 la segunda \0Caza de Bichos\0￿ de
 la temporada de \09:00\0￿ a \018:00\0￿!"
 "006_02_02","La segunda \0Caza de Bichos
 \0￿de la temporada se celebra hoy
-hasta las \018:00\0￿. ¡Id a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Id a la plaza!"
 "006_03_01","¡Hoy celebramos en la plaza
 la tercera \0Caza de Bichos\0￿ de
 la temporada de \09:00\0￿ a \018:00\0￿!"
 "006_03_02","La tercera \0Caza de Bichos
 \0￿de la temporada se celebra hoy
-hasta las \018:00\0￿. ¡Id a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Id a la plaza!"
 "006_04_01","¡Hoy celebramos en la plaza
 la última \0Caza de Bichos\0￿ de
 la temporada de \09:00\0￿ a \018:00\0￿!"
 "006_04_02","La última \0Caza de Bichos
 \0￿de la temporada se celebra hoy
-hasta las \018:00\0￿. ¡Id a la plaza!"
+hasta las \018:00\0￿.
+\0 ¡Id a la plaza!"
 "007_01","(촀\0¿Os podéis creer que hoy es el 
 último día del año?
 \0 (촀\0El Z\0 ha sido
@@ -137,6 +142,17 @@ así que venid a la plaza cuanto antes.
 \0
 (""촀\0¡Nos vemos allí!
 Ò"
+"008_01_01","(촀\0¡Quiero recordaros que pronto
+vamos a celebrar la \0Caza del Huevo\0￿!\0\0(촀\0Además están empezando a
+cambiar las temperaturas.\0\0(촀\0Da un poco de pereza pasar a
+otra estación cuando ya te has
+acostumbrado a la anterior, ¿no?"
+"008_01_02","(촀\0¡Espero que estéis a tope de energía
+porque hoy celebramos el día de
+la \0Caza del Huevo\0￿!
+(촀\0Hay mucho movimiento en la plaza
+y creo que también tenemos visita.\0\0(촀\0¡Pasaos por allí cuando tengáis
+un rato y divertíos!"
 "010","(촂\0¡Hola a todos!
 \0 Siento interrumpir,
 \0
@@ -169,20 +185,20 @@ informativo de hoyn"
 "022","Otra cosilla que tengo
 que anunciarn"
 "031","Siguiente notician"
-"101","(촀\0¡Ha llegado 2,촀un nuevouna nueva\0 residente a
+"101","(촀\0¡Ha llegado 2,촀un nuevouna nueva\0 residente a
 la isla!
-\0 Se llama s촀 y estamos encantados de acogerl2촀oa\0."
+\0 Se llama s촀 y estamos encantados de acogerl2촀oa\0."
 "102","<"
 "102_01","(촀\0Te doy la bienvenida en nombre de
 todos, s촀."
-"102_02","(촀\0¡Bienvenid2촀oa\0 a la familia! Esperamos
+"102_02","(촀\0¡Bienvenid2촀oa\0 a la familia! Esperamos
 que te lo pases genial aquí."
 "102_03","(촀\0Me hace mucha ilusión que más
 gente se anime a vivir en nuestra
 querida isla."
 "200","(\0촀\0Y ahora una noticia un tanto tristen"
-"201","Mañana le decimos adiós a nuestr2촀oa\0
-querid2촀oa\0 vecin2촀oa\0 s촀.\0\0Es una pena tener que separarnos,
+"201","Mañana le decimos adiós a nuestr2촀oa\0
+querid2촀oa\0 vecin2촀oa\0 s촀.\0\0Es una pena tener que separarnos,
 pero todos te deseamos mucha
 suerte en tu nueva vida.
 Id a despediros antes de que
@@ -208,8 +224,7 @@ de las maravillas de esta isla."
 "602","(촀\0Según el pronóstico del tiempo,
 ¡esta noche podremos ver una
 \0lluvia de estrellas\0￿!
-(촀\0El cielo de n\0 se iluminará con la luz de muchas
-estrellas fugaces.\0\0(촀\0Si tenéis tiempo,
+(촀\0El cielo de n\0 se iluminará con la luz de muchas estrellas fugaces.\0\0(촀\0Si tenéis tiempo,
 \0 os recomiendo que
 salgáis esta noche y miréis al cielo.
 \0
@@ -332,14 +347,13 @@ os animáis a hacerlo!"
 si no lo habéis hecho ya.\0\0(촀\0Además, podéis aprovechar
 los \0copos \0￿que hayáis atrapado
 para crear algún objeto invernal."
-"615","(+촀\0Vaya, hoy también hace un frío
-que pelan\0\0\0\0(촀\0Aunque algunos dirán que es la
-temperatura ideal para salir a
-jugar en la nieve.
-()촀\0Los valientes que os atreváis a
-salir,
-\0 buscad bolas de nieve por
-el suelo y dadles un empujón.
+"615","(+촀\0Hoy también hace un frío que pelan\0\0\0\0(촀\0Aunque algunos dirán que es
+la temperatura ideal para salir
+a jugar en la nieve.
+()촀\0Los valientes que os atreváis a salir,
+\0
+buscad bolas de nieve por el suelo
+y dadles un empujón.
 (촀\0Hacedlas rodar hasta que sean
 lo bastante grandes y podréis juntar
 dos para hacer un \0muñeco de nieve\0￿.
@@ -399,8 +413,9 @@ en algún \0proyecto de bricolaje\0￿."
 \0 he visto
 una caña de bambú y me he
 acordado de un dato curioso.
-(&촀\0¿Sabéis que esta es la mejor época
-para cosechar \0tallos de bambú\0￿?"
+(&촀\0¿Sabéis que en esta época
+se pueden cosechar \0tallos
+de bambú primaveral\0￿?"
 "618_02_01","(6촀\0¿Y por qué os cuento esto?"
 "618_02_02","(%촀\0Porque os he enviado al móvil
 las instrucciones\0 \0￿para crear
@@ -422,12 +437,12 @@ isla estarán decorados con luces.
 pero no me convence del todo cómo
 han quedadon\0\0
 (촀\0Hoy he chocado sin querer con un
-cedro decorado y se cayeron unos
-cuantos adornos.
+cedro decorado y me ha caído
+(촀\0un adorno en la cabezan\0\0
 (촀\0Miedo me da pensar qué ocurrirá
-si a alguien le da por sacudirlosn\0\0\0\0(촀\0Si veis algún adorno por el suelo,
+si a alguien le da por sacudirlosn\0\0\0\0(촀\0Si encontráis adornos por el suelo,
 \0
-os agradecería que lo recogierais,
+os agradecería que los recogierais,
 \0
 por favor."
 "619_02_01","($촀\0¡Y otra cosa más!"

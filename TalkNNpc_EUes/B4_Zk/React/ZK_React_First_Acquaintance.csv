@@ -22,18 +22,10 @@ del tren,
 cuando me haya organizado."
 "001_03","(9촀\0Mira,
 \0 n\0n\0\0
-\0 Estuve
-pensando en lo que habíamos
-hablado, n\0.
-(촀\0¡Y tenías razón!
-\0 Me seduce la idea
-de vivir aquí en n\0
-contigo y tus amigos.
-(5촀\0Así quen\0\0
-\0 ¡me he venido!
-\0 (촀\0Mi nueva
-vida en n\0 da sus
-primeros pasos."
+\0 Estuve pensando en lo que habíamos hablado.\0\0(촀\0¡Y tenías razón!
+\0 Vivir aquí en n\0 contigo y tus amigos (%촀\0es el cambio que necesitaba.\0\0(촀\0¡Me alegro de haberme venido!
+\0
+(5촀\0Mi nueva vida en n\0 da sus primeros pasos, n\0."
 "002","<"
 "002_01","( 촀\0Ah,
 \0 hola,
@@ -140,8 +132,7 @@ me mudase a esta isla, n\0.
 \0
 ¿verdad?
 \0 Creo que nos hemos
-visto antesn\0\0\0\0(6촀\0Tu amig2
-촀oa\0 s\0촀
+visto antesn\0\0\0\0(6촀\0Tu amig2촀oa\0 s\0촀
 me ha fichado,
 \0 por decirlo así.\0\0(5촀\0A su modo de ver,
 \0 seré una gran
@@ -445,19 +436,18 @@ tranquilo en la \0zona de acampada \0￿yn\0\0
 descubrir lugares ignotos. 
 \0(6촀\0¡Qué dura
 es la vida del pionero, n\0!"
-"202_02","(&촀\0¿Recuerdas cuando vine de visita
-y me intentaste convencer de que
-me mudase, n\0?
-(6촀\0Ya sabes que suelo ir siempre
-contracorriente, pero tu oferta tuvo
-un «je ne sais quoi» muy persuasivo.
-(촀\0¡Así que aquí me tienes!
+"202_02","(6촀\0Sabes que suelo ir contracorriente,
 \0
+()촀\0pero tu invitación de mudarme tuvo
+un «je ne sais quoi» muy persuasivo.
+Y, al fin,
+\0 (촀\0¡aquí me tienes!
+\0
 ¡Soy el nuevo y flamante vecino
-de n	\0!
+de n	\0, n\0!
 (%촀\0Esta isla acaba de ganar en puntos
-de vanguardismo. 
-\0(촀\0¡Pena que sus
+de vanguardismo.
+\0 (촀\0¡Lástima que sus
 habitantes aún no lo sepan!"
 "202_03","(촀\0Menos mal que tuve la ocasión
 de verte en la \0zona de acampada\0￿.
@@ -518,8 +508,7 @@ e inimitable.\0\0('촀\0Pero no tienes por qué llamarme así.
 (
 촀\0Si quieres,
 \0 hablamos mejor de
-s\0촀.\0\0Fue 2
-촀élella\0 quien me recomendó venir
+s\0촀.\0\0Fue 2촀élella\0 quien me recomendó venir
 a esta isla cuando estuve unos días
 de \0acampada\0￿.
 (6촀\0Sí,
@@ -673,28 +662,19 @@ terminado de desahogarse?"
 \0 Te he buscado por todas partes.\0\0(1촀\0Parece que fue ayer cuando estaba
 \0acampando\0￿ y me preguntaste si
 quería quedarme a vivir aquí.
-(9촀\0Tras meditarlo con calma,
-\0 llegué
-a la conclusión de quen\0\0
-\0 (촀\0¡Sorpresa!\0\0(%촀\0Ya soy,
+(%촀\0En efecto, ya soy,
 \0 oficialmente,
-\0 vecino de
-n	\0.
+\0
+vecino de n	\0.
 \0 (촀\0Ahora no irás a cambiar de idea,
 \0 ¿verdad?"
-"301_02","($촀\0Mira qué n\0 de vanguardia ha llegado a la isla, n\0.\0\0(촀\0Sabía que antes o después nos
-encontraríamos, n\0.\0\0(:촀\0Sí,
-\0 caló en mí aquello que estuvimos
-hablando en la \0zona de acampada\0￿.\0\0(
-촀\0Si te digo la verdad,
-\0 no recuerdo
-de qué hablamos,
-\0 (%촀\0pero me impactó
-lo suficiente para mudarme aquí.
-(촀\0Espero que no se vuelva un lugar
+"301_02","(촀\0Sabía que antes o después nos
+encontraríamos, n\0.\0\0(5촀\0¡Mira qué n\0 de vanguardia ha llegado a n\0!\0\0(%촀\0Sí,
+\0 he cumplido mi promesa
+de mudarme aquí.\0\0(촀\0Espero que no se vuelva una isla
 «mainstream»,
-\0 ¡porque me está
-gustando mucho!"
+\0 ¡porque de momento
+me gusta mucho, n\0!"
 "301_03","($촀\0Bienvenid2oa a mi humilde morada,
 \0
 n\0.
@@ -825,8 +805,7 @@ aquí alguna tienda de vinilos?"
 \0 (5촀\0Soy yo,
 \0 n
 \0.\0\0(&촀\0¿Has visto a s\0촀 últimamente?
-\0 ()촀\0Hablé con 2
-촀élella\0 cuando estuve en la \0zona de acampada\0￿.\0\0(촀\0¡Me describió con tanta pasión la
+\0 ()촀\0Hablé con 2촀élella\0 cuando estuve en la \0zona de acampada\0￿.\0\0(촀\0¡Me describió con tanta pasión la
 belleza de esta isla que me decidí
 a mudarme aquí!
 (

@@ -12,14 +12,16 @@ alguien más.
 "006_01_a","Cambiar de líder"
 "006_01_b","Finalizar la sesión"
 "006_01_c","(\0촁\0Guardar y salir"
-"006_01_d","¿Cómo se juega?"
-"006_01_e","(\0촁\0Seguir jugando"
+"006_01_d","Ver pasaporte ajeno"
+"006_01_e","¿Cómo se juega?"
+"006_01_f","(\0촁\0Seguir jugando"
 "006_a","Cambiar de líder"
 "006_b","Finalizar la sesión"
 "006_c","Elegir isleños"
 "006_d","(\0촁\0Guardar y salir"
-"006_e","¿Cómo se juega?"
-"006_f","(\0촁\0Seguir jugando"
+"006_e","Ver pasaporte ajeno"
+"006_f","¿Cómo se juega?"
+"006_g","(\0촁\0Seguir jugando"
 "007","2\0s\0촀, oprime \0\0￿ y \0\0￿
 (o \0\0￿ y \0\0￿) simultáneamente.
 "
@@ -55,7 +57,7 @@ cobertura.
 \0 Supongo que solo puedo
 usar esta función en mi propia isla."
 "019","Elige con qué isleños
-quieres jugar.\0\0\0\0No podrás jugar con insulanos
+quieres jugar.\0\0\0\0No podrás jugar con isleños
 cuyo perfil de usuario haya sido
 eliminado de la consola.\0￿"
 "020","En este momento no puedes llamar

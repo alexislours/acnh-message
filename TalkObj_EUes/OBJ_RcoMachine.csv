@@ -3,9 +3,9 @@
 un servicio multimedia de Nook Inc."
 "001_02","Es necesario tener residencia oficial
 en n\0 para usar este servicio."
-"001_03","Este servicio solo está disponible
-para residentes registrados
-en \0n\0\0￿."
+"001_03","Solo los residentes registrados
+de n\0 pueden usar
+este servicio."
 "002","Elige una opción:"
 "002_01","Elige una opción:"
 "002_01_a","TeleNook"
@@ -141,7 +141,7 @@ de millas Nook:\0￿"
 del programa de millas Nook:\0￿"
 "103_01","\0\0Sentimos que la terminal Nook no
 estuviera disponible ayer debido a
-a la construcción del nuevo edificio.\0￿"
+la construcción del nuevo edificio.\0￿"
 "103_02","\0\0¡Feliz año nuevo!\0\0Sentimos que la terminal Nook no
 estuviera disponible ayer debido al
 cierre de la oficina por la festividad.\0￿"
@@ -201,6 +201,14 @@ a la \0zona de acampada\0￿."
 ¿Quieres dejar de usar este servicio?"
 "529_a","Dejarlo"
 "529_b","Volver a leer"
+"530","¡Es el amiibo de s촀!
+\0(
+¿Quieres invitarl2oa a que
+se venga de acampada?"
+"530_a","¡Sí!"
+"530_b","Déjalo"
+"531","Parece que no es posible hablar
+con s촀 ahora mismo."
 "541","Solo es posible invitar a la \0zona de
 acampada\0￿ a un personaje al día.
 Vuelve a intentarlo mañana."
@@ -216,7 +224,7 @@ las puertas estén cerradas."
 un amiibo con la comunicación
 inalámbrica activada.
 Desactívala desde el mostrador
-del aeródromo y vuelve a intentarlo."
+del \0aeródromo\0￿ y vuelve a intentarlo."
 "544","No es posible usar amiibo
 con la consola en modo avión.\0\0\0Mantén pulsado  \0￿para acceder a
 la configuración de acceso rápido

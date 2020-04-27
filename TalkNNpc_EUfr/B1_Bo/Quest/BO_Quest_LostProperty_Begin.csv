@@ -26,7 +26,7 @@ Il est cool, mais il est aussi perdun\0\0\0\0Si quelqu'un le trouve
 l'intérieurn\0\0
 \0( (촀\0IL FAUT QUE JE LE
 RETROUVE !"
-"003_a","Je vais t'aider !"
+"003_a","(\0촀\0Je vais t'aider !"
 "003_b","(\0촁\0C'est terrible !"
 "004","(
 촀\0J'ai perdu le sac dans lequel je garde
@@ -37,7 +37,7 @@ dessous, 
 \0j'ai demandé aux insectes
 dans le plancher...\0\0('촀\0Aucune trace de Stéphane !\0\0(촀\0Ah ! Mais peut-être que je l'ai perdu
 dehors !"
-"004_a","Cherchons ensemble !"
+"004_a","(\0촀\0Cherchons ensemble !"
 "004_b","(\0촁\0Courage !"
 "006","(&촀\0Je voulais relire mon livre d'images
 préféré,
@@ -51,20 +51,20 @@ et je commence à m'inquiéter !\0\0(\0촀\0J'ai cherché dans toutes mes
 cachettes,
 \0(촀\0 mais il doit être meilleur
 à cache-cache que moi !"
-"007_a","Cherchons ensemble."
+"007_a","(\0촀\0Cherchons ensemble."
 "007_b","(\0촁\0Tu vas le trouver."
 "008","('촀\0J'ai perdu mon journal à rêves !
 (\0촀\0Les pages sont toutes blanches
 \0(촀\0
 mais j'adore l'odeur du papier !
 \0(촀"
-"008_a","Je vais t'aider !"
+"008_a","(\0촀\0Je vais t'aider !"
 "008_b","(\0촁\0C'est pas de chance."
 "009","(촀\0Je crois que j'ai perdu mon journal.\0\0(4촀\0J'ai écrit plein de trucs super
 personnels dedans !
 \0((2촀\0 J'espère que
 personne le liran"
-"009_a","Cherchons ensemble !"
+"009_a","(\0촀\0Cherchons ensemble !"
 "009_b","(\0촁\0Je vois..."
 "011","(촀\0Tu veux m'aider ?
 \0((촀\0 Merci, c'est gentil.
@@ -178,8 +178,7 @@ de chercher, n\0."
 friandises n'en seront que meilleures
 quand je les retrouverai !"
 "201","(촀\0Ah, n\0 !
-\0((촀\0 Mon journal
-super secret a disparu !\0\0(촀\0Je me sens pas tranquille quand je
+\0((촀\0 Mon journal super secret a disparu !\0\0(촀\0Je me sens pas tranquille quand je
 l'ai pas avec moin\0\0
 \0((촀\0 Tu voudrais bien
 m'aider à le retrouver ?"

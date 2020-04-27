@@ -7,6 +7,14 @@ liées aux données de sauvegarde.
 \0
 Les enfants doivent se faire aider de
 leurs parents ou tuteurs, oui, oui.(촀"
+"002","Bonjour, n\0.
+\0
+C'est ici que je traite les demandes
+liées aux paramètres en général.
+()촀\0Il s'agit de dossiers très compliqués.
+\0
+Les enfants doivent se faire aider de
+leurs parents ou tuteurs, oui, oui.(촀"
 "010_01","(9촀\0Bien, maintenant que te voilà
 dûment informé2\0en"
 "010_02","(9촀\0Voilà, je crois que nous avons fait le
@@ -18,12 +26,21 @@ si tu le souhaites. 
 \0De quoi s'agit-il ?"
 "011_a","Supprimer un joueur."
 "011_b","Explique-moi."
-"011_c","On arrête tout."
+"011_c","En fait, laisse tomber."
 "012","Ceci étant dit et bien dit, comment
 puis-je t'aider, hm ?"
 "012_a","Supprimer un joueur."
 "012_b","Explique-moi."
-"012_c","On arrête tout."
+"012_c","En fait, laisse tomber."
+"020","Alors les paramètres, parlons-en.
+\0
+Quels sont ceux sur lesquels tu
+souhaites des informations ?"
+"020_a","Ceux de sauvegarde !"
+"020_b","Les paramètres NookLink !"
+"020_c","Aucun pour le moment."
+"021","(촀\0Les paramètres de sauvegarde, hm ?
+Avec plaisir, oui, oui !"
 "051","(촀\0Oui, oui, je comprends. 
 \0Dans ce cas,
 le plus simple est de retourner à
@@ -58,7 +75,7 @@ résidents désireux de supprimer leur
 dossier d'inscription de résident.
 (9촀\0En termes plus techniques, d'\0effacer
 les données de sauvegarde de joueur\0￿
-d'\0Animal Crossing: New Horizons\0￿.
+d'\0Animal Crossing: New Horizons\0￿.
 (촀\0Depuis les paramètres de
 la console du menu HOME
 de la Nintendo Switchn\0\0
@@ -82,9 +99,7 @@ qu'en cas d'absolue nécessité."
 informations sur la suppression du
 dossier d'inscription de résidentn\0\0
 ()촀\0Tout ce que le résident en question
-possède à n	\0 et tous
-ses souvenirsn\0\0 Tout va disparaître !
-(촀\0Maison, clochettes, milesn\0\0 rayés de
+possède à n	\0 et tous ses souvenirsn\0\0 Tout va disparaître !\0\0(촀\0Maison, clochettes, milesn\0\0 rayés de
 la carte !
 \0 De même, il disparaîtra de
 la mémoire des autres résidents.
@@ -104,7 +119,7 @@ résidents désireux de supprimer leur
 dossier d'inscription de résident.
 (9촀\0En termes plus techniques, d'\0effacer
 les données de sauvegarde de joueur\0￿
-d'\0Animal Crossing: New Horizons\0￿.
+d'\0Animal Crossing: New Horizons\0￿.
 (촀\0Depuis les paramètres de
 la console du menu HOME
 de la Nintendo Switchn\0\0
@@ -138,7 +153,7 @@ au menu HOME de la consolen\0\0
 la console\0￿, \0Gestion des données\0￿ et
 \0Gestion des données de sauvegarde\0￿.
 (9촀\0Ensuite, il te faudra sélectionner
-\0Animal Crossing: New Horizons\0￿...\0\0Et enfin, tu devras choisir \0Effacer
+\0Animal Crossing: New Horizons\0￿...\0\0Et enfin, tu devras choisir \0Effacer
 toutes les données de sauvegarde
 de ce logiciel\0￿.\0\0Mais rappelle-toi que cette
 méthode ne permet pas d'effacer
@@ -157,7 +172,7 @@ au menu HOME de la consolen\0\0
 la console\0￿, \0Gestion des données\0￿ et
 \0Gestion des données de sauvegarde\0￿.
 (9촀\0Ensuite, il te faudra sélectionner
-\0Animal Crossing: New Horizons\0￿...\0\0Et enfin, tu devras choisir \0Effacer
+\0Animal Crossing: New Horizons\0￿...\0\0Et enfin, tu devras choisir \0Effacer
 toutes les données de sauvegarde
 de ce logiciel\0￿.\0\0Mais rappelle-toi que cette
 méthode ne permet pas d'effacer
@@ -205,9 +220,7 @@ aucun compte utilisateur associé
 de d'⁠s\0촀n"
 "107","(\0촀\0Par contre, si le dossier d'inscription
 2
-de d'⁠s\0촀 est supprimé,
-tu ne pourras plus faire cela.
-C'est donc une démarche qu'il ne
+de d'⁠s\0촀 est supprimé, tu ne pourras plus faire cela.\0\0C'est donc une démarche qu'il ne
 convient d'effectuer qu'en cas
 d'absolue nécessité.
 (9촀\0Alors, je te le demande à nouveau :

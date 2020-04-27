@@ -4,7 +4,7 @@
 촀\0Bist du nicht...
 \0 Verrat's mir
 nicht... 
-\0(촀\0n\0, oder?\0\0(%촀\0Witzig, dich zu treffen.
+\0(촀\02\0n\0, oder?\0\0(%촀\0Witzig, dich zu treffen.
 \0 Sieh dich
 mal um.
 \0 Merkste was?
@@ -14,7 +14,7 @@ nach n\0 gezogen!\0\0(6촀\0Schade, dass wir auf verschiedenen
 Inseln leben, 
 \0aber wenn du reden
 willst, komm ruhig vorbei!"
-"002","(촀\0n\0!
+"002","(촀\02\0n\0!
 Ich wusste ja gar nicht,
 \0 dass du auf
 n\0 wohnst.
@@ -22,8 +22,8 @@ Ich wusste ja gar nicht,
 \0 Das Essen
 hat ordentlich Ballaststoffe,
 \0 (촀\0und ich
-kann schlafen,
-\0 so lange ich will!\0\0(6촀\0Tja, ich lass dich mal weiter deine
+kann so lange schlafen,
+\0 wie ich will!\0\0(6촀\0Tja, ich lass dich mal weiter deine
 Geschäfte erledigen.
 \0 Kannst aber
 meinetwegen immer vorbeikommen!"

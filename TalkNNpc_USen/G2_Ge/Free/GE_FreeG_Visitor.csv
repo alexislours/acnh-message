@@ -6,7 +6,7 @@ from n!\0 yet?"
 "001_b","(\0촀\0What?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Good! I was worried you'd miss out!
 \0
 (%촀\0It's hard to forget the sweet, (촀\0yummy
@@ -49,10 +49,12 @@ Bells here!"
 \0It's still a tent right now, though.\0\0(촀\0You should go say hi to \0Blathers\0￿,
 n\0. He's in the
 tent, researching!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0The \0museum \0￿here works really hard
 to make sure the displays look
 top-notch.
@@ -90,41 +92,64 @@ My favorite one is the
 !
 (촀\0You have GOT to see it!"
 "101","<\0fi"
-"102","(""촀\02\0n\0!
+"201","<\0ÊÍ"
+"202","(""촀\02\0n\0!
 \0 You're here
 to visit because you missed
 me(3촀\0n\0\0riiiiiight?"
-"102_a","Yup!"
-"102_b","What? N-no?"
-"103","(촀\0Aww, thanks! I was just thinking
-about how I miss your face too,
-n\0!\0\0('촀\0I was legit torn up when you moved
-away, 
-\0(촀\0but I KNEW you'd come back
-to visit!\0\0We're besties for life, after all!
-\0
-Come visit again, 'K?"
-"104","(촀\0HA! Nice try! You miiiissed meee!
-
+"202_a","Yup!"
+"202_b","What? N-no?"
+"203","(촀\0You're the best!
+\0 (7촀\0Funny thing is, 
+\0I'd
+JUST been thinking how awesome it
+would be to see you again!
+(8촀\0Life on this island is fun, y'know?
+\0
+But when I'm doing my dancen\0\0\0\0(촀\0Well, it's just WAY more fun when
+you're there clapping along.\0\0(4촀\0So if you ever miss me again,
+\0 don't
+hesitate or anything.
+\0 Just come see
+me anytime, OK, n\0?"
+"204","(촀\0Liar, liar, pants on fire! 
+\0You miiiissed
+meee! 
 \0(촀\0I can see right through you!\0\0(촀\0To be honest, I was so way down in
-the pits when you left that I had to
+the pits after I moved that I had to
 pick up a hobby to feel better.\0\0I started 촀 and it's
 (촀\0TOTES the best thing! 
 \0I'll have to
 (촀\0show you sometime."
-"105","Hey, n\0, you live on
-n""\0, right?
-What's it like?"
-"105_a","It's a fun place!"
-"105_b","It's a beautiful place!"
-"106","It's fun, huh? I 
-\0LOVE FUN!\0\0(촀\0When I become a pop star and I
-go on tour, I'll totes swing by
-n""\0!\0\0(%촀\0That way I'll get to visit
-n""\0 AND see you!
+"205","(;촀\0Hey, 
+\0how's n	\0
+been since I moved away?"
+"205_a","Super fun!"
+"205_b","Pretty chill."
+"206","It's fun, huh?
+\0 (;촀\0
+\0I LOVE FUN!\0\0(촀\0
+\0When I become a pop star and I go
+on tour, I'm totes gonna swing by
+n	\0, n\0!\0\0(%촀\0That way I'll be able to visit
+n	\0 AND see you!
+\0(
+(촀\0BEST 
+\0WORLD 
+\0TOUR 
+\0EVER!"
+"207","Chill, huh?
+\0 (3촀\0That just means a little
+excitement should be just what you
+and the others need, right?
+\0( (;촀\0RIGHT?!\0\0(촀\0So I'm totes gonna do an 
+\0""I'm back""
+\0
+concert on n	\0.
+\0( (촀\0It'll
+be mondo huge, n\0!\0\0(촀\0I can't wait! 
+\0I just have to call up
+my manager and make it happenn\0\0
+\0(8촀\0
 \0
-(촀\0BEST WORLD TOUR EVER!"
-"107","Ooh, beautiful, huh? (촀\0The prettier the
-island, the more fun everyone has!\0\0(\0촀\0I bet having you around doesn't
-hurt either. (촀\0I'm so jelly of
-n""\0!"
+\0Konce I get a manager.\0d"

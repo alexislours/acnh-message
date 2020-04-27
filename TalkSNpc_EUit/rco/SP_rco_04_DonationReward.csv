@@ -12,18 +12,19 @@ diamo subito un'occhiata."
 \0(촀\0 Beh, se la
 cambi di nuovo, sai dove trovarmi."
 "003_01","(촀\0Bene, bene! 
-\0Hai trovato 2*촀un altroun'altra\0
-}\0\0, vedo!\0\0()촀\0Ho ancora l'esemplare che mi hai
-portato l'altra volta, quindi questo
-te lo restituisco.
-(\0촀\0Fai come credi, puoi tenerlo on\0\0
+\0Hai trovato 2*촀un altroun'altra\0
+}\0\0, vedo!\0\0()촀\0Me ne hai già 26촀portato unoportata una\0 l'altra
+volta, quindi 2""촀questoquesta\0 te 2촀lola\0 puoi
+pure tenere.
+(\0촀\0Sì, sì, 
+\0puoi 26촀conservarloconservarla\0 oppuren\0\0
 
-\0(촀\0venderlo!
+\0(촀\02*촀venderlovenderla\0!
 \0( (%촀\0E se trovi qualcosa di
 nuovo, vieni a farmelo vedere, sì?"
 "003_02","(촀\02\0
-\02\0}\0\0!\0\0()촀\0Stenterai a crederci, ma possiedo
-già uno di questi esemplari.\0\0(\0촀\0Fai come credi, puoi tenerlo on\0\0
+\02\0}\0\0!\0\0()촀\0Stenterai a crederci, ma ho già
+ricevuto uno di questi esemplari.\0\0(\0촀\0Fai come credi, puoi tenerlo on\0\0
 
 \0(촀\0venderlo!
 \0( (%촀\0E se trovi qualcosa di
@@ -55,7 +56,7 @@ che lavora al museo?"
 "005_03_b","A dire la verità..."
 "006_01","(촀\0Grazie! 
 \0Prometto che tratterò
-2""촀il tuola tua\0 }\0\0 con grande cura!"
+2""촀il tuola tua\0 }\0\0 con grande cura!"
 "007_01","(촀\0Spero che continuerai a portarmi
 nuove scoperte da esaminare.
 \0 Fa parte della vita sull'isola! 
@@ -70,10 +71,10 @@ idea, sai dove trovarmi, eh?!"
 "011_01_01","(촀\0Non ha niente a che fare con la tua
 generosa donazione, ma avrei
 una bella applicazione da mostrarti."
-"011_02","(%촀\0Si chiama \0Enciclopedia\0￿ ed è una
+"011_02","(촀\0Si chiama \0Enciclopedia\0￿ ed è una
 risorsa eccezionale per 24un aspiranteun'aspirante
 22ricercatorericercatrice come te!
-(!촀\0Grazie a questa applicazione, avrai
+(촀\0Grazie a questa applicazione, avrai
 tutti i dettagli più importanti sugli
 insetti e sui pesci che catturi.
 \0 Sì, sì!"
@@ -101,7 +102,7 @@ a qualcosa un'istante fa.(촀"
 \0 (촀\0Beh, immagino di non
 essermene accorto allora.
 \0(촀"
-"012_05","()촀\0Il fatto è che pensavo di insegnarti
+"012_05","()촀\0Il fatto è che pensavo di farti avere
 qualche \0schema fai da te\0￿.\0\0(촀\0Potresti accendere il tuo telefono,
 per favore?"
 "012_06","(촀\0Oh, mi dispiace! 
@@ -129,8 +130,8 @@ che fra qualche giorno spunteranno
 dei fiori bellissimi, sì, sì.
 (%촀\0Prova, mi raccomando. 
 \0(촀\0E se poi
-i fiori ti piacciono, passa pure
-da qui ad acquistare altro!"
+i fiori ti piacciono, passa pure qui
+ad acquistare altro!"
 "013_03","(촀\02\02\0\0}\0\0\0￿! 
 \0Si tratta di un esempio dei prodotti che vendiamo.\0\0(촀\0Fai un po' di giardinaggio e vedrai
 che fra qualche giorno spunteranno
@@ -167,12 +168,12 @@ sconsiglia di cedere gratuitamente
 articoli del generen\0\0
 (촀\0Ma tu hai raccolto creature per me, n\0,
 \0(촀\0 quindi è parte della collaborazione tra abitanti!"
-"015_01","(촀\0Aspetta un attimo, qualcuno mi sta
+"015_01","Aspetta un attimo, qualcuno mi sta
 chiamando!
 Z"
 "015_02","\0(&촀\0Blatero\0￿, sei tu?
-\0 (!촀\0Oho, chiami proprio
-al momento giusto!"
+\0 (촀\0Chiami proprio
+al momento giusto, sì, sì!"
 "015_03","(%촀\0Sì, sìn\0\0 Ti ricordi quell'affare di cui
 avevamo parlato?
 \0 (촀\0Beh, diciamo che
@@ -184,13 +185,13 @@ che abbiamo deciso di chiamare
 come previsto. 
 \0Proprio come ti avevo
 anticipato!"
-"015_04","(1촀\0\0KMmm-mhn\0\0
+"015_04","(1촀\0\0KMmmhn\0\0
 <\0\0d\0\0(&촀\0Il numero preciso di esemplari?
 \0(
-('촀\0Beh, non saprei di preciso, aspettan\0\0\0\0(
+('촀\0Non saprei, aspetta che controllon\0\0\0\0(
 촀\0Vediamon\0\0 al momenton\0\0 ne ho
-cinque!\0\0(1촀\0\0KMmm-mhn\0\0
-\0 Mmm-mhn\0\0\0d
+cinque!\0\0(1촀\0\0KMmmhn\0\0
+\0 Mmmhn\0\0\0d
 \0
 (촀\0Cosa?! 
 \0Dici sul serio?!\0\0(촀\0Sì, sì, MOLTO interessante.
@@ -205,7 +206,7 @@ con un cliente in questo momento!"
 che lavora come curatore del museo."
 "015_06","(촀\0Non ci crederai, ma verrà presto qui
 sull'isola per aiutarci a identificare e
-proteggere la fauna e i fossili locali."
+proteggere la fauna locale."
 "015_07","(촀\0Ah, il tuo aiuto mi farebbe molto
 comodo, n\0n"
 "015_08","(&촀\0Visto che hai esplorato già così tanto
@@ -242,7 +243,7 @@ possibile, non sarò io a fermarti!"
 vero?
 (촀\0Non c'è fretta, puoi ripagarmi con
 calma.
-\0 E bello vedere qualcuno che
+\0 È bello vedere qualcuno che
 partecipa al mio programma!"
 "019","(촀\0Posso darti qualche dritta per
 velocizzare la raccolta delle miglia

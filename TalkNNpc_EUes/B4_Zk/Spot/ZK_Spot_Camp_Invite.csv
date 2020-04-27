@@ -3,6 +3,22 @@
 \0 (7촀\0Me siento halagado.\0\0(%촀\0Hablemos con la \0oficina de gestión
 vecinal\0￿,
 \0 a ver qué tengo que hacer."
+"003","(촀\0Espera, estoy viviendo un «megabú».
+\0
+Esta conversación ya la hemos tenido
+tú y yo antesn\0\0
+(1촀\0Tú me pedías que me quedaran\0\0
+\0
+(촀\0¡y yo te decía que no!\0\0(8촀\0Y a pesar de ese rechazo,
+\0
+¿me sigues queriendo aquí?
+\0
+(촀\0¡Qué generosidad la tuya!
+(
+촀\0Quizá sí que debería instalarme en la
+isla y ocuparme de su marketing,
+\0 (""촀\0¡se
+lo propondré a la \0oficina de gestión\0￿!"
 "101","<"
 "101_01","(촀\0Tengo sentimientos encontrados,
 \0
@@ -175,12 +191,18 @@ pero cosas más raras he hecho.
 (5촀\0Soy n
 \0.\0\0(촀\0Quizá te suene mi blog o alguno de
 mis cortos independientes,
-\0 n\0."
+\0 n\0.\0\0(촀\0Tú eras n\0, ¿no?
+\0 ¡Estupendo!\0\0(촀\0Ahora mismo voy a hablar con los de
+la \0oficina de gestión\0￿ para que me
+confirmen lo de la mudanza."
 "206_02","(촀\0¡Enhorabuena por tu victoria!
 \0 (촀\0Pero
 yo también gano,
 \0 ¡porque me mudo
 aquí!
+(%촀\0Ahora mismo voy a hablar con los
+de la \0oficina de gestión\0￿ para que
+lo hagan oficial.
 (1촀\02\0n	\0 no tardará en tener su primera exhibición cultural
 organizada por n
 \0.\0\0(6촀\0Y ten por seguro que en el discurso
@@ -196,21 +218,22 @@ tendré que ir haciendo las maletas,
 n\0.
 (9촀\0Pero no para irme,
 \0 sino para venir.
-\0 Pienso seguir con esto hasta el
-final,
-\0 con todas sus consecuencias.\0\0(7촀\0Así que,
-\0 sin más «pernámbulos»,
-\0 me
-presenton\0\0
-\0 (촀\0Soy n
+\0 Pienso seguir adelante con el plan,
+\0
+(촀\0con todas sus consecuencias.
+(7촀\0Me llamo n
 \0,
-\0 para lo que necesites.\0\0(%촀\0«Arigato» por esta oportunidad,
+\0 no lo olvides.
+\0 Al fin y al cabo,
+\0 (촀\0¡vamos a ser vecinos!\0\0(%촀\0«Arigato» por esta oportunidad,
 \0 n\0.
-\0 O, lo que es lo
-mismo,
+\0 O, lo que es lo mismo,
 \0 «gracias» en chino.
 \0 (촀\0¡Je,
-\0 je!"
+\0 je!\0\0( 촀\0¡Pero basta de cháchara!
+\0(촀\0 Tengo que
+ir a la \0oficina de gestión\0￿ para hacer
+todo el papeleo."
 "302","(촀\0Malas noticiasn\0\0\0\0('촀\0En la \0oficina de gestión vecinal\0￿ me
 han dicho que la oferta de vivienda
 no cubre toda la demanda de la isla.\0\0(촀\0Vamos,
@@ -307,36 +330,23 @@ la isla?"
 cosas de las que después nos
 podamos arrepentir,
 \0 n\0."
-"402","(:촀\0Ah,
-\0 miran\0\0
-\0 (촀\0Lo siento,
-\0 pero me han
-dado malas noticias de la \0oficina de
-gestión vecinal\0￿.
-(촀\0¡Un primo mío vive ya aquí!
-\0 (	촀\0Y nos
-prometimos que nunca viviríamos en
-la misma islan\0\0
-\0 Así que no podrá ser.
-(촀\0Somos gente de palabra y cumplimos
-nuestras promesas.
-\0 (촀\0¡Pero gracias de
-todos modos por invitarme!"
-"403","(:촀\0Ah,
-\0 miran\0\0
-\0 (촀\0Lo siento,
-\0 me han dado
-malas noticias los de la \0oficina de
-gestión vecinal\0￿.
-(촀\0¡Un primo mío se muda hoy aquí!
+"313","(""촀\0Perfecto,
+\0 ¡eso haré!
+\0 (8촀\0Precisamente
+he oído rumores de que s촀 quizá se fuesen\0\0\0\0Hablaré con 2촀élella\0 a ver si me cede
+su puesto en el censo.
+\0 Si te parece
+bien, claron"
+"313_a","¡Adelante!"
+"313_b","¡Ni se te ocurra!"
+"314","(촀\0Ya está,
+\0 ya me he vuelto a precipitar.
 \0
-(	촀\0Y nos prometimos no vivir nunca en
-la misma islan\0\0
-\0 Así que no podrá ser.
-(촀\0Somos gente de palabra y cumplimos
-nuestras promesas.
-\0 (촀\0¡Pero gracias de
-todos modos por invitarme!"
+Si es que (촀\0me lío a idear planes y
+no pienso en las consecuenciasn\0\0
+(7촀\0Será mejor que pinche en
+«Deshacer» y lo deje todo
+como estaba, n\0n"
 "404","(:촀\0Ah,
 \0 miran\0\0
 \0 (촀\0Lo siento,
@@ -353,21 +363,6 @@ como yo.
 el espacio,
 \0 nada se puede.
 \0 (촀\0¡Gracias
-de todos modos por invitarme!"
-"405","(:촀\0Ah,
-\0 miran\0\0
-\0 (촀\0Lo siento,
-\0 me han dado
-malas noticias los de la \0oficina de
-gestión vecinal\0￿.
-(촀\0¡En la isla ya no queda hueco para
-poner una casa más!
-\0 (	촀\0Ni siquiera una
-minimalistan\0\0
-\0 Así que no podrá ser.
-(촀\0No se puede hacer nada contra las
-burbujas inmobiliarias.
-\0 (촀\0¡Pero gracias
 de todos modos por invitarme!"
 "406","(6촀\0Adivina,
 \0 n\0n\0\0\0\0(촀\0Estás ante el nuevo promotor del arte de vanguardia y las obras de
@@ -394,24 +389,6 @@ se puede intentar otra vez.\0\0(%촀\0Quizá la próxima sea la buena,
 A veces en la vida solo te llevas
 chasco tras chasco,
 \0 n\0n"
-"421","(
-촀\0Ahora veo por qué mi primo querría
-vivir aquí.\0\0(9촀\0Nos gustan las mismas cosas,
-\0 desde
-2\0촀 hasta 2\0촀.\0\0(촀\0Pero los dos a la vez seríamos
-demasiado,
-\0 toda una sobredosis
-de originalidad,
-\0 n\0."
-"422","(
-촀\0Ya entiendo por qué mi primo quiere
-vivir aquí.\0\0(9촀\0Nos gustan las mismas cosas,
-\0 desde
-2\0촀 hasta 2\0촀.\0\0(촀\0Pero tenernos a los dos a la vez en
-la isla sería demasiado,
-\0 un alud de
-originalidad,
-\0 n\0."
 "423","(
 촀\0No puedo creer que tu isla sea tan
 popular.
@@ -420,15 +397,6 @@ popular.
 vendría a vivir aquín\0\0
 Es broma.
 \0 (촀\0¡Me quiero mudar ya!"
-"424","(
-촀\0No puedo creer que tu isla sea tan
-popular.
-\0 ('촀\0Si no fuera por eso,
-\0 me
-vendría a vivir aquín\0\0
-Es broma.
-\0 (촀\0¡Quiero mudarme ya
-mismo!"
 "504","($촀\0Esta isla me transmite vibraciones
 superpositivas.
 \0 (1촀\0Aquí me podría

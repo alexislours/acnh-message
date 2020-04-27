@@ -85,25 +85,29 @@ pour l'occasion !"
 se tiendra aujourd'hui de \09 h\0￿ à \018 h\0￿.
 Rendez-vous sur la place !"
 "006_01_02","Le premier \0insectosafari\0￿ de la saison
-est en cours. Il se tiendra jusqu'à
+est en cours.
+\0 Il se tiendra jusqu'à
 \018 h\0￿ ce soir !"
 "006_02_01","Le deuxième \0insectosafari\0￿ de la
 saison se tiendra aujourd'hui de \09 h
 \0￿à \018 h\0￿. Rendez-vous sur la place ! "
 "006_02_02","Le deuxième \0insectosafari\0￿ de la
-saison est en cours. Il se tiendra
+saison est en cours.
+\0 Il se tiendra
 jusqu'à \018 h \0￿ce soir !"
 "006_03_01","Le troisième \0insectosafari\0￿ de la
 saison se tiendra aujourd'hui de \09 h
 \0￿à \018 h\0￿. Rendez-vous sur la place ! "
 "006_03_02","Le troisième \0insectosafari\0￿ de la
-saison est en cours. Il se tiendra
+saison est en cours. 
+\0Il se tiendra
 jusqu'à \018 h \0￿ce soir !"
 "006_04_01","Le dernier \0insectosafari\0￿ de la saison
 se tiendra aujourd'hui de \09 h\0￿ à
 \018 h\0￿. Rendez-vous sur la place ! "
 "006_04_02","Le dernier \0insectosafari\0￿ de la saison
-est en cours. Il se tiendra jusqu'à
+est en cours. 
+\0Il se tiendra jusqu'à
 \018 h\0￿ ce soir !"
 "007_01","(촀\0Vous vous rendez compte ? C'est le
 dernier jour de Z\0 !\0\0(촀\0Je garderai tant de souvenirs de
@@ -126,6 +130,23 @@ instants avant la nouvelle année,
 alors venez vite nous y rejoindre !
 Ò\0\0\0(""촀\0À tout de suite !
 Ò"
+"008_01_01","(촀\0Et n'oubliez pas !
+\0( (촀\0La \0fête des œufs
+\0￿approche à grands bonds !\0\0(촀\0M'est avis qu'on va aussi assister
+à un changement de météo.\0\0(1촀\0Il suffit de s'acclimater à une saison
+
+\0pour que la suivante vienne tout
+chambouler à nouveau !"
+"008_01_02","(촀\0J'espère que vous tenez la forme, 
+\0(촀\0car
+aujourd'hui, c'est la \0fête des œufs\0￿ !
+\0
+La place est en effervescence !
+(&촀\0Aurions-nous la visite d'un invité très
+spécial ?\0\0(\0촀\0En tout cas, (촀\0cette journée est placée
+sous le signe de l'amusement ! 
+\0(%촀\0Alors
+pensez à faire un saut sur la place !"
 "010","(촂\0Chers amis.
 \0 Je me permets de vous
 interrompre dans vos activités
@@ -376,7 +397,7 @@ bambou printemps \0￿» ?"
 pour le \0nagashi-sômen\0￿ que j'ai
 envoyé sur l'appli \0Créations\0￿.
 (3촀\0Les matériaux pour réaliser ce projet
-ne sont disponibles qu'à cette
+ne sont disponibles qu'en cette
 saison !"
 "618_03","( 촀\0Ce qui me fait pensern\0\0
 \0 (촀\0N'hésitez pas
@@ -695,7 +716,7 @@ de parler en dehors de l'émissionn\0\0
 "
 "825","(촀\0Mais oui ! 
 \0(&촀\0Vous avez regardé
-l'émission culinaire d'hier, à la télé ?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2촀\0e\0 !\0\0(촀\0Pour ma part, j'ai bien intention de
+l'émission culinaire d'hier, à la télé ?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2촀\0e\0 !\0\0(촀\0Pour ma part, j'ai bien intention de
 m'essayer à cette recette dès ce
 soir.
 \0 Je vais bien m'appliquer !"
@@ -719,7 +740,7 @@ toujours la musique en tête !"
 \0Oh là làn\0\0 (2촀\0Me revoilà qui ennuie tout
 le monde avec mes histoires de télé.
 \0
-Pardonnez-moi, on passe à la suite !"
+Pardonnez-moi !"
 "831","<"
 "831_01","(촀\0Aïe !
 \0 J'ai oublié de m'inscrire à ce

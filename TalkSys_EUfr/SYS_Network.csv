@@ -1,4 +1,8 @@
 ﻿"label","text"
+"001","Connexion à Internet..."
+"002","La connexion à Internet va être
+interrompue. Préparation de la
+connexion en mode sans fil local..."
 "003","Recherche des îles que
 tu pourrais aller visiter..."
 "004","Préparatifs de décollage
@@ -11,14 +15,14 @@ pour le retour à la maison...
 (Appuie sur \0\0￿ pour annuler.)"
 "008","Fermeture de la session...
 (Appuie sur \0\0￿ pour annuler.)"
-"020","2\0s\0촀 est venu2
-촀\0e\0 2
+"010","Envoi de la carte..."
+"020","2\0s\0촀 est venu2촀\0e\0 2
 de d'⁠s촀 pour jouer ici !
 <"
-"021","2\0s\0촀 est reparti2
-촀\0e\0 chez 2
-촀luielle\0. À la revoyure !
+"021","2\0s\0촀 est reparti2촀\0e\0 chez 2촀luielle\0. À la revoyure !
 <"
+"030","Préparation de l'accès à NookLink..."
+"040","Inscription en tant que styliste..."
 "100","Pour jouer en ligne, il est nécessaire
 d'installer la version la plus récente
 du logiciel.

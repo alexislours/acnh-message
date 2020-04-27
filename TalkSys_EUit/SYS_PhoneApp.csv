@@ -1,11 +1,11 @@
 ﻿"label","text"
 "000","Eh?
-\0 ""Fuori dall'area di servizio""?
-\0
-Mi sa che qui non posso usare l'app."
+\0 ""Fuori copertura""?
+\0 Mmmhn\0\0
+Mi sa che qui non funziona."
 "001","Vuoi chiamare il \0soccorso\0￿?"
-"001_a","(\0촁\0Sì!"
-"001_b","(\0촁\0No."
+"001_a","(\0촁\0Sì"
+"001_b","(\0촁\0No"
 "010","                 
 \0d\0d\0\0Ci si vede!\0ddd
 "
@@ -143,9 +143,9 @@ incassare le \0100\0￿ miglia e poin\0\0d
 \0
 \0                      \0EHI!\0d
 \0
-	\0\0\0Che c'è?
-\0( Non vedi che ti mancano
-le miglia di Nook?\0\0Dai, non fare così! 
+	\0\0\0Che ti salta in mente?
+\0( Non vedi che
+ti mancano le miglia di Nook?\0\0Non è possibile! 
 \0Vabbèn\0\0
 \0 OKn\0\0
 Visto che è un'emergenza,
@@ -156,9 +156,11 @@ questa volta non ti faccio pagare!d"
 \0
 \0                      \0EHI!\0d
 \0
-	\0\0\0Che c'è ancora?
+	\0\0\0Un momento!
 \0( Non vedi che ti
-mancano le miglia di Nook?\0\0Che devo fare con te?! 
+mancano le miglia di Nook?
+\0
+Di nuovo!\0\0Che devo fare con te?! 
 \0Vabbè dain\0\0
 \0
 Visto che è un'emergenza,
@@ -288,10 +290,10 @@ La parola d'ordine è moderazione.d"
 Significa che non puoi 
 \0resettare
 nulla qui 2\0 n!\0.d"
-"064_03","d\0Le miglia di Nook, dici?
-\0 Ci sono molti
-modi per accumularle e non sono
-neanche tanto complicati!\0\0Per iniziare, 
+"064_03","d\0Riguardo alle miglia di Nook...
+\0
+Ci sono molti modi per accumularle
+e non sono neanche tanto complicati!\0\0Per iniziare, 
 \0le ottieni effettuando
 ogni giorno l'accesso al \0Punto Nook\0￿.
 \0
@@ -318,9 +320,8 @@ la sicurezza prima di tutto!"
 "207","La connessione non è buona? Forse
 dovrei \0alzarmi \0￿e riprovare."
 "208",""
-"209","Sei \0fuori dall'area di servizio\0￿. Puoi
-usare l'app 2\0 n""\0
-solo quando sei all'aperto."
+"209","Sei \0fuori dalla zona di copertura\0￿.\0\0Puoi usare questa applicazione solo 2\0 n""\0 
+\0e solo quando sei all'aperto."
 "210","Chiusura applicazione in corso.
 <"
 "211","Applicazione chiusa! Torna presto
@@ -423,15 +424,15 @@ al secondo piano.
 riempire la cascata.
 In seguito potrai distruggere il rilievo
 a tuo piacimento."
-"245","Guida al servizio di pulizia\0\0A volte, quando stai lavorando a
+"245","\0Guida al servizio di pulizia\0￿\0\0A volte, quando stai lavorando a
 un progetto di costruzione, potresti
 trovarti inavvertitamente nei guai.\0\0Forse qualcosa che hai posizionato
 ti impedisce di muoverti o non riesci
 ad afferrare un oggetto su un rilievo.\0\0Il servizio di pulizia ti viene in aiuto
 quando hai bisogno di spostare
-qualche oggetto intorno a te.\0\0Vengono spostati solo gli oggetti
-(come mobili o recinzioni) \0nelle tue
-immediate vicinanze\0￿.\0\0Assicurati di avvicinarti agli oggetti
+qualche oggetto intorno a te.\0\0Funziona solo per oggetti già
+posizionati, recinzioni e alberi
+\0nelle tue immediate vicinanze\0￿.\0\0Assicurati di avvicinarti agli oggetti
 che ti causano problemi prima di
 richiedere il servizio.\0\0Gli oggetti recuperati verranno
 depositati nel \0punto di raccolta
@@ -472,9 +473,9 @@ nelle tue immediate vicinanze.\0\0Gli oggetti recuperati verranno
 depositati nel \0punto di raccolta
 \0￿del \0centro servizi\0￿.\0\0Per ulteriori dettagli, consulta
 il manuale."
-"262","Vuoi usare il servizio di pulizia
-e inviare gli oggetti vicini a te al
-punto di raccolta del centro servizi?"
+"262","Vuoi usare il servizio di
+pulizia e inviare gli oggetti
+vicini a te al punto di raccolta?"
 "262_a","Sì, facciamo pulizia"
 "262_b","No, non adesso"
 "263","D'accordo!
@@ -482,15 +483,18 @@ punto di raccolta del centro servizi?"
 ripuliamo gli oggetti posti nelle tue
 vicinanze."
 "264","Pulizia completata!
-\0 Ricordati di
-recuperare gli oggetti presso il
-\0punto di raccolta \0￿del \0centro servizi\0￿."
-"265","Non ci sono oggetti da ripulire.\0\0Il servizio di pulizia funziona solo
-per oggetti o recinzioni posti nelle
-tue immediate vicinanze."
+\0
+Nota: solo gli oggetti e le recinzioni
+vengono inviati al \0punto di raccolta\0￿."
+"265","Non ci sono oggetti da rimuovere.\0\0Il servizio di pulizia funziona solo per
+oggetti già posizionati, recinzioni e
+alberi nelle tue immediate vicinanze."
+"266","Sei \0fuori dalla zona operativa
+\0￿del servizio di pulizia.\0\0Puoi usare questo servizio solo 2\0 n	\0 
+\0e solo quando sei all'aperto."
 "301","Sembra che l'app della mappa
 non funzioni su quest'isola."
-"311","Mh? Dice che sono fuori dall'area
-di copertura. Immagino di non poter
-usare l'app qui."
+"321","A quanto pare non posso usare
+l'app Archivio chat durante il
+Gioco cooperativon"
 "999","\0100 \0￿miglia"

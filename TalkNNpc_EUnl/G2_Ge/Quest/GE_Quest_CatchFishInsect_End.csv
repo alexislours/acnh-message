@@ -14,14 +14,14 @@
 \0wauw! Dit is toch 2\0
 \0}\0\0?
 \0 (촀\0Sjeempie! Zo
-\0 cool!\0\0(4촀\0Weet je zeker dat ik 2촀hemhetze mag
+\0 cool!\0\0(4촀\0Weet je zeker dat ik 2촀hemhetze mag
 hebben?
 \0 Zijn deze beestjes niet
 superzeldzaam?"
 "004_a","Natuurlijk!
 Voor jou!"
 "004_b","Laat maar.
-Oeps, foutje."
+(\0촀\0Oeps, foutje."
 "005","(촀\0Hoera!"
 "006","(촀\0O, geen probleem!
 \0( (%촀\0Maar vergeet
@@ -69,7 +69,7 @@ dat op een boomstronk zat!"
 \0 2\0}\0\0!"
 "024","(촀\0Echt 
 \0niet!
-\0 2B촀Is dit eenIs dit eenZijn dit 
+\0 2B촀Is dit eenIs dit eenZijn dit 
 \0}\0\0?!
 \0 (촀\0
 \0Sjeempie! 
@@ -77,7 +77,7 @@ dat op een boomstronk zat!"
 "024_a","Natuurlijk!
 Heel zeker!"
 "024_b","Toch liever niet.
-Mijn fout..."
+(\0촀\0Mijn fout..."
 "025","(촀\0Hoera!"
 "026","( 촀\0Dat is prima!
 \0 2\0n\0! (촀\0Maar vergeet onze afspraak niet!\0\0(%촀\0Ik krijg nog een te gek rivierbeessie
@@ -199,7 +199,7 @@ een zoutwaterbeessie is!"
 "201","(촀\0Ik wil heel graag 2\0}촀!
 \0( Kun je er eentje voor mij vangen?\0\0($촀\0Volgens mij zie je er vast wel eentje
 op een boom zitten?"
-"202","(촀\02\02\0}촀, 2촀diedatdie wil ik zien!\0\0(
+"202","(촀\02\02\0}촀, 2촀diedatdie wil ik zien!\0\0(
 촀\0Dat is een insect dat lastig te vinden
 is door zijn 
 \0super

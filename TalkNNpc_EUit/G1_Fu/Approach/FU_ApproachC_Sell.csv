@@ -7,7 +7,7 @@ comprare questo oggetton\0\0
 "001_a","(촀\0Certo!"
 "001_b","Non mi serve, grazie."
 "002","(4촀\0Ho 2\0}\0\0 in venditan\0\0 Ti interesserebbe?"
-"002_a","Si può fare."
+"002_a","(\0촁\0Si può fare."
 "002_b","Non ne ho bisogno."
 "003","(촀\0Salut, n\0! 
 \0Ti ho già detto che presto uscirà un nuovo libro della mia serie preferita?\0\0(4촀\0Non vedo l'ora di prenderlo, 
@@ -26,10 +26,10 @@ comprandole?"
 \0tornata nel mio pied-à-terre,
 
 \0mi sono accorta che ne avevo già
-22촀acquistatoacquistata\0 2촀unouna\0 la settimana scorsa!
+22촀acquistatoacquistata\0 2촀unouna\0 la settimana scorsa!
 (촀\0Dimmi, 
 \0non è che ti andrebbe di
-2.촀comprarlocomprarla\0? 
+2.촀comprarlocomprarla\0? 
 \0($촀\0Ti preeego, io non
 saprei cosa farmene!"
 "004_a","(\0촀\0Quanto costa?"
@@ -71,7 +71,7 @@ Lo trovi ragionevole?"
 salvata dall'imbarazzo del doppio
 acquisto. 
 \0Sono così conteeenta!"
-"102","(촀\0E poi avevo la sensazione che 2""촀questoquesta\0 }\0\0 fosse 2.촀destinatodestinata\0 à toi!"
+"102","(촀\0E poi avevo la sensazione che 2""촀questoquesta\0 }\0\0 fosse 2.촀destinatodestinata\0 à toi!"
 "103","(
 촀\0Mmmhn\0\0 La sai una cosa? 
 \0(촀\0Non
@@ -154,7 +154,7 @@ più problemi ad acquistare il libro.
 "303_a","Affare fatto!"
 "303_b","(&촀\0Hai altro da vendere?"
 "304","(
-촀\0Behn\0\0 forse potrei venderti 2""촀il miola mia\0 }\0\0 pour ($촀\0Z. 
+촀\0Behn\0\0 forse potrei venderti 2""촀il miola mia\0 }\0\0 pour ($촀\0Z. 
 \0Ti interessa?"
 "304_a","Affare fatto!"
 "304_b","(&촀\0Hai altro da vendere?"

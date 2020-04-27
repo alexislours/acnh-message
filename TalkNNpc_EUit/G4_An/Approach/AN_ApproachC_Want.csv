@@ -21,11 +21,11 @@ una mano, n\0!"
 "003_a","(&촀\0E quanto mi dai?
 (&촀\0Quante stelline hai?"
 "003_b","No, mi spiace..."
-"004","(촀\0Ma no! Avevo in mente di comprare 2\0}\0\0, ma non ne trovo in nessun negozio.\0\0(촀\0Avrei dovuto comprar2촀lola\0 quando
-ancora non era esaurit2촀oa\0,
+"004","(촀\0Ma no! Avevo in mente di comprare 2\0}\0\0, ma non ne trovo in nessun negozio.\0\0(촀\0Avrei dovuto comprar2촀lola\0 quando
+ancora non era esaurit2촀oa\0,
 n\0.
 (9촀\0Fermi tuttin\0\0(촀\0 Non dirmi che TU hai 2\0}\0\0!!! 
-\0(8촀\0Devi assolutamente 22촀vendermelovendermela\0!"
+\0(8촀\0Devi assolutamente 22촀vendermelovendermela\0!"
 "004_a","(&촀\0Quanto mi daresti?
 (&촀\0Quante stelline hai?"
 "004_b","No, mi dispiace."
@@ -116,7 +116,7 @@ a sganciare parecchio. 
 \0(6촀\0Che ne dici
 di Z?"
 "114_a","D'accordo!"
-"114_b","Non saprei..."
+"114_b","(\0촀\0Non saprei..."
 "115","(촀\0Evvai! 
 \0Sapevo che ti avrei
 convint2oa, n\0!(촀"
@@ -164,7 +164,7 @@ Per questa volta no."
 촀\0Non ho molto contante con me,
 \0
 (\0촀\0forse Z."
-"300_a","E perché no?"
+"300_a","(\0촀\0E perché no?"
 "300_b","Niente da fare."
 "301","(촀\0Ehm, grazie, n\0.
 \0
@@ -223,7 +223,7 @@ ma mi sbagliavo."
 "404","(7촀\0Potrei dartin\0\0 vediamon\0\0
 Z. 
 \0Accetti?"
-"404_a","Come, no?"
+"404_a","Eccome!"
 "404_b","Non ci siamo..."
 "405","(촀\0Ma davvero?! 
 \0(촀\0Che storia!"

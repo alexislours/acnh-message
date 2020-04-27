@@ -28,10 +28,21 @@ op de onderste rij beter bekijken?"
 "002_c","Ik kijk alleen wat rond."
 "003","Dat is ""⁠(촀\0s촀⁠"". Ontworpen door s\0촀.
 \0( (&촀\0Wat wil je ermee doen?"
+"003_01","Dat is ""⁠(촀\0s촀⁠"". Ontworpen door s\0촀.
+\0( (&촀\0Wat wil je ermee doen?"
+"003_01_a","Ik wil dit ontwerp."
+"003_01_b","Ik wil mijn werk tonen."
+"003_01_c","Een speler melden."
+"003_01_d","Ik kijk alleen wat rond."
 "003_a","Ik wil dit ontwerp."
 "003_b","Ik wil mijn werk tonen."
 "003_c","Ik kijk alleen wat rond."
 "004","Dat is (촀\0""⁠s촀⁠"". Een ontwerp van s\0촀 van s촀.\0\0Vertel, (&촀\0wat wil je ermee doen?"
+"004_01","Dat is (촀\0""⁠s촀⁠"". Een ontwerp van s\0촀 van s촀.\0\0Vertel, (&촀\0wat wil je ermee doen?"
+"004_01_a","Ik wil dit ontwerp."
+"004_01_b","Ik wil mijn werk tonen."
+"004_01_c","Een speler melden."
+"004_01_d","Ik kijk alleen wat rond."
 "004_a","Ik wil dit ontwerp."
 "004_b","Ik wil mijn werk tonen."
 "004_c","Ik kijk alleen wat rond."
@@ -113,3 +124,14 @@ te wisselen bij het \0NookStation \0￿
 \0in de
 \0servicebalie\0￿.
 \0(촀\0 Probeer maar eens!"
+"040","(%촀\0Prima,
+\0 dan verwijder ik nu dit eigen
+ontwerp."
+"051","(촀\0O, n\0, 
+\0(\0촀\0het eigen ontwerp dat je nu draagt, is overschrevenn\0\0\0\0()촀\0Maar voor wat je draagt, 
+\0maakt dat
+niets uit. 
+\0Dat blijft gewoon hetzelfde.\0\0(촀\0Wil je liever het nieuwe eigen
+ontwerp dragen?
+\0 Selecteer dan het
+ontwerp opnieuw en kies \0DRAGEN\0￿!"

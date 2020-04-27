@@ -41,7 +41,8 @@ Menge Gemüse essen sollte?
 Vegetarier unseretwegen
 verhungern.
 \0 (촀\0Gra ha ha ha!"
-"006","(.촀\0Oh Mann... In letzter Zeit fühle ich
+"006","(.촀\0Oh Mannn\0\0
+\0 In letzter Zeit fühle ich
 mich morgens nach dem Aufstehen
 immer wie gerädert.
 (
@@ -56,7 +57,7 @@ Guckst oder machst du das lieber?"
 "007","(촀\0Im Ernst?
 \0 Und ich dacht schon,
 ich wär der Einzige.\0\0(촀\0Oh ja, eine Schüssel Popcorn und
-2@촀'n kalter'ne kalte'n kaltes 촀, dann
+2@촀'n kalter'ne kalte'n kaltes 촀, dann
 kann ich mir das ewig ansehen!
 (촀\0Ich muss nur aufpassen, wenn ich
 aufspringe und jubele.
@@ -147,10 +148,12 @@ Schatz, 
 Optimist! 
 \0Ich hab's gewusst!
 \0 (촀\0Bwa ha!"
-"016","Du... Hast du auch plötzlich so 'nen
+"016","Dun\0\0
+\0 Hast du auch plötzlich so 'nen
 Hunger? 
 \0(&촀\0Was würdest du essen
-wollen, wenn du die Wahl hättest?"
+wollen, 
+\0wenn du die Wahl hättest?"
 "016_a","Etwas Leichtes.
 Einen kleinen Snack."
 "016_b","Etwas Herzhaftes.
@@ -211,10 +214,13 @@ gerade der Beginn einer wunder-
 baren Freundschaft?
 \0((촀\0 Gra ha ha!"
 "024","(촀\0Gra ha ha! 
-\0(\0촀\0Na, wenigstens bist du
+\0(\0촀\0Na, 
+\0wenigstens bist du
 ehrlich.\0\0(9촀\0Zugegeben,
 \0 Geld ist unheimlich
-wichtig. Aber...\0\0(촀\0Zeit und Freundschaft kannst
+wichtig. 
+\0Aber...\0\0(촀\0Zeit und Freundschaft kannst
 du damit nicht kaufen.
 \0
-(5촀\0Jaaa, denk mal drüber nach!"
+(5촀\0Jaaa, 
+\0denk mal drüber nach!"

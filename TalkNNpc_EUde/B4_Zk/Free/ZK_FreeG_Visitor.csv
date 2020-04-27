@@ -4,10 +4,10 @@
 regionales und dabei biologisch voll-
 ständig abbaubares Obst probiert?"
 "001_a","Und ob!"
-"001_b","(\0촀\0Nein, so was gibt's?"
+"001_b","Nein, so was gibt's?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Aber klar hast du das! 
 \0Ich erkenne
 doch einen Frukto-Gourmet, 
@@ -77,10 +77,12 @@ irgendwann einmal...
 \0(!촀\0der
 die Wunder der Welt auf unterhalt-
 same Weise dem Volke präsentiert!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Kennst du jemanden mit Feingefühl
 für Stil, der das \0Museum von\0￿
 
@@ -106,20 +108,20 @@ Bariton auch hervorragend zur...
 "028","(&촀\0Na, 
 \0schon gewusst, 
 \0dass sogar 2\0
-\0 zum Fundus unseres \0Museums\0￿ gehört?\0\0(%촀\02(촀DerDieDas ist so ungefähr das Coolste,
+\0 zum Fundus unseres \0Museums\0￿ gehört?\0\0(%촀\02)촀DerDieDas ist so ungefähr das Coolste,
 \0
 was nicht zwei Beine hat und
 n
 \0 heißt!"
-"029","(촀\0Immer wenn ich mir im \0Museum\0￿ 2(촀dendiedas
+"029","(촀\0Immer wenn ich mir im \0Museum\0￿ 2)촀dendiedas
 2촁
  ansehe,
 läuft's mir kalt den Rücken runter!
 (+촀\0Das ist total komischn\0\0 Bin ich nun
-der Beobachter oder hat 2(촀ersiees MICH
+der Beobachter oder hat 2)촀ersiees MICH
 im Visier?!"
 "030","(&촀\0Hey, warst du im \0Museum\0￿ schon
-mal in dem Raum, wo 2(촀derdiedas
+mal in dem Raum, wo 2)촀derdiedas
 
  steht?
 (%촀\0Irgendwie cool, 
@@ -131,36 +133,37 @@ Millionen von Jahren gelebt hat...
 \0damit
 meine Knochen eines Tages auch mal
 museale Beachtung findenn"
-"101","<\0fj"
-"102","(4촀\0Hey, dürfte ich dich mal was fragen,
+"201","<\0ÊÎ"
+"202","(4촀\0Hey, dürfte ich dich mal was fragen,
 \0
 was aber eher so in die... 
 \0ernsthafte
-Richtung geht?\0\0(&촀\0Musstest du irgendwann mal an mich
-denken, 
-\0nachdem du von hier
-weggezogen warst, 
+Richtung geht?\0\0(&촀\0Musstest du irgendwann mal an
+mich denken, 
+\0nachdem ich weg-
+gezogen war, 
 \0n\0?"
-"102_a","Aber natürlich!"
-"102_b","Ehrlich gesagt... nein."
-"102_c","Und du an mich?"
-"103","(6촀\0Heeeyn\0\0 Mir ging's ganz genauso.
+"202_a","Aber natürlich!"
+"202_b","Ehrlich gesagt... nein."
+"202_c","Und du an mich?"
+"203","(6촀\0Heeeyn\0\0 Mir ging's ganz genauso.
 
 \0((촀\0Ach, 
 \0wie cool, 
 \0dass du jederzeit hier
 vorbeigucken kannst!"
-"104","(촀\0Hey, ehrlich währt am längsten...
+"204","(촀\0Hey, 
+\0ehrlich währt am längsten...
 \0
 (5촀\0Wer seine Karriere ernst nimmt, muss
 auch auf mieses Feedback hören!
 (%촀\0Nun ja, 
-\0da du jetzt wohl auf einer
-viel cooleren Insel lebst, 
-\0bleibt mir
-nur, 
-\0dir toi, toi, toi zu wünschen!"
-"105","(촀\0Hey, ich hab zuerst gefragt! 
+\0wenigstens heißt das auch,
+\0
+dass du nach vorne schaust, 
+\0anstatt
+der Vergangenheit nachzuhängen!"
+"205","(촀\0Hey, ich hab zuerst gefragt! 
 \0(6촀\0Aber da
 du das so charmant rübergebracht
 hast, 
@@ -174,17 +177,17 @@ aber unsere gemeinsame Zeit...
 wechseln, 
 \0sonst heißt's hier
 gleich „Land unter“!"
-"106","(촀\0Hey, hast du schon gehört, was hier
+"206","(촀\0Hey, hast du schon gehört, was hier
 auf der Insel gerade total in ist?"
-"107","<lmno"
-"108","(촀\0Angeln im Meer!\0\0(촀\0Klaro, geangelt wird hier schon
+"207","<ÐÑÒÓ"
+"208","(촀\0Angeln im Meer!\0\0(촀\0Klaro, geangelt wird hier schon
 immer, aber seit Neuestem liegt
 es voll im Trend, n\0.
 (1촀\0Ein tiefer Frieden erfüllte sein Herz,
 
 \0als er den wiegenden Wogen endlich
 ihren edlen Schatz entrissen hatten"
-"109","(촀\0Insekten!\0\0()촀\0Klaro, Insekten gibt's hier schon
+"209","(촀\0Insekten!\0\0()촀\0Klaro, Insekten gibt's hier schon
 ewig, aber jetzt sind sie erst richtig
 in Mode gekommen, n\0!
 (6촀\0Kein Wunder, 
@@ -192,7 +195,7 @@ in Mode gekommen, n\0!
 so aus, 
 \0(촀\0als hätte da ein Designer
 seine Finger im Spiel gehabt!"
-"110","(촀\0Löcher graben!\0\0(&촀\0Kannst du dir nichts drunter
+"210","(촀\0Löcher graben!\0\0(&촀\0Kannst du dir nichts drunter
 vorstellen? 
 \0Klingt so, 
 \0als würde man
@@ -205,7 +208,7 @@ sich und die ganze Insel neu!
 die beste Möglichkeit, 
 \0seiner
 Kreativität freien Lauf zu lassen!"
-"111","(촀\0Gartenarbeit!\0\0()촀\0Klaro, 
+"211","(촀\0Gartenarbeit!\0\0()촀\0Klaro, 
 \0Aussaat und Ernte sind auf
 dieser Insel lang gehegte
 Traditionen...

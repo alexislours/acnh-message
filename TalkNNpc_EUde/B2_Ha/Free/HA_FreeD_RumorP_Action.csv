@@ -94,6 +94,23 @@ so weit gehen, 
 \0hab ich echt
 riesigen Respekt, 
 \0n\0!"
+"114","(촀\0Ich hab gehört, 
+\0du bist gestern
+ziemlich viel unterwegs
+gewesen, 
+\0n\0!\0\0(촀\0Falls du ein tolles Fitnessstudio
+entdeckt hast, 
+\0besteht aber
+Meldungspflicht, 
+\0klar?"
+"115","()촀\0Ich habe gehört, 
+\0dass du gestern
+dauernd Besuch bekommen
+hast, 
+\0n\0.\0\0(%촀\0Du hättest mich einladen sollen!
+\0
+(촀\0Wir hätten uns im 촀
+messen können!"
 "116","(&촀\0Was war beim \0Basteln \0￿gestern
 dein Plan?\0\0(촀\0Du wolltest eine Statue von meinem
 gewaltigen Oberkörper modellieren,
@@ -130,8 +147,8 @@ man prima Hindernislauf trainieren!"
 in Fallen gelandet, 
 \0n\0.\0\0()촀\0„Wenn irgendwer 'ne Grube gräbt,
 \0
-fällt n\0 hinein“,
-sagt man ja. 
+fällt n\0 hinein“,
+\0 sagt man ja. 
 \0(촀\0Oder so ähnlich..."
 "122","(%촀\0Das Möbelrücken bei dir gestern war
 bis nach draußen zu hören! 
@@ -179,9 +196,9 @@ jemand im Armdrücken angetreten?
 ('촀\0Sonst lohnt sich die ganze Babbelei
 doch gar nicht richtig, 
 \0n\0."
-"126_01","(%촀\0Ich habe gehört, 
-\0dass du gestern
-mehrere Wespenstiche kassiert hast.
+"126_01","(%촀\0Du hast gestern mehrere
+Wespenstiche kassiert, 
+\0oder?
 
 \0(촀\0So ein Pfostenschuss, 
 \0n\0!
@@ -189,12 +206,12 @@ mehrere Wespenstiche kassiert hast.
 Sprinten trainieren, 
 \0damit du in
 Zukunft schneller flüchten kannst."
-"126_02","(&촀\0Dich hat gestern eine Wespe
+"126_02","(&촀\0Du wurdest gestern von Wespen
 gestochen, 
-\0oder?\0\0(촀\0Die hatte wohl das mentale
+\0oder?\0\0(촀\0Die hatten wohl das mentale
 Training schleifen lassen, 
 \0wenn
-sie so aggressiv drauf war!"
+sie so aggressiv drauf waren!"
 "127","(&촀\0Hast du gestern coole Fossilien
 gefunden? 
 \0(촀\0Konnte man ihre
@@ -255,11 +272,8 @@ dem Mountainbike runterspringen,
 hab ich recht, 
 \0n\0?"
 "136","(촀\02\0n\0, 
-\0soweit ich
-gehört habe, 
-\0hast du dich gestern
-intensiv mit Zäunen beschäftigt!
-(%촀\0Konntest dich wohl nicht im Zaum
+\0soweit ich gehört habe, 
+\0hast du dich gestern intensiv mit Zäunen beschäftigt!\0\0(%촀\0Konntest dich wohl nicht im Zaum
 halten, 
 \0was, 
 \0n\0?"
@@ -340,18 +354,22 @@ zu viel Trainingstipps... 
 sehen. 
 \0(촀\0Von den Bewegungsabläufen
 ideal für den perfekten Muskelkater!"
-"149","(촀\0Hast du eine neue Frisur?
-\0
-(촀\0Die sieht echt sportlich aus!\0\0()촀\0Ich achte bei mir selbst ja vor
+"149","(촀\0Hast du was an deiner Frisur
+gemacht?
+\0 (촀\0Die sieht echt
+sportlich aus!
+()촀\0Ich achte bei mir selbst ja vor
 allem auf gute Aerodynamik
 beim Joggen, 
 \0n\0!"
 "150","( 촀\0Zur Hantel, 
 \0n\0! 
-\0Mit diesem Gesicht hab ich dich fast nicht erkannt, n\0!\0\0(촀\0Aber zum Glück sind deine dicken
-Oberarme noch dieselben. 
-\0Die sind
-halt unverkennbar!"
+\0Dein neuer Look gefällt mir richtig gut, 
+\0n\0!\0\0(촀\0Deine trainierten Oberarme hast du
+aber nicht verändert, wie ich sehe.
+\0
+Gut so, 
+\0denn die sind makellos!"
 "151","(%촀\0Ich hab gehört, 
 \0du hättest gestern
 wie wild Fotos geschossen.\0\0(&촀\0Hast du auch dicke Muskelpakete

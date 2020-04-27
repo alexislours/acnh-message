@@ -9,7 +9,7 @@ fruttastici di n!\0?"
 "001_b","(\0촀\0Cosa?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Bene! Avevo paura che te li fossi
 persi! (%촀\02,촂I nostriLe nostre\0 n촁(촀\0 sono
 troppo dolci e supergustos2촂ie\0!"
@@ -50,10 +50,12 @@ roba! 
 troppe stelline!"
 "016","(""촀\0Tutti si stanno impegnando per il \0museo\0￿ di n!\0! 
 \0Ora però è ancora una tenda.\0\0(촀\0Dovresti andare a salutare \0Blatero\0￿, n\0! È nella tenda, che fa ricerche."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Il \0museo \0￿dell'isola ci sta dando
 dentro di brutto per offrire il meglio
 ai suoi visitatori.
@@ -70,58 +72,67 @@ stata!"
 \0 al \0museo\0￿!\0\0(6촀\0Non riesco a farne a meno!
 \0 (촀\0Dovresti andarci anche tu, n\0!"
 "029","()촀\0Devi troooooppo andare a vedere 2\0
- (촀\0al \0museo \0￿di n!\0!\0\0(촀\0Solo a guardarl2(촀oa\0 mi fa venire
+ (촀\0al \0museo \0￿di n!\0!\0\0(촀\0Solo a guardarl2)촀oa\0 mi fa venire
 i brividi e mi fa sentire tutta
 elettrizzata allo stesso tempon"
 "030","()촀\0Il \0museo \0￿di n!\0 ha una zona dedicata ai fossili 
 \0(""촀\0ed è, cioè, da paura!\0\0Il mio preferito è 2\0
-! (촀\0Devi assolutamente 2&(촀vederlovederla\0!"
+! (촀\0Devi assolutamente 2&)촀vederlovederla\0!"
 "101","<\0fi"
-"102","(""촀\0Ehi n\0!
+"201","<\0ÊÍ"
+"202","(""촀\0Ciaaao, n\0!
+\0 Sei qui in visita perché(\0촀\0 (6촀\0ti mancavo, vero?"
+"202_a","Già!"
+"202_b","(\0촀\0Cosa? Ehm... N-no?"
+"203","(촀\0Bene!
+\0 (7촀\0In realtà, anche io stavo
+pensando a quanto avevo voglia di
+vederti, n\0!
+(8촀\0La vita su quest'isola è mitica, no?
 \0
-Sei qui in visita perché
-(6촀\0ti mancavo, vero?"
-"102_a","Già!"
-"102_b","Cosa? Ehm... N-no?"
-"103","(촀\0Aaaah, grazie! Stavo proprio
-pensando a quanto anche tu
-mi manchi, n\0!
-('촀\0Ero troppo in lacrime quando
-te ne sei andat2oa, 
-\0(촀\0ma sapevo che
-saresti venut2oa a trovarci!
-Dopotutto, siamo amic2
-ihe per la
-pelle! Torna di nuovo, OK?"
-"104","(촀\0Ah! Bel tentativo! 
-\0(6촀\0Ti sono
-mancaaaaata! Per me sei un
-libro aperto!\0\0A dirla tutta, (촀\0ero tristissima quando
-te ne sei andat2oa. Così ho iniziato a
-(촀\0촀 per stare meglio!
-E adesso, (2촀\0cioè,
-\0 (촀\0è il mio hobby
-superpreferito!"
-"105","Ciaaao, n\0,
-tu vivi 2\0 n""\0,
-vero? Com'è?"
-"105_a","È divertente!"
-"105_b","È un posto splendido!"
-"106","È divertente, eh?
-Io 
-\0ADORO 
-\0il divertimento!\0\0(촀\0Quando sarò una pop star e andrò
-in tour, verrò 2\0 (""촀\0n""\0!\0\0(%촀\0Così potrò visitarla e vedere te!
+Però, cioè, quando ballo,
+\0(%촀\0 voglio che
+tu sia lì ad applaudirmi.
+(4촀\0Quindi se ti manco di nuovo,
+\0 non
+esitare o che,
+\0 e vieni a trovarmi,
+OK, n\0?"
+"204","(촀\0Bugia, bugia, stai mentendo!
+\0<
+(3촀\0Sicuro che volevi troppo vedermi
+e che ti sono mancata una cifra!\0\0A dirla tutta, 
+\0(촀\0anche io mi sentivo
+nostalgica e 
+\0(촀\0per tenermi occupata
+non facevo che 촀.
+(2촀\0Ma adesso è diventato un vero e
+proprio hobby!
+\0 (촀\0E mi piace davvero
+tantissimo, n\0!"
+"205","(;촀\0Ciaaao! 
+\0Allora, come vanno le cose(\0촀\0 2\0 n	\0?
+\0 (촀\0Cioè, da quando sono partita, n\0."
+"205_a","Ci si diverte!"
+"205_b","Tutto è tranquillo."
+"206","( 촀\0Ah-ha! Vi divertite, eh?
+\0 (촀\0Mi mancano
+troppo tutti gli abitanti dell'isola.
+n\0\0(촀\0 Ah, a proposito!\0\0()촀\0Quando sarò un idolo e farò un tour,
 
-\0(촀\0
-\0Allucinante
-
-\0! È un'idea da paura!"
-"107","( 촀\0Oooh, un posto splendido, eh?
-
-\0(촀\0Più l'isola è bella, più la gente
-si diverte!
-($촀\0E scommetto che la tua presenza
-non guasta. 
-\0(촀\0Sono troppo invidiosa
-di n""\0!"
+\0(""촀\0verrò a fare un trionfale concerto in
+stile ""Il ritorno della vostra star""!
+(4촀\0Cioè, n	\0 è tipo la mia seconda casa, no?
+\0 (촀\0Penso che sia un'idea da paura, n\0!"
+"207","(%촀\0Ah, quindi avete una vita tranquilla!
+\0
+( 촀\0Ma, cioè, 
+\0qualche volta desiderate
+un po' di movimento, no?
+In quel caso,
+\0 (촀\0verrò dritta 2\0 n	\0 e farò un concerto troppo indimenticabile!\0\0(\0촀\0Ovviamente, la cosa richiede un
+cambio dei miei programmi,
+\0 (촀\0quindi
+parlate con il mio manager!
+\0n\0\0 Anche se ancora non ne ho uno,
+n\0.\0￿"

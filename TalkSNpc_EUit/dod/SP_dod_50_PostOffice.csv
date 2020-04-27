@@ -1,18 +1,57 @@
 ﻿"label","text"
-"050","(촀\0Per tutte le ali! Vuoi spedire un
+"010","( 촀\0Ah,
+\0 n\0!
+\0 (촀\0Lo sapevi che puoi inviare dei biglietti agli amici con cui hai giocato?"
+"020","(9촀\0Ma prima di usare questo servizio,
+
+\0devo metterti al corrente di alcuni
+aspetti legali.
+($촀\0Potresti leggere questo con
+attenzione, per favore?"
+"040","(촀\0OK! 
+\0Ora che abbiamo fatto,
+\0
+(&촀\0vuoi spedire un messaggio?"
+"040_a","Sì."
+"040_b","Non importa."
+"050","(촀\0Per tutte le ali! 
+\0Vuoi spedire un
 messaggio?
-\0( n\0\0(2촀\0Cioè, certo che
-puoi, peròn\0\0
+\0( (2촀\0Cioè, certo che puoi,
+peròn\0\0
 È che il multitasking non è mai stato
-il mio forte. (&촀\0È un problema se chiudo
+il mio forte. 
+\0(&촀\0È un problema se chiudo
 il gate fintanto che lo faccio?"
 "050_a","(\0촀\0Certo che no!"
-"050_b","Non chiuderlo!"
+"050_b","(\0촀\0Non chiuderlo!"
 "051","(촀\0Okappa, grazie mille per la
 comprensione.
-\0 E allora si va, gate
-in chiusura!"
+\0 E allora si va,
+
+\0gate in chiusura!"
 "052","(촀\0E siamo pronti!"
+"053","(촀\0Per tutte le ali! 
+\0Vuoi spedire un
+messaggio?
+\0( (2촀\0Cioè, certo che puoi,
+peròn\0\0
+È che il multitasking non è mai stato
+il mio forte. 
+\0(&촀\0Ti spiace se interrompo
+la connessione mentre lo faccio?"
+"053_a","(\0촀\0Certo che no!"
+"053_b","(\0촀\0Sì, aspetta..."
+"054","(촀\0Okappa, grazie mille per la
+comprensione.
+\0 Bene allora,
+
+\0interrompo la connessione!"
+"055","(촀\0Come preferisci! 
+\0Lascerò tutto così
+com'è, 
+\0()촀\0però fammi sapere se cambi
+idea e vuoi usare il servizio di posta."
 "070","(&촀\0Vuoi spedire il messaggio, ora?"
 "070_a","Sì."
 "070_b","No."
@@ -20,6 +59,11 @@ in chiusura!"
 "080_a","Qualcuno sull'isola."
 "080_b","Il mio io futuro."
 "080_c","Uh, non fa niente."
+"081","(촀\0Okappa. A chi vuoi spedirlo?"
+"081_a","Qualcuno sull'isola."
+"081_b","Il mio io futuro."
+"081_c","Uno dei miei amici."
+"081_e","Uh, non fa niente."
 "200","(%촀\0Okappa. A qualcuno su quest'isola.
 (&촀\0Chi, esattamente?"
 "210_01","Ah, vuoi spedire un messaggio 2\0 s\0촀? No problem!"
@@ -37,11 +81,58 @@ abbiamo ancora recapitaton\0\0
 \0
 magari quando sarò uscito da
 questa brutta situazione?"
+"301","(촀\0Okappa, a chi vuoi scrivere?"
+"311","()촀\0La comunicazione libera con altri
+utenti è limitata dal filtro famiglia.\0\0Per scrivere a un amico devi prima
+rimuovere la limitazione."
+"312","(
+촀\0Per tutte le ali, pare che tu non
+abbia l'indirizzo di alcun amico!\0\0(촀\0Puoi scrivere a qualcuno solo se
+prima gli hai fatto visita online."
 "320","( 촀\0Per tutte le ali!
 \0 Oggi hai già spedito
 due messaggi a s\0촀.\0\0(\0촀\0Puoi inviarne altri domani,
 \0(촀\0 che ne
 dici di aspettare fino ad allora?"
+"321","(%촀\0Okappa, allora preparo tutto per
+la spedizione!"
+"350","( 촀\0Ah, è la prima volta che invii
+qualcosa a Nintendo? 
+\0Beh, lì sono
+impegnati 
+\0('촀\0e non risponderannon\0\0
+()촀\0Però potrebbero pubblicare il tuo
+messaggio sul loro sito Internet
+oppure sui social.
+(%촀\0Per questo motivo, è meglio se
+non includi alcuna informazione
+personale.
+(촀\0E per le note legali è tutto, si passa
+a scrivere!"
+"351","(촀\0Allora vuoi inviare ciò che hai scritto
+a Nintendo? 
+\0(Okappa, 
+\0fai pure."
+"352","( 촀\0Oh, 
+\0pare che oggi tu abbia scritto
+a Nintendo già due volten\0\0 
+\0((9촀\0Più di
+così non puoi.
+(촀\0Per farlo ancora dovrai aspettare
+domanin\0\0 Abbi un altro po' di
+pazienza!"
+"353","Okappa, allora avvio la procedura
+per inviare qualcosa a Nintendo."
+"380","( 촀\0Eh?
+\0( Mmmh, pare che la spedizione
+non sia andata a buon fine.\0\0(&촀\0Vuoi riprovare subito o aspettare
+prima un po'?"
+"380_a","(\0촀\0Riproviamo ora."
+"380_b","(\0촀\0Rimandiamo."
+"381","($촀\0Okappa, allora ti rimborso le stelline."
+"382","(%촀\0E ti restituisco anche il regalo
+che avevi allegato al messaggio,
+naturalmente."
 "400",""
 "401","(촀\0Okappa, quanto nel futuro devo
 spedire questo messaggio?"
@@ -51,7 +142,8 @@ spedire questo messaggio?"
 "402_b","No."
 "410","Per tutte le ali, ho sbagliato
 qualcosa? Dai, riprova."
-"415","(\0촀\0Okappa! No, un attimon\0\0 Pare che tu
+"415","(\0촀\0Okappa! 
+\0(촀\0No, un attimon\0\0 Pare che tu
 abbia già un messaggio da spedire
 nel futuro 2\0 n\0n\0\0
 ()촀\0Se vuoi inviarne un altro, devi prima
@@ -120,12 +212,14 @@ abbastanza spazio qui per i regali,
 \0
 perciò te lo restituisco."
 "552","(촀\0Sono qui sei hai bisogno di me!"
-"600","(촀\0Volevi scrivere un messaggio?\0\0Ne ho qui uno che volevi inviare 2\0 s\0촀."
-"601","(촀\0Volevi scrivere un messaggio?\0\0(%촀\0Ne ho qui uno che stavi preparando
+"600","(촀\0Volevi scrivere un messaggio?\0\0Ne ho qui uno che avevi cominciato
+per s\0촀."
+"601","(촀\0Volevi scrivere un messaggio?\0\0(%촀\0Ne ho qui uno che avevi cominciato
 per s촀."
 "602","(촀\0Volevi scrivere un messaggio?
 
-\0(%촀\0Qui ne ho uno per il tuo io futuro."
+\0(%촀\0Ne ho qui uno che avevi cominciato
+per il tuo io futuro."
 "604","(촀\0OK, parliamo di nuovo di messaggi.
 
 \0Ho qui un piccolo capolavoro su cui
@@ -145,8 +239,20 @@ messaggio
 "620","Chi vuoi che sia il destinatario?"
 "620_a","Qualcuno sull'isola."
 "620_b","Il mio io futuro."
+"621","Chi vuoi che sia il destinatario?"
+"621_a","Qualcuno sull'isola."
+"621_b","Il mio io futuro."
+"621_c","Uno dei miei amici."
+"621_d","Nintendo."
+"625","Hai già pagato per il servizio di
+spedizione. Ti restituisco le stelline,
+così puoi cambiare il destinatario."
 "630","(%촀\0Okappa, allora cestino questo
 messaggio."
+"631","(%촀\0Allora cestino questo messaggio
+
+\0e ti restituisco anche le 200 stelline
+che avevi pagaton"
 "800","(촀\0Grazie per averci scelto!"
 "801","(%촀\0Okappa. 
 \0Fammi un fischio la

@@ -5,12 +5,11 @@
 "001_b","Wieso denn das?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(""촀\0Deine Weltoffenheit fasziniert mich,
 \0
 n\0! 
-\0(촀\0Gewiss haben
-dir unsere 2촀n촁 gemundet!\0\0(촀\0Ich muss schon sagen, 
+\0(촀\0Gewiss haben dir unsere 2촀n촁 gemundet!\0\0(촀\0Ich muss schon sagen, 
 \0ich bin
 geradezu verliebt in diese
 kleinen Wunder der Natur!"
@@ -57,10 +56,12 @@ begonnen, 
 \0\0(촀\0Eugens\0￿ zukünftige Wirkungs-
 stätte scheint seit geraumer Zeit
 im Zeltstadium zu verharren."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Diese Insel verfügt über ein \0Museum\0￿,
 
 \0()촀\0das in eine Vielzahl diverser
@@ -80,7 +81,7 @@ Stippvisite in unserem \0Museum\0￿
 zu absolvieren?
 (촀\0Du solltest zumindest einen kurzen
 Blick auf mein liebstes Exponat, 
-\0(촀\02(촀dendiedas2촁
+\0(촀\02)촀dendiedas2촁
 
 , werfen!"
 "030","(촀\02\02\0
@@ -93,32 +94,28 @@ unserem Eiland-\0Museum\0￿n\0\0
 augenscheinlich ausgeweidet, 
 \0sind
 Fossilien eine wahre Augenweide!"
-"101","<\0fj"
-"102","Erzähl, 
+"201","<\0ÊÎ"
+"202","Erzähl, 
 \0n\0, 
-\0(&촀\0hast du dich an das Leben auf deiner neuen Insel bereits gewöhnt?"
-"102_a","Mir geht's prächtig!"
-"102_b","Na ja, das wird schon."
-"102_c","Uff..."
-"103","(촀\0Oh, 
-\0wie wundervoll! 
-\0(()촀\0Ich gestehe,
-
-\0dass ich mich nach deinem Wegzug
-ein wenig um deine Zukunft sorgte.
-(\0촀\0Andererseits erfüllt mich das Wissen,
-
-\0dass es dir gut geht, 
-\0(4촀\0auch mit einem
-gewissen Gefühl der Traurigkeitn\0\0
+\0(&촀\0hast du dich an das Leben ohne mich bereits gewöhnt?"
+"202_a","Klar doch!"
+"202_b","Nicht wirklich..."
+"202_c","Hach..."
+"203","(8촀\0Oh, 
+\0dasn\0\0 nunn\0\0 freut mich zu hören.\0\0()촀\0Natürlich ist dein Wohlergehen eines
+meiner höchsten Anliegen.\0\0(\0촀\0Doch die Leichtfertigkeit, 
+\0mit der
+du das konstatierst,
+\0(촀\0 ist ein kleiner
+Stich in meinem Herzenn\0\0
 (\0촀\0Sei's drum, 
-\0(""촀\0wir freuen uns über
+\0(""촀\0ich freue mich über
 jeden deiner Besuche. 
 \0Ganz sicher,
 
-\0das tun wir! 
-\0(촀\0Ganz besonders ich!"
-"104","( 촀\0Oh, 
+\0das tue ich! 
+\0(촀\0Von ganzem Herzen!"
+"204","( 촀\0Oh, 
 \0tatsächlich? 
 \0(()촀\0Nun, 
 \0das braucht
@@ -131,58 +128,60 @@ Anpassungsfähigkeit schafft das!
 \0als Bewohnerin dieses
 Eilands weiß ich, 
 \0(촀\0wovon ich rede!"
-"105","(촀\0Ojemine! 
-\0Geht es dir gut, 20mein liebermeine liebe
-n\0?\0\0(촀\0Bereits bei deinem Abschied fühlte
-ich mich wie eine Vogelmutter,
-
-\0die ihr Junges davonfliegen siehtn\0\0
+"205","(촀\0Ojemine! 
+\0Geht es dir gut,
+\0 20mein liebermeine liebe
+n\0?\0\0(촀\0Bereits bei meinem Abschied hatte
+ich das Gefühl, mein eigen Fleisch
+und Blut zu verlassenn\0\0
 (촀\0Du armes Küken! 
 \0Nur zu, 
-\0dies ist
-auch für dich eine opportune Zeit,
-
-\0die Tränchen laufen zu lassen!"
-"106","(""촀\02\020mein liebermeine liebe n\0, 
+\0lasse den
+Tränchen ruhig freien Lauf, 
+\0n\0!"
+"206","(""촀\020Mein lieberMeine liebe n\0, 
 \0dürfte ich dich etwas fragen, 
 \0nun, 
 \0da du etwas von der Welt gesehen hast?\0\0()촀\0Aus deinem Blickwinkel – 
-\0und bitte,
-bitte, sei ehrlich – 
-\0(&촀\0was hältst du
-da von unserem Eiland?"
-"106_a","Ein toller Ort!"
-"106_b","Es hat Potenzial."
-"106_c","Ui..."
-"107","(촀\0Hah, 
-\0du meinst, n\0
-steht hinter anderen Inseln also in
-keinerlei Hinsicht zurück?!
-(촀\0Nun, 
+\0und bitte,
+bitte,
+\0 sei ehrlich – 
+\0(&촀\0was hältst du von
+diesem Eiland hier?"
+"206_a","Ein toller Ort!"
+"206_b","Es hat Potenzial."
+"206_c","Puuuh..."
+"207","(촀\0Hah, 
+\0du meinst, n\0 steht hinter anderen Inseln also in keinerlei Hinsicht zurück?!\0\0(촀\0Nun, 
 \0n\0, 
-\0es freut
-mich, 
-\0dies zu vernehmen, 
-\0(촀\0schließlich
-mag ich diese kleine Insel gar sehr."
-"108","( 촀\0Oh, 
+\0es freut mich, 
+\0dies zu vernehmen. 
+\0(촀\0Schließlich habe ich diesen Ort liebgewonnen."
+"208","( 촀\0Oh, 
 \0du sagst, 
 \0es gibt viel zu
 verbessern? 
 \0((%촀\0Nun, 
-\0gar kein Problemn\0\0
-Schließlich haben wir Potenzial!\0\0(5촀\0Mit der Hilfe von n\0
-werden wir nichts unversucht lassen,
-
-\0hier ein kleines Paradies zu schaffen!\0\0(""촀\02\0n\0, 
+\0ich hoffe,
+das wird gelingen!\0\0(5촀\0Mit der Hilfe von n\0
+werden wir nichts unversucht lassen,
+\0
+hier ein kleines Paradies zu schaffen!\0\0(""촀\02\0n\0, 
 \0lass dich einfach bei deinem nächsten Besuch auf n\0 überraschen!"
-"109","(촀\0Esn\0\0 Esn\0\0 ist einfach nicht mehr
-wie zuvor, 
-\0nicht wahr?\0\0(촀\0Dies ist nicht mehr die Insel
-n\0, die sie zu deinen
-ehrwürdigen Zeiten noch war.
-()촀\0Doch die Uhr tickt weiter, 
-\0Sekunde
-um Sekunde, 
-\0Stunde um Stunden\0\0
-Auch du drehst sie nicht zurück!"
+"209","(촀\0Esn\0\0 Esn\0\0 gefällt dir hier nicht
+allzu sehr, 
+\0habe ich recht?\0\0('촀\0Nicht nötig, 
+\0noch weitere Worte zu
+verlieren. 
+\0Dein Gesicht, 
+\0es spricht
+Bände, 
+\0n\0.
+(촀\0Doch letzten Endes zählt nur, 
+\0dass
+ich mich hier wohlfühle, 
+\0nicht wahr?\0\0(4촀\0Und unterschiedlicher Meinung zu
+sein ist wahrlich kein Verbrechen.\0\0()촀\0Ich betrachte diesen Austausch als
+das Salz, 
+\0das der Suppe des Lebens
+Würze verleiht!"

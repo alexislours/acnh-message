@@ -148,16 +148,20 @@ de ganar millas es con la \0jardinería\0￿.\0\0(!촀\0¡Sí, sí!
 para la isla,
 \0 y las millas, ¡buenas
 para tu bolsillo!"
-"107_09","(촀\0Si quieres que te dé ideas para
-conseguir millasn\0\0\0\0(&촀\0¿Sabías que puedes conseguirlas al
-hacer compras?
-\0 (%촀\0¡Sí, sí! Por ejemplo
-en la tienda o a través de \0TeleNook\0￿.
+"107_09","(
+촀\0Si quieres conseguir millas,
+\0 puedes ir
+(%촀\0de compras,
+\0 por ejemplo.
+\0 Ya sea en
+la tienda o a través de \0TeleNook\0￿.
 (촀\0Y estás de suerte,
-\0 porque si lo
-haces ahora, ganarás unas millas
-extras,
-\0 pero solo esta vez."
+\0 porque tenemos
+una promoción con la cual()촀\0 también
+ganarás millas al vender tus cosas.
+Es una oportunidad única,
+\0
+(촀\0¡no la desaproveches!"
 "108","<"
 "108_01","(
 촀\0Pues como ya has pagado los gastos
@@ -206,23 +210,27 @@ hablarte sobre la tienda de \0Tendo\0￿.\0\0(%촀\0Bueno, en realida
 te lo explique él directamente,
 \0
 si tienes un momento."
-"140","(촀\0Por cierto, gracias por ayudar
-a reunir esos materiales para
-la tienda, n\0."
-"140_01","Dicho eso, (%촀\0quizás te interesaría
-comprar el \02\0Ă촃hacha frágil\0￿ que
-hemos puesto a la venta.
+"140","(촀\0Bueno,
+\0 contamos contigo para reunir
+todos los materiales necesarios para
+la tiendan"
+"140_01","Hablando de ese tema,
+\0 (%촀\0quizá te
+interesaría comprar el \0hacha frágil\0￿
+que hemos puesto a la venta.
 (
-촀\0Aunque reconozco que es
-un poco cara.
-\0 También puedes
-fabricarte una, si prefieres.
-(촀\0Consigue \02\0ࠂ촆ramas \0￿sacudiendo árboles,
-y \02\0ࠂ촆piedras \0￿golpeando rocas con
+촀\0Aunque reconozco que es un
+poco caran\0\0
+\0 (촀\0También te puedes
+fabricar una,
+\0 si lo prefieres.
+(촀\0Consigue \0ramas \0￿sacudiendo árboles,
+y \0piedras \0￿golpeando rocas con
 la \0pala\0￿.
 (촀\0Con esos materiales podrás
-fabricarte un \0hacha \0￿de lo más útil,
-sí, sí."
+fabricarte un \0hacha \0￿de lo más
+útil,
+\0 sí, sí."
 "140_02","(촀\0¡Ah, sí! Quería darte esta \02\0Ȃ촄piedra \0￿que
 encontré cuando daba un paseo.
 \0
@@ -231,10 +239,11 @@ Quizás te sirva para algo."
 un buen uso, ¿sí?
 \0 Como para fabricar
 tu propia \02\0Ă촃hacha frágil\0￿."
-"150","(촀\0Primero quiero darte las gracias
-por haber recogido todos los
-materiales para la tienda.
-(촀\0¡Quizá te deberías dedicar a asesorar
+"150","(촀\0Gracias por haber recogido todos
+los materiales para la tienda.
+\0
+Pronto estará lista.
+(촀\0¡Quizá deberías ser tú quien asesore
 a la gente sobre cómo desarrollar
 la infraestructura de la isla!"
 "160","(
@@ -259,10 +268,15 @@ para ir de compras,
 en mudarse a la isla, así que ando
 ocupado con los trámites.
 (%촀\0Así es:
-\0 ¡pronto tendremos
-nuevos vecinos!
-\0 (촀\0Espero que los
-reciban con cariño, ¿sí?"
+\0 si todo va bien,
+\0 (촀\0¡pronto
+tendremos nuevos vecinos!\0\0(촀\0De hecho,
+\0 hay tanto para hacer que
+hasta le pedí ayuda a nuestr2
+촀oa\0
+portavoz vecinal.
+(촀\0Si quieres saber cómo marcha
+la cosa, habla con n'\0⁠⁠, ¿sí?"
 "163","( 촀\0¡Por cierto!
 \0 ¿Sabías que puedes
 canjear millas por \0proyectos de
@@ -288,7 +302,7 @@ proyectos.
 "202","()촀\0Los \0proyectos de taller \0￿son cosas que creas tú mism2oa desde cero,
 \0
 como muebles y herramientas.
-('촀\0En Nook Inc. no solemos regalar
+('촀\0En \0Nook Inc.\0￿ no solemos regalar
 nada tan valioso como este curso,
 \0
 (촀\0¡pero esta es una ocasión especial!"

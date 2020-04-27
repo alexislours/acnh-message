@@ -19,7 +19,7 @@ de liquidité.\0\0Du coup,
 quelques trésorsn\0\0 quatre pour être
 précis.
 \0 (3촀\0T'as envie d'y jeter un œil ?"
-"003_a","Allez, fais voir."
+"003_a","(\0촀\0Allez, fais voir."
 "003_b","Non merci."
 "004","(7촀\0Hé, n\0. 
 \0T'aurais une minute ?
@@ -64,7 +64,7 @@ séparer pour Z.
 \0
 Qu'est-ce que t'en dis ?"
 "100_a","J'achète !"
-"100_b","Mouais..."
+"100_b","(\0촀\0Mouais..."
 "101","(촀\0Marché conclu !"
 "102","(촀\0Je compte sur toi pour en prendre
 soin. 
@@ -100,7 +100,7 @@ la fine bouche à l'annonce du prix !"
 (촀\0Puisque c'est comme çan\0\0 Je t'en
 propose Z !"
 "201_a","Je prends !"
-"201_b","Toujours trop cher !"
+"201_b","(\0촀\0Toujours trop cher !"
 "202","(촀\0Marché conclu !"
 "203","(촀\0Étonnamment, c'était un plaisir
 de faire des affaires avec toi !"
@@ -111,7 +111,7 @@ en profitera à ta place !"
 \0
 (\0촀\0Bonn\0\0($촀\0 Z, alors ?"
 "205_a","Ça me va !"
-"205_b","Encore trop cher !"
+"205_b","(\0촀\0Encore trop cher !"
 "206","('촀\0Désolé, 2
 gamingamine.
 \0 Je ne peux pas aller
@@ -125,11 +125,9 @@ de ma patience ! 
 \0
 dernière offre, n\0 !"
 "207_a","Je prends !"
-"207_b","Dans ce cas, tant pis."
+"207_b","(\0촀\0Dans ce cas, tant pis."
 "208","(-촀\02\0n\0 !
-\0 Faire des affaires
-avec toi, c'est vraiment pas de tout
-repos !"
+\0 Faire des affaires avec toi, c'est vraiment pas de tout repos !"
 "209","(6촀\0Eh bien, 2
 gamingamine.
 \0 Tu m'en auras fait
@@ -184,7 +182,7 @@ génération de p'tits difficilesn"
 pour Z.
 \0 ($촀\0Ça t'irait ?"
 "400_a","Tout à fait !"
-"400_b","C'est un peu cher..."
+"400_b","(\0촀\0C'est un peu cher..."
 "401","(촀\0Alors marché conclu !"
 "402","(촀\0Pfiou ! 
 \0On peut dire que tu me
@@ -196,7 +194,7 @@ la situation pour tenter de négociern\0\0\0\0($촀\0Puisque c'est comme ç
 propose Z.
 \0 Alors ?"
 "403_a","J'achète !"
-"403_b","Encore trop cher..."
+"403_b","(\0촀\0Encore trop cher..."
 "404","(촀\0T'es 20dur, gamindure, gaminen\0\0
 \0 ()촀\0Bon, 
 \0je suis prêt
@@ -204,7 +202,7 @@ propose Z.
 \0
 On a un accord ?"
 "404_a","On a un accord !"
-"404_b","Toujours trop cher !"
+"404_b","(\0촀\0Toujours trop cher !"
 "405","(촀\0Aïe aïe aïe ! 
 \0Mais c'est qu'2ilelle est
 2décidédécidée à me pousser dans mes
@@ -214,7 +212,7 @@ derniers retranchements !
 
 \0À prendre ou à laisser !"
 "405_a","Alors je prends !"
-"405_b","Dans ce cas, je laisse."
+"405_b","(\0촀\0Dans ce cas, je laisse."
 "406","(-촀\0Ouf !
 \0 Content de voir qu'on a enfin
 pu trouver un accord, 2

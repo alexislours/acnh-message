@@ -2,7 +2,7 @@
 "003","(촀\0Sono triste... 
 \0(촀\0vorrei tanto catturare
 2\0}촀
-\0.\0\0Però non riesco a trovarne 2촀unouna\0
+\0.\0\0Però non riesco a trovarne 2촀unouna\0
 da nessuna a parte!\0\0(
 촀\0Non capiscon\0\0
 \0 (촀\0Ma certo, scappano
@@ -35,7 +35,7 @@ in pace e accettare la sconfitta."
 (\0촁\0Vuoi una mano?"
 "008_b","(\0촁\0Ce la puoi fare!
 (\0촁\0In bocca al lupo!"
-"009","(1촀\02\02\0}촀 è perfett2촀oa\0 per capire come diventare un campione di 촀!\0\0(촀\0Vorrei tanto pescarne 2촀unouna\0 per
+"009","(1촀\02\02\0}촀 è perfett2촀oa\0 per capire come diventare un campione di 촀!\0\0(촀\0Vorrei tanto pescarne 2촀unouna\0 per
 studiarne i movimentin\0\0\0\0(촀\0Ma non ho avuto molta fortunan\0\0
 almeno per ora."
 "009_a","(\0촁\0Lascia fare a me!
@@ -100,7 +100,7 @@ Me ne catturi uno?"
 "021_a","Lascia fare a me!
 OK!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","(촀\0Lo sapevi che le corna
@@ -120,7 +120,7 @@ Va bene uno qualsiasi, n\0."
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","(1촀\0Quando friniscono, le cicale flettono
@@ -135,7 +135,7 @@ te ne saranno molto riconoscenti!"
 "023_a","Lascia fare a me!
 OK!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","(1촀\0Per volare, le farfalle sbattono
@@ -152,7 +152,7 @@ bene una qualsiasi."
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(촀\0Le libellule 
@@ -172,7 +172,7 @@ catturarmene una?
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","(&촀\0Ehi n\0, tu ci sai fare
@@ -195,7 +195,7 @@ uno qualsiasi, n\0."
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","(촀\0È strano...
@@ -210,7 +210,7 @@ un ceppo e catturarlo per me,
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","(촀\0È da un po' che cerco di pescare
@@ -225,7 +225,7 @@ un pesce d'acqua dolce?"
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","(1촀\0I pesci di mare sono estremamente
@@ -241,25 +241,25 @@ acciuffarne uno, per tutti i deltoidi!\0\0(4촀\0Senti, n\0, 
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(촀\0Ehilà, n\0! 
 \0(%촀\0Sto disperatamente cercando 2\0}촀.\0\0(&촀\0Mi faresti un favore? 
 \0Se ne vedi in
-giro un2촀oa\0, 
-\0potresti catturarl2촀oa\0 per me,
+giro un2촀oa\0, 
+\0potresti catturarl2촀oa\0 per me,
 n\0?"
 "101_a","Ma certo!
 Puoi scommetterci!"
 "101_b","Adesso non posso...
-Avrei un impegno."
+(\0촀\0Avrei un impegno."
 "102","(촀\0Non riesco proprio a catturare
-2\0}촀n\0\0\0\0(촀\0Ma me ne serve un2촀oa\0! Devo averl2촀oa\0
+2\0}촀n\0\0\0\0(촀\0Ma me ne serve un2촀oa\0! Devo averl2촀oa\0
 a tutti i costi!\0\0In una collezione di insetti che si
 rispetti non può mancare
 2\0}촀!\0\0(촀\0Accipicchia! Chissà dove ne posso
-trovare un2촀oa\0..."
+trovare un2촀oa\0..."
 "102_a","(\0촁\0Lascia fare a me!
 (\0촁\0Me ne occupo io."
 "102_b","(\0촁\0Non ti arrendere!
@@ -286,7 +286,7 @@ a cercare! (""촀\0Ci si vede in giro,
 n\0!"
 "201","(촀\0Cerco da tempo di catturare 2\0}촀, ma non ci sono mai riuscito!\0\0(9촀\0Tu e io siamo rivali e mi costa molto
 chiedertelo, man\0\0 (&촀\0ne cattureresti
-2촀unouna\0 per me?"
+2촀unouna\0 per me?"
 "201_a","Ci penso io!
 Nessun problema!"
 "201_b","Adesso non posso...
@@ -295,7 +295,7 @@ Non posso, scusa."
 quanto sia sfuggente
 2\0}촀(&촀\0n\0\0
 (촀\0Le sto provando tutte, ma non
-c'è verso che riesca a catturarl2촀oa\0n"
+c'è verso che riesca a catturarl2촀oa\0n"
 "202_a","(\0촁\0Ci penso io.
 (\0촁\0Conta su di me!"
 "202_b","(\0촁\0Ci riuscirai!

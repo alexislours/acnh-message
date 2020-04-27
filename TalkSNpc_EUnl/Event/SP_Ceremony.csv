@@ -1,12 +1,10 @@
 ﻿"label","text"
 "001","Even zienn"
-"001_01","(촀\0Ik wil graag beginnen met de openingsceremonie van \02\0s촀\0￿!"
-"001_02","(촀\0Ik wil graag beginnen met de
-ceremonie
-\0 voor de heropening van
-\02\0s촀\0￿!"
+"001_01","(촀\0Welkom bij de openingsceremonie van 2\0\0s촀\0￿!"
+"001_02","(촀\0Welkom bij de ceremonie
+\0 voor de heropening van 2\0\0s촀\0￿!"
 "002","(촀\0Dank jullie wel!"
-"002_01","(1촀\02\0n\0 begon als een onbewoond eiland. Er was hier niet zoveel. Maar nun\0\0\0\0(촀\0n\0\0begint het langzaam te groeien
+"002_01","(1촀\0n\0 begon als een onbewoond eiland. Er was hier niet zoveel. Maar nun\0\0\0\0(촀\0n\0\0begint het langzaam te groeien
 dankzij de onvermoeibare inspanning
 vann\0\0 nou, zo'n beetje iedereen."
 "002_02","(촀\0Dankzij de inspanning van iedereen
@@ -38,16 +36,16 @@ woorden, n\0!"
 maarn"
 "201_01","Ik wil(%촀\0 \0Timmy\0￿ en \0Tommy\0￿ graag het
 woord geven, als vertegenwoordigers
-van (촀\0de vernieuwde \0Nooks hoek\0￿."
+(촀\0van \0Nooks hoek\0￿."
 "201_02","\0Timmy\0￿?
 \0 \0Tommy\0￿?
 \0 ($촀\0Het woord is aan
 jullie."
-"202","(촀\0Dank jullie wel, n\0!\0\0(촀\0Dankzij jullie, hebben we een
+"202","(촀\0Dank jullie wel, n\0!\0\0(촀\0Dankzij jullie hebben we een
 degelijke winkel kunnen openen!"
 "203","(촀\0Mijn broer en ik zullen hard werken
 om er een geweldige winkel van te
-maken. We hopen jullie daar te zien!"
+maken. We hopen jullie er te zien!"
 "204","(촀\0Ja, ja, 
 \0bedankt, jullie twee!"
 "205","(9촀\0En dan nu
@@ -116,10 +114,10 @@ dat mij vanaf nu gaat helpen!\0\0(촀\0\0Isabelle\0￿, kun jij($�
 vereren met een korte toespraak?"
 "232","(촀\0Wat fijn dat ik n\0 op deze manier kan bedanken!
 \0 (\0촀\0Zoals \0meneer Nook\0￿ al zei, 
-\0($촀\0ik ben \0Isabelle\0￿!\0\0(\0촀\0Ik ben nog niet zo lang op dit eiland,
+\0($촀\0ben ik \0Isabelle\0￿!\0\0(\0촀\0Ik ben nog niet zo lang op dit eiland,
 dus
 \0 ('촀\0het gaat nog even duren voor ik
-op de hoogte van alles ben, maarn\0\0\0\0(%촀\0Reken er maar op dat ik mijn beste
+op de hoogte ben van alles, maarn\0\0\0\0(%촀\0Reken er maar op dat ik mijn beste
 beentje ga voorzetten!
 \0(촀\0 Als je iets
 nodig hebt, kom dan naar me toe!"

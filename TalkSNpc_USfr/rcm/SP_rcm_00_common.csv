@@ -266,7 +266,7 @@ coûte Z\0. 
 }\0\0."
 "102","(%촂\0On n'en a pas une quantité illimitée,
 tu sais.
-\0(%촃\0 Alors, 2 촀s'ilsi elle\0 te tente,(촂\0(촃\0 tu
+\0(%촃\0 Alors, 2 촀s'ilsi elle\0 te tente,(촂\0(촃\0 tu
 devrais te décider rapidement."
 "103","Voyons voirn\0\0
 \0(%촂\0 Son prix est de
@@ -312,14 +312,20 @@ n'importe où."
 "106_02","(촂\0(촃\0Si tu l'achètes, je télécharge
 immédiatement ces plans sur ton
 NookPhone."
-"107_01","(촂\0OK, 
-\0je vais télécharger les plans 2
-de d'« ⁠}\0\0 »(촃\0 vers ton NookPhonen"
+"107_01","(촂\0Je vais télécharger les plans inclus dans « }\0\0 »(촃\0 vers ton NookPhonen"
 "107_02","(촂\0(촃\0Et voilà!
 \0(촂\0 Profite bien de tous les
 nouveaux plans de \0bricolage\0￿ à ta
 disposition!d\0
 \0 \0KÇa va bricoler à fond!\0dd"
+"108","()촀\0Oh!
+\0 Malheureusement, on ne peut
+vendre cet article qu'aux clients
+disposant de l'appli \0Créations\0￿.
+\0
+(촀\0Si tu veux perfectionner tes talents
+dans le domaine, passe donc au
+\0bureau des résidents\0￿ de ton île!"
 "110_02","(촂\0(촃\02\0n\0n\0\0 je crois que tu as déjà ce plan.\0\0(촂\0(촃\0Mais si tu veux l'acheter quand même, c'est Z\0. (&촂\0Ça te va?(&촃\0d\0
 \0 \0KLe client est roi!\0dd"
 "110_02_a","(%촀\0J'achète!"
@@ -424,7 +430,7 @@ tes Z\0!(%촃"
 \0(촂\0(촃\0 alors
 profites-en!d\0
 \0 \0KAmène-nous ceux que tu as!\0dd"
-"122","(촂\0(촃\02\02\0}\0\0! Je te 2촀lela\0 rachète au double de son prix habituel, ce qui nous faitn\0\0\0\0n\0\0 Z\0.
+"122","(촂\0(촃\02\02\0}\0\0! Je te 2촀lela\0 rachète au double de son prix habituel, ce qui nous faitn\0\0\0\0n\0\0 Z\0.
 \0(&촂\0(&촃\0 Ça te va?"
 "122_a","(%촀\0Marché conclu!"
 "122_b","('촀\0En fait, non."

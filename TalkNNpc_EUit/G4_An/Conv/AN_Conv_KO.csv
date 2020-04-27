@@ -46,7 +46,7 @@ giusta,
 già che ci sei!
 \0 Io farei più paura
 della signorina Picchiotutti, qui?(촀"
-"005","(촀\0Ah ah ah!
+"005","(촀\0촅Ah ah ah!
 \0 촅(7촀\0Ma non c'è niente di male
 a incutere terrore.
 \0 Anzi!
@@ -111,15 +111,15 @@ sia un amico più che decente.
 (%촀\0n촁 è forse l'unico che ha il fegato di ribatteren\0\0 quasi colpo su colpo.\0\0(촀\0Devo dire che
 \0 non è niente male
 come divertimento, n\0!"
-"014","(촀\0Quanto è vero!
+"014","촇(촀\0Quanto è vero!
 \0 Avrai la delicatezza
 di uno sciame di vespe,
 \0 ma è ciò che
 ci vuole per un'animata discussione!
 (
-촀\0Peròn\0\0 촇continuo a chiedermi che cosa
-di noi ha scatenato la reazione di
-quel piccoletto,
+촀\0Peròn\0\0 continuo a chiedermi che
+cosa di noi ha scatenato la reazione
+di quel piccoletto,
 \0 di preciso."
 "015","(촀\0Ma che vuoi che fosse,
 \0 sarà stato
@@ -134,11 +134,13 @@ di piantargli il tuo grugno sul muso?"
 \0 ti stimo troppo!
 \0 Questa era davvero buona, n\0!
 \0 Ma come fai?"
-"021","(	촀\0Grrr! E va bene!
+"021","(	촀\0Grrr! 
+\0E va bene!
 \0 Così vedrai,
-\0 finalmente!
-\0 촆Dai, n\0,
-\0 pensaci tu!"
+\0
+finalmente!
+\0 초Dai, pensaci tu,
+n\0!"
 "022","()촀\0Dunque,
 \0 la storia è questa.\0\0(9촀\0L'altro giorno camminavamo in giro
 per l'isola,
@@ -149,14 +151,14 @@ veden\0\0 scoppia in lacrime
 \0 la voce da appena sveglio di n촁 l'avrà terrorizzato.
 \0 촆Tu concordi, no?"
 "023","(
-촀\0Che hai da dire sulla mia voce!
+촀\0Che hai da dire sulla mia voce?
 \0 Non
 ha proprio niente di spaventoso!
 \0
 Nemmeno da appena sveglio!
 (%촀\0È stata senz'altro colpa della tua
 risata da iena impazzita.
-\0 초('촀\0Non mi
+\0 Non mi
 esce ancora dalle orecchie.
 초Insomma, n\0, tocca a te.
 \0 (&촀\0Che ne dici?
@@ -168,17 +170,17 @@ esce ancora dalle orecchie.
 raschiata!
 \0 Il mio baritono operistico
 sarebbe peggio?(촀"
-"025","(촀\0Ah ah ah ah!
+"025","촅(촀\0Ah ah ah!
 \0 Bellissima questa del
 ""baritono operistico""!
 \0 Ma dove le
 leggi certe cose?
-촅(촀\0Tranquillo,
-\0 sappiamo che non puoi
+(촀\0Tranquillo,
+\0 sappiamo che non puoi
 farci niente,
 \0 vecchio mio.\0\0(촀\0E poi,
 \0 sono una dura e una signora:
-\0
+\0
 qualsiasi cosa dica,
 \0 suona bene!"
 "026","(촀\0Come no!
@@ -202,7 +204,7 @@ o poi, n\0!"
 strillare cantando il rock ha pesato
 sulla tua voce, eh?
 \0(촀\0 AHAHAH!(촀"
-"029","(촀\0Ah ah ah!
+"029","촅(촀\0Ah ah ah!
 \0 Ma che vuoi saperne di
 rock, tu?
 \0( (6촀\0E poi sono tosta io,
@@ -224,7 +226,8 @@ ora,
 parlare come il matusa che non sei."
 "032","(%촀\0Certo,
 \0 e neppure poco.
-\0 (&촀\0Perché me lo chiedi, n\0?\0\0(촀\0Oh,
+\0 (&촀\0Perché ce
+lo chiedi, n\0?\0\0(촀\0Oh,
 \0 ma è per via di tutte le nostre
 schermaglie a parole?
 \0 (촀\0Ma no,

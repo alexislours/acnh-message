@@ -9,6 +9,24 @@ nach, 
 \0ob ich auf diese Insel ziehen
 darf, 
 \0n\0!"
+"003","()촀\0Du und Soßenflecken,
+\0 ihr habt echt
+was gemeinsam. 
+\0((촀\0Ihr beide seid total
+hartnäckig!
+(촀\0D-
+\0das war nicht bös gemeint. 
+\0(촀\0Ich
+freu mich ja, 
+\0dass du mich auf deiner
+Insel haben willst, 
+\0n\0.
+(%촀\0Also schön, 
+\0du hast mich überredet.
+\0
+(촀\0Dann frag ich die vom \0Servicecenter\0￿,
+\0
+ob hier noch ein Plätzchen frei ist."
 "101","<"
 "101_01","( 촀\0Ganz ernsthaft?! 
 \0Das ist so ein
@@ -152,56 +170,41 @@ Mein Herz klopft so sehr, 
 \0als wäre
 ich ganz viele Treppen raufgerannt!"
 "206","<"
-"206_01","Und das bedeutet... 
+"206_01","Und das bedeutetn\0\0 
 \0(촀\0dass du
-gewinnst, 
-\0ähn\0\0 
-\0n\0!
-\0
-Ich heiß übrigens n
-\0.\0\0(%촀\0Ich flieg zurück nach Hause und hol
+gewinnst!\0\0(%촀\0Ich flieg zurück nach Hause und hol
 meine Snacks und Bauklötze, 
 \0und
-dann zieh ich auf deine Insel.\0\0(촀\0Wenn wir uns das nächste Mal sehen,
-\0
-sind wir beide schon Nachbarn.
-\0 Ich
-kann's kaum erwarten, 
-\0n\0!"
+dann zieh ich auf deine Insel.\0\0()촀\0Aber als Allererstes muss man
+anscheinend beim (""촀\0\0Servicecenter
+\0￿einen Antrag stellen, 
+\0n\0."
 "206_02","(촀\0Du hast gewonnen! 
 \0(촀\0Toll, 
 \0ich zieh
 nach n\0!\0\0(7촀\0Ich wollte schon vor dem Spiel ganz
 doll hierherziehen, 
-\0also dachte ich,
-\0
-was, 
-\0wenn ich gewinne?!\0\0(촀\0Aber, 
-\0kein Problem! 
-\0Wir sind jetzt
-Nachbarn! 
-\0Ich bin übrigens der
-n
-\0.\0\0(%촀\0Und du heißt n\0, oder?
-\0 Wunderbärchen!"
+\0also hatte ich
+schon Angst, 
+\0dass ich gewinne!\0\0(촀\0Gut, 
+\0dann werd ich mal schleunigst
+beim (""촀\0\0Servicecenter\0￿ einen Antrag
+stellen, 
+\0n\0."
 "206_03","(촀\0Das bedeutet, 
 \0du gewinnst!
 \0
-(\0촀\0(촀\0Ich zieh auf diese Insel!
-\0
-Das passiert wirklich!\0\0(&촀\0In so einer Situation stellt man sich
-vor, 
-\0oder? 
-\0(\0촀\0Wie heißt du?
-2\0n\0?\0\0(""촀\0Ich heiße n
-\0 
-\0und ich bin 2\0n\0 
-\0und ich mag Schokolade. 
-\0(Hallo.\0\0(%촀\0Jetzt muss ich meine Oma anrufen
+Und ich zieh auf diese Insel!!!\0\0(9촀\0Puhn\0\0 
+\0Erst mal ruhig bleiben.
+\0 Ich
+brauch ja auch noch die Erlaubnis
+vom \0Servicecenter\0￿,
+\0 n\0.
+( 촀\0Und ich muss meine Oma anrufen
 und ihr sagen, 
 \0dass ich nicht zum
 Essen komme, 
-\0n\0."
+\0n\0!"
 "302","(촀\0Ich wollte dich nicht warten lassen!
 \0
 Aber ich hab mit den Leuten vom
@@ -240,9 +243,9 @@ Wen soll ich fragen?"
 "306","(9촀\0Alles klar! 
 \0Ich wär ja nervös, 
 \0aber
-ich kenn 2촀ihnsieihn ja gar nicht, 
+ich kenn 2촀ihnsieihn ja gar nicht, 
 \0also kann
-2촀ersieer mich auch nicht nervös machen!
+2촀ersieer mich auch nicht nervös machen!
 (촀\0Und los!"
 "307","(촀\0Okay! 
 \0Es muss ganz genau der
@@ -255,23 +258,20 @@ es für dieses Mal besser auf,
 \0
 n\0."
 "309","(촀\0Ich war ganz mutig und hab
-jemanden,
-\0 der mich gar nicht kennt,
+jemanden, der mich gar nicht kennt,
 gebeten, 
 \0für mich umzuziehen...\0\0Und die Antwort war... 
 \0Ja!\0\0()촀\02\0s촀 hat gesagt, 
-\02촀ersieer
-wollte sowieso umziehen, 
-\0wegen
-der vielen Krokodile.\0\0(9촀\0Ich weiß nicht, 
-\0was das bedeutet
+\02촀ersieer wollte sowieso umziehen, 
+\0wegen der vielen Krokodile.\0\0(9촀\0Ich weiß nicht, 
+\0was das bedeutet,
 \0
 und frag lieber auch nicht nach.\0\0(촀\0Egal, 
 \0jetzt kann ich jedenfalls
 herziehen! 
-\0Hoffentlich bist du
-bereit, 
-\0n\0!"
+\02\0n\0 heißt du? 
+\0Ich heiße n
+\0!"
 "310","(&촀\0Gibt es niemanden, 
 \0den ich
 fragen sollte?"
@@ -282,40 +282,21 @@ fragen sollte?"
 \0wen!"
 "312","(촀\0Keine Sorge! 
 \0Vielleicht ein andermal!"
-"402","(촀\0Schön, 
-\0dass du gewartet hast! 
-\0Ich
-hab im \0Servicecenter \0￿nachgefragt,
-\0
-ob ich herziehen kann...\0\0(촀\0Die haben gesagt: 
-\0„Dieses Modell
-hätte seine Insel nie verlassen
-dürfen! 
-\0Ruft sofort Tom Nook!“\0\0(촀\0Weiß nicht, 
-\0was das heißen soll, 
-\0aber
-anscheinend wohnt ein Klon von mir
-oder so was schon hier...\0\0(\0촀\0Hoffentlich sind wir trotzdem irgend-
-wann Nachbarn. 
-\0Vielleicht nach
-diesem 
-\0„Formatieren und Neustart“!"
-"403","(촀\0Hey! 
-\0Ich hab im \0Servicecenter \0￿nach-
-gefragt und
-\0 (촀\0hier zieht schon jemand
-her, 
-\0der genau wie ich aussieht.\0\0(\0촀\0Das ist lustig, 
-\0oder? 
-\0Das Gute an
-lustigen Sachen ist... 
-\0(촀\0dass man sie
-immer noch lustiger machen kann!\0\0(촀\0Vielleicht frag ich ihn, 
-\0ob wir uns die
-Inseln teilen können. 
-\0Er lebt halb
-hier, 
-\0und ich halb auf seiner Insel..."
+"313","(촀\02\0n\0!
+\0(
+(촀\0Soll ich dann mal gleich
+s촀 ($촀\0fragen?\0\0(7촀\0Ich hab im \0Servicecenter
+\0￿aufgeschnappt,
+\0 dass 2(촀der eindie eine\0
+2.촀KandidatKandidatin\0 sein könnte."
+"313_a","Mach das!"
+"313_b","Bitte nicht..."
+"314","( 촀\0Oooh, 
+\0ich verstehe...
+\0(
+(\0촀\0Dann kann man wohl nichts machen.
+\0(
+(촀\0Vergessen wir die Sache."
 "404","Ich hab im \0Servicecenter \0￿nachge-
 fragt, 
 \0(:촀\0aber... 
@@ -328,27 +309,19 @@ Leute, 
 wir trotzdem irgendwann auf der
 selben Insel wohnen, 
 \0n\0."
-"405","Ich hab im \0Servicecenter \0￿nachgefragt
-\0
-(:촀\0und (촀\0weil kein Platz für neue Häuser
-ist, 
-\0(촀\0kann ich nicht herziehen...\0\0(촀\0Das ist total schade, 
-\0aber na ja...
-\0
-(\0촀\0Hoffentlich können wir trotzdem
-einmal Nachbarn sein, 
-\0n\0."
 "406","(촀\0Na gut, 
 \0ich hab also mit den Leuten
 vom \0Servicecenter \0￿geredet und...
 \0
 (촀\0Die sagen, 
-\0ich darf hierherziehen!(촀\0\0\0(촀\0Du, 
-\0n\0!
-\0 Ab morgen
-sind wir Nachbarn! 
-\0Dann können
-wir jeden Tag zusammen spielen!"
+\0ich darf hierherziehen!(촀\0\0\0Ich heiße übrigens n
+\0. 
+\0Und du? 
+\02\0n\0?\0\0(촀\0Ab morgen sind wir Nachbarn!
+
+\0Dann können wir jeden Tag
+zusammen spielen, 
+\0n\0!"
 "410","(
 촀\0Ooodern\0\0
 \0 soll ich noch mal
@@ -365,25 +338,6 @@ Sachen nicht. 
 \0(촀\0Dann ein andermal,
 \0
 n\0!"
-"421","(
-촀\0Irgendwie war das alles komisch...
-\0
-Aber je mehr ich drüber nachdenke,
-\0
-umso mehr vergesse ich es auch.\0\0($촀\0Na ja, 
-\0blöd, 
-\0dass ich nicht hierher-
-ziehen kann, 
-\0aber trotzdem danke
-für die Einladung!"
-"422","(
-촀\0Wenn mein Doppelgänger und ich
-Plätze tauschen, 
-\0müssten wir ständig
-so tun, 
-\0als wären wir der andere...\0\0(%촀\0Das wäre mir VIEL zu anstrengend,
-\0
-n\0."
 "423","(%촀\0Auf deiner Insel wohnen so viele von
 deinen Freunden, 
 \0dass kein Platz
@@ -394,17 +348,6 @@ wohnen kann. 
 \0($촀\0Aber vielen Dank
 für die Einladung, 
 \0n\0!"
-"424","(%촀\0Auf deiner Insel sind so viele Leute,
-\0
-dass niemand mehr draufpasst. 
-\0Ich
-kann also nicht herziehen... 
-\0(촀\0Schade.\0\0(\0촀\0($촀\0Ich muss jetzt gehen! 
-\0Ich hatte
-hier ganz viel Spaß! 
-\0Danke dafür,
-\0
-n\0!"
 "504","(촀\0Deine Insel ist fast so kuschelig wie
 meine Lieblingskuscheldecke.
 \0 (1촀\0Und es

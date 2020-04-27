@@ -1,14 +1,13 @@
 ﻿"label","text"
-"001","(촀\0Sorry dat ik hier zo plotseling mee kom, (4촀\0maar wil je 2\0}\0\0 kopen?"
-"001_a","(\0촀\0Oké."
+"001","(촀\0Sorry dat ik hier zo plotseling mee kom, (4촀\0maar wil je mijn 2촃}\0\0 kopen?"
+"001_a","Oké."
 "001_b","Heb ik niet nodig."
 "002","(촀\0Wil jij misschien 2\0}\0\0 kopen?"
-"002_a","(\0촀\0Ja, hoor."
+"002_a","Ja, hoor."
 "002_b","Kan ik niet gebruiken."
 "003","(촀\0O, n\0!(\0촀\0\0\0()촀\0Ik heb een dilemma. Het nieuwste
 deel van mijn favoriete boekenreeks
-is net uitgekomen, maar (촀\0ik ben blutn\0\0
-(
+is net uitgekomen, maar (촀\0ik ben blutn\0\0\0\0(
 촀\0Dus ik dacht dat ik wel iets kon
 verkopen om aan wat geld te komen.\0\0(4촀\0Zou jij misschien vier dingen van mij
 willen kopen? (촀\0Ik kan niet wachten om
@@ -21,7 +20,7 @@ ik me dat ik gisteren al precies
 hetzelfde heb gekocht!
 (촀\0Wacht!
 \0 Zou jij mijn extra 2촃}\0\0 ($촀\0willen kopen? Ik heb er namelijk niks aan."
-"004_a","(\0촀\0Dat wil ik wel."
+"004_a","Dat wil ik wel."
 "004_b","Sorry, liever niet."
 "005","('촀\0Dat is geen probleem, hoor.
 \0 (촀\0Er zijn
@@ -49,17 +48,17 @@ weleens over hebben,
 "100","(촀\0O, dank je wel! (\0촀\0Wat denk je, is 
 (&촀\0Z een redelijke prijs?"
 "100_a","Ja prima."
-"100_b","Nou..."
+"100_b","(\0촀\0Nou..."
 "101","(촀\0Hartelijk bedankt voor je hulp! Ik ben
 zo blij dat ik jou heb aangesproken."
-"102","(촀\02\0n\0, ik denk dat mijn 2촃}\0\0 eigenlijk van jou 2(촀
+"102","(촀\02\0n\0, ik denk dat mijn 2촃}\0\0 eigenlijk van jou 2(촀
 hoort
 hoort
 horen te zijn."
 "103","(
 촀\0On\0\0 Nou, dann\0\0
 \0 ('촀\0hoef je er niets voor
-te betalen. (촀\0Je krijgt 2촀hemhetze gratis van
+te betalen. (촀\0Je krijgt 2촀hemhetze gratis van
 mij!(촀"
 "104","(촀\0Dat ik jou daar blij mee maak, is al
 genoeg voor mij, n\0. (촀\0Veel plezier ermee!"
@@ -71,12 +70,12 @@ genoeg voor mij, n\0. (촀\0Veel plezier ermee!"
 "200_b","Verkocht!"
 "200_c","Laat maar."
 "201","(
-촀\0Hmmn\0\0 Dus je vindt 2촀hemhetze te duur?
+촀\0Hmmn\0\0 Dus je vindt 2촀hemhetze te duur?
 (\0촀\0En hoe klinkt (촀\0Z?"
 "201_a","Verkocht!"
 "201_b","Sorry, nog te duur..."
 "202","(촀\0Enorm bedankt voor je hulp!"
-"203","(촀\020촀Hij isHet isZe zijn zo goed als nieuw. (촀\0Je hebt
+"203","(촀\020촀Hij isHet isZe zijn zo goed als nieuw. (촀\0Je hebt
 er vast veel aan, n\0!(촀"
 "204","(촀\0Ah, geen probleemn\0\0 (4촀\0Maak je maar
 niet druk. (촀\0Ik kan er vast wel iemand
@@ -91,7 +90,7 @@ joun\0\0(촀\0 Dus de deal gaat niet door."
 "207","(촀\0Echt waar? (촀\0Was je altijd al zo op de
 klingels, n\0? (\0촀\0Nou, oké. Wat vind je van ($촀\0Z\0?"
 "207_a","Deal!"
-"207_b","Ik hoef 2촀hemhetze toch maar niet."
+"207_b","Ik doe het toch maar niet."
 "208","(촀\0Heel erg bedankt!"
 "209","(7촀\0Jij bent goed in afdingen!
 (\0촀\02\0n\0, dat(촀\0 was erg leuk!"
@@ -116,7 +115,7 @@ erg bedankt, n\0!"
 je ($촀\0mijn 2촃}\0\0. Interesse?"
 "304_a","Verkocht!"
 "304_b","(\0촀\0Wat heb je nog meer?"
-"305","(촀\0Je bent erg kritisch. (\0촀\0Maar hoe 20촀klinktklinktklinken
+"305","(촀\0Je bent erg kritisch. (\0촀\0Maar hoe 20촀klinktklinktklinken
 (\0촀\02\0}\0\0 (&촀\0voorn\0\0
 \0 Z?\0\0('촀\0Meer heb ik helaas niet."
 "305_a","Verkocht!"

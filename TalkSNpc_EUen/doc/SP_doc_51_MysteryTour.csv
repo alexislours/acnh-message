@@ -51,9 +51,14 @@ require assistance?(\0촀\0 
 "002_a","I'm ready to go home."
 "002_b","I need tools."
 "002_c","('촁\0Never mind."
-"003","(&촀\0You're ready to punt pontoons and
-fly Lady 2\0촀 here back
-to n""\0?"
+"003","(&촀\0You ready to punt pontoons and fly
+Soaring 2\0촀 here back to
+n""\0?
+\0 You positive?
+(촀\0Be VERY positive, 'cause I wouldn't
+want you leaving anything behind.
+\0
+So, againn\0\0(&촀\0 You ready?"
 "003_a","(%촁\0Yep!"
 "003_b","('촁\0No, waitn"
 "004","-촀\0

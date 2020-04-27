@@ -79,49 +79,58 @@ un'isola deserta?"
 "009_b","Un libro umoristico."
 "009_c","Un romanzo d'amore."
 "009_d","Un libro motivazionale."
-"010","()촀\0È un esperimento. Pare si possa
-scoprire molto di qualcuno in base
-al genere di libri che preferisce.
-(9촀\0Tu hai scelto un libro giallon\0\0 
-\0(촀\0Può
-darsi tu abbia un lato oscuro che
-vuoi tenere celato agli altri.
-(촀\0Non è una brutta cosa! 
-\0Anzi, direi
-che ti rende ancora più affascinante,
-n\0."
-"011","()촀\0È un esperimento. Pare si possa
-scoprire molto di qualcuno in base
-al genere di libri che preferisce.
-(9촀\0Tu hai scelto un libro umoristicon\0\0
+"010","(%촀\0Oh, una scelta eccellente e vraiment
+appropriata!\0\0()촀\0Dopotutto, esistono tanti libri gialli
+ambientati su isole deserte.\0\0(3촀\0Quanto sarebbe affascinante leggere
+qualcosa di simile 
+\0trovandosi davvero
+su un'isola deserta?
+(촀\0E per ""affascinante"" intendon\0\0
+
+\0(+촀\0terrificante, n\0!"
+"011","(
+촀\0Ora che ci penso,
+\0 un libro umoristico
+è vraiment (%촀\0una scelta azzeccata.\0\0(\0촀\0Vivere su un'isola deserta può darti
+una sensazione di solitudine, a volte.\0\0(촀\0Ecco perché avere qualcosa di
+divertente da leggere può essere
+très utile per risollevarti lo spirito.
+( 촀\0E poi, 
+\0(2촀\0puoi ridere a voce alta quanto
+vuoi senza timore di disturbare
+qualcuno, n\0!"
+"012","Ahn\0\0(촀\0 C'è forse qualcosa di meglio di
+un'epica storia d'amour che travalica
+i confini di tempo e spazio?
+(1촀\0Immaginan\0\0 Due naufraghi che
+vengono trasportati sulle coste
+di un'isola deserta.\0\0(촀\0Non si sono mai incontrati prima
+\0 e
+ora devono collaborare per superare
+le avversità.\0\0(촀\0Insieme affrontano belve feroci,
 \0
-(촀\0Immagino che tu non prenda le cose
-troppo sul serio.
-(촀\0Ottimissimissimo atteggiamento!
-\0
-È molto meglio vivere la vita con
-allegria e ottimismo, n\0."
-"012","()촀\0È un esperimento. Pare si possa
-scoprire molto di qualcuno in base
-al genere di libri che preferisce.
-(9촀\0Tu hai scelto un romanzo d'amoren\0\0
-\0
-(촀\0È così dooolce scoprire il tuo lato
-sentimentale!
-(촀\0Tutti, ma proprio tutti, dovrebbero
-essere amabili e gentili con gli altri,
-n\0."
-"013","()촀\0È un esperimento. Pare si possa
-scoprire molto di qualcuno in base
-al genere di libri che preferisce.
-(9촀\0Tu hai scelto un libro motivazionalen\0\0
-\0
-($촀\0Vuoi sempre migliorarti e superare
-i tuoi limiti giorno dopo giorno.
-(촀\0È fantastico, tesoro! 
-\0Io apprezzo
-moltissimo la crescita personale,
-n\0."
+condizioni climatiche avversen\0\0
+
+\0(*촀\0e le loro più recondite paure.
+( 촀\0E infine,
+\0 contro ogni previsione,
+
+\0(촀\0si innamorano!\0\0(촀\0Questo livre non è stato ancora
+scritto,
+\0 ma ha già cambiato la mia
+vita, n\0!"
+"013","(촀\0Un libro motivazionale?
+\0((
+촀\0 Bien, sarà
+anche utile,
+\0( ma l'argomento è un po'
+troppo arido pour moi.
+(촀\0Detto questo,
+\0 una tranquilla isola
+deserta potrebbe essere l'ideale per
+metterne in pratica i concetti.
+(촀\0Mi hai convinta, n\0.
+\0( (촀\0Forse dovremmo aprire un'università qui 2\0 n\0!"
 "014","(촀\0Sto leggendo un libro di psicologia
 e mi piacerebbe fare un esperimento
 con te.

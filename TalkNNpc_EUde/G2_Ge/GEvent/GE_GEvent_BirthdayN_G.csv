@@ -17,7 +17,7 @@ auch?"
 "003","(촀\0Guck mal, wie die Augen von
 s촀 glitzern!
 \0
-(촀\0Ich wette, 2촀ersie\0 hat eine Bombenzeit!"
+(촀\0Ich wette, 2촀ersie\0 hat eine Bombenzeit!"
 "004","(촀\0Oh!
 \0 Hallöchen!
 \0 (""촀\0Ich bin n
@@ -25,9 +25,9 @@ auch?"
 \0 So cool, deine Bekanntschaft zu machen!\0\0(촀\0Ich bin extra für die Party von
 s촀 hergekommen!\0\0(촀\0Voll 
 \0SUPER, 
-\02<촀einen Freundeine Freundin\0 von 2촀ihmihr\0
+\02<촀einen Freundeine Freundin\0 von 2촀ihmihr\0
 kennenzulernen! 
-\02\0s촀 redet ständig über 2촀
+\02\0s촀 redet ständig über 2촀
 seineihre\0 Freunde!"
 "005","(촀\0Ich liebe Geburtstagsdeko,
 \0
@@ -66,7 +66,7 @@ jeden Tag abhotten. 
 auch schon voll hibbelig, wenn ich
 an meinen nächsten B-Day denke!
 Meine Partys fetzen immer total!"
-"009","(촀\0Ich habe s촀 gestern beim Dekorieren geholfen.\0\0(2촀\0Wen hätte 2촀ersie\0 auch sonst fragen
+"009","(촀\0Ich habe s촀 gestern beim Dekorieren geholfen.\0\0(2촀\0Wen hätte 2촀ersie\0 auch sonst fragen
 sollen? 
 \0Jeder weiß doch, dass (5촀\0ich
 die besten Partys organisiere!"
@@ -79,11 +79,14 @@ von Herzen kommen.
 \0Kann dein Herz
 etwa (&촀\0Sternis produzieren?"
 "011","(4촀\0Ich hatte so viele coole Geschenk-
-ideen, dass ich ewig gebraucht habe,
+ideen,
+\0 dass ich ewig gebraucht habe,
+\0
 um mich für eine zu entscheiden.
 (""촀\0Hätte ich mal lieber deine Meinung
-eingeholt, n\0,(촀\0
-dann wäre das schneller gegangen!"
+eingeholt, 
+\0n\0,
+\0(촀\0 dann wäre das schneller gegangen!"
 "012","(1촀\0Ich hoffe, s촀
 gefällt mein Geschenk!\0\0(%촀\0Man sagt ja „der Gedanke zählt!“
 
@@ -92,12 +95,9 @@ gefällt mein Geschenk!\0\0(%촀\0Man sagt ja „der Gedanke zählt!“
 \0ab
 \0so
 \0lut (촀\0VIP-verdächtig!"
-"014","(촀\0Wenn das nicht n\0
-ist!(\0촀\0 (&촀\0
-\0Hast du mitgekriegt, 
-\0dass ich nun
-auch auf n\0 lebe?
-(""촀\0Also,
+"014","(촀\0Wenn das nicht n\0 ist!
+\0 (&촀\0Hast du mitgekriegt, 
+\0dass ich nun auch auf n\0 lebe?\0\0(""촀\0Also,
 \0 hallöchen, Nachbar2\0in!
 \0 (촀\0Und
 noch was: Heute ist der Geburtstag
@@ -116,8 +116,7 @@ zogen. 
 hier wiederzusehen,
 \0 n\0!\0\0(;촀\0Bist du etwa extra gekommen, 
 \0um mit
-s촀 Geburtstag zu
-feiern? 
+s촀 Geburtstag zu feiern? 
 \0(촀\0
 \0Du absolutes Schnuckelchen!"
 "016","(""촀\0

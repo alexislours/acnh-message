@@ -125,7 +125,8 @@ vrienden!
 "014_01","(%촀\0Hartstikke gaaf!
 \0 ( 촀\0O! 
 \0Dit is helemaal jouw potje, n\0. 
-\0Je mag geen hulp van anderen krijgen.\0\0($촀\0Snappie?
+\0Je mag geen hulp van anderen krijgen.
+x\0\0\0($촀\0Snappie?
 \0 (""촀\0Laten we dan beginnen,
 n\0!
 Z"
@@ -133,18 +134,17 @@ vrienden!
 \0 (%촀\0Je hebt deze keer minder tijd,
 \0
 dus je zult snel moeten zijn!(""촀\0 Goed,
-
-\0de 
-\0schattenjacht
-\0 is 
-\0begonnen!"
+de schattenjacht is 
+\0begonnen!
+<"
 "015_01","(촀\0Oké!
 \0 (%촀\0Je hebt deze keer minder tijd,
 \0
 dus je zult snel moeten zijn!
-\0\0\0( 촀\0O! 
+x\0\0\0( 촀\0O! 
 \0Dit is helemaal jouw potje, n\0!
-\0 Dus je mag geen hulp van anderen krijgen.\0\0($촀\0Snappie?
+\0 Dus je mag geen hulp van anderen krijgen.
+x\0\0\0($촀\0Snappie?
 \0 (""촀\0Daar gaan we, n\0!
 Z"
 "101","(&촀\0Hééé, 
@@ -167,7 +167,7 @@ spelen?
 \0 (촀\0Dan veranderen we deze dag
 van okén\0\0 naar (촀\0popster-extravagant!"
 "102_a","We gaan ervoor!"
-"102_b","Een andere keer."
+"102_b","(\0촀\0Een andere keer."
 "103","( 촀\0O, balen!
 \0 Het is al superlaat!
 \0 (7촀\0Sorry,

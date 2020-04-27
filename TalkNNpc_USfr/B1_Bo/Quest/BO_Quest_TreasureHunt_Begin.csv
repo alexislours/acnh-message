@@ -5,7 +5,7 @@
 (""촀\0tu voudrais pas jouer à la chasse
 au trésor avec moi?"
 "001_a","Bien sûr!"
-"001_b","Une autre fois."
+"001_b","(\0촀\0Une autre fois."
 "002","(
 촀\0Est-ce que tu t'ennuies? 
 \0Moi oui,
@@ -189,8 +189,7 @@ tu dirais d'une chasse au trésor?"
 \0
 à quoi j'allais pouvoir jouer,
 maintenantn\0\0\0\0(촀\0Hé, n\0!
-\0((촀\0 Ça te dirait
-une partie de chasse au trésor?"
+\0((촀\0 Ça te dirait une partie de chasse au trésor?"
 "102_a","Ça a l'air amusant!"
 "102_b","Non, merci."
 "103","(촀\0Attends un peu!

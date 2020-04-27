@@ -68,11 +68,8 @@ visto antes de irme!"
 "006_b","Algo se te ocurrirá"
 "007","(촀\0¡Oh, hola!
 \0 Soy n
-\0,
-encantada.
-\0 ¿Vienes a menudo
-por aquí?
-(촀\0Es una pena que no nos hayamos
+\0, encantada.
+\0 ¿Vienes a menudo por aquí?\0\0(촀\0Es una pena que no nos hayamos
 conocido antes,
 \0 porque pronto
 voy a mudarme.
@@ -158,35 +155,6 @@ los ánimos!"
 \0
 (촀\0Seguro que vamos a vivir
 emocionantes aventuras."
-"206","(9촀\0Tengo que contarte lo que me han
-dicho en la \0oficina de gestión vecinal\0￿
-de tu isla.\0\0(촀\0Parece que no tienen sitio para
-más residentes,
-\0 pero también
-me contaron algo muy raron\0\0
-(촀\0¡Parece que la última vecina que
-han aceptado es idéntica a mí!\0\0(
-촀\0¿Puede ser que tenga una hermana
-gemela y no lo sepa?
-\0 Es todo muy
-misterioson\0\0
-(%촀\0Ya me contarás si descubres algo
-al respecto.
-\0 (촀\0Ah, y siento que al final
-no podamos ser vecin2oas."
-"207","(9촀\0Acabo de llamar a tu \0oficina de
-gestión vecinal\0￿.
-\0 ('촀\0Dicen que ya no
-tienen espacio para más habitantes.\0\0(
-촀\0Lo más curioso es que la última
-residente a la que han aceptado
-\0
-(촀\0¡es igualita a mí!
-(촀\0Menuda coincidencia, ¿no?
-\0
-En fin, ($촀\0gracias por invitarme, flor,
-\0
-y siento que no haya sido posible."
 "208","()촀\0Ayer hablé con la \0oficina de gestión
 vecinal\0￿ de tu isla.\0\0(촀\0Me dijeron que ahora mismo
 no aceptan a más residentes,
@@ -207,19 +175,6 @@ para construir más casas.\0\0(촀\0Así que no puedo mudarme allín\0\0
 (촀\0Es una pena,
 \0 pero te agradezco
 que lo intentaras."
-"211","(촀\0Qué raro que alguien exactamente
-igual a mí ya esté viviendo
-en tu isla, ¿no?
-(
-촀\0Supongo que si viviéramos
-las dos ahí,
-\0 sería muy confuso
-para el resto de vecinos.
-(촀\0Qué curioso es el destinon"
-"212","()촀\0Puede que mi sino no sea vivir
-en n	\0n\0\0\0\0(촀\0Además,
-\0 sería muy raro que hubiera
-dos vecinas idénticas en la isla.\0\0(%촀\0Supongo que es lo mejor."
 "213","(촀\0Es una verdadera pena que ya
 no quepan más habitantes en
 n	\0.

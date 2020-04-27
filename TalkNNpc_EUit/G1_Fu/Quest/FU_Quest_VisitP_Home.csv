@@ -12,8 +12,9 @@
 \0.
 x"
 "006","Salut, n\0!
-\0 C'est moi, n
-\0.
+\0 C'est moi, 
+\0n
+\0, n\0.
 x"
 "007","Ci sei, n\0?
 \0 Riesci a sentirmi?\0\0Se sei lì nel tuo pied-à-terre,
@@ -21,13 +22,13 @@
 potresti aprirmi la porta?
 x"
 "008","Oh, n\0?
-\0 Ci sei?
+\0 Ci sei, n\0?
 x"
 "009","Forse è 2uscitouscitan\0\0
 x"
 "010","Ehm, n\0?
 \0 Mi sembra che non sia qui, 
-\0quindi ripasserò più tardi.
+\0quindi ripasserò più tardi, n\0.
 x"
 "011","($촀\0Bonjour, n\0!
 \0 (촀\0Non riuscivo più ad aspettare, 

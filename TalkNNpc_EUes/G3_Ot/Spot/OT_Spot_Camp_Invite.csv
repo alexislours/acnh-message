@@ -9,6 +9,19 @@ estético (촀\0al servicio de la islan\0\0
 de gestión\0￿ si están de acuerdo,
 \0 ¡pero
 (촀\0yo acepto encantada, n\0!"
+"003","(촀\0A pesar de que te dije que no la
+última vez,
+\0 sigues queriéndome
+en la isla.
+\0 (촀\0¡Eres un amor!
+('촀\0Un sentimiento tan fuerte no puede
+ignorarse.
+\0 (%촀\0¡Me mudaré!\0\0()촀\0Primero tengo que hablar con los
+de tu \0oficina de gestión\0￿ para hacer
+los preparativos.
+(촀\0Si todo va bien,
+\0 ¡pronto seremos
+vecin2oas, n\0!"
 "101","<"
 "101_01","(2촀\0Adoro que seas tan cariños2oa,
 \0 pero la
@@ -186,6 +199,9 @@ en lugar de residencia permanente.
 me dice que es la decisión correcta.
 \0
 (촀\0Aquí seré feliz, n\0.
+()촀\0Ahora mismo hablaré con los de
+la \0oficina de gestión\0￿ para que me
+den su aprobación.
 (4촀\0Cuento contigo para ayudarme
 a hacer la transición más fácil,
 \0
@@ -196,19 +212,17 @@ a hacer la transición más fácil,
 \0 ¿verdad?\0\0()촀\0Más me vale aprenderme bien
 tu nombre ahora que vamos
 (!촀\0a ser vecin2oas.
-(촀\0Ay, qué nervios,
-\0 ¡que me mudo!(촀\0
-\0
-Así de repente.
-\0 Hay tanto por
-preparar, n\0n\0\0
-($촀\0Pero una aventura así solo puede
+(촀\0¡Ay, qué nervios!
+\0(촀\0 Hay tanto por
+preparar, n\0n\0\0\0\0(%촀\0Para empezar, voy a preguntar en
+la \0oficina de gestión\0￿ si sería posible
+mudarme.\0\0($촀\0Una aventura así solo puede
 traer cosas buenas
 \0 (5촀\0y estoy más
 que dispuesta a descubrirlas."
 "206_03","(촀\0Nuestro destino está sellado:
 \0 n\0 gana el juego
-\0 y yo n\0\0
+\0 y yon\0\0
 \0 (촀\0una mudanza.\0\0(촀\0Si te soy sincera,
 \0 habría sido una
 decepción que perdieras.
@@ -217,7 +231,9 @@ me hace más ilusión vivir aquí.
 (4촀\0Y espero que a ti te haga ilusión
 tenerme como vecina,
 \0 (촀\0porque no vas
-a tener más remedio, n\0."
+a tener más remedio, n\0.
+(촀\0Ahora mismo voy a la \0oficina de
+gestión\0￿ a pedirles su aprobación."
 "302","(\0촀\0Disculpa la espera.
 \0 (촀\0He hablado con
 tu \0oficina de gestión vecinal\0￿ y me
@@ -253,7 +269,7 @@ interesado en irsen\0\0
 "305_a","¡Eso es!"
 "305_b","No, alguien distinto..."
 "305_c","He cambiado de idea"
-"306","(%촀\0Hablaré con 2촀élella\0.
+"306","(%촀\0Hablaré con 2촀élella\0.
 \0 Ojalá le apetezca
 el plan.
 \0 (6촀\0Dotes de persuasión
@@ -278,10 +294,10 @@ Y, aunque parezca mentira,
 (촀\0¡le ha gustado mi idea!
 ()촀\0A pesar de lo mucho que le gusta
 n\0,
-\0 dice que está list2촀oa\0 para vivir nuevas experiencias.
+\0 dice que está list2촀oa\0 para vivir nuevas experiencias.
 (촀\0Me ha caído bien,
 \0 va a ser una pena
-no tenerl2촀oa\0 como vecin2촀oa\0.
+no tenerl2촀oa\0 como vecin2촀oa\0.
 \0 (촀\0¡Pero te
 tendré a ti!
 \0 Eso lo compensa todo.
@@ -305,49 +321,23 @@ le podría preguntar, n\0."
 a los vecinos si se quieren marchar.
 \0
 (6촀\0Sucede igual con los invitados."
-"402","(8촀\0Bien,
-\0 pues acabo de hablar con la
-\0oficina de gestión vecinal\0￿ y está
-la cosa bastante complicadan\0\0
-(촀\0Todo por culpa de una coincidencia
-tontísima.
-\0 Ay, el mundo es un
-pañuelon\0\0
-\0 \0(Y cada isla,
-\0 un moco.)\0￿
-()촀\0Resulta que en tu isla vive una prima
-mía quen\0\0
-\0 (3촀\0Bueno,
-\0 no me gusta hablar
-mal de la gente a sus espaldas.
-( 촀\0La gente dice que somos como
-dos gotas de agua.\0\0(
-촀\0Yo creo que somos más bien como
-dos elementos químicos que, (촀\0si se
-juntan, reaccionann\0\0
-\0 (;촀\0y todo explota.
-(촀\0Así que me vas a disculpar,
-\0
-('촀\0pero no me mudo.\0\0(촀\0Sería pésimo para mi salud,
-\0
-para la tuyan\0\0
-\0 (6촀\0y hasta para
-la propia isla, n\0."
-"403","(촀\0Disculpa la espera.
-\0 Verás, he estado
-hablando con la \0oficina de gestión\0￿ y
-me han dado (촀\0la peor noticia del año.
-(촀\0¿A que no sabes quién está a punto
-de mudarse a tu isla?
-\0 ('촀\0No,
-\0 yo no.
-\0
-(	촀\0¡Mi prima!
-Una mamarracha que me copia
-en todo,
-\0 ¡es que no la soporto!\0\0(촀\0Lo siento,
-\0 pero me niego a vivir
-en la misma isla que ella, n\0."
+"313","(촀\0¿De verdad lo piensas?
+\0 Qué ilusión.\0\0(7촀\0No me atrevía a decir nada,
+\0 pero fue
+un rumor que oí en la \0oficina de
+gestión\0￿ lo que me dio la idean\0\0
+()촀\0Al parecer, s촀 está considerando mudarse a otra islan\0\0\0\0(4촀\0¿Crees que debería hablar con 2촀élella\0 y darle el empujoncito?"
+"313_a","¡Me parece perfecto!"
+"313_b","No le digas nada..."
+"314","(6촀\0¿Ves?
+\0 He hecho bien en preguntarte.\0\0(촀\0Imagínate qué apuro si por mi culpa
+se marchase alguno de tus vecinos
+favoritos.
+('촀\0No, no,
+\0 me tragaré mi decepción con
+dignidad
+\0 (촀\0y olvidaremos todo este
+asunto de mi mudanza, n\0."
 "404","(7촀\0Perdona que te haya hecho esperar.
 \0
 No te vas a creer lo que me han
@@ -365,19 +355,6 @@ bienestar de los vecinosn\0\0
 de vivir aquín\0\0
 \0 pero (;촀\0tendrá que
 esperar, n\0."
-"405","(촀\0Ay,
-\0 qué disgusto me han dado en la
-\0oficina de gestión\0￿.
-\0 Parece ('촀\0que no me
-puedo mudar a n\0.\0\0(촀\0Por lo visto no disponen de más
-zonas residenciales.
-\0 (6촀\0Creo que llevan
-el asunto del urbanismo regular.
-(촀\0En fin,
-\0 gracias por la invitación.
-\0
-(촀\0Que no se diga que no lo hemos
-intentado, n\0."
 "406","(촀\0Gracias por tu paciencia,
 \0 ya tengo
 la respuesta de la \0oficina de gestión\0￿.
@@ -413,33 +390,12 @@ Volveré a (%촀\0hablar con la \0oficina\0￿n"
 resultar pesada.
 \0 (8촀\0Tendré que aguardar
 a que surja la ocasión, n\0."
-"421","(촀\0También es coincidencia que
-mi prima viva precisamente aquí.\0\0(촀\0¿Cuántas islas hay en el mundo?
-\0
-(	촀\0¡Millones!,
-\0 estoy segurísima."
-"422","(촀\0Con la cantidad de islas que hay
-en el mundo,
-\0 ¿tenía que mudarse
-mi prima a la misma que quiero yo?
-(촀\0Tiene buen gusto la condenadan\0\0
-\0
-(촀\0Eso también me lo ha copiado."
 "423","(9촀\0Y ahora,
 \0 ¿me vas a contar el gran
 secreto de n	\0, n\0?\0\0(&촀\0¿Qué tiene esta isla que hace
 que todos quieran vivir en ella?
 \0
 (촀\0¿Y por qué nadie me hace un hueco?"
-"424","(촀\0Parece mentira que en toda una isla
-no haya hueco ni para una casa
-diminutan\0\0
-(7촀\0Claro que
-\0 ¿quién iba a querer vivir
-en una casa así?
-\0 (\0촀\0Si me mudo aquí,
-\0
-(5촀\0¡quiero que sea a lo grande!"
 "504","La verdad es que esta isla tiene
 algo especialn\0\0
 \0 Aquí siento que

@@ -8,14 +8,14 @@ als inn\0\0
 "001_a","Natuurlijk!
 Kom langs!"
 "001_b","Het komt niet uit nu.
-('촀\0Sorry, niet nu."
+Sorry, niet nu."
 "002","(5촀\0Oké luister n\0, dit is het plan.\0\0(%촀\0Ik kom bij jou langs en dan kletsen
 we wat.
 \0( (촀\0Is dat een plan?"
 "002_a","Natuurlijk!
 Kom langs!"
-"002_b","Eh, wat?
-('촀\0Nee, niet nu."
+"002_b","(\0촁\0Eh, wat?
+Nee, niet nu."
 "003","(9촀\0Het is vast niet erg als ik mezelf bij
 jou thuis uitnodig, toch?
 \0 Als inn\0\0 nu
@@ -124,7 +124,7 @@ te komen, het gaat briljant worden."
 \0(&촀\0 Kan ik
 nu bij je langskomen thuis?"
 "401_a","(\0촁\0Heb ik een keus?"
-"401_b","Ik ben druk nu..."
+"401_b","(\0촁\0Ik ben druk nu..."
 "402","(1촀\0Yon\0\0 Ken je dat gevoel wanneer
 je de hele avond met je vrienden
 hebt gepraat, maar het is ineens stil?

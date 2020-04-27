@@ -109,7 +109,7 @@ isla sin parar?
 (촀\0¡Asombroso!
 \0 (촀\0El gusto por el verde
 siempre será una tendencia en alza."
-"112","(촀\024촀Un pequeñoUna pequeña\0 촀 me ha dicho
+"112","(촀\024촀Un pequeñoUna pequeña\0 촀 me ha dicho
 que últimamente has estado regando
 plantas que da gusto.
 (1촀\0Como si lo estuviera viendo:
@@ -131,6 +131,21 @@ un amplio abanico de emociones.
 interpretativas,
 \0 avísame,
 \0 ¿vale?"
+"114","(&촀\0Así que has estado viendo mundo,
+\0
+¿eh,
+\0 n\0?
+\0 Muy bien,
+\0 la «cosmópolis» siempre es positiva.\0\0(촀\0¿Y te has traído algo como recuerdo?
+\0
+(1촀\0¿Tal vez 2!촀ununa\0 촀 2&!촀exóticoexótica\0?\0\0Recuerda que si se hace demasiado
+popular ya no será 2&!촀exóticoexótica\0."
+"115","(촀\0Me alegra que ayer te dedicaras a
+enseñar las numerosas virtudes de n\0 a tantas visitas.
+(5촀\0Si quieres añadir mi casa a la lista
+de lugares destacados,
+\0 por mí no
+hay problema."
 "116","($촀\0Parece que últimamente le has
 estado dando fuerte al bricolaje,
 \0
@@ -139,7 +154,7 @@ estado dando fuerte al bricolaje,
 a ti.
 \0 (촀\0A ver si practico,
 \0 en lugar de
-comer 2촀
+comer 2촀
 tanto
 tanta\0 촀."
 "117","( 촀\0Si lo que querías era llevar al límite
@@ -242,7 +257,7 @@ las emociones que viviste ayer?\0\0
 \0Todas esas risasn\0\0
 \0 las lágrimasn\0\0
 \0
-2""촀ella\0 촀n\0\0\0\0(촀\0Bueno,
+2#촀ella\0 촀n\0\0\0\0(촀\0Bueno,
 \0 vale,
 \0 quizá no llegamos a
 compartir todas esas cosas,
@@ -276,29 +291,27 @@ exposición multidisciplinar?
 El título provisional es «2\02\0
 n\0 como revulsivo de
 la cultura contemporánea»."
-"126_01","(촀\0Pobren\0\0
-\0 ¿Estás bien?
-\0 Me han dicho
-que ayer las avispas la tomaron bien
-contigo.
-(9촀\0Pero incluso de las adversidades
-se puede sacar algo positivo.\0\0¿Te has planteado hacerte un
-autorretrato postexpresionista,
+"126_01","(촀\0Pobre,
+\0 ¿estás bien?
+\0 Ayer las avispas
+se ensañaron contigo, ¿eh?\0\0(9촀\0Pero incluso de las adversidades
+se puede sacar algo positivo.\0\0(촀\0¿Nunca te has planteado hacerte
+un autorretrato postexpresionista,
 \0
 n\0?"
 "126_02","(촀\0¿Cómo va esa hinchazón facial,
 \0 n\0?
-\0 Me han dicho que te picaron las avispasn\0\0
-(5촀\0Soy el guionista del celebrado corto
-«Las avispas vampiro escuchan 촀».\0\0Así que sé cómo te sientes.
-\0 (촀\0¿No has
-oído hablar de la obra?
-\0 La rodé en
-mi propia casa.
-En realidad no hay relación entre
+\0 Ayer las avispas te picaron lo suyo, ¿no?\0\0(5촀\0Soy el guionista del celebrado corto
+«Las avispas vampiro escuchan 촀».\0\0(%촀\0Así que sé cómo te sientes.
+\0
+(촀\0¿No has oído hablar de la obra?
+\0
+La rodé en mi propia casa.
+()촀\0En realidad no hay relación entre
 las avispas y ese estilo musical,
 \0
-pero hice una encuesta en mi blogn\0\0\0\0(	촀\0¡Y mis lectores eligieron ese título!"
+(촀\0pero hice una encuesta en mi blogn\0\0
+(	촀\0¡Y mis lectores escogieron ese título!"
 "127","($촀\0Entre los expertos en n촀
 se comenta que has encontrado un
 buen puñado de fósiles.\0\0(1촀\0No veo qué relación existe entre las
@@ -413,7 +426,7 @@ en noruegon\0\0
 \0 ¿O era en alemán?\0\0(3촀\0Bueno,
 \0 ahora que eres más solvente,
 \0
-podrías comprarme es2 촀ea\0 촀
+podrías comprarme es2!촀ea\0 촀
 que tanto me gusta.
 \0 ¡Je,
 \0 je!"
@@ -511,9 +524,9 @@ de n\0.
 y energían\0\0
 \0 ¿podrías ordenarme un
 poco el armario de casa?"
-"149","(촀\0Me encanta tu nuevo peinado,
-\0
-n\0.\0\0(
+"149","(촀\0Me encanta como te has dejado
+el pelo,
+\0 n\0.\0\0(
 촀\0Me pregunto cómo me quedaría
 algo así a mín\0\0\0\0('촀\0Pero no,
 \0 no voy a cometer la falta
@@ -523,13 +536,13 @@ de originalidad de copiártelo.
 "150","(촀\0¡Anda!
 \0 (&촀\0¿Eres tú,
 \0 n\0?
-\0 ¿O no eres tú,
-\0 pero te pareces a ti?\0\0(촀\0Estás irreconocible.
-\0 Muy bien,
+\0 Te ves diferente.
+\0(촀\0 Te has cambiado
+de aspecto, ¿a que sí?\0\0(%촀\0Muy bien,
 \0 ahí,
-\0
-reinventándote cual buen artista que
-entra en decadencia.\0\0(촀\0Ojalá mi rostro tuviese un margen
+\0 reinventándote
+cual buen artista que entra en
+decadencia.\0\0(촀\0Ojalá mi rostro tuviese un margen
 de variabilidad tan amplio como el
 tuyo,
 \0 n\0."

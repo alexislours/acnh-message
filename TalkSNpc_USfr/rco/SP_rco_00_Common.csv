@@ -1,5 +1,5 @@
 ﻿"label","text"
-"000","(촀\0
+"000","(촀\0
 \0Ah, 
 \0n\0!
 \0
@@ -13,8 +13,8 @@ consultation de construction\0￿!
 \0Ah, 
 \0n\0!
 \0
-(""촀\0Tu nous refais l'honneur de ta visite!(촀"
-"000_03","(촀\0
+(""촀\0Tu nous refais l'honneur de ta visite!"
+"000_03","( 촀\0
 \0Ah, et ça n'a rien à voir, maisn"
 "004_01","(촀\0Nous proposons la personnalisation
 de ton extérieur pour seulement
@@ -28,11 +28,11 @@ maintenant, tout sera prêt dès
 demain matin.\0\0(&촀\0Qu'est-ce que t'en dis, hm?"
 "004_03_a","(%촀\0Je dis « ⁠oui, oui »!"
 "004_03_b","('촀\0Une autre fois."
-"005","(촀\0Humn\0\0 La politique de Nook Inc. est
+"005","(7촀\0Humn\0\0 La politique de Nook Inc. est
 formelle :
 \0 nous encaissons les frais
 de personnalisation d'emblée.
-(\0촀\0Or, tu me sembles un peu lég2erère en
+(9촀\0Or, tu me sembles un peu lég2erère en
 clochettes, alorsn\0\0(촀\0 reviens quand ta
 bourse sera un peu plus dodue!"
 "006","(촀\0Parfait! 
@@ -43,7 +43,7 @@ conviendra le mieux à ta maison."
 \0 (촀\0Bon, tu
 sais où me trouver si tu décides de
 personnaliser ton foyer."
-"008_01","(%촀\0Hmmn\0\0 (촀\0Voici un choix intéressant!"
+"008_01","(9촀\0Hmmn\0\0 (촀\0Voici un choix intéressant!"
 "008_02","Ça nous fera \05 000 clochettes\0￿,
 s'il te plaît!"
 "009_01","(촀\0Merci beaucoup!"

@@ -3,8 +3,7 @@
 \0($촀\0Mein
 Name lautet n
 \0.\0\0(&촀\0Hat s\0촀 dich eingeweiht? 
-\0((""촀\02
-촀ErSie\0 hat mich eingeladen, 
+\0((""촀\02촀ErSie\0 hat mich eingeladen, 
 \0von s촀 herzuziehen.\0\0(촀\0Leider kann ich noch keine Gäste
 empfangen. 
 \0Du siehst ja, was für
@@ -36,8 +35,7 @@ habe ich ein Gespür, 
 \0, 
 \0vormalig von s촀. 
 \0($촀\0Freut mich!\0\0(촀\02\0s\0촀 hat immer so von dieser Insel geschwärmt, 
-\0(촀\0da
-MUSSTE ich einfach herziehen!
+\0(촀\0da MUSSTE ich einfach herziehen!
 \0(촀\0\0\0(촀\0Und bislang bereue ich es nicht.
 
 \0Ganz im Gegenteil!\0\0(촀\0Zudem hat das Schicksal noch uns
@@ -66,9 +64,11 @@ machen. 
 \0(('촀\0Aber von einer Erkältung sollte man sich
 nicht unterkriegen lassen!\0\0(촀\0Sobald ich gesund bin, holen wir
 alles nach."
-"011","(촀\0Oh, hallo! 
+"011","(촀\0Oh, 
+\0hallo! 
 \0(($촀\0Ich bin n
-\0 von s촀... zumindest
+\0 von s촀n\0\0
+\0 zumindest
 war ich das gestern noch!\0\0(\0촀\0Mich hat nämlich jemand überredet,
 hierherzuziehen. 
 \0(Gesagt – 
@@ -144,11 +144,8 @@ sicher bald wieder, 
 n
 \0, 
 \0n\0!
-(&촀\0Kennst du 26
-촀meinen gutenmeine gute\0
-2&
-촀FreundFreundin\0 s\0촀?\0\0()촀\02
-촀ErSie\0 hat mich bei einem Kurzurlaub
+(&촀\0Kennst du 26촀meinen gutenmeine gute\0
+2&촀FreundFreundin\0 s\0촀?\0\0()촀\02촀ErSie\0 hat mich bei einem Kurzurlaub
 davon überzeugt,
 \0 nach n\0 zu ziehen.\0\0(6촀\0Jetzt wohne ich hier! 
 \0(촀\0Verzeih, 
@@ -293,9 +290,8 @@ vorzustellen. 
 \0(
 ()촀\0Eigentlich wollte ich nur ein bisschen
 zelten auf n\0.
-(촀\0Doch auf dem \0Campingplatz \0￿hat mich
-s\0촀 dazu überredet,
-auf die Insel zu ziehen.\0\0(촀\0Ich bin erst seit heute hier, 
+(촀\0Doch auf dem \0Campingplatz \0￿hat mich s\0촀 dazu überredet,
+\0 auf die Insel zu ziehen.\0\0(촀\0Ich bin erst seit heute hier, 
 \0(촀\0habe hier
 also noch viel zu erledigen, 
 \0(4촀\0aber lass
@@ -310,10 +306,9 @@ uns noch nicht begegnet!
 (촀\0Ich bin n
 \0!\0\0(""촀\0Und zähle auf n\0 sicherlich nach wie vor zu den Neuankömmlingen!\0\0(9촀\0Zunächst war ich nur zum Zelten auf
 der Insel. 
-\0((촀\0Doch s\0촀
-hat mich zum Umzug bewegt!\0\0(촀\0Wofür ich sehr dankbar bin! 
+\0((촀\0Doch s\0촀 hat mich zum Umzug bewegt!\0\0(촀\0Wofür ich sehr dankbar bin! 
 \0(촀\0
-\0n\0 wird meinen hohen Ansprüchen mehr als gerecht!\0\0($촀\0Es freut mich, 
+\02\0n\0 wird meinen hohen Ansprüchen mehr als gerecht!\0\0($촀\0Es freut mich, 
 \0dich kennengelernt
 zu haben. 
 \0(촀\0Auf eine hoffentlich
@@ -327,8 +322,7 @@ lange Freundschaft, 
 (\0촀\0Mein Name ist n
 \0!\0\0()촀\0Ich hatte auf dem \0Campingplatz \0￿von n\0 so viel Spaß, 
 \0dass ich auf die Insel gezogen bin.\0\0(%촀\0Der Vorschlag zum Umzug kam zwar von s\0촀, 
-\0aber 2
-촀derdie\0 rannte damit offene Türen ein.\0\0(촀\02\0n\0 ist einfach fabelhaft! 
+\0aber 2촀derdie\0 rannte damit offene Türen ein.\0\0(촀\02\0n\0 ist einfach fabelhaft! 
 \0Ist es nicht ein Glück,
 \0
 dass wir hier leben dürfen?"
@@ -348,8 +342,7 @@ dem \0Campingplatz \0￿hier! 
 auf s\0촀.
 Eine folgenreiche Begegnung, 
 \0denn
-2
-촀ersie\0 legte mir nahe, 
+2촀ersie\0 legte mir nahe, 
 \0mein Zuhause
 nach n\0 zu verlegen.\0\0(촀\0Das Leben hier ist vortrefflich. 
 \0Fehlt
@@ -470,10 +463,8 @@ Mein Name ist n
 hoffentlich nicht. 
 \0Ich wohne nämlich
 jetzt hier auf n\0!
-()촀\02\0s\0촀 hatte mich zum
-Umzug animiert, 
-\0als ich auf dem
-\0Campingplatz \0￿weilte.\0\0(\0촀\0Heute muss ich hier noch einiges
+()촀\02\0s\0촀 hatte mich zum Umzug animiert, 
+\0als ich auf dem \0Campingplatz \0￿weilte.\0\0(\0촀\0Heute muss ich hier noch einiges
 verstauen, 
 \0(촀\0aber ansonsten bist du
 bei mir jederzeit willkommen!"
@@ -500,8 +491,7 @@ nicht begegnet, 
 \0
 Mein Name ist n
 \0.\0\0()촀\0Dass ich auf n\0 wohne, 
-\0habe ich s\0촀 zu verdanken!\0\02\02
-촀ErSie\0 hatte mich zum Umzug animiert,
+\0habe ich s\0촀 zu verdanken!\0\02\02촀ErSie\0 hatte mich zum Umzug animiert,
 \0
 als ich mich auf dem \0Campingplatz\0￿
 der Insel aufhielt.\0\0(촀\0Ein Glücksfall! 
@@ -759,7 +749,7 @@ diese n\0, von 2demder alle reden?\0\0(촀\0Freut mich sehr! 
 (촀\0Ich heiße n
 \0.\0\0(&촀\0Und du? 
 \0n\0\0
-\0(%촀\0n\0?
+\0(%촀\02\0n\0?
 \0(
 (촀\0Was für ein wohlklingender Name!
 \0

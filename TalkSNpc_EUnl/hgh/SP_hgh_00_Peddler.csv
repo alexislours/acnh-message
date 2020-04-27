@@ -6,10 +6,9 @@
 \0Nu weet ik het weer!
 \0(&촀\0 Ben ik
 jou laatst niet tegengekomen in de
-winkel? Je kwam me al bekend voor!\0\0(촀\0Je bent het vast alweer vergeten, dus
-ik zal me nog een keertje voorstellen.
+winkel? Je kwam me al bekend voor!\0\0(촀\0Je bent het vast alweer vergeten,
 \0
-Ik ben \0Mabel\0￿!"
+maar ik ben \0Mabel\0￿!"
 "002_02","(촀\0Sorry dat ik je stoor, maar
 \0(&촀\0 woon je toevallig op dit eiland?\0\0()촀\0Ik probeer hier een handeltje op
 poten te zetten. 
@@ -48,12 +47,11 @@ ongeveer 22:00 uur 's avonds.
 "006","(촀\0Geweldig!
 \0 (촀\0Ik zal even de catalogus
 van vandaag erbij pakken!(촀"
-"007","(&촀\0Ach, 
-\0zat er niks voor je tussen?
-\0
-(촀\0Het aanbod wisselt vaak,
-\0 dus geen
-zorgen als je niks kon vinden."
+"007","(&촀\0Wat vond je ervan?
+\0 (촀\0Het aanbod
+wisselt vaak,
+\0 dus kom regelmatig
+een kijkje nemen!"
 "101_01","(촀\0Een hééééééle goeie morgen, n\0!
 \0 (""촀\0
 \0Leuk dat je er bent!"
@@ -106,10 +104,10 @@ volgende voor jen\0\0(촀"
 "108_a","Wat verkoop je vandaag?"
 "108_b","Over de locatie..."
 "108_c","Ik wilde even hallo zeggen."
-"111","2\02\02촃}\0\0 2&촀kostkostkosten Z\0.
+"111","2\02\02촃}\0\0 2&촀kostkostkosten Z\0.
 \0(&촀\0 Wat zeg je ervan?"
-"111_a","Ja, graag!"
-"111_b","Nee, dank je."
+"111_a","Verkocht!"
+"111_b","Toch maar niet..."
 "112","(촀\0Prima, hoor!
 \0 Had je toevallig nog iets
 anders op het oog?(촀"

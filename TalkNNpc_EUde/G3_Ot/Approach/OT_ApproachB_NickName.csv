@@ -7,10 +7,8 @@ dich ausgedacht, 
 "001_a","(\0촀\0Und zwar?"
 "001_b","Mein Name ist okay."
 "002","(촀\0Ich bringe frohe Kunde,
-\0
-n\0!
-\0 Ich habe den
-perfekten Spitznamen für dich!"
+\0 n\0!
+\0 Ich habe den perfekten Spitznamen für dich!"
 "002_a","(\0촀\0Lass hören!"
 "002_b","Ist mir egal..."
 "003","(촀\0Ich habe gehört, dass dich diverse
@@ -32,12 +30,8 @@ Spitznamen für dich überlegt,
 "004_b","Danke, kein Bedarf."
 "005","(촀\0Oh, 
 \0n\0!
-\0 (""촀\0Mir ist ein
-vorzüglicher neuer Spitzname für
-dich in den Sinn gekommen.\0\0(촀\0Er übertrifft „n\0“
-um Längen!
-\0(촀\0 Wir reden hier geradezu
-von Kilometern!"
+\0 (""촀\0Mir ist ein vorzüglicher neuer Spitzname für dich in den Sinn gekommen.\0\0(촀\0Er übertrifft „n\0“ um Längen!
+\0(촀\0 Wir reden hier geradezu von Kilometern!"
 "005_a","(\0촀\0Wow! Lass mal hören!"
 "005_b","Ich will nichts ändern!"
 "006","()촀\0Anscheinend nennen dich gewisse
@@ -84,14 +78,11 @@ Optimierung vornehmen!
 \0 (촀\0Dein
 Spitzname muss dir ja gefallen!"
 "105","(촀\0„2\0n\0“?!
-\0(&촀\0 Dann
-möchtest du also deinen alten
-Spitznamen beibehalten?"
+\0(&촀\0 Dann möchtest du also deinen alten Spitznamen beibehalten?"
 "105_a","Ja."
 "105_b","Du hast dich verhört."
 "106","(촀\0„2\0n\0“?
-\0(&촀\0 Das ist
-also der Spitzname deiner Wahl?"
+\0(&촀\0 Das ist also der Spitzname deiner Wahl?"
 "106_a","Ja!"
 "106_b","Nö, das stimmt nicht."
 "107","(촀\0Verzeihung! 

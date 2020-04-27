@@ -7,7 +7,7 @@
 auf dieser Insel?
 (촀\0Dacht ich's mir doch.
 
-\0(6촀\0Ich bin Harvey von nebenan.
+\0(6촀\0Ich bin \0Harvey \0￿von nebenan.
 \0
 Also,
 \0 Nachbarinsel.
@@ -18,7 +18,7 @@ Meine Freunde sagen einfach
 \0
 Nan\0\0 „H
 \0 wie
-\0 Harvey“.\0\0(촀\0\0Das klappt aber nur, wenn man's
+\0 \0Harvey\0￿“.\0\0(촀\0\0Das klappt aber nur, wenn man's
 laut sagtn\0\0\0￿"
 "001_02","(촀\0Sorry. 
 \0Versuchter Kalauer und so.
@@ -112,7 +112,7 @@ Fruchtigkeiten und so,
 "004_01","(촀\0Sag mal,
 \0 dich kenn ich dochn\0\0
 \0
-...n\0, 
+...2\0n\0, 
 \0altes Haus!\0\0(촀\0DAS ist ja 'n Zufall,
 \0 dich hier so zu
 treffen!
@@ -125,7 +125,7 @@ Echt irre,
 \0 sich so im Urlaub über den
 Weg zu laufen.
 \0 Wie klein die Welt ist!"
-"004_03","(""촀\0n\0, 
+"004_03","(""촀\02\0n\0, 
 \0wie geht's?
 \0
 (촀\0Du musst echt mal auf meiner Insel

@@ -2,14 +2,14 @@
 "001","(촀\0Hui!
 \0 Es stimmt ja wirklich!
 \0 Du hast
-2""촀
+2""촀
 eineneineein 2촁}\0\0!\0\0(7촀\0Nach so was suche ich schon
 lange! 
 \0(&촀\0Möchtest du vielleicht
 mit mir tauschen?
 (%촀\0Ich hab was, was dir gefallen könnte.
 
-\02\02""đ촀
+\02\02""Ē촀
 eineneineein
 \0 2촁}\0!"
 "001_a","Da wäre ich dabei!"
@@ -17,7 +17,7 @@ eineneineein
 "002","(촀\0Du willst mit mir spielen?
 \0
 (%촀\0Also,
-\0 dein Einsatz wäre 2$촀dein
+\0 dein Einsatz wäre 2$촀dein
 deinedein
 }\0\0!
 ()촀\0Die Regeln sind einfach... 
@@ -34,27 +34,24 @@ Socken sein! 
 "003","(""촀\0Huhu, du!
 \0 Ich hab hier etwas (%촀\0sehr
 Cooles, was ich dir zeigen möchte!\0\0(6촀\0Schau mal her: 
-\02zđ촀(einen superknuffigen$eine superknuffige$ein superknuffiges
-2촁}\0!\0\0(%촀\0Ich hab schon 2$đ촀
+\02zĒ촀(einen superknuffigen$eine superknuffige$ein superknuffiges
+2촁}\0!\0\0(%촀\0Ich hab schon 2$Ē촀
 eineneineeins, 
 \0also dachte ich,
 
-\0vielleicht willst du tauschen...\0\0(7촀\02(đ촀Meinen
-MeineMein 2촁}\0
-im Gegenzug für 2(촀deinen
-deinedein
-2촁}\0\0?
-Na, 
+\0vielleicht willst du tauschen...\0\0(7촀\02(Ē촀Meinen
+MeineMein 2촁}\0 im Gegenzug für 2(촀deinen
+deinedein 2촁}\0\0?\0\0Na, 
 \0wie wär's?"
 "003_a","Warum nicht?"
 "003_b","Muss nicht sein!"
 "004","(1촀\0Ich hab das noch nie jemandem
 erzählt, 
 \0aber ich hätte sooo gern
-2""촀
+2""촀
 eineneineein 2촁}\0\0.
 ('촀\0Aber ich wüsste nicht mal, woher
-ich 2""촀
+ich 2""촀
 eineneineein bekommen sollte. 
 \0Das ist
 echt total doof, 
@@ -64,17 +61,18 @@ echt total doof, 
 \0(촀\0
 Kneif mich mal! 
 \0(촀\0Hast du da echt
-2""촀
+2""촀
 eineneineein 2촁}\0\0?
-(촀\0Ach, du 28""촀heiligerheiligeheiliges 촀!
+(촀\0Ach, du 28#촀heiligerheiligeheiliges 촀!
 \0(
-Tausch mit mir, bitte! 
+Tausch mit mir, 
+\0bitte! 
 \0Du kriegst
-2$đ촀mein
-meinemein }\0!
-(7촀\0Bitte, bitte!
+2(Ē촀meinen
+meinemein 2촁}\0!\0\0(7촀\0Bitte, 
+\0bitte!
 \0 Ich hätte doch so gern
-2""촀
+2""촀
 eineneineein 2촁}\0\0!"
 "004_a","Gut, wenn es dir hilft..."
 "004_b","Da muss ich passen."
@@ -103,11 +101,10 @@ wohl zu groß, 
 \0(촀\0Mal sehen,
 \0
 ob du auch Glück gehabt hast...
-(%촀\02$촀Dein
-DeineDein }\0\0
-geht an mich und du bekommst...
-\0
-(촀\02(đ촀meinen
+(%촀\02$촀Dein
+DeineDein }\0\0 geht an mich,
+\0 und du bekommst...
+\0 (촀\02(Ē촀meinen
 meinemein 2촁}\0!"
 "201","( 촀\0Echt? 
 \0So vorsichtig? 
@@ -140,7 +137,7 @@ uns schnell tauschen! 
 "302","(촀\0Echt doll lieb von dir!
 \0 (!촀\0Yippie!
 \0
-Jetzt habe ich endlich 2P촀einen eigeneneine eigeneein eigenes
+Jetzt habe ich endlich 2P촀einen eigeneneine eigeneein eigenes
 2촁}\0\0!"
 "303","(촀\0Danke!
 \0 Klasse, dass du mir hilfst,

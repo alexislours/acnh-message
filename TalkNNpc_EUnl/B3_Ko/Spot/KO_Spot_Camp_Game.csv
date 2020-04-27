@@ -1,6 +1,6 @@
 ﻿"label","text"
 "001","Hallo!(촀\0 Zullen we een spel spelen?\0\0(\0촀\0Als je wint, krijg je mijn 2촃}\0\0. 
-\0($촀\0Lijkt je dat wat, n\0?"
+\0($촀\0Lijkt dat je wat, n\0?"
 "001_a","Leuk idee!"
 "001_b","Het komt nu niet goed uit."
 "002","(촀\0Mooi! 
@@ -16,8 +16,8 @@ beginnen!
 \0((<촀\0 Dan schud ik eerst de
 kaartenn"
 "005","(9촀\0En de kaart isn"
-"006_01","(%촀\0Zoals beloofd, geef ik je mijn 2촃}\0\0. Pak aan! 
-\0((촀\0Ik had het tenslotte beloofd!"
+"006_01","(%촀\0Zoals beloofd, geef ik je mijn 2촃}\0\0.
+\0((촀\0 Ik ben tenslotte een man van mijn woord!"
 "006_02","(7촀\0Nou, ik had niet gedacht dat je het
 goed zou radenn\0\0
 \0(\0\0(\0촀\0Maar ik heb beloofd dat je mijn 2촃}\0\0 zou krijgen,
@@ -26,7 +26,7 @@ goed zou radenn\0\0
 \0((촀\0 Zo te zien kan ik mijn 2촃}\0\0 houdenn"
 "007_01","(7촀\0Ik heb verloren, maar toch was het
 leuk.
-\0((촀\0 Maar de volgende keer, win ik,
+\0((촀\0 Maar de volgende keer win ik,
 n\0!"
 "007_03","Ik heb gewonnen, (촀\0maar laat het er
 niet bij zitten, 2jochiemeid. Volgende keer
@@ -36,8 +36,10 @@ beginnen.\0\0(\0촀\0(:촀\0Maarn\0\0 wacht eens even.
 \0 (촀\0Je zakken
 zijn vol. Ben je niet van plan om te
 winnen?
-(:촀\0Zorg eerst dat je plek hebt voor mijn 2촃}\0\0.
-\0 (6촀\0Dan kunnen we spelen, n\0."
+(:촀\0Als je wilt winnen, zorg dan eerst dat
+je plek hebt voor je prijs.
+\0 (6촀\0Dan kunnen
+we spelen, n\0."
 "100","()촀\0Oké. Ik heb vier kaarten, elk met een ander symbool: \0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿n\0\0\0\0(촀\0Ik trek een kaart en dan raad jij welk
 symbool erop staat.\0\0(\0촀\0Als je het goed hebt,
 \0(촀\0 geef ik je mijn
@@ -47,8 +49,8 @@ spel!
 \0((<촀\0 Eerst schud ik de kaartenn"
 "101","(촀\0Oké, ik heb een kaart getrokken!
 \0((6촀\0 Nu
-raad jij welk symbool het heeft. Is het
-\0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿, n\0?"
+raad jij welk symbool erop staat. Is
+het \0♥\0￿, \0♦\0￿, \0♠ \0￿of \0♣\0￿, n\0?"
 "101_a","\0♥ Harten!\0￿"
 "101_b","\0♦ Ruiten!\0￿"
 "101_c","\0♠ Schoppen!\0￿"
@@ -74,17 +76,12 @@ Welke kleur is het?
 "201_a","\0Rood!\0￿"
 "201_b","\0Zwart!\0￿"
 "202_01","(촀\0Sapperdeflap, 
-\0촀 klopt!
-\0(
-(촀\0Je hebt gewonnen!"
-"202_02","(;촀\0O, sorry, 2jochiemeid. Het juiste antwoord
-is 촀.
-\0( (촀\0Je hebt het dus verkeerd geraden."
-"202_03","(촀\0Sapperloot, 
-\0촀 is het goeie
-antwoord!
+\0촀, dus \0rood \0￿klopt!
 \0( (촀\0Je hebt gewonnen!"
-"202_04","(;촀\0O, sorry, 2jochiemeid. Het goeie antwoord
-is 촀.
-\0( (촀\0Je hebt dus verkeerd
-geraden."
+"202_02","(;촀\0Het is 촀. Sorry, 2jochiemeid. 
+\0((촀\0\0Zwart\0￿ is dus niet goed."
+"202_03","(촀\0Sapperloot, 
+\0het is 촀, dus \0zwart \0￿is het goeie antwoord!
+\0( (촀\0Je hebt gewonnen!"
+"202_04","(;촀\0O, sorry, 2jochiemeid. Het goeie antwoord was \0rood\0￿, omdat het 촀 is.
+\0( (촀\0Je hebt dus verkeerd geraden."

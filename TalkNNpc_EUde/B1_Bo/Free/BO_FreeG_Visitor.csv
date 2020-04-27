@@ -7,7 +7,7 @@ eineneineeins
 "001_b","Noch nicht."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Du weißt, was sich gehört,
 
 \0n\0!
@@ -44,15 +44,13 @@ bärchen. 
 \0(%촀\0Da kann man schon ganz
 gut einkaufen, 
 \0ja."
-"015","(촀\0Der Laden von n\0
-ist riesig groß! 
-\0Da findet man alles,
-was man braucht!\0\0(""촀\0Schau unbedingt mal da vorbei,
+"015","(촀\0Der Laden von n\0 ist riesig groß! 
+\0Da findet man alles, 
+\0was man braucht!\0\0(""촀\0Schau unbedingt mal da vorbei,
 
 \0n\0. 
 \0(5촀\0Und denk dran,
-\0
-wer dir den tollen Tipp gegeben hat!"
+\0 wer dir den tollen Tipp gegeben hat!"
 "016","(촀\02\0n\0! 
 \0Ich hab einen Freund
 auf n\0, der ein
@@ -62,16 +60,17 @@ alte Bildchen, Insekten oder sonst
 was gehen soll.\0\0()촀\0Es wär aber voll toll, wenn du
 irgendwas davon zum Ausstellen
 übrig hättest, (""촀\0n\0!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
-"025","()촀\0Hier auf n\0 haben
-wir ein wunderbärchiges \0Museum\0￿!\0\0(촀\0Das musst du dir unbedingt mal
+"024","<ἃᤀ촀"
+"025","()촀\0Hier auf n\0 haben wir ein wunderbäriges \0Museum\0￿!\0\0(촀\0Das musst du dir unbedingt mal
 angucken! 
 \0((""촀\0Es hat immer auf, du
 brauchst also nicht mal 'nen Termin!"
-"028","(촀\0In unserem \0Museum\0￿ gibt's 2""(촀
+"028","(촀\0In unserem \0Museum\0￿ gibt's 2"")촀
 eineneineein
 2촁
 \0 zu sehen.\0\0(%촀\0Wenn du Fische knuffig findest,
@@ -79,7 +78,7 @@ eineneineein
 \0solltest du unbedingt mal dort
 vorbeidampfen!"
 "029","(촀\0Wusstest du, dass es im \0Museum\0￿
-2""(촀
+2"")촀
 eineneineein 2촁
  zu
 bestaunen gibt?\0\0(%촀\0Ein richtig großer Brummer ist
@@ -87,74 +86,74 @@ das, 
 \0n\0!"
 "030","(촀\0Magst du Fossilien? 
 \0Dann sieh
-dir 2(촀dendiedas 2촁
+dir 2)촀dendiedas 2촁
 
 im \0Museum\0￿ mal an!\0\0(%촀\0Letztens war ich dort und konnte gar
 nicht mehr weggucken. 
 \0Das war wie
 ein (;촀\0Blick in die Vergangenheit!"
-"101","(촀\0Sag mal, n\0... 
-\0(Was machst du eigentlich so auf deiner neuen Insel? 
-\0($촀\0So zum Spaß, mein ich."
-"101_a","Angeln gehen."
-"101_b","Insekten fangen."
-"101_c","Verstecken spielen."
-"101_d","Schätze suchen."
-"101_e","Freunde besuchen."
-"102","(촀\0Oh! 
-\0((촀\0Angeln gehe ich auch noch oft!\0\0(
-촀\0Ob die Fische bei euch wohl anders
-schmecken als hier?\0\0(%촀\0Vielleicht ziehe ich irgendwann auch
-mal nach n	\0, 
-\0um das
-herauszufinden."
-"103","(촀\0Verstehe! 
-\0((\0촀\0Ich spiel hier auch
-oft Fangen mit meinen
-sechsbeinigen Freunden.\0\0Wenn ich nur öfter mal gewinnen
+"201","(촀\0Sag mal, 
+\0n\0... 
+\0(Was macht ihr eigentlich in letzter Zeit so auf n	\0?\0\0($촀\0So zum Spaß, 
+\0mein ich."
+"201_a","Angeln gehen."
+"201_b","Insekten fangen."
+"201_c","Verstecken spielen."
+"201_d","Schätze suchen."
+"201_e","Freunde besuchen."
+"202","(촀\0Oh! 
+\0((촀\0Angeln gehe ich hier auch oft!\0\0(
+촀\0Ich hab das Gefühl, 
+\0die Fische
+riechen hier ein kleines bisschen
+anders als auf n	\0...\0\0(7촀\0Vielleicht bild ich mir das aber auch
+nur ein, 
+\0n\0."
+"203","(촀\0Verstehe! 
+\0((\0촀\0Ich spiel hier auch oft
+Fangen mit meinen sechsbeinigen
+Freunden.\0\0(촀\0Wenn ich nur öfter mal gewinnen
 täte! 
-\0(촀\0Äh, he he he...\0\0(\0촀\0Sind die kleinen Krabbler (&촀\0bei euch
-auch so flink?\0\0(%촀\0Vielleicht komm ich auch irgendwann
-nach n	\0. 
-\0(""촀\0Da kennen
-die meine Tricks noch nicht!"
-"104","(%촀\0Au ja, Versteckenspielen ist toll!
+\0(촀\0Äh, he he he...\0\0(\0촀\0Ich hab das Gefühl,
+\0 (&촀\0die Krabbler auf
+unserer alten Insel waren nicht ganz
+so flink,
+\0 n\0..."
+"204","(%촀\0Au ja, 
+\0Versteckenspielen ist toll!
 \0(
 (촀\0Aber die Leute hier haben etwas
 Angst, mit mir zu spielen...\0\0(&촀\0Du willst wissen, warum? 
 \0()촀\0Na ja, 
 \0bei
 unserem letzten Spiel bin ich auf
-einen Baum geklettert.\0\0(촀\0Ich kam nicht mehr runter, aber hab
-nicht um Hilfe gerufen, weil ich nicht
+einen Baum geklettert.\0\0(촀\0Ich kam nicht mehr runter, 
+\0aber hab
+nicht um Hilfe gerufen, 
+\0weil ich nicht
 verlieren wollte.\0\0(촀\0Ich galt schon als verschollen, 
 \0als ich
 es wieder runter geschafft habe.
 
-\0((촀\0Damit war ich doch eigentlich Sieger!\0\0(%촀\0Falls es bei euch so eine Regel beim
-Verstecken gibt, werd ich überlegen,
-\0(""촀\0
-nach n	\0 zu ziehen!"
-"105","(&촀\0Du meinst, einfach zum Spaß?
+\0((촀\0Damit war ich doch eigentlich Sieger!"
+"205","(&촀\0Du meinst, 
+\0einfach so zum Spaß?
 \0(
 (촀\0Ui, 
 \0das hört sich total knuffig an!\0\0(\0촀\0Vor einer Weile bin ich hier auch
 mal rumgezogen und hab alles
-umgegraben, um Schätze zu finden.\0\0(촀\0Das Graben ist dabei eigentlich
+umgegraben, 
+\0um Schätze zu finden.\0\0(촀\0Das Graben ist dabei eigentlich
 wichtiger als die Schätze! 
 \0(촀\0Probier's
-mal aus, ist sehr entspannend.\0\0(%촀\0Und wenn bei euch so viel gebuddelt
-wird, 
-\0werd ich mal überlegen, auch
-nach n	\0 zu ziehen..."
-"106","(%촀\0Oh, 
+mal aus, 
+\0ist sehr entspannend."
+"206","(%촀\0Oh, 
 \0das klingt nett. 
 \0(\0촀\0Äh, he he he...
 
 \0(6촀\0Auf unserer Insel haben wir auch
-einige sehr gesellige Kameraden.\0\0(\0촀\0n촀 zum Beispiel, 
+einige sehr gesellige Nachbarn.\0\0(\0촀\0n촀 zum Beispiel, 
 \0oder n촁... 
-\0Das sind zwei ganz schöne... 
-\0Also, 
-\0na ja...\0\0(%촀\0Aber wenn es auf n	\0 so freundlich zugeht, 
-\0sollte ich dort vielleicht mal vorbeigucken..."
+\0Das sind vielleicht zwei, 
+\0ich sag's dir..."

@@ -3,8 +3,7 @@
 \0sono nuova dell'isola.
 
 \0(촀\0Il mio nome è n
-\0!\0\0()촀\0È 2
-촀
+\0!\0\0()촀\0È 2촀
 stato
 stata\0 s\0촀 che mi ha convinta a trasferirmi qui da s촀.\0\0(촀\0Tu sei n\0, n'est-ce pas? 
 \0Ho sentito che hai molti amici da queste parti, 
@@ -21,8 +20,7 @@ vediamo presto, 
 \0 e vengo da s촀.\0\0($촀\0Tu sein\0\0 n\0?
 \0 (촀\0Che bel nome, 
 \0très charmant!\0\0()촀\0Conosci s\0촀? 
-\0È 2
-촀luilei\0 che mi ha convinto a trasferirmi qui.
+\0È 2촀luilei\0 che mi ha convinto a trasferirmi qui.
 \0 (%촀\0Isola nuova, 
 \0vita nuova!\0\0(촀\0Mi ha fatto molto piacere averti
 conosciut2oa e spero che diventeremo
@@ -31,14 +29,15 @@ amiciamiche, 
 \0n\0!"
 "002_02","(""촀\0Salut, 
 \0piacere di conoscerti! 
-\0(촀\0Mi sono trasferita qui da s촀 di recente 
-\0e sono molto soddisfatta!\0\0()촀\0Sono venuta 2\0 n\0 su consiglio di s\0촀 
-\0e sono molto feliiice di averlo fatto.\0\0( 촀\0Tu sei n\0, n'est-ce pas? 
+\0(촀\0Mi sono
+trasferita qui di recente 
+\0e sono molto
+soddisfatta!\0\0()촀\0Sono venuta su quest'isola dietro consiglio di s\0촀 
+\0e sono felicissimissima di averlo fatto.\0\0( 촀\0Tu sei n\0, n'est-ce pas? 
 \0(촀\0Ho sentito dire solo cose meravigliose sul tuo conto!\0\0(촀\0È una grande gioia averti come
 vicin2oa e spero che diventeremo
 2
-amiciamiche, 
-\0n\0."
+amiciamiche, n\0."
 "002_03","(촀\0Oh, 
 \0salut! 
 \0Che piacere conoscerti!
@@ -123,8 +122,7 @@ oggi.
 \0 (촀\0Mi chiamo n
 \0.\0\0(
 촀\0Che ne dici se ti chiamon\0\0 (촀\0n\0?
-\0 (촀\0Spero che non ti dispiaccia.\0\0(4촀\0È 2
-촀
+\0 (촀\0Spero che non ti dispiaccia.\0\0(4촀\0È 2촀
 stato
 stata\0 s\0촀 ad invitarmi.\0\0(\0촀\0Adesso ho tantissimissimo da fare
 per sistemare le mie cosine,
@@ -138,8 +136,7 @@ da poco.
 \0 Je suis n
 \0.
 ($촀\0E tu sei n\0, dico bene?
-\0 (촀\0Che nome adoraaabile!\0\0()촀\0Sai, è 2
-촀
+\0 (촀\0Che nome adoraaabile!\0\0()촀\0Sai, è 2촀
 stato
 stata\0 s\0촀 a convincermi a trasferirmi qui.\0\0(촀\0E adesso eccomi qua,
 \0 a parlare con
@@ -151,8 +148,7 @@ bene,
 \0 Piacere di conoscerti.
 \0 (촀\0Sono nuova sull'isolan\0\0 Mi chiamo n
 \0.\0\0(%촀\0E tu devi essere n\0.
-\0 (6촀\0Ho sentito tanto parlare di te!\0\0()촀\0Sai, è 2
-촀
+\0 (6촀\0Ho sentito tanto parlare di te!\0\0()촀\0Sai, è 2촀
 stato
 stata\0 s\0촀 che mi ha convinta a trasferirmi qui.\0\0(촀\0Visto che abitiamo 2$entrambientrambe in
 questo posto meraviglioso,
@@ -171,8 +167,7 @@ di poter vivere qui insieme a te,
 \0n\0!"
 "104","(촀\0Piacere di conoscerti. Je suis n
 \0.
-\0(\0\0(\0촀\0E tu sein\0\0 Ehn\0\0 (,촀\0EEE-CCCIÙÙÙ!\0\0(9촀\0Perdonami. Dicevon\0\0 tu sei n\0, n'est-ce pas?\0\0()촀\0Sai, è 2
-촀
+\0(\0\0(\0촀\0E tu sein\0\0 Ehn\0\0 (,촀\0EEE-CCCIÙÙÙ!\0\0(9촀\0Perdonami. Dicevon\0\0 tu sei n\0, n'est-ce pas?\0\0()촀\0Sai, è 2촀
 stato
 stata\0 s\0촀 che mi ha convinta a trasferirmi qui.\0\0(+촀\0Purtroppo, dopo il mio arrivo
 \0 mi sono
@@ -248,11 +243,12 @@ di rivederci presto, oui?"
 "202_01","(""촀\0Oh, non mi sono ancora presentata!
 
 \0(촀\0Io sono n
-\0.\0\0(촀\0Mi sono trasferita qui da s촀.\0\0($촀\0Tu sei n\0,
+\0.\0\0(촀\0Ho traslocato qui dalla mia vecchia
+isola.\0\0($촀\0Tu sei n\0,
 \0 n'est-ce pas?
-\0 (촀\0Che bel nome!\0\0()촀\0s\0촀 mi ha convinta a trasferirmi qui quando ero all'\0area per campeggio\0￿.\0\0(촀\0Non vedo l'ora di conoscerti meglio,
-\0
-n\0!"
+\0( (촀\0Che bel nome!\0\0()촀\0Quando ero all'\0area per campeggio\0￿, 
+\0s\0촀 mi ha convinta a trasferirmi qui.\0\0(촀\0Non vedo l'ora di conoscerti meglio,
+n\0!"
 "202_02","(""촀\0Enchantée de te rencontrer!
 \0 (촀\0Anch'io
 mi sono trasferita qui da poco.\0\0()촀\0Ho deciso di farlo dopo aver visitato
@@ -271,8 +267,7 @@ amic2
 \0
 (촀\0Je suis n
 \0.\0\0(""촀\0E tu sei n\0, n'est-ce pas? 
-\0Conosci s\0촀, n\0?\0\0()촀\0È 2
-촀luilei\0 che mi ha suggerito di
+\0Conosci s\0촀, n\0?\0\0()촀\0È 2촀luilei\0 che mi ha suggerito di
 trasferirmi qui mentre ero in vacanza
 all'\0area per campeggio\0￿.
 (촀\0E sono mooolto felice che l'abbia
@@ -284,8 +279,7 @@ la possibilità di conoscerti!"
 \0 (촀\0Scusan\0\0
 Sono n
 \0.\0\0(""촀\0Tu sei n\0, n'est-ce pas? 
-\0(촀\0Conosci s\0촀?\0\0(촀\0Io l'ho incontrat2
-촀oa\0 quando ero qui
+\0(촀\0Conosci s\0촀?\0\0(촀\0Io l'ho incontrat2촀oa\0 quando ero qui
 all'\0area per campeggio\0￿
 \0 e mi ha
 consigliato di trasferirmi sull'isola.
@@ -364,8 +358,7 @@ mi sarò sistemata, n\0!"
 (1촀\0Mi sembra ieri che ero qui all'\0area
 per campeggio\0￿ e ho conosciuto
 s\0촀n\0\0
-()촀\0È stat2
-촀
+()촀\0È stat2촀
 o lui
 a lei\0 a convincermi a lasciare la
 mia vecchia isola e a trasferirmi qui.
@@ -383,8 +376,7 @@ amichevoli su quest'isola!\0\0(1촀\0È la prima cosa che mi ha affascinata
 di questo posto,
 \0 già ai tempi in cui
 ero qui all'\0area per campeggio\0￿n\0\0
-()촀\0È 2
-촀
+()촀\0È 2촀
 stato
 stata\0 s\0촀 a consigliarmi di trasferirmi.\0\0(\0촀\0È una grande gioia essere qui e
 

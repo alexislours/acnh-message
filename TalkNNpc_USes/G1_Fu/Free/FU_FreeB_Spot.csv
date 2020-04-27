@@ -65,14 +65,14 @@ para llenarlas."
 \0 촆촃(촀\0Tienes
 buen espacio para tus muebles
 y para moverte sin problemas."
-"007","촊촉(&촀\0¿Añadiste otra habitación?
-\0
-(촀\0Debe de ser genial tener más
-espacio para muebles y decoración.
+"007","촊촉(&촀\0¿Tu casa tiene una habitación en la
+parte de atrás?
+\0 (촀\0Debe de ser genial
+tener más espacion\0\0
 촆촃(%촀\0Quizá yo también debería añadir
 otro cuarto en mi casa,
-\0(&촀\0 pero sería
-difícil decidir para qué usarlo.
+\0(&촀\0 pero
+¿para qué lo usaría?
 (
 촀\0Como taller de pintura,
 \0 como
@@ -109,7 +109,7 @@ de almacenamiento extra, ¿no?
 "012","촊촉()촀\0¿Crees que s\0촀 acabará construyéndose una casa?\0\0(1촀\0Y si lo hiciera, ¿cómo sería?
 \0
 촆촃(촀\0Me encantaría que me dejara
-visitarla, n\0."
+visitarla, n\0."
 "013","촊촉(
 촀\0Estaba viendo el tejado de la casa
 de s\0촀.\0\0촆촃(촀\0Armoniza con el resto del paisaje,
@@ -124,11 +124,10 @@ falta, n\0."
 \0
 촆촃(촀\0Espero que no le moleste que me
 quede mirándola tan a menudo."
-"016","촊촉(촀\0El tamaño de la casa de s\0촀 sería más que suficiente para mí.\0\0촆촃Pero conociéndol2
-촀oa\0, (%촀\0seguro que
+"016","촊촉(촀\0El tamaño de la casa de s\0촀 sería más que suficiente para mí.\0\0촆촃Pero, conociéndol2촀oa\0,
+\0 (%촀\0seguro que
 tiene planeado ampliarla mucho más."
-"017","촊촉(촀\0La casa de s\0촀 tiene un montón de habitaciones distintas.\0\0촆촃($촀\0No me importaría ayudarl2
-촀oa\0 a
+"017","촊촉(촀\0La casa de s\0촀 tiene un montón de habitaciones distintas.\0\0촆촃($촀\0No me importaría ayudarl2촀oa\0 a
 decorarlas,
 \0(%촀\0 ¡seguro que pasamos
 un buen rato!"
@@ -141,8 +140,7 @@ de s\0촀?
 \0 ¡Tiene hasta un sótano!\0\0촆촃(%촀\0Ha trabajado mucho para poder
 hacerla a su gusto,
 \0($촀\0 así que me
-alegro mucho por 2
-촀élella\0."
+alegro mucho por 2촀élella\0."
 "020","촊촉()촀\0Escuché que \0Tendo \0￿y \0Nendo \0￿son inquilinos de \0Tom Nook\0￿ en la
 \02\0Ȃ촄oficina de gestión vecinal\0￿.
 촆촃(촀\0Ahora entiendo la vibra hogareña
@@ -199,6 +197,7 @@ que te llena de confianza."
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉()촀\0Me gusta que cada exposición tenga
 su propio ambiente.\0\0촆촃(촀\0Parece que no, pero montar y cuidar
 de todo esto es muy laborioso.

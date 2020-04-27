@@ -6,7 +6,7 @@
 "001_b","Bin nicht sicher..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Nicht schlecht! 
 \0(%촀\0Ich werde oft gefragt,
 ob ich nicht ein paar (촀\02촁n촁 von
@@ -45,10 +45,12 @@ dass wir den Laden haben,
 riesig und hat tausende Exponate.\0\0(촀\0Ich freue mich schon darauf,
 \0 ganze
 verregnete Tage dort zu verbringen!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0Hast du schon das \0Museum \0￿auf
 unserer Insel besucht?
 \0 (%촀\0Das hat
@@ -58,62 +60,70 @@ kann die Hektik des Alltags hinter
 sich lassen. 
 \0(촀\0Sieh es dir einmal an!
 \0(촀"
-"028","(촀\0In unserem \0Museum\0￿ kannst du dir 2""(촀
+"028","(촀\0In unserem \0Museum\0￿ kannst du dir 2"")촀
 eineneineein 2촁
 \0 ansehen!\0\0(\0촀\0Wenn du einen Besuch geplant
 hattest, 
 \0(촀\0kannst du ja die Augen
 danach offenhalten."
 "029","()촀\0Die Insektenausstellung in unserem
-\0Museum\0￿ beinhaltet sogar 2""(촀
+\0Museum\0￿ beinhaltet sogar 2"")촀
 eineneineein
 2촁
 !\0\0(촀\0Falls du sowieso dort bist, kannst du
-ja einmal versuchen, 2(촀ihnsiees zu finden!"
-"030","(촀\0In unserem \0Museum\0￿ gibt es 2""(촀
+ja einmal versuchen, 2)촀ihnsiees zu finden!"
+"030","(촀\0In unserem \0Museum\0￿ gibt es 2"")촀
 eineneineein 2촁
  zu bewundern!\0\0(5촀\0Die ganze Insel ist stolz,
 \0 dass wir
 so etwas Seltenes haben!"
-"101","<\0fi"
-"102","(촀\0Wir beide leben jetzt an
-verschiedenen Orten, aber...\0\0(4촀\0Denkst du ab und zu an mich,
+"201","<\0ÊÍ"
+"202","(촀\0Wir beide leben ja jetzt an
+verschiedenen Orten, 
+\0aber...\0\0(4촀\0Denkst du ab und zu an mich,
 \0
 n\0?"
-"102_a","Ja, sicher!"
-"102_b","Eher selten..."
-"103","(촀\0Das freut mich! 
+"202_a","Ja, sicher!"
+"202_b","Eher selten..."
+"203","(촀\0Das freut mich! 
 \0Ich hatte schon
-befürchtet, du hättest mich ganz
+befürchtet, 
+\0du hättest mich ganz
 und gar vergessen.\0\0(촀\0Ich denke auch oft an unsere Zeit
 zusammen, 
 \0schreibe Gedichte und
 so weiter...\0\0(2촀\0Nein, ich werde dir keins davon
 vorlesen, 
 \0n\0!"
-"104","(촀\0Oh, 
+"204","(촀\0Oh, 
 \0verstehe...
 \0(
-(\0촀\0Aber das heißt wohl, dass dich dein
-(%촀\0neues Leben vollkommen ausfüllt!\0\0(촀\0Ich werde mir Mühe geben, auch
+(\0촀\0Aber das heißt wohl, 
+\0dass dich dein
+(%촀\0neues Leben vollkommen ausfüllt!\0\0(촀\0Ich werde mir Mühe geben, 
+\0auch
 weniger an die Vergangenheit und
 ((촀\0mehr an die Zukunft zu denken!"
-"105","(4촀\0Die Frage klingt jetzt vielleicht
+"205","(4촀\0Die Frage klingt jetzt vielleicht
 komisch, aber... 
-\0Findest du, ich
+\0(;촀\0Findest du, 
+\0ich
 habe mich verändert?"
-"105_a","Schon ein wenig!"
-"105_b","Du bist ganz die Alte!"
-"106","(촀\0Es fällt dir also auf?
+"205_a","Schon ein wenig!"
+"205_b","Du bist ganz die Alte!"
+"206","(촀\0Es fällt dir also auf?
 \0(
-(촀\0Oh, wie wunderbar!\0\0(2촀\0Ich wusste, der Trick mit den
+(촀\0Oh, 
+\0wie wunderbar!\0\0(2촀\0Ich wusste, 
+\0der Trick mit den
 Honigbädern würde mir einen
 strahlenden Teint verleihen.\0\0(\0촀\0Und du hast es direkt bemerkt!
 \0
 (촀\0Bei dir hätte ich nicht weniger
 erwartet, 
 \0n\0!"
-"107","(촀\0Es freut mich sehr, das zu hören!\0\0(7촀\0Meine Sehkraft ist nämlich etwas
+"207","(촀\0Es freut mich sehr, 
+\0das zu hören!\0\0(7촀\0Meine Sehkraft ist nämlich etwas
 schlechter geworden, 
 \0und ich hab
 befürchtet, man würde das merken...

@@ -1,7 +1,8 @@
 ﻿"label","text"
-"001_01","(촀\0O, n\0! (촀\0Leuk je te zien!
-\0 Dat kampvuur (촀\0was mooi, hè?"
-"001_02","(촀\0O, n\0. (촀\0Leuk je te zien!"
+"001_01","(촀\0O, n\0! 
+\0Leuk je te zien!\0\0Dat kampvuur (촀\0was mooi, hè?"
+"001_02","(촀\0O, n\0. 
+\0Leuk je te zien!"
 "001_03","(\0촀\0We werken 's avonds allemaal in
 de \0servicebalie\0￿, dus kom gerust een
 keer langs(촀\0 als je iets nodig hebt.\0\0(\0촀\0Nu loop ik nog een beetje rond om
@@ -24,14 +25,14 @@ zetten. 
 muren en alles! 
 \0Kom maar eens
 kijken als het af is!"
-"003_01","(촀\0O, n\0. (촀\0Leuk je te zien!
-\0 Hoe bevalt het leven op het eiland?"
+"003_01","(촀\0O, n\0. 
+\0Leuk je te zien!\0\0Hoe bevalt het leven op het eiland?"
 "003_02","(촀\0Als je ook maar iets nodig hebt om
 je leven hier aangenamer te maken,
 moet je me gerust aanspreken!"
 "009","<"
 "009_01","(촀\0Welkom op n\0!
-\0 (촀\0Ik hoop dat je volop geniet van al het moois dat dit eiland te bieden heeft!"
+\0 Ik hoop dat je volop geniet van al het moois dat dit eiland te bieden heeft!"
 "009_02","Sorry, maar(&촀\0 ken je toevallig iemand
 die op dit eiland woont?\0\0(촀\0En jullie vriendschap heeft je naar n\0 gebracht?
 \0 Wat leuk, zeg!"
@@ -92,9 +93,9 @@ ontvangen!\0\0En je ontvangt er nog meer als je er
 meerdere dagen achterelkaar gebruik
 van maakt. Dat is makkelijk verdiend!"
 "050_04","(촀\0Waarschijnlijk weet je al dat \0hout\0￿
-van \0bomen \0￿komt, toch?\0\0()촀\0Door ze flink door elkaar te schudden
-of een tik met een \0bijl \0￿te geven kun
-je stukken hout verzamelen.
+van \0bomen \0￿komt, toch?\0\0()촀\0Door ze flink te schudden of een tik
+met een \0bijl \0￿te geven kun je takken
+en hout verzamelen.
 (&촀\0Maar wist je ook dat je stukken \0steen
 \0￿en andere mineraalachtige materialen
 uit grotere \0stenen\0￿ kunt slaan?\0\0(%촀\0Echt waar!
@@ -144,8 +145,7 @@ te zijn die \0in het zand begraven \0￿zijnn\0\0\0\0(촀\0Hou op h
 en zoek naar plekken in het zand
 waar je water omhoog ziet spuiten!\0\0(촀\0Zo kan een strandwandeling best wel
 lonend zijn, n\0!"
-"061_01","(촀\0O, dag! 
-\0Ik hoorde dat je materialen
+"061_01","(촀\0Ik hoorde trouwens dat je materialen
 verzamelt voor de bouw van de
 nieuwe winkel! 
 \0Wat aardig van je!\0\0(\0촀\0Het is misschien wat zwaar, maar we

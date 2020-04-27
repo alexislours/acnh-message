@@ -23,11 +23,11 @@ als deze, n\0."
 die je bezoektn\0\0
 \0(촀\0 Dat hoort bij de
 charme van kamperen, n\0.(촀"
-"002_05","(촀\0n\0 is de perfecte kampeerplek. Ik voel me hier thuis. (촀\0Het is hier zo prettig, n\0!"
+"002_05","(촀\0n\0 is de perfecte plek om te kamperen. (촀\0Ik voel me hier thuis, n\0!"
 "003","<"
 "003_01","(
-촀\0Er wordt altijd heel veel zooi mee
-naar een kampeerplek genomen om
+촀\0Er wordt altijd heel veel zooi mee-
+genomen naar een kampeerplek om
 het makkelijker te makenn\0\0
 (촀\0Maar als je het mij vraagt,
 \0 verpest je
@@ -72,7 +72,7 @@ als je aanbevelingen voor me hebt,
 \0(
 (촀\0Bedankt voor je uitnodiging om hier
 te komen kamperen, n\0."
-"201_02","(촀\0Kom je me gedag zeggen?
+"201_02","(촀\0Kom je me hallo zeggen?
 \0( Nadat je
 me heb uitgenodigd, ben ik zo snel
 mogelijk gekomen, n\0."
@@ -82,17 +82,22 @@ natuurlijk.
 \0 Bwahaha! ($촀\0Bedankt,
 n\0!"
 "202","<"
-"202_01","(""촀\0Hoera! Gelukt!
-\0( (촀\0Iemand van dit eiland
-nodigde me voor een bezoekje, dus
+"202_01","(""촀\0Gelukt!
+\0( (촀\0Iemand van dit eiland had me
+uitgenodigd voor een bezoekje, dus
 hier ben ik dan, n\0."
-"202_02","(""촀\0Welkom op mijn kampeerplekje!
-Iemand van hier nodigde me uit(촀\0, dus
-hier ben ik, n\0. (촀\0Bwahaha!"
-"202_03","(""촀\0Hallo, stoor ik?
-\0 (2촀\0Ik ben uitgenodigd
-om hierheen te komen en dat kon ik
-niet afslaan, n\0. (촀\0Bwahaha!"
+"202_02","(""촀\0Hé 2jochiemeid.
+\0( Kom je effe het nieuwe
+gezicht op de kampeerplek bekijken?
+\0(
+Geef je ogen maar de kost. (촀\0Bwahaha!\0\0()촀\0Iemand van hier had me uitgenodigd
+\0
+(촀\0en ik heb er nog geen seconde spijt
+van gehad, n\0!"
+"202_03","(""촀\0Hallo, let niet op mij, hoor!
+\0 (2촀\0Ik ben
+uitgenodigd om hierheen te komen
+en dat kon ik niet afslaan. (촀\0Bwahaha!"
 "301","<"
 "301_01","(촀\0Vroeger ging ik vaak kamperen.\0\0(1촀\0Dan zong ik 's nachts liedjes bij het
 kampvuur en keek naar de vlammen
@@ -101,9 +106,9 @@ tot ik moe werd.
 
 \0(촀\0maar dat is deel van de charme van
 kamperen, n\0.(촀\0 Bwahaha!"
-"301_02","(촀\0Kampvuur hoort bij kamperen.\0\0(1촀\0Je kunt er allerlei lekkere dingen
-in makenn\0\0(%촀\0 Dat hoort er ook bij,
-n\0.(촀"
+"301_02","(촀\0Een kampvuur hoort bij kamperen.\0\0(1촀\0Je kunt er allerlei lekkere dingen
+boven roosterenn\0\0(%촀\0 Dat hoort er ook
+bij, n\0.(촀"
 "301_03","Als je wilt, kun je best met een boel
 lui kamperenn\0\0(%촀\0 Maak er een sociaal
 gebeuren van, mij best.\0\0(촀\0Maar ik kampeer liever in mijn uppie.
@@ -126,9 +131,9 @@ tot ik moe werd.
 
 \0(촀\0maar dat is deel van de charme van
 kamperen, n\0.(촀\0 Bwahaha!"
-"302_02","(촀\0Kampvuur hoort bij kamperen.\0\0(1촀\0Je kunt er allerlei lekkere dingen
-in makenn\0\0(%촀\0 Dat hoort er ook bij,
-n\0.(촀"
+"302_02","(촀\0Een kampvuur hoort bij kamperen.\0\0(1촀\0Je kunt er allerlei lekkere dingen
+boven roosterenn\0\0(%촀\0 Dat hoort er ook
+bij, n\0.(촀"
 "302_03","Als je wilt, kun je best met een boel
 lui kamperenn\0\0(%촀\0 Maak er een sociaal
 gebeuren van, mij best.\0\0(촀\0Maar ik kampeer liever in mijn uppie.
@@ -138,36 +143,40 @@ genoeg, n\0. (촀\0Bwahaha!"
 "401_01","(
 촀\0Als ik hier zou komen wonen,
 \0 zou ik
-veel spullen wegdoen
-\0n\0\0 (촀\0Eerlijk
-gezegd
-\0 heb ik ook veel te veel.\0\0(8촀\0Al gooit de jeugd van tegenwoordig
-moeiteloos dingen weg,
-\0 (촀\0ik ben aan
-mijn rommel gehecht,
-\0 n\0."
+eens grondig mijn spullen moeten
+uitmesten
+\0n\0\0\0\0(촀\0Eerlijk gezegd
+\0 heb ik ook veel te
+veel,
+\0 n\0.\0\0(8촀\0De jeugd van tegenwoordig mag dan
+wel moeiteloos dingen weggooien,
+\0
+(촀\0ik ben aan mijn rommel gehecht."
 "401_02","(1촀\0Sommige lui worden nerveus van het
-idee om naar een eiland te verhuizen.(\0촀\0('촀\0 Ik niet, hoor.
-(촀\0Een nieuw begin op een mooi
-eiland lijkt me allemachtig prachtig,
-n\0!"
+idee om naar een eiland te verhuizen.
+\0(
+('촀\0Ik niet, hoor.\0\0(촀\0Een nieuw begin op een mooi eiland
+lijkt me allemachtig prachtig, n\0!"
 "401_03","(촀\0Ik kampeer hier, maar zou hier ook
 best willen wonen.
 \0((%촀\0 Grappig, dat had
 ik voor mijn komst niet verwacht.
 (촀\0Maar weet je wat, zulke verrassingen
-zorgen tenminste voor wat roering,
+zorgen tenminste voor wat reuring,
 n\0. Vind je niet, 2jochiemeid?"
 "402","<"
-"402_01","(4촀\0Nou, ehn\0\0\0\0(촀\0Ik heb besloten om naar dit eiland te verhuizen!
-\0( (촀\0Dat s\0촀 me ertoe aanmoedigde, gaf de doorslag.\0\0(2촀\0Maar dan zijn we nu vrienden die op
+"402_01","(4촀\0Nou, ehn\0\0
+\0( (촀\0Ik heb besloten om naar
+dit eiland te verhuizen!\0\0(촀\0Dat s\0촀 me ertoe aanmoedigde, heeft de doorslag gegeven.\0\0(2촀\0Maar dan zijn we nu vrienden die op
 hetzelfde eiland wonen!
 \0( ($촀\0Dus ik zal je
 nog wel zien, n\0."
-"402_02","(촀\0Ik sta op de kampeerplek 
-\0en ben door s\0촀 gevraagd om hier te komen wonen. Goed idee, hè?\0\0(촀\0Hopelijk worden we eilandmakkers,
-n\0."
-"402_03","(2촀\0Ha, die s\0촀 zei dat ik naar dit eiland moet verhuizen, dus doe ik dat.\0\0(촀\0Het lijkt me een avontuur om met al
+"402_02","(촀\0Ik was hier alleen om te kamperen, maar toen heeft s\0촀 me gevraagd hier te komen wonen.\0\0(촀\0Dat leek me een strak plan,
+\0 dus wen
+er maar aan mijn bakkes op dit eiland
+te zien, 
+\0n\0! (촀\0Bwahaha!"
+"402_03","(2촀\0Ha, die s\0촀 heeft gezegd dat ik naar dit eiland moest verhuizen, dus ga ik dat doen.\0\0(촀\0Het lijkt me een avontuur om met al
 die interessante lui hier op een
 eiland te wonen, n\0."
 "403","<"
@@ -203,11 +212,11 @@ spant de kroon.\0\0(
 "501_02_a","Ja, inderdaad!"
 "501_02_b","Weet je dat zeker?"
 "501_03","Afgelopen nacht had ik een droom. (촀\0Ik
-verhuisde naar dit eiland, en jij en ik
-stonden te kletsen, net zoals nu.
+was naar dit eiland verhuisd, en jij en
+ik stonden te kletsen, net zoals nu.
 (\0촀\0Het voelde zo echtn\0\0(&촀\0 2JochieMeid, wat denk jij dat de betekenis van die droom is, n\0?"
 "501_03_a","Je moet hier komen wonen!"
-"501_03_b","Je kunt vliegen!"
+"501_03_b","Ach, dat betekent niks."
 "502_01","(촀\0Ha! Echt waar? Zeg niet dat jij hier
 de marketing regelt!
 \0( ($촀\0Dit eiland is
@@ -227,17 +236,13 @@ buren. Op mijn eiland heeft iedereen
 twee linkerhanden, (촀\0n\0."
 "601_01_a","Kom dan hier wonen!"
 "601_01_b","Dat is jammer."
-"601_02","(촀\0Ik ben blij dat ik nu iets handgemaakt van n	\0 heb.\0\0(\0촀\0Het is ongelofelijk hoe aardig ze hier
-zijn voor (%촀\0iemand die hier niet eens
-woont.
-\0(
-(촀\02JochieMeid, dit is echt een bijzondere plek, n\0."
+"601_02","(촀\0Ik ben blij dat ik nu iets handgemaakts van n	\0 heb.\0\0(\0촀\0Het is ongelofelijk hoe aardig ze op
+deze plek zijn voor (%촀\0iemand die hier
+niet eens woont.\0\0(촀\02JochieMeid, dit is echt een bijzondere plek, n\0."
 "601_02_a","Wil je hier komen wonen?"
 "601_02_b","Ja, dat vind ik ook."
-"601_03","Op n	\0 gemaakte spullen (%촀\0zijn kwaliteitsproducten, die door echte vakmensen zijn gemaakt.
-\0
-(
-촀\0Als ik hier wat langer bleef, werd ik vast ook zo'n vakman, n\0n"
+"601_03","Op n	\0 gemaakte spullen (%촀\0zijn kwaliteitsproducten, die door echte vaklui zijn gemaakt.\0\0(
+촀\0Als ik hier wat langer zou blijven, zou ik vast ook zo'n vakman worden, n\0n"
 "601_03_a","Blijf en probeer het!"
 "601_03_b","Ik weet het niet, hoor..."
 "602_01","(7촀\0Hmn\0\0 Ja, volgens mij word ik wat sentimenteel op mijn ouwe dag, n\0. (촀\0Bwahaha!"

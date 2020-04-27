@@ -13,16 +13,16 @@ hacerte el duro. 
 \0(5촀\0Ya sé que no todo
 el mundo es tan fuerte como yo."
 "003","(촀\0Peron\0\0
-\0 ¿Cómo te atreves?
+\0 ¿cómo te atreves?
 \0
 Aquellon\0\0
 \0 (촀\0¡fue a propósito!
 \0
 ¡Me metí porque quise!
-(%촀\0Era un agujero tan bonito que
-quería saber lo que se sentiría
-dentro.
-\0 ¡Eso es todo!"
+(%촀\0Era un agujero tan bonito que quise
+saber lo que se sentiría dentro.
+\0
+¡Eso es todo!"
 "004","(촀\0Ya, claro. 
 \0Si tú lo dicesn\0\0
 \0
@@ -40,8 +40,9 @@ claro.
 (촀\0Uno tiene su orgullon"
 "006","(촀\0¡Eh, tranqui! 
 \0Encima de que me
-preocupo por ti y taln\0\0\0\0(	촀\0En fin, ¡como quieras! ¡Allá tú,
-n\0!"
+preocupo por ti y taln\0\0\0\0(촀\0En fin, como quieras.
+\0
+Allá tú, n\0."
 "007","('촀\0¡A mí no me engañas!
 \0 ¡Lo vi con
 mis ojos de fiestera!\0\0(촀\0Vamos a ver, s촀,
@@ -65,11 +66,8 @@ comunicarme con las avispas.
 con este par de ojos tan bonitos
 que tengo!
 (촀\0s촀,
-\0 hace un ratejo
-te diste un leñazo con la puerta
-de la tienda.
-\0 ¿O me lo vas a negar?
-(촀\0¡Pero si el tendero se quedó
+\0 hace un ratejo te diste un leñazo con la puerta de la tienda.
+\0 ¿O me lo vas a negar?\0\0(촀\0¡Pero si hasta el tendero se quedó
 a cuadros!
 \0 (&촀\0Oye, ¿y te encuentras
 bien?
@@ -80,10 +78,11 @@ bien?
 Tal como lo cuentas, parece que
 haya tenido un accidente o algon\0\0
 (촀\0¡Como si fuera un torpe!
-\0 ¡Y no! ¡Eso
+\0 ¡Y no!
+\0 ¡Eso
 fue una lucha entre la puerta y yo!
 \0
-Por desgracia ganó la puertan\0\0
+Por desgracia, ganó la puertan\0\0
 (%촀\0¡Pero era bueno en mis tiempos!
 \0
 ¡En todas las tiendas me temían!
@@ -123,12 +122,11 @@ eso de «ladrillos», simpático?"
 \0 Cuando estornudas, (&촀\0¿no te
 da por decir algo a continuación?
 (4촀\0Pensé que lo hacía todo el mundon"
-"104","('촀\0¡Qué dices!
+"104","('촀\0¡Qué va!
 \0 Eso solo lo haces tú.
-\0
+\0
 Creon\0\0\0\0초Oye, 촆n\0,(&촀\0
-\0 ¿tú también
-dices movidas raras al estornudar?"
+\0 ¿tú también dices movidas raras al estornudar?"
 "104_a","¡Por supuesto!"
 "104_b","Qué va..."
 "105","(%촀\0촃¡Toma,
@@ -138,14 +136,15 @@ costumbre,
 "106","촇(촀\0Paso.
 \0 No me mola que me digan
 lo que tengo que hacer.
-\0(
-촀\0 \0(Ya probaré
+\0 (
+촀\0\0(Ya probaré
 más tarde en casa solan\0\0)\0￿"
-"107","촃(촀\0Venga,
-\0 no me dirás que te da
-vergüenzan\0\0
-\0 (촀\0¿Pero tú no eras
-la que vivía al límite?"
+"107","촃(촀\0Pues desahoga mucho,
+\0 ¡deberíais
+probarlo 2loslas dos!
+\0 촅Sobre todo tú,
+\0
+(6촀\0que siempre dices que vives al límite."
 "108","촇(촀\0Oye, qué pesadez.
 \0 Que paso, que
 me gusta cómo estornudo y punto.
@@ -164,7 +163,7 @@ cuando estornudas?"
 \0 
 
 \0¡chís!
-\0 ¡Hipotecas!\0d"
+\0 ¡Hipotecas!\0d"
 "112","(촀\0¡Ya te vale!
 \0 ¡Que no me interesan
 tus virus, n촀!\0\0(촀\0¿Y por qué dices «hipotecas»

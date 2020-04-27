@@ -1,6 +1,6 @@
 ﻿"label","text"
 "001","Hey, ($촀\0sollen wir was spielen?\0\0(\0촀\0Wenn du gewinnst, gebe ich dir 
-2(촀meinen
+2(촀meinen
 meinemein 2촁}\0\0 (촀\0als Preis,
 \0 n\0!"
 "001_a","Klingt gut!"
@@ -30,14 +30,14 @@ misch, misch..."
 \0wow!
 \0 Du hast gewonnen!
 \0(
-(촀\0Dann ist hier wie versprochen 2$촀mein
+(촀\0Dann ist hier wie versprochen 2$촀mein
 meinemein
 }\0\0!"
 "006_02","(촀\0Das heißt, 
 \0ich habe verloren!
 \0(
 (촀\0Dann bekommst du wie versprochen
-2(촀meinen
+2(촀meinen
 meinemein 2촁}\0\0!"
 "006_03","(촀\0Ich hab gewonnen!
 \02 (\0촀\0Das heißt,
@@ -68,7 +68,7 @@ Platz für deinen Preis hättest!\0\0(""촀\0Dann spielen wir ein andermal,
 mit vier Arten von Farben: \0♥♦\0￿\0♠♣.\0￿\0\0()촀\0Ich ziehe eine Karte, 
 \0und du musst
 raten,(%촀\0 welche Farbe sie hat.\0\0(\0촀\0Wenn du richtig liegst, gewinnst du
-(""촀\02(촀meinen
+(""촀\02(촀meinen
 meinemein 2촁}\0\0!\0\0(\0촀\0Aber wenn du falsch liegst...
 \0 (&촀\0Dann...
 \0
@@ -77,7 +77,7 @@ meinemein 2촁}\0\0!\0\0(\0촀\0Aber wenn du falsch liegst...
 \0Weiß ich auch nicht! 
 \0((<촀\0Fangen wir
 einfach mal an!"
-"101","(=촀\0So!
+"101","So!
 \02(\0촀\0 Welche dieser (;촀\0vier Farben
 \0♥♦\0￿\0♠♣ \0￿hat die Karte?"
 "101_a","\0♥ Herz\0￿"
@@ -99,9 +99,9 @@ einfach mal an!"
 folgenden Farben: \0♥♦\0￿\0♠♣.\0￿\0\0()촀\0Ich ziehe eine Karte, 
 \0und du musst
 raten,(%촀\0 ob sie \0rot\0￿ oder \0schwarz\0￿ ist.\0\0(\0촀\0Wenn du recht hast, gewinnst du
-(""촀\02(촀meinen
+(""촀\02(촀meinen
 meinemein 2촁}\0\0!\0\0(<촀\0Also loooooos!"
-"201","(=촀\0Und? 
+"201","Und? 
 \02(\0촀\0Welche Farbe hat meine Karte?
 (;촀\0
 \0\0Rot\0￿ 

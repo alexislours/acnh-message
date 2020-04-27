@@ -383,6 +383,19 @@ for a DIY recipe!"
 \0
 (촀\0
 \0I've got an idea for a DIY recipe!"
+"515","(
+촀\0If I made good use of the egg's
+patterningn\0\0
+\0(촀\0
+\0 Oh!
+\0 I've got some
+DIY recipe ideas!"
+"518","(
+촀\0If I combine the ideas behind the
+eggshell recipes I've learned so farn\0\0
+\0
+(촀\0
+\0I've got an idea for a DIY recipe!"
 "700","Happy birthday to 
 \0me!
 \0 It's always
@@ -469,7 +482,7 @@ I need more room."
 I need more room."
 "914_01","Everyone gathers in this plaza, so
 you should choose a different place."
-"915","If I place buildings too close to each
+"915","If I place structures too close to each
 other, it'll block the flow of traffic.
 Better choose another place!"
 "916","If it's too close to a bridge like this,
@@ -485,13 +498,16 @@ Better choose another place!"
 mailbox, so this isn't a good spot.
 Better choose another place!"
 "919_01","I'll need to move the \0mailbox\0￿ first."
+"920","It'll block the flow of traffic if it's too
+close to the pier like this. Better
+choose another place!"
 "921","There's no river near here that I can
 place a bridge over!"
 "926","To place a bridge, you need the river
 to be just the right width. And the
 land on either side should be even."
-"926_01","It'd be hard to use a bridge
-here with the water so close."
+"926_01","It'd be hard to use a bridge here with
+the other river so close."
 "926_02","It'd be hard to use a bridge
 here with the cliff so close."
 "926_03","I don't think it'd be a good idea to

@@ -52,8 +52,8 @@ un premio?"
 "005_a","Sì."
 "005_b","No."
 "006","( 촀\0Eh? Che cosa c'è?(\0촀"
-"006_a","Voglio usare i punti."
-"006_b","Niente, non importa."
+"006_a","(\0촁\0Voglio usare i punti."
+"006_b","(\0촁\0Niente, non importa."
 "010","(촀\0Un momento.
 \0 Non hai più spazio
 disponibile, non puoi ricevere nulla.\0\0(9촀\0Torna quando avrai fatto un po' di
@@ -205,8 +205,8 @@ all'\0Insettomania\0￿?
 "030","(&촀\0Quindi,
 \0 vuoi per caso partecipare
 all'\0Insettomania\0￿?
-\0 (\0촀\0Il primo round è
-gratis, approfittane!"
+\0 (\0촀\0Il primo round
+di oggi è gratis, approfittane!"
 "030_a","Proviamo!"
 "030_b","Non adesso."
 "031","(!촀\0L'\0Insettomania \0￿è in corso e continuerà fino alle ore \0Z%촁\0￿!\0\0È un'occasione unica per interagire
@@ -250,12 +250,15 @@ ammiratore di tutto ciò che brulica.
 \0(5촀\0Noto anche come l'artista artropode.
 (2촀\0I grandi eventi non fanno per me,
 \0(1촀\0
-ma a questo non potevo proprio dire
-di no!
+ma a questo non potevo proprio
+dire di no!
 (""촀\0Ad ogni modo, devi partecipare!
 \0
 (!촀\0L'\0Insettomania\0￿ ti trasporterà nel
-magico mondo degli insetti!"
+magico mondo degli insetti!
+Puoi unirti alla festa quando vuoi.
+
+\0Si concluderà alle ore \0Z%촁\0￿."
 "037","(촀\0È finalmente arrivato il momento
 dell'\0Insettomania\0￿!
 \0 Il momento in cui
@@ -336,14 +339,13 @@ ore \0Z%촂\0￿.
 \0 \0KVieni pure quando vuoi!\0d"
 "049","( 촀\0Oh,
 \0 c-certo!
-\0 Mh,
-\0 che ne diresti sen\0\0
+\0 Dimmi puren\0\0
 \0(
-(2촀\0\0KComprassi io i tuoi insetti a un prezzo strepitoso
-per te e li allevassi con tanto tanto amore?!\0d"
+(2촀\0\0KCompro io i tuoi insetti a un prezzo strepitoso
+e li allevo con tanto tanto amore!\0d"
 "049_a","Posso venderti insetti?"
 "049_b","Uso i punti."
-"049_c","Qualcos'altro."
+"049_c","L'Insettomania..."
 "049_d","Niente, non importa."
 "050","( 촀\0S-Sì, 
 \0ma certo! 
@@ -365,9 +367,9 @@ la mia anima gemella chitinosa?\0￿\0\0(&촀\0Ehm. 
 "052","(촀\02\02\0}\0!
 \0
 Non ho mai avuto l'onore di vederne
-2đ촀unouna\0.
+2Ē촀unouna\0.
 \0( \0Non ad occhi aperti, almenon\0\0
-(&촀\0\0￿Mi venderesti 2""đ촀il tuola tua\0 }\0 per Z?"
+(&촀\0\0￿Mi venderesti 2""Ē촀il tuola tua\0 }\0 per Z?"
 "052_a","Va bene."
 "052_b","Non importa."
 "053","(촀\0È sempre un piacere acquistare
@@ -418,11 +420,22 @@ conoscere tanti amici zampettanti!"
 partecipare a questo glorioso evento!
 (;촀\0Mi spiace, sono le regole!"
 "061","( 촀\0Oh!
-\0 Mh, perdonami, ma non hai abbastanza stelline.\0\0(촀\0Dopo la prima volta, partecipare
-costa \0Z\0￿.
-\0 Scusami!"
-"062","(%촀\0OK, bene. 
-\0Mi prendo \0Z\0￿."
+\0 Perdonami, ma non hai
+abbastanza stelline.\0\0(촀\0Torna da me quando avrai racimolato
+\0Z\0￿.
+\0 Scusami, eh!"
+"062","(촀\0Ottimo! 
+\0È bello che tu voglia
+rimetterti alla provan\0\0\0\0(7촀\0Dunque, 
+\0dalla seconda volta in poi,
+partecipare costa \0Z\0￿.
+
+\0(&촀\0Ci stai?"
+"062_01","(%촀\0Fantastico! 
+\0(:촀\0Allora mi prendo
+\0Z\0￿n"
+"062_a","Certo!"
+"062_b","No, lasciamo stare."
 "063","(%촀\0OK! Imposterò il timer su \0Z\0 minuti\0￿.
 \0
 Tu devi acchiappare gli insetti. 
@@ -601,8 +614,8 @@ insetti dell'evento?"
 "100","( 촀\0Ehi,
 \0 mh,
 \0 hai bisogno di aiuto?"
-"100_a","Spendere i punti."
-"100_b","Niente, non importa."
+"100_a","(\0촀\0Usare i punti."
+"100_b","(\0촀\0Niente, non importa."
 "101","(%촀\0La prossima \0Insettomania \0￿è 2\0 \0Z#촀\0￿.
 \0 Spero che parteciperai
 a questo evento fenomenale!"
@@ -813,6 +826,46 @@ bonus di sfida!
 hai preso e tutti i bonusn\0\0 (촀\0Accidenti!
 \0
 (촀\0Fa \0Z punti\0￿!"
+"151","(%촀\0Con il tuo retino supersonico hai già
+catturato la bellezza di \0Z insetti\0￿.
+\0(
+(촀\0Davvero niente male!
+()촀\0Solo che la \0gabbia degli insetti\0￿ non
+può contenerne più di 20 alla volta.
+
+\0('촀\0Sai, non è sicuron\0\0
+(4촀\0Ecco perché mi sono preso la libertà
+di lasciarne andare un po'.
+\0 Gli insetti
+e il mondo te ne saranno grati!
+(%촀\0Non preoccuparti, peròn\0\0 Avrai ciò
+che ti spetta.\0\0(
+촀\0Allora, sono \0Z punti\0￿, 
+\0più un bonus
+per aver catturato più di \0Z insetti\0￿n\0\0
+\0
+(:촀\0fa un totale di \0Z punti\0￿!"
+"152","(%촀\0Con il tuo retino supersonico hai già
+catturato la bellezza di \0Z insetti\0￿.
+\0(
+(촀\0Davvero niente male!
+()촀\0Solo che la \0gabbia degli insetti\0￿ non
+può contenerne più di 20 alla volta.
+
+\0('촀\0Sai, non è sicuron\0\0
+(4촀\0Ecco perché mi sono preso la libertà
+di lasciarne andare un po'.
+\0 Gli insetti
+e il mondo te ne saranno grati!
+(%촀\0Non preoccuparti, peròn\0\0 Avrai ciò
+che ti spetta.\0\0(
+촀\0Vediamo, 
+\0i partecipanti hanno
+catturato \0Z	 insetti \0￿in totalen\0\0\0\0()촀\0E questo significa che avete
+raggiunto \0il numero minimo di Z
+\0￿.\0\0(촀\0Ciò significa che avete diritto
+a un bonus per cui totalizzaten\0\0
+\0Z punti\0￿!"
 "160","()촀\0La \0gabbia degli insetti\0￿ contiene tutti
 quelli che hai preso e si trova vicino
 al gazebo. (1촀\0Segui le vibrazionin\0\0
@@ -901,10 +954,11 @@ finalmente pupen\0\0
 (촀\0Si comincia alle ore \0Z%촀\0￿.\0\0Fino ad allora, cerca di restare nella
 pelle per l'emozione! Non è ancora
 arrivata l'ora della muta!"
-"170","( 촀\0Allora, ti è piaciuta l'\0insettomania\0￿
-di oggi? 
-\0Ti senti spiritualmente
-arricchit2oa?"
+"170","(
+촀\0Mmmhn\0\0
+\0 Quest'\0Insettomania \0￿(%촀\0è
+stata un vero inno alla bellezza
+delle nostre care bestioline!"
 "171","( 촀\0Ciao!
 \0 Vuoi partecipare a un round
 dell'\0Insettomania\0￿?

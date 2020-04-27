@@ -3,25 +3,23 @@
 tout sur 2\0
 }촀.\0\0(%촀\0Ce sont des insectes incroyables.
 ('촀\0Et rapides, aussin\0\0 Malgré tous mes
-efforts,(촀\0 impossible d'en attraper 2촀unune\0."
-"003_a","Laisse-moi t'aider!"
+efforts,(촀\0 impossible d'en attraper 2촀unune\0."
+"003_a","(\0촀\0Laisse-moi t'aider!"
 "003_b","(\0촀\0Courage!"
 "004","()촀\0Je m'intéresse aux insectes rares,
-et j'aimerais jeter un œil à 2\0
-}촀.
-(촀\0Mais je n'arrive pas à en trouver
+et j'aimerais jeter un œil à 2\0}촀.\0\0(촀\0Mais je n'arrive pas à en trouver
 un spécimen vivantn"
-"004_a","Je peux t'aider?"
+"004_a","(\0촀\0Je peux t'aider?"
 "004_b","(\0촀\0N'abandonne pas!"
 "008","()촀\0En feuilletant une encyclopédie des poissons, j'ai découvert 2\0}촀.\0\0(%촀\0Quelle créature magnifique, mais si
 (촀\0rare sous nos latitudes. (촀\0J'aimerais
-tant en attraper 2촀unune\0!"
+tant en attraper 2촀unune\0!"
 "008_a","Je m'en charge!"
 "008_b","(\0촀\0Tu dois persister!"
-"009","()촀\02\02\0}촀, tu connais? C'est un poisson que j'ai découvert récemment.\0\0(촀\0Depuis, je rêve d'en voir 2촀unune\0 en
+"009","()촀\02\02\0}촀, tu connais? C'est un poisson que j'ai découvert récemment.\0\0(촀\0Depuis, je rêve d'en voir 2촀unune\0 en
 vrain\0\0 (촀\0mais impossible d'en
-attraper 2촀unune\0 avec ma canne."
-"009_a","Un coup de main?"
+attraper 2촀unune\0 avec ma canne."
+"009_a","(\0촀\0Un coup de main?"
 "009_b","(\0촀\0Essaie encore."
 "011","(촀\0Oh, merci infiniment! (촀\0Je suis de tout
 cœur avec toi."
@@ -62,9 +60,7 @@ incroyable!
 (1촀\0Je rêve d'en voir un les faire claquer
 sous mes yeux, (촀\0mais ils décampent
 tous dès que j'approche.
-(촀\0Bref, je n'arrive pas à en attraper.\0\0(4촀\02\0n\0, pourrais-je te
-charger ($촀\0d'attraper un lucane pour
-moi, s'il te plaît?"
+(촀\0Bref, je n'arrive pas à en attraper.\0\0(4촀\02\0n\0, pourrais-je te charger ($촀\0d'attraper un lucane pour moi, s'il te plaît?"
 "022_a","Je m'en occupe!
 OK!
 Bien sûr!"
@@ -75,16 +71,14 @@ Malheureusement non."
 C'est un peu le hit de chaque été!\0\0()촀\0J'ai bien essayé d'en attraper une
 pour qu'elle m'apprenne son chant,
 (촀\0mais aucune ne se laisse approcher.
-(4촀\0Dis, n\0, tu penses
-pouvoir en attraper une pour moi?"
+(4촀\0Dis, n\0, tu penses pouvoir en attraper une pour moi?"
 "023_a","Je m'en occupe!
 OK!
 Bien sûr!"
 "023_b","Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
-"025","(4촀\02\0n\0, j'ai un service
-à te demandern\0\0\0\0()촀\0Je m'entraîne à fabriquer des
+"025","(4촀\02\0n\0, j'ai un service à te demandern\0\0\0\0()촀\0Je m'entraîne à fabriquer des
 sculptures en sucre, pour orner
 des gâteaux. \0\0(1촀\0Je veux faire un papillon en sucre, et
 je dois d'abord dessiner un croquis
@@ -124,10 +118,8 @@ de plus près,
 \0(촀\0 mais ils sont bien trop
 rapides pour moi.
 (4촀\02\0n\0, 
-\0si tu vois un
-insecte sur une fleur, 
-\0($촀\0tu veux bien
-l'attraper et venir me le montrer?"
+\0si tu vois un insecte sur une fleur, 
+\0($촀\0tu veux bien l'attraper et venir me le montrer?"
 "027_a","Je m'en occupe!
 OK!
 Bien sûr!"
@@ -142,10 +134,8 @@ trouvent,
 \0 ces souches? (
 촀\0Peut-être en
 les sentant avec leurs antennes?\0\0(%촀\0Il faut que je le sache.\0\0(4촀\02\0n\0,
-\0 si tu vois un
-insecte sur une souche,
-\0($촀\0 ça te
-dérangerait de me l'apporter?"
+\0 si tu vois un insecte sur une souche,
+\0($촀\0 ça te dérangerait de me l'apporter?"
 "028_a","Je m'en occupe!
 OK!
 Bien sûr!"
@@ -194,8 +184,7 @@ alors voilàn\0\0 (8촀\0Tu peux attraper
 "101_a","Sans problème!"
 "101_b","J'ai pas le temps."
 "102","( 촀\0Aide-moi, n\0!(9촀\0
-Je dois absolument trouver (촀\02\0
-}촀n"
+Je dois absolument trouver (촀\02\0}촀n"
 "102_a","N'en dis pas plus!"
 "102_b","(\0촀\0Bon courage..."
 "103","(촀\0Merci, n\0!
@@ -216,14 +205,13 @@ je vais persévérer."
 (%촀\0Tu es meilleur2\0e pêcheu2
 rse que moi,
 (4촀\0alors il faut que je te demanden\0\0
-(8촀\0Tu te sens capable de pêcher 2\0
-}촀? Il m'en faudrait absolument 2촀unune\0..."
+(8촀\0Tu te sens capable de pêcher 2\0}촀? Il m'en faudrait absolument 2촀unune\0..."
 "201_a","OK, bouge pas!"
 "201_b","J'ai pas le temps."
 "202","( 촀\02\0n\0! Tu aurais deux minutes?(9촀\0 J'ai du mal à attraper (촀\02\0}촀n"
-"202_a","Laisse-moi faire!"
+"202_a","(\0촀\0Laisse-moi faire!"
 "202_b","(\0촀\0Persévère!"
-"203","(촀\0Tu es 2lela meilleur2\0e, n\0! (촀\0Si quelqu'un peut en attraper 2촀unune\0, (촀\0c'est toi."
+"203","(촀\0Tu es 2lela meilleur2\0e, n\0! (촀\0Si quelqu'un peut en attraper 2촀unune\0, (촀\0c'est toi."
 "204","(9촀\0Je comprends,
 \0 désolée d'avoir
 demandé. (촀\0Je suis sûre que tu

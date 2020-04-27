@@ -1,11 +1,11 @@
 ﻿"label","text"
 "001","Wil je met mij(촀\0 op schattenjacht gaan?"
 "001_a","Tuurlijk!"
-"001_b","Een andere keer..."
+"001_b","(\0촀\0Een andere keer..."
 "002","Hoe zou je het vinden om (촀\0met mij
 op schattenjacht te gaan?"
 "002_a","Klinkt leuk!"
-"002_b","Een andere keer?"
+"002_b","(\0촀\0Een andere keer?"
 "003","(촀\0Ik heb een idee! Heb je zin (촀\0om op
 schattenjacht te gaan?"
 "003_a","Uitstekend idee!"
@@ -44,8 +44,7 @@ hoeft niet in gebouwen te zoeken.
 Z\0\0\0(촀\0Laten we dan maar eens aanstalten
 maken,
 \0 n\0!
-Z\0
-"
+Z"
 "011_01","(촀\0Ik zal de regels even uitleggen.
 Z\0\0\0()촀\0Ik heb ergens op dit eiland
 \0 een schat begraven.
@@ -108,7 +107,8 @@ voor de start
 \0 n\0!
 Z"
 "014_01","(9촀\0Oké,
-\0 maar je vrienden mogen je alleen aanmoedigen, niet helpen!
+\0 maar je vrienden mogen je
+alleen aanmoedigen, niet helpen!
 \0
 (\0촀\0Klaar voor de start
 \0n\0\0($촀\0 af!

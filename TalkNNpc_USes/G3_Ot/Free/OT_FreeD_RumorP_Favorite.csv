@@ -108,8 +108,8 @@ gusta
 gusta\0gustangustan\0 촀.
 
 \0(7촀\0Espero no haber revelado muchon\0\0\0\0(촀\0Por lo menos no dije que además
-te dedicabas a coleccionar algun2 촀oa\0
-que otr2 촀oa\0 (6촀\0촀."
+te dedicabas a coleccionar algun2!촀oa\0
+que otr2!촀oa\0 (6촀\0촀."
 "011_05","(촀\0Aplaudo tu entusiasmo, cielo.
 \0
 2UnoUna tiene que conocer sus
@@ -122,7 +122,7 @@ gente con talento que conocen\0\0\0\0()촀\0Y le dije:
 (5촀\0Si 2촀élella\0 hace alarde de algo,
 \0
 yo también puedo, 
-\0¿o no?(촀"
+\0¿o no?"
 "011_101","Me alegro,
 \0 ()촀\0porque hace poco salió
 el tema de tus gustos mientras
@@ -151,15 +151,16 @@ y le conté la tuya,
 촀"".\0\0(;촀\0Si me llegas a decir que es mentira,
 \0
 (촀\0se me cae la cara de vergüenza, n\0."
-"011_104","()촀\0Me alegro, porque le mencioné a n촀 cuánto te gusta eso,
-\0 ""
-촀"".\0\0(4촀\0Espero no haber contado mucho
+"011_104","()촀\0Me alegro, porque le mencioné a n촀 cuánto te gusta
+eso,
+\0 ""⁠
+촀⁠"".\0\0(4촀\0Espero no haber contado mucho
 sobre tin\0\0
 \0 (7촀\0Ya sabes que a veces se
 me va un poco la lengua.
 (촀\0Por lo menos no dije que además
-te dedicabas a coleccionar algun2 촀oa\0
-que otr2 촀oa\0 (6촀\0촀."
+te dedicabas a coleccionar algun2!촀oa\0
+que otr2!촀oa\0 (6촀\0촀."
 "011_105","(촀\0Aplaudo tu entusiasmo,
 \0 cielo.
 \0
@@ -169,7 +170,7 @@ habilidades y tenerse confianza.
 \0 (촀\0Y yo dije que
 ('촀\0nada es tan ""tú""
 \0 como
-(촀\0""
+""
 촀"".
 (5촀\0Conozco bien a mis 2amigosamigas y también me gusta alardear un poco, (촀\0n\0."
 "020","(8촀\0Me llegó un rumor sobre ti,
@@ -258,7 +259,7 @@ Yo también adoro 2\0촀.\0\0(5촀\0No todo el mundo posee un paladar
 tan refinado como el nuestro, n\0."
 "031_03","(촀\0Qué bonita vocación, encanto.
 \0
-(촀\0Espero que puedas cumplir tu deseo
+Espero que puedas cumplir tu deseo
 de ser 촀.
 (촀\0A mí también me hubiera gustado,
 \0
@@ -279,7 +280,7 @@ personalidad, n\0."
 (
 촀\0Yo también disfruto muchísimo conn\0\0
 \0
-(%촀\0""
+""
 촀"", sí.
 (촀\0Deberíamos compartir sugerencias
 y recomendaciones, n\0."
@@ -291,7 +292,7 @@ tan refinado como el nuestro, n\0."
 "031_103","(촀\0""2\0
 촀"",
 \0 qué bonita vocación.
-\0 (촀\0Espero que puedas cumplir tu deseo.\0\0(촀\0A mí también me hubiera gustado,
+\0 Espero que puedas cumplir tu deseo.\0\0(촀\0A mí también me hubiera gustado,
 \0
 pero dediqué (7촀\0demasiadas horas
 a ver telenovelas, n\0."
@@ -465,8 +466,7 @@ Rebobina"
 sigue
 sigue\0siguensiguen\0 gustando
 촀.
-\0 (
-촀\0Igual que antes.
+\0 Igual que antes.
 \0 ¿No habías dichon\0\0
 \0?
 \0 (촀\0Olvídalo."
@@ -484,11 +484,11 @@ sigue\0siguensiguen\0 gustando
 "060_103","(촀\0¿""2\0
 촀""?
 \0 (촀\0Entonces sigues teniendo la misma aspiración.
-\0 (7촀\0¿Por qué me mareas?"
+\0 ¿Por qué me mareas?"
 "060_104","(촀\0¿""2\0⁠
 촀⁠""⁠?
 \0 (촀\0Eso es lo que dijiste antes.
-\0 (촀\0Me mareas."
+\0 Me mareas."
 "060_105","(&촀\0¿""2\0
 촀""?
 \0 ¿No es lo mismo que dijiste antes?
@@ -721,7 +721,7 @@ leer?"
 "102_03_e","No leo cómics"
 "102_04","(%촀\0Así que te gusta el séptimo arte.
 \0
-(촀\0Me encanta que desarrolles tus
+Me encanta que desarrolles tus
 inquietudes.
 \0 (촀\0¿Y qué cine te gusta?"
 "102_04_a","Las películas de terror"
@@ -756,11 +756,8 @@ favorita en este momento?"
 "102_07_c","Los licuados de frutas"
 "102_07_d","Otra cosa"
 "102_07_e","No tengo una favorita"
-"102_08","(6촀\0Me parecía extraño que no te gustara
-ninguna comida.
-\0 (촀\0Pero dime,
-\0 ¿cuál es
-tu favorita?"
+"102_08","(6촀\0Entonces cuéntame,
+\0 (촀\0¿cuál es tu comida favorita ahora?"
 "102_08_a","La pasta"
 "102_08_b","El sushi"
 "102_08_c","El yogur con fruta"
@@ -964,9 +961,7 @@ en la vida real, n\0."
 "104_05","(촀\0¡Por supuesto!
 \0 Tú eres 2(un hombreuna mujer
 de mundo.\0\0()촀\0Esos programas dan unas ganas
-terribles de viajar,
-¿no te parece?
-(촀\0Tenemos suerte de vivir en una isla
+terribles de viajar, ¿no te parece?\0\0(촀\0Tenemos suerte de vivir en una isla
 con \0aeródromo \0￿propio.
 \0 (6촀\0Y con señal
 de televisión, n\0."
@@ -1151,8 +1146,8 @@ perfeccionista, n\0."
 (3촀\0son verbales, n\0."
 "106_01","(&촀\0¿""2\0⁠
 촀⁠""⁠, dijiste?
-\0 ¿Está de moda ahora?
-\0 (촀\0No tenía ni idean\0\0\0\0(
+\0 ¿Eso está de moda?
+\0 (촀\0No tenía ni idea.\0\0(
 촀\0Si tanto te gusta,
 \0 espero que (촀\0me
 recomiendes algún álbum, n\0."
@@ -1250,8 +1245,7 @@ poca gente se lo toma literalmente.
 \0 es utilísimo para ampliar
 tu vocabulario,
 \0 conocer otros puntos de vistan\0\0(촀\0
-\0 y distraerse.
-(
+\0 y distraerse.\0\0(
 촀\0Aunque supongo que, si no te gusta
 leer,
 \0 habrá otras maneras de lograr
@@ -1261,7 +1255,7 @@ esos objetivosn\0\0
 como una manzana
 \0 (8촀\0en cuerpo
 sanon\0\0
-\0 (&촀\0¿como un manzano?"".
+\0 ¿como un manzano?"".
 (7촀\0¿Ves?
 \0 Tengo que leer más, n\0."
 "107_03","()촀\0Ah, ¿no te gustan?
@@ -1327,7 +1321,7 @@ salga bien de manera natural.
 (4촀\0Pero tranquil2oa,
 \0 no te voy a presionar.
 \0
-Quizás no hayas descubierto todavía 
+Quizás no hayas descubierto todavía
 tus talentos
 \0 o no los quieras contarn\0\0
 (촀\0Ya me lo dirás cuando estés list2oa,

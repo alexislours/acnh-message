@@ -1,9 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Eh, p'tite question : (;촀\0t'as l'intention
-d'passer chez s촀
-un d'ces quatre?
-(7촀\0J'faisais l'ménage dans mes pénates
-et chuis tombée sur un truc qu'2촀ilelle\0
+d'passer chez s촀 un d'ces quatre?\0\0(7촀\0J'faisais l'ménage dans mes pénates
+et chuis tombée sur un truc qu'2촀ilelle\0
 m'avait prêté y a très longtemps.
 (9촀\0Depuis l'temps, j'ai un peu honte de
 le lui rapporter moi-même. Tu veux
@@ -65,29 +63,23 @@ j'vais lui rapporter, qu'on en finisse."
 
 \0(6촀\0J'pensais justement à te d'mander
 de l'aide pour un p'tit service.
-(2촀\0Après toi, s촀 est
-m2
+(2촀\0Après toi, s촀 est m2
 ona meilleur2\0e ami2\0e.
-\0 Du coup,
-j'voudrais lui faire un cadeau.
-(9촀\0Mais si j'débarque avec un cadeau
+\0 Du coup, j'voudrais lui faire un cadeau.\0\0(9촀\0Mais si j'débarque avec un cadeau
 comme ça, sans prévenir, ça va être
 bizarren\0\0 (촀\0Et c'est là qu't'interviens!"
 "101_a","OK, je m'en occupe."
 "101_b","(\0촁\0Je peux pas."
-"102","(촀\0Eh, n\0, t'aurais un
-p'tit moment?\0\0(*촀\0J'me suis pris la tête pour rien
+"102","(촀\0Eh, n\0, t'aurais un p'tit moment?\0\0(*촀\0J'me suis pris la tête pour rien
 avec s촀.
-\0 J'ai même
-pas envie d'expliquer pourquoi.
-(\0촀\0Alors j'essaie d'rattraper l'coup en
+\0 J'ai même pas envie d'expliquer pourquoi.\0\0(\0촀\0Alors j'essaie d'rattraper l'coup en
 donnant un cadeaun\0\0 (4촀\0Mais j'ai
 peur d'être accueillie à coups d'balai.
 (;촀\0Du coup, j'ai pensé, pis j'me suis dit
 quen\0\0 tu pourrais p'têt le lui apporter
 pour moi?"
 "102_a","Avec plaisir!"
-"102_b","C'est à toi de le faire."
+"102_b","(\0촀\0C'est à toi de le faire."
 "103","(촀\0Voilà la réponse que j'attendais!
 \0
 (촀\0Tiens, il faut rapporter ça à
@@ -134,15 +126,13 @@ la lui ramener.
 \0(촀\0 Merci!"
 "202","(촀\0Faudrait rapporter à cette tête de
 linotte 2
-de d'⁠⁠s촀 ce
-qu'2ilelle a oublié chez moi.\0\0(촀\0Désolée de t'enquiquiner avec ça,
+de d'⁠⁠s촀 ce qu'2ilelle a oublié chez moi.\0\0(촀\0Désolée de t'enquiquiner avec ça,
 mais j'sais que j'peux compter sur
 toi, n\0."
 "203","((촀\0Ce colis a rien à faire chez moi.
 \0 Faut
 le livrer à s촀.
-\0(촀\0 Merci
-pour le coup de patte!"
+\0(촀\0 Merci pour le coup de patte!"
 "204","()촀\0C'est pas juste un paquet que j'te
 confie. 
 \0C'est l'témoignage de mon
@@ -155,7 +145,5 @@ sous cet emballage cadeau!
 plus qu'un p'tit cadeau venu de
 mon grand cœurn\0\0
 (촀\0Est-ce 2
-que qu'⁠s촀 et
-moi, on sera toujours amis demain?
-\0
-Tout dépend d'toi, n\0!"
+que qu'⁠s촀 et moi, on sera toujours amis demain?
+\0 Tout dépend d'toi, n\0!"

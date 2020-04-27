@@ -89,7 +89,7 @@ löschen, 
 \0(촀\0dann ziehn wir das durch!"
 "011","(촀\0Dein Wunsch ist mir Befehl, 
 \0yo!"
-"012","(5촀\02촀EinEineEin original
+"012","(5촀\02촀EinEineEin original
 \0( (촀\0}\0.
 \0
 (""촀\0Exklusiv erhältlich bei \0Lomeus\0￿, 
@@ -429,7 +429,7 @@ möchtest, 
 ein paar Sternis springen lassen."
 "049_a","Fische verkaufen!"
 "049_b","Punkte eintauschen!"
-"049_c","Andere Frage..."
+"049_c","Zum Turnier..."
 "049_d","('촀\0Nee, doch nichts."
 "050","(촀\0Wunderbarsch!
 \0 Dann zeig mir mal,
@@ -444,7 +444,7 @@ was du an Land gezogen hast!"
 "051_b","('촀\0Dann doch nicht."
 "052","(촀\02\02\0}\0?
 \0(\0촀\0
-(%촀\02đ촀DenDieDas würde ich dir für
+(%촀\02Ē촀DenDieDas würde ich dir für
 Z abkaufen.
 \0 (&촀\0Yo?"
 "052_a","Abgemacht!"
@@ -480,22 +480,24 @@ da nicht was ganz Essenzielles?
 \0Angelturnier\0￿ teilzunehmen.
 \0 (촀\0Ich hab
 leider keine für dich übrig."
-"061","(촀\0Gebiberbongt!
-\0
-n\0\0( 촀\0Aber, 
+"061","n\0\0( 촀\0Aber, 
 \0Momentchen mal.
-\0 (9촀\0Sieht aus,
-
-\0als wärst du nicht flüssig.
-(7촀\0Ab dem zweiten Durchgang kostet
-die Teilnahme Z.
-\0 (촀\0Da kann
-ich leider keine Ausnahmen machen."
-"062","(촀\0YO! 
-\0Das wollte ich hören!
-\0
-(%촀\0Dann müsste ich zuerst einmal
-Z von dir kassieren."
+\0 (9촀\0Sieht
+aus, 
+\0als wärst du nicht flüssig.\0\0($촀\0Sag Ahoi, 
+\0wenn du die Z
+zusammengekratzt hast!"
+"062","(촀\0Gebiberbongt!\0\0(7촀\0Ab dem zweiten Durchgang
+kostet die Teilnahme allerdings
+Z. 
+\0($촀\0Okay für dich?"
+"062_01","(촀\0YO! 
+\0So muss das sein!
+\0
+(%촀\0Dann lass mal die Z
+rüberschwappen!"
+"062_a","(%촀\0Abgemacht!"
+"062_b","('촀\0Dann doch nicht."
 "063","(촀\0Dann hast du ab jetzt genau
 \0Z\0 Minuten\0￿,
 \0 um zu angeln, 
@@ -524,8 +526,7 @@ gleichen Zeit los.
 \0So muss das sein!"
 "066","( 촀\0Oh, 
 \0abern\0\0
-\0 (9촀\0s\0촀 hat in 2 
-촀seiner
+\0 (9촀\0s\0촀 hat in 2 촀seiner
 ihrer\0 \0Kühlbox\0￿ noch was drin.\0\0('촀\0Solange eure \0Kühlboxen\0￿ nicht alle
 leer sind, 
 \0kann die nächste Runde
@@ -897,8 +898,8 @@ FischFische
 \0( 촀\0Oh, 
 \0dann kommt noch der
 Einzelbonus für \0(촀\0Z oder mehr\0￿ dazu!"
-"151","(%촀\0Die kommen dann also zu deinen
-bisherigen Punkten dazun"
+"151","(%촀\0Die wandern dann mal direkt
+in deinen Punkte-Vorratn"
 "152","(촀\0Yooo!
 \0 Schön, 
 \0dass du mir auch
@@ -925,7 +926,58 @@ wertige Souvenirs eintauschen!
 (촀\0Also hau rein! 
 \0Pass nur auf, 
 \0(촀\0dass
-es kein Griff ins Wasser wird!"
+es kein Schlag ins Wasser wird!"
+"156","Mal sehenn\0\0
+\0 \0Z 2*ࠀFische
+FischFische \0￿sind in die
+\0Kühlbox \0￿gewandert.
+\0 (촀\0Das nenn ich
+Ködergold!"
+"156_01","( 촀\0Hör mal. 
+\0Die \0Kühlbox \0￿ist ein kleiner
+Kutter.
+\0( (%촀\0Mit mehr als 20 Fisch
+Besatzung kriegt sie Schlagseite.\0\0(6촀\0Deshalb hab ich die überschüssigen
+über die Planke gehen lassen. 
+\0Keine
+Angst, 
+\0denen geht's gut!\0\0()촀\0Und du kriegst natürlich auch die
+Punkte, 
+\0die dir zustehen, 
+\0also
+nimm's mir bitte nicht krumm, 
+\0yo!"
+"157","(촀\0Zu 2,ࠀdeinendeinemdeinen stinknormalen \0Z 2.ࠀPunkten
+PunktPunkten
+\0￿kommt noch ein Bonus für \0Z oder
+mehr \0￿Exemplare.\0\0(9촀\0Oh, 
+\0und alle Teilnehmer zusammen
+habenn\0\0
+\0(%촀\0 \0Z	 2*ऀFische
+FischFische\0￿ an Land
+gezogen.\0\0(촀\0Das sind \0Z
+ oder mehr\0￿, 
+\0also gibt es
+noch einen Bonus für die fleißigen
+Fischerfreunde obendrauf!"
+"158","(%촀\0Zu 2,ࠀdeinendeinemdeinen stinknormalen \0Z 2.ࠀPunkten
+PunktPunkten
+\0￿kommt (촀\0noch ein Bonus für \0Z oder
+mehr \0￿Exemplare."
+"159","(촀\0Yooo!
+\0 Schön, 
+\0dass du mir auch
+mal wieder ins Netz gehst!\0\0(촀\0
+\0Dein Lieblingsbiber und
+netzbekannter Anglerguru \0Lomeus
+\0￿hat dich schon vermisst!\0\0( 촀\0Moment maln\0\0
+\0 Hast du etwa schon
+(&촀\0am \0Angelturnier\0￿ teilgenommen?\0\0(촀\0Yooo! 
+\0Du scheinst mir schon eine
+Nase voraus zu sein. 
+\0Und, 
+\0hast du
+viel gefangen?"
 "160","(%촀\0Alles, was du in einer Runde des
 Turniers an Land ziehst,
 \0 landet in
@@ -1011,10 +1063,10 @@ teilgenommen hast,
 \0
 (&촀\0Nehmt ihr am \0Angelturnier\0￿ teil
 oder nicht?
-(\0촀\0Da du das erste Mal als \0Anführer\0￿
-mitmachst,
-\0 (촀\0entfällt für dich die
-Teilnahmegebühr!"
+(\0촀\0Da du heute das erste Mal als
+\0Anführer \0￿mitmachst,
+\0 (촀\0entfällt für
+dich die Teilnahmegebühr!"
 "166_a","Wir machen mit!"
 "166_b","('촀\0Nein, danke."
 "167","Also, 
@@ -1022,10 +1074,10 @@ Teilnahmegebühr!"
 \0
 (&촀\0Nehmt ihr am \0Angelturnier\0￿ teil
 oder nicht?
-(\0촀\0Da du das erste Mal als \0Anführer\0￿
-mitmachst,
-\0 (촀\0entfällt für dich die
-Teilnahmegebühr!"
+(\0촀\0Da du heute das erste Mal als
+\0Anführer \0￿mitmachst,
+\0 (촀\0entfällt für
+dich die Teilnahmegebühr!"
 "167_a","Wir machen mit!"
 "167_b","Wie sind die Regeln?"
 "167_c","Punkte eintauschen!"
@@ -1067,10 +1119,10 @@ mal bis zum nächsten!"
 "171","(촀\0Yo, 
 \0wie sieht's aus?
 \0(
-(&촀\0Macht ihr beim \0Angelturnier\0￿ mit?\0\0(\0촀\0Da du das erste Mal als \0Anführer\0￿
-mitmachst,
-\0 (촀\0entfällt für dich die
-Teilnahmegebühr!"
+(&촀\0Macht ihr beim \0Angelturnier\0￿ mit?\0\0(\0촀\0Da du heute das erste Mal als
+\0Anführer \0￿mitmachst,
+\0 (촀\0entfällt für
+dich die Teilnahmegebühr!"
 "171_a","Wir machen mit!"
 "171_b","Wie sind die Regeln?"
 "171_c","Punkte eintauschen!"

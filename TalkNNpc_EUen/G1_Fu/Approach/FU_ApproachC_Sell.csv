@@ -3,14 +3,14 @@
 \0
 (4촀\0but could I convince you
 \0 to buy
-2\0}\0\0?"
+my }\0\0?"
 "001_a","(\0촀\0Sure."
 "001_b","Don't need any, sorry."
 "002","(촀\0Is it possible you'd be willing to buy
 \0
 2\0}\0\0?"
 "002_a","(\0촀\0I guess."
-"002_b","I...don't need any."
+"002_b","I'm...not interested."
 "003","(촀\0Oh,
 \0 n\0!(\0촀\0\0\0()촀\0Here's the thing.
 \0 A new volume of
@@ -20,13 +20,13 @@ my favorite series just came out,
 \0n\0\0
 (
 촀\0I thought I could sell a few things
-I don't need to earn the money,
+I don't need to earn some money,
 \0
-and (%촀\0these four are what I have.
-(4촀\0Would you consider buying
-four things from me?
-\0 (촀\0I really
-want to read that book!"
+and (%촀\0there are four I can part with.
+(4촀\0Would you consider buying my
+things?
+\0 (촀\0I really want to read that
+book, n\0!"
 "003_a","Sure!"
 "003_b","Sorry, can't help you."
 "004","(촀\0Oh, n\0
@@ -53,7 +53,7 @@ just ask around,
 \0n\0\0(\0촀\0 I'm sure I can find
 (촀\0somebody around here
 \0 who will
-want this,
+be interested,
 \0 n\0."
 "007","('촀\0I understand.
 \0 (촀\0Still,

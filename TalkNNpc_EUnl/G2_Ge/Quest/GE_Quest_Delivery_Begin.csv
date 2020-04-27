@@ -15,7 +15,7 @@ dus het is nu 
 terug te geven?
 \0 (7촀\0Kun je me helpen?"
 "001_a","Ik los het wel op."
-"001_b","Je moet het zelf doen."
+"001_b","(\0촀\0Je moet het zelf doen."
 "002","()촀\0Je kent s촀 toch? Nou, 2hijze was een tijdje geleden bij mij op bezoekn\0\0\0\0(촀\0We hadden 
 \0echt
 \0 zoveel
@@ -30,7 +30,7 @@ nu?
 
 \0Kun jij het misschien terugbrengen?"
 "002_a","Zeker weten!"
-"002_b","Ik heb het superdrukker!"
+"002_b","(\0촀\0Ik heb het superdrukker!"
 "003","(촀\0Sjeempie, moet je horen!
 \0 (촀\0Er is per ongeluk een pakketje voor s촀 bij mij bezorgd!\0\0(	촀\0Ik dacht eerst dat het voor mij was,
 
@@ -44,7 +44,7 @@ toen ik zag dat het niet zo was, (\0촀\0(촀\0hè?
 \02\0n\0, alsjeblieft! 
 \0Kun jij het naar 2hemhaar brengen?"
 "003_a","Geen probleem!"
-"003_b","Hahaha... Nee."
+"003_b","Eh... Nee."
 "004","(촀\0Echt waar?!
 \0< (촀\0Je bent 
 \0let

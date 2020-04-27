@@ -1,15 +1,13 @@
 ﻿"label","text"
 "001_01","(촀\0Tu savais que niveau 촀, s\0촀 est plutôt 촀 ?"
-"001_01_a","Je le savais.
+"001_01_a","(\0촀\0Je le savais.
 Bien sûr."
 "001_01_b","(\0촀\0Vraiment ?
 (\0촀\0Ah bon ?"
 "001_02","(촀\0Je pensais pas 2
 que qu'⁠s\0촀 aimait autant 2\0촀 !"
-"001_02_a","2
-촀IlElle\0 en raffole.
-2
-촀IlElle\0 adore ça."
+"001_02_a","2촀IlElle\0 en raffole.
+2촀IlElle\0 adore ça."
 "001_02_b","(\0촀\0Tu en es sûre ?
 (\0촀\0Vraiment ?"
 "001_03","(촀\0Tu savais 2
@@ -25,19 +23,15 @@ J'y crois."
 "001_04_b","(\0촀\0Vraiment ?
 (\0촀\0Ça m'étonne."
 "001_05","()촀\0Tu savais 2
-que qu'⁠s\0촀 était 2
-촀unune\0 crack pour 촀 ?"
-"001_05_a","Oui, 2
-촀ilelle\0 assure.
-C'est 2*
-촀un vraiune vraie\0 pro."
+que qu'⁠s\0촀 était 2촀unune\0 crack pour 촀 ?"
+"001_05_a","Oui, 2촀ilelle\0 assure.
+C'est 2*촀un vraiune vraie\0 pro."
 "001_05_b","(\0촀\0Tu me charries ?
 (\0촀\0Tu en es sûre ?"
 "001_101","(;촀\0Tu sais ce 2
 que qu'⁠s\0촀 kiffe niveau 촀 ?\0\0(\0촀\0« 2\0
 촀. »
-\0( (%촀\0C'est texto ce qu'2
-촀ilelle\0 a dit."
+\0( (%촀\0C'est texto ce qu'2촀ilelle\0 a dit."
 "001_101_a","J'étais au courant.
 Je confirme."
 "001_101_b","(\0촀\0C'est dingue...
@@ -51,20 +45,19 @@ C'est ce qui se dit."
 (\0촀\0Pour de vrai ?"
 "001_103","(촀\0Tu savais 2
 que qu'⁠s\0촀 se verrait bien en « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "001_103_a","Carrément !
 Bien sûr !"
 "001_103_b","Ah non...
 (\0촀\0J'apprends un truc."
 "001_104","(촀\0Il paraît 2
-que qu'⁠s\0촀 aime bien « ⁠촀 ». T'y crois, toi ?"
+que qu'⁠s\0촀 aime bien « ⁠촀 ⁠». T'y crois, toi ?"
 "001_104_a","(\0촀\0C'est pas étonnant.
 C'est la vérité."
 "001_104_b","(\0촀\0Pour de vrai ?
 (\0촀\0Incroyable..."
 "001_105","()촀\0Tu savais 2
-que qu'⁠s\0촀 était 2
-촀unune\0 crack pour « ⁠촀 » ?"
+que qu'⁠s\0촀 était 2촀unune\0 crack pour « ⁠촀 ⁠» ?"
 "001_105_a","J'étais au courant.
 Je le savais."
 "001_105_b","Je l'ignorais.
@@ -91,8 +84,7 @@ Y paraît, ouais."
 (\0촀\0Ah bon ?"
 "010_04","(촀\02\0s\0촀 regarde jamais de films à ce qu'y paraît.
 \0( Ça te semble pas dingue, n\0 ?"
-"010_04_a","(\0촀\02
-촀IlElle\0 est comme ça.
+"010_04_a","(\0촀\02촀IlElle\0 est comme ça.
 (\0촀\0C'est pas si fou."
 "010_04_b","(\0촀\0J'ai du mal à le croire.
 (\0촀\0C'est vraiment vrai ?"
@@ -128,16 +120,13 @@ J'étais au courant."
 J'ai la même info."
 "010_09_b","(\0촀\0T'es sûre de toi ?
 (\0촀\0Ah ? Vraiment ?"
-"010_10","(9촀\02\0s\0촀 aurait dit un truc comme quoi 2
-촀ilelle\0 a que dalle comme hobby.
+"010_10","(9촀\02\0s\0촀 aurait dit un truc comme quoi 2촀ilelle\0 a que dalle comme hobby.
 \0((&촀\0 T'y crois, n\0 ?"
 "010_10_a","Oui, il paraît.
 C'est la vérité."
 "010_10_b","J'y crois pas.
-Ça m'étonne."
-"010_11","()촀\02\0s\0촀 prétend qu'2
-촀ilelle\0 est doué2
-촀\0e\0 pour rien.
+(\0촀\0Ça m'étonne."
+"010_11","()촀\02\0s\0촀 prétend qu'2촀ilelle\0 est doué2촀\0e\0 pour rien.
 \0((&촀\0 Tu crois qu'c'est vrai, n\0 ?"
 "010_11_a","C'est la vérité.
 En effet."
@@ -149,16 +138,12 @@ En effet."
 C'était juste un test pour voir si tu
 connais bien tes potes.
 \0( Hum."
-"021","(%촀\0C'est 2
-촀luielle\0-même qui a craché
+"021","(%촀\0C'est 2촀luielle\0-même qui a craché
 l'morceau.
-\0( J'imagine qu'2
-촀ilelle\0
-sait de quoi 2
-촀ilelle\0 parle."
+\0( J'imagine qu'2촀ilelle\0
+sait de quoi 2촀ilelle\0 parle."
 "022","()촀\0C'est le pote d'un pote qui connaît
-quelqu'un qui dit qu'2
-촀ilelle\0 aurait dit
+quelqu'un qui dit qu'2촀ilelle\0 aurait dit
 ça.
 (%촀\0C'est forcément vrai."
 "050_01","('촀\0J'ai une question qui m'turlupine
@@ -169,8 +154,7 @@ tellement que j'arrive plus à pioncer.\0\0(&촀\0Tu sais si s\0촀 a un g
 Aucune idée."
 "050_02","(9촀\0Faut que je te d'mande un truc.
 \0(
-(&촀\0Tu saurais pas si s\0촀
-a une 촀 préférée ?"
+(&촀\0Tu saurais pas si s\0촀 a une 촀 préférée ?"
 "050_02_a","(\0촀\0C'est bien possible.
 (\0촀\0M'étonnerait pas."
 "050_02_b","J'en sais fichtre rien.
@@ -191,7 +175,7 @@ Non, j'en sais rien."
 "050_05_a","C'est possible.
 Ça se pourrait bien."
 "050_05_b","Pas la moindre idée.
-Bonne question..."
+(\0촀\0Bonne question..."
 "051","(3촀\0Toi aussi t'aimerais bien savoir,
 avoue !\0\0(;촀\0J'vais mener l'enquête discrétos.
 \0(
@@ -209,25 +193,21 @@ toujours à l'affût de nouveaux riffs !"
 "060_02","(
 촀\0Toi aussi t'es dans l'brouillard ?
 Faudra que j'lui en parle à l'occase,
-n\0.\0\0(촀\0J'espère qu'2
-촀ilelle\0 a des livres de
+n\0.\0\0(촀\0J'espère qu'2촀ilelle\0 a des livres de
 recettes, j'ai envie d'surprendre
 mes papilles avec du neuf."
 "060_03","(
 촀\0Ouais, mystère et boule de gomme.
 \0(
-Faudra qu'on cause, 2
-촀luielle\0 et moi,
-n\0.\0\0(촀\0Si ça s'trouve, 2
-촀ilelle\0 a des cases
+Faudra qu'on cause, 2촀luielle\0 et moi,
+n\0.\0\0(촀\0Si ça s'trouve, 2촀ilelle\0 a des cases
 et des cases de barres de rire !"
 "060_04","(
 촀\0Tu sais pas non plus, hein ?
 \0(
 J'me d'mande qui pourrait
 nous rencarder, n\0.
-(1촀\0J'parie qu'2
-촀ilelle\0 a des films d'action
+(1촀\0J'parie qu'2촀ilelle\0 a des films d'action
 à la pelle !
 \0( Des trucs qui s'prennent
 pas au sérieux !
@@ -235,64 +215,48 @@ pas au sérieux !
 "060_05","(
 촀\0Difficile à dire, hein ?
 \0( J'me d'mande
-si quelqu'un sait, n\0.\0\0Mais 2 
-촀s'ilsi elle\0 kiffe les émissions
+si quelqu'un sait, n\0.\0\0Mais 2 촀s'ilsi elle\0 kiffe les émissions
 d'cuisine, faudra qu'on se rencarde
-plus souvent, 2
-촀luielle\0 et moi !"
+plus souvent, 2촀luielle\0 et moi !"
 "060_06","($촀\0T'en sais rien, hein ?
 \0( Pas grave.
 \0(
 J'ai qu'à lui d'mander directos
 pour savoir, n\0.
-(%촀\0J'parie qu'2
-촀ilelle\0 kiffe le rugby.
+(%촀\0J'parie qu'2촀ilelle\0 kiffe le rugby.
 \0(촀\0 Ou alors
 la boxe !
-\0( J'2
-촀lela\0 verrais bien sur un ring
+\0( J'2촀lela\0 verrais bien sur un ring
 en train d'mettre des tatanes !"
 "060_07","()촀\0J'te d'mande ça histoire de savoir
-quoi lui filer, des fois qu'2
-촀ilelle\0 f'rait
-un tour chez moi.\0\0(촀\0Au pire, 2
-촀ilelle\0 aura c'qui y a, pis voilà.
+quoi lui filer, des fois qu'2촀ilelle\0 f'rait
+un tour chez moi.\0\0(촀\0Au pire, 2촀ilelle\0 aura c'qui y a, pis voilà.
 \0(
 (
-촀\0J'espère qu'2
-촀ilelle\0 est pas allergique
+촀\0J'espère qu'2촀ilelle\0 est pas allergique
 au sodan"
 "060_08","(촀\0En même temps, c'est pas marqué
 sur son frontn\0\0\0\0(
 촀\0Mais j'me d'mande si c'est pas plus
-utile de savoir ce qu'2
-촀ilelle\0 aime PAS,
+utile de savoir ce qu'2촀ilelle\0 aime PAS,
 si j'veux l'inviter à graillern"
 "060_09","(촀\0Pas évident à dire, hein ?
 \0(
 (
-촀\0P'têt qu'2
-촀ilelle\0 veut garder ça
-pour 2
-촀luielle\0, n\0n\0\0
+촀\0P'têt qu'2촀ilelle\0 veut garder ça
+pour 2촀luielle\0, n\0n\0\0
 ( 촀\0P'têt qu'en fait, c'est une taupe !
 \0( T'imagines ?
-\0( 2
-촀UnUne\0 2&
-촀espionespionne\0 à n\0 ?
+\0( 2촀UnUne\0 2&촀espionespionne\0 à n\0 ?
 \0((촀\0 La classe !"
 "060_10","Tu sais pas non plus. Faudra que
-j'lui d'mande à l'occase.\0\02 
-촀S'ilSi elle\0 aime bien tracer la route,
+j'lui d'mande à l'occase.\0\02 촀S'ilSi elle\0 aime bien tracer la route,
 on pourrait s'faire une virée en
-bécane 2
-촀toustoutes\0 les deux."
+bécane 2촀toustoutes\0 les deux."
 "060_11","(촀\0Si même toi t'en sais rien, c'est
-qu'2
-촀ilelle\0 le cache bien !
+qu'2촀ilelle\0 le cache bien !
 \0((3촀\0 Faudra que
-j'rôde du côté d'chez 2
-촀luielle\0.
+j'rôde du côté d'chez 2촀luielle\0.
 (촀\0Si j'l'entends jouer d'la zic ou que
 je sens une odeur de bouffe, ça s'ra
 déjà un bon indice."
@@ -325,20 +289,18 @@ C'est trop bon !"
 Pas vraiment."
 "110_03","(촀\0Ah, ça y est, ça vient de culbuter
 dans ma cervelle.\0\02\0s\0촀 rêve de dev'nir 촀. Et toi, alors ?"
-"110_03_a","Eh ben moi aussi !
-Tout pareil."
-"110_03_b","Moi, grave pas !
-Je f'rai autre chose."
-"110_04","2
-촀IlElle\0 aime bien 촀, y m'semble.
+"110_03_a","(\0촀\0Eh ben moi aussi !
+(\0촀\0Tout pareil."
+"110_03_b","(\0촀\0Moi, grave pas !
+(\0촀\0Je f'rai autre chose."
+"110_04","2촀IlElle\0 aime bien 촀, y m'semble.
 \0((&촀\0 T'es dans l'même délire ?"
 "110_04_a","Bien sûr !
 Le même !"
 "110_04_b","Non, pas moi.
 C'est pas mon truc."
 "110_05","(&촀\0Ça veut dire que t'es aussi fortiche
-2&
-촀que luiqu'elle\0 pour 촀 ?"
+2&촀que luiqu'elle\0 pour 촀 ?"
 "110_05_a","Ouaip.
 J'assure."
 "110_05_b","Du tout...
@@ -348,37 +310,35 @@ Ah non..."
 (촀\0Vous d'vez avoir des tas de
 trucs en commun.
 Justement,(&촀\0 niveau 촀, toi aussi t'es plutôt « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "110_101_a","À donf.
 (\0촀\0T'imagines même pas."
 "110_101_b","(\0촀\0Mouais, bof.
 C'est pas mon truc."
 "110_102","Et niveau 촀,(&촀\0 toi aussi t'es fan 2
 
-de « d'« ⁠
-촀 » ?"
+de « d'« ⁠
+촀 ⁠» ?"
 "110_102_a","J'adore !
 C'est trop bon !"
 "110_102_b","Pas plus que ça.
 Pas vraiment."
 "110_103","(촀\0Ah, ça y est, ça vient de culbuter
 dans ma cervelle.\0\02\0s\0촀 rêve de dev'nir « ⁠
-촀 ». Et toi, alors ?"
-"110_103_a","Eh ben moi aussi !
-Tout pareil."
-"110_103_b","Moi, grave pas !
-Je f'rai autre chose."
-"110_104","2
-촀IlElle\0 aime bien « ⁠
-촀 », y m'semble.
+촀 ⁠». Et toi, alors ?"
+"110_103_a","(\0촀\0Eh ben moi aussi !
+(\0촀\0Tout pareil."
+"110_103_b","(\0촀\0Moi, grave pas !
+(\0촀\0Je f'rai autre chose."
+"110_104","2촀IlElle\0 aime bien « ⁠
+촀 ⁠», y m'semble.
 \0((&촀\0 T'es dans l'même délire ?"
 "110_104_a","Bien sûr !
 Le même !"
 "110_104_b","Non, pas moi.
 C'est pas mon truc."
 "110_105","(&촀\0Ça veut dire que t'es aussi fortiche
-2&
-촀que luiqu'elle\0 pour « ⁠촀 » ?"
+2&촀que luiqu'elle\0 pour « ⁠촀 ⁠» ?"
 "110_105_a","Ouaip.
 J'assure."
 "110_105_b","Du tout...
@@ -473,8 +433,7 @@ d'vez avoir les mêmes délires !"
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-(;촀\0Si vous causez 촀, lance-2
-촀lela\0 sur 2\0촀, c'est son kiff."
+(;촀\0Si vous causez 촀, lance-2촀lela\0 sur 2\0촀, c'est son kiff."
 "170_02","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
@@ -490,33 +449,27 @@ te filer un tuyau à son sujetn\0\0
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-(;촀\02
-촀IlElle\0 passe son temps à 촀.(촀\0 Ça vous fait d'jà un sujet d'conversation !"
+(;촀\02촀IlElle\0 passe son temps à 촀.(촀\0 Ça vous fait d'jà un sujet d'conversation !"
 "170_05","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-(;촀\0C'est 2*
-촀un vraiune vraie\0 pro pour 촀.
+(;촀\0C'est 2*촀un vraiune vraie\0 pro pour 촀.
 \0((촀\0 T'as qu'à lui parler d'ça pour briser la glace !"
 "170_101","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-(;촀\0Si vous causez 촀,
-y a un mot magique qui peut t'aider :
-\0(
-« 
-촀 » !"
+(;촀\0Si vous causez 촀, y a un mot magique qui peut t'aider :
+\0( « ⁠
+촀 ⁠» !"
 "170_102","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-(;촀\0Si vous causez 촀,
-y a un mot magique qui peut t'aider :
-\0(
-« 
-촀 » !"
+(;촀\0Si vous causez 촀, y a un mot magique qui peut t'aider :
+\0( « ⁠
+촀 ⁠» !"
 "170_103","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
@@ -549,36 +502,31 @@ un mot magique qui peut t'aider :
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
 (\0촀\0Pas la peine de lui causer zic,
-('촀\02
-촀ilelle\0 en écoute pas."
+('촀\02촀ilelle\0 en écoute pas."
 "180_02","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
 (\0촀\0Pas la peine de lui causer bouquins,
-('촀\02
-촀ilelle\0 lit pas."
+('촀\02촀ilelle\0 lit pas."
 "180_03","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
 (\0촀\0Pas la peine de lui causer bédés,
-('촀\02
-촀ilelle\0 en lit pas."
+('촀\02촀ilelle\0 en lit pas."
 "180_04","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
 (\0촀\0Pas la peine de lui causer films,
-('촀\02
-촀ilelle\0 en r'garde pas."
+('촀\02촀ilelle\0 en r'garde pas."
 "180_05","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
 (\0촀\0Pas la peine de lui causer téloche,
-('촀\02
-촀ilelle\0 la r'garde pas."
+('촀\02촀ilelle\0 la r'garde pas."
 "180_06","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
@@ -589,8 +537,7 @@ te filer un tuyau à son sujetn\0\0
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-('촀\02
-촀IlElle\0 a pas d'préférence pour se rincer
+('촀\02촀IlElle\0 a pas d'préférence pour se rincer
 l'gosier.
 \0((;촀\0 Si tu l'invites à boire un
 verre, t'auras l'choix des armes !"
@@ -598,8 +545,7 @@ verre, t'auras l'choix des armes !"
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-('촀\02
-촀IlElle\0 a pas d'préférence pour casser
+('촀\02촀IlElle\0 a pas d'préférence pour casser
 la graine.
 \0((;촀\0 Si tu l'invites à grailler,
 t'auras le choix des armes !"
@@ -607,8 +553,7 @@ t'auras le choix des armes !"
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-('촀\02
-촀IlElle\0 a pas vraiment d'métier de rêve.
+('촀\02촀IlElle\0 a pas vraiment d'métier de rêve.
 \0(
 (촀\0Tu peux p'têt l'aider à en trouver un,
 n\0 !"
@@ -616,19 +561,15 @@ te filer un tuyau à son sujetn\0\0
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-('촀\02
-촀IlElle\0 a pas vraiment d'passe-temps.
+('촀\02촀IlElle\0 a pas vraiment d'passe-temps.
 \0(
 (촀\0Tu peux p'têt l'aider à en trouver un !"
 "180_11","(촀\0Hé, p'têt qu'en fait vous pourriez
 être super potes !
 \0((촀\0 J'vais même
 te filer un tuyau à son sujetn\0\0
-('촀\02
-촀IlElle\0 dit qu'2
-촀ilelle\0 a zéro talent.
+('촀\02촀IlElle\0 dit qu'2촀ilelle\0 a zéro talent.
 \0 Nada.
 \0(
 (촀\0Tu peux p'têt l'aider à trouver un
-truc où 2
-촀ilelle\0 assure, n\0 !"
+truc où 2촀ilelle\0 assure, n\0 !"

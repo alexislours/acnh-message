@@ -1,7 +1,7 @@
 ﻿"label","text"
 "002_02","(촀\0¡Esperamos que sigas eligiendo
-\0MiniNook \0￿para tus compras!
-\0(촀\0 \0K¡Sí, sí!\0d"
+\0MiniNook \0￿para tus compras!d\0
+\0(촀\0 \0K¡Sí, sí!\0dd"
 "002_03","(촀\0¡Ay, disculpa!
 \0(촀\0 Vayamos al grano.
 \0
@@ -42,10 +42,10 @@ una tienda de campaña;
 \0 tenemos muebles
 y artículos que no se pueden hacer
 mediante proyectos de bricolaje.
-(촂\0(촄N2En la \0estantería\0￿ de atrás,
+(촂\0(촄N2Además, en la \0vitrina\0￿,
 \0 junto con
-herramientas y demás, 
-\0encontrarás
+herramientas y demás,
+\0 encontrarás
 \0papeles de pared \0￿y \0suelos\0￿."
 "053_01_02","(촂\0Tómate tu tiempo y mira todo
 lo que quieras.(%촃\0d\0
@@ -58,7 +58,7 @@ Te interesa este producto,
 "053_02","(
 촀\0En la sección principal tenemos
 a la venta muebles ya listos.\0\0('촀\0Es decir, que no se pueden fabricar
-mediante proyectos de bricolaje.\0\0(촀\0En la estantería encontrarás
+mediante proyectos de bricolaje.\0\0(촀\0Además, en la vitrina encontrarás
 herramientas y otros artículos,
 \0
 como suelos y papeles de pared.
@@ -110,13 +110,15 @@ que quieras vender.
 \0 ¿verdad?
 ()촂\0Te pagaremos después haciendo
 un ingreso en tu cuenta.\0\0(
-촂\0(7촃\0Hay dos cosas que debes tener
-en cuenta al respecto.\0\0(%촂\0La primera es que cobramos una
-pequeña comisión por gastos de
-gestión.
-()촂\0(7촃\0Y la segunda es que no debes
-depositar objetos del día ni
-nabos en el buzón.(\0촂\0(\0촃"
+촂\0(7촃\0Sin embargo, hay un par de cosas
+que debes tener en cuenta al
+respecto.\0\0(%촂\0La primera es que cobramos
+una pequeña comisión por
+gastos de gestión.
+()촂\0(7촃\0Además, no aceptamos nabosn\0\0
+\0
+y los objetos del día se pagan
+a su precio habitual.(\0촂\0(\0촃"
 "061_05","(촂\0(촃\0¡Pues ya está!
 \0 Eso es todo."
 "101","(촀\0¿Sabes qué,
@@ -147,19 +149,19 @@ comprar es duro.
 \0 (%촀\0Pero nos vemos
 en dos días,
 \0 ¿sí?"
-"151","(촀\0¡Bienvenid2oa a nuestra nueva \0tienda\0￿!
+"151","(촀\0¡Bienvenid2oa (촃\0a nuestra nueva \0tienda\0￿!
 \0
 (촀\0Como verás, 
 \0hemos reformado
 y ampliado el local.
-(\0촀\0Me alegra que te hayas acercado a
-visitarnos ($촀\0el primer día que abrimos
+(\0촀\0(\0촃\0Me alegra que te hayas acercado a
+visitarnos ($촀\0(촃\0el primer día que abrimos
 nuestras puertas de nuevo."
-"151_01","(촀\0¡Bienvenid2oa,
+"151_01","(촀\0¡Bienvenid2oa,(촃\0
 \0 n\0!\0\0(%촀\0Es tu primera visita a nuestro
 nuevo local,
-\0 ¿verdad?\0\0(\0촀\0Como puedes ver,
-\0 ($촀\0ahora este es
+\0 ¿verdad?\0\0(\0촀\0(\0촃\0Como puedes ver,
+\0 ($촀\0(촃\0ahora este es
 nuestro centro de operaciones."
 "152","(촀\0¡Esperamos que sigas haciendo
 tus compras en \0MiniNook\0￿!
@@ -169,6 +171,5 @@ tus compras en \0MiniNook\0￿!
 \0
 Te interesa este producto,
 \0 ¿verdad?"
-"152_02","($촀\0¿Quieres ver la estantería?
-\0
-(촀\0Esto es lo que ofrecemos hoy."
+"152_02","(촀\0Esto es lo que ofrecemos hoy
+en la vitrina."

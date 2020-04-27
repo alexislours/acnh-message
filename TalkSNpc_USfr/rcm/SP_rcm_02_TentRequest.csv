@@ -47,18 +47,16 @@ es prêt2\0e à en discuter."
 court.\0\0(4촀\0Je me disais que tu serais peut-être
 intéressé2\0e par une collaboration d'un
 nouveau genren\0\0
-(!촀\0n\0\0 la construction d'une nouvelle
-\0boutique\0￿!\0\0()촀\0Après tout,
-\0 notre petite communauté
-insulaire n'arrête pas de grandir etn\0\0
-nos besoins aussi.
+(!촀\0n\0\0 la construction d'une nouvelle \0boutique\0￿!\0\0()촀\0Notre île accueille désormais des
+propriétaires. Nous devons répondre
+aux besoins que ça implique.
 (1촀\0J'aimerais proposer un plus grand
 choix de produits,
 \0 mais comme tu le
 vois,
 \0 je suis un peu à l'étroit ici.
 (5촀\0J'en ai parlé à notre président et il
-est d'accord qu'il y a un vrai besoin."
+reconnaît qu'il y a un vrai besoin."
 "012_02","(촀\0Le problèmen\0\0 c'est les matériaux de
 construction.
 \0 Il faudrait en mettre de
@@ -107,12 +105,12 @@ auras tout réuni, 
 "013","(촀\0Bienvenue, n\0!
 \0
 (\0촀\0Que puis-je faire pour toi?"
-"013_a","\0À propos du magasin\0￿..."
+"013_a","\0À propos du magasin...\0￿"
 "013_b","Achète-moi des trucs!"
 "013_c","Tu as quoi à vendre?"
 "013_d","Non, rien."
 "014","(촀\0Tu veux quelque chose de spécial?"
-"014_a","\0À propos du magasin\0￿..."
+"014_a","\0À propos du magasin...\0￿"
 "014_b","Achète-moi des trucs!"
 "014_c","Tu as quoi à vendre?"
 "014_d","Non, rien."
@@ -181,7 +179,7 @@ nous manque plus que \030 \0￿morceaux
 de \0bois tendre\0￿!"
 "053_04","(\0촀\0Avec tout ce qu'on a déjà reçu,
 \0
-(촀\0 il ne nous manque plus que
+(촀\0il ne nous manque plus que
 \030 pépites de fer\0￿!"
 "053_05","()촀\0Pour faciliter l'organisation, on
 préfère recevoir les matériaux en

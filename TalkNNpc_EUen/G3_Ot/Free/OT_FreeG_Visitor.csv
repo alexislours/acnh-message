@@ -7,7 +7,7 @@ our n\0 fruit!"
 "001_b","What do you mean?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(""촀\0I love how adventurous you are,
 \0
 n\0!
@@ -60,10 +60,12 @@ in the midst of building one here.
 room"" is still a tent,
 \0 (촀\0so I'm not
 getting my hopes up."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0There's a \0museum \0￿on our island,
 you know.
 \0( ()촀\0Each room has a unique
@@ -95,99 +97,91 @@ fascinating!\0\0(\0촀\0I tell you,
 mysterious allure. 
 \0(%촀\0They're really
 something to behold."
-"101","<\0fj"
-"102","Say, 
-\0n\0,
-\0 (&촀\0have you
-grown accustomed to life on your
-new island?"
-"102_a","Yep, I'm doing great!"
-"102_b","I'm getting there."
-"102_c","Eh..."
-"103","(촀\0Oh,
-\0 that's wonderful!
-\0( ()촀\0I confess,
-\0
-I was worried about how you'd
-fare after moving away.
-(\0촀\0Although
-\0 hearing that you're so
-happy without usn\0\0(4촀\0it makes me a
-wee bit sad. 
-\0Silly,
-\0 I know.
-(\0촀\0Anyhoo, 
-\0(""촀\0please visit anytime.
+"201","<\0ÊÎ"
+"202","So, n\0, tell me,
+\0(&촀\0
+have you gotten used to not having
+me on the island anymore?"
+"202_a","Yep. I have!"
+"202_b","No. Not yet."
+"202_c","Eh..."
+"203","(8촀\0Oh,
+\0 well,
+\0 I suppose that'sn\0\0goodn\0\0
+to hear, n\0.\0\0I mean,
+\0 ever since I moved here, 
+\0(촀\0I've
+been concerned about how you were
+dealing with my departuren\0\0
+(""촀\0I want you to be happy, of course.
 \0
-Everyone would be thrilled to see
-you.
-\0(촀\0 Me included, 
-\0of course!"
-"104","( 촀\0Oh,
-\0 is that so?
-\0( ()촀\0Well,
-\0 these things do
-take time. 
-\0But you are resilient and
-will be accustomed to it soon!
-(%촀\0Yes, change is hard.
-\0 I tell you,
-\0
-so much has happened on this
-island,
-\0 (촀\0I know exactly how you feel."
-"105","(촀\0Oh dear!
+But to hear you say it so franklyn\0\0
+\0(촀\0
+it stings a bit.
+(촀\0Anyhoo, enough of that. 
+\0Please come
+visit again anytime!
+\0 (\0촀\0It's wonderful to
+see old friends now and then."
+"204","( 촀\0Oh my,
+\0 is that so, n\0?\0\0(촀\0Well,
+\0 these things do take time.
+
+\0(%촀\0But you are resilient and will be
+accustomed to it soon, I'm sure.
+(촀\0I know!
+\0( Let's spend LOTS of time
+talking today 
+\0(5촀\0so you get a full and
+fabulous dose of moi, darling."
+"205","(촀\0Oh dear!
 \0 Are you alright,
-n\0?\0\0(촀\0When I saw you off, 
-\0I felt like a
-mother bird watching over her
-chick as it left the nestn\0\0
+n\0?\0\0(촀\0In\0\0
+\0I thought for sure you'd be fine
+when I departed the island. 
+\0(촀\0Ah,
+but change can be very hard.
 (촀\0You poor dear!
 \0 If you're unhappy,
 \0
-it's OK to cry in front of me!(촀"
-"106","(""촀\02\0n\0 darling, 
-\0now that
-you've left the island and seen the
-world,
-\0 I have a question for youn\0\0
-()촀\0From your point of view
+it's OK to cry in front of me!
+\0((촀"
+"206","(촀\02\0n\0 darling, 
+\0I have
+an itsy-bitsy question for youn\0\0\0\0()촀\0From your point of view
 \0—and be
 completely honest—
-\0(&촀\0what do you
+\0(&촀\0what do you
 think of this island?"
-"106_a","It's great!"
-"106_b","It's got potential."
-"106_c","Eh..."
-"107","(촀\0So, 
-\0you think n\0 is
-just as respectable as the other
-islands, then!
-(촀\0Well,
-\0 n\0, 
-\0that is
-good to hear. 
-\0(촀\0I'm quite proud
-of this little island, you know."
-"108","( 촀\0So,
-\0 what you're saying is that there's
-room for improvement?
-\0( (%촀\0Well,
-\0 that's
-just fine because we have potential!
-(\0촀\0With the help of n\0,
-(5촀\0we will all simply have to work
-harder to make our island better!\0\0(""촀\02\0n\0, 
-\0you must come
-again to see how n\0
-fares. 
-\0(촀\0We might surprise you!"
-"109","n\0\0(촀\0It—
+"206_a","It's great!"
+"206_b","It has potential."
+"206_c","Eh..."
+"207","(촀\0So you agree that n\0
+is just as lovely as my
+old island, then!
+\0((촀\0\0\0(촀\0Well,
+\0 that is wonderful to hear!
+\0(
+(촀\0Now I can be sure it was the right
+decision to move here, n\0."
+"208","( 촀\0So,
+\0 what you're saying isn\0\0there's
+room for improvement?\0\0(촀\0Well,
+\0 that's just fine, because we
+have potential and that's what
+really matters, n\0.
+I'll simply have to work with
+n\0 (5촀\0to make this
+island the best island it can be!"
+"209","(촀\0It—
 \0it isn't your cup of tea,
-\0 eh?\0\0(촀\0I do realize this isn't the same
-n\0 it was when you
-were here.
-()촀\0But day by day and hour by hour,
-time moves on. 
-\0(('촀\0There's simply no
-turning back the clock, n\0."
+\0 I take it?
+\0(
+('촀\0It's fine. You don't have to say
+anything. I can see it on your face.\0\0Ah well, there's no need for us to
+agree on everything. 
+\0(촀\0We do live on
+separate islands now.
+(4촀\0I suppose we'll just have to agree to
+have different opinions in this
+matter, n\0."

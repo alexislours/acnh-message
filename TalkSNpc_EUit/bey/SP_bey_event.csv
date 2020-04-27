@@ -58,8 +58,8 @@ comunque \0Z punti\0￿.
 "005_a","Certo!"
 "005_b","Magari no."
 "006","($촀\0Allora, avannott2oa?"
-"006_a","Voglio il premio!"
-"006_b","Faccio solo due passi!"
+"006_a","(\0촁\0Voglio il premio!"
+"006_b","(\0촁\0Faccio solo due passi!"
 "007","($촀\0Uelà! 
 \0Come abbocca, avannott2oa?
 
@@ -283,10 +283,10 @@ alle ore \0Z%촁\0￿!"
 "037","($촀\0Uelà! 
 \0Come abbocca, avannott2oa!
 
-\0Ti ricordi del tuo amico \0Castorino\0￿ (촀\0?\0\0()촀\0Ho organizzato l'evento più oceanico
+\0Ti ricordi del tuo amico \0Castorino\0￿?\0\0()촀\0Ho organizzato l'evento più oceanico
 che si svolga in n\0: un bel
 \0torneo di pesca\0￿!
-Prepara canna, lenza e mulinello
+(""촀\0Prepara canna, lenza e mulinello
 perché si svolge da adesso fino
 alle ore \0Z%촁\0￿! Niak niak!"
 "038","()촀\0Le regole del \0torneo di pesca\0￿ sono
@@ -368,7 +368,7 @@ lo pago a peso d'oro. Niak niak!
 (촀\0Così ci guadagniamo tutti!"
 "049_a","Te ne vendo!"
 "049_b","Vorrei il premio."
-"049_c","Qualcos'altro..."
+"049_c","Riguardo al torneo..."
 "049_d","No, sono a posto così."
 "050","(촀\0Oceanico! 
 \0Che cosa mi vendi?"
@@ -405,7 +405,7 @@ qualcosa che posso comprare. Niak!"
 avannott2oa."
 "060","(촀\0Oceanico! 
 \0Nessuno resiste all'esca
-del torneo di pesca. 
+del \0torneo di pesca\0￿. 
 \0Allora, sei
 pront2oa pern\0\0(9촀\0 Uh, aspetta un attimo.
 ('촀\0Come avresti intenzione di
@@ -418,16 +418,22 @@ fondamentale."
 "061","(촀\0Niakn\0\0
 \0 Apprezzo il tuo entusiasmo,
 ma pare che tu sia un po' a corto
-di stellinen\0\0
-()촀\0Dopo la prima volta, la quota di
-partecipazione è di Z.\0\0Sai, servono per coprire tutte le
-spese che i pesci che abboccano
-devono sosteneren"
+di stelline.
+()촀\0Sai, quelle Z della quota
+di iscrizione servono a mantenere a
+galla il torneon"
 "062","(촀\0Oceanico! 
-\0Nessuno resiste all'esca
-del torneo di pesca. 
-\0La quota di
-partecipazione è di Z."
+\0(7촀\0Dopo la prima volta,
+la quota di partecipazione è di
+Z. 
+\0($촀\0Ti va bene?"
+"062_01","(촀\0Oceanico, 
+\0sapevo che non mi avresti
+deluso!
+\0 Bene, fanno Z,
+alloran"
+"062_a","(%촀\0Alla grande!"
+"062_b","('촀\0Direi di no..."
 "063","()촀\0Bene, allora ti concedo \0Z\0 minuti
 \0￿per pescare quanti più pesci
 possibile, avannott2oa.
@@ -457,8 +463,7 @@ sessione di pesca se non è vuoto.
 
 \0Regole del torneo, niak niak!
 (%촀\0Beh, se vedi s\0촀, 
-\0magari di2
-촀glille\0 di svuotare il \0frigorifero\0￿. 
+\0magari di2촀glille\0 di svuotare il \0frigorifero\0￿. 
 \0Se necessario, compro io i pesci."
 "067","(8촀\0Ottimo. 
 \0Man\0\0
@@ -555,16 +560,16 @@ mia memoria sta un po' affondandon\0\0\0\0(%촀\0Comunque, controlla il pro
 se vuoi partecipare al prossimo
 \0torneo di pesca\0￿, 
 \0niak."
-"090_a","Vorrei il premio."
-"090_b","Faccio solo due passi!"
+"090_a","(\0촁\0Vorrei il premio."
+"090_b","(\0촁\0Faccio solo due passi!"
 "092","(촀\0Va bene! 
 \0Sempre lieto di parlare con
 altri fan della pesca. 
 \0Resterò qui fino
 alle ore \0Z%촂\0￿."
 "100","($촀\0Che mi dici, avannott2oa?"
-"100_a","Vorrei il premio."
-"100_b","Faccio solo due passi!"
+"100_a","(\0촁\0Vorrei il premio."
+"100_b","(\0촁\0Faccio solo due passi!"
 "101","(5촀\0Organizzerò anche il prossimo \0torneo di pesca\0￿ di n	\0. 
 \0Si terrà 2\0 \0Z#촀\0￿. 
 \0Partecipa, niak!"
@@ -648,7 +653,7 @@ pesci da vendere, li compro io."
 \0
 Abbocchi?"
 "123_a","Va benissimo!"
-"123_b","Un momento."
+"123_b","(\0촁\0Un momento."
 "124","(\0촀\0Affare fatto!
 \0 ( 촀\0Eh, aspettan\0\0
 \0 ma di
@@ -772,7 +777,7 @@ più un bonus di squadra a partire da
 \0
 Oceanico! Niak niak!"
 "150","(9촀\0OK, il totale per tutti èn\0\0
-\0 (%촀\0\0Z	 pesci\0￿,
+\0 (%촀\0\0Z	 pesci\0￿,
 più un bonus di squadra a partire da
 \0almeno Z
 \0￿.
@@ -811,6 +816,57 @@ punti\0￿!"
 punti\0￿, potrai scambiarli per un
 premio oceanico.
 \0( (촀\0Provaci, avannott2oa!"
+"156","Bene, 
+\0pare che nel \0frigo portatile
+\0￿ci fosseron\0\0 
+\0\0Z pesci\0￿.
+\0 (촀\0Ci sai proprio
+fare con la canna da pesca tu, 
+\0niak!"
+"156_01","( 촀\0A proposito, 2(avannottoavannotta! 
+\0Guarda che
+il frigo può rovesciarsi se ci infili
+dentro più di 20 pescin\0\0
+(%촀\0Quindi, per non rischiare, ne ho tirati
+fuori un po'.\0\0(6촀\0Ma non c'è motivo di boccheggiare.
+
+\0Li ho spediti in un resort di lusso per
+pescin\0\0 
+\0Vedrai, staranno benissimo!\0\0()촀\0Tu comunque riceverai i punti che
+ti spettano, 
+\0perciò non preoccuparti,
+
+\0niak, 
+\0niak!"
+"157","(촀\0Alloran\0\0 Oltre ai \0Z punti \0￿che hai
+tirato su, 
+\0ti becchi un bel bonus
+per aver catturato \0almeno Z pesci\0￿!\0\0(9촀\0Ah, dimenticavo! 
+\0(%촀\0Il bottino totale
+per tutti è di \0Z	 pesci\0￿.\0\0Ciò significa che vi spetta un bonus
+di squadra per averne presi insieme
+\0almeno Z
+\0￿, niak, niak!"
+"158","(촀\0Alloran\0\0 Oltre ai \0Z punti \0￿che hai
+preso all'amo, 
+\0ti becchi un bel bonus
+per aver tirato su \0almeno Z pesci\0￿!"
+"159","(6촀\0Chi è pronto a fare un po' di pesca
+sportiva? 
+\0((촀\0Ma come ""Chi?"" tu!\0\0()촀\0Hai proprio l'aria di esseren\0\0
+\0 2ununa
+grande fan di questo strepitoso
+sport, avannott2oa!
+($촀\0Comunque, mi chiamo \0Castorino\0￿ e
+sono qui per condurre quel mitico
+evento che èn\0\0 (촀\0il \0torneo di pesca\0￿!(촀\0\0\0Preparan\0\0 (9촀\0Niak! Un momenton\0\0\0\0(&촀\0Ma non ti ho già vist2oa partecipare
+non troppo tempo fa? 
+\0Ma certo!
+\0( (%촀\0E ci
+hai messo anche grande impegno!
+(촀\0Allora, com'è andata? 
+\0Ti sei
+divertit2oa, avannott2oa?"
 "160","(%촀\0I pesci catturati da tutti sono nel
 \0frigorifero\0￿. 
 \0Ognuno potrà riprendersi
@@ -880,18 +936,18 @@ di pesca\0￿ attenden\0\0 
 \0E puoi
 partecipare tutte le volte che vuoi.\0\0(3촀\0Dunque, 
 \0sei pront2oa a gettarti come
-un'esca nel \0torneo di pesca\0￿? 
-\0La
-prima volta da \0leader\0￿ è gratis."
+un'esca nel \0torneo di pesca\0￿?\0\0(촀\0Oggi è la tua prima partecipazione
+come \0leader\0￿, quindi non devi pagare
+nulla."
 "166_a","Contaci!"
 "166_b","Per ora no."
 "167","(""촀\0Semplicissimo, vero? 
 \0E puoi
 partecipare tutte le volte che vuoi.\0\0(3촀\0Dunque, 
 \0sei pront2oa a gettarti come
-un'esca nel \0torneo di pesca\0￿? 
-\0La
-prima volta da \0leader\0￿ è gratis."
+un'esca nel \0torneo di pesca\0￿?\0\0(촀\0Oggi è la tua prima partecipazione
+come \0leader\0￿, quindi non devi pagare
+nulla."
 "167_a","Contaci!"
 "167_b","Quali sono le regole?"
 "167_c","Vorrei il premio."
@@ -925,12 +981,12 @@ scambiarli per il premio, 
 è concluso!
 \0 Aspetto il prossimo
 con impazienza!"
-"170_a","Vorrei il premio."
-"170_b","Faccio solo due passi!"
+"170_a","(\0촁\0Vorrei il premio."
+"170_b","(\0촁\0Faccio solo due passi!"
 "171","(3촀\0Sei pront2oa a tirare a riva un sacco
-di gloria con il \0torneo di pesca\0￿?\0\0(촀\0Visto che è la tua prima volta
-come \0leader\0￿, la partecipazione
-è gratuita, avannott2oa."
+di gloria con il \0torneo di pesca\0￿?\0\0(촀\0Visto che oggi è la tua prima volta
+come \0leader\0￿, la partecipazione è
+gratuita, avannott2oa."
 "171_a","Contaci!"
 "171_b","Quali sono le regole?"
 "171_c","Vorrei il premio."

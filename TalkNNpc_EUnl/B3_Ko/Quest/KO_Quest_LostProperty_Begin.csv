@@ -4,13 +4,13 @@ dat ik hier een buidel met iets
 belangrijks erin heb laten vallen.
 
 \0(&촀\0 Heb jij hem gezien?"
-"001_a","(\0촀\0Ik ga zoeken!"
+"001_a","Ik ga zoeken!"
 "001_b","Heb ik niet gezien."
 "002","(촀\0Heb jij weleens een waardevolle
 buidel laten vallen en toen iemand
 gesmeekt om ernaar te zoeken?"
-"002_a","(\0촀\0Ik vind het voor je!"
-"002_b","(\0촀\0Nee, nog nooit."
+"002_a","Ik vind het voor je!"
+"002_b","Nee, nog nooit."
 "003","(촀\02\0n\0! 
 \0Waar is hij?!\0\0(촀\0Ik heb het over mijn speciale buidel,
 2jochiemeid. 
@@ -27,7 +27,7 @@ niet hoe ik er zonder kan!"
 mijn speciale buidel!
 \0 (&촀\0Kun jij hem
 voor me vinden?"
-"004_a","(\0촀\0Ja, hoor."
+"004_a","Ja, hoor."
 "004_b","(\0촀\0Sorry... Succes."
 "006","(촀\0Ik las laatst een boek dat ik niet
 neer kon leggenn\0\0(촀\0 maar toen ik dat
@@ -35,8 +35,8 @@ toch deed, was ik het meteen kwijt!
 (촀\0Ik moet weten hoe het boek afloopt!
 \0
 Kun jij me helpen om het te vinden?"
-"006_a","(\0촀\0Ja, natuurlijk."
-"006_b","(\0촀\0Nu komt niet goed uit."
+"006_a","Ja, natuurlijk."
+"006_b","Nu komt niet goed uit."
 "007","(9촀\0Ik las laatst een detective en was
 bijna bij het deel waar de dader
 ontmaskerd wordtn\0\0
@@ -137,7 +137,7 @@ moeten laten vallen.
 \0 (촀\0Maar het is
 gebeurd en nou is hij weg!"
 "102_a","Ik kan helpen..."
-"102_b","Sorry, veel succes."
+"102_b","(\0촁\0Sorry, veel succes."
 "103","(촀\0Wauw, wil je dat voor mij doen?\0\0(촀\0Je zou me er zo mee helpen. 
 \0Heel
 erg bedankt, 2jochiemeid!"
@@ -173,7 +173,7 @@ van mij!
 Dus kun je me helpen om hem te
 vinden?"
 "202_a","Ik help je wel."
-"202_b","Sorry, veel succes."
+"202_b","(\0촁\0Sorry, veel succes."
 "203","(촀\0Ah, je bent de beste, 2jochiemeid.\0\0(9촀\0Maar kun je het geheim houden als
 je hem vindt? 
 \0Mijn agenda mag

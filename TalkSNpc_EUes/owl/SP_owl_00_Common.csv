@@ -7,7 +7,7 @@
 \0((촀\0
 P\0 (촀\0
 \0\0¡¿Uac?!\0d
-"
+<"
 "002","(촀\0¡Uhu!
 \0 Ruego me disculpes.
 \0
@@ -80,21 +80,21 @@ puedo ayudarte?"
 "015","(촀\0De acuerdo.
 \0 (\0촀\0¡Entonces solo me
 queda desearte una feliz visita!"
-"016","(촀\0Tómate tu tiempon\0\0
-\0 (9촀\0y contémplalo
+"016","(촀\0Disfruta de la visita:
+\0 tómate
+tu tiempo
+\0 y contémplalo
 todo con tranquilidad."
-"017","(촀\0¿Mmm?
-\0 ¡Uhu!(\0촀\0
-\0 ($촀\0¿En qué puedo serte
-de utilidad?"
+"017","(촀\0Ah, pero primero, dime,
+\0
+($촀\0¿puedo ayudarte en algo?"
 "017_a","¡Donación!"
 "017_b","Examinar fósiles"
 "017_c","Háblame de esto"
 "017_d","Nada..."
-"018","(촀\0¿Mmm?
-\0 ¡Uhu!(\0촀\0
-\0 ($촀\0¿En qué puedo serte
-de utilidad?"
+"018","(촀\0Ah, pero primero, dime,
+\0
+($촀\0¿puedo ayudarte en algo?"
 "018_a","Examinar fósiles"
 "018_b","Háblame de esto"
 "018_c","Nada..."
@@ -201,11 +201,10 @@ llevas ahí.
 \0 (촀\0¡Ya le echo yo un vistazo
 y te digo!(\0촀"
 "111","(9촀\0Algunas de las cosas que quieres
-donar estar repetidas.
+donar están repetidas.
 \0 (촀\0En el museo
 exhibimos solo un ejemplar.
-¡Te devolveremos los artículos
-que estén repetidos!"
+Te devuelvo lo sobrante."
 "112","(%촀\0Estupendo,
 \0 pues.
 \0
@@ -319,8 +318,7 @@ en todo su esplendor.
 que te cuente algo al respecto?"
 "130_a","Sí, por favor..."
 "130_b","Ahora no puedo"
-"131","(:촀\0¿Quieres quen\0\0
-\0 (4촀\0te cuente algo acerca
+"131","(&촀\0¿Quieres que te cuente algo acerca
 de tu }\0\0?"
 "131_a","¡Cuenta, cuenta!"
 "131_b","Ahora mejor no..."
@@ -403,13 +401,12 @@ establecer que se trata de
 \0
 ¡¿Qué si no?!"
 "209","2\02\0}\0\0 nunca deja de ser interesante,
-\0 por much2촀oa\0s que haya viston\0\0\0\0Con gusto 2촀lola\0 aceptaría,
-\0 pero en
-este momento no puedo,
-\0 de manera
-que te 2촀lola\0 devuelvo."
+\0 por much2촀oa\0s que haya viston\0\0\0\0Con gusto 2촀lola\0 aceptaría,
+\0 pero ya tenemos un2촀oa\0,
+\0 de manera que te
+2촀lola\0 devuelvo."
 "210","(촀\0¡2\02\0}\0\0
-no está nada mal!\0\0Te pediría que 2촀lola\0 donaras,
+no está nada mal!\0\0Te pediría que 2촀lola\0 donaras,
 \0 (촀\0pero
 ahora estoy ocupado con la visita
 que tenemos en la isla.\0\0(7촀\0Vuelve en otro momento y tratamos
@@ -423,7 +420,7 @@ en nuestra colección.
 sería un gran avance para poder
 por fin inaugurar nuestro museo.
 (2촀\0¿Qué me dices? ¿Estarías dispuest2oa
-a donar2촀lola\0?"
+a donar2촀lola\0?"
 "211_a","Claro, ¡para el museo!"
 "211_b","Se viene a casa"
 "212","(촀\0Debo decir que es un fósil fuera
@@ -435,7 +432,7 @@ inaugurar el museo,
 \0 solo
 necesitamos un objeto másn\0\0
 (7촀\0De manera que poder contar con
-2촀esteesta\0 }\0\0
+2촀esteesta\0 }\0\0
 sería de vital importancia.
 (&촀\0¿Nos cederías este fósil para
 que el museo pueda abrir
@@ -450,9 +447,10 @@ en nuestra colección.
 para la isla,
 \0 poder contar con
 2\0}\0\0n\0\0
-Supondría un gran enriquecimiento
-de nuestro patrimonio cultural.
-(4촀\0Me entiendes,
+(1촀\0Supondría un gran enriquecimiento
+de nuestro patrimonio cultural.
+\0
+(&촀\0Me entiendes,
 \0 ¿verdad?"
 "213_a","Claro, ¡para el museo!"
 "213_b","Se viene a casa"
@@ -464,7 +462,7 @@ cosas!
 \0 a vern\0\0
 \0 deja que
 les eche un ojo."
-"215","(촀\0¡Uhu!
+"215","(촀\0¡Uhu!
 \0 Unos fósiles de lo más
 excepcional,
 \0 (촀\0¡y no los tenemos
@@ -472,7 +470,7 @@ en nuestra colección!
 (촀\0Tienes un sexto sentido para
 dar con ellos,
 \0 ¿verdad?"
-"216","(촀\0¡Uhuhu!
+"216","(촀\0¡Uhuhu!
 \0 (촀\0Parece que alguno
 de estos fósiles aún nos falta
 en nuestro museo.
@@ -503,7 +501,8 @@ te los compraría para
 mi colección personaln\0\0
 \0
 ('촀\0En fin,
-\0 los sueños sueños son.
+\0 los sueños
+\0 sueños son.
 \0
 Te los devuelvo con la satisfacción
 de haberlos visto."
@@ -649,29 +648,29 @@ permitir.
 por lo cual te doy las gracias."
 "364","()촀\0Por cierto,
 \0 en nuestra exposición
-aún no tenemos 2$촀ningúnninguna\0
+aún no tenemos 2$촀ningúnninguna\0
 }\0\0.
 (4촀\0Disculpa si soy un poco descarado,
 \0
 pero nos alegraría mucho que
-nos l2촀oa\0 donaras.\0\0(촀\0Huelga decir que no es por interés
+nos l2촀oa\0 donaras.\0\0(촀\0Huelga decir que no es por interés
 personal,
 \0 sino por contribuir
 al conocimiento de la naturaleza."
 "365_01","()촀\0Por cierto,
 \0 en nuestra exposición
-aún no tenemos 2$촀ningúnninguna\0
+aún no tenemos 2$촀ningúnninguna\0
 }\0\0.
 (4촀\0Cuando el museo esté terminado,
 \0
 nos alegraría mucho que
-nos l2촀oa\0 donaras."
+nos l2촀oa\0 donaras."
 "365_02","En cualquier caso,
 \0 (4촀\0gracias
 por darme a conocer algo
 tan especial."
 "366","(%촀\0¡Qué ganas tengo de exhibir
-ante todo el público 2촀esteesta\0 
+ante todo el público 2촀esteesta\0 
 }\0\0!"
 "367","(""촀\0En el museo también tenemos una
 exposición con esa temática;
@@ -679,12 +678,12 @@ exposición con esa temática;
 (촀\0pásate a verla cuando quieras."
 "368","()촀\0Por cierto,
 \0 en nuestra exposición
-aún no tenemos 2$촀ningúnninguna\0
+aún no tenemos 2$촀ningúnninguna\0
 }\0\0.
 (4촀\0Disculpa si soy un poco descarado,
 \0
 pero nos alegraría mucho que
-nos l2촀oa\0 donaras."
+nos l2촀oa\0 donaras."
 "401","(촀\0¡Un momento!
 \0 ¿Es cierto esto?
 \0

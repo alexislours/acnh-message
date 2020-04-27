@@ -398,8 +398,8 @@
 "Ftr_02010","2\0ā촃Ball2
 \0\0\0s"
 "Ftr_02012","2\0Ȃ촄Tafel"
-"Ftr_02013","2\0Ȃ촄Schulbank"
-"Ftr_02014","2\0ā촃Klassenraumtisch2
+"Ftr_02013","2\0Ȃ촄Hörsaalbank"
+"Ftr_02014","2\0ā촃Hörsaaltisch2
 \0\0\0s"
 "Ftr_02020","2\0ā촃Regiestuhl2
 \0\0\0s"
@@ -596,7 +596,7 @@
 "Ftr_03582","2\0ă촅Buch2
 \0\0\0s"
 "Ftr_03583","2\0Ȃ촄Fischerbootflagge"
-"Ftr_03584","2\0ă촅Schulposter2
+"Ftr_03584","2\0ă촅Lern-Poster2
 \0\0\0s"
 "Ftr_03586","2\0ă촅Magazin2
 \0\0\0s"
@@ -648,9 +648,9 @@
 \0\0\0s"
 "Ftr_03699","2\0ā촃Fisch-Abklatschdruck2
 \0\0\0s"
-"Ftr_03701","2\0ā촃Sekretär2
+"Ftr_03701","2\0ā촃Lern-Schreibtisch2
 \0\0\0s"
-"Ftr_03702","2\0ā촃Sekretärstuhl2
+"Ftr_03702","2\0ā촃Lern-Stuhl2
 \0\0\0s"
 "Ftr_03772","2\0ā촃Goldkerzenhalter2
 \0\0\0s"
@@ -1216,9 +1216,9 @@
 "Ftr_07789","2\0ā촃Wäscheständer2
 \0\0\0s"
 "Ftr_07795","2\0ā촃Steinlöwe2\0nnn"
-"Ftr_07796","2\0ā촃Fernost-Restauranttisch2
+"Ftr_07796","2\0ā촃Asia-Restaurant-Tisch2
 \0\0\0s"
-"Ftr_07797","2\0ā촃Fernost-Stuhl2
+"Ftr_07797","2\0ā촃Asia-Restaurant-Stuhl2
 \0\0\0s"
 "Ftr_07800","2\0ă촅Proteinshake-Set2
 \0\0\0s"
@@ -1254,7 +1254,7 @@
 "Ftr_08297","2\0Ȃ촄Espressokanne"
 "Ftr_08298","2\0ă촅Etagenbett2
 \0\0\0s"
-"Ftr_08415","2\0Ȃ촄Drachenlaterne"
+"Ftr_08415","2\0Ȃ촄Asia-Restaurant-Laterne"
 "Ftr_08417","2\0ă촅Werkzeugbrett2
 \0\0\0s"
 "Ftr_08418","2\0ā촃Duftspender2
@@ -1338,4 +1338,39 @@
 "Ftr_12229","パニエルのいしがま"
 "Ftr_12230","2\0ă촅Dreidelspiel2
 \0\0\0s"
-"Ftr_12332","2\0ă촅Funktionaltischchen"
+"Ftr_12332","2\0ă촅Funktionaltischchen2
+\0\0\0s"
+"Ftr_12368","2\0Ȃ촄Markt-Dekoration"
+"Ftr_12369","2\0ā촃Glückskeks-Wagen2
+\0\0\0s"
+"Ftr_12370","2\0ā촃Bremsmeister2
+\0\0\0s"
+"Ftr_12371","2\0ă촅OK-Motors-Schild2
+\0\0\0s"
+"Ftr_12372","2\0ă촅Pocket-Alkovenmobil2
+\0\0\0s"
+"Ftr_12373","2\0ā촃Pocket-Kleinbus2\0\0\0ses"
+"Ftr_12374","2\0ă촅Campingplatz-Schild2
+\0\0\0s"
+"Ftr_12398","2\0ă촅Häschentag-Tor2
+\0\0\0s"
+"Ftr_12412","2\0ā촃Stehauf-Ohs"
+"Ftr_12413","2\0Ȃ촄Häschentag-Lampe"
+"Ftr_12414","2\0ă촅Häschentag-Bett2
+\0\0\0s"
+"Ftr_12415","2\0ā촃Häschentag-Hocker2
+\0\0\0s"
+"Ftr_12417","2\0Ȃ촄Häschentag-Girlande"
+"Ftr_12418","2\0Ȃ촄Häschentag-Wanduhr"
+"Ftr_12419","2\0Ȃ촄Häschentag-Ballon-Deko A"
+"Ftr_12420","2\0ā촃Häschentag-Frisiertisch2
+\0\0\0s"
+"Ftr_12421","2\0Ȃ촄Häschentag-Ballon-Deko B"
+"Ftr_12436","2\0ā촃Häschentag-Tisch2
+\0\0\0s"
+"Ftr_12437","2\0ā촃Häschentag-Schrank2
+\0\0\0s"
+"Ftr_12438","2\0ā촃Häschentag-Korb2
+\0\0\0s"
+"Ftr_12543","2\0Ȃ촄Nintendo Switch"
+"Ftr_12579","2\0Ȃ촄Nintendo Switch (ACNH)"

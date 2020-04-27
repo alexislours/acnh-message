@@ -18,7 +18,7 @@ T'en veux un peu?"
 "005","(&촀\0Tu vois des bricoles qui
 t'donnent envie?"
 "005_a","Oh oui!"
-"005_b","Rien, de rien."
+"005_b","(\0촀\0Rien, de rien."
 "006","( 촀\0Y'a quèqu'chose qui t'branche
 dans ma déco?"
 "006_a","À fond!"
@@ -39,7 +39,7 @@ vu zyeuter une ou deux bricoles
 avec des mirettes gourmandes."
 "100","2\02\0}\0\0?
 \0 (%촀\0Ah, j'vois qu't'as l'œil. 
-\02촀IlElle\0 est à toi pour Z\0!"
+\02촀IlElle\0 est à toi pour Z\0!"
 "100_a","Ça roule!"
 "100_b","Pas question."
 "101","2\02\0}\0\0?
@@ -49,7 +49,7 @@ avec des mirettes gourmandes."
 "101_b","Trop cher!"
 "102","2\02\0}\0\0?
 \0 (%촀\0C'est un crève-cœur d'm'en séparer, mais pour Z\0, j'peux."
-"102_a","J'achète!"
+"102_a","(\0촀\0J'achète!"
 "102_b","J'm'en passe!"
 "103","(촀\0Ha ha!
 \0 Tant pis pour toi!"
@@ -67,7 +67,7 @@ m'envoies sur les rosesn\0\0(촀\0 Mais j'suis
 2\0n\0 de parole!"
 "203","(촀\0J'compte sur toi pour en prendre
 bien soin, n\0."
-"204","(6촀\0Adjugé2촀\0e\0, vendu2촀\0e\0! 
+"204","(6촀\0Adjugé2촀\0e\0, vendu2촀\0e\0! 
 \02\0n\0!"
 "205","(촀\0J'espère qu'tu tireras autant
 d'bonheur de c'truc que moi,
@@ -81,11 +81,11 @@ courrier.
 \0((촀\0 T'auras même pas besoin
 de te coltiner l'transport comme ça!"
 "300","(촀\02\02\0}촀?
-\0 (%촀\0Ah, désolée, c'te p'tit2촀\0e\0 mignon2촀\0ne\0 fait partie d'la famille! 
+\0 (%촀\0Ah, désolée, c'te p'tit2촀\0e\0 mignon2촀\0ne\0 fait partie d'la famille! 
 \0C'est non."
 "301","(촀\02\02\0}촀 et moi, on a vécu trop d'trucs ensemble. 
-\0('촀\0Pas question d'l2촀ea\0 lâcher!
+\0('촀\0Pas question d'l2촀ea\0 lâcher!
 "
-"302","(촀\02\02\0}\0\0? Hmmn\0\0 ('촀\0Non, 2촀ilelle\0 a une trop grande valeur sentimentale, désolée."
+"302","(촀\02\02\0}\0\0? Hmmn\0\0 ('촀\0Non, 2촀ilelle\0 a une trop grande valeur sentimentale, désolée."
 "303","('촀\0Désolée, mais c'est non.
 Pas question d'm'en séparer."

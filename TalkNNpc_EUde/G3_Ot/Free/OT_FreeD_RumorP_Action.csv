@@ -33,14 +33,12 @@ ein paar Tipps geben könntest."
 "104","Ach,
 \0 n\0,
 \0
-($촀\0 gestern
-hast du fleißig Muscheln gesammelt,
-\0
-nicht wahr, 
-\0n\0?
-(1촀\0Am Strand entlang zu spazieren und
+($촀\0 gestern hast du fleißig Muscheln gesammelt,
+\0 nicht wahr, 
+\0n\0?\0\0(1촀\0Am Strand entlangzuspazieren und
 dabei Muscheln zu sammelnn\0\0
-\0 darin kann man sich leicht verlieren."
+\0 darin
+kann man sich leicht verlieren."
 "105","(촀\0Ich hörte, 
 \0dass du gestern eine
 Menge Teppichmuscheln sammeltest!
@@ -166,6 +164,43 @@ sie anderen zu offenbaren!
 glücklicher werden die anderen
 Bewohner sein, 
 \0n\0."
+"114","(&촀\0Ist es wirklich wahr? 
+\0Hast du gestern
+tatsächlich andere Inseln mit dem
+Flugzeug besucht?
+(촀\0Es stimmt also!
+\0
+ Gute Güte! 
+\0(()촀\0Du bist
+ja wahrlich 2\*der reinste Jetsetter.die reinste Jetsetterin!
+\0
+(촀\0Nun,
+\0
+ da bin ichn\0\0
+\0
+ etwas eifersüchtig.
+
+\0(($촀\0Natürlich freue ich mich auch für
+dich. 
+\0(촀\0Aber in erster Linie bin ich
+doch ein wenig eifersüchtig!
+\02(촀"
+"115","(촀\0Da sieh mal einer an... 
+\0 ()촀\0Du hast
+gestern jede Menge Besuch gehabt,
+\0
+nicht wahr?\0\0(%촀\0Wir sind uns da durchaus sehr
+ähnlich,
+\0 n\0.
+\0(촀\0 Auch ich
+schätze Besuch auf der Insel sehr.
+($촀\0Zögere nicht, 
+\0jederzeit jemanden
+einzuladen, 
+\0wenn du möchtest.
+\0
+(촀\0Je mehr Gäste, 
+\0desto besser!"
 "116","(촀\0Ich hörte,
 \0 du hättest den gestrigen
 Tag mit \0Basteln\0￿ verbracht.
@@ -426,8 +461,7 @@ gewesen, 
 \0n\0.
 (%촀\0Das ist ein wahrlich großer Einsatz,
 \0
-das Leben auf n\0 zu
-verbessern.
+das Leben auf n\0 zu verbessern.
 \0(촀\0 Danke dir, 
 \0n\0."
 "134","()촀\0Überall erzählt man sich, 

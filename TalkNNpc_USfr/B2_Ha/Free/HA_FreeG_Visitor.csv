@@ -5,7 +5,7 @@ de cette île, n\0?"
 "001_b","Pas du tout."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah! C'est très bien!
 \0 (""촀\0N'hésite pas
 à en manger autant que tu veux!"
@@ -42,10 +42,12 @@ faut faire preuve d'ambition,
 \0 pour se
 classer parmi les champions,
 \0 non?"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Je te recommande un tour dans
 le \0musée\0￿ de notre ville.
 \0 On peut y
@@ -78,37 +80,44 @@ eu l'occasion de l'essayer."
 \0 quel relief!
 \0
 (촀\0Même sans muscles,
-\0 2(촀ilelle\0 fait
+\0 2)촀ilelle\0 fait
 sensation!
 \0 Je suis vert de jalousie!"
-"101","(촀\0Te revoir me fait replonger dans le
+"201","(촀\0Te revoir me fait replonger dans le
 passén\0\0
 \0 (6촀\0Tu te rappelles?
 \0 On arrêtait
 pas de comparer nos muscles!"
-"102","<ghi"
-"103","(%촀\0J'ai suivi un super programme secret
+"202","<ËÌÍ"
+"203","(%촀\0J'ai suivi un super programme secret
 d'entraînement,
-\0 depuis ton départ.
+\0 depuis mon départ.
 \0
 Chaque jour, sans aucune exception.\0\0()촀\0Et toi?
 \0 Tu as continué tes exercices
 de développement musculaire?
-\0 À
-quel poids tu lèves maintenant?"
-"104","(\0촀\0Euhn\0\0
+\0
+Tu lèves combien,
+\0 question poids?"
+"204","(8촀\0Ben franchement, je suis pas
+sûr de pouvoir te battren\0\0
+\0(촀\0\0\0Sérieusement, regarde-moi ces
+brasn\0\0 Je fais pas le poids.
+\0
+(""촀\0Belle job, n\0!"
+"205","(\0촀\0Euhn\0\0
 \0 en y repensantn\0\0
 \0 (2촀\0On n'a jamais
 réussi à se départager pour savoir
-qui avait le plus de muscles!"
-"105","(%촀\0Et si on essayait de trancher enfin
+qui avait le plus de muscles!
+(%촀\0Et si on essayait de trancher enfin
 cette question,
 \0 là, tout de suite?
 \0 (촀\0On
 va comparer nos abdos. Partant2\0e?"
-"105_a","Oh, bien sûr!"
-"105_b","Euh... non merci."
-"106","(%촀\0Prêt2\0e?
+"205_a","Oh, bien sûr!"
+"205_b","Euh... non merci."
+"206","(%촀\0Prêt2\0e?
 \0 Mes abdosn\0\0 (촀\0c'est une vraie
 tablette de chocolat.
 \0 (5촀\0Format familial,
@@ -120,11 +129,11 @@ douze carrés!
 \0
 (촀\0Je croyais qu'on était amis,
 \0 n\0?!\0\0(
-촀\0J'te le jure,
+촀\0Je te jure,
 \0 j'ai compté douze carrés.
 \0
 Pas plus tard qu'hier.
-\0 (9촀\0C'pas une joke!
+\0 (9촀\0Pour vrai!
 \0
 Et arrête de me regarder comme ça.\0\0(촀\0Bon, ben d'accord.
 \0 Crois-moi pas.
@@ -132,7 +141,7 @@ Et arrête de me regarder comme ça.\0\0(촀\0Bon, ben d'accord.
 Tant pis pour toi.
 \0 (촀\0Mais c'est quand
 même une tablette à douze carrés!"
-"107","( 촀\0Ah, par mes haltères, alors!
+"207","( 촀\0Ah, par mes haltères, alors!
 \0 T'es pas
 drôle!
 \0 (6촀\0Mais bon,

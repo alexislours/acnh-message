@@ -6,7 +6,7 @@ directement récolté sur notre île?"
 "001_b","Non, dis-m'en plus!"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah, bien sûr, quelle question.
 \0
 Tu es un2\0e touriste de goût."
@@ -62,10 +62,12 @@ des musées, c'est juste une tente.
 dédiée aux merveilles de notre
 monden\0\0 (!촀\0L'aile n
 \0!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(%촀\0Devine qui est le roi du bon goût qui
 recommande humblement le \0musée
 2
@@ -85,15 +87,15 @@ ses voca
 \0a
 \0A
 \0alises!"
-"028","(&촀\0Savais-tu que le \0musée\0￿ disposait d'un2(촀\0e\0 
-\0 dans sa collection permanente?\0\0(%촀\0Tu devrais aller l2(촀ea\0 voir.
+"028","(&촀\0Savais-tu que le \0musée\0￿ disposait d'un2)촀\0e\0 
+\0 dans sa collection permanente?\0\0(%촀\0Tu devrais aller l2)촀ea\0 voir.
 \0 Ce poisson
 a plus de classitude que 90 %
 des gens que je connais."
 "029","(촀\0Tout à l'heure au \0musée\0￿, j'ai vu
 2\0
 n\0\0 Ça m'a fait une drôle d'impression.\0\0(+촀\0Est-ce que c'est moi qui l'observen\0\0
-ou bien 2(촀luielle\0 qui me dévisage?"
+ou bien 2)촀luielle\0 qui me dévisage?"
 "030","(&촀\0Dis-moi, t'es déjà tombé2\0e sur
 2\0
 , au \0musée\0￿?\0\0(%촀\0C'est formidable de pouvoir admirer
@@ -101,25 +103,26 @@ le squelette d'une créature ayant
 vécu il y a des millions d'annéesn\0\0
 (1촀\0Je me demande si mes os auront
 aussi droit à leur exposition un journ"
-"101","<\0fj"
-"102","(4촀\0Dis-moi, j'ai une question sérieuse
-à te posern\0\0\0\0(&촀\0Ça t'arrive de penser à moi depuis
-que tu es parti2\0e d'ici?"
-"102_a","Bien sûr!"
-"102_b","Honnêtement... non."
-"102_c","Je t'ai manqué?"
-"103","(6촀\0Ahn\0\0 (촀\0Oui, moi aussi.
+"201","<\0ÊÎ"
+"202","(4촀\0Dis-moi, j'ai une question sérieuse
+à te posern\0\0\0\0(&촀\0Est-ce que ça t'est déjà arrivé de
+penser à moi depuis que j'ai
+déménagé?"
+"202_a","Bien sûr!"
+"202_b","Honnêtement... non."
+"202_c","Je t'ai manqué?"
+"203","(6촀\0Ahn\0\0 (촀\0Oui, moi aussi.
 \0 Mais au moins,
 tu peux me rendre visite quand tu
 veux, n\0!"
-"104","(촀\0Merci pour ta franchise. 
+"204","(촀\0Merci pour ta franchise. 
 \0(5촀\0Si je veux
-devenir la coqueluche du coin,
+devenir la vedette du coin,
 j'ai besoin de feedbacks honnêtes.
-(%촀\0De ton côté, je te souhaite de
-réussir à te mettre tout le monde
-dans la poche sur ta nouvelle île!"
-"105","(촀\0Hé, j'ai posé la question en premier!
+(%촀\0J'imagine que tu as dû trouver un
+moyen de combler (촀\0l'immense vide
+que j'ai laissé derrière moi."
+"205","(촀\0Hé, j'ai posé la question en premier!
 \0
 (6촀\0Mais soit, je vais te répondre, j'ai
 jamais pu résister à ce regard-là.
@@ -129,30 +132,30 @@ sortir les violons, j'avoue que je
 pense souvent à toi.
 (촀\0Bref, on pourrait changer de sujet
 avant que ça vire au larmoyant?"
-"106","(촀\0Dis, tu connais la dernière mode
+"206","(촀\0Dis, tu connais la dernière mode
 qui fait fureur sur l'île?"
-"107","<lmno"
-"108","(촀\0La pêche océanique!\0\0(촀\0Tu me diras que ça a toujours été
+"207","<ÐÑÒÓ"
+"208","(촀\0Pêcher dans l'océan!\0\0(촀\0Tu me diras que ça a toujours été
 plus ou moins à la mode, mais là,
 ça revient en force!
 (1촀\0Le regard perdu dans les vagues et la
 patte tremblante d'excitation rivée au
-moulinetn\0\0 Y'a rien de mieux."
-"109","(촀\0La capture d'insectes!\0\0()촀\0Certes, ça date pas d'hier, mais
+moulinetn\0\0 Il n'y a rien de mieux."
+"209","(촀\0La capture d'insectes!\0\0()촀\0Certes, ça date pas d'hier, mais
 est-ce que tu as vu les bibittes qui
 se baladent en ce moment?
 (6촀\0Y'en a qui mériteraient un label
 « édition limitée » tellement elles
 ont la classe. 
 \0(촀\0Ha HA!"
-"110","(촀\0Le creusage de trou!\0\0()촀\0Certes, c'est le meilleur moyen de
-ruiner les bottines en suédine dont
+"210","(촀\0Creuser des trous!\0\0()촀\0Certes, c'est le meilleur moyen de
+ruiner les bottines en suède dont
 on vient de faire l'acquisition avisée.
 (1촀\0Mais creuser des trous, c'est avant
 tout réinventer le paysage de l'île!\0\0(9촀\0C'est mettre sa créativité au service
 de la nature, apporter sa touche
 personnelle au panorama!"
-"111","(촀\0Le jardinage!\0\0()촀\0Certes, semer des graines et faire
+"211","(촀\0Le jardinage!\0\0()촀\0Certes, semer des graines et faire
 pousser des plantes vertes, ça ne
 date pas d'hier.
 (촀\0Mais aujourd'hui, tout a changé!

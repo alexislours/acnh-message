@@ -1,10 +1,10 @@
 ﻿"label","text"
-"001","(촀\0¡Holi!
-\0촃 (""촀\0¿Quieres un consejo para ser
+"001","(촀\0Dime,
+\0촃 (""촀\0¿quieres un consejo para ser
 más popular?"
 "002","(&촀\0¿Eh?촄
 \0(촀\0 Pues claro que no.
-\0 ¿Qué?"
+\0 ¿Por qué?"
 "003","()촀\0Es que en internet he encontrado
 una página que se llama «¿Quieres
 un consejo para ser más popular?».
@@ -69,11 +69,13 @@ cosasn\0\0
 Dicen que hay que dar pasitos
 muy muy muy pequeñitos.
 (촀\0(촃\0¿Se piensan que tengo todo
-el día para ir a los sitios o qué?\0\0(촀\0촆촃초
+el día para ir a los sitios o qué?\0\0(촀\0
 \0Pero dicen que andar así es como
 mucho más elegante y eso.
+\0촆
 \0
-¿Tú que crees, n\0?"
+¿Tú que crees,초
+\0 n\0?"
 "010_a","(\0촀\0¿Qué?"
 "010_b","(\0촀\0Yo ando normal"
 "011","촄(촀\0Yo eso no lo hago ni locan\0\0
@@ -81,15 +83,14 @@ mucho más elegante y eso.
 ¡Soy más de ir (5촀\0dando pisotones por
 ahí para que se note quién manda!(촂"
 "012","촃(촀\0¡Superfán de esa actitud, n촁!
-\0 (촀\0¡A pisotear juntas!"
+\0 (촀\0¡A pisotear juntas!"
 "013","(%촀\0Claron\0\0
 \0촄 La preguntita en sí ya
 tiene tela, (촀\0pero es que no sé a quién
 se le ocurriría ir andando así, tú."
 "014","(촀\0촃¡Ay, n촁!촃
-\0 ¡Mira cómo
-camino,
-\0 es que tengo que ir al baño!
+\0 ¡Mira cómo camino,
+\0 es que tengo que ir al baño!
 \0(3촃\0(촂"
 "101","(""촀\0¡2\0n촁!
 \0
@@ -100,21 +101,19 @@ nada, así que no sé qué decirten\0\0
 ¡Será mi olor natural!
 (&촀\0¿Y cómo se supone que funciona
 eso de «chipichipi»?"
-"103","촆¿Tú no lo hueles,
-n\0?\0\0촃($촀\0Es como una nube de chipichipez
+"103","촆¿Tú no lo hueles, n\0?\0\0촃($촀\0Es como una nube de chipichipez
 que rodea a n촁.
-\0( 촁\0초
-Huele superbién."
+\0 ( 촁\0초Huele superbién."
 "103_a","¡Huele a flores!"
 "103_b","¿Huele a jabón?"
 "103_c","¿Huele a chuches?"
-"104","촇(촀\0¡¿A floreees?!
+"104","(촀\0¡¿A floreees?!
 \0('촀\0 Buf, qué cursilada.
 No sé de dónde sacas eson"
 "105","촃(촀\0¡Claro!
-\0 촅¡Te gustan tanto las flores
+\0 촇촅¡Te gustan tanto las flores
 ( 촃\0(촀\0que quieres oler como ellas!(촃"
-"106","(촂\0(촁\0(	촀\0A ver,
+"106","(촂\0(촁\0(	촀\0A ver,촄
 \0 si me hubiese puesto colonia
 o perfume, sería normal que oliera a
 flores porque todos huelen a eson\0\0
@@ -122,7 +121,7 @@ flores porque todos huelen a eson\0\0
 촀\0¡Pero es촆 que yo no me echo de
 esas cosas! 
 \0¡Que quede bien claro!"
-"107","(6촀\0Sí, sí, sín\0\0
+"107","(6촀\0Sí, 촃sí, sín\0\0
 \0 (촀\0¡Hueles a flores
 porque te encaaantan (촃\0y estás
 tooodo el tiempo rodeada de ellas!(\0촁"
@@ -210,7 +209,7 @@ delante del espejo.
 una sesión de las de desmelenarse,
 n촀!
 (!촀\0Porque vaya «n\0» has soltado por esa boquitan"
-"203","(촀\0Pues, mira, el número me quedó
+"203","(촀\0Pues, 촃mira, el número me quedó
 de lo más estupén,
 \0 por eso
 me puede la emoción.\0\0(촀\0¡La que vale para estrella,
@@ -229,13 +228,13 @@ ser tú, ¿eh? 
 de estrella del rock!
 A vern\0\0
 \0(촀\0 ¿2\0n\0?"
-"205","(촀\0¡Ay, me encanta!
+"205","(촀\0¡Ay, 촃me encanta!
 \0 Como que suena
 totalmente distinta cuando la usas
 tú,
 \0 ¡es genial!\0\0(촀\0Pero sabes que yo soy una estrella
 de pop, no de rock, ¿verdad?"
-"206","(2촀\0Bueno, tampoco te tomes las cosas
+"206","(2촀\0Bueno, 촄tampoco te tomes las cosas
 tan en serio. 
 \0(!촀\0¡Alégrate por mi nueva
 muletilla y punto, n\0!"

@@ -179,13 +179,16 @@ qui 2\0 n\0!"
 incontrato il nostro ospite all'\0area
 per campeggio\0￿, sì?
 \0 (촀\0Com'è andata?"
-"401_a","Gia fatto!"
+"401_a","L'ho già invitato!"
 "401_b","Vuole vivere qui!"
-"402","(촀\0Oggi abbiamo avuto la nostra prima
-visita all'\0area per campeggio\0￿!\0\0(촀\0Ehi, n\0, se hai tempo,(9촀\0 o anche se non ce l'hai, trovalo e vai a dare un'occhiata.\0\0(촀\0E appena ne hai l'occasione,
-lancia la proposta di trasferirsi
-qui 2\0 n\0!"
-"402_a","Gia fatto!"
+"402","(촀\0Oggi, l'\0area per campeggio \0￿accoglie
+il nostro primo turista!\0\0(촀\0Ehi, n\0, 
+\0magari fagli visita se hai tempon\0\0
+\0(9촀\0 o anche se non ce l'hai.\0\0(촀\0E appena si presenta l'occasione,
+lancia la proposta di trasferirsi qui
+2\0 n\0, 
+\0sì, sì!"
+"402_a","L'ho già invitato!"
 "402_b","Vuole vivere qui!"
 "403_01","(촀\0
 \0Cosa?! Davvero, (촀\0n\0? Ce l'hai fatta! E più in fretta del previsto, per giunta!"
@@ -224,8 +227,8 @@ casa e poi torna da me.\0\0(촀\0Bene, alloran\0\0(""촀\0 Parti senza i
 impegni, puoi farlo quando hai
 tempo.\0\0(촀\0Fammi sapere non appena ti liberi.
 \0
-Ti darò il \0kit edilizio \0￿che ti serve per
-costruire la casa."
+Ti darò il \0kit abitativo \0￿che ti serve
+per costruire la casa."
 "410","Quindi, n\0,
 \0 (7촀\0se hai tempo, vorrei che trovassi il posto ideale per una nuova casa."
 "410_a","Me ne occupo io!"

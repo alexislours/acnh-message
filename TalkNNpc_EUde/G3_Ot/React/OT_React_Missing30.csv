@@ -14,9 +14,7 @@ bei uns und augenscheinlich wohlauf.
 \0verzeih, 
 \0es war eine lang Zeit...
 (촀\02\0n\0, 
-\0willkommen
-zurück in deinem geliebten
-Zuhause, (촀\0
+\0willkommen zurück in deinem geliebten Zuhause, (촀\0
 \0n\0!"
 "002","( 촀\0Ojeminen\0\0 Wenn das nicht
 2
@@ -98,7 +96,7 @@ schönes Eiland n\0.
 \0
 (촀\0Dank dir ist es ein besserer Ort!"
 "004_02","(촀\0Nicht doch! 
-\0n\0?!
+\02\0n\0?!
 
 \0(촀\0Oh, 
 \0endlich bist du zurück! 
@@ -109,14 +107,11 @@ zum Kuckuck warst du überhaupt?!
 
 \0ist dieses Eiland einfach nicht das
 gleiche! 
-\0('촀\0Es ist geradezu grauenvoll!\0\02\02$#촀mein
-meinemein 촀 bereitet
-mir keine Freude mehr 
-\0(촀\0und 2&""촀
+\0('촀\0Es ist geradezu grauenvoll!\0\02\02$$촀mein
+meinemein 촀 bereitet mir keine Freude mehr 
+\0(촀\0und 2&#촀
 jederjede
-jedes
-촀 schmeckt fad!
-(촀\0Bitte verzeih, 
+jedes 촀 schmeckt fad!\0\0(촀\0Bitte verzeih, 
 \0(촀\0aber ohne dich habe
 ich mich hier vor Einsamkeit
 geradezu verzehrt, 
@@ -140,10 +135,8 @@ es nur für einen Tag, 
 "005","<"
 "005_01","( 촀\0Oh, 
 \0n\0. 
-\0(\0촀\0Es scheint
-mir eine kleine Ewigkeit her, 
-\0dass wir
-letztmalig das Vergnügen hatten!\0\0(
+\0(\0촀\0Es scheint mir eine kleine Ewigkeit her, 
+\0dass wir letztmalig das Vergnügen hatten!\0\0(
 촀\0Nun ja, 
 \0Z 2DĀmonthsganzer Monatganze Monate, 
 \0um genau
@@ -168,10 +161,7 @@ deinerseits, (촀\0
 \0n\0?"
 "005_03","(촀\0Oh, 
 \0n\0. 
-\0(촀\0Seit unserer
-letzten Unterhaltung ging nun schon
-ein geraumes Weilchen ins Land...
-(
+\0(촀\0Seit unserer letzten Unterhaltung ging nun schon ein geraumes Weilchen ins Land...\0\0(
 촀\0Wenn mich nicht alles täuscht,
 
 \0lässt sich dieses Weilchen auf

@@ -53,28 +53,24 @@ peut voir le résultat!"
 \0
 n\0. Tout à fait l'endroit où j'imagine une maison!\0\0T'en connais un rayon sur les
 terrains, n\0. (촀\0J'aurais dû te demander de choisir le mien!"
-"005","촊촉(촀\02\0n\0, ta maison est si
-minusculen\0\0
+"005","촊촉(촀\02\0n\0, ta maison est si minusculen\0\0
 \0촆촃(촀\0 c'est trop confo!
 \0\0\0(촀\0Faut absolument que tu me donnes
 tes conseils de déco, n\0!"
 "006","촊촉( 촀\02\0n\0,
-\0 tu as agrandi ta
-maison depuis que tu as emménagé,
-je me trompe?
-촆촃J'adore ce que tu en as fait!
+\0 tu as agrandi ta maison depuis que tu as emménagé,
+je me trompe?\0\0촆촃J'adore ce que tu en as fait!
 Du coup, tu as plus de place
 pour de nouveaux meubles!"
 "007","촊촉($촀\0Oh,
-\0 tu as fait construire une pièce
-supplémentaire derrière ta maison?\0\0촆촃(9촀\0Tu sais déjà à quoi elle va servir?"
-"008","촊촉2\0n\0, ta maison a
-maintenant trois pièces? (;촀\0La classe!
+\0 tu as une pièce en plus
+derrière ta maison?\0\0촆촃(9촀\0Elle te sert à quelque chose,
+au moins?"
+"008","촊촉2\0n\0, ta maison a trois pièces, c'est bien ça? (;촀\0La classe!
 \0
 촆촃(촀\0Je suis 
 \0trop
-\0 jalouse!
-(1촀\0Trois, c'est mieux que deux. En même
+\0 jalouse!\0\0(1촀\0Trois, c'est mieux que deux. En même
 temps, ça reste moins que quatre.
 ('촀\0Mais quatre, entre nous, c'est trop.
 \0
@@ -99,8 +95,7 @@ d'enregistrement?
 \0
 Trop. 
 \0Pas. 
-\02\0n\0!
-"
+\02\0n\0!"
 "011","(8촀\0Un sous-sol, voilà une idée
 lumineuse,
 \0 n\0!
@@ -110,45 +105,32 @@ j'irais pour m'entraîner à chanter.\0\0(\0촀\0Parce que sous la terre,
 ne t'entendent pas et ne crient pas :
 (;촀\0« pourquoi tu hurles comme ça? »"
 "012","촊촉2\0s\0촀 habite dans une tenten\0\0
-\0 (&촀\0Tu crois qu'2
-촀ilelle\0 aime vivre comme ça?\0\0촆촃(\0촀\0Peut-être que la situation lui plaît
+\0 (&촀\0Tu crois qu'2촀ilelle\0 aime vivre comme ça?\0\0촆촃(\0촀\0Peut-être que la situation lui plaît
 \0(촀\0
-et qu'2
-촀ilelle\0 va dormir sous une tente
-toute sa vie?!\0\0(촀\0Si c'est ce dont 2
-촀ilelle\0 rêve, c'est facile
+et qu'2촀ilelle\0 va dormir sous une tente
+toute sa vie?!\0\0(촀\0Si c'est ce dont 2촀ilelle\0 rêve, c'est facile
 à réaliser!"
 "013","촊촊La maison 2
-de d'⁠s\0촀 est
-toute petite.
-\0 (%촀\0C'est vrai que parfois,
-촆촃on n'a pas besoin de plus!"
+de d'⁠s\0촀 est toute petite.
+\0 (%촀\0C'est vrai que parfois, 촆촃on n'a pas besoin de plus!"
 "014","촊촉( 촀\0La maison 2
 de d's\0촀 est plus grande que je pensais.\0\0촆촃(
-촀\02
-촀IlElle\0 a peut-être voulu acheter de
-nouveaux meubles et 2
-촀ilelle\0 a réalisé
+촀\02촀IlElle\0 a peut-être voulu acheter de
+nouveaux meubles et 2촀ilelle\0 a réalisé
 que sa maison est trop petite.
 (\0촀\0Je suis un peu pareillen\0\0
 \0 ('촀\0Mais moi,
 j'irais plutôt enterrer mes vieilles
 affaires pour les faire disparaître."
-"015","(촀\02\0n\0, t'as su la
-dernière?
-\0 2\0s\0촀 a fait
-ajouter une pièce dans sa maison.
-촊촉(;촀\0Je me demande ce qu'2
-촀ilelle\0 va bien
+"015","(촀\02\0n\0, t'as su la dernière?
+\0 2\0s\0촀 a fait ajouter une pièce dans sa maison.\0\0촊촉(;촀\0Je me demande ce qu'2촀ilelle\0 va bien
 pouvoir en fairen\0\0
 \0\0\0촆촃(6촀\0J'ai un tas d'idées pour aménager
 une pièce, tu peux me croire.
 \0
 (촀\0Si seulement j'en avais une en plusn"
 "016","촊촉( 촀\0La maison 2
-de d's\0촀
-est immense! 촆촃(촀\0Je jurerais que tout
-ça n'était pas là hier!"
+de d's\0촀 est immense! 촆촃(촀\0Elle serait même de taille acceptable pour une star!"
 "017","촊촉( 촀\0Tu as vu la taille de la maison
 2
 de d'⁠s\0촀?!\0\0(8촀\0Perso,
@@ -158,11 +140,9 @@ panneaux genre « Cuisine par ici »!
 \0
 촆촃(촀\0Et si je me perds en installant les
 panneaux?!"
-"018","촊촉J'hallucine de voir la maison
-2
-de d'⁠s\0촀! 
-\0(촀\0T'as
-remarqué l'étage?\0\0(
+"018","촊촉J'hallucine de voir la maison 2
+de d'⁠s\0촀! 
+\0(촀\0T'as remarqué l'étage?\0\0(
 촀\0C'est pas que je sois sale, mais je
 voudrais pas passer mon temps à
 nettoyer pour que ça reste propren\0\0
@@ -176,8 +156,7 @@ la suivante!
 \0(촀\0esprit brillant!"
 "019","(촀\0Tu as entendu la nouvelle?
 촊촉2\0s\0촀 a maintenant un
-sous-sol chez 2
-촀luielle\0!\0\0(&촀\0Je me demande ce qu'2ilelle peut bien
+sous-sol chez 2촀luielle\0!\0\0(&촀\0Je me demande ce qu'2ilelle peut bien
 y faire
 \0 de méga secret, à l'abri des
 regards des curieuxn\0\0\0\0촆촃(촀\0Quoi? 
@@ -285,7 +264,7 @@ en plus aller les vivre au \0musée\0￿n"
 \0 2\0
 , en ce moment.\0\0()촀\0Il y en a au \0musée\0￿, à l'expo sur les
 insectes.
-\0 En vrai, la manière qu'2(촀ils
+\0 En vrai, la manière qu'2)촀ils
 elles\0
 ont de bougern\0\0 
 \0(2촀\0ça m'hypnotisen"
@@ -293,6 +272,6 @@ ont de bougern\0\0 
 mais je suis fan des fossiles! Surtout
 2\0
 !
-(촀\0C'est excitant d'imaginer qu'2(촀ilelle\0
+(촀\0C'est excitant d'imaginer qu'2)촀ilelle\0
 vivait ici même, il y a longtemps
 de chez longtemps!"

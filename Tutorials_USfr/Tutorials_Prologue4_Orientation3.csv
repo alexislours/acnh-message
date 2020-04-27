@@ -247,8 +247,7 @@ this island will be known as
 "045_01_02","촆Dis-moi, n\0n\0\0\0\0(%촀\0Puisque tu as prouvé ta valeur en
 trouvant le nom parfait pour n	\0n\0\0\0\0(촀\0... j'aimerais compter sur toi pour
 prendre certaines décisions
-importantes sur cette île.\0\0(촀\0Oui, oui, n\0,
-j'ai l'honneur de te nommer délégué2\0e insulaire 2
+importantes sur cette île.\0\0(촀\0Oui, oui, n\0, j'ai l'honneur de te nommer délégué2\0e insulaire 2
 de d'⁠n	\0!"
 "045_02","2\0n\0, en tant que 2""nouveaunouvelle porte-parole de tes voisins,(&촀\0 voudrais-tu dire un mot ou deux?"
 "045_02_a","Salut à tous!"
@@ -264,14 +263,14 @@ aujourd'hui, mais il se fait tard.(촀\0
 Il est l'heure de porter un toast!"
 "045_04_02","(&촀\0Tout le monde a quelque chose
 à boire?\0\0(촀\0Dégustez ce délicieux jus 2
-de d'⁠n촀
+de d'⁠\0n촀\0￿
 produit avec des fruits fraîchement
 cueillis par notre délégué2\0e insulaire!"
 "045_04_03","(3촀\0Mais trêve de longs discoursn\0\0
 (!촀\0À n	\0 et au bonheur de ses résidents!"
 "045_05","
 \0(촀\0                    \0Santé!\0d
-"
+<"
 "046","Out of curiosity, n\0...\0\0is it 
 \0n	\0-shima,
 \0
@@ -302,9 +301,9 @@ du yo-yo, va faire une sieste!
 (촀\0On s'occupera du feu, sois
 tranquille."
 "051_01_a","Ouais, j'ai sommeil."
-"051_01_b","Je déborde d'énergie!"
+"051_01_b","(\0촀\0Je déborde d'énergie!"
 "051_a","Ouais, j'ai sommeil."
-"051_b","Je déborde d'énergie!"
+"051_b","(\0촀\0Je déborde d'énergie!"
 "052","(촀\0Très bien!
 \0 Mais d'abord, tu vas
 avoir besoin de çan"

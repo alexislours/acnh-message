@@ -30,8 +30,8 @@ Allons donc !
 \0(je peux tout aussi bien
 la conserver, si tu préfèresn\0\0(""촀\0
 Qu'en dis-tu, n\0 ?"
-"002_a","C'est bien de changer."
-"002_b","Celle-ci est très bien."
+"002_a","(\0촀\0C'est bien de changer."
+"002_b","(\0촀\0Celle-ci est très bien."
 "003","(""촀\0Oh,
 \0 te voilà, 
 \0n\0 !\0\0(촀\0Comme c'est amusant,
@@ -57,8 +57,8 @@ demandais s'il n'était pas temps de
 varier un peun\0\0
 (\0촀\0Enfin, je ne sais pasn\0\0(""촀\0 Quel est ton
 avis sur la question ?"
-"004_a","J'ai une idée !"
-"004_b","Ça me va comme ça."
+"004_a","(\0촀\0J'ai une idée !"
+"004_b","(\0촀\0Ça me va comme ça."
 "005","(%촀\0Ça ne fait rien, ne t'en fais pas.
 \0
 Ça nous arrive à tous.\0\0(\0촀\0Moi-même, je me suis creusé la tête
@@ -100,7 +100,7 @@ déjà la plus chic de toutes."
 de suiten\0\0\0\0(""촀\02\0n\0Bonjour, petite fleurn !
 \0
 (2촀\0Alorsn\0\0 c'était comment ?"
-"101_a","C'était très bien !"
+"101_a","(\0촀\0C'était très bien !"
 "101_b","C'est pas encore ça..."
 "102","(&촀\0« 2\0n\0Bonjour, petite fleurn »n\0\0?
 \0
@@ -130,9 +130,7 @@ le temps.
 \0 C'est merveilleux !"
 "202","(2촀\0Eh bien,
 \0 n\0,
-\0 on dirait
-que nous avons notre formule de
-salutation rien qu'à nous !"
+\0 on dirait que nous avons notre formule de salutation rien qu'à nous !"
 "203","(%촀\0C'est à la mesure de notre belle
 amitié.
 \0 (촀\0J'ai l'impression que ça

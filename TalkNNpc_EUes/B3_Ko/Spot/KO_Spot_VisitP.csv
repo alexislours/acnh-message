@@ -4,7 +4,7 @@
 \0 n
 \0.
 \0
-¡Vamos a dar una vuelta!
+¡Vengo a verte un rato!
 x"
 "002","Buenas,
 \0 n\0.
@@ -22,9 +22,8 @@ Soy yo,
 x"
 "004","Venga,
 \0 n\0,
-\0
-si estás ahí,
-\0 ¡sal un momento!
+\0 si estás ahí,
+\0 ¡acude a la puerta!
 x"
 "005","Mmmn\0\0
 \0 Parece que no hay nadie.
@@ -70,8 +69,7 @@ del otro jueves,
 \0 chic2oa:
 \0
 ¡2\0}\0!
-\0
-(%촀\0Espero que te guste."
+\0 (%촀\0Espero que te guste."
 "203","(촀\0¡Ah,
 \0 sí!
 \0 Te he traído algo para picar.
@@ -109,8 +107,8 @@ mañana lo que puedas hacer hoy»?\0\0(5촀\0Pues eso,
 \0
 n\0."
 "208","(6촀\0¡Vaya!
-\0 No he terminado de llegar
-y ya has montado una fiesta."
+\0 No termina uno de llegar
+y enseguida se monta la fiestan"
 "209","(촀\0¿Te ha sorprendido mi repentina
 visita,
 \0 jovencit2oa?\0\0(9촀\0Pues una cosa más que has

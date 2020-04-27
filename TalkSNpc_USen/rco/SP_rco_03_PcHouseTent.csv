@@ -204,10 +204,10 @@ about \0Timmy\0￿'s shop.
 point you in \0Timmy\0￿'s direction.
 \0
 (%촀\0He should have the details for you!"
-"140","(촀\0Well then, I should thank you for
-helping gather those materials for
-the shop. 
-\0You're quite resourceful!"
+"140","(촀\0I must thank you for offering to
+help gather materials for the new
+shop.
+\0 That's very generous!"
 "140_01","(
 촀\0Ah, but you're looking for practical
 advice, hm?\0\0(%촀\0Well, it seems you could be in the
@@ -232,10 +232,10 @@ you can make something of it!"
 something with them, hm? 
 \0(%촀\0That
 \02\0Ā촃flimsy axe \0￿is not far out of reach!"
-"150","(촀\0Well, first off, I should thank you for
-gathering all of those materials for
-the shop. 
-\0You're quite resourceful!
+"150","(촀\0I should thank you for gathering all
+of those materials for the shop.
+\0
+You're quite resourceful!
 (촀\0Maybe I should be asking YOU for
 advice on how to build up this island!"
 "160","(
@@ -252,15 +252,17 @@ to spend your time as you please!"
 pressing business to attend to
 right now, n\0.\0\0(\0촀\0I'd recommend treating yourself to
 (촀\0a little shopping spree!"
-"162","(촀\0I'm in contact with some folks who
-are interested in moving to this
+"162","()촀\0I'm in contact with some folks who
+are very interested in moving to this
 island, so
-\0 I'm busy with prep work.
-(%촀\0Yes, you're going to have some new
-neighbors.
-\0(\0촀\0 I trust you'll treat them
-kindly
-\0(촀\0 when they arrive, hm?"
+\0 I'm busy with prep work.\0\0(촀\0In fact,
+\0 there's so much interest that
+I asked our Resident Representative,
+n'\0, to help out.\0\0(촀\0Perhaps you should speak to
+n'\0 and see how
+things are going.\0\0(촀\0Yes, yes! 
+\0You're going to have new
+neighbors very soon!"
 "163","( 촀\0Ah! Here's something.
 \0(\0촀\0 Did you know
 you can now redeem miles at the
@@ -514,7 +516,7 @@ for you. 
 \0((&촀\0Would you mind
 opening it up?"
 "923","(촀\0Splendid, thank you. 
-\0The DIY app
+\0The \0DIY\0￿ app
 is now installed on your phone
 and ready for you to use anytime."
 "923_01","(%촀\0And the \02\0Ā촃flimsy fishing rod \0￿you just

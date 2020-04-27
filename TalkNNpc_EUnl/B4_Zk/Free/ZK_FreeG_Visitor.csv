@@ -6,7 +6,7 @@ bord-fruit al geprobeerd?"
 "001_b","Nee, hoezo?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Maar natuurlijk!
 \0 Jij hebt smaak, dat
 zag ik meteen."
@@ -43,10 +43,12 @@ dat kan het nog worden.\0\0(1촀\0Stel je voorn\0\0 Een grote zaal die tot
 in de nok is gevuld met allerlei
 wonderen van de wereld.\0\0(!촀\0Ik kan niet wachten om daar
 persoonlijk aan bij te dragen!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Wie kan je met een onfeilbaar
 gevoel voor stijl het \0museum \0￿van
 n\0 aanbevelen?\0\0(촀\0Deze jongen!
@@ -59,12 +61,12 @@ zangstem fant
 \0á
 \0á
 \0stisch!"
-"028","(&촀\0Wist je dat we een 2:(촀zeldzamezeldzaamzeldzame 
-\0 in ons \0museum \0￿hebben?\0\0(%촀\02(촀DieDatDie moet je echt gaan zien.
+"028","(&촀\0Wist je dat we een 2:)촀zeldzamezeldzaamzeldzame 
+\0 in ons \0museum \0￿hebben?\0\0(%촀\02)촀DieDatDie moet je echt gaan zien.
 \0 Die vis
 is cooler dan de meeste landlui die
 ik ken!"
-"029","(촀\0Ik voelde me bij het bekijken van 2(촀diedatdie 
+"029","(촀\0Ik voelde me bij het bekijken van 2)촀diedatdie 
  in het \0museum \0￿toch licht ongemakkelijk.\0\0(+촀\0Ik had zoiets vann\0\0 wie kijkt er nu
 eigenlijk naar wíé?!"
 "030","(&촀\0Hé, hallo daar, heb je 2\02촃
@@ -72,27 +74,31 @@ eigenlijk naar wíé?!"
 kunt zien van iets wat miljoenen
 jaren geleden geleefd heeft.\0\0(1촀\0Waarschijnlijk worden mijn botten
 ($촀\0ook ooit zo tentoongesteldn"
-"101","<\0fj"
-"102","(4촀\0Zeg, mag ik je iets vragen, 
+"201","<\0ÊÎ"
+"202","(4촀\0Zeg, mag ik je iets vragen, 
 \0ik bedoel,
 \0
 iets eh,
-\0 serieus?\0\0(&촀\0Heb je nog weleens aan me gedacht
-nadat je hier weggegaan bent?"
-"102_a","Maar natuurlijk!"
-"102_b","Eerlijk gezegd niet."
-"102_c","Hoezo? Heb je me gemist?"
-"103","(6촀\0Ahn\0\0 zo denk ik er ook over. 
+\0 serieus?\0\0(&촀\0Heb je nog weleens aan me
+gedachtn\0\0
+\0 nadat
+\0 ik ben verhuisd?"
+"202_a","Maar natuurlijk!"
+"202_b","Eerlijk gezegd niet."
+"202_c","Hoezo? Heb je me gemist?"
+"203","(6촀\0Ahn\0\0 zo denk ik er ook over. 
 \0((촀\0Maar
 gelukkig kun je me altijd komen
 opzoeken, n\0!"
-"104","(촀\0O, nu ja, je bent in elk geval eerlijk.
+"204","(촀\0O, nu ja, je bent in elk geval eerlijk.
 \0
 (5촀\0Als aanstormend talent kan ik
-opbouwende kritiek goed gebruiken.\0\0(%촀\0Je hebt ongetwijfeld een beter
-eiland gevonden en ik wens je daar
-veel succes!"
-"105","(촀\0Hé, ik vroeg het eerst! 
+opbouwende kritiek goed gebruiken.\0\0( 촀\0En je had geen andere keus dan op
+een manier, 
+\0hoe lastig ook, 
+\0(촀\0de leegte
+te vullen die ik heb achtergelaten."
+"205","(촀\0Hé, ik vroeg het eerst! 
 \0(6촀\0Maar je
 dekselse charme is onweerstaanbaar,
 dus jan\0\0\0\0(4촀\0Ik heb je gemist!
@@ -100,27 +106,27 @@ dus jan\0\0\0\0(4촀\0Ik heb je gemist!
 sentimenteel te doen of zo, maar ik
 koester mijn herinneringen aan jou.\0\0(촀\0Ander onderwerp graag, anders hou
 ik het niet droog."
-"106","(촀\0Zeg, ben je al op de hoogte van de
+"206","(촀\0Zeg, ben je al op de hoogte van de
 laatste eilandhype?"
-"107","<lmno"
-"108","(촀\0Vissen in zee!\0\0(촀\0Ik bedoel, dat werd natuurlijk altijd
+"207","<ÐÑÒÓ"
+"208","(촀\0Vissen in zee!\0\0(촀\0Ik bedoel, dat werd natuurlijk altijd
 al gedaan, maar nu is het helemaal
 hot.\0\0(1촀\0Het heeft wel iets, de rust van het
 staren over het schitterende water
 en de opwinding van de vangstn"
-"109","(촀\0Insecten vangen!\0\0()촀\0Ja, dat gebeurt natuurlijk al sinds
+"209","(촀\0Insecten vangen!\0\0()촀\0Ja, dat gebeurt natuurlijk al sinds
 jaar en dag, maar die beestjes van
 tegenwoordig zijn zo cóól!\0\0(6촀\0Sommige kun je zo voorzien van een
 designerlabel. 
 \0(촀\0Bízar!"
-"110","(촀\0Gaten graven!\0\0()촀\0Nee, serieus. 
+"210","(촀\0Gaten graven!\0\0()촀\0Nee, serieus. 
 \0Lekker je fonkelnieuwe
 laarsjes bemodderen, goed idee, zie
 ik je denken.\0\0(1촀\0Maar al gravend kun je het
 landschap van het eiland helemaal
 naar je eigen inzicht inrichten!
 (9촀\0Creatiever kun je bijna niet wordenn"
-"111","(촀\0Tuinieren!\0\0()촀\0Oké, we zijn natuurlijk al eeuwen-
+"211","(촀\0Tuinieren!\0\0()촀\0Oké, we zijn natuurlijk al eeuwen-
 lang met planten in de weer.
 \0( (촀\0Maar
 dit is nieuw!\0\0()촀\0Eerst plant je de plantjes.

@@ -5,9 +5,9 @@ novità da paura!
 ($촀\0E voglio mostrarli a te per prim2oa!
 \0
 (%촀\0Ecco qui, dai una bella occhiata a
-2""촀questoquesta\0 }\0\0."
-"001_a","Quanto vorresti?
-Dimmi tutto..."
+2""촀questoquesta\0 }\0\0."
+"001_a","(\0촁\0Quanto vorresti?
+(\0촁\0Dimmi tutto..."
 "001_b","(\0촁\0Non mi interessa.
 (#촁\0Non mi serve, grazie."
 "002","(5촀\0A me gli occhi, ora leggerò
@@ -16,9 +16,9 @@ la tua mente!
 2\0}\0\0!
 (촀\0Muy bien!
 \0 È il tuo giorno fortunado
-perché ne ho 2촀unouna\0 proprio qui!"
-"002_a","Per quanto?
-Continua a parlare..."
+perché ne ho 2촀unouna\0 proprio qui!"
+"002_a","(\0촁\0Per quanto?
+(\0촁\0Continua a parlare..."
 "002_b","(\0촁\0No, grazie...
 (\0촁\0Scusa, non mi serve."
 "003","(촀\0Hola! Stavo facendo pulizia tra
@@ -27,9 +27,9 @@ le mie cianfrus-,
 촀\0 ehmn\0\0 i miei
 inestimabili tesorin\0\0
 (촀\0E bueno, per farla breve ho deciso
-di vendere queste quattro cose!
+di vendere quattro di questi ""tesori"".
 \0
-Te interessa comprare qualcosa?"
+Te interessa?"
 "003_a","(\0촁\0Sentiamo!
 (\0촁\0Forse sì."
 "003_b","(\0촁\0Sei gentile, ma no.
@@ -37,7 +37,7 @@ Te interessa comprare qualcosa?"
 "004","(""촀\0Ehi, n\0! 
 \0(촀\0Ho un
 problemito... 
-\0Ho comprato 2""촀questoquesta\0
+\0Ho comprato 2""촀questoquesta\0
 }\0\0n\0\0
 (촀\0Chissà a cosa pensavo! 
 \0Un tipo tosto
@@ -45,7 +45,7 @@ e romantico come me non ha bisogno
 di una cosa del genere.
 (
 촀\0Così, eccon\0\0 pensavo che magari tu
-potresti essere interessad2oa a 2""촀questoquesta\0
+potresti essere interessad2oa a 2""촀questoquesta\0
 }\0\0n"
 "004_a","(\0촁\0Quanto costa?
 (촁\0Sì, mi interessa."
@@ -87,7 +87,7 @@ per la prossima volta, n\0."
 (
 촀\0Vediamon\0\0 che ne dici di un prezzo
 davvero ridicolos di Z?"
-"100_a","Venduto!
+"100_a","(\0촁\0Venduto!
 Ci sto!"
 "100_b","(\0촁\0No, grazie...
 (#촁\0Scusa, ma no..."
@@ -131,8 +131,8 @@ osso duro tun\0\0 OK, puedo scendere
 a Z, non di meno!"
 "201_a","(\0촁\0Così va meglio.
 (\0촁\0Penso vada bene."
-"201_b","Non ce le ho...
-È ancora troppo."
+"201_b","(\0촁\0Non ce le ho...
+(\0촁\0È ancora troppo."
 "202","(촀\0Tostissimo, n\0!
 \0
 Affare fatto, allora!"
@@ -184,7 +184,7 @@ sarà per la prossima volta."
 \0Si vede che hai occhio per
 la merce da paura!\0\0(
 촀\0Vediamon\0\0 (&촀\0Che ne dici se facciamo
-Z per 2N촀""il mio amatissimo""la mia amatissima\0
+Z per 2N촀""il mio amatissimo""la mia amatissima\0
 }\0\0?"
 "300_a","(촁\0Molto bene!
 (촁\0Affare fatto!"
@@ -201,7 +201,7 @@ passato! 
 n\0!"
 "303","(
 촀\0Buenon\0\0 in cambio di Z,
-puedo offrirti 2N촀""questo fantastico""questa fantastica\0
+puedo offrirti 2N촀""questo fantastico""questa fantastica\0
 }\0\0."
 "303_a","(촁\0Mi interessa!
 (촁\0Mi piace!"
@@ -220,10 +220,10 @@ per la miseria di Z?"
 "305","(촀\0Sorbole, hai gusti difficili tu!
 \0
 (9촀\0Bueno, ultima offerta.\0\0(%촀\0Per l'irrisoria cifra di Z,
-puoi avere 2^촀*un utile ed esclusivo*un'utile ed esclusiva\0
+puoi avere 2^촀*un utile ed esclusivo*un'utile ed esclusiva\0
 }\0\0."
-"305_a","Pago subito!
-Affare fatto!"
+"305_a","(\0촁\0Pago subito!
+(\0촁\0Affare fatto!"
 "305_b","(\0촁\0Lasciamo perdere...
 (\0촁\0No, non mi interessa."
 "306","(촀\0Gracias! 
@@ -252,7 +252,7 @@ a mercanteggiare un poquito.
 (&촀\0Che ne pensi di Z?"
 "403_a","(\0촁\0Mi sta bene!
 (\0촁\0Aggiudicato!"
-"403_b","Un po' di meno, no?
+"403_b","(\0촁\0Un po' di meno, no?
 È ancora troppo."
 "404","(촀\0Sorbole, sei un osso duro tu, eh?
 \0

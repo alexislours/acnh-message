@@ -4,7 +4,7 @@
 (&촀\0Zal ik je op een schatzoektocht
 uitsturen?"
 "001_a","Dat zie ik wel zitten!"
-"001_b","Een andere keer."
+"001_b","(\0촀\0Een andere keer."
 "002","(
 촀\0Als je tijd hebt, dan weet ik wel wat
 voor je.
@@ -61,7 +61,7 @@ dat ik hem buiten heb begraven, 
 \0omdat het binnen nergens mocht.
 ð\0\0\0(9촀\0Dit is overigens tussen jou en mij.
 
-\0Alleen jij kan de schat opgraven,
+\0Alleen jij kunt de schat opgraven,
 begrepen?
 \0( ('촀\0\0KDie fout maak ik niet weern\0\0\0d
 ð\0\0\0(\0촀\0Dat was het.
@@ -89,9 +89,10 @@ voordat de tijd om is, is hij van jou!
 ð\0\0\0(7촀\0Ik vertel je wel gratis en voor niets
 dat ik hem buiten heb begraven,
 
-\0omdat het binnen nergens mocht.\0\0(9촀\0Dit is overigens tussen jou en mij.
+\0omdat het binnen nergens mocht.
+Z\0\0\0(9촀\0Dit is overigens tussen jou en mij.
 
-\0Alleen jij kan de schat opgraven,
+\0Alleen jij kunt de schat opgraven,
 begrepen?
 \0( ('촀\0\0KDie fout maak ik niet weern\0\0\0d
 ð\0\0\0()촀\0Je hebt maar weinig tijd, dus niet
@@ -104,15 +105,15 @@ beetje. 
 \0
 (&촀\0Wil je weten hoe het werkt?"
 "013_a","(%촀\0Ja, ik heb uitleg nodig."
-"013_b","('촀\0Laten we beginnen!"
+"013_b","Nee, doe geen moeite!"
 "014","(촀\0Geweldig! 
 \0Waar wachten we nog op?!
 Z"
 "014_01","(촀\0Prima! 
 \0En even voor de duidelijkheid:
 dit is tussen jou en mij. 
-\0Alleen jij kan
-de schat opgraven, begrepen?
+\0Alleen jij
+kunt de schat opgraven, begrepen?
 ð\0\0\0(촀\0Oké dan, laten we knallen!
 x"
 "015","(6촀\0Cool! 
@@ -126,8 +127,9 @@ tijd hebt, dus niet lanterfanten!
 \0( (9촀\0Voor de
 duidelijkheid: dit is tussen jou en mij.
 
-\0Alleen jij kan de schat opgraven.
-ð\0\0\0(6촀\0Er staat dit keer minder tijd op de klok, 
+\0Alleen jij kunt de schat opgraven.
+ð\0\0\0(6촀\0Er staat dit keer minder tijd op de
+klok, 
 \0oké?
 \0( (촀\0Laten we dan maar eens
 beginnen, n\0!

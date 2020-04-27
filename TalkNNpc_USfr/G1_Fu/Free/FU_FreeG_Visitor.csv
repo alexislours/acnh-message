@@ -1,12 +1,11 @@
 ﻿"label","text"
-"001","Tiens, n\0n\0\0 J'ai une
-petite question pour toi.\0\0(&촀\0Sais-tu quel est le fruit qu'on
+"001","Tiens, n\0n\0\0 J'ai une petite question pour toi.\0\0(&촀\0Sais-tu quel est le fruit qu'on
 préfère à n\0?"
 "001_a","Bien sûr."
 "001_b","Aucune idée."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Très impressionnant! (%촀\0Mes amis
 ne jurent que par (촀\02\0n촀
 2
@@ -43,10 +42,12 @@ dans une tente, pour l'instantn\0\0\0\0()촀\0Mais un jour, 
 \0ce sera le plus
 grand monument de la ville! (%촀\0Ce
 n'est qu'une question de temps."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0Tu as visité notre \0musée\0￿?
 \0 (촀\0C'est
 un passage obligé quand on vient
@@ -57,10 +58,8 @@ flâner dans les galeries."
 "028","(;촀\0Je ne sais pas si tu as vun\0\0\0\0()촀\0Le \0musée \0￿expose 2\0
 \0 en ce moment.\0\0(촀\0Une raison de plus pour y aller!"
 "029","()촀\0La partie du \0musée \0￿réservée aux
-insectes vient d'accueillir 2\0
-
-.
-(
+insectes vient d'accueillir 2\0
+.\0\0(
 촀\0Ce \0musée \0￿n'en finit pas de se
 renouvelern"
 "030","(촀\0Tu savais que notre \0musée \0￿exposait
@@ -68,42 +67,41 @@ renouvelern"
 de d'⁠
 ?\0\0(촀\0Un fossile aussi raren\0\0 (5촀\0Il y a de quoi
 être fier!"
-"101","<\0fi"
-"102","(촀\0Dire qu'on habitait dans la même
-ville avant, n\0n\0\0\0\0(4촀\0Qu'est-ce qu'on a pu s'amuser,
-n\0n\0\0 Tu y penses,
-parfois?"
-"102_a","Et comment!"
-"102_b","(\0촀\0Euh... comment?"
-"103","(촀\0Oh, ça me fait plaisir!
-\0 (4촀\0J'avais
+"201","<\0ÊÍ"
+"202","(촀\0Dire qu'on habitait sur la même
+île avant, n\0n\0\0\0\0(4촀\0Qu'est-ce qu'on a pu s'amuser, n\0n\0\0 Tu y penses, parfois?"
+"202_a","Et comment!"
+"202_b","(\0촀\0Euh... comment?"
+"203","(촀\0Oh,
+\0 ça me fait plaisir!
+\0 (4촀\0J'avais
 peur que tu aies oublié.\0\0(2촀\0J'ai même écrit un poème en
 souvenir du bon vieux tempsn\0\0
 \0
-(촀\0Tu trouves ça bizarre, je le savais."
-"104","(촀\0Oh!
+(촀\0Tu trouves ça bizarre?"
+"204","(촀\0Oh!
 \0 (촀\0Désolée, je ne voulais pas te
 mettre mal à l'aise.
-\0 (촀\0Tu es passé2\0e à
-autre chose, c'est normal.
+\0 (촀\0Tout le monde
+passe à autre chose, c'est normal.
 ()촀\0On lit partout qu'il faut vivre dans
 le présentn\0\0 Ah, la théorie, (%촀\0je la
 connais.\0\0(촀\0Je vais tâcher de suivre ton exemple,
 n\0n"
-"105","(4촀\0Je ne devrais peut-être pas
-demander maisn\0\0
+"205","(4촀\0Je ne devrais peut-être pas
+demander, maisn\0\0
 \0 (;촀\0est-ce que je suis
 la même que dans ton souvenir?"
-"105_a","(\0촀\0Pas exactement..."
-"105_b","(\0촀\0Tu n'as pas changé!"
-"106","(촀\0Tu as l'œil! 
+"205_a","(\0촀\0Pas exactement..."
+"205_b","(\0촀\0Tu n'as pas changé!"
+"206","(촀\0Tu as l'œil! 
 \0((촀\0Je suis contente que tu
 aies remarqué.\0\0(7촀\0J'essaie d'améliorer ma posture pour
 avoir l'air plus sûre de moi. 
 \0(%촀\0J'ai lu ça
 dans un article!\0\0(촀\0Je ne pensais pas que ça se voyait
 déjàn"
-"107","(촀\0Je suis bien contente de t'entendre
+"207","(촀\0Je suis bien contente de t'entendre
 dire ça, n\0!\0\0(7촀\0Ma vue a un peu baissé ces derniers
 temps, et j'avais peur que ça se
 voie.

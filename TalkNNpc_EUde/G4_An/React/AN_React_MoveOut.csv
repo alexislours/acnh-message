@@ -12,25 +12,20 @@ Metern das Pokerface flöten. 
 \0(촀\0Aber
 jan\0\0 Ich werd dich echt vermissen!"
 "002","(촀\02\0n\0!
-\0( Willste mich
-etwa standesgemäß verabschieden?
-\0
-Sauber!
-(%촀\0Morgen is' der große Tag.
+\0( Willste mich etwa standesgemäß verabschieden?
+\0 Sauber!\0\0(%촀\0Morgen is' der große Tag.
 \0 Meine
 Sachen sind auch schon fast alle
 gepackt. 
 (촀\0Ich hatte jedenfalls 'ne echt fette
-Zeit mit dir und werd dich nich' so
+Zeit mit dir
+\0 und werd dich nich' so
 schnell vergessen. 
 \0((촀\02\0n\0!"
 "003","( 촀\0Ey, n\0!
-\0 Willste mir
-beim Packen zuschauen? 
-\0(촀\0Flack dich
-ins Eck. 
-\0Morgen is' die Show vorbei.
-(%촀\0Hast mir neulich echt voll geholfen!
+\0 Willste mir beim Packen zuschauen? 
+\0(촀\0Flack dich ins Eck. 
+\0Morgen is' die Show vorbei.\0\0(%촀\0Hast mir neulich echt voll geholfen!
 \0
 Sonst wüsst ich immer noch nich',
 ob ich hierbleiben soll oder nich'...
@@ -71,23 +66,20 @@ Bin nämlich bald weg vom Fenster.
 hinter den Ohren. 
 \0((촀\0Musste eben solo
 das Inselvölkchen aufmischen!"
-"006","(촀\0Wenn das nich' n\0
-is'!
-\0( ((촀\0Was geht, altes Haus?\0\0()촀\0Ich bin grade dabei, meine Sieben-
+"006","(촀\0Wenn das nich' n\0 is'!
+\0( ((촀\0Was geht, 
+\0altes Haus?\0\0()촀\0Ich bin grade dabei, meine Sieben-
 sachen zu packen und hier 'nen
 spektakulären Abgang zu machen.
 (촀\0Tschö n\0,
-\0 hallo
-schöne, neue Welt! 
-\0(촀\0Ich weiß nur
-noch nich', wohin's mich treibt..."
+\0 hallo schöne, neue Welt! 
+\0(촀\0Ich weiß nur noch nich', 
+\0wohin's mich treibt..."
 "006_01","(촀\0Na sieh mal an, 
-\0wenn das nich'
-n\0 is'! 
-\0Biste extra
-gekommen, um mich zu besuchen?\0\0('촀\0Hättest dir keinen dooferen Zeit-
+\0wenn das nich' n\0 is'! 
+\0Biste extra gekommen, um mich zu besuchen?\0\0('촀\0Hättest dir keinen dooferen Zeit-
 punkt aussuchen können, 
-\0ich steck
+\0ich steck
 grad voll in Umzugsvorbereitungen!
 (촀\0Kannst natürlich gern hier abhängen,
 \0
@@ -205,36 +197,6 @@ deine neue Nachbarin sein wird?
 mir echt den Allerwertesten gerettet.
 \0(
 (촀\0Wann steigt die Einzugsparty?"
-"206","(촀\0Was für 'ne seltsame Unterhaltung!
-\0
-(촀\0Ich wollte telefonisch die Anmeldung
-in n	\0 klarmachen...
-(촀\0Aber als ich meine Details durch-
-gegeben hab, meinte die feine Dame
-vom Amt, dass ich da schon wohne!
-(	촀\0Die wollte mir partout nich' glauben,
-dass ich auf n\0
-wohne...\0\0(촀\0Am Ende war ich so durch, dass ich
-leicht ausfällig geworden bin.\0\0('촀\0Das mit n	\0 kann ich
-mir jetzt wohl abschminken.
-\0
-(촀\0Hab momentan Inselverbot..."
-"207","(&촀\0Glaubste ans Klonen? 
-\0((8촀\0Irgendwas
-geht auf n	\0 nich' mit
-rechten Dingen zu, 
-\0n\0...
-(9촀\0Hab da beim \0Servicecenter \0￿angeru-
-fen, und die meinten echt, dass die
-meine Anmeldung schon haben...
-(촀\0Hab sogar die Erzieherfraktion
-behelligt, ob die mir 'ne Zwillings-
-schwester verheimlichen...
-(촀\0Aber die hatten auch keinen Plan!
-\0
-(+촀\0Ich schwör, ich wurde geklont! 
-\0(('촀\0Danke
-für die Einladung, aber NEIN danke!"
 "208","( 촀\0Anscheinend is' n	\0
 gerade so hip und trendy, dass die
 keine Anmeldungen mehr annehmen!
@@ -260,17 +222,6 @@ zu gründen. 
 Jawoll! 
 \0(%촀\0Trotzdem cool, dass du mich
 auf deiner Insel haben wolltest..."
-"211","(
-촀\0In doppelter Ausführung darf's mich
-nich' geben.
-\0('촀\0 Das würde keiner über-
-leben. 
-\0Nich mal n	\0..."
-"212","(8촀\0Ich allein treibe es schon ziemlich
-bunt mit all den subversiven Flausen
-im Kopp...\0\0('촀\0Nich' auszudenken, was wäre,
-wenn zwei von meiner Sorte auf
-n	\0 rumturnen..."
 "213","(촀\0Ich werd verrückt! 
 \0Das \0Servicecenter\0￿
 von n	\0 hat 'nen
@@ -286,12 +237,12 @@ Bauland mehr.
 \0 \0KNich' mal unter 'ner Brücke...\0d"
 "300","(
 촀\0Vielleicht hab ich die Trulla vom
-Amt missverstanden. Die wollte aber
+Amt missverstanden. 
+\0Die wollte aber
 echt nich' aufhören zu schnattern...
-((촀\0Ich glaub, ich geb meinen Umzugs-
-plänen nach n	\0 noch
-'ne zweite Chance...
-Wie is' noch mal die Nummer vom
+((촀\0Ich glaub, 
+\0ich geb meinen Umzugs-
+plänen nach n	\0 noch 'ne zweite Chance...\0\0Wie is' noch mal die Nummer vom
 \0Servicecenter\0￿?"
 "300_a","Tu das!"
 "300_b","Lass das sein!"

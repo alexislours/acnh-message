@@ -130,10 +130,9 @@ zo gezellig,
 "021","촊촉(촀\0\0Nooks hoek\0￿ is nog klein genoeg om
 (%촀\0makkelijk te kunnen vinden wat ik
 zoek,
-\0 n\0.\0\0촆촃(촀\0Ik ben bang dat het me snel te veel
-wordt
-\0 als de zaak ooit wordt
-uitgebreid."
+\0 n\0.\0\0촆촃(촀\0Ik ben bang dat het me te veel wordt
+\0
+als de zaak te groot wordt."
 "022","촊촉(촀\0Ik ga altijd naar \0Nooks hoek\0￿,
 \0 ook al
 hou ik eigenlijk niet eens (촀\0zoveel van
@@ -143,8 +142,7 @@ hier zo handig
 "024","촊촉()촀\0Ik hoorde dat \0Blathers\0￿ in zijn tent
 allerlei beestjes en fossielen gaat
 bestuderen.
-\0( (촀\0Dat lijkt me super!
-촆촃(1촀\0Als al dat bestuderen leidt tot de
+\0( (촀\0Dat lijkt me super!\0\0촆촃(1촀\0Als al dat bestuderen leidt tot de
 bouw van een \0museum\0￿,
 \0 (촀\0wil ik alle
 tentoonstellingen zien,
@@ -185,6 +183,7 @@ benieuwd hoe het eruit gaat zienn\0\0
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉()촀\0Wat leuk dat elk voorwerp zo weer
 zijn eigen unieke uitstraling heeft.\0\0촆촃(촀\0Wat een moeite moet het gekost
 hebben om alles te selecteren

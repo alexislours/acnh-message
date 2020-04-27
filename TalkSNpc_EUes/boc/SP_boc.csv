@@ -4,12 +4,12 @@
 \0 A lo mejor
 has hablado con ella alguna vez.
 \0
-¡La tata habla con todo el mundo!
+¡La yaya habla con todo el mundo!
 (4촀\0Ella es la directora de la empresa
 familiar.
 \0 (%촀\0¡Yo también quiero ser
 directora!\0\0(4촀\0Primero,
-\0 la tata dice que tengo
+\0 la yaya dice que tengo
 que hacerme mayor.\0\0(촀\0¡Pero para eso falta todavía mucho!
 \0
 ¡Jo!\0\0(4촀\0Como soy una niña muy buena
@@ -28,7 +28,7 @@ de nabos!
 \0(\0\0(4촀\0En el \0mercado de nabos de la vieja
 Juana\0￿n\0\0
 \0 (&촀\0¿te suena el nombre?\0\0(""촀\0Todos los domingos,
-\0 igual que tata,
+\0 igual que yaya,
 \0
 traeré una fanega de nabos recién
 recolectados.
@@ -38,7 +38,7 @@ hacer los domingos es venir a jugar
 en el mercado de nabos, ¿a que sí?"
 "003","(촀\0\0(Ay, que se me olvidan\0\0 Tengo que
 hablarles a los clientes igual que
-la tatan\0\0 \0￿(4촀\0\0¡Que yo soy la ayudante!)\0￿\0\0(4촀\0\0(Ella empieza explicándoles todon\0\0)\0￿\0\0(5촀\0Ejemn\0\0 2
+la yayan\0\0 \0￿(4촀\0\0¡Que yo soy la ayudante!)\0￿\0\0(4촀\0\0(Ella empieza explicándoles todon\0\0)\0￿\0\0(5촀\0Ejemn\0\0 2
 señorseñora client2ea, ¿necesitas
 que te explique cómo funciona
 el mercado de nabos?"
@@ -47,7 +47,7 @@ el mercado de nabos?"
 "004","( 촀\0¿Eh?
 \0 ¿De verdad?\0\0(촀\0Uf, ¡menos mal! 
 \0Todavía no entiendo
-muy bien todas las palabras que dice la tata. 
+muy bien todas las palabras que dice la yaya. 
 \0(촀\0¡Ji, ji, ji!"
 "005","(9촀\0\0KMmmn\0\0 A ver si me acuerdo de todon\0\0\0d\0\0(5촀\0¡Veamos! 
 \0Los nabos son pequeñas
@@ -57,7 +57,7 @@ al vapor o al hornon\0\0
 \0 (4촀\0Los nabos se venden
 para obtener beneficio. Comérselos
 es una bobada. 
-\0¡Eso dice la tata!
+\0¡Eso dice la yaya!
 (4촀\0Así quen\0\0 si se consigue un buen
 precio, los nabos alimentan que da
 gusto el dinero en el bancon\0\0\0\0(&촀\0¿Deseas saber más, 2
@@ -66,7 +66,7 @@ señorseñora client2ea?"
 "005_b","('촀\0No hace falta"
 "006","(촀\0¡Ji, ji, ji! 
 \0¡Entiendo!
-\0 (촀\0La tata siempre
+\0 (촀\0La yaya siempre
 está que si patatí, que si patatá con los nabosn\0\0 ¡Ya te lo sabrás todo!"
 "007","(촀\0¡Muy bien!
 \0 (
@@ -76,7 +76,7 @@ cambia cada día en el mercado.\0\0(촀\0Puedes obtener beneficios si vende
 los nabos por más bayas de las que
 te costaron.
 (
-촀\0La tata dice que eso es aprovechar
+촀\0La yaya dice que eso es aprovechar
 las fluctuaciones del mercado.
 \0
 ('촀\0Aunque no lo entiendo muy bien.\0\0(&촀\0¿Sabes quién es \0Tendo\0￿, verdad?
@@ -89,10 +89,11 @@ te explique más detalles?"
 "007_a","(%촀\0¡Pues claro!"
 "007_b","('촀\0No me interesa"
 "008","(4촀\0Vale.
-\0 \0(La tata dice que esto es lo más
-importante,
-\0 así que tengo que decirlo
-todo despacito y explicarlo bienn\0\0)\0￿
+\0 \0(La yaya dice que esto es lo
+más importante,
+\0 así que tengo que
+explicarlo todo despacito y bienn\0\0
+\0)\0￿
 ('촀\0Los nabos no duran para siempre.
 \0
 ¡Se pudren a la semana!\0\0(9촀\0Significa que,
@@ -100,11 +101,13 @@ todo despacito y explicarlo bienn\0\0)\0￿
 un domingo,
 \0 puedes vendérselos a
 \0Tendo\0￿ hasta el siguiente sábado.
-()촀\0La tata siempre dice que es
-un desperdicio tener la despensa llena de nabos podridos.\0\0(;촀\0Gastarse las bayas y no poder
+()촀\0La yaya siempre dice que es un
+desperdicio tener la despensa
+llena de nabos podridos.
+(;촀\0Gastarse las bayas y no poder
 recuperar lo invertido,
-\0 ¡eso sí que
-es un desperdicio!
+\0 ¡eso sí
+que es un desperdicio!
 (촀\0¡Pues ya está! 
 \0Ya lo sabes todo."
 "010","(촀\0Pues hoy,
@@ -191,10 +194,13 @@ tantos nabos.
 \0 Es un poco difícil acordarse
 de todo,
 \0 pero intentaré explicártelo
-igual de bien que la tata.\0\0(5촀\0Los nabos que traemos el domingo
-se cultivan con mucho mimo y esmero.\0\0(촀\0Pero a nadie le interesa comérselos.\0\0(촀\0Aquí todos los compran para sacar
+igual de bien que la yaya.\0\0(5촀\0Los nabos que traemos los domingos
+se cultivan con mimo y esmeron\0\0
+\0
+(촀\0pero a nadie le interesa comérselos.
+(촀\0Aquí todos los compran para sacar
 beneficios vendiéndolos luego
-en el mercado."
+en el mercado de nabos."
 "031","()촀\0Aquí,
 \0 en n\0,
 \0
@@ -214,15 +220,15 @@ baraton\0\0 ('촀\0¡Será mejor que no hagas
 eso!"
 "032","(9촀\0Y,
 \0 por último,
-\0 lo que la tata dice
-siempre que es lo más importanten\0\0\0\0('촀\0Los nabos no duran para siempre.
-\0 A
+\0 lo que la yaya siempre
+dice que es lo más importanten\0\0\0\0('촀\0Los nabos no duran para siempre:
+\0 a
 la semana de comprarlos, se pudren.
 \0
 (촀\0¡Y luego no se pueden vender!"
 "033","(촀\0Así es como funciona, más o menosn\0\0
 (촀\0¡Ah, se me olvidaba!
-\0\0\0(4촀\0La tata siempre dice que hay que
+\0\0\0(4촀\0La yaya siempre dice que hay que
 repetir el nombre de la empresa
 siempre que se pueda.\0\0(4촀\0¡Así se mantiene en la memoria
 de la gente y no dejarán de venir!\0\0(6촀\0Escucha bien el nombre:
@@ -230,7 +236,7 @@ de la gente y no dejarán de venir!\0\0(6촀\0Escucha bien el nombre:
 de nabos de la vieja Juana\0￿.
 \0
 ¡Que no se te olvide! (촀\0¡Ji, ji, ji!
-\0\0\0(%촀\0Ahora yo soy la ayudante de la tata y
+\0\0\0(%촀\0Ahora soy la ayudante de la yaya y
 vendré los domingos a vender nabos.
 \0
 (""촀\0¡Espero hacer negocios contigo!"

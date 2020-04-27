@@ -21,7 +21,7 @@ qui font rimer « vie insulaire » avec
 "003","d\0(촀\0Bonjour, bonjour ! (촀\0J'ai le plaisir
 de vous souhaiter une bonne
 et heureuse année !
-(\0촀\0Il est Z\0:Z\0 en ce beau n\0 Z\0 Z\0 d\0Z\0d.
+(\0촀\0Il est Z\0:Z\0 en ce beau n\0 Z\0 Z\0 Z\0.
 \0 (촀\0Puisse l'année à venir apporter son lot de bonheur !d"
 "004","d\0(촀\0Bonjour, c'est moi \0Tom Nook\0￿ !
 \0 Il est
@@ -53,12 +53,10 @@ le micro, donc c'est possible !d"
 l'anniversaire de notre résident2\0e
 préféré2\0e, n\0 !d"
 "011_02","d\0(촀\0Aujourd'hui, c'est aussi
-l'anniversaire de notre bien-aimé2
-촀\0e\0
-résident2
-촀\0e\0 s\0촀 !d"
+l'anniversaire de notre bien-aimé2촀\0e\0
+résident2촀\0e\0 s\0촀 !d"
 "011_03","d\0(촀\0Et c'est aussi l'anniversaire
-de notre bien-aimé2촀\0e\0 voisin2촀\0e\0
+de notre bien-aimé2촀\0e\0 voisin2촀\0e\0
 s촀 !d"
 "012_01_01","d\0(촀\0Et c'est un grand jour, surtout pour
 certains de nos amis, j'ai nommé
@@ -81,18 +79,33 @@ anniversaire !d"
 "022","d\0(9촀\0(촃\0Sans transition, les autres
 informations du journ\0\0d"
 "031","d\0Par ailleursn\0\0d"
-"101","d\0(촀\02\0n\0 accueille un2촀\0e\0 nouve2촀aulle\0 résident2촀\0e\0, s촀 !d"
+"041_01","d\0(촀\0Saviez-vous que la \0fête des œufs\0￿
+approche à grands pas ?
+\0(촀\0\0\0(%촀\0Cet événement coïncide souvent avec
+un changement de météo.
+\0(촀\0 J'avoue
+que cette fois, je ne l'ai pas vu venir.d"
+"041_02","d\0(촀\0Aujourd'hui est un grand jour ! C'est
+la \0fête des œufs\0￿ que vous attendiez
+tous !
+\0(\0\0(촀\0À cette occasion, un invité spécial a
+parcouru un long chemin pour nous
+rendre visite.
+Je ne saurais que trop vous
+conseiller de passer sur la place
+(""촀\0pour lui dire bonjour.d"
+"101","d\0(촀\02\0n\0 accueille un2촀\0e\0 nouve2촀aulle\0 résident2촀\0e\0, s촀 !d"
 "102","<"
 "102_01","d\0(%촀\0J'espère que vous lui ferez profiter
 de votre riche expérience de la vie
 insulaire !(촀\0d"
 "102_02","d\0(%촀\0Je compte sur vous pour lui réserver
 un accueil chaleureux !(촀\0d"
-"102_03","d\02촀IlElle\0 aura probablement fort à faire
+"102_03","d\02촀IlElle\0 aura probablement fort à faire
 avec tous ses cartons, alors passez
-2촀lela\0 voir pour 2촀lela\0 distraire un peu !d"
+2촀lela\0 voir pour 2촀lela\0 distraire un peu !d"
 "200","d\0Bienn\0\0 Passons au sujet suivant !d"
-"201","d\0(촀\0Notre ch2촀erère\0 s촀 va faire ses adieux à notre île pour raisons personnelles.\0\02촀IlElle\0 sera parti2촀\0e\0 demain, alors
+"201","d\0(촀\0Notre ch2촀erère\0 s촀 va faire ses adieux à notre île pour raisons personnelles.\0\02촀IlElle\0 sera parti2촀\0e\0 demain, alors
 n'oubliez pas de lui dire au revoir
 aujourd'hui !d"
 "600","<"
@@ -309,13 +322,13 @@ bas,
 sous un angle inconnu jusque-là !d"
 "702_04","d\0J'espère que tout le monde fait
 (촀\0honneur à la \0boîte de recyclage\0￿
-du \0bureau des résidents\0￿.\0\0()촀\0Quand un habitant n'a plus l'usage
-d'un objet, il l'y glisse gentiment
-à l'attention de ses voisins, oui, oui.(촀\0\0\0(%촀\0Qui sait quels trésors dénicheront
+du \0bureau des résidents\0￿.\0\0()촀\0Quand un habitant n'a plus besoin
+d'un objet, celui-ci y est stocké
+à l'usage de ses voisins, oui, oui.(촀\0\0\0(%촀\0Qui sait quels trésors dénicheront
 les petits curieux qui y farfouilleront
 de temps en temps, hm ?(촀\0d"
-"703","d\0(촀\0Je vais maintenant vous présenter
-l'un des articles très précieux que
+"703","d\0(촀\0Laissez-moi vous présenter l'un
+des articles très précieux que
 l'on peut \0obtenir contre des miles\0￿.d"
 "704","<"
 "704_01","d\0(\0촀\0Ma recommandation du jour, c'estn\0\0

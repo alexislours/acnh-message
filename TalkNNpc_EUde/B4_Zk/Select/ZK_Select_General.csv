@@ -60,12 +60,12 @@ annehmen, 
 etwas zu geben.\0\0(
 촀\0Sehen wir einmal... 
 \0(촀\0Wie würde dir
-2촀eineineein }\0 gefallen?"
+2촀eineineein }\0 gefallen?"
 "006_02","(9촀\0Ich kann dich nicht mit leeren
 Händen von dannen ziehen lassen,
 \0
 nachdem du so großzügig warst.\0\0(6촀\0Hier, 
-\02,촀dieser
+\02,촀dieser
 diesedieses
 }\0 soll dir gehören."
 "006_03","('촀\0Ich kann unmöglich zulassen,
@@ -77,7 +77,7 @@ mich revanchiere.\0\0(
 \0was ich dir geben
 könnte...
 \0 (촀\0Aha! 
-\0Wie wäre es mit 2(촀
+\0Wie wäre es mit 2(촀
 einem
 einer
 einem
@@ -118,3 +118,44 @@ Dankeschön einfach per Post.
 \0
 Das geht ja auch,
 \0 n\0."
+"100","(촀\0Ha-HA! 
+\0Was für ein Zufall.
+\0
+(촀\02\02\0}\0\0?
+\0(
+(%촀\0Du kennst mich eben viel zu gut."
+"101","()촀\0Tatsächlich sollte man von seinen
+Lieblingsklamotten immer ein
+Exemplar in Reserve haben.
+(촀\0Meine Waschmaschine frisst nämlich
+nicht nur Socken, 
+\0weißt du."
+"102","(2촀\0Vielen Dank, 
+\0n\0.
+\0(%촀\0
+So ein schönes Stück hätte ich allein
+sicher nicht noch mal gefunden."
+"110","( 촀\0Unglaublich! 
+\0(촀\0Du hast mir extra 2""촀
+eineneineein
+2촁}\0\0 besorgt.\0\0(촀\0Man sieht es mir bestimmt ein wenig
+an, 
+\0aber ich finde das geradezu
+überragend!"
+"111","(%촀\0Ob du es glaubst oder nicht,
+\0
+ich sammle gerade Duplikate
+all meiner Accessoires.
+(촀\0Dein Timing war also absolut perfekt!"
+"112","(촀\0Vielen Dank, 
+\0n\0!
+\0
+(
+촀\0Jetzt muss ich mich entscheiden,
+\0
+welches Exemplar ich anziehen\0\0
+...und welches ich für einen guten
+Zweck stifte, 
+\0wenn ich erst mal
+berühmt bin, 
+\0n\0."

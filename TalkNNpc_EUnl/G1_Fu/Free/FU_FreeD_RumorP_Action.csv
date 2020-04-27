@@ -63,7 +63,7 @@ benieuwd om te zien wat je hebt
 gemaakt,
 \0 n\0!"
 "110","Zo, n\0.
-\0 Je hebt gisteren een heleboel bomen gerooid,
+\0 Je hebt gisteren een heleboel bomen gekapt,
 \0 hoor ik
 \0n\0\0\0\0(촀\0Hopelijk weet je wel wat je doet.
 \0 Het
@@ -77,7 +77,7 @@ aan het planten,
 wroeten en iets te laten groeien!"
 "112","(촀\0Het is sommigen opgevallen hoe
 goed je gisteren de planten water
-gaf,
+hebt gegeven,
 \0 n\0
 \0n\0\0\0\0Ik waardeer dat echt,
 \0 en ik weet
@@ -92,6 +92,19 @@ mee te maken.
 \0 Zo laat je merken
 (촀\0waar je om geeft,
 \0 n\0."
+"114","(촀\0Ik ben best jaloers
+\0 op al jouw reizen
+waar ik de laatste tijd over heb
+gehoord,
+\0 n\0!\0\0(촀\0Ik kan er alleen maar van dromen om
+zoveel vrienden op andere eilanden
+te hebben
+\0 als jij."
+"115","(;촀\0Het was gisteren maar druk op onze
+luchthaven!
+\0 (%촀\0Goed van je dat je het
+toerisme zo stimuleert,
+\0 n\0!"
 "116","(촀\0Was jij gisteren de hele dag aan het
 doe-het-zelven?
 \0( Ik ben onder de
@@ -340,16 +353,11 @@ haar anders zit,
 \02 (촀\0Waarschijnlijk niet,
 \0 n\0
 \0n"
-"150","(촀\0Eh
-\0n\0\0 n\0
-\0n\0\0?\0\0(촀\0Dus je bent het wel!
-\0( (촀\0Ik herkende je
-haast niet.
-\0 Is dat niet raar?\0\0Ik hoorde al zoiets
-\0n\0\0 dat je je uiterlijk
-hebt veranderd.
-\0 (촀\0Ik moest even
-wennen, maar ik vind het heel leuk."
+"150","(촀\0Ik hoorde al dat je je uiterlijk hebt
+veranderd.
+\0 (촀\0En het staat je geweldig, hoor.\0\0(촀\0Maar 
+\0volgens mij zie je er altijd
+fantastisch uit, n\0."
 "151","(""촀\0Ik hoorde dat jij gisteren heel
 enthousiast aan het fotograferen
 was,

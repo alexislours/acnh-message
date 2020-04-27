@@ -1,19 +1,17 @@
 ﻿"label","text"
-"000","(촀\0
-\0Ah, 
-\0n\0!
-\0 (""촀\0Hello,
-\0 hello!(촀"
+"000","(""촀\0Ah, n\0!
+\0 Hello,
+\0 hello!"
 "000_01","(촀\0Hello, hello! This is the \0construction
 consultation counter\0￿!
-\0(&촀\0 How can I help
+\0((&촀\0 How can I help
 you, hm?"
 "000_02","(촀\0
 \0Ah, 
 \0n\0!
 \0
-(""촀\0Welcome back!(촀"
-"000_03","(촀\0
+(""촀\0Welcome back!"
+"000_03","( 촀\0
 \0Ah, now to change the subjectn"
 "004_01","(촀\0We can customize the outside of your
 home for \05,000 Bells\0￿."
@@ -25,22 +23,22 @@ ready by tomorrow morning.
 (&촀\0are you interested?"
 "004_03_a","(%촀\0Yes, please!"
 "004_03_b","('촀\0Maybe another time."
-"005","(촀\0Ern\0\0 Nook Inc. policy is to collect our
+"005","(7촀\0Ern\0\0 Nook Inc. policy is to collect our
 customization fees at the beginning
-of the transaction.\0\0(\0촀\0It seems as though you don't have
+of the transaction.\0\0(9촀\0It seems as though you don't have
 enough Bells on hand, so
-\0(촀\0 please
+\0((촀\0 please
 come back when you do!"
-"006","(촀\0Excellent! Then I'll show you our
+"006","(촀\0Excellent! 
+\0Then I'll show you our
 design catalog and you can choose
 what you'd like for your home."
-"007","My, myn\0\0
-\0(&촀\0 Changed your mind?
-\0
+"007","My, myn\0\0(&촀\0 Changed your mind?
+\0<
 (촀\0Well, you know where to find me if
 you want to customize your home."
-"008_01","(%촀\0Hmmmn\0\0
-\0(촀\0 Interesting design choice!"
+"008_01","(9촀\0Hmmmn\0\0
+\0((촀\0 Interesting design choice!"
 "008_02","(촀\0That'll be \05,000 Bells\0￿, please!"
 "009_01","(촀\0Thank you kindly!"
 "009_02","(촀\0I'll make sure that construction is

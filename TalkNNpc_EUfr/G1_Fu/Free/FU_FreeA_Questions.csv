@@ -74,45 +74,59 @@ apprendren\0\0
 "009_b","Un recueil de blagues."
 "009_c","Un roman d'amour."
 "009_d","Un livre de psycho."
-"010","()촀\0J'ai entendu dire que le type de
-livre qu'une personne aime lire
-\0 (촀\0en
-disait long sur sa personnalité.\0\0(9촀\0Un roman policier, tu disn\0\0
-\0 (1촀\0Est-ce
-que ça voudrait dire qu'il y a une
-part d'ombre en toi ?
-\0 ($촀\0C'est le cas ?\0\0(촀\0T'inquiète !
-\0( (촀\0Ça te donne un petit
-côté mystérieux, n\0."
-"011","()촀\0J'ai entendu dire que le type de
-livre qu'une personne aime lire (촀\0en
-disait long sur sa personnalité.
-(9촀\0Tu accordes beaucoup d'importance
-à l'humourn\0\0 (1촀\0Tu n'aimes sûrement
-pas te prendre au sérieux ?
-(촀\0Tu as bien raison !
-\0( (촀\0On aurait bien
-tous besoin d'un peu plus de
-légèreté dans nos vies, n\0."
-"012","()촀\0J'ai entendu dire que le type de
-livre qu'une personne aime lire (촀\0en
-disait long sur sa personnalité.
-(9촀\0Je n'ai jamais compris pourquoi les
-histoires d'amour avaient si mauvaise
-réputation.
-(촀\0J'aime les gens qui assument (촀\0leur
-côté romantique ! (촀\0Le monde a
-besoin de romantisme, n\0."
-"013","()촀\0J'ai entendu dire que le type de
-livre qu'une personne aime lire (촀\0en
-disait long sur sa personnalité.
-(9촀\0Tu aimes la psychologien\0\0 (1촀\0Tu as
-envie de mieux te connaître. ($촀\0C'est
-une très bonne chose, n\0 !
-(촀\0Tu devrais peut-être regarder du
-côté du développement personnel
-aussi.
-\0 (%촀\0Ça, c'est mon dada !"
+"010","(%촀\0Excellent choix ! Et on ne peut plus
+approprié, ()촀\0tant il y a de policiers se
+déroulant sur une île déserte.
+(촀\0Oh ! 
+\0(3촀\0Et si on lisait un policier ayant
+lieu sur une île déserten\0\0 alors qu'on
+est soi-même sur une île déserte ?
+(촀\0Ce serait sans doute passionnantn\0\0
+(+촀\0Enfin, je veux dire « passionnément
+terrifiant », n\0.\0\0(촀\0En tout cas, j'aime beaucoup ta
+réponse !"
+"011","(
+촀\0Maintenant que tu le dis, 
+\0c'est vrai
+que le recueil de blagues est un
+choix
+\0(%촀\0 très judicieux.
+(\0촀\0Sur une île déserte, il arrive qu'on se
+sente seul, et dans ces moments-là,
+(촀\0rien ne vaut une bonne blague !
+( 촀\0En plus, 
+\0(2촀\0on peut s'esclaffer à cœur
+joie sans déranger personne, 
+n\0 !"
+"012","Oh !
+\0(촀\0 Quoi de mieux qu'une histoire
+d'amour pleine de rebondissements,
+transcendant l'espace et le temps ?
+(1촀\0Imaginen\0\0 Deux naufragés jetés de
+concert sur la plage de sable blanc
+d'une île déserte.
+(촀\0Ils ne se connaissent pas et
+pourtant, ils vont devoir veiller
+l'un sur l'autre.
+(촀\0Ils affronteront des bêtes terrifiantes
+et braveront mille tempêtesn\0\0(*촀\0 avant
+de combattre leurs propres démons.
+( 촀\0Et c'est là, au moment où on s'y
+attend le moins, 
+\0(촀\0qu'ils vont tomber
+éperdument amoureux !
+(촀\0Ce livre n'a pas encore été écrit qu'il
+a déjà changé ma vie, n\0 !"
+"013","(촀\0Un livre de psychologie ? 
+\0(
+촀\0Pourquoi
+pasn\0\0 même si j'avoue que le sujet
+me paraît un peu aride.
+(촀\0Ceci dit, quel meilleur décor pour
+une lecture studieuse qu'une île
+déserte, loin de toute distraction ?
+(촀\0Très bien, n\0 ! 
+\0(촀\0Je m'y mets et on ouvre un cabinet à n\0 quand tu veux !"
 "014","J'ai une question pour toi, et je
 voudrais que tu répondes sans trop
 réfléchirn\0\0\0\0(9촀\0Tu as une bonne tasse de thé fumant
@@ -159,9 +173,7 @@ pense aussi à souffler un peu.
 (촀\0Est-ce qu'il y a un fond de vérité ?
 (\0촀\0C'est important de savoir lâcher
 prisen\0\0 ($촀\0sinon on finit par exploser !"
-"019","2\0n\0, (&촀\0est-ce qu'il t'est
-arrivé quelque chose d'intéressant
-dernièrement ?"
+"019","2\0n\0, (&촀\0est-ce qu'il t'est arrivé quelque chose d'intéressant dernièrement ?"
 "019_a","Et comment !"
 "019_b","Je crois pas."
 "019_c","Et toi ?"

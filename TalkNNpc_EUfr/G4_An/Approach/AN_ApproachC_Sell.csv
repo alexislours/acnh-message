@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","()촀\0Il paraît qu'tu veux t'offrir 2\0}\0\0, n\0 ?\0\0Eh ben c'est ton jour de chance,
 m2
-ona pote. J'en ai dégoté un2촀\0e\0 et zou ! Je l'ai mis2촀\0e\0 dans ma poche."
+ona pote. J'en ai dégoté un2촀\0e\0 et zou ! Je l'ai mis2촀\0e\0 dans ma poche."
 "001_a","(\0촁\0Génial ! Merci !"
 "001_b","(\0촁\0Euh... Quoi ?"
 "002","(""촀\0Tiens, tiens.
@@ -15,10 +15,7 @@ sur le cœur. 
 2\0}\0\0 ?"
 "002_a","(\0촁\0Tu me l'offres ?"
 "002_b","('촀\0Ça m'intéresse pas."
-"003","(촀\0Yo, n\0, j'suis dans
-une mélasse de pétrin d'béchamel,
-il m'faut un coup d'patte fissa.
-()촀\0J'ai fini par me décider à ranger ma
+"003","(촀\0Yo, n\0, j'suis dans une mélasse de pétrin d'béchamel, il m'faut un coup d'patte fissa.\0\0()촀\0J'ai fini par me décider à ranger ma
 piaulen\0\0(촀\0 C'est fou le nombre de
 babioles que j'ai accumulées !
 ('촀\0À l'heure où j'te cause, j'ai pas moins
@@ -30,7 +27,7 @@ faire, mais qu'j'ose pas bazarder."
 rêvén\0\0 et v'là que j'suis à court de
 clochettes.
 \0 Quelle poisse !
-(8촀\0J'vais devoir m'séparer d'2*촀mon cherma chère\0 }\0\0, pas l'choix, n\0."
+(8촀\0J'vais devoir m'séparer d'2*촀mon cherma chère\0 }\0\0, pas l'choix, n\0."
 "004_a","(\0촁\0T'en veux combien ?"
 "004_b","(\0촁\0Hmmm..."
 "005","(촀\0Hein ?
@@ -62,12 +59,12 @@ d'clochettes. (7촀\0
 d'ce bijou pour la somme ridicule
 de Z !"
 "100_a","Vendu !"
-"100_b","Oh, dans ce cas..."
+"100_b","(\0촀\0Oh, dans ce cas..."
 "101","(;촀\0Oh !
 \0 T'es pas du genre à tergiverser !"
 "102","(%촀\0Bon,
-\0 ça m'fait plaisir d'savoir qu'2촀monma\0
-2촀cher
+\0 ça m'fait plaisir d'savoir qu'2촀monma\0
+2촀cher
 chère\0 }\0\0 atterrit chez toi, n\0."
 "103","(촀\0C'est trop ?
 \0(
@@ -140,9 +137,9 @@ donne un coup d'fouet !
 \0(&촀\0C'était juste
 pour le plaisir de marchander,
 ou quoi ?"
-"300","()촀\0Par exemple, j'ai 2촀ce
-cette\0 merveilleu2촀xse\0
-}\0\0n\0\0(6촀\0 Z et 2촀ilelle\0 est à toi."
+"300","()촀\0Par exemple, j'ai 2촀ce
+cette\0 merveilleu2촀xse\0
+}\0\0n\0\0(6촀\0 Z et 2촀ilelle\0 est à toi."
 "300_a","(%촀\0J'achète."
 "300_b","(\0촁\0Et à part ça ?"
 "301","(촀\0Sans blague ?
@@ -152,18 +149,18 @@ capharnaüm !"
 "302","(촀\0Du coup, j'serai quitte de refourguer
 ça dans l'premier marché aux puces
 venu, n\0 !"
-"303","Hum, voyonsn\0\0 Que dirais-tu d'2촀unune\0
+"303","Hum, voyonsn\0\0 Que dirais-tu d'2촀unune\0
 }\0\0 ? Pour Z, pas une de plus !"
 "303_a","(\0촁\0Oh, donne !"
 "303_b","('촀\0Nan. Quoi d'autre ?"
 "304","(
 촀\0Excellente questionn\0\0 (7촀\0Si t'as
 Z dans tes poches,
-j'ai 2촀unune\0 }\0\0."
+j'ai 2촀unune\0 }\0\0."
 "304_a","(\0촁\0Eh ben voilà !"
 "304_b","('촀\0Bof. Autre chose ?"
 "305","(촀\0Tout c'qu'il m'reste en magasin, c'est
-un2촀\0e\0 }\0\0n\0\0 (8촀\0J'te 2촀lela\0 fais à Z."
+un2촀\0e\0 }\0\0n\0\0 (8촀\0J'te 2촀lela\0 fais à Z."
 "305_a","(%촀\0Tope là !"
 "305_b","Non, toujours pas."
 "306","(&촀\0Tu veux rien ? 

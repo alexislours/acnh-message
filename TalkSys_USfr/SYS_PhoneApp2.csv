@@ -1,12 +1,12 @@
 ﻿"label","text"
 "001","dummy"
 "010","                      
-\0d\0Au revoir!d
+\0d\0d\0Au revoir!dd
 "
 "011","
 \0                d\0\0Bonjour!\0d
-\0
-\0\0\0Ici le \0service d'aide\0￿. 
+-\0\0\0Ici le 
+\0\0service d'aide\0￿. 
 \0
 Merci de cet appel.d"
 "011_01","d\0Alors si j'ai bien compris,
@@ -195,7 +195,7 @@ Cela veut dire que je vais devoir
 te laisser \0là où l'avion atterrira\0￿.
 \0
 Est-ce que cela te convient?d"
-"048_a","J'ai pas trop le choix!"
+"048_a","(\0촀\0J'ai pas trop le choix!"
 "048_b","Finalement, j'annule."
 "050_01","d\0À ta tente?
 \0 Aucun problème.d"
@@ -226,7 +226,7 @@ si j'avais pris mes lunettes.\0dd"
 "052","d\0Bien.
 \0 Le sort en est jeté.d"
 "053","
-\0　　 　　d\0d\0C'est parti!dd
+\0　　 　　　　d\0d\0C'est parti!dd
 "
 "061","d\0On est arrivés! Tu peux ouvrir
 les yeux.d"

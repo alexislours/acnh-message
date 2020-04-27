@@ -207,7 +207,7 @@ Alors, je t'emmène où?d"
 encore de chez-toi.\0\0Ce serait quand même plus pratique
 si tu me disais où tu veux que je te
 dépose!d"
-"045_a","Sur la place."
+"045_a","(\0촀\0Sur la place."
 "045_b","À l'aéroport."
 "045_c","('촁\0Euh... j'annule!"
 "046","d\0Bon, je vois que t'as pas vraiment
@@ -396,17 +396,17 @@ motifs de route que tu as obtenus."
 choisis parmi les motifs de route
 que tu possèdes avec \0\0￿ ou \0\0￿."
 "243","Guide de construction cours d'eau\0\0Appuie sur \0 \0￿pour creuser le sol et 
-créer de rivières, des étangs, etc.
+créer des rivières, des étangs, etc.
 Tu peux aussi les boucher.
-\0\0Créer des chutes d'eau\0￿
+\0\0Créer des cascades\0￿
 Creuse au sommet d'une falaise
-pour créer une \0chute d'eau\0￿."
+pour créer une \0cascade\0￿."
 "243_01","Guide de construction cours d'eau\0\0Appuie sur \0 \0￿pour creuser le sol et 
-créer de rivières, des étangs, etc.
+créer des rivières, des étangs, etc.
 Tu peux aussi les boucher.
-\0\0Créer des chutes d'eau\0￿
+\0\0Créer des cascades\0￿
 Creuse au sommet d'une falaise
-pour créer une \0chute d'eau\0￿."
+pour créer une \0cascade\0￿."
 "244","Guide de construction des falaises\0\0Appuie sur \0 \0￿pour créer ou détruire
 des falaises, ou arrondir leurs bords.\0\0\0\0Construire une falaise sur une autre\0￿
 Tu peux empiler les falaises, mais pas
@@ -427,15 +427,16 @@ avant de passer à la couche suivante.\0\0\0\0Détruire les cascades\0�
 Utilise le permis cours d'eau pour
 reboucher la cascade.
 Tu pourras ensuite détruire la falaise."
-"245","\0Guide du service de nettoyage\0￿\0\0Sur un chantier, il peut arriver que tu
+"245","Guide du service de nettoyage\0\0Sur un chantier, il peut arriver que tu
 te retrouves coincé2\0e par les objets
 qui t'entourent.\0\0Si quelque chose t'empêche de te
 déplacer, ou si un objet est
 inaccessible sur une falaise...\0\0Le service de nettoyage peut faire le
-ménage autour de toi.\0\0Seuls les objets (meubles, clôtures,
-etc.) \0à proximité\0￿ peuvent être retirés.\0\0Place-toi tout près de ce qui te
+ménage autour de toi.\0\0Seuls les objets, clôtures et arbres
+qui ont été placés et se situent \0à 
+proximité\0￿ peuvent être retirés.\0\0Place-toi tout près de ce qui te
 dérange avant de contacter ce
-service.\0\0Tous les objets ainsi récupérés sont
+service.\0\0Les objets ainsi récupérés sont
 ensuite déposés dans la \0boîte de
 recyclage \0￿au bureau des résidents.\0\0Par conséquent, ne perds pas trop
 de temps avant d'aller les y chercher."
@@ -483,16 +484,20 @@ dans la boîte de recyclage?"
 \0 Nettoyage en cours,
 merci de patienter."
 "264","Nettoyage terminé!
-\0 Les objets ont
-été envoyés à la \0boîte de recyclage\0￿
-du \0bureau des résidents\0￿."
-"265","Nous n'avons rien trouvé à nettoyer.\0\0Le service de nettoyage
-\0 n'a d'effet
-que sur les objets et clôtures situés
-juste à côté de toi."
+\0
+Note : seuls les objets et les clôtures
+sont envoyés à la \0boîte de recyclage\0￿."
+"265","Nous n'avons rien trouvé à nettoyer.\0\0Seuls les objets, clôtures et arbres
+qui ont été placés et se situent à
+proximité peuvent être retirés."
+"266","Tu te trouves actuellement \0hors
+de la zone opérationnelle\0￿ du
+service de nettoyage.\0\0Tu ne peux faire appel à ce service
+que dans les espaces extérieurs
+2
+de d'n	\0."
 "301","L'application qui affiche la carte
 ne fonctionnera pas sur cette île."
-"311","Tiens? On dirait que ton
-emplacement actuel n'est pas
-couvert par ce service."
+"321","On dirait que tu ne peux pas utiliser
+l'\0historique de bavardage\0￿ lorsque tu joues en groupen"
 "999","\0100 \0￿points"

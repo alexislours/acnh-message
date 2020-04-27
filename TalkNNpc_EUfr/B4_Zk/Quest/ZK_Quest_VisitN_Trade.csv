@@ -13,9 +13,9 @@ quelque chose. 
 "004","(촀\0Au fait, si tu vois quelque chose que
 tu voudrais acheter, on peut essayer
 de s'arranger."
-"004_a","Y a bien un truc...
+"004_a","(\0촀\0Y a bien un truc...
 Oh ! J'ai vu un truc !"
-"004_b","Merci pour l'info.
+"004_b","(\0촀\0Merci pour l'info.
 Rien pour le moment."
 "005","(촀\0Tu sais, si tu vois quelque chose
 qui te tape dans l'œil, on peut
@@ -25,16 +25,16 @@ essayer de s'arranger.
 c'est important. 
 \0J'ai besoin de place
 pour accumuler des nouveautés."
-"005_a","Il y avait un truc...
+"005_a","(\0촀\0Il y avait un truc...
 J'ai vu quelque chose !"
-"005_b","C'est bon à savoir.
+"005_b","(\0촀\0C'est bon à savoir.
 J'ai rien vu."
 "006","(3촀\0Tout ce que tu vois dans cette
 piècen\0\0 pourrait être dans la
 TIENNE si tu joues bien ton jeu."
-"006_a","J'aimerais bien...
+"006_a","(\0촀\0J'aimerais bien...
 J'ai vu un truc !"
-"006_b","Merci pour l'info.
+"006_b","(\0촀\0Merci pour l'info.
 Merci, mais non."
 "007","(촀\0À la bonne heure !
 \0 Dis-moi,
@@ -128,16 +128,16 @@ recevras dans les plus brefs délais,
 "300","(촀\0Je suis navré, mais je ne peux
 pas me séparer de mon adorable
 }촀.
-(4촀\02촀IlElle\0 fait partie de la famille,
+(4촀\02촀IlElle\0 fait partie de la famille,
 en quelque sorte."
 "301","(촀\0Tun\0\0 Tu comptes vraiment m'acheter
 2\0}촀 ?\0\0('촀\0Pas pour toutes les clochettes du
-monde, désolé. (촀\0C'est un2촀\0e\0 de mes
-meilleur2촀\0e\0s ami2촀\0e\0s !"
+monde, désolé. (촀\0C'est un2촀\0e\0 de mes
+meilleur2촀\0e\0s ami2촀\0e\0s !"
 "302","(촀\0Tu as du goût, je te l'accorde. 
 \0Mais je
-ne me séparerai jamais de 2.촀mon petitma petite\0
-}\0\0 adoré2촀\0e\0."
+ne me séparerai jamais de 2.촀mon petitma petite\0
+}\0\0 adoré2촀\0e\0."
 "303","(촀\0Désolé, c'est une pièce maîtresse de
 ma déco. 
 \0('촀\0Sans elle, toute l'harmonie

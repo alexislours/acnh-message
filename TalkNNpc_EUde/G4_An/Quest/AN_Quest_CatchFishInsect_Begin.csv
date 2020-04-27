@@ -8,7 +8,7 @@ hinter diesem einen Krabbelvieh her.
 \0 Nada.
 (촀\0Ich krieg noch 'ne Glatze, 
 \0wenn
-ich nich' bald an 2j촀""'nen verschärften'ne verschärfte ein verschärftes
+ich nich' bald an 2j촀""'nen verschärften'ne verschärfte ein verschärftes
 2촁}촀 komme."
 "003_a","(\0촁\0Lass mich mal ran."
 "003_b","(\0촁\0Viel Glück noch..."
@@ -18,29 +18,36 @@ viele Felsen und so.
 \0(5촀\0 Daher bin ich
 Profi, was Krabbelgetier betrifft.
 (1촀\0Meine Gang und ich hatten damals
-2촀'nen'neein 2촁}촀 als
+2촀'nen'neein 2촁}촀 als
 Maskottchenn\0\0
 \0 (6촀\0Zwinker, 
 \0zwinker."
 "004_a","(\0촁\0Da könnte ich helfen..."
 "004_b","(\0촁\0Klingt spannend."
-"008","(촀\0Bevor du dir hier weiterhin die Beine
-in den Bauch stehst, 
-\0kannste dich
-auch nützlich machen...
-(6촀\0Lass die Schuppen tanzen und
-organisier mir 'nen Frischfisch á la
-}촀."
-"008_a","(\0촁\0Mach ich!"
-"008_b","(\0촁\0Petri, nein..."
+"008","(9촀\0Klingt jetzt vielleicht etwas bizarro,
+
+\0abern\0\0
+\0 ich glaub, 
+\0ich hab 'nen
+Fisch-Fetisch.
+( 촀\0Ich denk permanent nur noch daran, 
+\0wie's wär, 
+\02""촀
+eineneineein 2촁}촀 zu fangen.\0\0(촀\0Leider fehlen mir die Angel-Skills, 
+\0um
+den Traum Wirklichkeit werden zu
+lassen, 
+\0n\0."
+"008_a","(\0촁\0Ich helfe dir!"
+"008_b","(\0촁\0Das ist doof..."
 "009","(1촀\0Wäre es nich' supi, Urlaub in 'nem
-Aquarium zu machen?\0\0(촀\0Für das nautische Feeling sorgt 2촀ein'neein
+Aquarium zu machen?\0\0(촀\0Für das nautische Feeling sorgt 2촀ein'neein
 }촀.
-\0()촀\0 2,촀Dessen
+\0()촀\0 2,촀Dessen
 DerenDessen
 Schuppen haben sich gewaschen.
 Aber dafür müsste man erst mal
-2$촀
+2$촀
 eineneineeins aus dem Tümpel zerren..."
 "009_a","(\0촁\0Das mach ich für dich!"
 "009_b","(\0촁\0Müsste man..."
@@ -79,14 +86,15 @@ vorgeprescht, 
 \0der nichts
 gewinnt, 
 \0oder wie das heißt."
-"017","(%촀\0Hast eigentlich recht,
-\0 Gänseblüm-
-chen. 
-\0(5촀\0Selbst is' die Frau!"
-"018","(%촀\0Tja, muss ich mir eben 'nen anderen
-Fauna-Dealer suchen.
-\0(촀\0 Ich weine ein
-Ströphchen und dann is' gut."
+"017","(%촀\0Die Viecher sehen einfach son\0\0
+\0
+knallhart aus, 
+\0oder nicht?"
+"018","(촀\0So zu leben wie eins von den
+kleinen Kerlchenn\0\0
+\0 (6촀\0Das is' wahre
+Freiheit,
+\0 n\0!"
 "021","(9촀\0So 'n \0gehörnter Käfer\0￿ is' extrem
 korrekt. 
 \0(촀\0Ich mein, wer Hörner hat,
@@ -255,7 +263,7 @@ Passt mir jetzt nicht."
 zu spontan, aber ich bin echt
 verzweifelt,
 \0 n\0!
-(촀\0Haste schon mal in der Gegend 2촀'nen'neein
+(촀\0Haste schon mal in der Gegend 2촀'nen'neein
 2촁}촀 gesehn?
 \0
 (촀\0Also... 
@@ -266,7 +274,7 @@ verzweifelt,
 "101_b","(\0촁\0Is' grade schlecht..."
 "102","(촀\0Mir geht gleich der Hut hoch!
 \0('촀\0
-2촀'nen'neEin 2촁}촀 zu
+2촀'nen'neEin 2촁}촀 zu
 fangen is' wohl schier unmöglich.
 (	촀\0Wenn ich das Vieh nur schief an-
 schau, macht's sich ausm Staub!
@@ -315,7 +323,7 @@ keine Kollateralschäden gibt,
 \0
 nich' wahr? 
 \0Dann angel mir doch mal
-2촀'nen'neein 2촁}촀. 
+2촀'nen'neein 2촁}촀. 
 (8촀\0Hab angeltechnisch momentan kein
 Glück.
 \0(촀\0 Irgendwie mögen die Fischis
@@ -332,7 +340,7 @@ Pechsträhne?
 \0 Keinen
 Meter! (촀\0Wäre trotzdem cool, wenn du
 mir was Spezielles fangen könntest.
-((촀\0So 2촀ein'neein }촀
+((촀\0So 2촀ein'neein }촀
 wäre echt angesagt."
 "202_a","(\0촁\0Ich angel dir was!"
 "202_b","(\0촁\0Hab auch nur Pech..."

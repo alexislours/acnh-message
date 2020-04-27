@@ -11,7 +11,7 @@ questo genere di cose."
 ancora 2$stancatostancata di farti chiamare
 n\0 da me?"
 "002_a","(\0촀\0Forse sì..."
-"002_b","Ma no, mi piace!"
+"002_b","(\0촁\0Ma no, mi piace!"
 "003","(9촀\0Ho sentito che ultimamente ti
 fai chiamare ""s\0촀"".
 
@@ -31,10 +31,8 @@ come tuo soprannome. (&촀\0
 "005_a","(\0촀\0Sentiamo."
 "005_b","No, grazie."
 "006","(7촀\0Ehi, ho una domanda un po'
-personale da fartin\0\0\0\0()촀\0Ho sentito che adesso ti fai chiamare
-""s\0촀"". 
-\0E anch'io vorrei chiamarti così.
-(&촀\0Sei d'accordo?"
+personale da fartin\0\0\0\0()촀\0Ho sentito che adesso ti fai chiamare ""s\0촀"". 
+\0E insomman\0\0 anch'io vorrei chiamarti così.\0\0(&촀\0Sei d'accordo?"
 "006_a","Certo!"
 "006_b","(\0촀\0Meglio di no."
 "100","Alloran\0\0(5촀\0 che ne dici din\0\0

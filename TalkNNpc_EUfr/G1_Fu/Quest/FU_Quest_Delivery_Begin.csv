@@ -1,19 +1,14 @@
 ﻿"label","text"
-"001","(촀\0J'ai emprunté quelque chose à
-s촀 il y a un moment,
-(촀\0et je ne le lui ai jamais rendu...\0\0(촀\0Je l'ai gardé tellement longtemps
-que (4촀\0c'est compliqué d'aller 2촀lela\0 voir
+"001","(촀\0J'ai emprunté quelque chose à s촀 il y a un moment, (촀\0et je ne le lui ai jamais rendu...\0\0(촀\0Je l'ai gardé tellement longtemps
+que (4촀\0c'est compliqué d'aller 2촀lela\0 voir
 pour le lui ramener..."
-"001_a","Je vais le faire."
+"001_a","(\0촀\0Je vais le faire."
 "001_b","(\0촀\0Ça va aller, courage !"
-"002","()촀\0J'ai invité s촀 à dîner
-l'autre jour, mais 2촀ilelle\0 a oublié
-quelque chose chez moi.\0\0Je sais que je dois le lui rapporter,
+"002","()촀\0J'ai invité s촀 à dîner l'autre jour, mais 2촀ilelle\0 a oublié quelque chose chez moi.\0\0Je sais que je dois le lui rapporter,
 (8촀\0mais j'oublie sans arrêt, et je n'ai
-pas une minute à moi aujourd'hui.\0\0(4촀\0Tu voudrais bien aller rapporter
-ça à s촀,
-\0 avant que
-j'oublie de nouveau ?"
+pas une minute à moi aujourd'hui.\0\0(4촀\0Tu voudrais bien aller rapporter ça à
+s촀,
+\0 avant que j'oublie de nouveau ?"
 "002_a","Bien sûr !"
 "002_b","Non, je ne peux pas..."
 "003","( 촀\0J'aurais besoin de ton aide...
@@ -21,7 +16,7 @@ j'oublie de nouveau ?"
 ()촀\0En fait, j'ai reçu un colis adressé
 à s촀 !
 (촀\0Heureusement, je m'en suis rendu
-compte avant de l'ouvrir.\0\0(9촀\02촀IlElle\0 doit l'attendre avec impatience.
+compte avant de l'ouvrir.\0\0(9촀\02촀IlElle\0 doit l'attendre avec impatience.
 \0
 (4촀\0Mais je suis un peu occupée,
 \0 tu veux
@@ -48,8 +43,7 @@ Je vais le faire moi-même !"
 (촀\0Il est juste un peu lourd pour moi,
 mais je vais y arriver !"
 "101","(;촀\0Si tu as un moment, j'aurais
-quelque chose à te demander.\0\0()촀\0J'ai acheté un petit cadeau à
-s촀, juste comme çan\0\0\0\0(촀\0Mais finalement, ça me semble
+quelque chose à te demander.\0\0()촀\0J'ai acheté un petit cadeau à s촀, juste comme çan\0\0\0\0(촀\0Mais finalement, ça me semble
 bizarre de lui offrir quelque chose
 sans raison particulière.\0\0(4촀\0Est-ce que tu accepterais de
 faire la livraison ?"
@@ -87,8 +81,7 @@ rapporter ça à s촀.
 \0
 (촀\0Je compte sur toi !"
 "202","(촀\0Je compte sur toi pour rapporter
-à s촀 l'objet qu'2촀ilelle\0 a
-oublié chez moi !"
+à s촀 l'objet qu'2촀ilelle\0 a oublié chez moi !"
 "203","(4촀\0Je sais que tu n'as pas oublié,
 \0
 mais tu as dit (촀\0que tu allais apporter

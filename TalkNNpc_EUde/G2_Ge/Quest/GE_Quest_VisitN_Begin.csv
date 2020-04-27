@@ -23,7 +23,7 @@ sich's bei mir daheim. 
 mal wieder fragen!"
 "005","Hey, 
 \0gar kein Problem.
-\0 Ich versuch
+\0 ($촀\0Ich versuch
 einfach ein andermal mein Glück!"
 "006","(촀\0Okay,
 \0 macht ja auch nichts.
@@ -130,17 +130,18 @@ vorbei,
 \0 n\0!"
 "303","(%촀\0Ich freu mich schon volle Kanne auf
 morgen!
-\0 (""촀\0Besuch mich
-\0, wann immer
+\0 (""촀\0Besuch mich,
+\0 wann immer
 du Zeit und Lust hast,
 \0 okay?"
-"401","($촀\0Heeeeeey 
+"401","($촀\0Heeeeeey, 
 \0n\0?
 \0
 (4촀\0Du hast nicht zufällig Lust,
 \0 mich
 zu Hause besuchen zu kommen?\0\0(촀\0Ich würd echt gern 'ne Runde mit dir
-quatschen. Aber nicht hier draußen,
+quatschen. 
+\0Aber nicht hier draußen,
 \0
 (촀\0sondern lieber gemütlich daheim."
 "401_a","Gerne doch!"

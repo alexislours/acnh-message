@@ -39,12 +39,12 @@ möchtest, 
 \0die Insel ist klein. 
 \0((촀\0Da macht
 so was schnell die Runde."
-"001_03_02","Ich habe gerade von \0Tom Nook\0￿ ein
-\0Meilenticket \0￿für jemanden namens
-„n\0“ erhalten.\0\0Das bist du, oder?
-\0 Wenn du es
-einsetzen möchtest, 
-\0sage einfach
+"001_03_02","()촀\0Ich habe gerade von \0Tom Nook
+\0￿ein \0Meilenticket \0￿mit dem Namen
+„n\0“ drauf erhalten.\0\0(%촀\0Das wäre dann also deines!
+\0 Wenn du
+es einsetzen möchtest, 
+\0sage einfach(""촀\0
 „\0Ich möchte fliegen\0￿“. 
 \0Alles klar?"
 "001_03_03","(%촀\0Tja, 
@@ -210,7 +210,8 @@ es gleich losgehen! 
 "032_b","Doch nicht..."
 "035","(촀\0Du möchtest dein \0Meilenticket\0￿
 verwenden?
-\0 -촀\0Roger!(\0촀"
+\0 -촀\0Roger!
+\02(\0촀"
 "035_01","(%촀\0Gut. 
 \0Alles klar. 
 \0(촀\0Dann nehme ich
@@ -286,11 +287,21 @@ Tüchern sein.
 (9촀\0Also lies es dir bitte komplett durch,
 \0
 okay?"
-"091_02","(촀\0Danke
-\0, dass du dir den Kram
+"091_02","(촀\0Danke,
+\0 dass du dir den Kram
 durchgelesen hast! 
 \0(촀\0Kommen
 wir nun zum nächsten Schrittn"
+"092","(촀\0Roger! 
+\0((2촀\0Eine Sache nochn\0\0 
+\0und sorry,
+\0
+falls du das alles schon mal zu
+Gesicht bekommen hast.
+(9촀\0Aber unsere Anwälte bestehen
+darauf, 
+\0dass wir vor dem
+\0Online-Spiel\0￿ auf so was hinweisen."
 "101","(&촀\0Möchtest du über den \0lokalen Modus
 \0￿zu einer Insel in der Nähe?\0\0Oder per \0Online-Spiel\0￿ zu einer weiter
 entfernten?"
@@ -319,7 +330,7 @@ anfliegen können.
 "105","(9촀\0Ich hab da etwas gefunden...
 \0 (촀\0Leider
 ist s촀 momentan recht voll und erlaubt keinen Besuch."
-"105_a","Bitte noch mal suchen."
+"105_a","Noch mal versuchen."
 "105_b","Dann ein andermal..."
 "106","(촀\0Oh, 
 \0einen Moment!
@@ -351,10 +362,10 @@ Augenblick, 
 \0bitte. 
 \0((촀\0\0KNie schalten die Leute
 ihre NookPhones in den Flugmodusn\0\0\0d"
-"108_01_a","Bitte noch mal suchen."
+"108_01_a","Noch mal versuchen."
 "108_01_b","Was meinst du damit?"
 "108_01_c","Ein anderes Mal."
-"108_a","Bitte noch mal suchen."
+"108_a","Noch mal versuchen."
 "108_b","Was meinst du damit?"
 "108_c","Dann ein andermal..."
 "109","(촀\0So, dann kann es losgehen! 
@@ -395,11 +406,11 @@ Besucher festlegen?"
 vierstelligen Zahlencode von dir."
 "115_01","(촀\0Alles klar!
 \0( ($촀\0Dann öffne ich jetzt
-das Torn"
+den Flugsteign"
 "115_02","(촀\0Alles klarn\0\0 (촀\0OH!"
 "116_01","(촀\0Alles klar!
 \0( ($촀\0Dann öffne ich jetzt
-das Torn"
+den Flugsteign"
 "116_02","(촀\0Verst-- 
 \0(촀\0OH!"
 "117_01","(7촀\0Na ja, 
@@ -432,7 +443,7 @@ als ich. 
 Zeit mit unseren Smartphones..."
 "117_02","(&촀\0Möchtest du, dass ich es jetzt
 gleich noch einmal versuche?"
-"117_02_a","Bitte noch mal suchen."
+"117_02_a","Noch mal versuchen."
 "117_02_b","Ein andermal."
 "118_01","(7촀\0Na ja, 
 \0unter gewissen Umständen
@@ -463,9 +474,9 @@ Zeit mit unseren Smartphones..."
 "118_02","(&촀\0Möchtest du, 
 \0dass ich es jetzt
 gleich noch einmal versuche?"
-"118_02_a","Bitte noch mal suchen."
+"118_02_a","Noch mal versuchen."
 "118_02_b","Ein andermal."
-"120","(촀\0Wird gemacht!
+"120","(촀\0Alles klar!
 \0(
 ($촀\0Ich öffne jetzt den Flugsteig."
 "120_01","(촀\0Du bist ja gerade mit dem
@@ -514,18 +525,29 @@ einfach jemandem, 
 Insel einladen möchtest.\0\0(촀\0Es war nie leichter, 
 \0neue Freunde
 kennenzulernen!"
-"130","Verstanden. 
+"130","(촀\0Verstanden. 
 \0Dann lass mich mal
 eben schnell eine Verbindung mit
 dem Internet herstellenn"
 "130_a","Roger!"
 "130_b","Lieber nicht..."
+"140","(촀\0Hoppla. 
+\0Sieht ganz danach aus,
+\0
+(촀\0als hätte da jemand seinen
+Flugsteig dichtgemacht."
+"150","(&촀\0Möchtest du vielleicht woanders
+hin?
+\0(\0촀\0 Ich kann gern noch eine
+weitere Suche für dich starten."
+"150_a","Erneut suchen."
+"150_b","Ein andermal."
 "200","(촀\0Hey, 
 \0da bist du ja wieder!
 \0( (&촀\0Was ist
 dein Begehrn\0\0
 \0(촀\0 bei Dodo Air?"
-"200_a","Tor öffnen."
+"200_a","Flugsteig öffnen."
 "200_b","Verbindung beenden."
 "200_c","Doch verreisen."
 "200_d","('촀\0Nein, nichts."
@@ -534,17 +556,27 @@ dein Begehrn\0\0
 \0( (&촀\0Was ist
 dein Begehrn\0\0
 \0(촀\0 bei Dodo Air?"
-"201_a","Tor öffnen."
+"201_a","Flugsteig öffnen."
 "201_b","Verbindung beenden."
 "201_c","Wie war der Code?"
 "201_d","Doch verreisen."
 "201_e","('촀\0Nein, nichts."
+"202","(촀\0Hey, 
+\0da bist du ja wieder!
+\0( (&촀\0Was ist
+dein Begehrn\0\0
+\0(촀\0 bei Dodo Air?"
+"202_a","Flugsteig öffnen."
+"202_b","Verbindung beenden."
+"202_c","Wie war der Code?"
+"202_d","Doch verreisen."
+"202_e","('촀\0Nein, nichts."
 "210","(촀\0Hey, 
 \0da bist du ja wieder!
 \0( (&촀\0Was ist
 dein Begehrn\0\0
 \0(촀\0 bei Dodo Air?"
-"210_a","Tor schließen."
+"210_a","Flugsteig schließen."
 "210_b","Doch verreisen."
 "210_c","('촀\0Nein, nichts."
 "211","(촀\0Hey, 
@@ -552,10 +584,19 @@ dein Begehrn\0\0
 \0( (&촀\0Was ist
 dein Begehrn\0\0
 \0(촀\0 bei Dodo Air?"
-"211_a","Tor schließen."
+"211_a","Flugsteig schließen."
 "211_b","Wie war der Code?"
 "211_c","Doch verreisen."
 "211_d","('촀\0Nein, nichts."
+"212","(촀\0Hey, 
+\0da bist du ja wieder!
+\0( (&촀\0Was ist
+dein Begehrn\0\0
+\0(촀\0 bei Dodo Air?"
+"212_a","Flugsteig schließen."
+"212_b","Wie war der Code?"
+"212_c","Doch verreisen."
+"212_d","('촀\0Nein, nichts."
 "220","( 촀\0Oh, 
 \0statt Besucher zu empfangen,
 \0
@@ -575,7 +616,15 @@ kein Problem sein!"
 "223","(%촀\0Alles klar!
 \0
 Der aktuelle Code lautet (촀\0„\0n\0\0￿“."
-"251",""
+"224","(%촀\0Alles klar!
+\0 Der aktuelle Code lautet
+(촀\0„\0n\0\0￿“."
+"251_01","(촀\0Erledigt!
+\0(
+(\0촀\0Und schon herrscht Funkstille."
+"251_02","(촀\0Wenn ich noch was für dich tun kann,
+\0
+sag einfach Bescheid!"
 "252","(%촀\0Falls du doch noch mehr Freunde
 reinlassen möchtest, 
 \0(\0촀\0öffne ich den
@@ -593,24 +642,36 @@ freundlich begrüßt."
 "301","(&촀\0Gibt es denn sonst noch was,
 \0
 wobei ich dir behilflich sein kann?"
-"301_a","Tor öffnen."
+"301_a","Flugsteig öffnen."
 "301_b","Wie war der Code?"
 "301_c","('촀\0Nein, nichts."
 "302","(&촀\0Gibt es denn sonst noch was,
 \0
 wobei ich dir behilflich sein kann?"
-"302_a","Tor schließen."
+"302_a","Flugsteig schließen."
 "302_b","Wie war der Code?"
 "302_c","('촀\0Nein, nichts."
+"303","(&촀\0Gibt es denn sonst noch was,
+\0
+wobei ich dir behilflich sein kann?"
+"303_a","Flugsteig öffnen."
+"303_b","Wie war der Code?"
+"303_c","('촀\0Nein, nichts."
+"304","(&촀\0Gibt es denn sonst noch was,
+\0
+wobei ich dir behilflich sein kann?"
+"304_a","Flugsteig schließen."
+"304_b","Wie war der Code?"
+"304_c","('촀\0Nein, nichts."
 "305","(&촀\0Gibt es denn sonst noch was,
 \0
 wobei ich dir behilflich sein kann?"
-"305_a","Tor öffnen."
+"305_a","Flugsteig öffnen."
 "305_b","('촀\0Ich brauche nichts."
 "306","(&촀\0Gibt es denn sonst noch was,
 \0
 wobei ich dir behilflich sein kann?"
-"306_a","Tor schließen."
+"306_a","Flugsteig schließen."
 "306_b","('촀\0Ich brauche nichts."
 "350","(촀\0Hey, 
 \0du sozialer Überflieger! 

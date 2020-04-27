@@ -33,9 +33,8 @@ Zzzn"
 \0
 Zzzzz, gronfn\0\0 fiuuun"
 "001_09","-\0촀\0Zzzn\0\0
-\0 No, ci vai tu sulla
-plancian\0\0 Io ho le vertiginin\0\0
-Zzzzzn"
+\0 No, ci vai tu sulla coffan\0\0
+Io ho le vertiginin\0\0 Zzzzzn"
 "001_10","-\0촀\0Snnnrrrk, snrrkn\0\0
 \0 Scusate, ragazzi.
 Ho leccato le gallette.
@@ -51,7 +50,7 @@ aringhe? 
 \0 (촀\0Dove mi
 trovo? E tu chi sei? Chi sono io?!
 \0(
-( 촀\0\0KOh, ma forse... questa faccia la conosco.\0d\0\0(5촀\0Io sono il famoso \0Gulliver\0￿, il gabbiano
+( 촀\0\0KOh, aspettan\0\0 questo forse lo so.\0d\0\0(5촀\0Io sono il famoso \0Gulliver\0￿, il gabbiano
 che ha solcato i setten\0\0
 \0 mari.\0\0(\0촀\0Per caso eri tu quell2oa che continuava
 a scuotermi?"
@@ -65,7 +64,7 @@ sono ruzzolato di nuovo fuori
 bordon\0\0\0\0(2촀\0Mi succede spesso 
 \0e il resto della
 ciurma adora vedermi ruzzolare a
-poppa! (촀\0AHA!\0\0(\0촀\0Ma non ti preoccupare. Vengono
+poppa! (촀\0AHAH!\0\0(\0촀\0Ma non ti preoccupare. Vengono
 subito a salvarmi.
 \0 (6촀\0Ho sempre un
 asso nella mian\0\0 ala."
@@ -191,8 +190,9 @@ Questo sì che è un dilemman\0\0\0\0(\0촀\0Ahhh, ci penserò dopo.
 contattare l'equipaggio e organizzare
 il mio salvataggio!"
 "018","(촀\0Ora chiedo aiuto con il mio
-cellumaren\0\0 eh, il portotile. Va beh,
-hai capito."
+cellumaren\0\0 eh, il portotile.
+
+\0Va beh, hai capito."
 "018_01","
 \0M-mmhn\0\0
 \0(
@@ -201,26 +201,29 @@ hai capito."
 \0\0PER TUTTE LE ANCORE!\0d
 	\0\0\0(촀\0Il mio comunicatore si è rotto!
 \0
-E ora come farò a rimanere in onda?"
-"018_02","(촀\0Per tutte le sardine del mare! Questo
-\0comunicatore\0￿ è tutto spaccaton\0\0
-Mancano anche alcuni \0pezzi\0￿n\0\0\0\0(촀\0Quindin\0\0
+E ora come farò per rimettermi
+in onda?"
+"018_02","(촀\0Per tutte le sardine del mare! 
+\0È tutto
+spaccaton\0\0 E la cosa peggiore è che
+mancano anche alcuni \0pezzi\0￿!\0\0(촀\0Quindin\0\0
 \0 dovrò aspettare che sia
 l'equipaggio a trovare me.\0\0(
-촀\0Ehmm. Chissà quanto ci metteranno.
+촀\0Mmmh, 
+\0chissà quanto ci metteranno.
 \0
-\0KSpero non troppo perché sono quasi a corto
-di giochi di parole marinareschin\0\0\0d"
+\0KSpero non troppo perché sono quasi a corto di
+giochi di parole marinareschin\0\0\0d"
 "019","<"
 "019_01","(;촀\0Ehi tu, sì tu! Ti spiacerebbe aiutarmi
 a trovare i \0pezzi del comunicatore\0￿?"
-"019_01_a","(%촀\0Cerco io!"
+"019_01_a","(%촀\0Certo, ci penso io!"
 "019_01_b","('촀\0Non se ne parla!"
 "019_02","(촀\0Ti supplico!
 \0 Puoi cercarmi i \0pezzi del
 comunicatore\0￿?
 \0 Per favore!"
-"019_02_a","(%촀\0Cerco io!"
+"019_02_a","(%촀\0Certo, ci penso io!"
 "019_02_b","('촀\0Non se ne parla!"
 "020","<"
 "020_01","(촀\0Veramente?! Sei grande!
@@ -250,11 +253,12 @@ pezzi
 pezzo
 pezzi\0￿
 \0( e poi cercherò di
-rimettere tutto insieme!\0\0()촀\0Sono sicuro che i miei compagni mi
-stiano cercando, perciò è meglio
+rimettere tutto insieme!\0\0()촀\0Sono sicuro che i miei compagni
+mi stiano cercando, perciò è meglio
 che io rimanga qui ad aspettarli.
-(촀\0Ti affido la ricerca!
-Ho fiducia nelle tue capacità!
+(촀\0Ti affido la ricerca! 
+\0Ho fiducia
+nelle tue capacità!
 \0(
 (촀\0\0KAnche perché non ho altra scelta.\0d"
 "023","(\0촀\0Se mi trovi ancora \0Z\0\0 2&\0
@@ -270,8 +274,8 @@ chiesto?"
 "030_b","('촀\0Sto ancora cercandon"
 "031_01","(
 촀\0I \0pezzi del comunicatore \0￿saranno
-rimasti seppelliti \0sotto la sabbia\0￿ di
-una spiaggia di quest'isola. È così!\0\0(촀\0En\0\0 se è vero, non ci posso fare un
+rimasti \0seppelliti\0￿ \0sotto la sabbia\0￿ da
+qualche parte su quest'isola.\0\0(촀\0En\0\0 se è vero, non ci posso fare un
 bel niente.\0\0(촀\0Avevo una pala, ma l'ho venduta
 per comprare questo comunicatore.
 \0(
@@ -295,10 +299,11 @@ del comunicatore\0￿, (""촀\0portamel2\0\0oi qui.
 Ci penso io a rimettere tutto in sesto."
 "031_05","(
 촀\0Non sono sicuro di quanti \0pezzi
-del comunicatore \0￿ci siano in giro.\0\0(\0촀\0Probabilmente ne potrei mettere \0Z\0\0\0￿
-qua dentro.
-\0 (%촀\0Poi secondo me
-dovrebbe funzionare di nuovo."
+del comunicatore \0￿siano dispersi
+qua in giro.\0\0(\0촀\0Probabilmente ne potrei infilare
+\0Z\0\0 \0￿qui dentro.
+\0 (%촀\0Poi dovrebbe
+funzionare di nuovo."
 "032","(촀\0Oh! Eccoli!
 \0( (촀\0Sono certo che questi
 sono i miei \0pezzi del comunicatore\0￿!
@@ -321,7 +326,9 @@ a mollo e ora in un luogo selvaggio!\0\0(\0촀\0Aprite bene le orecchien\0\
 successo di nuovo.
 \0 Potete venire
 a recuperarmi?\0\0(\0촀\0Adesso vi invio le mie coordinate.
-(촀\0Gulliver, passo e chiudo!\0\0(%촀\0\0￿Ecco! Ormai è fatta."
+(촀\0Gulliver, passo e chiudo!\0\0(%촀\0\0￿Ecco! 
+\0Ora il problema dovrebbe
+essere risolto."
 "040_01","Se il mio comunicatore funziona
 di nuovo, (촀\0tutto andrà bene."
 "040_02","(촀\0Bene, 
@@ -480,7 +487,7 @@ funzione.\0\0(촀\0Quei piccoli pezzi pestiferi si sono
 \0nascosti da qualche parte sotto la
 sabbia\0￿.
 \0 Non è che mi aiuti a cercarli?"
-"103_a","(%촀\0Cerco io!"
+"103_a","(%촀\0Certo, ci penso io!"
 "103_b","('촀\0Non se ne parla!"
 "105","(촀\0Sai, il mio cervelletto aveva troppe
 cose
@@ -524,7 +531,7 @@ parte \0nascosti sotto la sabbia\0￿ qui
 sull'isola.
 \0 (촀\0Puoi cercarmeli?
 \0 Ti prego!"
-"108_a","(%촀\0Cerco io!"
+"108_a","(%촀\0Certo, ci penso io!"
 "108_b","('촀\0Non se ne parla!"
 "110","(2촀\0Stavo solo schiacciando un mini
 pisolino super rigenerante.

@@ -32,7 +32,7 @@ che comincia di nuovo con ""A"",
 "003_b","Allenamento."
 "003_c","Addominali."
 "003_d","Affondi."
-"003_e","Strumenti."
+"003_e","Attrezzi."
 "009","(촃\0""Adduttori lunghi""?!
 \0 Ma sono due
 parole!
@@ -109,7 +109,7 @@ addominali!
 \0(촃\0Uhm... 
 \0con ""I"" è difficile
 trovare qualcosa.
-\0 Uhhn\0\0
+\0 Uhn\0\0
 \0 Mmmhn\0\0
 \0
 (촃\0Oh, ho trovato!
@@ -201,23 +201,31 @@ di quello sofisticato, n\0!(촀"
 \02(촃\0 Quindi più che alle
 interviste vuoi abituarti a fare
 bella figura in TV!"
-"201","(촀\0Pensavo a quanto suona bene il tuo
-""n\0""."
-"202","(촀\0Davvero? Intendi forse quando dico
-(!촀\0""n\0""?
-\02(\0촀\0
-\0(&촀\0 Così?"
-"203","(촀\0Sì! Mi piace un sacco! Soprattutto
-quando lo dici mentre stai facendo
-un allenamento faticoso.
-(4촀\0Behn\0\0 anche a me piacerebbe usarlo,
-n\0."
-"204","(촀\0Ma certo! Possiamo dirlo all'unisono
-mentre ci alleniamo insieme!"
-"205","(""촀\0Evvai! Spettacolo!
-\0<(촀\0 Alleniamoci
-a dirlo, n\0!"
-"206","(""촀\0Perfetto!\0\0(촂\0Coppia super muscoli in azione!
-
-\0Vai di ""n\0""!
-\0 (촀\0Ah ah ah!"
+"201","(%촀\0Ehilà, n촁n\0\0
+\0 Che ne dici di fare un allenamento in stile supereroi, n\0?"
+"202","(촀\0Certo,
+\0 alla grande!
+\0 (\0촀\0Ferma un attimo,
+peròn\0\0 (&촀\0Sbaglio o hai appena detto
+""n\0""?\0\0(%촀\0Perché è troppo forte!
+\0 (촀\0Sembra
+il nome di un esercizio super
+speciale per i tricipiti."
+"203","(촂\0Eh? 
+\0Ma dici sul serio?
+\0 Fammi
+provaren\0\0
+\0 (!촂\0""n\0""!
+\0(
+(촀\0Ah ah ah, 
+\0hai ragione!"
+"204","(촀\0Da paura!
+\0 (촀\0Ah,
+\0 potremmo gridarlo
+insieme se ti va!
+\0 Cosa ne pensi?"
+"205","(""촂\0Contaci!
+\0 (촂\0Dai, facciamo una prova!"
+"206","(촃\03, 2, 1n\0\0 \0n\0!\0d\0\0(촀\0Che coppia!
+\0 Due atleti da paura con
+un intercalare muscolosissimo!"

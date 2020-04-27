@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","Qu'est-ce qu'il peut bien contenir ?
+"001","Qu'est-ce qu'il y a là-dedans ?
 Allez,
 \0 un petit coup d'œiln"
 "002","Il n'y a rien du tout là-dedansn"
@@ -15,11 +15,11 @@ tu ne trouveras aucune de
 tes affaires à l'intérieurn"
 "008","Que comptes-tu faire en ouvrant
 2\0}\0\0 ?"
-"008_a","Changer de vêtements."
+"008_a","(\0촀\0Changer de vêtements."
 "008_b","Ne pas se changer."
 "009","Que comptes-tu faire en ouvrant
 2\0}\0\0 ?"
-"009_a","Changer de vêtements."
+"009_a","(\0촀\0Changer de vêtements."
 "009_b","Modifier les tenues."
 "009_c","Ne pas se changer."
 "010","Hé hén\0\0

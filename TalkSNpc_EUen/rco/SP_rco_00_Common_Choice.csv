@@ -4,7 +4,7 @@ about?
 \0(촀\0 I'm all ears!"
 "000_02","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "000_03","Is theren\0\0
 \0anything else(&촀\0 I can
 help you with, hm?"
@@ -130,7 +130,7 @@ about?
 "208_f","('촀\0I'm good."
 "501","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "501_a","()촀\0What should I do?"
 "501_b","()촀\0About that workshop..."
 "501_c","()촀\0About my home..."
@@ -138,14 +138,14 @@ counter\0￿!
 "501_e","('촀\0I'm good."
 "502","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "502_a","()촀\0What should I do?"
 "502_b","()촀\0About my home..."
 "502_c","()촀\0Let's talk infrastructure."
 "502_d","('촀\0I'm good."
 "503","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "503_a","()촀\0What should I do?"
 "503_b","()촀\0About that workshop..."
 "503_c","()촀\0Let's hold a ceremony!"
@@ -154,7 +154,7 @@ counter\0￿!
 "503_f","('촀\0I'm good."
 "504","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "504_a","()촀\0What should I do?"
 "504_b","()촀\0Let's hold a ceremony!"
 "504_c","()촀\0About my home..."
@@ -162,20 +162,20 @@ counter\0￿!
 "504_e","('촀\0I'm good."
 "511","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "511_a","()촀\0What should I do?"
 "511_b","()촀\0About that workshop..."
 "511_c","()촀\0About my home..."
 "511_d","('촀\0I'm good."
 "512","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "512_a","()촀\0What should I do?"
 "512_b","()촀\0About my home..."
 "512_c","('촀\0I'm good."
 "513","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "513_a","()촀\0What should I do?"
 "513_b","()촀\0About that workshop..."
 "513_c","()촀\0Let's hold a ceremony!"
@@ -183,7 +183,7 @@ counter\0￿!
 "513_e","('촀\0I'm good."
 "514","(촀\0This is the \0construction consultation
 counter\0￿!
-\0(&촀\0 How can I help you, hm?"
+\0((&촀\0 How can I help you, hm?"
 "514_a","()촀\0What should I do?"
 "514_b","()촀\0Let's hold a ceremony!"
 "514_c","()촀\0About my home..."
@@ -198,6 +198,13 @@ help you with, hm?"
 "601_01_b","()촀\0About that workshop..."
 "601_01_c","()촀\0About my home..."
 "601_01_d","('촀\0I'm good."
+"601_02","Is theren\0\0
+\0anything else(&촀\0 I can
+help you with, hm?"
+"601_02_a","()촀\0What should I do?"
+"601_02_b","()촀\0About that workshop..."
+"601_02_c","()촀\0About my moving fees..."
+"601_02_d","('촀\0I'm good."
 "601_a","()촀\0What should I do?"
 "601_b","()촀\0About that workshop..."
 "601_c","()촀\0About my home..."
@@ -212,6 +219,12 @@ help you with, hm?"
 "602_01_a","()촀\0What should I do?"
 "602_01_b","()촀\0About my home..."
 "602_01_c","('촀\0I'm good."
+"602_02","Is theren\0\0
+\0anything else(&촀\0 I can
+help you with, hm?"
+"602_02_a","()촀\0What should I do?"
+"602_02_b","()촀\0About my moving fees..."
+"602_02_c","('촀\0I'm good."
 "602_a","()촀\0What should I do?"
 "602_b","()촀\0About my home..."
 "602_c","()촀\0Let's talk infrastructure."
@@ -227,6 +240,14 @@ help you with, hm?"
 "603_01_c","()촀\0Let's hold a ceremony!"
 "603_01_d","()촀\0About my home..."
 "603_01_e","('촀\0I'm good."
+"603_02","Is theren\0\0
+\0anything else(&촀\0 I can
+help you with, hm?"
+"603_02_a","()촀\0What should I do?"
+"603_02_b","()촀\0About that workshop..."
+"603_02_c","()촀\0Let's hold a ceremony!"
+"603_02_d","()촀\0About my moving fees..."
+"603_02_e","('촀\0I'm good."
 "603_a","()촀\0What should I do?"
 "603_b","()촀\0About that workshop..."
 "603_c","()촀\0Let's hold a ceremony!"
@@ -243,6 +264,13 @@ help you with, hm?"
 "604_01_b","()촀\0Let's hold a ceremony!"
 "604_01_c","()촀\0About my home..."
 "604_01_d","('촀\0I'm good."
+"604_02","Is theren\0\0
+\0anything else(&촀\0 I can
+help you with, hm?"
+"604_02_a","()촀\0What should I do?"
+"604_02_b","()촀\0Let's hold a ceremony!"
+"604_02_c","()촀\0About my moving fees..."
+"604_02_d","('촀\0I'm good."
 "604_a","()촀\0What should I do?"
 "604_b","()촀\0Let's hold a ceremony!"
 "604_c","()촀\0About my home..."

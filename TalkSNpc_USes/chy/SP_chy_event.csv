@@ -17,7 +17,7 @@ este,
 \0 (%촀\0pero por los insectos hago lo
 que sea,
 \0 \0Khasta salirme de mi zona de confortn\0\0\0d
-(2촀\0Por cierto, la \0Caza de Insectos\0￿ comienza a 2Ąlaslalas\0Z%촀:00\0￿.
+(2촀\0Por cierto, la \0Caza de Insectos\0￿ comienza a 2Ąlaslalas \0Z%촀:00\0￿.
 (촀\0¡No olvides tu red!"
 "001","(촀\0¡2\0Z\0 es un mes excelente
 para los insectos!
@@ -80,7 +80,7 @@ de los insectos.('촀\0
 \0 \0KNo es fácil.\0d
 \0 (촀\0¡Disfrútala!
 ()촀\0La \0Caza de Insectos\0￿ comienza
-a 2laslalas\0Z%촀:00\0￿.
+a 2laslalas \0Z%촀:00\0￿.
 \0 (촀\0Espero que intentes
 conseguir aún más puntos."
 "014","('촀\0No es fácil hallar recompensas que
@@ -249,9 +249,9 @@ son \0Z\0￿."
 "029_b","('촀\0Ahora no, gracias"
 "030","(&촀\0¿Quieres participar en el gran evento
 de la \0Caza de Insectos\0￿?
-\0 (\0촀\0La primera
-ronda es gratis,
-\0 \0K(촀\0por si te interesan\0\0\0d"
+\0 (\0촀\0Hoy la
+primera ronda es gratis,
+\0 \0K(촀\0piénsalon\0\0\0d"
 "030_a","Me apunto"
 "030_b","('촀\0Ahora no, gracias"
 "031","(!촀\0Ya comenzó la \0Caza de Insectos\0￿ y
@@ -307,7 +307,9 @@ que rechace si se trata de insectos.
 (촀\0A lo que iban\0\0
 \0 ¡Deberías intentarlo!
 (!촀\0La \0Caza de Insectos\0￿ es la ocasión
-ideal para demostrarles tu devoción."
+ideal para demostrarles tu devoción.
+\0
+Puedes participar hasta las \0Z%촁:00\0￿."
 "037","(촀\0¡La \0Caza de Insectos\0￿ ya está aquí!
 \0
 En este día,
@@ -402,7 +404,7 @@ al mejor precio.
 serán felices!\0d"
 "049_a","¿Te vendo insectos?"
 "049_b","Quiero canjear puntos"
-"049_c","Otra cosa..."
+"049_c","Sobre la Caza de Insectos"
 "049_d","('촀\0Mejor no"
 "050","(%촀\0¡C-claro que sí!
 \0 ¿De qué insectos
@@ -425,7 +427,7 @@ se cumplieronn\0\0\0K (촀\0
 "052","(촀\0¡2\02\0}\0!\0\0(촀\0Nunca había visto un ejemplar
 semejanten\0\0
 \0 \0Al menos no fuera de mis sueñosn\0\0\0￿
-(:촀\0Por tu }\0 2Bđ촀extraordinarioextraordinaria\0 puedo darte Z.
+(:촀\0Por tu }\0 2BĒ촀extraordinarioextraordinaria\0 puedo darte Z.
 \0 (&촀\0¿Qué opinas?"
 "052_a","(%촀\0Trato hecho"
 "052_b","('촀\0No, déjalo"
@@ -465,7 +467,7 @@ que hoy es la \0Caza de Insectos\0￿
 todo por su causa."
 "060","(촀\0A veces me desconecto por completo
 de mis alrededores.
-\0 Aún así, soy muy
+\0 Aun así, soy muy
 observador
 \0n\0\0 (9촀\0Noté que no tienes red.
 ('촀\0Así no vas a llegar lejos.\0\0(
@@ -476,13 +478,20 @@ Sin red,
 \0 (9촀\0quizá te cazan ellosn"
 "061","( 촀\0¡Oh!
 \0 Espera, (촀\0creo que no tienes
-suficientes bayasn\0\0\0\0(촀\0Después de la primera ronda,
-\0
-participar cuesta \0Z\0￿.
+suficientes bayasn\0\0\0\0(촀\0Necesitarás \0Z\0￿ si quieres participar.
+\0 Lo siento."
+"062","( 촀\0Si fuera una luciérnaga,
+\0 brillaría
+de alegría.
+\0('촀\0 Pero no lo soy.\0\0(%촀\0Participar cuesta \0Z
+\0￿después de la primera ronda.
 \0
-Perdona."
-"062","(%촀\0OK,
-\0 son \0Z\0￿."
+(&촀\0¿Te parece bien?"
+"062_01","(9촀\0Entonces cobraré las \0Z
+\0￿ahora.
+\0 Graciasn"
+"062_a","¡Perfecto!"
+"062_b","Mejor paso"
 "063","(%촀\0Tienes \0Z\0 minutos\0￿.
 \0 Ya sabes,
 \0 a cazar
@@ -910,6 +919,54 @@ los puntos adicionalesn\0\0
 \0 (촀\0¡Grillos!
 \0
 Eso suma un total de \0Z puntos\0￿."
+"151","(9촀\0Tu red,
+\0 rápida como el relámpago,
+\0
+atrapó nada menos ( 촀\0que \0Z insectos\0￿.
+\0
+Impresionante.
+()촀\0La \0jaula para insectos \0￿no admite más
+de 20 a la vez.
+\0 ('촀\0No es seguro.
+\0
+Podría pasar (촀\0cualquier cosan\0\0
+(\0촀\0Tuve que liberar a los demás.
+\0
+('촀\0Pero no te preocupes.
+\0
+(%촀\0Recibirás tus puntos.
+(
+촀\0Te corresponden \0Z\0￿
+\0 y, al sumar la
+bonificación por atrapar más de \0Z\0￿,
+\0
+(:촀\0hace un total de \0Z puntos\0￿."
+"152","(9촀\0Tu red,
+\0 rápida como el relámpago,
+\0
+atrapó nada menos ( 촀\0que \0Z insectos\0￿.
+\0
+Impresionante.
+()촀\0La \0jaula para insectos \0￿no admite más
+de 20 a la vez.
+\0 ('촀\0No es seguro.
+\0
+Podría pasar (촀\0cualquier cosan\0\0
+(\0촀\0Tuve que liberar a los demás.
+\0
+('촀\0Pero no te preocupes.
+\0
+(%촀\0Recibirás tus puntos.
+(
+촀\0A ver,
+\0 entre todos los participantes
+cazaron \0Z	 insectos\0￿,
+\0 lo que
+supera la barrera de los \0Z
+\0￿.
+(:촀\0Por lo tanto,
+\0 se llevan la bonificación
+y suman un total de \0Z puntos\0￿."
 "160","()촀\0La \0jaula para insectos\0￿,
 \0 bajo la carpa,
 \0

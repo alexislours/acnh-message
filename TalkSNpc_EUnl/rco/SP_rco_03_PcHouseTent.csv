@@ -28,7 +28,7 @@ aanraad aan nieuwe bewoners!\0\0(%촀\0Ik denk dat je er veel aan zult
 hebben,
 \0 dus hopelijk zie ik je bij
 de workshop, hm?"
-"002","(촀\0Ah, 2\0n\0!\0\0Welkom bij de \0servicebalie\0￿!
+"002","(촀\0Ah, n\0!\0\0Welkom bij de \0servicebalie\0￿!
 \0 Hier
 bieden we bewoners ondersteuning
 bij allerlei zaken, ja, ja!
@@ -135,15 +135,10 @@ wordt ons eiland mooier,
 \0 en word jij
 wat miles rijker!"
 "107_09","(촀\0Als je wilt weten hoe je meer miles
-kunt verdienenn\0\0
-\0(&촀\0 heb je dan weleens
-gedacht aan winkelen?\0\0()촀\0Of je dit nou ter plaatse doet of via
-de \0Nook-catalogus\0￿,
-\0 de miles stromen
-ermee binnen!\0\0(촀\0En je krijgt op het moment zelfs extra
-miles voor je aankopen.
-\0 (촀\0Sla dus snel
-je slag!"
+kunt verdienenn\0\0\0\0(&촀\0Wist je dat je miles kunt krijgen voor winkelen? Ja, ja! Dus winkel hier of via de \0Nook-catalogus\0￿!\0\0(촀\0En je krijgt op het moment extra
+miles als je zelf voorwerpen
+verkoopt.
+\0 (촀\0Sla dus snel je slag!"
 "108","<"
 "108_01","(
 촀\0Nu je je verhuiskosten hebt
@@ -191,10 +186,10 @@ over de winkel van \0Timmy\0￿.\0\0(
 met \0Timmy\0￿ bespreken.
 \0 (%촀\0Hij kan je er
 alles over vertellen!"
-"140","(촀\0Bedankt voor het verzamelen van
-materialen voor de winkel!
-\0 Je bent
-behoorlijk vindingrijk!"
+"140","(촀\0Bedankt dat je ons wilt helpen bij
+het verzamelen van materiaal!
+\0 Wat
+ben je toch behulpzaam!"
 "140_01","(
 촀\0Ah, maar je zoekt wat praktisch
 advies, hm?\0\0(%촀\0Wellicht is het tijd voor een nieuwe
@@ -216,10 +211,9 @@ tijdens mijn wandeling zojuist een
 materialen doen, hm?
 \0 (%촀\0Die \0breekbare
 bijl\0￿ ligt binnen handbereik!"
-"150","(촀\0Allereerst wil ik je bedanken voor
-het verzamelen van alle materialen
-voor de winkel.
-\0 Je bent een ster!\0\0(촀\0Misschien kan ik jóu beter om advies
+"150","(촀\02\0n\0,
+\0 bedankt voor het verzamelen van alle materialen voor de winkel.
+\0 Je bent een ster!\0\0(촀\0Misschien kan ik jóú beter om advies
 vragen over het leven op dit eiland!"
 "160","(
 촀\0Je huis staat er, dus momenteeln\0\0
@@ -237,12 +231,12 @@ te doen.
 "162","(촀\0Er is aardig wat interesse om hier te
 komen wonen,
 \0 dus ik ben druk bezig
-met het regelen van aanvragen.
-(%촀\0Ja, ja, je krijgt er nieuwe buren bij!
-\0
-(\0촀\0Als ze er zijn,
-\0(촀\0 reken ik erop dat je ze
-een warm welkom zult geven."
+met het regelen van de aanvragen.\0\0(촀\0Daar zijn er zoveel van
+\0 dat ik de hulp
+heb ingeroepen van onze eiland-
+woordvoerder, n'\0.\0\0(촀\0Misschien kun je bij n'\0 even poolshoogte nemen hoe het gaat.\0\0(촀\0Ja, ja! 
+\0Hopelijk gaat alles goed en
+krijg je binnenkort nieuwe buren."
 "163","( 촀\0Ah!
 \0(\0촀\0 Wist je al dat je met miles bij het
 \0NookStation(&촀\0\0￿ doe-het-zelfplannen
@@ -253,7 +247,7 @@ om over het hele eiland met hekken
 aan de slag te gaan."
 "201","(촀\0Ja, ja!
 \0 De doe-het-zelfworkshop!\0\0()촀\0Iedere deelnemer kan zijn eigen
-gereedschap maken,
+gereedschap maken
 \0 en krijgt ook
 een set doe-het-zelfplannen.\0\0(%촀\0Extreem handig voor het eilandleven.
 \0
@@ -319,17 +313,17 @@ hebben het er wel weer over als je
 er wat meer hebt verdiend, hm?\0\0(촀\0Maar je hoeft je niet te haasten,
 hoor! Nee, nee!
 \0 (촀\0Geniet van het
-eilandleven, en spaar rustig verder!"
+eilandleven en spaar rustig verder!"
 "402","(촀\0O! Je wilt je verhuiskosten
 terugbetalen?\0\0(%촀\0Mooi, mooi!
 \0 Je hebt nog \0Z\02촀\0￿ openstaan."
 "402_a","Ik wil betalen!"
-"402_b","Een ander keertje."
+"402_b","(\0촀\0Een ander keertje."
 "403","(촀\0Ja, ja, prima.
 \0 Er is geen haast bij!
 \0
-(촀\0Kom maar terug wanneer je meer
-gespaard hebt."
+(촀\0Kom maar terug wanneer je er klaar
+voor bent om ze in te wisselen."
 "404","(촀\0Ontzettend bedankt!"
 "405","(%촀\0Juist!
 \0 Precies \0Z\02촀\0￿. Niets meer en niets minder!"
@@ -396,7 +390,7 @@ bouwen van huizen!\0\0(
 voor huizenbouw op een afgelegen
 locatie zoals dit eiland.\0\0(촀\0En daardoor komen er helaas een
 hoop kosten bij kijken.\0\0(촀\0Maar met een renteloze lening
-en extreem flexibele betaalregels,
+en extreem flexibele betaalregels
 is alles mogelijk!\0\0(촀\0Dus, n\0n\0\0 als je interesse hebt in je eigen huis, dan weet je me te vinden."
 "407_04","Ja, ja(촀\0n\0\0 Nu is misschien een goed
 moment om het te hebben over het
@@ -435,7 +429,7 @@ te nemen!"
 \0 Je hebt alles gevonden, zie ik?\0\0(촀\0Goed!
 \0 Laten we dan aan de slag
 gaan met die \0hengel\0￿.
-\0 Ja, ja!\0\0()촀\0Kies een project op de \0werkbank\0￿ om
+\0 Ja, ja!\0\0()촀\0Kies het project op de \0werkbank\0￿ om
 te beginnen.
 \0 Wees niet bang,
 \0
@@ -456,7 +450,7 @@ voor je.
 \0(
 (&촀\0Heb je die bij de hand?"
 "923","(촀\0Uitstekend, dank je.
-\0 De \0doe-het-zelf-\0￿
+\0 De \0Doe-het-zelf\0￿-
 app is nu geïnstalleerd op je
 telefoon,
 \0 dus maak er gebruik van!"
@@ -469,13 +463,13 @@ wel geen beroepshengelaar, maar zal
 ik je toch een tip geven?\0\0()촀\0Als je je dobber uitwerpt, kun je hem
 het beste voor de schaduw van de
 vis gooien.
-\0 Ja, ja!\0\0(촀\0Ik ben benieuwd naar wat je allemaal
-zult vangen.
+\0 Ja, ja!\0\0(촀\0Ik ben benieuwd wat je allemaal zult
+vangen.
 \0 De fauna hier boeit me
 enorm!"
 "923_03","(
 촀\0Men zegt dat de beste vissers vaak
-van locatie wisselen,
+van locatie wisselen
 \0 en ook op
 verschillende tijdstippen vissenn\0\0\0\0(촀\0Dat zal wel zijn om zoveel mogelijk
 verschillende vissen te vangen, hm?"

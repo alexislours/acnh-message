@@ -26,14 +26,14 @@ Naar hetn\0\0
 \0
 Bereid je voor om de opblaasdieren
 uit te werpen!
-\0 \0Zzz\0￿n"
+\0 \0Zzzn\0\0\0￿"
 "001_07","-\0촀\0N-Nee, ik wil geen drijfhout zijnn\0\0
 \0
 Mag ik wrakhout zijn?
 \0 Dat klinkt
 gewoonn\0\0
 \0 stoerdern\0\0
-\0 \0Zzz\0￿n"
+\0 \0Zzzn\0\0\0￿"
 "001_08","-\0촀\0\0Gronk-fiiieuw, gronk-fiiieuwn\0\0\0￿
 \0
 Snurkgeluiden, enzovoortsn"
@@ -42,7 +42,7 @@ Snurkgeluiden, enzovoortsn"
 af, Ahabn\0\0 Je denkt zo slim te zijn.
 \0
 \0Zzzn\0\0\0￿"
-"001_10","-\0촀\0\0Zzz, zzz\0￿n\0\0
+"001_10","-\0촀\0\0Zzz, zzzn\0\0\0￿
 \0 Sorry, maatjes. Ik heb
 van de koekjes gegeten.
 \0 Moest ze
@@ -185,7 +185,7 @@ mijn schip bel en om redding vraag."
 "018","(촀\0Ik vraag gewoon om hulp met mijn
 superhandigen\0\0 eh."
 "018_01","
-\0M-Mijn, uhn\0\0
+\0M-Mijn, ehn\0\0
 \0(
 (촀\0
 
@@ -206,11 +206,8 @@ duren.
 \0 \0\0KEn mijn nautische woordgrappen
 beginnen nu al op te rakenn\0\0\0d\0￿"
 "019","<"
-"019_01","(;촀\0Hé, jij daar. 
-\0Ja, jij daar!
-\0(촀\0 Kun je me
-helpen in de zoektocht naar mijn
-\0marifoon-onderdelen\0￿?"
+"019_01","(촀\0Kun jij me helpen bij mijn zoektocht
+naar mijn \0marifoon-onderdelen\0￿?"
 "019_01_a","(%촀\0Ik help je wel!"
 "019_01_b","('촀\0Nee, sorry."
 "019_02","(촀\0Ik smeek je!
@@ -223,7 +220,7 @@ naar mijn \0marifoon-onderdelen\0￿?
 "020","<"
 "020_01","(촀\0Echt?! Wauw!
 \0((촀\0 De laatste keer dat ik
-zo vriendelijk werd onthaald was
+zo vriendelijk werd onthaald, was
 toen ik aanspoelde bij Blijmuiden!"
 "020_02","(촀\0O, bedankt! Echt bedankt!
 \0((촀\0 Je hart is
@@ -255,7 +252,7 @@ Ik heb alle vertrouwen in je, partner!
 "030","(""촀\0Hé! Heb je alle onderdelen
 gevonden?"
 "030_a","(%촀\0Jazeker, kapitein!"
-"030_b","('촀\0Ik zoek nog steedsn"
+"030_b","('촀\0Ik zoek nog steeds..."
 "031_01","(
 촀\0Mijn \0marifoon-onderdelen\0￿ liggen
 \0begraven op de stranden\0￿ van dit

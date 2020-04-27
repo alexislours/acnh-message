@@ -27,9 +27,11 @@ je allerlei soorten."
 \0(&촀\0n\0?\0\0(촀\0Dit is een klein eilandje. 
 \0((촀\0Je hoort
 weleens wat."
-"001_03_02","Ik kreeg net een \0Nook-miles-bon \0￿van \0Tom Nook\0￿ waar ""n\0"" op staat. Die moet van jou zijn.\0\0Dus als je deze bon wilt gebruiken,
-hoef je alleen maar te zeggen: ""\0Ik wil
-op reis.\0￿"" Duidelijk?"
+"001_03_02","()촀\0Ik kreeg net een \0Nook-miles-bon \0￿van \0Tom Nook\0￿ waar ""n\0"" op staat. 
+\0(촀\0Dus die moet van jou zijn.\0\0(%촀\0Als je deze bon wilt gebruiken, hoef
+je alleen maar te zeggen: ""\0Ik wil op
+reis.\0￿"" 
+\0(촀\0Duidelijk?"
 "001_03_03","(%촀\0We bieden hier dus heel wat diensten
 aan, 
 \0(촀\0maar alleen aan bewoners.\0\0()촀\0Je moet hier op het eiland wonen,
@@ -76,13 +78,13 @@ willen gebruiken."
 \0 even voor de goede orde: (&촀\0waar
 wil je naartoe gaan?"
 "006_01_a","Ik wil iemand bezoeken."
-"006_01_b","Ik heb een Nook-miles-bon."
+"006_01_b","Ik heb een \0Nook-miles-bon\0￿."
 "006_01_c","Laat maar..."
 "006_02","(촀\0Ik heb hier trouwens een \0Nook-
 miles-bon\0￿ met jouw naam erop,
 dus gebruik hem wanneer je wilt."
 "006_02_a","Ik wil iemand bezoeken."
-"006_02_b","Ik heb een Nook-miles-bon."
+"006_02_b","Ik heb een \0Nook-miles-bon\0￿."
 "006_02_c","Ik wil naar Harvey-eiland."
 "006_02_d","Laat maar..."
 "006_03","(\0촀\0Dusn\0\0
@@ -95,7 +97,7 @@ wil je naartoe gaan?"
 \0 even voor de goede orde: (&촀\0waar
 wil je naartoe gaan?"
 "006_04_a","Ik wil iemand bezoeken."
-"006_04_b","Ik heb een Nook-miles-bon."
+"006_04_b","Ik heb een \0Nook-miles-bon\0￿."
 "006_04_c","Ik wil naar Harvey-eiland."
 "006_04_d","Laat maar..."
 "011","(촀\0Hé, hoi, ho! 
@@ -128,28 +130,29 @@ verwachtingen zal overtreffen!\0\0(1촀\0Piepkleine eilandjes en meer; 
 het zo gek niet bedenken of onze
 piloot durft erop te landen!
 ()촀\0Deze reis is voor ECHTE fans van
-onverkend terrein, voor de reizigers
-\0(9촀\0
-die geen steen onomgekeerd laten.
+onverkend terrein
+\0(9촀\0 en voor wie geen
+eiland ongerept genoeg is.
 ()촀\0Je mag alles verzamelen, dus neem
 je gereedschap mee.(촀\0
 \0 En wie weet
 ontmoet je wel een nieuwe buur!
 (9촀\0\0KTickets zijn enkel verkrijgbaar bij je \0NookStation\0￿.
-Onwettige aanbiedingen zijn ongeldig. Dodo
+Niet geldig waar wetgeving dit verbiedt. Dodo
 Airlines is nergens aansprakelijk voor.\0d"
 "032","(%촀\0Ennnn daarmee heb ik zo'n beetje
 alles verteld over de 
 \0(5촀\0verrassingsreis
-van Dodo Airlines.\0\0(촀\0Daarmee bedoel ik dat je meteen
-kunt vertrekken als je je gereedschap
-en zo paraat hebt. 
-\0(&촀\0Wat zeg je ervan?"
-"032_a","Daar gaan we!"
+van Dodo Airlines.\0\0(촀\0Je kunt dus meteen vertrekken als je
+je gereedschap en zo paraat hebt.
+\0
+(&촀\0Wat zeg je ervan?"
+"032_a","Ik ben er klaar voor!"
 "032_b","Laat maar..."
-"035","(촀\0Dus je wilt je \02\0Ą촃Nook-miles-bon
+"035","(촀\0Dus je wilt je \0Nook-miles-bon
 \0￿gebruiken?
-\0 -촀\0Luid en duidelijk!(\0촀"
+\0 -촀\0Luid en duidelijk!
+\02(\0촀"
 "035_01","(촀\0In dat geval
 \0 pak ik even de bon die
 ik van \0Tom Nook \0￿heb gekregenn"
@@ -158,14 +161,13 @@ een snelle controlen\0\0 
 \0(&촀\0Heb je alles
 ingepakt? 
 \0Is je gereedschap gereed?"
-"036_a","Daar gaan we!"
+"036_a","Ik ben er klaar voor!"
 "036_b","Hoezo?"
 "036_c","Laat maar..."
 "037","(촀\0
 \0Prima!
 
-\0( (촀\0Dan kan je vlucht zo
-beginnen.
+\0( (촀\0Dan ben je klaar voor vertrek.
 <"
 "037_01","
 \0-촀\0
@@ -211,6 +213,10 @@ eenmaal, 
 "091_02","(촀\0Bedankt voor je aandacht.
 \0(촀\0 Dan
 kunnen we nu verdern"
+"092","(촀\0Luid en duidelijk!\0\0(2촀\0Sorry als je dit al hebt gezien,
+\0 maar
+van onze juristen van De Gier moeten
+we dit doen als iemand online gaat."
 "101","(&촀\0Wil je naar een eiland in de buurt via
 \0lokaal spelen\0￿ of naar een ver eiland
 via \0online spelen\0￿?"
@@ -233,34 +239,32 @@ bezoeken?"
 "104_a","Vliegen maar!"
 "104_b","Ik wil nog eens zoeken."
 "104_c","Laat maar..."
-"105","(9촀\0Ik heb de bestemming gevondenn\0\0
-\0
-maar (촀\0s촀 is vol en
-ontvangt nu geen nieuwe gasten."
+"105","(9촀\0Ik heb een eiland gevonden genaamd s촀n\0\0
+\0(촀\0 Het is alleen vol en ontvangt nu geen gasten."
 "105_a","Probeer het nog eens!"
 "105_b","Laat maar..."
 "106","(촀\0Wacht even!
 \0(
 촀\0 Je hebt een
-\0Dodo-code™ \0￿nodig om dit eiland te
+\0Dodo-code \0￿nodig om dit eiland te
 bezoeken.
 \0 (\0촀\0Voer de vier cijfers in."
 "107","('촀\0Oei, dat is de verkeerde
-Dodo-code™.
+Dodo-code.
 \0( (&촀\0Wil je het nog
 een keer proberen?"
 "107_a","Ja, graag."
 "107_b","Laat maar..."
 "108","(촀\0Oei!(
-촀\0 Een radiostoringn\0\0 Momentjen\0\0
-
-\0((촀\0\0KHeeft iemand vergeten zijn NookPhone in
-de vliegtuigstand te zetten?\0d"
+촀\0 Een radiostoringn\0\0 Momentjen\0\0
+\0
+(촀\0\0KEr is blijkbaar nog iemand in gesprek of met
+werkzaamheden bezig.\0d"
 "108_01","(촀\0Oei!(
-촀\0 Een radiostoringn\0\0 Momentjen\0\0
-
-\0((촀\0\0KHeeft iemand vergeten zijn NookPhone in
-de vliegtuigstand te zetten?\0d"
+촀\0 Er gaat iets misn\0\0 Momentjen\0\0
+\0
+(촀\0\0KEr is blijkbaar nog iemand in gesprek of met
+werkzaamheden bezig.\0d"
 "108_01_a","Probeer het nog eens!"
 "108_01_b","Wat bedoel je?"
 "108_01_c","Een andere keer misschien."
@@ -291,7 +295,7 @@ spelen voorbereiden."
 "112_b","Laat maar..."
 "113","(촀\0Wil je dat ik de gate opengooi zodat
 iedereen die lokaal spelen gebruikt,
-naar het eiland kan komen?\0\0(:촀\0Of wil je dat ik een \0Dodo-code™
+naar het eiland kan komen?\0\0(:촀\0Of wil je dat ik een \0Dodo-code
 \0￿instel (&촀\0om het plebs buiten te
 houden?"
 "113_a","Gooi maar open!"
@@ -323,10 +327,9 @@ op een andere manier kunt bereiken,
 \0
 dan kun je dat proberen!
 (
-촀\0Zoals met een bericht als: ""\0Ik wil op
-bezoek komen,
-\0 maar dat kan pas als
-je je NookPhone niet gebruikt\0￿.""
+촀\0Zoals met een bericht als: ""\0Ik kan je
+niet bezoeken als je met iemand
+praat of je NookPhone gebruikt.\0￿""
 (촀\0Maar wees niet onaardig. 
 \0((촀\0Iedereen
 verliest weleens de tijd uit het oog
@@ -336,9 +339,9 @@ probeer?"
 "117_02_a","Probeer het nog eens!"
 "117_02_b","Een andere keer misschien."
 "118_01","(7촀\0Nou, 
-\0we kunnen niet naar een eiland
-reizen als daar iemand in gesprek is
-of ergens aan werkt.
+\0we kunnen niet van een eiland
+vertrekken als hier iemand in gesprek
+is of ergens aan werkt.
 (%촀\0Als het na een paar pogingen niet is
 gelukt,
 \0 kun je het misschien beter
@@ -349,10 +352,9 @@ op een andere manier kunt bereiken,
 \0
 dan kun je dat proberen!
 (
-촀\0Zoals met een bericht als: ""\0Ik wil
-naar huis gaan,
-\0 maar dat kan pas als
-je je NookPhone niet gebruikt\0￿.""
+촀\0Zoals met een bericht als: ""\0Ik kan
+niet naar huis gaan als je met iemand
+praat of je NookPhone gebruikt.\0￿""
 (촀\0Maar wees niet onaardig. 
 \0((촀\0Iedereen
 verliest weleens de tijd uit het oog
@@ -361,10 +363,11 @@ bij het gebruik van de NookPhone."
 probeer?"
 "118_02_a","Probeer het nog eens!"
 "118_02_b","Een andere keer misschien."
-"120","(촀\0Begrepen!
-\0( ($촀\0Dan open ik nu de gate."
+"120","(촀\0Goed, daar gaan we!
+\0( ($촀\0Dan open ik nu
+de gate."
 "120_01","(촀\0Zo te zien ben je nog met de
-\0Eilandontwerper \0￿bezig.\0\0(\0촀\0Je kunt die app niet gebruiken
+\0Eilandontwerper\0￿-app bezig.\0\0(\0촀\0Je kunt die app niet gebruiken
 tijdens een vlucht en tijdens het
 \0lokaal spelen\0￿ of \0online spelen\0￿.
 (7촀\0Dus ik zal de app uitschakelen.
@@ -376,8 +379,8 @@ andere luchthavens plagen ons als
 het hier een rotzooi is.(\0촀"
 "121_01","(촀\0O, verhip!
 \0( (7촀\0Ik ben vergeten om te
-controleren of je de \0Eilandontwerper-
-\0￿app aan het gebruiken bent.
+controleren of je de \0Eilandontwerper\0￿-
+app aan het gebruiken bent.
 (촀\0Je kunt deze app niet gebruiken
 tijdens een vlucht en tijdens het
 \0lokaal spelen\0￿ of \0online spelen\0￿.\0\0Daarom
@@ -396,7 +399,7 @@ het gepeupel buiten wilt houden,
 (촀\0Goed, ik zal nu mijn snavel houden.
 \0
 Ga jij maar lol trappen!"
-"126","(촀\0Geef gewoon je Dodo-code™, \0n\0\0￿,
+"126","(촀\0Geef gewoon je Dodo-code, \0n\0\0￿,
 aan iedereen die je wilt uitnodigen.
 \0(촀\0
 Zo makkelijk is het!"
@@ -406,6 +409,15 @@ het internet zodat je online kunt
 spelenn"
 "130_a","Luid en duidelijk!"
 "130_b","Laat maar..."
+"140","(촀\0Verhip! 
+\0Iemand heeft (촀\0de gate
+op dat eiland gesloten."
+"150","(&촀\0Wil je misschien een ander eiland
+bezoeken?
+\0(\0촀\0 Dan ga ik opnieuw op
+zoek."
+"150_a","Ja, graag."
+"150_b","Een andere keer misschien."
 "200","(촀\0Hé, hoi, ho! Daar ben je weer.
 \0( (&촀\0
 Wat kan ik voor je betekenen?"
@@ -421,6 +433,14 @@ Wat kan ik voor je betekenen?"
 "201_c","Wat is mijn Dodo-code?"
 "201_d","Ik wil op reis gaan!"
 "201_e","('촀\0Niks op het moment..."
+"202","(촀\0Hé, hoi, ho! Daar ben je weer.
+\0( (&촀\0
+Wat kan ik voor je betekenen?"
+"202_a","Mag de gate open?"
+"202_b","Verbreek de verbinding."
+"202_c","Wat is de Dodo-code?"
+"202_d","Ik wil op reis gaan!"
+"202_e","('촀\0Niks op het moment..."
 "210","(촀\0Hé, hoi, ho! Daar ben je weer.
 \0( (&촀\0
 Wat kan ik voor je betekenen?"
@@ -434,6 +454,13 @@ Wat kan ik voor je betekenen?"
 "211_b","Wat is mijn Dodo-code?"
 "211_c","Ik wil op reis gaan!"
 "211_d","('촀\0Niks op het moment..."
+"212","(촀\0Hé, hoi, ho! Daar ben je weer.
+\0( (&촀\0
+Wat kan ik voor je betekenen?"
+"212_a","De gate kan dicht!"
+"212_b","Wat is de Dodo-code?"
+"212_c","Ik wil op reis gaan!"
+"212_d","('촀\0Niks op het moment..."
 "220","( 촀\0O, dus in plaats van bezoek te
 ontvangen, 
 \0(&촀\0ga je liever zelf op reis?"
@@ -450,7 +477,15 @@ bezoek, dus dat is geen probleem!"
 \0 De code is nu
 
 \0(촀\0""\0n\0\0￿""!"
-"251",""
+"224","-촀\0Luid en duidelijk! De code is nu
+
+\0(촀\0""\0n\0\0￿""!"
+"251_01","(촀\0Begrepen.
+\0( (\0촀\0Tijd voor wat radiostilte.
+\0
+Ik zal de communicatie nu verbreken!"
+"251_02","(촀\0Hopelijk maak je snel nog eens van
+onze dienst gebruik!"
 "252","(%촀\0Begrepen.
 \0 Laat het me maar weten
 als je bezoek wilt ontvangen,
@@ -463,24 +498,36 @@ wilt sluiten."
 "300","(촀\0Hé, hoi, ho!
 \0< (%촀\0Hopelijk ben je klaar
 voor bezoek(촀\0 van een ander eiland."
-"301","Trouwens
+"301","Trouwens,
 \0(&촀\0 kan ik je ergens mee
 helpen?"
 "301_a","Mag de gate open?"
 "301_b","Wat is mijn Dodo-code?"
 "301_c","('촀\0Niks op het moment..."
-"302","Trouwens
+"302","Trouwens,
 \0(&촀\0 kan ik je ergens mee
 helpen?"
 "302_a","De gate kan dicht!"
 "302_b","Wat is mijn Dodo-code?"
 "302_c","('촀\0Niks op het moment..."
-"305","Trouwens
+"303","Trouwens,
+\0(&촀\0 kan ik je ergens mee
+helpen?"
+"303_a","Mag de gate open?"
+"303_b","Wat is de Dodo-code?"
+"303_c","('촀\0Niks op het moment..."
+"304","Trouwens,
+\0(&촀\0 kan ik je ergens mee
+helpen?"
+"304_a","De gate kan dicht!"
+"304_b","Wat is de Dodo-code?"
+"304_c","('촀\0Niks op het moment..."
+"305","Trouwens,
 \0(&촀\0 kan ik je ergens mee
 helpen?"
 "305_a","Mag de gate open?"
 "305_b","('촀\0Nee, hoor."
-"306","Trouwens
+"306","Trouwens,
 \0(&촀\0 kan ik je ergens mee
 helpen?"
 "306_a","De gate kan dicht!"
@@ -541,7 +588,7 @@ maatje!
 maar ben jij er klaar voor?
 \0(&촀\0 Is alles
 ingepakt en zo?"
-"901_a","Daar gaan we!"
+"901_a","Ik ben er klaar voor!"
 "901_b","Laat maar..."
 "903","( 촀\0Oké. 
 \0(촀\0Nou, hopelijk kunnen we je

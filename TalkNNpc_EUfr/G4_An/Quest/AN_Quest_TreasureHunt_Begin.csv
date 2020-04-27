@@ -4,7 +4,7 @@ pour toi. 
 \0(&촀\0Ça t'dit, une p'tite
 chasse au trésor, n\0 ?"
 "001_a","À fond !"
-"001_b","Une autre fois."
+"001_b","(\0촀\0Une autre fois."
 "002","(
 촀\0Si t'as un peu d'temps, j'ai une
 p'tite suggestion pour toin\0\0
@@ -170,7 +170,7 @@ d'salle d'arcade pour jouer !
 ()촀\0Une p'tite chasse au trésor,
 ça t'dit, n\0 ?"
 "102_a","À fond !"
-"102_b","Une autre fois ?"
+"102_b","(\0촀\0Une autre fois ?"
 "103","(촀\0Ohn\0\0 En fait, il s'fait tard. 
 \0(촀\0On laisse
 tomber pour ce soir, mais t'as un bon

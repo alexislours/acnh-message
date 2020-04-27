@@ -3,21 +3,21 @@
 2\0}\0\0n\0\0\0\0(촀\0Ah! Mais c'est vrai, en plus!
 \0
 (촀\0Ça fait des années que j'en cherche
-un2촀\0e\0, n\0!"
+un2촀\0e\0, n\0!"
 "002","(1촀\0L'autre nuit, j'ai rêvé que je mettais
 la patte sur 2\0}\0\0n\0\0\0\0(\0촀\0C'est bizarre, hein?
 \0(&촀\0 Tu as déjà vu
 2\0}\0\0 en vrai, n\0?\0\0(촀\0Quoi?!
-\0 Tu en as un2촀\0e\0 sur toi en ce
+\0 Tu en as un2촀\0e\0 sur toi en ce
 moment même?!
 \0(촀\0 Si ça se trouve,
 mon rêve était prémonitoiren"
 "003","( 촀\0Ah, n\0!\0\0(촀\0Tu saurais pas où je pourrais trouver
 2\0}\0\0, par hasard?\0\0(촀\0Comment?!
-\0 Tu en as justement un2촀\0e\0
+\0 Tu en as justement un2촀\0e\0
 sur toi en ce moment?!
 \0 Ça, pour une
-coïncidence, n\0!\0\0(촀\0Dis, tu veux bien me l2촀ea\0 vendre?
+coïncidence, n\0!\0\0(촀\0Dis, tu veux bien me l2촀ea\0 vendre?
 \0
 S'te plaît, s'te plaît, s'te plaît!"
 "003_a","(\0촀\0Pour combien?"
@@ -31,7 +31,7 @@ sieste
 la semaine prochainen\0\0\0\0( 촀\0Mais, attends une seconde!
 \0(촀\0 Est-ce
 que tu as ce que je crois que tu as?
-2\02\0}\0\0?!\0\0(촀\0Tu voudrais pas me l2촀ea\0 vendre, dis?
+2\02\0}\0\0?!\0\0(촀\0Tu voudrais pas me l2촀ea\0 vendre, dis?
 \0
 (%촀\0J'ai pas des milliards de clochettes,
 \0
@@ -48,10 +48,8 @@ mes questions bizarresn"
 J'imagine que tu y tiens beaucoup.
 \0(7촀\0
 Désolé de t'avoir dérangé2\0en"
-"100","(7촀\0Dis, n\0, est-ce que
-je pourrais te l'acheter?
-\0 Hein, disn\0\0
-Tu voudrais bien?"
+"100","(7촀\0Dis, n\0, est-ce que je pourrais te l'acheter?
+\0 Hein, disn\0\0 Tu voudrais bien?"
 "100_a","(\0촁\0Fais-moi une offre."
 "100_b","C'est pas à vendre."
 "101","(
@@ -74,8 +72,7 @@ rêve, 
 "104","(촀\0Je suis super content!
 \0 Grâce à toi,
 n\0, 
-\0mon rêve s'est
-réalisé!"
+\0mon rêve s'est réalisé!"
 "105","(촀\0Tant pisn\0\0 C'est pas graven\0\0
 \0(촀\0 Je vais
 aller bouder tout seul dans mon
@@ -100,7 +97,7 @@ le même trésor, n\0."
 point!
 \0 J'en rêve toutes les nuits!"
 "107_a","(\0촀\0Quel est ton prix?"
-"107_b","Eh ben, bonne chance."
+"107_b","(\0촀\0Eh ben, bonne chance."
 "108","(촀\0Pas de problème,
 \0 je comprends.\0\0Et puis,
 \0(6촀\0 un trésor,
@@ -118,7 +115,7 @@ Tu voudrais bien que je te l'achète?"
 \0 (&촀\0
 ça te va?"
 "110_a","Marché conclu."
-"110_b","Laisse tomber."
+"110_b","(\0촀\0Laisse tomber."
 "111","(촀\0Désolé,
 \0 c'est tout ce que...(촀\0
 \0 Attends!
@@ -134,10 +131,8 @@ par trouvern\0\0
 \0 (촀\0J'espèren\0\0
 "
 "113","(촀\0Merci, n\0.
-\0 Je vais
-en prendre le plus grand soin, 
-\0ça, tu
-peux en être sûr2\0e!"
+\0 Je vais en prendre le plus grand soin, 
+\0ça, tu peux en être sûr2\0e!"
 "114","(촀\0Ah,
 \0 j'ai le cœur qui bat la
 chamade!
@@ -145,7 +140,7 @@ chamade!
 \0
 (!촀\0Z!"
 "114_a","Ça marche!"
-"114_b","En fait, laisse tomber..."
+"114_b","(\0촀\0En fait, laisse tomber..."
 "115","(촀\0Ouais!
 \0 Mon rêve se réalise enfin!
 \0
@@ -172,8 +167,7 @@ fois, t'auras qu'à m'envoyer balader.
 \0 (촀\0
 J'adore les balades!"
 "200","(9촀\02\0n\0!
-\0 (8촀\0Je pourrais te
-l'acheter,
+\0 (8촀\0Je pourrais te l'acheter,
 \0 s'il te plaît?"
 "200_a","(\0촀\0Pour combien?"
 "200_b","Y'a pas moyen."

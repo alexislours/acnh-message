@@ -1,13 +1,13 @@
 ﻿"label","text"
 "001","(""촀\0Oh, salve, salve, n\0!"
-"003","(촀\0Le mie più cordiali congratulazioni!
+"003","(촀\0Le mie più sentite congratulazioni!
 
-\0Hai completato il pagamento del tuo
-debito!
-(촀\0Ma certo, 
-\0non avevo dubbi che
-l'avresti fatto, ma occasioni del
-genere vanno festeggiate, no?!
+\0Hai rimborsato il tuo debito fino
+all'ultima stellina!
+(촀\0Certo, 
+\0non avevo dubbi che l'avresti
+fatto, ma occasioni del genere vanno
+festeggiate, no?!
 (
 촀\0Sono anche un buon momento per
 riflettere e fare piani per il futuron\0\0
@@ -17,9 +17,9 @@ riflettere e fare piani per il futuron\0\0
 estremamente confortevole, 
 \0((촀\0ma non
 ti piacerebbe se fosse più grande?
-(6촀\0Oho!
-\0 E ti assicuro che può
-diventarlo!\0\0(4촀\0Bene, bene! Adesso che ti ho
+(6촀\0E ti assicuro che può diventarlo,
+sì, sì!\0\0(4촀\0Bene, bene! 
+\0Adesso che ti ho
 informato di questa possibilità,
 non mi resta che salutarti.
 (%촀\0Se vuoi ulteriori informazioni in
@@ -175,7 +175,7 @@ preoccuparti e 
 "012_02_01","(\0촀\0A questo punto non ci resta che
 affrontare la prossima questionen"
 "012_03","(촀\0Il tuo nuovo prestito! Mi devi
-esattamente n\0\0 \098.000 stelline\0￿.
+esattamenten\0\0 \098.000 stelline\0￿.
 Grazie!"
 "012_03_a","OK!"
 "012_03_b","Posso pagare con le miglia?"
@@ -207,33 +207,34 @@ il \0coupon miglia di Nook\0￿!"
 "012_05_a","Il coupon miglia di Nook?"
 "012_05_b","Cos'è?"
 "012_06","(촀\0Il coupon miglia di Nook
-\0 è un
-voucher speciale che puoi ottenere
-solo scambiando miglia di Nook.
-(1촀\0Siamo tutti un po' combattuti, eh?!\0\0Vogliamo far crescere la nostra isola,
-ma mantenere anche quell'alone di
-mistero tipico delle isole deserten\0\0\0\0(촀\0Beh, ora possiamo avere entrambi!\0\0(촀\0Usa questo coupon per partecipare
+\0 è un buono
+speciale che puoi ottenere solamente
+scambiando miglia di Nook.
+(1촀\0Puoi immaginare il dilemma, mh?\0\0Vogliamo far crescere la nostra isola,
+
+\0ma mantenere anche quell'alone di
+mistero tipico delle isole deserten\0\0\0\0(촀\0Beh, ora possiamo avere entrambe
+le cose!\0\0(촀\0Usa questo coupon per partecipare
 a un'avventura alla scoperta di
 un'isola. 
 \0Sì, sì! Parti quando vuoi!\0\0(촀\0Magari incontrerai altri abitanti
 avventurosi o raccoglierai materiale
 per i tuoi progetti fai da te.
 (촀\0Sta solo a te decidere. Usa questa
-opportunità come preferisci.\0\0(촀\0Ho lasciato il tuo coupon al counter
+opportunità come preferisci.\0\0(촀\0Ho lasciato il tuo coupon al banco
 dell'\0aeroporto\0￿. Puoi utilizzarlo in
 qualsiasi momento!"
 "012_07","(""촀\0E ora vai a goderti la tua nuova vita
 nella tua casa nuova di zecca. Cosa
 aspetti?(촀"
-"021_01","La tua casa 
-\0(&촀\0è molto più spaziosa, eh?
+"021_01","(&촀\0La tua casa è più grande ora, eh?
 
 \0(촀\0Un po' di spazio in più non fa mai
-male, dico bene?!"
+male, dico bene?"
 "021_02","(\0촀\0A questo punto non ci resta che
 affrontare la prossima questionen"
 "021_03","(촀\0Il costo dell'ampliamento! Fanno
-esattamente \0198.000 stelline\0￿, sì!"
+esattamente \0198.000 stelline\0￿, sì, sì!"
 "031_01","La tua casa
 \0(&촀\0 adesso ha una stanza
 in più, dico bene?!
@@ -243,7 +244,7 @@ come preferisci. Sì, sì!"
 affrontare la prossima questionen"
 "031_03","(촀\0Il costo dell'ampliamento!
 \0 Fanno
-esattamente \0348.000 stelline\0￿, sì!"
+esattamente \0348.000 stelline\0￿, sì, sì!"
 "041_01","(&촀\0La tua casa ha una stanza in più.(촀\0
 Un bel po' di spazio extra non ha
 mai fatto male a nessuno!"
@@ -251,7 +252,7 @@ mai fatto male a nessuno!"
 affrontare la prossima questionen"
 "041_03","(촀\0Il costo dell'ampliamento!
 \0 Fanno
-esattamente \0548.000 stelline\0￿, sì!"
+esattamente \0548.000 stelline\0￿, sì, sì!"
 "041_04","(\0촀\0Solo un'ultima cosan\0\0\0\0(촀\0Ora che hai fatto miglioramenti così
 consistenti,
 \0 posso offrirti servizi di
@@ -266,7 +267,7 @@ mai fatto male a nessuno!"
 "051_02","(\0촀\0A questo punto non ci resta che
 affrontare la prossima questionen"
 "051_03","(촀\0Il costo dell'ampliamento! Fanno
-esattamente \0758.000 stelline\0￿, sì!"
+esattamente \0758.000 stelline\0￿, sì, sì!"
 "051_04","(\0촀\0Ah, un'altra cosan\0\0\0\0(촀\0Un altro servizio di personalizzazione
 della casa che possiamo offrirti ora è
 la \0sostituzione della porta\0￿.
@@ -280,21 +281,34 @@ arredamento!"
 "061_02","(\0촀\0A questo punto non ci resta che
 affrontare la prossima questionen"
 "061_03","(촀\0Il costo dell'ampliamento! Fanno
-esattamente \01.248.000 stelline\0￿, sì!"
+esattamente \01.248.000 stelline\0￿,
+sì, sì!"
 "061_04","(\0촀\0C'è un'altra cosa che devo dirtin\0\0\0\0(촀\0Un altro servizio di personalizzazione
 della casa che possiamo offrirti ora
-è la \0sostituzione dei muri\0￿!
-(촀\0Tetto, muri, porta e cassetta delle
+è la \0sostituzione degli esterni\0￿!
+(촀\0Tetto, esterni, porta e cassetta delle
 letteren\0\0
 \0 Cambiali e la tua dimora
-avrà subito un look tutto nuovo!"
+avrà subito un look tutto nuovo!
+(촀\0A proposito della \0cassetta delle
+lettere\0￿: 
+\0non solo puoi cambiarne
+l'aspetto, ma anche la \0posizione\0￿!\0\0()촀\0Premi \0\0￿ per prenderla e sistemarla
+dove vuoi. 
+\0E non preoccuparti: la tua
+posta saprà sempre dove arrivare!\0\0(촀\0Spero vorrai provare questo servizio
+di personalizzazione. 
+\0Non vedo l'ora
+di ammirarne il risultato, 
+\0sì, sì!"
 "071_01","(촀\0Adesso la tua dimora ha anche una cantina come si deve, dico bene?!\0\0Non ci sono sull'isola molti abitanti
 con una casa prestigiosa come la tua,
 te lo dice un esperto, fidati. Sì, sì!"
 "071_02","(\0촀\0A questo punto non ci resta che
 affrontare la prossima questionen"
 "071_03","(촀\0Il costo dell'ampliamento! Fanno
-esattamente \02.498.000 stelline\0￿, sì!"
+esattamente \02.498.000 stelline\0￿,
+sì, sì!"
 "071_04","(촀\0A questo punto, la tua casa è
 enorme 
 \0e non possiamo ingrandirla
@@ -305,18 +319,20 @@ clienti come te!"
 "081_01","(촀\0Ah, sì! Per i pagamenti puoi usare
 comodamente lo Stellomat del \0Punto
 Nook\0￿ come in passato!"
-"081_02","(""촀\0E, come sempre, è stato un enorme
-piacere averti come nostr2oa stimat2oa
-cliente. (촀\0Sì, sì!"
-"101","Come vedi, il numero di abitanti sta
-crescendo in fretta(%촀\0 e sono d'accordo,
-dovremmo aprire un negozio.(촀\0\0\0Però come sai le case degli isolani
-(촀\0avranno la priorità per l'uso dei
-materialin"
-"102","(촀0Sono sicuro che riuscirete a trovare
+"081_02","(""촀\0E, come sempre, è un enorme piacere
+averti come nostr2oa stimat2oa cliente.
+
+\0(촀\0Sì, sì!"
+"101","(%촀\0Anch'io sono dell'idea che con tutti
+gli isolani che hanno comprato casa,
+
+\0sia giusto aprire un negozio, sì, sì.\0\0()촀\0Però, come sai, le loro abitazioni
+hanno la priorità per quanto riguarda
+l'uso dei materialin"
+"102","(촀0Sono sicuro che riuscirai a trovare
 una soluzione che ci garantisca
-profitto e quindin\0\0 stelline a palate!\0\0(촀\0Quanti anni sono che lavorate
-insieme a me ormai, eh?\0\0(촀\0Dovrebbe essere un gioco da ragazzi
+profitto e quindin\0\0 stelline a palate!\0\0(촀\0Quanti anni sono che tu e \0Marco\0￿
+lavorate insieme a me ormai, eh?\0\0(촀\0Dovrebbe essere un gioco da ragazzi
 per voi, dico bene?!
 \0(촀\0
 \0촀"

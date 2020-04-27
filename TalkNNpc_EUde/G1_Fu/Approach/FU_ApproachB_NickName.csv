@@ -31,23 +31,25 @@ dir einen Spitznamen verpasse?"
 \0(촀\0Ich hab
 mir einen neuen Spitznamen für dich
 ausgedacht.
-(%촀\0„n\0“ ist ja nicht
-schlecht, aber...
-\0 ($촀\0Willst du den
-neuen hören?"
+(%촀\0„2\0n\0“ ist ja nicht schlecht, aber...
+\0 ($촀\0Willst du den neuen hören?"
 "005_a","(\0촁\0Raus damit!"
 "005_b","Ich mag den alten..."
-"006","(촀\0Oh, wen haben wir denn da...
+"006","(촀\0Oh, 
+\0wen haben wir denn da...
 \0
-(4촀\0Ich hab gehört, manche nennen dich
+(4촀\0Ich hab gehört, 
+\0manche nennen dich
 seit Kurzem s\0촀.
 (촀\0Was für ein perfekter Spitzname!
 \0
-(8촀\0Er ist so perfekt, dass ich ihn auch
-benutzen will... Einverstanden?"
+(8촀\0Er ist so perfekt, 
+\0dass ich ihn auch
+benutzen willn\0\0
+\0 Einverstanden?"
 "006_a","Na klar!"
 "006_b","Bitte nicht!"
-"100","(촀\0n\0!
+"100","(촀\02\0n\0!
 \0(
 ($촀\0Na, wie gefällt dir das, 
 \0n\0?"
@@ -61,8 +63,7 @@ Herzen so nennen."
 "102","(촀\0Das freut mich!
 \0 (촀\0Dann bist du für mich
 ab jetzt nur noch n\0,
-\0
-n\0."
+\0 n\0."
 "103","(촀\0Das trifft nicht ganz deinen Nerv?
 \0
 ( 촀\0Was für einen Spitznamen
@@ -74,9 +75,7 @@ irgendwann ja (촀\0was Besseres ein!"
 "105","(
 촀\02\0n\0? 
 \0Aber...
-\0 (9촀\0So
-nenne ich dich doch bisher auch
-schon.
+\0 (9촀\0So nenne ich dich doch bisher auch schon.
 \0 (&촀\0Bist du sicher, 
 \0n\0?"
 "105_a","Ja."

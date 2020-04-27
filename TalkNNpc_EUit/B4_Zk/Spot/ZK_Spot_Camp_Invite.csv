@@ -2,6 +2,19 @@
 "002","(촀\0Dici sul serio?!
 \0 (7촀\0Bueno, soy onoraton\0\0\0\0(%촀\0Andiamo al \0centro servizi \0￿per vedere
 cosa si può fare!"
+"003","(&촀\0Tun\0\0 tu vuoi ancora che venga da
+te? 
+\0(4촀\0Anche dopo che ho rifiutat-\0\0(2촀\0A meno che tu non abbia dimenticato
+tutto, 
+\0nel qual caso non c'è motivo di
+rivangare il passato. 
+\0Giusto?
+(촀\0Sai cosa? 
+\0Facciamolo.\0\0A me serve un cambio di scena(촀\0 e a
+esta isla serve un consulente esperto
+come me in fatto di maglie attillate.
+(촀\0Augurami buona fortuna, che sto
+andando al \0centro servizi\0￿!"
 "101","<"
 "101_01","(촀\0Ohhh nooon\0\0
 \0 Ora sì che sono
@@ -121,17 +134,19 @@ trasferimento di tutti i miei abitin"
 Non sono seguro di essere contento
 di aver vinton"
 "205","<"
-"205_01","(%촀\0Gracias, n\0. 
-\0È una vittoria che lascia l'amaro in bocca,
-\0 ma si fa quel che si può."
+"205_01","(%촀\0Se non altro, 
+\0questa vittoria ci lascia
+il dolce sapore di esserci divertiti con
+questo mitico gioco inventato da me."
 "205_02","Ad ogni modo,
 \0(%촀\0 mi sono divertito
 mucho su questa isla.\0\0Sono contento di aver vissuto la vida loca di n\0 anche se per poquito.(촀"
 "205_03","(4촀\0Il destino è deciso.
 \0 (촀\0E non credo tu
-voglia opporti al suo volere, n\0.\0\0(\0촀\0Comunque sia, sono contento che mi
-hai invitato.
-\0(1촀\0 Che bella avventura!"
+possa opporti al suo volere.\0\0(\0촀\0Comunque sia, sono contento
+che tu mi abbia invitato.
+\0(1촀\0 È stata
+una bella avventura!"
 "206","<"
 "206_01","(촀\0Bueno, todo claro.
 \0(촀\0 Mi trasferirò
@@ -139,30 +154,38 @@ hai invitato.
 decidere il proprio destino, ma va
 benen\0\0
 \0 ho usato metodi peggiori.
-(촀\0Non mi sono ancora presentato?!
-\0( (5촀\0Io sono n
-\0, in caso tu non mi conoscessi di fama.\0\0(&촀\0Tu sei n\0, invece? 
-\0(촀\0Non vedo l'ora di mostrare a quest'isola di cosa sono capace!"
+(촀\0Penso che tu sappia già come mi
+chiamo, no?\0\0(5촀\0Beh, ti rinfresco la memoria: 
+\0io sono n
+\0, 
+\0in caso tu non mi conoscessi di fama.\0\0(&촀\0E tu sei n\0, vero? 
+\0(촀\0Non vedo l'ora di mostrare a quest'isola di cosa sono capace!\0\0( 촀\0Ferma todo, però. 
+\0Devo prima andare
+al \0centro servizi \0￿per rendere ufficiale
+il mio trasloco!(촀"
 "206_02","(촀\0Felicitationes, hai vinto! 
 \0((촀\0E ho vinto
-anch'io, perché posso trasferirmi qui!\0\0(1촀\0Il nome della estrella che illuminerà
-el ciel di n	\0 èn\0\0(촀\0
-\0
-n
-\0!
-(6촀\0Ti troverò una particina in tutte
-le mie peliculas, n\0.
-\0 Ti chiami così, verdad?!"
+anch'io, perché posso trasferirmi qui!\0\0(1촀\0Ora il cielo di n	\0 si illuminerà della estrella più luminosa che abbia visto:
+\0(촀\0 n
+\0!\0\0(6촀\0Ti farò vedere la mia rara collezione di gel per barba, n\0.
+\0 Ti chiami così, verdad?!\0\0(
+촀\0Certo, non tutti i puntini sono ancora
+sulle ""i"".
+\0( 촀\0 Prima sarà meglio fare una
+capatinas al \0centro servizi\0￿."
 "206_03","(촀\0Uau, che fortunell2oa!
 \0( (4촀\0Farò meglio a
 preparare le valigie, n\0.\0\0(9촀\0Non scherzo.
 \0 Sono deciso più che
-mai a trasferirmi come concordato.\0\0(7촀\0Quindi, senza ulteriori indugin\0\0
+mai a trasferirmi come concordato.\0\0(7촀\0E giusto per rinfrescarti la memorian\0\0
 \0
-(촀\0Ecco a voi n
+(촀\0Il mio nome è n
 \0!\0\0(%촀\0Arigato per questa occasione, n\0. 
 \0In francese vuol dire gracias amig2oa.
-\0 (7촀\0\0(Almeno credo!)\0￿"
+\0 (7촀\0\0KAlmeno credo!\0\0\0d(5촀\0Ora ti chiedo di scusarmi. 
+\0(촀\0Devo
+andare a chiedere a quelli del \0centro
+servizi\0￿ di lasciarmi vivere qui da voi!"
 "302","(촀\0Lo sienton\0\0 ho brutte notizie.\0\0('촀\0Ho parlato con il \0centro servizi
 \0￿e la situazione immobiliare no
 esta buena.
@@ -194,7 +217,7 @@ occasione, vedrai!
 vuoi che contatti, n\0!
 Ovviamenten\0\0(
 촀\0 potremmo anche usare
-un approccio più mordido e parlare
+un approccio più morbido e parlare
 agli abitanti che vogliono andarsene.
 \0(%촀\0\0￿Il \0centro servizi\0￿ mi ha dato un elenco
 dei papabiles."
@@ -236,9 +259,13 @@ in affari insieme.
 nostra pasticceria artigianale!
 (촀\0Si chiamerà ""2\0촀 que passion""!
 \0 (
-촀\0Aspetta, forse non era con te che volevo fare questa cosan\0\0\0\0(촀\0Ho muchos proyectos in corso e non
-recuerdo sempre bene i dettaglin\0\0\0\0(촀\0Comunque sia, non vedo l'ora di
-trasferirmi qui, n\0!"
+촀\0Aspetta, forse non era con te che volevo fare questa cosan\0\0\0\0(촀\0Sai, ho muchos proyectos in
+corso e non recuerdo sempre
+bene i dettaglin\0\0\0\0($촀\0Comunque sia, io mi chiamo n
+\0.
+\0 E tu sei, n\0, dico bene?\0\0(촀\0Non vedo l'ora di trasferirmi qui
+e dare inizio alla nostra amicizia
+superattillata!"
 "310","(촀\0Se non sei sicur2oa della mia idea,
 no problemo, dai.
 \0 Lasciamo stare,
@@ -253,50 +280,26 @@ a lasciare l'isola?"
 \0 Non fare mai qualcosa se
 sei già segur2oa che poi te ne pentirai,
 n\0."
-"402","(:촀\0Ehin\0\0 (촀\0Lo siento, 
-\0ma il \0centro servizi
-\0￿mi ha dato bruttissime notizien\0\0
-\0 (촀\0Mio
-cugino vive già qui, n\0!
-(	촀\0E abbiamo giurato di non vivere
-mai nello stesso posto,
-\0 perché ci
-somigliamo come due gocce d'acqua.
-(촀\0Bueno, como dico ion\0\0 
-\0('촀\0""Non si può
-sempre avere il gel che si vuole.""
+"313","(촀\0Tosto!
+\0(4촀\0 Ti spiace se discuto la cosa
+con s촀?\0\0(3촀\0Le mie fonti al \0centro servizi \0￿mi
+assicurano che sarebbe felice di
+trovare un accordo."
+"313_a","Fai pure!"
+"313_b","Un attimo..."
+"314","(촀\0Ah, 
+\0ho detto qualcosa di sbagliato?
 
-\0(촀\0Ma muchas gracias per l'invito!"
-"403","(:촀\0Oh, holan\0\0 (촀\0Lo siento, ma ho appena
-ricevuto brutte notizie dal \0centro
-servizi\0￿, n\0.
-(촀\0Un mio lontano cugino si sta per
-trasferire quin\0\0 oggi!
-\0( Ed è un cugino
-chen\0\0
-\0 preferisco che resti lontano.
-(촀\0Bueno, como dico ion\0\0 
-\0('촀\0""Non si può
-sempre avere il gel che si vuole.""
-
-\0(촀\0Ma muchas gracias per l'invito!"
+\0(촀\0Meglio se premiamo il pulsante
+""Pausa"" in merito alla faccenda.
+(촀\0No quiero che tu abbia dei dubbi
+a riguardo, n\0."
 "404","(:촀\0Ohn\0\0 (촀\0Lo siento, ma ho appena
 ricevuto brutte notizie dal \0centro
 servizi\0￿, n\0.\0\0(촀\0L'isola è piena zeppa! 
 \0Non c'è posto
 nemmeno per qualcuno invitato
 appositamente come me, figurati!
-(촀\0Bueno, como dico ion\0\0 
-\0('촀\0""Non si può
-sempre avere il gel che si vuole.""
-
-\0(촀\0Ma muchas gracias per l'invito!"
-"405","(:촀\0Ahi ahi ahin\0\0 (촀\0Lo siento, ma ho
-appena ricevuto brutte notizie dal
-\0centro servizi\0￿, n\0.\0\0(촀\0L'isola è piena zeppa! 
-\0Non c'è più
-posto nemmeno per costruire il mio
-modesto castello a quattro piani!
 (촀\0Bueno, como dico ion\0\0 
 \0('촀\0""Non si può
 sempre avere il gel che si vuole.""
@@ -317,22 +320,6 @@ potrebbe andare meglio,
 \0 Il
 mondo è un osso duro come
 il gel secco, n\0."
-"421","(
-촀\0Non mi stupisce che mio cugino
-viva qui.\0\0(9촀\0Abbiamo gli stessi gusti, entrambi
-amiamo 2\0촀
-e 2\0촀.
-(촀\0Ma averci entrambi sarebbe troppo
-anche per l'isola stessa,
-\0 credimi."
-"422","(
-촀\0Non mi stupisce che mio cugino
-voglia venire a vivere qui.\0\0(9촀\0Abbiamo gli stessi gusti, entrambi
-amiamo 2\0촀
-e 2\0촀.
-(촀\0Ma averci entrambi sarebbe troppo
-anche per l'isola stessa,
-\0 credimi."
 "423","(
 촀\0Incredibile quanto sia popolare la
 tua isola!
@@ -342,15 +329,6 @@ la voglia di trasferirmicin\0\0
 in giro?!
 \0 Non vedo l'ora di venire
 a vivere qui!"
-"424","(
-촀\0Incredibile quanto sia popolare la tua
-isola!
-\0( ('촀\0Quasi quasi mi è passata
-la voglia di trasferirmin\0\0
-(촀\0Ma nooo, chi voglio prendere in
-giro?!
-\0 Non vedo l'ora di venire
-a vivere qui, n\0!"
 "504","($촀\0Questa isla emana delle belle
 vibraciones, n\0n\0\0\0\0(1촀\0Qui la mia perizia con il gel per
 cabello aumenterà ancora di

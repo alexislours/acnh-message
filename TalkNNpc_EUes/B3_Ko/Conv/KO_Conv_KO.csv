@@ -2,7 +2,7 @@
 "001","(9촀\0¿No te has planteado relajarte
 un poco?
 \0 (촃\0¿Por qué estás siempre
-como enfadado?"
+como enfadado?(촀"
 "002","(:촀\0Anda,
 \0 mira quién habla.
 \0 (촀\0¡Deberías
@@ -51,9 +51,9 @@ vete a practicar unas sonrisas."
 "010","(촃\0(촀\0Me decepcionas,
 \0 jovencit2oa.
 \0 ('촀\0No pensé
-que te fueses a dejar influenciar
-de esa manera.
-\0 ¿Qué te ha dado?
+que te fueses a dejar influenciar de
+esa manera.
+\0 ¿Cuánto te ha pagado?
 (촀\0Porque, si no,
 \0 ¡no me explico cómo
 te puede parecer mejor que yo!"
@@ -62,10 +62,11 @@ te puede parecer mejor que yo!"
 \0
 ¡ponte un poco de azúcar
 en el café del desayuno!"
-"012","(촀\0Rotondasn\0\0 (촀\0Mis malas pulgas
-deben de ser de otra galaxian\0\0\0\0¡Para que 2lael jovencit2oa piense que
-tú eres más tratable!"
-"013","(촀\02\0n\0,
+"012","(촀\0Mis malas pulgas deben de ser
+de otra galaxia,
+\0 si 2<este jovencitoesta jovencita
+piensa que tú eres más tratable."
+"013","(촃\0(촀\02\0n\0,
 \0 n\0n\0\0
 (촀\0Mira,
 \0 ¡has conseguido que
@@ -76,9 +77,9 @@ jovencit2oa.\0\0(촀\0\0(¡Rotondas! Creo que me voy a poner
 a llorarn\0\0
 \0)\0￿"
 "015","(촀\0Vaya,
-\0 creo quen\0\0
-\0 (촀\0(촃\0se me ha metido
-algo en el ojo."
+\0 (촃\0me parece quen\0\0
+\0 (촀\0se me
+ha metido algo en el ojo."
 "101","(
 촀\0¿Cómo se llamaba?
 \0 (촀\0Qué desastre
@@ -95,26 +96,29 @@ podemos hacer algo.
 lo que intentas recordar?"
 "103","(
 촀\0Es uno de esos juegos de feria
-donde tienes que acertarle a algo
+donde tienes que lanzar una cosa
 para ganar un premion"
-"103_a","(\0촁\0¿Con una escopeta?"
-"103_b","(\0촁\0¿Con un aro?"
+"103_a","(\0촁\0¿Una pelota?"
+"103_b","(\0촁\0¿Un aro?"
 "104","(촀\0¡Eso es!
-\0 (촀\0¡Disparar con un rifle!
+\0 (촀\0¡El lanzamiento de bolas!
 \0
 ¿Cómo es que no podía acordarme?
 \0
 (촀\0¡Gracias,
 \0 jovencit2oa!"
-"105","촅(&촀\0¿Y por qué querías acordarte
-de una escopeta de feria?"
+"105","촅(&촀\0¿Estás hablando del juego de tumbar
+la torre de latas?
+\0 촅¿Y por qué tanto
+interés en acordarte de eso?"
 "106","(촀\0¿Eh?
-\0 촅(촀\0Puesn\0\0
-\0 (1촀\0no sé.
+\0 Puesn\0\0
+\0 (
+촀\0no sé.
 \0 (;촃\0Quizá por alguna
 cosa relacionada con puntería y buen
 pulso,
-\0 (6촀\0¡pero tampoco me acuerdo!"
+\0 (촀\0pero tampoco me acuerdon"
 "107","(촀\0¡Ah,
 \0 pues claro!
 \0 (촀\0¡Lanzar aros
@@ -124,13 +128,11 @@ sobre unas botellas!
 (촀\0¡Gracias,
 \0 jovencit2oa!"
 "108","촅Bueno,
-\0 (&촀\0¿y ahora recuerdas por qué
-querías acordarte de ese juego de
-lanzar aros?"
+\0 (&촀\0¿y por qué querías acordarte
+촅de ese juego de lanzar aros?"
 "201","(촀\0Tú y yo deberíamos trabajar juntos
 para velar por esta isla,
-\0
-n촁."
+\0 n촁."
 "202","((촀\0¡Excelente idea!
 \0 (9촀\0Nadie se toma en
 serio los múltiples peligros que se

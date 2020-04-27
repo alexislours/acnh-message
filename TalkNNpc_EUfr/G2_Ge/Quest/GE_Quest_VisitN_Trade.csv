@@ -31,13 +31,13 @@ je pourrais 
 \0peut-être
 \0 songer à m'en
 séparer !"
-"005_a","J'ai vu un truc."
-"005_b","Je regarde juste."
+"005_a","(\0촀\0J'ai vu un truc."
+"005_b","(\0촀\0Je regarde juste."
 "006","(촀\0Ton œil a été attiré par quelque
 chose d'intéressant ?
 \0(촀\0 Si ça te dit,
 je pourrais te le vendre."
-"006_a","Il y a quelque chose."
+"006_a","(\0촀\0Il y a quelque chose."
 "006_b","Pas pour l'instant."
 "007","($촀\0Montre-moi ce que tu as vu.
 \0 (촀\0Je parie
@@ -113,11 +113,11 @@ débordent !
 de guetter le facteur,
 \0 n\0 !"
 "300","(8촀\02\02\0}촀 n'est pas à vendre, désolée. (촀\0C'était mon premier insecte, tu comprendsn"
-"301","( 촀\0Alors là, tout mais pas ce poissonn\0\0\0\0(촀\02&촀MonsieurMadame\0 2\0}촀 estn\0\0 m2촀ona\0 tut2촀eurrice\0 de poissonologie !"
+"301","( 촀\0Alors là, tout mais pas ce poissonn\0\0\0\0(촀\02&촀MonsieurMadame\0 2\0}촀 estn\0\0 m2촀ona\0 tut2촀eurrice\0 de poissonologie !"
 "302","(촀\0Ça ?
 \0 Jen\0\0
 \0 En fait, c'était à mon
 pèren\0\0 (촀\0Ça a une valeur très spéciale
 à mes yeux, 
 \0désolée."
-"303","(7촀\0Alors oui, mais non, désolée.\0\022촀Ce petitCette petite\0 }\0\0 fait un peu le lien entre tous mes meublesn"
+"303","(7촀\0Alors oui, mais non, désolée.\0\022촀Ce petitCette petite\0 }\0\0 fait un peu le lien entre tous mes meublesn"

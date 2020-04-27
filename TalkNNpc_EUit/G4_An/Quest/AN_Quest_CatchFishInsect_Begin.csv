@@ -16,9 +16,9 @@ questo insetto...
 \0ovviamente, 
 \0mi piacciono gli insetti.\0\0(1촀\02\02\0}촀
 era il mio insetto preferiton\0\0
-Sarebbe bello rivederne un2촀oa\0!"
-"004_a","(\0촁\0Te ne prendo io un2촀oa\0."
-"004_b","(\0촁\0Ne sono cert2oa."
+Sarebbe bello rivederne un2촀oa\0!"
+"004_a","(\0촁\0Te ne prendo io un2촀oa\0."
+"004_b","(\0촁\0Catturane un2촀oa\0, magari."
 "008","(9촀\0Ti sembrerà strano, ma ultimamente
 mi sono fissata con un certo pescen\0\0\0\0(촀\0Mi accontenterei di pescarne anche
 uno soltanto. 
@@ -27,16 +27,16 @@ molte chance di successo.
 (촀\0E poin\0\0 magari non vale neanche
 la pena di arrabattarsi tanto per
 2\0}촀."
-"008_a","(\0촁\0Te ne pesco io un2촀oa\0!"
+"008_a","(\0촁\0Te ne pesco io un2촀oa\0!"
 "008_b","(\0촁\0Non vorrai mollare?!"
 "009","()촀\0Una mia amica aveva un acquario
 pieno di pesci. 
 \0Ne avrà avuti 30 o 40.\0\0(%촀\0Mi soffermavo spesso a guardare
-2""촀il suola sua\0 }촀.
+2""촀il suola sua\0 }촀.
 \0\0\0(촀\0Mi ricordo ancora che aveva delle
 squame niente malen"
-"009_a","(\0촁\0Ne vuoi un2촀oa\0?"
-"009_b","(\0촁\0Sì, bel pesce."
+"009_a","(\0촁\0Te ne prendo un2촀oa\0?"
+"009_b","(\0촁\0Catturane un2촀oa\0 allora!"
 "011","(촀\0Dici sul serio?!
 \0((촀\0 Finalmente qualcuno
 che si offre di darmi una zampa!"
@@ -67,13 +67,15 @@ a cui pensare.
 \0 Vabbè, dai. 
 \0Non
 pensarci adesso, n\0."
-"017","(%촀\0Beh, non mi resta che rimboccarmi
-le maniche per acchiapparne un
-esemplare!"
-"018","(촀\0Sono davvero sfavillantin\0\0
-\0
-(6촀\0Scommetto che sono consapevoli
-della loro bellezza."
+"017","(%촀\0Sai una cosa? 
+\0Hai ragione!
+
+\0((촀\0Mi rimboccherò le maniche
+per acchiapparne un esemplare!"
+"018","('촀\0È che sono davvero favolosi, capisci?
+
+\0(촀\0Scommetto che ne sono consapevoli
+anche loro, n\0n"
 "021","(9촀\0Scommetto che non sai chen\0\0 
 \0nel
 loro guscio, 
@@ -91,7 +93,7 @@ ti capita di trovarne uno qualsiasin\0\0
 "021_a","Lascia fare a me!
 OK!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","(촀\0Sulle montagne dove sono cresciuta,
@@ -109,7 +111,7 @@ portarmelo, n\0?"
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","(&촀\0Sai che ho sentito dire oggi?
@@ -130,7 +132,7 @@ insetti, dovresti darmi una zampa.
 "023_a","Lascia fare a me!
 OK!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","(7촀\0Ehi, n\0n\0\0
@@ -148,7 +150,7 @@ di campo. 
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(""촀\0Mi chiedevo una cosan\0\0
@@ -168,7 +170,7 @@ va bene una qualsiasi!"
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","()촀\0Ho un favore proprio da nulla
@@ -183,7 +185,7 @@ tecnican\0\0 e non vorrei spezzare fiori."
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","Avevo visto un insetto su un ceppo
@@ -200,7 +202,7 @@ tipo sia, basta che sia su un ceppo."
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","(
@@ -217,7 +219,7 @@ bene qualsiasi pesce di acqua dolce."
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","(촀\0Senti, ma i pesci di mare hanno un buon olfatto?
@@ -234,7 +236,7 @@ di me. 
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(8촀\0Mi infastidisce ammetterlo, ma non
@@ -299,7 +301,7 @@ amano le mie esche fatte in casa."
 ()촀\0Mi ero messa in testa di prendere
 2\0}촀, 
 \0(촀\0ma ho fatto solo buchi nell'acqua."
-"202_a","(\0촁\0Te ne pesco io un2촀oa\0!"
+"202_a","(\0촁\0Te ne pesco io un2촀oa\0!"
 "202_b","(\0촁\0Sarà dura per te."
 "203","(촀\0Che mito! 
 \0(%촀\0Sapevo di poter contare

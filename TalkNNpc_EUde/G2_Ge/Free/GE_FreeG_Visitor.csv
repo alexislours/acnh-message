@@ -9,7 +9,7 @@
 "001_b","(\0촀\0Sollte ich?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Dann ist gut,
 \0 denn das darf man
 nicht verpassen! 
@@ -72,25 +72,32 @@ untergebracht ist! 
 \0äh... 
 \0(촀\0\0Eugen\0￿ freut sich bestimmt,
 wenn du ihm einmal Huhu sagst!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
-"025","()촀\0Im \0Museum \0￿wird echt hart geackert,
+"024","<ἃᤀ촀"
+"025","()촀\0Im \0Museum \0￿wird echt hart geackert,
+\0
 damit die Ausstellungsdinger immer
 top aussehen.
-(촀\0Ich geh da supergerne hin, denn
+(촀\0Ich geh da supergerne hin, 
+\0denn
 jedes Mal gibt's da was Neues zu
-entdecken.\0\0(촀\0Da darf jeder rein. Jederzeit. 
+entdecken.\0\0(촀\0Da darf jeder rein. 
+\0Jederzeit. 
 \0Also
-wenn du noch nicht da warst, hol
-das ganz zackig nach, n\0!"
+wenn du noch nicht da warst, 
+\0hol
+das ganz zackig nach,
+\0 n\0!"
 "028","Ich bin ganz verrückt danach, 
-\0(촀\02(촀demderdem
+\0(촀\02)촀demderdem
 2촂
 \0 im \0Museum\0￿ zuzugucken!\0\0(6촀\0Ich kann gar nicht genug kriegen!
 \0
-(촀\0Schau 2(촀ihnsiees dir doch auch mal an,
+(촀\0Schau 2)촀ihnsiees dir doch auch mal an,
 \0
 ($촀\0n\0!"
 "029","()촀\0Das Highlight im \0Museum von\0￿
@@ -101,13 +108,13 @@ das ganz zackig nach, n\0!"
 ?
 \0(촀\0
 2\02\0
-!\0\0(촀\0Wenn ich 2(촀demderdem zusehe, komme ich
+!\0\0(촀\0Wenn ich 2)촀demderdem zusehe, komme ich
 nach einem anstrengenden Shop-
 ping-Trip ganz schnell wieder runter.\0\0('촀\0Wenn nur die Säle nicht so groß
 wären... 
 \0(2촀\0Ich muss immer ewig
 suchen, 
-\0bis ich 2(촀ihnsiees sehe."
+\0bis ich 2)촀ihnsiees sehe."
 "030","()촀\0Im \0Museum von\0￿ 
 
 \0\0n\0\0￿
@@ -118,61 +125,74 @@ gibt's sogar Fossilien. 
 immer: 
 \0(""촀\0Ganz schön krass!
 Am süßesten von allen finde ich ja
-2(촀dendiedas 2촁
+2)촀dendiedas 2촁
 .
 \0
 (촀\0Lass dir das nicht entgehen!"
 "101","<\0fi"
-"102","(""촀\02\0n\0!
-\0
-(6촀\0Ooooooch, 
-\0hast du mich etwa
-vermisst?"
-"102_a","So isses!"
-"102_b","N-nein..."
-"103","(촀\0Da fühl ich mich aber geschmeichelt!
+"201","<\0ÊÍ"
+"202","(""촀\02\0n\0!
+\0 (6촀\0Ooooooch, 
+\0hast du mich etwa vermisst und besuchst mich deshalb?"
+"202_a","So isses!"
+"202_b","N-nein..."
+"203","(촀\0Da fühl ich mich aber geschmeichelt!
 \0
 (7촀\0Ich hab letztens auch mal an dich
-gedacht...\0\0('촀\0Als du weggezogen bist, fand ich
-das ganz doof... 
-\0(촀\0Aber ich war mir
-sicher, du würdest mich besuchen!\0\0((촀\0Einmal Freunde, 
-\0immer Freunde!"
-"104","(촀\0Haha, 
-\0brauchst gar nicht
+gedacht, 
+\0n\0...\0\0Die Insel hier ist ein Träumchen,
+\0
+(촀\0aber meine alten Fans fehlen mir
+irgendwie schon ein bisschen...
+(촀\0Umso mehr freu ich mich, 
+\0dass du
+jetzt da bist! 
+\0(촀\0Kannst auch gern gleich
+mit dem Anschmachten loslegen!
+"
+"204","(촀\0Haha, 
+\0brauchst gar nicht so
 rumzudrucksen. 
 \0(6촀\0Du hast mich
 vermisst, 
-\0das sehe ich sofort!\0\0(\0촀\0Als du abgehauen bist, (촀\0war ich voll
-am Ende. 
+\0das sehe ich sofort!\0\0(\0촀\0Hab mich hier zu Beginn etwas ein-
+sam gefühlt. 
 \0Aus Frust hab ich (촀\0sogar
 촀 angefangen!\0\0(\0촀\0Und jetzt 
 \0(2촀\0ist es zu meinem
 Lieblingshobby geworden...
 \0
-(촀\0Alles nur dank dir!"
-"105","Hey, 
+(촀\0Alles nur dank dir, 
+\0n\0!"
+"205","(;촀\0Hey, 
 \0n\0, 
-\0du wohnst auf n	\0, 
-\0oder? 
-\0(Wie ist es denn da so?"
-"105_a","Echt spaßig!"
-"105_b","Superschön!"
-"106","Spaßig?! 
-\0Das klingt ja, als wäre es
-wie für mich gemacht!\0\0(촀\0Wenn ich als Popstar auf Tour gehe,
-
-\0(""촀\0wird n	\0 meine erste
-Station werden!\0\0(%촀\0So lerne ich deine Insel kennen und
-kann gleichzeitig dich besuchen!
-\0
-(촀\0BESTE 
-\0IDEE 
-\0ALLER 
-\0ZEITEN!"
-"107","( 촀\0Oooh, 
-\0wirklich so schön?
-
-\0(7촀\0Und du wohnst auch noch da...
-\0
-(촀\0Da wird man ja direkt neidisch!"
+\0wie läuft es (촀\0denn so auf n	\0, 
+\0seit ich weggezogen bin?"
+"205_a","Alles paletti!"
+"205_b","Total gechillt."
+"206","n\0\0
+\0Paletti sagst du?
+\0 (촀\0Das erinnert mich
+dran, 
+\0dass ich mir neulich ein super-
+schickes Paillettenkleid bestellt hab!
+(촀\0Ein echter Hingucker! 
+\0Das kommt bei
+meiner nächsten Welttournee auf
+jeden Fall mit in den Koffer!
+(\0촀\0Falls ich mal auf n	\0 einen Gig haben sollte,
+\0 (%촀\0kannst du es dir dann ja angucken, 
+\0n\0!"
+"207","(%촀\0So so, 
+\0alles gechillt also. 
+\0(3촀\0Klingt,
+\0 als
+würde euch auf n	\0 ein bisschen Action fehlen!\0\0(\0촀\0Ich sag dir was: 
+\0(촀\0Falls ich demnächst
+auf Tour gehe,
+\0 leg ich auf deinem
+Inselchen einen Zwischenstopp ein.
+(%촀\0Mein Manager wird sich um alles
+kümmern! 
+\0(8촀\0\0KVielleicht sollte ICH mich erst
+mal um einen Manager kümmern...\0d"

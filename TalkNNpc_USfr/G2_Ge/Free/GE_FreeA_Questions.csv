@@ -80,46 +80,42 @@ une tenue
 (촀\0Je vais porter ce que je veux, pis
 c'est tout! Stop les pressions
 extérieures, (촀\0lol!"
-"009","(""촀\0L'autre jour, je lisais un magazine à
-ma mère.
-\0 Tu sais, le genre avec
-plein de tests de personnalitén\0\0
-Tiens, par exemple, y avait cette
-question... Essaie d'y répondre!\0\0Imaginen\0\0 Tu entends de la musique
+"009","($촀\0Hé, j'ai une question purement
+hypothétique pour toin\0\0\0\0Imaginen\0\0 Tu entends de la musique
 depuis la maison
 \0(촀\0 de quelqu'un que
 tu aimes bienn\0\0
 (촀\0Quel genre de musique tu voudrais
-que ce soit?"
+que ce soit n\0?"
 "009_a","Du classique."
 "009_b","Du rock."
 "009_c","De la pop."
 "009_d","Une boîte à musique."
-"010","(%촀\0Du classique, hein?
-\0 (촀\0Alors attendsn\0\0
-Ça veut dire que tu dois te marier!\0\0Pis y aura 
-\0une symphonie en bruit de fond pendant la cérémonien\0\0
-\0(
-Tatata daaam... 
-\0Tadada daaam...
-(촀\0J'adore ces grands orchestres de
+"010","(촀\0Je 
+\0
+\0SAVAIS
+
+\0 QUE TU DIRAIS ÇA!\0\0T'es quelqu'un de très mature,
+comme un piano, mais cool
+comme un saxophone!
+\0(\0\0(촀\0J'adore ces grands orchestres de
 150 musiciens, tous ces violons qui
 répondent aux trompettes!\0\0(&촀\0Quoi?
 \0 J'ai pas le droit d'apprécier
 la musique classique?\0\0(5촀\0Tu sais, une star de la pop se doit
 de connaître aussi d'autres
-styles musicaux!"
-"011","(%촀\0Tiens, du rock, n\0? 
-Ça veut diren\0\0 que tu aimes les gens
-avec un côté sauvage!\0\0(촀\0Comme ça, vous pouvez bouger
-votre corps toute la journée au son
-des grosses guitares!(촀\0
+styles musicaux n\0!"
+"011","(%촀\0Ah oui!
+\0 Y'a rien de mieux qu'un vrai
+bon solo de guitare!\0\0(촀\0Comme ça, on peut bouger son
+corps toute la journée au son
+de la musiquen\0\0(촀\0
 \0
 (4촀\0Partir en bus sur les routes, jouer
 devant des fans déchaînés à en
 perdre la têten\0\0
 (
-촀\0Hmmn\0\0 (촀\0Je devrais peut-être me
+촀\0Humn\0\0 (촀\0Je devrais peut-être me
 reconvertir en star de rock... 
 \0J'y
 penserai si ma carrière s'essouffle!"
@@ -138,22 +134,20 @@ V'là aut' chose!\0\0(촀\0Si tu entends le son d'une boîte à
 musique quand tu passes devant
 une maisonn\0\0
 C'est que c'est une énorme boîte
-à musique, (촀\0lol!\0\0(촀\0J'imagine que ton âme-sœur doit
-être quelqu'un qui branche 
-\0une
-méga sono sur sa boîte à musique!"
-"014","(;촀\02\0n\0, tu tombes
-bien! Un test de personnalité, ça te
-dit? Attention, c'est parti!\0\0(촀\0Hm, hmn\0\0 Si tu allais à une fête
+à musique, (촀\0lol!\0\0(촀\0Ou peut-être quelqu'un qui branche
+
+\0une méga sono sur sa boîte
+à musique?!
+(촀\0Eh, mais c'est une vraiment
+bonne idée en fait!"
+"014","(;촀\02\0n\0, tu tombes bien! j'ai une question pour toi!\0\0(촀\0Hm, hmn\0\0 Si tu allais à une fête
 costumée avec des amis, ($촀\0en quoi tu
 te déguiserais?"
 "014_a","En fantôme!"
 "014_b","En vampire!"
 "014_c","En pompier."
 "014_d","En citrouille."
-"015","(;촀\0Alors, le costume que tu choisis a
-une influence sur la manière dont
-les autres te voient, t'es d'accord?\0\0(%촀\0Si tu arrives déguisé2\0e en fantôme, 
+"015","(%촀\0Si tu arrives déguisé2\0e en fantôme, 
 \0les gens te reconnaîtront peut-être
 même pas.
 C'est même pas obligé que ce soit
@@ -167,9 +161,7 @@ histoire?
 \0 (촀\0Oh là là,
 \0 le délire
 existentiel pas méga normal..."
-"016","(;촀\0Alors, le costume que tu choisis a
-une influence sur la manière dont
-les autres te voient, t'es d'accord?\0\0(%촀\0En vampire, tu apparais comme
+"016","(%촀\0En vampire, tu apparais comme
 quelqu'un de ténébreux, 
 \0mais surtout
 \0
@@ -183,10 +175,7 @@ croque-monsieur!
 \0 Le
 croquen\0\0 monsieur! 
 \0T'as compris?"
-"017","(;촀\0Alors, le costume que tu choisis a
-une influence sur la manière dont
-les autres te voient, t'es d'accord?
-()촀\0En pompier, 
+"017","()촀\0En pompier, 
 \0les gens seront sympas
 avec toi, 
 \0parce qu'ils savent que t'es
@@ -199,8 +188,7 @@ gérer la situationn\0\0
 cuisinière. 
 \0Et s'il n'y a plus rien à
 manger,(%촀\0 je pourrais préparer un truc."
-"018","(;촀\0Alors, le costume que tu choisis en
-dit beaucoup sur toi, t'es d'accord?\0\0(%촀\0Si tu débarques habillé2\0e en
+"018","(%촀\0Si tu débarques habillé2\0e en
 citrouille, 
 \0il faut que tu saches
 quelque chose de

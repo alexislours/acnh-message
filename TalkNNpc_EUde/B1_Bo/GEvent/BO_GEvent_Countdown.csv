@@ -25,11 +25,9 @@ man im letzten Jahr nicht geschafft
 hat!"
 "005","(촀\0Hilfe, 
 \0n\0! 
-\0Das Jahr
-ist fast vorbei! 
-\0Ich wollte doch noch
-was machen! 
-\0Aber... 
+\0Das Jahr ist fast vorbei! 
+\0Ich wollte doch noch was machen! 
+\0Abern\0\0 
 \0WAS?!"
 "006","(촀\0Das neue Jahr ist nicht mal eine
 Stunde entfernt...
@@ -38,8 +36,7 @@ pünktlich ankommt?"
 "007","(촀\0Den Countdown gibt's nur einmal
 im Jahr, 
 \0n\0! 
-\0Ist der
-nicht so richtig wunderbärchen?"
+\0Ist der nicht so richtig wunderbärchen?"
 "008","2\0n\0! 
 \0(""촀\0Dieser Hut steht
 dir ganz wunderbärchen!
@@ -148,8 +145,7 @@ feiern ohne einen Neujahrshut?
 (;촀\0Du verpasst noch die besten Snacks!"
 "025","(촀\0Boah, 
 \0dein Hut ist ja toll,
-\0
-n\0!
+\0 n\0!
 \0
 (5촀\0Guck mal, 
 \0meiner!
@@ -237,12 +233,12 @@ du deine (;촀\0Partyknaller bereit?
 (7촀\0Was willst du im neuen Jahr denn
 so alles machen, 
 \0n\0?"
-"039","Nicht mal eine Stunde, 
+"039","(1촀\0Nicht mal eine Stunde, 
 \0bis das neue
 Jahr da ist! 
-\0Außer, 
+\0(촀\0Außer, 
 \0es steckt im Stau.
-\0
+\0(촀\0
 Äh, he he he!"
 "040","Z\0 ist fast schon vorbei.
 \0
@@ -307,7 +303,7 @@ Mein Herz(촀\0 klopft ganz doll!
 "058","Ooooooh, 
 \0n\0!
 \0
-Es wird 
+(;촀\0Es wird 
 \0wirklich 
 \0passieren!
 \0

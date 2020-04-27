@@ -5,7 +5,7 @@ keer ""n\0"".\0\0(촀\0Die lijfspreuk is zo versleten als een
 paar oude tennisschoenen. (&촀\0Wat vind
 jij ervan? 2\0n\0?"
 "001_a","Verander hem!"
-"001_b","Hij is prima zo!"
+"001_b","(\0촁\0Hij is prima zo!"
 "002","(촀\02\0n\0!
 \0( Gaan we straks gewichtheffen? 2\0n\0!\0\0(
 촀\0Hmmn\0\0 Ik vraag me af of ""⁠n\0⁠"" zo onderhand niet zijn laatste race gereden heeft.\0\02\0n\0!"
@@ -15,8 +15,8 @@ jij ervan? 2\0n\0?"
 \0 een beetje vreemd isn\0\0\0\0(촀\0Maar ik heb geen flauw idee wat er
 zo vreemd aan is. Wat moet ik doen,
 n\0?"
-"003_a","(\0촁\0Gewoon veranderen!"
-"003_b","(\0촁\0Er is niets mis mee."
+"003_a","Gewoon veranderen!"
+"003_b","Er is niets mis mee."
 "004","(""촀\0Heb je misschien een momentje,
 n\0?\0\0(
 촀\0Ik zit de laatste tijd in een dipje, (%촀\0en

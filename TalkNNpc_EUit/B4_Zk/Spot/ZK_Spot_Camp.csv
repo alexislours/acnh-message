@@ -29,8 +29,8 @@ problema a venire a vivere qui,
 n\0n"
 "002_04","(5촀\0Cosa sarebbe un campeggio senza
 un falò? 
-\0O senza 2"" 촀il miola mia\0 esuberante
-촀 2* 촀griffatogriffata\0?"
+\0O senza 2""!촀il miola mia\0 esuberante
+촀 2*!촀griffatogriffata\0?"
 "002_05","(%촀\0Appena arrivato, ho capito subito
 che qui il mio estilo sarebbe stato
 apprezzato, n\0."
@@ -40,8 +40,8 @@ una nuova maglietta attillata,
 \0 vengo
 qui a godermi un po' di pacen"
 "003_02","(5촀\0Cosa sarebbe un campeggio senza
-un falò? O senza 2"" 촀il miola mia\0 esuberante
-촀 2* 촀griffatogriffata\0?"
+un falò? O senza 2""!촀il miola mia\0 esuberante
+촀 2*!촀griffatogriffata\0?"
 "003_03","(촀\0L'ho saputo dal primo momento che
 ho messo zampa su quest'isolan\0\0\0\0(%촀\0Io 2\0 n\0 siamo una coppia perfetta, n\0!\0\0(\0촀\0E ora che sono un residente a tutti
 gli effetti,
@@ -97,25 +97,25 @@ dove accadono un sacco di cose
 glamurose. 
 \0Non vedevo l'ora!"
 "202","<"
-"202_01","(촀\0Forse ti chiederai chi sono e che ci
-faccio qui.\0\0(5촀\0Bueno, yo soy n
-\0 e sono un ospite dell'impareggiabile s\0촀, n\0."
+"202_01","(촀\0Forse ti chiederai che ci faccio qui,
+giusto?\0\0(5촀\0Bueno, 
+\0a dirla tutta sono un
+ospite dell'impareggiabile
+s\0촀, n\0."
 "202_02","(6촀\0Ti chiedi perché sia qui, eh?
-\0 Mi ha invitato 2,
-촀un certouna certa\0 s\0촀, che preferisce non essere 2*
-촀nominatonominata\0.\0\0(
+\0 Mi ha invitato 2,촀un certouna certa\0 s\0촀, che preferisce non essere 2*촀nominatonominata\0.\0\0(
 촀\0Ho la sensazione di aver detto
 qualcosa di sbagliaton\0\0
 \0 Ma cosa?"
 "202_03","(6촀\0Come te la passi, amig2oa?
-\0 (5촀\0Già capito
-che sono un tipo muy especial?
-\0 Mi
-chiamo n
-\0!
-(촀\0E se vuoi prendertela con qualcuno
-per il mio arrivo, 
-\0prenditela con
+\0 Già capito
+che sono un tipo muy especial?\0\0(5촀\0Ebbene sì, 
+\0io sono di gran lunga
+superiore alla median\0\0 e capisco
+che ci si possa sentire a disagio.
+(촀\0Quindi se vuoi prendertela con
+qualcuno per il mio arrivo, 
+\0fallo con
 s\0촀 che m'ha invitato."
 "301","<"
 "301_01","(촀\0Sai qual è la cosa più bella del
@@ -226,8 +226,7 @@ i personaggi più glamurosi dell'isola!"
 (촀\0Penso che mi trasferirò qui
 definitivamente!
 (6촀\0È tutto merito di s\0촀 che mi ha consigliato di farlo, n\0.
-\0 Devi ringraziarl2
-촀oa\0."
+\0 Devi ringraziarl2촀oa\0."
 "402_02","()촀\0Per ora sto facendo solo glamping,
 \0
 ma presto mi trasferirò in pianta
@@ -317,7 +316,7 @@ anche rima, n\0!"
 "502_02","(2촀\0Eh sìn\0\0
 \0 Sarà fabuloso tornare a quel
 lusso sfrenato.
-\0 (촀\0Ma con receuerdos
+\0 (촀\0Ma con recuerdos
 di campeggio nuevos e speciali.\0\0(1촀\0Magari la prossima volta mi porto
 un sacco a pelo più comodo.
 \0((&촀\0 Sai se
@@ -336,12 +335,12 @@ richiamarmi da un momento all'altro.
 (촀\0
 \0(Devo tornare subito a casa!"
 "601_01","(7촀\0Non dico che mi si possa corrompere
-con qualsiasi cosa buenita, maaan\0\0\0\0(6촀\0Qualcuno 2\0 n	\0 mi ha fatto un regalo fabuloso e ora voglio trasferirmi qui."
+con qualsiasi cosa buenita, maaan\0\0\0\0(6촀\0Ho ricevuto qualcosa di veramente fabuloso qui 2\0 n	\0 e ora voglio trasferirmi."
 "601_01_a","Dovresti farlo!"
 "601_01_b","Mi pare esagerato."
-"601_02","($촀\0Lo sai che appena sono arrivato qui,
-mi hanno subito regalato un souvenir
-super glamuroso?!
+"601_02","($촀\0Lo sai che appena sono arrivato
+qui, ho ricevuto un souvenir super
+glamuroso?!
 (4촀\0Non so se sia un'usanza di n	\0 o che, man\0\0
 \0 (&촀\0Quando posso trasferirmi qui?"
 "601_02_a","Quando vuoi!"

@@ -96,7 +96,7 @@ a te. Magari l'hai già capito, man\0\0 è
 "104","(""촀\0Ecco qui.
 \0 Il mio regalo per te è
 2\0}\0.\0\0(7촀\0Se non ti piace,
-\0 2촀
+\0 2촀
 dallo
 dalla\0 pure a qualcun
 altro.
@@ -104,10 +104,10 @@ altro.
 "105","(5촀\0Scommetto che non ti aspettavi
 2\0}\0!\0\0(촀\0Potrebbe non piacere a tutti,
 \0 ma
-quando l'ho 2촀
+quando l'ho 2촀
 visto
 vista\0 ho pensato fosse
-2*촀perfettoperfetta\0 per te, n\0!"
+2*촀perfettoperfetta\0 per te, n\0!"
 "200","(촀\0A me piace molto giocare
 \0 e a te?
 \0
@@ -129,7 +129,7 @@ di fare un gioco?
 che potremmo fare questo gioco
 insieme.
 \0 (&촀\0Ti va?"
-"202_a","Perché no?"
+"202_a","(\0촀\0Perché no?"
 "202_b","('촀\0Non proprio."
 "203","(8촀\0Oh,
 \0 va benen\0\0 (""촀\0Dico sul serio. Va

@@ -23,7 +23,7 @@ heute,
 hierher geschafft.
 \0( Freut mich, ähn\0\0
 \0((촀\0
-...n\0!
+...2\0n\0!
 \0((\0촀\0 \0\0KPuh,
 \0 Glück gehabt.\0d\0￿
 (촀\0Immer wieder schön,
@@ -34,8 +34,7 @@ wiederzusehen. 
 Namen, 
 \0die sich einem einprägenn\0\0
 Wie n\0!
-\0 KANN man
-gar nicht vergessen,
+\0 KANN man gar nicht vergessen,
 \0 oh nein.
 \0(
 Hüstel.
@@ -43,7 +42,8 @@ Hüstel.
 "001_02","(촀\0Na ja,
 \0 also jedenfalls willkommen
 auf \0Harveys Insel\0￿!
-\0 (촀\0Ich hab hier ja ein
+\0
+\0 (촀\0Ich hab hier ja ein
 \0Fotostudio\0￿, 
 \0falls du's noch weißt.
 (촀\0Heißt \0Fotopia\0￿,
@@ -133,8 +133,7 @@ zum Studio,
 (
 촀\0Also, was mir noch so einfälltn"
 "011","($촀\0Heyyy,
-\0 2
-촀derdie\0 n\0!
+\0 2촀derdie\0 n\0!
 \0
 (촀\0Was treibste denn so?
 \0 \0K\0Könntest ja mal,
@@ -297,9 +296,11 @@ anschauen,
 \0 was meinst du?"
 "113","(
 촀\0Hmn\0\0 
-\0((촀\0Jawoll, das war's!
+\0<(촀\0Jawoll, 
+\0das war's!
 
-\0Mehr fällt mir zu \0Kulissen\0￿ nicht ein,
+\0Mehr fällt mir zu \0Kulissen\0￿ nicht ein,
+\0
 bedaure."
 "121","(촀\0Also,
 \0 natürlich kannst du Fotos
@@ -339,7 +340,7 @@ zeigen, 
 und zeig ihm mit \0\0￿ \0\0￿ die Pose."
 "123","(
 촀\0Uuuundn\0\0 
-\0((촀\0Jawoll, 
+\0<(촀\0Jawoll, 
 \0das war's im
 Groben! 
 \0Jetzt weißt du Bescheid
@@ -378,7 +379,7 @@ Kulissenwechsel und dann \0\0￿,
 dann könnt ihr euch einkleiden."
 "132","(
 촀\0Und daaasn\0\0 
-\0((촀\0Jau, 
+\0<(촀\0Jau, 
 \0das war's! 
 \0
 Erklärung zum Thema \0Klamotte
@@ -428,7 +429,7 @@ ablaufen soll, 
 noch mal über \0Komparsen\0￿ aus!"
 "143","(
 촀\0Alsooon\0\0 
-\0((촀\0Nee!
+\0<(촀\0Nee!
 \0 Das war's!
 \0
 Mehr Knipstipps hab ich leider

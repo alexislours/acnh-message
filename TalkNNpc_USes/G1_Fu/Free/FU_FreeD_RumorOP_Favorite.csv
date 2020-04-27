@@ -51,8 +51,7 @@ Porque yo sí sén\0\0\0\0()촀\0Dijo que le gusta hacer esto:
 "001_104_a","¡Ya lo sabía!"
 "001_104_b","(\0촀\0¡No me digas!"
 "001_105","(
-촀\0Descubrí algo muy curioso sobre s\0촀.\0\0(%촀\0Resulta que es 2.
-촀buenísimobuenísima\0 en esto:
+촀\0Descubrí algo muy curioso sobre s\0촀.\0\0(%촀\0Resulta que es 2.촀buenísimobuenísima\0 en esto:
 \0
 ""
 촀""."
@@ -71,8 +70,7 @@ Porque yo sí sén\0\0\0\0()촀\0Dijo que le gusta hacer esto:
 "010_04","(촀\0¿Tú sabías que a s\0촀 no le interesa ver películas?"
 "010_04_a","¡Ya lo sabía!"
 "010_04_b","(\0촀\0¡No me digas!"
-"010_05","He oído que s\0촀 ('촀\0no es de l2
-촀oa\0s que ven la tele."
+"010_05","He oído que s\0촀 ('촀\0no es de l2촀oa\0s que ven la tele."
 "010_05_a","¡Ya lo sabía!"
 "010_05_b","(\0촀\0¡No me digas!"
 "010_06","()촀\0Sé de buena fuente que a s\0촀 no le gusta el deporte."
@@ -101,8 +99,7 @@ de todo.
 촀\0Tendré que pedirle a cierta vecina
 que me enseñe a chismear."
 "021","(%촀\0Como lo oyes,
-\0 me lo dijo 2.
-촀él mismoella misma\0.\0\0(4촀\0Me gustó que s\0촀 compartiera algo personal conmigo."
+\0 me lo dijo 2.촀él mismoella misma\0.\0\0(4촀\0Me gustó que s\0촀 compartiera algo personal conmigo."
 "022","(촀\0Que conste que solo son rumores
 que se dicen por la isla.\0\0(%촀\0Quizá deberíamos preguntarle a
 s\0촀 directamente para salir de dudas."
@@ -154,19 +151,16 @@ que sospeche algo. 
 qué maln"
 "060_03","(촀\0No pasa nada,
 \0 si es tan fácil
-como preguntárselo a 2
-촀élella\0.\0\0(2촀\0Pero si lo sabías tú,
+como preguntárselo a 2촀élella\0.\0\0(2촀\0Pero si lo sabías tú,
 \0 me ahorraba
 algo de tiempo."
 "060_04","Es igual.
-\0 (2촀\0Había pensado en invitarl2
-촀oa\0
+\0 (2촀\0Había pensado en invitarl2촀oa\0
 a casa a ver una peli algún día,
 ¿sabes?\0\0(촀\0En fin,
 \0 será mejor preguntarle
 directamente qué le gusta cuando
-hable con 2
-촀élella\0."
+hable con 2촀élella\0."
 "060_05","(촀\0Bueno, da igual.
 \0 Pensé que si le
 gusta ver programas de cocina,
@@ -181,8 +175,7 @@ es más rápido y fiable."
 No,
 \0 ya, perdón,
 \0 solo estoy haciendo
-suposiciones.\0\0(촀\0Tendré que preguntarle a s\0촀 cuando l2
-촀oa\0 vea."
+suposiciones.\0\0(촀\0Tendré que preguntarle a s\0촀 cuando l2촀oa\0 vea."
 "060_08","(촀\0Bueno,
 \0 gracias de todas formas.\0\0(4촀\0Me gustaría cocinarle su platillo
 favorito el día de su cumple,
@@ -206,8 +199,7 @@ coincidamos por ahí."
 "102","(촀\0Qué fabuloso. 
 \0Además, seguro
 que se llevan fantástico.\0\0(4촀\0Espero que yo también pueda
-llegar a conocerl2
-촀oa\0 tan bien como tú."
+llegar a conocerl2촀oa\0 tan bien como tú."
 "110_01","(촀\0¡Lo sabía!
 \0( (촀\0Ah, entoncesn\0\0\0\0En cuanto a 촀, ¿a ti también te 2Jencantaencanta\0encantanencantan\0 2\0촀?"
 "110_01_a","¡Sí!"
@@ -244,7 +236,8 @@ bien 촀?"
 "110_101","(%촀\0Eso creían\0\0
 \0 (
 촀\0Si se entienden tan
-bien, seguro que comparten los
+bien,
+\0 seguro que comparten los
 mismos gustos.
 (촀\0Hablando de
 \0 촀,
@@ -315,11 +308,12 @@ entoncesn"
 ves programas en la televisión?"
 "120_05_a","('촀\0Pues no..."
 "120_05_b","(\0촀\0¡Yo sí veo la tele!"
-"120_06","Ya veo.
-\0 (
-촀\0¿Y qué me dices del deporte?
+"120_06","(
+촀\0Ya veo.
+\0 Y tú, ¿qué me dices?
 \0
-¿Tampoco eres muy aficionad2oa? "
+('촀\0¿Tampoco eres muy aficionad2oa
+al deporte?"
 "120_06_a","('촀\0La verdad es que no"
 "120_06_b","(\0촀\0Me encanta el deporte"
 "120_07","(촀\0Entonces tienen mucho en común.
@@ -369,11 +363,9 @@ tienen la posibilidad de que su
 amistad crezca!"
 "160","(4촀\0En ese caso,
 \0 quizá te interesaría
-saber algo sobre 2
-촀élella\0n"
-"170_01","()촀\02\02\0촀 2R\0favoritafavoritofavoritosfavoritas\0 de s\0촀 2&esesessonson\0 2\0촀.\0\0(촀\0Ahora ya tienes otro tema
-más para conversar con 2
-촀élella\0."
+saber algo sobre 2촀élella\0n"
+"170_01","()촀\02\02\0촀 2Rfavoritofavorita\0favoritosfavoritas\0 de s\0촀 2""eses\0sonson\0 2\0촀.\0\0(촀\0Ahora ya tienes otro tema
+más para conversar con 2촀élella\0."
 "170_02","()촀\0Descubrí que su 촀 favorita 2""eses\0sonson\0 2\0촀.\0\0(촀\0Si le pides eso la próxima vez que
 salgan por ahí,
 \0 seguro que se lleva
@@ -385,9 +377,8 @@ alguna ocasión."
 "170_04","()촀\0Oí que su pasatiempo favorito 2""eses\0sonson\0 촀.\0\0(촀\0Pregúntale y seguro que te hablará
 de eso con mucho entusiasmo, n\0."
 "170_05","(촀\0¡Se le 2""dada\0dandan\0 de maravilla 촀!\0\0(""촀\0Deberías pedirle que te haga una demostración algún día."
-"170_101","()촀\0Sobre 2,susususussussus 촀 2bfavoritofavoritafavoritofavoritosfavoritas\0 dijo: ""
-촀"".\0\0(촀\0Ahora ya l2
-촀oa\0 conoces un poquitín
+"170_101","()촀\0Sobre 2,susususussussus 촀 2bfavoritofavoritafavoritofavoritosfavoritas\0 dijo: ""⁠
+촀"".\0\0(촀\0Ahora ya l2촀oa\0 conoces un poquitín
 más."
 "170_102","()촀\0Sobre su 촀 favorita, dijo que lo que más le gusta es esto:
 \0
@@ -429,13 +420,11 @@ preciosas que se va a perdern\0\0
 yo como una cuentacuentos!"
 "180_03","('촀\0No le gustan nada los cómics,
 \0
-así que (촀\0no l2
-촀oa\0 invites a convenciones
+así que (촀\0no l2촀oa\0 invites a convenciones
 y esas cosas."
 "180_04","(촀\0Por raro que parezca,
 \0 no le gusta ver
-películas.\0\0Así que si pensabas invitarl2
-촀oa\0 al cine
+películas.\0\0Así que si pensabas invitarl2촀oa\0 al cine
 algún día,
 \0('촀\0 olvídalo."
 "180_05","()촀\0Dicen los rumores que no le gusta
@@ -478,6 +467,5 @@ libre, digo yo!"
 que se le dé bien.
 \0(촀\0 ¡Pero yo no creo
 que sea así!
-(촀\0Sabe perfecto cómo ser 24
-촀buen amigobuena amiga\0
+(촀\0Sabe perfecto cómo ser 24촀buen amigobuena amiga\0
 y alegrarme el día."

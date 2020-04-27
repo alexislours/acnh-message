@@ -97,7 +97,7 @@ une corne, ça fera l'affaire!"
 "021_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","(촀\0Toi qu'as du temps libre,
@@ -113,7 +113,7 @@ lequel en faitn\0\0
 "022_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","(촀\0Toi, t'es 2
@@ -133,7 +133,7 @@ trop regardant."
 "023_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","(&촀\0Bon, on dit dans le milieu que
@@ -149,7 +149,7 @@ apporter un? 
 "025_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(6촀\0J'ai deux questions : ton insecte
@@ -167,7 +167,7 @@ une libellule de près."
 "026_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "027","( 촀\0T'as déjà vu un insecte se poser
@@ -184,7 +184,7 @@ Un insecte qui se pose sur les fleurs,
 "027_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","(
@@ -203,7 +203,7 @@ amateur de souches d'arbre?
 "028_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","(&촀\0Paraît que t'aimes taquiner
@@ -221,7 +221,7 @@ En rivière, j'entends."
 "031_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","(&촀\0Dans le milieu, on raconte que
@@ -237,7 +237,7 @@ rapporter un poisson d'eau de mer?
 "032_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(촀\0T'aimes bien attraper les insectes,
@@ -251,9 +251,9 @@ C'était ça, ma proposition."
 (\0촁\0Pourquoi pas?"
 "101_b","(\0촁\0Maintenant? Hum...
 Pardon, mais non."
-"102","(&촀\0T'as déjà chassé l2촀ea\0 terrible
+"102","(&촀\0T'as déjà chassé l2촀ea\0 terrible
 }촀?\0\0(
-촀\0On prétend qu'2촀ilelle\0 est pas si
+촀\0On prétend qu'2촀ilelle\0 est pas si
 terrible que çan\0\0(촀\0 Tu veux pas
 essayer d'en avoir le cœur net?"
 "102_a","(\0촁\0Et comment!
@@ -293,9 +293,9 @@ C'était ça, ma proposition."
 (\0촁\0Pourquoi pas?"
 "201_b","(\0촁\0Maintenant? Hum...
 Pardon, mais non."
-"202","(&촀\0T'as déjà pêché l2촀ea\0 terrible
+"202","(&촀\0T'as déjà pêché l2촀ea\0 terrible
 }촀?\0\0(
-촀\0On prétend qu'2촀ilelle\0 est pas si
+촀\0On prétend qu'2촀ilelle\0 est pas si
 terrible que çan\0\0(촀\0 Tu veux pas
 essayer d'en avoir le cœur net?"
 "202_a","(\0촁\0Et comment!

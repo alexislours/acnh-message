@@ -10,6 +10,11 @@ forma fisica ancora superiore!
 \0(%촀\0Chiamerò il \0centro
 servizi\0￿ per tonificare le cose come
 si deve, n\0."
+"003","(촀\0Davvero mi vuoi ancora come
+compagno di allenamento?\0\0(5촀\0OK, la tua tenacia merita di essere
+ricompensata!\0\0(촀\0Mi precipito al \0centro servizi\0￿ per
+vedere se posso trasferire subito
+me e i miei bicipiti qui, n\0."
 "101","<"
 "101_01","( 촀\0Come, 
 \0vivere qui? 
@@ -128,14 +133,24 @@ divertit2oa come me, n\0!"
 dei vincitori, n\0?"
 "206","<"
 "206_01","(9촀\0E va bene, n\0.
-\0 Riconosco la sconfitta, getto la spugna.\0\0(5촀\0Se proprio vuoi che un super fusto come me viva 2\0 n""\0,
-\0 così sia, n\0!"
+\0 Riconosco la sconfitta, getto la spugna.\0\0(5촀\0Se proprio vuoi che un super fusto come me, 
+\0n
+\0,
+\0 viva 2\0 n""\0,
+\0 così sia!\0\0(촀\0Ehmn\0\0 forse.
+\0 Devo prima controllare
+con il \0centro servizi\0￿ che la cosa sia
+fattibile, n\0."
 "206_02","()촀\0Io sono uno sportivo e riconosco la sconfitta. 
 \0Tu sei n\0?
-\0( ($촀\0Bel nome, n\0!\0\0(6촀\0Immagino che dovrò trasferirmi qui!
-\0(
-(5촀\0Sono 2\0n\0 di parola,
-n\0."
+\0( ($촀\0Bel nome, n\0!\0\0(6촀\0Immagino che vivrò qui stabilmente.
+\0
+Beh, dopo che avrò messo le cose
+in chiaro con il \0centro servizi\0￿n\0\0
+(5촀\0Dopotutto io, 
+\0n
+\0,
+\0 sono 2\0n\0 di parola."
 "206_03","(촀\0Complimenti per la tua vittoria!
 \0 Ma io
 sono abituato ad affrontare le sfide
@@ -143,9 +158,13 @@ e,
 \0 per tutti i deltoidi,
 \0 a vincerlen\0\0
 (8촀\0Oh, ehmn\0\0
-\0 Com'è che ti chiami? Se non sbaglio n\0.
-\0 Piacere, n\0.\0\0(5촀\0La prossima sfida da vincere mi
-attende qui, n\0."
+\0 Com'è che ti chiami? 
+\0Era n\0, se non sbaglio, 
+\0vero? 
+\0Beh, piacere!\0\0(5촀\0Andrò a chiedere al \0centro servizi \0￿di aggiungere me, 
+\0n
+\0, 
+\0alla lista dei tuoi sfidanti."
 "302","(촀\0Brutte notizie.
 \0 Ho contattato il
 \0centro servizi\0￿ della tua isola e dicono
@@ -194,13 +213,13 @@ dovrei parlare?"
 \0Non appena mi ha visto avvicinarmi,
 \0 s촀 ha fatto subito i bagagli.
 \0 Evviva! \0\0()촀\0Non ho fatto quasi in tempo a
-spiegar2촀glile\0 la situazione o mostrar2촀glile\0 un po' i muscoli.
+spiegar2촀glile\0 la situazione o mostrar2촀glile\0 un po' i muscoli.
 \0 Problema risolto!
-(촀\0Mi è sembrat2촀oa\0 gentile, 
+(촀\0Mi è sembrat2촀oa\0 gentile, 
 \0anche se
-un po' nervos2촀oa\0. 
+un po' nervos2촀oa\0. 
 \0(
-촀\0Un po' stressat2촀oa\0,
+촀\0Un po' stressat2촀oa\0,
 forse, n\0n\0\0
 (%촀\0A proposito, com'è che ti chiami?
 \0 Se non sbaglio sei n\0, vero?
@@ -218,27 +237,24 @@ parlare, n\0?"
 \0se la pensi così, allora
 dimentichiamo pure la mia proposta,
 n\0."
-"402","(9촀\0Sono andato al \0centro servizi \0￿a
-controllaren\0\0('촀\0 Mi hanno detto che
-dovrò rinunciarci.
-(촀\0Hanno parlato di una certa ordinanza
-sul limite muscolare che non poteva
-essere infranta o roba del generen\0\0
-(촀\0Non ho capito esattamente di cosa
-parlasseron\0\0 
-\0(#촀\0Beh, 
-\0comunque grazie
-dell'invito, n\0."
-"403","(촀\0Al \0centro servizi \0￿hanno rifiutato
-la mia domanda di trasferimenton\0\0\0\0(촀\0Mi hanno detto che c'è già qualcuno
-identico a me pronto a traslocare su
-quest'isola, n\0!
-(8촀\0Per tutti i deltoidi,
-\0 che abbia un
-gemello?
-\0 E magari forzutissimo
-come me?
-\0('촀\0 No, dain\0\0 è impossibile!"
+"313","(촀\0
+\0Bene, 
+\0diamoci dentro allora!
+\0 Senti
+qua che ideona: 
+\0(%촀\0e se io sostituissi
+s촀?\0\0()촀\0Il \0centro servizi\0￿ mi ha dato il nome,
+
+\0quindi ho pensato di prendere due
+manubri con una fava.\0\0(&촀\0Che dici, 2촀glile\0 chiedo se è dispost2촀oa\0
+a lasciarmi il suo posto?"
+"313_a","Sì!"
+"313_b","Per favore, no."
+"314","(촀\0Oh, di colpo mi ritrovo fuori gioco.
+
+\0OK, capisco. 
+\0Vorrà dire che sarà per
+la prossima volta, n\0."
 "404","('촀\0Ho chiamato il \0centro servizi \0￿e mi
 hanno detto che sull'isola non c'è
 più spazio per nessun altro.
@@ -247,16 +263,6 @@ più spazio per nessun altro.
 che mi ritrovo, 
 \0rischierei di togliere
 spazio a chi vive già quin"
-"405","(촀\0Ho chiesto al \0centro servizi \0￿e mi
-hanno detto di no:
-\0 non c'è più
-spazio per altre casen\0\0
-('촀\0Pensa, 
-\0pare non ci sia posto
-nemmeno per una palestra!\0\0(
-촀\0Per tutti i deltoidi, 
-\0ma è una cosa
-dell'altro mondo!"
 "406","(촀\0Alla fine il \0centro servizi\0￿ mi ha
 risposton\0\0 (촀\0Saremo vicini di casa,
 n\0!
@@ -266,8 +272,8 @@ e vedrain\0\0
 (5촀\0Io ci convivo già da anni e mi
 stupiscono ancora ogni giorno.\0\0(%촀\0A proposito, 
 \0com'è che ti chiami?
-\0 Se non sbaglio, n\0?
-\0( (촀\0A dopo, n\0!"
+\0 Era n\0, no?
+\0( (촀\0A dopo!"
 "410","(%촀\0Però sai, 
 \0sto pensando di chiamare
 di nuovo il \0centro servizi \0￿per
@@ -284,23 +290,6 @@ lo avrebbero già detto.
 (촀\0E poi non voglio rovinare l'ottima
 reputazione dei miei muscoli dando
 fastidio, n\0."
-"421","()촀\0Pare che sull'isola ci sia già qualcuno
-identico a me. 
-\0(%촀\0Sarebbe mitico avere
-due me che vivono qui, 
-\0lo son\0\0
-('촀\0Ma poi correremmo il rischio di far
-affondare l'isola sotto il peso dei
-nostri muscoli colossali!"
-"422","(촀\0La mia domanda di trasloco è stata
-rifiutata, purtroppo. 
-\0Mi ha anticipato
-qualcuno muscoloso come me.
-(%촀\0Per tutti i deltoidi, 
-\0mi piacerebbe
-proprio incontrarlon\0\0 Sarebbe mitico
-allenarsi insieme!
-\0 (촀\0Beh, pazienza."
 "423","(%촀\0Mi hanno detto che sulla tua isola
 non accettano altri abitantin\0\0 Non
 pensavo fosse tanto famosa!\0\0(촀\0Comunque non mi stupisce che
@@ -308,12 +297,6 @@ abbiano rifiutato la mia domandan\0\0\0\0(5촀\0Con tutte le calorie che br
 giorno, 
 \0l'isola stessa potrebbe anche
 andare a fuoco, n\0!"
-"424","(%촀\0Pare che sull'isola non ci sia più
-posto nemmeno per una testa di
-spillo,
-\0 figuriamoci per i miei bicipiti!
-(""촀\0Comunque, fammi un fischio se si
-libera un po' di spazio, n\0!"
 "504","(촀\0Da quando sono qui ho stracciato
 tutti i miei record. 
 \0Ogni sessione è

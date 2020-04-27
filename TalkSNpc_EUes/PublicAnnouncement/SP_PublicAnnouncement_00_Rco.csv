@@ -21,7 +21,7 @@ Es laSon las Z\0:Z\0 del n\0,
 aquellos que se van a dormir tarde.d"
 "003","d\0(촀\0¡Hola, residentes!
 \0 ¡Quiero desearos
-a todos un feliz Año Nuevo!\0\02.Son las
+a todos un feliz año nuevo!\0\02.Son las
 Es laSon las Z\0:Z\0 del n\0,
 Z\0 de Z\0 de Z\0.d"
 "004","d\0(촀\0¡Hola, residentes!
@@ -76,22 +76,31 @@ sí, sí!d"
 "021","d\0(9촀\0(촃\0Y ahora las noticias del dían\0\0d"
 "022","d\0(9촂\0(촃\0Sigamos con las noticiasn\0\0d"
 "031","d\0Y ademásn\0\0d"
+"041_01","d\0(촀\0¡Pronto celebraremos el día
+de la \0Caza del Huevo\0￿!\0\0(%촀\0Lo que significa que pronto
+también empezarán a cambiar
+las temperaturas, sí, sí.
+(1촀\0Qué rápido pasa el tiempon\0\0d"
+"041_02","d\0(촀\0¡Hoy es la \0Caza del Huevo\0￿!\0\0(촀\0Además ha venido alguien muy
+especial a celebrarlo con nosotros.
+\0
+(""촀\0Pasaos por la plaza a saludarlo, ¿sí?d"
 "101","d\0(촀\0¡Acaba de instalarse en la isla
-2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
+2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
 s촀!d"
 "102","<"
-"102_01","d\0(%촀\0Espero que todos l2촀oa\0 ayudéis a
+"102_01","d\0(%촀\0Espero que todos l2촀oa\0 ayudéis a
 adaptarse a la vida en n\0.d"
 "102_02","d\0(촀\0Ya verás como todo el mundo te
 recibe con los brazos abiertos.d"
-"102_03","d\0(%촀\0Hoy estará ocupad2촀oa\0 con la mudanza,
+"102_03","d\0(%촀\0Hoy estará ocupad2촀oa\0 con la mudanza,
 pero id a presentaros cuando tengáis
 ocasión.d"
 "200","d\0La siguiente noticia de hoy es
 algo amargan\0\0d"
 "201","d\0(촀\0Con mucha tristeza os comunico que
 s촀 se irá mañana de la isla.\0\0Aprovechad el día de hoy para
-despediros de 2촀élella\0, ¿sí?d"
+despediros de 2촀élella\0, ¿sí?d"
 "600","<"
 "600_01","d\0(촀\0Ah, y una cosa que os quería
 comentarn\0\0d"
@@ -109,14 +118,14 @@ no os dejéis nada por hacer.
 el año con ánimo y alegría, sí, sí!d"
 "602","d\0(\0촀\0Según el informe meteorológico,
 \0
-(촀\0¡esta noche podremos ver una\0 lluvia
-de estrellas\0￿ en la isla!
-d\0(1촀\0dSerá impresionante ver como surcan
+(촀\0¡esta noche podremos ver una
+\0lluvia de estrellas\0￿ en la isla!
+(1촀\0Será impresionante ver como surcan
 los cielosn\0\0
 \0 (촀\0¡La de deseos que voy
 a pedir,
 \0 sí, sí!
-d\0(촀\0dEspero que todos os animéis a salir
+(촀\0Espero que todos os animéis a salir
 de casa para ver el espectáculo.d"
 "603","d\0(촀\0Ahora mismo,
 \0 si salís al exterior,
@@ -216,12 +225,12 @@ digno de ver!\0\0(%촀\0Si aún no lo habéis probado,
 a la calle con una \0red\0￿ e intentad
 atrapar unos pocos.d"
 "614_02_01","d\0(촀\0¡Ah!d"
-"614_02_02","d\0(촀\0He enviado la receta de la \0placa
+"614_02_02","d\0(촀\0He enviado el proyecto de la \0placa
 copo de nieve \0￿para todos los que
-disfrutáis de \0Creaciones\0￿.\0\0(%촀\0Es tan sencilla que solo necesitáis
-\0copos de nieve\0￿ para llevarla a cabo.
+disfrutáis de \0Creaciones\0￿.\0\0(%촀\0Es tan sencillo que solo necesitáis
+\0copos de nieve\0￿ para llevarlo a cabo.
 \0
-(촀\0¡Que la disfrutéis, sí, sí!d"
+(촀\0¡Que lo disfrutéis, sí, sí!d"
 "614_03","d\0(%촀\0Mi alma de mapache se emociona
 con solo imaginarme qué proyectos
 crearéis con los \0copos de nieve\0￿n\0\0d"
@@ -271,18 +280,18 @@ de una comida casera al aire libre!d"
 \0 ¡y usadlos para primaverales
 \0proyectos de bricolaje\0￿!d"
 "618_01","d\0(1촀\0En mi paseo matutino me he fijado
-en el bambún\0\0\0\0(&촀\0¿Sabíais que el fresco, que es
-conocido como \0tallo de bambú\0￿,
+en el bambún\0\0\0\0(&촀\0¿Sabíais que el más fresco, conocido
+como \0tallo de bambú primaveral\0￿,
 \0
 se recoge en esta época del año?d"
 "618_02_01","d\0(촀\0¡Ah!d"
-"618_02_02","d\0(%촀\0Os he enviado a \0Creaciones\0￿ el
-proyecto del \0canal de bambú para
-fideos\0￿. 
-(촀\0Se hace con \0tallos de bambú\0￿,
-\0
-¡así que aprovechad ahora que
-es la época, sí, sí!d"
+"618_02_02","d\0(%촀\0Os he enviado a \0Creaciones\0￿
+el proyecto del \0canal de bambú
+para fideos\0￿. 
+(촀\0Se hace con \0tallos de bambú
+primaveral\0￿,
+\0 ¡así que aprovechad
+ahora que es la época, sí, sí!d"
 "618_03","d\0(%촀\0¡No dejéis pasar la oportunidad
 de elaborar \0proyectos de bricolaje
 \0￿propios de esta época del año!d"
@@ -298,10 +307,8 @@ la \0foto \0￿si visitáis otras islas.
 personas y es una buena forma de
 romper el hielo!d"
 "702_02","d\0(&촀\0¿Habéis estado usando la \0terminal
-Nook\0￿ de la oficina de gestión?\0\0()촀\0Podéis ganar millas extras por
-el simple hecho de usarla cada
-día.
-d\0(촀\0d¡Cuantos más días la uséis,
+Nook\0￿ de la \0oficina de gestión\0￿?\0\0()촀\0Podéis ganar millas extras por el
+simple hecho de usarla cada día.\0\0(촀\0¡Cuantos más días la uséis,
 más millas recibiréis, sí, sí!d"
 "702_03","d\0(&촀\0¿Habéis admirado ya el maravilloso
 paisaje que ofrece nuestra isla
@@ -313,7 +320,7 @@ y disfrutar de las vistas!d"
 "702_04","d\0(&촀\0¿Estáis haciendo buen uso
 del \0depósito de reciclaje \0￿disponible
 en la \0oficina de gestión vecinal\0￿?
-()촀\0Aquí pueden dejarse los objetos que
+()촀\0Aquí van a parar los objetos que
 nuestros residentes ya no necesiten
 para que alguien más los aproveche.
 (%촀\0¡Esta puede ser una búsqueda de
@@ -324,7 +331,7 @@ sí, sí!d"
 artículos que podéis conseguir con
 el \0servicio de canje de millas\0￿.d"
 "704","<"
-"704_01","d\0(\0촀\0Hoy voy a hablarosn\0\0
+"704_01","d\0(\0촀\0Voy a hablarosn\0\0
 \0
 (촀\0¡de \0Mis diseños profesionales\0￿!\0\0(%촀\0Es una actualización de la aplicación
 \0Mis diseños\0￿.(촀\0\0\0()촀\0Permite editar la paleta de colores
@@ -337,15 +344,15 @@ profesionales, peron\0\0
 ¡esta actualización es indispensable,
 \0
 sí, sí!d"
-"704_02","d\0(\0촀\0¡Hoy quiero hablaros de las
-(촀\0\0Herramientas apañadas\0￿!\0\0()촀\0Como su propio nombre indica,
+"704_02","d\0(\0촀\0¡Voy a hablaros de
+las (촀\0\0Herramientas apañadas\0￿!\0\0()촀\0Como su propio nombre indica,
 son proyectos de herramientas que
 no se rompen con tanta facilidad.
 (%촀\0Si tenéis pensado reforzar alguna
 herramienta blandurria,
 \0(촀\0 ¡quizá
 queráis canjear unas millas por esto!d"
-"704_03","d\0(\0촀\0Hoy quiero hablaros de la guían\0\0
+"704_03","d\0(\0촀\0Voy a hablaros de la guían\0\0
 \0
 (촀\0¡\0Organiza tus herramientas\0￿!\0\0(&촀\0¿Estáis ya tan acostumbrados
 a la vida en una isla que lleváis
@@ -360,7 +367,7 @@ mucho más práctica!\0\0(촀\0Es ideal para quien quiera acceder
 rápidamente a sus herramientas
 más apreciadas,
 \0 sí, sí.d"
-"704_04","d\0(\0촀\0Hoy voy a contaros cosas de
+"704_04","d\0(\0촀\0Voy a contaros cosas de
 la guía
 \0 (촀\0\0Organiza tus bolsillos\0￿.\0\0(\0촀\0Vivas en una isla o no, al final acabas
 acumulando un montón de cosasn\0\0\0\0(%촀\0Así que, si tenéis tantos trastos
@@ -369,8 +376,7 @@ que no sabéis dónde meterlos,
 (촀\0¡estáis de suerte!\0\0()촀\0Cuando dominéis todos los truquitos
 de esta guía,
 \0 (촀\0¡ya veréis cómo
-os cunden los bolsillos!
-\0
+os cunden los bolsillos!
 (%촀\0Espero que os sirva para que
 disfrutéis de este paraíso lo más
 organizadamente posible.d"

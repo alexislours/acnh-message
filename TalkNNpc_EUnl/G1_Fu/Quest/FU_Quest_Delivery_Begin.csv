@@ -10,7 +10,7 @@ niet over durf te praten met 2hemhaar."
 komt niet goed uit.
 (4촀\0Kun jij het teruggeven voor ik het
 alweer vergeet?"
-"002_a","Geen probleem."
+"002_a","(\0촀\0Geen probleem."
 "002_b","Sorry, dat gaat niet."
 "003","( 촀\0Zou je me ergens mee kunnen
 helpen, n\0?\0\0()촀\0Er is een pakketje bij mij bezorgd dat
@@ -18,7 +18,7 @@ eigenlijk voor s촀 is. (촀\0Gelukkig heb ik het niet geopend.\0\0(9�
 jij het voor mij naar 2hemhaar kunnen
 brengen? Ik heb helaas geen tijdn"
 "003_a","Prima, geen probleem."
-"003_b","(\0촀\0Ik heb ook geen tijd."
+"003_b","Ik heb ook geen tijd."
 "004","(촀\0Echt waar? Dat zou je voor mij doen?
 (촀\0Hier is het! En heel erg bedankt!"
 "005","(촀\0Bedankt, (\0촀\0het is fijn dat ik me daar
@@ -38,7 +38,7 @@ mijn"
 "101","(;촀\0Kun je me ergens mee helpen?\0\0()촀\0s촀 helpt me altijd overal mee, dus heb ik een cadeau voor 2hemhaar gekochtn\0\0\0\0(촀\0Maar nu durf ik niet zomaar met een
 cadeau naar 2hemhaar toe te gaan.\0\0(4촀\0Dus ik vroeg me af, zou jij het voor
 mij aan 2hemhaar kunnen geven?"
-"101_a","Geen probleem."
+"101_a","(\0촀\0Geen probleem."
 "101_b","(\0촀\0Probeer het nou maar zelf."
 "102","(4촀\02\0n\0, ik moet je om
 een gunst vragen.\0\0(촀\0Misschien weet je het al, maar (촀\0ik heb

@@ -56,7 +56,7 @@ Je le sais déjà."
 "001_103","(:촀\0Les colporteurs de rumeurs
 ne m'inspirent que du dégoût.\0\0Tu savais ce 2
 que qu'⁠s\0촀 voulait faire, plus tard ? « ⁠2\0
-촀 » !"
+촀 ⁠» !"
 "001_103_a","Oui, je confirme.
 Oui, je le savais."
 "001_103_b","(\0촀\0Vraiment ?
@@ -64,7 +64,7 @@ Oui, je le savais."
 "001_104","(:촀\0Les colporteurs de rumeurs
 ne m'inspirent que du dégoût.\0\0Et sinon, tu savais ce 2
 que qu'⁠s\0촀 adorait ? « ⁠2\0
-촀 » !"
+촀 ⁠» !"
 "001_104_a","Oui, je confirme.
 Oui, je le savais."
 "001_104_b","(\0촀\0Vraiment ?
@@ -72,7 +72,7 @@ Oui, je le savais."
 "001_105","(:촀\0Les colporteurs de rumeurs
 ne m'inspirent que du dégoût.\0\0Et sinon, t'étais au courant 2
 que qu'⁠s\0촀 est au top, niveau « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "001_105_a","Oui, je confirme.
 Oui, je le savais."
 "001_105_b","(\0촀\0Vraiment ?
@@ -217,8 +217,7 @@ toi-même, n\0 !"
 demande-lui toi-même, n\0."
 "060_03","(촀\0Ah, j'aurais pourtant parié que tu
 étais au parfum !\0\0(
-촀\0(%촀\02\0s\0촀 étant 2d
-촀(un sacré farceur, il2une sacrée farceuse, elle\0 doit aimer les bédés d'humour.\0\0('촀\0Cela dit, je ne mettrais pas ma main
+촀\0(%촀\02\0s\0촀 étant 2d촀(un sacré farceur, il2une sacrée farceuse, elle\0 doit aimer les bédés d'humour.\0\0('촀\0Cela dit, je ne mettrais pas ma main
 à couper.
 \0( (6촀\0Si tu veux être sûr2\0e,
 demande-lui toi-même, n\0."
@@ -298,7 +297,7 @@ point commun, s\0촀 et toi, n\0."
 "110_01_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_01_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_02","(촀\0Ah oui ? 
 \0Alors je parie que tu
 adores 2\0촀 toi aussi, n\0 !\0\0(6촀\0C'est bien que vous ayez la même
@@ -306,7 +305,7 @@ adores 2\0촀 toi aussi, n\0 !\0\0(6촀\0C'est bien que vous ayez l
 "110_02_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_02_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_03","(촀\0Ah oui ? Tu sais donc 2
 que qu'⁠s\0촀 veut devenir 촀 ?\0\0(6촀\0Et toi alors, convoites-tu la même
 carrière, n\0 ?"
@@ -322,7 +321,7 @@ même passe-temps, s\0촀 et toi."
 "110_04_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_04_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_05","(촀\0Ah oui ? 
 \0Alors toi aussi, tu es doué2\0e
 pour 촀 ?\0\0(6촀\0C'est chouette que vous ayez le
@@ -330,27 +329,27 @@ même talent, s\0촀 et toi."
 "110_05_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_05_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_101","(촀\0Ah oui ? 
 \0Et donc, toi aussi tu n'as
 qu'un mot en tête : « ⁠
-촀 » ?\0\0(6촀\0C'est chouette que vous ayez ça en
+촀 ⁠» ?\0\0(6촀\0C'est chouette que vous ayez ça en
 commun, s\0촀 et toi, n\0."
 "110_101_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_101_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_102","(촀\0Ah oui ? 
 \0Alors laisse-moi deviner en
 un mot ta 촀 préférée : « ⁠
-촀 » !\0\0(6촀\0C'est bien que vous ayez ce point
+촀 ⁠» !\0\0(6촀\0C'est bien que vous ayez ce point
 commun, s\0촀 et toi."
 "110_102_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_102_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_103","(촀\0Ah oui ? Tu sais donc 2
-que qu'⁠s\0촀 veut devenir « ⁠촀 » ?\0\0(6촀\0Et toi alors, convoites-tu la même
+que qu'⁠s\0촀 veut devenir « ⁠촀 ⁠» ?\0\0(6촀\0Et toi alors, convoites-tu la même
 carrière, n\0 ?"
 "110_103_a","Absolument !
 Oui, évidemment !"
@@ -365,7 +364,7 @@ ce même passe-temps, s\0촀 et toi."
 "110_104_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_104_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "110_105","(촀\0Ah oui ? 
 \0Toi aussi, tu es doué2\0e pour
 « ⁠
@@ -374,7 +373,7 @@ même talent, s\0촀 et toi."
 "110_105_a","Oui, c'est chouette !
 C'est bien vrai !"
 "110_105_b","En fait, non...
-Tu te trompes !"
+(\0촀\0Tu te trompes !"
 "120_01","(촀\0Ah bon ?
 \0 Dois-je supposer que tu
 n'éprouves, toi aussi, que très peu
@@ -401,7 +400,7 @@ les bédés ne sont pas ta tasse de thé, à toi non plus ?\0\0(%촀\0Enfin,
 \0((6촀\0
 Moi, je lis surtout les adaptations
 de mes films !"
-"120_03_a","Les bédés ? Laisse tomber.
+"120_03_a","(\0촀\0Les bédés ? Laisse tomber.
 Oui, j'aime pas les bédés."
 "120_03_b","(\0촀\0Mais j'adore les bédés !
 (\0촀\0Mais si, j'aime les bédés !"
@@ -411,7 +410,7 @@ aussi fâché2\0e avec le septième art ?\0\0('촀\0J'ai beau essayer, j
 pasn\0\0
 \0((6촀\0 Pour moi, le cinéma, c'est
 complètement indispensable !"
-"120_04_a","Effectivement, j'aime pas.
+"120_04_a","(\0촀\0Effectivement, j'aime pas.
 J'aime pas le cinéma."
 "120_04_b","(\0촀\0Mais j'adore le cinéma !
 (\0촀\0Arrête, j'aime le cinéma !"
@@ -421,7 +420,7 @@ aussi en froid avec la télé ?\0\0('촀\0J'ai beau essayer, je ne comprends
 pasn\0\0
 \0((6촀\0 Pour moi, passer sa vie à ne
 pas regarder une série, c'est la rater."
-"120_05_a","J'aime pas les séries, moi.
+"120_05_a","(\0촀\0J'aime pas les séries, moi.
 J'aime vraiment pas ça."
 "120_05_b","(\0촀\0Mais j'adore les séries !
 (\0촀\0Si, j'aime les séries !"
@@ -432,7 +431,7 @@ tu ne fais pas de sport ?\0\0(&촀\0Même pas un peu de 촀 ?
 \0 C'était juste pour t'embêter.\0\0
 \0(('촀\0Ça ne m'intéresse pas non plus,
 2\0촀, n\0."
-"120_06_a","Le sport, c'est la mort.
+"120_06_a","(\0촀\0Le sport, c'est la mort.
 J'aime vraiment pas ça."
 "120_06_b","(\0촀\0Mais si, j'aime le sport !
 (\0촀\0Mais j'adore le sport !"
@@ -442,7 +441,7 @@ tu n'aimes rien boire de particulier ?
 (&촀\0Même pas 2\0촀 ?\0\0(촀\0Ha HA !
 \0( Je te taquine. Moi non plus,
 je n'aime pas 2\0촀, n\0."
-"120_07_a","Oui, j'ai pas de préférence.
+"120_07_a","(\0촀\0Oui, j'ai pas de préférence.
 Tant que j'ai à boire..."
 "120_07_b","(\0촀\0Tu te trompes !
 (\0촀\0J'ai une boisson préférée !"
@@ -453,7 +452,7 @@ tu n'as pas de plat préféré ?
 \0 Je te charrie ! 
 \0(('촀\0Pour être
 franc, 2\0촀 me révulse."
-"120_08_a","Je mange juste pour vivre.
+"120_08_a","(\0촀\0Je mange juste pour vivre.
 C'est de la nourriture, quoi."
 "120_08_b","(\0촀\0Si, j'ai un plat préféré !
 (\0촀\0J'ai un plat préféré !"
@@ -528,54 +527,47 @@ bonnes bases !"
 "170_04","(촀\02\0s\0촀 a une passion : 촀 !\0\0(&촀\0Est-ce que tu y connais quelque
 chose ?
 \0(촀\0 Bah,
-\0 on s'en fiche, en fait.\0\0Tu n'as qu'à 2
-촀lela\0 lancer sur le sujet,
+\0 on s'en fiche, en fait.\0\0Tu n'as qu'à 2촀lela\0 lancer sur le sujet,
 \0
 et après tu ne pourras plus en placer
 une pendant une bonne heure."
-"170_05","(&촀\0Est-ce que tu as un talent particulier ? \0\0(촀\02\0s\0촀 est très doué2
-촀\0e\0 pour 촀, vois-tu !\0\0(촀\0Tu sais donc comment briser la
+"170_05","(&촀\0Est-ce que tu as un talent particulier ? \0\0(촀\02\0s\0촀 est très doué2촀\0e\0 pour 촀, vois-tu !\0\0(촀\0Tu sais donc comment briser la
 glace.
 \0 Ne me remercie surtout pas."
 "170_101","(촀\02\0s\0촀 n'a qu'un mot à la bouche : « ⁠
-촀 » !\0\0(1촀\0Donc si tu veux entamer une
+촀 ⁠» !\0\0(1촀\0Donc si tu veux entamer une
 conversation durable,
 \0 voire un
 monologue interminablen\0\0
 (촀\0Je te recommande de lui en toucher
 deux mots !"
-"170_102","(촀\0Si jamais tu es en peine à trouver
-un sujet de conversation, 
-\0ce qui
-m'est tout à fait inconcevablen\0\0
+"170_102","(촀\0Si jamais tu peines à trouver un sujet
+de conversation, 
+\0ce qui serait tout à
+fait inconcevable pour moin\0\0
 ()촀\0Sache 2
 que qu'⁠s\0촀 adore « ⁠
-촀 », à
-un point obsessionnel !"
+촀 ⁠», à un point obsessionnel !"
 "170_103","(촀\02\0s\0촀 rêve de devenir « ⁠
-촀 » !\0\0(1촀\0Et j'ai comme cette intuition que
+촀 ⁠» !\0\0(1촀\0Et j'ai comme cette intuition que
 tu aspires à faire la même chose.\0\0(촀\0Alors oui, c'est sûrement un énorme
 mensonge, mais avec un peu de
 crédibilitén\0\0
 J'y vois là le début d'une longue,
 belle et saine amitié !"
 "170_104","(촀\02\0s\0촀 a une passion : « ⁠
-촀 » !\0\0(&촀\0Est-ce que tu y connais quelque
+촀 ⁠» !\0\0(&촀\0Est-ce que tu y connais quelque
 chose ?
 \0(촀\0 Bah,
-\0 on s'en fiche, en fait.\0\0Tu n'as qu'à 2
-촀lela\0 lancer sur le sujet,
+\0 on s'en fiche, en fait.\0\0Tu n'as qu'à 2촀lela\0 lancer sur le sujet,
 
 \0et après,
-\0 (%촀\02
-촀ilelle\0 fera la conversation
+\0 (%촀\02촀ilelle\0 fera la conversation
 tout2\0e seul2\0e !"
-"170_105","(&촀\0Est-ce que tu as un talent particulier ? \0\0()촀\02\0s\0촀 est très doué2
-촀\0e\0 pour 
+"170_105","(&촀\0Est-ce que tu as un talent particulier ? \0\0()촀\02\0s\0촀 est doué2촀\0e\0 pour
 « 
 촀 » !\0\0(촀\0Alors je te propose de te mesurer
-à 2
-촀luielle\0. 
+à 2촀luielle\0. 
 \0Quoi de mieux qu'une saine
 compétition pour briser la glace."
 "180_01","(9촀\02\0s\0촀 n'a aucun genre musical préféré, vois-tu.\0\0(촀\0Tu pourrais peut-être essayer de
@@ -586,8 +578,7 @@ c'est moins facile qu'il n'y paraîtn"
 que qu'⁠s\0촀 n'éprouve pas vraiment de passion pour la lecture.\0\0(1촀\0Pour y remédier, tu pourras lui parler
 du tome 1 de mon autobiographie, de
 ma naissance jusqu'à mes un ann"
-"180_03","(9촀\0Alorsn\0\0 Si s\0촀 a un type de bédés préféré, je ne suis pas au courant.\0\0(1촀\0Mais je suis sûr qu'2
-촀ilelle\0 adorerait
+"180_03","(9촀\0Alorsn\0\0 Si s\0촀 a un type de bédés préféré, je ne suis pas au courant.\0\0(1촀\0Mais je suis sûr qu'2촀ilelle\0 adorerait
 le roman graphique détaillant mon
 envol musical.
 Essaie de le lui glisser discrètement
@@ -598,30 +589,26 @@ dans la poche."
 biopic.\0\0Vous allez prendre une claque
 émotionnelle. 
 \0((촀\0Ha HA !"
-"180_05","(9촀\02\0s\0촀 a de particulier 2""
-촀
+"180_05","(9촀\02\0s\0촀 a de particulier 2""촀
 qu'ilqu'elle\0 reste de marbre face au petit écran.\0\0(5촀\0J'ai essayé de lui faire regarder
 la série « ⁠n
-\0 est génial ! »,
+\0 est génial ! ⁠»,
 \0(촀\0 mais rien n'y fait !"
 "180_06","(9촀\02\0s\0촀 ne fait pas vraiment de sport.\0\0(1촀\0Vous devriez essayer 2\0촀 ensemble.\0\0Alors je ne suis pas sûr que ce serait le début d'une longue amitié,
 
 \0((촀\0mais au moins, ça m'amuserait !"
 "180_07","(촀\0Tu n'as qu'à l'inviter à boire 2\0촀. (1촀\0Ou 2\0촁.\0\0(\0촀\0Peu importe, en fait.
-\0 2
-촀IlElle\0 n'a aucune
+\0 2촀IlElle\0 n'a aucune
 préférence en matière de boissons."
 "180_08","(1촀\0Mais comment pourriez-vous vous
 rencontrer ?(촀\0 Vous n'avez qu'à venir
 dîner chez moi !
-(5촀\0En plus, je fais 2촀unune\0 excellent2촀\0e\0 촀.\0\0Enfin, 2촀ilelle\0 est surtout excellent2촀\0e\0
+(5촀\0En plus, je fais 2촀unune\0 excellent2촀\0e\0 촀.\0\0Enfin, 2촀ilelle\0 est surtout excellent2촀\0e\0
 parce 2
 que qu'⁠(촀\0s\0촀 n'est vraiment pas difficile !"
 "180_09","()촀\0J'ai essayé de savoir ce 2
 que qu'⁠s\0촀 voulait faire plus tardn\0\0\0\0Mais pour le moment, on ne peut pas
-dire qu'2
-촀ilelle\0 transpire l'ambition.\0\0( 촀\0Enfin, de toute évidence, 2
-촀ilelle\0
+dire qu'2촀ilelle\0 transpire l'ambition.\0\0( 촀\0Enfin, de toute évidence, 2촀ilelle\0
 voudrait être moi,
 \0 (촀\0mais ça commence
 à me lasser, n\0.\0\0(촀\0Toi, tu as l'air d'avoir la gagne,

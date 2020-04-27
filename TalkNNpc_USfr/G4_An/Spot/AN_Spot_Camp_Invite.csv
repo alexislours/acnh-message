@@ -12,6 +12,14 @@ Hmm, n\0n\0\0\0\0(촀\0J'crois bien que ouais.
 étape,
 \0 tanner le \0bureau des résidents\0￿
 pour qu'on me laisse venir."
+"003","(6촀\0T'es pas du genre à lâcher l'morceau,
+toi. 
+\0(촀\0Mais OK, tu l'auras voulu,
+j'm'en viens!
+( 촀\0Enfin, le temps d'aller en toucher
+deux mots au \0bureau des résidents\0￿
+
+\0(촀\0et j'arrive, n\0!"
 "101","<"
 "101_01","(&촀\0Hein? 
 \0T'es sérieu2
@@ -134,32 +142,40 @@ bien amusée.\0\0(촀\0Compte sur moi pour conseiller
 le coin à mes amis d'ici et de là."
 "206","<"
 "206_01","(촀\0Très bien, 2MonsieurMiss J'ai-d'la-chance,
-tu viens d'gagner une toute
-nouvelle voisine.
-(촀\0J'm'appelle n
-\0.
-C'est quoi ton p'tit nom, déjà?
-\0(
-2\0n\0?\0\0(\0촀\0Eh ben c'est toi qui l'auras voulu, n\0(촀\0. Viens pas te plaindre si jamais j'te rends barjo!"
+tu viens d'gagner une toute nouvelle
+voisine.
+(9촀\0Enfin, presque. Faut d'abord que je
+règle deux, trois choses au \0bureau
+des résidents\0￿.\0\0(\0촀\0Et si tout se passe sans embrouille,
+(촀\0faudra pas venir te plaindre si jamais
+j'te rends folle!"
 "206_02","(촀\0J'dis pas ça souvent, mais chuis
-bien contente d'avoir perdu.\0\0()촀\0Tu t'appelles n\0,
-\0 c'est ça?
-\0( Moi c'est n
-\0.\0\0($촀\0J'compte sur toi pour me montrer les
-bons plans du coin, n\0!"
+bien contente d'avoir perdu.\0\0(
+촀\0Voyons voirn\0\0
+\0 J'ai sûrement une
+tonne de paperasse à signer,
+\0 alors je
+fonce au \0bureau des résidents\0￿n\0\0\0\0($촀\0Je reviens de suite, n\0!"
 "206_03","(촀\0J't'avoue que j'espérais bien que
 ça s'finisse comme ça.
 \0( J'ai hâte de
-voir ma nouvelle maison.\0\0Tu t'appelles n\0, c'est ça?
-\0(($촀\0 Chuis n
-\0.\0\0(촀\0Le temps de prévenir mes amis
-du village et j'reviens pour de bon!"
+voir ma nouvelle maison.\0\0(촀\0Si tu trouvais que cette île avait la
+classe,
+\0 laisse-moi te dire que t'as
+encore rien vu!
+\0((촀\0 Mouah ha ha!\0\0( 촀\0Euh, attends une seconde!
+\0 Faut
+sûrement que j'fasse des démarches
+officielles et tout et tout.\0\0(%촀\0OK, j'vais aller voir au \0bureau des
+résidents\0￿ vite fait,
+\0(3촀\0 doit y avoir moyen
+de s'arranger, n\0!"
 "302","(%촀\0J'viens d'avoir l'\0bureau des résidents\0￿
 2
 de d'⁠n	\0 au téléphone,
 etn\0\0('촀\0 en un mot, ça va pas marcher.
 (8촀\0Z'ont baragouiné un truc, du genre
-« y a plus d'place pour votre maison,
+« y'a plus d'place pour votre maison,
 allez bâtir ailleurs si on y est ».
 (촀\0Ils m'ont bien proposé d'rester dans
 une bicoque avec une autre fille,
@@ -184,9 +200,10 @@ s'en aller d'ici.
 \0(
 (촀\0Même si en fait, c'est l'\0bureau des
 résidents\0￿ qui m'a donné celle-làn\0\0
-Bref, qui va hériter d'ma future
-ancienne maison, n\0?"
-"305","s촀? C'est 2촀luielle\0 que j'dois convaincre de débarrasser l'plancher?"
+Bref, je m'demande c'est qui
+l'chanceux qui va hériter d'ma future
+ancienne maison, n\0!"
+"305","s촀? C'est 2촀luielle\0 que j'dois convaincre de débarrasser l'plancher?"
 "305_a","Vas-y!"
 "305_b","Oups, surtout pas!"
 "305_c","Oublie ça, en fait."
@@ -194,15 +211,15 @@ ancienne maison, n\0?"
 que c'est son jour de chance.
 \0(
 ($촀\0À tout', n\0!"
-"307","( 촀\0Euhn\0\0 PAS 2촀luielle\0, donc, compris.
+"307","( 촀\0Euhn\0\0 PAS 2촀luielle\0, donc, compris.
 \0(
 ()촀\0Et sinon, pour quelqu'un qui
 voudrait vraiment bouger?"
 "308","(촀\0Maisn\0\0
 \0 mais tu viens d'me dire quen\0\0
-(촀\0Pas cool, n\0n"
-"309","(촀\0J'ai vu s촀, et c'est passé comme du beurre. 2촀IlElle\0 avait vraiment prévu de mettre les voiles.\0\0()촀\0Même pas eu besoin d'expliquer que
-j'étais en train d'lui faire une faveur.\0\0(%촀\0En plus, j'crois bien qu'2촀ilelle\0 a aimé
+(촀\0Pas cooln"
+"309","(촀\0J'ai vu s촀, et c'est passé comme du beurre. 2촀IlElle\0 avait vraiment prévu de mettre les voiles.\0\0()촀\0Même pas eu besoin d'expliquer que
+j'étais en train d'lui faire une faveur.\0\0(%촀\0En plus, j'crois bien qu'2촀ilelle\0 a aimé
 c'que j'lui ai dit d'mon ancien coin.
 \0(
 Bref, une affaire qui roule.
@@ -225,46 +242,24 @@ autant qu'tu fasses ça bien."
 \0Tu viens pas de dire quen\0\0
 (촀\0Moi qui m'voyais déjà faire la fête
 à n	\0, ça m'défrise."
-"402","(%촀\0Alors celle-là, on m'l'avait jamais
-faite!
-\0 T'sais, j'ai donc d'mandé à
-vivre à n	\0n\0\0
-(촀\0Ils r'gardent ma face, pis ma photo,
-pis re-ma facen\0\0(촀\0 et ils m'lancent
-que j'habite déjà ici.
-(촀\0Alors j'leur fais signe qu'ils sont
-toc-toc dans leur tête, et que
-j'habite ailleursn\0\0
-(촀\0Au bout d'un moment, plus personne
-comprenait rien et pis moi, j'avais
-les nerfs qui s'tire-bouchonnaient.
-('촀\0Alors j'leur ai dit « pffrt! », j'ai
-raccroché, et j'ai décidé d'rester sur
-mon île.
-\0 Mais merci quand même!"
-"403","(&촀\0Et si t'avais un2$ jumeaue jumelle secr2etète?
-\0
-(8촀\0T'as d'jà pensé à ça?
-\0 Perso,
-j'm'étais jamais posé la questionn\0\0
-n\0\0 (9촀\0jusqu'à c'que j'jase au \0bureau des
-résidents\0￿ 2
-de d'⁠n	\0!
-\0 J'ai d'mandé si j'pouvais rester icin\0\0\0\0(촀\0Pis ils m'ont dit qu'ils avaient d'jà
-accepté la d'mande d'une fille
-qui avait exactement ma tête!
-(촀\0Alors hop!
-\0 J'ai app'lé ma mère pour
-lui d'mander si elle avait oublié
-d'me parler d'une jumellen\0\0
-(촀\0Elle a pris les nerfs en beuglant
-que j'racontais des nounouneries
-plus grosses qu'une montagne!
-(촀\0Au final, j'laisse tomber l'affaire.
-\0('촀\0
-Je comprends rien et j'aime pas ça.
-\0
-Merci quand même pour l'invitation!"
+"313","(촀\0Super!
+\0 Alors il s'trouve que j'ai
+laissé un peu traîner mes oreilles
+au \0bureau des résidents\0￿n\0\0
+n\0\0 et ils jasaient justement 2
+de d'⁠s촀. 
+\0(&촀\0T'en dis quoi?
+\0 J'vais lui toucher deux mots?⁠"
+"313_a","Fonce!"
+"313_b","Quoi? Nan!"
+"314","(7촀\0Ah, c'est ok. 
+\0J'ai compris. 
+\0J'me suis
+plantée. 
+\0Ça arrive. 
+\0On oublie ça.
+\0
+2\0n\0."
 "404","( 촀\0Eh, n	\0 est à la mode!
 (%촀\0J'ai app'lé l'\0bureau des résidents\0￿, et
 ils m'ont dit qu'c'était plein.
@@ -276,17 +271,6 @@ concert, sérieux?
 (촀\0De toute façon, j'ai passé l'âge de
 poiroter, alors j'vais rentrer chez moi maintenant.
 \0 ('촀\0Merci, mais non merci!"
-"405","(%촀\0J'viens d'parler avec le \0bureau des
-résidents \0￿etn\0\0('촀\0 en un mot,
-ça va pas marcher, n\0.
-(8촀\0Z'ont baragouiné un truc, du genre
-« y a plus d'place pour votre maison,
-allez bâtir ailleurs si on y est ».
-(촀\0Ils m'ont bien proposé d'partager
-une bicoque avec une autre fille,
-mais la coloc, c'est pas pour moi.
-(촀\0C'est pas d'chance, j'me serais bien
-plu icin\0\0 (7촀\0Enfin, merci quand même!"
 "406","(촀\0Bon, j'ai jasé avec le \0bureau des
 résidents\0￿, et c'est officiel :
 \0 on va
@@ -313,15 +297,6 @@ zen maint'nant."
 "411","(촀\0T'as raison, d'un coup qu'ils
 mettent mon nom sur liste noire,
 et LÀ je s'rai pas d'avance."
-"421","(
-촀\0Avec deux comme moi dans l'même
-patelin, ça s'rait l'début d'la fin.\0\0(%촀\0J'peux comprendre qu'y préfèrent
-pas prendre le risque, n\0."
-"422","(
-촀\0C'est louche c't'histoire de jumellen\0\0
-(촀\0À moins qu'ce soit la fille de la
-jumelle secrète de ma maman!
-('촀\0Nan, même pas en rêven"
 "423","(촀\0Comment ça peut être plein?
 \0(
 (
@@ -329,10 +304,6 @@ jumelle secrète de ma maman!
 de sécurité?
 (&촀\0Genre pouvoir évacuer l'île à temps en cas d'attaque 2
 de d'⁠촀?"
-"424","(촀\0Tout l'monde s'est donné
-rendez-vous ici ou quoi?\0\0(촀\0C'est quand même fou de plus avoir
-un pouce carré pour construire quoi
-qu'ce soitn"
 "504","(%촀\0Cette île est vraiment au poil.
 \0(
 (촀\0Le décor est super et les locaux

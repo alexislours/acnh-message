@@ -115,14 +115,14 @@ cómo andas, n\0?"
 ¿El cuarto de huéspedes?
 (촀\0No me digas:
 \0 ¡es (촀\0el lavadero!"
-"008","촊촉(촀\0Querid2oa, tu casa ya tiene tres
+"008","촊촉(촀\0Querid2oa, tu casa tiene tres
 habitaciones independientes.
 \0
 (촀\0¡Qué divinura!\0\0(
-촀\0La expansión le dio un toque
-asimétrico maravilloson\0\0촆촃
-\0
-(%촀\0¡Tienes un gusto exquisito!"
+촀\0La distribución del espacio le da un
+toque asimétrico maravilloson\0\0
+촆촃
+\0(%촀\0¡Tienes un gusto exquisito!"
 "009","촊촉(촀\0Qué casa enorme 촉te estás haciendo
 poco a poco, ¿eh?
 \0 (6촀\0Tienes más
@@ -147,12 +147,12 @@ no venga,
 \0
 no paro de preguntarmen\0\0
 (&촀\0¿qué guardas ahí abajo?
-(촀\0촆촃No me 촃contestes si no quieres,
+(촀\0촆촃No me contestes si no quieres,
 \0 pero
 recuerda que tengo la imaginación
 muy vívidan\0\0
-\0 (촀\0y la boca muy grande."
-"012","촊촊촉(9촀\0Caramba, me pregunto por qué
+\0(\0촀\0 (촀\0y la boca muy grande."
+"012","촊촉(9촀\0Caramba, me pregunto por qué
 s\0촀 elige seguir
 viviendo en una tienda de campaña.\0\0촆촃(촀\0Comprendo que s\0촀
 tiene una sed de aventura que yo
@@ -167,15 +167,13 @@ uno con su gusto, n\0."
 "013","촊촉(촀\0La casa de s\0촀 es un poco pequeña,
 \0 ¿no?
 \0 (9촀\0Digo,
-\0 más pequeñas que eso no las hacenn\0\0촆촃\0\0(촀\0촃No lo digo 촃con ánimo de criticar.
+\0 más pequeñas que eso no las hacenn\0\0\0\0촆촃('촀\0No lo digo con ánimo de criticar.
 \0
 (촀\0Ya sabes lo que dicen:
 \0 la casa es
 chica pero el corazón es grande."
-"014","촊촉(8촀\0Veo que la casa de s\0촀 tiene una sala adicional.
-\0 (촀\0¡Qué envidia!\0\0(1촀\0Si yo tuviera una habitación más,촃
-\0
-촆촃podría darle uso por fin a todos
+"014","촊촉(8촀\0Veo que la casa de s\0촀 tiene una habitación adicional.
+\0 (촀\0¡Qué envidia!\0\0(1촀\0Si yo tuviera una habitación más,촆촃podría darle uso por fin a todos
 los muebles que no sé dónde poner.
 (촀\0Qué digon\0\0
 \0 (촀\0necesitaría DOS
@@ -183,27 +181,29 @@ habitaciones más, n\0."
 "015","촊촉(촀\0Vaya, vaya,
 \0 la casa de s\0촀 va viento en
 popan\0\0
-\0 (촀\0¡Ya tiene dos cuartos!\0\0촆촃(&촀\0¿Sabes 촃cómo la tiene decorada?
+\0 (촀\0¡Ya tiene dos habitaciones!\0\0촆촃(&촀\0¿Sabes cómo la tiene decorada?
 \0
 (
-촀\0Sería interesante vern\0\0\0\0(6촀\0Tendré que inventarme una excusa
+촀\0Sería interesante vern\0\0
+\0\0\0(6촀\0Tendré que inventarme una excusa
 para hacerle una visita de cortesía,
 n\0."
 "016","촊촉(촀\0¡Caramba,
-\0 la casa de s\0촀 no para de crecer!\0\0(촀\0¿Cuántas habitaciones quiere tener?
+\0 la casa de s\0촀 es gigantesca!\0\0(촀\0¿Cuántas habitaciones necesita?
 \0
-촆촃Si sigue así,촃
-\0 (6촀\0se acabará perdiendo
-adentro, n\0n"
-"017","촊촉(촀\0¿La casa de s\0촀 era tan grande?
-\0 (촀\0Tengo la sensación de que crece cada vez que la veon\0\0\0\0촆촃(
+촆촃Si la amplía mucho más,
+\0 (6촀\0se terminará
+perdiendo adentro, n\0n"
+"017","촊촉(촀\0Qué casa la de s\0촀.
+\0 Tiene cuatro habitaciones,
+\0 ¡CUATRO!
+\0(\0촀\0 촆촃(
 촀\0¿Qué hará con tanto espacio?
 \0
 ¿Organizar fiestas, quizás?
 \0
 (촀\0Espero que me invite, n\0."
-"018","(촀\0촊촉No sabía que s\0촀 fuese tan trabajado2
-촀rra\0n\0\0
+"018","(촀\0촊촉No sabía que s\0촀 fuese tan trabajado2촀rra\0n\0\0
 \0 ¡Se está haciendo una casa de dos plantas!\0\0촆촃(
 촀\0La verdad es que tiene que ser
 maravilloso poder disponer de

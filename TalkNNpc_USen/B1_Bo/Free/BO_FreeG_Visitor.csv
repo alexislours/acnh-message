@@ -5,7 +5,7 @@ that grow on this island yet?"
 "001_b","Nope!"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0A huh huh huh,
 \0 super yummy, huh?\0\0(촀\0I love 'em too!
 \0 Eat as many as ya
@@ -38,10 +38,12 @@ really hard to open a \0museum\0￿
 on n\0.\0\0()촀\0They need stuff to put on display, so
 it'd be cool if you could donate a
 thing, (""촀\0n\0."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0There's an awesome \0museum\0￿
 on n\0.\0\0(촀\0You should go!
 \0 No worries on
@@ -74,61 +76,54 @@ I was looking
 \0 at this ancient thingn\0\0
 It felt like looking 
 \0(;촀\0through time."
-"101","(촀\0Hey, n\0.
-\0(
-What do you do to kick back and
-($촀\0
-\0have fun on your new island?"
-"101_a","Go fishing. For fish."
-"101_b","Catch freaky bugs."
-"101_c","Pro-level hide & seek."
-"101_d","Dig up ""treasures."""
-"101_e","Hang out with friends."
-"102","(촀\0Yeah, fishing!
+"201","(촀\0Hey, n\0.
+\0 What've you
+been doing to chill out and($촀\0 
+\0have
+fun back on n	\0?"
+"201_a","Going fishing. For fish."
+"201_b","Catching freaky bugs."
+"201_c","Pro hide-and-seek."
+"201_d","Digging up ""treasures."""
+"201_e","Hanging out with friends."
+"202","(촀\0
+\0Yeah, fishing!
 \0( (촀\0I still fish a lot too!
 \0
-(1촀\0Mmmm, tasty fishiesn\0\0\0\0(
-촀\0I wonder if fish from this island
-taste the same as the fish from
-your island?\0\0(%촀\0Maybe I oughta think about moving
-to n	\0, huh? "
-"103","( 촀\0Bug catching? Yeah. That's cool.
+(1촀\0Mmmm, fishiesn\0\0(촀\0\0\0It's so cool how the fish around
+here smell exactly like the fish
+from n	\0.\0\0(촀\0Brings back a lot of good
+memories, n\0."
+"203","( 촀\0Bug catching? Yeah. That's cool.
 \0(
 (\0촀\0I play tag with my bug friends too.
-""Here, buggy buggyn\0\0 TAG!""\0\0
-\0(촀\0A huh huh huh, I still lose all the
+""Here, buggy buggyn\0\0 TAG!""\0\0(촀\0
+\0A huh huh huh, I still lose all the
 time, though!
 \0 (9촀\0Bugs are fast, and
-they tag back.\0\0(%촀\0If you're tag-slapping bugs, maybe
-I oughta think about moving to
-n	\0, huh? "
-"104","(%촀\0Oh yeah, hide-and-seek.
+they tag back, n\0."
+"204","(%촀\0Oh yeah, hide-and-seek.
 \0( (촀\0That sounds
-so fun.\0\0()촀\0I was playing hide-and-seek once,
+so fun, n\0.\0\0()촀\0I was playing hide-and-seek once,
 and I got stuck in a tree. 
 \0I didn't call
-for help since I didn't wanna lose.\0\0I was real cold and hungry by the
-time I finally lost that gamen\0\0\0\0(%촀\0If you're into being sneaky, maybe
-I oughta think about moving to
-n	\0, huh? "
-"105","(&촀\0You go treasure hunting?
+for help since I didn't wanna lose.\0\0(*촀\0I was real cold and hungry by the
+time I finally lost that gamen"
+"205","(&촀\0You go treasure hunting?
 \0((촀\0 I wanna
-hunt for treasure!\0\0(\0촀\0It's been a real long time since
+hunt for treasure, n\0!\0\0(\0촀\0It's been a real long time since
 I walked around digging holes,
 looking for treasuren\0\0\0\0(촀\0Or even just digging holes. Ever do
 that? 
-\0(촀\0Ya gotta try it! Real relaxing.
+\0Ya gotta try it! Real relaxing.
 Gets you in touch with 
-\0nature!\0\0(%촀\0Well, if you're digging treasure holes,
-maybe I oughta think about moving
-to n	\0, huh?"
-"106","(%촀\0Just hanging out sounds so nice.
+\0nature!"
+"206","(%촀\0Just hanging out sounds so nice.
 \0(
 (\0촀\0A huh huh, 
 \0(6촀\0this island might be
 more, uh, noisy than yours.\0\0(\0촀\0We've got n촀 and
 \0
 n촁, and those
-two aren\0\0whew. Settle down.\0\0(%촀\0If you're just hanging out all the
-time, maybe I oughta think about
-moving to n	\0, huh? "
+two aren\0\0whew. 
+\0Settle down.\0\0(%촀\0It's a lotta fun, n\0."

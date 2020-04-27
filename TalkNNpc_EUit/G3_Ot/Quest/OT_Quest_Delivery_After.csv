@@ -11,7 +11,7 @@ mi sento meglio, 
 "003","(&촀\0Posso farti una domanda? 
 \0Che cosa
 ha detto s촀?"
-"003_a","Te lo dico subito."
+"003_a","(\0촀\0Te lo dico subito."
 "003_b","Non me lo ricordo."
 "004","(&촀\0Dimmi un po', com'è andata con
 s촀?"
@@ -21,7 +21,7 @@ ha detto s촀?"
 \0 (
 촀\0Mmmh, che
 stranon\0\0\0\0(촀\0Beh, 
-\0se s촀 non si è 22촀arrabbiatoarrabbiata\0, direi che va bene così."
+\0se s촀 non si è 22촀arrabbiatoarrabbiata\0, direi che va bene così."
 "006","(촀\0Cosa? Hai aperto il pacco?\0\0(촀\0E io che avevo perso tempo a farlo
 con curan\0\0 (	촀\0Hai forse dimenticato le
 buone maniere?"
@@ -99,17 +99,17 @@ aiutato, ridando ciò che aveva
 dimenticato 2\0 s촀."
 "102","(&촀\0Allora come è andata? Come
 ha reagito s촀
-quando 2촀glile\0 hai dato il pacco?
+quando 2촀glile\0 hai dato il pacco?
 (촀\0Lascia staren\0\0 non voglio saperlo
 davvero. 
 \0Facevo solo un po' di
 conversazione.
 \0 (촀\0Grazie ancora!"
-"103","(&촀\0Dimmi, come ti è 2*촀sembratosembrata\0 s촀? In ansia? C'è qualcosa che dovrei sapere?"
-"103_a","Ora ti dico..."
+"103","(&촀\0Dimmi, come ti è 2*촀sembratosembrata\0 s촀? In ansia? C'è qualcosa che dovrei sapere?"
+"103_a","(\0촀\0Ora ti dico..."
 "103_b","Non me lo ricordo."
 "104","(촀\0Insomma, s촀 ti ha
-detto qualcosa, quando si è 2촀
+detto qualcosa, quando si è 2촀
 visto
 vista\0
 recapitare il pacco?"
@@ -160,12 +160,12 @@ avevo chiesto, vero?\0\0(촀\0Oh, grazie! 
 di te, 
 \0n\0!"
 "203","(&촀\0Allora?
-\0 s촀 sarà 2B촀stato contentostata contenta\0 di ricevere il pacco.
+\0 s촀 sarà 2B촀stato contentostata contenta\0 di ricevere il pacco.
 \0 ($촀\0Hai da dirmi qualcosa a riguardo?"
-"203_a","Ora ti dico tutto..."
+"203_a","(\0촀\0Ora ti dico tutto..."
 "203_b","Non che io ricordi."
 "204","(촀\0Allora? 
-\0Come ha reagito s촀 quando 2촀glile\0 hai consegnato il pacco?"
+\0Come ha reagito s촀 quando 2촀glile\0 hai consegnato il pacco?"
 "204_a","(4촁\0Il fatto è che..."
 "204_b","Non me lo ricordo..."
 "205","(
@@ -203,7 +203,7 @@ al posto mio il regalo per
 s촀."
 "302","(&촀\0Allora?
 \0 Come ha reagito?"
-"302_a","È andata così..."
+"302_a","(\0촀\0È andata così..."
 "302_b","Non me lo ricordo."
 "303","(&촀\0Allora? 
 \0Come è stato ricevuto
@@ -216,7 +216,7 @@ Avevi gli occhi chiusi e le
 orecchie tappate?
 \0 (촀\0Grrr!
 (촀\0Uffa! Sarò costretta a chiederlo di
-persona 2f촀,al diretto interessato0alla diretta interessata\0.
+persona 2f촀,al diretto interessato0alla diretta interessata\0.
 \0
 Mi tocca, 
 \0n\0n"
@@ -317,11 +317,11 @@ Hai consegnato il regalo 2\0 s촀,
 ha detto s촀?
 \0(
 (&촀\0Ce l'ha ancora con me?"
-"402_a","Ora ti spiego..."
+"402_a","(\0촀\0Ora ti spiego..."
 "402_b","Non me lo ricordo..."
 "403","(촀\0Ho un po' paura a farti questa
 domanda, ma s촀
-è ancora 22촀arrabbiatoarrabbiata\0 con me?"
+è ancora 22촀arrabbiatoarrabbiata\0 con me?"
 "403_a","(4촁\0Beh, ecco..."
 "403_b","Non me lo ricordo."
 "404","(촀\0Cosa?! 
@@ -331,7 +331,7 @@ importante! 
 per questo, n\0!
 (촀\0Uffan\0\0 e ora che faccio? 
 \0Come farò
-a scoprire se è ancora 22촀arrabbiatoarrabbiata\0
+a scoprire se è ancora 22촀arrabbiatoarrabbiata\0
 con me? 
 \0(촀\0Non lo saprò main"
 "405","(촀\0Non credo alle mie orecchie.
@@ -344,9 +344,9 @@ motivo di discordia?
 impegno per fare il pacchetto e tun\0\0
 l'hai aperto!
 (	촀\0Stavo cercando di fare pace con
-2*촀un amicoun'amica\0, non ho tempo da perdere
+2*촀un amicoun'amica\0, non ho tempo da perdere
 a insegnarti le buone maniere!"
-"407","(&촀\0Quindin\0\0 non è più 22촀arrabbiatoarrabbiata\0 con
+"407","(&촀\0Quindin\0\0 non è più 22촀arrabbiatoarrabbiata\0 con
 me?
 \0 (촀\0Che sollievo.\0\0(촀\0Grazie per avermi aiutata a tendere
 il mio ramo d'ulivo.
@@ -370,7 +370,7 @@ avevo chiesto di consegnare
 ()촀\0Se non ti dispiace, penso che me ne
 occuperò io, a questo punto.
 \0 So che
-2촀luilei\0 è un po' in ansia."
+2촀luilei\0 è un po' in ansia."
 "504","(8촀\0Ti ricordi che ti avevo chiesto di
 portare un regalo da parte mia
 2\0 s촀, vero?

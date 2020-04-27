@@ -1,17 +1,16 @@
 ﻿"label","text"
-"001_01","(촀\0Oh, n\0!
-(촀\0Che piacere vederti!
-\0 Il falò è stato
-(촀\0davvero eccezionale!"
-"001_02","(촀\0Ah, n\0.
-(촀\0Che piacere vederti!"
-"001_03","(\0촀\0C'è sempre qualcuno al \0centro servizi
-\0￿di notte, quindi passa pure(촀\0 ogni volta
-che hai qualcosa da sbrigare.\0\0(\0촀\0Al momento faccio un giro per
-chiedere a chi incontro come
-vanno le cosen\0\0\0\0(촀\0Se hai qualche domanda, rivolgiti
-tranquillamente a me, vedrò di
-aiutarti!"
+"001_01","(촀\0Oh, n\0! 
+\0Che piacere vederti!
+\0 Il falò è stato (촀\0davvero eccezionale!"
+"001_02","(촀\0Ah, n\0. 
+\0Che piacere vederti!"
+"001_03","(\0촀\0Il \0centro servizi \0￿è aperto anche di
+notte, quindi vacci pure(촀\0 ogni volta
+che hai qualcosa da sbrigare.\0\0(\0촀\0Al momento, vado in giro a parlare
+con tutti per assicurarmi che le cose
+vadano benen\0\0\0\0(촀\0Se hai qualche dubbio o non sai che
+fare, rivolgiti tranquillamente a men\0\0
+Vedrò di aiutarti!"
 "001_04","(\0촀\0Siamo qui tutta la notte, puoi
 passare quando vuoi (촀\0se devi sbrigare
 faccende relative all'isola.\0\0(\0촀\0Inoltre, durante il giorno a volte vado
@@ -28,16 +27,15 @@ servizi per aprire un negozio
 tutto nostro!
 (촀\0Spero che passerai a fare acquisti,
 quando sarà ultimato."
-"003_01","(촀\0Oh, n\0.
-(촀\0Che piacere vederti!
-\0 Che ne dici
-della vita su quest'isola?"
+"003_01","(촀\0Oh, n\0. 
+\0Che piacere vederti!
+\0 Che ne dici della vita su quest'isola?"
 "003_02","(촀\0Se ti serve qualcosa che renda la
 tua vita sull'isola più agevole,
 rivolgiti pure a me."
 "009","<"
 "009_01","(촀\0Un caldo benvenuto 2\0 n\0!
-\0 (촀\0Ti auguro di goderti tutte le meraviglie dell'isola!"
+\0 Ti auguro di goderti tutte le meraviglie dell'isola!"
 "009_02","(&촀\0Conosci per caso qualcuno su
 quest'isola?\0\0(촀\0Sono felice che tu abbia, grazie alle
 tue conoscenze, l'occasione di
@@ -45,24 +43,27 @@ visitare n\0."
 "009_03","(촀\0Oh, ma io ti conosco! Tu vivi
 2\0 n	\0!\0\0(촀\0Ah, n	\0n\0\0 è davvero un posto meraviglioso, proprio come quest'isola!"
 "011","(촀\0Il nostro capo, \0Tom Nook\0￿, può darti
-una mano in tante faccende, al
-\0centro servizi\0￿.\0\0Mio fratello maggiore \0Mirco\0￿ vende
+una zampa in tante faccende, al
+\0centro servizi\0￿.\0\0(%촀\0Mio fratello maggiore \0Mirco\0￿ vende
 tanti oggetti utili e compra anche
 ciò che a te non serve.
-Il centro servizi è aperto 24 ore al
-giorno. Passa pure quando vuoi,
-bene, bene."
-"012","Ho una domanda per te: hai mai
-sentito parlare del (&촀\0\0corso di fai da te\0￿
-offerto al centro servizi?\0\0(\0촀\0Con il \0fai da te\0￿, puoi (%촀\0creare da te
-strumenti, mobili e tante altre cose
-(촀\0utili per la vita quotidiana.\0\0Se non lo hai ancora fatto, dovresti
-andare al nostro corso di fai da te!"
+(촀\0Il centro servizi è aperto 24 ore al
+giorno. 
+\0Passa pure quando vuoi!"
+"012","Dimmi un po': 
+\0hai mai sentito parlare
+del (&촀\0\0corso di fai da te \0￿offerto presso il
+centro servizi?\0\0(\0촀\0Una volta apprese le basi, 
+\0(%촀\0potrai
+creare da te strumenti, mobili e tante
+altre cose utili per la vita quotidiana.\0\0(촀\0Se non hai ancora preso parte
+al nostro corso, ti invito a parlare
+con il signor \0Nook\0￿!"
 "013_01","(촀\0Sai, 
 \0visto che sei qui, 
 \0dovresti
 proprio provare il \0corso di fai da te
-\0￿offerto dal signor Nook!
+\0￿offerto dal signor \0Nook\0￿!
 (\0촀\0Così potrai creare strumenti,
 \0 mobilio
 \0
@@ -83,19 +84,21 @@ vicino al centro servizi?
 (\0촀\0La usiamo per dare agli abitanti
 dell'isola informazioni utili,
 naturalmente, man\0\0\0\0(촀\0Ci farebbe piacere se chi ci fa visita
-lasciasse un piccolo messaggion\0\0
+lasciasse un piccolo messaggion\0\0 sai,
 in segno di amicizia.\0\0(촀\0Scrivere un bigliettino è semplice,
-spero che lo farai presto,
+quindi spero che lo farai presto,
 n\0!"
-"050_02","Mmhn\0\0 Sentin\0\0 quando scuoti o
+"050_02","Mmmhn\0\0 Sentin\0\0 quando scuoti o
 tagli gli alberi, a volte capita che
-cada un \0vespaio\0￿.\0\0(촀\0Fai attenzione! Se le vespe ti
+cada un \0vespaio\0￿.\0\0(촀\0Fai attenzione! 
+\0Se le vespe ti
 pungono, ti si gonfia talmente la
-faccia che non ti si riconosce piùn\0\0\0\0(촀\0In più, ho anche sentito che se le
-vespe pungono più volte, si può
-anche svenire! Capisci?\0\0(\0촀\0Al centro servizi, puoi comprare
+faccia che non ti si riconosce piùn\0\0\0\0(촀\0In più, ho anche sentito che se
+ti pungono più volte, si può pure
+svenire! 
+\0Capisci?\0\0(\0촀\0Al centro servizi, puoi comprare
 una \0medicina\0￿ che annulla gli effetti
-di morsi e punture.
+delle punture d'insetto.
 \0
 (
 촀\0Se fossi in te, me ne porterei
@@ -108,12 +111,15 @@ serve nulla. Già solo accedendovi una
 volta al giorno (촀\0ricevi \0miglia di Nook\0￿!\0\0E ne ricevi ancora di più se vi accedi
 per più giorni di seguito. È un modo
 semplice per accumulare miglia!"
-"050_04","Probabilmente sai che la \0legna\0￿
-viene dagli \0alberi\0￿.\0\0(촀\0Le \0pietre\0￿ e i minerali in genere
-vengono dalle \0rocce\0￿!\0\0()촀\0Scuotendo gli alberi ottieni rami, ma
-con un'\0ascia\0￿, puoi fare legna.\0\0(%촀\0E per le rocce, basta colpirle con
-un attrezzo \0duro\0￿, come un martello
-per spaccarle.(촀"
+"050_04","(%촀\0Immagino tu lo sappia già, ma dagli
+\0alberi \0￿si può ottenere la \0legna\0￿.\0\0(촀\0Le \0pietre\0￿ e i minerali in genere,
+come puoi immaginare, vengono
+dalle \0rocce\0￿!\0\0()촀\0Ora, scuotendo gli alberi ottieni rami,
+
+\0però se hai a disposizione un'\0ascia\0￿,
+puoi fare legna.\0\0Lo stesso vale per le roccen\0\0\0\0(촀\0Basta colpirle con uno strumento
+\0duro\0￿, tipo un'ascia, per spaccarle
+e recuperarne i materiali."
 "051","(촀\0Mentre ero in spiaggia, ho visto qualcosa che veniva depositato sulla sabbia dalla risacca. \0\0(촀\0Mi sono avvicinato e ho visto che era
 un \0messaggio in bottiglia\0￿! Non è una
 cosa affascinante e misteriosa?
@@ -148,12 +154,17 @@ una roccia e ho rimosso un albero
 usando una semplice pala!\0\0(2촀\0Ho il sospetto che \0mangiare\0￿ la frutta
 sia il modo migliore per fare tutto
 bene e in fretta!"
-"052_04","Hai passato(&촀\0 un po' di tempo esplorando la spiaggia, n\0?\0\0(촀\0\0Mirco\0￿, del centro servizi, compra
+"052_04","Dimmi, (&촀\0hai passato un po' di
+tempo esplorando la spiaggia,
+n\0?\0\0(촀\0\0Mirco\0￿, del centro servizi, compra
 qualsiasi tipo di \0conchiglie\0￿ che
-riesci a trovare!\0\0(\0촀\0In più, ci sono molluschi \0sepolti
-sotto la sabbia\0￿n\0\0\0\0(촀\0Per trovarli, basta guardare con
-attenzione la sabbia e usare una
-\0pala \0￿quando c'è uno spruzzo!\0\0(촀\0Vedrai quanti ne trovi, n\0!"
+riesci a trovare!\0\0(\0촀\0In più, ci sono vongole \0sepolte
+sotto la sabbia\0￿n\0\0\0\0(촀\0Per trovarle, basta guardare con
+attenzione il terreno e usare una
+\0pala \0￿dove vedi spruzzare dell'acqua!\0\0(촀\0In fondo, è un modo divertente
+di passare il tempo, 
+\0quindi spero
+vorrai provarci!"
 "061_01","(촀\0Ah, a propositon\0\0 
 \0Ho sentito che
 stai dando una mano a raccogliere i

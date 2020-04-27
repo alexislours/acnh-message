@@ -20,7 +20,7 @@ gern hättest? 
 \0(4촀\0Falls ja, 
 \0würde ich
 es dir vielleicht überlassen..."
-"004_a","(\0촀\0Da wäre schon was!"
+"004_a","Da wäre schon was!"
 "004_b","Ich brauche nichts."
 "005","()촀\0Wenn du irgendwas hier gern haben
 würdest, 
@@ -64,24 +64,22 @@ denselben Geschmack...(\0촀"
 dich trotzdem nicht davon ab, 
 \0dich
 bei mir wie zu Hause zu fühlen.(\0촀"
-"100","(촀\02$촀Mein
+"100","(촀\02$촀Mein
 MeineMein }\0\0?
 \0
-(\0촀\02촀DenDieDas würde ich dir für ($촀\0Z\0
+(\0촀\02촀DenDieDas würde ich dir für ($촀\0Z\0
 überlassen."
 "100_a","Nehme ich!"
 "100_b","Dann lieber nicht..."
-"101","( 촀\02$촀Mein
-MeineMein }\0\0
-interessiert dich? 
+"101","( 촀\02$촀Mein
+MeineMein }\0\0 interessiert dich? 
 \0(
 촀\0Hm... 
-\0(\0촀\02촀DenDieDas könntest
-du für 
+\0(\0촀\02촀DenDieDas könntest du für 
 \0($촀\0Z\0 haben."
 "101_a","Okay, gerne."
 "101_b","Nein danke."
-"102","( 촀\02$촀Mein
+"102","( 촀\02$촀Mein
 MeineMein }\0\0?
 \0
 (
@@ -117,19 +115,19 @@ auch nützlich."
 nach Hause."
 "300","(촀\0Oh! 
 \0Ich hätte nicht gedacht, dass du
-2(촀meinen
+2(촀meinen
 meinemein 2촁}촀
 haben möchtest.\0\0(촀\0Tut mir leid, 
 \0aber das geht nicht.
 \0
-(4촀\02촀ErSieEs ist mir sehr ans Herz gewachsen."
-"301","(촀\0Du interessierst dich für 2(촀meinen
+(4촀\02촀ErSieEs ist mir sehr ans Herz gewachsen."
+"301","(촀\0Du interessierst dich für 2(촀meinen
 meinemein
 2촁}촀?\0\0Ähm... 
 \0(촀\0tut mir leid, 
-\0aber 2촀dendiedas kann
+\0aber 2촀dendiedas kann
 ich nicht abgeben. 
-\0(4촀\02촀ErSieEs würde
+\0(4촀\02촀ErSieEs würde
 mir sonst sehr fehlen."
 "302","(촀\0Ich sage es nur ungern, 
 \0aber das
@@ -137,7 +135,7 @@ geht leider nicht. 
 \0Das gute Stück
 ist mir lieb und teuer."
 "303","(촀\0Mein Zuhause wäre aber nicht
-mehr dasselbe ohne 2,촀diesen
+mehr dasselbe ohne 2,촀diesen
 diesedieses
 2촁}\0\0.
 (촀\0Könntest du dir nicht etwas

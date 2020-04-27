@@ -440,13 +440,13 @@ accidentally find yourself in a pinch.\0\0Perhaps something you put out
 keeps you from moving around, or
 you can't grab an item up on a cliff.\0\0The cleanup service is for these
 moments where you need the items
-around you cleaned up a bit.\0\0Only items such as furniture or
-fencing \0in your immediate vicinity
-\0￿are moved with this service.\0\0Make sure you get close to the items
+around you cleaned up a bit.\0\0The cleanup service will only work
+on placed items, fencing, and trees
+\0in your immediate vicinity\0￿.\0\0Make sure you get close to the items
 causing you trouble before you apply
-for the service.\0\0Any items picked up by the service
-will be deposited in the \0recycle box\0￿
-at Resident Services.\0\0So don't delay in picking up those
+for the service.\0\0Items picked up by the service will be
+deposited in the \0recycle box \0￿at
+Resident Services.\0\0So don't delay in picking up those
 items from the box!"
 "251","What should I read up on?"
 "251_01","What should I read up on?"
@@ -490,16 +490,18 @@ the recycle box?"
 \0 Please wait as we clean
 up the items around you."
 "264","Cleanup complete!
-\0 Please remember
-to grab any items from the \0recycle
-box \0￿at \0Resident Services\0￿."
+\0
+Please note only items and fencing
+are sent to the \0recycle box\0￿."
 "265","We couldn't find anything to
-clean up.\0\0The cleanup service
-\0 will only work
-on items and fencing placed in your
-immediate vicinity."
+clean up.\0\0The cleanup service will only work
+on placed items, fencing, and trees
+in your immediate vicinity."
+"266","You're \0outside of the valid service
+area\0￿ for the cleanup service.\0\0This service can only be used
+outdoors on n	\0."
 "301","Looks like the map app won't work
 for this island."
-"311","Hm? It says ""Outside service area.""
-Guess I can't use it here."
+"321","Looks like I can't use the Chat Log
+app during Party Playn"
 "999","\0100 \0￿miles"

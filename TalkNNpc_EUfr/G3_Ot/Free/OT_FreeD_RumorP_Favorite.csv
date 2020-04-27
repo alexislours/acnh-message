@@ -55,18 +55,16 @@ pour 촀, non ?
 (%촀\0Bien sûr."
 "010_05_b","('촀\0C'est du passé."
 "010_101","(촀\0Je me souviens que question 촀, 
-\0(tu disais préférer
-« 
-촀 ».\0\0(""촀\0Est-ce que c'est toujours d'actualité, n\0 ?"
+\0(tu disais préférer « ⁠
+촀 ⁠».\0\0(""촀\0Est-ce que c'est toujours d'actualité, n\0 ?"
 "010_101_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
 "010_101_b","('촀\0Plus maintenant."
 "010_102","(7촀\0Tu te souviens de la fois où je t'ai
 demandé ta 촀 préférée, n\0 ?\0\0(촀\0Tu m'avais répondu :
 \0 « ⁠
-촀 ».
-\0
-Est-ce que c'est toujours le cas ?"
+촀 ⁠».
+\0 Est-ce que c'est toujours le cas ?"
 "010_102_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
 "010_102_b","('촀\0Plus maintenant."
@@ -111,7 +109,7 @@ parlé de ton talent perso ?
 à n촀 de ton goût pour 2\0촀.\0\0(7촀\0Je suis soulagée de ne pas avoir dit n'importe quoi !"
 "011_02","(촀\0Je suis ravie de l'entendre !\0\0()촀\0Vois-tu,
 \0
- je discutais avec n촀 l'autre jour de nos 촀s préféré21촀ses\0.\0\0(4촀\0Et il est possible que j'ai évoqué ton
+ je discutais avec n촀 l'autre jour de nos 촀s préféré22촀ses\0.\0\0(4촀\0Et il est possible que j'ai évoqué ton
 goût pour 2\0촀.\0\0(7촀\0Ça me soulage de savoir que je n'ai
 pas raconté n'importe quoi à ton
 sujet, n\0."
@@ -155,7 +153,7 @@ croie que j'ai tout inventé."
 beaucoup parlern\0\0\0\0(4촀\0Eh bienn\0\0
 \0
  j'ai peut-être dit à n촀 que tu aimais « ⁠
-촀 ».\0\0(7촀\0Je suis soulagée de savoir que je n'ai
+촀 ⁠».\0\0(7촀\0Je suis soulagée de savoir que je n'ai
 pas menti à ce sujet !"
 "011_102","(촀\0Voilà une bonne nouvelle !\0\0()촀\0Vois-tu,
 \0
@@ -251,7 +249,7 @@ bien vrai, n\0 ?"
 "030_101","(""촀\0J'ai entendu dire qu'en matière 2
 de d'⁠촀,
 \0 (촀\0tu ne jurais que par « ⁠
-촀 ».\0\0(&촀\0C'est vrai, n\0 ?"
+촀 ⁠».\0\0(&촀\0C'est vrai, n\0 ?"
 "030_101_a","(%촀\0Tout à fait.
 (%촀\0Je confirme."
 "030_101_b","('촀\0Ce n'est plus le cas."
@@ -274,7 +272,7 @@ d'avenirn\0\0\0\0(&촀\0Est-ce que c'est toujours le cas ?"
 (%촀\0Tout à fait."
 "030_103_b","('촀\0Ce n'est plus le cas."
 "030_104","()촀\0J'ai entendu dire que tu aimes « ⁠
-촀 » pour passer le temps.\0\0(\0촀\0Est-ce que c'est vrai ? 
+촀 ⁠» pour passer le temps.\0\0(\0촀\0Est-ce que c'est vrai ? 
 \0(촀\0Tu sais que tu peux tout me dire,
 \0 n'est-ce pas ?"
 "030_104_a","(%촀\0C'est bien ça.
@@ -326,7 +324,7 @@ quelqu'un !"
 goûts. 
 \0(()촀\0Moi aussi,
 \0 j'adore « ⁠
-촀 ».\0\0(5촀\0Je suis heureuse de voir que nous
+촀 ⁠».\0\0(5촀\0Je suis heureuse de voir que nous
 nous accordons sur ce sujet,
 \0 très
 ch2erère.\0\0(촀\0Sache que je me tiens à ta
@@ -386,7 +384,7 @@ bout de ses surprises."
 \0 Intéressant.
 \0((""촀\0 Je suis curieuse
 de savoir pourquoi « ⁠
-촀 ».\0\0(촀\0J'espère que nous aurons l'occasion
+촀 ⁠».\0\0(촀\0J'espère que nous aurons l'occasion
 d'en discuter plus en détail,
 \0 un de
 ces jours, n\0."
@@ -406,7 +404,7 @@ sujet,
 \0 c'est que ça
 doit être bien, n\0."
 "032_105","(1촀\0Je donnerais tout pour « ⁠
-촀 » comme une virtuose, moi aussi.\0\0(4촀\0Mais qui sait ?
+촀 ⁠» comme une virtuose, moi aussi.\0\0(4촀\0Mais qui sait ?
 \0 Peut-être qu'un jour
 j'y parviendrai."
 "040_01","()촀\0J'ai entendu une rumeur sur toi.
@@ -532,7 +530,7 @@ aux rumeurs,
 voulais dire ?"
 "051_a","C'est ça.
 Tout juste."
-"051_b","En fait, non...
+"051_b","(\0촀\0En fait, non...
 Attends voir..."
 "052","(촀\0Aucun problème,
 \0 2&mon chouma chérie.
@@ -902,7 +900,7 @@ nous avons ceci en commun, toi et moi, n\0 !"
 \0 il y en
 a vraiment pour tous les goûtsn\0\0
 (2촀\0Mon dernier coup de cœur s'appelle
-« Tout pour 촀 comme une pro ».\0\0(촀\0Je te le recommande si le sujet
+« Tout pour 촀 comme une pro ⁠».\0\0(촀\0Je te le recommande si le sujet
 t'intéresse,
 \0 on y apprend beaucoup
 de choses, n\0."
@@ -1172,7 +1170,7 @@ peut-être un vrai talent pour ça.
 촀\0Peut-être que je devrais vraiment
 songer à en faire mon métiern\0\0\0\0Et puis entre nousn\0\0
 \0(5촀\0 « ⁠Détective n
-\0 » ça sonne quand même drôlement bien,
+\0 ⁠» ça sonne quand même drôlement bien,
 \0 non ?"
 "105_04","( 촀\0Ça pour une coïncidence !
 \0( (촀\0Moi aussi !\0\0(촀\0Je trouve ces spectacles absolument

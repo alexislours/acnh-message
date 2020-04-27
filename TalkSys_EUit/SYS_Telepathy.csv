@@ -1,7 +1,6 @@
 ﻿"label","text"
 "001","Qui non c'è abbastanza spazio."
-"002","Qui non c'è spazio per appendere
-questo."
+"002","Non puoi appendere nulla qui."
 "003","In questa stanza non c'è abbastanza
 spazio per mettere questo tappeto."
 "003_01","Non c'è spazio per mettere
@@ -9,7 +8,7 @@ il tappeto qui!"
 "004","Questa stanza è piena, quindi
 non puoi mettere nient'altro."
 "005","È scortese metterti ad arredare
-casa quando hai visite."
+casa mentre hai visite."
 "006","Non bloccare l'accesso, d'accordo?"
 "007","Non puoi mettere nulla in piazza."
 "008","Non puoi mettere questo
@@ -38,9 +37,8 @@ quando non avrai visite."
 quando non avrai visite."
 "022","Le decorazioni per le porte vanno
 sulla porta d'ingresso."
-"023","Qualcuno potrebbe venire a farti
-visita. Costruirai la recinzione
-un'altra volta."
+"023","Hai visite, quindi forse non è il caso
+di costruire una recinzione adesso."
 "024","Meglio pensarci più tardi,
 quando non avrai visite."
 "025","C'è già una decorazione
@@ -52,10 +50,17 @@ Ostacolerebbe chi vuole andare
 all'aeroporto!"
 "028","Non puoi appendere le decorazioni
 per le porte su una tenda!"
+"029","Non puoi piantare un albero in una
+buca senza avere una pala in mano!"
+"030","Non puoi piantare niente se
+ci sono altri giocatori vicini."
 "051","Qui non c'è abbastanza spazio
 per aggiungere altro."
 "052","Questa stanza è piena, quindi
 non puoi mettere nient'altro."
+"061","Quando sei a Fotopia, premi \0 \0￿per
+cambiare il set e poi seleziona  per
+indossare dei modelli personalizzati."
 "101","Non puoi modificare questo rilievo
 perché c'è qualcosa sopra."
 "102","Se modifichi il terreno qui, il rilievo
@@ -117,21 +122,23 @@ non puoi riporci nient'altro."
 "404","Al momento non puoi usare
 questo oggetto."
 "405","Non hai nulla da togliere."
-"406","Non c'è abbastanza spazio
-per spargere questa esca."
-"407","Non puoi cambiarti d'abito
-durante la trasformazione."
+"406","Devi spargere l'esca su
+uno specchio d'acqua."
+"407","Non puoi cambiarti d'abito se
+indossi un completo creato con
+una bacchetta."
 "408","Conosci già questo
 schema fai da te."
 "409","Non hai abbastanza stelline
 nel portafoglio."
-"410","Questo è uno schema fai da te?
-Chissà come posso memorizzarlo..."
+"410","Questo sembra uno \0schema
+fai da te\0￿. Chissà come posso
+memorizzarlo..."
 "411","Non puoi usare il cronometro
 in questo momento."
-"412","Ti serve spazio nello sgabuzzino per
-riporre gli oggetti che verrebbero
-coperti dalla carta da parati."
+"412","Gli oggetti in corrispondenza di una
+finestra finiscono nello sgabuzzino.
+Crea spazio per poterli riporre."
 "413","Puoi usare questo strumento solo
 sull'isola di uno dei tuoi migliori amici."
 "414","Hai la pancia piena! Non puoi
@@ -190,3 +197,12 @@ poter portare nient'altro."
 "513","Hai le tasche piene!"
 "514","Questo punto di raccolta è solo per
 i residenti di n!\0."
+"600","Non puoi scaricare niente
+mentre hai visite."
+"601","Non puoi scaricare niente quando
+il gate dell'aeroporto è aperto."
+"602","Non puoi scaricare niente
+mentre sei in viaggio."
+"603","Non puoi scaricare un modello
+personalizzato finché non disattivi
+la comunicazione all'aeroporto."

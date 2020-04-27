@@ -4,9 +4,9 @@
 "001_b","Nee!"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Dat doe je snel, n\0!
-\0((촀\0Ahahaha,
+\0((촀\0 Ahahaha,
 \0 zijn ze niet
 \0 héérlijk?\0\0(촀\0Ik ben er zelf ook dol op!
 \0( Eet maar
@@ -38,10 +38,12 @@ fossielen of beestjes,(촀\0 maar het wordt
 sowieso een echt museum!\0\0()촀\0De collectie is nog niet zo uitgebreid.
 (""촀\0Maar daar kun jij bij helpen als je
 wilt, n\0."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0Er is een geweldig \0museum \0￿op
 n\0.\0\0(촀\0Ga er maar eens heen. Ze zijn de
 hele dag en nacht geopend. Want
@@ -65,53 +67,54 @@ staren.
 \0 was
 het netn\0\0 alsof ik
 \0(;촀\0 door de tijd reisde."
-"101","(촀\0Zeg, n\0,
-\0( wat doe jij
-\0 als je plezier wilt maken
-\0($촀\0 op je nieuwe eiland?"
-"101_a","Vissen vangen."
-"101_b","Beestjes vangen."
-"101_c","Verstoppertje spelen."
-"101_d","Schatten opgraven."
-"101_e","Met vrienden kletsen."
-"102","(촀\0Ja, vissen!
-\0((촀\0 Dat doe ik ook nog steeds
-heel veel!
-\0(1촀\0 Al houden de vissen me af
-en toe voor de gekn\0\0\0\0(
-촀\0Ik vraag me af of de vissen op jouw
-eiland net zo ondeugend zijn als hier.\0\0(%촀\0Misschien moet ik maar eens naar n	\0 verhuizen om te kijken hoe het daar is."
-"103","( 촀\0Beestjes vangen? Ja, dat is leuk!
+"201","(촀\0Hé, n\0.
+\0 Wat doe jij als je($촀\0 
+\0lol wilt maken op n	\0?"
+"201_a","Vissen. Naar vis."
+"201_b","Insencten vangen."
+"201_c","Verstoppertje spelen."
+"201_d","Schatten zoeken."
+"201_e","Vrienden bezoeken."
+"202","(촀\0
+\0Ja, vissen!
+\0( (촀\0Ik speel ook graag met
+vissen!
+\0 (1촀\0Vissen zijn gaafn\0\0(촀\0\0\0Ik vind het cool dat de vissen hier
+net zo ruiken als de vissen op
+n	\0.\0\0(촀\0Dat doet me terugdenken aan onze
+leuke tijd samen, n\0."
+"203","( 촀\0Beestjes vangen? Ja, dat is cool.
+\0( (\0촀\0Ik
+speel met mijn beestenvriendjes ook
+vaak tikkertjen\0\0 ""Tikkie, jij bent 'm!""\0\0(촀\0
+\0Ahahaha, maar ik verlies hartstikke
+vaak!
+\0 (9촀\0Beestjes zijn vliegensvlug én
+ze tikken terug, n\0."
+"204","(%촀\0O ja, verstoppertje.
+\0( (촀\0Dat klinkt leuk,
+n\0.\0\0()촀\0Toen ik een keer verstoppertje
+speelde, kwam ik vast te zitten in
+een boom.\0\0Ik wilde niet verliezen, dus ik riep
+niet om hulpn\0\0\0\0(촀\0n\0\0maar uiteindelijk werd ik verraden
+door mijn buik,
+\0 omdat die gromde
+van de hongern"
+"205","(&촀\0Je speelt schattenjacht?
+\0((촀\0 Ik wil op
+schattenjacht, n\0!\0\0(\0촀\0Ik heb al een hele tijd geen gaten
+gegraven om naar schatten te
+zoekenn\0\0\0\0(촀\0Ik ben dol op gaten graven. Jij ook?
+
+\0Het is zo ontspannend. Daarbij voel
+je je pas echt 
+\0één met de natuur!"
+"206","(%촀\0Dat klinkt zo gezellig en ontspannen.
 \0(
-(\0촀\0Ik speel ook vaak tikkertje met
-beestjesn\0\0\0\0
-\0(촀\0Ahahaha, ik kan het alleen nooit van
-ze winnen!
-\0(9촀\0 Beestjes zijn snel en ze
-zijn moeilijk te tikken of ontwijken.\0\0(\0촀\0(&촀\0Zijn de beestjes op jouw eiland goed
-in tikkertje spelen?\0\0(%촀\0Als ze je op n	\0 nooit te pakken krijgen, maak ik misschien meer kans als ik daar ga wonen."
-"104","(%촀\0O ja,
-\0((촀\0 verstoppertje kan heel
-spannend zijn.\0\0(&촀\0Zijn er op jouw eiland een boel goeie
-verstopplekken?\0\0()촀\0Ik had me een keer
-\0 in een boom
-verstopt
-\0 en ik durfde er niet meer
-uit.
-\0 Maar ik wilde niet verliezen!\0\0Dus ik zat daar hongerig en koudn\0\0
-en uiteindelijk verloor ik, omdat ik
-toch gevonden werd.\0\0(%촀\0Als ik op n	\0 zou wonen, zou ik best nog weleens een poging willen wagen met verstoppen."
-"105","(&촀\0Ga je graag op schattenjacht?
-\0((촀\0 Dat wil
-ik ook!\0\0(\0촀\0Ik heb al een tijdje niks opgegraven
-op mijn eiland.\0\0(촀\0Terwijl ik graven juist heel leuk vind!
+(\0촀\0Ahaha, 
+\0(6촀\0dit eiland is wat, 
+\0eh,
 \0
-(촀\0Het is lekker ontspannend,
-\0 alsof je
-één bent met de natuur!\0\0(%촀\0n	\0 klinkt als een fijne plek om te wonen, als jij daar zoveel schatten opgraaft."
-"106","(%촀\0Gewoon rustig kletsen klinkt fijn.
-\0(
-(\0촀\0Gheghe, 
-\0(6촀\0dit eiland is denk ik wat
-rumoeriger dan het jouwe.\0\0(\0촀\0Hier heb je n촀 en
-\0 n촁n\0\0 die tween\0\0 zijn altijd in de weer.\0\0(%촀\0Voor de afwisseling lijkt het me best gezellig om op n	\0 te komen wonen."
+luidruchtiger dan het jouwe.\0\0(\0촀\0Want we hebben n촀 en 
+\0n촁, en die tween\0\0 
+\0zijn altijd in de weer.\0\0(%촀\0Hartstikke leuk, n\0."

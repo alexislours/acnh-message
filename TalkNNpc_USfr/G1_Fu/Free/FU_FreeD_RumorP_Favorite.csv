@@ -65,15 +65,14 @@ C'est toujours ça."
 "010_101_b","Plus vraiment.
 Je dirais autre chose."
 "010_102","(
-촀\0Je t'ai déjà demandé quelle était 21촀tonta\0
-촀 2(1촀préférépréférée\0, et tu as dit « ⁠
-촀 ».\0\0(&촀\0C'est bien ça, n\0?"
+촀\0Je t'ai déjà demandé quelle était 22촀tonta\0 촀 2(2촀préférépréférée\0, et tu as dit « ⁠
+촀 ⁠».\0\0(&촀\0C'est bien ça, n\0?"
 "010_102_a","Bonne mémoire!
 C'est toujours le cas."
 "010_102_b","C'était vrai, mais...
 J'ai changé, tu sais."
-"010_103","(촀\0Si je te dis : « ⁠⁠
-촀 »,
+"010_103","(촀\0Si je te dis : « ⁠
+촀 ⁠»,
 \0 ça te rappelle quelque chose?\0\0On discutait de ce qu'on aimerait
 faire plus tard,
 \0 et c'est ce que tu
@@ -85,7 +84,8 @@ m'as répondu.
 Je dirais autre chose."
 "010_104","(
 촀\0Une fois,
-\0 tu m'as dit que tu aimais bien « ⁠
+\0 tu m'as dit que tu aimais
+bien « ⁠
 촀 ».
 \0((&촀\0 C'est toujours le cas?"
 "010_104_a","Bien sûr!
@@ -95,7 +95,7 @@ J'ai changé, depuis."
 "010_105","(
 촀\0Une fois, je t'ai demandé si tu avais
 un talent particulier.\0\0(촀\0Et tu m'as répondu : « ⁠
-촀 ».
+촀 ⁠».
 \0((&촀\0 Tu dirais toujours la même chose?"
 "010_105_a","Toujours.
 À la lettre près."
@@ -136,9 +136,8 @@ pourquoi!"
 \0( (4촀\0Quand j'en ai parlé à n촀,
 \0 j'ai eu peur de lui dire une bêtise.\0\0On discutait des goûts de chacun
 en matière de 촀.\0\0Et je lui ai dit que si on te posait la question,
-\0 tu répondrais
-« ⁠
-촀 ».\0\0(8촀\0Mais comme ça remonte à un bout de
+\0 tu répondrais « ⁠
+촀 ⁠».\0\0(8촀\0Mais comme ça remonte à un bout de
 temps,
 \0 je n'étais plus sûre de moin\0\0
 \0(
@@ -147,18 +146,18 @@ temps,
 \0(()촀\0 L'autre jour,
 \0 avec n촀,
 \0 on parlait des goûts de chacun niveau 촀.\0\0Mais quand j'ai dit « ⁠
-촀 »n\0\0\0\02촀ilelle\0 m'a regardée avec de grands yeux.\0\0(촀\0J'ai cru que j'avais dit une bêtisen\0\0
+촀 ⁠»n\0\0\0\02촀ilelle\0 m'a regardée avec de grands yeux.\0\0(촀\0J'ai cru que j'avais dit une bêtisen\0\0
 (촀\0Mais comme tu confirmes,
 \0 tout va
 bien, n\0!"
 "011_103","(%촀\0Ça ne m'étonne pas.
 \0((촀\0 On ne répond pas « ⁠
-촀 » sans y avoir réfléchi avant.\0\0(촀\0Justement, j'en parlais avec n촀,
+촀 ⁠» sans y avoir réfléchi avant.\0\0(촀\0Justement, j'en parlais avec n촀,
 \0 et on se disait que ça te conviendrait parfaitement!"
 "011_104","(4촀\0C'est ce que je disais à n촀
 \0n\0\0\0\0(%촀\0... qu'en ce moment, tu es dans ta
 période « ⁠
-촀 »."
+촀 ⁠»."
 "011_105","()촀\0J'ai dit à n촀 de venir te voir 2 촀s'ilsi elle\0 avait des questions sur le sujet.\0\0(촀\0Ça aurait été bizarre pour vous deux
 si j'avais compris de travers."
 "020","(4촀\0Tiens,
@@ -199,7 +198,7 @@ Et comment!"
 "030_05_b","Plus maintenant.
 Non, ça a changé."
 "030_101","Si je te dis « ⁠
-촀 »,
+촀 ⁠»,
 \0 ça te rappelle quelque chose?\0\0(&촀\0C'est vrai que c'est ton type
 de 촀 préféré?"
 "030_101_a","Et comment!
@@ -216,14 +215,16 @@ C'est ce que j'ai dit."
 "030_102_b","(\0촀\0Oui, mais j'ai changé.
 Ce n'est plus le cas."
 "030_103","(&촀\0On m'a dit qu'un jour,
-\0 tu aimerais être « ⁠
-촀 », c'est la vérité, n\0?"
+\0 tu aimerais
+être « ⁠
+촀 ⁠», c'est la vérité, n\0?"
 "030_103_a","La vérité vraie.
 C'est ce que j'ai dit."
 "030_103_b","Ça a changé depuis...
 J'ai changé, tu sais..."
-"030_104","(&촀\0On m'a dit que tu as dit que tu aimes bien « ⁠
-촀 ».
+"030_104","(&촀\0On m'a dit que tu as dit que tu aimes
+bien « ⁠
+촀 ⁠».
 \0( C'est vrai?"
 "030_104_a","C'est vrai.
 C'est tout à fait ça."
@@ -250,7 +251,7 @@ la ceinture!\0\0(촀\0Pardon,
 \0 ça m'a échappé!
 \0((7촀\0 C'est te
 dire à quel point j'aime çan\0\0(\0촀"
-"031_03","(1촀\0« ⁠2\0n\0, 2lela célèbre 촀. » Ça sonne super bien!\0\0(촀\0Si c'est vraiment ce que tu veux,
+"031_03","(1촀\0« ⁠2\0n\0, 2lela célèbre 촀. ⁠» Ça sonne super bien!\0\0(촀\0Si c'est vraiment ce que tu veux,
 \0
 je suis sûre que tu peux y arriver,
 n\0!"
@@ -816,8 +817,7 @@ tendance à snober la musique popn\0\0\0\0(%촀\0Eh bien moi je dis :
 \0 tant pis pour
 eux!
 \0((촀\0 Ça fera plus de place sur la
-piste de danse!
-"
+piste de danse!"
 "103_02","(촀\0Tout pareil!
 \0( À chaque fois que je lis
 un roman,

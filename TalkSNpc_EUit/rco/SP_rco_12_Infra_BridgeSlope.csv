@@ -108,13 +108,14 @@ come apparirà la tua nuova rampa,
 sì, sì."
 "206","(촀\0Bene, bene! 
 \0On\0\0(&촀\0 anche no?
-\0 (촀\0Al momento non hai abbastanza spazio
+\0 (
+촀\0Al momento non hai abbastanza spazio
 per tenere il kit, n\0.
 (촀\0Per dedicare un'area alla nuova
 rampa ti serve un \0kit progettazione
 rampa\0￿.
 (\0촀\0Sì, sì, quindi dovresti essere tanto
-gentile da fare un po' di spazio,(촀\0 e poi
+gentile da fare un po' di spazio(촀\0 e poi
 tornare da me a discuterne."
 "207","(촀\0Accipicchia! Hai cambiato idea?
 \0( (\0촀\0In
@@ -123,14 +124,15 @@ importanza,
 \0 (촀\0bisogna pensarci bene."
 "208","(
 촀\0Uhmn\0\0 Sembra che siano già state
-costruite \08\0￿ rampe.
+costruite \08 rampe\0￿.
 \0 Sì, sì,
 \0 in pratica
 (촀\0già il massimo per la nostra isola.
 (\0촀\0Se vuoi costruire una nuova rampa
 \0
 (촀\0dovremo prima \0demolire\0￿ una di
-quelle esistenti. E poi riparlarne!"
+quelle esistenti. 
+\0E poi riparlarne!"
 "301","(촀\0Accipicchia!
 \0((촀\0 Vuoi demolire qualcosa?\0\0(촀\0Bene, bene. Io capisco se vuoi
 sfruttare al meglio lo spazio a
@@ -145,7 +147,8 @@ rampe al momento, 
 nulla da demolire, sì, sì.
 (:촀\0Comunque, per tua informazione, i
 ponti e le rampe che demolisci non
-sono recuperabili.(촀\0 Fai attenzione!"
+sono recuperabili.
+\0((촀\0 Fai attenzione!"
 "303","(촀\0I ponti e le rampe che demolisci non
 sono recuperabili!
 \0(\0촀\0 Quindi ti prego,
@@ -245,8 +248,8 @@ la ricerca del punto giusto per
 \0(al momento siamo alle prese con la raccolta dei fondi per 2\0}\0\0.\0\0Perciò non è il momento di discutere
 di altri cambin\0\0 ma (&촀\0avevi comunque
 qualcosa in mente?"
-"501_a","Rinunciamo."
-"501_b","No, non importa."
+"501_a","(\0촀\0Rinunciamo."
+"501_b","(\0촀\0No, non importa."
 "502","(촀\0Come dici!?
 \0( Vuoi sospendere i lavori di costruzione avviati per 2\0}\0\0?
 (촀\0Questo significa che tutte le

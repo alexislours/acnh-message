@@ -41,7 +41,7 @@ la mode ne recule devant rien !
 chez moi,
 \0 ce sera déjà bien !"
 "100","(4촀\0Alors, t'en penses quoi ?"
-"100_a","Ça te va super bien !"
+"100_a","(\0촀\0Ça te va super bien !"
 "100_b","(\0촀\0Euh..."
 "101","(%촀\0Je le savais ! 
 \0(촀\0On dirait que ça a
@@ -67,23 +67,14 @@ je trouve quoi mettre avec !"
 "201","(%촀\0C'est fou comme s촁
 est douée pour choisir des trucs
 qui me vont méga bien !"
-"202","(촀\0s촁 s'y connaît super
-bien en mode !
-\0 (촀\0Elle est un peu
-comme moi, en fait !"
-"203","(촀\0s촁 a un super sens
-de la mode, 
-\0on peut pas dire le
-contraire.
+"202","(촀\0s촁 s'y connaît super bien en mode !
+\0 (촀\0Elle est un peu comme moi, en fait !"
+"203","(촀\0s촁 a un super sens de la mode, 
+\0on peut pas dire le contraire.
 \0(6촀\0 J'suis presque jalouse !"
-"204","(촀\0s촁 a un talent pour
-habiller les stars !"
-"205","(%촀\0s촁 s'y connaît pas
-mal en mode, finalement.
-(촀\0Tu le savais, toi ?"
-"206","(%촀\0s촁 a l'air d'avoir
-un don pour dénicher des trucs
-agréables à porter !"
+"204","(촀\0s촁 a un talent pour habiller les stars !"
+"205","(%촀\0s촁 s'y connaît pas mal en mode, finalement. (촀\0Tu le savais, toi ?"
+"206","(%촀\0s촁 a l'air d'avoir un don pour dénicher des trucs agréables à porter !"
 "207","(촀\0J'aurais bien voulu être là quand 
 s촁 m'a acheté ça.
 \0
@@ -94,25 +85,16 @@ a vraiment (촀\0le sens du style !"
 \0 Pffn\0\0\0\0(촀\0C'est à cause de moi qu'on s'est
 disputées.
 \0 (%촀\0C'est à moi d'aller m'excuser !"
-"210","s촁 et moi, on se
-fâche tout le temps.
-\0(촀\0 On est
-un peu trop pareillesn\0\0
-Mais j'ai pas été sympa sur ce
+"210","s촁 et moi, on se fâche tout le temps.
+\0(촀\0 On est un peu trop pareillesn\0\0\0\0Mais j'ai pas été sympa sur ce
 coup-là, (%촀\0c'est à moi de m'excuser.
 \0
 (촀\0J'espère qu'elle me pardonnera !"
-"211","(촀\0J'aime pas quand s촁
-me prend de haut, mais sur
-ce coup-là, elle est trop mimi.
-(촀\0J'ai un peu abusé l'autre journ\0\0
+"211","(촀\0J'aime pas quand s촁 me prend de haut, mais sur ce coup-là, elle est trop mimi.\0\0(촀\0J'ai un peu abusé l'autre journ\0\0
 \0
 (9촀\0C'est à moi d'aller m'excuser !"
-"212","(%촀\0Je m'entends pas toujours
-bien avec s촁, 
-\0mais
-(2촀\0elle est plutôt sympa.
-(촀\0Faut que j'aille m'excuser aussi,
+"212","(%촀\0Je m'entends pas toujours bien avec s촁, 
+\0mais (2촀\0elle est plutôt sympa.\0\0(촀\0Faut que j'aille m'excuser aussi,
 du coup !
 \0 (""촀\0Ce serait trop bête de
 pas se réconcilier !"
@@ -123,25 +105,16 @@ de l'autre jour ?
 \0
 (촀\0Je vais y aller comme ça pour lui
 montrer que je suis sincère !"
-"214","('촀\0s촁 s'est donné du
-mal pour s'excuser, 
-\0alors faut
-que j'aille m'excuser aussin\0\0
-(\0촀\0En plus, 
+"214","('촀\0s촁 s'est donné du mal pour s'excuser, 
+\0alors faut que j'aille m'excuser aussin\0\0\0\0(\0촀\0En plus, 
 \0faut que je le remercie
 (촀\0pour son super cadeau !"
-"215","Franchement, s촁
-peut être super péniblen\0\0
-\0 (%촀\0mais
-il peut aussi être super chou.
-(촀\0C'est trop mignon de sa part
+"215","Franchement, s촁 peut être super péniblen\0\0
+\0 (%촀\0mais il peut aussi être super chou.\0\0(촀\0C'est trop mignon de sa part
 d'envoyer un cadeau d'excuses.
 \0
 Faut que j'aille m'excuser aussi !"
-"216","(4촀\0s촁 devait vraiment
-se sentir mal, pour m'envoyer
-un cadeaun\0\0
-(촀\0Moi aussi je vais aller m'excuser,
+"216","(4촀\0s촁 devait vraiment se sentir mal, pour m'envoyer un cadeaun\0\0\0\0(촀\0Moi aussi je vais aller m'excuser,
 
 \0(촀\0ce serait bête qu'on soit plus amis
 à cause d'une petite dispute !"
@@ -156,27 +129,19 @@ je trouve ça super mimi de la part
 être fâchée contre elle après ça.
 \0
 (촀\0Je vais aller la voir et m'excuser !"
-"302","(촀\0Mais au moins, je sais que les
-excuses 2
-de d'⁠s촁 sont
-sincères.
-(%촀\0Elle a fait un effort et tout...
+"302","(촀\0Mais au moins, je sais que les excuses 2
+de d'⁠s촁 sont sincères.\0\0(%촀\0Elle a fait un effort et tout...
 \0
 alors moi aussi je vais aller
 m'excuser, n\0 !"
-"303","(촀\0s촁 devait quand
-même être méga désolée
-pour m'envoyer un cadeau...
-(7촀\0En plus c'est ma faute si on s'est
+"303","(촀\0s촁 devait quand même être méga désolée pour m'envoyer un cadeau...\0\0(7촀\0En plus c'est ma faute si on s'est
 disputéesn\0\0
 \0(촀\0 C'est à moi d'aller
 m'excuser, maintenant !"
 "304","(%촀\0Enfin, c'est super chou de la part
 2
 de d'⁠s촁.
-\0(촀\0 Surtout que
-c'est moi qui ai abusé l'autre fois...
-((촀\0Il faut que j'aille m'excuser aussi,
+\0(촀\0 Surtout que c'est moi qui ai abusé l'autre fois...\0\0((촀\0Il faut que j'aille m'excuser aussi,
 \0
 (촀\0même si je dois annuler une séance
 de shopping pour ça !"
@@ -200,10 +165,7 @@ je vais aller m'excuser.
 pas perdre un ami, n\0 !"
 "308","(
 촀\0Venant 2
-de d'⁠s촁, c'est
-un choix un peun\0\0(촀\0 mais bon,
-c'est quand même super sympa !
-(%촀\0Il a pris la peine de m'envoyer ça
+de d'⁠s촁, c'est un choix un peun\0\0(촀\0 mais bon, c'est quand même super sympa !\0\0(%촀\0Il a pris la peine de m'envoyer ça
 pour s'excuser,
 \0(촀\0 alors je vais aller
 m'excuser aussi !"

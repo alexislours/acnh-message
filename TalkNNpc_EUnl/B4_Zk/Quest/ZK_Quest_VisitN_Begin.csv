@@ -5,14 +5,14 @@ om mee naar mijn huis te gaan?"
 "001_a","Ja, hoor. Klinkt leuk.
 Zeker, ik ga met je mee!"
 "001_b","Eh, niet nu.
-('촀\0Sorry, ik heb het druk."
+Sorry, ik heb het druk."
 "002","(6촀\0Hé, heb je zin om bij mij langs te
 komen? Ik ben benieuwd wat je van
 mijn nieuwste inrichting vindt."
 "002_a","Ja, hoor. Klinkt leuk.
 Zeker, ik ga met je mee!"
 "002_b","Eh, niet nu.
-('촀\0Sorry, ik heb het druk."
+Sorry, ik heb het druk."
 "003","(촀\0Hé, laten we bij mij thuis langsgaan.
 \0(
 (촀\0Ik heb in ieder geval iets om op te
@@ -20,7 +20,7 @@ zitten."
 "003_a","Ja, hoor. Klinkt leuk.
 Zeker, ik ga met je mee!"
 "003_b","Eh, niet nu.
-('촀\0Sorry, ik heb het druk."
+Sorry, ik heb het druk."
 "004","(촀\0O, jammer. 
 \0((%촀\0Volgende keer beter!"
 "005","(7촀\0Dat is prima. 
@@ -128,7 +128,7 @@ schoonmaken en inrichten van mijn
 huis.\0\0
 \0Tijd om er indruk mee te maken! (촀\0Hé, n\0n\0\0 Nu je daar toch staat. 
 \0(6촀\0Zin om langs te komen?"
-"401_a","(\0촁\0Ja, hoor. Klinkt goed."
+"401_a","Ja, hoor. Klinkt goed."
 "401_b","Ik heb het druk nu."
 "402","(
 촀\0Weet je wat ik echt saai vind?

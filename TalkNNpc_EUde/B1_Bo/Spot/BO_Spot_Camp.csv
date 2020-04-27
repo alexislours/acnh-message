@@ -267,10 +267,9 @@ schlafen kann, 
 \0Ich hab ganz tolle
 Neuigkeiten! 
 \0(촀\0Ich zieh auf diese
-Insel!\0\0(촀\02\0s\0촀 hat mich
-eingeladen! 
-\0(촀\02\0n\0,
-wir sind ganz bald schon Nachbarn!\0\0(""촀\0Dann sag ich „Hallo, 2$NachbarNachbarin!“ 
+Insel!\0\0(촀\02\0s\0촀 hat mich eingeladen! 
+\0(촀\02\0n\0, 
+\0wir sind ganz bald schon Nachbarn!\0\0(""촀\0Dann sag ich „Hallo, 2$NachbarNachbarin!“ 
 \0Und
 du sagst „Hallo, Nachbar!“ 
 \0Weil
@@ -278,15 +277,14 @@ wir Nachbarn sind, 
 \0n\0!"
 "402_02","()촀\0Ich zieh schon ganz bald auf diese
 Insel, 
-\0weil s\0촀 mich
-eingeladen hat!
+\0weil s\0촀 mich eingeladen hat!
 \0(촀\0\0\0Und dann können wir zusammen
 reden und essen und Freunde
 sein, 
 \0n\0!"
-"402_03","(촀\02\0s\0촀 hat mich
-eingeladen auf diese Insel zu
-ziehen (촀\0und ich hab ja gesagt!\0\0(;촀\0Dann sind wir Nachbarn (촀\0und das
+"402_03","(촀\02\0s\0촀 hat mich eingeladen, auf diese Insel zu ziehen, 
+\0(촀\0und ich hab Ja gesagt!\0\0(;촀\0Dann sind wir Nachbarn,
+\0 (촀\0und das
 find ich klasse, 
 \0n\0."
 "403","<"
@@ -304,14 +302,13 @@ spielen und essen und Spaß
 haben, 
 \0n\0."
 "403_03","(9촀\02\0n\0! 
-\0Ich muss dir
-was erzählen und ich hoffe, 
-\0du bist
-nicht böse.\0\0(촀\0Ich zieh auf diese Insel!
+\0Ich muss dir was erzählen
+\0 und ich hoffe, 
+\0du bist nicht böse.\0\0(촀\0Ich zieh auf diese Insel!
 \0
 Dann sind wir Nachbarn!\0\0(\0촀\0Ich bin ganz aufgeregt! 
 \0Hier gibt's
-so viel neue Essensdüfte! 
+so viele neue Essensdüfte! 
 \0(""촀\0Sag's
 mir, 
 \0wenn du einen guten riechst!"

@@ -1,9 +1,9 @@
 ﻿"label","text"
-"000","(촀\0
+"000","(촀\0
 \0Ah, 
 \0n\0!
-\0 (""촀\0Hallo,
-\0 hallo!(촀"
+\0 Hallo,
+\0 hallo!"
 "000_01","(촀\0Hallo, hallo! Dit is de \0balie voor
 bouwkundig beheer\0￿!
 \0(&촀\0 Hoe kan ik
@@ -11,24 +11,24 @@ je van dienst zijn, hm?"
 "000_02","(촀\0
 \0Ah, 
 \0n\0!
-\0 (""촀\0Welkom terug!(촀"
-"000_03","(촀\0
+\0 (""촀\0Welkom terug!"
+"000_03","( 촀\0
 \0Goed, en dan nu even iets andersn"
 "004_01","(촀\0We kunnen de buitenkant van je huis
-aanpassen voor \05.000 klingels\0￿."
+aanpassen voor \05000 klingels\0￿."
 "004_02","(촀\0We kunnen de buitenkant van je huis
 gratis aanpassen!"
-"004_03","Als je vandaag je bestelling plaatst,
+"004_03","()촀\0Als je vandaag je bestelling plaatst,
 is hij morgenochtend klaar.
 \0 Dusn\0\0
-(&촀\0lijkt het je wat?"
+(&촀\0wat zeg je ervan?"
 "004_03_a","(%촀\0Ja, graag!"
-"004_03_b","('촀\0Misschien later."
-"005","(촀\0Ehn\0\0 Het beleid van Nook Inc. is
+"004_03_b","(\0촀\0Misschien later."
+"005","(7촀\0Ehn\0\0 Het beleid van Nook Inc. is
 dat we de betaling voor het
-aanpassen van tevoren aannemen.\0\0(\0촀\0Blijkbaar heb je te weinig klingels
+aanpassen van tevoren aannemen.\0\0(9촀\0Blijkbaar heb je te weinig klingels
 op zak,
-\0(촀\0 dus kom maar terug als je
+\0 (촀\0dus kom maar terug als je
 er genoeg hebt!"
 "006","(촀\0Uitstekend!
 \0 Ik zal onze catalogus
@@ -36,12 +36,12 @@ laten zien zodat je iets kunt
 uitzoeken voor je huis."
 "007","On\0\0
 \0(&촀\0 Heb je je bedacht?
-\0(촀\0 Nou ja, je
+\0<(촀\0 Nou ja, je
 weet me te vinden als je je huis wilt
 aanpassen."
-"008_01","(%촀\0Hmmmn\0\0
-\0(촀\0 Interessante keuze!"
-"008_02","(촀\0Dat is dan \05.000 klingels\0￿, graag!"
+"008_01","(9촀\0Hmmmn\0\0
+\0((촀\0 Interessante keuze!"
+"008_02","(촀\0Dat is dan \05000 klingels\0￿, graag!"
 "009_01","(촀\0Vriendelijk bedankt!"
 "009_02","(촀\0Ik zal zorgen dat de bouw voor
 morgenochtend af is. 
@@ -56,10 +56,10 @@ hebben, hm?
 \0(촀\0 On\0\0
 \0((촀\0 Er is iets wat ik je
 eerst moet vertellen.
-(\0촀\0Naast de vormgeving
-\0(촀\0 help ik
-bewoners met \0het verplaatsen van
-hun woningen\0￿.
+(\0촀\0Ik help bewoners niet alleen met
+de vormgeving,
+\0(촀\0 maar ook met
+\0het verplaatsen van hun woningen\0￿.
 (촀\0Dat is iets wat je zelfs kunt doen als
 je nog een lening moet afbetalen.
 \0
@@ -226,7 +226,7 @@ aanschaffen?
 maken met luxe en comfort?\0\0In een tent wonen is leuk en aardig,
 \0
 maar een huis biedt meer ruimte en
-je kunt het meer eigen maken.\0\0(\0촀\0Om een huis te bouwen, zul je wel
+je kunt het meer eigen maken.\0\0(\0촀\0Om een huis te bouwen zul je wel
 een nieuwe lening moeten afsluiten
 van \098.000 \0￿klingelsn\0\0\0\0(&촀\0Dus, wat denk je? Klaar om je eigen
 plekje onder de zon te bouwen?"
@@ -243,7 +243,7 @@ iets voor je bij?"
 "203_b","Roze."
 "203_c","Geel."
 "203_d","Zwart."
-"203_e","Hm, een andere kleur."
+"203_e","Hm, een andere kleur?"
 "204","Dit zijn de andere vier!
 \0 Wil je een van
 deze kleuren of toch liever een van
@@ -252,7 +252,7 @@ de eerdere opties?"
 "204_b","Lichtblauw."
 "204_c","Groen."
 "204_d","Paars."
-"204_e","Hm, een andere kleur."
+"204_e","Hm, een andere kleur?"
 "205","Wil je liever een van de eerste vier?
 Neem je tijd! Dit is een belangrijke
 beslissing."
@@ -260,7 +260,7 @@ beslissing."
 "205_b","Roze."
 "205_c","Geel."
 "205_d","Zwart."
-"205_e","Hm, een andere kleur."
+"205_e","Hm, een andere kleur?"
 "206","Ja, natuurlijk, natuurlijk. Hier zijn
 de vier andere kleuren. Denk erover
 na zolang je wilt.(촀"
@@ -268,7 +268,7 @@ na zolang je wilt.(촀"
 "206_b","Lichtblauw."
 "206_c","Groen."
 "206_d","Paars."
-"206_e","Hm, een andere kleur."
+"206_e","Hm, een andere kleur?"
 "208_01","(촀\0Oké, oké!
 \0 Je krijgt een \0rood \0￿dak."
 "208_02","(촀\0Oké, oké!
@@ -322,8 +322,8 @@ maken.(촀\0\0\0(\0촀\0Daarvoor heb je een lening nodig van
 "211_b","('촀\0Nu nog even niet."
 "212","(
 촀\0Nou, hmn\0\0
-\0(\0촀\0 Voor jouw huis is het
-denk ik wel leuk (촀\0als we een nieuwe
+\0(\0촀\0 Voor jouw huis is het,
+denk ik, wel leuk (촀\0als we een nieuwe
 kamer toevoegen.\0\0Als we die aan de achterkant
 plaatsen, ziet je huis er hetzelfde
 uit,

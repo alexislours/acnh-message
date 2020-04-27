@@ -11,35 +11,35 @@ réservés aux résidents enregistrés
 "002_01","Quel service souhaites-tu utiliser?"
 "002_01_a","Catalogue Nook"
 "002_01_b","Utiliser le DAC."
-"002_01_c","Rien pour le moment."
+"002_01_c","Se déconnecter."
 "002_a","Échanger des points Nook."
 "002_b","Catalogue Nook."
 "002_c","Utiliser le DAC."
-"002_d","Rien pour le moment."
+"002_d","Se déconnecter."
 "003","Merci d'avoir utilisé le Nook Stop."
 "005","Quel service souhaites-tu utiliser?"
 "005_a","Échanger des points Nook."
 "005_b","Catalogue Nook."
 "005_c","Utiliser le DAC."
 "005_d","Inviter un campeur ."
-"005_e","Rien pour le moment."
+"005_e","Se déconnecter."
 "007","Quel service souhaites-tu utiliser?"
 "007_a","Échanger des points Nook."
 "007_b","Catalogue Nook."
 "007_c","Utiliser le DAC."
 "007_d","Inviter un campeur ."
-"007_e","Rien pour le moment."
+"007_e","Se déconnecter."
 "008","Quel service souhaites-tu utiliser?"
 "008_a","Catalogue Nook."
 "008_b","Utiliser le DAC."
 "008_c","Inviter un campeur ."
-"008_d","Rien pour le moment."
+"008_d","Se déconnecter."
 "012","Veux-tu échanger \0Z(촀\0￿
 \0 contre 2\0\0}\0\0\0￿?"
-"012_a","Échanger."
+"012_a","(\0촀\0Échanger."
 "012_b","Non merci."
 "013","Ce \0}\0\0\0￿ est un permis de création additionnel pour l'application \0Remod'île\0￿.\0\0Veux-tu échanger \0Z(촀\0￿ pour obtenir ce permis?"
-"013_a","Échanger."
+"013_a","(\0촀\0Échanger."
 "013_b","Non merci."
 "014","Ta demande d'échange de points
 a été traitée. 
@@ -83,12 +83,12 @@ la \0Boutique Nook\0￿ muni2\0e de ce billet!"
 de d'⁠\0}\0\0\0￿ est un plan que tu connais déjà.\0\0Veux-tu quand même échanger
 \0Z(촀\0￿
 \0 pour obtenir ce \0plan\0￿?"
-"027_a","Échanger."
+"027_a","(\0촀\0Échanger."
 "027_b","Non merci."
 "028","Veux-tu échanger \0Z(촀\0￿
 \0 contre ce \0plan de bricolage\0￿ 2
 de d'⁠\0}\0\0\0￿?"
-"028_a","Échanger."
+"028_a","(\0촀\0Échanger."
 "028_b","Non merci."
 "029","Le \0plan de bricolage\0￿ commandé
 t'a été délivré."
@@ -165,7 +165,7 @@ le désagrément occasionné.\0￿"
 accédant au Nook Stop aujourd'hui.\0￿"
 "105","\0\0De plus, le bonus quotidien d'accès
 au Nook Stop sera porté demain au
-niveau maximum (> 6 jours d'affilée).
+niveau maximum (7+ jours d'affilée).
 Ceci concerne tous nos membres,
 quel que soit leur historique
 personnel d'accès au Nook Stop.\0￿"
@@ -177,10 +177,9 @@ cette année aussi à utiliser le Nook
 Stop et le programme points Nook.\0￿"
 "501","Cette option te permet d'inviter des
 personnages au camping grâce aux
-\0amiibo \0￿de la \0série Animal Crossing\0￿."
-"512","Veux-tu utiliser un amiibo
-pour inviter un personnage
-au camping?"
+\0amiibo Animal Crossing\0￿."
+"512","Veux-tu utiliser un amiibo pour
+inviter un personnage au camping?"
 "512_a","Oh oui, alors!"
 "512_b","Non merci."
 "514","Le camping accueille déjà une
@@ -215,32 +214,39 @@ souhaites-tu inviter au camping?"
 au camping."
 "529","Lecture de l'amiibo annulée.
 As-tu fini d'utiliser ce service?"
-"529_a","Arrêter"
-"529_b","Réessayer"
+"529_a","(\0촀\0Arrêter"
+"529_b","(\0촀\0Réessayer"
+"530","Il s'agit de l'amiibo 2
+de d'⁠s촀. 
+\0Veux-tu l'inviter au camping?"
+"530_a","Oui!"
+"530_b","Laisser tomber."
+"531","On dirait 2
+que qu'⁠s촀 n'est pas disponible pour le moment."
 "541","Tu ne peux inviter qu'un visiteur
 par jour au camping. Merci de
 revenir demain."
 "542","Tu ne peux pas utiliser d'amiibo
 lorsque tu as de la visite sur l'île.\0\0Réessaie plus tard, quand tu auras
 fini d'utiliser la communication sans
-fil locale ou en ligne."
+fil."
 "543","Tu ne peux pas utiliser d'amiibo si
 des visiteurs sont susceptibles de
 franchir le portail de l'aéroport.\0\0Réessaie une fois cet accès fermé."
 "543_01","Tu ne peux pas utiliser d'amiibo si
 la communication sans fil locale ou
 en ligne est activée.\0\0Désactive les communications depuis
-le comptoir de l'aéroport et réessaie."
+le guichet de l'aéroport et réessaie."
 "544","Tu ne peux pas utiliser d'amiibo
 lorsque le mode avion est réglé
 sur Oui.\0\0Règle-le sur Non depuis le
 paramétrage rapide (maintiens \0\0￿),
 puis réutilise l'amiibo."
 "545","Cet amiibo n'est pas compatible.
-Utilise l'amiibo \0d'un personnage
+Utilise l'\0amiibo d'un personnage
 d'Animal Crossing\0￿."
 "546","Ceci n'est pas un amiibo.
-Utilise un amiibo \0d'un personnage
+Utilise un \0amiibo d'un personnage
 d'Animal Crossing\0￿."
 "547","La manette que tu utilises ne peut
 pas lire d'amiibo.
@@ -249,8 +255,8 @@ lire d'amiibo lorsqu'elle est
 connectée par câble à la console.\0￿"
 "548","La lecture de l'amiibo a échoué."
 "549","Veux-tu réessayer?"
-"549_a","Réessayer"
-"549_b","Arrêter"
+"549_a","(\0촀\0Réessayer"
+"549_b","(\0촀\0Arrêter"
 "550","Veux-tu utiliser un autre amiibo
 afin d'inviter quelqu'un d'autre
 au camping?"

@@ -4,6 +4,15 @@
 wel! 
 \0(4촀\0Hopelijk denken ze er bij de
 \0servicebalie\0￿ net zo over als jijn"
+"003","(4촀\0Dat is ontzettend aardig van je om
+opnieuw te vragen,
+\0 vooral omdat ik
+je uitnodiging eerder heb afgewezen.\0\0(촀\0Reuzebedankt!
+\0( (%촀\0Ik ben helemaal van
+gedachte veranderd.\0\0(촀\0Ik ga even bij de \0servicebalie \0￿langs
+en als ze het goed vinden,
+\0 kom ik
+hier wonen!"
 "101","<"
 "101_01","(촀\0Het is leuk om te dromen,
 \0 maar het
@@ -116,24 +125,31 @@ spelen."
 "206_01","(!촀\0Je hebt gewonnen!
 \0 (\0촀\0Wat betekent
 \0n\0\0
-(!촀\0dat we buren worden!\0\0(촀\0Ik kijk er heel erg naar uit om je
-beter te leren kennen,
-\0 2$buurmanbuurvrouw
-n\0!"
+(!촀\0dat we buren worden!\0\0(
+촀\0Maar eerst
+\0 moet ik het een en ander
+bespreken met de \0servicebalie\0￿.
+\0(
+(촀\0Laat ik dat gelijk maar doen."
 "206_02","(!촀\0Je hebt gewonnen!
 \0( (;촀\0Misschien ben ik
 dan echt voorbestemd
 \0 om naar dit
-eiland te verhuizen.\0\0(촀\0Nou,
-\0 (촀\0eh
-\0n\0\0 n\0n\0\0\0\0(촀\0Ik kijk er heel erg naar uit
-\0 om je
-beter te leren kennen."
-"206_03","(6촀\0Misschien heb je me verslagen,
+eiland te verhuizen.\0\0(
+촀\0Dan is mijn volgende stap om bij de
+\0servicebalie\0￿
+\0 te informeren naar een
+eventuele verhuizing."
+"206_03","(6촀\0Misschien heb je me verslagen
 \0
 omdat het mijn lot is om hier te
-komen wonen.\0\0Dus, eh
-\0n\0\0 n\0, toch? (촀\0Ik ben blij dat jij hier bent als ik hier kom wonen!(촀\0 Zo spannend!"
+komen wonen.\0\0(촀\0Ik verhuis naar dit eiland zodra
+mijn kampeertripje op zijn einde is.\0\0(
+촀\0O,
+\0 maar voordat ik kan verhuizen,
+\0
+moet ik eerst bij de \0servicebalie \0￿om
+toestemming vragen.\0\0(촀\0Ik ga er meteen achteraan!"
 "302","(""촀\0Sorry voor het wachten!
 \0( Ik ben bij de
 \0servicebalie\0￿ geweest
@@ -185,7 +201,7 @@ ze zo aardig tegen me zijn geweest."
 "309","(""촀\0Jij bent n\0,
 \0 toch?
 \0(촀\0 Ik ben blij dat ik je naam goed heb!\0\0()촀\0Ik heb het gevraagd
-\0 en s촀 wil inderdaad verhuizen.\0\0(;촀\02촀HijZe\0 zei zelfs dat 2촀hijze\0 wat sneller op zal
+\0 en s촀 wil inderdaad verhuizen.\0\0(;촀\02촀HijZe\0 zei zelfs dat 2촀hijze\0 wat sneller op zal
 schieten,
 \0 zodat ik niet lang hoef te
 wachten.
@@ -201,33 +217,19 @@ vragen?"
 "312","(9촀\0Goed.
 \0( Dan zal ik proberen om er niet
 te veel meer over na te denken."
-"402","(""촀\0Sorry voor het wachten!
-\0(()촀\0 Toen ik bij
-de \0servicebalie\0￿ kwam,
-\0 keken ze me
-nogal raar aan
-\0n\0\0
-(촀\0Het schijnt dat er hier iemand woont
-die precies op mij lijkt,
-\0 (촀\0dus ze
-snapten niets van mijn aanvraag.
-(8촀\0Ik weet niet goed wat ik daarvan
-moet denken,
-\0 maar ik heb het in
-ieder geval geprobeerd."
-"403","(""촀\0Daar ben ik weer!
-\0(()촀\0 Ik ben bij de
-\0servicebalie\0￿ geweest.
-\0 Enn\0\0 hun
-antwoord was nogal raar
-\0n\0\0
-(촀\0Er komt hier iemand wonen die exact
-op mij lijkt.
-\0(촀\0 Met mij erbij zou dat de
-administratie heel verwarrend maken.
-(8촀\0Nogal een rare reden,
-\0 maar ik heb
-het geprobeerd."
+"313","(촀\0Meen je dat?!
+\0((9촀\0 Dat komt mogelijk
+goed uit!
+\0 Bij de \0servicebalie\0￿ heb ik
+namelijk het volgende opgevangenn\0\0\0\0(8촀\0Schijnbaar overweegt ene s촀 te verhuizen.\0\0(&촀\0Lijkt het je een goed idee als ik even
+in persoon bij 2촀hemhaar\0 ga informeren
+naar 2촀zijnhaar\0 plannen?"
+"313_a","Ja, doe dat maar!"
+"313_b","Nee, doe maar niet."
+"314","(촀\0Dat is misschien ook wat te direct.
+\0<
+(촀\0Ik schuif mijn verhuizing maar even
+op de lange baan, n\0."
 "404","(""촀\0Sorry, het duurde even!
 \0(()촀\0 Ik heb het
 gevraagd bij de \0servicebalie\0￿,
@@ -239,19 +241,6 @@ nieuwe bewoners kunnen aannemen.\0\0(촀\0Jammer, hè?
 \0(촀\0 Maar ja, het is toch
 goed dat ik het in ieder geval heb
 gevraagd."
-"405","(""촀\0Ben ik weer!
-\0(()촀\0 Bij de \0servicebalie\0￿
-\0
-hadden ze helaas slecht nieuws voor
-me
-\0n\0\0
-(8촀\0Ze zeggen
-\0 dat het eiland zo vol is,
-(촀\0dat er geen nieuwe huizen meer bij
-passen.\0\0(촀\0Jammer dat het niet is gelukt,
-\0(촀\0 maar
-nu weet ik tenminste waar ik aan toe
-ben."
 "406","(4촀\0Jij bent
 \0n\0\0 2\0n\0,
 \0 toch?\0\0(""촀\0Hopelijk heb ik je niet te lang laten
@@ -284,28 +273,9 @@ te verspelen
 \0 door de \0servicebalie\0￿ te
 veel lastig te vallen,
 \0 n\0."
-"421","(
-촀\0Ik weet niet wat ik zou doen als ik
-iemand tegenkwam
-\0 die precies op
-mij leek.
-(8촀\0Zou het eng zijn?
-\0 Of grappig?
-\0(4촀\0 Of
-misschien zouden we alleen maar
-verlegen naar onze tenen starenn"
-"422","(9촀\0Stel dat je naar een nieuw eiland
-verhuist
-\0 en daar je dubbelganger
-tegenkomt.
-\0 (;촀\0Die ook net verhuisd is!"
 "423","Als ze aanvragen moeten afwijzen,
 \0(%촀\0 is
 n	\0 wel heel populair!"
-"424","(8촀\0Ik had eerder moeten bedenken dat
-ik graag hier wil wonen.
-\0 Nog voordat
-n	\0 helemaal vol was."
 "504","(촀\0De bewoners en het landschap hier
 zijn geweldig!\0\0(1촀\0Ik hoop dat ik ooit op zo'n fijn eiland
 kan wonen,

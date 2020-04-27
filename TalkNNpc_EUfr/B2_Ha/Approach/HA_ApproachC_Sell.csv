@@ -9,18 +9,15 @@ le proposer à tout le monden\0\0\0\0(%촀\0Ça t'intéresserait de m'achet
 "002_a","(\0촀\0Peut-être bien..."
 "002_b","Ça m'intéresse pas."
 "003","(촀\0Tiens, n\0 !
-\0()촀\0 En faisant
-du rangement l'autre jour, j'ai trouvé
-des choses dont je ne me sers pasn\0\0
-(\0촀\0Du coup, je me retrouve avec quatre
+\0()촀\0 En faisant du rangement l'autre jour, j'ai trouvé des choses dont je ne me sers pasn\0\0\0\0(\0촀\0Du coup, je me retrouve avec quatre
 bidules inutiles sur les bras.
 \0
 ($촀\0Tu m'en achèterais peut-être un ?"
 "003_a","(\0촀\0Qu'as-tu à vendre ?"
 "003_b","(\0촀\0Non, désolé2\0e."
 "004","( 촀\0Ah, n\0 !
-\0 (촀\0J'ai acheté 2\0}\0\0n\0\0 (촀\0mais 2촀ilelle\0 ne me convient pas trop.\0\0(
-촀\0Je pourrais te 2촀lela\0 revendre, pour
+\0 (촀\0J'ai acheté 2\0}\0\0n\0\0 (촀\0mais 2촀ilelle\0 ne me convient pas trop.\0\0(
+촀\0Je pourrais te 2촀lela\0 revendre, pour
 peu que tu m'en offres un prix
 raisonnablen\0\0 n\0 ?"
 "004_a","(\0촀\0C'est-à-dire ?"
@@ -87,7 +84,7 @@ facilement que çan\0\0\0￿"
 \0 (
 촀\0Bonn\0\0
 \0( ($촀\0serais-tu prêt2\0e
-à 2촀lela\0 payer Z ?"
+à 2촀lela\0 payer Z ?"
 "200_a","C'est bien trop cher !"
 "200_b","OK, je te l'achète."
 "200_c","Je vais m'en passer."
@@ -102,7 +99,7 @@ pas très fair-play.
 \0((""촀\0Eh bien, n\0 : 2\0}\0\0 t'appartient, profites-en bien !"
 "203","(""촀\0Prends-en bien soin, hein !
 \0
-\0Ouf, j'ai enfin réussi à 2촀lela\0 vendren\0\0\0￿"
+\0Ouf, j'ai enfin réussi à 2촀lela\0 vendren\0\0\0￿"
 "204","(촀\0D'accordn\0\0
 \0( (""촀\0Bon,
 \0 si jamais tu changes
@@ -116,7 +113,7 @@ d'avis,
 (&촀\0Allez : 
 \0<Z ? Tope là ?"
 "205_a","D'accord, je l'achète !"
-"205_b","Baisse encore un peu."
+"205_b","(\0촀\0Baisse encore un peu."
 "206","(촀\0Je suis désolé, je peux vraiment pas
 te proposer un prix plus bas que ça !"
 "207","(6촀\0Ha ha ! Je pensais pas que tu oserais
@@ -127,8 +124,8 @@ me le demander.
 de Z\0, alors ?(촀"
 "207_a","Marché conclu !"
 "207_b","Non, pas la peine."
-"208","(촀\0Victoire ! J'ai réussi à 2촀lela\0 vendre !"
-"209","( 촀\0Mais dis-doncn\0\0
+"208","(촀\0Victoire ! J'ai réussi à 2촀lela\0 vendre !"
+"209","( 촀\0Mais dis doncn\0\0
 \0 (촀\0quel2\0le redoutable
 adversaire ! T'es dur2\0e en affairesn"
 "210","(촀\0C'est dommagen\0\0 (촀\0Mais un bon petit
@@ -137,7 +134,7 @@ et amusant, n\0 !"
 "300","(촀\0Vraiment ?! Ça t'intéresse ?
 \0(\0촀\0 Là, j'ai
 2\0
-\0}\0\0. Je te 2촀lela\0 vends
+\0}\0\0. Je te 2촀lela\0 vends
 \0 (&촀\0Z, OK ?"
 "300_a","Ça me va, j'achète."
 "300_b","Non, pas d'accord."
@@ -191,12 +188,12 @@ hein ?
 de
 \0 Z ?"
 "403_a","Là, ça me va."
-"403_b","Ça reste trop cher."
+"403_b","(\0촀\0Ça reste trop cher."
 "404","(촀\0Vraiment ?
 \0 Ah là làn\0\0 (&촀\0Si je descends
 à Z, ça t'irait ?"
 "404_a","C'est d'accord."
-"404_b","Encore un effort !"
+"404_b","(\0촀\0Encore un effort !"
 "405","(촀\0Tu crois pas que t'abuses, là ?!
 \0<
 (:촀\0Bon, allezn\0\0
@@ -206,7 +203,7 @@ l'affaire du siècle.\0\0(&촀\0Z\0, OK ?
 (촀\0C'est mon dernier mot !"
 "405_a","C'est parfait !"
 "405_b","Non, désolé2\0e."
-"406","(촀\0Prends-2촀lela\0, alors !
+"406","(촀\0Prends-2촀lela\0, alors !
 \0 En marchandage,
 t'es champion2\0ne toutes catégories !
 \0

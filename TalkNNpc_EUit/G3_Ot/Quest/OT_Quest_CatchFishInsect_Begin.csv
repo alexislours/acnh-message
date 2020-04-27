@@ -1,7 +1,7 @@
 ﻿"label","text"
 "003","(""촀\0Sapessi come vorrei avere 
 \02\0}촀!
-\0 (촀\0Purtroppo non riesco a prenderne 2촀unouna\0n"
+\0 (촀\0Purtroppo non riesco a prenderne 2촀unouna\0n"
 "003_a","(\0촀\0Vuoi che ti aiuti?"
 "003_b","(\0촀\0In bocca al lupo!"
 "004","(촀\0Che delusione!
@@ -10,11 +10,11 @@ ottima occasione di catturare
 2\0}촀n"
 "004_a","(\0촀\0Ti aiuto io?"
 "004_b","(\0촀\0Prima o poi ce la farai!"
-"008","(8촀\0Non sai quanto desidero 2\0}촀 2촀
+"008","(8촀\0Non sai quanto desidero 2\0}촀 2촀
 tutto
 tutta\0 per me! 
 \0Però 
-\0('촀\0è difficile catturarne 2촀unouna\0n"
+\0('촀\0è difficile catturarne 2촀unouna\0n"
 "008_a","(\0촀\0Vuoi una mano?"
 "008_b","(\0촀\0Non mollare!"
 "009","(촀\0Che peccato!
@@ -74,7 +74,7 @@ la questione. (7촀\0È interessanten\0\0
 al caso mio!"
 "021_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "021_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -95,7 +95,7 @@ potesse catturarne uno per men\0\0
 serve un coleotteron\0\0 Uno qualsiasi!"
 "022_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "022_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -113,7 +113,7 @@ tesoro.
 va bene, per me."
 "023_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "023_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -129,7 +129,7 @@ una? 
 farfalla qualsiasi mi renderà felice!"
 "025_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "025_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -146,7 +146,7 @@ ne prenderesti una, per favore?\0\0
 \0di una libellula qualsiasi."
 "026_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "026_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -163,7 +163,7 @@ potermi aiutare?\0\0
 fiore farà al caso mio!"
 "027_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "027_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -185,7 +185,7 @@ E avevo trovato l'esemplare perfetto!
 i ceppi degli alberi!"
 "028_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "028_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -208,7 +208,7 @@ sguazza 
 \0in una pozzanghera!"
 "031_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "031_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -224,7 +224,7 @@ per me.
 \0 (8촀\0Uno qualsiasi va benissimo!"
 "032_a","Ci penso io!
 Lascia fare a me!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "032_b","Devo dirti di no...
 Ora non posso.
 Scusa, non posso."
@@ -287,7 +287,7 @@ sono riuscita a catturare
 \0Mi chiedon\0\0 (&촀\0se tu voglia gentilmente
 catturarne un esemplare per me."
 "201_a","Certo, con piacere!"
-"201_b","Avrei un po' da fare..."
+"201_b","(\0촀\0Avrei un po' da fare..."
 "202","(촀\0Confesso
 \0 di aver provato di tutto!
 

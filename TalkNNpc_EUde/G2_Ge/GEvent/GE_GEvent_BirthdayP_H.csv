@@ -1,10 +1,9 @@
 ﻿"label","text"
 "001","(""촀\0Hey, 
 \0n\0!
-\0 (촀\0Darf ich
-dich mal eben kurz entführen?
-\0
-(9촀\0Frag nicht, komm einfach mit!"
+\0 (촀\0Darf ich dich mal eben kurz entführen?
+\0 (9촀\0Frag nicht, 
+\0komm einfach mit!"
 "002","(촀\0Na eeendlich! 
 \0Ich hab schon auf
 dich gewartet, 
@@ -74,7 +73,8 @@ Wo willst du denn hin?!
 \0
 (""촀\0Willst du nicht wenigstens die
 Kerzen auf der Torte auspusten?"
-"011","(&촀\0n\0? Was ist los?
+"011","(&촀\02\0n\0? 
+\0Was ist los?
 \0
 (촀\0Heute ist DEIN Tag! 
 \0Du musst erst
@@ -139,8 +139,8 @@ ich bin gleich wieder da!"
 \0
 deine Megaüberraschung?"
 "021","(촀\0Guck mal, 
-\0n\0,
-was da von der Decke baumelt...
+\0n\0,
+\0 was da von der Decke baumelt...
 \0
 (""촀\0Eine Piñata. 
 \0Von uns. 
@@ -265,15 +265,12 @@ nicht erst mal die Piñata aufkloppen?
 "100","(""촀\0Stell dich vor den Kuchen und
 drück \0\0￿, 
 \0n\0! 
-\0(3촀\0Wenn du es
-nicht tust, 
-\0dann du ich esn\0\0
-(촀\0Ell oh ell! 
+\0(3촀\0Wenn du es nicht tust, 
+\0dann tu ich esn\0\0\0\0(촀\0Ell oh ell! 
 \0(($촀\0Würd ich dir doch nie
 antun, 
 \0n\0. 
-\0Erst recht
-nicht an deinem Geburtstag!"
+\0Erst recht nicht an deinem Geburtstag!"
 "101","(촀\0Na los doch!
 \0 (촀\0Alle warten schon ge-
 spannt wie Flitzebogen darauf,
@@ -310,8 +307,7 @@ aber Geburtstagstorten schmecken
 "106","(촀\0Der heutige Tag gehört ganz allein
 dir, 
 \0n\0! 
-\0(촀\0Also lass uns
-Party machen, 
+\0(촀\0Also lass uns Party machen, 
 \0bis die Bude wackelt!"
 "107","(2촀\0Dir hat die Party als auch genauso
 viel Spaß gemacht wie mir?

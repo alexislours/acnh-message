@@ -16,7 +16,7 @@ darte la enhorabuena (촃\0por embarcarte
 en esta aventura.
 (!촀\0(!촃\0¡Gracias por apuntarte al Plan de
 Asentamiento en Islas Desiertas
-de Nook Inc.!
+de \0Nook Inc.\0￿!
 (\0촂\0(\0촃\0(촀\0Te esperan muchas sorpresas.\0\0(%촀\0Pero primero vamos a presentarnos:
 \0
 (""촂\0Yo soy \0Tendo\0￿,
@@ -101,13 +101,13 @@ a una isla desierta,
 "024","(
 촀\0Qué interesanten\0\0\0\0(촀\0¡Ah, perdona!
 \0 (2촀\0Obviamente solo
-era una pregunta hipotética.\0\0(촀\0(촃\0Te aseguramos que Nook Inc.
+era una pregunta hipotética.\0\0(촀\0(촃\0Te aseguramos que \0Nook Inc.\0￿
 cubrirá todas tus necesidades
 básicas en la isla."
 "025","d\0Atención, por favor.
 ( 촂\0( 촃\0Aviso para todos los pasajeros.
 <\0d"
-"025_01","d\0El vuelo de Nook Inc. para el Plan
+"025_01","d\0El vuelo de \0Nook Inc.\0￿ para el Plan
 de Asentamiento en Islas Desiertas
 está listo para embarcar.
 Se ruega a los pasajeros que se
@@ -143,7 +143,7 @@ explicarte,
 \0(%촂\0 pero primero vamos
 a presentarnos.
 (""촂\0Me llamo \0Tendo\0￿ y soy un empleado
-de Nook Inc."
+de \0Nook Inc.\0￿"
 "102","(%촂\0Ambos vivimos ya en n\0 y nuestra tarea es ayudar a los residentes como tú.
 (촂\0(촃\0Vamos a convivir todos juntos,
 \0 así
@@ -161,3 +161,6 @@ necesitamos!\0\0()촂\0Te enseñaremos la isla y todo lo
 que puedes hacer en ella(%촃\0 cuando
 estemos allí.(촂\0d\0
 \0(촃\0 \0K¡No te preocupes!\0dd"
+"203_02",""
+"203_03",""
+"203_04",""

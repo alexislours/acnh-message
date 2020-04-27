@@ -66,7 +66,7 @@ ya has recogido, oprime \0 \0￿para mirar
 lo que tienes en los \0bolsillos\0￿."
 "013","(촀\0¡Ah, ya volviste!
 \0
-¿Encontraste todas las \02\0ࠂ촆ramas\0￿?\0\0(%촀\0¡Estupendo, sí!
+Veo que encontraste todas las \02\0ࠂ촆ramas\0￿.\0\0(%촀\0¡Estupendo, sí!
 \0 Si me permites,
 me las quedaré yo."
 "013_01","Bueno, bueno, n\0n\0\0 (촀\0Ya veo que has encontrado todas las \02\0ࠂ촆ramas\0￿.\0\0(촀\0¿Oh? 
@@ -121,8 +121,10 @@ queremos tener para todos."
 pero, si sacudes el árbol con \0\0￿,
 2\0\0n촁 \0￿caerán al suelo.
 Luego l2촀oa\0s recoges oprimiendo \0\0￿."
-"031","(촀\0¡Muy bien! Sabía que harías este
-trabajo a la perfección. ¡Gracias!\0\0(촀\0Deja que yo guarde est2촂oa\0s \0n촁
+"031","(촀\0¡Muy bien!
+\0 Sabía que harías este
+trabajo a la perfección.
+\0 ¡Gracias!\0\0(촀\0Deja que yo guarde est2촂oa\0s \0n촁
 \0￿y empiece con los preparativos."
 "032","(
 촀\0Pues creo que ya tenemos todon\0\0
@@ -149,7 +151,7 @@ esta isla desierta enn\0\0(촀"
 no podemos seguir refiriéndonos
 a ella como una isla desierta.
 (&촀\0¿Qué nombre deberíamos ponerle?"
-"041_04","(촀\0¡Tengo una gran idea!\0\0(%촀\0Ya que son los primeros residentes
+"041_04","(%촀\0¡Tengo una gran idea!\0\0Ya que son los primeros residentes
 de la isla,
 \0 deberían ser ustedes los
 que elijan el nombre apropiado.
@@ -222,7 +224,7 @@ el primer día. 
 
 \0¡No sin antes brindar!"
 "045_04_02","(&촀\0Todos tienen su jarrita,
-\0 ¿no?\0\0(촀\0Es jugo de n촀, claro.
+\0 ¿no?\0\0(촀\0Es jugo de \0n촀\0￿, claro.
 \0
 ¡De fruta recién cosechada por
 nuestr2oa portavoz!"
@@ -252,8 +254,8 @@ is it 
 ¿no?
 \0 Ve a descansar un rato
 si lo necesitas.
-(촀\0Nosotros seguiremos aquí con la
-fogata encendida toda la noche."
+(촀\0Nosotros seguiremos aquí con
+la fogata encendida. Sí, sí."
 "051_01","(촀\0¿La estás pasando bien, n\0?\0\0(%촀\0Muchas emociones en un solo día,
 ¿no?
 \0 Ve a descansar un rato
@@ -271,21 +273,21 @@ te vayas, quiero darte esto."
 \0 No es muy
 agradable dormir en el suelo, así
 que ponlo en tu tienda, ¿sí?
-($촀\0Ah, en tu tienda también encontrarás
-unos paquetes con objetos de mucha
+($촀\0Ah, ahí también encontrarás unos
+paquetes con objetos de mucha
 utilidad.
 ()촀\0Para abrir un paquete y usar lo que
 está adentro, oprime \0\0￿.\0\0(%촀\0Y, cuando quieras dormir, muévete
 con la \0palanca izquierda () \0￿para
-recostarte en la cama."
+recostarte en el catre."
 "054","(촀\0Mañana nos espera un gran día,
 así que debemos recuperar fuerzas.\0\0(""촀\0¡Que descanses, n\0!"
 "055_01","(촀\0¿La estás pasando bien, n\0?\0\0(%촀\0Muchas emociones en un solo día,
 ¿no?
 \0 Ve a descansar un rato
 si lo necesitas.
-(촀\0Nosotros seguiremos aquí con la
-fogata encendida toda la noche."
+(촀\0Nosotros seguiremos aquí con
+la fogata encendida. Sí, sí."
 "055_02","(촀\0¿La estás pasando bien, n\0?\0\0(%촀\0Muchas emociones en un solo día,
 ¿no?
 \0 Ve a descansar un rato
@@ -310,7 +312,7 @@ Pues, ¡disfruta de la isla!"
 \0 No te cansas con
 facilidad.
 \0 ¡Pues que la pases bien!"
-"058","( 촀\0Ah, ven a verme antes de irte a
+"058","(%촀\0Ven a verme antes de irte a
 dormir, ¿sí?
 \0 (촀\0Quiero darte una cosa."
 "061","<"
@@ -326,7 +328,7 @@ Fácil, ¿sí?"
 "061_03","(촀\0Cuando estés list2oa para irte a dormir,
 \0
 muévete con la \0palanca izquierda ()\0￿
-hasta meterte en la cama."
+para meterte en el catre."
 "111_00","(촀\0¡Disculpa!
 \0 No vas a poder instalar
 la tienda de campaña si no la tienes.

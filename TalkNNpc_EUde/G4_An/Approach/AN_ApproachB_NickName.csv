@@ -13,11 +13,10 @@ Aber zurück zum Thema: 
 deinen neuen Spitznamen hören?"
 "001_a","Sag an!"
 "001_b","('촀\0Lass mal lieber."
-"002","(촀\0Da n\0 mittlerweile
-extremst ausgelutscht is', hab ich
-mir was Stabileres ausgedacht.
-(촀\0Wenn dich der neue Spitzname nich'
-von den Socken haut, ('촀\0will ich nich'
+"002","(촀\0Da n\0 mittlerweile extremst ausgelutscht is', 
+\0hab ich mir was Stabileres ausgedacht.\0\0(촀\0Wenn dich der neue Spitzname nich'
+von den Socken haut, 
+\0('촀\0will ich nich'
 länger n
 \0 heißen."
 "002_a","(\0촁\0Bin ein Flitzebogen!"
@@ -115,8 +114,7 @@ sync, wie ich dachte... 
 Anlauf sack ich die Lorbeeren ein."
 "105","(촀\0Hab ich 'nen Knoten im Gehörgang?
 
-\0('촀\02\0n\0 sag ich doch
-schon zu dir..."
+\0('촀\02\0n\0 sag ich doch schon zu dir..."
 "105_a","(%촀\0Hast es erfasst!"
 "105_b","(\0촁\0Hast dich verhört..."
 "106","(촀\02\0n\0?
@@ -132,10 +130,13 @@ der Stirn. 
 \0
 Wir finden schon noch was für dich!"
 "108","(촀\0Gahaha. 
-\0Knallharter Move,
-das muss ich dir lassen.\0\0((촀\0Aber gut, dein Wille is' mir Befehl.
-(""촀\0Wir bleiben bei n\0,
-n\0."
+\0Knallharter Move,
+\0
+das muss ich dir lassen.\0\0((촀\0Aber gut,
+\0 dein Wille is' mir Befehl.
+
+\0(""촀\0Wir bleiben bei n\0, 
+\0n\0."
 "109","(촀\0Alles klärchen! 
 \0Wenn ich von jetzt
 an n\0 in den Wind schrei, 
@@ -160,8 +161,9 @@ Gänseblümchen. 
 n\0."
 "201","(촀\0Is' ja gut.
 \0 Beiß mir nich' den Kopp
-ab, weil ich bei deinem geheimen
+ab, 
+\0weil ich bei deinem geheimen
 Fanclub auch einsteigen will...
 (
-촀\0Aber n\0 kann ich
-dich schon noch nennen, oder?"
+촀\0Aber n\0 kann ich dich schon noch nennen, 
+\0oder?"

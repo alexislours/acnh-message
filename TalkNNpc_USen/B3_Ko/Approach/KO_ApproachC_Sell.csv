@@ -8,8 +8,9 @@ my }\0\0?"
 "001_b","No, thanks."
 "002","(촀\0Hey, it's your lucky day. 
 \0I'm sellin'
-my }\0\0!\0\0(7촀\0Maybe you could find a use
-for it, eh?"
+my }\0\0!
+\0(
+(7촀\0Interested?"
 "002_a","(\0촀\0How much?"
 "002_b","No, thanks."
 "003","(촀\0Ah,
@@ -25,7 +26,7 @@ things.
 \0 Four things, to be precise.
 \0
 (3촀\0Anyway
-\0n\0\0wanna take a look?"
+\0n\0\0 Whaddaya think?"
 "003_a","(\0촀\0Sure, let's see."
 "003_b","No, thanks."
 "004","(7촀\0Hey, n\0.
@@ -37,32 +38,29 @@ I've got a situation heren\0\0
 촀\0Y'see, my brain goes (촀\0""BUY, BUY,
 BUY!"" whenever I come across
 2\0}\0\0.
-(촀\0So now I'm carryin' around five of
-these things, and I really oughta
-unload a few.
-(5촀\0This is where you come in, kiddo.
-\0
-You wanna take one off my hands?"
+(촀\0So now I own around five more of
+the things than I wanna.
+\0( (5촀\0This is
+where you come in, kiddo.\0\0(&촀\0Any chance you're on the market for
+2\0}\0\0?"
 "004_a","(\0촀\0How much?"
 "004_b","I'll pass."
 "005","(%촀\0No problemn\0\0I understand.
 \0
 (6촀\0Maybe next time!"
-"006","(촀\0Okey doke. 
+"006","(촀\0Okeydoke. 
 \0Guess I'll go see if
-anyone else needs one of these.
-\0
-(촀\0Gahaha!"
+anyone else is in need.
+\0 (촀\0Gahaha!"
 "007","(6촀\0Suit yourself.
 \0 Guess I'll go
 see if anyone else wants a
 great deal,
 \0 n\0!"
-"008","(촀\0Hmmn\0\0am I not sellin' it?
-\0 There's
-nothin' wrong with it, you know!
-\0
-(촀\0Gahaha!"
+"008","(촀\0Hmmn\0\0am I not sellin' you?
+\0 Well,
+your loss, I suppose.
+\0( (촀\0Gahaha!"
 "009","(촀\0Pleasure doin' business with—
 (촀\0Wait,
 \0 you don't got enough Bells?\0\0(촀\0Gaaah!

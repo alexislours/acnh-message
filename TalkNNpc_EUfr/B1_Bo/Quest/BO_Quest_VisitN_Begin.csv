@@ -7,18 +7,15 @@ c'est encore propre ?"
 "001_a","Bien sûr !"
 "001_b","Désolé2\0e, je peux pas."
 "002","(촀\0Hé, n\0 !
-\0 ($촀\0Ça te dirait
-de venir chez moi ?
-\0((6촀\0 J'ai plein de
-trucs à te montrer !"
+\0 ($촀\0Ça te dirait de venir chez moi ?
+\0((6촀\0 J'ai plein de trucs à te montrer !"
 "002_a","Je veux bien..."
-"002_b","Une autre fois."
+"002_b","(\0촀\0Une autre fois."
 "003","(
 촀\0J'ai très envie d'inviter un ami chez
 moin\0\0
 \0((\0촀\0 2\0n\0 !
-\0( Est-ce
-que tu veux venir ?"
+\0( Est-ce que tu veux venir ?"
 "003_a","Avec plaisir !"
 "003_b","Désolé2\0e..."
 "004","(촀\0Je voisn\0\0
@@ -142,13 +139,11 @@ des friandises,
 \0 vous papotez,
 \0 vous
 mangez d'autres friandisesn\0\0\0\0(촀\0J'ai trop envie de faire une fête
-chez moi !\0\0(4촀\0Dis, n\0, tu voudrais
-pas venir chez moi ?
-\0((;촀\0 Si tu es libre,
-bien sûrn\0\0
+chez moi !\0\0(4촀\0Dis, n\0, tu voudrais pas venir chez moi ?
+\0((;촀\0 Si tu es libre, bien sûrn\0\0
 \0(촀"
 "401_a","Avec plaisir !"
-"401_b","Une autre fois."
+"401_b","(\0촀\0Une autre fois."
 "402","Coucou, n\0 !
 \0(
 ()촀\0J'étais en train de penser à ma

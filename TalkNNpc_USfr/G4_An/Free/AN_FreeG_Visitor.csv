@@ -8,7 +8,7 @@ Quel fruit est la spécialité
 "001_b","Un de ceux-là?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(3촀\0T'as gagné cette manche. 
 \0()촀\0Tout juste,
 les n촁. 
@@ -50,10 +50,12 @@ bonheur dans tous ces articles!"
 "016","()촀\0Notre \0musée \0￿va être super!
 Y'a encore du boulot pour l'moment,
 mais un journ\0\0(촀\0 Ouais, un jour!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(""촀\0Quitte pas l'île sans visiter l'\0musée\0￿,
 c'est la fierté du coin!\0\0(촀\0Rien qu'en s'promenant autour, on
 s'sent plus cultivé. Et puis la façade
@@ -70,53 +72,45 @@ est parfaite pour s'prendre en photo."
 sans être passé2\0e au \0musée\0￿ voir
 2\0
 !"
-"101","<\0fi"
-"102","(촀\0J'vois qu'tu peux plus t'passer de
-nous. 
-\0(촀\0Mais c'est n\0
-qui t'manquait, ou moi?"
-"102_a","Toi, bien sûr!"
-"102_b","C'est l'île."
-"103","(촀\0Sans blague?
+"201","<\0ÊÒ"
+"202","(촀\0Tiens,
+\0 comme on s'retrouve!\0\0(촀\0T'es venu2\0e visiter n\0, ou t'es venu2\0e exprès pour me voir?"
+"202_a","Je suis venu2\0e te voir!"
+"202_b","Je viens voir l'île!"
+"203","(촀\0Pour vrai?
 \0 Tu sais, j'disais ça
-pour rigolern\0\0 (2촀\0mais ouah, ça m'fait
-plaiz!
-(%촀\0Si t'as besoin d'une bricole ou
+pour te niaisern\0\0 (2촀\0mais waouh,
+ça m'fait super plaisir!
+(%촀\0Si t'as besoin d'une patente ou
 d'un coup d'patte, fais-moi signe
 et j'débarquerai dans la seconde."
-"104","(촀\0Hé!
+"204","(촀\0Hé!
 \0 On t'a jamais appris à mentir,
 ou quoi?
 \0 (촀\0T'étais censé2\0e dire
-qu'c'était moi, n\0!
+qu't'étais là pour moi, n\0!
 (촀\0C'est vrai 2
-que qu'⁠n\0
-est super sympa, ceci dit. 
-\0(%촀\0En tout
-cas, tu manques à tout l'monde ici."
-"105","(촀\0Oh, mais c'est n\0!
-\0
-(&촀\0Comment ça va? 
-\0Ton nouveau
-quartier te plaît?"
-"106","<"
-"106_01","(&촀\0Tu t'es fait des copains parmi tes
-voisins?
-\0 (촀\0Quelle question, bien
-sûr qu'ils t'adorent tous!
-(%촀\0T'as juste à pointer ta p'tite face
+que qu'⁠n\0, c'est l'paradis, ceci dit. 
+\0($촀\0C'est cool d'être passé2\0e dans le coin."
+"210","(촀\02\0n\0! 
+\0(%촀\0Ça va? 
+\0Tout se passe bien à n	\0?"
+"211","<"
+"211_01","(&촀\0Tu t'entends toujours aussi bien avec
+toute la gang?
+\0 (촀\0Bah, pour ça, j'te fais
+confiance!
+(%촀\0T'as juste à montrer ta p'tite face
 et tout l'monde est sous l'charme!
 \0
 C'est l'effet n\0!"
-"106_02","(촀\0T'as planté des fleurettes là-bas?
-\0
-(촀\0Traite-les bien, et elles te l'rendront
-au centuple, n\0!"
-"106_03","($촀\0Y'a des insectes ou d'la poiscaille
-bizarre par là-bas? 
-\0(
-촀\0J'parie qu'y'a des
-bestioles qu'on a jamais vues icin\0\0
-(촀\0J'te vois bien t'balader et ouvrir des
-soucoupes énormes d'vant chaque
-bébêten\0\0 (6촀\0C'est tout à fait toi!"
+"211_02","(촀\0T'as planté des nouvelles fleurettes
+là-bas?
+\0 (촀\0Traite-les bien, et elles te
+l'rendront au centuple!"
+"211_03","Moi, j'ai vraiment du fun icin\0\0
+\0(9촀\0 mais
+j'te cacherai pas qu'il m'arrive de
+repenser au bon vieux temps.\0\0(7촀\0Un d'ces jours, j'aimerais bien aller
+vous dire un p'tit bonjour pour voir
+c'qui a changé, n\0n"

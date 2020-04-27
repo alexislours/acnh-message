@@ -6,6 +6,18 @@ cioèn\0\0(촀\0 Sì, sarebbe un sogno!\0\0(촀\0Voglio dire, qualsiasi
 ci sei tu sarebbe un sogno!\0\0(5촀\0Vado subito al \0centro servizi
 \0￿a chiedere se c'è posto per me,
 n\0!"
+"003","(
+촀\0Mmmmhn\0\0 Mi tenti troppo con
+quest'offerta. 
+\0Sai cosa?\0\0L'ultima volta ho detto no, 
+\0(촀\0ma questa
+ti dico di sì! 
+\0Mi trasferirò qui. 
+\0(5촀\0Cioè,
+i miei fan hanno bisogno di me!
+(촀\0Ora non mi resta che presentare
+il mio bel musetto al \0centro servizi
+\0￿e assicurarmi che siano d'accordo."
 "101","<"
 "101_01","(촀\0Eh?!
 \0 Allucinante!
@@ -54,16 +66,18 @@ sicura. (촀\0
 dici, n\0?"
 "201_01_a","OK!"
 "201_01_b","No, grazie."
-"201_02","(촀\0Eh?
-\0 Allucinante! Su quest'isola?!
-\0
+"201_02","(촀\0Eh? 
+\0Allucinante! 
+\0Su quest'isola?!
+\0
 (7촀\0Cioè, potrebbe essere da paura,
 ma ci devo pensaren\0\0
-(촀\0Senti qua!
-\0 Facciamo un gioco e se
-vinci tu, io mi trasferisco. 
-\0Cosa te ne
-pare, n\0?"
+(촀\0Senti qua! 
+\0Facciamo un gioco e se
+vinci tu, 
+\0io mi trasferisco. 
+\0Cosa te
+ne pare, n\0?"
 "201_02_a","Perfetto!"
 "201_02_b","No, grazie. Passo."
 "201_03","(촀\0Allucinante! 
@@ -139,27 +153,31 @@ messi in fatto di moda?
 Devo andare a casa a fare le valigie!
 (촀\0
 \0Ci divertiremo una cifra, vedrai!
-(
-촀\0Anzi no, aspetta. Volevo chiederti,
-
-\0(&촀\0tu ti chiami n\0, vero?"
+( 촀\0Anzi no, 
+\0aspetta!
+\0 (촀\0Dimenticavo che
+prima devo chiedere al \0centro servizi
+\0￿se posso, cioè, vivere qui."
 "206_02","(촀\0Mitico! Hai vinto!
 \0 Mi trasferisco qua!
 (2촀\0Ho perso al gioco, ma ho vinto
 un'isola! Cioè, non proprio, man\0\0
 (
 촀\0Senti, man\0\0
-\0 quanto siete legati
-a 'sto nome,
-\0 ""⁠n!\0""?\0\0($촀\0Sai cosa?
-\0 Ne riparliamo quando sarò
-venuta qua in pianta stabile. (촀\0
-\0Intanto
-vado a casa a fare valigie e scatoloni!
-(
-촀\0Ma prima volevo saperen\0\0 
-\0(&촀\0tu sei
-n\0, giusto?"
+\0 quanto siete legati a 'sto nome,
+\0 ""⁠n!\0""? 
+\0Perché pensavo a qualche cambiamento en\0\0\0\0(
+촀\0Oh! 
+\0Ehmn\0\0
+\0( ()촀\0Beh, ne riparliamo dopo,
+OK? 
+\0Prima devo sapere dal \0centro
+servizi \0￿se posso stabilirmi qui.
+(촀\0Ero, cioè, troppo emozionata all'idea
+di trasferirmi, 
+\0che quasi dimenticavo
+di sbrigare tutta la roba burocratica!
+(촀\0Mi rifaccio viva tra un po'."
 "206_03","( 촀\0Ho perso?
 \0(촀\0 Sì! Ho perso!
 \0(촀\0 Il mio piano
@@ -179,9 +197,14 @@ da sfoggiare ai talk show! 
 
 \0(촀\0OK,
 \0 vado a preparare 'sto trasloco!
-(%촀\0Anzi, prima mi presento: sono n
-\0. 
-\0(&촀\0Tu invece sei n\0, no?"
+(촀\0Sì, vabbèn\0\0 Prima devo chiedere
+al \0centro servizi\0￿ se posso venire
+a vivere qui!
+\0 Ma che testan\0\0
+(촀\0Scusa, eh! 'Sta storia ha preso
+una piega inaspettata. 
+\0Ti faccio
+sapere presto, n\0."
 "302","(촀\0Brutte notizie. 
 \0Pessime!
 \0 (촀\0Le peggiori
@@ -192,12 +215,12 @@ E mi hanno detto che se anche mi
 trasferissi,
 \0 non ci sarebbe posto
 dove costruire la mia casan\0\0
-(촀\0Ma mi serve la casa! 
-\0Ci faccio pratica
-di danza.
-\0 E altre cose tipo guardarci
-la TV.
-\0 Capisci, n\0!?
+(촀\0Però a me serve una casa! 
+\0Ci faccio
+pratica di danza.
+\0 E altre cose tipo
+guardarci la TV, 
+\0capisci?
 (
 촀\0Ma al \0centro servizi\0￿ dicono pure che,
 \0
@@ -250,11 +273,15 @@ buona fortuna, n\0!"
 un'altra volta, n\0."
 "309","()촀\0Ho chiesto 2\0 s촀 come mi avevi suggerito en\0\0(촀\0 cioè, mi ha risposto di sì!\0\0()촀\0Ha detto che all'isola serve troppo
 una musicista famosa, 
-\0(;촀\0ma 2촀luilei\0 non
+\0(;촀\0ma 2촀luilei\0 non
 può occuparsenen\0\0\0\0(촀\0E se ne sta andando, quindi io mi
-trasferirò superpresto! 
-\0Sarà una
-cosa allucinante, n\0!"
+trasferirò superpresto!\0\0($촀\0OK, ora veniamo alla parte migliore
+del mio repertorio:
+\0 le presentazioni!
+
+\0Io sono n
+\0n\0\0
+(&촀\0E tu ti chiami n\0, no? (촀\0Ho la sensazione che staremo troppo bene insieme!"
 "310","(촀\0Mmmh,
 \0 in realtà non hai proprio
 nessuno in mente, n\0?"
@@ -267,48 +294,27 @@ subito a chiedere!"
 \0 Ero troppo contentan\0\0
 
 \0(촀\0Beh, sarà per un'altra volta!"
-"402","(8촀\0Cioè, è strano. E non strano in senso
-buono.
-\0 È strano STRANO. 
-\0()촀\0Ho parlato
-con il \0centro servizi\0￿n\0\0
-(촀\0A quanto pare, qualcuno uguale a
-me vive già sull'isola.
-\0 (촀\0Quindi hanno
-detto che non posso trasferirmin\0\0\0\0(촀\0Ma che regola senza senso è?!
-\0
-(
-촀\0Qualcuno copia il mio stile e IO non
-posso vivere dove voglio?
-\0 BUUUH!
-(\0촀\0(촀\0Beh, n\0, è stato bello. 
-\0Magari la prossima volta andrà meglio, n\0!"
-"403","(8촀\0Ho parlato con il \0centro servizi \0￿e
-senti 'sta pinzonan\0\0
-\0 ( 촀\0'sta panzana
-che mi hanno sparato!
-(;촀\0Non posso trasferirmi qui perché
-già sta per farlo qualcuno che mi
-somiglia. (촀\0
-\0COOOSA?! 
-\0Ma cioèn\0\0\0\0(촀\0Innanzitutto, 
-\0Io sono qui adesso.
-Quel qualcuno no. (
-촀\0
-\0E poi, che modo
-assurdo è di scegliere gli abitanti?!\0\0(9촀\0E se un giorno due indossano
-la stessa maglietta? 
-\0Ne buttano
-uno su un aereo e adios?!
-()촀\0Sto prendendo lezioni di recitazione
-a casa e non siamo ancora arrivati
-alla rabbia totale, man\0\0(	촀\0
-\0 GRRRRRRn\0\0
-(촀\0Beh, non è colpa tua se non hai
-un sosia. 
-\0Dai,
-\0 forse un giorno
-riusciremo a diventare 2vicinivicine."
+"313","(촀\0Evviva! Ero certa che mi potevi aiutare!
+\0 (&촀\0Èn\0\0 s촀? 
+\0(\0촀\0Scommetto che è s촀.\0\0(7촀\0Cioè, al \0centro servizi\0￿ mi hanno
+fatto il suo nome quando ci sono
+stata.
+(4촀\0Quindi,
+\0 insomma, 
+\0ti va bene se parlo 2\0 s촀 riguardo al trasloco?"
+"313_a","Assolutamente!"
+"313_b","No, non farlo."
+"314","(촀\0Oh,
+\0 uh, 
+\0OK. Immagino che sia un
+""no"" megagalattico da parte tua.\0\0(촀\0Sono un po' triste, ma va bene.
+
+\0()촀\0Sai come si dicen\0\0 quando cala un
+sipario, se ne leva un altro.
+Da qualche parte, in qualche modo,
+
+\0(촀\0farò il mio ingresso trionfale,
+n\0!"
 "404","Cioè, 
 \0(촀\0ho parlato con quelli del \0centro
 servizi\0￿ e ho cattive notizien\0\0\0\0( 촀\0Beh, n!\0 è piena.
@@ -321,27 +327,23 @@ detto che sono piccola. 
 \0 (촀\0Chissà, forse
 un giorno troveremo un modo di
 diventare 2vicinivicine, n\0."
-"405","(8촀\0Ugh, il \0centro servizi \0￿dice che non
-c'è più posto per costruire nuove
-case sull'isola.
-()촀\0Ho risposto che potrei costruire una
-casa sull'albero o scavare un tunnel,
-\0
-oppure che potrei vivere in barca.
-(6촀\0Ho detto che l'avrei chiamata così:
-\0
-""Barca Belle Storie""n\0\0\0\0(촀\0Purtroppo mi hanno ribattuto che
-la gente qua non può vivere su
-una barca, capito?
-(촀\0E vabbè!
-\0 Magari un giorno le leggi
-marittime diventeranno meno rigide
-dalle tue parti, n\0."
-"406","($촀\0Grazie una cifra per avermi aspettata, n\0!
-\0 (8촀\0Cioè, sono stata al \0centro servizi \0￿quin\0\0\0\0(촀\0E inevitabilmente dicono che sono
+"406","($촀\0Grazie una cifra per avermi
+aspettata!
+\0 (8촀\0Cioè, sono stata
+al \0centro servizi \0￿quin\0\0\0\0(촀\0E inevitabilmente dicono che sono
 troppo la benvenuta! 
 \0(촀\0Chiamo subito
-i miei fan ad aiutarmi con il trasloco!"
+i miei fan ad aiutarmi con il trasloco!
+(
+촀\0Ah, ma prima sarà meglio pensare
+alle presentazionin\0\0
+\0 Il mio nome è
+n
+\0, n\0!
+E tu ti chiami n\0,
+\0 dico bene? 
+\0((촀\0Sarò la tua nuova vicina, 
+\0non è sconvolgente?"
 "410","(8촀\0Cioè, ma tu dici chen\0\0
 \0 forse dovrei
 chiedere di nuovo al \0centro servizi\0￿?
@@ -359,25 +361,6 @@ si può e devo accettarlo da adulta.
 (촀\0Ma va troppo bene piangere quando
 serve!
 \0 E a me serve, n\0!"
-"421","(8촀\0Cioè, 
-\0non riesco a credere che ci sia
-già una diva troppo adorabile e quasi
-identica a me sulla tua isola.
-(3촀\0Non sapete che vi perdeten\0\0
-\0 (5촀\0Beh,
-grazie lo stesso e peccato per te che
-ti sia andata buca, n\0!"
-"422","(촀\0Noooo! C'è già una diva mitica come
-me che sta per trasferirsi qui! 
-\0(3촀\0Vorrei
-troppo farci una gara di canton\0\0
-(3촀\0Cioè, 
-\0le farei cambiare idea a colpi
-di ugola, n\0!\0\0(촀\0Aaah, non importa, 
-\0però peccato
-che non se ne faccia niente. 
-\0(촀\0Grazie
-lo stesso dell'invito, n\0!"
 "423","(촀\0La tua isola deve essere troppo
 trendy,
 \0 se è così piena di abitanti da
@@ -390,12 +373,6 @@ pop star di supermegasuccesso!
 con tutta la gente che vive qui!
 \0
 (촀\0Compra già il biglietto, n\0!"
-"424","(7촀\0Quest'isola deve essere troppo
-adorata come una vera diva,
-\0 se sta
-addirittura finendo lo spazio!
-(촀\0Cioè, n\0, grazie dell'invito. 
-\0Spero che questo sia solo un arrivederci, n\0."
 "504","()촀\0Quando faccio campeggio su
 quest'isola capitano robe mitiche!
 \0

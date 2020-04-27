@@ -1,32 +1,31 @@
 ﻿"label","text"
 "000_01","d\0(촀\0Hallo n\0!
-\0 Het is nu Z\0:Z\0.d"
+\0 Het is nu Z\0:Z\0 uur.d"
 "000_02","d\0(\0촀\0Heeft iedereen tot nu toe 
 \0(&촀\0een leuke
 dag gehad?\0\0(촀\0Jullie doen toch niet te veel, hm?
 \0(촀\0 Denk erom dat je af en toe je rust
 pakt, ja, ja!d"
 "001","d\0(촂\0Hallo iedereen.
-\0 Hier is \0Tom Nook\0￿,
-\0(\0촂\0 met het eilandnieuws van Z!\0 op n\0 Z\0 Z\0 Z\0.(촂\0d"
+\0 Tot jullie spreekt
+\0Tom Nook\0￿!(\0촂\0
+\0 Het is nu Z!\0 uur op n\0 Z\0 Z\0 Z\0.(촂\0d"
 "002","d\0Hallo iedereenn\0\0
 \0 Hier is \0Tom Nook\0￿
-\0 met het eilandnieuws van Z\0:Z\0 op 
-\0 n\0
-\0 Z\0 d\0Z\0d, Z\0.\0\0Dit is een extra late uitzending voor
+\0 met het eilandnieuws van Z\0:Z\0 uur op 
+\0n\0
+\0 Z\0 Z\0 Z\0.\0\0Dit is een extra late uitzending voor
 de nachtdieren onder ons!d"
 "003","d\0(촀\0Hallo allemaal!
 \0 (촀\0De allerbeste wensen
 voor het nieuwe jaar!
 \0 (촀\0Dat het maar
 een opperbest jaar mag worden!(\0촀\0
-Het is vandaag n\0 Z\0 Z\0 Z\0, en de tijd is Z!\0.d"
+Het is vandaag n\0 Z\0 Z\0 Z\0 en de tijd is Z!\0 uur.d"
 "004","d\0(촀\0Hallo, allemaal, hier spreekt \0Tom
 Nook\0￿!
-\0(\0촀\0 Het is Z\0:Z\0 n\0 op
-n\0,
-\0 Z\0 Z\0, Z\0.
-(촀\0Ahd\0n\0\0d
+\0(\0촀\0 Het is Z\0:Z\0 uur op n\0
+Z\0 Z\0 Z\0.\0\0(촀\0Ahn\0\0
 \0(%촀\0 Dat betekent dat er weer een
 nieuw maanjaar aanbreekt!\0\0(촀\0Ik wens jullie allemaal veel geluk en
 voorspoed in het komende jaar!
@@ -34,17 +33,17 @@ voorspoed in het komende jaar!
 "005","d\0(+촀\0Hallo, allemaal! 
 \0Tom Nook hier!
 \0
-\0KBrrrn\0\0 Wat is het koudn\0\0\0d\0\0(+촀\0Het is n\0
-\0 Z\0:Z\0 
-\0op Z\0 Z\0 Z\0,
+\0KBrrrn\0\0 Wat is het koudn\0\0\0d\0\0(+촀\0Het is
+\0 Z\0:Z\0 uur 
+\0op n\0 Z\0 Z\0 Z\0
 \0 en mijn snorharen vriezen er bijna afn\0\0\0\0(촀\0Ik ga echter alsnog het nieuwsbericht
 verzorgen. Deze kou krijgt mij niet
 zomaar klein! Mooi niet! Nee, nee!d"
 "010","d\0(촂\0Hallo, allemaal!
 \0 Hoe gaat het met
-jullie op deze prachtige dag?\0\0(\0촂\0Het is nu Z\0:Z\0
-\0 (촀\0en ik dacht: laat ik
-een uitzending maken.
+jullie op deze prachtige dag?\0\0(\0촂\0Het is nu Z\0:Z\0 uur
+\0 (촀\0en ik dacht: laat
+ik een uitzending maken.
 \0 Dus dat ik
 doe ik zomaar eventjes!d"
 "011_01","d\0(촀\0Het is vandaag toevallig ook de
@@ -72,16 +71,28 @@ verjaardag! Ja, ja!d"
 "021","d\0(9촀\0(촃\0Dit is het nieuws van vandaagn\0\0d"
 "022","d\0(9촂\0(촃\0En er is nog meer nieuwsn\0\0d"
 "031","d\0Enn\0\0d"
-"101","d\0(촀\02\0n\0 heeft er vandaag een nieuwe bewoner bij: s촀!d"
+"041_01","d\0(촀\0O!
+\0 \0Konijnendag \0￿is in aantocht!
+\0(촀\0\0\0(%촀\0Deze feestdag lijkt vaak samen te
+vallen met een verandering van het
+weer.\0\0(촀\0Maar toch word ik er ieder jaar weer
+door overvallen.d"
+"041_02","d\0(촀\0Vandaag is het \0Konijnendag\0￿!
+\0((촀\0 En
+daarom
+\0 hebben we een wel heel
+speciale gast die met ons meeviert.\0\0Ik hoop dat iedereen even langsgaat
+bij het plein (""촀\0om hem te begroeten.d"
+"101","d\0(촀\0n\0 heeft er vandaag een nieuwe bewoner bij: s촀!d"
 "102","<"
-"102_01","d\0(%촀\0Ik hoop dat jullie 2촀hemhaarze veel leren over
+"102_01","d\0(%촀\0Ik hoop dat jullie 2촀hemhaarze veel leren over
 het eilandleven!(촀\0d"
-"102_02","d\0(%촀\0Als je 2촀hemhaarze toevallig tegenkomt,
+"102_02","d\0(%촀\0Als je 2촀hemhaarze toevallig tegenkomt,
 \0 geef
-2촀hemhaarze dan een warm welkom!(촀\0d"
-"102_03","d\0(%촀\0Ik weet zeker dat 2촀hijzeze het druk 2""촀zalzalzullen
-hebben met uitpakken, dus ga er
-eens langs!(촀\0d"
+2촀hemhaarze dan een warm welkom!(촀\0d"
+"102_03","d\0(%촀\0Ik weet zeker dat 2촀hijze\0 het druk 2촀zalzal\0
+hebben met uitpakken, dus ga eens
+bij d\02촀hemhaar\0d langs!(촀\0d"
 "200","d\0En dan nun\0\0 het volgende
 onderwerp!d"
 "201","d\0(촀\0Vandaag gaat s촀
@@ -152,9 +163,9 @@ paar zoeken nu het nog kan!\0\0(촀\0Ik hoop dat jullie allemaal genieten
 van deze late herfstsfeer!(촀\0d"
 "612_02_01","d\0(촀\0
 \0O!d"
-"612_02_02","d\0(촀\0Ik zal naar jullie \0doe-het-zelf\0￿app een
-plan sturen voor het maken van een
-\0herfstfeestboompje\0￿!d"
+"612_02_02","d\0(촀\0Ik zal naar jullie \0Doe-het-zelf\0￿-app
+een plan sturen voor het maken van
+een \0herfstfeestboompje\0￿!d"
 "612_03","d\0(%촀\0Ik raad iedereen van harte aan leuke
 herfstdecoraties te doe-het-zelven
 om het eiland mee te versieren!(촀\0d"
@@ -169,7 +180,7 @@ mouwen en maak er wat moois
 van, deze herfst!d"
 "613_02_01","d\0(촀\0
 \0O!d"
-"613_02_02","d\0(촀\0Gebruikers van de \0doe-het-zelf\0￿app
+"613_02_02","d\0(촀\0Gebruikers van de \0Doe-het-zelf\0￿-app
 hebben nu een nieuw plan voor een
 \0paddenstoelenkrans\0￿!
 \0 Veel plezier!d"
@@ -204,7 +215,7 @@ wordt al warm bij de gedachte!(촀\0d"
 "615","d\0(+촀\0Vandaag is weer zo'n koude dag dat
 je het tot diep in je botten kunt
 voelenn\0\0\0\0(촀\0Maar het is wel het perfecte weer om
-om op het eiland een \0Sneeuwknul\0￿ te
+op het eiland een \0Sneeuwknul\0￿ te
 maken!\0\0()촀\0Als er buiten sneeuw ligt, kan het
 voorkomen dat je grote sneeuwballen
 tegenkomt.(\0촀\0\0\0(촀\0Door deze sneeuwballen te rollen
@@ -233,7 +244,7 @@ bloesems geniet zolang ze er zijn.(촀\0d"
 "617_02_01","d\0(촀\0
 \0O!d"
 "617_02_02","d\0(%촀\0Ik heb een nieuw plan naar jullie
-\0doe-het-zelf\0￿app gestuurd voor een
+\0Doe-het-zelf\0￿-app gestuurd voor een
 leuke \0picknickset\0￿.(촀\0\0\0(촀\0Wat is er nou beter dan dat je van
 een lekkere lunch geniet terwijl je
 tussen de kersenbloesems zit?d"
@@ -248,7 +259,7 @@ geoogst kan worden?d"
 \0O!d"
 "618_02_02","d\0(%촀\0De \0jonge lentebamboe\0￿ kunnen jullie
 gebruiken voor het nieuwe plan in de
-app voor een \0noedelwaterglijbaan\0￿.(촀\0
+app voor een \0bamboewaterglijbaan\0￿.(촀\0
 (촀\0Poeh, wat een mond vol!
 \0 Voor dit
 doe-het-zelfplan is maar eens per
@@ -259,10 +270,10 @@ doe-het-zelfprojecten!
 \0(촀\0 Ja, ja!d"
 "701","d\0Trouwens, beste bewonersn\0\0d"
 "702","<"
-"702_01","d\0(촀\0Vergeten jullie niet om je \0Paspoort-\0￿
+"702_01","d\0(촀\0Vergeten jullie niet om je \0Paspoort\0￿-
 app van tijd tot tijd op te starten?\0\0()촀\0We raden je aan om je \0foto\0￿, \0titel \0￿en
 \0bericht\0￿ af en toe bij te werken, voor
-als je een ander eiland bezoekt.\0\0(촀\0De informatie die in je Paspoortapp
+als je een ander eiland bezoekt.\0\0(촀\0De informatie die in je Paspoort-app
 staat, kan dienen als gespreksstof,
 dus zorg dat je er gebruik van maakt!d"
 "702_02","d\0Hebben jullie het \0NookStation\0￿ bij de
@@ -283,12 +294,12 @@ andere bewoners niet nodig hebben
 en daarom voor anderen achterlaten.(촀\0\0\0(%촀\0Er kunnen schatten van andere
 bewoners in zitten, dus zorg dat je
 hem af en toe controleert.(촀\0d"
-"703","d\0(촀\0Ik ga nu wat informatie delen over
+"703","d\0(촀\0Ik vertel jullie graag wat meer over
 de prachtige dingen die je kunt
 krijgen via \0Nooks milesprogramma\0￿.d"
 "704","<"
-"704_01","d\0(\0촀\0Vandaag wil ik het hebben overn\0\0
-
+"704_01","d\0(\0촀\0Mijn aanbeveling van vandaag
+betreftn\0\0 
 \0\0(촀\0speciale ontwerpen\0￿!\0\0(%촀\0""\0Speciaal ontwerp\0￿"" is een geüpdate
 versie van de \0Eigen ontwerp\0￿-app.(촀\0\0\0()촀\0De update stelt je in staat om
 kleuren professioneler aan te passen
@@ -298,17 +309,17 @@ speciale ontwerpen ontvangen en
 gebruiken, maarn\0\0\0\0(촀\0n\0\0als je zelf ontwerpen wilt maken,
 kun je overwegen de update aan te
 schaffen.d"
-"704_02","d\0(\0촀\0Vandaag wil ik de handleiding
-\0(촀\0 ""\0Sterk
-gereedschap maken\0￿"" met jullie
-bespreken!\0\0()촀\0Zoals de titel al verraadt, bevat het
+"704_02","d\0(\0촀\0Mijn aanbeveling van vandaag is
+de handleiding
+\0(촀\0 ""\0Sterk gereedschap
+maken\0￿""!\0\0()촀\0Zoals de titel al verraadt, bevat het
 plannen voor sterk gereedschap dat
 een stuk minder snel breekt.(촀\0
 (%촀\0Als je je breekbare gereedschap
 wilt vervangen,
 \0(촀\0 is het slim om met
 wat miles deze handleiding te kopen.d"
-"704_03","d\0(\0촀\0Vandaag wil ik het hebben over de
+"704_03","d\0(\0촀\0Mijn aanbeveling van vandaag is de
 handleidingn\0\0
 \0(촀\0 ""\0De gereedschapsring
 rond\0￿""!\0\0(\0촀\0Zijn jullie al gewend aan het
@@ -324,26 +335,25 @@ instellen
 \0Ik raad dit voorwerp aan voor
 wie snelle toegang tot allerlei
 gereedschap wilt.d"
-"704_04","d\0(\0촀\0Vandaag wil ik aandacht besteden
-aan de handleidingn\0\0
-\0 (촀\0""\0Orde op
-zakken\0￿""!\0\0(\0촀\0Hoe langer je ergens woont, hoe
+"704_04","d\0(\0촀\0Mijn aanbeveling van vandaag is de
+handleidingn\0\0
+\0 (촀\0""\0Orde op zakken\0￿""!\0\0(\0촀\0Hoe langer je ergens woont, hoe
 meer dingen je vergaart. Dat is op
 dit eiland ook het gevaln\0\0\0\0Hebben we luisteraars onder ons(&촀\0 die
 zich nogal overbeladen voelen?
 \0(%촀\0 Dan
 is dit je geluksdag!\0\0()촀\0Zodra je de technieken uit deze
-handleiding meester bentn\0\0d\0(촀\0d kun je
+handleiding meester bentn\0\0(촀\0 kun je
 nóg meer spul in je zakken kwijt.\0\0(촀\0
 \0Opgeruimd staat netjes!
 \0 (%촀\0Ik hoop dat
 iedereen de handleiding aanschaft.
 \0
 Een schoon leven is een beter leven!(촀\0d"
-"704_05","d\0(\0촀\0Weet je, soms heb ik gewoon zin om
-te praten overn\0\0
-\0(촀\0 \0kapsels\0￿ en
-\0haarkleuren\0￿!\0\0()촀\0Wist je dat handleidingen zoals
+"704_05","d\0(\0촀\0Op sommige dagen heb ik gewoon
+zin om overn\0\0
+\0(촀\0 \0kapsels\0￿ en \0haarkleuren\0￿
+te praten!\0\0()촀\0Wist je dat handleidingen zoals
 ""\0Top 8 van populaire kapsels\0￿"" veel
 ideeën voor haarstijlen bevatten?(촀\0
 (%촀\0Met meubels zoals een \0make-uptafel\0￿
@@ -392,8 +402,7 @@ doe-het-zelfprojecten, hm?\0\0()촀\0Als je nog niets hebt gemaakt,
 \0 ben je
 welkom bij de servicebalie voor een
 gratis \0workshop\0￿!(촀\0d"
-"799","d\0(""촀\0Dat was voorlopig het nieuws!
-Tot ziens!d"
+"799","d\0(""촀\0Dat was het voor nu! Tot ziens!d"
 "800","d\0(촀\0Er is vandaag vrij weinig nieuws, dus
 \0
 zal ik jullie wat tips geven voor het

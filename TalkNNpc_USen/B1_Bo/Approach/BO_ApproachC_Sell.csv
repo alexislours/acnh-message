@@ -5,10 +5,11 @@ outta nowheren\0\0
 my }\0\0?"
 "001_a","(\0촀\0How much?"
 "001_b","I think I'm good."
-"002","(촀\0Whaddaya think about this thing
-here I wanna sell you?
-\0(촀\0
-2\02\0}\0\0!"
+"002","(촀\0
+\0Whaddaya think about buying
+stuff from me?
+\0((촀\0 'Cause I wanna
+sell my }\0\0!"
 "002_a","(\0촀\0Have a price in mind?"
 "002_b","I'll pass."
 "003","(2촀\0Son\0\0
@@ -16,9 +17,10 @@ here I wanna sell you?
 tryin' to get a hold of,
 \0 but I'm too
 short—
-\0(on Bells, I mean...(\0촀\0\0\0Soooo, I'm tryin' to sell some of my
+\0(on Bells, I meann\0\0(\0촀\0\0\0Soooo, I'm tryin' to sell some of my
 stuff. 
-\0Ya know, things that aren't toon\0\0finger-printyn\0\0
+\0Ya know, things that aren't
+toon\0\0fingerprint-yn\0\0
 \0(촀\0
 \0or broken.\0\0(&촀\0Wanna buy something maybe? I got
 four things for ya to check out!"
@@ -29,16 +31,16 @@ four things for ya to check out!"
 2\0}\0\0
 \0
 and I dunno why.\0\0()촀\0Anyway,
-\0 I already got onen\0\0(&촀\0 So I
-was wondering if you'd maybe buy
-this one from me?"
+\0 I already had 2\0
+}\0\0n\0\0(&촀\0 Want
+my extra?"
 "004_a","(\0촀\0How much?"
 "004_b","I'm good without."
 "005","( 촀\0Oh.
 \0 Ummn\0\0 OK.
 \0 It's cool. I'll ask
 around and see if anybody else
-wants it, then."
+is interested, then."
 "006","(\0촀\0No worries.(촀\0
 \0 There's a buncha folks
 I can ask.
@@ -50,11 +52,11 @@ other folks.
 \0 Maybe I'll have better
 luck that way, n\0."
 "008","(\0촀\0Ah, that's cool.
-\0 Maybe I can return
-itn\0\0
+\0 Maybe they take
+returnsn\0\0
 \0 Huh. (
-촀\0I hope I bought a receipt
-too. Hmmn"
+촀\0I hope I bought a
+receipt too. Hmmn"
 "009","(촀\0Neat, 
 \0thank you!
 \0( (촀\0But you don't got

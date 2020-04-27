@@ -101,18 +101,21 @@ muy prácticas para subir desniveles."
 dónde construirla.\0\0(촀\0Usa el \02\0ā촃kit de rampa \0￿que
 te dejé en los bolsillos para
 reservar un terreno."
-"205","(\0촀\0Para usarla necesitas un espacio
+"205","(\0촀\0Para usarlo necesitas un espacio
 amplio que esté cerca de la \0base
 de un desnivel\0￿.
 (촀\0También podrás ver cómo quedará
 tu nueva rampa, ¿sí?"
-"206","(촀\0¡Estupenn\0\0!
-\0 (&촀\0O quizás no tanto.
+"206","(촀\0¡Estupenn\0\0
+\0!
+\0 (&촀\0O quizás no tanto.
 \0
-(촀\0Ahora mismo no tienes más espacio
+(촀\0Ahora mismo no tienes espacio
 en los bolsillos, n\0.
-(촀\0Necesitas una \02\0ā촃kit de rampa\0￿ para reservarle un terreno
-a la nueva rampa.\0\0(촀\0Sé tan amable de hacer un poco
+(촀\0Necesitas un \02\0ā촃kit de rampa\0￿ para
+reservarle un terreno a la nueva
+rampa.
+(촀\0Sé tan amable de hacer un poco
 de espacio y luego vuelve a hablar
 conmigo, ¿sí?"
 "207","(촀\0¿Has cambiado de parecer?
@@ -139,8 +142,7 @@ al máximo el espacio que nos ofrece
 nuestra excelente isla.
 (촀\0Pero las operaciones de demolición
 cuestan Z\0n"
-"302","(
-촀\0Nuestra isla aún no tiene ni puentes
+"302","(촀\0Nuestra isla aún no tiene ni puentes
 ni rampas,
 \0 (촀\0así que no hay nada que
 se pueda demoler.
@@ -210,7 +212,7 @@ de la demoliciónn\0\0
 (""촀\0Vuelve cuando hayas reunido
 los fondos necesarios, ¿sí?"
 "401","(촀\0¡Ah, n\0!
-\0 Estás buscando un lugar para 2*촀el nuevola nueva\0 }\0\0, ¿sí?\0\0(&촀\0¿Y cómo puedo ayudarte?"
+\0 Estás buscando un lugar para 2*촀el nuevola nueva\0 }\0\0, ¿sí?\0\0(&촀\0¿Y cómo puedo ayudarte?"
 "401_a","¿Cómo se hace eso?"
 "401_b","No quiero construir"
 "401_c","Ahora, de ninguna forma"
@@ -233,21 +235,22 @@ es accidentado, no servirá para nada.
 (촀\0Ahora ya sabes todo lo que hay
 que saber sobre la construcción
 de puentes."
-"402_01","(\0촀\0Hay unas cuantas cosas que
-debes tener en cuenta a la hora
-de encontrar el lugar adecuado.
-(촀\0Se parece mucho a instalar una
-tienda de campaña. 
-\0Voy a hablarte de la \02\0ā촃kit de rampa \0￿que te di.
-()촀\0Lo que tienes que hacer es encontrar
-un lugar en la \0base de un desnivel⁠\0￿n\0\0 (촀\0
-\0¡e instalar la rampa!
-\0\0(%촀\0Ya con encontrar un lugar así y que
-sea espacioso, es suficiente.\0\0(촀\0Ahora ya sabes todo lo que hay
+"402_01","(\0촀\0Hay un par de cosas que debes
+tener en cuenta a la hora de elegir
+el lugar adecuado.
+()촀\0Necesitas encontrar un espacio
+amplio en la \0base de un desnivel⁠\0￿.\0\0(촀\0Cuando hayas elegido el lugar,
+\0
+¡instala el \02\0ā촃kit de rampa \0￿que te di!\0\0(
+촀\0Es muy parecido a poner una tienda
+\0
+de campaña (촀\0y con eso ya tienes
+mucha experiencia.
+(%촀\0Ahora ya sabes todo lo que hay
 que saber sobre la construcción
 de rampas."
 "403","(촀\0¡Qué ganas de ver dónde
-estará nuestr2촀oa\0 2촀
+estará nuestr2촀oa\0 2촀
 nuevo
 nueva\0 }\0\0⁠!"
 "404","(&촀\0¿Mmm?
@@ -260,7 +263,7 @@ búsqueda de un lugar apropiado para
 2\0}\0\0!"
 "501","(촀\0Ahn\0\0
 \0 ahora estamos recaudando
-fondos para construir 2,촀un nuevouna nueva\0
+fondos para construir 2,촀un nuevouna nueva\0
 }\0\0.
 Por eso no estamos discutiendo
 otros asuntos, pero
@@ -270,7 +273,7 @@ en mente?"
 "501_b","Nada, nada..."
 "502","(촀\0¿Cómooo?
 \0 ¿Que quieres parar
-la construcción de nuestr2촀oa\0 nuev2촀oa\0
+la construcción de nuestr2촀oa\0 nuev2촀oa\0
 }\0\0?
 (촀\0¡Eso significa que las donaciones
 que hemos recaudado hasta ahora
@@ -289,7 +292,7 @@ está en el lugar de la obra.
 "603","(촀\0Ah, ¿quieres hablar sobre puentes
 o rampas?\0\0(%촀\0Verás, ahora mismo no aceptamos
 nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados con
-la construcción 22촀del nuevode la nueva\0
+la construcción 22촀del nuevode la nueva\0
 }\0\0.
 (촀\0Ya hemos recaudado los fondos
 necesarios para proceder y todo
@@ -299,7 +302,7 @@ haya finalizado, ¿sí?"
 "604","(촀\0Ah, ¿quieres hablar sobre puentes
 o rampas?\0\0(%촀\0Verás, ahora mismo no aceptamos
 nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados cancelando
-la construcción 22촀del nuevode la nueva\0
+la construcción 22촀del nuevode la nueva\0
 }\0\0.
 (촀\0Terminaremos mañana.
 \0 (""촀\0Hablamos

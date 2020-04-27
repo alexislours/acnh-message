@@ -1,6 +1,7 @@
 ﻿"label","text"
 "001","(
-촀\0Weißt du, was... Du brauchst einen
+촀\0Weißt du, wasn\0\0
+\0 Du brauchst einen
 Spitznamen. 
 \0Was meinst du?
 \0 (5촀\0Ich
@@ -18,7 +19,7 @@ nennt dich in letzter Zeit
 s\0촀.
 (&촀\0Hättest du was dagegen, wenn ich
 dich auch so nenne?"
-"003_a","(\0촀\0Nur zu!"
+"003_a","Nur zu!"
 "003_b","(\0촀\0Wehe!"
 "004","(촀\0Ich hatte grad 'ne Glanzidee...
 (촀\0Ich ruf dich ab jetzt mit einem
@@ -33,13 +34,11 @@ Spitznamen für dich. 
 "005_a","(\0촀\0Lass hören."
 "005_b","Danke, nein."
 "006","(7촀\0Also, ist nicht so, als wär ich
-neidisch auf die anderen, aber...\0\0()촀\0Mir ist aufgefallen, dass dich in
-letzter Zeit viele s\0촀
-nennen.
-(&촀\0Hättest du was dagegen, wenn ich
-auch unter die „s\0촀“-
-Sager gehe?"
-"006_a","(\0촀\0Nur zu!"
+neidisch auf die anderen, aber...\0\0()촀\0Mir ist aufgefallen, 
+\0dass dich in
+letzter Zeit viele s\0촀 nennen.\0\0(&촀\0Hättest du was dagegen, wenn ich
+auch unter die „s\0촀“-Sager gehe?"
+"006_a","Nur zu!"
 "006_b","(\0촀\0Sei nicht albern."
 "100","Also...
 \0(5촀\0 Pass auf...
@@ -73,7 +72,7 @@ Monate handeln.
 n\0 benutzen?"
 "105_a","Ja, bitte!"
 "105_b","Nee, warte mal..."
-"106","($촀\0n\0 soll ich dich also
+"106","($촀\02\0n\0 soll ich dich also
 nennen? 
 \0Hast du dir das gut
 überlegt?"

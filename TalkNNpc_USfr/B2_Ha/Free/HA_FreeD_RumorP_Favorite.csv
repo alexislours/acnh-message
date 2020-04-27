@@ -55,10 +55,9 @@ quelques coups de moun\0\0\0\0(&촀\0Toi,
 (%촀\0Tout à fait, oui."
 "010_05_b","('촀\0Non, ce n'est plus le cas."
 "010_101","(&촀\0Ton type de 촀 préféré,
-\0
-c'est toujoursn\0\0
+\0 c'est toujoursn\0\0
 \0 « ⁠
-촀 »?"
+촀 ⁠»?"
 "010_101_a","(%촀\0C'est toujours ça, oui.
 (%촀\0Tout à fait!"
 "010_101_b","('촀\0Non, ce n'est plus le cas."
@@ -68,7 +67,7 @@ tu m'avais suggéré d'essayern\0\0
 « ⁠
 촀 ».\0\0(&촀\0Tu n'as pas changé d'avis,
 \0 c'est
-toujours 21촀tonta\0 촀 2(1촀préférépréférée\0,
+toujours 22촀tonta\0 촀 2(2촀préférépréférée\0,
 n\0?"
 "010_102_a","(%촀\0C'est bien ça, oui.
 (%촀\0Toujours, oui."
@@ -175,7 +174,8 @@ venir, n\0n"
 \0 et j'ai mentionné le tienn\0\0\0\0(4촀\0Moi?
 \0 Champion 2
 de d'⁠촀n\0\0
-\0 ou entraîneur de 촁.
+\0 ou entraîneur 2
+de d'촁.
 \0 ('촀\0J'arrive pas à décider, n\0n"
 "011_104","(6촀\0Je le savais!
 \0 2\0n촀 et moi avons discuté de passe-temps en nous échauffant,
@@ -199,7 +199,7 @@ peut-être confondu, n\0."
 n'a pas pu s'empêcher d'entendre
 ce que tu disais,
 \0 l'autre journ"
-"030_01","(%촀\0Ton type de 촀 préféré21촀\0e\0,
+"030_01","(%촀\0Ton type de 촀 préféré22촀\0e\0,
 \0 c'est vraiment 2\0촀?"
 "030_01_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait!"
@@ -207,7 +207,7 @@ ce que tu disais,
 ('촀\0Ah, pas vraiment, non."
 "030_02","(&촀\0Alors, comme ça,
 \0 c'est vraiment
-2\0촀, 21촀tonta\0 촀 2(1촀préférépréférée\0?"
+2\0촀, 22촀tonta\0 촀 2(2촀préférépréférée\0?"
 "030_02_a","(%촀\0C'est bien ça, oui.
 (%촀\0Tout à fait!"
 "030_02_b","('촀\0Non, c'est plus le cas.
@@ -229,26 +229,24 @@ que t'adorais 촀.
 "030_04_b","('촀\0Non, c'est plus le cas.
 ('촀\0Ah, pas vraiment, non."
 "030_05","(&촀\0Hé!
-\0 C'est vrai que t'es super fort2
-촀\0e\0
+\0 C'est vrai que t'es super fort2촀\0e\0
 pour 촀, n\0?"
 "030_05_a","(%촀\0C'est vrai, oui.
 (%촀\0Tout à fait."
 "030_05_b","('촀\0Non, c'est plus le cas.
 ('촀\0Ah, pas vraiment, non."
-"030_101","(9촀\0Ton type de 촀 préféré21촀\0e\0,
+"030_101","(9촀\0Ton type de 촀 préféré22촀\0e\0,
 \0 (&촀\0c'est bienn\0\0
 \0 « ⁠
-촀 »?"
+촀 ⁠»?"
 "030_101_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait!"
 "030_101_b","('촀\0Non, c'est plus le cas.
 ('촀\0Ah, pas vraiment, non."
-"030_102","(&촀\0Alors, 21촀tonta\0 촀 2(1촀préférépréférée\0,
+"030_102","(&촀\0Alors, 22촀tonta\0 촀 2(2촀préférépréférée\0,
 \0 c'est vraimentn\0\0
-\0
-« ⁠
-촀 »?"
+\0 « ⁠
+촀 ⁠»?"
 "030_102_a","(%촀\0C'est bien ça, oui.
 (%촀\0Tout à fait!"
 "030_102_b","('촀\0Non, c'est plus le cas.
@@ -264,7 +262,7 @@ pour 촀, n\0?"
 ('촀\0Ah, pas vraiment, non."
 "030_104","(%촀\0Hé!
 \0 Il paraît que t'adores, je cite : « ⁠
-촀 »n\0\0
+촀 ⁠»n\0\0
 \0 (&촀\0C'est vrai ça, n\0?"
 "030_104_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
@@ -306,17 +304,14 @@ digne de ce nom!\0\0(5촀\0Moi aussi,
 pas trop chargée en entraînements,
 \0
 je pars 촀!"
-"031_05","(%촀\0C'est cool de savoir super bien
-촀.
-\0 (촀\0J'en attendais pas moins de 2H
-촀mon grand rival ma grande rivale\0!"
+"031_05","(%촀\0Savoir 촀, c'est cool.
+\0 (촀\0J'en attendais pas moins de 2Bmon grand rival ma grande rivale!"
 "031_101","( 촀\0Alors ça!
 \0 C'est quand même fou,
 n\0!
 \0 (촀\0Moi aussi, j'adore ça!\0\0()촀\0Si tu veux discuter 촀, fais-moi signe!
-\0 (5촀\0Je suis un champion
-en « ⁠
-촀 »."
+\0 (5촀\0Je suis un champion en « ⁠
+촀 ⁠»."
 "031_102","(촀\0Hm! T'as bien raison, y'a rien
 de meilleur!\0\0( 촀\0Tu t'es déjà retrouvé2\0e en manque
 de « ⁠
@@ -379,8 +374,7 @@ juste comment faut s'y prendre,
 \0 pour
 촀, n\0.\0\0(촀\0J'espère que tu me feras une petite
 démonstration,
-\0 si t'es si doué2
-촀\0e\0 que
+\0 si t'es si doué2촀\0e\0 que
 ça pour 촀!"
 "032_101","(8촀\0Bon franchement,
 \0 je m'y connais pas
@@ -1060,7 +1054,7 @@ dans quel sport, n\0?\0\0(
 de d'⁠촁n\0\0
 \0 ou 2
 de d'⁠촂?
-\0 (촀\0Comment choisir?!"
+\0 (촀\0Trop de choix!"
 "103_10","( 촀\0Aller au gym?
 \0 (촀\0Ha,
 \0 je le savais!
@@ -1300,7 +1294,7 @@ sera fini,
 (2촀\0Moi,
 \0 j'oublie sans arrêt des trucs.
 \0 Tu
-devrais me filer deux-trois conseilsn\0\0\0\0(\0촀\0Et sinonn\0\0
+devrais me filer deux, trois conseilsn\0\0\0\0(\0촀\0Et sinonn\0\0
 \0 (&촀\0c'était quoi,
 \0 tu m'as dit,
 \0

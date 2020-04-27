@@ -9,7 +9,7 @@ qu'il y a, mais pas moyen d'attraper
 2\0}촀..."
 "004_a","(\0촀\0Laisse-moi t'aider!"
 "004_b","(%촁\0N'abandonne pas!"
-"008","(4촀\0J'aimerais bien avoir 24촀un mignonune mignonne\0 petit2촀\0e\0 }촀n\0\0 pour 2촀lela\0 regarder nager chez moi..."
+"008","(4촀\0J'aimerais bien avoir 24촀un mignonune mignonne\0 petit2촀\0e\0 }촀n\0\0 pour 2촀lela\0 regarder nager chez moi..."
 "008_a","(\0촀\0Je m'en occupe!"
 "008_b","(%촁\0Bon courage!"
 "009","(8촀\0J'hallucine, j'arrive pas à pêcher 2\0}촀!
@@ -64,7 +64,7 @@ Tu pourrais en trouver un pour moi?
 "021_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","(&촀\0Tu y arrives, toi, à attraper des
@@ -80,7 +80,7 @@ steuplè?"
 "022_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","(8촀\0Comment qu'c'est, n\0? \0PC'est ce que disent mes copains, sur une autre île...\0d\0\0(촀\0Bref. Tu aurais pas une cigale? Elle
@@ -94,7 +94,7 @@ une cigale, s'il te plaît?"
 "023_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","(촀\0Je sais pas ce que j'ai, je fais une
@@ -109,7 +109,7 @@ lequel fera l'affaire."
 "025_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(촀\0Les libellules, c'est quand même
@@ -118,19 +118,14 @@ quelque chose, hein?
 une de ces grâces!\0\0('촀\0Mais ces froussardes fichent le camp
 dès 2
 que qu'⁠n
-\0 approche
-avec ses grosses pattes!\0\0(4촀\0Dis n\0, tu pourrais
-essayer d'en attraper une pour moi,
-steuplè?"
+\0 approche avec ses grosses pattes!\0\0(4촀\0Dis n\0, tu pourrais essayer d'en attraper une pour moi, steuplè?"
 "026_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
-"027","(4촀\02\0n\0, tu tombes
-bien! Je peux te demander
-un service?\0\0(촀\0J'essaie d'attraper un insecte qui se
+"027","(4촀\02\0n\0, tu tombes bien! Je peux te demander un service?\0\0(촀\0J'essaie d'attraper un insecte qui se
 pose sur une fleur, mais y a toujours
 que des pétales dans mon filetn\0\0\0\0(\0촀\0Du coup, c'est pas très sympa pour
 la fleur non plus.(&촀\0 Tu pourrais attraper
@@ -138,7 +133,7 @@ un insecte qui aime les fleurs?"
 "027_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","(촀\0
@@ -165,7 +160,7 @@ souche?"
 "028_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","(&촀\0Je t'ai parlé de ma nouvelle passion
@@ -175,13 +170,11 @@ fait, c'est LE truc à la mode!
 (촀\0Le seul tout petit inconvénient, c'est
 que pour en pêcher un, il faut rester
 immobilen\0\0
-\0 Nan mais genre!\0\0(%촀\0C'est là que tu interviens,
-n\0! (촀\0Tu peux pêcher
-un poisson de rivière pour moi?"
+\0 Nan mais genre!\0\0(%촀\0C'est là que tu interviens, n\0! (촀\0Tu peux pêcher un poisson de rivière pour moi?"
 "031_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","(촀\0Les poissons de mer, tu en penses
@@ -195,13 +188,13 @@ qui vit dans la mer?"
 "032_a","Je m'en occupe!
 OK!
 Bien sûr!"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(""촀\0Je peux te demander un mini service, n\0?\0\0(촀\0Tu vois, ça fait au moins mille heures (촀\0que j'essaie d'attraper 2\0}촀...
 \0\0\0(촀\0Mais toi, je sais que tu es super
 doué2\0e pour çan\0\0(%촀\0 Tu crois que tu
-pourrais m'en trouver 2촀unune\0?"
+pourrais m'en trouver 2촀unune\0?"
 "101_a","(%촁\0Bien sûr!"
 "101_b","('촁\0J'ai pas trop le temps."
 "102","(촀\0J'y crois pasn\0\0
@@ -240,8 +233,8 @@ des heures à essayer de pêcher
 \0 Snifn\0\0
 \0
 (촀\0Je sais paaas faiiiiiire!"
-"202_a","Je m'en occupe."
-"202_b","Allez, tu vas y arriver!"
+"202_a","(\0촀\0Je m'en occupe."
+"202_b","(\0촀\0Allez, tu vas y arriver!"
 "203","(촀\0Oh, trop cool! 
 \0Merci tout plein,
 

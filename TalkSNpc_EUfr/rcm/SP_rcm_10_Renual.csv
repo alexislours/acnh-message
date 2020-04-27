@@ -1,6 +1,9 @@
 ﻿"label","text"
-"002_02","(촀\0À bientôt dans ta \0Boutique Nook \0￿!
-\0((\0촀"
+"002_02","(촀\0N'hésite pas à nous rendre visite
+aussi souvent que tu le désires.
+\0(($촃\0
+d\0
+\0\0KLa \0Boutique Nook\0￿ est là pour toi !\0dd"
 "002_03","( 촀\0Mais,
 \0 ne te soucie pas de nousn\0\0 (촀\0Tu
 étais en train de regarder cet article."
@@ -147,19 +150,22 @@ boutique,
 \0 c'est longn\0\0(%촀\0 Mais on se
 revoit dans deux jours !
 \0(촀"
-"151","(촀\0Bien le bonjour !\0\0(촀\0Et bienvenue dans notre nouvelle
-nouvelle boutique !\0\0(\0촀\0C'est vraiment sympa de passer nous
+"151","(촀\0Bien le bonjour !\0\0(촃\0(촀\0Et bienvenue dans notre nouvelle
+nouvelle boutique !\0\0(\0촀\0(\0촃\0C'est vraiment sympa de passer nous
 voir le jour de la réouverturen\0\0
-($촀\0Merci !
+($촀\0Merci !(촃\0
 \0 \0KMille fois !\0d"
-"151_01","(촀\0Bien le bonjour, n\0 !
+"151_01","(촀\0Bien le bonjour, (촃\0n\0 !
 \0(
 (%촀\0C'est la première fois que tu passes
 depuis la réouverture,
-\0 non ?\0\0(\0촀\0Comme tu peux le voir, 
-\0($촀\0c'est plus
+\0 non ?\0\0(\0촀\0(\0촃\0Comme tu peux le voir, 
+\0($촀\0(촃\0c'est plus
 grand qu'avant !"
-"152","(촀\0À bientôt dans ta \0Boutique Nook \0￿!
+"152","(촀\0N'hésite pas à nous rendre visite
+aussi souvent que tu le désires.
+
+\0La \0Boutique Nook \0￿est là pour toi !
 \0((\0촀"
 "152_01","( 촀\0Mais,
 \0 ne te soucie pas de nousn\0\0 (촀\0Tu

@@ -3,7 +3,7 @@
 "100_01","(촀\0Oh,
 \0 merci n\0 !
 \0
-J'ai toujours rêvé d'en avoir 2촀unune\0 !"
+J'ai toujours rêvé d'en avoir 2촀unune\0 !"
 "100_02","(촀\0Merveilleux !
 \0 C'est exactement ce
 dont je rêvais, n\0 !"
@@ -23,6 +23,10 @@ de l'hospitalité."
 "103","(1촀\0Je me demande quel emplacement
 je vais lui donnern\0\0 (촀\0J'ai hâte de
 procéder aux essais !"
+"104","\0(
+촀\0Hmm, j'ai l'impression d'avoir déjà vu
+celan\0\0 Mon imagination débridée me
+jouerait-elle encore des tours ?\0￿"
 "111","(촀\0Il aurait sans doute plus sa place
 chez un collectionneurn\0\0(%촀\0 mais je
 tâcherai d'en prendre grand soin."
@@ -80,16 +84,12 @@ par ton talent, n\0 !"
 \0
 C'est drôle, on voit tout de suite que
 c'est un cadeau que tu as choisi !(촀"
-"222","(촀\0Merci, n\0, j'apprécie
-beaucoup le geste.($촀\0 Et je suis sûre
-que je finirai par m'y faire !"
+"222","(촀\0Merci, n\0, j'apprécie beaucoup le geste.($촀\0 Et je suis sûre que je finirai par m'y faire !"
 "301","($촀\0Merci pour ce cadeau pour le moins
 pragmatique.
 \0 J'en ferai bon usage !"
 "302","(2촀\0Merci, 
-\0n\0. Je me
-disais justement que je devrais
-essayer ce genre de chose."
+\0n\0. Je me disais justement que je devrais essayer ce genre de chose."
 "303","(%촀\0Cela me sera sans doute utile un de
 ces jours. 
 \0Merci, n\0 !"
@@ -117,7 +117,7 @@ beaucoup,
 "405","(촀\0Merci, n\0.
 \0 Voilà qui
 sera du plus bel effet chez moi !"
-"406","(촀\0C'estn\0\0 C'est vraiment 2\0}\0\0 tout ce qu'il y a de plus 2$촀vivantvivante\0 ?!"
+"406","(촀\0C'estn\0\0 C'est vraiment 2\0}\0\0 tout ce qu'il y a de plus 2$촀vivantvivante\0 ?!"
 "407","(
 촀\0Voilà un cadeau pour le moins
 original.

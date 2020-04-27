@@ -4,7 +4,7 @@ nouvelles sources d'inspiration
 en m'ennuyant sévère, n\0.
 (촀\0Ah, mais la voilà ma nouvelle idée !
 \0
-Jouons à quelque chose.\0\0(6촀\0Si tu gagnes, tu empoches 2F촀mon divinissimema divninissime\0 }\0\0 !\0\0Alors, qu'est-ce que tu en dis ?"
+Jouons à quelque chose.\0\0(6촀\0Si tu gagnes, tu empoches 2F촀mon divinissimema divninissime\0 }\0\0 !\0\0Alors, qu'est-ce que tu en dis ?"
 "001_a","OK !"
 "001_b","Plus tard, peut-êtren"
 "002","(촀\0Chouette ! 
@@ -53,7 +53,9 @@ l'amertume de la défaite.
 \0(촀\0par un gros
 plan sur ton visage défiguré par
 l'anticipation !\0\0('촀\0Ah, non, coupez, ça ne va pas du
-tout, là !\0\0(촀\0Comment pourrais-je te donner 2\0}\0\0 si tes poches sont déjà pleines ?\0\0Voilà le marché : toi, tu fais le tri,
+tout, là !\0\0(촀\0Comment pourrais-je te donner
+ta récompense si tes poches sont
+déjà pleines ?\0\0Voilà le marché : toi, tu fais le tri,
 et moi(1촀\0n\0\0 Eh bien moi, j'attends ici !
 "
 "100","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes, et chacune
@@ -80,7 +82,7 @@ C'était du (촀\0촀 !
 "200","()촀\0Alors, voilà comment ça marchen\0\0\0\0(%촀\0J'ai quatre cartes en \0♥\0￿, \0♦\0￿,\0 \0￿\0♠ \0￿ou\0 ♣\0￿.
 Il n'y a pas deux fois le même signe.\0\0()촀\0Moi, je prends une carte, et toi,
 tu essaies de deviner sa couleur.\0\0(촀\0Donc, si tu me dis \0rouge\0￿, et que ma
-carte est du \0♥ \0￿ou du \0♦\0￿, tu gagnesn\0\0\0\0Et tu empoches 2@촀mon magnifiquema magnifique\0 }\0\0. (<촀\0Bien, il n'y a plus qu'à essayern"
+carte est du \0♥ \0￿ou du \0♦\0￿, tu gagnesn\0\0\0\0Et tu empoches 2@촀mon magnifiquema magnifique\0 }\0\0. (<촀\0Bien, il n'y a plus qu'à essayern"
 "201","(3촀\0Voilà, j'ai pris une carten\0\0\0\0(&촀\0De quelle couleur est-elle ?
 \0
 \0Rouge\0￿n\0\0 ou \0noire\0￿ ?"

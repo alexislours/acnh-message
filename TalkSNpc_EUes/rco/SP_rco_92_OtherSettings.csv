@@ -4,6 +4,11 @@
 \0 así que los niños
 deberían contar con la ayuda de sus
 padres o tutores.(촀"
+"002","Hola, n\0.
+\0 Aquí tramitamos solicitudes importantes sobre los ajustes.\0\0()촀\0Esto es cosa seria,
+\0 así que los niños
+deberían contar con la ayuda de sus
+padres o tutores.(촀"
 "010_01","(9촀\0Quedas avisad2oa, ¿sí?"
 "010_02","(9촀\0Y ya te he dado toda la información
 importante al respecto, ¿sí?"
@@ -19,6 +24,15 @@ ayudarte?"
 "012_a","Borrar datos de residente"
 "012_b","Oír la explicación"
 "012_c","Nada, ahí te quedas"
+"020","A ver, ¿con qué tipo de ajustes
+necesitas que te ayude?"
+"020_a","Datos de guardado"
+"020_b","NookLink"
+"020_c","Con ninguno por ahora"
+"021","(촀\0¿Quieres que te ayude con los
+ajustes de los datos de guardado?
+\0
+¡Ningún problema!"
 "051","(촀\0Claro, claro, lo entiendo.
 \0 En tal caso,
 vamos a volver a la pantalla
@@ -52,14 +66,14 @@ quieras, pero voy a tardar un poco,
 presta suma atención para poder
 decidir con criterio."
 "062_01","()촀\0Aquí los insulanos podéis pedirme
-que borre vuestros datos
-de residente.
+que borre vuestros datos de
+residente.
 (9촀\0En otras palabras,
 \0 \0borraré los datos
-de guardado de tu personaje\0￿
-en \0Animal Crossing: New Horizons\0￿.\0\0(촀\0No es posible borrar los datos de
-guardado de un solo jugador en
-la configuración de la consola.
+de guardado de tu personaje\0￿ en
+\0Animal Crossing: New Horizons\0￿.\0\0(촀\0No es posible borrar los datos
+de guardado de un solo jugador
+en la configuración de la consola.
 ()촀\0Por eso, si lo que quieres es borrar
 todo rastro de tu paso por esta isla,
 \0
@@ -81,17 +95,17 @@ y sus millasn\0\0\0\0Así como los recuerdos suyos que
 tengamos tanto yo como los demás
 residentes.
 (
-촀\0Ahora mismo los datos de s\0촀 no están vinculados a un perfil de usuario en esta consola.\0\0Por eso no aparece en la isla.\0\0()촀\0Pero si hay alguien cuyo perfil de
+촀\0Los datos de s\0촀 no están vinculados ahora mismo a un perfil de usuario en esta consola.\0\0Por eso no aparece en la isla.\0\0()촀\0Pero si hay alguien cuyo perfil de
 usuario no esté registrado como
 residente en la islan\0\0\0\0(%촀\0podrá reutilizar los datos de s\0촀 y registrarse bajo ese nombre."
 "064_01","()촀\0Para borrar los datos de un residente
-hay que venir a hablar conmigo.\0\0(9촀\0Me refiero a borrar los \0datos
-de guardado de un jugador \0￿de
-\0Animal Crossing: New Horizons\0￿.\0\0(촀\0No es posible hacerlo en la
-configuración de la consola.\0\0()촀\0Así que, si quieres borrar todos
-los datos de un único residente de
-la isla,
-\0 ven a verme, ¿sí?"
+hay que venir a hablar conmigo.\0\0(9촀\0Me refiero a borrar todos los \0datos
+de guardado\0￿ de \0un solo jugador\0￿
+de \0Animal Crossing: New Horizons\0￿.\0\0(촀\0No es posible hacerlo en la
+configuración de la consola.\0\0()촀\0Así que, si quieres borrar los datos
+de un único residente de la isla,
+\0
+ven a verme, ¿sí?"
 "064_02","(9촀\0Ahora me vas a permitir que te
 explique lo que implica borrar
 los datos de un residente, ¿sí?
@@ -115,10 +129,10 @@ del juego!
 (9촀\0Para ello, abre el menú HOME
 y accede a la \0configuración de
 la consola\0￿.\0\0Desde allí selecciona \0Gestión de
-datos \0￿y, después, \0Borrar datos de
-guardado\0￿.
+datos \0￿y, después, \0Borrar datos
+de guardado\0￿.
 (9촀\0Selecciona el programa
-\0Animal Crossing: New Horizons\0￿n\0\0\0\0y, por último, la opción \0Borrar todos
+\0Animal Crossing: New Horizons\0￿n\0\0\0\0y, por último, la opción \0Borrar todos
 los datos de guardado de este
 programa\0￿.\0\0()촀\0Ten presente que con este método
 no puedes borrar los datos de
@@ -137,7 +151,7 @@ la consola\0￿.\0\0Desde allí selecciona \0Gestión de
 datos \0￿y, después, \0Borrar datos
 de guardado\0￿.
 (9촀\0Selecciona el programa
-\0Animal Crossing: New Horizons\0￿n\0\0\0\0y, por último, la opción
+\0Animal Crossing: New Horizons\0￿n\0\0\0\0y, por último, la opción
 \0Borrar todos los datos de
 guardado de este programa\0￿.
 ()촀\0Ten presente que con este método

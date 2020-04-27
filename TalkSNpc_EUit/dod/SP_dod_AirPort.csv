@@ -9,13 +9,14 @@ l'\0aeroporto\0￿ di n	\0!
 \0Dodobaldo\0￿, controllore di volo
 della Dodo Airlines.
 Dodo Airlines: 
-\0((촀\0il personale potrebbe
-anche non saper volare man\0\0
-\0(촀\0 sarai
-tu a farlo!"
+\0((촀\0dove il personale
+resta a terran\0\0
+\0(촀\0 per garantirti un
+volo liscio come l'olio!"
 "001_01","(%촀\0Se vuoi visitare un'altra isola oppure
-invitare qualcuno su questa, questo
-è il posto giusto."
+invitare qualcuno su questa, 
+\0sei nel
+posto giusto."
 "001_02","(%촀\0Se ti va di visitare un'altra isola,
 invitare amici qui o fare un viaggio
 a sorpresa, sei nel posto giusto!"
@@ -31,12 +32,13 @@ di biglietti sull'\0espositore\0￿!"
 \0(&촀\0n\0, no?\0\0(촀\0Sai, l'isola è piccola
 \0((촀\0 e le voci girano
 in fretta. Volano! (촀\0Eh eh eh!"
-"001_03_02","\0Tom Nook\0￿ mi ha dato un \0coupon
-miglia di Nook \0￿con su scritto
+"001_03_02","()촀\0\0Tom Nook\0￿ mi ha dato un \0coupon
+miglia di Nook \0￿con sopra scritto
 ""n\0"".
-Quindi, se vuoi usare questo coupon,
-ti basta dirmi: ""\0Vorrei partire.\0￿"" Tutto
-chiaro?"
+(촀\0Se vuoi usarlo, ti basta pronunciare
+le parole magiche ""\0Vorrei partire.\0￿""
+
+\0Chiaro, no?"
 "001_03_03","(%촀\0Abbiamo parecchi servizi qui, 
 \0(촀\0ma
 solo per gli abitanti dell'isola.\0\0()촀\0Si può anche abitare in una tenda,
@@ -51,9 +53,9 @@ parecchio da fare con i tuoi amici.
 quando ti pare
 \0 se vuoi visitare
 un'altra isola o invitare qui qualcuno!"
-"001_04","(\0촀\0Vediamon\0\0 
-\0((&촀\0Devi dirmi qualcosa,
-n\0?"
+"001_04","(\0촀\0Benen\0\0 
+\0((&촀\0Posso aiutarti in qualche
+modo, n\0?"
 "001_04_a","Vorrei partire."
 "001_04_b","(\0촀\0Vorrei ricevere visite."
 "001_04_c","('촀\0Non mi serve nulla."
@@ -74,37 +76,37 @@ qualcosa?"
 "003_c","No, niente."
 "005","-촀\0
 \0Ricevuto!"
-"005_01","(촀\0Sappi che ho qui un \0coupon miglia
-di Nook \0￿a nome tuo. Puoi usarlo
-quando vuoi. 
-\0(&촀\0Cosa vorresti fare?"
+"005_01","(촀\0Ti ricordo che ho qui un \0coupon
+miglia di Nook \0￿a nome tuo. 
+\0Puoi
+usarlo quando vuoi."
 "005_02","(촀\0Mi pare che tu abbia già un \0coupon
-miglia di Nook\0￿ a tuo nome, nel caso
-tu voglia usarlo. 
-\0(&촀\0Cosa vuoi fare?"
-"006_01","(\0촀\0Alloran\0\0 giusto per mettere tutte le
-carte in ordine, sain\0\0 (&촀\0cosa vuoi
-fare?"
+miglia di Nook\0￿ a tuo nome, 
+\0nel caso
+tu voglia usarlo."
+"006_01","(\0촀\0Ora, siccome devo sbrigare le solite
+formalitàn\0\0 (&촀\0potresti dirmi che cosa
+vuoi fare?"
 "006_01_a","Andare da qualcuno!"
 "006_01_b","Volare con un \0coupon\0￿."
 "006_01_c","Niente di particolare."
-"006_02","(촀\0Sappi che ho qui un \0coupon miglia
-di Nook \0￿a nome tuo. Puoi usarlo
-quando vuoi. 
-\0(&촀\0Cosa vorresti fare?"
+"006_02","(촀\0Ti ricordo che ho qui un \0coupon
+miglia di Nook \0￿a nome tuo. 
+\0Puoi
+usarlo quando vuoi."
 "006_02_a","Andare da qualcuno!"
 "006_02_b","Volare con un \0coupon\0￿."
 "006_02_c","Visitare l'\0isola Fiorilio\0￿."
 "006_02_d","Niente di particolare."
-"006_03","(\0촀\0Alloran\0\0 giusto per mettere tutte le
-carte in ordine, sain\0\0 (&촀\0cosa vuoi
-fare?"
+"006_03","(\0촀\0Ora, siccome devo sbrigare le solite
+formalitàn\0\0 (&촀\0potresti dirmi che cosa
+vuoi fare?"
 "006_03_a","Andare da qualcuno!"
 "006_03_b","Visitare l'\0isola Fiorilio\0￿."
 "006_03_c","Niente di particolare."
-"006_04","(\0촀\0Alloran\0\0 giusto per mettere tutte le
-carte in ordine, sain\0\0 (&촀\0cosa vuoi
-fare?"
+"006_04","(\0촀\0Ora, siccome devo sbrigare le solite
+formalitàn\0\0 (&촀\0potresti dirmi che cosa
+vuoi fare?"
 "006_04_a","Andare da qualcuno!"
 "006_04_b","Volare con un \0coupon\0￿."
 "006_04_c","Visitare l'\0isola Fiorilio\0￿."
@@ -170,12 +172,14 @@ partire anche adesso!
 (&촀\0Allora, che mi dici?"
 "032_a","Sì, decolliamo!"
 "032_b","Non mi va, per ora..."
-"035","(촀\0Quindi vuoi usare il tuo \0coupon
+"035","(촀\0Quindi vuoi usare un \0coupon
 miglia di Nook\0￿?
-\0 -촀\0Ricevuto!(\0촀"
+\0 -촀\0Ricevuto!
+\02(\0촀"
 "035_01","(촀\0In tal caso,
-\0 il coupon ricevuto da
-\0Tom Nook \0￿lo prendo ion"
+\0 ho già qui il coupon che
+\0Tom Nook \0￿mi aveva consegnato
+per ten"
 "036","(%촀\0Possiamo farti volare anche ora,
 \0 ma
 (&촀\0hai tutto pronto? 
@@ -213,40 +217,43 @@ partenza!
 ($촀\0Torna quando avrai il vento in coda,
 okappa?
 \0(2촀\0 Si fa per dire, insomma."
-"090_01","(촀\0Ah!
-\0 Allora vuoi fare visita a qualcuno
-su un'altra isola?"
-"090_02","( 촀\0Ah, vuoi compagnia?
+"090_01","(촀\0Vuoi fare visita a qualcuno su
+un'altra isola, molto bene!"
+"090_02","( 촀\0Vuoi compagnia?
 \0 (촀\0Interessante!"
 "091",""
-"091_01","()촀\0Allora, la prima volta che incontri
-gente di un'altra isola, 
-\0ricevendola
-o facendole visitan\0\0
-(8촀\0n\0\0 gli avvoltoi legali dicono che devo
-assicurarmi che tu veda delle
-\0informazioni importanti\0￿.\0\0(7촀\0È una cosa un po' lunga, 
+"091_01","()촀\0Allora, questa è la prima volta che
+incontri gente di un'altra isola,
+
+\0ricevendola o facendole visitan\0\0
+(8촀\0Perciò gli avvoltoi legali dicono che
+devo attirare la tua attenzione su
+alcune \0informazioni importanti\0￿.\0\0(7촀\0È una cosa un po' lunga, 
 \0ma anche
 molto seria,
 \0(9촀\0 quindi, per favore, leggi
-tutto con attenzione."
+tutto molto attentamente."
 "091_02","(촀\0Grazie per aver tenuto duro
 nonostante gli sbadigli.
 \0(촀\0 Ora
 andiamo avantin"
+"092","(촀\0Benissimo!\0\0(2촀\0Ah, scusa se in precedenza hai già
+visto il messaggio, 
+\0ma va mostrato
+prima di accedere al gioco online."
 "101","(촀\0Vuoi andare su un'isola vicina
 tramite \0comunicazione locale\0￿?\0\0(&촀\0O su un'isola più lontana tramite
 \0comunicazione online\0￿?"
 "101_a","Comunicazione locale."
 "101_b","Comunicazione online."
-"101_c","Sto bene dove sono."
+"101_c","Ho cambiato idea."
 "102","(촀\0Oh, per tutte le alin\0\0
 \0 (촀\0Al momento non
 sembrano esserci isole su cui puoi
 andaren\0\0 
 \0(촀\0Mi spiace."
 "102_a","Fai una nuova ricerca."
-"102_b","Proverò un'altra volta."
+"102_b","(\0촀\0Proverò un'altra volta."
 "103","Oh, un attimon\0\0
 \0(&촀\0 Su quale isola vuoi
 andare?"
@@ -256,12 +263,13 @@ volo per s촀n\0\0
 \0 (&촀\0È lì che volevi andare?"
 "104_a","Sì!"
 "104_b","Fai una nuova ricerca."
-"104_c","Sto bene dove sono."
+"104_c","Ho cambiato idea."
 "105","(9촀\0Okappa, ho trovato la destinazionen\0\0
 \0
-ma ora non accetta visitatorin\0\0\0\0(촀\0Vedi, s촀 è piena come un uovo di dodo."
+Si tratta di s촀.\0\0(촀\0Solo che ora è piena come un uovo
+di dodo e non accetta altri visitatori."
 "105_a","Potresti ricontrollare?"
-"105_b","Proverò un'altra volta."
+"105_b","(\0촀\0Proverò un'altra volta."
 "106","(촀\0Ah!
 \0(
 촀\0 Per visitare questa isola ti serve
@@ -271,37 +279,39 @@ le 4 cifre, per piacere."
 è il PIN Dodo™ giusto!
 \0( (&촀\0Vuoi
 inserirlo di nuovo?"
-"107_a","Ci riprovo."
+"107_a","(\0촀\0Ci riprovo."
 "107_b","Non importa."
 "108","(촀\0Per tutte le ali!
 \0(
-촀\0 Sembra che ci sia un'interferenzan\0\0 Un momenton\0\0\0\0
-\0((촀\0\0KQualcuno avrà di nuovo dimenticato di mettere
-il suo Nook Phone in modalità aereo?\0d"
+촀\0 Sembra che ci sia
+un'interferenzan\0\0 Un momenton\0\0\0\0
+\0((촀\0\0KQualcuno starà di nuovo parlando o lavorando
+a qualcosa, mi san\0\0\0d"
 "108_01","(촀\0Per tutte le ali!
 \0(
-촀\0 Sembra che ci sia un'interferenzan\0\0 Un momenton\0\0\0\0
-\0((촀\0\0KQualcuno avrà di nuovo dimenticato di mettere
-il suo Nook Phone in modalità aereo?\0d"
+촀\0 Sembra che ci sia
+un'interferenzan\0\0 Un momenton\0\0\0\0
+\0((촀\0\0KQualcuno starà di nuovo parlando o lavorando
+a qualcosa, mi san\0\0\0d"
 "108_01_a","Potresti ricontrollare?"
 "108_01_b","Che cosa intendi?"
 "108_01_c","Proverò un'altra volta."
 "108_a","Potresti ricontrollare?"
 "108_b","Che cosa intendi?"
-"108_c","Proverò un'altra volta."
+"108_c","(\0촀\0Proverò un'altra volta."
 "109","(촀\0Molto bene allora, è tutto a posto!
 \0
 E quando vuoi viaggiare, pensa solo:
 -촀\0""Che cosa farebbe un dodo?""
 <\0."
-"110","(&촀\0Pensavi a qualcuno di un'isola vicina
-tramite \0comunicazione locale\0￿?\0\0(
-촀\0O ti riferivi a qualcuno che vive
-su un'isola più lontana tramite
+"110","(&촀\0Hai in mente qualcuno di un'isola
+vicina tramite \0comunicazione locale\0￿?\0\0(
+촀\0O qualcuno che vive su
+un'isola più lontana tramite
 \0comunicazione online\0￿?"
 "110_a","Comunicazione locale."
 "110_b","Comunicazione online."
-"110_c","Sto bene dove sono."
+"110_c","Ho cambiato idea."
 "111","(촀\0Okappa, dammi solo un attimo per
 impostare la comunicazione locale."
 "111_a","Ricevuto!"
@@ -312,7 +322,7 @@ Internet
 \0 (촀\0per impostare la modalità
 in locale."
 "112_a","Ricevuto!"
-"112_b","Sai cosa? Lascia stare."
+"112_b","(\0촀\0Sai cosa? Lascia stare."
 "113","(촀\0Vuoi che il gate sia aperto per
 chiunque usi la comunicazione
 locale?
@@ -357,16 +367,16 @@ telefono senza accorgersene, vero?"
 "117_02_b","Riprova più tardi."
 "118_01","(7촀\0Ecco, 
 \0non possiamo decollare se
-qualcuno è impegnato a parlare
-o sta lavorando a qualcosa.
+qualcuno su un'isola è impegnato a
+parlare o sta lavorando a qualcosa.
 (%촀\0Se dopo aver provato più volte la
 situazione non cambia,
 \0 ti conviene
 rimandare a un altro momento.
-(촀\0Oh,
-\0 se hai modo di farlo, potresti
-anche contattare la persona che
-vuoi visitare tramite messaggio.
+(촀\0Anche se, 
+\0la soluzione più pratica
+sarebbe quella di contattare l'altra
+persona tramite messaggion\0\0
 (
 촀\0Potresti scrivergli: ""\0Vorrei andare
 a casa,
@@ -379,8 +389,8 @@ telefono senza accorgersene, vero?"
 "118_02","(&촀\0Vuoi che provi un'altra volta?"
 "118_02_a","Potresti ricontrollare?"
 "118_02_b","Riprova più tardi."
-"120","(촀\0Ricevuto!
-\0( ($촀\0Gate aperto!"
+"120","(촀\0È tutto pronto.
+\0( ($촀\0Apro il gate!"
 "120_01","(촀\0Ti stai dando da fare con l'app
 \0Modifica isola\0￿!\0\0()촀\0Spiacente, ma mi dicono che non
 possiamo lasciartela usare durante
@@ -424,6 +434,14 @@ la connessione alla cara vecchia
 Internet per la comunicazione online."
 "130_a","Ricevuto!"
 "130_b","(\0촀\0Sai cosa? Lascia stare."
+"140","(촀\0Per tutte le ali! 
+\0(촀\0Qualcuno ha
+chiuso il gate dall'altra parte."
+"150","(&촀\0Vuoi provare con una destinazione
+diversa?
+\0(\0촀\0 Posso fare un'altra ricercan"
+"150_a","OK, d'accordo."
+"150_b","Riprova più tardi."
 "200","(촀\0Di nuovo ehi ehi ehi!
 \0( (&촀\0In cosa posso
 esserti utile?"
@@ -436,9 +454,17 @@ esserti utile?"
 esserti utile?"
 "201_a","Apri il gate."
 "201_b","Interrompi comunicazione."
-"201_c","Ho scordato il PIN Dodo."
+"201_c","Ho scordato il PIN Dodo™."
 "201_d","Vorrei viaggiare."
 "201_e","('촀\0Niente, grazie."
+"202","(촀\0Di nuovo ehi ehi ehi!
+\0( (&촀\0In cosa posso
+esserti utile?"
+"202_a","Apri il gate."
+"202_b","Interrompi comunicazione."
+"202_c","Ho scordato il PIN Dodo™."
+"202_d","Vorrei viaggiare."
+"202_e","('촀\0Niente, grazie."
 "210","(촀\0Di nuovo ehi ehi ehi!
 \0( (&촀\0In cosa posso
 esserti utile?"
@@ -449,9 +475,16 @@ esserti utile?"
 \0( (&촀\0In cosa posso
 esserti utile?"
 "211_a","Chiudi il gate."
-"211_b","Ho scordato il PIN Dodo."
+"211_b","Ho scordato il PIN Dodo™."
 "211_c","Vorrei viaggiare."
 "211_d","('촀\0Niente, grazie."
+"212","(촀\0Di nuovo ehi ehi ehi!
+\0( (&촀\0In cosa posso
+esserti utile?"
+"212_a","Chiudi il gate."
+"212_b","Ho scordato il PIN Dodo™."
+"212_c","Vorrei viaggiare."
+"212_d","('촀\0Niente, grazie."
 "220","( 촀\0Ah, invece di avere ospiti
 \0(&촀\0 vuoi
 viaggiare un po'?"
@@ -459,14 +492,21 @@ viaggiare un po'?"
 "220_b","Sto bene dove sono."
 "221",""
 "221_01",""
-"222","(%촀\0Interrompere la comunicazione e
-
-\0chiudere il gate? Beh, non ci sono
-ospiti, quindin\0\0 -촀\0Ricevuto!"
+"222","(%촀\0Vuoi interrompere la comunicazione
+e chiudere il gate? 
+\0Beh, non ci sono
+ospiti, quindin\0\0(%촀\0 nessun problema!"
 "223","(%촀\0Certo! 
 \0(%촀\0Il PIN Dodo attuale è
 \0 (촀\0""\0n\0\0￿""."
-"251",""
+"224","(%촀\0Certo! 
+\0Il PIN Dodo attuale
+è 
+\0(촀\0""\0n\0\0￿""."
+"251_01","(촀\0Okappa.
+\0( (\0촀\0Da ora vige il silenzio radio."
+"251_02","(촀\0Spero che usufruirai di nuovo
+dei nostri servizi molto presto!"
 "252","(%촀\0Okappa.
 \0 Se vuoi ricevere altre visite,
 \0
@@ -482,14 +522,26 @@ gente(촀\0 da un'altra isola."
 \0(in cosa posso esserti
 utile?"
 "301_a","Apri il gate."
-"301_b","Ho scordato il PIN Dodo."
+"301_b","Ho scordato il PIN Dodo™."
 "301_c","('촀\0Niente, grazie."
 "302","A ogni modo, (&촀\0
 \0(in cosa posso esserti
 utile?"
 "302_a","Chiudi il gate."
-"302_b","Ho scordato il PIN Dodo."
+"302_b","Ho scordato il PIN Dodo™."
 "302_c","('촀\0Niente, grazie."
+"303","A ogni modo, (&촀\0
+\0(in cosa posso esserti
+utile?"
+"303_a","Apri il gate."
+"303_b","Ho scordato il PIN Dodo™."
+"303_c","('촀\0Niente, grazie."
+"304","A ogni modo, (&촀\0
+\0(in cosa posso esserti
+utile?"
+"304_a","Chiudi il gate."
+"304_b","Ho scordato il PIN Dodo™."
+"304_c","('촀\0Niente, grazie."
 "305","A ogni modo, (&촀\0
 \0(in cosa posso esserti
 utile?"
@@ -522,7 +574,7 @@ con altri utenti in Filtro famiglia."
 ricevere ospiti 2\0 n\0!
 \0
 (&촀\0Posso fare qualcosa per te?"
-"700_a","Vorrei tornare a casa."
+"700_a","(\0촀\0Vorrei tornare a casa."
 "700_b","('촀\0No, grazie."
 "701","Ricevuto! 
 \0(촀\0Fammi sapere quando vuoi
@@ -536,8 +588,7 @@ vuoi!"
 "802","-촀\0
 \0Ricevuto!
 \02(\0촀"
-"810","(촀\0Ricevuto!
-\0 Ti attendono i cieli infiniti!
+"810","(촀\0Ti attendono i cieli infiniti!
 <"
 "900_01","(&촀\0Come? 
 \0""Isola Fiorilio""?
@@ -570,7 +621,7 @@ volare con noi un'altra volta!"
 \0Oh, aspetta un secondo!
 \0 (촀\0Se vuoi
 usare il nostro servizio di posta,
-prima leggi le informazioni legali."
+devo prima spiegarti qualcosa."
 "999_01","(촀\0Ehi ehi ehi! 
 \0(%촀\0Ti do il benvenuto al
 tuo solo e unico accesso ai cieli,

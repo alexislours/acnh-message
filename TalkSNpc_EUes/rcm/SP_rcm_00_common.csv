@@ -21,7 +21,7 @@ comercio!
 \0\0K¡Hola!\0dd
 \0 (\0촀\0¿En qué podemos ayudarte?"
 "011_a","Quiero vender algo..."
-"011_b","¿Compras nabos?"
+"011_b","¿Cómo pagas los nabos?"
 "011_c","¿Qué se cotiza bien hoy?"
 "011_d","('촀\0Hasta luego..."
 "012","(촀\0¡Ah! 
@@ -31,14 +31,14 @@ venir de tan lejos a nuestro humilde
 comercio!
 \0(&촀\0 ¿Qué se te ofrece?"
 "012_a","Quiero vender algo..."
-"012_b","¿Compras nabos?"
+"012_b","¿Cómo pagas los nabos?"
 "012_c","¿Qué se cotiza bien hoy?"
 "012_d","('촀\0Hasta luego..."
 "013","(촂\0(촃\0¿Necesitas ayuda con algo?d\0
 
 \0\0K¡Para eso estamos!\0dd"
 "013_a","Quiero vender algo..."
-"013_b","¿Compras nabos?"
+"013_b","¿Cómo pagas los nabos?"
 "013_c","¿Qué se cotiza bien hoy?"
 "013_d","('촀\0Hasta luego..."
 "014","(촂\0(촃\0Lo siento,
@@ -47,14 +47,14 @@ ha ido de las manosn\0\0
 \0 (촂\0(촃\0Dime,
 ¿qué podemos hacer por ti?"
 "014_a","Quiero vender algo..."
-"014_b","¿Compras nabos?"
+"014_b","¿Cómo pagas los nabos?"
 "014_c","¿Qué se cotiza bien hoy?"
 "014_d","('촀\0Hasta luego..."
 "019","(촂\0(촃\0¿Podemos hacer algo más por ti?d\0
 
 \0\0K¡A mandar!\0dd"
 "019_a","Quiero vender algo..."
-"019_b","¿Compras nabos?"
+"019_b","¿Cómo pagas los nabos?"
 "019_c","¿Qué se cotiza bien hoy?"
 "019_d","('촀\0Hasta luego..."
 "021","(%촂\0(촃\0Por supuesto,
@@ -209,9 +209,9 @@ encantados de que nos vendas frutan\0\0\0\0¡Pero también puedes probar a
 \0comerla \0￿de vez en cuando!d\0 \0K
 \0¡Ya verás!\0dd"
 "061","(촀\0(촃\0¿Te intriga saber qué hay en
-la estantería?
-\0 ¡Pues esto es
-lo que tenemos hoy!d\0(촃\0 
+la vitrina?
+\0 ¡Pues esto es lo
+que tenemos hoy!d\0(촃\0 
 \0\0K¡Mira, mira!\0dd"
 "081","Los nabos están a (촀\0(촃\0Z\0 la unidad."
 "082","Los domingos no compramos nabos.
@@ -296,6 +296,14 @@ al Nookófono los proyectos (촃\0de
 nuevos proyectos disfrutes aún más
 del \0bricolaje\0￿.d\0 
 \0\0K¡A fabricar se ha dicho!\0dd"
+"108","(촀\0Vaya, me temo que esto solo lo
+podemos vender a clientes que
+tengan la aplicación \0Creaciones\0￿.
+()촀\0Si no sabes qué es, 
+\0te aconsejo que
+pases por la \0oficina de gestión\0￿ de
+tu isla.
+\0 ($촀\0¡Allí te informarán!"
 "110_02","(촂\0(촃\02\0n\0,
 \0 creo que este
 proyecto ya lo tienes.\0\0(촂\0(촃\0Pero, si quieres comprarlo a pesar
@@ -414,7 +422,7 @@ adelante con ellos!\0Kd\0 
 (&촂\0(&촃\0¿Te parece bien?"
 "122_a","(%촀\0¡Trato hecho!"
 "122_b","('촀\0He cambiado de idea"
-"131","(%촃\0Puedes comprar 2\0}\0\0 de un2촀oa\0 en un2촀oa\0 o en un lote.\0\0(&촂\0¿Cuántas unidades quieres?"
+"131","(%촃\0Puedes comprar 2\0}\0\0 de un2촀oa\0 en un2촀oa\0 o en un lote.\0\0(&촂\0¿Cuántas unidades quieres?"
 "131_a","Una (\0Z\0 \0￿)"
 "131_b","Cinco (\0Z
  \0￿)"

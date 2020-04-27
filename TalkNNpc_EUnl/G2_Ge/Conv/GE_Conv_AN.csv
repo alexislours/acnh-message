@@ -36,7 +36,7 @@ wimpurtjes!
 \0 Want wie wil hersuntjes
 hebben als je schattug kunt zijn?\0\0(촀\0촆촃HAHAHAHAHA!초(;촀\0 Echt zó sneu!\0\0(&촀\0Heb jij ooit zoiets stoms gehoord?"
 "005_a","Echt stom, ja."
-"005_b","Het kan vast stommer."
+"005_b","(\0촀\0Het kan vast stommer."
 "006","(
 촃\0Met de wimpers knipperen? 
 \0<(촂\0Waarom
@@ -65,16 +65,16 @@ dingen nooit.(촃"
 mogelijk zou moeten lopen?( 촃\0 (촀\0Dat zou
 dan zogenaamd superschattig zijn!\0\0(촀\0촆촃초
 \0Wat vind jij, n\0?"
-"010_a","Eh, wat?"
-"010_b","Om rond te sluipen?"
+"010_a","(\0촀\0Eh, wat?"
+"010_b","(\0촀\0Om rond te sluipen?"
 "011","촄(촀\0Dat zie je mij niet doen.()촀\0 
 \0Ik stamp
 liever door het leven,(촂\0 dan loopt
 niemand me voor de voeten!(촂"
-"012","(5촂\0Dus echt wel, n촁! (5촃\0Echte meiden durven te stampen!"
-"013","(9촀\0Rondsluipen? Goh, daar zeg je
+"012","촃(5촂\0Dus echt wel, n촁! (5촃\0Echte meiden durven te stampen!"
+"013","촄(9촀\0Rondsluipen? Goh, daar zeg je
 watn"
-"014","Ja, echt, hèn\0\0 Dan zou ik naar de
+"014","촃Ja, echt, hèn\0\0 Dan zou ik naar de
 schrijver van dat artikel sluipen en
 roepenn\0\0 
 \0 
@@ -140,18 +140,18 @@ daar echt, zeg maar, niemand over.(:촃\0(촁"
 (;촀\0Zèèèg, 
 \0wacht eens eventjes! 
 \0Heb je
-2""촀diedatdie gewoon zelf gemaakt?!(촃\0(\0촃\0\0\0Jij? 
+2#촀diedatdie gewoon zelf gemaakt?!(촃\0(\0촃\0\0\0Jij? 
 \0In de keuken?
 \0 Suuuper
 \0
 \0schattig
 ."
-"114","촄Mijn ouders hebben 2""촀diedatdie opgestuurd.
+"114","촄Mijn ouders hebben 2#촀diedatdie opgestuurd.
 \0
 (	촀\0En wat 
 \0dan 
 \0nog 
-\0als ik 2""촀hemhetze wél had
+\0als ik 2#촀hemhetze wél had
 gemaakt?
 \0< 촀(촀\0Koken is voor iedereen!"
 "115","(1촀\0Nou, ik heb dus helemaal geen lekker
@@ -172,13 +172,14 @@ na weinig slaap zo wakker bent.
 (""촀\0Die ""n\0"" die je net
 uitstootte, heeft ook al dat lekkere
 cafeïnegevoel."
-"203","(촀\0Ik heb de topscore gehaald in een
+"203","(촀\0Ik heb de topscore gehaald촃 in een
 game waar de rest van het eiland
 geen 
 \0lef
-\0 voor heeft! Ik voel me super!\0\0(촀\0Maar die drie koppen koffie van
-\0Brewsters\0￿ geven die lijfspreuk van
-mij echt wel dat beetje extra?\0\0(촀\0Wil jij hem ook ( 촃\0촄gebruiken, n촁? Zing hem maar, hoor!"
+\0 voor heeft! Ik voel me super!\0\0(촀\0Maar die drie koppen koffie die ik op
+heb, geven die lijfspreuk van mij echt
+wel dat beetje extra?\0\0(촀\0Wil jij hem ook ( 촃\0gebruiken, n촁?촄
+\0 Zing hem maar, hoor!"
 "204","(%촀\0Wat een goed idee!
 \0 Die rockende lijfspreuk ((촀\0(%촂\0laat ik graag horen! 2\0n\0!"
 "205","(촀\0Hij heeft echt een totaal andere vibe

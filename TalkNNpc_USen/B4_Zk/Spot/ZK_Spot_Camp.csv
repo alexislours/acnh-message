@@ -92,10 +92,9 @@ to the big show. 
 \0Been waiting for
 my shot for a while nown"
 "202","<"
-"202_01","(촀\0You're probably wondering who
-I am and why I'm here.\0\0(5촀\0Well, the name's n
-\0,
-and I'm a guest of the fabulous
+"202_01","(촀\0You're probably wondering why
+I'm here, right?\0\0(5촀\0Well, if you must know,
+I'm a guest of the fabulous
 s\0촀, n\0."
 "202_02","(6촀\0Wondering why I'm here, eh?
 \0
@@ -106,11 +105,8 @@ shall remain nameless, invited me.
 "202_03","(6촀\0What's down, buddy?
 \0 Get it?
 \0
-(5촀\0I do things a little differently.
-\0
-The name's n
-\0!
-(촀\0If you want to blame someone
+(5촀\0That's right. I do things differently
+than the average n\0.\0\0(촀\0If you want to blame someone
 for my arrival, go talk to
 s\0촀, n\0."
 "301","<"
@@ -305,13 +301,13 @@ getting a callback at any time.
 \0(
 (촀\0I should actually get home!"
 "601_01","(7촀\0I'm not saying I can be bribed with
-fancy gifts, butn\0\0\0\0(6촀\0Someone on n	\0 gave
-me something pretty cool, and
-now I want to move here."
+fancy gifts, butn\0\0\0\0(6촀\0I received something pretty cool
+here on n	\0, and now
+I want to move to this island."
 "601_01_a","You should live here!"
-"601_01_b","It's just furniture."
-"601_02","($촀\0Did you know that someone gave me
-a really nice souvenir as soon as
+"601_01_b","It's just a souvenir."
+"601_02","($촀\0Did you know that I received a
+really nice souvenir as soon as
 I arrived here?
 (4촀\0I don't know if that's standard for
 n	\0 or not, but, uhn\0\0

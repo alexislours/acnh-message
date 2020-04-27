@@ -22,10 +22,10 @@ ti ho trovato un nuovo soprannome!"
 So che qualcuno in giro ti chiama
 ""s\0촀""...
 (&촀\0Ti secca se lo faccio anch'io?"
-"003_a","Certo che no!
-Vai tranquillo!"
-"003_b","Un po' sì, in effetti...
-Sì, mi secca."
+"003_a","(\0촁\0Certo che no!
+(\0촁\0Vai tranquillo!"
+"003_b","(\0촁\0Un po' sì, in effetti...
+(\0촁\0Sì, mi secca."
 "004","(촀\0Ah, capiti a fagiolos.
 \0 (3촀\0Volevo proprio
 dirti che ho inventato un soprannome
@@ -72,7 +72,7 @@ Niente male, eh?"
 "100_a","È grandioso!
 Sì, niente male!"
 "100_b","Mmmh, no grazie.
-Ehm, ecco..."
+(\0촁\0Ehm, ecco..."
 "101","(%촀\0D'accordo, ti ricevo fuerte e chiaro.
 \0
 ('촀\0Ti risparmierò il piacere di avere

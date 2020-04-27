@@ -12,11 +12,11 @@ following services:"
 following services:"
 "002_01_a","Nook Shopping"
 "002_01_b","ABD"
-"002_01_c","Exit"
+"002_01_c","Sign off"
 "002_a","Redeem Nook Miles"
 "002_b","Nook Shopping"
 "002_c","ABD"
-"002_d","Exit"
+"002_d","Sign off"
 "003","Thank you for your patronage."
 "005","Please select from the
 following services:"
@@ -24,20 +24,20 @@ following services:"
 "005_b","Nook Shopping"
 "005_c","ABD"
 "005_d","Invite  Camper"
-"005_e","Exit"
+"005_e","Sign off"
 "007","Please select from the
 following services:"
 "007_a","Redeem Nook Miles"
 "007_b","Nook Shopping"
 "007_c","ABD"
 "007_d","Invite  Camper"
-"007_e","Exit"
+"007_e","Sign off"
 "008","Please select from the
 following services:"
 "008_a","Nook Shopping"
 "008_b","ABD"
 "008_c","Invite  Camper"
-"008_d","Exit"
+"008_d","Sign off"
 "012","Redeem \0Z(촀
 \0\0￿ for
 2\0\0}\0\0\0￿?"
@@ -46,10 +46,10 @@ following services:"
 "013","This \0}\0\0\0￿
 \0 is
 an add-on construction permit
-for the \0Island Designer\0￿ app.\0\0The value is Z(촀.
+for the \0Island Designer\0￿ app.\0\0The price is Z(촀.
 \0
-Would you like to redeem miles
-for this permit?"
+Would you like to redeem
+miles for this permit?"
 "013_a","Redeem"
 "013_b","No"
 "014","Your redemption request has been
@@ -160,14 +160,14 @@ Nook Stop and the Nook Mileage Program in the new year.\0￿"
 "501","With this option, you can invite
 animals to the campsite using an
 \0Animal Crossing character's amiibo\0￿."
-"512","Do you want to use amiibo to invite
-an animal to the campsite?"
+"512","Do you want to use an amiibo to
+invite an animal to the campsite?"
 "512_a","Yes, I do!"
 "512_b","No"
 "514","There is a guest currently visiting
 the campsite.\0\0If you invite a camper with amiibo,
 the current guest will leave."
-"515","We hope you try this again sometime!"
+"515","We hope to see you again soon!"
 "516","Thank you for your patronage."
 "521","Please prepare the amiibo for
 the animal you want to invite to
@@ -201,6 +201,14 @@ she's already at the campsite."
 wish to stop using this service?"
 "529_a","Stop."
 "529_b","Read again."
+"530","That's s촀's amiibo!
+\0(
+Would you like to invite 2himher
+to the campsite?"
+"530_a","Yes!"
+"530_b","Never mind."
+"531","n\0\0It seems you can't chat with
+s촀 right now."
 "541","You can only invite one camper to
 the campsite per day. Please come
 back again tomorrow."
@@ -210,8 +218,8 @@ done using networked play."
 "543","You can't use amiibo when the gate
 in the airport is open for visitors.\0\0Please try again when the gate in
 the airport is closed."
-"543_01","You cannot read amiibo while
-network communications are active.\0\0Please shut down communications
+"543_01","You can't read amiibo while network
+communications are active.\0\0Please shut down communications
 from the airport counter, and then
 try again."
 "544","You can't use amiibo when Airplane

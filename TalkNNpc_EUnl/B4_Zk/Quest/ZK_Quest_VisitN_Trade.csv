@@ -13,7 +13,7 @@ een goede deal."
 je het me altijd laten weten."
 "004_a","Er was iets...
 O, ik heb iets gezien!"
-"004_b","Goed om te weten.
+"004_b","(\0촁\0Goed om te weten.
 Ik heb niets gezien."
 "005","(촀\0Hé, trouwens, als je iets ziet hier dat
 je bevalt, kunnen we misschien een
@@ -22,13 +22,13 @@ ik oude dingen hou, dus kijk rustig
 rond."
 "005_a","Er was iets...
 O! Ik heb iets gezien!"
-"005_b","Goed om te weten.
+"005_b","(\0촁\0Goed om te weten.
 Ik heb niks gezien."
 "006","(3촀\0Alles hier zou in jouw huis kunnen
 staann\0\0 als je het goed speelt."
 "006_a","Ik heb interesse...
 Ik zag iets wat ik wil!"
-"006_b","Goed om te weten.
+"006_b","(\0촁\0Goed om te weten.
 Geen interesse."
 "007","(촀\0Oké!
 \0 Dus waar is je oog op gevallen?"
@@ -54,9 +54,9 @@ vriendenn"
 dat als je je bedenkt een ander het
 al gekocht kan hebben."
 "100","(%촀\0Ah, scherp gezien.
-\0 Mijn 2촃}\0\0 2&촀valtvaltvallen een connaisseur als jij meteen op.\0\0(
-촀\02L촀Die behoortDat behoortDie behoren echt tot mijn favorieten,
-en je kunt 2촀hemhetze mee naar huis nemen
+\0 Mijn 2촃}\0\0 2&촀valtvaltvallen een connaisseur als jij meteen op.\0\0(
+촀\02L촀Die behoortDat behoortDie behoren echt tot mijn favorieten,
+en je kunt 2촀hemhetze mee naar huis nemen
 voorn\0\0 Z\0.
 \0 (&촀\0Deal?"
 "100_a","Deal!"
@@ -102,12 +102,12 @@ spullen bij je hebt.\0\0(촀\0Heb jij even geluk
 iets per eilandpost verstuurt.
 \0 (촀\0Ik regel
 het verder wel, n\0."
-"300","('촀\0O, sorry, maar ik kan mijn 2촃}촀 niet verkopen.\0\0(4촀\02촀HijHet\0 is gewoonn\0\0 net als een soort
+"300","('촀\0O, sorry, maar ik kan mijn 2촃}촀 niet verkopen.\0\0(4촀\02촀HijHet\0 is gewoonn\0\0 net als een soort
 huisdier, weet je?"
 "301","(촀\0Jijn\0\0 wilt echt mijn 2촃}촀 kopen?\0\0('촀\0Sorry.
 \0 Al geef je me alle klingels op
 de wereld. 
-\0(촀\02촀HijHet\0 is een van mijn beste
+\0(촀\02촀HijHet\0 is een van mijn beste
 vrienden!"
 "302","(촀\0Je hebt een scherpe blik, maar van mijn 2촃}\0\0 kan ik echt geen afstand doen."
 "303","(촀\0Sorry.

@@ -3,20 +3,19 @@
 \0 Ik ga een paar van mijn spullen van de hand doen!\0\0($촀\0En jij krijgt de primeur.
 \0 (%촀\0Wil jij mijn
 2촃}\0\0 overnemen?"
-"001_a","Hoeveel vraag je ervoor?
-Misschien wel..."
+"001_a","(\0촁\0Hoeveel vraag je ervoor?
+(\0촁\0Misschien wel..."
 "001_b","Geen interesse.
 Sorry, vandaag niet."
 "002","(5촀\0Hoi! Zal ik je gedachten eens lezen?
 \0
 (1촀\0Je denkt: had ik maar 2\0
 }\0\0n\0\0\0\0(촀\0Nou, ik heb goed nieuws!
-\0 2B촀Ik heb erIk heb erDie heb ik
-toevallig 2촀één één \0te koop!"
+\0 2B촀Ik heb erIk heb erDie heb ik
+toevallig 2촀één één \0te koop!"
 "002_a","(\0촁\0Voor hoeveel?
-Vertel meer..."
-"002_b","Nee joh.
-(\0촁\0Je hebt het mis."
+(\0촁\0Vertel meer..."
+"002_b","Nee, joh."
 "003","(촀\0Hoi. Ik was mijn huis aan het
 opruimen en kwam toen wat oude
 tr-
@@ -27,18 +26,18 @@ koop!
 \0 Geïnteresseerd?"
 "003_a","(\0촁\0Ik luister...
 (\0촁\0Misschien."
-"003_b","(\0촁\0Ik heb niets nodig.
-(\0촁\0Nee, dank je."
+"003_b","Ik heb niets nodig.
+Nee, dank je."
 "004","(""촀\0Hé, n\0!
 \0 (촀\0Ik heb een probleem.
 \0 Blijkbaar heb ik 2\0}\0\0 gekocht.\0\0(촀\0Waar zat ik met mijn hoofd?!
 \0
 Compleet niet mijn stijl!\0\0(
-촀\0Maar ehn\0\0 heb JIJ wellicht interesse in 2촀,een zo goed als nieuwe*een zo goed als nieuw$zo goed als nieuwe }\0\0?"
+촀\0Maar ehn\0\0 heb JIJ wellicht interesse in 2촀,een zo goed als nieuwe*een zo goed als nieuw$zo goed als nieuwe }\0\0?"
 "004_a","(\0촁\0Voor hoeveel?
 (\0촁\0Klinkt interessant..."
-"004_b","(\0촁\0Nee, sorry...
-(\0촁\0Ik geloof het niet."
+"004_b","Nee, sorry...
+Ik geloof het niet."
 "005","(촀\0Meen je dat?
 \0( (촀\0Prima, dan zoek ik
 een andere klant.
@@ -82,9 +81,9 @@ Eh, sorry..."
 "101","(촀\02\0n\0!
 \0 Weer een verkoopsucces op naam van n
 \0!"
-"102","(5촀\0Hoe voelt het om de trotse 2*eigenaareigenaresse te zijn van 2<촀een nieuweeen nieuwnieuwe }\0\0?"
+"102","(5촀\0Hoe voelt het om de trotse 2*eigenaareigenaresse te zijn van 2<촀een nieuweeen nieuwnieuwe }\0\0?"
 "103","(촀\0Ook goed.
-\0 Maar ik moet je vertellen dat mijn 2촃}\0\0 je op het lijf geschreven 2촀isiszijn.\0\0(5촀\0Dus daarom krijg je 2촀hemhetze cadeau!
+\0 Maar ik moet je vertellen dat mijn 2촃}\0\0 je op het lijf geschreven 2촀isiszijn.\0\0(5촀\0Dus daarom krijg je 2촀hemhetze cadeau!
 \0
 Ben ik niet gul?
 \0 (촀\02\0n\0!"
@@ -113,14 +112,14 @@ Nee, bedankt."
 Z wil ik ook nog wel
 accepteren."
 "201_a","Veel beter, ja.
-(\0촁\0Dat is wel oké."
+Dat is wel oké."
 "201_b","Kan ik niet betalen.
 Nog steeds te duur."
 "202","(촀\02\0n\0!
 \0 Perfect! Je zult er geen spijt van krijgen."
 "203","(!촀\0Gefeliciteerd!
 \0 Je bent nu de trotse
-eigenaar van 2N촀een prachtigeeen prachtigprachtige
+eigenaar van 2N촀een prachtigeeen prachtigprachtige
 }\0\0!"
 "204","(촀\0Oké dan, n\0. Het was het proberen waard.
 \0 (촀\0Volgende keer beter!"
@@ -130,8 +129,8 @@ onderhandelingstechnieken.
 \0 (1촀\0Hmn\0\0
 Wat denk je van Z?"
 "205_a","Deal!
-(\0촁\0Dat is goed."
-"205_b","Nog iets minder?
+Dat is goed."
+"205_b","(\0촁\0Nog iets minder?
 (\0촁\0Dat kan goedkoper!"
 "206","O.
 \0 ('촀\0Dan houdt het hier op, n\0.
@@ -146,7 +145,7 @@ Wat denk je van Z?"
 "207_a","Deal!
 Koop gesloten!"
 "207_b","Laat maar.
-(\0촁\0Nee, sorry..."
+Nee, sorry..."
 "208","(촀\0Briljant! We zijn eruit."
 "209","(2촀\0Dat was echt intens.
 \0 Ik weet niet
@@ -166,7 +165,7 @@ heb ik een mooi aanbod voor je!
 촀\0Wat denk je vann\0\0 (&촀\0Z voor
 mijn 2촃}\0\0?"
 "300_a","Oké.
-(\0촁\0Daar doe ik het voor."
+Daar doe ik het voor."
 "300_b","(\0촁\0Ik wil iets anders.
 (\0촁\0Wat heb je nog meer?"
 "301","(촀\0Gelukkig!
@@ -177,9 +176,9 @@ gedaan."
 "303","(
 촀\0Noun\0\0 ik heb ook nog mijn 2촃}\0\0 in de aanbieding voor Zn"
 "303_a","Deal!
-(\0촁\0Koop ik!"
+Koop ik!"
 "303_b","(\0촁\0Heb je iets anders?
-(\0촁\0Wil ik ook niet."
+Wil ik ook niet."
 "304","(1촀\0Oké, dan moet ik even diep in mijn
 geheugen graven, hoorn\0\0\0\0(촀\0Wat denk je van mijn geweldige 2촃}\0\0 voor de prijs van slechts Z?"
 "304_a","Ja!
@@ -192,7 +191,7 @@ gesproken!
 "305_a","Verkocht!
 Deal!"
 "305_b","Nee, dank je.
-(\0촁\0Sorry, geen interesse."
+Sorry, geen interesse."
 "306","(촀\0Weet je?
 \0( (촀\0Ik ben blij dat je niets
 wilt kopen!
@@ -203,7 +202,7 @@ iedereen, maar van jou hoef ik er
 maar Z voor te hebben!"
 "400_a","Koop ik!
 (\0촁\0Daar doe ik het voor."
-"400_b","Kan ik korting krijgen?
+"400_b","(\0촁\0Kan ik korting krijgen?
 (\0촁\0Dat is wat duur, niet?"
 "401","(촀\0Meen je dat?"
 "402","(!촀\02\0n\0! Je zult er zoveel plezier van hebben, n\0.\0\0(촀\0En ik zal plezier hebben van
@@ -213,17 +212,17 @@ onderhandelaar!
 \0 (&촀\0Oké, wat
 denk je van Z?"
 "403_a","Top!
-(\0촁\0Daar doe ik het voor."
-"403_b","Goedkoper kan niet?
-Is nog steeds te duur."
+Daar doe ik het voor."
+"403_b","(\0촁\0Goedkoper kan niet?
+(\0촁\0Is nog steeds te duur."
 "404","(촀\0Tjongejonge!
 \0 (
 촀\0Goed, ik kan ern\0\0
 Z van maken.
 \0 Oké?"
 "404_a","Verkocht!
-(\0촁\0Deal!"
-"404_b","Dat kan goedkoper...
+Deal!"
+"404_b","(\0촁\0Dat kan goedkoper...
 (\0촁\0Goedkoper, graag..."
 "405","(9촀\0Jeetje, je bent een harde
 onderhandelaar!
@@ -235,7 +234,7 @@ want lager ga ik niet!"
 "405_a","Prima!
 We hebben een deal!"
 "405_b","Nee, laat maar zitten.
-(\0촁\0Sorry, geen interesse."
+Sorry, geen interesse."
 "406","(7촀\0Maar dat is niet eerlijk!
 \0 Ik heb er
 veel meer voor betaald dan dat!"

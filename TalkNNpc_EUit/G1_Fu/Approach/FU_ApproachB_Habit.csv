@@ -26,7 +26,7 @@ reinventarmi.
 \0Dimmi la verità, 
 \0per favore!"
 "002_a","Certo, cambialo pure!"
-"002_b","Quello attuale è OK."
+"002_b","(\0촁\0Quello attuale è OK."
 "003","(촀\0Ah, n\0! 
 \0Speravo
 proprio di incontrarti, n\0.
@@ -37,7 +37,7 @@ proprio di incontrarti, n\0.
 (9촀\0Dici che sto diventando noiosa?
 (&촀\0Dovrei forse cambiare il mio
 intercalare?"
-"003_a","Mmmh, forse sì."
+"003_a","(\0촁\0Mmmh, forse sì."
 "003_b","No, mi piace."
 "004","( 촀\0C'è qualcosa che mi tormentan\0\0\0\0()촀\0Tu hai notato che dico spesso
 ""n\0"", vero? 
@@ -46,7 +46,7 @@ marchio di fabbrica, diciamo.
 (9촀\0Mi piace, ma ho paura che sia ormai
 inflazionaton\0\0 (%촀\0Che sia arrivata l'ora
 di esplorare nuove possibilità?"
-"004_a","Perché no?!"
+"004_a","(\0촁\0Perché no?!"
 "004_b","Non devi cambiare."
 "005","(촀\0Dici sul serio? 
 \0Merci, merci, merci!

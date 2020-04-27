@@ -28,20 +28,31 @@ quella di sopra o quella di sotto?"
 "001_d","Do solo un'occhiata."
 "002","(촀\0Oh, ""s촀""? È un tuo modello, vero?
 \0 Bene, (&촀\0cosa vuoi fare?"
-"002_a","Vorrei questo motivo."
+"002_a","Vorrei questo modello."
 "002_b","Esporre il mio modello."
 "002_c","Do solo un'occhiata."
 "003","È (촀\0""s촀"",
 opera di s\0촀.
 \0( Bene, (&촀\0cosa vuoi fare?"
-"003_a","Vorrei questo motivo."
+"003_01","È (촀\0""s촀"",
+opera di s\0촀.
+\0( Bene, (&촀\0cosa vuoi fare?"
+"003_01_a","Vorrei questo modello."
+"003_01_b","Esporre il mio modello."
+"003_01_c","Invio segnalazione"
+"003_01_d","Do solo un'occhiata."
+"003_a","Vorrei questo modello."
 "003_b","Esporre il mio modello."
 "003_c","Do solo un'occhiata."
-"004","È (촀\0""s촀"".
-Creato da s\0촀 di
-s촀.
-Bene, (&촀\0che cosa vuoi fare?"
-"004_a","Vorrei questo motivo."
+"004","È (촀\0""s촀"", creato da s\0촀 di s촀.\0\0Bene, 
+\0(&촀\0che cosa vuoi fare?"
+"004_01","È (촀\0""s촀"", creato da s\0촀 di s촀.\0\0Bene, 
+\0(&촀\0che cosa vuoi fare?"
+"004_01_a","Vorrei questo modello."
+"004_01_b","Esporre il mio modello."
+"004_01_c","Invio segnalazione"
+"004_01_d","Do solo un'occhiata."
+"004_a","Vorrei questo modello."
 "004_b","Esporre il mio modello."
 "004_c","Do solo un'occhiata."
 "005","(촀\0Certo!
@@ -95,8 +106,8 @@ avrà molto successo!"
 "027","(&촀\0Dove vuoi salvarlo?"
 "028","(&촀\0Oh, vuoi lasciar perdere e pensarci
 un'altra volta?"
-"028_a","Sì, lasciamo stare."
-"028_b","No, procediamo!"
+"028_a","(\0촀\0Sì, lasciamo stare."
+"028_b","(\0촀\0No, procediamo!"
 "030","( 촀\0Ehi, lo sai che il modello che ti stai
 portando via(촀\0 è un \0modello pro\0￿?\0\0()촀\0I normali modelli personalizzati
 \0
@@ -127,3 +138,14 @@ l'aggiornamento.
 miglia al \0Punto Nook\0￿
 \0 nel \0centro servizi\0￿.
 \0 (촀\0Corri a vedere!"
+"040","(%촀\0D'accordo,
+\0 allora provvederò
+a rimuovere questo modello
+personalizzato."
+"051","(촀\0Ehm, n\0n\0\0
+\0 (\0촀\0Il modello personalizzato che sfoggi è stato sovrascritto da uno nuovo.\0\0()촀\0Però non preoccuparti,
+\0 perché
+l'aspetto dei tuoi abiti non cambierà.\0\0(촀\0Tuttavia, 
+\0se vuoi sfoggiare il nuovo
+modello, puoi farlo selezionando
+\0Indossa\0￿."

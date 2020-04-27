@@ -7,7 +7,7 @@
 \0((촀\0
 P\0 (촀\0
 \0HUCH?!
-"
+<"
 "002","(촀\0Huuu! 
 \0Pardon!
 \0( Ich bin ein eher
@@ -85,21 +85,25 @@ heute Gu-huuutes tun?"
 "015","(촀\0Sehr gut. 
 \0Dann wünsche ich Ihnen
 noch einen wundervollen Aufenthalt!"
-"016","(촀\0Nur keine Eile.
+"016","(촀\0Schauen Sie sich in Ruhe um!
 \0
-Schauen Sie sich in Ruhe um!(\0촀"
-"017","(촀\0Hmmm? 
-\0Huuu! (\0촀\0
-\0
-(%촀\0Was darf ich für Sie tun?"
+Nur keine Eile.(\0촀"
+"017","(촀\0Oder, 
+\0huuun\0\0 
+\0Darf ich Ihnen helfen?
+(\0촀\0
+\0(%촀\0Ich stehe Ihnen selbstverständlich in
+allen musealen Fragen zur Seite."
 "017_a","Ich will etwas stiften."
 "017_b","Fossilien analysieren."
 "017_c","Ich hätte da was..."
 "017_d","Nichts..."
-"018","(촀\0Hmmm? 
-\0Huuu! (\0촀\0
-\0
-(%촀\0Was darf ich für Sie tun?"
+"018","(촀\0Oder, 
+\0huuun\0\0 
+\0Darf ich Ihnen helfen?
+(\0촀\0
+\0(%촀\0Ich stehe Ihnen selbstverständlich in
+allen musealen Fragen zur Seite."
 "018_a","Fossilien analysieren."
 "018_b","Ich hätte da was..."
 "018_c","Nichts..."
@@ -321,14 +325,14 @@ ich gebe gut auf den Krabbler acht."
 "126","( 촀\0Dann heißt das jan\0\0?
 \0( (촀\0Und ob!
 \0
-2*)촀
+2**촀
 UnserUnsere
 Unser \0\0촀\0￿ ist
 vollständig!
 \0 (1촀\0Hach,
 \0 welche Pracht! \0\0(&촀\0Dürfte ich wohl so frei sein
 \0 und mein
-Wissen über 2)촀dendiedas \02촁\0촀
+Wissen über 2*촀dendiedas \02촁\0촀
 \0￿mit Ihnen teilen?"
 "126_a","Klaro, nur zu!"
 "126_b","Nee, kein Bedarf."
@@ -383,7 +387,7 @@ aufregenden Stück hören,
 "130_b","Ich, äh, hab Termine..."
 "131","(4촀\0Ichn\0\0
 \0 könnte Ihnen auch viel
-Spannendes erzählen zu 2.촀diesemdieserdiesem
+Spannendes erzählen zu 2.촀diesemdieserdiesem
 2촂}\0\0n"
 "131_a","Sehr gerne!"
 "131_b","Kann gerade nicht..."
@@ -483,10 +487,10 @@ Fall klar. 
 \0
 2\02\0}\0\0,
 \0 kein Zweifel!"
-"209","2\02\0}\0\0n\0\0\0\0(%촀\0Ich als Privateule würde 2촀ihnsiees sofort
+"209","2\02\0}\0\0n\0\0\0\0(%촀\0Ich als Privateule würde 2촀ihnsiees sofort
 nehmen,
-\0 aber leider verfügt das
-Museum bereits über ein Exemplar.\0\0(촀\0Verzeihen Sie mir,
+\0 aber leider verfügen wir
+hier bereits über ein Exemplar.\0\0(촀\0Verzeihen Sie mir,
 \0 dass ich Ihnen
 das schöne Stück daher wieder
 zurückgebe."
@@ -532,12 +536,13 @@ eröffnet werden kann?"
 \0
 Und selten dazu!
 \0 So etwas haben wir
-noch nicht in unserer Sammlung.\0\0(촀\02\02\0}\0\0 dieser Art ist eine signifikante inselgeschichtliche Entdeckung...\0\0Sollten Sie dieses Objekt an uns
+noch nicht in unserer Sammlung.\0\0()촀\02\02\0}\0\0 dieser Art ist eine signifikante inselgeschichtliche Entdeckung...\0\0(
+촀\0Sollten Sie dieses Objekt an uns
 abtreten wollen,
 \0 wäre das fraglos
-sehr positiv für die hiesige Kultur...\0\0(4촀\0Sagen Sie, 
+sehr positiv für die hiesige Kultur...\0\0(9촀\0Sagen Sie, 
 \0würden Sie es dem
-Museum spenden?"
+Museum (;촀\0spenden?"
 "213_a","Ich stifte es!"
 "213_b","Ich nehm's mit."
 "214","(촀\0Huuu! 
@@ -547,20 +552,20 @@ sondern gleich mehrere!
 \0(
 촀\0
 Dann mal rasch ans Werk!"
-"215","(촀\0Huhuuu,
+"215","(촀\0Huhuuu,
 \0 welch Glücksfall!
 \0
-(촀\0Nicht eines dieser Stücke haben
-wir bereits in unserer Sammlung!\0\0(촀\0Sie sind ja nicht nur eine Spürnase,
+Nicht eines dieser Stücke haben
+wir bereits in unserer Sammlung!\0\0(촀\0Sie sind ja nicht nur eine Spürnase,
 \0
 Sie sind 2d.ein richtiger Entdecker2eine richtige Entdeckerin!"
-"216","(촀\0Huhuuu!
+"216","(촀\0Huhuuu!
 \0 Sehr schön,
 \0 da ist auf jeden
 Fall Neues für uns dabei.
 \0 (촀\0Wir haben
 noch nicht alle dieser Stücke!
-(촀\0Ich bin entzückt!
+(촀\0Ich bin entzückt!
 \0 Man meint fast,
 \0
 Sie hätten einen sechsten Sinn
@@ -616,7 +621,7 @@ Welch Wonne, 
 \0wenn Fortuna lacht!\0\0Da wir uns gerade alle so furchtbar
 freuen,
 \0 (4촀\0wie wäre es mit etwas Wissen
-über 2)촀dendiedas 2촁\0촀?"
+über 2*촀dendiedas 2촁\0촀?"
 "224_a","Lass wissen!"
 "224_b","Nee, ich hab zu tun..."
 "225","(촀\0Hach, wie ich mich freue!
@@ -659,8 +664,8 @@ Ihnen Erhellendes dazu erzählen!"
 "302","(촀\0Huuu!
 \0 Ich bin schon ganz gespannt,
 \0
-was Sie mir demnächst noch Schönes
-bringen werden!"
+was Sie mir diesmal Schönes
+bringen!"
 "303","( 촀\0Ganz sicher?
 \0(\0촀\0 Wenn Sie irgendetwas
 wissen möchten,
@@ -702,7 +707,7 @@ sogleich einen Blick darauf werfenn"
 "352","(9촀\0Mehr habe ich nicht zu sagen.\0\0(촀\0Und nun möchte ich Sie bitten, 
 \0
 
-2""촀
+2""촀
 ihrenihreihr }\0\0 wieder mitzunehmen. 
 \0Vielen Dank."
 "353","()촀\0Übrigens scheint 2\0}\0\0 in unserer Sammlung noch zu fehlen.\0\0(9촀\0Ein höchst verschmerzbarer
@@ -759,7 +764,7 @@ schönes Stück gezeigt haben."
 \0 hach! 
 \0(촀\0Ich freue mich so darauf,
 \0 das gute Stück auszustellen!"
-"367","(""촀\0Dieses Stück haben wir nun in
+"367","(""촀\0Dieses Stück haben wir bereits in
 unserem Museum.
 \0 (촀\0Bitte schauen
 Sie selbst!
@@ -768,7 +773,7 @@ Sie selbst!
 \0was unsere Sammlung
 wirklich gut gebrauchen könnte?
 \0
-2""촀
+2""촀
 EinenEineEin 2촁}\0\0n\0\0\0\0(4촀\0Sollten Sie uns mit einer Sachspende
 unterstützen wollen,
 \0 würden wir uns

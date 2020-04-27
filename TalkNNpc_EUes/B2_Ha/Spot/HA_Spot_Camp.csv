@@ -116,31 +116,22 @@ me llegó tu invitación.
 ¡Gracias, n\0!"
 "202","<"
 "202_01","($촀\0¡Eh!
-\0 Soy n
-\0n\0\0
-\0
-()촀\0Alguien de aquí me ha invitado.
+\0 ¿Qué hay?
+\0 ()촀\0Alguien de aquí me
+ha invitado a venir de \0acampada\0￿.
 \0
-(촀\0Quiero agradecerle la invitación aquí."
-"202_02","($촀\0¿Qué tal?
-\0 Yo soy n
-\0.
-\0
-¡Encantado, n\0!\0\0(%촀\0Alguien me ha invitado
-a venir y quiero organizar
-una minicompetición en su honor."
+(촀\0¡Y le estoy muy agradecido!"
+"202_02","($촀\0¿Qué tal,
+\0 n\0?\0\0(%촀\0Alguien me ha invitado a venir.
+\0
+¡Debería organizar una competición
+en su honor!"
 "202_03","(""촀\0¿Qué pasa, máquina?
-\0 Creo que
-no nos conocemos, ¿verdad?
-\0
-Yo me llamo n
-\0.
-(촀\0¡Qué subidón estar por aquí!
+\0 (촀\0
+¡Qué subidón estar por aquí!\0\0()촀\0Tan pronto como me invitaron,
 \0
-Tan pronto como me invitaron
-a venirn\0\0
-(촀\0¡Me faltó tiempo para venir
-corriendísimo, n\0!"
+(촀\0¡me faltó tiempo para venir
+corriendísimo, n\0!"
 "301","<"
 "301_01","()촀\0No a todo el mundo le gusta alojarse
 en una tienda,
@@ -171,7 +162,7 @@ de esta isla podría desmontármela!"
 "301_05","(&촀\0¿Nunca te ha pasado que vas
 a algún sitio y el aire huele mejor?\0\0(촀\0¡Pues imagínate cómo de bien huele
 el aire por aquí ahora que cuenta
-con el aroma de mi sudor! "
+con el aroma de mi sudor!"
 "302","<"
 "302_01","()촀\0No a todo el mundo le gusta alojarse
 en una tienda,
@@ -266,7 +257,7 @@ todo claro, ¿sabes?
 para desarrollar mi carrera como
 estrella del deporte, n\0!"
 "501_01","()촀\0¡Esta isla parece ideal para entrenos
-de intervalos de alta intensidad!\0\0(촀\0La idea es intercalar períodos cortos
+de intervalos de alta intensidad!\0\0(촀\0La idea es intercalar periodos cortos
 de descanso entre sesión y sesión
 de ejercicio intenso.
 (

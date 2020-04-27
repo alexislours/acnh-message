@@ -28,8 +28,7 @@ gauw beginnen, (\0촂\0vind je ook niet?"
 ($촂\0($촃\0Wat zijn je \0naam
 \0 \0￿en je \0verjaardag\0￿?(%촃\0
 d\0\0K Je gegevens!\0dd"
-"003_03","2\0n\0n\0\0
-2\0n\0n\0\0 Eens zienn\0\0
+"003_03","2\0n\0n\0\0 2\0n\0n\0\0 Eens zienn\0\0
 d"
 "003_05","(촂\0(촃\0
 \0O! 
@@ -62,7 +61,7 @@ eilanden op het \0noordelijk halfrond
 seizoenen als waar je zelf woont,
 of precies andersom?(%촃\0d\0\0K Juiste ritme!\0dd"
 "021","()촂\0Eens zienn\0\0 Onze eilanden zijn
-allemaal ongeveer even groot,
+allemaal ongeveer even groot
 en allemaal net zo ongerept.
 (촂\0Dus je hoeft niet te zoeken of er
 eentje groter of comfortabeler is.
@@ -74,14 +73,14 @@ eiland waarvan het landschap je het
 beste bevalt.
 \0 Zo zou ik het doen!
 (촂\0
-\0(촃\0Ik zal je wat kaarten laten zien, en
+\0(촃\0Ik zal je wat kaarten laten zien en
 dan kun jij bepalen waar je je nieuwe
 thuis van wilt maken.(%촀\0d\0\0K Kijk goed!\0dd"
 "022","(촂\0Wat een goeie keus! (%촃\0d\0\0KZo mooi!\0dd
 \0 
 (촂\0Ik kan niet wachten om(촃\0 je daar rond
 te leiden."
-"023","(촀\0Ah, wachtn\0\0 Voor we vertrekken,
+"023","(촀\0Ah, wachtn\0\0 Voor we vertrekken
 heb ik nog één vraag voor jen\0\0\0\0(
 촂\0(
 촃\0Als je één ding mee zou mogen
@@ -130,10 +129,13 @@ met zijn allen!
 "027_03","d\0d촁Goedenavond, dames en heren.
 \0d촂d"
 "028","d\0d촁Hartelijk welkom aan boord van deze
-speciale chartervlucht, onderdeel van het Eilandleven-pakket van Nook Inc.
+speciale chartervlucht, onderdeel van
+het Eilandleven-pakket van Nook Inc.
 Ga rustig zitten
 \0 en geniet
-\0 van deze speciale videopresentatie over het eilandleven dat u staat te wachten.
+\0 van deze
+speciale videopresentatie over het
+eilandleven dat u te wachten staat.
 \0d촂d"
 "028_01","d\0d촁Bedankt dat u met ons vliegt
 naar n\0.\0\0Blijf zitten, ontspan u, en bekijk
@@ -164,3 +166,6 @@ je moet weten over het eilandleven
 \0
 zodra we geland zijn!(촀\0 (촀\0d\0
 \0\0KOp vaste grond!\0dd"
+"203_02",""
+"203_03",""
+"203_04",""

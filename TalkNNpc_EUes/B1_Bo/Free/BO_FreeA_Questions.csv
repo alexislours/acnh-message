@@ -29,10 +29,8 @@ lo que tengo para mañana?
 \0
 (촀\0¡Soy un genio!"
 "005","Oye, n\0n\0\0
-\0 (&촀\0a la hora
-de la merienda,
-\0 ¿qué es lo que más
-te apetece?"
+\0 (&촀\0a la hora de la merienda,
+\0 ¿qué es lo que más te apetece?"
 "005_a","Tarta
 Chocolate
 Rosquillas"
@@ -58,8 +56,7 @@ dulce o algo salado para merendar.
 \0
 (촀\0¡Por eso yo suelo mezclarlo todo!"
 "009","(촀\0Oye, n\0,
-\0 ¿cuál de
-estos es tu tentempié favorito?"
+\0 ¿cuál de estos es tu tentempié favorito?"
 "009_a","Galletas"
 "009_b","Chocolate"
 "009_c","Helado"
@@ -100,7 +97,7 @@ sobre tartas,
 "014","(촀\0Perdona si te parece rara la
 pregunta, peron\0\0
 \0 ¿qué color
-te parece más cálido?"
+te gusta más?"
 "014_a","El rojo"
 "014_b","El naranja"
 "014_c","El amarillo"

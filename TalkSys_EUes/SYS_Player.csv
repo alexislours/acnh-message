@@ -8,7 +8,7 @@ y me deshago de otra cosan"
 "001_b","Mejor no"
 "002","¡He desenterrado
 2\0}\0\0!"
-"003","Pero ya no puedo llevar nada más.
+"003","Ya no puedo llevar nada más.
 \0
 A lo mejor si hago un cambio
 y me deshago de otra cosan"
@@ -21,19 +21,19 @@ y me deshago de otra cosan"
 "003_01_b","Volver a enterrar"
 "003_a","¡Cambiar es bueno!"
 "003_b","Volver a enterrar"
-"004","Pero ya no puedo llevar nada más.
+"004","Ya no puedo llevar nada más.
 \0
 A lo mejor si hago un cambio
 y me deshago de otra cosan"
 "004_a","¡Cambiar es bueno!"
 "004_b","Que siga libre"
-"005","Pero ya no puedo llevar nada más.
+"005","Ya no puedo llevar nada más.
 \0
 A lo mejor si hago un cambio
 y me deshago de otra cosan"
 "005_a","¡Cambiar es bueno!"
 "005_b","Mejor se queda ahí"
-"006","Pero ya no puedo llevar nada más.
+"006","Ya no puedo llevar nada más.
 \0
 A lo mejor si hago un cambio
 y me deshago de otra cosan"
@@ -111,17 +111,17 @@ Será mejor dejarlo donde estaba."
 "101","He encontrado
 2\0}\0\0.
 \0
-¿Quién l2촀oa\0 habrá perdido?"
+¿Quién l2촀oa\0 habrá perdido?"
 "102","He encontrado
-2\0}\0\0.\0\0Es probable que l2촀oa\0 haya perdido
+2\0}\0\0.\0\0Es probable que l2촀oa\0 haya perdido
 alguien de esta isla.
 \0 Será mejor
-que no me l2촀oa\0 lleve."
+que no me l2촀oa\0 lleve."
 "103","Alguien ha perdido
-2\0}\0\0.\0\0Será mejor que l2촀oa\0 deje donde está.
+2\0}\0\0.\0\0Será mejor que l2촀oa\0 deje donde está.
 \0
 Seguro que ya hay alguien
-buscándol2촀oa\0."
+buscándol2촀oa\0."
 "104","El tesoro no es mío.
 \0
 Sería de mala educación abrirlo."
@@ -222,13 +222,13 @@ He terminado de pagar el préstamon\0\0
 "210","¡Ahora lo tengo más claro!"
 "210_01","¡He aprendido a hacer \0peinados
 pop\0￿! Con un \0espejo \0￿o un \0tocador
-\0￿podría cambiar de look."
+\0￿podría cambiar mi imagen."
 "210_02","¡He aprendido a hacer peinados
 modernos! Con un \0espejo \0￿o un
-\0tocador \0￿podría cambiar de look."
+\0tocador \0￿podría cambiar mi imagen."
 "210_03","¡He aprendido a crear nuevos \0tintes\0￿
 para el pelo! Con un \0espejo \0￿o un
-\0tocador \0￿podría cambiar de look."
+\0tocador \0￿podría cambiar mi imagen."
 "210_04","¡He aprendido algunos trucos para
 organizar mis bolsillos! Seguro que
 ahora podré llevar aún más cosas."
@@ -303,7 +303,7 @@ Le he dado bastante uson"
 \0 No ha aguantado más
 2\0\0}\0\0\0￿.
 \0
-¡Gracias por tus servicios, amig2촀oa\0!"
+¡Gracias por tus servicios, amig2촀oa\0!"
 "290_03","¡Porras!
 \0 Ese ha sido el fin
 de mi \0}\0\0\0￿.
@@ -351,6 +351,18 @@ ocurrir un proyecto de bricolaje!"
 \0
 (촀\0¡Se me acaba de ocurrir un proyecto
 de bricolaje!"
+"515","(
+촀\0Podría usar este estampado para
+algon\0\0
+\0 (촀\0
+\0¡Se me acaba de ocurrir
+un proyecto de bricolaje!"
+"518","(
+촀\0Si combino lo que he aprendido a
+hacer con cáscaras de huevon\0\0
+\0
+(촀\0
+\0¡Se me acaba de ocurrir algo!"
 "700","¡Cumpleaños feliz!
 \0 Me deseo a mí
 mism2oa...
@@ -453,13 +465,17 @@ no molestar."
 tan cerca del buzón de alguien.
 Mejor elijo otro sitio."
 "919_01","Primero tendré que mover el \0buzón\0￿."
+"920","No se puede instalar nada tan cerca
+del muelle. Bloquearía el paso.
+Mejor elijo otro sitio."
 "921","Tengo que poner el puente justo
 encima de un río..."
 "926","Para construir un puente, el terreno
 tiene que ser llano en ambas riberas
 y el río debe tener el ancho correcto."
-"926_01","El puente será incómodo de usar
-si lo construyo tan cerca del agua."
+"926_01","El puente sería incómodo de usar
+si lo construyese tan cerca de esa
+otra masa de agua."
 "926_02","El puente será incómodo de usar
 si lo construyo tan cerca de una
 elevación."

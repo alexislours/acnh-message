@@ -9,7 +9,7 @@ Platz für weitere Dinge."
 "005","Du kannst nicht umdekorieren,
 während Besuch da ist."
 "006","Der Eingang sollte frei bleiben."
-"007","Auf dem Festplatz ist kein Platz dafür."
+"007","Auf dem \0Festplatz \0￿ist kein Platz dafür."
 "008","Das kann nicht auf dem Boden
 platziert werden."
 "009","Das kann nicht an einer Wand
@@ -36,8 +36,8 @@ kein Besuch mehr da ist."
 kein Besuch mehr da ist."
 "022","Türdeko lässt sich nur an
 deiner Haustür anbringen."
-"023","Vielleicht bekommst du Besuch, also
-kannst du jetzt keine Zäune bauen."
+"023","Du hast Besuch, also solltest du
+jetzt vielleicht keine Zäune bauen..."
 "024","Du hast gerade Besuch, also kannst
 du das gerade nicht ablegen."
 "025","Hier ist schon eine Türdeko!"
@@ -47,9 +47,17 @@ damit man vorbeikommt!"
 damit man zum \0Flughafen \0￿kommt!"
 "028","Du kannst keine Türdeko
 an ein Zelt hängen!"
+"029","Um einen Baum in ein Loch
+einzupflanzen, musst du eine
+Schaufel in die Hand nehmen."
+"030","Du kannst nichts pflanzen,
+solange jemand in der Nähe ist."
 "051","Hier ist nicht genug Platz dafür."
 "052","In diesem Zimmer ist kein
 Platz für weitere Dinge."
+"061","Um in Fotopia eigene Designs
+anzulegen, drücke \0\0￿ (Kulissen-
+wechsel) und wähle dann ."
 "101","Du kannst dieses Plateau nicht
 bearbeiten, da sich etwas
 darauf befindet."
@@ -65,7 +73,7 @@ zu bauen."
 Baum herum bauen."
 "106","Wegen des Baumes in der Nähe
 ist es zu gefährlich, dieses
-Plateau hier zu abzutragen."
+Plateau hier abzutragen."
 "107","Wegen des Gebäudes in der Nähe
 ist es zu gefährlich, hier Plateaus
 zu bauen."
@@ -119,27 +127,27 @@ Es passt nichts mehr rein!"
 gerade nicht verwenden."
 "405","Du kannst keine weiteren
 Kleidungsstücke ablegen."
-"406","Du brauchst mehr Platz, um diesen
-Köder einsetzen zu können."
+"406","Du solltest diesen Köder an einem
+geeigneten Gewässer einsetzen."
 "407","Du kannst dich nicht umziehen,
 während du verwandelt bist."
 "408","Diese \0Bastelanleitung
-\0￿hast du bereits."
-"409","Du hast nicht genug Sternis
-in deinem Geldbeutel."
+\0￿kenne ich bereits."
+"409","Ich habe nicht genug
+Sternis im Geldbeutel."
 "410","Ist das eine Anleitung fürs \0Basteln\0￿?
 Wie soll man sich das denn merken..."
 "411","Du kannst die Stoppuhr jetzt nicht
 verwenden."
-"412","Vor dem Tapezieren brauchst du
-Platz, um Gegenstände zu lagern,
-die die Tapete verdecken würde."
-"413","Du kannst dieses Werkzeug nur auf
-einer Insel eines besten Freundes
-einsetzen."
+"412","Gegenstände, die das Fenster ver-
+decken würden, werden eingelagert.
+Du hast nicht genug Lagerplatz!"
+"413","Du kannst dieses Werkzeug
+nur auf der Insel eines
+besten Freundes einsetzen."
 "414","Du kannst gerade nichts mehr essen."
-"415","Du kannst so etwas nur auf Inseln
-deiner besten Freunde pflanzen."
+"415","Du kannst so etwas nur auf der Insel
+eines besten Freundes pflanzen."
 "430","Du kannst diesen Gegenstand nicht
 wegtun, da dein Lager voll ist!"
 "438","Das passt nicht alles in dein Lager!"
@@ -186,3 +194,12 @@ nichts mehr mitnehmen."
 "513","Deine Tasche ist voll."
 "514","Diese Krimskramskiste ist nur für
 Bewohner von n\0."
+"600","Wenn du Besuch hast, kannst du
+nichts herunterladen."
+"601","Wenn der Flugsteig offen ist, kannst
+du nichts herunterladen."
+"602","Wenn du auf Reisen bist, kannst du
+nichts herunterladen."
+"603","Um eigene Designs herunterzuladen,
+gehe zum Flughafenschalter und
+lasse die Verbindung beenden."

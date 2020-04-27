@@ -1,4 +1,9 @@
 ﻿"label","text"
+"001","Verbindung zum Internet
+wird hergestellt..."
+"002","Die Internetverbindung wird
+getrennt und der lokale
+Modus wird vorbereitet..."
 "003","Suche nach Inseln läuft..."
 "004","Abreise wird vorbereitet..."
 "005","Heimkehr wird vorbereitet..."
@@ -7,10 +12,14 @@
 (Drücke \0\0￿ zum Abbrechen.)"
 "008","Sitzung wird beendet...
 (Drücke \0 \0￿zum Abbrechen.)"
+"010","Karte wird verschickt..."
 "020","2\0s\0촀 von s촀 ist da!
 <"
 "021","2\0s\0촀 geht nach Hause. Gute Reise!
 <"
+"030","Zugriff auf NookLink
+wird vorbereitet..."
+"040","Registrierung als Design-Ersteller..."
 "100","Um diese Software online spielen zu
 können, muss sie auf die neueste
 Version aktualisiert werden.\0\0Bitte stelle eine Verbindung

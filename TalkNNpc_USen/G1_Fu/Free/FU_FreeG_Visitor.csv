@@ -8,7 +8,7 @@ local fruit is
 "001_b","Can't say that I do."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0I'm impressed!
 \0 (촀\0Friends always ask
 \0
@@ -42,10 +42,12 @@ a \0museum\0￿ now!\0\0(4촀\0OK,
 with lots of exhibits on display.
 \0
 (%촀\0I can't wait to tour that place."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(&촀\0Have you toured our \0museum\0￿?
 \0
 (%촀\0It's a place with lots to offer.(\0촀\0\0\0I try to make a day of it when I go,
@@ -76,16 +78,15 @@ display now?
 fair to say that makes the collection
 here
 \0 (5촀\0one to be proud of!"
-"101","<\0fi"
-"102","(촀\0We live on different islands now,
-\0
-but
-\0n\0\0 (4촀\0Do you ever think about the
-fun we had,
+"201","<\0ÊÍ"
+"202","(촀\0I know we live on different islands
+now, 
+\0butn\0\0(4촀\0do you ever think about
+the fun we had,
 \0 n\0?"
-"102_a","Of course!"
-"102_b","Oh, uh... Yeeeah..."
-"103","(촀\0Oh,
+"202_a","Of course!"
+"202_b","Oh, uh... Yeeeah..."
+"203","(촀\0Oh,
 \0 I'm so glad it's not just me!
 \0
 (4촀\0I guess I was worried
@@ -94,36 +95,33 @@ have been as memorable to you.
 (2촀\0I've actually written some poems
 about those times
 \0n\0\0 (촀\0Is that weird?"
-"104","(촀\0Oh!
-\0 (촀\0Sorry if I made this awkward.
-\0
-(촀\0But maybe that just goes to show
-how fulfilling your current life is.
-()촀\0I've read lots of articles warning not
-to dwell on your past.
-\0 So here's to
-making new memories,
-\0 n\0!"
-"105","(4촀\0Not to put you on the spot,
+"204","(촀\0Oh! 
+\0Sorry if I made this awkward.
+\0(
+(촀\0I guess the important thing is that
+our new lives are fulfilling.
+()촀\0I've read lots of articles that say we
+shouldn't dwell on the past.\0\0(촀\0So here's to making new memories,
+n\0!"
+"205","(4촀\0Not to put you on the spot,
 \0 but
 \0n\0\0
 (;촀\0Do you think I've changed at all
 \0
 from how you remember me?"
-"105_a","Yeah, maybe a bit..."
-"105_b","You're still the same."
-"106","(촀\0You really noticed?
-\0
-(촀\0Oh,
-\0 that's so great!\0\0(7촀\0I've been trying to improve my
-posture,
-\0 to seem more confident.
+"205_a","Yeah, maybe a bit..."
+"205_b","You're still the same."
+"206","(촀\0You really noticed?
+\0 (촀\0Oh,
+\0 that's
+so great!\0\0(7촀\0I've been trying to improve my
+posture and to seem more confident.
 (%촀\0It's based on an article I read
 \0n\0\0
 (촀\0You know me well,
 \0 so it's (촀\0exciting
 that you noticed a change already!"
-"107","(촀\0I'm glad to hear you say that!\0\0(7촀\0I read this article about posture
+"207","(촀\0I'm glad to hear you say that!\0\0(7촀\0I read this article about posture
 \0
 that made me worried (촀\0that I was
 slouching too much,

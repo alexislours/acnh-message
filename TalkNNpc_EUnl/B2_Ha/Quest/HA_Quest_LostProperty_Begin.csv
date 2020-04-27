@@ -2,7 +2,7 @@
 "001","(
 촀\0Jij hebt vast mijn tas niet gezien.\0\0(촀\0Ik heb me de laatste tijd alleen maar beziggehouden met 촀, en nu weet ik niet waar hij is!"
 "001_a","Ik zal ernaar uitkijken.
-(\0촁\0Ik help je wel zoeken."
+Ik help je wel zoeken."
 "001_b","(\0촁\0Hopelijk vind je hem.
 (\0촁\0Wat vervelend."
 "002","(촀\02\0n\0!
@@ -12,7 +12,7 @@
 dat ik niet weet waar ik mijn spullen
 laat."
 "002_a","Ik hou mijn ogen open.
-(\0촁\0Ik vind hem wel voor je!"
+Ik vind hem wel voor je!"
 "002_b","(\0촁\0Geen idee waar hij is.
 (\0촁\0Hè, dat is irritant."
 "003","(촀\0Ik ben mijn tas ergens kwijtgeraakt.
@@ -23,7 +23,7 @@ zaten erin!
 gaan ze me nadoen en zijn ze in een
 mum van tijd zo sterk als ik!"
 "003_a","Ik ga ernaar op zoek.
-(\0촁\0Laat mij maar zoeken."
+Laat mij maar zoeken."
 "003_b","(\0촁\0Wat een pech.
 (\0촁\0Dat is een probleem."
 "004","(촀\0Zo te merken ben ik ergens mijn
@@ -32,13 +32,13 @@ bezwete kleren in zatenn\0\0\0\0(촀\0Wat als iemand ze gebruikt om me te
 klonen en mijn grootste rivaal te
 maken?!"
 "004_a","Ik ga ernaar zoeken.
-(\0촁\0Ik zoek hem wel."
+Ik zoek hem wel."
 "004_b","(\0촁\0Helaas...
 (\0촁\0Dat is balen."
 "006","(촀\0Mijn trainingsdagboek is kwijt!\0\0(촀\0Ik had er een nieuwe techniek voor 촀 in opgeschrevenn\0\0
 \0( Ik moet en zal mijn dagboek vinden!"
 "006_a","Ik zal ernaar uitkijken.
-(\0촁\0Ik help je wel zoeken."
+Ik help je wel zoeken."
 "006_b","(\0촁\0Hopelijk vind je het.
 (\0촁\0Wat vervelend."
 "007","(촀\0Ik bedenk me net dat ik geen flauw
@@ -48,7 +48,7 @@ is.\0\0(촀\0Waar heb ik het gelaten?
 me niet herinneren! Voortaan toch
 meer mijn geheugen trainen!"
 "007_a","Ik hou mijn ogen open.
-(\0촁\0Ik vind het wel voor je!"
+Ik vind het wel voor je!"
 "007_b","(\0촁\0Heb ik niet gezien.
 (\0촁\0O, wat jammer."
 "008","(촀\0Ik weet niet waar ik mijn boekje met
@@ -57,13 +57,13 @@ training en supersterk wordt?
 \0 Dan
 heb ik er een rivaal bij, n\0!"
 "008_a","Ik ga op zoek voor je.
-(\0촁\0Laat mij maar zoeken."
+Laat mij maar zoeken."
 "008_b","(\0촁\0Wat een pech.
 (\0촁\0Dat is vervelend."
 "009","(촀\0Ik heb mijn boekje met oefeningen
 verlorenn\0\0\0\0(촀\0Mijn hele trainingsplan stond erinn\0\0\0\0(촀\0n\0\0en een cool recept voor een proteïnedrank met 촀 en 촀!"
-"009_a","(\0촁\0Ik zoek wel voor je.
-(\0촁\0Laat mij maar zoeken."
+"009_a","Ik zoek wel voor je.
+Laat mij maar zoeken."
 "009_b","(\0촁\0Wat naar voor je.
 (\0촁\0Dat is jammer."
 "011","( 촀\0Echt?!
@@ -123,16 +123,16 @@ ergens gezien?\0\0(촀\0Ik denk dat ik hem heb laten vallen
 bij het joggen,
 \0 (촀\0maar ik kan hem
 nergens vinden. 2\0n\0."
-"101_a","Ik zal ernaar uitkijken.
+"101_a","(\0촁\0Ik zal ernaar uitkijken.
 (\0촁\0Ik help je wel zoeken."
-"101_b","Hopelijk vind je hem.
-Wat een pech."
+"101_b","(\0촁\0Hopelijk vind je hem.
+(\0촁\0Wat een pech."
 "102","('촀\0Ik kan mijn tas nergens vinden,
 n\0\0\0(촀\0Al mijn favoriete sportkleren zaten
 erin,
 \0 (촀\0en nu kan ik mezelf niet meer
 motiveren."
-"102_a","Ik hou mijn ogen open.
+"102_a","(\0촁\0Ik hou mijn ogen open.
 (\0촁\0Ik vind hem wel voor je!"
 "102_b","(\0촁\0Niet gezien, sorry.
 (\0촁\0Ah, dat is jammer."
@@ -153,14 +153,14 @@ mijn tas nou zijn?! 2\0n\0!"
 "201","(촀\02\0n\0, ik kan mijn boekje met oefeningen nergens vinden!\0\0(촀\0Per spiergroep heb ik oefeningen
 genoteerdn\0\0 (촀\0Waar kan het nou zijn?"
 "201_a","Ik help je wel.
-(\0촁\0Ik zoek met je mee."
+Ik zoek met je mee."
 "201_b","(\0촁\0Ik snap je probleem.
 (\0촁\0Wat lastig voor je."
 "202","(촀\0Ik ben mijn boekje met oefeningen
 kwijt.
 \0( (촀\0Waar kan het nou toch zijnn"
 "202_a","Laat mij je helpen!
-(\0촁\0Ik zoek er ook naar."
+Ik zoek er ook naar."
 "202_b","(\0촁\0Hè, wat een pech.
 (\0촁\0Zoiets is vervelend."
 "203","(촀\0Echt waar?

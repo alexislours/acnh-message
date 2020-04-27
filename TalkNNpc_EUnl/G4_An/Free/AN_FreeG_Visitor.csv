@@ -5,7 +5,7 @@
 "001_b","Een van die?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(3촀\0Deze ronde win jij.
 \0( ()촀\0Het is inderdaad 2\0n촀. Vergeet niet om er een paar te kopen!"
 "005","(촀\0Datn\0\0 zijn stenen. Je wijst naar stenen. 
@@ -34,10 +34,12 @@ vinden. 2\0n\0!"
 nog bezig met alles opzetten, maar
 ooitn\0\0
 \0 (촀\0Ooit!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(""촀\0Je moet het \0museum\0￿ gaan zien.
 \0( (촀\0Dat
 is de trots van ons eiland!\0\0()촀\0Ik word al enthousiast als ik er alleen
@@ -45,51 +47,50 @@ maar voorbijloop.
 \0 En het gebouw is
 erg fotogeniek, als dat je ding is."
 "028","(""촀\0Ben je al naar het \0museum\0￿ geweest?
-\0( (촀\02 (촀OnzeOnsOnze 
+\0( (촀\02 )촀OnzeOnsOnze 
 \0 moet je gezien hebben!"
 "029","()촀\0Hou je van beestjes? 
 \0We hebben 2\0
  in ons \0museum\0￿.
-\0( (촀\02:(촀Die zietDat zietDie zien er zo tof uit, joh!"
+\0( (촀\02:)촀Die zietDat zietDie zien er zo tof uit, joh!"
 "030","(;촀\02\02\02촃
  in de fossielenzaal van ons \0museum\0￿ moet je hebben gezien voor je gaat!"
-"101","<\0fi"
-"102","(촀\0Je kon niet wegblijven, zeker?
+"201","<\0ÊÒ"
+"202","(촀\0Je kon niet wegblijven, zeker?
 \0( (촀\0Zeg
 eens eerlijk: ben je hier voor
 n\0 
 \0of voor mij?"
-"102_a","Voor jou, natuurlijk!"
-"102_b","Ik heb deze plek gemist!"
-"103","(촀\0Echt?! Ik bedoel, ik zat maar wat te
+"202_a","Voor jou, natuurlijk!"
+"202_b","Dit eiland is geweldig..."
+"203","(촀\0Echt?! Ik bedoel, ik zat maar wat te
 dollen, maarn\0\0
 \0 (2촀\0bedankt, hoor!\0\0(%촀\0Als je ooit iets nodig hebt,
 \0( ((촀\0laat van
 je horen en ik help je uit de brand."
-"104","(촀\0Nou ja, zeg! 
+"204","(촀\0Nou ja, zeg! 
 \0((촀\0Had je niet even kunnen
 liegen, joh?\0\0(촀\0Niet dat ik het je kwalijk neem, hoor. n\0 is een topeiland.
-\0( (%촀\0En iedereen hier mist jou ook!"
-"105","(촀\02\0n\0! Hallo daar!
-\0( (%촀\0Hoestie? Heb je het naar je zin op je nieuwe stek?"
-"106","<"
-"106_01","($촀\0Ben je goeie maatjes met je buren?
-\0(
-(7촀\0Dat zal vast wel. Jij bent het
+\0( ($촀\0Leuk dat je even langskomt!"
+"210","(촀\02\0n\0! 
+\0Hé!
+\0 (%촀\0Hoestie? 
+\0Alles goed op n	\0?"
+"211","<"
+"211_01","($촀\0Ben je een beetje lief voor mijn oude
+buren?
+\0( (7촀\0Dat zal vast wel. Jij bent het
 tenslotte!\0\0(%촀\0Jij hoeft alleen maar naar iemand te
 glimlachen, en
 \0( (촀\0boem!
 \0 Meteen
 maatjes! 2\0n\0!"
-"106_02","(촀\0Plant je daar ook bloemen?
-\0( (촀\0Als jij
-goed voor ze zorgt, zorgen zij goed
-voor jou!"
-"106_03","($촀\0Zijn er daar rare vissen of insecten?
-\0(
-(
-촀\0Ze zullen er vast wel een paar
-hebben die wij niet hebben!\0\0(촀\0Ik zie je daar echt wel rondstruinen
-met je koele arendsblik.
-\0( (6촀\0Dat is echt
-een n\0-aanpak."
+"211_02","(촀\0Heb je er nog nieuwe bloemen
+geplant?
+\0( (촀\0Als jij goed voor ze zorgt,
+zorgen zij goed voor jou!"
+"211_03","Waar ik nu woon, is het echt chilln\0\0
+\0(9촀\0 maar ja, soms mis ik mijn oude
+stekkie wel, joh.\0\0(7촀\0Ik moet maar eens teruggaan om
+te zien wat jullie ervan gebakken
+hebben, n\0."

@@ -92,25 +92,25 @@ Verkauf auswählen?"
 "031_a","(%촀\0Abgemacht!"
 "031_b","('촀\0Lieber nicht."
 "035","\0K(;촀\0Ah!
-\0 Ist 2,촀dieser
+\0 Ist 2,촀dieser
 diesedieses }\0\0 etwan\0\0\0d
 (촀\0
 \0Ähem! 
 \0(촀\0Es ist nichts. 
 \0Ich habe nur
-laut gedacht!\0\0Für 2""촀
+laut gedacht!\0\0Für 2""촀
 eineneineein 2촁}\0\0 zahlen wir Z\0!"
 "035_a","(%촀\0Abgemacht!"
 "035_b","('촀\0Lieber nicht."
 "036","(%촂\0(촃\0Ah! 
 \0Das ist eine Bastelanleitung für
-2""촀
+2""촀
 eineneineein 2촁}\0\0!\0\0(촂\0Dafür können wir dir Z\0
 geben!"
 "036_a","(%촀\0Abgemacht!"
 "036_b","('촀\0Lieber nicht."
 "037","(촂\0(촃\0OH!
-\0 Eine Bastelanleitung für 2""촀
+\0 Eine Bastelanleitung für 2""촀
 eineneineein
 2촁}\0\0!\0\0(촂\0Diese Anleitung ist überaus(%촃\0 wertvoll.
 \0
@@ -275,8 +275,7 @@ dir andrehen können?"
 \0(
 Wir werden nie müde, unsere
 Waren zu präsentieren!(촀"
-"094","(%촀\0(촃\02\02\0}\0\0
-kostet Z\0."
+"094","(%촀\0(촃\02\02\0}\0\0 kostet Z\0."
 "094_a","(%촀\0Nehm ich!"
 "094_b","('촀\0Lieber nicht."
 "096","(촂\0(촃\0Oh, 
@@ -349,6 +348,13 @@ aus „}\0\0“(촃\0 auf dein NookPhone hochladenn"
 den neuen Anleitungen noch mehr
 Spaß am \0Basteln\0￿!d\0
 \0 \0K...mehr Spaß am Basteln!\0dd"
+"108","()촀\0Das können wir leider nur Kunden
+verkaufen, 
+\0die bereits die App
+\0Bastelanleitungen\0￿ verwendenn\0\0\0\0(촀\0Wenn ich dein Interesse geweckt
+habe,
+\0 dann frag doch mal im
+\0Servicecenter\0￿ auf deiner Insel nach!"
 "110_02","(촂\0(촃\0Du scheinst diese Anleitung bereits
 zu besitzen, 
 \0n\0n\0\0\0\0(촂\0(촃\0Wenn du sie trotzdem kaufen willst,
@@ -504,7 +510,7 @@ Wir zahlen dir den doppelten Preisn\0\0
 \0((&촂\0(&촃\0 Einverstanden?"
 "122_a","(%촀\0Abgemacht!"
 "122_b","('촀\0Lieber nicht."
-"131","Von 2촀demderdem 2촂}\0\0 (%촃\0kannst du auch mehrere auf einmal kaufen. 
+"131","Von 2촀demderdem 2촂}\0\0 (%촃\0kannst du auch mehrere auf einmal kaufen. 
 \0(&촂\0Wie viele dürfen es sein?"
 "131_a","1 (\0Z\0 \0￿)."
 "131_b","5 (\0Z

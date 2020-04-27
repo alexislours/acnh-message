@@ -12,9 +12,9 @@ op zoek!
 vinden waar ik naar op zoek ben?\0\0(촀\0O!
 \0 Hoi, n\0.
 \0 (촀\0Sorry, ik was in gedachten verzonken over 2\0}\0\0.\0\0(촀\0Hè, wat?
-\0 Heb je 2(촀er eener eendie?!
+\0 Heb je 2(촀er eener eendie?!
 \0 (촀\0Kan ik
-2촀hemhetze van je kopen? Voor een
+2촀hemhetze van je kopen? Voor een
 vriendenprijsje?"
 "003_a","(\0촁\0Voor hoeveel?
 (\0촁\0Noem maar een prijs."
@@ -23,11 +23,11 @@ Nee, sorry."
 "004","(촀\0Pfff, ik kan niet meer.
 \0 Ik blijf maar
 zoeken en zoeken naar 2\0
-}\0\0n\0\0\0\0(촀\0Zei jen\0\0 dat jij 2&촀er ééner éénze hebt?
+}\0\0n\0\0\0\0(촀\0Zei jen\0\0 dat jij 2&촀er ééner éénze hebt?
 2\0n\0!\0\0(8촀\0Oké, even diep ademhalen.
 \0 Ahum.
 \0
-(촀\0KAN IK 2촀HEMHETZE VAN JE KOPEN?!"
+(촀\0KAN IK 2촀HEMHETZE VAN JE KOPEN?!"
 "004_a","(\0촁\0Voor hoeveel?
 (\0촁\0Noem maar een prijs."
 "004_b","Sorry, ik verkoop niet.
@@ -40,7 +40,7 @@ wel zonder.
 "006","(촀\0Prima, geeft niet.
 \0 Zolang je er
 maar zuinig op bent!"
-"100","(4촀\0Dus ehn\0\0 (&촀\0zal ik je ervan afhelpen in
+"100","(4촀\0Dus, ehn\0\0 (&촀\0zal ik je ervan afhelpen in
 ruil voor wat klingels?"
 "100_a","(\0촁\0Voor hoeveel?
 (\0촁\0Hoeveel heb je?"
@@ -53,7 +53,7 @@ Nee, sorry."
 "101_a","Prima.
 Goed."
 "101_b","Niet goed genoeg.
-Ik wil er meer voor."
+(\0촁\0Ik wil er meer voor."
 "102","(촀\0Meen je dat?
 \0( (촀\0Supercool!
 \0
@@ -154,8 +154,8 @@ ik EINDELIJK eens mijn zin krijg!"
 "300","(
 촀\0Oké, okén\0\0 Even denkenn\0\0
 Wat denk je van (촀\0Z?"
-"300_a","(\0촁\0Oké."
-"300_b","(\0촁\0Geen interesse."
+"300_a","Oké."
+"300_b","Geen interesse."
 "301","(촀\0Serieus?
 \0 2\0n\0!
 \0 Wauw, het is gewoon gelukt!
@@ -190,8 +190,8 @@ mijn droom eindelijk uitgekomen!"
 촀\0Goed.
 \0( (&촀\0Zou jen\0\0 Z
 oké vinden?"
-"400_a","(\0촁\0Ja!"
-"400_b","(\0촁\0Nee."
+"400_a","Ja!"
+"400_b","Nee."
 "401","(촀\0Serieus?
 \0( (\0촀\0Wauw!
 \0

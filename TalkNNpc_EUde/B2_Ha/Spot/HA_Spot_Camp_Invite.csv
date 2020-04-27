@@ -10,6 +10,23 @@ einfacher machen, 
 \0(
 (%촀\0Ich ruf mal beim \0Servicecenter \0￿an
 und klär die Sache."
+"003","( 촀\0Wow! 
+\0Wenn du beim Marathonlaufen
+dieselbe Ausdauer wie beim Einladen
+an den Tag legst, 
+\0dann Hut ab!
+(
+촀\0Hm, 
+\0mal überlegen... 
+\0Du würdest
+tatsächlich 2P(einen ganz passablen$eine ganz passable
+2H Trainingspartner$Trainingspartnerin abgeben...
+(촀\0Also gut, 
+\0überredet! 
+\0Ich zieh auf
+deine Insel! 
+\0Aber erst jogge ich noch
+kurz beim \0Servicecenter \0￿vorbei."
 "101","<"
 "101_01","( 촀\0Was? 
 \0Hier wohnen? 
@@ -158,14 +175,17 @@ Sieg auf Dauer ja mehr gelitten..."
 geplant, 
 \0n\0?"
 "206","<"
-"206_01","(%촀\02\0n\0, 
-\0du hast gewonnen! 
-\0((촀\0Wie angekündigt wechsle ich also nach n	\0!\0\0(촀\0Du wolltest, 
+"206_01","(%촀\0Du hast gewonnen!
+
+\0((촀\0Wie angekündigt wechsle ich
+also nach n	\0!\0\0(촀\0Du wolltest, 
 \0dass n
 \0 für deinen Inselverein aufläuft, 
-\0(촀\0jetzt
-hast du den Salat, 
-\0n\0!"
+\0(촀\0jetzt hast du den Salat, 
+\0n\0!\0\0(촀\0Alson\0\0 vermutlich.
+\0 Muss immer
+noch erst mal beim \0Servicecenter
+\0￿vorbeischauen."
 "206_02","(5촀\0Damit bekommt n	\0
 also einen neuen Bewohner:
 \0
@@ -173,24 +193,24 @@ Sportskanone 
 \0n
 \0!\0\0()촀\02촀EinEineEin n\0 hält schließlich
 immer, 
-\0was 2촀ersiees verspricht!\0\0Und du heißtn\0\0
-\0 (촀\0n\0?
-\0(
-(""촀\0Auf gute Nachbarschaft, 
-\0n\0!"
+\0was 2촀ersiees verspricht!\0\0(6촀\0Also, 
+\0natürlich erst, 
+\0sobald ich alles
+beim \0Servicecenter \0￿geklärt habe,
+\0
+versteht sich. 
+\0(""촀\0Eine Sekunde!"
 "206_03","(촀\0Sieg für dich! 
 \0Und langfristig
 sicher für uns beide, 
-\0n\0...\0\0(8촀\0Ähn\0\0
-\0 Wie war noch mal dein Name?
-\0
-2\0n\0, 
-\0alles klar!\0\0(5촀\0Ich präsentiere... 
+\0n\0...\0\0(5촀\0Ich präsentiere... 
 \0Ganz neu in der
 Aufstellung von n	\0:
 \0
 Super-n
-\0!"
+\0!
+(7촀\0...Zumindest, sobald die Formalitäten
+im \0Servicecenter \0￿erledigt sind."
 "302","(촀\0Schlechte Neuigkeiten.
 \0 Ich hab
 vom \0Servicecenter\0￿ die rote Karte
@@ -272,55 +292,45 @@ niemandem verscherzen? 
 \0Gut, dann
 unternehme ich nichts, 
 \0n\0."
-"402","('촀\0Das \0Servicecenter \0￿hat meine
-Umzugspläne abgelehnt.\0\0(촀\0Angeblich weil schon jemand auf
-der Insel wohnt, 
-\0der wie ich
-aussieht, 
+"313","(촀\0
+\0Alles klar!
+\0 Hier ist sie!
+\0 Meine Ideen\0\0
+(%촀\0Willst du nicht s촀 gegen mich auswechseln?\0\0()촀\0Das \0Servicecenter \0￿hat mir den Namen
+verklickert, 
+\0also schieß ich mal ins
+Dunkle, 
 \0n\0.
-('촀\0Die Bizepsgröße wird wohl kaum
-vergleichbar sein...\0\0()촀\0Aber die Entscheidung steht,
+(&촀\0Soll ich mit s촀 über den Wechsel sprechen?"
+"313_a","Auf jeden!"
+"313_b","Lieber nicht."
+"314","(촀\0Da steh ich ja voll im Abseits, 
+\0hm?
 
-\0ein Videobeweis ist leider
-nicht vorgesehen..."
-"403","(촀\0Ich bin mit meinen Umzugsplänen
-beim \0Servicecenter\0￿ abgelehnt
-worden, 
-\0n\0.\0\0(촀\0Weil schon jemand herzieht, 
-\0der
-exakt wie ich aussieht. 
-\0(8촀\0Habe ich
-etwa einen Zwilling?
-('촀\0Wie dem auch sei, 
-\0das Thema
-Umzug ist damit erst mal durch."
+\0Okay, 
+\0verstehe schon. 
+\0Vielleicht
+nächste Saison,
+\0 n\0."
 "404","('촀\0Meine Umzugspläne sind vom
 \0Servicecenter \0￿abgewiesen worden.\0\0(%촀\0Es ist einfach kein Platz für
 weitere Leute auf der Insel.\0\0(촀\0Und mit meinen Oberarmen zähle
 ich ja wahrscheinlich sogar als
 zwei Personen, 
 \0n\0!"
-"405","(촀\0Das \0Servicecenter \0￿hat mir mitgeteilt,
-\0
-dass kein Platz für neue Häuser auf
-der Insel ist, 
-\0n\0.\0\0(%촀\0Aus einem Umzug hierher wird
-also erst mal nichts."
 "406","(촀\0Hey! 
 \0Das \0Servicecenter \0￿hat mir
 mitgeteilt, dass meinem Umzug
 nichts im Wege steht, 
 \0n\0!
-(촀\0Damit erhält n	\0 eine
-neue Landschaft: 
+(촀\0Damit erhält n	\0 eine neue Landschaft: 
 \0(5촀\0die Muskelberge!\0\0(%촀\0Oh, 
 \0aber wer warst du noch mal?
 \0
 2\0n\0,
 \0 oder?
 \0( (촀\0Alles klar,
-\0
-dann bis später, 
+\0 dann bis später, 
 \0n\0!"
 "410","(%촀\0Vielleicht sollte ich noch mal beim
 \0Servicecenter \0￿nachfragen.\0\0Wer weiß... 
@@ -341,20 +351,6 @@ zu sichern, 
 \0n\0.
 (촀\0Ein Ruf als Mega-Kraftpaket
 ist erstrebenswerter!"
-"421","()촀\0Es soll schon jemand auf der Insel
-sein, 
-\0der mir ähnlich sieht.\0\0(6촀\0Zwei Exemplare von mir wären
-doch eigentlich ganz cool...\0\0('촀\0Aber möglicherweise würde die
-Insel unter der Last unserer
-Hanteln sinken, 
-\0n\0."
-"422","(촀\0Mein Umzug wurde nicht genehmigt,
-\0
-weil sich schon jemand beworben
-hatte, der genauso aussieht wie ich.\0\0(촀\0Schade. 
-\0Eigentlich hätten wir
-doch prima miteinander trainieren können, 
-\0n\0."
 "423","(%촀\0Mir wurde mitgeteilt, 
 \0dass keine
 neuen Bewohner auf die Insel
@@ -362,15 +358,6 @@ kommen dürfen, 
 \0n\0.
 (촀\0Dass n	\0 sooo
 beliebt ist, war mir gar nicht klar."
-"424","(%촀\0Man hat mir mitgeteilt,
-\0 dass auf
-der Insel einfach kein freier Platz
-mehr ist, 
-\0n\0.
-(
-촀\0Wenn ich gewusst hätte,
-\0 wie
-beliebt n	\0 ist..."
 "504","(촀\0Seit ich hier bin, 
 \0läuft es mit meinen
 Workouts wie geschmiert. 

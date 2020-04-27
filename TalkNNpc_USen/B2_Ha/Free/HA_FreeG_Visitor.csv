@@ -5,7 +5,7 @@ island is famous for, n\0?"
 "001_b","I don't."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah! OK, then!
 \0( (""촀\0Eat your fill!"
 "005","(촀\0It's n촁!
@@ -32,10 +32,12 @@ gonna be a serious contender.\0\0(\0촀\0Well, I THINK it will ben\0\0
 \0((촀\0 You
 gotta be ambitious if you wanna
 be a winner, right?"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0You been to the \0museum\0￿ here yet?
 The exhibit room is huge, and there's
 so much stuff to see there!\0\0( 촀\0Huh? What do I do there?
@@ -64,43 +66,52 @@ my favorite fossil in the \0museum\0￿.\0\0(촀\0What rugged, beaut
 no muscles, but it still looks so cool!
 \0((촀\0
 I'm jealous, n\0!"
-"101","(촀\0Seeing you again really takes me
+"201","(촀\0Seeing you again really takes me
 backn\0\0
 \0( (6촀\0Remember how we were
 always comparing muscles?"
-"102","<ghi"
-"103","(%촀\0I've been doing my super-secret
+"202","<ËÌÍ"
+"203","(%촀\0I've been doing my super-secret
 training routine every day since
-you left, n\0.\0\0()촀\0How 'bout you?
+I left, n\0.\0\0()촀\0How 'bout you?
 \0 Still doing your
 strength training?
 \0 What's your
 bench weight up to?"
-"104","(\0촀\0Hmmn\0\0 Now that I think about it,
-\0((2촀\0
+"204","(8촀\0I gotta be honestn\0\0
+\0I don't know if
+I could've won against you.(촀\0\0\0I mean, I'm looking at your epic arms
+again andn\0\0yeah, there's just no way.
+\0
+(""촀\0Great job, n\0!"
+"205","(
+촀\0Hmmn\0\0 Now that I think about it,
+\0
 we never settled who was more
-built, did we?"
-"105","(%촀\0How about we settle the score right
+built, did we?\0\0(%촀\0How about we settle the score right
 now?
 \0( (촀\0We'll compare six-packs.
 You in, n\0?"
-"105_a","Oh, I'm in!"
-"105_b","Yeaaaah, no thanks."
-"106","(%촀\0OK, you ready for this? My six-pack
+"205_a","Oh, I'm in!"
+"205_b","Yeaaah, no thanks."
+"206","(%촀\0OK, you ready for this? 
+\0My six-pack
 isn\0\0
-\0((5촀\0actually a twelve-pack!
+\0((5촀\0actually a twelve-pack!
+\0
 Impressive, right?\0\0(촀\0Huh? You don't wanna take my word
 for it?
 \0 I thought we were friends!\0\0(
 촀\0I swear! I counted a twelve-pack
-yesterday! For reals!
+yesterday! 
+\0For reals!
 \0( (9촀\0Stop looking
 at me like that, n\0.\0\0(촀\0OK, fine. 
 \0Don't believe me. 
 \0Your loss.
 
 \0(촀\0But it's totally a twelve-pack!"
-"107","( 촀\0Oh, barbells! You're no fun!
+"207","( 촀\0Oh, barbells! You're no fun!
 \0 Not that
 I can blame you.
 \0( (5촀\0I wouldn't wanna go

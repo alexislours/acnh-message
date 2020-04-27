@@ -34,7 +34,7 @@ gefällt! 
 sag Bescheid. 
 \0Vielleicht (6촀\0kann ich es
 dir ja verkaufen!"
-"005_a","(\0촀\0Hab schon was!"
+"005_a","Hab schon was!"
 "005_b","Kein Bedarf."
 "006","(촀\0Wie findest du mein Haus?
 \0 (5촀\0Beim Bau
@@ -77,15 +77,16 @@ GAR NICHTS?
 \0Hier gibt's doch sooo
 viele tolle Sachen!"
 "012","(
-촀\0Gar... nichts?
+촀\0Garn\0\0 nichts?
 \0 (8촀\0Aber... 
-\0ich dachte,
+\0ich dachte,
+\0
 wir mögen die gleichen Sachen,
 \0
 und du willst unbedingt was!\0\0(촀\0Na ja, 
 \0macht auch nix!"
 "100","(촀\0Du willst also 
-\02,촀diesen
+\02,촀diesen
 diesedieses 2촁}\0\0?
 \0(촀\0\0\0(\0촀\0Hmm... 
 \0Wie wär's denn mit...
@@ -93,7 +94,7 @@ diesedieses 2촁}\0\0?
 (촀\0so Z\0?"
 "100_a","Abgemacht!"
 "100_b","Doch lieber nicht."
-"101","(촀\02촀DerDieDas }\0\0?
+"101","(촀\02촀DerDieDas }\0\0?
 \0
 (촀\0Gute Wahl, 
 \0n\0!\0\0(\0촀\0Also mal sehn...
@@ -102,9 +103,9 @@ diesedieses 2촁}\0\0?
 \0Z\0?"
 "101_a","Nehm ich!"
 "101_b","Ach, nein..."
-"102","(촀\02촀DerDieDas }\0\0!
+"102","(촀\02촀DerDieDas }\0\0!
 \0
-(4촀\02촀DenDieDas find ich auch total knuffig!\0\0(촀\0Also, 
+(4촀\02촀DenDieDas find ich auch total knuffig!\0\0(촀\0Also, 
 \0wie wäre es denn mit
 Z\0, 
 \0n\0?"
@@ -131,14 +132,14 @@ Danke!"
 \0als hätte
 ich einen eigenen Kaufladen!"
 "203","(촀\0Ich hab da total gut drauf
-aufgepasst, also ist 2촀ersiees gar
+aufgepasst, also ist 2촀ersiees gar
 nicht mal klebrig oder so!\0\0(""촀\0Du passt auch gut drauf auf, 
 \0ja?"
 "204","(4촀\0Behandele es einfach, 
 \0als wäre es
 ein Teil von mir! 
 \02\0n\0!"
-"205","(1촀\0An 2.촀diesemdieserdiesem 2촂}\0\0 hängen so viele Erinnerungen...\0\0Da ist ein Fleck, 
+"205","(1촀\0An 2.촀diesemdieserdiesem 2촂}\0\0 hängen so viele Erinnerungen...\0\0Da ist ein Fleck, 
 \0als ich mal
 촀 verschüttet hab...\0\0Oh! 
 \0Und ein Zahnabdruck, 
@@ -152,10 +153,10 @@ mal müde war...
 \0
 (촀\0Jedenfalls danke, 
 \0n\0!"
-"300","(촀\02,촀Dieser
-DieseDieses }촀 ist 2&촀
+"300","(촀\02,촀Dieser
+DieseDieses }촀 ist 2&촀
 einereine
-eines meiner engsten 2<촀FreundeFreundinnenFreunde!\0\0(8촀\0Von 2촀ihmihrihm kann ich mich nicht
+eines meiner engsten 2<촀FreundeFreundinnenFreunde!\0\0(8촀\0Von 2촀ihmihrihm kann ich mich nicht
 trennen, 
 \0nicht mal für dich,
 \0
@@ -163,23 +164,21 @@ trennen, 
 \0 (\0촀\0Tut mir leid!"
 "301","(촀\0NEIN! 
 \0Tut mir leid! 
-\02,촀Dieser
+\02,촀Dieser
 DieseDieses
 }촀 bleibt
 bei mir! 
 \0(촀\0Vielleicht etwas anderes?"
-"302","2,촀Dieser
-DieseDieses }\0\0
-ist, 
+"302","2,촀Dieser
+DieseDieses }\0\0 ist, 
 \0(9촀\0na ja, 
 \0was Besonderes für mich.
-\0
-(7촀\0Oma hat mir 2촀dendiedas gegeben!\0\0(\0촀\0Tut mir leid! 
+\0 (7촀\0Oma hat mir 2촀dendiedas gegeben!\0\0(\0촀\0Tut mir leid! 
 \0Such dir 
 \0(촀\0was anderes
-aus! 
-\02\0n\0!"
-"303","(촀\02촀DerDieDas 
+aus, 
+\0n\0!"
+"303","(촀\02촀DerDieDas 
 \0}\0\0?!
 \0
 (촀\0So was kann ich doch nicht

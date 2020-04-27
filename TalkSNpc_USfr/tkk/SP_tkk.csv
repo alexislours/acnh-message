@@ -1,8 +1,8 @@
 ﻿"label","text"
 "001","Désolé, mais ma gratte en a plein
 le manche, là. 
-\0-촀\0Faudra revenir la
-semaine prochaine."
+\0-촀\0Faut venir plus tôt si
+t'as le groove qui te démange, OK?"
 "002","-촀\0Tu veux pas poser ton popotin,
 tranquille? 
 \0(\0촀\0Mes pattes s'apprêtent
@@ -246,18 +246,16 @@ que je remette ça?"
 "060","2\0n\0.
 \0-촀\0 T'as un moment?
 \0 J'ai besoin de tes lumières."
-"061","-촀\0Y'a bien un2
-촀\0e\0 certain2
-촀\0e\0 s\0촀 qui vit à n\0, non?\0\0Et si mon calendrier joue pas du
+"061","-촀\0Y'a bien un2촀\0e\0 certain2촀\0e\0 s\0촀 qui vit à n\0, non?\0\0Et si mon calendrier joue pas du
 pipeau, sa fête, c'est le Z$촀 Z#촀.\0\0-촀\0Du coup, j'ai pensé que, sans la jouer
 trop sentimental, ça serait l'occasion
 de placer un récital, genre pas mal?
 Alors je fais le tour du coin, histoire
-de recueillir deux trois messages de
+de recueillir deux, trois messages de
 félicitations. 
 \0-촀\0Tu veux en écrire un?"
 "061_a","Un peu, que je veux!"
-"061_b","L'an prochain, p'têt."
+"061_b","('촀\0L'an prochain, p'têt."
 "062","J'aime cet enthousiasme!
 \0
 Alors balance : 
@@ -283,8 +281,8 @@ petit morceau supplémentaire?"
 qui me vient.
 \0 Laisser mes pattes
 courir sur le manchen"
-"081","Je joue sur demande à
-partir de \018 h\0￿. 
+"081","Je joue des morceaux sur demande
+à partir de \018 h\0￿. 
 \0-촀\0Repasse à ce
 moment-là, on pourra parler."
 "082","Savoir que ma zic te donne la

@@ -14,6 +14,16 @@ Quiero decir,
 de gestión vecinal\0￿,
 \0 para que les dé
 todos los datos que necesiten."
+"003","( 촀\0No sabía yo que te entusiasmaba
+tanto tenerme como vecino,
+n\0.
+(%촀\0Bueno,
+\0 ¡me quedo!
+\0 ¡A partir de ahora
+este será mi hogar!\0\0(6촀\0Dime dónde está la \0oficina de
+gestión vecinal\0￿,
+\0 así les doy todos
+los datos que necesitan."
 "101","<"
 "101_01","(촀\0¿De verdad,
 \0 jovencit2oa?
@@ -62,7 +72,7 @@ precipitada,
 ganas,
 \0 me mudo.\0\0(%촀\0Anímate,
 \0 es un juego tan sencillo,
-\0( (촀\0que es más una cuestión de destino que de habilidad,n\0."
+\0( (촀\0que es más una cuestión de destino que de habilidad, n\0."
 "201_01_a","¡Acepto!"
 "201_01_b","Ni hablar"
 "201_02","(촀\0¡Vaya!
@@ -148,33 +158,20 @@ poco el no mudarme a tu isla.
 \0 perdí.
 \0 (\0촀\0Pero un trato es un
 trato y yo soy 2\0n\0 de palabra.
-\0 (촀\0¡Me toca mudarme!\0\0(7촀\0Qué raro es esto de presentarse
-después de tan épico duelo,
-\0 pero
-bueno,
-\0 mejor tarde que nunca.
-(""촀\0n
-\0,
-\0 para lo que necesites.
-\0 (\0촀\0Y tú eres n\0,
-\0 si no me equivoco.\0\0(촀\0Confío en que seremos buenos
-amigos, n\0."
+\0 (촀\0¡Me toca mudarme!\0\0(%촀\0Iré a hablar con los de la \0oficina
+de gestión vecinal\0￿ ahora mismo.
+\0
+($촀\0¡A ver si hay suerte!"
 "206_02","('촀\0No tengo excusas.
 \0 (""촀\0Juegas mejor que
 yo.
 \0 Fue muy divertido batirme
 contigo.
 (촀\0Pues buenon\0\0
-\0 (촀\0Iré preparándome para
-la mudanza.
-\0 (촀\0¡Ay!
-\0 (\0촀\0¡Pero si no nos
-hemos presentado!
-Yo soy n
-\0.
-\0 Y tú debes de ser n\0,
-\0¿cierto?
-\0 ¡Pues claro!\0\0(촀\0Me alegraría que fuéramos amigos,
+\0 (촀\0Tendré que hablar con
+los de la \0oficina de gestión\0￿ para ver
+si sería posible mudarme.
+(촀\0Me alegraría que fuéramos vecinos,
 n\0."
 "206_03","Andan\0\0
 \0 ('촀\0Qué paliza me diste.
@@ -182,14 +179,10 @@ Yo soy n
 (촀\0Eres muy buen2oa,
 \0 ¿lo sabías?(촀\0\0\0(\0촀\0Bueno,
 \0 pasando a otros asuntos,
-\0 (""촀\0me
-llamo n
-\0.
-\0 Y tú debes de ser n\0,
-\0supongo.\0\0(촀\0Celebro compartir isla con tan gran
-2""jugadorjugadora de cartas.
-\0 ($촀\0Lo tendré
-siempre presente, n\0."
+\0(%촀\0 iré
+a preguntar en la \0oficina de gestión\0￿
+si me permiten mudarme aquí.
+($촀\0¡Deséame suerte, n\0!"
 "302","(촀\0Qué lástima,
 \0 jovencit2oan\0\0
 \0 En la \0oficina
@@ -269,43 +262,25 @@ ir a hablar, n\0?"
 dejamos.
 \0 (촀\0Quizá vuelva a preguntarte
 en otra ocasión, n\0."
-"402","(촀\0Malas noticias,
-\0 jovencit2oa.
-\0 Fui a
-la \0oficina de gestión vecinal\0￿,
-\0
-a ver si me puedo mudar aquí.
-('촀\0Pero no puede ser.
-\0 Parece que aquí ya vive alguien idéntico a mí,
-\0
-y los dobles no están permitidos.
-(촀\0Y tienen razón,
-\0 podría desorientar a
-los vecinos.
-\0 (
-촀\0Uno solo como yo basta
-para generar confusión,
-\0 (촀\0¡ja, ja, ja!"
-"403","(촀\0Malas noticias,
-\0 jovencit2oa.
-\0 Hablé con
-la \0oficina de gestión vecinal\0￿,
-\0
-para ver si me puedo mudar aquí.
-('촀\0Pero no puede ser.
-\0 Parece que ya
-invitaron a alguien idéntico a mí,
-\0
-y los dobles no están permitidos.
-(
-촀\0Dicen que todos tenemos uno,
-\0 pero
-la verdad es que tampoco tengo
-muchas ganas de conocerlo.
+"313","(촀\0Oye, ¿no será s촀?
+\0 Porque me pareció oír algo de eso en la \0oficina de gestión vecinal\0￿n\0\0\0\0(
+촀\0¿Qué hago?
+\0 ¿Voy a hablar con 2촀élella\0
+y le pregunto si de verdad piensa
+irse
+\0 (&촀\0o sería demasiado directo?"
+"313_a","Ve, ¡y a ver qué dice!"
+"313_b","Déjalo, sería descortés"
+"314","(촀\0Supongo que tienes razón.
 \0
-Creo que no nos aguantaríamos,
+No quiero desahuciar a nadie,
 \0
-(촀\0¡ja, ja, ja!"
+(촀\0¡eso es muy feo, n\0!
+(촀\0Seguiré viviendo en mi casa,
+\0
+por el momento.
+\0 (6촀\0Me parece que ya
+estoy viejo para mudanzasn"
 "404","(촀\0Malas noticias,
 \0 jovencit2oa.
 \0 Fui a
@@ -323,23 +298,6 @@ la isla no cabe un alma más.
 \0
 ¿Cuánto pesa el alma?
 \0 (촀\0Mejor no correr riesgosn"
-"405","(촀\0Malas noticias,
-\0 jovencit2oa.
-\0 Pasé a
-la \0oficina de gestión vecinal\0￿,
-\0
-a ver si me puedo mudar aquí.
-('촀\0Pero no puede ser.
-\0 Parece que
-en la isla no hay espacio para
-una sola casa más.
-(촀\0Y,
-\0 como comprenderás,
-\0 no estoy
-dispuesto a dormir en la playa.
-\0
-(촀\0Lo siento,
-\0 jovencit2oa."
 "406","(""촀\0Disculpa que te haya hecho esperar.
 \0
 Pregunté en la \0oficina de gestión
@@ -377,28 +335,6 @@ y aumentado,
 \0 (촀\0tampoco es plan
 de que me conozcan como ""el viejo
 malhumorado"", n\0."
-"421","(
-촀\0No queda más que maravillarse de
-las ironías del destinon\0\0
-\0\0\0¿Cómo puede ser que un doble mío
-me cause problemas a mí?\0\0(촀\0A ese no le puedo decir que en mis
-tiempos se respetaba a los mayores.\0\0(\0촀\0Bueno,
-\0 aunque no me puedo mudar,
-\0
-me siento honrado por la invitación.
-\0
-(촀\0Gracias, n\0."
-"422","(촀\0Nunca imaginé que mi otro yo
-pudiera faltarme al respeto de
-esta maneran\0\0
-(촀\0Yo a su edad non\0\0
-\0 (7촀\0Ah,
-\0 no,
-\0 con él
-eso no va a funcionar,
-\0 (촀\0¡ja, ja, ja!\0\0(\0촀\0Esta vez no pudo ser,
-\0 (촀\0pero
-quizá vuelva a intentarlo, n\0."
 "423","(%촀\0¡Tu isla está muy solicitada,
 \0
 jovencit2oa!
@@ -407,22 +343,6 @@ para este abuelillo.\0\0(촀\0De todos modos,
 \0 me honra haber
 recibido una invitación de un sitio
 tan popular, n\0."
-"424","(
-촀\0No queda más suelo urbanizablen\0\0
-\0
-¿A qué alcalde tengo que sobornar?
-\0
-(촀\0¡Ja, ja, ja!
-(촀\0Es broma.
-\0 No me gusta nada eso
-de las recalificaciones.
-\0 Acepto con
-honestidad las circunstancias.
-(촀\0Gracias de todos modos por
-invitarme,
-\0 jovencit2oa.
-\0 Me has hecho
-sentir muy apreciado."
 "504","(촀\0La primera vez que vine lo hice
 como mero turista.
 \0 (6촀\0¡Pero aquí son

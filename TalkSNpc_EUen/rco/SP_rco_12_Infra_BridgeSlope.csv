@@ -109,9 +109,10 @@ standing near the \0base of the cliff\0￿.
 imagine what your new incline will
 look like."
 "206","(촀\0Excellent! 
-\0Orn\0\0(&촀\0maybe not?
+\0Orn\0\0
+\0(&촀\0maybe not?
 \0
-(촀\0Your pockets are quite full at
+Your pockets are quite full at
 the moment, n\0.
 (\0촀\0I need to give you a special
 \02\0Ȁ촃incline marker kit(촀\0\0￿ so you can set
@@ -125,9 +126,10 @@ rather large project, after all.
 \0 (촀\0It's a
 good idea to think it through."
 "208","(
-촀\0Oh myn\0\0 It seems we already have
+촀\0Oh myn\0\0
+\0 It seems we already have
 \08 inclines\0￿ on this island.
-\0 That's about
+\0< That's about
 \0
 (촀\0as many as our little isle can handle.
 (\0촀\0If you really want a new one,
@@ -142,14 +144,14 @@ space we have on our lovely island.
 (\0촀\0Of course, removing a bridge or
 incline does come with a small
 demolition fee of (촀\0Z\0."
-"302","(
-촀\0Our island doesn't have any bridges
+"302","(촀\0Our island doesn't have any bridges
 or inclines at the moment, 
 \0(촀\0so there's
 nothing I can help demolish.
 (:촀\0But for future reference, demolished
 bridges and inclines can't be
-restored.(촀\0 So think carefully!"
+restored.
+\0((촀\0 So think carefully!"
 "303","(촀\0Demolished bridges and inclines
 can't be restored!
 \0(\0촀\0 So I implore you,

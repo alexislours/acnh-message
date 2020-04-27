@@ -15,12 +15,12 @@ riservato alla vita pubblica,
 perfetto? 
 \0('촀\0Non ti fare prendere
 dall'ansia!
-(촀\0Scegli il posto che ti sembra più
+(촀\0Scegli il luogo che ti sembra più
 adatto in questo momento. 
 \0Segui
 l'istinto!
 \0 (6촀\0Io lo faccio sempre, 
-\0sì, sì!
+\0sì, sì.
 (9촀\0E se in futuro non ti dovesse
 piacere più, 
 \0potremo discutere
@@ -35,9 +35,9 @@ dell'isola, 
 chiederti,
 \0 piuttoston\0\0\0\0(9촀\0Non raccogliere niente da terra e
 non scuotere gli alberi.
-\0 No, no!\0\0(촀\0Prima dobbiamo prima mettere in
-regola tutte le scartoffie e ottenere
-tutti i permessi.
+\0 No, no!\0\0(촀\0Prima dobbiamo mettere in regola
+tutte le scartoffie e ottenere tutti
+i permessi.
 \0 Sì, sì!"
 "003","(촀\0A quanto pare hai già posizionato
 la tua \0tenda\0￿, n\0.\0\0(\0촀\0Chissà come se la stanno cavando
@@ -45,7 +45,7 @@ gli altrin\0\0 
 \0(&촀\0Puoi aspettare un attimo
 qui, mentre faccio fare una verifica?"
 "003_a","D'accordo."
-"003_b","Preferirei fare un giro."
+"003_b","(\0촁\0Preferirei fare un giro."
 "004_01","(촀\0Grazie! 
 \0Sei molto gentile."
 "004_02","\0Mirco\0￿, \0
@@ -66,24 +66,26 @@ qui, 
 "006_a","Certo."
 "006_b","Non ho ancora finito."
 "011","(촀\0Ah, n\0!
-\0 (&촀\0Hai già trovato il posto adatto per la tua \0tenda\0￿, no?
+\0 (&촀\0Hai già trovato il posto adatto per la tua \0tenda\0￿, sì?
 \0( (촀\0Bene,
 \0 bene!"
-"012","(%촀\0Gli altri non sono ancora tornati,
-quindi credo che stiano ancora
-cercando.
+"012","(%촀\0Sei 2$il primola prima a fare ritorno. 
+\0Immagino
+che gli altri siano ancora alla ricerca
+del luogo ideale.
 (
 촀\0Sentin\0\0 visto che tu hai già dato
 un'occhiata in giron\0\0
 \0(촀\0 forse potresti
-dare loro una zampa!"
+dare loro una zampa, 
+\0sì, sì."
 "013","(
 촀\0Mmmhn\0\0
 \0 s촀 non è ancora tornata.
-\0 Forse sta ancora cercando un posto che le piace.\0\0(&촀\0Le potresti dare una mano?
-\0(
-(촀\0Così poi possiamo andare avanti
-con il nostro programma!"
+\0 Forse sta ancora cercando un posto che le piace.\0\0(&촀\0Le potresti dare una zampa?
+\0( (촀\0Così poi
+possiamo andare avanti con il nostro
+programma!"
 "014","(
 촀\0Mmmhn\0\0
 \0 s촁.

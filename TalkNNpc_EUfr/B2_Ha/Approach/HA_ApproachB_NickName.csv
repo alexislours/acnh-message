@@ -13,7 +13,7 @@ je suis assez fier de ma trouvaille.
 (촀\0Je peux te dire mon idée ?"
 "002_a","(\0촀\0Qu'est-ce que c'est ?
 Vas-y, dis-la-moi !"
-"002_b","Le mien me plaît bien.
+"002_b","(\0촀\0Le mien me plaît bien.
 Euh, non merci."
 "003","(&촀\0Ces derniers temps, j'ai entendu des
 gens t'appeler s\0촀n\0\0\0\0(%촀\0Je trouve ça chouette, sympa, etn\0\0
@@ -40,7 +40,7 @@ te conviendrait parfaitement.
 bien aussi, heinn\0\0 mais je suis sûr
 que ma suggestion va te plaire."
 "005_a","(\0촀\0Je t'écoute."
-"005_b","Mon surnom me plaît."
+"005_b","(\0촀\0Mon surnom me plaît."
 "006","(9촀\0Disn\0\0 il paraît que tu te fais appeler
 « s\0촀 », ces temps-ci.
 \0
@@ -54,10 +54,9 @@ Mais bien sûr !"
 "006_b","Non, désolé2\0e.
 Je préfère pas..."
 "100","(촀\0Alors voilà : « n\0 ».
-\0
-(촀\0Ce serait la classe, hein ?"
+\0 (촀\0Ce serait la classe, hein ?"
 "100_a","Ça me plaît bien !"
-"100_b","Euh... bof."
+"100_b","(\0촀\0Euh... bof."
 "101","( 촀\0Quoin\0\0
 \0 t'es même pas curieu2
 xse ?!
@@ -65,9 +64,7 @@ Je préfère pas..."
 (촀\0Mince,
 \0 Je m'étais pourtant creusé
 la tête et tout, n\0n"
-"102","(촀\0Ouais ! Désormais, je t'appellerai
-juste n\0, ou bien
-2""m'sieur m'dame n\0."
+"102","(촀\0Ouais ! Désormais, je t'appellerai juste n\0, ou bien 2""m'sieur m'dame n\0."
 "103","(&촀\0Bonn\0\0 tu aurais une autre idée ?"
 "104","(촀\0Ah, ça te va pas ?
 \0 Zut, je me suis fait
@@ -77,13 +74,10 @@ trouver un surnom de champion2\0ne,
 \0
 tu verras. 2\0n\0 !"
 "105","(&촀\0Euhn\0\0 n\0 ?
-\0 Mais
-c'est déjà comme ça que je t'appelle.
-Donc en fait, tu veux pas changer ?"
+\0 Mais c'est déjà comme ça que je t'appelle. Donc en fait, tu veux pas changer ?"
 "105_a","C'est ça."
 "105_b","(\0촀\0Attends un peu..."
-"106","(&촀\0Donc « n\0 »,
-tu trouves que ça te va bien ?"
+"106","(&촀\0Donc « n\0 », tu trouves que ça te va bien ?"
 "106_a","Tout à fait."
 "106_b","(\0촀\0Hmm... attends voir..."
 "107","( 촀\0Hein ?

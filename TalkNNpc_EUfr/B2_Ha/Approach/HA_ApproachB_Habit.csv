@@ -1,51 +1,33 @@
 ﻿"label","text"
 "001","( 촀\0Ah, n\0 !
-\0
-(촀\02\0n\0 !\0\0(촀\0Mincen\0\0 J'ai dit « n\0 », à
-nouveau. Je sais pourtant qu'il faut
-pas abuser des exercices répétitifs !
-(촀\0Je crois que je devrais muscler
+\0 (촀\02\0n\0 !\0\0(촀\0Mincen\0\0 J'ai dit « n\0 », à nouveau. Je sais pourtant qu'il faut pas abuser des exercices répétitifs !\0\0(촀\0Je crois que je devrais muscler
 un peu mon expression favoriten\0\0(&촀\0
 T'en penses quoi ? 2\0n\0 ?"
 "001_a","(\0촀\0Faudrait la changer."
 "001_b","(\0촀\0Non, c'est très bien."
 "002","(촀\02\0n\0 !
-\0 Une séance
-d'exercices aux haltères avec moi,
-ça te dirait ? 2\0n\0 !
-(
+\0 Une séance d'exercices aux haltères avec moi, ça te dirait ? 2\0n\0 !\0\0(
 촀\0Hmmn\0\0
-\0 Tu sais, j'ai l'impression que
-mon expression « n\0 »
-arrive un peu en bout de coursen\0\0
-2\0n\0 !"
+\0 Tu sais, j'ai l'impression que mon expression « ⁠n\0 ⁠» arrive un peu en bout de coursen\0\0\0\02\0n\0 !"
 "002_a","(\0촀\0Change-la, alors."
 "002_b","(\0촀\0Non, elle est bien."
-"003","(촀\0n촀 vient de me dire
-que mon expression « n\0 »
-était
-\0 trop bizarren\0\0
-(촀\0Mais je vois pas du tout pourquoi
+"003","(촀\0n촀 vient de me dire que mon expression « ⁠n\0 ⁠» était
+\0 trop bizarren\0\0\0\0(촀\0Mais je vois pas du tout pourquoi
 ça lui paraît bizarre ! Qu'est-ce que
 t'en dis, toi ? 2\0n\0 ?"
 "003_a","(\0촀\0Change-la donc !"
 "003_b","(\0촀\0Ça n'a rien de bizarre."
 "004","(""촀\0T'aurais un petit moment pour moi,
-\0
-n\0 ?
+\0 n\0 ?
 \0 (
-촀\0Je manque
-d'énergie, ces derniers temps.\0\0(%촀\0J'ai comme l'impression que mon
-expression « n\0 » est
-à bout de souffle. 2\0n\0 !"
-"004_a","Change d'expression."
+촀\0Je manque d'énergie, ces derniers temps.\0\0(%촀\0J'ai comme l'impression que mon expression « ⁠n\0 ⁠» est à bout de souffle. 2\0n\0 !"
+"004_a","(\0촀\0Change d'expression."
 "004_b","Non, elle te va bien."
 "005","(7촀\0Hé hé, alors dans ce casn\0\0
 \0 je ne vais
 pas en changer sans bonne raison,
 n\0.
-(촀\0Allez ! Tous avec moi ! 2\0n\0
-jusqu'à la victoire ! 2\0n\0 !"
+(촀\0Allez ! Tous avec moi ! 2\0n\0 jusqu'à la victoire ! 2\0n\0 !"
 "006","(촀\0Bon. Peut-être qu'en la répétant,
 elle trouvera un second souffle !\0\0(촀\0Comme à l'entraînement, on continue
 malgré les courbatures, et on finit
@@ -57,8 +39,7 @@ pensais :
 est trop bizarre !\0\0(촀\0Bien, je vais garder mon expression
 « n\0 », dans ce cas."
 "008","(촀\0Tu as raison, n\0 !
-\0
-(촀\0Faut pas se laisser abattre !\0\0(촀\0Mon manque d'énergie, c'était juste
+\0 (촀\0Faut pas se laisser abattre !\0\0(촀\0Mon manque d'énergie, c'était juste
 un coup de fatigue.
 \0(""촀\0 Là, c'est reparti !
 Merci pour ton aide. 2\0n\0 !"
@@ -70,11 +51,9 @@ que moi, n\0 !"
 (&촀\0Ma nouvelle expression favorite
 serait donc : « n\0 » ?"
 "101_a","Tout à fait."
-"101_b","Oups..."
-"102","(&촀\0n\0\0 « 2\0n\0 » ?
-\0 Donc, en gros,
-tu trouves que je devrais garder mon
-expression actuelle, c'est ça ?"
+"101_b","(\0촀\0Oups..."
+"102","(&촀\0n\0\0 « ⁠2\0n\0 » ?
+\0 Donc, en gros, tu trouves que je devrais garder mon expression actuelle, c'est ça ?"
 "102_a","Ouaip."
 "102_b","Ah, mais non."
 "103","( 촀\0Hein ? 
@@ -86,13 +65,9 @@ Tu peux me la répéter, s'il te plaît ?"
 Regarde-moi.
 \0 Même couvert de
 sueur, je n'abandonne jamais."
-"200","(촀\02\0n\0, n\0,
-n\0 ! Ah, ça me plaît
-beaucoup, n\0 !"
-"201","(촀\0Hé hé ! Va pour « n\0 » !
-\0
-(촀\0Ça, c'est une expression de
-vainqueur !"
+"200","(촀\02\0n\0, n\0, n\0 ! Ah, ça me plaît beaucoup, n\0 !"
+"201","(촀\0Hé hé ! Va pour « ⁠n\0 » !
+\0 (촀\0Ça, c'est une expression de vainqueur !"
 "202","(촀\0Ça exprime le parfait équilibre entre
 mes muscles hypertrophiés et ma
 classe naturelle, n\0 !"
@@ -100,24 +75,14 @@ classe naturelle, n\0 !"
 prendre un nouveau départ. C'est
 une renaissance !
 \0 2\0n\0 !"
-"204","(촀\0En plus, à chaque fois que je dirai
-« n\0 »,
-\0 je penserai à toi.
-2\0n\0 !"
+"204","(촀\0En plus, à chaque fois que je dirai « ⁠n\0 ⁠»,
+\0 je penserai à toi. 2\0n\0 !"
 "300","(촀\0Ma foi, si quelqu'un d'aussi cool que
 toi apprécie cette expression, je ne
 vois pas pourquoi j'en changerais.\0\0(촀\0Bon ! Je vais continuer à utiliser
 mon expression actuelle, alors !
 2\0n\0 !"
-"301","(%촀\0D'accord ! Alors, si « n\0 »
-te plaît autantn\0\0\0\0(촀\0Je vais tout simplement continuer
-à dire n\0 sans me poser
-de questions ! 2\0n\0 !"
-"302","(7촀\0Résultat des courses, l'expression
-« n\0 » est l'une des plus
-chouettes qui soient.
-\0 2\0n\0 !
-(5촀\0Ouaisn\0\0 Je vais rester le type qui dit
-sans cesse « n\0 ».
-\0 (촀\0Ça me
-correspond bien, n\0 !"
+"301","(%촀\0D'accord ! Alors, si « ⁠⁠n\0 » te plaît autantn\0\0\0\0(촀\0Je vais tout simplement continuer à dire n\0 sans me poser de questions ! 2\0n\0 !"
+"302","(7촀\0Résultat des courses, l'expression « ⁠n\0 ⁠» est l'une des plus chouettes qui soient.
+\0 2\0n\0 !\0\0(5촀\0Ouaisn\0\0 Je vais rester le type qui dit sans cesse « ⁠n\0 ⁠».
+\0 (촀\0Ça me correspond bien, n\0 !"

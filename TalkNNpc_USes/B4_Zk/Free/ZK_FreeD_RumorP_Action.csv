@@ -103,7 +103,7 @@ nuestra isla?
 (촀\0¡Asombroso!
 \0 (촀\0El gusto por el verde
 siempre está ""in""."
-"112","(촀\024촀Un pequeñoUna pequeña\0 촀 me contó
+"112","(촀\024촀Un pequeñoUna pequeña\0 촀 me contó
 que últimamente te has dedicado a
 regar plantas.
 (1촀\0Como si lo estuviera viendo:
@@ -126,6 +126,22 @@ demostrar emociones muy profundas.
 \0
 avísame,
 \0 ¿sí?"
+"114","(&촀\0Así que estuviste recorriendo por
+ahí,
+\0 ¿eh,
+\0 n\0?
+\0
+Muy bien,
+\0 viajar siempre es positivo.\0\0(촀\0¿Y te trajiste algo?
+\0 (1촀\0¿Tal vez 2!촀ununa\0
+촀 2&!촀exóticoexótica\0?\0\0Recuerda que si se hace muy
+popular ya no será 2&!촀exóticoexótica\0."
+"115","(촀\0Me alegra saber que ayer estuviste
+mostrando las virtudes de n\0 a tus visitas.
+(5촀\0Si quieres añadir mi casa a tu lista
+de lugares destacados,
+\0 por mí no
+hay problema."
 "116","($촀\0Últimamente has estado trabajando
 mucho en proyectos de taller,
 \0
@@ -224,7 +240,7 @@ todas las emociones de ayer?\0\0
 \0Las risasn\0\0
 \0 Las lágrimasn\0\0
 \0
-2""촀ElLa\0 촀n\0\0\0\0(촀\0Bueno,
+2#촀ElLa\0 촀n\0\0\0\0(촀\0Bueno,
 \0 bueno,
 \0 quizás no llegamos a
 compartir todas esas cosas,
@@ -258,21 +274,15 @@ una exposición multidisciplinaria?
 Se llamará ""2\02\0n\0 como exponente de la cultura contemporánea""."
 "126_01","(촀\0Pobren\0\0
 \0 ¿Estás bien?
-\0 Me contaron
-que ayer las avispas se desquitaron
-contigo.
-(9촀\0Tu cara es como la tarjeta de
+\0 Ayer las
+avispas se ensañaron contigo, ¿eh?\0\0(9촀\0Tu cara es como la tarjeta de
 presentación de tu marca personal. Protégela bien, n\0."
 "126_02","(촀\0¿Cómo va esa hinchazón en la cara,
-\0
-n\0?
-\0 Me contaron que
-te picaron las avispasn\0\0
-(5촀\0Tuve un rol protagónico en el famoso
-cortometraje ""Las avispas vampiro escuchan 촀"".
-Así que sé cómo te sientes.
-\0 (촀\0
-¿No conoces esa película?
+\0 n\0?
+\0 Ayer las avispas te picaron bastante, ¿no?\0\0(5촀\0Tuve un rol protagónico en el famoso
+cortometraje ""Las avispas vampiro escuchan 촀"".\0\0(%촀\0Así que sé cómo te sientes.
+\0
+(촀\0¿No conoces esa película?
 \0
 La filmé en mi casa."
 "127","($촀\0Entre los expertos en n촁 se comenta que has encontrado muchos fósiles.\0\0(1촀\0No veo qué relación existe
@@ -376,7 +386,7 @@ y original,
 \0 n\0⁠!\0\0(5촀\0Eso es ""sin deudas pendientes"" en alemánn\0\0
 \0 ¿O era en noruego?\0\0(3촀\0Bueno,
 \0 ahora que pagaste tu
-préstamo puedes comprarme 2 촀eseesa\0 촀 que me gusta tanto.
+préstamo puedes comprarme 2!촀eseesa\0 촀 que me gusta tanto.
 
 \0¡Je, je!"
 "140","(6촀\0Un mapachito me contó que
@@ -456,27 +466,23 @@ de n\0.
 \0
 ¿me podrías ordenar un poco
 el armario?"
-"149","(촀\0Me encanta tu nuevo peinado,
-\0
-n\0.\0\0(
+"149","(촀\0Me encanta como tienes el cabello,
+\0 n\0.\0\0(
 촀\0Me pregunto cómo me quedaría
-a mín\0\0\0\0('촀\0Pero no,
+algo así a mín\0\0\0\0('촀\0Pero no,
 \0 no voy a cometer la falta
 de originalidad de copiártelo.
 \0
 (6촀\0Al menos durante dos semanas."
-"150","(촀\0¡Uy!
-\0 (&촀\0¿Eres tú,
+"150","¿Eres tú,
 \0 n\0?
-\0 ¿O no eres tú,
-\0 pero te pareces a ti?\0\0(촀\0Estás irreconocible.
-\0 Ah,
+\0 Te ves diferente.
+\0(촀\0 Cambiaste de aspecto,
+¿verdad?\0\0(%촀\0Ah,
 \0 entiendo,
-\0
-te estás reinventando para seguir marcando tendencia.\0\0(촀\0Ojalá mi rostro tuviera esa capacidad
-de variación tan amplia,
-
-\0 n\0."
+\0 te estás reinventando para seguir marcando tendencia.\0\0(촀\0Ojalá mi rostro tuviera esa capacidad
+de variación tan amplia,
+\0 n\0⁠."
 "151","(&촀\0¿Sigues con las fotos,
 \0 n\0?
 \0 (6촀\0¡""Bravissimo"",
@@ -484,7 +490,7 @@ de variación tan amplia,
 una sesión espontánea de fotos!\0\0(촀\0¡Posando por aquí!
 \0 (촀\0¡Y otra pose
 por allá!
-\0 (0촀\0Inmortalizando el instanten\0\0
+\0 Inmortalizando el instanten\0\0
 \0
 Yn\0\0
 \0 (촀\0¡una más!

@@ -281,9 +281,7 @@ a s\0촀?"
 \0 un poco sí me importan\0\0
 \0
 (촀\0¡En realidad me quita el sueño!
-(7촀\0¿Por qué s\0촀 tiene que ser 2
-촀ella\0 vecin2
-촀oa\0 más popular de n\0?"
+(7촀\0¿Por qué s\0촀 tiene que ser 2촀ella\0 vecin2촀oa\0 más popular de n\0?"
 "110_01","(촀\0¿Sí?
 \0 ¿Entonces también te 2Rinteresainteresa\0interesaninteresan\0
 2\0촀,
@@ -299,8 +297,7 @@ gusta\0gustangustan\0
 "110_02_a","Así es"
 "110_02_b","En realidad no"
 "110_03","(촀\0¿Sí?
-\0 A 2
-촀élella\0 le gustaría llegar a ser 촀
+\0 A 2촀élella\0 le gustaría llegar a ser 촀
 \0.\0\0(6촀\0¿Será que s\0촀 y tú tienen las mismas aspiraciones?"
 "110_03_a","Así es"
 "110_03_b","Pero no es así..."
@@ -309,7 +306,7 @@ gusta\0gustangustan\0
 2:
 gusta
 gusta\0gustangustan\0 촀,
-\0 n\0?\0\0(6촀\0Me alegra que s\0촀 y tú tengan las mismas aficiones."
+\0 n\0?\0\0(6촀\0Me alegra que s\0촀 y tú tengan los mismos pasatiempos."
 "110_04_a","Es genial, sí"
 "110_04_b","Te estás precipitando"
 "110_05","(촀\0¿Sí?
@@ -428,7 +425,7 @@ me gusta,
 "120_07_b","(\0촀\0¡Sí tengo una favorita!"
 "120_08","(촀\0Vaya.
 \0 ¿Entonces tú tampoco tienes
-una comida favorita?\0\0(&촀\0¿Ni siquiera 2촀ella\0 촀?
+una comida favorita?\0\0(&촀\0¿Ni siquiera 2촀ella\0 촀?
 \0
 (촀\0¡Je, je!
 \0 Es un chiste.
@@ -447,7 +444,7 @@ abiert2oa a todo:
 actoractriz,
 \0 escritor2\0a,
 \0
-influencer,
+""influencer"",
 \0 domador2\0a de pulgasn"
 "120_09_a","(\0촀\0No aspiro a nada, no"
 "120_09_b","(\0촀\0¡Y sí tengo sueños!"
@@ -457,8 +454,7 @@ ningún pasatiempo en particular?\0\0(&촀\0¿Ni siquiera 촀?
 \0
 (촀\0¡Je, je!
 \0 Es un chiste.
-\0
-('촀\0Tampoco 2""eses\0sonson\0 lo míon"
+\0 ('촀\0Yo tampoco soy partidario de 촀n"
 "120_10_a","No, ninguna"
 "120_10_b","¡Sí tengo pasatiempos!"
 "120_11","(촀\0Vaya.
@@ -546,9 +542,9 @@ toda la noche sobre eson"
 \0
 (1촀\0Seguro que terminarán charlando
 toda la noche sobre eson"
-"170_104","(촀\0Hablando de sus aficiones,
-\0 me dijo
-que lo que más le gusta hacer es:
+"170_104","(촀\0Hablando de sus pasatiempos,
+\0 me
+dijo que lo que más le gusta hacer es:
 \0
 ""
 촀"".\0\0(%촀\0Menciónale el tema y ya verás.
@@ -610,8 +606,8 @@ aspiración en común.\0\0(1촀\0Sín\0\0
 \0 Como
 \0 촀.
 \0 (촀\0¡Tienen millones de posibilidades para descubrir!"
-"180_10","(9촀\0Es posible que tengan las mismas
-aficiones.\0\0(1촀\0Sín\0\0
+"180_10","(9촀\0Es posible que tengan los mismos
+pasatiempos.\0\0(1촀\0Sín\0\0
 \0 Podrían hacer alguna actividad
 compartida,
 \0 como por ejemplo

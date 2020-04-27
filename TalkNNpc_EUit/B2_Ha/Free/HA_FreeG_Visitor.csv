@@ -6,7 +6,7 @@ quest'isola, n\0?"
 "001_b","No."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah, OK!
 \0( (""촀\0Mangiane a volontà allora!
 Ahahah!"
@@ -43,10 +43,12 @@ vincerà tutte len\0\0 
 
 \0(촀\0Un po' di sana ambizione ci vuole
 sempre, n\0!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Sei già stat2oa al \0museo\0￿? 
 \0La sala
 esposizioni è enorme e c'è un
@@ -55,9 +57,9 @@ sacco di roba forzuta da vedere!\0\0( 촀\0Io cosa vado a farci?
 ideale dove riposarmi quando ho tutti
 i muscoli indolenzitin"
 "028","(촀\0Oh, vorrei tanto essere come 2\0
-\0 che c'è al \0museo\0￿ dell'isola.\0\0(1촀\0È sempre 2N(촀""calmo e rilassato""calma e rilassata\0, anche sott'acquan\0\0
+\0 che c'è al \0museo\0￿ dell'isola.\0\0(1촀\0È sempre 2N)촀""calmo e rilassato""calma e rilassata\0, anche sott'acquan\0\0
 \0((촀\0 Devo trovare il modo
-di imparare da 2(촀luilei\0!"
+di imparare da 2)촀luilei\0!"
 "029","(&촀\0Hai mai visto 2\0
  che c'è al \0museo\0￿ dell'isola?\0\0(촀\0Mi ha fatto venire delle buone idee
 per un nuovo allenamento. 
@@ -69,28 +71,33 @@ non l'ho provato, ma lo farò presto!"
 \0(
 Non ha muscoli, ma anche così è
 una meraviglia, n\0."
-"101","(촀\0Vederti mi fa tornare indietro nel
+"201","(촀\0Vederti mi fa tornare indietro nel
 tempo, quanti ricordin\0\0 (6촀\0Non dirmi
 che hai dimenticato le nostre sfide?!"
-"102","<ghi"
-"103","(1촀\0Correvamo come dei matti finché
+"202","<ËÌÍ"
+"203","(1촀\0Correvamo come dei matti finché
 non eravamo esausti e ricoperti
 di sudoren\0\0
 (촀\0Me lo ricordo come se fosse ieri,
 n\0!"
-"104","(\0촀\0Mmmn\0\0
-\0 Adesso che ci penso,
-\0 (2촀\0alla fine
-non siamo mai riusciti a stabilire chi
-era il più allenato dei due, 
-\0no?"
-"105","(%촀\0Io dico di provare a risolvere
-la questione ora. 
-\0(촀\0Mettiamo a
-confronto gli addominali?"
-"105_a","Oooh, ci sto!"
-"105_b","Ehm... no, grazie."
-"106","(&촀\0D'accordo, 
+"204","(8촀\0Devo essere oneston\0\0 non so se
+riuscirei a batterti.(촀\0\0\0Perché ora che rivedo le tue
+braccian\0\0 Beh, no, non sarebbe
+così facile vincere a zampa di ferro.
+\0
+(""촀\0Sei 2ununa grande, n\0!"
+"205","(\0촀\0Mmmhn\0\0 Adesso che ci penso,
+\0 (2촀\0alla
+fine non siamo mai riusciti a stabilire
+chi di noi due era più in forma, 
+\0no?
+(%촀\0Io dico di provare a risolvere la
+questione ora. 
+\0(촀\0Mettiamo a confronto
+gli addominali?"
+"205_a","Oooh, ci sto!"
+"205_b","Ehm... no, grazie."
+"206","(&촀\0D'accordo, 
 \0sei pront2oa a scoprire il
 pancino? 
 \0(5촀\0Guarda qua e impallidisci!
@@ -107,7 +114,7 @@ la pancia non ha ossa.
 
 \0(촀\0abbiamo pareggiato anche stavolta,
 n\0."
-"107","( 촀\0Per tutti i deltoidi, 
+"207","( 촀\0Per tutti i deltoidi, 
 \0non sai divertirti!
 
 \0(6촀\0Beh, 

@@ -13,19 +13,19 @@ t'intéressent, dis-moi lesquelles."
 (\0촀\0Si tu veux vraiment quelque
 chose,
 \0(&촀\0 on peut peut-être s'arranger."
-"004_a","Ben justement..."
+"004_a","(\0촀\0Ben justement..."
 "004_b","Non, pas vraiment."
 "005","()촀\0Si une de mes affaires te plaît, je
 pourrai peut-être réfléchir à te la
 céder. 
 \0($촀\0Ça dépend de ce que c'est!"
-"005_a","J'ai vu un truc!"
+"005_a","(\0촀\0J'ai vu un truc!"
 "005_b","Rien pour l'instant."
 "006","Si quelque chose attire ton regard,
 (%촀\0tu me le diras, d'accord?
 \0 (촀\0On pourrait
 peut-être s'arranger."
-"006_a","Justement!"
+"006_a","(\0촀\0Justement!"
 "006_b","Non, rien."
 "007","(&촀\0Et qu'est-ce que c'est?
 \0 (4촀\0Je n'ai
@@ -49,10 +49,10 @@ décoration et d'ameublement."
 \0(촀\0J'espère que tu te
 sens quand même un peu chez toi,
 chez moi."
-"100","(촀\02\02\0}\0\0? (\0촀\02촀IlElle\0 est à toi 
+"100","(촀\02\02\0}\0\0? (\0촀\02촀IlElle\0 est à toi 
 \0($촀\0pour Z\0."
 "100_a","Vendu!"
-"100_b","À bien y penser..."
+"100_b","(\0촀\0À bien y penser..."
 "101","( 촀\02\02\0}\0\0? 
 \0((
 촀\0Hmmmn\0\0
@@ -60,9 +60,9 @@ chez moi."
 \0 ($촀\0Z\0."
 "101_a","Marché conclu."
 "101_b","Non, merci."
-"102","( 촀\0Tu aimes bien 2촀monma\0 petit2촀\0e\0 }\0\0?
+"102","( 촀\0Tu aimes bien 2촀monma\0 petit2촀\0e\0 }\0\0?
 \0( (
-촀\02촀IlElle\0 est à toi pour 
+촀\02촀IlElle\0 est à toi pour 
 \0($촀\0Z\0."
 "102_a","Parfait!"
 "102_b","Sans façon."
@@ -79,7 +79,7 @@ de mes affaires te plaisent."
 "203","(촀\02\0n\0, profites-en bien!"
 "204","(%촀\0Je m'en suis occupée du mieux
 que j'ai pu."
-"205","(촀\0J'espère qu'2촀ilelle\0 te servira tous
+"205","(촀\0J'espère qu'2촀ilelle\0 te servira tous
 les jours!"
 "206","(촀\0Oh non!
 \0 On dirait que tu n'as plus
@@ -87,14 +87,14 @@ de place dans tes poches(촀\0, n\0.\0\0(""촀\0Je vais te l'envoyer pa
 alors,
 \0 si ce n'est que ça."
 "300","(촀\02\02\0}촀? Vraiment? (촀\0Désolée, j'y suis trop attachée pour m'en séparer."
-"301","(촀\0Tu avais des vues sur 2.촀mon petitma petite\0
+"301","(촀\0Tu avais des vues sur 2.촀mon petitma petite\0
 }촀?
-\0(\0촀\0\0\0Euhn\0\0 (촀\0Désolée, 2촀ilelle\0 est pas à vendre.
+\0(\0촀\0\0\0Euhn\0\0 (촀\0Désolée, 2촀ilelle\0 est pas à vendre.
 
-\0(4촀\0J'y tiens trop pour 2촀lela\0 savoir loin de
+\0(4촀\0J'y tiens trop pour 2촀lela\0 savoir loin de
 moin"
 "302","(촀\0Ça me fait mal de le dire, mais je
-veux pas m'en séparer. 2촀IlElle\0 a une
+veux pas m'en séparer. 2촀IlElle\0 a une
 trop grande valeur pour moi."
 "303","(촀\0Ce serait plus pareil chez moi, sans
 2\0}\0\0n\0\0 (촀\0Il n'y a rien d'autre qui te tente?"

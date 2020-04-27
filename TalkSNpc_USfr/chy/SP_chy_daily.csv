@@ -19,8 +19,7 @@ quête de la créature de mes rêves.
 (촀\0À dessein purement artistique!
 (1촀\0Je veux capturer l'essence de leurs
 pattes rampantes et de leurs
-antennes frétillantes!\0\0
-\0((촀\0Nous avons une chance inestimable
+antennes frétillantes!\0\0(촀\0Nous avons une chance inestimable
 qu'ils nous laissent vivre dans leur
 monden"
 "002","( 촀\0Oh! 
@@ -157,17 +156,11 @@ autre île.
 \0((촀\0 Tu auras un insecte
 pour moi d'ici là?"
 "024","(촀\02\02\0}\0\0!
-\0
-De battre mon cœur s'est arrêté! (촀\0
-\0
-Quellen\0\0
-\0 quelle splendeur
-!
-\0(
-\0Calme-toi, Djason!\0\0(6촀\0\0￿2\02\0}\0\0n\0\0
-\0 Est-ce que tu pourrais me 2촀lela\0 vendre, pour, mettons, Z?"
+\0 Mon cœur n'en croit pas ses ventricules! (촀\0
+\0Quelle splendeur!\0\0\0Calme-toi, Djason!\0\0(6촀\0\0￿2\02\0}\0\0n\0\0
+\0 Est-ce que tu pourrais me 2촀lela\0 vendre, pour, mettons, Z?"
 "024_a","Affaire conclue!"
-"024_b","En y repensant..."
+"024_b","(\0촀\0En y repensant..."
 "025","(!촀\0Mais tu en as tout un essaim?! 
 \0
 C'est le plus beau jour de ma vie! 
@@ -176,7 +169,7 @@ C'est le plus beau jour de ma vie! 
 Bon. 
 \0(3촀\0Z le tout, qu'en dis-tu?"
 "025_a","J'en dis que c'est vendu!"
-"025_b","En y réfléchissant..."
+"025_b","(\0촀\0En y réfléchissant..."
 "027","(촀\0Vrai... Vraiment?
 \0(촀\0 Merci mille fois!"
 "028","(촀\0Si tu en attrapes encore, dis-le-moi!"
@@ -340,9 +333,9 @@ enfin commencer. 
 \0(&촀\0Quel insecte sera notre muse?"
 "107","(촀\0Noble }\0!
 \0(
-(&촀\0Saurais-tu te séparer de \0Z\0 \0￿d'entre 2ȑ촀eux
+(&촀\0Saurais-tu te séparer de \0Z\0 \0￿d'entre 2Ȓ촀eux
 elles\0?
-\0 2ȑ촀Ils
+\0 2Ȓ촀Ils
 Elles\0 seront bien avec moi."
 "107_a","Oui!"
 "107_b","('촀\0Ah non alors!"
@@ -387,7 +380,7 @@ Scarabée\0￿ »!"
 prêtes à vous couper en morceaux!
 
 \0(*촀\0Ces yeux rouges qui vous pénètrent!
-(#촀\0Mon chef-d'œuvre, le « \0Roi Lucane \0￿», 
+(#촀\0Mon chef-d'œuvre, le « \0Roi Lucane \0￿»,
 te donnera littéralement le grand
 frisson!"
 "152","(촀\0(촀\0Alors tu veux une sculpture

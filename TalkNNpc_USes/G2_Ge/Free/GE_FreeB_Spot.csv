@@ -86,18 +86,23 @@ en mi vidan\0\0
 촆촃(촀\0¡Y la decoración está increíble!
 \0
 ¿Vienes a mi casa y me la decoras, n\0?"
-"006","촊촉( 촀\0Oye, ampliaste la casa,
+"006","촊촉( 촀\0Oye, esta casa es más grande ahora
+que cuando te mudaste,
 \0 ¿no?
 \0
-(촀\0No me engañas, ¡ahora es más
-grande que cuando te mudaste!
+(촀\0A mí no me engañas.
 (%촀\0Pues super a favor.
 \0 촆촃(%촀\0Así tienes más
 sitio para tus cosis,
 \0 ¡y luego compras
 más cosis porque hay más sitio!"
-"007","촊촉($촀\0¿O sea que añadiste otra
-habitación, verdad?\0\0촆촃(9촀\0¿Y para qué la usas?"
+"007","촊촉(
+촀\0Las casas que construye \0Tom Nook\0￿
+no son así de grandesn\0\0촆
+\0
+(촀\0¡Tú le añadiste una habitación!
+촃(!촀\0Cuenta, cuenta,
+\0 ¿para qué la usas?"
 "008","촊촉(;촀\0Tu casa tiene tres habitaciones,
 ¿verdad, n\0?
 \0
@@ -112,7 +117,7 @@ que dos porque,
 \0 con más de tres
 puertas,
 \0 ya pierdo la cuenta."
-"009","촊촉(촀\0Qué casa tan enorme tienes ahora,
+"009","촊촉(촀\0Qué casa tan enorme tienes,
 n\0n\0\0\0\0촆촃(촀\0¡Podrías tener un estudio de
 grabación y todo!
 \0 (\0촀\0Ya sé que tú no
@@ -122,10 +127,11 @@ lo necesitas,
 \0 O sea, sí lo necesito,
 \0
 ('촀\0pero no puedo grabar hasta que
-\0Totakeke\0￿ acepte ser mi productor.\0\0(촀\0\0K\0(Y empiece a responder a mis mensajesn\0\0).\0￿\0d"
-"010","촊촉(""촀\0¿Que tu casa ahora tiene dos pisos?
+\0Totakeke\0￿ acepte ser mi productor.\0\0(촀\0\0K\0(O, por lo menos, empiece a responder
+mis mensajesn\0\0).\0￿\0d"
+"010","촊촉(""촀\0¿Que tu casa tiene dos pisos?
 \0
-¿Y cómo piensas decorar esta supercasota?
+¿Y cómo piensas decorar esta supercasota casísima?
 촆촃(촀\0¡Escucha, escucha!
 \0 Dos palabras:
 \0
@@ -166,20 +172,20 @@ ampliando la casa...
 \0 ¡Ojos que no ven,
 \0
 (촀\0ya no te sobran muebles!"
-"015","(촀\0Oye, n\0,
-\0 ¿qué te
-parece lo de que s\0촀 le añadió un piso a su casa?\0\0(;촀\0¿No te 
+"015","(촀\0Oye,
+\0 ¿qué te parece que la casa
+de s\0촀 tenga una habitación adicional?\0\0(;촀\0¿No te 
 \0mueres
  de la curiosidad?
 \0
-¿Para qué lo usará?
+¿Para qué la usará?
 \0\0\0촆촃(6촀\0A mí se me ocurren, literal, 
 \0mi
 \0llo
 \0nes
 
-de cosas que podría hacer con
-otro piso en casan"
+de cosas que podría hacer con una
+habitación másn"
 "016","촊촉( 촀\0La casa de s\0촀 es enorme, ¿eh?\0\0촆촃¿Tú crees que la seguirá ampliando?
 \0
 (촀\0¿Y si al final la casa es más grande
@@ -192,7 +198,7 @@ tan grande me perderían\0\0 (촀\0¡Ah!
 Podría poner letreros o algon\0\0
 (촀\0Uy, pero ¡¿y si me pierdo mientras 
 los pongo?!"
-"018","촊촉(촀\0Me parece hiperfabs que la casa de s\0촀 tenga ahora dos pisos.\0\0촆촃(
+"018","촊촉(촀\0Me parece hiperfabs que la casa de s\0촀 tenga dos pisos.\0\0촆촃(
 촀\0Aunque,
 \0 con la superpereza que
 me da limpiar,
@@ -200,8 +206,10 @@ me da limpiar,
 que limpiar tanta casan\0\0
 (촀\0¡Pero claro!
 \0 ()촀\0Cuando se ensuciara
-mucho una habitación, me iría a otra.
-(촀\0Soy una genia, guapi."
+mucho una habitación,
+\0 me iría a otra.
+\0
+(촀\0Soy una genia, n\0."
 "019","촊촉(촀\0¿Ya te enteraste?
 \0 ¡La casa de s\0촀 tiene un sótano!
 ¿Qué estará haciendo ahí abajo?\0\0(8촀\0Seguro que la curiosidad no te deja
@@ -347,9 +355,9 @@ pesadillas,
 a cada rato para recordarlas!"
 "120","(7촀\0Mi última obsesión insectil es 2\0
 .
-\0 (촀\0¡Es un escándalo lo preciosísimo que es!\0\0()촀\0Voy a verlo al \02\0ā촃museo \0￿a cada rato.
+\0 (촀\0¡Es un escándalo lo preciosísimo que es!\0\0()촀\0Voy a verl2)촀oa\0 al \02\0ā촃museo \0￿a cada rato.
 \0
-(""촀\0Me puedo quedar hoooras mirándolo
+(""촀\0Me puedo quedar hoooras mirándol2)촀oa\0
 superembobadan"
 "121","($촀\0¿Sabías que antes no me encantaban
 los fósiles?

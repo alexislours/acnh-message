@@ -1,25 +1,25 @@
 ﻿"label","text"
-"001","(5촀\0Hey, n\0, tolle
-Neuigkeiten!
-\0 Ich verkaufe etwas
-aus meiner Sammlung.
-($촀\0Und dir biete ich es zuerst an!
+"001","(5촀\0Hey, n\0, 
+\0tolle Neuigkeiten!
+\0 Ich verkaufe etwas aus meiner Sammlung.\0\0($촀\0Und dir biete ich es zuerst an!
 \0 (%촀\0Du
 hast also als 2Erster
 Erste die Chance auf
-2(촀meinen
-meinemein }\0\0!"
+2(촀meinen
+meinemein 2촁}\0\0!"
 "001_a","(\0촀\0Wie viel soll's kosten?
 (\0촀\0Bin ganz Ohr..."
 "001_b","Kein Bedarf.
 Nicht jetzt."
 "002","(5촀\0Hey, ich wette, ich kann deine
 Gedanken lesen!\0\0(1촀\0Du denkst... 
-\0Ich wünschte, ich hätte
-2""촀
-eineneineein 2촁}\0\0!\0\0(촀\0Das trifft sich gut! 
-\0Genau das
-verkaufe ich nämlich!"
+\0„Ich wünschte, ich hätte
+2""촀
+eineneineein 2촁}\0\0!“\0\0(촀\0Das trifft sich gut! 
+\0Ich verkaufe
+nämlich 2&촀
+eineneine
+eines!"
 "002_a","(\0촀\0Für wie viel?
 (\0촀\0Sprich weiter..."
 "002_b","Nö.
@@ -38,12 +38,9 @@ Fundstücke jetzt.
 "003_b","(\0촁\0Ich brauche nichts.
 (\0촁\0Nein, danke."
 "004","(""촀\02\0n\0! 
-\0(촀\0Ich habe hier
-einen Problemkauf.
-\0 Genauer gesagt
-2""촀
-eineneineein 2촁}\0\0.
-(촀\0Was hab ich mir dabei nur gedacht?!
+\0(촀\0Ich habe hier einen Problemkauf.
+\0 Genauer gesagt 2""촀
+eineneineein 2촁}\0\0.\0\0(촀\0Was hab ich mir dabei nur gedacht?!
 \0
 Wofür sollte ich so etwas gebrauchen
 können, 
@@ -51,8 +48,8 @@ können, 
 (
 촀\0Äh...
 \0 Vielleicht hast du Interesse
-an 2촀0einem leicht gebrauchten0einer leicht gebrauchten0einem leicht gebrauchten
-}\0\0?"
+an 2촀0einem leicht gebrauchten0einer leicht gebrauchten0einem leicht gebrauchten
+2촂}\0\0?"
 "004_a","(\0촁\0Wie viel?
 (\0촁\0Klingt interessant, ja."
 "004_b","(#촁\0Hmm, tut mir leid.
@@ -69,8 +66,10 @@ Verlust!"
 schwören können, dass das genau
 dein Ding ist, 
 \0n\0!"
-"007","(촀\0Auch gut... Dann spende ich das gute
-Stück eben dem \0Museum\0￿, für den (촀\0
+"007","(촀\0Auch gutn\0\0
+\0 Dann spende ich das gute
+Stück eben dem \0Museum\0￿, 
+\0für den (촀\0
 n
 \0-Flügel!"
 "008","(%촀\0Kein Problem. 
@@ -104,13 +103,11 @@ für n
 \0, 
 \0n\0!"
 "102","(5촀\0Und, wie fühlt man sich so als
-2F stolzer Besitzer""stolze Besitzerin 2L촀eines neueneiner neueneines neuen
+2F stolzer Besitzer""stolze Besitzerin 2L촀eines neueneiner neueneines neuen
 2촃}\0\0?"
 "103","(촀\0Ach, bitte. 
 \0Es ist dein Schicksal,
-22촀diesen diese dieses }\0\0
-zu haben.
-(5촀\0Deswegen gebe ich dir das Ding jetzt
+22촀diesen diese dieses 2촁}\0\0 zu haben.\0\0(5촀\0Deswegen gebe ich dir das Ding jetzt
 einfach!
 \0 Bin ich nicht der Beste?
 \0
@@ -148,7 +145,7 @@ Immer noch zu teuer."
 \0Abgemacht!"
 "203","(!촀\0Glückwunsch! 
 \0Du bist nun 2,der stolzedie stolze
-2(BesitzerBesitzerin 2j촀 eines gediegenen einer gediegenen eines gediegenen
+2(BesitzerBesitzerin 2j촀 eines gediegenen einer gediegenen eines gediegenen
 2촃}\0\0!"
 "204","(촀\0Tja...
 \0 Manchmal gewinnt man,
@@ -202,7 +199,7 @@ Stimmung nicht etwas heben kann.
 (
 촀\0Also schönn\0\0
 \0 (&촀\0Wie wäre es denn
-mit Z für 2(촀meinen
+mit Z für 2(촀meinen
 meinemein
 2촁}\0\0?"
 "300_a","Klar.
@@ -216,9 +213,9 @@ verflu--
 los!"
 "302","(6촀\0Auf Nimmerwiedersehen!"
 "303","(
-촀\0Also, ich könnte mich von 2.촀meinemmeinermeinem
-2촂}\0\0 wohl für
-Z trennen..."
+촀\0Also,
+\0 ich könnte mich von 2.촀meinemmeinermeinem
+2촂}\0\0 wohl für Z trennen..."
 "303_a","Guter Preis, gekauft!
 (\0촁\0Dann gib mal her!"
 "303_b","(\0촁\0Was gibt's noch?
@@ -227,18 +224,16 @@ los!"
 ich jetzt ein bisschen im geistigen
 n
 \0-Lager stöbern...
-(촀\0Wie wäre es mit 2j촀 meinem geliebten meiner geliebten meinem geliebten
-2촂}\0\0 für nur
-Z?"
+(촀\0Wie wäre es mit 2j촀 meinem geliebten meiner geliebten meinem geliebten
+2촂}\0\0 für nur Z?"
 "304_a","Kauf ich!
 (\0촁\0Immer her damit!"
 "304_b","(\0촁\0Was hast du noch?
 (\0촁\0Ist das alles?"
 "305","(촀\0Du bist ja noch wählerischer als ich.
 \0
-(9촀\0Gut, das ist mein letztes Angebot.\0\0(%촀\02.촀Meinen Meine 
-Mein }\0\0
-für Z."
+(9촀\0Gut, das ist mein letztes Angebot.\0\0(%촀\02.촀Meinen Meine 
+Mein 2촁}\0\0 für Z."
 "305_a","Muss ich haben!
 Nehme ich!"
 "305_b","Nein, danke.

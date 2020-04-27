@@ -9,6 +9,11 @@ más lejos con mi entrenon\0\0
 \0 (%촀\0¡Voy a ver si tonifico
 los trámites en la \0oficina de gestión
 vecinal\0￿!"
+"003","(촀\0¿Me sigues queriendo como
+compañero de entreno?\0\0(5촀\0¡Pues tu determinación no caerá
+en saco roto, n\0!\0\0(촀\0Ahora mismo voy a preguntar a los
+de la \0oficina de gestión\0￿ si puedo
+mudarme cuanto antes."
 "101","<"
 "101_01","( 촀\0¿Cómo?
 \0 ¿Vivir aquí?
@@ -149,22 +154,23 @@ te lo hayas pasado tan bien como yo.
 (촀\0Es una forma de hablar, ¿eh?
 \0
 (%촀\0¡Yo cuido mucho mis toallas!
-(촀\0¿Quieres que el menda
-viva en n	\0?
-\0 
-(5촀\0¡Pues tú ganas!
-(촀\0Tú eres n\0, ¿verdad?"
+(촀\0¿Quieres que el menda viva en n	\0?
+\0 (5촀\0¡Pues tú ganas!\0\0(촀\0Ahora mismo iré a hablar con
+los de la \0oficina de gestión\0￿ para
+hacer el papeleo."
 "206_02","()촀\0Como deportista de élite que soy,
 sé aceptar la derrota.
 \0 (%촀\0¡Tendré que
 mudarme aquí!
-(5촀\0¡Soy 2\0n\0 de palabra, n\0!\0\0(촀\0Y tú eres n\0, ¿verdad?"
+(5촀\0¡Soy 2\0n\0 de palabra, n\0!\0\0(촀\0Iré a hablar con los de la \0oficina
+de gestión\0￿ para que me den el
+visto bueno."
 "206_03","(촀\0¡Tú sabes cómo aceptar un reto!
 \0
-¡Y cómo ganarlo, 2""campeóncampeona!\0\0Tú eras n\0, ¿verdad?
-Pues ya sabesn\0\0
-\0\0\0(5촀\0¡2\0n	\0 acaba de añadir a n
-\0 a su plantilla, n\0!"
+¡Y cómo ganarlo, 2""campeóncampeona!\0\0(5촀\0¡2\0n	\0 acaba de añadir a n
+\0 a su plantilla, n\0!\0\0(촀\0En cuanto los de la \0oficina de
+gestión\0￿ me confirmen que puedo
+mudarme aquí, claro."
 "302","(촀\0Malas noticias.
 \0 He preguntado en la
 \0oficina de gestión vecinal\0￿ y me han
@@ -235,27 +241,21 @@ que hablar?"
 \0 si me dices eso, de momento
 vamos a dejar estar este tema,
 n\0."
-"402","(9촀\0Pues he hablado con la \0oficina
-de gestión vecinal\0￿n\0\0
-\0 ('촀\0y me han dicho
-que de mudanza, nada.
-(촀\0Dicen que ya tenéis un vecino
-que es clavadito a mí.
-\0 (촀\0¡Mancuernas!\0\0(#촀\0De todos modos,
-\0
-¡gracias por la invitación!"
-"403","(촀\0He comprobado en la \0oficina
-de gestión vecinal\0￿,
-\0 pero parece
-que no están por la labor.
-(촀\0Dicen que alguien con la misma
-acerada pinta que yo va a mudarse
-aquí en breve, n\0.
-(8촀\0¿Tengo un gemelo?
-\0
-¿Estará tan tonificado como yo?
-\0
-('촀\0¡No, eso es imposible!"
+"313","(촀\0¡Pues al lío!
+\0 ¿Qué te parecería si yo
+sustituyera a s촀?\0\0()촀\0Los de la \0oficina de gestión\0￿ me
+dijeron que podría estar interesad2촀oa\0
+en irse.
+(촀\0¿Qué me dices?
+\0 ¿Hablo con 2촀élella\0
+sobre el intercambio?"
+"313_a","¡Venga, sí!"
+"313_b","No lo hagas"
+"314","(촀\0Ah, ¿te ha parecido una jugada
+demasiado arriesgada?
+\0 (%촀\0Está bien,
+me quedaré en el banquillo.\0\0(촀\0Esperaré a que llegue mi momento
+en la próxima temporada."
 "404","('촀\0Me dijeron en la \0oficina de gestión
 vecinal\0￿ que ya no hay sitio para
 más gente, n\0.
@@ -263,15 +263,6 @@ más gente, n\0.
 \0
 a lo mejor ocupo demasiado
 y habría que echar a alguien."
-"405","(촀\0La \0oficina de gestión vecinal
-\0￿de tu isla me ha dicho que no puedo
-mudarme aquí.
-No tienen espacio para construir
-más casas, n\0n\0\0\0\0('촀\0De hecho me han confirmado
-que no cabría un gimnasio,
-\0
-(
-촀\0¡y eso sí que no!"
 "406","(촀\0Acabo de hablar con la \0oficina
 de gestión vecinal\0￿,
 \0 (촀\0¡y me han dicho
@@ -303,26 +294,6 @@ la brasa, a lo mejor me cogen manía,
 si poco, dos veces bueno!
 \0
 (%촀\0¡Eso es lo que yo siempre digo!"
-"421","()촀\0Parece que ya hay alguien clavadito
-a mí viviendo en esta isla.
-\0 (%촀\0Ya sé que
-tener dos yo viviendo aquí molarían\0\0
-('촀\0¡¿Pero qué pasa si nos hundimos
-con el peso de nuestros titánicos
-músculos?!
-(
-촀\0Aunque,
-\0 por otro lado,
-\0 seguro
-que se apuntaría a todos los
-campeonatos conmigon"
-"422","(촀\0Han rechazado mi solicitud
-de mudanza porque alguien parecido
-a mí ya la había entregadon\0\0\0\0(%촀\0¡Podrían presentármelo!
-\0
-¡Sería el compañero de entreno ideal,
-n\0!
-(촀\0En finn"
 "423","(%촀\0Me han dicho que en tu isla
 no aceptaban más vecinos.
 \0 ¡Ni idea
@@ -330,12 +301,6 @@ de que fuese un sitio tan popular!
 (촀\0A lo mejor es que quemo demasiadas
 calorías para los estándares
 de n	\0, n\0."
-"424","(%촀\0¡Parece que en tu isla ya no hay
-más sitio!
-\0 ¿Por qué no me has dicho
-que era tan popular?
-(""촀\0Si se queda algo de espacio libre,
-¡avísame, n\0!"
 "504","(촀\0Desde que estoy aquí, los entrenos
 me cunden más.
 \0 ¡Estoy batiendo

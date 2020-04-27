@@ -1,4 +1,7 @@
 ﻿"label","text"
+"001","Connecting to the internet..."
+"002","Disconnecting from the internet and
+preparing local wireless connection..."
 "003","Looking for islands you can visit..."
 "004","Getting ready to depart..."
 "005","Getting ready to return home..."
@@ -7,12 +10,15 @@
 (Press \0\0￿ to cancel.)"
 "008","Ending the session...
 (Press \0\0￿ to cancel.)"
+"010","Sending card..."
 "020","2\0s\0촀 from
 s촀 is here to play!
 <"
 "021","2\0s\0촀 is going home.
 Safe travels!
 <"
+"030","Preparing NookLink access..."
+"040","Registering as a creator..."
 "100","It is necessary to update to the latest
 version in order to play this software
 online.

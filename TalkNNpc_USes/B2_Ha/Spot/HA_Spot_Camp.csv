@@ -72,7 +72,7 @@ esta isla está megatonificada.\0\0(6촀\0¡Es el sitio ideal para practicar
 \0 ¿Cómo andas?
 \0
 A mí me llaman ""n
-\0 el musculitos"".\0\0(2촀\0Bueno, eso es como me llamo yo
+\0 el de los bíceps"".\0\0(2촀\0Bueno, así es como me llamo yo
 a mí mismo
 \0 \0(entre otras cosas)\0￿n\0\0
 ¡Pero entrenar aquí es brutal!
@@ -111,27 +111,21 @@ me llegó tu invitación.
 ¡Gracias, n\0!"
 "202","<"
 "202_01","($촀\0¡Ey!
-\0 Soy n
-\0n\0\0\0\0(\0촀\0Me invitón\0\0
-\0 alguien.
-\0( (
-촀\0Ojalá me acordara de su nombre para agradecerle, ¡n\0!"
-"202_02","($촀\0Hola.
-\0 Yo soy n
-\0.
-\0
-¡Encantado, n\0!\0\0(%촀\0Alguien me invitó a venir y quiero
-organizar una minicompetencia
-en su honor."
+\0 ¿Qué tal?
+\0 ()촀\0Alguien de aquí me
+invitó a venir de \0campamento\0￿.
+\0
+(촀\0¡Y le estoy muy agradecido!"
+"202_02","($촀\0¿Qué tal,
+\0 n\0?\0\0(%촀\0Alguien me invitó a venir.
+\0
+¡Debería organizar una competencia
+en su honor!"
 "202_03","(""촀\0¿Qué pasó, máquina?
-\0 Creo que
-no nos conocemos, ¿verdad?
-\0
-Yo me llamo n
-\0.
-(촀\0¡Qué brutal estar por aquí!
-\0 Cuando me invitaron a venir,
-\0( (촀\0¡ni lo pensé y me vine corriendo!"
+\0 (촀\0
+¡Qué brutal estar aquí!\0\0()촀\0Tan pronto como me invitaron,
+\0
+(촀\0¡ni lo pensé y me vine corriendo, n\0!"
 "301","<"
 "301_01","()촀\0No a todo el mundo le gusta alojarse
 en una tienda,
@@ -159,7 +153,7 @@ de esta isla podría desmontármela!"
 "301_05","(&촀\0¿Alguna vez te ha pasado que vas
 a algún sitio y el aire huele mejor?\0\0(촀\0¡Pues imagínate lo bien que huele
 el aire por aquí ahora que cuenta
-con el aroma de mi sudor! "
+con el aroma de mi sudor!"
 "302","<"
 "302_01","()촀\0No a todo el mundo le gusta alojarse
 en una tienda,
@@ -247,7 +241,7 @@ todo claro, ¿sabes?
 desarrollar mi carrera como
 estrella del deporte, n\0!"
 "501_01","()촀\0¡Esta isla parece ideal para rutinas
-de intervalos de alta intensidad!\0\0(촀\0La idea es intercalar períodos cortos
+de intervalos de alta intensidad!\0\0(촀\0La idea es intercalar periodos cortos
 de descanso entre sesión y sesión
 de ejercicio intenso.
 (

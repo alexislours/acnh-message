@@ -52,12 +52,12 @@ kannst du dich nicht entscheiden?"
 "006_01","(\0촀\0Ich finde, 
 \0du hast dir dafür
 was verdient. 
-\0(촀\0Und zwar 2,촀diesen
+\0(촀\0Und zwar 2,촀diesen
 diesedieses
 2촁}\0!"
 "006_02","(\0촀\0Ich hab auch was für dich:
 \0
-2""촀
+2""촀
 eineneineein 2촁}\0!
 
 \0(촀\0Nimm nur, 
@@ -65,7 +65,7 @@ eineneineein 2촁}\0!
 "006_03","(\0촀\0Ich kann nicht nur einstecken,
 sondern auch austeilen! 
 \0(촀\0Hier, nimm
-2,촀diesen
+2,촀diesen
 diesedieses 2촁}\0!"
 "007","<"
 "007_01","(\0촀\0Du bist echt großzügig! 
@@ -92,3 +92,33 @@ aber deine Tasche ist voll!\0\0(\0촀\0Schick ich's halt mit der Post.
 musst du eben deinen Briefkasten
 stemmen,
 \0 n\0!"
+"100","(촀\0Ha! 
+\02\02\0}\0\0! 
+\0Genau das Gleiche trage ich gerade schon!"
+"101","(
+촀\0Aber weniger verschwitzt, 
+\0jan\0\0
+\0
+und es kann auch nicht schaden,
+\0
+ein Exemplar in Reserve zu haben."
+"102","(""촀\0Danke! 
+\0Jetzt kann ich mich noch
+mehr verausgaben, 
+\0bis ich wieder
+waschen muss, 
+\0n\0!"
+"110","( 촀\0Hä? 
+\0Ich trage doch schon 2""촀
+eineneineein
+}\0\0n"
+"111","(
+촀\0\0Andererseits hält das Zeug bei mir
+nicht lange. 
+\0Ein Exemplar auf der
+Ersatzbank wäre echt klasse.\0￿"
+"112","(촀\0Vielen Dank, 
+\0n\0!
+\0
+Ich passe gut auf 2J촀meinen neuenmeine neuemein neues
+}\0\0 auf!"

@@ -4,7 +4,7 @@
 \0 Waar is mijn buidel?
 \0 (촀\0O nee.
 Misschien ben ik hem kwijtgeraaktn"
-"001_a","(\0촀\0Ik ga wel zoeken."
+"001_a","Ik ga wel zoeken."
 "001_b","(\0촀\0Oei."
 "002","(촀\0Ba
 \0len
@@ -44,14 +44,14 @@ stripboek? 
 \0(촀\0Ik heb het vast ergens
 laten liggen? Denk ik?"
 "007_a","Ik ga ernaar op zoek!"
-"007_b","(%촀\0Wat vervelend."
+"007_b","(\0촀\0Wat vervelend."
 "008","(촀\0Ik zoek al 
 \0zó
 \0 lang. (촀\0Maar ik kan mijn
 handtekeningenboek niet vindenn\0\0
 Ik kan er echt niet zonder!"
 "008_a","Ik ga op zoek!"
-"008_b","(%촀\0Geef niet op!"
+"008_b","(\0촀\0Geef niet op!"
 "009","(촀\0Dusn\0\0 
 \0mijn handtekeningenboek is
 weg? En ik kan er echt niet zonder?!
@@ -158,7 +158,7 @@ kwijtgeraakt
 \0
 (촀\0\0K\0(O neen\0\0 Dit is een gróót probleem.)\0￿\0d"
 "102_a","(\0촀\0Zal ik eens zoeken?"
-"102_b","(%촀\0Dat is jammer..."
+"102_b","(\0촀\0Dat is jammer..."
 "103","(촀\0Wauw, 
 \0echt waar?!
 \0 (촀\0Niemand is zo cool als jij, n\0!
@@ -181,7 +181,7 @@ van 
 \0\0K.K. Slider \0￿in! 
 \0(촀\0Waar zou het zijn?"
 "201_a","Ik vind het wel!"
-"201_b","(%촀\0Wat jammer."
+"201_b","(\0촀\0Wat jammer."
 "202","(촀\0Ik ben mijn handtekeningenboek
 kwijtn\0\0
 \0(촀\0 Ik heb gezocht en gezocht en
@@ -193,7 +193,7 @@ gezocht, maar kan het niet vinden!\0\0(촀\0Bah!
 Maar nu ben ik het 
 \0kwijt!"
 "202_a","(\0촀\0Zal ik ernaar zoeken?"
-"202_b","(%촀\0Geef niet op!"
+"202_b","(\0촀\0Geef niet op!"
 "203","(촀\0Weet je het zeker?!
 \0 (2촀\0Heel 
 \0erg 

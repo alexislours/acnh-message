@@ -6,7 +6,7 @@ autóctona exclusiva de esta isla?"
 "001_b","Ni idea..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Lo suponían\0\0
 \0 A ti no se te escapan
 los productos de calidad."
@@ -58,10 +58,12 @@ creciendo!
 exposición permanente de corbatas
 de época ""postvintage""n\0\0
 (!촀\0¡Estoy soñando despierto!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Alguien con mis refinados gustos no
 puede dejar de recomendarte visitar
 (촀\0el \0museo\0￿ de n\0.
@@ -82,11 +84,11 @@ puede dejar de recomendarte visitar
 exclusivo que cualquier otro pez!"
 "029","(촀\02\02\0
 
-que tienen expuest2(촀oa\0 en el \0museo\0￿ me
+que tienen expuest2)촀oa\0 en el \0museo\0￿ me
 produce una sensación extrañan\0\0
-(+촀\0Si me paro enfrente a mirarl2(촀oa\0,
+(+촀\0Si me paro enfrente a mirarl2)촀oa\0,
 \0
-siento como si 2(촀élella\0 me estuviera
+siento como si 2)촀élella\0 me estuviera
 observando a mín"
 "030","(&촀\0¿Ya viste el ejemplar de
 
@@ -100,50 +102,47 @@ antigua?
 \0 ¿Será ""pre-vintage""?
 \0
 ¿O quizás ""retroanterior""?"
-"101","<\0fj"
-"102","(4촀\0Oye,
+"201","<\0ÊÎ"
+"202","(4촀\0Oye,
 \0 n\0,
-\0 me gustaría
-preguntarte algo muy en serion\0\0\0\0(&촀\0¿Me extrañabas cuando te fuiste
-de aquí?"
-"102_a","¡Desde luego!"
-"102_b","Sinceramente, no"
-"102_c","¿Y tú a mí?"
-"103","(6촀\0Vayan\0\0
+\0 me gustaría preguntarte algo muy en serion\0\0\0\0(&촀\0¿Me extrañaste desde que
+me fui de aquí?"
+"202_a","¡Desde luego!"
+"202_b","Sinceramente, no"
+"202_c","¿Y tú a mí?"
+"203","(6촀\0Vayan\0\0
 \0 pues yo también.
 \0
 (촀\0¡Por suerte ahora puedes visitarme
 siempre que quieras,
 \0 n\0!"
-"104","(촀\0Te agradezco la sinceridad.
+"204","(촀\0Te agradezco la sinceridad.
 \0 (5촀\0Quería
 conocer qué grado de persistencia
 tenía mi imagen de marca en ti.
-(%촀\0Si otra isla te gustó más,
+(%촀\0Si sigues prefiriendo tu isla,
 \0 tendrás
 tus razonesn\0\0
-\0 aunque esta es la
+\0 aunque esta es la
 única que cuenta con mi carisma."
-"105","(촀\0¡No vale!
+"205","(촀\0¡No vale!
 \0 ¡Yo te pregunté primero!
 \0
 (6촀\0De todas formas,
-\0 no puedo negarme a responder.
-(4촀\0Sí,
-\0 ¡te extrañé!
+\0 no puedo negarme a responder.\0\0(4촀\0Sí,
+\0 ¡te extraño!
 \0 No tanto como para
 ponerme a llorar,
-\0 pero sabes que aprecio tu presencia.
-(촀\0Bueno,
+\0 pero sabes que aprecio tu presencia.\0\0(촀\0Bueno,
 \0 bueno,
 \0 por un momento no
 pude contenerme.
 \0 Mejor cambiemos
 de tema ahora mismon"
-"106","(촀\0¿Te enteraste de la última moda
+"206","(촀\0¿Te enteraste de la última moda
 que está haciendo furor en la isla?"
-"107","<lmno"
-"108","(촀\0¡Pescar en el mar!\0\0(촀\0Bueno,
+"207","<ÐÑÒÓ"
+"208","(촀\0¡Pescar en el mar!\0\0(촀\0Bueno,
 \0 la pesca es una actividad de
 lo más antigua,
 \0 pero últimamente
@@ -151,7 +150,7 @@ volvió a estar de moda.
 (1촀\0Lanzar el sedal en las refulgentes
 aguas del océano nunca perdió
 su encanton"
-"109","(촀\0¡Salir a cazar insectos!\0\0()촀\0Claro que toda la vida se cazaron
+"209","(촀\0¡Salir a cazar insectos!\0\0()촀\0Claro que toda la vida se cazaron
 insectos,
 \0 pero ¿viste los ejemplares
 que pululan por ahí últimamente?
@@ -161,7 +160,7 @@ catálogo de diseño ultramoderno,
 (촀\0¡je,
 \0 je,
 \0 je!"
-"110","(촀\0¡Cavar pozos!\0\0()촀\0Me imagino lo que estarás pensando:
+"210","(촀\0¡Cavar pozos!\0\0()촀\0Me imagino lo que estarás pensando:
 \0
 ""bonita forma de llenarte los zapatos
 de tierra"".
@@ -173,7 +172,7 @@ de la isla. ¡Siente su respiración!
 \0 Pocas actividades
 transmiten tantas emociones
 intensas de golpen"
-"111","(촀\0¡La jardinería!\0\0()촀\0Sí,
+"211","(촀\0¡La jardinería!\0\0()촀\0Sí,
 \0 el cultivo de plantas es una
 actividad muy antiguan\0\0
 \0 (촀\0¡pero no con

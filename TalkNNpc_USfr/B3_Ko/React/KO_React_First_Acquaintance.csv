@@ -39,11 +39,8 @@ aurai pour le restant de la journée
 avant de finir de ranger tout ça!"
 "002","<"
 "002_01","(촀\0Salut n\0!
-\0()촀\0 J'espérais
-pouvoir te remercier en personne,
-\0
-tu sais.
-(%촀\0Ben oui,
+\0()촀\0 J'espérais pouvoir te remercier en personne,
+\0 tu sais.\0\0(%촀\0Ben oui,
 \0 c'est toi qui m'as vendu
 tous les bons côtés qu'il y a à vivre
 à n\0.
@@ -65,9 +62,7 @@ mes valises chez toi!
 (촀\0Enfin pas chez toi, genre vraiment
 chez toi, hein!
 \0 À n\0,
-\0
-n\0!
-(7촀\0Mais vu que je suis nouveau dans le
+\0 n\0!\0\0(7촀\0Mais vu que je suis nouveau dans le
 coin,
 \0 je risque de souvent passer par
 chez toi pour te poser des questions."
@@ -131,16 +126,10 @@ habitant 2
 \0(""촀\0à un de ces quatre!"
 "012","<"
 "012_01","(""촀\0Tiens, n\0.
-\0(&촀\0 T'as
-entendu la nouvelle?
-\0 Eh bien il se
-trouve quen\0\0(촀\0 j'ai emménagé ici!
-()촀\0Tu peux remercier s\0촀
-pour ça.
-\0 2IlElle m'a super bien vendu
-l'endroit.
-\0(%촀\0 Ça je peux te le dire.
-(6촀\0J'espère juste maintenant qu'2ilelle ne
+\0(&촀\0 T'as entendu la nouvelle?
+\0 Eh bien il se trouve quen\0\0(촀\0 j'ai emménagé ici!\0\0()촀\0Tu peux remercier s\0촀 pour ça.
+\0 2IlElle m'a super bien vendu l'endroit.
+\0(%촀\0 Ça je peux te le dire.\0\0(6촀\0J'espère juste maintenant qu'2ilelle ne
 me l'a pas survendu!
 \0 (촀\0Parce que
 sinon ça va barder!"
@@ -150,11 +139,8 @@ sinon ça va barder!"
 ()촀\0T'es au courant que j'ai posé mes
 valises ici,
 \0 au moins?
-(7촀\02\0s\0촀 a vraiment su
-trouver les mots pour me convaincre.
-\0
-C'est le moins qu'on puisse dire.
-(촀\0Et vu comment vont les choses,
+(7촀\02\0s\0촀 a vraiment su trouver les mots pour me convaincre.
+\0 C'est le moins qu'on puisse dire.\0\0(촀\0Et vu comment vont les choses,
 \0
 je suis bien parti pour m'installer
 dans le coin pour de bon.
@@ -166,15 +152,12 @@ vrai?
 
 \0(촀\0Alors, prends garde!"
 "013","(촀\0Oh!
-\0 2\0n\0! Comment
-va?
+\0 2\0n\0! Comment va?
 \0 (""촀\0C'est moi,
 \0 n
 \0.
-\0
-2
-De D'⁠s촀!
-(5촀\02\0s\0촀 a réussi à me
+\0 2
+De D'⁠s촀!\0\0(5촀\02\0s\0촀 a réussi à me
 convaincre de m'installer ici.
 (촀\0Et du coupn\0\0 me voilà! 
 \0
@@ -190,15 +173,10 @@ Elle est pas belle,
 \0(,촀\0\0AHHH-TCHOUM!!!\0d\0\0
 	\0(+촀\0Oh,
 \0 n\0.
-\0 J'suis
-désolén\0\0 kofn\0\0 kofn\0\0 mais je me sens
-pas dans mon assiette aujourd'huin\0\0
-(\0촀\0J'ai emménagé ici suite à l'invitation
+\0 J'suis désolén\0\0 kofn\0\0 kofn\0\0 mais je me sens pas dans mon assiette aujourd'huin\0\0\0\0(\0촀\0J'ai emménagé ici suite à l'invitation
 2
 de d'⁠s\0촀,
-\0 (촀\0mais on dirait
-que je suis tombé malade en routen\0\0
-J'suis vraiment désolé que tu me
+\0 (촀\0mais on dirait que je suis tombé malade en routen\0\0\0\0(촀\0J'suis vraiment désolé que tu me
 voies dans cet état.
 \0 On parlera une
 fois que je serai guéri,
@@ -347,12 +325,9 @@ rattraper le temps perdu."
 
 \0(,촀\0\0ATCHOUM!!!\0d\0\0
 	\0(+촀\0Ohn\0\0 salut n\0.
-\0 C'est
-moin\0\0 n
-\0. Je viens
-d'arrivern\0\0 
-\0Tu te souviens de moi?
-(,촀\0AAATCHOUM!!!
+\0 C'est moin\0\0 n
+\0. Je viens d'arrivern\0\0 
+\0Tu te souviens de moi?\0\0(,촀\0AAATCHOUM!!!
 \0( Désolé 2$le jeunela jeune,
 \0
 je crois que j'ai attrapé froid durant
@@ -490,10 +465,8 @@ que j'ai fait le bon choix."
 "211_02","(촀\0Ha ha ha!
 \0( (""촀\0Ça te surprend de me voir
 ici,
-\0 n\0?\0\0()촀\0C'est s\0촀 qui m'a
-convaincu de rester,
-\0 pendant que
-je faisais du\0 camping\0￿ dans le coin.\0\0(1촀\02IlElle m'a bien vendu l'endroit je dois
+\0 n\0?\0\0()촀\0C'est s\0촀 qui m'a convaincu de rester,
+\0 pendant que je faisais du\0 camping\0￿ dans le coin.\0\0(1촀\02IlElle m'a bien vendu l'endroit je dois
 dire,
 \0 surtout la qualité du voisinage
 \0n\0\0
@@ -848,8 +821,7 @@ que ma chance tourne,
 \0 je te le disn"
 "401","(""촀\0Salut
 \0 n\0. 
-\0Devine
-quoi!
+\0Devine quoi!
 \0 (촀\0Je suis de retour au bercail!\0\0(\0촀\0Ça fait un bout de temps qu'on
 s'était pas vus.
 \0(촀\0 Va falloir rattraper
@@ -942,10 +914,7 @@ choses à se raconter,
 \0 alors
 passe me voir à l'occasion!"
 "412_03","(촀\0Ça alors!
-\0 Je rêve, ou c'est bien
-n\0 qui se tient
-devant moi?!
-(5촀\0Les rumeurs étaient donc vraiesn\0\0
+\0 Je rêve, ou c'est bien n\0 qui se tient devant moi?!\0\0(5촀\0Les rumeurs étaient donc vraiesn\0\0
 (촀\0Et ça veut dire qu'on est désormais
 voisins!
 \0 Ha ha ha!\0\0(7촀\0Je viens tout juste d'emménager ici,
@@ -969,10 +938,7 @@ que tu habitais sur cette îlen\0\0
 patates à cause de ce coup de froid,
 \0
 tu m'excuseras(\0촀\0.
-(촀\0En plus, je viens de quitter
-s촀 pour
-m'installer icin\0\0
-Bref,
+(촀\0En plus, je viens de quitter s촀 pour m'installer icin\0\0\0\0Bref,
 \0 tout ça pour diren\0\0 (&촀\0Ça te dirait
 qu'on papote une autre fois?
 \0

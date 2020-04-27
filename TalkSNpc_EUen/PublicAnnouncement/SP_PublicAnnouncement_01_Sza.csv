@@ -79,22 +79,26 @@ at the tent in the plaza!"
 the first \0Bug-Off \0￿of the season today
 from \09 AM\0￿ to \06 PM\0￿!"
 "006_01_02","The first \0Bug-Off\0￿ of the season runs
-until \06 PM\0￿ today!"
+until 
+\0\06 PM\0￿ today!"
 "006_02_01","Starting in the plaza, we'll be holding
 the second \0Bug-Off \0￿of the season
 today from \09 AM\0￿ to \06 PM\0￿!"
 "006_02_02","The second \0Bug-Off\0￿ of the season
-runs until \06 PM\0￿ today!"
+runs until 
+\0\06 PM\0￿ today!"
 "006_03_01","Starting in the plaza, we'll be holding
 the third \0Bug-Off \0￿of the season today
 from \09 AM\0￿ to \06 PM\0￿!"
 "006_03_02","The third \0Bug-Off\0￿ of the season runs
-until \06 PM\0￿ today!"
+until
+\0 \06 PM\0￿ today!"
 "006_04_01","Starting in the plaza, we'll be holding
 the final \0Bug-Off \0￿of the season today
 from \09 AM\0￿ to \06 PM\0￿!"
 "006_04_02","The final \0Bug-Off\0￿ of the season runs
-until \06 PM\0￿ today!"
+until
+\0 \06 PM\0￿ today!"
 "007_01","(촀\0Can you believe it?
 \0
 Today is the last day of Z\0!
@@ -121,6 +125,26 @@ away, so head down to the plaza
 as quickly as you can.
 (""촀\0See you there!
 Ò"
+"008_01_01","(촀\0And don't forget! 
+\0(촀\0Bunny Day
+\0
+is just a few hops away!\0\0(촀\0I guess that means we can expect
+a change in the weather.\0\0(1촀\0Why is it that as soon as we get used
+to one season, 
+\0the next one is
+already upon us?"
+"008_01_02","(촀\0I hope you're excitedn\0\0
+\0(촀\0because today
+is \0Bunny Day\0￿! 
+\0(The plaza is all a
+bustle with activity.
+(&촀\0Perhaps we have a special visitor?
+\0
+(3촀\0Hint, hint.\0\0(\0촀\0Either way, 
+\0(촀\0I'm sure there's a lot of
+fun in store for us today! 
+\0(%촀\0So stop by
+the plaza if you have a chance."
 "010","(촂\0Hello, everyone.
 \0
 I'm sorry to interrupt your day, but I
@@ -166,7 +190,7 @@ island life here!"
 friend on the island!"
 "200","On a slightly different noten"
 "201","Tomorrow, n\0 bids a
-fond a farewell to our dear
+fond farewell to our dear
 friend s촀.
 It's hard to say goodbye,
 but we wish 2himher luck on
@@ -375,7 +399,7 @@ something SUPER special!"
 caught my eye
 \0 and reminded me of
 a piece of horticultural trivia.
-(&촀\0Did you know you that this time of
+(&촀\0Did you know that this time of
 year is perfect for harvesting fresh
 bamboo or
 \0 ""\02\0Ѐ촃young spring bamboo\0￿""?"

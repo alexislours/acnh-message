@@ -14,15 +14,13 @@ j'ai oublié de lui rendren\0\0\0\0(촀\0Mais ça fait mé
 c'est un peu la honte...
 \0 (7촀\0Tu voudrais
 pas le faire à ma place ?"
-"001_a","Pas de souci !"
-"001_b","Fais-le toi-même."
-"002","()촀\0Tu connais s촀, pas
-vrai ? Eh bien, 2촀ilelle\0 est venu2촀\0e\0
-chez moi l'autre journ\0\0\0\0(촀\0On a passé une soirée 
+"001_a","(\0촀\0Pas de souci !"
+"001_b","(\0촀\0Fais-le toi-même."
+"002","()촀\0Tu connais s촀, pas vrai ? Eh bien, 2촀ilelle\0 est venu2촀\0e\0 chez moi l'autre journ\0\0\0\0(촀\0On a passé une soirée 
 \0dé
 \0lire...
 \0
-(촀\0sauf qu'2촀ilelle\0 a oublié un truc chez
+(촀\0sauf qu'2촀ilelle\0 a oublié un truc chez
 moi en partant !\0\0(\0촀\0Il faudrait aller lui rendre, 
 \0(촀\0mais
 pffn\0\0
@@ -37,12 +35,10 @@ pffn\0\0
 "002_b","Pas le temps !"
 "003","(촀\0C'est pas croyable !
 \0(촀\0 J'ai reçu un
-paquet qui était adressé à s촀 !
-(	촀\0Au début j'ai cru qu'il était pour
+paquet qui était adressé à s촀 !\0\0(	촀\0Au début j'ai cru qu'il était pour
 moi,
 \0 alors t'imagines le malaise !(\0촀\0
-(촀\0J'étais tellement déçue...
-Je suis trop dégoûtée pour faire
+(촀\0J'étais tellement déçue...\0\0Je suis trop dégoûtée pour faire
 la livraison moi-même,
 \0(촀\0 mais toi
 tu veux bien, pas vrai ?"
@@ -91,13 +87,11 @@ je suis un peu,
 ($촀\0Tu veux bien le faire à ma place ?"
 "101_a","Bien sûr !"
 "101_b","(\0촀\0Et puis quoi encore ?"
-"102","(촀\0Avec s촀, on se
-demandait qui a le meilleur look,
-\0
-(촀\0et on a fini par se fâchern\0\0\0\0(촀\0C'est évident que c'est moi,
+"102","(촀\0Avec s촀, on se demandait qui a le meilleur look,
+\0 (촀\0et on a fini par se fâchern\0\0\0\0(촀\0C'est évident que c'est moi,
 \0
 (촀\0mais je voudrais quand même
-me réconcilier avec 2촀luielle\0 !
+me réconcilier avec 2촀luielle\0 !
 Je lui ai pris un cadeau,
 \0 (촀\0mais j'ai
 pas le courage d'aller lui apporter.
@@ -138,8 +132,7 @@ alors t'as jusqu'à demain soir,
 \0
 n\0 !"
 "201","($촀\0Je comptais sur toi pour aller voir
-s촀 et lui rendre son
-truc.
+s촀 et lui rendre son truc.
 \0 (촀\0Merci, n\0 !"
 "202","()촀\0L'idée, c'est que tu ramènes à s촀 le truc qu'elle a oublié."
 "203","(촀\0T'as pas oublié cette histoire de

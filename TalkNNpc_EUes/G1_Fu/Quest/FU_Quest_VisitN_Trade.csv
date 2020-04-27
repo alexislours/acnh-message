@@ -53,22 +53,21 @@ los mismos gustos."
 "012","(촀\0Bueno, espero que te sientas a
 gusto a pesar de todo."
 "100","( 촀\0¿Quieres mi }\0\0?
-\0 (촀\0Te l2촀oa\0 podría vender por Z\0."
+\0 (촀\0Te l2촀oa\0 podría vender por Z\0."
 "100_a","¡Acepto!"
 "100_b","(\0촀\0Pensándolo mejor..."
 "101","( 촀\0¿Mi }\0\0?
 \0
 (
 촀\0Mmmn\0\0
-\0 Podría dártel2촀oa\0 por
+\0 Podría dártel2촀oa\0 por
 ($촀\0Z\0."
 "101_a","¡Hecho!"
 "101_b","Mejor no"
 "102","Así que le has echado el ojo a
 mi }\0\0n\0\0
-\0
-Te l2촀oa\0 vendo por Z\0."
-"102_a","¡Me l2촀oa\0 quedo!"
+\0 Te l2촀oa\0 vendo por Z\0."
+"102_a","¡Me l2촀oa\0 quedo!"
 "102_b","Voy a pasar"
 "103","(%촀\0Bueno, como quierasn"
 "104","(촀\0No sé cómo decirte esto, florn\0\0
@@ -80,7 +79,7 @@ en tu casa."
 algo que te guste!"
 "202","(촀\0Espero que te traiga tanta felicidad
 como a mí."
-"203","(촀\0¡Que l2촀oa\0 disfrutes, n\0!"
+"203","(촀\0¡Que l2촀oa\0 disfrutes, n\0!"
 "204","(%촀\0Como ves, está en muy buen estado."
 "205","(촀\0¡Dale un buen uso!"
 "206","(촀\0Ay, vaya,
@@ -91,10 +90,10 @@ el correo postal.
 esto a casa más tarde."
 "300","(촀\0¡Oh! 
 \0No me esperaba que eligieras
-mi }촀.\0\0(촀\0Lo siento, pero es mi amiguit2촀oa\0 y no puedo venderl2촀oa\0, sería muy cruel."
+mi }촀.\0\0(촀\0Lo siento, pero es mi amiguit2촀oa\0 y no puedo venderl2촀oa\0, sería muy cruel."
 "301","(촀\0¡¿Mi }촀?!
 \0
-('촀\0No te l2촀oa\0 puedo dar, lo siento.
+('촀\0No te l2촀oa\0 puedo dar, lo siento.
 \0
 (촀\0Me gusta su compañía."
 "302","(촀\0¡Rábanos!
@@ -103,6 +102,5 @@ mi }촀.\0\0(촀\0Lo siento, pero es mi amiguit2촀oa\0 y no puedo
 esto es demasiado valioso para mí
 y no puedo vendértelo."
 "303","(촀\0Oh, mi hogar no sería el mismo sin
-est2촀ea\0 }\0\0.
-\0
-(촀\0¿Puedes elegir otra cosa?"
+est2촀ea\0 }\0\0.
+\0 (촀\0¿Puedes elegir otra cosa?"

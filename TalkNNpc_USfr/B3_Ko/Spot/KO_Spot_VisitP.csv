@@ -17,10 +17,8 @@ C'est moi, n
 C'est n
 \0!
 x"
-"004","Je sais qu't'es chez toi,
-n\0!
-\0
-Fais pas 2tonta timide!
+"004","Je sais qu't'es chez toi, n\0!
+\0 Fais pas 2tonta timide!
 x"
 "005","Bonn\0\0
 \0( On dirait qu'2ilelle est
@@ -72,10 +70,8 @@ quand même!
 "207","(7촀\0Si je me suis pointé à l'improviste
 aujourd'hui, c'est parce que je
 voulais tester un truc.\0\0(
-촀\0Je me suis ditn\0\0 Si n\0
-est chez 2luielle en ce moment,
-\0(%촀\0 alors
-aujourd'hui sera mon jour de chance.\0\0((촀\0Donc,
+촀\0Je me suis ditn\0\0\0\0Si n\0 est chez 2luielle en ce moment,
+\0(%촀\0 alors aujourd'hui sera mon jour de chance.\0\0((촀\0Donc,
 \0 j'suis drôlement content de
 voir que t'es bien là!
 \0 2\0n\0!"
@@ -99,8 +95,7 @@ bon ami.
 \0 (촀\0J'en prends note,
 \0 ha ha!"
 "211","($촀\0Dis, n\0.
-\0 Ça te dit
-qu'on joue à un jeu?"
+\0 Ça te dit qu'on joue à un jeu?"
 "211_a","Ouais!"
 "211_b","Pas maintenant."
 "212","(촀\0Tiens, j'ai une idée. 

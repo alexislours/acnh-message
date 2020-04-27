@@ -46,9 +46,9 @@ preferencias,
 ¿no te (
 촀\0gustaría tener una casa
 de verdad?
-(촀\0Aunque sí eres feliz así,
-\0 ¡bien por ti,
-n\0!"
+(촀\0Aunque si eres feliz así,
+\0
+¡bien por ti, n\0!"
 "005","촊(
 촀\0Bueno,
 \0 es una casa bastante
@@ -63,7 +63,7 @@ mansión te queda,
 \0 (촀\0¡ja, ja, ja!"
 "006","촊(촀\0¡Mira
 \0 cuánto espacio!
-\0 촆(1촀\0¡Hasta 2 촀ella\0 2"" 촀últimoúltima\0 촀 de mi colección cabría aquí,
+\0 촆(1촀\0¡Hasta 2!촀ella\0 2""!촀últimoúltima\0 촀 de mi colección cabría aquí,
 \0 n\0!"
 "007","(촀\0Oye,
 \0 me contaron que le has
@@ -82,9 +82,8 @@ que detrás de una casa así hay
 mucho trabajo,
 \0 n\0."
 "009","촊(촀\0¡Qué casa tan amplia tienes!
-\0 (촀\0
 \0
-¿Ya tienes cosas para llenarla?\0\0촆(6촀\0Incluso sin el segundo piso,
+(촀\0¿Y está toda llena de cosas?\0\0촆(6촀\0Aunque solo tenga un piso,
 \0
 ¡tremendo castillo te estás construyendo,
 \0 n\0!"
@@ -174,8 +173,8 @@ antigua como yo,
 s\0촀.
 (1촀\0Me pregunto cómo será la vista
 desde arriban"
-"019","(촀\0¡Así que s\0촀
-construyó un sótano!\0\0(촀\0Me encantan los sótanos.
+"019","(촀\0¡Escuché que s\0촀
+tiene un sótano!\0\0(촀\0Me encantan los sótanos.
 \0 Son como
 un búnkern\0\0
 \0 Tienen aire de aventura.\0\0(
@@ -197,19 +196,17 @@ No sé si me explicon\0\0
 cuando necesitas algo o quieres vender cosas que te sobran."
 "021","(촀\0Esto sí que es una \0tienda\0￿n\0\0
 \0
-de las de vender cosas.\0\0(9촀\0Me sentía mal viendo a estos chicos
-en una tiendan\0\0
+de las de vender cosas.\0\0(9촀\0Qué bueno que estos chicos ya no
+estén en una tiendan\0\0
 \0 de las de dormir.\0\0(촀\0Qué pesado es eso de tener que
 especificar todo,
 \0 cuando por el
 contexto se entiende perfectamente."
-"022","(촀\0¡Mira cómo ha crecido \02\0촀MiniNook\0￿!
-\0 Ahora sí que pegó el estirón,
-\0
-(촀\0¡ja, ja, ja!
-\0
-(촀\0¿Le habrá cambiado la voz
-a la tienda?"
+"022","(촀\0Me impacta lo espacioso que se ve
+\02\0촀MiniNook\0￿, la verdad. ¡Pues míralo nomás, n\0!\0\0(6촀\0Además, 
+\0ver el esfuerzo y dedicación
+de estos chicosn\0\0
+\0( (촀\0Es admirable."
 "024","촊촉(&촀\0¿Has oído algo sobre el \0museo\0￿?
 \0
 ¡Creo que por fin vamos a tener uno!\0\0촆촃(
@@ -272,6 +269,7 @@ estrambóticos."
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","()촀\0Quizá te sorprenda saber que desde
 mi juventud me gustan mucho
 los museos.\0\0(촀\0Qué tiemposn\0\0
@@ -290,12 +288,12 @@ tipo n
 
 \0?"
 "120","(촀\0El otro día estaba en el \0museo\0￿ y me
-fijé por casualidad en 2(촀ununa\0 pequeñ2(촀oa\0
+fijé por casualidad en 2)촀ununa\0 pequeñ2)촀oa\0
 
 n\0\0
 (
 촀\0Me trajo recuerdos de cuando
-era joven y podía tocarl2(촀oa\0s tan
+era joven y podía tocarl2)촀oa\0s tan
 tranquilamente.
 ('촀\0Pero con los años me he vuelto más
 sensible,
@@ -311,7 +309,7 @@ Qué horror,
 \0 Sí, ya sabes cuál digo.\0\0(촀\0¡2\02\0
 !
 \0
-(1촀\0¿Te 2(촀lola\0 imaginas 2(촀vivoviva\0,
+(1촀\0¿Te 2)촀lola\0 imaginas 2)촀vivoviva\0,
 \0 andando por
 ahí?
 ('촀\0Qué eras geológicas aquellasn\0\0

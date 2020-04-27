@@ -1,23 +1,24 @@
 ﻿"label","text"
 "001","(""촀\0Hoi, ik ben hier net komen wonen!
 (촀\0Ik heet n
-\0!\0\0()촀\0s\0촀 heeft me overtuigd om van s촀 naar hier te verhuizen.\0\0(촀\0Jij bent toch n\0? Volgens mij ben je behoorlijk populair hier, n\0.\0\0(촀\0Vandaag ben ik bezig met uitpakken,
+\0!\0\0()촀\02\0s\0촀 heeft me overtuigd om van s촀 naar hier te verhuizen.\0\0(촀\0Jij bent toch n\0? Volgens mij ben je behoorlijk populair hier, n\0.\0\0(촀\0Vandaag ben ik bezig met uitpakken,
 maar (촀\0laten we binnenkort eens
 afspreken, oké?(촀"
 "002","<"
 "002_01","(촀\0Hoi, volgens mij heb ik jou nog niet ontmoetn\0\0 Ik ben n
-\0 en ik kom van s촀.\0\0($촀\0Jij bent n\0? (촀\0Dat is een fantastische naam.\0\0()촀\0s\0촀 haalde me over om naar n\0 te verkassen voor (%촀\0een nieuw begin.\0\0(촀\02\0n\0, ik ben blij dat ik je heb ontmoet (4촀\0en hoop dat we vrienden zullen worden."
-"002_02","(""촀\0Hoi! (촀\0Ik kom van s촀 en ben hier onlangs komen wonen. (촀\0Tot nu toe vind ik het fantastisch!\0\0()촀\0s\0촀 haalde me over om van n\0 weg te gaan (촀\0en ik heb er geen spijt van.\0\0(;촀\0Jij bent toch n\0? Aangenaam! (촀\0Ik heb veel goeds over je gehoord!\0\0Ik ben blij dat we buren zijn en (4촀\0hoop
+\0 en ik kom van s촀.\0\0($촀\0Jij bent n\0? (촀\0Dat is een fantastische naam.\0\0()촀\02\0s\0촀 haalde me over om naar n\0 te verkassen voor (%촀\0een nieuw begin.\0\0(촀\02\0n\0, ik ben blij dat ik je heb ontmoet (4촀\0en hoop dat we vrienden zullen worden."
+"002_02","(""촀\0Hoi! (촀\0Ik ben hier onlangs komen
+wonen. (촀\0Tot nu toe vind ik het
+fantastisch!\0\0()촀\02\0s\0촀 heeft me overgehaald om hier te komen wonen 
+\0(촀\0en ik heb er geen spijt van.\0\0(;촀\0Jij bent toch n\0? Aangenaam! (촀\0Ik heb veel goeds over je gehoord!\0\0Ik ben blij dat we buren zijn en (4촀\0hoop
 dat we ook vrienden zullen worden,
 n\0."
 "002_03","(촀\0O, hallo! Leuk om je te ontmoeten.
 (촀\0Ik heet n
-\0.\0\0Jij bent n\0, toch? (촀\0Wat leuk om je zo tegen het lijf te lopen!\0\0()촀\0Door s\0촀 woon ik nu hier op n\0 (%촀\0en ik ben 2
-촀hemhaar\0 daar erg dankbaar voor.\0\0(촀\0Want nu zijn wij buren, n\0!"
+\0.\0\0Jij bent n\0, toch? (촀\0Wat leuk om je zo tegen het lijf te lopen!\0\0()촀\0Door s\0촀 woon ik nu hier op n\0 (%촀\0en ik ben 2촀hemhaar\0 daar erg dankbaar voor.\0\0(촀\0Want nu zijn wij buren, n\0!"
 "004","(촀\0Leuk om je te ontmoeten. (,촀\0Hatsjoe!
 \0 (촀\0Sorryn\0\0 Ik ben n
-\0. (촀\0Jij bent (\0촀\0n\0, toch?\0\0Ken je s\0촀? (%촀\02
-촀HijZij\0 haalde me over om hier te komen wonen.\0\0(,촀\0Hatsjie!
+\0. (촀\0Jij bent (\0촀\0n\0, toch?\0\0Ken je s\0촀? (%촀\02촀HijZij\0 haalde me over om hier te komen wonen.\0\0(,촀\0Hatsjie!
 \0 (8촀\0Bah, die verkoudheidn\0\0\0\0(4촀\0Laten we verder praten als ik weer
 beter ben, oké? (,촀\0Hatsjoe!(\0촀\0
 \0 Sorry.
@@ -28,7 +29,8 @@ nieuw hier op het eiland. (촀\0Ik heet
 \0.\0\0()촀\0Een vriend hier van het eiland haalde
 me over om hier te komen wonen,
 (촀\0maar is ondertussen verhuisd.
-(촀\0Sorry, ik gaf je niet de tijd om je voor te stellen. (4촀\0Jij bent toch n\0?\0\0(촀\0Ik voelde me wat eenzaam, dus ik
+(촀\0Sorry, ik heb je niet de kans gegeven om je voor te stellen. 
+\0(4촀\0Ben jij n\0?\0\0(촀\0Ik voelde me wat eenzaam, dus ik
 vind het erg fijn dat je even naar
 me hebt geluisterd, n\0.\0\0Je bent erg vriendelijk en (촀\0ik hoop
 dat we vrienden zullen worden.(촀"
@@ -73,7 +75,7 @@ niet ontmoet!
 kort.
 \0 Ik heet n
 \0.\0\0($촀\0Jij bent n\0, toch?
-\0 (촀\0Leuke naam!\0\0()촀\0Ik ben door s\0촀 gevraagd om hier te komen wonen.\0\0(촀\0Dus, zo gezegd,
+\0 (촀\0Leuke naam!\0\0()촀\0Ik ben door s\0촀 gevraagd om hier te komen wonen.\0\0(촀\0Dus zo gezegd,
 \0 zo gedaan.
 \0(촀\0 Leuk om
 je te ontmoeten,
@@ -82,9 +84,8 @@ je te ontmoeten,
 \0 Leuk je te ontmoeten!
 \0(촀\0 Ik ben nog vrij nieuw hier
 \0n\0\0 Mijn naam is n
-\0.
-(%촀\0Jij bent zeker n\0?
-\0(6촀\0 Ik heb over je gehoord!\0\0()촀\0s\0촀 heeft me gevraagd om hier te komen wonen.\0\0(촀\0Nu jij en ik allebei hier wonen,
+\0.\0\0(%촀\0Jij bent zeker n\0?
+\0(6촀\0 Ik heb over je gehoord!\0\0()촀\02\0s\0촀 heeft me gevraagd om hier te komen wonen.\0\0(촀\0Nu jij en ik allebei hier wonen,
 \0 (촀\0hoop
 ik dat we het snel goed met elkaar
 kunnen vinden,
@@ -181,8 +182,8 @@ keertje wel verder,
 "202_01","(""촀\0Ik heb mezelf nog niet voorgesteld.
 \0
 (촀\0Mijn naam is n
-\0.\0\0(촀\0Ik ben hier net naartoe verhuisd
-vanaf s촀.\0\0($촀\0Jij bent n\0,
+\0.
+\0 Ik ben hier net naartoe verhuisd\0\0($촀\0Jij bent n\0,
 \0 hè?
 \0(촀\0 Wat een leuke naam!\0\0()촀\0Ik ben door s\0촀
 \0 gevraagd om hier te komen wonen, toen ik op de \0kampeerplek\0￿ verbleef.\0\0(촀\0Ik kijk er naar uit om elkaar beter
@@ -204,7 +205,7 @@ hoop dat we goede 2*vriendenvriendinnen
 \0 jij bent n\0, toch?\0\0Ken je s\0촀?\0\0()촀\02HijZij bracht me op het idee om hier te
 komen wonen
 \0 toen ik op de
-\0kampeerplek\0￿, verbleef,
+\0kampeerplek\0￿ verbleef,
 \0 n\0.
 (촀\0Het is fijn dat 2hijze dat voorstelde,
 \0
@@ -218,8 +219,7 @@ ben n
 \0.\0\0(""촀\0Jij bent (\0촀\0n\0,
 \0 hè?\0\0(촀\0Misschien ken je s\0촀?
 \0 (촀\0Toen ik hier kampeerde,
-\0 kwam 2
-촀hijze\0 met het idee dat ik hier kon wonen.\0\0(,촀\0HATSJOE! (8촀\0Bah, het is niet leuk om
+\0 kwam 2촀hijze\0 met het idee dat ik hier kon wonen.\0\0(,촀\0HATSJOE! (8촀\0Bah, het is niet leuk om
 verkouden te zijn
 \0n\0\0(4촀\0 Als ik me beter
 voel, praten we wel verder.
@@ -229,9 +229,9 @@ voel, praten we wel verder.
 \0(촀\0 Ik ben n
 \0.
 \0 Aangenaam kennis te maken!\0\0()촀\0Ik ben uitgenodigd om hier te komen
-wonen, toen ik hier kampeerde,
+wonen toen ik hier kampeerde,
 \0 maar
-(촀\0de bewoner die me dat vroeg is weg.
+(촀\0de bewoner die me dat vroeg, is weg.
 (촀\0Sorry,
 \0 ik heb je nog niet de kans gegeven om jezelf voor te stellen.
 \0(4촀\0 Jij bent n\0, klopt dat?\0\0(촀\0Ik was nogal teleurgesteld,
@@ -245,7 +245,7 @@ voorstellen
 \0 sinds ik hier woon
 \0n\0\0(촀\0 Ik
 heet n
-\0.\0\0()촀\0Een bewoner die me tijdens het
+\0.\0\0()촀\0De bewoner die me tijdens het
 kamperen vroeg om hier te komen
 wonen,
 \0 (촀\0is nu zomaar zelf verhuisd.\0\0(\0촀\0Raar hoe die dingen soms lopen,
@@ -307,9 +307,9 @@ dat ik je tegenkwam,
 \0.\0\0(%촀\0Volgens mij heb ik je al vaker gezien
 sinds ik hier ben komen wonen.
 \0(촀\0 Vind
-jij iedereen hier ook zo aardig:\0\0(1촀\0Dat is wat me zo aansprak
+jij iedereen hier ook zo aardig?\0\0(1촀\0Dat is wat me zo aansprak
 \0 toen ik
-hier eerder was om te kamperenn\0\0\0\0()촀\0s\0촀 haalde me toen ook daadwerkelijk over om hier te komen wonen.\0\0(\0촀\0Ik ben blij dat ik dat heb gedaan
+hier eerder was om te kamperenn\0\0\0\0()촀\02\0s\0촀 haalde me toen ook daadwerkelijk over om hier te komen wonen.\0\0(\0촀\0Ik ben blij dat ik dat heb gedaan
 \0 en
 (촀\0ik vind het leuk je eindelijk eens
 gesproken te hebben,
@@ -387,13 +387,10 @@ naam is n
 vrienden te maken,
 \0 maar nu ben ik
 helaas verkouden,
-\0 n\0.\0\0()촀\0Ik ben overgehaald te verhuizen naar
-n\0
-\0 door iemand die
-ik op de \0kampeerplek\0￿ tegenkwam.\0\0(,촀\0HATSJOE!
+\0 n\0.\0\0()촀\0Ik ben overgehaald te verhuizen naar n\0
+\0 door iemand die ik op de \0kampeerplek\0￿ tegenkwam.\0\0(,촀\0HATSJOE!
 \0( (촀\0Sorry.
-\0 Ik hoop dat ik jou
-niet ook ziek maak,
+\0 Ik hoop dat ik jou niet ook ziek maak,
 \0 n\0. (+촀\0Laten we later nog eens afspreken."
 "401","(""촀\0Jij bent n\0, hè? (촀\0Ik heb veel over je gehoord, n\0.\0\0(4촀\0Sorry, dat was onbeleefd. (촀\0Ik heet n
 \0.\0\0()촀\0Voor ik naar s촀 verhuisde, woonde ik hier. (촀\0En nu ben ik teruggekomen!(촀\0\0\0Het is leuk om je te ontmoeten.

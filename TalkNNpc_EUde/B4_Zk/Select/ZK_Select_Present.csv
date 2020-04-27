@@ -7,8 +7,7 @@ Material sein könnte!"
 "100_02","(촀\0Dein Sinn für Luxus ist hervorragend,
 \0
 n\0. 
-\0Fast so gut wie
-meiner!"
+\0Fast so gut wie meiner!"
 "100_03","(%촀\0So etwas habe ich schon immer
 gewollt.
 \0 (6촀\0Wie seltsam, 
@@ -29,6 +28,11 @@ bringen. 
 hinkommt.\0\0(촀\0Du bist herzlich eingeladen zur
 feierlichen Wiedereröffnung
 meines umdekorierten Heims!"
+"104","\0(
+촀\0So was hab ich doch schon mal
+gesehenn\0\0
+\0 oder war das nur ein
+extrem realistischer Traum?\0￿"
 "111","(
 촀\0Ich glaube, so was hab ich schon
 mal in \0Eugens\0￿ Sammlung gesehen.\0\0(5촀\0Ich bin ja auch ein leidenschaftlicher
@@ -140,22 +144,23 @@ brauchen kann.
 \0(촀\0 Danke!"
 "402","(촀\0Oooh! 
 \0Kannst du meinen Magen
-etwa bis zu dir grummeln hören?\0\0Und hast mir gleich 2&\0
-eineneineein\0\0\0 2촁}\0\0 besorgt? 
+etwa bis zu dir grummeln hören?\0\0Und hast mir gleich 2,\0einen 
+eine ein \0\0\02촁}\0\0 besorgt? 
 \0(촀\0Wie lieb!"
 "403","(촀\0Das werde ich mir aufheben!
 \0
 Bis...
 \0(6촀\0 in fünf Minuten."
-"404","(촀\0Oh, wie bezaubernd!
+"404","(촀\0Oh, 
+\0wie bezaubernd!
 \0 Wie nennt
 man diese Blume noch?
-\0(&촀\0 Ist das
+\0(&촀\0 28\0IstIstIstSindSindSind das
 2\0}\0\0?"
 "405","(%촀\0Dafür habe ich zu Hause genau
 das richtige Plätzchen."
 "406","(촀\0Ha! 
-\0Man sehe sich nur 2,촀diesen
+\0Man sehe sich nur 2,촀diesen
 diesedieses
 2촁}\0\0 an!"
 "407","(1촀\0So ein Haustier hab ich mir schon
@@ -165,10 +170,10 @@ immer gewünscht, 
 \0Sieh nur, 
 \0wie lebhaft dieses
 kleine Kerlchen ist!
-\0 (&촀\0Das ist 2촀eineineein
+\0 (&촀\0Das ist 2촀eineineein
 }\0\0, 
 \0richtig?"
-"409","(6촀\02촀DerDieDas eignet sich großartig, 
+"409","(6촀\02촀DerDieDas eignet sich großartig, 
 \0um
 schreckhaften Freunden einen
 kleinen Streich zu spielen.\0\0Ich danke dir, 
@@ -188,7 +193,7 @@ weg. 
 \0ja?"
 "411","(
 촀\0Hmm, 
-\0ich würde es so gern
+\0ich würde das Präsent so gern
 annehmen, 
 \0doch bei \0Eugen\0￿ wäre
 es sicher besser aufgehoben.\0\0(촀\0Nicht, dass er\0 \0￿sauer auf mich wird,
@@ -196,12 +201,10 @@ es sicher besser aufgehoben.\0\0(촀\0Nicht, dass er\0 \0￿sauer au
 weil ich ihm etwas wegschnappe.
 \0
 Bring es besser zu ihm."
-"501","(촀\0Das... 
-\0willst du mir zumuten?
+"501","(촀\0Dasn\0\0 willst du mir zumuten?
 \0
 2\02\0}\0\0,
-\0
-wirklich?!"
+\0 wirklich?!"
 "502","('촀\0Hier, 
 \0nimm das wieder mit 
 \0und denk
@@ -211,23 +214,21 @@ du jemandem einen Streich spielst."
 "503","(촀\0W-wie, 
 \0du gibst mir Sternis?"
 "504","(9촀\02\0n\0, 
-\0das ist keine
-gute Idee.
-\0 Fühlt sich mehr wie ein
-Geschäft als ein Geschenk an.\0\0(%촀\0Ich weiß deine Freigiebigkeit ja zu
+\0das ist keine gute Idee.
+\0 Fühlt sich mehr wie ein Geschäft als wie ein Geschenk an.\0\0(%촀\0Ich weiß deine Freigiebigkeit ja zu
 schätzen, 
 \0doch das kann ich nicht
 annehmen."
 "505","(촀\0Hmm, 
-\0du hast mir gerade 2&\0
-eineneineein\0\0\0 2촁}\0\0 gegeben.\0\0(촀\0Nein. 
+\0du hast mir gerade 2,\0einen 
+eine ein \0\0\02촁}\0\0 gegeben.\0\0(촀\0Nein. 
 \0Mehr fällt mir dazu nicht ein."
 "506","(촀\0Ich nehme an, 
 \0auf einer Insel kann
 man alles einmal gebrauchen, 
 \0hm?"
 "507","(촀\0Ist dasn\0\0 eine Bastelanleitung für
-2""촀
+2""촀
 eineneineein 2촁}\0\0?\0\0(5촀\0Ich bin zwar die zweitcoolste Person
 auf dieser Insel,
 \0('촀\0 aber nicht mal ich

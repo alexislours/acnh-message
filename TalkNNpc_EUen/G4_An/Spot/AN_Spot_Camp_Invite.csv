@@ -15,6 +15,14 @@ what?
 the folks over at \0Resident Services
 \0￿real quick, n\0.
 \0( (촀\0I'm on it!"
+"003","(6촀\0You must really want me around to
+keep invitin' me here.
+\0( (촀\0OK, you want
+me for a neighbor, you got it!\0\0( 촀\0Ohn\0\0
+\0except I guess I still gotta bug
+\0Resident Services\0￿ before moving
+here is a go.
+\0( (촀\0Soon, n\0!"
 "101","<"
 "101_01","(&촀\0Huh? 
 \0Seriously? 
@@ -159,55 +167,37 @@ but trust me, 
 \0I've loved EVERYTHING
 about my stay on n	\0."
 "206","<"
-"206_01","(3촀\0OK, big winner, 
-\0I'm 2\0n\0
-of my word.
-\0 n
-\0 is
-comin' to n	\0!\0\0( 촀\0Oh, hey!
-\0 What was your name
-again?
-\0 2\0n\0?
-\0( ($촀\0Great to
-meet you, n\0.
-(6촀\0Well, n\0, just
-remember that you started
-this.
+"206_01","(3촀\0OK, big winner. 
+\0I'm in. 
+\0I'll be movin'
+to n	\0.\0\0(9촀\0Or at least I might ben\0\0
+\0
+\0 I gotta clear
+stuff with \0Resident Services\0￿, first.\0\0(6촀\0Alright, well, assuming that all works
+out, I just want you to remember that
+you started this.
 \0( (촀\0Bwa ha ha!"
 "206_02","(%촀\0You win, 
 \0and the truth is I ain't even
 mad.
-\0( (촀\02\0n	\0 or bust!\0\0( 촀\0Oh yeah! 
-\0I can't remember if
-I introduced myself or not.
-\0( ($촀\0My
-name's n
-\0. 
-\0Yo!\0\0(9촀\0And you weren\0\0
-\0n\0!
-\0
-Cool.
-\0( ()촀\0Well, n\0, we're
-about to be neighbors!\0\0(\0촀\0OK, so once I'm all moved in, are you
-gonna show me where the cool folks
-hang out?
-\0( (6촀\0You better, n\0!"
+\0( (촀\02\0n	\0 or bust!\0\0(
+촀\0Let's seen\0\0
+\0 There's probably a bunch
+of forms and junk I gotta sign, 
+\0so
+I should hit up \0Resident Services\0￿n\0\0\0\0($촀\0Be right back, n\0!"
 "206_03","(촀\0OK, you win.
 \0 2\0n	\0 just
 got its very own n
-\0.\0\0( 촀\0Hold up!
-\0 I don't think I ever caught
-your name.
-\0 2\0n\0, huh?
+\0.\0\0(촀\0If you thought this place rocked
+before, 
+\0you ain't seen nothin' yet!
 \0(
-($촀\0Rad to meet you!
-(3촀\0Well, if you thought this place rocked
-before, you ain't seen nothin' yet,
-n\0.
-\0( (촀\0Bwa ha ha!\0\0()촀\0I'm gonna have to go back home first
-to wrap things up and say some
-goodbyes, but after thatn\0\0
-\0( (촀\0It's on!"
+(촀\0Bwa ha ha!
+( 촀\0Wait, hold up! 
+\0I probably oughta
+make the move official and stuff.\0\0(%촀\0Let me go talk to \0Resident Services
+\0￿reeeeal quick, n\0."
 "302","(%촀\0So,
 \0 I just got off the phone with
 \0Resident Services\0￿n\0\0
@@ -306,34 +296,19 @@ fine, I understand. 
 \0I'm disappointed,
 
 \0but I understand, n\0."
-"402","(%촀\0THAT was a strange conversationn\0\0
-\0
-(촀\0So, I talked to \0Resident Services \0￿to
-ask about moving here.\0\0(촀\0But they were like, ""You already live
-here.""
-\0 I tried telling 'em that I don't,
-but they just weren't having it.\0\0(촀\0Anyway, that went on for a bit. 
-\0By
-the end, everyone was SUPER
-confused and I was kinda angry.\0\0('촀\0I think after all that,
-\0 I'm just gonna
-stay where I am, n\0.
+"313","(촀\0Rock! 
+\0OK, so \0Resident Services
+\0￿said the name s촀.
 \0(
-(%촀\0Thanks anyway!"
-"403","(8촀\0Ever wonder if you've got a secret
-twin?
-\0 \0Resident Services\0￿ here's got
-me kinda worried.\0\0(9촀\0I was talking to them about moving
-in,
-\0 but someone that looks EXACTLY
-like me also put in an application.\0\0(촀\0So, I called my mom and asked if
-there's a twin she never told me
-about,
-\0 but she was confused too!\0\0(+촀\0Whatever's going on is WAAAAY too
-weird for me.
-\0 I appreciate the invite,
-
-\0('촀\0but no thanks, n\0."
+Whaddaya think?
+\0 (&촀\0Bug 2himher?"
+"313_a","Make it happen!"
+"313_b","What? No!"
+"314","(7촀\0Hey, it's alright. I get it. 
+\0Bad ideas
+happen. It's all good. 
+\0Let's just
+drop it for now, n\0."
 "404","( 촀\0I guess this place is SUPER popular!\0\0(%촀\0I talked to \0Resident Services\0￿, 
 \0but
 they said n	\0's full!\0\0(촀\0How can an ENTIRE island be full?
@@ -344,20 +319,6 @@ me.
 \0 If n	\0's THAT full,
 
 \0('촀\0I'm gonna have to pass."
-"405","(9촀\0Alright,
-\0 so I just talked to
-\0Resident Services\0￿n\0\0\0\0('촀\0It's not gonna work out.\0\0(8촀\0They said something about there not
-being enough room for me to have
-my own place, n\0.\0\0(촀\0They DID tell me I could move in with
-someone,
-\0 but I'm kinda over the
-whole 
-\0""having roommates"" thing.\0\0(촀\0It's too bad.
-\0 I was kinda liking the
-idea of living on n	\0.
-\0(
-(7촀\0Oh well.
-\0 Thanks, anyway!"
 "406","(촀\0Well, I talked to \0Resident Services\0￿.
 \0(
 (촀\0Guess who's about to be your
@@ -395,16 +356,6 @@ again. 
 I guess.
 \0( (촀\02\0n	\0'll just
 have to survive without me."
-"421","(
-촀\0Hmmn\0\0
-\0 Sticking two of me on the
-same island is kind of a disaster
-waiting to happen.\0\0('촀\0I think I might have to pass on
-n	\0, n\0."
-"422","(8촀\0So I gave it some thought, and
-I think I've decided I'm already
-enough trouble on my own.\0\0('촀\02\0n	\0 definitely can't
-handle two of me, n\0!"
 "423","(촀\0Wow! 
 \02\0n	\0's packed!
 
@@ -413,15 +364,6 @@ anyone in right now, n\0.\0\0(촀\0That's the way it goes, I guess.
 \0
 But I really was lookin' forward
 to living heren"
-"424","(촀\0Was there, like, 
-\0a building boom on
-n	\0?
-\0 I just got told
-there's no room left to build on!\0\0(촀\0I guess it makes sense. 
-\0Everyone
-wants to live where things are
-awesome, right? 
-\0Oh well."
 "504","(%촀\0Pretty comfy island you've got here.
 I really like how it's laid out.
 \0( (6촀\0Plus,

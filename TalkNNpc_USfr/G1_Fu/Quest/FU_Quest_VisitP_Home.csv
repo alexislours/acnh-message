@@ -10,8 +10,7 @@
 C'est moi, n
 \0.
 x"
-"006","2\0n\0?
-C'est moi, n
+"006","2\0n\0? C'est moi, n
 \0.
 x"
 "007","2\0n\0, tu m'entends?
@@ -19,16 +18,13 @@ C'est moi, n
 Si tu es chez toi, est-ce que tu peux
 venir ouvrir la porte?
 x"
-"008","2\0n\0, est-ce que
-tu es chez toi?
+"008","2\0n\0, est-ce que tu es chez toi?
 x"
 "009","Est-ce 
 \0(qu'2ilelle serait 2
 sortisortie?
 x"
-"010","Euh... n\0?
-Bon, tu n'as pas l'air d'être
-chez toi, je repasserai plus tard.
+"010","Euh... n\0? Bon, tu n'as pas l'air d'être chez toi, je repasserai plus tard.
 x"
 "011","(촀\0Bonjour, n\0!\0\0(촀\0Je sais qu'il est très tôt, mais
 l'attente me paraissait insoutenable!"
@@ -57,8 +53,7 @@ quand même que ça te plaira..."
 "103","2\02\0}\0. (2촀\0J'ai pensé que tu aimeraisn"
 "104","2\02\0}\0. (촀\0J'ai choisi ça spécialement pour toin"
 "105","2\02\0}\0n\0\0 (촀\0C'est juste ma manière de te remercier de ton invitation."
-"200","2\0n\0, et si on ($촀\0jouait
-à un jeu, toi et moi?"
+"200","2\0n\0, et si on ($촀\0jouait à un jeu, toi et moi?"
 "200_a","Super idée!"
 "200_b","Bof, pas maintenant."
 "201","(촀\0Oh!
@@ -66,9 +61,7 @@ quand même que ça te plaira..."
 qu'est-ce que tu en penses?"
 "201_a","Oui, d'accord!"
 "201_b","Sans façon."
-"202","(촀\02\0n\0, on pourrait
-($촀\0jouer à un jeu, toi et moi.
-Ça te dit?"
+"202","(촀\02\0n\0, on pourrait ($촀\0jouer à un jeu, toi et moi. Ça te dit?"
 "202_a","Et comment!"
 "202_b","Je passe mon tour."
 "203","(촀\0Bon, très bien.

@@ -16,20 +16,20 @@ fammi sapere, mi raccomando."
 ti interessa? 
 \0(촀\0Sai, forse potresti
 convincermi a separarmene!"
-"004_a","Ci sarebbe una cosa..."
+"004_a","(\0촁\0Ci sarebbe una cosa..."
 "004_b","No, grazie."
 "005","()촀\0Se vedi qualcosa che adooori tra
 i miei mobili, 
 \0forse potrei anche
 separarmene. 
 \0($촀\0Fammi sapere!"
-"005_a","Ho visto una cosa!"
+"005_a","(\0촁\0Ho visto una cosa!"
 "005_b","Non ho visto nulla."
 "006","(촀\0Fammi sapere se vedi qualcosa che
 ti interessa nel mio pied-à-terren\0\0
 
 \0(%촀\0Forse potrei anche separarmene."
-"006_a","Una cosa ci sarebbe!"
+"006_a","(\0촁\0Una cosa ci sarebbe!"
 "006_b","No, non voglio niente."
 "007","(&촀\0Cos'era che ti interessava?
 \0 (4촀\0Ho così
@@ -59,23 +59,23 @@ in fatto di mobili, 
 \0(촀\0Spero che ti sentirai
 comunque a tuo agio qui nel mio
 pied-à-terren"
-"100","( 촀\02""촀Il mioLa mia\0 }\0\0?
-(촀\0È 2촀tuotua\0 per Z\0."
+"100","( 촀\02""촀Il mioLa mia\0 }\0\0?
+(촀\0È 2촀tuotua\0 per Z\0."
 "100_a","Ci sto!"
 "100_b","(\0촀\0Ripensandoci..."
-"101","( 촀\02""촀Il mioLa mia\0 }\0\0? 
+"101","( 촀\02""촀Il mioLa mia\0 }\0\0? 
 \0(
 촀\0Mmmhn\0\0
 \0 Potrei separarmene pern\0\0 
 \0($촀\0diciamo Z\0."
 "101_a","Aggiudicato!"
 "101_b","No, grazie."
-"102","( 촀\02""촀Il mioLa mia\0 }\0\0?
+"102","( 촀\02""촀Il mioLa mia\0 }\0\0?
 
 \0(
 촀\0Mmmh, fammi pensaren\0\0(\0촀\0 Che ne dici
 di ($촀\0Z\0?"
-"102_a","Fantastico!"
+"102_a","(\0촁\0Fantastico!"
 "102_b","Lasciamo stare."
 "103","((촀\0D'accordo, 
 \0comme tu veuxn"
@@ -97,9 +97,9 @@ come ha fatto con me!"
 \0 sembra che tu abbia le tasche
 pienissimissime(촀\0,
 \0 n\0.\0\0(""촀\0Te lo mando dopo al tuo pied-à-terre!"
-"300","(촀\0Oh! Non mi aspettavo ti interessasse 2""촀il miola mia\0 }촀n\0\0 
+"300","(촀\0Oh! Non mi aspettavo ti interessasse 2""촀il miola mia\0 }촀n\0\0 
 \0(촀\0Scusa, ma non posso separarmene.\0\0(4촀\0Sai, ci sono molto affezionata."
-"301","(촀\02""촀Il mioLa mia\0 }촀?\0\0Mmmhn\0\0 (촀\0Perdonami, ma non posso.
+"301","(촀\02""촀Il mioLa mia\0 }촀?\0\0Mmmhn\0\0 (촀\0Perdonami, ma non posso.
 
 \0(4촀\0Sai, mi fa tanta compagnian"
 "302","(촀\0Ti prego, perdonami, 
@@ -108,6 +108,6 @@ separarmene. 
 \0Ha un enorme valore
 pour moi."
 "303","(촀\0Questo pied-à-terre non sarebbe
-più lo stesso senza 2""촀il miola mia\0
+più lo stesso senza 2""촀il miola mia\0
 }\0\0n\0\0
 (촀\0Potresti scegliere un'altra cosa?"

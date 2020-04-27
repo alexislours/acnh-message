@@ -61,6 +61,15 @@ la isla.
 ¡Pues sigue así!
 \0 Yo ahora estoy
 entrenando los ojos.(촀"
+"114","(%촀\0¡He oído que ayer fuiste a otra isla!
+\0
+(촀\0¿Te pasaste por su gimnasio,
+n\0?"
+"115","()촀\0Por ahí se dice que ayer estuviste
+con bastantes amigos, n\0.\0\0(%촀\0Tendrías que haberme llamado a mí
+también.
+\0 (촀\0¡Habríamos organizado
+una competición de acuasentadillas!"
 "116","(&촀\0¿Qué obra de bricolaje hiciste ayer?
 \0
 (%촀\0Seguro que te quedó algo tan
@@ -119,11 +128,11 @@ de eso?
 de conversación?"
 "125","(촀\0¡Anda que no estuviste con
 compañeros de entreno ayer!\0\0(5촀\0Al final tendremos que llamar a n\0 «Musculolandia», ¡⁠n\0⁠!"
-"126_01","(%촀\0He oído que ayer te picaron unas
-cuantas avispas, n\0.\0\0('촀\0A mí a veces también me pasa.
+"126_01","(%촀\0Ayer te picaron las avispas
+de lo lindo, ¿no?\0\0('촀\0A mí a veces también me pasa.
 \0
 (%촀\0¡Pero huir de ellas es un entreno
-de los de campeonato!"
+de los de campeonato, n\0!"
 "126_02","(&촀\0¿Te picó ayer una avispa?
 \0
 (촀\02\0n\0n\0\0
@@ -236,7 +245,7 @@ de estarme calladiton"
 \0
 (촀\0¡Seguro que hoy tienes los gemelos
 con las agujetas a tope!"
-"149","(촀\0¿Te has cambiado el peinado?
+"149","(촀\0¿Te has cambiado el pelo?
 \0
 (촀\0¡Pues te queda genial, n\0!\0\0()촀\0A veces yo también pienso en
 cambiar de estilon\0\0

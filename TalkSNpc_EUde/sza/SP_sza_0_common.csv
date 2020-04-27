@@ -60,20 +60,20 @@ persönlich gratulieren zu können!"
 "002","(촀\0Also dannn"
 "002_01","(&촀\0Wie kann ich dir heute helfen?"
 "002_01_a","()촀\0Neue Inselmelodie!"
-"002_01_b","()촀\0Neue Inselfahne!"
+"002_01_b","()촀\0Neue Inselflagge!"
 "002_01_c","()촀\0Eine Bewohnersache..."
 "002_01_d","('촀\0Alles paletti!"
 "002_02","(&촀\0Wie kann ich dir heute helfen?"
 "002_02_a","()촀\0Das Insel-Image!"
 "002_02_b","()촀\0Neue Inselmelodie!"
-"002_02_c","()촀\0Neue Inselfahne!"
+"002_02_c","()촀\0Neue Inselflagge!"
 "002_02_d","()촀\0Eine Bewohnersache..."
 "002_02_e","('촀\0Alles paletti!"
 "002_03","(촀\0Bitte zögere nicht mir zu sagen,
 \0
 wenn ich dir irgendwie helfen kann."
 "002_03_a","()촀\0Neue Inselmelodie!"
-"002_03_b","()촀\0Neue Inselfahne!"
+"002_03_b","()촀\0Neue Inselflagge!"
 "002_03_c","()촀\0Eine Bewohnersache..."
 "002_03_d","('촀\0Alles paletti!"
 "002_04","(촀\0Bitte zögere nicht mir zu sagen,
@@ -81,20 +81,20 @@ wenn ich dir irgendwie helfen kann."
 wenn ich dir irgendwie helfen kann."
 "002_04_a","()촀\0Das Insel-Image!"
 "002_04_b","()촀\0Neue Inselmelodie!"
-"002_04_c","()촀\0Neue Inselfahne!"
+"002_04_c","()촀\0Neue Inselflagge!"
 "002_04_d","()촀\0Eine Bewohnersache..."
 "002_04_e","('촀\0Alles paletti!"
 "002_05","(&촀\0Kann ich sonst noch etwas für
 dich tun?"
 "002_05_a","()촀\0Neue Inselmelodie!"
-"002_05_b","()촀\0Neue Inselfahne!"
+"002_05_b","()촀\0Neue Inselflagge!"
 "002_05_c","()촀\0Eine Bewohnersache..."
 "002_05_d","('촀\0Alles paletti!"
 "002_06","(&촀\0Kann ich sonst noch etwas für
 dich tun?"
 "002_06_a","()촀\0Das Insel-Image!"
 "002_06_b","()촀\0Neue Inselmelodie!"
-"002_06_c","()촀\0Neue Inselfahne!"
+"002_06_c","()촀\0Neue Inselflagge!"
 "002_06_d","()촀\0Eine Bewohnersache..."
 "002_06_e","('촀\0Alles paletti!"
 "003","Also schön.
@@ -199,15 +199,13 @@ dieses wunderschöne Design!"
 "013","(촀\0Was genau hast du auf dem Herzen,
 \0
 n\0? 
-\0Macht dir einer
-der Bewohner das Leben schwer?
-()촀\0Ich finde ja, 
+\0Macht dir einer der Bewohner das Leben schwer?\0\0()촀\0Ich finde ja, 
 \0dass sich mittels
 Kommunikation jeder noch so
 knifflige Konflikt lösen lässt.
 (
 촀\0Aber wenn du bereits das Gespräch
-gesucht hast... 
+gesucht hastn\0\0 
 \0((촀\0bleibt mir nichts
 anderes übrig,
 \0 als einzuschreiten!
@@ -247,8 +245,8 @@ an s촀?"
 \0
 dass sich s촀 unangemessen anzieht!"
 "020","(&촀\0Soll ich mal mit s촀
-reden und 2촀ihnsie\0 bitten, 
-\02촀seinihr\0 Verhalten
+reden und 2촀ihnsie\0 bitten, 
+\02촀seinihr\0 Verhalten
 zu ändern?"
 "020_a","Ja, bitte!"
 "020_b","Nee, schon gut."
@@ -265,7 +263,7 @@ gib bitte Bescheid, 
 Übeltäter darauf ansprechen kann."
 "022","(촀\0Sag nichts weiter! 
 \0(%촀\0Ich werde
-umgehend mit s촀 über 2촀
+umgehend mit s촀 über 2촀
 seineihre\0 Wortwahl sprechen.\0\0(3촀\0Bisher habe ich noch jeden mit
 meiner überaus vergnügten Art
 zur Vernunft bringen können.
@@ -275,9 +273,9 @@ falls dir wieder einmal jemand
 Ärger bereiten sollte!"
 "023","(촀\0Alles klar. 
 \0Dann werde ich mich
-mal mit s촀 über 2 촀seinen
+mal mit s촀 über 2 촀seinen
 ihren\0 Modegeschmack unterhalten.\0\0(3촀\0Keine Sorge, 
-\0ich bekomme 2촀ihnsie\0
+\0ich bekomme 2촀ihnsie\0
 schon noch dazu, 
 \0in irgendwas
 Gefälligeres zu schlüpfen.
@@ -298,8 +296,7 @@ mal vorbeischauen, 
 etwas mehr Luft habe?"
 "901","(촀\0
 \0Halli hallo,
-\0 n\0
-von n	\0!"
+\0 n\0 von n	\0!"
 "902","<"
 "902_01","(촀\0Vielen Dank, 
 \0dass du den weiten Weg

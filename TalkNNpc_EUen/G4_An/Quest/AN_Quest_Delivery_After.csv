@@ -16,7 +16,7 @@ doin' it right. 
 "003","(;촀\0So, uh, 
 \0did s촀
 say anything?"
-"003_a","(\0촁\0Yeah, 2촀heshe\0 said..."
+"003_a","(\0촁\0Yeah, 2촀heshe\0 said..."
 "003_b","(\0촁\0I forget."
 "004","(;촀\0So, uh, 
 \0did s촀
@@ -26,7 +26,7 @@ say anything?"
 "005","(촀\0Well, if you can't remember, 
 \0must not
 have been that important. 
-\0(촀\0But 2촀heshe\0
+\0(촀\0But 2촀heshe\0
 got it, and that's what matters."
 "006","(촀\0What then\0\0
 \0you opened a WRAPPED
@@ -152,19 +152,19 @@ I spent hours gettin' it into?!\0\0(촀\0Way to make it look like I didn't
 even try, n\0. 
 \0((촀\0Have some
 self-control!"
-"108","(촀\0Whaddaya mean, they already got
+"108","(촀\0Whaddaya mean, 2촀heshe\0 already got
 another one?!\0\0(
 촀\0Guess I kept it a little too longn\0\0
 \0<
 (\0촀\0Whoops. 
-\0(촀\0Well, thanks for doin' your
-part, n\0."
-"109","(촀\02촀HeShe\0 didn't notice it was gone yet?
+\0(촀\0Well, thanks for doin'
+your part, n\0."
+"109","(촀\02촀HeShe\0 didn't notice it was gone yet?
 \0(
 (촀\0Ha! 
 \0Lucky me, right?\0\0(촀\0Either way, 
 \0you did me a solid gettin'
-it back to 2촀himher\0. 
+it back to 2촀himher\0. 
 \0(촀\0Thanks a ton!"
 "201","(촀\0No problems gettin' that package to
 s촀? 
@@ -179,7 +179,7 @@ would go wrong. 
 "203","(;촀\0Oh yeah, 
 \0did s촀
 say anything?"
-"203_a","(\0촁\0Yeah, they said..."
+"203_a","(\0촁\0Yeah, 2촀heshe\0 said..."
 "203_b","(\0촁\0I dunno, I forgot."
 "204","(;촀\0So what'd s촀 say
 when 2heshe got the package?"
@@ -189,7 +189,7 @@ when 2heshe got the package?"
 \0I was really nervous about
 that part. 
 \0Then again, you'd probably
-remember if 2촀heshe\0 was mad, huh?\0\0(\0촀\0Anyway, thanks for helpin' me out
+remember if 2촀heshe\0 was mad, huh?\0\0(\0촀\0Anyway, thanks for helpin' me out
 with the delivery. 
 \0(촀\0I can always count
 on you, n\0!"
@@ -230,7 +230,7 @@ over to s촀? 
 "302","(4촀\0Just outta curiosityn\0\0
 \0did
 s촀 say anything?"
-"302_a","(\0촁\0Yeah, 2촀heshe\0 said..."
+"302_a","(\0촁\0Yeah, 2촀heshe\0 said..."
 "302_b","(\0촁\0I don't remember."
 "303","(4촀\0Just outta curiosityn\0\0
 \0did
@@ -242,7 +242,7 @@ over to s촀? 
 
 \0That takes the wind right outta my
 sails. 
-\0Well, as long as 2촀heshe\0 got itn\0\0\0\0(\0촀\0Thanks, n\0. 
+\0Well, as long as 2촀heshe\0 got itn\0\0\0\0(\0촀\0Thanks, n\0. 
 \0(촀\0I owe
 you for that, n\0!"
 "305","(촀\0You opened SOMEONE ELSE's gift?!
@@ -263,33 +263,33 @@ name on the present?
 (	촀\0THEN DON'T OPEN IT!"
 "307","(촀\0
 \0No way! 
-\02촀HeShe\0 changed into it right
+\02촀HeShe\0 changed into it right
 on the spot?! 
 \0NICE! 
 \0((2촀\0I oughta go see
-how it looks on 2촀himher\0, n\0."
+how it looks on 2촀himher\0, n\0."
 "308","(%촀\0Alright, cool. 
-\0((촀\0Sounds like they
+\0((촀\0Sounds like 2촀heshe\0
 didn't hate it, so I'll count that as
 a win. 
 \0Thanks for reportin' back!"
 "309","(%촀\0So it went like that, huh? 
 \0((1촀\0Well,
 maybe I'll luck out and get to see
-2촀himher\0 wear it sometime.\0\0(\0촀\0Thanks for playin' courier. 
+2촀himher\0 wear it sometime.\0\0(\0촀\0Thanks for playin' courier. 
 \0I wasn't
 too sure about this one, 
 \0(촀\0so I didn't
-wanna see 2촀hisher\0 face if I was wrong."
+wanna see 2촀hisher\0 face if I was wrong."
 "310","(*촀\0Uhn\0\0
 \0OK, then. 
 \0(촀\0Well, everybody needs
 somethin' to wear on laundry day,
 I guess. 
 \0Hehn\0\0
-\0heh.\0\0(\0촀\0I'm sure 2촀heshe\0 was happy enough to
+\0heh.\0\0(\0촀\0I'm sure 2촀heshe\0 was happy enough to
 get a present at all. 
-\0(촀\02촀HeShe\0 knows what
+\0(촀\02촀HeShe\0 knows what
 I was gettin' at, right, n\0?"
 "312","(2촀\0Yeah, I figured s촀
 and me would have a bunch
@@ -332,7 +332,7 @@ that package."
 "402","(4촀\0Sooon\0\0
 \0did s촀
 say anything?"
-"402_a","(\0촁\0Yeah! 2촀HeShe\0 said..."
+"402_a","(\0촁\0Yeah! 2촀HeShe\0 said..."
 "402_b","(\0촁\0Sorry, I forgot."
 "403","(4촀\0Sooon\0\0
 \0did s촀
@@ -402,22 +402,22 @@ apology gift I gave you to deliver to
 \0
 (&촀\0can I just have it back?"
 "506","(7촀\0I figured it'd be better to return it to
-2촀himher\0 myself, 
+2촀himher\0 myself, 
 \0that's all. 
 \0((촀\0Sorry to put
 you out, n\0."
 "507","(7촀\0I thought maybe I oughta take it to
-2촀himher\0 myself, y'know? 
+2촀himher\0 myself, y'know? 
 \0((촀\0Sorry for the
 hassle, n\0."
 "508","(7촀\0I didn't wanna fob it off on you after
 all, 
-\0so I'm just gonna take it to 2촀himher\0
+\0so I'm just gonna take it to 2촀himher\0
 myself. 
 \0(촀\0Sorry about that!"
 "509","(7촀\0Feels like if I'm gonna give someone
 a present, 
-\0((촀\0I should go give it to 2촀himher\0
+\0((촀\0I should go give it to 2촀himher\0
 myself, y'know?"
 "510","(7촀\0I gotta grit my teeth and do this
 thing on my own. 
@@ -442,7 +442,7 @@ and take it over myself, I guess.
 \0((촀\0Some day
 this is turnin' out to ben\0\0\0\0(\0촀\0Alright, I'll fix this. 
 \0(%촀\0Just gotta wrap
-it back up and take it to 2촀himher\0 like
+it back up and take it to 2촀himher\0 like
 nothin's wrong, n\0."
 "514","(촀\0Wait, 
 \0you opened it?! 
@@ -453,7 +453,7 @@ think it was for you or somethin'?\0\0(\0촀\0Oh well. 
 \0I still got some stuff left
 overn\0\0
 \0I can wrap it up again and give
-it to 2촀himher\0 myself.
+it to 2촀himher\0 myself.
 \0( ('촀\0Thanks a lot."
 "515","(촀\0You opened my gift? 
 \0My APOLOGY
@@ -493,7 +493,7 @@ ONE JOB, n\0!"
 \0It's GONE?! 
 \0I thought
 I told you that was supposed to be
-a present for s촀!\0\0(촀\0Now I've gotta get 2촀himher\0 somethin'
+a present for s촀!\0\0(촀\0Now I've gotta get 2촀himher\0 somethin'
 elsen\0\0
 \0and I ain't made of money.
 \0

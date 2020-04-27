@@ -2,24 +2,24 @@
 "001","(%촀\0Nich' schlecht, 
 \02HerrFrau Specht.
 
-\0Du hast 2촀'nen'neein 2촁}촀
+\0Du hast 2촀'nen'neein 2촁}촀
 gefangen.
 \0(5촀\0 Bin schwer beeindruckt."
 "002","(%촀\0Gänseblümchen, deine Insektenfang-
 skills hab ich nie angezweifelt.
 \0
-2,촀Fetter
+2,촀Fetter
 FetteFettes }촀!"
 "003","(촀\0Senkrechte Leistung. 
 \0Haste mal
-wieder den Kreis eckig gemacht?\0\0(촀\02\02\0}\0\0,
-2촀dendiedas du da hast, is' jedenfalls nich'
-von schlechten Eltern.
+wieder den Kreis eckig gemacht?\0\0(촀\02\02\0}\0\0,
+\0 2촀dendiedas du da hast, 
+\0is' jedenfalls nich' von schlechten Eltern.
 \0 Applaus!"
 "004","(촀\0Du willst mir das Vieh echt abtreten?
 \0
-So 2촀ein'neein }\0\0
-is' extremst rar."
+So 2촀ein'neein }\0\0 is' extremst rar, 
+\0n\0."
 "004_a","(%촀\0Stell dich nich' so an!
 (%촀\0Jetzt nimm schon!"
 "004_b","('촀\0Ups... Lieber nicht.
@@ -91,11 +91,11 @@ ausm Schneider bist.
 ((촀\0Bin nämlich immer noch auf der
 Suche nach 'nem \0Insekt\0￿, das gepflegt
 \0auf Baumstümpfen\0￿ rumlungert."
-"021","(촀\0Das is' 2촀ersiees! 
-\02$촀Mein
+"021","(촀\0Das is' 2촀ersiees! 
+\02$촀Mein
 MeineMein Traum-
 }촀!"
-"022","(%촀\02,촀Cooler
+"022","(%촀\02,촀Cooler
 CooleCooles }촀.
 \0
 Zwei Daumen nach oben!"
@@ -106,13 +106,13 @@ ordentlichen Blumenregen, 
 \0was?"
 "024","(촀\0Was sehn da meine geschwollenen
 Augen?
-\0 Is' das echt 2촀ein'neein
+\0 Is' das echt 2촀ein'neein
 }\0\0?
 \0 Stabil!
 (;촀\0So Viecher kriegen nur Prädikats-
 angler an Land gezogen... 
 \0(&촀\0Und du
-willst mir 2촀dendiedas einfach so abtreten?"
+willst mir 2촀dendiedas einfach so abtreten?"
 "024_a","(%촀\0Aber sicher!
 (%촀\0Übertreib nich'!"
 "024_b","('촀\0Öh... Moment.
@@ -129,9 +129,9 @@ diesem verbutterten Eiland täte."
 epischen \0Süßwasserfisch\0￿ am Start
 hast, 
 \0(""촀\0nehm ich 'n dir gern ab."
-"027","( 촀\0Willste dir 2촀dendiedas selbst ins Album
+"027","( 촀\0Willste dir 2촀dendiedas selbst ins Album
 kleben? 
-\0('촀\0Kann man nich' ändern.\0\0Wenn du 2촀dendiedas nich' hergibst, is' das
+\0('촀\0Kann man nich' ändern.\0\0Wenn du 2촀dendiedas nich' hergibst, is' das
 halt so. 
 \0(촀\0Bring mir einfach einen
 anderen \0Salzwasserfisch\0￿, oder so."
@@ -154,31 +154,29 @@ Gänseblümchen!\0d\0\0(촀\0Kann's nich' laut genug sagen."
 noch was Kleenes von mir.
 \0(촀\0 Hier,
 \0
-2촀ein'neein }\0."
+2촀ein'neein }\0."
 "042","(촀\0Gänseblümchen, 
 \0bist jetzt übrigens
-2stolzerstolze 2(BesitzerBesitzerin von 2""촀'nem'ner'nem coolen
+2stolzerstolze 2(BesitzerBesitzerin von 2""촀'nem'ner'nem coolen
 2촂}\0!"
 "043","(촀\0Schnell!
 \0 Steck das Ding ein, 
 \0bevor's
 die Lästertanten mitkriegen und
 denken, hier gäb's was für umme.
-(%촀\0Is' 2촀ein'neein }\0."
+(%촀\0Is' 2촀ein'neein }\0."
 "044","(촀\0Huch! 
 \0Fast hätt ich deine Belohnung
 verpeilt. 
 \0((촀\0Hier, nimm schon.
 
-\0Is' 2촀ein'neein }\0."
-"045","()촀\0Auf 2촀demderdem 2촂}\0
-hier steht dein Name drauf. 
-\0(촀\0Glaubste
-nich'? 
+\0Is' 2촀ein'neein }\0."
+"045","()촀\0Auf 2촀demderdem 2촂}\0 hier steht dein Name drauf. 
+\0(촀\0Glaubste nich'? 
 \0(촀\0Schau genau hin."
 "046","(7촀\0Halt mal deine Patschehändchen
-auf. Hab hier noch 2촀'nen'neein
-2촁}\0 für dich."
+auf.
+\0 Hab hier noch 2촀'nen'neein 2촁}\0 für dich."
 "051","(!촀\0Ich schmor mich selbst in der
 Pfanne und rauch mich.
 \0
@@ -265,7 +263,7 @@ sollteste mir einen besorgen.
 \0
 (6촀\0Solange er schwimmt und gut
 durchgesalzen is', bin ich zufrieden."
-"201","(촀\0So 2촀ein'neein }촀
+"201","(촀\0So 2촀ein'neein }촀
 wär echt total verschärft,
 
 \0n\0...\0\0(
@@ -275,7 +273,7 @@ wär echt total verschärft,
 empfehlen. 
 \0Das verscheucht die nur."
 "202","(촀\0Wärst mir echt 'ne Riesenhilfe,
-wenn du mir so 2R촀'nen lustigen'ne lustigeein lustiges
+wenn du mir so 2R촀'nen lustigen'ne lustigeein lustiges
 2촁}촀 bringst.\0\0(
 촀\0Im hohen Gras wirste sicher fündig.
 
@@ -286,11 +284,11 @@ sind auch vonnöten."
 \0
 }촀.\0\0(
 촀\0Wenn du gut aufpasst, siehste
-bestimmt 2$촀
+bestimmt 2$촀
 eineneineeins rumflattern."
 "204","(%촀\0Deine Mission lautet: 
 \0Schnappt dir
-2촀'nen'neein 2촁}촀!\0\0(
+2촀'nen'neein 2촁}촀!\0\0(
 촀\0Die Viecher sind flink wie ein
 Wiesel. 
 \0(6촀\0Aber für dich is' das sicher
@@ -301,7 +299,7 @@ echt fein.\0\0()촀\0Die Dinger chillen besonders gern
 auf Blumen. 
 \0(""촀\0Kriegste hin, 
 \0oder?"
-"206","(촀\0Ich würde voll gern 2""촀
+"206","(촀\0Ich würde voll gern 2""촀
 eineneineein
 2촁}촀 in die Finger kriegen.\0\0(%촀\0Die Wichte halten mit Vorliebe auf
 Baumstümpfen Nickerchen.
@@ -309,7 +307,7 @@ Baumstümpfen Nickerchen.
 mir bloß nich' über 'ne Wurzel!"
 "207","Also,
 \0 ich bau ja drauf, dass
-du mir 2촀'nen'neein 2촁}촀
+du mir 2촀'nen'neein 2촁}촀
 klarmachst.\0\0( 촀\0So Viecher wuseln verstärkt am
 Strand rum. 
 \0(촀\0Musst die Beine in die
@@ -317,18 +315,18 @@ Hand nehmen, 
 \0die Luschen sind flott."
 "211","(&촀\0Hm?
 \0 (촀\0Du wolltest deine famosen
-Angelskills einsetzen und mir 2촀'nen'neein
+Angelskills einsetzen und mir 2촀'nen'neein
 2촁}촀 fangen.\0\0(%촀\0In 'nem Fluss sollteste fündig
 werden. 
 \0(촀\0Bin schon mächtig am
 Daumen drücken."
-"212","(촀\02촀'nen'neEin 2촁}촀 wollt ich.
+"212","(촀\02촀'nen'neEin 2촁}촀 wollt ich.
 
 \0(촀\0Verstecken tun sich die Knilche in
 Teichen, 
 \0aber frag nich', 
 \0warum!"
-"213","()촀\0Ich hatte dich nach 2""촀'nem'ner'nem
+"213","()촀\0Ich hatte dich nach 2""촀'nem'ner'nem
 2촂}촀 gefragt.\0\0(
 촀\0Finden tust du die Racker in Deltas
 und Mündungen. 
@@ -338,7 +336,7 @@ wo Fluss auf Meer trifft."
 "214","(촀\0Genau, 
 \0Gänseblümchen.
 \0 Du wolltest
-mir 2촀'nen'neein 2촁}촀
+mir 2촀'nen'neein 2촁}촀
 organisieren.
 (
 촀\0Die finden Salzwasser töfte. 

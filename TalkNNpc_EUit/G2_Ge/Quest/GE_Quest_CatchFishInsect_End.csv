@@ -10,17 +10,17 @@ che ti avevo chiesto? Mi
 "003","(촀\0Guarda questo esserino! 
 \0È 2\0}\0\0!
 \0 (촀\0Evviva, 
-\0è proprio 2촀luilei\0!"
-"004","(촀\0Sconvolgente! 2""촀QuestoQuesta\0 è 2\0}\0\0, 
+\0è proprio 2촀luilei\0!"
+"004","(촀\0Sconvolgente! 2""촀QuestoQuesta\0 è 2\0}\0\0, 
 \0giusto?\0\0(촀\0Incredibile! 
-\0Stratosferico!\0\0(4촀\0Sei 2sicurosicura che posso averl2촀oa\0?
+\0Stratosferico!\0\0(4촀\0Sei 2sicurosicura che posso averl2촀oa\0?
 \0
 (&촀\0Non sono, tipo, supermegarari
 questi cosi?"
 "004_a","Prendi pure!
-Nessun problema!"
+(\0촀\0Nessun problema!"
 "004_b","Aspetta, meglio di no.
-Ooops, errore mio."
+(\0촀\0Ooops, errore mio."
 "005","(촀\0Evviva!"
 "006","(촀\0Oh, non ti preoccupare!
 \0( (%촀\0Ricorda
@@ -54,7 +54,7 @@ che si trovava su un fiore!"
 il nostro patto. 
 \0(""촀\0Voglio un insetto
 che vive sui tronchi d'albero!"
-"021","(촀\0Allucinante! È 2\0}촀 e tu l'hai pescat2촀oa\0 per me!"
+"021","(촀\0Allucinante! È 2\0}촀 e tu l'hai pescat2촀oa\0 per me!"
 "022","(촀\0Eh? 
 \0Èn\0\0 Ma sì! Sì, sì, sì! È
 2\0}촀!
@@ -67,11 +67,11 @@ che vive sui tronchi d'albero!"
 \0}\0\0?!
 \0
 (촀\0Sconvolgente! 
-\0Sono troppo felice!\0\0(촀\0Davvero posso tenerl2촀oa\0?"
+\0Sono troppo felice!\0\0(촀\0Davvero posso tenerl2촀oa\0?"
 "024_a","Ma certo!
 Prendi pure!"
 "024_b","Aspetta, meglio di no.
-Scusa, errore mio."
+(\0촀\0Scusa, errore mio."
 "025","(촀\0Mitiiiiiico!"
 "026","( 촀\0Non c'è problema, n\0!
 
@@ -104,7 +104,7 @@ alla grande!"
 \0È
 2\0}\0!
 \0
-(4촀\0L'ho pres2촀oa\0 apposta per te!"
+(4촀\0L'ho pres2촀oa\0 apposta per te!"
 "044","(촀\02\02\0
 \0(4촀\0}\0!
 \0
@@ -180,7 +180,7 @@ salato!"
 "201","(촀\0Vooooooglio troppo
 2\0}촀!
 \0(
-Me ne trovi un2촀oa\0?\0\0($촀\0Sicuro l2촀oa\0 puoi trovare che fa
+Me ne trovi un2촀oa\0?\0\0($촀\0Sicuro l2촀oa\0 puoi trovare che fa
 festa su qualche albero!"
 "202","(촀\0Vorrei che mi portassi
 2\0}촀!\0\0(
@@ -189,14 +189,14 @@ perché si immerge nella natura e ha
 (촀\0un colore che si abbina con l'erba.\0\0(촀\0Quindi guarda bene!
 Grazie, n\0!"
 "203","(촀\0Vorrei troppissimo
-2\0}촀!\0\0($촀\0Scommetto che ce n'è un2촀oa\0 che
+2\0}촀!\0\0($촀\0Scommetto che ce n'è un2촀oa\0 che
 vola qui da qualche parten"
 "204","(촀\0Non vedo l'ora che mi porti
 2\0}촀!
-Sono troppo emozionata!\0\0($촀\0Mi sa che ne ho vist2촀oa\0 un2촀oa\0 volare
+Sono troppo emozionata!\0\0($촀\0Mi sa che ne ho vist2촀oa\0 un2촀oa\0 volare
 qui da qualche parte, n\0!"
 "205","(촀\0Oooh, voglio troppo
-2\0}촀!\0\0Letteralmente. Devo averl2촀oa\0 a tutti
+2\0}촀!\0\0Letteralmente. Devo averl2촀oa\0 a tutti
 i costi!\0\0(%촀\0Ah, attenzione a non far del
 male ai fiori, però!
 \0( (""촀\0Potrebbero
@@ -204,31 +204,31 @@ vendicarsi!"
 "206","(촀\0Allucinante! Voglio troppo
 2\0}촀!
 \0(
-Non vedo l'ora di averl2촀oa\0 qui!\0\0(%촀\0Ricorda, prima devi trovare un
+Non vedo l'ora di averl2촀oa\0 qui!\0\0(%촀\0Ricorda, prima devi trovare un
 tronco!
 \0( (""촀\0Buona fortuna,
 n\0!"
 "207","(촀\0Sarò troppo felice se troverai
 2\0}촀!
 \0(9촀\0
-Giuro!\0\0($촀\0Scommetto che ce n'è un2촀oa\0 sulla
+Giuro!\0\0($촀\0Scommetto che ce n'è un2촀oa\0 sulla
 spiaggia!"
 "211","(%촀\0Voglio davvero, davvero,
 \0 DAVVERO
 2\0}촀!
-Quindi fammi contenta, OK?\0\0($촀\0Ne troverai un2촀oa\0 che nuota in un
+Quindi fammi contenta, OK?\0\0($촀\0Ne troverai un2촀oa\0 che nuota in un
 fiume da qualche parte! 
 \0Buona
 fortuna!"
 "212","(%촀\0Non vedo l'ora di avere tra le mani
 2\0}촀!
 (촀\0Aaaah! Non sto più nella pelle!\0\0($촀\0Sicuramente ne puoi trovare
-un2촀oa\0 in un lago.
+un2촀oa\0 in un lago.
 \0( (촀\0Buona fortuna,
 n\0!"
 "213","(%촀\0Cioè, vorrei troppo
 2\0}촀!
-Dimmelo quando l'hai pres2촀oa\0, OK?\0\0(""촀\0Mi pare di averne vist2촀oa\0 un2촀oa\0
+Dimmelo quando l'hai pres2촀oa\0, OK?\0\0(""촀\0Mi pare di averne vist2촀oa\0 un2촀oa\0
 nell'acqua. Tra il fiume e l'oceano.
 Vai a dare un'occhiata!"
 "214","(%촀\0Presto potrei avere tra le mani

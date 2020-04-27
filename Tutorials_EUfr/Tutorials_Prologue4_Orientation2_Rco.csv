@@ -34,7 +34,7 @@ sortent les autres. 
 \0(&촀\0Attends-moi ici
 pendant que je vais les voir, hm ?"
 "003_a","Ça marche."
-"003_b","Je préfère me balader."
+"003_b","(\0촀\0Je préfère me balader."
 "004_01","(촀\0Merci !
 \0 C'est fort aimable de ta part."
 "004_02","\0Méli\0￿, \0Mélo\0￿n\0\0 Allez donc voir nos
@@ -53,7 +53,7 @@ où en sont les deux autres. 
 \0(&촀\0Tu veux
 bien nous attendre ici, hm ?"
 "006_a","Ça marche."
-"006_b","J'ai pas tout à fait fini."
+"006_b","(\0촀\0J'ai pas tout à fait fini."
 "011","(촀\0Ah, n\0. 
 \0((&촀\0Je conclus de ta mine réjouie que tu as trouvé un emplacement pour ta \0tente\0￿, hm ?"
 "012","(%촀\0Tu es l2ea premi2erère.

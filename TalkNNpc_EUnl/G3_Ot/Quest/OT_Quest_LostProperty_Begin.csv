@@ -7,50 +7,50 @@ schier onuitspreekbare naamn\0\0\0\0(촀\0Nu ja, dat doet er nu niet toe.
 het om gaat,
 \0(촀\0 is dat ik die tas
 plotseling nergens meer kan vinden!"
-"001_a","Zal ik je helpen zoeken?"
-"001_b","Kom, er zijn ergere dingen."
+"001_a","(\0촀\0Zal ik je helpen zoeken?"
+"001_b","(\0촀\0Kom, er zijn ergere dingen."
 "002","(촀\0Ik ben werkelijk ten einde raad, n\0.
 \0 (촀\0Ik heb geen idee waar mijn favoriete tas is gebleven!"
 "002_a","Ik help je wel zoeken."
-"002_b","Ach, dat is vervelend."
+"002_b","(\0촀\0Ach, dat is vervelend."
 "003","(촀\0Och, n\0n\0\0 het is een ware tragedie.
 \0 (촀\0Ik ben mijn favoriete tas ergens op het eiland verloren!"
 "003_a","Ik ga wel voor je zoeken."
-"003_b","Wat vervelend voor je."
+"003_b","(\0촀\0Wat vervelend voor je."
 "004","(촀\0Hemeltje! 
 \0Nee!
 \0( (촀\0Ik vrees dat ik een
 van mijn favoriete make-uptassen
 ergens op het eiland ben verlorenn"
 "004_a","Ik vind hem wel voor je."
-"004_b","Wat vervelend voor je."
+"004_b","(\0촀\0Wat vervelend voor je."
 "006","(촀\0Wat een catastrofe!
 \0 Ik had net een
 boek gekocht en nu heb ik het
 zomaar ergens laten liggen!"
-"006_a","Wil je dat ik ga zoeken?"
-"006_b","Echt waar? Wat vervelend."
+"006_a","(\0촀\0Wil je dat ik ga zoeken?"
+"006_b","(\0촀\0Echt waar? Wat vervelend."
 "007","(촀\0Nee toch!
 \0 Ik was in een nieuw boek
 bezig, maar ben het ergens vergeten.
 \0(
 (촀\0Nu weet ik niet hoe het aflooptn"
 "007_a","Ik help wel met zoeken."
-"007_b","Hè, dat is jammer."
+"007_b","(\0촀\0Hè, dat is jammer."
 "008","(
 촀\0Zegn\0\0 ik had eerder mijn agenda nog
 bij me, maar nu kan ik hem niet meer
 vinden.
 \0( (촀\0Ik maak me ernstige zorgen!"
-"008_a","Wil je dat ik ga zoeken?"
-"008_b","Oeps! Wat een pech!"
+"008_a","(\0촀\0Wil je dat ik ga zoeken?"
+"008_b","(\0촀\0Oeps! Wat een pech!"
 "009","(촀\0Wat een narigheid!
 \0 Mijn onmisbare
 agenda is zoek.
 \0( (촀\0Ik heb overal
 gezocht, maar zonder enig succes."
 "009_a","Ik vind hem wel voor je."
-"009_b","Wat lastig voor je."
+"009_b","(\0촀\0Wat lastig voor je."
 "011","(촀\0Och, wat fideel van je!
 \0 Laat je het
 me weten als je hem ergens vindt?"
@@ -126,8 +126,8 @@ en nu weet ik niet meer waar!\0\0(촀\0En dan te bedenken dat hij vol zit
 met de meest schitterende cosmetica
 \0
 (촀\0die ik warempel net had gekocht!"
-"102_a","Wil je dat ik ga zoeken?"
-"102_b","Wat een lastige situatie..."
+"102_a","(\0촀\0Wil je dat ik ga zoeken?"
+"102_b","(\0촀\0Wat een lastige situatie..."
 "103","(촀\0Meen je dat werkelijk?
 \0( (""촀\0Wat
 voorkomend van je!
@@ -154,7 +154,7 @@ idee waar ik hem moet zoeken.\0\0(촀\0Al mijn afspraken staan erin.
 \0
 Wat moet ik nu beginnen?!"
 "201_a","Ik vind hem wel voor je!"
-"201_b","Je vindt hem vast wel terug."
+"201_b","(\0촀\0Je vindt hem vast wel terug."
 "202","(촀\0Ik heb geen andere keuze dan toe
 te geven dat ik mijn agenda toch
 echt kwijt ben.
@@ -166,7 +166,7 @@ verloren.
 \0 Ik twijfel zelfs al op welke
 dag ik ook alweer jarig benn"
 "202_a","Laat mij maar eens zoeken!"
-"202_b","Wat lastig voor je."
+"202_b","(\0촀\0Wat lastig voor je."
 "203","(촀\0Meen je dat nu?
 \0( (촀\0O, ik zou je eeuwig
 dankbaar zijn als jij hem weet te

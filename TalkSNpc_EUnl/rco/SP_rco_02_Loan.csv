@@ -17,9 +17,9 @@ het groter kon?\0\0(6촀\0O ja!
 vergroten,
 \0 inderdaad, 
 \0tot de mogelijkheden behoort.\0\0(촀\0Een groter huis betekent meer ruimte
-voor meubels, en meer opslag!\0\0(4촀\0Goed, ik heb je op de hoogte gesteld
-van enkele opties die je hebt. Daar
-wil ik het voor nu bij laten.\0\0(%촀\0Kom vooral naar me toe als je meer
+voor meubels en meer opslag!\0\0(4촀\0Goed, ik heb je op de hoogte gesteld
+van wat er mogelijk is. Daar wil ik het
+voor nu bij laten.\0\0(%촀\0Kom vooral naar me toe als je meer
 wilt weten, hm?"
 "004","(!촀\0Gefeliciteerd!
 \0((촀\0 Je bent nu de trotse
@@ -120,12 +120,12 @@ nogmaals, gefeliciteerd!"
 "012_01","(&촀\0Ben je blij met je huis? Overtreft het
 je stoutste dromen?
 \0(촀\0 Alles is nu vast
-en zeker een stuk comfortabeler?!\0\0(1촀\0Huizen zijn véél anders dan tenten,
+en zeker een stuk comfortabeler?!\0\0(1촀\0Huizen zijn héél anders dan tenten,
 hm?
 \0 Je kunt je \0vloer \0￿en \0behang\0￿
-bijvoorbeeld naar wens aanpassenn\0\0\0\0(촀\0En je hebt nu ook ingebouwde
+bijvoorbeeld naar wens aanpassenn\0\0\0\0(촀\0En je hebt nu ook een ingebouwde
 \0opslag\0￿, dus je kunt meubels die je
-niet gebruikt opbergen."
+niet gebruikt, opbergen."
 "012_02","(촀\0O ja!
 \0(\0촀\0 Dat is nog niet allesn\0\0\0\0(\0촀\0Alle huiseigenaars staan automatisch
 geregistreerd bij de \0Academie voor
@@ -142,8 +142,8 @@ dus til er niet te zwaar aan!"
 "012_03_b","Accepteer je miles?"
 "012_04_01","(\0촀\0(촀\0
 \0Ahn\0\0
-\0(\0촀\0 Wees gerust. Je kunt het
-bedrag in grote of kleine termijnen
+\0(\0촀\0 Wees gerust. Je kunt je lening
+met grote of kleine bedragen
 terugbetalen. Wat je zelf wilt.\0\0(촀\0Betalingen maak je met behulp van
 de \0klingelautomaat\0￿ van het
 \0NookStation\0￿."
@@ -164,7 +164,7 @@ over huizen. 
 leuke verrassing voor je!\0\0(6촀\0Bereid je voor om versteld te staann\0\0
 \0
 (촀\0dit is een zeer gewild miles-product:
-een \02\0Ą촃Nook-miles-bon\0￿!"
+een \0Nook-miles-bon\0￿!"
 "012_05_a","Een Nook-miles-bon?"
 "012_05_b","Een wattes?"
 "012_06","(촀\0Een \0Nook-miles-bon\0￿
@@ -252,9 +252,18 @@ plaatsen van \0andere wanden\0￿.
 (촀\0Dak, wanden, deur en brievenbusn\0\0
 \0
 Als je die allemaal vervangt, voelt je
-huis weer als nieuw!"
+huis weer als nieuw!\0\0(촀\0Over je \0brievenbus \0￿gesproken,
+\0
+je kunt nu niet alleen het uiterlijk
+aanpassen, maar ook de \0locatie\0￿!\0\0()촀\0Til hem gewoon op met \0\0￿ en zet hem
+neer waar je wilt. 
+\0Ik zorg er wel voor
+dat je post op de juiste plek belandt.\0\0(촀\0Experimenteer er gerust op los. 
+\0Ik
+kan niet wachten om te zien wat je
+ervan maakt!"
 "071_01","(촀\0Je huis heeft nu een echte kelder,
-hm?\0\0Er zijn maar weinig mensen met zo'n
+hm?\0\0Er zijn er maar weinig met zo'n
 indrukwekkend huis als dat van jou!"
 "071_02","(\0촀\0En dat brengt ons totn"
 "071_03","(촀\0n\0\0de kosten van de verbouwing!
@@ -265,12 +274,12 @@ uitbreiden. 
 \0(""촀\0Maar het was me een
 genoegen om tot je dienst te staan!"
 "081_01","(촀\0O ja! Je kunt je betalingen voldoen
-met de pinautomaat van het
+bij de klingelautomaat van het
 \0NookStation\0￿, net als altijd."
 "081_02","(""촀\0Het was me zoals altijd weer een
 genoegen om zaken te doen. (촀\0Ja, ja!"
-"101","Jan\0\0 het aantal bewoners neemt toe,
-dus ik vind ook(%촀\0 dat we een winkel
+"101","Jan\0\0 het aantal huiseigenaren neemt
+toe, dus ik vind (%촀\0dat we een winkel
 moeten bouwen.(촀\0\0\0Maar wat bouwmaterialen betreft,
 (촀\0moeten we voorrang geven aan de
 woningen van onze klantenn"

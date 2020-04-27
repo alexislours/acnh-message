@@ -26,7 +26,7 @@ superlang doen, n\0."
 Serieus?! (촀\0
 \0Ik ben al onderweg!"
 "102_03","(%촀\0
-\0Het was te gek om daar te kamperen!
+\0Het was te gek om daar te \0kamperen\0￿!
 \0
 (촀\0
 \0Hè? Of ik weer wil gaan? 
@@ -37,11 +37,11 @@ ja!
 "102_04","(촀\0
 \0Wat zeg je?
 \0 Naar de \0kampeerplek
-\0￿gaan?
+\0￿komen?
 \0 (촀\0
 \0Dat lijkt me onwijs te gek!
-\0 Ik
-wil het al zooooo lang."
+\0
+Ik wil het al zooooo lang."
 "202","<"
 "202_01","(촀\0Je wilt dat ik je \0kampeerplek
 \0￿bezoek?! 
@@ -133,7 +133,7 @@ huis vandaan. (8촀\0Sorry! Ik pas!"
 \0 (\0촀\0Ik vind het, zeg maar, superleuk
 \0(촀\0 dat je me belt.
 \0 (\0촀\0Alles kits?"
-"401_03","(""촀\0Hè!
+"401_03","(""촀\0Hé!
 \0 Met n
 \0!
 \0 (\0촀\0Waarom bel je me?

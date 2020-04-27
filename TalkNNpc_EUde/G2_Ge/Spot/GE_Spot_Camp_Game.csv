@@ -4,7 +4,7 @@
 \0($촀\0ein Spiel
 mit mir zu spielen?\0\0(%촀\0Wenn du gewinnst,
 \0 bekommst du
-2(촀meinen
+2(촀meinen
 meinemein }\0\0.
 \0(
 Also, 
@@ -27,7 +27,7 @@ Mal, 
 diese Karten total gut durchmischen."
 "005","Und dann wird's spannendn"
 "006_01","Wie versprochen, 
-\0(""촀\0hier ist 2$촀mein
+\0(""촀\0hier ist 2$촀mein
 meinemein
 }\0\0.
 \0
@@ -37,7 +37,7 @@ Für dich!"
 \0für
 dich, 
 \0wie versprochen! 
-\0(""촀\02$촀Mein
+\0(""촀\02$촀Mein
 MeineMein
 }\0\0!"
 "006_03","(촀\0Höhön\0\0
@@ -47,7 +47,7 @@ auskommen."
 "007_01","(8촀\0Gnarf. 
 \0Aber nächstes Mal verliere
 ich nicht! 
-\0(\0촀\0(6촀\0Pass gut auf 2(촀meinen
+\0(\0촀\0(6촀\0Pass gut auf 2(촀meinen
 meinemein
 2촁}\0\0 auf!"
 "007_03","((촀\0Dieses Mal hast du zwar nicht ge-
@@ -63,7 +63,9 @@ auf eine Revanche, 
 Platz in deiner Tasche.
 (\0촀\0Willst du da nicht erst mal
 ausmisten?\0\0(""촀\0Sonst hast du keinen Platz für deinen
-Gewinn. Wir sehen uns, wenn du so
+Gewinn. 
+\0Wir sehen uns,
+\0 wenn du so
 weit bist, 
 \0n\0!"
 "100","Okay, 
@@ -85,13 +87,13 @@ du rätst, 
 Total easy, 
 \0oder?\0\0(\0촀\0Wenn du richtig rätst, 
 \0(%촀\0geb ich dir
-($촀\02(촀meinen
+($촀\02(촀meinen
 meinemein 2촁}\0\0!\0\0(촀\0Okay, 
 \0ich misch dann mal die Karten,
 \0
 und zwar... 
 \0(<촀\0GLEICH JETZT!"
-"101","(=촀\0So, 
+"101","So, 
 \0ich hab eine Karte, 
 \0n\0.
 \0
@@ -140,15 +142,15 @@ ein Symbol: 
 \0und du musst
 raten, 
 \0(""촀\0welche Farbe sie hat!\0\0(\0촀\0Rätst du richtig, 
-\0(%촀\0geb ich dir 2(촀meinen
+\0(%촀\0geb ich dir 2(촀meinen
 meinemein }\0\0!(\0촀\0\0\0(촀\0Klingt das gut? 
 \0Na klar klingt das
 gut! 
 \0(<촀\0Dann lass mich die Karten noch
 schnell durchmischen
 \0 undn"
-"201","(=촀\0BAMM! 
-\0Ich hab eine gezogen!
+"201","(촀\0BAMM! 
+\0(Ich hab eine gezogen!
 \0
 (\0촀\0Okay. 
 \0Und welche Farbe hat sie?

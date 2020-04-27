@@ -7,7 +7,7 @@ de n\0?"
 "001_b","¿Qué fruta?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(%촀\0Así me gusta, n\0:
 \0
 un espíritu curioso con ganas
@@ -53,10 +53,12 @@ que una tienda de campaña.
 muchísima ilusión:
 \0 (촀\0¡un centro de arte
 y cultura al lado de casa!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(5촀\0Esta isla tiene un \0museo\0￿,
 \0 no sé si
 lo sabrásn\0\0
@@ -80,75 +82,94 @@ historia,
 ¿Has visto 2\0
 ?
 \0 (5촀\0Impresionante."
-"101","<\0fj"
-"102","Dime, 
-\0n\0, (&촀\0¿te has hecho ya a la vida en tu nueva isla?"
-"102_a","Totalmente, ¡es genial!"
-"102_b","Me estoy adaptando..."
-"102_c","Uf..."
-"103","(촀\0¡No sabes cuánto me alegro,
-\0
-encanto!\0\0(7촀\0Jo, jon\0\0
-\0 He de admitir que estaba
-preocupadísiman\0\0
-\0 (6촀\0Supongo que
-tengo complejo de hermana mayor.
-(촀\0Es un alivio saber que sigues siendo
-feliz sin nosotrosn\0\0
-\0 (촀\0aunque suene
-un poco triste dicho así.
-(촀\0Espero que nos sigas visitando
-a menudo.
-\0 Será un placer verte
-por aquí, n\0."
-"104","(촀\0¿Todavía, n\0?
-\0 (촀\0Bueno, es natural,
-\0 estas cosas llevan su tiempon\0\0\0\0(
-촀\0A veces es duro acostumbrarse a
-los cambios,
-\0 (촀\0¡pero más duro sería
-quedarnos anclad2oas en el pasado!
-Además,
-\0 ($촀\0¡tú puedes con todo!
+"201","<\0ÊÎ"
+"202","(촀\0Desde que me mudé, me preocupo
+por tin\0\0
+\0 (7촀\0Supongo que tengo complejo
+de hermana mayor.
+(촀\0Dime,
+\0 n\0,
+\0 (&촀\0¿me echas mucho de menos?"
+"202_a","Yo sí, ¡muchísimo!"
+"202_b","De momento no..."
+"202_c","¿Tú quién eras?"
+"203","(8촀\0Vaya, supongo que eso esn\0\0
+\0 ¿bueno?
 \0
-El viaje merecerá la pena,
+(촀\0Quiero decir,
+\0 ¡me lo tomaré como un
+cumplido!
+\0 (촀\0Si es que eres un cielon\0\0
+(\0촀\0Tu candidez es enternecedora,
 \0
-(%촀\0ya lo verás."
-"105","(촀\0¿Estás bien, encanto?
+(촀\0¡pero yo quiero que seas feliz!
 \0
-No me preocupesn\0\0\0\0(촀\0Cuando te marchaste,
-\0 me sentí
-como mamá pájaro viendo a su
-polluel2oa abandonar el nidon\0\0
-(촀\0¡Pobrecit2oa!
-\0 Si necesitas desahogarte,
-aquí tendrás siempre (촀\0un hombro
-amigo, n\0n"
-"106","(4촀\0Te quiero hacer una pregunta,
-n\0,
-\0 (%촀\0pero tienes que ser totalmente sincer2oa, ¿de acuerdo?\0\0()촀\0Ahora que has viajado y visto mundo,
+Seguiremos viéndonos, (%촀\0¿vale?
+((촀\0Yo también te echo de menos,
 \0
-(촀\0¿qué opinas de esta isla?"
-"106_a","¡Es ideal!"
-"106_b","Tiene potencial..."
-"106_c","Puf..."
-"107","(촀\0¡Lo sabía, n\0!
-\0 Nuestra n\0 (5촀\0no tiene nada que envidiarle a otras islas.\0\0(촀\0La verdad es que estamos orgullosos
-de lo que estamos logrando.
-\0 (%촀\0Gracias
-por confirmarlo, n\0."
-"108","(&촀\0Eso es bueno, ¿no?
-\0 (촀\0Significa que
-vamos por buen camino, n\0.\0\0(촀\0Nada es perfecto,
-\0 pero con la ayuda
-de n\0 (촀\0esta isla es cada día un poco mejor.\0\0()촀\0Espero que vuelvas de vez en cuando
-para ver los frutos de nuestro trabajo
-yn\0\0
-\0 (6촀\0¡quizá te lleves una sorpresa!"
-"109","(촀\0Vaya,
-\0 no es de tu agrado, ¿eh?
+así que espero que vuelvas de
+visita a menudo.
+()촀\0Como se suele decir,
+\0 hay que tener
+(6촀\0amigos en todas partes,
+\0 jo, jo, jon"
+"204","(촀\0¡Ay, cielos!
 \0
-(촀\0La culpa es mía por pedirte
-sinceridadn\0\0
-(8촀\0Admito que n\0 ha cambiado desde que te fuiste y es normal que ya no te identifiquesn\0\0\0\0(7촀\0¡El tiempo pasa y no hay vuelta atrás,
-n\0!"
+\0(Me esperaba otra respuestan\0\0
+\0)\0￿\0\0(촀\0Bueno,
+\0 me alegra que seas feliz
+\0
+y que los recuerdos (7촀\0no sean
+un lastre.
+Al contrario,
+\0 espero que pensar
+en mí (촀\0siempre traiga una sonrisa
+a tus labios, n\0."
+"205","(촀\0¡Pero querid2oa!
+\0 ¡No me digas que
+me guardas rencor por haberme
+marchado!
+(촀\0Qué situación tan desafortunadan\0\0
+\0
+Siento que te veas en la necesidad
+de (촀\0borrarme de tus recuerdos.
+(4촀\0Yo, en cambio,
+\0 te llevo todavía
+en un rinconcito de mi corazón,
+\0
+n\0.
+(1촀\0Y espero que podamos volver a ser
+buen2oas amig2oas como en los viejos
+tiempos, n\0."
+"206","(4촀\0Tengo una pregunta para ti, querid2oa,
+\0
+y me gustaría que fueses totalmente
+honest2oa conmigon\0\0
+()촀\0Ahora que has viajado y visto mundo,
+\0
+(&촀\0¿qué opinión te merece esta isla?"
+"206_a","¡Me encanta!"
+"206_b","Le veo potencial"
+"206_c","No me hagas hablar..."
+"207","(촀\0¿Verdad que n\0 tiene tanto encanto como n	\0? 
+\0Yo pienso igual.\0\0(
+촀\0Claro que son islas muy distintasn\0\0
+\0
+()촀\0Cada una tiene su propio carácter.\0\0Si fuesen idénticas,
+\0 (촀\0no habría tenido
+sentido mudarse, n\0.
+"
+"208","(촀\0¿Sí, verdad?
+\0 2\0n\0 se esfuerza mucho (촀\0por hacer de n\0 una isla idílica.\0\0()촀\0Por supuesto,
+\0 mis consejos le son
+de inestimable ayuda, n\0."
+"209","(촀\0Cielos, ¿qué le pasa?
+\0 ¿No es para ti?\0\0(촀\0Vaya, es una lástima.
+\0 Me habría
+hecho ilusión que te gustara (7촀\0mi
+nueva residencian\0\0
+('촀\0Pero no pasa nada:
+\0 por muy amig2oas
+que seamos,
+\0 (촀\0es imposible estar
+de acuerdo en todo, n\0."

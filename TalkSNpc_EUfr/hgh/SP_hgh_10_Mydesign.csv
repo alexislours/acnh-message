@@ -1,6 +1,6 @@
 ﻿"label","text"
 "000","(촀\0C'est notre espace dédié aux \0motifs
-personnalisés \0￿là-bas.
+personnalisés\0￿.
 \0(촀\0 Tu n'y verras
 que des motifs\0 \0￿originaux !
 ()촀\0Si tu en vois un qui te plaît,
@@ -37,12 +37,25 @@ celle du bas ?"
 "002_c","Je regarde simplement."
 "003","(촀\0« 2\0s촀 » ? C'est s\0촀 qui a dessiné çan\0\0
 \0( (&촀\0Que voulais-tu faire ?"
+"003_01","(촀\0« 2\0s촀 » ? C'est s\0촀 qui a dessiné çan\0\0
+\0( (&촀\0Que voulais-tu faire ?"
+"003_01_a","Je veux ce motif."
+"003_01_b","Exposer ma création ici."
+"003_01_c","Signaler."
+"003_01_d","Je regarde simplement."
 "003_a","Je veux ce motif."
 "003_b","Exposer ma création ici."
 "003_c","Je regarde simplement."
 "004","(촀\0« 2\0s촀 » ? C'est 2
 de d'⁠s\0촀, qui habite s촀.\0\0(&촀\0Alors ?
 \0 Que souhaites-tu faire ?"
+"004_01","(촀\0« 2\0s촀 » ? C'est 2
+de d'⁠s\0촀, qui habite s촀.\0\0(&촀\0Alors ?
+\0 Que souhaites-tu faire ?"
+"004_01_a","Je veux ce motif."
+"004_01_b","Exposer ma création ici."
+"004_01_c","Signaler."
+"004_01_d","Je regarde simplement."
 "004_a","Je veux ce motif."
 "004_b","Exposer ma création ici."
 "004_c","Je regarde simplement."
@@ -76,7 +89,7 @@ qui les aies créés."
 "021","Bien sûr ! 
 \0(&촀\0Je peux voir le motif
 que tu veux exposer ?"
-"022","(촀\0Tu voudrais exposer « ⁠s촁 » ?\0\0Tes désirs sont des ordres !
+"022","(촀\0Tu voudrais exposer « ⁠⁠s촁 ⁠» ?\0\0Tes désirs sont des ordres !
 (\0촀\0Par contre, 
 \0(&촀\0qu'est-ce qu'on fait de
 l'ancien motif qui se trouvait là ?"
@@ -94,8 +107,8 @@ faire des adeptes !"
 "027","(&촀\0Et où aimerais-tu le sauvegarder ?"
 "028","(&촀\0Oh, tu préfères t'arrêter là et faire
 ça une prochaine fois ?"
-"028_a","Arrêter"
-"028_b","Choisir à nouveau"
+"028_a","(\0촀\0Arrêter"
+"028_b","(\0촀\0Choisir à nouveau"
 "030","( 촀\0Au fait ! Tu ne le sais peut-être pas
 (촀\0mais tu t'apprêtes à repartir avec un
 motif personnalisé \0pro\0￿.
@@ -127,3 +140,12 @@ au \0Nook Stop\0￿
 \0 du \0bureau des
 résidents\0￿.
 \0(촀\0 Je te le conseille !"
+"040","(%촀\0Entendu, je vais me charger
+de retirer ce motif perso."
+"051","(촀\0Au fait, n\0,
+\0 (\0촀\0le motif perso que tu portes a été écrasén\0\0\0\0()촀\0Mais ce que tu as sur toi ne va pas
+changer d'un coup pour autant.\0\0(촀\0Alors,
+\0 si tu veux porter le motif que
+tu viens de choisir,
+\0 sélectionne à
+nouveau \0Porter\0￿ pour te changer !"

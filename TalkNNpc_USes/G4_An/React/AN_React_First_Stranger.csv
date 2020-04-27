@@ -3,8 +3,7 @@
 \0
 (촀\0¡Pues yo soy n
 \0!\0\0(%촀\0Antes vivía en s촀.
-\0 Me encantaba ese lugar, la verdad.\0\0(5촀\0Pero resulta que tu vecin2
-촀oa\0 s\0촀 me habló de esta
+\0 Me encantaba ese lugar, la verdad.\0\0(5촀\0Pero resulta que tu vecin2촀oa\0 s\0촀 me habló de esta
 isla y me convenció de mudarme.\0\0(!촀\0Así que aquí me tienes:
 \0 ¡recién
 llegada y dispuesta a pasarla bien
@@ -45,10 +44,8 @@ me queda de otra más que hacerlo.
 ambientazo que se armaron por aquí."
 "004","(촀\0¡Uy, una visita inesperada!\0\0(촀\0Conque vienes a conocer aquí a tu
 servidora, ¿eh?
-\0 Pues me llamo,
-n
-\0.
-(촀\0Me mudé de s촀 y me enfermé durante el viajen\0\0\0\0Traigo unn\0\0 unn\0\0
+\0 Pues me llamo, n
+\0.\0\0(촀\0Me mudé de s촀 y me enfermé durante el viajen\0\0\0\0Traigo unn\0\0 unn\0\0
 \0(,촀\0 ¡Aaaachó!
 \0
 (
@@ -196,8 +193,9 @@ del terror durante lan\0\0
 (,촀\0¡Aaachó!
 \0 (촀\0¡Esto es una pesadilla!
 \0
-¡Me urge estar sana otra vez, tú!\0\0En fin, (+촀\0hacemos algo en cuanto me
-recupere un poco, ¿eh,n\0?"
+¡Me urge estar sana otra vez, tú!\0\0En fin, (+촀\0hacemos algo en cuanto
+me recupere un poco,
+¿eh, n\0?"
 "201","( 촀\0¡Uy!
 \0 ¡Un2\0a isleñ2oa a quien todavía
 no conozco!
@@ -315,7 +313,7 @@ tengo que desempacar todo.
 (7촀\0Antes de que empiece a hablar de otra cosan\0\0 Soy 
 \0n
 \0.\0\0Me mudé aquí porque una vez vine
-de campamento aquí y conocí a
+de \0campamento \0￿aquí y conocí a
 s\0촀.
 Resulta que me convenció de
 mudarme definitivamente.\0\0En fin, (!촀\0yo creo que debería de seguir
@@ -419,12 +417,46 @@ manera! 
 n
 \0.
 Me invitaron a venir a la isla
-cuando estaba de campamento,
+cuando estaba de \0campamento\0￿,
 ¡y me pareció una idea tremenda!
 (촀\0Lo malo es que llego aquí con esten\0\0
 \0(,촀\0 ¡aaachóóó!\0\0(촀\0En fin,
 \0 cuando me recupere hacemos
 algo, ¿sí, n\0?"
+"316","<ĽľĿ"
+"317","( 촀\0¡Qué locochón! ¡Otr2oa vecin2oa!
+\0
+Te mudaste a esta isla también, ¿no?\0\0(%촀\0Yo estoy con ganas locas de empezar
+una nueva vida.
+\0 ¡Y este lugar es
+de lujo!
+(\0촀\0Me llamo n
+\0, por cierto.
+\0 ¿⁠Tú⁠?
+\0 ¿⁠2\0n\0⁠?
+\0($촀\0 ¡Encantada, n\0!"
+"318","( 촀\0¡Eh, amigui!
+\0 ¿Tú también te
+mudaste a este pedazo de isla?\0\0(3촀\0¡Geeeenial!
+\0 Cuantos más seamos,
+más fiestonas haremos,
+n\0.\0\0(""촀\0¿Te llamas n\0?
+\0 Pues tu nueva amigui n
+\0 está aquí para lo que necesites."
+"319","( 촀\0¡No me digas!
+\0 Tú también te
+apuntaste al paquete de escapada,
+¿verdad que sí?
+(%촀\0¡A mí no se me escapa una!
+\0
+(\0촀\0Soy n
+\0, ¿⁠y tú⁠?
+\0
+2\0n\0, ¿⁠eh⁠?
+(3촀\0¡Pues ve preparándote, guapura,
+\0
+porque en esta isla la vamos a pasar
+megaideal!"
 "401","(촀\0¡Una cara que no conozco! 
 \0(촀\0Aunque
 supongo que tú estarás pensando

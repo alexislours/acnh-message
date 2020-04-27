@@ -3,8 +3,7 @@
 \0Wär's nicht
 toll, wenn ich heute mal 20einen liebeneine liebe
 2 FreundFreundin besuchen würde?\0\0(9촀\02\0n\0!
-\0 (7촀\0Kannst du
-mich einladen? 
+\0 (7촀\0Kannst du mich einladen? 
 \0Bitte, bitte?"
 "001_a","Klar, komm vorbei!"
 "001_b","Leider keine Zeit..."
@@ -58,18 +57,14 @@ Der Zug zu n\0 nach
 Hause ((촀\0fährt jetzt ab! 
 \02\0n\0!"
 "102","Okay!
-\0(촀\0 Los geht's, zu 
-\0
-(촀\0
-\0n\0 nach
-Hause! 
-\02\0n\0!"
+\0(촀\0 Los geht's, zu (촀\0
+\0n\0 nach Hause, 
+\0n\0!"
 "103","Super! 
 \0(촀\0Lass uns gleich gehen!
 \0
 Los, zu 
-\0n\0 nach
-Hause! 
+\0n\0 nach Hause! 
 \02\0n\0!"
 "104","(1촀\0Ich kann's gar nicht erwarten zu
 sehen, was alles in deinem Haus
@@ -147,10 +142,9 @@ besuchen darf! 
 \0(촀\0Vielleicht komm ich
 ganz, ganz früh! 
 \02\0n\0!"
-"303","(%촀\0Morgen komm ich zu dir,
-n\0!
-\0 Du bist doch
-zu Hause, 
+"303","(%촀\0Morgen komm ich zu dir, 
+\0n\0!
+\0 Du bist doch zu Hause, 
 \0oder, 
 \0oder?
 \0(촀\0 2\0n\0!"
@@ -180,12 +174,14 @@ gehen und was spielen! 
 lustig!"
 "402_a","Superlustig!"
 "402_b","Kann jetzt nicht..."
-"403","Hach... Na gut. 
-\0Ist
-\0 ('촀\0total schade,
+"403","Hachn\0\0
+\0 Na gut. 
+\0Ist ('촀\0total schade,
+\0
 aber ich versteh schon.
 \0
-(""촀\0Bis später, n\0!"
+(""촀\0Bis später, 
+\0n\0!"
 "404","Oh, na gut!
 \0
 (촀\0Dann vielleicht ein andermal!"

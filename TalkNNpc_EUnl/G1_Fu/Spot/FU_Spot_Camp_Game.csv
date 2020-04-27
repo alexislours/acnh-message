@@ -46,7 +46,7 @@ je meer plek hebt,
 \0 n\0."
 "100","($촀\0Oké,
 \0 de regels zijn simpel.
-\0(()촀\0 Ik heb 4
+\0(()촀\0 Ik heb vier
 kaarten
 \0 en iedere kaart heeft een
 ander symbool: \0♥\0￿,
@@ -78,10 +78,11 @@ heb getrokken? \0♥ Harten\0￿, \0♦ ruiten\0￿,
 "200","($촀\0Oké,
 \0 hier komen de spelregels.
 \0(
-()촀\0Ik heb 4 kaarten,
-\0 ieder met een ander symbool: \0♥\0￿,
+()촀\0Ik heb vier kaarten,
+\0 ieder met een
+ander symbool: \0♥\0￿,
 \0 \0♦\0￿,
-\0 \0♠\0￿,
+\0 \0♠\0￿
 \0 en \0♣\0￿n\0\0\0\0(\0촀\0Ik trek een kaart
 \0 en jij moet raden
 (촀\0wat de kleur van het symbool is op

@@ -16,7 +16,7 @@ digne de ce nom,
 \0 mais sans succès!
 (촀\0Quoi?!
 \0 Tu en as justement
-2촀unune\0 sur toi?!\0\0(촀\0Je t'en supplie, 2$le jeunela jeune! 
+2촀unune\0 sur toi?!\0\0(촀\0Je t'en supplie, 2$le jeunela jeune! 
 \0Il faut
 que tu me laisses te l'acheter!"
 "003_a","(\0촀\0Combien tu mets?"
@@ -35,7 +35,7 @@ je baisse les bras!
 de me dire que t'as justement
 ce que je recherche?!
 (촀\0Dis, dis, tu voudrais bien me
-2촀lela\0 vendre?!"
+2촀lela\0 vendre?!"
 "004_a","(\0촀\0Pour combien?"
 "004_b","Euh... Non."
 "005","(촀\0Ah ben j'vois le genre. 
@@ -190,12 +190,10 @@ Je t'en propose Z,
 \0
 qu'est-ce que t'en dis?"
 "304_a","Tape-là!"
-"304_b","Bof..."
+"304_b","(\0촀\0Bof..."
 "305","(촀\0C'est vrai?! 
 \0((촀\0Marché conclu, l'2amiamie!"
-"306","(촀\02\0n\0, j'aurais dû me douter
-que tu en profiterais pour demander
-un prix indécentn"
+"306","(촀\02\0n\0, j'aurais dû me douter que tu en profiterais pour demander un prix indécentn"
 "307","(촀\0Je sais déjà comment je vais
 l'incorporer à mon décor intérieur.
 
@@ -206,7 +204,7 @@ quelque chose commen\0\0
 Z.
 \0(&촀\0 T'en dis quoi?"
 "400_a","Marché conclu!"
-"400_b","J'en dis : « ⁠Bof... »"
+"400_b","(\0촀\0J'en dis : « ⁠Bof... »"
 "401","(촀\0Vraiment?!
 \0( 2\0n\0!"
 "402","(촀\0Tant pisn\0\0

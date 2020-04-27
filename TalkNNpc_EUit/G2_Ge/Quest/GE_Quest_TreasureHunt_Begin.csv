@@ -9,7 +9,7 @@ una
 giusto pern\0\0
 \0($촀\0
 \0 una caccia al tesoro!"
-"002_a","Forse hai ragione!"
+"002_a","(\0촀\0Forse hai ragione!"
 "002_b","Direi di no."
 "003","(""촀\0Ehilà! Vuoi fare una caccia al tesoro?"
 "003_a","Ci sto!"
@@ -140,15 +140,16 @@ fermarti!(""촀\0 Diamo il via alla caccia!
 \0
 quindi non perderti in chiacchiere.
 Devi troppo darti una mossa!
-\0
 ´\0
 ( 촀\0Oh! Giusto! 
 \0Non puoi chiedere aiuto
-ad altra gente, OK? Devi cavartela
+ad altra gente, OK? 
+\0Devi cavartela
 da sol2oa!
-\0 ($촀\0Capito? Bene!
-Z\0(""촀\0
-D'accordo, allora cominciamo,
+\0 ($촀\0Capito? 
+\0Bene!
+´\0
+(""촀\0D'accordo, allora cominciamo,
 n\0!
 ´"
 "101","(&촀\0Ehi, 

@@ -28,7 +28,7 @@ me han tocado dos,
 \0$
 (촀\0Y eso que a mí nunca me toca nadan\0\0
 (
-촀\0Estaba pensando vender 2&촀el otrola otra\0.
+촀\0Estaba pensando vender 2&촀el otrola otra\0.
 \0
 (촀\0¿A lo mejor te interesa?"
 "004_a","(\0촁\0Según el precio..."
@@ -173,8 +173,7 @@ más cerca de la perfección absoluta,
 "303","Ah,
 \0 pues lo siguiente que tengo
 es 2\0}\0\0.
-\0
-Cuesta Z."
+\0 Cuesta Z."
 "303_a","(\0촀\0No sigas, ¡ya está!"
 "303_b","(\0촀\0Sigue, sigue..."
 "304","(촀\0Buenon\0\0
@@ -185,7 +184,7 @@ Cuesta Z."
 "305","(8촀\0Vaaale,
 \0 pues lo último que me queda
 es 2\0}\0\0.
-\0 (%촀\0L2촀oa\0 vendo por Z,
+\0 (%촀\0L2촀oa\0 vendo por Z,
 \0 cielo."
 "305_a","¡Lo mejor para el final!"
 "305_b","Pues nada, tampoco..."

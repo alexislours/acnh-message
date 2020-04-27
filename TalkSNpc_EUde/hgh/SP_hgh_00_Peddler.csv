@@ -60,13 +60,12 @@ bis 22:00 Uhr bei mir vorbeischauen!"
 \0
 was du heute Tolles bei mir kaufen
 kannst!(촀"
-"007","(&촀\0Ach,
-\0 nichts dabei?
-\0( (촀\0Keine Sorge,
-\0 mein
-Angebot wechselt ständig. 
-\0Also hast
-du nächstes Mal gewiss mehr Glück!"
+"007","($촀\0Fertig?
+\0( (%촀\0Mein Angebot wechselt
+übrigens ständig. 
+\0(촀\0Also lohnt es sich
+immer, 
+\0einen Blick zu riskieren."
 "101_01","(촀\0Guuuten Morgen,
 \0 n\0!
 \0
@@ -139,8 +138,7 @@ dienen?"
 "108_b","Stelle für den Laden..."
 "108_c","Wollt nur Hallo sagen!"
 "111","2\02\0}\0\0 kostet Z\0.
-\0 (&촀\0
-Na,
+\0 (&촀\0Na,
 \0 wie wär's damit?"
 "111_a","Ist gekauft!"
 "111_b","Oje, doch nicht..."
@@ -164,10 +162,10 @@ etwas anderes kaufen?"
 anschauen?(촀"
 "116_01","(촀\0Danke dir!
 \0 Bis zum nächsten Mal!"
-"116_02","War nichts für deinen Geschmack
+"116_02","( 촀\0War nichts für deinen Geschmack
 dabei,
 \0 hm?
-\0 Na,
+\0 (촀\0Na,
 \0 nächstes Mal hab ich
 ja neue Sachen im Gepäck!"
 "151","(촀\0Sei gegrüßt, 

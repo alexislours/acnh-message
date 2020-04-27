@@ -117,22 +117,23 @@ Ah,
 (;촀\0¡Se nota de lejos que no
 llevas ni un insecto encima!\0\0¿Que cómo lo sé?
 \0 Sencillo.
-\0 No percibo la energía, la pureza de
-un insecto emanando de tu ser.
+\0
+No percibo la energía, la pureza
+de un insecto emanando de tu ser.
 ('촀\0Y no compro insectos que estén
 en tu imaginación.
 \0 Pero, nada.
 \0
 Vuelve cuando tengas uno realn"
 "012","(%촀\0Te aviso que me voy mañana
-a las 5 de la mañanan\0\0
+a las \05 de la mañana\0￿.
 \0 (촀\0Pasa a verme
 antes de esa hora,
 \0 ¿OK?"
 "013","Oye,
 \0(%촀\0
 \0 te aviso que me tengo que ir a
-las 5 de la mañana.
+las \05 de la mañana\0￿.
 \0 (촀\0Si quieres, ven
 a verme antes de esa hora,
 \0 ¿OK?"
@@ -201,7 +202,7 @@ insecto antes de eso?"
 \0KRespira profundo y céntraten\0\0\0\0\0d(\0촀\0\0￿\0KEjem.
 \0\0d
 (6촀\0Tu }\0\0n\0\0
-\0 ¿me 2촀lola\0 vendes por Z?"
+\0 ¿me 2촀lola\0 vendes por Z?"
 "024_a","(%촀\0¡Vendo, vendo!"
 "024_b","('촀\0Lo voy a pensar..."
 "025","Pero (!촀\0¡esto es prácticamente una
@@ -210,8 +211,7 @@ nube de insectos!
 día!
 \0 (\0촀\0\0Ya,
 \0 Kamilo, bájalen\0\0\0￿\0\0Ejemn\0\0
-\0 (3촀\0¿y si te ofrezco Z
-por todos?"
+\0 (3촀\0¿y si te ofrezco Z por todos?"
 "025_a","(%촀\0¡Vendo, vendo!"
 "025_b","('촀\0Lo voy a pensar..."
 "027","(촀\0¿En serio?
@@ -281,7 +281,7 @@ Uff,
 atenciónn\0\0\0\02\02\0}\0 te obliga a estar presente aquí y ahora.(촀\0\0￿"
 "047","\0(4촀\0El universo al contemplar su
 belleza
-\0 imagina la silueta 2̑촀del
+\0 imagina la silueta 2̒촀del
 de la\0
 }\0.\0￿"
 "048","\0(1촀\0¿Cómo se verá el mundo
@@ -333,7 +333,7 @@ por tu isla,
 \0 (2촀\0para que me presentes a
 tus insectos vecinos,
 \0 \0Kpor favor.\0d"
-"100","(&촀\0¿Vienes por aquel encargo 2đ촀del
+"100","(&촀\0¿Vienes por aquel encargo 2Ē촀del
 de la\0 }\0?\0\0(1촀\0Estoy en eso.
 \0 Ya tengo la imagen viva
 en mi menten\0\0
@@ -412,9 +412,9 @@ INQUEBRANTABLE!\0d\0}
 \0d(5촀\0Ya siento la llama de la inspiración
 encendida en mi interior, en armonía
 con el frío de mi sangre reptiliana.\0\0( 촀\0Ejem.
-\0 (7촀\0En cuanto 2đ촀lola\0 termine,
+\0 (7촀\0En cuanto 2Ē촀lola\0 termine,
 \0 te envío
-por correo tu figura 2đ촀del
+por correo tu figura 2Ē촀del
 de la\0 }\0."
 "109","(촀\0\0¡¿Qué dices?!
 \0\0d\0\0P-peron\0\0 
@@ -449,11 +449,8 @@ la pena!
 2\0\0}\0\0￿?
 \0(
 ¿El coloso de los insectos?
-(1촀\0Es la intersección idónea de la fuerza 
-y la elegancian\0\0
-\0( (2촀\0\0KY también tiene unas
-marcas blancas geniales, ¿no crees?\0d
-(#촀\0Te prometo que será una obra
+(1촀\0Es la intersección idónea de la fuerza y la elegancian\0\0
+\0( (2촀\0\0KY también tiene unas marcas blancas geniales, ¿no crees?\0d\0\0(#촀\0Te prometo que será una obra
 maestra,
 \0 ¡y a gran escala!
 \0

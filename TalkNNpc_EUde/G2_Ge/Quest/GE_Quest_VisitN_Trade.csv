@@ -35,7 +35,7 @@ Aber das sag ich dann schon,
 bei dir cool aussehen würde,
 \0(촀\0
 n\0?"
-"004_a","(\0촀\0Das muss ich haben!"
+"004_a","Das muss ich haben!"
 "004_b","Nein, glaube nicht."
 "005","(촀\0Wenn du was siehst, 
 \0das dir gefällt,
@@ -45,7 +45,7 @@ KÖNNTE 
 \0
 n\0!
 \0 Aber nur vielleicht!"
-"005_a","(\0촀\0Bitte, bitte!"
+"005_a","Bitte, bitte!"
 "005_b","Lass mal."
 "006","(촀\0Gefällt dir hier was, 
 \0n\0?
@@ -134,10 +134,8 @@ das gefällt.
 (촀\0lass es mich wissen!"
 "104","(촀\0Äh, 
 \0(촀\0sorry, n\0,
-\0
-aber du hast nicht genug Sternis,
-\0
-n\0...(\0촀"
+\0 aber du hast nicht genug Sternis,
+\0 n\0...(\0촀"
 "200","(촀\0Viel Spaß mit diesem coolen Teil!"
 "201","(촀\0DANKEEE!
 \0(촀"
@@ -168,16 +166,16 @@ dabei!
 \0((\0촀\0 Ich schick's dir später nach
 Hause, okay,
 \0 n\0?"
-"300","(8촀\02$촀Mein
-MeineMein }촀?!\0\0Von 2촀demderdem kann ich mich unmöglich
+"300","(8촀\02$촀Mein
+MeineMein }촀?!\0\0Von 2촀demderdem kann ich mich unmöglich
 trennen! 
-\02촀DerDieDas ist sooo süß!
+\02촀DerDieDas ist sooo süß!
 \0
 Mein kleiner Liebling. 
 \0(촀\0Sorry..."
 "301","( 촀\0Sorry, 
 \0keine Chance. 
-\02,촀Dieser
+\02,촀Dieser
 DieseDieses
 (촀\0}촀 ist doch mein
 Bio-Nachhilfelehrer, 
@@ -195,7 +193,7 @@ trennen, 
 \0Ich würde ja, 
 \0okay? 
 \0Aber
-2$촀mein
+2$촀mein
 meinemein }\0\0...
 \0
 definiert total meinen Style!"

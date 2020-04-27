@@ -78,21 +78,35 @@ andere! Ein wirklich besonderer Tag!d"
 "021","d\0(9촂\0(촃\0Die Neuigkeiten heuten\0\0d"
 "022","d\0(9촂\0(촃\0Weitere Neuigkeiten heuten\0\0d"
 "031","d\0Weiter im Text...d"
+"041_01","d\0(촀\0Oho!
+\0 Der \0Häschentag \0￿nähert sich
+mit großen Sprüngen!
+\0(촀\0\0\0(촀\0Sobald das Wetter frühlingshaft
+wird, 
+\0(%촀\0ist dieses Fest immer nicht
+mehr fern!d"
+"041_02","d\0(촀\0Heute ist \0Häschentag\0￿!
+\0((촀\0 Und zu
+diesem Anlass haben wir einen
+ganz speziellen Gast auf der Insel.
+Also seid nicht schüchtern 
+\0(""촀\0und sagt
+ihm auf dem \0Festplatz\0￿ Hallo!d"
 "101","d\0(촀\0Wir freuen uns, einen Neuzugang
 auf n\0 zu begrüßen:
 s촀!d"
 "102","<"
-"102_01","d\0(%촀\0Ich hoffe, dass ihr 2촀ihmihr\0 mit Rat und
+"102_01","d\0(%촀\0Ich hoffe, dass ihr 2촀ihmihr\0 mit Rat und
 Tat zur Seite steht!(촀\0d"
-"102_02","d\0(%촀\0Wenn ihr 2촀ihnsie\0 seht,
-\0 heißt 2촀ihnsie\0 bitte
+"102_02","d\0(%촀\0Wenn ihr 2촀ihnsie\0 seht,
+\0 heißt 2촀ihnsie\0 bitte
 ganz herzlich willkommen!(촀\0d"
-"102_03","d\0(%촀\02촀ErSie\0 wird bestimmt mit Auspacken
+"102_03","d\0(%촀\02촀ErSie\0 wird bestimmt mit Auspacken
 beschäftigt sein, also schaut doch
-mal bei 2촀ihmihr\0 vorbei!(촀\0d"
+mal bei 2촀ihmihr\0 vorbei!(촀\0d"
 "200","d\0Okayn\0\0 
 \0Weiter im Text!d"
-"201","d\0(촀\02:촀Unser lieberUnsere liebe\0 s촀 wird diese Insel leider aus persönlichen Gründen verlassen.\0\0Heute ist 2seinihr letzter Tag hier bei
+"201","d\0(촀\02:촀Unser lieberUnsere liebe\0 s촀 wird diese Insel leider aus persönlichen Gründen verlassen.\0\0Heute ist 2seinihr letzter Tag hier bei
 uns, 
 \0also nehmt euch doch die Zeit,
 \0
@@ -301,8 +315,8 @@ Gespräche entwickeln!d"
 "702_02","d\0Benutzt ihr auch das \0(&촀\0NookPortal
 \0￿im \0Servicecenter\0￿?\0\0()촀\0Einmal am Tag könnt ihr euch durch
 seine Nutzung Meilen verdienen.(촀\0\0\0Wenn ihr es an mehreren Tagen
-hintereinander benutzt, gibt es sogar
-noch mehr Meilen!d"
+hintereinander benutzt, gibt es
+sogar noch mehr Meilen!d"
 "702_03","d\0Seht ihr euch beim Spazierengehen
 den Himmel 
 \0(&촀\0oder die Landschaft an?\0\0(%촀\0Bewegt \0 (rechter Stick)\0￿ nach
@@ -310,22 +324,18 @@ oben oder unten, 
 \0um eine neue(촀\0
 Perspektive zu erhalten.d"
 "702_04","d\0Nutzt ihr denn auch die
-\0Krimskramskiste \0￿im \0Servicecenter\0￿?\0\0()촀\0Ihr könnt darin Sachen ablegen, 
-\0die
-ihr nicht mehr braucht, 
-\0und jemand
-anders kann sie mitnehmen.(촀\0\0\0(%촀\0Vielleicht findet ihr darin ja auch mal
+\0Krimskramskiste \0￿im \0Servicecenter\0￿?\0\0()촀\0Darin landen Sachen, 
+\0die eure
+Nachbarn nicht mehr benötigen.(촀\0\0\0(%촀\0Vielleicht findet ihr darin ja auch mal
 den einen oder anderen Schatz,
 \0 hm?(촀\0d"
 "703","d\0(촀\0Ich werde euch nun etwas über die
 Prämien des \0Nook-Meilenprogramms\0￿
 erzählen.d"
 "704","<"
-"704_01","d\0(\0촀\0Heute möchte ich euch eine
-App vorstellen, 
-\0und zwar
-\0
-(촀\0\0Designs: Profi-Edition\0￿!\0\0(%촀\0Dabei handelt es sich um eine
+"704_01","d\0(\0촀\0Was ich euch ans Herz legen
+möchte?
+\0 (촀\0\0Designs: Profi-Edition\0￿!\0\0(%촀\0Dabei handelt es sich um eine
 neue Version der \0Designs\0￿-App.(촀\0\0\0()촀\0Sie verfügt über professionellere
 Farbanpassungs- und Design-
 funktionen.(촀\0\0\0(\0촀\0Auch ohne \0Designs: Profi-Edition\0￿
@@ -334,9 +344,10 @@ und nutzen.\0\0(촀\0Aber wenn ihr eigene Profi-Designs
 entwerfen wollt, 
 \0dann zieht dieses
 Upgrade in Betracht.d"
-"704_02","d\0(\0촀\0Sprechen wir doch heute einmal
+"704_02","d\0(\0촀\0Ich würde euch gerne ein Muss für
+jeden Hobbybastler vorstellen:
 \0
-über (촀\0\0Alltagswerkzeuge A–Z\0￿!\0\0()촀\0Darin sind Bastelanleitungen für
+(촀\0„\0Alltagswerkzeuge A–Z\0￿“!\0\0()촀\0Darin sind Bastelanleitungen für
 Werkzeuge, 
 \0die nicht ganz so leicht
 kaputtgehen.(촀\0
@@ -344,8 +355,10 @@ kaputtgehen.(촀\0
 
 \0(촀\0dann löst doch ein paar Nook-Meilen
 für diese Prämie ein.d"
-"704_03","d\0(\0촀\0Lasst mich kurz über (촀\0\0Werkzeugring:
-Ein Muss!\0￿ sprechen.\0\0(\0촀\0Wie läuft es so mit dem Leben auf
+"704_03","d\0(\0촀\0Ich würde euch gern einen
+praktischen Berater vorstellen:
+\0
+(촀\0„\0Werkzeugring: Ein Muss!\0￿“.\0\0(\0촀\0Wie läuft es so mit dem Leben auf
 der Insel, 
 \0(&촀\0tragt ihr inzwischen alle
 möglichen Werkzeuge bei euch?\0\0(촀\0Ich könnte mir vorstellen, dass es
@@ -359,10 +372,10 @@ denen ihr bequem wechseln könnt!(촀\0\0\0(6촀\0
 \0wenn ihr
 stets schnell das passende Werkzeug
 zur Hand haben wollt.d"
-"704_04","d\0(\0촀\0Heute möchte ich ein paar kleine
-Ausführungen zu
-\0d\0(촀\0d \0Taschen richtig
-nutzen\0￿ machen.\0\0(\0촀\0Je länger man an einem Ort lebt,
+"704_04","d\0(\0촀\0Ich möchte euch einen überaus
+praktischen Berater vorstellen:
+\0(촀\0
+„\0Taschen richtig nutzen\0￿“.\0\0(\0촀\0Je länger man an einem Ort lebt,
 \0
 desto mehr Dinge sammeln sich an.
 \0
@@ -383,8 +396,8 @@ Ordnung in euer Leben,
 
 \0(촀\0\0Frisuren\0￿ und \0Haarfarben\0￿ sage!\0\0()촀\0Wusstet ihr, 
 \0dass man sich dabei von
-Büchern wie \0Die 8 poppigsten
-Frisuren\0￿ inspirieren lassen kann?(촀\0\0\0(%촀\0Alles, 
+Büchern wie „\0Die 8 poppigsten
+Frisuren\0￿“ inspirieren lassen kann?(촀\0\0\0(%촀\0Alles, 
 \0was ihr braucht, 
 \0ist ein
 \0Spiegel\0￿ oder ein \0Frisiertisch\0￿,

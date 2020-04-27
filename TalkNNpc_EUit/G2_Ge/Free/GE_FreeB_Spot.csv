@@ -58,7 +58,7 @@ della storia!"
 "003","촊촊(촀\0Sei mai 2
 stato
 stata ospite a casa di s촀? 
-\0촆촃(%촀\0È 2(촀un verouna vera\0 24촀decoratoredecoratrice\0 d'interni.\0\0(촀\0Come dice la mia rivista preferita,
+\0촆촃(%촀\0È 2(촀un verouna vera\0 24촀decoratoredecoratrice\0 d'interni.\0\0(촀\0Come dice la mia rivista preferita,
 
 \0bisogna arredare la casa come se
 qualcuno dovesse venire a vederla."
@@ -73,8 +73,11 @@ di arredamento, n\0."
 "006","촊촉( 촀\0Oh, 
 \0n\0, casa tua si è ingrandita da quando ti sei trasferit2oa, eh? 촆촃Allucinante.\0\0(%촀\0Significa che hai più spazio per
 la tua roba, no?"
-"007","촊촉($촀\0Hai una stanza in più sul retro
-della tua casa adesso, no?\0\0촆촃(9촀\0Che ci fai?"
+"007","촊촉($촀\0Oh, 
+\0hai una stanza in più sul retro
+della tua casa?\0\0촆촃(9촀\0E dimmi, la usi effettivamente per
+qualcosa?
+\0(!촀\0 Dai, raccontami un po'!"
 "008","촊촉(촀\0Che storia, n\0! La tua casa ha tre stanze, giusto?
 \0 촆촃(촀\0Sono super 
 \0\0K(argh)\0d
@@ -92,13 +95,14 @@ una stanza in una sala registrazioni?
 registrare. 
 \0Prima devo convincere
 \0K.K. Slider\0￿ a farmi da produttoren\0\0\0\0(촀\0(\0KE a rispondermi al telefono.)\0d"
-"010","촊촉(""촀\0Non riesco a credere che ora la tua casa abbia due piani, 
+"010","촊촉(""촀\0Non riesco a credere che la tua casa abbia due piani! 
+\0È troppo allucinante,
+
 \0n\0!"
 "011","(8촀\0Ti invidio una cifra, lo sai n\0? Ora hai una cantina!\0\0()촀\0Le cantine sono troppo perfette
 per urlare! Nessuno ti sente!\0\0(촀\0Cantare!
 \0 Intendevo cantare."
-"012","촊촉Hai visto che s\0촀 vive ancora in tenda? (&촀\0Pensi che prima o poi costruirà una casa?\0\0촆촃(\0촀\0E se 2
-촀glile\0 piacesse davvero vivere
+"012","촊촉Hai visto che s\0촀 vive ancora in tenda? (&촀\0Pensi che prima o poi costruirà una casa?\0\0촆촃(\0촀\0E se 2촀glile\0 piacesse davvero vivere
 in tenda 
 \0(촀\0e continuasse così per
 sempre?!\0\0(촀\0Sarebbe sconvolgente!"
@@ -106,16 +110,14 @@ sempre?!\0\0(촀\0Sarebbe sconvolgente!"
 \0 (%촀\0così piccola e confortevole. 촆촃Mi piace una cifra!"
 "014","촊촉( 촀\0Cioè, ho notato che la casa di s\0촀 è più grande di quanto pensassi!\0\0촆촃(
 촀\0Scommetto che voleva altri mobili
-e si è 2
-촀resoresa\0 conto che aveva bisogno
+e si è 2촀resoresa\0 conto che aveva bisogno
 di più spazio.(\0촀\0 Per me è ugualen\0\0\0\0('촀\0Ma invece di ingrandire la casa, io
 seppellisco le cose. (촀\0Si dice ""Cuore
 non vede, occhio non piange"", no?\0\0(8촀\0O qualcosa del genere..."
 "015","(촀\0Hai sentito,
 \0 n\0?
 \0 La casa di s\0촀 ora ha una stanza in più. Allucinante!
-\0\0\0촊촉(;촀\0Chissà a cosa 2
-촀glile\0 serven\0\0
+\0\0\0촊촉(;촀\0Chissà a cosa 2촀glile\0 serven\0\0
 \0 촆촃(6촀\0Io saprei
 cosa farci con un'altra stanza, te lo
 dicon"
@@ -125,7 +127,7 @@ grande. Dovrei mettere dei cartelli,
 tipo ""Per la cucina di qua!"" 
 \0촆촃Peròn\0\0\0\0(촀\0Cioè, e se poi mi perdessi mentre
 appendo i cartelli?!"
-"018","촊촉Non è fantastico che casa di s\0촀(촀\0 abbia due piani adesso?\0\0(
+"018","촊촉Non è fantastico che casa di s\0촀(촀\0 abbia due piani?\0\0(
 촀\0Io sono, cioè, una pigrona. Quindi
 non riuscirei mai a tenere pulito
 un posto così granden\0\0

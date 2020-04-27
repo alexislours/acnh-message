@@ -69,11 +69,11 @@ tornata la stella di sempre, OK?"
 \0(촀\0 Adesso! 
 \0SORPRESA!\0\0()촀\0s\0촀 mi ha chiesto di trasferirmi qui,
 \0(촀\0 quindi l'ho fatto! Anche se credo di averlo già detto.\0\0(촀\0Sono un po' confusa, ma anche troppo felice! Divertiamoci alla grande!"
-"011_02","(""촀\0Ehilà, n\0! L'ho fatto! Mi sono trasferita su un'altra isola! Cioè, su questa.\0\0Sì, ho preso e sono partita da s촀 dopo che s\0촀 mi ha invitata.\0\0Non appena mi sono sistemata
+"011_02","(""촀\0Ehilà, n\0! L'ho fatto! Mi sono trasferita su un'altra isola! Cioè, su questa.\0\0()촀\0Sì, ho preso e sono partita da s촀 dopo che s\0촀 mi ha invitata.\0\0(촀\0Non appena mi sono sistemata
 dobbiamo vederci. 
-\0Bere un caffè.
-\0(&촀\0
-Ce l'avete il caffè qui, vero?"
+\0Bere un caffè.
+
+\0(&촀\0Ce l'avete il caffè qui, vero?"
 "012","<"
 "012_01","( 촀\0Ciaaao! Sei n\0,
 giusto? 
@@ -95,8 +95,7 @@ facilmenten\0\0 (%촀\0Ha ragione."
 	\0\0\0(촀\0Ero 2\0 s촀 quando ho incontrato s\0촀 che mi ha detto di trasferirmi qui.\0\0E io ho risposto: 
 \0""Che storia!""
 \0
-E 2
-촀luilei\0: ""Sì! Allora, lo farai?"" 
+E 2촀luilei\0: ""Sì! Allora, lo farai?"" 
 \0Quindi,
 cioè, l'ho fatto!\0\0(+촀\0Comunque, volevo venire a
 salutartin\0\0 ma mi sono raffreddata.

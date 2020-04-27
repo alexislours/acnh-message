@@ -12,8 +12,7 @@ Allez !
 \0 Que la fête commence !
 x"
 "005","2\0n\0 ! 
-\0Crois-moi,
-on va bien s'amuser !
+\0Crois-moi, on va bien s'amuser !
 x"
 "006","Coucou !
 \0( C'est moi, n
@@ -37,10 +36,8 @@ Tu es là ?
 aurait oublié ?
 x"
 "010","2\0n\0 !
-\0( Bon, ben, s2'ili elle
-est pas là,
-\0 j'ai plus qu'à rentrer chez
-moin\0\0
+\0( Bon, ben, s2'ili elle est pas là,
+\0 j'ai plus qu'à rentrer chez moin\0\0
 x"
 "011","(촀\0Bonjour ! 
 \0(J'avais tellement hâte de
@@ -91,12 +88,12 @@ sérieuses !
 \0Hé !
 \0(촀\0 Si on jouait à un jeu ?"
 "201_a","Oh oui !"
-"201_b","Une autre fois."
+"201_b","(\0촀\0Une autre fois."
 "202","(9촀\02\0n\0 !
 \0 Je te défie
 \0((촀\0 à un jeu !
 \0(촀"
-"202_a","Je ne perdrai pas !"
+"202_a","(\0촀\0Je ne perdrai pas !"
 "202_b","J'ai pas envie."
 "203","Ah, d'accordn\0\0
 \0((촀\0 Dans ce cas,

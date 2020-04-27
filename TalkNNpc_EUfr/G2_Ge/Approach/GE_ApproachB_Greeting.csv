@@ -19,12 +19,11 @@ nous ! 
 \0 Une idée ?"
 "001_a","Ouais !"
 "001_b","Nan, pas là, nan."
-"002","(촀\0Tu sais, n\0, il m'est
-passé un truc par la tête,
+"002","(촀\0Tu sais, n\0, il m'est passé un truc par la tête,
 \0 juste là.\0\0Et plus j'y pense, plus ça m'apparaît
 comme une évidence.\0\0Cette salutation, qu'on utilise tout le
 temps, là...
-\0 ()촀\0« 2\0n\0Wesh, 2monma chewi2\0en ».\0\0(
+\0 ()촀\0« ⁠2\0n\0Wesh, 2monma chewi2\0en ⁠».\0\0(
 촀\0Et si...
 \0 on changeait pour une petite
 phrase
@@ -37,11 +36,8 @@ un peu par les yeux, depuis le temps.
 "002_a","Oh que oui !"
 "002_b","J'ai mieux à faire."
 "003","(""촀\0Kikou, 
-\0n\0. (1촀\0Je suis en
-pleine recherche de 
-\0LA salutation qui
-ferait (촀\0tomber mes fans à mes pieds.
-Et du coup, ce serait aussi méga
+\0n\0. (1촀\0Je suis en pleine recherche de 
+\0LA salutation qui ferait (촀\0tomber mes fans à mes pieds.\0\0Et du coup, ce serait aussi méga
 chouette si on l'utilisait aussi 2toustoutes
 les deux.
 Réfléchissons
@@ -51,7 +47,7 @@ Réfléchissons
 촀\0Qu'est-ce que deux
 super 2 copainscopines pourraient bien se
 dire ? \0K(Et qui vaudrait aussi pour mes fans...)\0d"
-"003_a","J'ai une idée !"
+"003_a","(\0촀\0J'ai une idée !"
 "003_b","(\0촀\0Tu as des fans ?"
 "004","(촀\02\0n\0 ! Oh mais c'te coïncidence, lol !
 \0 (\0촀\0Je pensais justement à toi !\0\0(촀\0Je voulais te parler de cette phrase
@@ -115,7 +111,7 @@ Dis-moi !
 \0
 (;촀\0Admets que tu as adoré."
 "101_a","C'est parfait !"
-"101_b","On peut faire mieux."
+"101_b","(\0촀\0On peut faire mieux."
 "102","« 2\0n\0Wesh, 2monma chewi2\0en » ?
 \0
 (&촀\0Tu veux garder l'ancienne ?"
@@ -161,7 +157,7 @@ cassé,
 \0 (촀\0hein ?\0\0Et pis, j'y suis habituée, moi, à 
 « n\0Wesh, 2monma chewi2\0en » !"
 "301","(%촀\02\0n\0 ?
-\0 (촀\0C'est vrai que « ⁠n\0Wesh, 2monma chewi2\0en » te plaît ? 
+\0 (촀\0C'est vrai que « ⁠n\0Wesh, 2monma chewi2\0en ⁠» te plaît ? 
 \0(2촀\0Tout 
 \0pareil
 \0 en fait ! J'adore !"

@@ -57,15 +57,14 @@ Werkzeug oder 'nen Flug brauchst!
 \0der Dodo sagt:
 \0 Pack's einfach ein!"
 "002","촀 an 촁, 
-\0was kann ich für dich tun?"
+\0(&촀\0was kann ich für dich tun?"
 "002_a","Fliegen wir zurück?"
 "002_b","Ich brauch Werkzeug."
 "002_c","('촁\0Momentan gar nichts..."
-"003","(&촀\0Du willst Flug 촀
-mit Destination n	\0
-nehmen?"
-"003_a","(%촁\0Ganz genau!"
-"003_b","('촁\0Nein, noch nicht..."
+"003","(&촀\0Du willst Flug 촀 mit Ziel n	\0 nehmen?
+\0 Hast du auch nichts vergessen?"
+"003_a","(%촁\0Los geht's!"
+"003_b","('촁\0Einen Moment noch..."
 "004","-촀\0
 \0Roger!
 \0 Fertig machen zum Abflug!"

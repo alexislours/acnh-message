@@ -19,8 +19,8 @@ misschien een suggestie?"
 nieuwsn\0\0\0\0(&촀\0Wat zeg jij? 
 \0Ik wil je échte mening, 2jochiemeid. 
 \0Ben je het beu dat ik telkens ""n\0"" zeg?"
-"002_a","(\0촀\0Afwisseling is goed..."
-"002_b","(\0촀\0Nee, hoor!"
+"002_a","Afwisseling is goed..."
+"002_b","Nee, hoor!"
 "003","(촀\0Ik kan maar niet ophouden met het
 zeggen van ""n\0"".\0\0(촀\0Ik weet niet waarom.
 \0 Ik kan me
@@ -31,7 +31,7 @@ waar ik het voor het eerst zei.
 moet blijven zeggen.
 \0 Wat denk jij?"
 "003_a","(\0촀\0Kies iets anders."
-"003_b","Dit is prima."
+"003_b","(\0촁\0Dit is prima."
 "004","(
 촀\02\0n\0n\0\0 2\0n\0n\0\0
 \0( (&촀\02\0n\0?\0\0(촀\0Ik ben verbluft!
@@ -77,7 +77,7 @@ heb.
 \0( (촀\0Maar je hebt niks veranderd!
 \0 (&촀\0Weet je zeker dat ik de oude lijfspreuk moet houden?"
 "102_a","Heel zeker!"
-"102_b","Nou..."
+"102_b","(\0촁\0Nou..."
 "103","(6촀\0Dus je hebt je bedacht,
 \0 hè?
 \0( (9촀\0Nou,

@@ -2,7 +2,7 @@
 "001","(&촀\0Sei 2(impegnatoimpegnata per caso? 
 \0Non è che
 ti andrebbe di passare a casa mia?"
-"001_a","Perché no?
+"001_a","(\0촁\0Perché no?
 Ma certo, andiamo!"
 "001_b","Ora non posso.
 (#촀\0Scusa, ma no..."
@@ -10,7 +10,7 @@ Ma certo, andiamo!"
 \0ti va di venire a casa mia?
 Vorrei avere un tuo parere sugli
 ultimi mobili che ho preson"
-"002_a","Perché no?
+"002_a","(\0촁\0Perché no?
 Ma certo, andiamo!"
 "002_b","Ora non posso.
 (#촀\0Scusa, ma no..."
@@ -18,7 +18,7 @@ Ma certo, andiamo!"
 
 \0(촀\0Ho mobili in abbondanza su cui
 possiamo sederci e chiacchierare."
-"003_a","Perché no?
+"003_a","(\0촁\0Perché no?
 Ma certo, andiamo!"
 "003_b","Ora non posso.
 (#촀\0Scusa, ma no..."
@@ -164,7 +164,7 @@ solo mostrarla a qualcuno!
 \0 Visto che sei quin\0\0
 \0 (6촀\0che ne dici di passare da me por una visita?"
 "401_a","(\0촁\0Sarebbe fantastico!"
-"401_b","Ho da fare adesso..."
+"401_b","(\0촁\0Ho da fare adesso..."
 "402","(
 촀\0Sai cosa mi annoia di brutto?
 \0

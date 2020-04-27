@@ -79,7 +79,7 @@ verkopen?"
 "031_a","(%촀\0Verkocht!"
 "031_b","('촀\0Nee, toch maar niet..."
 "035","\0K(;촀\0Hmn\0\0
-\0 Zou 2 촀dezeditdeze 2촃}\0\0n\0\0\0d(촀\0 
+\0 Zou 2 촀dezeditdeze 2촃}\0\0n\0\0\0d(촀\0 
 \0O! 
 \0(촀\0Let maar niet op mij. Ik mompel maar wat.\0\0Ik kan je Z\0 voor je 2촃}\0\0 geven."
 "035_a","(%촀\0Verkocht!"
@@ -233,7 +233,7 @@ je interesseert?"
 \0( Geef je ogen maar
 eens goed de kost.(촀"
 "094","(%촀\0(촃\02\02\0}\0\0
-\0 2&촀kostkostkosten Z\0."
+\0 2&촀kostkostkosten Z\0."
 "094_a","(%촀\0Koop ik!"
 "094_b","('촀\0Nee, toch maar niet..."
 "096","(촂\0(촃\0O! 
@@ -245,18 +245,18 @@ tijdens de \0doe-het-zelfworkshop\0￿ van
 \0 \0KWat mag het zijn?\0dd"
 "096_a","(%촀\0Koop ik!"
 "096_b","('촀\0Nee, toch maar niet..."
-"101","(%촂\0(촃\0Dat 2촀isiszijn
+"101","(%촂\0(촃\0Dat 2촀isiszijn
 \0(촂\0 2\0}\0\0!"
 "102","(%촂\0Daar is maar een beperkt aanbod
 van,
 \0(%촃\0 dus zorg(촂\0(촃\0 dat je er snel bij bent!"
 "103","Eens zienn\0\0
-\0(%촂\0 Dat komt neer op Z\0.
+\0(%촂\0 2>촀Die kostDat kostDie kosten Z\0.
 \0 ($촂\0($촃\0Wat zeg je ervan?"
 "103_a","(%촀\0Koop ik!"
 "103_b","('촀\0Nee, toch maar niet..."
 "104","Eens zienn\0\0
-\0(%촂\0 Dat komt neer op Z\0.
+\0(%촂\0 2>촀Die kostDat kostDie kosten Z\0.
 \0 ($촂\0($촃\0Wat zeg je ervan?"
 "104_01_01","(\0촂\0(\0촃\0Je hebt nog niet geprobeerd iets te
 (&촂\0(&촃\0\0doe-het-zelven \0￿hier op het eiland,
@@ -290,6 +290,13 @@ de gegevens direct naar je app."
 je nieuwe plannen nog meer plezier
 uit het \0doe-het-zelven\0￿!d\0
 \0 \0KVeel lol!\0dd"
+"108","()촀\0O! 
+\0Dit artikel kunnen we helaas
+alleen verkopen aan klanten die
+de \0Doe-het-zelf\0￿-app hebben.\0\0(촀\0Als je meer wilt weten over \0doe-het-
+zelven\0￿,
+\0 kun je het beste even naar de
+\0servicebalie \0￿op je eigen eiland gaan."
 "110_02","(촂\0(촃\02\0n\0, ik weet vrij zeker dat je dit plan al hebt.\0\0(촂\0(촃\0Als je het toch wilt kopen, kost je dat Z\0.
 \0 Nog steeds(&촀\0 geïnteresseerd?(&촃\0d\0
 \0 \0KAan jou de keuze!\0dd"
@@ -373,7 +380,7 @@ je zakken wat leger hebt gemaakt.(%촃\0
 \0 \0KPrachtig!\0dd"
 "114","(촀\0Juist, bedankt voor de Z\0!(%촃"
 "121","(촂\0(촃\0De dagtopper van vandaag 
-\02촀isiszijn 2\0}\0\0!"
+\02촀isiszijn 2\0}\0\0!"
 "121_01","De dagtoppers van vandaag zijn 2\0}\0\0 en 2\0}\0."
 "121_02","()촂\0Voor dagtoppers betalen we het
 \0dubbele(%촃\0\0￿ van de normale waarde,
@@ -386,8 +393,8 @@ dus sla je slag!d\0
 "122_b","('촀\0Nee, toch maar niet..."
 "131","(%촃\0Van 2\02촃}\0\0 kun je er meerdere tegelijk kopen.
 \0(&촂\0 Hoeveel mogen het er zijn?"
-"131_a","1. (\0 Z\0\0￿)"
-"131_b","5. (\0 Z
+"131_a","1 (\0 Z\0\0￿)"
+"131_b","5 (\0 Z
 \0￿)"
 "131_c","Ik heb me bedacht."
 "200","(촂\0(촃\0Dank je wel!d\0

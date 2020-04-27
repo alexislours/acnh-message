@@ -104,19 +104,20 @@ dell'albero genealogico!\0\0(1촀\0Io adoro il \0killifish delle mangrov
 che può vivere settimane sulla
 terraferma respirando aria! En\0\0\0\0(촀\0Il \0mummichog\0￿, che venne portato
 nello spazio per studiare l'assenza
-di gravità sui pesci.\0\0(1촀\0Chissà se il \0killifish \0￿che mi hai
+di gravità sui pesci.\0\0(촀\0Chissà se il \0killifish \0￿che mi hai
 portato è imparentato con uno di
-questi coraggiosi esploratori?\0\0(촀\0Non appena si è ambientato, ci
-faccio una bella chiacchierata."
-"Fish_02223","(촀\0Uuuh! Hai trovato un \0gambero\0￿.
-Né granchio, né aragosta, 
+questi coraggiosi esploratorin"
+"Fish_02223","(촀\0Uuuh! Hai trovato un \0gambero\0￿. 
+\0Né
+granchio, né aragosta, 
 \0(""촀\0il gambero
 si è evoluto a modo suo.
-(1촀\0Guarda quelle pinze! E quante
+(1촀\0Guarda quelle pinze! 
+\0E quante
 zampe!
-\0 Sembra un insetton\0\0\0\0(:촀\0Uh uuuh! Più lo guardo,
-\0 (촀\0più mi fa
-impressionen\0\0 Non parliamone più."
+\0 Sembra un insetton\0\0\0\0\0K(촀\0Uh uuuh! 
+\0Più lo guardo, più mi fa impressionen\0\0
+(:촀\0\0dBeh, non parliamone più, d'accordo?"
 "Fish_02224","(촀\0L'\0apalone ferox\0￿
 \0(%촀\0 quando si sente
 minacciato assesta morsi feroci.
@@ -304,7 +305,9 @@ da altri predatori.
 ((촀\0Se vedi un \0salmerino alpino \0￿di grandi
 dimensioni, vuol dire che è uscito
 vittorioso da parecchie battaglie!
-(촀\0\0KNon è che puoi metterlo tu dentro la sua vasca?\0d"
+(촀\0\0KUh, uuuh! 
+\0Spero di non dover mai trovarmi
+a litigare con lui!\0d"
 "Fish_02241","(촀\0Il \0taimen\0￿ cresce molto lentamente,
 ma ha anche il tempo per farlo.
 \0
@@ -411,14 +414,16 @@ sotto la mia stretta sorveglianza!"
 "Fish_02250","(촀\0Un giorno mi dovrai svelare le tue
 tecniche segrete di pesca!\0\0(%촀\0Il valore di questo \0arowana\0￿ va ben
 al di là di quello che potrebbe farti
-guadagnare in stelline.\0\0(
-촀\0Infatti, l'arowana è da parecchio
+guadagnare in stelline, uuuh.\0\0()촀\0Pensa che può compiere dei balzi
+fuori dall'acquan\0\0(촀\0 fino a due metri
+di altezza!
+(
+촀\0Purtroppo, l'arowana è da parecchio
 tempo considerata una specie in
-pericolo di estinzione.\0\0Per questo dobbiamo fare di tutto
-per preservare questi pesci.\0\0(촀\0Non preoccuparti per l'esemplare
-che mi hai affidato, è in ottime ali!\0\0(촀\0A nome del museo,
-\0 (:촀\0ti ringrazio
-per la tua generosa donazione!"
+pericolo di estinzione, 
+\0uh uuuh.\0\0(촀\0Per questo dobbiamo fare di tutto
+per preservare questi magnifici
+esemplari per gli anni a venire."
 "Fish_02251","(촀\0Guarda come brilla questo \0dorado\0￿!
 \0
 ()촀\0Non per nulla il nome significa
@@ -598,7 +603,8 @@ gustoso e diffuso da essersi
 meritato tanti nomi diversi.
 (%촀\0Basti pensare che il famoso
 branzino, altro non è che 
-\0(촀\0la spigola!\0\0(촀\0In alcune regioni viene chiamata
+\0(촀\0una
+spigola!\0\0(촀\0In alcune zone viene chiamata
 anche ""lupo di mare""! 
 \0('촀\0Non posso
 elencarti tutti i nomi, finirei domani!

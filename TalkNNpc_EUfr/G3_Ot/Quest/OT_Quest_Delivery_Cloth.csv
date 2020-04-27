@@ -3,7 +3,7 @@
 crois ?!
 \0 Serait-ce à tout hasard
 2\0}\0\0 ?!\0\0(촀\0Oh,
-\0 j'ai toujours rêvé d'en tenir 2촀unune\0
+\0 j'ai toujours rêvé d'en tenir 2촀unune\0
 entre mes pattes ! 
 \0(4촀\0Il faut que je
 l'essaie tout de suite !"
@@ -43,7 +43,7 @@ pour s촁,
 \0 mais je pense que j'en ferai un pyjaman"
 "100","($촀\0Alors,
 \0 de quoi j'ai l'air ?"
-"100_a","Ça te va très bien !"
+"100_a","(\0촀\0Ça te va très bien !"
 "100_b","(
 촀\0Comment dire..."
 "101","(촀\0Tu le penses vraiment ? 
@@ -54,7 +54,7 @@ pas de me flatter,
 (4촀\0Dans ce cas,
 \0 merci beaucoup."
 "102","(촀\0Fichtren"
-"102_a","En vérité, ça va !"
+"102_a","(\0촀\0En vérité, ça va !"
 "102_b","(촀\0C'est catastrophique."
 "103","n\0\0 (&촀\0Vraiment ?
 \0 (촀\0Si tu le dis,
@@ -75,62 +75,45 @@ du compten"
 choisir quelque chose dans ce style.
 \0
 (촀\0C'est elle tout craché."
-"202","(촀\0s촁 et moi ne
-sommes pas toujours d'accord sur
-ce qui est tendance ou nonn\0\0
-(%촀\0... mais on ne peut pas lui retirer
+"202","(촀\0s촁 et moi ne sommes pas toujours d'accord sur ce qui est tendance ou nonn\0\0\0\0(%촀\0... mais on ne peut pas lui retirer
 qu'elle a un talent pour bien choisir
 ses cadeaux."
 "203","(5촀\0Je n'en attendais pas moins de la
 part 2
 de d'⁠s촁.
-\0 Elle est
-toujours à la pointe de la mode !"
+\0 Elle est toujours à la pointe de la mode !"
 "204","(촀\0Ça alors !
 \0 Je dois avouer que je suis
 impressionnée.\0\0(4촀\0J'étais loin de m'imaginer
 2
-que qu'⁠s촁 pouvait
-avoir l'œil si acéré."
+que qu'⁠s촁 pouvait avoir l'œil si acéré."
 "205","(촀\0Jen\0\0
 \0 (&촀\0Tu es 2sûrsûre que c'est bien
-s촁 qui m'envoie
-ceci ?!"
-"206","(&촀\0C'est s촁 qui a choisi
-ce cadeau,
+s촁 qui m'envoie ceci ?!"
+"206","(&촀\0C'est s촁 qui a choisi ce cadeau,
 \0 tu dis ?
 \0 (촀\0Ça alors !
-\0 Je ne
-l'aurais jamais deviné seule !"
+\0 Je ne l'aurais jamais deviné seule !"
 "207","(&촀\0Tu dis 2
-que qu'⁠s촁 a
-trouvé ce cadeau tout seul ?
-\0(촀\0 Allonsn\0\0
-Tu essaies de me faire marcher !"
+que qu'⁠s촁 a trouvé ce cadeau tout seul ?
+\0(촀\0 Allonsn\0\0 Tu essaies de me faire marcher !"
 "208","(촀\0C'est tout s촁.
 \0
 (1촀\0Ce cadeau est parfait jusqu'au
 moindre détailn"
 "209","(촀\0Alors comme ça,
-\0 s촁
-a choisi ce cadeau spécialement
-pour moi ?
-\0 (촀\0Quel beau geste !
-(4촀\0Je devrais aller m'excuser auprès
+\0 s촁 a choisi ce cadeau spécialement pour moi ?
+\0 (촀\0Quel beau geste !\0\0(4촀\0Je devrais aller m'excuser auprès
 d'elle afin qu'on puisse tourner
 la page pour de bon."
-"210","(촀\0J'ai l'impression
-2
-que qu'⁠s촁 a très
-mal vécu notre disputen\0\0\0\0(
+"210","(촀\0J'ai l'impression 2
+que qu'⁠s촁 a très mal vécu notre disputen\0\0\0\0(
 촀\0Il est vrai qu'elle m'a agacée,
 \0 mais
 je suis moi aussi en tort.
 \0 (%촀\0Je vais aller
 lui présenter des excuses."
-"211","(촀\0s촁 et moi pouvons
-parfois être bornéesn\0\0 Et cela peut
-créer des étincelles.\0\0(
+"211","(촀\0s촁 et moi pouvons parfois être bornéesn\0\0 Et cela peut créer des étincelles.\0\0(
 촀\0Ceci dit,
 \0 si elle désire passer
 l'éponge,
@@ -138,10 +121,7 @@ l'éponge,
 c'est d'accepter sa patte tendue."
 "212","(
 촀\0Dire 2
-que qu'⁠s촁 a
-à cœur de m'offrir un tel cadeau
-après tout ce qu'on s'est ditn\0\0
-(%촀\0Je crois que le moins que je puisse
+que qu'⁠s촁 a à cœur de m'offrir un tel cadeau après tout ce qu'on s'est ditn\0\0\0\0(%촀\0Je crois que le moins que je puisse
 faire,
 \0 c'est d'aller lui présenter des
 excuses en bonne et due forme."
@@ -152,17 +132,12 @@ présenter mes excuses au plus vite !"
 "214","(
 촀\0Je n'arrive toujours pas à me
 dire 2
-que qu'⁠s촁 m'a
-réellement offert cecin\0\0
-(*촀\0J'ai vraiment dû le blesser sans m'en
+que qu'⁠s촁 m'a réellement offert cecin\0\0\0\0(*촀\0J'ai vraiment dû le blesser sans m'en
 rendre compten\0\0
 \0 (%촀\0Je devrais aller lui
 présenter des excuses."
 "215","(
-촀\0s촁 doit vraiment
-se sentir mal pour être allé jusqu'à
-faire un geste comme çan\0\0
-(%촀\0Je devais aller lui parler et lui
+촀\0s촁 doit vraiment se sentir mal pour être allé jusqu'à faire un geste comme çan\0\0\0\0(%촀\0Je devrais aller lui parler et lui
 présenter des excuses."
 "216","(촀\0Comment rester insensible devant
 un cadeau si bien choisi ?\0\0Ceci dit,
@@ -173,52 +148,37 @@ crois que je devrais aller lui parler."
 "300","(촀\0Comme on dit,
 \0 c'est l'intention qui
 compte.\0\0(촀\0Et savoir 2
-que qu'⁠s촁 a
-tenu à me faire un cadeau suffit
-amplement à me faire plaisir !"
-"301","(4촀\0Je crois que le message
-2
-de d'⁠s촁 est clair
-et sans équivoque.
-(촀\0Je dois avouer que j'ai été têtue.
+que qu'⁠s촁 a tenu à me faire un cadeau suffit amplement à me faire plaisir !"
+"301","(4촀\0Je crois que le message 2
+de d'⁠s촁 est clair et sans équivoque.\0\0(촀\0Je dois avouer que j'ai été têtue.
 \0
 (%촀\0Je vais aller lui parler pour qu'on
 puisse enfin tourner la page."
 "302","(%촀\0Je pense que je comprends tout à
 fait ce 2
-que qu'⁠s촁
-essaie de me dire par là.
-('촀\0Cette dispute dure depuis beaucoup
+que qu'⁠s촁 essaie de me dire par là.\0\0('촀\0Cette dispute dure depuis beaucoup
 trop longtemps.
 \0 (4촀\0Je vais aller lui
 parler."
 "303","(촀\0Ma foi,
 \0 je crois que j'ai bien compris
 le message 2
-que qu'⁠s촁
-essaie de me communiquer.
-(
+que qu'⁠s촁 essaie de me communiquer.\0\0(
 촀\0Nous sommes toutes les deux parfois
 un peu trop têtues pour notre bien.
 \0
 (%촀\0Il est temps de se réconcilier."
-"304","(촀\0s촁 sait vraiment
-comment faire passer un messagen\0\0\0\0(4촀\0Je crois que mon entêtement l'a
+"304","(촀\0s촁 sait vraiment comment faire passer un messagen\0\0\0\0(4촀\0Je crois que mon entêtement l'a
 blessée. 
 \0Je vais aller lui présenter
 des excuses."
 "305","(촀\0Ça me fait de la peine
 2
-que qu'⁠s촁 se soit
-senti obligé d'aller jusque-là.
-(4촀\0Je pense que je lui dois moi aussi
+que qu'⁠s촁 se soit senti obligé d'aller jusque-là.\0\0(4촀\0Je pense que je lui dois moi aussi
 quelques excuses pour avoir manqué
 de maturité."
 "306","(%촀\0Savoir 2
-que qu'⁠s촁 a
-pris le temps de réfléchir à un
-cadeau me touche beaucoup.
-(
+que qu'⁠s촁 a pris le temps de réfléchir à un cadeau me touche beaucoup.\0\0(
 촀\0Dire que je croyais qu'il ne pensait
 jamais qu'à lui-mêmen\0\0 Je vais devoir
 lui présenter quelques excuses."
@@ -229,10 +189,7 @@ le message 2
 \0 il y a un
 petit cœur qui bat sous cette
 carapace qui se veut bourrue."
-"308","(촀\0s촁 a choisi son
-cadeau avec soin,
-\0 on ne peut pas
-lui ôter ça.
-(%촀\0Je pense qu'il est grand temps que
+"308","(촀\0s촁 a choisi son cadeau avec soin,
+\0 on ne peut pas lui ôter ça.\0\0(%촀\0Je pense qu'il est grand temps que
 lui et moi enterrions la hache de
 guerre."

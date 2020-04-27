@@ -7,8 +7,7 @@ und bist zu Besuch hier?\0\0(\0촀\0Nett, 
 \0dich kennenzulernen!
 \0
 (7촀\0Ich bin n
-\0 und
-gerade erst hierhergezogen!\0\0(\0촀\0Dein Name ist 
+\0 und gerade erst hierhergezogen!\0\0(\0촀\0Dein Name ist 
 \0n\0?
 \0
 (촀\0Hey.
@@ -26,9 +25,7 @@ gerade erst hierhergezogen!\0\0(\0촀\0Dein Name ist 
 \0dich kennenzulernen!
 \0
 Ich bin n
-\0 und
-\0
-GERADE HEUTE hierhergezogen!\0\0(%촀\0Wie heißt du denn?
+\0 und GERADE HEUTE hierhergezogen!\0\0(%촀\0Wie heißt du denn?
 2\0n\0? 
 \0Cool!
 (""촀\0Lass uns später mal quatschen!"
@@ -49,14 +46,16 @@ aber (""촀\0ich muss noch so viel erledigen!
 "002_01","(""촀\0Heeeyy!!! 
 \0Wo wohnst du denn?
 \0
-Ach, du bist nur zu Besuch?
+Ach, 
+\0du bist nur zu Besuch?
 \0
-(촀\0Hey, cool, dich hier zu treffen!\0\0Ich bin n
-\0 und 
-\0DER
-(촀\0Trendsetter von n\0!
-\0
-(촀\0Lass uns voll gute Freunde werden!"
+(촀\0Hey, 
+\0cool, dich hier zu treffen!\0\0(촀\0Lass uns Freunde werden!
+\0 Ich bin
+n
+\0 
+\0(촀\0und DIE Trend-
+setterin von n\0!"
 "002_02","( 촀\0Hallöchen! 
 \0(\0촀\0Du musst 2:ein Besuchereine Besucherin
 von einer 

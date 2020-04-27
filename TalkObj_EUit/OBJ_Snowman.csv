@@ -8,7 +8,7 @@ proporzioni... È tutto perfetto!\0\0Nel mio mondo, i tipi come te li
 definiamon\0\0 da brivido!\0\0Vedi, sono così felicen\0\0 Per la gente
 come me piangere è pericoloso, ma
 non riesco proprio a trattenermi!"
-"001_02","Davanti a te adesso hai Pallino, la
+"001_02","Davanti a te adesso hai \0Pallino\0￿, la
 perfezione assoluta! Ma che dico, lo
 sai giàn\0\0 mi hai fatto tu!
 Per merito tuo, sono a regola d'arte
@@ -18,9 +18,9 @@ Te ne intendi proprio di pupazzi di
 neven\0\0 Sei 2@un pupazzatore una pupazzatrice di neve
 professionista!"
 "001_03","
-\0Ecco qui il tuo Pallino perfetto!
-Ed è solo merito tuo, senza alcun
-dubbio!
+\0Perfetto! Sono perfetto!\0\0E non lo dico per vantarmi, è solo la
+pura verità! Ed è merito tuo, senza
+alcun dubbio!
 Dimmi solo dov'è il museo di pupazzi
 di neve più vicino perché è lì il mio
 posto, su un piedistallo!
@@ -38,7 +38,8 @@ mi hai dato la vita tu.\0\0Un'opera da brivido! Magari potrei
 lavorare io sul mio aspetto appena
 avrò un po' di tempon"
 "002_02","Oh! Mancava pochissimo! Per un
-pelo sarei stato un Pallino perfetto.\0\0In fondo, la perfezione sta nei
+pelo sarei stato un pupazzo di neve
+perfetto.\0\0In fondo, la perfezione sta nei
 particolari.\0\0Per esempio, fare la mia testa un po'
 più proporzionata al corpon\0\0 Ma non
 ho il diritto di lamentarmi, no?
@@ -51,8 +52,8 @@ progetto al 90 percento, ma quello
 sforzo extra è da professionisti.
 E secondo me, tu la stoffa da
 professionista ce l'hai anche!\0\0Ohn\0\0 Scusami, dovrei solo
-ringraziarti per avermi creato! E
-quindin\0\0 grazie mille!"
+ringraziarti per avermi creato!
+E quindin\0\0 grazie mille!"
 "003","<"
 "003_01","Uhn\0\0 Beh, direi che non abbiamo
 fatto proprio un capolavoro. E con
@@ -69,7 +70,7 @@ menon\0\0\0\0Ma per tutti i fiocchi di neve, solo
 con un po' di impegno in più avrei
 potuto essere un'operan\0\0 coi fiocchi!"
 "003_03","Salve a tutti, fiocchetti! È arrivato
-Pallino!\0\0Niente male come slogan, eh? Presto
+\0Pallino\0￿!\0\0Niente male come slogan, eh? Presto
 sarà sulla bocca di tutti. Peròn\0\0 non
 mi sembri convint2oa.\0\0Beh, forse avrei inventato qualcosa
 di meglio se solo tu mi avessi fatto
@@ -111,14 +112,16 @@ Trovato! Ti mostrerò come fare
 2\0}\0\0!\0\0Dai un'occhiata al tuo Nook Phone!"
 "012","È uno schema fai da te per 2\0}\0\0!
 \0 Più tardi controlla il Nook Phone!"
-"013","E prendi anche un \0fiocco di neve
-grande\0￿, ti servirà per la creazione."
+"013","E prendi anche questo \0fiocco di neve
+grande\0￿, 
+\0ti servirà per la creazione."
 "014","On\0\0 anche no. Vedo che hai già fin
 troppe cose con te. Perché non fai
 un po' di spazio e poi torni?"
-"015","Ora è tra le tue cose.
-\0 Usalo per
-creare un oggetto speciale."
+"015","Ecco, ora è nelle tue tasche.
+\0 Usalo
+per creare un oggetto speciale, che
+ti faccia pensare a me."
 "016","Come ricompensa riceverai un regalo
 specialen\0\0\0\0Te lo manderò per posta, 
 \0quindi
@@ -344,9 +347,7 @@ presto sotto il peso della mia testa!"
 \0 Finalmente
 possiamo parlare faccia a faccia!\0\0Volevo incontrarti da tanto, fin da
 quando ero ancora un miliardo di
-fiocchi di neve!
-Come puoi vedere da te, io sono
-\0Pallino\0￿!\0\0Non durerò per sempre, quindi
+fiocchi di neve! Mi chiamo \0Pallino\0￿!\0\0Non durerò per sempre, quindi
 divertiamoci finché è possibile con
 il tempo a disposizionen"
 "101","Senti, per ringraziarti di avermi
@@ -368,8 +369,8 @@ se solo potessi grattarmi la testan\0\0\0\0Comunque, hai davvero una grande
 abilità. Sicuramente hai un futuro
 luminoso davanti a te!"
 "104","La tua creatività è considerevole. Per
-essere il tuo primo Pallino, direi che
-sono venuto piuttosto bene.\0\0Con un po' più di esercizio, sono
+essere il tuo primo pupazzo di neve,
+direi che sono venuto piuttosto bene.\0\0Con un po' più di esercizio, sono
 sicuro che la prossima volta che mi
 creerai mi renderai perfetto!\0\0Ma devi fare pratica, mi raccomando!
 Non lasciare che il tuo potenzialen\0\0
@@ -381,7 +382,8 @@ peggio. E poi questa è la tua prima
 volta, qualche errore te lo perdono.
 Però riprovaci, mi raccomando!"
 "106","In tutta onestà, non posso proprio
-definirmi un Pallino incredibile.\0\0Ma c'è una prima volta per tutti, no?
+definirmi il miglior pupazzo di neve
+del mondo.\0\0Ma c'è una prima volta per tutti, no?
 Continua a provarci e mi farai come
 si deve. Anzin\0\0 come si neve.
 E ricorda: l'equilibrio è tutto. Tienilo
@@ -389,34 +391,38 @@ a mente la prossima volta, OK?"
 "107","Senti, per ringraziarti di avermi
 creato, voglio dirti come realizzare
 un oggetto speciale.
-Aspetta, però. Tu non hai mai
-fatto del \0fai da te\0￿ prima, giusto?
-Cioè, nemmeno una volta?
-OK, abbiamo un bel probleman\0\0
-Anche se ti insegnassi come, non
-sapresti nemmeno da dove iniziaren\0\0
+Aspetta, però. 
+\0Tu non hai esperienza
+di \0fai da te\0￿, giusto? 
+\0Cioè, non ci hai
+provato mai, nemmeno una volta?
+OK, allora abbiamo un probleman\0\0
+Anche se ti insegnassi come fare,
+non sapresti da dove iniziaren\0\0
 Facciamo così:
 \0 annoto lo schema su
 un biglietto e te lo mando più tardi.\0\0Ho sentito che al \0centro servizi
 \0￿è disponibile un \0corso di fai da te
 \0￿da brividi!
-Lì ti insegnaranno tutto quello che
+Lì ti insegneranno tutto quello che
 devi sapere.
 \0 Vacci subito, così potrai
 realizzare il mio oggetto speciale!"
 "108","Senti, per ringraziarti di avermi
 creato, voglio dirti come realizzare
 un oggetto speciale.
-Aspetta, però. Tu non hai mai
-fatto del \0fai da te\0￿ prima, giusto?
-Cioè, nemmeno una volta?
+Aspetta, però. 
+\0Tu non hai esperienza
+di \0fai da te\0￿, giusto? 
+\0Cioè, non ci hai
+provato mai, nemmeno una volta?
 Per tutti i fiocchin\0\0 Nemmeno dopo
 che ti ho mandato lo schema per
 creare un oggetto speciale?
 Ho sentito che al \0centro servizi
 \0￿è disponibile un \0corso di fai da te
 \0￿da brividi!
-Lì ti insegnaranno tutto quello che
+Lì ti insegneranno tutto quello che
 devi sapere.
 \0 Vacci subito, così potrai
 realizzare il mio oggetto speciale!"
@@ -427,19 +433,21 @@ potrai metterti subito all'opera."
 "110","Senti, per ringraziarti di avermi
 creato, voglio dirti come realizzare
 un oggetto speciale.
-Aspetta, però. Tu non hai mai
-fatto del \0fai da te\0￿ prima, giusto?
-Cioè, nemmeno una volta?
-OK, abbiamo un bel probleman\0\0
-Anche se ti insegnassi come, non
-sapresti nemmeno da dove iniziaren\0\0
+Aspetta, però. 
+\0Tu non hai esperienza
+di \0fai da te\0￿, giusto? 
+\0Cioè, non ci hai
+provato mai, nemmeno una volta?
+OK, allora abbiamo un probleman\0\0
+Anche se ti insegnassi come fare,
+non sapresti da dove iniziaren\0\0
 Ho sentito che al \0centro servizi
 \0￿è disponibile un \0corso di fai da te
 \0￿da brividi!
-Lì ti insegnaranno tutto quello che
+Lì ti insegneranno tutto quello che
 devi sapere.
 \0 Vacci subito, così potrai
-creare con il \0fai da te\0￿!"
+realizzare il mio oggetto speciale!"
 "111","Senti, per ringraziarti di avermi
 creato, voglio dirti come realizzare
 un oggetto speciale.
@@ -478,13 +486,13 @@ immaginazione,
 \0 perché accade
 proprio in questo momento!
 E quel pupazzo di neve sono io!
-Grazie per esserti fermat2oa!"
+Grazie per esserti fermat2oa!"
 "202_03","Due cose devi vedere: la perfezione
 fatta pupazzo di neve, cioè io, e il
 resto di n\0!"
 "203","<"
 "203_01","Sono un gran bel pupazzo di neve
-da una gran bella isola! Benvenut2oa
+da una gran bella isola! Benvenut2oa
 2\0 n\0!"
 "203_02","Puoi farmi tutte le foto che vuoi.\0\0Certo, non posso mettermi in molte
 pose, ma puoi sempre farti qualche
@@ -516,16 +524,18 @@ Purtroppo io nel frigorifero non
 entro, ma vale lo stesso per me!
 Lo vuoi un caldo abbraccio?"
 "207","Non mi rimane più molto tempo su
-quest'isola, ma è stata una gran
-bella sperienza!
+quest'isola, 
+\0ma è stata una gran
+bella esperienza!
 Di' ai tuoi amici di non farla finire
-qui! Fate pupazzi di neve, quanti
-più potete quando potete!"
+qui! 
+\0Fate pupazzi di neve, quanti
+più potete, quando potete!"
 "208","Non mi dispiace sciogliermi oggi, in
 fondo qui mi sono divertito. E posso
 sempre tornare la prossima nevicata!"
 "211","<"
-"211_01","Ciao, 2.visitatorevisitatricen\0\0 Mi raccomando,
+"211_01","Ciao, 2.visitatorevisitatricen\0\0 Mi raccomando,
 divertiti qui 2\0 n\0!"
-"211_02","Benvenut2oa 2\0 n\0!"
+"211_02","Benvenut2oa 2\0 n\0!"
 "211_03","Buon divertimento qui 2\0 n\0!"

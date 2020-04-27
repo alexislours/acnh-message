@@ -42,10 +42,10 @@ of vergezochtn\0\0
 best doen om ze goed te vertellen!"
 "011","(&촀\0Kan ik je misschien ergens mee
 helpen?"
-"011_a","Moet je dit eens zien!"
-"011_b","Zin om te praten?"
+"011_a","(\0촀\0Moet je dit eens zien!"
+"011_b","(\0촀\0Zin om te praten?"
 "012","(촀\0Maar natuurlijk! 
-\0Wat je daar hebt 2촀isiszijnn\0\0
+\0Wat je daar hebt 2촀isiszijnn\0\0
 \0
 2\0}\0\0!"
 "013","(촀\0Nou, toedel-hoe! 
@@ -322,16 +322,18 @@ mijn kennis daarover graag met je!"
 "101","(촀\0Gegroe-hoe-hoet en een
 goedenavond!
 \0( (\0촀\0Woon jij op dit eiland?"
-"102","(촀\0Ah!
-\0 De befaamde n\0!
-\0(촀\0 Leuk je te ontmoeten. Ik ben \0Celeste\0￿!
-\0 Mijn broer heeft het vaak over je.\0\0(촀\0\0Blathers \0￿blijft maar kwebbelen over
-hoe jij hem hebt geholpen met het
-\0museum\0￿. 
-\0(2촀\0Die gekke Blabbelkous!\0\0(%촀\0Hoe dan ook, bedankt voor al het
-werk dat je voor mijn grote broer
-hebt gedaan!
-\0d(\0촀"
+"102","(촀\0Aha!
+\0 Jij moet de befaamde n\0 zijn!\0\0(촀\0Leuk je te ontmoeten. Ik ben \0Celeste\0￿!
+\0<
+(%촀\0Wellicht ken je mijn broer, \0Blathers\0￿?
+\0
+Hij is een museumconservator.\0\0(\0촀\0Die \0Blabbelkous\0￿,( 촀\0 ehn\0\0
+\0 mijn lieve
+broer praat graag honderduit over
+van alles en nog watn\0\0\0\0(촀\0Als je geen haast hebt, is wat hij
+vertelt vaak nog best interessant.
+\0( (2촀\0O,
+ik kan er zelf ook wat van!"
 "103","()촀\0Ik ben hier op aanraden van \0Blathers\0￿
 om de sterrenhemel te bestuderen.
 Enn\0\0	"

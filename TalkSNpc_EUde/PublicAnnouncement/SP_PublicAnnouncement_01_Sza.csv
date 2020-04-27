@@ -135,6 +135,23 @@ an, 
 \0also beeilt euch!
 \0\0\0(""촀\0Wir sehen uns auf dem Festplatz!
 Ò"
+"008_01_01","(촀\0Und nicht vergessen!
+\0
+(촀\0Der \0Häschentag \0￿ist nur einen
+kleinen Hüpfer entfernt!(\0촀\0\0\0(촀\0Das heißt wohl auch, 
+\0uns steht
+ein Wetterwechsel bevor.\0\0(1촀\0Eine Jahreszeit verabschiedet sich
+
+\0($촀\0und die nächste zieht herauf."
+"008_01_02","(촀\0Heute istn\0\0
+\0(촀\0 \0Häschentag\0￿! 
+\0(Auf dem
+Festplatz wird heute gefeiert.
+\0 Wir
+haben sogar einen besonderen Gast!\0\0(촀\0Ich wünsche euch allen ganz viel
+Spaß! 
+\0(%촀\0Schaut einfach mal auf dem
+Festplatz vorbei."
 "010","(촂\0Hallo miteinander!
 \0 Ich störe euch nur
 ungern in eurem Tagesablauf, 
@@ -146,8 +163,7 @@ Zeit für eine Insel-Durchsage!"
 "011_01","(촀\0Oh,
 \0 heute hat n\0 Geburtstag!"
 "011_02","(촀\0Oh,
-\0 heute hat s\0촀 Geburtstag!
-"
+\0 heute hat s\0촀 Geburtstag!"
 "011_03","(촀\0Oh,
 \0 heute hat s촀 Geburtstag!"
 "012_01_01","(촀\0Oh,
@@ -160,7 +176,7 @@ Bewohner Geburtstag,
 Bewohner Geburtstag,
 \0 und zwar
 s\0촀 undn"
-"012_02_01","s\0촀!"
+"012_02_01","2\0s\0촀!"
 "012_02_02","s촀!"
 "012_02_03","(촀\0Noch viele andere!
 \0 Toll, 
@@ -192,13 +208,13 @@ auf unserer Insel gefallen wird!"
 auf der Insel begrüßen zu dürfen!"
 "200","Und leider muss ich auch noch
 das Folgende verkündenn"
-"201","Morgen verabschieden wir uns auf n\0 von 2&촀unseremunserer\0 2&촀FreundFreundin\0 s촀.\0\0Es ist kein leichter Abschied, 
+"201","(%촀\0Morgen verabschieden wir uns auf n\0 von 2&촀unseremunserer\0 2&촀FreundFreundin\0 s촀.\0\0(9촀\0Es ist kein leichter Abschied, 
 \0aber
-wir wünschen 2촀ihmihr\0 Glück bei 2 촀seinen
+wir wünschen 2촀ihmihr\0 Glück bei 2 촀seinen
 ihren\0
-nächsten Abenteuern.\0\0Schaut heute noch mal für ein letztes
-Gespräch bei 2촀ihmihr\0 vorbei.
-\0 Und nehmt
+nächsten Abenteuern.\0\0(촀\0Schaut heute noch mal für ein letztes
+Gespräch bei 2촀ihmihr\0 vorbei.
+\0 (\0촀\0Und nehmt
 vielleicht Taschentücher mit."
 "301","(촀\0Heute haben wir Besuch auf dem
 \0Campingplatz\0￿!"
@@ -215,7 +231,9 @@ bei unserem Gast vorbei!"
 "600_01","(촀\0Oh, eine Sache noch!"
 "600_02","(촀\0Huch, fast hätte ich es vergessen..."
 "600_03","(촀\0Oh!
-\0(촀\0 Das hier ist noch wichtig!"
+\0((촀\0 Das hier ist wichtig, 
+\0also
+gut aufpassen!"
 "602","(촀\0Der Wetterbericht sagt, 
 \0dass uns
 heute Nacht ein seltenes Schauspiel
@@ -742,13 +760,13 @@ Plaudertaschen!\0\0(1촀\0Sie redenn\0\0
 \0 und redenn"
 "825","(촀\0Hey! 
 \0(&촀\0Hat irgendwer die Kochshow
-gestern gesehen?\0\0(촀\02L촀Der scharfeDie scharfeDas scharfe 촀 hat sehr lecker ausgesehen!\0\0(촀\0Vielleicht probiere ich das Rezept
+gestern gesehen?\0\0(촀\02L촀Der scharfeDie scharfeDas scharfe 촀 hat sehr lecker ausgesehen!\0\0(촀\0Vielleicht probiere ich das Rezept
 heute mal selbst aus.
 \0 Wünscht mir
 viel Glück!"
 "826","(촀\0Hat denn gestern jemand den
 Dokumentarfilm im Fernsehen
-gesehen?\0\0(촀\0Es ging um die Geschichte 2!촀desderdes
+gesehen?\0\0(촀\0Es ging um die Geschichte 2""촀desderdes
 2촃촀.
 \0 Wirklich sehr informativ!\0\0()촀\0Zum Beispiel weiß ich jetzt, dass
 mich Filme über 촀 direkt einschlafen lassen!(촀\0

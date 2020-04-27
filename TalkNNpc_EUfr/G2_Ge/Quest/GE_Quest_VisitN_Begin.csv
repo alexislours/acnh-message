@@ -17,7 +17,7 @@ tout ! On va chez moi ?"
 se raconte les derniers ragots,
 mieux vaut le faire chez moi !"
 "003_a","Allons-y !"
-"003_b","Une autre fois."
+"003_b","(\0촀\0Une autre fois."
 "004","(%촀\0Pas de souci, hein ?
 \0(촀\0 On remet ça
 à plus tard !"
@@ -116,7 +116,7 @@ un de ces quatre ?\0\0(촀\0On pourrait discutern\0\0
 sais, (촀\0j'adore discuter en sachant
 que mes meubles m'écoutent !"
 "401_a","Bonne idée !"
-"401_b","J'ai du travail..."
+"401_b","(\0촀\0J'ai du travail..."
 "402","( 촀\0Tiens, n\0.\0\0(촀\0Cette nuit, j'ai rêvé que j'étais dans
 mon salon, et tout à coup, j'ai vu un
 poisson qui flottaitn\0\0 tranquillen\0\0

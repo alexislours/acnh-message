@@ -1,10 +1,14 @@
 ﻿"label","text"
-"0001","Tu t'appelleras donc
-\0s\0촀\0￿, c'est bien ça ?"
+"0001","Tu as choisi « \0s\0촀 \0￿» ?
+\0K\0Tout le monde doit pouvoir se sentir bien
+dans Animal Crossing, alors n'inclus
+rien de personnel ou d'offensant.\0￿\0d"
 "0001_a","Modifier"
 "0001_b","OK"
-"0003","Tu proposes que l'île s'appelle
-\0\0s촀\0￿, c'est bien ça ?"
+"0003","Tu as choisi « \0\0s촀\0￿ » ?
+\0K\0Tout le monde doit pouvoir se sentir bien
+dans Animal Crossing, alors n'inclus
+rien de personnel ou d'offensant.\0￿\0d"
 "0003_a","Modifier"
 "0003_b","OK"
 "0004","Tu as inclus un ou plusieurs mots qui
@@ -54,6 +58,10 @@ tu ne peux rien porter de plus !"
 "0301","Tes poches sont trop pleines,
 tu ne peux rien porter de plus !"
 "0301_a","OK"
+"0303_a","OK"
+"0304_a","OK"
+"0307","Réception du courriern"
+"0308","Vérification des donnéesn"
 "0310","Un peu de patience, d'accord ?"
 "0321","Tu ne peux pas ajouter à tes favoris un
 message que tu n'as pas encore lu !"
@@ -65,6 +73,21 @@ ajouté à tes favoris !"
 Z\0 messages à tes favoris !"
 "0333","Tu ne peux pas jeter les messages
 auxquels sont joints des cadeaux !"
+"0334","Un ami t'a envoyé une carte !
+Tu peux écrire et envoyer
+des cartes depuis l'aéroport !"
+"0335","Une fois qu'une carte a été reçue,
+elle est sauvegardée dans la console
+Nintendo Switch et ne peut pas être
+reçue à nouveau. Les cartes non
+reçues sont conservées sur le
+serveur pendant 90 jours. Après ce
+délai, elles sont effacées.\0\0Jusqu'à 300 cartes peuvent être
+sauvegardées sur le serveur.
+Au-delà, les cartes sont effacées en
+commençant par les plus anciennes.
+Les cartes effacées ne peuvent plus
+être reçues."
 "0402","Entre une date dans l'avenir."
 "0501","Tu n'as aucun endroit pour ranger
 les vêtements que tu ne portes pas !"
@@ -86,10 +109,10 @@ puisse constituer une tenue !"
 l'espace de rangement de ta maison
 pour le moment."
 "0601","Tu n'as pas assez de miles."
-"0602","Seuls les membres \0Miles Nook+\0￿ 
+"0602","Seuls les membres \0Miles Nook +\0￿ 
 peuvent commander cet article.
-\0\0Le service Miles Nook+ est réservé
-aux clients propriétaires d'une maison.\0￿"
+\0\0Le service Miles Nook + est réservé
+aux signataires d'un contrat immobilier.\0￿"
 "0603","Il n'est possible d'échanger
 que jusqu'à cinq articles \0livrés
 par voie postale\0￿ par jour."
@@ -108,6 +131,47 @@ quand tu leur ouvres l'accès à ton île."
 pas accueillir davantage de visiteurs
 pour le moment."
 "0803_a","Retour"
+"0804","\0Respecte les autres joueurs !\0￿ Ne
+partage pas de contenu personnel
+ou illégal, contraire aux droits des
+autres joueurs, ou susceptible de
+les offenser.\0\0Ne triche pas et ne te comporte pas
+de façon à énerver les autres joueurs.
+Le code de conduite Nintendo
+s’applique au comportement en jeu,
+ainsi qu’à tout contenu partagé.\0\0S’il s’avère que ton comportement ou
+qu’un contenu que tu as créé viole ce
+code, des sanctions peuvent être
+prises, allant jusqu’à la suppression
+de contenu sur le serveur ou la
+restriction de l’accès au jeu en ligne.\0\0Pour signaler tout contenu ou
+comportement inapproprié, appuie
+sur \0\0￿.
+
+Garde le code de conduite Nintendo
+en tête et respecte les autres
+joueurs. "
+"0804_a","OK"
+"0805","La session a été terminée de force,
+car un participant n'a pas mis fin à sa
+conversation, ou n'a pas fermé une
+fenêtre après un certain temps. Par
+conséquent, la progression depuis la
+dernière sauvegarde est perdue."
+"0805_a","OK"
+"0806","Suite à une erreur de communication,
+les informations de destination ne
+peuvent pas être affichées."
+"0806_a","Retour"
+"0810","Veux-tu essayer à nouveau
+de te connecter à Internet ?"
+"0810_a","Laisse tomber."
+"0810_b","On réessaie."
+"0820","Ta photo de profile n'a pas pu être
+envoyée. Si le problème persiste,
+prend une nouvelle photo de profil
+et réessaie."
+"0820_a","Fermer"
 "0921","Tu peux publier jusqu'à deux
 messages au cours d'un voyage."
 "0921_a","OK"
@@ -151,9 +215,6 @@ pour Z\0 ?\0￿"
 L'article sera livré chez toi
 très bientôt par voie postale."
 "1108_a","OK"
-"1109","Ta commande pour \0s\0촀\0￿
-a bien été enregistrée !"
-"1109_a","OK"
 "1111","Les commandes sont limitées à
 5 articles par client et par jour."
 "1111_a","Fermer"
@@ -170,25 +231,73 @@ et annuler ta commande concernant
 et ne peut pas être commandé
 pour le moment."
 "1114_a","OK"
+"1115","À qui veux-tu l'envoyer ?"
+"1115_a","Un résident"
+"1115_b","Un ami"
+"1115_c","Annuler"
+"1116","L'article n'a pas pu être envoyé.
+Veux-tu réessayer ?"
+"1116_a","Annuler"
+"1116_b","Réessayer"
+"1117","Connexion à Internet..."
+"1118","Envoi de l'article...
+\0\0Sauvegarde en cours, n'appuie pas
+sur le bouton POWER .\0￿"
+"1119","La somme de \0Z\0
+\0￿va t'être restituée."
+"1119_a","OK"
+"1120","L'article a été envoyé
+à \0s\0촀\0￿."
+"1120_a","OK"
+"1121","Tu ne peux pas passer commande
+quand tu as de la visite."
+"1121_a","OK"
+"1122","Tu ne peux pas passer commande
+quand tu es en voyage sur l'île d'un
+autre joueur."
+"1122_a","OK"
+"1123","Tu ne peux pas passer commande
+tant que l'accès de l'aéroport est
+ouvert."
+"1123_a","OK"
+"1124","Tu ne peux pas passer commande
+pour le moment. Désactive les
+communications depuis le guichet
+de l'aéroport."
+"1124_a","OK"
 "1201","Veux-tu vraiment effacer le motif
-« s촀 » ?"
+« \0s촀\0￿ » ?"
 "1201_a","Euh, non !"
 "1201_b","On efface."
 "1202","Veux-tu effacer le motif
-« s촀 »,
-créé par s\0촀 ?"
+« \0s촀\0￿ »,
+créé par \0s\0촀\0￿ ?"
 "1202_a","Euh, non !"
 "1202_b","On efface."
 "1203","Choisis un autre motif personnalisé
 à effacer pour libérer de la place."
 "1203_a","OK"
 "1204","Veux-tu vraiment effacer le motif
-« s촀 »,
-sauvegardé par s\0촀 ?"
+« \0s촀\0￿ »,
+sauvegardé par \0s\0촀\0￿ ?"
 "1204_a","Euh, non !"
 "1204_b","On efface."
-"1300","Les données de sauvegarde vont
-être effacées.
+"1221","Veux-tu vraiment écraser le motif
+« \0s촀\0￿ » ?"
+"1221_a","Euh, non !"
+"1221_b","On écrase."
+"1222","Veux-tu vraiment écraser le motif
+« \0s촀\0￿ »
+créé par \0s\0촀\0￿ ?"
+"1222_a","Euh, non !"
+"1222_b","On écrase."
+"1224","Veux-tu vraiment écraser le motif
+« \0s촀\0￿ »
+sauvegardé par \0s\0촀\0￿ ?"
+"1224_a","Euh, non !"
+"1224_b","On écrase."
+"1300","Effacement des données de
+sauvegarde...
 \0\0Ne touche pas au bouton POWER .\0￿"
 "1308","La date à laquelle est paramétrée
 la console n'est pas compatible.\0\0Quitte le jeu depuis le menu HOME,
@@ -220,7 +329,7 @@ depuis les paramètres de la console
 du menu HOME et redémarre le jeu."
 "1328","キャラクターの\0\0
 なまえ名前や
-ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが
 このまま\0\0はじ始めますか？
 
 Le nom des personnages et certains
@@ -319,7 +428,7 @@ d'une langue à l'autre. Continuer ?"
 "1338_a","Нет / Non"
 "1338_b","Да / Oui"
 "1339","캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Le nom des personnages et certains
@@ -335,7 +444,7 @@ Le nom des personnages et certains
 d'une langue à l'autre. Continuer ?"
 "1340_a","否 / Non"
 "1340_b","是 / Oui"
-"1341","角色名稱或遊戲內的顯示將會改變，
+"1341","角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Le nom des personnages et certains
@@ -347,8 +456,7 @@ d'une langue à l'autre. Continuer ?"
 ホームHOMEメニューの　\0\0せってい設定で
 \0\0もと元の\0\0
 げんご言語に　\0\0もど戻してから
-ゲームを\0\0
-さいきどう再起動してください。
+ゲームを\0\0さいかい再開してください
 
 Réinitialise les paramètres de langue
 depuis les paramètres de la console
@@ -436,14 +544,15 @@ du menu HOME et redémarre le jeu."
 Réinitialise les paramètres de langue
 depuis les paramètres de la console
 du menu HOME et redémarre le jeu."
-"1355","請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+"1355","請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Réinitialise les paramètres de langue
 depuis les paramètres de la console
 du menu HOME et redémarre le jeu."
 "1356","\0\0ぜんかい前回プレイ\0\0じ時と
-\0\0げんごせってい言語設定が\0\0こと異なるようです。
+\0\0げんごせってい言語設定が\0\0こと異なるようです
 
 Les paramètres de langue ont été
 modifiés depuis la dernière fois que
@@ -528,7 +637,7 @@ modifiés depuis la dernière fois que
 tu as joué."
 "1366_a","Далее / Suivant"
 "1367","지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 Les paramètres de langue ont été
 modifiés depuis la dernière fois que
@@ -540,12 +649,113 @@ Les paramètres de langue ont été
 modifiés depuis la dernière fois que
 tu as joué."
 "1368_a","下一页 / Suivant"
-"1370","語言設定似乎與上次遊玩時不同。
+"1370","語言設定似乎與上次遊玩時不同
 
 Les paramètres de langue ont été
 modifiés depuis la dernière fois que
 tu as joué."
 "1370_a","下一頁 / Suivant"
+"1372","Les données de sauvegarde vont
+être mises à jour suite à la mise
+à jour du logiciel."
+"1372_a","OK"
+"1373","Mise à jour des données
+de sauvegarde...
+\0\0N'appuie pas sur
+le bouton POWER .\0￿"
+"1374","Les données de sauvegarde ont été
+mises à jour. Le jeu va démarrer."
+"1374_a","OK"
+"1401","Tu as envoyé une demande de
+meilleurs amis à \0s\0촀\0￿."
+"1402","2\0\0s\0촀\0￿ fait maintenant
+partie de tes meilleurs amis !"
+"1403","Tu as retiré la demande de meilleurs
+amis envoyée à \0s\0촀\0￿."
+"1404","Tu as rejeté la demande
+2
+de d'⁠\0s\0촀\0￿."
+"1405","\02\0s\0촀\0￿ et toi ne profitez
+plus des fonctionnalités réservées
+aux meilleurs amis."
+"1405_a","OK"
+"1406","Tu as atteint le nombre maximum
+de meilleurs amis. Tu ne peux pas
+envoyer d'autres demandes."
+"1406_a","OK"
+"1407","Tu as atteint le nombre maximum
+de demandes envoyées. Tu ne peux
+pas envoyer d'autres demandes."
+"1407_a","Retour"
+"1408","Cette personne a atteint le nombre
+maximum de demandes reçues. Tu ne
+peux pas lui envoyer de demande."
+"1408_a","Retour"
+"1409","Tu as atteint le nombre maximum
+de meilleurs amis. Tu ne peux pas
+accepter cette demande."
+"1409_a","Retour"
+"1410","Vous ne pouvez pas devenir
+meilleurs amis car tu as atteint le
+nombre maximal de demandes."
+"1410_a","Retour"
+"1411","Cette demande a déjà été retirée."
+"1411_a","Retour"
+"1412","Tu ne peux pas retirer de ta liste
+de meilleurs amis quelqu'un avec
+qui tu es en train de jouer."
+"1412_a","Retour"
+"1413","L'autre joueur a effectué une action,
+la liste va être mise à jour."
+"1413_a","OK"
+"1414","Veux-tu vraiment retirer ce joueur
+de la liste des meilleurs amis ?"
+"1414_a","Retour"
+"1414_b","Retirer"
+"1430","Cette fonction n'est pas disponible
+lorsque la communication sans fil
+locale est activée."
+"1430_a","Retour"
+"1431","Cette fonction n'est pas disponible
+lorsque tu joues en groupe avec
+d'autres résidents."
+"1431_a","Retour"
+"1432","Pour utiliser cette fonctionnalité,
+il te faut avoir enregistré au moins
+un meilleur ami."
+"1432_a","Retour"
+"1433","La liste doit être mise à jour pour que
+ta demande soit prise en compte.
+Veux-tu mettre la liste à jour ?"
+"1433_a","Retour"
+"1433_b","Mettre à jour"
+"1450","Une connexion Internet est nécessaire
+pour utiliser cette fonctionnalité.
+Veux-tu te connecter à Internet ?"
+"1450_a","(\0촀\0Non."
+"1450_b","(\0촀\0Oui !"
+"1451","Activer la communication ?"
+"1451_a","Laisse tomber."
+"1451_b","(\0촀\0Oui !"
+"1452","Désactiver la communication ?"
+"1452_a","Laisse tomber."
+"1452_b","(\0촀\0Oui !"
+"1453","Appuie sur \0\0￿ pour activer la fonction
+de communication qui te permettra
+d'envoyer des messages."
+"1453_a","OK"
+"1454","\02\0s\0촀\0￿ est hors ligne.
+Tu ne peux pas lui envoyer
+de message."
+"1454_a","Retour"
+"1455","Tu ne peux pas envoyer de message
+si aucun autre joueur n'est en ligne."
+"1455_a","Retour"
+"1456","La communication a été interrompue en
+raison d'une connexion de mauvaise
+qualité avec le réseau. Réactive la
+communication et réessaie."
+"1456_a","Retour"
 "1501","Tu veux vraiment jeter aux orties tous
 les changements que tu as faits ?"
 "1501_a","Nooon !"
@@ -564,7 +774,7 @@ câble à la console, la manette Pro ne
 peut pas lire les amiibo.\0￿"
 "1605","\0s촀\0￿ est déjà à Photopia."
 "1606","\0s촀\0￿ ne peut pas
-être invité2촀\0e\0 à Photopia."
+être invité2촀\0e\0 à Photopia."
 "1607","Il n'est pas possible d'inviter plus
 de 10 personnages à la fois."
 "1608","Il n'y a pas suffisamment d'espace
@@ -584,11 +794,45 @@ paramétrage rapide et le désactiver."
 "1701","Il n'y a pas la moindre différence
 avec ta maison actuelle !"
 "1701_a","Retour"
-"1801","2\0s\0촀 n'a pas encore
+"1801","\02\0s\0촀\0￿ n'a pas encore
 d'endroit où habiter. Tu ne peux
 donc pas lui envoyer de courrier
 pour le moment."
 "1801_a","Retour"
+"1900","Veux-tu signaler \0s\0촀\0￿ ?"
+"1900_a","(\0촀\0Annuler."
+"1900_b","(\0촀\0Signaler."
+"1920","Signalement terminé."
+"1920_a","OK"
+"1921","Le signalement n'a pas pu être envoyé."
+"1921_a","(\0촀\0Tant pis."
+"1921_b","(\0촀\0Réessayons !"
+"1930","Tu ne peux pas envoyer de
+signalement si la communication
+sans fil locale est activée."
+"1930_a","Retour"
+"1931","Tu ne peux pas envoyer de
+signalement car le jeu n'a
+jamais été connecté à Internet."
+"1931_a","Retour"
+"1932","Tu ne peux pas signaler cette
+publication."
+"1932_a","Retour"
+"1933","Tu ne peux pas signaler cette carte."
+"1933_a","Retour"
+"1936","Tu ne peux pas signaler ce motif."
+"1936_a","Retour"
+"1938","Tu ne peux pas effectuer un
+signalement sur ton propre compte."
+"1938_a","OK"
+"1940","L'auteur n'est pas un joueur en ligne.
+Tu peux en revanche envoyer un
+signalement contre \0s\0촀\0￿
+qui ne l'a pas effacé."
+"1941","Ce motif n'a pas été publié en ligne.
+Tu peux en revanche envoyer un
+signalement contre \0s\0촀
+\0￿qui ne l'a pas effacé."
 "2001","Tu n'as pas assez d'argent sur toi."
 "2001_a","OK"
 "2002","Tu n'as pas de place dans
@@ -605,6 +849,40 @@ rangement pour cet achat."
 ce que tu as choisi ?"
 "2005_a","('촁\0Non merci."
 "2005_b","(%촁\0Oh, oui !"
+"2101","Veux-tu te connecter à Internet et
+télécharger un motif personnalisé
+créé dans un jeu sur Nintendo 3DS ?"
+"2101_a","Retour"
+"2101_b","(\0촀\0Télécharger"
+"2102","« \02\0s촀\0￿ »
+Ce motif personnalisé a été trouvé.
+Choisis un emplacement de sauvegarde."
+"2102_a","Retour"
+"2102_b","Je veux !"
+"2103","« \02\0s촀\0￿ »
+Ce motif pro a été trouvé. Choisis
+un emplacement de sauvegarde."
+"2103_a","Retour"
+"2103_b","Je veux !"
+"2110","Impossible de trouver un motif
+personnalisé créé dans un jeu
+sur Nintendo 3DS.
+
+Connecte-toi à \0NookLink\0￿ depuis
+l'application Nintendo Switch Online
+pour lire un QR Code."
+"2120","Tu as débloqué l'onglet des
+motifs personnalisés pro."
+"2140","\0Motifs pro
+\0￿Les motifs pro permettent aux joueurs
+de travailler leurs créations avec
+encore plus de détails.\0\0Pour créer ou modifier un motif pro,
+vous devez mettre à jour l'appli Motifs
+persos. \0\0La mise à jour n'est pas
+nécessaire pour porter des motifs pro.\0￿\0\0Si vous voulez obtenir la mise à jour
+de l'appli Motifs persos, échangez des
+miles Nook au \0Nook Stop\0￿ du \0bureau
+des résidents\0￿."
 "2201","Ton épargne est vide."
 "2202","Tu ne peux rien déposer de plus."
 "2203","Tu ne peux rien retirer car
@@ -615,6 +893,100 @@ le maximum autorisé, le surplus sera
 perdu. C'est OK pour toi ?"
 "2301_a","Non."
 "2301_b","C'est OK !"
+"2401","Ton profil comprend du contenu
+en violation du code de conduite
+Nintendo. Vérifie la photo de ton
+passeport et ton commentaire, et
+ajuste-les au besoin afin qu'ils ne
+dérangent pas les autres joueurs
+qui seraient amenés à les voir."
+"2401_a","OK"
+"2421","\0\0À lire avant de publier un motif :\0￿
+Les motifs persos que tu publies
+sont visibles par tous les joueurs
+du monde.\0\0Ne publie pas de motifs au contenu
+illégal ou dérangeant pour les autres
+joueurs.\0\0Les motifs publiés peuvent être
+effacés du serveur s'ils sont jugés
+inappropriés ou en violation du
+code de conduite Nintendo."
+"2421_a","OK"
+"2422","Ton motif a été publié ! Son identifiant
+est : \0촀\0￿.
+Veux-tu partager cette information
+sur les réseaux sociaux ?"
+"2422_a","Non."
+"2422_b","Oui !"
+"2423","Ton motif n'a pas pu être publié.
+Veux-tu réessayer ?"
+"2423_a","Non."
+"2423_b","Oui !"
+"2424","As-tu fini d'utiliser la borne ?"
+"2424_a","Non."
+"2424_b","Oui !"
+"2425","Merci pour l'intérêt que tu portes à
+la publication de motifs !\0\0Tu es à présent officiellement styliste !
+Ton identifiant (ID) est :
+\0촀\0￿.
+Tu peux vérifier ton identifiant de
+styliste à tout moment sur l'appli
+Passeport dans ton NookPhone."
+"2425_a","OK"
+"2427","Veux-tu publier une autre création ?"
+"2427_a","Menu"
+"2427_b","Oui."
+"2428","Tu ne peux pas publier d'autres
+motifs persos. Tu dois d'abord en
+effacer un. Choisis le motif à effacer."
+"2428_a","Compris !"
+"2429","On dirait que tu n'as pas encore créé
+de motifs persos. Crée un motif perso
+et réessaie."
+"2429_a","Compris !"
+"2430","Il semble que ce motif a déjà été
+publié.
+\0\0Si tu le modifies, tu peux le publier
+à nouveau.\0￿"
+"2430_a","Retour"
+"2431","Recherche de motifs persos..."
+"2432","L'identifiant de styliste que tu as
+entré est le tien. Veux-tu voir tes
+propres créations, \0n\0\0￿ ?"
+"2432_a","Retour"
+"2432_b","Oui, oui."
+"2433","La recherche de l'identifiant
+\0촀\0￿ n'a donné
+aucun résultat. Veux-tu entrer
+l'identifiant à nouveau ?"
+"2433_a","Menu"
+"2433_b","Modifier"
+"2434","Aucun motif n'est associé à l'identifiant
+\0촀\0￿. Veux-tu
+entrer l'identifiant à nouveau ?"
+"2434_a","Menu"
+"2434_b","Modifier"
+"2435","Le motif perso a été effacé."
+"2436","Choisis le motif que tu veux publier."
+"2437","« \02\0s촀\0￿ »...
+Es-tu sûr2\0e de vouloir effacer
+ce motif perso ?"
+"2437_a","Non, attends."
+"2437_b","Oui, efface."
+"2438","Tu n'as publié aucun motif perso."
+"2438_a","Retour"
+"2439","L'appli Motifs persos va démarrer.
+Choisis un emplacement de
+sauvegarde."
+"2440","Tu as saisi l'identifiant d'un de tes
+propres motifs. Veux-tu voir ton
+motif ?"
+"2440_a","Retour"
+"2440_b","Voir mon motif"
+"2441","Le partage sur les réseaux sociaux a
+échoué car une erreur est survenue."
+"2501","Chaque joueur ne peut envoyer que
+deux messages par jour en ligne
+avec Nook Shopping."
 "3001","\0Vends \0￿ce ticket à la boutique
 pour \03 000 clochettes\0￿.
 \0\0Ticket émis directement.\0￿"
@@ -709,9 +1081,9 @@ t'offrir. Accumule les miles Nook !"
 "5012","\0Miles Nook\0￿ avec un \0+\0￿ !
 Tu es passé2\0e au niveau supérieur
 et tu peux désormais utiliser
-les services \0miles Nook +\0￿ !\0\0Avec les \0miles Nook +\0￿, il est encore
+les services \0Miles Nook +\0￿ !\0\0Avec les \0Miles Nook +\0￿, il est encore
 plus facile de gagner des miles au
-quotidien...\0\0... et les membres \0miles Nook +\0￿
+quotidien...\0\0... et les membres \0Miles Nook +\0￿
 bénéficient d'avantages exclusifs !\0\0Profites-en, tire parti des incroyables
 possibilités qui te sont offertes !"
 "5021","\0Bébêtopédie\0￿
@@ -728,9 +1100,9 @@ fonctionnalité !"
 "5041","\0Appeler un habitant\0￿
 Utilise cette application pour inviter
 jusqu'à trois autres résidents (joueurs)
-de l'île à \0jouer en groupe\0￿ avec toi !\0\0Note : chaque joueur doit disposer
-d'une manette avant de commencer
-à jouer."
+de l'île à \0jouer en groupe\0￿ avec toi !\0\0Avant de commencer, assure-toi que
+tous les joueurs disposent d'une
+manette."
 "5051","\0Motifs personnalisés\0￿
 Avec cette application, tu peux
 créer des motifs pour personnaliser
@@ -738,10 +1110,10 @@ tes vêtements ou décorer l'île.
 Il te suffit de sauvegarder tes motifs
 sur l'application pour pouvoir
 les partager avec les autres
-résidents de l'île.\0\0\0\0Il se peut que tes motifs soient vus
-par d'autres joueurs lors des sessions
-de jeu en réseau, par exemple quand
-tu visites une autre île.\0\0N'utilise aucun contenu pouvant porter
+résidents de l'île.\0\0\0\0Il se peut que tes motifs soient vus par
+d'autres joueurs lors des sessions de
+jeu en ligne ou en multijoueur local, par
+exemple quand tu visites une autre île.\0\0N'utilise aucun contenu pouvant porter
 atteinte aux droits d'un tiers, aucune
 information privée (de toi ou d'un
 tiers) ni aucun mot ou image offensant.\0￿"
@@ -778,6 +1150,25 @@ et que tu ne sais pas quoi faire !\0\0Tu seras généralement transporté2\
 chez toi ou au bureau des résidents.
 \0\0Tu dois disposer de miles Nook
 pour bénéficier de ce service.\0￿"
+"5101","\0Meilleurs amis\0￿
+Tu peux utiliser cette appli pour voir
+les amis et meilleurs amis avec
+lesquels tu as joué.\0\0Si un joueur figure parmi tes
+meilleurs amis, tu peux voir
+quand il est en ligne.\0\0Si vous êtes tous les deux en ligne,
+vous pouvez vous envoyer des
+messages par Internet.\0\0\0\0Si tu ne veux pas qu'on sache si tu
+es en ligne, ou si tu ne veux pas
+échanger de messages, appuie sur 
+pour désactiver cette fonctionnalité.\0￿"
+"5102","Tu peux à présent télécharger via
+NookLink des motifs persos publiés
+en lisant un QR Code créé dans un
+jeu sur Nintendo 3DS.
+\0\0Accède aux services liés aux jeux dans
+l'application Nintendo Switch Online,
+puis à NookLink pour savoir comment
+lire le QR Code d'un motif perso.\0￿"
 "5111","\0Remod'île\0￿
 Cette appli te permet de développer
 et de façonner l'île en y supervisant
@@ -803,6 +1194,15 @@ où et n'importe quand !
 Fais tes courses à ton rythme et
 laisse-toi porter par tes envies
 du moment !"
+"5122","\0Historique de tchat\0￿
+Dans cette appli, retrouve toutes les
+conversations que tu as eues
+avec les autres joueurs.
+Tu as raté ce que quelqu'un a dit
+alors que vous jouiez ensemble ?
+Tu veux relire le message qu'un
+de tes meilleurs amis t'a laissé ?\0\0Tout y est ! Cette appli fera bientôt
+partie de tes incontournables !"
 "5201_00_01","\0\0Jeu en groupe\0￿
 Les joueurs résidents peuvent jouer
 ensemble grâce à ce mode. Un joueur
@@ -821,10 +1221,13 @@ Les acolytes n'ont pas accès au
 tchat, au NookPhone ou au contenu
 des poches. Ils peuvent utiliser leurs
 outils, déplacer des objets et aider
-le leader.\0\0Tous les objets récupérés à l'aide de
-leurs outils sont envoyés dans la
-\0boîte de recyclage\0￿ du \0bureau des
-résidents\0￿.\0"
+le leader.\0\0
+
+Tous les objets récupérés par les
+acolytes sont envoyés dans la \0boîte
+de recyclage \0￿du \0bureau des résidents\0￿.
+
+"
 "5201_00_02","\0\0Commandes au Joy-Con à l'horizontale\0￿
 \0Leader\0￿
 \0\0￿ : Ouvrir le NookPhone
@@ -835,10 +1238,10 @@ résidents\0￿.\0"
 "5201_00_03","\0Leader (Joy-Con à l'horizontale)\0￿
 \0\0￿ : Ouvrir le NookPhone / \0 \0￿: Mimique
 \0\0￿ : Contrôler la caméra / Changer d'outil
-
 \0Acolyte (Joy-Con à l'horizontale)\0￿
-\0\0￿ : S'équiper / Changer d'outil
-\0 \0￿: Mimique / \0\0￿ : Répéter l'action"
+\0\0￿ : S'équiper ou changer d'outil
+\0 \0￿: Mimique / \0\0￿ : Refaire la mimique
+\0      \0￿(le cas échéant) / \0\0￿ : Ramasser"
 "5201_00_04","\0\0Commandes
 \0￿\0Leader\0￿
 Identiques à celles du mode solo
@@ -849,9 +1252,9 @@ Identiques à celles du mode solo
 Identiques à celles du mode solo
 
 \0Acolyte (Commandes)
- \0￿: S'équiper / Changer d'outil
-\0 \0￿: Mimique
-\0 \0￿: Répéter l'action"
+ \0￿: S'équiper ou changer d'outil
+\0\0￿ : Ramasser / \0 \0￿: Mimique
+\0 \0￿: Refaire la mimique (le cas échéant)"
 "5201_01","\0\0Jeu en groupe\0￿
 Les joueurs résidents peuvent jouer
 ensemble grâce à ce mode. Un joueur
@@ -870,10 +1273,13 @@ Les acolytes n'ont pas accès au
 tchat, au NookPhone ou au contenu
 des poches. Ils peuvent utiliser leurs
 outils, déplacer des objets et aider
-le leader.\0\0Tous les objets récupérés à l'aide de
-leurs outils sont envoyés dans la
-\0boîte de recyclage\0￿ du \0bureau des
-résidents\0￿.\0\0
+le leader.\0\0
+
+Tous les objets récupérés par les
+acolytes sont envoyés dans la \0boîte
+de recyclage \0￿du \0bureau des résidents\0￿.
+
+
 \0\0Commandes au Joy-Con à l'horizontale\0￿
 \0Leader\0￿
 \0\0￿ : Ouvrir le NookPhone
@@ -899,17 +1305,20 @@ Les acolytes n'ont pas accès au
 tchat, au NookPhone ou au contenu
 des poches. Ils peuvent utiliser leurs
 outils, déplacer des objets et aider
-le leader.\0\0Tous les objets récupérés à l'aide de
-leurs outils sont envoyés dans la
-\0boîte de recyclage\0￿ du \0bureau des
-résidents\0￿.\0\0
+le leader.\0\0
+
+Tous les objets récupérés par les
+acolytes sont envoyés dans la \0boîte
+de recyclage \0￿du \0bureau des résidents\0￿.
+
+
 \0Leader (Joy-Con à l'horizontale)\0￿
 \0\0￿ : Ouvrir le NookPhone / \0 \0￿: Mimique
 \0\0￿ : Contrôler la caméra / Changer d'outil
-
 \0Acolyte (Joy-Con à l'horizontale)\0￿
-\0\0￿ : S'équiper / Changer d'outil
-\0 \0￿: Mimique / \0\0￿ : Répéter l'action"
+\0\0￿ : S'équiper ou changer d'outil
+\0 \0￿: Mimique / \0\0￿ : Refaire la mimique
+\0      \0￿(le cas échéant) / \0\0￿ : Ramasser"
 "5201_03","\0\0Jeu en groupe\0￿
 Les joueurs résidents peuvent jouer
 ensemble grâce à ce mode. Un joueur
@@ -928,10 +1337,13 @@ Les acolytes n'ont pas accès au
 tchat, au NookPhone ou au contenu
 des poches. Ils peuvent utiliser leurs
 outils, déplacer des objets et aider
-le leader.\0\0Tous les objets récupérés à l'aide de
-leurs outils sont envoyés dans la
-\0boîte de recyclage\0￿ du \0bureau des
-résidents\0￿.\0\0
+le leader.\0\0
+
+Tous les objets récupérés par les
+acolytes sont envoyés dans la \0boîte
+de recyclage \0￿du \0bureau des résidents\0￿.
+
+
 \0\0Commandes
 \0￿\0Leader\0￿
 Identiques à celles du mode solo
@@ -956,17 +1368,20 @@ Les acolytes n'ont pas accès au
 tchat, au NookPhone ou au contenu
 des poches. Ils peuvent utiliser leurs
 outils, déplacer des objets et aider
-le leader.\0\0Tous les objets récupérés à l'aide de
-leurs outils sont envoyés dans la
-\0boîte de recyclage\0￿ du \0bureau des
-résidents\0￿.\0\0
+le leader.\0\0
+
+Tous les objets récupérés par les
+acolytes sont envoyés dans la \0boîte
+de recyclage \0￿du \0bureau des résidents\0￿.
+
+
 \0Leader (Commandes)\0￿
 Identiques à celles du mode solo
 
 \0Acolyte (Commandes)
- \0￿: S'équiper / Changer d'outil
-\0 \0￿: Mimique
-\0 \0￿: Répéter l'action"
+ \0￿: S'équiper ou changer d'outil
+\0\0￿ : Ramasser / \0 \0￿: Mimique
+\0 \0￿: Refaire la mimique (le cas échéant)"
 "5202","Félicitations pour la construction de
 ta maison ! Voici quelques conseils
 pour y vivre confortablement :\0\0\0 Éteindre ou allumer la lumière
@@ -981,6 +1396,42 @@ y ranger des objets ou en récupérer.\0\0Quand tu es dans ta maison, tu peux
 ouvrir tes poches pour sélectionner
 du mobilier ou d'autres objets et les
 placer dans l'espace de rangement."
+"5203","\0Tchatte \0￿avec les autres joueurs !\0\0Appuie sur \0 \0￿pour envoyer un
+message à tous les joueurs
+présents.\0\0Tu peux revoir les messages échangés
+dans l'application \0Historique de tchat\0￿
+de ton Nookphone."
+"5301","Lorsque tu \0joues en groupe\0￿, les
+modifications apportées aux motifs
+persos que tu portes ne sont pas
+appliquées automatiquement.
+Si tu veux porter le nouveau motif
+perso, applique-le à nouveau en
+sélectionnant \0Porter\0￿."
+"5302","Un motif perso que tu portes a été
+modifié.
+
+Si tu veux porter le nouveau motif,
+applique-le à nouveau en
+sélectionnant \0Porter\0￿.
+"
+"5303","Un motif perso a été assigné à une
+baguette. Un motif perso enregistré
+dans une tenue n'est pas effacé ou
+écrasé même si tu l'édites.\0\0Mais attention, si tu modifies ou
+ranges la tenue, l'ancien motif sera
+perdu."
+"5304","Cette tenue inclut un motif perso.
+Ce motif perso ne sera pas
+enregistré. Continuer ?"
+"5304_a","On oublie."
+"5304_b","On continue."
+"5305","\0\0Kit coque personnalisable\0￿
+Avec ce kit, tu peux modifier
+l'aspect de ton NookPhone.\0\0Note : l'aspect actuel de la coque
+est conservé même si tu remplaces
+le patron du motif perso que tu lui
+as appliqué."
 "8001","\0Il existe actuellement des données
 de résident pour n\0
 sur cette Nintendo Switch qui ne
@@ -1045,8 +1496,22 @@ de la console est le délégué insulaire
 Tu ne peux pas effacer ces données.\0\0Si tu veux effacer les données d'un
 autre résident, lance le jeu avec
 l'utilisateur associé à ce résident.\0\0Ensuite, appuie sur  à l'écran titre
-pour accéder aux paramètres des
-données de sauvegarde et effacer
-ce résident."
+pour accéder aux paramètres et
+effacer ce résident."
 "8013","Pour fermer cet écran, quitte le jeu
 depuis le menu HOME."
+"8014","Le compte Nintendo associé à cet
+utilisateur est différent de celui utilisé
+précédemment.\0\0Les fonctionnalités utilisant Internet
+(liste des meilleurs amis et autres)
+seront réinitialisées si tu lances cette
+partie.\0\0Veux-tu jouer avec \0s\0촀 \0￿?"
+"8014_a","Je sais pas."
+"8014_b","Oui !"
+"8015","Cet utilisateur n'est pas associé à un
+compte Nintendo.\0\0Les fonctionnalités utilisant Internet
+(liste des meilleurs amis et autres)
+seront réinitialisées si tu lances cette
+partie.\0\0Veux-tu jouer avec \0s\0촀 \0￿?"
+"8015_a","Je sais pas."
+"8015_b","Oui !"

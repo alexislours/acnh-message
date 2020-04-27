@@ -20,7 +20,7 @@ desiertas!
 \0
 (""촂\0Yo soy \0Tendo\0￿,
 \0 un empleado de
-Nook Inc."
+\0Nook Inc.\0￿"
 "002_02","(""촃\0¡Y yo soy \0Nendo\0￿!"
 "003_01","(%촂\0Te acompañaremos en el vuelo
 hacia la isla y te ayudaremos a
@@ -40,7 +40,7 @@ tu \0nombre \0￿y tu \0cumpleaños\0￿?d\0
 A vern\0\0
 d"
 "003_05","(촂\0(촃\0¡Ah! 
-\0¡Aquí estás!"
+\0¡Te encontramos!"
 "005_01","()촂\0Ahora lo que sigue es tomarte
 una foto, n\0.\0\0(촂\0Si deseas unos minutos para
 arreglarte un poco, no te preocupes.
@@ -102,13 +102,13 @@ a una isla desierta,
 "024","(
 촀\0Qué interesanten\0\0\0\0(촀\0¡Ah, perdona!
 \0 (2촀\0Obviamente solo
-era una pregunta hipotética.\0\0(촀\0(촃\0Te aseguramos que Nook Inc.
+era una pregunta hipotética.\0\0(촀\0(촃\0Te aseguramos que \0Nook Inc.\0￿
 cubrirá todas tus necesidades
 básicas en la isla."
 "025","d\0Su atención, por favor.
 ( 촂\0( 촃\0Aviso para todos los pasajeros.
 <\0d"
-"025_01","d\0El vuelo del Paquete Nook Inc. de
+"025_01","d\0El vuelo del Paquete \0Nook Inc.\0￿ de
 escapada a islas desiertas está listo
 para embarcar.
 Se ruega a los pasajeros que se
@@ -143,8 +143,8 @@ mudanza a n\0!\0\0(\0촃\0(촂\0Tenemos muchas cosas para
 explicarte,
 \0(%촂\0 pero primero vamos
 a presentarnos.
-(""촂\0Soy un empleado de Nook Inc.
-y me llamo \0Tendo\0￿."
+(""촂\0Soy un empleado de \0Nook Inc.
+\0￿y me llamo \0Tendo\0￿."
 "102","(%촂\0Ambos ya vivimos en n\0 y nuestra tarea es ayudar a los residentes como tú.
 (촂\0(촃\0Vamos a convivir todos juntos,
 \0 así
@@ -162,3 +162,6 @@ necesitamos!\0\0()촂\0Una vez que arribemos,(%촃\0
 te mostraremos la isla y todo lo que
 puedes hacer allí.(촂\0d\0
 \0(촃\0 \0K¡No te preocupes!\0dd"
+"203_02",""
+"203_03",""
+"203_04",""

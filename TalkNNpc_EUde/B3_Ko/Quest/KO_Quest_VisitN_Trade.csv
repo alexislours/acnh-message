@@ -34,12 +34,16 @@ dir zum rechten Preis verkaufen..."
 (6촀\0Ich verkauf dir aber höchstens
 ein Stück,
 \0 n\0!"
-"008","(5촀\0Ja... Ich habe schon einen guten
+"008","(5촀\0Ja... 
+\0Ich habe schon einen guten
 Geschmack.
-\0 Ich verstehe, wenn du
+\0 Ich verstehe, 
+\0wenn du
 meine Einrichtung nachahmen willst.
-(6촀\0Also gut, ein Teil würde ich dir
-verkaufen, aber nicht mehr."
+(6촀\0Also gut, 
+\0ein Teil würde ich dir
+verkaufen, 
+\0aber nicht mehr."
 "009","(7촀\0Willst mir wohl schmeicheln, indem
 du meinen Stil imitierst...
 \0( (촀\0Aber mehr
@@ -64,20 +68,19 @@ könnten mir darüber hinweghelfen..."
 "100_a","Einverstanden!"
 "100_b","Muss auch nicht sein."
 "101","(촀\0Oh, 
-\0du kennst dich aus,
-n\0!
-\0 2$촀Mein
-MeineMein
-(촀\0}\0\0 also...
-(\0촀\0Wenn du 2촀ihnsiees so sehr haben willst,
+\0du kennst dich aus, 
+\0n\0!
+\0 2$촀Mein
+MeineMein (촀\0}\0\0 also...\0\0(\0촀\0Wenn du 2촀ihnsiees so sehr haben willst,
 \0
 könnten wir uns für (""촀\0Z\0
-einig werden."
+einig werden, 
+\0n\0."
 "101_a","Ich bin dabei!"
 "101_b","Vielleicht doch nicht..."
-"102","(촀\0M2\0}\0\0
-lässt dein Herz höher schlagen?!\0\0(
-촀\0Ich liebe das Ding, aber für
+"102","(촀\0M2\0}\0\0 lässt dein Herz höher schlagen?!\0\0(
+촀\0Ich liebe das Ding, 
+\0aber für
 Z\0 würde ich mich
 davon trennen. 
 \0(&촀\0Einverstanden?"
@@ -117,19 +120,20 @@ Büfett!
 \0 (촀\0Da muss wohl die Post ran..."
 "300","(
 촀\0Jetzt mal langsam... (촀\0Du willst
-2(촀meinen
+2(촀meinen
 meinemein 2촁}촀?!
 \0(
-('촀\0Tut mir leid, 2촀derdiedas gehört zur Familie."
+('촀\0Tut mir leid, 2촀derdiedas gehört zur Familie."
 "301","(촀\0Jetzt geht's aber losn\0\0
 \0 (촀\0Du willst
-2(촀meinen
+2(촀meinen
 meinemein 2촁}촀?!
 \0(
 ('촀\0Tut mir leid, 
-\02촀derdiedas gehört zur Familie."
+\02촀derdiedas gehört zur Familie."
 "302","(촀\0Oh, n\0...
-\0 ('촀\0Tut mir leid, aber
+\0 ('촀\0Tut mir leid, 
+\0aber
 m2\0}\0\0
 steht derzeit nicht zum Verkauf."
 "303","(촀\0Nee, das kriegst du nicht. 

@@ -3,36 +3,36 @@
 \0 (촀\0J'ai beau faire,
 \0 je trouve
 pas 2
-de d'⁠}촀 !\0\0(촀\0Je les ai effrayé2촀\0e\0s et 2촀ils
+de d'⁠}촀 !\0\0(촀\0Je les ai effrayé2촀\0e\0s et 2촀ils
 elles\0 se cachent
-2촀toustoutes\0,
+2촀toustoutes\0,
 \0 ou quoi ?
 \0 (
 촀\0Mais qu'est-ce que
 j'ai fait,
 \0 au juste, n\0 ?"
 "003_a","(\0촁\0Je peux t'aider !
-(\0촁\0Je t'en trouverai 2촀unune\0."
+(\0촁\0Je t'en trouverai 2촀unune\0."
 "003_b","(\0촁\0Tu peux y arriver !
 (\0촁\0Bonne chance !"
 "004","Il paraît que pour devenir champion
-de 촀, il faut bouger comme 2촀unune\0 }촀.\0\0(
-촀\0Cette façon qu'2촀ilelle\0 a de se déplacer,
+de 촀, il faut bouger comme 2촀unune\0 }촀.\0\0(
+촀\0Cette façon qu'2촀ilelle\0 a de se déplacer,
 \0
 c'est quelque chose que je devrais
 intégrer dans mon entraînementn\0\0\0\0(촀\0Mais pour l'étudier,
 \0 il faudrait
 d'abord réussir à en attraper
-ne serait-ce qu'2*촀un seulune seule\0n"
+ne serait-ce qu'2*촀un seulune seule\0n"
 "004_a","(\0촁\0Je vais le faire pour toi !
-(\0촁\0Je t'en capturerai 2촀unune\0."
+(\0촁\0Je t'en capturerai 2촀unune\0."
 "004_b","(\0촁\0Tu peux le faire !
 (\0촁\0Allez, courage !"
 "008","(촀\0J'ai fait tous les efforts possibles,
 \0
 ('촀\0mais j'arrive vraiment pas à attraper
 2
-de d'⁠}촀 !\0\0(촀\0Peut-être qu'2촀ils
+de d'⁠}촀 !\0\0(촀\0Peut-être qu'2촀ils
 elles\0 se cachent ?
 \0 Mais
 où ça, alors ?!
@@ -42,13 +42,13 @@ tout le temps au mauvais endroit !\0\0(촀\0Oh !
 l'eau, et la seule chose que je vais
 attraper, c'est un rhume carabiné !"
 "008_a","(\0촁\0Tu veux que je t'aide ?
-(\0촁\0Je t'en pêcherai 2촀unune\0."
+(\0촁\0Je t'en pêcherai 2촀unune\0."
 "008_b","(\0촁\0Ça finira par mordre.
 (\0촁\0Allez, bonne chance !"
-"009","(%촀\0Observer la façon dont nage 2촀unune\0 }촀 aide à progresser en 촀.\0\0(촀\0J'adorerais pouvoir en étudier 2촀unune\0
+"009","(%촀\0Observer la façon dont nage 2촀unune\0 }촀 aide à progresser en 촀.\0\0(촀\0J'adorerais pouvoir en étudier 2촀unune\0
 de prèsn\0\0
 \0 (촀\0mais j'arrive pas à en
-attraper 2*촀un seulune seule\0 !"
+attraper 2*촀un seulune seule\0 !"
 "009_a","(\0촁\0Je vais m'en charger !
 (\0촁\0Je vais te pêcher ça."
 "009_b","(\0촁\0Ne te décourage pas !
@@ -93,10 +93,8 @@ me débrouillerai seul, n\0 !"
 n\0 !"
 "018","(촀\0Merci,
 \0 n\0 !
-\0 Tu m'as
-convaincu :
-\0 je devrais finir par y
-arriver moi-même, (촀\0n\0."
+\0 Tu m'as convaincu :
+\0 je devrais finir par y arriver moi-même, (촀\0n\0."
 "021","(촀\0Les scarabées à corne ont un corps
 superbe,
 \0 super costaud.
@@ -116,7 +114,7 @@ l'espèce ?"
 "021_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","(촀\0Les espèces de pinces des lucanes,
@@ -140,7 +138,7 @@ un lucane,
 "022_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","(1촀\0Pour produire leur chant,
@@ -149,15 +147,13 @@ que les cigales ont de fantastiques
 muscles abdominaux !\0\0(%촀\0Peut-être qu'en m'exerçant à imiter
 ce bruitn\0\0 ça m'aiderait à renforcer
 mes propres abdos, n\0 ?\0\0(촀\0Hé, n\0,
-\0 tu voudrais
-bien m'attraper une cigale ?
-\0 Ça nous
-rendrait service,
+\0 tu voudrais bien m'attraper une cigale ?
+\0 Ça nous rendrait service,
 \0 à moi et mes abdos."
 "023_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","(1촀\0J'aimerais bien être capable de voler
@@ -175,7 +171,7 @@ de plus près.
 "025_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(촀\0Les libellules sont super rapides en
@@ -188,20 +184,15 @@ vol,
 (
 촀\0Si je pouvais découvrir le secret de
 leur rapidité époustouflanten\0\0\0\0(\0촀\0Hé, n\0 !
-\0 (촀\0Toi qui es
-2(championchampionne de chasse aux insectes,
-\0
-tu pourrais m'apporter une libellule ?"
+\0 (촀\0Toi qui es 2(championchampionne de chasse aux insectes, tu pourrais m'apporter une libellule ?"
 "026_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "027","(&촀\02\0n\0,
-\0 tu comptes bien
-te faire une place parmi l'élite des
-chasseurs d'insectes, n\0 ?\0\0(촀\0Je m'intéresse aux insectes posés
+\0 tu comptes bien te faire une place parmi l'élite des chasseurs d'insectes, n\0 ?\0\0(촀\0Je m'intéresse aux insectes posés
 sur les fleurs,
 \0 mais je peux pas les
 attraper,
@@ -216,7 +207,7 @@ sur les fleurs,
 "027_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","(촀\0C'est bizarren\0\0
@@ -224,13 +215,11 @@ Malheureusement non."
 à repérer le moindre insecte posé
 sur une souche d'arbre.\0\0(
 촀\0C'est pas sportif de leur part, de pas
-du tout se présenter sur le terrainn\0\0\0\0(\0촀\0Dis, n\0, avec ton œil
-de champion2\0nen\0\0 tu voudrais bien
-en trouver un et me l'apporter ?"
+du tout se présenter sur le terrainn\0\0\0\0(\0촀\0Dis, n\0, avec ton œil de champion2\0nen\0\0 tu voudrais bien en trouver un et me l'apporter ?"
 "028_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","(촀\0Je suis à la recherche d'un poisson
@@ -238,14 +227,12 @@ d'eau douce,
 \0 mais j'ai pas encore
 réussi à en attraper, n\0 !\0\0(촀\0Toi en revanche,
 \0 n\0,
-\0
-2""pêcheurpêcheuse d'élite prêt2\0e à battre des
-recordsn\0\0
+\0 2""pêcheurpêcheuse d'élite prêt2\0e à battre des recordsn\0\0
 \0 (4촀\0tu irais m'en pêcher un ?"
 "031_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","(1촀\0Les poissons d'eau de mer sont d'un
@@ -266,7 +253,7 @@ recordsn\0\0 T'irais m'en pêcher un ?"
 "032_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(촀\02\0n\0 !
@@ -274,7 +261,7 @@ Malheureusement non."
 \0 ('촀\0pas moyen de trouver 2
 de d'⁠}촀 !\0\0(촀\0Désolé de t'embêter avec ça, maisn\0\0
 \0
-(&촀\0tu voudrais bien en attraper 2촀unune\0
+(&촀\0tu voudrais bien en attraper 2촀unune\0
 pour moi, n\0 ?"
 "101_a","Je m'en charge !
 Pas de problème !"
@@ -287,16 +274,14 @@ soit complète,
 2\0}촀 !
 (촀\0Mince alors,
 \0 où pourrais-je bien
-m'en procurer 2촀unune\0 ?!"
-"102_a","(\0촁\0Je t'en capturerai 2촀unune\0.
-(\0촁\0Je vais en trouver 2촀unune\0."
+m'en procurer 2촀unune\0 ?!"
+"102_a","(\0촁\0Je t'en capturerai 2촀unune\0.
+(\0촁\0Je vais en trouver 2촀unune\0."
 "102_b","(\0촁\0Continue à chercher !
 (\0촁\0Tu finiras par trouver !"
 "103","(촀\0La finale de 촀 arrive,
-\0
-l'autre équipe a 10 points d'avance,
-\0
-mais tu nous rapporteras la victoire !\0\0(촀\0Enfinn\0\0
+\0 l'autre équipe a 10 points d'avance,
+\0 mais tu nous rapporteras la victoire !\0\0(촀\0Enfinn\0\0
 \0 tu vas surtout me rapporter
 un insecte,
 \0 hein !
@@ -331,7 +316,7 @@ te demander ça,
 \0 maisn\0\0
 \0 (&촀\0tu voudrais
 bien
-\0 en pêcher 2촀unune\0 pour moi ?"
+\0 en pêcher 2촀unune\0 pour moi ?"
 "201_a","Je m'en occupe !
 Pas de souci !"
 "201_b","C'est pas le moment...
@@ -346,15 +331,13 @@ Désolé2\0e, je peux pas !"
 le nez.
 \0 J'arrive pas à en pêchern"
 "202_a","(\0촁\0Je peux m'en charger.
-(\0촁\0Je t'en pêcherai 2촀unune\0."
+(\0촁\0Je t'en pêcherai 2촀unune\0."
 "202_b","(\0촁\0Tu finiras par l'avoir !
 (\0촁\0Courage, tu y arriveras !"
 "203","(촀\0Merci,
 \0 n\0 !
-\0 (촀\0Je savais
-que t'hésiterais pas à relever le défi !
-\0
-(촀\0Bonne chance, n\0 !"
+\0 (촀\0Je savais que t'hésiterais pas à relever le défi !
+\0 (촀\0Bonne chance, n\0 !"
 "204","(촀\0Oh, t'en fais pas.
 \0 Si même 2(mon rivalma rivale
 hésite à relever le défi,
@@ -373,5 +356,5 @@ tu seras au panthéon des pêcheu2
 \0 (%촀\0T'as raison !
 \0
 Un jour ou l'autre,
-\0 j'en pêcherai 2촀unune\0.
+\0 j'en pêcherai 2촀unune\0.
 (""촀\0À la prochaine, n\0 !"

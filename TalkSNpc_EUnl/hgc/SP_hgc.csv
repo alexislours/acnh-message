@@ -46,8 +46,7 @@ dan maar meteen aan de slag gaann"
 \0 (\0촀\0Laat het me maar weten (촀\0als
 je je bedenkt."
 "007","(촀\0O, hai.
-\0 Ik ben weer op n\0 om meer over mode en ontwerpen te leren.
-Ik wil je niet tot last zijnn\0\0
+\0 Ik ben weer op n\0 om meer over mode en ontwerpen te leren.\0\0Ik wil je niet tot last zijnn\0\0
 \0
 (&촀\0 maar
 heb je toevallig zin om opnieuw
@@ -58,9 +57,9 @@ modestijlen te weten te komen.\0\0(촀\0Heb je toevallig zin 
 \0om weer een
 aantal outfits voor me aan te
 trekken?"
-"009","(""촀\0Ik zal je een kledingstuk geven dat helemaal \0촀\0￿ is, 
-\0dan weet je voor welke look ik wil gaan."
-"010","(촀\0Alsjeblieft. Hier heb je 2\0\0}\0\0\0￿.\0\0()촀\0Hou dat kledingstuk in gedachten als je een \02촃촀\0￿ outfit maakt.\0\0Als je niet weet wat je moet doen,(""촀\0
+"009","(""촀\0Ik zal je een kledingstuk geven dat helemaal bij het \02촃촀\0￿ past!\0\0(%촀\0Dan weet je precies voor welke look
+ik wil gaan."
+"010","(촀\0Alsjeblieft. Hier heb je 2\0\0}\0\0\0￿.\0\0()촀\0Hou dat kledingstuk in gedachten als je een outfit met een \0촀\0￿ samenstelt.\0\0Als je niet weet wat je moet doen,(""촀\0
 kies dan gewoon dingen uit die er
 goed bij passen.\0\0(촀\0Wanneer je ervoor zorgt dat alles van
 top tot teen matcht, zou dat echt
@@ -78,9 +77,9 @@ wat leger zijn, dan geef ik het je dan
 wel."
 "012","(촀\0Ik blijf hier wachten, dus kom maar
 een keertje terug als het je uitkomt."
-"013","(""촀\0Het 2촀isiszijn 2\0\0}\0\0\0￿, zie je?\0\0()촀\0Probeer nu een outfit samen te
-stellen waarvan je denkt, ja, dit is
-écht \0촀\0￿.\0\0Met andere woorden:
+"013","(""촀\0Het 2촀isiszijn 2\0\0}\0\0\0￿, zie je?\0\0()촀\0Probeer nu een outfit samen te
+stellen waarvan je denkt, ja, dit past
+écht bij een \0촀\0￿.\0\0Met andere woorden:
 \0
 (촀\0 kies iets om te
 dragen dat goed past bij wat ik je net
@@ -91,7 +90,7 @@ heb gegeven."
 wat leger maken en daarna weer hier
 terugkomen."
 "015","(촀\0Ik wacht hier op je, oké?"
-"016","(""촀\0Zoals je ziet 22촀is hetis hetzijn het 2\0\0}\0\0\0￿. Ik vind 2촀hemhetze echt heel \0촀\0￿.\0\0Goed,
+"016","(""촀\0Zoals je ziet 22촀is hetis hetzijn het 2\0\0}\0\0\0￿. Typisch voor een \0촀\0￿.\0\0Goed,
 \0
 (촀\0 nu is het aan jou om een outfit
 samen te stellen met dat thema in
@@ -132,7 +131,7 @@ ik die outfit eens wat beter bekijken?"
 het goed als ik je outfit wat beter
 bekijk?"
 "028_a","(%촀\0Ja, prima!"
-"028_b","('촀\0Geef me nog even."
+"028_b","(\0촀\0Geef me nog even."
 "029","(촀\0O, 
 \0
 oké.
@@ -153,7 +152,9 @@ als je nodig hebt. 
 geval hier."
 "032","(""촀\0O, trouwens,
 \0
- ik heb je het 촀2촃 kledingstuk nog niet gegeven."
+ ik heb je het
+kledingstuk nog niet gegeven dat
+past bij een \0촀\0￿."
 "035","( 촀\0Ehn\0\0
 \0 volgens mij
 \0(촀\0 draag je een
@@ -188,7 +189,8 @@ wacht hier op je."
 \0Ben je toevallig 
 \0(촀\0momenteel
 bezig met een bouwproject?\0\0(\0촀\0Ik zou het fijn vinden als je eerst je
-helm afdoet (%촀\0voordat je me een outfit
+helm afdoet 
+\0(%촀\0voordat je me een outfit
 komt laten zien.\0\0(촀\0Maak gerust eerst je werk af en kom
 dan weer terug. 
 \0Zonder helm deze
@@ -260,8 +262,8 @@ was."
 "048","(""촀\02\02\0}\0.
 \0 Hopelijk vind je het wat.
 \0
-(촀\0 Het is een ontwerp van mijn eigen modelabel.
-(7촀\0Mijn label is nieuw, dus het is nog niet zo bekend.
+(촀\0 Het is een ontwerp van mijn eigen modelabel.\0\0(7촀\0Mijn label is nieuw, dus het is nog
+niet zo bekend.
 \0 Het heet 
 \0
 (촀\0\0Labelle\0￿.\0\0(%촀\0Toen ik begon als modeontwerpster,
@@ -278,7 +280,7 @@ Label\0￿,
 \0
 Ik hoop dat dat niet al te
 verwarrend was."
-"049","(촀\0Alsjeblieft, nog een ontwerp van mijn eigen label. Het 2촀isiszijn 2\0\0}\0\0￿.\0\0(7촀\0Hopelijk vind je 2촀hemhetze mooin"
+"049","(촀\0Alsjeblieft, nog een ontwerp van mijn eigen label. Het 2촀isiszijn 2\0\0}\0\0￿.\0\0(7촀\0Hopelijk vind je 2촀hemhetze mooin"
 "052","(촀\0Als blijk van mijn waardering zal ik
 iets via de post naar je opsturen.\0\0()촀\0Niet vergeten dat je \0kleermakers-
 bonnen\0￿ bij de \0kleermakerij\0￿ kunt
@@ -460,6 +462,43 @@ ben ik op n\0.\0\0Jeetje,
 \0
  (촀\0wat kan ik een boel leren van
 de bewoners hier."
+"160","($촀\0Ik zie dat je je hebt omgekleed.
+\0(
+(촀\0O, jee!
+\0 Zo te zien draag je een eigen
+ontwerp.\0\0(촀\0Het spijt me bijzonder, maar ik kan je
+outfit niet beoordelen als je een
+eigen ontwerp draagt.\0\0(&촀\0Zou je je opnieuw willen omkleden
+en me dan je outfit willen laten zien?
+\0(
+(촀\0Ik zou het enorm waarderen."
+"161","(촀\0Ik zie dat je iets anders voor me hebt
+aangetrokken.
+\0( (촀\0O, nee!
+\0 Je draagt een
+eigen ontwerp, nietwaar?\0\0(촀\0Het spijt me,
+\0 maar een outfit dat een
+eigen ontwerp bevat, kan ik niet
+beoordelen.
+\0 Dat wordt pure chaos!\0\0($촀\0Als je even van outfit zou willen
+veranderenn\0\0
+\0 dan, eh, 
+\0(촀\0zou dat très
+magnifique zijn.(\0촀\0\0\0(7촀\0Dat is iets wat alle beroemde
+modeontwerpers zeggenn"
+"164","(&촀\0Mag ik je outfit bekijken?"
+"164_a","(%촀\0Natuurlijk."
+"164_b","('촀\0Nog niet."
+"165","(&촀\0Kun je me je outfit laten zien?"
+"165_a","(%촀\0Natuurlijk!"
+"165_b","('촀\0Ik ben nog niet klaar."
+"166","($촀\0Ik zou maar wat graag je outfit willen
+zien. 
+\0Tenminste,
+\0 (&촀\0als je het goed
+vindt?"
+"166_a","(%촀\0Ja, prima!"
+"166_b","(\0촀\0Geef me nog even."
 "200","(\0촀\0Goed, ik zou graag willen dat je me
 een \0feestoutfit \0￿showt.\0\0()촀\0Stel je voor dat je naar een chic feest
 gaat. 
@@ -520,7 +559,7 @@ gelegenheden kunt aantrekken."
 "300","(
 촀\0Ik vind niet 
 \0
-dat je outfit een 2촃촀 look heeft, 
+dat je outfit voldoet aan het 2촃\0촀\0￿, 
 \0
 maarn\0\0\0\0(%촀\0Nou ja. Juist. Hm. 
 \0
@@ -529,7 +568,7 @@ manier bekijkt zou het wel kunnen.\0\0(촀\0Het heeft me in ieder geval sto
 nadenken gegeven.
 \0
  Bedankt."
-"301","(""촀\0Je outfit geeft me écht een 촀 gevoel. Heel uniek.
+"301","(""촀\0Je outfit voldoet behoorlijk aan het 2촃\0촀\0￿. Heel uniek.
 \0((촀\0 Ja, ik voel er wel wat voor.\0\0(
 촀\0Als ik jouw creatie bestudeern\0\0
 \0(
@@ -540,33 +579,33 @@ het samenstellen van kleding.\0\0(촀\0Ontzettend bedankt daarvoor."
 dit is precies wat ik bedoelde.
 \0(
 (촀\0Ik ben blij dat je mijn stijluitdaging
-met beide handen hebt aangegrepen.\0\0(%촀\0Wat je draagt drukt het 2촃촀 thema echt héél goed uit.\0\0(촀\0Ik heb er ontzettend veel van
+met beide handen hebt aangegrepen.\0\0(%촀\0Wat je draagt drukt het 2촃\0촀\0￿ echt héél goed uit.\0\0(촀\0Ik heb er ontzettend veel van
 geleerd. Dank je wel!"
 "303","(촀\0Geweldig!
 \0 (촀\0Precies wat ik zocht!
-(촀\0Je kledingcombinatie is zo ontzettend 촀.\0\0(%촀\0Er valt echt veel te leren van jouw
+(촀\0Je outfit voldoet volledig aan het
+\0촀\0￿.\0\0(%촀\0Er valt echt veel te leren van jouw
 gevoel voor mode.
 \0 (촀\0Dank je wel!"
 "320","(
-촀\0Ik weet niet zeker of ik deze outfit
-echt 촀 vindn\0\0\0\0(7촀\0Begrijp me niet verkeerdn\0\0 Het is een
+촀\0Ik weet niet zeker of ik echt vind dat deze outfit aan het \0촀\0￿ voldoetn\0\0\0\0(7촀\0Begrijp me niet verkeerdn\0\0 Het is een
 interessante keuze. 
 \0(촀\0Ik zal het zeker
 in mijn achterhoofd houden."
 "321","(
-촀\0Ja, ik kan wel zien waarom je deze outfit 촀 vindtn\0\0 met je eigen unieke draai eraan, dan.\0\0Weet je, n\0n\0\0
+촀\0Ja, ik kan wel zien waarom je deze outfit bij het 2촃\0촀\0￿ vindt passenn\0\0\0\0n\0\0met je eigen unieke draai eraan,
+dan.\0\0Weet je, n\0n\0\0
 \0
  (%촀\0Het heeft mijn modehorizon verbreed.
 \0 (촀\0Bedankt daarvoor."
 "322","(촀\0Wauw!
 \0
- Je hebt die 촀 look echt weten te vangen.
-\0 (촀\0Tot in de kleinste details!\0\0(촀\0O, n\0, ik leer altijd
-zoveel van je outfits. Ontzettend bedankt voor de inspiratie!"
+ Je hebt dat 2촃\0촀\0￿ echt weten te vangen.
+\0 (촀\0Tot in de kleinste details!\0\0(촀\0O, n\0, ik leer altijd zoveel van je outfits. Ontzettend bedankt voor de inspiratie!"
 "323","(촀\0Geweldig! Ik heb nog nooit zo'n
 perfect bij elkaar passende outfit
 gezien!\0\0(촀\0Elk kledingstuk sluit echt perfect aan
-bij die 2촃촀 look. Precies waar ik naar op zoek was!\0\0En het komt allemaal zo magnifiek en
+bij dat 2촃\0촀\0￿. Precies waar ik naar op zoek was!\0\0En het komt allemaal zo magnifiek en
 modebewust samen.
 \0(촀\0 Je hebt een feilloze smaak, n\0.\0\0Ik ben zó overdonderd.
 \0 (촀\0Bedankt dat

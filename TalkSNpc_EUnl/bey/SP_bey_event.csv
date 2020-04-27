@@ -68,7 +68,7 @@ haak hebt geslagen, toch?\0\0(6촀\0Veel is anders, maar er zitten nog
 "005_b","('촀\0Nee."
 "006","($촀\0Alles haaks, chillmakreel?"
 "006_a","Ik wil punten inruilen!"
-"006_b","('촀\0Ik hang wat rond."
+"006_b","(\0촀\0Ik hang wat rond."
 "007","($촀\0Yo! 
 \0Alles haaks, visjesfreak? 
 \0\0C.J.
@@ -118,7 +118,7 @@ niet door de mazen van het net zijn
 geglipt.
 \0( (&촀\0Wil je ze niet uitgeven? 
 \0Njuk!"
-"016_a","Waarom ook niet."
+"016_a","(\0촀\0Waarom ook niet."
 "016_b","('촀\0Nee."
 "017","(7촀\0Geen probleem, joh. 
 \0Ik hou een lijntje
@@ -148,11 +148,10 @@ appeltje-kaviaar. 
 als je kunt in \0Z\0 20฀minutenminuutminuten\0￿.(촀\0\0\0Voor elke vis krijg je punten.
 \0 Met
 genoeg punten in je vismandje kun je
-heel wat leuk spul kopen.(촀\0\0\0Bij de partytent staat de \0vissenbak\0￿.
-\0
-Alle vis die je vangt, gaat direct
-daarin.
-\0((촀\0 Zo hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt en
+heel wat leuk spul kopen.(촀\0\0\0Alle vis die je vangt, gaat direct in
+de \0vissenbak\0￿ onder de partytent.
+\0((촀\0 Zo
+hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt en
 je haak het water haalt, 
 \0kun je
 meedoen. 
@@ -168,7 +167,7 @@ vissen die door anderen zijn
 gevangen.\0\0Hoe meer zielen, hoe meer punten
 dus. 
 \0Cool!(촀\0\0\0O ja, alle vis die je vangt, gaat gelijk
-in de \0vissenbak\0￿ bij de partytent.
+in de \0vissenbak\0￿ onder de partytent.
 \0(
 (촀\0Zo hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt en
 je haak het water haalt, 
@@ -187,10 +186,10 @@ onderdompelen in de wereld van het
 "023_c","Spul kopen met punten."
 "023_d","('촀\0Nee, dank je."
 "024","(촀\0Wat? 
-\0je houdt me toch niet aan het
+\0Je houdt me toch niet aan het
 lijntje?
 \0 Wat een domper.\0\0(촀\0Oké, cool. 
-\0het \0vistoernooi\0￿ gaat door
+\0Het \0vistoernooi\0￿ gaat door
 tot \0Z%촁:00 uur\0￿, mocht je je bedenken.
 
 \0Kom lekker hengelen!"
@@ -214,12 +213,12 @@ als je kunt in \0Z\0 20฀minutenminuutminuten\0￿.(촀\0\0
 genoeg punten in je vismandje kun je
 heel wat leuk spul kopen."
 "028","(\0촀\0O ja, alle vis die je vangt, gaat gelijk
-in de \0vissenbak\0￿ bij de partytent.
-\0( (촀\0Zo
-hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt
-en je haak het water haalt,
-
-\0kun je meedoen. 
+in de \0vissenbak\0￿ onder de partytent.
+\0(
+(촀\0Zo hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt en je
+haak het water haalt,
+\0 kun je
+meedoen. 
 \0Njuk!"
 "029","(""촀\0Simpel zat! 
 \0En je kunt zo vaak
@@ -284,16 +283,16 @@ hengelwerk?
 \0njuk!\0\0()촀\0Ik sta hier voorn\0\0
 \0 ehn\0\0
 \0(촀\0 momenteel
-alleen jou, voor de moeder van alle
-viswedstrijden.\0\0(촀\0Yo, dit is \0C.J.\0￿ en ik doe vandaag
+alleen jou, ter ere van de moeder van
+alle viswedstrijden.\0\0(촀\0Yo, dit is \0C.J.\0￿ en ik doe vandaag
 verslag van dé sportieve vissensatie
 van het seizoen:
 \0 hetn\0\0
 \0(촀\0 \0vistoernooi\0￿!(촀\0
 (촀\0Dus boen je haakjes en poets je
-hengel, want om \0Z%촁:00 uur\0￿ 
-\0is het
-tijd om uit te werpen!"
+hengel, want tussen nu en \0Z%촁:00 uur\0￿
+\0
+is de tijd om uit te werpen!"
 "037","($촀\0Yo! 
 \0Alles haaks, hengelfanaten? 
 \0\0C.J.
@@ -350,12 +349,12 @@ plaatsvindt in \0Z#촀\0￿."
 "045","(촀\0Precies \0Z 2(Āpuntenpuntpunten\0￿! 
 \0Net genoeg voor wat vet visspul."
 "045_a","Hier met dat spul!"
-"045_b","('촀\0Misschien later."
+"045_b","(\0촀\0Misschien later."
 "046","\0(촀\0Z 2(Āpuntenpuntpunten\0￿! 
 \0Netjes!
 \0( (&촀\0Wil je \0Z\0 punten \0￿inruilen voor wat vet visspul?"
 "046_a","Hier met dat spul!"
-"046_b","('촀\0Misschien later."
+"046_b","(\0촀\0Misschien later."
 "047","(%촀\0Mijn kennis over het \0vistoernooi
 \0￿is zonder limiet, net zoals mijn
 databundel. 
@@ -385,7 +384,7 @@ volgers blijven volgen.
 \0( (촀\0Fan-tastisch!"
 "049_a","Ik wil vis verkopen!"
 "049_b","Punten inruilen voor spul."
-"049_c","Iets anders..."
+"049_c","Over het toernooi..."
 "049_d","('촀\0Nee, hoeft niet."
 "050","(촀\0Vin-tastisch! 
 \0Wat verkoop je?"
@@ -443,9 +442,16 @@ bovendrijven. 
 het vissersvonds! \0KEh, fonds.\0d"
 "062","(촀\0Netjes! 
 \0Niemand kan het sirenenlied
-van het \0vistoernooi\0￿ weerstaan. 
-\0De
-entree gaat je Z kosten."
+van het \0vistoernooi\0￿ weerstaan.\0\0Een dingetje.
+\0 ()촀\0Je hebt vandaag al een
+keer meegedaan, dus je moet nu
+Z entree betalen."
+"062_01","(촀\0Ik wist wel dat dat ik bij jou geen
+bot zou vangen!
+\0 Dan krijg ik dus
+Z van je."
+"062_a","(%촀\0Prima!"
+"062_b","('촀\0Laat dan maar..."
 "063","()촀\0Goed, ik zet \0Z\0 minuten \0￿op de klok.
 Binnen die tijd moet je zoveel
 mogelijk binnenhengelen.\0\0(촀\0
@@ -584,7 +590,7 @@ volgende \0vistoernooi\0￿ plaatsvindt.
 \0Njuk, 
 \0njuk!"
 "090_a","Punten inruilen voor spul."
-"090_b","('촀\0Ik dobber gewoon rond."
+"090_b","(\0촀\0Ik dobber gewoon rond."
 "092","(촀\0Cool! 
 \0Altijd leuk om een visserino te
 ontmoeten. 
@@ -592,7 +598,7 @@ ontmoeten. 
 \0￿als je wat nodig hebt."
 "100","($촀\0Alles haaks, chillmakreel?"
 "100_a","Punten inruilen voor spul."
-"100_b","('촀\0Ik hang wat rond."
+"100_b","(\0촀\0Ik hang wat rond."
 "101","(5촀\0Het volgende \0vistoernooi \0￿ben ik ook weer op n	\0. 
 \0Dat is in \0Z#촀\0￿. 
 \0Hou je haaks,
@@ -690,7 +696,7 @@ van je kopen. 
 "123","(&촀\0Klinkt Z goed?
 \0 Heb ik dan beet?"
 "123_a","Verkopen! Alles!"
-"123_b","Wacht even."
+"123_b","(\0촀\0Wacht even."
 "124","(\0촀\0Komt voor de visser!
 \0 ( 촀\0Eh, wacht. 
 \0Heb
@@ -808,11 +814,9 @@ vangstn\0\0
 
 of meer\0￿ genet hebben.\0\0(촀\0Zelf heb je \0Z\0￿ \02&ࠀvissenvisvissen \0￿binnengehengeld.
 \0 Netjes!"
-"150","(\0촀\0Yo, het ziet ernaar uit dat de totale
-vangstn\0\0
-\0(%촀\0 \0Z	 2&ऀvissenvisvissen \0￿is, met een bonus
-omdat jullie er \0Z
- of meer\0￿ hebben.\0\0(촀\0Jij hebt zelf \0Z 2&ࠀvissenvisvissen\0￿, die ook nog
+"150","(\0촀\0Yo, de totale vangst isn\0\0
+\0(%촀\0 \0Z	 2&ऀvissenvisvissen\0￿, met een samenwerkingsbonus omdat jullie er \0minstens Z
+\0￿ hebben.\0\0(촀\0Jij hebt zelf \0Z 2&ࠀvissenvisvissen\0￿, die ook nog
 eens goed zijn voor de bonus voor
 het vangen van \0Z of meer vissen\0￿."
 "151","(
@@ -838,6 +842,52 @@ hè?
 opgevist, kun je ze inruilen voor vet
 visspul.
 \0( (촀\0Werp eens een lijntje uit!"
+"156","Yo. 
+\0Zo te zien zwommen ern\0\0
+\0
+\0Z vissen \0￿in de \0vissenbak\0￿.
+\0 (촀\0Jij vangt
+ze echt bij de vleet. 
+\0Netjes!"
+"156_01","( 촀\0Yo! 
+\0Als je meer dan 20 vissen in de
+\0vissenbak \0￿stopt, kiept ie om.
+\0( (%촀\0Daarom
+heb ik er een paar vissen uitgehaald.\0\0(6촀\0Geen zorgen. 
+\0Ik heb ze naar een gaaf
+vissenreservaat verscheept. 
+\0Het is er
+geweldig. 
+\0Njuk 
+\0njuk!\0\0()촀\0Maar wees niet bang, je vist niet
+achter het net. Je krijgt punten voor
+ál je gevangen vissen."
+"157","(촀\0O ja! 
+\0Naast de verdiende \0Z punten\0￿,
+krijg je ook een bonus voor het
+vangen van \0Z of meer vissen\0￿!\0\0(9촀\0O, en de totale vangst voor iedereen
+isn\0\0
+\0(%촀\0 \0Z	 vissen\0￿, plus een samen-
+speelbonus voor \0Z
+ of meer vissen\0￿."
+"158","(촀\0O ja! 
+\0Naast de verdiende \0Z punten\0￿,
+krijg je ook een bonus voor het
+vangen van \0Z of meer vissen\0￿!"
+"159","(6촀\0Yo! 
+\0Alles haaks? 
+\0Dit is \0C.J.\0￿ en ik doe
+vandaag verslag vann\0\0
+\0(촀\0 het
+\0vistoernooi\0￿!
+\0( Dé sensatie vann\0\0
+\0(9촀\0 wacht.\0\0(&촀\0Zag ik jou eerder niet vissen bij de
+vleet uit het water trekken? 
+\0Jawel,
+hè?
+\0( (%촀\0Jij bent goed bezig, zeg.\0\0(촀\0Dus hoe was het? 
+\0Leuk? 
+\0Njuk!"
 "160","(%촀\0Jullie vangst is aan het feesten in de
 \0vissenbak\0￿. 
 \0Kijk later maar welke jullie
@@ -855,12 +905,12 @@ zoveel mogelijk vis in \0Z\0 20฀minutenminuutminuten\0￿.(�
 \0 Maakt
 niet uit wie ze vangt.(촀\0\0\0Máár! 
 \0Als er vrienden meedoen, moet
-je een \0teamleider\0￿ uitkiezen. Alleen de
+je een \0leider\0￿ uitkiezen. Alleen de
 \0leider \0￿verdient namelijk punten.(촀\0\0\0Zodra iedereen genoeg punten heeft
 opgevist, kan de \0leider\0￿ ze inwisselen
 voor supervet visspul!"
 "162","(\0촀\0Overigens gaat alle vis die je vangt,
-direct in de \0vissenbak\0￿ bij de
+direct in de \0vissenbak\0￿ onder de
 partytent.
 \0(촀\0 Zo hou je je zakken droog!\0\0(촀\0Dus zolang je een hengel hebt en
 je haak het water haalt, 
@@ -869,7 +919,7 @@ meedoen. 
 \0Njuk!"
 "163","()촀\0Oké, ik zet \0Z\0 20฀minutenminuutminuten \0￿op de klok.
 Binnen die tijd moet iedereen zoveel
-mogelijk binnenhengelen.(촀\0
+mogelijk vissen binnenhengelen.(촀\0
 Wie ze ook vangt, ze komen allemaal
 in de \0vissenbak\0￿ bovengedreven en de
 \0teamleider\0￿ krijgt er punten voor.\0\0(촀\0
@@ -909,18 +959,18 @@ een ronde? 
 \0En je kunt zo vaak
 meedoen als je wilt.\0\0(3촀\0Nou? 
 \0Klaar om je onder te dompelen
-in de wereld van het \0vistoernooi?\0￿
-\0 De
-eerste ronde als \0leider \0￿is gratis."
+in de wereld van het \0vistoernooi\0￿?\0\0(촀\0Omdat het je eerste ronde is als
+\0leider \0￿vandaag, hoef je niet te
+betalen."
 "166_a","Ik doe mee!"
 "166_b","('촀\0Nee, hoeft niet."
 "167","(""촀\0Simpel, toch? 
 \0En je kunt zo vaak
 meedoen als je wilt.\0\0(3촀\0Nou? 
 \0Klaar om je onder te dompelen
-in de wereld van het \0vistoernooi?\0￿
-\0 De
-eerste ronde als \0leider \0￿is gratis."
+in de wereld van het \0vistoernooi\0￿?\0\0(촀\0Omdat het je eerste ronde is als
+\0leider \0￿vandaag, hoef je niet te
+betalen."
 "167_a","Ik doe mee!"
 "167_b","Wat zijn de regels?"
 "167_c","Punten inruilen voor spul."
@@ -960,12 +1010,12 @@ Wil je die ergens voor inruilen? 
 n\0! Ik aas nu al op het volgende
 \0vistoernooi\0￿!"
 "170_a","Punten inruilen voor spul."
-"170_b","('촀\0Ik hang wat rond."
+"170_b","(\0촀\0Ik hang wat rond."
 "171","(3촀\0Klaar om je koers naar de
 overwinning van dit \0vistoernooi
 \0￿uit te stippelen?\0\0(촀\0Aangezien dit je eerste keer als
-\0teamleider \0￿is, is meedoen gratis.
-
+\0teamleider \0￿is vandaag, is meedoen
+gratis. 
 \0Njuk!"
 "171_a","Ik doe mee!"
 "171_b","Wat zijn de regels?"

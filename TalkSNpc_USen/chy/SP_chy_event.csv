@@ -215,7 +215,7 @@ a round."
 \0 do you want to join in the
 \0Bug-Off \0￿festivities?
 \0 (\0촀\0Your first
-round is free,
+round today is free,
 \0 if that helps."
 "030_a","Play a round."
 "030_b","('촀\0Not right now."
@@ -268,7 +268,8 @@ in this one!
 (""촀\0Anyway, you should play a round!
 \0
 (!촀\0The \0Bug-Off\0￿ brings even us lowly
-mortals closer to the Heavenly Hive!"
+mortals closer to the Heavenly Hive!
+You can play anytime before \0Z%촁 n촁\0￿."
 "037","(촀\0The \0Bug-Off\0￿ is finally here!
 \0 The time
 when the mosquito netting between
@@ -358,7 +359,7 @@ even a bit after the event is over.
 give them a good home I promise!\0d"
 "049_a","Can I sell you bugs?"
 "049_b","Redeem points."
-"049_c","Something else."
+"049_c","So about the Bug-Off..."
 "049_d","('촀\0Never mind."
 "050","( 촀\0Y-yeah, 
 \0of course! 
@@ -393,15 +394,18 @@ I've never beheld its equaln\0\0
 (9촀\0Always."
 "054","(촀\0Really?!
 \0(촀\0 Th-thank you!"
-"056","(촀\0R-really?! 
+"056","(촀\0
+\0R-really?! 
 \0That's great!
-\0(&촀\0 What have
+\0((&촀\0 What have
 you got for me?!\0\0(8촀\0Wait—you don't have the energy,
 \0
 the aura, (;촀\0
 \0the 
+\0
 \0MAJESTY 
-of someone
+
+\0of someone
 with bugs in their pockets!
 ('촀\0Sorry, but I can only buy bugs that,
 \0
@@ -438,11 +442,24 @@ radiant glory with a net to shield us.
 (;촀\0Without one you would surely perish!"
 "061","( 촀\0Oh!
 \0 Um, apologies, but you don't
-have enough Bells.\0\0(촀\0The entry fee after your first round
-is \0Z\0￿.
+have enough Bells.\0\0(촀\0Come back once you have
+\0Z\0￿.
 \0 Sorry!"
-"062","(%촀\0OK, cool. 
-\0So that's \0Z\0￿."
+"062","(촀\0Nice! 
+\0Each firefly brightens the sky
+that much more! 
+\0((4촀\0Er, metaphorically.
+\0(
+We don't just catch fireflies.
+(7촀\0Um, the entry fee after your first
+round is \0Z\0￿. 
+\0(&촀\0Is that
+gonna be OK?"
+"062_01","(%촀\0Greatn\0\0
+\0(:촀\0 I'll just collect those
+\0Z\0￿, thenn"
+"062_a","Sure thing!"
+"062_b","Never mind."
 "063","(%촀\0OKn\0\0 I'm gonna start the timer for
 \0Z\0 minutes\0￿.
 \0 You're gonna catch bugs.
@@ -693,7 +710,7 @@ them as spiritual guides? 
 \0I mean—
 
 (4촀\0let me just add it up for you.\0\0(1촀\0Let's see, how many bugs? 
-\0n\0\0\0Z\0￿n\0\0
+\0\0Z\0￿n\0\0
 Given species and metaphysicsn\0\0(&촀\0
 How's Z?"
 "123_a","Sell! Sell!"
@@ -849,6 +866,57 @@ add all the bonuses together, andn\0\0
 \0
 (촀\0Whoa!
 \0(촀\0 That's \0Z points\0￿!"
+"151","(%촀\0Already you have encircled some
+\0Z \0￿bugs in your +5 Net of Begirding.
+\0(
+(촀\0You are exquisitely fast at this!
+()촀\0It's not safe to confine more than
+20 bugs in a small space, 
+\0(촀\0lest their
+combined might rend reality itself!
+(4촀\0I therefore took the liberty of
+removing some extras from the
+\0bug cage\0￿.
+(%촀\0This is all for the bugs, and therefore
+for the world,
+\0(7촀\0 so I hope you will
+consider these bugs a donation.
+( 촀\0Fret not,
+\0 you will still score points!
+\0(
+(
+촀\0The standard \0Z points\0￿,
+\0 plus a bonus
+for catching \0Z or more\0￿n\0\0
+(:촀\0That's \0Z points \0￿total!"
+"152","(%촀\0Already you have encircled some
+\0Z \0￿bugs in your +5 Net of Begirding.
+\0(
+(촀\0You are exquisitely fast at this!
+()촀\0It's not safe to confine more than
+20 bugs in a small space, 
+\0(촀\0lest their
+combined might rend reality itself!
+(4촀\0I therefore took the liberty of
+removing some extras from the
+\0bug cage\0￿.
+(%촀\0This is all for the bugs, and therefore
+for the world,
+\0(7촀\0 so I hope you will
+consider these bugs a donation.
+( 촀\0Fret not,
+\0 you will still score points!
+\0(
+(
+촀\0Let's see,
+\0 the participants this time
+have caught \0Z	 \0￿bugs totaln\0\0\0\0(촀\0That's \0Z
+ or more\0￿(9촀\0,
+\0 so you get a
+team bonus. 
+\0(Bringing you ton\0\0\0
+\0(
+(촀\0Z points \0￿total!"
 "160","()촀\0The \0bug cage\0￿ with all the bugs you
 caught is by the tent—(1촀\0just follow the
 scent of nectar and ambrosia.
@@ -946,7 +1014,7 @@ from the larvae. 
 \0 Until
 then, just enjoy the anticipation
 crawling all over your body!"
-"170","( 촀\0How did you enjoy today's \0Bug-Off\0￿,
+"170","( 촀\0How did you enjoy this \0Bug-Off\0￿,
 our regular celebration of bugs?
 \0
 Were you spiritually enriched?"
@@ -1004,7 +1072,7 @@ redeem them for mighty bug-related
 relics!
 \0(:촀\0 Ask me about it later."
 "210","(%촀\0Points can be redeemed at any
-Bug-Off. 
+\0Bug-Off\0￿. 
 \0(:촀\0May the fireflies light
 your way."
 "300","Redeem for a relic."

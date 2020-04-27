@@ -1,12 +1,12 @@
 ﻿"label","text"
-"001","촊촉(&촀\02,촀Dieser
+"001","촊촉(&촀\02,촀Dieser
 DieseDieses }\0\0 ist aus heimischen Pilzen hergestellt, nicht wahr?\0\0촆촃(촀\0Hier fühlt man sich, als wäre man in
 einen verzauberten Wald geraten!"
-"002","촊촉(촀\02,촀Dieser
+"002","촊촉(촀\02,촀Dieser
 DieseDieses }\0\0 sorgt dafür, dass sich dieses Zimmer schön kühl und frisch anfühlt!\0\0촆촃(
 촀\0Man sollte allerdings meinen,
 wenn du die Heizung anmachst,
-schmilzt 2촀ersiees weg..."
+schmilzt 2촀ersiees weg..."
 "003","촊촉(촀\0Bist du wohl ein großer Freund von
 japanischen Sachen? 
 \0(%촀\0Das hat etwas
@@ -14,17 +14,17 @@ sehr Elegantes und Beruhigendes.\0\0촆촃(촀\0Vielleicht sollte i
 ausprobieren. 
 \0(4촀\0Hoffentlich stört es
 dich nicht, wenn ich dich nachmache."
-"004","촊촉(촀\0Aus einfachen Bausteinen Möbel wie 2,촀diesen
+"004","촊촉(촀\0Aus einfachen Bausteinen Möbel wie 2,촀diesen
 diesedieses 2촁}\0\0 zu konstruieren...\0\0촆촃(%촀\0Es zahlt sich wohl aus, wenn man
 sich seinen Spieltrieb bewahrt hat,
 
 \0n\0!\0\0(1촀\0Als Kind hab ich mir aus Bauklötzen
 auch immer Puppenhäuser gebaut..."
-"005","촊촉2,촀Dieser
+"005","촊촉2,촀Dieser
 DieseDieses }\0\0 ist eine echte Antiquität. 
 \0(%촀\0Da kriege ich fast eine Gänsehaut!\0\0촆촃(1촀\0Wenn man bedenkt, wie viele
-Geschichten 2촀ersiees zu erzählen hätte..."
-"006","촊촉2\02\0}\0\0 wie 2,촀dieser
+Geschichten 2촀ersiees zu erzählen hätte..."
+"006","촊촉2\02\0}\0\0 wie 2,촀dieser
 diesedieses 
 \0(촀\0versetzt mich immer sofort in meine Schulzeit zurück.\0\0촆촃(1촀\0Wie viele Stunden ich in der
 Bibliothek verbracht habe..."
@@ -38,46 +38,57 @@ ist der pure Luxus!"
 "008","촊촉(촀\02\02\0}\0\0... 
 \0Ist das hier ($촀\0so eine Art „Home Office“?\0\0촆촃()촀\0Man hat sofort das Gefühl, dass du
 hier sehr produktiv bist."
-"009","촊촉2,촀Diesen
+"009","촊촉2,촀Diesen
 DieseDieses 2촁}\0\0 hast du wohl beim ($촀\0\0Basteln \0￿hergestellt?\0\0(\0촀\0촆촃Sieht sehr rustikal aus! 
 \0(촀\0Das ist wohl
 gerade der Charme von selbstge-
 machten Möbeln, 
 \0n\0."
-"010","촊(촀\02,촀Dieser
+"010","촊(촀\02,촀Dieser
 DieseDieses }\0\0(촀\0 ist wirklich ungemein niedlich!\0\0촆촃(촀\0Wenn man sich mit solchen Dingen
 umgibt,
 \0 hat man sicher immer gute
 Laune!"
 "011","촊촉(촀\0Hier riecht es so schön fruchtig.
 
-\0Das muss dann wohl 2,촀dieser
+\0Das muss dann wohl 2,촀dieser
 diesedieses
 }\0\0 sein.
 촆촆(\0촀\0Frisches Obst ist gut für (촀\0Körper und
 Geist, 
 \0n\0!"
-"012","촊촉(촀\02,촀Dieser
+"012","촊촉(촀\02,촀Dieser
 DieseDieses }\0\0 verströmt einen gewissen Retro-Charme. 
 \0($촀\0Gefällt dir so etwas?\0\0촆촃()촀\0Zu viel davon wäre Kitsch,
 \0 (촀\0aber im
 richtigen Maß kann das sehr schön
 sein, 
 \0n\0!"
-"013","촊촉(촀\02,촀Dieser
+"013","촊촉(촀\02,촀Dieser
 DieseDieses }\0\0 zeugt davon, dass du einen Sinn für das Spielerische hast.\0\0촆촃(\0촀\0Es ist gut, sich (촀\0ein kindliches Herz
 zu bewahren.
 \0(촀"
-"014","촊촉(촀\0Wie lange hast du für 2,촀diesen
+"014","촊촉(촀\0Wie lange hast du für 2,촀diesen
 diesedieses 2촁}\0\0 den Sand durchkämmt?\0\0(\0촀\0촆촃So kann man auch mit den
 einfachsten Naturmaterialien
 \0
 (촀\0tolle Ergebnisse erzielen!"
-"015","촊촉(%촀\0Du bist bestimmt total stolz auf 2(촀deinen
+"015","촊촉(%촀\0Du bist bestimmt total stolz auf 2(촀deinen
 deinedein 2촁}\0\0, oder?\0\0촆촃(촀\0Und das zu Recht!
-\0 2 촀SeinIhrSein Design ist
+\0 2 촀SeinIhrSein Design ist
 wirklich gelungen und lässt den
 Raum richtig einladend aussehen."
+"017","촊촉(촀\02\02\0}\0\0 macht dieses Zimmer einfach unwiderstehlich!\0\0촆촃(1촀\0Die Eierform, 
+\0das farbenfrohe
+Mustern\0\0 
+\0als wäre 2촀ersiees eine
+riesengroße Häschentag-Süßigkeit.\0\0(촀\0Hihi! 
+\0Ich muss mich zurückhalten,
+\0
+um nicht einfach hineinzubeißen,
+\0
+n\0!
+\0(촀"
 "999","( 촀\0Du hast gar kein bestimmtes Thema
 im Sinn, 
 \0(&촀\0wenn du die Einrichtung für

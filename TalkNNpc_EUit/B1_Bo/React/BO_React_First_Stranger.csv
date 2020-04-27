@@ -35,7 +35,7 @@ sento meglio, ci vediamo, 
 \0d'accordo?"
 "011","(촀\0Ciao, 
 \0sono n
-\0 e vengo da s촀!\0\0()촀\0Qualcuno di s촀 mi ha detto che mi sarebbe potuto piacere vivere quan\0\0\0\0(촀\0Ma a quanto pare, non abita più qui!\0\0(\0촀\0(촀\0Per fortuna che ho conosciuto te!
+\0 e vengo da s촀!\0\0()촀\0Qualcuno di n\0 mi ha detto che mi sarebbe potuto piacere vivere quan\0\0\0\0(촀\0Ma a quanto pare, non abita più qui!\0\0(\0촀\0(촀\0Per fortuna che ho conosciuto te!
 \0
 Avevo paura di dover mangiare tutte
 le mie merendine da solon"
@@ -57,9 +57,13 @@ te, per esempio!"
 \0una faccia nuova! 
 \0((촀\0Io sono n
 \0, 
-\0è un piacere conoscerti!\0\0(\0촀\0Prima abitavo 2\0 s촀,
-\0 ma qualcuno di queste parti mi ha consigliato di trasferirmi.\0\0Ha detto che mi sarebbe piaciuto vivere 2\0 n!\0, 
-\0così ho detto addio alla mia vecchia isola.\0\0(+촀\0L'unico problema è che ho preso
+\0è un piacere conoscerti!\0\0(\0촀\0Prima abitavo su un'altra isola,
+\0
+ma qualcuno di queste parti
+mi ha consigliato di trasferirmi.\0\0Ha detto che mi sarebbe piaciuto
+vivere qui, 
+\0così ho detto addio alla
+mia vecchia isola.\0\0(+촀\0L'unico problema è che ho preso
 un raffreddore durante il traslocon\0\0\0\0(9촀\0Vediamoci quando sarò guarito, OK?
 \0
 Mi piacerebbe fare amicizia con te,
@@ -71,8 +75,7 @@ Sei n\0, giusto?
 \0(
 (촀\0Io mi chiamo n
 \0!
-()촀\0È 2
-촀
+()촀\0È 2촀
 stato
 stata\0 s\0촀 a convincermi a trasferirmi qui 2\0 n\0,
 \0 sai?\0\0(1촀\0Quest'isola è molto più bella di
@@ -91,9 +94,7 @@ il negozio di fumetti qui 2\0 n\0?"
 \0Tanto piacere!
 \0< (촀\0Mi chiamo n
 \0!\0\0(촀\0Ho conosciuto s\0촀 e d'impulso ho accettato il suo invito a trasferirmi 2\0 n\0!\0\0(2촀\0Quindi ci siamo conosciuti grazie a
-2
-촀luilei\0 e grazie a 2
-촀luilei\0 ho agito d'impulso
+2촀luilei\0 e grazie a 2촀luilei\0 ho agito d'impulso
 per la prima volta in vita mia!"
 "102_03","($촀\0Non ci conosciamo, vero?
 \0( (촀\0Mi chiamo n
@@ -156,8 +157,7 @@ mi ha invitato a trasferirmi 2\0
 "202_01","(""촀\0Ciao!
 \0( Io sono n
 \0.
-\0( (촀\0È un piacere conoscerti!\0\0(\0촀\0Mi sono trasferito qui perché me l'ha detto s\0촀(촀\0 quando l'ho 22
-촀incontratoincontrata\0 all'\0area per campeggio\0￿.\0\0(촀\0Sai, n\0, non vedo l'ora di fare tante cose insieme a te,
+\0( (촀\0È un piacere conoscerti!\0\0(\0촀\0Mi sono trasferito qui perché me l'ha detto s\0촀(촀\0 quando l'ho 22촀incontratoincontrata\0 all'\0area per campeggio\0￿.\0\0(촀\0Sai, n\0, non vedo l'ora di fare tante cose insieme a te,
 n\0."
 "202_02","(촀\0
 \0Ehilà, n\0!

@@ -10,17 +10,17 @@
 \0.
 x"
 "006","2\0n\0? Hier is n
-\0.
+\0, n\0.
 x"
 "007","2\0n\0? Hoor je me?\0\0Als je thuis bent, kun je dan
 de deur openmaken?
 x"
-"008","2\0n\0? Ben je thuis?
+"008","2\0n\0? Ben je thuis, n\0?
 x"
 "009","Misschien 
 \0(is 2hijze niet thuis?
 x"
-"010","Hallo? 2\0n\0? Het lijkt er niet op dat je thuis bent, dus ik kom later nog wel terug.
+"010","Hallo? 2\0n\0? Het lijkt er niet op dat je thuis bent, dus ik kom later wel terug, n\0.
 x"
 "011","(촀\0Goeiemorgen, n\0! (촀\0Ik kon geen minuut meer wachten, dus ik ben al vroeg gekomen."
 "012","(""촀\0Hallo! (촀\0Hier ben ik dan, zoals
@@ -42,7 +42,7 @@ meegenomen."
 "105","2\02\0}\0n\0\0 (촀\0Een kleinigheidje om je te bedanken voor je gastvrijheid."
 "200","2\0n\0, zullen we samen ($촀\0een spelletje spelen?"
 "200_a","Goed idee!"
-"200_b","Misschien later."
+"200_b","(\0촀\0Misschien later."
 "201","(촀\0O!
 \0 (촀\0Zullen we een spelletje spelen?"
 "201_a","Ja, leuk!"

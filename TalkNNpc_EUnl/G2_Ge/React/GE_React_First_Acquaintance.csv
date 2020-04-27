@@ -74,7 +74,7 @@ sprankelende zelf voel."
 \0Sjeempie!
  Raad eens?! Ik woon hier!
 \0(촀\0 Nu! 
-\0(촀\0Verrassiiing!!!\0\0(\0촀\0()촀\0s\0촀 heeft me uitgenodigd?(촀\0 Dus ik kwam? Maar dat weet je dus nu al?\0\0(촀\0Ik ben een beetje afgeleid? Want ik
+\0(촀\0Verrassiiing!!!\0\0(\0촀\0()촀\02\0s\0촀 heeft me uitgenodigd?(촀\0 Dus ik kwam? Maar dat weet je dus nu al?\0\0(촀\0Ik ben een beetje afgeleid? Want ik
 heb er zoooo veel zin in!"
 "011_02","(""촀\0Hé hoi, n\0! Ik heb dat verhuizen-naar-een-nieuw-eiland-ding gedaan!\0\0Ja! Ik ben hierheen gekomen ((촀\0van s촀 nadat s\0촀 me uitnodigde.\0\0(촀\0Nu we buren zijn, moeten we wel
 lekker samen gaan
@@ -83,7 +83,7 @@ lekker samen gaan
 "012_01","( 촀\0Hé hoi! Jij bent n\0, toch? (""촀\0Ik ben n
 \0 en ik kom van s촀!\0\0()촀\02\0s\0촀 zei dat dit eiland een en al glitters en laserstralen is, dus heb ik gelijk mijn boeltje gepakt!\0\0(촀\0We zijn nu buren, dus moeten we
 écht eens iets samen gaan doen!"
-"012_02","(촀\0Daar hebben we n\0! Dat is alweer lang geleden, zeg!\0\0(\0촀\0s\0촀()촀\0 heeft me gevraagd om naar n!\0 te verhuizen!\0\0(\0촀\0Dus ik zei zo van: ""Kan ik nee
+"012_02","(촀\0Daar hebben we n\0! Dat is alweer lang geleden, zeg!\0\0(\0촀\02\0s\0촀()촀\0 heeft me gevraagd om naar n!\0 te verhuizen!\0\0(\0촀\0Dus ik zei zo van: ""Kan ik nee
 zeggen? Nee, toch?"" (촀\0Duuusssn\0\0
 (촀\0We zijn buren! Echt onwijs te gek!!!"
 "013","(촀\0Dáár ben je, n\0! Sjeempie! (촀\0Ik ben het, n
@@ -366,7 +366,7 @@ maar laten we morgen samen
 iets doen, n\0."
 "301_02","(""촀\0Hoi n\0!
 \0 \0(촀\0\0￿Bedankt voor je gezelschap op de \0kampeerplek\0￿!
-\0 Ik moet nog uitpakken, maar ik ben er!\0\0(1촀\02\0n\0 is te gek!
+\0 Ik moet nog uitpakken, maar ik ben er!\0\0(1촀\0n\0 is te gek!
 \0 Tijdens het kamperen vond ik het hier al gaaf, maar nu wil ik nooit meer weg!\0\0()촀\0Je moet me alle leukste plekjes laten
 zien en zo! Die kan ik goed gebruiken
 voor mijn volgende albumcover!"
@@ -461,12 +461,11 @@ ook hier! Ja! Op n\0!
 ()촀\02\0s\0촀 nodigde me uit
 toen ik op de \0kampeerplek\0￿ stond. Dat
 leek me te gek! Onwijs te gek!\0\0(촀\0En ik ben zooo blij dat ik het heb gedaan, n\0! Het is hier fantastisch!"
-"314","(+촀\0O. Hoi, n\0.\0\0(,촀\0Hatsjie! 2\0s\0촀 vroeg me op de \0kampeerplek \0￿om naar n\0 te verhuizenn\0\0
-Dus deed ik dat! (촀\0Maar werd meteen
+"314","(+촀\0O. Hoi, n\0.\0\0(,촀\0Hatsjie! 2\0s\0촀 vroeg me op de \0kampeerplek \0￿om naar n\0 te verhuizenn\0\0\0\0Dus deed ik dat! (촀\0Maar ik werd direct
 superverkouden.
 \0 (촀\0En ik wilde zo graag
-feesten met mijn nieuwe burenn\0\0
-(+촀\0Tot ik beter ben, doe ik het superrustig aan.
+feesten met mijn nieuwe burenn\0\0\0\0(+촀\0Tot ik beter ben, doe ik het
+superrustig aan.
 \0 Maar we moeten
 snel eens afspreken, n\0!"
 "321","(촀\02\0n\0! Alles kits?! Het is zooo leuk om een bekende te zien.\0\0()촀\0Iemand op de \0kampeerplek\0￿ vroeg me

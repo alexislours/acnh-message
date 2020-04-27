@@ -1,7 +1,6 @@
 ﻿"label","text"
 "001","(촀\0Ne me dis pas que c'est 2\0}\0\0 que tu as là ?!\0\0(촀\0C'est ce que je cherche depuis super
-longtemps ! (2촀\0Dis, n\0,
-tun\0\0 tu me rendrais un petit service ?\0\0(9촀\0Laisse-moi te l'échanger contre 2\0}\0(:촀\0, tu veux bien ?"
+longtemps ! (2촀\0Dis, n\0, tun\0\0 tu me rendrais un petit service ?\0\0(9촀\0Laisse-moi te l'échanger contre 2\0}\0(:촀\0, tu veux bien ?"
 "001_a","D'accord !"
 "001_b","Pas question !"
 "002","(촀\0Tenterais-tu ta chance en proposant 2\0}\0\0 que tu as là pour un troc aléatoire ?\0\0(%촀\0Les règles du jeu sont simples :
@@ -22,14 +21,14 @@ l'intention de négocier un échange
 comme les plus grands entraîneurs.\0\0(
 촀\0Mais je ne peux pas négocier avec
 moi-même. Il me faudrait quelqu'un
-d'autren\0\0 (촀\0Oh ! J'ai une idée !(\0촀\0\0\0(%촀\0J'ai un2đ촀\0e\0 }\0, tu l'échangerais contre (촀\02촀tonta\0 super }\0\0 ?"
+d'autren\0\0 (촀\0Oh ! J'ai une idée !(\0촀\0\0\0(%촀\0J'ai un2Ē촀\0e\0 }\0, tu l'échangerais contre (촀\02촀tonta\0 super }\0\0 ?"
 "003_a","C'est d'accord !"
 "003_b","Non merci."
 "004","(1촀\02\02\0}\0\0 me rendrait bien service pour mes séances de musculation aux haltères.\0\0('촀\0Mais j'ai beau en chercher partoutn\0\0
 Rien à faire.
 \0 ( 촀\0Maisn\0\0 attends !\0\0(촀\0Ce que je vois là, c'est bien 2\0}\0\0 ?
-\0 (촀\0Comment t'as pu me 2촀lela\0 cacher ?!\0\0(#촀\0S'il te plaîtn\0\0
-\0(8촀\0 donne-2촀lela\0-moi ! J'ai 2\0}\0 à te proposer en échange, ça te va ?"
+\0 (촀\0Comment t'as pu me 2촀lela\0 cacher ?!\0\0(#촀\0S'il te plaîtn\0\0
+\0(8촀\0 donne-2촀lela\0-moi ! J'ai 2\0}\0 à te proposer en échange, ça te va ?"
 "004_a","Bien sûr !"
 "004_b","Non, désolé2\0e."
 "100","(촀\0Ouais ! Je savais bien que t'étais
@@ -39,13 +38,11 @@ Rien à faire.
 "101","(촀\0Vraiment ?
 \0(9촀\0 Ah, dommage.
 \0 (\0촀\0Bonn\0\0 il va
-falloir que j'en trouve 2촀unune\0 ailleurs.\0\0(촀\0Désolé, je n'aurais peut-être pas
+falloir que j'en trouve 2촀unune\0 ailleurs.\0\0(촀\0Désolé, je n'aurais peut-être pas
 dû te demander ça à l'improviste,
 n\0."
 "102","(""촀\0Merci à toi, n\0.
-\0
-(촀\0On fait une bonne équipe, tous
-les deux, n\0."
+\0 (촀\0On fait une bonne équipe, tous les deux, n\0."
 "200","(촀\0Ah !
 \0 J'étais sûr que tu ne résisterais
 pas à la tentation du troc aléatoire !\0\0(%촀\02\02\0}\0\0,
@@ -62,10 +59,8 @@ sera peut-être pour une autre fois."
 \0
 (\0촀\0ces émotions m'ont épuisé. (촀\0Faut pas
 le faire trop souvent, n\0 ?"
-"300","(촀\0Marché conclu ! n\0,
-merci !
-\0 Ouah, je me sens important,
-làn\0\0 (촀\0C'est un échange historique !"
+"300","(촀\0Marché conclu ! n\0, merci !
+\0 Ouah, je me sens important, làn\0\0 (촀\0C'est un échange historique !"
 "301","(촀\0Merci, merci et encore merci !
 \0
 (촀\0Je suis si content ! Marché conclu !"

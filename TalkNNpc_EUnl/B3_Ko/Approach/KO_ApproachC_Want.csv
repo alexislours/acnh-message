@@ -11,7 +11,7 @@ maar niet om eraan te komen!\0\0(
 
 \0(촀\0Dat kun je! 
 \0Wat heb je daar?!\0\0(촀\02JochieMeid, alsjeblieft! 
-\0Wil je 2촀hemhetze aan mij
+\0Wil je 2촀hemhetze aan mij
 verkopen?"
 "003_a","(\0촀\0Wat krijg ik ervoor?"
 "003_b","Sorry, nee."
@@ -26,7 +26,7 @@ goed of wordt het tijd voor een
 hoorapparaat?
 (촀\0Jij hebt 2\0}\0\0?!\0\0(촀\0Nou, waar wacht je nog op?
 \0
-Verkoop 2촀hemhetze aan mij!"
+Verkoop 2촀hemhetze aan mij!"
 "004_a","(\0촀\0Wat krijg ik ervoor?"
 "004_b","Nee..."
 "005","(촀\0Oké, oké. 
@@ -48,11 +48,11 @@ gewoon nog een keer. 
 over doen.
 \0 Ik vraag het gewoonn\0\0
 \0
-Wil je 2촀hemhetze aan mij verkopen?"
+Wil je 2촀hemhetze aan mij verkopen?"
 "100_a","(\0촀\0Wat krijg ik ervoor?"
 "100_b","Liever niet."
 "101","(1촀\0Hmmn\0\0 Wat als ik je er Z voor geef?"
-"101_a","(\0촀\0Verkocht!"
+"101_a","Verkocht!"
 "101_b","Nee, te weinig."
 "102","(촀\0Hebben we een deal? 
 \0(!촀\0Met jou doe
@@ -70,7 +70,7 @@ ik graag zaken!"
 hebben. 
 \0('촀\0Maar soms heb je geluk bij
 een ongelukn\0\0 en soms andersom."
-"105_a","(\0촀\0Nou, oké..."
+"105_a","Nou, oké..."
 "105_b","Sorry."
 "106","(촀\0Nou ja.
 \0 Het was een poging waard,
@@ -100,7 +100,7 @@ onderhandelingen beginnen."
 \0. \0￿
 \0\0Blijf rustign\0\0\0￿
 \0 ($촀\0Zou je tevreden zijn met Z?"
-"110_a","(\0촀\0Verkocht!"
+"110_a","Verkocht!"
 "110_b","Sorry."
 "111","(촀\0Wauw, echt waar?
 \0 (촀\02\0n\0!
@@ -119,7 +119,7 @@ maakt me hier erg gelukkig mee!"
 gedachten en dat bedrag isn\0\0
 Z.
 \0 ($촀\0Wat zeg jij?"
-"114_a","(\0촀\0Verkocht!"
+"114_a","Verkocht!"
 "114_b","Sorry."
 "115","(촀\0Goed zo! 
 \0Fijn dat we het eens
@@ -146,7 +146,7 @@ willen verkopen?"
 "200_b","Nee."
 "201","(1촀\0Tjan\0\0 Ik bied je daarn\0\0 Z voor. 
 \0Geïnteresseerd?"
-"201_a","(\0촀\0Verkocht!"
+"201_a","Verkocht!"
 "201_b","Sorry."
 "202","(촀\0Ha. 
 \0In jouw plaats zou ik hetzelfde
@@ -168,7 +168,7 @@ dit niet snel vergeten.
 nadenken. 
 \0(&촀\0Wil je er Z
 voor hebben?"
-"300_a","(\0촀\0Verkocht!"
+"300_a","Verkocht!"
 "300_b","Sorry."
 "301","(촀\0Ja? De deal gaat door?
 \0(
@@ -182,7 +182,7 @@ goed voor zult zorgen."
 "304","(3촀\0Dus je bent wel geïnteresseerd?
 \0(&촀\0
 Nou, wat als ik Z bied?"
-"304_a","(\0촀\0Verkocht!"
+"304_a","Verkocht!"
 "304_b","Laat maar..."
 "305","(촀\0Echt waar? 
 \0((촀\0Dat is geweldig!
@@ -200,7 +200,7 @@ bod horen.
 촀\0Wat zeg je vann\0\0
 Z? 
 \0Klinkt goed, toch?"
-"400_a","(\0촀\0Verkocht!"
+"400_a","Verkocht!"
 "400_b","Niet echt, nee."
 "401","(촀\0Echt waar?!
 \0( 2\0n\0!"
@@ -216,7 +216,7 @@ ben tegengekomen."
 \0 Goed
 zon\0\0 Wat als ik je er(&촀\0 Z
 voor geef?"
-"404_a","(\0촀\0Verkocht!"
+"404_a","Verkocht!"
 "404_b","Nee."
 "405","(촀\0Serieus?! 
 \0((6촀\0Wauw, heb ik even geluk

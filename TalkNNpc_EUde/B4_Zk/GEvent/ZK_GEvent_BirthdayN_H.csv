@@ -71,7 +71,7 @@ mich... 
 meiner Party gekommen!\0\0(!촀\0Wundervoll! 
 \0(
 촀\0Ich meine, 
-\02"" 촀
+\02""!촀
 eineneineein
 2촁촀 hätte ich auch
 genommen, 
@@ -130,7 +130,7 @@ delikater. 
 \0Von Hand zubereitet!"
 "018","(촀\0Na so was!
 \0 Ich habe bereits
-2""촀
+2""촀
 eineneineein 2촁}\0\0!\0\0(5촀\0Und das bedeutet, 
 \0du hast die
 n
@@ -138,9 +138,8 @@ eineneineein 2촁}\0\0!\0\0(5촀\0Und das bedeutet, 
 verinnerlicht, 
 \0n\0."
 "019","(촀\0Ich glaub es ja nicht. 
-\0Genau 24촀so einenso eineso ein
-}\0\0 trage
-ich doch heute!\0\0(촀\0Ha-HA!
+\0Genau 24촀so einenso eineso ein
+2촁}\0\0 trage ich doch heute!\0\0(촀\0Ha-HA!
 \0 Jetzt habe ich einen Ersatz
 für mein Lieblingsoutfit. 
 \0(촀\0Klug
@@ -242,7 +241,7 @@ hast, 
 \0(1촀\0Träume ich, 
 \0odern\0\0
 \0 ist
-das eine Bastelanleitung für 2""촀
+das eine Bastelanleitung für 2""촀
 eineneineein
 2촁}\0\0?
 (
@@ -279,15 +278,15 @@ geht doch in Ordnung,
 \0ich habe
 auch etwas für dich. 
 \0Wie wäre es mit
-2(촀
+2(촀
 einem
 einer
 einem 2촂}\0?"
 "049","(5촀\0Es ist nur ein klitzekleines Zeichen
 meiner Dankbarkeit, 
 \0aber nimm
-2,촀diesen
-diesedieses }\0."
+2,촀diesen
+diesedieses 2촁}\0."
 "050","(4촀\0Tausend Dank für ein solch
 liebevoll ausgewähltes Geschenk,
 \0
@@ -371,10 +370,8 @@ etwas, 
 "061_b","(\0촁\0Tut mir leid..."
 "062","( 촀\0Also, 
 \0n\0? 
-\0(촀\0Bist du
-bereit, 
-\0mir dein liebevoll verpacktes
-Geschenk zu überreichen?"
+\0(촀\0Bist du bereit, 
+\0mir dein liebevoll verpacktes Geschenk zu überreichen?"
 "062_a","(\0촁\0Klar! Hier, für dich!"
 "062_b","(\0촁\0Tut mir leid..."
 "064","(
@@ -490,7 +487,7 @@ der Tasche, 
 "081","(촀\0Ah, 
 \0n\0!
 \0 (촀\0Hab mir doch gedacht, 
-\0dass du dir mein Geschenk nicht entgehen lassen willst.\0\0(%촀\0Dieses Jahr gibt's bei mir 2""촀
+\0dass du dir mein Geschenk nicht entgehen lassen willst.\0\0(%촀\0Dieses Jahr gibt's bei mir 2""촀
 eineneineein
 2촁}\0.\0\0(촀\0Aber natürlich nur für die gaaaanz
 speziellen Geburtstagsgäste,
@@ -509,4 +506,4 @@ ich hoffe, 
 \0du hast fantastische
 Geschenke für uns BEIDE..."
 "100_a","Klar, hab ich!"
-"100_b","(\0촀\0Ähm, also... Nein."
+"100_b","Ähm, also... Nein."

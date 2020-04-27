@@ -9,7 +9,7 @@ frutas de n\0?"
 "001_b","(\0촀\0¿Qué?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Menos mal,
 \0 porque no te puedes
 perder nuestr2촀oa\0s n촁.
@@ -78,10 +78,12 @@ campaña superhumilde!\0\0(촀\0¡Oye! Deberías ir a saludar a
 \0 (
 촀\0\0KSeguro que se aburre sin nadie
 con quién compartir sus investigacionesn\0\0\0d"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Pues yo creo que deberías visitar
 el \0museo\0￿,
 \0 que tiene cosis ideales
@@ -99,7 +101,7 @@ mismo es ir al \0museo\0￿ a ver
 (%촀\0Te superrecomiendo que vayas,
 n\0."
 "029","()촀\0No te puedes perder 2\0
- que tienen en el \0museo\0￿.\0\0((촀\0Yo, desde que 2(촀lola\0 vi, soy 
+ que tienen en el \0museo\0￿.\0\0((촀\0Yo, desde que 2)촀lola\0 vi, soy 
 \0mega
 fán,
 n\0."
@@ -107,53 +109,61 @@ mismo es ir al \0museo\0￿ a ver
 \0 increíble, ¿eh?
 (""촀\02\02\0
  es mi superprefe.
-\0 (%촀\0¡Ve a verl2(촀oa\0 y entenderás lo que digo!"
+\0 (%촀\0¡Ve a verl2)촀oa\0 y entenderás lo que digo!"
 "101","<\0fi"
-"102","(""촀\0¡Oye, n\0!
-\0
-(6촀\0¿Viniste porque me extrañabas?"
-"102_a","¡Sí!"
-"102_b","Pues no mucho..."
-"103","(촀\0¡Ay, pues gracias!
-\0 (7촀\0Yo también
-te extraño a veces, ¿sabes,
-n\0?
-('촀\0Me quedé un poco triste cuando
-me enteré de que te mudabas,
-\0
-(촀\0¡pero sabía que volverías de visita!
-((촀\0¡Por algo somos amig2oas para
-siempre!
-\0 Vuelve cuando quieras,
-\0
-¿sí?"
-"104","(촀\0¡No me lo puedo creer!
-\0
-(6촀\0¡Se te ve en la cara que me has
-extrañado muchisisísimo!
-(촀\0Cuando te fuiste, me quedé bastante
-desalentada, así que me dediqué a
-촀n\0\0
-(촀\0Lo hice para animarme ¡y ahora es
-una de mis aficiones favoritas!"
-"105","Oye, n\0,
-\0 
-Vives en n	\0, ¿no?
+"201","<\0ÊÍ"
+"202","(촀\0Viniste de visita porque me
+extrañabas,
+\0 ¿no es así, n\0?"
+"202_a","¡Totalmente!"
+"202_b","No fue por eso, no"
+"203","(촀\0¡Yo también te extrañaba a ti!
 \0
-¿Y qué tal?"
-"105_a","¡Es muy divertido!"
-"105_b","¡Es muy bonita!"
-"106","(촀\0¡Pues a mí me encanta la diversión!\0\0(촀\0¡Cuando sea una estrella del pop
-y haga mi primera gira, visitaré
-n	\0 seguro!\0\0(%촀\0Así la conozco y, de paso,
-nos vemos.
-\0
-(촀\0¿No te parece una idea genial?"
-"107","( 촀\0¿Bonita, dices?
-\0
-(촀\0Pues cuanto más bonita es la isla,
-¡más se divierte todo el mundo!
-($촀\0¡Y contigo ahí, mejorará hasta
-el infinito!
-\0 (촀\0Qué envidia me da
-n	\0n"
+(7촀\0Para que lo sepas, n\0.\0\0(4촀\0Si te soy sincera, estoy feliz y
+emocionada de vivir aquí,
+\0 (8촀\0¡pero me
+acuerdo un montonazo de ti!
+((촀\0Siento que somos amiguis
+inseparables.
+\0 Así que ven a verme
+cuando quieras, guapurita."
+"204","(촀\0¡Ja!
+\0 ¡No lo creo!
+\0 (6촀\0No puedes
+vivir sin mííín\0\0\0\0(\0촀\0Ahora en serio,
+\0 (촀\0cuando me fui
+me dio un poco así como de tristeza,
+¿sabes?
+()촀\0Pero descubrí que me encanta 촀 y, oye, como que me animó mucho.\0\0(촀\0Ahora lo hago todo el tiempo."
+"205","(;촀\0Bueno, n\0,
+\0 ¿qué tal la vida en n	\0 desde que me fui?
+\0 (%촀\0Cuenta, cuenta."
+"205_a","¡Muy divertida!"
+"205_b","Bastante tranquila"
+"206","(촀\0¿Ah, sí?
+\0 Yo soy 
+\0super
+
+\0
+\0fán
+ de la
+diversión en todas sus formas.\0\0(촀\0¡Eh!
+\0 Escucha,
+\0 escucha:
+\0 cuando sea
+famosa y esté en plan de gira
+y eso, n\0n\0\0
+(촀\0¡Aprovecharé para pasar por n	\0 y así nos vemos! (촀\0¡Aaay, será megafabu!"
+"207","( 촀\0¿Ah, sí?
+\0 ()촀\0Pues me alegro,
+\0 porque
+la tranquilidad en la vida a veces
+también es importante.
+($촀\0Pero, oye, un poco de animación
+y emoción tampoco está mal de
+vez en cuando, ¿no crees?
+(%촀\0Tú no te preocupes:
+\0 cuando salga
+de gira mundial, 
+\0(촀\0haré parada en n	\0 fijo fijo, 
+\0guapi."

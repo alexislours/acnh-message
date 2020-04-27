@@ -1,4 +1,20 @@
 ﻿"label","text"
+"010","Oh, hey, n\0!
+Didja know that you can now send
+letters to friends you've played with?"
+"020","(9촀\0Before you can use the service,
+\0
+though, 
+\0the legal eagles say I
+gotta show you the fine print.
+($촀\0Would you read through this for
+me so I don't get in trouble?"
+"040","(촀\0OK! 
+\0Now that we got that over with,
+\0
+(&촀\0you wanna send a letter?"
+"040_a","Send one!"
+"040_b","Cancel."
 "050","(촀\0Oh, didja want to send a letter?\0\0n\0\0(2촀\0Uh, I mean, sure thing, butn\0\0
 \0(
 I'm not great at multitasking.\0\0(&촀\0You mind if I close the gate for
@@ -10,6 +26,22 @@ now while we do this?"
 Alright, here we go—closing
 the gate!"
 "052","(촀\0And we're ready!"
+"053","(촀\0Oh, didja want to send a letter?\0\0n\0\0(2촀\0Uh, I mean, sure thing, butn\0\0
+\0(
+I'm not great at multitasking.\0\0(&촀\0You mind if I close down the
+connection for now while we
+do this?"
+"053_a","Sure thing!"
+"053_b","No, wait!"
+"054","(촀\0Appreciate you understanding.
+\0
+Alright, here we go—connection
+isn\0\0
+\0closed."
+"055","(촀\0You're the boss! ()촀\0I'll keep things like
+they are, 
+\0(촀\0but let me know if you
+decide to use the postal service."
 "070","(&촀\0Ready to send a letter?"
 "070_a","Send one!"
 "070_b","Some other time."
@@ -18,6 +50,12 @@ send it?(\0촀"
 "080_a","A resident here."
 "080_b","My future self."
 "080_c","Never mind."
+"081","(촀\0Alright—where do you wanna
+send it?(\0촀"
+"081_a","A resident here."
+"081_b","My future self."
+"081_c","A friend."
+"081_e","Never mind."
 "200","(%촀\0Gotcha. Someone on this island.
 (&촀\0Who, exactly?"
 "210_01","Sending to s\0촀?
@@ -37,11 +75,57 @@ can't take any more right now.\0\0(촀\0I don't wanna be a pain, 
 \0but could
 you come back in a while and let
 me sort this mess out?"
+"301","(촀\0Sure thing! Which friend do you
+want to write to?"
+"311","()촀\0Hm.
+\0 You can't send letters to friends
+until ""Communicating with Others"" is
+enabled in Parental Controls."
+"312","(
+촀\0Oh, looks like you don't have any
+friends' addresses yet. 
+\0(촀\0Visit a friend
+online to send them letters later!"
 "320","( 촀\0Oh!
 \0 Looks like you already sent two
 letters today to s\0촀.\0\0(\0촀\0You can send more tomorrow,
 \0
 (촀\0so how about we just wait?"
+"321","(%촀\0Alright, let's get you set up to send
+letters to friends!"
+"350","( 촀\0Oh, first time sending a note to
+Nintendo? Now, they're pretty busy,
+('촀\0so you won't get an answer, butn\0\0
+()촀\0they MIGHT use your letter on their
+official website or social media, so
+don't give any of your personal info.
+(촀\0OK, I think that's all the legal
+mumbo jumbo. Get to writing!"
+"351","(촀\0Oh, you're gonna send a letter to
+Nintendo?
+\0( Okeydoke! 
+\0((촀\0Go ahead
+and get started."
+"352","( 촀\0Oh, looks like you already sent two
+letters to Nintendo today, 
+\0((9촀\0and that's
+the limit.\0\0(촀\0You can mail 'em again when it's
+tomorrow. 
+\0Can you wait a bit longer?"
+"353","Alright, lemme just fire up the ol'
+machinery for contactin' Nintendon"
+"380","( 촀\0Huh.
+\0( Looks like it didn't take.
+\0(
+(&촀\0You wanna try again right away,
+\0
+or just do it later?"
+"380_a","Let's try again now."
+"380_b","Eh, I'll do it later."
+"381","Alright,
+\0($촀\0 I'll refund your Bells, then."
+"382","(촀\0Oh, and let me give you back the
+present you were gonna send too!"
 "400",""
 "401","(촀\0So, how far into the future should I
 be sending this thing?"
@@ -50,7 +134,8 @@ be sending this thing?"
 "402_a","That's right."
 "402_b","Let's change the date."
 "410","Did I goof? Sorry. Couldja try again?"
-"415","(\0촀\0Okeydoke! Oh,
+"415","(\0촀\0Okeydoke!
+\0(촀\0 Oh,
 \0 wait a minute! Looks
 like you've already got a letter in the
 hopper for future n\0.
@@ -109,9 +194,8 @@ back to it."
 \0(촀\0 Well,
 lemme just save your work for later."
 "522","(촀\0You're all done? 
-\0(촀\0Gotcha.
-\0
-\0(촀\0 Lemme
+\0((촀\0Gotcha.
+\0 Lemme
 know if I can help again sometime."
 "523","(&촀\0Quittin' time?
 \0 (촀\0No problem.
@@ -154,8 +238,20 @@ else?
 "620","Who do you wanna send it to?"
 "620_a","A resident here."
 "620_b","My future self."
+"621","Who do you wanna send it to?"
+"621_a","A resident here."
+"621_b","My future self."
+"621_c","A friend."
+"621_d","Nintendo."
+"625","Oh, looks like you already paid for
+this delivery. Lemme refund you so
+you can change who it's for."
 "630","(%촀\0Alright, I'll go ahead and throw away
 this letter for you."
+"631","(%촀\0Alright, that letter's headed to the
+recycle bin. 
+\0And I'll just refund the
+200 Bells you already paidn"
 "800","(촀\0Thanks for your business!"
 "801","(%촀\0Gotcha. 
 \0Just gimme a holler next

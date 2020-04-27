@@ -1,4 +1,8 @@
 ﻿"label","text"
+"001","Estableciendo la conexión
+a internet..."
+"002","Cerrando la conexión a internet
+y preparando la comunicación local..."
 "003","Buscando islas disponibles
 para visitar..."
 "004","Preparando el despegue..."
@@ -8,10 +12,13 @@ para visitar..."
 (Oprime \0 \0￿para cancelar)."
 "008","Finalizando la sesión...
 (Oprime \0 \0￿para cancelar)."
+"010","Enviando la tarjeta..."
 "020","¡Ya llegó s\0촀 desde s촀 para jugar contigo!
 Z"
 "021","2\0s\0촀 va de regreso a casa.
 P"
+"030","Preparando el acceso a NookLink..."
+"040","Registrándote como 2""creadorcreadora..."
 "100","Para usar las funciones en línea,
 debes actualizar el juego a su
 versión más reciente.

@@ -1,20 +1,14 @@
 ﻿"label","text"
 "Daily","alledaags2
-\0\0\0e"
-"Fairyland","sprookjesachtig2
-\0\0\0e"
-"Fomal","forme2el\0\0le"
-"Horror","gothic"
+\0\0\0e thema"
+"Fairyland","sprookjesthema"
+"Fomal","forme2el\0\0le thema"
+"Horror","griezelthema"
 "Outdoor","weersbestendig2
-\0\0\0e"
-"Party","feestelijk2
-\0\0\0e"
-"Relax","comfortabel2
-\0\0\0e"
-"Sport","sportie2f\0\0ve"
-"Stage","artistiek2
-\0\0\0e"
-"Vacation","zomers2
-\0\0\0e"
-"Work","zakelijk2
-\0\0\0e"
+\0\0\0e thema"
+"Party","feestthema"
+"Relax","vrijetijdsthema"
+"Sport","sportthema"
+"Stage","podiumthema"
+"Vacation","vakantiethema"
+"Work","werkthema"

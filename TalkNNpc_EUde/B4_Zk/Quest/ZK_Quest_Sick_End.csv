@@ -1,8 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Oh, 
 \0n\0... 
-\0Bist du
-gekommen, 
+\0Bist du gekommen, 
 \0um nach mir zu sehen?"
 "001_a","(\0촁\0Medizin für dich!
 (\0촁\0Hier ist Medizin!
@@ -163,11 +162,13 @@ zahle ich den Preis.(촀"
 \0
 (
 촀\0Was hast du GETAN?!(촀"
-"109","(촀\0Aaah... Ich fühle mich schon so viel
-besser, und das habe ich nur dir
+"109","(촀\0Aaahn\0\0
+\0 Ich fühle mich schon so viel
+besser, 
+\0und das habe ich nur dir
 zu verdanken.\0\0(4촀\0Du sollst meine ewige Dankbarkeit
 haben. 
-\0Und 2,촀diesen
+\0Und 2,촀diesen
 diesedieses 2촁}\0!"
 "110","(1촀\0Hmm, 
 \0ja... 
@@ -175,14 +176,14 @@ diesedieses 2촁}\0!"
 schon so viel gesünder...\0\0(7촀\0Hier, 
 \0als kleines Dankeschön für
 2:meinen Rettermeine Retterin. 
-\0(촀\02촀EinEineEin }\0!"
+\0(촀\02촀EinEineEin }\0!"
 "111","(촀\0Ich danke dir von Herzen!
 \0 Ich fühle
 mich jetzt schon besser, 
 \0und das
 habe ich nur dir zu verdanken.\0\0(촀\0Hoffentlich heitert dies auch deinen
 Tag ein wenig auf – 
-\0nimm 2,촀diesen
+\0nimm 2,촀diesen
 diesedieses
 2촁}\0!"
 "112","(촀\0Gib gut auf dich acht, 
@@ -207,7 +208,11 @@ Stunde nach mir zu rufen.\0\0(촀\0Dann werde ICH es sein, 
 \0der DIR
 die \0Medizin\0￿ bringt!"
 "200","(4촀\0Ich kann gar nicht ausdrücken, 
-\0wie dankbar ich bin, n\0. Und dabei bin ich sonst so eloquent!\0\0(%촀\0Nun, 
+\0wie
+dankbar ich bin,
+\0 n\0.
+
+\0Und dabei bin ich sonst so eloquent!\0\0(%촀\0Nun, 
 \0dann drücke ich mich eben mit
 einem Präsent ausn\0\0
 \0 (촀\0Moment, 

@@ -96,11 +96,11 @@ Hätte mich sonst ewig gewurmt.
 \0 Ich bin's, 
 \0n
 \0. 
-\0Von s촀.
-\0 Weißt du noch?\0\0(,촀\0\0HATSCHI!\0￿
+\0Weißt du noch?\0\0(,촀\0\0HATSCHI!\0￿
 \0( So ein Mist.
 \0 Da treffen
-wir uns wieder, und ich bin krank.
+wir uns wieder, 
+\0und ich bin krank.
 \0
 (촀\0War ja klarn\0\0\0\0(\0촀\0Sobald es mir wieder besser geht,
 
@@ -117,14 +117,10 @@ ha...
 \0was ich meine."
 "011","<"
 "011_01","(촀\02\0n\0, 
-\0ich glaub's ja
-nicht! 
-\0Kaum auf n\0
-angekommen, schon treffe ich dich!\0\0()촀\02\0s\0촀 hat mir
-vorgeschlagen hierherzuziehen.
-\0
-2
-촀ErSie\0 hat nicht lockergelassen.
+\0ich glaub's ja nicht! 
+\0Kaum auf n\0 angekommen, 
+\0schon treffe ich dich!\0\0()촀\02\0s\0촀 hat mir vorgeschlagen hierherzuziehen.
+\0 2촀ErSie\0 hat nicht lockergelassen.
 (촀\0Erst hab ich gezögert...
 \0 Aber
 manchmal muss man sich einfach
@@ -136,67 +132,45 @@ nicht! 
 \0(촀\0Gra ha ha!"
 "011_02","(6촀\02\0n\0!
 \0 Na,
-\0 überrascht,
-mich zu sehen?
-\0 (촀\0Tja, das wird in
-Zukunft öfter vorkommen.
-()촀\02\0s\0촀 hatte mir vorge-
-schlagen, nach n\0 zu
-ziehen. 
-\0(( 촀\02
-촀ErSie\0 hat nicht lockergelassen!
-\0
-(5촀\0Ich lasse mich ungern zu etwas
-drängen, 
-\0aber...
-\0(촀\0 Hier bin ich!
+\0 überrascht, mich zu sehen?
+\0 (촀\0Tja, 
+\0das wird in Zukunft öfter vorkommen.\0\0()촀\02\0s\0촀 hatte mir vorgeschlagen, 
+\0nach n\0 zu ziehen.\0\0( 촀\02촀ErSie\0 hat nicht lockergelassen!
+\0( (5촀\0Ich
+lasse mich ungern zu etwas drängen,
 
+\0abern\0\0
+\0(촀\0 Hier bin ich! 
 \0Gra ha ha!\0\0(\0촀\0Ab heute bin ich also hochoffiziell
 Bewohner von n\0.
 \0
 (""촀\0Auf gute Nachbarschaft!"
 "012","<"
 "012_01","(""촀\0He, n\0.
-\0 Gute
-Nachrichten.
-\0 (촀\0Wir sind jetzt Nachbarn!\0\0()촀\02\0s\0촀 hat mich
-eingeladen.
-\0 2
-촀ErSie\0 hat diese Insel
-über den grünen Klee gelobt!\0\0(5촀\0Dann hoffe ich mal, all die
+\0 Gute Nachrichten.
+\0 (촀\0Wir sind jetzt Nachbarn!\0\0()촀\02\0s\0촀 hat mich eingeladen.
+\0 2촀ErSie\0 hat diese Insel über den grünen Klee gelobt!\0\0(5촀\0Dann hoffe ich mal, 
+\0all die
 Lobgesänge erweisen sich als
 richtig, 
 \0n\0!"
 "012_02","(촀\0Hallo, n\0.
-\0 Schön,
-dass wir uns auch mal begegnen,
-nachdem ich hierhergezogen bin!
-(7촀\02\0s\0촀 hat mich richtig
-bearbeitet, bis ich schließlich
-eingewilligt habe, herzukommen.
-(촀\0Ich meine,
-\0 n\0 macht
-einen guten Eindruck, aber das ist
-trotzdem eine große Entscheidung!
-(%촀\0Tja,
+\0 Schön, dass wir uns auch mal begegnen, 
+\0nachdem ich hierhergezogen bin!\0\0(7촀\02\0s\0촀 hat mich richtig bearbeitet, 
+\0bis ich schließlich eingewilligt habe, herzukommen.\0\0(촀\0Ich meine,
+\0 n\0 macht einen guten Eindruck, 
+\0aber das ist trotzdem eine große Entscheidung!\0\0(%촀\0Tja,
 \0 ab sofort werden wir uns auf
 jeden Fall öfter über den Weg laufen.
 \0
 Sei auf der Hut! 
 \0(촀\0Gra ha ha!"
 "013","(촀\02\0n\0! 
-\0Schön, dich zu
-sehen!
+\0Schön, dich zu sehen!
 \0 (""촀\0Ich bin's,
 \0 n
-\0
-von s촀!
-(5촀\02\0s\0촀 hat diese Insel
-hier in den höchsten Tönen gelobt.
-
-\0So hat 2
-촀ersiees mich rumgekriegt...
-(촀\0Ich musste einfach herziehen, 
+\0 von s촀!\0\0(5촀\02\0s\0촀 hat diese Insel hier in den höchsten Tönen gelobt. 
+\0So hat 2촀ersiees mich rumgekriegt...\0\0(촀\0Ich musste einfach herziehen, 
 \0um
 zu sehen, ob an dem ganzen Trara
 wirklich was dran ist.
@@ -207,8 +181,7 @@ gerade dich hatte ich vergessen!(촀\0
 (촀\0Egal,
 \0 du nimmst es mir sicher nicht
 übel.
-\0 Auf gute Nachbarschaft,
-
+\0 Auf gute Nachbarschaft, 
 \0n\0!"
 "014","(촀\0\0Han\0\0 Haan\0\0 Haaan\0\0
 
@@ -216,12 +189,10 @@ gerade dich hatte ich vergessen!(촀\0
 \0(,촀\0\0TSCHIIII!!!\0d\0￿\0\0
 	\0(+촀\0Heda,
 \0 n\0.
-\0 Ich hoffe,
-du hast nichts abgekriegt...\0\0(\0촀\02\0s\0촀 hat mich
-bequatscht, hierherzuziehen,
-\0 (촀\0und
-als Erstes werd ich natürlich krank.
-(촀\0Ziemlich doof, dass du mich jetzt so
+\0 Ich hoffe, 
+\0du hast nichts abgekriegt...\0\0(\0촀\02\0s\0촀 hat mich bequatscht, hierherzuziehen,
+\0 (촀\0und als Erstes werd ich natürlich krank.\0\0(촀\0Ziemlich doof,
+\0 dass du mich jetzt so
 erlebst.
 \0 Komm doch noch mal später
 vorban\0\0 
@@ -229,10 +200,8 @@ vorban\0\0 
 \0baaan\0\0 
 \0(,촀\0\0TSCHI!\0￿"
 "021","(촀\02\0n\0!
-\0 Schön, ein
-vertrautes Gesicht hier zu sehen! 
-\0Ich
-wohne jetzt auf n\0.\0\0(촀\0Mich hat jemand von dieser Insel
+\0 Schön, ein vertrautes Gesicht hier zu sehen! 
+\0Ich wohne jetzt auf n\0.\0\0(촀\0Mich hat jemand von dieser Insel
 dazu überredet...
 \0(촀\0 Und dann ist diese
 feine Person einfach abgehauen!\0\0(촀\0Nicht zu glauben, oder?
@@ -538,7 +507,7 @@ so schlimm nicht werden..."
 \0( (""촀\0Überrascht, 
 \0mich hier zu
 sehen,
-\0 n\0?\0\0()촀\0s\0촀 hat mich auf dem \0Campingplatz\0￿ überzeugt, 
+\0 n\0?\0\0()촀\02\0s\0촀 hat mich auf dem \0Campingplatz\0￿ überzeugt, 
 \0doch einfach herzuziehen.\0\0(1촀\0Hier wären lauter tolle Nachbarn und
 son\0\0 (6촀\0Dann gebt euch mal Mühe,
 
@@ -567,8 +536,8 @@ war's vielleicht nicht sooo verkehrt."
 \0 n\0?
 \0( Ich bin's, 
 \0n
-\0!\0\0(8촀\0Ich war hier auf dem \0Campingplatz\0￿, und s\0촀 hat mich
-überzeugt, herzuziehen.\0\0(%촀\0Bei Nachbarn wie dir war's wohl
+\0!\0\0(8촀\0Ich war hier auf dem \0Campingplatz\0￿, 
+\0und s\0촀 hat mich überzeugt, herzuziehen.\0\0(%촀\0Bei Nachbarn wie dir war's wohl
 keine schlechte Idee, 
 \0das mit dem
 Umzug durchzuziehen,
@@ -599,8 +568,7 @@ in angemessenem Maße."
 \0 Hallo, 
 \0n\0.\0\0(8촀\0Falls du es noch nicht gehört hast,
 \0
-s\0촀 hat mich beim
-Campen hierher eingeladen.\0\0(9촀\0Komm lieber nicht näher--
+s\0촀 hat mich beim Campen hierher eingeladen.\0\0(9촀\0Komm lieber nicht näher--
 \0
 (,촀\0\0Ha-tschi!\0￿
 \0( (\0촀\0Ich bin krank.\0\0(,촀\0\0Ha-tschi!\0￿(촀\0 Vielleicht treffen wir uns
@@ -990,13 +958,14 @@ noch enger zusammenhalten!"
 "412_02","(촀\0Wen haben wir denn da...
 \0
 2\0n\0!
-\0 Bereit für
-eine kleine Überraschung?\0\0(촀\0Ich wohne jetzt hier, 
+\0 Bereit für eine kleine Überraschung?\0\0(촀\0Ich wohne jetzt hier, 
 \0n\0!
 \0
-()촀\0Im \0Servicecenter \0￿habe ich erfahren,
+()촀\0Im \0Servicecenter \0￿habe ich erfahren,
+\0
 dass du dich auch hier rumtreibst!
-(\0촀\0Da musste ich gleich vorbeikommen,
+(\0촀\0Da musste ich gleich vorbeikommen,
+\0
 um dich vorzuwarnen.
 \0 (""촀\0Nicht, dass du
 dich noch erschreckst!

@@ -6,6 +6,19 @@ tutti gli abitanti dell'isola, eh eh,
 n\0!\0\0(촀\0Ovviamente prima dovrò chiedere al
 \0centro servizi \0￿se è possibile. Fosse
 per me, verrei subito!"
+"003","(촀\0Nonostante io abbia già rifiutato una
+tua proposta, 
+\0tu continui a invitarmi
+sulla tua isola. 
+\0(촀\0Sei un tesoro!\0\0(촀\0Devo ammetterlo, un sentimento
+così forte non può essere ignorato.
+
+\0Mi trasferirò qui!
+()촀\0Prima però devo parlare con quelli
+del \0centro servizi\0￿ per organizzare
+i preparativi.
+(촀\0Se tutto va bene, presto saremo
+vicin2ie!"
 "101","<"
 "101_01","(촀\0Sarebbe meraviglioso!
 \0(('촀\0 Ma no, meglio
@@ -219,36 +232,34 @@ meravigliosi.
 \02
 ( 촀\0Oh, cielo! 
 \0
-E quindi significa anche
-che mi trasferirò sull'isola!
-('촀\0Non immaginavo che avrei già dovuto
-prepararmi a vivere qui.
-\0( (촀\0Ma ora è
-deciso!
-(촀\0Eh sì, n\0, sarà una vita
-avventurosa, ne sono convinta!\0\0(4촀\0Comunque, 
-\0
-n\0n\0\0
-spero
-\0 
-\0(촀\0di poter contare sul tuo aiuto
-per riuscire ad ambientarmi."
-"206_02","(촀\0Ciò significa che vinci tun\0\0 n\0!
-\0( 
-\0((&촀\0È così che ti chiami,
-\0
- vero?\0\0(%촀\0E significa anche che io mi trasferirò
-su quest'isola come avevamo deciso.\0\0(2촀\0Oh, cielo! Sta per succederen\0\0
-veramente!
-\0
- Stento a crederci! 
-\0((촀\0Ho
-una miriade di bagagli da preparare!
-(촀\0Ti aspetta una nuova avventura,
+Vuol dire anche che
+mi trasferirò sull'isola!
+(촀\0Sarà una fantastica avventura,
+ne sono certa, n\0!\0\0(
+촀\0Anche se prima dovrei forse recarmi
+al \0centro servizi\0￿ per assicurarmi di
+poter effettivamente traslocare quin\0\0
+(\0촀\0Andrò subito a chiedere.
+\0 ($촀\0Aspettami
+pure qui, 
+\0farò più in fretta che
+posso."
+"206_02","(촀\0Ciò significa che vinci tu! 
+\0((%촀\0E significa
+anche che io mi trasferirò su questa
+isola come avevamo deciso.\0\0(촀\0Ti aspetta una nuova avventura,
 tesoro!
 \0( Quando scriverò le mie
 memorie,
-\0(5촀\0 questo sarà il punto clue."
+\0(5촀\0 questo sarà il punto clue.
+( 촀\0Oh, cielo!
+\0 (촀\0Mi sono appena resa conto
+che devo ricevere il permesso dal
+\0centro servizi \0￿prima di trasferirmi.
+($촀\0Saresti così gentile da aspettarmi
+qui,
+\0 mentre io vado a sincerarmi
+della cosa, n\0?"
 "206_03","(촀\0Ciò significa che tu trionfi!
 \0( (2촀\0E il mio
 destino è segnaton\0\0 Mi dovrò presto
@@ -258,12 +269,12 @@ così. 
 \0((5촀\0Sapevo di essere destinata a
 una grande avventura, n\0.
 (
-촀\0Se ricordo bene
-\0
- tu ti chiamin\0\0
-n\0, vero?\0\0(6촀\0Bene, n\0,
-\0 spero proprio che tu sia pront2oa 
-\0(촀\0a diventare mi2oa vicin2oa!"
+촀\0Solo che,
+\0 mmmhn\0\0(촀\0 Devo ottenere
+il via libera dal \0centro servizi\0￿ prima
+di trasferirmi effettivamente.
+($촀\0Aspetteresti qui mentre io vado
+a parlarne con loro?"
 "302","($촀\0Mi dispiace averti fatto aspettare,
 tesoro!
 \0( (촀\0Ho chiesto al \0centro servizi
@@ -300,7 +311,7 @@ ascoltare la mia richiestan"
 "305_a","Sì!"
 "305_b","No, qualcun altro."
 "305_c","Lasciamo perdere."
-"306","(""촀\0Allora andrò subito a parlar2촀glile\0.
+"306","(""촀\0Allora andrò subito a parlar2촀glile\0.
 \0(
 (
 촀\0Uhmn\0\0 Spero tanto che accetti.
@@ -334,11 +345,13 @@ che non vivremo nello stesso luogo.
 \0
 Però bisogna cogliere le occasioni.
 \0
-(%촀\0E la mia è quella di stare qui, adesso. 
-\0(""촀\0Preparati, n\0: 
-\0presto 2""촀questoquesta\0 n\0
+(%촀\0E la mia è quella di stare qui,
+adesso.\0\0(""촀\0Preparati, n\0: 
+\0io, 
+\0n
+\0,
 \0
-(촀\0 abiterà vicino!"
+(촀\0 presto abiterò vicino a te!"
 "310","( 촀\0C'è qualcosa che non va?
 \0( (&촀\0Non c'è
 nessuno che faccia al caso nostro,
@@ -355,46 +368,25 @@ mi resta che accettare la situazione 
 \0
 (촀\0e
 pensare ad altro, n\0."
-"402","()촀\0Sono di ritorno da una bella
-chiacchierata con il \0centro servizi
-\0￿e non hanno mostrato flessibilitàn\0\0
-(8촀\0Dicono che già mia cugina vive qui
-\0( (9촀\0e
-pur somigliandoci come due ciliegie,
-non possiamo stare attaccaten\0\0
-(촀\0Perché in realtàn\0\0
-\0
- abbiamon\0\0
-\0(
-촀\0 caratteri completamente diversi
-e incompatibili!
-Mi dispiace. ('촀\0Purtroppo non mi
-faranno vivere qui con lei. 
-\0(Forse le
-cose cambieranno in futuron\0\0
-(촀\0Ma per il momento sono irremovibili."
-"403","(촀\0Scusami per l'attesa!
-\0 Ho fatto un
-salto veloce al \0centro servizi\0￿
-\0
-(촀\0 e ho
-delle notizie terribili.
-(8촀\0Dicono che una cugina di mia
-madre, mia cugina di secondo grado,
-si sta per trasferire qui.
-\0(
-E lei (촀\0è l'ultim2촀oa\0 n\0 su questa
-terra che vorrei incontrare!\0\0(촀\0Ci somigliamo tantissimo e abbiamo
-anche lo stesso nome,
-\0( (	촀\0ma abbiamo
-caratteri totalmente opposti!
-Mi dispiace, ('촀\0ma non possiamo
-assolutamente vivere sulla stessa
-isola, n\0."
+"313","(촀\0Mi fa piacere che la pensi così!\0\0Sai,
+\0()촀\0 al \0centro servizi\0￿ hanno detto che s촀 potrebbe essere 26촀interessatointeressata\0.\0\0Solo per essere assolutamente
+sicura:
+\0 (&촀\0hai qualcosa in contrario
+se 2촀glile\0 parlo, n\0?"
+"313_a","No, fai pure!"
+"313_b","In realtà, sì..."
+"314","( 촀\0Ah. 
+\0Capisco.
+\0 Bene.
+\0 (8촀\0Temo di essermi
+fatta prendere un po' la zampa.\0\0(촀\0Sicuramente capirai la mia delusione.
+
+\0(2촀\0Meglio dimenticarci di questa storia
+del trasloco, sei d'accordo?"
 "404","(""촀\0Mi dispiace che tu abbia dovuto
 aspettarmi,
 \0 ma non crederai mai
-(9촀\0cosa mi è successo.\0\0Sono stata al \0centro servizi\0￿
+(9촀\0a quello che mi è successo.\0\0Sono stata al \0centro servizi\0￿
 \0
 (촀\0\0 \0￿e mi
 hanno detto che sull'isola non c'è
@@ -409,31 +401,6 @@ un'eccezione per me, n\0!
 \0((촀\0 Ma non
 mi arrendo. Spero ancora di riuscire
 a vivere qui con te, un giorno."
-"405","(촀\0Mi dispiace molto per il ritardo.
-
-\0
-Purtroppo, tesoro, la questione èn\0\0
-(9촀\0che tutti vogliono venire a vivere qui!
-Ho parlato con il \0centro servizi\0￿,
-\0
-('촀\0
-e mi hanno detto che non hanno
-posto per costruire nuove case.
-\0(
-(촀\0Neanche per una casetta! Troppa
-urbanizzazione, dicono.(촀\0 
-\0
-Sarà vero?
-\0
-(\0촀\0Ho evitato una scenata.
-\0
-
-(	촀\0Ma di certo sono 2\0n\0
-molto infelice! (촀\0Chissà, forse un dì
-il mio destino cambierà in meglio.
-\0(
-(촀\0E noi potremo finalmente vivere sulla
-stessa isola, n\0."
 "406","(촀\0Mi dispiace per l'attesa, tesoro,
 \0
  ma
@@ -479,27 +446,6 @@ mai che mi giudicassero troppo
 fastidiosa.\0\0(8촀\0A questo punto mi armerò di
 pazienza e aspetterò che
 le cose cambino, n\0."
-"421","(촀\0Mia cugina! 
-\0Con tutti i posti che
-esistono per andare a viveren\0\0
-(촀\0perché doveva venire proprio qui?!\0\0(
-촀\0Ha ottimi gusti
-\0
- certo.
-\0( (9촀\0Ma solo
-perché è sempre stata una copiona!\0\0(촀\0Se solo il \0centro servizi \0￿non mi
-avesse informata che vive quin\0\0
-('촀\0Che peccato, n\0!"
-"422","(촀\0Perché doveva trasferirsi proprio qui,
-mia cugina?!
-\0( (9촀\0Avrei voluto che
-il \0centro servizi \0￿l'avesse rifiutata.
-(촀\0So che sembra alquanto strano, 
-\0ma
-('촀\0tu non sai com'è fatta veramente.\0\0(8촀\0Forse dovrei rivalutarla, dopotutto
-ha avuto la classe 
-\0(촀\0di trasferirsi
-su un'isola meravigliosa."
 "423","(촀\0È un'isola così in voga che non
 accettano altri abitantin\0\0(촀\0 Inizio a
 pensare che ci sia qualcosa sotto.
@@ -515,17 +461,6 @@ tiene nascosto qualcosa, tesoro?
 trasferire su quest'isola. 
 \0((촀\0Io devo
 stare dove vogliono stare tutti!"
-"424","(
-촀\0È difficile credere che non ci sia più
-spazio per delle nuove case su tutta
-l'isola.
-(&촀\0Non riescono a costruire neanche
-una casetta piccina picciò per me?
-\0(
-(\0촀\0Peròn\0\0
-\0('촀\0 forse non mi accontenterei.\0\0('촀\0Che peccato per l'isola!
-\0( (5촀\0Avrei così
-tanto da offrirle!"
 "504","Sai tesoro, 
 \0(%촀\0quest'isola si è
 conquistata un posto speciale

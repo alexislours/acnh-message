@@ -28,10 +28,8 @@ vol a du retard, bien sûr !"
 rebours, n\0 !
 Tu es prêt2\0e pour la fête de l'année ?"
 "008","2\0n\0 !
-\0( (""촀\0Il te va bien,
-ton chapeau !
-\0( (2촀\0Et le mien ? Tu le
-trouves joli ?"
+\0( (""촀\0Il te va bien, ton chapeau !
+\0( (2촀\0Et le mien ? Tu le trouves joli ?"
 "009","(촀\0T'as vu mon chapeau ?
 \0( C'est
 l'occasion de le porter !
@@ -48,8 +46,7 @@ envie de mettre le mien !"
 "012","(
 촀\0Tu as quelque chose de différent,
 n\0n\0\0
-\0 (촀\0Oh ! Mais
-c'est ton chapeau !\0\0($촀\0Tu es impatient2\0e qu'on passe à la
+\0 (촀\0Oh ! Mais c'est ton chapeau !\0\0($촀\0Tu es impatient2\0e qu'on passe à la
 nouvelle année, c'est ça ?
 \0( Allez,
 je vais mettre le mien aussi !"
@@ -64,8 +61,7 @@ indispensable à porter pour le
 compte à reboursn\0\0 
 \0<(촀\0Tu devines ?"
 "015","(;촀\02\0n\0 !
-\0( Regarde un peu
-par là, vite !
+\0( Regarde un peu par là, vite !
 \0<(9촀\0 Est-ce que tu es prêt2\0e ?"
 "016","(촀\0
 \0<TADAAM !
@@ -130,9 +126,7 @@ on est presque l'année prochaine !"
 chapeaux ! Faut qu'on se fasse beaux
 pour accueillir la nouvelle année !"
 "030","(촀\02\0n\0 ?
-\0( Mets ton
-chapeau, tu veux bien ?(""촀\0 Je veux
-voir s'il te va bien !"
+\0( Mets ton chapeau, tu veux bien ?(""촀\0 Je veux voir s'il te va bien !"
 "032","(촀\0Dans cinq minutes, la nouvelle
 année est là ?!
 \0 (8촀\0Ouh, l'angoisse !
@@ -151,10 +145,8 @@ on dit (;촀\0« hé, on s'est pas vus depuis
 l'année dernière ! » 
 \0(촀\0TROP DRÔLE !"
 "035","2\0n\0 !
-\0((촀\0 Ça y est,
-c'est l'heure !
-\0( Tu es prêt2\0e(;촀\0 à
-envoyer les pétards ?
+\0((촀\0 Ça y est, c'est l'heure !
+\0( Tu es prêt2\0e(;촀\0 à envoyer les pétards ?
 x"
 "036","(%촀\0Bon, donc on fait 3, 
 \02, 

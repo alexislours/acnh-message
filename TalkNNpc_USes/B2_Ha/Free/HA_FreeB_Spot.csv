@@ -58,25 +58,24 @@ superacogedora.
 \0 ¡Me gusta!\0\0(%촀\0A mí, con tener el espacio justo para
 hacer flexiones y abdominales, me
 basta y me sobra."
-"006","(&촀\0¿Tu casa está más grande, o son
-ideas mías?\0\0(촀\0Oye, ¿no estarás pensando en tener
-el espacio suficiente para practicar
-촀 dentro de la casa?
-(촀\0Caramba,
-\0 te me adelantaste
-con esa idean"
-"007","(\0촀\0Parece que ampliaste tu casa.
-\0
-(6촀\0¿No te habrás hecho una sala de
-ejercicios o algo así?n\0\0
+"006","(
+촀\0Oye,
+\0 esta sala es muy grande, ¿no?\0\0(촀\0¿No la estarás preparando para practicar 촀 adentro de tu casa?\0\0(촀\0Vaya,
+\0 veo que te me adelantaste con
+la idean"
+"007","(촀\0¿Para qué usas la habitación de
+atrás?
+\0 (6촀\0¿La usas como lugar para
+entrenar o algo así?
 (촀\0¡Pues una habitacionzucha y unos
 aparatos de gimnasio no tonifican
 los músculos automáticamente!
-(촀\0\0(Ay,
+(촀\0\0(Caramba,
 \0 qué envidian\0\0
-\0).\0￿"
-"008","(촀\0¿Conque ampliaste tu casa otra vez,
-n\0?\0\0(%촀\0Tu choza es como mis músculosn\0\0
+\0).\0￿"
+"008","(6촀\0Ampliaste tu casa desde que la
+construyeron,
+\0 no me digas que non\0\0\0\0(%촀\0Tu choza es como mis músculosn\0\0
 \0
 (촀\0¡No tiene límite!"
 "009","(촀\0¡Vaaayaaa!
@@ -86,8 +85,7 @@ estadio!
 (촀\0Con tanto espacio,
 \0 ya no hay rutina
 que se te resista."
-"010","(촀\0¡¿Le pusiste segundo piso a tu
-casa?!\0\0(
+"010","(촀\0¡¿Tienes una casa de dos pisos?!\0\0(
 촀\0A ver si lo adivinon\0\0
 \0 El primer piso
 para el gimnasio
@@ -95,9 +93,9 @@ para el gimnasio
 \0
 (촀\0¡para los vestuarios! 
 (%촀\0Bien pensado, máquina."
-"011","(촀\0¡¿Es verdad que le agregaste un
-sótano a tu casaaa?!\0\0(촀\0Tremendo gimnasio pondría yo
-con un espacio asín"
+"011","(촀\0¡¿Es verdad que tu casa tiene
+sótanooo?!\0\0(촀\0Tremendo gimnasio pondría yo
+con un espacio así, n\0n"
 "012","촊촉(촀\0La casa de s\0촀 es una
 tienda de campaña, ¿no?\0\0촆촃(촀\0¡Es como si estuviese acampando
 todos los días!
@@ -115,16 +113,16 @@ de s\0촀?\0\0촆촃(촀\0Es bastante grande,
 \0 así que se me
 ocurrió que sería olímpico hacer una
 carrera de relevos ahí adentro."
-"015","촊촉(%촀\0La casa de s\0촀 cada
-vez es más grande,
-\0 ¿no te parece?\0\0촆촃(3촀\0Sabiendo como es,
+"015","촊촉(%촀\0La casa de s\0촀 es enorme,
+\0 ¿no te parece?\0\0촆촃(3촀\0Conociéndol2촀oa\0,
 \0 quizá termina
 convirtiéndola en un castillo."
-"016","촊촉(촀\0¡Parece que s\0촀
-amplió todavía más su casa!\0\0촆촃(%촀\0Da la impresión de que no se
-conforma con cualquier cosan\0\0\0\0(촀\0¡Con solo ver el empeño que pone en
-las remodelaciones domésticas, ya
-queda más claro que el agua!"
+"016","촊촉(촀\0Parece que s\0촀 no se conforma con cualquier cosan\0\0
+\0
+(%촀\0¡Qué casa!\0\0촆촃(촀\0Cada uno a lo suyo:
+\0 2촀élella\0 tiene
+una casazan\0\0
+\0 (5촀\0¡y yo unos musculazos!"
 "017","촊촉(촀\0Oye,
 \0 ¿no tienes curiosidad por ver
 cómo es por dentro la casa de
@@ -136,12 +134,14 @@ hará por ahí?
 entrenamiento muscular!
 촆촃(촀\0Ya no necesito más competencia en
 el tema del mantenimiento físicon"
-"018","촊촉(촀\0Veo que s\0촀 le
-puso un segundo piso a su casa.\0\0(촀\0¡Cómo me gustaría que mi casa
-también tuviera dos pisos!\0\0촆촃(1촀\0Me pasaría el día subiendo y bajando
+"018","촊촉(촀\0¡Cómo me gustaría que mi casa
+también tuviera dos pisos,
+\0 como la
+de s\0촀!\0\0촆촃(1촀\0Me pasaría el día subiendo y bajando
 escaleras como un locon"
-"019","(촀\0Parece que s\0촀 le
-puso un sótano a su casa.\0\0촆촃(%촀\0Seguro que es un gimnasio exclusivo
+"019","(촀\0Estuve pensando en esto de que la
+casa de s\0촀 tiene
+un sótano.\0\0촆촃(%촀\0Seguro que es un gimnasio exclusivo
 y secreton\0\0
 \0 (촀\0¡Tengo que saber cómo
 me puedo inscribir!"
@@ -161,11 +161,9 @@ suyos antes de vender una casa!"
 촆촃(촀\0¡A este paso superará a \0Tom Nook\0￿
 en menos de lo que canta un gallo,
 n\0!"
-"022","촊촉(%촀\0En \02\0촀MiniNook \0￿tienen un montón
-de cosas nuevas.
-\0 ¡Se están
-poniendo las pilas de verdad!
-촆촃(촀\0Apuesto a que \0Tendo \0￿y su socio
+"022","촊촉(%촀\0¿Viste la cantidad de cosas que
+están vendiendo en \02\0촀MiniNook\0￿?
+\0 ¡Se están poniendo las pilas de verdad!\0\0촆촃(촀\0Apuesto a que \0Tendo \0￿y su socio
 terminarán superando en ventas
 a \0Tom Nook\0￿, n\0."
 "024","촊(촀\0Parece que últimamente el \0museo\0￿

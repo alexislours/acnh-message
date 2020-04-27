@@ -13,16 +13,16 @@ sacchetto preferito!
 \0 (촀\0E non so
 neanche doven\0\0 
 \0(촀\0Devastante!"
-"002_a","Vado io a cercarlo!"
-"002_b","Poverina..."
+"002_a","(\0촀\0Vado io a cercarlo!"
+"002_b","(\0촀\0Poverina..."
 "003","(&촀\0Hai visto per caso il mio sacchetto?
 \0
 (
 촀\0Credo di averlo perso.
 \0 Non so
 dove! (촀\0Non lo trovo più!"
-"003_a","Te lo ritrovo io!"
-"003_b","Non te la prendere..."
+"003_a","(\0촀\0Te lo ritrovo io!"
+"003_b","(\0촀\0Non te la prendere..."
 "004","(촀\0Devo aver lasciato il mio sacchetto
 da qualche parte.
 \0 (촀\0Che storia
@@ -43,8 +43,8 @@ non lo trovo da nessuna parte!"
 
 \0(촀\0L'ho lasciato da qualche parte. Come
 faccio senza?"
-"007_a","Vado a cercarlo!"
-"007_b","Come mi dispiace..."
+"007_a","(\0촀\0Vado a cercarlo!"
+"007_b","(\0촀\0Come mi dispiace..."
 "008","(촀\0Lo cerco da giorni, 
 \0(촀\0ma non riesco
 proprio a trovare il mio diario degli
@@ -161,7 +161,7 @@ e altre cosen\0\0 troppo importanti!\0\0(촀\0\0Tipo le mie ciglia fin
 scoprono che uso una roba simile,
 cioè sai che figura?!\0￿"
 "102_a","(\0촀\0Vuoi che lo cerchi?"
-"102_b","Che disastro..."
+"102_b","(\0촀\0Che disastro..."
 "103","(촀\0Uau, 
 \0davvero?!
 \0 (촀\0Sei la mia salvezza,
@@ -187,7 +187,7 @@ di, cioè, 
 
 \0(촀\0Come posso vivere senza?"
 "201_a","Te lo ritrovo io!"
-"201_b","Che peccato."
+"201_b","(\0촀\0Che peccato."
 "202","(촀\0Ho perso il mio diario degli
 autografin\0\0
 \0 (촀\0Ho cercato e cercato e

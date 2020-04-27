@@ -1,19 +1,18 @@
 ﻿"label","text"
 "001","(5촀\0Tiens, n\0!
-\0 Grande nouvelle, j'ai décidé de me séparer de quelques trésors personnels.
-($촀\0Et je commence par toi, veinard2\0e :
+\0 Grande nouvelle, j'ai décidé de me séparer de quelques trésors personnels.\0\0($촀\0Et je commence par toi, chanceu2
+xse :
 \0
-(%촀\02\0}\0\0 en exclusivité pour m2
-ona client2\0e préféré2\0e!"
+(%촀\02\0}\0\0 en exclusivité pour 2,mon clientma cliente préféré2\0e!"
 "001_a","(\0촁\0Combien?
 (\0촁\0Je t'écoute..."
 "001_b","Ça m'intéresse pas.
 J'en veux pas."
-"002","(5촀\0Je lis dans tes penséesn\0\0 (1촀\0J'entrevois
+"002","(5촀\0Je lis dans tes penséesn\0\0 (1촀\0Je vois
 tes rêves les plus fousn\0\0 Tu veuxn\0\0
 2\0}\0\0!
 (촀\0Eh bien c'est ton jour de chance,
-figure-toi que j'en vends 2촀unune\0!"
+figure-toi que j'en vends 2촀unune\0!"
 "002_a","(\0촁\0Combien?
 (\0촁\0Continue..."
 "002_b","Je pense pas.
@@ -38,7 +37,7 @@ cossins à vendre!
 même pas quoi en faire, de ce
 trucn\0\0 (6촀\0à part le revendre.
 (&촀\0Alorsn\0\0 Ça t'intéresse, 2\0}\0\0?
-\0 (%촀\0Quasi neu2촀fve\0 et quasi bon marché!"
+\0 (%촀\0Quasi neu2촀fve\0 et quasi bon marché!"
 "004_a","(\0촁\0Combien?
 (\0촁\0Intéressant..."
 "004_b","(#촁\0Pardon, mais...
@@ -84,9 +83,7 @@ Tope là."
 "100_b","Non, merci.
 (#촁\0Euh, désolé2\0e..."
 "101","(촀\02\0n\0!
-\0 Et encore une
-vente rondement menée par
-n
+\0 Et encore une vente rondement menée par n
 \0!"
 "102","(5촀\0Alors, quel effet cela fait-il d'avoir
 l'insigne honneur de posséder
@@ -126,7 +123,7 @@ en affaires, mais je peux descendre
 jusqu'à Z..."
 "201_a","(\0촁\0C'est mieux.
 (\0촁\0C'est bon pour moi."
-"201_b","J'ai pas les moyens.
+"201_b","(\0촀\0J'ai pas les moyens.
 C'est encore trop."
 "202","(촀\02\0n\0!
 \0 Marché conclu!"
@@ -149,10 +146,8 @@ C'est bon."
 (\0촁\0Un peu moins?"
 "206","Oh. 
 \0('촀\0Impossible, n\0. 
-\0C'était
-le plus bas que je pouvais proposer.
-\0
-Ce sera pour une autre fois."
+\0C'était le plus bas que je pouvais proposer.
+\0 Ce sera pour une autre fois."
 "207","(:촀\0Soit, puisque tu insistes, mon vrai
 dernier prix est de Z\0.
 \0(
@@ -214,12 +209,12 @@ Envoie!"
 je tente une dernière offre...
 (%촀\02\02\0}\0\0!
 \0 Et pour pas cher!
-\0 Quasi gratuit2촀\0e\0!
+\0 Quasi gratuit2촀\0e\0!
 \0 À peine Z, c'est donné!"
 "305_a","Vendu!
 Je prends!"
 "305_b","Non, merci.
-Je m'en passerai."
+(\0촀\0Je m'en passerai."
 "306","(촀\0Merci!
 \0 Merci de rien avoir acheté!
 \0
@@ -233,10 +228,7 @@ Je prends."
 (\0촁\0C'est pas donné."
 "401","(촀\0Sans blague?"
 "402","(!촀\02\0n\0!
-\0 Ça me fait plaisir de
-confier ce trésor à un2\0e aussi bon2\0ne
-client2\0e, n\0!
-(촀\0Et c'est pas déplaisant non plus de
+\0 Ça me fait plaisir de confier ce trésor à un2\0e aussi bon2\0ne client2\0e, n\0!\0\0(촀\0Et c'est pas déplaisant non plus de
 récupérer une partie des clochettes
 qu'il m'avait coûtées!"
 "403","(6촀\0Ha ha! 
@@ -245,7 +237,7 @@ une bonne séance de marchandagen\0\0
 (&촀\0Que dirais-tu de Z?"
 "403_a","C'est honnête!
 Je prends."
-"403_b","Baisse encore un peu.
+"403_b","(\0촀\0Baisse encore un peu.
 C'est encore trop."
 "404","(촀\0Oh, t'es dur2\0e en affaires!
 \0

@@ -122,26 +122,24 @@ ich sogar einen Marathon abbrechen,
 \0(""촀\0Und jetzt bin ich hier!"
 "202","<"
 "202_01","($촀\0Hey! 
-\0Ich bin's, 
-\0n
-\0!
+\0Wie geht's?
 \0(
 ()촀\0Warum ich hier bin? 
 \0Weil ich
 eingeladen wurde,
 \0 n\0!"
 "202_02","($촀\0Hi! 
-\0Freut mich, dich kennenzulernen!
-Mein Name ist n
-\0.\0\0(%촀\0Schöne Insel, 
+\0Wie läuft's denn so bei dir?
+\0
+(%촀\0Schöne Insel, 
 \0auf die man mich hier
 eingeladen hat, 
 \0n\0!"
 "202_03","(""촀\0Hallo! 
-\0Ich bin n
-\0 und
-freu mich riesig, endlich hier auf
-der Insel zu sein, 
+\0Ich freu mich riesig,
+\0
+endlich hier auf der Insel zu
+sein, 
 \0n\0!\0\0()촀\0Als ich gehört habe, wie sportlich
 es hier zugehen soll,
 \0 bin ich sofort
@@ -240,21 +238,16 @@ wurde, 
 \0
 (촀\0Ich werde mich auf dieser Insel
 niederlassen, 
-\0n\0!\0\0(7촀\02\0s\0촀 hat mich
-gescoutet und da konnte ich
-nicht widerstehen.
-(촀\0Falls du 촀 so gern wie
-ich magst, 
-\0dann könnte ich ab jetzt
-dein neuer Partner sein!"
+\0n\0!\0\0(7촀\02\0s\0촀 hat mich gescoutet,
+\0 und da konnte ich nicht widerstehen.\0\0(촀\0Falls du 촀 so gern wie ich magst, 
+\0dann könnte ich ab jetzt dein neuer Partner sein!"
 "402_02","(9촀\0Du, 
 \0ich, ähn\0\0
 \0 ziehe demnächst
 nach n\0!\0\0(
 촀\0Daran ist s\0촀 schuld!
 \0
-2
-촀SeinIhr\0 Trizeps hatte hypnotisierende
+2촀SeinIhr\0 Trizeps hatte hypnotisierende
 Wirkung auf mich, 
 \0n\0.
 (촀\0Mehr weiß ich gar nicht mehr von
@@ -265,10 +258,8 @@ dass ich hier wohnen will!"
 einem Joggingpartner? 
 \0((촀\0Nimm mich!
 \0
-Ich werde auf diese Insel ziehen!\0\0(6촀\0Das hat s\0촀
-eingefädelt. 
-\0Und ich hatte keine
-Argumente dagegen, 
+Ich werde auf diese Insel ziehen!\0\0(6촀\0Das hat s\0촀 eingefädelt. 
+\0Und ich hatte keine Argumente dagegen, 
 \0n\0!"
 "403","<"
 "403_01","( 촀\0Ich habe große Neuigkeiten! 

@@ -31,7 +31,7 @@ Cosa faccio?"
 \0
 Cosa faccio?"
 "005_a","Scambia!"
-"005_b","No, lasciamo perdere."
+"005_b","Lascia qui."
 "006","Oh,
 \0 ma ho le tasche piene!
 \0
@@ -99,7 +99,7 @@ legittimo proprietario per
 restituirlo."
 "102","Qualcuno ha perso 2\0}\0\0!\0\0Scommetto che è di qualcuno
 che abita su quest'isola. Sarà
-meglio che 2촀lola\0 lasci qui."
+meglio che 2촀lola\0 lasci qui."
 "103","Qualcuno ha perso 2\0}\0\0!\0\0Chissà a chi appartienen\0\0
 \0( È meglio
 che lasci perdere per non complicare
@@ -259,8 +259,7 @@ per la casa!"
 \0 Ho finito di pagare l'ultimo
 prestito per la casa, finalmente!"
 "205",""
-"210","Capisco. 
-\0Ha perfettamente senso!"
+"210","Ora è tutto chiaro!"
 "210_01","Ho imparato dei bei \0tagli pop\0￿!
 Potrei cambiare un po' il mio look
 con una \0toletta\0￿ o uno \0specchio\0￿."
@@ -277,12 +276,13 @@ ora posso portare più roba con me!"
 "210_05","Ho padroneggiato l'arte del mettere
 in ordine! Scommetto di riuscire a
 portare un sacco di cose, adesso!"
-"210_06","Ho imparato a cambiare strumento!"
+"210_06","Ho imparato come si cambia
+strumento in modo facile e veloce!"
 "210_06_01","Quando \0sono all'aperto\0￿, ora posso
 premere \0\0￿ per usare la \0ruota degli
-attrezzi\0￿."
+strumenti\0￿."
 "210_06_02","\0All'aperto\0￿, posso premere \0\0￿ per
-usare la \0ruota degli attrezzi\0￿! \0\0(Su
+usare la \0ruota degli strumenti\0￿! \0\0(Su
 Joy-Con in orizzontale, usa  + .)\0￿"
 "210_07","Ora posso creare strumenti robusti
 che non si romperanno facilmente!
@@ -331,12 +331,12 @@ sul mio \0Nook Phone\0￿! Potrò fare
 acquisti dove e quando voglio!"
 "290","<"
 "290_01","Oh, no!
-\0 Purtroppo 2""촀il miola mia\0 2""촀fidatofidata\0 \0}\0\0 \0￿ha ormai fatto il suo corson"
+\0 Purtroppo 2""촀il miola mia\0 2""촀fidatofidata\0 \0}\0\0 \0￿ha ormai fatto il suo corson"
 "290_02","Oh, no!
-\0 Grazie di tutto, 2촀miomia\0 fedele
+\0 Grazie di tutto, 2촀miomia\0 fedele
 \0}\0\0\0￿n"
 "290_03","Oh, no!
-\0 E con questo 26촀il mio carola mia cara\0 \0}\0\0 \0￿è 2.촀diventatodiventata\0 inutilizzabile!"
+\0 E con questo 26촀il mio carola mia cara\0 \0}\0\0 \0￿è 2.촀diventatodiventata\0 inutilizzabile!"
 "505","(
 촀\0Potrei riutilizzare questo copertonen\0\0
 \0
@@ -359,8 +359,7 @@ per uno schema fai da te!"
 \0 OK!
 "
 "509_01","Fantastico!
-\0 Ho imparato
-uno schema fai da te per
+\0 Ora so come realizzare
 2\0}\0\0!"
 "511","(
 촀\0Mmmh, 
@@ -383,6 +382,18 @@ un'idea per uno schema fai da te!"
 spazzaturan\0\0
 \0 (촀\0Però mi ha dato una
 bella idea per uno schema fai da te!"
+"515","(
+촀\0Se facessi buon uso del motivo su
+quest'uovon\0\0
+\0 (촀\0Oh, 
+\0mi è appena venuta
+un'idea per degli schemi fai da te!"
+"518","(
+촀\0Se metto insieme tutti gli schemi
+fai da te con i gusci d'uovo che
+conoscon\0\0
+(촀\0Oh, me n'è venuto in mente uno
+nuovo!"
 "700","Tanti auguri a 
 \0me!
 \0 Che bellezza
@@ -471,8 +482,8 @@ Ho bisogno di più spazio."
 "914_01","Dato che tutti si radunano in questa
 piazza, sarà meglio scegliere un
 altro luogo."
-"915","Se posiziono gli edifici troppo vicini
-tra loro, bloccheranno il passaggio.
+"915","Se posiziono gli elementi troppo
+vicini tra loro, bloccherò il passaggio.
 Meglio scegliere un altro luogo!"
 "916","Se è troppo vicino a un ponte come
 questo, bloccherà il passaggio.
@@ -488,13 +499,17 @@ delle lettere, perciò qui non va bene.
 Meglio scegliere un altro luogo!"
 "919_01","Prima dovrei spostare la \0cassetta
 delle lettere\0￿."
+"920","Così è troppo vicino al molo e
+bloccherà il passaggio. Meglio
+scegliere un altro luogo!"
 "921","Non ci sono fiumi qui su cui posso
 collocare un ponte!"
 "926","Per posizionare un ponte, il fiume
 deve essere della larghezza giusta e
 il terreno piatto su entrambi i lati."
-"926_01","Con l'acqua così vicina, sarebbe
-difficile usare liberamente il ponte."
+"926_01","Se costruissi il ponte così vicino
+all'altro fiume, sarebbe difficile
+usarlo."
 "926_02","Con un rilievo così vicino, sarebbe
 difficile usare liberamente il ponte."
 "926_03","Non penso sia una buona idea
@@ -586,7 +601,7 @@ nuova vita in un posto nuovo!"
 "960_01","Ho scelto un nuovo posto per
 la casa di s촀!
 \0
-Spero proprio che 2촀glile\0 piacerà."
+Spero proprio che 2촀glile\0 piacerà."
 "960_02","Ho scelto una posizione
 nuova per il \0museo\0￿!"
 "960_03","Ho scelto una posizione

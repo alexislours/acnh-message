@@ -19,8 +19,8 @@ objets a attiré ton attention?\0\0(2촀\0Tu sais,
 convaincre,
 \0 j'accepterais peut-être
 de te vendre certains de mes biens."
-"004_a","J'ai vu quelque chose!"
-"004_b","C'est gentil, mais ça ira."
+"004_a","(\0촀\0J'ai vu quelque chose!"
+"004_b","(\0촀\0C'est gentil, mais ça ira."
 "005","(촀\0Je sais à quel point ça peut être
 difficile de trouver l'objet parfait.\0\0($촀\0C'est pourquoi si jamais tu as un
 coup de cœur pour l'un de mes
@@ -28,14 +28,14 @@ biens,
 \0 n'hésite pas à m'en faire part!
 (촀\0Je serai peut-être disposée à te
 le vendre."
-"005_a","Alors, justement..."
-"005_b","Ça ira, merci."
+"005_a","(\0촀\0Alors, justement..."
+"005_b","(\0촀\0Ça ira, merci."
 "006","(&촀\0Est-ce que je me trompe,
 \0(촀\0 ou tu es
 2
 tombétombée sous le charme d'un de mes
 objets et souhaiterais l'acheter?"
-"006_a","Tu ne te trompes pas!"
+"006_a","(\0촀\0Tu ne te trompes pas!"
 "006_b","Tu te trompes."
 "007","(&촀\0Qu'est-ce qui te fait envie,
 \0 dans ce
@@ -70,7 +70,7 @@ me trouver!"
 bon prix,
 \0 (촀\0nous pourrons faire affaire."
 "100_a","J'achète!"
-"100_b","Oublions ça."
+"100_b","(\0촀\0Oublions ça."
 "101","(촀\0Ah,
 \0 voilà donc ce qui fait battre
 ton cœur!
@@ -81,7 +81,7 @@ ton cœur!
 ($촀\0Z\0.
 \0(&촀\0 Qu'en dis-tu?"
 "101_a","J'achète!"
-"101_b","Oublions ça."
+"101_b","(\0촀\0Oublions ça."
 "102","(6촀\0Excellent choix,
 \0 très 2cher
 chère!
@@ -91,7 +91,7 @@ chère!
 Z\0.
 \0(&촀\0 Qu'en dis-tu?"
 "102_a","Ça me va!"
-"102_b","Tout compte fait..."
+"102_b","(\0촀\0Tout compte fait..."
 "103","( 촀\0Je voisn\0\0 Voilà qui est dommage.
 \0
 (촀\0Enfin n'hésite pas à me faire signe
@@ -120,14 +120,14 @@ dans tes poches!
 par courrier,
 \0 dans ce cas."
 "300","('촀\0Non, je regrette. 
-\02촀MonMa\0 2촀cher
+\02촀MonMa\0 2촀cher
 chère\0 }촀 n'est pas à vendre.\0\0(촀\0C'est mon insecte de compagnie.
 \0
 (\0촀\0(&촀\0Il doit bien y avoir autre chose qui
 t'intéresse?"
-"301","('촀\0Je suis désolée, 2&촀monsieurmadame\0 2\0}촀 n'est pas à vendre.\0\0(""촀\02촀IlElle\0 fait un peu partie de la famille.
+"301","('촀\0Je suis désolée, 2&촀monsieurmadame\0 2\0}촀 n'est pas à vendre.\0\0(""촀\02촀IlElle\0 fait un peu partie de la famille.
 \0
-(촀\02촀IlElle\0 supporterait mal la séparationn\0\0
+(촀\02촀IlElle\0 supporterait mal la séparationn\0\0
 (촀\0As-tu vu autre chose, n\0?"
 "302","(촀\02\02\0}\0\0n\0\0
 \0 ('촀\0Je ne suis pas prête à m'en séparer, je suis désolée.\0\0(\0촀\0Avais-tu repéré autre chose, sinon?"

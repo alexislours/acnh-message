@@ -6,7 +6,7 @@ Frucht gibt's auf n\0?"
 "001_b","Die da?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(3촀\0Zack.
 \0 Gewonnen!
 \0( ()촀\0n촀 is'
@@ -49,10 +49,12 @@ weiß ich auch nich', 
 "016","(촀\0Unser \0Museum \0￿wird DER Knüller!
 \0
 ()촀\0\0KFalls es jemals fertig wird...\0d"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(""촀\0Du musst dir mal unser \0Museum\0￿
 geben.
 \0 Wir sind hier alle stolz wie
@@ -63,14 +65,14 @@ als Fotokulisse, 
 \0n\0!"
 "028","(""촀\0Warste schon im \0Museum\0￿?
 \0(
-((촀\0Musst dir auf jeden Fall 2*(촀unsern
+((촀\0Musst dir auf jeden Fall 2*)촀unsern
 unsre
 unser
 2촁
 \0 ansehn!"
 "029","( 촀\0Stehste auf Krabbelviecher?
 \0 Lass dir
-2*(촀unsern
+2*)촀unsern
 unsre
 unser 2촁
  dann bloß nich' entgehen!\0\0(5촀\0In unsrem inseleigenen \0Museum
@@ -81,23 +83,20 @@ bewundern, 
 erst wegdarfst, 
 \0wenn du in unsrem
 \0Museum \0￿vorbeigeschaut hast.
-(6촀\0Wir haben dort 2n(촀$'nen hammermäßigen 'ne hammermäßige 'n hammermäßiges
+(6촀\0Wir haben dort 2n)촀$'nen hammermäßigen 'ne hammermäßige 'n hammermäßiges
 2촁
  ausgestellt, 
 \0n\0."
-"101","<\0fi"
-"102","(촀\0Du kommst einfach nich' von uns
-weg,
-\0 was?
-\0( (촀\0Raus mit der Sprache.
-\0
-Warum biste hier?
-(6촀\0Willste n\0 oder...
-\0
-(5촀\0mir 'nen Besuch abstatten?"
-"102_a","Bin wegen dir hier!"
-"102_b","(6촀\0Vermisse die Insel..."
-"103","(촀\0Dein Ernst?! 
+"201","<\0ÊÒ"
+"202","(촀\0Naa, 
+\0checkst du n\0 aus?
+\0( ( 촀\0Sag bloß,
+\0 du willst auch hierherziehen!\0\0(6촀\0Oder biste etwa rein meinetwegen
+da, 
+\0(촀\0weil du mich so vermisst hast?"
+"202_a","Bin wegen dir hier!"
+"202_b","Nur wegen der Insel!"
+"203","(촀\0Dein Ernst?! 
 \0Das sollte nur ein
 doofer Witz sein, aber...
 \0 (2촀\0Och,
@@ -105,7 +104,7 @@ doofer Witz sein, aber...
 du bist so gänseblumig!\0\0(%촀\0Falls du jemals irgendwas brauchst...
 ((촀\0Musst nur schreien, dann bin ich
 zur Stelle!"
-"104","(촀\0Hö! 
+"204","(촀\0Hö! 
 \0Wie fies! 
 \0((촀\0Das wäre DIE
 Gelegenheit gewesen, 
@@ -116,32 +115,31 @@ Unwahrheit zu sagen,
 \0
 2\0n\0 is' voll gediegen!
 \0
-(%촀\0Und wir haben dich alle vermisst."
-"105","(촀\02\0n\0! 
-\0Was geht,
-was steht? 
-\0(%촀\0Gefällt dir deine
-neue Bude?"
-"106","<"
-"106_01","($촀\0Biste auch immer schön lieb zu
+($촀\0Freut mich, 
+\0wenn's dir auch gefällt."
+"210","(촀\02\0n\0! 
+\0Was geht ab?
+\0
+(%촀\0Alles steil auf n	\0?"
+"211","<"
+"211_01","($촀\0Biste auch immer schön lieb zu
 deinen Nachbarn?
-\0( (7촀\0So wie ich dich
-kenne, biste das bestimmt, wa?
+\0( So wie ich dich
+kenne, biste das bestimmt, 
+\0wa?
 (%촀\0Brauchst nur deinen Welpenblick
 aufsetzen und lächeln und ZACK...
 \0(
 (촀\0Haste alle um den Finger gewickelt!"
-"106_02","(촀\0Pflanzt ihr bei euch auch Blumen?
-\0(
-Wie heißt's gleich?
+"211_02","(촀\0Haste mal 'n paar neue Blumen
+gepflanzt?\0\0(촀\0Wie heißt's gleich?
 \0 (촀\0Ein Blümchen im
 Garten is' ein Blümchen im Herzen!"
-"106_03","($촀\0Wie geht's denn bei euch fische- und
-insektenmäßig so ab?
-\0( (1촀\0Ihr habt sicher
-Viecher, 
-\0die wir hier nich' haben...
-(촀\0Gahaha!
-\0 Jetzt krieg ich das Bild nich'
-mehr aus dem Kopf, wie du mit 'nem
-Grashüpfer um die Wette pogst!"
+"211_03","Ich find's hier ja echt fetzig, 
+\0(9촀\0aber
+manchmal vermiss ich trotzdem
+meine gute, alte Hood...
+(촀\0Irgendwann werd ich bestimmt mal
+wieder vorbeischauen und all meinen
+Homies Hallo sagen, 
+\0n\0."

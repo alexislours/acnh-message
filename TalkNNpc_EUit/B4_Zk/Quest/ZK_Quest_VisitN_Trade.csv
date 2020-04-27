@@ -14,9 +14,9 @@ comprare qualcosa,
 \0 potremmo
 metterci d'accordo.
 \0 Me entiendes?"
-"004_a","Una cosa ci sarebbe!
-In effetti..."
-"004_b","Buono a sapersi...
+"004_a","(\0촁\0Una cosa ci sarebbe!
+(\0촁\0In effetti..."
+"004_b","(\0촁\0Buono a sapersi...
 Grazie, ma passo."
 "005","(촀\0A proposito, se ti cade l'occhio su
 qualcosa che ti interessa,
@@ -27,18 +27,18 @@ metterci d'accordo.
 \0
 quindi praticamente todo quello
 che vedi è in vendita."
-"005_a","Una cosa ci sarebbe!
-In effetti..."
-"005_b","Buono a sapersi...
+"005_a","(\0촁\0Una cosa ci sarebbe!
+(\0촁\0In effetti..."
+"005_b","(\0촁\0Buono a sapersi...
 Grazie, ma passo."
 "006","(3촀\0Se giochi bene las tuas cartas, 
 \0forse
 ti porterai via una cosa qualsiasi di
 ciò che vedi in questa stanza."
-"006_a","Interessante...
-C'è una cosa che voglio!"
-"006_b","Grazie dell'informazione.
-Non vedo nulla di bello."
+"006_a","(\0촁\0Interessante...
+(\0촁\0C'è una cosa che vorrei!"
+"006_b","(\0촁\0Grazie dell'informazione.
+(\0촁\0Non vedo nulla di bello."
 "007","(촀\0Bene!
 \0 Cos'hai visto di interessante?"
 "008","(촀\0Da paura!
@@ -59,9 +59,9 @@ qualcosa o ci rimarrò malissimo!"
 lamentare se qualcun altro compra
 qualcosa che ti interessava!"
 "100","(%촀\0Ah, ottima scelta.
-\0 Ero sicuro che avresti apprezzato 2촀illa\0 2촀miomia\0 }\0\0.\0\0(
+\0 Ero sicuro che avresti apprezzato 2촀illa\0 2촀miomia\0 }\0\0.\0\0(
 촀\0Me gusta muchissimo, ma potrei
-lasciartel2촀oa\0 pern\0\0 Z\0.
+lasciartel2촀oa\0 pern\0\0 Z\0.
 \0(&촀\0
 Che ne dici?"
 "100_a","Ci sto!"
@@ -106,14 +106,14 @@ spazio neanche per uno spillo.\0\0(촀\0Per tua fortuna,
 dell'isola funziona alla grande.
 \0 (촀\0Se ne
 occuperanno loro, n\0!"
-"300","(#촀\0Sorbole, mi dispiace ma non posso proprio venderti 2촀illa\0 2촀miomia\0 }촀.\0\0(4촀\0Sai, non è un semplice insetton\0\0 è
-2^촀*il mio migliore amigo*la mia migliore amiga\0!"
-"301","(촀\0Vuoin\0\0 vuoi davvero comprare 2촀illa\0 2촀miomia\0 }촀?\0\0('촀\0No se puede!
+"300","(#촀\0Sorbole, mi dispiace ma non posso proprio venderti 2촀illa\0 2촀miomia\0 }촀.\0\0(4촀\0Sai, non è un semplice insetton\0\0 è
+2^촀*il mio migliore amigo*la mia migliore amiga\0!"
+"301","(촀\0Vuoin\0\0 vuoi davvero comprare 2촀illa\0 2촀miomia\0 }촀?\0\0('촀\0No se puede!
 \0 Neanche per tutte
 le stelline del mondo!
 \0(촀\0 Come potrei
 privarmi della sua compagnia?"
-"302","(촀\0Beh, dimostri di avere buon gusto, ma non potrei mai rinunciare 2촀alalla\0 2촀miomia\0 }\0\0."
+"302","(촀\0Beh, dimostri di avere buon gusto, ma non potrei mai rinunciare 2촀alalla\0 2촀miomia\0 }\0\0."
 "303","(촀\0Lo siento,
 \0 ma si tratta di una vera e
 propria colonna portanten\0\0

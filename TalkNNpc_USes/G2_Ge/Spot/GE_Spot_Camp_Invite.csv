@@ -7,6 +7,14 @@ hacer montones de cosas divertidas!
 Mira, (%촀\0yo pregunto en la \02\0Ȃ촄oficina de gestión vecinal\0￿ si tienen un espacio
 para mí y te cuento.
 (7촀\0¡Qué nervios, n\0!"
+"003","(촀\0¿En serio me invitas otra vez
+a mudarme aquí?
+\0(촀\0 Vaya, ¡es que
+ahora ya no me puedo negar!
+Mira, (%촀\0yo pregunto en la \0oficina
+de gestión vecinal\0￿ si tienen un
+huequito para mí y te cuento.
+(7촀\0¡Qué nervios, n\0!"
 "101","<"
 "101_01","(촀\0¿Que me mude a esta isla?
 \0
@@ -157,50 +165,53 @@ genial que fue mi estancia aquí.
 \0
 ($촀\0¡Gracias por tanto, n\0!"
 "206","<"
-"206_01","(촀\0Bueno, qué fuerte, me ganaste y
-vengo a vivir a n\0.\0\0(%촀\0A todo esto,
-\0 te digo que ((촀\0yo
-me llamo n
-\0,
-\0 y tú eres n\0, ¿verdad?\0\0(2촀\0Que me gusta a mí presentarme así
-como formalmente y eso.
-\0\0\0(촀\0Ay, qué pereza me da ahora que
-pienso en todo lo que tendré
-que empacarn\0\0\0\0(촀\0¡Pero también qué emocióóón!
+"206_01","(촀\0Bueno, qué fuerte, que ganaste y me
+vengo a vivir a n\0.\0\0(%촀\0Si los de la \0oficina de gestión\0￿ me
+dicen que está todo bien, claro.\0\0(촀\0Ay, qué pereza me da pensar
+en la mudanza que me esperan\0\0\0\0(촀\0¡Pero también qué emocióóón!
 \0
 Deséame suerte, n\0."
-"206_02","(촀\0¡Ay, no lo puedo creer!
-\0 (촀\0¡Que me
-mudo, guapi!
-\0 (""촀\02\0n\0, ¿verdad?
-\0 ((촀\0Yo soy n
-\0.\0\0(촀\0¡Y tengo una isla nueva!
-\0 (\0촀\0Bueno,
-mía no es,
-\0 pero (촀\0¡me mudo!
-Oye, (;촀\0¿qué tan definitivo es el nombre
-de la isla ""n\0""?
+"206_02","(촀\0¡No lo puedo creer!
+\0 (촀\0¡Me mudo, guapi!\0\0(촀\0¡Y tengo una isla nueva!
+\0
+(\0촀\0Bueno, no es mía,
+\0 peron\0\0
+\0
+(촀\0¡me mudo!
+Oye, (;촀\0¿cómo es de definitivo esto
+de ""n\0""?
 \0 Porque tengo un montón de ideas.\0\0(
 촀\0Como ""\0\0Puerto \0￿n
 \0""n\0\0
 \0
 O ""\0\0Costa \0￿n
-\0"".\0\0(촀\0¡Ya sé:
-\0 ""\0\0Playa \0￿n
+\0"".
+\0
+(촀\0¡Ya sé:
+\0 (촀\0""\0\0Playa \0￿n
 \0""!\0\0($촀\0Bueno, tampoco tenemos que tomar
 la decisión ahora. 
 \0(촀\0¡Piénsalo mientras
-yo hago las maletas, n\0!"
-"206_03","( 촀\0Así que perdín\0\0
+hablo con la \0oficina de gestión\0￿!"
+"206_03","( 촀\0Perdín\0\0
 \0 (6촀\0¡Genial!
 \0 Mi plan para
-mudarme a n\0 dio resultado.\0\0(%촀\0Claro, lo tenía todo planeado:
-\0 ()촀\0tú me
-intentas convencer de que me mude,
-yo me hago la interesante, pierdon\0\0
-((촀\0Ahora lo cuento en redes sociales
-así como una sorpresa (촀\0y me hago viralísima.
-\0 ($촀\0¡Nos vemos aquí pronto!"
+mudarme a n\0 dio resultado.\0\0($촀\0Estaba d
+\0e
+\0s
+\0e
+\0a
+\0n
+\0d
+\0o
+\0 cambiar de aire.
+\0
+¡Y gracias a ti lo conseguí!\0\0(%촀\0Cuando anuncie esto en las redes
+(촀\0me haré viralísima.
+\0 (""촀\0¡Qué buen equipo
+hacemos, n\0!\0\0( 촀\0Aunque primero debería ir a hablar
+con los de la \0ofi de gestión\0￿ para que
+me digan si es posible, ¿no?"
 "302","(촀\0Bueno, llamé a la \02\0Ȃ촄oficina de gestión vecinal\0￿ y 
 \0(촀\0me contaron todo el drama,
 n\0.
@@ -259,17 +270,18 @@ quieres y qué le vamos a hacer.
 \0(촀\0 ¡Me dijo
 que sí!
 \0 ¡s촀 se marcha y me deja su sitio!\0\0(촀\0Dice que la isla sería mucho más
-divertida con una superestrella
-del pop de vecina. 
+divertida con una superestrella del
+pop de vecina. 
 \0(촀\0Y tiene razón.
-()촀\0O sea, que se marcha y entonces
+()촀\0O sea,
+\0 que se marcha y entonces
 yo puedo hacer las maletas y
-mudarme de que 
+mudarme como que
+\0 
 \0YA
 .
-(;촀\0¿No estás un poco nervios2oa?
-\0
-(촀\0¡Porque yo sí, n\0!"
+(;촀\0¿No estás un poco nervios2oa, n\0?
+\0 (촀\0¡Porque yo sí, n\0!"
 "310","(촀\0Aaay, no me digas que al final no se
 te ocurre nadie que pueda querer
 irse, amigui."
@@ -282,51 +294,29 @@ con la idean\0\0
 \0(촀\0 Tenía ya planeados
 las primeras cien selfis y todo.
 Bueno,(7촀\0 otra vez será, n\0."
-"402","(촀\0
-\0Qué
-
-\0 
-\0fuerte
-
-\0 lo que me dijeron
-los de la \02\0Ȃ촄oficina de gestión vecinal
-\0￿de tu isla.
-\0 No lo vas a creer.
-(촀\0Dicen que no puedo mudarme allí
-porquen\0\0
-\0 porquen\0\0
-\0 (	촀\0¡porque ya hay
-otra vecina igual que yo!
-\0}(
-촀\0¡¿¡Cómo que otra igual!?!
-\0
-¡Pero si eso es imposible!\0d\0\0(촀\0Yo soy única en mi especien\0\0
-\0 (촀\0Con
-el disgusto que me dieron, ¡se me
-quitaron las ganas de mudarme!"
-"403","(촀\0Ah, ya llamé a la \02\0Ȃ촄oficina de gestión vecinal \0￿de tu isla y eso.\0\0(촀\0Parece que 
-\0ALGUIEN
- ya había pedido
-mudarse. 
-\0(촀\0
-\0Alguien
- que se parece
-muchísimo a mí, por lo que dicen.
-(	촀\0Mira, de verdad, es que 
-\0no
- 
-\0puedo
-n\0\0
+"313","(촀\0¡Eso es lo que quería oír, guapi!
 \0
-No sé qué es peor: 
-\0no poder venir
-(촀\0o que me digan que tengo una doble.
-(촀\0O sea, ¡con lo original y diferente
-que soy yo! 
-\0¿Te parece normal?\0\0(촀\0Aunque, creo que será mejor que no
-me mude.
-\0 (5촀\0¡Que se den cuenta de que
-no hay dos como yo, n\0!"
+No me digas: (%촀\0
+\0seguro que es
+s촀, ¿verdad?
+(7촀\0Oí su nombre al pasar de los de
+la \0ofi de gestión vecinal\0￿, no es que
+sea yo vidente ni nada.
+Mira, entonces hacemos lo siguiente:
+\0
+(&촀\0¿le pregunto a s촀 si se quiere ir y vemos?"
+"313_a","¡Adelante!"
+"313_b","Mejor no"
+"314","(촀\0Caramban\0\0
+\0 ¿en serio, guapi?\0\0(8촀\0Con lo que me había emocionado
+yan\0\0
+\0(%촀\0 Pero ¿sabes una cosa?
+\0
+¡No pasa nada!
+(촀\0Cuando una puerta se cierra, otra
+se abre. 
+\0((촀\0¡Y en algún lugar encontraré
+mi hogar, n\0!"
 "404","( 촀\0Ya hablé con la \02\0Ȃ촄oficina de gestión vecinal\0￿ de tu isla.\0\0('촀\0Se rieron en mi cara cuando les
 pregunté si había sitio para mín\0\0
 \0
@@ -345,28 +335,6 @@ que pueda ir yo?
 dije nada, ¿eh?
 ($촀\0Esperaré hasta que algún día sea
 viable y ya, n\0."
-"405","(촀\0Bueno, ya llamé a la \02\0Ȃ촄oficina de gestión vecinal\0￿ y todavía estoy
-pasmada.
-(촀\0En tu isla ya no hay más espacio
-para construir casas,
-\0 ¡está llena!\0\0(%촀\0Les propuse alternativas, como
-\0(
-촀\0 vivir
-en la copa de un árbol, en un globo,
-o en un barco anclado cerquitan\0\0
-(촀\0Pero no les gustó ninguna de mis
-propuestas, así que(	촀\0 ellos se lo
-pierden, n\0.
-( 촀\0Bueno, y tú también te lo pierdesn\0\0
-\0
-(촀\0¡Y yo también pierdo la oportunidad
-de ser tu vecina!
-(촀\0Mira, ¿sabes qué te digo?
-\0(5촀\0 ¡Que yo
-no me rindo así como así!
-\0 ($촀\0Otra vez
-será. 
-\0¡Seguro!"
 "406","(촀\0¡Ay, es que no lo creo! 
 \0Hablé con
 la \02\0Ȃ촄oficina de gestión vecinal\0￿ de tu
@@ -394,37 +362,6 @@ resignar, con lo poco que me gusta.
 Bueno, solo hasta desahogarme.
 \0
 Desahogarse es bueno, ¿eh?"
-"421","('촀\0No puedo creer que en tu isla
-ya viva una diva que sea igualita
-que yo.
-\0 O sea, no.
-\0 Im
-\0po
-\0si
-\0ble.
-(촀\0Obvio, yo soy más diva, las cosas
-como son.
-\0(""촀\0
-\0 MUCHO
- más. 
-\0\0K(7촀\0Tampoco
-es que esto sea una competencian\0\0
-\0d(%촀\0Total, gracias por la invitación
-y las molestias y todo eso, guapi.
-\0
-(""촀\0¡Otra vez será, n\0!"
-"422","(촀\0Qué mala suerte que alguien tan
-hiperfabs como yo
-\0 \0K(o casi)\0d 
-\0vaya
-a mudarse a esta isla, n\0.
-(5촀\0¿Te imaginas que la reto a un duelo
-de baile y gano y entonces me mudo
-yo y además me dan un premio?
-(2촀\0Soñar es gratis, ¿no?
-\0 ¡Pues ($촀\0pienso
-seguir soñando que me mudo aquí,
-guapi!"
 "423","(촀\0Tiene que ser supergenial vivir en
 un sitio con taaanta gente, ¿no?
 \0
@@ -434,13 +371,6 @@ un sitio con taaanta gente, ¿no?
 haga \0Kaún más\0d famosa, (촀\0me pedirán
 que me mude aquí. 
 \0¡Ya verás!"
-"424","(촀\0Es triste no haber descubierto
-esta isla antesn\0\0
-\0 (촀\0¡Qué rabia me da
-cuando llego tarde a las modas!
-(2촀\0Al menos ya tengo contactos aquí,
-así que(촀\0 puedo irme supertranquila,
-n\0."
 "504","(촀\0Acampar en esta isla es 
 \0tan 
 \0tan

@@ -22,7 +22,7 @@ cadeautjes uitpakken enn\0\0 (촀\0O,
 n\0!\0\0Praat je met me omdat ($촀\0je een
 cadeautje voor me hebt?!"
 "004_a","Natuurlijk!"
-"004_b","Dat ben ik vergeten..."
+"004_b","(\0촀\0Dat ben ik vergeten..."
 "005","(촀\0Ik 
 \0ben 
 \0d
@@ -44,8 +44,8 @@ zien welk cadeautje je voor me hebt!
 Want jij kent me 
 \0zo 
 \0goed!"
-"005_a","Proficiat!"
-"005_b","Cadeautje? Oeps..."
+"005_a","(\0촀\0Proficiat!"
+"005_b","(\0촀\0Cadeautje? Oeps..."
 "006","(촀\0Verjaardagsfeestjes zijn 
 \0zo 
 \0l
@@ -64,7 +64,7 @@ mag ik een beetje hebberig zijn, 
 Alsjeblieft?
 \0 Alsjeblieeeeeft?"
 "006_a","Uiteraard!"
-"006_b","Ik ben het vergeten."
+"006_b","(\0촀\0Ik ben het vergeten."
 "007","( 촀\0On\0\0 (""촀\0Nou, 
 \0het is 
 \0écht 
@@ -124,7 +124,7 @@ uit!
 gebak, zeg maar? Echt wel!\0\0(촀\0Het feest begint ermee
 \0 en het houdt
 niet op (촀\0voordat alles op is!"
-"018","(촀\02\02\0}\0\0!\0\0(촀\02촀DieDatDie heb ik aln\0\0 maar dat is geweldig!\0\0(촀\0Dat wist je niet 
+"018","(촀\02\02\0}\0\0!\0\0(촀\02촀DieDatDie heb ik aln\0\0 maar dat is geweldig!\0\0(촀\0Dat wist je niet 
 \0\0K\0(Hoe had je dat ook moeten
 weten?)\0￿
 \0\0d, maar wat weet je goed waar ik
@@ -133,8 +133,8 @@ wat ik moet kopen,
 \0 vraag ik jou om
 advies, n\0!"
 "019","(촀\0Hahaha, 
-\0het 2촀isiszijn 2\0}\0\0!
-\0 (촀\02촀DieDatDie draag ik nu ook!\0\0(2촀\0Dit is, echt waar, een van mijn
+\0het 2촀isiszijn 2\0}\0\0!
+\0 (촀\02촀DieDatDie draag ik nu ook!\0\0(2촀\0Dit is, echt waar, een van mijn
 
 \0favoriete
 \0 ontwerpen!
@@ -146,7 +146,7 @@ serieus
 \0 niet genoeg van hebben. \0\0(""촀\0Bedankt, n\0!"
 "020","(촀\0Hoera! 
 \0Wacht, je geeft me
-\0 2\0}\0\0?\0\0( 촀\0Waar heb ik 2촀diedatdie eerder gezienn\0\0\0\0(촀\0O ja! 2촀DieDatDie draag je 
+\0 2\0}\0\0?\0\0( 촀\0Waar heb ik 2촀diedatdie eerder gezienn\0\0\0\0(촀\0O ja! 2촀DieDatDie draag je 
 \0zelf
 \0 op dit
 moment! \0\0(촀\0
@@ -162,8 +162,8 @@ moment! \0\0(촀\0
 \0zo
 \0 gaaf!\0\0En 
 \0(촀\0zo
-\0 duur! Jeetje!\0\0(촀\0Weet je zeker dat je 2촀diedatdie aan mij wil
-geven? 20촀Hij isHet isZe zijn bijna té gaaf."
+\0 duur! Jeetje!\0\0(촀\0Weet je zeker dat je 2촀diedatdie aan mij wil
+geven? 20촀Hij isHet isZe zijn bijna té gaaf."
 "022","(촀\0Wauw!
 \0 Ik had niet verwacht dat je me 2\0}\0\0 zou geven!
 \0 (""촀\0Weet je het zeker?\0\0(2촀\0Ik zal er 
@@ -220,8 +220,8 @@ Ik denk dat ik deze knollen opeet!"
 \0Echt 
 \0te 
 \0gek
-\0!\0\0(""촀\0Joh, ik durf te wedden dat 2촀hijhetze
-heeeeerlijk 2촀isiszijn!"
+\0!\0\0(""촀\0Joh, ik durf te wedden dat 2촀hijhetze
+heeeeerlijk 2촀isiszijn!"
 "031","(촀\0Sjeempie!
 \0 Een doe-het-zelfplan voor
 2\0}\0\0!\0\0(촀\0Jakkie!
@@ -229,7 +229,7 @@ heeeeerlijk 2촀isiszijn!"
 \0superlief van jen\0\0
 maar zo'n plan kan zeldzaam zijn.
 \0
-Dus kan ik het echt niet aannemen!\0\0(촀\0Harstikke attent van je,
+Dus kan ik het echt niet aannemen!\0\0(촀\0Hartstikke attent van je,
 \0 maar je kunt
 het beter zelf houden, n\0."
 "048","(촀\0Enorm bedankt! 
@@ -296,7 +296,7 @@ geweldigs? Als je een cadeautje
 hebt? 
 \0Weet je?"
 "061_a","(\0촀\0Proficiat!"
-"061_b","Oeps..."
+"061_b","(\0촀\0Oeps..."
 "062","(1촀\0Dus ik ben, zeg maar, dol op taart?
 
 \0En op cadeautjes?
@@ -310,7 +310,7 @@ In mijn huis?
 \0 een cadeautje voor me?!
 \0\0K \0(Daar ben ik dol op!)\0￿\0d"
 "062_a","Tuurlijk!"
-"062_b","Moest dat dan?"
+"062_b","(\0촀\0Moest dat dan?"
 "064","( 촀\0Ga je er alweer vandoor?
 \0 (촀\0Ik vind het
 zo leuk dat je bent gekomen!\0\0(""촀\0Bedankt voor het cadeautje!
@@ -380,7 +380,7 @@ supervol!
 \0( (촀\0Ik kan je niets geven als je
 het niet mee kunt nemen.\0\0()촀\0Breng je leven in orde, of in ieder
 geval je zakken, en kom terug voor je
-n\0 verlaat, oké?\0\0(""촀\0Dan kan ik je cadeautje geven,
+n\0 verlaat, oké?\0\0(""촀\0Dan kan ik je je cadeautje geven,
 n\0. Superbelangrijk!"
 "081","(촀\02\0n\0!
 \0< (;촀\0Heb je nu plek?
@@ -413,4 +413,4 @@ zoveel cadeaus? 
 hart
 \0stikke blij met één cadeau!"
 "100_a","Eén cadeau voor jou!"
-"100_b","Oeps..."
+"100_b","(\0촀\0Oeps..."

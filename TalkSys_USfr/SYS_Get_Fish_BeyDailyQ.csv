@@ -10,6 +10,11 @@ Objectif : \0Z\0 à la suite\0￿!"
 Ce qui veut diren\0\0 que tu as réussi
 l'examen de pêche.
 \0 Va voir \0Pollux\0￿!"
+"004","Maisn\0\0 ce n'est pas un poisson.
+\0
+Ça ne t'aide pas beaucoup, ça.
+\0
+Bon, il n'y a plus qu'à recommencer!"
 "010","Ça fait \0Z\0 gros poissons\0￿.
 \0
 Continue comme ça!
@@ -36,8 +41,8 @@ Objectif : \0Z\0\0 à la suite\0￿!"
 diren\0\0 que tu as réussi l'examen de
 pêche! Va voir \0Pollux\0￿!"
 "022","Et de \0Z\0 petit2
-\0\0\0s poisson2
-\0\0\0s\0￿ sur ta liste!
+Ā\0\0s poisson2
+Ā\0\0s\0￿ sur ta liste!
 Continue comme ça! Tu dois en
 attraper \0Z\0\0 à la suite\0￿!"
 "023","Dommage, 

@@ -13,6 +13,15 @@ qui?
 \0 Dai, sbrighiamoci!()촀\0 Il
 primo passo è chiamare il \0centro
 servizi\0￿ e chiedere, n\0."
+"003","(6촀\0Devi tenerci molto a me, per invitarmi
+ancora.
+\0( (촀\0E va bene, non mi dispiace
+l'idea di vivere qui. 
+\0Affare fatto.\0\0( 촀\0Anche sen\0\0
+\0 bisogna vedere se il
+\0centro servizi \0￿la pensa come me.
+
+\0((촀\0Vado a chiedere, n\0."
 "101","<"
 "101_01","(&촀\0Eh? 
 \0Dici sul serio? 
@@ -158,41 +167,38 @@ credimi, 
 \0non mi sono trovata male
 2\0 n	\0."
 "206","<"
-"206_01","(3촀\0Va bene, 
-\0hai vinto. Mantengo la mia
-parola. 
-\0Ma non credere che la partita
-sia chiusa qui!\0\0(\0촀\0Sarà meglio, 
-\0rifare le presentazioni.
+"206_01","(3촀\0Va bene. 
+\0Hai vinto. 
+\0Mantengo
+la mia parola e mi trasferisco
+2\0 n	\0.\0\0(9촀\0Forsen\0\0 Prima devo confermare
+la cosa col \0centro servizi\0￿.\0\0(6촀\0Beh, dovesse andare tutto bene,
 
-\0Giusto per andare sul sicuro.
-\0( (""촀\0Io sono n
-\0,
-\0( e tun\0\0\0\0(%촀\0n\0\0 tu ti chiami n\0.
-\0 Sì, ci siamo.\0\0(촀\0Ricorda che è tutta colpa tua se
-vivremo sulla stessa isola, n\0.
+\0ricordati che hai voluto tu tutto
+questo.
 \0( (촀\0Gah ah ah!"
 "206_02","(%촀\0Hai vinto tu, 
 \0ma non mi arrabbio,
 non ti preoccupare.
-\0( (촀\0Preparati, n	\0, arrivo!\0\0( 촀\0Ah! 
-\0Forse non mi sono presentata.
-\0(
-($촀\0
-\0Piacere, n\0. 
-\0Io sono n
-\0.\0\0(\0촀\0E non appena sarò lì, farai meglio a
-presentarmi tutti i festaioli dell'isola,
-\0(
-(6촀\0ci siamo intesi, n\0?"
+\0( (촀\0Preparati,
+n	\0:
+\0 sto arrivando!\0\0(
+촀\0Vediamon\0\0 Mi sa che devo firmare
+un po' di robaccia burocratica prima,
+
+\0quindi farò un salto al \0centro servizi\0￿.\0\0($촀\0Vado e torno, n\0!"
 "206_03","(6촀\0Va bene, hai vinto tu. 
-\0Ti chiami n\0, giusto?
-\0 Sì, sei decisamente n\0.\0\0(5촀\0Comunque, se credi che questo
-posto resterà tranquillo ti sbagli, n\0.\0\0(3촀\0Sì, perché appena arriva n
-\0, nulla è più come prima.
-\0( (촀\0Gah ah ah!\0\0()촀\0Devo tornare a casa, organizzare il
-trasloco e salutare un po' di gente,
-ma poin\0\0 (촀\0Torno qui!"
+\0Vorrà dire che n	\0 conoscerà il ciclone n
+\0!\0\0(촀\0Se pensavi che questo posto fosse
+grandioso, 
+\0preparatin\0\0 Non hai
+ancora visto nulla! 
+\0((촀\0Gah ah ah!
+( 촀\0Ah, frena! 
+\0Prima forse dovrei
+rendere ufficiale il mio trasloco.\0\0(%촀\0Andrò a scambiare due chiacchiere
+velocissime con il \0centro servizi\0￿,
+n\0."
 "302","(%촀\0Dunque,
 \0 ho appena parlato con il
 \0centro servizi\0￿n\0\0
@@ -245,23 +251,22 @@ chiedere 
 poter venire a vivere quin\0\0
 \0( (촀\0E invecen"
 "309","()촀\0OK, 
-\0sono andata a spiegare la
-situazione, n\0.\0\0(6촀\0Credo di essere arrivata proprio
+\0sono andata a spiegare
+la situazione, n\0.\0\0(6촀\0Credo di essere arrivata proprio
 al momento giusto. 
 \0A quanto pare,
-s촀 vuole trasferirsi!\0\0(촀\0Insomma, 
+vuole trasferirsi!\0\0(촀\0Insomma, 
 \0non appena ho descritto
 la mia casa, mi ha detto che non
 vedeva l'ora di fare a cambio.(촀\0
 È tutto sistemato!
-\0( (촀\0Attenta n	\0, arrivo!\0\0(촀\0
-\0Oh! 
-\0Quasi dimeticavo!
+\0( (촀\0Attenta n	\0, 
+\0sto arrivando!\0\0(촀\0Oh! 
+\0Quasi dimenticavo!
 \0 Mi chiamo n
 \0.
 \0( (촀\0Gah ah ah! 
-\0Avevo
-dimenticato le presentazioni.\0\0(%촀\0Tu invece ti chiamin\0\0 n\0!
+\0Avevo dimenticato le presentazioni.\0\0(%촀\0Tu invece ti chiamin\0\0 n\0!
 \0 Capito.
 \0( (촀\0Ora posso dire di conoscerti."
 "310","(4촀\0Alloran\0\0
@@ -281,33 +286,21 @@ dovrei proporre di fare lo scambio?
 capisco.
 \0 Sono un po' delusa, ma
 capisco, n\0."
-"402","(%촀\0Che conversazione
-\0 FOLLEn\0\0
-\0 (촀\0Ho
-parlato con il \0centro servizi \0￿per
-richiedere di trasferirmi qui.\0\0(촀\0Ma mi hanno risposto: ""Tu vivi già
-qui"".
-\0 Ho cercato di spiegargli che
-non era vero, ma non hanno ceduto.\0\0(촀\0È andata avanti per un po' 
-\0e alla
-fine loro erano confusi e io
-abbastanza arrabbiata.\0\0()촀\0Dopo tutta questa confusione,
-\0 credo
-che resterò dove sono, n\0.
-\0( (%촀\0Behn\0\0 grazie lo stesso."
-"403","(8촀\0Ti sei mai 2 chiestochiesta se avessi 2ununa
-2@gemello segretogemella segreta?
+"313","(촀\0Evvai! 
+\0OK, dai...
 \0 Al \0centro servizi
-\0￿mi hanno fatto venire dei dubbi.\0\0(9촀\0Ho chiesto di potermi trasferire qui,
-\0
-ma, dicono, qualcuno di identico a
-me ha fatto la stessa richiesta.\0\0(촀\0Ho chiamato mia mamma e le ho
-chiesto se per caso, ho una gemella,
-\0
-ma neanche lei ne sa nulla!\0\0(+촀\0Non so cosa stia succedendo, ma
-è troppo strano persino per me.
-\0
-(%촀\0Mi spiace, ma resto dove sono."
+\0￿mi hanno dato il nome di s촀.\0\0(&촀\0Che ne pensi,
+\0 allora?
+\0 (5촀\0Importuno 2luilei?"
+"313_a","Ma sì, dai!"
+"313_b","Cosa? No!"
+"314","(7촀\0Uffa,
+\0 e va bene,
+\0 ho capito.
+\0 Capita a
+tutti di avere cattive idee.
+\0 Come non
+detto, n\0n"
 "404","( 촀\0Quest'isola è molto ambita, pare!\0\0(%촀\0Ho contattato il \0centro servizi\0￿, 
 \0ma
 mi hanno detto che non c'è più
@@ -318,20 +311,6 @@ ci si può neanche muovere?\0\0(촀\0È troppo per me!
 \0 Se davvero n	\0 è così piena,
 
 \0('촀\0non ho più nessun interesse."
-"405","(9촀\0Dunque,
-\0 ho appena parlato con il
-\0centro servizi\0￿n\0\0
-\0( ('촀\0Niente da fare.
-Non posso trasferirmi.\0\0(8촀\0A quanto pare non c'è abbastanza
-spazio per costruire una nuova
-casa per me, n\0.\0\0(촀\0Potrei andare a vivere con qualcuno,
-\0
-ma non ho voglia di sentirmi dire che
-vado a letto troppo tardi la sera.\0\0(촀\0Peccato.
-\0 Mi stavo già abituando
-all'atmosfera di n	\0.
-\0( (7촀\0Vabbè,
-\0 non importa!"
 "406","(촀\0Ho parlato con il \0centro servizi\0￿.
 \0(
 (촀\0Indovina chi viene a vivere sulla tua
@@ -363,27 +342,12 @@ Tanto non ho nulla da perdere."
 \0 Farò come dici
 tu.
 \0( (촀\0Vuol dire che n	\0 dovrà fare a meno di me."
-"421","(
-촀\0Mhmn\0\0 Avere due me sulla stessa
-isola sarebbe una catastrofe
-annunciata.\0\0(%촀\0Meglio rinunciare a vivere 2\0 n	\0, n\0."
-"422","(8촀\0Ci ho riflettuto un po' e mi
-sono resa conto di causare già
-abbastanza chiasso da sola.\0\0('촀\0Non credo che n	\0 reggerebbe la presenza di due come me, n\0!"
 "423","(촀\0Oh, 
 \0n	\0 è già troppo affollata! 
 \0Non accettano più richieste di trasferimento, n\0.\0\0(촀\0Non c'è nulla da fare.
 \0 Peccato, mi
 sarebbe piaciuto vivere qui almeno
 per un po'n"
-"424","(촀\0Avevo sentito parlare di boom
-dell'edilizia,
-\0 ma non pensavo fosse
-il caso di n	\0!\0\0(촀\0Non c'è posto per costruire altre
-case,
-\0 mi hanno detto.
-\0 Me ne farò
-una ragione."
 "504","(%촀\0La tua isola non è niente male.
 Tutto è al posto giusto.
 \0( (6촀\0In più,

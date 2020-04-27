@@ -7,7 +7,7 @@
 \0((촀\0
 P\0 (촀\0
 \0\0WHO?!\0d
-"
+<"
 "002","(촀\0Hoo! 
 \0I beg your pardon!
 \0( (2촀\0I'm a bit
@@ -53,14 +53,12 @@ Drowsy in the daytime.
 "011_c","Tell me about this!"
 "011_d","Never mind."
 "012","(&촀\0Might there be something with which
-I can assist you?
-\02(\0촀"
+I can assist you?(\0촀"
 "012_a","Assess fossils."
 "012_b","Tell me about this!"
 "012_c","Never mind."
 "013","(&촀\0Might there be something with which
-I can assist you?
-\02(\0촀"
+I can assist you?(\0촀"
 "013_a","Make a donation."
 "013_b","Assess fossils."
 "013_c","Tell me about this!"
@@ -88,20 +86,21 @@ I can assist you with?"
 \0
  Please enjoy the rest of
 your visit."
-"016","(촀\0Take your time. 
-\0
-Do look aroundn\0\0
+"016","(촀\0Do have a look around.
+\0 No rush.
+\0
+Take your time.
 \02(\0촀"
-"017","(촀\0Hmm? 
-\0Hoo! 
-\0((%촀\0How may I be of service?"
+"017","(촀\0Ah,
+\0 but firstn\0\0
+\0($촀\0how may I assist you?"
 "017_a","Make a donation."
 "017_b","Assess fossils."
 "017_c","Tell me about this!"
 "017_d","Never mind."
-"018","(촀\0Hmm? 
-\0Hoo! 
-\0((%촀\0How may I be of service?"
+"018","(촀\0Ah,
+\0 but firstn\0\0
+\0($촀\0how may I assist you?"
 "018_a","Assess fossils."
 "018_b","Tell me about this!"
 "018_c","Never mind."
@@ -166,37 +165,27 @@ more about a \0fossil
 \0
  I am passionate
 about imparting knowledge."
-"091","Is there
-\0(&촀\0 anything else I can
-\0 help
+"091","(&촀\0Is there anything else I can help
 you with?"
 "091_a","Assess fossils."
 "091_b","Tell me about this!"
 "091_c","I'm fine."
-"092","Is there
-\0(&촀\0 anything else I can
-\0 help
+"092","(&촀\0Is there anything else I can help
 you with?"
 "092_a","Make a donation."
 "092_b","Assess fossils."
 "092_c","Tell me about this!"
 "092_d","I'm fine."
-"093","Is there
-\0(&촀\0 anything else I can
-\0 help
+"093","(&촀\0Is there anything else I can help
 you with?"
 "093_a","Assess fossils."
 "093_b","I'm fine."
-"094","Is there
-\0(&촀\0 anything else I can
-\0 help
+"094","(&촀\0Is there anything else I can help
 you with?"
 "094_a","Make a donation."
 "094_b","Assess fossils."
 "094_c","I'm fine."
-"095","Is there
-\0(&촀\0 anything else I can
-\0 help
+"095","(&촀\0Is there anything else I can help
 you with?"
 "095_a","Make a donation."
 "095_b","I'm fine."
@@ -241,11 +230,9 @@ these off your hands!
 \0(\0촀"
 "110","( 촀\0Ah, 
 \0
-there's no need to pull them
-all out!
-\0(촀\0 I'll handle the rest
-from here.
-\0((\0촀"
+no need to pull them all out!
+\0
+(촀\0I'll handle the rest from here.(\0촀"
 "111","()촀\0Now,
 \0
  I see you're donating multiples
@@ -332,7 +319,7 @@ thing will get the best of care here."
 \0 Could it be?
 \0 It isn\0\0
 \0
-(촀\02\0}\0\0!(촀"
+(촀\02\0}\0\0!"
 "126","( 촀\0Does this meann\0\0
 \0
 \0 (촀\0Yes!
@@ -350,13 +337,11 @@ few facts?"
 "126_b","No, thanks."
 "127","(촀\0Wonderful!
 \0 'Tis fascinating stuff,
-\0
-
+\0
 I assure you! 
-\0(
+\0((
 촀\0Now,
-\0
- where was In"
+\0 where to beginn"
 "128","(촀\0I see.
 \0 What a shamen\0\0
 \0 (\0촀\0Anyhoot,
@@ -397,7 +382,7 @@ presentation on the topic? 
 quite knowledgeable, you know."
 "130_a","Please!"
 "130_b","I'm a bit busy..."
-"131","Now, (4촀\0might I interest you in a few
+"131","Now, (&촀\0might I interest you in a few
 fascinating facts about your
 }\0\0?"
 "131_a","Yes, please tell me."
@@ -471,19 +456,16 @@ A bit of fossil humor there.
 \0
  What would you like me
 to assess?
-\0 (촀\0\0KI'm quite aflutter!\0d"
+\0 (촀\0\0KI'm all aflutter!\0d"
 "203","( 촀\0Eh wot?
 \0
  A change of mind, perhaps?
 \0
 (:촀\0'Tis your decision entirelyn"
-"204","(9촀\0Let me just see heren\0\0
-\0(
+"204","(9촀\0Let me see here.
+\0((
 촀\0 Hmmmn\0\0
-\0
-Welln\0\0 
-\0
-Oh!"
+\0indeedn"
 "205","
 \0(촀\0
 \0\0ÈHoo
@@ -505,8 +487,8 @@ quite remarkable indeed.\0\0(촀\0If only I could take it off your hands.
 
 \0Alas,
 \0
-(""촀\0 the museum already has one,
-so I must return it to you."
+(""촀\0 we already have one, so I must
+return it to your care."
 "210","(촀\0Your }\0\0 is
 magnificent indeed. 
 \0But
@@ -524,10 +506,9 @@ the attention it deserves!"
 conditionn\0\0\0\0()촀\0Indeed, we would be one step closer
 to opening our museum with 2\0
 }\0\0 like this.
-(2촀\0What say you? 
-\0(&촀\0Would you donate
-this relic of the past to further
-the future of our museum?"
+(&촀\0Would you donate this relic of the
+past to further our museum's
+future?"
 "211_a","I'm donating it!"
 "211_b","I'll take it home."
 "212","(촀\0Jolly
@@ -560,8 +541,8 @@ just the kind of discovery we want
 to showcase in the museum.
 What say you? 
 \0
-(4촀\0Might you donate it
-to our noble institution of learning?"
+(&촀\0Will you donate it to
+our noble institution of learning?"
 "213_a","I'm donating it!"
 "213_b","I'll take it home."
 "214","(촀\0Hoo!
@@ -570,21 +551,17 @@ to our noble institution of learning?"
 \0(
 촀\0
 Let us take a closer look, shall we?"
-"215","(촀\0Hoo! WOO hoo!
+"215","(촀\0Hoo! WOO hoo!
 \0( (촀\0These are rare
-fossils, each and every one, 
-\0
-and
+fossils, each and every one, and
 have not appeared in our collection!
 (촀\0I say, you have quite the knack for
 finding valuable fossils."
-"216","(촀\0Hoo 
-\0
-hooray!
-\0( (촀\0I've found something
+"216","(촀\0Hoo hooray! 
+\0I've found something
 that is not yet part of our
 esteemed collection!
-(촀\0It is magnificent indeed.
+(촀\0It is magnificent indeed!
 \0
  You have a
 talent for finding the finest of fossils."
@@ -622,7 +599,7 @@ return them to you now."
 \0
  How wonderful!
 \0(""촀\0 I'll add
-these to our collection with
+this to our collection with
 the utmost haste."
 "223","(촀\0You have my thanks.
 \0( (

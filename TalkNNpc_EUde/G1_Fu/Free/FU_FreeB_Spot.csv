@@ -42,7 +42,7 @@ gern von Unkraut und Fallobst frei.
 guten ersten Eindruck bekommen.\0\0(;촀\0Vor allem, wenn es sich dabei
 um meine Eltern handelt."
 "003","(촀\0Warst du schon mal bei
-($촀\0s촀 zu Hause?\0\0(촀\02촀SeinIhr\0 Einrichtungsstil ist
+($촀\0s촀 zu Hause?\0\0(촀\02촀SeinIhr\0 Einrichtungsstil ist
 unverwechselbar, 
 \0nicht wahr?
 \0
@@ -114,52 +114,35 @@ geht gar nicht! ($촀\0
 um Dinge aufzubewahren.
 
 \0(촀\0Da werde ich direkt neidisch!"
-"012","촊촉()촀\0Momentan wohnt s\0촀
-ja in einem Zelt. 
-\0(&촀\0Glaubst du, 2
-촀ersie\0 wird
-irgendwann mal ein Haus bauen?
-촆촃(1촀\0Wie das dann wohl aussehen würde?
+"012","촊촉()촀\0Momentan wohnt s\0촀 ja in einem Zelt. 
+\0(&촀\0Glaubst du, 2촀ersie\0 wird irgendwann mal ein Haus bauen?\0\0촆촃(1촀\0Wie das dann wohl aussehen würde?
 \0
 (촀\0Also ICH mache mir jetzt schon
 Gedanken über die Raumgestaltung..."
 "013","촊촉(
 촀\0Mir ist gerade aufgefallen, wie sehr
-beim Haus von s\0촀
-das Dach hervorsticht.
-촆촃(%촀\0Die Farbe stellt einen interessanten
+beim Haus von s\0촀 das Dach hervorsticht.\0\0촆촃(%촀\0Die Farbe stellt einen interessanten
 Kontrast (촀\0zur Umgebung her."
 "014","촊촉(
-촀\0Das Haus von s\0촀
-hat gewissermaßen die perfekte
-Größe. 
-\0Alles schön überschaubar.
-촆촃()촀\0Vorausgesetzt, dass 2
-촀ersie\0 nicht so viel
+촀\0Das Haus von s\0촀 hat gewissermaßen die perfekte Größe. 
+\0Alles schön überschaubar.\0\0촆촃()촀\0Vorausgesetzt, 
+\0dass 2촀ersie\0 nicht so viel
 Platz für neue Besitztümer braucht...
 \0
 (촀\0Ich habe irgendwie nie genug Platz!"
-"015","촊촉(1촀\0Das Haus von s\0촀
-hat die ideale Größe. 
-\0Zu viel Platz ist
-in Sachen Putzen ja nicht so günstig!
-촆촃Ich hoffe, es stört s\0촀
-nicht, dass ich 2
-촀seinihr\0 Haus häufig
-voller Bewunderung anstarre..."
+"015","촊촉(1촀\0Das Haus von s\0촀 hat die ideale Größe. 
+\0Zu viel Platz ist in Sachen Putzen ja nicht so günstig!\0\0촆촃Ich hoffe, es stört s\0촀 nicht, 
+\0dass ich 2촀seinihr\0 Haus häufig voller Bewunderung anstarre..."
 "016","촊촉Das Haus von s\0촀
 wäre für mich auf jeden Fall
 groß genug, 
 \0n\0!
 촆촃(
-촀\0Aber wie ich 2
-촀ihnsie\0 so kenne, denkt
-2
-촀ersie\0 wahrscheinlich schon über
+촀\0Aber wie ich 2촀ihnsie\0 so kenne, denkt
+2촀ersie\0 wahrscheinlich schon über
 den nächsten Ausbau nach."
 "017","촊촉(촀\0Das Haus von s\0촀 hat
-so viele verschiedene Zimmer!\0\0촆촃(1촀\0Ich würde 2
-촀ihmihr\0 wirklich gern beim
+so viele verschiedene Zimmer!\0\0촆촃(1촀\0Ich würde 2촀ihmihr\0 wirklich gern beim
 Einrichten helfen. 
 \0(7촀\0Nicht, dass ich
 eine Expertin wäre oder so..."
@@ -168,8 +151,7 @@ ist gigantisch, nicht wahr?\0\0촆촃(1촀\0촆Das einzurichten 
 ein Riesenspaß sein..."
 "019","촊촉(촀\0Das Haus von s\0촀 ist
 wirklich riesengroß, 
-\0n\0!\0\0(4촀\02
-촀ErSie\0 hat sich das sicher mit harter
+\0n\0!\0\0(4촀\02촀ErSie\0 hat sich das sicher mit harter
 Arbeit redlich verdient, 
 \0(촀\0촆촃aber ich bin
 trotzdem ein bisschen neidisch."
@@ -236,15 +218,15 @@ sich nirgendwo stilvoller als
 dort, 
 \0n\0."
 "033","($촀\02\0n\0, 
-\0gehst du
-oft zur \0Schneiderei\0￿? 
-\0(촀\0Die ist
-toll, 
-\0n\0!\0\0(1촀\0Es hat schon was, wenn man sich
+\0gehst du oft zur \0Schneiderei\0￿? 
+\0(촀\0Die ist toll, 
+\0n\0!\0\0(1촀\0Es hat schon was, 
+\0wenn man sich
 Stoffe ganz aus der Nähe ansehen
 und sie auch anfassen kann.
 (2촀\0Außerdem mag ich es ehrlich
-gesagt sehr, wenn sich jemand so
+gesagt sehr, 
+\0wenn sich jemand so
 hingebungsvoll um mich kümmert."
 "034","촊촉(촀\0Oh, 
 \0da kommt eine neue Behausung
@@ -257,6 +239,7 @@ hin! 
 "111","<眀琀촀"
 "112","<码琀촀"
 "113","<礂琀촀"
+"114","<稃琀촀"
 "116","촊촉()촀\0Es gefällt mir sehr, 
 \0dass jeder Ausstellungsraum des Museums
 seinen ganz eigenen Charme hat.
@@ -267,20 +250,17 @@ schön zu präsentieren, 
 \0n\0!"
 "119","(촀\0Betrachtest du im \0Museum \0￿auch so
 gern die Fische, 
-\0n\0?\0\0()촀\02""(촀
+\0n\0?\0\0()촀\02"")촀
 EinenEineEin 2촁
 \0 zu sehen ist für mich das Mindestziel bei jedem Museumsbesuch!(촀"
 "120","(촀\02\0n\0, 
-\0sind die
-Insekten im \0Museum\0￿ nicht toll?
-\0
-(1촀\0Eine ganz eigene Welt...
-\0(\0촀\0
-(촀\02(촀DenDieDas 
+\0sind die Insekten im \0Museum\0￿ nicht toll?
+\0 (1촀\0Eine ganz eigene Welt...
+\0(\0촀\0\0\0(촀\02)촀DenDieDas 2촁
  könnte ich mir allein schon stundenlang angucken."
 "121","(촀\0Bist du genauso ein Fossilienfan
 wie ich, 
-\0n\0?\0\0(7촀\02(촀DerDieDas 
+\0n\0?\0\0(7촀\02)촀DerDieDas 
  allein ist schon einen Besuch im \0Museum\0￿ wert.\0\0(촀\0Wenn etwas so bewundernswert ist,
 \0
 kann ich nicht anders, 

@@ -10,10 +10,8 @@ zu mir geeilt?"
 (\0촀\0Viel schlafen!"
 "002","( 촀\02\0n\0n\0\0
 \0 (8촀\0Ich bin so froh,
-\0
-dass du hier bist.
-\0 Machtest du dir
-etwa Sorgen um mich, 
+\0 dass du hier bist.
+\0 Machtest du dir etwa Sorgen um mich, 
 \0n\0?"
 "002_a","(\0촀\0Ich habe Medizin.
 (\0촀\0Medizinlieferung!
@@ -23,9 +21,8 @@ etwa Sorgen um mich, 
 (\0촀\0Viel schlafen!"
 "003","(촀\0Ah,
 \0 n\0. 
-\0Du musst
-gleich hergeeilt sein, als dich Kunde
-von meinem Leide erreichte..."
+\0Du musst gleich hergeeilt sein, 
+\0als dich Kunde von meinem Leid erreichte..."
 "003_a","(\0촀\0Ich habe Medizin.
 (\0촀\0Medizinlieferung!
 (\0촀\0Hier, das hilft!"
@@ -66,19 +63,15 @@ einer Ohnmacht nah!"
 (\0촀\0Gute Gesundung!
 (\0촀\0Viel schlafen!"
 "007","( 촀\0Oh, n\0, 
-\0trieb dich
-allein die Sorge um mich hierher?
-\0
-(촀\0Verzeih die Unannehmlichkeit!(촀"
+\0trieb dich allein die Sorge um mich hierher?
+\0 (촀\0Verzeih die Unannehmlichkeit!(촀"
 "008","( 촀\0Ojemine, 
 \0n\0n\0\0
 Machtest du dir etwa Sorgen?
 \0
 ($촀\0Wie schrecklich lieb von dir!(촀"
 "009","2\0n\0, 
-\0(""촀\0dein Kommen
-beweist dein Mitgefühl und
-erwärmt mir zugleich das Herz(-촀\0n"
+\0(""촀\0dein Kommen beweist dein Mitgefühl und erwärmt mir zugleich das Herz(-촀\0n"
 "010","(+촀\0Oh weh. 
 \0Ich fühle mich gar
 fürchterlich, 
@@ -95,13 +88,15 @@ verbrennenn\0\0 und doch ist mir
 malade, 
 \0deshalb hab ich auch
 keinerlei \0Medizin\0￿ im Haus!"
-"012","(촀\0Ich fühle mich wie gerädert und ganz
+"012","(촀\0Ich fühle mich wie gerädert
+\0 und ganz
 seltsam obendrein. 
 \0(\0촀\0Keine Frage – 
 \0(촀\0ein
 Katarrh hält mich fest in seinem Griff.
 (촀\0Besserung jeglicher Art scheint
-augenblicklich nicht in Sicht... hätte
+augenblicklich nicht in Sichtn\0\0
+\0 Hätte
 ich doch bloß etwas \0Medizin\0￿ im Haus."
 "013","(%촀\0Danken\0\0
 \0 (""촀\0Deine lieben Worte sind ein
@@ -161,16 +156,15 @@ Vergnügen, 
 \0n\0.
 (2촀\0Bitte, 
 \020mein Liebermeine Liebe, 
-\0akzeptiere 2,촀diesen
+\0akzeptiere 2,촀diesen
 diesedieses
 2촁}\0
-\0 als
-Honorar für deine Mühen."
+\0 als Honorar für deine Mühen."
 "110","(2촀\0Weißt du, 20mein Liebermeine Liebe, 
 \0ein
 jedermann sollte 26einen Freundeine Freundin
 wie dich haben...
-(촀\02\02,촀dieser
+(촀\02\02,촀dieser
 diesedieses 2촁}\0
 soll der Lohn für deine
 Freundschaftsdienste sein!"
@@ -181,7 +175,7 @@ ohne dich getan?!
 Bitte, 
 \0(""촀\0dein bescheidenes Salär...
 
-\0(2촀\02,촀Dieser
+\0(2촀\02,촀Dieser
 DieseDieses }\0 sollte dir gute Dienste leisten."
 "112","(""촀\0Sollte dich eine Unpässlichkeit
 dereinst ans Bett fesseln, 
@@ -194,8 +188,7 @@ deine Salubrität. 
 wollen, dass es dir so ergeht wie mir!"
 "114","(\0촀\0Solltest du jemals einen Wunsch
 hegen, (""촀\0n\0, 
-\0so werde
-ich alles daransetzen, 
+\0so werde ich alles daransetzen, 
 \0(촀\0ihn zu erfüllen!"
 "200","(촀\0Gestatte mir,
 \0 dir eine kleine

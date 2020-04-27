@@ -5,10 +5,10 @@
 "001_03","()촀\0Quelque chose me dit que tu as 2\0}\0\0(촀\0 sur toi, n\0."
 "002","(4촀\0C'est un peu soudain, mais...n\0\0
 \0
-tu ne veux pas me 2촀lela\0 vendre
+tu ne veux pas me 2촀lela\0 vendre
 pour Z\0?"
 "002_a","OK!
-Pourquoi pas?"
+(\0촀\0Pourquoi pas?"
 "002_b","Euh, non, 2désolédésolée...
 Je ne peux pas."
 "003","(촀\0Oh, merci mille fois! C'est un gros
@@ -22,14 +22,14 @@ maintenant, n\0!"
 "005_02","()촀\02\02\0}\0\0! Quand on regarde de près,
 \0 c'est vrai que ça a son charmen\0\0\0\0(촀\0Je comprends qu'on puisse les
 aimer!"
-"005_03","(촀\0En voilà 2촀unune\0 superbe }\0\0!\0\0(촀\0Je suis 2*impatientimpatiente de montrer ça à
+"005_03","(촀\0En voilà 2촀unune\0 superbe }\0\0!\0\0(촀\0Je suis impatiente de montrer ça à
 tout le monde, n\0!"
 "102","(촀\0Je ne pensais pas voir un jour 2\0}\0\0 de si près!\0\0(9촀\0Ça me dérange de te demander ça,
 mais...
 \0(\0촀\0 tu ne voudrais pas t'en
 séparer (&촀\0pour Z\0?"
 "102_a","Si!
-Pourquoi pas!"
+(\0촀\0Pourquoi pas!"
 "102_b","Euh, non, 2désolédésolée...
 Je ne peux pas."
 "103","(촀\0Je peux te l'acheter?
@@ -41,8 +41,8 @@ pour le fun, 
 pas vraimentn\0\0 n\0."
 "105","<"
 "105_01","(촀\0J'avais tellement envie d'observer 2\0}\0\0 de plus près!\0\0(촀\0Je te revaudrai ça, n\0! Merci!"
-"105_02","(%촀\0Tenir dans ses mains (촀\02촀unune\0 véritable
-}\0\0, c'est autre chose que de 2촀lela\0 voir en photo!\0\0(촀\0Excuse-moi si je t'ai pris2\0e de court...
+"105_02","(%촀\0Tenir dans ses mains (촀\02촀unune\0 véritable
+}\0\0, c'est autre chose que de 2촀lela\0 voir en photo!\0\0(촀\0Excuse-moi si je t'ai pris2\0e de court...
 mais j'en prendrai soin, 
 \0(촀\0tu peux
 me faire confiance!"

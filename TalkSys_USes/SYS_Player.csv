@@ -6,7 +6,7 @@ y deshacerme de otra cosan"
 "001_a","¡Cambiar es bueno!"
 "001_b","Mejor no"
 "002","¡Desenterré 2\0}\0\0!"
-"003","Pero ya no puedo llevar nada más.
+"003","Ya no puedo llevar nada más.
 \0
 Tal vez podría hacer un cambio
 y deshacerme de otra cosan"
@@ -18,19 +18,19 @@ y deshacerme de otra cosan"
 "003_01_b","Volver a enterrar"
 "003_a","¡Cambiar es bueno!"
 "003_b","Volver a enterrar"
-"004","Pero ya no puedo llevar nada más.
+"004","Ya no puedo llevar nada más.
 \0
 Tal vez podría hacer un cambio
 y deshacerme de otra cosan"
 "004_a","¡Cambiar es bueno!"
 "004_b","Que siga libre"
-"005","Pero ya no puedo llevar nada más.
+"005","Ya no puedo llevar nada más.
 \0
 Tal vez podría hacer un cambio
 y deshacerme de otra cosan"
 "005_a","¡Cambiar es bueno!"
 "005_b","Mejor se queda ahí"
-"006","Pero ya no puedo llevar nada más.
+"006","Ya no puedo llevar nada más.
 \0
 Tal vez podría hacer un cambio
 y deshacerme de otra cosan"
@@ -83,14 +83,14 @@ lo dejo en donde estaba."
 "1001","Está sonando mi teléfonon"
 "1002","¡Oh! Es mi teléfono otra vez."
 "101","Encontré 2\0}\0\0.
-\0 ¿Quién l2촀oa\0 habrá perdido?"
-"102","Encontré 2\0}\0\0.\0\0A lo mejor l2촀oa\0 perdió alguien
+\0 ¿Quién l2촀oa\0 habrá perdido?"
+"102","Encontré 2\0}\0\0.\0\0A lo mejor l2촀oa\0 perdió alguien
 de esta isla.
-\0 Mejor no me l2촀oa\0 llevo."
-"103","Alguien perdió 2\0}\0\0.\0\0Mejor l2촀oa\0 dejo donde está.
+\0 Mejor no me l2촀oa\0 llevo."
+"103","Alguien perdió 2\0}\0\0.\0\0Mejor l2촀oa\0 dejo donde está.
 \0
 Seguro que ya hay alguien
-buscándol2촀oa\0."
+buscándol2촀oa\0."
 "104","El tesoro no es mío.
 \0
 Sería de mala educación abrirlo."
@@ -210,15 +210,15 @@ el préstamon\0\0
 \0 ¡y era el último!"
 "205",""
 "210","¡Ahora lo tengo más claro!"
-"210_01","¡Aprendí a hacer \0peinados pop\0￿!
-Con un \0espejo \0￿o un \0tocador
-\0￿podría cambiar de look."
-"210_02","¡Ya aprendí a hacer \0peinados
+"210_01","¡Aprendí a hacer \0peinados
+pop\0￿! Con un \0espejo \0￿o un \0tocador
+\0￿podría cambiar mi imagen."
+"210_02","¡Aprendí a hacer \0peinados
 modernos\0￿! Con un \0espejo \0￿o un
-\0tocador \0￿podría cambiar de look."
-"210_03","¡Aprendí a crear nuevos \0tintes \0￿para
-el pelo! Con un \0espejo \0￿o un \0tocador
-\0￿podría cambiar de look."
+\0tocador \0￿podría cambiar mi imagen."
+"210_03","¡Aprendí a crear nuevos \0tintes\0￿
+para el cabello! Con un \0espejo \0￿o un
+\0tocador \0￿podría cambiar mi imagen."
 "210_04","¡Aprendí algunos trucos para
 organizar mis bolsillos! Ahora podré
 llevar aún más cosas."
@@ -287,7 +287,7 @@ comprar cuando y donde quiera."
 "290_02","¡Ay!
 \0 Ya se me rompió.
 \0
-¡Gracias por tus servicios, 2촀buen
+¡Gracias por tus servicios, 2촀buen
 buena\0
 \0}\0\0\0￿!"
 "290_03","¡Uy!
@@ -332,6 +332,18 @@ de taller!"
 \0
 (촀\0¡Uy, se me ocurre un proyecto
 de taller!"
+"515","(
+촀\0Podría usar este estampado para
+algon\0\0
+\0 (촀\0
+\0¡Se me acaba de ocurrir
+un proyecto de taller!"
+"518","(
+촀\0Si combino lo que aprendí a
+hacer con cáscaras de huevon\0\0
+\0
+(촀\0
+\0¡Se me acaba de ocurrir algo!"
 "700","¡Feliz cumpleaños
 \0 a mí!
 \0
@@ -431,13 +443,17 @@ para no molestar."
 tan cerca del buzón de alguien.
 Mejor elijo otro lugar."
 "919_01","Primero tengo que mover el \0buzón\0￿."
+"920","No se puede instalar nada tan cerca
+del muelle. Bloquearía el paso.
+Mejor elijo otro lugar."
 "921","Tengo que poner el puente justo
 encima de un río..."
 "926","Para construir un puente, el terreno
 tiene que ser plano en ambas riberas
 y el río debe tener el ancho correcto."
-"926_01","Será difícil usar el puente si lo
-construyo tan cerca del agua."
+"926_01","Sería incómodo usar el puente
+si lo construyera tan cerca de ese
+otro cuerpo de agua."
 "926_02","Será difícil usar el puente si lo
 construyo tan cerca de un desnivel."
 "926_03","No me parece buena idea construir

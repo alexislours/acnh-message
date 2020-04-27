@@ -74,10 +74,10 @@ I'd love your cooperation, hm?"
 "011_01_01","(촀\0This is in no way tied to your
 generous donation just now, but
 I have a useful app to show you."
-"011_02","(%촀\0I sent you the \0Critterpedia\0￿ app. It's a
+"011_02","(촀\0I sent you the \0Critterpedia\0￿ app. It's a
 terrific resource for an aspiring
 island researcher such as yourself.
-(!촀\0With this one app, you'll get all the
+(촀\0With this one app, you'll get all the
 important details about the bugs and
 fish you catch. Yes, yes!"
 "011_03","(촀\0I do hope you'll continue to fill it
@@ -156,7 +156,7 @@ you beforen"
 "014_03","()촀\0The flowers that grow will be very
 strong. They'll spring up even if you
 just plant them and forget them.
-(%촀\0Ah, but if you \0water \0￿every dayn\0\0
+(%촀\0Ah, but if you \0water\0￿ them each dayn\0\0
 that's where the magic happens!\0\0(촀\0Watering opens up the possibility
 of propagating and crossbreeding
 your flowers to develop rare colors."
@@ -171,11 +171,11 @@ freen\0\0
 me, n\0,
 \0(촀\0 so this is
 just part of island give-and-take!"
-"015_01","(촀\0Hold the phone—someone's calling!
+"015_01","Hold the phone—someone's calling!
 Z"
 "015_02","\0(&촀\0Blathers\0￿, is that you?
-\0 (!촀\0
-Oho, what splendid timing!"
+\0(촀\0 Oho,
+what splendid timing!"
 "015_03","(%촀\0Yes, yesn\0\0 Do you remember
 the venture we discussed?
 \0 (촀\0

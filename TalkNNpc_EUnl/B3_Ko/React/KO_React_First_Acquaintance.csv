@@ -87,13 +87,13 @@ want zonder jouw uitnodiging
 "004","(촀\0Han\0\0 haan\0\0 haaan\0\0
 
 
-\0(,촀\0\0hatsjoe!!!\0d\0\0
+\0(,촀\0\0HATSJOE!!!\0d\0\0
 	\0(+촀\0On\0\0 hallo,
 \0 n\0.
 \0 Ik ben hetn\0\0 n
 \0. 
-\0Van s촀.
-\0 Weet je nog?\0\0(,촀\0Hatsjoe!!!
+\0 Weet je nog?
+\0 Je hebt me zelf uitgenodigd?\0\0(,촀\0HATSJOE!!!
 \0( Sorry, 2jochiemeid.
 \0 Ik ben ziek.
 \0
@@ -101,7 +101,7 @@ want zonder jouw uitnodiging
 \0 moeten we
 samen iets leuks doen\0\0 oen\0\0 oen\0\0\0\0
 
-\0(,촀\0\0Hatsjoe!!!\0d"
+\0(,촀\0\0HATSJOE!!!\0d"
 "011","<"
 "011_01","(촀\0Als dat n\0 niet is! 
 \0Dat ik jou zomaar tegenkom op mijn eerste dag op n\0!\0\0()촀\0Die goeie, ouwe s\0촀 nodigde me uit om hier te komen wonen. 
@@ -305,8 +305,9 @@ tegen!"
 \0 n\0.
 \0 Ik ben hetn\0\0 n
 \0. 
-\0(\0촀\0Van s촀.
-\0 Weet je nog?\0\0(,촀\0Hatsjoe!!!
+\0(\0촀\0
+\0 Weet je nog?
+\0 Je hebt me zelf uitgenodigd?\0\0(,촀\0Hatsjoe!!!
 \0( Sorry, 2jochiemeid.
 \0(촀\0 Ik ben hier
 nog maar net en ben al ziek.
@@ -314,8 +315,7 @@ nog maar net en ben al ziek.
 pech, n\0.
 (\0촀\0Zodra ik me beter voel,
 \0 moeten we
-samen iets leuks doen\0\0 oen\0\0 oen\0\0
-
+samen iets leuks doen\0\0 oen\0\0 oen\0\0\0\0
 
 \0(,촀\0\0Hatsjoe!!!\0d"
 "201","<"
@@ -431,8 +431,7 @@ heb er geen spijt van,
 \0( (""촀\0Ben je verrast om me hier
 te zien,
 \0 n\0?\0\0()촀\02\0s\0촀 heeft me overgehaald hier te gaan wonen
-\0 toen ik op de \02\0Ą촃kampeerplek\0￿ stond, 2jochiemeid.\0\0(1촀\02
-촀HijZe\0 was vol lof over dit eiland
+\0 toen ik op de \02\0Ą촃kampeerplek\0￿ stond, 2jochiemeid.\0\0(1촀\02촀HijZe\0 was vol lof over dit eiland
 \0 en de
 bewoners hier
 \0n\0\0 (6촀\0Ik heb dus hoge
@@ -497,10 +496,8 @@ zal zien, 2jochiemeid."
 \0
 
 \0\0Hatsjoe!\0d
-	\0
-(4촀\0O.
-\0 Hallo, n\0.
-(8촀\0Misschien wist je het aln\0\0\0\0n\0\0maar s\0촀
+	\0\0\0(4촀\0O.
+\0 Hallo, n\0. (8촀\0Misschien wist je het aln\0\0\0\0n\0\0maar s\0촀
 \0 heeft me overtuigd om hier te komen wonen toen ik hier kampeerde.\0\0(9촀\0Maar kom niet te dichtbij.
 \0 (,촀\0Haaatsjie!
 \0(
@@ -757,7 +754,7 @@ zolang ik me zo gammel voel,
 \0 kun je
 beter bij me uit de buurt blijven
 \0n"
-"321","(촀\0Ha die n\0!
+"321","(촀\0Ha, die n\0!
 \0( (촀\0Wist je al dat ik hier nu woon?\0\0(8촀\0Iemand van hier
 \0 stond erop dat ik
 hier kwam wonen
@@ -845,11 +842,9 @@ leuterenn\0\0 net als vroeger."
 "404","(촀\0Han\0\0 haan\0\0 haaan\0\0
 
 
-\0(,촀\0\0hatsjoe!!!
-\0(\0d
-
-	\0Bah. Sorry.
-(촀\0Lang niet gezien, 
+\0(,촀\0\0HATSJOE!!!
+\0(\0d
+	\0 Bah. Sorry.\0\0(촀\0Lang niet gezien, 
 \0n\0.
 \0 Ik weet niet zeker of je me herkent.
 \0 ($촀\0Mijn naam is n
@@ -916,11 +911,8 @@ vaak te zien, n\0!"
 \0
 
 
-\0(,촀\0\0hatsjie!!!
-\0\0d
-
-	\0Die irritante verkoudheid!
-(&촀\0Wacht eens evenn\0\0 wat doe jij hier,
+\0(,촀\0\0HATSJIE!!!\0d\0\0
+	\0Die irritante verkoudheid!\0\0(&촀\0Wacht eens evenn\0\0 wat doe jij hier,
 2jochiemeid?
 \0 (촀\0O ja, 
 \0dat is waar ook.

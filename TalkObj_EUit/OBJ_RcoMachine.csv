@@ -50,17 +50,17 @@ ordinato comodamente a casa."
 "016","\0\0Notifica di sistema\0\0Ora il tuo profilo è abilitato a
 scambiare le miglia con articoli.\0\0Ci auguriamo che il programma miglia
 di Nook continui a essere di tuo
-gradimento. Grazie e arrivederci.\0￿"
+gradimento. Grazie della fiducia.\0￿"
 "016_01","\0\0Notifica di sistema\0\0Complimenti per essere tra gli utenti
 del programma miglia di Nook+!\0\0Ora avrai accesso ad ancora più
 opzioni per usare le miglia.\0\0Ci auguriamo che il programma miglia
 di Nook continui a essere di tuo
-gradimento. Grazie e arrivederci.\0￿"
+gradimento. Grazie della fiducia.\0￿"
 "021","I soci del programma miglia di Nook+
 possono usare biglietti per viaggiare,
 detti \0coupon miglia di Nook\0￿.
 Per ulteriori informazioni, rivolgiti al
-banco accettazione dell'aeroporto."
+banco del check-in dell'aeroporto."
 "024","Non è possibile erogare ciò che
 hai richiesto per carenza di spazio
 nell'inventario.
@@ -84,8 +84,7 @@ davvero usare le tue miglia?"
 ottenerlo?"
 "028_a","Sì"
 "028_b","No"
-"029","Il tuo \0schema fai da te\0￿ è stato
-consegnato."
+"029","Hai ricevuto lo \0schema fai da te\0￿."
 "030","Per usare gli \0schemi fai da te \0￿devi
 prima installare un'applicazione
 apposita sul tuo Nook Phone.
@@ -164,7 +163,7 @@ questo Punto Nook e il programma
 miglia di Nook anche nel nuovo anno.\0￿"
 "501","Questa opzione ti permette di invitare
 ospiti al campeggio usando \0amiibo
-\0￿dei\0 personaggi di Animal Crossing.\0￿"
+\0￿dei\0 personaggi di Animal Crossing\0￿."
 "512","Vuoi usare un amiibo per invitare un
 personaggio all'area per campeggio?"
 "512_a","Certo"
@@ -180,7 +179,7 @@ che desideri invitare all'area per
 campeggio."
 "522","È l'amiibo di s촀!
 \0
-Desideri invitar2촀lola\0 all'area per
+Desideri invitar2촀lola\0 all'area per
 campeggio?"
 "522_a","Sì"
 "522_b","Lascia perdere"
@@ -206,6 +205,14 @@ all'area per campeggio."
 continuare a usare questo servizio?"
 "529_a","No"
 "529_b","Sì"
+"530","È l'amiibo di s촀!
+\0
+Desideri invitar2촀lola\0 all'area per
+campeggio?"
+"530_a","Sì"
+"530_b","Lascia perdere"
+"531","Al momento, s촀
+non sembra essere disponibile."
 "541","Puoi invitare al campeggio solo un
 ospite al giorno. Riprova domani."
 "542","Non puoi usare un amiibo se ci sono

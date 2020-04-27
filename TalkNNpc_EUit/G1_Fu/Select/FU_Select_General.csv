@@ -31,12 +31,12 @@
 "005_03","(4촀\0Qualcosa non va?"
 "006","<"
 "006_01","()촀\0Vorrei darti anch'io qualcosa in cambio: 
-\0(촀\02""촀il miola mia\0 }\0."
+\0(촀\02""촀il miola mia\0 }\0."
 "006_02","(4촀\0Ho qui anch'io una cosina per ten\0\0
 (촀\0È 2\0}\0."
 "006_03","(촀\0Tieni, 
 \0vorrei che in cambio accettassi
-2""촀il miola mia\0 }\0."
+2""촀il miola mia\0 }\0."
 "007","<"
 "007_01","(촀\0Devo sdebitarmi in qualche modo!
 \0
@@ -58,3 +58,22 @@ pienissimissime.\0\0(\0촀\0Nessun problema!
 \0 (촀\0Te lo mando dopo
 al tuo pied-à-terre,
 \0 n\0."
+"100","(촀\02\02\0}\0\0? 
+\0((2촀\0Ma è ciò che indosso proprio ora, 
+\0n'est-ce pas?"
+"101","(촀\0Merci, merci, merci in ogni caso!
+
+\0((촀\0Mi sarà molto utile quando avrò
+tutta la roba in lavatricen"
+"102","(4촀\0Vedrai, l2촀oa\0 custodirò per bene nel
+mio armadio in modo che non 2촀glile\0
+succeda nulla, n\0."
+"110","(촀\02\02\0}\0\0?! 
+\0((2촀\0Ma non è la stessa identica cosa che porto adesso?"
+"111","(촀\0Comunque, merci beaucoup!
+
+\0((촀\0Averne un2촀oa\0 di scorta è sempre
+utile, n\0."
+"112","(촀\0E anche il destino ci ha messo
+del suo, perché adoooro questo
+articolo! ($촀\0Merci, n\0."

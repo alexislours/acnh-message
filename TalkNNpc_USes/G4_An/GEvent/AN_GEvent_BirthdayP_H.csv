@@ -61,7 +61,7 @@ eligiendo regalos, 
 \0(촀\0¡así que
 espero que te guste!"
 "017","(!촀\0¡Feliz cumple, guapuraza!\0\0Tiré la casa por la ventana para
-conseguirte eston\0\0 (5촀\0Pero 2ununa compi como tú, lo vale."
+conseguirte eston\0\0 (5촀\0Pero 2ununa compi como tú, lo vale.(\0촀"
 "018","(촀\0Ahora que ya terminamos con todas
 las formalidades cumpleañerilesn\0\0
 ¡podemos seguir con el pachangón!
@@ -108,7 +108,7 @@ para pegarle a la piñata.
 \0 Estuviste entrenando,
 \0
 ¿verdad?
-Como sean\0\0 (촀\0¡Mira nada más todos los 2\0܁촅pastelitos de cumpleaños que tienes,
+Como sean\0\0 (촀\0¡Mira nada más todos los \02\0܁촅pastelitos de cumpleaños\0￿ que tienes,
 n\0!"
 "026","( 촀\0Menos mal que no soy una piñatan\0\0
 \0
@@ -116,20 +116,20 @@ Por los palazos que le diste,
 \0 se ve
 que le tenías una tirrian\0\0
 (!촀\0¡Y ahora tienes un montón de
-2\0܁촅pastelitos de cumpleaños!"
+\02\0܁촅pastelitos de cumpleaños\0￿!"
 "027","(!촀\0¡Adiós, piñata!
 \0(3촀\0 Creo que en ninguna
 fiesta había visto una paliza piñatil
 tan tremendan\0\0
 ¡Y mira que yo he presenciado
-muchas!\0\0Total, (!촀\0¿qué te parecen tus 2\0܁촅pastelitos de cumpleaños?
+muchas!\0\0Total, (!촀\0¿qué te parecen tus \02\0܁촅pastelitos de cumpleaños\0￿?
 \0 ¡A mí se me ocurrió
 meterlos ahí dentro!
 (7촀\0Menos mal que salieron enteritosn"
-"028","(촀\0¡Estos 2\0܁촅pastelitos de cumpleaños son muy deliciosos!
+"028","(촀\0¡Estos \02\0܁촅pastelitos de cumpleaños\0￿ son muy deliciosos!
 \0 (촀\0No lo digo porque
 me haya comido uno, ¿eh?
-\0 \0Je, jen\0\0\0￿"
+\0 \0(Je, jen\0\0).\0￿"
 "029","(
 촀\0Como que son muchos para ti sol2oa,
 ¿no?
@@ -196,8 +196,7 @@ siguiente año, n\0!"
 \0 ¡Más te vale porque es tu cumpleaños!"
 "105","(촀\0¡Feliz cumpleaños a ti! 
 ¡Te deseo aquí!\0\0(촀\0Que comas mucho paste-eln\0\0
-\0(
-촀\0 yn\0\0
+\0 yn\0\0
 \0
 (촀\0¡me compartas también!\0\0(5촀\0¿Te gustó mi canción? 
 \0¡Acabo

@@ -1,4 +1,23 @@
 ﻿"label","text"
+"010","( 촀\0Ah,
+\0 n\0 !
+\0 (촀\0Tu sais que tu peux envoyer des cartes aux amis avec qui tu as joué,
+\0 maintenant ?"
+"020","(9촀\0Mais pour que tu puisses utiliser ce
+service,
+\0 je dois attirer ton attention
+sur quelques principes importants.
+(%촀\0C'est la procédure. 
+\0($촀\0Tu veux bien lire
+ce qui suit s'il te plaît ?"
+"040","(촀\0Hop ! 
+\0Pourquoi attendre plus
+longtemps ?
+\0 (&촀\0Tu veux essayer
+d'envoyer une carte,
+\0 pour voir ?"
+"040_a","Oui, tiens !"
+"040_b","Annuler."
 "050","(촀\0Ah,
 \0 tu veux envoyer une carte ?
 \0( (2촀\0Euh,
@@ -15,6 +34,24 @@ pendant ce temps ?"
 Dans ce cas,
 \0(촀\0 je ferme l'accès !"
 "052","(촀\0Désolé pour l'attente !"
+"053","(촀\0Ah,
+\0 tu veux envoyer une carte ?
+\0( (2촀\0Euh,
+\0
+je m'en charge,
+\0 bien sûr,
+\0 maisn\0\0 le
+multitasking, c'est pas trop mon truc.\0\0(&촀\0Ça te dérange pas si j'interromps la
+connexion pendant ce temps ?"
+"053_a","Pas de problème !"
+"053_b","N'y touche pas !"
+"054","(촀\0Merci de ta compréhension.
+\0 Dans
+ce cas,
+\0 j'interromps la connexion."
+"055","(촀\0Okidodoki, je ne touche à rien !
+(촀\0Reviens me voir si tu veux utiliser
+notre service postal."
 "070","(&촀\0Tu veux envoyer une carte ?"
 "070_a","Oui !"
 "070_b","Pas maintenant."
@@ -25,6 +62,14 @@ tu veux envoyer une carte ?"
 "080_b","M2
 ona moi du futur."
 "080_c","Laisse tomber."
+"081","(촀\0Dis-moi tout.
+\0 (\0촀\0À qui est-ce que
+tu veux envoyer une carte ?"
+"081_a","Un habitant de l'île."
+"081_b","M2
+ona moi du futur."
+"081_c","Un ami."
+"081_e","Laisse tomber."
 "200","(%촀\0À un habitant de cette île,
 \0 okidodoki.
 \0(
@@ -47,9 +92,53 @@ retard, je ne peux pas accepter plus
 de cartes pour le moment.\0\0(촀\0Est-ce que tu crois que tu peux
 revenir plus tard, le temps que je
 fasse un peu de tri dans tout ça ?"
+"301","(촀\0Ça marche ! Etn\0\0 est-ce que tu peux
+me dire auquel de tes amis tu veux
+écrire ?"
+"311","()촀\0Pour que tu puisses envoyer des
+cartes à tes amisn\0\0\0\0n\0\0 il faut que la « communication
+libre entre utilisateurs » soit activée
+dans le contrôle parental."
+"312","(
+촀\0Ah, on dirait que tu n'as pas encore
+d'amis dans ton carnet d'adressesn\0\0\0\0(촀\0Pour pouvoir envoyer une carte à
+quelqu'un, il faut d'abord que tu lui
+aies rendu visite en ligne !"
 "320","( 촀\0Euh, on dirait que tu as déjà envoyé
 deux cartes à s\0촀 aujourd'hui.\0\0(촀\0Si tu attendais demain pour lui écrire
 à nouveau ?"
+"321","(%촀\0Bon, je m'occupe des préparatifs
+pour 
+\0($촀\0envoyer ça à qui de droit !"
+"350","( 촀\0C'est la première fois que tu écris à
+Nintendo ?
+\0('촀\0 Ils ont pas mal de boulot
+donc ils ne te répondront pas, maisn\0\0
+n\0\0 ()촀\0ils pourraient publier ta carte sur
+les réseaux sociaux ou sur leur site,
+donc ne donne pas d'infos perso !
+(촀\0Sur ce, j'arrête de jacasser. Il ne te
+reste plus qu'à écrire ta carte !"
+"351","(촀\0Tu veux écrire à Nintendo ?
+\0
+((촀\0Fais comme chez toi !"
+"352","( 촀\0Euh, on dirait que tu as déjà envoyé
+deux cartes à Nintendo aujourd'hui.\0\0(촀\0Il vaut mieux attendre demain pour
+leur écrire à nouveau."
+"353","Bon, je m'occupe des préparatifs
+pour envoyer ça à Nintendo !"
+"380","( 촀\0Euh,
+\0 on dirait que ça n'a pas marché.
+\0
+(&촀\0Tu veux réessayer maintenant ou tu
+préfères repasser plus tard ?"
+"380_a","(\0촀\0Réessayons."
+"380_b","(\0촀\0Je repasserai."
+"381","Okidodoki.
+\0($촀\0 Dans ce cas, je te rends
+tes clochettes."
+"382","(%촀\0Ah, et le cadeau que tu allais envoyer
+avec ta carte, aussi !"
 "400",""
 "401","(촀\0Alors, quand est-ce que tu voudrais
 la recevoir, cette carte ?"
@@ -59,7 +148,7 @@ le Z$촀 Z#촀 Z""촀 ?"
 "402_b","Non, un autre jour."
 "410","No problemo. Choisis la date que
 tu veux."
-"415","(\0촀\0Okidodokn\0\0 Euh, attends !
+"415","(\0촀\0Okidodokn\0\0 (촀\0Euh, attends !
 \0 Tu as déjà
 envoyé une carte à t2
 ona futur2\0e toi !\0\0()촀\0Si tu veux en envoyer une autre,
@@ -175,9 +264,22 @@ tout simplement la jeter."
 "620_a","Un habitant de l'île."
 "620_b","M2
 ona moi du futur."
+"621","À qui est-ce que tu veux l'envoyer ?"
+"621_a","Un habitant de l'île."
+"621_b","M2
+ona moi du futur."
+"621_c","Un ami."
+"621_d","Nintendo."
+"625","Ah, tu as déjà payé les frais de port.
+Je te rembourse pour que tu puisses
+changer de destinataire."
 "630","(%촀\0Okidodoki, 
 \0je m'occupe de jeter
 cette carte pour toi."
+"631","(%촀\0Okidodoki, ta carte est partie au
+recyclage. 
+\0Je te rends les 200
+clochettes que tu as déboursées."
 "800","(촀\0Merci d'avoir utilisé nos services !"
 "801","(%촀\0Okidodoki. 
 \0Repasse quand tu veux !"

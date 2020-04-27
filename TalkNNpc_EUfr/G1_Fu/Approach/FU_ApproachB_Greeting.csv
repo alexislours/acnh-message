@@ -8,10 +8,9 @@ d'exprimer son amitié ?
 촀\0Alors,
 qu'en penses-tu ?"
 "001_a","(\0촀\0J'ai une idée."
-"001_b","Je sais pas..."
-"002","(촀\02\0n\0, j'ai une
-proposition à te fairen\0\0\0\0C'est au sujet de notre salut :
-()촀\0« Coucou, rayon de soleil ».
+"001_b","(\0촀\0Je sais pas..."
+"002","(촀\02\0n\0, j'ai une proposition à te fairen\0\0\0\0C'est au sujet de notre salut :
+()촀\0« n\0Coucou, rayon de soleiln ».
 ($촀\0Si nous en changions ?\0\0(%촀\0C'est presque un mot de
 passe, (촀\0autant le changer
 de temps en tempsn"
@@ -27,7 +26,7 @@ le nôtre, c'est-à-dire, 
 \0(2촀\0si nous
 décidions d'en avoir unn"
 "003_a","(\0촀\0J'ai une idée."
-"003_b","Bof..."
+"003_b","(\0촀\0Bof..."
 "004","(촀\0Oh, n\0 !
 \0
 (촀\0Tu ne pouvais pas mieux tomber.\0\0()촀\0Je pensais à notre salut secret,
@@ -36,8 +35,8 @@ décidions d'en avoir unn"
 mieux ?
 \0 (&촀\0Je te propose un petit
 brainstorming."
-"004_a","J'en ai un bon."
-"004_b","Je l'aime, notre salut."
+"004_a","(\0촀\0J'en ai un bon."
+"004_b","(\0촀\0Je l'aime, notre salut."
 "005","(촀\0C'est comprisn\0\0
 \0('촀\0 De toute façon,
 je n'avais pas d'idée.(\0촀\0\0\0(7촀\0Je me disais juste que ça aurait pu
@@ -58,12 +57,12 @@ contente qu'on ait pu en parler."
 "100","(촀\0Oh !
 \0 J'ai hâte de savoir !"
 "101","()촀\0Je te propose de faire un essai.
-(1촀\02\0n\0Coucou, rayon de soleilnn\0\0 Alors ? ($촀\0Qu'en penses-tu ?"
+(1촀\0« 2\0n\0Coucou, rayon de soleiln »n\0\0 Alors ? ($촀\0Qu'en penses-tu ?"
 "101_a","J'aime bien."
 "101_b","C'est pas encore ça."
-"102","()촀\02\0n\0Coucou, rayon de soleilnn\0\0 Attends !(&촀\0 On garderait notre ancien salut, finalement ?"
+"102","()촀\0« 2\0n\0Coucou, rayon de soleiln »n\0\0 Attends !(&촀\0 On garderait notre ancien salut, finalement ?"
 "102_a","Tout à fait !"
-"102_b","Minute..."
+"102_b","(\0촀\0Minute..."
 "103","(8촀\0Ah bonn\0\0
 \0 On s'est peut-être mal
 compris2\0es.
@@ -81,7 +80,7 @@ bon coup,
 (촀\0C'est tout à fait nous !"
 "202","(촀\0Ce sera notre salut secret à
 2toustoutes les deux, n\0 !"
-"203","(촀\0Je vais répéter « ⁠n\0Coucou, rayon de soleiln » matin, midi et soir !\0\0Jusqu'à ce que ça devienne
+"203","(촀\0Je vais répéter « ⁠n\0Coucou, rayon de soleiln ⁠» matin, midi et soir !\0\0Jusqu'à ce que ça devienne
 une seconde nature."
 "204","(촀\0Je suis aux anges ! Ce sera notre
 secret à nous !"

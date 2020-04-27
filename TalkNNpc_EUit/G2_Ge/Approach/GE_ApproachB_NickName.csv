@@ -45,8 +45,8 @@ anch'io così?"
 "006_a","Ma certo!"
 "006_b","Mi dispiace, ma no."
 "100","(""촀\0Cosa ne pensi din\0\0 Eh, mi viene in mente solo ""n\0"". Non male, eh?"
-"100_a","Fantastico!"
-"100_b","Non è un granché."
+"100_a","(\0촁\0Fantastico!"
+"100_b","(\0촁\0Non è un granché."
 "101","(촀\0Uffan\0\0
 \0 (촀\0Mi sembrava un soprannome
 troppo bellon\0\0 E di solito non sbaglio
@@ -74,7 +74,7 @@ bene così?"
 "106","(촀\0OK, allora, cioè, 
 \0(&촀\0ti posso chiamare ""⁠n\0⁠""? Da adesso, voglio dire?"
 "106_a","Sì, sì!"
-"106_b","Aspetta un attimo..."
+"106_b","(\0촁\0Aspetta un attimo..."
 "107","( 촀\0Allora, 
 \0quale soprannome 
 \0vuoi

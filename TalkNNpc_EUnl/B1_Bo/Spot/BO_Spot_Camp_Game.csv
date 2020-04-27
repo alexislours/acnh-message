@@ -11,7 +11,7 @@ regels zijn, n\0?"
 "002_b","Nee, hoeft niet."
 "003","(촀\0Ah, oké.
 \0( Misschien kunnen we later
-een spelletje doen, n\0(촀\0."
+een spelletje doen, n\0.(촀"
 "004","Goed!
 \0( Eerst ga ik deze kaarten heel
 goed schudden!
@@ -61,7 +61,7 @@ dann\0\0
 \0 Weet ik veel! 
 \0((<촀\0Laten we
 beginnen!"
-"101","(=촀\0Goed!
+"101","Goed!
 \02(\0촀\0 Wat staat er op mijn kaart?
 (;촀\0\0♥ Harten\0￿, \0♦ ruiten\0￿, \0♠ schoppen\0￿ of
 \0♣ klaveren\0￿?"
@@ -83,7 +83,7 @@ verschillende tekens: \0♥ harten\0￿,
 \0 en jij moet
 raden wat de kleur van het teken is:
 (%촀\0\0rood\0￿ of \0zwart\0￿.\0\0(\0촀\0Als je het goed raadt, win je mijn (""촀\02촃}\0\0!(<촀\0 Oké, laaaaaten we begiiiiinnen!"
-"201","(=촀\0Dusn\0\0
+"201","Dusn\0\0
 \02(\0촀\0 is het teken op mijn kaartn\0\0
 (;촀\0
 \0\0rood\0￿ 

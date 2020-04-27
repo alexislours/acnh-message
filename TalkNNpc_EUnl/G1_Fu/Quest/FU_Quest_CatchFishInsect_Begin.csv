@@ -9,7 +9,7 @@ probeer, (촀\0ik krijg er geen te pakken!"
 "004","()촀\0Ik lees veel over insecten zoals
 2\02촃}촀 en zou er graag een bestuderen.\0\0(촀\0Maar het lukt me niet om er een
 te vangenn"
-"004_a","Heb je hulp nodig?"
+"004_a","(\0촀\0Heb je hulp nodig?"
 "004_b","(\0촀\0Blijf het proberen!"
 "008","()촀\0Ik zag laatst een opvallende foto van een }촀 in een vishandboek.\0\0(%촀\0Deze soort wordt alleen(촀\0 niet vaak
 in deze wateren gezien. (촀\0Kon ik er
@@ -21,7 +21,7 @@ zeldzame vissen en (촀\0ik wil heel graag
 2\0}촀n\0\0
 (촀\0Maar hoe hard ik ook probeer, ik krijg
 er geen te pakken."
-"009_a","Heb je hulp nodig?"
+"009_a","(\0촀\0Heb je hulp nodig?"
 "009_b","(\0촀\0Blijf het proberen!"
 "011","(촀\0Heel erg bedankt! (촀\0Ik hoop zo
 dat je er een kunt vangen."
@@ -188,7 +188,7 @@ zal vast snel keren!"
 "201","(촀\0Alsjeblieft, ik heb je hulp nodig! (%촀\0Jij
 bent er beter in dan ik, (4촀\0dus ik wil je
 om je hulp vragenn\0\0\0\0(8촀\0Kun je voor mij 2\0}촀 vangen?"
-"201_a","Geen probleem!"
+"201_a","(\0촀\0Geen probleem!"
 "201_b","Komt nu niet uit..."
 "202","( 촀\02\0n\0! Kun je me helpen? 
 \0(촀\0Het lukt me maar niet 2\0}촀 te vangen."

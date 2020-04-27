@@ -70,7 +70,7 @@ lo confermi, mi sento molto meglio!"
 del mio quotidiano allenamento di
 scatti, n\0."
 "103","(&촀\0Allora, s촀 ha per caso detto qualcosa, n\0?"
-"103_a","Ora che ci penso..."
+"103_a","(\0촀\0Ora che ci penso..."
 "103_b","Non ricordo."
 "104","(&촀\0Senti, 
 \0ma s촀 ha detto niente, n\0?"
@@ -107,7 +107,7 @@ da s촀 al mio posto.\0\0(%촀\0Ora che la faccenda è chiusa, posso
 finalmente rilassare i muscoli delle
 mie sopracciglia, n\0."
 "203","(&촀\0Ha detto niente s촀?"
-"203_a","Ora che ci penso..."
+"203_a","(\0촀\0Ora che ci penso..."
 "203_b","Non ricordo."
 "204","(&촀\0s촀 ha detto niente?"
 "204_a","(\0촁\0Beh, in effetti..."
@@ -140,7 +140,7 @@ allora sta bene anche a me,
 quel regalo 2\0 s촀."
 "302","(&촀\0Ha detto qualcosa
 s촀?"
-"302_a","Ti dico tutto..."
+"302_a","(\0촁\0Ti dico tutto..."
 "302_b","Non ricordo."
 "303","(&촀\0Ha detto nulla s촀?"
 "303_a","(\0촁\0Beh, in effetti..."
@@ -165,10 +165,10 @@ siano andate bene. \0\0(%촀\0A volte è difficile fidarsi del proprio
 istinto, anche se finora non ha mai
 fallito."
 "309","(촀\0Per tutti i deltoidi, non ha provato
-a vedere come 2촀glile\0 stava?
+a vedere come 2촀glile\0 stava?
 \0(
 촀\0 Secondo
-me 2촀glile\0 andrà a pennello!"
+me 2촀glile\0 andrà a pennello!"
 "310","( 촀\0Cosa?
 \0 È questo che è successo,
 n\0?\0\0(촀\0Credevo che il mio regalo avrebbe
@@ -209,7 +209,7 @@ un po' meglio i suoi gusti."
 il regalo 2\0 s촀!"
 "402","(&촀\0s촀 ha detto niente?
 "
-"402_a","Ora che ci penso..."
+"402_a","(\0촁\0Ora che ci penso..."
 "402_b","Non ricordo."
 "403","(&촀\0s촀 ha detto niente?
 "

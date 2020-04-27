@@ -1,24 +1,19 @@
 ﻿"label","text"
 "001","J'ai emprunté
-\0 quelque chose à
-s촀, l'autre journ\0\0
-\0
-(촀\0Et il se trouve que je l'ai encore.\0\0(촀\0Ça se fait, de rendre un truc après
+\0 quelque chose à s촀, l'autre journ\0\0
+\0 (촀\0Et il se trouve que je l'ai encore.\0\0(촀\0Ça se fait, de rendre un truc après
 des jours ? 
 \0Et quand est-ce qu'un
 emprunt se transforme en vol ?"
 "001_a","(\0촀\0Je peux le lui rendre."
 "001_b","(\0촀\0Va t'excuser."
 "002","(촀\0L'autre jour, s촀
-\0 a
-oublié un truc chez moi.\0\0(
+\0 a oublié un truc chez moi.\0\0(
 촀\0Le problème,
 \0 c'est que j'ai des
 choses plus intéressantes à faire
 que de le lui rapportern\0\0\0\0(\0촀\0Dis, n\0,
-\0(&촀\0 tu te sens
-capable de passer chez
-s촀 pour moi ?"
+\0(&촀\0 tu te sens capable de passer chez s촀 pour moi ?"
 "002_a","(\0촀\0Bien sûr !"
 "002_b","(\0촀\0Nan, pas envie."
 "003","(%촀\0Le facteur a livré un paquet destiné
@@ -69,21 +64,17 @@ je passerai le lui apporter !"
 \0 J'ai un service à te
 demander.
 \0 Tu aurais cinq minutes ?\0\0(%촀\0Je voudrais que tu apportes quelque
-chose à s촀, si c'est
-pas trop abuser.
-(2촀\0C'est pour 2촀lela\0 remercier de m'avoir
+chose à s촀, si c'est pas trop abuser.\0\0(2촀\0C'est pour 2촀lela\0 remercier de m'avoir
 aidé, l'autre jour.
 \0 Mais les mercis,
 tu sais que c'est pas mon fortn"
 "101_a","(\0촀\0Je m'en charge !"
 "101_b","(\0촀\0Toi, tu y vas."
 "102","(촀\0Tiens,
-\0 n\0. J'ai
-quelque chose à te dire.\0\0(촀\0Avec s촀, on s'est
-pris la tête assez salementn\0\0\0\02촀IlElle\0 avait tort, mais j'ai été le
-premier à perdre mon sang-froidn\0\0
-\0
-Bon, OK, j'ai été le seul.\0\0('촀\0Maintenant, je me sens un peu
+\0 n\0. J'ai quelque chose à te dire.\0\0(촀\0Avec s촀, on s'est pris la tête assez salementn\0\0\0\02촀IlElle\0 avait tort, mais j'ai été le premier
+à perdre mon sang-froidn\0\0
+\0 Bon, OK,
+j'ai été le seul.\0\0('촀\0Maintenant, je me sens un peu
 penaud.\0\0(촀\0Je me disais qu'un petit cadeau pour
 m'excuser ne ferait pas de mal.
 \0 Tu
@@ -98,9 +89,7 @@ patte !\0\0(%촀\0C'est décidé,
 \0 je te laisse t'en
 charger, n\0 !"
 "104","( 촀\0Hm ?
-\0 Tu ferais ça pour moi ?\0\0(%촀\0Merci, n\0 ! Pour une
-fois, je te laisse mener cette affaire,
-au lieu de m'en charger moi-même."
+\0 Tu ferais ça pour moi ?\0\0(%촀\0Merci, n\0 ! Pour une fois, je te laisse mener cette affaire, au lieu de m'en charger moi-même."
 "105","(%촀\0Tu as raison.
 \0 C'est à moi de le lui
 apporter,
@@ -112,8 +101,7 @@ Mais tu me connais, les excuses,
 c'est pas mon fort.
 \0
 (촀\0Mais merci, je vais trouver les mots
-pour s촀. Allez, c'est
-qu'un mauvais moment à passern"
+pour s촀. Allez, c'est qu'un mauvais moment à passern"
 "108","(%촀\0Désolé de te mettre la pression,
 
 \0mais tu pourrais t'en charger dans
@@ -121,14 +109,13 @@ la journée ?"
 "109","(촀\0Il est déjà tard,
 \0 tu peux aussi le lui
 apporter demain, si tu veux."
-"201","Va rendre à s촀 le truc qu'2촀ilelle\0 m'a prêté. (
-촀\0Avec un peu de chance, 2촀ilelle\0 aura oublién"
+"201","Va rendre à s촀 le truc qu'2촀ilelle\0 m'a prêté. (
+촀\0Avec un peu de chance, 2촀ilelle\0 aura oublién"
 "202","(%촀\0Je me répète, mais tu peux apporter
-à s촀 le truc qu'2촀ilelle\0 a oublié ?"
+à s촀 le truc qu'2촀ilelle\0 a oublié ?"
 "203","(%촀\0L'idée, c'est que tu ailles porter le
 paquet à s촀."
-"204","(%촀\0Assure-toi que le cadeau pour
-s촀 arrive à bon port.
+"204","(%촀\0Assure-toi que le cadeau pour s촀 arrive à bon port.
 "
 "205","(%촀\0Ta mission est d'apporter mon
 cadeau d'excuse à s촀, tu te souviens ?"

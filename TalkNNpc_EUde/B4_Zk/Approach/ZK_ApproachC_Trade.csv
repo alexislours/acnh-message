@@ -1,20 +1,17 @@
 ﻿"label","text"
 "001","(촀\0Wow! 
-\0Ist das etwa 2F촀ein echtereine echteein echtes
+\0Ist das etwa 2F촀ein echtereine echteein echtes
 }\0\0?\0\0(4촀\0Würdest du dich davon trennen?\0\0(촀\0Moment! 
-\0(%촀\0Ich gebe dir 2(đ촀meinen
-meinemein
-2촁}\0 dafür!"
-"001_a","(\0촁\0Einverstanden.
+\0(%촀\0Ich gebe dir 2(Ē촀meinen
+meinemein 2촁}\0 dafür!"
+"001_a","Einverstanden.
 Klingt gut!"
 "001_b","Nein, danke.
-(\0촀\0Ich weiß ja nicht..."
+Ich weiß ja nicht..."
 "002","(5촀\0Na? 
-\0(&촀\0Hast du die Nerven, 2(촀deinen
+\0(&촀\0Hast du die Nerven, 2(촀deinen
 deinedein
-2촁}\0\0 aufs
-Spiel zu setzen?
-('촀\0Denk nicht zu viel nach.
+2촁}\0\0 aufs Spiel zu setzen?\0\0('촀\0Denk nicht zu viel nach.
 \0 (%촀\0Im Gegenzug
 bekommst du etwas von mir.\0\0(촀\0Du weißt nur nicht, was!
 \0
@@ -23,18 +20,15 @@ Klingt das nicht nach Spaß?"
 Ich riskier's!"
 "002_b","Eher nicht...
 Nein, danke."
-"003","(촀\0Hey, du hast nicht zufällig irgendwo
-2(촀meinen
-meinemein 2촁}\0\0
-gesehen, oder?
-Oh...
-\0(촀\0 Du hast auch 2""촀
-eineneineein
-2촁}\0\0?!\0\0(4촀\0Würdest du tauschen?
-\0 2(촀Deinen
-DeineDein
-2촁}\0\0 gegen
-2(đ촀meinen
+"003","(촀\0Hey, 
+\0du hast nicht zufällig irgendwo
+2(촀meinen
+meinemein 2촁}\0\0 gesehen, 
+\0oder?\0\0Oh...
+\0(촀\0 Du hast auch 2""촀
+eineneineein 2촁}\0\0?!\0\0(4촀\0Würdest du tauschen?
+\0 2(촀Deinen
+DeineDein 2촁}\0\0 gegen 2(Ē촀meinen
 meinemein 2촁}\0?"
 "003_a","(\0촁\0Das wäre okay.
 Na klar!"
@@ -42,11 +36,10 @@ Na klar!"
 Nein, danke."
 "004","(1촀\0Heute ist es so weit, 
 \0heute finde ich
-2""촀
-eineneineein 2촁}\0\0,
-ich weiß es einfach!
-(촀\0Hey, hey, hey...
-\0 Du hast gerade 2""촀
+2""촀
+eineneineein 2촁}\0\0,
+\0 ich weiß es einfach!\0\0(촀\0Hey, hey, hey...
+\0 Du hast gerade 2""촀
 eineneineein
 }\0\0 bei dir?\0\0(촀\0Her damit! 
 \0Muss ich haben!
@@ -55,7 +48,7 @@ eineneineein
 es mich anders ausdrücken.\0\0(촀\0Ich biete dir einen Tausch an!
 \0 Mal
 sehen...
-\0 Ich könnte dir 2(đ촀meinen
+\0 Ich könnte dir 2(Ē촀meinen
 meinemein
 }\0 bieten!"
 "004_a","(\0촁\0Klar tauschen wir!
@@ -79,8 +72,8 @@ Ich schulde dir was."
 "200","(촀\0Ich hab doch gewusst, 
 \0dass das was
 für dich ist.
-\0 Also dann!\0\0(9촀\0Im Tausch gegen 2n촀$deinen fabelhaften deine fabelhafte dein fabelhaftes
-2촁}\0\0 erhältst du...\0\0(촀\02(đ촀Meinen
+\0 Also dann!\0\0(9촀\0Im Tausch gegen 2n촀$deinen fabelhaften deine fabelhafte dein fabelhaftes
+2촁}\0\0 erhältst du...\0\0(촀\02(Ē촀Meinen
 MeineMein 2촁}\0!
 \0
 2\0n\0!"
@@ -91,9 +84,9 @@ sein.
 \0 Dann nächstes Mal!"
 "202","(촀\0Das war aufregend, n\0.
 \0(
-(-촀\0Jetzt brauche ich erst mal 2""촀
+(-촀\0Jetzt brauche ich erst mal 2""촀
 eineneineein
-2V촀erfrischendenerfrischendeerfrischendes 2촁촀."
+2V촀erfrischendenerfrischendeerfrischendes 2촁촀."
 "300","(촀\0Du willst dich darauf einlassen?
 \0 (촀\0Ich
 habe das mehr als Witz gemeint...
@@ -106,16 +99,15 @@ zustimmst.
 ziemlich gute Freunde, was?"
 "302","(6촀\0Vielen Dank!
 \0 Ich werde immer an
-dich denken, wenn ich 2J촀meinen neuenmeine neuemein neues
+dich denken, wenn ich 2J촀meinen neuenmeine neuemein neues
 2촁}\0\0 sehe."
 "303","(촀\0Du hast mir wirklich den Tag versüßt,
 
 \0n\0! Danke!"
 "400","(7촀\0Ich versteh schon.
-\0 Ich würde 2(촀meinen
+\0 Ich würde 2(촀meinen
 meinemein
-2촁}\0\0 auch
-nicht hergeben.
+2촁}\0\0 auch nicht hergeben.
 \0 (%촀\0Ich suche weiter!"
 "401","(%촀\0Hey, keine Sorge.
 \0 Ich wollte nicht

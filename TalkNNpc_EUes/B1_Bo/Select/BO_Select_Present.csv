@@ -16,9 +16,9 @@ que cayera en mis patas algo asín\0\0
 \0 (촀\0Seguro que ya
 sabías que estas cosas me encantan,
 ¿a que sí?"
-"101","()촀\0Una vez arregle mi casa,
-\0 esto va a
-quedar genial.
+"101","()촀\0Una vez que arregle mi casa,
+\0 esto va
+a quedar genial.
 \0 (촀\0¡Ya verás qué molón
 lo dejo todo!"
 "102","((촀\0Cuando la limpie,
@@ -34,6 +34,10 @@ de comer
 "103","(촀\0¡Me encantan los muebles nuevos!
 \0
 (1촀\0Huelen como a 촀 y a lo mejor hasta saben igualn"
+"104","(촀\0\0(¿Dónde he visto esto yo antes?
+\0
+(2촀\0Me suena muchísimo el olorn\0\0
+\0)\0￿"
 "111","(촀\0¡Qué maravilla que me das!
 \0
 (촀\0¡Gracias, n\0!"
@@ -95,7 +99,7 @@ Gracias, n\0."
 "221","(
 촀\0¡La verdad es que mola!
 \0
-(""촀\0Luego me l2촀oa\0 pruebo en mi casa."
+(""촀\0Luego me l2촀oa\0 pruebo."
 "222","(촀\0¡Muchas gracias de todos modos!
 \0
 (2촀\0Me hace ilusión que eligieras algo
@@ -130,8 +134,7 @@ que la lluvia me limpie las migas!"
 "402","(촀\0¡2\02\0}\0\0!
 \0
 (촀\0Mmm, qué pintan\0\0
-\0
-(촀\0¡Muchísimas gracias!"
+\0 (촀\0¡Muchísimas gracias!"
 "403","(촀\0¡Muchas gracias, n\0!
 \0
 (촀\0Con lo zampabollos que soy,
@@ -149,12 +152,12 @@ En casa, hasta las abejas
 se chuparán las patasn"
 "406","(촀\0¡2\02\0}\0\0!
 \0
-(&촀\0¿2촀LoLa\0 has pescado tú mism2oa?"
-"407","(촀\0¡Gracias, n\0!\0\0(%촀\0¡Jugaré con 2촀élella\0 a eso de a ver
+(&촀\0¿2촀LoLa\0 has pescado tú mism2oa?"
+"407","(촀\0¡Gracias, n\0!\0\0(%촀\0¡Jugaré con 2촀élella\0 a eso de a ver
 quién parpadea primero!"
 "408","(촀\0¡2\02\0}\0\0!
 \0
-(&촀\0¿2촀LoLa\0 has cazado tú?"
+(&촀\0¿2촀LoLa\0 has cazado tú?"
 "409","(촀\0¡Gracias!
 \0 Con lo que me gustan a mí
 los bichosn\0\0\0\0()촀\0Siempre me enseñan un montón

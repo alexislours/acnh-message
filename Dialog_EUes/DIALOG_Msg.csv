@@ -1,10 +1,14 @@
 ﻿"label","text"
-"0001","¿Confirmas que quieres llamarte
-\0s\0촀\0￿?"
+"0001","¿Vas a llamarte \0s\0촀\0￿?
+\0K\0No incluyas información personal ni vocabulario
+ofensivo para que todo el mundo pueda disfrutar
+de Animal Crossing.\0￿\0d"
 "0001_a","¡Espera, no!"
 "0001_b","¡Vale!"
-"0003","¿Sugieres que la isla
-se llame \0\0s촀\0￿?"
+"0003","¿Se llamará \0\0s촀\0￿?
+\0K\0No incluyas información personal ni vocabulario
+ofensivo para que todo el mundo pueda disfrutar
+de Animal Crossing.\0￿\0d"
 "0003_a","¡Espera, no!"
 "0003_b","¡Vale!"
 "0004","El texto incluye una palabra
@@ -27,7 +31,7 @@ de s\0촁?
 luego no hay vuelta atrásn"
 "0012_a","\0¡Sí, bórralos!\0￿"
 "0012_b","¡No, cancela!"
-"0101","¿Quieres fabricar 
+"0101","¿Quieres fabricar
 2\0\0}\0\0\0￿?"
 "0101_a","Mejor no..."
 "0101_b","¡Adelante!"
@@ -56,6 +60,10 @@ porque tienes los bolsillos llenos."
 "0301","No puedes coger nada ahora mismo
 porque tienes los bolsillos llenos."
 "0301_a","¡Vale!"
+"0303_a","¡Vale!"
+"0304_a","¡Vale!"
+"0307","Recibiendo el correo..."
+"0308","Se van a verificar los datos."
 "0310","Espera un momento..."
 "0321","No es posible añadir una postal a
 tus favoritas sin haberla leído antes."
@@ -67,13 +75,27 @@ de tus postales favoritas."
 de Z\0 postales a tus favoritas."
 "0333","No es posible tirar postales
 que aún lleven un regalo adjunto."
+"0334","¡Alguien te ha enviado una postal!
+Si tú también quieres enviar postales
+a tus amigos, puedes hacerlo desde
+el aeródromo."
+"0335","Cuando recibes una postal, esta se
+guarda en la consola y no se puede
+recibir de nuevo. Las postales no
+recibidas se quedan en el servidor
+durante 90 días y, transcurrido ese
+tiempo, se borran.\0\0Puedes tener hasta 300 postales
+en el servidor. Si superas el límite,
+se irán borrando empezando por
+las más antiguas. Ten en cuenta
+que no podrás recibir las postales
+que se hayan borrado."
 "0402","Elige una fecha futura."
-"0501","No tengo dónde poner
-lo que me quiero quitar."
+"0501","No tienes dónde poner
+lo que te quieres quitar."
 "0502","¿Qué quieres guardar?
 ¡Ponte algo!"
-"0503","No llevas puesto nada
-que te puedas quitar."
+"0503","No es posible quitar nada."
 "0504","\0\0¡Ahora puedes usar muebles de
 almacenaje para crear y modificar
 conjuntos de varita!\0￿\0\0Elige la opción \0Conjuntos de varita\0￿
@@ -90,8 +112,8 @@ ahora mismo."
 "0601","No tienes millas suficientes."
 "0602","Solo los miembros del programa
 de \0millas Nook+\0￿ pueden solicitar
-este artículo. \0\0Debes tener una casa
-para optar a ese programa.\0￿"
+este artículo. \0\0Debes comprar una
+casa para optar a ese programa.\0￿"
 "0603","Solo es posible pedir 5 artículos
 al día cuya entrega se realiza
 \0por correo\0￿."
@@ -111,6 +133,49 @@ de la comunicación."
 no puede recibir más visitantes
 en este momento."
 "0803_a","Atrás"
+"0804","\0¡Piensa en los demás!\0￿ No compartas
+información personal ni contenidos
+ilegales, que infrinjan los derechos
+de terceros o que puedan molestar
+a otros usuarios.\0\0No hagas trampas ni te comportes
+de maneras que puedan molestar
+a otros jugadores. Las normas de
+uso de Nintendo rigen el contenido
+compartido y el comportamiento
+al jugar.\0\0Si se considerase que tus contenidos
+o tu comportamiento incumplen
+las normas de uso de Nintendo,
+se tomarían acciones que podrían
+incluir el borrado de contenidos
+del servidor o la restricción del
+acceso al juego en línea.\0\0Puedes pulsar \0\0￿ para denunciar
+comportamientos o contenidos
+inapropiados. Ten siempre en cuenta
+las normas de uso de Nintendo
+y ten consideración con los otros
+jugadores."
+"0804_a","Acepto"
+"0805","La sesión se ha interrumpido debido
+a que uno de los participantes ha
+dejado una ventana abierta o una
+conversación pendiente durante
+más tiempo del permitido.
+A continuación se van a cargar los
+datos de guardado más recientes."
+"0805_a","De acuerdo"
+"0806","La información del destino
+no ha podido mostrarse debido
+a un error de comunicación."
+"0806_a","Atrás"
+"0810","¿Quieres intentar conectarte
+a internet otra vez?"
+"0810_a","No"
+"0810_b","Sí"
+"0820","No se ha podido enviar el perfil.
+Si el error no se soluciona,
+hazte una foto de perfil nueva
+y vuelve a intentarlo."
+"0820_a","Vale"
 "0921","Solo es posible publicar un máximo
 de dos anuncios por visita."
 "0921_a","¡Vale!"
@@ -132,7 +197,7 @@ cambios que acabas de realizar.\0￿"
 "0953_b","Sí, lo dejo"
 "1001","¿Confirmas que tu cumple es
 el Z$촀 de Z#촀?"
-"1001_a","¡Espera, no!"
+"1001_a","Cambiar"
 "1001_b","¡Vale!"
 "1101","Buscando..."
 "1102","No se ha encontrado ningún artículo."
@@ -147,19 +212,16 @@ por \0Z\0\0￿?"
 "1105","Vas a encargar
 2\0\0}\0\0\0￿
 por \0Z\0\0￿.
-¿Adónde 2촀lola\0 quieres enviar?"
+¿Adónde 2촀lola\0 quieres enviar?"
 "1105_a","A mi casa"
 "1105_b","A otra casa"
 "1105_c","Cancelar"
 "1108","¡Se ha realizado el pedido!
 Lo recibirás en tu buzón muy pronto."
-"1108_a","Aceptar"
-"1109","El pedido para \0s\0촀\0￿
-se ha realizado correctamente."
-"1109_a","Aceptar"
+"1108_a","Vale"
 "1111","Los pedidos por catálogo están
 limitados a 5 por cliente y por día."
-"1111_a","Cerrar"
+"1111_a","Vale"
 "1112","Serán \0Z\0\0￿.
 ¿Quieres enviar este pedido?"
 "1112_a","No"
@@ -172,24 +234,73 @@ y cancelar tu pedido del artículo
 "1114","No es posible pedir este artículo
 porque no está a la venta."
 "1114_a","¡Vale!"
+"1115","¿Adónde va el envío?"
+"1115_a","A la isla"
+"1115_b","A otra isla"
+"1115_c","Atrás"
+"1116","No se ha podido realizar el envío.
+¿Quieres volver a intentarlo?"
+"1116_a","Cancelar"
+"1116_b","Reintentar"
+"1117","Estableciendo la conexión
+a internet..."
+"1118","Realizando el envío...
+\0\0No toques  mientras
+se guardan los datos.\0￿"
+"1119","Se va a realizar la devolución
+del importe de \0Z\0\0￿."
+"1119_a","Vale"
+"1120","Se ha realizado el envío
+a \0s\0촀\0￿."
+"1120_a","¡Vale!"
+"1121","No es posible realizar pedidos
+mientras hay visita en la isla."
+"1121_a","¡Vale!"
+"1122","No es posible realizar pedidos
+cuando estás de visita en la isla
+de otro jugador."
+"1122_a","¡Vale!"
+"1123","No es posible realizar pedidos
+mientras están abiertas las puertas
+del \0aeródromo\0￿."
+"1123_a","¡Vale!"
+"1124","No es posible realizar pedidos
+en este momento. Para hacerlo,
+ve al mostrador del \0aeródromo\0￿
+y desactiva las comunicaciones."
+"1124_a","¡Vale!"
 "1201","¿Seguro que quieres
 sobrescribir el diseño
-«s촀»?"
+\0s촀\0￿?"
 "1201_a","Mejor no"
 "1201_b","Sí, hazlo"
 "1202","¿Seguro que quieres borrar
-el diseño «s촀»
-de s\0촀?"
+el diseño \0s촀\0￿
+de \0s\0촀\0￿?"
 "1202_a","Mejor no"
 "1202_b","Sí, bórralo"
 "1203","Elige el diseño que quieras borrar."
 "1203_a","¡Vale!"
 "1204","¿Quieres borrar el diseño
-«s촀» que
-guardó s\0촀?"
+\0s촀\0￿ que
+guardó \0s\0촀\0￿?"
 "1204_a","Mejor no"
 "1204_b","Sí, bórralo"
-"1300","Se van a borrar los datos
+"1221","¿Seguro que quieres sobrescribir el
+diseño \0s촀\0￿?"
+"1221_a","Mejor no"
+"1221_b","Sobrescribir"
+"1222","¿Seguro que quieres sobrescribir el
+diseño creado por \0s\0촀\0￿,
+\0s촀\0￿?"
+"1222_a","Mejor no"
+"1222_b","Sobrescribir"
+"1224","¿Seguro que quieres sobrescribir el
+diseño que guardó \0s\0촀\0￿,
+\0s촀\0￿?"
+"1224_a","Mejor no"
+"1224_b","Sobrescribir"
+"1300","Se están borrando los datos
 de guardado. \0\0No toques .\0￿"
 "1308","La fecha de la consola
 se sale del rango permitido:
@@ -218,7 +329,7 @@ consola desde el menú HOME, revierte
 los ajustes de idioma y reinicia el juego."
 "1328","キャラクターの\0\0
 なまえ名前や
-ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが、
+ゲーム\0\0ない内の\0\0ひょうじ表示が\0\0か変わってしまいますが
 このまま\0\0はじ始めますか？
 
 Los nombres de los personajes y otros
@@ -317,7 +428,7 @@ según el idioma. ¿Quieres continuar?"
 "1338_a","Нет / No"
 "1338_b","Да / Sí"
 "1339","캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Los nombres de los personajes y otros
@@ -333,7 +444,7 @@ aspectos del juego pueden cambiar
 según el idioma. ¿Quieres continuar?"
 "1340_a","否 / No"
 "1340_b","是 / Sí"
-"1341","角色名稱或遊戲內的顯示將會改變，
+"1341","角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Los nombres de los personajes y otros
@@ -345,8 +456,7 @@ según el idioma. ¿Quieres continuar?"
 ホームHOMEメニューの　\0\0せってい設定で
 \0\0もと元の\0\0
 げんご言語に　\0\0もど戻してから
-ゲームを\0\0
-さいきどう再起動してください。
+ゲームを\0\0さいかい再開してください
 
 Accede a la configuración de la
 consola desde el menú HOME, revierte
@@ -434,14 +544,15 @@ los ajustes de idioma y reinicia el juego."
 Accede a la configuración de la
 consola desde el menú HOME, revierte
 los ajustes de idioma y reinicia el juego."
-"1355","請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+"1355","請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Accede a la configuración de la
 consola desde el menú HOME, revierte
 los ajustes de idioma y reinicia el juego."
 "1356","\0\0ぜんかい前回プレイ\0\0じ時と
-\0\0げんごせってい言語設定が\0\0こと異なるようです。
+\0\0げんごせってい言語設定が\0\0こと異なるようです
 
 Los ajustes de idioma han cambiado
 desde la última vez que jugaste."
@@ -515,7 +626,7 @@ Los ajustes de idioma han cambiado
 desde la última vez que jugaste."
 "1366_a","Далее / Siguiente"
 "1367","지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 Los ajustes de idioma han cambiado
 desde la última vez que jugaste."
@@ -525,11 +636,119 @@ desde la última vez que jugaste."
 Los ajustes de idioma han cambiado
 desde la última vez que jugaste."
 "1368_a","下一页 / Siguiente"
-"1370","語言設定似乎與上次遊玩時不同。
+"1370","語言設定似乎與上次遊玩時不同
 
 Los ajustes de idioma han cambiado
 desde la última vez que jugaste."
 "1370_a","下一頁 / Siguiente"
+"1372","Debido a la actualización del
+programa, se van a actualizar
+también los datos de guardado."
+"1372_a","Vale"
+"1373","Actualizando los datos de
+guardadon\0\0
+\0 \0\0No toques .\0￿"
+"1374","Los datos de guardado
+se han actualizado.
+El juego va a dar comienzo."
+"1374_a","Vale"
+"1401","Has enviado una solicitud
+a \0s\0촀\0￿ para añadiros
+mutuamente a la lista de mejores
+amigos."
+"1402","2\0\0s\0촀\0￿ y tú os habéis
+añadido mutuamente a la
+lista de mejores amigos."
+"1403","Has cancelado la solicitud
+que enviaste a \0s\0촀\0￿."
+"1404","Has rechazado la solicitud
+de \0s\0촀\0￿."
+"1405","Se ha retirado a \0s\0촀\0￿
+de tu lista de mejores amigos."
+"1405_a","¡Vale!"
+"1406","No es posible enviar la solicitud
+porque has alcanzado el máximo
+de mejores amigos permitido."
+"1406_a","¡Vale!"
+"1407","No es posible enviar la solicitud
+porque has alcanzado el máximo
+de solicitudes permitido."
+"1407_a","Atrás"
+"1408","No es posible enviar la solicitud
+porque la persona a quien quieres
+enviarla ha alcanzado su máximo
+de solicitudes permitido."
+"1408_a","Atrás"
+"1409","No os podéis convertir
+en mejores amigos porque
+has alcanzado el máximo
+de mejores amigos permitido."
+"1409_a","Atrás"
+"1410","No os podéis convertir
+en mejores amigos porque
+has alcanzado el máximo
+de solicitudes permitido."
+"1410_a","Atrás"
+"1411","Esta solicitud ha sido cancelada."
+"1411_a","Atrás"
+"1412","No es posible borrar a alguien de tu
+lista de mejores amigos cuando estás
+jugando con él o ella."
+"1412_a","Atrás"
+"1413","Este usuario ha hecho algún cambio.
+La lista se actualizará ahora."
+"1413_a","¡Vale!"
+"1414","¿Seguro que quieres borrar
+a este usuario de tu lista
+de mejores amigos?"
+"1414_a","Atrás"
+"1414_b","Borrar"
+"1430","No es posible usar esta función
+mientras la comunicación local
+está activa."
+"1430_a","Atrás"
+"1431","No es posible usar esta función
+durante una partida en grupo
+con otros residentes."
+"1431_a","Atrás"
+"1432","Para poder activar esta opción
+es necesario tener al menos
+un mejor amigo."
+"1432_a","Atrás"
+"1433","Para poder procesar la solicitud
+es necesario actualizar la lista.
+¿Quieres hacerlo ahora?"
+"1433_a","No, déjalo"
+"1433_b","Actualizar"
+"1450","Para usar esta función es necesaria
+una conexión a internet activa.
+¿Quieres conectarte a internet?"
+"1450_a","Ahora no..."
+"1450_b","Conectar"
+"1451","¿Quieres activar esta función
+de comunicación?"
+"1451_a","Mejor no..."
+"1451_b","Activar"
+"1452","¿Quieres desactivar esta función
+de comunicación?"
+"1452_a","Mejor no..."
+"1452_b","Desactivar"
+"1453","Pulsa \0\0￿ para activar la comunicación
+y el envío de mensajes."
+"1453_a","¡Vale!"
+"1454","En este momento no es posible
+enviar mensajes a \0s\0촀\0￿
+porque no está conectad2촀oa\0."
+"1454_a","Atrás"
+"1455","No es posible enviar mensajes
+cuando no hay jugadores
+conectados."
+"1455_a","Atrás"
+"1456","Se ha desactivado la comunicación
+inalámbrica porque se ha interrumpido
+la conexión. Actívala e inténtalo de
+nuevo."
+"1456_a","Atrás"
 "1501","¿Seguro que quieres
 descartar los cambios?"
 "1501_a","No, espera"
@@ -569,16 +788,50 @@ acceso rápido y desactívalo.\0d"
 "1701","Pero si la casa ya es asín"
 "1701_a","Atrás"
 "1801","No es posible enviarle correo
-a s\0촀 porque aún
+a \0s\0촀\0￿ porque aún
 no ha establecido su domicilio."
 "1801_a","Atrás"
+"1900","¿Quieres denunciar a
+\0s\0촀\0￿?"
+"1900_a","Cancelar"
+"1900_b","Denunciar"
+"1920","Se ha enviado la denuncia."
+"1920_a","Aceptar"
+"1921","No se ha podido enviar
+el informe de denuncia."
+"1921_a","Olvídalo"
+"1921_b","Reintentar"
+"1930","No es posible denunciar mientras
+la comunicación local está activa."
+"1930_a","Atrás"
+"1931","No es posible denunciar porque aún
+no te has conectado nunca a internet."
+"1931_a","Atrás"
+"1932","No es posible denunciar este
+anuncio."
+"1932_a","Atrás"
+"1933","No es posible denunciar esta postal."
+"1933_a","Atrás"
+"1936","No es posible denunciar este diseño."
+"1936_a","Atrás"
+"1938","No es posible denunciar
+tu propia cuenta."
+"1938_a","¡Vale!"
+"1940","El usuario que publicó este anuncio
+no juega en línea, pero es posible
+denunciar a \0s\0촀\0￿ por
+no haber quitado el anuncio."
+"1941","El usuario que creó este diseño
+no juega en línea, pero es posible
+denunciar a \0s\0촀\0￿ por
+haber dejado el diseño expuesto."
 "2001","No tienes bayas suficientes."
 "2001_a","¡Vale!"
 "2002","No tienes sitio en los bolsillos
-para guardar la compra."
+para completar la compra."
 "2002_a","¡Vale!"
 "2003","No tienes sitio en los bolsillos ni en
-el trastero para guardar la compra."
+el trastero para completar la compra."
 "2003_a","¡Vale!"
 "2004","¿Quieres realizar la compra?"
 "2004_a","No"
@@ -587,6 +840,43 @@ el trastero para guardar la compra."
 que has escogido?"
 "2005_a","No"
 "2005_b","Sí"
+"2101","¿Quieres conectarte a internet
+y descargar un diseño personalizado
+creado para los juegos
+de Nintendo 3DS?"
+"2101_a","Atrás"
+"2101_b","Descargar"
+"2102","Se ha encontrado un diseño
+personalizado llamado
+\0s촀\0￿.
+Elige donde guardarlo."
+"2102_a","Atrás"
+"2102_b","¡Sí!"
+"2103","Se ha encontrado un diseño
+profesional llamado
+\0s촀\0￿.
+Elige donde guardarlo."
+"2103_a","Atrás"
+"2103_b","¡Sí!"
+"2110","No se ha encontrado ningún diseño
+personalizado creado para los
+juegos de Nintendo 3DS.
+
+Accede a \0NookLink \0￿desde la
+aplicación Nintendo Switch Online
+para escanear el código QR."
+"2120","Has desbloqueado la pestaña
+de diseños profesionales."
+"2140","\0Diseños profesionales\0￿
+Con los diseños profesionales
+podrás crear diseños mucho
+más detallados.\0\0Es necesario actualizar la aplicación
+\0Mis diseños\0￿ para crear o editar
+diseños profesionales.\0\0\0\0Es posible llevar diseños
+profesionales aunque no hayas
+actualizado la aplicación.\0￿\0\0Puedes actualizar la aplicación
+desde la \0terminal Nook\0￿ de la \0oficina
+de gestión\0￿ a cambio de millas Nook."
 "2201","No tienes saldo."
 "2202","No es posible ingresar más bayas."
 "2203","No puedes llevar más bayas encima."
@@ -596,6 +886,96 @@ cuenta bancaria se perderá.
 ¿Quieres continuar de todos modos?"
 "2301_a","No"
 "2301_b","Sí"
+"2401","La información de tu perfil incluye
+contenido que incumple las normas
+de uso de Nintendo. Revisa la foto
+y el comentario de tu pasaporte
+y corrígelos para que no incomoden
+a los jugadores que puedan verlos."
+"2401_a","Aceptar"
+"2421","\0\0Antes de compartir tus diseños:\0￿
+Ten en cuenta que otros jugadores
+de todo el mundo podrán verlos.\0\0No compartas diseños con
+contenido ilegal o que pueda
+incomodar a otros jugadores.\0\0Es posible que los diseños
+compartidos se borren del
+servidor si se los considera
+inapropiados o si incumplen
+las normas de uso de Nintendo."
+"2421_a","Aceptar"
+"2422","Tu diseño se ha publicado con
+el ID \0촀\0￿.
+¿Quieres compartir esta información
+en tus redes sociales?"
+"2422_a","No"
+"2422_b","Sí"
+"2423","No se ha podido publicar tu diseño.
+¿Quieres volver a intentarlo?"
+"2423_a","No"
+"2423_b","Sí"
+"2424","¿Has terminado de usar el portal?"
+"2424_a","No"
+"2424_b","Sí"
+"2425","¡Gracias por empezar a usar
+este servicio!\0\0Te has registrado como cread2orora.
+Tu ID de creador es
+\0촀\0￿.\0\0Puedes consultar tu ID de creador
+en cualquier momento abriendo la
+aplicación Pasaporte del \0Nookófono\0￿."
+"2425_a","Entendido"
+"2427","¿Quieres publicar otro diseño?"
+"2427_a","Volver al menú"
+"2427_b","Publicar"
+"2428","Has alcanzado el límite de diseños
+personalizados que puedes publicar.
+Elige uno para borrarlo."
+"2428_a","Entendido"
+"2429","No has creado ningún diseño
+personalizado. Podrás usar este
+servicio cuando hayas creado uno."
+"2429_a","Entendido"
+"2430","Ya has publicado este diseño.
+\0\0Podrás volver a publicarlo si lo
+modificas.\0￿"
+"2430_a","Atrás"
+"2431","Buscando diseños personalizados..."
+"2432","Has introducido tu ID de creador.
+¿Quieres ver tus propios diseños,
+\0n\0\0￿?"
+"2432_a","Atrás"
+"2432_b","Sí"
+"2433","No hay ningún diseño asociado
+al ID \0촀\0￿.
+¿Quieres cambiar el ID?"
+"2433_a","Volver al menú"
+"2433_b","Cambiar"
+"2434","No hay diseños asociados al ID de
+creador \0촀\0￿.
+¿Quieres cambiar el ID?"
+"2434_a","Volver al menú"
+"2434_b","Cambiar"
+"2435","Se ha borrado el diseño."
+"2436","Elige el diseño que quieres publicar."
+"2437","¿Seguro que quieres borrar el diseño
+\0s촀\0￿?"
+"2437_a","Mejor no"
+"2437_b","Sí, bórralo"
+"2438","No hay diseños tuyos publicados."
+"2438_a","Atrás"
+"2439","Se va a abrir la aplicación
+\0Mis diseños\0￿. Elige dónde
+quieres guardar el diseño."
+"2440","Has introducido el ID de uno
+de tus diseños. ¿Quieres ver
+tu propio diseño, \0n\0\0￿?"
+"2440_a","Atrás"
+"2440_b","Sí"
+"2441","Se ha producido un error.
+No se ha podido compartir
+el diseño en redes sociales."
+"2501","Ya le has enviado a este usuario
+el máximo de 2 postales diarias
+a través de internet."
 "3001","Un cupón que puedes \0vender\0￿
 en la tienda por \03000 bayas\0￿.
 \0\0Se entregará de inmediato.\0￿"
@@ -611,16 +991,17 @@ Nookófono de inmediato.\0￿"
 para acceder a tus herramientas.
 \0\0Recibirás las instrucciones
 de inmediato.\0￿"
-"3005","Cambia de look en un \0espejo
-\0￿o un \0tocador \0￿con estos
-peinados modernos.
+"3005","Usa un \0espejo \0￿o un \0tocador\0￿
+y disfruta de un cambio de imagen
+con estos peinados modernos.
 \0\0Se imprimirá de inmediato.\0￿"
-"3006","Cambia de look en un \0espejo \0￿o
-un \0tocador \0￿con estos peinados pop.
+"3006","Usa un \0espejo \0￿o un \0tocador\0￿
+y disfruta de un cambio de imagen
+con estos peinados pop.
 \0\0Se imprimirá de inmediato.\0￿"
-"3007","Cambia de look en un \0espejo
-\0￿o un \0tocador \0￿con nuevos
-tintes para el pelo.
+"3007","Usa un \0espejo \0￿o un \0tocador\0￿
+y disfruta de un cambio de imagen
+con nuevos tintes para el pelo.
 \0\0Se imprimirá de inmediato.\0￿"
 "3008","Aprende a organizar tus bolsillos
 para poder llevar más cosas.
@@ -651,7 +1032,7 @@ un \0permiso de elevaciones\0￿ para
 modificar la altitud del terreno.
 \0\0La actualización será inmediata.\0￿"
 "3016","Añade a la aplicación \0Obras públicas\0￿
-un \0permiso de obras fluviales\0￿ para 
+un \0permiso de obras fluviales\0￿ para
 crear o quitar masas de agua.
 \0\0La actualización será inmediata.\0￿"
 "3017","Añade al \0permiso de caminos\0￿
@@ -731,9 +1112,10 @@ Gracias por actualizar a la versión
 ・Crear diseños profesionales\0\0Esperamos que disfrutes creando
 diseños profesionales con los que
 distinguirte y expresarte."
-"5053","\0\0Diseños con el símbolo 
-\0￿Los diseños que no has creado
-personalmente llevan el símbolo \0\0\0￿.\0\0Esos diseños no se pueden editar.
+"5053","\0\0Diseños con el símbolo \0￿
+Los diseños que no has creado
+personalmente llevan \0\0el símbolo \0￿.\0\0Los diseños marcados con el
+símbolo \0\0\0￿ no se pueden editar.
 Si quieres usar el espacio que
 ocupan, tendrás que borrarlos."
 "5061","\0Mapa\0￿
@@ -757,6 +1139,24 @@ en la isla? En caso de emergencia,
 como la \0oficina de gestión vecinal
 \0￿o tu propio hogar. \0\0Nota: El uso de
 este servicio cuesta millas Nook.\0￿"
+"5101","\0Mejores amigos\0￿
+Esta aplicación te permite ver una
+lista de amigos y mejores amigos
+con quienes has jugado.\0\0Si otro jugador y tú os hacéis
+mejores amigos, podrás ver
+cuándo está jugando en línea.\0\0Cuando ambos estéis conectados a
+internet, os podréis enviar mensajes.\0\0\0\0Si no quieres recibir mensajes o que
+otros jugadores vean cuándo estás
+conectad2oa, pulsa  para desactivar
+o volver a activar esta función.\0￿"
+"5102","Ahora es posible usar NookLink para
+escanear códigos QR de diseños
+creados en juegos de Nintendo 3DS
+y transferirlos al juego.
+\0\0Para obtener más información,
+accede a NookLink desde los
+servicios específicos para juegos en
+la aplicación Nintendo Switch Online.\0￿"
 "5111","\0Obras públicas\0￿
 Esta aplicación te permite desarrollar
 la isla a tu gusto mediante el diseño
@@ -776,6 +1176,16 @@ y crea la isla de tus sueños!"
 cuando y donde quieras con esta
 aplicación.\0\0Compra a tu ritmo y con total
 tranquilidad."
+"5122","\0Historial del chat\0￿
+Con esta aplicación podrás volver
+a leer conversaciones que hayas
+tenido con otros jugadores.
+Quizá no tuviste tiempo de leer algo
+que dijo otro jugador mientras
+jugábais juntos...\0\0O simplemente te apetece volver
+a leer lo que te escribió un mejor
+amigo al que no ves a menudo.\0\0Sea cual sea el motivo, esta
+aplicación te será de gran utilidad."
 "5201_00_01","\0\0Partidas en grupo\0￿
 En este modo de juego, una persona
 será el \0líder\0￿ y el resto, \0acompañantes\0￿
@@ -794,40 +1204,44 @@ la aplicación \0Llamada local\0￿.\0\0\0Jugando como acompañante
 Los acompañantes no pueden usar
 el Nookófono, acceder a los bolsillos
 ni charlar. Pueden ayudar al líder,
-mover objetos y usar herramientas.\0\0Los objetos que los acompañantes
+mover objetos y usar herramientas.\0\0
+Los objetos que los acompañantes
 consigan con sus herramientas
 se guardarán en el \0depósito de
 reciclaje\0￿ de la \0oficina de gestión
 vecinal\0￿.
-
 "
 "5201_00_02","\0\0Controles del Joy-Con en horizontal\0￿
 \0Líder\0￿
 \0\0￿ Usar Nookófono
-\0\0￿ Mover vista / Cambiar herramienta
-
+\0\0￿ Mover vista / Elegir herramienta
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas"
+\0\0￿ Elegir herramienta"
 "5201_00_03","\0\0Controles del Joy-Con en horizontal\0￿
 \0Líder\0￿
 \0\0￿ Usar Nookófono / \0 \0￿Emociones
-\0\0￿ Mover vista / Cambiar herramienta
+\0\0￿ Mover vista / Elegir herramienta
+
+
+
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas
-\0 \0￿Emociones / \0\0￿ Repetir emoción"
+\0\0￿ Elegir herramienta / \0 \0￿Recoger
+\0 \0￿Emociones
+\0\0￿ Repetir emoción (si se conoce)
+"
 "5201_00_04","\0\0Controles\0￿
 \0Líder\0￿
 Como en las partidas normales
 
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas"
+\0\0￿ Elegir herramienta"
 "5201_00_05","\0\0Controles\0￿
 \0Líder\0￿
 Como en las partidas normales
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas
+\0\0￿ Elegir herramienta / \0 \0￿Recoger
 \0 \0￿Emociones
-\0\0￿ Repetir emoción anterior"
+\0\0￿ Repetir emoción (si se conoce)"
 "5201_01","\0\0Partidas en grupo\0￿
 En este modo de juego, una persona
 será el \0líder\0￿ y el resto, \0acompañantes\0￿
@@ -846,20 +1260,19 @@ la aplicación \0Llamada local\0￿.\0\0\0Jugando como acompañante
 Los acompañantes no pueden usar
 el Nookófono, acceder a los bolsillos
 ni charlar. Pueden ayudar al líder,
-mover objetos y usar herramientas.\0\0Los objetos que los acompañantes
+mover objetos y usar herramientas.\0\0
+Los objetos que los acompañantes
 consigan con sus herramientas
 se guardarán en el \0depósito de
 reciclaje\0￿ de la \0oficina de gestión
 vecinal\0￿.
 
-
 \0\0Controles del Joy-Con en horizontal\0￿
 \0Líder\0￿
 \0\0￿ Usar Nookófono
-\0\0￿ Mover vista / Cambiar herramienta
-
+\0\0￿ Mover vista / Elegir herramienta
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas"
+\0\0￿ Elegir herramienta"
 "5201_02","\0\0Partidas en grupo\0￿
 En este modo de juego, una persona
 será el \0líder\0￿ y el resto, \0acompañantes\0￿
@@ -878,20 +1291,25 @@ la aplicación \0Llamada local\0￿.\0\0\0Jugando como acompañante
 Los acompañantes no pueden usar
 el Nookófono, acceder a los bolsillos
 ni charlar. Pueden ayudar al líder,
-mover objetos y usar herramientas.\0\0Los objetos que los acompañantes
+mover objetos y usar herramientas.\0\0
+Los objetos que los acompañantes
 consigan con sus herramientas
 se guardarán en el \0depósito de
 reciclaje\0￿ de la \0oficina de gestión
 vecinal\0￿.
 
-
 \0\0Controles del Joy-Con en horizontal\0￿
 \0Líder\0￿
 \0\0￿ Usar Nookófono / \0 \0￿Emociones
-\0\0￿ Mover vista / Cambiar herramienta
+\0\0￿ Mover vista / Elegir herramienta
+
+
+
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas
-\0 \0￿Emociones / \0\0￿ Repetir emoción"
+\0\0￿ Elegir herramienta / \0 \0￿Recoger
+\0 \0￿Emociones
+\0\0￿ Repetir emoción (si se conoce)
+"
 "5201_03","\0\0Partidas en grupo\0￿
 En este modo de juego, una persona
 será el \0líder\0￿ y el resto, \0acompañantes\0￿
@@ -910,19 +1328,19 @@ la aplicación \0Llamada local\0￿.\0\0\0Jugando como acompañante
 Los acompañantes no pueden usar
 el Nookófono, acceder a los bolsillos
 ni charlar. Pueden ayudar al líder,
-mover objetos y usar herramientas.\0\0Los objetos que los acompañantes
+mover objetos y usar herramientas.\0\0
+Los objetos que los acompañantes
 consigan con sus herramientas
 se guardarán en el \0depósito de
 reciclaje\0￿ de la \0oficina de gestión
 vecinal\0￿.
-
 
 \0\0Controles\0￿
 \0Líder\0￿
 Como en las partidas normales
 
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas"
+\0\0￿ Elegir herramienta"
 "5201_04","\0\0Partidas en grupo\0￿
 En este modo de juego, una persona
 será el \0líder\0￿ y el resto, \0acompañantes\0￿
@@ -941,20 +1359,20 @@ la aplicación \0Llamada local\0￿.\0\0\0Jugando como acompañante
 Los acompañantes no pueden usar
 el Nookófono, acceder a los bolsillos
 ni charlar. Pueden ayudar al líder,
-mover objetos y usar herramientas.\0\0Los objetos que los acompañantes
+mover objetos y usar herramientas.\0\0
+Los objetos que los acompañantes
 consigan con sus herramientas
 se guardarán en el \0depósito de
 reciclaje\0￿ de la \0oficina de gestión
 vecinal\0￿.
 
-
 \0\0Controles\0￿
 \0Líder\0￿
 Como en las partidas normales
 \0Acompañantes\0￿
-\0\0￿ Cambiar herramientas
+\0\0￿ Elegir herramienta / \0 \0￿Recoger
 \0 \0￿Emociones
-\0\0￿ Repetir emoción anterior"
+\0\0￿ Repetir emoción (si se conoce)"
 "5202","¡Felicidades por haber construido
 tu nuevo hogar! Aquí tienes unos
 cuantos trucos para hacerte
@@ -970,6 +1388,39 @@ guardar o sacar objetos.\0\0Cuando estés en casa, abre
 los bolsillos y elige qué muebles
 u objetos quieres guardar en
 el trastero."
+"5203","¡Comunícate con otros jugadores
+mediante mensajes de \0chat\0￿!\0\0Pulsa \0 \0￿para enviar mensajes a los
+usuarios con quienes estés jugando.\0\0Puedes volver a leer mensajes en
+la aplicación \0Historial del chat\0￿ de
+tu \0Nookófono\0￿."
+"5301","En las \0partidas en grupo\0￿ no se
+reflejarán de inmediato los cambios
+efectuados a diseños en uso.
+Para utilizar el nuevo diseño,
+es necesario aplicarlo de nuevo
+mediante la opción \0Equipar\0￿."
+"5302","Se ha sobrescrito un diseño
+que está en uso. Para utilizar
+el nuevo diseño, es necesario
+aplicarlo de nuevo mediante
+la opción \0Equipar\0￿."
+"5303","Este conjunto de varita utiliza un
+diseño personalizado. El conjunto
+no cambiará aunque modifiques
+o sobrescribas el diseño.\0\0Sin embargo, si cambias el diseño,
+y luego modificas el conjunto o lo
+guardas en el trastero, el diseño
+antiguo se perderá."
+"5304","El diseño personalizado incluido
+en el conjunto no se guardará. 
+¿Quieres continuar?"
+"5304_a","No, espera"
+"5304_b","Sí, adelante"
+"5305","\0\0Funda de móvil personalizable\0￿
+Te permite cambiar el aspecto
+de tu teléfono móvil.\0\0Nota: La funda no cambiará aunque
+modifiques el diseño personalizado
+que usaste al crearla."
 "8001","\0Esta consola contiene datos
 de residente de n\0
 que no están vinculados con
@@ -982,7 +1433,7 @@ un residente nuevo desde cero?\0￿"
 "8001_b","De cero"
 "8002","En ese caso, te damos la bienvenida
 al Plan de Asentamiento en Islas
-Desiertas de Nook Inc."
+Desiertas de \0Nook Inc.\0￿"
 "8003","Solo existen datos de \0un residente\0￿
 que no estén vinculados a ningún
 perfil de usuario."
@@ -995,13 +1446,12 @@ estos residentes quieres jugar?"
 "8005","¿Quieres volver a comenzar de cero
 el proceso de selección de datos
 o prefieres salir del juego?"
-"8005_a","Salir"
+"8005_a","Salir del juego"
 "8005_b","Recomenzar"
 "8006","Vuelve al menú HOME
 y cierra el juego."
 "8007","¿Quieres jugar como
-26
-촀el insulanola insulana\0 \0s\0촀\0￿?"
+26촀el insulanola insulana\0 \0s\0촀\0￿?"
 "8007_a","No, espera"
 "8007_b","Sí, venga"
 "8008","Vas a comenzar la partida como
@@ -1036,8 +1486,23 @@ Si quieres borrar los datos de otro
 residente de n\0,
 inicia el juego con su cuenta
 de usuario correspondiente.\0\0A continuación, pulsa  en
-la pantalla del título y borra
-sus datos de guardado."
+la pantalla del título para acceder
+a los ajustes y borra sus datos de
+guardado."
 "8013","Para cerrar esta ventana,
 vuelve al menú HOME
 y cierra el juego."
+"8014","Este usuario estaba asociado a una
+cuenta Nintendo distinta a la actual.\0\0Si vuelves a jugar, se reiniciará
+cualquier función que utilice internet,
+como la lista de mejores amigos.\0\0¿Seguro que quieres volver
+a jugar como \0s\0촀\0￿?"
+"8014_a","No, espera"
+"8014_b","Sí, venga"
+"8015","Este usuario no está asociado
+a ninguna cuenta Nintendo.\0\0Si vuelves a jugar, se reiniciará
+cualquier función que utilice internet,
+como la lista de mejores amigos.\0\0¿Seguro que quieres volver
+a jugar como \0s\0촀\0￿?"
+"8015_a","No, espera"
+"8015_b","Sí, venga"

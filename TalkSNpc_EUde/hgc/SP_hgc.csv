@@ -206,12 +206,9 @@ gewechselt hast.
 so weit bist."
 "037","Oh, 
 \0n\0!
-\0 Du trägst ja
-gerade ein Stab-Outfit, 
+\0 Du trägst ja gerade ein Stab-Outfit, 
 \0oder?
-\0(6촀\0 Mir
-machst du nichts vor.
-()촀\0Schlüpf wieder in ein normales Outfit
+\0(6촀\0 Mir machst du nichts vor.\0\0()촀\0Schlüpf wieder in ein normales Outfit
 \0
 und sei wieder ganz 2derdie Alte,
 \0 damit
@@ -312,7 +309,7 @@ mir eine große Hilfe. 
 \0Vielen Dank!"
 "048","(""촀\02\02\0}\0! 
 \0Ich hoffe, 
-\02촀ersiees gefällt dir. 
+\02촀ersiees gefällt dir. 
 \0(촀\0Das ist ein Design aus meinem Fashion-Label.\0\0(7촀\0Mein Label ist brandneu 
 \0und daher
 auch noch nicht wirklich bekannt.
@@ -391,7 +388,7 @@ deine Hilfe! 
 auf unser nächstes Wiedersehen."
 "068","($촀\02\02\0\0}\0\0￿, 
 \0aus meinem Fashion-Label \0Samthea\0￿. 
-\0(촀\02촀DenDieDas hast du dir verdient!"
+\0(촀\02촀DenDieDas hast du dir verdient!"
 "100","Ich weiß deine Unterstützung
 sehr zu schätzen. 
 \0(%촀\0Ich hoffe,
@@ -532,6 +529,44 @@ Modedesigns."
 "152","()촀\0Ich reise auf der Suche nach
 Inspiration für neue Modedesigns
 ziemlich viel herum.\0\0Heute ist n\0 an der Reihe undn\0\0 (촀\0von den Leuten hier kann ich noch so einiges lernen."
+"160","($촀\0Oh, 
+\0du hast dich umgezogenn\0\0
+\0
+(촀\0Und du trägst ein eigenes Design!\0\0(촀\0Es tut mir leid, 
+\0aber ich will mir kein
+Urteil über dein Outfit erlauben, 
+\0so-
+lange du ein eigenes Design trägst.
+(&촀\0Könntest du dich noch einmal
+umziehen?
+\0( (촀\0Du würdest mir sehr
+damit helfen."
+"161","(촀\0Ich sehe, 
+\0du hast dich für mich in
+Schale geworfen.
+\0( (촀\0Oje!
+\0 Aber du
+trägst ein eigenes Design.
+(촀\0Tut mir leid, 
+\0aber in diesem Fall kann
+ich dein Outfit nicht beurteilen.\0\0($촀\0Wenn du mir noch mal ein Outfit
+ohne eigenes Design präsentieren
+könntestn\0\0
+\0 nun ja, 
+\0(촀\0das wäre schick!"
+"164","(&촀\0Darf ich mir dein Outfit jetzt
+ansehen?"
+"164_a","(%촀\0Ja, klar!"
+"164_b","('촀\0Nein, noch nicht..."
+"165","(&촀\0Könnte ich dein Outfit jetzt
+begutachten?"
+"165_a","(%촀\0Ja, sicher!"
+"165_b","('촀\0Lieber noch nicht."
+"166","(&촀\0Ist es in Ordnung, 
+\0wenn ich jetzt
+einen Blick auf dein Outfit werfe?"
+"166_a","(%촀\0Geht klar!"
+"166_b","('촀\0Ich brauch noch Zeit."
 "200","(\0촀\0Ich möchte gern, 
 \0dass du mir ein
 komplettes \0Outfit \0￿mit \0Partykleidung

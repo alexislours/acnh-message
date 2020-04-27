@@ -7,6 +7,14 @@ tú y yo si fuésemos vecin2oas, tí2oa.
 \0(촀\0Voy a
 preguntar en la \0oficina de gestión
 vecinal\0￿, a ver si tienen sitio para mí."
+"003","(
+촀\0A ver, aunque ya te había dicho
+que no, ¿me vuelves a invitar?\0\0(촀\0Jolín, ¡sí que tienes ganas de
+tenerme de vecina, coleguilla!\0\0(촀\0Bueno, pues venga, me animo.
+\0
+Hablaré con la \0oficina de gestión
+vecinal\0￿ y 
+\0(촀\0a ver qué me cuentan."
 "101","<"
 "101_01","(촀\0A vern\0\0
 \0 ¿va en serio? 
@@ -154,18 +162,10 @@ ganado, chat2oa!\0\0(촀\0Que no se diga que no soy alguien
 de palabra. 
 \0(5촀\0¡Dentro de nada me
 tendrás viviendo en la isla!
-(3촀\0Luego no te vengas quejando,
-¿eh, n\0?\0\0(
-촀\0Mira, solo por refrescar la memoria:
-\0
-yo soy n
-\0 y tún\0\0
-\0(&촀\0 eras n\0, ¿no?(%촁\0
-\0\0\0Vale, (2촀\0¡ya no (\0촁\0se me olvida ni de palo!
-\0
-En fin, eso. 
-\0(!촀\0¡Que nos vemos pronto,
-futur2oa vecin2oa!"
+(3촀\0Pero primero tengo que preguntar
+a los de la \0oficina de gestión\0￿ si
+dejan que me mude.
+(%촀\0¡Ahora te cuento, n\0!"
 "206_02","(
 촀\0Pueees ganas tú, maj2oa. 
 \0Supongo
@@ -179,15 +179,9 @@ un chungo si perdieses, tú.
 tener unas buenas dosis diarias
 de n
 \0!
-(2촀\0Oyen\0\0
-\0 antes de que me marche, solo
-por la duda: eras 
-\0n\0, ¿verdad?(%촁\0
-\0\0\0(3촀\0Vale, menos mal(\0촁\0 que lo había pillado
-bien. 
-\0En fin, (!촀\0nos vemos prontísimo,
-\0
-¡vecin2oa!"
+(%촀\0Ahora iré a hablar con los de
+la \0oficina de gestión\0￿ para que
+que me aprueben el tinglado."
 "206_03","(
 촀\0Si has ganado quiere decir quen\0\0
 \0
@@ -195,17 +189,9 @@ bien. 
 \0
 Buf, (촀\0¡la de planes que tengo
 para cuando llegue a la isla!
-(촀\0¡Ve preparando el esqueleto,
-n\0!
-\0 (
-촀\0Porquen\0\0
-\0 te llamas así, ¿no?(%촁\0
-\0\0\0(2촀\0Vale, menos(\0촁\0 mal, tú. 
-\0Pues yo soy
-(5촀\0n
-\0, que no se te olvide.\0\0(5촀\0Aunque cuando empieces a verme
-a diario, seguro que se te queda
-bien grabado, n\0."
+(3촀\0Ahora mismo voy a hablar con
+los de la \0oficina de gestión\0￿ y a
+pedirles permiso."
 "302","(%촀\0A ver, he conseguido hablar con
 la \0oficina de gestión vecinal\0￿ yn\0\0
 \0
@@ -288,38 +274,19 @@ rollo?"
 cuando no salen como queremos.\0\0(5촀\0¡Me conformo con que te lleves
 un buen recuerdo de mí, chat2oa!\0\0(3촀\0\0(Como si fuera posible no
 llevárselo, n\0n\0\0)\0￿"
-"402","(촀\0¡Qué movida, tronc2oa! 
-\0He hablado con
-la \0oficina de gestión vecinal\0￿ yn\0\0
-\0 no
-te lo vas a creer.
-(촀\0¡Me han dicho que ya vivo aquí!
+"313","(%촀\0A ver, los de la \0oficina de gestión\0￿
+\0vecinal\0￿ me chivaron que igual
+s촀 se quiere mudar.
+(3촀\0¿Qué me dices? 
+\0¿Intento darle
+la tabarra a ver si se pira?"
+"313_a","¡Claro!"
+"313_b","Será mejor que no"
+"314","(촀\0¿No crees que sea buena idea?
 \0
-Les dije que no como veinte veces,
-pero nada, no hubo manera.
-(촀\0La única explicación que se me
-ocurre es que tengas una vecina
-idéntica a mí, chat2oan\0\0
-En fin, (촀\0que mi plan maestro de
-mudarme aquí va a tener que
-esperar.
-(2촀\0¡Fue bonito mientras duró, n\0!"
-"403","(%촀\0Estoy flipando en colores, tú. 
-\0Resulta
-que he conseguido hablar con los de
-la \0oficina de gestión vecinal\0￿n\0\0
-(촀\0¿Y no van y me dicen que ya va a
-mudarse una tía que tiene la misma
-cara que yo? 
-\0¿Cómo te quedas?
-('촀\0No sé si será cierto o una excusa
-para no tener mi careto por aquí,
-peron\0\0
-\0(촀\0 no vamos a ser vecin2oas.
-(5촀\0En fin, ¡tenemos que volver a probar
-suerte en el futuro! 
-\0Algún día lo
-conseguiremos, n\0."
+Pues nada, cancelamos el plan
+y tan content2oas.
+(5촀\0¡Otra vez será, n\0!"
 "404","A ver, (촀\0me dicen de la \0oficina de
 gestión vecinal\0￿ que aquí ya no
 cabe ni un alfiler, chat2oa.
@@ -331,18 +298,6 @@ el sitio más cotizado del mundo
 mundial?
 (5촀\0En fin, espero poder descubrirlo
 por mí misma algún día."
-"405","(%촀\0Pues nada, ya he hablado con los de
-la \0oficina de gestión vecinal\0￿ y 
-\0(촀\0vamos
-a tener que dejar el tema por ahora.
-('촀\0Al parecer no hay ningún sitio
-disponible donde pueda montar
-el chiringuito, así que nadan\0\0
-(!촀\0¡Tú no pierdas la esperanza! 
-\0(5촀\0Cuando
-me empeño en algo, lo consigo.
-\0
-¡Tarde lo que tarde, n\0!"
 "406","(2촀\0Pueees resulta que he hablado
 con la \0oficina de gestión vecinal\0￿ yn\0\0
 \0
@@ -376,25 +331,6 @@ ha habido algún cambio, tú?"
 por ahora.
 (3촀\0¡Pero no prometo nada de cara
 al futuro, n\0!"
-"421","(촀\0¿No te parece chunguísimo que
-haya alguien por ahí con un careto
-justo igualito que el mío?
-(
-촀\0Eso quiere decirn\0\0
-\0(촀\0 ¡¿que mi careto
-es igualito que el suyo?! 
-\0¡Pero qué
-mal rollo, n\0!"
-"422","(
-촀\0Me he quedado rayadísima con
-el tema, tú. 
-\0¿Cómo que alguien
-con la misma pinta que yo?
-(촀\0¡Pero si nadie tiene la misma energía
-y chispa que yo! 
-\0¡Esto no puede ser!\0\0(5촀\0En fin, chat2oa. ¡Algún día seremos
-vecin2oas y te darás cuenta de que
-tengo razón, n\0!"
 "423","(촀\0Se ve que no soy la única que se
 ha flipado con lo de mudarse a
 n	\0n\0\0
@@ -405,15 +341,6 @@ días, tú.
 Bueno, (2촀\0a ver si cuando se pase
 esta popularidad tan loca tengo
 algo más de suerte, n\0."
-"424","(
-촀\0Qué curioso que no quede ni
-un rinconcito donde edificar en
-la isla.
-(3촀\0¡Hay tanto verde y tanto sitio para
-desfasar que cualquiera lo diría!\0\0En fin, (촀\0siempre podemos ser vecin2oas
-imaginari2oas.
-\0 ¡Tiene su encanto,
-n\0!"
 "504","(
 촀\0Mira, vengo de una isla apañadísima,
 maj2oa.

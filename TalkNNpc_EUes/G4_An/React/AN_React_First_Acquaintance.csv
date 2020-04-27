@@ -18,17 +18,18 @@ la mudanza, n\0.
 "001_02","(촀\0¡Aquí me tienes, n\0!\0\0(3촀\0Se nota que me dejo liar fácilmente
 y que no cuesta mucho convencerme,
 ¿a que sí?
-(5촀\0En fin, a partir de hoy ya es oficial:
-\0
-¡soy una vecina más de la flipante
+(5촀\0Total, que a partir de hoy es oficial:
+\0
+¡ya soy una vecina más de la flipante
 n\0!
 (&촀\0¿Tú sabes si me van a dar un llavero
 o una camiseta conmemorativa?\0\0(촀\0En fin, el caso es que vengo más que
 dispuesta a partir la pana.
 \0 ¡Espero
 que la peña esté preparada!(\0촀\0
-Cuando termine de mudarme,
-(!촀\0¡espero que podamos ir por ahí
+Cuando termine de mudarme,
+\0
+(!촀\0¡nos tenemos que ir por ahí
 junt2oas en busca de aventuras!"
 "001_03","(3촀\0¿Pensabas que no te iba a hacer
 caso? 
@@ -252,13 +253,14 @@ y que no cuesta mucho convencerme,
 ¡soy una vecina más de la flipante
 n\0!
 (&촀\0¿Tú sabes si me van a dar un llavero
-o una camiseta conmemorativa?\0\0(촀\0En fin, el caso es que vengo más que
+o una camiseta conmemorativa?\0\0(촀\0En cualquier caso,
+\0 vengo más que
 dispuesta a partir la pana.
 \0 ¡Espero
-que la peña esté preparada!(\0촀\0
-Cuando termine de mudarme,
-(!촀\0¡espero que podamos ir por ahí
-junt2oas en busca de aventuras!"
+que la peña esté preparada!
+(\0촀\0Cuando termine de mudarme,
+(!촀\0¡tenemos que irnos por ahí junt2oas
+en busca de aventuras!"
 "101_03","(3촀\0¿Pensabas que no te iba a hacer
 caso? 
 \0¡Pues aquí me tienes,
@@ -357,10 +359,10 @@ y que no cuesta mucho convencerme,
 ¡soy una vecina más de la flipante
 n\0!
 (&촀\0¿Tú sabes si me van a dar un llavero
-o una camiseta conmemorativa?\0\0(촀\0En fin, el caso es que vengo más que
+o una camiseta conmemorativa?\0\0(촀\0El caso es que vengo pero que muy
 dispuesta a partir la pana.
-\0 ¡Espero
-que la peña esté preparada!(\0촀\0
+\0 ¡Más le
+vale a la peña estar preparada!(\0촀\0
 Cuando termine de mudarme,
 (!촀\0¡espero que podamos ir por ahí
 junt2oas en busca de aventuras!"
@@ -855,15 +857,14 @@ Tiene que ser cosa del destino.
 (!촀\0¡Estamos destinad2oas a vivir
 aventuras locas en compañía,
 n\0!"
-"412_03","(촀\0¡Eres tú, n\0!\0\0(2촀\0Desde que hablamos aquella vez
-en s촀 me quedé
-con ganas de conocerte mejor.
-(5촀\0¡Y parece que al fin va a ser posible!
+"412_03","(촀\0¡Eres tú, n\0!
+\0 (2촀\0La última vez que hablamos me quedé con ganas de conocerte mejor.\0\0(5촀\0¡Y parece que al fin va a ser posible!
 Me he mudado a n\0,
-\0 ¡así que podremos quedar más!\0\0(3촀\0Si te apetece ir de juerga, hacer
+\0 ¡así que podremos quedar más!\0\0(3촀\0Si te apetece ir de juerga,
+\0 hacer
 senderismo o practicar esgriman\0\0
 \0
-(촀\0¡tú dame un toque y seré toda tuya!"
+(촀\0¡dame un toque y seré toda tuya!"
 "414","(""촀\0¡Cuánto tiempo, n\0!
 ¿Cómo va eso?
 \0(+촀\0 ¡Cof, cof, cof, cof!\0\0('촀\0Yo he estado mejor, si te digo

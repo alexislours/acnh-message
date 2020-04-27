@@ -8,6 +8,19 @@ móét wel een leuk eiland zijn!\0\0(5촀\0
 \0Ik zal de \0servicebalie \0￿vragen of er
 een plekje is waar ik kan wonen,
 n\0!"
+"003","(
+촀\0Hmmmmn\0\0 Dat is, zeg maar, echt
+een superverleidelijk aanbod.
+\0
+Weet je watn\0\0\0\0(\0촀\0Ik heb eerder nee gezegd, 
+\0(촀\0maar deze
+keer zeg ik JA! 
+\0Ik ga hier wonen. 
+\0(5촀\0Mijn
+fans hebben me nodig,
+\0 weet je!\0\0(촀\0Nu moet ik mijn snoezige gezichtje
+nog even bij de \0servicebalie\0￿ laten
+zien om toestemming te krijgen."
 "101","<"
 "101_01","(촀\0Echt?!
 \0 Sjeempie! Op dit eiland?!
@@ -16,7 +29,7 @@ een plekje is waar ik kan wonen,
 \0 Ik heb thuis
 vrienden die me zouden missen.
 \0
-(2촀\0Maar bedankt voor de uitnodiging!"
+(2촀\0Toch bedankt voor de uitnodiging!"
 "101_02","(촀\0Echt?!
 \0 Sjeempie! Je wilt dat ik
 verhuis en zo?! Naar dit eiland?!\0\0(촀\0Sorryn\0\0 dat gaat niet. (8촀\0Mijn beste
@@ -54,7 +67,7 @@ ervan, n\0?"
 \0 (촀\0O, n\0, dat zou te gek zijn, (7촀\0maar ik twijfel een beetjen\0\0\0\0(촀\0Ik heb een idee!
 \0 ()촀\0We spelen een spel.
 Als jij wint, verhuis ik. Lijkt je dat
-wat, n\0?"
+wat?"
 "201_02_a","Kom maar op!"
 "201_02_b","Liever niet."
 "201_03","(촀\0Sjeempie!
@@ -84,8 +97,8 @@ toekomstige popster op je eiland te
 krijgen! Denk aan al die toeristen!"
 "203_01","(%촀\0Dan is het tijd voor een kaartspel!
 \0
-Raad wat op de (""촀\0kaart staat die ik
-zo ga trekken, n\0!"
+Ik ga zo een kaart trekken (""촀\0en jij moet
+er iets over raden, n\0!"
 "204","<"
 "204_01","(촀\0Ik heb gewonnen!
 \0 Sorry,
@@ -116,67 +129,70 @@ eenmaal beroemd ben."
 "206","<"
 "206_01","(촀\0Sjeempie, jij wint!
 \0(촀\0 Dat betekent dat
-ik naar n\0 verhuis!\0\0(\0촀\0O ja, ik ben n
-\0! 
-\0(%촀\0En jij heetn\0\0 
-\0n\0 of zo?\0\0(촀\0
+ik naar n\0 verhuis!\0\0(촀\0
 \0Ik heb zooo'n zin om alles te zien wat
-hier te beleven is! O! (&촀\0
-\0Hoeveel
-fashionistas wonen hier?\0\0(\0촀\0Weet je wat? Dat kan wel wachten.
-Ik ga snel naar huis om in te pakken!
-(촀\0
-\0Dit wordt echt zó leuk."
+hier te beleven is! \0\0( 촀\0O! 
+\0Stop!
+\0 Ik vergat bijna iets!
+\0 (촀\0Ik moet,
+zeg maar, nog bij de \0servicebalie
+\0￿vragen of ik hier mag wonen!"
 "206_02","(촀\0Sjeempie!
 \0 Jij wint!
 \0 Dus ik verhuis!
 (2촀\0Ik heb het spel verloren, maar win
-een eiland. Naja, niet echt, maarn\0\0\0\0(\0촀\0O ja, ik ben n
-\0! 
-\0(%촀\0En jij heetn\0\0 
-\0n\0 of zo?\0\0Hoe gehecht ben je aan de naam n\0? Wat vind je van (&촀\0n
+een eiland. Naja, niet echt, maarn\0\0\0\0O ja, hoe gehecht ben je aan de naam n\0? Wat vind je van (&촀\0n
 \0ville?\0\0(&촀\0n
 \0stad?
 \0 n
 \0dam?
 \0
 Isla de la n
-\0?\0\0(촀\0Weet je wat? Laten we het daar later
-over hebben! 
-\0(촀\0Ik moet nu snel gaan
-inpakken, n\0!"
+\0?\0\0(
+촀\0O! 
+\0Hmmmn\0\0
+\0( ()촀\0Ik zal er wat langer over
+nadenken terwijl ik bij de \0servicebalie
+\0￿vraag of ik hier mag komen wonen.
+(촀\0Ik heb zo'n zin om te verhuizen dat
+ik bijna wat belangrijke details over
+het hoofd zag! 
+\0((촀\0Ben zo terug!"
 "206_03","( 촀\0
 \0Ik heb verloren?
 \0(촀\0 Hoera! 
 \0Ik heb
 verloren!
 \0<(촀\0 Mijn plan heeft gewerkt!
-Ik verhuis naar n\0!\0\0(\0촀\0O jan\0\0 
-\0Ik heet trouwens n
-\0! 
-\0(%촀\0En jij bentn\0\0 
-\0n\0?\0\0O, wat ik net bedoelde met het plan?
+Ik verhuis naar n\0!\0\0O, wat ik net bedoelde met het plan?
 ()촀\0Najan\0\0 Eerst moest ik je zover krijgen
-om me te vragen om te verhuizen.
-Dat zodat we een spel zouden spelen, dat ik je stiekem zou laten winnen.\0\0En dan had ik een grappig verhaal
-over hoe ik hier ben komen wonen.
-Voor als ik interviews doe en zon\0\0\0\0(촀\0En nu heb ik er eentje! Echt
-superbedankt! 
-\0(촀\0Nou, ik ga naar huis
-om in te pakken en zo.
-\0 Tot snel!"
+dat je me vroeg te verhuizen.
+Daarna dat we een spel zouden
+spelen, dat ik je stiekem zou
+laten winnen.\0\0En dan zou ik een grappig verhaal
+hebben over hoe ik hier ben komen
+wonen. Voor interviews en zon\0\0\0\0(촀\0En nu heb ik er eentje! Echt
+superbedankt!\0\0(촀\0O! 
+\0Oepsie!
+\0 (촀\0Ik moet nog bij de
+\0servicebalie\0￿ vragen of ik hier mag
+komen wonen!
+(촀\0En zo begint deel twee van mijn
+verhaal, n\0!"
 "302","(촀\0Dit is het slechtste nieuws OOIT.
 
 \0(Ooit!
 \0 (촀\0Echt superslecht nieuws!
 \0 (촀\0Ik heb
-de \0servicebalie \0￿gesprokenn\0\0\0\0Ze zeiden dat zelfs als ik hier kom
-wonen,
-\0 er geen plek is om mijn huis
-te bouwenn\0\0\0\0(촀\0
-\02\0n\0, ik kan niet zonder huis! Daar doe ik van alles, 
+de \0servicebalie \0￿gesprokenn\0\0\0\0Ze zeiden dat zelfs als ik hiernaartoe
+zou verhuizen,
+\0 er geen plek zou zijn
+om mijn huis te bouwenn\0\0\0\0(촀\0
+\0Ik kan niet zonder huis! Daar doe ik
+van alles, 
 \0zoals dansoefeningen.
-\0 En tv-kijken!\0\0\0(촀\0\0￿Bij de \0servicebalie \0￿zeiden ze wel dat
+\0 En
+tv-kijken!\0\0\0(촀\0\0￿Bij de \0servicebalie \0￿zeiden ze wel dat
 (4촀\0als iemand anders vertrekt,
 \0 ik die
 plek mag hebbenn\0\0\0\0(&촀\0Ken je toevallig iemand die weg wil
@@ -186,7 +202,7 @@ gaan, n\0?"
 "303","(촀\0Naja, de kans was ook niet grootn\0\0
 \0
 Mijn droom om op een supercoole
-plek te wonen,(촀\0 geef ik dan maar opn"
+plek te wonen(촀\0 geef ik dan maar opn"
 "304","(1촀\0Mijn aanpak wordtn\0\0 ""Dit eiland is te
 klein voor ons beiden!""
 \0 Óf: ""Ik ben
@@ -209,14 +225,17 @@ bewoner om te verhuizen."
 "308","(촀\0Gossie,
 \0 weet je het zeker?
 \0 (촀\0Oké, dan
-misschien een andere keer,
-n\0."
-"309","(\0촀\0Ik heb het aan ()촀\0s촀 gevraagd, zoals je voorstelden\0\0 en 2촀hijze\0 zei ja!\0\0()촀\02촀HijZe\0 zei dat dit eiland echt een
+misschien een andere keer, n\0."
+"309","(\0촀\0Ik heb het aan ()촀\0s촀 gevraagd, zoals je had voorgesteldn\0\0 en 2촀hijze\0 heeft ja gezegd!\0\0()촀\02촀HijZe\0 zei dat dit eiland echt een
 beroemde muzikant kan gebruiken,
 (;촀\0
 \0maar heeft zelf geen tijdn\0\0\0\0(촀\0Dus s촀 vertrekt en ik
-kom supersnel hier wonen! Dit wordt
-onwijs te gek, n\0!"
+kom hier supersnel wonen!\0\0Maar goed, dan is het nu tijd voorn\0\0(촀\0 een voorstelrondje!\0\0(촀\0Ik ben n
+\0!
+\0( (\0촀\0En jij bent n\0, toch?\0\0Weet je, ik heb hier een goed gevoel
+over.
+\0(촀\0 Een onwijs fantastisch te gek
+gevoel!"
 "310","(촀\0Is er echt niemand, n\0?"
 "310_a","Toch wel!"
 "310_b","Weet ik niet meer..."
@@ -227,36 +246,24 @@ en dan ga ik het vragen!"
 \0 Ik had er zo'n zin inn\0\0
 \0
 (촀\0Naja, misschien een andere keer!"
-"402","(8촀\0Dit is raar. 
-\0En niet goed raar.
-\0 Dit is
-ráár raar. 
-\0(()촀\0Ik heb met de \0servicebalie
-\0￿gesprokenn\0\0\0\0(촀\0Blijkbaar woont hier al iemand die
-precies op mij lijkt?
-\0 (촀\0Dus ze zeiden
-dat ik hier niet mag komen wonenn\0\0\0\0(촀\0Wat voor een regel is dat?! Iemand
-imiteert mijn stijl en nou mag ik niet
-wonen waar ik wil?
-\0 (
-촀\0BOOOEEE!\0\0Nou, n\0, het was leuk. (촀\0Ik hoop je snel weer eens te zien, n\0!"
-"403","(8촀\0Ik heb het de \0servicebalie \0￿gevraagd
-en ze hadden zo'n sappige roddel
-voor men\0\0\0\0(;촀\0Ik kan hier niet komen wonen omdat iemand die op mij líjkt hier al kómt wonen. 
-\0(	촀\0
-\0Wat?! Waarom is dat-\0\0(촀\0Ten eerste?! 
-\0Ben ík hier en die ander
-niet. 
-\0(
-촀\0Ten tweede is dat een superrare
-manier om bewoners te selecteren!\0\0(9촀\0Wat als twee van jullie op een dag
-hetzelfde shirt dragen? Moet dan een
-van jullie van het eiland verlaten?\0\0()촀\0Thuis neem ik acteerlessen, maar
-we zijn nog niet bij de lessen over
-boos zijnn\0\0 (촀\0BOOOOOOOOOOOS.\0\0(촀\0Naja, het is niet jouw schuld dat jij zo
-cool bent en zij niet. 
-\0Misschien
-worden we later nog wel buren."
+"313","(촀\0Hoera! 
+\0Ik wist het wel!
+\0 (&촀\0Is hetn\0\0 s촀? 
+\0((\0촀\0Ja, volgens mij is het s촀.\0\0(7촀\0Die naam noemden ze al bij de
+\0servicebalie\0￿ toen ik daar was,
+snap je?
+(4촀\0Dus is het oké als ik,
+\0 zeg maar, 
+\0s촀 aanspreek over een mogelijke verhuizing?"
+"313_a","Uiteraard!"
+"313_b","Liever niet."
+"314","(촀\0O,
+\0 eh, 
+\0oké. Dat is duidelijk.\0\0(촀\0Jammer, maar maakt niet uit.
+\0 ()촀\0Je weet
+wat ze zeggenn\0\0 Nieuwe
+auditieronde, nieuwe kansen.\0\0Ik zal hoe dan ook(촀\0 mijn grandioze
+entree maken, n\0!"
 "404","Ik heb de lui van de(촀\0 \0servicebalie
 \0￿gesproken en ik heb slecht nieuwsn\0\0\0\0n\0 is vol. Er is geen
 plek voor me, ook al heb ik uitgelegd
@@ -265,16 +272,6 @@ dat ik maar klein ben. En schattig.\0\0(촀\0Bahn\0\0
 \0< (촀\0Misschien
 vinden we ooit een andere manier om
 buren te worden, n\0."
-"405","(8촀\0Bah, volgens de \0servicebalie \0￿is er
-geen ruimte op het eiland voor
-nieuwe huizen.\0\0()촀\0Ik zei dat ik wel een boomhuis kan
-maken of een tunnel kan graven of
-een boot kan kopen om op te wonen.\0\0(6촀\0Ik zou mijn boot het VIP-schip
-noemenn\0\0
-\0(촀\0 maar ze zeiden dat je hier
-niet op een boot mág wonen.\0\0(촀\0Naja. Misschien veranderen de
-maritieme regels bij je eiland nog
-wel, n\0."
 "406","($촀\0Bedankt voor het wachten!
 \0< (8촀\0Ik heb het
 aan de \0servicebalie \0￿hier gevraagdn\0\0
@@ -298,20 +295,6 @@ supersupersupergraag!"
 (촀\0
 \0Maar als je moet huilen, is dat prima.
 En ik moet huilen, n\0!"
-"421","(8촀\0Ik kan haast niet geloven dat er al
-een schattige diva op je eiland
-woont, n\0.\0\0(3촀\0Ik ben, zeg maar, veel schattigern\0\0
-Naja, bedankt voor de uitnodiging.
-Jammer dat het niet is gelukt!"
-"422","(촀\0Bah, er komt al een andere diva op
-dit eiland wonen!
-\0 (3촀\0
-\0Ik wil wel een
-muzikaal duel met haar aangaann\0\0\0\0(3촀\0
-\0Ik zou haar, zeg maar, de zee
-inzingen, n\0!\0\0(촀\0Ach ja. Jammer dat het niet is gelukt,
-(촀\0maar bedankt voor de uitnodiging,
-n\0!"
 "423","(촀\0Je eiland moet wel superpopulair
 zijn als er geen nieuwe bewoners
 meer worden aanvaard en zo.
@@ -321,9 +304,6 @@ met mijn band begin te touren!\0\0(촀\0Nu het hier zo druk is, komt er vas
 een enorm groot publiek kijken!
 \0 (촀\0Dus
 koop nú je tickets, n\0!"
-"424","()촀\0Dit eiland is vast suuuuuperpopulair
-als het er zo vol is!
-\0\0\02\0n\0, bedankt voor alle lol. Hopelijk is dit ""Tot ziens"" en niet ""Vaarwel"", n\0."
 "504","()촀\0Er blijven maar superleuke dingen
 gebeuren tijdens het kamperen hier!
 \0
@@ -349,16 +329,16 @@ dat kan doen!"
 had,(촀\0 zou ik hier supervaak kamperen!"
 "507","(4촀\0Even serieus, hoor.
 \0 Het is echt zooo
-leuk hier in n\0.\0\0(촀\0De sfeer is te gek
+leuk hier op n\0.\0\0(촀\0De sfeer is te gek
 \0 en de bewoners
 zijn nog te gekker!"
 "507_a","Wil je hier komen wonen?"
 "507_b","Fijn dat je het zo leuk hebt."
-"508","(8촀\0Ik zat echt net te denken hoe onwijs gaaf dat zou zijnn\0\0
+"508","(8촀\0Ik zat echt net te denken hoe onwijs
+gaaf dat zou zijnn\0\0
 \0(촀\0
 \0 maar ik kan niet.
-Niet nu, zeg maar.
-(\0촀\0Ik moet er, zeg maar echt nog over
+Niet nu in ieder geval.\0\0(\0촀\0Ik moet er, zeg maar, echt nog over
 nadenken.
 \0 De volgende keer weet ik
 het echt wel!\0\0(2촀\0Dus zul je me nog een keer moeten

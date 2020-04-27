@@ -21,10 +21,10 @@ spreken.\0￿d"
 hmmn\0\0
 \0(
 촀\0 of ik te gast wil zijn op
-de \0kampeerplek \0￿van jouw eiland?\0\0(촀\0Nee maar, uiteraard, lieve schat!
-\0
-Ik ben werkelijk vereerd!"
-"102_02","(촀\0Of ik op jouw eiland wil kamperen?
+de \0kampeerplek \0￿van jouw eiland?\0\0(촀\0Maar natuurlijk, lieve schat!
+\0 Ik ben
+werkelijk vereerd!"
+"102_02","(촀\0Of ik op jouw eiland wil \0kamperen\0￿?
 \0
 
 Ik? 
@@ -48,8 +48,8 @@ hoe graag ik jouw eiland zou willen
 vereren met een bezoekjen"
 "102_04","Maar natuurlijk (촀\0breng ik graag een
 bezoekje aan de \0kampeerplek \0￿op
-jouw eiland!\0\0(%촀\0Kamperen is vreselijk in op dit
-moment. 
+jouw eiland!\0\0(%촀\0Kamperen is vreselijk in de mode op
+dit moment. 
 \0(촀\0Ik begin alvast met
 inpakken, n\0."
 "202","<"
@@ -115,7 +115,7 @@ schat.
 "302","<"
 "302_01","(촀\0O!
 \0
- Of ík wil kamperen op ons eiland?!
+ Of ík wil \0kamperen \0￿op ons eiland?!
 \0(
 Eh, (촀\0ken je me ook maar een beetje,
 n\0?\0\0(8촀\0Begrijp me niet verkeerd, het isn\0\0
@@ -131,7 +131,7 @@ daarentegenn\0\0
 \0( (%촀\0Dat zou ik nog wel
 willen overwegenn"
 "302_02","(촀\0O! 
-\0Je wilt gaan kamperen?
+\0Je wilt gaan \0kamperen\0￿?
 \0( (촀\0Dat klinkt
 enig!
 \0
@@ -160,7 +160,7 @@ genieten van de natuurn\0\0
 \0( ('촀\0Maar nee,
 bedankt, lieverd."
 "302_04","( 촀\0Pardon?
-\0 Kamperen op mijn eigen
+\0 \0Kamperen \0￿op mijn eigen
 eiland?\0\0(촀\0Gut, lieverd, 
 \0
 een origineel idee is het

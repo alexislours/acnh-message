@@ -5,6 +5,15 @@
 Or here.
 \0(촀\0 I'm home!\0\0(6촀\0Just point me at \0Resident Services\0￿
 and I'll give 'em what for!"
+"003","(7촀\0I gotta say, it feels pretty good
+gettin' so many invites to move
+here. 
+\0Alright, you wore me down!\0\0(촀\0I'm movin' in!
+\0 Ern\0\0
+\0(2촀\0that is, 
+\0just
+as soon as I get the OK from
+\0Resident Services\0￿, n\0."
 "101","<"
 "101_01","(촀\0You serious, kiddo?
 \0((\0촀\0(
@@ -116,38 +125,25 @@ for now.
 \0 (%촀\0But this was a good time."
 "206","<"
 "206_01","(촀\0Well, I lost.
-\0((\0촀\0 But a deal's a deal, and
-I'm keeping my word.(촀\0 I'm moving!\0\0(7촀\0Seems weird to do our introductions
-after such an epic battle, but here
-goes nothin'.
-(""촀\0My name's n
-\0!(\0촀\0 And
-you are n\0. At least,
-I'm pretty sure you are.
+\0((\0촀\0 But a deal's a deal.
+\0(촀\0 I'll
+check with \0Resident Services\0￿ and see
+if we can't get this move happenin'.\0\0(7촀\0Here goes nothin', n\0n"
+"206_02","('촀\0I have no excuses.
+\0 You're the better
+player.
+\0( (""촀\0Well, just the same, it was a
+lot of fun competin' against you.
 \0(
-(촀\0I'm looking forward to years of being
-true-blue buds, n\0."
-"206_02","('촀\0I have no excuses.(""촀\0 You're the better
-player, and it was a lot of fun
-competing against you.
+Son\0\0
+\0 (촀\0Guess my next step's talking
+to \0Resident Services\0￿ about my big
+move, n\0!"
+"206_03","Whoa.('촀\0 That was a whuppin'.(촀\0 You're
+really somethin' else, you know that?(촀\0\0\0(촀\0Well, nothing to do now but talk to
+\0Resident Services\0￿ about movin' in.
 \0(
-(촀\0Son\0\0
-\0(촀\0 Guess I better get started with
-my big move. (촀\0Oh! I just realized we(\0촀\0
-haven't done proper introductions.
-I'm n
-\0.
-\0 And you'ren\0\0
-n\0, right? Right!
-(촀\0Glad to be your bud, n\0."
-"206_03","Whoa.('촀\0 That was a whoopin'.(촀\0 You're
-really somethin' else, you know that?(촀\0\0\0(\0촀\0Since that's settled, introductions
-are in order. (""촀\0I'm n
-\0.
-\0(
-You're n\0, right?\0\0(촀\0Happy to share an island with such a
-fantastic game player. ($촀\0This'll be a
-good memory, n\0!"
+($촀\0Wish me luck, n\0!"
 "302","(촀\0So here's the lowdown, kiddon\0\0
 I checked in with your \0Resident Services\0￿ folks to see about movin' in.
 (\0촀\0Andn\0\0('촀\0it's a no-go. 
@@ -220,26 +216,21 @@ you were thinkin' of, n\0?"
 scrap it this time.
 \0( (촀\0Maybe I'll ask
 you another time, n\0."
-"402","(촀\0So here's the lowdown, kiddon\0\0
-I talked to your \0Resident Services\0￿
-folks to ask about movin' in.
-(\0촀\0Andn\0\0('촀\0it's a no-go. I guess you've
-got a me-like character here, and
-there's a strict one-me policy.
-(촀\0Two of me could get confusin'.
-\0 (
-촀\0Heck,
-one me is pretty confusin'."
-"403","(촀\0So here's the lowdown, kiddon\0\0
-I talked to your \0Resident Services\0￿
-folks to ask about movin' in.
-(\0촀\0Andn\0\0('촀\0it's a no-go. I guess you've
-got a me-like character moving in,
-and there's a strict one-me policy.
-(촀\0I've heard that everyone has a twin
-somewhere in the world.(
-촀\0 Didn't think
-I'd find mine on your islandn"
+"313","(촀\0
+\0Well! 
+\0It wouldn't happen to be
+s촀, would it?\0\0(%촀\0\0Resident Services\0￿ said I oughta talk
+to 2himher.
+\0( But how about you?
+\0 Should
+I give s촀 a buzz?"
+"313_a","Go for it!"
+"313_b","I don't think so."
+"314","I see. 
+\0(촀\0Well, if that's how it is, then
+that's how it is.
+\0 Maybe some other
+time then, n\0."
 "404","(촀\0So here's the lowdown, kiddon\0\0
 I talked to your \0Resident Services\0￿
 folks to ask about movin' in.
@@ -252,13 +243,6 @@ more folks and it might just sink!
 \0
 (촀\0Bah! 
 \0Better not to risk it."
-"405","(촀\0So here's the lowdown, kiddon\0\0
-I talked to your \0Resident Services\0￿
-folks to ask about movin' in.
-(\0촀\0Andn\0\0('촀\0it's a no-go. There's no more
-space for anyone to build a house!\0\0(촀\0Well, I ain't livin' on no beach again!
-Been there, done that. 
-\0(촀\0Sorry, kiddo."
 "406","(촀\0So here's the lowdown, kiddon\0\0
 I talked to your \0Resident Services\0￿
 folks to ask about movin' in.
@@ -290,37 +274,11 @@ a tad more gumption,
 \0(촀\0 Wouldn't
 want 'em to start calling me ""that
 pushy guy,"" n\0."
-"421","(
-촀\0What are the odds? I can't believe
-there's a double OF me causin'
-trouble FOR me.
-(촀\0But I bet I'm the better-looking one,
-at least!\0\0(\0촀\0Well, even though I can't move in,
-\0
-(촀\0it's sure nice to be invited. So
-thanks, n\0!"
-"422","(촀\0I never thought another me would
-try to steal the spotlight fromn\0\0me.
-(촀\0He got my face and took my spot!
-(7촀\0Talk about a double coincidence!
-\0(
-(\0촀\0I'll have to give up this time, 
-\0(촀\0but
-maybe I can try again, n\0."
 "423","(%촀\0Your island's in demand, kiddo! Hard
 to believe there's no space for little
 old me.\0\0(촀\0Says something, though, that I got
 invited to such a popular place. Hope
 we stay in touch, n\0."
-"424","(
-촀\0No space to build any more
-housesn\0\0 Can you imagine?\0\0(촀\0Must be somethin' real special
-happenin' on your island, huh?
-Shame I can't be a part of it.
-(촀\0Thanks for the invite anyway, kiddo.
-\0
-Really perked me up. Gave me
-somethin' to think about."
 "504","(촀\0When I first got here,
 \0 I felt like a
 tourist.

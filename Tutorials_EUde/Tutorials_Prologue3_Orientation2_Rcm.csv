@@ -14,9 +14,9 @@ Du musst aber schon eine Stelle
 nehmen, 
 \0wo ringsherum genug
 Platz ist.\0\0Keine Sorge,
-\0 du kannst dein \0Zelt \0￿erst
-einmal probeweise aufstellen, bevor
-du dich für einen Ort entscheidest.\0\0Oh! 
+\0 du kannst erst einmal
+schauen, wie es aussieht, bevor du
+den Ort endgültig festlegst.\0\0Oh! 
 \0(촀\0Und hier hab ich auch noch
 eine \0Karte\0￿ dieser Insel für dich."
 "001_03","(\0촀\0Sobald dein \0Zelt \0￿steht, 
@@ -54,7 +54,8 @@ alles entfernt werden."
 überlassen.
 \0 Kümmer dich einfach
 um die nötigen Materialien!"
-"100_02","Was genau benötigt wird, kann dir
+"100_02","Was genau benötigt wird, 
+\0(촀\0kann dir
 unser Chef \0Tom Nook\0￿ verraten."
 "101","<"
 "101_01","(촀\0Es ist egal, ob du die \0Äste \0￿vom
@@ -112,16 +113,13 @@ etwas... 
 dem Chef!"
 "131","<"
 "131_01","2\0n\0, 
-\0(&촀\0willst du dich
-langsam in dein \0Zelt \0￿zurückziehen?\0\0(촀\0Du hattest ja einen langen Tag!
+\0(&촀\0willst du dich langsam in dein \0Zelt \0￿zurückziehen?\0\0(촀\0Du hattest ja einen langen Tag!
 \0
 (\0촀\0Komm morgen früh doch bitte
 ($촀\0zum \0Servicecenter\0￿.
 ( 촀\0Wo das ist? 
-\0(촀\0In dem blauen Zelt da!"
+\0((촀\0In dem grünen Zelt da!"
 "131_02","(촀\02\0n\0, 
-\0du musst
-erschöpft sein. 
+\0du musst erschöpft sein. 
 \0Leg dich aufs Ohr,
-\0
-das hast du dir redlich verdient!"
+\0 das hast du dir redlich verdient!"

@@ -6,7 +6,7 @@ intentando atrapar un insecto,
 \0
 (촀\0¡Yo solo quería 2\0}촀!"
 "003_a","(\0촁\0¡Déjamelo a mí!"
-"003_b","(\0촀\0¡Sigue intentando!"
+"003_b","(\0촁\0¡Sigue intentando!"
 "004","(
 촀\0Cuando era tan solo una renacuaja,
 vivía en las montañas, (%촀\0y había
@@ -14,15 +14,15 @@ insectos por todas partes.
 (5촀\0Me encantaba ir con mis compis de
 excursión montañil para ver 2\0
 }촀."
-"004_a","(\0촁\0¿Y si te traigo un2촀oa\0?"
-"004_b","(\0촁\0Qué interesante"
+"004_a","(\0촁\0¿Y si te traigo un2촀oa\0?"
+"004_b","(\0촁\0¡Ve por un2촀oa\0!"
 "008","(
 촀\0¿No te pasa luego que te obsesionas
 por temporadas con ciertas cosas?\0\0(촀\0Por ejemplo, ahora estoy con todo
 en eso de la pesca, y me muero por
 2\0}촀."
-"008_a","(\0촁\0¡Yo te l2촀oa\0 pesco!"
-"008_b","(\0촀\0¡Sigue intentando!"
+"008_a","(\0촁\0¡Yo te l2촀oa\0 pesco!"
+"008_b","(\0촁\0¡Sigue intentando!"
 "009","()촀\0Cuando era pequeña, una amiga mía
 tenía un acuario demoledor en su
 casa.
@@ -30,8 +30,8 @@ casa.
 viendo su colecciónn\0\0
 \0 ¡Pero más
 2\0}촀!"
-"009_a","(\0촁\0Puedo pescarte un2촀oa"
-"009_b","(\0촀\0Son bonit2촀oa\0s, sí"
+"009_a","(\0촁\0Puedo pescarte un2촀oa"
+"009_b","(\0촁\0Deberías pescar un2촀oa"
 "011","(촀\0¿En serio harías eso por mí?
 \0
 (촀\0¡Qué chévere eres!"
@@ -57,9 +57,9 @@ lo imposible!"
 촀\0Bueno, me imagino que estarás
 ocupadísim2oa con tus cosasn\0\0
 (촀\0¡Tendré que hacerlo yo misma!"
-"017","(촀\0Ya quén\0\0 si nadie me ayuda,
-\0
-(촀\0¡me ayudaré a mí misma!"
+"017","(%촀\0¡Tienes razón!
+\0 ¡Ya es hora de que me
+ponga las pilas con el asunto!"
 "018","(%촀\0Te prometo que no hay nada que
 me guste más,
 \0 tú."
@@ -250,8 +250,8 @@ a más no poder, n\0?
 (촀\0Necesito atrapar un insecto sí o sí.
 \0
 Pero no se dejann\0\0\0\0En fin, (촀\0la conclusión es que
-2\0}촀 es extremadamente escurridiz2촀oa\0."
-"101_a","(\0촁\0¿Te traigo un2촀oa\0?"
+2\0}촀 es extremadamente escurridiz2촀oa\0."
+"101_a","(\0촁\0¿Te traigo un2촀oa\0?"
 "101_b","(\0촁\0Estoy muy ocupad2oa..."
 "102","(촀\0¡¿Puedes creer lo que me está
 pasando?!\0\0('촀\0Sabía que lo de atrapar insectos
@@ -289,13 +289,13 @@ bonita amistad, 
 favorzuelo chiquitín.
 (5촀\0Necesito conseguir sí o sí, 2\0}촀. 
 \0¿Me ayudas o qué?"
-"201_a","¡Yo te l2촀oa\0 traigo!"
+"201_a","¡Yo te l2촀oa\0 traigo!"
 "201_b","Ahora no puedo..."
 "202","(""촀\0¿Qué tal vas con ese tema de la
 pesca, n\0?
 \0 ¿Sí consigues cosas?\0\0(촀\0Lo digo para ver si me ayudas con
 algo que quiero pescar y no se deja."
-"202_a","(\0촁\0¡Yo te pesco un2촀oa\0!"
+"202_a","(\0촁\0¡Yo te pesco un2촀oa\0!"
 "202_b","(\0촁\0¡Ánimo!"
 "203","(!촀\0¡Me gusta tu actitud!
 \0(5촀\0 Siempre

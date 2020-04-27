@@ -13,17 +13,18 @@ qui a condurre ricerche di persona."
 Colui
 Colei che ha deciso il luogo dove
 posizionare questa tenda?"
-"002_a","Proprio così!"
+"002_a","In persona!"
 "002_b","Esatto."
 "003","(촀\0Bene! 
 \0Magnifico!
 \0 ()촀\0Di fatto, grazie alla
-tua scelta sono atterrato qui senza
+tua scelta, sono atterrato qui senza
 neanche una penna arruffata.
-(""촀\0Ho menzionato la ricercan\0\0 ma, a
-dirla tutta,
-\0 (촀\0intendo aprire un \0museo
-\0￿e trasferirmi qui in pianta stabile."
+(""촀\0E riguardo alle ricerche di cui
+facevo menzione priman\0\0\0\0()촀\0A dirla tutta,
+\0 intendo aprire un
+\0museo \0￿
+\0(촀\0e trasferirmi qui in pianta stabile."
 "004","()촀\0Quindi, 
 \0se catturassi nuovi tipi di
 \0insetti\0￿ o \0creature acquatiche\0￿, 
@@ -63,33 +64,35 @@ parecchi \0fossili\0￿!"
 \0se solo ci fosse un modo
 per attraversare il fiumen"
 "008","(
-촀\0Ma come si fa ad attraversare il
-fiume, ti chiederai? 
+촀\0Ma come si fa a superare il fiume,
+ti chiederai? 
 \0Uhmn\0\0\0\0(촀\0Uh! Ci sono!
 \0(촀\0 Ho un'idea tanto
 audace quanto quella di venire
-a vivere su un'isola deserta.\0\0(9촀\0Scusami, n\0,
-\0 trasmetto i dati necessari al tuo Nook Phonen"
+a vivere su un'isola deserta.\0\0(9촀\0Ti prego di scusarmi, 
+\0ora trasmetterò
+dei dati di fondamentale importanza
+al tuo Nook Phonen"
 "009","(""촀\0Ecco! 
-\0Puoi fabbricare un'\0asta da
-salto \0￿con la legna reperibile
+\0Puoi fabbricare un'\0asta
+da salto \0￿con la legna reperibile
 sull'isola.
-(%촀\0L'asta è lo strumento perfetto per
-catapultarsi dall'altra parte del fiume.
-\0
-(촀\0Sarai lì in un battibaleno,
-\0 uh uuuh!\0\0()촀\0Ti ho anche inviato uno schema
-fai da te per costruire una \0pala\0￿ utile
-per dissotterrare i \0fossili\0￿.
+(%촀\0Non c'è strumento migliore per
+catapultarsi al di là del fiume se
+non hai alin\0\0 come nel tuo caso.
+()촀\0Ti ho anche inviato uno schema
+fai da te per costruire una \0pala
+\0￿utile per dissotterrare i \0fossili\0￿.
 E ora,
 \0 (""촀\0veniamo al dunquen\0\0 
 \0(촀\0Dovresti
 attraversare il fiume e andare alla
-ricerca di reperti antichi."
+ricerca di reperti antichi, 
+\0uh uuuh."
 "010","(촀\0Santi gufi!
 \0 (2촀\0Mi ero preposto di
-presentarmi soltanton\0\0 e invece ho
-blaterato tutto questo tempo!
+presentarmi soltanton\0\0 e invece
+ho blaterato tutto questo tempo!
 ()촀\0Mi sono fatto trasportare 
 \0perché
 mi servono altri articoli per poter
@@ -243,25 +246,27 @@ esaminare i fossili che trovi,
 \0 (촀\0uuuh!
 Portane pure quanti ne vuoi."
 "101","(촀\0È un piacere averti qui!"
-"102","(""촀\0Rivolgiti pure a me se hai articoli da
-donare o se ti serve aiuto.
-\0(촀\0 Sarò più
-che felice di assisterti!
+"102","(""촀\0Se hai una donazione da fare o ti
+serve aiuto, 
+\0(촀\0sarò più che felice di
+assisterti!
 \0 Uuuh!"
 "102_a","Donazione!"
 "102_b","Non fa niente."
-"103","(""촀\0Rivolgiti pure a me se hai articoli da
-donare o se ti serve aiuto.
-\0(촀\0 Sarò più
-che felice di assisterti!
+"103","(""촀\0Se hai una donazione da fare o ti
+serve aiuto, 
+\0(촀\0sarò più che felice di
+assisterti!
 \0 Uuuh!"
 "103_a","Donazione!"
 "103_b","Esamina fossili."
 "103_c","Non fa niente."
-"111","(촀\0Ancora \0Z\0 2>\0donazionidonazionedonazioni\0￿ per aprire il museo!\0\0Come sempre,
-\0(""촀\0 non vedo l'ora
-di ricevere tuoi ulteriori contributi
-per il nostro progetto!
+"111","(촀\0Ancora \0Z\0 2>\0donazionidonazionedonazioni\0￿ e potremo
+inaugurare il nostro museo in pompa
+magna!\0\0Come sempre,
+\0(""촀\0 non vedo l'ora di
+ricevere ulteriori contributi da parte
+tua per il nostro progetto!
 \0 Uuuh!"
 "112","(7촀\0Questa sistemazione provvisoria
 non rende possibile un'accoglienza
@@ -270,10 +275,10 @@ decorosa, 
 "112_01","(""촀\0Per aprire il museo,
 \0 2.\0servono
 serveservono ancora
-\0Z\0 \0￿2&\0
+\0Z\0 2&\0
 pezzi
 pezzo
-pezzi da esporre!
+pezzi\0￿ da esporre!
 \0 (촀\0Confido nel tuo
 impegno!"
 "112_02","(\0촀\0Questa sistemazione provvisoria
@@ -341,7 +346,7 @@ nostro scopo?"
 straordinario!\0\0(""촀\0E guarda caso, 
 \0ci manca un solo
 reperto per poter avviare la pratica
-di costruzione del museo!\0\0()촀\02""촀QuestoQuesta\0 }\0\0 potrebbe essere il passo decisivo verso l'apertura di un vero museo.\0\0(9촀\0Perciò ti chiedo, con greve solennità:
+di costruzione del museo!\0\0()촀\02""촀QuestoQuesta\0 }\0\0 potrebbe essere il passo decisivo verso l'apertura di un vero museo.\0\0(9촀\0Perciò ti chiedo, con greve solennità:
 
 \0(&촀\0vuoi contribuire alla nostra impresa
 donando questo fossile?"
@@ -370,8 +375,7 @@ senza indugi?"
 "162","(촀\0Come preferisci.
 \0 Torna a trovarmi
 quando vuoi!"
-"191","(
-촀\0Uhmn\0\0 Ciò vuol dire chen\0\0\0\0(촀\0Uh uuuh! Ce l'abbiamo fatta!
+"191","(촀\0Man\0\0 Alloran\0\0\0\0(촀\0Uh uuuh! Ce l'abbiamo fatta!
 \0
 Siamo riusciti a raggiungere
 il numero necessario di reperti!"
@@ -386,25 +390,25 @@ possibile!
 abitanti di n!\0.\0\0(촀\0Ora possiamo inoltrare la domanda
 per la costruzione di un vero e
 proprio museo!
-( 촀\0Uh! Uh uh!
-\0(촀\0 Devo immediatamente
-dare il via ai preparativi per
-l'apertura! C'è così tanto da fare!\0\0(촀\0I miei più sentiti ringraziamenti,
+( 촀\0Uh uh!
+\0(촀\0 Devo immediatamente dare
+il via ai preparativi per l'apertura!
+
+\0C'è così tanto da fare!\0\0(촀\0I miei più sentiti ringraziamenti,
 n\0!"
-"191_02","(촀\0È arrivata l'ora di inoltrare la
-domanda per la costruzione
-del museo!
-( 촀\0Uh!
-\0 Uh uh!
-\0(촀\0 Devo immediatamente
-dare il via ai preparativi per
-l'apertura! Uh uuuh!\0\0(촀\0I miei più sentiti ringraziamenti,
+"191_02","(촀\0È giunta l'ora di inoltrare la domanda
+per la costruzione del museo!\0\0( 촀\0Uh uh!
+\0(촀\0 Devo immediatamente dare
+il via ai preparativi per l'apertura!
+
+\0Uh uuuh!\0\0(촀\0I miei più sentiti ringraziamenti,
 n\0!"
 "192","()촀\0I preparativi per la costruzione del
 museo sono molto impegnativi. Non
 posso accettare donazioni, per ora.
-(촀\0Tuttavia, siamo sempre a tua
-disposizione per esaminare i fossili!"
+(촀\0Tuttavia, sono sempre a tua
+disposizione per esaminare
+i fossili!"
 "192_a","Esamina fossili."
 "192_b","Va bene così."
 "193","()촀\0Al momento non posso accettare

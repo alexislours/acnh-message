@@ -1,6 +1,9 @@
 ﻿"label","text"
 "002_02","(촀\0We hopen je snel weer bij \0Nooks
-hoek \0￿te zien!(\0촀"
+hoek \0￿te zien!
+\0(($촃\0
+\0d\0 
+\0\0KTot gauw!\0dd"
 "002_03","( 촀\0O, sorry. Laat maar zittenn\0\0 (촀\0Je stond
 hiernaar te kijken."
 "051","(촀\0Welkom!
@@ -64,21 +67,20 @@ fluctuaties van de markt.\0\0()촂\0Eén klein ding: op zondag kopen we
 geen knollen(%촃\0 omdat op die dag de
 knollenverkoopster langskomt.(\0촂\0(\0촃"
 "061_03","(촂\0De tweede nieuwe dienst heeft te
-maken met(%촃\0 de \0dagtopper\0￿.(촃\0\0\0De dagtopper is elke dag anders, en
-als je er één komt verkopen, betalen
-we je er het \0dubbele \0￿voor!\0\0()촂\0Je kunt op het bord voor de winkel
+maken met(%촃\0 de \0dagtopper\0￿.(촃\0\0\0De dagtopper is elke dag anders. Als
+je er een komt verkopen, betalen we
+je er het \0dubbele \0￿voor!\0\0()촂\0Je kunt op het bord voor de winkel
 (%촃\0zien wat de dagtopper is of je kunt
 het direct aan ons vragen.(\0촂\0(\0촃"
 "061_04","(촂\0De laatste nieuwe dienst (%촃\0die we
 aanbieden, is de \0verkoopkist\0￿.(촃\0\0\0()촂\0Als je het druk hebt of als de winkel
 dicht is, kun je wat je wilt verkopen
 in de kist doen.
-\0((촃\0 Een eitje, toch?\0\0()촂\0We betalen je later terug door de
-klingels direct op je bankrekening
-te storten.\0\0(\0촂\0(7촃\0Maar pas op:
-\0 er zijn administratie-
-kosten aan verbonden, en knollen en
-dagtoppers kunnen niet in de kist.(\0촂\0(\0촃"
+\0((촃\0 Een eitje, toch?\0\0()촂\0Je ontvangt onze betaling later op je
+bankrekening. Let op: hier zijn
+administratiekosten aan verbonden.\0\0(\0촂\0(7촃\0Daarnaast accepteren we geen
+knollen en betalen we de standaard-
+prijs voor dagtoppers.(\0촂\0(\0촃"
 "061_05","(촂\0(촃\0Volgens mij weet je nu alles!"
 "101","(촀\0Moet je horen, n\0n\0\0
 \0( (촀\0Groot nieuws!"
@@ -96,14 +98,14 @@ aan de bouw kunnen beginnen.\0\0(7촀\0Ik weet hetn\0\0 een hele dag zonder
 winkeln\0\0(%촀\0 Maar we zien je over twee
 dagen wel weer, toch?
 \0(촀"
-"151","(촀\0Welkom in onze gerenoveerde
-en uitgebreide winkel!\0\0(\0촀\0Ik ben zo blij dat je langs bent
-gekomen ($촀\0op de openingsdag!
+"151","(촀\0Welkom in onze (촃\0(촀\0gerenoveerde
+en uitgebreide winkel!\0\0(\0촀\0(\0촃\0Ik ben zo blij dat je langs bent
+gekomen (촃\0op de openingsdag!
 ($촀\0Duizendmaal dank!"
-"151_01","(촀\02\0n\0! Welkom!(%촀\0
-\0( Dit is je eerste bezoek sinds de renovatie, toch?\0\0(\0촀\0Zoals je wel ziet, 
+"151_01","(촀\02\0n\0! (촃\0Welkom!(%촀\0
+\0( Dit is je eerste bezoek sinds de renovatie, toch?\0\0(\0촀\0(\0촃\0Zoals je wel ziet, 
 \0($촀\0is onze nieuwe
-winkelruimte flink wat groter!"
+winkelruimte (촃\0flink wat groter!"
 "152","(촀\0We hopen je snel weer bij \0Nooks
 hoek \0￿te zien!
 \0((\0촀"

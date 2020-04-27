@@ -26,10 +26,10 @@ dis-moi si certains t'intéressent !"
 "004","(촀\0Kikou, n\0 !
 \0 Je viens de mettre la main sur un truc super ! 2\02\0}\0\0 !
 (촀\0Mais maintenant, j'ai un problèmen\0\0
-Ça m'en fait deux. Donc 2촀unune\0 de trop.
+Ça m'en fait deux. Donc 2촀unune\0 de trop.
 \0
 (
-촀\0Ça te dirait de m'en acheter 2촀unune\0 ?"
+촀\0Ça te dirait de m'en acheter 2촀unune\0 ?"
 "004_a","(\0촀\0Combien ?"
 "004_b","Merci, mais non merci."
 "005","(촀\0Oh, euhn\0\0
@@ -126,7 +126,7 @@ de toin\0\0
 촀\0Et pourn\0\0 (&촀\0Z\0 ?
 À prendre ou à laisser !"
 "207_a","Vendu !"
-"207_b","Tant pis."
+"207_b","(\0촀\0Tant pis."
 "208","(촀\0Marché conclu ? 
 \0Merci !"
 "209","(촀\0Je sais pas si c'est une qualité ou
@@ -156,8 +156,8 @@ heureuse !"
 "304","(촀\0D'accordn\0\0 Et si je te propose 2\0}\0\0
 \0(\0촀\0 (&촀\0pour Z ?"
 "304_a","J'achète !"
-"304_b","Et j'en ferais quoi ?"
-"305","(촀\0Bon, et 26촀un dernierune dernière\0...(\0촀\0
+"304_b","(\0촀\0Et j'en ferais quoi ?"
+"305","(촀\0Bon, et 26촀un dernierune dernière\0...(\0촀\0
 \0 (&촀\0Mettons
 Z, et je te vends
 2\0}\0\0 ?"
@@ -178,9 +178,7 @@ tu es toujours partant2\0e ?"
 "400_a","Tiens, mes clochettes."
 "400_b","(\0촀\0Y a un prix d'ami ?"
 "401","(촀\0Méga merciii !"
-"402","(""촀\02\0n\0, quand j'aurai un
-autre besoin urgent de clochettes,
-(촀\0
+"402","(""촀\02\0n\0, quand j'aurai un autre besoin urgent de clochettes, (촀\0
 \0c'est toi que j'irai voir en premier !"
 "403","(&촀\0Hrmm... oui, s'tu veux.
 
@@ -208,8 +206,7 @@ et c'est mon dernier mot !"
 les clochettes !"
 "407","(%촀\0Tu m'as ôté 
 \0une sacrée épine de la
-patte, n\0 !(촀\0 Profite
-bien de ton nouveau machin !"
+patte, n\0 !(촀\0 Profite bien de ton nouveau machin !"
 "408","(촀\0Pas de bol, alorsn\0\0(촀\0 Je vais aller voir
 si ça intéresse quelqu'un d'autre..."
 "409","(촀\0Aïe, 

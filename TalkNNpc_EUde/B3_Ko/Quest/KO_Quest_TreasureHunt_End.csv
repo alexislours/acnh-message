@@ -23,10 +23,8 @@ ich es für dich öffnen kann.
 "005","(6촀\0Was mag wohl der große Preis sein?"
 "006","(6촀\0Sesam, öffne dich!"
 "007","(촀\0Sieh mal einer an! 
-\02d촀Ein waschechterEine waschechteEin waschechtes
-}\0 kommt
-da zum Vorschein!
-(6촀\0Und dieses Prachtstück gehört
+\02d촀Ein waschechterEine waschechteEin waschechtes
+}\0 kommt da zum Vorschein!\0\0(6촀\0Und dieses Prachtstück gehört
 jetzt dir!"
 "008","(6촀\0Ta-daa! 
 \0Nein, deine Augen täuschen
@@ -34,12 +32,11 @@ dich nicht. 
 \0Das ist tatsächlich
 2\0}\0!
 (&촀\0Und das Beste?
-\0(촀\0 2촀ErSieEs gehört jetzt dir!
+\0(촀\0 2촀ErSieEs gehört jetzt dir!
 \0(촀"
-"009","(촀\0Sieht aus, als hättest du 2""촀
+"009","(촀\0Sieht aus, als hättest du 2""촀
 eineneineein
-2촁}\0
-ausgebuddelt!
+2촁}\0 ausgebuddelt!
 \0 Nicht schlecht!"
 "010","(촀\0Jetzt komm schon.
 \0 Für solche

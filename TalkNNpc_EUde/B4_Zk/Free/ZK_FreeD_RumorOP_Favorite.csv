@@ -3,7 +3,7 @@
 hinreißen lassen...\0\0Doch in Sachen 촀 scheint s\0촀 촀 zu bevorzugen."
 "001_01_a","Stimmt!"
 "001_01_b","(\0촀\0Echt?!"
-"001_02","(촀\0Eigentlich tratsche ich ja niemals...\0\0Doch 촀 28istististsindsindsind 21촀derdiedas 촀 von s\0촀, 
+"001_02","(촀\0Eigentlich tratsche ich ja niemals...\0\0Doch 촀 28istististsindsindsind 22촀derdiedas 촀 von s\0촀, 
 \0wusstest du das?"
 "001_02_a","Ja, wusste ich."
 "001_02_b","(\0촀\0Echt wahr?"
@@ -32,7 +32,7 @@ puncto 촀 geht, 
 "001_101_b","(\0촀\0Bist du sicher?"
 "001_102","(촀\0Niemandem liegt es ferner als mir,
 \0
-Gerüchte zu verbreiten...\0\0(6촀\0Doch zu 2 1촀seinem
+Gerüchte zu verbreiten...\0\0(6촀\0Doch zu 2 2촀seinem
 ihrem\0 촀 sagt s\0촀: 
 \0„⁠
 촀⁠“! 
@@ -41,8 +41,7 @@ ihrem\0 촀 sagt s\0촀: 
 "001_102_b","(\0촀\0Sieh einer an."
 "001_103","(:촀\0Erzähle es nicht weiter, 
 \0aber nach
-2 
-촀seinem
+2 촀seinem
 ihrem\0 Berufswunsch gefragt, 
 \0sagt
 s\0촀 immer:
@@ -64,19 +63,15 @@ die Welt setzen zu wollen...\0\0Wenn jemand Talent in Sachen
 \0 dann s\0촀!"
 "001_105_a","Ganz richtig."
 "001_105_b","(\0촀\0Wirklich wahr?"
-"010_01","(:촀\02\0s\0촀 soll überhaupt
-keine Musik mögen. 
-\0Ich verurteile
-ja niemanden, 
-\0aber... 
+"010_01","(:촀\02\0s\0촀 soll überhaupt keine Musik mögen. 
+\0Ich verurteile ja niemanden, 
+\0abern\0\0 
 \0(촀\0seltsam, 
 \0oder?!"
 "010_01_a","Hab ich auch gehört."
 "010_01_b","(\0촀\0Das ist mal was Neues."
-"010_02","(촀\02\0s\0촀 liest wohl nicht
-gern... 
-\0Ich bin selbst nicht gerade ein
-Bücherwurm, 
+"010_02","(촀\02\0s\0촀 liest wohl nicht gern... 
+\0Ich bin selbst nicht gerade ein Bücherwurm, 
 \0doch das wundert mich."
 "010_02_a","Seltsam, oder?"
 "010_02_b","(\0촀\0Wirklich wahr?"
@@ -87,17 +82,13 @@ Lieblingscomics zu haben? 
 trifft das auf s\0촀 zu!"
 "010_03_a","Ich weiß."
 "010_03_b","(\0촀\0Das war mir neu."
-"010_04","(:촀\02\0s\0촀 soll gar keine
-Lieblingsfilme haben. 
-\0(5촀\02
-촀ErSieEs hat wohl
-noch keinen von meinen gesehen."
+"010_04","(:촀\02\0s\0촀 soll gar keine Lieblingsfilme haben. 
+\0(5촀\02촀ErSieEs hat wohl noch keinen von meinen gesehen."
 "010_04_a","Hab ich auch gehört."
 "010_04_b","(\0촀\0Was denn, wirklich?!"
 "010_05","(촀\0Den ganzen Tag ohne Fernsehen!
 \0
-(촀\0Und das nennt s\0촀
-ein Leben?!"
+(촀\0Und das nennt s\0촀 ein Leben?!"
 "010_05_a","So heißt es, ja."
 "010_05_b","(\0촀\0Sieh einer an."
 "010_06","(9촀\0Ich bin ja nicht sehr athletisch,
@@ -129,8 +120,7 @@ dass s\0촀 gar keinen Traumberuf hat?!"
 "010_10_a","Das wusste ich!"
 "010_10_b","(\0촀\0Gar keins? Na so was."
 "010_11","(:촀\02\0s\0촀 denkt wirklich,
-\0 dass 2
-촀ersieer kein besonderes Talent hat.
+\0 dass 2촀ersieer kein besonderes Talent hat.
 \0 Wie seltsam!"
 "010_11_a","Hab ich auch gehört..."
 "010_11_b","(\0촀\0Kann nicht stimmen!"
@@ -167,15 +157,15 @@ du vielleicht, 
 \0was der Traumberuf von
 s\0촀 ist?"
 "050_03_a","Aber sicher!"
-"050_03_b","(\0촀\0Tut mir leid..."
-"050_04","Nicht denken, 
+"050_03_b","Tut mir leid..."
+"050_04","(촀\0Nicht denken, 
 \0einfach antworten.
 \0
-Welches Hobby hat eigentlich
+Welches Hobby hat eigentlich($촀\0
 s\0촀, 
 \0n\0?"
 "050_04_a","Folgendes..."
-"050_04_b","(\0촀\0Das weiß ich nicht."
+"050_04_b","Das weiß ich nicht."
 "050_05","(9촀\0Mal ganz dumm gefragt...
 \0
 (&촀\0Weißt du, 
@@ -211,8 +201,7 @@ sagen, 
 \0(%촀\0dass s\0촀 ein großer Krimi-Fan ist.\0\0('촀\0Aber, 
 \0wer weiß? 
 \0(6촀\0Vielleicht sollte
-man 2
-촀ihnsie\0 lieber einmal selbst fragen,
+man 2촀ihnsie\0 lieber einmal selbst fragen,
 \0
 n\0!"
 "060_03","(촀\0Oh, 
@@ -244,8 +233,7 @@ nur s\0촀 selbst!"
 mal,
 \0 s\0촀 ist ein großer Fan von Krankenhaus-Serien.\0\0('촀\0Aber das sagt mir nur mein
 Bauchgefühl. 
-\0(6촀\0Man müsste 2
-촀ihnsie\0 wohl
+\0(6촀\0Man müsste 2촀ihnsie\0 wohl
 mal selbst fragen, 
 \0n\0!"
 "060_06","(촀\0Es ist dir also auch ein Rätsel?\0\0(
@@ -258,8 +246,7 @@ Was passt zu s\0촀?
 \0촀.\0\0('촀\0Oder doch eher 촁?
 \0
 (6촀\0Man müsste wohl mal direkt bei
-2
-촀ihmihr\0 nachfragen, 
+2촀ihmihr\0 nachfragen, 
 \0n\0!"
 "060_07","(촀\0Du weißt es auch nicht?!\0\0(
 촀\0Nun, 
@@ -288,11 +275,9 @@ Antwort weißt...\0\0(
 \0wenn ich raten müsste,
 \0
 würde ich sagen... 
-\0(%촀\0촀-2,
-촀VirtuoseVirtuosin\0!\0\0('촀\0Aber da spricht nur meine Intuition.
+\0(%촀\0촀-2,촀VirtuoseVirtuosin\0!\0\0('촀\0Aber da spricht nur meine Intuition.
 \0
-(6촀\0Man müsste 2
-촀ihnsie\0 einfach einmal selbst
+(6촀\0Man müsste 2촀ihnsie\0 einfach einmal selbst
 fragen, 
 \0n\0!"
 "060_10","(촀\0Oh, 
@@ -316,8 +301,7 @@ es vielleicht!\0\0(
 \0ich
 hätte ja gesagt, 
 \0s\0촀
-ist 2F
-촀Zauberkünstler Zauberkünstlerin\0.\0\0('촀\0Aber das ist nur so eine Idee.
+ist 2F촀Zauberkünstler Zauberkünstlerin\0.\0\0('촀\0Aber das ist nur so eine Idee.
 \0
 (6촀\0Lohnt vielleicht, 
 \0das einmal zu
@@ -337,10 +321,8 @@ nicht neidisch. 
 bisschen. 
 \0(촀\0Also gut – 
 \0SEHR neidisch!\0\0(7촀\02\0s\0촀 ist, 
-\0wie soll ich
-sagen, 
-\0die wohl spannendste Person
-auf ganz n\0."
+\0wie soll ich sagen, 
+\0die wohl spannendste Person auf ganz n\0."
 "110_01","(촀\0Oh, 
 \0wirklich? 
 \0Dann liegt dir sicher
@@ -443,8 +425,7 @@ ich davon aus, 
 \0dass du ebenfalls
 nichts für Musik übrig hast?\0\0(촀\0Es ist mir unerklärlich, 
 \0dass sich
-jemand wie s\0촀 nicht
-für 촀 begeistern kann."
+jemand wie s\0촀 nicht für 촀 begeistern kann."
 "120_01_a","Ja, nichts für mich..."
 "120_01_b","Sicher mag ich Musik!"
 "120_02","(촀\0Ich hatte also recht! 
@@ -487,8 +468,8 @@ gute, alte Fernsehen übrig?\0\0('촀\0Hm. 
 pro Nacht am Stück sehen könnte,
 \0
 würde meinem Leben etwas fehlen."
-"120_05_a","(\0촀\0Nicht so meins..."
-"120_05_b","(\0촀\0Geht mir auch so!"
+"120_05_a","(\0촀\0TV ist doof..."
+"120_05_b","(\0촀\0Ich liebe TV!"
 "120_06","(촀\0Ich wusste es! 
 \0Dann ist Sport
 sicher etwas, 
@@ -525,7 +506,7 @@ kein Leibgericht hast?\0\0(&촀\0Was ist mit 촀?
 \0
 (촀\0Ha-HA!
 \0 War ein Test. 
-\0('촀\02촀DenDieDas mag ich
+\0('촀\02촀DenDieDas mag ich
 selbst nicht besonders."
 "120_08_a","So sieht's aus."
 "120_08_b","(\0촀\0Doch, schon!"
@@ -588,8 +569,7 @@ ziehen sich an."
 \0(7촀\0Ich dachte, 
 \0ihr kennt euch
 richtig gut, 
-\0da du schließlich 2
-촀
+\0da du schließlich 2촀
 seineihre\0
 Insel besuchst..."
 "160","(:촀\0Ach so, 
@@ -614,14 +594,12 @@ zu diskutieren?"
 suchst, 
 \0wäre das mit Sicherheit ein
 guter Kandidat."
-"170_04","(촀\02\0s\0촀 beschäftigt sich gern mit 촀!\0\0(%촀\0Sprich 2
-촀ihnsie\0 einmal darauf an, 
+"170_04","(촀\02\0s\0촀 beschäftigt sich gern mit 촀!\0\0(%촀\0Sprich 2촀ihnsie\0 einmal darauf an, 
 \0und
 schon habt ihr den ganzen Abend
 lang Diskussionsstoff."
 "170_05","(9촀\02\0s\0촀 ist sehr begabt
-in(6촀\0 Sachen 촀!\0\0(%촀\0Bring doch das Thema bei 2
-촀ihmihr\0 mal
+in(6촀\0 Sachen 촀!\0\0(%촀\0Bring doch das Thema bei 2촀ihmihr\0 mal
 zur Sprache. 
 \0Einen besseren($촀\0
 Gesprächseinstieg gibt es kaum!"
@@ -639,16 +617,14 @@ ins Gespräch einfließen lassen..."
 촀“!\0\0(촀\0Ist das nicht etwas, 
 \0worüber ihr
 beide ins Gespräch kommen könntet?"
-"170_104","(촀\0Zu 2 
-촀seinem
+"170_104","(촀\0Zu 2 촀seinem
 ihrem\0 Lieblingshobby befragt
 sagt s\0촀: 
 \0„⁠
 촀⁠“!\0\0(촀\0Ein Gesprächsthema, 
 \0mit dem ihr
 Freunde fürs Leben werden könnt!"
-"170_105","(9촀\02\0s\0촀 hat ein spezielles
-Talentn\0\0
+"170_105","(9촀\02\0s\0촀 hat ein spezielles Talentn\0\0
 \0(6촀\0 „⁠
 촀⁠“!\0\0(%촀\0Sprich s\0촀 doch mal ganz ($촀\0unauffällig darauf an!"
 "180_01","(9촀\02\0s\0촀 bevorzugt nämlich kein bestimmtes Musikgenre.\0\0(5촀\0Sieh es als eine Gelegenheit,
@@ -659,20 +635,16 @@ verschiedene Genres zu beginnen..."
 Fachwissen ins Spiel... 
 \0falls du
 welches besitzt!\0\0(촀\0Vielleicht gelingt es dir ja, 
-\02
-촀ihmihr\0 ein
+\02촀ihmihr\0 ein
 neues Lieblingsbuch zu empfehlen?"
 "180_03","(9촀\02\0s\0촀 favorisiert kein besonderes Comic-Genre. 
 \0((5촀\0Zumindest hab ich das gehört.\0\0(1촀\0Vielleicht kannst du das Thema ja
 mal anschneiden, 
-\0wenn du 2
-촀ihnsie\0 das
+\0wenn du 2촀ihnsie\0 das
 nächste Mal siehst,
 \0 n\0."
-"180_04","(9촀\02\0s\0촀 hat wohl
-anscheinend keinen Lieblingsfilm.
-\0(%촀\0
-Und da kommst DU ins Spiel!\0\0Redet doch einmal über Filme! 
+"180_04","(9촀\02\0s\0촀 hat wohl anscheinend keinen Lieblingsfilm.
+\0(%촀\0 Und da kommst DU ins Spiel!\0\0Redet doch einmal über Filme! 
 \0(5촀\0Profi-
 Tipp: 
 \0Jeder Film, 
@@ -682,8 +654,7 @@ sollte ein Lieblingsfilm sein. 
 \0(촀\0Ha-HA!"
 "180_05","(9촀\02\0s\0촀 sieht nicht besonders gern fern.\0\0(촀\0Ich finde das ehrlich gesagt ein
 klein wenig seltsam, 
-\0n\0.\0\0(5촀\0Vielleicht könntest du 2
-촀ihmihr\0 ja mal
+\0n\0.\0\0(5촀\0Vielleicht könntest du 2촀ihmihr\0 ja mal
 erklären, 
 \0wie großartig MEINE
 Shows wirklich sind. 
@@ -692,23 +663,18 @@ Shows wirklich sind. 
 \0so wie es scheint.\0\0(6촀\0Ich finde das zwar äußerst
 sympathisch, 
 \0aber...\0\0()촀\0Nun ja, 
-\0vielleicht kannst du 2
-촀ihnsie\0 ja
+\0vielleicht kannst du 2촀ihnsie\0 ja
 doch noch für irgendeine Sportart
 begeistern. 
-\0(%촀\0Rede doch mal mit 2
-촀ihmihr\0."
+\0(%촀\0Rede doch mal mit 2촀ihmihr\0."
 "180_07","(9촀\0Wusstest du, 
-\0dass 2
-촀ersie\0 kein
+\0dass 2촀ersie\0 kein
 Lieblingsgetränk hat? Du solltest
-2
-촀ihmihr\0 helfen, das zu ändern.\0\0(1촀\0Was also liegt näher, 
+2촀ihmihr\0 helfen, das zu ändern.\0\0(1촀\0Was also liegt näher, 
 \0als in einer
 Lokalität eurer Wahl alle Getränke
 auf der Karte durchzuprobieren!"
-"180_08","(9촀\02
-촀ErSie\0 hat bisher noch kein Leibgericht
+"180_08","(9촀\02촀ErSie\0 hat bisher noch kein Leibgericht
 für sich entdeckt.
 \0 Für mich
 persönlich unvorstellbar!\0\0(촀\0Vielleicht sollte ich einfach ein
@@ -717,8 +683,7 @@ viel 촀 auftischen!\0\0(촀\0Wär doch gelacht, 
 \0wenn wir
 s\0촀 nicht für irgendwas begeistern könnten!"
 "180_09","(9촀\0Ich habe erfahren, 
-\0dass 2
-촀ersie\0
+\0dass 2촀ersie\0
 noch keinen Traumberuf hat!\0\0()촀\0Und, 
 \0na ja, 
 \0du kommst für mich
@@ -734,8 +699,7 @@ zusammensetzen und es mit
 촀 versuchen.\0\0(촀\0Vielleicht ist das der Anstoß für
 ganz neue Interessen!"
 "180_11","(9촀\02\0s\0촀 glaubt, 
-\0keine
-besonderen Talente zu haben.\0\0(1촀\0Was liegt also näher, 
+\0keine besonderen Talente zu haben.\0\0(1촀\0Was liegt also näher, 
 \0als sich
 gemeinsam an 촀
 zu versuchen!\0\0(촀\0So könnte manch schlummerndes

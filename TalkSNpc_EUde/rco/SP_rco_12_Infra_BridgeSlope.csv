@@ -31,8 +31,8 @@ ohne gleich Sterni-Millionär zu sein!
 \0 es kann sich stets nur
 je eine Brücke sowie ein Aufgang
 aktuell in Planung befinden.
-(촀\0Daher überleg dir brav
-\0, was wohin
+(촀\0Daher überleg dir brav,
+\0 was wohin
 soll,
 \0 und sprich mich dann einfach
 an,
@@ -195,44 +195,44 @@ Na,
 \0 so ein Bau will ja auch gut
 überlegt sein.
 \0 (촀\0Gar kein Problem!"
-"208","(
-촀\0Na so was!
+"208","(촀\0Na so was!
 \0 \08\0￿ Aufgänge stehen schon
 auf unserer Insel. 
-\0(촀\0Wir sind ja ein
+\0(7촀\0Wir sind ja ein
 richtiger Kletterpark gewordenn\0\0
-(\0촀\0Du solltest wirklich erst einen der
+(\0촀\0Du solltest wirklich einen der
 bestehenden Aufgänge \0entfernen
-\0￿und erst dann den nächsten bauen.
+
+\0(%촀\0\0￿und erst dann den nächsten bauen.
 (촀\0Das ist doch sicher kein Problem,
 \0
 oder? 
 \0Sei so gut,
 \0 ja?"
-"301","(촀\0Huch!
-\0((촀\0 Du willst etwas Gebautes
-auf der Insel entfernen?\0\0Puh, 
+"301","( 촀\0Huch!
+\0((&촀\0 Du willst etwas Gebautes
+auf der Insel entfernen?\0\0(
+촀\0Puh, 
 \0na ja.
 \0 Irgendwie verständlich.
 \0(촀\0
 Platz ist eben rar auf so einem
 gemütlichen Fleckchen Erde!
-(\0촀\0Der Abriss einer Brücke oder eines
+(9촀\0Der Abriss einer Brücke oder eines
 Aufgangs ist mit einer Gebühr von
-(촀\0Z\0 verbunden."
-"302","(
-촀\0Brücken oder Aufgänge haben wir
+Z\0 verbunden.(\0촀"
+"302","(촀\0Brücken oder Aufgänge haben wir
 auf unserer Insel derzeit keine.
 \0(촀\0
 Keine Abrissmanöver nötig!
 (:촀\0Übrigens: 
 \0Das Entfernen von
-Bauelementen kann nicht wieder
+Bauelementen kann ('촀\0nicht wieder
 rückgängig gemacht werden.
-(촀\0Ich sag's dir nur schon mal für
+(\0촀\0Ich sag's dir nur schon mal für
 die Zukunft, 
 \0damit du im Bilde bist.
-\0
+\0(촀\0
 Erst überlegen,
 \0 dann entfernen,
 \0 klar?"
@@ -331,11 +331,8 @@ also muss ich dich vertrösten,
 \0
 bis du wieder flüssig bist. 
 \0Pardon!"
-"401","(촀\0Hallo,
-\0 n\0!
-\0
-Was macht die Bauplatzsuche?
-\0(&촀\0
+"401","(촀\0Was macht die Bauplatzsuche?
+\0((&촀\0
 Darf man dir vielleicht dabei helfen?"
 "401_a","Krieg ich Tipps?"
 "401_b","Will nicht mehr bauen."

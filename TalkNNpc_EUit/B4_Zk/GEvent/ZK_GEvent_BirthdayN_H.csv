@@ -19,15 +19,15 @@ chiamanon\0\0
 non potrò fare a meno di ricordare
 il regalito di s촀.
 (촀\0E tun\0\0 c'è qualcosa che vuoi condividere con migo, n\0?"
-"004_a","Ti ho preso un regalo!"
+"004_a","(\0촁\0Ti ho preso un regalo!"
 "004_b","Veramente no..."
 "005","(5촀\0Sono così felice che siate riusciti
 tutti a venire a questa esclusiva
 celebrazione de mi vida.
 (촀\0La cattiva notizia è che non ho
 nessun regalito per voi.\0\0(4촀\0Ma spero che voi ne abbiate per me!"
-"005_a","Io ce l'ho."
-"005_b","Mi spiace..."
+"005_a","(\0촁\0Io ce l'ho."
+"005_b","(\0촁\0Mi spiace..."
 "006","(6촀\0Come vostro ospite, sono feliz
 di comunicarvi che è aperta la
 consegna dei regali.
@@ -80,7 +80,7 @@ meglio! 
 \0
 (촀\0Ah ah ah!"
 "018","(촀\0Uau!
-\0 Ma è 2\0}\0\0!\0\0(5촀\0Ce l'ho uguale 2*촀identicoidentica\0 a casa! Si
+\0 Ma è 2\0}\0\0!\0\0(5촀\0Ce l'ho uguale 2*촀identicoidentica\0 a casa! Si
 vede proprio che abbiamo gli stessi
 gustos, n\0."
 "019","(촀\0Pazzesco. 
@@ -215,9 +215,11 @@ volta volevo dirti una cosa carina."
 "058","(:촀\0Non confesserò mai la mia età,
 quindi non chiedermela.\0\0('촀\0Non che me ne vergogni.
 \0( (5촀\0È solo
-che mi piace fare il misterioso.\0\0(6촀\0È italiano! Significa ""misterioso""!
-\0(
-(촀\0Ah ah ah!"
+che voglio mantenere quell'aura
+di mistero che mi rende irresistibile.\0\0(6촀\0Lo faccio da quando sono nato,
+cioèn\0\0 (촀\0ehm, un po' di tempo fa!
+
+\0(촀\0\0KUff, mi sono salvato appena in tiempo.\0d"
 "060","(촀\0Ehmn\0\0 Non so come chiederlo,
 quindi andrò diretto al punton\0\0
 \0
@@ -324,5 +326,5 @@ ovviamente.
 (4촀\0Non voglio metterti pressione, ma
 spero che tu abbia portato un bel
 regalito per entrambin"
-"100_a","Ecco qua!"
-"100_b","Ops... mi spiace..."
+"100_a","(\0촁\0Ecco qua!"
+"100_b","(\0촁\0Ops... mi spiace..."

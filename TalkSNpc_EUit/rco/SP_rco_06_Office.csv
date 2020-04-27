@@ -1,9 +1,11 @@
 ﻿"label","text"
 "001","(촀\0Un cordiale benvenuto alla nuova
-tenda del centro servizi!\0\0(촀\0Oh! Ho forse detto ""tenda""?
-\0((촀\0 Volevo
-dire ""edificio"". Quello che abbiamo
-costruito grazie al tuo contributo!"
+tenda del \0centro servizi\0￿!\0\0(촀\0Oh! 
+\0Ho detto ""tenda""?
+\0((촀\0 Intendevo
+""edificio"", 
+\0che senza il tuo aiuto
+non avremmo potuto inaugurare!"
 "002","(촀\0Bene, bene, 
 \0come ho accennato
 촅
@@ -45,8 +47,9 @@ dimore ed edilizia.
 che riguarda la vita sull'isola(촃\0 e i
 servizi per la cittadinanza.\0\0(촀\0\0Siediti\0￿ allo sportello appropriato
 quando ti serve aiuto e saremo da te
-in un batter di coda.\0\0Anzi, siediti adesso, così possiamo
-illustrarti i \0nuovi servizi\0￿, sì, sì!"
+in un batter di coda.\0\0Inoltre, ti spiegheremo tutto quello
+che c'è da sapere sui nostri \0nuovi
+servizi\0￿, sì, sì!"
 "008_01","(8촀\0Ora che abbiamo chiarito alcuni
 particolari, voglio parlarti di una
 faccenda che richiede il tuo aiuton\0\0\0\0(촀\0Quando hai un momento,
@@ -164,7 +167,7 @@ la somma necessaria, va bene?"
 cortesissima collaborazione, 
 \0(촀\0ma vedo
 che hai già le tasche piene, sì, sì!
-(\0촀\0Devo darti un \0kit edilizio\0￿ per
+(\0촀\0Devo darti un \0kit abitativo\0￿ per
 delimitare un terreno, 
 \0ma dovremo
 riparlarne(촀\0 quando avrai spazion"
@@ -189,7 +192,7 @@ terreni che hai delimitato con fatica!"
 "208","(촀\0Sì, sìn\0\0 
 \0((촀\0Ma 
 \0(tu possiedi già un (&촀\0\0kit
-edilizio\0￿, vero?\0\0(촀\0Perché per noiosissime ragioni
+abitativo\0￿, vero?\0\0(촀\0Perché per noiosissime ragioni
 burocratiche,
 \0(촀\0 posso dartene solo
 uno alla volta.

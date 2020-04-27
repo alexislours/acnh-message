@@ -3,9 +3,9 @@
 un servicio multimedia de Nook Inc."
 "001_02","Se necesita tener residencia oficial
 en n\0 para usar este servicio."
-"001_03","Este servicio solo está disponible
-para residentes registrados
-en \0n\0\0￿."
+"001_03","Solo los residentes registrados
+de n\0 pueden usar
+este servicio."
 "002","Elige una opción:"
 "002_01","Elige una opción:"
 "002_01_a","TeleNook"
@@ -140,8 +140,8 @@ de millas Nook:\0￿"
 "102_02","\0\0Un saludo de año nuevo de parte
 del Programa de millas Nook:\0￿"
 "103_01","\0\0Lamentamos que la terminal Nook no
-haya estado disponible ayer debido
-a la construcción del nuevo edificio.\0￿"
+haya estado disponible ayer debido a
+la construcción del nuevo edificio.\0￿"
 "103_02","\0\0¡Feliz año nuevo!\0\0Lamentamos que la terminal Nook no
 haya estado disponible ayer debido
 al cierre de la oficina por el festejo.\0￿"
@@ -157,9 +157,9 @@ de millas Nook.\0￿"
 "106_02","\0\0Esperamos que durante el nuevo año
 sigas usando este servicio
 y el Programa de millas Nook.\0￿"
-"501","Esta función te permite invitar
-a personajes de campamento con los
-\0amiibo de la serie Animal Crossing\0￿."
+"501","Esta función te permite usar \0amiibo
+de personajes de Animal Crossing\0￿
+e invitarlos a venir de campamento."
 "512","¿Quieres usar un amiibo para invitar
 a un personaje a venir de campamento?"
 "512_a","¡Sí!"
@@ -201,6 +201,14 @@ a la \0zona de campamento\0￿."
 ¿Quieres dejar de usar este servicio?"
 "529_a","Cancelar"
 "529_b","Volver a leer"
+"530","¡Es el amiibo de s촀!
+\0(
+¿Quieres invitarl2oa a que
+venga de campamento?"
+"530_a","¡Sí!"
+"530_b","Mejor no"
+"531","Parece que no es posible hablar
+con s촀 ahora mismo."
 "541","Solo es posible invitar a la \0zona de
 campamento\0￿ a un personaje al día.
 Vuelve a intentarlo mañana."
@@ -216,18 +224,19 @@ las puertas estén cerradas."
 un amiibo con la comunicación
 inalámbrica activada.
 Desactívala desde el mostrador
-del aeródromo y vuelve a intentarlo."
+del \0aeródromo\0￿ y vuelve a intentarlo."
 "544","No es posible usar un amiibo
 con la consola en modo avión.\0\0\0Mantén oprimido  \0￿para acceder a
 la configuración de acceso rápido
 y desactiva el modo avión."
-"545","Este amiibo no es compatible.
-Usa un \0amiibo \0￿de la \0serie
-Animal Crossing\0￿."
+"545","Este amiibo no es compatible.
+\0
+Solo es posible usar \0amiibo de
+personajes de Animal Crossing\0￿."
 "546","Esto no es un amiibon\0\0
 \0
-Usa un \0amiibo \0￿de la \0serie
-Animal Crossing\0￿."
+Solo es posible usar \0amiibo de
+personajes de Animal Crossing\0￿."
 "547","No es posible escanear amiibo
 con este control.\0\0Usa un control que sea compatible.
 \0El control Pro no puede escanear

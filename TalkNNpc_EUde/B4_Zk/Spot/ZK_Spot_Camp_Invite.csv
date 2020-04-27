@@ -10,6 +10,18 @@ würdest,
 und fragen nach,
 \0(6촀\0 ob diese Insel
 noch einen Promi vertragen kann!"
+"003","(&촀\0Dun\0\0 bist mir nicht böse?
+\0 (4촀\0Obwohl ich
+erst abgelehnt hatte und...\0\0(2촀\0Oder du hast es einfach vergessen.
+\0
+Umso besser, 
+\0dann lassen wir die
+Vergangenheit mal lieber ruhen.
+(촀\0Genau.
+\0 Legen wir los.\0\0Ich könnte einen Tapetenwechsel vertragen,(촀\0
+\0 und diese Insel braucht
+dringend modischen Sachverstand.
+(촀\0Wünsch mir im \0Servicecenter \0￿Glück."
 "101","<"
 "101_01","(촀\0Ohn\0\0
 \0 Jetzt bringst du mich wirklich
@@ -20,7 +32,7 @@ in die Bredouille,
 Meine Crew,
 \0 mein Agent,
 \0 die Fans
-2.촀meinesmeinermeines 2촃촀n\0\0
+2. 촀meinesmeinermeines 2촃촀n\0\0
 ('촀\0Die kann ich nicht hängen lassen.
 \0(
 (6촀\0Aber wenn ich mal auf Tour hier bin,
@@ -48,7 +60,7 @@ Durchbruch auch ganz kurz bevor.
 leid's mir tut, 
 \0ich muss deine
 Hoffnungen enttäuschen.
-()촀\0Ich muss erst meine Expertise 2#촀imin derim2촂 촀 an die Jugend meiner Insel weitergeben.
+()촀\0Ich muss erst meine Expertise 2$촀imin derim2촂 촀 an die Jugend meiner Insel weitergeben.
 (촀\0Was soll man machen, 
 \0Könnerschaft
 verpflichtet halt. (6촀\0Aber merci,
@@ -144,7 +156,7 @@ damit abgesagt, 
 \0n\0."
 "205","<"
 "205_01","(%촀\0Danke, 
-\0n\0.
+\0n\0.
 \0
 Das war ein bittersüßer Sieg,
 \0 aber
@@ -154,12 +166,13 @@ man nimmt, 
 \0
 Ich danke dir!\0\0(6촀\0Eine kleine Kostprobe der Freuden
 von n\0 muss mir wohl vorerst genügen."
-"205_03","(4촀\0Danke, 
-\0n\0.
+"205_03","(4촀\0Danke.
 \0 Ich gebe mir alle Mühe,
-\0 ein guter Sieger zu sein, 
+\0 ein
+guter Sieger zu sein, 
 \0n\0.
-\0((촀\0 Ja!
+\0((촀\0
+Ja!
 \0 Ja!
 \0 Ja!
 \0 Jaaaa!"
@@ -171,30 +184,29 @@ von n\0 muss mir wohl vorerst genügen."
 \0so
 was Wichtiges zu entscheiden.
 \0
-Aber es ist ja gut ausgegangen!\0\0(\0촀\0Falls ich es vergessen habe oder du
-keine Klatschpresse liest:
-\0(촀\0 Mein Name
-ist n
+Aber es ist ja gut ausgegangen!\0\0(\0촀\0Also noch mal ganz offiziell:
+\0(촀\0 Mein
+Name ist n
 \0,
-\0 n\0!\0\0(7촀\0Den deinen müsstest du mir
-allerdings noch einmal nennenn\0\0
-
-\0($촀\02\0n\0, 
-\0ja?
-(5촀\0Ich kann es kaum erwarten, 
+\0 n\0!\0\0(5촀\0Ich kann es kaum erwarten, 
 \0endlich
 etwas Glanz in dieses verschlafene
-Provinznest zu bringen!"
+Provinznest zu bringen!
+( 촀\0Zuvor nur noch die Formalitäten. 
+\0Ein
+paar Unterschriften im \0Servicecenter\0￿,
+
+\0und die Sache geht klar."
 "206_02","(촀\0Herzlichen Glückwunsch! 
 \0((촀\0Du hast
 den Hauptgewinn abgestaubt:
 \0
 Ich ziehe nach n	\0!\0\0(1촀\0Reichen Plakate aus oder soll ich „⁠⁠⁠n
-\0⁠“ mit Lasern an den Himmel schreiben lassen?\0\0(6촀\0In meiner Dankesrede werde ich dich
-natürlich auch lobend erwähnen,
-\0
-n\0.
-\0 2\0n\0!"
+\0⁠“ mit Lasern an den Himmel schreiben lassen?\0\0(
+촀\0Wobei ich mich vorher noch um den
+Papierkram kümmern muss.
+\0( 촀\0 Also ab
+mit mir ins \0Servicecenter\0￿."
 "206_03","(촀\0Wow, 
 \0was bist du für ein Glückspilz!
 \0(
@@ -207,12 +219,16 @@ durchziehen,
 \0 n\0!\0\0(7촀\0Also dannn\0\0
 \0 (촀\02\0n	\0,
 \0 bist du bereit für n
-\0?\0\0(%촀\0Thank you beaucoup für diesen Coup,
-\0 n\0.
+\0?\0\0(%촀\0Thank you beaucoup für diesen
+Coup.
 \0( Will sagen:
-\0 Danke very much. 
+\0 Danke very much.
+
 \0((촀\0Ha-
-\0HA!"
+\0HA!\0\0(촀\0Jetzt muss ich nur noch beim
+\0Servicecenter \0￿betteln, 
+\0dass ich auch
+wirklich umziehen darf."
 "302","(촀\0Sorryn\0\0
 \0 Schlechte Neuigkeiten!
 \0(
@@ -256,7 +272,7 @@ Bist du dir ganz sicher?"
 "305_b","Nein, jemand anderes!"
 "305_c","Einspruch!"
 "306","(9촀\0Ist so gut wie erledigt! 
-\0Ich geh gleich rüber zu s촀 und schließe einen Vergleich mit 2촀ihmihrihm.\0\0()촀\0Muss nur noch schnell den Becher 촀 holen.
+\0Ich geh gleich rüber zu s촀 und schließe einen Vergleich mit 2촀ihmihrihm.\0\0()촀\0Muss nur noch schnell den Becher 촀 holen.
 \0( (
 촀\0Oder war es 촁, 
 \0n\0?"
@@ -277,7 +293,7 @@ du wärst etwas unentschlossen.
 "
 "309","(%촀\0Ich habe mit s촀 geredet, 
 \0und wie sich herausstellte,
-\0 wollte 2촀ersie\0 sowieso wegziehen.\0\0(촀\0Ich hätte also mein zehnseitiges
+\0 wollte 2촀ersie\0 sowieso wegziehen.\0\0(촀\0Ich hätte also mein zehnseitiges
 Plädoyer gar nicht vorbereiten
 müssen,
 \0 n\0n\0\0\0\0(촀\0n\0\0Aber jetzt kann ich es dir mal bei 'nem Schluck 촀 vortragen!
@@ -304,40 +320,23 @@ die Insel zu verlassen?"
 ist halt nicht jedermanns Sache,
 \0
 n\0."
-"402","(:촀\0Ohn\0\0 Hin\0\0\0\0(8촀\0Tut mir leid,
-\0 dass du warten
-musstest.
-\0 Ich habe also mit dem
-\0Servicecenter \0￿geredet...\0\0(촀\0Große Augen haben sie gemacht:
-\0
-„Nanu?
-\0 Du wohnst doch schon hier!“\0\0(	촀\0Ist das zu fassen, 
-\0n\0?
-\0 Ein Pseudo-n
-\0 hat hinterrücks meine Pläne durchkreuzt!\0\0(촀\0Was soll's.
-\0 Jeder weiß,
-\0 dass nur ich
-das Original bin.
-\0 Und der Coolere
-gibt nach.
-\0( (촀\0Danke trotzdem!"
-"403","(:촀\0Ohn\0\0 Hin\0\0\0\0(8촀\0Tut mir leid,
-\0 dass du warten
-musstest.
-\0 Ich habe also mit dem
-\0Servicecenter \0￿geredet...\0\0(촀\0Große Augen haben sie gemacht:
-\0
-„Nanu?
-\0 Du warst doch schon hier,
-\0
-weil du heute einziehst!“\0\0(	촀\0Ist das zu fassen, 
-\0n\0?
-Mein finsterer Doppelgänger ist mir
-um Haaresbreite zuvorgekommen!\0\0(3촀\0Egal.
-\0 Ich ziehe mich in mein
-Hauptquartier zurück und plane
-meine Revanche.
-\0( (촀\0Danke trotzdem!"
+"313","(촀\0Magnifique!
+\0(4촀\0 Dürfte ich das wohl
+eingehend mit s촀 erörtern?\0\0(3촀\0Meine Quelle im \0Servicecenter
+\0￿flüstert mir,
+\0 dass 2ersie für einen
+Vorschlag von mir offen wäre."
+"313_a","Und ab dafür!"
+"313_b","Augenblick mal..."
+"314","(촀\0Oh weh.
+\0 Habe ich mich etwa im Ton
+vergriffen?\0\0(촀\0Lassen wir den Plan zunächst einmal
+lieber ruhen,
+\0 n\0.\0\0(촀\0Ich kann nicht verantworten,
+\0 dass du
+von Zweifeln geplagt nur widerwillig
+mitmachst,
+\0 n\0."
 "404","(:촀\0Ohn\0\0 Hin\0\0\0\0(8촀\0Tut mir leid,
 \0 dass du warten
 musstest.
@@ -345,17 +344,6 @@ musstest.
 \0Servicecenter \0￿geredet...\0\0(촀\0Die Insel ist voll!
 \0 Nicht mal für
 Promis wie mich ist noch Platz!\0\0(촀\0Wie schade für n	\0.
-\0( (촀\0Aber mach dir keine Vorwürfe.
-\0 Du hast alles versucht, 
-\0n\0!"
-"405","(:촀\0Ohn\0\0 Hin\0\0\0\0(8촀\0Tut mir leid,
-\0 dass du warten
-musstest.
-\0 Ich habe also mit dem
-\0Servicecenter \0￿geredet...\0\0(촀\0Die Insel ist proppenvoll!
-\0 Kein Platz
-mehr für eine bescheidene Villa
-mit Golfplatz und Swimmingpool!\0\0(촀\0Wie schade für n	\0.
 \0( (촀\0Aber mach dir keine Vorwürfe.
 \0 Du hast alles versucht, 
 \0n\0!"
@@ -382,28 +370,6 @@ aussichtslos ist. 
 \0((%촀\0Das Leben ist halt
 nicht nur Ponyhof, 
 \0n\0!"
-"421","(촀\0Ich kann nicht glauben, 
-\0dass ein n
-\0-Imitator auf n	\0 wohnt...\0\0(&촀\0Was wohl passiert,
-\0 wenn ich ihn beim n
-\0-Lookalike-Contest herausfordere?\0\0(촀\0Oje,
-\0 welche Blamage!
-\0 Das wäre zu
-gemein von mir.
-\0( Ich lass es lieber,
-\0
-n\0."
-"422","(촀\0Ich kann kaum glauben, 
-\0dass ein
-Doppelgänger statt mir nach
-n	\0 ziehen wird...\0\0(&촀\0Ob er wohl auch versucht,
-\0 2(촀meinen
-meinemein 2>촀berühmtenberühmteberühmtes 촀 zu imitieren,
-\0 n\0?\0\0(촀\0Es wird wohl das Beste sein,
-\0 wenn
-wir nicht gleichzeitig auf derselben
-Insel wohnen!
-\0 Das gibt nur Stress!"
 "423","(촀\0Unglaublich, 
 \0dass deine Insel so
 überfüllt ist, 
@@ -416,19 +382,6 @@ wie ICH abgewiesen werden...\0\0('촀\0Wer nicht will,
 \0 Ich MUSS einfach
 hierherziehen,
 \0 n\0!"
-"424","(촀\0Nimm's mir nicht übel, 
-\0aber deine
-Insel ist mir im Moment etwas ZU
-populär, 
-\0n\0.\0\0(5촀\0Ich bin mehr Trendsetter als jemand,
-\0
-der dem Trend nur folgt. 
-\0Von daher
-ist es vielleicht ganz gut so.\0\0(촀\0Ach, 
-\0wem mache ich hier etwas vor.
-\0
-(촀\0NIRGENDS WÜRDE ICH LIEBER
-HINZIEHEN!"
 "504","($촀\0Echt relaxtes Ambiente auf dieser
 Insel... 
 \0((1촀\0Hier lässt's sich sicher ganz

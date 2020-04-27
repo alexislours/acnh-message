@@ -44,9 +44,7 @@ bien longtempsn\0\0(""촀\0 Je suis contente
 d'avoir pu faire ta connaissance."
 "006","(촀\0Je me doutais que c'était toi,
 n\0 !
-\0 (""촀\0Je suis
-contente de te revoir, n\0.
-(%촀\0Oui, comme tu peux le constatern\0\0
+\0 (""촀\0Je suis contente de te revoir, n\0.\0\0(%촀\0Oui, comme tu peux le constatern\0\0
 Je suis en plein déménagement.\0\0(
 촀\0Il faut juste que je trouve un
 endroit où emménagern\0\0
@@ -105,9 +103,7 @@ savoir que je connais quelqu'un."
 "105","(%촀\0Je vais partir m'installer sur une île
 du nom 2
 de d'⁠s촀. 
-\0(&촀\0En
-as-tu entendu parler ?
-(촀\0Si un jour tu es de passage,
+\0(&촀\0En as-tu entendu parler ?\0\0(촀\0Si un jour tu es de passage,
 j'espère que tu viendras me voir."
 "106","(촀\0J'avais oublié à quel point les
 déménagements pouvaient être
@@ -179,37 +175,9 @@ remercierai jamais assez !
 ($촀\0Et je compte sur toi pour venir me
 rendre visite une fois que j'aurai fini
 d'emménager !"
-"206","(""촀\0Merci de m'avoir attendue,
-n\0. 
-\0(촀\0J'ai appelé le
-\0bureau des résidents\0￿, j'ai des infosn\0\0
-(촀\0C'est une catastrophe.
-\0 Tu ne
-devineras jamais.
-\0(촀\0 Ma cousine
-habite à n	\0 !\0\0(촀\0Déjà qu'on se ressemble comme deux
-gouttes d'eau et qu'on porte le
-même nomn\0\0
-('촀\0Je suis désolée, mais je ne peux pas,
-en plus, habiter au même endroit."
-"207","(""촀\0Merci de m'avoir attendue,
-n\0. 
-\0(촀\0J'ai appelé le
-\0bureau des résidents\0￿, j'ai des infosn\0\0
-(촀\0C'est une catastrophe.
-\0 Tu ne
-devineras jamais.
-\0(촀\0 Ma cousine va
-emménager à n	\0 !\0\0(촀\0Déjà qu'on se ressemble comme deux
-gouttes d'eau et qu'on porte le
-même nomn\0\0
-('촀\0Je suis désolée, mais je ne peux pas,
-en plus, habiter au même endroit."
 "208","(""촀\0Merci de m'avoir attendue,
 n\0. 
-\0(촀\0J'ai appelé le
-\0bureau des résidents\0￿, j'ai des infosn\0\0
-(9촀\0Tous les emplacements sont pris.
+\0(촀\0J'ai appelé le \0bureau des résidents\0￿, j'ai des infosn\0\0\0\0(9촀\0Tous les emplacements sont pris.
 \0
 ('촀\0Ils n'acceptent pas de nouveaux
 habitants.
@@ -220,9 +188,7 @@ la place, moi ! 
 pour l'invitation."
 "209","(""촀\0Merci de m'avoir attendue,
 n\0. 
-\0(촀\0J'ai appelé le
-\0bureau des résidents\0￿, j'ai des infosn\0\0
-(9촀\0Tous les emplacements sont pris.
+\0(촀\0J'ai appelé le \0bureau des résidents\0￿, j'ai des infosn\0\0\0\0(9촀\0Tous les emplacements sont pris.
 \0
 ('촀\0Il n'y a plus la moindre parcelle
 de disponible.
@@ -231,30 +197,6 @@ de disponible.
 la place, moi ! 
 \0(촀\0Merci quand même
 pour l'invitation."
-"211","Je te le dis,
-\0 n\0,
-\0 (촀\0ma cousine va m'entendre !\0\0(촀\0Enfin ça ne changera pas
-grand-chose,
-\0 elle n'a jamais été du
-genre à écouter ce qu'on lui disait.
-En tout cas,
-\0 (""촀\0merci pour ton
-invitation.
-\0(촀\0 C'était très gentil de
-ta part, n\0."
-"212","(
-촀\0Celle-là,
-\0 je te jure !
-\0 (촀\0C'est pas l'envie
-qui me manque d'aller lui exprimer
-le fond de ma pensée, n\0 !
-(촀\0Enfin, 
-\0
-ce qui est fait est fait.
-\0(
-(촀\0Et je suis heureuse que tu m'aies
-invitée,
-\0 n\0."
 "213","(1촀\0C'est fou que ton île ait pu atteindre
 sa capacité maximale, ça attise ma
 curiositén\0\0

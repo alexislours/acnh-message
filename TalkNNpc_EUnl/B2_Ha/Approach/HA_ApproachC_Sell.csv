@@ -20,12 +20,12 @@ heb ik er bijvoorbeeld al vier van.
 \0
 ($촀\0Kun je mij uit de brand helpen?"
 "003_a","(\0촁\0Laat maar eens zien."
-"003_b","(\0촁\0Sorry, nee."
+"003_b","Sorry, nee."
 "004","( 촀\0Zeg, 
 \0n\0,
-\0( (촀\0laatst heb ik 2\0}\0\0 gekochtn\0\0\0\0(촀\0Maar 20촀hij ishet isze zijn toch niet echt iets voor
+\0( (촀\0laatst heb ik 2\0}\0\0 gekochtn\0\0\0\0(촀\0Maar 20촀hij ishet isze zijn toch niet echt iets voor
 mij.
-\0( (&촀\0Voor een leuke prijs 20촀is hijis hetzijn ze van
+\0( (&촀\0Voor een leuke prijs 20촀is hijis hetzijn ze van
 jou, n\0."
 "004_a","(\0촁\0Waaraan dacht je?"
 "004_b","Geen interesse."
@@ -56,10 +56,10 @@ lui dan moe geweest, n\0?\0\0(""촀\0Nou ja, 
 \0 Wat dacht je van
 Z?"
 "100_a","Verkocht!"
-"100_b","Een beetje prijzig."
+"100_b","(\0촁\0Een beetje prijzig."
 "101","(촀\0Jaaaa! 
 \0GOAL!"
-"102","(%촀\0Alsjeblieft, het 2촀isiszijn nu jouw
+"102","(%촀\0Alsjeblieft, het 2촀isiszijn nu jouw
 \0 2촃}\0\0!
 \0 (촀\02\0n\0!"
 "103","(촀\0Vind je? Tjan\0\0 
@@ -101,7 +101,7 @@ verandert, n\0."
 \0(&촀\0Wat dacht je dan van
 Z?"
 "205_a","Daar kan ik mee leven."
-"205_b","Dat kan goedkoper."
+"205_b","(\0촁\0Dat kan goedkoper."
 "206","(촀\0Het spijt me, maar lager kan ik niet
 gaan!"
 "207","(6촀\0Haha! Je hebt duidelijk stalen
@@ -130,7 +130,7 @@ zal me goed van pas komen!
 2\0n\0!"
 "303","(촀\0Wat een misser! 
 \0((9촀\0Vind je dan dat mijn 2촃}\0\0
-\0 (&촀\0Z waard 2촀isiszijn?"
+\0 (&촀\0Z waard 2촀isiszijn?"
 "303_a","Ja!"
 "303_b","Nee."
 "304","(촀\0Nog steeds te veel, hè?
@@ -139,7 +139,7 @@ zal me goed van pas komen!
 \0 voor Z van jou?
 \0( (&촀\0Deal?"
 "304_a","Deal!"
-"304_b","(\0촁\0Geen deal."
+"304_b","Geen deal."
 "305","(촀\0Dat ook niet?
 \0< (9촀\0Nou, ik doe nog één
 laatste aanbod, en dat is het dan.\0\0(\0촀\0Mijn 2촃}\0\0 voor Z
@@ -171,7 +171,7 @@ Is dat cool?"
 strijdlustig type, merk ik. Wat dacht
 je dan van Z?"
 "404_a","Ik ben akkoord!"
-"404_b","Lager, lager!"
+"404_b","(\0촁\0Lager, lager!"
 "405","(촀\0Serieus?!
 \0< (:촀\0Oké, ben je klaar voor het
 aanbod van de eeuw?

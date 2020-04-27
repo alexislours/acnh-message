@@ -9,7 +9,7 @@ n'importe quoi. 
 \0(촀\0 Mais j'ai cherché ce
 trésor toute ma vie, n\0!"
 "002","(&촀\0Dis-moi, t'aurais pas, par hasard,
-2\0}\0\0 qui traîne quelque part?\0\0(촀\0T'en as 2촀unune\0?
+2\0}\0\0 qui traîne quelque part?\0\0(촀\0T'en as 2촀unune\0?
 \0 (촀\0Quelle coïncidence,
 quelle surprise!
 \0 Quel n\0!"
@@ -20,9 +20,9 @@ sur l'objet de mes convoitisesn\0\0
 \0(촀\0J'erre comme une âme en peine parce que j'ai pas 2
 de d'⁠}\0\0.\0\0(촀\0Qu'est-ce que tu dis?
 \0 Tu en as
-2촀unune\0? 
+2촀unune\0? 
 \0(촀\0À quel prix cassé tu acceptes
-de me 2촀lela\0 céder?"
+de me 2촀lela\0 céder?"
 "003_a","(\0촁\0Combien tu donnes?
 (\0촁\0Dis-moi ton prix."
 "003_b","C'est pas à vendre.
@@ -30,10 +30,10 @@ Je vends pas."
 "004","(촀\0Je dois me rendre à l'évidencen\0\0
 Jamais, je n'aurai la joie de trouver
 2\0}\0\0.
-(촀\0Tun\0\0 Tu dis que tu en as 2촀unune\0?
+(촀\0Tun\0\0 Tu dis que tu en as 2촀unune\0?
 2\0n\0!\0\0(8촀\0Un instant, il faut que je prenne une
 grande respiration pour me calmern\0\0
-Aaahhn\0\0 Aaahhn\0\0(촀\0 VENDS-2촀LELA\0-MOI!"
+Aaahhn\0\0 Aaahhn\0\0(촀\0 VENDS-2촀LELA\0-MOI!"
 "004_a","(\0촁\0Combien tu donnes?
 (\0촁\0Dis-moi ton prix."
 "004_b","C'est pas à vendre.
@@ -61,14 +61,14 @@ dirais de Z?"
 "101_a","Ça me va!
 Ça marche."
 "101_b","C'est pas assez.
-J'en veux plus."
+(\0촀\0J'en veux plus."
 "102","(촀\0C'est vrai?
 \0 Marché conclu?
 \0
 (촀\0Voilà une affaire rondement menée!"
 "103","(촀\0Entendu
 \0. Ainsi se poursuit mon
-éternelle quête 2촀du
+éternelle quête 2촀du
 de la\0 légendaire
 }\0\0n"
 "104","(촀\02\0n\0!
@@ -91,7 +91,7 @@ Pas vrai?
 \0(1촀\0C'est le plus grand de mes
 désirs et le leitmotiv de mes rêves :
 \0
-2촀unune\0 }\0\0n"
+2촀unune\0 }\0\0n"
 "107_a","(\0촁\0OK, combien?"
 "107_b","(\0촁\0C'est moche."
 "108","('촀\0Te fais pas de souci pour moi.
@@ -130,7 +130,7 @@ Ce que mon porte-clochettes peut
 offrir de mieuxn\0\0(&촀\0 Z?"
 "114_a","Vendu!"
 "114_b","C'est pas assez."
-"115","(촀\0Enfin! J'en ai 2촀unune\0 à moi!
+"115","(촀\0Enfin! J'en ai 2촀unune\0 à moi!
 \0
 2\02\0}\0\0!"
 "116","(촀\0Bon, je vais pas te mentir.
@@ -147,8 +147,8 @@ tes deux oreilles! 
 retiens avant tout, c'est que tu as
 2\0}\0\0."
 "200","(8촀\0Y a-t-il une minuscule chance que
-tu acceptes de me vendre t2촀ona\0
-2 촀
+tu acceptes de me vendre t2촀ona\0
+2 촀
 petitpetite\0 }\0\0?"
 "200_a","(\0촁\0Combien?
 (\0촁\0Combien tu donnes?"
@@ -170,7 +170,7 @@ Hélas, non..."
 \0(촀\0Tope là!"
 "204","(촀\0Entendu
 \0. Ainsi se poursuit mon
-éternelle quête 2촀du
+éternelle quête 2촀du
 de la\0 légendaire
 }\0\0n"
 "205","(%촀\0Merci!
@@ -192,9 +192,7 @@ blagounetten\0\0 (촀\0C'est capotant!
 \0
 Bien joué, n\0."
 "303","(%촀\0Merci encore, n\0! 
-\0(촀\0Et
-aussi de la part de mes descendants
-qui vibreront en écoutant ce récit."
+\0(촀\0Et aussi de la part de mes descendants qui vibreront en écoutant ce récit."
 "304","(9촀\0Mon pauvre porte-clochettesn\0\0
 Je vais piocher sans comptern\0\0(5촀\0
 J'en propose Z!"
@@ -219,7 +217,7 @@ sauront-elles te convaincre?"
 "400_a","Oh oui!"
 "400_b","Pas vraiment, non."
 "401","(촀\0C'est vrai? (9촀\0Ainsi s'achève
-la quête éternelle 2촀du
+la quête éternelle 2촀du
 de la\0 légendaire
 }\0\0n"
 "402","(촀\0Je suis pas content, mais j'admire

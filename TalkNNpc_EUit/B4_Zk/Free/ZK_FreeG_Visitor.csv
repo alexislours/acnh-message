@@ -8,7 +8,7 @@ di quest'isola, n\0?"
 "001_b","No, dimmi di più..."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(6촀\0Lo immaginavon\0\0
 \0 Tu hai la faccia di
 chi non si fa scappare un prodotto
@@ -64,10 +64,12 @@ dedicata alla meraviglia supreman\0\0
 (!촀\0
 \0L'ala n
 \0!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(%촀\0Indovina chi è el rey della cultura
 e del sapere che ti raccomanda
 il nostro \0museo\0￿?
@@ -85,36 +87,37 @@ gorgheggi da paura!"
 Questo pesce ha più classe del 90%
 dei bizampe che conosco!"
 "029","(촀\0Poco fa al \0museo \0￿ho visto 2\0
- che mi ha fatto un'impressione assurda.\0\0(+촀\0Insomma, ero io a osservarl2(촀oa\0n\0\0 o era il contrario, n\0?!"
+ che mi ha fatto un'impressione assurda.\0\0(+촀\0Insomma, ero io a osservarl2)촀oa\0n\0\0 o era il contrario, n\0?!"
 "030","(&촀\0Dimmi, hai già visto l'esemplare di 
  esposto al \0museo\0￿, n\0?\0\0(%촀\0È da paura poter ammirare da vicino
 lo scheletro di una creatura vissuta
 milioni di anni fan\0\0
 (1촀\0Mi chiedo se un giorno anche le mie
 ossa saranno esposte cosìn"
-"101","<\0fj"
-"102","(4촀\0Hola, 
+"201","<\0ÊÎ"
+"202","(4촀\0Hola, 
 \0avrei una domanda seria
 da fartin\0\0\0\0(&촀\0Ti è mai capitato di pensare a me
-dopo che te ne sei andat2oa da qui?"
-"102_a","Naturalmente!"
-"102_b","Francamente, no."
-"102_c","Ti sono mancat2oa?"
-"103","(6촀\0Ohn\0\0 Anche per me è così!
+dopo che me ne sono andato?"
+"202_a","Naturalmente!"
+"202_b","Francamente, no."
+"202_c","Ti sono mancat2oa?"
+"203","(6촀\0Ohn\0\0 Anche per me è così!
 \0 Ma per
 tua suerte,
 \0 puoi sempre farmi visita
 quando vuoi, n\0!"
-"104","(촀\0Ti ringrazio dell'onestà. 
+"204","(촀\0Ti ringrazio dell'onestà. 
 \0(5촀\0Se voglio
 farmi un nome da queste parti,
 \0 è
 bene capire cosa pensa la gente.
-(%촀\0Da parte mia, ti auguro il meglio
-nella tua nuova isola. 
-\0Fai vedere
-a tutti di che pasta sei fatt2oa!"
-"105","(촀\0Ehi, te l'ho chiesto prima io!
+( 촀\0E credo tu non potessi fare altro che
+trovare un modo 
+\0(촀\0per riempire il vuoto
+da me lasciato, 
+\0anche se muy dificil."
+"205","(촀\0Ehi, te l'ho chiesto prima io!
 \0 Bueno,
 non posso resistere a uno sguardo
 simile, quindi ti risponderòn\0\0
@@ -125,10 +128,10 @@ pensare spesso a noi.
 (6촀\0Bueno, magari ora è meglio cambiare
 argomento o finisce che ti sciogli in
 lagrimas, n\0."
-"106","(촀\0Ehi, hai sentito dell'ultima moda
+"206","(촀\0Ehi, hai sentito dell'ultima moda
 che ha preso zampa qui sull'isola?"
-"107","<lmno"
-"108","(촀\0Parlo della pesca nell'oceano!\0\0(%촀\0Bueno, in realtà è sempre stata
+"207","<ÐÑÒÓ"
+"208","(촀\0Parlo della pesca nell'oceano!\0\0(%촀\0Bueno, in realtà è sempre stata
 più o meno alla moda,
 \0 ma ora è
 più in voga che mai!
@@ -136,7 +139,7 @@ più in voga che mai!
 e la zampa tremante di emozione
 mentre avvolgi il mulinellon\0\0
 (촀\0Non c'è nada di meglio!"
-"109","(촀\0Mi riferisco alla cattura di insetti!\0\0()촀\0Sì, buenon\0\0 Questa cosa la fanno da
+"209","(촀\0Mi riferisco alla cattura di insetti!\0\0()촀\0Sì, buenon\0\0 Questa cosa la fanno da
 millenni, 
 \0ma tu hai visto che razza di
 insetti da paura girano adesso?
@@ -144,7 +147,7 @@ insetti da paura girano adesso?
 un sigillo di qualità,
 \0 per quanto
 sono pieni di stile!"
-"110","(촀\0Intendo quella di scavare buche, n\0!\0\0()촀\0OK, 
+"210","(촀\0Intendo quella di scavare buche, n\0!\0\0()촀\0OK, 
 \0so già a cosa stai pensandon\0\0
 Perché sporcare di brutto i miei
 jeans attillati all'ultimo grido?
@@ -153,7 +156,7 @@ jeans attillati all'ultimo grido?
 il paesaggio dell'isola da zero.\0\0(6촀\0Mettere la mia creatività al servizio
 del panorama per dargli il mio tocco
 personale è il mio regalo alla natura!"
-"111","(촀\0È il giardinaggio!
+"211","(촀\0È il giardinaggio!
 \0 Claro, no?\0\0()촀\0Certo, 
 \0piantare semi e far crescere
 piante non è qualcosa di nuevo che

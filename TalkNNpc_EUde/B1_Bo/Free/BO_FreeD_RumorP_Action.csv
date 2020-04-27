@@ -118,6 +118,20 @@ immer, 
 \0ein Lächeln sagt doch mehr
 also 1000 Worte, 
 \0n\0!"
+"114","(촀\02\0n\0, 
+\0ich habe gehört, 
+\0
+dass du gestern ständig verreist
+bist, n\0.\0\0(4촀\0Ich möchte auch gern auf andere
+Inseln eingeladen werden! 
+\0(촀\0Da gibt
+es Snacks, die wir hier nicht haben!"
+"115","()촀\0Am \0Flughafen \0￿sollen gestern ständig
+Besucher angekommen sein.\0\0(촀\02\0n\0 ist beliebt!
+\0
+(촀\0Vielleicht bist es aber auch
+nur du, 
+\0n\0..."
 "116","(;촀\0Ich habe gehört, 
 \0dass du gestern
 heimwerkermäßig was gebastelt hast.
@@ -229,7 +243,7 @@ Wespen gestochen worden?\0\0()촀\0Piks, 
 ('촀\0Das kann kein guter Tag
 gewesen sein, 
 \0n\0!"
-"126_02","(9촀\0Ich hab gehört, 
+"126_02","(9촀\0Alle reden darüber, 
 \0dass du gestern
 einen Wespenstich abbekommen
 hast, n\0!\0\0(촀\0Doof, 
@@ -375,9 +389,7 @@ Siehst du? 
 \0Ich kenn den ganzen Text!"
 "142","(촀\02\0n\0! 
 \0Ich hab gehört,
-\0
-dass du das Aussehen der Flagge
-am \0Servicecenter \0￿geändert hast! \0\0(촀\0Wunderbärchen! 
+\0 dass du das Aussehen der Flagge am \0Servicecenter \0￿geändert hast!\0\0(촀\0Wunderbärchen! 
 \0Sie gefällt mir jetzt
 so gut, 
 \0dass ich ein richtig warmes
@@ -436,8 +448,8 @@ da reinspringen, 
 seinn\0\0 wenn man Feuerwehr
 spielen will, 
 \0n\0!"
-"149","(촀\0Du hast seit gestern eine neue
-Frisur, 
+"149","(촀\0Irgendwas an deinen Haaren ist
+anders, 
 \0stimmt's, 
 \0n\0?\0\0(""촀\0Ich würde meine Frisur auch gern
 ändern, 
@@ -446,12 +458,9 @@ Frisur, 
 Es ist zum Haare raufen!"
 "150","2\0n\0!
 \0( (
-촀\0Auf der Insel
-erzählen sich alle, 
-\0wie verwandelt
-du aussiehst, 
-\0n\0!
-(%촀\0Solang du immer gleich riechst,
+촀\0Auf der Insel erzählen sich alle, 
+\0wie verwandelt du aussiehst, 
+\0n\0!\0\0(%촀\0Solang du immer gleich riechst,
 \0
 werde ich dich aber immer
 erkennen, 

@@ -99,22 +99,23 @@ son muy prácticas para subir laderas."
 "203_b","Mejor me lo pienso..."
 "204","(촀\0¡Excelente!
 \0 (촀\0Ahora hay que decidir
-dónde construirla.\0\0(촀\0Usa la \0kit de rampa \0￿que te he dejado
+dónde construirla.\0\0(촀\0Usa el \0kit de rampa \0￿que te he dejado
 en los bolsillos para reservarle
 el terreno necesario."
-"205","(\0촀\0Para usarla necesitas un espacio
+"205","(\0촀\0Para usarlo necesitas un espacio
 amplio que esté cerca de la \0base
 de una elevación\0￿.
 (촀\0También podrás ver cómo quedará
 tu nueva rampa de acceso, ¿sí?"
-"206","(촀\0¡Estupenn\0\0!
-\0 (&촀\0O quizá no tanto.
+"206","(촀\0¡Estupenn\0\0
+\0!
+\0 (&촀\0O quizá no tanto.
 \0
-(촀\0Ahora mismo no tienes más espacio
+(촀\0Ahora mismo no tienes espacio
 en los bolsillos, n\0.
-(촀\0Necesitas una \0señal de rampa en
-obras\0￿ para reservarle un terreno
-a la nueva rampa de acceso.
+(촀\0Necesitas un \0kit de rampa\0￿ para
+reservarle un terreno a la nueva
+rampa de acceso.
 (촀\0Sé tan amable de hacer un poco
 de hueco y luego vuelve a hablar
 conmigo, ¿sí?"
@@ -212,7 +213,7 @@ de demoliciónn\0\0
 (""촀\0Vuelve cuando hayas reunido
 los fondos necesarios, ¿sí?"
 "401","(촀\0¡Ah, n\0!
-\0 Estás buscando sitio para 2*촀el nuevola nueva\0 }\0\0, ¿sí?\0\0(&촀\0¿Y cómo puedo ayudarte?"
+\0 Estás buscando sitio para 2*촀el nuevola nueva\0 }\0\0, ¿sí?\0\0(&촀\0¿Y cómo puedo ayudarte?"
 "401_a","¿Cómo se hace eso?"
 "401_b","No quiero construir"
 "401_c","Ahora, de ninguna forma"
@@ -235,22 +236,22 @@ es accidentado, no servirá para nada.
 (촀\0Ahora ya sabes todo lo que hay
 que saber sobre la construcción
 de puentes."
-"402_01","(\0촀\0Hay unas cuantas cosas que
-debes tener en cuenta a la hora
-de encontrar el sitio adecuado.
-(촀\0Se parece mucho a plantar una
-tienda. 
-\0Voy a hablarte de la \0señal
-de rampa en obras \0￿que te di.
-()촀\0Lo que tienes que hacer es encontrar
-un sitio en la \0base de una elevación⁠\0￿n\0\0 (촀\0
-\0¡e instalarla!
-\0\0(%촀\0Con encontrar un lugar así y que
-sea espacioso, es suficiente.\0\0(촀\0Ahora ya sabes todo lo que hay
+"402_01","(\0촀\0Hay un par de cosas a tener
+en cuenta a la hora de elegir
+el sitio adecuado.
+()촀\0Necesitas encontrar un espacio
+amplio en la \0base de una elevación⁠\0￿.\0\0(촀\0Cuando hayas elegido el lugar,
+\0
+¡instala el \0kit de rampa \0￿que te di!\0\0(
+촀\0Es muy parecido a plantar una tienda
+\0
+(촀\0y en eso ya cuentas con amplia
+experiencia.
+(%촀\0Ahora ya sabes todo lo que hay
 que saber sobre la construcción
 de rampas de acceso."
 "403","(촀\0¡Qué ganas tengo de ver
-dónde estará nuestr2촀oa\0 2촀
+dónde estará nuestr2촀oa\0 2촀
 nuevo
 nueva\0 }\0\0⁠!"
 "404","(&촀\0¿Mmm?
@@ -263,7 +264,7 @@ búsqueda de un lugar apropiado para
 2\0}\0\0!"
 "501","(촀\0Ahn\0\0
 \0 ahora estamos recaudando
-fondos para construir 2,촀un nuevouna nueva\0
+fondos para construir 2,촀un nuevouna nueva\0
 }\0\0.
 Por eso no estamos aceptando
 otros asuntos, pero
@@ -273,7 +274,7 @@ en mente?"
 "501_b","Nada, nada..."
 "502","(촀\0¿Cómooo?
 \0 ¿Que quieres parar
-la construcción de nuestr2촀oa\0 nuev2촀oa\0
+la construcción de nuestr2촀oa\0 nuev2촀oa\0
 }\0\0?
 (촀\0¡Eso significa que las donaciones
 que hemos recaudado hasta ahora
@@ -292,7 +293,7 @@ está en el lugar de la obra.
 "603","(촀\0Ah, ¿quieres hablar sobre puentes
 o rampas de acceso?\0\0(%촀\0Verás, ahora mismo no aceptamos
 nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados con
-la construcción 22촀del nuevode la nueva\0
+la construcción 22촀del nuevode la nueva\0
 }\0\0.
 (촀\0Ya hemos recaudado los fondos
 necesarios para proceder y todo
@@ -301,7 +302,7 @@ estará listo mañana mismo.
 "604","(촀\0Ah, ¿quieres hablar sobre puentes
 o rampas de acceso?\0\0(%촀\0Verás, ahora mismo no aceptamos
 nuevos proyectosn\0\0\0\0()촀\0Estamos muy ocupados cancelando
-la construcción 22촀del nuevode la nueva\0
+la construcción 22촀del nuevode la nueva\0
 }\0\0.
 (촀\0Mañana mismo ya habremos
 acabado.

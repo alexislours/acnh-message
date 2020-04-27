@@ -1,7 +1,9 @@
 ﻿"label","text"
 "002_02","(촀\0We hope you'll continue shopping
 with us here at \0Nook's Cranny\0￿!
-\0((\0촀"
+\0(($촃\0
+d\0
+\0\0K...\0Cranny\0￿!\0dd"
 "002_03","( 촀\0Oops. Never mind thatn\0\0 (촀\0You were
 looking at this item."
 "051","(촀\0Welcome!
@@ -74,10 +76,10 @@ closed. You can just drop off any
 items you want to sell.
 \0((촃\0 Easy, right?
 ()촂\0We'll pay you later by sending the
-funds directly to your bank account.\0\0(\0촂\0(7촃\0Two notes, though:
-\0 We do charge a
-handling fee. And please don't put
-""hot"" items or turnips in the box.(\0촂\0(\0촃"
+funds directly to your bank account.
+And I should mention a few thingsn\0\0\0\0(\0촂\0(7촃\0There is a handling fee, and we don't
+accept turnips. And ""hot"" items will
+sell for just their regular price.(\0촂\0(\0촃"
 "061_05","n\0\0(촂\0(촃\0And I think that wraps it up!"
 "101","(촀\0Guess what, n\0n\0\0
 \0(
@@ -98,15 +100,15 @@ can begin construction right away.
 shopn\0\0(%촀\0 But we'll see you again in two
 days, right?
 \0(촀"
-"151","(촀\0Welcome to our newly renovated and
-expanded shop!\0\0(\0촀\0I'm so glad you stopped by to visit us
-($촀\0on our very first day in action!"
-"151_01","(촀\02\0n\0! Welcome!
+"151","(촀\0Welcome to our(촃\0(촀\0 newly renovated and
+expanded shop!\0\0(\0촀\0(\0촃\0I'm so glad you stopped by to visit us
+($촀\0on(촃\0 our very first day in action!"
+"151_01","(촀\02\0n\0!(촃\0 Welcome!
 \0(
 (%촀\0This is your first visit since
-we renovated, right?\0\0(\0촀\0As you can see, 
+we renovated, right?\0\0(\0촀\0(\0촃\0As you can see, 
 \0($촀\0we're operating out
-of this new space now."
+of(촃\0 this new space now."
 "152","(촀\0We hope you'll continue shopping
 with us here at \0Nook's Cranny\0￿!
 \0((\0촀"

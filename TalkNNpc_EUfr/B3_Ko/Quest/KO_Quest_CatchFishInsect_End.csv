@@ -14,7 +14,7 @@
 "004_a","C'est cadeau !
 Ça me fait plaisir."
 "004_b","En fait non.
-J'ai changé d'avis."
+(\0촀\0J'ai changé d'avis."
 "005","(촀\0Eh bien,
 \0 puisque tu insistesn\0\0(촀"
 "006","( 촀\0Oh,
@@ -86,8 +86,8 @@ tu sais ?
 vouloir t'en séparer ?"
 "024_a","C'est pour toi !
 Tiens, cadeau !"
-"024_b","Euh, en fait...
-Euh, attends..."
+"024_b","(\0촀\0Euh, en fait...
+(\0촀\0Euh, attends..."
 "025","(촀\0Puisque tu insistes,
 \0 j'accepte avec
 plaisir !
@@ -200,17 +200,17 @@ par mes propres moyens."
 "201","(4촀\0Fais-moi signe si jamais tu trouves
 2\0}촀 !\0\0(%촀\0J'en vois souvent se poser sur les
 arbres,
-\0 (8촀\0mais 2촀ils
+\0 (8촀\0mais 2촀ils
 elles\0 s'enfuient toujours
 à mon approche !"
 "202","(4촀\0Je compte sur toi pour m'attraper
 2\0}촀.\0\0(
 촀\0Je dois avoir le pas trop lourdn\0\0
-(촀\02촀Ils
+(촀\02촀Ils
 Elles\0 s'enfuient toujours avant
 que je puisse m'en approcher."
 "203","(4촀\0Je compte sur toi pour m'attraper
-2\0}촀.\0\0()촀\02촀Ils
+2\0}촀.\0\0()촀\02촀Ils
 Elles\0 volettent un peu partout sur
 l'île.
 \0( (6촀\0Ça te donnera une bonne raison
@@ -222,11 +222,11 @@ ces bestioles !
 \0(촀\0 Un peu trop
 pour moi,
 \0 même."
-"205","(4촀\0J'espère que tu pourras m'attraper 2\0}촀 sur l'une des fleurs aux alentours.\0\0()촀\02촀Ils
+"205","(4촀\0J'espère que tu pourras m'attraper 2\0}촀 sur l'une des fleurs aux alentours.\0\0()촀\02촀Ils
 Elles\0 sont parfois difficiles à repérer,
 \0
 alors ouvre l'œil."
-"206","(4촀\0Tu penses pouvoir m'attraper 2\0}촀 sur une souche d'arbre ?\0\0(%촀\02촀Ils
+"206","(4촀\0Tu penses pouvoir m'attraper 2\0}촀 sur une souche d'arbre ?\0\0(%촀\02촀Ils
 Elles\0 ont tendance à se fondre dans
 le décor,
 \0(촀\0 j'ai un peu de mal à les
@@ -255,4 +255,4 @@ embouchures des rivières."
 si tu pouvais me ramener
 2\0}촀 !\0\0(촀\0Je suis vraiment pas assez doué
 avec une canne pour pouvoir en
-remonter 2촀unune\0 tout seuln"
+remonter 2촀unune\0 tout seuln"

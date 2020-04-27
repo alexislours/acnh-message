@@ -16,10 +16,10 @@ potevo contare su di te!"
 	\0
 2\02\0}\0\0!
 (촀\0Davvero vuoi darmi questa rarità?"
-"004_a","Ecco a te!
-Tieni, è per te!"
-"004_b","Ecco, vedi, in realtà...
-Mi sono sbagliat2oa!"
+"004_a","(\0촀\0Ecco a te!
+(\0촀\0Tieni, è per te!"
+"004_b","(\0촀\0Ecco, vedi, in realtà...
+(\0촀\0Mi sono sbagliat2oa!"
 "005","(촀\0Dici sul serio?!
 \0
 (촀\0Sì! Alla stragrande!!!"
@@ -68,19 +68,19 @@ uno di quelli che si posano sui ceppi.\0\0(촀\0Grazie, n\0!"
 "022","(촀\0Evvai!
 \0 È proprio
 2\0}촀!"
-"023","(촀\0Non ci posso credere! (촀\0Che fantastic2촀oa\0 }\0\0! 
+"023","(촀\0Non ci posso credere! (촀\0Che fantastic2촀oa\0 }\0\0! 
 \0È davveron\0\0 
-\0(촀\0fantastic2촀oa\0!"
+\0(촀\0fantastic2촀oa\0!"
 "024","(촀\0Davvero?!
 \0
 	\0 Hai preso
 2\0}\0\0?!
 \0
-(촀\0MA È MAGNIFICO! Posso tenerl2촀oa\0?"
-"024_a","Ecco qua.
-Tieni, è per te!"
+(촀\0MA È MAGNIFICO! Posso tenerl2촀oa\0?"
+"024_a","(\0촀\0Ecco qua.
+(\0촀\0Tieni, è per te!"
 "024_b","Non è il pesce giusto!
-Mi sono sbagliat2oa."
+(\0촀\0Mi sono sbagliat2oa."
 "025","(촀\0Incredibile! 
 \0
 (촀\0Sei 2illa migliore!"
@@ -113,24 +113,24 @@ ma sei riuscit2oa a portare a casa
 il risultato!
 \0 (""촀\0Ti meriti un premio!"
 "041","(%촀\0Ti sei guadagnat2oa una bella
-ricompensa per avermi aiutato.\0\0Ecco, prendi quest2촀oa\0
+ricompensa per avermi aiutato.\0\0Ecco, prendi quest2촀oa\0
 }\0!\0\0(촀\0Credo che ti sarà di grande aiuto
 per l'allenamento anaerobico."
 "042","(%촀\0Ehi n\0, oggi hai
 guadagnato punti nella mia classifica
 personale.
 Come premio, voglio darti
-quest2촀oa\0 }\0!\0\0(촀\0Fanne buon uso e ti aiuterà con
+quest2촀oa\0 }\0!\0\0(촀\0Fanne buon uso e ti aiuterà con
 2\0촀!"
 "043","(%촀\0Oggi hai dato sfoggio di grande
-abilità. Prendi quest2촀oa\0
+abilità. Prendi quest2촀oa\0
 }\0!
-(촀\0Se l2촀oa\0 usi tutti i giorni, ti verranno
+(촀\0Se l2촀oa\0 usi tutti i giorni, ti verranno
 degli addominali di acciaio,
 n\0!"
 "044","(%촀\0Una mano lava l'altra! 
 \0Tieni, ti regalo
-2\0}\0!\0\0(촀\0È nuovissim2촀oa\0, non l'ho mai usat2촀oa\0!
+2\0}\0!\0\0(촀\0È nuovissim2촀oa\0, non l'ho mai usat2촀oa\0!
 
 \0Onestamente preferisco altri attrezzi
 per sviluppare la massa muscolare."
@@ -139,7 +139,7 @@ Per ringraziarti, ti regalo
 2\0}\0!"
 "046","(%촀\0Tieni! Ti regalo 2\0}\0!\0\0È il minimo che possa fare per
 sdebitarmi!\0\0(촀\0Con un po' di fantasia, magari
-riuscirai a usarl2촀oa\0 anche in palestra."
+riuscirai a usarl2촀oa\0 anche in palestra."
 "051","(촀\0Davvero, n\0?!"
 "052","(촀\0Eh? 
 \0Sul serio, n\0?!"
@@ -244,13 +244,13 @@ veloce per catturare
 2\0}촀?
 (\0촀\0E allora dimostralo! Sei o non sei
 2illa mi2oa rivale numero uno?\0\0(7촀\0Di solito svolazzano senza una meta
-precisa, quindi potresti trovarne un2촀oa\0
+precisa, quindi potresti trovarne un2촀oa\0
 quando meno te lo aspetti."
 "205","(%촀\0Forse non ti è chiaro il concetto:
 ho assolutamente bisogno di
 
 \02\0}촀!
-(7촀\0Ce ne sono tantissim2촀ie\0 in giro.
+(7촀\0Ce ne sono tantissim2촀ie\0 in giro.
 
 \0La loro attività preferita è posarsi sui fiori 
 \0e perdere tempo.
@@ -262,22 +262,22 @@ Brav2oa! \0\0(7촀\0Cercane uno, ci potresti trovare
 "207","(%촀\0Non so neanch'io bene cosa potrei
 farmene, ma vorrei tanto
 
-\02\0}촀!\0\0Forse ne puoi trovare qualcun2촀oa\0
+\02\0}촀!\0\0Forse ne puoi trovare qualcun2촀oa\0
 sulla costa, 
 \0quindi vai in spiaggia.
-E già che sei lì, fai un po' di jogging!\0\0E ovviamente non dimenticarti del2촀\0la\0
-mi2촀oa\0 }촀!"
+E già che sei lì, fai un po' di jogging!\0\0E ovviamente non dimenticarti del2촀\0la\0
+mi2촀oa\0 }촀!"
 "211","(촀\0Voglio a tutti i costi
 
 \02\0}촀.\0\0(%촀\0Vai al fiume, lancia l'amo e non
-muoverti finché non ne peschi un2촀oa\0.
+muoverti finché non ne peschi un2촀oa\0.
 (촀\0Ce la farai, non ho dubbi!"
 "212","(촀\0Sto cercando di pescare
 \0 2\0}촀!\0\0(&촀\0Ho sentito dire che questi pesci
 vivono 
 \0nei laghi. Sarà vero?"
 "213","(촀\0Cerco un pesce particolare:
-2\0}촀!\0\0(%촀\0Mi pare di averne vist2촀oa\0 un2촀oa\0 alla
+2\0}촀!\0\0(%촀\0Mi pare di averne vist2촀oa\0 un2촀oa\0 alla
 foce del fiume.
 \0 (촀\0Perché non provi
 lì, n\0?"
@@ -285,6 +285,6 @@ lì, n\0?"
 2\0}촀!\0\0(%촀\0Vivono in mare
 \0 e tu sulla terra,
 
-\0quindi pescarne un2촀oa\0 è quasi come
+\0quindi pescarne un2촀oa\0 è quasi come
 giocare una partita fuori casa.
 (촀\0Buona fortuna, n\0!"

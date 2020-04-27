@@ -2,10 +2,7 @@
 "001","<"
 "001_01","(4촀\0Tu n'as pas l'air d'être du coinn\0\0\0\0(촀\0Je m'appelle n
 \0.
-\0
-2\0n\0 ? (촀\0Ravie de faire
-ta connaissance, n\0 !
-(7촀\0Je viens tout juste d'emménager,
+\0 2\0n\0 ? (촀\0Ravie de faire ta connaissance, n\0 !\0\0(7촀\0Je viens tout juste d'emménager,
 (촀\0ce n'est pas moi qui pourrai te faire
 visiter l'île. 
 (촀\0Passe un bon séjour !"
@@ -13,18 +10,12 @@ visiter l'île.
 J'ai encore pas mal de cartons à
 vider. (%촀\0J'emménage, n\0.\0\0(촀\0Oh, mais tu n'as pas l'air d'être
 d'ici ? Moi, c'est n
-\0.
-Et toi ?\0\0(촀\02\0n\0n\0\0?
-\0 Quel joli
-nom ! (%촀\0Enchantée de faire ta
-connaissance, n\0."
-"001_03","(""촀\0Hello ! Enchantée, moi c'est
-n
+\0. Et toi ?\0\0(촀\02\0n\0n\0\0?
+\0 Quel joli nom ! (%촀\0Enchantée de faire ta connaissance, n\0."
+"001_03","(""촀\0Hello ! Enchantée, moi c'est n
 \0.
 \0 Et tu esn\0\0?\0\0(촀\0Qu'est-ce que tu dis de ma déco,
-n\0 ?(\0촀\0 (%촀\0Ces cartons
-me sortent par les yeuxn\0\0
-(7촀\0Il n'y a pas de secret, il faut juste
+n\0 ?(\0촀\0 (%촀\0Ces cartons me sortent par les yeuxn\0\0\0\0(7촀\0Il n'y a pas de secret, il faut juste
 que je me mette au travail.
 \0 (촀\0Je suis
 arrivée aujourd'huin\0\0
@@ -37,19 +28,11 @@ vu2\0e sur l'îlen\0\0 (;촀\0Tu es de passage ?\0\0(%촀\0Enchantée
 \0.\0\0(촀\0Ça me fait toujours plaisir de voir
 de nouveaux visages."
 "002_02","(촀\0On ne s'est jamais rencontré2\0es, il
-me semble ? (촀\0Je m'appelle
-n
-\0.\0\0(&촀\0Tu t'appelles n\0 ?
-(촀\0C'est un nom que j'aime
-beaucoup !
-(촀\0Tu seras 2lela bienvenu2\0e ici à chacune
-de tes visites à n\0,
-n\0 !"
-"002_03","Coucou. (촀\0Je m'appelle
-n
+me semble ? (촀\0Je m'appelle n
+\0.\0\0(&촀\0Tu t'appelles n\0 ? (촀\0C'est un nom que j'aime beaucoup !\0\0(촀\0Tu seras 2lela bienvenu2\0e ici à chacune
+de tes visites à n\0, n\0 !"
+"002_03","Coucou. (촀\0Je m'appelle n
 \0.\0\0On ne se connaît pas, ($촀\0j'en déduis
-que tu n'es pas d'ici.\0\0(촀\02\0n\0, tu dis ?
-\0
+que tu n'es pas d'ici.\0\0(촀\02\0n\0, tu dis ? 
 (촀\0J'espère que je prononce bien.\0\0(촀\0Eh bien, tu t'es fait une nouvelle
-amie à n\0,
-n\0 !"
+amie à n\0, n\0 !"

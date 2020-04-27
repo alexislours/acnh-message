@@ -6,7 +6,7 @@ de la isla?"
 "001_b","Aún no"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0¡No esperaba menos de ti,
 n\0!
 \0( (촀\0Je, je, je,
@@ -51,10 +51,12 @@ para abrir un \0museo\0￿.\0\0(
 que necesita cosas para las salas.\0\0()촀\0Estaría superbién si donaras un par
 de cosas o tres,
 \0 n\0."
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","()촀\0Hay un \0museo\0￿ hipergenial en
 n\0.\0\0(촀\0Deberías ir a verlo ya que estás
 en la isla.
@@ -64,13 +66,13 @@ así que puedes ir cuando quieras.
 (촀\0¡La cultura no toma siestas!"
 "028","(촀\0En nuestro \0museo\0￿ hay 2\0
 \0
-expuest2(촀oa\0.\0\0(%촀\0Si te interesan los peces,
+expuest2)촀oa\0.\0\0(%촀\0Si te interesan los peces,
 \0 ¡tienes
 que ir a echarle un vistazo!"
 "029","(촀\0El \0museo\0￿ tiene 2\0
 
 entre las maravillas que expone.
-(%촀\0No había visto ningun2(촀oa\0 hasta ayer.
+(%촀\0No había visto ningun2)촀oa\0 hasta ayer.
 \0
 (촀\0¡Es un insecto tan genial,
 n\0!"
@@ -80,63 +82,58 @@ entre las maravillas que expone.
 mirándolon\0\0
 \0 (촀\0¡Imagínate todo lo
 que habrá visto en tantos años!"
-"101","(촀\0Oye, n\0,
-\0 ¿qué haces
-para divertirte en tu nueva isla?"
-"101_a","Pescar"
-"101_b","Cazar insectos"
-"101_c","Jugar a las escondidas"
-"101_d","Buscar tesoros"
-"101_e","Visitar a mis amigos"
-"102","(촀\0¡¿Pescar?!
-\0(
-(촀\0¡A mí me gusta un montón!\0\0(
+"201","(촀\0Oye, n\0,
+\0 ¿qué es lo que haces últimamente en n	\0 para divertirte?"
+"201_a","Pescar"
+"201_b","Cazar insectos"
+"201_c","Jugar a las escondidas"
+"201_d","Buscar tesoros"
+"201_e","Visitar a mis amigos"
+"202","(촀\0¡Sí, la pesca!
+\0
+(촀\0A mí también me encanta.\0\0(
 촀\0¿Los peces de esta isla opinarán
-lo mismo que los de tu isla sobre eso
-de que los pesquen?
-(%촀\0Avísame si se pesca bien
-en n	\0,
-\0 ¡en una
-de esas y me mudo! "
-"103","( 촀\0¿Atrapas insectos?
-\0 Eso me encanta.
+lo mismo que los de la tuya
+sobre eso de que los pesquen?
+(%촀\0Yo creo que a lo mejor están más
+receptivos a la idea, ¿sabes?"
+"203","( 촀\0¿Cazas insectos?
+\0 Eso es galáctico.
 \0
-(%촀\0Me gusta jugar a las atrapadas
-con mis amigos insectosn\0\0
 
-\0(촀\0Aunque la mayoría tienen más de
-cuatro patas de ventaja y siempre
-pierdon\0\0
-(&촀\0¿Los insectos de tu isla juegan
-bien a las atrapadas?\0\0(%촀\0¡Porque en una de esas y me mudo
-a n	\0!"
-"104","(%촀\0¡¿Las escondidas?!
+\0(%촀\0Yo suelo jugar a correr carreras con
+mis amigos insectosn\0\0
+
+\0(촀\0Aunque todos corren rapidísimo,
+así que siempre pierdon\0\0\0\0(&촀\0¿Los insectos de tu isla corren
+carreras?
+\0(%촀\0 Si no, ¡tienes que
+enseñarles, n\0!"
+"204","(%촀\0A las escondidas,
+\0 sí, 2
+señorseñora.
 \0
-(촀\0Eso es algo que me encanta jugar.\0\0(&촀\0¿En tu isla hay muchos lugares
-para esconderse?\0\0()촀\0Una vez, jugando a las escondidas,
+(촀\0Eso suena muy divertido.\0\0()촀\0Una vez,
+\0 cuando todavía vivía en n	\0,
+\0 me escondí en un árbol y (촀\0me quedé atascado.\0\0Pero, como no quería perder,
 \0
-me quedé atorado en un árbol.\0\0(5촀\0¡Pero estaba decidido a ganar!
+(;촀\0decidí no pedir ayuda.\0\0(+촀\0No te imaginas el hambre y el frío
+que tuve, n\0n\0\0
+\0 (촀\0¡pero al final gané yo!"
+"205","(&촀\0¡¿Vas a buscar tesoros?!
 \0
-Así que no pedí ayudan\0\0\0\0(+촀\0Sí,
-\0 pasé hambre y fríon\0\0
-(촀\0¡pero al final gané yo!\0\0(%촀\0Si en n	\0 se puede
-jugar bien a las escondidas,
-\0 ¡a lo
-mejor y me mudo!"
-"105","(&촀\0¡¿Buscas tesoros?!
+(촀\0¡Ah, como si fuera una peli
+de la Tintorera Aventurera!\0\0(\0촀\0Debe ser una sensación genial
+ir por ahí cavando hoyos con la
+emoción de encontrar algo genial.
+(촀\0¡Sería como convertirse en el
+compañero de aventuras de mi
+""escuala"" cinematográfica favorita!"
+"206","(%촀\0Me gusta mucho ver a mis amigos.
 \0
-(촀\0¡Guau, como en las pelis!\0\0(\0촀\0Debe de ser muy emocionante
-ir por ahí cavando hoyos
-y encontrar cosas increíbles.
-(%촀\0Si se encuentran muchos tesoros
-en n	\0,
-\0 ¡a lo mejor
-en una de esas voy y me mudo!"
-"106","(%촀\0Es increíble ver a los amigos.
-\0
-(6촀\0¡Mis amigos organizan las fiestas
-de videojuegos más épicas!
-(\0촀\0A veces es difícil seguirle el paso
-a n촀 o a n촁n\0\0\0\0(%촀\0En fin, si en n	\0
-también les gusta pasarla bien con amigos,
-\0 ¡me gustarííía mudarme!"
+(6촀\0¡Nosotros también pasamos un
+montón de tiempo juntos por aquí!
+(%촀\0Anímate a hablar con más gente de
+la isla. 
+\0(""촀\0¡Ya verás que todos son
+igual de simpáticos que yo!"

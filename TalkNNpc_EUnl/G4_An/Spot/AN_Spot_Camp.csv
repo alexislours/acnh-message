@@ -55,21 +55,23 @@ mijn leven woon. 
 zon\0\0
 \0 knus, n\0."
 "003_02","(6촀\0Dit vakantietripje was veel leuker dan
-ik in eerste instantie dacht.\0\0(%촀\0Alles op en aan n\0 is, weet je,
-\0 supergezellig.
-\0( (촀\0Ik ben er helemaal weg van."
+ik in eerste instantie dacht.\0\0(%촀\0Alles op en aan n\0 is 
+\0gezellig, weet je.
+\0( (촀\0Ik ben er he-⁠le-⁠maal weg van."
 "003_03","(촀\0Ben jij aan het chillen? 
 \0Ik ook. 
 \0Ik leef
 het chille leven en het is te gek, n\0."
 "101","<"
-"101_01","(촀\0Hé, woon jij hier?
-\0( Toppie! ($촀\0Hoestie,
-tijdelijke 2$buurmanbuurvrouw?\0\0(%촀\0Ik was benieuwd omdat dit eiland zo
-tof is.
-\0( (촀\0Ik ben echt blij verrast, joh.\0\0()촀\0Nu zoek ik naar iemand van hier,
-zodat ik erachter kan komen of het
-hier altijd zo cool is, n\0."
+"101_01","(촀\0Hé, hoestie, tijdelijke 2$buurmanbuurvrouw?
+\0(($촀\0Woon jij hier? 
+\0Toppie!\0\0(%촀\0Ik vraag het omdat dit eiland zo tof
+is.
+\0( (촀\0Ik ben echt blij verrast, joh.\0\0(9촀\0Maar ik ben benieuwdn\0\0
+\0 Is het hier
+altijd zo cool?
+\0( (7촀\0Dat moet ik gewoon
+weten, n\0!"
 "101_02","($촀\0Hé, 
 \0tof je even te spreken.
 \0 Maar
@@ -110,8 +112,7 @@ van dit paradijsje afgeweten, n\0!"
 \02\0s\0촀 bleef maar zeggen dat dit zo'n toffe plek was.
 \0( (%촀\0En nu zie ik waarom!"
 "202_03","(%촀\0Je kent s\0촀, toch?
-\0 2
-촀HijZe\0 heeft me hier uitgenodigd, n\0.\0\0(촀\0En blij toe, joh! 
+\0 2촀HijZe\0 heeft me hier uitgenodigd, n\0.\0\0(촀\0En blij toe, joh! 
 \0Het is hier echt
 he-le-maal geweldig, n\0."
 "301","<"
@@ -188,7 +189,7 @@ overwegen om te verhuizen,
 wist gewoon nog niet waarnaartoe.\0\0(1촀\0Ik wilde een plek met uitzicht over de
 zee, 
 \0een perkje om wat bloemen te
-plantenn\0\0\0\0(촀\0Dus eh,
+plantenn\0\0\0\0(촀\0Dus, eh,
 \0 hier is he-le-maal top, n\0."
 "401_02","(6촀\0Ik kan maar beter gaan inpakken, hè?\0\0(촀\0Ja, dit wordt tof!
 \0 Een nieuw leven
@@ -262,7 +263,7 @@ hebben
 "501_02","(9촀\0Deze kampeerreisjes duren altijd veel
 te kort.
 \0( (촀\0Dan ken je iedereen een
-beetje, 
+beetje 
 \0en dan moet je weer gaan.\0\0(촀\0Echt jammer, joh.
 \0( ('촀\0Ik zou willen dat
 ik hier voor altijd kon blijven, n\0."
@@ -282,7 +283,7 @@ zo leuk als hij lijkt?"
 toffe tijd.
 \0 Ik ga maar eens mijn
 spullen inpakken.
-(%촀\0Hou je taai,
+(%촀\0Hou je taai
 \0 en tot ooit, n\0."
 "502_02","(%촀\0Dank je! 
 \0Een beetje staan kniezen

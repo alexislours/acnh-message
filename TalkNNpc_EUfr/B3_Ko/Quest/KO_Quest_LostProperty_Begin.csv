@@ -164,7 +164,7 @@ hasard ?
 \0(촀\0 J'arrive plus à retrouver
 mon sac. 
 \0Tu l'aurais pas vu ?"
-"101_a","Je vais le chercher !"
+"101_a","(\0촀\0Je vais le chercher !"
 "101_b","Pas vu, non."
 "102","(
 촀\0Où est-ce que j'ai bien pu perdre
@@ -172,8 +172,8 @@ mon sacn\0\0?
 \0 (촀\0C'est quand même
 embêtant,
 \0 cette histoiren"
-"102_a","Besoin d'aide ?"
-"102_b","Bon courage !"
+"102_a","(\0촀\0Besoin d'aide ?"
+"102_b","(\0촀\0Bon courage !"
 "103","(촀\0Hein ?
 \0 Tu proposes ton aide
 spontanément,

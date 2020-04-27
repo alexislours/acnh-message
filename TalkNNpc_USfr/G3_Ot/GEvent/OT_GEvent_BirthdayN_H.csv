@@ -5,10 +5,8 @@
 2
 passépassée pour ma fête!"
 "002","(촀\0Tiens,
-\0 mais c'est n\0
-en chair et en os. 
-\0(촀\0Je suis ravie
-de te voir!"
+\0 mais c'est n\0 en chair et en os. 
+\0(촀\0Je suis ravie de te voir!"
 "003","(""촀\0Bienvenue!
 \0 Merci beaucoup d'être
 2venu
@@ -129,7 +127,7 @@ côté :
 mes goûts!"
 "020","(촀\02\02\0}\0\0!\0\0(
 촀\0Hé mais attends une minuten\0\0
-2촀BIl m'a l'air étrangement familierHElle m'a l'air étrangement familière\0n\0\0\0\0(9촀\0Dis-moi,
+2촀BIl m'a l'air étrangement familierHElle m'a l'air étrangement familière\0n\0\0\0\0(9촀\0Dis-moi,
 \0 n\0,
 \0 où es-tu 2allé
 allée chercher l'inspiration pour composer cette tenue?"
@@ -154,7 +152,7 @@ J'aime beaucoup,
 \0 merci!"
 "024","(촀\0Quelle plaisante surprise!
 \0
-(촀\02\02\0}\0\0 est toujours 2,촀appréciéappréciée\0."
+(촀\02\02\0}\0\0 est toujours 2,촀appréciéappréciée\0."
 "025","(촀\02\02\0}\0\0!\0\0(촀\0Quel merveilleux cadeau."
 "026","(촀\0Oh,
 \0 n\0!
@@ -270,7 +268,7 @@ quelque chosen\0\0
 \0(4촀\0 comme un cadeau
 de ta part."
 "062_a","Et le voilà!"
-"062_b","C'est dommage..."
+"062_b","(\0촀\0C'est dommage..."
 "064","(&촀\0Tu t'en vas déjà?
 \0 (2촀\0Eh bien,
 \0 merci
@@ -373,11 +371,8 @@ chargé2\0e pour le retour."
 \0
 J'ai une anecdote insolite à
 te racontern\0\0\0\0(&촀\0Savais-tu 2
-que qu'⁠s촀
-et moi partageons la même date
-de fête?
-\0 (촀\0C'est fou, non?!
-(촀\0Donc,
+que qu'⁠s촀 et moi partageons la même date de fête?
+\0 (촀\0C'est fou, non?!\0\0(촀\0Donc,
 \0 on a décidé de voir les
 choses en grand et d'organiser une
 double fête!

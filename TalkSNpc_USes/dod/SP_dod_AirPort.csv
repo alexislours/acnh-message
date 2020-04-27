@@ -173,7 +173,7 @@ necesarias, claro.
 "032_b","Mejor no..."
 "035","(촀\0Así que quieres canjear tu \02\0ā촃cupón de millas Nook\0￿, ¿eh?
 \0 -촀\0¡Recibido!
-\0(\0촀"
+\02(\0촀"
 "035_01","(촀\0En ese caso,
 \0 me quedaré con
 el cupón que me había dado
@@ -241,6 +241,9 @@ con la burocracia.
 \0 (촀\0Y ahora,
 \0
 sigamosn"
+"092","(촀\0¡Recibido!\0\0(2촀\0Por cierto, te sonará repetitivo, pero
+debo informarte sobre el protocolo
+de conexiones en línea."
 "101","(&촀\0¿Quieres ir a una isla cercana con
 la \0comunicación local\0￿
 \0 o a una lejana
@@ -268,7 +271,7 @@ a la que podamos volar.
 \0 Se trata de s촀. 
 \0Peron\0\0
 \0(9촀\0 no hay cupo para más turistas."
-"105_a","Busca otra vez, porfa"
+"105_a","Prueba otra vez, porfa"
 "105_b","Lo dejamos entonces"
 "106","(
 촀\0Necesito confirmar el \0PIN Dodo™\0￿
@@ -276,9 +279,9 @@ para que la isla autorice la visita.
 \0
 ¿Puedes ingresar los cuatro dígitos?"
 "107","('촀\0Vaya,
-\0 el PIN Dodo™ es incorrecto.
+\0 el \0PIN Dodo™\0￿ es incorrecto.
 \0
-(&촀\0¿Lo ingresamos nuevamente?"
+(&촀\0¿Probamos otra vez?"
 "107_a","¡Sí, porfa!"
 "107_b","Cambié de idea"
 "108","( 촀\0Un momenton\0\0
@@ -291,10 +294,10 @@ o trabajando en algo?\0d"
 algún inconveniente.
 \0 (촀\0\0KAlguien debe de
 estar charlando o trabajando en algo, no sén\0\0\0d"
-"108_01_a","Busca otra vez, porfa"
+"108_01_a","Prueba otra vez, porfa"
 "108_01_b","¿Qué quieres decir?"
 "108_01_c","En otra ocasión"
-"108_a","Busca otra vez, porfa"
+"108_a","Prueba otra vez, porfa"
 "108_b","¿Qué quieres decir?"
 "108_c","Lo dejamos entonces"
 "109","(촀\0Muy bien,
@@ -365,7 +368,7 @@ charlando o usando el Nookófono\0￿"".
 \0(촀\0A veces la gente pierde la noción del
 tiempo cuando está en el teléfono."
 "117_02","(&촀\0¿Quieres que lo intente de nuevo?"
-"117_02_a","Busca otra vez, porfa"
+"117_02_a","Prueba otra vez, porfa"
 "117_02_b","Mejor en otra ocasión"
 "118_01","(7촀\0Bueno,
 \0 es imposible despegar
@@ -390,7 +393,7 @@ charlando o usando el Nookófono\0￿"".
 \0(촀\0A veces la gente pierde la noción del
 tiempo cuando está en el teléfono."
 "118_02","(&촀\0¿Quieres que lo intente de nuevo?"
-"118_02_a","Busca otra vez, porfa"
+"118_02_a","Prueba otra vez, porfa"
 "118_02_b","Mejor en otra ocasión"
 "120","(촀\0¡Listo!
 \0 ($촀\0Abriré las puertas."
@@ -442,6 +445,16 @@ conectarte a internet e iniciar
 el juego en línean"
 "130_a","¡Recibido!"
 "130_b","Mejor no..."
+"140","(촀\0Vaya,
+\0 hay turbulencias.
+\0
+(촀\0Ahora resulta que alguien cerró
+la puerta del otro ladon"
+"150","(&촀\0¿Quieres intentar ir a otro lugar?
+\0
+(\0촀\0Puedo volver a hacer una búsquedan"
+"150_a","A ver qué encuentras"
+"150_b","Mejor en otra ocasión"
 "200","(촀\0¡Hola de nuevo!
 \0 (&촀\0¿Querías algo?
 \0
@@ -459,6 +472,15 @@ Cambio."
 "201_c","Olvidé el PIN Dodo"
 "201_d","Quiero ir de viaje"
 "201_e","('촀\0Nada, gracias"
+"202","(촀\0¡Hola de nuevo!
+\0 (&촀\0¿Querías algo?
+\0
+Cambio."
+"202_a","Abre las puertas, porfa"
+"202_b","Terminar la sesión"
+"202_c","Olvidé el PIN Dodo"
+"202_d","Quiero ir de viaje"
+"202_e","('촀\0Nada, gracias"
 "210","(촀\0¡Hola de nuevo!
 \0 (&촀\0¿Querías algo?
 \0
@@ -474,6 +496,14 @@ Cambio."
 "211_b","Olvidé el PIN Dodo"
 "211_c","Quiero ir de viaje"
 "211_d","('촀\0Nada, gracias"
+"212","(촀\0¡Hola de nuevo!
+\0 (&촀\0¿Querías algo?
+\0
+Cambio."
+"212_a","Cierra las puertas, porfa"
+"212_b","Olvidé el PIN Dodo"
+"212_c","Quiero ir de viaje"
+"212_d","('촀\0Nada, gracias"
 "220","( 촀\0¡Ajá!
 \0(&촀\0 Entoncesn\0\0
 \0 ¿no quieres recibir
@@ -486,11 +516,21 @@ visita,
 "222","(%촀\0¿Quieres desactivar la comunicación
 inalámbrica y cerrar las puertas?\0\0(%촀\0No hay visitantes ahora mismo.
 \0
-Así que... -촀\0
-\0¡Sin ningún problema!(\0촀"
+Así quen\0\0
+\0 -촀\0
+\0¡sin ningún problema!(\0촀"
 "223","-촀\0¡Recibido!
 \0 (촀\0El PIN es ""\0n\0\0￿""."
-"251",""
+"224","-촀\0¡Recibido!
+\0 (촀\0El PIN es el siguiente:
+\0
+""\0⁠n\0⁠\0￿""."
+"251_01","(촀\0Tú mandas.
+\0 (\0촀\0Voy a desactivar
+la comunicación inalámbrica."
+"251_02","(촀\0Listo.
+\0 Espero que vuelvas a usar
+nuestros servicios muy pronto."
 "252","(%촀\0Listo.
 \0 Cuando quieras recibir visita,
 \0($촀\0
@@ -518,6 +558,18 @@ dime, (&촀\0¿qué necesitas?
 "302_a","Cierra las puertas, porfa"
 "302_b","Olvidé el PIN Dodo"
 "302_c","('촀\0Nada, gracias"
+"303","(촀\0Dime,
+\0 (&촀\0¿qué necesitas?
+\0 Cambio."
+"303_a","Abre las puertas, porfa"
+"303_b","Olvidé el PIN Dodo"
+"303_c","('촀\0Nada, gracias"
+"304","(촀\0Dime,
+\0 (&촀\0¿qué necesitas?
+\0 Cambio."
+"304_a","Cierra las puertas, porfa"
+"304_b","Olvidé el PIN Dodo"
+"304_c","('촀\0Nada, gracias"
 "305","(촀\0¡Cucú! 
 \0Así que tienes visita de otra
 isla, ¿eh?
@@ -605,11 +657,11 @@ lo dicen\0\0
 \0(촀\0Bueno, espero que
 decidas volar con Dodo Airlines en
 otra ocasión."
-"998","(촀\0
-\0¡Eh, un momentito!\0\0(촀\0Si quieres hacer uso de nuestros
-servicios postales, 
-\0antes debo
-indicarte las advertencias legales."
+"998","(촀\0¡Oh!
+\0 ¡Un momentito!\0\0(촀\0Antes de que uses nuestros
+servicios postales,
+\0 me gustaría tener
+la oportunidad de presentarmen"
 "999_01","(촀\0¡Cucú!
 \0 Bienvenid2oa al \0aeródromo\0￿ de
 n	\0,

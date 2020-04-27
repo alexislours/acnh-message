@@ -7,7 +7,7 @@
 \0((촀\0
 P\0 (촀\0
 \0\0OUH OUH ?!\0d
-"
+<"
 "002","(촀\0Oh !
 \0 Pardon !
 \0 Je suis un oiseau de
@@ -89,10 +89,10 @@ pas merveilleux, ça ?(\0촀\0 En tout cas,
 "014_c","Rien, merci."
 "015","(촀\0Alors je te souhaite une excellente
 visite. "
-"016","(촀\0Prends le temps de visiter,
+"016","(촀\0Prends le temps de visiter,
 
 \0je t'en prie..."
-"017","(.촀\0Houm ? 
+"017","(촀\0Houm ? 
 \0Ouh ! 
 \0(촀\0Je peux peut-être
 t'aider ?"
@@ -100,7 +100,7 @@ t'aider ?"
 "017_b","Expertiser des fossiles."
 "017_c","C'est quoi, ça ?"
 "017_d","Rien, merci."
-"018","(.촀\0Houm ? 
+"018","(촀\0Houm ? 
 \0Ouh ! 
 \0(촀\0Je peux peut-être
 t'aider ?"
@@ -255,7 +255,7 @@ davantage sur ce spécimen ?"
 "116_a","Oui, dis-moi tout !"
 "116_b","Non, ça ira."
 "117","(촀\0\0KAh,
-\0 j'aurais mieux fait de fermer mon bec.
+\0 j'aurais mieux fait de fermer mon grand bec.
 \0(\0d 
 (9촀\0Bien, 
 \0hum humn\0\0(\0촀"
@@ -290,7 +290,7 @@ y est !
 que nous devisions un instant sur
 2\0\0\0촀\0￿ ?"
 "126_a","Avec plaisir !"
-"126_b","Une autre fois."
+"126_b","(\0촀\0Une autre fois."
 "127","(촀\0Merveilleux ! 
 \0Formidable ! 
 \0((촀\0N'aie
@@ -324,13 +324,12 @@ dans toute sa majestueuse beauté !(\0촀\0
 \0(4촀\0
 un bref exposé à son sujet ?"
 "130_a","Et comment !"
-"130_b","Plus tard. Peut-être."
-"131","(:촀\0Si tu veux, je me ferai un plaisir de
-
-\0(4촀\0t'édifier au sujet de ce2촀\0tte\0 splendide
+"130_b","(\0촀\0Plus tard. Peut-être."
+"131","(%촀\0Si tu veux, je me ferai un plaisir de
+t'édifier au sujet de ce2촀\0tte\0 splendide
 }\0\0n"
 "131_a","Je t'en prie !"
-"131_b","J'ai beaucoup à faire..."
+"131_b","(\0촀\0J'ai beaucoup à faire..."
 "132","(촀\0À la bonne heure !
 \0(\0촀"
 "133","(9촀\0Eh bien,
@@ -404,7 +403,8 @@ que je respecte entièrement ta
 décision."
 "204","(9촀\0Bien, alorsn\0\0 Hmmn\0\0
 \0 Bonn\0\0 Ahn\0\0 Ohn\0\0
-\0(촀\0Ouh ouh !"
+\0
+(촀\0Ouh ouh !"
 "205","
 \0(촀\0
 \0\0ÈHou
@@ -419,12 +419,12 @@ qu'il s'agit sans l'ombre d'un doute
 d'2\0}\0\0 !"
 "206_03","(촀\0Il ne peut s'agir que d'une chose :
 2\0}\0\0 !"
-"209","2\02\0}\0\0n\0\0(%촀\0 pour le moins remarquable.\0\0(촀\0Si seulement je pouvais 2촀lela\0 gardern\0\0
+"209","2\02\0}\0\0n\0\0(%촀\0 pour le moins remarquable.\0\0(촀\0Si seulement je pouvais 2촀lela\0 gardern\0\0
 Hélas,
 \0
-(""촀\0 le musée dispose déjà d'un
+(""촀\0 nous disposons déjà d'un
 exemplaire.
-\0 Je te l2촀ea\0 rends, ouh ouh."
+\0 Je te l2촀ea\0 rends, ouh ouh."
 "210","(촀\02\02\0}\0\0 de grande qualité, indubitablementn\0\0\0\0(촀\0J'adorerais te délester d'une telle
 pièce,
 \0 mais les visiteurs d'autres
@@ -470,7 +470,7 @@ marquera l'histoire de l'île !
 2\02\0}\0\0 !
 Cela favoriserait considérablement
 l'essor de notre culture, maisn\0\0
-(4촀\0Serais-tu prêt2\0e à nous en faire don ?"
+(&촀\0Serais-tu prêt2\0e à nous en faire don ?"
 "213_a","Je l'offre au musée !"
 "213_b","Non, c'est à moi."
 "214","(촀\0Ouh ouh !
@@ -478,15 +478,15 @@ l'essor de notre culture, maisn\0\0
 
 \0Intéressant !(
 촀\0 Voyons voirn"
-"215","(촀\0Ouh ouh !
+"215","(촀\0Ouh ouh !
 \0( (촀\0Je ne vois là que des
 fossiles que le musée ne possède
 pas encoren\0\0\0\0C'est une très belle surprise ! (촀\0Tu as
 un don pour dénicher les fossiles,
 à ce que je constaten"
-"216","(촀\0Ouh ouh !
-\0( (촀\0J'aperçois ici de quoi
-étoffer notre cataloguen\0\0\0\0(촀\0C'est beau et rare à la fois !
+"216","(촀\0Ouh ouh !
+\0 J'aperçois ici de quoi
+étoffer notre cataloguen\0\0\0\0(촀\0C'est beau et rare à la fois !
 \0
  Tu
 sembles avoir un réel don pour
@@ -621,7 +621,7 @@ cet énergumène sortir de sa cage !
 \0
 \0K('촀\0On ne saurait faire confiance à un insecte...\0d"
 "306","(촀\0Ouh ouh !
-\0(촀\0 Quel2촀\0le\0 merveilleu2촀xse\0
+\0(촀\0 Quel2촀\0le\0 merveilleu2촀xse\0
 }\0\0 !"
 "308","(%촀\0Ouh ! 
 \0
@@ -647,8 +647,8 @@ plus prèsn"
 "352","(9촀\0Voilà.
 \0
  Maintenant, (촀\0merci de bien
-vouloir ôter de ma vue ce2촀\0tte\0 sinistre
-petit2촀\0e\0 }\0\0."
+vouloir ôter de ma vue ce2촀\0tte\0 sinistre
+petit2촀\0e\0 }\0\0."
 "353","()촀\0À proposn\0\0 Il semble que 2\0}\0\0 manque encore à notre collectionn\0\0\0\0(9촀\0Je m'accommoderais volontiers de
 cette lacune,
 \0(촀\0 mais l'essor de notre
@@ -706,7 +706,7 @@ actuellement exposé dans ce musée.
 "368","()촀\02\02\0}\0\0 manque cruellement à notre collection,
 \0 il faut bien l'avouer.\0\0(4촀\0Si je peux me permettren\0\0 il serait
 fort généreux de ta part de nous faire
-don 20촀du tiende la tienne\0,
+don 20촀du tiende la tienne\0,
 \0 ouh ouh."
 "401","(촀\0Hou Hou ! 
 \0Hourra !

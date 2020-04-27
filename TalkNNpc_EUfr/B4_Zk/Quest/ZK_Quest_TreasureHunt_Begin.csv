@@ -169,11 +169,8 @@ animateur préféré, 
 Qu'est-ce que t'en dis ?
 "
 "101_a","Oui ! Oui ! Oui !"
-"101_b","Comment dire... Non ?"
-"102","(촀\0Tu sais n\0, parfois,
-j'en ai assez de ma vie de luxe sur
-des jets privésn\0\0
-(1촀\0Je me pose des questions
+"101_b","(\0촀\0Comment dire... Non ?"
+"102","(촀\0Tu sais n\0, parfois, j'en ai assez de ma vie de luxe sur des jets privésn\0\0\0\0(1촀\0Je me pose des questions
 existentielles comme « Qu'est-ce que
 je fais à n\0 ? »
 \0 (촀\0
@@ -198,9 +195,7 @@ trouver autre chose pour m'occuper,
 commen\0\0 euhn\0\0(촀\0 regarder mes pieds."
 "106","(촀\0Mais il est beaucoup trop tard,
 en fait !
-\0 Il faut qu'on remette ça.\0\0(7촀\0T'inquiète pas, n\0,
-t'auras l'exclusivité sur la prochaine
-chasse au trésor."
+\0 Il faut qu'on remette ça.\0\0(7촀\0T'inquiète pas, n\0, t'auras l'exclusivité sur la prochaine chasse au trésor."
 "107","(촀\0C'est tout toi, n\0 !
 \0
 Toujours 2prêt
@@ -212,8 +207,7 @@ le meilleur endroit pour l'enfouir !"
 \0J'aurai plus
 de temps à consacrer à
 mon véritable trésor : moi !"
-"200","(촀\02\0n\0, il se trame
-un truc sur cette île !\0\0(촀\0Je n'ai réussi à enterrer mon trésor
+"200","(촀\02\0n\0, il se trame un truc sur cette île !\0\0(촀\0Je n'ai réussi à enterrer mon trésor
 nulle part ! Non mais vraiment !
 \0('촀\0
 On devra s'occuper autrement."

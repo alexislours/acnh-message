@@ -4,16 +4,12 @@
 "001_a","(\0촀\0Non, c'est cool!"
 "001_b","(\0촀\0Ouais, exagéré."
 "002","($촀\0Allo, n\0!
-\0 C'est
-quoi, ton délire en ce moment?
-\0
-J'peux passer chez toi pour voir?"
+\0 C'est quoi, ton délire en ce moment?
+\0 J'peux passer chez toi pour voir?"
 "002_a","Bien sûr!"
 "002_b","En fait... non."
 "003","($촀\0Salut, n\0!
-\0(%촀\0 J'ai un
-peu d'temps d'vant moi, ça t'dit
-que j'vienne squatter chez toi?"
+\0(%촀\0 J'ai un peu d'temps d'vant moi, ça t'dit que j'vienne squatter chez toi?"
 "003_a","Avec plaisir!"
 "003_b","Non."
 "004","( 촀\0Ah. Ohn\0\0(4촀\0 Bon, ben désolée d't'avoir
@@ -98,11 +94,8 @@ toin\0\0(촀\0 et puis j'adore ton cocon!"
 "401_a","Bien sûr! Viens!"
 "401_b","Pas maintenant, non."
 "402","( 촀\0Hé, n\0! 
-\0()촀\0T'es dispo
-là, maintenant, tout d'suite?
-\0 Ça
-t'branche qu'on aille chez toi?
-(촀\0J'ai les idées qui s'bousculent dans
+\0()촀\0T'es dispo là, maintenant, tout d'suite?
+\0 Ça t'branche qu'on aille chez toi?\0\0(촀\0J'ai les idées qui s'bousculent dans
 ma caboche, j'ai besoin d'me marrer,
 n\0."
 "402_a","Bien sûr! Viens!"

@@ -1,6 +1,6 @@
 ﻿"label","text"
 "001","(%촀\0Certo,
-\0 2""촀questoquesta\0 è senza dubbio
+\0 2""촀questoquesta\0 è senza dubbio
 2\0}촀!"
 "002","(촀\0Ah, capperi! 
 \0È decisamente
@@ -80,8 +80,8 @@ posa sui ceppi d'albero da regalare,
 \0 (;촀\0E vuoi veramente dare a me questa rarità, n\0?"
 "024_a","Certo, ecco a te.
 Prendi pure!"
-"024_b","A ripensarci...
-Aspetta... magari no."
+"024_b","(\0촀\0A ripensarci...
+(\0촀\0Aspetta... magari no."
 "025","((촀\0Di fronte a tanta sicurezza,
 \0 accetto
 con piacerissimo!"
@@ -120,7 +120,7 @@ ringraziarti.
 \0 è solo
 2\0}\0!"
 "044","(촀\0In segno della mia riconoscenzan\0\0
-2\0}\0 tutt2촀oa\0 per te, n\0!"
+2\0}\0 tutt2촀oa\0 per te, n\0!"
 "045","(촀\0Non è molto, lo so,
 \0 ma ti ho preso
 2\0}\0 per ringraziarti."
@@ -214,8 +214,8 @@ sempre con lo spaventarlin\0\0
 "202","(4촀\0Vorrei tanto che mi prendessi
 2\0}촀!
 \0\0\0(
-촀\0Non riesco mai a coglierne 2촀unouna\0 di sorpresa.
-\0 Forse dovrei cambiare tattica e invitarl2촀oa\0 a casa,
+촀\0Non riesco mai a coglierne 2촀unouna\0 di sorpresa.
+\0 Forse dovrei cambiare tattica e invitarl2촀oa\0 a casa,
 \0 invece."
 "203","(4촀\0Sarebbe troppo bello se mi prendessi
 2\0}촀!
@@ -226,25 +226,25 @@ siano delle creaturine fantastiche!"
 "204","(4촀\0Vorrei che tu catturassi per me
 2\0}촀.\0\0(;촀\0Sono troppo veloci!
 \0 (촀\0Nemmeno fai
-in tempo a capire di averl2촀ie\0 in zampa
-che sono già scappat2촀ie\0n"
+in tempo a capire di averl2촀ie\0 in zampa
+che sono già scappat2촀ie\0n"
 "205","(4촀\0Vorrei proprio che mi catturassi 2\0}촀 da uno dei fiori qui nei paraggi.\0\0(8촀\0Ce ne sono un sacco,
 \0 ma non riesco
-mai ad acchiapparne 2촀unouna\0 con il retino prima che scappi!
+mai ad acchiapparne 2촀unouna\0 con il retino prima che scappi!
 (
 촀\0Forse avrei più successo se usassi
 un retone. (촀\0
 \0AHAHAH!(촀"
 "206","(4촀\0Credi che riusciresti a catturarmi 2\0}촀?
 \0 Se ne trovano sui ceppi d'albero in giro.\0\0(
-촀\0Se non fossero così brav2촀ie\0 a
+촀\0Se non fossero così brav2촀ie\0 a
 mimetizzarsi con la corteccian\0\0
 o se io ci vedessi meglion"
 "207","(4촀\0Ecco, vorrei che catturassi per me
 2\0}촀.
 \0\0\0(촀\0Guizzano sulla sabbia e mi sfuggono
 sempre!
-\0 Ma devo invitarl2촀ie\0 a giocare
+\0 Ma devo invitarl2촀ie\0 a giocare
 con paletta e secchiello? (촀\0
 \0AHAHAH!(촀"
 "211","(4촀\0Senti,
@@ -255,7 +255,7 @@ sulla sponda, quei pesci si volatilizzano!\0\0(
 liquefanno? (촀\0
 \0AHAHAH!(촀"
 "212","(4촀\0Mi raccomando, cattura per me
-2\0}촀!\0\0(%촀\0Non appena vedono la mia ombra sull'acqua, (8촀\02>촀quei furboniquelle furbone\0 spariscono all'istante, n\0.\0\0(
+2\0}촀!\0\0(%촀\0Non appena vedono la mia ombra sull'acqua, (8촀\02>촀quei furboniquelle furbone\0 spariscono all'istante, n\0.\0\0(
 촀\0Forse dovrei travestirmi da pescen"
 "213","(4촀\0Credi che potresti catturare 2\0}촀 per me, n\0?\0\0()촀\0Ho sentito che quei pesci nuotano
 vicino alle foci dei fiumi.

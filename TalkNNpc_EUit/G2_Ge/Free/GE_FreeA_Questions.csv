@@ -77,32 +77,31 @@ quello che mi dicono gli 
 \0
 (촀\0Mi devo vestire come mi pare!\0\0Un attimon\0\0
 \0\02 Non ho appena chiesto il tuo parere...?\0d"
-"009","(""촀\0Stavo leggendo le vecchie riviste
-di mia madre e sono 
-\0piene
-\0 di test
-sulla personalità. Facciamone uno!\0\0Allora, immagina, 
-\0\0Kse ci riesci, \0ddi sentire
-della musica provenire dalla casa di
-(촀\0qualcuno che ti piacen\0\0\0\0(촀\0Che musica sarebbe?"
+"009","($촀\0Ciaaao, ho una domanda
+supermegabella da fartin\0\0\0\0Prova a immaginare: 
+\0senti della
+musica provenire dalla casa di
+(촀\0qualcuno che ti piacen\0\0\0\0(촀\0Che musica sarebbe, n\0?"
 "009_a","Classica."
 "009_b","Rock."
 "009_c","Pop."
 "009_d","Un carillon."
-"010","(%촀\0Uhmn\0\0 Musica classica, eh?
-
-\0(촀\0Significa che dovresti sposaren\0\0\0\0(촀\0Qualcuno rilassante come un
-quartetto d'archi ed emozionante
-come i corni e le percussioni!\0\0(&촀\0Ti sorprende che conosca la musica
+"010","(촀\0Sconvolgente! 
+\0Cioè, 
+\0sapevo
+che l'avresti detto!\0\0(촀\0Sei rilassante come un quartetto
+d'archi ed emozionante come i
+corni e le percussioni!\0\0(&촀\0Ti sorprende che conosca la musica
 classica? 
 \0(5촀\0Una pop star non può
 certo limitarsi al pop!\0\0()촀\0E i musicisti classici sono pazzeschi!"
-"011","(%촀\0Rock, eh, n\0?
-Mi sa che ti piacerebbe qualcuno
-con un lato un po' selvaggio!\0\0(\0촀\0Voi due potreste ballare tutto il
-giorno!(촀\0 Fare festa tutta la notte!
-\0
-(5촀\0Come vere rock star! 
+"011","(촀\0Allucinante! 
+\0Anche a me piacciono
+gli assoli di chitarra e i giri di basso!\0\0(\0촀\0Tu potresti alzare la musica dello
+stereo!
+\0(촀\0 E io potrei cantare tutta
+la notte!
+(5촀\0Come due vere rock star! 
 \0(4촀\0Forte, no?\0\0()촀\0Leggo sempre della vita dei cantanti
 sui rotocalchi. (촀\0Fidati, ne vedono delle
 belle e si divertono da matti!"
@@ -123,72 +122,66 @@ Cioè, 
 \0L
 \0I
 \0O!\0\0
-\0Se ami la musica pop, ti
-serve qualcuno come me!
-\0
-Non proprio 
-\0io
-\0, peròn\0\0\0\0(촀\0Il mio cuore appartiene già a \0K.K.\0￿!"
+	\0Se ami la musica pop, mi hai già
+conquistata!
+\0 Io sono 
+\0la regina
+delle pop star, peròn\0\0\0\0(촀\0Il mio cuore appartiene già a \0K.K.\0￿!"
 "013","(%촀\0Un carillon, ehn\0\0?
 \0\0\0(촀\0Se sentissi un carillon suonare
 da fuori casa di qualcuno, cioè,
-dovrebbe essere troppo potente!\0\0(촀\0Si vede che l'amore della tua vita
-è qualcuno che ha un carillon
-collegato all'impianto stereo!"
+dovrebbe essere troppo potente!\0\0(촀\0Dovrebbe essere collegato a delle
+casse supermegasconvolgenti! 
+\0(촀\0Oh
+wow! 
+\0Vado a cercarne un paio!"
 "014","(;촀\0Tieniti forte, n\0!
-Ti faccio un test della personalità!\0\0(촀\0Alloran\0\0 Se dovessi andare a una
+Ti faccio un quiz al volo!\0\0(촀\0Alloran\0\0 Se dovessi andare a una
 festa in maschera con un amico,
 ($촀\0che costume indosseresti?"
 "014_a","Mi vesto da gatto nero!"
 "014_b","Un costume da vampiro!"
 "014_c","Una tuta aderente."
 "014_d","Una vecchia zucca."
-"015","(;촀\0OK, lo sai che il costume che
-scegli influenza il modo in cui
-ti vede la gente?\0\0(%촀\0Tu hai scelto un costume da
-gatto neron\0\0
-\0 (1촀\0Beh,
-\0 la gente
-penserà chen\0\0\0\0C'è lo zampino della sfortuna!(촀\0\0\0(촀\0L'hai capita?
-\0
-\0
-(촀\0\0KPerché... i gatti neri portano sfortuna?
+"015","( 촀\0Oh! 
+\0Un costume da gatto nero?
 
-\0E... hanno le zampe?
-\0 \0d(촀\0\0\02(Non l'hai capita.)\0d\0￿"
-"016","(;촀\0OK, lo sai che il costume che
-scegli influenza il modo in cui
-ti vede la gente?\0\0(%촀\0Hai scelto un pipistrello 
-\0\0K(tutti i vampiri
-sono pipistrelli, non so se lo sapevi),\0d
-\0 (1촀\0quindi,
-la gente ti vedrà come...\0\0(촀\0Qualcuno che non ama mettere i
-paletti!\0\0(촀\0L'hai capitan\0\0?
-\0 Perché sei un vampiro.\0K
-E i vampiri odiano i paletti, cioè...\0d
-\0 (촀\0\0\02(Non l'hai capita.)\0d\0￿"
-"017","(;촀\0OK, lo sai che il costume che
-scegli influenza il modo in cui
-ti vede la gente?\0\0(%촀\0Cioè, tu hai scelto una tuta
-aderente. 
-\0(1촀\0Quindi,
-\0 la gente
-penserebbe chen\0\0\0\0(촀\0Sei una persona troppo coraggiosa!(촀\0\0\0(촀\0L'hai capita?
-\0
-(촀\0\0KPerché ci vuole un certo coraggio per
-indossare una tuta aderente, no?\0d
-\0
-(촀\0\02Non l'hai capita.\0d"
-"018","(;촀\0OK, lo sai che il costume che
-scegli influenza il modo in cui
-ti vede la gente?\0\0(%촀\0Ora, tu hai scelto un costume
-a forma di zucca, no?
-\0 (1촀\0Beh,
-\0 allora
-la gente penserà chen\0\0\0\0Che sei un2oa zuccon2ea!(촀\0\0\0(촀\0L'hai capita?
-\0 (촀\0\0KSì... Cioè... non fa ridere.\0d
-\0
-(촀\0\02Non mi veniva in mente nessuna bella battuta sulle zucche.\0d"
+\0(1촀\0Beh, mi viene da pensare chen\0\0
+
+\0(촀\0Ci sia lo zampino della sfortuna!\0\0(촀\0L'hai capita?
+\0 (촀\0Perchén\0\0 i gatti neri
+portano sfortuna? 
+\0En\0\0 hanno le
+zampe? 
+\0(촀\0\0KNon l'hai capita.\0d"
+"016","(%촀\0Un pipistrello? 
+\0\0KTutti i vampiri sono
+pipistrelli, non so se lo sapevi.\0d
+\0 (1촀\0Quindi,
+non pensi che la gente ti vedràn\0\0\0\0(촀\0... come qualcuno che non ama
+mettere i paletti?\0\0(촀\0L'hai capita?
+\0 Perché sei un vampiro.
+
+\0E i vampiri odiano i paletti, cioèn\0\0
+
+\0(촀\0\0KNon l'hai capita.\0d"
+"017","( 촀\0Uau, una tuta aderente? 
+\0(1촀\0Secondo
+me, la gente penserebbe chen\0\0 (촀\0Sei
+una persona troppo coraggiosa!\0\0(촀\0L'hai capita?
+\0 (촀\0Perché ci vuole un
+certo coraggio per indossare una
+tuta aderente, no?
+\0 (촀\0\0KNon l'hai capita.\0d"
+"018","( 촀\0Ah!
+\0 (1촀\0Secondo me, gli invitati alla
+festa penserebberon\0\0 
+\0(촀\0Che sei un2oa
+zuccon2ea!\0\0(촀\0L'hai capita?
+\0 (촀\0Sìn\0\0 Cioèn\0\0 non fa
+ridere.
+\0 (촀\0\0KNon mi veniva in mente nessuna
+bella battuta sulle zucche.\0d"
 "019","(%촀\0Uscire è troppo più divertente con
 (촀\0un'acconciatura sconvolgente!\0\0(\0촀\0Pensi che la tua acconciatura sia
 ""sconvolgente""

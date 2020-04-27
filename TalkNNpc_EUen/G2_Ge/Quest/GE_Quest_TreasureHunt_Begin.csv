@@ -113,7 +113,9 @@ so no help from any of your friends!
 \0And you can't
 get help from anyone else. This is all
 you, n\0.
-\0 ($촀\0Got it?\0\0(""촀\0'K, let's go, n\0!
+\0 ($촀\0Got it?
+x\0
+(""촀\0'K, let's go, n\0!
 Z"
 "015","(촀\0OK!
 \0 (%촀\0There's less time this time,
@@ -125,12 +127,14 @@ THE! HUNT! IS! ON!
 \0 (%촀\0There's less time this time,
 \0 so no
 goofing around. You have to hurry!
-\0\0\0( 촀\0Oh! 
+x\0\0\0( 촀\0Oh! 
 \0Right! 
 \0And you can't get help
 from anyone else, 'K? This is all
 on you!
-\0 ($촀\0Got it? Good!\0\0(""촀\0Alright, here we go, n\0!
+\0 ($촀\0Got it? Good!
+x\0
+(""촀\0Alright, here we go, n\0!
 Z"
 "101","(&촀\0Hey, 
 \0are you, like, free right now?

@@ -9,17 +9,19 @@ het spelen. 
 "006_01","Je bent met een andere bewoner aan
 het spelen. 
 \0Wat wil je doen?"
-"006_01_a","Leider wijzigen"
+"006_01_a","Leider wijzigen."
 "006_01_b","De sessie beëindigen."
 "006_01_c","(\0촁\0Opslaan en stoppen."
-"006_01_d","Handleiding lezen"
-"006_01_e","(\0촁\0Doorspelen"
-"006_a","Leider wijzigen"
+"006_01_d","Paspoort bekijken."
+"006_01_e","Handleiding lezen."
+"006_01_f","(\0촁\0Doorspelen."
+"006_a","Leider wijzigen."
 "006_b","De sessie beëindigen."
-"006_c","Nieuwe keuze maken"
+"006_c","Nieuwe keuze maken."
 "006_d","(\0촁\0Opslaan en stoppen."
-"006_e","Handleiding lezen"
-"006_f","(\0촁\0Doorspelen"
+"006_e","Paspoort bekijken."
+"006_f","Handleiding lezen."
+"006_g","(\0촁\0Doorspelen."
 "007","2\0s\0촀, druk \0\0￿ en\0 \0￿ (of \0\0￿ en \0\0￿) tegelijk in.
 "
 "008","Er is geen controller verbonden.
@@ -28,8 +30,8 @@ De sessie wordt beëindigd.
 Ĭ"
 "009","Kun je een controller verbinden voor
 s\0촀?"
-"009_a","Opnieuw verbinden"
-"009_b","Iets anders proberen"
+"009_a","Opnieuw verbinden."
+"009_b","Iets anders proberen."
 "010","Er is geen controller verbonden.
 \0
 De sessie wordt beëindigd.

@@ -1,17 +1,17 @@
 ﻿"label","text"
 "003","(1촀\0Secondo me sarebbe un sogno vivere
 con 2\0}촀n"
-"003_a","(\0촀\0Te ne prendo 2촀unouna\0 io?"
+"003_a","(\0촀\0Te ne prendo 2촀unouna\0 io?"
 "003_b","(%촁\0Spero che tu ci riesca!"
-"004","(촀\02*촀Un altroUn'altra\0 
+"004","(촀\02*촀Un altroUn'altra\0 
 \0}촀 che scappa via!
 \0 (촀\0Oggi non riesco a prendere un bel nienten"
 "004_a","(\0촀\0Ti aiuto io!"
 "004_b","(%촁\0Forza e coraggio!"
 "008","(4촀\0Ma non sarebbe rilassante guardare 2\0}촀 che nuota ogni volta che vuoin\0\0
 \0?"
-"008_a","(\0촀\0Te ne prendo 2촀unouna\0 io?"
-"008_b","(%촁\0Dai, prendine 2촀unouna\0!"
+"008_a","(\0촀\0Te ne prendo 2촀unouna\0 io?"
+"008_b","(%촁\0Dai, prendine 2촀unouna\0!"
 "009","(8촀\0Ho provato a prendere 2\0}촀,
 \0 ma oggi 'sti pesci hanno una fortuna sfacciata!"
 "009_a","(\0촀\0Ti aiuto io?"
@@ -61,7 +61,7 @@ non riesco a prenderne uno!\0\0(#촀\0Ti prego, ti supplico, ti scongiuro!
 "021_a","Lascia fare a me!
 OK!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","(&촀\0Cioè, senti...
@@ -77,7 +77,7 @@ catturarmene uno tu, n\0?"
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","(8촀\0Come butta, n\0?
@@ -93,7 +93,7 @@ di lei e potremmo fare un duetto!
 "023_a","Lascia fare a me!
 OK!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","(촀\0Non pensi che le farfalle siano superadorabili, n\0?
@@ -105,7 +105,7 @@ di qualsiasi tipo, n\0?"
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(촀\0Non pensi che le ali delle libellule
@@ -118,7 +118,7 @@ nell'istante in cui mi avvicino!\0\0(4촀\0Senti, n\0,
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","(4촀\0Senti, n\0, posso chiederti un favore?\0\0(촀\0Voglio catturare un insetto che si
@@ -132,7 +132,7 @@ un insetto così, n\0?"
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","(촀\0Allucinante, n\0!\0\0(촀\0Volevo catturare un insetto che si
@@ -154,7 +154,7 @@ d'albero per la sottoscritta?"
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","(촀\0Mi piacciono troppo i pesci di fiume
@@ -174,7 +174,7 @@ e io devo troppo ballare,
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","(촀\0Cosa ne pensi dei pesci di mare, n\0?\0\0(촀\0Cioè, al momento sono praticamente
@@ -188,12 +188,12 @@ e robe così,
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촀\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(8촀\0Ehi, n\0?
 \0 Potresti fare una cosetta per me?\0\0(촀\0Sto cercando disperatamente 2\0}촀,
-\0 ma non 2촀lola\0 trovo da nessuna parten\0\0\0\0(촀\0Me ne prendi 2촀unouna\0 tu? 
+\0 ma non 2촀lola\0 trovo da nessuna parten\0\0\0\0(촀\0Me ne prendi 2촀unouna\0 tu? 
 \0Tu sei troppo
 più brav2oa di me ad acchiappare
 insetti, n\0!"
@@ -225,13 +225,13 @@ ascoltato (%촀\0le mie frustrazioni!
 "201","(촀\0Ehi n\0!
 \0 Mi serve il tuo aiuto, e mi serve subito!\0\0(촀\0Non riesco a prendere 2\0}촀 e la cosa mi sta mandando fuori di testa."
 "201_a","Ti aiuto io!"
-"201_b","Scusa, ora ho da fare."
+"201_b","(\0촀\0Scusa, ora ho da fare."
 "202","(8촀\0Ho fatto del mio meglio?
 \0 Certo che
 sì!
 \0 Ma non riesco proprio a prendere
 2\0}촀.
-(촀\0Niente di niente, nemmeno 2촀unouna\0!
+(촀\0Niente di niente, nemmeno 2촀unouna\0!
 \0
 Forse sono troppo scarsa a pescare?
 \0

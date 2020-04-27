@@ -37,7 +37,7 @@ anniversaire !
 mais t'as eu le temps de me prendre
 un p'tit cadeau ?"
 "006_a","Bien sûr, voilà !"
-"006_b","Arf..."
+"006_b","(\0촀\0Arf..."
 "007","(촀\0Oh,
 \0 euh,
 \0 hmm.
@@ -101,18 +101,18 @@ délicieux,
 \0 merci !"
 "018","(촀\02\02\0}\0\0 ?
 \0( (""촀\0On peut dire que tu m'connais,
-\0 j'en ai justement acheté 2촀unune\0 y a peu !\0\0(%촀\0On est vraiment sur la même
+\0 j'en ai justement acheté 2촀unune\0 y a peu !\0\0(%촀\0On est vraiment sur la même
 longueur d'onde,
 \0 toi et moi.\0\0(2촀\0Pour la peine,
 \0 ça m'gêne pas du
-tout d'en avoir 2촀unune\0 deuxième à la
+tout d'en avoir 2촀unune\0 deuxième à la
 maison !"
 "019","(&촀\02\02\0}\0\0 ?
 \0( (촀\0Ha ha ha !
-\0 T'as pas remarqué que j'en porte déjà 2촀unune\0 ?\0\0(%촀\0T'inquiète, ça m'fait plaisir d'en avoir
-2촀unune\0 deuxième.
+\0 T'as pas remarqué que j'en porte déjà 2촀unune\0 ?\0\0(%촀\0T'inquiète, ça m'fait plaisir d'en avoir
+2촀unune\0 deuxième.
 \0( (촀\0Ça sera toujours utile
-le jour où j'salirai 24촀le premierla première\0 !"
+le jour où j'salirai 24촀le premierla première\0 !"
 "020","(&촀\02\02\0}\0\0 ?
 \0((촀\0 Hé mais ! 
 \0C'est justement c'que tu portes,
@@ -177,7 +177,7 @@ bijou pareil et('촀\0 j'peux pas accepter.
 et laisse-moi t'dire que t'as mis
 la barre très haut, n\0 !"
 "048","(7촀\0Tiens !
-\0 C'est pour toi. Accepte cet2촀\0te\0
+\0 C'est pour toi. Accepte cet2촀\0te\0
 humble }\0.\0\0(""촀\0J'sais qu'c'est pas grand-chose,
 \0 mais
 bon. C'est mon anniv alors j'fais
@@ -220,8 +220,8 @@ l'intention de la démarrer fort !"
 spectacle ?
 \0 Un p'tit cadeau de
 ta part pour finir en beautén"
-"060_a","Ben ça tombe bien !"
-"060_b","Ça aurait été bien !"
+"060_a","(\0촀\0Ben ça tombe bien !"
+"060_b","(\0촀\0Ça aurait été bien !"
 "061","(촀\0Même dans mes rêves les plus fous
 j'aurais jamais imaginé une fête
 d'anniv aussi chanmé, n\0 !\0\0(9촀\0J'm'attendais pas à ce que tout le
@@ -229,7 +229,7 @@ monde tape aussi juste avec son
 cadeau.
 \0( (2촀\0J'suis trop touchée.\0\0(;촀\0En parlant d'cadeaun\0\0 Tu m'as aussi
 ramené un p'tit truc ?"
-"061_a","Tout juste, voilà !"
+"061_a","(\0촀\0Tout juste, voilà !"
 "061_b","Euh, pas vraiment..."
 "062","(1촀\0Tout le monde est là pour fêter mon
 annivn\0\0(촀\0 Ça m'donne presque envie
@@ -319,11 +319,7 @@ d'décarrer et j'te filerai ça."
 j't'ai promis.
 \0 2\02\0}\0 !"
 "100","(촀\0Tu savais 2
-que qu'⁠s촀 et
-moi, on partageait la même date
-d'anniversaire, n\0 ?
-\0(
-(%촀\0Ça claque,
+que qu'⁠s촀 et moi, on partageait la même date d'anniversaire, n\0 ?\0\0(%촀\0Ça claque,
 \0 hein ? Pour le coup, on a
 mis sur pied une double fête,
 \0 où on
@@ -333,5 +329,5 @@ de gâteau,
 \0 deux fois plus de tout !\0\0(촀\0Et double cerise sur le double
 gâteaun\0\0 le cadeau qu'tu vas
 pas manquer d'm'offrir !"
-"100_a","Le voilà !"
+"100_a","(\0촀\0Le voilà !"
 "100_b","J'ai rien pour toi..."

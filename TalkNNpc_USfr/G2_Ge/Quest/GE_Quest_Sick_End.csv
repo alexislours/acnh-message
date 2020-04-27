@@ -10,9 +10,7 @@ part, n\0."
 "001_b","(\0촀\0Ça va aller...
 (\0촀\0Bon rétablissement!
 (\0촀\0Repose-toi!"
-"002","( 촀\02\0n\0! Tu es passé2\0e
-(8촀\0parce que tu t'inquiètes pour moi?
-(2촀\0Oh, c'est trooop sympa!"
+"002","( 촀\02\0n\0! Tu es passé2\0e (8촀\0parce que tu t'inquiètes pour moi? (2촀\0Oh, c'est trooop sympa!"
 "002_a","(\0촀\0J'ai un remède!
 (\0촀\0Tiens, un remède!
 (\0촀\0Avale ce remède!"
@@ -67,8 +65,7 @@ nez est une usine à morve..."
 "007","(4촀\0Tu viens prendre de mes nouvelles,
 \0
 n\0?
-\0 C'est cool de
-ta part, tu sais?!(촀"
+\0 C'est cool de ta part, tu sais?!(촀"
 "008","( 촀\0Oh, 
 \0salut n\0n\0\0
 \0
@@ -104,8 +101,7 @@ et demain je reprends ma formation
 de star internationale.(촀"
 "015","(%촀\0M-
 \0merci, n\0. 
-\0(촀\0Je vais
-me reposer encore un peun\0\0(촀"
+\0(촀\0Je vais me reposer encore un peun\0\0(촀"
 "100","Merci pour le \0remède\0￿n\0\0 (2촀\0Pour dire, ça
 marcherait comme les potions de
 guérison dans les jeux vidéo,(촀\0 lol!"
@@ -160,16 +156,11 @@ de se sentirn\0\0 dans un état normal!\0\0($촀\0Pour te remercier, laisse
 \0 (2촀\0J'espère que ça te plaît!"
 "112","(\0촀\0Si jamais tu tombes malade,
 dis-le-moi, n\0. 
-\0Ça
-sera à mon tour de t'aider!(""촀"
+\0Ça sera à mon tour de t'aider!(""촀"
 "113","(\0촀\02\0n\0,
-\0 (촀\0prends aussi
-soin de toi, et va pas tomber malade,
-OK?"
-"114","(\0촀\02\0n\0, si tu tombes
-malade,
-\0 pense à moi.(촀\0 Je te renverrai
-l'escalier roulant!"
+\0 (촀\0prends aussi soin de toi, et va pas tomber malade, OK?"
+"114","(\0촀\02\0n\0, si tu tombes malade,
+\0 pense à moi.(촀\0 Je te renverrai l'escalier roulant!"
 "200","(촀\0Merci pour le \0remède\0￿, n\0.
 \0( J'avais un petit quelque chose pour toi, du coupn\0\0
 ( 촀\0Mais tu as les poches pleines!

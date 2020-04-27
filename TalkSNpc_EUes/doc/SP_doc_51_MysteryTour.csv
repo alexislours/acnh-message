@@ -79,7 +79,11 @@ alguna maniobra?(\0촀\0 
 "002_c","('촁\0No, nada"
 "003","(&촀\0¿Estás list2oa para despegar
 y poner rumbo de vuelta
-a n	\0?"
+a n	\0?
+(9촀\0Asegúrate de no dejarte nada
+porque no lo vas a poder recuperar.
+\0
+(&촀\0¿Seguro que quieres irte ya?"
 "003_a","(%촁\0¡Volvamos a casa!"
 "003_b","('촁\0Todavía non"
 "004","-촀\0
@@ -113,7 +117,7 @@ otra cosa!
 \0(촀\0pero parece que andas cort2oa de efectivo.\0\0(촀\0Tendrás que acumular más millas
 si quieres utilizar el servicio de
 sustitución de herramientas."
-"015","(%촀\02\02\0}\0\0 cuesta Z(촀. (&촀\0¿Te l2촀oa\0 quedas?"
+"015","(%촀\02\02\0}\0\0 cuesta Z(촀. (&촀\0¿Te l2촀oa\0 quedas?"
 "015_a","(%촁\0¡Venga!"
 "015_b","('촁\0Mejor no..."
 "016","(촀\0¡Recibido! 

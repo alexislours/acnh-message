@@ -15,14 +15,12 @@ alles an, 
 \0(촀\0 Falls du es dir anders
 überlegst, sag einfach Bescheid."
 "003_01","(촀\0Hm-hm! 
-\0Du hast noch
-2""촀
-eineneineein 2촁}\0\0
-gefunden!\0\0()촀\02$촀
+\0Du hast noch 2""촀
+eineneineein 2촁}\0\0 gefunden!\0\0()촀\02$촀
 EinerEineEins reicht mir, 
 \0also bekommst du
-2촀dendiedas hier zurück. 
-\0(\0촀\0Du kannst 2촀ihnsiees
+2촀dendiedas hier zurück. 
+\0(\0촀\0Du kannst 2촀ihnsiees
 behaltenn\0\0
 \0(촀\0 oder verkaufen!
 (%촀\0Wenn du irgendetwas fängst, 
@@ -44,12 +42,12 @@ interessiert!"
 \0(%촀\0Wenn ich mich
 nicht irre, 
 \0handelt es sich hier um
-2""촀
+2""촀
 eineneineein 2촁}\0\0!"
 "005_01","(
 촀\0Hmn\0\0 
 \0Wenn diese Insel so etwas wie
-2""촀
+2""촀
 eineneineein 2촁}\0\0 beherbergtn\0\0\0\0(촀\0Wer weiß, 
 \0was wir dann noch alles
 hier finden werden!\0\0(촀\0Ich habe eine Idee, 
@@ -66,7 +64,7 @@ behelligen, 
 \0abern\0\0 
 \0Es wäre zum
 Wohle der Wissenschaft, 
-\0ja, ja!\0\0(&촀\0Würdest du mir 2p촀$diesen wunderbaren diese wunderbare""dieses wunderbare
+\0ja, ja!\0\0(&촀\0Würdest du mir 2p촀$diesen wunderbaren diese wunderbare""dieses wunderbare
 }\0\0 überlassen?\0\0(촀\0Mein Freund aus dem Museum wäre
 sicherlich höchst fasziniert davon!"
 "005_02_a","Okay!"
@@ -79,7 +77,7 @@ Museum zukommen lassen, 
 "005_03_b","Weiß nicht..."
 "006_01","(촀\0Vielen Dank! 
 \0Ich werde mich gut um
-d2""촀
+d2""촀
 eineneineein 2촁}\0\0 kümmern."
 "007_01","(촀\0Bitte bring mir auch weiterhin deine
 Funde.
@@ -99,11 +97,11 @@ das einmal zurück,
 "011_01_01","(촀\0Ganz unabhängig von deiner
 großzügigen Stiftung möchte ich
 dir eine neue App vorstellen!"
-"011_02","(%촀\0Sie heißt \0Faunapädie\0￿n\0\0
+"011_02","(촀\0Sie heißt \0Faunapädie\0￿n\0\0
 \0 Eine
 übersprudelnde Wissensquelle für
 angehende Naturforscher wie dich!
-(!촀\0Mithilfe dieser App erfährst du
+(촀\0Mithilfe dieser App erfährst du
 Details über alle Insekten und
 Fische, 
 \0die du fängst, 
@@ -130,10 +128,10 @@ gerade eben erst dort zugange.(촀"
 \0 (촀\0Das muss mir dann wohl
 völlig entgangen sein.
 \0(촀"
-"012_05","In diesem Falle werde ich dir noch
+"012_05","()촀\0In diesem Falle werde ich dir noch
 ein paar \0Bastelanleitungen\0￿ auf dein
 \0NookPhone\0￿ schicken, 
-\0ja, ja!"
+\0(촀\0ja, ja!"
 "012_06","(촀\0Oh, 
 \0das ist schade! 
 \0(()촀\0Dir ist aber klar,
@@ -157,8 +155,8 @@ gewaltig, 
 \0ja, ja!"
 "013_01","(5촀\0Dieses Mal habe ich übrigens auch
 eine richtige Belohnung für dich."
-"013_02","(촀\0Und zwar 2\0
-\0}\0\0\0￿!
+"013_02","(촀\0Und zwar 2""촀
+eineneineein \02촁}\0\0\0￿!
 \0 Das ist eine Probe unserer Waren.\0\0(촀\0Du kannst sie in die Erde einpflan-
 zen, 
 \0wo du möchtest – 
@@ -179,24 +177,27 @@ später blühen dort hübsche Blumen!\0\0(%촀\0Probier es einfach einmal au
 wenn du Gefallen daran findest,
 \0(촀\0
 besorge dir im Laden Nachschub!"
-"014_01","(촀\0Ach ja! 
-\0(촀\0Erinnerst du dich an die
+"014_01","(촀\0
+\0Ach ja! 
+\0(\0촀\0Wegen der Blumenprobe,
+
+\0die ich dir eben gegeben haben\0\0
+
+\0(9촀\0Eins muss ich noch erwähnen!"
+"014_02","(촀\0
+\0Ach ja! 
+\0(\0촀\0Erinnerst du dich an die
 Blumenprobe, 
 \0die ich dir gegeben
 habe? 
-\0Eins muss ich noch erwähnen!"
-"014_02","(촀\0Ach ja! 
-\0(촀\0Erinnerst du dich an die
-Blumenprobe, 
-\0die ich dir gegeben
-habe? 
-\0Eins muss ich noch erwähnen!"
-"014_03","()촀\0Die bei uns erhältlichen Samen sind
-robust und schlagen so gut wie
-überall Wurzeln.\0\0(1촀\0Aber wenn man sie jeden Tag \0gießt\0￿,
-\0
+\0(9촀\0Eins muss ich noch erwähnen!"
+"014_03","()촀\0Die daraus ersprießenden Blumen
+sind robust 
+\0und sollten auch ohne
+Pflege ganz gut gedeihenn\0\0\0\0(%촀\0Aber wenn man sie jeden Tag \0gießt\0￿,
+\0()촀\0
 kann man sie züchten und kreuzen,
-\0
+\0(촀\0
 um neue Farben zu erhalten!"
 "014_04","(&촀\0Du fragst dich, 
 \0wie du das mit dem
@@ -213,13 +214,13 @@ dass ich Sachen verschenken\0\0
 mich gefangen, 
 \0(%촀\0und hier auf der Insel
 unterstützt man sich eben."
-"015_01","(촀\0Moment, 
+"015_01","Moment, 
 \0ich bekomme
 gerade einen Anruf!
 ´"
 "015_02","\0(&촀\0Eugen\0￿, 
 \0bist du das?
-\0 (!촀\0
+\0 (촀\0
 Du rufst genau im richtigen
 Moment an, 
 \0ja, ja!"
@@ -228,8 +229,8 @@ läuft?
 \0 (촀\0Alles bestens, 
 \0danke der
 Nachfrage!\0\0Ich sorge gerade auf einem Inselchen
-namens n\0 dafür,
-dass die Siedler sich einleben!\0\0Einer der Einwohner hilft mir dabei,
+namens n\0 dafür,
+\0 dass die Siedler sich einleben!\0\0Einer der Einwohner hilft mir dabei,
 \0
 Exemplare der lokalen Fauna zu
 sammeln."
@@ -267,7 +268,7 @@ gesammelt hastn\0\0 
 \0(&촀\0Könntest du eine
 gute Stelle für \0Eugen \0￿finden?"
 "015_09","Er braucht wohl reichlich Platz...
-\0
+\0(촀\0
 Die Fläche sollte etwa so groß sein
 wie die von deinem Zelt!"
 "015_10","(""촀\0Wie aufregend! 

@@ -9,7 +9,7 @@ di un saluto speciale tra me e te?
 questo privilegio. 
 \0Perciò fra noi due non sarebbe insensato. 
 \0(6촀\0Dai, proponi."
-"001_a","Ne ho uno perfetto!"
+"001_a","(\0촀\0Ne ho uno perfetto!"
 "001_b","(\0촁\0Un'altra volta, magari."
 "002","(&촀\0Ricordi che ci salutiamo sempre con
 ""n\0Ciao stella della notten""?\0\0(7촀\0Continua a non dispiacermi l'idea di
@@ -69,7 +69,7 @@ altri, n\0!"
 
 \0(Sarà questo il nostro saluto?"
 "101_a","È proprio perfetto!"
-"101_b","Pensandoci meglio..."
+"101_b","(\0촀\0Pensandoci meglio..."
 "102","""n\0Ciao stella della notten""?
 
 \0(촀\0Ehi,

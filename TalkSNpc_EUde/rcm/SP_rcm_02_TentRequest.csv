@@ -33,8 +33,8 @@ für dich tun?"
 "002_01_b","Ich will was kaufen!"
 "002_01_c","Du wolltest reden...?"
 "002_01_d","Nichts..."
-"002_02","(%촀\0Auch gut
-\0, auch gut.
+"002_02","(%촀\0Auch gut,
+\0 auch gut.
 \0(
 (6촀\0Melde dich einfach,
 \0 wenn du
@@ -62,7 +62,7 @@ ganz kurz,
 \0 okay?\0\0(4촀\0Ich wollte mal fragen: Hättest du
 Lust, an einem tollen Bauprojekt
 mitzumachen? 
-\0(!촀\0Einem neuen \0Laden\0￿!
+\0(!촀\0Einem \0Laden\0￿!
 ()촀\0Je mehr hier auf der Insel los ist,
 \0
 desto mehr interessierte Kunden.
@@ -168,11 +168,11 @@ Welches Plätzchen wirst du wohl
 für unser neues Geschäft wählen?\0\0(촀\0Nicht vergessen:
 \0 Wenn du den
 idealen Ort gefunden hast,
-\0 stell
-einfach mein \0Laden-Bauschild\0￿ hin."
+\0 setz dort
+einfach ($촀\0mein \0Laden-Baukit\0￿ hin!"
 "024","(촀\02\0n\0!
-\0
-(촀\0Das \0Laden-Bauschild\0￿ steht!
+\0(
+(촀\0Das \0Laden-Baukit\0￿ wurde platziert!
 \0
 Jetzt gibt's kein Zurück!
 (촀\0Wird ein ganz schöner Trubel,
@@ -288,8 +288,8 @@ Verdienst ist,
 \0 da könntest DU doch
 bestimmen,
 \0 wo der stehen soll!"
-"058_02","(촀\0Pflanz einfach das \0Laden-Bauschild
-\0￿dorthin,
+"058_02","(촀\0Platziere einfach das \0Laden-Baukit
+\0￿dort,
 \0 wo es dir passt. 
 \0Die Firma
 kümmert sich um den Rest!\0\0(촀\0Ich freu mich schon darauf,

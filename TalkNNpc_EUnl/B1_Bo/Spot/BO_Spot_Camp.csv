@@ -5,30 +5,26 @@
 nog heel lang kan blijven.
 \0( (촀\0Misschien
 doe ik dat wel, n\0!(촀"
-"001_02","(1촀\0Dit eiland ruikt een beetje als toen ik
-klein was.
-\0(""촀\0
-\0 Net alsof het mijn oude
-slaapkamer is, n\0."
+"001_02","(1촀\0De geur van dit eiland doet me
+denken aan toen ik klein was.\0\0(""촀\0Net alsof het mijn oude slaapkamer
+is, n\0."
 "001_03","(촀\0Dit eiland is vet!
 \0( Als ik ga verhuizen,
 ga ik op zoek naar een eiland dat
-hier op lijkt, n\0."
+hierop lijkt, n\0."
 "002","<"
 "002_01","(촀\0Dit eiland is zo relaxed,
 \0( dat ik hier
 nog heel lang kan blijven.
 \0( (촀\0Misschien
 doe ik dat wel, n\0!(촀"
-"002_02","(1촀\0Dit eiland ruikt een beetje als toen ik
-klein was.
-\0(""촀\0
-\0 Net alsof het mijn oude
-slaapkamer is, n\0."
+"002_02","(1촀\0De geur van dit eiland doet me
+denken aan toen ik klein was.\0\0(""촀\0Net alsof het mijn oude slaapkamer
+is, n\0."
 "002_03","(촀\0Dit eiland is vet!
 \0( Als ik ga verhuizen,
 ga ik op zoek naar een eiland dat
-hier op lijkt, n\0."
+hierop lijkt, n\0."
 "002_04","()촀\0Het beste aan kamperen is het eten.
 \0
 (촀\0Eten en naar dingen om je heen
@@ -42,7 +38,7 @@ je dat ook! 
 \0Ja, kamperen is leuk!"
 "003","<"
 "003_01","(&촀\0Zal ik je vertellen over mijn
-wetenschappelijk proefje?\0\0(촀\0Nou, ik ging naar binnen en vulde
+wetenschappelijke proefje?\0\0(촀\0Nou, ik ging naar binnen en vulde
 met mijn linkerneusgat mijn
 linkerlong(.촀\0 met binnenlucht.\0\0Toen ging ik naar buiten en vulde ik
 met mijn rechterneusgat mijn
@@ -101,8 +97,8 @@ zo, n\0."
 "202_01","(""촀\0Hoooiii! 
 \0((촀\0Ik ben hier op bezoek, omdat s\0촀 me heeft uitgenodigd tijdens het bellen."
 "202_02","(촀\0Hoi!
-\0( Van s\0촀 kreeg ik een uitnodiging enn\0\0 nu ben ik hier!"
-"202_03","(""촀\0Ik ben hier omdat s\0촀 me vroeg of ik langs wilde komen!
+\0( 2\0s\0촀 heeft me uitgenodigd enn\0\0 nu ben ik hier!"
+"202_03","(""촀\0Ik ben hier omdat s\0촀 me heeft gevraagd of ik langs wilde komen!
 \0 Gaaf, hè?"
 "301","<"
 "301_01","(5촀\0Zijn tenten niet cool?
@@ -129,8 +125,8 @@ mijn tv.
 Aaaah! Ik krijg geen lucht!"
 "301_03","()촀\0Als er een kampvuur is, vind ik het
 altijd heerlijk
-\0(촀\0 om marshmellows te
-roosteren!\0\0(촀\0Ik wou dat ik thuis ook marshmellows
+\0(촀\0 om marshmallows te
+roosteren!\0\0(촀\0Ik wou dat ik thuis ook marshmallows
 kon eten.
 \0(촀\0 Jammer dat er geen manier
 is om ze te roosteren zonder vuur."
@@ -173,8 +169,8 @@ mijn tv.
 Aaaah! Ik krijg geen lucht!"
 "302_03","()촀\0Als er een kampvuur is, vind ik het
 altijd heerlijk
-\0(촀\0 om marshmellows te
-roosteren!\0\0(촀\0Ik wou dat ik thuis ook marshmellows
+\0(촀\0 om marshmallows te
+roosteren!\0\0(촀\0Ik wou dat ik thuis ook marshmallows
 kon eten.
 \0(촀\0 Jammer dat er geen manier
 is om ze te roosteren zonder vuur."
@@ -188,7 +184,9 @@ iedereen bij mij op bezoek komen.\0\0Ik maak er het(;촀\0 vijftientigsteder
 ""Waarom smaakt dit raar?""
 \0 ""Hoort
 dat ding daar in brand te staan?""\0\0(5촀\0En dat zijn nog maar de eerste drie
-wonderen!"
+wonderen!
+\0 Nu moet ik nog vijftientig
+verzinnen om toe te voegen!"
 "401_02","(촀\0Als ik ga verhuizen, kan ik maar
 beter thuis zo snel mogelijk mijn
 spullen gaan pakken.\0\0(촀\0Ik bedoel mijn oude thuis, want dit is
@@ -208,7 +206,7 @@ verhuizen!\0\0(촀\0Dat heeft s\0촀 me gevraagd!
 \0 En jij: ""Hé, buurman!""
 \0
 Als echte buren, n\0!"
-"402_02","()촀\0Ik ga heel binnenkort naar dit eiland verhuizen, want s\0촀 vroeg of ik dat wilde!
+"402_02","()촀\0Ik ga heel binnenkort naar dit eiland verhuizen, want s\0촀 heeft me gevraagd of ik dat wilde!
 \0(촀\0\0\0Ik hoop dat we samen veel zullen
 babbelen, snoepen en de beste
 vrienden worden, n\0."
@@ -241,27 +239,27 @@ eiland als van hazelnootkoekjes.\0\0Ik wil op een dag ook op zo'n eiland
 wonen, n"
 "501_01_a","Kom dan hier wonen!"
 "501_01_b","Veel succes met zoeken!"
-"501_02","()촀\0Ik besloot om hierheen te gaan toen
-ik op een landkaart keek en er
-chocola op morste.\0\0(촀\0Ik had geen zin om die kaart schoon
+"501_02","()촀\0Ik heb besloten om hierheen te gaan
+toen ik op een landkaart keek en er
+chocolademelk op morste.\0\0(촀\0Ik had geen zin om die kaart schoon
 te maken, dus heb ik hem laten
 liggen en ben hierheen gekomen.\0\0(촀\0Hier doen ze geen chocola op hun
 kaarten, maar iedereen is wel heel
 aardig. Jammer dat ik weg moet."
 "501_02_a","Kom dan hier wonen!"
 "501_02_b","Goeie reis naar huis..."
-"501_03","Ik kampeer hier,()촀\0 omdat ik droomde
-dat ik hier woonde en iedere dag lol
-maakte.\0\0(&촀\0Wat vind je van mijn droom, n\0?"
+"501_03","Ik kampeer hier,()촀\0 omdat ik heb
+gedroomd dat ik hier woonde en
+iedere dag lol maakte.\0\0(&촀\0Wat vind je van mijn droom, n\0?"
 "501_03_a","Je kunt hier echt wonen!"
 "501_03_b","Wat een leuke droom!"
 "502_01","Dank je wel! Ik ga(5촀\0 op heel veel
 plekken kamperen tot ik het perfecte
 eiland vind, n\0."
 "502_02","(촀\0Dank je.
-\0 Ik moet toch maar naar huis
-gaan om te kijken of die chocola nog
-lekker is.
+\0 Ik ga toch maar naar huis
+om te kijken of die chocolademelk
+nog lekker is.
 \0 Tot de volgende keer!"
 "502_03","($촀\0Ja, hè?
 \0( Die droom was heel fijn(촀\0 en
@@ -281,7 +279,7 @@ wil hier wel voor altijd blijven."
 helemaal geen zin om nog naar huis
 te gaan, n\0!"
 "601_02_a","Verhuis dan hierheen!"
-"601_02_b","Fijn dat je het leuk vind."
+"601_02_b","Fijn dat je het leuk vindt."
 "601_03","(8촀\0Ik zocht spullen die gemaakt zijn op n	\0 en ik kreeg een ideen\0\0\0\0(\0촀\0Het lijkt me cool om hier te blijven
 en met jullie spulletjes te maken en
 leuke dingen te doen.\0\0(촀\0

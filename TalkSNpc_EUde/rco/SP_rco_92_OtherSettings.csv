@@ -6,6 +6,13 @@ um die Speicherdaten.\0\0()촀\0Es geht um sehr wichtige Dinge,
 \0
 deshalb sollten Kinder lieber einen
 Erwachsenen um Hilfe bitten.(촀"
+"002","Hallo, n\0.
+\0
+Hier kümmere ich mich um Anfragen
+zu verschiedenen Einstellungen.\0\0()촀\0Es geht um sehr wichtige Dinge,
+\0
+deshalb sollten Kinder lieber einen
+Erwachsenen um Hilfe bitten.(촀"
 "010_01","(9촀\0Nachdem wir das geklärt hättenn"
 "010_02","(9촀\0Ja, 
 \0das wäre es im Großen und
@@ -21,6 +28,16 @@ Wie kann ich dir helfen?"
 "012_a","Registrierung löschen."
 "012_b","Erklärung anhören."
 "012_c","Brauche keine Hilfe."
+"020","Also,
+\0 womit kann ich dir helfen?"
+"020_a","Speicherdaten..."
+"020_b","NookLink..."
+"020_c","Brauche keine Hilfe."
+"021","(촀\0Speicherdaten, 
+\0hm?
+\0
+Natürlich, 
+\0natürlich!"
 "051","(촀\0Sehr wohl, 
 \0ja, ja!
 \0 Dann also erst
@@ -62,14 +79,14 @@ Löschen der Registrierungen von
 Bewohnern.\0\0(9촀\0Mit anderen Worten: 
 \0um das \0Löschen
 der Speicherdaten \0￿eines Spielers für
-\0Animal Crossing: New Horizons\0￿.\0\0(촀\0Es ist nämlich unmöglich,
+\0Animal Crossing: New Horizons\0￿.\0\0(촀\0Es ist nämlich unmöglich,
 \0 in den
 Systemeinstellungen im HOME-Menü
 deiner Nintendo Switch-Konsole...\0\0nur die Speicherdaten eines
-einzelnen Spielers zu löschen.\0\0()촀\0Um also die Daten eines bestimmten
-Bewohners zu entfernen,
-\0 musst du
-dich an mich wenden."
+einzelnen Spielers zu löschen.\0\0()촀\0Um also nur deine Daten zu
+entfernen,
+\0 musst du dich an
+mich wenden."
 "062_02","(9촀\0Ich sollte dir erklären,
 \0 was es
 bedeutet, 
@@ -92,26 +109,20 @@ wenn es wirklich nötig ist."
 \0 was es
 bedeutet, 
 \0die Registrierung eines
-Bewohners zu löschenn\0\0\0\0()촀\0Dies entfernt alle Aufzeichnungen zu s\0촀 und 2,
-촀seinen
-ihrenseinen Besitztümern auf n	\0.(\0촀\0\0\0(촀\0Also 2 
-촀seinihrsein Haus, 
-\02&
-촀
+Bewohners zu löschenn\0\0\0\0()촀\0Dies entfernt alle Aufzeichnungen zu s\0촀 und 2,촀seinen
+ihrenseinen Besitztümern auf n	\0.(\0촀\0\0\0(촀\0Also 2 촀seinihrsein Haus, 
+\02&촀
 seineihre
 seine Sternis,
 
-\02&
-촀
+\02&촀
 seineihre
 seine Meilen... 
-\0alles.\0\02&
-촀
+\0alles.\0\02&촀
 SeineIhre
 Seine tierischen Nachbarn und ich
 werden sich nicht einmal mehr an
-2
-촀ihnsiees erinnern.
+2촀ihnsiees erinnern.
 (
 촀\0Im Moment sind die Daten dieses
 Bewohners nicht mit einem Nutzer
@@ -128,7 +139,7 @@ genommen um das Löschen der
 Registrierungen von Bewohnern.\0\0(9촀\0In anderen Worten: 
 \0um das \0Löschen
 der Speicherdaten \0￿eines Spielers für
-\0Animal Crossing: New Horizons\0￿.\0\0(촀\0Es ist nämlich unmöglich,
+\0Animal Crossing: New Horizons\0￿.\0\0(촀\0Es ist nämlich unmöglich,
 \0 in den
 Systemeinstellungen im HOME-Menü
 deiner Nintendo Switch-Konsole...\0\0nur die Speicherdaten eines
@@ -152,8 +163,7 @@ ihn erinnern."
 "064_03","(9촀\0In deinem Fall ist die Situation
 allerdings sogar noch einmal etwas
 anders,
-\0 n\0.\0\0(\0촀\0Als 2B
-촀InselsprecherInselsprecherin\0 von n	\0 hast du eine besondere Rolle inne.\0\0Du und diese Insel,
+\0 n\0.\0\0(\0촀\0Als 2<InselsprecherInselsprecherin von n	\0 hast du eine besondere Rolle inne.\0\0Du und diese Insel,
 \0 ihr bildet quasi
 eine Einheitn\0\0\0\0(촀\0Hier auf n	\0 würde nichts mehr ordnungsgemäß funktionieren,
 \0 wenn du uns verlässt.\0\0Deshalb kann ich hier keine Anfragen
@@ -168,7 +178,7 @@ Speicherdaten des Spiels löschen!
 ()촀\0Rufe hierfür im HOME-Menü der
 Nintendo Switch-Konsole die
 \0Systemeinstellungen\0￿ auf.\0\0Wähle dort \0Datenverwaltung\0￿ und
-dann \0Speicherdaten löschen\0￿.\0\0Wähle dann \0Animal Crossing: New Horizons\0￿ und \0Alle Speicherdaten für
+dann \0Speicherdaten löschen\0￿.\0\0Wähle dann \0Animal Crossing: New Horizons\0￿ und \0Alle Speicherdaten für
 diese Software löschen\0￿!\0\0(9촀\0Dadurch werden aber nicht nur deine
 eigenen Daten gelöscht...\0\0(촀\0Sondern alle Speicherdaten des
 Spiels! 
@@ -182,7 +192,7 @@ Speicherdaten des Spiels löschen!
 ()촀\0Rufe hierfür im HOME-Menü der
 Nintendo Switch-Konsole die
 \0Systemeinstellungen\0￿ auf.\0\0Wähle dort \0Datenverwaltung\0￿ und
-dann \0Speicherdaten löschen\0￿.\0\0Wähle dann \0Animal Crossing: New Horizons\0￿ und \0Alle Speicherdaten für
+dann \0Speicherdaten löschen\0￿.\0\0Wähle dann \0Animal Crossing: New Horizons\0￿ und \0Alle Speicherdaten für
 diese Software löschen\0￿!\0\0(9촀\0Dadurch werden aber nicht nur die
 Daten eines einzelnen Bewohners
 gelöscht...\0\0(촀\0Sondern alle Speicherdaten des

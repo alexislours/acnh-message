@@ -1,23 +1,22 @@
 ﻿"label","text"
 "001","(촀\0You found it!
 \0 Nice work,
-n\0!\0\0(촀\0Hand it over so I can bend the lock
+n\0!\0\0(촀\0Hand it over so I can bend it
 open for you, n\0."
 "002","(촀\0That was quick!
 \0 I knew it'd be easy
-for you, n\0!\0\0(%촀\0I can muscle open that lock for you.
+for you, n\0!\0\0(%촀\0I can muscle it open for you.
 \0(
 (촀\0Hand it here, n\0."
 "003","(촀\0You found it?!
 \0( Guess I have
-some competition!(\0촀\0\0\0(%촀\0I can bend that lock open for you.
-\0(
-(\0촀\0Give it to me, n\0."
-"004","(
-촀\0I wonder what's insiden"
+some competition!(\0촀\0\0\0(%촀\0I can bend it open for you if you
+want.
+\0( (\0촀\0Give it to me, n\0."
+"004","(%촀\0Ready to see what's inside?"
 "005","(
 촀\0Let's see what you found."
-"006","(%촀\0Let's find out what's in here."
+"006","(%촀\0Open, says me."
 "007","(촀\02\02\0}\0!\0\0Congrats, n\0!"
 "008","(촀\02\02\0}\0!\0\0Congratulations, n\0!"
 "009","(촀\02\02\0}\0!

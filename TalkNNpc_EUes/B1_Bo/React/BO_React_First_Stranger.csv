@@ -14,10 +14,8 @@ son geniales en esta isla, n\0!"
 \0
 (촀\0Encantado de conocerte, n\0n"
 "002_02","(촀\0¡Hola, soy n
-\0
-y vengo de s촀!
-\0
-((촀\0¡Encantado, n\0!\0\0(\0촀\02\0s\0촀 me contó que esta isla estaba muy bien y decidí mudarme.\0\0(촀\0Yo es que hago mucho caso de los
+\0 y vengo de s촀!
+\0 ((촀\0¡Encantado, n\0!\0\0(\0촀\02\0s\0촀 me contó que esta isla estaba muy bien y decidí mudarme.\0\0(촀\0Yo es que hago mucho caso de los
 consejos que me dan los amigos,
 \0
 ¿sabes?"
@@ -43,12 +41,9 @@ he podido conocerte,
 \0 (촀\0¡así que todos
 contentos, n\0!"
 "012","(촀\0¡2\0n\0!
-\0 Me parece que no
-nos conocíamos, ¿verdad?
-\0
-(촀\0¡Soy n
-\0!
-(촀\0Antes vivía en s촀,
+\0 Me parece que no nos conocíamos, ¿verdad?
+\0 (촀\0¡Soy n
+\0!\0\0(촀\0Antes vivía en s촀,
 \0 ()촀\0pero me he mudado porque alguien de aquí me dijo que me molarían\0\0\0\0(촀\0Pero ya no vive en n\0n\0\0\0\0(\0촀\0Al principio me llevé un chasco,
 \0
 (2촀\0pero estoy haciendo nuevos amigos
@@ -60,7 +55,11 @@ como tú;
 \0
 Yo soy n
 \0.
-(\0촀\0Hasta ahora vivía en s촀, pero alguien me recomendó que me mudase aquí.\0\0(촀\0¡Así que me he mudado a n\0!\0\0(+촀\0Lo que pasa es que ahora estoy
+(\0촀\0Alguien de aquí que vino de visita
+a mi pueblo me recomendó que me
+mudase a esta isla.
+\0 (촀\0¡Y eso hice!
+(+촀\0Lo que pasa es que ahora estoy
 resfriadon\0\0\0\0(9촀\0Si te parece, nos vemos
 cuando esté mejor, ¿vale?
 \0
@@ -87,8 +86,7 @@ de la isla donde vivía antesn\0\0\0\0(%촀\0Pero s\0촀(""촀\0 me inv
 "102_02","(촀\0Huy, encantado de conocerten\0\0
 \0
 (촀\0Me llamo n
-\0 y antes vivía en otra isla.
-(%촀\02\0s\0촀 me visitó allí y, de paso,
+\0 y antes vivía en otra isla.\0\0(%촀\02\0s\0촀 me visitó allí y, de paso,
 \0 me invitó a mudarme aquí a n\0.\0\0(2촀\0Así que tengo que agradecerle el
 haberte conocido,
 \0 (촀\0¡y el poder vivir en
@@ -348,9 +346,7 @@ coleccionablesn"
 "402","(촀\0¡Hola, encantado de conocerte!
 \0
 (""촀\0Soy n
-\0 y me he
-mudado desde s촀.
-()촀\0Aunque no es la primera vez
+\0 y me he mudado desde s촀.\0\0()촀\0Aunque no es la primera vez
 que soy vecino en esta islan\0\0\0\0(촀\0¡2\0n\0!
 \0 ¡Qué emocionante
 es darse una vuelta por ahí para ver
@@ -358,9 +354,7 @@ cómo ha cambiado todo!"
 "404","(""촀\0¡Encantado de conocerte!
 \0
 Soy n
-\0 y he vuelto
-a s촀.
-()촀\0Antes solía vivir aquí, ¿sabes?\0\0(+촀\0Estoy encantado de haber vuelto,
+\0 y he vuelto a s촀.\0\0()촀\0Antes solía vivir aquí, ¿sabes?\0\0(+촀\0Estoy encantado de haber vuelto,
 peron\0\0
 \0 (,촀\0
 
@@ -388,17 +382,13 @@ a pasar genial, n\0!"
 \0
 (""촀\0Yo soy n
 \0
-\0
-y vengo de s촀.
-(%촀\0Tú tienes pinta de ser 2ella que todos
+\0 y vengo de s촀.\0\0(%촀\0Tú tienes pinta de ser 2ella que todos
 llaman «n\0».
 \0 (촀\0He oído hablar mucho de tin"
 "412_02","(&촀\0Oye, ¿eres n\0?\0\0(촀\0¡Pues encantado de conocerte!
 \0
 (촀\0Soy n
-\0 y antes vivía
-en s촀.
-(7촀\0Eres igualit2oa a como \0Canela\0￿
+\0 y antes vivía en s촀.\0\0(7촀\0Eres igualit2oa a como \0Canela\0￿
 te había descrito, n\0n"
 "412_03","(촀\0¡2\0n\0,
 \0 alguien a quien no conocía aún!
@@ -472,8 +462,7 @@ Me llamo n
 (촀\0¡Espero que podamos comer muchas
 chuches juntos, n\0!"
 "502_02","(촀\0¡Anda!
-\0 Tú eres n\0,
-¿verdad?\0\0(촀\0Había oído que te habías mudado.
+\0 Tú eres n\0, ¿verdad?\0\0(촀\0Había oído que te habías mudado.
 Me alegro de poder saludarte.\0\0(""촀\0Me llamo n
 \0,
 \0
@@ -518,9 +507,7 @@ me encuentre mejor,
 \0 (!촀\0¡Encantado de conocerte!
 \0
 ($촀\0Me llamo n
-\0
-y acabo de mudarme aquí.
-()촀\0Ahora no puedo hablar mucho,
+\0 y acabo de mudarme aquí.\0\0()촀\0Ahora no puedo hablar mucho,
 que aún tengo muchas chuches
 que ordenarn\0\0
 (""촀\0Pero pásate mañana, ¿vale?
@@ -548,8 +535,7 @@ molon2eas de n\0!"
 \0
 (촀\0¡Pues encantado de conocerte,
 n\0!\0\0(""촀\0Yo soy n
-\0
-y acabo de mudarme aquí.\0\0(7촀\0Si te apetece, podemos quedar uno
+\0 y acabo de mudarme aquí.\0\0(7촀\0Si te apetece, podemos quedar uno
 de estos díasn\0\0
 \0 (촀\0Yo podría poner las
 chuches y tú,

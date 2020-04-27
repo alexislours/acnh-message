@@ -11,8 +11,7 @@ escaso de bayas últimamente.\0\0¿No me comprarías mi
 de suerte?\0\0Sí,
 \0 porque he puesto a la venta
 mi }\0\0.
-\0
-(7촀\0Y creo que podría serte muy útil."
+\0 (7촀\0Y creo que podría serte muy útil."
 "002_a","(\0촀\0¿Cuánto cuesta?"
 "002_b","No, gracias..."
 "003","(촀\0¡Ah,
@@ -36,18 +35,16 @@ cosas.
 촀\0Verás,
 \0 es que, cuando me topo con
 2\0}\0\0,
-\0
-una voz me dice:
+\0 una voz me dice:
 \0 (촀\0¡compra,
-\0 compra!
-(촀\0Y aquí estoy,
+\0 compra!\0\0(촀\0Y aquí estoy,
 \0 con cinco encima,
 \0
 ¡y no veas si pesan!\0\0(5촀\0Y aquí,
 \0 jovencit2oa,
 \0 es donde puedes
 ayudarme.
-\0 ¿No quieres algun2촀oa\0?"
+\0 ¿No quieres algun2촀oa\0?"
 "004_a","(\0촀\0¿Cuánto es?"
 "004_b","Me temo que paso..."
 "005","(%촀\0Entiendo.
@@ -183,8 +180,7 @@ a haber trato.
 habrá más ocasionesn\0\0 (촀\0¡Nos vemos!"
 "300","(5촀\0Ah,
 \0 ¡ya nos vamos entendiendo!\0\0Entonces te quedas con 2\0
-}\0\0
-por Z.
+}\0\0 por Z.
 \0(&촀\0 ¿Vale?"
 "300_a","¡Sí!"
 "300_b","Mejor ahorrar..."
@@ -197,9 +193,9 @@ el detalle,
 me voy a fundir todas estas bayasn"
 "303","(&촀\0Oye,
 \0 ¿y qué te parece 2\0
-}\0\0?
-(
-촀\0Te 2촀lola\0 puedo dejar por Z."
+}\0\0?
+\0 (
+촀\0Te 2촀lola\0 puedo dejar por Z."
 "303_a","¡Venga!"
 "303_b","(\0촀\0¿No tienes otra cosa?"
 "304","(촀\0Vaya,
@@ -219,8 +215,7 @@ te enseñe todo mi catálogo!
 촀\0A ver,
 \0 déjame que piensen\0\0
 (촀\0¿Qué te parece un ejemplar único
-de }\0\0
-por Z?"
+de }\0\0 por Z?"
 "305_a","¡Ya mismo!"
 "305_b","No, deja..."
 "306","(촀\0Pero ¿entonces no quieres nada?

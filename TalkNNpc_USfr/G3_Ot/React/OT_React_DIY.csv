@@ -4,7 +4,7 @@
 que je suis en train de fabriquer,
 \0
 n'est-ce pas?"
-"001_a","Je n'en dors plus!"
+"001_a","(\0촀\0Je n'en dors plus!"
 "001_b","Pas plus que ça."
 "002","(촀\0C'est tout simple, 2(mon chérima chérie : c'est 2\0}\0\0!
 \0( (%촀\0Un projet de bricolage, vois-tu.\0\0()촀\0J'étais en train de rêver tout éveillée
@@ -15,14 +15,14 @@ mise au travail séance tenante!
 "
 "003","(촀\0Oh, mais dis donc!
 \0( Pourquoi tu
-n'essayerais pas de fabriquer
+n'essaierais pas de fabriquer
 2\0}\0\0?
 ()촀\0C'est un travail gratifiant,
 \0 et je serais
 ravie de t'enseigner ma technique.
 \0(
 (6촀\0Je suis là pour ça, n\0!"
-"003_a","Montre-moi vite!"
+"003_a","(\0촀\0Montre-moi vite!"
 "003_b","Sans façons."
 "007","( 촀\0Très bien, 
 \0comme tu veux.
@@ -38,10 +38,8 @@ travail, 
 "008_a","Eh oui!"
 "008_b","On dirait bien."
 "009","(촀\0Bien sûr,
-\0 j'aurais dû m'en douter!
-
-\0((%촀\0Venant de toi, n\0,
-ça ne me surprend pas du tout."
+\0 j'aurais dû m'en douter! 
+\0((%촀\0Venant de toi, n\0, ça ne me surprend pas du tout."
 "010","(촀\0Mais que vois-je? 
 \0Tes poches sont
 pleines, 2(mon chérima chérie!

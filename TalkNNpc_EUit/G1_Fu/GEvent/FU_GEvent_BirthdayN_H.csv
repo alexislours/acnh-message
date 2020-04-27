@@ -31,7 +31,7 @@ regalo per me, n\0?
 
 \0(촀\0Credo che potrei impazzire di gioia!"
 "005_a","(촀\0Eccolo qui!"
-"005_b","Non ho portato nulla..."
+"005_b","(\0촁\0Non ho portato nulla..."
 "006","(촀\0Benvenut2oa alla mia festa
 di compleanno, n\0!\0\0(촀\0Sono venuti così tanti amici 
 \0
@@ -43,8 +43,8 @@ generosità! 
 \0(촀\0Oh, scusa... 
 \0Non volevo
 metterti in imbarazzo."
-"006_a","Anch'io ho un regalo!"
-"006_b","Mi dispiace..."
+"006_a","(\0촁\0Anch'io ho un regalo!"
+"006_b","(\0촁\0Mi dispiace..."
 "007","(촀\0Oh, pas de problème! 
 \0Il fatto che tu
 sia qui con me oggi (촀\0è già un regalo
@@ -94,18 +94,18 @@ a capirlo dal peso..."
 "018","(촀\0Non ci posso credere, n\0!
 \0
 2\02\0}\0\0!\0\0(촀\0Stavo giusto pensando di comprarne
-un2촀oa\0. 
+un2촀oa\0. 
 \0(촀\0Hai un sesto senso incroyable,
 merci!"
 "019","(촀\02\02\0}\0\0!
 \0
-(촀\0Merci, è una meraviglia!\0\0(촀\0Finalmente ne avrò un2촀oa\0 di scorta
+(촀\0Merci, è una meraviglia!\0\0(촀\0Finalmente ne avrò un2촀oa\0 di scorta
 quando devo mettere a lavare
-quest2촀oa\0."
+quest2촀oa\0."
 "020","(촀\0Oh, uaaau! 
 \0Adesso anch'io ho
 2\0}\0\0
-come 2""촀il tuola tua\0, n\0!
+come 2""촀il tuola tua\0, n\0!
 (촀\0Adoooro andare in giro vestita come
 te, n\0. 
 \0(촀\0Ci scambieranno
@@ -121,7 +121,7 @@ Uaaau! 
 sono rimasta senza parole!"
 "023","(촀\0Oh, che gioia! Mi hai portato
 2\0}\0\0!
-L2촀oa\0 conserverò come un tesoro."
+L2촀oa\0 conserverò come un tesoro."
 "024","(촀\0Oh, speravo proprio che
 qualcuno mi regalasse
 2\0}\0\0!
@@ -152,11 +152,11 @@ come me. 
 quando sono così fresche è meglio
 utilizzarle in cucina."
 "030","(촀\0Mi chiedevo cosa fosse questo
-profuminon\0\0 Doveva essere 2""촀questoquesta\0
+profuminon\0\0 Doveva essere 2""촀questoquesta\0
 }\0\0!\0\0(촀\0Che regalo originale en\0\0 goloso!"
 "031","(촀\0Questo è lo schema fai da te per
 2\0}\0\0!\0\0(
-촀\0Mmmmhn\0\0 Non penso di poterlo
+촀\0Mmmhn\0\0 Non penso di poterlo
 accettare,
 \0 n\0.\0\0(촀\0Apprezzo il pensiero,
 \0 ma mi sentirei
@@ -231,8 +231,8 @@ gusto e sei bravissimissim2oa a fare
 i regali, n\0.
 (촀\0So già che adorerò qualsiasi cosa
 tu mi abbia portato!"
-"062_a","Ecco qua!"
-"062_b","Oh! Scusami, ma..."
+"062_a","(\0촁\0Ecco qua!"
+"062_b","(\0촁\0Oh! Scusami, ma..."
 "064","(촀\0Te ne vai di già? 
 \0Ancora merci di
 essere venut2oa e per il tuo splendido
@@ -320,7 +320,7 @@ il nostro compleanno lo stesso
 giorno. 
 \0Che splendida coincidenza!
 (촀\0Era destino che diventassimo
-2 촀
+2 촀
 amiciamiche\0! Ed ecco perché festeggiamo
 insieme.
 (4촀\0E se per cason\0\0

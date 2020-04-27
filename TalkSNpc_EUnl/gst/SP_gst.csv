@@ -43,7 +43,7 @@ wel dat er meer was, maarn\0\0 Te
 denken dat spoken echt bestaann"
 "003","(촀\0Wat? 
 \0Ben jij een mens?
-\0(9촀\0 Een echt
+\0(9촀\0 Een echte
 mens, van vlees en bloed?\0\0(
 촀\0Ik ben al heeeeel lang op dit eiland,
 \0
@@ -96,8 +96,10 @@ dat kan verdragen!\0\0(%촀\0Je helpt me toch wel? Ik beloof je
 dat ik je rijkelijk voor je inspanningen
 zal belonen."
 "007","(
-촀\0Goed, even inventariserenn\0\0 Er zijn
-in totaaln\0\0 ($촀\0\0vijf flarden\0￿ van mijn \0geest\0￿
+촀\0Goed, even inventariserenn\0\0
+\0( Er zijn
+in totaaln\0\0
+\0 ($촀\0\0vijf flarden\0￿ van mijn \0geest\0￿
 weggevlogen.\0\0(\0촀\0Ze zweven her en der op het eiland
 rond.
 \0(""촀\0 Met een \0net\0￿ moet je ze kunnen
@@ -188,29 +190,31 @@ moet zijn!"
 \0 (%촀\0Ik had je een beloning beloofd."
 "033_01","(
 촀\0Wat zal ik je eens geven?
-\0(촀\0 Ja! Wie
+\0(촀\0 Ja! Wie
 houdt er nou niet van meubels?"
 "033_02","(
 촀\0Wat zal ik je eens geven?
-\0 (촀\0Ik weet
-het al! Een leuk behangetje zal vast
+\0 (촀\0Ik weet
+het al! 
+\0Een leuk behangetje zal vast
 naar je smaak zijn."
 "033_03","(
 촀\0Wat zal ik je eens geven?
-\0(촀\0 O, ik weet
-het al! Een vloer. Iedereen houdt
+\0(촀\0 O, ik weet
+het al! 
+\0Een vloer. Iedereen houdt
 van vloeren."
 "033_04","(
 촀\0Wat zal ik je eens geven?
-\0 (촀\0Mijn
+\0 (촀\0Mijn
 gedachten gaan naar kledingn"
 "035","()촀\0Ik kan je iets geven wat je nog niet
 hebt, of ik kan je iets duurs geven.
 \0(\0촀\0
 
 \0(&촀\0Wat heb je liever?"
-"035_a","Iets nieuws."
-"035_b","Iets duurs."
+"035_a","(\0촀\0Iets nieuws."
+"035_b","(\0촀\0Iets duurs."
 "036_01","(%촀\0Begrepen!
 \0(촀\0 Iets nieuwsn\0\0 Iets wat je
 nog niet hebtn\0\0\0\0(:촀\0Of je nu veel of weinig bezit,
@@ -223,7 +227,7 @@ schatten van de waarde van dingen,
 \0
 (7촀\0dus ik hoop dat dit goed isn"
 "037","(""촀\0Alsjeblieft, 2\0}\0!
-\0( (%촀\0Ik berg 2촀hemhetze op in je zakken."
+\0( (%촀\0Ik berg 2촀hemhetze op in je zakken."
 "038","(%촀\0Ik hoop dat onze paden zich nog
 eens kruisen.
 \0 Maar tot dat moment

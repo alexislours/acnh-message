@@ -19,7 +19,7 @@ dieser Sache wach gelegen habe..."
 "003_b","(\0촁\0Weiß nicht mehr."
 "004","(&촀\0Also, 
 \0wie hat s촀 reagiert, 
-\0als du es 2촀ihmihrihm übergeben hast, 
+\0als du es 2촀ihmihrihm übergeben hast, 
 \0n\0?"
 "004_a","(\0촁\0Also..."
 "004_b","(\0촁\0Vergessen!"
@@ -94,7 +94,7 @@ doch eher 촀?"
 "013","(&촀\0Hat s촀 Gewichte gestemmt, 
 \0als du mit ihm geredet hast, 
 \0n\0?\0\0(촀\0Tja, 
-\0außer er war zu müde 2$!촀vomvon dervom
+\0außer er war zu müde 2$""촀vomvon dervom
 2촂촀!"
 "014","(촀\0War s촀 etwa grantig? 
 \0((6촀\0Ich meine, 
@@ -113,7 +113,7 @@ reagiert, 
 \0 (촀\0Danke,
 \0 dass du es zurückgebracht hast!"
 "102","(&촀\0Du hast s촀 zurückgebracht, 
-\0was 2촀ersieer bei mir vergessen hatte,
+\0was 2촀ersieer bei mir vergessen hatte,
 \0 ja? 
 \0(촀\0Vielen Dank!"
 "103","(&촀\0Hat s촀 etwas gesagt, 
@@ -164,15 +164,15 @@ hast. 
 vielleicht auch getan, 
 \0n\0."
 "108","(촀\0Wirklich wahr?
-\0 2촀ErSieEr hat schon einen
+\0 2촀ErSieEr hat schon einen
 Ersatz gekauft?! 
 \0(촀\0Jetzt fühle ich
 mich richtig mies!\0\0(\0촀\0n\0\0(
 촀\0Glaubst du, 
-\02촀ersieer braucht das
+\02촀ersieer braucht das
 Duplikat dann noch, 
 \0n\0?"
-"109","(%촀\0Zum Glück hat 2촀ersieer keinen Ersatz
+"109","(%촀\0Zum Glück hat 2촀ersieer keinen Ersatz
 kaufen müssen, 
 \0bloß weil ich das mit
 dem Zurückgeben vergessen habe.\0\0Danke, 
@@ -199,8 +199,8 @@ denn nun gesagt, 
 "205","(촀\0Na gut.
 \0 Ich bin jedenfalls froh, 
 \0dass
-es wieder bei 2|촀&seinem rechtmäßigen&seiner rechtmäßigen&seinem rechtmäßigen
-2>촀BesitzerBesitzerinBesitzer ist – 
+es wieder bei 2|촀&seinem rechtmäßigen&seiner rechtmäßigen&seinem rechtmäßigen
+2>촀BesitzerBesitzerinBesitzer ist – 
 \0s촀."
 "206","(촀\0Wie, 
 \0du hast das Paket geöffnet?
@@ -224,11 +224,11 @@ bleiben.
 \0WAS?
 \0 In dem Paket war ein
 Geschenk für dich, 
-\0n\0?!\0\0(촀\02,촀Dieser
+\0n\0?!\0\0(촀\02,촀Dieser
 DieseDieses s촀...
 
 \0Ich weiß nicht, 
-\0wie 2촀ersieer das immer
+\0wie 2촀ersieer das immer
 schafft, 
 \0aber ich bin beeindruckt."
 "209","(촀\0Tja... 
@@ -277,13 +277,13 @@ gestanden? 
 \0
 (3촀\0Ich muss das herausfinden..."
 "308","(촀\0Wenn s촀 sich gefreut hat, 
-\0freu ich mich auch!\0\0(7촀\02촀ErSie\0 HAT sich doch gefreut, 
+\0freu ich mich auch!\0\0(7촀\02촀ErSie\0 HAT sich doch gefreut, 
 \0oder, 
 \0n\0?"
 "309","(촀\0Ach, 
 \0s촀n\0\0
 \0
-(촀\02촀ErSie\0 war wohl nur zu schüchtern,
+(촀\02촀ErSie\0 war wohl nur zu schüchtern,
 \0
 um es gleich anzuprobieren."
 "310","(
@@ -291,7 +291,7 @@ um es gleich anzuprobieren."
 \0Aber s촀 HAT
 es anprobiert, 
 \0ja?\0\0(촀\0Dann wird es im Nullkommanichts
-2 촀seinihrsein Lieblingsstück werden,
+2 촀seinihrsein Lieblingsstück werden,
 
 \0n\0."
 "312","(촀\0Ach, wirklich?
@@ -349,7 +349,7 @@ gefallen würde...\0\0(6촀\02\0s촀 und ich, 
 \0Du hast s촀 das Paket überbracht?\0\0(촀\0Puh, 
 \0da bin ich aber erleichtert."
 "402","(&촀\0Also, 
-\0was hat 2촀ersiees gesagt?
+\0was hat 2촀ersiees gesagt?
 \0
 Jetzt mach's doch nicht so
 spannend, 
@@ -369,7 +369,7 @@ doch das Wichtigste!\0\0(
 \0versuch mal, 
 \0dich zu erinnern.
 \0
-Hat 2촀ersieer eher 
+Hat 2촀ersieer eher 
 \0(촀\0
 \0SO ausgesehen?
 \0(
@@ -406,7 +406,7 @@ abgeliefert, 
 \0dann
 muss ich das wohl übernehmen."
 "502","(촀\0Du hast s촀 nie zurückgebracht, 
-\0was 2촀ersieer bei mir vergessen hatte?!\0\0(촀\0Na schön, 
+\0was 2촀ersieer bei mir vergessen hatte?!\0\0(촀\0Na schön, 
 \0gib es mir. 
 \0Ich erledige
 das persönlich, 
@@ -430,7 +430,7 @@ besonderes Geschenk für mich
 übergeben solltest? 
 \0(촀\0Nein, 
 \0schon gut.\0\0(촀\0Wenn ich es s촀 später selbst überreiche, 
-\0wird es 2촀ihmihrihm nur umso mehr gefallen!"
+\0wird es 2촀ihmihrihm nur umso mehr gefallen!"
 "505","(:촀\0Du weißt, 
 \0dass die Luft zwischen
 s촀 und mir immer noch nicht wieder rein ist, 
@@ -459,7 +459,7 @@ ausrasten. 
 \0s촀 muss das unbedingt schnell bekommen!"
 "509","Na ja, 
 \0jetzt kann ich wenigstens
-selbst 2 촀seinihrsein Gesicht sehen, 
+selbst 2 촀seinihrsein Gesicht sehen, 
 \0wenn
 ich es übergebe. 
 \0(6촀\0Ti-hi."

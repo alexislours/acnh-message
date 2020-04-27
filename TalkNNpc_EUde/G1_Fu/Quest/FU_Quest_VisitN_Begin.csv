@@ -1,9 +1,8 @@
 ﻿"label","text"
 "001","(촀\02\0n\0, 
-\0(\0촀\0hättest
-du Lust,
-\0 ($촀\0mich bei mir zu
-Hause zu besuchen?\0\0(촀\0Es wäre doch ganz nett, sich
+\0(\0촀\0hättest du Lust,
+\0 ($촀\0mich bei mir zu Hause zu besuchen?\0\0(촀\0Es wäre doch ganz nett, 
+\0sich
 gemeinsam drinnen etwas zu
 entspannen, 
 \0findest du nicht?"
@@ -33,7 +32,7 @@ einmal besuchen?\0\0(%촀\0Dann könnte ich mich mal in
 der Rolle der Gastgeberin üben.
 \0
 ($촀\0Du wärst dabei der ideale Gast!"
-"003_a","(\0촀\0Okay, kein Problem!"
+"003_a","Okay, kein Problem!"
 "003_b","Geht leider nicht."
 "004","(%촀\0Alles klar. 
 \0(촀\0Vielleicht ein andermal.
@@ -74,8 +73,7 @@ Wann kannst du es denn einrichten?"
 "102","(촀\0Dann auf zu mir nach Hause!"
 "103","(""촀\0Dann lass uns losgehen!"
 "104","(%촀\02\0n\0, 
-\0das wird dein
-erster Besuch bei mir, 
+\0das wird dein erster Besuch bei mir, 
 \0nicht wahr?\0\0(4촀\0Hoffentlich gefällt dir mein
 trautes Heim..."
 "105","( 촀\0Mir fällt gerade auf, dass du mich nie
@@ -133,8 +131,7 @@ mir zu Hause erwarten!"
 "302","()촀\0Ich bin morgen den ganzen Tag zu
 Hause, 
 \0n\0! 
-\0(촀\0Schau
-vorbei, 
+\0(촀\0Schau vorbei, 
 \0wann es dir am besten passt!"
 "303","(촀\0Ich freue mich auf deinen
 morgigen Besuch!
@@ -145,7 +142,7 @@ mir zu Hause besuchen?\0\0(%촀\0Ich habe heute Morgen geputzt, 
 \0und
 (7촀\0es wäre schön, wenn du alles im
 jetzigen Zustand sehen würdest..."
-"401_a","(\0촀\0Sauber!"
+"401_a","Sauber!"
 "401_b","Ich kann leider nicht."
 "402","( 촀\0Hallo, 
 \0n\0!\0\0(4촀\0Ich habe das dringende Bedürfnis,

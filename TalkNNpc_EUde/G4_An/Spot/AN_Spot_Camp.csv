@@ -118,8 +118,7 @@ von hier oder, 
 "201_01","($촀\0Hey,
 \0 n\0!
 \0( (%촀\0Ich hoffe, 
-\0du hast dir jetzt wegen mir nich' die
-Beine in den Bauch gestanden.\0\0(6촀\0Cooler Move,
+\0du hast dir jetzt wegen mir nich' die Beine in den Bauch gestanden.\0\0(6촀\0Cooler Move,
 \0 dass du mich hierher
 eingeladen hast.
 \0 Ich weiß das echt
@@ -151,11 +150,9 @@ hergeschafft,
 \0 n\0!"
 "202","<"
 "202_01","($촀\0Biste von hier? 
-\02\0s\0촀
-hat mich herzitiert...
+\02\0s\0촀 hat mich herzitiert...
 \0 Also,
-\0(촀\0 falls dich
-das interessiert, 
+\0(촀\0 falls dich das interessiert, 
 \0n\0."
 "202_02","(촀\0Alter Falter! 
 \02\0s\0촀 hatte echt nich' untertrieben.
@@ -179,7 +176,7 @@ Einladung eingegangen bin. 
 \0
 Ein Dauerzustand sollt's aber nich'
 werden. 
-\0n\0n\0\0\0\0(촀\0Unterm Sternenhimmel zu pennen
+\02\0n\0n\0\0\0\0(촀\0Unterm Sternenhimmel zu pennen
 hat schon was. 
 \0(촀\0Wäre da nich' der
 steinharte Untergrund..."
@@ -230,7 +227,7 @@ aus. 
 \0
 Ein Dauerzustand sollt's aber nich'
 werden. 
-\0n\0n\0\0\0\0(촀\0Unterm Sternenhimmel zu pennen
+\02\0n\0n\0\0\0\0(촀\0Unterm Sternenhimmel zu pennen
 hat schon was. 
 \0(촀\0Wäre da nich' der
 steinharte Untergrund..."

@@ -10,7 +10,7 @@ gamingamine,
 "004","()촀\0Ça fait des heures que j'm'échine
 à tenter de mettre la patte sur
 2\0}촀n\0\0
-(촀\0J'sais qu'2L촀ils sont censés$elles sont censées\0 être
+(촀\0J'sais qu'2L촀ils sont censés$elles sont censées\0 être
 rares,
 \0 mais ça commence à devenir
 gênant, cette histoiren"
@@ -74,7 +74,7 @@ bien aimable."
 "021_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"021_b","Je regrette, mais...
+"021_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "022","Ah,
@@ -95,12 +95,11 @@ quel spécimen fera l'affaire."
 "022_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"022_b","Je regrette, mais...
+"022_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "023","Dis,
-\0 n\0. (4촀\0J'aurais
-un petit service à te demandern\0\0\0\0(;촀\0J'aimerais bien remplacer mon vieux
+\0 n\0. (4촀\0J'aurais un petit service à te demandern\0\0\0\0(;촀\0J'aimerais bien remplacer mon vieux
 réveil par quelque chose de plus
 écologique,
 \0 comme une cigalen\0\0
@@ -111,15 +110,12 @@ espèce de cigale fera l'affaire."
 "023_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"023_b","Je regrette, mais...
+"023_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "025","Tiens n\0,
-\0 t'es
-fortiche à la chasse aux insectes,
-pas vrai ?
-\0 J'ai besoin de ton aide.
-()촀\0J'ai passé je sais pas combien de
+\0 t'es fortiche à la chasse aux insectes, pas vrai ?
+\0 J'ai besoin de ton aide.\0\0()촀\0J'ai passé je sais pas combien de
 jours à tenter de mettre la patte
 sur un papillonn\0\0(촀\0 Impossible !
 C'est vraiment frustrant,
@@ -132,7 +128,7 @@ en attraper un pour moi,
 "025_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"025_b","Je regrette, mais...
+"025_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "026","(""촀\0J'aurais besoin que tu me rendes un
@@ -152,7 +148,7 @@ je ne serai pas trop difficile !"
 "026_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"026_b","Je regrette, mais...
+"026_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "027","(4촀\0Dis-moi,
@@ -170,7 +166,7 @@ coup-là ?"
 "027_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"027_b","Je regrette, mais...
+"027_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "028","Dis,
@@ -192,7 +188,7 @@ de n'importe quelle espèce !"
 "028_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"028_b","Je regrette, mais...
+"028_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "031","(""촀\0Dis-moi,
@@ -210,7 +206,7 @@ je leur ai fait ?"
 "031_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"031_b","Je regrette, mais...
+"031_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "032","($촀\0Dis,
@@ -229,7 +225,7 @@ pour moi.
 "032_a","Je m'en occupe !
 OK !
 Bien sûr !"
-"032_b","Je regrette, mais...
+"032_b","(\0촀\0Je regrette, mais...
 Pas maintenant.
 Malheureusement non."
 "101","(촀\0Salut n\0.
@@ -237,7 +233,7 @@ Malheureusement non."
 pour mettre la patte sur 2\0}촀.\0\0(&촀\0Je peux compter sur un coup de
 patte de ta part ?"
 "101_a","Je m'en occupe !"
-"101_b","Ça va être compliqué."
+"101_b","(\0촀\0Ça va être compliqué."
 "102","(촀\0Ça me coûte de te le dire, mais j'ai
 un mal fou à mettre la patte sur
 2\0}촀n\0\0
@@ -265,17 +261,17 @@ de perdren\0\0
 comme approche,
 \0 mais il me faut
 2\0}촀.
-(&촀\0Tu voudrais bien m'en pêcher 2촀unune\0 ?
+(&촀\0Tu voudrais bien m'en pêcher 2촀unune\0 ?
 \0
 (촀\0Ça me rendrait super service."
 "201_a","Je m'en occupe !"
-"201_b","Ça sent la galère..."
+"201_b","(\0촀\0Ça sent la galère..."
 "202","(촀\0Quelqu'un vient de me dire que
 ma tête lui faisait penser à
 2\0}촀n\0\0
 (촀\0Je sais pas du tout comment le
 prendre parce que j'en ai jamais
-vu d'assez prèsn\0\0\0\0(&촀\0Tu voudrais bien en attraper 2촀unune\0
+vu d'assez prèsn\0\0\0\0(&촀\0Tu voudrais bien en attraper 2촀unune\0
 pour moi pour enfin connaître le fin
 mot de cette affaire ?"
 "202_a","(\0촀\0Bien sûr !"

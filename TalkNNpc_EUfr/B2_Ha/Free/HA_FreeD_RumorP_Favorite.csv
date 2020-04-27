@@ -58,7 +58,7 @@ quelques coups de moun\0\0\0\0(&촀\0Toi,
 \0
 c'est toujoursn\0\0
 \0 « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "010_101_a","(%촀\0C'est toujours ça, oui.
 (%촀\0Tout à fait !"
 "010_101_b","('촀\0Non, ce n'est plus le cas."
@@ -237,7 +237,7 @@ pour 촀, n\0 ?"
 \0
 (&촀\0c'est bienn\0\0
 \0 « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "030_101_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait !"
 "030_101_b","('촀\0Non, c'est plus le cas.
@@ -245,7 +245,7 @@ pour 촀, n\0 ?"
 "030_102","(&촀\0Alors ta 촀 préférée,
 \0 c'est vraimentn\0\0
 \0 « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "030_102_a","(%촀\0C'est bien ça, oui.
 (%촀\0Tout à fait !"
 "030_102_b","('촀\0Non, c'est plus le cas.
@@ -304,8 +304,7 @@ digne de ce nom !\0\0(5촀\0Moi aussi,
 pas trop chargée en entraînements,
 \0
 je pars 촀 !"
-"031_05","(%촀\0C'est chouette de savoir super bien
-촀.
+"031_05","(%촀\0Savoir 촀, c'est chouette.
 \0 (촀\0J'en attendais pas moins de 2Bmon grand rival ma grande rivale !"
 "031_101","( 촀\0Alors ça !
 \0 C'est quand même dingue,
@@ -1297,7 +1296,7 @@ sera fini,
 (2촀\0Moi,
 \0 j'oublie sans arrêt des trucs.
 \0 Tu
-devrais me filer deux-trois conseilsn\0\0\0\0(\0촀\0Et sinonn\0\0
+devrais me filer deux, trois conseilsn\0\0\0\0(\0촀\0Et sinonn\0\0
 \0 (&촀\0c'était quoi,
 \0 tu m'as dit,
 \0
@@ -1378,7 +1377,7 @@ dans une boisson protéinée.
 quel,
 \0 j'ai jamais goûté, n\0."
 "106_09","( 촀\0Ton métier de rêve, ce serait « ⁠
-촀 » ?
+촀 ⁠» ?
 \0 Ouah !
 \0 (%촀\0Chouette projet d'avenir.\0\0(6촀\0Pour ça, je parie qu'il te faut de
 super muscles et un cerveau bien
@@ -1484,7 +1483,7 @@ en boisson protéinée, n\0 !"
 pour trouver ce qui te convient !"
 "107_10","( 촀\0Oh,
 \0 vraiment ?
-\0 2\0n\0 !\0\0(촀\0C'est parce que t'as rien trouvé qui
+\0 2\0n\0 !\0\0(촀\0C'est parce que t'as rien trouvé
 qui te plaise,
 \0 ou au contraire tout
 te plaît et t'arrives pas à choisir ?"

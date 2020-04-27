@@ -318,7 +318,9 @@ bichos justifica ciertas excepciones.
 (8촀\0Total,
 \0 que deberías unirte a la causa
 \0
-y jugar una ronda."
+y jugar una ronda.
+\0 Tienes tiempo
+hasta las \0Z%촁:00\0￿."
 "037","(촀\0La \0Caza de Bichos\0￿ ya está aquí.
 \0
 (9촀\0En ningún otro momento están
@@ -403,7 +405,7 @@ al mejor precio.
 serán felices.\0d"
 "049_a","¿Te vendo bichos?"
 "049_b","Quiero canjear puntos"
-"049_c","Otra cosa..."
+"049_c","Sobre la Caza de Bichos"
 "049_d","('촀\0Da igual"
 "050","(%촀\0¡Por supuesto!
 \0 ¿De qué bichos
@@ -477,13 +479,20 @@ a ti?
 \0 (9촀\0igual te cazan ellosn"
 "061","(촀\0Perdona que sea tan materialista,
 \0
-(촀\0pero no tienes suficientes bayas.\0\0(촀\0Después de la primera ronda,
-\0
-participar cuesta \0Z\0￿.
+(촀\0pero no tienes suficientes bayas.\0\0(촀\0Necesitarás \0Z\0￿ si quieres participar.
+\0 Lo siento."
+"062","( 촀\0Si fuera una luciérnaga,
+\0 brillaría
+de alegría.
+\0('촀\0 Pero no lo soy.\0\0(%촀\0Participar cuesta \0Z
+\0￿después de la primera ronda.
 \0
-Lo siento."
-"062","(%촀\0Muy bien,
-\0 son \0Z\0￿."
+(&촀\0¿Te parece bien?"
+"062_01","(9촀\0Entonces cobraré las \0Z
+\0￿ahora.
+\0 Graciasn"
+"062_a","¡Perfecto!"
+"062_b","Mejor paso"
 "063","(9촀\0Dispones de \0Z\0 minutos\0￿.
 \0 Ya sabes,
 \0
@@ -904,6 +913,54 @@ los puntos adicionalesn\0\0
 \0 (촀\0Hala.
 \0
 Eso hace un total de \0Z puntos\0￿."
+"151","(9촀\0Tu red,
+\0 rápida como el relámpago,
+\0
+ha atrapado nada menos ( 촀\0que
+\0Z bichos\0￿.
+\0 Impresionante.
+()촀\0La \0jaula para bichos\0￿ no admite más
+de veinte a la vez.
+\0 ('촀\0No es seguro.
+\0
+Podría pasar (촀\0cualquier cosan\0\0
+(\0촀\0He tenido que liberar a los demás.
+\0
+('촀\0Pero no te preocupes.
+\0
+(%촀\0Recibirás tus puntos.
+(
+촀\0Te corresponden \0Z\0￿
+\0 y, al sumar la
+bonificación por atrapar más de \0Z\0￿,
+\0
+(:촀\0hace un total de \0Z puntos\0￿."
+"152","(9촀\0Tu red,
+\0 rápida como el relámpago,
+\0
+ha atrapado nada menos ( 촀\0que
+\0Z bichos\0￿.
+\0 Impresionante.
+()촀\0La \0jaula para bichos\0￿ no admite más
+de veinte a la vez.
+\0 ('촀\0No es seguro.
+\0
+Podría pasar (촀\0cualquier cosan\0\0
+(\0촀\0He tenido que liberar a los demás.
+\0
+('촀\0Pero no te preocupes.
+\0
+(%촀\0Recibirás tus puntos.
+(
+촀\0A ver,
+\0 entre todos los participantes
+habéis cazado \0Z	 bichos\0￿,
+\0 lo que
+supera la barrera de los \0Z
+\0￿.
+(:촀\0Por tanto,
+\0 os lleváis la bonificación
+y sumáis un total de \0Z puntos\0￿."
 "160","()촀\0La \0jaula para bichos\0￿,
 \0 bajo el toldo,
 \0

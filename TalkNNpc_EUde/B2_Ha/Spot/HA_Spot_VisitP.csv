@@ -63,10 +63,8 @@ einen schnellen Vergleich vorbei,
 
 \0n\0!"
 "200","(촀\0Ach ja! 
-\0Ich hab dir 2""촀
-eineneineein
-2촁}\0
-mitgebracht. 
+\0Ich hab dir 2""촀
+eineneineein 2촁}\0 mitgebracht. 
 \0(촀\0Bitte!"
 "201","(""촀\0Ich hab auch ein Geschenk dabei.
 
@@ -76,14 +74,13 @@ mitgebracht. 
 "202","(%촀\0Oh, 
 \0ich hab noch was für dich dabei!
 \0
-2""촀
+2""촀
 EinenEineEin 2촁}\0!
 (촀\0Viel Spaß damit!"
-"203","(촀\02\02\0}\0 für
-dich, 
+"203","(촀\02\02\0}\0 für dich, 
 \0bitte schön! 
-\0(6촀\0Ich hoffe, das
-passt in deinen Ernährungsplan."
+\0(6촀\0Ich hoffe, 
+\0das passt in deinen Ernährungsplan."
 "204","(촀\0Ach ja! 
 \0((촀\0Hier ist noch ein perfekter
 Workout-Snack für dich:
@@ -93,7 +90,7 @@ Workout-Snack für dich:
 \0Ich hab dir hier noch was
 zu futtern mitgebracht...
 \0
-(촀\02\02""촀
+(촀\02\02""촀
 EinenEineEin 2촁}\0!
 (%촀\0Da sind viele wichtige Proteine für
 den Muskelaufbau enthalten!"

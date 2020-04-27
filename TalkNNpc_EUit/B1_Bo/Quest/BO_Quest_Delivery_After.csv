@@ -2,7 +2,7 @@
 "001","(촀\0Ehi, n\0! 
 \0Grazie di aver portato il pacchetto 2\0 s촀!"
 "002","(촀\0Oh, n\0n\0\0 
-\0Hai per caso riportato 2\0 s촀 quella cosa di cui ti avevo parlato?\0\0(4촀\0Era molto 22촀arrabbiatoarrabbiata\0?
+\0Hai per caso riportato 2\0 s촀 quella cosa di cui ti avevo parlato?\0\0(4촀\0Era molto 22촀arrabbiatoarrabbiata\0?
 \0( (\0촀\0Ad ogni modo
 grazie, 
 \0mi hai fatto un favore enorme,
@@ -15,15 +15,15 @@ grazie, 
 "004","(
 촀\0Ce l'avevo da un bel po'n\0\0 
 \0(촀\0Era molto
-22촀arrabbiatoarrabbiata\0 s촀?"
+22촀arrabbiatoarrabbiata\0 s촀?"
 "004_a","(\0촀\0Sì, a proposito..."
 "004_b","Non me lo ricordo."
-"005","(촀\0Ma come non ti ricordi,
-n\0?\0\0(%촀\0No, scusa, non dovrei arrabbiarmin\0\0
+"005","(촀\0Cooosa?
+\0 Non te lo ricordi più?\0\0(%촀\0No, scusa, non dovrei arrabbiarmin\0\0
 
 \0(촀\0La verità è che sono smemorato
 tanto quanto te, n\0!"
-"006","(촀\0L'hai aperto? 
+"006","(촀\0L'hai aperto?! 
 \0(촀\0Guarda che aprire
 i pacchetti degli altri non è un gesto
 da 2:un supereroeuna supereroina che si rispetti."
@@ -77,15 +77,15 @@ te quando è arrabbiato!\0\0(촀\0Grazie mille dell'aiuto, n\0!"
 "102","(촀\0Senti, n\0n\0\0 
 \0Hai già riportato il pacchetto 2\0 s촀, vero?\0\0(%촀\0Grazie della tua solerzia, n\0."
 "103","Per caso s촀
-\0 ti ha detto qualcosa quando 2촀glile\0 hai consegnato il pacchetto?"
-"103_a","Mmm..."
+\0 ti ha detto qualcosa quando 2촀glile\0 hai consegnato il pacchetto?"
+"103_a","(\0촀\0Mmm..."
 "103_b","Non me lo ricordo."
-"104","Cos'ha detto s촀 quando 2촀glile\0 hai portato il pacchetto?"
+"104","Cos'ha detto s촀 quando 2촀glile\0 hai portato il pacchetto?"
 "104_a","(\0촀\0Veramente..."
 "104_b","Non me lo ricordo."
 "105","(촀\0Ah, non ti ricordi? 
 \0(\0촀\0Che peccaton\0\0
-Ero proprio curioso di saperlo.\0\0(촀\0Ma l'importante è che tu 2촀glile\0
+Ero proprio curioso di saperlo.\0\0(촀\0Ma l'importante è che tu 2촀glile\0
 (촀\0abbia riportato il pacchetto,
 n\0!"
 "106","(촀\0Cosaaa?! 
@@ -104,7 +104,7 @@ in colpa, 
 \0avrei dovuto restituirglielo
 priman"
 "109","(7촀\0
-\0Scommetto che s촀 non si era neanche 2&촀accortoaccorta\0 che 2촀glile\0 mancava qualcosan"
+\0Scommetto che s촀 non si era neanche 2&촀accortoaccorta\0 che 2촀glile\0 mancava qualcosan"
 "201","(촀\0Ehilà, n\0!
 \0 Ti ringrazio di aver portato quella cosa 2\0 s촀!"
 "202","(촀\0Oh, n\0! 
@@ -112,7 +112,7 @@ priman"
 "203","Cos'ha detto s촀 ($촀\0quando ha visto il pacchetto?"
 "203_a","Ah, sì..."
 "203_b","Non me lo ricordo."
-"204","Per caso s촀 ti ha detto qualcosa($촀\0 quando hai fatto la consegna per 2촀luilei\0?"
+"204","Per caso s촀 ti ha detto qualcosa($촀\0 quando hai fatto la consegna per 2촀luilei\0?"
 "204_a","(\0촀\0Ecco, in verità..."
 "204_b","Non me lo ricordo."
 "205","( 촀\0Non te lo ricordi? 
@@ -155,7 +155,7 @@ possibile! 
 \0 com'è andata? 
 \0Il mio regalo
 è piaciuto 2\0 s촀?"
-"302_a","Allora..."
+"302_a","(\0촀\0Allora..."
 "302_b","Non me lo ricordo."
 "303","(촀\0Dimmi tutto. 
 \0(2\02\0 s촀 è piaciuto il mio regalo?"
@@ -166,7 +166,7 @@ possibile! 
 \0n\0n\0\0\0\0(
 촀\0Peccato, 
 \0mi sarebbe piaciuto sapere
-se 2촀glile\0 aveva fatto piaceren\0\0 (%촀\0Vabbè,
+se 2촀glile\0 aveva fatto piaceren\0\0 (%촀\0Vabbè,
 glielo chiederò io direttamente!"
 "305","(촀\0L'hai aperto?
 \0((\0촀\0 E perché mai?
@@ -260,8 +260,8 @@ aver consegnato il mio pacchetto
 a s촀!"
 "402","(촀\0Alloran\0\0 com'è andata? 
 \0(&촀\0Era ancora
-22촀arrabbiatoarrabbiata\0 s촀?"
-"402_a","Beh, ecco..."
+22촀arrabbiatoarrabbiata\0 s촀?"
+"402_a","(\0촀\0Per nulla!"
 "402_b","Non me lo ricordo."
 "403","(촀\0Allora, 
 \0com'è andata? 
@@ -283,7 +283,7 @@ dell'altro giornon"
 \0
 cioè... 
 \0non capisco... 
-\02촀glile\0 hai dato... un regalo già aperto?\0\0(촀\0Un regalo che io 2촀glile\0 avevo mandato per scusarmi? 
+\02촀glile\0 hai dato... un regalo già aperto?\0\0(촀\0Un regalo che io 2촀glile\0 avevo mandato per scusarmi? 
 \0OK, calman\0\0 calman\0\0
 (1촀\0pensa a qualcosa di bello. 
 (1촀\0La mia casettan\0\0 il divanon\0\0
@@ -291,12 +291,12 @@ cioè... 
 
 \0Aaahn\0\0 (\0촀\0ora va meglio.\0\0(
 촀\0E se s촀
-\0 si fosse 22촀arrabbiatoarrabbiata\0 ancora di più adesso? 
+\0 si fosse 22촀arrabbiatoarrabbiata\0 ancora di più adesso? 
 \0(촀\0E se non volesse mai più fare pace?"
 "407","(촀\0Mitico! 
 \0Anzi, supermitico! 
 \0Allora
-non è più 22촀arrabbiatoarrabbiata\0 con me!\0\0(%촀\0Credo che faremo pace molto
+non è più 22촀arrabbiatoarrabbiata\0 con me!\0\0(%촀\0Credo che faremo pace molto
 preston\0\0 Ed è tutto merito tuo!
 
 \0(촀\0Sei 2illa migliore, n\0!"
@@ -306,7 +306,7 @@ preston\0\0 Ed è tutto merito tuo!
 di Zuppaman, 
 \0a me!"
 "502","(8촀\0Non hai ancora restituito 2\0 s촀 quella cosa che
-\0 si era 26촀dimenticatodimenticata\0 da me?\0\0Beh, allora ci penso io. 
+\0 si era 26촀dimenticatodimenticata\0 da me?\0\0Beh, allora ci penso io. 
 \0(&촀\0Me la ridai,
 
 \0per favore?"

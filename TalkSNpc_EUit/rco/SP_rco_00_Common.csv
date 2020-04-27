@@ -1,9 +1,8 @@
 ﻿"label","text"
-"000","(촀\0
-\0Ah, 
+"000","(촀\0Ah, 
 \0n\0!
 \0 (""촀\0Salve,
-\0 salve!(촀"
+\0 salve!"
 "000_01","(촀\0Salve, salve! Questo è lo \0sportello
 consulenza edile\0￿!
 \0(&촀\0 Cosa posso fare
@@ -12,9 +11,8 @@ per te?"
 \0Ah, 
 \0n\0!
 \0
-(""촀\0Bentornat2oa!(촀"
-"000_03","(촀\0
-\0Ah,
+(""촀\0Bentornat2oa!"
+"000_03","( 촀\0Ah,
 \0 scusa se cambio argomenton"
 "004_01","(촀\0Possiamo personalizzare l'aspetto
 esteriore della tua casa per \05000
@@ -27,22 +25,22 @@ sarà pronto entro domani mattina.
 Alloran\0\0 (&촀\0vuoi procedere?"
 "004_03_a","(%촀\0Sì, certo!"
 "004_03_b","('촀\0Facciamo un'altra volta."
-"005","(촀\0Ehmn\0\0 È prassi della Nook Inc. di
+"005","(7촀\0Ehmn\0\0 È prassi della Nook Inc. di
 riscuotere il pagamento prima che
-inizino i lavori di personalizzazione.\0\0(\0촀\0Pare che al momento tu non abbia
+inizino i lavori di personalizzazione.\0\0(9촀\0Pare che al momento tu non abbia
 abbastanza stelline,
-\0(촀\0 torna pure
-quando ce le avrai, sì, sì!"
-"006","(촀\0Fantastico! Ti mostro subito il nostro
+\0(촀\0 quindi torna
+pure quando ce le avrai, sì, sì!"
+"006","(촀\0Fantastico! 
+\0Ti mostro subito il nostro
 catalogo, così potrai scegliere cosa
 preferisci per la tua casa."
-"007","Oh, ohn\0\0
-\0(&촀\0 Hai cambiato idea?
+"007","Oh, ohn\0\0(&촀\0 Hai cambiato idea?
 \0
 (촀\0Nessun problema.
 \0 Sai dove trovarmi
 se vuoi personalizzare la tua casa."
-"008_01","(%촀\0Mmmhn\0\0
+"008_01","(9촀\0Mmmhn\0\0
 \0(촀\0 Una scelta interessante!"
 "008_02","(촀\0In tutto fa \05000 stelline\0￿, sì, sì!"
 "009_01","(촀\0Mille grazie!"
@@ -104,7 +102,7 @@ cui vuoi trasferirti!"
 richiesta di \0spostare casa tua\0￿.
 \0(&촀\0
 Hai qualcosa in mente?"
-"020_a","Non voglio spostarla."
+"020_a","(\0촀\0Non voglio spostarla."
 "020_b","('촀\0No, niente."
 "021","( 촀\0Oh? Non hai trovato un posto
 adatto?
@@ -219,31 +217,32 @@ inizio ai lavori.\0\0(촀\0Dovrebbe essere tutto pronto entro
 domani mattina.
 \0 Non vedi l'ora,
 vero?"
-"201","(촀\0Oh! 2\0n\0!\0\0(촀\0Hai deciso di comprare una casa?
+"201","(촀\0Oh, n\0!\0\0(촀\0Hai deciso di comprare una casa?
 Di passare a una vita con tutte
 le comodità possibili?\0\0Vivere in tenda è entusiasmante,
-ma una casa offre più spazio e
-la sensazione di stabilità.\0\0(\0촀\0Per costruire una casa è necessario
-stipulare un prestito che ammonta a
-\098.000 stelline\0￿n\0\0\0\0(&촀\0Cosa ne pensi? Vuoi costruire
-la tua casetta?"
+ma una casa offre più spazio e la
+sensazione di stabilità.\0\0(\0촀\0Costruire la tua nuova tana ti costerà
+\098.000 stelline\0￿ che posso prestarti io
+stesso, sì, sìn\0\0\0\0(%촀\0E non preoccuparti, me le restituirai
+quando potrai. 
+\0(&촀\0Quindi, cosa ne dici?
+Vuoi costruire la tua casetta, mh?"
 "201_a","(%촀\0Sì, va bene!"
 "201_b","Vorrei pensarci su."
 "202","(촀\0Grazie per la fiducia accordataci!
 \0
-Darò subito inizio ai lavori.\0\0(촀\0Sappi che per il tetto puoi anche
-scegliere fra otto colori diversi."
-"203","Ecco la lista dei colori. Potresti
-scegliere quello che preferisci
-per il tuo tetto?"
+Darò subito inizio ai lavori.\0\0(촀\0Ah, sì! Abbiamo a disposizione otto
+colori diversi che puoi scegliere per
+il tuo tetto."
+"203","Potresti sceglierne uno da questa
+lista, per favore?"
 "203_a","Rosso."
 "203_b","Rosa."
 "203_c","Giallo."
 "203_d","Nero."
 "203_e","Un altro colore."
-"204","Ecco gli altri quattro colori!
-Scegline uno di questi o uno
-dalla lista precedente."
+"204","Ecco altri quattro colori! Scegli uno
+di questi o uno di quelli precedenti."
 "204_a","Blu."
 "204_b","Turchese."
 "204_c","Verde."
@@ -297,7 +296,7 @@ di soci2oa \0miglia di Nook+\0￿.\0\0(촀\0Il programma \0
 aggiuntive in circostanze particolari.\0\0(\0촀\0Scoprirai tutti i dettagli (%촀\0la prossima
 volta che accederai alla app, 
 \0(촀\0quindi
-dai un'occhiata all'occasione."
+assicurati di dare un'occhiata."
 "209_04","(촀\0Questo è tutto!
 \0 La tua bellissima
 casetta dovrebbe essere pronta
@@ -316,20 +315,22 @@ prestito di \0198.000 stelline\0￿.
 촀\0Certo, certon\0\0
 \0(\0촀\0 Per casa tua, credo
 (촀\0che si potrebbe aggiungere un'altra
-stanza.\0\0()촀\0Se aggiungessi una stanza sul retro,
-la forma della casa non cambierebbe,
-ma avresti molto più spazio.
+stanza.\0\0()촀\0Se la collocassimo sul retro, l'aspetto
+della tua casa non cambierebbe, 
+\0però
+avresti molto più spazio.
 (1촀\0I costi sarebbero anche
 relativamente contenuti.\0\0(\0촀\0Sarebbe necessario stipulare un
 prestito di \0348.000 stelline\0￿.
-\0(&촀\0 Che te
-ne pare? Procediamo?"
+\0(&촀\0 Che
+te ne pare? 
+\0Procediamo?"
 "212_a","(%촀\0Sì, va bene!"
 "212_b","('촀\0Non ora."
 "213","(촀\0Ti va di ingrandire casa?
-\0
-(
-촀\0Forse potremmo aggiungere un'altra
+\0 (
+촀\0Forse
+potremmo aggiungere un'altra
 stanza, per creare più spazio.\0
 (\0촀\0\0￿Il prestito ammonterebbe a
 \0548.000 stelline\0￿. 
@@ -379,23 +380,22 @@ scegliere."
 entro domani.
 \0 Scommetto che
 non stai più nella pelle!"
-"261","(촀\0Credo che i lavori commissionati non
-siano ancora stati completati.
+"261","(촀\0Credo che i lavori commissionati
+non siano ancora stati completati.
 \0
 (""촀\0Sì, sì, 
 \0so che non vedi l'ora!"
 "261_01","Certo, certo, i lavori a casa tua
 saranno finiti entro domani,
 n\0!"
-"262","(촀\0Mmhn\0\0 non vorrei deluderti ma
+"262","(촀\0Mmmhn\0\0 non vorrei deluderti ma
 \0
- non
-posso accettare nuove richieste
-se il prestito non è ancora estinton\0\0\0\0(촀\0Ricorda che puoi ripagare il prestito
-al \0Punto Nook\0￿ quando vuoi.
-\0
- Ne
-riparliamo quando hai ripagato tutto."
+
+non posso accettare nuove richieste
+se il prestito non è ancora estinton\0\0\0\0(촀\0Ricorda che puoi usare il \0Punto Nook
+\0￿per pagare in qualsiasi momento.\0\0(촀\0Torna pure da me quando avrai finito
+di ripagare tutto, 
+\0sì?"
 "263",""
 "801","(7촀\0Scusami, ma sono molto impegnato
 perché abbiamo qualcuno qui in

@@ -1,4 +1,15 @@
 ﻿"label","text"
+"010","¡2\0n\0!
+\0 ¿Sabías que puedes enviar tarjetas a los amigos con los que hayas jugado?"
+"020","(9촀\0Pero antes de que uses el servicio,
+\0
+tengo que informarte sobre las
+advertencias legales.\0\0($촀\0¿Podrías leer esto con atención?"
+"040","¡Bien, n\0!\0\0¡Ahora puedes enviar tarjetas a los
+amigos con los que hayas jugado!
+¿Quieres enviar una?"
+"040_a","¡Sí, por favor!"
+"040_b","Pues no..."
 "050","(촀\0Oh, ¿quieres enviar una tarjeta?\0\0(7촀\0Ehn\0\0
 \0 Por supuesto, peron\0\0
 \0 te aviso
@@ -12,6 +23,24 @@ mientras me encargo del envío?"
 \0
 ¡Muy bien, cerraré las puertas!"
 "052","(촀\0¡Ya podemos proceder!"
+"053","(촀\0Oh, ¿quieres enviar una tarjeta?\0\0(2촀\0Esten\0\0
+\0 Por supuesto, peron\0\0
+\0 deberías
+saber que no tengo mucha habilidad
+para supervisar varias cosas a la vez.
+(&촀\0¿Te molesta si antes desactivo
+la comunicación inalámbrica?"
+"053_a","¡Adelante!"
+"053_b","No, espera"
+"054","(촀\0Gracias por tu comprensión.
+\0
+¡Voy a desactivar la comunicación
+inalámbrica!"
+"055","(촀\0¡Claro, tú mandas!
+\0 No tocaré nada.
+\0
+()촀\0Avísame si cambias de opinión y
+quieres usar el servicio postal."
 "070","(&촀\0¿Enviamos una tarjeta entonces?"
 "070_a","¡Sí, por favor!"
 "070_b","Ahora no..."
@@ -22,6 +51,14 @@ si eres tan amable.(\0촀"
 "080_a","A alguien de la isla"
 "080_b","A mi futur2oa yo"
 "080_c","Mejor no..."
+"081","(촀\0Bien, si quieres enviar una tarjeta,
+\0
+empieza por indicar a quién,
+si eres tan amable.(\0촀"
+"081_a","A alguien de la isla"
+"081_b","A mi futur2oa yo"
+"081_c","A un amigo"
+"081_e","Mejor no..."
 "200","(%촀\0¡Recibido!
 \0 (&촀\0¿A qué residente de
 la isla quieres hacer el envío?"
@@ -41,11 +78,59 @@ así que no puedo aceptar más.
 (촀\0Lamento importunarte, pero ¿te
 importaría volver más tarde y así
 pongo un poco de orden aquí?"
+"301","(촀\0Dime, ¿a quién se la enviamos?"
+"311","()촀\0Para enviar tarjetas,
+\0 debes activar
+la comunicación con otros usuarios
+en los ajustes del control parental."
+"312","(
+촀\0Ehhhn\0\0 Parece que aún no tienes
+la dirección de ningún amigo.\0\0(촀\0Te explico: para enviar tarjetas a tus
+amigos, tienes que haberlos visitado
+en línea antes."
 "320","( 촀\0Mis registros indican que hoy
 ya le enviaste dos tarjetas a s\0촀.\0\0(\0촀\0Me temo que este día ya no puedes
 enviar ni una más, pero regresa
 mañana.
 \0 (촀\0Disculpa las molestias."
+"321","Bien, vamos a prepararlo todo
+para que puedas enviar tarjetas
+a tus amigos."
+"350","( 촀\0Ah, ¿es la primera vez que escribes
+a Nintendo? ('촀\0Bien, pues debes saber
+que no recibirás ninguna respuestan\0\0
+()촀\0Pero eso sí, es posible que publiquen
+tu tarjeta en su sitio web o en las
+redes sociales.\0\0Así que no incluyas tu información
+personal, ¿entendido?\0\0(촀\0Bien, creo que esas son todas las
+advertencias legales que tenía que
+comunicarte.
+¡Ya puedes ponerte a escribir!"
+"351","(촀\0Ah, ¿vas a enviar una tarjeta
+a Nintendo?
+\0(촀\0 ¡Qué detallista!"
+"352","( 촀\0Mis registros indican que hoy
+ya le enviaste dos tarjetas a
+Nintendo y ese es el límite.\0\0(9촀\0Me temo que este día ya no puedes
+enviar ni una más,
+\0 pero regresa
+mañana. (;촀\0Disculpa las molestias."
+"353","¡Perfecto! Voy a poner en marcha
+el sistema de contacto con
+Nintendon"
+"380","( 촀\0Oh, parece que ocurrió un problema.
+\0
+(&촀\0¿Quieres que volvamos a intentarlo
+ahora o mejor más tarde?"
+"380_a","¡Ahora!"
+"380_b","(\0촀\0Mejor luego..."
+"381","($촀\0Entendido.
+\0 Entonces haré la
+devolución de tus bayas."
+"382","(%촀\0Entendido.
+\0 Entonces haré la
+devolución de tus bayas y también
+del regalo que ibas a enviar."
 "400",""
 "401","(촀\0Entonces, ¿a qué fecha del futuro
 enviamos la tarjeta?"
@@ -57,7 +142,7 @@ el \0Z$촀 de Z#촀 del Z""촀\0￿?"
 Indica la fecha que deseas."
 "415","(%촀\0¡Recibido!
 \0 Peron\0\0
-\0 ¡un momento!
+\0 (촀\0¡un momento!
 \0
 ¡Si ya tienes una tarjeta preparada
 para 2(el futurola futura n\0!
@@ -126,7 +211,7 @@ pues guardo lo que has hecho por si
 quieres seguir en otro momento."
 "522","(촀\0Ah, ¿ya no te motiva esa tarjeta?
 \0
-(촀\0¡Recibido!
+(촀\0¡Recibido!
 \0 Avísame si necesitas
 algo más."
 "523","(&촀\0¿Quieres dejarlo por el momento?
@@ -169,8 +254,21 @@ enviarle nada a s촀.\0\0(&촀\0¿Quieres cambiar el destinatario?
 "620","¿A quién quieres enviarle la tarjeta?"
 "620_a","A alguien de la isla"
 "620_b","A mi futur2oa yo"
+"621","¿A quién quieres enviarle la tarjeta?"
+"621_a","A alguien de la isla"
+"621_b","A mi futur2oa yo"
+"621_c","A un amigo"
+"621_d","A Nintendo"
+"625","Bien, veo que ya habías pagado por
+el envío.\0\0Déjame hacer la devolución de
+bayas primero y luego le cambias
+el destinatario."
 "630","(%촀\0Bien; pues se va al reciclaje.
 ¡Aquí se recicla todo!"
+"631","(%촀\0Bien;
+\0 la tarjeta ya está lista para
+ser reciclada y enseguida te devuelvo
+las 200 bayas que habías abonadon"
 "800","(촀\0¡Gracias por confiar en Dodo Airlines!"
 "801","(%촀\0Recibido. 
 \0Tú avísame cuando

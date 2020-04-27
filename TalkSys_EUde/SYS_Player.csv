@@ -5,7 +5,7 @@
 Was soll ich damit machen?"
 "001_a","Tauschen."
 "001_b","Wieder hinlegen."
-"002","Ich habe 2""촀
+"002","Ich habe 2""촀
 eineneineein 2촁}\0\0 ausgegraben!"
 "003","Moment,
 \0 noch mehr kann ich nicht
@@ -92,19 +92,19 @@ besser nicht mitnehmen."
 "1001","n\0\0Mein \0NookPhone\0￿ klingelt."
 "1002","Hoppla, 
 \0schon wieder das Telefonn"
-"101","2\02\0}\0\0!\0\0Wer 2촀dendiedas wohl verloren hat?
+"101","2\02\0}\0\0!\0\0Wer 2촀dendiedas wohl verloren hat?
 \0
 Vielleicht sollte ich mich mal
 umhören."
-"102","2\02\0}\0\0!\0\02촀DenDieDas muss jemand von dieser Insel
+"102","2\02\0}\0\0!\0\02촀DenDieDas muss jemand von dieser Insel
 verloren haben. 
-\0Ich sollte 2촀ihnsiees besser
+\0Ich sollte 2촀ihnsiees besser
 nicht mitnehmen."
-"103","2\02\0}\0\0!\0\0Wer 2촀dendiedas wohl verloren hat?
+"103","2\02\0}\0\0!\0\0Wer 2촀dendiedas wohl verloren hat?
 \0 Vielleicht
-kommt der Besitzer 2촀ihnsiees hier suchen,
+kommt der Besitzer 2촀ihnsiees hier suchen,
 \0
-also lasse ich 2촀ihnsiees besser liegen."
+also lasse ich 2촀ihnsiees besser liegen."
 "104","Dieser Schatz gehört jemand
 anderem. 
 \0Ich kann ihn nicht
@@ -339,13 +339,13 @@ meinem \0NookPhone\0￿! Jetzt kann ich
 immer und überall einkaufen!"
 "290","<"
 "290_01","Oje!
-\0 2$촀Mein
+\0 2$촀Mein
 MeineMein \0}\0\0\0￿ hat wohl ausgedient!"
 "290_02","Oh nein!
 \0 Du hast mir gute Dienste geleistet, 
 \0\0}\0\0\0￿!"
 "290_03","Oh!
-\0 Von 2.촀meinemmeinermeinem \02촂}\0\0\0￿ muss ich mich hiermit wohl verabschieden."
+\0 Von 2.촀meinemmeinermeinem \02촂}\0\0\0￿ muss ich mich hiermit wohl verabschieden."
 "505","(
 촀\0Diesen Reifen könnte man noch
 verwertenn\0\0
@@ -370,7 +370,7 @@ als Köder verwendenn\0\0
 Idee für eine neue \0Bastelanleitung\0￿!"
 "509","Hmmm...!
 -"
-"509_01","Ich weiß jetzt, wie man 2""촀
+"509_01","Ich weiß jetzt, wie man 2""촀
 eineneineein 2촁}\0\0 herstellt!"
 "511","(
 촀\0Ja, 
@@ -394,6 +394,18 @@ geangeltn\0\0
 \0 (촀\0Moment mal, 
 \0das ist DIE
 Idee für eine neue \0Bastelanleitung\0￿!"
+"515","(
+촀\0So ein Eier-Design wäre doch nicht
+schlechtn\0\0
+\0 (촀\0Ooooh, 
+\0das ist DIE
+Idee für neue \0Bastelanleitungen\0￿!"
+"518","(
+촀\0Was ich schon alles für Anleitungen
+für Eierschalen kennen\0\0
+\0 (촀\0Oh, 
+\0da fällt
+mir NOCH eine \0Bastelanleitung\0￿ ein!"
 "700","Heute ist mein Geburtstag,
 \0
 und alle haben mitgefeiert!"
@@ -423,14 +435,14 @@ eines neuen Hauses reservieren?"
 "905_a","Mal sehen..."
 "905_b","Hier ist gut!"
 "905_c","Noch mal überlegen..."
-"906","Soll ich diese Stelle für den Bau 2(촀
+"906","Soll ich diese Stelle für den Bau 2(촀
 eines
 einer
 eines \02촃}\0\0 \0￿reservieren?"
 "906_a","Mal sehen..."
 "906_b","Hier ist gut!"
 "906_c","Noch mal überlegen..."
-"907","Soll ich diese Stelle für den Bau 2(촀
+"907","Soll ich diese Stelle für den Bau 2(촀
 eines
 einer
 eines \02촃}\0\0 \0￿reservieren?"
@@ -468,21 +480,21 @@ für einen \0Campingplatz\0￿?"
 "909_b","Hier ist gut!"
 "909_c","Noch mal überlegen..."
 "910","Hier ist nicht genug Platz."
-"911","Hier bin ich zu nah am Ufer.
+"911","Hier bist du zu nah am Ufer.
 Der Platz reicht nicht aus."
-"911_01","In der Nähe von Felsen ist der Boden
-nicht fest genug, deshalb sollte ich
-hier besser nichts bauen."
-"912","Hier bin ich zu nah am Ufer.
+"911_01","In der Nähe von Felsen ist der
+Boden nicht fest genug, deshalb
+kannst du hier nichts bauen."
+"912","Hier bist du zu nah am Ufer.
 Der Platz reicht nicht aus."
-"913","Hier bin ich zu nah an einem Plateau.
+"913","Hier bist du zu nah an einem Plateau.
 Der Platz reicht nicht aus."
-"914","Hier bin ich zu nah an einer
+"914","Hier bist du zu nah an einer
 Böschung. Der Platz reicht nicht aus."
 "914_01","Der Platz hier muss für
 Versammlungen frei bleiben,
 also wähle eine andere Stelle!"
-"915","Hier würden die Gebäude zu
+"915","Hier würden die Bauwerke zu
 dicht beieinander stehen, also
 wähle eine andere Stelle!"
 "916","So nah an der Brücke würde
@@ -497,8 +509,11 @@ also wähle eine andere Stelle!"
 "919","Hier sind wir zu nah am Briefkasten
 eines anderen Bewohners, also
 wähle eine andere Stelle!"
-"919_01","Ich sollte erst mal meinen \0Briefkasten
+"919_01","Du musst zuerst deinen \0Briefkasten
 \0￿woandershin bewegen."
+"920","Hier sind wir zu nah am
+Landungssteg, also wähle
+eine andere Stelle!"
 "921","Hier ist kein geeignetes
 Ufer für eine Brücke."
 "926","Ein Brückenbau ist nur an Stellen mit
@@ -566,11 +581,11 @@ komfortabler werden!"
 hier – 
 \0mit der neuen \0Schneiderei\0￿!"
 "954","
-\0Wo das Zelt von s촀
-hinkommt, steht also fest!"
+\0Das Zelt von s촀
+steht also auch!"
 "954_01","Es scheint jeder einen Platz für sein
 Zelt gefunden zu haben, also zurück
-zum \0Platz\0￿..."
+zum \0Festplatz\0￿..."
 "955","Damit steht fest, wo das Haus
 hinkommt. 
 \0Neuanfänge sind
@@ -603,7 +618,7 @@ beginnt hier mein neues Leben!"
 "960_01","Ich habe einen Standort für das Haus
 von s촀 gefunden!
 \0
-Hoffentlich gefällt's 2촀ihmihr\0 hiern"
+Hoffentlich gefällt's 2촀ihmihr\0 hiern"
 "960_02","Ich habe einen Standort für
 das \0Museum\0￿ gefunden!"
 "960_03","Ich habe einen Standort für
@@ -613,7 +628,7 @@ die \0Schneiderei\0￿ gefunden!"
 "960_05","Ich habe einen Standort für den
 \0Campingplatz\0￿ gefunden! Hoffentlich
 kommen viele Besucher zu uns!"
-"990","Ich suche gerade einen Schatz,
+"990","Du suchst gerade einen Schatz,
 \0
-also kümmere ich mich besser
+also kümmere dich besser
 später um die Standortsuche."

@@ -18,10 +18,10 @@
 "102_01","(%촀\0Hmmmn\0\0(촀\0 Ja, lijkt me leuk!
 \0( Ik kom op je eiland \0kamperen\0￿!
 \0(""촀\0 Tot gauw, n\0!"
-"102_02","(촀\0Kamperen?!
+"102_02","(촀\0\0Kamperen\0￿?!
 \0((촀\0 Ja, gaaf!
-\0 Het is altijd
-leuk op jouw eiland, n\0!"
+\0 Jouw eiland
+is echt leuk, n\0!"
 "102_03","Jullie \0kampeerplek\0￿?
 \0( Zijn er beestjes?
 (%촀\0Okén\0\0 buitenn\0\0 veel beestjesn\0\0 Okén\0\0
@@ -39,7 +39,7 @@ onderbroeken inpakken!"
 \0((촀\0 Ja, leuk!
 \0( Ik kom naar
 je toe!"
-"202_02","(촀\0Of ik wil kamperen?
+"202_02","(촀\0Of ik wil \0kamperen\0￿?
 \0( Op jouw eiland?
 \0(
 (촀\0Ja, lijkt me gaaf!"
@@ -81,7 +81,7 @@ onderweg, n\0."
 \0kampeerplek\0￿ zit, kan er niemand
 meer op bezoek komen."
 "302_02","(촀\0Huh?
-\0 Wil je kamperen?!
+\0 Wil je \0kamperen\0￿?!
 \0((촀\0 Oké,
 \0( waar wil je naartoe?
 \0(\0촀\0(촀\0 n	\0?! Ehhhhhhn\0\0\0\0('촀\0Nee, dank je.

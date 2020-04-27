@@ -10,6 +10,12 @@ toen ik zei dat ik hier wilde wonen?
 (촀\0Jazeker!
 \0 Bloedserieus!\0\0()촀\0Nou, dan zal ik hierna de \0servicebalie \0￿bellen, n\0.
 \0( (촀\0Ik ga mijn best doen, joh!"
+"003","(6촀\0Je moet het wel erg gezellig met me
+vinden als je me zo blijft uitnodigen.\0\0(촀\0Top, als jij wilt dat ik je buurvrouw
+word, dan doe ik dat toch!\0\0( 촀\0On\0\0
+\0 Maar ik moet nog wel even die
+lui bij de \0servicebalie\0￿ lastigvallen
+voordat ik hier echt kan wonen.\0\0(촀\0Nog even wachten, n\0!"
 "101","<"
 "101_01","(&촀\0Huh? 
 \0Serieus? 
@@ -146,40 +152,36 @@ wonen, 
 "206","<"
 "206_01","(3촀\0Oké, 2meneermevrouw de winnaar, 
 \0ik ben 2\0n\0 van mijn woord.
-\0 (촀\0Je krijgt een nieuwe buurvrouw!\0\0( 촀\0Beetje laat misschien, maar hoe heette je ook alweer? 
-\02\0n\0?\0\0($촀\0Ik ben n
-\0, aangenaam!\0\0(6촀\0Nou, n\0, dit was allemaal jouw idee, hè, n\0!
-\0( Vergeet dat niet!\0\0(촀\0Wie klaagt over mijn muziek, stuur ik
+\0 (촀\0Je krijgt een nieuwe buurvrouw!\0\0(9촀\0Dat hoop ik dan maarn\0\0
+\0
+\0 Ik moet
+het eerst nog regelen met de
+\0servicebalie\0￿.\0\0(6촀\0Nou, mocht het allemaal lukken,
+\0
+vergeet dan niet dat dit he-le-maal
+jouw idee was, hè!\0\0(촀\0Wie klaagt over mijn muziek, stuur ik
 daarom naar jou! 
 \0Haaa-haha!"
-"206_02","(%촀\0Jij hebt gewonnen, 
+"206_02","(%촀\0Jij hebt gewonnen 
 \0en ik ben er niet
 rouwig om.
-\0( (촀\0n	\0 is de bom, woehoe!\0\0( 촀\0O ja! 
-\0Had ik mezelf nou al voorgesteld of niet?
-\0( ($촀\0n
-\0 is de naam. 
-\0Yo!\0\0(9촀\0En jij wasn\0\0
-\0 n\0!
-\0 Tof.
-\0( ()촀\0Nou, n\0, we worden buren!\0\0(\0촀\0Dus zodra ik over ben, vertel jij me
-waar alle coole lui rondhangen?
-\0( (6촀\0Ik
-reken erop, n\0!"
+\0( (촀\0n	\0 is de bom, woehoe!\0\0(
+촀\0Hmn\0\0
+\0 Er is vast een hele papierberg
+die ik moet tekenen, 
+\0dus ik ga maar
+snel naar de \0servicebalie\0￿n\0\0\0\0($촀\0Check je later, n\0!"
 "206_03","(촀\0Oké, jij wint.
 \0 n	\0 heeft zojuist zijn eigenste n
-\0 gekregen.\0\0( 촀\0Ho even!
-\0 Ik weet niets eens je naam, geloof ik.
-\0 2\0n\0, zeg je?
-\0( ($촀\0Aangenaam!\0\0(3촀\0Hopelijk was je niet al te gehecht aan
+\0 gekregen.\0\0(3촀\0Hopelijk was je niet al te gehecht aan
 je rust, 
 \0
 want daar komt nu een einde
-aan, n\0.
-\0( (촀\0Haaa-haha!\0\0()촀\0Ik moet thuis nog het een en ander
-regelen, afscheid nemen, maar dann\0\0
-\0(
-(촀\0gaan we een feestje bouwen!"
+aan!
+\0( (촀\0Haaa-haha!\0\0( 촀\0Wacht! 
+\0Dit soort dingen moeten
+moeten altijd via de officiële weg.\0\0(%촀\0Ik ga maar gauw naar de \0servicebalie\0￿,
+n\0."
 "302","(%촀\0Ik heb net gebeld met de \0servicebalie\0￿ van n	\0 enn\0\0
 \0 dit gaat hem niet worden, vrees ik.\0\0(8촀\0Ze zeiden iets over dat er niet
 genoeg ruimte was voor een huis
@@ -211,7 +213,7 @@ plek mag gaan wonen?"
 "305_b","Wacht, wie? Oeps!"
 "305_c","Eh, laat eigenlijk maar..."
 "306","()촀\0Prima. 
-\0Ik zal 2촀hemhaar\0 het goede nieuws
+\0Ik zal 2촀hemhaar\0 het goede nieuws
 vertellen!"
 "307","( 촀\0O jeen\0\0
 \0 die dus niet.
@@ -227,8 +229,7 @@ buren zijn.
 stulpje wonen? 
 \0((촀\0Hartstikke tof!
 \0
-(6촀\0Schijnbaar wilde 2
-촀hijze\0 al verhuizen.\0\0(촀\0
+(6촀\0Schijnbaar wilde 2촀hijze\0 al verhuizen.\0\0(촀\0
 \0O! 
 \0Trouwens!
 \0 Ik ben n
@@ -255,28 +256,17 @@ doen. 
 \0Ik baal er flink van, 
 \0maar ik
 begrijp het wel, n\0."
-"402","(%촀\0Was dát even een maf gesprekn\0\0
-\0 (촀\0Ik
-had dus de \0servicebalie\0￿ aan de lijn
-over mijn mogelijke verhuizing.\0\0(촀\0Toen ze mijn foto zagen, zeiden ze
-dat ik er al woonde. 
-\0Wat ik ook zei,
-ze geloofden me maar niet.\0\0(촀\0Uiteindelijk was iedereen het spoor
-bijster, en begon ik me op te winden.\0\0('촀\0Ik denk dat ik mijn verhuisplannen
-maar even parkeer, n\0.
-\0( (%촀\0Maar toch bedankt!"
-"403","(&촀\0Vraag jij je soms ook af of je ergens
-een dubbelganger hebt rondlopen?\0\0(8촀\0Er is bij de \0servicebalie\0￿ hier iets mafs
-gaande, denk ik.\0\0(9촀\0Ik belde ze om mijn verhuizing te
-regelen, maar iemand die precies op
-mij lijkt, wil dat ook al.\0\0(촀\0Ik heb gelijk mijn moeder gevraagd
-of ik een geheime tweelingzus had,
-\0
-maar dat was dus mooi niet zo!\0\0(+촀\0Wat dit ook is, het is me net iets té
-maf.
-\0( ('촀\0Maar toch bedankt voor de
-uitnodiging, hoor. 
-\0Ik waardeer het."
+"313","(촀\0Top! 
+\0Oké, de \0servicebalie \0￿noemde de naam ""s촀"".
+\0( Wat denk jij?
+\0 (&촀\0Zal ik even bij 2hemhaar langsgaan?"
+"313_a","Ja, doen!"
+"313_b","Wat? Nee!"
+"314","(7촀\0Prima, joh. 
+\0Het was ook een slecht
+idee. He-le-maal geen probleem.
+
+\0Volgende keer beter, n\0."
 "404","( 촀\0Kennelijk is deze plek enórm
 populair. (%촀\0Volgens de \0servicebalie\0￿ is
 het eiland gewoon vol.
@@ -289,17 +279,6 @@ me, 
 \0en als het hier zo vol is, 
 \0('촀\0hoeft
 het van mij niet."
-"405","(9촀\0Ik heb net gebeld met de \0servicebalie
-\0￿enn\0\0
-\0 ('촀\0het gaat 'm niet worden, ben
-ik bang.\0\0(8촀\0Er zou niet genoeg ruimte zijn voor
-een huis voor mij.\0\0(촀\0Ik zou wel bij iemand in kunnen
-trekken, 
-\0maar dat lijkt me net zo tof
-als mijn arm breken.\0\0(촀\0Jammer, joh. 
-\0Op n	\0 wonen leek me echt he-le-maal geweldig.
-\0( (7촀\0Nou ja.
-\0 Alsnog bedankt!"
 "406","(촀\0Ik heb met de \0servicebalie \0￿gepraat.
 \0(
 (촀\0Drie keer raden wie er bij je op het
@@ -326,7 +305,7 @@ op een raar moment en praatten we
 langs elkaar heen.
 \0 Dat kan gebeuren.\0\0(촀\0Weet je wat?
 \0( Ik ga het er gewoon
-nog een keer op wagen,
+nog een keer op wagen
 \0 en bel de
 \0servicebalie\0￿ opnieuw."
 "410_a","De aanhouder wint!"
@@ -335,20 +314,12 @@ nog een keer op wagen,
 \0 On\0\0
 \0 Oké.
 \0( (촀\0n	\0 zal het dan maar zonder mij moeten stellenn"
-"421","(
-촀\0Hmmmn\0\0 Twee van mij op één plek is
-vragen om problemen.\0\0('촀\0Ik laat n	\0 voor wat het is, n\0."
-"422","(8촀\0Weet je, ik heb er even over
-nagedacht, en ik veroorzaak zelf
-al genoeg heibel.\0\0('촀\0Twee van mij, dat gaat n	\0 niet overleven."
 "423","(촀\0Wauw!
 \0 n	\0 moet wel mudjevol zijn!
 \0 Ze laten nu niemand toe, n\0.\0\0(촀\0Zo gaan die dingen.
 \0 Maar ik moet
 wel zeggen dat ik het echt heel
 jammer vindn"
-"424","(촀\0Heeft er soms een bouwexplosie plaatsgevonden op n	\0?\0\0('촀\0Ze zeiden dat er geen stukje grond
-meer vrij is."
 "504","(%촀\0Fijne plek heb je hier, toffe
 omgeving.
 \0( (6촀\0En iedereen is echt

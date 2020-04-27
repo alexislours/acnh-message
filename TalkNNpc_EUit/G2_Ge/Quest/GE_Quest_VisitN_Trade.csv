@@ -25,7 +25,7 @@ renderebbe casa tua allucinante?"
 "005","(촀\0Se trovi qualcosa che ti piace,
 
 \0potrei essere in grado di dartela!"
-"005_a","Qualcosa ci sarebbe..."
+"005_a","(\0촀\0Qualcosa ci sarebbe..."
 "005_b","Non mi interessa nulla."
 "006","(촀\0Hai trovato una cosa che ti piace?
 
@@ -58,7 +58,7 @@ problema!"
 (\0촀\0Te lo vendo per Z\0
 \0($촀\0.
 Che mi dici?"
-"100_a","Venduto!"
+"100_a","(\0촀\0Venduto!"
 "100_b","Lasciamo stare."
 "101","(촀\0Oooh, 
 \0quell'oggetto? Forte, no?
@@ -69,14 +69,14 @@ Che mi dici?"
 \0(Z\0.
 \0 (\0촀\0
 \0(&촀\0Accetti?"
-"101_a","Venduto!"
+"101_a","(\0촀\0Venduto!"
 "101_b","Lasciamo stare."
 "102","(촀\0Ah sì, 
 \0quello sì che è un pezzo
 allucinante.
 \0(7촀\0 Può essere tuo pern\0\0
 Z\0?"
-"102_a","Venduto!"
+"102_a","(\0촀\0Venduto!"
 "102_b","Lasciamo stare."
 "103","( 촀\0Capiton\0\0
 \0 (\0촀\0Beh, 
@@ -105,7 +105,7 @@ cercarlon\0\0 
 \0(\0촀\0Facciamo così,
 \0 ti spedisco tutto a
 casa più tardi, OK, n\0?"
-"300","(8촀\02""촀Il mioLa mia\0 }촀?
+"300","(8촀\02""촀Il mioLa mia\0 }촀?
 Ion\0\0 No, non posso separarmene!
 Ho Insettix da sempre!(촀\0 Scusan"
 "301","( 촀\0No, è impossibile. Mi spiace.\0\0(촀\02\02\0}촀
@@ -115,6 +115,6 @@ Dico sul serio!"
 \0 Era, uhm, era
 di mio padre. (촀\0È superimportante
 per me, quindi non posso dartelo."
-"303","(7촀\0Scusa, te 2촀lola\0 darei ma, cioè,
-2""촀QuestoQuesta\0 }\0\0
+"303","(7촀\0Scusa, te 2촀lola\0 darei ma, cioè,
+2""촀QuestoQuesta\0 }\0\0
 completa troppo il look di casa mia."

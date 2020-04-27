@@ -88,15 +88,14 @@ ganz nett.
 (%촀\0Scheint ganz in Ordnung zu sein.
 \0
 (촀\0Fängst du ihm ein paar Fische?"
-"016","\0Carlson \0￿ist wieder da. 
-\0((8촀\0Falls er wegen
-Insekten und sonstigen Krabbel-
-viechern hergekommen ist...
-(촀\0Soll mir nur recht sein, 
-\0n\0!"
+"016","\0Carlson \0￿ist zu Besuch. 
+\0('촀\0Er mag
+aussehen wie ein Schluffi,
+\0 (촀\0aber mit
+Krabbelviechern kennt er sich aus!"
 "017","( 촀\0Wusstest du, 
 \0dass \0Schubert\0￿ auf
-dem Festplatz herumlungert?\0\0(1촀\0Die Schuhe und Taschen, 
+dem \0Festplatz \0￿herumlungert?\0\0(1촀\0Die Schuhe und Taschen, 
 \0die er
 verkauft,
 \0 scheinen schon was zu
@@ -107,6 +106,18 @@ taugen, 
 das Gefühl, 
 \0die kleine Eule zieht
 Sternschnuppen magisch ann"
+"019","Sag mal, 
+\02 KleinerKleines... 
+\0(&촀\0Kommt's nur mir
+so vor, 
+\0oder sind hier in letzter Zeit
+alle extrem hibbelig, 
+\0n\0?
+(9촀\0Man könnte glatt meinen, 
+\0es würde
+irgendein wichtiges Ereignis auf uns
+zuhoppeln.
+\0 (촀\0Ich befürchte Schlimmes."
 "100","(촀\0Ich hab gerade jemanden gesehen,
 den ich nicht erkannt habe.
 \0 ('촀\0Passiert

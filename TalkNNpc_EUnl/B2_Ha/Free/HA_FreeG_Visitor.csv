@@ -5,7 +5,7 @@ bekendstaat, n\0?"
 "001_b","Nee."
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(촀\0Ah! Mooi zo!
 \0( (""촀\0Eet er maar lekker van!"
 "005","(촀\0Het zijn n촁!
@@ -30,10 +30,12 @@ dragen is supergoed voor je armen!"
 gaat het nog ver schoppen.\0\0()촀\0Ja, dat denk ik echtn\0\0(촀\0 want je moet
 ambities hebben als je wilt winnen,
 of niet soms?"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(촀\0Ben je al in ons \0museum\0￿ geweest?
 Er is zoveel te zien in die enorme
 zaal!\0\0( 촀\0Hè? Wat ík er doe?
@@ -52,25 +54,34 @@ aftroevenn"
  is mijn favoriete fossiel in het \0museum\0￿.\0\0(촀\0Wat een stoere, coole vorm!
 \0( (촀\0En dat
 zonder spieren! Ik ben jaloers."
-"101","(촀\0Jouw gezicht weer zien roept zoveel
-herinneringen opn\0\0 (6촀\0Weet je nog dat
-ik altijd won met 촀?"
-"102","<ghi"
-"103","(%촀\0Sinds je weg bent heb ik elke dag
-mijn supergeheime trainings-
-programma gevolgd.\0\0()촀\0En jij? Doe je nog steeds aan kracht-
-training? Op hoeveel kilo zit je nu?"
-"104","(\0촀\0Hmmn\0\0 We weten trouwens nog
+"201","(촀\0Jou weer zien roept een boel
+herinneringen opn\0\0
+\0( (6촀\0Weet je nog hoe
+we altijd onze spieren vergeleken?"
+"202","<ËÌÍ"
+"203","(%촀\0Sinds ik hier weg ben, heb ik elke
+dag mijn supergeheime trainings-
+programma gevolgd.\0\0()촀\0En jij? Doe je nog steeds aan
+bankdrukken? Op hoeveel kilo
+zit je nu?"
+"204","(8촀\0Ik moet eerlijk toegevenn\0\0
+\0 dat ik
+niet weet of ik je ooit had kunnen
+verslaan.(촀\0\0\0Nu ik je spierballen weer zien\0\0 Ja, dat
+was me nooit gelukt.
+\0 (""촀\0Ik ben trots op
+je, n\0!"
+"205","(
+촀\0Hmmn\0\0 We weten trouwens nog
 steeds niet
-\0((2촀\0 wie van ons het meest
-gespierd is, of wel?"
-"105","(%촀\0Laten we deze kwestie voor eens en
+\0 wie van ons het
+gespierdst is, of wel?\0\0(%촀\0Laten we deze kwestie voor eens en
 altijd oplossen
 \0( (촀\0door onze sixpacks te
-vergelijken? Deal?"
-"105_a","Ja, kom maar op!"
-"105_b","Nee, dank je."
-"106","(%촀\0Oké, hou je vast: mijn sixpack isn\0\0
+vergelijken! Deal, n\0?"
+"205_a","Ja, kom maar op!"
+"205_b","Nee, dank je."
+"206","(%촀\0Oké, hou je vast: mijn sixpack isn\0\0
 \0
 (5촀\0dus een twaalfpack! Had je niet
 gedacht, hè?\0\0(촀\0Huh? Je gelooft me niet op mijn
@@ -78,13 +89,14 @@ woord? En ik dacht nog wel dat we
 vrienden waren!\0\0(
 촀\0Ik zweer het! Ik telde er gisteren
 twaalf! Echt wel!
-\0( (9촀\0Wat kijk je nou?\0\0(촀\0Oke, 
-\0dan geloof je me niet. 
-\0Pech
+\0( (9촀\0Wat kijk je nou, n\0?\0\0(촀\0Oké, 
+\0dan geloof je me niet. 
+\0Pech
 voor jou. 
-\0(촀\0Maar het is echt een
+\0(촀\0Maar het is echt een
 twaalfpack!"
-"107","( 촀\0Bah, met jou is ook geen lol te
-beleven! (6촀\0Maar ik snap het.
+"207","( 촀\0Bah, met jou is ook geen lol te
+beleven! 
+\0Maar ik snap het.
 \0( (5촀\0Tegen die
 spiermassa van mij kan niemand op!"

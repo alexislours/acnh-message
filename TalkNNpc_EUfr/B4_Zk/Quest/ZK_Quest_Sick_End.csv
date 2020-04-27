@@ -22,9 +22,9 @@ pareiln\0\0 La honten"
 "003_a","(\0촁\0J'apporte un remède !
 (\0촁\0Voilà un remède !
 (\0촁\0Qui veut un remède ?"
-"003_b","Accroche-toi.
-Ça va passer.
-Tu seras bientôt guéri."
+"003_b","(\0촀\0Accroche-toi.
+(\0촀\0Ça va passer.
+(\0촀\0Tu seras bientôt guéri."
 "004","(,촀\0
 \0\0AAATCHOUM !\0d\0\0(+촀\0Argh, je te raconte pas les frissons."
 "004_a","(\0촁\0J'apporte un remède !
@@ -73,12 +73,9 @@ aromatisée au remède miracle ?
 
 \0(촀\0Tu m'auras au moins réchauffé
 le cœur !(촀"
-"010","(+촀\0Oh, n\0n\0\0 Désolé,
-mais 2
+"010","(+촀\0Oh, n\0n\0\0 Désolé, mais 2
 le l'⁠n
-\0 que
-t'adores est à plat, aujourd'hui.
-(촀\0Quand je pense qu'il me suffirait
+\0 que t'adores est à plat, aujourd'hui.\0\0(촀\0Quand je pense qu'il me suffirait
 d'un \0remède\0￿ pour retrouver mon
 dynamisme légendairen\0\0(촀"
 "011","(촀\0Je viens de prendre ma température

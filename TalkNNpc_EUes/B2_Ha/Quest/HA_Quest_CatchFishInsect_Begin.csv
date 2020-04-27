@@ -13,10 +13,7 @@ pasando?"
 (\0촁\0¡Yo me encargo!"
 "003_b","(\0촁\0¡Venga, que puedes!
 (\0촁\0¡Buena suerte!"
-"004","(%촀\02\02\0}촀
-puede darme pistas para triunfar
-en competiciones de 촀.
-(
+"004","(%촀\02\02\0}촀 puede darme pistas para triunfar en competiciones de 촀.\0\0(
 촀\0Debería incorporar esos movimientos
 tan gráciles a mi entrenamienton\0\0\0\0(촀\0¡Aunque, como siga tan mal con la
 caza, no va a haber forma de obtener
@@ -287,11 +284,8 @@ que eres 2.el jugadorla jugadora mejor valorad2oa!
 buscando por mi cuenta.
 \0
 (""촀\0¡Nos vemos, n\0!"
-"201","(촀\0Llevo detrás de pescar 2\0
-}촀 ni
-te cuenton\0\0
-\0 ¡Pero no hay manera!
-(9촀\0Como rival mí2oa que eres,
+"201","(촀\0Llevo detrás de pescar 2\0}촀 ni te cuenton\0\0
+\0 ¡pero no hay manera!\0\0(9촀\0Como rival mí2oa que eres,
 \0 no me hace
 nada de gracia tener que pedírtelo,
 pero
@@ -301,7 +295,7 @@ pero
 "201_b","Ahora no puedo...
 Lo siento, pero no..."
 "202","Oye,
-\0 (9촀\0no sabes lo escurridiz2촀oa\0 que es
+\0 (9촀\0no sabes lo escurridiz2촀oa\0 que es
 2\0}촀(&촀\0n\0\0
 \0
 (촀\0Al menos para mín"

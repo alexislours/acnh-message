@@ -211,7 +211,7 @@ de nombreux avantages.\0\0Il y a notamment certains services de
 l'île dont on ne peut pas profiter
 sans tente,(촀\0 alors penses-y."
 "130","
-\0( 촀\0Ah, voilà qui tombe à pic.
+\0( 촀\0Tu tombes à pic, en fait.
 \0
 Je souhaitais justement t'entretenir
 un peu de la boutique de \0Méli\0￿.
@@ -220,12 +220,10 @@ un peu de la boutique de \0Méli\0￿.
 t'encourager à aller t'entretenir
 directement avec \0Méli\0￿.
 (%촀\0Il t'expliquera tout !"
-"140","(촀\0Merci d'aider à rassembler les
-matériaux pour la boutique. 
-\0Voilà un2\0e
-jeune 2
-homme
-femme qui sait se rendre utile."
+"140","(촀\0Je dois te remercier d'avoir offert ton
+aide pour ramasser des matériaux
+pour la boutique. 
+\0Quel altruisme !"
 "140_01","(
 촀\0Ah, mais tu voulais plutôt des
 conseils pratiques, hm ?\0\0(%촀\0Eh bien, je crois que tu cherches une
@@ -254,10 +252,10 @@ quotidienne. 
 usage. 
 \0(%촀\0Par exemple en fabriquant
 une \0hache rudimentaire\0￿, hm ?"
-"150","(촀\0D'abord, merci d'avoir rassemblé les
-matériaux pour la boutique. 
-\0Voilà un2\0e
-jeune 2
+"150","(촀\0Merci d'avoir rassemblé les matériaux
+pour la boutique. 
+\0Voilà un2\0e jeune
+2
 homme
 femme qui sait se rendre utile.
 (촀\0Moi qui t'abreuve de conseilsn\0\0 je
@@ -282,10 +280,17 @@ de shopping, oui, oui !"
 "162","(촀\0Je suis en pourparlers avec quelques
 clients désireux de s'installer sur
 l'île, alors je suis plutôt occupé.
-(%촀\0Oui, oui, tu auras bientôt de
-nouveaux voisins. 
-\0(촀\0J'espère que tu
-leur réserveras un bon accueil, hm ?"
+(촀\0En fait, l'affluence est telle que j'ai
+demandé de l'aide à notre délégué2
+촀\0e\0
+insulaire, n'\0.
+(&촀\0Tu veux également nous aider ?
+\0
+
+\0(촀\02\0n'\0 ne refuserait pas un coup de main, non, non.\0\0(촀\0En tout cas, tu auras bientôt de
+nouveaux voisins ! 
+\0En voilà une
+bonne nouvelle, hm ?"
 "163","( 촀\0Ah, au fait. 
 \0(\0촀\0Sais-tu que le \0Nook Stop\0￿
 propose désormais d'échanger des
@@ -376,11 +381,11 @@ les miles viendront en leur temps !"
 \0 Tu veux t'acquitter de tes
 frais d'installation ?\0\0(%촀\0Eh bien, cela nous fera \0Z\02촀\0￿."
 "402_a","Voilà pour toi !"
-"402_b","Une autre fois."
+"402_b","(\0촀\0Une autre fois."
 "403","(촀\0Oui, oui, pas de souci. 
 \0(촀\0Inutile de
 te précipiter, tu reviendras quand
-tu auras assez."
+tu auras plus de miles en réserve."
 "404","(촀\0Merci !"
 "405","(%촀\0Nous disions donc \0Z\02촀\0￿,
 pas un de moins."
@@ -541,7 +546,7 @@ de bricolage.
 de le sortir ?"
 "923","(촀\0Parfait, merci.
 \0 J'ai installé l'appli
-de bricolage sur ton téléphone. 
+\0Créations\0￿ sur ton téléphone. 
 \0Tu
 l'auras toujours à portée de patte !"
 "923_01","(%촀\0Et voilà, tu viens de fabriquer une

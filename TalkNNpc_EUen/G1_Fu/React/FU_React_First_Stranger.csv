@@ -131,8 +131,8 @@ Let's talk again (촀\0when I'm over this."
 \0
 (촀\0My name's n
 \0.\0\0(
-촀\0You look like a
-\0n\0\0(촀\0n\0!
+촀\0You look like an\0\0
+\0((촀\0n\0!
 \0
 (촀\0Hope that's OK with you.\0\0(4촀\0I was invited to move here
 by s\0촀.\0\0(\0촀\0I'm busy unpacking now,
@@ -274,10 +274,11 @@ should get together soon, OK?"
 "202_01","(""촀\0I haven't introduced myself yet.
 \0
 (촀\0I'm n
-\0.\0\0(촀\0I just moved here to the island
-from s촀.\0\0($촀\0You're n\0,
-\0 right?
-\0
+\0.
+\0 I just moved
+here to the island.
+($촀\0You're n\0,
+\0 right?
 (촀\0What a nice name.\0\0()촀\0I was talked into moving here
 by s\0촀
 \0 when I visited
@@ -343,21 +344,20 @@ so I really appreciate you taking the
 time to listen to me,
 \0 n\0.\0\0(촀\0I hope that we can get to be friends.(촀"
 "212","()촀\0I haven't had a chance to introduce
-myself to you
-\0 since I moved here
-\0n\0\0
+myself to you since I moved heren\0\0
+\0(
 (촀\0My name's n
 \0.\0\0()촀\0I had a friend who talked me into
 relocating when I camped here,
 \0 (촀\0but
 they moved away before I could.
 (\0촀\0Funny how things work out,
-\0 (촀\0I guess.
-\0
-(촀\0You're n\0,
-\0 right?\0\0(4촀\0Glad we got to meet,
-\0 n\0.
-(촀\0I can always use new friends!(촀"
+\0 (촀\0I guess.\0\0(촀\0You're n\0,
+\0 right?
+\0
+(4촀\0Glad we got to meet, n\0.
+\0
+I can always use new friends."
 "214","(,촀\0ACHOO!
 \0< (4촀\0Sorry
 \0n\0\0cold.

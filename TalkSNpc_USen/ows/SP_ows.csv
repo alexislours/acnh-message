@@ -31,10 +31,11 @@ It's not scientific, 
 you make your wish before the star
 disappears, it will be granted!"
 "010_02","(&촀\0Did you know that shooting stars
-often occur one right after another?\0\0(촀\0It's true-hoo! 
-\0(촀\0So if you see one
-shooting star, you might want to
-keep looking up for the next one!"
+often occur one right after another?
+\0<
+(촀\0It's true-hoo!\0\0(촀\0So if you see one shooting star, you
+might want to keep looking up for
+the next one!"
 "010_03","(&촀\0Did you know that each of the
 constellations has its own story?
 \0(촀\0
@@ -392,24 +393,23 @@ to tell you what I know of them!"
 evening to you!
 \0( (\0촀\0Are you a
 resident of this island?"
-"102","(촀\0Ah!
-\0 The famous n\0!
-\0
-(촀\0Lovely to meet you—I'm \0Celeste\0￿!
-\0
-My brother often speaks of you.
-(촀\0In fact, \0Blathers \0￿can't stop gushing
-about how you helped him open his
-\0museum\0￿. 
-\0(3촀\0Oh, he just goes on and on!
-(%촀\0In any case, thanks awfully for
-everything you've done for Blathie—(2촀\0
-\0
-Er,
-\0 my brother!
-\0d(\0촀"
+"102","(촀\0Ah ha! 
+\0You must be the
+famous n\0!\0\0(촀\0It's lovely to meet you—I'm \0Celeste\0￿!
+\0<
+(%촀\0Perhaps you've met my brother,
+\0Blathers\0￿? 
+\0He's a \0museum\0￿ curator.\0\0(\0촀\0You'd know if you had.
+\0 \0Blathie\0￿( 촀\0n\0\0
+\0er,
+I mean my brother
+\0 likes to go on and
+on and on aboutn\0\0everything.\0\0(촀\0It's quite endearing, assuming
+you're not in a rush.
+\0( (2촀\0Oh, but
+there I go getting distracted!"
 "103","()촀\0I came here to examine the night sky
-at Blathers's suggestion, butn"
+at \0Blathers\0￿'s suggestion, butn"
 "104","(촀\0It's so much better than I had dared
 hope! 
 \0Each star is as clear and

@@ -1,24 +1,23 @@
 ﻿"label","text"
 "001","(촀\0Endlich!
-\0 Endlich habe ich 2""촀
+\0 Endlich habe ich 2""촀
 eineneineein
 2촁}촀!"
 "002","(촀\0Willkommen in meiner Welt, 
-\022촀kleinerkleinekleines
+\022촀kleinerkleinekleines
 }촀!"
 "003","(6촀\0So lernen wir uns endlich doch noch
 kennenn\0\0 
-\02촀.Mein lieblicher kleiner,Meine liebliche kleine.Mein liebliches kleines
+\02촀.Mein lieblicher kleiner,Meine liebliche kleine.Mein liebliches kleines
 }\0\0!"
 "004","(촀\0Holla, 
 \0bist du dir sicher?
 \0
-2\02\0}\0\0
-für mich, 
+2\02\0}\0\0 für mich, 
 \0einfach so, 
 \0n\0?"
 "004_a","Passt schon!"
-"004_b","Wenn du's so sagst..."
+"004_b","(\0촁\0Wenn du's so sagst..."
 "005","(촀\0Dein Ernst?!"
 "006","(촀\0Puh! 
 \0Ich hätte mich auch irgendwie
@@ -85,18 +84,17 @@ gern \0auf Baumstümpfen \0￿sitzt, hätte
 ich natürlich nach wie vor gerne..."
 "021","(촀\0Ja!
 \0 Ich kann kaum glauben, dass ich
-2""촀
+2""촀
 eineneineein 2촁}촀 habe!"
-"022","Ich verspreche, dass ich mich gut um
+"022","(촀\0Ich verspreche, dass ich mich gut um
 dich kümmern werde, 
-\02R촀mein kleinermeine kleinemein kleines
+\02R촀mein kleinermeine kleinemein kleines
 }촀."
 "023","(6촀\0Genial, 
 \0n\0!
 \0
 2\02\0}\0\0,
-\0
-nur für mich!"
+\0 nur für mich!"
 "024","(촀\0Ui,
 \0 2\0}\0\0!
 \0
@@ -126,8 +124,8 @@ nach wie vor gerne..."
 "031","(촀\0Ich stehe wirklich in deiner Schuld,
 \0
 n\0.
-\0 (5촀\0Sag mir einfach,
-wo mein Autogramm hin soll."
+\0 (5촀\0Sag mir einfach, 
+\0wo mein Autogramm hin soll."
 "032","(촀\0Du bist wirklich 2(der Bestedie Beste,
 \0
 n\0!
@@ -147,7 +145,7 @@ eine Kleinigkeit für dich..."
 \0bitte nimm das hier an."
 "041","(촀\0Ta-daaa! 
 \0Weide deine Augen an
-2.촀diesemdieserdiesem 2촂}\0!
+2.촀diesemdieserdiesem 2촂}\0!
 \0
 (촀\0Ich weiß,
 \0 ich bin zu großzügig."
@@ -156,16 +154,16 @@ wenig übertrieben, 
 \0aber das sollte
 dich nicht stören.
 (촀\0Ich wünsche dir viel Spaß mit
-2.촀diesemdieserdiesem 2촂}\0!"
-"043","(5촀\02촀EinEineEin garantiert nie 2>촀benutzterbenutztebenutztes
+2.촀diesemdieserdiesem 2촂}\0!"
+"043","(5촀\02촀EinEineEin garantiert nie 2>촀benutzterbenutztebenutztes
 }\0!
 \0
 2\0n\0!"
-"044","(5촀\0Ich hab 2촀ihnsiees nie ausgepackt, 
+"044","(5촀\0Ich hab 2촀ihnsiees nie ausgepackt, 
 \0und jetzt
-gehört 2촀ersiees dir.
+gehört 2촀ersiees dir.
 \0(6촀\0 Viel Vergnügen mit
-2.촀deinemdeinerdeinem 2촂}\0!"
+2.촀deinemdeinerdeinem 2촂}\0!"
 "045","(5촀\0Und deine fantastische Belohnung ist
 2\0}\0!\0\0(촀\0Und als kleiner Bonus hat dieses
 Schmuckstück mal mir gehört,
@@ -173,9 +171,9 @@ Schmuckstück mal mir gehört,
 n\0!"
 "046","(7촀\0Das war mal mein Lieblingsstück,
 \0
-und hoffentlich gefällt 2촀ersiees dir auch!
+und hoffentlich gefällt 2촀ersiees dir auch!
 \0
-(촀\02$촀Mein
+(촀\02$촀Mein
 MeineMein }\0!"
 "051","(촀\0Wirklich, 
 \0n\0?"
@@ -236,36 +234,36 @@ weise in Flüssen und Seenn"
 \0(
 촀\0Die findet man logischer-
 weise im Meern"
-"201","(%촀\02(촀Meinen
+"201","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(
 촀\0Die sollte man ja einfach an Bäumen
 und dergleichen findenn"
-"202","(%촀\02(촀Meinen
+"202","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(촀\0Die verstecken sich natürlich gern
 im Gras und sind dann schwer zu
 findenn"
-"203","(%촀\02(촀Meinen
+"203","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(
 촀\0Die fliegen hier ja eigentlich überall
 herumn"
-"204","(%촀\02(촀Meinen
+"204","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(
 촀\0Davon fliegen hier ja mehr herum,
 als man so denktn"
-"205","(%촀\02(촀Meinen
+"205","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(촀\0Wenn sie auf Blumen sitzen, sind sie
 natürlich recht gut getarntn"
-"206","(%촀\02(촀Meinen
+"206","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(
@@ -273,34 +271,34 @@ du noch auf dem Schirm, 
 ansiehst, 
 \0könntest du fündig
 werdenn"
-"207","(%촀\02(촀Meinen
+"207","(%촀\02(촀Meinen
 MeineMein 2촁}촀 hast
 du noch auf dem Schirm, 
 \0oder?\0\0(
 촀\0Am Strand sollte man ja eigentlich
 genug davon findenn"
-"211","(%촀\02""촀
+"211","(%촀\02""촀
 EinenEineEin 2촁}촀 wolltest
 du mir besorgen.\0\0($촀\0Wo man die findet?
 \0( (
 촀\0
 \0Ich würde mal
 auf den Fluss tippenn"
-"212","(%촀\02""촀
+"212","(%촀\02""촀
 EinenEineEin 2촁}촀 wolltest
 du mir besorgen.\0\0($촀\0Wo man die findet?
 \0( (
 촀\0
 \0Ich würde mal
 auf Teiche tippenn"
-"213","(%촀\02""촀
+"213","(%촀\02""촀
 EinenEineEin 2촁}촀 wolltest
 du mir besorgen.\0\0($촀\0Wo man die findet?
 \0( (
 촀\0
 \0Ich würde mal
 an Flussmündungen guckenn"
-"214","(%촀\02""촀
+"214","(%촀\02""촀
 EinenEineEin 2촁}촀 wolltest
 du mir besorgen.\0\0($촀\0Wo man die findet?
 \0( (

@@ -4,7 +4,7 @@
 \0 Et si tu
 échangeais ça contre autre chose?"
 "001_a","Échanger."
-"001_b","Laisser tomber."
+"001_b","(\0촀\0Laisser tomber."
 "002","Tiens,
 \0 tu as déterré 2\0}\0\0!"
 "003","... Mais,
@@ -17,9 +17,9 @@ chose?"
 \0 Et si tu
 échangeais ça contre autre chose?"
 "003_01_a","Échanger."
-"003_01_b","Remettre en terre."
+"003_01_b","(\0촀\0Remettre en terre."
 "003_a","Échanger."
-"003_b","Remettre en terre."
+"003_b","(\0촀\0Remettre en terre."
 "004","... Mais,
 \0 tes poches sont pleines!
 \0
@@ -96,7 +96,7 @@ la peine de t'embêter avec ça..."
 \0 Et si tu
 échangeais ça contre autre chose?"
 "017_a","Échanger."
-"017_b","Remettre en terre."
+"017_b","(\0촀\0Remettre en terre."
 "021","Ouille ouille ouillen\0\0
 \0
 Des guêpes t'ont piqué2\0e!"
@@ -134,7 +134,7 @@ pas gentil de l'emporter chez toi."
 "103","Oh, quelqu'un a laissé tomber
 2\0}\0\0!\0\0Qui peut avoir perdu ça?
 \0 Mieux
-vaut 2촀lela\0 laisser ici,
+vaut 2촀lela\0 laisser ici,
 \0 son propriétaire
 est peut-être déjà à sa recherche."
 "104","Ce trésor appartient à quelqu'un
@@ -403,15 +403,15 @@ sur ton \0NookPhone\0￿. Tu peux faire tes
 achats où et quand tu le souhaites!"
 "290","<"
 "290_01","Oh non!
-\0 On dirait que 2촀tonta\0 fidèle
+\0 On dirait que 2촀tonta\0 fidèle
 \0}\0\0\0￿ vient de rendre l'âmen"
 "290_02","Oh non!
-\0 2촀IlElle\0 était bien pratique,
+\0 2촀IlElle\0 était bien pratique,
 \0
-2촀ce
+2촀ce
 cette\0 fidèle \0}\0\0\0￿n"
 "290_03","Oh non!
-\0 2촀TonTa\0 fidèle \0}\0\0\0￿ vient de te lâcher dans les mainsn"
+\0 2촀TonTa\0 fidèle \0}\0\0\0￿ vient de te lâchern"
 "505","(
 촀\0On pourrait réutiliser ce vieux pneu
 pour autre chosen\0\0
@@ -459,6 +459,18 @@ détritusn\0\0
 \0
 \0(촀\0 Ça t'a donné une idée
 pour un plan de bricolage!"
+"515","(
+촀\0En se basant sur le motif de l'œufn\0\0
+\0(촀\0
+\0
+Tu as eu des idées pour des
+plans de bricolage!"
+"518","(
+촀\0Tu sais faire plein de choses avec
+des coquilles d'œufsn\0\0
+\0(촀\0
+\0 Ça t'a donné
+une idée pour un plan de bricolage!"
 "700","Bonne fête!
 \0 C'est toujours
 amusant de faire la fête autour d'un
@@ -544,7 +556,7 @@ Il faut prévoir un peu plus d'espace."
 "914_01","Tous les habitants doivent pouvoir
 se rassembler sur la place, il vaut
 mieux choisir un autre endroit."
-"915","Si près d'une autre construction, on
+"915","Si près d'une autre structure, on
 risque de ne plus pouvoir circuler.
 Mieux vaut choisir un autre endroit."
 "916","C'est trop près du pont, on risque
@@ -561,6 +573,9 @@ aux lettres de quelqu'un d'autre.
 Mieux vaut choisir un autre endroit."
 "919_01","Tu vas d'abord devoir déplacer
 ta \0boîte aux lettres\0￿."
+"920","C'est trop près du ponton, on
+risque de ne plus pouvoir circuler.
+Mieux vaut choisir un autre endroit."
 "921","Il n'y a pas de rivière qui puisse
 accueillir un pont à cet endroit."
 "926","Pour construire un pont, il faut deux
@@ -568,7 +583,7 @@ berges et que la rivière ait la bonne
 largeur."
 "926_01","Si tu construis un pont ici, il ne
 sera pas facile de l'emprunter :
-il aboutira trop près de l'eau."
+il aboutira trop près de l'autre rivière."
 "926_02","Si tu construis un pont ici, il ne
 sera pas facile de l'emprunter :
 il aboutira trop près de la falaise."
@@ -596,8 +611,7 @@ Est-ce que ça te convient?"
 "941_b","Ici, c'est parfait!"
 "941_c","Trouvons mieux!"
 "942","Veux-tu 2
-que qu'⁠s촀
-déménage ici?"
+que qu'⁠s촀 déménage ici?"
 "942_a","Imaginons..."
 "942_b","Ici, c'est parfait!"
 "942_c","Trouvons mieux!"

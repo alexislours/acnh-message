@@ -25,7 +25,7 @@ avoir un faible pour 2\0촀
 "010_01_b","('촀\0Ce n'est plus le cas."
 "010_02","()촀\0La dernière fois,
 \0 tu m'as dit que
-2\0촀 était t21촀ona\0 촀 préféré21촀\0e\0
+2\0촀 était t22촀ona\0 촀 préféré22촀\0e\0
 \0n\0\0\0\0(&촀\0Est-ce que tu dirais que c'est encore
 vrai aujourd'hui,
 \0 n\0 ?"
@@ -63,14 +63,14 @@ que tu étais doué2\0e pour 촀,
 "010_05_b","('촀\0Ce n'est plus le cas."
 "010_101","(8촀\0Si ma mémoire me fait pas défaut, je
 crois que tu aimais bienn\0\0 « ⁠
-촀 ».\0\0(&촀\0Est-ce que c'est toujours le cas ?"
+촀 ⁠».\0\0(&촀\0Est-ce que c'est toujours le cas ?"
 "010_101_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
 "010_101_b","('촀\0Ce n'est plus le cas."
 "010_102","()촀\0La dernière fois,
 \0 tu m'as dit que
-t21촀ona\0 촀 préféré21촀\0e\0, c'est « ⁠
-촀 »
+t22촀ona\0 촀 préféré22촀\0e\0, c'est « ⁠
+촀 ⁠»
 \0n\0\0\0\0(&촀\0Est-ce que tu dirais que c'est encore
 vrai aujourd'hui,
 \0 n\0 ?"
@@ -84,7 +84,7 @@ je t'ai déjà demandé quel était le
 métier de tes rêves,
 \0 n\0
 \0n\0\0\0\0(&촀\0T'avais répondu que c'était « ⁠
-촀 ».
+촀 ⁠».
 \0 C'est toujours le cas ?"
 "010_103_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
@@ -102,7 +102,7 @@ métier de tes rêves,
 \0 (
 촀\0Je crois que tu m'as dit
 être doué2\0e pour « ⁠
-촀 »n\0\0\0\0(촀\0C'est toujours le cas,
+촀 ⁠»n\0\0\0\0(촀\0C'est toujours le cas,
 \0 hein ?"
 "010_105_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
@@ -116,7 +116,7 @@ disais à n촀,
 \0 je me cite :\0\0((촀\0« ⁠À propos 2
 de d'⁠촀,
 \0 il se trouve 2
-que qu'⁠n\0 adore 2\0촀 ! »\0\0(4촀\0Bon j'avoue que j'ai dit ça à moitié
+que qu'⁠n\0 adore 2\0촀 ! ⁠»\0\0(4촀\0Bon j'avoue que j'ai dit ça à moitié
 au pif, parce que j'étais plus sûr de
 mon coupn\0\0
 (촀\0Mais je suis bien content d'avoir piffé
@@ -137,7 +137,7 @@ vis 2
 de ton rêve au détour d'une
 conversation,
 \0 à vrai dire.
-(촀\0D'ailleurs on s'est dit que tu ferais un22촀\0e\0 excellent22촀\0e\0 촀, n\0 !"
+(촀\0D'ailleurs on s'est dit que tu ferais un23촀\0e\0 excellent23촀\0e\0 촀, n\0 !"
 "011_04","(촀\0Content de te l'entendre dire !
 \0(
 (4촀\0Parce que c'est ce que j'ai raconté
@@ -164,7 +164,7 @@ disais à n촀,
 \0\0\0((촀\0« ⁠À propos 2
 de d'⁠촀, il se trouve 2
 que qu'⁠n\0 adore 
-촀 ! »\0\0(4촀\0Bon j'avoue que j'ai dit ça à moitié
+촀 ! ⁠»\0\0(4촀\0Bon j'avoue que j'ai dit ça à moitié
 au pif parce que j'étais plus sûr de
 mon coupn\0\0
 (촀\0Mais je suis bien content d'avoir piffé
@@ -241,7 +241,7 @@ talent pour 촀
 (%촀\0Tout à fait."
 "030_05_b","('촀\0Ce n'est plus le cas."
 "030_101","(&촀\0C'est vrai que tu adores « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "030_101_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
 "030_101_b","('촀\0Ce n'est plus le cas."
@@ -264,7 +264,7 @@ t'ai demandé ton rêve,
 "030_103_b","('촀\0Ce n'est plus le cas."
 "030_104","Dis-moi n\0,
 \0(&촀\0 ton passe-temps, c'est toujours « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "030_104_a","(%촀\0C'est bien ça.
 (%촀\0Tout à fait."
 "030_104_b","('촀\0Ce n'est plus le cas."
@@ -345,8 +345,8 @@ nez,
 \0 hein ?
 \0(촀\0 C'est dégoûtant, ça."
 "031_104","(촀\0Ahhh !
-\0 « ⁠
-촀 »,
+\0 « ⁠2\0
+촀 ⁠»,
 \0 ça c'est un vrai passe-temps !\0\0(1촀\0Je pourrais faire ça des heures durant,
 \0 n\0n"
 "031_105","(촀\0Ça alors !
@@ -406,7 +406,7 @@ astuces à partager pour faire ça bien,
 \0
 je dis pas non !"
 "032_101","( 촀\0Alors c'est vraiment « ⁠
-촀 » ?
+촀 ⁠» ?
 \0(촀\0 Ça me rend curieux, n\0
 \0n\0\0\0\0(%촀\0J'aimerais bien que tu m'en
 apprennes un peu plus sur le sujet,
@@ -548,7 +548,7 @@ alors
 "051","(9촀\0J'aimerais confirmer ce que j'ai
 entendun\0\0
 \0(&촀\0 T'as bien dit « ⁠
-촀 » ?"
+촀 ⁠» ?"
 "051_a","(%촀\0C'est ça.
 (%촀\0Tout juste."
 "051_b","('촀\0En fait, non...
@@ -1263,7 +1263,7 @@ vases résistent jamais à la cuisson."
 et faire disparaître tous les moutons
 de poussière d'un coupn"
 "106_01","( 촀\0Donc t'écoutes « ⁠
-촀 » ?
+촀 ⁠» ?
 \0 (9촀\0Connais pas.\0\0(
 촀\0Faudra que j'y jette une oreille à
 l'occasion.
@@ -1271,26 +1271,26 @@ l'occasion.
 \0(촀\0Ça me plaira
 peut-être aussi."
 "106_02","( 촀\0Donc en ce moment tu lis « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Je connais pas,
 \0 mais j'y jetterai
 peut-être un œil un jour, si je
 m'ennuie
 \0n"
 "106_03","( 촀\0Donc tu lis « ⁠
-촀 » en ce moment ?\0\0(
+촀 ⁠» en ce moment ?\0\0(
 촀\0Je vais peut-être y jeter un œil, moi
 aussi, à l'occasion
 \0n"
 "106_04","( 촀\0Donc ton truc c'est plutôt « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Si ça te plaît vraiment,
 \0 ça vaudrait
 peut-être le coup que je m'y
 intéresse
 \0n"
 "106_05","( 촀\0Donc ton truc, c'est plutôt « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Si ça te plaît vraiment,
 \0 ça vaudrait
 peut-être le coup que je m'y
@@ -1298,38 +1298,38 @@ intéresse
 \0n"
 "106_06","( 촀\0Donc question sport,
 \0 t'es plutôt « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Si c'est vraiment ton truc,
 \0 ça
 vaudrait peut-être le coup que
 je m'y intéresse
 \0n"
 "106_07","( 촀\0Donc ton truc c'est plutôt « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Si ça te plaît tant que ça,
 \0 je devrais
 peut-être en goûter à l'occasion
 \0n"
 "106_08","( 촀\0Donc ton truc c'est plutôt « ⁠
-촀 » ?\0\0(
+촀 ⁠» ?\0\0(
 촀\0Si ça te plaît tant que ça,
 \0 je devrais
 peut-être en goûter à l'occasion
 \0n"
 "106_09","( 촀\0Alors ton rêve,
 \0 c'est plutôt de devenir « ⁠
-촀 » ?\0\0(촀\0J'imagine que c'est un rêve comme
+촀 ⁠» ?\0\0(촀\0J'imagine que c'est un rêve comme
 un autren\0\0 Après tout,
 \0 les rêves, ça
 se compare pas."
 "106_10","( 촀\0Alors ton passe-temps favori,
 \0 c'est « ⁠
-촀 » ?\0\0(촀\0J'imagine que tant que t'y trouves
+촀 ⁠» ?\0\0(촀\0J'imagine que tant que t'y trouves
 ton compte,
 \0 ça doit valoir le coupn"
 "106_11","( 촀\0Alors ton super talent,
 \0 c'est « ⁠
-촀 » ?\0\0(촀\0J'imagine que ça doit se révéler utile
+촀 ⁠» ?\0\0(촀\0J'imagine que ça doit se révéler utile
 plus souvent qu'on ne le pensen"
 "107_01","(9촀\0Oh.
 \0( (

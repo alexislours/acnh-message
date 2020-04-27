@@ -6,7 +6,7 @@
 "004","(7촀\0Hehehe, s촀 heeft me een cadeau gegeven.\0\0(%촀\0Want vandaag is het mijn dag!\0\0(6촀\0Als mijn hersenspieren zich niet
 vergissen, heb jij ook een presentje
 voor me."
-"004_a","(\0촁\0Klopt helemaal!"
+"004_a","Klopt helemaal!"
 "004_b","Ik heb niets."
 "005","(4촀\0Ik verwacht niets, maar mocht je een
 cadeautje voor me hebben, dan zou
@@ -15,8 +15,8 @@ ik dat heel leuk vinden."
 "005_b","Sorry, ik heb niets."
 "006","(촀\0Wat goed dat je bent gekomen!\0\0(7촀\0En nog beter als je iets voor me hebt
 meegenomen!"
-"006_a","(\0촁\0Alsjeblieft, voor jou!"
-"006_b","(\0촁\0Geen presentje!"
+"006_a","Alsjeblieft, voor jou!"
+"006_b","Geen presentje!"
 "007","(*촀\0Meen je dat nou?\0\0(7촀\0Ach, je bent gekomen, en dat is
 cadeau genoeg.
 \0( (촀\0Geen zorgen en
@@ -43,25 +43,25 @@ een ""c"" en eindigt op ""adeautje""."
 \0 Mag ik het gelijk uitpakken?"
 "017","(촀\0Oeeeee! Iets lekkers!\0\0(촀\0Nu voelt het pas als een
 verjaardag!"
-"018","(촀\02\02\0}\0\0?!\0\0(촀\0Haha! 2촀DieDatDie heb ik al!\0\0(%촀\0Natuurlijk weet een goede 2 vriendvriendin
+"018","(촀\02\02\0}\0\0?!\0\0(촀\0Haha! 2촀DieDatDie heb ik al!\0\0(%촀\0Natuurlijk weet een goede 2 vriendvriendin
 (촀\0als jij precies wat voor dingen ik leuk
 vind!
 \0(촀\0 2\0n\0."
 "019","( 촀\0Wat een toeval!
 \0 2\02\0}\0\0?!\0\0(5촀\0Kijk, 
-\0n\0. 22촀Is dieIs datZijn die niet precies 2l촀 dezelfde als die""hetzelfde als dat dezelfde als die ik nu draag?\0\0(%촀\0Zo zie je maar dat goede vrienden
+\0n\0. 22촀Is dieIs datZijn die niet precies 2l촀 dezelfde als die""hetzelfde als dat dezelfde als die ik nu draag?\0\0(%촀\0Zo zie je maar dat goede vrienden
 dezelfde goede smaak hebben!
 \0
 (촀\0Bedankt, (촀\0n\0."
 "020","(촀\0O,
 \0 2\0}\0\0!\0\0(
-촀\0Voor mijn gevoel heb ik 2촀dieditdie ergens
+촀\0Voor mijn gevoel heb ik 2촀dieditdie ergens
 eerder gezienn\0\0
 \0(
 \0 (촀\0
 
 \0Wacht eens even! Jij
-draagt 2촀dieditdie nu!
+draagt 2촀dieditdie nu!
 	\0
 (2촀\0Dan lijken we een soort stijlvolle
 tweeling!
@@ -75,7 +75,7 @@ je vast een lieve klingel gekostn\0\0
 "022","(촀\0O! Wauw, zegn\0\0 Meen je dat nou?
 2\02\0}\0\0!\0\0(촀\0Je bent zo ontzettend cool! Dit is het
 mooiste cadeau ooit!"
-"023","(촀\0Wat?! 26촀Een heuseEen heus
+"023","(촀\0Wat?! 26촀Een heuseEen heus
 Heuse }\0\0?!\0\0(촀\0Wat ken je mijn smaak toch goed,
 n\0."
 "024","(촀\0Wat fantastisch!
@@ -173,11 +173,10 @@ hoopte al dat je zou komen.\0\0(촀\0O, ja!
 \0 (촀\0Heb je een cadeautje voor me?"
 "061_a","Maar natuurlijk!"
 "061_b","(\0촁\0Een watte?"
-"062","(&촀\0We zijn goede vrienden, toch,
-n\0?\0\0(4촀\0Dus ehn\0\0 Heb je toevallig een
+"062","(&촀\0We zijn goede vrienden, toch, n\0?\0\0(4촀\0Dus, ehn\0\0 Heb je toevallig een
 cadeautje voor je goede vriend?"
-"062_a","(\0촁\0Zeker weten, vriend."
-"062_b","(\0촁\0Sorry, vriend."
+"062_a","Zeker weten, vriend."
+"062_b","Sorry, vriend."
 "064","(촀\02\0n\0! Ga je er alweer vandoor?\0\0(촀\0Nou, ontzettend bedankt dat je bent
 gekomen.
 \0 En voor het cadeau!
@@ -239,7 +238,8 @@ dat je mijn verjaardagswens in
 vervulling hebt laten gaan!"
 "080","(%촀\0Een cadeautje van een bezoeker?
 
-\0Dat is een supersterk staaltjen\0\0
+\0Dat is een supersterk staaltjen\0\0
+
 \0(촀\0vriendelijkheid van je! 
 \0Bedankt!\0\0(촀\0Ik heb hier een bedankje voor jen\0\0
 \0(

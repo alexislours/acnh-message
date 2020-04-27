@@ -60,7 +60,10 @@ vadrouille.
 "002_b","J'ai besoin d'un outil."
 "002_c","('촁\0Laisse tomber."
 "003","(&촀\0Tu veux plier bagage et remettre le
-cap sur n""\0 ?"
+cap sur n""\0 ?\0\0(촀\0Sois sûr2\0e de toi, je m'en voudrais,
+si tu oubliais quelque chose derrière
+toi.
+\0 Alors,(&촀\0 on est partis ?"
 "003_a","(%촁\0Oui !"
 "003_b","('촁\0Non, attendsn"
 "004","-촀\0

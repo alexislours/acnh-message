@@ -5,21 +5,21 @@
 catalogues. 
 \0($촀\0Si j'me retenais pas,
 j'l'essaierais tout d'suite !"
-"001_a","Te retiens pas !"
-"001_b","Retiens-toi."
+"001_a","(\0촀\0Te retiens pas !"
+"001_b","(\0촀\0Retiens-toi."
 "002","(촀\0Ah, c'est sympa.
 \0(4촀\0 J'me suis toujours
 demandé à quoi j'ressemblerais avec
 2\0}\0\0."
-"002_a","Essaie !"
+"002_a","(\0촀\0Essaie !"
 "002_b","(\0촁\0Je vois..."
 "003","( 촀\02\02\0}\0\0 ?
-\0(촀\0 Ha ha, excellent !\0\0(%촀\0Ça m'en fait un2촀\0e\0 en rab pendant
+\0(촀\0 Ha ha, excellent !\0\0(%촀\0Ça m'en fait un2촀\0e\0 en rab pendant
 qu'l'autre passe à la machine !
 \0 (촀\0Chuis
 une sacrée veinarde, n\0 !
 (4촀\0Oh, euhn\0\0 va juste pas crier sur
-les toits qu'j'en avais déjà un2촀\0e\0, OK ?"
+les toits qu'j'en avais déjà un2촀\0e\0, OK ?"
 "004","((촀\0C'est vrai, pourquoi attendre ?
 \0
 (6촀\0Ferme les yeux, et pas
@@ -43,8 +43,8 @@ cadeau pourn\0\0(*촀\0 une vraie occasion."
 \0 Ça détonne
 pas trop par rapport à mon style
 habituel ?"
-"100_a","C'est top !"
-"100_b","Euh..."
+"100_a","(\0촀\0C'est top !"
+"100_b","(\0촀\0Euh..."
 "101","(촀\0Youhou !
 \0 Pile poil c'que j'voulais
 entendre !"
@@ -68,14 +68,10 @@ oublier tout ça, OK ?"
 à qui ces sapes vont bien. 
 \0Mais
 j'crois qu'on en est loin."
-"201","(촀\0s촁 a tapé juste,
-il faut reconnaître. 
-\0(촀\0Voilà une fille
-qui sait c'qu'elle fait !"
-"202","(5촀\0s촁 me connaît mieux
-que moi-même ! 
-\0En plus, c'est pile
-la bonne taille !"
+"201","(촀\0s촁 a tapé juste, il faut reconnaître. 
+\0(촀\0Voilà une fille qui sait c'qu'elle fait !"
+"202","(5촀\0s촁 me connaît mieux que moi-même ! 
+\0En plus, c'est pile la bonne taille !"
 "203","(%촀\0C'te sape est au top. 
 \0En plus, j'parie
 2
@@ -83,88 +79,57 @@ la bonne taille !"
 « Tu penses, ma chère, c'était à
 peine l'affaire d'un après-midi ! »"
 "204","(%촀\0Tu m'étonnes 2
-que qu'⁠s촁
-m'a dégoté des fringues aussi
-classe. 
+que qu'⁠s촁 m'a dégoté des fringues aussi classe. 
 \0(5촀\0Plus stylée qu'elle, tu meurs."
-"205","(촀\0C'est s촁 qui a choisi
-ça ?
-\0(5촀\0 De temps en temps, il vise juste,
-le p'tit. 
+"205","(촀\0C'est s촁 qui a choisi ça ?
+\0(5촀\0 De temps en temps, il vise juste, le p'tit. 
 \0Faut lui laisser ça."
-"206","(촀\0C'est vraiment s촁
-qui a choisi ? 
-\0(촀\0Faut croire que j'le
-sous-estimais !"
-"207","(촀\0s촁 a eu cette idée
-tout seul ?
+"206","(촀\0C'est vraiment s촁 qui a choisi ? 
+\0(촀\0Faut croire que j'le sous-estimais !"
+"207","(촀\0s촁 a eu cette idée tout seul ?
 \0 On parle bien du même ?"
 "208","(촀\0J'm'attendais pas à des sapes de la
 part 2
-de d'⁠s촁n\0\0(촀\0 mais
-j'dis pas non !"
+de d'⁠s촁n\0\0(촀\0 mais j'dis pas non !"
 "209","(2촀\0Entre nous, j'm'attendais pas à ça
 de la part 2
 de d'⁠s촁...\0\0(\0촀\0J'ferais mieux d'aller me rabibocher
 avec elle fissa. 
 \0(%촀\0On s'est pris la tête
 pour pas grand-chose, au fond."
-"210","(2촀\0Faut avouern\0\0 s촁 a
-sorti l'grand jeu. C'est un beau geste
-ou j'm'y connais pas.
-((촀\0J'vais aller m'excuser pronto, en
+"210","(2촀\0Faut avouern\0\0 s촁 a sorti l'grand jeu. C'est un beau geste ou j'm'y connais pas.\0\0((촀\0J'vais aller m'excuser pronto, en
 espérant que cette bisbille à deux
 clochettes soit vite oubliée."
-"211","(2촀\0Ouahn\0\0 Quand s촁
-s'excuse, elle fait pas semblant.
-\0
-(%촀\0J'la reconnais bien là, tiens.
-(5촀\0J'ai plus qu'à me montrer à la
+"211","(2촀\0Ouahn\0\0 Quand s촁 s'excuse, elle fait pas semblant.
+\0 (%촀\0J'la reconnais bien là, tiens.\0\0(5촀\0J'ai plus qu'à me montrer à la
 hauteur en lui présentant les
 excuses du siècle, n\0 !"
 "212","(2촀\0Tu veux dire 2
-que qu'⁠s촁
-a acheté çan\0\0 juste pour moi ?\0\0(촀\0Dans c'cas-là, y a pas à tortiller.
+que qu'⁠s촁 a acheté çan\0\0 juste pour moi ?\0\0(촀\0Dans c'cas-là, y a pas à tortiller.
 \0
 (%촀\0J'ai plus qu'à prendre mon courage à
 deux pattes et à foncer m'excuser !"
 "213","(2촀\0Dire 2
-que qu'⁠s촁 a chopé
-c'cadeau juste pour moin\0\0 J'aurais
-jamais cru.\0\0(%촀\0Je ferais mieux d'aller m'excusern\0\0
+que qu'⁠s촁 a chopé c'cadeau juste pour moin\0\0 J'aurais jamais cru.\0\0(%촀\0Je ferais mieux d'aller m'excusern\0\0
 C'est au-dessus d'mes forces de
 rester en colère contre ce type."
-"214","(2촀\0s촁 t'a vraiment
-d'mandé de m'apporter ça ? 
-\0(촀\0Il a
-abusé des protéines ou quoi ?
-(\0촀\0J'plaisante, hein. 
+"214","(2촀\0s촁 t'a vraiment d'mandé de m'apporter ça ? 
+\0(촀\0Il a abusé des protéines ou quoi ?\0\0(\0촀\0J'plaisante, hein. 
 \0J'vois bien qu'il
 s'démène pour qu'on s'rabiboche.
 
 \0(촀\0J'vais aller causer un peu avec lui."
-"215","(촀\0Attends, s촁 s'est
-infligé une sortie shopping pour
-me faire c'cadeau ?
-(6촀\0J'aurais voulu être une p'tite souris
+"215","(촀\0Attends, s촁 s'est infligé une sortie shopping pour me faire c'cadeau ?\0\0(6촀\0J'aurais voulu être une p'tite souris
 pour voir ça ! 
 \0(%촀\0En tout cas, ça mérite
 bien des excuses, n\0 !"
-"216","(2촀\0s촁 s'est fatigué à
-m'dénicher ce cadeau ?
-\0 J'avoue
-qu'ça m'touche.
-(촀\0C'est moi qui abuse et c'est lui qui
+"216","(2촀\0s촁 s'est fatigué à m'dénicher ce cadeau ?
+\0 J'avoue qu'ça m'touche.\0\0(촀\0C'est moi qui abuse et c'est lui qui
 m'offre un trucn\0\0 (촀\0Franchement, il
 est plus que temps que j'm'excuse."
-"300","(촀\0En tout cas, s촁 a
-pensé à moi, et ça, ça vaut tous les
-cadeaux du monde, n\0 !"
+"300","(촀\0En tout cas, s촁 a pensé à moi, et ça, ça vaut tous les cadeaux du monde, n\0 !"
 "301","(
-촀\0Ceci dit, si s촁 s'est
-fendue d'un cadeau pareil, c'est
-qu'elle doit être au 36e dessous.
-(촀\0Je f'rais mieux d'aller lui donner une
+촀\0Ceci dit, si s촁 s'est fendue d'un cadeau pareil, c'est qu'elle doit être au 36e dessous.\0\0(촀\0Je f'rais mieux d'aller lui donner une
 tape dans l'dos avant qu'elle pleure
 toutes les larmes de son p'tit corps."
 "302","(
@@ -172,19 +137,13 @@ toutes les larmes de son p'tit corps."
 au poteau par s촁 ?\0\0(\0촀\0Ça va pas s'passer comme ça !
 
 \0(촀\0Moi aussi, j'sais faire des excuses !"
-"303","(%촀\0C'est s촁 qui s'excuse
-en premier.
+"303","(%촀\0C'est s촁 qui s'excuse en premier.
 \0 J'aurais dû m'en douter.
-\0
-Toujours un coup d'avance, celle-là.
-(촀\0Bref, je f'rais mieux de mettre les
+\0 Toujours un coup d'avance, celle-là.\0\0(촀\0Bref, je f'rais mieux de mettre les
 enfantillages en sourdine et d'aller
 faire des excuses dignes de c'nom."
 "304","(
-촀\0Si s촁 se met à
-m'envoyer des p'tits cadeaux
-pour s'excusern\0\0
-('촀\0J'rends les armes !
+촀\0Si s촁 se met à m'envoyer des p'tits cadeaux pour s'excusern\0\0\0\0('촀\0J'rends les armes !
 \0 J'ai plus l'cœur
 de lui en vouloir. 
 \0(촀\0D'ailleurs, j'm'en
@@ -199,23 +158,16 @@ pas rester les pattes ballantes.
 \0
 (촀\0J'vais aller m'excuser sur-le-champ."
 "306","(
-촀\0N'empêche, j'pensais pas voir le jour
-où s촁 dégainerait
-un cadeau.
-(촀\0Cette dispute à la noix doit lui avoir
+촀\0N'empêche, j'pensais pas voir le jour où s촁 dégainerait un cadeau.\0\0(촀\0Cette dispute à la noix doit lui avoir
 mis l'moral en miettes. (촀\0J'vais aller
 lui dire que c'est oublié."
 "307","(
 촀\0Entre nous, on a tous les deux
-poussé l'bouchon sur c'coup-làn\0\0\0\0(촀\0Mais s촁 se fend
-d'un cadeau et moi, j'ai pas bougé
-le p'tit doigt, n\0.
-(2촀\0J'peux m'brosser pour avoir l'beau
+poussé l'bouchon sur c'coup-làn\0\0\0\0(촀\0Mais s촁 se fend d'un cadeau et moi, j'ai pas bougé le p'tit doigt, n\0.\0\0(2촀\0J'peux m'brosser pour avoir l'beau
 rôle, maisn\0\0 j'peux du moins accepter
 ses excuses.
 \0 J'vais aller l'voir."
 "308","(
-촀\0s촁 qui fait l'premier
-pas, j't'avoue qu'j'en reviens pasn\0\0\0\0(촀\0Pis chuis pas très fière d'une ou deux
+촀\0s촁 qui fait l'premier pas, j't'avoue qu'j'en reviens pasn\0\0\0\0(촀\0Pis chuis pas très fière d'une ou deux
 bricoles que j'lui ai sortiesn\0\0 (촀\0Je f'rais
 mieux d'aller m'excuser."

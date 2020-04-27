@@ -24,9 +24,9 @@ wellicht een beroep op jou doen?"
 \0
 
 (촀\0maar ik had toevallig onlangs precies
-2<촀dezelfdehetzelfdedezelfde gekocht!\0\0(2촀\0Welnu, je voelt ongetwijfeld aan waar
+2<촀dezelfdehetzelfdedezelfde gekocht!\0\0(2촀\0Welnu, je voelt ongetwijfeld aan waar
 ik naartoe wiln\0\0
-\0 (&촀\0Zou jij 2촀hemhetze van me
+\0 (&촀\0Zou jij 2촀hemhetze van me
 willen kopen, n\0?"
 "004_a","(\0촀\0Wat vraag je ervoor?"
 "004_b","Eh... Sorry, maar nee."
@@ -78,7 +78,7 @@ niet. 
 \0((;촀\0 geef ik je mijn 2촃}\0\0 gratis.
 \0( (촀\0Ik moet namelijk echt ontspullen!"
 "104","(""촀\0Zoiets als 2\0}\0\0
-\0 (촀\02$촀komtkomt
+\0 (촀\02$촀komtkomt
 komen altijd wel van pas, n\0!"
 "105","(촀\0Ik begrijp hetn\0\0
 \0 Mijn zoektocht gaat
@@ -97,7 +97,7 @@ duidelijk een echte handelaar.
 \0 (촀\0Wat
 dacht je dan van Z?"
 "201_a","Deal!"
-"201_b","Hmmmmmm..."
+"201_b","(\0촀\0Hmmmmmm..."
 "202","(촀\0Eenmaal, andermaaln\0\0 
 \0#(촀\0Verkocht aan
 de vriendelijke 2heerdame hier vooraan,
@@ -114,7 +114,7 @@ nog van gedachte, n\0."
 \0 Dit
 is mijn laatste aanbod!"
 "205_a","Ja, ik ben om!"
-"205_b","Echt je allerlaatste?"
+"205_b","(\0촀\0Echt je allerlaatste?"
 "206","(촀\0O hemeltje.
 \0 Sorry,
 \0

@@ -17,14 +17,14 @@ trovi un nuovo, frizzante intercalare?
 \0
 (&촀\0Qualcosa di piùn\0\0 
 \0filosofeducativo?"
-"002_a","(\0촀\0Sì, è proprio il caso."
-"002_b","(\0촀\0No, è così adatto a te."
+"002_a","Sì, è proprio il caso."
+"002_b","No, è così adatto a te."
 "003","(촀\0Ehi, n\0. 
 \0Hai mica un secondo?\0\0(촀\0L'altro giorno n촀 ha detto che secondo 2촀luilei\0 il mio intercalare è fuori modan\0\0\0\0(&촀\0Tu che ne pensi? 
 \0È giunta l'ora che
 ""⁠n\0"" vada in pensione?"
-"003_a","(\0촀\0Direi di sì..."
-"003_b","(\0촀\0Giammai!"
+"003_a","Direi di sì..."
+"003_b","Giammai!"
 "004","(
 촀\0Mmmhn\0\0 
 \0n\0n\0\0
@@ -36,7 +36,7 @@ trovi un nuovo, frizzante intercalare?
 (&촀\0Non è che il mio intercalare suona
 troppo, 
 \0non son\0\0 infantile?"
-"004_a","Beh, allora cambialo."
+"004_a","(\0촀\0Beh, allora cambialo."
 "004_b","Ma no, va benone!"
 "005","(촀\0Oh, 
 \0davvero? 
@@ -79,13 +79,13 @@ sottoscritton\0\0
 \0 (7촀\0Ecco,
 \0 che te ne pare?"
 "101_a","Bello!"
-"101_b","Proviamone un altro."
+"101_b","(\0촀\0Proviamone un altro."
 "102","( 촀\0Allora ""⁠n\0""? 
 \0Mi pare noto.
 \0 (촀\0Ma è il mio intercalare classico!
 \0 (&촀\0Volevo rilanciare la mia immagine..."
-"102_a","Squadra che vince..."
-"102_b","Ehm, in effetti..."
+"102_a","(\0촀\0Squadra che vince..."
+"102_b","(\0촀\0Ehm, in effetti..."
 "103","(7촀\0Caspitina,
 \0 l'ho forse pronunciato
 male?

@@ -187,8 +187,8 @@ la petición de 2ununa fan como tú.
 (촀\0¡Ahora mismo llamo a la \02\0Ȃ촄oficina de gestión vecinal\0￿ para preguntar!"
 "202","(
 촀\0A tu isla, ¿eh?
-\0 (촀\0¡Pues podría ser
-superdivertido, n\0!\0\0(%촀\0De acuerdo,
+\0< ¡Pues podría ser
+(촀\0superdivertido, n\0!\0\0(%촀\0De acuerdo,
 \0 ¡iré!
 \0(촀\0 Llamaré a la
 \02\0Ȃ촄oficina de gestión vecinal\0￿ para
@@ -212,27 +212,6 @@ puedo mudarme allí cuando quiera!
 \0
 Prepárate, n	\0,
 \0 que llego (촀\0YO."
-"206","(촀\0¡Qué fuerte lo que me dijeron los de
-la \02\0Ȃ촄oficina de gestión vecinal\0￿ de tu isla!\0\0(촀\0No puedo mudarme allí porque ya
-hay otra vecina igualita a mí.
-\0
-(촀\0¡¿Cómo es posible?!
-(5촀\0¡Si yo soy única e inimitable!
-\0
-(촀\0¿Será una fan que se hace pasar
-por mí?
-(촀\0Tendrás que averiguarlo tú,
-\0
-n\0.
-\0 ¡Confío en ti!"
-"207","(촀\0Ah, ya llamé a la \02\0Ȃ촄oficina de gestión vecinal \0￿de tu isla y eso.\0\0()촀\0Parece que alguien más ya pidió
-la plaza que yo quería,
-\0 (촀\0así que nada,
-\0
-se acabó el sueño.
-(촀\0Quizá pueda volver a intentarlo más
-adelante, ¿no?
-\0 ¡Ten esperanza!"
 "208","(""촀\0¡Ah, n\0!
 \0 Ya hablé con la \02\0Ȃ촄oficina de gestión vecinal\0￿ de tu isla.\0\0( 촀\0¡Parece que está a reventar! 
 \0('촀\0
@@ -255,34 +234,18 @@ máximo!\0\0(촀\0Y yo tengo un nivel de vida que
 mantener.
 \0 No puedo dormir en
 cualquier lado. Tendré que esperar."
-"211","(촀\0Es imposible que haya alguien que
-se parezca a mí en tu isla.
-\0
-(5촀\0¡De n
-\0 solo hay una!
-(촀\0Como sea,
-\0 el caso es que no podré
-mudarme a tu isla, lo siento.
-(촀\0¡Pero gracias por invitarme!"
-"212","(촀\0Es una lástima que no haya sitio
-para mí en tu isla,
-\0 ¿verdad?
-\0
-(%촀\0La habríamos pasado tan bienn\0\0
-(촀\0Gracias por invitarme de todas
-formas."
 "213","(
 촀\0No sabía que tu isla tuviera ya
 tantos habitantes,
-\0 (촀\0¡debe de ser
-un lugar requetegenial!
+\0 ¡debe ser
+un lugar (촀\0requetegenial!
 (%촀\0Es triste que no pueda vivir allí
 contigo,
 \0 (촀\0pero seguro que iré a
 visitarte algún día."
 "214","(촀\0¿Cómo es posible que no me haya
-enterado de que n	\0 está super de moda?\0\0(촀\0Qué fataln\0\0 (촀\0¡Lo bueno es que tú
-estás allí y podré ir a visitarte!"
+enterado de que n	\0 está super de moda?\0\0(촀\0Qué fataln\0\0 ¡Lo bueno es que tú
+estás allí y (촀\0podré ir a visitarte!"
 "300","(8촀\0¿A lo mejor es cuestión de insistir?
 \0
 ¿Llamo a la \0oficina de gestión vecinal

@@ -1,20 +1,23 @@
 ﻿"label","text"
-"001","(촀\02,촀Dieser
+"001","(촀\02,촀Dieser
 DieseDieses }\0\0 sieht doch knuffig aus. 
-\0Und 2촀ersiees ist sicher gut für den Frühling geeignet!"
-"002","(촀\02,촀Dieser
-DieseDieses }\0\0 stinkt sicher nicht einmal, wenn man 2촀ihnsiees den ganzen Sommer lang trägt."
-"003","2,촀Dieser
+\0Und 2촀ersiees ist sicher gut für den Frühling geeignet!"
+"002","(촀\02,촀Dieser
+DieseDieses }\0\0 stinkt sicher nicht einmal, wenn man 2촀ihnsiees den ganzen Sommer lang trägt."
+"003","2,촀Dieser
 DieseDieses }\0\0 ist ganz toll für den Herbst! 
 \0((촀\0Richtig knuffig und so schön }촀!"
-"004","(촀\02,촀Dieser
+"004","(촀\02,촀Dieser
 DieseDieses }\0\0 hält einen sicher den ganzen Winter lang warm, 
 \0n\0!"
-"005","Glaubst du, dass man Flecken auf
-2.촀diesemdieserdiesem 2촁}\0\0 gut sieht?"
+"005","Glaubst du, 
+\0(
+촀\0dass man Flecken auf
+2.촀diesemdieserdiesem 2촂}\0\0 gut sieht, 
+\0n\0?"
 "006","2\02\0}\0\0n\0\0
 \0
-Ob 2촀derdiedas mir wohl zu eng wäre? 
+Ob 2촀derdiedas mir wohl zu eng wäre? 
 \0( 촀\0Na ja,
 \0
 spielt ja keine Rolle, 
@@ -24,15 +27,15 @@ spielt ja keine Rolle, 
 \0Anziehen kann ich so was nicht, 
 \0aber
 vielleicht eine Fahne draus basteln..."
-"008","(촀\02,촀Diesen
+"008","(촀\02,촀Diesen
 DieseDieses2촁 }\0\0 würde ich ganz gern an Karneval anziehen, 
 \0n\0!"
-"009","(촀\02,촀Dieser
+"009","(촀\02,촀Dieser
 DieseDieses }\0\0 ist ja wirklich schön, 
 \0n\0!"
 "010","(촀\0Würde ich erwachsener aussehen,
 wenn ich so was tragen würde wie
-2,촀diesen
+2,촀diesen
 diesedieses 2촁}\0\0?"
 "011","2\02\0}\0\0!
 \0
@@ -44,27 +47,28 @@ Hintern keine kalte Zugluft ab!"
 (촀\0Es steht mir ziemlich gut, etwas auf
 dem Kopf zu tragen, 
 \0n\0."
-"013","2,촀Dieser
+"013","2,촀Dieser
 DieseDieses }\0\0 ist verwirrend. 
 \0Aber ich weiß nicht, 
 \0warum... 
 \0(촀\0Das ist das Verwirrende."
 "014","(&촀\0Was wäre, wenn ich so was wie
-2,촀diesen
-diesedieses }\0\0 trage und niemand mich sehen kann?\0\0Ich könnte immer wieder „Kuckuck“
-sagen, wäre aber unauffindbar.
+2,촀diesen
+diesedieses 2촁}\0\0 trage und niemand mich sehen kann?\0\0Ich könnte immer wieder „Kuckuck“
+sagen, 
+\0wäre aber unauffindbar.
 \0
 (촀\0Verstecken spielen wäre sooo toll!"
 "015","(9촀\0Vielleicht würde ich mit solch
-2(촀
+2(촀
 einem
 einer
 einem 2촂}\0\0 erwachsener wirken, 
 \0n\0..."
-"016","(촀\0Ich bin fast schon cool genug, um
-2,촀diesen
-diesedieses 
-\0}\0\0 zu tragen. 
+"016","(촀\0Ich bin fast schon cool genug, 
+\0um
+2,촀diesen
+diesedieses 2촁}\0\0 zu tragen. 
 \0(촀\0Stimmt's, 
 \0n\0?"
 "017","(촀\0Socken sind so klein. 
@@ -73,11 +77,11 @@ diesedieses 
 ich würde sie sofort verlieren,
 wenn ich welche hätte."
 "018","Wenn ich Schuhe hätte, wäre es
-2,촀dieser
+2,촀dieser
 diesedieses }\0\0.
 \0
 (촀\0Damit kann man sicher gut schlurfen!"
-"020","2,촀Dieser
+"020","2,촀Dieser
 DieseDieses 2촁}\0\0 würde sich doch prima als Teil deines Superheldenkostüms machen, 
 \0oder?"
 "051","(촀\0Das Design hast du entworfen?촆
@@ -86,8 +90,7 @@ DieseDieses 2촁}\0\0 würde sich doch prima als Teil deines Superheldenko
 "052","(
 촀\0Dieses Design stammt anscheinend
 von s\0촀. 
-\0촆(""촀\0So viel
-Talent will ich auch haben!"
+\0촆(""촀\0So viel Talent will ich auch haben!"
 "053","(%촀\0Anscheinend hat s\0촀 von s촀 dieses Design entworfen. 촆
 \0(촀\0Toll, oder, 
 \0n\0?"

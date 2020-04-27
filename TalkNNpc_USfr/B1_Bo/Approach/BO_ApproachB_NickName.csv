@@ -5,7 +5,7 @@ surnom! 
 \0Tu veux que je te dise ce
 que c'est?"
 "001_a","(\0촀\0C'est quoi?"
-"001_b","J'aime bien mon nom."
+"001_b","(\0촀\0J'aime bien mon nom."
 "002","(""촀\0Hé, j'ai trouvé un nouveau surnom
 pour toi, n\0!\0\0(4촀\0Enfin,
 \0 je sais pas trop s'il va
@@ -19,9 +19,9 @@ ce que c'est?"
 \0
 (4촀\0Ça te dérangerait si moi aussi
 je t'appelais s\0촀?"
-"003_a","Bien sûr que non!
+"003_a","(\0촀\0Bien sûr que non!
 Fais-toi plaisir."
-"003_b","Si tu pouvais éviter...
+"003_b","(\0촀\0Si tu pouvais éviter...
 Je préfère pas."
 "004","(촀\0Ouah! 
 \02\0n\0?!
@@ -33,15 +33,13 @@ mes pensées,
 je réfléchissais au surnom que je
 pourrais te donner, n\0."
 "004_a","(\0촁\0Comme quoi?"
-"004_b","Utilise donc mon nom."
+"004_b","(\0촀\0Utilise donc mon nom."
 "005","(촀\0Ah!
 \0 Justement, je pensais à toi!
 \0
 (7촀\0Je réfléchissais au nouveau
-surnom que je pourrais te donnern\0\0\0\0(%촀\02\0n\0, ça te va très
-bien, 
-\0(&촀\0mais qu'est-ce que tu dirais
-d'avoir un surnom tout neuf?"
+surnom que je pourrais te donnern\0\0\0\0(%촀\02\0n\0, ça te va très bien, 
+\0(&촀\0mais qu'est-ce que tu dirais d'avoir un surnom tout neuf?"
 "005_a","(\0촁\0Comme quoi?"
 "005_b","Je dirais non merci."
 "006","(촀\0Ah, n\0!\0\0(\0촀\0Dis-moi, il paraît que ces
@@ -51,15 +49,12 @@ derniers temps, on te surnommen\0\0
 dérange pas si moi aussi, je t'appelle
 comme ça, n\0?"
 "006_a","Mais je t'en prie!"
-"006_b","Si tu pouvais éviter..."
+"006_b","(\0촀\0Si tu pouvais éviter..."
 "100","(
-촀\0Qu'est-ce que tu dirais
-den\0\0
-\0(촀\0 n\0?
-\0
-C'est pas mal, hein?"
+촀\0Qu'est-ce que tu dirais den\0\0
+\0(촀\0 n\0? C'est pas mal, hein?"
 "100_a","Oui, j'aime bien!"
-"100_b","Euh... Comment dire..."
+"100_b","(\0촀\0Euh... Comment dire..."
 "101","(촀\0Ahn\0\0 comme tu veuxn\0\0
 \0(촀\0 Tu as le droit
 de décider comment on t'appellen"
@@ -82,11 +77,11 @@ Mais, euhn\0\0 C'est déjà comme
 ça que je t'appelle, non?\0\0(&촀\0Est-ce que tu veux dire que tu aimes
 bien ce surnom?"
 "105_a","C'est ça."
-"105_b","Euh, attends..."
+"105_b","(\0촀\0Euh, attends..."
 "106","(촀\02\0n\0?
 \0 Ça me va!"
 "106_a","Alors c'est décidé!"
-"106_b","En fait..."
+"106_b","(\0촀\0En fait..."
 "107","( 촀\0Ah?
 \0(&촀\0 Tu as une autre idée?"
 "108","(촀\0Comme tu voudras!

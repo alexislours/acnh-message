@@ -4,6 +4,16 @@
 \0
 feels the same way that you do
 \0n"
+"003","(4촀\0That's very generous of you to say,
+\0
+especially since I wasn't exactly into
+the idea earlier.
+\0((촀\0 Thank you so much!
+(%촀\0I'm definitely into the idea now. 
+\0((촀\0I'll
+check in at \0Resident Services\0￿ and if
+they give me the OK,
+\0 I'll move here!"
 "101","<"
 "101_01","(촀\0It's nice to dream,
 \0 but I think I'll
@@ -107,32 +117,32 @@ playing this with you,
 "206_01","(촀\0So you won!
 \0 (\0촀\0Which means
 \0n\0\0
-(!촀\0we're going to be neighbors!\0\0(9촀\0It's n\0, 
-\0right?
-\0
-(촀\0Here's to getting to know each
-other more,
-\0 n\0!"
+(!촀\0we're going to be neighbors!\0\0(
+촀\0Although first,
+\0 I guess I need to talk
+things over with \0Resident Services\0￿.
+\0(
+(촀\0I'll just go over there right now."
 "206_02","(!촀\0You won!
 \0( (;촀\0Maybe I really am
-fated
-\0 to move to this island.\0\0Well,
-\0 (촀\0um
-\0n\0\0n\0,
-\0
-right?
-\0 (촀\0Yeah.\0\0(촀\0I'm really looking forward
-\0 to getting
-to know each other better soon."
+fated to move to this island.\0\0(
+촀\0I suppose my next step is to head to
+\0Resident Services
+\0 \0￿and ask about
+moving here.
+\0 (촀\0Yep! That's what I'll do!"
 "206_03","(6촀\0Maybe you were meant to beat me
 \0
-so I would have to move here,
-\0 (촀\0uh
-\0n\0\0
-Sorry,
-\0 was it n\0?\0\0(촀\0Good to know someone here already,
-\0
-since I'm gonna be a resident soon!\0\0(촀\0This is going to be so exciting!"
+so I would have to move here.\0\0(촀\0Yep, it looks like fate settled it.
+I'll move to this island after I'm
+done with my camping trip.
+(
+촀\0Oh,
+\0 but before I can do that,
+\0 I've got
+to check with \0Resident Services \0￿to
+get their approval. 
+\0(촀\0I'm on it!"
 "302","(""촀\0Sorry to keep you waiting!
 \0(
 I checked with \0Resident Services\0￿,
@@ -208,32 +218,21 @@ community here,
 "312","(9촀\0Fair enough.
 \0( I'll just let this
 idea go for now, then."
-"402","(""촀\0Sorry to keep you waiting!
-\0(
-()촀\0I checked with \0Resident Services\0￿,
-\0
-but got kind of a weird response
-\0n\0\0
-(촀\0They said someone just like me
-already lives here,
-\0 (촀\0so my request
-just made them uncomfortable.
-(8촀\0I'm not sure how to feel about that,
-\0
-but I guess I'm glad I asked."
-"403","(""촀\0Sorry to keep you waiting!
-\0(
-()촀\0I checked with \0Resident Services\0￿,
-\0
-but got kind of a weird response
-\0n\0\0
-(촀\0Someone that looks just like me is
-moving here soon,
-\0 so (촀\0they think it'd
-be confusing if I lived here too.
-(8촀\0I'm not sure how to feel about that,
-\0
-but I guess I'm glad I tried at least."
+"313","(촀\0You mean it?!
+\0((9촀\0 Well, I did overhear
+something while I was at
+\0Resident Services\0￿n\0\0
+(8촀\0Apparently, someone named
+s촀 might be thinking
+about moving.
+(&촀\0Do you think I should talk to them
+in person about their plans?"
+"313_a","Yeah, I do!"
+"313_b","No, don't do that."
+"314","(촀\0I suppose that would be too forward.
+\0<
+(촀\0I guess I'll give up on the idea of
+moving for now, n\0."
 "404","(""촀\0Sorry to keep you waiting!
 \0(
 ()촀\0I checked with \0Resident Services\0￿,
@@ -244,17 +243,6 @@ but they couldn't help me
 in
 \0 (촀\0any more residents right now.\0\0(촀\0I'm disappointed,
 \0 (촀\0but I'm glad I tried."
-"405","(""촀\0Sorry to keep you waiting!
-\0(
-()촀\0I checked with \0Resident Services\0￿,
-\0
-but the news wasn't good
-\0n\0\0
-(8촀\0There just isn't room
-\0 for any more
-new homes (촀\0on the island right now.\0\0(촀\0Even though things didn't work out
-for me this time,
-\0 (촀\0I'm still glad I tried."
 "406","(4촀\0It's um
 \0n\0\0 2\0n\0,
 \0 right?\0\0(""촀\0Sorry to keep you waiting!
@@ -289,26 +277,10 @@ worth going to ask one more time?"
 bothering your \0Resident Services
 \0￿one too many times,
 \0 n\0."
-"421","(
-촀\0I'm not sure how I'd react if I ran
-into someone just like me.
-\0( (8촀\0Would it
-be scary,
-\0 funny,
-\0 or just awkward?"
-"422","(9촀\0Imagine moving to a new place
-\0
-at the same time as your exact
-duplicate.
-\0 (;촀\0Talk about confusing!"
 "423","If they're having to turn new
 residents away,
 \0 (%촀\0n	\0
 must be really booming!"
-"424","(8촀\0I wish I'd known
-\0 to try and get
-in here before n	\0
-ran out of room to build."
 "504","(촀\0This island's community and scenery
 are both great!
 \0 (촀\0I just love it here.\0\0(1촀\0I really hope someday

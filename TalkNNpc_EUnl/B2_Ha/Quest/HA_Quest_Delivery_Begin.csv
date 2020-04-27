@@ -14,7 +14,7 @@ het nu terug te brengenn\0\0
 en is ten einde raadn\0\0
 \0 (촀\0Wat moet ik
 nou toch doen?"
-"002_a","(\0촁\0Ik breng het terug!"
+"002_a","(\0촁\0Ik breng het wel terug!"
 "002_b","(\0촁\0Breng het later terug!"
 "003","('촀\0Zo te zien heeft s촀 per ongeluk iets bij mij laten bezorgen.\0\0(촀\0Ik zou het graag zelf naar 2hemhaar toe
 brengen, maar ik moet nog een
@@ -50,11 +50,10 @@ me om de verantwoordelijkheid bij
 jou te dumpen.
 (%촀\0Sorry, n\0.
 \0 (촀\0Ik los dit zelf wel op."
-"101","(촀\0Ik moet je om een gunst vragen,
-n\0.\0\0(촀\0s촀 helpt me zo vaak en nu heb ik een cadeautje voor 2hemhaar.\0\0(2촀\0Maar ik word altijd een beetje
-verlegen van dit soort dingen.\0\0(4촀\0Dus eh, misschien zou jij het naar
+"101","(촀\0Ik moet je om een gunst vragen, n\0.\0\0(촀\0s촀 helpt me zo vaak en nu heb ik een cadeautje voor 2hemhaar.\0\0(2촀\0Maar ik word altijd een beetje
+verlegen van dit soort dingen.\0\0(4촀\0Dus, eh, misschien zou jij het naar
 s촀 kunnen brengen?"
-"101_a","Geen probleem."
+"101_a","(\0촁\0Geen probleem."
 "101_b","(\0촁\0Doe het maar zelf."
 "102","(촀\0Man o man, laatst had ik een flinke
 ruzie met s촀.\0\0(촀\0We hadden een discussie over iets en

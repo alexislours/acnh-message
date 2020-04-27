@@ -9,35 +9,33 @@ das muss Schicksal sein...
 jetzt sicher Sternis dafür anbieten,
 aber ich hab eine bessere Idee.
 (6촀\0Ich geb dir im Gegenzug einfach
-2(đ촀meinen
+2(Ē촀meinen
 meinemein 2촁}\0 dafür!"
 "001_a","Klingt gut!"
 "001_b","Keine Chance."
-"002","(촀\0He, das ist 2촀*ein ziemlich hübscher*eine ziemlich hübsche*ein ziemlich hübsches
-}\0\0, 2촀dendiedas
-du da hast...
-(3촀\0Vorschlag: 
+"002","(촀\0He, 
+\0das ist 2촀*ein ziemlich hübscher*eine ziemlich hübsche*ein ziemlich hübsches
+}\0\0, 2촀dendiedas du da hast...\0\0(3촀\0Vorschlag: 
 \0Wir tauschen.
 \0 Aber ich
 sage dir nicht, was du kriegst.
 \0 Na,
 bist du mutig genug?
-Und vor allem...
+Und vor allemn\0\0
 \0(5촀\0 Vertraust du mir?
 \0
 (촀\0Gra ha ha! 
-\0Komm, was sagst du?"
+\0Komm,
+\0 was sagst du?"
 "002_a","(\0촀\0Warum nicht?"
 "002_b","Nein, danke."
-"003","(촀\0Ah, n\0!
-\0
-Hörst du mir kurz zu?\0\0(7촀\0Ich hab's schon länger auf 2""촀
-eineneineein
-2,촀echten
-echteechtes 2촁}\0\0
-abgesehen...
-(촀\0Und ich hab das dumpfe Gefühl, du
-hast so 2&촀
+"003","(촀\0Ah, 
+\0n\0!
+\0
+Hörst du mir kurz zu?\0\0(7촀\0Ich hab's schon länger auf 2""촀
+eineneineein 2,촀echten
+echteechtes 2촁}\0\0 abgesehen...\0\0(촀\0Und ich hab das dumpfe Gefühl, du
+hast so 2&촀
 eineneine
 eines.
 \0 Jetzt gerade. 
@@ -49,9 +47,9 @@ deiner Tasche!
 \0 ich hab recht?!
 \0 (촀\0
 	\0Dann
-bitte, gib 2촀ihnsiees mir! 
+bitte, gib 2촀ihnsiees mir! 
 \0Du kriegst auch
-m2""đ촀
+m2""Ē촀
 eineneineein 2촁}\0!"
 "003_a","Klar!"
 "003_b","Tut mir leid..."
@@ -59,7 +57,7 @@ eineneineein 2촁}\0!"
 \0hör maln\0\0 
 \0Ich bin am Ende.
 \0
-Wirklich absolut verzweifelt.\0\0(7촀\0Ich brauche ganz dringend 2""촀
+Wirklich absolut verzweifelt.\0\0(7촀\0Ich brauche ganz dringend 2""촀
 eineneineein
 2촁}\0\0.
 \0
@@ -72,7 +70,7 @@ Für mich, 
 \0aber vor allem auch für
 dich, 
 \0n\0!
-(9촀\0Du bekommst nämlich 2,đ촀diesen
+(9촀\0Du bekommst nämlich 2,Ē촀diesen
 diesedieses
 2촁}\0 dafür!
 \0
@@ -103,11 +101,9 @@ fündig,
 (
 촀\0Und nur noch mal, damit es
 keine Missverständnisse gibt...
-}\0\0
-gegen }\0.
-\0
-Ja? 
-\0(%촀\0Dann lass uns tauschen!"
+}\0\0 gegen }\0.
+\0 Ja? 
+\0(%촀\0Dann lass uns tauschen!"
 "201","(%촀\0Verstehe.
 \0 Tja, zwingen kann ich
 dich nicht.

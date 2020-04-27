@@ -1,32 +1,7 @@
 ﻿"label","text"
-"003","(2촀\0¿Está mal obsesionarse con 2\0
-}촀?
-\0
-('촀\0¡Para mí, no!
-(1촀\0¿Quién se puede resistir a ese color,
-\0
-ese brillo natural,
-\0 ese estilo innato?
+"003","(2촀\0¿Está mal obsesionarse con
+2\0}촀?
 \0
-¡Debo conseguir un2촀oa\0,
-\0 n\0!"
-"003_a","(\0촁\0¿Te echo una mano?
-(\0촁\0Yo podría ayudarte"
-"003_b","(\0촁\0Espero que lo logres
-(\0촁\0¡Ánimo!"
-"004","(4촀\0Tengo algo metido en la cabeza que
-no me está dejando dormirn\0\0\0\0(촀\0¡Necesito conseguir 2\0
-}촀!
-\0
-¡Si no,
-\0 no podré descansar!"
-"004_a","(\0촁\0¿Te ayudo?
-(\0촁\0Yo te puedo ayudar"
-"004_b","(\0촁\0Ojalá lo consigas
-(\0촁\0Que tengas suerte"
-"008","(2촀\0¿Está mal obsesionarse con 2\0
-}촀?
-\0
 ('촀\0¡Para mí, no!
 (1촀\0¿Quién se puede resistir a ese color,
 \0
@@ -34,6 +9,29 @@ ese brillo natural,
 \0 ese estilo innato?
 \0
 ¡Debo conseguir un2촀oa\0,
+\0 n\0!"
+"003_a","(\0촁\0¿Te echo una mano?
+(\0촁\0Yo podría ayudarte"
+"003_b","(\0촁\0Espero que lo logres
+(\0촁\0¡Ánimo!"
+"004","(4촀\0Tengo algo metido en la cabeza que
+no me está dejando dormirn\0\0\0\0(촀\0¡Necesito conseguir 2\0}촀!
+\0 ¡Si no,
+\0 no podré descansar!"
+"004_a","(\0촁\0¿Te ayudo?
+(\0촁\0Yo te puedo ayudar"
+"004_b","(\0촁\0Ojalá lo consigas
+(\0촁\0Que tengas suerte"
+"008","(2촀\0¿Está mal obsesionarse con
+2\0}촀?
+\0
+('촀\0¡Para mí, no!
+(1촀\0¿Quién se puede resistir a ese color,
+\0
+ese brillo natural,
+\0 ese estilo innato?
+\0
+¡Debo conseguir un2촀oa\0,
 \0 n\0!"
 "008_a","(\0촁\0¿Te ayudo?
 (\0촁\0Yo te puedo ayudar"
@@ -284,9 +282,9 @@ hago una propuesta.
 }촀?\0\0(
 촀\0Según dicen,
 \0 no son tan temibles
-como l2촀oa\0s pintann\0\0
+como l2촀oa\0s pintann\0\0
 \0 (촀\0¿Y si intentaras
-conseguir un2촀oa\0?"
+conseguir un2촀oa\0?"
 "102_a","(\0촁\0¡Claro que sí!
 (\0촁\0Me gusta la idea"
 "102_b","(\0촁\0No me interesa
@@ -325,10 +323,10 @@ propuesta.
 "202","(&촀\0¿Alguna vez pudiste pescar
 2\0}촀?\0\0(
 촀\0Dicen que
-\0 no son tan escurridiz2촀oa\0s
-como l2촀oa\0s describenn\0\0
+\0 no son tan escurridiz2촀oa\0s
+como l2촀oa\0s describenn\0\0
 \0
-(촀\0¿Podrías conseguir un2촀oa\0?"
+(촀\0¿Podrías conseguir un2촀oa\0?"
 "202_a","(\0촁\0¡Por supuesto!
 (\0촁\0¡Acepto el reto!"
 "202_b","(\0촁\0Lo siento, no puedo

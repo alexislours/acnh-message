@@ -1,14 +1,14 @@
 ﻿"label","text"
 "001","(&촀\0On\0\0 Je gaat ervandoor?"
 "001_a","Ja."
-"001_b","O, oeps! Nee."
+"001_b","Nee, hoor."
 "002","(촀\0Moet je nog boodschappen doen?"
 "002_a","Ja, ik moet weer weg."
 "002_b","Nee, ik blijf nog even."
 "003","( 촀\0O! 
 \0Waar ga je heen?"
 "003_a","De buitenwereld roept."
-"003_b","Ik blijf hier."
+"003_b","(\0촀\0Ik blijf hier."
 "004","(%촀\0Ik moet zelf ook maar eens gaan.
 \0(
 (촀\0Dit was wel heel tof! Dit moeten we

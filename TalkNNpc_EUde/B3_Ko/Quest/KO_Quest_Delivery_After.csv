@@ -158,7 +158,7 @@ hattest du so wenigstens was zu tun."
 \0dass du den Kram für
 mich zu s촀 geschleppt hast."
 "202","Auf jeden Fall danke,
-\0 dass du die
+\0 (%촀\0dass du die
 Sache mit s촀 für mich in Ordnung gebracht hast."
 "203","(&촀\0Und,
 \0 hatte s촀 denn
@@ -208,7 +208,8 @@ zufrieden sind,
 "303_a","(\0촀\0Ja, und zwar..."
 "303_b","(\0촀\0Hm, glatt vergessen..."
 "304","(촀\0Aber darum ging es mir doch
-überhaupt bei der ganzen Sache!\0\0('촀\0Na ja... Trotzdem danke fürs
+überhaupt bei der ganzen Sache!\0\0('촀\0Na ja... 
+\0Trotzdem danke fürs
 Ausliefern."
 "305","(촀\0Aufgemacht hast du's?
 \0
@@ -285,7 +286,8 @@ für mich."
 \0 Hätte ja nicht gedacht,
 \0 dass sich
 unsere Geschmäcker so ähneln."
-"401","Danke übrigens, dass du mein
+"401","Danke übrigens, 
+\0(%촀\0dass du mein
 Entschuldigungspräsent zu
 s촀 gebracht hast!"
 "402","(&촀\0Hat s촀
@@ -388,8 +390,8 @@ ein und bring es selbst rüber."
 "513","(촀\0Hä?!
 \0 Aufgemacht?
 \0
-(:촀\0Das war aber nicht für dich
-\0,
+(:촀\0Das war aber nicht für dich,
+\0
 und das weißt du auch sehr gut!\0\0(촀\0Also wirklichn\0\0
 \0
 (촀\0Dann pack ich das Paket wieder ein

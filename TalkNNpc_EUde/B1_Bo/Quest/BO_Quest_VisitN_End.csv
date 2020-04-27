@@ -9,10 +9,9 @@ vorbeigekommen bist,
 (2촀\0Na gut. 
 \0Danke, dass du da warst!"
 "003","($촀\0Gehst du nach Hause,
-\0
-n\0? 
-\0(4촀\0Danke,
-dass du heute bei mir warst!"
+\0 n\0? 
+\0(4촀\0Danke, 
+\0dass du heute bei mir warst!"
 "004","(촀\0Och nö! 
 \0Du gehst schon wieder?!
 \0
@@ -20,10 +19,8 @@ dass du heute bei mir warst!"
 \0du bleibst vielleicht
 noch etwas..."
 "005","(촀\02\0n\0! 
-\0(촀\0Du willst echt
-schon wieder gehn? 
-\0Lass uns doch
-noch weiter zusammen spielen!"
+\0(촀\0Du willst echt schon wieder gehn? 
+\0Lass uns doch noch weiter zusammen spielen!"
 "006","(촀\0Hö, du willst schon wieder los?!
 \0 (8촀\0Wir
 könnten doch noch so viel spielen,
@@ -34,10 +31,10 @@ könnten doch noch so viel spielen,
 "100","(촀\0Du, 
 \0n\0!
 
-\0(\0촀\0Ich hab da was für dich!\0\0(촀\02""촀
+\0(\0촀\0Ich hab da was für dich!\0\0(촀\02""촀
 EinenEineEin 2촁}\0!\0\0
-\0Ist 2촀derdiedas nicht total toll? 
-\0Deshalb hab ich 2촀ihnsiees auch extra für dich gekauft!"
+\0Ist 2촀derdiedas nicht total toll? 
+\0Deshalb hab ich 2촀ihnsiees auch extra für dich gekauft!"
 "101","(촀\0Hui, 
 \0das hätte ich fast vergessen!
 \0
@@ -45,14 +42,14 @@ Hier, das ist für dich, 
 \0n\0.
 
 \0($촀\02\02\0}\0!\0\0Toll, oder? 
-\0Ich hoffe, du magst 2촀ihnsiees!"
+\0Ich hoffe, du magst 2촀ihnsiees!"
 "102","(촀\0Ich find es total knuffig, dass du
 gekommen bist,
 \0 also hab ich extra
-ein Geschenk für dich besorgt!\0\0(\0촀\02""촀
+ein Geschenk für dich besorgt!\0\0(\0촀\02""촀
 EinenEineEin 2촁}\0!
 \0
-(""촀\02촀DerDieDas gefällt dir bestimmt ganz toll!"
+(""촀\02촀DerDieDas gefällt dir bestimmt ganz toll!"
 "103","(촀\0Danke, dass du gekommen bist!
 \0
 Das hat so viel Spaß gemacht...
@@ -66,8 +63,7 @@ ja, 
 "105","(촀\0Wie schön, dass du mich besucht
 hast, 
 \0n\0! 
-\0Das war
-echt wunderbärchen. 
+\0Das war echt wunderbärchen. 
 \02\0n\0!"
 "106","...(촀\0Huch! 
 \0Deine Tasche ist ja voll,
@@ -78,10 +74,9 @@ dir nach Hause, ja?\0\0(촀\0Danke, dass du da warst!
 Zusammen spielen hat total
 Spaß gemacht!"
 "200","()촀\0Du n\0, 
-\0ich wollte dir
-noch was geben.
-\0 Ein Lied, das
-„}\0\0“ heißt!\0\0(촀\0An dem kann ich mich gar nicht
+\0ich wollte dir noch was geben.
+\0 Ein Lied, 
+\0das „⁠}\0\0⁠“ heißt!\0\0(촀\0An dem kann ich mich gar nicht
 satthören! 
 \0(\0촀\0Mal gucken, ob's dir
 auch so geht, 

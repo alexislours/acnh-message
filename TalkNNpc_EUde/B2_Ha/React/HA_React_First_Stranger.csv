@@ -30,16 +30,11 @@ abräumen, 
 welche zu gewinnen gibtn"
 "002_02","(&촀\0Hey, 
 \0wohnst du auch hier?\0\0(촀\0Ich bin gerade hergezogen, 
-\0von
-s촀. 
-\0(촀\0Mein Name
-ist n
+\0von s촀. 
+\0(촀\0Mein Name ist n
 \0.\0\0(7촀\0Kennst du s\0촀?
 \0
-2
-촀DerDie\0 hat mir n\0
-wärmstens empfohlen.
-(촀\0Mir gefällt es auch echt gut hier.
+2촀DerDie\0 hat mir n\0 wärmstens empfohlen.\0\0(촀\0Mir gefällt es auch echt gut hier.
 \0
 Lass uns doch bald was gemeinsam
 unternehmen, 
@@ -47,21 +42,16 @@ unternehmen, 
 "002_03","(촀\0Hallo! 
 \0Wohnst du auch hier?\0\0(촀\0Mein Name ist n
 \0 und ich bin von s촀 hierhergezogen.\0\0(7촀\02\0s\0촀, 
-\02
-촀derdie\0 auch hier
-wohnt, 
-\0hat diese Insel als Paradies
-gepriesen. 
+\02촀derdie\0 auch hier wohnt, 
+\0hat diese Insel als Paradies gepriesen. 
 \0Und hier bin ich!\0\0(5촀\0Dank mir ist n\0 jetzt um ein paar erstklassige Muckis reicher,
 \0 n\0!"
 "004","(촀\0Hey, 
 \0schön, dich kennenzulernen.
 \0
 (%촀\0Ich bin n
-\0.\0\0(7촀\02\0s\0촀 hat mir diese
-Insel empfohlen, 
-\0also bin ich
-hergezogen. 
+\0.\0\0(7촀\02\0s\0촀 hat mir diese Insel empfohlen, 
+\0also bin ich hergezogen. 
 \0
 
 \0(,촀\0\0HAAATSCHIII!\0￿
@@ -104,30 +94,27 @@ gut vorstellen, 
 \0n\0!"
 "014","(&촀\0Ähm, 
 \0wer bist du denn?
-\0
-(촀\0Wir sind uns noch nie
-begegnet, 
-\0stimmt's?
-(촀\0Ich bin n
-\0 und bin
-auf dieser Insel DER Ansprechpartner
-fürn\0\0
+\0 (촀\0Wir sind
+uns noch nie begegnet, 
+\0stimmt's?\0\0(촀\0Ich bin n
+\0 und bin auf dieser Insel DER Ansprechpartner fürn\0\0
 \0 (,촀\0
 
 \0\0HAAATSCHIII!\0￿
-	\0\0\0(촀\0Entschuldige
-\0, blöde Erkältung...
+	\0\0\0(촀\0Entschuldige,
+\0 blöde Erkältung...
 \0
 Für Fitnessfragen, 
-\0wollte ich sagen.\0\0(촀\0Mich hat jemand rekrutiert,
-
-\0der selbst plötzlich nicht
-mehr hier wohnt.
+\0wollte ich sagen.\0\0(촀\0Mich hat jemand rekrutiert, 
+\0der
+selbst plötzlich nicht mehr hier
+wohnt.
 \0
 (촀\0Wenn ich wieder gesund bin, 
 \0können
 wir ja mal plaudern. (6촀\0Über Fitness und
-allgemeine, ähn\0\0 Gesundheitsfragen."
+allgemeine, 
+\0ähn\0\0 Gesundheitsfragen."
 "101","( 촀\0Wohnst du auf dieser Insel?
 \0
 (촀\0Ich bin n
@@ -160,8 +147,7 @@ Insel hergezogen. 
 \0(촀\0Mein Name
 ist n
 \0.\0\0(7촀\0Kennst du s\0촀?
-2
-촀DerDie\0 hat mir n\0
+2촀DerDie\0 hat mir n\0
 wärmstens empfohlen.
 (촀\0Mir gefällt es auch echt gut hier.
 \0
@@ -172,8 +158,7 @@ unternehmen, 
 \0Wohnst du auch hier?\0\0(촀\0Mein Name ist n
 \0,
 \0 und ich bin von einer anderen Insel hierhergezogen.\0\0(7촀\02\0s\0촀, 
-\02
-촀derdie\0 auch hier wohnt, 
+\02촀derdie\0 auch hier wohnt, 
 \0hat diese Insel als Oase des Sports gepriesen. 
 \0Und hier bin ich!\0\0(5촀\0Dank mir ist n\0 jetzt um ein paar erstklassige Muckis reicher,
 \0 n\0!"
@@ -229,14 +214,12 @@ gut vorstellen, 
 \0stimmt's, 
 \0n\0?
 (촀\0Ich bin n
-\0 und bin
-auf dieser Insel DER Ansprechpartner
-fürn\0\0
+\0 und bin auf dieser Insel DER Ansprechpartner fürn\0\0
 \0 (,촀\0
 
 \0\0HAAATSCHIII!\0￿
-	\0\0\0(촀\0Entschuldige
-\0, blöde Erkältung...
+	\0\0\0(촀\0Entschuldige,
+\0 blöde Erkältung...
 \0
 Für Fitnessfragen, 
 \0wollte ich sagen.\0\0(촀\0Mich hat auf einer anderen Insel
@@ -248,31 +231,26 @@ jemand rekrutiert, 
 \0können
 wir ja mal plaudern. (6촀\0Über Fitness und
 allgemeine, ähn\0\0 Gesundheitsfragen."
-"201","( 촀\0Du wohnst auf dieser Insel?(촀\0 Hehe,
-\0
-schön, dich kennenzulernen.
+"201","( 촀\0Du wohnst auf dieser Insel?(촀\0
+Hehe,
+\0 schön, dich kennenzulernen.
 \0
 Ich bin n
 \0!
-(2촀\02\0s\0촀 hat mich auf dem
-\0Campingplatz \0￿davon überzeugt, nach
-s촀 zu ziehen.
-(촀\0Wie du siehst, hab ich noch eine
+(2촀\02\0s\0촀 hat mich auf dem \0Campingplatz \0￿davon überzeugt, 
+\0nach n\0 zu ziehen.\0\0(촀\0Wie du siehst, hab ich noch eine
 Menge auszupacken, 
-\0(""촀\0also lass uns
-lieber morgen zusammen quatschen."
+\0(""촀\0also lass uns
+lieber morgen quatschen."
 "202","<"
 "202_01","(""촀\0Hey! 
 \0Wohnst du auch auf dieser
 hübschen Insel? 
 \0(촀\0Ich bin
 übrigens n
-\0!\0\0(%촀\02\0s\0촀 hat mich auf dem
-\0Campingplatz \0￿davon überzeugt, hier
-nach n\0 zu ziehen.\0\0(5촀\0Da ich einsame Spitze im
-촀 bin, 
-\0hat mich
-eine neue Umgebung gereizt!\0\0(촀\0Ich will in der Disziplin alle Titel der
+\0!\0\0(%촀\02\0s\0촀 hat mich auf dem \0Campingplatz \0￿davon überzeugt, 
+\0hier nach n\0 zu ziehen.\0\0(5촀\0Da ich einsame Spitze im 촀 bin, 
+\0hat mich eine neue Umgebung gereizt!\0\0(촀\0Ich will in der Disziplin alle Titel der
 Insel abräumen, 
 \0n\0!
 \0(
@@ -283,9 +261,7 @@ Insel abräumen, 
 (촀\0Schön, dich kennenzulernen!
 \0
 Mein Name ist n
-\0.\0\0(촀\0Ich bin hergezogen, nachdem mir
-s촀 die Insel auf dem
-\0Campingplatz \0￿so empfohlen hat.\0\0(6촀\0Mir gefällt es auch echt gut hier.
+\0.\0\0(촀\0Ich bin hergezogen, nachdem mir s\0촀 die Insel auf dem \0Campingplatz \0￿so empfohlen hat.\0\0(6촀\0Mir gefällt es auch echt gut hier.
 \0
 Lass uns doch bald was gemeinsam
 unternehmen, 
@@ -299,11 +275,8 @@ Mein Name ist n
 \0.
 (7촀\0Auf dem \0Campingplatz \0￿hier hab ich
 s\0촀 getroffen. 
-\02
-촀DenDie\0
-mit dem riesigen Bizeps meine ich...\0\0(7촀\0Na, 
-\0jedenfalls hat 2
-촀ersie\0 diese Insel als
+\02촀DenDie\0 mit dem riesigen Bizeps meine ich...\0\0(7촀\0Na, 
+\0jedenfalls hat 2촀ersie\0 diese Insel als
 Paradies gepriesen, 
 \0sodass ich Hals
 über Kopf herzogen bin!\0\0(5촀\0Dank mir hat n\0 jetzt
@@ -360,19 +333,15 @@ gut vorstellen, 
 \0n\0!"
 "214","(&촀\0Ähm, 
 \0wer bist du denn?
-\0
-(촀\0Wir sind uns noch nie
-begegnet, 
-\0stimmt's?
-(촀\0Ich bin n
-\0 und bin
-auf dieser Insel DER Ansprechpartner
-fürn\0\0
+\0 (촀\0Wir sind
+uns noch nie begegnet, 
+\0stimmt's?\0\0(촀\0Ich bin n
+\0 und bin auf dieser Insel DER Ansprechpartner fürn\0\0
 \0 (,촀\0
 
 \0\0HAAATSCHIII!\0￿
-	\0\0\0(촀\0Entschuldige
-\0, blöde Erkältung...
+	\0\0\0(촀\0Entschuldige,
+\0 blöde Erkältung...
 \0
 Für Fitnessfragen, 
 \0wollte ich sagen.\0\0(촀\0Mich hat auf dem \0Campingplatz\0￿
@@ -401,12 +370,10 @@ oder? 
 \0($촀\02\0n
 \0 heiße ich!\0\0()촀\0Ich wohne auf n\0,
 weil ich auf dem \0Campingplatz \0￿so von
-s\0촀 beeindruckt war.\0\0(%촀\0Genauer gesagt von 2 
-촀seinem
+s\0촀 beeindruckt war.\0\0(%촀\0Genauer gesagt von 2 촀seinem
 ihrem\0 Bizeps...
 
-\0Mit welchen Worten 2
-촀ersie\0 mich auf die
+\0Mit welchen Worten 2촀ersie\0 mich auf die
 Insel gelockt hat, 
 \0weiß ich nicht mal.\0\0(촀\0Die wäre nicht nötig gewesen! 
 \0
@@ -418,12 +385,10 @@ Bist du auch ein Fitness-Freak?
 \0!
 Du wohnst noch nicht allzu lange
 auf n\0, oder?\0\0(촀\0Ich selbst bin auf dem \0Campingplatz\0￿
-von s\0촀 dazu
-angestachelt worden herzuziehen.\0\0(촀\0Wir sind jetzt quasi ein Team, 
+von s\0촀 dazu angestachelt worden herzuziehen.\0\0(촀\0Wir sind jetzt quasi ein Team, 
 \0das
 n\0-Team! 
-\0Wenn was
-ist, 
+\0Wenn was ist, 
 \0meld dich bei mir, 
 \0n\0!"
 "302_03","(&촀\0Äh... 
@@ -433,9 +398,8 @@ ist, 
 \0ich bin jedenfalls
 n
 \0, 
-\0n\0!\0\0(7촀\0Mich hat s\0촀 auf dem
-\0Campingplatz \0￿davon überzeugt, nach
-n\0 zu ziehen.\0\0(%촀\0War nicht schwer, 
+\0n\0!\0\0(7촀\0Mich hat s\0촀 auf dem \0Campingplatz \0￿davon überzeugt, 
+\0nach n\0 zu ziehen.\0\0(%촀\0War nicht schwer, 
 \0weil allein der
 Campingplatz schon so schön war.
 \0
@@ -451,13 +415,11 @@ Freut m-- 
 \02\0s\0촀 kennst du
 auch, 
 \0oder? 
-\02
-촀ErSie\0 hat mich auf dem
+\02촀ErSie\0 hat mich auf dem
 \0Campingplatz\0￿ zum Umzug animiert.\0\0()촀\0Klang gut, 
 \0deshalb bin ich jetzt hier.
 \0
-(촀\0Nur hatte 2
-촀ersie\0 unterschlagen, wie
+(촀\0Nur hatte 2촀ersie\0 unterschlagen, wie
 hartnäckig Erkältungen hier sind...\0\0(9촀\0Verschieben wir unsere Plauderrunde
 lieber, bis ich wieder auf dem
 Damm bin, 
@@ -519,14 +481,71 @@ spurlos verschwinden würde...\0\0(촀\0Solange es mir so wie jetzt geht,
 \0
 müssen wir das Plaudern jedenfalls
 auf später verschieben."
+"316","<ĽľĿ"
+"317","( 촀\0Oho! 
+\0Machst du auch bei (\0촀\0Nooks
+Reif-für-die-Insel-Paket mit?
+\0( (촀\0Neue
+Trainingspartner seh ich immer gern!\0\0((촀\0Ich heiße n
+\0!
+\0(
+(9촀\0Und dun\0\0
+\0 (%촀\0n\0. 
+\0Verstehe, 
+\0n\0!\0\0(촀\0Zusammen werden wir den Aufbau
+dieser Insel schon stemmen.
+\0 (""촀\0Und zur
+Not noch ein paar Gewichte dazu!"
+"318","( 촀\0Hey!
+\0 Bist du auch (\0촀\0gerade
+hierhergezogen?
+\0( (촀\0Muskulöse
+Mitstreiter sind immer willkommen!\0\0(9촀\0Darf ich fragen, 
+\0wie du heißt?
+\0
+(%촀\0n\0\0
+\0(\0촀\02\0n\0?
+\0(
+(촀\0Ich bin der n
+\0!\0\0(5촀\0Lass uns darum wetteifern, 
+\0wer von
+uns nachbarschaftlicher ist!
+\0 (""촀\0Auf los
+geht's los, 
+\0n\0!"
+"319","( 촀\0Ah!
+\0 Was sehen meine durchtrainier-
+ten Augen?
+\0(\0촀\0 Noch jemand, 
+\0der am
+Reif-für-die-Insel-Paket teilnimmt!
+(촀\0Das heißt, 
+\0wir sind in der gleichen
+Mannschaft! 
+\0((9촀\0Wie heißt du?
+\0
+(%촀\0n\0\0
+\0(\0촀\02\0n\0, 
+\0alles klar!
+(촀\0Mein Name ist n
+\0!
+\0
+(\0촀\0Ich freue mich auf Wettläufe über
+die Insel mit dir, 
+\0n\0!"
 "401","(촀\0Oh! 
-\0Bist du neu hier auf der Insel?
+\0Bist du neu hier auf der Insel?
+\0
 (촀\0Ich bin n
-\0 und bin
-gerade auf diese Insel zurückgekehrt.\0\0Von s촀. Bevor ich
-da hingezogen bin, hab ich wie
+\0 
+\0und bin
+gerade auf diese Insel zurückgekehrt.\0\0Von s촀. 
+\0Bevor ich
+da hingezogen bin, 
+\0hab ich wie
 gesagt schon mal hier gewohnt.
-(%촀\0Heute muss ich Kisten auspacken,
+(%촀\0Heute muss ich Kisten auspacken,
+\0
 aber lass uns doch morgen was
 zusammen machen, 
 \0n\0!"
@@ -632,8 +651,8 @@ Und... 
 \0(,촀\0
 
 \0\0HAAATSCHIII!\0￿
-	\0
-\0 Entschuldige!\0\0(+촀\0Du wohnst offensichtlich auch auf
+\0
+	\0 Entschuldige!\0\0(+촀\0Du wohnst offensichtlich auch auf
 n	\0, 
 \0ja?\0\0(촀\0Ich hoffe, 
 \0wir können bald mal
@@ -644,14 +663,10 @@ wenn ich die Erkältung los bin."
 "422","( 촀\0Hui! 
 \0Ein Neuzugang für unser Team
 2\0n\0!
-\0( (%촀\0Was sind deine
-liebsten Muskelpartien?
-(
+\0( (%촀\0Was sind deine liebsten Muskelpartien?\0\0(
 촀\0Mit dem beeindruckenden Bizeps
 heißt du sicher n\0,
-\0
-hab ich nicht recht?
-(5촀\0Olé!
+\0 hab ich nicht recht?\0\0(5촀\0Olé!
 \0 Ich bin übrigens n
 \0 
 \0und finde jegliche Muskelpartien cool, 

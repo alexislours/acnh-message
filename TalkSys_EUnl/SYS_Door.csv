@@ -5,17 +5,20 @@ kwijtraken!"
 "101","Eerst moet van dit eiland een thuis
 gemaakt worden."
 "111","\0Nooks hoek\0￿
-Open: 8:00 - 22:00"
+Open: 8:00 - 22:00 uur"
 "111_01","Wegens omstandigheden gelden
 vandaag andere openingstijden.
 			\0Nooks hoek\0￿"
 "112","\0Zusjes Able
-\0￿Open: 9:00 - 21:00"
+\0￿Open: 9:00 - 21:00 uur"
 "112_01","Vandaag wijken onze openingsuren
 af van normaal.
                                     \0Zusjes Able\0￿"
 "902","\0Tom Nook \0￿heeft je nog nodig,
 dus kom hier later maar weer terug."
+"903","Je kunt beter eerst even met \0Tom
+Nook\0￿ praten voordat je naar bed
+gaat."
 "Move_AN","Ik woon nu op een andere stek.
      　　　　　　　　s촀"
 "Move_BO","Ik woon hier niet meer.
@@ -100,7 +103,7 @@ NIET storen dus.
 "Sleep_OT","Ik geniet van mijn rust, schatten.
 Gelieve mij niet te storen.
                               s촀"
-"Sleep_Tent","Het lijkt slaaptijd te zijn."
+"Sleep_Tent","s촀 lijkt te slapen."
 "Sleep_ZK","Niet storen, s.v.p.
 Mijn schoonheidsslaap is belangrijk!
                               s촀"

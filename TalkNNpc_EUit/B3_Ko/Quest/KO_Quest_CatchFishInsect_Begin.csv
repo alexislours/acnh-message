@@ -62,7 +62,7 @@ di mosche. (촀\0
 "021_a","Lascia fare a me!
 Ci penso io!
 Certo!"
-"021_b","Scusa, è che ora...
+"021_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "022","Ehilà, n\0.
@@ -76,7 +76,7 @@ esemplare."
 "022_a","Lascia fare a me!
 OK!
 Certo!"
-"022_b","Scusa, è che ora...
+"022_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "023","(4촀\0Ehilà, n\0.
@@ -93,7 +93,7 @@ esigentissimo."
 "023_a","Lascia fare a me!
 Ci penso io!
 Certo!"
-"023_b","Scusa, è che ora...
+"023_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "025","Ehi n\0.
@@ -108,7 +108,7 @@ me ne prendessi una qualsiasi."
 "025_a","Lascia fare a me!
 OK!
 Certo!"
-"025_b","Scusa, è che ora...
+"025_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "026","(""촀\0Ehilà, n\0!\0\0()촀\0Vedi,
@@ -126,7 +126,7 @@ esemplare qualsiasi, n\0!"
 "026_a","Lascia fare a me!
 OK!
 Certo!"
-"026_b","Scusa, è che ora...
+"026_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "027","()촀\0Sai, n\0,
@@ -142,7 +142,7 @@ il tuo amico n
 "027_a","Lascia fare a me!
 OK!
 Certo!"
-"027_b","Scusa, è che ora...
+"027_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "028","Car2oa n\0,
@@ -159,7 +159,7 @@ grande favore."
 "028_a","Lascia fare a me!
 OK!
 Certo!"
-"028_b","Scusa, è che ora...
+"028_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "031","(""촀\0Senti, n\0,
@@ -176,7 +176,7 @@ uno per me?"
 "031_a","Lascia fare a me!
 OK!
 Certo!"
-"031_b","Scusa, è che ora...
+"031_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "032","($촀\0Ehilà, n\0n\0\0
@@ -191,7 +191,7 @@ di mare per men"
 "032_a","Lascia fare a me!
 OK!
 Certo!"
-"032_b","Scusa, è che ora...
+"032_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
 "101","(촀\0Ehilà, n\0.
@@ -202,7 +202,7 @@ in un ambito specificon\0\0
 cercando di catturare a tutti i costi
 2\0}촀.
 (&촀\0Credi che potresti prenderne
-2촀unouna\0 per me?
+2촀unouna\0 per me?
 \0 (촀\0Guarda, ti imploro!"
 "101_a","Lascia fare a me!"
 "101_b","Mi spiace, non posso."
@@ -221,7 +221,7 @@ riesco proprio a catturare
 \0OK, si riparten"
 "201","(촀\0Senti, ho un favore da chiederti!\0\0(촀\0Uhm, forse sono stato un po' brusco,
 ma il fatto è che sono disperaton\0\0\0\0Devo troppo catturare
-2\0}촀!\0\0(&촀\0Credi che riusciresti a 2.촀prenderloprenderla\0 tu
+2\0}촀!\0\0(&촀\0Credi che riusciresti a 2.촀prenderloprenderla\0 tu
 per me? 
 \0Te ne sarei grato a vita!"
 "201_a","Lascia fare a me!"
@@ -230,7 +230,7 @@ per me? 
 vita non riuscirò mai a catturare
 2\0}촀n\0\0
 (촀\0Pensa che sarei disposto persino
-a farmene catturare 2촀unouna\0 da qualcun
+a farmene catturare 2촀unouna\0 da qualcun
 altro, n\0!"
 "202_a","(\0촀\0Ti aiuto io!"
 "202_b","(\0촀\0Continua a provare!"

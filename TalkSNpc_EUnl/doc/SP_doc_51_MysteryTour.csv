@@ -41,9 +41,12 @@ bewoner. 
 "002_a","Ik wil naar huis."
 "002_b","Ik heb gereedschap nodig."
 "002_c","('촁\0Laat maar."
-"003","(&촀\0Ben je klaar om op te stijgen en terug te keren naar n""\0?"
+"003","(&촀\0Ben je klaar om op te stijgen en terug te keren naar n""\0?\0\0(촀\0Ik wil niet dat je per ongeluk iets
+op het eiland laat liggen.
+\0 Dusn\0\0
+(&촀\0weet je het echt zeker?"
 "003_a","(%촁\0Ja!"
-"003_b","('촁\0Nee, wachtn"
+"003_b","('촁\0Nee, wacht..."
 "004","-촀\0
 \0Luid en duidelijk!
 \0( Zet je schrap,

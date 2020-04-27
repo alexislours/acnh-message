@@ -49,9 +49,8 @@ nous revoir!"
 du jour!(촀"
 "007","(&촀\0Ça te plaît?\0\0(촀\0J'ai de nouveaux arrivages tous les
 jours.
-\0 Si tu n'as rien trouvé,
-\0 ce sera
-pour la prochaine fois!"
+\0 Alors n'hésite pas à passer
+régulièrement!"
 "101_01","(촀\0Bien le bonjour, n\0!
 \0 (""촀\0
 \0C'est gentil de passer!"
@@ -195,14 +194,14 @@ aimerions te demander de nous aider.
 \0
 Tu veux bien nous trouver
 un terrain?"
-"207_a","Pas de souci!"
+"207_a","(\0촀\0Pas de souci!"
 "207_b","J'ai pas le temps..."
 "208","(촀\0C'est vrai?!
 \0 Oh, tu nous sauves la
 vie!
 \0 Parfait,
 \0(촀\0 tu auras besoin de ce
-\0kit chantier tailleur\0￿!"
+\0kit chantier atelier couture\0￿!"
 "209","()촀\0Dès que tu nous trouves un
 emplacement, installes-y le kit,
 \0
@@ -220,7 +219,7 @@ moment de libre,
 "211","(촀\0Oh!
 \0 (촀\0Tu veux bien m'aider à trouver
 un terrain pour la boutique?"
-"211_a","Pas de souci!"
+"211_a","(\0촀\0Pas de souci!"
 "211_b","J'ai pas le temps..."
 "212","(촀\0Vraiment? 
 \0Quelle bonne nouvelle!
@@ -231,7 +230,7 @@ Oh, mais tes poches sont pleines!
 ()촀\0Il faudrait que tu fasses un peu de
 place,
 \0 pour que je puisse te donner
-le \0kit chantier tailleur\0￿n"
+le \0kit chantier atelier couture\0￿n"
 "221","(촀\0C'est si gentil à toi d'avoir accepté
 de nous aider à trouver un terrain
 pour l'atelier!\0\0(""촀\0Nous n'avons pas besoin de

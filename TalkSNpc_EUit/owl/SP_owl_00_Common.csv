@@ -7,7 +7,7 @@
 \0((촀\0
 P\0 (촀\0
 \0\0CHI È?!\0d
-"
+<"
 "002","(촀\0Uuuh! 
 \0Perdonami!
 \0( Sono un animale
@@ -76,17 +76,23 @@ utile?"
 permanenza all'interno del nostro
 museo!"
 "016","('촀\0Non c'è fretta!
-\0(9촀\0 Dai un'occhiata in giron\0\0(\0촀"
-"017","(촀\0Mh? 
-\0Uuuh! (\0촀\0
-\0(%촀\0Come posso aiutarti?"
+\0(9촀\0 Dai un'occhiata in
+giro e prenditi tutto il tempo che
+vuoin\0\0(\0촀"
+"017","(촀\0Ah, 
+\0ma priman\0\0
+\0($촀\0 Come posso aiutarti,
+
+\0uuuh?"
 "017_a","Donazione!"
 "017_b","Esamina fossili."
 "017_c","Cos'è questa cosa?"
 "017_d","Non importa, grazie."
-"018","(촀\0Mh? 
-\0Uuuh! (\0촀\0
-\0(%촀\0Come posso aiutarti?"
+"018","(촀\0Ah, 
+\0ma priman\0\0
+\0($촀\0 Come posso aiutarti,
+
+\0uuuh?"
 "018_a","Esamina fossili."
 "018_b","Cos'è questa cosa?"
 "018_c","Non importa, grazie."
@@ -188,33 +194,33 @@ ospiti ci onorano della loro presenza.
 "104","(;촀\0Uh,
 \0 benissimo!
 \0((촀\0 Cosa pensavi di
-donare al nostro museo?
-\0(촀\0 Non sto
-nelle piume dall'emozione!"
+donare?
+\0(촀\0 Non sto nelle piume
+dall'emozione!"
 "105","( 촀\0Uuuh?
 \0(;촀\0 Hai cambiato idea?
 \0
 (%촀\0Sarà per la prossima volta.
 \0(촀\0 Siamo
 sempre grati di ricevere donazioni!"
-"106","(촀\0Uh uuuh! Vedo che hai portato
-diverse cosette!
-\0 (촀\0Diamo un'occhiata.
-
-\0(
+"106","(촀\0Uh uuuh!
+\0 Vedo che hai portato
+diverse cosette.
+\0 
 \0(
-촀\0Cos'hai di bello?
-\0
+촀\0
+\0Diamo un'occhiatan\0\0
+\0
 
 "
 "109","(촀\0Uuuh, sì!
 \0(촀\0 Saremo felici di accettare
 queste donazioni!"
-"110","( 촀\0Uuuh, 
-\0non preoccuparti!
-(촀\0Lascia fare a me. Ci penso io!
-\0
-Uh uuuh!"
+"110","(촀\0Ah,
+\0 non ti disturbare a tirare fuori
+tutto.
+\0 (촀\0Lascia fare a me, 
+\0ci penso io!(\0촀"
 "111","(9촀\0Uh! Tra le cose che intendi donare
 ci sono dei doppioni,
 \0(촀\0 ma a noi serve
@@ -279,13 +285,15 @@ per me,
 \0 Cosa vedo?
 \0 Èn\0\0
 (촀\02\0}\0\0!"
-"126","( 촀\0Ma alloran\0\0?
-\0 (촀\0Sì! Ci sono tutti i pezzi!
+"126","( 촀\0Ma alloran\0\0
+\0 (촀\0Sì! 
+\0Ci sono tutti i pezzi!
 
 \0Abbiamo completato un magnifico
 esemplare di \0\0촀\0￿!\0\0(1촀\0Uuuh,
 \0 è spettacolare!\0\0(:촀\0Uhn\0\0 chiedo venia.
-\0((4촀\0 Vuoi conoscere meglio 2\0\0\0촀\0￿? Scoprire dettagli interessanti?"
+\0((4촀\0 Vuoi conoscere meglio 2\0\0\0촀\0￿? 
+\0Scoprire dettagli interessanti?"
 "126_a","Certo!"
 "126_b","Non adesso."
 "127","(촀\0Magnifico!
@@ -310,9 +318,9 @@ restanti parti
 nella sua integrità!
 \0((촀\0 Buona fortuna!"
 "129_01","(7촀\0E queston\0\0 è quanto. 
-\0(%촀\0E ora mi
-prenderò con gioia cura della tua
-donazione.\0\0(
+\0(%촀\0Ora, con
+grande gioia, mi prenderò cura
+della tua donazione!\0\0(
 촀\0Speriamo di poter trovare le parti
 mancanti
 \0(9촀\0 per mostrare il fossile
@@ -325,10 +333,9 @@ ferrato in materia,
 \0 te lo assicuro."
 "130_a","Sono tutt'orecchi!"
 "130_b","Avrei da fare..."
-"131","(:촀\0Se vuoin\0\0
-\0(4촀\0 Posso condividere con te
-le mie conoscenze concernenti
-2\0}\0\0n"
+"131","(%촀\0Se vuoi, posso condividere con te le
+mie conoscenze concernenti 2""촀questoquesta\0
+}\0\0."
 "131_a","Fai pure!"
 "131_b","Ora non ho tempo..."
 "132","(촀\0Ottimo! Con molto piacere!"
@@ -343,10 +350,10 @@ prenderemo cura di ciò che ci hai
 tanto generosamente donato!"
 "141","(촀\0Uh uuuh!
 \0 Grazie tante!
-\0 n\0\0(촀\0 Per tutti i
-gufi!\0\0(
+\0(촀\0 Per tutti
+i gufi!\0\0(
 촀\0A quanto pare non hai nulla con te
-che possa interessarci, al momenton"
+che possa interessarcin"
 "142","()촀\0Al momento accettiamo \0insetti\0￿,
 \0
 \0creature acquatiche\0￿
@@ -361,7 +368,7 @@ esaminatin"
 esaminati da me.
 \0 Se hai un fossile,
 \0
-(%촀\0lascia che lo identifichi per te!"
+(%촀\0lascia che te lo identifichi!"
 "145","(%촀\0Se ti capitasse di trovare qualcosa
 appartenente a queste categorie,
 \0
@@ -398,11 +405,16 @@ sento di dire che si tratta di
 2\0}\0\0!"
 "206_03","(촀\0Ma certo! Può trattarsi solo di
 2\0}\0\0!"
-"209","2\02\0}\0\0n\0\0\0\0(촀\02촀LoLa\0 acquisterei senz'altro per la mia
-collezione personale,
-\0 (""촀\0ma il museo
-ce l'ha già. Puoi riprender2촀lola\0."
-"210","(촀\02""촀QuestoQuesta\0 }\0\0
+"209","2\02\0}\0\0 non finisce mai di stupirmi, 
+\0per 2""촀quantiquante\0 ne abbia 2촀
+visti
+viste\0n\0\0\0\0L'accetterei volentieri,
+\0 però ne
+abbiamo già un esemplare, 
+\0quindin\0\0
+te 2촀lola\0 restituisco, 
+\0uh uuuh."
+"210","(촀\02""촀QuestoQuesta\0 }\0\0
 è certamente molto interessante.\0\0(촀\0Mi farebbe piacere una donazione,
 ma al momento abbiamo visite e non
 posso occuparmene.
@@ -427,7 +439,7 @@ della nostra collezione!
 ()촀\0Il destino vuole che ci manchi una
 sola donazione per perorare la causa
 della costruzione del museo!
-(7촀\0Quest2촀oa\0 }\0\0 potrebbe essere decisiv2촀oa\0 per il nostro progetto.\0\0Cosa ne pensi?
+(7촀\0Quest2촀oa\0 }\0\0 potrebbe essere decisiv2촀oa\0 per il nostro progetto.\0\0Cosa ne pensi?
 \0
 (&촀\0 Vuoi contribuire con
 questo fossile all'ampliamento del
@@ -437,8 +449,8 @@ nostro amato museo?"
 "213","(촀\0Meraviglioso, oserei dire splendido!
 
 \0(촀\0Un fossile raro che non fa ancora
-parte della nostra collezione.\0\0(촀\02""촀QuestoQuesta\0 }\0\0 apporterebbe un contributo notevole alla diffusione di cultura e scienza.\0\0Cosa ne dici?
-\0 (4촀\0Ne faresti dono alla
+parte della nostra collezione.\0\0(촀\02""촀QuestoQuesta\0 }\0\0 apporterebbe un contributo notevole alla diffusione di cultura e scienza.\0\0(&촀\0Cosa ne dici?
+\0 Ne faresti dono alla
 nostra nobile istituzione?"
 "213_a","Certamente!"
 "213_b","No, è tutto mio."
@@ -446,16 +458,16 @@ nostra nobile istituzione?"
 \0 (
 촀\0Fammi
 esaminare attentamenten"
-"215","(촀\0Uuuh!
+"215","(촀\0Uuuh!
 \0 (촀\0Sono tutti fossili che non
 fanno ancora parte della nostra
 collezione.\0\0(촀\0Mi sorprende la tua capacità di
 reperire fossili di valore!"
-"216","(촀\0Uh uuuh!
-\0 (촀\0Tra questi fossili c'è
+"216","(촀\0Uh uuuh!
+\0 Tra questi fossili c'è
 qualche rarità che non abbiamo
 ancora nella nostra collezione!
-(촀\0Sono senza parole!
+(촀\0Sono senza parole!
 \0 Sembra che tu
 attragga fossili come una calamita!"
 "217","()촀\0Spero tu prenda in considerazione
@@ -489,10 +501,11 @@ subito alla nostra collezione!"
 촀\0Uh! Se solo avessimo
 le parti mancantin\0\0 potremmo
 ammirare questa creatura per intero!"
-"224","(촀\0Uh uuuhn\0\0 Ce l'abbiamo fatta!
-\0 (촀\0Abbiamo completato 2\0\0촀!\0\0(촀\0Che essere straordinario!\0\02\02\0\0촀 era una
-creatura affascinante. (4촀\0Desideri avere
-qualche informazione in proposito?"
+"224","(촀\0Uh uuuhn\0\0 Ce l'abbiamo
+fatta!
+\0 (촀\0Abbiamo completato
+2\0\0촀!\0\0(촀\0Che essere straordinario!\0\02\02\0\0촀 era una creatura affascinante. 
+\0(4촀\0Desideri avere qualche informazione in proposito?"
 "224_a","Certamente!"
 "224_b","Avrei da fare..."
 "225","(촀\0Stupendo!
@@ -533,7 +546,7 @@ in qualsiasi momento!"
 "304","(촀\0Uh!
 \0
  O ancora meglio: pfui!
-\0(촀\0 Èn\0\0 2\0}\0\0!\0\0(촀\0Fai attenzione, non farl2촀oa\0 uscire
+\0(촀\0 Èn\0\0 2\0}\0\0!\0\0(촀\0Fai attenzione, non farl2촀oa\0 uscire
 dalla gabbietta! \0K
 \0(+촀\0Tremo solo al pensiero!\0d"
 "306","(촀\0Uh e ancora uuuh!
@@ -570,28 +583,31 @@ per donarlo al museo?"
 \0 Quando parlo di
 fossili (2촀\0mi faccio prendere dalla foga
 e non mi fermo più."
-"362","(%촀\0Se dipendesse da me, lo comprerei
-subito per la collezionen\0\0\0\0()촀\0Ma vista la precaria situazione
-finanziaria del nuovo museo, devo
-usare molta parsimonia.\0\0(1촀\0Mi dovrò accontentare di ammirare
-questo fossile.
-\0 (촀\0Ti ringrazio per
-avermelo mostrato!"
+"362","(%촀\0Personalmente, sarei davvero felice
+di acquistarlon\0\0 ma siamo alle prese
+con l'inaugurazione del museo.\0\0()촀\0E per realizzare un simile progetto,
+devo essere molto oculato con i fondi
+a disposizione.\0\0(1촀\0Uh uuuh! 
+\0Per ora mi accontento
+di averlo ammirato.
+\0 (촀\0Grazie mille
+di avermelo mostrato!"
 "363","(촀\0Lo acquisterei volentieri per la mia
 collezione personale, ma,
-\0('촀\0 ahimè, non
-dispongo di una tale somma.
-(촀\0Mi dovrò accontentare di ammirare
-questo fossile.
-\0 Uh! Ti ringrazio per
-avermelo mostrato!"
+\0('촀\0 ahimè,
+non dispongo di una tale somma.
+(촀\0Però sono felice di averlo potuto
+ammirare
+\0 e ti ringrazio di avermene
+dato la possibilità, 
+\0uh uuuh!"
 "364","()촀\02\02\0}\0\0 non è ancora presente nella nostra collezione.\0\0(4촀\0Prenderesti in considerazione una
 donazione? 
 \0(촀\0Sarebbe un contributo
 culturale importante per tutti noi."
 "365_01","()촀\0Ammetto che la nostra umile
 collezione non include ancora
-2\0}\0\0.\0\0(4촀\0Spero tu voglia donarl2촀oa\0 non appena
+2\0}\0\0.\0\0(4촀\0Spero tu voglia donarl2촀oa\0 non appena
 i lavori saranno terminati."
 "365_02","Comunque, uh, (4촀\0grazie per avermi
 mostrato questa meraviglia!"

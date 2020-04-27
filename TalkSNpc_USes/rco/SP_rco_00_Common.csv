@@ -1,7 +1,7 @@
 ﻿"label","text"
-"000","(촀\0¡Ah, n\0!
+"000","(""촀\0¡Ah, n\0!
 \0
-(""촀\0¡Hola, hola!(촀"
+¡Hola, hola!"
 "000_01","(촀\0¡Hola, hola!
 \0 Este es el \0mostrador
 de urbanismo\0￿, ¿sí?
@@ -10,8 +10,8 @@ de urbanismo\0￿, ¿sí?
 "000_02","(촀\0¡Ah, 
 \0n\0!
 \0
-(""촀\0¡Bienvenid2oa de nuevo!(촀"
-"000_03","(촀\0Ah, cambiando de teman"
+(""촀\0¡Bienvenid2oa de nuevo!"
+"000_03","( 촀\0Ah, cambiando de teman"
 "004_01","(촀\0Podemos cambiar el exterior
 de tu casa por \05000 bayas\0￿."
 "004_02","(촀\0¡Podemos cambiar el exterior
@@ -23,9 +23,8 @@ listo mañana por la mañana.
 "004_03_a","(%촀\0¡Pues sí!"
 "004_03_b","('촀\0Pues no..."
 "005","(촀\0Ehn\0\0
-\0 La política de Nook Inc.
-obliga a pagar las renovaciones
-por adelantado.\0\0(\0촀\0Parece que no tienes suficientes
+\0 La política de \0Nook Inc.\0￿ obliga
+a pagar las renovaciones por adelantado.\0\0(\0촀\0Parece que no tienes suficientes
 bayas,
 \0 (촀\0así que ven a vernos cuando
 las tengas, ¿sí?"
@@ -38,7 +37,7 @@ para tu casa, ¿sí?"
 \0
 (촀\0Bueno, ya sabes dónde encontrarme
 si quieres renovar tu casa, ¿sí?"
-"008_01","(%촀\0Mmmn\0\0
+"008_01","(9촀\0Mmmn\0\0
 \0 (촀\0¡Qué elección más
 interesante!"
 "008_02","(촀\0¡\05000 bayas\0￿, por favor!"

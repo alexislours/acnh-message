@@ -20,8 +20,9 @@ que j'aie dormi pendant des jours ?"
 \0( (촀\0Ha ha ha, sacré2\0e loupiot2\0e !"
 "001_02","(촀\0En tout cas, bienvenue sur l'\0île de
 Joe\0￿ !
-\0 (촀\0Ici chez moi, j'aimerais que
-tu fasses comme chez toi, OK ?
+\0( 
+\0(촀\0Ici, c'est chez moi, j'aimerais
+que tu fasses comme chez toi, OK ?
 ()촀\0Je sais plus si je t'en ai parlé ou pas,
 mais j'ai monté un \0studio photo\0￿. 
 \0J'ai
@@ -226,7 +227,7 @@ atelier est vraiment top, 
 t'as l'occasionn\0\0 (촀\0fais-toi plaise !"
 "113","(
 촀\0Euhn\0\0 
-\0((촀\0je crois que j'ai fait le tour !
+\0P(촀\0je crois que j'ai fait le tour !
 \0
 Tu sais tout ce qu'il y a à savoir
 sur les \0décors\0￿."
@@ -243,9 +244,9 @@ sont des amateurs. 
 \0En faitn\0\0
 \0((2촀\0 c'est
 les voisins qui habitent sur ton île.
-($촀\0Mais si tu as des \0amiibo\0￿ des
-personnages d'\0Animal Crossing\0￿,
-tu peux aussi inviter d'autre gens !
+($촀\0Mais si tu as des \0amiibo des
+personnages d'Animal Crossing\0￿,
+tu peux aussi inviter d'autres gens !
 (
 촀\0\0Cela dit,
 \0 ils viendront pas forcément.
@@ -274,7 +275,7 @@ modèle
 tu veux depuis \0\0￿ \0\0￿.(촀"
 "123","(
 촀\0Euhn\0\0 
-\0((촀\0je crois que j'ai fait le tour !
+\0P(촀\0je crois que j'ai fait le tour !
 \0
 Tu sais tout ce qu'il y a à savoir
 sur les \0modèles\0￿."
@@ -302,7 +303,7 @@ avec \0\0￿,
 et d'appuyer sur \0\0￿ pour le changer."
 "132","(
 촀\0Euhn\0\0 
-\0((촀\0je crois que j'ai fait le tour !
+\0P(촀\0je crois que j'ai fait le tour !
 \0
 Tu sais tout ce qu'il y a à savoir
 sur les \0tenues\0￿."
@@ -329,7 +330,7 @@ histoires de pose, 
 de te parler des \0modèles \0￿!"
 "143","(
 촀\0Euhn\0\0 
-\0((촀\0je crois que j'ai fait le tour !
+\0P(촀\0je crois que j'ai fait le tour !
 \0
 Tu sais tout ce qu'il y a à savoir
 pour \0prendre des photos\0￿."

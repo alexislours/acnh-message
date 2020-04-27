@@ -13,8 +13,8 @@ Falls du also mal denkst: 
 \0 also
 das Gebäude hier würde sich dort
 links hinten viel besser machen“n\0\0
-(촀\0Dann nicht verzagen
-\0, Nook befragen!
+(촀\0Dann nicht verzagen,
+\0 Nook befragen!
 \0
 (\0촀\0(9촀\0Für Umgestaltungswünsche bin ich
 nämlich der Waschbär vom Fach!"
@@ -29,7 +29,7 @@ Look für das eigene Inselchen geht!"
 "001_00_02","( 촀\0Falls du deine eigene Behausung
 umverlegen willst,
 \0(%촀\0 dann sprich mich
-einfach auf „\0Mein Zuhause...\0￿“ an!(촀\0
+auf die \0Eigenheim-Beratung\0￿ an!(촀\0
 "
 "001_01","(9촀\0Dann sag doch mal. 
 \0(&촀\0Hättest du denn
@@ -85,8 +85,8 @@ einrichten, 
 Willst du es verlegen?"
 "013_a","Ja, bitte!"
 "013_b","Ich denk drüber nach."
-"014","(촀\0Die \0Schneiderei\0￿ also
-\0, ja?
+"014","(촀\0Die \0Schneiderei\0￿ also, 
+\0ja?
 \0(\0촀\0
 Das würde \0Z\0 \0￿kosten.
 \0
@@ -255,9 +255,7 @@ von n\0 zu?"
 \0Gefällt dir (&촀\0der Umzugsvorschlag
 von n\0?"
 "061","(촀\0Klar doch!
-\0( 2\0n\0 findet
-bestimmt (촀\0den besten Standort aller
-Zeiten für unser Geschäft!
+\0( 2\0n\0 findet bestimmt (촀\0den besten Standort aller Zeiten für unser Geschäft!
 \0 Juhu!"
 "062","(촀\0Aber jederzeit!
 \0 (촀\0In bessere Hände
@@ -446,26 +444,26 @@ wieder zurück,
 \0 (촀\0und du bekommst die
 Sternis wieder, 
 \0die du gezahlt hast!"
-"112","Ich sage s촁 Bescheid, 
+"112","(%촀\0Ich sage s촁 Bescheid, 
 \0dass der Umzug flachfällt.
-\0
+\0(\0촀\0
 Keine Sorge,
 \0 nichts für ungut!"
-"112_01","Und keine Sorge wegen\0 Eugen\0￿.
+"112_01","(%촀\0Und keine Sorge wegen\0 Eugen\0￿.
 \0
 Ich erkläre ihm,
 \0 dass kein Umzug
 stattfindet.
-\0 Das versteht er schon!"
-"112_02","Und keine Sorge wegen \0Nepp\0￿ und
+\0 (\0촀\0Das versteht er schon!"
+"112_02","(%촀\0Und keine Sorge wegen \0Nepp\0￿ und
 \0Schlepp\0￿. 
-\0Ich sag ihnen,
+\0(\0촀\0Ich sag ihnen,
 \0 dass der
 Umzug erst mal abgeblasen ist."
-"112_03","Und \0Tina\0￿ sage ich auch Bescheid.
+"112_03","(%촀\0Und \0Tina\0￿ sage ich auch Bescheid.
 \0
 Die Gute wird sicher verstehen,
-\0 dass
+\0 (\0촀\0dass
 es gerade schlecht passt mit Umzug."
 "112_04","(촀\0Sollte dir dann doch ein guter Ort
 ins Auge fallen,
@@ -532,10 +530,8 @@ Sei mir nicht böse,
 \0 ja?"
 "513","(촀\0Verzeihung,
 \0 aber auf Anfrage von
-s\0촀 soll der (\0촀\0\0Laden
-\0￿ja gerade umziehen,
-\0 undn\0\0
-(촀\0Nun ja,
+s\0촀 soll der (\0촀\0\0Laden \0￿ja gerade umziehen,
+\0 undn\0\0\0\0(촀\0Nun ja,
 \0 ich bin zwar ein Ausbund der
 Behilflichkeit,
 \0 aber zweiteilen kann
@@ -543,10 +539,8 @@ ich mich leider noch nicht.
 \0 Bedaure!"
 "514","(촀\0Verzeihung,
 \0 aber auf Anfrage von
-s\0촀 soll das (\0촀\0\0Museum
-\0￿ja gerade umverlegt werden,
-\0 undn\0\0
-(촀\0Nun ja,
+s\0촀 soll das (\0촀\0\0Museum \0￿ja gerade umverlegt werden,
+\0 undn\0\0\0\0(촀\0Nun ja,
 \0 ich schlage sonst ja KEINEM
 einen Wunsch ab,
 \0 aber zweiteilen
@@ -555,16 +549,14 @@ kann ich mich leider nicht.
 "515","(촀\0Verzeihung,
 \0 aber auf Anfrage
 von s\0촀 zieht die (\0촀\0\0Schneiderei \0￿ja gerade um,
-\0 undn\0\0
-(촀\0Nun ja,
+\0 undn\0\0\0\0(촀\0Nun ja,
 \0 leider kann ich mir stets nur
 für einen Kunden Zeit nehmen.
 \0
 Bitte nimm's mir nicht übel!"
 "516","(촀\0Verzeihung,
 \0 aber auf Anfrage
-von s\0촀 wird der (\0촀\0\0Campingplatz\0￿ gerade umverlegtn\0\0
-(촀\0So was beschäftigt selbst den
+von s\0촀 wird der (\0촀\0\0Campingplatz\0￿ gerade umverlegtn\0\0\0\0(촀\0So was beschäftigt selbst den
 emsigsten Waschbären vollauf.
 \0
 Ein andermal, 

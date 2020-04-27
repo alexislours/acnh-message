@@ -1,7 +1,8 @@
 ﻿"label","text"
 "001","(
 촀\0Oye, n촁, tú siempre andas entrenándote, ¿no? 
-\0(&촀\0¿Y para qué, si se puede saber?"
+\0(&촀\0¿Y para qué,
+\0 si se puede saber?"
 "002","(촀\0¿Eh? 
 \0¿Que para qué? Buenon\0\0
 \0
@@ -17,7 +18,8 @@ el acero, majo?"
 \0 Pues ahora que lo dices,
 ¡la verdad es que no tengo ni idea!
 초(촀\0¡Ayúdame, n\0!
-\0촆 ¿Para qué estoy reforzando mis abdominales? ¡¿O por quién?!(촀"
+\0촆 ¿Para qué estoy reforzando mis abdominales?
+\0 ¡¿O por quién?!(촀"
 "004_a","¡Por ti mismo!"
 "004_b","¡Por n촀!"
 "004_c","('촀\0A mí no me mires..."
@@ -39,12 +41,12 @@ suficiente. 
 cuentan\0\0
 \0촇 pero igual tenía que haber
 aprovechado para fardar más.
-촇(촀\0¡Vale! 
+촅촇(촀\0¡Vale! 
 \0¡Fíjate, n촀!
 \0 Un, dos, 
 \0un, dos, 
 \0¡¡¡caña, n\0!!!"
-"008","(촀\02\0n\0,촃 ¿qué es esto?
+"008","(촀\0촆2\0n\0,촃 ¿qué es esto?
 \0 ¿Tú ves qué ganas de marcha tiene de repente n촁?\0\0촅(촀\0¡Pues me apunto!
 \0 ¡Vamos allá!
 \0
@@ -70,9 +72,8 @@ tienes que vivir tu vida. 
 cuenta es que seas feliz y punto."
 "011","(
 촀\0Oye, n촁n\0\0
-\0 tú que
-eres tan deportista, ¿en qué tipo
-de campeonato ganarías fijo?"
+\0 tú que eres tan deportista,
+\0 ¿en qué tipo de campeonato ganarías fijo?"
 "012","(촀\0¿Insinúas que hay algún tipo de
 campeonato en el que NO ganaría?\0\0(촀\0Con la de horas que entreno por
 semana, te garantizo que no hay
@@ -84,11 +85,9 @@ se te dé mejor, ¿o qué?"
 \0 Soy un hacha
 haciendo sentadillas, pero eso
 no cuenta como deporte, claro.
-(%촀\0El bádminton también se me da
-de miedon\0\0
-\0 aunque es más flojillo
-que otros deportes más intensos.
-(촀\0No sé, ¡no podría elegir uno solo!
+(%촀\0El 촀 también se me da de miedon\0\0
+\0 aunque es más flojillo que otros deportes más intensos.\0\0(촀\0No sé,
+\0 ¡no podría elegir uno solo!
 \0
 (촀\0초¿Tú cuál crees 촆que se me da
 mejor, n\0?(촀"
@@ -99,11 +98,12 @@ mejor, n\0?(촀"
 \0Supongo que
 tanto hacer largos en piscinas
 olímpicas ha dado sus frutos.
-(촀\0¡Y lo mejor de todo es que en
+촇(촀\0¡Y lo mejor de todo es que en
 bañador se marcan los músculos
 que da gusto!
-(촀\0No se te escapa una, n\0."
-"016","(%촀\0Sí, la verdad es que te veo como
+초(촀\0No se te escapa una, n\0."
+"016","(%촀\0Sí,
+\0 촇la verdad es que te veo como
 campeón de natación, chato.\0\0(2촀\0Y pensar que yo aún tengo que
 nadar a veces con manguitosn\0\0
 \0

@@ -8,6 +8,17 @@ vivre sur n'importe quelle île !\0\0(5촀\0
 \0Je vais demander au \0bureau des
 résidents\0￿ s'ils ont un endroit où je
 pourrais m'installer, n\0 !"
+"003","(
+촀\0Hmmmmn\0\0 C'est tentant, ce que tu
+me proposes. 
+\0Allez, tu sais quoi ?\0\0(\0촀\0La première fois, je refuse poliment,
+\0(촀\0
+la seconde, j'accepte avec joie !
+\0(5촀\0 Et
+pis mes fans d'ici ont besoin de moi !
+(촀\0Il me reste plus qu'à aller faire mon
+numéro de charme au \0bureau des
+résidents \0￿et l'affaire est réglée."
 "101","<"
 "101_01","(촀\0Oh ?!
 \0 Icin\0\0 ICI ?!
@@ -113,41 +124,38 @@ mémoires,
 "206_01","(촀\0Tu as gagné !
 \0(촀\0 On dirait que je vais
 emménager ici.\0\0(촀\0
-\02\0n\0 va accueillir sa première célébrité !
-\0(촀\0 n
-\0 !\0\0(%촀\0Toi, c'est n\0, c'est bien ça ? Enchantée !\0\0(\0촀\0Hop hop hop !
-\0 Assez blablaté, j'ai
-des cartons à faire, moi ! (촀\0
-\0J'ai trop
-hâte de m'installer ici !"
+\02\0n\0 va accueillir sa première célébrité !\0\0(\0촀\0Hop hop hop !
+\0 Assez blablaté,(촀\0 il faut
+que je passe au \0bureau des résidents\0￿
+pour voir si c'est jouable."
 "206_02","(촀\0Pas possible !
 \0 Tu as gagné !
 \0 Je vais
-déménager ! Bien ouéjn\0\0 euhn\0\0 n\0, c'est bien ça ?\0\0(2촀\0Il y a juste un détail qui me chiffonne
+déménager !\0\0(2촀\0Il y a juste un détail qui me chiffonne
 au sujet de cette îlen\0\0\0\0Son nom.
 \0 « 2\0n\0 »n\0\0 Chais pasn\0\0 Je proposerais bien « ⁠\0\0Port \0￿n
-\0 ».\0\0(촀\0Ou « \0\0Isla de la \0￿n
-\0 », sinon !
-\0 Bah, on en reparlera plus tard !\0\0(촀\0J'ai un déménagement qui m'attend,
-je ferais bien de me mettre au
-travail, n\0 !"
+\0 ⁠».\0\0(촀\0Ou « ⁠\0\0Isla de la \0￿n
+\0 ⁠», sinon !
+\0 Bah, on en reparlera plus tard !\0\0(촀\0T'façon, il faut d'abord que je passe
+au \0bureau des résidents\0￿ voir s'il y a
+de la place pour moi, n\0 !"
 "206_03","( 촀\0
 \0J'ai perdu ?
-\0(촀\0 Yes ! 
+\0 Yes ! 
 \0J'ai perdu !
-\0<
-(촀\0Mon plan a marché ! À moi
-n\0 !\0\0Mon plan ? ()촀\0Benn\0\0 c'était que tu me
+\0< (촀\0Mon
+plan a marché ! À moi n\0 !\0\0Mon plan ? ()촀\0Benn\0\0 c'était que tu me
 demandes de m'installer ici, qu'on
 fasse un petit jeun\0\0\0\0Et oui, je t'ai laissé gagner au fait !
 \0
 Je voulais avoir une histoire marrante
-à raconter pour les interviewsn\0\0\0\0(촀\0Ce sera parfait ! MERCI !\0\0(""촀\0Au cas où t'aurais bien entendu, moi, c'est n
-\0, la future
-superstar intergalactique !\0\0($촀\0Toi, c'est n\0, c'est bien ça ? Eh ben enchantée, n\0 !\0\0(촀\0Sur ce, je décolle, j'ai un
-déménagement qui m'attend.
-\0
-À plus !"
+à raconter pour les interviewsn\0\0\0\0(촀\0Ce sera parfait ! MERCI !\0\0(촀\0Oh ! 
+\0C'est vrai !
+\0 (촀\0Il reste un mini-truc
+à régler, si je veux emménager icin\0\0
+Le \0bureau des résidents\0￿ !
+(촀\0Bouge pas, j'y vais direct et on sera
+fixé2\0es, n\0."
 "302","(촀\0Je suis dépitée. 
 \0(C'est la cata.
 \0 (촀\0La pire
@@ -157,7 +165,7 @@ nouvelle de ma vie !
 que non en fait, 
 \0parce qu'il n'y a pas
 de place pour ma maison !!\0\0(촀\0
-\0J'ai besoin d'un chez-moi, n\0 ! Où est-ce que je vais répéter mes chorés ?\0\0Poser ma télé ?
+\0J'ai besoin d'un chez-moin\0\0 Où est-ce que je vais répéter mes chorés ?\0\0Poser ma télé ?
 \0 Ranger mes tenues
 de concertn\0\0
 \0(\0(촀\0 \0￿À moins qu'un
@@ -205,7 +213,16 @@ star, ça manque vraiment sur cette
 particuliern\0\0 zéro, nadan\0\0
 (촀\02IlElle s'incline devant bibi, lol !
 Tu vas bientôt me voir rappliquer
-avec tout mon barda, n\0 !"
+avec tout mon barda, n\0 !\0\0Et maintenant,
+\0 place à ma partie
+préférée dans le spectacle, j'ai
+nommén\0\0 les présentations !
+(
+촀\0Alors, ahemn\0\0
+\0 (촀\0Salut, je m'appelle n
+\0 ! Tu dois être n\0, j'ai bon ?\0\0Je sens qu'on va passer des
+moments mémorationnels,
+tu peux me croire,(촀\0 lol !"
 "310","(촀\0Euh, tu ne pensais à personne
 en fait, n\0 ?"
 "310_a","Si, si !"
@@ -216,45 +233,30 @@ en fait, n\0 ?"
 \0 Je me voyais déjà vivre icin\0\0
 \0
 (촀\0Bah, ça se fera peut-être un jour !"
-"402","(8촀\0C'est bizarre. 
-\0Trop trop bizarre.
+"313","(촀\0Youpi ! 
+\0Tu assures grave !
+\0 Alors,(&촀\0
+c'estn\0\0
+\0 s촀 ? 
+\0((\0촀\0Je parie que c'est 2촀luielle\0.\0\0(7촀\0Il se pourraitn\0\0 que le \0bureau des
+résidents\0￿ ait mentionné son nom,
 \0
-()촀\0Je suis passé au \0bureau des
-résidents\0￿n\0\0\0\0(촀\0Aux dernières nouvelles, j'habite
-DÉJÀ ici ?
-\0 J'ai un sosie, lol.
-\0 (촀\0Du coup,
-pour moi c'est nietn\0\0\0\0(촀\0C'est quoi cette règle à la noix ?
-\0
-Je devrais porter plainte pour
-plagiat, d'abord !
-\0 (
-촀\0GRRRR !\0\0Changement de plan, on dirait !
-\0
-Bah, c'est peut-être mieux comme
-ça, n\0.
-(촀\0Mes danseuses seront sûrement
-soulagées de ne pas devoir
-déménager, n\0 !"
-"403","(8촀\0Tu devineras jamais ce qu'on m'a dit
-au \0bureau des résidents\0￿n\0\0\0\0(;촀\0Je ne peux pas emménager ici, parce
-qu'une fille qui me ressemble est sur
-le point de s'installer sur l'île.
-(	촀\0
-\0SÉRIEUSEMENT ?! Mais qu'est-ce
-que ça peut bien faire ?
-\0 (촀\0Et puis elle
-est où d'abord ?
-\0 Je la vois pas, moi !
-(
-촀\0C'est pas méga chelou comme
-façon de sélectionner les résidents ?\0\0(9촀\0Qu'est-ce qui se passe si tu portes le
-même t-shirt que le voisin ?
-\0 Hop, on
-te balance dans un avion, bye-bye ?\0\0(촀\0Heureusement que tu es là pour
-remonter le niveau sur l'îlen\0\0
-\0 J'aurais
-aimé être ta voisine, n'empêche."
+par hasard,
+\0 quand j'y étais.
+(4촀\0Dis,
+\0 ça te dérange si je vais voir s촀 et que je lui propose de déménager ?"
+"313_a","Pas d'objection !"
+"313_b","Nan, pas 2촀luielle\0."
+"314","(촀\0Oh,
+\0 euh, 
+\0d'ac. Ça, c'est un non de
+chez non. OK, j'ai imprimé.\0\0(촀\0Je viens de prendre un sacré coup,
+mais bon.
+\0 ()촀\0Comme on dit, une occase
+de perduen\0\0 une occase de perdue.
+Si c'est pas ici que je perce, 
+\0(촀\0ça sera
+autre part, n\0 !"
 "404","J'ai eu une conversation moisie (촀\0au
 \0bureau des résidents\0￿.
 \0 Je te préviens,
@@ -265,17 +267,6 @@ c'est pas bonn\0\0
 \0< (촀\0Qui sait,
 peut-être qu'on arrivera à être
 voisin2\0es un jour, n\0."
-"405","(8촀\0Je reviens du \0bureau des résidents\0￿,
-y a plus une seule parcelle de dispo
-pour me construire une maison !
-()촀\0J'ai bien proposé de me faire une
-cabane dans un arbre, ou même
-de vivre sur un bateaun\0\0\0\0(6촀\0Rien à faire !
-\0 Soi-disant qu'il y
-aurait des soucis de permis de
-construire et de lois maritimesn\0\0
-(촀\0Ça casse le mythen\0\0 Moi qui croyais
-que cette île était fun, n\0."
 "406","($촀\0J'ai une nouvelle !
 \0< (8촀\0J'ai fait du forcing
 au \0bureau des résidents\0￿n\0\0 
@@ -284,7 +275,11 @@ au \0bureau des résidents\0￿n\0\0 
 je peux emménager tout de suite !
 (촀\0Qui c'est qui va passer la nuit à faire
 des cartons, n\0 ?
-\0 (촀\0Ça va être l'éclate, n\0 !"
+\0 (촀\0Ça va être l'éclate !\0\0(촀\0Mais j'y pense, on s'est pas encore
+vraiment présenté2\0es ! Tu dois être
+n\0, j'ai bon ?
+Moi, c'est n
+\0. Et tu es pas encore au courant, mais je suis ta voisine préférée,(촀\0 lol !"
 "410","(8촀\0
 \0Quand mêmen\0\0
 \0 Je devrais peut-être
@@ -302,30 +297,12 @@ pas pleurern\0\0
 \0 (촀\0
 \0Bah voilà, c'est la
 totale, n\0 !"
-"421","(8촀\0Un sosie ?
-\0 Sur cette île ?
-\0(
-Je demande à voir !
-\0 Remarque,
-n\0n\0\0\0\0(5촀\0Vu comment je suis ZE influenceuse
-du moment, 
-\0je ne peux en vouloir à
-personne de vouloir m'imiter !"
-"422","(촀\0OK. Elle me ressemble. Mais est-ce
-qu'elle sait chanter ?
-\0 Danser ?\0\0(촀\0Enfin bon, c'est râpé, il faut que je
-me fasse une raison. (촀\0Merci pour
-l'invit, n\0 !"
 "423","(촀\0Une île pleine à craquern\0\0 ça fait
 un max de fans potentiels.\0\0(촀\0Je sais ! La première date de ma
 prochaine tournée, ce sera ici,
 n\0 !\0\0(촀\0Les billets devraient pas tarder à
 être dispo en préventen\0\0 Je compte
 sur toi pour passer le mot !"
-"424","()촀\0Cette île est victime de son succèsn\0\0
-(촀\0JE suis victime de son succès, lol !
-\0\0\02\0n\0, on se dit au revoir ?
-\0 Je t'interdis de prononcer le mot « ⁠adieu », n\0 !"
 "504","()촀\0Depuis que je campe sur cette île,
 il m'arrive que des trucs de dingue.
 \0

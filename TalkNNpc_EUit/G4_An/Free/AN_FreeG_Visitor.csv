@@ -7,7 +7,7 @@ la specialità di n!\0?"
 "001_b","(촀\0Uno di quelli?"
 "002","<
 ￿"
-"003","<￿￿"
+"003","<"
 "004","(3촀\0Hai indovinaton\0\0 stavolta. 
 \0()촀\02\02\0n촁 sono di questo posto. 
 \0(Non dimenticarti di comprarne un paio!"
@@ -48,10 +48,12 @@ più, n\0!"
 Devono ancora sistemare un po' di
 cose, ma un giornon\0\0
 \0 (촀\0lo sarà!"
-"017","<"
+"017","<
+"
 "021","<ᰀᤀ촀"
 "022","<ᴁᤀ촀"
 "023","<Ḃᤀ촀"
+"024","<ἃᤀ촀"
 "025","(""촀\0Devi assolutamente dare un'occhiata
 al \0museo\0￿.
 \0( (촀\0È l'orgoglio della nostra
@@ -74,49 +76,46 @@ vedere i fossili del \0museo\0￿. 
 \0C'è anche
 2\0
 !"
-"101","<\0fi"
-"102","(촀\0Non potevi proprio fare a meno
-di n!\0, vero? 
+"201","<\0ÊÒ"
+"202","(촀\0Non potevi proprio fare a meno di n!\0, vero? 
 \0Ecco perché sei qui! (5촀\0
 \0O sei qui per me?"
-"102_a","Sono qui solo per te!"
-"102_b","Di certo non per te!"
-"103","(촀\0Dici sul serio?! Beh, io stavo solo
+"202_a","Sono qui solo per te!"
+"202_b","Per l'isola, chiaro."
+"203","(촀\0Dici sul serio? 
+\0Oh, io stavo solo
 scherzando, man\0\0
-\0 (2촀\0Behn\0\0 
-\0grazie!\0\0(%촀\0Se dovesse servirti qualcosa,
-\0( fammi
-sapere ((촀\0e cercherò di non farti
-aspettare troppo, 
+\0 (2촀\0Beh, 
+\0grazie!\0\0(%촀\0Se dovesse servirti qualcosa,
+fammi sapere. 
+\0((촀\0Cercherò di non
+farti aspettare troppo, 
 \0ecco."
-"104","(촀\0Viva la sincerità! 
-\0((촀\0Comunque non ti
-avrei biasimato se mi avessi mentito,
-n\0.\0\0(촀\0Ma ti capisco: n!\0 è un posto meraviglioso.
-\0( (%촀\0E poi, tu...
-\0 ammetto che mancavi a tutti, qui."
-"105","(촀\0Ehi, n\0! 
-\0((%촀\0Come stai? Com'è la tua nuova casa?"
-"106","<"
-"106_01","($촀\0Hai già fatto amicizia con i nuovi
+"204","(촀\0Viva la sincerità! 
+\0((촀\0Comunque se mi
+avessi mentito, non ti avrei certo
+biasimat2oa, eh!\0\0(촀\0Però ti capisco: 
+\0n!\0 è un posto meraviglioso.
+\0( ($촀\0Grazie di essere passat2oa, n\0!"
+"210","(촀\0Come va, n\0? 
+\0((&촀\0Che succede 2\0 n""\0 da quando me ne sono andata?"
+"211","<"
+"211_01","($촀\0Hai già fatto amicizia con i nuovi
 vicini?
-\0( (7촀\0Beh, conoscendotin\0\0 la
-risposta sarà sì!
-(%촀\0A te basta fulminare qualcuno con il
-tuo sorriso mentre cammini.
-\0( (촀\0E ZAC!
-\0
-Amici in un istante, n\0!"
-"106_02","(촀\0Hai già piantato qualche fiore nella
+\0( (7촀\0Beh, conoscendoti la risposta
+sarà sì!
+(%촀\0A te basta sfoggiare quel sorriso
+mentre cammini en\0\0 
+\0(촀\0zac!
+\0 Amici in
+un istante, n\0!"
+"211_02","(촀\0Hai già piantato qualche fiore nella
 tua nuova isola? 
 \0((촀\0Trattali bene e loro
-tratteranno bene te, n\0!"
-"106_03","($촀\0Hai qualche insetto o qualche pesce
-raro?
-\0( (
-촀\0Secondo me su altre isole ci
-sono esemplari mai visti qui!
-(촀\0E mi immagino te in giro con il retino
-a caccia di ogni pesce e insetto che
-ti capita sotto tiro!
-\0( (6촀\0È tipico di te!"
+tratteranno bene te, n\0!"
+"211_03","Qui non mi dispiace affatto man\0\0
+
+\0(9촀\0lo ammetto, a volte mi manca un
+po' la mia vecchia isola.\0\0(7촀\0Uno di questi giorni devo farci
+un salto e vedere se è cambiato
+qualcosa, n\0."

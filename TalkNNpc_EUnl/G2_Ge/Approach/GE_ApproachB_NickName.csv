@@ -1,14 +1,14 @@
 ﻿"label","text"
 "001","(""촀\0Raad eens? (4촀\0Ik heb een nieuwe bijnaam voor jou verzonnen, n\0!  "
 "001_a","(\0촀\0Wat dan?"
-"001_b","(\0촀\0Dat was niet nodig."
+"001_b","Dat was niet nodig."
 "002","(촀\0Nou, n\0, ik heb dus 
 \0echt
 \0 heel
 \0 héél
 \0 hard nagedacht om iets voor jou te verzinnen?\0\0Ik bedoel, (%촀\0""n\0"" is echt superleuk, weet je? Maar ik heb iets nieuws in gedachten!"
 "002_a","(\0촀\0Wat dan?"
-"002_b","De oude is prima."
+"002_b","(\0촀\0De oude is prima."
 "003","($촀\0Hé! 
 \0Weet je,
 \0 ik heb gehoord 
@@ -67,11 +67,11 @@ proberen iets anders te verzinnen!"
 "105","( 촀\0""2\0n\0""?
 \0 (&촀\0Wacht, is dat niet precies hetzelfde? Is dat oké?"
 "105_a","Ja!"
-"105_b","Oeps, een momentje."
+"105_b","(\0촀\0Oeps, een momentje."
 "106","(촀\0Ja, dus? 
 \0(&촀\0Het is supercool om je ""⁠n\0⁠"" te noemen? Nu, zeg maar?"
 "106_a","Supercool!"
-"106_b","Een momentje!"
+"106_b","(\0촀\0Een momentje!"
 "107","( 촀\0Dus, 
 \0over wat voor bijnaam 
 \0droom

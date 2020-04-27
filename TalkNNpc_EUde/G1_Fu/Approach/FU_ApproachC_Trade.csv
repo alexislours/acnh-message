@@ -1,7 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Ist das etwa...?
 \0 Ja!
-\0 (촀\0Du hast 2""촀
+\0 (촀\0Du hast 2""촀
 eineneineein
 2촁}\0\0 dabei!\0\0(9촀\0Du kannst das nicht wissen, aber
 genau so was suche ich schon seit
@@ -10,19 +10,16 @@ Ewigkeiten!
 \0($촀\0 dich
 davon zu trennen? ('촀\0Natürlich nicht
 umsonst!
-(\0촀\0Ich würde dir im Tausch m2""đ촀
+(\0촀\0Ich würde dir im Tausch m2""Ē촀
 eineneineein
-2촁}\0 dafür
-geben.
+2촁}\0 dafür geben.
 \0(&촀\0 Was sagst du?"
 "001_a","Gerne!"
 "001_b","Ich hänge dran..."
 "002","(촀\0Könnte ich dich irgendwie überreden,
 \0
-d2""촀
-eineneineein 2촁}\0\0
-($촀\0für etwas anderes einzutauschen?
-(%촀\0Ich verrate dir aber erst, was du
+d2""촀
+eineneineein 2촁}\0\0 ($촀\0für etwas anderes einzutauschen?\0\0(%촀\0Ich verrate dir aber erst, was du
 bekommst,
 \0 wenn du einverstanden
 bist...
@@ -36,26 +33,22 @@ bist...
 Preisausschreiben gewonnen.
 (촀\0Leider etwas, das ich schon besitze:
 \0
-2""đ촀
+2""Ē촀
 eineneineein 2촁}\0.
 \0
 (촀\0Was für ein Pech!
 (촀\0Moment mal... 
-\0(%촀\0Willst du 2đ촀ihnsiees vielleicht
+\0(%촀\0Willst du 2Ē촀ihnsiees vielleicht
 haben?
-\0 (촀\0Im Tausch gegen d2""촀
+\0 (촀\0Im Tausch gegen d2""촀
 eineneineein
 2촁}\0\0?"
 "003_a","Klaro!"
 "003_b","Tut mir leid, aber..."
-"004","( 촀\02\0n\0, ich hab's mal
-wieder geschafft.\0\0()촀\0Ich habe mir 2""đ촀
-eineneineein
-2촁}\0 gekauft.
-\0
-(촀\0Dabei hab ich schon 2$đ촀
-eineneineeins...
-(9촀\0Ich könnte 2đ촀ihnsiees natürlich zum
+"004","( 촀\02\0n\0, ich hab's mal wieder geschafft.\0\0()촀\0Ich habe mir 2""Ē촀
+eineneineein 2촁}\0 gekauft.
+\0 (촀\0Dabei hab ich schon 2$Ē촀
+eineneineeins...\0\0(9촀\0Ich könnte 2Ē촀ihnsiees natürlich zum
 Laden zurückbringen, aber dann
 mache ich einen herben Verlust!\0\0('촀\0Was mache ich nur...
 \0 (촀\0Oh, da kommt
@@ -64,10 +57,9 @@ mir eine Idee! 
 einen Tausch eingehen?
 (
 촀\0Zum Beispiel...
-\0 (&촀\0gegen 2,촀diesen
-diesedieses
-2촁}\0\0,
-2촀dendiedas du da hast?"
+\0 (&촀\0gegen 2,촀diesen
+diesedieses 2촁}\0\0,
+\0 2촀dendiedas du da hast?"
 "004_a","Klingt gut!"
 "004_b","Nee, nichts für mich."
 "100","(촀\0Ui, du bist 2(der Bestedie Beste!
@@ -80,17 +72,15 @@ viel verlangt von mir.
 \0 (\0촀\0Entschuldige
 bitte,
 \0 (촀\0n\0."
-"102","(촀\0Danke, n\0!
-\0 Ich hoffe,
-du bist mit dem Tausch genauso
-zufrieden wie ich,
+"102","(촀\0Danke,
+\0 n\0!
+\0 Ich hoffe, 
+\0du bist mit dem Tausch genauso zufrieden wie ich,
 \0 n\0."
 "200","(촀\0Sehr gut!
-\0( (촀\0Dann tauschen wir mal...\0\0(%촀\0D2\0}\0\0
-gegen... 
+\0( (촀\0Dann tauschen wir mal...\0\0(%촀\0D2\0}\0\0 gegen... 
 \0(9촀\0Trommelwirbel...
-\0
-(촀\0m2""đ촀
+\0 (촀\0m2""Ē촀
 eineneineein 2촁}\0!"
 "201","(촀\0Ich verstehe.
 \0 (\0촀\0Du willst dein Glück
