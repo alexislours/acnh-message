@@ -4,10 +4,8 @@
 and only gateway to the skies,
 \0(촀\0
 the \02\0
-
-\0n	\0
-
- Airport\0￿.
+\0n	\0
+ Airport\0￿.
 (촀\0Nice to meetcha—
 \0I'm \0Orville\0￿,
 ground crew for Dodo Airlines.\0\0Dodo Airlines: 
@@ -70,10 +68,8 @@ anything to tell me?"
 and only gateway to the skies,
 \0(촀\0
 the \02\0
-
-\0n	\0
-
- Airport\0￿.
+\0n	\0
+ Airport\0￿.
 (&촀\0How can I help you out today?"
 "002_a","I wanna fly!"
 "002_b","I want visitors."
@@ -123,19 +119,15 @@ official, (&촀\0where didja want to go?"
 and only gateway to the skies,
 \0(촀\0
 the \02\0
-
-\0n	\0
-
- Airport\0￿.
+\0n	\0
+ Airport\0￿.
 (촀\0Oh, it's you!
 \0(촀\0 Good timing!"
-"021_01","(
-촀\0Hmn"
+"021_01","(촀\0Hmn"
 "021_02","(촀\0Hang on a sec—
 \0how'd you get
 in here?
-\0(
-촀\0 Coulda swore I locked
+\0(촀\0 Coulda swore I locked
 the front doorn\0\0\0\0(촀\0Eh, doesn't matter. 
 \0We're still getting
 set up in here, son\0\0
@@ -269,8 +261,7 @@ to right nown\0\0 
 "103","Oh, hang on—
 \0(&촀\0which island you
 wanna go to?"
-"104","(
-촀\0Looks like we got a flight for
+"104","(촀\0Looks like we got a flight for
 s촀 right nown\0\0
 \0
 (&촀\0That where you wanted to go?"
@@ -284,8 +275,7 @@ capacity and not taking visitors."
 "105_a","Can you check again?"
 "105_b","I'll try another time."
 "106","(촀\0Hang on!
-\0(
-촀\0 You need a special
+\0(촀\0 You need a special
 \0Dodo Code™\0￿ to visit this island.
 \0
 (\0촀\0Couldja gimme those four digits?"
@@ -296,14 +286,12 @@ entering it again?"
 "107_a","Let me try again."
 "107_b","Eh, never mind."
 "108","(촀\0Wuh-oh!
-\0(
-촀\0 Looks like we're getting
+\0(촀\0 Looks like we're getting
 interferencen\0\0 Hang onn\0\0 
 \0((촀\0\0KSomeone not
 put their NookPhone into airplane mode again?\0d"
 "108_01","(촀\0Wuh-oh!
-\0(
-촀\0 Looks like we're getting
+\0(촀\0 Looks like we're getting
 interferencen\0\0 Hang onn\0\0 
 \0((촀\0\0KSomeone not
 put their NookPhone into airplane mode again?\0d"
@@ -366,8 +354,7 @@ just try it again later.
 host a different way,
 \0 it might be
 quicker to send 'em a message!
-(
-촀\0Maybe something like, ""\0I wanna come
+(촀\0Maybe something like, ""\0I wanna come
 visit,
 \0 but first I need you to stop
 chatting and close your NookPhone\0￿.""
@@ -392,8 +379,7 @@ just try it again later.
 host a different way,
 \0 it might be
 quicker to send 'em a message!
-(
-촀\0Maybe something like, ""\0I wanna take
+(촀\0Maybe something like, ""\0I wanna take
 off,
 \0 but first I need you to stop
 chatting and close your NookPhone\0￿.""
@@ -677,8 +663,7 @@ back anytime!"
 "900_01","(&촀\0Huh? 
 \0Harv's Islandn\0\0
 \0
-(
-촀\0Where couldn\0\0
+(촀\0Where couldn\0\0
 \0(촀\0\0\0(촀\0
 \0OH! 
 \0I know!
@@ -712,10 +697,8 @@ over and hear the whole rigmarole."
 and only gateway to the skies,
 \0(촀\0
 the \02\0
-
-\0n	\0
-
- Airport\0￿."
+\0n	\0
+ Airport\0￿."
 "999_02","(%촀\0So yeah, we've got a lotta services
 here, 
 \0(촀\0but we can only offer 'em to

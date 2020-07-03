@@ -15,13 +15,17 @@ nostra sartoria che costa fino a
 Z.
 \0(촀\0 Usali quando vuoi!"
 "003","(촀\0Quello è il nostro \0camerino di prova\0￿!
-\0 Usalo per provarti quello che vuoi.\0\0
+\0
+Usalo per provarti quello che vuoi.\0\0
 \0Se trovi qualcosa che ti piace, puoi
 acquistarlo subito lì dentro!\0\0()촀\0Il camerino ti permette di vedere se
 gli articoli che ti piacciono ti stanno
-bene
-\0 e di comprarli con facilità.
-(촀\0Usalo pure quando vuoi!"
+bene.
+(촀\0Inoltre, puoi provare più articoli
+insieme in una sola volta! 
+\0Pratico,
+eh? 
+\0(촀\0Usalo pure quando vuoi!"
 "010","<"
 "010_01","(촀\0Che meraviglia!
 \0 Grazie mille!"
@@ -62,3 +66,14 @@ nuovo te stess2oa."
 l'effetto di una bacchetta magica.
 \0
 (촀\0Un cambiamento alla volta, OK?"
+"021","(촀\0Oh, mi dispiace molto,
+\0 ma non puoi
+utilizzare il camerino se indossi una
+muta.
+(촀\0Ti prego di tornare quando te la sarai
+tolta."
+"022","(\0촀\0Detto questo, 
+\0non puoi usarlo
+quando indossi una muta.
+\0 (촀\0Torna
+quando l'avrai tolta, OK?"

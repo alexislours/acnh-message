@@ -6,8 +6,7 @@ el préstamo!
 (촀\0No esperaba menos de ti,
 pero ocasiones como estas
 hay que celebrarlas, ¿sí?
-(
-촀\0También es un buen momento para
+(촀\0También es un buen momento para
 reflexionar sobre lo que tienes y ver
 lo que necesitas,
 \0 sí, sí.
@@ -23,8 +22,7 @@ más información, ¿sí?"
 de tu propia y ya pagada casa!
 \0
 (5촀\0Seguro que te sientes genial, ¿sí?
-(
-촀\0Aunque podría mejorarse si le
+(촀\0Aunque podría mejorarse si le
 añadieras otra habitación, ¿sabes?\0\0(촀\0Que mis comentarios no interfieran
 en tus decisiones, ¿sí?\0\0(%촀\0Pero no dudes en hablar conmigo si
 te interesa lo que acabo de decirten"
@@ -73,8 +71,7 @@ manejar tus finanzas,
 (1촀\0Aún recuerdo cuando tu casa
 de dos plantas era una humilde
 tienda de campañan\0\0
-(
-촀\0Quizá estés pensando que ya
+(촀\0Quizá estés pensando que ya
 no necesitas más espacio, ¿verdad?\0\0(&촀\0Pero no estaríamos viviendo en esta
 isla paradisíaca si tuviésemos
 aversión al riesgo, ¿sí?
@@ -154,8 +151,7 @@ con bayas.\0\0(촀\0¡Pero no te preocupes!
 a plazos, en las cantidades que más
 te convengan.\0\0(촀\0Efectúa los pagos con el bayero
 automático de la \0terminal Nook\0￿, ¿sí?"
-"012_05","(
-촀\0Creo que eso es todo lo que tengo
+"012_05","(촀\0Creo que eso es todo lo que tengo
 que contarte sobre casas por hoyn\0\0
 \0
 (촀\0¡Pero tengo una sorpresita!
@@ -206,21 +202,33 @@ ganará muchos enteros!"
 "041_03","(촀\0¡El préstamo por la reforma!
 \0
 Asciende a \0548 000 bayas\0￿, ¿sí?"
-"041_04","(\0촀\0Y aprovecho para comentarte
-otra cosan\0\0
-\0 Ahora que has ampliado
-mucho tu casan\0\0
-(촀\0¡Estoy en posición de ofrecerte
+"041_04","(\0촀\0Y aprovecho para comentarte otra
+cosa,
+\0 ahora que has ampliado
+bastante tu casa.
+(촀\0¡Ya estoy en posición de ofrecerte
 nuestros estupendos servicios
 de \0personalización\0￿!
-Ya no hablo de aumentar la superficie
+()촀\0Ya no hablo de aumentar la superficie
 de tu casa, sino de darle tu toque
 a su \0exterior\0￿.
-()촀\0Lo que podemos ofrecerte dependerá
-del tamaño de tu casa, peron\0\0\0\0(촀\0esto se paga por adelantado,
-sin préstamos,
-\0 así que podrás decidir
-fácilmente lo que quieres hacer."
+(촀\0Esto se paga al contado.
+\0 Así podrás
+decidir qué quieres (촀\0sin preocuparte
+de préstamos adicionales.
+(촀\0Las opciones dependerán del tamaño
+de tu casa,
+\0 pero podrás cambiar
+cosas como el tejado o el buzón.
+( 촀\0Y, hablando del \0buzón\0￿,
+\0 (촀\0además del
+diseño, también puedes cambiar
+su \0posición\0￿.
+()촀\0Agarra el buzón con \0\0￿
+\0 y colócalo
+donde más te guste.
+\0(촀\0 Me aseguraré
+de que siempre te llegue el correo."
 "051_01","(&촀\0Ahora tu casa tiene otra habitación,
 ¿sí?
 \0 (촀\0¡Con ella, tu calidad de vida
@@ -244,27 +252,15 @@ de interiores!"
 "061_03","(촀\0¡El préstamo por la reforma!
 \0
 Serán \01 248 000 bayas\0￿, ¿sí?"
-"061_04","(\0촀\0Te comento una cosa más, ¿sí?\0\0(촀\0Otra posibilidad que ofrece nuestro
-servicio de personalización
-es la de \0cambiar la fachada\0￿.
-(촀\0Si, además del tejado, estrenas
-fachada y buzón,
-\0 ¡será como si
-tuvieras nueva toda la casa!
-( 촀\0Y,
-\0 hablando del \0buzón\0￿,
-\0(촀\0 además del
-diseño,
-\0 también puedes cambiar
-su \0posición\0￿.
-()촀\0Agarra el buzón con \0\0￿ y colócalo
-donde más te guste.
-\0(촀\0 Me aseguraré
-de que te llegue el correo.
-Eso es todo.
-\0(촀\0 Espero que te animes
-a cambiar el aspecto de tu hogar,
-¡sí, sí!"
+"061_04","(\0촀\0Te comento una cosa más, ¿sí?\0\0(촀\0Como parte de nuestro servicio
+de personalización,
+\0 ahora tienes
+la opción de \0cambiar la fachada\0￿.
+(1촀\0Imagina cambiar de fachada, tejado,
+puerta y buzónn\0\0
+\0
+\0 (!촀\0¡Te sentirás como
+si estuvieses estrenando casa!"
 "071_01","(촀\0Ya tienes sótano en casa, ¿sí?\0\0No hay muchos insulanos con
 una casa tan impresionante
 como la tuyan"

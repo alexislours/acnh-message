@@ -22,8 +22,7 @@ mes temps libres."
 \0
 (촀\0Sais-tu que ma photo a été publiée
 dans un magazine de mode?
-(
-촀\0Je me demande comment les gens
+(촀\0Je me demande comment les gens
 réagiraient s'ils l'apprenaientn\0\0
 \0((6촀\0
 Penses-tu qu'ils seraient jaloux?
@@ -32,22 +31,44 @@ Penses-tu qu'ils seraient jaloux?
 len\0\0
 \0( le journal gratuit de mon village
 natal.
-\0
-(2촀\0 Sur la dernière page."
+\0(2촀\0 Sur la dernière page."
 "020_02","(촀\0Mes amis racontent partout que je
 me suis installée sur cette île pour
 fuir les tracas de la vie moderne.
 (촀\0Et tu ne sais pas la meilleure!
-\0
- Je
+\0 Je
 serais partie en catastrophe
-\0
-(촀\0 pour
+\0(촀\0 pour
 retaper mes chakras rabougris!
 (%촀\0Certes, la vie insulaire me fait du
 bienn\0\0 
 \0(촀\0mais qu'on discute dans mon
 dos de mes chakras, ça m'exaspère!"
+"021","(촀\0Oh n\0, il faut absolument que je te parle de ma nouvelle émission préférée!"
+"022","<"
+"022_01","()촀\0Trois concurrents sont parachutés
+sur une île et doivent se débrouiller 
+pour survivre.
+(촀\0Et ils ont juste un2촀\0e\0 촀, 2\0촁 et 2\0촂!\0\0(촀\0Jamais je ne manque un épisode!
+\0
+(촀\0Et chaque épisode, je me demande 
+qui accepterait de participer à ça."
+"022_02","()촀\0Elle plonge dans la vie tumultueuse
+d'une vedette 2
+de d'촁 aussi adulée que polémique.\0\0('촀\0Normalement, 2\0촁 ne m'intéresse guère. 
+\0(2촀\0Mais là, j'avoue que je suis rivée à l'écran.\0\0(촀\0C'est bien simple : je m'y mettrais
+tout de suite si seulement je n'étais
+pas allergique à la sueur."
+"022_03","()촀\0On suit un jeune cuisinier gravissant
+les échelons de la gloire culinaire à
+grands coups de recettes innovantes.
+La dernière fois, il a même mélangé
+(촀\02\0촀 et 2\0촁!\0\0(촀\0Ah, 2&mon chouma chérie, ce n'était pas joli à
+voir, mais au final, (촀\0les juges ont
+adoré!
+(촀\0Et depuis, j'ai des envies 2
+de d'⁠촀 et 2
+de d'⁠촁 tous les jours!"
 "101","<"
 "101_01","(촀\0Je vis peinture,
 \0 je mange peinture,
@@ -148,8 +169,7 @@ dessus pour devenir un exemple
 (%촀\0« Bien le bonjour! »
 \0
 ($촀\0« Bonsoir! »\0\0(\0촀\0N'hésite pas à saluer tes amis,
-(촀\0même si tu n'as rien à leur dire.\0\0(
-촀\0En fait,
+(촀\0même si tu n'as rien à leur dire.\0\0(촀\0En fait,
 \0 ces expressions sont un peu
 comme des formules magiques qui
 renforcent les liens entre les gensn"

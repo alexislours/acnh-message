@@ -169,7 +169,7 @@ dir eine neue Strategie zurechtlegen.\0\0(촀\0Weitere Infos gefällig? 
 vielleicht noch die eine oder andere
 Durchsage für dich zur Hand.
 (\0촀\0Also, 
-\0alles Roger bei dir? 
+\0alles roger bei dir? 
 \0(촀\0Dann mal
 vollen Schub und los geht's!
 \0
@@ -215,8 +215,7 @@ was Vorschriften angeht."
 Fingerzeig,
 \0 ja?
 \0(%촀\0 Roger. 
-\0(
-촀\0Lass mich
+\0(촀\0Lass mich
 kurz überlegenn"
 "046_0","($촀\0Wusstest du schon, 
 \0dass \0Obst\0￿ deine
@@ -402,11 +401,9 @@ nach. 
 ($촀\0Bereit zum Abheben?"
 "054_a","(%촀\0Jawoll!"
 "054_b","('촀\0Nee, noch nicht."
-"055","Wenn wir erst mal abgehoben haben,
+"055","(9촀\0Wenn wir erst mal abgehoben haben,
+\0
 können wir die Insel dieser \0Mai-
-Feierei-Tour\0￿ nicht wieder anfliegen.
-\0Nicht, dass es hier noch großartig
-was zu tun gäben\0\0\0￿ Und, bist du
-bereit zum Abflug?"
+Feierei-Tour\0￿ nicht wieder anfliegen.\0\0($촀\0Bist du bereit zum Abflug?"
 "055_a","(%촀\0Jawoll!"
 "055_b","('촀\0Nee, noch nicht."

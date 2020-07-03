@@ -64,8 +64,7 @@ ne sono certa. 
 per celebrare il mio giorno speciale.
 
 \0Forza, godiamoci questa festa!"
-"010","(
-촀\0Aspetta un attimon\0\0 Ci siamo già
+"010","(촀\0Aspetta un attimon\0\0 Ci siamo già
 visti prima?
 \0 (촀\0Credo proprio di no!\0\0(""촀\0Ciao, io sono n
 \0,
@@ -75,8 +74,7 @@ ma anche una nuova amicizia è un
 bellissimo regalo!"
 "011","($촀\0L'hai dimenticato a casa, eh?"
 "014","(촀\0Che bel pacco regalo! 
-\0(
-촀\0Chissà che
+\0(촀\0Chissà che
 cosa ci sarà dentron"
 "015","(촀\0Oooh, questo pacchetto regalo è
 fatto molto bene! 
@@ -109,8 +107,7 @@ di 2""촀questiqueste\0."
 Almeno conosci i miei gusti."
 "020","(촀\0Oh, che meraviglia!
 \0 Adoro
-2\0}\0\0.\0\0(
-촀\0Un attimo però, c'è qualcosa che
+2\0}\0\0.\0\0(촀\0Un attimo però, c'è qualcosa che
 non tornan\0\0 mi sembra di 2""촀averloaverla\0
 già 2촀
 visto
@@ -247,8 +244,8 @@ stata davvero diligente."
 festeggiare insieme a men\0\0 (4촀\0Non so
 come esprimere la mia gratitudine."
 "058","(:촀\0Tutti gli anni mi ripeto che non devo
-piangeren\0\0\0\0(촀\0M-ma vedere i m-miei amici ri-riuniti
-a festeggiare m-mi rende cosìn\0\0
+piangeren\0\0\0\0(촀\0M-ma vedere i m-miei amici r-riuniti
+a festeggiare m-mi rende c-cosìn\0\0
 feliceeeen\0\0 Uaaah!"
 "060","(2촀\0Ho una confessione da farti, n\0n\0\0 Nel profondo del mio cuore spero in un tuo regalo."
 "060_a","(\0촀\0Eccolo qui!"
@@ -266,8 +263,7 @@ questa domanda molto diretta, man\0\0
 "061_b","No. Mi dispiace..."
 "062","(촀\0Finora in questa festa c'è stato tutto
 quello che serviva. 
-\0(
-촀\0O forse dovrei
+\0(촀\0O forse dovrei
 dire quasi tutton\0\0
 (2촀\0Se un certo qualcuno stava pensando
 di dare un certo qualcosa a un certo
@@ -315,15 +311,12 @@ rivederti presto."
 28essere venutoessere venuta.
 \0 Che bel compleanno!"
 "071","(촀\0Oh, 
-\0
-n\0!
-\0
- Non ci
+\0n\0!
+\0 Non ci
 crederai! 
 \0(4촀\0Non solo mi sono trasferita
 su quest'isola, 
-\0
-man\0\0
+\0man\0\0
 (촀\0Oggi è anche il mio compleanno!
 \0(
 (촀\0Sono così felice che tu mi faccia
@@ -337,11 +330,9 @@ e l'ospite d'onore!"
 Che gioia! (촀\0Non posso credere di
 averti qui, n\0!
 Sai,(""촀\0 mi sono trasferita sull'isola
-\0
- e,
+\0 e,
 che tu ci creda o no, 
-\0
-(촀\0oggi ho anche
+\0(촀\0oggi ho anche
 un altro motivo per festeggiare.
 (촀\0Sì, perché è il mio compleanno.
 \02
@@ -352,8 +343,7 @@ perfetto per me?
 \0(
 (촀\0Benvenut2oa alla mia festa di
 compleanno!\0\0(4촀\0Non è niente di che,
-\0
- è solo una
+\0 è solo una
 festicciola in mio onore con tutti gli
 abitanti dell'isola.
 (%촀\0Avere ospiti inattesi è un grande

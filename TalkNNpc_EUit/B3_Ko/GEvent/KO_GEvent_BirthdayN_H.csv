@@ -1,7 +1,9 @@
 ﻿"label","text"
 "001","(""촀\0Aloha, n\0!
-\0 (;촀\0Sei qui per festeggiare il mio compleanno?
-\0 (촀\0Fa' come se fossi a casan\0\0 mia!\0\0AHAHAH, n\0!"
+\0 (;촀\0Sei qui per festeggiare il mio compleanno, n\0?\0\0(촀\0Fa' pure come se fossi a casan\0\0 mia!
+
+\0(촀\0AHAHAH!
+\0(촀"
 "002","(촀\0Aloha, n\0! Stai pure, se non hai proprio di meglio da fare. 
 \0(촀\0AHAHAH!"
 "003","( 촀\0Oh, n\0! 
@@ -53,7 +55,9 @@ situazione imbarazzante. 
 "009","Ah, (6촀\0anche io potrei fare una gaffe
 del genere, a dire il veron\0\0(\0촀\0 Non ti
 preoccupare, (촀\0non obbligo nessuno."
-"010","(9촀\0Uhmn\0\0 non mi pare proprio che ci conosciamo, sai?(\0촀\0 Sono n
+"010","(9촀\0Uhmn\0\0 non mi pare proprio
+che ci conosciamo, sai?(\0촀\0 Sono
+n
 \0.\0\0Non so se te ne sei accort2oa, (7촀\0ma sei
 finit2oa alla mia festa di compleanno.\0\0(촀\0Beh, visto che sei qui, (촀\0puoi restare
 a festeggiare il mio invecchiamento
@@ -91,8 +95,7 @@ cose non se ne ha mai abbastanza!"
 \0(촀\0Di certe cose si ha
 sempre bisogno!"
 "020","2\02\0}\0\0? (&촀\0Ma non stai indossando la stessa cosa?
-\0(\0촀\0 ( 촀\0Vuoi che ci vestiamo uguale?\0\0(
-촀\0Non l'ho mai fatto prima, ma per
+\0(\0촀\0 ( 촀\0Vuoi che ci vestiamo uguale?\0\0(촀\0Non l'ho mai fatto prima, ma per
 una volta 
 \0(촀\0posso anche provare!
 
@@ -144,8 +147,7 @@ Le potrei anche mangiare crude.
 \0 Cos'è,
 \0 uno schema fai da te per
 2\0}\0\0
-\0n\0\0?\0\0(
-촀\0Mmmh
+\0n\0\0?\0\0(촀\0Mmmh
 \0n\0\0 E che ci faccion\0\0\0\0(촀\0Senti,
 \0 apprezzo il gesto,
 \0 ma non
@@ -262,8 +264,7 @@ puoi partecipare a questa festa,
 \0 (\0촀\0Ma allora sapevi che abito qui?
 \0 (6촀\0Beh, se non lo sapevi:
 \0 sorpresa,
-\0 ora lo sai!\0\0(
-촀\0Guarda caso,
+\0 ora lo sai!\0\0(촀\0Guarda caso,
 \0 oggi compio gli anni.
 \0
 Eppure sono io che ti ho fatto una
@@ -292,8 +293,7 @@ spazio a sufficienza per il mio regalo.\0\0(촀\0Bene,
 \0 ecco solo per te 2\0}\0!\0\0(""촀\0È un regalo per il tuo regalo!"
 "100","(촀\0Lo sapevi che s촀 e io compiamo gli anni lo stesso giorno? 
 \0(;촀\0Strano, vero?\0\0()촀\0Almeno abbiamo risolto la questione
-con una festa sola!\0\0(
-촀\0Certo, sei costrett2oa a comprare
+con una festa sola!\0\0(촀\0Certo, sei costrett2oa a comprare
 due regali,
 \0(6촀\0 ma sono sicuro che ce
 la puoi fare. 

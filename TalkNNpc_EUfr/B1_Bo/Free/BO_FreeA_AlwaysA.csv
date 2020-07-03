@@ -5,12 +5,10 @@ je veux faire comme métier !\0\0(촀\0Je vais être un super-héros,
 "005","(촀\0Dis, n\0n\0\0 Je t'ai déjà parlé de ma collec secrète ?"
 "009","(8촀\0Dis, je peux te parler une seconde ?
 \0
-(
-촀\0Voilà, j'ai un gros problème.
+(촀\0Voilà, j'ai un gros problème.
 \0(촀\0 J'arrive
 pas à dormir sans la lumière allumée."
-"010","<
-"
+"010","<"
 "011","(촀\0Dès que j'entends un bruitn\0\0
 \0(촀\0 Ouah !
 Rien que d'y penser, ça me file les
@@ -46,8 +44,7 @@ pour pouvoir décollern\0\0
 je vais m'entraîner en rêve."
 "018","(촀\0Il y a un truc que j'aimerais bien
 apprendren\0\0
-\0 c'est comment voler.\0\0(
-촀\0J'imagine que ça doit être super
+\0 c'est comment voler.\0\0(촀\0J'imagine que ça doit être super
 difficile, sinon tout le monde
 le ferait.\0\0(\0촀\0Moi, je m'entraîne dans mes rêves,
 je suis sûr que je finirai par choper
@@ -73,13 +70,44 @@ bonne humeur.\0\0(촀\0Si j'en faisais pousser chez moi,
 je pourrais sentir ce parfum même
 quand il pleut,
 \0 ou dans mes rêvesn"
-"023","(
-촀\0Si jamais il n'y avait plus aucun2촀\0e\0
+"023","(촀\0Si jamais il n'y avait plus aucun2촀\0e\0
 n촀 dans le monde entiern\0\0\0\0(촀\0Tu crois que les gens me
 reprocheraient d'en avoir trop
 mangé ?!\0\0(촀\0Mais c'est plus fort que moi,
 c'est vraiment trop délicieux,
 n\0 !"
+"024","(5촀\0Tiens, j'ai décidé de faire un peu
+d'exercice !"
+"025","<"
+"025_01","()촀\0J'ai inventé une nouvelle technique.
+\0
+Je m'accroupis... et je me mets
+debout.
+\0( (촀\0Qu'est-ce que c'est difficile !\0\0(촀\0Maintenant, je dois lui trouver un
+nomn\0\0 Puisqu'il faut s'accroupir, je
+diraisn\0\0
+\0(촀\0 « le pliage de pattes » !"
+"025_02","()촀\0J'ai adopté une technique où il faut
+se pencher en avant bras écartés, et
+bomber le torse. 
+\0((-촀\0Haaaaaan !\0\0(2촀\0Oh, évite cet exercice après avoir
+mangé 2\0촀, ou si ton ventre est trop pleinn"
+"025_03","(촀\0J'ai découvert que j'adore bouger
+mes bras et mes jambes au son de
+la musique.
+()촀\0Ça ressemble beaucoup à de la
+danse, mais c'est vraiment de
+l'exercice, tu peux me croire !
+J'appelle çan\0\0
+\0(
+(촀\0n
+\0-fitness !"
+"025_04","()촀\0Alors je lève un bras, et je le tends
+le plus haut possible au-dessus de
+ma tête.\0\0(촀\0Ça fait très mal, mais c'est bien la
+seule solution pour avoir des bras
+extensibles,
+\0((&촀\0 comme dans les bédés ?"
 "101","<"
 "101_01","(9촀\0Dès que quelqu'un sera en danger,
 \0
@@ -104,8 +132,7 @@ quand je coupe des oignons !"
 les pelures de gomme !\0\0(4촀\0Chaque fois que j'efface quelque
 chose, je rassemble les pelures.
 \0
-J'ai déjà rempli plusieurs bocaux.\0\0(
-촀\0J'aime bien les admirer en me disant
+J'ai déjà rempli plusieurs bocaux.\0\0(촀\0J'aime bien les admirer en me disant
 qu'à l'origine, c'était des mots que
 j'avais écrits, n\0n"
 "102_02","(촀\0Je commence à avoir une belle collec
@@ -117,8 +144,7 @@ je vais faire partie de la crème de
 la crème, n\0 !"
 "102_03","(촀\0Les capsules de bouteille que j'ai
 amassées auront sûrement une
-grande valeur, un jour.\0\0(
-촀\0Je suis pas encore trop sûr de ce que
+grande valeur, un jour.\0\0(촀\0Je suis pas encore trop sûr de ce que
 je pourrai en fairen\0\0
 \0(\0촀\0 mais je trouverai
 bien quelque chose."

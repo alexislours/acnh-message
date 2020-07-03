@@ -46,17 +46,14 @@ Song nur für MICH spielen
 \0Und das heißtn\0\0
 \0(촀\0
 Ich kann frische Rüben kaufen!"
-"008","(
-촀\0Ich frage mich, 
-\0was das für ein Boot
-an der nördlichen Küste sein mag.\0\0('촀\0Ein Fischerboot scheint es nicht zu
-sein, 
-\0(4촀\0aber für ein Kreuzfahrtschiff ist
-es doch etwas zu 
-\0rustikal.\0\0(9촀\0Das ist ein Fall fürn\0\0
-\0 (촀\0Detektivin
-n
-\0!"
+"008","( 촀\0Ist dir schon dieses verdächtig
+aussehende Boot an der Nordküste
+aufgefallen,
+\0 n\0?
+()촀\0Ich finde so kleine Schiffchen ja
+eigentlich ganz niedlich, 
+\0(+촀\0aber DER
+Kahn macht mir irgendwie Angst..."
 "009","(8촀\0Weißt du, was komisch ist? 
 \0Vorhin
 hab ich beim Spazieren (+촀\0eine
@@ -105,8 +102,7 @@ bequemer und praktischer Schuhe."
 \0Eufemia \0￿reden,
 \0(9촀\0 solange sie noch
 hier ist.
-(
-촀\0Es geht um ein Sternzeichen,
+(촀\0Es geht um ein Sternzeichen,
 \0 von
 dem ein Gedicht in einem meiner
 liebsten Lyrikbände handeltn"
@@ -115,8 +111,7 @@ ich aus dem Augenwinkel etwas
 vorbeihüpfen sehen.
 Es war gelb 
 \0( 촀\0und voller positiver
-Energie!\0\0(
-촀\0Zumindest war das mein flüchtiger
+Energie!\0\0(촀\0Zumindest war das mein flüchtiger
 Eindruck, 
 \0n\0..."
 "020","(촀\0Oh,
@@ -133,6 +128,20 @@ meinem Garten anpflanzen wollte,
 für mich,
 \0 damit ich auch nichts falsch
 mache."
+"021","( 촀\02\0n\0! 
+\0So ein Glück, 
+\0dass wir zwei uns treffen!\0\0(촀\0Am Strand liegt jemand, 
+\0der ganz
+schön übel zugerichtet wurde.\0\0(촀\0Irgendwie kommt mir die Situation
+merkwürdig vertraut vor. 
+\0Ich weiß
+ja auch nicht...\0\0(\0촀\0Ich bin jedenfalls sofort losgerannt,
+\0
+(%촀\0um dich zu suchen, 
+\0n\0!\0\0(\0촀\0Aber wenn ich jetzt so drüber nach-
+denken\0\0 
+\0(촀\0Vielleicht hätte ich dem
+Armen lieber direkt helfen sollen."
 "100","()촀\0Ich habe gerade jemanden gesehen,
 der nicht hier auf der Insel wohnt,
 \0

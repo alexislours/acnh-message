@@ -52,16 +52,14 @@ viste prima? 
 \0(&촀\0Vivi su
 quest'isola?
 (촀\0Anche io vivo qui anche se non per
-molto ancoran\0\0 (촀\0Lascio l'isola domani.\0\0(
-촀\0Quindi la nostra sarà una conoscenza
+molto ancoran\0\0 (촀\0Lascio l'isola domani.\0\0(촀\0Quindi la nostra sarà una conoscenza
 piuttosto breven\0\0 (촀\0È triste, ma bello
 allo stesso tempo. Non credi?
 (""촀\0Ciao, ciao! Mi ha fatto piacere
 conoscerti, n\0."
 "006","(촀\0Oh, mi sembrava di conoscerti, n\0!
 \0 (촀\0Mi fa piacere rivederti.\0\0(%촀\0Sì, proprio così. 
-\0Sto per trasferirmi.\0\0(
-촀\0Solo chen\0\0 non so ancora dove, con
+\0Sto per trasferirmi.\0\0(촀\0Solo chen\0\0 non so ancora dove, con
 esattezza. 
 \0(촀\0Ma come ho potuton\0\0 non
 programmare le cose in anticipo."
@@ -157,12 +155,11 @@ ho incontrato."
 la partenza,
 \0('촀\0 non mi sembra ancora
 vero di andar via domani.
-(
-촀\0Se mi risulta così difficile lasciare
+(촀\0Se mi risulta così difficile lasciare
 questo poston\0\0 vuol dire solo 
-\0(촀\0che il tempo trascorso qui è stato speciale."
-"200","(
-촀\0È già tutto pronto per la partenza.
+\0(촀\0che il
+tempo trascorso qui è stato speciale."
+"200","(촀\0È già tutto pronto per la partenza.
 \0
 Devo solo decidere dove traslocare.\0\0('촀\0Non è da me tralasciare questi
 dettagli importanti, 
@@ -171,8 +168,7 @@ potermi sentire libera!"
 "200_a","Vieni nella mia isola!"
 "200_b","(""촀\0Buona fortuna!"
 "201","( 촀\0Hai ragione, potrei traslocare 2\0 n	\0! 
-\0(
-촀\0Ne avevamo
+\0(촀\0Ne avevamo
 già parlato, vero?\0\0(\0촀\0Sai che ti dico?
 \0 (!촀\0Ci sto! 
 \0Conoscere
@@ -237,14 +233,12 @@ triste di non poterci venire.
 \0( (촀\0È andata
 così. 
 \0Ti ringrazio ancora dell'invito."
-"214","(
-촀\0Proprio non riesco a credere che
+"214","(촀\0Proprio non riesco a credere che
 non ci sia più spazio per una casa
 sulla tua isola, n\0.
 (&촀\0Nemmeno per una piccola piccola?
 \0(
-(
-촀\0Anche sen\0\0
+(촀\0Anche sen\0\0
 \0('촀\0 forse non sarei contenta
 di una casa troppo piccola.
 (촀\0Oh!
@@ -252,16 +246,14 @@ di una casa troppo piccola.
 meglio il problema. È tutto chiaro
 ora, n\0."
 "300","Sai, 
-\0('촀\0non riesco a non pensarcin\0\0\0\0(
-촀\0Forse dovrei chiamare il \0centro
+\0('촀\0non riesco a non pensarcin\0\0\0\0(촀\0Forse dovrei chiamare il \0centro
 servizi \0￿ancora una volta?
 \0(4촀\0
 Tanto non ho nulla da perdere."
 "300_a","Buona idea!"
 "300_b","Meglio di no."
 "301","( 촀\0Oh!
-\0
- Hai ragione.
+\0 Hai ragione.
 \0 ('촀\0Meglio evitare di
 importunare oltre, n\0.\0\0(촀\0Già solo pensandoci ho mancato
 di tatto."

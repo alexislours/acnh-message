@@ -8,8 +8,7 @@ a \0NookLink\0￿?"
 "010_a","Sì."
 "010_b","Vorrei saperne di più."
 "010_c","No."
-"015","Bene, bene, n\0n\0\0(
-촀\0 Immagino tu possa già accedere a \0NookLink\0￿, sì?\0\0(&촀\0Volevi sapere di cosa si tratta?"
+"015","Bene, bene, n\0n\0\0(촀\0 Immagino tu possa già accedere a \0NookLink\0￿, sì?\0\0(&촀\0Volevi sapere di cosa si tratta?"
 "015_a","Sì, per favore!"
 "015_b","Non serve, grazie."
 "020","()촀\0E questo è tutto. 
@@ -31,16 +30,14 @@ nell'app \0Nintendo Switch Online\0￿ e
 prova a effettuare l'accesson"
 "120","(""촀\0Spero continuerai a divertirti più
 che mai qui 2\0 n	\0!"
-"150","(
-촀\0Sono desolato, ma pare che non sia
+"150","(촀\0Sono desolato, ma pare che non sia
 stato possibile configurare l'accesso.
 
 \0(&촀\0Vuoi provare di nuovo?"
 "150_a","Riproviamo."
 "150_b","Un'altra volta."
-"151","(
-촀\0Pare che in questo momento non
-sia possibile usare questo servizio.\0\0()촀\0Occore che qualcuno rimuova la
+"151","(촀\0Pare che in questo momento non
+sia possibile usare questo servizio.\0\0()촀\0Occorre che qualcuno rimuova la
 limitazione alla \0comunicazione libera
 con altri utenti\0￿ in Filtro famiglia.
 (촀\0Per adesso, 

@@ -5,8 +5,7 @@ eens van harte feliciteren. 
 \0Je hebt je
 hypotheek helemaal afbetaald!\0\0(촀\0Ik had natuurlijk niet minder
 verwacht, maar zulke dingen moeten
-gevierd worden, hm?\0\0(
-촀\0Het is ook een mooie gelegenheid om
+gevierd worden, hm?\0\0(촀\0Het is ook een mooie gelegenheid om
 eens even te reflecteren op de
 huidige stand van zaken. 
 \0Ja, ja!\0\0(촀\0Het zal vast zo zijn dat je huis op dit
@@ -27,8 +26,7 @@ eigenaar van je allereigenste, riante
 en volledig afbetaalde huis!
 (5촀\0De voldoening die je nu voelt, kan
 met geen mogelijkheid overtroffen
-worden, toch?\0\0(
-촀\0Alhoeweln\0\0 een extra kamer zou geen
+worden, toch?\0\0(촀\0Alhoeweln\0\0 een extra kamer zou geen
 kwaad kunnen. 
 \0Dat zorgt misschien
 voor nóg meer voldoeningn\0\0
@@ -78,8 +76,7 @@ vrijblijvend gesprek, hm?"
 eenvoudige tent tot een huis met
 bovenverdieping. 
 \0Wonderbaarlijk!
-(
-촀\0Je hebt nu vast geen behoefte meer
+(촀\0Je hebt nu vast geen behoefte meer
 aan extra ruimte. 
 \0En tochn\0\0\0\0(&촀\0Waar zouden we zijn als we onze
 grenzen niet opzochten? 
@@ -157,8 +154,7 @@ bedrag in grote of kleine termijnen
 terugbetalen. Wat je zelf wilt.\0\0(촀\0Betalingen maak je met behulp van
 de \0klingelautomaat\0￿ van het
 \0NookStation\0￿."
-"012_05","(\0촀\0(
-촀\0Dat is wel even genoeg gebabbel
+"012_05","(\0촀\0(촀\0Dat is wel even genoeg gebabbel
 over huizen. 
 \0(촀\0Ik heb namelijk nog een
 leuke verrassing voor je!\0\0(6촀\0Bereid je voor om versteld te staann\0\0
@@ -215,13 +211,21 @@ Dat is dan \0548.000 klingels\0￿, hm?"
 "041_04","(\0촀\0O, trouwensn\0\0\0\0(촀\0Nu je je huis genoeg hebt uitgebreid,
 
 \0kan ik je mijn diensten aanbieden om
-\0aanpassingen\0￿ te maken.\0\0Dan heb ik het niet over uitbreiden,
+\0aanpassingen\0￿ te maken.\0\0()촀\0Dan heb ik het niet over uitbreiden,
+\0
 maar over het veranderen van de
-\0buitenkant \0￿van je huis.\0\0(\0촀\0De beschikbare opties zijn
-afhankelijk van de grootte van je
-huisn\0\0\0\0(촀\0Maar je betaalt aanpassingen vooraf,
-zodat je voorrang kunt geven aan
-uitbreidingen, of juist niet."
+\0buitenkant \0￿van je huis.\0\0(%촀\0De beschikbare opties zijn
+afhankelijk van de grootte
+van je huisn\0\0\0\0(촀\0n\0\0maar de aanpassingskosten waren
+al inbegrepen, dus je hoeft er geen
+extra lening voor af te sluiten.\0\0(촀\0Dus pas alles naar hartenlust aan,
+van je dak tot aan je brievenbus!\0\0(촀\0Over je \0brievenbus\0￿ gesproken,
+\0
+je kunt nu niet alleen het uiterlijk
+aanpassen, maar ook de \0locatie\0￿!\0\0()촀\0Til hem gewoon op met \0\0￿ en zet hem
+neer waar je wilt. 
+\0Ik zorg er wel voor
+dat je post op de juiste plek belandt."
 "051_01","Plotseling
 \0(&촀\0 heeft je huis er nog een
 kamer bij, hm?
@@ -248,20 +252,11 @@ interieur!"
 Dat is dan \01.248.000 klingels\0￿, hm?"
 "061_04","(\0촀\0O, trouwensn\0\0\0\0(촀\0Een van de aanpassingen die je nu
 aan je huis kunt laten maken, is het
-plaatsen van \0andere wanden\0￿.
-(촀\0Dak, wanden, deur en brievenbusn\0\0
+plaatsen van \0andere gevels\0￿.
+(촀\0Dak, gevels, deur en brievenbusn\0\0
 \0
 Als je die allemaal vervangt, voelt je
-huis weer als nieuw!\0\0(촀\0Over je \0brievenbus \0￿gesproken,
-\0
-je kunt nu niet alleen het uiterlijk
-aanpassen, maar ook de \0locatie\0￿!\0\0()촀\0Til hem gewoon op met \0\0￿ en zet hem
-neer waar je wilt. 
-\0Ik zorg er wel voor
-dat je post op de juiste plek belandt.\0\0(촀\0Experimenteer er gerust op los. 
-\0Ik
-kan niet wachten om te zien wat je
-ervan maakt!"
+huis weer als nieuw!"
 "071_01","(촀\0Je huis heeft nu een echte kelder,
 hm?\0\0Er zijn er maar weinig met zo'n
 indrukwekkend huis als dat van jou!"

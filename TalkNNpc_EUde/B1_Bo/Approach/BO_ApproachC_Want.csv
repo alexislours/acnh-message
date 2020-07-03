@@ -90,8 +90,7 @@ würdest,
 \0 n\0?"
 "100_a","(\0촀\0Kommt aufs Angebot an."
 "100_b","(\0촀\0Ganz arg traurig!"
-"101","(
-촀\0Hmm...
+"101","(촀\0Hmm...
 \0
 Würden dich (&촀\0Z trösten?"
 "101_a","Klingt gut!"
@@ -109,7 +108,7 @@ mich wohl weiter umhören..."
 nicht länger suchen und kann
 gleich ein Nickerchen halten."
 "105","(\0촀\0Och.
-\0(촀\0 So 2#촀eineineein 촀...
+\0(촀\0 So 2$촀eineineein 촀...
 \0
 Dann bin jetzt wohl ich traurig.\0\0(촀\0Als hätte man ein tolles Leckerli
 vor sich 
@@ -148,8 +147,7 @@ Schatz und ich suche weiter,
 \0äh...
 \0
 Heißt das, du willst verkaufen?"
-"110","(
-촀\0Mal sehen...
+"110","(촀\0Mal sehen...
 \0 Äh...
 \0 Was würdest du
 zu (&촀\0Z sagen?"
@@ -210,8 +208,7 @@ trennen?
 "200_a","(\0촀\0Dein Angebot?"
 "200_b","Geht nicht."
 "201","(\0촀\0Öh... (촀\0Gute Frage!
-\0 (
-촀\0Lass mich mal
+\0 (촀\0Lass mich mal
 überlegen...
 \0 (&촀\0Z?"
 "201_a","Perfekt!"
@@ -260,8 +257,7 @@ Tag nie vergesse!"
 vergessen, dass ich das Teil je
 wollte.
 \0( (촀\0Schon passiert!"
-"303","(
-촀\0Aber wahrscheinlich werd ich
+"303","(촀\0Aber wahrscheinlich werd ich
 trotzdem vergessen, warum ich
 dieses Schmuckstück haben wollte...
 (촀\0Ach, egal!
@@ -293,8 +289,7 @@ nur geduldig warten..."
 reicht völlig aus.
 \0 (촀\0Du kannst das
 Ganze ruhig vergessen."
-"400","(
-촀\0Also...
+"400","(촀\0Also...
 \0
 (&촀\0Wie klingen Z für dich?"
 "400_a","Verkauft!"
@@ -332,15 +327,13 @@ wird's kompliziert!"
 gefragt hab!
 \0 (%촀\0Wenn ich wieder mal
 was suche, komme ich gleich zu dir!
-(
-촀\0Da fällt mir ein... 
+(촀\0Da fällt mir ein... 
 \0Du weißt nicht
 zufällig, wo meine Fernbedienung
 ist, 
 \0oder?
 \0 (촀\0Äh, he he he."
-"406","(
-촀\0Hmm...
+"406","(촀\0Hmm...
 \0 (촀\0Vielleicht sollte ich nicht
 immer alle meine Sternis für Süßes
 ausgeben, 

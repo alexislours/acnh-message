@@ -18,37 +18,31 @@
 "001_05_b","(\0촀\0¿En serio?"
 "001_101","(촀\0¿Has hablado alguna vez con s\0촀 de 촀?\0\0Pues a mí me dijo lo siguiente:
 \0
-«
-촀»n\0\0
+«촀»n\0\0
 \0 (&촀\0¿Sabías que eso es lo que le gusta?"
 "001_101_a","¡Claro!"
 "001_101_b","(\0촀\0¿En serio?"
-"001_102","()촀\0«2\0
-촀»n\0\0\0\0Esto es lo que dice s\0촀 que es su 촀 favorita."
+"001_102","()촀\0«2\0촀»n\0\0\0\0Esto es lo que dice s\0촀 que es su 촀 favorita."
 "001_102_a","¡Efectivamente!"
 "001_102_b","(\0촀\0¿En serio?"
 "001_103","()촀\0Parece que s\0촀 quiere ser esto:
-\0 «⁠
-촀⁠»n\0\0
+\0 «⁠촀⁠»n\0\0
 \0 (&촀\0¿Lo sabías?"
 "001_103_a","¡Sí que lo sabía!"
 "001_103_b","(\0촀\0Primera noticia..."
-"001_104","(촀\0«2\0
-촀»n\0\0
+"001_104","(촀\0«2\0촀»n\0\0
 \0
 Parece que esta es la afición
 de s\0촀.
 (&촀\0¿Tú lo sabías?"
 "001_104_a","¡Claro!"
 "001_104_b","(\0촀\0No lo sabía..."
-"001_105","()촀\0«2\0
-촀»n\0\0
+"001_105","()촀\0«2\0촀»n\0\0
 \0
 He oído que s\0촀 es medallista en eso, n\0."
 "001_105_a","¡Efectivamente!"
 "001_105_b","(\0촀\0¿En serio?"
-"010_01","(
-촀\0He oído que s\0촀 no escucha música ni cuando sale a correr, n\0."
+"010_01","(촀\0He oído que s\0촀 no escucha música ni cuando sale a correr, n\0."
 "010_01_a","¡Así es!"
 "010_01_b","(\0촀\0¿En serio?"
 "010_02","(9촀\0Creo que s\0촀 no es mucho de leer librosn\0\0
@@ -63,8 +57,7 @@ He oído que s\0촀 es medallista en eso, n\0."
 \0( 촀\0 ¡ni siquiera las de acción!"
 "010_04_a","Es cierto"
 "010_04_b","(\0촀\0¿De verdad?"
-"010_05","(
-촀\0Pues parece que s\0촀 no ve la tele ni para los programas de aerobic.
+"010_05","(촀\0Pues parece que s\0촀 no ve la tele ni para los programas de aerobic.
 \0 ¿Estabas al tanto?"
 "010_05_a","¡Y tan al tanto!"
 "010_05_b","(\0촀\0No..."
@@ -80,8 +73,7 @@ He oído que s\0촀 es medallista en eso, n\0."
 \0 ¿tú sabías que s\0촀 no tiene una comida favorita, n\0?"
 "010_08_a","Sí que lo sabía"
 "010_08_b","(\0촀\0¿En serio?"
-"010_09","(
-촀\0Fíjate tú que parece que s\0촀 no tiene un trabajo idealn"
+"010_09","(촀\0Fíjate tú que parece que s\0촀 no tiene un trabajo idealn"
 "010_09_a","Pues eso parece..."
 "010_09_b","(\0촀\0¡¿Qué me cuentas?!"
 "010_10","()촀\0Parece que s\0촀 no tiene ninguna afición.
@@ -93,8 +85,7 @@ He oído que s\0촀 es medallista en eso, n\0."
 "010_11_a","Pues sí..."
 "010_11_b","(\0촀\0No tenía ni idea"
 "020","( 촀\0¿Ya lo sabías?
-\0 (
-촀\0Jo, los rumores van
+\0 (촀\0Jo, los rumores van
 más rápidos que yo en mi última
 maratón, n\0n"
 "021","(%촀\0Pue sí.
@@ -140,8 +131,7 @@ no sé ni para qué te he preguntado!"
 \0
 Pues tiene que haber alguien
 que lo sepa, n\0n\0\0
-(
-촀\0Pero creo que lo más fácil será
+(촀\0Pero creo que lo más fácil será
 preguntarle directamente cuando
 nos encontremos. "
 "060_02","(9촀\0Tú tampoco lo sabesn\0\0
@@ -166,8 +156,7 @@ que preguntarle yo directamente!"
 "060_05","(9촀\0Y yo que pensaba que, si había
 alguien en esta isla que lo supiera,
 2eseesa eras tú, n\0n\0\0
-(
-촀\0Si es el deporte lo que le va en la
+(촀\0Si es el deporte lo que le va en la
 pequeña pantalla,
 \0 (촀\0¡menudo abrazo
 que le voy a dar!"
@@ -179,20 +168,17 @@ le va,
 \0 montamos una competición
 seguro!"
 "060_07","(9촀\0Así que tú tampoco lo tienes
-claro, n\0n\0\0\0\0(
-촀\0Apuesto a que lo que le mola es
+claro, n\0n\0\0\0\0(촀\0Apuesto a que lo que le mola es
 algo megarrefrescante e ideal para
 después del entrenon"
 "060_08","(9촀\0Pensaba que tú eras la persona ideal
 para preguntar sobre comida,
 n\0n\0\0
-(
-촀\0Espero que le aporte la energía
+(촀\0Espero que le aporte la energía
 suficiente como para servirle en sus
 entrenosn"
 "060_09","(9촀\0Así que tú tampoco lo sabes,
-n\0n\0\0\0\0(
-촀\0Espero que no esté pensando en
+n\0n\0\0\0\0(촀\0Espero que no esté pensando en
 quitarme mi futuro título interinsular
 de 촀n"
 "060_10","(9촀\0Pues yo pensaba que tú lo sabrías,
@@ -255,8 +241,7 @@ cosas sobre vosotros para el futuro
 programa de entreno que os prepare.
 ()촀\0El caso es que, cuando
 hablamos de 촀,
-\0 a s\0촀 le encanta esto:\0\0«2\0
-촀»n\0\0
+\0 a s\0촀 le encanta esto:\0\0«2\0촀»n\0\0
 \0
 (&촀\0¿A ti también?"
 "110_101_a","¡Ya te digo!"
@@ -266,8 +251,7 @@ hablamos de 촀,
 los datos sobre vosotros para
 prepararos el entreno perfecto.
 ()촀\0El caso es que parece ser que,
-en cuanto a 촀, a s\0촀 le encanta esto:\0\0«2\0
-촀»n\0\0
+en cuanto a 촀, a s\0촀 le encanta esto:\0\0«2\0촀»n\0\0
 \0
 (&촀\0¿A ti también?"
 "110_102_a","¡A mí también!"
@@ -279,8 +263,7 @@ a conoceros mejorn\0\0
 ()촀\0Por ejemplo, que me dijo que este
 era su sueño en la vida:
 \0
-«
-촀».
+«촀».
 (&촀\0¿Por ahí van también los tiros
 en tu caso?"
 "110_103_a","¡Por ahí van también!"
@@ -292,8 +275,7 @@ cuando os encontréisn\0\0
 ()촀\0Me dijo que esto era lo que
 más le gustaba hacer:
 \0
-«
-촀».
+«촀».
 (&촀\0¿En tu caso también?"
 "110_104_a","¡Eso mismo!"
 "110_104_b","En mi caso, no..."
@@ -302,8 +284,7 @@ más le gustaba hacer:
 preparando unas rutinitas de entreno
 para vosotros y quería saber algon\0\0
 ()촀\02\0s\0촀 me dijo que lo que mejor se le daba era esto:
-\0 «⁠⁠
-촀⁠»⁠.\0\0(&촀\0¿A ti también?"
+\0 «⁠⁠촀⁠»⁠.\0\0(&촀\0¿A ti también?"
 "110_105_a","¡A mí también!"
 "110_105_b","La verdad, no..."
 "120_01","(촀\0¡Perfecto!
@@ -409,29 +390,24 @@ hablando del tema!"
 "170_05","(촀\0A s\0촀 se le 2""dada\0dandan\0 genial 촀, ¿sabes?\0\0(촀\0Con este dato ya puedes conseguir
 medalla de oro en cualquier charla
 que tengáis, plusmarquista."
-"170_101","(촀\0Esto es lo que me dijo s\0촀 sobre 2""susu\0sussus\0 촀 2Rfavoritofavorita\0favoritosfavoritas\0n\0\0\0\0($촀\0¡«2\0
-촀»!\0\0(촀\0Ahí tienes un tema interesante para
+"170_101","(촀\0Esto es lo que me dijo s\0촀 sobre 2""susu\0sussus\0 촀 2Rfavoritofavorita\0favoritosfavoritas\0n\0\0\0\0($촀\0¡«2\0촀»!\0\0(촀\0Ahí tienes un tema interesante para
 charlar un rato cuando os encontréis,
 plusmarquista."
-"170_102","(촀\02\0s\0촀 me dijo una cosa sobre 2""susu\0sussus\0 촀 2Rfavoritofavorita\0favoritosfavoritas\0, ¿sabes?\0\0($촀\0¡«2\0
-촀»!\0\0(촀\0Te regalo este tema para cuando
+"170_102","(촀\02\0s\0촀 me dijo una cosa sobre 2""susu\0sussus\0 촀 2Rfavoritofavorita\0favoritosfavoritas\0, ¿sabes?\0\0($촀\0¡«2\0촀»!\0\0(촀\0Te regalo este tema para cuando
 quieras iniciar una conversación con
 s\0촀."
 "170_103","(촀\0Te voy a contar lo que me dijo
 s\0촀 sobre lo que le gustaría hacer en el futuron\0\0
-($촀\0¡«2\0
-촀»!\0\0(촀\0Tiene pinta de ser un tema
+($촀\0¡«2\0촀»!\0\0(촀\0Tiene pinta de ser un tema
 interesante para cuando estéis
 de cháchara, ¿no te parece?"
 "170_104","(촀\0Voy a contarte lo que me dijo
-s\0촀 acerca de lo que le gusta hacer en su tiempo libren\0\0\0\0($촀\0¡«2\0
-촀»!\0\0(촀\0Parece un tema con doble diversión:
+s\0촀 acerca de lo que le gusta hacer en su tiempo libren\0\0\0\0($촀\0¡«2\0촀»!\0\0(촀\0Parece un tema con doble diversión:
 \0
 ¡galáctico tanto para pasar el rato
 como para hablar sobre él!"
 "170_105","(촀\0Voy a decirte palabra por palabra
-lo que me dijo s\0촀 acerca de lo que se le da bestialn\0\0\0\0($촀\0¡«2\0
-촀»!\0\0(촀\0Si quieres depurar tu técnica ahí,
+lo que me dijo s\0촀 acerca de lo que se le da bestialn\0\0\0\0($촀\0¡«2\0촀»!\0\0(촀\0Si quieres depurar tu técnica ahí,
 \0
 ¡ya sabes con quién tienes que
 hablar!"
@@ -440,14 +416,12 @@ hablar!"
 puedes recomendarle algo que sí le
 llame la atención!"
 "180_02","(촀\0¡A lo mejor no estabas al tanto de
-que a s\0촀 no le van demasiado los libros!\0\0(
-촀\0Puede ser que,
+que a s\0촀 no le van demasiado los libros!\0\0(촀\0Puede ser que,
 \0 si le recomiendas
 uno de deportes cuando habléis,
 \0
 ¡se apunte al carro de la lectura!"
-"180_03","(촀\0¡2\0s\0촀 no lee cómics!\0\0(
-촀\0Cuando habléis, si le hablas de
+"180_03","(촀\0¡2\0s\0촀 no lee cómics!\0\0(촀\0Cuando habléis, si le hablas de
 alguno bueno que hayas leído, igual
 se anima a echarle un ojo."
 "180_04","()촀\0Dicen por ahí que s\0촀 no es mucho de ver cine, ¿sabes?\0\0(%촀\0A lo mejor, si se te ocurre alguna
@@ -457,8 +431,7 @@ recomendársela cuando habléisn"
 decirle lo bestiales que son
 los programas de deporte!"
 "180_06","(촀\0Resulta que a s\0촀 no le mola nada el deporte.
-\0 ¡Menudo disgusto!\0\0(
-촀\0Estaba pensando que, si habláis,
+\0 ¡Menudo disgusto!\0\0(촀\0Estaba pensando que, si habláis,
 podrías comentarle lo saludable
 que son mis tablas de ejerciciosn"
 "180_07","('촀\0Parece ser que s\0촀 no tiene ninguna bebida favorita, n\0n\0\0\0\0(%촀\0Si tú tienes alguna,

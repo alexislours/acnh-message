@@ -136,8 +136,7 @@ dich entsorgen,
 "041","(촂\0(촃\0Oh, 
 \0da hast du ja einiges für uns
 dabei! 
-\0((
-촂\0(1촃\0Ich rechne das mal kurz
+\0((촂\0(1촃\0Ich rechne das mal kurz
 durchn"
 "041_01","Da hast du ja einiges für uns!
 \0
@@ -151,8 +150,7 @@ durchn"
 Ich rechne schnell alles zusammenn"
 "041_02","(촂\0(촃\0Das ist ja eine tolle Auswahl!
 \0( Dann
-wollen wir doch mal sehenn\0\0\0\0(
-촂\0(1촃\0Wenn wir alles zusammenrechnenn\0\0
+wollen wir doch mal sehenn\0\0\0\0(촂\0(1촃\0Wenn wir alles zusammenrechnenn\0\0
 \0
 Nicht zu vergessen natürlich die
 Top-Ankäufe des Tagesn"
@@ -181,8 +179,7 @@ Wert zusammenrechnenn"
 \0(촃\0Sehr wohl!d\0 
 \0\0K...wohl!\0dd
 \0(
-(
-촂\0(1촃\0Schnell mal alles zusammenrechnen,
+(촂\0(1촃\0Schnell mal alles zusammenrechnen,
 
 \0inklusive Top-Ankäufenn"
 "045","(촂\0(촃\0Und fertig!\0\0(\0촂\0Nicht alles in deiner Auswahl ist von
@@ -519,9 +516,58 @@ Wir zahlen dir den doppelten Preisn\0\0
 "131","Von 2촀demderdem 2촂}\0\0 (%촃\0kannst du auch mehrere auf einmal kaufen. 
 \0(&촂\0Wie viele dürfen es sein?"
 "131_a","1 (\0Z\0 \0￿)."
-"131_b","5 (\0Z
- \0￿)."
+"131_b","5 (\0Z \0￿)."
 "131_c","Doch nicht..."
+"141_01","( 촂\0( 촃\0Oh! 
+\0Du spielst wohl mit dem
+Gedanken, 
+\0die hiesigen Gewässer
+zu erkunden?
+(%촂\0(\0촃\02,촀Dieser
+DieseDieses }\0\0 hier eignet sich ganz hervorragend für Schwimm- und Tauchausflüge!\0\0(촂\0(촃\0Bevor du dich aber in die Fluten
+stürzt, 
+\0hätten wir noch ein paar
+Hinweise für dich.d\0
+\0 \0KHilfreiche Hinweise!\0dd"
+"141_02","()촂\0Zunächst einmal solltest du einen
+\0Taucheranzug\0￿ anlegen, 
+\0(%촃\0wie 2,촀diesen
+diesedieses
+2촁}\0\0.\0\0(촂\0(촃\0Such dir dann am Strand oder auf
+Felsuntergrund eine Stelle und
+drücke \0\0￿, 
+\0um ins Wasser zu hopsen.\0\0()촂\0(\0촃\0Um dich anschließend durchs kühle
+Nass zu bewegen, 
+\0musst du nichts
+weiter tun, 
+\0als \0\0￿ zu drücken.\0\0(촂\0Oh, 
+\0und falls du im Wasser einen
+Schatten siehst, 
+\0(촃\0drücke \0\0￿, 
+\0um der
+Sache auf den Grund zu gehen.\0\0(촀\0(촃\0Wer weiß schon, 
+\0was sich da unten
+so für \0Meerestiere\0￿ herumtreiben.\0\0Vielleicht gelingt es dir ja sogar,
+\0
+ein Exemplar an Land zu bringenn"
+"142","So, 
+\0(촂\0damit solltest du nun über
+ausreichend Schwimm- und Tauch-
+fachwissen verfügen!d\0
+\0 \0K...Hurra!\0dd
+(\0촂\0(\0촃\0Zurück zum Geschäftlichen. 
+\0(&촂\0(&촃\0Willst du
+2,촀diesen
+diesedieses 2촁}\0\0 für Z\0 kaufen?"
+"142_a","(%촀\0Nehm ich!"
+"142_b","Erklärst du's noch mal?"
+"142_c","('촀\0Lieber nicht."
+"143","(촂\0(촃\0Selbstverständlich! 
+\0Hier noch mal
+alles, 
+\0was du beim Schwimmen im
+Meer beachten solltest.d\0
+\0 \0K...im Meer.\0dd"
 "200","(촂\0(촃\0Vielen Dank!d\0
 \0 \0K...Danke schön!\0dd(촂\0(촃\0
 Z"

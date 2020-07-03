@@ -1,7 +1,6 @@
 ﻿"label","text"
 "001","<"
-"001_01","(
-촀\0È una cosa muy positiva che siano
+"001_01","(촀\0È una cosa muy positiva che siano
 rimaste delle zone senza costruzioni
 sull'isola, verdad?
 (촀\0Dopotutto, c'è sempre bisogno
@@ -40,10 +39,11 @@ di dimora, verdad?
 \0!
 \0 Sì, gli ho dato
 un nome un po' esotico, te gusta?"
-"003","(&촀\0Sei mai stat2oa a casa di s촀?\0\0(촀\0È molto guapa, ma c'è sempre odore di 촀 e io non puedo sopportarlo!\0\0(촀\0Dai, 2""촀quantoquanta\0 촀 devi consumare al giorno per appestare così la tua intera dimora?"
+"003","(&촀\0Sei mai stat2oa a casa di s촀?\0\0(촀\0È molto guapa, ma c'è sempre odore di 촀 e io non puedo sopportarlo!\0\0(촀\0Dai, 2""촀quantoquanta\0 촀 devi consumare al giorno per appestare così la tua intera dimora?"
 "004","촊촉(촀\0Vedo che hai ancora il tuo bel da
 fare con corde e picchetti, eh? 
-\0Beh, di sicuro hai una posizione da paura!\0\0촆촃(%촀\0E tu sabes cosa dicono, verdad?
+\0Beh,
+di sicuro hai una posizione da paura!\0\0촆촃(%촀\0E tu sabes cosa dicono, verdad?
 
 \0La posizione di una casa è 
 \0(촀\0TUTTO!"
@@ -90,8 +90,7 @@ e risvegli all'alba incorniciati da
 una frizzante brezza mattutinan\0\0
 ('촀\0Ugh! 
 \0Un incubo per me!"
-"013","촊촉(
-촀\0Vivere in una casetta pequeña come questa di s\0촀 può avere i suoi vantaggi.\0\0촆촃(촀\0Ti compri un mobile firmato, che
+"013","촊촉(촀\0Vivere in una casetta pequeña come questa di s\0촀 può avere i suoi vantaggi.\0\0촆촃(촀\0Ti compri un mobile firmato, che
 tutti riconosconon\0\0 e non ti serve
 nient'altro!
 (%촀\0Di sicuro è un buon modo per
@@ -105,10 +104,8 @@ questa di s\0촀.
 non possono nascondersi da nessuna
 parte.
 \0 (촀\0E devono stare ad ascoltarti!"
-"015","촊촉(촀\0Guarda guarda! La dimora di s\0촀 ha due stanze.
-
-\0(촀\0Sai cosa farei io nella stanza extra?
-촆촃(촀\0Forse nulla. 
+"015","촊촉(촀\0Guarda guarda! La dimora di s\0촀 ha due stanze. 
+\0(촀\0Sai cosa farei io nella stanza extra?\0\0촆촃(촀\0Forse nulla. 
 \0Perderei ore a fare piani
 mirabolanti e poi alla fine la userei
 per esporre le foto delle mie sfilatas."
@@ -130,8 +127,7 @@ sono mai modesti! 
 verdad?\0\0(촀\0Esponi la tua collezione di scarpe
 griffate e fai pagare il biglietto ai
 visitatori. La trasformi in un museo!"
-"020","(&촀\0Che ne dici del negozietto di \0Mirco\0￿?\0\0(
-촀\0È l'apprendista di \0Tom Nook\0￿ e, allo
+"020","(&촀\0Che ne dici del negozietto di \0Mirco\0￿?\0\0(촀\0È l'apprendista di \0Tom Nook\0￿ e, allo
 stesso tempo, anche uno dei suoi
 più pericolosi concorrenti.
 (촀\0Bisogna tenerlo d'occhio, te lo digo.
@@ -142,13 +138,13 @@ imprenditori mitici!\0\0(3촀\0Che passione e che talento! L'isola
 potrebbe dare vita a nuove mode e
 nuove tendenze, roba da stilosi!
 (!촀\0Spero che continuino così e facciano
-della \0Bottega di Nook \0￿la destinazione culto per i modaioli di todo el globo!"
+della \0Bottega di Nook \0￿la destinazione
+culto per i modaioli di todo el globo!"
 "022","촊촉(!촀\0Uau, la \0Bottega di Nook\0￿ si è
 ingrandita!\0\0Una grande selezione di articoli
 griffati e ottimo servizio clientin\0\0촆촃(%촀\0\0\0È merito del fiuto per gli affari di
 \0Mirco\0￿ e \0Marco\0￿.
-\0((
-촀\0 Non c'è da stupirsi
+\0((촀\0 Non c'è da stupirsi
 che ci vadano tutti in quel negozion"
 "024","촊촉(촀\0Lo so, che la tenda di \0Blatero\0￿ non è
 ancora un \0museo \0￿di fama mondiale.
@@ -175,8 +171,7 @@ per ottenere un autografo? 
 \0Proprio
 qui.
 \0 (%촀\0Potrebbe arrivare chiunque!
-(
-촀\0Eh, bueno, già che ci siamon\0\0
+(촀\0Eh, bueno, già che ci siamon\0\0
 
 \0(6촀\0dove lo vuoi il mio autografo?"
 "032","(촀\0Le pietre che hanno usato sono
@@ -194,8 +189,7 @@ Brav2oa, n\0!\0\0(&촀\0Tu riesci ad hablar con \0Filomena\0�
 quando sei qui?
 \0((촀\0 Io non riesco mai a
 imbastire una conversazionen"
-"034","촊촉(
-촀\0Buenon\0\0 A quanto pare abbiamo
+"034","촊촉(촀\0Buenon\0\0 A quanto pare abbiamo
 un nuovo abitante sull'isola.
 Spero tanto che sia una chica!
 촆촃(6촀\0Non vedo l'ora di vederla e farle fare un tour di n!\0 in stile n
@@ -204,8 +198,7 @@ Spero tanto che sia una chica!
 "112","<码琀촀"
 "113","<礂琀촀"
 "114","<稃琀촀"
-"116","(
-촀\0Se dovessi descrivere il \0museo\0￿
+"116","(촀\0Se dovessi descrivere il \0museo\0￿
 usando una sola parola direin\0\0
 
 \0maravilloso-come-me
@@ -213,25 +206,20 @@ usando una sola parola direin\0\0
 (6촀\0Occhio che funziona solo se lo dici
 muy rapidamente!"
 "119","(%촀\0Non riesco a togliermi dalla cabeza
-2\0
-\0.\0\0(1촀\02)촀LoLa\0 guardo nuotare e immagino
+2\0\0.\0\0(1촀\02*촀LoLa\0 guardo nuotare e immagino
 2\0n\0 come me che
 prova a fare lo stesso. 
 \0((5촀\0Mitico!"
-"120","(%촀\0Ho passato mucho tiempo con 2\0
- ultimamenten\0\0\0\0(1촀\0Me gusta per mille motivi: il colore,
+"120","(%촀\0Ho passato mucho tiempo con 2\0 ultimamenten\0\0\0\0(1촀\0Me gusta per mille motivi: il colore,
 la lucentezza, la forma elegante e
 proporzionata del suo corpon\0\0\0\0(촀\0Dimmi, dove puedo buscar un paio di
 scarpe che siano altrettanto stilose?"
-"121","(
-촀\02\02\0
- che ho visto qui mi ha colpito mucho e mi ha fatto rifletteren\0\0\0\0(촀\0Non ho ancora deciso se vedere
+"121","(촀\02\02\0 che ho visto qui mi ha colpito mucho e mi ha fatto rifletteren\0\0\0\0(촀\0Non ho ancora deciso se vedere
 delle ossa vecchie milioni di anni
 sia affascinante o sgradevolen"
 "122","(%촀\0Quando posso vado alla nuova
 galleria d'arte del \0museo\0￿ e ammiro
-2\0
-n\0\0
+2\0n\0\0
 ()촀\0È difficile da spiegare, 
 \0però questa
 opera mi habla nel profondon\0\0\0\0(6촀\0E sembra quasi dirmi: 

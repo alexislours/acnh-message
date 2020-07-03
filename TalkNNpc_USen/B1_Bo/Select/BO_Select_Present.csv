@@ -67,8 +67,7 @@ Maybe you'll need that for something
 else! 
 \0($촀\0Why don't you take it back?"
 "123","(촀\0Whoa, so cool!
-\0(
-촀\0 But waitn\0\0has
+\0(촀\0 But waitn\0\0has
 \0Blathers \0￿seen this yet? 
 \0It seems
 like it might be pretty raren\0\0\0\0('촀\0I don't want to make \0Blathers \0￿angry
@@ -99,8 +98,7 @@ try 'em on!"
 it on 
 \0A.
 \0S.
-\0An\0\0 No. (
-촀\0Umn\0\0 
+\0An\0\0 No. (촀\0Umn\0\0 
 \0A.
 \0P.
 \0S.
@@ -128,8 +126,7 @@ color!
 \0(Whaddaya think?
 \0( (촀\0Not a stain on it!
 Thanks, n\0!"
-"221","(
-촀\0Man, this is real cool. I'm gonna try
+"221","(촀\0Man, this is real cool. I'm gonna try
 it on at home later!"
 "222","(2촀\0I'm gonna take this home and put
 on a fashion show for the bugs in
@@ -180,14 +177,15 @@ I wanna bite 'em!"
 \0(
 They'll make my house smell
 like bee food, n\0!"
-"406","(촀\0Duuuude! Did ya catch this yourself?
-2\0}\0\0 is so
-num-num-nummy!($촀"
-"407","(촀\0Thanks, n\0!
-\0((\0촀\0 Man, it looks deliciousn\0\0 (&촀\0
-\0But I'm probably
-not supposed to eat itn\0\0
-\0 (3촀\0\0KProbablyn\0\0\0d"
+"406","(촀\0Whoaaaaa! Didja catch this yourself,
+n\0? 
+\0(&촀\0Is it really a real
+}\0\0?"
+"407","(촀\0Thanks!
+\0 I think it'll be my new
+best friend. 
+\0((촀\0Not counting you,
+I mean!"
 "408","(촀\0Whoa!
 \0 Is this really
 2\0}\0\0?
@@ -202,13 +200,24 @@ The bugs in my walls are being
 jerks this week."
 "410","(촀\0Thanks, n\0!
 \0(
-(
-촀\0I've never talked to this
+(촀\0I've never talked to this
 bug before!\0\0(\0촀\0I think you oughta show it
 to(%촀\0 \0Blathers\0￿. He LOVES bugs!"
 "411","(촀\0Oh man! This fishy looks real tasty.
 You should show it to \0(\0촀\0Blathers\0￿ and
 ask if it's safe for me to eat!"
+"412","(촀\0Ooh! 
+\0Did you get that from the
+bottom of the ocean? 
+\0(&촀\0It's 2\0
+($촀\0}\0\0, right?"
+"413","(촀\0That's so cool! 
+\0I'll take really good
+care of it, I promise."
+"414","(촀\0Oh, butn\0\0
+\0 Do you think \0Blathers\0￿
+is gonna want it instead?\0\0(촀\0I hate to say it, but maybe you
+should show it to him firstn"
 "501","Huh?
 \0(
 (촀\02\02\0}\0\0?!"
@@ -233,8 +242,7 @@ your money!
 (2촀\0from you, n\0!"
 "507","(촀\0This is a DIY recipe for 2\0
 }\0\0, right?!"
-"508","(
-촀\0I bet there are other folks who would
+"508","(촀\0I bet there are other folks who would
 want this DIY recipe.
 \0 (%촀\0I think you
 oughta hold on to it.\0\0()촀\0Thanks for thinkin' of me, though!

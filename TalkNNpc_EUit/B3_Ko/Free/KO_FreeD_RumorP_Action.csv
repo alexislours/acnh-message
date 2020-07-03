@@ -25,9 +25,9 @@ conchiglia se nessuno se la piglia?
 \0(촀\0AHAHAH!"
 "105","(촀\0Ho sentito che hai preso un po' di vongole, n\0n\0\0 
 \0(촀\0Beh,
-\0 ottimo!\0\0(촀\0Io non ci riesco mai perché mi
-scivolano tra le mani,
-\0 n\0."
+\0 ottimo!\0\0(촀\0Io non ci riesco mai perché
+mi scivolano tra le zampe,
+n\0."
 "106","(촀\0Ho sentito che ieri hai sfoggiato la tua mira incredibile, n\0!\0\0(;촀\0Allora è vero che non ti fai scappare
 nemmeno un palloncino. Sei davvero
 da am-mira-re. 
@@ -111,10 +111,9 @@ per ricomprarli. 
 "118","(9촀\0I soliti ben informati dicono che
 hai nascosto un alieno a casa tuan\0\0
 È vero, n\0?\0\0( 촀\0No?
-\0( (9촀\0E allora perché
-\0 ultimamente
-te ne stai sempre in casa, 
-\0n\0?\0\0\0\0KA quanto pare non erano poi così ben informati...\0d\0￿"
+\0( (9촀\0E allora perché negli ultimi
+tempi te ne stai sempre in casa,
+n\0?\0\0\0\0KA quanto pare non erano poi così ben informati...\0d\0￿"
 "119","(촀\0Ti piace stare all'aria aperta, eh?
 
 \0(촀\0Prendere il sole fa bene. Certo, non
@@ -141,8 +140,7 @@ così."
 davanti a casa tua significa che stai
 rimodernando,
 \0 n\0?
-(
-촀\0Mi sembravano rumori di mobili
+(촀\0Mi sembravano rumori di mobili
 spostati, insieme 
 \0(6촀\0a vari brontoliin\0\0
 Era il tuo stomaco? 
@@ -150,8 +148,9 @@ Era il tuo stomaco? 
 "123","( 촀\0Aloha, 
 \0(\0촀\0mi hanno detto che ieri hai
 giocato tutto il giorno 
-\0con il telefono,
-\0 n\0.
+\0con il telefono,
+
+\0n\0.
 (;촀\0Ah, stavi lavorando a una delle tue
 creazioni di alta moda?
 \0(6촀\0 Ma quanto
@@ -215,7 +214,9 @@ prenderlo.
 \0 (8촀\0Volevo solo assicurarmi
 \0
 che tu non sia a corto di stellinen"
-"130","(""촀\0Ho sentito che ieri hai raccolto un mucchio di frutta, n\0!\0\0(촀\0Spero che
+"130","(""촀\0Ho sentito che ieri hai raccolto
+un bel mucchio di frutta,
+n\0!\0\0(촀\0Spero che
 \0 tu non abbia intenzione
 di mangiarla tutta in una volta.\0\0(9촀\0Se mangi troppa frutta, ti frutterà
 un bel mal di pancia. 
@@ -229,8 +230,7 @@ pollici, 
 "132","(촀\0Allora è vero
 \0 che ieri sei 2andatoandata in
 giro tutto il giorno con il telefono
-in mano,
-\0 n\0?\0\0(9촀\0Non ti fanno male i polpastrelli oggi?"
+nella zampa, n\0?\0\0(9촀\0Non ti fanno male i polpastrelli oggi?"
 "133","(""촀\0Grazie mille,
 \0 n\0!\0\0(촀\0In che senso
 \0 ""di che""?
@@ -248,8 +248,7 @@ piena di spirito di iniziativa,
 "135","(촀\0Gira voce che ieri ci hai dato
 dentro con la costruzione di nuove
 rampe,
-\0 n\0!\0\0(
-촀\0Uhm, certo che sei proprio
+\0 n\0!\0\0(촀\0Uhm, certo che sei proprio
 2@un costruttore una costruttrice rampante tu, eh?
 
 \0(촀\0AHAHAH!"
@@ -298,8 +297,7 @@ spese,
 il nuovo inno dell'isola!
 \0(촀\0
 Complimenti,
-\0 (촀\0n\0!\0\0(
-촀\0L'idea ti è venuta quando mi hai
+\0 (촀\0n\0!\0\0(촀\0L'idea ti è venuta quando mi hai
 sentito fischiettare l'altro giorno,
 \0
 n\0?
@@ -316,13 +314,11 @@ stile,
 magica che ti permette di cambiare
 look tutte le volte che vuoi.
 (촀\0Non è assurdo?
-\02 (
-촀\0È ovvio che
+\02 (촀\0È ovvio che
 \0 mi stava
 prendendo in giro, no?"
 "144","(촀\0A quanto si dice, ieri hai fatto il giro di n!\0
-\0 con l'asta da salto, n\0.\0\0(
-촀\0Chissà che altezze raggiungi,
+\0 con l'asta da salto, n\0.\0\0(촀\0Chissà che altezze raggiungi,
 adesso.
 \0 Sarai sempre con la testa
 tra le nuvole! 
@@ -369,8 +365,7 @@ strappo i capelli. 
 \0(촀\0AHAHAH!"
 "150","( 촀\0Ehi,
 \0 hai cambiato look?
-\0( (
-촀\0Mi ci vorrà
+\0( (촀\0Mi ci vorrà
 un po' per abituarmi, man\0\0
 \0 (촀\0mi piace,
 n\0!"
@@ -381,3 +376,10 @@ un po' per abituarmi, man\0\0
 \0tutte sfocate.
 Eppure non sono una foca. 
 \0(촀\0AHAHAH!"
+"153","()촀\0Ho sentito che hai tirato su un bel
+bottino dalle profondità del mare,
+n\0!\0\0(\0촀\0Sembra divertente.
+\0 (6촀\0Magari potresti
+darmi qualche consiglio, 
+\0così uno di
+questi giorni ci provo anch'ion"

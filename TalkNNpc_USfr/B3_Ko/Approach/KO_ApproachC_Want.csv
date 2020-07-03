@@ -55,8 +55,7 @@ pot :
 séparer contre quelques clochettes?"
 "100_a","(\0촀\0Ça dépend, combien?"
 "100_b","Jamais de la vie."
-"101","(
-촀\0Hmmn\0\0 Disons Z?"
+"101","(촀\0Hmmn\0\0 Disons Z?"
 "101_a","(\0촀\0Tape-là!"
 "101_b","C'est pas assez."
 "102","(촀\0Voilà qui me fait plaisir à entendre.
@@ -102,8 +101,7 @@ le couteau dans la plaie,
 \0 (3촀\0Prépare-toi à
 entendre une offre que tu ne pourras
 pas refuser!"
-"110","(
-촀\0OK, 2""mon bonma bonne n\0, c'est ta chance.
+"110","(촀\0OK, 2""mon bonma bonne n\0, c'est ta chance.
 \0
 ($촀\0Que dirais-tu de Z?"
 "110_a","Ça me va!"
@@ -124,8 +122,7 @@ de moins séraphin que toi!"
 "113","(2촀\02$Le jeuneLa jeune,
 \0 sache que ça a été un vrai
 plaisir de faire affaire avec toi!"
-"114","(
-촀\0Alors, dis-moin\0\0
+"114","(촀\0Alors, dis-moin\0\0
 \0 que dirais-tu
 de Z?
 \0 ($촀\0Ça t'irait?"

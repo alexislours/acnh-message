@@ -56,7 +56,7 @@ Pero (6촀\0lo recordaré en tu cumpleaños."
 "008","(촀\0Bah,
 \0 tenerte aquí ya es suficiente.
 \0
-(6촀\0Aunque 2\0촀 nuev2!촀oa\0 tampoco me vendría maln"
+(6촀\0Aunque 2\0촀 nuev2""촀oa\0 tampoco me vendría maln"
 "009","(촀\0¿Te olvidaste mi regalo en tu casa?
 \0 (촀\0Menos mal que vivimos cerca.\0\0()촀\0Puedes pasar y dejarlo aquí cuando
 te venga bien:
@@ -71,8 +71,7 @@ te venga bien:
 Es un placer conocerte,
 \0 (촀\0y más
 en mi fiesta de cumpleaños.
-(
-촀\0Es la primera vez que me regalan
+(촀\0Es la primera vez que me regalan
 2*un vecinouna vecina.
 \0 (%촀\0¡Me gusta,
 \0 n\0!"
@@ -227,8 +226,7 @@ por venir.
 \0 ¡Y por el regalo!"
 "054","(촀\0Me encanta cuando me entero de
 que algún famoso cumple años el mismo día que yo.
-(
-촀\0Me pregunto si a ellos también les
+(촀\0Me pregunto si a ellos también les
 encantará saber eson"
 "055","()촀\0Todo está yendo bien,
 \0 pero aun así
@@ -242,8 +240,7 @@ mejorarse, n\0n\0\0
 año nuevo,
 \0 pero el cumpleaños es
 (%촀\0otra ocasión para fijarse objetivos.
-(
-촀\0Además,
+(촀\0Además,
 \0 leí en una revista que es
 más fácil cumplirlos si los dejas
 por escrito, n\0.
@@ -279,8 +276,7 @@ la fiesta no me deja mucho tiempon\0\0
 "061_b","Pues no..."
 "062","(촀\0La fiesta está resultando de lo más
 completita.
-\0 (
-촀\0Solamente faltan algunos
+\0 (촀\0Solamente faltan algunos
 pequeños detalles,
 \0 ¿no crees?
 (6촀\0Por ejemplo,
@@ -388,8 +384,7 @@ peso adicional."
 para celebrar una fiesta doble.
 \0
 (5촀\0¡Espero que te diviertas el doble!
-(
-촀\0Por tu expresión,
+(촀\0Por tu expresión,
 \0 ¿tengo que deducir
 que me trajiste (촀\0un regalo?"
 "100_a","¡Qué buen ojo!"

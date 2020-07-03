@@ -116,26 +116,29 @@ sobre un \0fósil\0￿,
 de ""\0Háblame de esto\0￿"" (촀\0y con
 mucho gusto te ilustraré.
 \0 ¡Uhu!"
-"052","(촀\0¡Grandes noticias, n\0!
-\0 Al fin descubrieron un fósil en n\0.\0\0(촀\0¡Uh, uh, hurra!
+"052","(촀\0Grandes noticias, n\0:
+\0
+al fin se ha descubierto un fósil
+en n\0.
+(촀\0¡Uh, uh, hurra!
 \0 A partir de ahora
 podré aceptar donaciones de fósiles
 para identificarlos.
-(4촀\0No cabe decir que para esa tarea
+(4촀\0No hace falta decir que para tal tarea
 me será muy útil tu inestimable
 colaboración.
-(촀\0Además, estuve pensando en
+(촀\0Además, he estado pensando en
 cómo aligerar el proceso a nuestros
-queridos contribuyentesn\0\0\0\0()촀\0Y a partir de ahora aceptamos
+queridos contribuyentesn\0\0\0\0()촀\0Y a partir de ahora aceptaré
 \0múltiples \0￿donaciones de manera
 simultánea.
 (""촀\0Por cierto, si quieres saber algo
 sobre un \0fósil\0￿,
 \0 un \0animal acuático\0￿
 \0K
-\0(촀\0o un \0insecto\0￿ (qué remedio)n\0\0\0\0(""촀\0\0dsolo tienes que decir aquello
-de ""\0Háblame de esto\0￿"" (촀\0y con
-mucho gusto te ilustraré.
+\0(촀\0o un \0insecto \0￿(qué horror)n\0\0\0\0(""촀\0\0dsolo tienes que decir la frase
+""\0Háblame de esto\0￿"" (촀\0y con mucho
+gusto te ilustraré al respecto.
 \0 ¡Uhu!"
 "091","(&촀\0¿Te puedo ayudar con alguna
 otra cosa?"
@@ -186,8 +189,7 @@ volver un poco más tarde.
 \0 Veo que traes varias
 cosas.
 \0 
-\0(
-촀\0
+\0(촀\0
 \0Echemos un vistazon\0\0
 \0
 
@@ -329,8 +331,7 @@ exponer el ejemplar íntegro.
 "129_01","(7촀\0Pues eso es lo que tenía que
 contarte.\0\0(\0촀\0Dicho lo cual,
 \0 acepto ya con gusto
-tu donación.\0\0(
-촀\0Espero que encontremos las partes
+tu donación.\0\0(촀\0Espero que encontremos las partes
 restantes para exhibir este ejemplar
 en todo su esplendor.
 (촀\0¡Muchísimas gracias!"
@@ -349,11 +350,10 @@ de tu }\0\0?"
 "131_b","Ahora mejor no..."
 "132","(촀\0De acuerdo,
 \0 ¡con mucho gusto!(\0촀"
-"133","(""촀\0Y eso es todo lo que puedo
-decirte al respecto.
+"133","(""촀\0Y eso es todo lo que puedo decirte
+al respecto.
 \0 (촀\0Fascinante,
-\0
-¿verdad?"
+\0 ¿verdad?"
 "134","( 촀\0Vayan\0\0
 \0 (7촀\0Bueno,
 \0 espero poder
@@ -415,8 +415,7 @@ falsificaciones.
 tengo que devolverte esta obra."
 "141","(촀\0¡Uhuhu!
 \0 ¡Muchísimas gracias!\0\0(촀\0¿Uac?
-\0 (
-촀\0Parece que no tienes nada
+\0 (촀\0Parece que no tienes nada
 que podamos aceptar ahoran"
 "142","()촀\0Aceptamos(1촀\0n\0\0
 \0 \0insectos\0￿,
@@ -448,6 +447,22 @@ todos una vez que esté expuesta.
 \0 ¡Uhu!"
 "148","(촀\0Es todo un honor poder contemplar
 de cerca una obra de este calibre."
+"149","()촀\0Aceptamos \0insectos\0￿,
+\0 \0peces\0￿ y otras
+
+\0\0criaturas marinas\0￿,
+\0 así como \0fósiles\0￿
+adecuadamente identificados."
+"150","()촀\0Aceptamos donaciones de \0insectos\0￿,
+\0
+\0peces\0￿ u otras \0criaturas marinas\0￿
+\0
+y \0fósiles\0￿ debidamente identificados."
+"151","()촀\0Aceptamos \0insectos\0￿,
+\0 \0peces\0￿ u otras
+\0criaturas marinas\0￿,
+\0 \0fósiles\0￿ ya
+identificados y \0obras de arte\0￿."
 "201","( 촀\0¿Uhu?
 \0 (\0촀\0Peron\0\0
 \0 es que no tienes
@@ -471,8 +486,7 @@ tu decisiónn"
 "204","(9촀\0A ver,
 \0 déjame vern\0\0
 \0
-(
-촀\0Mmmn\0\0
+(촀\0Mmmn\0\0
 \0 Buenon\0\0
 \0 ¡Uac!"
 "205","
@@ -501,8 +515,7 @@ no está nada mal!\0\0Te pediría que 2촀lola\0 donaras,
 ahora estoy ocupado con la visita
 que tenemos en la isla.\0\0(7촀\0Vuelve en otro momento y tratamos
 el asunto."
-"211","(
-촀\0Debo decir que es un fósil fuera
+"211","(촀\0Debo decir que es un fósil fuera
 de lo comúnn\0\0
 \0 y aún no lo tenemos
 en nuestra colección.
@@ -547,8 +560,7 @@ de nuestro patrimonio cultural.
 "214","(촀\0¡Uhuhu!
 \0 ¡Así que tienes varias
 cosas!
-\0 (
-촀\0A ver,
+\0 (촀\0A ver,
 \0 a vern\0\0
 \0 deja que
 les eche un ojo."
@@ -584,11 +596,10 @@ Uhu,
 ejemplares!
 \0 (촀\0Pero ya contamos
 con ellos en nuestra exposición.
-(
-촀\0Si por mis alas fuera,
-\0
-te los compraría para
-mi colección personaln\0\0
+(촀\0Si por mis alas fuera,
+\0 te los
+compraría para mi colección
+personaln\0\0
 \0
 ('촀\0En fin,
 \0 los sueños
@@ -606,8 +617,7 @@ a nuestra colección!"
 "223","(촀\0Te quedo muy agradecido,
 \0 uhu.
 \0
-(
-촀\0Ahora nos faltarían algunas partes
+(촀\0Ahora nos faltarían algunas partes
 para completar el ejemplar."
 "224","(촀\0¡Uac!
 \0 Esto significa quen\0\0
@@ -625,8 +635,7 @@ del \0촀?"
 \0 Así me gusta,
 \0 con sed
 de conocimiento.
-\0 (
-촀\0Bueno,
+\0 (촀\0Bueno,
 \0 puesn\0\0
 \0
 (%촀\0Ejemn"
@@ -679,8 +688,7 @@ por favor!
 2\0}\0\0,
 \0
 ¿no?"
-"307","(
-촀\0¡Uac!
+"307","(촀\0¡Uac!
 \0 No lo puedo creern\0\0
 \0 ¡Esto es
 2\0}\0\0!\0\0( 촀\0¡Un momento!
@@ -710,8 +718,7 @@ siempre que quieras."
 con información.
 \0 (%촀\0Léela para conocer
 más detalles al respecto."
-"316","(
-촀\0Por lo que sé,
+"316","(촀\0Por lo que sé,
 \0 nuestra colección
 no cuenta aún con 2$촀ningúnninguna\0
 }\0\0.\0\0(촀\0De manera que apreciaría muchísimo
@@ -826,8 +833,7 @@ de mi retórica.
 "402","(촀\0¡Uac!
 \0 ¡Pero qué es lo que veo!
 \0
-(
-촀\0No sé si dar crédito al testimonio
+(촀\0No sé si dar crédito al testimonio
 de mis sentidosn\0\0
 \0 ¡Uhuhu!\0\0(촀\0Pero sín\0\0
 \0 ¡Sí!
@@ -852,8 +858,7 @@ exposición de insectos!
 \0 Mi corazón
 se acelera solo de pensarlon\0\0
 ¡Uac!
-\0 (
-촀\0Más bien diría que me entran
+\0 (촀\0Más bien diría que me entran
 palpitacionesn\0\0
 \0 (촀\0y sudores fríos.\0\0(%촀\0Bueno,
 \0 pero lo superaré.
@@ -894,18 +899,34 @@ Ehn\0\0
 realmente admirable.
 \0 (촀\0¡Muchas
 gracias por tu esfuerzo!"
-"406","¡Uac!
+"406","(촀\0¡Uac!
 \0 ¡No puede ser!
 \0 Pero sí,
 \0 ¡es!
 \0
-¡La última pieza que faltaba
+(촀\0¡La última pieza que faltaba
 en nuestra colección!
-¡La galería de arte está completa!
+(!촀\0¡La galería de arte está completa!
 \0
 ¡Gracias,
-\0 n\0,
-\0 por tu generoso mecenazgo!"
+\0 n\0,(촀\0
+\0 por tu inmensa dedicación!
+\0(촀"
+"410","(촀\0¡¿Uhu?!
+\0 ¿Es cierto lo que sospecho?
+\0
+(&촀\0¡¿Así queda completada nuestra
+colección de criaturas marinas?!
+(!촀\0¡Uhn\0\0
+\0!
+\0 ¡Hurra, quiero decir!
+\0 ¡Alegría!
+\0
+(\0촀\0Y, sobre todo,
+\0 (촀\0¡muchísimas gracias!\0\0(촀\0Es un orgullo que n\0 nos permita disfrutar de todas estas maravillas del océano.\0\0(촀\0Sin tu generosa contribución nunca
+lo habríamos conseguido.
+\0 (촀\0Estamos
+en deuda contigo."
 "501","()촀\0Nuestro museo cuenta con
 numerosas obras maestras
 del arte y de la naturaleza.\0\0(촀\0¡Disfruta siempre que quieras

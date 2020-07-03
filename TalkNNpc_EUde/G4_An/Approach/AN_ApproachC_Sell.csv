@@ -8,14 +8,17 @@ hat ein Ende –
 "001_a","(\0촁\0Klasse! Danke!"
 "001_b","(\0촁\0Äh... Hä?"
 "002","(""촀\0Hey-ho. 
-\0Dich hab ich gesucht!
+\0Dich hab ich gesucht!
+\0
 Ich bin dein Glückstag...
-\0 Nee, dein
+\0 Nee, 
+\0dein
 Glückstee...
 \0(7촀\0 Gnah!
 \0 Deine Glücksfee.\0\0('촀\0Jedenfalls kann ich dir helfen.
 \0
-(6촀\0Hier, ich verkauf dir 2촀ein'neein }\0\0."
+(6촀\0Hier, 
+\0ich verkauf dir 2촀'nen'neein 2촁}\0\0."
 "002_a","(\0촁\0Hab ich ein Glück!"
 "002_b","('촀\0Pech für dich."
 "003","Yo, n\0,
@@ -51,8 +54,7 @@ Ach, egal, 
 \0n\0!"
 "006","(촀\0Echt jetzt!?
 \0(
-(
-촀\0Okay, 2촀ersiees ist gebraucht, 
+(촀\0Okay, 2촀ersiees ist gebraucht, 
 \0aber in
 'nem Topzustand, 
 \0n\0!"
@@ -87,8 +89,7 @@ am besten,
 meinemein }\0\0 zu dir kommt,
 \0 n\0."
 "103","(촀\0Zu teuer?
-\0( (
-촀\0Hm... 
+\0( (촀\0Hm... 
 \0Ehrlich gesagt, ist
 mir die Kohle eigentlich schnurz.
 \0
@@ -111,8 +112,7 @@ Voll der Nepp!"
 Klingt fair."
 "200_c","Vergiss es.
 Tja, sorry..."
-"201","(
-촀\0Wart mal!
+"201","(촀\0Wart mal!
 \0 Stimmt das? 
 \0((촀\0Nee, Quatsch!
 Das waren nur Z. 
@@ -192,8 +192,7 @@ zur Mülldeponie, 
 \0(%촀\0Müsste mindestens Z wert sein."
 "303_a","(\0촁\0Will ich haben!"
 "303_b","('촀\0Ich passe. Was noch?"
-"304","(
-촀\0Gute Frage... 
+"304","(촀\0Gute Frage... 
 \0(7촀\0Für Z
 überlass ich dir 2(촀meinen
 meinemein

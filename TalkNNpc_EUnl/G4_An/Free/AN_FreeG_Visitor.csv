@@ -3,8 +3,7 @@
 \0Wat isn\0\0 het plaatselijke fruit van n\0?"
 "001_a","O! Eh, dat daar!"
 "001_b","Een van die?"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(3촀\0Deze ronde win jij.
 \0( ()촀\0Het is inderdaad 2\0n촀. Vergeet niet om er een paar te kopen!"
@@ -62,16 +61,12 @@ maar voorbijloop.
 \0 En het gebouw is
 erg fotogeniek, als dat je ding is."
 "028","(""촀\0Ben je al naar het \0museum\0￿ geweest?
-\0( (촀\02 )촀OnzeOnsOnze 
-\0 moet je gezien hebben!"
+\0( (촀\02 *촀OnzeOnsOnze \0 moet je gezien hebben!"
 "029","()촀\0Hou je van beestjes? 
-\0We hebben 2\0
- in ons \0museum\0￿.
-\0( (촀\02:)촀Die zietDat zietDie zien er zo tof uit, joh!"
-"030","(;촀\02\02\02촃
- in de fossielenzaal van ons \0museum\0￿ moet je hebben gezien voor je gaat!"
-"031","(촀\0Als ik 2\0
- zie, raak ik echt volledig van mijn padje.\0\0(1촀\0Dan verzin ik nieuwe recepten,
+\0We hebben 2\0 in ons \0museum\0￿.
+\0( (촀\02:*촀Die zietDat zietDie zien er zo tof uit, joh!"
+"030","(;촀\02\02\02촃 in de fossielenzaal van ons \0museum\0￿ moet je hebben gezien voor je gaat!"
+"031","(촀\0Als ik 2\0 zie, raak ik echt volledig van mijn padje.\0\0(1촀\0Dan verzin ik nieuwe recepten,
 \0
 reorganiseer ik mijn tuintje,
 \0 bedenk

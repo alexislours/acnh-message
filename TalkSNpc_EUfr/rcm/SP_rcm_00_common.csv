@@ -123,8 +123,7 @@ débarrasser gratuitement."
 "038_b","Je garde mes ordures."
 "041","(촂\0(촃\0Tu as apporté beaucoup de choses,
 cette fois ! 
-\0((
-촂\0(1촃\0Laisse-moi juste le temps
+\0((촂\0(1촃\0Laisse-moi juste le temps
 d'additionner tout çan"
 "041_01","Tu m'as apporté beaucoup de
 choses, cette fois !
@@ -138,8 +137,7 @@ choses, cette fois !
 Laisse-moi juste le temps
 d'additionner tout çan"
 "041_02","(촂\0(촃\0Tu en apportes des choses !
-\0((
-촂\0(1촃\0 Voyons
+\0((촂\0(1촃\0 Voyons
 voirn\0\0
 \0 laisse-moi juste additionner
 tout çan\0\0
@@ -166,8 +164,7 @@ rare.
 \0\0KLe client est roi !\0dd\0\0(1촂\0(%촃\0Laisse-moi additionner tout çan"
 "044_02","(촂\0
 \0(촃\0Très bien !d\0 
-\0\0KLe client est roi !\0dd\0\0(
-촂\0(1촃\0Alors, en considérant notre liste des
+\0\0KLe client est roi !\0dd\0\0(촂\0(1촃\0Alors, en considérant notre liste des
 articles phares, ça nous fait doncn"
 "045","(촂\0(촃\0Ça y est !\0\0(\0촂\0Par contre, une partie de tes objets
 ne vaut rien du tout. À défaut de te
@@ -443,9 +440,47 @@ profites-en !d\0
 "131","2\02\0}\0\0 se vend (%촃\0à l'unité ou par lot.
 \0(&촂\0 Combien en veux-tu ?"
 "131_a","1. (\0Z\0 \0￿)"
-"131_b","5. (\0Z
- \0￿)"
+"131_b","5. (\0Z \0￿)"
 "131_c","Laisse tomber."
+"141_01","( 촂\0( 촃\0Aha ! 
+\0Tu as envie d'aller te baigner ?
+
+\0(%촂\0(\0촃\0Oui, ouin\0\0 Il va évidemment te falloir
+2\0}\0\0.\0\0(촂\0(촃\0Avant de te ruer vers la plage, on
+doit te briefer par rapport à la
+baignage !d\0
+\0 \0KDes p'tites choses à savoir !\0dd"
+"141_02","(\0촃\0Il n'y a rien de bien sorcier, ne t'en
+fais pas. Ce sont juste des consignes
+pratiques.\0\0()촂\0D'abord, tu dois te changer et mettre
+une combinaison.(%촃\0 Par exemple, 2\0}\0\0, là.\0\0(촂\0(촃\0Une fois en tenue, va sur la plage ou
+sur les rochers et appuie sur \0 \0￿pour
+te jeter à l'eau !\0\0()촂\0(\0촃\0Pour nager, il te suffit de maintenir
+\0\0￿. Rien de plus simple,
+\0 pas vrai ?\0\0(촂\0Oh !
+\0 Et si tu aperçois une silhouette
+dans l'eau,
+\0(촃\0 appuie sur \0 \0￿pour
+plonger et y jeter un œil.
+(촀\0(촃\0Qui sait quelles \0créatures marines\0￿ tu
+croiseras par ici ? 
+\0Tu pourrais peut-
+être même en remonter à la surfacen"
+"142","Bien,
+\0(촂\0 je pense qu'on a fait le tour !
+d\0
+\0\0KTu sais tout, maintenant !\0dd\0\0(\0촂\0(\0촃\0Pour en revenir à notre tenue, elle
+est à toi pour la modique somme de
+Z\0.
+\0(&촂\0(&촃\0\0\0Veux-tu toujours acheter 2\0}\0\0 ?"
+"142_a","(%촀\0J'achète !"
+"142_b","(\0촀\0Tu peux répéter ?"
+"142_c","('촀\0En fait, non."
+"143","(촂\0(촃\0Avec plaisir !
+\0 Tu trouveras ici tout ce
+dont tu as besoin pour nager dans
+l'océan.d\0
+\0 \0KÀ condition que tu saches nager !\0dd"
 "200","(촂\0(촃\0Merci !d\0
 \0 \0KBeaucoup, beaucoup !\0dd(촂\0(촃\0
 Z"

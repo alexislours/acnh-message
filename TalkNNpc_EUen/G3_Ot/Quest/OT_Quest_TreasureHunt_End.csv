@@ -51,8 +51,7 @@ trying to haggle or something?"
 Don't you want to see the treasure
 you worked so hard to find?
 (촀\0Well,
-\0
- I will happily open it so you can
+\0 I will happily open it so you can
 take a look, if you'll just give it here
 a moment, n\0."
 "100","(촀\0My goodness, 
@@ -98,11 +97,11 @@ the treasure hunt was over.
 But let's play again sometime."
 "301","(촀\0Oh!
 \0 I was looking for you.
-\0
-(촀\0I'm sorry,
-\0 but I've already 
-ended the treasure hunt.
-(\0촀\0But darling, 
+\0 (촀\0I'm sorry,
+\0
+but I've already ended the treasure
+hunt.
+(\0촀\0But, darling, 
 \0(촀\0I am looking forward to
 playing again sometime soon."
 "302","(촀\0Oh! 

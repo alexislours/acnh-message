@@ -13,8 +13,7 @@ se cerchiamo di passare ancora più
 tempo insieme, in futuro?(촀\0
 "
 "000_06","(촀\0Buon complecapodanno,
-\0 n\0!\0\0(
-촀\0Mmmhn\0\0(촀\0 non sono riuscita a trovare
+\0 n\0!\0\0(촀\0Mmmhn\0\0(촀\0 non sono riuscita a trovare
 niente di meglio, purtroppo.
 \0
 (촀\0Fammi riprovaren\0\0
@@ -121,16 +120,14 @@ nuova bandiera cittadina.
 \0 Grazie
 mille per il tuo contributo!"
 "013","(촀\0Quale sarebbe il problema, n\0?
-\0 Sei in difficoltà con qualche abitante dell'isola?
-()촀\0Sono convinta che il dialogo sia il
+\0 Sei in difficoltà con qualche abitante dell'isola?\0\0()촀\0Sono convinta che il dialogo sia il
 modo migliore per risolvere le
 controversie.
-\0(
-촀\0 Ma se hai già provaton\0\0
+\0(촀\0 Ma se hai già provaton\0\0
 ((촀\0Posso sicuramente intervenire!('촀\0
 \0 Non
 mi faccio problemi ad ammonire chi
-si comporta in modo inappropriato. 
+si comporta in modo inappropriato.
 (촀\0Quest'isola dev'essere un posto
 accogliente per tutti! 
 \0(\0촀\0Allora, 
@@ -145,7 +142,7 @@ fastidio?"
 "014_b","No."
 "015","(촀\0Fiuuu!
 \0 Meno male.
-\0
+\0
 (+촀\0\0KNon mi piacciono le beghe tra cittadini...\0d"
 "016","(9촀\0Con chi hai un problema?(촀"
 "017","(9촀\0E che problema hai con s촀?"
@@ -155,6 +152,7 @@ fastidio?"
 "018","(촀\0Accifuffolin\0\0 Mi spiace sapere che s촀 non ha usato parole gentili con te."
 "019","(촀\0Accifuffolin\0\0
 \0 E così s촀 a volte si veste in modo indecente?"
+"019_01",""
 "020","(&촀\0Vuoi che scambi due paroline con s촀 per porre fine al suo comportamento inappropriato?"
 "020_a","Sì, ti prego!"
 "020_b","No, non fa niente."

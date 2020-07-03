@@ -70,8 +70,7 @@ c'est partin"
 Tu chercheras pas à perte !
 ´"
 "015","(&촀\0Est-ce que j'ai été assez clair ?
-\0( (
-촀\0Oui ?
+\0( (촀\0Oui ?
 
 \0Non ? 
 \0Hm ?
@@ -360,8 +359,7 @@ tout2\0e seul2\0e !
 \0 Quelle créativité !
 \0
 (:촀\0\0KL'étape suivante, c'est de te déguiser en lapin ?\0d
-\0(\0\0(
-촀\0Hmm, 
+\0(\0\0(촀\0Hmm, 
 \0j'avais promis de te donner
 quelque chose si tu fabriquais les
 articles de tous mes plans ?\0\0Eh ben, ('촀\0tu n'as pas besoin de
@@ -373,8 +371,7 @@ imagines, pour avoir mon cadeau.
 \0 ça se passe
 comment, le bricolage de la fête des
 œufs ?
-\0 (\0촀\0Si je peux juste jeter un œiln\0\0\0\0(
-촀\0Hmm,
+\0 (\0촀\0Si je peux juste jeter un œiln\0\0\0\0(촀\0Hmm,
 \0 tu n'as pas utilisé beaucoup de
 mes plans de bricolage, on dirait. Je
 n'ai peut-être pas été assez clair.\0\0()촀\0N'oublie pas que
@@ -428,8 +425,7 @@ autres plans ?
 \0 Je peux pas te le dire !
 \0 
 ('촀\0\0KÇa serait de la triche. Dis-moi, tu blaguais ?\0d
-(
-촀\0Bonn\0\0 Si tu t'en sors pas, je peux
+(촀\0Bonn\0\0 Si tu t'en sors pas, je peux
 éventuellement te dire cecin\0\0\0\0()촀\0Il se pourrait que, par hasard,
 quelqu'un d'autre en ait ramassé
 avant toi.
@@ -566,8 +562,7 @@ tu seras moins encombré2\0e."
 "180_02","( 촀\0Tu m'as apporté des œufs !
 \0
 (\0촀\0Laisse-moi y jeter un œiln"
-"181_01","(
-촀\0Un, 
+"181_01","(촀\0Un, 
 \0deux, 
 \0trois, 
 \0((촀\0quatre, cinq, six !\0\0(촀\0Parfait, bien joué !
@@ -580,8 +575,7 @@ chaque type.
 \0(&촀\0 Tu veux bien ?"
 "181_01_a","Sers-toi !"
 "181_01_b","Non."
-"181_02","(
-촀\0Un, 
+"181_02","(촀\0Un, 
 \0deux, 
 \0trois, 
 \0((촀\0quatre, cinq, six !\0\0(촀\0Encore une fois, tu as au moins un

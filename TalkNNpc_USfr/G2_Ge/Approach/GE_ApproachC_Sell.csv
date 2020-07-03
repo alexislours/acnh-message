@@ -28,8 +28,7 @@ dis-moi si certains t'intéressent!"
 (촀\0Mais maintenant, j'ai un problèmen\0\0
 Ça m'en fait deux. Donc 2촀unune\0 de trop.
 \0
-(
-촀\0Ça te dirait de m'en acheter 2촀unune\0?"
+(촀\0Ça te dirait de m'en acheter 2촀unune\0?"
 "004_a","(\0촀\0Combien?"
 "004_b","Merci, mais non merci."
 "005","(촀\0Oh, euhn\0\0
@@ -51,8 +50,7 @@ d'impôts.
 \0qui a des
 clochettes à dépensern"
 "008","(촀\0Nan?
-\0 Mais alors, (
-촀\0qu'est-ce que je
+\0 Mais alors, (촀\0qu'est-ce que je
 vais bien pouvoir en faire?
 \0 (촀\0Il me
 reste plus qu'à demander aux autres."
@@ -71,8 +69,7 @@ clochettes?
 "102","(%촀\0Et 2\0}\0\0 rien que pour n\0!
 \0 (""촀\0Amuse-toi bien avec!"
 "103","(촀\0Je comprendsn\0\0
-\0 (
-촀\0Mais ce serait moche
+\0 (촀\0Mais ce serait moche
 que ça ne serve à personne...\0\0(촀\0Alors je vais faire un truc...
 \0 (""촀\0Tiens,
 c'est cadeau! (촀\0Nan, nan, me remercie
@@ -109,8 +106,7 @@ effort!
 c'est pas grave, heinn\0\0
 \0(촀\0 Reviens me
 voir si tu changes d'avis."
-"205","(
-촀\0Tu es dur2\0e en affaires, tu sais,
+"205","(촀\0Tu es dur2\0e en affaires, tu sais,
 n\0n\0\0
 \0 (&촀\0Et si je t'en
 demande Z?"
@@ -122,8 +118,7 @@ descendre plus bas, (촀\0loln\0\0
 rancune et à plus tard, OK?"
 "207","(촀\0Oh. \0Rounard \0￿fait pas le poids à côté
 de toin\0\0
-\0 (
-촀\0Et pourn\0\0 (&촀\0Z\0?
+\0 (촀\0Et pourn\0\0 (&촀\0Z\0?
 À prendre ou à laisser!"
 "207_a","Vendu!"
 "207_b","(\0촀\0Tant pis."
@@ -137,8 +132,7 @@ négociat2eurrice!"
 (촀\0J'arriverai bien à m'en débarrasser
 d'une manière ou d'une autre."
 "300","(""촀\0Cool!
-\0 (
-촀\0Alors qu'est-ce que tu dirais
+\0 (촀\0Alors qu'est-ce que tu dirais
 d'2\0}\0\0 pour disonsn\0\0 (&촀\0Z?"
 "300_a","D'accord!"
 "300_b","Aucun intérêt."
@@ -185,14 +179,12 @@ tu es toujours partant2\0e?"
 \0Z?"
 "403_a","Marché conclu!"
 "403_b","(\0촀\0Tu peux faire mieux!"
-"404","(
-촀\0Pfffn\0\0
+"404","(촀\0Pfffn\0\0
 \0 (&촀\0Et pour 
 \0Z?"
 "404_a","D'accord!"
 "404_b","(\0촀\0Un dernier effort?"
-"405","(
-촀\0Rhô, là làn\0\0
+"405","(촀\0Rhô, là làn\0\0
 \0
 \0((촀\0
 \0 Bon, mais c'est vraiment
@@ -223,8 +215,7 @@ descendre plus bas.
 \0(\0촀\0 On en reparle
 une autre fois?(촀\0 À plus!"
 "411","(촀\0Hmmn\0\0 
-\0(
-촀\0J'ai fait tout ce que j'ai pu.
+\0(촀\0J'ai fait tout ce que j'ai pu.
 \0
 
 \0Tant pis.(\0촀\0(촀\0 Mais c'est pas grave. Allez,

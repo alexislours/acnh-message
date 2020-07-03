@@ -16,9 +16,6 @@ quelque chose à vendre?"
 "003_a","(%촁\0Oui, je veux vendre."
 "003_b","(\0촁\0Revoir l'explication."
 "003_c","('촁\0Pas cette fois, merci."
-"004","Hmmn\0\0 Ça devrait te rapporter
-\0Z\0\0￿.
-\0 Ça te va?"
 "004_a","(%촁\0Marché conclu!"
 "004_b","('촁\0En fait, non."
 "010","D'après le panneau, c'est une « ⁠boîte
@@ -28,12 +25,10 @@ déposer tout ce qu'on veut vendre."
 "010_a","(\0촁\0Vendre quelque chose."
 "010_b","(\0촁\0Comment ça marche?"
 "010_c","('촁\0Pas pour le moment."
-"020","(
-촀\0On dirait que tu ne peux pas utiliser
+"020","(촀\0On dirait que tu ne peux pas utiliser
 la boîte si ton épargne à la Banque
 Nook a déjà atteint son maximum."
-"021","(
-촀\0On dirait que tu ne peux pas
+"021","(촀\0On dirait que tu ne peux pas
 vendre davantage d'objets de
 cette façon pour le moment."
 "101","\0Utilisation de la boîte de dépôt\0￿\0\0Tu peux nous déposer tout ce que tu

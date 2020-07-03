@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(
-촀\0Estoy en un verdadero ""duilema"".
+"001","(촀\0Estoy en un verdadero ""duilema"".
 \0
 Me pregunto qué haría el Cucharín
 Coloreado en mi lugarn"
@@ -51,6 +50,8 @@ opción?"
 crayones,
 \0 acuarelas,
 \0 mostazan"
+"022","(촀\0¿A que no sabes qué cosa me
+encanta últimamente?"
 "031","<"
 "031_01","(4촀\0No sé si ya te dije esto antes,
 \0 pero
@@ -82,22 +83,22 @@ solo para entretener a alguien.
 \0 ¿sabes?
 \0
 ( 촀\0¡Eso explicaría muchas cosas
-sospechosas!\0\0(
-촀\0Por ejemplo,
+sospechosas!\0\0(촀\0Por ejemplo,
 \0 eso de que la fruta
 crezca tan rápido,
-\0 o que salgan florecitas (촀\0cada vez que bailo así(\0촀\0n\0\0
+\0 o que salgan
+florecitas (촀\0cada vez que bailo así(\0촀\0n\0\0
 (8촀\0Y que siempre suene una musiquita
 para donde sea que me muevon\0\0
-\0 (촀\0que
-me gusta, ¿eh?
+\0
+(촀\0que me gusta, ¿eh?
 \0 No me quejon\0\0
 (촀\0Y luego el señor \0Tom Nook\0￿.
 \0 En general no entiendo a los adultos,
-pero menos a ese mapache.\0\0(촀\0""Te compraré conchas marinas para
+pero menos a ese mapache.\0\0()촀\0""Te compraré conchas marinas para
 que me puedas devolver mi propio
 dinero y pagar la casa que te vendí"".
-(촀\0Mis radares de detective lo ha descubierto todon\0\0\0\0(\0촀\0(촁\0
+(촀\0Mis radares de detective lo han descubierto todon\0\0\0\0(\0촀\0(촁\0
 \0P(촀\0
 \0¡Je, je, je!
 \0 ¿Te lo creíste todo?
@@ -120,8 +121,7 @@ que sería una idea deliciosa,
 \0
 ¡pero ya me cansé!
 (촀\0¡No quiero saber nada de 촀!
-\0 (촀\0¿Entiendes
-ahora la gravedad del asunto?"
+\0 (촀\0¿Entiendes ahora la gravedad del asunto?"
 "101_02","(촀\0¡Lo es!
 \0 ¡Lo es!
 \0 ('촀\0¿Cómo se supone
@@ -234,3 +234,27 @@ y complicados a la vez.\0\0()촀\0Cuenta la leyenda,
 \0 que alguna vez
 un afortunado logró terminar
 una obra de arte sin romperlosn"
+"105","<"
+"105_01","(촀\0¡Cantar!
+\0 ¡Salgo afuera y empiezo a
+cantaaar 촀 a los
+cuatro vientos!\0\0()촀\0Es totalmente ""gratruitro"".
+\0 Así que,
+¡cualquiera puede hacerlo!
+\0\0\0(촀\0Pero ten cuidado al abrir la boca
+para llegar a las notas más altasn\0\0
+\0
+Que el otro día me tragué un insecto."
+"105_02","(촀\0¡Correr como si fuera un aviónnn!
+(!촀\0Voy a toda máquina aleteando con
+los brazos como para levantar vuelo.
+(%촀\0Cuando me canso, aterrizo en
+un matorral y me echo una siesta.\0\0(6촀\0¡Ser piloto es increíble!
+\0
+(촀\0Un día de estos le pido a \0Rodri\0￿ que
+me deje conducir el hidroavión."
+"105_03","(촀\0Comer 촀 mientras bailo un tema de 촀.\0\0(1촀\0No sé qué tiene esa música que
+combina genial con 2\0촀.\0\0(%촀\0Como que se vuelve más sabrosit2$촀oa\0n\0\0
+\0
+Quiero (촀\0probar si también funciona
+con 2\0촀."

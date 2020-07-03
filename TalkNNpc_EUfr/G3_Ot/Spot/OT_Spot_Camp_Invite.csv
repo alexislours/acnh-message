@@ -33,20 +33,17 @@ populaire. 
 \0((6촀\0Mais je ne t'apprends sans
 doute rien, n\0."
 "101_02","( 촀\0Bigre !
-\0
- C'est une demande
+\0 C'est une demande
 sérieuse ?
 \0 (촀\0Tu ne peux pas savoir à
 quel point cela me touche !\0\0(촀\0Maisn\0\0
-\0
- malheureusement, je dois
+\0 malheureusement, je dois
 refuser. 
 \0(('촀\0Je ne peux pas quitter mon
 île.
 \0 (2촀\0Je l'aime trop pour çan"
 "101_03","( 촀\0Pardon ? 
-\0
-Tu veux que je vienne
+\0Tu veux que je vienne
 emménager ici ? 
 \0(4촀\0Ça alors,
 \0 l'idée ne
@@ -55,8 +52,7 @@ m'avait même pas traversé l'espritn\0\0
 \0((촀\0j'ai trop de
 projets en cours pour quitter mon
 île dans l'immédiatn\0\0
-(
-촀\0Ceci dit,
+(촀\0Ceci dit,
 \0 l'idée ne me déplaît pas.
 \0(
 (촀\0Repose-moi la même question dans
@@ -71,14 +67,11 @@ aime !
 \0
 ('촀\0Ce n'est pas une décision à prendre
 à la légère,
-\0 tu sais.\0\0(
-촀\0J'ai peut-être de nouvelles
+\0 tu sais.\0\0(촀\0J'ai peut-être de nouvelles
 opportunités ici,
-\0
- mais mes racines
+\0 mais mes racines
 sont là-bas.
-\0
- Hmmn\0\0\0\0(촀\0Je sais !
+\0 Hmmn\0\0\0\0(촀\0Je sais !
 \0( (촀\0Je vais laisser le sort choisir
 à ma place ! 
 \0(촀\0Nous allons jouer à un
@@ -94,8 +87,7 @@ qu'en dis-tu ?"
 "201_01_a","Je suis partant2\0e !"
 "201_01_b","Moui, bof..."
 "201_02","(촀\0Ha ha !
-\0
- On peut dire que tu n'es pas
+\0 On peut dire que tu n'es pas
 du genre à tourner autour du pot,
 \0
 toi !
@@ -110,8 +102,7 @@ j'arrive demain à la première heure.
 question qui mérite réflexion,
 \0 tu
 sais ?
-(
-촀\0Ceci dit,
+(촀\0Ceci dit,
 \0 je me sens d'humeur
 joueusen\0\0
 \0 (촀\0Que dirais-tu de nous
@@ -121,8 +112,7 @@ en remettre au hasard ?\0\0()촀\0Si tu gagnes,
 "201_02_a","C'est parti !"
 "201_02_b","Pas moyen !"
 "201_03","( 촀\0Bigre.
-\0
- Tu es vraiment sérieu2
+\0 Tu es vraiment sérieu2
 xse ?
 \0
 (촀\0Maisn\0\0 comment veux-tu que je
@@ -139,8 +129,7 @@ qui gagne, je rentre chez moi.
 "201_03_a","Dans ce cas : jouons !"
 "201_03_b","Je passe."
 "202_01","( 촀\0Oh.
-\0
- Je vois.
+\0 Je vois.
 \0 (촀\0Tout le monde n'est pas
 prêt à prendre ce genre de risque,
 
@@ -151,24 +140,16 @@ Je comprends, ne t'en fais pas.
 \0(촀\0
 Ce n'est que partie remise."
 "202_03","( 촀\0Oh ? 
-\0
-Tu es vraiment sûr2\0e de ne pas
+\0Tu es vraiment sûr2\0e de ne pas
 vouloir tenter ta chance ?
 \0 (촀\0Très bien,
-\0
-
+\0
 je n'insisterai pas."
 "203_01","(촀\0J'applaudis ton courage !
 \0
 (촀\0Puisque c'est ainsi, 
-\0
-commençons
-sans plus tarder.\0\0($촀\0Voilà ce qu'on va fairen\0\0
-\0( (\0촀\0Je vais tirer
-une carte
-\0
-(촀\0 et je vais te poser une
-question à son sujet !"
+\0commençons
+sans plus tarder."
 "204","<"
 "204_01","(촀\0La victoire me revient !
 \0((\0촀\0 Je suis
@@ -186,8 +167,7 @@ pas rigueur."
 \0 ça a été très
 divertissant.\0\0('촀\0Ce n'est pas aujourd'hui que je
 déménagerai,
-\0
-(촀\0 mais tu auras peut-être
+\0(촀\0 mais tu auras peut-être
 plus de chance la prochaine fois."
 "205_02","(촀\0J'ai passé un excellent moment en ta
 compagnie,
@@ -203,10 +183,8 @@ passé un merveilleux moment ici."
 "206","<"
 "206_01","(촀\0Tu as gagné !
 \02 ( 촀\0Bigre ! 
-\0
-Ça veut dire que je vais devoir emménager ici !\0\0(촀\0C'est une grande aventure qui
-s'annonce, n\0 !\0\0(
-촀\0Une grande aventure qui commence
+\0Ça veut dire que je vais devoir emménager ici !\0\0(촀\0C'est une grande aventure qui
+s'annonce, n\0 !\0\0(촀\0Une grande aventure qui commence
 par une petite visite au \0bureau des
 résidents\0￿n\0\0
 ($촀\0Le temps de m'assurer que je peux
@@ -234,8 +212,7 @@ au finaln\0\0\0\0(%촀\0Je m'en réjouis,
 \0( (5촀\0Je
 n'ai jamais été du genre à dire non à
 une nouvelle aventure, n\0.
-(
-촀\0Ceci dit, il convient avant toute
+(촀\0Ceci dit, il convient avant toute
 chose d'obtenir une autorisation
 auprès du \0bureau des résidents\0￿.
 ($촀\0Veux-tu m'attendre une seconde,
@@ -245,8 +222,7 @@ le temps que j'aille demander ?"
 \0
 (6촀\0Ma foi, on ne peut pas décemment
 te le reprocher.
-(
-촀\0Mais j'hésite, j'hésiten\0\0(촀\0 Oh, j'ai
+(촀\0Mais j'hésite, j'hésiten\0\0(촀\0 Oh, j'ai
 trouvé !
 \0 Laissons le hasard prendre
 cette difficile décision à ma place !
@@ -259,8 +235,7 @@ gagnes, j'emménage sur ta délicieuse
 "207_01_b","J'aime pas les jeux."
 "207_02","( 촀\0Oh, tu me demandes à nouveau de
 vivre sur ton île ? 
-\0(
-촀\0C'est flatteurn\0\0
+\0(촀\0C'est flatteurn\0\0
 Et même tentant.
 (6촀\0Mais il faut plus qu'un compliment
 bien tourné pour s'offrir le bonheur
@@ -277,8 +252,7 @@ J'étais certaine que tu ne réitérerais
 pas ton invitationn\0\0
 (6촀\0Mais cette tentative désespérée a le
 don de m'émouvoir.
-\0 (
-촀\0Par contre, on
+\0 (촀\0Par contre, on
 ne me convainc pas aussi facilement.
 (촀\0Je sais ! 
 \0()촀\0Jouons à un jeu, dans les
@@ -333,11 +307,9 @@ question,
 \0, ce ne serait
 vraiment pas élégant."
 "304","(""촀\0Très bien, 
-\0
-je vais prendre mon
+\0je vais prendre mon
 courage à deux pattes et aller
-soumettre cette idée à quelqu'un.\0\0(
-촀\0Hmmn\0\0 vers qui devrais-je me
+soumettre cette idée à quelqu'un.\0\0(촀\0Hmmn\0\0 vers qui devrais-je me
 tourner à ton avis, n\0 ?\0\0(8촀\0Au \0bureau des résidents\0￿, on m'a
 dit que j'arriverais peut-être à
 convaincre quelqu'un de partirn"
@@ -347,8 +319,7 @@ convaincre quelqu'un de partirn"
 "305_c","J'ai changé d'avis."
 "306","(""촀\0Je vais aller l2촀ea\0 voir de ce pas.
 \0(
-(
-촀\0Hmmn\0\0 j'espère que l'idée lui plaira."
+(촀\0Hmmn\0\0 j'espère que l'idée lui plaira."
 "307","(&촀\0Tu viens d'avoir une meilleure idée ?
 \0( 촀\0
 Dis-moi tout."
@@ -360,8 +331,7 @@ Dis-moi tout."
 \0 mais
 je respecte ton choix, n\0."
 "309","(""촀\0Bonn\0\0
-\0
- nous avons longuement
+\0 nous avons longuement
 discuté, avec s촀.
 \0 ()촀\0Très longuement discuté, mêmen\0\0
 (촀\0Et 2촀ilelle\0 est d'accord pour me laisser
@@ -372,6 +342,19 @@ pouvoir devenir sa voisine, n\0n\0\0\0\0Enfin ce n'est pas un drame,
 \0(%촀\0 il doit
 y avoir plein d'autres personnes
 charmantes à n\0 !"
+"309_01","Je lui ai donc rendu visite,
+\0 ('촀\0mais il n'y
+avait personne.
+\0 ( 촀\0Il faut croire qu'2촀ilelle\0
+a déjà fait ses valises, n\0 !
+(촀\0Ne suis-je pas une fieffée veinarde ?
+\0
+()촀\0En tout cas, mon chou,
+\0 les planètes
+s'alignent pour mon emménagement.
+(%촀\0Je peux désormais préparer mes
+cartons en toute sérénité. Et toi, tu
+peux préparer mon accueil triomphal."
 "310","( 촀\0Qu'y a-t-il ?
 \0( (&촀\0Tu n'as aucun candidat
 en tête ?"
@@ -417,8 +400,7 @@ que partie remise,
 malheureusement j'ai une mauvaise
 nouvelle pour nous deuxn\0\0
 Je reviens du \0bureau des résidents\0￿,
-\0
-('촀\0
+\0('촀\0
 et il n'y a aucun terrain à vendre.\0\0(%촀\0Ça ressemble à un problème
 d'aménagement du territoire,
 \0
@@ -447,11 +429,9 @@ stress !
 envie :
 \0(촀\0 démarrer ma nouvelle vie !"
 "410","Tu sais, (8촀\0à bien y réfléchir,
-\0
- je me dis
+\0 je me dis
 que subir un échec estn\0\0
-\0
- estn\0\0
+\0 estn\0\0
 \0 (촀\0eh
 bien, tout bonnement inacceptable !
 (촀\0Je suis sûre qu'il y a dû y avoir une
@@ -469,8 +449,7 @@ de patience et à croiser les doigts,
 rienn\0\0
 \0((촀\0 je me demande si tu me dis
 tout à son sujet.
-(
-촀\0Est-ce que le \0bureau des résidents
+(촀\0Est-ce que le \0bureau des résidents
 \0￿est en réalité là pour écarter les
 fouineurs ?
 \0( (촀\0Ha ha,
@@ -480,8 +459,7 @@ fouineurs ?
 ne pas pouvoir venir. 
 \0((촀\0J'ai envie d'être
 là où les choses se passent !"
-"424","(
-촀\0J'ai du mal à croire qu'il n'y ait pas
+"424","(촀\0J'ai du mal à croire qu'il n'y ait pas
 un seul terrain à vendre sur ton îlen\0\0 (&촀\0
 Mais ça finira bien par arriver, non ?
 ('촀\0Toute cette histoire est bien
@@ -494,17 +472,14 @@ eu à vous apporter !"
 quelque chose de spécial.\0\0(촀\0Je me sens tellement bien ici !
 \0(
 Franchement,
-\0
- (촀\0j'hésiterais presque
+\0 (촀\0j'hésiterais presque
 à rentrer chez moi, n\0."
 "504_a","($촀\0Et si c'était ici, chez toi ?"
 "504_b","(&촀\0À ce point ?"
 "505","(촀\0Comme tu es chou !
 \0 (\0촀\0Mais tu saisn\0\0
-\0
-
-(
-촀\0je ne peux pas prendre ce genre de
+\0
+(촀\0je ne peux pas prendre ce genre de
 décision à la légèren\0\0
 (촀\0Je dois dire que c'est très tentant !
 \0(
@@ -515,34 +490,26 @@ connais pas encore assez l'îlen\0\0
 \0(2촀\0N'as-tu vraiment pas
 remarqué à quel point mon teint
 s'embellit lorsque je suis ici ?
-(
-촀\0Cela me rappellen\0\0 Je dois penser à
+(촀\0Cela me rappellen\0\0 Je dois penser à
 emporter quelques n촁 d'ici pour m'en faire une crèmen"
-"507","(
-촀\0Tu sais,
-\0
- j'ai l'impression de
+"507","(촀\0Tu sais,
+\0 j'ai l'impression de
 m'entendre avec absolument tout
 le monde sur cette îlen\0\0
 (4촀\0Est-ce que tu penses que cela serait
 encore le cas si je venais emménager
 ici ?"
 "507_a","(!촀\0Emménage et tu sauras !"
-"507_b","(
-촀\0Bonne question..."
+"507_b","(촀\0Bonne question..."
 "508","(촀\0C'est chou !
-\0
- En plus,
+\0 En plus,
 \0 je suis sûre que
 je me plairais ici.
-\0( (
-촀\0Maisn\0\0
-\0
- je me plais
+\0( (촀\0Maisn\0\0
+\0 je me plais
 aussi déjà sur mon île actuellen\0\0
 (촀\0Fichtre, 
-\0
-ce n'est pas facile comme
+\0ce n'est pas facile comme
 décision.
 \0((촀\0 Je vais devoir y réfléchir
 comme il se doit, n\0.
@@ -555,6 +522,5 @@ compter sur toi ?"
 \0 Ne me dis pasn\0\0(&촀\0 tu penses que
 ça ne durerait pas ?\0\0(촀\0Je pense que tu t'inquiètes pour rien,
 2&mon chouma chérie,
-\0
- (6촀\0je te ferais savoir que je
+\0 (6촀\0je te ferais savoir que je
 suis très affable, n\0."

@@ -51,8 +51,7 @@ mi trasferirò su quest'isola.
 avresti preso in considerazione
 la mia idea.
 \0( (촀\0Merci!
-(
-촀\0Sono tentatissimissimissima,
+(촀\0Sono tentatissimissimissima,
 \0 ma
 non ne sono ancora certa
 \0n\0\0\0\0(촀\0Parbleu, ho trovato! 
@@ -65,8 +64,7 @@ che sia la sorte a decidere?\0\0(\0촀\0Facciamo un gioco e se vinci tu,
 "201_02_b","Uhm, non saprei..."
 "201_03","(촀\0Acciderbolina,
 \0 davvero ritieni che
-dovrei?\0\0(
-촀\0Tuttavia, devo confessare che non è
+dovrei?\0\0(촀\0Tuttavia, devo confessare che non è
 da me prendere decisioni affrettate
 così, d'emblée.
 (촀\0Quelle idée! 
@@ -119,8 +117,7 @@ questa visita 2\0 (촀\0n""\0."
 "206","<"
 "206_01","(촀\0Parbleu, hai vinto!
 \0( (\0촀\0Il che significan\0\0
-(!촀\0Che tu e io saremo 2vicinivicine!\0\0(
-촀\0Anche se immagino che prima debba
+(!촀\0Che tu e io saremo 2vicinivicine!\0\0(촀\0Anche se immagino che prima debba
 andare a informare il \0centro servizi\0￿.
 
 \0((촀\0Ci farò un salto tout de suite!"
@@ -129,14 +126,12 @@ andare a informare il \0centro servizi\0￿.
 era destino
 \0 che mi trasferissi su
 quest'isola.
-(
-촀\0Ora non mi resta che rivolgermi
+(촀\0Ora non mi resta che rivolgermi
 al \0centro servizi \0￿
 \0per chiedere se
 posso stabilirmi qui. 
 \0(촀\0Ci vado subito!"
-"206_03","(
-촀\0Uhm, probabilmente era destino che
+"206_03","(촀\0Uhm, probabilmente era destino che
 perdessi,
 \0 così mi sarei trasferita su
 quest'isolan\0\0
@@ -144,8 +139,7 @@ quest'isolan\0\0
 \0Traslocherò qui non
 appena avrò finito il mio soggiorno
 come campeggiatrice.
-(
-촀\0Oh,
+(촀\0Oh,
 \0 ma prima sarà meglio che
 vada al \0centro servizi \0￿per ottenere
 il permesso. 
@@ -170,8 +164,7 @@ tua richiesta e mi trasferisco.
 \0Sul
 serio?
 \0 (촀\0Non so decidermi! 
-\0(
-촀\0Sentin\0\0
+\0(촀\0Sentin\0\0
 cosa ne dici di fare un petit jeux?
 (%촀\0Lasceremo che sia il destino a
 determinare la mia vita! 
@@ -190,7 +183,7 @@ cedere alla pressione
 come questa.
 (촀\0Ho un'idea!
 \0 Perché non lasciamo
-il mio futuro nelle mani del fato?\0\0(\0촀\0Faremo un jeux e se vinci,
+il mio futuro nelle zampe del fato?\0\0(\0촀\0Faremo un jeux e se vinci,
 \0 (촀\0n""\0 diventerà la mia nuova maison.
 \0(촀\0 Pront2oa?"
 "207_03_a","Sono nat2oa pront2oa!"
@@ -218,8 +211,7 @@ sono buone nuove dal \0centro servizi\0￿,
 ci sono appena statan\0\0\0\0(촀\0Pare che sull'isola non ci sia più
 spazio per nuovi pied-à-terre(촀\0 e che
 quelli esistenti siano tutti occupati.
-(
-촀\0Parbleun\0\0
+(촀\0Parbleun\0\0
 \0 forse dovrei informarmi in
 \0
 giro in caso qualcuno stia(9촀\0 pensando
@@ -245,8 +237,7 @@ ad andarsene,
 "305_a","Sì."
 "305_b","Qualcun altro."
 "305_c","Lascia perdere."
-"306","(
-촀\0Forse posso trovare un modo per
+"306","(촀\0Forse posso trovare un modo per
 chiedere
 \0 senza risultare impicciona
 e insistente, n\0n"
@@ -268,6 +259,19 @@ anticipare i suoi piani, n\0!
 (\0촀\0Sono contentissima di averti come
 2vicinovicina,
 \0 (촀\0n\0!"
+"309_01","()촀\0Sono andata da s촀 per parlare del trasloco,
+\0 mais se n'era già andat2촀oa\0!\0\0(촀\0È un peu tristen\0\0
+\0(촀\0 ma anche
+bellissimissimo! 
+\0Adesso posso
+trasferirmi, n\0!\0\0(;촀\0Esatto, mi sono ricordata il tuo
+nome.
+\0 Ma non è un problème se
+tu hai scordato il mio.
+(촀\0È n
+\0! 
+\0Non vedo l'ora di essere tua vicina. 
+\0(!촀\0Ci divertiremo tanto, vedrai, n\0."
 "310","(촀\0Capperini, 
 \0era troppo sperare 
 \0che
@@ -330,8 +334,7 @@ che dovessi trasferirmi qui?
 (촀\0Essere la tua nuova vicina sarà a
 dir poco sublimissimissimissimo,
 n\0!"
-"410","(
-촀\0Uhm, ritengo che in questioni del
+"410","(촀\0Uhm, ritengo che in questioni del
 genere, 
 \0a volte il tempismo sia
 importantissimissimo, n\0.\0\0(\0촀\0Magari la situazione è mutata da

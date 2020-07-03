@@ -9,8 +9,7 @@ besser kennenlernen. 
 \0Wie zum
 Beispiel dich, 
 \0n\0!"
-"003","(
-촀\0Über welches Thema könnten wir
+"003","(촀\0Über welches Thema könnten wir
 denn mal schnacken? 
 \0((촀\0Ah! 
 \0Mir ist
@@ -59,8 +58,7 @@ Sachen 촀?"
 \0was du da am
 liebsten magst,
 \0 war deine Antwort:
-„2\0
-촀“.\0\0(&촀\0Würdest du jetzt immer noch
+„2\0촀“.\0\0(&촀\0Würdest du jetzt immer noch
 dasselbe sagen, 
 \0n\0?"
 "010_101_a","(%촀\0Auf jeden Fall!"
@@ -69,8 +67,7 @@ dasselbe sagen, 
 empfohlen hast, 
 \0als es um das Thema
 촀 ging?
-()촀\0„2\0
-촀“! 
+()촀\0„2\0촀“! 
 \0So was in dem Stil wäre das Richtige für mich, 
 \0hast du gesagt.\0\0(촀\0Bist du immer noch der Meinung,
 
@@ -82,16 +79,14 @@ Traumjob gefragt. 
 \0Deine Antwort
 hab ich mir gemerkt, 
 \0n\0.
-„2\0
-촀“! 
+„2\0촀“! 
 \0(&촀\0Tickst du in der Beziehung immer noch genauso?"
 "010_103_a","(%촀\0Alles wie gehabt!"
 "010_103_b","('촀\0Nein..."
 "010_104","(%촀\0Ich hab dich doch mal nach deinem
 Lieblingshobby gefragt. 
 \0Und ich weiß
-noch genau deine Antwort.\0\0()촀\0„2\0
-촀“! 
+noch genau deine Antwort.\0\0()촀\0„2\0촀“! 
 \0((&촀\0Würdest du die Aussage immer noch so stehen lassen?"
 "010_104_a","(%촀\0Auf jeden Fall!"
 "010_104_b","('촀\0Nein!"
@@ -100,8 +95,7 @@ noch genau deine Antwort.\0\0()촀\0„2\0
 worin du besonders gut bist.
 \0
 Deine Antwort weiß ich noch genau.
-((촀\0„2\0
-촀“! 
+((촀\0„2\0촀“! 
 \0(&촀\0Würdest du hier und jetzt immer noch dieselbe Antwort geben?"
 "010_105_a","(%촀\0Aber hallo!"
 "010_105_b","('촀\0Nein..."
@@ -121,8 +115,7 @@ stimmt, 
 Meinung nicht geändert hast...\0\0()촀\0Dann hab ich n촀 gegenüber auch nichts Falsches behauptet, 
 \0n\0.\0\0(5촀\0Mein Traumberuf ist übrigens Profi
 im 촀. 
-\0<(
-촀\0Aber ob ich es noch so weit bringe, 
+\0<(촀\0Aber ob ich es noch so weit bringe, 
 \0n\0?"
 "011_04","(6촀\0Ah, 
 \0gut. 
@@ -132,8 +125,7 @@ erwähnt, 
 \0
 wenn 2촀ersie\0 dich für 2:einen Experteneine Expertin
 in Sachen 촀 hält."
-"011_05","(
-촀\0Dann ist ja gut. 
+"011_05","(촀\0Dann ist ja gut. 
 \0Ich dachte schon,
 \0
 ich hätte n촀 womöglich Bockmist erzählt.\0\0()촀\0Nicht dass 2촀ersie\0 dich irgendwann mit
@@ -145,8 +137,7 @@ Fragen zu einem Thema überhäuft,
 ja nichts Falsches erzählt, 
 \0als ich mit
 n촀 trainiert habe.
-(%촀\0„2\0
-촀“,
+(%촀\0„2\0촀“,
 \0 genau das hab ich gesagt, 
 \0als es um deine Vorlieben ging."
 "011_102","(촀\0Puh, 
@@ -165,8 +156,7 @@ das n촀 mal beim Joggen erzählt habe, 
 \0n\0.\0\0(%촀\0Und ich will ja nicht irgendwelches
 Blech daherreden. 
 \0(()촀\0Ich wäre übrigens
-gern Profi im 촀.\0\0(
-촀\0Oder vielleicht im 촁...
+gern Profi im 촀.\0\0(촀\0Oder vielleicht im 촁...
 \0(
 Ach,
 \0 egal,
@@ -178,8 +168,7 @@ Ach,
 \0als es ums Thema Hobbys ging.\0\0(8촀\0Sei nicht allzu überrascht,
 \0 wenn
 2촀ersie\0 demnächst Fragen zum Thema
-„
-촀“ hat."
+„촀“ hat."
 "011_105","(7촀\0Ah, 
 \0da bin ich beruhigt! 
 \0(4촀\0Ich hab
@@ -234,33 +223,28 @@ am besten gefällt, 
 dieselbe, 
 \0die du mir gegeben hast?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "030_101_a","(%촀\0Aber klar doch!"
 "030_101_b","('촀\0Nee."
 "030_102","Ist die Antwort auf die Frage nach deinem 촀 ($촀\0wirklich
-„⁠
-촀⁠“?"
+„⁠촀⁠“?"
 "030_102_a","(%촀\0Auf jeden Fall!"
 "030_102_b","('촀\0Nö, Gerüchte!"
 "030_103","(&촀\0Wäre deine Antwort auf die Frage
 nach deinem Traumberuf immer noch
-„
-촀“?"
+„촀“?"
 "030_103_a","(%촀\0Ganz bestimmt!"
 "030_103_b","('촀\0Nö, jetzt nicht mehr."
 "030_104","(%촀\0Du sollst auf die Frage nach
 deinem Hobby geantwortet haben:
 \0
-„2\0
-촀“.\0\0(&촀\0Stimmt das so, 
+„2\0촀“.\0\0(&촀\0Stimmt das so, 
 \0n\0?"
 "030_104_a","(%촀\0Ja, stimmt!"
 "030_104_b","('촀\0Nee."
 "030_105","(%촀\0Angeblich beantwortest du die Frage
 nach deinem besonderen Talent mit
-„
-촀“.\0\0(&촀\0Kommt das hin, 
+„촀“.\0\0(&촀\0Kommt das hin, 
 \0n\0?"
 "030_105_a","(%촀\0Ja, das ist wahr."
 "030_105_b","('촀\0Nein, das ist falsch."
@@ -300,13 +284,11 @@ zu haben. 
 촀 geht!"
 "031_101","( 촀\0Zur Hantel!
 \0(촀\0 Ich steh auch total auf
-
-촀!\0\0(5촀\0Über das Thema sollten wir
+촀!\0\0(5촀\0Über das Thema sollten wir
 irgendwann mal ausführlich
 quatschen, 
 \0n\0!"
-"031_102","(%촀\02\0
-촀!
+"031_102","(%촀\02\0촀!
 \0
 Da geht nichts drüber, 
 \0das stimmt...\0\0(5촀\0Noch unschlagbarer als ich im
@@ -317,8 +299,7 @@ Armdrücken, 
 meine durchtrainierten Daumen,
 \0
 dass dein Traum wahr wird!"
-"031_104","(촀\0Mit 2\0
-촀 verbringe ich ganz gern meine Trainingspausen, 
+"031_104","(촀\0Mit 2\0촀 verbringe ich ganz gern meine Trainingspausen, 
 \0n\0.\0\0(4촀\0Aber vielleicht kann man gar nicht
 von einem Hobby sprechen, 
 \0so kurz
@@ -346,8 +327,7 @@ kommen, 
 "032_03","(촀\0Ich kann mir mich selbst ja nicht als
 촀 vorstellen, 
 \0obwohl es sicher ein ganz cooler Job ist."
-"032_04","(
-촀\0촀... 
+"032_04","(촀\0촀... 
 \0Nicht mein Spezialgebiet, so viel steht fest.\0\0(촀\0Wenn wir uns mal wieder sehen,
 \0
 erzähl mir mal, 
@@ -358,8 +338,7 @@ Thema alles zu sagen hast."
 ruhig ein bisschen was über
 das Thema, 
 \0n\0."
-"032_101","(8촀\0„2\0
-촀“n\0\0 
+"032_101","(8촀\0„2\0촀“n\0\0 
 \0(촀\0Das passt zu dir, 
 \0n\0!\0\0(%촀\0Willst du mir das genauer erläutern?
 \0
@@ -376,9 +355,7 @@ Munde zusammen, 
 ganz guten Plan...\0\0(6촀\0Aber dein Plan B hat's bestimmt
 auch in sich, 
 \0n\0..."
-"032_104","(
-촀\0„2\0
-촀“!
+"032_104","(촀\0„2\0촀“!
 \0
 Klingt ja ganz interessant...\0\0(촀\0Wenn wir uns das nächste Mal
 treffen, 
@@ -477,13 +454,11 @@ mögen! 
 alle Fan vom selben Fußballverein..."
 "049","(촀\0Ach? 
 \0Wirklich? 
-\0(
-촀\0Dann muss ich das
+\0(촀\0Dann muss ich das
 irgendwie falsch mitbekommen
 haben, 
 \0n\0."
-"051","(8촀\0„2\0
-촀“?
+"051","(8촀\0„2\0촀“?
 \0(
 (&촀\0Hab ich das richtig verstanden?"
 "051_a","Ja, passt."
@@ -535,32 +510,27 @@ es 2(umumumsumumum 촀 geht, 
 \0dann bleibst du doch
 bei deiner vorherigen Aussage?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "060_102","( 촀\0Moment, 
 \0dann bleibst du doch
 bei deiner vorherigen Aussage?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "060_103","( 촀\0Moment, 
 \0dann bleibst du doch
 bei deiner vorherigen Aussage?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "060_104","( 촀\0Moment, 
 \0dann bleibst du doch
 bei deiner vorherigen Aussage?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "060_105","( 촀\0Moment, 
 \0dann bleibst du doch
 bei deiner vorherigen Aussage?
 \0
-„2\0
-촀“?"
+„2\0촀“?"
 "061","(%촀\0Okay, 
 \0verstanden! 
 \0Ich wollte nur
@@ -1002,8 +972,7 @@ den Marathon, 
 mit Hürden bestücken, 
 \0damit es
 sich auch richtig lohnt..."
-"104_07","(
-촀\0Ja, 
+"104_07","(촀\0Ja, 
 \0lecker, 
 \0aber als Durstlöscher
 nicht immer geeignet, 
@@ -1081,8 +1050,7 @@ doch gleich das doppelte Gewicht!"
 \0Es geht eigentlich
 nichts über das Gefühl, 
 \0einen Dunk
-kraftvoll in den Korb zu stopfen!\0\0(
-촀\0Außer einen Dunk SO kraftvoll in den
+kraftvoll in den Korb zu stopfen!\0\0(촀\0Außer einen Dunk SO kraftvoll in den
 Korb zu stopfen, 
 \0dass das Brett
 in tausend Teile zersplittert."
@@ -1120,21 +1088,18 @@ mal? 
 \0den konnte ich mir jetzt
 nicht verkneifen, 
 \0n\0..."
-"106_01","„2\0
-촀“...
+"106_01","„2\0촀“...
 \0(
 (촀\0Wenn dich das beim Training pusht,
 \0
 dann ist es genau das Richtige!"
-"106_02","(
-촀\0Hmmmn\0\0 klingt interessant! 
+"106_02","(촀\0Hmmmn\0\0 klingt interessant! 
 \0
 (&촀\0Und du bist sicher, 
 \0dass das was
 zum Lesen ist, 
 \0n\0?"
-"106_03","(
-촀\0Klingt ja ganz interessant.
+"106_03","(촀\0Klingt ja ganz interessant.
 \0(
 (7촀\0Gibt's es in dem Genre am Ende
 auch immer einen Kampf?
@@ -1159,14 +1124,11 @@ Muskeln hast du ja,
 \0 egal für
 welchen Sport, 
 \0n\0!"
-"106_07","(
-촀\0„2\0
-촀“?\0\0(촀\0Klingt ja nicht schlecht. 
+"106_07","(촀\0„2\0촀“?\0\0(촀\0Klingt ja nicht schlecht. 
 \0Vielleicht
 sollte ich mir wirklich mal so was in
 der Richtung besorgen."
-"106_08","(%촀\0„2\0
-촀“n\0\0
+"106_08","(%촀\0„2\0촀“n\0\0
 \0
 (촀\0Das passt zu dir, 
 \0n\0!"
@@ -1183,8 +1145,7 @@ damit probieren.
 (7촀\0Wenn mein Trainingsprogramm mir
 dafür Luft lässt, 
 \0n\0..."
-"106_11","(
-촀\0Aha, 
+"106_11","(촀\0Aha, 
 \0ich glaub, 
 \0die Antwort hab ich
 von sonst noch niemandem auf die

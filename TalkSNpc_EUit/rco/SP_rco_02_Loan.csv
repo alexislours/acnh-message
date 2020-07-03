@@ -8,8 +8,7 @@ all'ultima stellina!
 \0non avevo dubbi che l'avresti
 fatto, ma occasioni del genere vanno
 festeggiate, no?!
-(
-촀\0Sono anche un buon momento per
+(촀\0Sono anche un buon momento per
 riflettere e fare piani per il futuron\0\0
 
 \0Sì, sì!
@@ -30,11 +29,11 @@ quando vuoi."
 \0((촀\0 Adesso sei il legittimo
 proprietario di una lussuosa dimora
 pagata per intero!
-(5촀\0Immagino tu sia molto soddisfatt2oa, dico bene?
+(5촀\0Immagino tu sia molto soddisfatt2oa,
+dico bene?
 \0 Sì, sì, cosa può esserci
 di più bello al mondo?!
-(
-촀\0Behn\0\0 in effetti, potresti avere una
+(촀\0Behn\0\0 in effetti, potresti avere una
 stanza in più. 
 \0Questo renderebbe
 le cose ancora migliorin\0\0
@@ -105,8 +104,7 @@ che se ne intende, fidati. 
 una piccola tenda a una lussuosa
 dimora a due piani! 
 \0Straordinario!
-(
-촀\0Oserei dire che in fatto di spazio
+(촀\0Oserei dire che in fatto di spazio
 sei a posto, 
 \0man\0\0(&촀\0 perché mai si
 dovrebbero porre limiti al comfort?
@@ -197,10 +195,10 @@ preferisci. L'importante è che paghi!
 (촀\0Sì, sì! I pagamenti possono essere
 agevolmente effettuati utilizzando
 lo \0Stellomat\0￿ del \0Punto Nook\0￿."
-"012_05","(\0촀\0(
-촀\0Questo è quanto. Per oggi non ho
-altro da aggiungere in fatto di case.
-\0(촀\0 Ma ho una bella sorpresa per te!\0\0(6촀\0Pront2oa?
+"012_05","(\0촀\0(촀\0Questo è quanto. Per oggi non ho
+altro da aggiungere in fatto di case.
+
+\0(촀\0Ma ho una bella sorpresa per te!\0\0(6촀\0Pront2oa?
 \0 (촀\0È un articolo premium che
 puoi ottenere solo con le miglia:
 il \0coupon miglia di Nook\0￿!"
@@ -256,11 +254,20 @@ esattamente \0548.000 stelline\0￿, sì, sì!"
 "041_04","(\0촀\0Solo un'ultima cosan\0\0\0\0(촀\0Ora che hai fatto miglioramenti così
 consistenti,
 \0 posso offrirti servizi di
-\0personalizzazione\0￿.\0\0Non si tratta di ingrandire la tua
+\0personalizzazione\0￿.\0\0()촀\0Non si tratta di ingrandire la tua
 casa, ma di cambiare l'aspetto del
-suo \0esterno\0￿.\0\0(\0촀\0Le nostre offerte dipendono dalle dimensioni della tua dimora, man\0\0\0\0(촀\0I servizi di personalizzazione non
-hanno nulla a che fare con il tuo
-prestito e si pagano in anticipo!"
+suo \0esterno\0￿.\0\0(%촀\0Le nostre offerte dipendono dalle
+dimensioni della tua dimora, ma i
+costi del servizio sono inclusi.\0\0(촀\0Puoi quindi apportare modifiche
+liberamente, senza altri prestiti. 
+\0Dal
+tetto alla cassetta delle lettere, sì sì!\0\0(촀\0A proposito della \0cassetta delle
+lettere\0￿: 
+\0non solo puoi cambiarne
+l'aspetto, ma anche la \0posizione\0￿!\0\0()촀\0Premi \0\0￿ per prenderla e sistemarla
+dove vuoi. 
+\0E non preoccuparti: la tua
+posta saprà sempre dove arrivare!"
 "051_01","(&촀\0La tua casa ha una stanza in più.(촀\0
 Un bel po' di spazio extra non ha
 mai fatto male a nessuno!"
@@ -289,19 +296,9 @@ della casa che possiamo offrirti ora
 (촀\0Tetto, esterni, porta e cassetta delle
 letteren\0\0
 \0 Cambiali e la tua dimora
-avrà subito un look tutto nuovo!
-(촀\0A proposito della \0cassetta delle
-lettere\0￿: 
-\0non solo puoi cambiarne
-l'aspetto, ma anche la \0posizione\0￿!\0\0()촀\0Premi \0\0￿ per prenderla e sistemarla
-dove vuoi. 
-\0E non preoccuparti: la tua
-posta saprà sempre dove arrivare!\0\0(촀\0Spero vorrai provare questo servizio
-di personalizzazione. 
-\0Non vedo l'ora
-di ammirarne il risultato, 
-\0sì, sì!"
-"071_01","(촀\0Adesso la tua dimora ha anche una cantina come si deve, dico bene?!\0\0Non ci sono sull'isola molti abitanti
+avrà subito un look tutto nuovo!"
+"071_01","(촀\0Adesso la tua dimora ha anche una
+cantina come si deve, dico bene?!\0\0Non ci sono sull'isola molti abitanti
 con una casa prestigiosa come la tua,
 te lo dice un esperto, fidati. Sì, sì!"
 "071_02","(\0촀\0A questo punto non ci resta che

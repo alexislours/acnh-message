@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","( 촀\0Uau, 
 \0dici davvero? 
-\0(
-촀\0In effetti, se
+\0(촀\0In effetti, se
 vivessi qui potrei raggiungere una
 forma fisica ancora superiore!
 (촀\0Va bene, 
@@ -104,12 +103,8 @@ degni di un vicino possente come
 me, n\0."
 "203_01","(촀\0Bene, 
 \0allora sotto con il nostro
-gioco di carte!\0\0()촀\0È davvero semplice: 
-\0io estrarrò una
-carta e tu dovrai indovinare qualcosa
-
-\0che ora ti spiegherò.
-\0( Sei 2prontopronta?"
+gioco di carte!
+"
 "204","<"
 "204_01","(5촀\0Per tutti i deltoidi, 
 \0ho vinto io!
@@ -228,8 +223,7 @@ mi mettessi d'accordo con uno dei
 residenti attuali?"
 "302_a","Provaci!"
 "302_b","Forse non è il caso."
-"303","(
-촀\0Mmmh, 
+"303","(촀\0Mmmh, 
 \0mi sa che hai ragione,
 n\0.\0\0(;촀\0Immagina che paura se uno forzuto
 come me si presentasse a casa tua e
@@ -257,19 +251,25 @@ dovrei parlare?"
 "309","(촀\0Per tutti i deltoidi! 
 \0Non appena mi ha visto avvicinarmi,
 \0 s촀 ha fatto subito i bagagli.
-\0 Evviva! \0\0()촀\0Non ho fatto quasi in tempo a
-spiegar2촀glile\0 la situazione o mostrar2촀glile\0 un po' i muscoli.
+\0 Evviva!\0\0()촀\0Non ho fatto quasi in tempo a
+spiegar2촀glile\0 la situazione o mostrar2촀glile\0
+un po' i muscoli.
 \0 Problema risolto!
 (촀\0Mi è sembrat2촀oa\0 gentile, 
 \0anche se
 un po' nervos2촀oa\0. 
-\0(
-촀\0Un po' stressat2촀oa\0,
+\0(촀\0Un po' stressat2촀oa\0,
 forse, n\0n\0\0
 (%촀\0A proposito, com'è che ti chiami?
 \0 Se non sbaglio sei n\0, vero?
 \0( (촀\0Beh,
 \0 a presto allora!"
+"309_01","()촀\0Allora, ti racconton\0\0 Sono andato a cercare s촀, 
+\0però sembra che sia partit2촀oa\0 da tempo.\0\0(촀\0E quindi ora c'è via libera per il mio
+trasferimento qui, n\0!\0\0(&촀\0Dunque tu sei n\0, eh?
+\0 (촀\0Beh, preparatin\0\0 
+\0(5촀\0Sta arrivando n
+\0!"
 "310","(&촀\0Che? 
 \0Non credi che possa
 interessare a qualcuno?"
@@ -368,8 +368,7 @@ il minimo sforzo, n\0!"
 "504_b","Ricordati di bere."
 "505","( 촀\0Vuoi che mi trasferisca qui in pianta
 stabile?
-\0( (
-촀\0È un'offerta allettante.
+\0( (촀\0È un'offerta allettante.
 
 \0Mmmhn\0\0
 ()촀\0Se vivessi qui, 
@@ -405,8 +404,7 @@ qui?
 muscoli qui, 
 \0è tempo di farlo anche
 in altre isole!
-(
-촀\0Sono molto tentato, man\0\0
+(촀\0Sono molto tentato, man\0\0
 \0P ('촀\0non riesco
 ancora a decidere.\0\0(7촀\0Perché non mi inviti ancora un'altra
 volta e me lo richiedi, n\0?"

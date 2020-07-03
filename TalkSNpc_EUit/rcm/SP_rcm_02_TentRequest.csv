@@ -52,8 +52,7 @@ anche lui concorda con me."
 \0 tutto
 il materiale edile disponibile è stato
 usato per le aree residenzialin\0\0
-(
-촀\0E qui entreresti in gioco tu: dovresti
+(촀\0E qui entreresti in gioco tu: dovresti
 aiutarci a reperire il materiale edile
 necessario.\0\0(%촀\0L'idea è di sfruttare le risorse
 naturali, come pietre e alberi.\0\0(촀\0Prima che tu me lo chieda: secondo
@@ -115,32 +114,28 @@ aprire domani, ma già non vedo l'ora!"
 
 \0(촀\0Magnifico! 
 \0Grazie mille del supporto!"
-"052_01","(
-촀\0Considerando ciò che abbiamo già
+"052_01","(촀\0Considerando ciò che abbiamo già
 ricevuto, 
 \0((촀\0ci mancano solo \030\0￿ pezzi
 di \0legno normale\0￿.(\0촀\0
 (&촀\0Riusciresti a procurarceli tu?"
 "052_01_a","Sì, ecco a te!"
 "052_01_b","Non ora..."
-"052_02","(
-촀\0Considerando ciò che abbiamo già
+"052_02","(촀\0Considerando ciò che abbiamo già
 ricevuto, 
 \0((촀\0ci mancano solo \030\0￿ pezzi
 di \0legno duro\0￿.(\0촀\0
 (&촀\0Riusciresti a procurarceli tu?"
 "052_02_a","Sì, ecco a te!"
 "052_02_b","Non ora..."
-"052_03","(
-촀\0Considerando ciò che abbiamo già
+"052_03","(촀\0Considerando ciò che abbiamo già
 ricevuto, 
 \0((촀\0ci mancano solo \030\0￿ pezzi
 di \0legno morbido\0￿.(\0촀\0
 (&촀\0Riusciresti a procurarceli tu?"
 "052_03_a","Sì, ecco a te!"
 "052_03_b","Non ora..."
-"052_04","(
-촀\0Considerando ciò che abbiamo già
+"052_04","(촀\0Considerando ciò che abbiamo già
 ricevuto, 
 \0((촀\0ci mancano solo \030 minerali
 di ferro\0￿.(\0촀\0
@@ -208,8 +203,7 @@ e daremo subito avvio ai lavori.\0\0(촀\0Che emozione! 
 \0Sono proprio curioso
 di vedere che posizione sceglierai
 per il nostro negozio!"
-"061","(
-촀\0Vediamo, cosa abbiamo quin\0\0\0\0(촀\0Non credo ai miei occhi! 
+"061","(촀\0Vediamo, cosa abbiamo quin\0\0\0\0(촀\0Non credo ai miei occhi! 
 \0Hai portato
 in un colpo solo tutti i materiali di
 cui avevamo bisogno!\0\0(&촀\0Vuoi davvero darceli tutti insieme,
@@ -217,8 +211,7 @@ cui avevamo bisogno!\0\0(&촀\0Vuoi davvero darceli tutti insieme,
 \0adesso?"
 "061_a","Sì, ecco a te!"
 "061_b","Non ora..."
-"062","(
-촀\0Dunque, 
+"062","(촀\0Dunque, 
 \0cosa ci porti di bellon\0\0
 \0
 (촀\0Incredibile! 
@@ -407,8 +400,7 @@ i \030 minerali di ferro\0￿!"
 tutto in una volta sola.\0\0()촀\0È sufficiente che ci porti 30 unità
 di uno qualunque dei materiali
 necessari. (촀\0Ti saremmo molto grati!"
-"103_01","(
-촀\0Abbiamo già ricevuto alcuni dei
+"103_01","(촀\0Abbiamo già ricevuto alcuni dei
 materiali necessari. 
 \0Al momento
 ci mancanon"

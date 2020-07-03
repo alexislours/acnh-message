@@ -3,8 +3,7 @@
 \0 ¿ya has probado (;촀\02\0n촁 de la isla?"
 "001_a","¡De un solo bocado!"
 "001_b","Aún no"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(촀\0¡Tragas más que yo,
 \0 que ya es decir!
@@ -46,8 +45,7 @@ que te guste!"
 "015","(촀\0¡La tienda de n\0 es enorme!
 \0 Y puedes encontrar en ella un montón de cosas.\0\0(""촀\0¡Pásate a echar un vistazo, n\0!
 \0 (5촀\0Ya verás como te gustan"
-"016","(촀\0Hay alguien en n\0 que está currando de lo lindo para abrir un \0museo\0￿.\0\0(
-촀\0No sé qué va a exponer,
+"016","(촀\0Hay alguien en n\0 que está currando de lo lindo para abrir un \0museo\0￿.\0\0(촀\0No sé qué va a exponer,
 \0 pero (%촀\0seguro
 que necesita cosas para las salas.\0\0()촀\0Estaría superbién si pudieses donar
 un par de cosas o tres,
@@ -84,22 +82,18 @@ en la isla.
 \0
 así que puedes ir cuando quieras.
 (촀\0¡La cultura no se para nunca!"
-"028","(촀\0En nuestro \0museo \0￿hay 2\0
-\0 expuest2)촀oa\0.\0\0(%촀\0Si te interesan los peces,
+"028","(촀\0En nuestro \0museo \0￿hay 2\0\0 expuest2*촀oa\0.\0\0(%촀\0Si te interesan los peces,
 \0 ¡tienes
 que pasarte a echarle un vistazo!"
-"029","(촀\0El \0museo \0￿tiene 2\0
- entre las movidas que expone.\0\0(%촀\0No había visto ningun2)촀oa\0 hasta ayer.
+"029","(촀\0El \0museo \0￿tiene 2\0 entre las movidas que expone.\0\0(%촀\0No había visto ningun2*촀oa\0 hasta ayer.
 \0
 (촀\0¡Menudo bicho es, n\0!"
-"030","(촀\0El \0museo \0￿tiene un fósil de 
- expuesto.\0\0(%촀\0El otro día estuve un rato largo
+"030","(촀\0El \0museo \0￿tiene un fósil de  expuesto.\0\0(%촀\0El otro día estuve un rato largo
 mirándolon\0\0
 \0 (촀\0¡La de cosas que habrá
 visto él a lo largo de los años!"
 "031","(촀\0El \0museo\0￿ está exponiendo
-ahora mismito 2)촀ununa\0 
-.\0\0(7촀\0A mí los cuadros y las esculturas
+ahora mismito 2*촀ununa\0 .\0\0(7촀\0A mí los cuadros y las esculturas
 me molan mucho porque parece
 que también me están observandon\0\0
 (;촀\0Da un poco de mal rollo, ¡pero si
@@ -115,8 +109,7 @@ alucinante!"
 "201_e","Visitar a mis amigos"
 "202","(촀\0¡Sí, la pesca!
 \0
-(촀\0A mí también me mola mogollón.\0\0(
-촀\0¿Los peces de esta isla opinarán
+(촀\0A mí también me mola mogollón.\0\0(촀\0¿Los peces de esta isla opinarán
 lo mismo que los de tu pueblo
 sobre eso de que los pesquen?
 (%촀\0Yo creo que a lo mejor están más

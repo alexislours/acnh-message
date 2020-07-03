@@ -15,9 +15,10 @@ momento, n\0!"
 "002_a","(\0촁\0Mi guarderò in giro."
 "002_b","(\0촁\0Oh, che peccato!"
 "003","(촀\0Che rabbia! Ho perso da qualche
-parte il mio sacchetto preferito. 
-\0(촀\0Era
-un regalo, fatto a mano!
+parte il mio sacchetto preferito.
+
+\0(촀\0Era un regalo, 
+\0fatto a zampa!
 (촀\0E non ti dico cosa c'era dentro!
 
 \0Non mi raccapezzo al pensiero
@@ -28,8 +29,7 @@ di dove possa essere finito."
 lascio la mia roba. 
 \0(촀\0Il mio sacchetto
 pieno di preziosi semi è spariton\0\0
-(
-촀\0A casa non c'è, quindi deve essermi
+(촀\0A casa non c'è, quindi deve essermi
 caduto da qualche parte fuori.
 \0
 (촀\0Potrebbe essere ovunquen"
@@ -84,8 +84,7 @@ incombenza, ma se ti offri tun\0\0
 (촀\0Ben venga! 
 \0Beh... 
 \0Grazie!"
-"013","(
-촀\0Ohn\0\0 bene. 
+"013","(촀\0Ohn\0\0 bene. 
 \0(%촀\0Due occhi in più non
 fanno male. 
 \0(9촀\0Allora conto su di te...
@@ -115,8 +114,7 @@ salterà fuori da sé, n\0."
 "020","(촀\0Davvero lo faresti per me? 
 \0Ma dai!
 
-\0((
-촀\0Potresti iniziare controllando
+\0((촀\0Potresti iniziare controllando
 all'aperto in tutta l'isola, 
 \0direi.
 (7촀\0Beh, allora grazie, n\0!"
@@ -135,7 +133,8 @@ per me?! 
 salvato la vita, ma quasi.
 \0 (촀\0Io non
 credo che riuscirei a trovarlo.
-(촀\0Ora è tutto nelle tue mani, n\0!"
+(촀\0Ora è tutto nelle tue zampe,
+n\0!"
 "024","(촀\0Come faccio adesso? 
 \0Non scoprirò
 mai 
@@ -212,8 +211,7 @@ possa essere caduto, n\0n"
 "201_a","(\0촁\0Mi guardo in giro io."
 "201_b","Io non l'ho visto."
 "202","( 촀\0Scommetto, n\0, che non ci credi, 
-\0se ti dico che ho perso il mio preziosissimo diario.
-(1촀\0Ci avevo scritto tutte le mie idee per
+\0se ti dico che ho perso il mio preziosissimo diario.\0\0(1촀\0Ci avevo scritto tutte le mie idee per
 delle ricette fantastiche che non ho
 ancora provato. 
 \0(촀\0Chissà dov'è finito!"

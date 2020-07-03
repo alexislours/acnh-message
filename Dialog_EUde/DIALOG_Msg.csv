@@ -103,6 +103,9 @@ dann jederzeit mithilfe eines \0Stabs
 \0￿das Outfit wechseln zu können.\0\0\0\0Durch eine Verwandlung ändert
 sich nur dein Aussehen, nicht
 die ausgerüsteten Items.\0￿"
+"0505","Du kannst dich nicht
+umziehen, solange du deinen
+Taucheranzug trägst!"
 "0551","Du trägst gerade nichts, was Teil
 eines Outfits sein kann!"
 "0552","Dieses Outfit passt im
@@ -1082,6 +1085,10 @@ nur für echte Fans von Nook Inc.!
 "3020","Einrichtungsartikel zum Sammeln,
 nur für echte Fans von Nook Inc.!
 \0\0Lieferung per Post.\0￿"
+"3021","Ein von Nook Inc. entworfener
+\0Taucheranzug\0￿. Ermöglicht Schwimm-
+und Tauchausflüge im Meer.
+\0\0Lieferung per Post.\0￿"
 "5001","\0Kamera\0￿
 Fotografiere und setze dabei
 diverse Filter und Effekte ein.\0\0\0\0Die Fotos werden im Album des
@@ -1109,6 +1116,14 @@ entgehen!"
 In dieser App findest du Infos über
 die Insekten und Fische, die du
 gefangen hast."
+"5022","\0Faunapädie\0￿
+In dieser App findest du Infos über
+die Insekten, Fische und Meeres-
+tiere, die du gefangen hast."
+"5023","\0Faunapädie\0￿
+Deiner App wurden zusätzliche
+Informationen zu bereits gefangenen
+Meerestieren hinzugefügt!"
 "5031","\0Bastelanleitungen\0￿
 Diese App hilft dir dabei, deine
 Bastelanleitungen zu verwalten.\0\0Häufig gebastelte Dinge kannst du
@@ -1506,15 +1521,32 @@ werden zurückgesetzt, wenn du
 das Spiel fortsetzt.\0\0Möchtest du fortfahren?"
 "8016_a","Nein"
 "8016_b","Ja"
-"8017","Mit diesem Nutzer ist kein Nintendo-
-Account verknüpft oder dieser
-Nutzer muss sich erneut mit seinem
-Nintendo-Account anmelden.\0\0Alle Funktionen, die das Internet
-nutzen (z.B. die Beste-Freunde-Liste)
-werden zurückgesetzt, wenn du
-das Spiel fortsetzt.\0\0Möchtest du fortfahren und alle
-Funktionen, die eine Internetver-
-bindung benötigen, zurücksetzen?"
+"8017","Die Verknüpfung zwischen diesem
+Nutzer und einem gültigen Nintendo-
+Account muss über eine Internet-
+verbindung verifiziert werden.\0\0Wenn du das Spiel ohne Verifizierung
+startest, werden alle Funktionen
+zurückgesetzt, die das Internet nut-
+zen (z.B. die Beste-Freunde-Liste).\0\0Möchtest du alle Funktionen zurück-
+setzen, die das Internet nutzen, und
+das Spiel beginnen?"
 "8017_a","Nein"
 "8017_b","Ja"
+"8018","Die Verknüpfung zwischen diesem
+Nutzer und einem gültigen Nintendo-
+Account muss über eine Internet-
+verbindung verifiziert werden.\0\0Du hast nun die Gelegenheit,
+eine Verbindung zum Internet
+herzustellen, um diesen Vorgang
+abzuschließen."
+"8018_a","Schließen"
 "8019","Das Spiel wird fortgesetzt."
+"8020","Die Verknüpfung zwischen diesem
+Nutzer und einem gültigen Nintendo-
+Account muss über eine Internet-
+verbindung verifiziert werden.\0\0Du hast nun die Gelegenheit,
+eine Verbindung zum Internet
+herzustellen, um diesen Vorgang
+abzuschließen."
+"8020_a","Nein"
+"8020_b","Schließen"

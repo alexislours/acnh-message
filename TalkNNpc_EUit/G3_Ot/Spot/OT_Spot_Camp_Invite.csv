@@ -23,8 +23,7 @@ vicin2ie!"
 "101_01","(촀\0Sarebbe meraviglioso!
 \0(('촀\0 Ma no, meglio
 di no. 
-\0
-Al momento non posso. Hanno
+\0Al momento non posso. Hanno
 bisogno di me a casa.\0\0()촀\0Ho una miriade di progetti in corso
 e lascerei nei guai troppa gente,
 senza la mia guida e i miei consigli.
@@ -33,8 +32,7 @@ tanto richiesta. 
 \0((6촀\0Sicuramente tu puoi
 capirmi, n\0."
 "101_02","( 촀\0Oh, cielo!
-\0
- È un consiglio che
+\0 È un consiglio che
 dovrei prendere seriamente
 in considerazione?
 \0
@@ -45,13 +43,11 @@ ricevere un'offerta tanto allettante.
 declinare l'invito. 
 \0(('촀\0Purtroppo non
 posso trasferirmi qui.\0\0(2촀\0In fondo 
-\0
-amo troppo la mia isola,
+\0amo troppo la mia isola,
 nonostanten\0\0(촀\0 o forse proprio per
 vian\0\0 dei suoi difetti."
 "101_03","( 촀\0Sul serio? 
-\0
-Vuoi che mi trasferisca
+\0Vuoi che mi trasferisca
 qui? 
 \0(4촀\0Non avrei mai immaginato di
 ricevere un invito cosìn\0\0
@@ -59,10 +55,8 @@ ricevere un invito cosìn\0\0
 \0((촀\0Non hai
 la minima idea della lista di cose che
 ho da fare sulla mia isola.
-(
-촀\0Ovviamente, 
-\0
-potrei prendere in
+(촀\0Ovviamente, 
+\0potrei prendere in
 considerazione la proposta in un
 momento migliore.
 \0( (촀\0Lo terrò a mente!"
@@ -72,15 +66,11 @@ gente che osa, tesoro.\0\0(촀\0Venendo qui sconvolgerei
 completamente la mia vita! 
 \0Non è
 che io 
-\0
-('촀\0sia insoddisfatta di casa mia.\0\0(
-촀\0Però, qui ci sono così tante
+\0('촀\0sia insoddisfatta di casa mia.\0\0(촀\0Però, qui ci sono così tante
 opportunità.
-\0
- È allettante l'idea
+\0 È allettante l'idea
 di mettere radici qui.
-\0
- Che scegliere?
+\0 Che scegliere?
 (촀\0E va bene!
 \0( (촀\0Mostrerò anch'io tutto il
 mio coraggio. E con questo intendon\0\0
@@ -89,104 +79,80 @@ mio coraggio. E con questo intendon\0\0
 ()촀\0Se vinci tu, mi trasferirò qui.\0\0So che non è un modo propriamente
 ortodosso per prendere una
 decisione importante.
-\0
-
+\0
 (5촀\0Ma d'altronde io stessa sono poco
 convenzionale.
 \0( Allora,
-\0
- (촀\0che ne dici? "
+\0 (촀\0che ne dici? "
 "201_01_a","Divertente! Ci sto!"
 "201_01_b","Non è il caso..."
 "201_02","(촀\0Divertente!
-\0
- Mi fai ridere, tesoro.
+\0 Mi fai ridere, tesoro.
 
 \0(촀\0Trasferirsi su quest'isola? È proprio
 una proposta buffa.
 (촀\0Oh!
-\0
- Dicevi seriamente?
+\0 Dicevi seriamente?
 \0()촀\0 Allora,
 
-\0
-inizierò a fare subito le valigie e mi
+\0inizierò a fare subito le valigie e mi
 trasferirò qui immediatamente!
 (6촀\0Scherzo, tesoro.
-\0
- Certo che scherzo.
+\0 Certo che scherzo.
 
 \0Apprezzo l'offerta,(촀\0 è meravigliosa,
 ma ho bisogno di pensarci un po' su.
-(
-촀\0Ehm.
+(촀\0Ehm.
 \0 Mi sento abbastanza audace, 
-\0
-
+\0
 perciòn\0\0 (촀\0facciamo un bel gioco, va
 bene?\0\0()촀\0Se vinci tu, mi trasferirò qui.
 (4촀\0Che ne dici? "
 "201_02_a","Affare fatto!"
 "201_02_b","Nient'affatto!"
 "201_03","( 촀\0Oh, cielo.
-\0
- Dici seriamente?
+\0 Dici seriamente?
 \0 (촀\0Man\0\0
 che fare?!
-\0
- Rimango qui?
+\0 Rimango qui?
 
-\0
-O è meglio tornare a casa?
+\0O è meglio tornare a casa?
 (촀\0È una decisione più complicata di
 quello che si possa immaginare.
 \0((촀\0
 Mi chiedo quale sarà il mio destinon\0\0
 (촀\0Oh! A proposito! 
-\0
-Lasciamo che sia il
+\0Lasciamo che sia il
 destino a scegliere per noi! 
 \0()촀\0Facciamo
 un gioco.
-\0
- Se vinci tu, mi trasferisco!
+\0 Se vinci tu, mi trasferisco!
 
 \0(($촀\0Mi sembra divertente, che ne dici?"
 "201_03_a","Ci sto!"
 "201_03_b","No, grazie."
 "202_01","( 촀\0Oh,
-\0
- perché no?
+\0 perché no?
 \0 (촀\0Capisco che una vita
 all'insegna dell'audacia non faccia
 per tutti, n\0."
 "202_02","(6촀\0È troppo rischioso per te?
-\0
- Posso
+\0 Posso
 capirlo.
-\0
- Davvero.
+\0 Davvero.
 \0(촀\0 Ma se dovessi
 cambiare idea, ripassa pure da me."
 "202_03","( 촀\0Sul serio? 
-\0
-Non vuoi neanche
+\0Non vuoi neanche
 provarci?
 \0 (촀\0Beh, 
-\0
-non sarò certo io
+\0non sarò certo io
 a obbligarti."
 "203_01","(촀\0Benissimo!
-\0
- Meraviglioso!
-\0 (촀\0Non ci
-resta 
-\0
-che dare inizio al gioco!\0\0($촀\0Ecco cosa faremon\0\0 (\0촀\0io prenderò una
-carta
-\0
- (촀\0e tu dovrai indovinare qualcosa
-su quella carta!"
+\0 Meraviglioso!
+\0 (촀\0Non
+ci resta 
+\0che dare inizio al gioco."
 "204","<"
 "204_01","(촀\0E ciò significa che vinco io!
 \0((\0촀\0
@@ -194,13 +160,11 @@ Ti prego di accettare le mie scuse."
 "204_02","E quindi 
 \0(5촀\0sono la vincitrice.
 \0( (\0촀\0Mi spiace
-\0
-
+\0
 (6촀\0e ti prego di non portarmi rancore,
 tesoro."
 "204_03","E così il gioco finisce
-\0
-(촀\0 e io sono la
+\0(촀\0 e io sono la
 vincitrice.
 \0((%촀\0 Ma promettimi che non
 mi porterai rancore!"
@@ -209,34 +173,29 @@ mi porterai rancore!"
 tesoro.\0\0('촀\0Ciò significa che per il momento non
 mi trasferirò. 
 \0Ma se vuoi,
-\0
-(촀\0 giochiamo
+\0(촀\0 giochiamo
 insieme un'altra volta, n\0."
 "205_02","(촀\0Giocare con te è stato
 sorprendentemente divertente!
 \0((\0촀\0 Anche sen\0\0
 (촀\0Significa che non traslocherò, 
-\0
-il che,
+\0il che,
 d'altro canto, è triste.\0\0()촀\0Comunque vado via con dei ricordi
 meravigliosi.
 \0((촀\0 Ti ringrazio."
 "205_03","(촀\0Purtroppo non mi trasferiròn\0\0 
 \0Però
-\0
-
+\0
 (촀\0non vedo l'ora di tornare a casa e raccontare a tutti quant'è bello qui.
 (6촀\0Li farò diventare verdi per l'invidia!"
 "206","<"
 "206_01","(촀\0E ciò significa che hai vinto tu!
 \02
 ( 촀\0Oh, cielo! 
-\0
-Vuol dire anche che
+\0Vuol dire anche che
 mi trasferirò sull'isola!
 (촀\0Sarà una fantastica avventura,
-ne sono certa, n\0!\0\0(
-촀\0Anche se prima dovrei forse recarmi
+ne sono certa, n\0!\0\0(촀\0Anche se prima dovrei forse recarmi
 al \0centro servizi\0￿ per assicurarmi di
 poter effettivamente traslocare quin\0\0
 (\0촀\0Andrò subito a chiedere.
@@ -268,8 +227,7 @@ trasferire su quest'isola.
 così. 
 \0((5촀\0Sapevo di essere destinata a
 una grande avventura, n\0.
-(
-촀\0Solo che,
+(촀\0Solo che,
 \0 mmmhn\0\0(촀\0 Devo ottenere
 il via libera dal \0centro servizi\0￿ prima
 di trasferirmi effettivamente.
@@ -280,8 +238,7 @@ a parlarne con loro?"
 \0
 (6촀\0Certo, in effetti ti capisco. Si tratta
 di me, in fondo.
-(
-촀\0Che cosa fare, a questo punton\0\0
+(촀\0Che cosa fare, a questo punton\0\0
 
 \0-(촀\0Ho un'idea! Lascerò che sia il fato
 a decidere per me, n\0!
@@ -297,8 +254,7 @@ vivere su quest'isola.
 \0Tu che mi chiedi ancora
 una volta di trasferirmi sulla tua
 isola.
-\0 (
-촀\0Sono lusingata e tentatan\0\0
+\0 (촀\0Sono lusingata e tentatan\0\0
 (6촀\0Io però,
 \0 come sai, 
 \0credo che
@@ -319,8 +275,7 @@ a invitarmi ancoran\0\0 una volta.
 (6촀\0Ci tieni molto, eh?
 \0 Forse più o meno
 quanto io mi sento lusingata. 
-\0(
-촀\0Solo
+\0(촀\0Solo
 chen\0\0 voglio essere conquistata.
 In che modo, dici?
 \0 ()촀\0Facciamo un
@@ -360,8 +315,7 @@ tesoro!
 \0￿e purtroppo ho pessime notizien\0\0\0\0(촀\0Su quest'isola non c'è spazio per
 costruire una nuova casa.
 \0( (촀\0
-\0
-Hanno
+\0Hanno
 respinto il mio trasferimento!\0\0(7촀\0Ma ho avuto un'idean\0\0(4촀\0 Forse potrei
 chiedere a qualcuno che vive qui se
 vuole cedermi casa sua per un po'?
@@ -377,10 +331,8 @@ che ho detto.
 \0( (\0촀\0Si vede che non era
 il momento giusto."
 "304","(""촀\0Bene, 
-\0
-dovrò essere audace e
-chiedere in giro.\0\0(
-촀\0Ma tun\0\0 credi che ci sia qualcuno
+\0dovrò essere audace e
+chiedere in giro.\0\0(촀\0Ma tun\0\0 credi che ci sia qualcuno
 che possa essere entusiasta all'idea,
 n\0?
 (8촀\0Al \0centro servizi\0￿ hanno detto che
@@ -392,12 +344,10 @@ ascoltare la mia richiestan"
 "305_c","Lasciamo perdere."
 "306","(""촀\0Allora andrò subito a parlar2촀glile\0.
 \0(
-(
-촀\0Uhmn\0\0 Spero tanto che accetti.
+(촀\0Uhmn\0\0 Spero tanto che accetti.
 \0( Beh,
 di sicuro,
-\0
-(5촀\0 sarò molto convincente."
+\0(5촀\0 sarò molto convincente."
 "307","( 촀\0Non è un'ottima scelta, eh?
 \0((\0촀\0 Va bene,
 meglio lasciar stare. (&촀\0Chi altro avresti
@@ -418,8 +368,7 @@ la mia proposta, tesoro!
 era sul punto di tentare una nuova
 esperienza. (9촀\0Senza offesa all'isola.
 (촀\0Ad ogni modo, 
-\0
-sono triste all'idea
+\0sono triste all'idea
 che non vivremo nello stesso luogo.
 \0
 Però bisogna cogliere le occasioni.
@@ -429,8 +378,19 @@ adesso.\0\0(""촀\0Preparati, n\0: 
 \0io, 
 \0n
 \0,
-\0
-(촀\0 presto abiterò vicino a te!"
+\0(촀\0 presto abiterò vicino a te!"
+"309_01","Sono andata a dare un'occhiata,
+\0 ('촀\0ma
+non ho trovato nessuno.
+\0 ( 촀\0A quanto
+pare,
+\0 chi viveva là se n'è già andato!
+(촀\0Che fortuna, eh?
+\0 ()촀\0Tesoro, 
+\0gli astri
+si sono allineati a mio favore.\0\0(%촀\0Il che significa che posso iniziare
+a prepararmi per trasferirmi quin\0\0\0\0E tu, n\0, 
+\0(5촀\0puoi iniziare a prepararti per farmi sentire la benvenuta, n\0."
 "310","( 촀\0C'è qualcosa che non va?
 \0( (&촀\0Non c'è
 nessuno che faccia al caso nostro,
@@ -440,12 +400,10 @@ nessuno che faccia al caso nostro,
 "311","(촀\0Allora suggeriscimi qualcuno a cui
 possa chiedere."
 "312","(9촀\0Oh,
-\0
- capisco.
+\0 capisco.
 \0 (\0촀\0Beh, a questo punto non
 mi resta che accettare la situazione 
-\0
-(촀\0e
+\0(촀\0e
 pensare ad altro, n\0."
 "313","(촀\0Mi fa piacere che la pensi così!\0\0Sai,
 \0()촀\0 al \0centro servizi\0￿ hanno detto che s촀 potrebbe essere 26촀interessatointeressata\0.\0\0Solo per essere assolutamente
@@ -466,13 +424,11 @@ del trasloco, sei d'accordo?"
 aspettarmi,
 \0 ma non crederai mai
 (9촀\0a quello che mi è successo.\0\0Sono stata al \0centro servizi\0￿
-\0
-(촀\0\0 \0￿e mi
+\0(촀\0\0 \0￿e mi
 hanno detto che sull'isola non c'è
 posto per nuovi residenti!
 (촀\0Sono scioccata! 
-\0
-Sanno chi sono io?
+\0Sanno chi sono io?
 
 \0(9촀\0Non credo che non possano fare
 un'eccezione per me, n\0!
@@ -481,8 +437,7 @@ un'eccezione per me, n\0!
 mi arrendo. Spero ancora di riuscire
 a vivere qui con te, un giorno."
 "405","(촀\0Scusa per l'attesa, tesoro. 
-\0
-Purtroppo
+\0Purtroppo
 ho notizie terribilin\0\0
 \0(촀\0 Il mio sogno di
 venire qui è stato distrutto.
@@ -491,46 +446,38 @@ e mi hanno detto che non ci sono
 terreni in vendita.
 \0(촀\0 Neanche uno!
 (촀\0Troppa urbanizzazione? 
-\0
-Chissà!
+\0Chissà!
 \0 Ho
 evitato una scenata.
-\0
- (	촀\0Ma di certo sono
+\0 (	촀\0Ma di certo sono
 2\0n\0 molto infelice!
 (%촀\0Forse un dì il mio destino cambierà
 in meglio.
 \0( (촀\0E noi potremo finalmente
 vivere sulla stessa isola."
 "406","(촀\0Mi dispiace per l'attesa, tesoro,
-\0
- ma
+\0 ma
 almeno ho notizie grandiose!
 \0 (4촀\0Sono
 passata al \0centro servizi\0￿ e indovinan\0\0
 (""촀\0Dai,
-\0
- prova a indovinare! 
+\0 prova a indovinare! 
 \0(\0촀\0Oh, e va
 bene. Mi hanno detto:
-\0
- (촀\0""Benvenuta
+\0 (촀\0""Benvenuta
 sulla nostra isola!""\0\0(2촀\0Puoi immaginare, n\0.
 Ero sulle spine.
 \0( E quando mi hanno
 detto di sì,
-\0
-(촀\0 per poco non svenivo!
+\0(촀\0 per poco non svenivo!
 \0-
 (촀\0Non sai quanto sia felice! Da ora
 abiterai vicino a n
 \0."
 "410","Sai, (8촀\0ripensandoci,
-\0
- non realizzare
+\0 non realizzare
 un mio sogno per me èn\0\0
-\0
- èn\0\0
+\0 èn\0\0
 \0
 (촀\0semplicemente inaccettabile!
 (촀\0Di certo deve esserci stata un po'
@@ -540,8 +487,7 @@ abbiano capito bene la situazione."
 "410_a","Ottima mossa!"
 "410_b","Fossi in te non andrei!"
 "411","(촀\0Oh, beh.
-\0
- Se lo dici tu.
+\0 Se lo dici tu.
 \0( (촀\0Non vorrei
 mai che mi giudicassero troppo
 fastidiosa.\0\0(8촀\0A questo punto mi armerò di
@@ -550,20 +496,17 @@ le cose cambino, n\0."
 "423","(촀\0È un'isola così in voga che non
 accettano altri abitantin\0\0(촀\0 Inizio a
 pensare che ci sia qualcosa sotto.
-(
-촀\0Che tu sappia, il \0centro servizi \0￿mi
+(촀\0Che tu sappia, il \0centro servizi \0￿mi
 tiene nascosto qualcosa, tesoro?
 \0(
 (촀\0Ma no!
-\0
- Scherzo!
+\0 Scherzo!
 \0((촀\0
 (9촀\0Ma per me è frustrante non potermi
 trasferire su quest'isola. 
 \0((촀\0Io devo
 stare dove vogliono stare tutti!"
-"424","(
-촀\0È difficile credere che non ci siano
+"424","(촀\0È difficile credere che non ci siano
 terreni in vendita su tutta l'isola. 
 \0((&촀\0Uno
 sarà disponibile prima o poi, no?
@@ -577,14 +520,12 @@ nel mio cuore.\0\0(촀\0Mi sento come rinata,
 \0 da quando
 sono qua!
 \0( A dirla tutta,
-\0
- (촀\0non me la
+\0 (촀\0non me la
 sento neanche di tornare a casa."
 "504_a","Questa è la tua casa!"
 "504_b","(&촀\0Oh, come mai?"
 "505","(촀\0Cielo, 
-\0
-le tue parole mi riempiono di
+\0le tue parole mi riempiono di
 gioia!
 \0 (촀\0Vivere qui sarebbe stupendo,
 ne sono certa.\0\0(2촀\0Solo chen\0\0
@@ -599,26 +540,22 @@ poter conoscere meglio l'isola.
 (촀\0Perciò invitami ancora al
 campeggio, n\0."
 "506","( 촀\0Perché qui mi sento a mio agio! 
-\0
-Non
+\0Non
 hai notato che
 \0 (2촀\0la mia pelle è come
 ringiovanita da quando sono qui?
-(
-촀\0Mmhn\0\0 devo capire come far sì che
-l'effetto diventi permanente, n\0."
-"507","(
-촀\0Sai, 
-\0
-sono tutti così gentili su
+(촀\0Mmmhn\0\0 devo capire come far sì
+che l'effetto diventi permanente,
+n\0."
+"507","(촀\0Sai, 
+\0sono tutti così gentili su
 quest'isola.\0\0(4촀\0Ma non posso fare a meno di
 chiedermin\0\0 sarebbero così
 gentili anche se abitassi qui?"
 "507_a","Scoprilo vivendo qui!"
 "507_b","Mmh, non saprei."
 "508","(촀\0Sei troppo gentile!
-\0((
-촀\0 Ci sono diversi
+\0((촀\0 Ci sono diversi
 motivi che mi farebbero trasferire
 subito quin\0\0
 Ma(2촀\0 prima di decidere mi piacerebbe
@@ -628,10 +565,8 @@ Che ne dici, n\0?
 (4촀\0Sono quasi certa che mi innamorerò
 di questo posto."
 "509","(촀\0Hai dubbi?
-\0 Peròn\0\0(
-촀\0 forse avrebbero
+\0 Peròn\0\0(촀\0 forse avrebbero
 solo bisogno di un po' di tempo
 all'inizio per sciogliersi.\0\0Sai,
-\0
- (6촀\0nessuno resiste a lungo al
+\0 (6촀\0nessuno resiste a lungo al
 fascino della mia maturità, n\0."

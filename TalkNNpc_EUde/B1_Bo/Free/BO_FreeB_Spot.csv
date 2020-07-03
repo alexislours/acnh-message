@@ -62,8 +62,7 @@ Jedenfalls war es cool, aber dann
 habe ich es verloren. 
 \0Weil es so
 klein war.
-(
-촀\0Vielleicht solltest du dein Haus
+(촀\0Vielleicht solltest du dein Haus
 größer machen? 
 \0Damit du es nicht
 verlierst, 
@@ -95,9 +94,9 @@ spielen können, 
 \0n\0."
 "009","촊(촀\0Dein Haus ist so... 촉
 \0groß!\0\0촆촃(%촀\0Bei so vielen Zimmern kannst du
-(촀\0jeden Tag in einem anderen schlafen!\0\0(0촀\0Du kannst dich einfach spontan
+(촀\0jeden Tag in einem anderen schlafen!\0\0Du kannst dich einfach spontan
 irgendwo hinhauen! 
-\0Wie toll!"
+\0(촀\0Wie toll!"
 "010","촊(촀\0Wow! 
 \0촉Zwei Stockwerke! 
 \0((촀\0Du hast dich
@@ -176,8 +175,7 @@ die Besucher wieder: 
 촆Jedenfalls ist das ein ziemlich großes
 Haus."
 "019","촆(촀\0Im Haus von s\0촀 gibt es einen Keller, 
-\0hast du das schon gewusst?\0\0촆(
-촀\0Was 2촀ersie\0 da wohl macht? 
+\0hast du das schon gewusst?\0\0촆(촀\0Was 2촀ersie\0 da wohl macht? 
 \02(촀\0
 \0(Ich würde
 mir eine riesige Vorratskammer
@@ -279,28 +277,23 @@ Tankstelle!
 \0 (촀\0Aber fürs Gehirn,
 
 \0n\0!"
-"119","(촀\0Ich schaue mir im \0Museum\0￿ gern 2)촀dendiedas
-2촁
-\0 an!\0\0(\0촀\0(촀\0Manchmal starren wir uns an, und
+"119","(촀\0Ich schaue mir im \0Museum\0￿ gern 2*촀dendiedas
+2촁\0 an!\0\0(\0촀\0(촀\0Manchmal starren wir uns an, und
 wer zuerst blinzelt, hat verloren.
 \0
 Bis jetzt war das immer ich..."
-"120","(촀\0Manchmal besuche ich 2)촀dendiedas 2촁
- im \0Museum\0￿.\0\0(\0촀\0(7촀\0Im Raum mit den Insekten ist es so
+"120","(촀\0Manchmal besuche ich 2*촀dendiedas 2촁 im \0Museum\0￿.\0\0(\0촀\0(7촀\0Im Raum mit den Insekten ist es so
 warm und gemütlich... 
 \0(%촀\0Perfekt für
 ein kleines Schläfchen!"
 "121","(촀\0Hin und wieder sitze ich im \0Museum\0￿
-und starre ganz, ganz lang 2)촀dendiedas
-2촁
- an!\0\0(8촀\0Ich will's auf keinen Fall verpassen,
+und starre ganz, ganz lang 2*촀dendiedas
+2촁 an!\0\0(8촀\0Ich will's auf keinen Fall verpassen,
 wenn sich so ein Fossil mal bewegt,
 
 \0n\0!"
 "122","(촀\0Ich gehe manchmal einfach nur für
-2"")촀den die das 2촁
- ins Museum!\0\0(
-촀\0Ich mag Kunst, 
+2""*촀den die das 2촁 ins Museum!\0\0(촀\0Ich mag Kunst, 
 \0gerade weil ich sie
 oft nicht verstehe.\0\0()촀\0Aber wenn ich mehr über das Werk
 oder den Künstler erfahre, 

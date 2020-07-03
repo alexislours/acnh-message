@@ -29,44 +29,37 @@ Così sembra."
 Così sembra."
 "001_05_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
-"001_101","($촀\0Ho chiesto 2\0 s\0촀 che 촀 preferisce e sai cosa mi ha risposto?\0\0(촀\0Beh, ""⁠
-촀⁠""! A te risulta?"
+"001_101","($촀\0Ho chiesto 2\0 s\0촀 che 촀 preferisce e sai cosa mi ha risposto?\0\0(촀\0Beh, ""⁠촀⁠""! A te risulta?"
 "001_101_a","Sì, sì!
 Così sembra."
 "001_101_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
 "001_102","()촀\0Ho parlato con s\0촀 di 촀 e 
-\0(&촀\0sai cosa mi ha detto?\0\0(
-촀\0Che adoran\0\0 aspetta, devo ricordare di preciso quello che ha detton\0\0 Ah, sì: ""⁠
-촀⁠""!"
+\0(&촀\0sai cosa mi ha detto?\0\0(촀\0Che adoran\0\0 aspetta, devo ricordare di preciso quello che ha detton\0\0 Ah, sì: ""⁠촀⁠""!"
 "001_102_a","Sì, sì!
 Così sembra."
 "001_102_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
 "001_103","()촀\0Sai, parlando con s\0촀, 2촀glile\0 ho chiesto quale fosse il lavoro dei suoi sogni.\0\0(촀\0A essere sincera, non ho ben capito
 la rispostan\0\0 Mi ha detto, alla lettera,
-""⁠
-촀⁠""!"
+""⁠촀⁠""!"
 "001_103_a","Sì, sì!
 Così sembra."
 "001_103_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
-"001_104","(촀\0Sai cosa mi ha detto s\0촀 quando ho chiesto che hobby ha?\0\0( 촀\0Ebbene, mi ha detto, parole testuali, ""⁠
-촀⁠"".
+"001_104","(촀\0Sai cosa mi ha detto s\0촀 quando ho chiesto che hobby ha?\0\0( 촀\0Ebbene, mi ha detto, parole testuali, ""⁠촀⁠"".
 \0 (&촀\0Ma sarà vero?"
 "001_104_a","Sì, sì!
 Così sembra."
 "001_104_b","(\0촀\0Sul serio?
 (\0촀\0Non mi dire!"
 "001_105","()촀\0Devo per forza condividere questa
-informazione con te!\0\0Ho chiesto 2\0 s\0촀 cosa sa fare bene e mi ha risposto ""⁠⁠
-촀⁠⁠""!"
+informazione con te!\0\0Ho chiesto 2\0 s\0촀 cosa sa fare bene e mi ha risposto ""⁠⁠촀⁠⁠""!"
 "001_105_a","Sì, sì!
 Così sembra."
 "001_105_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
-"010_01","(
-촀\0A quanto pare 2\0 s\0촀 non piace ascoltare musica,
+"010_01","(촀\0A quanto pare 2\0 s\0촀 non piace ascoltare musica,
 \0 neanche quando fa le pulizie, 
 \0n\0."
 "010_01_a","Sì, sì!
@@ -115,8 +108,7 @@ Così sembra."
 Così sembra."
 "010_07_b","(\0촀\0Davvero?
 (\0촀\0Non mi dire!"
-"010_08","(
-촀\0Ah, s\0촀 non ha nessun cibo preferito?
+"010_08","(촀\0Ah, s\0촀 non ha nessun cibo preferito?
 \0 Non avevo mai sentito una cosa del genere."
 "010_08_a","Sì, sì!
 Così sembra."
@@ -189,8 +181,7 @@ la prossima volta che ci vediamo,
 
 \0n\0."
 "060_01","(9촀\0Ah, non lo sai?
-\0 (
-촀\0Allora non lo saprà
+\0 (촀\0Allora non lo saprà
 nessuno, 
 \0n\0n\0\0\0\0Spero almeno che sia qualcosa
 con un incredibile assolo di chitarra.
@@ -198,8 +189,7 @@ con un incredibile assolo di chitarra.
 (촀\0Glielo chiederò quanto prima."
 "060_02","(9촀\0Non lo sai o hai un vuoto di
 memoria?
-\0 (
-촀\0O forse tutti e due,
+\0 (촀\0O forse tutti e due,
 
 \0n\0?\0\0(촀\0Sarà sicuramente qualcosa pieno di
 battaglie e mostri. 
@@ -207,24 +197,21 @@ battaglie e mostri. 
 più per men\0\0 
 \0('촀\0Dovrò chiederglielo."
 "060_03","(9촀\0Non lo sai?
-\0 (
-촀\0Allora non lo saprà
+\0 (촀\0Allora non lo saprà
 nessun altro, n\0n\0\0\0\0Saranno sicuramente fumetti di
 supereroi e fantascienza. 
 \0O forse
 non\0\0
 \0 ('촀\0Faccio prima a chiederglielo."
 "060_04","(9촀\0Non lo sai nemmeno tu?
-\0 (
-촀\0Allora non
+\0 (촀\0Allora non
 lo saprà nessuno, n\0n\0\0\0\0Scommetto che gli piacciono le
 scene d'azione e la suspence. 
 \0O no?
 \0
 ('촀\0Ho capito, devo chiederglielo io."
 "060_05","(9촀\0Come, non lo sai? 
-\0(
-촀\0Vediamo, chi
+\0(촀\0Vediamo, chi
 potrebbe saperlo, 
 \0n\0?\0\0Magari gli piacciono i quiz sugli
 extraterrestri. 
@@ -232,8 +219,7 @@ extraterrestri. 
 \0 ('촀\0Non ho
 scelta, glielo devo chiedere."
 "060_06","(9촀\0Davvero non lo sai?
-\0 (
-촀\0Allora forse non
+\0 (촀\0Allora forse non
 lo sa nessuno, 
 \0n\0n\0\0\0\0Forse la boxe? (촀\0Ah! Anche il rugby
 non è male. 
@@ -241,39 +227,34 @@ non è male. 
 
 \0('촀\0Devo chiederglielo e basta!"
 "060_07","(9촀\0Non lo sai neanche tu?
-\0 (
-촀\0Chi lo
+\0 (촀\0Chi lo
 potrebbe sapere, allora?\0\0(촀\0Spero solo non sia un miscuglio
 stranon\0\0
 \0 ('촀\0Meglio chiederglielo, la
 prossima volta che ci vediamo."
 "060_08","(9촀\0Non lo sai nemmeno tu, eh?
-\0 (
-촀\0A chi
+\0 (촀\0A chi
 potrei chiedere, 
 \0n\0?\0\0Scommetto che è qualcosa di salato
 e croccante en\0\0
 \0 ('촀\0Basta pensarci, che
 mi sta venendo fame. Glielo chiederò."
 "060_09","(9촀\0Non lo sai neppure tu? 
-\0(
-촀\0Allora
+\0(촀\0Allora
 non lo sa nessuno, n\0n\0\0\0\0Sarà comunque un lavoro di grande
 responsabilitàn\0\0
 \0 ('촀\0Conoscendo il tipo,
 meglio chiederglielo direttamente."
 "060_10","(9촀\0Non lo sai per certo neanche tu?
 \0
-(
-촀\0E allora chi potrebbe mai saperlo,
+(촀\0E allora chi potrebbe mai saperlo,
 
 \0n\0n\0\0\0\0Mmhn\0\0 con il poco tempo che ha,
 mi chiedo se ne ha uno.
 \0 ('촀\0Meglio
 chiedere direttamente."
 "060_11","(9촀\0Non lo sai neanche tu?
-\0 (
-촀\0E allora chi
+\0 (촀\0E allora chi
 lo saprà mai, n\0n\0\0\0\0Mmhn\0\0 Il talento di far ridere ce
 l'ha, ma conta?
 \0 ('촀\0Vabbè, alla prossima
@@ -331,16 +312,14 @@ Certo!"
 In realtà no."
 "110_101","($촀\0Ascolta.
 \0 Ho in mente di organizzare qualcosa per te e s\0촀,
-\0 (%촀\0ma mi servono più informazioni.\0\0(9촀\0La domanda è: ""2Qual è il tuoQual è la tua\0""Quali sono i tuoi""Quali sono le tue\0 촀 2Vpreferitopreferita\0preferitipreferite\0?""\0\0(%촀\0Quando ho chiesto 2\0 s\0촀, ha risposto ""⁠
-촀⁠"".\0\0(&촀\0Daresti anche tu la stessa risposta?"
+\0 (%촀\0ma mi servono più informazioni.\0\0(9촀\0La domanda è: ""2Qual è il tuoQual è la tua\0""Quali sono i tuoi""Quali sono le tue\0 촀 2Vpreferitopreferita\0preferitipreferite\0?""\0\0(%촀\0Quando ho chiesto 2\0 s\0촀, ha risposto ""⁠촀⁠"".\0\0(&촀\0Daresti anche tu la stessa risposta?"
 "110_101_a","Sì!
 Certo!"
 "110_101_b","No.
 In realtà no."
 "110_102","($촀\0Ascolta.
 \0 Volevo organizzare una cosina per te e s\0촀,
-\0 (%촀\0ma devo farti una domanda.\0\0(9촀\0Sarebbe: ""2Qual è il tuoQual è la tua\0""Quali sono i tuoi""Quali sono le tue\0 촀 2Vpreferitopreferita\0preferitipreferite\0?""\0\0(%촀\0Quando ho chiesto 2\0 s\0촀, ha risposto ""⁠
-촀⁠"".\0\0(&촀\0Daresti anche tu la stessa risposta?"
+\0 (%촀\0ma devo farti una domanda.\0\0(9촀\0Sarebbe: ""2Qual è il tuoQual è la tua\0""Quali sono i tuoi""Quali sono le tue\0 촀 2Vpreferitopreferita\0preferitipreferite\0?""\0\0(%촀\0Quando ho chiesto 2\0 s\0촀, ha risposto ""⁠촀⁠"".\0\0(&촀\0Daresti anche tu la stessa risposta?"
 "110_102_a","Sì!
 Certo!"
 "110_102_b","No.
@@ -348,8 +327,7 @@ In realtà no."
 "110_103","($촀\0OK, senti.
 \0 Volevo organizzare una cosina per te e s\0촀,
 \0 (%촀\0ma devo saperne un po' di più.\0\0(9촀\0Alla domanda su quale sia il suo sogno, 
-\0(%촀\0s\0촀 ha risposton\0\0\0\0Beh, ""⁠
-촀⁠"". (&촀\0Daresti anche tu la stessa risposta?"
+\0(%촀\0s\0촀 ha risposton\0\0\0\0Beh, ""⁠촀⁠"". (&촀\0Daresti anche tu la stessa risposta?"
 "110_103_a","Sì!
 Certo!"
 "110_103_b","No.
@@ -359,16 +337,14 @@ In realtà no."
 \0 (%촀\0ma devo farti una domanda.\0\0(9촀\0Che sarebbe: ""Qual è il tuo hobby
 preferito?"" 
 \0(%촀\0Quando l'ho chiesto 2\0
-s\0촀 ha risposton\0\0\0\0Beh, ""⁠
-촀⁠"". (&촀\0Daresti anche tu la stessa risposta?"
+s\0촀 ha risposton\0\0\0\0Beh, ""⁠촀⁠"". (&촀\0Daresti anche tu la stessa risposta?"
 "110_104_a","Sì!
 Certo!"
 "110_104_b","No.
 In realtà no."
 "110_105","($촀\0OK, senti.
 \0 Volevo organizzare una cosina per te e s\0촀,
-\0 (%촀\0ma devo farti una domanda.\0\0(9촀\0Ho chiesto 2\0 s\0촀 quale sia il suo talento e mi ha detto ""⁠
-촀⁠"".\0\0(&촀\0Hai anche tu lo stesso talento?"
+\0 (%촀\0ma devo farti una domanda.\0\0(9촀\0Ho chiesto 2\0 s\0촀 quale sia il suo talento e mi ha detto ""⁠촀⁠"".\0\0(&촀\0Hai anche tu lo stesso talento?"
 "110_105_a","Sì!
 Certo!"
 "110_105_b","No.
@@ -485,20 +461,15 @@ hobby, ad esempio?\0\0(촀\0Sai che 2\0 s\0촀 piace tanto 촀?"
 "170_05","(촀\0Potresti iniziare a parlare di talento. (촀\0Sai che s\0촀 se la cava bene a 촀?"
 "170_101","(촀\0Ti consiglio di discutere con s\0촀 riguardo 2\0촀.\0\0(촀\0Quando ne ha parlato con me, ha
 detto che adora, parole testuali,
-""⁠
-촀⁠""."
-"170_102","(촀\0Potresti discutere di 촀, ad esempio.\0\0(촀\0Quando ne ha parlato con me, s\0촀 ha detto che adora ""⁠
-촀⁠""."
+""⁠촀⁠""."
+"170_102","(촀\0Potresti discutere di 촀, ad esempio.\0\0(촀\0Quando ne ha parlato con me, s\0촀 ha detto che adora ""⁠촀⁠""."
 "170_103","(촀\0Ad esempio, potresti chiedere del
-suo lavoro dei sogni.\0\0(촀\0A me s\0촀 ha detto, ehmn\0\0 ""⁠⁠⁠
-촀⁠⁠⁠"".
+suo lavoro dei sogni.\0\0(촀\0A me s\0촀 ha detto, ehmn\0\0 ""⁠⁠⁠촀⁠⁠⁠"".
 \0 Parole sue, eh."
 "170_104","(촀\0Potreste parlare dei vostri hobby,
-ad esempio.\0\0(촀\0Sull'argomento, s\0촀 a me ha detto, parole testuali, ""⁠⁠
-촀⁠⁠""."
+ad esempio.\0\0(촀\0Sull'argomento, s\0촀 a me ha detto, parole testuali, ""⁠⁠촀⁠⁠""."
 "170_105","(촀\0Potresti chiedere dei suoi talenti,
-per cominciare.\0\0(촀\0Sull'argomento, s\0촀 a me ha detto, ehmn\0\0 letteralmente: ""⁠
-촀⁠⁠""."
+per cominciare.\0\0(촀\0Sull'argomento, s\0촀 a me ha detto, ehmn\0\0 letteralmente: ""⁠촀⁠⁠""."
 "180_01","(촀\0Basta trovare un interesse in
 comune!\0\0(%촀\0Ecco, ora che ci penson\0\0 escludi pure la musica.
 \0 (7촀\0Perché s\0촀 non l'ascolta."

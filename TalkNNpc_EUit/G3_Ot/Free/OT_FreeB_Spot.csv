@@ -46,8 +46,7 @@ e allo spirito.
 la testa segue un altro percorso.
 \0
 (촀\0Fa star bene, n\0."
-"002","(
-촀\0Si può imparare tanto su qualcuno,
+"002","(촀\0Si può imparare tanto su qualcuno,
 guardando la sua casa,
 \0 non credi?\0\0()촀\0Il colore,
 \0 l'arredamento, 
@@ -133,8 +132,7 @@ scherzando.
 amiciamiche io e te, n\0."
 "010","촊촉(촀\0Oh, 
 \0n\0, hai costruito un altro piano per la tua casa! Una scelta eccellente. 
-\0Approvo.\0\0(
-촀\0Anche se questo significa che ora
+\0Approvo.\0\0(촀\0Anche se questo significa che ora
 dovrai andare su e giù per le scale
 tutto il tempo, n\0.
 촆촃(\0촀\0Sarai 2 esaustoesausta alla fine della giornata,
@@ -143,8 +141,7 @@ tutto il tempo, n\0.
 "011","촊촉()촀\0E così la tua dimora adesso ha anche
 una cantina,
 \0 n\0.\0\0촆촃(\0촀\0Sempre se ti va di dirmelo, volevo
-saperen\0\0(&촀\0 Per cosa la usi?\0\0(
-촀\0Per 촁?
+saperen\0\0(&촀\0 Per cosa la usi?\0\0(촀\0Per 촁?
 \0 Oppure per
 촂?
 \0((촀\0 O per ascoltare
@@ -182,8 +179,7 @@ in casa mia.
 \0 Dopotutto, 
 \0(5촀\0mi servirebbe
 posto per la mia collezione di borse.
-(
-촀\0Ora che ci penso, 
+(촀\0Ora che ci penso, 
 \0mi servirebbe
 qualche stanza in più, n\0!"
 "015","촊촉(촀\0Che meraviglia! 
@@ -243,15 +239,13 @@ cambia tutti i giorni.
 (\0촀\0In più, i piccoli \0Marco\0￿ e \0Mirco\0￿ (촀\0sono
 esperti negli affari.\0\0(7촀\0Quando consigliano un articolo con
 quel loro adorabile sorriso,
-\0
- è
+\0 è
 impossibile rifiutare, n\0."
 "024","($촀\0Ho sentito che \0Blatero \0￿vuole
 costruire un \0museo\0￿.
 \0( (\0촀\0Un \0museo\0￿
 su un'isolan\0\0(촀\0 Che meraviglia!
-촊촉(
-촀\0Anche sen\0\0 a quanto vedo,
+촊촉(촀\0Anche sen\0\0 a quanto vedo,
 \0 non mi
 sembra aver fatto grandi progressi.
 \0
@@ -306,11 +300,9 @@ un gusto impeccabile. (촀\0Le adoro!"
 "034","촊촉Oh, 
 \0(""촀\0sembra che presto qui sorgerà
 una nuova casan\0\0
-\0 (
-촀\0Chissà chi ci
+\0 (촀\0Chissà chi ci
 abiterà?\0\0촆촃(%촀\0Mi piace fare nuove conoscenze,
-\0
-
+\0
 ma devo ammettere che la cosa crea
 in me un po' di sana agitazione.
 (촀\0Finora comunque 
@@ -335,8 +327,7 @@ il suono di bollicine che scoppiano?
 sciocco, man\0\0 a volte penso di essere
 stata un pesce nella mia vita passata.
 (촀\0Nei miei sogni più belli, 
-\0sono 2\0
-\0 che nuota felice. 
+\0sono 2\0\0 che nuota felice. 
 \0(촀\0Che meraviglia."
 "120","($촀\0Ciao, n\0,
 \0 vai spesso a visitare la sezione degli insetti del \0museo\0￿?\0\0(%촀\0Invece di essere chiusi dentro delle
@@ -344,21 +335,18 @@ gabbie, 
 \0possono muoversi liberi in
 un ambiente naturale.
 ( 촀\0Man\0\0 sarà sicuro?
-\0((6촀\0 Quando vedo 2\0
-
-\0 penso d'istinto di 2&)촀doverlodoverla\0 catturare."
+\0((6촀\0 Quando vedo 2\0
+\0 penso d'istinto di 2&*촀doverlodoverla\0 catturare."
 "121","(촀\0Hai visto cosa hanno esposto nella
 parte del \0museo\0￿ dedicata ai fossili?
-2\02\0
-!\0\0(촀\0Sono rimasta a bocca aperta!
+2\02\0!\0\0(촀\0Sono rimasta a bocca aperta!
 
 \0((1촀\0Pensa a come doveva essere il
 mondo nell'antichità!"
 "122","(%촀\0Che onore poter ammirare i grandi
 capolavori dell'arte che ospita il
 \0museo\0￿, n\0.
-(1촀\02\02\0
-, ad esempion\0\0 La maestria! 
+(1촀\02\02\0, ad esempion\0\0 La maestria! 
 \0La maestosità!
 \0 La magnificenza!\0\0( 촀\0Beh,
 \0 sono sicura che tu mi capisci.

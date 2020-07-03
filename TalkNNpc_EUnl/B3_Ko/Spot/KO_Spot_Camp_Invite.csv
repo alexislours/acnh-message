@@ -1,7 +1,6 @@
 ﻿"label","text"
 "002","(촀\0Meen je dat, 2jochiemeid? 
-\0(
-촀\0Ik bedoeln\0\0
+\0(촀\0Ik bedoeln\0\0
 misschien heb je een puntn\0\0\0\0(%촀\0Oké, akkoord. Ik heb mijn keuze
 gemaakt.
 \0(촀\0 Ik ben thuis!\0\0(6촀\0Nou moet ik alleen nog even alles
@@ -16,8 +15,7 @@ worden. 
 \0servicebalie\0￿ krijg, n\0."
 "101","<"
 "101_01","(촀\0Echt waar, 2jochiemeid?
-\0((\0촀\0(
-촀\0 Ik word al
+\0((\0촀\0(촀\0 Ik word al
 goedgemutst als ik er alleen
 maar aan denkn\0\0\0\0Toch moet ik nee zeggen. Ik wil niet
 dat mijn vrienden thuis('촀\0 denken dat ik
@@ -34,8 +32,7 @@ sorryn\0\0(촀\0 ik heb het veel te druk.
 zoveel doen dat ik geen tijd heb om
 te verhuizen, n\0."
 "201_01","(촀\0Serieus, 2jochiemeid?!
-\0((
-촀\0 Hmmmn\0\0 Hier kan ik niet zo een-twee-drie een beslissing over makenn\0\0
+\0((촀\0 Hmmmn\0\0 Hier kan ik niet zo een-twee-drie een beslissing over makenn\0\0
 \0(\0\0(촀\0Ik heb een idee! (6촀\0Laten we er een spel
 om spelen!
 \0((\0촀\0 Als jij wint, verhuis ik.\0\0(%촀\0Maak je geen zorgen, het is geen
@@ -46,8 +43,7 @@ keuze kinderspel, n\0."
 "201_02","(촀\0Wauw! Ik had niet verwacht dat ik
 vandaag zo'n belangrijke keuze zou
 moeten makenn\0\0
-\0(7촀\0 Lastig, hoor.\0\0(
-촀\0Het lijkt me interessant om te
+\0(7촀\0 Lastig, hoor.\0\0(촀\0Het lijkt me interessant om te
 verhuizen, maarn\0\0
 \0(촀\0 O! Ik heb een idee!
 
@@ -76,10 +72,9 @@ andere keer, n\0."
 \0(촀\0 Nou ja, het was
 maar een idee. Volgende keer beter,
 n\0."
-"203_01","(촀\0Mooi! En ik weet het perfecte spel!
-\0((\0촀\0
-Het is een oud kaartspel. Ik trek een
-kaart en jij raadt, n\0."
+"203_01","(촀\0Mooi! 
+\0Dat hoor ik graag!
+\0((\0촀\0 Oké, dit is een simpel kaartspelletje, n\0."
 "204","<"
 "204_01","(촀\0Jammer!
 \0((촀\0 Maar afspraak is afspraak,
@@ -143,8 +138,7 @@ geluk over. 
 dranghekken neer gaan zetten?
 \0
 (촀\0Bwahaha! 
-\0Geintje.\0\0(
-촀\0Laten we er een spelletje van maken.
+\0Geintje.\0\0(촀\0Laten we er een spelletje van maken.
 
 \0Als jij wint, kom ik op jouw eiland
 wonen. 
@@ -185,8 +179,7 @@ plekkies voor nieuwe stekkies!\0\0(촀\0Nou, ik ben te oud om op het strand
 te slapen, hoor!
 \0 Die tijd heb ik
 gehad. 
-\0(촀\0Sorry, 2jochiemeid.\0\0(
-촀\0Maar als er iemand is die wil
+\0(촀\0Sorry, 2jochiemeid.\0\0(촀\0Maar als er iemand is die wil
 verhuizen, is er nog hoop. 
 \0(&촀\0Heb
 jij iets gehoord, n\0?"
@@ -230,6 +223,20 @@ enorme tijdverspilling, n\0."
 \0 genoemd.
 \0( (촀\0Jij bent toch n\0?
 \0( ($촀\0Ik zie je later nog wel, n\0!"
+"309_01","Nou, dat is fijn.
+\0 (촀\0Het lijkt erop dat s촀 'm is gesmeerd en er een kavel vrij is!(촀\0\0\0Ik kan er zo komen wonen.
+\0 ( 촀\0O! 
+\0Ik heb
+mezelf toch al voorgesteld?
+\0( (""촀\0Voor de
+zekerheid:
+\0 ik ben n
+\0.\0\0(9촀\0En als ik het me goed herinner,
+\0 is jouw naamn\0\0 n\0.
+\0 (&촀\0Zeg ik dat goed zo?\0\0(촀\0Ik kijk ernaar uit je buurman te
+worden. 
+\0Volgens mij kan ik het goed
+met jou vinden, n\0."
 "310","( 촀\0Zeg, wat is er aan de hand?
 \0((촀\0 Ben je
 soms vergeten over wie je het had,
@@ -261,8 +268,7 @@ zit met verhuizen naar het eiland.
 (\0촀\0Enn\0\0('촀\0 het zit er niet in. 
 \0Er zijn geen
 plekkies voor nieuwe stekkies! Het
-eiland zinkt nog als het voller wordt!\0\0(
-촀\0Wachtn\0\0 Kunnen eilanden zinken?
+eiland zinkt nog als het voller wordt!\0\0(촀\0Wachtn\0\0 Kunnen eilanden zinken?
 \0
 (촀\0Bah! 
 \0Laten we het er maar niet op
@@ -292,8 +298,7 @@ bewoner van n	\0!
 
 \0(촀\0Bwahaha!
 "
-"410","(
-촀\0Maar wacht eens even.
+"410","(촀\0Maar wacht eens even.
 \0 Misschien
 moet ik het nog eens vragen,
 \0 maar
@@ -310,8 +315,7 @@ te geloven dat er zelfs geen plek is
 voor mij.\0\0(촀\0Maar het is wel een hele eer om te
 worden uitgenodigd. Ik zie je nog
 wel, n\0."
-"424","(
-촀\0Er is geen land meer te koop op het
+"424","(촀\0Er is geen land meer te koop op het
 eilandn\0\0 Dat kun je je toch niet
 voorstellen?\0\0(촀\0Je eiland heeft iets bijzonders, hè?
 Jammer dat ik er geen deel van kan
@@ -329,8 +333,7 @@ is zo vriendelijk en vrijgevig!
 wonen, n\0."
 "504_a","Kom dan hier wonen!"
 "504_b","Het is een fijn eiland."
-"505","(
-촀\0Gohn\0\0
+"505","(촀\0Gohn\0\0
 \0 (\0촀\0Dat is geen slecht idee, 
 \0('촀\0maar
 ik heb nog mijn twijfels.\0\0(촀\0Ik heb het!
@@ -350,8 +353,7 @@ kans dat ik(촀\0 hier nooit meer wegga,
 "507_a","Ja, blijf!"
 "507_b","Bevalt het zo goed?"
 "508","(촀\0Nou, dat vind ik pas een goeie
-suggestie, 2jochiemeid!\0\0(
-촀\0Hmmmn\0\0 Als je dat meent,
+suggestie, 2jochiemeid!\0\0(촀\0Hmmmn\0\0 Als je dat meent,
 \0(%촀\0 wil ik daar
 best over nadenken, n\0.\0\0(:촀\0Dat kan ik mooi doen tijdens mijn
 volgende bezoek!

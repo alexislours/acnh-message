@@ -7,7 +7,8 @@ di un saluto speciale tra me e te?
 \0Un saluto esclusivo, come me?
 ()촀\0Solo gli amici più stretti hanno
 questo privilegio. 
-\0Perciò fra noi due non sarebbe insensato. 
+\0Perciò fra noi due
+non sarebbe insensato. 
 \0(6촀\0Dai, proponi."
 "001_a","(\0촀\0Ne ho uno perfetto!"
 "001_b","(\0촁\0Un'altra volta, magari."
@@ -74,8 +75,7 @@ altri, n\0!"
 
 \0(촀\0Ehi,
 \0 non è il saluto che usiamo già?
-(
-촀\0Quindin\0\0 non lo vuoi cambiare?"
+(촀\0Quindin\0\0 non lo vuoi cambiare?"
 "102_a","(%촀\0Proprio così."
 "102_b","('촀\0No. cambiamo!"
 "103","(&촀\0Beh, che hai in mente?"
@@ -98,8 +98,7 @@ altri, n\0!"
 "203","(촀\0Behn\0\0 grazie, 
 \0n\0.
 Vedrò di utilizzarlo, d'ora in poi."
-"204","(
-촀\0Interessanten\0\0 
+"204","(촀\0Interessanten\0\0 
 \0(3촀\0Penso che darà
 alle nostre conversazioni un tocco
 di classe in più, n\0."

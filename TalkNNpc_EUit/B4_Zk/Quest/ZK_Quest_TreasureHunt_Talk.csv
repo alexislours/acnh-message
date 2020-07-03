@@ -7,13 +7,16 @@ semplicemente a zonzo, man\0\0
 (촀\0Senti, non fare preguntas!"
 "101","()촀\0Mira, adesso sono nel bel mezzo
 di una caccia al tesoro insieme
-2\0 n\0.
+2\0 n\0.
 (촀\0Lo siento che tu abbia fatto tutta
 questa strada per me inutilmente..."
-"102","(&촀\0Hai per caso bisogno di qualcosa,
-n\0?\0\0(촀\0Se non l'hai capito era una pregunta
-retorica, sono impegnatissimo con
-una caccia al tesoro da paura!"
+"102","(&촀\0Hai per caso bisogno di qualcosa?
+
+\0(촀\0Aspetta. 
+\0Non rispondere.\0\0(촀\0Sono nel bel mezzo di una caccia
+al tesoro da paura con 2B촀il maravillosola maravillosa\0
+n\0!
+($촀\0Parliamo più tardi, OK?"
 "200","(%촀\0Il tesoro è sepolto da qualche parte
 2\0 n!\0. Questo è
 certo. (6촀\0Mira, non avrai altri indizi!"
@@ -24,7 +27,6 @@ affatto.
 \0 Io ti consiglio
 di cercare con muchissima
 attenzione!"
-"202","(
-촀\0Mira, farei volentieri il tifo per te,
+"202","(촀\0Mira, farei volentieri il tifo per te,
 ma sarebbe un po' come tifare
 contro me stesso, no crees?"

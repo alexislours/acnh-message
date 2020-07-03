@@ -17,8 +17,7 @@ eineneineein
 meiner Lieblingsbuchserie rausge-
 kommen,
 \0 (촀\0aber ich bin pleite...
-(
-촀\0Da dachte ich mir, ich verkaufe ein
+(촀\0Da dachte ich mir, ich verkaufe ein
 bisschen was von meinem Kram.
 \0
 (%촀\0Vier Sachen hab ich ausgemistet.
@@ -82,8 +81,7 @@ arg knapp bei Kassen\0\0
 wir diese kleine Unterhaltung
 verschieben würden,
 \0 n\0."
-"100","(
-촀\0Lass mich kurz überlegen...
+"100","(촀\0Lass mich kurz überlegen...
 \0((&촀\0
 Was hältst du von Z?"
 "100_a","Gekauft!"
@@ -94,8 +92,7 @@ Klemme hilfst!
 dich deswegen angesprochen habe!"
 "102","(촀\0Ich bin mir ziemlich sicher,
 \0 2\0}\0\0 wird sich bei dir wohlfühlen!"
-"103","(
-촀\0Also... 
+"103","(촀\0Also... 
 \0In dem Fall... 
 \0(촀\0kannst du es
 auch umsonst haben! 
@@ -111,15 +108,13 @@ Verwendung dafür, 
 schon jemanden, der mir das Ding
 abkauft,
 \0 n\0."
-"200","(
-촀\0Dann sagen wir mal...
+"200","(촀\0Dann sagen wir mal...
 \0(\0촀\0
 (&촀\0Z?"
 "200_a","Puh, zu viel..."
 "200_b","Einverstanden."
 "200_c","Nichts für mich."
-"201","(
-촀\0Hm... 
+"201","(촀\0Hm... 
 \0Das ist dir zu teuer?
 (\0촀\0
 \0Könntest du dich mit
@@ -140,8 +135,7 @@ du wirst viel Freude daran haben,
 Irgendwer wird es schon haben
 wollen,
 \0 n\0."
-"205","(
-촀\0Hmmmmmm... 
+"205","(촀\0Hmmmmmm... 
 \0((\0촀\0Dann sagen wir
 \0
 (촀\0Z?"
@@ -187,15 +181,13 @@ um mein Buch kaufen zu können.
 \0
 (촀\0Danke,
 \0 n\0!"
-"303","(
-촀\0Mal überlegen... 
+"303","(촀\0Mal überlegen... 
 \0Ich hätte da noch
 2""촀
 eineneineein 2촁}\0\0 für ($촀\0Z."
 "303_a","Nehme ich!"
 "303_b","(\0촀\0Noch was anderes?"
-"304","(
-촀\0Na jan\0\0 
+"304","(촀\0Na jan\0\0 
 \0Ich könnte dir m2""촀
 eineneineein 2촁}\0\0 für ($촀\0Z verkaufen. 
 \0(\0촀\0Interesse?"
@@ -220,8 +212,7 @@ für dich dabei war, 
 "401","(촀\0Tausend Dank!"
 "402","(촀\0Schön, dass sich doch noch
 2:ein Abnehmereine Abnehmerin gefunden hat!"
-"403","(
-촀\0Hm... 
+"403","(촀\0Hm... 
 \0Mal überlegen...
 \0
 (\0촀\0Ich könnte dir (&촀\0Z
@@ -229,8 +220,7 @@ anbieten. 
 \0(4촀\0Einverstanden?"
 "403_a","Klingt gut!"
 "403_b","(\0촀\0Das kannst du besser."
-"404","(
-촀\0Oje, oje...
+"404","(촀\0Oje, oje...
 \0
 (&촀\0Könntest du denn mit einem Preis
 von Z leben?"

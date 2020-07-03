@@ -2,8 +2,7 @@
 "002","(촀\0¿Lo dices en serio,
 \0 jovencit2oa?
 \0
-(
-촀\0Bueno,
+(촀\0Bueno,
 \0 a lo mejorn\0\0\0\0(%촀\0Venga,
 \0 trato hecho.
 \0 ¡Allá vamos!
@@ -27,8 +26,7 @@ los datos que necesiten."
 "101","<"
 "101_01","(촀\0¿De verdad,
 \0 jovencit2oa?
-\0 (\0촀\0(
-촀\0Solo la idea
+\0 (\0촀\0(촀\0Solo la idea
 de vivir aquí me hace flotarn\0\0\0\0Pero,
 \0 muy a mi pesar,
 \0 ('촀\0esta vez tengo
@@ -60,8 +58,7 @@ en mi pueblo.
 muy complicado, n\0."
 "201_01","(촀\0¿En serio,
 \0 jovencit2oa?
-\0 (
-촀\0Mmmn\0\0
+\0 (촀\0Mmmn\0\0
 \0 No es
 un asunto para tomar una decisión
 precipitada,
@@ -82,8 +79,7 @@ de destino que de habilidad, n\0."
 \0 Hoy al levantarme no imaginé
 que sería un día de decisiones
 importantesn\0\0
-\0 (7촀\0Déjame pensarlo.\0\0(
-촀\0Me agrada la idea de mudarme,
+\0 (7촀\0Déjame pensarlo.\0\0(촀\0Me agrada la idea de mudarme,
 \0
 peron\0\0
 \0 (촀\0¡Ah,
@@ -127,7 +123,7 @@ de la historia.
 Otra vez será, n\0."
 "203_01","(촀\0¡Bien!
 \0 Ahora te explico las reglas.
-(\0촀\0Es un viejo juego de cartas.\0\0Yo saco una y tú tendrás que adivinar
+(\0촀\0Es un simple juego de cartas.\0\0Yo saco una y tú tendrás que adivinar
 algo sobre ella, n\0."
 "204","<"
 "204_01","(촀\0Qué pena.
@@ -209,8 +205,7 @@ lo decidimos con un juego?
 Qué bien ha salido mi campaña
 de marketing.
 \0 (촀\0¡Ja, ja, ja!
-\0 Es broma.\0\0(
-촀\0Bueno,
+\0 Es broma.\0\0(촀\0Bueno,
 \0 démosle de todos modos
 un toque de emoción.\0\0Jugamos a un juego y,
 \0 si ganas,
@@ -272,8 +267,7 @@ otra casa!\0\0(촀\0Pues nada,
 \0 Pero
 lo he intentado.
 \0 (촀\0Lo siento,
-\0 jovencit2oa.\0\0(
-촀\0El caso es que, si alguien estuviese
+\0 jovencit2oa.\0\0(촀\0El caso es que, si alguien estuviese
 dispuesto a irse de la isla,
 \0 habría
 lugarn\0\0\0\0(&촀\0¿No sabrás de alguien que quiera
@@ -325,6 +319,29 @@ presentarmen\0\0\0\0(촀\0Me llamo n
 \0 (촀\0Y tú eres n\0, ¿verdad?
 \0
 ($촀\0¡Pues nos vemos, n\0!"
+"309_01","Esto lo simplifica todo.
+\0 (촀\0¡Parece que
+la casa de s촀 está vacía!(촀\0\0\0Así que solo tengo que mudarme.
+\0
+No es ocupar,
+\0 ¿eh?
+\0 Que conste.
+\0
+\0(Ni con «c»
+\0 ni con «k».)\0￿
+( 촀\0¡Ah!
+\0 ¿Que no me he presentado?
+\0(
+(""촀\0Soy n
+\0,
+\0 para lo que necesites.\0\0(9촀\0Y tú debes de sern\0\0
+\0 Deja que me
+acuerden\0\0
+\0 (&촀\0¿2\0n\0,
+\0 por casualidad?\0\0(촀\0Es un placer ser tu nuevo vecino.
+\0
+Creo que nos vamos a llevar muy
+bien, n\0."
 "310","( 촀\0Eston\0\0
 \0 ¿qué ocurre?
 \0 (촀\0¿Te has
@@ -343,8 +360,7 @@ dejamos.
 \0 (촀\0Quizá vuelva a preguntarte
 en otra ocasión, n\0."
 "313","(촀\0Anda, ¿no será s촀?
-\0 Porque me pareció oír algo de eso en la \0oficina de gestión vecinal\0￿n\0\0\0\0(
-촀\0¿Qué hago?
+\0 Porque me pareció oír algo de eso en la \0oficina de gestión vecinal\0￿n\0\0\0\0(촀\0¿Qué hago?
 \0 ¿Voy a hablar con 2촀élella\0
 y le pregunto si de verdad piensa
 largarse
@@ -372,8 +388,7 @@ la isla no cabe un alma más.
 \0
 ¡Un nuevo vecino,
 \0 y se hunde!
-(
-촀\0¿Puede hundirse una isla?
+(촀\0¿Puede hundirse una isla?
 \0 ¿Cuánto pesa el alma?
 \0 (촀\0Mejor no correr riesgosn"
 "405","(촀\0Malas noticias,
@@ -411,8 +426,7 @@ no me he presentado!
 rato que antiguamente todo era
 mejor,
 \0 (촀\0¡ja, ja, ja!"
-"410","(
-촀\0A ver,
+"410","(촀\0A ver,
 \0 espera un minuto,
 \0 que voy a
 preguntar de nuevo, n\0n\0\0\0\0(\0촀\0Esta vez, con mi mal humor corregido
@@ -433,8 +447,7 @@ para este abuelete.\0\0(촀\0De todos modos,
 \0 me honra haber
 recibido una invitación para un sitio
 tan popular, n\0."
-"424","(
-촀\0Ya no hay solares a la ventan\0\0
+"424","(촀\0Ya no hay solares a la ventan\0\0
 \0
 ¿A qué alcalde tengo que untar?
 \0
@@ -460,8 +473,7 @@ sentir como en casa.\0\0(%촀\0Creo que sería muy feliz aquí,
 n\0."
 "504_a","¡Pues múdate aquí!"
 "504_b","No es para tanto..."
-"505","(
-촀\0Ehn\0\0
+"505","(촀\0Ehn\0\0
 \0 (\0촀\0Pues no es mala idea,
 \0 no.
 \0
@@ -488,8 +500,7 @@ aquí, (촀\0n\0."
 \0 si lo dices en serio,
 \0
 es una propuesta muy amable por
-tu parte.\0\0(
-촀\0Mmmn\0\0
+tu parte.\0\0(촀\0Mmmn\0\0
 \0 (%촀\0Dame un tiempo para que
 me lo piense, n\0.\0\0(촀\0Puede que tenga la respuesta
 la próxima vez que me invites

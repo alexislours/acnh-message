@@ -467,6 +467,9 @@ ist stets ein Helm zu tragen!"
 "207","Ob's am Empfang liegt?
 Vielleicht sollte ich mal \0aufstehen
 \0￿und es noch mal versuchen."
+"207_01","Ob's am Empfang liegt?
+Vielleicht sollte ich \0an Land gehen
+\0￿und es noch mal versuchen."
 "208",""
 "209","Du bist \0außerhalb des
 Gültigkeitsbereiches
@@ -651,6 +654,9 @@ auf n	\0 nutzen,
 und nur im Freien."
 "301","Für diese Insel scheint meine
 Karten-App keine Daten zu habenn"
+"302","Während des Schwimmens
+scheint meine Karten-App wohl
+nicht zu funktionierenn"
 "311","Nanu? 
 \0„Kein Empfang“n\0\0
 \0 Hmmm...

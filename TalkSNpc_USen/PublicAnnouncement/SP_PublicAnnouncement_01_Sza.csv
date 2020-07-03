@@ -156,8 +156,7 @@ for our little island community.\0\0(1촀\0It'll be amazing. 
 a faraway islandn\0\0
 \0get a little R&Rn\0\0
 \0
-(
-촀\0But isn't that why you moved here?
+(촀\0But isn't that why you moved here?
 (\0촀\0Anyway, 
 \0it's going to be all sorts of
 fun, so
@@ -190,8 +189,7 @@ for our little island community.\0\0(1촀\0It'll be amazing. 
 a faraway islandn\0\0
 \0get a little R&Rn\0\0
 \0
-(
-촀\0But isn't that why you moved here?
+(촀\0But isn't that why you moved here?
 (\0촀\0Anyway, 
 \0it's going to be all sorts of
 fun, so
@@ -216,7 +214,7 @@ Services\0￿ to chat with \0Mr. Nook \0￿soon."
 "008_03","(촀\0Right now,
 \0 to encourage eco-friendly
 behavior here on n	\0,
-we're celebrating \0Nature Day\0￿!\0\0(\0촀\0May 4th is the final day of the
+we're celebrating \0Nature Day\0￿!\0\0(\0촀\0\0May 4th\0￿ is the final day of the
 special activities.
 \0(""촀\0 Now let's get in
 the eco-friendly spirit, everyone!"
@@ -239,6 +237,46 @@ Rally from May 18th to May 31st!
 \0
 I hope everyone heads over to the
 museum($촀\0 and joins in the rally."
+"008_07_01","For some time now,
+\0()촀\0 Nook Inc. has
+been exploring and studying the
+water surrounding our island.
+(촀\0I am pleased to announce that,
+based on their findings,
+\0(촀\0 the ocean's
+been deemed safe for swimming!
+What's more? 
+\0(%촀\0The water itself is
+clear and clean,
+\0($촀\0 which are the perfect
+conditions for underwater diving!
+(9촀\0For everyone's safety,
+\0 we ask that
+you please use the proper swimwear
+if you plan to enter the water.
+()촀\0You can purchase a wet suit at
+either the shop or Nook Shopping.\0\0Oh, (촀\0I can't wait to see folks out there
+diving, playing, and splashingn\0\0
+\0(%촀\0the
+appropriate amount, of course."
+"008_07_02","As you were previously notified,
+\0(촀\0 the
+ocean surrounding our island has
+been deemed safe for swimming!
+Even better,
+\0(%촀\0 the water itself is clear
+and clean,
+\0($촀\0 which are the perfect
+conditions for underwater diving!
+(9촀\0For everyone's safety,
+\0 we ask that
+you please use the proper swimwear
+if you plan to enter the water.
+()촀\0You can purchase a wet suit at
+either the shop or Nook Shopping.\0\0Oh, (촀\0I can't wait to see folks out there
+diving, playing, and splashingn\0\0
+\0(%촀\0the
+appropriate amount, of course."
 "010","(촂\0Hello, everyone.
 \0
 I'm sorry to interrupt your day, but I
@@ -306,14 +344,15 @@ find out more about them!"
 a suspicious character visiting the
 islands in the area.
 Apparently, thisn\0\0
-\0visitor 
-\0('촀\0has been
-selling works of art sourced from
+\0visitor
+\0(촀\0 has been
+selling works of art sourced from
+\0
 unknown origins.
 (\0촀\0No one who has come into contact
 with the individual has been harmed,
 \0
-(%촀\0but please be careful out there!"
+(9촀\0but please be careful out there!"
 "600","<"
 "600_01","(촀\0Oh, one more thing!"
 "600_02","(촀\0I almost forgotn"
@@ -532,7 +571,7 @@ as beautiful as they could ben\0\0
 \0(7촀\0
 but I'm not confident in my results.
 (촀\0I accidentally bumped into one of the
-decorated trees
+decorated trees,
 \0 and a few of the
 ornaments fell right off!
 (촀\0I can only imagine what would
@@ -547,17 +586,14 @@ up any fallen ornaments you see."
 \0￿app users. 
 \0(촀\0What for, you may ask?
 \0
-(촀\0An \02\0Ȁ촃ornament wreath\0￿!\0\0(
-촀\0I bet those fallen \0ornaments \0￿you
+(촀\0An \02\0Ȁ촃ornament wreath\0￿!\0\0(촀\0I bet those fallen \0ornaments \0￿you
 pick up would really come in handy
 for this type of projectn"
-"619_03","(
-촀\0And I'm thinking
+"619_03","(촀\0And I'm thinking
 \0 those fallen
 ornaments could be pretty useful
 for some kind of DIY projectn"
-"701","(
-촀\0Hmmmn\0\0 There really isn't any news
+"701","(촀\0Hmmmn\0\0 There really isn't any news
 to speak of todayn\0\0 Butn\0\0
 \0(촀\0 Oh!"
 "702","<"
@@ -571,7 +607,7 @@ but I finally figured it out!"
 do a video chat with my family back
 home! Mom and Dad are both great!"
 "702_04","(촀\0I looked up my horoscope for the
-day and it said I'm going to have
+day, and it said I'm going to have
 good luck!"
 "702_05","(촀\0A sock I've been looking for
 forever turned up behind my washing
@@ -590,8 +626,7 @@ much to say besides my hellos."
 "802_01","(촀\0Though now that I think about itn"
 "802_02","(촀\0Hold on!"
 "802_03","(촀\0Come to think of itn"
-"803","(
-촀\0Though I suppose technically the
+"803","(촀\0Though I suppose technically the
 date has changed, 
 \0(촀\0and of coursen"
 "804_01_01","( 촀\0It's almost the end of January,
@@ -699,7 +734,7 @@ outfits you put together this year!
 \0
 (""촀\0Well then, \0Isabelle\0￿ signing off!"
 "804_09_02","(촀\0Today marks the end of September!\0\0It's sometimes said spring is full of
-new encounters as well as partings.
+new encounters, as well as partings.
 \0
 (&촀\0Has anything changed in your life?
 (촀\0Regardless, I hope that October is a
@@ -712,8 +747,7 @@ wonderful month for all of you!
 (촀\0costumes!
 \0(촀\0 I hope I'll see some
 of you dressed up.
-(
-촀\0I'm sure some of you will be having
+(촀\0I'm sure some of you will be having
 fun at costume parties, 
 \0(촀\0while some
 of you will opt for a quieter evening.
@@ -723,8 +757,7 @@ Halloween, I hope you enjoy it!"
 \0
 (촀\0costumes!
 \0(촀\0 I hope I'll see some
-of you dressed up.\0\0(
-촀\0I'm sure some of you attended one
+of you dressed up.\0\0(촀\0I'm sure some of you attended one
 or two costume parties, 
 \0(촀\0while some
 of you opted for a quieter evening.
@@ -733,7 +766,7 @@ Halloween, I hope you're all
 set for November!"
 "804_11","( 촀\0I can hardly believe that November
 and this entire year are almost over!\0\0(촀\0I'm going to do my best to prepare
-for our year-end celebration, so you
+for our year-end celebration so you
 can all enjoy ringing in the new year!
 (""촀\0Well then, \0Isabelle\0￿ signing off!"
 "804_12",""
@@ -752,8 +785,7 @@ every one of your expectations!(촀\0\0\0(""촀\0Well then, \0Isabell
 another week of entertaining and
 informational broadcasts!
 (""촀\0This has been \0Isabelle\0￿. Signing off!"
-"807","(
-촀\0There's no news that I can think ofn\0\0
+"807","(촀\0There's no news that I can think ofn\0\0
 \0
 (촀\0It's only Tuesday, 
 \0so be sure to pace
@@ -778,7 +810,7 @@ Thursdayn\0\0
 almost taste it!\0\0(""촀\0Well then, \0Isabelle\0￿ signing off!"
 "810","(촀\0No breaking news today!
 \0
-(7촀\0Is it just me 
+(7촀\0Is it just me, 
 \0or did this week fly by?\0\0(촀\0I know how hard all of you worked,
 so
 \0(""촀\0 I hope you enjoy a well-deserved
@@ -788,8 +820,7 @@ lovely weekend!"
 Instead,
 \0(""촀\0 allow me to wish you all a
 fun n\0 weekend!"
-"820","(
-촀\0Hmmmn\0\0 There really isn't any news
+"820","(촀\0Hmmmn\0\0 There really isn't any news
 to speak of todayn"
 "821","(촀\0Oh yeah! 
 \0(&촀\0Did anyone else see that
@@ -803,8 +834,7 @@ coming.
 \0(촀\0 I'm still reeling!"
 "822","(촀\0Oh! 
 \0(&촀\0Did anyone else catch that quiz
-show on TV yesterday?\0\0(
-촀\0How do they come up with all those
+show on TV yesterday?\0\0(촀\0How do they come up with all those
 questions each week?
 \0 Let alone
 all the answersn"
@@ -851,7 +881,7 @@ to sleep!(촀\0
 \0Did anyone else catch
 \0(&촀\0 that
 concert on TV yesterday?\0\0(\0촀\0My favorite band was one of the
-featured acts 
+featured acts, 
 \0(촀\0and their music's still
 stuck in my head."
 "828","(촀\0
@@ -873,7 +903,7 @@ phone last nightn\0\0
 there's an emergency?"
 "831_04","(촀\0Phooey!
 \0 My brother asked me to
-give him a wake-up call this morning
+give him a wake-up call this morning,
 and it totally slipped my mind!
 (촀\0I hope he's not still asleepn"
 "899","(촀\0Errn\0\0 (촀\0Oh dear.

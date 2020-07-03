@@ -20,9 +20,7 @@ qué apodo ponerte?
 "002_b","No quiero cambiarlo"
 "003","(촀\0Me dijo un animalito que por
 ahí te llaman ""s\0촀"".
-\0
-¿Es verdad?
-(촀\0¡Ay, me superencanta!
+\0 ¿Es verdad?\0\0(촀\0¡Ay, me superencanta!
 \0 ¿Me dejas
 que yo también te llame así?"
 "003_a","¡Claro!"
@@ -48,8 +46,7 @@ genial para ti.\0\0(촀\0Es que ""n\0"" está bien,
 igual, o me va a dar algo."
 "006_a","¡Claro!"
 "006_b","Lo siento, no"
-"100","(
-촀\0A vern\0\0
+"100","(촀\0A vern\0\0
 \0 (촀\0¿Qué te parece algo así
 como ""n\0""?
 \0
@@ -59,20 +56,17 @@ como ""n\0""?
 "101","(촀\0Ay, cielitos.
 \0 Yo esperaba que te
 fascinara.
-\0 (
-촀\0Con el buen gusto
+\0 (촀\0Con el buen gusto
 que tengon"
 "102","(촀\0¡Genial! ¡Pues a partir de ahora,
 ""n\0""!"
 "103","( 촀\0Ay, ¿cómo crees?
 \0
-(
-촀\0¿Qué apodo quieres entonces?"
+(촀\0¿Qué apodo quieres entonces?"
 "104","(촀\0¿No te fascina?
 \0 A mí me fascinaba.
 \0
-(
-촀\0A ver, déjame que piense en otra
+(촀\0A ver, déjame que piense en otra
 cosan"
 "105","( 촀\0¿Dijiste ""n\0""?
 \0

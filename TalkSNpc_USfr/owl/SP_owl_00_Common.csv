@@ -29,20 +29,16 @@ Excuse-moin"
 \0(촀\0\0musée
 2
 de d'⁠\0￿
-
-\0\0n\0\0￿
-
-!"
+\0\0n\0\0￿
+!"
 "009","(;촀\0Hou hou!
 \0 (%촀\0Je te souhaite la
 bienvenue dans 
 \0(촀\0le \0musée
 2
 de d'⁠\0￿
-
-\0\0n\0\0￿
-
-!"
+\0\0n\0\0￿
+!"
 "010","(&촀\0En quoi puis-je t'être utile?"
 "010_a","Expertiser des fossiles."
 "010_b","C'est quoi, ça?"
@@ -255,10 +251,8 @@ reconnaissance!
 "114_02","(촀\0Argh! 2\02\0}\0\0!
 \0
 \0K(촀\0Hou!
-\0
- Quelle abomination sur pattes!
-\0
-\0d"
+\0 Quelle abomination sur pattes!
+\0\0d"
 "115","\0K(촀\0\0dHem! Je te présente mes excuses. 
 \0#(""촀\0
 Je peux te délivrer mon savoir
@@ -356,8 +350,7 @@ fait le tour de la question.
 \0
 (촀\0Fascinant, n'est-ce pas?"
 "134","( 촀\0Ah,
-\0
- je vois.
+\0 je vois.
 \0 (7촀\0Une prochaine fois
 peut-êtren\0\0\0\0En attendant,(%촀\0 nous prendrons
 grand soin de cette pièce.
@@ -418,17 +411,13 @@ Si, si, 
 qui soit digne de nos collectionsn"
 "142","()촀\0Si d'aventure tu trouvais quelque
 \0insecte\0￿,
-\0
- \0poisson\0￿,
-\0
- ou \0fossile\0￿n\0\0
+\0 \0poisson\0￿,
+\0 ou \0fossile\0￿n\0\0
 \0(\0촀"
 "143","()촀\0Si d'aventure tu trouvais quelque
 \0insecte\0￿,
-\0
- \0poisson\0￿,
-\0
- ou \0fossile\0￿n\0\0
+\0 \0poisson\0￿,
+\0 ou \0fossile\0￿n\0\0
 \0(\0촀"
 "144","Pour ce qui est des fossiles, (5촀\0ils
 doivent en premier lieu être
@@ -453,6 +442,19 @@ accompagné de menues informations
 pour l'édification de nos visiteurs.
 (촀\0Laisse-moi juste un peu de temps!"
 "148","2\02\0}\0\0 vu2촀\0e\0 de près, c'est un spectacle qui vaut son pesant de clochettes, hou."
+"149","()촀\0Nous acceptons les dons d'\0insectes\0￿,
+\0
+de \0poissons\0￿, 
+\0de \0créatures marines\0￿ et
+de \0fossiles\0￿ dûment expertisésn"
+"150","()촀\0Nous acceptons les dons d'\0insectes\0￿,
+\0
+de \0poissons\0￿, 
+\0de \0créatures marines\0￿ et
+de \0fossiles\0￿ dûment expertisésn"
+"151","()촀\0Nous acceptons les dons d'\0insectes\0￿,
+de \0poissons\0￿, de \0créatures marines\0￿,
+de \0fossiles expertisés\0￿ et d'\0œuvres\0￿."
 "201","(.촀\0Hoummm? 
 \0Hou? 
 \0(촀\0Il semble que
@@ -497,8 +499,7 @@ d'2\0}\0\0!"
 2\0}\0\0!"
 "209","2\02\0}\0\0n\0\0(%촀\0 pour le moins remarquable.\0\0(촀\0Si seulement je pouvais l2촀ea\0 gardern\0\0
 Hélas,
-\0
-(""촀\0 nous disposons déjà d'un
+\0(""촀\0 nous disposons déjà d'un
 exemplaire.
 \0 Je te l2촀ea\0 rends, hou hou."
 "210","(촀\02\02\0}\0\0 de grande qualité, indubitablementn\0\0\0\0(촀\0J'aimerais fort te délester d'une telle
@@ -509,8 +510,7 @@ pièce,
 donner du bec et des aigrettes.
 \0
 Reviens plus tard, hou hou!"
-"211","(
-촀\0Il faut convenir de son excellente
+"211","(촀\0Il faut convenir de son excellente
 condition,
 \0 et bien que nous n'ayons
 guère de place icin\0\0
@@ -529,15 +529,13 @@ guère de la place pour l'exposern\0\0
 nous manque qu'un objet pour
 justifier l'ouverture du musée!
 (7촀\02\02\0}\0\0 que tu m'apportes de tes mains émues peut donc changer la donne!\0\0Qu'en dis-tu?
-\0
-(&촀\0 Accepteras-tu de faire
+\0(&촀\0 Accepteras-tu de faire
 don de ce fossile afin de nous
 permettre d'ouvrir le musée?"
 "212_a","Je l'offre au musée!"
 "212_b","Non, je le garde."
 "213","(촀\0Quelle pièce remarquable!
-\0
- Superbe!
+\0 Superbe!
 \0
 (촀\0Qui plus est, il s'agit d'un fossile
 manquant encore à notre collection.
@@ -552,8 +550,7 @@ l'essor de notre culture, maisn\0\0
 "214","(촀\0Hou hou!
 \0 Rien que cela!
 
-\0Intéressant!(
-촀\0 Voyons voirn"
+\0Intéressant!(촀\0 Voyons voirn"
 "215","(촀\0Hou hou!
 \0( (촀\0Je ne vois là que des
 fossiles que le musée ne possède
@@ -563,8 +560,7 @@ un don pour dénicher les fossiles,
 "216","(촀\0Hou hou!
 \0 J'aperçois ici de quoi
 étoffer notre cataloguen\0\0\0\0(촀\0C'est beau et rare à la fois!
-\0
- Tu
+\0 Tu
 sembles avoir un réel don pour
 dénicher les fossilesn"
 "217","()촀\0J'espère maintenant que ta
@@ -582,47 +578,38 @@ aussi, 
 "219","(%촀\0Remarquablesn\0\0 Splendides, même.
 \0
 Hélas,
-\0
-(촀\0 notre musée dispose déjà
+\0(촀\0 notre musée dispose déjà
 d'exemplaires de ces fossiles.
-(
-촀\0Je pourrais te les acheter pour ma
+(촀\0Je pourrais te les acheter pour ma
 collection personnelle.
-\0
- La chose est
+\0 La chose est
 tentante, assurémentn\0\0
 ('촀\0Mais,
 \0 nulle tentation ne saurait
 ébranler mon inénarrable sagesse.
-\0
-
+\0
 (촀\0Reprends-les, s'il te plaît."
 "220","( 촀\0Ah?
 \0 Bon.
 \0 Ma foi,
-\0
-(촀\0 c'est à toi que
+\0(촀\0 c'est à toi que
 revient cette décision.
 \0(%촀\0 Reprends
 ce qui t'appartient."
 "221","(촀\0Hou!
-\0
- Formidable!
+\0 Formidable!
 \0(""촀\0 Je vais ajouter ça
 à notre collection sans tarder!"
 "223","(촀\0Sois-en remercié2\0e.
-\0( (
-촀\0J'espère que
+\0( (촀\0J'espère que
 nous pourrons un jour admirer cette
 fascinante créature en entiern"
 "224","(촀\0Hou hou!
-\0
- Ô pièce tant attendue!
+\0 Ô pièce tant attendue!
 \0
 (촀\0Notre \0촀 est enfin au complet!\0\0(촀\0Nous allons pouvoir contempler la
 majesté de cette créature!
-\0
- Quelle
+\0 Quelle
 présence!\0\0(4촀\0Puisque nous sommes là et que je
 suis en verve,
 \0 oserais-je disserter un
@@ -630,19 +617,14 @@ peu sur 2\0\0촀?"
 "224_a","Étends-toi, mon bon!"
 "224_b","Je passe mon tour."
 "225","(촀\0Merveilleux!
-\0
- Splendide!
-\0
- Nous autres
+\0 Splendide!
+\0 Nous autres
 scientifiques ne vivons que pour ces
 doux moments!
-\0 (
-촀\0Bien... 
-\0
-Ahem!"
+\0 (촀\0Bien... 
+\0Ahem!"
 "226","( 촀\0Ah,
-\0
- je voisn\0\0
+\0 je voisn\0\0
 \0(촀\0 Comme il te plairan"
 "227","(%촀\0Voilà une pièce remarquable,
 \0 j'en
@@ -663,8 +645,7 @@ musée quand il disposera de mursn\0\0
 convaincre d'en faire don à notre
 institution en vue de son expansion...
 (""촀\0En attendant,
-\0
- je te restitue ces
+\0 je te restitue ces
 pièces remarquables.
 \0(촀\0 Mais songe
 à mes sages paroles!
@@ -677,37 +658,30 @@ tu me réserves!"
 "303","( 촀\0Tu es sûr2\0e?
 \0(\0촀\0 Si tu as des questions
 au sujet de quoi que ce soit,
-\0
-(촀\0 n'hésite
+\0(촀\0 n'hésite
 pas,
 \0 interroge-moi!"
 "304","(촀\0Hou!
-\0
- Mille aigrettes!
+\0 Mille aigrettes!
 \0(촀\0 Aucune erreur
 possible,
 \0 il s'agit là d'un spécimen
 2
 de d'⁠}\0\0!\0\0(촀\0Attention!
-\0
- Prudence!
-\0
- Ne laisse pas
+\0 Prudence!
+\0 Ne laisse pas
 cet énergumène sortir de sa cage!
 \0
 \0K('촀\0On ne saurait faire confiance à un insecte...\0d"
 "306","(촀\0Hou hou!
 \0(촀\0 Quel2촀\0le\0 merveilleu2촀xse\0
 }\0\0!"
-"307","(
-촀\0Hou houn\0\0 Avons-nous affaire là à 2\0}\0\0 original2촀\0e\0?\0\0( 촀\0Fourberie s'il en est!
-\0
- C'est un fauxn\0\0
+"307","(촀\0Hou houn\0\0 Avons-nous affaire là à 2\0}\0\0 original2촀\0e\0?\0\0( 촀\0Fourberie s'il en est!
+\0 C'est un fauxn\0\0
 \0
 (9촀\0Une vulgaire contrefaçon!"
 "308","(%촀\0Hou! 
-\0
-Il va nous falloir expertiser ce
+\0Il va nous falloir expertiser ce
 fossile pour en déterminer la nature
 exacten\0\0
 (&촀\0Souhaites-tu que je procède à
@@ -718,8 +692,7 @@ l'expertise immédiatement?"
 \0N'hésite pas à
 faire appel à mon expertise quand
 bon te semble.
-\0
-(5촀\0 Elle est sans égale."
+\0(5촀\0 Elle est sans égale."
 "310","(촀\0Merveilleux! 
 \0(""촀\0Laisse-moi voir ça
 de plus prèsn"
@@ -729,8 +702,7 @@ de plus prèsn"
 "315","(""촀\0Un petit écriteau devant chaque 
 œuvre te fournira (%촀\0quelques 
 informations précieuses à son sujet."
-"316","(
-촀\0Si je ne m'abuse, notre collection n'a
+"316","(촀\0Si je ne m'abuse, notre collection n'a
 pas encore eu le bonheur d'accueillir
 2\0}\0\0n\0\0
 (촀\0Si tu comptes en faire don à notre
@@ -742,8 +714,7 @@ petits écriteaux devant chaque œuvre.
 "351","(촀\0Les faussaires sont légion de nos
 jours. Il convient d'ouvrir l'œil."
 "352","(9촀\0Voilà.
-\0
- Maintenant, (촀\0merci de bien
+\0 Maintenant, (촀\0merci de bien
 vouloir ôter de ma vue ce2촀\0tte\0 sinistre
 petit2촀\0e\0 }\0\0."
 "353","()촀\0À proposn\0\0 Il semble que 2\0}\0\0 manque encore à notre collectionn\0\0\0\0(9촀\0Je m'accommoderais volontiers de
@@ -773,11 +744,9 @@ de me permettre de l'admirer!"
 à titre individuel, afin de l'ajouter à
 ma collection personnellen\0\0
 n\0\0 Hélas,
-\0
- je n'ai pas de quoi m'offrir
+\0 je n'ai pas de quoi m'offrir
 pareil bijou et devrai me contenter
-\0
-
+\0
 (촀\0de le toucher avec les yeux.
 (%촀\0Mais merci de me permettre de
 l'admirer!
@@ -893,21 +862,32 @@ mais c'est une vraie réussite!\0\0(촀\0Encore merci pour tous tes efforts
 \0
 Notre musée gagne chaque jour en
 prestige, et tu n'y es pas pour rien!"
-"406","Hou hou! C'était la touche finale à
-notre collection d'art! J'ai du mal à
-le croire. C'est surréaliste!
-Maintenant qu'elles sont en place, tu
-vas voir comme nos œuvres sont
-bien agencées et mises en lumière.
-Tu sais, l'art, c'est ma passion. Aussi
-je suis très pointilleux pour ce qui
-est de la disposition des œuvres.
-J'aime que tout soit cubique, euh...
-carré, pour que les visiteurs
-repartent avec une belle impression.
-Oh... Quelle belle galerie nous
-avons! Reçois l'expression de tous
-mes remerciements!"
+"406","(촀\0Hou hou!
+\0 Hourra!
+\0 Ô, jour faste!\0\0(촀\0Voici la pièce finale dont nous avions
+besoin pour achever notre collection
+de chefs-d'œuvre!
+()촀\0La galerie d'art est maintenant
+pleine à craquer de splendeurs
+esthétiques!\0\0(촀\0Quant au cœur de ton humble
+conservateur, il est plein à craquer
+de reconnaissance émue.\0\0(촀\0C'est un honneur de traiter avec un2\0e
+authentique mécène comme toi!
+\02(촀"
+"410","(촀\0Hou hou? 
+\0Est-ce bien vrai?
+\0
+(&촀\0Nous avons maintenant un spécimen
+de chaque créature marine?
+(!촀\0Hou, hou, hourra!
+\0
+(\0촀\0Et surtoutn\0\0 (촀\0MERCI!\0\0(촀\0Désormais, tout un chacun peut venir
+ici s'extasier des splendeurs que
+recèle l'océan!
+(촀\0Ton ardeur à la tâche me va droit au
+cœur. 
+\0(촀\0Et tous les visiteurs du musée
+ont une éternelle dette envers toi."
 "501","()촀\0Notre collection comprend de
 nombreux objets rares ainsi que des
 chefs-d'œuvre de toutes sortes.

@@ -27,8 +27,7 @@ destreza para 촀."
 "001_101","(&촀\0¿Alguna vez hablaste con s\0촀 sobre sus gustos en cuestión de 촀?\0\0(6촀\0Si no,
 \0 te revelo el secreto:
 \0
-(촀\0¡""
-촀""!
+(촀\0¡""촀""!
 \0 Nada le gusta más."
 "001_101_a","Sí, ya lo sabía"
 "001_101_b","No tenía ni idea..."
@@ -37,13 +36,11 @@ destreza para 촀."
 \0 (%촀\0¿quieres que
 te cuente?\0\0()촀\0Si le preguntas por su 촀 preferida,
 \0 dirá
-""⁠
-촀⁠""⁠."
+""⁠촀⁠""⁠."
 "001_102_a","Sí, ya lo sabía"
 "001_102_b","No tenía ni idea..."
 "001_103","(촀\0¿Alguna vez s\0촀 te contó cuál sería el trabajo de sus sueños?\0\0Al parecer, esto fue lo que dijo:
-(촀\0¡""
-촀""!
+(촀\0¡""촀""!
 \0 (%촀\0Sí,
 \0 yo tampoco lo hubiera imaginadon"
 "001_103_a","Sí, ya lo sabía"
@@ -52,14 +49,12 @@ te cuente?\0\0()촀\0Si le preguntas por su 촀 preferida,
 \0 pero (6촀\0me enteré del mayor pasatiempo de s\0촀n\0\0
 En sus propias palabrasn\0\0(촀\0
 \0
-¡""2\0
-촀""!
+¡""2\0촀""!
 \0 (%촀\0Como lo oyesn"
 "001_104_a","Sí, ya lo sabía"
 "001_104_b","No tenía ni idea..."
 "001_105","(&촀\0¿Alguna vez le preguntaste a s\0촀 en qué
-se destaca?\0\0(촀\0¡""2\0
-촀""!
+se destaca?\0\0(촀\0¡""2\0촀""!
 \0 (촀\0Esa es su respuestan"
 "001_105_a","Sí, ya lo sabía"
 "001_105_b","No tenía ni idea..."
@@ -82,8 +77,7 @@ nuncan"
 "010_04_b","No tenía ni idea..."
 "010_05","()촀\0Resulta que s\0촀 no ve televisión prácticamente.
 
-\0(
-촀\0Qué cosas, ¿eh?"
+\0(촀\0Qué cosas, ¿eh?"
 "010_05_a","(\0촀\0¿Ahora te enteras?"
 "010_05_b","(\0촀\0¡No me digas!"
 "010_06","()촀\0Resulta que a s\0촀 no le gustan los deportes.
@@ -92,13 +86,11 @@ nuncan"
 Sí, ya lo sabía"
 "010_06_b","¡No me digas!
 No tenía ni idea..."
-"010_07","(
-촀\0Hay una cosa de s\0촀 que me parece un poco raran\0\0\0\0(&촀\0¿Sabías que no tiene una bebida favorita?"
+"010_07","(촀\0Hay una cosa de s\0촀 que me parece un poco raran\0\0\0\0(&촀\0¿Sabías que no tiene una bebida favorita?"
 "010_07_a","(\0촀\0¿Ahora te enteras?"
 "010_07_b","(\0촀\0¡No me digas!"
 "010_08","(8촀\0Por lo visto s\0촀 no tiene una comida favorita.
-\0 (
-촀\0Me resulta curioso,
+\0 (촀\0Me resulta curioso,
 \0 la verdadn"
 "010_08_a","No es novedad
 Sí, ya lo sabía"
@@ -107,8 +99,7 @@ No tenía ni idea..."
 "010_09","(&촀\0¿Sabes que s\0촀 no ha decidido a qué le gustaría dedicarse en la vida?"
 "010_09_a","(\0촀\0¿Ahora te enteras?"
 "010_09_b","(\0촀\0¡No me digas!"
-"010_10","(
-촀\0Me sorprendió descubrir que s\0촀 dice que no tiene aficionesn\0\0 ( 촀\0¿Ninguna en absoluto?"
+"010_10","(촀\0Me sorprendió descubrir que s\0촀 dice que no tiene aficionesn\0\0 ( 촀\0¿Ninguna en absoluto?"
 "010_10_a","No es novedad
 Sí, ya lo sabía"
 "010_10_b","¡No me digas!
@@ -135,8 +126,7 @@ cuentan todo,
 se dicen\0\0
 \0 (촀\0No le pregunté
 personalmente, n\0.
-(
-촀\0¿Sabes qué?
+(촀\0¿Sabes qué?
 \0 Eso es lo que ((촀\0voy a
 hacer la próxima vez que 2촀lola\0 vea."
 "050_01","(\0촀\0Una pregunta, n\0,
@@ -160,8 +150,7 @@ la 촀 favorita de s\0촀,
 preferido de s\0촀?"
 "050_04_a","La verdad es que sí"
 "050_04_b","Pues no"
-"050_05","(
-촀\0Me preguntaba si s\0촀 tiene alguna destreza en la que se
+"050_05","(촀\0Me preguntaba si s\0촀 tiene alguna destreza en la que se
 destaque.
 \0 (&촀\0¿Tú lo sabes?"
 "050_05_a","Sí, sé cuál es"
@@ -251,8 +240,7 @@ felicidad, n\0n"
 en serio.
 \0 ¡Pensé que tú lo sabrías!
 \0\0\0(촀\0¿Y ahora a quién le pregunto?
-(
-촀\0Se lo tendré que preguntar a s\0촀 directamenten\0\0\0\0(촀\0Espero que su modestia no le
+(촀\0Se lo tendré que preguntar a s\0촀 directamenten\0\0\0\0(촀\0Espero que su modestia no le
 impida contarme cuál es su fuerte,
 n\0."
 "101","2\0n\0, querid2oa,
@@ -284,8 +272,7 @@ Sí, en eso coincidimos"
 "110_02_b","('촀\0En realidad, no...
 ('촀\0La verdad, no..."
 "110_03","(촀\0¡Estaba clarísimo!
-\0 Pero (
-촀\0ya que tienen
+\0 Pero (촀\0ya que tienen
 tanto en común,
 \0 estoy pensandon\0\0\0\0()촀\02촀ÉlElla\0 dice que le encantaría ser
 촀.
@@ -319,9 +306,7 @@ No, eso es cosa suya"
 \0
 (&촀\0¿Y comparten los mismos gustos
 en cuanto a 촀?
-(
-촀\0¿""2\0⁠
-촀⁠"", como dijo 2촀élella\0⁠?
+(촀\0¿""2\0⁠촀⁠"", como dijo 2촀élella\0⁠?
 \0 ¿Eso es lo que te gusta a ti también?"
 "110_101_a","Así es
 Sí, en eso coincidimos"
@@ -330,31 +315,26 @@ Sí, en eso coincidimos"
 "110_102","(6촀\0Saltaba a la vista,
 \0 ¡lo sabía!
 \0
-(&촀\0¿Y tienen la misma 촀 favorita?\0\0(
-촀\0¿Cómo dijo 2촀élella\0,
-\0 ""⁠
-촀⁠""⁠?
+(&촀\0¿Y tienen la misma 촀 favorita?\0\0(촀\0¿Cómo dijo 2촀élella\0,
+\0 ""⁠촀⁠""⁠?
 \0 ¿Esa es la que más te gusta a ti también?"
 "110_102_a","Así es
 Sí, en eso coincidimos"
 "110_102_b","('촀\0En realidad, no...
 ('촀\0La verdad, no..."
 "110_103","(촀\0¡Estaba clarísimo!
-\0 Y (
-촀\0ya que tienen
+\0 Y (촀\0ya que tienen
 tanto en común,
 \0 dime una cosan\0\0\0\0(촀\02촀ÉlElla\0 dice que la profesión
 de sus sueños es
-""⁠
-촀⁠""⁠n"
+""⁠촀⁠""⁠n"
 "110_103_a","Sí, la mía también"
 "110_103_b","Yo tengo otros planes"
 "110_104","(6촀\0No se me escapa unan\0\0
 \0 Y dime,
 \0
 ()촀\0¿también compartes su pasatiempo:
-""⁠
-촀⁠""⁠?"
+""⁠촀⁠""⁠?"
 "110_104_a","Sí, me encanta
 ¡Claro!"
 "110_104_b","No, no es lo mío
@@ -363,12 +343,10 @@ No, eso es cosa suya"
 \0
 (촀\0Mi intuición nunca falla.
 \0
-(
-촀\0Y ya que hablamos de 2촀élella\0n\0\0
+(촀\0Y ya que hablamos de 2촀élella\0n\0\0
 ()촀\0Dice que su habilidad especial es
 \0
-""⁠
-촀⁠""⁠.
+""⁠촀⁠""⁠.
 \0
 (촀\0Me preguntaba si también es la tuya."
 "110_105_a","Sí, me encanta
@@ -377,8 +355,7 @@ No, eso es cosa suya"
 ('촀\0La verdad, no..."
 "120_01","(촀\0Me alegra que se lleven tan bien.
 \0
-(
-촀\0Esperan\0\0
+(촀\0Esperan\0\0
 \0 ¿Eso significa que
 (&촀\0tú tampoco escuchas música?"
 "120_01_a","('촀\0No escucho, no...
@@ -460,8 +437,7 @@ en particular.
 ('촀\0Como yo, ninguna"
 "120_10_b","(%촀\0Ah, yo sí
 (%촀\0¡Sí tengo aficiones!"
-"120_11","(%촀\0Se nota que tienen mucho en común.\0\0(
-촀\0Pero, oye,
+"120_11","(%촀\0Se nota que tienen mucho en común.\0\0(촀\0Pero, oye,
 \0 2촀élella\0 dice que no tiene
 ninguna habilidad en la que se
 destaque,
@@ -530,31 +506,26 @@ que esta pista te sea útil, n\0."
 \0 al parecer tiene
 un talento natural para (%촀\0촀.\0\0(6촀\0Háblale acerca de eso y seguro que
 rápidamente entrarán en confianza."
-"170_101","(
-촀\0Por ejemplo,
+"170_101","(촀\0Por ejemplo,
 \0 si le preguntas por
 2""susu\0sussus\0 촀 favorit2oa\0osas\0,
 \0
 (촀\0su respuesta es claran\0\0
-(촀\0¡""2\0
-촀""!,
+(촀\0¡""2\0촀""!,
 \0 te va a decir.
 \0 (%촀\0Si no me crees,
 \0 pregúntale.
 \0 ($촀\0Así rompes el hielo."
-"170_102","(
-촀\0Por ejemplo,
+"170_102","(촀\0Por ejemplo,
 \0 si le preguntas por
 su 촀 favorita,
 \0 (촀\0su respuesta es claran\0\0
-($촀\0¡""2\0
-촀""!,
+($촀\0¡""2\0촀""!,
 \0 te va a decir.
 \0 (%촀\0Si no me crees, 
 \0pregúntale.
 \0 (6촀\0Así rompes el hielo."
-"170_103","(
-촀\0A ver que pienson\0\0
+"170_103","(촀\0A ver que pienson\0\0
 \0
 (촀\0¡Ah, sí!
 \0 Pueden hablar sobre cuál
@@ -563,33 +534,28 @@ es la profesión ideal.
 \0
 su respuesta es clara:
 \0
-(촀\0""
-촀"".
+(촀\0""촀"".
 (6촀\0Charlen un poco sobre el tema y,
 \0 una
 vez que entren en confianza,
 \0 tendrás
 2,촀un nuevouna nueva\0 26촀mejor amigomejor amiga\0."
-"170_104","(
-촀\0Por ejemplo,
+"170_104","(촀\0Por ejemplo,
 \0 si le preguntas por
 sus aficiones,
 \0 sé lo que te va
 a respondern\0\0
-()촀\0""2\0
-촀"".
+()촀\0""2\0촀"".
 \0
 (촀\0Por lo visto es lo que más le gusta.
 \0 (촀\0Quizás eso te acerque, n\0."
 "170_105","(9촀\0Presta atención:
 \0 según me enteré
 dedica muchas horas de su día a esto:
-\0 ()촀\0""⁠
-촀⁠""⁠.\0\0(6촀\0Háblale sobre eso y verás cómo
+\0 ()촀\0""⁠촀⁠""⁠.\0\0(6촀\0Háblale sobre eso y verás cómo
 rápidamente entran en confianza,
 n\0."
-"180_01","(
-촀\0Me enteré, por ejemplo,
+"180_01","(촀\0Me enteré, por ejemplo,
 \0 de que
 no le gusta escuchar música.
 \0
@@ -598,14 +564,12 @@ no le gusta escuchar música.
 con 2촀élella\0,
 \0 elige un lugar tranquilo,
 n\0."
-"180_02","(
-촀\0A vern\0\0
+"180_02","(촀\0A vern\0\0
 \0 (촀\0No intentes romper el hielo
 preguntándole por su libro favorito,
 \0
 (촀\0que no le gusta leer, n\0."
-"180_03","(
-촀\0Por ejemplo,
+"180_03","(촀\0Por ejemplo,
 \0 hablar sobre cómics
 es algo que puedes descartar,
 \0
@@ -633,8 +597,7 @@ no le hables de deportes,
 \0 seguro que
 encontrarán otras cosas de qué
 hablar, n\0."
-"180_07","(
-촀\0Um,
+"180_07","(촀\0Um,
 \0 ahora lo único que se me ocurre
 decirte es que ('촀\0no tiene una bebida
 favorita.
@@ -643,8 +606,7 @@ favorita.
 bebida favorita,
 \0 (촀\0¡quizás le abras los
 ojos a un mundo de sabor!"
-"180_08","(
-촀\0Umn\0\0
+"180_08","(촀\0Umn\0\0
 \0 Lo único que se me ocurre
 decirte ahora mismo (촀\0es que no te
 molestes en invitar2촀lola\0 a cenarn\0\0
@@ -658,8 +620,7 @@ que averiguar tú mism2oa, n\0."
 "180_09","()촀\0Por ejemplo,
 \0 tengo entendido que
 no sabe a qué le gustaría dedicarse.\0\0(6촀\0Quizás puedas darle ideas, n\0."
-"180_10","(
-촀\0Una cosa curiosa de s\0촀 es que no tiene ('촀\0ningún pasatiempo, n\0.\0\0(촀\0¿Por qué no le cuentas los tuyos?
+"180_10","(촀\0Una cosa curiosa de s\0촀 es que no tiene ('촀\0ningún pasatiempo, n\0.\0\0(촀\0¿Por qué no le cuentas los tuyos?
 \0
 (촀\0Quién te dice,
 \0 quizás encuentras 2촀ununa\0

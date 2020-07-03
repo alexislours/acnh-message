@@ -49,9 +49,8 @@ amplement."
 cadeau, c'est ta présence ?
 \0(%촀\0 Tu viens
 à ma fête ?
-(!촀\0Cool, merci !(
-촀\0 Bon, j'aurais pas dit
-non à un2!촀\0e\0 petit2!촀\0e\0 촀, mais on va se contenter de ça !"
+(!촀\0Cool, merci !(촀\0 Bon, j'aurais pas dit
+non à un2""촀\0e\0 petit2""촀\0e\0 촀, mais on va se contenter de ça !"
 "010","($촀\0On ne se connaît pas, je crois ?
 \0
 (촀\0Je m'appelle n
@@ -92,8 +91,7 @@ Je porte la même chose !
 (촀\02\02\0}\0\0 de
 rechangen\0\0 Ça, c'est du cadeau !
 \0 Bien joué, n\0."
-"020","(
-촀\0Humn\0\0 ce cadeau me rappelle
+"020","(촀\0Humn\0\0 ce cadeau me rappelle
 confusément quelque chose, mais
 impossible de mettre la patte dessus.
 ( 촀\0Oh, j'y suis, n\0 !
@@ -126,8 +124,7 @@ grand sens esthétique pour m'offrir
 "027","()촀\0Doncn\0\0 à propos de ce cadeaun\0\0\0\0(9촀\0Tu sais que j'adore les clochettesn\0\0
 (촀\0Par ici, la monnaie, n\0 !
 \0
-(
-촀\0Du coup, je comprends ta démarche.
+(촀\0Du coup, je comprends ta démarche.
 Maisn\0\0('촀\0 ça ne se fait pas, entre amis.
 Je vais te les rendre, si tu veux bien.\0\0(6촀\0Achète-toi quelque chose qui te fait
 plaisir et passe me le montrer pour
@@ -135,8 +132,7 @@ me remercier, n\0 !"
 "028","(촀\0Ha HA ! 
 \0T'es un2\0e petit2\0e comique,
 dis-moi ! 
-\0(
-촀\0Attends, c'était bien
+\0(촀\0Attends, c'était bien
 une blague, pas vrai ?
 (촀\0Eh bien à mon tour de rigoler !
 \0
@@ -155,8 +151,7 @@ bon2촀\0ne\0 }\0\0 !\0\0(촀\0Merci d'avoir pensé à moi,
 "031","(촀\0Oh oh ! 
 \0(1촀\0Je rêve oun\0\0
 \0 il s'agit d'un
-plan de bricolage pour 2\0}\0\0 ?\0\0(
-촀\0Je ne vois aucun pyjama en édition
+plan de bricolage pour 2\0}\0\0 ?\0\0(촀\0Je ne vois aucun pyjama en édition
 limitée sur mon auguste torsen\0\0 je
 suis donc bien réveillé, n\0.
 (2촀\0Par contren\0\0
@@ -170,8 +165,7 @@ cadeau que je pouvais souhaiter."
 "047","(""촀\0Merci, n\0 !
 \0( (촀\0Tiens, pour remercier mes convives, j'ai préparé ce petit cadeaun\0\0\0\0(촀\0Oh, tes poches, là !
 \0 Elles sont déjà
-pleines à craquer !\0\0(
-촀\0Je vais négocier avec mon valet,
+pleines à craquer !\0\0(촀\0Je vais négocier avec mon valet,
 pour voir s'il peut le faire parvenir
 à ton domicile.
 
@@ -252,8 +246,7 @@ autour :
 \0(촀\0Tu es prêt2\0e à m'offrir ton cadeau ?"
 "062_a","(\0촁\0Et voilà !"
 "062_b","(\0촁\0Désolé2\0e..."
-"064","(
-촀\0C'est déjà l'heure, pour toi ?
+"064","(촀\0C'est déjà l'heure, pour toi ?
 \0
 (촀\0Eh bien ça m'a fait plaisir que
 tu puisses venir !

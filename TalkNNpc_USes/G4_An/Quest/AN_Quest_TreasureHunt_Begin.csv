@@ -14,8 +14,7 @@ comon\0\0 búsqueda del tesoro?
 Di que sí, anda."
 "002_a","¡Sí!"
 "002_b","Mejor paso"
-"003","(
-촀\0Si no sabes cómo quemar el tiempon\0\0
+"003","(촀\0Si no sabes cómo quemar el tiempon\0\0
 \0
 (촀\0¿se te antoja una búsqueda del
 tesoro así muy locochona?"
@@ -55,8 +54,7 @@ Enterré un tesoro en un lugar.
 \0
 Hasta aquí todo fácil, ¿no?
 ð\0
-(
-촀\0Si lo encuentras antes de que
+(촀\0Si lo encuentras antes de que
 se acabe el tiempo, 
 \0te lo puedes
 quedar. 
@@ -75,8 +73,7 @@ y al aire libre!
 \0
 Hasta aquí todo fácil, ¿verdad?
 ð\0
-(
-촀\0Si logras encontrarlo antes de que
+(촀\0Si logras encontrarlo antes de que
 se acabe el tiempo, 
 \0(!촀\0te lo puedes
 quedar.
@@ -97,8 +94,7 @@ a desenterrar el tesoro.
 \0 Tampoco iba a ponerme a
 romper el pison\0\0
 ð\0
-(
-촀\0La cosa funciona así:
+(촀\0La cosa funciona así:
 \0 Tienes que
 encontrarlo antes de que se acabe el
 tiempo,
@@ -116,8 +112,7 @@ claro.
 \0 Nadie me dio permiso de ir
 a hacer hoyos en su casan\0\0
 ð\0
-(
-촀\0La cosa funciona así: si lo encuentras
+(촀\0La cosa funciona así: si lo encuentras
 antes de que se acabe el tiempo,
 \0 (촀\0¡todo para ti! 
 \0Así de fácil.
@@ -132,8 +127,7 @@ a desenterrar el tesoro.
 ð\0
 (!촀\0¡Andando!
 x"
-"013","(
-촀\0A ver, ¿es tu primera búsqueda
+"013","(촀\0A ver, ¿es tu primera búsqueda
 del tesoro?
 \0 (&촀\0¿Necesitas que te cuente
 cómo funciona esto?"
@@ -182,8 +176,7 @@ así de la nada.
 una ostra, tú!
 \0(촀\0 Ojalá hubiera una
 pista de carreras en la isla, o algo.
-(
-촀\0Peron\0\0
+(촀\0Peron\0\0
 \0 se me ocurre algo para pasar
 el rato.
 (촀\0¿Qué te parece una búsqueda del
@@ -192,8 +185,7 @@ tesoro?
 n\0?"
 "102_a","¡Claro que me apunto!"
 "102_b","Mejor no..."
-"103","(
-촀\0Uy, ya es tardísimon\0\0
+"103","(촀\0Uy, ya es tardísimon\0\0
 \0 ¡Y yo tengo
 una fiestuqui!
 \0 (7촀\0Tendremos que dejarlo
@@ -226,8 +218,7 @@ el asunto, ¿sí?
 \0 ¡Tú te lo pierdes!
 \0
 (%촀\0Otra vez será, supongo."
-"200","(
-촀\0A ver, cómo te lo digo sin que
+"200","(촀\0A ver, cómo te lo digo sin que
 te me enojesn\0\0\0\0Verás, (7촀\0resulta que no hay ni un solo
 espacio en la isla para enterrar
 cosas,

@@ -69,8 +69,7 @@ raffreddamento.
 di qualcosa."
 "011","Strumenti? 
 \0((촀\0Ricevuto!
-\0(
-촀\0 Apro subito
+\0(촀\0 Apro subito
 il menu miglia di Nookn"
 "012","Strumenti?
 \0 (9촀\0Spiacente 2$figliolofigliola
@@ -85,8 +84,7 @@ di spazio."
 \0
 Fammi sapere se ti serve qualcosa."
 "014","(%촀\02\02\0}\0\0 costa Z(촀, 
-\0(촀\0ma temo che tu non ne abbia abbastanza.
-(촀\0Torna quando avrai fatto il pieno
+\0(촀\0ma temo che tu non ne abbia abbastanza.\0\0(촀\0Torna quando avrai fatto il pieno
 di miglia."
 "015","(%촀\02\02\0}\0\0 costa 
 \0Z(촀. (&촀\0Affare fatto?"
@@ -207,8 +205,7 @@ dei dodo.
 
 \0Giusto il tempo di raccogliere le
 informazioni.
-\0 (
-촀\0Attendere pregon"
+\0 (촀\0Attendere pregon"
 "046_0","Ecco qui: 
 \0($촀\0sapevi che puoi regalare
 propulsione ai tuoi reattori se mangi
@@ -360,17 +357,9 @@ il decollo? 
 \0Passo."
 "054_a","Sì!"
 "054_b","No, aspetta un attimo."
-"055","(9촀\0Prima di ripartire per tornare a casa,
-
-\0devo avvertirti di una cosa.\0\0()촀\0Le destinazioni del \0viaggio Primo
-maggio\0￿ cambiano ogni volta.\0\0('촀\0Se ora decolliamo da quest'isola,
-
-\0non potremo ritornarci. 
-\0(
-촀\0\0(Non che
-tu abbia altro da fare qui, mi paren\0\0)
-(&촀\0\0￿Allora, 
-\0confermi di voler tornare
-a casa?"
+"055","(9촀\0Se partiamo adesso, non potrai
+più visitare questa destinazione
+del \0viaggio Primo maggio\0￿.
+(&촀\0Sei pront2oa per il decollo?"
 "055_a","Sì!"
 "055_b","No, aspetta un attimo."

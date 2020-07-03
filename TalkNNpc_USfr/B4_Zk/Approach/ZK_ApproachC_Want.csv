@@ -54,8 +54,7 @@ j'ai l'esprit tranquille."
 (\0촁\0Dis-moi ton prix."
 "100_b","C'est pas à vendre.
 Je vends pas."
-"101","(
-촀\0Alors, humn\0\0 Je pose deux et je
+"101","(촀\0Alors, humn\0\0 Je pose deux et je
 retiens troisn\0\0 Qu'est-ce que tu
 dirais de Z?"
 "101_a","Ça me va!
@@ -101,8 +100,7 @@ ENVIEU2
 XSE, n\0!"
 "109","(촀\0T'as changé d'avis?
 \0 Vrai de vrai?"
-"110","(
-촀\0Je vais te faire une autre proposition.
+"110","(촀\0Je vais te faire une autre proposition.
 \0
 Ce que mon porte-clochettes peut
 offrir de mieuxn\0\0(&촀\0 Z?"
@@ -123,8 +121,7 @@ autre truc sur lequel faire une fixette."
 mon bonheur pendant au moins
 cinq minutes.
 \0(6촀\0 2\0n\0!"
-"114","(
-촀\0Je vais te faire une autre proposition.
+"114","(촀\0Je vais te faire une autre proposition.
 \0
 Ce que mon porte-clochettes peut
 offrir de mieuxn\0\0(&촀\0 Z?"
@@ -154,8 +151,7 @@ petitpetite\0 }\0\0?"
 (\0촁\0Combien tu donnes?"
 "200_b","Non.
 Aucune."
-"201","(
-촀\0Est-ce que tu accepterais de
+"201","(촀\0Est-ce que tu accepterais de
 t'en séparer pourn\0\0 disons
 Z?"
 "201_a","Ça marche.
@@ -176,8 +172,7 @@ de la\0 légendaire
 "205","(%촀\0Merci!
 \0 (촀\0Pour une fois que j'obtiens
 ce que je veux!"
-"300","(
-촀\0D'accord, d'accordn\0\0 Voyons ce que
+"300","(촀\0D'accord, d'accordn\0\0 Voyons ce que
 tu penses de cette généreuse
 proposition :
 \0 (촀\0Z!"
@@ -211,8 +206,7 @@ le moment! »"
 "307","(촀\0Inutile de me remercier, je devine
 le bonheur qui est le tien après
 avoir satisfait un de mes caprices."
-"400","(
-촀\0Humn\0\0 (&촀\0Z
+"400","(촀\0Humn\0\0 (&촀\0Z
 sauront-elles te convaincre?"
 "400_a","Oh oui!"
 "400_b","Pas vraiment, non."

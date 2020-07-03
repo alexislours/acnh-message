@@ -55,8 +55,7 @@ he agrees that we have a need."
 \0 Building
 materials are hard to get. So can we
 set them aside for building a shop?
-(
-촀\0I really don't see it, since we'll need
+(촀\0I really don't see it, since we'll need
 those materials for residential
 projectsn\0\0 But I have an idea.
 (%촀\0Yes, yes! You could gather up
@@ -113,31 +112,27 @@ but I can't wait!"
 "051","(촀\0Oh, you'll make a donation?
 \0( (촀\0Thank
 you so much for helping us!"
-"052_01","(
-촀\0We already received some donations,
+"052_01","(촀\0We already received some donations,
 so
 \0(촀\0 right now we need \030\0￿ pieces of
 \02\0Ѐ촃wood\0￿n\0\0 (\0촀\0(&촀\0Can I ask you for that?"
 "052_01_a","These are for you!"
 "052_01_b","Not right now..."
-"052_02","(
-촀\0We already received some donations,
+"052_02","(촀\0We already received some donations,
 so
 \0(촀\0 right now we need \030\0￿ pieces of
 \02\0Ѐ촃hardwood\0￿n\0\0 (\0촀\0
 \0(&촀\0Can you donate that?"
 "052_02_a","These are for you!"
 "052_02_b","Not right now..."
-"052_03","(
-촀\0We already received some donations,
+"052_03","(촀\0We already received some donations,
 so
 \0(촀\0 right now we need \030\0￿ pieces of
 \02\0Ѐ촃softwood\0￿n\0\0 (\0촀\0
 \0(&촀\0Can you donate that?"
 "052_03_a","These are for you!"
 "052_03_b","Not right now..."
-"052_04","(
-촀\0We already received some donations,
+"052_04","(촀\0We already received some donations,
 so
 \0(촀\0 we need \030\0￿ \02\0Ѐ촃iron nuggets\0￿n\0\0(\0촀\0
 \0(&촀\0 Can
@@ -201,16 +196,14 @@ location for the new shop!"
 \0￿wherever you like, and we'll get
 started on construction.\0\0(촀\0I'm so excited to see the location
 you pick for us!"
-"061","(
-촀\0Let's see. You brought inn\0\0
+"061","(촀\0Let's see. You brought inn\0\0
 \0(촀\0 Oh my!
 You brought in everything we need!
 All at once!\0\0(&촀\0Are you really going to provide all
 four kinds of materials right now?"
 "061_a","These are for you!"
 "061_b","Not right now..."
-"062","(
-촀\0OK, you brought inn\0\0
+"062","(촀\0OK, you brought inn\0\0
 \0(촀\0
 \0 My goodness!
 You brought in the rest of what
@@ -393,8 +386,7 @@ we need."
 at once.\0\0()촀\0Once you have \030\0￿ pieces of any of
 the materials we need, I'd appreciate
 it if you could bring them in.(촀"
-"103_01","(
-촀\0Well, some of the materials we need
+"103_01","(촀\0Well, some of the materials we need
 have already been donated, so right
 now we're looking forn"
 "103_02_01","(촀\0\030\0￿ pieces each of \02\0Ѐ촃hardwood\0￿ and

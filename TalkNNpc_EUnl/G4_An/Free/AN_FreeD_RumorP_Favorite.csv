@@ -10,14 +10,13 @@ buren.
 met mijn buren, en ik wil jou beter
 leren kennen. 
 \0Hoe vind je die?"
-"003","(
-촀\0Eens denkenn\0\0
+"003","(촀\0Eens denkenn\0\0
 \0 Wat zal ik je eens
 vragenn\0\0
 \0 (촀\0
 \0O, ik weet het al!"
 "010_01","(촀\0Yo. 
-\0Ik probeer me te herinneren wat je favoriete 촀 2 2촀waswas
+\0Ik probeer me te herinneren wat je favoriete 촀 2 3촀waswas
 warenn\0\0
 \0< ($촀\0\02\0촀\0￿, toch?"
 "010_01_a","(%촀\0Klopt nog steeds!
@@ -49,27 +48,23 @@ Jij bent een onwijze meester in
 "010_05_b","('촀\0Niet bepaald..."
 "010_101","(촀\0Yo. 
 \0Ik probeer me je favoriete 촀 te herinnerenn\0\0
-\0( ($촀\0\02\0
-촀\0￿, toch?"
+\0( ($촀\0\02\0촀\0￿, toch?"
 "010_101_a","(%촀\0Klopt nog steeds!
 (%촀\0Goed onthouden!"
 "010_101_b","('촀\0Eh, nee..."
-"010_102","()촀\0Weet je nog dat ik vroeg naar je favoriete 촀?\0\0(&촀\0Ben je nog steeds zo dol op \0
-촀\0￿?"
+"010_102","()촀\0Weet je nog dat ik vroeg naar je favoriete 촀?\0\0(&촀\0Ben je nog steeds zo dol op \0촀\0￿?"
 "010_102_a","(%촀\0Klopt nog steeds!
 (%촀\0Jazeker. Hoezo?"
 "010_102_b","('촀\0Nee, dat is niet meer zo."
 "010_103","(9촀\0Ik kan het me echt niet herinnerenn\0\0
-\0( (&촀\0Wou jij \0
-촀\0￿ worden of niet?"
+\0( (&촀\0Wou jij \0촀\0￿ worden of niet?"
 "010_103_a","(%촀\0Dat wil ik inderdaad!
 (%촀\0Dat klopt."
 "010_103_b","('촀\0Nee, niet meer..."
 "010_104","(&촀\0Hé, wat was je favoriete hobby nou?
 
 \0Zei je niet dat je helemaal weg was
-van \0
-촀\0￿?"
+van \0촀\0￿?"
 "010_104_a","(%촀\0Ja, klopt!
 (%촀\0Yep!"
 "010_104_b","('촀\0Niet echt..."
@@ -77,8 +72,7 @@ van \0
 \0
 Klopt het nou
 \0 (&촀\0dat jij een ster bent in
-\0
-촀\0￿?"
+\0촀\0￿?"
 "010_105_a","(%촀\0Echt wel!
 (%촀\0Ja, ik kan er wat van."
 "010_105_b","('촀\0Niet bepaald..."
@@ -108,16 +102,14 @@ kom ik je straks even lastigvallen,
 "011_101","(7촀\0Ik wou het alleen even checken, n\0n\0\0 
 \0((촀\0Staat genoteerd, hoor!"
 "011_102","()촀\0Ik had het namelijk met iemand over 촀, n\0.\0\0(4촀\0En ik kon me niet meer herinneren wat jij nou leuk vond. Maarn\0\0
-\0( ($촀\0\0
-촀\0￿, dus!"
+\0( ($촀\0\0촀\0￿, dus!"
 "011_103","(%촀\0Ja, dat zie ik wel gebeuren.
 \0( (촀\0Blijf
 gewoon doen wat je nu doet, dan
 kom je er wel, n\0!"
 "011_104","($촀\0Top!
 \0( ()촀\0Want ik wil misschien ook
-beginnen met \0
-촀\0￿.\0\0(촀\0Nou weet ik waar ik moet zijn voor
+beginnen met \0촀\0￿.\0\0(촀\0Nou weet ik waar ik moet zijn voor
 tips, n\0!"
 "011_105","(4촀\0Mooi. 
 \0Want, ehn\0\0
@@ -153,32 +145,27 @@ gebied van \0촀\0￿?"
 (%촀\0Ja, dat is zo!"
 "030_05_b","('촀\0Niet bepaald..."
 "030_101","(9촀\0Het gaat over 촀n\0\0
-\0 Ik hoorde namelijk dat je van \0
-촀\0￿ houdt.\0\0(&촀\0Goed of fout?"
+\0 Ik hoorde namelijk dat je van \0촀\0￿ houdt.\0\0(&촀\0Goed of fout?"
 "030_101_a","(%촀\0Goed!"
 "030_101_b","('촀\0Fout."
-"030_102","(%촀\0Ik hoorde dat jij he-le-maal verzot bent op \0
-촀\0￿. 
+"030_102","(%촀\0Ik hoorde dat jij he-le-maal verzot bent op \0촀\0￿. 
 \0((7촀\0Meer dan op ander 촀."
 "030_102_a","(%촀\0Dat klopt!
 (%촀\0Zo ben ik!"
 "030_102_b","('촀\0Klopt voor geen meter."
 "030_103","(&촀\0Oké, 
-\0is het echt je droom om \0
-촀\0￿ te worden?"
+\0is het echt je droom om \0촀\0￿ te worden?"
 "030_103_a","(%촀\0Zeker!
 (%촀\0Dat klopt!"
 "030_103_b","('촀\0Niet echt."
-"030_104","(9촀\0Je bent schijnbaar he-le-maal verzot op \0
-촀\0￿. 
+"030_104","(9촀\0Je bent schijnbaar he-le-maal verzot op \0촀\0￿. 
 \0Goed of fout?"
 "030_104_a","(%촀\0Goed!"
 "030_104_b","('촀\0Fout."
 "030_105","(%촀\0Ik wil even iets checken.
 \0( (&촀\0Klopt het
 dat jij echt een wereldster bent in
-\0
-촀\0￿?"
+\0촀\0￿?"
 "030_105_a","(%촀\0Klopt als een bus!
 (%촀\0Ja, dat is zo!"
 "030_105_b","('촀\0Niet bepaald..."
@@ -208,39 +195,32 @@ ander over \0촀\0￿.\0\0(촀\0
 \0( (촀\0Laten we een feest geven
 om iedereen te laten zien hoe goed
 we zijn in \0촀\0￿!"
-"031_101","(촀\0Wat tof dat jij ook zo gek bent op \0
-촀\0￿.
+"031_101","(촀\0Wat tof dat jij ook zo gek bent op \0촀\0￿.
 \0( (촀\0Ik ook, joh!\0\0(촀\0Dan moeten we maar vaker over 촀 praten, n\0!"
 "031_102","(6촀\0Vertel mij wat. 
 \0Er gaat niks boven
-\0
-촀\0￿.
-\0\0\0(7촀\0Iedere keer dat ik ""\0
-촀\0￿"" zeg, loopt het water me al in de mond."
+\0촀\0￿.
+\0\0\0(7촀\0Iedere keer dat ik ""\0촀\0￿"" zeg, loopt het water me al in de mond."
 "031_103","(촀\0
 \0Tof! 
-\0Ik wil ook \0
-촀\0￿ worden!\0\0(%촀\0Nou, het zal niet makkelijk zijn, maar
+\0Ik wil ook \0촀\0￿ worden!\0\0(%촀\0Nou, het zal niet makkelijk zijn, maar
 als iemand het kan,
 \0( (촀\0ben jij het, joh!"
 "031_104","(촀\0Top!
 \0 Oké, wij moeten vaker samen chillen.
-\0( (촀\0Ik ben echt gek op \0
-촀\0￿."
+\0( (촀\0Ik ben echt gek op \0촀\0￿."
 "031_105","(3촀\0Tof, joh! 
 \0Ik ben zelf ook niet slecht in
-\0
-촀\0￿, n\0.\0\0(촀\0
+\0촀\0￿, n\0.\0\0(촀\0
 \0O! 
 \0Ideetje! Laten we een feest geven.
 Dan kan iedereen zien hoe goed we
-zijn in \0
-촀\0￿!"
+zijn in \0촀\0￿!"
 "032_01","( 촀\0Toen ik klein was, was ik echt
 he-le-maal knettergek op \0촀\0￿.\0\0(촀\0Maar toen ik ouder werd, ben ik meer
 van andere soorten 촀 gaan houden, n\0.\0\0(촀\0Maar echt chill dat jij gewoon voet
 bij stuk houdt!"
-"032_02","(촀\0\02\0촀\0￿ 23촀isiszijn niks voor mij. 
+"032_02","(촀\0\02\0촀\0￿ 24촀isiszijn niks voor mij. 
 \0Doe mij maar ander 촀."
 "032_03","(촀\0Ik heb eerlijk gezegd 
 \0geen flauw idee
@@ -256,8 +236,7 @@ even flikt!"
 \0Ik ben zelf echt bagger als het op \0촀\0￿ aankomt. 
 \0((2촀\0Maar nu kan ik jou om hulp vragen!"
 "032_101","( 촀\0Toen ik klein was, was ik ook
-he-le-maal wild van \0
-촀\0￿.\0\0(9촀\0Maar toen ik ouder werd, ben ik
+he-le-maal wild van \0촀\0￿.\0\0(9촀\0Maar toen ik ouder werd, ben ik
 andere soorten 촀 meer gaan waarderen.\0\0(촀\0Maar wel gaaf dat jij gewoon voet bij
 stuk houdt, n\0!"
 "032_102","(촀\0Niks voor mij, joh. 
@@ -265,21 +244,18 @@ stuk houdt, n\0!"
 anders, n\0."
 "032_103","(촀\0Ik zal eerlijk zijn, 
 \0ik heb geen flauw
-idee hoe het is om \0
-촀\0￿ te zijn.\0\0(7촀\0Maar als dat je droom is, 
+idee hoe het is om \0촀\0￿ te zijn.\0\0(7촀\0Maar als dat je droom is, 
 \0dan is dat
 je droom. 
 \0Ik weet zeker
 \0( (촀\0dat jij dat
 wel even flikt!"
 "032_104","(촀\0Oké, ik weet echt drie keer niks over
-\0
-촀\0￿n\0\0
+\0촀\0￿n\0\0
 \0( maar boeien!\0\0(촀\0Ik vind het nog steeds een best toffe
 keuze, n\0."
 "032_105","(촀\0Tof, joh! 
-\0Ja, ik ben zelf echt een prutser op het gebied van \0
-촀\0￿.\0\0(2촀\0Nou, ik geef wel een gil als ik er ooit
+\0Ja, ik ben zelf echt een prutser op het gebied van \0촀\0￿.\0\0(2촀\0Nou, ik geef wel een gil als ik er ooit
 hulp mee nodig heb, n\0!"
 "040_01","(9촀\0Oké, even serieus.
 \0( (&촀\0Luister je echt
@@ -376,8 +352,7 @@ ik dat dan dacht. 
 \0Heb ik het soms uit
 mijn duim gezogen? 
 \0Wie weetn"
-"051","(%촀\0Dus \0
-촀\0￿, zeg je?"
+"051","(%촀\0Dus \0촀\0￿, zeg je?"
 "051_a","(%촀\0Ja!"
 "051_b","('촀\0Dat klopt niet.
 ('촀\0Nee."
@@ -410,29 +385,24 @@ eerder ook al?\0\0(촀\0Lekker belangrijkn\0\0
 \0 (촀\0Jij bent gewoon keigoed in \0촀\0￿, joh!"
 "060_101","( 촀\0Wachtn\0\0
 \0 Dat zei je eerder toch ook?\0\0('촀\0Boeit eigenlijk ook niet, john\0\0
-\0 (촀\0Jij vindt \0
-촀\0￿ tof, dat is duidelijk!"
+\0 (촀\0Jij vindt \0촀\0￿ tof, dat is duidelijk!"
 "060_102","( 촀\0Wacht evenn\0\0
 \0 Is dat niet precies wat je eerder al had gezegd?\0\0('촀\0Maakt eigenlijk ook niet uit, john\0\0
-\0 (촀\0Jij houdt gewoon van \0
-촀\0￿!"
+\0 (촀\0Jij houdt gewoon van \0촀\0￿!"
 "060_103","( 촀\0Ho evenn\0\0
 \0 Zei je eerder niet precies
 hetzelfde?\0\0('촀\0Doet er eigenlijk ook niet toe, john\0\0
-\0 (촀\0Jij wilt \0
-촀\0￿ worden. 
+\0 (촀\0Jij wilt \0촀\0￿ worden. 
 \0Dat is duidelijk!"
 "060_104","( 촀\0Ho evenn\0\0
 \0 Is dat niet precies wat je
 eerder al zei?\0\0('촀\0Boeit ook eigenlijk voor geen metern\0\0
-\0 (촀\0Jij houdt gewoon van \0
-촀\0￿, joh!"
+\0 (촀\0Jij houdt gewoon van \0촀\0￿, joh!"
 "060_105","( 촀\0Ehn\0\0
 \0 Laat mijn geheugen me weer
 eens in de steek of zei je dat nou
 eerder ook al?\0\0(촀\0Lekker belangrijkn\0\0
-\0 (촀\0Jij bent gewoon keigoed in \0
-촀\0￿, joh!"
+\0 (촀\0Jij bent gewoon keigoed in \0촀\0￿, joh!"
 "061","( 촀\0Nee? 
 \0Echt niet?
 \0( ('촀\0Geen probleem.
@@ -793,8 +763,7 @@ vijf minuten klaar!"
 \0muzikant! 
 \0Ja, ik zie jou wel op
 een podium voor een uitzinnige
-menigte. Maar wat doe je precies?\0\0(
-촀\0Laat je je gitaar janken, 
+menigte. Maar wat doe je precies?\0\0(촀\0Laat je je gitaar janken, 
 \0sla je de
 drums aan gort, 
 \0speel je de eerste
@@ -875,8 +844,7 @@ is thuis gewoon niet hetzelfde."
 \0Van kookprogramma's kan ik
 echt smullen.
 \0 Soms doe ik zelfs mee
-tijdens het kijken, n\0.\0\0(
-촀\0Die programma's zijn alleen zo kort.
+tijdens het kijken, n\0.\0\0(촀\0Die programma's zijn alleen zo kort.
 Dus als iets lang in de oven moet,
 \0
 knal ik de temperatuur omhoog.\0\0()촀\0Maar goed, ik ben inmiddels heel
@@ -923,8 +891,7 @@ ik nog steeds mijn groenten opeten.\0\0(%촀\0Achteraf had hij gelijk natuur
 voor me.\0\0()촀\0En wat voor sport dan?
 \0 Je bent vast
 een kei in 촀. 
-\0Of ben je meer een type voor 촁?\0\0(
-촀\0Of wacht, allebei tegelijk!
+\0Of ben je meer een type voor 촁?\0\0(촀\0Of wacht, allebei tegelijk!
 \0< (촀\0Tuurlijk,
 een echte topsporter draait daar 2zijnhaar
 hand niet voor om!"
@@ -1032,22 +999,18 @@ kijken 
 ervan bewust geworden hoeveel we
 in wezen allemaal op elkaar lijken."
 "105_11","(촀\0O, goed om te weten!
-\0( ()촀\0Nu kan ik jou lastigvallen als mijn 2촃촀 weer eens 2:!촀stukgaatstukgaatstukgaan."
-"106_01","(
-촀\0Ja, je leek me wel het type voor \0
-촀\0￿.\0\0()촀\0Oké,
+\0( ()촀\0Nu kan ik jou lastigvallen als mijn 2촃촀 weer eens 2:""촀stukgaatstukgaatstukgaan."
+"106_01","(촀\0Ja, je leek me wel het type voor \0촀\0￿.\0\0()촀\0Oké,
 \0 laat me er de volgende keer
 maar wat van horen, dan.
 \0( (촀\0Oké?"
 "106_02","( 촀\0Zoiets heb ik volgens mij heb ik nog
-nooit gelezen.\0\0(
-촀\0Hmmn\0\0
+nooit gelezen.\0\0(촀\0Hmmn\0\0
 \0 Ik vraag me af of ik dat hier
 kan kopen.
 \0 Ik ben op zoek naar iets
 nieuws, dus de timing is top."
-"106_03","(%촀\0Dat genre wil ik al een tijdje lezen.\0\0(
-촀\0Hmmn\0\0
+"106_03","(%촀\0Dat genre wil ik al een tijdje lezen.\0\0(촀\0Hmmn\0\0
 \0 Waar zal ik dan mee beginnen
 of kies ik gewoon blind wat?
 \0 (촀\0Ha! 
@@ -1060,16 +1023,13 @@ wat van gezien.\0\0(9촀\0Maar dat is nu al een tijd geleden.
 vraag je binnenkort wel om een paar
 aanraders."
 "106_05","( 촀\0Echt?
-\0( (6촀\0Wauw, ik keek vroeger niks anders dan \0
-촀\0￿!"
+\0( (6촀\0Wauw, ik keek vroeger niks anders dan \0촀\0￿!"
 "106_06","Cool, (2촀\0denk ik! 
-\0Eerlijk gezegd weet ik he-le-maal niks van \0
-촀\0￿.\0\0(8촀\0Ik zapte er laatst voorbij op tv, 
+\0Eerlijk gezegd weet ik he-le-maal niks van \0촀\0￿.\0\0(8촀\0Ik zapte er laatst voorbij op tv, 
 \0maar
 ik had geen flauw idee waar ik nou
 naar keek!"
-"106_07","(
-촀\0Ik heb zoiets vast ooit gedronken.
+"106_07","(촀\0Ik heb zoiets vast ooit gedronken.
 \0
 Maar het is me niet echt bijgebleven.
 \0
@@ -1088,8 +1048,7 @@ of het ook iets voor mij zou zijn."
 "106_11","(촀\0Indrukwekkend! 
 \0Ik had niet verwacht
 dat iemand hier goed zou zijn in
-\0
-촀\0￿!\0\0(&촀\0Moest je je daarvoor 
+\0촀\0￿!\0\0(&촀\0Moest je je daarvoor 
 \0jarenlang op
 een geheime plek aan een
 superzware training onderwerpen?"
@@ -1102,8 +1061,7 @@ stilte kan ook best tof zijnn\0\0
 "107_02","()촀\0Echt?
 \0 Ik bedoel, dat is prima, maarn\0\0
 er zijn vast bendes dingen die je
-leest zonder dat je het doorhebt.\0\0(
-촀\0Bijvoorbeeld 
+leest zonder dat je het doorhebt.\0\0(촀\0Bijvoorbeeld 
 \0websites, 
 \0brieven,
 \0 films
@@ -1166,8 +1124,7 @@ ook wordt!"
 "107_10","(%촀\0Daar kan ik inkomen. 
 \0Soms is het
 lastig om iets te vinden wat je wilt
-blijven doen.\0\0(
-촀\0Soms probeer ik een poosje wat uitn\0\0
+blijven doen.\0\0(촀\0Soms probeer ik een poosje wat uitn\0\0
 \0
 maar vaak geef ik het ook weer op."
 "107_11","('촀\0Wat een onzin! 

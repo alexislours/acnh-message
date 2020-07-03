@@ -112,8 +112,7 @@ opuimen, als je dat wilt.
 "038_b","Ik hou het wel bij me."
 "041","(촂\0(촃\0Wat heb je vandaag toch prachtige
 dingen meegebracht!
-\0( (
-촂\0(1촃\0Eens even
+\0( (촂\0(1촃\0Eens even
 rekenenn"
 "041_01","Moet je al die prachtige dingen zien!
 \0
@@ -125,8 +124,7 @@ rekenenn"
 Eens even rekenenn"
 "041_02","(촂\0(촃\0Wat een boel moois heb je daar!
 \0(
-(
-촂\0(1촃\0Momentjen\0\0
+(촂\0(1촃\0Momentjen\0\0
 \0 We tellen het even
 allemaal bij elkaar opn\0\0\0\0n\0\0zonder te vergeten dat de
 dagtoppers \0dubbel \0￿tellen,
@@ -153,8 +151,7 @@ opgeteldn"
 "044_02","(촂\0
 \0(촃\0Begrepen!d\0 
 \0\0KMooi zo!\0dd
-\0( (
-촂\0(1촃\0We tellen het even
+\0( (촂\0(1촃\0We tellen het even
 allemaal bij elkaarn\0\0 De dagtoppers
 tellen \0dubbel\0￿, natuurlijkn"
 "045","(촂\0(촃\0En klaar!\0\0(\0촂\0Helaas kunnen we je niet voor alles
@@ -399,9 +396,40 @@ dus sla je slag!d\0
 "131","(%촃\0Van 2\02촃}\0\0 kun je er meerdere tegelijk kopen.
 \0(&촂\0 Hoeveel mogen het er zijn?"
 "131_a","1 (\0 Z\0\0￿)"
-"131_b","5 (\0 Z
-\0￿)"
+"131_b","5 (\0 Z\0￿)"
 "131_c","Ik heb me bedacht."
+"141_01","( 촂\0( 촃\0Aha! 
+\0Ben je van plan je in het water
+te begeven?\0\0(%촂\0(\0촃\0Ja, jan\0\0 Wie wil zwemmen of duiken, kan 2\0}\0\0 zoals 2 촀dezeditdeze goed gebruiken!\0\0(촂\0(촃\0Voordat je naar het strand gaat,
+geven we je graag nog een paar
+zwemtips!d\0
+\0 \0KVeiligheid voorop!\0dd"
+"141_02","()촂\0Alleerst moet je een geschikt \0duikpak\0￿ hebben (%촃\0zoals 2 촀dezeditdeze 2촃}\0\0 hier.\0\0(촂\0(촃\0Dan kies je op het strand of op de
+rotsen een mooi plekje om het water
+in te duiken door op \0\0￿ te drukken!\0\0()촂\0(\0촃\0Om lekker een paar baantjes te
+trekken hoef je enkel op \0 \0￿te
+blijven drukken.\0\0(촂\0O, ja!
+\0 En als je een schaduw ziet,
+\0 kun
+(촃\0je op \0 \0￿drukken om ernaartoe te
+duiken en op onderzoek uit te gaan.
+(촀\0(촃\0Je weet nooit wat voor \0diepzee-
+wezens \0￿je in de diepte opwachten!
+
+\0Misschien kun je er wel een vangenn"
+"142","Meer
+\0(촂\0 hoef je denk ik niet te weten!
+d\0
+\0\0KDat is alles!\0dd\0\0(\0촂\0(\0촃\0Maar ter zake! 
+\0(&촂\0(&촃\0Wil je 2 촀dezeditdeze 2촃}\0\0 kopen voor Z\0?"
+"142_a","(%촀\0Koop ik!"
+"142_b","Leg dat nog eens uit!"
+"142_c","('촀\0Nee, toch maar niet..."
+"143","(촂\0(촃\0Natuurlijk!
+\0 Bij het zwemmen in de
+zee moet je rekening houden met
+het volgenden\0\0d\0
+\0 \0KNiet onbelangrijk!\0dd"
 "200","(촂\0(촃\0Dank je wel!d\0
 \0 \0KBedankt!\0dd(촂\0(촃\0
 Z"

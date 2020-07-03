@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","(촀\0Ernsthaft,
 \0 2 KleinerKleines?
-\0 (
-촀\0Ich meinen\0\0
+\0 (촀\0Ich meinen\0\0
 \0
 Klar, 
 \0warum nichtn\0\0\0\0(%촀\0Also,
@@ -34,8 +33,7 @@ grünes Licht gibt,
 "101","<"
 "101_01","(촀\0Im Ernst, 
 \02 KleinerKleines?
-\0((\0촀\0(
-촀\0 Ist gar kein so
+\0((\0촀\0(촀\0 Ist gar kein so
 übler Gedanke, 
 \0mein Hinterteil hier
 niederzulassenn\0\0
@@ -65,8 +63,7 @@ leid, 
 \0aber da kann ich nicht weg!"
 "201_01","(촀\0Meinst du das ernst, 
 \02 KleinerKleines?!
-\0((
-촀\0
+\0((촀\0
 Hmmn\0\0 Grundsätzlich abgeneigt wär
 ich ja nicht, 
 \0aaabern\0\0
@@ -87,8 +84,7 @@ entscheidet, 
 \0heut noch
 'ne lebenswichtige Entscheidung
 zu treffen!
-\0(7촀\0 Lass mal überlegenn\0\0\0\0(
-촀\0Umziehen hat noch keinem
+\0(7촀\0 Lass mal überlegenn\0\0\0\0(촀\0Umziehen hat noch keinem
 geschadet,
 \0 aber...
 \0(촀\0 Hah,
@@ -142,11 +138,11 @@ Hmpf,
 
 \0n\0!"
 "203_01","(촀\0Das sagen sie alle!
-\0 Aber mein olles
-Kartenspiel hat seine eigene Regel!
-
-\0((\0촀\0Ich zieh 'ne Karte und dun\0\0
-\0 rätst!"
+\0 Also schön,
+\0
+dann lass mich mal eben mein
+Kartenspiel zücken, 
+\0n\0."
 "204","<"
 "204_01","(촀\0Pah, 
 \02@촀ein altereine alteein altes n\0 findet eben auch mal ein Korn, 
@@ -243,8 +239,7 @@ sein!
 \0 Ob ich einen Agenten brauche?
 \0
 (촀\0Bwa ha ha, 
-\0nur ein Scherz.\0\0(
-촀\0Aber lass uns die Sache doch mit
+\0nur ein Scherz.\0\0(촀\0Aber lass uns die Sache doch mit
 einem Spielchen entscheiden.
 \0 Wenn
 du gewinnst, ziehe ich um. 
@@ -297,8 +292,7 @@ Platz für neue Hütten, 
 \0 ich zieh bestimmt nicht wieder
 an den Strand!
 \0(촀\0 Ständig hat man den
-ganzen Sand in der Kauleiste!\0\0(
-촀\0Hmmm, 
+ganzen Sand in der Kauleiste!\0\0(촀\0Hmmm, 
 \0aber wenn sich jemand von
 hier verkrümeln würde,
 \0 dann könnte
@@ -361,6 +355,25 @@ gleich ganz gediegen vorstellen,
 \0(촀\0 und du schimpfst dich n\0, oder?
 \0( ($촀\0Alles klärchen, 
 \0bis demnächst!"
+"309_01","Tja.
+\0 (촀\0Offenbar ist s촀 schon weggezogen.
+\0 Ein Gespräch weniger,
+\0 das ich führen muss.(촀\0\0\0Dann zieh ich mal dort hin.
+\0( ( 촀\0Ah!
+\0 Hatte
+ich mich schon vorgestellt?
+\0 Falls
+nicht:
+\0 (""촀\0n
+\0,
+\0 der Name.\0\0(9촀\0Und du warstn\0\0
+\0 n\0,
+\0 richtig?
+\0 Das hab ich jetzt hoffentlich korrekt ausgesprochenn\0\0\0\0(촀\0Also dann.
+\0 Wir kommen bestimmt gut
+miteinander aus!
+\0 (9촀\0n\0\0Solange du mir
+nie meinen Rasen zertrampelst."
 "310","( 촀\0He,
 \0 was ist los?
 \0((촀\0 Herrscht bei dir
@@ -408,8 +421,7 @@ und da haben die mir weisgemachtn\0\0
 Insel schon voll ist und untergeht,
 \0
 sobald ich mich hier niederlasse.
-(
-촀\0Hmpfn\0\0
+(촀\0Hmpfn\0\0
 \0 Kann man Inseln versenken?
 \0
 (촀\0Falls ja,
@@ -453,8 +465,7 @@ Zeit für 'ne amtliche Vorstellung!
 (5촀\0Dann können wir uns ja ab jetzt mit
 Vornamen beschimpfen, 
 \0(촀\0gra ha ha!"
-"410","(
-촀\0Oder weißt du, 
+"410","(촀\0Oder weißt du, 
 \0was?
 \0 Ich geh einfach
 noch mal auf die Pirsch!
@@ -476,8 +487,7 @@ keinen Platz mehr für mich gibt...\0\0(촀\0Na ja, 
 Gentleman wenigstens eingeladenn\0\0
 \0
 Jetzt aber erst mal adieu mit tschö!"
-"424","(
-촀\0Kein Fleckchen für neue Hütten
+"424","(촀\0Kein Fleckchen für neue Hütten
 mehr zu kaufen auf eurer Inseln\0\0
 \0
 Wo gibt's denn so was?\0\0(촀\0Bei euch scheint wirklich der Bär zu
@@ -499,8 +509,7 @@ das wär genau die richtige Geste,
 n\0."
 "504_a","Nur zu, zieh her!"
 "504_b","So toll ist's hier nicht."
-"505","(
-촀\0Hmpfn\0\0
+"505","(촀\0Hmpfn\0\0
 \0 Ist kein übler Gedanke,
 \0
 aber da,
@@ -533,8 +542,7 @@ nicht wollen,
 \0Du brichst mir noch mein
 altes, verknöchertes Herz,
 
-\0n\0!\0\0(
-촀\0Hmmn\0\0 Wenn ihr halt so über mich
+\0n\0!\0\0(촀\0Hmmn\0\0 Wenn ihr halt so über mich
 denkt,
 \0(%촀\0 dann werd ich mir das Ganze
 noch mal überlegen.\0\0(:촀\0Gut,

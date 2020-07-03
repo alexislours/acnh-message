@@ -43,6 +43,11 @@ Cosa faccio?"
 
 Peccato,
 \0 devo liberarmene subito."
+"008","Purtroppo non ho più spazio!
+\0
+
+Peccato,
+\0 devo liberarmene subito."
 "011","Non ho più spazio nelle mie tasche.
 Se lo raccolgo, 
 \0non saprei dove
@@ -183,7 +188,8 @@ calligrafia è quasi illeggibile e l'unica
 parola chiara sembran\0\0
 \0 ""tostissima""?"
 "110_17","Questo sacchetto è colmo di roba
-dall'odore stucchevolmente zuccheroson\0\0
+dall'odore stucchevolmente
+zuccheroson\0\0
 \0 ma anche delizioso."
 "110_18","Un sacchetto molto semplicen\0\0
 \0(
@@ -337,21 +343,17 @@ acquisti dove e quando voglio!"
 \0}\0\0\0￿n"
 "290_03","Oh, no!
 \0 E con questo 26촀il mio carola mia cara\0 \0}\0\0 \0￿è 2.촀diventatodiventata\0 inutilizzabile!"
-"505","(
-촀\0Potrei riutilizzare questo copertonen\0\0
+"505","(촀\0Potrei riutilizzare questo copertonen\0\0
 \0
 (촀\0Ho un'idea per uno schema fai da te!"
-"506","(
-촀\0Potrei riutilizzare questa lattina
+"506","(촀\0Potrei riutilizzare questa lattina
 vuotan\0\0
 \0 (촀\0Ho un'idea per uno schema
 fai da te!"
-"507","(
-촀\0Potrei riutilizzare questo scarponen\0\0
+"507","(촀\0Potrei riutilizzare questo scarponen\0\0
 \0
 (촀\0Ho un'idea per uno schema fai da te!"
-"508","(
-촀\0Potrei utilizzare questa vongola
+"508","(촀\0Potrei utilizzare questa vongola
 filippina come escan\0\0
 \0 (촀\0Ho un'idea
 per uno schema fai da te!"
@@ -361,8 +363,7 @@ per uno schema fai da te!"
 "509_01","Fantastico!
 \0 Ora so come realizzare
 2\0}\0\0!"
-"511","(
-촀\0Mmmh, 
+"511","(촀\0Mmmh, 
 \0allora è così che funzionan\0\0
 \0
 (촀\0Uau, 
@@ -371,25 +372,21 @@ fai da te per creare una \0trappola\0￿!"
 "512","(촀\0Ah!
 \0 Ho appena messo a punto uno
 schema per realizzare un'\0ascia d'oro\0￿!"
-"513","(
-촀\0Se trovassi un altro scarpone potrei
+"513","(촀\0Se trovassi un altro scarpone potrei
 indossarlin\0\0
 \0 (촀\0Oh, 
 \0mi è appena venuta
 un'idea per uno schema fai da te!"
-"514","(
-촀\0Certo che ho pescato un bel po' di
+"514","(촀\0Certo che ho pescato un bel po' di
 spazzaturan\0\0
 \0 (촀\0Però mi ha dato una
 bella idea per uno schema fai da te!"
-"515","(
-촀\0Se facessi buon uso del motivo su
+"515","(촀\0Se facessi buon uso del motivo su
 quest'uovon\0\0
 \0 (촀\0Oh, 
 \0mi è appena venuta
 un'idea per degli schemi fai da te!"
-"518","(
-촀\0Se metto insieme tutti gli schemi
+"518","(촀\0Se metto insieme tutti gli schemi
 fai da te con i gusci d'uovo che
 conoscon\0\0
 (촀\0Oh, me n'è venuto in mente uno

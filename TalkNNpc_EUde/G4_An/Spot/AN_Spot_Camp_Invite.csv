@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","(&촀\0Dein Ernst?
 \0 Du führst mich auch
-sicher nich' an der Nase rum?\0\0(
-촀\0Und viel wichtiger... 
+sicher nich' an der Nase rum?\0\0(촀\0Und viel wichtiger... 
 \0Hab ich
 überhaupt noch Bock herzuziehen?
 \0
@@ -36,8 +35,7 @@ vorbei und klär die Sache. 
 "101_01","(&촀\0Hö? 
 \0Dein Ernst? 
 \0Du führst mich
-auch nich' an der Nase rum?\0\0(
-촀\0Hmm... 
+auch nich' an der Nase rum?\0\0(촀\0Hmm... 
 \0Bin ich mental echt bereit
 hierherzuziehn?
 \0 ('촀\0Nope,
@@ -101,8 +99,7 @@ Umzugsstress. 
 "201_02","(&촀\0„Nix wie her?“ 
 \0Du willst, dass ich
 herziehe?
-\0( (
-촀\0Ganz schönn\0\0
+\0( (촀\0Ganz schönn\0\0
 \0 verlockend!
 \0
 Aber ich weiß nich' so recht.(촀\0
@@ -162,8 +159,7 @@ auch abgeblasen, 
 geht's genug ab wie Schnitzel..."
 "203_01","(촀\0So gefällt mir das!
 \0(
-Jetzt muss ich nur noch knallhart
-ein paar Karten aufmischenn"
+Dann lass uns mal loslegen!"
 "204","<"
 "204_01","Gahaha! 
 \0Der Sieg geht an mich.
@@ -334,8 +330,7 @@ wer nich' gackert,
 \0Die vom \0Service-
 center\0￿ haben mir schon gezwitschert,
 bei wem ich mal nachhaken könnte...
-(
-촀\0Welches Glücksblümchen wohl meine
+(촀\0Welches Glücksblümchen wohl meine
 Hütte abstauben wird, 
 \0n\0?"
 "305","(&촀\0Ich soll also s촀 nerven, 
@@ -373,6 +368,25 @@ alten Bude wohnen wollen? 
 \0 2\0n\0,
 \0 oder? 
 \0Hab's Vorstellen voll verrafft!"
+"309_01","(촀\0Gah... 
+\0Jetzt bin ich extra bei s촀 vorbeigelatscht, 
+\0aber die Nase war schon weg.\0\0(%촀\0Hat auch 2 촀seinen
+ihren\0 ganzen Kram und
+Krempel gleich mitgenommen. 
+\0(5촀\0Tja,
+\0
+läuft bei mir!
+Dann werd ich ma' gleich dort
+hinziehn (촀\0und nachm Auspacken die
+Insel 'n bisschen aufmischen.
+()촀\0Bin übrigens die n
+\0,
+\0 falls ich's noch nich' erwähnt hab.
+\0 Und du bist...
+\0 n\0?\0\0(촀\0Fetziger Name! 
+\0Also dann,
+n\0, 
+\0man läuft sich bestimmt ma' übern Weg."
 "310","(4촀\0Machste 'nen total butterblumigen
 Rückziehern\0\0
 \0 oder kannste dich
@@ -470,8 +484,7 @@ dun\0\0
 \0 (촀\02\0n\0? Ja, cool.
 \0
 Bis die Tage dann!"
-"410","(
-촀\0Vielleicht hab ich den Typen vom
+"410","(촀\0Vielleicht hab ich den Typen vom
 \0Servicecenter \0￿missverstanden. 
 \0Der
 wollte nich' aufhören zu schnattern...

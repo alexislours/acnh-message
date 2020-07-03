@@ -7,16 +7,14 @@ package to s촀!"
 \0( Hey!
 It's real cool you helped
 me with s촀. Thanks!"
-"003","(
-촀\0It's been a long time since
+"003","(촀\0It's been a long time since
 I borrowed it.
 \0 Did s촀
 say, um, say anything?
 \0<(\0촀"
 "003_a","Oh yeah..."
 "003_b","I forgot."
-"004","(
-촀\0It's been a while since I borrowed
+"004","(촀\0It's been a while since I borrowed
 it.
 \0 Was s촀, like,
 real mad?"
@@ -190,16 +188,13 @@ package to s촀?"
 \0P(\0촀"
 "302_a","Uhh..."
 "302_b","I forget."
-"303","(촀\0How'd it go?
-\0(
-Did s촀 like my gift?
+"303","(촀\0How'd it go?\0\0Did s촀 like my gift?
 \0P(\0촀"
 "303_a","(\0촀\0Actually..."
 "303_b","I forget."
 "304","(촀\0Youn\0\0don't remember?
 \0( (촀\0Oh man!
-(
-촀\0I wanted to hear what
+(촀\0I wanted to hear what
 s촀 thought!\0\0(%촀\0Guess I'll have to ask
 myself, n\0!"
 "305","(촀\0You opened it?
@@ -222,8 +217,7 @@ bunch! (촀\0
 hate it.
 \0( (\0촀\0Thanks for doing the
 delivery thing, n\0."
-"309","(
-촀\02촀HeShe\0 didn't try it on?
+"309","(촀\02촀HeShe\0 didn't try it on?
 \0( Strange.
 \0(
 I thought 2촀he'd

@@ -73,7 +73,8 @@ And I have something for you."
 \0 Wow!"
 "040","(4촀\0What do you have there?"
 "041","(촀\0Are you teasing me right now?"
-"043","($촀\0How'd you know I lost something?"
+"043","($촀\0Maybe? 
+\0What is it?"
 "044","($촀\0Ooh,
 \0 can you show me?"
 "045","(&촀\0Oh,
@@ -82,8 +83,7 @@ And I have something for you."
 "048","(8촀\0I still can't remember where I set
 down my bag after shopping
 \0n\0\0
-(
-촀\0Could it be outside somewhere?"
+(촀\0Could it be outside somewhere?"
 "049","(4촀\0Still looking for that bag I lost
 when I was out and aboutn\0\0
 \0\0\0(촀\0Something I really need was inside it!"
@@ -107,8 +107,7 @@ could belong to s촀
 (\0촀\0to s촀,
 \0 n\0."
 "055","( 촀\0Oh
-\0n\0\0 ('촀\0This doesn't belong to me.\0\0(
-촀\0Come to think of it,
+\0n\0\0 ('촀\0This doesn't belong to me.\0\0(촀\0Come to think of it,
 \0 (\0촀\0I did hear
 s촀 was looking for a
 lost item,

@@ -2,8 +2,7 @@
 "002","(&촀\0Huh? 
 \0Serieus? 
 \0Je neemt me niet in
-de maling of zo?\0\0(
-촀\0En veel belangrijkern\0\0 
+de maling of zo?\0\0(촀\0En veel belangrijkern\0\0 
 \0was ik serieus
 toen ik zei dat ik hier wilde wonen?
 \0
@@ -20,8 +19,7 @@ voordat ik hier echt kan wonen.\0\0(촀\0Nog even wachten, n\0!"
 "101_01","(&촀\0Huh? 
 \0Serieus? 
 \0Je neemt me niet in
-de maling of zo?\0\0(
-촀\0En veel belangrijkern\0\0 
+de maling of zo?\0\0(촀\0En veel belangrijkern\0\0 
 \0was ik serieus
 toen ik zei dat ik hier wilde wonen?
 \0
@@ -68,8 +66,7 @@ te doen.\0\0()촀\0Als jij wint, kom ik hier wonen.
 "201_02","(&촀\0Hier wonen? 
 \0Echt verhuizen met
 inboedel en al, bedoel je?
-\0( (
-촀\0Joh! 
+\0( (촀\0Joh! 
 \0Dat is
 aanlokkelijkn\0\0(\0촀\0
 \0 Maar ik weet het nietn\0\0(촀\0\0\0Verhuizen is gewoon zo'n gedoe,
@@ -118,9 +115,7 @@ Maar ik begrijp het weln\0\0
 \0( (4촀\0Sommige
 dingen moet je niet forceren."
 "203_01","(촀\0Tof, joh! 
-\0Goed, dit wordt een eitje.
-\0(
-Ik zal de kaarten even schuddenn"
+\0Laten we beginnen!"
 "204","<"
 "204_01","(7촀\0Ik win deze ronde.
 \0 Zo gaat dat nou
@@ -165,8 +160,7 @@ daarom naar jou! 
 "206_02","(%촀\0Jij hebt gewonnen 
 \0en ik ben er niet
 rouwig om.
-\0( (촀\0n	\0 is de bom, woehoe!\0\0(
-촀\0Hmn\0\0
+\0( (촀\0n	\0 is de bom, woehoe!\0\0(촀\0Hmn\0\0
 \0 Er is vast een hele papierberg
 die ik moet tekenen, 
 \0dus ik ga maar
@@ -175,8 +169,7 @@ snel naar de \0servicebalie\0￿n\0\0\0\0($촀\0Check je later, n\
 \0 n	\0 heeft zojuist zijn eigenste n
 \0 gekregen.\0\0(3촀\0Hopelijk was je niet al te gehecht aan
 je rust, 
-\0
-want daar komt nu een einde
+\0want daar komt nu een einde
 aan!
 \0( (촀\0Haaa-haha!\0\0( 촀\0Wacht! 
 \0Dit soort dingen moeten
@@ -283,6 +276,21 @@ stulpje wonen? 
 \0( (촀\0Haaa-haha! 
 \0Totaal vergeten me voor te stellen.\0\0(%촀\0En jij bentn\0\0 n\0!
 \0 Cool, joh.\0\0(촀\0Ik hoop dat n	\0 klaar is voor mij, n\0!"
+"309_01","(촀\0Ik wilde dus even bij s촀 aanwaaien, 
+\0maar die bleek 'm dus al gesmeerd te zijn.\0\0(%촀\02촀HijZe\0 heeft ook al 2촀zijnhaar\0 zooi
+meegenomen. 
+\0(촀\0Dus dat komt
+hartstikke goed uit, joh!\0\0( 촀\0O! 
+\0Heb ik me wel voorgesteld?
+\0( (""촀\0
+n
+\0 is de naam. 
+\0En jij bentn\0\0 n\0. 
+\0Top!\0\0(\0촀\0Nou, 
+\0goedn\0\0
+\0 (촀\0dan zien we elkaar wel
+weer, buur2man
+vrouw n\0!"
 "310","(4촀\0Ben je aan het terugkrabbelen?
 \0 Of
 heb je gewoon moeite iemand te
@@ -355,8 +363,7 @@ zin
 2$buurmanbuurvrouw?
 \0( (촀\0Haaa-haha! Dit wordt
 he-le-maal tof!"
-"410","(
-촀\0Weet je?
+"410","(촀\0Weet je?
 \0 Misschien belde ik gewoon
 op een raar moment en praatten we
 langs elkaar heen.
@@ -392,8 +399,7 @@ reuzeaardig, joh."
 "505","( 촀\0Hier komen wonen, 
 \0bedoel je? 
 \0Zo zo,
-jij bent niet van half werk, zie ik!\0\0(
-촀\0Wel verleidelijk.
+jij bent niet van half werk, zie ik!\0\0(촀\0Wel verleidelijk.
 \0 Maar verhuizen is zo
 gruwelijk vervelend.
 \0 Hmmn\0\0 Wat is
@@ -408,8 +414,7 @@ zo'n inspirerende plek.\0\0(촀\0
 \0Weet je 
 \0wie het hier he-le-maal tof
 zou vinden, n\0?
-\0 De drummer van mijn oude band.\0\0(
-촀\0Hmmn\0\0
+\0 De drummer van mijn oude band.\0\0(촀\0Hmmn\0\0
 \0 Ik heb al een tijdje niet meer
 van hem gehoord.
 \0 Wat zou hij aan

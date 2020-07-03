@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","( 촀\0Wauw! 
 \0Meen je dat?
-\0( (
-촀\0Hier wonen zou
+\0( (촀\0Hier wonen zou
 echt wonderen doen voor mijn
 conditien\0\0\0\0(촀\0Oké, afgesproken!
 \0( (%촀\0Ik zal de
@@ -96,11 +95,8 @@ vandaag, n\0n"
 \0( (촀\0Eerlijk gezegd weet ik
 niet of ik zelf voorbereid ben om mijn
 eigen buurman te zijn, n\0."
-"203_01","(촀\0Dan gaan we een kaartspelletje doen!\0\0()촀\0Het is heel simpel. 
-\0Ik trek een kaart
-en jij moet er iets over raden.
-\0( (6촀\0Op je
-plaatsn\0\0 Klaarn\0\0 Spelen maar!"
+"203_01","(촀\0Dan gaan we nu een kaartspelletje
+doen!"
 "204","<"
 "204_01","(5촀\0Ik heb gewonnen! 
 \0<(촀\0Wat jammer is
@@ -198,8 +194,7 @@ iemand anders weggaatn\0\0
 kijken of ik iemand kan vinden?"
 "302_a","Ga je gang!"
 "302_b","Doe maar niet."
-"303","(
-촀\0Hmn\0\0
+"303","(촀\0Hmn\0\0
 \0 Een spierbonk die op je afkomt
 en je vraagt om weg te gaan?
 \0 Nee,
@@ -239,6 +234,12 @@ nieuwe woonplek 2촀hemhaar\0, n\0!\0\0(\0촀\0Maarn\0\0 
 \0
 (촀\02\0n\0?
 \0( Aangenaam!"
+"309_01","()촀\0Moet je luisterenn\0\0
+\0 Ik heb s촀 overal gezocht, maar 2hijze is al gevlogen.\0\0(촀\0Dat betekent vast dat nu de weg vrij
+is voor een transfer naar jouw eiland,
+n\0!\0\0(&촀\0Trouwens, jij bent toch n\0?\0\0(촀\0Nou, maak je borst maar nat, n\0. 
+\0((5촀\0n
+\0 komt eraan!"
 "310","(&촀\0Huh? 
 \0Denk je dat er niemand is die
 interesse heeft?"
@@ -321,8 +322,7 @@ spieren krijgen?!"
 "504_a","Anders blijf je gewoon!"
 "504_b","Dat is vast op te zoeken."
 "505","( 촀\0Hier wonen?
-\0( (
-촀\0Verleidelijk, man.
+\0( (촀\0Verleidelijk, man.
 \0
 Hmmn\0\0\0\0('촀\0Neen\0\0
 \0 Sorry, maar ik moet deze
@@ -352,8 +352,7 @@ hier niet!"
 \0( ($촀\0Eh, nee, sorry.\0\0(촀\0Ik heb de luitjes hier al genoeg
 verblijd met mijn spierenkunde,
 
-\0elders hebben ze me meer nodig.\0\0(
-촀\0Maar ik heb wel interessen\0\0
+\0elders hebben ze me meer nodig.\0\0(촀\0Maar ik heb wel interessen\0\0
 \0P ('촀\0Tja,
 ik kan geen beslissing maken.\0\0(7촀\0Kun je me nog eens uitnodigen en me het dan opnieuw vragen, n\0?"
 "509","()촀\0Nou, hè?! 

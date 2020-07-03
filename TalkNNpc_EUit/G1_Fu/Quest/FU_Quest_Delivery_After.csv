@@ -15,8 +15,7 @@ un tesoro!"
 s촀?"
 "004_a","(\0촀\0La verità è che..."
 "004_b","(\0촁\0Non mi ricordo."
-"005","(
-촀\0Immagino che se si fosse 22촀arrabbiatoarrabbiata\0
+"005","(촀\0Immagino che se si fosse 22촀arrabbiatoarrabbiata\0
 te lo ricorderesti di sicuron\0\0 
 \0(촀\0Quindi
 tout va bien!
@@ -174,8 +173,7 @@ di persona, n\0!"
 "310","( 촀\0Ahn\0\0 Ha fatto una prova e poi ha
 rimesso subito quello che indossava
 prima? 
-\0(
-촀\0Mmmhn\0\0
+\0(촀\0Mmmhn\0\0
 (촀\0Non si sa mai come reagiranno gli
 amici quando gli regali un capo di
 abbigliamento... 
@@ -227,12 +225,14 @@ apri il suo pacco? 
 \0(촀\0Vorrei che non lo
 avessi fatto, n\0."
 "406","(촀\0Cosa?
-\0 (8촀\0Hai aperto la scatola prima di
-consegnare il mio regalo,
-\0 n\0?\0\0(촀\0Con un regalo in una scatola aperta
+\0 (8촀\0Hai aperto la scatola
+prima di consegnare il mio regalo,
+
+\0n\0?\0\0(촀\0Con un regalo in una scatola aperta
 \0
 non si fa una bella figura
-\0n\0\0 Chissà se mi perdonerà, n\0."
+\0n\0\0 Chissà se
+mi perdonerà, n\0."
 "407","(촀\0Oh, che sollievo sentirtelo dire!\0\0(촀\0Per merito tuo, forse ce la faremo
 a sistemare le cose tra di noi!"
 "501","(4촀\0Alors, 
@@ -288,13 +288,11 @@ cercare di fare pace di persona!\0\0(4촀\0Spero che perdonerai la mia
 richiesta e vorrai accettare
 le mie scuse."
 "511","(촀\0Hai aperto il pacco?\0\0(촀\0Ooohn\0\0 
-\0(
-촀\0Pas de problème, posso
+\0(촀\0Pas de problème, posso
 comunque impacchettarlo di nuovo
 e restituirlo io stessa.
 (촀\0Avrei dovuto assumermi questa responsabilità fin dall'inizio, n\0."
-"512","( 촀\0Oh, hai aperto il paccon\0\0\0\0(
-촀\0Beh, non è un grosso problème.
+"512","( 촀\0Oh, hai aperto il paccon\0\0\0\0(촀\0Beh, non è un grosso problème.
 \0
 Posso incartarlo nuovamente e
 restituirlo di persona.
@@ -326,8 +324,7 @@ una cosa presa in prestito.
 \0
 (촀\0Troverò una soluzionen"
 "517","(촀\0Hai perso quello che ti ho dato? 
-\0(촀\0Ironia della sorte, s촀 è 2B촀stato il primostata la prima\0 a perderlo.\0\0(
-촀\0Forse il destino di questo oggetto
+\0(촀\0Ironia della sorte, s촀 è 2B촀stato il primostata la prima\0 a perderlo.\0\0(촀\0Forse il destino di questo oggetto
 è quello di non essere trovaton\0\0
 \0
 (촀\0Beh, troverò il modo di rimpiazzarlo."

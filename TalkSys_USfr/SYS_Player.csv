@@ -52,6 +52,17 @@ porter de plus!
  Dommage,
 \0 il va
 falloir relâcher ta proie..."
+"008",".
+\0.
+\0.
+\0 Malheureusement,
+\0
+ tu ne peux rien
+porter de plus!
+\0
+ Dommage,
+\0 il va
+falloir l'abandonner ici..."
 "011","Tu n'auras pas de place pour ranger
 cette plante dans tes poches,
 \0 si tu
@@ -412,23 +423,19 @@ achats où et quand tu le souhaites!"
 cette\0 fidèle \0}\0\0\0￿n"
 "290_03","Oh non!
 \0 2촀TonTa\0 fidèle \0}\0\0\0￿ vient de te lâchern"
-"505","(
-촀\0On pourrait réutiliser ce vieux pneu
+"505","(촀\0On pourrait réutiliser ce vieux pneu
 pour autre chosen\0\0
 \0(촀\0 Ça t'a donné
 une idée de plan de bricolage!"
-"506","(
-촀\0On pourrait réutiliser cette boîte vide
+"506","(촀\0On pourrait réutiliser cette boîte vide
 pour autre chosen\0\0
 \0 (촀\0Ça t'a donné
 une idée de plan de bricolage!"
-"507","(
-촀\0On pourrait réutiliser ce vieux soulier
+"507","(촀\0On pourrait réutiliser ce vieux soulier
 pour autre chosen\0\0
 \0 (촀\0Ça t'a donné
 une idée de plan de bricolage!"
-"508","(
-촀\0Cette palourde japonaise peut servir
+"508","(촀\0Cette palourde japonaise peut servir
 d'appât de pêchen\0\0
 \0 (촀\0Ça t'a donné
 une idée de plan de bricolage!"
@@ -438,8 +445,7 @@ une idée de plan de bricolage!"
 "509_01","Super!
 \0 Tu sais à présent fabriquer
 2\0}\0\0!"
-"511","(
-촀\0Ah... d'accord!
+"511","(촀\0Ah... d'accord!
 \0 C'est comme ça que
 ça marche...
 \0(촀\0 Ça t'a donné le plan de
@@ -448,25 +454,21 @@ bricolage pour fabriquer un \0piège\0￿!"
 \0 Un plan de bricolage pour une
 \0hache dorée\0￿ vient juste de germer
 dans ton esprit!"
-"513","(
-촀\0Tu pourrais la porter, si tu avais un
+"513","(촀\0Tu pourrais la porter, si tu avais un
 autre vieux soulier. 
 \0(촀\0Ça t'a donné une
 idée pour un plan de bricolage!"
-"514","(
-촀\0Tu as pêché une belle quantité de
+"514","(촀\0Tu as pêché une belle quantité de
 détritusn\0\0
 \0
 \0(촀\0 Ça t'a donné une idée
 pour un plan de bricolage!"
-"515","(
-촀\0En se basant sur le motif de l'œufn\0\0
+"515","(촀\0En se basant sur le motif de l'œufn\0\0
 \0(촀\0
 \0
 Tu as eu des idées pour des
 plans de bricolage!"
-"518","(
-촀\0Tu sais faire plein de choses avec
+"518","(촀\0Tu sais faire plein de choses avec
 des coquilles d'œufsn\0\0
 \0(촀\0
 \0 Ça t'a donné

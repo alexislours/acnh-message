@@ -17,7 +17,7 @@ d'argent.
 ()촀\0Così ho deciso di vendere quattro
 cose che non mi servono più e
 finanziare il mio acquisto letterario.
-($촀\0Ti andrebbe di darmi una mano
+($촀\0Ti andrebbe di darmi una zampa
 comprandole?"
 "003_a","Certo!"
 "003_b","Scusa, non posso."
@@ -39,7 +39,7 @@ saprei cosa farmene!"
 a qualcun altro, n\0."
 "006","(촀\0Oh, non c'è probleman\0\0 Sono sicura
 che troverò qualcuno in grado di
-darmi una mano, n\0."
+darmi una zampa, n\0."
 "007","(촀\0D'accordo. 
 \0In ogni caso è stato molto
 gentiiile da parte tua ascoltare la mia
@@ -72,8 +72,7 @@ salvata dall'imbarazzo del doppio
 acquisto. 
 \0Sono così conteeenta!"
 "102","(촀\0E poi avevo la sensazione che 2""촀questoquesta\0 }\0\0 fosse 2.촀destinatodestinata\0 à toi!"
-"103","(
-촀\0Mmmhn\0\0 La sai una cosa? 
+"103","(촀\0Mmmhn\0\0 La sai una cosa? 
 \0(촀\0Non
 voglio nulla... 
 \0Per te è gratis!"
@@ -86,15 +85,13 @@ comodo, n\0."
 sicuramente troverò qualcun altro
 a cui può interessare, n\0."
 "200","(촀\0Très bien! 
-\0(
-촀\0Allora, vediamon\0\0 
+\0(촀\0Allora, vediamon\0\0 
 \0(&촀\0Che ne
 diresti di darmi Z?"
 "200_a","È troppo."
 "200_b","Ci sto!"
 "200_c","No, grazie."
-"201","(
-촀\0Mmmhn\0\0 È troppo caro, dici?
+"201","(촀\0Mmmhn\0\0 È troppo caro, dici?
 \0
 E allora, 
 \0vediamo... 
@@ -111,8 +108,7 @@ uso, n\0!"
 pena. 
 \0Sono sicura che troverò
 un acquirente, n\0."
-"205","(
-촀\0Accipicchia! 
+"205","(촀\0Accipicchia! 
 \0Non sei 2.un clienteuna cliente
 facilen\0\0 (\0촀\0D'accordo, e se facessimo
 (촀\0Z?"
@@ -148,13 +144,11 @@ merci per il tuo interessamento!"
 più problemi ad acquistare il libro.
 (촀\0Merci, merci, merci, 
 \0n\0!"
-"303","(
-촀\0Vediamon\0\0 
+"303","(촀\0Vediamon\0\0 
 \0Ti interesserebbe(4촀\0 2\0}\0\0 per ($촀\0Z?"
 "303_a","Affare fatto!"
 "303_b","(&촀\0Hai altro da vendere?"
-"304","(
-촀\0Behn\0\0 forse potrei venderti 2""촀il miola mia\0 }\0\0 pour ($촀\0Z. 
+"304","(촀\0Behn\0\0 forse potrei venderti 2""촀il miola mia\0 }\0\0 pour ($촀\0Z. 
 \0Ti interessa?"
 "304_a","Affare fatto!"
 "304_b","(&촀\0Hai altro da vendere?"
@@ -183,13 +177,11 @@ prezzo?"
 è finito nella spazzatura. 
 \0(촀\0Merci,
 n\0!"
-"403","(
-촀\0Mmmhn\0\0 fammi pensaren\0\0 (\0촀\0Posso
+"403","(촀\0Mmmhn\0\0 fammi pensaren\0\0 (\0촀\0Posso
 scendere a Z.(&촀\0 Andrebbe
 bene pour toi?"
 "403_a","Sì, certo!"
-"403_b","(
-촀\0Scendi ancora un po'."
+"403_b","(촀\0Scendi ancora un po'."
 "404","(촀\0Capperini! 
 \0D'accordon\0\0 (&촀\0Très bien,
 che ne dici di Z?"

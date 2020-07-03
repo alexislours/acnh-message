@@ -1,17 +1,20 @@
 ﻿"label","text"
-"100","('촀\0Je suis busy, là, je participe à
+"100","('촀\0Je suis très occupé, là, je participe à
 une chasse au trésor. (촀\0Comment ça,
 j'ai l'air de me tourner les pouces ?
 (촀\0Bon, tu m'excuseras, tu m'empêches
 de jouer mon rôle !"
-"101","()촀\02\0n\0, je suis en pleine chasse au trésor, là.\0\0(촀\0Et dire que t'as fait tout ce chemin
+"101","()촀\0Je suis en pleine chasse au trésor
+avec n\0, là.\0\0(촀\0Et dire que t'as fait tout ce chemin
 pour avoir un autographe. 
 \0Ça me fait
 mal, de décevoir ainsi mes fansn"
-"102","(&촀\0Tu veux quelque chose,
-n\0 ?\0\0(촀\0Bon, de toute façon, j'attends pas
-de réponse de ta part. Je suis en
-pleine chasse au trésor, là !"
+"102","(&촀\0Tu veux quelque chose, n\0 ? 
+\0(촀\0Remarque, je ne sais pas pourquoi je te demande çan\0\0\0\0(촀\0Il se trouve que je suis au beau
+milieu d'une chasse au trésor
+haletante avec n\0 !
+($촀\0Alors on discutera plus tard,
+d'accord ?"
 "200","(%촀\0Tu veux un indice ? Alors voilà :
 le trésor est enterré quelque part
 à n\0.
@@ -22,7 +25,6 @@ penseurs, tout vient à point à qui
 sait attendre.\0\0(6촀\0Oui enfin, sauf que toi, tu ferais
 mieux de t'activer et creuser
 un peu partout !"
-"202","(
-촀\0Je t'encouragerais bien, mais en
+"202","(촀\0Je t'encouragerais bien, mais en
 plus d'être contre mon intérêt,
 c'est le summum de la ringardituden"

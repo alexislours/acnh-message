@@ -33,25 +33,18 @@ esté tocando delante de nuestra
 \0oficina de gestión\0￿ ahora mismo!
 (%촀\0¡He oído que incluso acepta
 peticiones! 
-\0(
-촀\0¿Qué canción podría
+\0(촀\0¿Qué canción podría
 pedirle?n"
 "007","(촀\0¡Hoy es domingo, flor!
 \0 Llevo toda la
 semana ahorrando para poder
 comprarle nabos a \0Juliana\0￿."
-"008","(
-촀\0Siento mucha curiosidad por ese
+"008","(촀\0Siento mucha curiosidad por ese
 barco tan extraño que hay anclado
 en la costa norte de la isla.
-No es un barco pesquero
-\0 (촀\0y lo veo
-demasiado austero para ser
-de recreon\0\0
-((촀\0¡Parece un caso para la detective
-n
-\0!
-\0 (%촀\0Empezaré con la investigación de inmediato."
+(+촀\0Tiene algo que me da mala espina,
+\0
+pero no sé el quén"
 "009","(+촀\0Ay, bichín,
 \0 me ha pasado una cosa
 muuuy extrañan\0\0\0\0(촀\0Antes, cuando estaba paseando,
@@ -122,7 +115,18 @@ cierto tipo de flor en mi jardín,
 pero no es nada fácil de cuidar.
 (%촀\0Espero que \0Gandulio \0￿sepa darme
 algunos consejos."
-"100","(
-촀\0Hace un momento me ha parecido
+"021","( 촀\0Menos mal que te encuentro, n\0.
+\0 No sabía qué hacern\0\0\0\0(촀\0He visto a alguien varado en la playa.
+\0
+('촀\0No tenía muy buen aspecto
+\0 (촀\0y el caso
+es que me sonaba de algon\0\0
+Tendría que haberle ofrecido ayuda,
+\0
+(촀\0pero me he puesto nerviosa y no
+he sabido reaccionar.
+¿Por qué no te acercas a ver, n\0?
+"
+"100","(촀\0Hace un momento me ha parecido
 ver a alguien que no es de la islan\0\0\0\0(&촀\0¿Tú le has visto,
 \0 bichín?"

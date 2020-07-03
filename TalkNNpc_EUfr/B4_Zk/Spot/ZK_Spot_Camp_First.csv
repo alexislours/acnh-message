@@ -2,8 +2,7 @@
 "001","(""촀\0Ohé, l'ami2\0e !\0\0(촀\0Je suis n
 \0.
 \0( (5촀\0Comme de bien entendu, c'est moi qui ai l'honneur d'inaugurer ce \0camping\0￿."
-"001_01","(
-촀\0Et tu vis sur cette île, supputé-je ?
+"001_01","(촀\0Et tu vis sur cette île, supputé-je ?
 \0
 (%촀\0Oui, je m'en doutais.
 \0 Quand je
@@ -16,7 +15,7 @@ avec un voisin comme moi."
 que tu ne poses pas est tout à fait
 pertinenten\0\0\0\0()촀\0Les loisirs, le soleil, le vent,
 les n촁, et je ne parle même
-pas 2""촀du
+pas 2#촀du
 de la\0 촀.
 (1촀\0Ça me donne presque envie
 de venir m'installer icin"
@@ -94,8 +93,7 @@ comme promisn\0\0
 trouvé un endroit où vivre !\0\0( 촀\0
 \0Oh. 
 \0C'est le cas ?
-\0((5촀\0 Excellent.\0\0(
-촀\0J'imagine que je peux commencer
+\0((5촀\0 Excellent.\0\0(촀\0J'imagine que je peux commencer
 à faire mes cartonsn\0\0\0\0(5촀\0D'ailleurs c'est ce qui était prévu
 depuis le début.
 \0( Je n'ai jamais douté
@@ -134,8 +132,7 @@ trop facile."
 "008_02","(9촀\0J'ai une idée qui va révolutionner
 le concept même du campingn\0\0
 \0( (5촀\0
-Le camping permanent !(
-촀\0
+Le camping permanent !(촀\0
 Enfin, avec plus de meubles,
 de confort, de commoditésn\0\0
 (촀\0Je sens que ça va faire fureur !"

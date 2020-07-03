@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(촀\0Mijn huis is mooi schoon, hè?\0\0(
-촀\0Ik maak om de paar weken schoon,
+"001","(촀\0Mijn huis is mooi schoon, hè?\0\0(촀\0Ik maak om de paar weken schoon,
 want mijn mierenvriendjes willen
 anders niet naar huis."
 "002","(촀\0Ahahaha!
@@ -10,9 +9,9 @@ meubels gezocht waar mijn naam op
 stond.
 \0(촀\0 In mijn gedachten, bedoel ik."
 "003","(촀\0Kom je speciaal bij me langs, heb ik
-geen 촀 in huis!\0\0(4촀\0Sorry, ik had 2#촀hemhetze met je willen
+geen 촀 in huis!\0\0(4촀\0Sorry, ik had 2$촀hemhetze met je willen
 delen, (촀\0maar toen heeftn\0\0 iemand
-\0 2#촀hemhetze
+\0 2$촀hemhetze
 opgegeten.
 \0 Gheghe!"
 "004","(촀\0Je mag gerust vaker langskomen!\0\0Vooral als ik thuis ben.
@@ -46,8 +45,7 @@ uitstralen waar anderen op afkomen?"
 kwam, had ik alle kruimels opgeruimd
 \0<
 en ze niet overal onder geveegd!"
-"011","(
-촀\0Wat doet iedereen hier?
+"011","(촀\0Wat doet iedereen hier?
 \0 Ik heb
 niemand uitgenodigd.
 \0 Of heb ik het

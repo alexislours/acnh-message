@@ -106,8 +106,7 @@ no lo necesitas.
 "038_b","No, gracias"
 "041","(촂\0(촃\0A ver qué cosas traesn\0\0
 \0
-(
-촂\0(1촃\0Muy interesantes, déjame
+(촂\0(1촃\0Muy interesantes, déjame
 que saque la cuentan"
 "041_01","¡Qué interesante lo que nos traes!
 \0
@@ -121,8 +120,7 @@ Espera, que saco la cuentan"
 "041_02","(촂\0(촃\0¡Ah,
 \0 pero qué gran selección de
 objetos!
-\0 (
-촂\0(1촃\0A ver, déjame que saque
+\0 (촂\0(1촃\0A ver, déjame que saque
 la cuentan\0\0
 (%촀\0Sumo todo eston\0\0 Miro si hay
 objetos del dían\0\0
@@ -214,10 +212,10 @@ encantados de que nos vendas
 frutan\0\0\0\0¡Pero también puedes intentar
 \0comerla \0￿de vez en cuando! d\0\0K
 \0¡Ya verás!\0dd"
-"061","(촀\0(촃\0¿Te intriga saber qué hay en
-la vitrina?
-\0 ¡Pues esto es lo
-que tenemos hoy!d\0(촃\0 
+"061","(촀\0(촃\0¿Te intriga saber qué hay en la
+vitrina?
+\0 ¡Pues esto es lo que
+tenemos hoy!d\0(촃\0 
 \0\0K¡Mira, mira!\0dd"
 "081","Los nabos están a (촀\0(촃\0Z\0 la unidad."
 "082","Los domingos no compramos nabos.
@@ -233,9 +231,8 @@ están disponibles hoy!(촀"
 "093","(촀\0Sí, sí, por supuesto.
 \0 ¡Mira la lista
 todas las veces que quieras!(촀"
-"094","(%촀\0(촃\02\02\0}\0\0 cuesta Z\0.
-\0 (촀\0
-¿Qué te parece?"
+"094","(%촀\0(촃\02\02\0}\0\0 cuesta Z\0⁠.
+\0(촀\0 ¿Qué te parece?"
 "094_a","(%촀\0¡Para mí!"
 "094_b","('촀\0Cambié de idea"
 "096","(촂\0(촃\0¡Ah!
@@ -428,9 +425,54 @@ tráelos! \0Kd\0
 "122_b","('촀\0Cambié de idea"
 "131","(%촃\0Puedes comprar 2\0}\0\0 de a un2촀oa\0 o vari2촀osas\0 junt2촀osas\0.\0\0(&촂\0¿Cuántas unidades quieres?"
 "131_a","Una (\0Z\0 \0￿)"
-"131_b","Cinco (\0Z
- \0￿)"
+"131_b","Cinco (\0Z \0￿)"
 "131_c","Cambié de parecer"
+"141_01","( 촂\0Ah, ( 촃\0¿estás pensando en ir a nadar?
+\0
+(%촂\0Sí, (\0촃\0entonces te va a venir bien
+2\0}\0\0.
+(촂\0(촃\0Pero primero, quizás podríamos
+darte algunos consejos.d\0 
+\0\0K¡Unos consejos!\0dd"
+"141_02","()촂\0(\0촃\0En primer lugar, deberás ponerte
+un \0traje de buceo \0￿adecuado,
+\0 (%촃\0como
+est2촀ea\0 }\0\0.
+(촂\0(촃\0Una vez que l2촀oa\0 tengas puest2촀oa\0, solo
+tendrás que oprimir \0 \0￿en la playa o
+en las rocas cercanas yn\0\0
+\0 ¡al agua!
+()촂\0(\0촃\0Cuando ya estés en el agua, sigue
+oprimiendo \0 \0￿para nadar;
+\0 es así de sencillo.\0\0(촂\0¡Ah, por cierto!
+\0 Si ves una silueta,(촃\0
+\0
+puedes oprimir \0 \0￿para bucear
+y examinarla más de cerca.
+(촀\0(촃\0¡Nunca se sabe qué clase de \0fauna
+marina \0￿podrías encontrar ahí abajo!
+\0
+(2촀\0Y luego traer aquí arriban"
+"142","(%촂\0Bien, creo que ya tienes toda la
+información que necesitas para
+ponerte a nadar.d\0
+\0(촃\0 \0K¡Todo listo!\0dd
+(\0촂\0¿En qué estábamos?(촃\0
+\0 ¡Ah, sí!
+\0 Puedes
+llevarte el artículo que querías por
+solo Z\0.
+(&촂\0¿Y bien?(&촃\0
+\0 ¿Quieres comprar
+2\0}\0\0?"
+"142_a","(%촀\0¡Para mí!"
+"142_b","¿Cómo se nadaba?"
+"142_c","('촀\0Cambié de idea"
+"143","(촂\0(촃\0¿Necesitas que te refresquemos la
+memoria?
+\0 ¡Claro que sí! Veamos qué
+debes saber antes de nadar.d\0
+\0(%촃\0 \0K¡Y bucear!\0dd"
 "200","(촂\0(촃\0¡Gracias!d\0
 \0 \0K¡Hasta pronto!\0dd(촂\0(촃\0
 Z"

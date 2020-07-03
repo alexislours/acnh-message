@@ -1,15 +1,13 @@
 ﻿"label","text"
 "002","( 촀\0Pour de vrai?
-\0(
-촀\0 Rester vivre sur cette
+\0(촀\0 Rester vivre sur cette
 îlen\0\0
 \0 (촀\0Ouais, je pourrais m'y habituer!\0\0(촀\0Tant que tu y habites, je me vois bien
 vivre sur n'importe quelle île!\0\0(5촀\0
 \0Je vais demander au \0bureau des
 résidents\0￿ s'ils ont un endroit où je
 pourrais m'installer, n\0!"
-"003","(
-촀\0Hmmmmn\0\0 C'est tentant, ce que tu
+"003","(촀\0Hmmmmn\0\0 C'est tentant, ce que tu
 me proposes. 
 \0Allez, tu sais quoi?\0\0(\0촀\0La première fois, je refuse poliment,
 \0(촀\0
@@ -92,10 +90,8 @@ amusé2\0e, n\0!"
 sortira mieux sans star.
 \0 Ça aurait
 attiré trop de touristesn"
-"203_01","(%촀\0Sans plus attendre, place aux
-cartes!
-\0 Devine ce qu'il y a sur la
-carte que je vais tirer, n\0!"
+"203_01","(%촀\0Sans plus attendre, place
+aux cartes!"
 "204","<"
 "204_01","(촀\0J'ai gagné!
 \0 Je veux diren\0\0 (촀\0J'ai
@@ -289,12 +285,28 @@ avec tout mon barda, n\0!\0\0Et maintenant,
 \0 place à ma partie
 préférée dans le spectacle, j'ai
 nommén\0\0 les présentations!
-(
-촀\0Alors, ahemn\0\0
+(촀\0Alors, ahemn\0\0
 \0< (촀\0Salut, je m'appelle n
 \0! Tu dois être n\0, j'ai bon?\0\0Je sens qu'on va passer des
 moments mémorationnels,
 tu peux me croire,(촀\0 lol!"
+"309_01","(촀\0Tu as attendu, c'est cool!
+\0 Bon, 
+\0je
+suis allée voir,
+\0('촀\0 plus personne vit
+là-bas. T'y crois, toi?\0\0(9촀\0Y a des gens, comme ça, ils partent
+sans dire au revoir. 
+\0(Tant pis pour
+2촀luielle\0. Et tant mieux pour moi!\0\0(촀\0Donc je peux emménager sur cette île!
+\0-(\0촀\0 Tu parles d'un coup de chance.\0\0( 촀\0Oh! Je me suis pas présentée!
+\0(
+Je suis (촀\0ta nouvelle future popstar
+préférée, n
+\0!
+(촀\0Tu es n\0, je me trompe pas?
+\0 (촀\0Je parie qu'on va hyper bien s'entendre!
+\02(촀"
 "310","(촀\0Euh, tu ne pensais à personne
 en fait, n\0?"
 "310_a","Si, si!"
@@ -386,8 +398,7 @@ prochaine tournée, ce sera ici,
 n\0!\0\0(촀\0Les billets devraient pas tarder à
 être dispo en préventen\0\0 Je compte
 sur toi pour passer le mot!"
-"424","(
-촀\0C'est pourtant pas la place qui
+"424","(촀\0C'est pourtant pas la place qui
 manque icin\0\0
 \0 (&촀\0Pourquoi on me
 laisse pas squatter dans un coin?

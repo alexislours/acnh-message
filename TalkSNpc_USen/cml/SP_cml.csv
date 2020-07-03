@@ -75,8 +75,8 @@ and purse grow one size bigger."
 "008_03","(촀\0Please enjoy the rug as long as
 you can."
 "009","(%촀\0I hope you will buy again.
-\0
-($촀\0May the tickets tempt youn"
+\0 ($촀\0May the
+tickets tempt youn"
 "010","(촀\0Ah, greatest of tragedies!
 \0
 (촀\0Your pockets are too full for
@@ -327,3 +327,45 @@ yes.
 \0 Decorating with this
 \0(촀\0 will make
 you restless for more mystery!"
+"070","(&촀\0Is your wallet now content, or shall
+you make additional purchases?"
+"070_a","A rug, please."
+"070_b","Mysterious wallpaper."
+"070_c","Mysterious flooring."
+"070_d","I'm not interested."
+"071","(&촀\0Is your wallet now content, or shall
+you make additional purchases?"
+"071_a","A rug, please."
+"071_b","Mysterious wallpaper."
+"071_c","Mysterious flooring."
+"071_d","Let's make a trade!"
+"071_e","I'm not interested."
+"072","(촀\0I will visit again. 
+\0May our wallets
+find togetherness in the future."
+"100","(촀\0Hello. 
+\0You are calling me \0Saharah\0￿,
+for it is the name I have carried for
+as long as I have carried these rugs.
+(%촀\0I bring these rugs from my home,
+\0
+which is far,
+\0 to help you decorate
+your home,
+\0 which is near.
+(9촀\0I have small rugs, 
+\0large rugs, 
+\0and
+rugs of the medium space between.
+\0
+The design is seen after the buying.
+()촀\0I have also mysterious flooring and
+wallpaper.
+\0 Oh, how surprising you
+will find it! 
+\0(&촀\0Are you ready to buy?"
+"100_a","A rug, please."
+"100_b","Mysterious wallpaper."
+"100_c","Mysterious flooring."
+"100_d","Let's make a trade!"
+"100_e","I'm not interested."

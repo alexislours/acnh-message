@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","( 촀\0Whoa! 
 \0Are you sure?
-\0( (
-촀\0I mean, living
+\0( (촀\0I mean, living
 here would really help me take things
 to the level AFTER nextn\0\0\0\0(촀\0OK, I'm in!
 \0( (%촀\0I'll call \0Resident Services
@@ -99,11 +98,7 @@ not sure if even 
 \0I
 \0 have what it takes
 to be my neighbor, n\0."
-"203_01","(촀\0Then we got us a card game!\0\0()촀\0It's real simple. 
-\0I'm gonna draw a
-card, and you've gotta guess
-something about it.
-\0( (촀\0Game on!"
+"203_01","(촀\0Then we got us a card game!"
 "204","<"
 "204_01","(촀\0Victory is mine! 
 \0<(촀\0Which is too bad
@@ -211,8 +206,7 @@ moved out, 
 I try to strike a deal with someone?"
 "302_a","Go for it!"
 "302_b","Nah."
-"303","(
-촀\0Hmmn\0\0
+"303","(촀\0Hmmn\0\0
 \0 Having a giant-armed
 stranger come ask you to leave
 the island? 
@@ -254,6 +248,16 @@ nervous, though.
 2\0n\0, right?
 \0( (촀\0See you
 around, n\0!"
+"309_01","()촀\0So here's the storyn\0\0
+\0 I went looking
+for s촀, but it seemed
+like they were long gone.\0\0(촀\0I'm pretty sure that means I'm free
+and clear to move IN, n\0!\0\0(&촀\0So, you're n\0, right?
+\0
+(촀\0Get ready, n\0. 
+\0((5촀\0Here
+comes n
+\0!"
 "310","(&촀\0Huh? 
 \0You don't think anyone
 would be interested?"
@@ -348,8 +352,7 @@ MORE ripped-er, n\0!"
 "504_b","Stay hydrated."
 "505","( 촀\0You mean like move here?
 \0(
-(
-촀\0Tempting. 
+(촀\0Tempting. 
 \0Hmmn\0\0\0\0()촀\0If I lived here, 
 \0I'd never stop working
 out,
@@ -383,8 +386,7 @@ five minutes, but not here!"
 potential, 
 \0but I think I wanna spread
 the buffness elsewhere right now.
-(
-촀\0It's super tempting, thoughn\0\0
+(촀\0It's super tempting, thoughn\0\0
 \0P ('촀\0Yeah,
 I can't decide.\0\0(7촀\0How about you invite me over again
 and ask me then, n\0?"

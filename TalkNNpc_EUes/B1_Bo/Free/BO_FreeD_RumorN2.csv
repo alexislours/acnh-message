@@ -3,8 +3,7 @@
 que acabo de ver yo?
 \0 ¿Ese que
 está rodeado por un cordón?
-(
-촀\0¿Crees que está a la venta?
+(촀\0¿Crees que está a la venta?
 \0
 Me parece que está a la ventan\0\0
 \0
@@ -46,8 +45,7 @@ alguien nuevo por aquí pronto.
 "005","<"
 "005_01","(;촀\0¡Alguien ha comprado el solar
 que estaba en venta!
-\0 (
-촀\0Se llaman\0\0
+\0 (촀\0Se llaman\0\0
 \0
 (&촀\0¿s촀?
 \0 (%촀\0¡Sí, eso es!
@@ -73,8 +71,7 @@ de presentarme, n\0!"
 "005_03","(""촀\0¿A que no sabes una cosa?
 \0 (;촀\0Pues que
 alguien ha comprado el solar que
-nadie había comprado hasta ahora.\0\0(
-촀\0Creo que se llama s촀
+nadie había comprado hasta ahora.\0\0(촀\0Creo que se llama s촀
 y, si ese es su verdadero nombre,
 \0
 (촀\0¡me parece genialísimo!
@@ -113,7 +110,7 @@ instalado en la \0zona de acampada\0￿.\0\0(&촀\0¿Quién será?
 \0 ¿Le gustará
 2\0촀?
 \0
-(촀\0Si es así, espero que 2#촀lola\0 comparta."
+(촀\0Si es así, espero que 2$촀lola\0 comparta."
 "901","(""촀\0¡Será el Z$촀 de este mes!
 \0 (\0촀\0Es un día
 superespecial,

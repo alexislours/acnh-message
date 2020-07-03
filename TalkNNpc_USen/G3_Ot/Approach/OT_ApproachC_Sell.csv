@@ -12,8 +12,7 @@
 "002_a","(\0촀\0How much?"
 "002_b","Not really."
 "003","(촀\0Oh!
-\0
- Perfect timing!
+\0 Perfect timing!
 \0(7촀\0 So, I've been
 reorganizing my place and selling
 the things I no longer needn\0\0
@@ -26,8 +25,7 @@ in helping me out?"
 "003_a","(\0촀\0How can I help?"
 "003_b","I'm pretty busy."
 "004","('촀\0Oh, n\0.
-\0
- I hope you
+\0 I hope you
 can help me.\0\0()촀\0I was reading this magazine about
 촀 and decided to
 enter their monthly sweepstakesn\0\0
@@ -37,8 +35,7 @@ enter their monthly sweepstakesn\0\0
 (촀\0You can imagine my surprise!
 (촀\0Anyhoo, I would be over the moon
 exceptn\0\0
-\0
-(촀\0I just bought the EXACT
+\0(촀\0I just bought the EXACT
 same thing not long ago!
 (2촀\0Well, I'm sure you can see where
 I'm going with thisn\0\0
@@ -47,8 +44,7 @@ interested in buying it off me?"
 "004_a","(\0촀\0For how much?"
 "004_b","Er...sorry, but no."
 "005","(9촀\0Ohn\0\0
-\0
- I see.
+\0 I see.
 \0 Well then, I'll ask around.
 \0
 (5촀\0I'm sure someone else will want it,
@@ -59,12 +55,10 @@ interested in buying it off me?"
 (촀\0Well, perhaps I'll talk you into
 it later, n\0."
 "007","('촀\0Too busy for a fabulous deal, eh?
-\0
-
+\0
 Well, you're missing out. 
 \0(5촀\0No matter,
-\0
-
+\0
 someone else WILL be interested."
 "008","(촀\0Oh, fine. I understand, n\0.
 \0(
@@ -94,8 +88,7 @@ to 
 my }\0\0
 \0
 (촀\0warms my heart, n\0."
-"103","(
-촀\0Oh dearn\0\0
+"103","(촀\0Oh dearn\0\0
 \0 In that case,
 \0(\0촀\0 allow me to
 give it to you for free.
@@ -135,8 +128,7 @@ you as happy as it makes me!"
 \0
 (촀\0Well, perhaps you'll change your
 mind later, n\0."
-"205","(
-촀\0OK, OKn\0\0
+"205","(촀\0OK, OKn\0\0
 \0 Then,
 \0 (&촀\0Z?
 \0
@@ -145,8 +137,7 @@ That's my final offer."
 "205_b","FINAL final?"
 "206","(촀\0Oh dear.
 \0 I'm sorry,
-\0
-('촀\0 but that really is
+\0('촀\0 but that really is
 as low as I can go, n\0."
 "207","(7촀\0I had no idea you were such a savvy
 negotiator, n\0n\0\0
@@ -184,8 +175,7 @@ appreciated, n\0."
 \0(\0촀\0 It's a bargain!"
 "303_a","I'll take that bargain!"
 "303_b","Try again."
-"304","(
-촀\0Well then,
+"304","(촀\0Well then,
 \0 let's seen\0\0
 \0(
 (&촀\0How about 
@@ -213,34 +203,28 @@ to see if anyone else is interested,
 "400_a","Sounds good!"
 "400_b","(\0촀\0A little lower."
 "401","(촀\0Wonderful! Thank you!
-\0
- I'm just sure
+\0 I'm just sure
 you made a choice you won't regret!"
 "402","And n\0, (촀\0I must say that
 was a lovely way to make a bit of
 spending money."
-"403","(
-촀\0OKn\0\0
-\0
-how about 
+"403","(촀\0OKn\0\0
+\0how about 
 \0(&촀\0Z?"
 "403_a","I can do that."
 "403_b","(\0촀\0Lower!"
-"404","(
-촀\0Alright, alrightn\0\0
+"404","(촀\0Alright, alrightn\0\0
 \0 (&촀\0Surely Z
 is low enough?"
 "404_a","Yeah, that works."
 "404_b","(\0촀\0No! Lower!"
-"405","(
-촀\0Hmmmmmn\0\0
+"405","(촀\0Hmmmmmn\0\0
 \0 (9촀\0Fine, but this is as
 low as I can gon\0\0 Z\0."
 "405_a","We have a deal!"
 "405_b","Not low enough..."
 "406","(촀\0Whew! 
-\0
-I was getting nervous there
+\0I was getting nervous there
 for a moment.
 \0(%촀\0 Thank goodness we
 were able to come to an agreement."
@@ -248,8 +232,7 @@ were able to come to an agreement."
 fun wheeling and dealing like
 that, isn't it?"
 "408","(촀\0That's a shamen\0\0
-\0
- Perhaps I can get
+\0 Perhaps I can get
 someone else to buy it.
 \0(촀\0 It's been
 fun haggling with you, n\0."
@@ -260,14 +243,12 @@ that's as low as I can go.
 \0
 (촀\0Maybe next time, n\0."
 "410","('촀\0No, I'm sorry.
-\0
- That's really the best
+\0 That's really the best
 I can do.
 \0(촀\0 I fear we've reached an
 impasse, n\0."
 "411","('촀\0Oh no no, n\0.
-\0
- That's my
+\0 That's my
 limitn\0\0
 \0(촀\0 Perhaps I'll have better luck
 another time."

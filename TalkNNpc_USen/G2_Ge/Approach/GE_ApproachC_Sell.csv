@@ -32,8 +32,7 @@ see anything you want,
 and there's a problem!\0\0(촀\0I've already got more than I need.
 \0
 I know, right?
-\0(
-촀\0 Feel like buyin' stuff
+\0(촀\0 Feel like buyin' stuff
 from me, like, now?"
 "004_a","(\0촀\0How much?"
 "004_b","Nope, sorry."
@@ -72,8 +71,7 @@ your }\0\0!
 (""촀\0
 \0Enjoy it, superstar!"
 "103","(촀\0I seen\0\0
-\0 (
-촀\0
+\0 (촀\0
 \0But it'd be a waste if nobody
 ends up using it, you know?\0\0(촀\0
 \0OK, how about this? (""촀\0I'll give it to
@@ -104,8 +102,7 @@ How about Z instead?"
 "204","(촀\0That's a total shamen\0\0
 \0(촀\0 Well, let me
 know if you change your mind."
-"205","(
-촀\0Well thenn\0\0
+"205","(촀\0Well thenn\0\0
 \0( (&촀\0
 \0How about Z?"
 "205_a","I'll take it!"
@@ -177,14 +174,12 @@ I'll be calling for sure! Laters!"
 \0Z?"
 "403_a","Sold!"
 "403_b","(\0촀\0Cheaper!"
-"404","(
-촀\0Hmmmn\0\0
+"404","(촀\0Hmmmn\0\0
 \0 (&촀\0
 \0What about Z?"
 "404_a","Sold!"
 "404_b","(\0촀\0CHEAPER!"
-"405","(
-촀\0Hmmn\0\0 ((촀\0
+"405","(촀\0Hmmn\0\0 ((촀\0
 \0'K, I gotcha.
 \0 Z\0!
 Final offer!"

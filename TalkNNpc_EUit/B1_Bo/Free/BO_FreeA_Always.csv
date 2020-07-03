@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(
-촀\0È difficile mantenere la calma quando
+"001","(촀\0È difficile mantenere la calma quando
 il menu della vita è così ricco, sai?"
 "005","()촀\0Ogni tanto faccio dei sogni
 terribilmente realistici,
@@ -40,6 +39,8 @@ per viaggiaren"
 irrefrenabile di disegnare,
 \0 uso di
 tutto: pennelli, matite, marmellatan"
+"022","(촀\0Ehi, indovina a cosa mi interesso
+ultimamenten"
 "031","<"
 "031_01","(4촀\0Non so se te l'ho già detto,
 \0 ma
@@ -71,8 +72,7 @@ ci guarda!
 sai? 
 \0Questa teoria spiegherebbe un
 sacco di cose.
-(
-촀\0Ad esempio, 
+(촀\0Ad esempio, 
 \0non ti pare strano che
 la frutta cresca così rapidamente?\0\0(&촀\0O che dagli alberi sia possibile
 ottenere tre tipi di legno diversi?\0\0(*촀\0E ovunque tu vada c'è sempre della
@@ -205,7 +205,7 @@ tutto.
 ipnotiche:
 \0 non riesco a buttarle vian"
 "104_02","(촀\0A me piace un sacco mescolare
-i colori e dipingere con le mani.
+i colori e dipingere con le zampe.
 
 \0Puoi ottenere di tutto, n\0.
 (촀\0Ma il picco dell'arte per me è il
@@ -218,3 +218,21 @@ gelato che mi piacciono."
 sul sicuro. 
 \0Sono semplicissimi da usare!\0\0(촀\0Però si rompono facilmenten\0\0
 (촀\0almeno tra le mie zampe."
+"105","<"
+"105_01","(촀\0Il canto!
+\0 Esco di casa e comincio a
+urlare qualche melodia 촀 a squarciagola!\0\0()촀\0Sapevi che è gratis?!
+\0 Tutti lo
+possono fare!\0\0(촀\0Fai solo attenzione alle note alte:
+\0
+la scorsa settimana mi è entrato un
+insetto in bocca e l'ho mangiaton"
+"105_02","(촀\0Correre come un matto!
+\02
+(촀\0Sentire il vento sulla pelle!\0\0(촀\0Poi stancarsin\0\0 e addormentarsi
+nell'erba. 
+\0Caspitina!
+\0 (.촀\0Mi serve un
+pisolino solo a parlarne!"
+"105_03","(촀\0Mangiucchiare 촀 mentre passeggio!\0\0()촀\0Prima ero più fissato con il mangiare 촁 mentre me ne andavo in giro a vantarmi.\0\0(%촀\0Questa è una cosa completamente
+diversa."

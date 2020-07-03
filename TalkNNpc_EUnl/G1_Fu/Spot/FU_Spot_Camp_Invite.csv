@@ -48,8 +48,7 @@ op het eiland wonen. (&촀\0Doe je mee?"
 \0 Ik had niet verwacht dat je me
 serieus zou nemen.
 \0( (촀\0Wat aardig dat
-je wilt dat ik hierheen verhuis!\0\0(
-촀\0Het is verleidelijk,
+je wilt dat ik hierheen verhuis!\0\0(촀\0Het is verleidelijk,
 \0 maar ik weet het
 niet
 \0n\0\0(촀\0 Ah!
@@ -64,8 +63,7 @@ spelletje,
 "201_03","(촀\0Huh,
 \0 vind je dat ik dat echt moet
 doen?
-\0(
-촀\0 Dat is nogal een grote stap,
+\0(촀\0 Dat is nogal een grote stap,
 weet je
 \0n\0\0
 (촀\0Wacht!
@@ -106,8 +104,7 @@ gewonnen heb,
 \0 (%촀\0zie ik het als een
 teken dat ik niet moet verhuizen."
 "205","<"
-"205_01","(
-촀\0Misschien was het voorbestemd om
+"205_01","(촀\0Misschien was het voorbestemd om
 zo te zijn
 \0n\0\0 Nou ja,
 \0 (""촀\0bedankt voor het
@@ -125,8 +122,7 @@ spelen."
 "206_01","(!촀\0Je hebt gewonnen!
 \0 (\0촀\0Wat betekent
 \0n\0\0
-(!촀\0dat we buren worden!\0\0(
-촀\0Maar eerst
+(!촀\0dat we buren worden!\0\0(촀\0Maar eerst
 \0 moet ik het een en ander
 bespreken met de \0servicebalie\0￿.
 \0(
@@ -135,8 +131,7 @@ bespreken met de \0servicebalie\0￿.
 \0( (;촀\0Misschien ben ik
 dan echt voorbestemd
 \0 om naar dit
-eiland te verhuizen.\0\0(
-촀\0Dan is mijn volgende stap om bij de
+eiland te verhuizen.\0\0(촀\0Dan is mijn volgende stap om bij de
 \0servicebalie\0￿
 \0 te informeren naar een
 eventuele verhuizing."
@@ -144,8 +139,7 @@ eventuele verhuizing."
 \0
 omdat het mijn lot is om hier te
 komen wonen.\0\0(촀\0Ik verhuis naar dit eiland zodra
-mijn kampeertripje op zijn einde is.\0\0(
-촀\0O,
+mijn kampeertripje op zijn einde is.\0\0(촀\0O,
 \0 maar voordat ik kan verhuizen,
 \0
 moet ik eerst bij de \0servicebalie \0￿om
@@ -176,8 +170,7 @@ dat, n\0?"
 \0
 Nee?
 \0 (촀\0Ik weet het niet! 
-\0(
-촀\0Wachtn\0\0
+\0(촀\0Wachtn\0\0
 \0 zullen
 we een spelletje spelen?
 (%촀\0Dan bepaalt de uitkomst de
@@ -225,8 +218,7 @@ ze niet zulk goed nieuws voor men\0\0\0\0(촀\0Er is geen ruimte om nieuwe
 te bouwen
 \0(촀\0 en alle andere huizen zijn
 al bewoond.
-(
-촀\0Hmm,
+(촀\0Hmm,
 \0 misschien denkt er wel iemand
 over om te verhuizen.
 \0(9촀\0 Zal ik anders
@@ -251,8 +243,7 @@ is om weg te gaan,
 "305_a","Ja."
 "305_b","Wacht, die bedoel ik niet."
 "305_c","Hm... Laat maar zitten."
-"306","(
-촀\0Hopelijk kan ik een manier vinden
+"306","(촀\0Hopelijk kan ik een manier vinden
 \0
 waarop ik niet al te opdringerig
 overkom."
@@ -275,6 +266,21 @@ wachten.
 \0 (촀\0Je had dus helemaal gelijk!\0\0(촀\0Ik ben heel blij dat we toch buren
 kunnen worden,
 \0 n\0!"
+"309_01","()촀\0Ik ben naar s촀 gegaan om over verhuizen te praten, 
+\0maar 2촀hijze\0 was er al niet meer!\0\0(촀\0Dat is jammern\0\0
+\0(촀\0 maar ook fijn. 
+\0Want
+het betekent dat ik hier nu kan
+komen wonen, n\0!\0\0(;촀\0Ja,
+\0 ik weet je naam nog wel.
+\0 Maar ik
+vind het niet erg als je de mijne bent
+vergeten.
+\0 (촀\0Ik heet n
+\0!\0\0Ik heb zo'n zin om je buurvrouw te
+worden.
+\0(!촀\0 We gaan samen zoveel
+plezier hebben, n\0."
 "310","(촀\0Heb je je bedacht?"
 "310_a","Ik weet toch iemand."
 "310_b","Ach, laat maar zitten."
@@ -333,8 +339,7 @@ wonen!
 \0 Als het lot
 het zo bepaalt, zeg ik geen nee
 \0n\0\0\0\0(촀\0We zijn dus binnenkort buren!"
-"410","(
-촀\0Weet je,
+"410","(촀\0Weet je,
 \0 bij dit soort dingen kan het
 invloed hebben op welk moment je
 langskomt,

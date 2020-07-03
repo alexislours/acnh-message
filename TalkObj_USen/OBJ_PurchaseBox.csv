@@ -14,9 +14,6 @@ drop-off box?"
 "003_a","Yeah, let's sell!"
 "003_b","Let's see that again."
 "003_c","Some other time."
-"004","Hm, I think I'd get \0Z\0\0￿.
-\0
-Am I OK with that?"
 "004_a","(\0촀\0Sold!"
 "004_b","(\0촀\0Actually, I'll pass."
 "010","It says it's a ""drop-off box.""
@@ -25,11 +22,9 @@ I can drop off anything I want to sell."
 "010_a","Sell something."
 "010_b","How does this work?"
 "010_c","Nah, not now."
-"020","(
-촀\0Looks like I can't use this if my
+"020","(촀\0Looks like I can't use this if my
 Bank of Nook account is maxed out."
-"021","(
-촀\0Looks like I can't sell anything else
+"021","(촀\0Looks like I can't sell anything else
 this way at the moment."
 "101","\0How to use the drop-off box\0￿\0\0Drop off items to sell at any time!
 Just place your items inside the box.\0\0Payment will be deposited into your

@@ -38,7 +38,7 @@ per venire da noi a fare shopping?
 "013_c","L'articolo del giorno?"
 "013_d","('촀\0Torno un'altra volta."
 "014","(촂\0(촃\0Scusa, mi sono lasciato prendere
-la mano con le spiegazionin\0\0
+la zampa con le spiegazionin\0\0
 \0
 (촂\0(촃\0Come posso aiutarti?"
 "014_a","Vorrei vendere..."
@@ -60,9 +60,10 @@ la mano con le spiegazionin\0\0
 politica aziendale, la domenica non
 acquistiamo rape.
 (\0촂\0(\0촃\0Mi rincresce, 
-\0ma sono certo che comprenderai.
-(\0촂\0(\0촃\0Dunque, 
-\0(촂\0(촃\0cosa vuoi vendere?(촂\0(촃"
+\0ma sono certo che
+comprenderai. (\0촂\0(\0촃\0Dunque, 
+\0(촂\0(촃\0cosa vuoi
+vendere?(촂\0(촃"
 "024","(촂\0(촃\0Uhmn\0\0
 \0 Mi spiace tanto, man\0\0
 \0 siccome
@@ -111,8 +112,7 @@ sbarazzarmene gratuitamente."
 "038_b","Mi tengo la mia roba."
 "041","(촂\0(촃\0Quanti articoli interessanti!
 
-\0((
-촂\0(1촃\0Dammi solo un minuto,
+\0((촂\0(1촃\0Dammi solo un minuto,
 devo fare due conti velocin"
 "041_01","(촀\0Quanti articoli interessanti!
 \0
@@ -123,8 +123,7 @@ devo fare due conti velocin"
 \0(촀\0 No, niente! Ora faccio i contin"
 "041_02","(촂\0(촃\0Guarda che selezione raffinata di
 articoli!
-\0((
-촂\0(1촃\0 Vediamon\0\0
+\0((촂\0(1촃\0 Vediamon\0\0
 \0 Ci penso io alle
 addizionin\0\0
 \0dSiamo sempre felici di comprare
@@ -136,9 +135,10 @@ articoli del giornon\0\0\0d"
 da vero amico. Che ne dici?"
 "042_a","(%촀\0Affare fatto!"
 "042_b","('촀\0Ho cambiato idea."
-"043","(촂\0(촃\0Quante cosa interessn\0\0(촂\0(촃\0
+"043","(촂\0(촃\0Quante cose interessn\0\0(촂\0(촃\0
 \0 Eh?
-\0 (\0촂\0(\0촃\0Sbaglio o quello è uno schema di incredibile
+\0 (\0촂\0(\0촃\0Sbaglio
+o quello è uno schema di incredibile
 valore?
 \0(&촂\0(&촃\0 Sicur2oa di volerlo vendere?"
 "043_a","(%촀\0Sì, assolutamente."
@@ -150,8 +150,7 @@ valore?
 "044_02","(촂\0
 \0(촃\0Ricevuto!d\0 
 \0\0K...Ricevuto!\0dd
-\0( (
-촂\0(1촃\0Allora faccio i conti, considerando anche gli articoli del giornon"
+\0( (촂\0(1촃\0Allora faccio i conti, considerando anche gli articoli del giornon"
 "045","(촂\0(촃\0E fatto!\0\0(\0촂\0C'è una parte degli articoli che non
 posso pagarti. Però posso liberarmi
 di tutto ciò che non vuoi.
@@ -284,7 +283,8 @@ Costa Z\0.
 
 \0Vai a dare un'occhiata!"
 "104_01_03","(촂\0Il capo tiene (%촃\0un corso di \0fai da te
-\0￿gratuito proprio in questo momento al \0centro servizi\0￿. 
+\0￿gratuito proprio in questo momento
+al \0centro servizi\0￿. 
 \0(촃\0Corri a vedere!"
 "104_02","(촂\0Credo(%촃\0 che tu abbia già acquistato
 quest'articolo, (촃\0n\0!"
@@ -391,7 +391,7 @@ tua altezza, (촂\0o poco di più.\0\0(%촂\0(촃\0È uno di quegli st
 vorrebbe sempre avere a portata di
 zampa per la vita sull'isola!(촂\0d\0
 \0 \0KIsola!\0dd"
-"111","(촂\0(촃\0Grazie mille per il tuo acquis...
+"111","(촂\0(촃\0Grazie mille per il tuo acquis-
 ´\0\0\0(촂\0(촃\0Oh! 
 \0((촂\0(촃\0Sembra proprio che tu non abbia
 abbastanza stelline in tasca.\0\0()촂\0(7촃\0Il nostro negozio non fa credito,
@@ -428,9 +428,49 @@ il\0 doppio(%촃\0\0￿ del solito, 
 \0(%촃\0 è uno dei nostri articoli più richiesti! 
 \0(&촂\02""촀QuantiQuante\0 ne vuoi?"
 "131_a","2촀UnoUna\0. (\0Z\0 \0￿)"
-"131_b","Cinque. (\0Z
- \0￿)"
+"131_b","Cinque. (\0Z \0￿)"
 "131_c","Ho cambiato idea."
+"141_01","( 촂\0( 촃\0A-ha! 
+\0Pensavi di fare una nuotata?
+
+\0(%촂\0(\0촃\0Sìn\0\0 allora ti serve senza dubbio
+2\0}\0\0.\0\0(촂\0(촃\0E prima di andare in spiaggia,
+forse possiamo darti qualche dritta
+di balneazione!d\0
+\0 \0KBalneazione!\0dd"
+"141_02","(촂\0(\0촃\0Non ho consigli tecnici sullo stile
+da usare, purtroppo. 
+\0Ti spiego
+solo come entrare in acqua.\0\0()촂\0Innanzitutto, devi indossare
+una \0muta \0￿adatta, (%촃\0come 2""촀questoquesta\0
+}\0\0.
+(촂\0(촃\0Una volta che ti sei attrezzat2oa,
+premi \0 \0￿sulla spiaggia o sulle
+rocce vicine per saltare in acqua!\0\0()촂\0(\0촃\0Per nuotare, continua a premere \0\0￿.
+(촂\0Oh!
+\0 E se vedi un'ombra,
+\0(촃\0 premi \0 \0￿per
+immergerti e vedere di che si tratta.
+(촀\0(촃\0Chissà quali \0creature marine \0￿si
+celano negli abissi! 
+\0Magari riesci a
+riportarne qualcuna in superficien"
+"142","Bene, penso che sia
+\0(촂\0 tutto ciò che
+ti serve sapere!d\0
+\0 \0KSapere!\0dd\0\0(\0촂\0(\0촃\0Ora torniamo all'articolo in
+questione. Può essere tuo
+per Z\0.
+\0(&촂\0(&촃\0\0\0Vuoi acquistare 2""촀questoquesta\0
+}\0\0?"
+"142_a","(%촀\0Affare fatto!"
+"142_b","Puoi ripetere?"
+"142_c","('촀\0Ho cambiato idea."
+"143","(촂\0(촃\0Ma certo!
+\0 Ecco quello che devi
+tenere a mente se vuoi nuotare
+nell'oceano.d\0
+\0 \0KOceano.\0dd"
 "200","(촂\0(촃\0Grazie!d\0
 \0 \0KGrazie!\0dd(촂\0(촃\0
 Z"

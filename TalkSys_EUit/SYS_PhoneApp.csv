@@ -335,6 +335,9 @@ la sicurezza prima di tutto!"
 "
 "207","La connessione non è buona? Forse
 dovrei \0alzarmi \0￿e riprovare."
+"207_01","La connessione non è buona?
+Forse dovrei riprovare quando
+sono \0di nuovo sulla terraferma\0￿."
 "208",""
 "209","Sei \0fuori dalla zona di copertura\0￿.\0\0Puoi usare questa applicazione solo 2\0 n""\0 
 \0e solo quando sei all'aperto."
@@ -510,6 +513,8 @@ alberi nelle tue immediate vicinanze."
 \0e solo quando sei all'aperto."
 "301","Sembra che l'app della mappa
 non funzioni su quest'isola."
+"302","Sembra che l'app della mappa non
+funzioni mentre sto nuotando."
 "311","Mh? Dice che sono fuori dall'area
 di copertura. Immagino di non poter
 usare l'app qui."

@@ -12,8 +12,7 @@ gli abitanti dell'isola e tanto vale
 (촀\0cominciare con te, n\0.
 (6촀\0Quindin\0\0 posso farti qualche
 domanda?"
-"003","(
-촀\0Allora, vediamon"
+"003","(촀\0Allora, vediamon"
 "010_01","(9촀\0Mi pare che mi avessi detto che
 adori 2\0촀n\0\0\0\0(&촀\0È ancora così,
 \0 n\0?"
@@ -26,16 +25,14 @@ stessi di allora,
 "010_02_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_02_b","('촀\0No, non più."
-"010_03","(
-촀\0Una volta ricordo di averti chiesto
+"010_03","(촀\0Una volta ricordo di averti chiesto
 \0
 qual è il tuo lavoro dei sognin\0\0\0\0E tu mi hai risposto che è 촀. 
 \0(&촀\0È ancora così, n\0?"
 "010_03_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_03_b","('촀\0No, non più."
-"010_04","(
-촀\0Una volta mi hai detto che il tuo
+"010_04","(촀\0Una volta mi hai detto che il tuo
 hobby è 촀.
 
 \0(&촀\0Lo è ancora, n\0?"
@@ -50,34 +47,28 @@ hobby è 촀.
 "010_05_b","('촀\0No, non più."
 "010_101","(9촀\0Mi avevi detto che amavi, per
 riportare le tue parole precise,
-""
-촀⁠""n\0\0\0\0(&촀\0È ancora vero,
+""촀⁠""n\0\0\0\0(&촀\0È ancora vero,
 \0 n\0?"
 "010_101_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_101_b","('촀\0No, non più."
-"010_102","Ricordi quando, parlando di 촀, mi hai detto che adori, per citarti testualmenten\0\0\0\0Beh, ""⁠
-촀⁠"". Per caso i tuoi gusti sono ancora gli stessi di allora,
+"010_102","Ricordi quando, parlando di 촀, mi hai detto che adori, per citarti testualmenten\0\0\0\0Beh, ""⁠촀⁠"". Per caso i tuoi gusti sono ancora gli stessi di allora,
 \0 n\0?"
 "010_102_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_102_b","('촀\0No, non più."
-"010_103","(
-촀\0Una volta ricordo di averti chiesto
+"010_103","(촀\0Una volta ricordo di averti chiesto
 qual è il tuo sogno lavorativo
 \0 e tu
 mi hai risposton\0\0
-""
-촀"". 
+""촀"". 
 \0(&촀\0È ancora così, n\0?"
 "010_103_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_103_b","('촀\0No, non più."
-"010_104","(
-촀\0Ricordo che quando ti ho chiesto del
+"010_104","(촀\0Ricordo che quando ti ho chiesto del
 tuo hobby preferito mi hai risposto
-""
-촀"".
+""촀"".
 (&촀\0È ancora così, n\0?"
 "010_104_a","(%촀\0Assolutamente.
 (%촀\0Sì."
@@ -85,8 +76,7 @@ tuo hobby preferito mi hai risposto
 "010_105","(8촀\0Senti, quando ti ho chiesto qual è il
 tuo talento speciale, 
 \0mi hai risposto
-""
-촀""n\0\0\0\0(&촀\0È ancora così, n\0?"
+""촀""n\0\0\0\0(&촀\0È ancora così, n\0?"
 "010_105_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "010_105_b","('촀\0No, non più."
@@ -123,8 +113,9 @@ Sempre ammesso che mi importasse.
 che sei tipo un gurun\0\0\0\0(촀\0Non vorrei mai aver depistato tutti, n\0. Ma magari qualcuno sì. 
 \0(촀\0AHAHAH!"
 "011_101","(촀\0Lo sapevo, n\0!
-\0 ()촀\0È ciò che ho detto 2\0 n촀n\0\0\0\0(1촀\0Cioè che n\0 (che saresti tu) adora, parole testuali, ""⁠
-촀⁠""!\0\0(8촀\0Incredibilmente non ho detto una
+\0 ()촀\0È ciò che ho detto 2\0 n촀n\0\0\0\0(1촀\0Cioè che n\0 
+\0(che saresti tu)
+\0 adora, parole testuali, ""⁠촀⁠""!\0\0(8촀\0Incredibilmente non ho detto una
 sciocchezza, 
 \0(촀\0AHAHAH!"
 "011_102","(촀\0Ah meno male,
@@ -176,31 +167,26 @@ riguarda,
 "030_05_b","('촀\0No, non più."
 "030_101","È vero che
 \0 (&촀\0la tua passione è
-""
-촀""?"
+""촀""?"
 "030_101_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "030_101_b","('촀\0No, non più."
-"030_102","(&촀\0Eri tu che avevi detto che amavi alla follia ""
-촀""? 
+"030_102","(&촀\0Eri tu che avevi detto che amavi alla follia ""촀""? 
 \0È ancora così?"
 "030_102_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "030_102_b","('촀\0No, non più."
-"030_103","(&촀\0La risposta che mi hai già dato, ""⁠
-촀"", vale ancora?"
+"030_103","(&촀\0La risposta che mi hai già dato, ""⁠촀"", vale ancora?"
 "030_103_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "030_103_b","('촀\0No, non più."
-"030_104","Senti, n\0, (&촀\0la risposta alla domanda ""Qual è il tuo hobby?"" è ""⁠
-촀⁠"", no?"
+"030_104","Senti, n\0, (&촀\0la risposta alla domanda ""Qual è il tuo hobby?"" è ""⁠촀⁠"", no?"
 "030_104_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "030_104_b","('촀\0No, non più."
 "030_105","(&촀\0Quando si parla di talenti, la tua
 risposta sarebbe propriamente
-""
-촀"", no?"
+""촀"", no?"
 "030_105_a","(%촀\0Assolutamente.
 (%촀\0Sì."
 "030_105_b","('촀\0No, non più."
@@ -208,15 +194,13 @@ risposta sarebbe propriamente
 \0 n\0! Mai pensato di fare surf? 
 \0(촀\0AHAHAH!"
 "031_02","(촀\0Mitico!
-\0 (
-촀\0Allora devo ricordarmi di
+\0 (촀\0Allora devo ricordarmi di
 tenertene da parte quando mi capita.
 
 \0(촀\0È così che fanno i vicini, no?
 Così dicono, almeno. I vicini, i lontani
 non riesco a sentirlin\0\0 (촀\0AHAHAH!"
-"031_03","(
-촀\0Dev'essere molto motivante avere
+"031_03","(촀\0Dev'essere molto motivante avere
 un sogno lavorativo da realizzare,
 n\0...\0\0Beh, ((촀\0comunque sappi che io faccio
 il tifo per te.
@@ -232,19 +216,16 @@ in quello! (\0촀\0Quindi significa chen\0\0\0\0(촀\0Su quest'isola non
 tutti e due! Ci vediamo fuori a
 mezzogiorno! 
 \0(촀\0AHAHAH!"
-"031_101","(
-촀\0Anch'io, se dovessi scegliere, direi che 2""èè\0sonosono\0 2>quelloquella\0quelliquelle\0 2>il miola mia\0le miei miei\0 촀 2Vpreferitopreferita\0preferitipreferite\0.\0\0(6촀\0Tu e io abbiamo davvero gli stessi gusti, eh, 
+"031_101","(촀\0Anch'io, se dovessi scegliere, direi che 2""èè\0sonosono\0 2>quelloquella\0quelliquelle\0 2>il miola mia\0le miei miei\0 촀 2Vpreferitopreferita\0preferitipreferite\0.\0\0(6촀\0Tu e io abbiamo davvero gli stessi gusti, eh, 
 \0n\0? Oppure a te piace di più la vaniglia? 
 \0(촀\0AHAHAH!"
 "031_102","(촀\0Mitico!
-\0 (
-촀\0Allora te ne offro un po' la
+\0 (촀\0Allora te ne offro un po' la
 prossima volta che vieni da me.\0\0(촀\0Ma solo un po', eh. Va bene la
 generosità, ma non esageriamon\0\0
 
 \0(촀\0AHAHAH!"
-"031_103","(
-촀\0Tutti dovrebbero avere un sogno in
+"031_103","(촀\0Tutti dovrebbero avere un sogno in
 ambito professionale, n\0...\0\0((촀\0E sono certo che non solo tu lo
 realizzerai, 
 \0(촀\0ma diventerai anche
@@ -255,8 +236,7 @@ ore del tuo tempo. Sempre meglio
 che investire soldi. 
 \0(촀\0AHAHAH!"
 "031_105","(촀\0Mitico!
-\0( (5촀\0Proprio come me!\0\0(
-촀\0Mmmh, chissà chi è il migliore tra
+\0( (5촀\0Proprio come me!\0\0(촀\0Mmmh, chissà chi è il migliore tra
 noi due. Dovremmo fare una gara
 e scoprire chen\0\0 sono io. 
 \0(촀\0AHAHAH!"
@@ -267,8 +247,7 @@ tempo, mi piacerebbe 
 po' di tuoi consigli in materia."
 "032_02","(%촀\0Infatti ricordavo di ricordare bene,
 
-\0(촀\0AHAHAH!\0\0(
-촀\0Non posso dire lo stesso, ma sui gusti non si discute,
+\0(촀\0AHAHAH!\0\0(촀\0Non posso dire lo stesso, ma sui gusti non si discute,
 \0 n\0. A ognuno il suo, no?"
 "032_03","(촀\0Magari io non so come si faccia a 촀,
 \0 (촀\0ma sono sicuro che te la caverai alla grande!\0\0(촀\0Puoi fare qualsiasi cosa tu ti metta in
@@ -284,26 +263,21 @@ ossessioni, mi piace sentirmi vivo.
 pratica, magari apprendo per
 emulazione. 
 \0(촀\0AHAHAH!"
-"032_101","( 촀\0Ah, ""
-촀"",
+"032_101","( 촀\0Ah, ""촀"",
 \0 eh?
 \0 (촀\0Ora sono curioson\0\0\0\0(%촀\0Non è che mi dai qualche dritta,
 quando hai tempo? Basta che non
 sia storta. 
 \0(촀\0AHAHAH!"
-"032_102","(%촀\0Uhm, ""
-촀"".\0\0(
-촀\0È una cosa di cui non so niente,
+"032_102","(%촀\0Uhm, ""촀"".\0\0(촀\0È una cosa di cui non so niente,
 ma puoi parlarmene tu. 
 \0O farmela
 direttamente assaggiare. 
 \0(촀\0AHAHAH!"
-"032_103","(촀\0Ah sì, ""
-촀"". Io non saprei neanche da dove cominciaren\0\0\0\0(촀\0Ma immagino che tu sappia anche
+"032_103","(촀\0Ah sì, ""촀"". Io non saprei neanche da dove cominciaren\0\0\0\0(촀\0Ma immagino che tu sappia anche
 come finiren\0\0 
 \0(촀\0AHAHAH!"
-"032_104","(%촀\0Mh, ""
-촀"".\0\0Non fa per me, lo ammetto. 
+"032_104","(%촀\0Mh, ""촀"".\0\0Non fa per me, lo ammetto. 
 \0(촀\0Però
 io sono uno che non si tira indietro
 davanti a una sfida, quindin\0\0
@@ -312,8 +286,7 @@ davanti a una sfida, quindin\0\0
 un vero appassionato! O magari mi
 piacerà ancora meno. 
 \0(촀\0AHAHAH!"
-"032_105","(4촀\0Uhm, ""
-촀"". Devo dire che io sarei una frana in una cosa del genere.\0\0(촀\0Ma se mi aiuti, potresti evitare che
+"032_105","(4촀\0Uhm, ""촀"". Devo dire che io sarei una frana in una cosa del genere.\0\0(촀\0Ma se mi aiuti, potresti evitare che
 l'isola venga travolta. 
 \0(촀\0AHAHAH!"
 "040_01","(촀\0Senti, ma è vero quello che ho
@@ -401,8 +374,7 @@ sentirlo direttamente da te,
 me l'aspettavon"
 "051","(9촀\0Ferm2oa lì, fammi capire se ho sentito
 benen\0\0 Mi hai veramente risposto
-(&촀\0""
-촀""?"
+(&촀\0""촀""?"
 "051_a","Sì.
 Esatto."
 "051_b","No, non ci siamo...
@@ -435,28 +407,22 @@ punto forte è 촀!"
 "060_101","(촀\0Ehi, ma quindi avevo ragione!
 
 \0La tua risposta è effettivamente
-""
-촀""!"
+""촀""!"
 "060_102","(%촀\0Ah, capisco. 
 \0Quindi ami ancora
-""
-촀""!"
-"060_103","(
-촀\0Ah, quindi non hai cambiato idea.
+""촀""!"
+"060_103","(촀\0Ah, quindi non hai cambiato idea.
 
 \0(%촀\0Il tuo sogno lavorativo resta quello
 di priman\0\0\0\0Cioè, 
-\0""
-촀""!"
+\0""촀""!"
 "060_104","(촀\0OK, quindi il tuo hobby è quello
 che avevi detto prima, no? 
 \0(%촀\0Ossia
-""
-촀""!"
+""촀""!"
 "060_105","(%촀\0OK, quindi mi prendevi in giron\0\0
 Il tuo talento speciale è davvero
-""
-촀""!"
+""촀""!"
 "061","(%촀\0Sì beh, ho capiton\0\0 Insomma, non è
 cambiato niente rispetto a prima,
 n\0!
@@ -465,7 +431,7 @@ cambiato niente rispetto a prima,
 \0Apprezzo chi resta coerente e non
 segue le mode del momento.
 ()촀\0Anche perché di solito non hanno
-le gambe. 
+le zampe. 
 \0(촀\0AHAHAH!"
 "100_01","Che tipo di musica
 \0 (&촀\0ti piace ascoltare,
@@ -749,8 +715,7 @@ fare battute pessime, ovviamente.
 (9촀\0I dizionari sono fonti inesauribili di
 conoscenza, un po' sottovalutate dai
 più, n\0.
-(
-촀\0In effetti, esattamente come le mie
+(촀\0In effetti, esattamente come le mie
 battute. 
 \0(촀\0AHAHAH!"
 "103_03","(촀\0Ah, avrei dovuto immaginare che
@@ -765,8 +730,7 @@ un giorno si ribelleranno! 
 "103_04","(%촀\0Ah guarda, mi trovi completamente
 d'accordo!
 \0 (촀\0Io vado matto per i film
-gialli, n\0.\0\0(
-촀\0Anche se il mio colore preferito è
+gialli, n\0.\0\0(촀\0Anche se il mio colore preferito è
 il blun\0\0 Ma di film blu non ho mai
 sentito parlare. 
 \0(촀\0AHAHAH!\0\0(;촀\0Ad esempio, hai visto ""Lo scorbutico
@@ -779,8 +743,7 @@ tenermi informato!
 \0 (1촀\0Dal comodo
 divano di casa mia, poin\0\0
 ()촀\0Magari sorseggiando la mia bevanda
-preferita. È il massimo, n\0.\0\0(
-촀\0E c'è chi dice che l'ignoranza è un
+preferita. È il massimo, n\0.\0\0(촀\0E c'è chi dice che l'ignoranza è un
 benen\0\0 
 \0(촀\0AHAHAH!"
 "103_06","(촀\0Rugby, eh? Anche a me piace un
@@ -800,8 +763,7 @@ entrambe le squadre vanno insieme
 \0(%촀\0a bersi 2\0촀!"
 "103_07","(촀\0Semplice acqua per te, eh?
 \0 (%촀\0Mi
-piace: niente fronzoli e ti disseta.\0\0(
-촀\0Certo, il gusto lascia a desiderare.
+piace: niente fronzoli e ti disseta.\0\0(촀\0Certo, il gusto lascia a desiderare.
 Nel senso che non ce l'ha. 
 \0(촀\0AHAHAH!"
 "103_08","(촀\0Capperi, anch'io adoro il sushi!
@@ -812,14 +774,12 @@ paura in cui lo servono su un nastro?
 \0 (1촀\0Il sushi ti
 passa davanti e tu scegli quello che
 vuoi, n\0!
-(
-촀\0Praticamente è una sfilata di sushi
+(촀\0Praticamente è una sfilata di sushi
 in passerellan\0\0 
 \0(촀\0AHAHAH!"
 "103_09","(촀\0Il lungo braccio della legge, eh?
 
-\0(
-촀\0Uhm, sai una cosa?
+\0(촀\0Uhm, sai una cosa?
 \0 (촀\0Ti ci vedrei bene!\0\0(9촀\0Io guardo un sacco di polizieschi e
 ti puoi fidare se ti dico che 
 \0(5촀\0me ne
@@ -844,8 +804,7 @@ molto utile in casa, n\0.
 una lampadina in cucina 
 \0(촀\0ho finito per
 rompere il rubinetto!
-(
-촀\0Devo aver fatto un po' di confusione
+(촀\0Devo aver fatto un po' di confusione
 tra acqua corrente e corrente
 elettrican\0\0 (촀\0AHAHAH!"
 "104_01","(;촀\0Ah, il jazz! Non è il genere musicale
@@ -861,8 +820,7 @@ che piaccia anche a te,
 \0 n\0!"
 "104_02","(촀\0Pure a me piace leggere romanzi.
 \0
-(
-촀\0Anche se la maggior parte parla di
+(촀\0Anche se la maggior parte parla di
 spionaggio e agenti segreti.
 ()촀\0Sai, solite storie di piani segretissimi
 rubati da supercattivoni che vogliono
@@ -874,8 +832,7 @@ E ti credon\0\0 Hai mai visto un film in
 cui l'agente segreto non fa altro che
 giocare a scacchi? (촀\0AHAHAH!"
 "104_03","( 촀\0Fumetti storici, eh?
-\0 (
-촀\0Avrei dovuto
+\0 (촀\0Avrei dovuto
 immaginare che ti piacessero letture
 cervellotiche, n\0.\0\0(9촀\0Comunque sappi che
 \0 anche a me
@@ -912,7 +869,7 @@ strambi chen"
 "104_06","( 촀\0Judo, eh? Bella scelta.
 \0 ()촀\0In effetti le
 arti marziali insegnano un sacco di
-cose, oltre a menare le manin\0\0
+cose, oltre a menare le zampen\0\0
 (9촀\0Si impara la concentrazione e la
 disciplina, prima ancora di come
 affrontare l'avversario, 
@@ -920,8 +877,7 @@ affrontare l'avversario, 
 (1촀\0Ma la cosa che preferisco del judo
 \0 è
 che ti insegna innanzitutto a cadere!
-(촀\0E quello sì che è qualcosa di utilen\0\0\0\0(
-촀\0Chi lo sa quando ti capiterà di
+(촀\0E quello sì che è qualcosa di utilen\0\0\0\0(촀\0Chi lo sa quando ti capiterà di
 affrontare una buccia di banana
 per terra? 
 \0(촀\0AHAHAH!"
@@ -929,8 +885,7 @@ per terra? 
 \0 dell'odore
 del caffè appena fatto la mattina,
 n\0n\0\0
-(
-촀\0Mi piace così tanto che lo bevo
+(촀\0Mi piace così tanto che lo bevo
 anche se so che mi scotterà la
 lingua.
 (촀\0Insomma, ne pago lo scotto.
@@ -950,15 +905,13 @@ una bottiglia di vetro, se la friggin\0\0
 (촀\0AHAHAH!"
 "104_09","(6촀\0Ah, quindi vorresti fare l'2attoreattrice?
 \0
-(
-촀\0In effetti secondo me hai la faccia
+(촀\0In effetti secondo me hai la faccia
 giusta, n\0n\0\0
 (9촀\0Però quel mondo lì è il caos!
 \0 (촀\0D'un
 tratto sei una celebrità e un minuto
 dopo nessuno si ricorda più di ten\0\0
-(
-촀\0Quelli dello showbusiness devono
+(촀\0Quelli dello showbusiness devono
 essere tutti affetti da amnesia da
 pesce rosson\0\0 (촀\0AHAHAH!"
 "104_10","(%촀\0Leggere è utile e aiuta a espandere
@@ -1002,8 +955,7 @@ quanto sia magnifico questo genere!
 (9촀\0E il poter dire quello che vuoi a tutti
 a volume altissimo! E se non sono
 sordi lo diventano, 
-\0(촀\0AHAHAH!\0\0(
-촀\0Uhm, ma hai mai pensato alla vitaccia
+\0(촀\0AHAHAH!\0\0(촀\0Uhm, ma hai mai pensato alla vitaccia
 che fa una chitarra da heavy metal?
 E figurati la batteria!
 Non vorrei esseren\0\0 nei suoi piatti!
@@ -1022,8 +974,7 @@ nella tua libreria! 
 vera?
 \0 (촀\0Beh, io non ci trovo nulla di
 male, n\0!
-(
-촀\0In effetti alcuni non si stancano mai
+(촀\0In effetti alcuni non si stancano mai
 di informarsi sulle vite degli altrin\0\0 Li
 chiamano ""impiccioni"". 
 \0(촀\0AHAHAH!
@@ -1073,16 +1024,14 @@ l'ho praticato anch'io tempo fan\0\0
 \0 (4촀\0La boxe
 è uno sport che richiede un intenso
 esercizio fisico, n\0n\0\0
-(
-촀\0In effetti, ora più che il fisico da
+(촀\0In effetti, ora più che il fisico da
 pugile, ho il fisico da spettatore.
 
 \0(촀\0AHAHAH!"
 "105_07","( 촀\0Ah, la limonata, ma certo!
 \0 ()촀\0Anche a
 me è sempre piaciuta, 
-\0n\0!\0\0(
-촀\0Non so perché, forse deve esserci
+\0n\0!\0\0(촀\0Non so perché, forse deve esserci
 una certa affinità tra di noin\0\0 (6촀\0Sarà
 l'acidità. 
 \0(촀\0AHAHAH!"
@@ -1096,8 +1045,7 @@ Come me. 
 un'impresa!
 \0 (촀\0Certo che ne hai di
 fegato, n\0!
-(
-촀\0Uhm, forse se avessi il tuo coraggio
+(촀\0Uhm, forse se avessi il tuo coraggio
 e la tua determinazione,
 \0 anch'io
 andrei a nuotare con i pescicanin\0\0
@@ -1121,63 +1069,41 @@ che non mi è molton\0\0 amica.
 qualche tuo trucco magicon\0\0\0\0(1촀\0Basta che non fai sparire men\0\0
 
 \0(촀\0AHAHAH!"
-"106_01","( 촀\0Ah, ""
-촀"", dici? 
-\0(9촀\0È questo ciò che ti piace?\0\0(
-촀\0Forse qualche volta dovrei darcin\0\0
+"106_01","( 촀\0Ah, ""촀"", dici? 
+\0(9촀\0È questo ciò che ti piace?\0\0(촀\0Forse qualche volta dovrei darcin\0\0
 un'orecchiata. (촀\0AHAHAH! 
 \0(촀\0Chissà,
 magari finisce che mi piace anchen"
-"106_02","( 촀\0Ah, ""
-촀"".\0\0(
-촀\0Beh, se è quello il genere di cose che
+"106_02","( 촀\0Ah, ""촀"".\0\0(촀\0Beh, se è quello il genere di cose che
 ti piace leggere,
 \0 forse dovrei darci
 anch'io unan\0\0 lettata. (촀\0AHAHAH!"
-"106_03","( 촀\0Ah, ""
-촀""?\0\0(
-촀\0Se nella tua collezione hai qualcosa
+"106_03","( 촀\0Ah, ""촀""?\0\0(촀\0Se nella tua collezione hai qualcosa
 del genere, forse dovrei darci anch'io
 unan\0\0 fumettata. 
 \0(촀\0AHAHAH!"
-"106_04","( 촀\0Ah, ""
-촀"". 
-\0(
-촀\0Se tu guardi quel genere, 
+"106_04","( 촀\0Ah, ""촀"". 
+\0(촀\0Se tu guardi quel genere, 
 \0forse dovrei imitarti."
-"106_05","( 촀\0Mh, ""
-촀"". \0\0(
-촀\0Se è quello il genere di programmi
+"106_05","( 촀\0Mh, ""촀"". \0\0(촀\0Se è quello il genere di programmi
 che preferisci,
 \0 magari dovrei darci
 un'occhiata anch'io, n\0n"
-"106_06","( 촀\0Ah, ""
-촀"".\0\0(
-촀\0Beh, se ti piace quello sport, forse
+"106_06","( 촀\0Ah, ""촀"".\0\0(촀\0Beh, se ti piace quello sport, forse
 dovrei seguirlo anch'ion"
-"106_07","( 촀\0Ah, ""
-촀"".\0\0(
-촀\0Se è questo il genere di cose che ti
+"106_07","( 촀\0Ah, ""촀"".\0\0(촀\0Se è questo il genere di cose che ti
 piace,
 \0 forse dovrei provare anch'ion"
-"106_08","( 촀\0Mh, ""
-촀"". 
-\0(
-촀\0Forse dovrei provare anch'ion"
-"106_09","( 촀\0Ah, ""
-촀"". 
-\0(
-촀\0Io non saprei da dove cominciare, ma sicuramente tu faresti successo!"
-"106_10","( 촀\0Ah, ""
-촀"". 
-\0(
-촀\0Magari un giorno ci proverò anch'ion"
-"106_11","( 촀\0Ah, ""
-촀"". (&촀\0Me ne parlerai, un giorno? Potrebbe interessarmin\0\0 forse. 
+"106_08","( 촀\0Mh, ""촀"". 
+\0(촀\0Forse dovrei provare anch'ion"
+"106_09","( 촀\0Ah, ""촀"". 
+\0(촀\0Io non saprei da dove cominciare, ma sicuramente tu faresti successo!"
+"106_10","( 촀\0Ah, ""촀"". 
+\0(촀\0Magari un giorno ci proverò anch'ion"
+"106_11","( 촀\0Ah, ""촀"". (&촀\0Me ne parlerai, un giorno? Potrebbe interessarmin\0\0 forse. 
 \0(촀\0AHAHAH!"
 "107_01","(9촀\0Ah, cavoli.
-\0( (
-촀\0Beh, in effetti ci sono
+\0( (촀\0Beh, in effetti ci sono
 anche tante altre cose oltre alla
 musica, n\0n\0\0
 Tipo il cinguettio degli uccelli, il
@@ -1185,8 +1111,7 @@ canto dei grillin\0\0 (촀\0AHAHAH!\0\0(촀\0Dai scherzo,
 \0 è solo chen\0\0 ('촀\0non
 capisco come non si possa avere
 alcun interesse per la musica!
-(
-촀\0Cioèn\0\0 come fa uno a decidere come
+(촀\0Cioèn\0\0 come fa uno a decidere come
 sistemare i dischi
 \0 (촀\0se la musica non
 gli interessa affatto? 
@@ -1223,12 +1148,10 @@ Capito. 
 averne unon"
 "107_09","(9촀\0Ah, non hai un sogno lavorativo
 nel cassetto?\0\0Capito. 
-\0(
-촀\0Beh, se sei content2oa così,
+\0(촀\0Beh, se sei content2oa così,
 perché cambiare?"
 "107_10","(9촀\0Capisco. 
-\0(
-촀\0Beh, c'è tanta gente che
+\0(촀\0Beh, c'è tanta gente che
 non ha un hobby preferito. 
 \0Non c'è
 niente di male!"

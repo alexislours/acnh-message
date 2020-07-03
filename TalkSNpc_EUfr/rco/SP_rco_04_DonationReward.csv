@@ -32,8 +32,7 @@ de nouvelles espèces, hm ?"
 (%촀\0Nous avons là un superbe spécimen
 2
 de d'⁠}\0\0."
-"005_01","(
-촀\0Hmmn\0\0 Si cette île abrite
+"005_01","(촀\0Hmmn\0\0 Si cette île abrite
 2\0}\0\0n\0\0\0\0(촀\0Qui sait quelles autres créatures
 fantastiques elle recèle par ailleurs ?\0\0(촀\0Écoute, n\0, je viens d'avoir une idée !\0\0(촀\0J'ai un vieil ami conservateur de
 musée, et je suppute qu'il serait
@@ -85,14 +84,19 @@ chercheu2
 les détails sur les insectes et
 poissons que tu attrapes.
 \0(촀\0 Oui, oui !"
+"011_02_01","(촀\0Je t'ai envoyé l'appli \0Bébêtopédie\0￿,
+la meilleure amie des amat2eurs
+rices de
+bébêtes insulaires comme toi !\0\0(촀\0Grâce à elle, les insectes, poissons
+et créatures marines que tu attrapes
+n'auront aucun secret pour toi !"
 "011_03","(촀\0Continue à la remplir en multipliant
 les découvertesn\0\0 et en me les
 montrant, bien entendu !
 (촀\0Je ne serais guère étonné que
 cela te doive une récompense
 supplémentaire de ma part, hm ?"
-"012_01","(
-촀\0Tiens, au faitn\0\0
+"012_01","(촀\0Tiens, au faitn\0\0
 \0 (&촀\0Est-ce que tu as
 profité de mon établi de \0bricolage\0￿
 ces derniers temps ?"
@@ -118,8 +122,7 @@ allumer ton NookPhone, s'il te plaît ?"
 \0()촀\0 Tu sais
 que tu peux l'utiliser autant que
 tu le souhaites, hm ?
-(
-촀\0Peut-être as-tu seulement besoin
+(촀\0Peut-être as-tu seulement besoin
 de nouvelles idées de bricolagen\0\0
 (촀\0Allume ton NookPhone, s'il te plaîtn"
 "012_07","(촀\0Je t'ai envoyé quelques plans de
@@ -203,8 +206,7 @@ Je te l'avais bien dit !"
 \0(
 ('촀\0Malheureusement, je ne peux pas
 encore répondre précisément.
-(
-촀\0Mais j'ai d'ores et déjà reçun\0\0 voyons, voyonsn\0\0 cinq remarquables
+(촀\0Mais j'ai d'ores et déjà reçun\0\0 voyons, voyonsn\0\0 cinq remarquables
 spécimens !\0\0(1촀\0\0KHm, hmmn\0\0
 \0 Hm, hmmn\0\0\0d
 \0
@@ -224,8 +226,7 @@ jouer, n\0n"
 "015_08","(&촀\0Toi qui connais déjà les lieux comme
 ta poche, pourrais-tu trouver un
 emplacement pour \0Thibou\0￿ ?"
-"015_09","(
-촀\0Garde à l'esprit que nous y bâtirons
+"015_09","(촀\0Garde à l'esprit que nous y bâtirons
 un musée d'envergure mondialen\0\0
 Il faut donc un vaste terrain."
 "015_10","(""촀\0Ah, quelle joie de voir cet excitant

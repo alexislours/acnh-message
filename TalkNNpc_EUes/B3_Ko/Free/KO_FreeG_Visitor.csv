@@ -1,14 +1,12 @@
 ﻿"label","text"
-"001","(
-촀\0Quisiera plantearte una cuestión,
+"001","(촀\0Quisiera plantearte una cuestión,
 \0
 jovencit2oa.
 \0 (&촀\0¿Sabes qué fruta crece
 aquí en n\0?"
 "001_a","¡Pues claro!"
 "001_b","(\0촀\0No, ni idea"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(촀\0¿En serio?
 \0 ¿2B촀El celebérrimoLa celebérrima\0 n촀?
@@ -101,15 +99,12 @@ yo:
 un pescado antes que mirarlo,
 \0 pero
 el acuario del \0museo \0￿no está mal.
-(
-촀\0Hace poco vi un ejemplar curioson\0\0
+(촀\0Hace poco vi un ejemplar curioson\0\0
 \0
-(촀\02\02\0
-\0 (촀\0creo que era, n\0."
+(촀\02\02\0\0 (촀\0creo que era, n\0."
 "029","(&촀\0¿Has visto la colección de insectos
 que tienen en el \0museo\0￿?\0\0(%촀\0Parece que ahora les han donado
-2\0
-.\0\0(촀\0¿Te imaginas que un bicho así
+2\0.\0\0(촀\0¿Te imaginas que un bicho así
 tuviese nuestro tamaño?
 \0 (촀\0Vaya
 grima,
@@ -122,30 +117,26 @@ no dejes de visitar el \0museo\0￿.
 No,
 \0 no es que tengan una colección
 de viejetes,
-\0 sino de fósilesn\0\0 (
-촀\0Que para el caso es lo mismo.
+\0 sino de fósilesn\0\0 (촀\0Que para el caso es lo mismo.
 (%촀\0Total,
 \0 que tienen algunos ejemplares
 muy notables.
 \0 Mi favorito es
-2\0
-.
+2\0.
 (촀\0Pues sí,
 \0 ¡en comparación yo estoy
 hecho un chaval!"
 "031","(&촀\0¿Sabes qué cosa es un placer para
 la vista,
 \0 jovencit2oa?
-\0\0\0(촀\0Contemplar 22)촀el hermosola hermosa\0 
- que alberga este \0museo\0￿.\0\0(촀\0¿Qué?
+\0\0\0(촀\0Contemplar 22*촀el hermosola hermosa\0  que alberga este \0museo\0￿.\0\0(촀\0¿Qué?
 \0 ¿No me tenías por esteta?
 \0
 ¿Ni conocías la palabra «esteta»?
 \0
 (촀\0¡Ja, ja, ja!"
 "201","<\0ÊÍ"
-"202","(
-촀\0Permíteme una pregunta un tanto
+"202","(촀\0Permíteme una pregunta un tanto
 indiscreta.\0\0(&촀\0¿Qué te trae por n\0, el turismo o venir a charlar conmigo?"
 "202_a","(\0촀\0¡Quería verte!"
 "202_b","(\0촀\0Me gusta esta isla"
@@ -197,8 +188,7 @@ me lleva el viento y fluyen ríos de
 "208","(촀\0Ayn\0\0
 \0 Lo siento,
 \0 ¿he tocado algún
-tema delicado?\0\0(
-촀\0Tómate un descanso,
+tema delicado?\0\0(촀\0Tómate un descanso,
 \0 respira aire
 fresco,
 \0 búscate una aficiónn\0\0\0\0Como 촀,

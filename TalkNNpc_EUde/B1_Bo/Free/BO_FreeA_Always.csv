@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(
-촀\0Wie soll ich mein Nickerchen halten,
+"001","(촀\0Wie soll ich mein Nickerchen halten,
 wenn mir so viel Sachen durch den
 Kopf gehen?"
 "005","(4촀\0Gestern hatte ich den besten
@@ -17,8 +16,7 @@ wünsche ich mir 촀.
 Und zwar gleich eine Tonne davon!
 (""촀\0Wenn der Wunsch wirklich wahr wird,
 \0
-dann teile ich 2#촀dendiedas 2촁촀
-auch mit dir.(촀\0
+dann teil ich 2$촀dendiedas 2촁촀 auch mit dir.(촀\0
 \0 Versprochen!"
 "015","(4촀\0Ich wünsche mir nichts mehr,
 als öfter mit 2T(meinem allerliebsten(meiner allerliebsten
@@ -52,6 +50,11 @@ Und Flugzeuge sind eh toll!"
 \0
 Fingerfarben, 
 \0Zuckerguss..."
+"022","(촀\0Huhu!
+\0 Rate mal,
+\0 womit ich mir
+neuerdings total gern die Zeit
+vertreibe!"
 "031","<"
 "031_01","(%촀\0Am stolzesten bin ich daraufn\0\0(\0촀\0
 \0
@@ -72,7 +75,7 @@ oder?
 nicht, 
 \0wie ich das mache! 
 \0Ich hatte
-heute gar 2(ğ촀keinen
+heute gar 2(Ġ촀keinen
 keinekein 2촁촁!(\0촀\0\0\0(촀\0Das ist meine geheime Superkraft!"
 "031_02","()촀\0Du, 
 \0es gibt da ein ganz komisches
@@ -133,7 +136,7 @@ Lieblingsessen, 
 \0aber es hängt mir
 so langsam zum Hals raus...
 (:촀\0Was, 
-\0wenn ich 2촀ihnsiees einfach nicht mehr
+\0wenn ich 2 촀ihnsiees einfach nicht mehr
 essen kann! 
 \0((촀\0Das wär schrecklich!"
 "101_02","(촀\0Ich meine...
@@ -279,3 +282,30 @@ lang drauf sitzt.
 (촀\0Am blödsten ist aber, dass man
 keine Luft kriegt, wenn man
 sie sich in die Nase steckt."
+"105","<"
+"105_01","(촀\0Mit Singen!
+\0 Ich stell mich einfach
+irgendwohin und dann gibt's
+2촁촀 a capella für alle!\0\0()촀\0Wusstest du,
+\0 dass Singen nichts
+kostet?!
+\0 Man muss nur den Mund
+aufmachen
+\0 und los geht's!\0\0(촀\0Aber auch nicht zu weit...
+\0 Gestern
+erst ist mir ein riesiger Käfer in den
+offenen Mund geflogenn"
+"105_02","(촀\0Ich laufe rum wie ein Flugzeug!
+\02
+(촀\0Es fühlt sich so toll an,
+\0 wenn der
+Wind an meinem Gesicht vorbeiflitzt!\0\0(촀\0Und wenn ich müde bin,
+\0 lande ich
+einfach im Gras,
+\0 mach die Augen zu
+\0
+(.촀\0und flieg in meinen Träumen weitern"
+"105_03","(촀\0Ich schnabulier 2촁촀,
+\0
+während ich ziellos herumstolziere!\0\0()촀\0Früher hab ich ja 2촁촁 gefuttert und bin dabei im Kreis gelaufen,
+\0 aber die Zeiten sind vorbei."

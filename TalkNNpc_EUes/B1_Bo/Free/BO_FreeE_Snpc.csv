@@ -46,10 +46,10 @@ al norte de la isla.
 \0 ¿Ha venido
 alguien de visita?
 (1촀\0Debe de ser todo un aventurero
-si tiene su propio barco.
-\0 (4촀\0A mí me
-encantaría tener unon\0\0
-(7촀\0¿Crees que me lo prestaría un rato
+si tiene su propia embarcación.
+\0
+(4촀\0A mí me encantaría tener unan\0\0
+(7촀\0¿Crees que me lo prestará un rato
 para dar una vuelta, n\0?"
 "009","(촀\0Hoy tengo una extraña sensaciónn\0\0
 \0
@@ -136,6 +136,14 @@ En fin,
 \0 que si quieres ver qué flores
 tienen\0\0
 \0 (촀\0Pues eso, n\0."
+"021","(촀\0¡Hay alguien durmiendo en la playa!
+\0
+¡Y no soy yo!
+\0 (촀\0¡Alguien me está
+usurpando!
+(촀\0Y el caso es que su cara me suenan\0\0
+\0
+(&촀\0¿Igual está usurpando a otro, n\0?"
 "100","(;촀\0Acabo de encontrarme con alguien
 que no conozcon\0\0\0\0(7촀\0¡Así que me entró un poco de miedo
 y me escondí!\0\0(4촀\0¿No te importaría ir a comprobar

@@ -53,12 +53,10 @@ nutrienti per il tuo conto in banca!
 ha fatto una capa tanta con le rape,
 ma io non posso dirle basta."
 "007","(촀\0Bene!
-\0 (
-촀\0Dov'ero rimastan\0\0\0\0(촀\0Ah sì! 
+\0 (촀\0Dov'ero rimastan\0\0\0\0(촀\0Ah sì! 
 \0Se comperi le nostre rape, lo
 scopo sta nel rivenderle a un prezzo
-maggiore di quanto le hai pagate!\0\0(
-촀\0La nonna mi dice sempre ""usa la
+maggiore di quanto le hai pagate!\0\0(촀\0La nonna mi dice sempre ""usa la
 crapa, vendi la rapa""... e poi ride.
 \0
 ('촀\0Io non ho capito che vuol dire.
@@ -127,8 +125,7 @@ Vengono Z\0 l'una. 
 "014_b","Spiegami meglio."
 "014_c","('촀\0No, grazie."
 "015","(촀\02<Bravo, signoreBrava, signora! 
-\0(
-촀\0Quante gliene metto? 
+\0(촀\0Quante gliene metto? 
 \0()촀\0Vengono solo Z\0
 l'una, ma le vendo a mazzi di 10."
 "016","(촀\020Signore mioSignora mia, 
@@ -140,8 +137,7 @@ quando hai fatto spazio."
 che ti perdi!
 \0 Tanto sono qui tutte
 le domeniche."
-"018","(
-촀\0Allora... Z fanno in tutton\0\0 Z. 
+"018","(촀\0Allora... Z fanno in tutton\0\0 Z. 
 \0((&촀\0Ho contato
 giusto?"
 "018_a","(%촀\0Le compro."
@@ -178,13 +174,11 @@ parte della gente, invece di
 mangiarle...
 \0
 (촀\0... se le rivende!"
-"031","()촀\0Qui 2\0 n!\0, \0Mirco \0￿è sempre contento di comprarti le rape.
-(촀\0E il prezzo cambia ogni giorno!
+"031","()촀\0Qui 2\0 n!\0, \0Mirco \0￿è sempre contento di comprarti le rape.\0\0(촀\0E il prezzo cambia ogni giorno!
 \0
 (%촀\0A volta valgono un sacco di
 spiccioli, a volte non valgono niente.
-(
-촀\0Se le compri a poco e le rivendi a
+(촀\0Se le compri a poco e le rivendi a
 tanto, 
 \0(촀\0ci puoi guadagnare un sacco
 di stelline!
@@ -202,7 +196,8 @@ e non le puoi più rivendere."
 \0
 Nonna s'arrabbia se non dico il nome
 preciso...
-(6촀\0Si chiama la \0borsa delle rape della vecchia Nella\0￿. 
+(6촀\0Si chiama la \0borsa delle rape della
+vecchia Nella\0￿. 
 \0Secondo lei è tanto
 caruccio. 
 \0(촀\0Eheheheh!\0\0(%촀\0Comunque 28signore bellosignora bella, mi trovi

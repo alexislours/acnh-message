@@ -5,8 +5,7 @@ partecipare a una caccia al tesoro
 con me?"
 "001_a","Certamente!"
 "001_b","Facciamo più tardi."
-"002","(
-촀\0Ti stai annoiando? 
+"002","(촀\0Ti stai annoiando? 
 \0Io tantissimo.
 Ho già riletto tutti i miei fumetti
 due volte...\0\0(촀\0Che ne dici di una caccia al tesoro?"
@@ -113,7 +112,8 @@ dentro!
 <\0\0\0()촀\0Se trovi il tesoro che ho sepolto
 
 \0prima che scada il tempo,
-\0 (촀\0vinci! Tutto qui! Queste sono le regole!
+\0 (촀\0vinci!
+Tutto qui! Queste sono le regole!
 Z\0\0\0(%촀\0Oh. C'è anche la regola che il
 tesoro si trova sottoterra,
 \0 quindi
@@ -175,8 +175,7 @@ basta, OK?
 \0(촀\0Che ne dici di una caccia la tesoro?"
 "101_a","Ottima idea!"
 "101_b","Ora non posso..."
-"102","(
-촀\0Sto cercando 
+"102","(촀\0Sto cercando 
 \0di decidere a cosa
 giocare adesson\0\0\0\0(촀\0Ehi, 
 \0n\0?

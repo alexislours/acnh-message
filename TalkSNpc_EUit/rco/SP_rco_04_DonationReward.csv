@@ -32,8 +32,7 @@ nuovo, vieni a farmelo vedere, sì?"
 "004","(촀\0Oh, bel colpo! 
 \0(%촀\0Dovrebbe essere
 2\0}\0\0."
-"005_01","(
-촀\0Mmmhn\0\0 Se su quest'isola vive
+"005_01","(촀\0Mmmhn\0\0 Se su quest'isola vive
 2\0}\0\0n\0\0\0\0(촀\0Chissà quante altre creature
 eccezionali ci sono ancora da
 scoprire!\0\0(촀\0Ehi, n\0, mi è venuta un'idea.\0\0(촀\0Un mio vecchio amico lavora in
@@ -78,14 +77,20 @@ risorsa eccezionale per 24un aspiranteun'aspirante
 tutti i dettagli più importanti sugli
 insetti e sui pesci che catturi.
 \0 Sì, sì!"
+"011_02_01","(촀\0Si chiama \0Enciclopedia\0￿ ed è una
+risorsa eccezionale per 24un aspiranteun'aspirante
+22ricercatorericercatrice come te!
+(촀\0Avrai tutti i dettagli più importanti
+sugli insetti, sui pesci e sulle
+creature marine che catturi.
+\0 Sì, sì!"
 "011_03","(촀\0Mi auguro che continuerai a
 riempirla con nuove scoperte e
 che le condividerai anche con me!
 (촀\0Sono sicuro che troveremo il modo
 di aggiungere anche qualche
 ricompensa extra!"
-"012_01","(
-촀\0Oh, a propositon\0\0
+"012_01","(촀\0Oh, a propositon\0\0
 \0 (&촀\0Hai già avuto modo
 di usare il mio banco da lavoro per
 qualche progetto \0fai da te\0￿?"
@@ -109,8 +114,7 @@ per favore?"
 \0(()촀\0Sai che puoi usarlo
 liberamente in qualsiasi momento,
 vero?
-(
-촀\0Forse potrebbero farti comodo delle
+(촀\0Forse potrebbero farti comodo delle
 nuove idee per il fai da te. 
 \0(&촀\0Ti dispiace
 accendere il telefono?"
@@ -188,8 +192,7 @@ anticipato!"
 "015_04","(1촀\0\0KMmmhn\0\0
 <\0\0d\0\0(&촀\0Il numero preciso di esemplari?
 \0(
-('촀\0Non saprei, aspetta che controllon\0\0\0\0(
-촀\0Vediamon\0\0 al momenton\0\0 ne ho
+('촀\0Non saprei, aspetta che controllon\0\0\0\0(촀\0Vediamon\0\0 al momenton\0\0 ne ho
 cinque!\0\0(1촀\0\0KMmmhn\0\0
 \0 Mmmhn\0\0\0d
 \0
@@ -212,8 +215,7 @@ comodo, n\0n"
 "015_08","(&촀\0Visto che hai esplorato già così tanto
 l'isola, potresti trovare un posto per
 \0Blatero\0￿?"
-"015_09","(
-촀\0Ci serve uno spazio bello grande per
+"015_09","(촀\0Ci serve uno spazio bello grande per
 costruire un museo di dimensioni
 adeguaten\0\0 tienilo a mente!"
 "015_10","(""촀\0È così emozionante! 

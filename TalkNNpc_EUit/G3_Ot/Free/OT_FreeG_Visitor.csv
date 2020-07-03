@@ -5,8 +5,7 @@ in visita.
 la frutta di n!\0!"
 "001_a","Già fatto, grazie."
 "001_b","(&촀\0Che vuoi dire?"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(""촀\0Mi piace il tuo spirito avventuroso!
 \0
@@ -87,23 +86,19 @@ diverso:
 di farci un salto, n\0."
 "028","(""촀\0Ti consiglio di fare un giro al \0museo
 \0￿dell'isola!\0\0(%촀\0In particolare,
-\0 non puoi perderti 2\0
-\0! 
+\0 non puoi perderti 2\0\0! 
 \0(촀\0Rimarrai a bocca aperta!"
 "029","($촀\0Hai visto il \0museo\0￿ della nostra isola?
 
 \0((촀\0Se hai tempo,
-\0 ti consiglio di visitarlo.\0\0(\0촀\02\02\0
- tra gli insetti esposti (촀\0è il mio preferito, n\0!(촀"
-"030","(촀\02\02\0
-
-\0 nel \0museo\0￿ della nostra isola (촀\0è davvero 2.)촀magnificomagnifica\0!\0\0(\0촀\0Per me
+\0 ti consiglio di visitarlo.\0\0(\0촀\02\02\0 tra gli insetti esposti (촀\0è il mio preferito, n\0!(촀"
+"030","(촀\02\02\0
+\0 nel \0museo\0￿ della nostra isola (촀\0è davvero 2.*촀magnificomagnifica\0!\0\0(\0촀\0Per me
 \0 i fossili hanno un fascino
 misterioso. 
 \0(%촀\0C'è molto da imparare
 anche solo osservandoli."
-"031","(촀\0Tesoro, sapevi che 2\0
- è in esposizione al \0museo\0￿?\0\0Se non l'hai ancora vist2)촀oa\0, (%촀\0dovresti
+"031","(촀\0Tesoro, sapevi che 2\0 è in esposizione al \0museo\0￿?\0\0Se non l'hai ancora vist2*촀oa\0, (%촀\0dovresti
 proprio.
 \0((촀\0 È qualcosa di assolutamente
 straordinario, n\0."

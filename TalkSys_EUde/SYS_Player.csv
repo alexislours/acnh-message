@@ -41,6 +41,10 @@ tragen!
 Platz in meiner Tasche!
 \0
  Schade..."
+"008","Aber leider habe ich dafür keinen
+Platz in meiner Tasche!
+\0
+ Schade..."
 "011","Meine Tasche ist voll, 
 \0also sollte
 ich das wohl lieber nicht pflücken."
@@ -346,25 +350,21 @@ MeineMein \0}\0\0\0￿ hat wohl ausgedient!"
 \0\0}\0\0\0￿!"
 "290_03","Oh!
 \0 Von 2.촀meinemmeinermeinem \02촂}\0\0\0￿ muss ich mich hiermit wohl verabschieden."
-"505","(
-촀\0Diesen Reifen könnte man noch
+"505","(촀\0Diesen Reifen könnte man noch
 verwertenn\0\0
 \0 (촀\0Oh, 
 \0das ist DIE Idee für
 eine neue \0Bastelanleitung\0￿!"
-"506","(
-촀\0Aus dieser Dose könnte man noch
+"506","(촀\0Aus dieser Dose könnte man noch
 etwas machenn\0\0
 \0 (촀\0Das ist DIE Idee für
 eine neue \0Bastelanleitung\0￿!"
-"507","(
-촀\0Diesen Stiefel könnte man noch
+"507","(촀\0Diesen Stiefel könnte man noch
 verwertenn\0\0
 \0 (촀\0He, 
 \0das ist DIE Idee für
 eine neue \0Bastelanleitung\0￿!"
-"508","(
-촀\0Diese Teppichmuschel könnte man
+"508","(촀\0Diese Teppichmuschel könnte man
 als Köder verwendenn\0\0
 \0 (촀\0Das ist DIE
 Idee für eine neue \0Bastelanleitung\0￿!"
@@ -372,8 +372,7 @@ Idee für eine neue \0Bastelanleitung\0￿!"
 -"
 "509_01","Ich weiß jetzt, wie man 2""촀
 eineneineein 2촁}\0\0 herstellt!"
-"511","(
-촀\0Ja, 
+"511","(촀\0Ja, 
 \0so könnte das klappenn\0\0
 \0 (촀\0Mir ist
 eine \0Bastelanleitung\0￿ für eine \0Falle\0￿
@@ -382,26 +381,22 @@ eingefallen!"
 \0 Aus heiterem Himmel
 ist mir eine \0Bastelanleitung\0￿
 für eine \0Goldaxt \0￿eingefallen!"
-"513","(
-촀\0Hätte ich einen zweiten Stiefel,
+"513","(촀\0Hätte ich einen zweiten Stiefel,
 
 \0könnte ich sie tragenn\0\0
 \0 (촀\0Das ist DIE
 Idee für eine neue \0Bastelanleitung\0￿!"
-"514","(
-촀\0Ich hab schon eine Menge Müll
+"514","(촀\0Ich hab schon eine Menge Müll
 geangeltn\0\0
 \0 (촀\0Moment mal, 
 \0das ist DIE
 Idee für eine neue \0Bastelanleitung\0￿!"
-"515","(
-촀\0So ein Eier-Design wäre doch nicht
+"515","(촀\0So ein Eier-Design wäre doch nicht
 schlechtn\0\0
 \0 (촀\0Ooooh, 
 \0das ist DIE
 Idee für neue \0Bastelanleitungen\0￿!"
-"518","(
-촀\0Was ich schon alles für Anleitungen
+"518","(촀\0Was ich schon alles für Anleitungen
 für Eierschalen kennen\0\0
 \0 (촀\0Oh, 
 \0da fällt

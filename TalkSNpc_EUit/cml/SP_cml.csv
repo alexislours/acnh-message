@@ -248,13 +248,15 @@ che hai comprato tappeto medio
 allora (""촀\0ti do due coupon."
 "056","(촀\0Ecchi a te 
 \0i \0coupon\0￿ bonus.
-\0( (%촀\0Siccome che hai comprato tappeto piccolo
+\0( (%촀\0Siccome
+che hai comprato tappeto piccolo
 \0
 allora (""촀\0ti do un coupon."
 "057","(촀\0Grande problema!
 \0 (촀\0Le tue tasche
 contengono troppi, troppi bonus già!\0\0(\0촀\0Devi fare spazio nel tuo cuore per
-bonus.(촀\0 Parlami di nuovo quando le tue tasche conterranno più vuotezza."
+bonus.(촀\0 Parlami di nuovo quando le
+tue tasche conterranno più vuotezza."
 "060","(촀\0Oh-oh!
 \0 Z\0\0 \0coupon\0￿ hai raccolto!\0\0(촀\0E adesso desideri tu avere
 \0 una
@@ -310,10 +312,10 @@ per farli belli così."
 "067","E allora, 
 \0Z\0\0 \0coupon\0￿ prenderò."
 "068","<"
-"068_01","(1촀\0I tuoi occhi saranno grandi come il
-grande deserto
-\0 e il tuo cuore batterà
-forte
+"068_01","(1촀\0I tuoi occhi saranno grandi come
+il grande deserto
+\0 e il tuo cuore
+batterà forte
 \0(촀\0 quando vedrai."
 "068_02","(1촀\0Vorrai ancora di più, sì.
 \0 Una cosa
@@ -323,5 +325,50 @@ un'altra."
 "068_03","(1촀\0Vorrai vedere \0Sahara \0￿ancora, sì.
 \0
 Decorare casa con le mie cose
-\0(촀\0 ti farà
-desiderare ancora più mistero."
+\0(촀\0 ti
+farà desiderare ancora più mistero."
+"070","(&촀\0Ora il portamonete tuo è contento
+
+\0o vuoi fare di più acquisti, sì?"
+"070_a","Un tappeto."
+"070_b","Carta misteriosa."
+"070_c","Pavimento misterioso."
+"070_d","Sono a posto, grazie."
+"071","(&촀\0Ora il portamonete tuo è contento
+
+\0o vuoi fare di più acquisti, sì?"
+"071_a","Un tappeto."
+"071_b","Carta misteriosa."
+"071_c","Pavimento misterioso."
+"071_d","Scambio i coupon!"
+"071_e","Sono a posto, grazie."
+"072","(촀\0Farò visita ancora. 
+\0Che i nostri
+portamonete può trovare pace
+e armonia in futuro."
+"100","(촀\0Ciao. 
+\0Io mi chiamo \0Sahara\0￿, perché
+questo è il nome che porto da
+quando porto in giro tappeti.
+(%촀\0Porto questi tappeti dalla casa mia,
+\0
+che è molto lontana,
+\0 per aiutarti ad
+abbellire casa tua,
+\0 che è vicina.
+(9촀\0Ho tappeti piccoli, 
+\0tappeti grandi,
+
+\0e tappeti di tutte le altre misure.
+\0
+Scoprirai aspetto dopo acquisto.
+()촀\0Ah, ho anche misteriosi pavimenti e
+carte da parati.
+\0 Tanta sorpresa avrai
+nel vedere loro! 
+\0(&촀\0Cosa vuoi comprare?"
+"100_a","Un tappeto."
+"100_b","Carta misteriosa."
+"100_c","Pavimento misterioso."
+"100_d","Scambio i coupon!"
+"100_e","Sono a posto, grazie."

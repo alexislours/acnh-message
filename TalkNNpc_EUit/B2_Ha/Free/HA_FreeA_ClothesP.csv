@@ -78,17 +78,14 @@ i deltoidi!
 disegnarmi una bella maglietta
 a tema muscoloso, prima o poi."
 "008","(\0촀\0Per tutti i deltoidi, che stile che hai!\0\0(촀\0Come? 
-\0(È s\0촂 che ha creato ciò che indossi? (
-촀\0Non pensavo fosse così 2Ȏ촀
+\0(È s\0촂 che ha creato ciò che indossi? (촀\0Non pensavo fosse così 2Ȏ촀
 bravo
 brava\0!\0\0(촀\0Immagino sia proprio il caso di dire
 che spesso le apparenze ingannano,
 n\0."
 "009","(촀\0Uau, che stile da olimpiadi!
 \0 Da dove
-salta fuori quel capo?\0\0(
-촀\0Ah, è stato ideato da s\0촂 di s촀?\0\0(
-촀\0Però, 
+salta fuori quel capo?\0\0(촀\0Ah, è stato ideato da s\0촂 di s촀?\0\0(촀\0Però, 
 \0hanno un buon gusto
 allenatissimo da quelle parti."
 "010","(촀\0Oh, n\0n\0\0 Vedo che oggi hai deciso di indossare 2\0}촀.\0\0(촀\0Ma ti consiglio di fare attenzionen\0\0
@@ -104,7 +101,8 @@ in piena estate, n\0!"
 \0Ormai l'autunno è alle porten"
 "013","(촀\0Ehilà, n\0. Devo farti i miei complimenti per 2.촀quel tuoquella tua\0 }촀.\0\0(촀\0Ma occhio, 
 \0è difficile muoversi
-bene con tutta quell'armatura addosso, n\0!"
+bene con tutta quell'armatura
+addosso, n\0!"
 "014","(&촀\0Ma non senti caldo con tutta quella
 roba invernale addosso?\0\0(촀\0O stai per caso cercando di bruciare
 un po' di calorie?\0\0(촀\0Ahahah, è questo lo spirito giusto!
@@ -159,5 +157,101 @@ odore, non trovi?"
 (촀\0Fai bene!
 \0(촀\0 E comunque il tuo stile
 inizia proprio a piacermi."
-"101_05","(%촀\0Immagino che tutti tendiamo a indossare più spesso i nostri capi
+"101_05","(%촀\0Immagino che tutti tendiamo a
+indossare più spesso i nostri capi
 preferiti. Mi sembra logico!"
+"201","<ﬀﰀ촀"
+"202","(촀\0Uau, 
+\0avverto potenti vibrazioni da
+caccia all'uovo provenire 2*촀dal tuodalla tua\0
+}\0\0.\0\0(1촀\0Dovrei provare a correre la maratona
+vestito cosìn\0\0\0\0(촀\0Dici che esiste già un record
+del mondo per una roba simile,
+n\0?"
+"203","( 촀\0Per tutti i deltoidi, 
+\0guarda lì come
+sei vestit2oa di tutto punto, 
+\0(6촀\0con 2촀quelquella\0
+tu2촀oa\0 }\0\0!\0\0(촀\0L'unico problema è che non va
+affatto bene per fare 촀.\0\0('촀\0Credimi, io ci ho provato,
+n\0."
+"204","(촀\0No.
+\0 Non può essere.
+\0 (&촀\0Sei tu, n\0? 
+\0(Non saprei, dat2촀oa\0 2""촀il tuola tua\0 }\0\0.\0\0(촀\0Aspettan\0\0 se mangiare frutta e
+verdura fa bene, 
+\0((촀\0forse fa bene anche
+indossarle. 
+\0(&촀\0Mi nascondi qualcosa?"
+"251","( 촀\0Per tutti i deltoidi! 
+\0(&촀\0Sono io
+\0 o anche
+tu sein\0\0 me?\0\0()촀\0Quello che voglio dire è chen\0\0
+ci assomigliamo sempre di più
+noi due, n\0!\0\0(6촀\0Beh, 
+\0dopotutto ""grandi bicipiti
+pompano allo stesso modo"", dico
+bene?
+(%촀\0Sono felice che tu sia 2il miola mia più
+grande rivale, 
+\0n\0."
+"252","(촀\0Hai un aspetto diverso oggin\0\0
+Mi sembri più sinuos2oa, 
+\0agile
+en\0\0 coccolos2oa, n\0!\0\0(%촀\0Beh, sei comunque sempre al tuo
+meglio, 
+\0lascia che te lo dica."
+"301","(촀\0Che look mitico!
+\0 (촀\0Sembri 2ununa ver2oa
+maestr2oa di arti marziali con 2촀quelquella\0
+tu2촀oa\0 }\0\0!\0\0
+\0(!촀\0
+\0
+
+\0\0UATTAAAH!\0d
+\0(\0촀\0
+	\0\0\0(2촀\0Scusa, 
+\0mi sono calato troppo nella
+parte, n\0.\0\0(6촀\0E meno male che non mi è partito
+un calcio volante!"
+"302","(촀\0Uuuh, 
+\0quella roba che indossi è
+davvero forzutissima! 
+\0Intendo 2촀illa\0
+tu2촀oa\0 }\0\0.\0\0(촀\0Sembri 2:un supereroeuna supereroinan\0\0 pront2oa
+a entrare in azione da un momento
+all'altro, n\0!"
+"303","(촀\0Uau! 
+\0Ma che ti è successo? 
+\0(촀\0I tuoi
+muscoli sono fuori scala, 
+\0sei forzut2oa
+dalla A alla Z!\0\0(촀\0Aspetta un attimon\0\0 Indossi una
+specie di costume per far risaltare
+al massimo la muscolatura.
+(촀\02\02\0}\0\0!\0\0(5촀\0Non male, 
+\0ma se vuoi scolpire
+davvero i tuoi muscoli, 
+\0ti insegno
+io il metodo n
+\0!"
+"401","<"
+"401_01","( 촀\0Mi sembra di aver già visto quel
+completo.
+\0(%촀\0 Ed è grandioso proprio
+come la prima volta, n\0.\0\0(촀\0D'altronde, se qualcosa sta bene,
+perché cambiarla?
+\0 È un po' come
+per i miei pesin\0\0
+(5촀\0Ce li ho da quando ero un cucciolo
+e non smetterò mai di usarli!"
+"401_02","( 촀\0Ma guardati. 
+\0Stai imitando in tutto
+e per tutto n\0, eh?\0\0(촀\0Ah, giusto. 
+\0Tu sei n\0, n\0!"
+"401_03","(&촀\0Hai già indossato quel completo
+o mi sbaglio?\0\0(촀\0Beh, è forzutissimo!
+\0 Nemmeno io
+cambierei una virgola.\0\0(5촀\0È uno stile che si adatta veramente
+bene ai tuoi possenti muscoli, car2oa
+n\0!"

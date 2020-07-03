@@ -33,8 +33,7 @@ but I couldn't just pack up and move.
 (촀\0I've got books lent out to neighbors!"
 "201_01","(촀\0It makes me so happy to hear you
 say that!
-\0 (
-촀\0But I'm not sure how to
+\0 (촀\0But I'm not sure how to
 make such a big decision
 \0n\0\0
 (촀\0I know!
@@ -100,8 +99,7 @@ a card-game battle!"
 \0 (%촀\0I'll take it
 as a sign that I shouldn't move."
 "205","<"
-"205_01","(
-촀\0Maybe this was meant to be
+"205_01","(촀\0Maybe this was meant to be
 \0n\0\0
 Well,
 \0 (""촀\0thanks for playing along."
@@ -117,16 +115,14 @@ playing this with you,
 "206_01","(촀\0So you won!
 \0 (\0촀\0Which means
 \0n\0\0
-(!촀\0we're going to be neighbors!\0\0(
-촀\0Although first,
+(!촀\0we're going to be neighbors!\0\0(촀\0Although first,
 \0 I guess I need to talk
 things over with \0Resident Services\0￿.
 \0(
 (촀\0I'll just go over there right now."
 "206_02","(!촀\0You won!
 \0( (;촀\0Maybe I really am
-fated to move to this island.\0\0(
-촀\0I suppose my next step is to head to
+fated to move to this island.\0\0(촀\0I suppose my next step is to head to
 \0Resident Services
 \0 \0￿and ask about
 moving here.
@@ -136,8 +132,7 @@ moving here.
 so I would have to move here.\0\0(촀\0Yep, it looks like fate settled it.
 I'll move to this island after I'm
 done with my camping trip.
-(
-촀\0Oh,
+(촀\0Oh,
 \0 but before I can do that,
 \0 I've got
 to check with \0Resident Services \0￿to
@@ -169,8 +164,7 @@ quite sweet, n\0.
 \0Really?
 \0
 (촀\0I can't decide! 
-\0(
-촀\0
+\0(촀\0
 \0Sayn\0\0
 \0how about we
 we play a little game?
@@ -225,8 +219,7 @@ but the news wasn't goodn\0\0\0\0(촀\0There's no room for any new homes
 to be built right now,
 \0 and the homes
 (촀\0already standing are all occupied.
-(
-촀\0Hmmm,
+(촀\0Hmmm,
 \0 maybe I should check around
 \0
 and see if anybody here (9촀\0is planning
@@ -253,8 +246,7 @@ want to leave,
 "305_a","Yeah."
 "305_b","Wait, not them."
 "305_c","Hm...let's not do this."
-"306","(
-촀\0Maybe I can find a way to ask
+"306","(촀\0Maybe I can find a way to ask
 \0
 that won't seem too pushy."
 "307","( 촀\0Oh,
@@ -284,6 +276,23 @@ agreed to move up 2hisher moving plans!
 (촀\0I can't wait to be part of the
 community here,
 \0 n\0!"
+"309_01","()촀\0I went to talk to s촀
+about moving,
+\0 but it turns out
+2hisher house was already empty!
+(촀\0It's kinda sadn\0\0
+\0(촀\0but also great. 
+\0I can
+move here now, n\0!\0\0(;촀\0That's right,
+\0 I remembered.
+\0 It's
+totally OK if you forgot my name.
+\0
+(촀\0It's n
+\0!
+I can't wait to be neighbors.
+\0(!촀\0 It'll be
+so much fun, n\0."
 "310","(촀\0Have I taken this a little too far?"
 "310_a","No, not at all."
 "310_b","Maybe, yeah."
@@ -344,8 +353,7 @@ meant to move here,
 \0 n\0
 \0n\0\0
 (촀\0We're gonna be neighbors soon!"
-"410","(
-촀\0You know,
+"410","(촀\0You know,
 \0 sometimes these things
 are all about timing,
 \0 n\0

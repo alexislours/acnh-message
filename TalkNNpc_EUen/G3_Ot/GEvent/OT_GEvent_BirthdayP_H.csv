@@ -60,10 +60,10 @@ so we had to do it a teensy bit early.
 \0
 (촀\0First things firstn\0\0press \0\0￿ to blow
 out those candles and make a wish!"
-"008","(4촀\0Oh n\0,
+"008","(4촀\0Oh, n\0,
 \0 I know your
-birthday comes only once every
-four years.
+birthday comes only once
+every four years.
 (촀\0Today must be a very special day
 for you.
 \0 (%촀\0Which is why we wanted
@@ -86,17 +86,14 @@ blow out your candles, n\0!"
 \0 n\0!
 \0
 (촀\0You didn't blow out your candles!
-\0
-
+\0
 It's bad luck, n\0."
 "011","(&촀\02\0n\0! 
-\0
-Where do you think
+\0Where do you think
 you're going?
 \0 (""촀\0You're today's guest
 of honor!
-\0
- Your cake awaits!"
+\0 Your cake awaits!"
 "013","(촀\0The happiest of birthdays, my dear
 n\0!"
 "014","(촀\0We have a special present we picked
@@ -124,8 +121,7 @@ right there!"
 \0(
 (촀\0It seems your pockets are too
 full to hold your present.
-(
-촀\0Let's seen\0\0
+(촀\0Let's seen\0\0
 \0hmmmn\0\0
 \0 (촀\0I know!
 \0 I'll just
@@ -141,8 +137,7 @@ one more present to give you!
 "020","(""촀\0Look up at the ceiling!
 \0(
 (촀\0Voila! 
-\0
-It's a piñata!\0\0(\0촀\0I must tell you, (촀\0we all put our
+\0It's a piñata!\0\0(\0촀\0I must tell you, (촀\0we all put our
 hearts and souls into making
 it just for you!"
 "021","($촀\0And guess whatn\0\0
@@ -179,8 +174,7 @@ my dear.
 \0 (촀\0Start!!
 \0(촀"
 "025","(촀\0Well, well! 
-\0
-You gave it what for!
+\0You gave it what for!
 \0
 (촀\0You know, 
 \0you aren't half bad at this.\0\0(촀\0I do hope you enjoy the
@@ -199,8 +193,7 @@ a piñata bat!
 ingredients and baked them
 especially for you."
 "027","(촀\0Well done, 
-\0
-n\0!
+\0n\0!
 \0
 That was totally vicious, darling!
 \0(
@@ -249,22 +242,19 @@ to your heart's content!"
 (촀\0And I do hope we've helped get your
 next year off to a fabulous start!"
 "035","(촀\0Oh! 
-\0
-Please wait! 
+\0Please wait! 
 \0(촀\0You mustn't leave
 without first breaking the piñata
 we made for you, n\0!"
 "036","(촀\0W-wait! 
-\0
-Where are you going?
+\0Where are you going?
 \0 (촀\0You
 can't leave the piñata unbroken!
 It's bad luck, n\0!"
 "037","(촀\0Do you not see that piñata we made
 for you?!
 \0( (촀\0Please, 
-\0
-come back and
+\0come back and
 break it before you go, n\0!"
 "100","(""촀\0Blowing out candles is easy as can
 be, 
@@ -302,8 +292,7 @@ same time, 
 with the birthday decorations up.
 \0
 (촀\0It's like a different room entirely.
-(
-촀\0You know, 
+(촀\0You know, 
 \0it might be fun to leave
 your room like this all year
 \0. (촀\0Then
@@ -313,8 +302,7 @@ every day would feel like a party!
 \0
 (촀\0You just never know what you'll find
 inside when you break them open!
-(
-촀\0Of course, 
+(촀\0Of course, 
 \0it's usually candy and
 other sweetsn\0\0\0\0(촀\0If only it was nail polish, earrings,
 and gift certificates to the spa

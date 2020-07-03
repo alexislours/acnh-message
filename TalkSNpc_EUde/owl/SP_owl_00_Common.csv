@@ -17,31 +17,23 @@ schone ich meine scharfen Äuglein!\0\0( 촀\0Aber sagen Sie doch maln"
 "003","(7촀\0Oje. 
 \0Ich bitte um Pardonn"
 "004","(촀\0Guten Morgen, 
-\0
-n\0!"
+\0n\0!"
 "005","(촀\0Ich grüße Sie, 
-\0
-n\0!"
+\0n\0!"
 "006","(촀\0Guten Abend, 
-\0
-n\0!"
+\0n\0!"
 "007","(촀\0Ein wundervolles Neues Jahr,
 
-\0
-n\0!"
+\0n\0!"
 "008","(%촀\0Willkommen im \0Museum von
 
-
-\0n\0
-
-\0￿!"
+\0n\0
+\0￿!"
 "009","(;촀\0Huuu!
 \0( (%촀\0Ich heiße Sie willkommen im
 \0Museum von 
-
-\0n\0
-
-\0￿."
+\0n\0
+\0￿."
 "010","(&촀\0Wie darf ich Ihnen dienen?"
 "010_a","Fossilien analysieren."
 "010_b","Ich hätte da was..."
@@ -125,8 +117,7 @@ akzeptieren anstatt jeweils nur eine!\0\0()촀\0Wenn Sie mir ein \0Fossi
 \0( na gut, 
 \0ein \0Insekt \0￿bringen
 und mehr darüber wissen wollenn\0\0\0\0(""촀\0Sagen Sie einfach: 
-\0
-„\0Ich hätte da
+\0„\0Ich hätte da
 was...\0￿“ 
 \0(촀\0Huuu! 
 \0Nur keine Scheu!
@@ -155,8 +146,7 @@ akzeptieren anstatt jeweils nur eine!\0\0()촀\0Wenn Sie mir ein \0Fossi
 \0( na gut, 
 \0ein \0Insekt \0￿bringen
 und mehr darüber wissen wollenn\0\0\0\0(""촀\0Sagen Sie einfach: 
-\0
-„\0Ich hätte da
+\0„\0Ich hätte da
 was...\0￿“ 
 \0(촀\0Huuu! 
 \0Nur keine Scheu!
@@ -187,8 +177,7 @@ anderem behilflich sein?"
 "095_a","Ich will etwas stiften."
 "095_b","Passt schon."
 "101","(촀\0Ojen\0\0
-\0
- Ich bin untröstlich!
+\0 Ich bin untröstlich!
 \0
 ()촀\0Ein Besucher von auswärts ist gerade
 in n\0 unterwegsn\0\0
@@ -199,8 +188,7 @@ in n\0 unterwegsn\0\0
 \0um derzeit
 Spenden entgegenzunehmen.
 (\0촀\0Ich bitte vielmals um Vergebung,
-\0
-(%촀\0
+\0(%촀\0
 aber bitte kommen Sie doch ein
 andermal wieder.
 \0(\0촀"
@@ -218,8 +206,7 @@ Jede Hilfe ist gern gesehen!(\0촀"
 \0
 (촀\0Dann wollen wir doch mal sehen,
 \0(
-\0(
-촀\0
+\0(촀\0
 jawoll, 
 \0jawoll...
 \0
@@ -230,8 +217,7 @@ jawoll, 
 \0
 	\0
 (촀\0Das sind ja alles Fälschungen!!\0\0(\0촀\0Ich bin untröstlich,
-\0
- aber Falsifikate
+\0 aber Falsifikate
 ('촀\0kann ich NICHT in unserem Hause
 ausstellen!\0\0(9촀\0Ich hoffe, 
 \0Sie verübeln mir meine
@@ -280,10 +266,8 @@ Spende sogleich ausstellen.(\0촀\0
 "114_01","(촀\0Hilfe! 
 \0
 2\02\0}\0\0!\0\0(촀\0O Graus! 
-\0
-O Schlotterschreck!
-\0
-
+\0O Schlotterschreck!
+\0
 \0K(촀\0Still, 
 \0Eugen!
 \0((촀\0 Du bist Kurator der Wissenschaft,
@@ -293,13 +277,10 @@ kein frisch geschlüpftes Küken...\0d"
 \0
 2\02\0}\0\0!
 \0K(촀\0Huuu!
-\0
- Wieso muss man mich derart peinigen?
-\0
-\0d"
+\0 Wieso muss man mich derart peinigen?
+\0\0d"
 "115","(촀\0Ähem! 
-\0
-Verzeihen Sie.
+\0Verzeihen Sie.
 \0 Insekten
 sind mir wahrhaftig ein Graus.\0\0(""촀\0Ich kann Ihnen jedoch viel zu Ihrem
 Insektenfang erzählen…
@@ -354,15 +335,13 @@ ich gebe trotzdem gut auf sie acht."
 "126","( 촀\0Dann heißt das jan\0\0?
 \0( (촀\0Und ob!
 \0
-2**촀
+2*+촀
 UnserUnsere
-Unser \0\0촀\0￿ ist
-vollständig!
+Unser \0\0촀\0￿ ist vollständig!
 \0 (1촀\0Hach,
-\0 welche Pracht! \0\0(&촀\0Dürfte ich wohl so frei sein
+\0 welche Pracht!\0\0(&촀\0Dürfte ich wohl so frei sein
 \0 und mein
-Wissen über 2*촀dendiedas \02촁\0촀
-\0￿mit Ihnen teilen?"
+Wissen über 2+촀dendiedas \02촁\0촀 \0￿mit Ihnen teilen?"
 "126_a","Klaro, nur zu!"
 "126_b","Nee, kein Bedarf."
 "127","(촀\0Prächtig!
@@ -385,8 +364,7 @@ um (촀\0Ihre wundervolle Spende!(\0촀"
 \0 (\0촀\0Nun ja,
 \0(%촀\0 jedenfalls
 will ich dann mal Ihre großzügige
-Spende entgegennehmen.\0\0(
-촀\0Vielleicht kommen ja irgendwann
+Spende entgegennehmen.\0\0(촀\0Vielleicht kommen ja irgendwann
 auch alle Teile zusammen und das
 Fossil ist komplett! 
 \0((촀\0Allerbesten Dank!"
@@ -396,8 +374,7 @@ Ich hoffe,
 \0 meine bescheidenen
 Ausführungen waren erhellend.\0\0(\0촀\0Gut,
 \0(%촀\0 dann nehme ich Ihre ungemein
-großzügige Spende mal entgegen.\0\0(
-촀\0Vielleicht finden sich ja auch die
+großzügige Spende mal entgegen.\0\0(촀\0Vielleicht finden sich ja auch die
 verbleibenden Teile und das Fossil
 erstrahlt dereinst in voller Pracht!
 (촀\0Hach...
@@ -496,32 +473,26 @@ Hier haben Sie es wieder.
 \0 Ich bedanke mich! 
 \0
 n\0\0
-\0(촀\0Aber nanu?\0\0(
-촀\0Sie scheinen ja überhaupt nichts
+\0(촀\0Aber nanu?\0\0(촀\0Sie scheinen ja überhaupt nichts
 bei sich zu tragen,
 \0 das wir derzeit
 entgegennehmen könntenn"
 "142","()촀\0Gegenwärtig suchen wir nach
 \0Insekten\0￿,
-\0
- \0Fischen
-\0
-\0￿ sowie offiziell
+\0 \0Fischen
+\0\0￿ sowie offiziell
 Eugen-geprüften \0Fossilien\0￿n\0\0
 \0(\0촀"
 "143","()촀\0Als Museumsspenden akzeptieren
 wir \0Insekten\0￿,
-\0
- \0Fische\0￿ 
-\0
-sowie offiziell
+\0 \0Fische\0￿ 
+\0sowie offiziell
 Eugen-geprüfte \0Fossilien\0￿n\0\0
 \0(\0촀"
 "144","(5촀\0Fossilien bedürfen zunächst jedoch
 einer Prüfung durch meine Wenigkeit.\0\0Sollte Ihnen ein Relikt unbekannten
 Ursprungs in die Hände fallen,
-\0
-(촀\0
+\0(촀\0
 analysiere ich es gerne für Sie!"
 "145","(%촀\0Sollten Sie solche Objekte finden,
 
@@ -529,8 +500,7 @@ analysiere ich es gerne für Sie!"
 (촀\0Möglichkeit einer Museumsspende!"
 "146","()촀\0Als Museumsspenden akzeptieren wir
 \0Insekten\0￿,
-\0
- \0Fische\0￿, offiziell Eugen-
+\0 \0Fische\0￿, offiziell Eugen-
 geprüfte \0Fossilien\0￿ sowie \0Kunstwerke\0￿.
 \0(\0촀"
 "147","(%촀\0Ich werde dieses edle Stück mit
@@ -544,9 +514,26 @@ Informationen über Ihre Spende.
 (촀\0Huuu! 
 \0Bitte schauen Sie später
 wieder vorbei."
-"148","(
-촀\0Hmmn\0\0 Aus der Nähe betrachtet
+"148","(촀\0Hmmn\0\0 Aus der Nähe betrachtet
 wirkt es recht anders als erwartet."
+"149","()촀\0Gegenwärtig suchen wir nach
+\0Insekten\0￿,
+\0 \0Fischen
+\0\0￿, \0Meerestieren\0￿
+sowie offiziell geprüften \0Fossilien\0￿n\0\0
+\0(\0촀"
+"150","()촀\0Als Museumsspenden akzeptieren
+wir \0Insekten\0￿,
+\0 \0Fische\0￿,
+\0 \0Meerestiere\0￿
+sowie offiziell geprüfte \0Fossilien\0￿n\0\0
+\0(\0촀"
+"151","()촀\0Als Museumsspenden akzeptieren
+wir \0Insekten\0￿,
+\0 \0Fische\0￿,
+\0 \0Meerestiere\0￿,
+geprüfte \0Fossilien\0￿ sowie \0Kunstwerke\0￿.
+\0(\0촀"
 "201","( 촀\0Hmmmn\0\0?
 \0( Huuun\0\0?
 \0((\0촀\0 Ich will nicht
@@ -560,8 +547,7 @@ weiter suchen!
 \0((촀\0 Huhuhu,
 \0 hihi."
 "202","(촀\0Huuu!
-\0
- Was darf ich für Sie prüfen?
+\0 Was darf ich für Sie prüfen?
 \0
 (촀\0\0KJuhuuu, 
 \0Vorfreude!\0d"
@@ -572,8 +558,7 @@ weiter suchen!
 Ihr Wort gilt,
 \0 jawohln"
 "204","(9촀\0Dann wollen wir doch mal sehenn\0\0
-\0(
-촀\0
+\0(촀\0
 Hmmmn\0\0
 \0 Alson\0\0
 \0 Oh!"
@@ -640,8 +625,7 @@ eröffnet werden kann?"
 \0
 Und selten dazu!
 \0 So etwas haben wir
-noch nicht in unserer Sammlung.\0\0()촀\02\02\0}\0\0 dieser Art ist eine signifikante inselgeschichtliche Entdeckung...\0\0(
-촀\0Sollten Sie dieses Objekt an uns
+noch nicht in unserer Sammlung.\0\0()촀\02\02\0}\0\0 dieser Art ist eine signifikante inselgeschichtliche Entdeckung...\0\0(촀\0Sollten Sie dieses Objekt an uns
 abtreten wollen,
 \0 wäre das fraglos
 sehr positiv für die hiesige Kultur...\0\0(9촀\0Sagen Sie, 
@@ -653,8 +637,7 @@ Museum (;촀\0spenden?"
 \0Nicht nur ein Fund,
 \0
 sondern gleich mehrere!
-\0(
-촀\0
+\0(촀\0
 Dann mal rasch ans Werk!"
 "215","(촀\0Huhuuu,
 \0 welch Glücksfall!
@@ -688,8 +671,7 @@ den guten Eugen glücklich.
 Güte,
 \0 kein Zweifel.
 \0 Wir haben selbst
-bereits solche Stücke im Museum.\0\0(
-촀\0Wenn ich finanziell disponibler wäre,
+bereits solche Stücke im Museum.\0\0(촀\0Wenn ich finanziell disponibler wäre,
 \0
 würde ich Ihre Funde ja liebend gern
 für meine Hobby-Sammlung kaufen...\0\0('촀\0Doch auch wenn es sich für eine
@@ -709,8 +691,7 @@ mich sofort um Ihre großzügige
 Spende, (""촀\0
 \0haben Sie vielen Dank!"
 "223","(촀\0Ich bedanke mich!
-\0 (
-촀\0Wenn wir nur die
+\0 (촀\0Wenn wir nur die
 restlichen Teile hätten,
 \0 könnten wir
 das Geschöpf ganz zusammenbauen!"
@@ -725,7 +706,7 @@ Welch Wonne, 
 \0wenn Fortuna lacht!\0\0Da wir uns gerade alle so furchtbar
 freuen,
 \0 (4촀\0wie wäre es mit etwas Wissen
-über 2*촀dendiedas 2촁\0촀?"
+über 2+촀dendiedas 2촁\0촀?"
 "224_a","Lass wissen!"
 "224_b","Nee, ich hab zu tun..."
 "225","(촀\0Hach, wie ich mich freue!
@@ -787,8 +768,7 @@ verschlossen!
 "306","(촀\0Huhuuuiuiui! 
 \0Das ist ja (촀\02\0
 }\0\0!"
-"307","(
-촀\0Sagen Sie,
+"307","(촀\0Sagen Sie,
 \0 ist das etwa 2\0
 }\0\0?\0\0Momentchen!
 \0 Lassen Sie mich mal
@@ -808,8 +788,7 @@ unter die Lupe genommen werden,
 "309","(%촀\0Wie Sie wünschen. 
 \0Kommen Sie gern
 jederzeit zu mir, 
-\0
-(5촀\0in der Fossilanalyse
+\0(5촀\0in der Fossilanalyse
 bin ich ein Experte!"
 "310","(촀\0Wundervoll! 
 \0(""촀\0Dann lassen Sie mich
@@ -822,8 +801,7 @@ sogleich einen Blick darauf werfenn"
 Sie direkt dem Schild entnehmen,
 \0
 das sich davor befinden sollte."
-"316","(
-촀\0Sofern mein Gedächtnis mich nicht
+"316","(촀\0Sofern mein Gedächtnis mich nicht
 trügt,
 \0 enthält unsere Sammlung noch
 2(촀keinen
@@ -844,8 +822,7 @@ was sie mal war.
 versieht,
 \0 tut man einen Fehlgriff."
 "352","(9촀\0Mehr habe ich nicht zu sagen.\0\0(촀\0Und nun möchte ich Sie bitten, 
-\0
-
+\0
 2""촀
 IhrenIhreIhr 2촁}\0\0 wieder mitzunehmen. 
 \0Vielen Dank."
@@ -1007,8 +984,7 @@ Insekten,
 \0
 Die letzte Zutat im ichthyolotischen
 Potpourri unseres Museums!
-(
-촀\0...Wie meinen?
+(촀\0...Wie meinen?
 \0 Ob ich das Geschöpf
 kochen will?
 \0 A-
@@ -1049,23 +1025,45 @@ Ein urzeitwissenschaftlicher Ulk!\0\0(""촀\0JEDENFALLS...\0\0(촀\0Wir
 Herzen für Ihren Fleiß und ihre
 großzügigen Spenden.
 \0 Huhuuu!"
-"406","Huhuuu!
+"406","(촀\0Huhuuu!
 \0 Wie wird mir nur?
 \0
-Das ist dochn\0\0\0\0Tatsächlich!
+Das ist dochn\0\0\0\0(촀\0Tatsächlich!
 \0 Das letzte fehlende
 Exponat,
 \0 um unsere Kunstkollektion
 zu komplettieren!
-Sie,
+(""촀\0Sie,
 \0 n\0, 
 \0Sie sind eine Inspiration!
 \0 Ein Wunder!
-\0 Solcherlei Gönnertum ist selten auf der Welt!\0\0Ich danke Ihnen für all Ihre Mühen.
+\0 (촀\0Solcherlei Gönnertum ist selten auf der Welt!\0\0(%촀\0Ich danke Ihnen für all Ihre Mühen.
 \0
-Nun sucht unsere Kunstsammlung
+(촀\0Nun sucht unsere Kunstsammlung
 wahrlich ihresgleichen!
 \0 Huhuuu!"
+"410","(촀\0Nanuhuuu! 
+\0Wie wird mir?!
+\0 (&촀\0Ist damit
+etwa unsere Meerestiersammlung
+komplettiert?
+(!촀\0Huuu!
+\0 Sie ist es! 
+\0Welch Freude!
+\0(
+(\0촀\0Da bleibt mir nur eines zu sagenn\0\0(촀\0
+Haben Sie VIELEN,
+\0 VIELEN DANK!\0\0(촀\0Welch Wonne,
+\0 all die Geschöpfe
+der weiten See in unserem Hause
+versammelt zu sehen!\0\0(촀\0Glauben Sie mir, 
+\0niemandn\0\0
+NIEMAND dankt Ihnen Meer--
+\0
+äh,
+\0 mehr 
+\0als ich!
+\0 (촀\0Sie sind ein Segen!"
 "501","()촀\0In unserem Museum warten zahllose
 prachtvolle Exponate allerlei Art auf
 wissbegierige Besucher.

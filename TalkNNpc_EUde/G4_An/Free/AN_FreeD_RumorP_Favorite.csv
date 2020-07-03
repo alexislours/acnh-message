@@ -9,15 +9,15 @@ eben den Kürzeren gezogen.
 \0(촀\0 Gahaha!"
 "002","()촀\0Hoffe, du fühlst dich nich' total
 überrumpeltn\0\0 
-\0Ich bin eifrig dabei
+\0Ich bin eifrig dabei,
+\0
 die Nachbarschaft kennenzulernen.
 (촀\0Also,
 \0 noch besser als so schon.
 \0
 Auf jeden Fall muss ich dich jetzt
 mit 'ner knallharten Frage löchern."
-"003","\0(
-촀\0Öhm, 
+"003","\0(촀\0Öhm, 
 \0Momentn\0\0
 \0 Was wollte ich dich
 noch mal fragen?
@@ -30,7 +30,7 @@ was du in Sachen 촀 so abfeierstn\0\0\0\0($촀\028WarWarWarWar
 "010_01_a","(%촀\0Stabiles Gedächtnis!"
 "010_01_b","('촀\0Nein..."
 "010_02","()촀\0Du hattest 촀 genannt, 
-\0als ich dich nach 2.2촀deinemdeinerdeinem 촀 gefragt hab...\0\0(&촀\0Is' die Info noch aktuell?"
+\0als ich dich nach 2.3촀deinemdeinerdeinem 촀 gefragt hab...\0\0(&촀\0Is' die Info noch aktuell?"
 "010_02_a","(%촀\0Absolut!"
 "010_02_b","('촀\0Nein..."
 "010_03","(9촀\0Bevor ich 'nen Hirnkrampf krieg,
@@ -54,33 +54,28 @@ Sprünge helfen, 
 "010_05_b","('촀\0Nicht wirklich..."
 "010_101","(촀\0Versuch mich krampfhaft zu erinnern,
 \0
-was du in Sachen 촀 so abfeierstn\0\0\0\0($촀\0„2\0
-촀“? 
+was du in Sachen 촀 so abfeierstn\0\0\0\0($촀\0„2\0촀“? 
 \0Is' das deine übliche Antwort?"
 "010_101_a","(%촀\0Stabiles Gedächtnis!"
 "010_101_b","('촀\0Nein..."
-"010_102","()촀\0Als ich dich nach 2.2촀deinemdeinerdeinem
-촀 gefragt hab...\0\0Da hattest du „⁠
-촀⁠“ gesagt.
+"010_102","()촀\0Als ich dich nach 2.3촀deinemdeinerdeinem
+촀 gefragt hab...\0\0Da hattest du „⁠촀⁠“ gesagt.
 \0( (&촀\0Is' die Info noch aktuell?"
 "010_102_a","(%촀\0Ja, klaro!"
 "010_102_b","('촀\0Nein..."
 "010_103","(9촀\0Irgendwie is' mein Hirn matschign\0\0\0\0(&촀\0Haste zu deinem Traumberuf nich'
-„⁠
-촀⁠“ oder so gesagt, 
+„⁠촀⁠“ oder so gesagt, 
 \0n\0?"
 "010_103_a","(%촀\0Ganz genau!"
 "010_103_b","('촀\0Nein..."
 "010_104","(&촀\0Sag mal, dein Lieblingshobby war was noch mal? 
-\0„⁠2\0
-촀⁠“?"
+\0„⁠2\0촀⁠“?"
 "010_104_a","(%촀\0Richtig!"
 "010_104_b","('촀\0Nein..."
 "010_105","('촀\0In letzter Zeit is' mein Hirn echt
 Löcherkäse!
 \0 Als Talent nennst du
-„
-촀“,
+„촀“,
 \0(&촀\0 oder?"
 "010_105_a","(%촀\0Kann man so sagen!"
 "010_105_b","('촀\0Nich' wirklich..."
@@ -130,8 +125,7 @@ Nase über das Thema,
 \0 n\0.\0\0(4촀\0Da kam ich ins Grübeln und wusst
 nich' mehr so recht, 
 \0ob's wirklich
-„
-촀“ war."
+„촀“ war."
 "011_103","(%촀\0Wusst ich's doch!
 \0( ((촀\0So wie ich mein
 Gänseblümchen kenne, 
@@ -154,15 +148,13 @@ ich mich nich' unterkriegen!"
 Umständen gar nicht vogelartig war,
 \0
 hat mir was über dich gezwitschertn"
-"030_01","(
-촀\0Ich frag mich,
+"030_01","(촀\0Ich frag mich,
 \0 is' da was dran,
 \0 dass
 du in Sachen 촀 voll auf 촀 stehst?"
 "030_01_a","(%촀\0Total!"
 "030_01_b","('촀\0Im Leben nich'..."
-"030_02","(
-촀\0Ich frag mich,
+"030_02","(촀\0Ich frag mich,
 \0 is' da was dran,
 \0 dass
 dein 촀 촀 28is'is'is'sindsindsind?"
@@ -182,29 +174,24 @@ dein 촀 촀 28is'is'is'sindsindsind?"
 "030_05_a","(%촀\0So ist es!"
 "030_05_b","('촀\0Nicht wirklich..."
 "030_101","(9촀\0Thema 촀:
-\0 Nach deinem Favoriten gefragt sagst du „⁠
-촀⁠“.\0\0(&촀\0Stimmt's oder hab ich recht?"
+\0 Nach deinem Favoriten gefragt sagst du „⁠촀⁠“.\0\0(&촀\0Stimmt's oder hab ich recht?"
 "030_101_a","(%촀\0Aber so was von!"
 "030_101_b","('촀\0Absolut nicht..."
 "030_102","(9촀\0Thema 촀n\0\0
-\0 (&촀\0Gilt für dich immer noch: „⁠
-촀⁠“?"
+\0 (&촀\0Gilt für dich immer noch: „⁠촀⁠“?"
 "030_102_a","(%촀\0Aber so was von!"
 "030_102_b","('촀\0Absolut nicht..."
 "030_103","(&촀\0Zu deinem Traumberuf würdest du
-also „
-촀“ sagen?"
+also „촀“ sagen?"
 "030_103_a","(%촀\0Genau!"
 "030_103_b","('촀\0Überhaupt nich'..."
-"030_104","(9촀\0Wahrheit oder Lüge?\0\0Als Hobby kritzelste „⁠
-촀⁠“ ins Poesiealbum."
+"030_104","(9촀\0Wahrheit oder Lüge?\0\0Als Hobby kritzelste „⁠촀⁠“ ins Poesiealbum."
 "030_104_a","(%촀\0Wahrheit!"
 "030_104_b","('촀\0Lüge!"
 "030_105","(&촀\0Is' es wahr, 
 \0dass du ganz zurecht
 prahlst: 
-\0„⁠
-촀⁠“?"
+\0„⁠촀⁠“?"
 "030_105_a","(%촀\0Ganz genau!"
 "030_105_b","('촀\0Nicht wirklich..."
 "031_01","(촀\0Ich find 촀 auch total fett!(\0촀\0\0\0(촀\0Sieht aus, 
@@ -249,8 +236,7 @@ wir ab heute ein Gesprächsthema
 mehr, 
 \0n\0."
 "031_102","(촀\0
-\02\0
-촀?!
+\02\0촀?!
 \0
 (촀\0Das geht runter wie nix!\0\0(1촀\0Mmmh, das Zeug könnte ich mir
 jetzt eimerweise reinpfeifen,
@@ -259,16 +245,14 @@ jetzt eimerweise reinpfeifen,
 "031_103","(;촀\0
 \0Was'n Zufall! 
 \0Ich wollte auch schon
-immer 
-촀 werden!\0\0(%촀\0Dafür muss man sich ein,
+immer 촀 werden!\0\0(%촀\0Dafür muss man sich ein,
 \0 zwei
 Beinchen ausreißen,
 \0 aber ey,
 \0
 von nix kommt nix. 
 \0($촀\0Also hau rein!"
-"031_104","(촀\02\0
-촀 is' auch mein Ding!
+"031_104","(촀\02\0촀 is' auch mein Ding!
 \0 Wir sollten definitiv öfter mal was gemeinsam machen."
 "031_105","(5촀\0Eigenlob stinkt ja bekanntlich, 
 \0aber
@@ -316,8 +300,7 @@ mehrn\0\0 
 \0(%촀\0Aber lass dich davon bloß
 nich' abhalten, 
 \0dein Ding zu machen!"
-"032_102","(촀\0„2\0
-촀“?
+"032_102","(촀\0„2\0촀“?
 \0
 Damit konnt ich ganz ehrlich nie
 wirklich was anfangen.
@@ -327,8 +310,7 @@ sondern um dich.
 \0 (촀\0Bleib dir gefälligst
 immer brav treu, 
 \0n\0!"
-"032_103","(촀\0„2\0
-촀“?
+"032_103","(촀\0„2\0촀“?
 \0
 Puh, 
 \0da hab ich voll die
@@ -338,8 +320,7 @@ auf andere schließen, 
 \0nich' wahr?
 
 \0(촀\0Gahaha!"
-"032_104","(촀\02\0„
-촀“?
+"032_104","(촀\02\0„촀“?
 \0
 Zu dem Thema produziert mein
 Hirn nur weißes Rauschenn\0\0\0\0(촀\0Das hat aber noch lange nix
@@ -450,8 +431,7 @@ nich': 
 (촀\0Keine Ahnung, 
 \0wo ich den Bockmist
 aufgeschnappt habn"
-"051","(%촀\02\0„
-촀“, 
+"051","(%촀\02\0„촀“, 
 \0ja?"
 "051_a","Richtig!"
 "051_b","Hö? Nee..."
@@ -490,7 +470,7 @@ Stapel gelassenn\0\0
 Du findest 촀 also wohl extracool, 
 \0n\0!"
 "060_05","(;촀\0Irgendwie hab ich grad ein Déjà-vu.\0\0(촀\0Okay, 
-\0alles Roger!
+\0alles roger!
 \0 In Sachen 촀 biste also wohl besonders talentiert."
 "060_101","(;촀\0Sekunde! 
 \0Die Antwort kommt mir
@@ -498,20 +478,17 @@ verdächtig bekannt vor.\0\0(촀\0Auch egaln\0\0
 \0(촀\0 Hab mir jetzt jedenfalls
 hinter die Ohren geschrieben:
 \0
-„
-촀“!"
+„촀“!"
 "060_102","(;촀\0Sekunde! 
 \0Die Antwort kommt mir
 verdächtig bekannt vor.\0\0(촀\0Auch egaln\0\0
 \0(촀\0 Hab mir jetzt jedenfalls
 hinter die Ohren geschrieben:
 \0
-„
-촀“!"
+„촀“!"
 "060_103","(;촀\0Haste das nich' eben schon mal
 gesagt? (%촀\0Egal,
-\0 „⁠
-촀⁠“.\0\0(촀\0Das kann ich mir merken.
+\0 „⁠촀⁠“.\0\0(촀\0Das kann ich mir merken.
 \0
 Ganz ohne Spickzettel!"
 "060_104","(;촀\0Ich schwör bei meinem Blumenbeet!
@@ -521,14 +498,12 @@ Stapel gelassenn\0\0
 (촀\0Jetzt raff ich's, 
 \0du willst das nur
 bekräftigen!
-\0 „⁠2\0⁠⁠
-촀⁠⁠“!"
+\0 „⁠2\0⁠⁠촀⁠⁠“!"
 "060_105","(;촀\0Irgendwie hab ich grad ein Déjà-vu.\0\0(촀\0Aber schon gut, 
 \0is' weiterhin als
 dein Talent abgespeichert:
 \0
-„
-촀“!"
+„촀“!"
 "061","( 촀\0Okay, okay.
 \0 Keinen Stress!
 \0(
@@ -988,8 +963,7 @@ wie du ein volles Stadion rockst!
 
 \0Hauptsache, 
 \0es haut rein!"
-"103_10","(
-촀\0Also,
+"103_10","(촀\0Also,
 \0 mein Hobby is' ja eher Essenn\0\0
 \0
 Und Trinken, 
@@ -1096,8 +1070,7 @@ Ketchup dazu nimmt, 
 als Gemüsebeilage durch!"
 "104_09","(촀\0Tja, 
 \0wenn man Spaß dran hat...\0\0(촀\0Lass mal hören, was is' deine Sucht?
-(
-촀\0촀? 
+(촀\0촀? 
 \0Oder doch eher in
 Richtung 촁?
 (촀\0Hö?
@@ -1228,86 +1201,71 @@ kann man nich' mehr damit aufhören.
 was kaputtgeht,
 \0 weiß ich ja, an wen
 ich mich vertrauensvoll wenden darf."
-"106_01","(
-촀\0Hätt ich eigentlich gleich wissen
+"106_01","(촀\0Hätt ich eigentlich gleich wissen
 können,
 \0 dass mein Gänseblümchen
 nich' so 'ne Mainstream-Type is'.
 ()촀\0Das nächste Mal hauste mir einfach
-„
-촀“ um die Ohren.
+„촀“ um die Ohren.
 \0( Deal?"
-"106_02","( 촀\0„2\0
-촀“?
+"106_02","( 촀\0„2\0촀“?
 \0
 Von dem Genre hör ich zum
-ersten Maln\0\0\0\0(
-촀\0Ob \0Nepp \0￿so was auf Lager hat?
+ersten Maln\0\0\0\0(촀\0Ob \0Nepp \0￿so was auf Lager hat?
 \0
 Hab erst 'nen Schinken durch.
 \0
 (촀\0Das Timing wäre perfekt!"
-"106_03","(%촀\0„2\0
-촀“?
+"106_03","(%촀\0„2\0촀“?
 \0 Hört sich ja extrem interessant an. 
-\0Würde ich glatt auch lesen!\0\0(
-촀\0Hmmmn\0\0
+\0Würde ich glatt auch lesen!\0\0(촀\0Hmmmn\0\0
 \0 Soll ich einfach mal die
 Bestsellerliste danach durchsuchen?
 \0(
 (촀\0Gahaha! 
 \0Das wird der Knüller!"
-"106_04","(촀\0„2\0
-촀“?
+"106_04","(촀\0„2\0촀“?
 \0
 Von der Sorte hab ich auch schon
 zig Filme geschaut.\0\0(%촀\0Bin aber für jegliche Empfehlungen
 offen, 
 \0n\0."
-"106_05","( 촀\0„2\0
-촀“? 
+"106_05","( 촀\0„2\0촀“? 
 \0
 \0(6촀\0Werd ich mir mal reinziehen,
 \0 falls mir so was in der Glotze übern Weg hüpft."
-"106_06","(2촀\0„2\0
-촀“?
+"106_06","(2촀\0„2\0촀“?
 \0 Davon hab ich leider nich' den leisesten Hauch einer Ahnung.\0\0(8촀\0Beim Zappen bin ich schon mal dran
 hängengeblieben, 
 \0aber irgendwie
 waren mir die Regeln zu hoch."
-"106_07","( 촀\0„2\0
-촀“?\0\0('촀\0Kann mich nich' dran erinnern, 
+"106_07","( 촀\0„2\0촀“?\0\0('촀\0Kann mich nich' dran erinnern, 
 \0das
 jemals verköstigt zu haben. 
 \0(6촀\0Sollte
 ich wohl schleunigst nachholen, 
 \0ne?"
-"106_08","( 촀\0„2\0
-촀“?\0\0(%촀\0Musst mir bei Gelegenheit 'ne
+"106_08","( 촀\0„2\0촀“?\0\0(%촀\0Musst mir bei Gelegenheit 'ne
 Portion bringen.
 \0 Hab mich noch nich'
 festgelegt, 
 \0ob mir das schmecktn"
-"106_09","(6촀\0„2\0
-촀“?
+"106_09","(6촀\0„2\0촀“?
 \0
 Hört sich schwer interessant an!\0\0(%촀\0Wenn ich dir da irgendwie helfen
 kann, 
 \0einfach Bescheid geben,
 
 \0n\0."
-"106_10","( 촀\0„2\0
-촀“!?
+"106_10","( 촀\0„2\0촀“!?
 \0
 Hätte nich' gedacht, dass das jemand
 hier abfeiern würden\0\0\0\0(9촀\0Hört sich ja definitiv spannend an.
 \0
-(
-촀\0Aber ob das tatsächlich was für mich
+(촀\0Aber ob das tatsächlich was für mich
 wäre?
 \0(촀\0 Keine Ahnung."
-"106_11","(촀\0„2\0
-촀“?
+"106_11","(촀\0„2\0촀“?
 Hätte nich' gedacht, 
 \0dass das
 irgendwer hier draufhätte.\0\0(&촀\0Warste in 'nem Bootcamp, um dir
@@ -1325,8 +1283,7 @@ Stille stehst, 
 \0Es gibt ja noch
 tonnenweise anderen Kram zum
 Lesen...
-(
-촀\0Websites, 
+(촀\0Websites, 
 \0Videospiele, 
 \0Filmuntertitel.
 \0(

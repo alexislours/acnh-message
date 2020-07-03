@@ -4,14 +4,14 @@ is opgewarmd.
 \0 Dit nummer heetn\0\0
 \0
 (\0촀\0
-\0\0}\0\0\0￿
+\0""\0}\0\0\0￿""
 .
 ´"
 "002","Zin om je heupen los te gooien?
 \0
 2\0s\0촀, deze is voor jou: 
 \0(\0촀\0
-\0\0	촀\0￿
+\0""⁠\0	촀⁠\0￿""
 .
 ´"
 "003","-촀\0Dank je,
@@ -28,7 +28,7 @@ ik heb geen nummer met die naam.
 laten we de goeie vibes vasthouden
 \0
 met (\0촀\0
-\0\0}\0\0\0￿
+\0""\0}\0\0\0￿""
 .
 ´"
 "005","-촀\0Slome dag?
@@ -36,7 +36,7 @@ met (\0촀\0
 tune om jou op gang te helpen.
 \0 Dit is
 
-\0\0}\0\0\0￿
+\0""\0}\0\0\0￿""
 .
 ´"
 "006","-촀\0Sluit je kijkertjes,
@@ -44,7 +44,7 @@ tune om jou op gang te helpen.
 \0
 en open je oren.
 \0 Dit heet 
-\0\0}\0\0\0￿
+\0""⁠\0}\0\0⁠\0￿""
 .
 ´"
 "007","-촀\0Een beetje in
@@ -52,23 +52,23 @@ en open je oren.
 \0( -촀\0Ik haal je wel
 uit
 \0 je sleur. Ontspan en luister
-naar (\0촀\0\0
-\0}\0\0
-\0￿.
+naar (\0촀\0
+\0""\0}\0\0\0￿""
+.
 ´"
 "008","Deze is voor wie zich niet
 \0 -촀\0in hokjes
 laat plaatsen.
 \0 (\0촀\0Speciaal voor jou:
 
-\0\0}\0\0\0￿
+\0""\0}\0\0\0￿""
 .
 ´"
-"009","Dit nummer draag ik op aan n\0.
+"009","Dit verjaardagsnummer draag ik op aan n\0.
 \0 
-\0-촀\0Blijf een koele kikker.
+\0-촀\0Relax lekker bij
 \0<(\0촀\0 
-\0\0}\0\0\0￿
+\0""⁠⁠⁠\0}\0\0⁠\0￿""
 !
 ´"
 "011","Oké, okén\0\0
@@ -76,6 +76,13 @@ laat plaatsen.
 optreden.
 \0(\0촀\0 Deze is speciaal voor jou.
 ´"
+"012","Vroeg is het nieuwe laat.
+\0 Daar kan ik
+in meegaann\0\0
+"
+"013","Het is nooit te laat om iets te
+vieren en dat geldt dubbel voor
+verjaardagen."
 "015","Dank je,
 \0 dank je.
 \0 Dit was een ode aan

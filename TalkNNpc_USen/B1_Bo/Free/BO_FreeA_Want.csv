@@ -7,8 +7,7 @@
 \0(
 Is that really 2\0
 (&촀\0}\0\0 I see?"
-"001_03","(
-촀\0Hey, do I see 2\0
+"001_03","(촀\0Hey, do I see 2\0
 }\0\0 in
 your hand?"
 "002","Would you sell that to me?
@@ -29,11 +28,11 @@ I can't. For...reasons."
 "005_01","(촀\0A huh huhn\0\0
 \0 I've been looking for
 2\0}\0\0."
-"005_02","2\0}\0\0 are
+"005_02","(&촀\0You know what would be SO cool?
+\0
+(촀\0A pet }\0\0!
 \0
-(촀\0so cool, aren't they?
-\0((\0촀\0
-(촀\0I really wanted one."
+I really want one."
 "005_03","(촀\02\02\0}\0\0!
 I've wanted one of those ever since
 I let one get away!"

@@ -13,10 +13,9 @@ de n	\0?
 de la isla también tiene lo suyo!"
 "102","(촀\0Conque pescando ayer, ¿eh?
 \0
-($촀\0Pues me vas a tener que dar uno que
-otro consejito,
-\0 porque se me da fa
-\0tal.
+($촀\0Pues me vas a tener que dar algún
+consejo porque soy un megafracaso.
+\0
 ()촀\0O sea,
 \0 me acerco a una orilla,
 \0 tiro la
@@ -43,8 +42,7 @@ mi vidan"
 pescando almejas?
 \0 (&촀\0¿Las almejas
 se pescan o se cazan?
-(
-촀\0Pero están enterradasn\0\0
+(촀\0Pero están enterradasn\0\0
 \0
 (촀\0¿O sea que se cosechan?"
 "106","(;촀\0¿Es verdad que rompiste el récord
@@ -189,8 +187,7 @@ entero de lo que haces!
 "119","(촀\0Ayer ni te apareciste por tu casa,
 ¿verdad?
 \0 ((촀\0Yo soy muy de exterior
-también.\0\0(
-촀\0Bueno, y de interior, sobre todo
+también.\0\0(촀\0Bueno, y de interior, sobre todo
 si es de decoración."
 "120","(5촀\0A mí no me engañas:
 \0 sé que ayer
@@ -274,12 +271,14 @@ carácter el de las avispas, ¿eh?"
 "127","()촀\0Los fósiles que encontraste ayern\0\0
 \0
 ¡No se habla de otra cosa en la isla!
-\0\0\0(""촀\0Deberías llevárselos a \0Sócrates \0￿para
-que te cuente todos los detalles de
-sus vidas.
-\0\0\0(%촀\0O sea,
-\0 seguro que hasta sabe cómo
-se llamaban
+\0
+(""촀\0¿Los buscaste en internet?
+(%촀\0Seguro que hay como miles de datos
+sobre ellos.
+\0 O sea,
+\0 así como
+\0 (1촀\0quiénes
+eran
 \0 y qué música escuchaban."
 "128","(촀\0Tremendo escándalo tenías ayer
 con tanto machacar rocas,
@@ -422,8 +421,7 @@ mi próximo éxito.
 "142","($촀\0¿O sea que se podía cambiar
 la bandera de la \02\0Ȃ촄oficina de gestión vecinal\0￿?\0\0(촀\0¿Y por qué no me había enterado?
 \0
-(
-촀\0\0K¿O ya me había enterado y se me había olvidado?\0d\0\0(촀\0
+(촀\0\0K¿O ya me había enterado y se me había olvidado?\0d\0\0(촀\0
 \0Qué más da.
 
 \0 (촀\0¡Escogiste superbién,
@@ -463,8 +461,7 @@ parar,
 \0 ¿verdad?
 \0 ((촀\0¡Yo hablo hasta
 por los codos!
-(
-촀\0Pero es que, o sea, me relaja,
+(촀\0Pero es que, o sea, me relaja,
 ¿sabes?
 \0 (1촀\0Siento que me invade una
 paz cuando digo cosas por decirn\0\0
@@ -507,3 +504,14 @@ firmadas a mis fansn\0\0
 Ya que te gusta tomar fotos,
 \0
 (촀\0tómaselas a una estrella, ¿sí?"
+"153","(촀\0Oye, ¡me enteré de que ayer
+la pasaste de maravilla buceando
+en el mar!
+(4촀\0O sea, ¿tú también te imaginas que
+eres una sirena y que puedes cantar
+bajo el agua?
+(;촀\0¿Y que los pececitos y las algas
+se mueven al ritmo de tu música
+como si te hicieran los coros?
+(촀\0¡Aaay, lo que me gustaría a mí dar
+un concierto submarino!"

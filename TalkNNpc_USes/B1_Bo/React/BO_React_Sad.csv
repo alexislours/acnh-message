@@ -10,43 +10,55 @@ siestas, n\0n\0\0(촀\0d"
 "003","d\0(촀\0No te acerques muchon\0\0
 \0
 (촀\0que te voy a pegar la tristeza.(촀\0d"
-"100","d\0(촀\0Comí dulces de másn\0\0
-\0
-(촀\0y ahora no puedo ni moverme.\0\0(촀\0Creí que mi pancita no tenía límites
-\0
-pero ya vi que debo tener más
-cuidaditon\0\0
-\0 Ay.(촀\0d"
-"101","d\0(촀\0Yo solo quería comerme esos
-nachos antes de que caducarann\0\0\0\0(촀\0Pero creo que, o eran demasiados,
-o tenían mal la fecha de caducidadn\0\0\0\0Mi pobre pancitan\0\0 qué te he hechon\0\0
-\0¡Grogrogro!\0￿(촀\0d"
-"102","d\0(촀\0Tengo que empezar a medirme con
-los tacosn\0\0
-\0 (촀\0¡Luego no puedo ni
-moverme y la panza me reclama!
-\0¡Grogrogro!\0￿
-\0 Lo siento, no lo vuelvo
-a hacern\0\0(촀\0d"
-"103","(촀\0s촀 me dijo muy
-seriamente que estoy comiendo
-demasiados dulcesn\0\0\0\0(촀\0Intenté defenderme,
-\0 pero es
-bastante difícil hablar con
-la boca llena de gomitasn"
-"103_a","(\0촁\0¡Claro que no!"
-"103_b","(\0촁\0Te pasas un poco..."
-"104","( 촀\0¿Eso crees?
+"100","d\0(촀\0Dormí tanto pero tanto(.촀\0n\0\0
+\0 que ahora
+no puedo despabilarmen\0\0\0\0(촀\0Pensaba que las siestas no tenían
+límites,
+\0 pero se ve que debo tener
+más cuidadito(.촀\0n\0\0
+\0 Ay.(촀\0(촀\0d"
+"101","d\0(촀\0Nunca pensé que dormir demasiado
+podría ser un probleman\0\0\0\0(.촀\0Pero tengo una pesadez en el cuerpo
+que no te imaginasn\0\0
+\0 sobre
+todo en los párpadosn\0\0
+\0 (/촀\0Zzzn\0\0
+(촀\0¡Uoh!
+\0 No sé qué hacer.
+(촀\0
+\0¿Qué pasa si me termino quedando
+dormido para siempre, n\0?(촀\0d"
+"102","d\0(촀\0Buf,
+\0 tengo que empezar a medirme
+un poco con las siestasn\0\0
+\0 (촀\0Termino
+más cansado que si no durmieran\0\0
+(촀\0¿Cuántas horas hay que dormir?
 \0
-(촀\0¡Gracias,
-\0 n\0!\0\0(%촀\0Aunque,
-\0 no estaría mal comer más
-verduras
-\0(촀\0 y menos chocolates."
-"105","d\0(
-촀\0Tienes razón, a lo mejor me haría
-bien reducir mi ración diaria de
-dulcesn\0\0(촀\0d"
+¿Cuándo termina la siesta y empieza
+la noche?
+(촀\0¿Estoy durmiendo o estoy despierto?
+\0
+Esas son tooodas mis preguntas sin respuesta, (촀\0n\0n\0\0(촀\0d"
+"103","(촀\0s촀 me dijo muy seriamente que le parece que duermo demasiadon\0\0\0\0(촀\0Intenté defenderme,
+\0 pero es difícil
+hablar cuando estás bostezando
+\0 ('촀\0
+y no se me entendió nadan"
+"103_a","(\0촀\0Duerme lo que quieras"
+"103_b","(\0촁\0Te pasas un poco..."
+"104","(촀\0Gracias,
+\0 n\0.
+\0 (촀\0Supongo que uno duerme lo que necesita,
+\0 ni más ni menosn\0\0\0\0(2촀\0O a lo mejor a veces hay que decirle
+al cuerpo lo que tiene que hacer.(촀\0\0\0Como por ejemplon\0\0
+\0
+(촀\0""¡Despierta, n\0!""."
+"105","d\0( 촀\0¿Eso crees?
+\0 Pues a lo mejor
+\0 (촀\0es
+verdad que tengo que empezar a
+echarme menos siestas diariasn\0\0(촀\0d"
 "200","d\0(촀\0Quisiera no hablar contigo por
 ahoran\0\0 No tengo ganas.(촀\0d"
 "201","d\0(촀\0Ahora mismo estoy muy triste,
@@ -69,8 +81,7 @@ volver a estar contento algún dían"
 \0 Te perdono por esta vez
 porque te disculpaste.\0\0(4촀\0Pero tienes que prometerme que
 vas a portarte mejor conmigo, ¿eh?"
-"205","(
-촀\0¿No dices nada?
+"205","(촀\0¿No dices nada?
 \0 Vayan\0\0
 \0
 (9촀\0Voy a interpretar tu silencio

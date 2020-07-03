@@ -251,7 +251,7 @@ eens kunt proberen.d"
 "050_01","d\0Je tent? 
 \0Geen probleem.d"
 "050_02","d\0Je huis? 
-\0Appeltje eitje.d"
+\0Appeltje-eitje.d"
 "050_03","d\0Het plein? 
 \0Komt voor de bakker!d"
 "050_04","d\0Dus het wordt de winkel? 
@@ -333,9 +333,12 @@ en werk altijd veilig!"
 "206","
 \0Er is iets mis met de verbindingn\0\0
 "
-"207","Heb je geen dekking? Of misschien
-moet je even \0gaan staan \0￿en het nog
-eens proberen."
+"207","Heb je geen bereik? Misschien moet
+je even \0gaan staan \0￿en het nog eens
+proberen."
+"207_01","Heb je geen bereik? Misschien moet
+je het nog eens proberen zodra je
+weer \0aan land \0￿bent."
 "208",""
 "209","Je hebt hier \0geen bereik\0￿. Je kunt
 deze app alleen gebruiken op
@@ -499,6 +502,8 @@ bomen uit je directe omgeving."
 de opruimdienst.\0\0Op n	\0 kan deze dienst alleen buiten gebruikt worden."
 "301","De plattegrond-app werkt kennelijk
 niet voor dit eiland."
+"302","De plattegrond-app werkt kennelijk
+niet als ik aan het zwemmen ben."
 "311","O? Een foutmelding? Zo te zien
 kun je de app hier niet gebruiken."
 "321","Zo te zien kun je tijdens het buurten

@@ -152,9 +152,9 @@ la \0Caza del Huevo\0￿!
 (촀\0Hay mucho movimiento en la plaza
 y creo que también tenemos visita.\0\0(촀\0¡Pasen por allí a divertirse un rato
 cuando tengan un momento!"
-"008_02_01","(촀\0¡Hoy es \0Primero de Mayo\0￿!\0\0(촀\0Les recomiendo que vayan a la
-\0oficina de gestión\0￿ a informarse sobre
-los \0boletos Primero de Mayo\0￿.
+"008_02_01","(촀\0¡Hoy es \0Primero de Mayo\0￿!\0\0(촀\0Les recomiendo que visiten la
+\0oficina de gestión\0￿ para informarse
+sobre los \0boletos Primero de Mayo\0￿.
 (촀\0\0Nook Inc.\0￿ los está repartiendo
 para agradecer el gran trabajo
 de esta comunidad.
@@ -167,14 +167,14 @@ donde los esperará una aventura
 emocionanten\0\0
 (촀\0Así que, si quieren apuntarse,
 \0
-vayan a hablar con \0Tom Nook\0￿ en
-la \0oficina de gestión\0￿ sin falta."
+visiten la \0oficina de gestión
+\0￿y hablen con \0Tom Nook\0￿ sin falta."
 "008_02_02","(촀\0¡El evento especial que preparamos
 para el \0Primero de Mayo \0￿sigue en
 marcha!
 ()촀\0Si no saben de qué se trata,
-\0 pasen
-por la \0oficina de gestión\0￿ a buscar
+\0 visiten
+la \0oficina de gestión\0￿ para buscar
 su \0boleto Primero de Mayo\0￿.
 (%촀\0Los está repartiendo \0Nook Inc.
 \0￿para agradecer el gran trabajo
@@ -183,14 +183,14 @@ de esta comunidad.
 muy lejanas y vivir todo tipo de
 aventuras,
 \0($촀\0 ¡no se lo pierdan!
-(촀\0Pasen por la \0oficina de gestión
+(촀\0Visiten la \0oficina de gestión
 \0￿y hablen con \0Tom Nook\0￿ sin falta."
 "008_02_03","(촀\0Por cierto, ¡hoy también celebramos
 el \0Primero de Mayo\0￿!
 \0
-¡Cuántos festejos!\0\0(촀\0Les recomiendo que vayan a la
-\0oficina de gestión\0￿ a informarse sobre
-los \0boletos Primero de Mayo\0￿.
+¡Cuántos festejos!\0\0(촀\0Les recomiendo que visiten la
+\0oficina de gestión\0￿ para informarse
+sobre los \0boletos Primero de Mayo\0￿.
 (촀\0\0Nook Inc.\0￿ los está repartiendo
 para agradecer el gran trabajo
 de esta comunidad.
@@ -203,15 +203,15 @@ donde los esperarán aventuras
 emocionantesn\0\0
 (촀\0Así que, si quieren apuntarse,
 \0
-vayan a hablar con \0Tom Nook\0￿ en
-la \0oficina de gestión\0￿ sin falta."
+visiten la \0oficina de gestión
+\0￿y hablen con \0Tom Nook\0￿ sin falta."
 "008_02_04","( 촀\0Ah, una cosita más.
 \0 (촀\0¡El evento
 especial que preparamos para el
 \0Primero de Mayo \0￿sigue en marcha!
 ()촀\0Si no saben de qué se trata,
-\0 pasen
-por la \0oficina de gestión\0￿ a buscar
+\0 visiten
+la \0oficina de gestión\0￿ para buscar
 su \0boleto Primero de Mayo\0￿.
 (%촀\0Los está repartiendo \0Nook Inc.
 \0￿para agradecer el gran trabajo
@@ -220,7 +220,7 @@ de esta comunidad.
 muy lejanas y vivir todo tipo de
 aventuras,
 \0($촀\0 ¡no se lo pierdan!
-(촀\0Pasen por la \0oficina de gestión
+(촀\0Visiten la \0oficina de gestión
 \0￿y hablen con \0Tom Nook\0￿ sin falta."
 "008_03","(촀\0¡Estamos celebrando el \0Día de
 la Naturaleza \0￿en n	\0!\0\0(촀\0Es un evento para reflexionar sobre
@@ -248,6 +248,41 @@ sellos que tendrá lugar en el \0museo\0￿.
 (촀\0¡Suena divertido!
 \0 Espero que todos
 se animen a participar."
+"008_07_01","()촀\0\0Nook Inc.\0￿ ha estado explorando y
+evaluando las aguas que rodean
+a nuestra isla.
+(촀\0Y hoy me alegra anunciar que, según
+las investigaciones, 
+\0(촀\0¡se puede nadar
+en el mar tranquilamente!
+(%촀\0Además, las aguas son muy
+cristalinas, 
+\0($촀\0así que son perfectas
+para hacer buceo.
+(9촀\0La seguridad de ustedes es esencial,
+\0
+así que les pedimos que usen trajes
+de buceo para sumergirse.
+()촀\0Pueden conseguir uno en la \0tienda\0￿
+o desde el catálogo de \0TeleNook\0￿.\0\0(촀\0Me encantaría ver la costa más
+animada que nunca, llena de
+isleños zambulléndose en el agua.
+($촀\0¡Que disfruten del buceo!"
+"008_07_02","(촀\0Como ya sabrán, 
+\0hemos confirmado
+que es seguro nadar en las aguas
+que rodean a nuestra isla.
+(%촀\0Además, como son tan cristalinas,
+\0
+son ($촀\0perfectas para hacer buceo.\0\0(9촀\0La seguridad de ustedes es esencial,
+\0
+así que les pedimos que usen
+trajes de buceo para sumergirse.
+()촀\0Pueden conseguir uno en la \0tienda\0￿
+o desde el catálogo de \0TeleNook\0￿.\0\0(촀\0Me encantaría ver la costa más
+animada que nunca, llena de
+isleños zambulléndose en el agua.
+($촀\0¡Que disfruten del buceo!"
 "010","(촂\0¡Hola, residentes!
 \0 Perdón por la
 interrupción,
@@ -509,8 +544,7 @@ en el suelo pueden usarse para
 este proyecto."
 "619_03","(촀\0Además, ¡seguro que se pueden usar
 en algún \0proyecto de taller\0￿!"
-"701","(
-촀\0Mmmn\0\0
+"701","(촀\0Mmmn\0\0
 \0 Pues parece ser que
 hoy no hay noticias, peron\0\0(촀\0 ¡Ah!"
 "702","<"
@@ -544,12 +578,10 @@ contarn"
 "802_01","(촀\0¡Ah, quizá sí!"
 "802_02","(촀\0¡Ah, sí!"
 "802_03","(촀\0¡O tal vez sí!"
-"803","(촀\0Técnicamente (
-촀\0ya estamos en
+"803","(촀\0Técnicamente (촀\0ya estamos en
 otro día,
 \0 pero lo diré como sean"
-"804_01_01","(
-촀\0Falta poco para que enero llegue
+"804_01_01","(촀\0Falta poco para que enero llegue
 a su fin.
 \0 (촀\0¡Ahí va el primer mes
 del año!
@@ -560,8 +592,7 @@ atrapar un resfriado.
 (촀\0Con esto me despido.
 \0
 ¡Bonito día!"
-"804_01_02","(
-촀\0Falta poco para que enero llegue
+"804_01_02","(촀\0Falta poco para que enero llegue
 a su fin.
 \0 (촀\0¡Ahí va el primer mes
 del año!
@@ -662,8 +693,7 @@ y además es \0Halloween\0￿!\0\0(6촀\0¡Me encanta disfrazarme!
 (촀\0Aunque no vaya a ninguna fiestan\0\0
 \0
 (촀\0¡Lo que importa es pasarla bien!"
-"804_11","(
-촀\0Ya se acaba noviembren\0\0
+"804_11","(촀\0Ya se acaba noviembren\0\0
 \0 Qué rápido
 se está pasando este año, ¿verdad?\0\0(촀\0¡Tengo que empezar a planear
 la celebración de fin de año!\0\0(촀\0Mejor me voy.
@@ -678,13 +708,11 @@ compartir.
 "806_02","Hoy no tengo anunciosn\0\0\0\0(촀\0Pero seguiré informando en cuanto
 tenga alguna novedad.
 \0 (""촀\0¡Adiós!"
-"807","(
-촀\0Hoy no tengo nada que informarn\0\0\0\0(촀\0¿Qué tal estuvo el lunes?
+"807","(촀\0Hoy no tengo nada que informarn\0\0\0\0(촀\0¿Qué tal estuvo el lunes?
 \0 Aún queda
 mucha semana por delante, así quen\0\0
 ¡a tomarlo con calma y disfrutar!"
-"808","(
-촀\0Vaya, no tengo nada que informar.\0\0(촀\0¡Pero ya estamos a mitad de semana!
+"808","(촀\0Vaya, no tengo nada que informar.\0\0(촀\0¡Pero ya estamos a mitad de semana!
 \0
 Un par de días más y podremos
 disfrutar del fin de semana."
@@ -706,8 +734,7 @@ tengo todo planeado!"
 "811","(촀\0Hoy no tengo nada nuevo que
 comunicar, residentes.
 \0 ¡Buen sábado!"
-"820","(
-촀\0Mmmn\0\0
+"820","(촀\0Mmmn\0\0
 \0 Pues parece ser que
 hoy no hay noticiasn"
 "821","( 촀\0¡Por cierto!
@@ -766,9 +793,9 @@ en mi casa.
 \0(촀\0 ¿Y si se apaga y hay
 una emergencia?"
 "831_04","(촀\0¡Oh!
-\0 ¡Mi hermano me pidió que
-le marcara en la mañana para
-despertarlo y se me olvidó!
+\0 ¡Mi hermano me pidió que lo
+llamara por teléfono en la mañana
+para despertarlo y se me olvidó!
 (촀\0Espero que no siga durmiendon"
 "899","(촀\0
 \0( 촀\0Esten\0\0
@@ -783,5 +810,5 @@ como anuncio, ¿verdad?
 \0
 (촀\0¡Que la pasen bien!"
 "901_03","Es todo por hoy.
-\0(촀\0 Pasen a la oficina
+\0(촀\0 Visiten la oficina
 si necesitan cualquier cosa."

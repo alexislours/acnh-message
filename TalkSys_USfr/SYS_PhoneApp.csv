@@ -337,6 +337,9 @@ respecte les mesures de sécurité!"
 "207","La réception est trop mauvaise.
 Il faut que tu te \0lèves\0￿ et que tu
 recommences."
+"207_01","La réception est trop mauvaise.
+Il faut que tu \0retournes sur la terre
+ferme\0￿ et que tu recommences."
 "208",""
 "209","Tu n'es \0pas dans la zone de
 couverture\0￿.\0\0Cette application n'est disponible qu'à n	\0, en extérieur."
@@ -510,6 +513,8 @@ que dans les espaces extérieurs
 de d'n	\0."
 "301","L'application qui affiche la carte
 ne fonctionnera pas sur cette île."
+"302","On dirait que tu ne peux pas
+consulter la carte quand tu nagesn"
 "311","Tiens? On dirait que ton
 emplacement actuel n'est pas
 couvert par ce service."

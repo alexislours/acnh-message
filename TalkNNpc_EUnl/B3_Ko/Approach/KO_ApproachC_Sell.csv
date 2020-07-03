@@ -23,8 +23,7 @@ dingen, om precies te zijn.
 "003_b","Nee, dank je."
 "004","(7촀\0Hé, n\0. 
 \0Heb je even?
-\0 (9촀\0Ik zit ergens meen\0\0\0\0(
-촀\0Het zit zo. Wanneer ik 2\0}\0\0 zie, schreeuwen mijn hersenen:
+\0 (9촀\0Ik zit ergens meen\0\0\0\0(촀\0Het zit zo. Wanneer ik 2\0}\0\0 zie, schreeuwen mijn hersenen:
 \0 (촀\0KOPEN!\0\0(촀\0Dus nou heb ik er veel te veel van,
 dus ik wil er graag een stel van
 wegdoen.
@@ -56,8 +55,7 @@ je bankroet maak.
 \0( (6촀\0Kom later maar
 een keer terug,
 \0 n\0."
-"100","(
-촀\0Noun\0\0 hoe klinkt Z?"
+"100","(촀\0Noun\0\0 hoe klinkt Z?"
 "100_a","Verkocht!"
 "100_b","Nee, dank je."
 "101","(촀\0Aha! 
@@ -77,8 +75,7 @@ geluksdag, 2jochiemeid."
 \0 Dan ga ik toch
 op zoek naar iemand die wel zin
 heeft in een koopje."
-"200","(
-촀\0Dan kunnen de onderhandelingen
+"200","(촀\0Dan kunnen de onderhandelingen
 beginnen.
 \0( ($촀\0Geef me er maarn\0\0
 Z voor!"
@@ -141,13 +138,11 @@ als dit wel te waarderen, 2jochiemeid!"
 "302","(촀\0Dan hoef ik nou alleen maar uit te
 puzzelen hoe ik al deze klingels het
 beste kan verspillenn"
-"303","(&촀\0Oké, heb je toevallig nog 2\0}\0\0 nodig?\0\0(
-촀\02촀DieDatDie kan ik wel missen voor Z."
+"303","(&촀\0Oké, heb je toevallig nog 2\0}\0\0 nodig?\0\0(촀\02촀DieDatDie kan ik wel missen voor Z."
 "303_a","Hier ermee!"
 "303_b","(\0촁\0Heb je iets anders?"
 "304","(촀\0Je hebt geen interesse?
-\0< (
-촀\0Okén\0\0 Is 2\0}\0\0 iets voor jou?\0\0($촀\0Ik vraag er Z voor.
+\0< (촀\0Okén\0\0 Is 2\0}\0\0 iets voor jou?\0\0($촀\0Ik vraag er Z voor.
 \0 Wat
 zeg je ervan?"
 "304_a","Klinkt goed!"
@@ -155,8 +150,7 @@ zeg je ervan?"
 "305","(촀\0Jakkes!
 \0 Ik ben bijna door al
 mijn opties heen. 
-\0(
-촀\0Denk na,
+\0(촀\0Denk na,
 n
 \0n\0\0\0\0(촀\0Heb je interesse in 2\0}\0\0 voor Z?"
 "305_a","Ik heb interesse!"
@@ -167,8 +161,7 @@ ik iets vergeten te zeggen? 
 \0($촀\0Nee, ik
 heb al veel te veel gezegd! 
 \0(촀\0Bwahaha!"
-"400","(
-촀\0Noun\0\0 minder dan Z kan
+"400","(촀\0Noun\0\0 minder dan Z kan
 ik er niet voor vragen.
 \0 ($촀\0Doe je het
 daar wel voor?"

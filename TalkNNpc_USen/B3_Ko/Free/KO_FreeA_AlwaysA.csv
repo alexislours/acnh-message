@@ -32,8 +32,7 @@ Gahaha!"
 kiddo. 
 \0Guess you're a true-blue
 child of the cable generation, huh?
-(
-촀\0Just one thing—where do you find
+(촀\0Just one thing—where do you find
 the time for fishin' or bug catchin'
 if you're always on the tube?
 (5촀\0Lemme let you in on a little secretn\0\0
@@ -69,12 +68,10 @@ food. 
 stuffed with 촁.
 ('촀\0Yep. 
 \0I'm not a fan, kiddo."
-"010","(
-촀\0When I was a kid, I was in the
+"010","(촀\0When I was a kid, I was in the
 hospital all the time.
 \0 (촀\0Nothin'
-serious, just normal kid stuff.\0\0(
-촀\0Y'know, like horsin' around with my
+serious, just normal kid stuff.\0\0(촀\0Y'know, like horsin' around with my
 friends and jumpin' down wells and
 fightin' wolverines and such.
 (촀\0I was always so covered in bandages
@@ -141,8 +138,7 @@ first ones to ever think of it.
 (촀\0Anyhow, one time Jimmy got all
 tangled up and he was stuck there
 until March!
-(
-촀\0Can't remember what month
+(촀\0Can't remember what month
 we started playin'n"
 "024","(촀\0I always end up lookin' goofy in
 pictures.
@@ -172,3 +168,42 @@ to you puts me at ease.
 \0 So (5촀\0that'd be
 the best time to take my picture!"
 "027","<\0"
+"028","(1촀\0There's nothin' like lookin' up at the
+night sky full of stars, kiddo.
+\0 Really
+makes you thinkn"
+"029","<"
+"029_01","(촀\0Liken\0\0how can I see that star that's
+about a bazillion miles away, but I
+can't read my paper without glasses?\0\0(&촀\0What if the bottom of the oceans
+and the top of the mountains are
+kinda the samen\0\0in a way?\0\0(촀\0If 2\0촀 falls off the
+shelf in my garage but I ain't there
+to hear it, does it make a sound?\0\0(촀\0Bah! 
+\0That's enough deep thinkin'
+for now. 
+\0(1촀\0I'll just go back to gazin'
+at the starsn"
+"029_02","(촀\0You know, they say everything's
+made outta stardust or somethin',
+right? 
+\0((촀\0But how can that be?
+(촀\0You're tellin' me that my
+촀 is made outta
+stardust? 
+\0And my 촁?!\0\0(촀\0And what about the 촀
+I had for dinner last night?
+\0 I was
+eatin' stars?! 
+\0(촀\0Well, it was spicyn"
+"029_03","(1촀\0Liken\0\0don't those stars kinda look
+like tiny grains of rice?\0\0(촀\0And who figured out that we can eat
+rice, anyhow?
+\0 Were folks just tastin'
+things and hopin' for the best?\0\0(촀\0And how does taste work? 
+\0How come
+촀 is delicious, and
+fried mud is slightly less delicious?\0\0(:촀\0Don't ask any questions about the
+fried mud. 
+\0It was a different time
+in my life, n\0."

@@ -32,7 +32,7 @@ sarà uno scherzo!"
 "013","(촀\0Oh, davvero? 
 \0Sarebbe magnifico!
 \0
-(촀\0Non vedo l'ora che tu torni a mani
+(촀\0Non vedo l'ora che tu torni a zampe
 piene!"
 "014","(촀\0Dici sul serio?! 
 \0Lo faresti per me?
@@ -45,10 +45,10 @@ può essere scoraggiante.
 alcuna intenzione di rinunciare!"
 "016","(%촀\0Beh, 
 \0ogni notte 
-\0sogno di mettere le
-mani su quell'esemplare.
-\0 (""촀\0È un segno
-premonitore. Prima o poi ci riuscirò!"
+\0sogno di mettere
+le zampe su quell'esemplare.\0\0(""촀\0È un segno premonitore. 
+\0Prima o poi
+ci riuscirò!"
 "017","(촀\0Apprezzo molto il tuo supporto
 morale,
 \0 tesoro.
@@ -168,20 +168,17 @@ Lascia fare a me!
 Ora non posso.
 Scusa, non posso."
 "028","(촀\0Oh, n\0.
-\0 Ho bisogno di chiederti una cosa. 
-\0((""촀\0È da un po' 
-\0che sto cercando di catturaren\0\0\0\0n\0\0 degli insetti che amano stare 
-\0sui
-ceppi degli alberi. ()촀\0Sono 
-\0affascinanti.
-E avevo trovato l'esemplare perfetto!
-\0
-(촀\0Però purtroppo
-\0 mi è scappato!
-(4촀\0Dovresti farmi un enorme favoren\0\0 
-\0Ne cattureresti uno per me?
-\0(
-(촀\0Apprezzerò qualsiasi insetto che ami
+\0 Ho bisogno di chiederti una cosan\0\0\0\0(""촀\0È da un po' che sto cercando di
+catturare degli insetti che amano
+stare sui ceppi degli alberi.
+()촀\0Sono affascinanti 
+\0e avevo anche
+trovato l'esemplare perfetto.
+\0 (촀\0Però
+purtroppo mi è scappato!
+(4촀\0Dovresti farmi un enorme favore:
+
+\0ne cattureresti uno per me?\0\0(촀\0Apprezzerò qualsiasi insetto che ami
 i ceppi degli alberi!"
 "028_a","Ci penso io!
 Lascia fare a me!
@@ -273,8 +270,9 @@ resto.
 catturare l'insetto dei miei sogni.\0\0
 \0Questo è poco ma sicuro. (%촀\0È dura,
 \0
-ma devo pensare positivo
-\0 (촀\0e impegnarmi di più."
+ma devo pensare positivo
+
+\0(촀\0e impegnarmi di più."
 "201","Il punto è che
 \0 ('촀\0non so cosa fare.
 \0 (7촀\0Non

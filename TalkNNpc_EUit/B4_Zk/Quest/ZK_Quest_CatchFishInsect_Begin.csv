@@ -78,8 +78,8 @@ in un modo o nell'altro."
 "018","(촀\0Niente paura, è todo a posto.
 \0
 (%촀\0Prima o poi realizzerò questo sogno!"
-"021","(
-촀\0Ehi, con tutto questo parlare d'insetti, mi è venuta voglia di dirti
+"021","(촀\0Ehi, con tutto questo parlare
+d'insetti, mi è venuta voglia di dirti
 qual è il mio preferito.
 (촀\0Lo scarabeo! 
 \0Non c'è nessun altro
@@ -87,7 +87,8 @@ insetto che muove le sue corna con
 così tanto estilo!
 (&촀\0Pensi che potresti portarmene uno?
 \0(
-(촀\0Non importa di che tipo è, mi basta che abbia un bel paio di corna!"
+(촀\0Non importa di che tipo è, mi basta
+che abbia un bel paio di corna!"
 "021_a","Lascia fare a me!
 OK!
 Certo!"
@@ -167,8 +168,7 @@ Adesso non posso.
 Mi spiace, ma... no."
 "027","( 촀\0Hai mai visto un insetto posarsi
 su un fiore? 
-\0((촀\0È un piccolo miracolo!\0\0(
-촀\0A casa ho già i fiori. Ora mi servono
+\0((촀\0È un piccolo miracolo!\0\0(촀\0A casa ho già i fiori. Ora mi servono
 gli insetti così posso filmarli quando
 planano sui fiori.
 (&촀\0Pensi che potresti portarmene uno?
@@ -181,8 +181,7 @@ Certo!"
 "027_b","(\0촁\0Scusa, è che ora...
 Adesso non posso.
 Mi spiace, ma... no."
-"028","(
-촀\0Hai mai visto quegli insetti che si
+"028","(촀\0Hai mai visto quegli insetti che si
 posano sui ceppi d'albero?
 \0 Ho
 pensato mucho a loro ultimamente.
@@ -243,8 +242,7 @@ fartin\0\0
 "102","(&촀\0Dimmi un po', ti è mai capitato
 di dare la caccia 2촀alalla\0 temibile
 }촀?
-(
-촀\0Pare che in fondo non sia così
+(촀\0Pare che in fondo non sia così
 temibile come diconon\0\0 (촀\0Che ne
 diresti di scoprirlo di persona?"
 "102_a","(\0촁\0D'accordo!
@@ -278,8 +276,7 @@ fartin\0\0
 "202","(&촀\0Dimmi un po', ti è mai capitato
 di dare la caccia 2촀alalla\0 temibile
 }촀?
-(
-촀\0Pare che in fondo non sia così
+(촀\0Pare che in fondo non sia così
 temibile come diconon\0\0 (촀\0Che ne
 diresti di scoprirlo di persona?"
 "202_a","(\0촁\0D'accordo!

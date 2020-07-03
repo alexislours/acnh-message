@@ -207,6 +207,7 @@
 \0\0\0s"
 "Ftr_01181","2\0ă촅Tischtennisset2
 \0\0\0s"
+"Ftr_01182","2\0ā촃Tanabata-Bambus"
 "Ftr_01185","2\0Ȃ촄Telefonzelle"
 "Ftr_01186","2\0ă촅Teleskop2
 \0\0\0s"
@@ -243,6 +244,9 @@
 "Ftr_01263","2\0ā촃Birnenschrank2
 \0\0\0s"
 "Ftr_01266","2\0ă촅Fass2\0\0\0es"
+"Ftr_01268","2\0Ȃ촄Piratenschiffskanone"
+"Ftr_01273","2\0ă촅Piratenschiffssteuerrad2
+\0\0\0s"
 "Ftr_01277","2\0ā촃Kakaobaum2
 \0\0\0s"
 "Ftr_01288","2\0Ȃ촄Fächerpalme"
@@ -306,8 +310,7 @@
 "Ftr_01558","2\0ă촅Bauklotzbücherregal2
 \0\0\0s"
 "Ftr_01559","2\0Ȃ촄Bauklotzbank"
-"Ftr_01561","2\0ă촅Bauklotzregal2
-\0\0\0s"
+"Ftr_01561","2\0Ȃ촄Bauklotzkommode"
 "Ftr_01565","2\0ā촃Bauklotztisch2
 \0\0\0s"
 "Ftr_01567","2\0ă촅Ölfass2\0\0\0es"
@@ -357,7 +360,7 @@
 \0\0\0s"
 "Ftr_01804","2\0ā촃E-Bass2\0\0\0es"
 "Ftr_01816","2\0Ȃ촄Umkleide"
-"Ftr_01823","2\0촃Müll2
+"Ftr_01823","2\0ă촅Müllsack-Set2
 \0\0\0s"
 "Ftr_01829","2\0Ȃ촄Zypresse"
 "Ftr_01836","2\0ā촃Luftbefeuchter2
@@ -1401,7 +1404,29 @@
 "Ftr_12486","2\0ā촃Fischwandschmuck2
 \0\0\0s"
 "Ftr_12543","2\0Ȃ촄Nintendo Switch"
+"Ftr_12552","2\0ā촃Nixentisch2
+\0\0\0s"
+"Ftr_12553","2\0ă촅Nixenregal2
+\0\0\0s"
+"Ftr_12554","2\0ā촃Nixenspiegel2
+\0\0\0s"
+"Ftr_12555","2\0ā촃Nixenraumtrenner2
+\0\0\0s"
+"Ftr_12556","2\0Ȃ촄Nixenlampe"
+"Ftr_12557","2\0Ȃ촄Nixenwanduhr"
+"Ftr_12558","2\0ă촅Nixenbett2
+\0\0\0s"
+"Ftr_12559","2\0ā촃Nixenschrank2
+\0\0\0s"
+"Ftr_12560","2\0ă촅Nixensofa2
+\0\0\0s"
+"Ftr_12561","2\0Ȃ촄Nixenkommode"
+"Ftr_12562","2\0ā촃Nixenstuhl2
+\0\0\0s"
 "Ftr_12565","2\0ă촅Foto2
 \0\0\0s von Rosina und Björn"
+"Ftr_12572","2\0ă촅Piratenfass2\0\0\0es (liegend)"
+"Ftr_12573","2\0Ȃ촄Piratenschatzkiste"
+"Ftr_12574","2\0ă촅Piratenfass2\0\0\0es"
 "Ftr_12579","2\0Ȃ촄Nintendo Switch (ACNH)"
 "Ftr_12741","2\0Ȃ촄Weltkarte"

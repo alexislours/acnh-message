@@ -22,16 +22,15 @@ kosten,
 \0 eintauschen.
 \0(촀\0 Denk daran."
 "003","(촀\0Das ist unser \0Umkleideraum\0￿!
-\0
-Dort kannst du Sachen anprobieren
-\0
+\0
+Dort kannst du Sachen anprobieren
 und sofort kaufen,
 \0 was dir gefällt!
-()촀\0Hier siehst du, wie sie an dir
-aussehen, 
-\0und du kannst gleich
-mehrere Exemplare erwerben!
-(촀\0Er steht dir jederzeit zur Verfügung!"
+()촀\0Du kannst dort auch mehrere Stücke
+miteinander kombinieren und deinen
+neuen Look im Spiegel prüfen!
+(촀\0Der Umkleideraum steht dir jederzeit
+zur Verfügung!"
 "010","<"
 "010_01","(촀\0Sieht gut aus!
 \0 Vielen Dank."
@@ -83,3 +82,20 @@ leider nicht nutzen.
 (촀\0Immer nur eine Änderung auf einmal,
 \0
 weißt du?"
+"021","(촀\0Oh, 
+\0tut mir leid, aber
+\0 solange du
+einen Taucheranzug trägst, 
+\0kannst
+du den Umkleideraum nicht nutzen.
+(촀\0Bitte ziehe dir erst ein paar trockene
+Sachen an, 
+\0bevor du den Umkleide-
+raum betrittst."
+"022","(\0촀\0Aber wenn du einen Taucheranzug
+trägst, 
+\0kannst du den Umkleideraum
+leider nicht nutzen.
+(촀\0Bitte zieh dir erst etwas Trockenes
+an, 
+\0bevor du ihn betrittst."

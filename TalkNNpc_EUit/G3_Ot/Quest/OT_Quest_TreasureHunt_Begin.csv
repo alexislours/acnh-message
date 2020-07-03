@@ -72,28 +72,23 @@ gli edifici.
 x\0\0\0(촀\0Ho sotterrato un tesoro sull'isola.
 \0
 Trovalo entro il tempo prestabilito
-\0
- e
+\0 e
 vincerai!
 \0 Se non ci riesci,
-\0
- vinco io!
+\0 vinco io!
 ´\0
 (%촀\0Ricorda che si trova sotto terra,
 \0
 quindi non c'è bisogno che cerchi
 dentro gli edifici.
 ´\0\0\0(9촀\0Però, 
-\0
-questo è un gioco fra noi due,
+\0questo è un gioco fra noi due,
 
-\0
-quindi altri che stanno giocando con
+\0quindi altri che stanno giocando con
 te($촀\0 non possono aiutarti.
 ´\0
 (""촀\0Allora, 
-\0
-iniziamo, n\0?
+\0iniziamo, n\0?
 ´"
 "012","(촀\0Benissimo.
 \0 Ora ti spiego come si
@@ -115,8 +110,7 @@ un po' più difficilen\0\0
 \0 (""촀\0Buona fortuna!
 ð"
 "012_01","(촀\0Dunque,
-\0
- ora ti spiego come giocare.
+\0 ora ti spiego come giocare.
 \0
 x\0\0\0(%촀\0Ho sotterrato un tesoro sull'isola.
 \0 ()촀\0Se
@@ -128,21 +122,17 @@ vinci!
 ´\0
 (6촀\0Stavolta il tempo a disposizione è
 più breve,
-\0
- quindi potresti avere
+\0 quindi potresti avere
 difficoltà a trovare il tesoro.
 ´\0\0\0($촀\0Oh, un'altra cosa. 
-\0
-Giochiamo solo noi
+\0Giochiamo solo noi
 due,
 \0 quindi, 
-\0
-(9촀\0altri che giocano con te
+\0(9촀\0altri che giocano con te
 non potranno aiutarti.
 È\0
 (""촀\0Allora, 
-\0
-iniziamo, n\0?!
+\0iniziamo, n\0?!
 È"
 "013","(&촀\0Vuoi che ti spieghi le regole?"
 "013_a","Sì, grazie!"
@@ -168,15 +158,13 @@ disposizione ora è di meno.
 \0possiamo iniziare?
 ´"
 "015_01","(%촀\0Bene.
-\0
- Ma stavolta fai attenzione
+\0 Ma stavolta fai attenzione
 perché il tempo a disposizione è
 breve.
 \0 (9촀\0Oh, e niente aiuto dagli amici.
 ´\0
 (""촀\0E ora
-\0
- iniziamo, n\0!
+\0 iniziamo, n\0!
 x"
 "101","(촀\0Scusa,
 \0 hai tempo?

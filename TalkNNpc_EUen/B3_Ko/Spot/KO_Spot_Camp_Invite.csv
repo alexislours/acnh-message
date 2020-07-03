@@ -1,7 +1,6 @@
 ﻿"label","text"
 "002","(촀\0You serious, kiddo? 
-\0(
-촀\0I meann\0\0mayben\0\0\0\0(%촀\0Alright, done deal. I'm there.
+\0(촀\0I meann\0\0mayben\0\0\0\0(%촀\0Alright, done deal. I'm there.
 Or here.
 \0(촀\0 I'm home!\0\0(6촀\0Just point me at \0Resident Services\0￿
 and I'll give 'em what for!"
@@ -16,8 +15,7 @@ as soon as I get the OK from
 \0Resident Services\0￿, n\0."
 "101","<"
 "101_01","(촀\0You serious, kiddo?
-\0((\0촀\0(
-촀\0 I mean,
+\0((\0촀\0(촀\0 I mean,
 the thought of moving here
 really does ruffle my trufflesn\0\0
 But I gotta pass this time. I don't('촀\0
@@ -35,8 +33,7 @@ many loose ends to tie up.
 ('촀\0Sorry, kiddo. I've got too much going
 on to move right now, n\0."
 "201_01","(촀\0You serious, kiddo?
-\0( (
-촀\0Hmm
+\0( (촀\0Hmm
 \0n\0\0
 This ain't the kinda move I can
 just rush into all willy-nilly
@@ -55,11 +52,9 @@ help me decide,
 "201_01_b","Forget it."
 "201_02","(촀\0Whoa! Didn't think I'd be makin'
 a big life decision today
-\0n\0\0 (
-촀\0I gotta
+\0n\0\0 (촀\0I gotta
 think this over.
-\0 Get mentally ready.\0\0(
-촀\0Movin' does interest me, but—
+\0 Get mentally ready.\0\0(촀\0Movin' does interest me, but—
 \0
 (촀\0I know!
 \0( (;촀\0How 'bout we play a game
@@ -94,10 +89,10 @@ good idea gone by the wayside.
 \0
 (\0촀\0Maybe another time,
 \0 n\0."
-"203_01","(촀\0Yes! And I know just the game!
-\0((\0촀\0 It's
-an old card game. I draw a card, you
-make a guess about it, n\0."
+"203_01","(촀\0Yes!
+\0 That's the spirit!
+\0( (%촀\0OK, this is just
+a simple card game, n\0."
 "204","<"
 "204_01","(촀\0Too bad!
 \0( (촀\0Looks like that puts
@@ -162,8 +157,7 @@ win and I'll pack my bags. 
 Do I need to hire a publicist?
 \0
 (촀\0Gahaha! 
-\0I'm just foolin'.\0\0(
-촀\0Anyway, let's make it interestin'.
+\0I'm just foolin'.\0\0(촀\0Anyway, let's make it interestin'.
 \0
 We'll play a game, and if you win,
 consider me a new resident. 
@@ -204,8 +198,7 @@ I checked in with your \0Resident Services\0￿ folks to see about movin'
 space for anyone to build a house!\0\0(촀\0Well, I ain't livin' on no beach again!
 \0
 Been there, done that. 
-\0(촀\0Sorry, kiddo.\0\0(
-촀\0Now, if someone was thinkin' of
+\0(촀\0Sorry, kiddo.\0\0(촀\0Now, if someone was thinkin' of
 movin' out, I could work with that.
 (&촀\0Heard anything, n\0?"
 "302_a","I have!"
@@ -258,6 +251,22 @@ soon anyway,
 (촀\0You're n\0, aren't ya?
 \0(
 ($촀\0Be seein' you around, n\0!"
+"309_01","That'll make things easier.
+\0 (촀\0Looks like
+s촀's place is empty!(촀\0\0\0Nothing to it but to move in, I guess.
+\0
+( 촀\0Oh! 
+\0I did introduce myself, right?
+\0(
+(""촀\0Just in case, 
+\0I'm n
+\0.\0\0(9촀\0Now if I recollect, 
+\0you like to go byn\0\0
+n\0.
+\0 (&촀\0I say that right?\0\0(촀\0Well, it's a pleasure to be your future
+neighbor. 
+\0I reckon we'll get along
+juuuust fine, n\0."
 "310","( 촀\0Hey, what gives?
 \0((촀\0 You forget who
 you were thinkin' of, n\0?"
@@ -291,8 +300,7 @@ folks to ask about movin' in.
 \0Sounds like the
 island is chock-full already. (촀\0Any
 more folks and it might just sink!
-(
-촀\0Waitn\0\0can islands sink?
+(촀\0Waitn\0\0can islands sink?
 \0
 (촀\0Bah! 
 \0Better not to risk it."
@@ -320,8 +328,7 @@ myself, then.
 more of me! 
 \0(촀\0Gahaha!
 "
-"410","(
-촀\0Well now,
+"410","(촀\0Well now,
 \0 hang on just a minute.
 \0
 Maybe I need to ask again,
@@ -339,8 +346,7 @@ to believe there's no space for little
 old me.\0\0(촀\0Says something, though, that I got
 invited to such a popular place. Hope
 we stay in touch, n\0."
-"424","(
-촀\0No land for sale anywhere on your
+"424","(촀\0No land for sale anywhere on your
 entire islandn\0\0 Can you imagine?\0\0(촀\0Must be somethin' real special
 happenin' here, huh? 
 \0Shame I
@@ -361,8 +367,7 @@ livin' here,
 \0 n\0."
 "504_a","Then live here!"
 "504_b","That's a nice dream."
-"505","(
-촀\0Huh,
+"505","(촀\0Huh,
 \0 interestin'
 \0n\0\0
 \0 (\0촀\0That idea ain't
@@ -385,8 +390,7 @@ resident, n\0!"
 "507_a","Then stay here!"
 "507_b","It's that good, huh?"
 "508","(촀\0Well shucks,
-\0 if that ain't a nice invite!\0\0(
-촀\0If that's a serious offer,
+\0 if that ain't a nice invite!\0\0(촀\0If that's a serious offer,
 \0 it deserves
 some serious consideration
 \0n\0\0\0\0(:촀\0That's somethin' to do on my next

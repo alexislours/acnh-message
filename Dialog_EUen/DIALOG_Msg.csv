@@ -94,6 +94,7 @@ switch into them using a \0wand\0￿.\0\0\0\0Using a wand outfit is 
 transformation, rather than actually
 changing your clothes.\0\0What you're wearing underneath the
 transformation will not change.\0￿"
+"0505","You can't change with a wet suit on."
 "0551","You're not wearing anything that can
 be part of an outfit!"
 "0552","This outfit can't fit in your storage
@@ -1020,6 +1021,10 @@ and looking great while you do it!
 Have fun collecting the whole set and
 then designing your home interior!
 \0\0Items will be delivered by mail.\0￿"
+"3021","A custom-designed \0wet suit\0￿ from
+Nook Inc. Allows the user to swim
+and dive freely in the ocean.
+\0\0Item will be delivered by mail.\0￿"
 "5001","\0Camera\0￿
 Take pictures using various
 filters and effects.\0\0\0\0The pictures will be saved to the
@@ -1044,6 +1049,14 @@ amazing opportunity!"
 "5021","\0Critterpedia\0￿
 Check this app for information on
 the bugs and fish you've caught."
+"5022","\0Critterpedia\0￿
+Check this app for information on
+the bugs, fish, and sea creatures
+you've caught."
+"5023","\0Critterpedia\0￿
+Your app has been upgraded with
+additional information about the
+sea creatures you've captured!"
 "5031","\0DIY Recipes\0￿
 Check this app for info on the
 DIY Recipes you've collected.\0\0You can also register frequently
@@ -1435,14 +1448,27 @@ reinitialized if you start playing again.
 Do you want to start playing again?"
 "8016_a","No"
 "8016_b","Yes"
-"8017","This user does not have a Nintendo
-Account linked, or this user needs to
-sign into their Nintendo Account
-again.\0\0Any features that use the internet,
-like the Best Friends List, will be
-reinitialized if you start playing again.\0\0Do you want to start playing again
-and reinitialize all features that use
-the internet?"
+"8017","The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.\0\0If you begin playing before verifying,
+all features that use the internet—
+including the Best Friends List—will
+be reinitialized.\0\0Do you want to reinitialize all
+features that use the internet
+and begin playing?"
 "8017_a","No"
 "8017_b","Yes"
+"8018","The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.\0\0You will now have a chance to
+connect to the internet to complete
+this process."
+"8018_a","Close"
 "8019","Starting game again."
+"8020","The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.\0\0You will now have a chance to
+connect to the internet to complete
+this process."
+"8020_a","No"
+"8020_b","Close"

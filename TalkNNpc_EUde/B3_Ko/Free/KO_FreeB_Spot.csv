@@ -10,8 +10,7 @@ Wespenschwarm weglaufen muss?"
 Insel 
 \0(5촀\0muss ich auch diese Gegend
 genau im Auge behalten!"
-"001_03","(
-촀\0Man mag von diesem Fleckchen hier
+"001_03","(촀\0Man mag von diesem Fleckchen hier
 denken,
 \0 was man willn\0\0\0\0(%촀\0Auch der gehört zu n\0, 
 \0und ich habe das Recht, 
@@ -22,8 +21,7 @@ sich perfekt, um nachzudenken
 \0n\0\0
 Findest du nicht auch,
 \0 n\0?"
-"001_05","(
-촀\0Hrmm...
+"001_05","(촀\0Hrmm...
 \0 Hier scheint so weit alles in
 Ordnung zu sein.
 \0 (%촀\0So ist's recht!(\0촀"
@@ -56,8 +54,7 @@ ist schon was Feines... 
 \0
 (촀\0Hauptsache,
 \0 du bist glücklich."
-"005","촊(
-촀\0Fürs Erste ist die Hütte schon ganz
+"005","촊(촀\0Fürs Erste ist die Hütte schon ganz
 passabel.\0\0촆(6촀\0Ich würde nur noch diese Wand da
 rausnehmen und die da auch, dann
 wäre es perfekt. 
@@ -103,8 +100,7 @@ Keller.
 selbst einen zu graben.
 \0 ('촀\0Das ist leider
 nicht ganz nach Plan verlaufen..."
-"012","촊촉(
-촀\0Paradox, 
+"012","촊촉(촀\0Paradox, 
 \0dass s\0촀
 immer noch in einem Zelt haust.\0\0촆촃(촀\0Aber ist auch nicht verkehrt. 
 \0Man ist
@@ -118,8 +114,7 @@ seiner Größe beurteilen, 
 \0weißt du?\0\0촆촃(촀\0Man beurteilt es danach, wie sauber
 das Badezimmer ist! 
 \0(촀\0Bwa ha ha ha!"
-"014","촊(
-촀\02\0s\0촀 scheint in촉 geheimer Mission unterwegs zu sein.
+"014","촊(촀\02\0s\0촀 scheint in촉 geheimer Mission unterwegs zu sein.
 \0 Oder so was in der Art.\0\0촆촃(%촀\0Auf jeden Fall ist es ziemlich still
 da drin.
 \0 (촀\0N-
@@ -132,8 +127,7 @@ einbrechen wollen würde, 
 \0 (촀\0촉Hab gehört, 2촀ersie\0 hat ganz schön angebaut!\0\0촆촃(촀\0Als Nächstes kommt dann wohl ein
 Burggraben, 
 \0n\0!"
-"016","촊(
-촀\0Wenn ich s\0촀 wäre,
+"016","촊(촀\0Wenn ich s\0촀 wäre,
 \0촉 wäre ich zufrieden mit meinem Haus.\0\0촆촃(5촀\0Aber vielleicht reicht 2촀ihmihr\0 das noch
 nicht, 
 \0und 2촀ersie\0 will ein noch größeres
@@ -144,8 +138,7 @@ Haus, 
 s\0촀 inzwischen ist!\0\0촆촃(촀\0Aber ich maße mir da kein Urteil an.
 \0
 Wenn s\0촀 ein großes Haus will, 
-\0warum nicht?\0\0(
-촀\0Vielleicht ist ja mein Haus auch zu
+\0warum nicht?\0\0(촀\0Vielleicht ist ja mein Haus auch zu
 klein!
 \0( (촀\0Ich mach mich wohl besser
 schnell an die Arbeit, 
@@ -162,8 +155,7 @@ sich einen Keller geleistet!\0\0(촀\0Oh, 
 \0ich mag Keller, 
 \02 KleinerKleines.
 \0 Die sind
-so eine Art Festung für mich.\0\0(
-촀\0Wie s\0촀 wohl 2촀
+so eine Art Festung für mich.\0\0(촀\0Wie s\0촀 wohl 2촀
 seineihre\0 Festung dekoriert?
 \0 Hat 2촀ersie\0 ein eigenes Wappen?
 \0 Ohne geht nicht!"
@@ -189,8 +181,7 @@ Kleinen es so weit gebracht haben!
 ich immer sentimentaler!"
 "024","촊촉(&촀\0Hast du mitgekriegt, dass wir ein
 \0Museum\0￿ kriegen, 
-\0n\0?\0\0촆촃(
-촀\0Gibt nur ein Problem mit neuen
+\0n\0?\0\0촆촃(촀\0Gibt nur ein Problem mit neuen
 Museen... 
 \0(('촀\0Man muss erst mal Zeug
 zum Ausstellen ranschaffen!
@@ -257,29 +248,24 @@ keine Veränderungen,
 \0haben meine Eltern
 mich ständig durch dieses oder jenes
 Museum geschleift.
-(
-촀\0Vielleicht krieg ich deshalb beim
+(촀\0Vielleicht krieg ich deshalb beim
 Anblick von Dinosauerierknochen
 nostalgische Gefühle, 
 \0n\0..."
-"119","(
-촀\0Neulich habe ich mir Fische im
+"119","(촀\0Neulich habe ich mir Fische im
 \0Museum\0￿ angesehen, 
 \0und da kam
 mir ein Gedanke.
 (&촀\0Wann schlafen Fische? 
 \0Und wo?!
 \0
-Haben die kleine Betten?\0\0(촀\0Wo schläft denn 2F)촀der kleinedie kleinedas kleine
-
-\0, 
+Haben die kleine Betten?\0\0(촀\0Wo schläft denn 2F*촀der kleinedie kleinedas kleine
+\0, 
 \0hä?"
 "120","(촀\0Ich hab mir die Tage im \0Museum\0￿
-2)촀'nen'ne'n 2촁
- angesehen.\0\0(
-촀\0Da bin ich ins Grübeln gekommen...
+2*촀'nen'ne'n 2촁 angesehen.\0\0(촀\0Da bin ich ins Grübeln gekommen...
 \0
-Früher hätte ich so 2&)촀
+Früher hätte ich so 2&*촀
 eineneine
 eines locker in
 die Hand genommen.
@@ -293,8 +279,7 @@ so was auf mir landet."
 \0
 Du weißt doch, welches ich meine.
 \0
-(촀\02)촀DenDieDas 2촁
-!
+(촀\02*촀DenDieDas 2촁!
 (1촀\0Kannst du dir vorstellen, dass so was
 mal wirklich rumgekreucht ist?
 \0
@@ -304,9 +289,7 @@ mal wirklich rumgekreucht ist?
 nicht. 
 \0(촀\0Bei anderen Werken muss ich
 nur ein paar Mal hinschauen.
-(
-촀\0Wie 2)촀dendie das 
-!\0\0(%촀\0Je öfter ich 2)촀ihnsiees mir anschaue, desto
+(촀\0Wie 2*촀dendie das !\0\0(%촀\0Je öfter ich 2*촀ihnsiees mir anschaue, desto
 besser wird es. 
 \0(\0촀\0Wie ich! 
 \0(촀\0Gra ha ha!"

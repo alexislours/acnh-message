@@ -139,8 +139,7 @@ kleine eilandgemeenschap.\0\0(1촀\0Het wordt echt fantastisch! 
 \0Een
 reisje naar een afgelegen eilandn\0\0
 \0
-(촀\0Een stukje ontspanningn\0\0\0\0(
-촀\0Wacht even, is dat niet al waarom we
+(촀\0Een stukje ontspanningn\0\0\0\0(촀\0Wacht even, is dat niet al waarom we
 allemaal híér wonen?\0\0(\0촀\0Hoe dan ook, 
 \0het wordt hartstikke
 leuk, 
@@ -172,8 +171,7 @@ gemeenschap.\0\0(1촀\0Het wordt geweldig. 
 een afgelegen eilandn\0\0
 \0(촀\0 Even heerlijk
 tot rust komenn\0\0
-(
-촀\0Wacht, is dat niet waarom we naar
+(촀\0Wacht, is dat niet waarom we naar
 dít eiland zijn verhuisd?\0\0(\0촀\0Het wordt in ieder geval ontzettend
 leuk, 
 \0($촀\0dus vergeet niet om \0meneer
@@ -196,7 +194,7 @@ over bij de \0servicebalie\0￿."
 \0 vieren we \0Natuurdag
 \0￿op n	\0!\0\0(촀\0Een mooie gelegenheid om na te
 denken over hoe we meer voor
-het milieu kunnen betekenen.\0\0(\0촀\0Je kunt tot en met 4 mei deelnemen
+het milieu kunnen betekenen.\0\0(\0촀\0Je kunt tot en met \04 mei \0￿deelnemen
 aan de speciale activiteiten.
 \0(""촀\0 Maak er
 een milieuvriendelijke dag van!"
@@ -219,6 +217,45 @@ houden van 18 tot en met 31 mei!
 \0 Ik hoop dat
 iedereen naar het museum gaat($촀\0 om
 mee te doen aan de race."
+"008_07_01","Sinds enige tijd
+\0()촀\0 beijvert Nook Inc.
+zich om het ons omringende water
+te verkennen en te onderzoeken.
+(촀\0Op basis van de bevindingen
+kunnen we concluderen
+\0(촀\0 dat de
+zee veilig is om in te zwemmen!
+En dat is nog niet allesn\0\0 
+\0(%촀\0Het water
+is zo helder en schoon
+\0($촀\0 dat je er ook
+uitstekend in kunt duiken!
+(9촀\0Voor jullie veiligheid
+\0 vragen we jullie
+wel de juiste kleding te dragen
+als jullie het water in gaan.
+()촀\0Een duikpak kun je kopen in
+de winkel of bestellen via de
+Nook-catalogus.\0\0Ooo, (촀\0ik kan niet wachten om te
+horen wat voor avonturen jullie
+zullen beleven in de zee!"
+"008_07_02","Zoals we je al hebben laten weten,
+\0
+(촀\0is de zee om ons eiland veilig
+bevonden om in te zwemmen.
+En dat niet alleenn\0\0
+\0 (%촀\0het water is
+zo helder en schoon
+\0($촀\0 dat je er ook
+uitstekend in kunt duiken!
+(9촀\0Voor ieders veiligheid
+\0 willen we jullie
+wel vragen een duikpak te dragen
+als jullie het water in gaan.
+()촀\0Duikpakken zijn zowel in de winkel
+als via de Nook-catalogus te koop.\0\0Ooo, (촀\0ik kan niet wachten om te
+horen wat voor avonturen jullie
+zullen beleven in de zee!"
 "010","(촂\0Hallo, allemaal.
 \0 Sorry voor deze
 plotselinge uitzending, maar ik dacht
@@ -273,13 +310,14 @@ onze gast te weten wilt komen!"
 \0 heb ik vernomen dat een
 verdacht figuur de eilanden in deze
 omgeving aandoet.\0\0Deze, ehn\0\0
-\0 bezoeker verkoopt kunst, 
-\0
-('촀\0maar niemand weet waar deze kunst
+\0 bezoeker
+\0 (촀\0verkoopt kunst, 
+\0
+maar niemand weet waar deze kunst
 vandaan komt.\0\0(\0촀\0Tot nu toe is iedereen ongedeerd die
 met dit individu in contact gekomen
 is,
-\0 (%촀\0maar pas alsjeblieft op, allemaal!"
+\0 (9촀\0maar pas alsjeblieft op, allemaal!"
 "600","<"
 "600_01","(촀\0O, nog iets!"
 "600_02","(촀\0En voor ik het vergeetn"
@@ -502,17 +540,14 @@ om zo het eiland schoon te houden."
 zelf\0￿-appgebruikers gestuurd. 
 \0(촀\0Welk
 plan? 
-\0(촀\0Voor een \0decoratieve krans\0￿!\0\0(
-촀\0Ik durf te wedden dat al die gevallen
+\0(촀\0Voor een \0decoratieve krans\0￿!\0\0(촀\0Ik durf te wedden dat al die gevallen
 \0versieringen\0￿ heel goed van pas komt
 bij dit soort projectenn"
-"619_03","(
-촀\0En ik denk
+"619_03","(촀\0En ik denk
 \0 dat die gevallen versiering
 weleens van pas zou kunnen in een
 doe-het-zelfprojectn"
-"701","(
-촀\0Hmn\0\0 Ik heb vandaag niet zo heel
+"701","(촀\0Hmn\0\0 Ik heb vandaag niet zo heel
 veel nieuwsn\0\0 Maarn\0\0
 \0(촀\0 O!"
 "702","<"
@@ -545,8 +580,7 @@ natuurlijk wel de groetjes van me!"
 "802_01","(촀\0Ah, nu ik eraan denkn"
 "802_02","(촀\0Wacht even!"
 "802_03","(촀\0Er schiet me opeens iets te binnenn"
-"803","(
-촀\0Hoewel technisch gezien de datum is
+"803","(촀\0Hoewel technisch gezien de datum is
 veranderd, 
 \0(촀\0dusn"
 "804_01_01","(%촀\0Het is alweer het einde van januari.
@@ -670,8 +704,7 @@ een geweldige oktober heeft!
 \0(촀\0Het is Halloween en dat betekentn\0\0
 (촀\0kostuums!
 \0(촀\0 Ik hoop dat jullie je
-vandaag verkleden!\0\0(
-촀\0Sommigen van jullie gaan vast naar
+vandaag verkleden!\0\0(촀\0Sommigen van jullie gaan vast naar
 een kostuumfeest, terwijl 
 \0(촀\0anderen
 het vandaag rustig houden.\0\0(촀\0Hoe je ook besluit je Halloween door
@@ -681,8 +714,7 @@ plezier hebt!"
 \0
 (촀\0kostuums!
 \0(촀\0 Ik hoop dat jullie je
-vandaag verkleden!\0\0(
-촀\0Een paar van jullie zijn vast naar
+vandaag verkleden!\0\0(촀\0Een paar van jullie zijn vast naar
 een kostuumfeest gegaan, 
 \0(촀\0terwijl
 anderen lekker niks hebben gedaan.\0\0(촀\0Hoe je je Halloween ook hebt
@@ -707,8 +739,7 @@ er een mooie week van maken, oké?
 "806_02","Geen nieuws vandaagn\0\0\0\0(촀\0Behalve dat ik jullie deze week ook
 weer van leuke en informatieve
 uitzendingen wil voorzien!\0\0(""촀\0Goed, dit was \0Isabelle\0￿. Over en uit!"
-"807","(
-촀\0Ik kan geen nieuws bedenkenn\0\0
+"807","(촀\0Ik kan geen nieuws bedenkenn\0\0
 \0 (촀\0Het
 is ook pas dinsdag, 
 \0dus doe rustig
@@ -718,8 +749,8 @@ aan. 
 nieuwtjes voor jullie?\0\0(%촀\0Blijkbaar!
 \0(촀\0 Maar geef jezelf een
 schouderklopje.
-\0 De helft van de week
-zit er alweer op!
+\0 We zijn alweer
+halverwege de week!
 (!촀\0Laten we hem sterk afsluiten!
 \0 (""촀\0Goed,
 dit was \0Isabelle\0￿. Over en uit!"
@@ -744,8 +775,7 @@ welverdiende, heerlijke weekend!"
 Dan wens ik jullie maar
 \0(""촀\0 een geweldig
 weekend op n\0 toe!"
-"820","(
-촀\0Hmn\0\0 Ik heb vandaag niet zo heel
+"820","(촀\0Hmn\0\0 Ik heb vandaag niet zo heel
 veel nieuwsn"
 "821","(촀\0O ja! 
 \0(&촀\0Heeft iemand gisteren die film
@@ -759,8 +789,7 @@ steeds niet aankomen.
 \0(촀\0 Ik duizel nog!"
 "822","(촀\0Ah! 
 \0(&촀\0Heeft iemand gisteren die quiz 
-op tv gezien?\0\0(
-촀\0Hoe bedenken ze toch elke week al
+op tv gezien?\0\0(촀\0Hoe bedenken ze toch elke week al
 die vragen?
 \0 Laat staan al die
 antwoordenn"
@@ -789,8 +818,8 @@ kletsenn\0\0
 "
 "825","(촀\0O, ja! 
 \0(&촀\0Heeft iemand dat kook-
-programma gisteren ook gezien?\0\0(촀\02촀DeHetDe gekruide 촀 2촀diedatdie ze daarin maakten, 2 촀zag
-zagenzag er heerlijk uit!\0\0(촀\0Ik zit eraan te denken om zoiets
+programma gisteren ook gezien?\0\0(촀\02 촀DeHetDe gekruide 촀 2 촀diedatdie ze daarin maakten, 2  촀zagzag
+zagen er heerlijk uit!\0\0(촀\0Ik zit eraan te denken om zoiets
 vanavond ook te gaan maken.
 \0
 Hopelijk gaat dat goed!"

@@ -11,16 +11,14 @@
 ¿sigues insistiendo?
 \0
 (촀\0¡Qué generosidad la tuya!
-(
-촀\0Quizás sí debería instalarme en la
+(촀\0Quizás sí debería instalarme en la
 isla y ocuparme de su marketing,
 \0 (""촀\0¡se
 lo propondré a la \0oficina de gestión\0￿!"
 "101","<"
 "101_01","(촀\0Tengo sentimientos encontrados,
 \0
-n\0.\0\0(
-촀\0Muchas cosas requieren mi presencia
+n\0.\0\0(촀\0Muchas cosas requieren mi presencia
 en casa:
 \0 mis amigos,
 \0 mi blog,
@@ -99,8 +97,7 @@ repartimos la ganancia.
 \0¿Lo decidimos de esa manera?"
 "201_02_a","¡Ya mismo!"
 "201_02_b","Mejor no..."
-"201_03","(
-촀\0Mmmn\0\0
+"201_03","(촀\0Mmmn\0\0
 \0 Mudarme aquí podría ser
 la ruptura que necesito para entrar
 en una nueva fase creativan\0\0
@@ -334,8 +331,7 @@ se marche?"
 "305_c","Cambié de idea"
 "306","(9촀\0¡Yo me encargo!
 \0 Ya mismo voy
-a ver a s촀n\0\0 ¡Desplegaré toda mi elocuencia!\0\0(
-촀\0¿Eso me convertirá en un ""elocuo""?
+a ver a s촀n\0\0 ¡Desplegaré toda mi elocuencia!\0\0(촀\0¿Eso me convertirá en un ""elocuo""?
 \0
 (촀\0Qué misteriosas son las palabras
 a veces,
@@ -355,8 +351,7 @@ que no ha pasado nadan"
 "309","(%촀\0Pues sí,
 \0 hablé con s촀 y resulta que pensaba mudarse de todos modos.\0\0(5촀\0¡Ahora ya podemos abrir una tienda
 de 촀 sustentable,
-\0 n\0!\0\0(
-촀\0¿No fue contigo con el que hablé
+\0 n\0!\0\0(촀\0¿No fue contigo con 2ella que hablé
 de ese proyecto?
 \0 (촀\0¡Tengo demasiados
 planes en la cabeza!
@@ -369,6 +364,18 @@ vezn\0\0
 futura y exclusiva amistad comience
 ya mismo,
 \0 n\0!"
+"309_01","(촀\0¡Volví!
+\0 ()촀\0En el terreno de la casa solo
+hay suciedad a raudales y abandono.
+\0
+(!촀\0¡Pero el lugar tiene potencial!
+(촀\0Estoy deseando darle la huella
+n
+\0 que necesita.\0\0(6촀\0Dicho de otra forman\0\0
+\0 ¡Me mudo allí
+sin dudarlo,
+\0 n\0!
+\0 ¡Proyecto mudanza en marcha!"
 "310","(촀\0Si no estás segur2oa,
 \0 no tienes
 que hacerlo."
@@ -453,16 +460,14 @@ se puede intentar otra vez.\0\0(%촀\0Quizás se dé la próxima vez,
 A veces en la vida solo te llevas
 una sorpresa tras otra,
 \0 n\0."
-"423","(
-촀\0No puedo creer que tu isla sea tan
+"423","(촀\0No puedo creer que tu isla sea tan
 popular.
 \0 ('촀\0Si no fuera por eso,
 \0 me
 vendría a vivir aquín\0\0
 Es un chiste.
 \0 (촀\0¡Me quiero mudar ya!"
-"424","(
-촀\0No puedo creer que tu isla sea tan
+"424","(촀\0No puedo creer que tu isla sea tan
 popular,
 \0 pero ya no hay más terrenos
 disponibles.
@@ -502,8 +507,7 @@ encontrarse a uno mismon"
 \0 (9촀\0pero
 creo que sería una decisión un poco
 apresurada ahora mismo.
-(
-촀\0Primero querría tener un profundo
+(촀\0Primero querría tener un profundo
 entendimiento de lo que significa
 el nombre ""n	\0""n\0\0
 (%촀\0Y para eso lo mejor sería que me

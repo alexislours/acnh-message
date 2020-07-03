@@ -7,8 +7,7 @@
 \0(촀\0E tu sei nella posizione di esaudire
 i miei desideri, n\0!"
 "002","(촀\0Aaargh! Voglio più di chiunque altro 2\0}\0\0! 
-\0(촀\0Non posso farci nulla!\0\0(
-촀\0Stavo pensando che se c'è qualcuno
+\0(촀\0Non posso farci nulla!\0\0(촀\0Stavo pensando che se c'è qualcuno
 che può aiutarmi, quel qualcuno sei
 tu, n\0.
 (촀\0Ho ragione?"
@@ -42,8 +41,7 @@ la fine del mondo. Lasciamo perdere,
 Ti va di 22촀vendermelovendermela\0?"
 "100_a","(\0촁\0Quanto mi dai?"
 "100_b","No, scusa..."
-"101","(
-촀\0Vediamon\0\0
+"101","(촀\0Vediamon\0\0
 \0( (촀\0Che ne dici di
 Z?"
 "101_a","Va bene!"
@@ -85,8 +83,7 @@ Non avrei neanche dovuto
 proportelo. Di solito non sono cosìn\0\0
 (촀\0Che vergogna, n\0!"
 "109","(촀\0Come?! Davvero sei d'accordo?"
-"110","(
-촀\0Bene, alloran\0\0
+"110","(촀\0Bene, alloran\0\0
 \0(
 (\0촀\0(&촀\0Che ne pensi di Z?
 "
@@ -130,8 +127,7 @@ e ammettere la sconfitta,
 "200","(&촀\0Quindi, ehm, vuoi vendere o no?"
 "200_a","(\0촁\0Quanto mi offriresti?"
 "200_b","No, mi dispiace."
-"201","(
-촀\0Bene, riflettiamoci un attimon\0\0
+"201","(촀\0Bene, riflettiamoci un attimon\0\0
 \0(
 (\0촀\0Facciamon\0\0 Z
 \0(&촀\0?"
@@ -185,8 +181,7 @@ fosse gonfio come i miei muscolin"
 "307","(촀\0Sììì! Finalmente ho 2\0}\0\0!\0\0(5촀\0Non vedo l'ora di proseguire i miei
 allenamenti, ora che mi sono tolto
 questo pensiero, n\0!"
-"400","(촀\0Oh! Uau. Va bene.(
-촀\0 Ehmn\0\0
+"400","(촀\0Oh! Uau. Va bene.(촀\0 Ehmn\0\0
 \0(
 (9촀\0Accetteresti (&촀\0Z?"
 "400_a","Ma certo!"

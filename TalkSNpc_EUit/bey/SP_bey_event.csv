@@ -477,8 +477,9 @@ sessione di pesca se non è vuoto.
 \0Regole del torneo.
 (%촀\0Beh, tu spargi in giro la voce,
 
-\0magari riusciamo a svuotare il \0frigorifero\0￿.
-Puoi anche dire che sono disposto
+\0magari riusciamo a svuotare il
+\0frigorifero\0￿.
+(촀\0Puoi anche dire che sono disposto
 a comprare i pesci che ci sono,
 niak niak."
 "068","(촀\0C'è ancora qualche pescatore che
@@ -607,8 +608,7 @@ al \0torneo di pesca \0￿che si svolge in
 \0Purtroppo
 non c'è più tempo per partecipare,
 dovrai attendere il round successivo!"
-"112","(
-촀\0\0Per tutte le squame! Non credevo di
+"112","(촀\0\0Per tutte le squame! Non credevo di
 potercela fare! 
 \0Vado alla grande!
 Niak niak!\0￿\0\0( 촀\0Oh, uelà! 
@@ -706,8 +706,7 @@ avannott2oa."
 pesci prima di allora."
 "134","(%촀\0Ti svuoto il \0frigorifero\0￿. 
 \0Capito, niak!"
-"135","(
-촀\0Bene, vediamon\0\0
+"135","(촀\0Bene, vediamon\0\0
 \0 Il \0frigorifero \0￿ne
 contiene \0Z\0￿. 
 \0Facendo la somman"
@@ -788,8 +787,7 @@ bonus in solitaria a partire da \0almeno
 pesci
 pesce
 pesci\0￿."
-"151","(
-촀\0\0Uhm, aggiungo al tuo totalen\0\0\0￿"
+"151","(촀\0\0Uhm, aggiungo al tuo totalen\0\0\0￿"
 "152","(6촀\0Chi è pronto a fare un po' di pesca
 sportiva? 
 \0((촀\0Ma come ""Chi?"" tu!\0\0()촀\0Hai proprio l'aria di esseren\0\0
@@ -1007,8 +1005,7 @@ stella della pesca sportiva?\0￿"
 "202","(9촀\0Dunquen\0\0
 \0 (촀\0Wow, 
 \0oceanico!\0\0(촀\0Al \0torneo di pesca \0￿hai guadagnato
-un totale di oltre \0Z
- punti\0￿. 
+un totale di oltre \0Z punti\0￿. 
 \0Non c'è
 proprio gara, avannott2oa!\0\0(1촀\0\0Lo sapevo che l'idea del torneo era
 oceanica, guarda qui che risultati!\0￿"

@@ -19,21 +19,18 @@ organizzerà il party di benvenuto?
 "007_02","(&촀\0Hai già avuto modo di incontrare
 il nuovo abitante dell'isola,
 \0
-n\0?\0\0(
-촀\0Probabilmente è ancora alle prese
+n\0?\0\0(촀\0Probabilmente è ancora alle prese
 con gli scatoloni
 \0 (%촀\0ma, quando avrà
 finito,
 \0 voglio fargli una visita.
-(
-촀\0E se mi portassi appresso un
+(촀\0E se mi portassi appresso un
 dottore? La visita sarebbe più
 completa, no? 
 \0(촀\0AHAHAH!"
 "007_03","(;촀\0Ho sentito che c'è una faccia nuova
 sull'isola,
-\0 n\0n\0\0\0\0(
-촀\0Quindi, per questioni di sicurezza,
+\0 n\0n\0\0\0\0(촀\0Quindi, per questioni di sicurezza,
 \0 
 pensavo di dare una controllata.\0\0('촀\0Qui sull'isola abbiamo severi
 standard di bellezza da rispettare!
@@ -46,8 +43,7 @@ compleanno di s촀?\0\0(촀\0Come faccio a dimenticarmi sempre
 queste cose? 
 \0(촀\0Ormai sono un esperto
 in regali all'ultimo momento.
-(
-촀\0Il lato positivo è che nessuno ha
+(촀\0Il lato positivo è che nessuno ha
 abbastanza tempo per scoprire di
 che regalo si tratta. 
 \0(촀\0AHAHAH!"
@@ -61,8 +57,7 @@ comprato da un pezzo,
 "011_03","(&촀\0Hai già comprato il regalo per il
 compleanno di s촀?\0\0(촀\0No perché io sono veramente a
 corto di idee,
-\0 n\0n\0\0\0\0(
-촀\0Ma come si può essere a corto se
+\0 n\0n\0\0\0\0(촀\0Ma come si può essere a corto se
 uno ci ha pensato a lungo? 
 \0(촀\0AHAHAH!"
 "013","<"

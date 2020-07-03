@@ -161,8 +161,7 @@ Inc. an die Inselgemeinschaft!\0\0(1촀\0Das wird toll. 
 entfernten Inseln\0\0
 \0 Etwas Erholungn\0\0
 \0
-(
-촀\0Hm, dafür seid ihr ja schon HIER.
+(촀\0Hm, dafür seid ihr ja schon HIER.
 (\0촀\0Na ja, 
 \0das wird auf jeden Fall sehr
 spaßig,
@@ -193,8 +192,7 @@ Inc. an die Inselgemeinschaft!\0\0(1촀\0Das wird toll. 
 entfernten Inseln\0\0
 \0 (촀\0Etwas Erholungn\0\0
 \0
-(
-촀\0Hm, dafür seid ihr ja schon HIER.
+(촀\0Hm, dafür seid ihr ja schon HIER.
 (\0촀\0Na ja, 
 \0das wird auf jeden Fall sehr
 spaßig,
@@ -221,7 +219,7 @@ noch entspannender.
 was wir tun können, 
 \0um unsere
 Umwelt zu erhalten.
-(\0촀\0Der 4. Mai ist eure letzte Chance, 
+(\0촀\0Der \04. Mai\0￿ ist eure letzte Chance, 
 \0an
 der Aktion teilzunehmen.
 \0(""촀\0 Ziehen wir
@@ -252,6 +250,49 @@ Ich hoffe, 
 \0alle schauen im Museum
 vorbei
 \0($촀\0 und machen eifrig mit."
+"008_07_01","()촀\0Nook Inc. hat nun seit einiger Zeit
+die Gewässer um unsere Insel
+erforscht und studiert.\0\0(촀\0Es freut mich,
+\0 verkünden zu dürfen,
+\0
+dass den Ergebnissen zufolge (촀\0das
+Schwimmen im Meer sicher ist!\0\0Besser noch! 
+\0(%촀\0Das Wasser ist klar
+und sauber, 
+\0($촀\0daher eignet es sich
+perfekt zum Tauchen!\0\0(9촀\0Damit sich niemand verletzt, 
+\0bitten
+wir euch darum, 
+\0dabei die passende
+Ausrüstung zu tragen.\0\0()촀\0Einen Taucheranzug könnt ihr
+entweder im Laden oder über
+Nook Shopping erwerben.\0\0Oh, 
+\0(촀\0ich kann es gar nicht erwarten,
+\0
+alle dort tauchen und planschen zu
+sehen... 
+\0(%촀\0In Maßen, 
+\0natürlich."
+"008_07_02","Wie bereits verkündet wurde – 
+\0(촀\0das
+unsere Insel umgebende Meer ist
+zum Schwimmen geeignet!\0\0Besser noch! 
+\0(%촀\0Das Wasser ist klar
+und sauber, 
+\0($촀\0daher eignet es sich
+perfekt zum Tauchen!\0\0(9촀\0Damit sich niemand verletzt, 
+\0bitten
+wir euch darum, 
+\0dabei die passende
+Ausrüstung zu tragen.\0\0()촀\0Einen Taucheranzug könnt ihr
+entweder im Laden oder über
+Nook Shopping erwerben.\0\0Oh, 
+\0(촀\0ich kann es gar nicht erwarten,
+\0
+alle dort tauchen und planschen zu
+sehen... 
+\0(%촀\0In Maßen, 
+\0natürlich."
 "010","(촂\0Hallo miteinander!
 \0 Ich störe euch nur
 ungern in eurem Tagesablauf, 
@@ -331,13 +372,14 @@ bei unserem Gast vorbei!"
 eine merkwürdige Gestalt,
 \0 die die
 Inseln in der Gegend hier abklappert.
-Es heißt, diesen\0\0
-\0 ('촀\0Person verkaufe
-Kunstwerke unbekannten Ursprungs.\0\0(\0촀\0Bisher blieben alle unversehrt,
+Es heißt,
+\0 diese Personn\0\0
+\0 (촀\0verkaufe
+Kunstwerke unbekannter Herkunft.\0\0(\0촀\0Bisher blieben alle unversehrt,
 \0 die
 mit dieser Person in Kontakt getre-
 ten sind,
-\0 (%촀\0aber seid bitte vorsichtig!"
+\0 (9촀\0aber seid bitte vorsichtig!"
 "600","<"
 "600_01","(촀\0Oh, eine Sache noch!"
 "600_02","(촀\0Huch, fast hätte ich es vergessen..."
@@ -557,16 +599,13 @@ auf,
 "619_02_02","(촀\0Ich habe in den \0Bastelanleitungen\0￿
 eine Anleitung herumgeschickt.
 \0
-(촀\0Für einen \0Dekotürkranz\0￿!\0\0(
-촀\0Für dieses Projekt wäre etwas
+(촀\0Für einen \0Dekotürkranz\0￿!\0\0(촀\0Für dieses Projekt wäre etwas
 von dem heruntergefallenen
 \0Baumschmuck\0￿ wohl ganz praktisch..."
-"619_03","(
-촀\0Vielleicht könnte man mit dem
+"619_03","(촀\0Vielleicht könnte man mit dem
 heruntergefallenen \0Baumschmuck
 \0￿ja auch etwas basteln..."
-"701","(
-촀\0Hmmn\0\0
+"701","(촀\0Hmmn\0\0
 \0 Heute gibt es eigentlich gar
 keine Neuigkeitenn\0\0
 \0 Abern\0\0(촀"
@@ -609,8 +648,7 @@ nichts zu sagen!"
 \0Moment!"
 "802_03","(촀\0Oh, 
 \0eines gäbe es wohl dochn"
-"803","(
-촀\0Obwohl wir ja streng genommen
+"803","(촀\0Obwohl wir ja streng genommen
 ein neues Datum haben, 
 \0(촀\0und das
 bedeutetn"
@@ -755,8 +793,7 @@ jedenfalls einen tollen Oktober!
 \0und das
 bedeutet Kostüme!
 \0 Werdet ihr
-euch alle verkleiden?\0\0(
-촀\0Manche von euch gehen bestimmt
+euch alle verkleiden?\0\0(촀\0Manche von euch gehen bestimmt
 auf Kostümpartys, 
 \0(촀\0andere lassen es
 lieber ruhiger angehen.
@@ -767,8 +804,7 @@ macht euch viel Spaß!"
 \0und das bedeutet
 Kostüme!
 \0 Habt ihr euch heute
-verkleidet?\0\0(
-촀\0Manche von euch waren bestimmt
+verkleidet?\0\0(촀\0Manche von euch waren bestimmt
 auf Kostümpartys, 
 \0(촀\0andere haben es
 ruhiger angehen lassen.
@@ -800,8 +836,7 @@ ja?
 "806_02","Nichts Neues heuten\0\0\0\0(촀\0Aber ich werde mich bemühen, euch
 auch diese Woche unterhaltsame und
 informative Nachrichten zu bringen.\0\0(""촀\0Und das war es von mir!"
-"807","(
-촀\0Mir fällt nichts Erwähnenswertes ein.
+"807","(촀\0Mir fällt nichts Erwähnenswertes ein.
 \0
 (촀\0Es ist erst Dienstag, 
 \0teilt euch eure
@@ -829,8 +864,7 @@ euer Wochenende!"
 \0 Dann bleibt mir
 nur, euch ein schönes Wochenende
 auf n\0 zu wünschen!"
-"820","(
-촀\0Hmmn\0\0
+"820","(촀\0Hmmn\0\0
 \0 Heute gibt es eigentlich gar
 keine Neuigkeitenn"
 "821","(촀\0Oh! 
@@ -845,8 +879,7 @@ trotzdem am Ende jedes Mal total
 \0 (촀\0Jedes Mal!"
 "822","(촀\0Ach ja! 
 \0(&촀\0Hat sich noch jemand die
-Quiz-Sendung gestern angesehen?\0\0(
-촀\0Wie kommen die nur jede Woche auf
+Quiz-Sendung gestern angesehen?\0\0(촀\0Wie kommen die nur jede Woche auf
 diese ganzen Fragen?
 \0 Von den
 Antworten ganz zu schweigenn"
@@ -871,13 +904,13 @@ Plaudertaschen!\0\0(1촀\0Sie redenn\0\0
 \0 und redenn"
 "825","(촀\0Hey! 
 \0(&촀\0Hat irgendwer die Kochshow
-gestern gesehen?\0\0(촀\02L촀Der scharfeDie scharfeDas scharfe 촀 hat sehr lecker ausgesehen!\0\0(촀\0Vielleicht probiere ich das Rezept
+gestern gesehen?\0\0(촀\02L 촀Der scharfeDie scharfeDas scharfe 촀 hat sehr lecker ausgesehen!\0\0(촀\0Vielleicht probiere ich das Rezept
 heute mal selbst aus.
 \0 Wünscht mir
 viel Glück!"
 "826","(촀\0Hat denn gestern jemand den
 Dokumentarfilm im Fernsehen
-gesehen?\0\0(촀\0Es ging um die Geschichte 2""촀desderdes
+gesehen?\0\0(촀\0Es ging um die Geschichte 2#촀desderdes
 2촃촀.
 \0 Wirklich sehr informativ!\0\0()촀\0Zum Beispiel weiß ich jetzt, dass
 mich Filme über 촀 direkt einschlafen lassen!(촀\0

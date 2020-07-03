@@ -82,8 +82,7 @@ est caché en extérieur.
 t'aider.
 x\0
 (""촀\0C'est à peu près tout.
-\0
- On y va,
+\0 On y va,
 n\0?
 <"
 "012","(촀\0Très bien, 2&mon chouma chérie.
@@ -106,8 +105,7 @@ beaucoup de tempsn\0\0
 que 2lela 2&meilleurmeilleure gagne!
 ð"
 "012_01","(촀\0Bien.
-\0
- Tu vas voir, c'est très simple.
+\0 Tu vas voir, c'est très simple.
 2\0\0\0(%촀\0J'ai caché un trésor sur l'île.
 \0 ()촀\0Si tu
 le trouves dans le temps imparti,
@@ -115,21 +113,17 @@ le trouves dans le temps imparti,
 c'est gagné!
 x\0
 (6촀\0Tu auras moins de temps cette fois,
-\0
-
+\0
 histoire de corser un peu les choses.
 ´\0\0\0($촀\0Et cela va sans dire :
-\0
- c'est notre petit
+\0 c'est notre petit
 jeu à nous.
 \0 
-\0
-(9촀\0Les autres n'ont pas le
+\0(9촀\0Les autres n'ont pas le
 droit de t'aider.
 \0
 (""촀\0Je crois que c'est tout.
-\0
- On y va,
+\0 On y va,
 n\0?
 <"
 "013","(&촀\0Te souviens-tu des règles du jeu?"

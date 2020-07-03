@@ -100,8 +100,7 @@ servicios."
 "011","¿Necesitas herramientas?
 \0
 ¡Recibido! 
-\0(
-촀\0A ver qué hay disponible en el programa de millasn"
+\0(촀\0A ver qué hay disponible en el programa de millasn"
 "012","¿Necesitas herramientas?
 \0 (9촀\0Lo siento,
 \0
@@ -218,8 +217,7 @@ Cambio y corto."
 "045","( 촀\0¿Quieres alguna pista?
 \0 Recibido.
 \0
-(
-촀\0Veamosn\0\0
+(촀\0Veamosn\0\0
 \0 Déjame ver qué puedo
 decirte, papagay2oa."
 "046_0","(촀\0¡Ah, ya sé!
@@ -291,8 +289,7 @@ A todo eston\0\0
 fijarme en que llevas encima algo
 que este dodo no había visto (%촁\0
 \0antes.
-(
-촀\0¿Y (\0촁\0dices que te lo ha dado alguien
+(촀\0¿Y (\0촁\0dices que te lo ha dado alguien
 que pasaba por ahí?(%촁\0
 \0 Qué curioson\0\0
 \0(\0촁\0\0\0(촀\0Bien, será todo un placer para Dodo
@@ -394,15 +391,8 @@ rumbo a casa? 
 \0Cambio."
 "054_a","¡Sí, porfa!"
 "054_b","Todavía no..."
-"055","(9촀\0Antes de emprender el vuelo de
-vuelta, debo advertirte de una cosa.\0\0()촀\0Los destinos de la \0escapada del
-Primero de Mayo\0￿ son distintos
-cada vez.
-('촀\0Si nos marchamos, no podrás volver.
-\0
-(
-촀\0\0(Aunque parece que ya le has sacado
-el máximo partido a esta islan\0\0)\0￿
-(&촀\0Bien, ¿despegamos?"
-"055_a","¡Sí, porfa!"
-"055_b","Todavía no..."
+"055","(9촀\0Sabes que, si nos vamos, no podrás
+regresar a este destino de la
+\0escapada del Primero de Mayo\0￿n"
+"055_a","Da igual, ¡nos vamos!"
+"055_b","Ah, entonces espera"

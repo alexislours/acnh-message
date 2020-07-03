@@ -16,17 +16,14 @@ in the store up to Z,
 \0 free
 of charge.
 \0 (촀\0Be sure to use 'em!"
-"003","(촀\0That's our \0fitting room\0￿!
-\0 Go in there
-to try stuff on,
-\0 and if you like it,
-\0
+"003","(촀\0That's our \0fitting room\0￿! Go in there
+to try stuff on, and if you like it,
 you can buy it right then and there.
-()촀\0You can see how things actually look
-on you,
-\0 and also buy multiple things
-at once, so it's super convenient!
-(촀\0Please feel free to use it anytime!"
+()촀\0It's a great way to see how things
+actually look on you, and you can
+try multiple things at once too.
+(촀\0It's super convenient, so please feel
+free to use it anytime!"
 "010","<"
 "010_01","(촀\0Looking sharp!
 \0 Thanks so much!"
@@ -68,3 +65,13 @@ you're yourself again."
 effect of a transformation wand.
 \0
 (촀\0One change at a time, you know?"
+"021","(촀\0Oh, I'm sorry, but
+\0 you can't use the
+fitting room with a wet suit on.\0\0(촀\0Please give it another shot once
+you've taken that off."
+"022","(7촀\0Though,
+\0 eh, 
+\0you can't use the fitting
+room with a wet suit on.
+\0(촀\0 Just head
+in after you've taken it off."

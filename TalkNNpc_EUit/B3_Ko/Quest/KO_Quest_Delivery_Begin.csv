@@ -10,10 +10,8 @@ penserà che ho voluto tenermela.
 Mi sa che ho combinato un guaion"
 "001_a","(\0촀\0Gliela restituisco io."
 "001_b","(\0촀\0Basta che ti scusi."
-"002","(촀\0L'altro giorno s촀
-\0 ha
-scordato una cosa a casa mia.\0\0(
-촀\0Il fatto è che ho avuto cose più urgenti da fare che riportare roba
+"002","(촀\0L'altro giorno s촀 ha scordato una cosa a casa mia.\0\0(촀\0Il fatto è che ho avuto cose più
+urgenti da fare che riportare roba
 alla genten\0\0
 (\0촀\0Senti, n\0n\0\0
 \0(&촀\0 non è che lo faresti tu al posto mio?"
@@ -30,8 +28,7 @@ impegnato a non fare nullan\0\0
 ( 촀\0Nulla che non sia il mio lavoro,
 \0 ovvio!
 \0
-(
-촀\0E così quel pacchetto è ancora da me
+(촀\0E così quel pacchetto è ancora da me
 a occupare spazio.
 \0 Ci penseresti tu?"
 "003_a","(\0촀\0Sì, lo consegno io."
@@ -61,7 +58,8 @@ Anzi,
 \0
 Andrò a scusarmi, n\0."
 "008","(촀\0In effetti,
-\0 chiedere a te di restituire roba scordata a casa mia non ha
+\0 chiedere a te di restituire
+roba scordata a casa mia non ha
 molto senso.
 (촀\0Uffa,
 \0 allora devo proprio risolvere
@@ -143,8 +141,7 @@ potresti farlo entro oggi stesso?"
 è tardi,
 \0 per me è OK anche se te
 ne occupi entro domani."
-"201","(
-촀\0Spero che s촀
+"201","(촀\0Spero che s촀
 \0 si sia 
 26촀dimenticatodimenticata\0 di avermi prestato quella cosan"
 "202","(%촀\0So che è una seccatura,

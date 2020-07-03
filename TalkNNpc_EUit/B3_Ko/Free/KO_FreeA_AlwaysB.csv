@@ -75,12 +75,10 @@ trenta anni? (촀\0
 \0AHAHAH!"
 "010","()촀\0Da come tratti le tue cose si capisce
 che tipo sei, lo sapevi?\0\0(%촀\0Se le tratti con cura, forse sarai
-gentile anche con gli altri.\0\0(
-촀\0Se invece le tratti malen\0\0('촀\0 Beh,
+gentile anche con gli altri.\0\0(촀\0Se invece le tratti malen\0\0('촀\0 Beh,
 diciamo solo che non ti presterò più
 neanche 2\0촀!"
-"011","(
-촀\0A volte penson\0\0 che tutte le cose
+"011","(촀\0A volte penson\0\0 che tutte le cose
 abbiano un'anima. Non credi anche
 tu, n\0?
 ('촀\0Sarà per quello che non mi piace
@@ -138,8 +136,7 @@ che hai, n\0!"
 \0(촀\0Io la moda proprio
 non la capisco!"
 "020","<"
-"021","(
-촀\0Cioèn\0\0 Alla fine basta avere solo
+"021","(촀\0Cioèn\0\0 Alla fine basta avere solo
 una maglia e un paio di pantaloni,
 giusto?
 (&촀\0Perché indossare altra roba? 
@@ -153,8 +150,7 @@ due paia di pantaloni! (촀\0
 \0AHAHAH!(촀"
 "022","()촀\0Prendi gli stivali, ad esempio. 
 \0Perché
-dovresti voler indossare altro?\0\0(
-촀\0Sono ottimi per il giardinaggio,
+dovresti voler indossare altro?\0\0(촀\0Sono ottimi per il giardinaggio,
 
 \0ci puoi marciare e puoi metterli
 con la pioggia e con la neve!
@@ -202,8 +198,7 @@ solo a guardarla, una montagna.
 (촀\0
 \0AHAHAH!"
 "029","()촀\0Fondamentalmente voglio finire
-le cose che ho cominciato.\0\0(
-촀\0È come una lista delle cose da fare.
+le cose che ho cominciato.\0\0(촀\0È come una lista delle cose da fare.
 
 \0E la prima dell'elenco sai qual è?
 \0
@@ -213,3 +208,38 @@ arriva fino al soffitto e sembra
 quasi una colonna.
 (촀\0O sono liste della spesa? (촀\0
 \0AHAHAH!"
+"030","(1촀\0Ricordo quando ero alle prime armi
+con il fai da te, n\0..."
+"031","<"
+"031_01","()촀\0Ho iniziato pensando che ci avrei
+dedicato qualche minuto, 
+\0per creare
+una cosa piccolan\0\0
+(촀\0Ma quando dopo un po' ho guardato
+fuori, era buio. 
+\0(촀\0E non solon\0\0 era
+passata un'intera settimana!\0\0(촀\0Però alla fine ne è valsa la pena.
+\0
+L'ascia che ho fatto mi è durata
+quasi 20 minuti. 
+\0(촀\0AHAHAH!"
+"031_02","(촀\0Ero sicuro di aver seguito lo schema
+alla lettera, ma quello che ho creato
+non era ciò che mi aspettavo!\0\0()촀\0Voleva essere 2\0촀, 
+\0ma assomigliava di più a 2\0촁!\0\0(촀\0Bah! 
+\0Ho fatto finta che fosse 2\0
+촀 e ha funzionato alla
+perfezione. 
+\0(촀\0AHAHAH!"
+"031_03","(촀\0Stavo usando il martello e mi sono
+colpito una zampa! 
+\0Di riflesso l'ho
+mollato 
+\0e me ne ha colpita un'altran\0\0
+(촀\0E qualcuno che ha visto tutta la
+scena, si è pure messo a ridere.\0\0(촀\0Se dovessi tenere il conto, 
+\0direi
+""oltre al danno, doppia beffa""!
+
+\0(촀\0AHAHAH!
+\0(촀"

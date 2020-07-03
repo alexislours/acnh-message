@@ -34,8 +34,7 @@ things.
 Can you spare a minute?
 \0(9촀\0
 I've got a situation heren\0\0
-(
-촀\0Y'see, my brain goes (촀\0""BUY, BUY,
+(촀\0Y'see, my brain goes (촀\0""BUY, BUY,
 BUY!"" whenever I come across
 2\0}\0\0.
 (촀\0So now I own around five more of
@@ -69,8 +68,7 @@ on my account.
 \0( (6촀\0My little favor can
 wait till next time,
 \0 n\0."
-"100","(
-촀\0Let's seen\0\0 How does Z
+"100","(촀\0Let's seen\0\0 How does Z
 strike you?"
 "100_a","I'll take it!"
 "100_b","No, thanks."
@@ -96,8 +94,7 @@ bottomless pit.
 "105","(7촀\0No problem.
 \0 Guess I'll go see if
 anyone else is interestedn"
-"200","(
-촀\0Alright, let's get down to business.
+"200","(촀\0Alright, let's get down to business.
 \0(
 ($촀\0How aboutn\0\0Z?"
 "200_a","That's too much."
@@ -158,15 +155,13 @@ time! 
 patronage, kiddo!"
 "302","(촀\0Now I just gotta figure out how
 to squander all these Bellsn"
-"303","(&촀\0Alright, how about 2\0}\0\0?\0\0(
-촀\0I could let somethin' like that
+"303","(&촀\0Alright, how about 2\0}\0\0?\0\0(촀\0I could let somethin' like that
 go for Z."
 "303_a","I'll take it!"
 "303_b","Got anything else?"
 "304","(촀\0Wow, you didn't bite.
 \0<
-(
-촀\0OK, welln\0\0I could sell you
+(촀\0OK, welln\0\0I could sell you
 2\0}\0\0.
 ($촀\0The price on that would be
 Z.
@@ -176,11 +171,9 @@ go for Z."
 "305","(촀\0Gah!
 \0 I'm runnin' outta inventory
 here. 
-\0(
-촀\0OK, think, n
+\0(촀\0OK, think, n
 \0n\0\0\0\0(촀\0How's about you buy
-my }\0\0?\0\0(
-촀\0I could let that kinda thing go for,
+my }\0\0?\0\0(촀\0I could let that kinda thing go for,
 \0
 oh,
 \0 Z?"
@@ -192,8 +185,7 @@ oh,
 \0($촀\0Nah, I've been
 old for a long time now! 
 \0(촀\0Gahaha!"
-"400","(
-촀\0Welln\0\0I could go as low as
+"400","(촀\0Welln\0\0I could go as low as
 Z.
 \0 ($촀\0That suit you?"
 "400_a","I'll take it!"

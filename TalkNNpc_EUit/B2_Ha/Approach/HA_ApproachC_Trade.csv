@@ -8,11 +8,11 @@ ti andrebbe
 2""Ē촀il miola mia\0 }\0(:촀\0?"
 "001_a","D'accordo!"
 "001_b","Non se ne parla!"
-"002","(촀\0Vuoi tentare la fortuna e scambiare
-2""촀il tuola tua\0 }\0\0
+"002","(촀\0Vuoi tentare la fortuna e scambiare 2""촀il tuola tua\0 }\0\0
 \0 con qualcosa di mio?\0\0(%촀\0Le regole del gioco sono semplici:
 \0(
-(\0촀\0tu mi dai il tuo oggetto e io (촀\0te ne do uno dei miei, ma a sorpresa!
+(\0촀\0tu mi dai il tuo oggetto e io (촀\0te ne do
+uno dei miei, ma a sorpresa!
 (6촀\0Sarà divertente scoprire cosa hai
 ottenuton\0\0 dopo lo scambio.
 \0(
@@ -23,8 +23,7 @@ ottenuton\0\0 dopo lo scambio.
 "003","(1촀\0Sto organizzando un mega scambio,
 come quelli che fanno i manager
 delle grandi squadre di calcio.
-(
-촀\0Però non posso farlo da solo.
+(촀\0Però non posso farlo da solo.
 Serve un'altra personan\0\0
 \0
 (촀\0Oh! Che idea!(\0촀\0
@@ -72,8 +71,9 @@ Uau, mi sento davvero importante.
 (촀\0Sono davvero felice! Concludiamo
 subito lo scambio!"
 "302","(촀\0Se dovesse presentarsi di nuovo
-l'occasione di uno scambio, te lo farò sapere subito, n\0."
-"303","(""촀\0Quando avrò per le mani un'altra
+l'occasione di uno scambio, te lo
+farò sapere subito, n\0."
+"303","(""촀\0Quando avrò per le zampe un'altra
 opportunità di scambio, te lo farò
 sapere. Grazie, n\0!"
 "400","(촀\0Mmmh... Beh, se non ti interessa,

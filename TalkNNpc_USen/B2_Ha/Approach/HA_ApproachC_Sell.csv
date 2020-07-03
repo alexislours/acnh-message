@@ -31,22 +31,18 @@ in the market, n\0?"
 "004_b","I'm sorry."
 "005","(촀\0I seen\0\0
 \0 Oh welln\0\0
-\0 (
-촀\0\0Maybe I'll see if
+\0 (촀\0\0Maybe I'll see if
 n촀 is interestedn\0\0\0￿"
 "006","(촀\0Well, OK!
-\0( (
-촀\0I guess I'll go see
+\0( (촀\0I guess I'll go see
 n촀 next.
 \0 If I ask
 around, someone will buy itn"
-"007","(
-촀\0Huh. Well, come to think of it, having
+"007","(촀\0Huh. Well, come to think of it, having
 more stuff just means there's more
 for me to liftn\0\0
 \0< ($촀\0OK, then!"
-"008","(
-촀\0Well, come to think of it, keeping
+"008","(촀\0Well, come to think of it, keeping
 some extra stuff around is probably
 a good idean\0\0
 \0< All good!"
@@ -65,8 +61,7 @@ skipping wallet day, n\0?\0\0(""촀\0Well, 
 "102","(%촀\0It's your }\0\0
 now,
 \0 (촀\0n\0!"
-"103","(
-촀\0Really? Welln\0\0
+"103","(촀\0Really? Welln\0\0
 \0 You know what?\0\0(촀\0I don't need any money for it, then.
 \0
 Just take it, n\0."
@@ -109,8 +104,7 @@ heart, let me know, n\0."
 I can go!"
 "207","(6촀\0Ha ha! I didn't think you'd have
 the guts to ask.
-\0( (
-촀\0Son\0\0
+\0( (촀\0Son\0\0
 \0P(촀\0 How about
 Z\0?"
 "207_a","We have a deal."
@@ -157,8 +151,7 @@ for
 "306","(촀\0Well, fine. I bet I could stack up a
 bunch of these things and use them
 for weight training, n\0."
-"400","(
-촀\0Hmmn\0\0
+"400","(촀\0Hmmn\0\0
 \0( How about Z
 \0(&촀\0?"
 "400_a","Sold!"
@@ -194,18 +187,15 @@ dropped the price WAY too low."
 "408","(촀\0Aw, no sale?!
 \0<(7촀\0 Oh, well. I'm sure
 someone else will make a deal."
-"409","(
-촀\0Let me thinkn\0\0
+"409","(촀\0Let me thinkn\0\0
 \0 (촀\0Nope. Sorry. I just
 can't go any lower.
 \0 Maybe next time."
-"410","(
-촀\0Hmmn\0\0
+"410","(촀\0Hmmn\0\0
 \0 (촀\0That really was my best offer.
 \0
 Maybe some other time."
-"411","(
-촀\0Butn\0\0
+"411","(촀\0Butn\0\0
 \0(촀\0 I can't go any lower.
 \0 Maybe we
 can work out a deal some other time."

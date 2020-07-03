@@ -6,10 +6,8 @@
 "001_b","En otro sitio..."
 "002","( 촂\0( 촃\0¡Oh! Valen\0\0
 \0(촀\0 Parece que hay mucha
-gente que vive «en otro sitio».\0\0(
-촂\0Vamos a intentar concretar
-un poco más.(
-촃"
+gente que vive «en otro sitio».\0\0(촂\0Vamos a intentar concretar
+un poco más.(촃"
 "002_a","Asia"
 "002_b","Norteamérica"
 "002_c","Europa"
@@ -35,10 +33,8 @@ una de estas regiones, ¿no?"
 "011_b","En otro sitio..."
 "012","( 촂\0( 촃\0¡Oh! Valen\0\0
 \0(촀\0 Parece que hay mucha
-gente que vive «en otro sitio».\0\0(
-촂\0Vamos a intentar concretar
-un poco más.(
-촃"
+gente que vive «en otro sitio».\0\0(촂\0Vamos a intentar concretar
+un poco más.(촃"
 "012_a","Asia"
 "012_b","Europa"
 "012_c","En otro sitio..."
@@ -63,10 +59,8 @@ una de estas regiones, ¿no?"
 "021_b","En otro sitio..."
 "022","( 촂\0( 촃\0¡Oh! Valen\0\0
 \0(촀\0 Parece que hay mucha
-gente que vive «en otro sitio».\0\0(
-촂\0Vamos a intentar concretar
-un poco más.(
-촃"
+gente que vive «en otro sitio».\0\0(촂\0Vamos a intentar concretar
+un poco más.(촃"
 "022_a","Asia"
 "022_b","Norteamérica"
 "022_c","En otro sitio..."
@@ -124,8 +118,7 @@ adecuada para ti."
 "111","()촀\0Naturalmente, vamos a recomendar
 que te mudes a una isla del
 \0hemisferio norte\0￿.
-(
-촀\0Aún quedan otras decisiones que
+(촀\0Aún quedan otras decisiones que
 tomar,
 \0 (&촂\0¿pero de momento esto
 te parece bien?(&촃"
@@ -135,8 +128,7 @@ te parece bien?(&촃"
 "112","()촀\0Naturalmente, vamos a recomendar
 que te mudes a una isla del
 \0hemisferio norte\0￿.
-(
-촀\0Aún quedan otras decisiones que
+(촀\0Aún quedan otras decisiones que
 tomar,
 \0 (&촂\0¿pero de momento esto
 te parece bien?(&촃"
@@ -146,8 +138,7 @@ te parece bien?(&촃"
 "113","()촀\0Naturalmente, vamos a recomendar
 que te mudes a una isla del
 \0hemisferio norte\0￿.
-(
-촀\0Aún quedan otras decisiones que
+(촀\0Aún quedan otras decisiones que
 tomar,
 \0 (&촂\0¿pero de momento esto
 te parece bien?(&촃"
@@ -157,17 +148,14 @@ te parece bien?(&촃"
 "114","()촀\0Naturalmente, vamos a recomendar
 que te mudes a una isla del
 \0hemisferio norte\0￿.
-(
-촀\0Aún quedan otras decisiones que
+(촀\0Aún quedan otras decisiones que
 tomar,
 \0 pero (&촂\0¿te parece bien esto
 de momento?(&촃"
 "114_a","¡Correcto!"
 "114_b","En el hemisferio sur"
 "114_c","¿Qué más te da?"
-"115","(
-촂\0(
-촃\0Ah, sí, Sudamérica es tan grande
+"115","(촂\0(촃\0Ah, sí, Sudamérica es tan grande
 que hay zonas del continente
 en ambos hemisferios.
 ()촀\0Pero, ya que la mayor parte está
@@ -181,17 +169,14 @@ isla del \0hemisferio sur\0￿?(&촃"
 "116","()촀\0Naturalmente, vamos a recomendar
 que te mudes a una isla del
 \0hemisferio sur\0￿.
-(
-촀\0Aún quedan otras decisiones que
+(촀\0Aún quedan otras decisiones que
 tomar,
 \0 (&촂\0¿pero de momento esto
 te parece bien?(&촃"
 "116_a","¡Correcto!"
 "116_b","En el hemisferio norte"
 "116_c","¿Qué más te da?"
-"117","(
-촂\0(
-촃\0Ah, sí, África es tan grande que
+"117","(촂\0(촃\0Ah, sí, África es tan grande que
 hay zonas del continente en ambos
 hemisferios.
 ()촀\0Si vives en el hemisferio norte,

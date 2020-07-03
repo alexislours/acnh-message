@@ -8,10 +8,8 @@ Tu dove vivi?(&촃\0d\0
 "002","( 촂\0( 촃\0Oh! 
 \0Ah ah! 
 \0(촀\0A quanto pare ci sono
-tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
-촂\0Proviamo a restringere il campo.
-(
-촃"
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(촂\0Proviamo a restringere il campo.
+(촃"
 "002_a","Asia."
 "002_b","America del Nord."
 "002_c","Europa."
@@ -41,10 +39,8 @@ Tu dove vivi?(&촃\0d\0
 "012","( 촂\0( 촃\0Oh! 
 \0Ah ah! 
 \0(촀\0A quanto pare ci sono
-tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
-촂\0Proviamo a restringere il campo.
-(
-촃"
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(촂\0Proviamo a restringere il campo.
+(촃"
 "012_a","Asia."
 "012_b","Europa."
 "012_c","Altrove."
@@ -73,10 +69,8 @@ Tu dove vivi?(&촃\0d\0
 "022","( 촂\0( 촃\0Oh! 
 \0Ah ah! 
 \0(촀\0A quanto pare ci sono
-tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(
-촂\0Proviamo a restringere il campo.
-(
-촃"
+tante persone che vivono ""altrove"".\0\0(\0촂\0(\0촃\0(촂\0Proviamo a restringere il campo.
+(촃"
 "022_a","Asia."
 "022_b","America del Nord."
 "022_c","Altrove."
@@ -129,8 +123,7 @@ ci aiuterà a trovare un'isola adatta!"
 "111","()촀\0In tal cason\0\0 noi suggeriremmo
 di trasferirti in un'isola
 dell'\0emisfero settentrionale\0￿.
-(
-촀\0Dovremo definire altri dettagli,
+(촀\0Dovremo definire altri dettagli,
 \0
 ma intanton\0\0(&촂\0
 \0 sei d'accordo con
@@ -142,8 +135,7 @@ la posizione suggerita?(&촃\0d\0
 "112","()촀\0In tal cason\0\0 noi suggeriremmo
 di trasferirti in un'isola
 dell'\0emisfero settentrionale\0￿.
-(
-촀\0Dovremo definire altri dettagli,
+(촀\0Dovremo definire altri dettagli,
 \0
 ma intanton\0\0(&촂\0
 \0 sei d'accordo con
@@ -155,8 +147,7 @@ la posizione suggerita?(&촃\0d\0
 "113","()촀\0In tal cason\0\0 noi suggeriremmo
 di trasferirti in un'isola
 dell'\0emisfero settentrionale\0￿.
-(
-촀\0Dovremo definire altri dettagli,
+(촀\0Dovremo definire altri dettagli,
 \0
 ma intanton\0\0(&촂\0
 \0 sei d'accordo con
@@ -168,8 +159,7 @@ la posizione suggerita?(&촃\0d\0
 "114","()촀\0In tal cason\0\0 noi suggeriremmo
 di trasferirti in un'isola
 dell'\0emisfero settentrionale\0￿.
-(
-촀\0Dovremo definire altri dettagli,
+(촀\0Dovremo definire altri dettagli,
 \0
 ma intanton\0\0(&촂\0
 \0 sei d'accordo con
@@ -178,10 +168,8 @@ la posizione suggerita?(&촃\0d\0
 "114_a","OK!"
 "114_b","Emisfero meridionale!"
 "114_c","Non saprei..."
-"115","(
-촂\0
-\0(
-촃\0Sì, sìn\0\0 L'America del Sud è molto
+"115","(촂\0
+\0(촃\0Sì, sìn\0\0 L'America del Sud è molto
 vasta: 
 \0(촀\0credo che abbia territori in
 entrambi gli emisferi!
@@ -200,8 +188,7 @@ Va bene quello meridionale?(&촃\0d\0
 "116","()촀\0In tal cason\0\0 noi suggeriremmo
 di trasferirti in un'isola
 dell'\0emisfero meridionale\0￿.
-(
-촀\0Dovremo definire altri dettagli,
+(촀\0Dovremo definire altri dettagli,
 \0
 ma intanton\0\0(&촂\0
 \0 sei d'accordo con
@@ -210,9 +197,7 @@ la posizione suggerita?(&촃\0d\0
 "116_a","OK!"
 "116_b","Emisfero settentrionale!"
 "116_c","Non saprei..."
-"117","(
-촂\0(
-촃\0Sì, sìn\0\0 L'Africa è molto vasta: 
+"117","(촂\0(촃\0Sì, sìn\0\0 L'Africa è molto vasta: 
 \0(촀\0credo
 che abbia territori in entrambi
 gli emisferi.
@@ -315,8 +300,7 @@ nell'altro!
 \0
 potrai goderti tutte le stagioni con
 tutte le meraviglie che portano.(촀"
-"311","(
-촀\0Quindi lascia che te lo chieda ancora:
+"311","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 settentrionale\0￿, dove è primavera?
@@ -327,8 +311,7 @@ dove è autunno?d\0
 "311_a","Emisfero settentrionale!"
 "311_b","Emisfero meridionale!"
 "311_c","Rispiegami tutto!"
-"312","(
-촀\0Quindi lascia che te lo chieda ancora:
+"312","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 settentrionale\0￿, dove è estate?
@@ -339,8 +322,7 @@ dove è inverno?d\0
 "312_a","Emisfero settentrionale!"
 "312_b","Emisfero meridionale!"
 "312_c","Rispiegami tutto!"
-"313","(
-촀\0Quindi lascia che te lo chieda ancora:
+"313","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 settentrionale\0￿, dove è autunno?
@@ -351,8 +333,7 @@ dove è primavera?d\0
 "313_a","Emisfero settentrionale!"
 "313_b","Emisfero meridionale!"
 "313_c","Rispiegami tutto!"
-"314","(
-촀\0Quindi lascia che te lo chieda ancora:
+"314","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 settentrionale\0￿, dove è inverno?
@@ -363,8 +344,7 @@ dove è estate?d\0
 "314_a","Emisfero settentrionale!"
 "314_b","Emisfero meridionale!"
 "314_c","Rispiegami tutto!"
-"315","(
-촀\0Quindi lascia che te lo chieda ancora:
+"315","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 meridionale\0￿, dove è primavera?
@@ -375,8 +355,7 @@ dove è autunno?d\0
 "315_a","Emisfero meridionale!"
 "315_b","Emisfero settentrionale!"
 "315_c","Rispiegami tutto!"
-"316","(
-촀\0Quindi lascia che te lo chieda ancora:
+"316","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 meridionale\0￿, dove è estate?
@@ -387,8 +366,7 @@ dove è inverno?d\0
 "316_a","Emisfero meridionale!"
 "316_b","Emisfero settentrionale!"
 "316_c","Rispiegami tutto!"
-"317","(
-촀\0Quindi lascia che te lo chieda ancora:
+"317","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 meridionale\0￿, dove è autunno?
@@ -399,8 +377,7 @@ dove è primavera?d\0
 "317_a","Emisfero meridionale!"
 "317_b","Emisfero settentrionale!"
 "317_c","Rispiegami tutto!"
-"318","(
-촀\0Quindi lascia che te lo chieda ancora:
+"318","(촀\0Quindi lascia che te lo chieda ancora:
 \0
 ($촀\0preferisci un'isola nell'\0emisfero
 meridionale\0￿, dove è inverno?

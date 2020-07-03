@@ -5,8 +5,7 @@ de viajar es probar la comida local.\0\0Y tú,
 de n\0?"
 "001_a","¡Claro que sí!"
 "001_b","¿Qué fruta?"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(%촀\0Así me gusta, n\0:
 \0
@@ -80,20 +79,16 @@ se hace muy amena.\0\0(%촀\0Deberías pasar a verlo:
 \0 ¡el saber
 (촀\0no ocupa lugar, n\0!"
 "028","()촀\0Te recomiendo encarecidamente
-que visites nuestro \0museo\0￿.\0\0(촀\02\02\0
-\0, en particular, es uno de mis ejemplares favoritos, n\0."
+que visites nuestro \0museo\0￿.\0\0(촀\02\02\0\0, en particular, es uno de mis ejemplares favoritos, n\0."
 "029","(촀\0¡Dime que ya has visitado nuestro
-\0museo\0￿, n\0!\0\0(촀\02\02\0
- es el orgullo de n\0."
+\0museo\0￿, n\0!\0\0(촀\02\02\0 es el orgullo de n\0."
 "030","(촀\0Nuestra isla cuenta con una larga
 historia,
 \0 ¿sabes?\0\0()촀\0La prueba está en el \0museo\0￿.
 \0
-¿Has visto 2\0
-?
+¿Has visto 2\0?
 \0 (5촀\0Impresionante."
-"031","(촀\0Alguien donó 2\0
- al museo, ¿sabías?\0\0(%촀\0Deberías ir a verl2)촀oa\0 si no lo has hecho
+"031","(촀\0Alguien donó 2\0 al museo, ¿sabías?\0\0(%촀\0Deberías ir a verl2*촀oa\0 si no lo has hecho
 todavía.
 \0 Es una maravilla que vale
 la pena contemplar."
@@ -166,8 +161,7 @@ de esta isla?"
 "206_b","Le veo potencial"
 "206_c","No me hagas hablar..."
 "207","(촀\0¿Verdad que n\0 tiene tanto encanto como n	\0? 
-\0Yo pienso igual.\0\0(
-촀\0Claro que son islas muy distintasn\0\0
+\0Yo pienso igual.\0\0(촀\0Claro que son islas muy distintasn\0\0
 \0
 ()촀\0Cada una tiene su propio carácter.\0\0Si fueran idénticas,
 \0 (촀\0no tendría

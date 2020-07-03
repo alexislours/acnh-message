@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(
-촀\0Resulta que s촀
+"001","(촀\0Resulta que s촀
 me prestó una cosa y todavía
 no se la devuelvon\0\0
 (촀\0Tengo miedo de que esté enojad2oa
@@ -11,11 +10,7 @@ a devolvérsela yo mismo.\0\0(촀\0¿Podrías hacerlo por mí,
 n\0?"
 "001_a","¡Yo te ayudo!"
 "001_b","(\0촀\0¡Que no te de pena!"
-"002","(촀\0s촀 dejó una cosa
-en mi casa cuando vino a visitarme
-el otro dían\0\0
-(
-촀\0Sería horrible si la llega a necesitar
+"002","(촀\0s촀 dejó una cosa en mi casa cuando vino a visitarme el otro dían\0\0\0\0(촀\0Sería horrible si la llega a necesitar
 y descubre que no están\0\0\0\0(촀\0¿Se la podrías ir a dejar?"
 "002_a","(\0촀\0¡Yo me encargo!"
 "002_b","(\0촀\0Mejor hazlo tú..."
@@ -23,8 +18,7 @@ y descubre que no están\0\0\0\0(촀\0¿Se la podrías ir a dejar?"
 \0
 (촀\0y resulta que tengo un paquete
 para s촀n\0\0
-(
-촀\0No sé cómo llegó a mi buzónn\0\0
+(촀\0No sé cómo llegó a mi buzónn\0\0
 \0
 (촀\0¡Tal vez porque tenemos el nombre
 muy parecido!

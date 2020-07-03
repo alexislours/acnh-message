@@ -94,8 +94,7 @@ de otros residentesn\0\0
 y sus millasn\0\0\0\0Así como los recuerdos suyos que
 tengamos tanto yo como los demás
 residentes.
-(
-촀\0Los datos de s\0촀 no están vinculados ahora mismo a un perfil de usuario en esta consola.\0\0Por eso no aparece en la isla.\0\0()촀\0Pero si hay alguien cuyo perfil de
+(촀\0Los datos de s\0촀 no están vinculados ahora mismo a un perfil de usuario en esta consola.\0\0Por eso no aparece en la isla.\0\0()촀\0Pero si hay alguien cuyo perfil de
 usuario no esté registrado como
 residente en la islan\0\0\0\0(%촀\0podrá reutilizar los datos de s\0촀 y registrarse bajo ese nombre."
 "064_01","()촀\0Para borrar los datos de un residente
@@ -202,8 +201,7 @@ absolutamente necesario, ¿sí?
 de s\0촀?"
 "107_a","He cambiado de idea"
 "107_b","\0Sí, borra los datos\0￿"
-"111","(
-촀\0Ahora mismo,
+"111","(촀\0Ahora mismo,
 \0 hay un residente en
 n	\0 que no tiene perfil de usuario en la consola.\0\0(촀\0Pero tiene la función de portavoz
 vecinal, así que no podemos borrar
@@ -215,8 +213,7 @@ son los tuyos, n\0.
 "111_a","Borrar mis datos"
 "111_b","¿Borrar al portavoz?"
 "111_c","He cambiado de idea"
-"112","(
-촀\0Ahora mismo,
+"112","(촀\0Ahora mismo,
 \0 hay varios residentes en n	\0 que no tienen perfil de usuario en la consola.\0\0()촀\0Pero uno de ellos es portavoz
 vecinal, así que no podemos borrar
 sus datos.
@@ -255,10 +252,8 @@ que pueda hacer por ti aquí,
 residentes,
 \0 tengo que preguntarles
 en persona si están de acuerdo."
-"204_01","(
-촀\0Ahora hay un residente en n	\0 que no tiene perfil de usuario en la consola."
-"204_02","(
-촀\0Ahora hay varios residentes en n	\0 que no tienen perfil de usuario en la consola."
+"204_01","(촀\0Ahora hay un residente en n	\0 que no tiene perfil de usuario en la consola."
+"204_02","(촀\0Ahora hay varios residentes en n	\0 que no tienen perfil de usuario en la consola."
 "205","(\0촀\0En este caso puedo aceptar tramitar
 el borrado de sus datos de residente.
 \0

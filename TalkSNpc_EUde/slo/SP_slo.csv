@@ -4,9 +4,9 @@
 "004_b","Unkraut gefällig?"
 "004_c","Schon gut..."
 "005","(촂\0Schön, 
-\0dich wiederzusehen.
-\0
-(&촂\0Was kann ich für dich tun?"
+\0dich wiederzusehen,
+\0 n\0.
+\0 (&촂\0Was kann ich für dich tun?"
 "005_a","Ich möchte einkaufen."
 "005_b","Unkraut gefällig?"
 "005_c","Schon gut..."
@@ -16,10 +16,9 @@ einen Blick auf die Blumensamen und
 Setzlinge, 
 \0die ich heute dabeihabe!(촀"
 "008","(촀\0Ganz wie du magst. 
-\0Falls du deine
-Meinung doch noch ändern solltest,
-\0
-findest du mich hier.($촀"
+\0Wenn du mich
+brauchst,
+\0 findest du mich hier.($촀"
 "011","(촀\0Eine ganz ausgezeichnete Wahl!
 \0<
 (\0촀\0Oh, 
@@ -42,8 +41,7 @@ denn verzupft,
 \0Du hast doch überhaupt keins dabei.\0\0(6촀\0Und was du nicht dabeihast, 
 \0das
 kann ich dir leider nicht abkaufen!"
-"022","(
-촀\0Wenn ich mich nicht verzählt habe,
+"022","(촀\0Wenn ich mich nicht verzählt habe,
 \0
 hast du Z Büschel Unkraut
 dabei. 
@@ -80,8 +78,7 @@ Ausgezeichnete Wahl! 
 du auch mehrere auf einmal kaufen.
 (&촂\0Wie viele Exemplare dürfen es sein?"
 "038_a","1 (\0Z\0\0￿)"
-"038_b","5 (\0Z
-\0￿)"
+"038_b","5 (\0Z\0￿)"
 "038_c","Lieber doch nicht..."
 "039","(4촀\0Oh! 
 \0(촀\0Kein Problem. 
@@ -104,10 +101,10 @@ Ein wirklich hübscher Name! 
 ach so. 
 \0Ich heiße übrigens \0Gerd\0￿."
 "042","Wie ich hörte, 
-\0hat mein guter Freund
-\0Nepp\0￿ hier einen Laden eröffnet. 
-\0(촀\0Da
-wollte ich mal kurz vorbeischauen."
+\0hat es meinen guten
+Freund \0Nepp\0￿ hierher verschlagen.
+\0
+(촀\0Da wollte ich kurz vorbeischauen."
 "043","(4촀\0\0Nepp\0￿ hat mir erzählt,
 \0 dass diese
 Insel vor deiner Ankunft verlassen
@@ -165,8 +162,7 @@ dopple ich sogar den Betrag, 
 Gartenbau leider viel zu häufig
 unterschätzten Gewächse.
 (%촀\0Büsche sind wie kleine Bäume.
-\0(
-촀\0 Oder
+\0(촀\0 Oder
 mehr wie Blumen, 
 \0nur eben eine
 Nummer größer? 
@@ -236,8 +232,7 @@ deiner nächsten Sterni-Ernte wieder!"
 für dich tun kann, 
 \02,mein Gutermeine Gute?(촀"
 "057","Oh!
-\0 (""촀\0Huhu,
-\0 n\0!
+\0 (""촀\0Hallihallo!
 \0<
 (촀\0Ist das nicht ein wunderschöner Tag,
 \0
@@ -246,11 +241,11 @@ um ein paar Blümchen zu kaufen?"
 dazu? 
 \0<(촀\0Du hast Glück, 
 \0denn heute
-verkaufe ich(촀\0 25촀dendiedas \0촀\0￿!
-Zu dieser Jahreszeit trägt 25촀ersiees sogar
-Blüten! 
-\0(촀\0Du kannst dich also bald
-nach dem Einpflanzen dran erfreuen."
+verkaufe ich(촀\0 26촀dendiedas \0촀\0￿!
+(\0촀\0Zu dieser Jahreszeit zeigt 2:6촀er seinesie ihrees seine
+volle Pracht, 
+\0(촀\0also mach dich bald ans
+Einpflanzen!"
 "059","(\0촀\0Von diesem Angebot profitieren
 wir beide. 
 \0(4촀\0Du wirst für die schweiß-
@@ -273,10 +268,10 @@ auf keinen Fall etwas falsch!"
 "081","Übrigens habe ich gerade einen
 wunderschönen Busch im Angebot.
 \0
-(""촀\025촀DenDieDas \0촀\0￿!
-(\0촀\0Glücklicherweise hat 25촀ersiees gerade
+(""촀\026촀DenDieDas \0촀\0￿!
+(\0촀\0Glücklicherweise hat 26촀ersiees gerade
 Blütezeit, 
-\0(촀\0also kannst du 2&5촀
+\0(촀\0also kannst du 2&6촀
 seineihre
 seine volle
 Pracht sofort genießen."

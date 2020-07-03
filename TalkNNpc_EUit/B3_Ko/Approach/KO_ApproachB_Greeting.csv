@@ -6,16 +6,14 @@ pare significhin\0\0 ""ti voglio bene"".
 un nuovo modello di televisore.
 (촀\0
 \0AHAHAH!
-(
-촀\0Ma senti qua, che ne pensi di trovare
+(촀\0Ma senti qua, che ne pensi di trovare
 un saluto particolare che possiamo
 usare solo tu e io?"
 "001_a","Certo!"
 "001_b","Direi di no."
 "002","()촀\0Allora, hai presente il nostro saluto?
 
-\0""n\0Buooongiorno, compare!n""?\0\0(
-촀\0Beh, forse non è granché, 
+\0""n\0Buooongiorno, compare!n""?\0\0(촀\0Beh, forse non è granché, 
 \0in effetti...
 (&촀\0Opinioni, n\0?"
 "002_a","(\0촀\0Direi di cambiarlo!"
@@ -24,8 +22,7 @@ usare solo tu e io?"
 \0
 Senti, l'altra mattina mi è venuta
 una fulminazionen\0\0
-(
-촀\0E se usassimo un saluto che solo
+(촀\0E se usassimo un saluto che solo
 noi due conosciamo quando ci
 incontriamo?
 \0
@@ -43,8 +40,7 @@ divertentissimo saluto che ci diciamo
 quando ci incontriamo. 
 \0Lo ricordi, sì?
 ""n\0Buooongiorno, compare!n"".
-(
-촀\0Mi è venuta in mente questa idea
+(촀\0Mi è venuta in mente questa idea
 folle di cambiarlo...
 \0 (&촀\0Tu che ne pensi?"
 "004_a","(\0촀\0Ma sì, cambiamolo!"
@@ -74,9 +70,10 @@ ingranare la marcia, no? (촀\0
 idea.
 \0 (촀\0Sentiamo un po'!"
 "101","Ahn\0\0 
-\0(&촀\0Giusto per essere sicuri, vuoi
-che ci salutiamo con
-\0 ""n\0Buooongiorno, compare!n""?"
+\0(&촀\0Giusto per essere sicuri,
+vuoi che ci salutiamo con
+
+\0""n\0Buooongiorno, compare!n""?"
 "101_a","Esatto."
 "101_b","No, aspetta!"
 "102","Quindi, fammi capire benen\0\0

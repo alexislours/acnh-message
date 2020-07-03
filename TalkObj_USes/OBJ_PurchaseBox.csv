@@ -15,9 +15,6 @@ compraventa?"
 "003_a","¡A vender!"
 "003_b","No me quedó claro..."
 "003_c","En otro momento..."
-"004","Creo que me darían \0Z\0\0￿,
-\0
-¿me parece bien?"
 "004_a","(\0촀\0¡Trato hecho!"
 "004_b","(\0촀\0Cambié de idea."
 "010","Dice que es un buzón de
@@ -27,11 +24,9 @@ dejar dentro lo que quiera vender."
 "010_a","Pues a vender"
 "010_b","¿Cómo funciona?"
 "010_c","En este momento no..."
-"020","(
-촀\0Parece que no puedo usar el buzón
+"020","(촀\0Parece que no puedo usar el buzón
 si tengo el saldo del banco al máximo."
-"021","(
-촀\0Parece que por el momento
+"021","(촀\0Parece que por el momento
 no puedo seguir usando el buzón
 para vender."
 "101","\0Cómo usar el buzón de compraventa\0￿\0\0Deja aquí las cosas que quieras

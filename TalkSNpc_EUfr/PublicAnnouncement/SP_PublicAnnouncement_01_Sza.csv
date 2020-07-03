@@ -157,8 +157,7 @@ dont fait preuve notre communauté.
 (1촀\0Vous verrez, ce sera formidable !
 \0
 Au programme : séances de
-farniente sur une île lointainen\0\0\0\0(
-촀\0En même temps, vous vous reposez
+farniente sur une île lointainen\0\0\0\0(촀\0En même temps, vous vous reposez
 déjà icin\0\0 Humn\0\0(\0촀\0 Bref, faites-moi
 confiance, ce sera amusant !
 ($촀\0Et surtout, n'oubliez pas d'aller
@@ -193,8 +192,7 @@ dont fait preuve notre communauté.
 (1촀\0Vous verrez, ce sera formidable !
 \0
 Au programme : séances de
-farniente sur une île lointainen\0\0\0\0(
-촀\0En même temps, vous vous reposez
+farniente sur une île lointainen\0\0\0\0(촀\0En même temps, vous vous reposez
 déjà icin\0\0 Humn\0\0(\0촀\0 Bref, faites-moi
 confiance, ce sera amusant !
 ($촀\0Et surtout, n'oubliez pas d'aller
@@ -221,7 +219,7 @@ attendons au \0bureau des résidents\0￿ !"
 chaque année à prendre un peu
 plus soin de notre environnement.
 (\0촀\0J'ajoute enfin que les activités liées à
-cette fête dureront jusqu'au 4 mai.
+cette fête dureront jusqu'au \04 mai\0￿.
 
 \0(""촀\0Bonne journée et vive l'écologie !"
 "008_04","(1촀\0C'est déjà juinn\0\0 L'amour est dans
@@ -243,6 +241,45 @@ rallye tampons du 18 au 31 mai !
 (\0촀\0Hé hé ! Je sens qu'on va bien
 s'amuser. ($촀\0Alors tous au musée
 et vive le rallye !"
+"008_07_01","()촀\0Nook Inc. a effectué une évaluation
+des conditions océaniques autour
+de l'îlen\0\0\0\0(%촀\0Et au vu des résultats,
+\0 j'ai le plaisir
+d'autoriser la baignade !
+\0(촀\0 Il est donc
+possible d'aller nager !\0\0()촀\0De plus,
+\0 l'eau est exceptionnellement
+limpide dans les profondeurs,
+\0 ce qui
+devrait ravir les plongeurs !\0\0(9촀\0Pour votre sécurité,
+\0 veuillez utiliser
+un équipement adéquat et en bon
+état pour plonger.
+()촀\0D'ailleurs,
+\0 Nook Shopping et le
+magasin proposent des combinaisons
+de plongée à la vente.\0\0Oh, (촀\0je suis impatiente de voir tout le
+monde s'amuser dans l'eaun\0\0
+\0(촀\0 Et ne
+me rapportez pas de méduse, brrr !"
+"008_07_02","Comme je vous l'ai dit,
+\0(촀\0 la baignade
+est désormais autorisée dans la mer !\0\0Mieux encore,
+\0(%촀\0 l'eau est limpide et
+pure,
+\0($촀\0 ce qui devrait faire la joie des
+amateurs de plongée sous-marine !
+(9촀\0Pour votre sécurité,
+\0 veuillez utiliser
+un équipement adéquat et en bon
+état pour plonger.
+()촀\0D'ailleurs,
+\0 Nook Shopping et le
+magasin proposent des combinaisons
+de plongée à la vente.\0\0Oh, (촀\0je suis impatiente de voir tout le
+monde s'amuser dans l'eaun\0\0
+\0(촀\0 Et ne
+me rapportez pas de méduse, brrr !"
 "010","(촂\0Chers amis.
 \0 Je me permets de vous
 interrompre dans vos activités
@@ -298,12 +335,12 @@ plus naturel que d'aller le saluer ?"
 de la présence d'un individu suspect
 sur les îles de la région.
 Cen\0\0 visiteur 
-\0('촀\0se livre au commerce
+\0(촀\0se livre au commerce
 honteux d'œuvres d'art aux origines
 intraçables.
 (\0촀\0On ne déplore aucun blessé parmi
 les personnes ayant été en contact
-avec luin\0\0(%촀\0 mais restez prudents !"
+avec luin\0\0(9촀\0 mais restez prudents !"
 "600","<"
 "600_01","(촀\0Oh, j'oubliais !"
 "600_02","(촀\0J'ai failli oublier !"
@@ -531,16 +568,13 @@ merci de les ramasser !"
 \0Oups, j'oubliais !"
 "619_02_02","(%촀\0Si vous avez l'appli \0Créations\0￿,
 vous devriez avoir reçu mon plan
-de\0 couronne décorative\0￿ !\0\0(
-촀\0Évidemment, si vous trouviez des
+de\0 couronne décorative\0￿ !\0\0(촀\0Évidemment, si vous trouviez des
 \0boules de sapin \0￿par terre, ce serait
 l'occasion de les utilisern"
-"619_03","(
-촀\0D'autant que ces \0boules \0￿feraient
+"619_03","(촀\0D'autant que ces \0boules \0￿feraient
 sûrement des matériaux de choix
 pour vos créations de saisonn"
-"701","(
-촀\0Flûte alorsn\0\0 Je crois qu'il n'y a
+"701","(촀\0Flûte alorsn\0\0 Je crois qu'il n'y a
 vraiment rien de neuf, aujourd'huin\0\0
 Si ce n'estn\0\0
 \0(촀\0 Oh !"
@@ -575,8 +609,7 @@ raconter, aujourd'huin"
 "802_02","(촀\0Si,
 \0 je sais !"
 "802_03","(촀\0Quoiquen"
-"803","(
-촀\0Enfin, techniquement, nous avons
+"803","(촀\0Enfin, techniquement, nous avons
 changé de date,
 \0(촀\0 doncn"
 "804_01_01","(%촀\0Nous sommes à la fin du mois de
@@ -703,8 +736,7 @@ mois d'octobre vous sera doux !\0\0(""촀\0C'était \0Marie \0￿!
 amis !"
 "804_10_01","(촀\0Aujourd'hui, c'est Halloween ! Quel
 bonheur, j'espère voir un festival
-de costumes sur notre île !\0\0(
-촀\0Certains d'entre vous ont sûrement
+de costumes sur notre île !\0\0(촀\0Certains d'entre vous ont sûrement
 prévu une grande fêten\0\0
 \0(촀\0 tandis que
 d'autres préfèreront regarder un film.
@@ -714,8 +746,7 @@ une bonne soirée !
 c'est de se faire plaisir."
 "804_10_02","(촀\0Aujourd'hui, c'était Halloween !
 J'espère que vous viendrez me
-montrer vos costumes !\0\0(
-촀\0Certains d'entre vous ont sûrement
+montrer vos costumes !\0\0(촀\0Certains d'entre vous ont sûrement
 fait la fêten\0\0
 \0(촀\0 tandis que d'autres
 auront préféré regarder un film.\0\0(촀\0Peu importe ce que vous avez fait
@@ -747,8 +778,7 @@ forme pour une nouvelle semaine
 d'informations et de divertissement !
 (""촀\0C'était \0Marie\0￿, excellente semaine
 à tous !"
-"807","(
-촀\0Je ne trouve rien d'intéressant à
+"807","(촀\0Je ne trouve rien d'intéressant à
 vous diren\0\0
 \0 (촀\0On n'est que mardi, 
 \0
@@ -783,8 +813,7 @@ mais l'heure du repos approche !"
 \0
 (""촀\0Permettez-moi de vous souhaiter à
 tous un très agréable week-end !"
-"820","(
-촀\0Flûte alorsn\0\0 Je crois qu'il n'y a
+"820","(촀\0Flûte alorsn\0\0 Je crois qu'il n'y a
 vraiment rien de neuf, aujourd'huin"
 "821","(촀\0Ah, mais si ! 
 \0(&촀\0Vous avez vu le
@@ -798,8 +827,7 @@ siège pendant la scène finale !"
 "822","(촀\0Mais oui ! 
 \0(&촀\0Est-ce que quelqu'un a
 suivi le quiz qu'ils ont passé à la télé,
-hier soir ?\0\0(
-촀\0Je me demande où ils vont chercher
+hier soir ?\0\0(촀\0Je me demande où ils vont chercher
 toutes ces questionsn\0\0
 \0 Sans parler
 des réponses !"
@@ -822,7 +850,7 @@ de parler en dehors de l'émissionn\0\0
 "
 "825","(촀\0Mais oui ! 
 \0(&촀\0Vous avez regardé
-l'émission culinaire d'hier, à la télé ?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2촀\0e\0 !\0\0(촀\0Pour ma part, j'ai bien intention de
+l'émission culinaire d'hier, à la télé ?\0\0(촀\0Je n'avais jamais vu 2\0촀 aussi appétissant2 촀\0e\0 !\0\0(촀\0Pour ma part, j'ai bien intention de
 m'essayer à cette recette dès ce
 soir.
 \0 Je vais bien m'appliquer !"

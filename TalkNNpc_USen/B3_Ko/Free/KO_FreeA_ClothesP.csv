@@ -55,8 +55,7 @@ sense of yours,
 \0 n\0."
 "004_03","(촀\0You sure look stylish
 \0 in your
-}촂.\0\0(
-촀\0Reckon maybe there is somethin' to
+}촂.\0\0(촀\0Reckon maybe there is somethin' to
 say
 \0 for accessorizin',
 \0 n\0."
@@ -84,8 +83,7 @@ yourself, n\0?\0\0(%촀\0Well,
 "008","(촀\0Ain't never seen anyone wearin'
 \0
 that particular number before!\0\0(9촀\0You mean to say that it was designed
-by (;촀\0s\0촂?\0\0(
-촀\0Reckon it takes a special noggin
+by (;촀\0s\0촂?\0\0(촀\0Reckon it takes a special noggin
 \0 to
 come up with somethin' like that
 \0n\0\0
@@ -107,14 +105,12 @@ to your }촀!"
 "011","( 촀\0You're all summery-like
 \0 in your
 }촀.\0\0(-촀\0Let's try to beat this dadburn heat!"
-"012","(
-촀\0You look downright autumnal
+"012","(촀\0You look downright autumnal
 \0 in your
 }촀, kiddo!"
 "013","(%촀\0You look ready to take on winter
 \0 in
-your }촀.\0\0(
-촀\0Seems like dressin' like that
+your }촀.\0\0(촀\0Seems like dressin' like that
 \0 might
 make this cold more tolerable
 \0n\0\0
@@ -169,8 +165,7 @@ what you're wearin',
 you might set off some nosy killjoy."
 "021","(촀\0You're lookin' downright refined
 \0 in
-your }촀!\0\0(
-촀\0Never thought of you as the high-
+your }촀!\0\0(촀\0Never thought of you as the high-
 society type,
 \0 n\0
 \0n"
@@ -185,8 +180,9 @@ Anyway,
 "101_02","(촀\0I just expect you to be wearin' your
 }촀
 \0 now."
-"101_03","(9촀\0So n\0,
-\0 I gotta know.\0\0Is it that you got nothin' else to wear,
+"101_03","(9촀\0So, n\0,
+\0 I gotta know.\0\0Is it that you got nothin' else to
+wear,
 \0 or do you just really like
 \0 your
 }촀?"
@@ -206,3 +202,62 @@ your }촀 it?\0\0(\0촀\0Must be super comfortable,
 \0 (촀\0is all
 I'm sayin', n\0
 \0n"
+"201","<ﬀﰀ촀"
+"202","( 촀\0I didn't realize you were such a big
+Bunny Day fan, kiddo.
+\0( (%촀\0I like the look.
+\0
+It's workin' for ya, n\0."
+"203","(\0촀\0Gotta askn\0\0
+\0 (&촀\0What's with the wedding
+getup, kiddo? 
+\0You ain't about to get
+hitched and didn't tell me, right?\0\0(촀\0I tell ya, 
+\0that ensemble puts me in
+a mind of celebratin', n\0."
+"204","(촀\0You're lookin' fresh!
+\0 (9촀\0That's, uhn\0\0
+\0
+(촀\0what the kids are saying these
+days, right? 
+\0Fresh?\0\0(촀\0Or maybe that word's expired now,
+n\0?
+\0( (촀\0Gahaha!"
+"251","(2촀\0You're lookin' awful cat-like today,
+kiddo. 
+\0You know, flattery will get you
+everywhere, n\0!
+\0 (촀\0Gahaha!"
+"252","(&촀\0So what's with the cat getup? 
+\0You
+goin' off to some kinda party or
+something, n\0?"
+"301","( 촀\0My, my, my! 
+\0You're lookin' ferocious,
+kiddo!
+\0( ('촀\0Well, I don't want no trouble,
+\0
+least of all from you, n\0."
+"303","(\0촀\0You're all geared up, kiddo.
+\0 (&촀\0Are you
+going fishing, or just gettin' back?\0\0(촀\0Or maybe that outfit's just comfy.
+\0
+Sure looks it, at any rate."
+"401","<"
+"401_01","(9촀\0You sure do seem to like that outfit.
+\0
+It's no wonder though.
+\0 (6촀\0You wear it
+so well, n\0!"
+"401_02","(촀\0You're wearin' that again, huh? 
+\0I get
+it.
+\0 (%촀\0Once you find something you like,
+it's tough to switch, n\0."
+"401_03","(촀\0I feel like I've seen you in that
+before.
+\0 Not that I'm an expert on
+your style or nothin', n\0.\0\0(\0촀\0Well, wearing what you love just
+makes your day brighter,
+\0 (촀\0and I say
+you're lookin' plenty bright today."

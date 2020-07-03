@@ -1,15 +1,13 @@
 ﻿"label","text"
 "002","( 촀\0Serieus?
-\0(
-촀\0 Op dit eiland wonenn\0\0
+\0(촀\0 Op dit eiland wonenn\0\0
 \0
 (촀\0Ja, dat zie ik mezelf wel doen!\0\0(촀\0Zeg maar, een eiland met jou erop
 móét wel een leuk eiland zijn!\0\0(5촀\0
 \0Ik zal de \0servicebalie \0￿vragen of er
 een plekje is waar ik kan wonen,
 n\0!"
-"003","(
-촀\0Hmmmmn\0\0 Dat is, zeg maar, echt
+"003","(촀\0Hmmmmn\0\0 Dat is, zeg maar, echt
 een superverleidelijk aanbod.
 \0
 Weet je watn\0\0\0\0(\0촀\0Ik heb eerder nee gezegd, 
@@ -95,10 +93,7 @@ wel iets voor jou, n\0!"
 \0 (촀\0Maar dit is je kans om een
 toekomstige popster op je eiland te
 krijgen! Denk aan al die toeristen!"
-"203_01","(%촀\0Dan is het tijd voor een kaartspel!
-\0
-Ik ga zo een kaart trekken (""촀\0en jij moet
-er iets over raden, n\0!"
+"203_01","(%촀\0Dan is het nu tijd voor een kaartspel!"
 "204","<"
 "204_01","(촀\0Ik heb gewonnen!
 \0 Sorry,
@@ -148,8 +143,7 @@ een eiland. Naja, niet echt, maarn\0\0\0\0O ja, hoe gehecht ben je aan de naa
 \0dam?
 \0
 Isla de la n
-\0?\0\0(
-촀\0O! 
+\0?\0\0(촀\0O! 
 \0Hmmmn\0\0
 \0( ()촀\0Ik zal er wat langer over
 nadenken terwijl ik bij de \0servicebalie
@@ -316,6 +310,19 @@ kom hier supersnel wonen!\0\0Maar goed, dan is het nu tijd voorn\0\0(촀\0
 over.
 \0(촀\0 Een onwijs fantastisch te gek
 gevoel!"
+"309_01","(촀\0Bedankt voor het wachten!
+\0 Ik wilde naar s촀 gaan voor een praatje,
+\0('촀\0 maar er was niemand.\0\0(9촀\0Raad eens waarom? 
+\0((촀\02촀HijZe\0 woont
+hier al niet meer!\0\0(촀\0Dus kan ik op dit eiland komen
+wonen!
+\0-(\0촀\0 Dat is pas geluk hebben!\0\0( 촀\0Sjeempie! 
+\0Ik zal mezelf even voor-
+stellen!
+\0( Ik (촀\0ben je nieuwe, favoriete
+popster \0K\0(in spe)\0￿\0d, n\0!\0\0(촀\0Jij bent toch n\0?
+\0 (촀\0We gaan samen zoveel lol hebben!
+\02(촀"
 "310","(촀\0Is er echt niemand, n\0?"
 "310_a","Toch wel!"
 "310_b","Weet ik niet meer..."
@@ -394,8 +401,7 @@ met mijn band begin te touren!\0\0(촀\0Nu het hier zo druk is, komt er vas
 een enorm groot publiek kijken!
 \0 (촀\0Dus
 koop nú je tickets, n\0!"
-"424","(
-촀\0Er is, zeg maar, genoeg land op dit
+"424","(촀\0Er is, zeg maar, genoeg land op dit
 eilandn\0\0
 \0 (&촀\0Wat vinden de bewoners hier
 van krakers?\0\0(2촀\0Graaaapje, n\0.

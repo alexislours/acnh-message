@@ -58,6 +58,14 @@ delle donazioni di \0opere d'arte\0￿."
 "104_b","Esamina fossili."
 "104_c","Cos'è questa cosa?"
 "104_d","Va bene così."
+"105","C'è altro
+\0(&촀\0 che posso fare per te?"
+"105_a","\0Ho una creatura marina!\0￿"
+"105_b","\0Ho un'opera d'arte!\0￿"
+"105_c","Donazione!"
+"105_d","Esamina fossili."
+"105_e","Cos'è questa cosa?"
+"105_f","Va bene così."
 "201","( 촀\0Sogno o son desto?
 \0 Dimmi un po' n\0,
 \0 (&촀\0quella che vedo in tuo possesso è un'\0opera d'arte\0￿?"

@@ -15,9 +15,6 @@ la cassetta deposito?"
 "003_a","Sì, dai!"
 "003_b","Rivedo le istruzioni."
 "003_c","Un'altra volta."
-"004","Credo che tu possa guadagnarci
-\0Z\0\0￿.
-\0 Va bene?"
 "004_a","(\0촀\0Affare fatto!"
 "004_b","(\0촀\0Ho cambiato idea."
 "010","Sembra che si tratti di una ""cassetta
@@ -27,12 +24,10 @@ qualsiasi cosa desideri vendere."
 "010_a","Vendo qualcosa."
 "010_b","Come funziona?"
 "010_c","Non ora."
-"020","(
-촀\0A quanto pare non puoi usare la
+"020","(촀\0A quanto pare non puoi usare la
 cassetta deposito se il tuo conto
 ha raggiunto il limite massimo."
-"021","(
-촀\0Pare che in questo momento tu non
+"021","(촀\0Pare che in questo momento tu non
 possa vendere qualcos'altro usando
 questo metodo."
 "101","\0Come usare la cassetta deposito\0￿\0\0Infila qui tutto ciò che vuoi vendere

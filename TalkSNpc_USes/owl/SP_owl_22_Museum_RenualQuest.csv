@@ -4,8 +4,7 @@ Tengo muy buenas noticias, ¡uhu!\0\0(촀\0¡A partir de ahora el museo pue
 albergar a muchos más ejemplares!\0\0(촀\0Todo gracias a tus inestimables
 esfuerzos y al apoyo de todos los
 vecinos de n\0.
-(
-촀\0De hecho, estoy considerando
+(촀\0De hecho, estoy considerando
 crear una galería en el museo
 para exponer \0obras de arte\0￿.
 (촀\0Si por casualidad tienes alguna
@@ -48,6 +47,14 @@ otra cosa?"
 "104_b","Examinar fósiles"
 "104_c","Háblame de esto"
 "104_d","No hace falta"
+"105","(&촀\0¿Te puedo ayudar con alguna
+otra cosa?"
+"105_a","\0Encontré algo buceando\0￿"
+"105_b","\0Tengo una obra de arte\0￿"
+"105_c","¡Donación!"
+"105_d","Examinar fósiles"
+"105_e","Háblame de esto"
+"105_f","No hace falta"
 "201","( 촀\0¡Uuuhu!
 \0 ¿Tienes una \0obra de arte\0￿,
 n\0?"

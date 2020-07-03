@@ -105,6 +105,8 @@ como si transformaras tu aspecto,
 no se considera un cambio de ropa.\0\0Seguirás con la misma ropa que
 llevabas, pero quedará oculta
 por la transformación.\0￿"
+"0505","Para cambiarte de ropa, primero
+debes quitarte el traje de buceo."
 "0551","No llevas puesto nada que pueda
 guardarse como conjunto."
 "0552","Este conjunto no cabe en el trastero
@@ -1054,6 +1056,10 @@ completo y luciéndolo por ahí.
 Diviértete consiguiendo el lote
 completo y decorando tu hogar.
 \0\0Se enviará por correo.\0￿"
+"3021","Un \0traje de buceo\0￿ de \0Nook Inc.\0￿
+que permite nadar y bucear
+en el mar con total libertad.
+\0\0Se enviará por correo.\0￿"
 "5001","\0Cámara\0￿
 Te permite sacar fotos y aplicarles
 diversos filtros y efectos.\0\0\0\0Las imágenes se guardarán en el
@@ -1080,6 +1086,14 @@ del \0programa de millas Nook+\0￿.
 Consulta esta aplicación para
 obtener información sobre los
 bichos y peces que hayas atrapado."
+"5022","\0Capturapedia\0￿
+Obtén información sobre los bichos,
+peces y especies marinas que hayas
+atrapado."
+"5023","\0Capturapedia\0￿
+La aplicación se ha actualizado
+con información sobre las especies
+marinas que has atrapado."
 "5031","\0Creaciones\0￿
 Esta aplicación recopila todos
 los proyectos de bricolaje
@@ -1516,12 +1530,30 @@ utilice internet, como la lista de
 mejores amigos. ¿Quieres continuar?"
 "8016_a","No"
 "8016_b","Sí"
-"8017","Este usuario no está asociado a
-ninguna cuenta Nintendo o bien
-debe volver a iniciar la sesión.\0\0Si vuelves a iniciar la partida, se
-reiniciará cualquier función que
+"8017","Es necesario verificar a través
+de internet que este usuario está
+vinculado a una cuenta Nintendo
+válida.\0\0Si empiezas a jugar sin verificarlo,
+se reiniciará cualquier función que
 utilice internet, como la lista de
 mejores amigos. ¿Quieres continuar?"
 "8017_a","No"
 "8017_b","Sí"
+"8018","Es necesario verificar a través
+de internet que este usuario está
+vinculado a una cuenta Nintendo
+válida.
+A continuación se te permitirá
+conectar a internet para realizar
+dicha verificación."
+"8018_a","¡Vale!"
 "8019","Volver a empezar la partida"
+"8020","Es necesario verificar a través
+de internet que este usuario está
+vinculado a una cuenta Nintendo
+válida.
+A continuación se te permitirá
+conectar a internet para realizar
+dicha verificación."
+"8020_a","No"
+"8020_b","¡Vale!"

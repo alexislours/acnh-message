@@ -156,7 +156,7 @@ the \0100 \0￿miles up front, andn\0\0d
 \0( Listen, pal.
 \0
 You ain't got the Nook Miles!\0\0C'mon! 
-\0Deep breath, Resettin\0\0
+\0Deep breath, \0Resetti\0￿n\0\0
 \0 OKn\0\0
 Seeing as this is an emergency,
 \0 I'll
@@ -340,6 +340,9 @@ construction, and work safely!"
 "
 "207","Is the reception bad or what? Maybe
 I should \0stand up \0￿and try again."
+"207_01","Is the reception bad, or what?
+Maybe I should try again when
+I'm \0back on land\0￿."
 "208",""
 "209","You're \0outside of the valid service
 area\0￿. You can only use this app while
@@ -514,6 +517,8 @@ area\0￿ for the cleanup service.\0\0This service can only be used
 outdoors on n	\0."
 "301","Looks like the map app won't work
 for this island."
+"302","Looks like the map app won't work
+while I'm swimming..."
 "311","Hm? It says ""Outside service area.""
 Guess I can't use it here."
 "321","Looks like I can't use the Chat Log

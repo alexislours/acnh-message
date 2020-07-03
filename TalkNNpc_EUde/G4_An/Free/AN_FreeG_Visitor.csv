@@ -4,8 +4,7 @@
 Frucht gibt's auf n\0?"
 "001_a","Öhm... Die da!"
 "001_b","Die da?"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(3촀\0Zack.
 \0 Gewonnen!
@@ -36,8 +35,7 @@ nich' \0Nooks Laden\0￿ unsicher machen?\0\0(6촀\0Drinnen gibt's ei
 Sardinendosenfeeling für umme,
 \0 die
 Auswahl is' aber schwer in Ordnung!"
-"015","(
-촀\0Haste schon Souvenirs von
+"015","(촀\0Haste schon Souvenirs von
 n\0 stecken?\0\0(촀\0Dann mal ab zu \0Nepp\0￿ und \0Schlepp\0￿!
 \0
 (%촀\0In \0Nooks Laden\0￿ bieten die zwei
@@ -87,17 +85,15 @@ als Fotokulisse, 
 \0n\0!"
 "028","(""촀\0Warste schon im \0Museum\0￿?
 \0(
-((촀\0Musst dir auf jeden Fall 2*)촀unsern
+((촀\0Musst dir auf jeden Fall 2**촀unsern
 unsre
 unser
-2촁
-\0 ansehn!"
+2촁\0 ansehn!"
 "029","( 촀\0Stehste auf Krabbelviecher?
 \0 Lass dir
-2*)촀unsern
+2**촀unsern
 unsre
-unser 2촁
- dann bloß nich' entgehen!\0\0(5촀\0In unsrem inseleigenen \0Museum
+unser 2촁 dann bloß nich' entgehen!\0\0(5촀\0In unsrem inseleigenen \0Museum
 \0￿kannst du ein Prachtexemplar
 bewundern, 
 \0n\0!"
@@ -105,14 +101,12 @@ bewundern, 
 erst wegdarfst, 
 \0wenn du in unsrem
 \0Museum \0￿vorbeigeschaut hast.
-(6촀\0Wir haben dort 2n)촀$'nen hammermäßigen 'ne hammermäßige 'n hammermäßiges
-2촁
- ausgestellt, 
+(6촀\0Wir haben dort 2n*촀$'nen hammermäßigen 'ne hammermäßige 'n hammermäßiges
+2촁 ausgestellt, 
 \0n\0."
 "031","(촀\0Jedes Mal, 
-\0wenn ich im \0Museum\0￿ 2)촀dendiedas
-2촁
- sehe, 
+\0wenn ich im \0Museum\0￿ 2*촀dendiedas
+2촁 sehe, 
 \0legt mein Hirn den Turbo ein!\0\0Da fallen mir direkt supertolle neue
 Sachen ein. 
 \0(1촀\0Neue Bastelanleitungen,

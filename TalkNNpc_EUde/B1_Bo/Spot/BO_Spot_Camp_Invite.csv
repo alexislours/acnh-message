@@ -107,8 +107,7 @@ einfach ein Spiel spielen?\0\0(촀\0Wenn du gewinnst, 
 "201_03","(촀\0Ich bin ja so glücklich, 
 \0dass du mich
 eingeladen hast! 
-\0(
-촀\0Aber, 
+\0(촀\0Aber, 
 \0ich weiß
 nicht, 
 \0kann mich nicht entscheiden...\0\0(촀\0Warte mal! 
@@ -220,8 +219,7 @@ spielen! 
 ohne zu zögern zu dir!"
 "207_01_a","Einverstanden!"
 "207_01_b","Nee, lass mal."
-"207_02","(
-촀\0Hmmmn\0\0 So ein Umzug klingt ganz
+"207_02","(촀\0Hmmmn\0\0 So ein Umzug klingt ganz
 schön anstrengend, 
 \0aber ich mag
 dich schon gern öfters sehen...
@@ -337,6 +335,24 @@ herziehen! 
 \02\0n\0 heißt du? 
 \0Ich heiße n
 \0!"
+"309_01","(촀\0Rate mal, 
+\0was ich gemacht hab!
+\0
+()촀\0Ich wollte bei s촀 wegen meinem Umzug nachhaken...\0\0( 촀\0Aber 2촀ersie\0 war nirgends zu sehen.
+\0
+('촀\0Ich glaub, 
+\0s촀 wohnt gar nicht mehr dort!\0\0Heißt das,
+\0 ich kann direkt dort
+hinziehen? 
+\0(촀\0Juchhuuu, 
+\0n\0!\0\0(촀\0Oh, 
+\0aber vielleicht sollte ich mich
+erst mal bei dir vorstellen. 
+\0(""촀\0Ich bin
+der n
+\0.\0\0(6촀\0Und du musst n\0 sein, 
+\0stimmt's? 
+\0Äh, he he hen"
 "310","(&촀\0Gibt es niemanden, 
 \0den ich
 fragen sollte?"
@@ -397,8 +413,7 @@ vom \0Servicecenter \0￿geredet und...
 \0Dann können wir jeden Tag
 zusammen spielen, 
 \0n\0!"
-"410","(
-촀\0Ooodern\0\0
+"410","(촀\0Ooodern\0\0
 \0 soll ich noch mal
 nachfragen?
 \0 (\0촀\0Vielleicht sagen sie

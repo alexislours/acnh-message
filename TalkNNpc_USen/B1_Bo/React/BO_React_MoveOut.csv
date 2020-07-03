@@ -101,9 +101,7 @@ decide where I'm moving to!"
 \0(
 (촀\0
 \0I'm n
-\0!
-\0( Nice
-to meet you!\0\0(4촀\0Well, this is kinda awkward. 
+\0!\0\0(4촀\0Well, this is kinda awkward. 
 \0See,
 I already decided to move away
 tomorrow. 
@@ -169,8 +167,7 @@ and tell you what I learned.
 "200_b","Hmm..."
 "201","(촀\0Yeah? Your island is
 n	\0, right?
-\0(\0\0(
-촀\0Ya know, it'd be pretty fun hanging
+\0(\0\0(촀\0Ya know, it'd be pretty fun hanging
 out together again—snacks and
 treasure hunts and everything else!\0\0(촀\0OK!
 \0 I'm gonna go visit your
@@ -226,8 +223,7 @@ fit more!\0\0(촀\0Ah, well. No worries! Thanks for
 inviting me!
 \0( I hope we get to
 snack someday!"
-"300","(
-촀\0Maybe I'll ask one more time?
+"300","(촀\0Maybe I'll ask one more time?
 \0<
 (\0촀\0They might say,(;촀\0
 \0 ""Come on over!""

@@ -50,8 +50,7 @@ Stai cercando di negoziare con me?"
 Vuoi o non vuoi vedere il tesoro
 che hai trovato con tanta fatica?
 (촀\0Bene.
-\0
- Allora dammelo un secondo.
+\0 Allora dammelo un secondo.
 \0
 Così te lo apro e ti mostro di che si
 tratta, n\0."
@@ -124,6 +123,7 @@ nuovo insieme un'altra volta!"
 mi devi restituire quello che è mio,
 n\0."
 "402","()촀\0Questa volta niente premio,
-\0 ma sono sicura che la prossima sarà un vero
+\0 ma sono
+sicura che la prossima sarà un vero
 successo. 
 \0(""촀\0Ci vediamo, n\0."

@@ -45,6 +45,13 @@ Wil je er iets voor ruilen?"
 Wat jammer.
 \0 Dan is vrijlaten
 helaas je enige optie."
+"008","Maarn\0\0
+\0 je hebt er geen plek voor!
+\0
+
+Wat jammer.
+\0 Dan is vrijlaten
+helaas je enige optie."
 "011","Je hebt geen plek voor deze bloem
 in je zakken,
 \0 dus je kunt hem beter
@@ -250,11 +257,10 @@ Je kunt nu doen wat je zelf wilt!
 \0
 WOE-HOEEEE!"
 "204_02","Hoera!
-\0 Je hebt je hypotheek
-afbetaald!"
+\0 Je hebt je lening afbetaald!"
 "204_03","Te gek!
-\0 Je hebt eindelijk je
-hypotheek helemaal afbetaald!"
+\0 Je hebt eindelijk je laatste
+lening afbetaald!"
 "205",""
 "210","Juist. Dit is volkomen logisch!"
 "210_01","Je hebt geleerd hoe je \0populaire
@@ -311,7 +317,7 @@ de \0Eilandontwerper\0￿-app!"
 \0 Nu \0K.K. \0￿hier heeft opgetreden,
 gaan we fijn verder met het beter en
 beter maken van het eilandleven.\0\0Dat betekent volop genieten van elke
-dag, leuke dingen doen, en vooral
+dag, leuke dingen doen en vooral
 veel plezier maken!"
 "213","Poeh, poeh! Al de voorbereidingen
 voor de huizenbouw zijn getroffen!"
@@ -330,23 +336,19 @@ wanneer je maar wilt winkelen!"
 "290_03","O nee!
 \0 Het is gedaan met je trouwe
 \02촃}\0\0\0￿n"
-"505","(
-촀\0Deze oude band zou hergebruikt
+"505","(촀\0Deze oude band zou hergebruikt
 kunnen wordenn\0\0
 \0 (촀\0Je hebt een idee
 voor een doe-het-zelfplan!"
-"506","(
-촀\0Dit lege blikje zou hergebruikt
+"506","(촀\0Dit lege blikje zou hergebruikt
 kunnen wordenn\0\0
 \0 (촀\0Je hebt een idee
 voor een doe-het-zelfplan!"
-"507","(
-촀\0Deze laars zou hergebruikt kunnen
+"507","(촀\0Deze laars zou hergebruikt kunnen
 wordenn\0\0
 \0(촀\0 Je hebt een idee voor een
 doe-het-zelfplan!"
-"508","(
-촀\0Deze tapijtschelp zou als aas
+"508","(촀\0Deze tapijtschelp zou als aas
 gebruikt kunnen wordenn\0\0
 \0(촀\0 Je hebt
 een idee voor een doe-het-zelfplan!"
@@ -356,8 +358,7 @@ een idee voor een doe-het-zelfplan!"
 "509_01","HOERA!
 \0 Het doe-het-zelfplan voor
 2\0}\0\0 is opgeslagen op je telefoon!"
-"511","(
-촀\0Hè?
+"511","(촀\0Hè?
 \0 Dus zo werkt datn\0\0
 \0 (촀\0Je hebt
 een plan voor een \0valkuilzaadje
@@ -365,25 +366,21 @@ een plan voor een \0valkuilzaadje
 "512","(촀\0Hoera!
 \0 Je hebt een doe-het-zelfplan
 bedacht voor een \0gouden bijl\0￿!"
-"513","(
-촀\0Je zou deze kunnen dragen als je
+"513","(촀\0Je zou deze kunnen dragen als je
 nog een laars vondn\0\0
 \0(촀\0
 \0 Je hebt een
 idee voor een doe-het-zelfplan!"
-"514","(
-촀\0Je hebt heel wat vuilnis opgevistn\0\0
+"514","(촀\0Je hebt heel wat vuilnis opgevistn\0\0
 \0
 (촀\0
 \0Je hebt een idee voor een doe-het-zelfplan!"
-"515","(
-촀\0Kon je het patroon op het ei maar
+"515","(촀\0Kon je het patroon op het ei maar
 voor iets anders gebruikenn\0\0
 \0 (촀\0
 \0Je hebt
 ideeën voor doe-het-zelfplannen!"
-"518","(
-촀\0Wat als je die doe-het-zelfplannen
+"518","(촀\0Wat als je die doe-het-zelfplannen
 met eierenschalen als inspiratie
 combineert?\0\0(촀\0
 \0Je hebt een idee voor een doe-het-

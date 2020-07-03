@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","(촀\0¿Lo dices de verdad?
 \0 ¿Te gustaría
-que fuese tu vecina?\0\0(
-촀\0La verdad es que no me molestaría
+que fuese tu vecina?\0\0(촀\0La verdad es que no me molestaría
 poner mi desarrollado sentido de la
 estética (촀\0al servicio de la islan\0\0
 (촀\0Veré si la \02\0Ȃ촄oficina de gestión vecinal\0￿ está de acuerdo,
@@ -110,18 +109,15 @@ repenten\0\0
 propuesta tan de improviso.
 \0 (촀\0¿Cómo
 se decide dar un paso tan grande?
-(
-촀\0Veamosn\0\0
+(촀\0Veamosn\0\0
 \0 me gustan los desafíos,
-\0
-
+\0
 entonces
 \0 (촀\0¡podríamos decidirlo con
 un juego de cartas!
 \0(
 (""촀\0Si ganas tú, 
-\0
-me mudo aquí.
+\0me mudo aquí.
 ()촀\0Que el resultado de un juego justo
 y equitativo determine mi destino.
 \0(
@@ -132,8 +128,7 @@ y equitativo determine mi destino.
 "201_03","(촀\0¡Caramba!
 \0 Tú vas directo al grano,
 ¿no?
-\0 (
-촀\0Me pones en un aprieton\0\0
+\0 (촀\0Me pones en un aprieton\0\0
 \0
 Ahora no sé qué hacer.
 (7촀\0Nunca pensé que mi destino
@@ -185,8 +180,7 @@ Lo siento, 
 \0 ('촀\0Espero que sepas
 admitir la derrota como se debe."
 "204_03","Y así concluye el juego,
-\0
- (촀\0¡con una
+\0 (촀\0¡con una
 clara victoria mía!
 \0((촀\0 Prométeme que
 lo tomarás con altura,
@@ -329,8 +323,7 @@ temo que tengo malas noticiasn\0\0
 \0 parece que la isla
 ya no tiene más terrenos disponibles.
 \0 Rechazaron mi solicitud.
-(
-촀\0La única alternativa sería hablar con
+(촀\0La única alternativa sería hablar con
 alguno de los residentes y preguntar
 si, quizás, se querría mudarn"
 "302_a","¡Buena idea!"
@@ -342,8 +335,7 @@ haberlo sugerido.
 "304","(&촀\0¿Te parece?
 \0 Me da un poco de
 apuro,
-\0 (
-촀\0pero supongo que no se
+\0 (촀\0pero supongo que no se
 pierde nada preguntandon\0\0
 (8촀\0Los de la \0oficina de gestión\0￿
 dijeron que podría haber alguien
@@ -359,8 +351,7 @@ interesado en irsen\0\0
 (6촀\0Dotes de persuasión no me faltan, n\0."
 "307","(촀\0¿Te parece que no se querrá mudar?
 \0
-(
-촀\0En ese caso,
+(촀\0En ese caso,
 \0 ¿a quién tienes
 en mente, n\0?"
 "308","(촀\0Sí,
@@ -382,12 +373,26 @@ no tenerl2촀oa\0 como vecin2촀oa\0.
 \0 (촀\0¡Pero te
 tendré a ti!
 \0 Eso compensa todo.
-(
-촀\0Por lo tanto,
+(촀\0Por lo tanto,
 \0 está todo listo.
 \0
 ($촀\0¿Y tú, n\0?
 \0 ¿Estás preparad2oa, n\0?"
+"309_01","\0(Estoy que me caigo de la emoción
+\0).\0￿
+\0
+()촀\0Fui a buscar su casa y resulta quen\0\0
+¡ya se mudó!
+\0
+Y como yo siempre digo,
+(6촀\0""El que se fue a divagar,
+\0
+(촀\0¡perdió su hogar!"".\0\0((촀\0Vamos a ser vecin2oas, n\0.
+\0\0\0(1촀\0Mi cabeza ya está planeando
+los detalles de la mudanza.\0\0(촀\0(6촀\0Y tú ya puedes empezar a planear un
+evento de recibimiento titulado
+\0 ""Bienvenida, n
+\0""."
 "310","( 촀\0¿Qué pasa?
 \0 ¿No se te ocurre
 (&촀\0nadie que pueda tener ganas de
@@ -466,8 +471,7 @@ la respuesta de la \02\0Ȃ촄oficina de gestión vecinal\0￿.
 \0 Pronto nos vamos
 a ver todos los días.
 \0 (촀\0Qué emoción, n\0."
-"410","(
-촀\0Pues ¿sabes una cosa?
+"410","(촀\0Pues ¿sabes una cosa?
 \0
 ((촀\0¡Que yo no me rindo!\0\0()촀\0Las circunstancias no permiten que
 me mude,
@@ -502,8 +506,7 @@ soy 2\0n\0 mejor."
 "504_a","Imagínate vivir aquí"
 "504_b","¿Tú crees?"
 "505","(6촀\0Jo, jo,
-\0 dices unas cosasn\0\0\0\0(
-촀\0Sí, supongo que sería bonito vivir
+\0 dices unas cosasn\0\0\0\0(촀\0Sí, supongo que sería bonito vivir
 aquí,
 \0 pero apenas nos conocemos.
 \0
@@ -516,8 +519,7 @@ más veces antes de decidirme."
 \0 ¿No notas como
 (촀\0mi cutis parece más terso
 y reluciente?
-(
-촀\0Debo encontrar la manera de
+(촀\0Debo encontrar la manera de
 conservar este aspecto arrebatador
 cuando me vaya, n\0n"
 "507","()촀\0La verdad es que en esta isla
@@ -535,8 +537,7 @@ cantaría."
 \0 (촀\0Todos son amables.
 \0
 Y la idea es tentadora,
-\0 (
-촀\0no te creasn\0\0\0\0Pero aún no conozco bien la isla.
+\0 (촀\0no te creasn\0\0\0\0Pero aún no conozco bien la isla.
 \0
 (촀\0Tendría que volver de visita
 alguna vez más.

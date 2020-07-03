@@ -92,13 +92,11 @@ dass dir 촀 viel eher liegt. 
 "010_101","( 촀\0Kannst du dich noch dran erinnern,
 \0
 was du letztens zu mir meintest?\0\0(촀\0Was in Sachen 촀 der absolute Hit ist? 
-\0Ich weiß deine Antwort noch ganz genau!\0\0„
-촀“! 
+\0Ich weiß deine Antwort noch ganz genau!\0\0„촀“! 
 \0((&촀\0Steht die Ansage noch oder ist das mittlerweile Quatsch?"
 "010_101_a","(%촀\0Steht noch!"
 "010_101_b","('촀\0Quatsch mit Soße!"
-"010_102","( 촀\0„2\0
-촀!“,
+"010_102","( 촀\0„2\0촀!“,
 \0 hast du doch gesagt,
 \0 als ich nach deinem 촀 gefragt hab, 
 \0oder?\0\0(&촀\0Ist da noch was dran, 
@@ -114,8 +112,7 @@ falsch im Kopf habe!"
 Mögliche geredet haben 
 \0und du auf
 einmal anfingst, loszuschreien?
-(촀\0„2\0
-촀!“, hast du gerufen und gemeint, 
+(촀\0„2\0촀!“, hast du gerufen und gemeint, 
 \0dass du das uuunbedingt werden willst!\0\0(2촀\0Mir war nicht ganz klar, 
 \0ob du zu
 viel Kaffee intus hattest oder ob
@@ -129,8 +126,7 @@ Zeitvertreib überhaupt istn\0\0\0\0()촀\0Und ich weiß noch total, 
 \0wie du von
 deinem Lieblingshobby geschwärmt
 hast: 
-\0(촀\0„2\0
-촀“!
+\0(촀\0„2\0촀“!
 ($촀\0Würdest du das heute auch noch
 so sagen, 
 \0n\0?"
@@ -141,8 +137,7 @@ wir darüber gequatscht haben, 
 \0was
 wir alles besonders gut können?\0\0()촀\0Und du hast voll überzeugt gemeint:
 
-\0„⁠2\0
-촀“! 
+\0„⁠2\0촀“! 
 \0($촀\0Würdest du das immer noch sagen?"
 "010_105_a","(%촀\0Auf jeden Fall!"
 "010_105_b","('촀\0Nein..."
@@ -244,7 +239,7 @@ als n\0-Spezialistin gerecht werden, 
 \0n\0."
 "030_01_a","(%촀\0Stimmt genau!"
 "030_01_b","('촀\0Das ist Quark."
-"030_02","(촀\02$2촀Dein
+"030_02","(촀\02$3촀Dein
 DeineDein 촀 2Jsollsollsollsollensollensollen 촀 sein. 
 \0(Stimmt das oder ist das Käse?"
 "030_02_a","(%촀\0Stimmt genau!"
@@ -270,36 +265,31 @@ deinedein
 deine
 deine
 deine 2lliebstenliebsteliebstesliebstenliebstenliebsten 2촁촀 geht, 
-\0soll deine Antwort immer die gleiche seinn\0\0\0\0($촀\0„2\0
-촀“! 
+\0soll deine Antwort immer die gleiche seinn\0\0\0\0($촀\0„2\0촀“! 
 \0((&촀\0Stimmt das, 
 \0n\0?"
 "030_101_a","(%촀\0Das kannst du singen!"
 "030_101_b","('촀\0Nein..."
 "030_102","(촀\0Stimmt es, 
-\0dass du auf die Frage nach deinem 촀 eine Standard-Antwort hast?\0\0(&촀\0„2\0⁠
-촀⁠“?"
+\0dass du auf die Frage nach deinem 촀 eine Standard-Antwort hast?\0\0(&촀\0„2\0⁠촀⁠“?"
 "030_102_a","(%촀\0Ja! Lecker!"
 "030_102_b","('촀\0DIE bestimmt nicht."
 "030_103","(&촀\0Stimmt es echt,
 \0 dass du beim
 Thema Traumberuf immer nur
-($촀\0⁠„
-촀“ sagst?"
+($촀\0⁠„촀“ sagst?"
 "030_103_a","(%촀\0Stimmt genau!"
 "030_103_b","('촀\0Nein..."
 "030_104","(&촀\0Stimmt es, 
 \0was du mal auf die Frage
 nach deinem Lieblingshobby
 geantwortet haben sollst?
-„2\0
-촀“?"
+„2\0촀“?"
 "030_104_a","(%촀\0Definitiv!"
 "030_104_b","('촀\0Nee, falsch..."
 "030_105","(촀\0Du bist anscheinend danach gefragt
 worden, auf welchem Gebiet du ein
-Supertalent ist.\0\0„2\0
-촀“ soll deine Antwort gewesen sein. 
+Supertalent ist.\0\0„2\0촀“ soll deine Antwort gewesen sein. 
 \0(&촀\0Stimmt das echt, 
 \0n\0?"
 "030_105_a","(%촀\0So hatte ich's gesagt!"
@@ -334,8 +324,7 @@ gemeinsam einen Blog schreiben!"
 und dann die GANZE Nacht darüber
 quatschen, 
 \0n\0!"
-"031_101","„2\0
-촀“! 
+"031_101","„2\0촀“! 
 \0(!촀\0Irre!
 \0( Genau das hätte ich jetzt auch gesagt, 
 \0n\0!(\0촀\0\0\0(촀\0Wir liegen also total auf einer
@@ -345,8 +334,7 @@ Thema 촀!"
 "031_102","(촀\0Wir sind uns ja sooo ähnlich!
 \0
 Für mich geht auch nix über
-2\0
-촀!"
+2\0촀!"
 "031_103","(촀\0Es ist so cool, 
 \0dass du genau
 weißt, 
@@ -357,11 +345,9 @@ willst. 
 in den Augen und einer leuchtenden
 Zukunft, 
 \0n\0!"
-"031_104","(촀\02\0
-촀 find ich auch total abgefahren. 
+"031_104","(촀\02\0촀 find ich auch total abgefahren. 
 \0((촀\0Das wär auch was für einen gemeinsamen Blog!"
-"031_105","(촀\0„2\0
-촀“n\0\0
+"031_105","(촀\0„2\0촀“n\0\0
 \0 
 \0((촀\0Ich weiß schon, 
 \0worüber wir bei unsrer nächsten Pyjamaparty reden müssen!"
@@ -400,8 +386,7 @@ Chai Latte ja mehr darüber erzählen,
 glänz ich so gar nicht. 
 \0(촀\0Aber vielleicht
 erklärst du mir ja ein paar Tricks..."
-"032_101","(촀\0„2\0
-촀“?
+"032_101","(촀\0„2\0촀“?
 \0
 Da kann ich ja leider so gar nicht
 mitreden. 
@@ -416,21 +401,18 @@ bist du 2l2ein absoluter Trendsetter6eine absolute Trendsetterin!
 \0
 Glaub mir das einfach, 
 \0n\0!"
-"032_103","(
-촀\0Da kann ich leider nicht wirklich
+"032_103","(촀\0Da kann ich leider nicht wirklich
 mitreden. 
 \0(촀\0Aber ich würd gern mehr
 von dir darüber hören, 
 \0n\0!"
-"032_104","„2\0
-촀“? 
+"032_104","„2\0촀“? 
 \0Der Trend ging an mir vorbein\0\0\0\0((촀\0Schieß los! 
 \0Du musst mir jedes
 letzte Detail über dieses It-Hobby
 erzählen, 
 \0n\0!(촀"
-"032_105","(촀\0„2\0
-촀“?!
+"032_105","(촀\0„2\0촀“?!
 \0(\0촀\0 (2촀\0Ganz sicher kein Gebiet, 
 \0auf dem ich glänze, 
 \0n\0.\0\0(%촀\0Du musst mir mal bei einem Kaffee
@@ -522,8 +504,7 @@ hab ich gedacht."
 gar nicht, 
 \0dass ich bei dem Thema
 nicht auf dem neusten Stand bin!"
-"051","(촀\0„2\0
-촀“?
+"051","(촀\0„2\0촀“?
 Hab ich richtig gehört, 
 \0n\0?"
 "051_a","(%촀\0Ja, stimmt!"
@@ -560,34 +541,29 @@ dass du auf 촀 abfährst!"
 deiner Antwort, 
 \0n\0!
 
-\0(촀\0„⁠2\0
-촀“!"
+\0(촀\0„⁠2\0촀“!"
 "060_102","(촀\0Verrückt! 
 \0Dann bleibt's ja doch bei
 deiner Antwort, 
 \0n\0!
 
-\0(촀\0„⁠2\0
-촀“!"
+\0(촀\0„⁠2\0촀“!"
 "060_103","(촀\0Verrückt! 
 \0Also bleibst du ja doch
 bei deiner Antwort, 
 \0n\0.
 
-\0(촀\0„⁠2\0
-촀“!"
+\0(촀\0„⁠2\0촀“!"
 "060_104","(촀\0Dann hast du dein Meinung nicht
 geändert!
 \0 (촀\0Alles bleibt beim Alten:
 
-\0„⁠2\0
-촀“!"
+\0„⁠2\0촀“!"
 "060_105","(촀\0Wie jetzt?!
 \0( (촀\0Dann bleibst du ja
 bei deiner bisherigen Aussage:
 \0
-„2\0
-촀“!"
+„2\0촀“!"
 "061","(!촀\02\0n\0, 
 \0wie COOL! 
 \0(촀\0Dann war ja wirklich was dran an meinen Infos!\0\0(촀\0Ist schon besser, 
@@ -607,8 +583,7 @@ für Mucke MUSST du abdancen?"
 "100_01_c","Anime-Songs!"
 "100_01_d","Kann ich dir sagen..."
 "100_01_e","Ich höre keine Musik..."
-"100_02","(
-촀\0Hmmm...
+"100_02","(촀\0Hmmm...
 \0 Was liest du denn
 am liebsten, 
 \0n\0?"
@@ -988,8 +963,7 @@ wieder. 
 \0(촀\0Und wenn Girlbands wieder
 in sind,
 \0 bin ich BESTENS vorbereitet!"
-"103_06","(
-촀\0Ich dachte, 
+"103_06","(촀\0Ich dachte, 
 \0ein Badminton-Talent zu
 sein. 
 \0(촀\0Bis ich mal Profis am Werk
@@ -1228,8 +1202,7 @@ meiner selbst komponierten,
 futuristischen Rockoper!\0\0()촀\0
 \0Der Hauptcharakter ist ein Roboter
 namens Detlef. 
-\0(
-촀\0„Warum Detlef?“,
+\0(촀\0„Warum Detlef?“,
 \0
 fragst du dich jetzt sicher!
 (1촀\0
@@ -1297,32 +1270,27 @@ total megainteressant an!\0\0(촀\0Ich lese darüber nur in meinen
 Zeitschriften,
 \0 hab aber vom Thema
 eigentlich keine Ahnung.
-(
-촀\0Vielleicht könntest du bei
+(촀\0Vielleicht könntest du bei
 Gelegenheit einen kleinen
 Astrologiekurs organisieren?"
-"106_01","(;촀\0„2\0
-촀“? 
+"106_01","(;촀\0„2\0촀“? 
 \0(%촀\0Das passt echt voll zu dir!\0\0(촀\0Du musst mir unbedingt ein kleines
 Privatkonzert geben, 
 \0n\0?"
-"106_02","(;촀\0„2\0
-촀“? 
+"106_02","(;촀\0„2\0촀“? 
 \0Von jemandem mit so viel Glamour wie dir hab ich nix anderes erwartet!\0\0(6촀\0Ich werd mich da auch mal
 reinlesen. 
 \0Wenn du so was magst,
 \0
 muss es hip sein, 
 \0n\0!"
-"106_03","(;촀\0„2\0
-촀“! 
+"106_03","(;촀\0„2\0촀“! 
 \0(%촀\0Bei deiner strahlenden Persönlichkeit hätte ich nichts anderes erwartet!
 (6촀\0
 \0Ich muss mir unbedingt auch so
 einen Comic besorgen, 
 \0n\0!"
-"106_04","(;촀\02\0
-촀!
+"106_04","(;촀\02\0촀!
 \0
 (%촀\0Bei deiner strahlenden Persönlichkeit
 hätte ich nichts anderes erwartet!
@@ -1332,48 +1300,41 @@ hätte ich nichts anderes erwartet!
 ein paar Filme empfehlen,
 \0
 n\0!"
-"106_05","(;촀\0„2\0
-촀“! 
+"106_05","(;촀\0„2\0촀“! 
 \0(%촀\0Von dir hatte ich jetzt auch nichts anderes erwartet!\0\0(6촀\0
 \0Du musst mir unbedingt,
 \0 unbedingt
 ein paar Serien empfehlen,
 
 \0n\0!"
-"106_06","(;촀\0„2\0
-촀“! 
+"106_06","(;촀\0„2\0촀“! 
 \0(%촀\0Das passt echt gut zu dir!\0\0(6촀\0
 \0Würd ich gern mal bei Gelegenheit
 mit dir zusammen ausprobieren,
 \0
 n\0!"
-"106_07","(;촀\0„2\0
-촀!“ 
+"106_07","(;촀\0„2\0촀!“ 
 \0(%촀\0Das klingt nach Glam, 
 \0also passt es auch supi zu dir, 
 \0n\0!\0\0(&촀\0Wo kann man das Zeug kaufen?
 \0
 (촀\0Ich muss das unbedingt auch
 probieren!"
-"106_08","(;촀\0„2\0
-촀“! 
+"106_08","(;촀\0„2\0촀“! 
 \0(%촀\0Das scheint mir PERFEKT zu dir zu passen! 
 \0(&촀\0Wo kauft man das Zeug?\0\0(촀\0Ich muss mir das auch mal
 reinziehen, 
 \0sonst kann ich ja
 nicht mitreden, 
 \0n\0..."
-"106_09","(;촀\0„2\0
-촀“!? 
+"106_09","(;촀\0„2\0촀“!? 
 \0Klingt, 
 \0als wäre es genau das Richtige für dich, 
 \0n\0!"
-"106_10","(;촀\0„2\0
-촀“!? 
+"106_10","(;촀\0„2\0촀“!? 
 \0(%촀\0Das passt sooo perfekt zu dir,
 \0 darauf hätte ich selbst kommen können!"
-"106_11","(;촀\0„2\0
-촀“!? 
+"106_11","(;촀\0„2\0촀“!? 
 \0(%촀\0Das passt totaaal zu dir. 
 \0Darauf hätte ich auch selbst kommen können!"
 "107_01","(촀\0Ah, 

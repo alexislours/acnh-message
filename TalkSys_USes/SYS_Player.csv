@@ -39,9 +39,12 @@ y deshacerme de otra cosan"
 "007","Pues,
 \0 si no tengo espacion\0\0
 ¡Adiós!"
+"008","Pues,
+\0 si no tengo espacion\0\0
+¡Adiós!"
 "011","Tengo los bolsillos llenos.
 \0 Si arranco
-esta flor, no tendré donde meterla.
+esta flor, no tendré donde guardarla.
 \0
 Mejor ahí la dejo."
 "013","Iba a ordenar esto un poco,
@@ -288,28 +291,23 @@ comprar cuando y donde quiera."
 "290_02","¡Ay!
 \0 Ya se me rompió.
 \0
-¡Gracias por tus servicios, 2촀buen
-buena\0
-\0}\0\0\0￿!"
+¡Gracias por tus servicios,
+2촀buen
+buena\0 \0}\0\0\0￿!"
 "290_03","¡Uy!
 \0 Mi \0}\0\0 \0￿llegó a su fin.
-\0
-Fue bonito mientras durón"
-"505","(
-촀\0Este 2\0ā촃neumático se podría reutilizar.
+\0 Fue bonito mientras durón"
+"505","(촀\0Este 2\0ā촃neumático se podría reutilizar.
 \0
 (촀\0¡Se me ocurre un proyecto de taller!"
-"506","(
-촀\0Esta 2\0촄chatarra se podría reutilizar.
+"506","(촀\0Esta 2\0촄chatarra se podría reutilizar.
 \0
 (촀\0¡Podría ser en un proyecto de taller!"
-"507","(
-촀\0Esta 2\0Ȃ촄bota se podría reutilizar.
+"507","(촀\0Esta 2\0Ȃ촄bota se podría reutilizar.
 \0
 (촀\0¡Tengo una idea para un proyecto
 de taller!"
-"508","(
-촀\0Esta 2\0Ȃ촄almeja japonesa podría servir
+"508","(촀\0Esta 2\0Ȃ촄almeja japonesa podría servir
 de cebo.
 \0 (촀\0¡Tengo una idea para un
 proyecto de taller!"
@@ -324,24 +322,20 @@ proyecto de taller!"
 "512","(촀\0¡Ah!
 \0 ¡Se me acaba de ocurrir
 cómo fabricar un \02\0Ă촃hacha de oro\0￿!"
-"513","(
-촀\0Si encontrara otra botan\0\0
+"513","(촀\0Si encontrara otra botan\0\0
 \0
 (촀\0¡Uy, se me acaba de ocurrir
 un proyecto de taller!"
-"514","(
-촀\0Pero cuánta basura pesquén\0\0
+"514","(촀\0Pero cuánta basura pesquén\0\0
 \0
 (촀\0¡Uy, se me ocurre un proyecto
 de taller!"
-"515","(
-촀\0Podría usar este estampado para
+"515","(촀\0Podría usar este estampado para
 algon\0\0
 \0 (촀\0
 \0¡Se me acaba de ocurrir
 un proyecto de taller!"
-"518","(
-촀\0Si combino lo que aprendí a
+"518","(촀\0Si combino lo que aprendí a
 hacer con cáscaras de huevon\0\0
 \0
 (촀\0
@@ -460,7 +454,7 @@ otro cuerpo de agua."
 construyo tan cerca de un desnivel."
 "926_03","No me parece buena idea construir
 un puente en la arena."
-"927","Este terreno no está bien nivelado
+"927","El terreno no está bien nivelado
 como para construir una rampa."
 "928","El final de la rampa chocará con
 el desnivel si la construyo aquí."

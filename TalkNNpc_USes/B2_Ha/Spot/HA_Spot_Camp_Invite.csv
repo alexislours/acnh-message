@@ -1,8 +1,7 @@
 ﻿"label","text"
 "002","( 촀\0¡Vaya!
 \0 ¿Estás segur2oa?
-\0 (
-촀\0Vivir aquí
+\0 (촀\0Vivir aquí
 me vendría genial para llegar aún
 más lejos con mi entrenamienton\0\0
 (촀\0¡Hecho!
@@ -107,11 +106,7 @@ tenías lo necesario para ser
 mi vecin2oa, n\0."
 "203_01","(촀\0¡Bien,
 \0 pues aquí tenemos
-unas cartas!\0\0()촀\0Es sencillo;
-\0 yo saco una carta
-y tú tienes que adivinar algon\0\0
-\0
-¡que ahora te explicaré!"
+unas cartas!"
 "204","<"
 "204_01","(촀\0¡Ganééé!
 \0 (촀\0Una lástima,
@@ -227,8 +222,7 @@ a algún tipo de trato con alguno
 de tus vecinos?"
 "302_a","¡Inténtalo!"
 "302_b","No sé..."
-"303","(
-촀\0Mmmn\0\0
+"303","(촀\0Mmmn\0\0
 \0 tienes razón;
 \0 (;촀\0¡yo también me
 asustaría si alguien tan macizo como
@@ -269,6 +263,15 @@ casa, n\0!\0\0(%촀\0Eras n\0, ¿verdad?
 \0
 (촀\0¡Pues ya nos vemos por ahí,
 n\0!"
+"309_01","()촀\0Te cuento.
+\0 Fui a buscar a s촀,
+\0 pero resulta que se mudó hace un tiempo.\0\0(촀\0¡Así que ahora tengo vía libre
+para mudarme aquí,
+\0 n\0!\0\0Por cierto,
+\0 (&촀\0tú eres n\0⁠, ¿verdad?\0\0(촀\0Pues prepárate,
+\0 n\0,
+\0 (5촀\0¡que aquí viene n
+\0!"
 "310","(&촀\0¿Eh?
 \0 ¿No crees que a nadie
 le interese?"
@@ -365,8 +368,7 @@ músculos, n\0!"
 "504_b","Hidrátate bien"
 "505","( 촀\0¿Me estás invitando a mudarme
 aquí?
-\0 (
-촀\0Es una oferta tentadora.
+\0 (촀\0Es una oferta tentadora.
 Mmmn\0\0
 ('촀\0Non\0\0
 \0 Lo siento, pero no
@@ -374,8 +376,7 @@ me convence, n\0.\0\0()촀\0Si viviera aquí,
 \0 terminaría entrenando
 sin parar y no tendría tiempo para
 disfrutar de los dolores musculares.
-(
-촀\0Aunque,
+(촀\0Aunque,
 \0 por otro lado,
 \0 estaría más
 tonificado que nuncan\0\0\0\0(7촀\0Mejor invítame a venir otro día

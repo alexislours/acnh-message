@@ -3,10 +3,8 @@
 my dear. 
 \0Let's play a game for (""촀\0my
 }\0\0!\0\0It's simple, really.
-\0
- ()촀\0If you win,
-\0
- you get
+\0 ()촀\0If you win,
+\0 you get
 my }\0\0 as a
 present, n\0."
 "001_a","Let's do this!"
@@ -15,60 +13,50 @@ present, n\0."
 \0 I thought you'd say that!
 \0(
 (\0촀\0Now,
-\0
- before we get started,
-\0
-(&촀\0
+\0 before we get started,
+\0(&촀\0
 do you know the rules?"
 "002_a","No. Please tell me."
 "002_b","I know them!"
 "003","(촀\0Ah well, 
-\0
-if you say so.
+\0if you say so.
 \0 (\0촀\0I won't
 push the issue,
 \0(촀\0 but if you ever
 feel like playing, do let me know."
 "004","(촀\0Wonderful!
-\0
- Let's get started!
+\0 Let's get started!
 \0(
 (<촀\0First,
 \0 shuffle the cards
 \0 really welln"
 "005","(9촀\0Next, let's check your answer."
 "006_01","(6촀\0Well, well! 
-\0
-It seems you're quite
+\0It seems you're quite
 good at this.
 \0 And, as promised, my
 }\0\0 is yours.
 (촀\0Here you go, n\0(촀\0."
-"006_02","(
-촀\0Hmmn\0\0I had no idea you were so
+"006_02","(촀\0Hmmn\0\0I had no idea you were so
 good at this, n\0.\0\0Well,(촀\0 since you won, here is my
 \0
 }\0\0,
-\0
-
+\0
 just as I promised."
 "006_03","(촀\0My goodness! I win this round!
 \0(
 I'm sorry,
-\0
-('촀\0 but that means no
+\0('촀\0 but that means no
 present for you, n\0."
 "007_01","(촀\0That was SO much fun, 
-\0
-I don't even
+\0I don't even
 mind losing.
 \0(촀\0 I do hope we play
 again sometime."
 "007_03","(6촀\0I must be sure to thank Lady Luck
 for smiling on me today."
 "008","(촀\0Aha! 
-\0
-I thought you might be
+\0I thought you might be
 interested!
 \0 (\0촀\0Well then, let us
 begin right away!
@@ -78,36 +66,30 @@ aren't they?
 \0 ('촀\0I wouldn't be able
 to give you a gift, it seems.
 (""촀\0Go get yourself organized,
-\0
-
+\0
 and after that
 \0(촀\0 we can play
 our game, n\0."
 "100","(촀\0Alrighty then, 
-\0
-the rules are
+\0the rules are
 quite simple.\0\0()촀\0You see how each card has a symbol
 for a different suit on itn\0\0\0♥heart\0￿,
 \0♦diamond\0￿,\0 \0￿\0♠spade\0￿, or \0♣club\0￿?
 Well,
-\0
-(%촀\0 I am going to pick one card.
+\0(%촀\0 I am going to pick one card.
 \0(
 (""촀\0Then it is up to you to guess
 which type of card it is.
 (\0촀\0If you guess correctly,
-\0
-(""촀\0 then my
+\0(""촀\0 then my
 }\0\0 is yours.
 \0(
 (촀\0Simple enough, yes?
 (<촀\0You look like you're ready for some
 fun, 
-\0
-so let's give this a go!"
+\0so let's give this a go!"
 "101","I have picked a card.
-\0
- (9촀\0Now focus.
+\0 (9촀\0Now focus.
 \0
 What kind do you think it isn\0\0
 \0(촀\0\0♥heart\0￿,
@@ -117,17 +99,14 @@ What kind do you think it isn\0\0
 "101_c","\0♠Spade\0￿"
 "101_d","\0♣Club\0￿"
 "102_01","(촀\0Correct! 
-\0
-The card was a 촀!
+\0The card was a 촀!
 \0(
 (촀\0Bravo, darling. Bravo!"
 "102_02","(9촀\0A good effort indeedn\0\0
-\0
-but incorrect.
+\0but incorrect.
 \0
 (촀\0The correct answer is 
-\0
-촀."
+\0촀."
 "200","Alrighty,
 \0(""촀\0 here's how it worksn\0\0\0\0()촀\0You see how each card has a symbol
 for a different suit on itn\0\0\0♥heart\0￿,
@@ -135,20 +114,17 @@ for a different suit on itn\0\0\0♥heart\0￿,
 (%촀\0I am going to pick one of the cards.
 \0
 Then
-\0
-(촀\0 it is up to you to guess what
+\0(촀\0 it is up to you to guess what
 the color of the card is!
 (\0촀\0If you guess right, well, then
-\0
- (촀\0my
+\0 (촀\0my
 }\0\0 is yours!
 \0(
 (%촀\0Easy peasy, yes?
 (<촀\0Good!
 \0 So let us beginn"
 "201","(""촀\0Voila! I have picked a card.\0\0Now tell me,
-\0
- ($촀\0is it \0red\0￿ like my
+\0 ($촀\0is it \0red\0￿ like my
 favorite high heels 
 \0((6촀\0or \0black
 \0￿like my favorite party dress?"
@@ -159,22 +135,17 @@ favorite high heels 
 \0red \0￿as a rose, my dear, so you
 got it right."
 "202_02","(촀\0Oh dear.
-\0
- This card is a 촀.
+\0 This card is a 촀.
 \0(
 Alas, that means it's \0black\0￿, 
-\0
-('촀\0so you
+\0('촀\0so you
 got it wrong."
 "202_03","(촀\0Wow, it's a 촀!
 \0( (촀\0That's \0black!
-\0
-
+\0
 \0￿Bravo! 
-\0
-You got it right!"
+\0You got it right!"
 "202_04","(촀\0Oh my. 
-\0
-This card is a 촀.
+\0This card is a 촀.
 \0(
 ('촀\0It's \0red\0￿, so you got it wrong."

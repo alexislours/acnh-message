@@ -70,7 +70,7 @@ stato
 stata\0 s\0촀 a consigliarmi quest'isola. 
 \0Ha detto che vivere qui è formidaaabile!\0\0($촀\0Visto che conosci l'isola meglio
 di me, 
-\0mi darai una mano ad
+\0mi darai una zampa ad
 ambientarmi, n\0?"
 "011_02","(촀\0Salut, n\0. 
 \0Sei 2$sorpresosorpresa di vedermi? 
@@ -358,21 +358,20 @@ di incontrarmi qui, 
 conferma che ho fatto bene a venire
 a vivere qui,
 \0 n\0!"
-"213","(4촀\0Non abbiamo avuto ancora occasione di parlare, sono desolata.
+"213","(4촀\0Non abbiamo avuto ancora occasione
+di parlare, sono desolata.
 \0 Non so se
 lo sai, 
 \0((촀\0ma adesso vivo qui.
 ()촀\0Quando ero all'\0area per campeggio\0￿,
-\0 ho conosciuto s\0촀 che mi ha convinta a trasferirmi qui.
-(촀\0Oh, sapere che ci sei anche tun\0\0
+\0 ho conosciuto s\0촀 che mi ha convinta a trasferirmi qui.\0\0(촀\0Oh, sapere che ci sei anche tun\0\0
 (촀\0Beh,
 \0 è come la ciliegina sulla torta,
 
 \0n\0!"
 "214","(,촀\0EEECCÌ!
 \0( (4촀\0Salut, n\0n\0\0 Non pensavi di vedermi qui, n'est-ce pas?\0\0()촀\0Mi ha convinta s\0촀
-\0 a trasferirmi, quando eravamo all'\0area per campeggio\0￿.
-(촀\0Se non fossi così raffreddata
+\0 a trasferirmi, quando eravamo all'\0area per campeggio\0￿.\0\0(촀\0Se non fossi così raffreddata
 \0n\0\0
 (,촀\0E-EEECCÌ!!
 \0( (\0촀\0Ti proporrei di passare
@@ -415,8 +414,7 @@ tempo insieme, d'accordo?"
 convinta a trasferirmi sull'isola.
 (촀\0Ma nel frattempo se n'è andato.\0\0(8촀\0Cambiare casa è fonte di stress.
 \0
-(
-촀\0Non c'è da stupirsi
+(촀\0Non c'è da stupirsi
 \0 se ora sono qui
 malata e in queste condizionin\0\0
 (,촀\0EEECCÌ!
@@ -445,7 +443,8 @@ parte tua venirmi a trovare,
 chiesto di trasferirmi qui,
 \0 mentre
 ero all'\0area per campeggio\0￿.
-()촀\0Devo sistemare ancora un paio di cosine,
+()촀\0Devo sistemare ancora un paio di
+cosine,
 \0 ma domani dovrei aver finito.
 
 \0(""촀\0Torna a trovarmi, n\0!"

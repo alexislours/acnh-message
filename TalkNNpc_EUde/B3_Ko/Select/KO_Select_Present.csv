@@ -16,8 +16,7 @@ meine Bude etwas hübscher
 gestalten!"
 "102","(%촀\0Macht sich bestimmt gut an meiner
 Tür!"
-"103","(
-촀\0Ich könnte mir vorstellen, meine
+"103","(촀\0Ich könnte mir vorstellen, meine
 gesamte Einrichtung an dieses Stück
 anzupassen..."
 "104","\0(&촀\0n\0\0Kommt mir irgendwie verflixt
@@ -37,8 +36,7 @@ ist.
 "113","(촀\0Oho, danke!
 \0 (촀\0Nein, warte maln\0\0
 \0
-(
-촀\0Ich mag zwar kein Experte sein, 
+(촀\0Ich mag zwar kein Experte sein, 
 \0aber
 dieses Stück sieht recht selten aus!\0\0(9촀\0Nein, 
 \0so etwas kann ich nicht
@@ -62,8 +60,7 @@ sag ich mal Danke,
 "122","(촀\0Ich werd verrückt! 
 \0(""촀\0Danke dafür.
 \0
-(
-촀\0Warten\0\0 Das Teil scheint älter zu sein
+(촀\0Warten\0\0 Das Teil scheint älter zu sein
 als meine verschrumpelten Zitronen!\0\0(촀\0Sonst geb ich ja nie was zurück,
 \0 aber
 das hier sieht viel zu wertvoll aus
@@ -71,8 +68,7 @@ zum Verschenken.
 \0(%촀\0 Behalt's lieber."
 "123","(촀\0Oh!
 \0 Danke, 2 KleinerKleines!
-\0 (
-촀\0Moment maln\0\0
+\0 (촀\0Moment maln\0\0
 \0
 Das Teil sieht sieht äußerst alt,
 \0
@@ -114,8 +110,7 @@ haben!"
 sicher, was ich damit anstellen soll,
 \0
 aber ich behalt's einfach mal."
-"303","(
-촀\0Man weiß ja nie, wozu man so was
+"303","(촀\0Man weiß ja nie, wozu man so was
 nicht doch mal gebrauchen kann,
 stimmt's?
 \0(촀\0 Danke jedenfalls."
@@ -149,25 +144,26 @@ Schon ganz nett anzusehen."
 Blumen.
 \0(촀\0 Aber vielleicht tut so was
 meiner Bude mal ganz gut."
-"406","(촀\02\02\0}\0\0!
+"406","(촀\02\02\0}\0\0!
+\0
 (;촀\0Was für ein Prachtexemplar!"
 "407","(촀\0Danke! 
 \0(9촀\0Da brauch ich wohl jetzt ein
 Aquarium."
-"408","(촀\02\02\0}\0\0!
+"408","(촀\02\02\0}\0\0!
+\0
 (;촀\0So was hab ich wirklich nicht
-erwartet!"
+erwartet, 
+\0n\0!"
 "409","(촀\0Ich werde diesem Krabbler ein gutes
 Heim geben!
-\0 (
-촀\0Ich mach mich besser
+\0 (촀\0Ich mach mich besser
 mal schlau, was der so braucht..."
 "410","(촀\0Vielen Dank! 
 \0(촀\0Oh, 
 \0Sekunde mal...
 \0
-(
-촀\0Das ist wirklich ein sehr hübsches
+(촀\0Das ist wirklich ein sehr hübsches
 Krabbeltier, das du da hast!\0\0(%촀\0Du solltest das Kerlchen mal \0Eugen\0￿
 zeigen. 
 \0(6촀\0Allein nur, 
@@ -175,14 +171,38 @@ zeigen. 
 schön springen zu sehen!"
 "411","(촀\0Ich danke dir!
 \0 (촀\0Oh, warte mal... 
-\0(
-촀\0Das
+\0(촀\0Das
 ist ein wirklich außergewöhnliches
 Exemplar, das du da gefangen hast.\0\0(%촀\0Zeig es doch gleich mal \0Eugen\0￿,
 \0
 n\0! 
 \0(촀\0Jede Wette, 
 \0der wird begeistert sein!"
+"412","(촀\02\02\0}\0\0!
+\0
+(;촀\0Ich bin sprachlos, 
+\0n\0!"
+"413","(촀\0Ich verspreche dir hoch und heilig,
+\0
+dass es dieses kleine Kerlchen gut
+bei mir haben wird.
+(6촀\0Erst kürzlich hab ich mich über die
+Haltung dieser Art informiert,
+\0 der
+Zeitpunkt könnte nicht besser sein!"
+"414","(촀\0Potz Blitz! 
+\0Na, 
+\0da sag ich doch mal
+ganz artig Danke für d--
+\0\0\0( 촀\0Moooment mal! 
+\0Da fällt mir ein...
+(촀\0\0Eugen\0￿ meinte neulich zu mir, 
+\0dass er
+genau so 2$촀
+eineneineeins suchen würde!\0\0()촀\0Ich will wirklich nicht undankbar
+erscheinen, 
+\0aber \0Eugen\0￿ würde sich
+bestimmt riesig 28촀über ihnüber siedarüber freuen..."
 "501","(촀\02\02\0}\0\0?
 Was um alles in der Welt soll ich
 denn damit?"

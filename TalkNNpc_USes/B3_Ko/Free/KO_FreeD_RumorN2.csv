@@ -26,8 +26,7 @@ cómo será el nuevo vecino?
 (&촀\0Sabes que hay un terreno en venta,
 \0
 ¿no?
-\0 (
-촀\0Dicen que la primera impresión
+\0 (촀\0Dicen que la primera impresión
 es la que cuentan\0\0
 (촀\0Así que voy a prepararme para
 mostrarle quién manda aquín\0\0
@@ -35,8 +34,7 @@ mostrarle quién manda aquín\0\0
 (촀\0¡Es broma, n\0!"
 "003_03","(&촀\0¿Qué te parece ese terreno que está
 a la venta,
-\0 n\0?\0\0(
-촀\0Espero que lo ocupe alguien con
+\0 n\0?\0\0(촀\0Espero que lo ocupe alguien con
 caráctern\0\0
 \0 (촀\0¡La isla necesita nuevas
 personalidades, n\0!
@@ -47,13 +45,11 @@ muy vistan"
 "005_01","(;촀\0¿Ya te enteraste?
 \0 Parece que
 quien compró el terreno
-se llama s촀.\0\0(
-촀\0Pero un simple nombre no revela
+se llama s촀.\0\0(촀\0Pero un simple nombre no revela
 nada de quien lo lleva,
 \0 (촀\0así que
 espero que nos presentemos pronto."
-"005_02","(촀\0¡Alguien compró ese terreno!\0\0(
-촀\0¿Cómo me dijeron que se llamaba?n\0\0
+"005_02","(촀\0¡Alguien compró ese terreno!\0\0(촀\0¿Cómo me dijeron que se llamaba?n\0\0
 (촀\0¡s촀!\0\0(촀\0Cuantos más seamos en la isla,
 \0 más
 interés habrá por mis historias,
@@ -63,8 +59,7 @@ interés habrá por mis historias,
 \0 n\0n\0\0
 \0
 (촀\0¡Alguien compró el terreno que
-estaba a la venta!\0\0(
-촀\0Se llama s촀,
+estaba a la venta!\0\0(촀\0Se llama s촀,
 \0 creo.
 \0
 (촀\0¡Qué bueno es conocer a gente
@@ -97,8 +92,7 @@ de s촀,
 \0 ¿no?"
 "009_03","(촀\0Oyen\0\0 Dentro de poco cumple
 años s촀, ¿no?"
-"010","(
-촀\0Creo que es el Z$촀 del mes que viene.
+"010","(촀\0Creo que es el Z$촀 del mes que viene.
 (촀\0Tenemos tiempo de organizar
 una buena fiesta, n\0."
 "012","<"

@@ -16,8 +16,7 @@ también te va a gustar!"
 ¡Dímelo!"
 "002_b","(\0촀\0Me gusta el mío
 No, gracias"
-"003","(&촀\0Últimamente te llaman
-""s\0촀"", ¿verdad?
+"003","(&촀\0Últimamente te llaman ""⁠s\0촀⁠"", ¿verdad?
 \0 (촀\0¡Me gusta cómo suena!\0\0(촀\0¿Me dejas que te llame
 ""s\0촀"" yo también, n\0?"
 "003_a","¡Por supuesto!
@@ -26,7 +25,7 @@ No, gracias"
 (\0촀\0Es que..."
 "004","(촀\0¡Ah, perfecto!
 \0 (&촀\0¿Te interesa
-cambiar de apodo, n\0?"
+cambiar de apodo?"
 "004_a","(\0촁\0¿A cuál, por ejemplo?"
 "004_b","No me interesa"
 "005","(""촀\0Qué bueno que te encuentro.

@@ -303,16 +303,14 @@ de enterarte de todo."
 hogar estará listo mañana mismo.
 \0
 Emocionante, ¿sí?"
-"211","(
-촀\0En tu caso te recomendaría ampliar
+"211","(촀\0En tu caso te recomendaría ampliar
 un poco la casa, ¿sí?\0\0Eso costará unas \0198 000 \0￿bayas
 que tendrás que devolver luego.
 \0
 (&촀\0¿Te interesa?"
 "211_a","(%촀\0¡Sí, adelante!"
 "211_b","('촀\0En otro momento"
-"212","(
-촀\0Tu casa es bastante grande, pero
+"212","(촀\0Tu casa es bastante grande, pero
 podríamos añadir una habitación
 más, sí, sí.
 (촀\0Si la colocamos atrás, no cambiará
@@ -329,8 +327,7 @@ a \0348 000 \0￿bayas. 
 "212_b","('촀\0En otro momento"
 "213","(촀\0Quieres ampliar tu casa, ¿sí?
 \0
-(
-촀\0Quizá podamos añadirle otra
+(촀\0Quizá podamos añadirle otra
 habitación másn\0\0\0
 (\0촀\0\0￿Hablamos de un préstamo
 de \0548 000 bayas\0￿.
@@ -339,8 +336,7 @@ de \0548 000 bayas\0￿.
 "213_b","('촀\0En otro momento"
 "214","(촀\0Quieres ampliar tu casa, ¿sí?
 \0
-(
-촀\0Una habitación más podría darte
+(촀\0Una habitación más podría darte
 el espacio extra que buscasn\0\0\0
 (\0촀\0\0￿Necesitarías un préstamo
 de \0758 000 bayas\0￿.
@@ -356,8 +352,7 @@ de \01 248 000 bayas\0￿.
 "215_b","('촀\0En otro momento"
 "216","(촀\0¡Vaya, vaya!
 \0 (&촀\0¿Quieres instalar
-un sótano en casa?\0\0(
-촀\0Supongo que ya te habrás
+un sótano en casa?\0\0(촀\0Supongo que ya te habrás
 acostumbrado a hacer ciertos
 gastos,
 \0 (촀\0pero esto es caron\0\0

@@ -61,8 +61,7 @@ reconnaît qu'il y a un vrai besoin."
 construction.
 \0 Il faudrait en mettre de
 côté pour la boutiquen\0\0
-(
-촀\0n\0\0 mais, on en a aussi besoin pour
+(촀\0n\0\0 mais, on en a aussi besoin pour
 nos projets résidentiels.
 \0 Du coup,
 
@@ -140,29 +139,25 @@ devrait pouvoir ouvrir demain !"
 boutique ?
 \0 (촀\0Merci mille fois pour
 ton aide !"
-"052_01","(
-촀\0En comptant ce qu'on a reçu,
+"052_01","(촀\0En comptant ce qu'on a reçu,
 \0(촀\0 il nous
 manque encore \030\0￿ morceaux de
 \0bois\0￿n\0\0 (\0촀\0(&촀\0Je peux te demander ça ?"
 "052_01_a","Tiens, cadeau !"
 "052_01_b","Pas tout de suite..."
-"052_02","(
-촀\0En comptant ce qu'on a reçu,
+"052_02","(촀\0En comptant ce qu'on a reçu,
 \0(촀\0 il nous
 manque encore \030\0￿ morceaux de \0bois
 dur\0￿n\0\0 (\0촀\0(&촀\0Je peux te demander ça ?"
 "052_02_a","Tiens, cadeau !"
 "052_02_b","Pas tout de suite..."
-"052_03","(
-촀\0En comptant ce qu'on a reçu,
+"052_03","(촀\0En comptant ce qu'on a reçu,
 \0(촀\0 il nous
 manque encore \030\0￿ morceaux de \0bois
 tendre\0￿n\0\0 (\0촀\0(&촀\0Tu peux nous fournir ça ?"
 "052_03_a","Tiens, cadeau !"
 "052_03_b","Pas tout de suite..."
-"052_04","(
-촀\0En comptant ce qu'on a reçu,
+"052_04","(촀\0En comptant ce qu'on a reçu,
 \0(촀\0 il nous
 manque encore \030 pépites de fer\0￿n\0\0 (\0촀\0
 (&촀\0Tu peux nous fournir ça ?"
@@ -223,15 +218,13 @@ tu veux qu'elle soit installée 
 \0et on
 commencera la construction.\0\0(촀\0Je suis impatient de découvrir
 l'endroit que tu vas choisir !"
-"061","(
-촀\0Voyons voir ce que tu amènes
+"061","(촀\0Voyons voir ce que tu amènes
 de beaun\0\0\0\0(촀\0\0Nom d'une truffe !\0\0\0dTu as apporté en une fois tous les
 matériaux dont on a besoin !\0\0(&촀\0Tu es sûr2\0e que ça ne te dérange pas
 de donner tout ça d'un coup ?"
 "061_a","Tiens, cadeau !"
 "061_b","Pas tout de suite..."
-"062","(
-촀\0Voyons voir ce que tu amènes
+"062","(촀\0Voyons voir ce que tu amènes
 de beaun\0\0\0\0(촀\0\0Nom d'une truffe !\0\0\0dTu as apporté en une fois tous les
 matériaux qui manquaient !\0\0(&촀\0Tu es sûr2\0e que ça ne te dérange pas
 de donner tout ça d'un coup ?"
@@ -440,8 +433,7 @@ tendres\0￿ 
 apporter d'un coup.\0\0()촀\0Tu peux faire ça progressivement, en
 venant me voir quand tu as réuni
 30 morceaux d'un même matériau !(촀"
-"103_01","(
-촀\0Nous avons déjà réuni certains des
+"103_01","(촀\0Nous avons déjà réuni certains des
 matériaux nécessaires, mais il nous
 manque encoren"
 "103_02_01","()촀\0\030\0￿ morceaux de \0bois dur\0￿,

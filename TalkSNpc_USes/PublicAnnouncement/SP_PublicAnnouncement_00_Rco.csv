@@ -86,7 +86,7 @@ a celebrarlo con nosotros.
 \0
 (""촀\0Pasen por la plaza a saludarlo, ¿sí?d"
 "042_01","d\0(촀\0¡Hoy es el \0Primero de Mayo\0￿!
-\0(촀\0 Que no
+\0 (촀\0Que no
 se les olvide pasar por la \0oficina de
 gestión \0￿a buscar sus \0boletos\0￿.
 (촀\0He decidido regalárselos a todos
@@ -95,10 +95,11 @@ mi aprecio.
 (""촀\0Espero que se animen y aprovechen
 esta oportunidad para explorar
 islas recónditas, ¡sí, sí!d"
-"042_02","d\0(촀\0¡Seguimos celebrando el \0Primero de
-Mayo\0￿!
-\0\0\0(촀\0Que no se les olvide pasar por
-la \0oficina de gestión \0￿a buscar sus \0boletos\0￿.\0\0(촀\0He decidido regalárselos a todos
+"042_02","d\0(촀\0¡Seguimos celebrando
+el \0Primero de Mayo\0￿!
+\0\0\0(촀\0Que no se les olvide pasar por la
+\0oficina de gestión \0￿a buscar
+sus \0boletos\0￿.\0\0(촀\0He decidido regalárselos a todos
 los isleños como muestra de
 mi aprecio.
 (""촀\0Espero que se animen y aprovechen
@@ -106,8 +107,8 @@ esta oportunidad para explorar
 islas recónditas, ¡sí, sí!d"
 "042_03","d\0(촀\0¡Hoy también es el \0Primero de Mayo\0￿!
 \0
-(촀\0Que no se les olvide pasar por
-la \0oficina \0￿a buscar sus \0boletos\0￿.
+(촀\0Que no se les olvide pasar por la
+\0oficina \0￿a buscar sus \0boletos\0￿.
 (촀\0He decidido regalárselos a todos
 los isleños como muestra de
 mi aprecio.
@@ -115,10 +116,9 @@ mi aprecio.
 esta oportunidad para explorar
 islas recónditas, ¡sí, sí!d"
 "042_04","d\0(촀\0¡Hoy también están en marcha
-las celebraciones del \0Primero
-de Mayo\0￿!
-(촀\0Que no se les olvide pasar por
-la \0oficina de gestión \0￿a buscar sus \0boletos\0￿.
+los festejos del \0Primero de Mayo\0￿!\0\0(촀\0Que no se les olvide pasar por la
+\0oficina de gestión \0￿a buscar
+sus \0boletos\0￿.
 (촀\0He decidido regalárselos a todos
 los isleños como muestra de
 mi aprecio.
@@ -167,6 +167,97 @@ un evento especial.
 podrán participar en la búsqueda de
 sellos que tendrá lugar en el \0museo\0￿.
 (""촀\0Pasen por allí si les interesa apuntarse, ¡sí, sí!d"
+"047_01","d\0()촀\0Solicité una evaluación de las aguas
+marinas que rodean la isla y tengo
+algo importante que anunciar.
+(촀\0Me complace comunicarles que,
+a partir de ahora,
+\0 (촀\0¡se puede nadar
+en el mar con total seguridad, sí, sí!
+(촀\0Las aguas son sumamente cristalinas
+y bastante profundas, 
+\0por lo que
+también se puede bucear.
+(9촀\0Eso sí: 
+\0es necesario llevar siempre
+el equipamiento adecuadon\0\0\0\0(촀\0Desde \0Nook Inc.\0￿ queremos poner
+nuestro granito de arena con una
+nueva colección de trajes de buceo.
+(촀\0Pueden adquirirlos en la \0tienda\0￿
+o a través de \0TeleNook\0￿, 
+\0¿sí?\0\0(%촀\0Nadar y bucear son actividades
+ideales para mantenerse saludable. 
+\0
+(""촀\0¡A darse un chapuzón!d"
+"047_02","d\0(촀\0Como ya habrán visto en la tarjeta
+que les envié,
+\0(촀\0 ¡a partir de ahora se
+puede bucear en el mar!
+(%촀\0Sí, sí,
+\0 las aguas son profundas
+y cristalinas, 
+\0por lo que resultan
+ideales para zambullirse.
+( 촀\0De todos modos, 
+\0es importante que
+lo hagan de forma segura:
+\0(%촀\0 ¡siempre
+usen el equipamiento adecuado!
+()촀\0Para hacerles la vida más fácil,
+estrenamos una nueva colección
+de trajes de buceo.
+(촀\0Pueden adquirirlos en la \0tienda\0￿
+o a través de \0TeleNook\0￿, ¿sí?\0\0Bien,
+\0($촀\0 espero que se animen a ver
+qué maravillas los aguardan en el
+fondo del mar. 
+\0¡Disfruten!d"
+"047_03","d\0()촀\0Solicité una evaluación de las aguas
+marinas que rodean la isla y tengo
+algo importante que anunciar.
+(촀\0Me complace comunicarles que,
+a partir de ahora,
+\0 (촀\0¡se puede nadar
+en el mar con total seguridad, sí, sí!
+(촀\0Las aguas son sumamente cristalinas
+y bastante profundas, 
+\0por lo que
+también se puede bucear.
+(9촀\0Eso sí: 
+\0es necesario llevar siempre
+el equipamiento adecuadon\0\0\0\0(촀\0Desde \0Nook Inc.\0￿ queremos poner
+nuestro granito de arena con una
+nueva colección de trajes de buceo.
+(촀\0Para adquirirlos, hablen con \0Tendo\0￿
+o consulten \0TeleNook\0￿, 
+\0¿sí?\0\0(%촀\0Nadar y bucear son actividades
+ideales para mantenerse saludable. 
+\0
+(""촀\0¡A darse un chapuzón!d"
+"047_04","d\0(촀\0Como ya habrán visto en la tarjeta
+que les envié,
+\0(촀\0 ¡a partir de ahora se
+puede bucear en el mar!
+(%촀\0Sí, sí,
+\0 las aguas son profundas
+y cristalinas, 
+\0por lo que resultan
+ideales para zambullirse.
+( 촀\0De todos modos, 
+\0es importante que
+lo hagan de forma segura:
+\0(%촀\0 ¡usen
+siempre el equipamiento adecuado!
+()촀\0Para hacerles la vida más fácil,
+estrenamos una nueva colección
+de trajes de buceo.
+(촀\0Para adquirirlos, hablen con \0Tendo\0￿
+o consulten \0TeleNook\0￿, 
+\0¿sí?\0\0Bien,
+\0($촀\0 espero que se animen a ver
+qué maravillas los aguardan en el
+fondo del mar. 
+\0¡Disfruten!d"
 "101","d\0(촀\0¡Acaba de instalarse en la isla
 2H촀un nuevo vecino una nueva vecina\0! ¡Bienvenid2촀oa\0,
 s촀!d"
@@ -489,8 +580,7 @@ recibido también su 2\0Ȃ촄radio portátil.
 de audio que pueden usar,
 \0
 como los \0tocadiscos\0￿.
-(
-촀\0Imagínense lo genial que sería oír
+(촀\0Imagínense lo genial que sería oír
 su canción favorita siempre que
 quierann\0\0
 ()촀\0Pueden comprar \0música\0￿ en \0TeleNook\0￿
@@ -530,7 +620,7 @@ taller?
 \0 ¿Los están disfrutando?\0\0()촀\0Si todavía no han hecho ninguno,
 \0
 pasen por la \0oficina de gestión\0￿
-para un \0curso \0￿gratuito.d"
+para tomar un \0curso \0￿gratuito.d"
 "799","d\0(""촀\0¡Eso es todo por el momento!
 \0
 ¡Hasta pronto!d"

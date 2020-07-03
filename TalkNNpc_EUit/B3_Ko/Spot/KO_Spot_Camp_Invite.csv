@@ -1,10 +1,11 @@
 ﻿"label","text"
 "002","(촀\0Cavoli, ma scherzi?
-\0
-\0(
-촀\0 Cioèn\0\0 forsen\0\0 (%촀\0OK, ci sto.
-\0(촀\0 Da ora, n	\0 sarà casa mia!
-(6촀\0Dov'è il \0centro servizi\0￿? Voglio
+\0(촀\0 Cioèn\0\0 forsen\0\0
+
+\0(%촀\0OK, ci sto.
+\0(촀\0 Da questo momento, 
+\0n	\0 sarà casa mia!\0\0(6촀\0Dov'è il \0centro servizi\0￿? 
+\0Voglio
 sbrigare subito tutte le pratiche
 per il trasferimento."
 "003","( 촀\0Non sapevo che ci tenessi così
@@ -17,8 +18,7 @@ questa diventerà la mia casa.\0\0(6촀\0Mi basta arrivare al \0centro s
 trasferimento."
 "101","<"
 "101_01","(촀\0Ma scherzi?
-\0((\0촀\0(
-촀\0 Voglio dire, 
+\0((\0촀\0(촀\0 Voglio dire, 
 \0l'idea
 di trasferirmi da queste parti
 non mi dispiace per nienten\0\0
@@ -36,8 +36,7 @@ abbandonare casa mia, n\0.\0\0(촀\0Non posso mica andarmene proprio
 adesso che sto imparando a ballare!
 (촀\0AHAHAH!"
 "201_01","(촀\0Cavoli, ma scherzi?
-\0((
-촀\0 Questa decisione
+\0((촀\0 Questa decisione
 richiede un'attenta riflessionen\0\0
 
 \0((촀\0Dammi uno specchio!
@@ -52,8 +51,7 @@ molto divertente, n\0."
 "201_02","(촀\0Uau! Non sono preparato a prendere
 una decisione così importanten\0\0
 \0(7촀\0 ci
-devo pensare bene.\0\0(
-촀\0Mi piacerebbe cambiare aria, però...
+devo pensare bene.\0\0(촀\0Mi piacerebbe cambiare aria, però...
 \0(촀\0
 Ma certo! 
 \0((;촀\0Perché non facciamo
@@ -82,10 +80,10 @@ volta allora, n\0."
 grande idea buttata vian\0\0\0\0(%촀\0Meglio raccoglierla, prima che mi
 facciano la multa.
 \0 (촀\0AHAHAH!"
-"203_01","(촀\0Benissimo!
-\0()촀\0 Giocheremo con delle
-carte: io ne scelgo una e tu devi
-indovinare qualcosa sulla mia carta."
+"203_01","(촀\0Così mi piace!
+\0( (%촀\0Bene, 
+\0si tratta
+di un semplice gioco di carten"
 "204","<"
 "204_01","(촀\0Peccato!
 \0( (촀\0Il mio trasferimento non
@@ -150,8 +148,7 @@ vinci, preparo i bagagli. D'accordo?"
 Dovrò assumere un agente?
 \0
 (촀\0AHAHAH! 
-\0Sto scherzando.\0\0(
-촀\0Comunque, per divertirci un po',
+\0Sto scherzando.\0\0(촀\0Comunque, per divertirci un po',
 \0
 faremo un gioco e, se vinci, puoi
 considerarmi un nuovo abitante, 
@@ -194,8 +191,7 @@ case, n\0.\0\0(촀\0E io sulla spiaggia non ci vivo più!
 scarpe ci si abituan\0\0
 ('촀\0Ai granchi che vogliono fare amicizia
 alle 2 del mattino no. (촀\0
-\0AHAHAH!\0\0(
-촀\0Però se si dovesse liberare un posto
+\0AHAHAH!\0\0(촀\0Però se si dovesse liberare un posto
 sull'isolan\0\0\0\0(&촀\0Sai per caso se uno degli attuali
 abitanti ha intenzione di lasciare
 n	\0, n\0?"
@@ -229,20 +225,40 @@ il nome, n\0?"
 avresti potuto dirlo subito e
 evitare di farmi perdere tempo."
 "309","(촀\0Evvai!
-\0 Missione compiuta!
-\0(
-(촀\0Possiamo dare inizio
-all'operazione ""trasloco""!\0\0()촀\0Sai, s촀 aveva già intenzione di lasciare l'isola,
-\0( quindi posso trasferirmi subito!
-\0(
-(9촀\0Visto che saremo praticamente
+\0 Missione compiuta!
+\0 (촀\0Possiamo
+dare inizio all'operazione ""trasloco""!\0\0()촀\0Sai, 
+\0s촀 aveva già intenzione di lasciare l'isola,
+\0( quindi posso trasferirmi subito!\0\0(9촀\0E visto che saremo praticamente
 vicini di casa,
 \0 sarà meglio che ci
 presentiamon\0\0\0\0(촀\0Io mi chiamo n
 \0.
 \0( (촀\0E tu sei n\0, vero?
-\0( ($촀\0
-Bene, ci vediamo in giro!"
+\0 ($촀\0Bene, ci vediamo in giro!"
+"309_01","Beh, sarà più semplice del previsto: 
+\0(촀\0pare che s촀 abbia già fatto i bagagli!(촀\0\0\0A questo punto, 
+\0immagino di poter
+andare a vivere al suo posto senza
+problemin\0\0\0\0( 촀\0A proposito! 
+\0Io non mi sono ancora
+presentato, 
+\0dico bene? 
+\0(""촀\0Beh, 
+\0il mio
+nome è n
+\0.\0\0(9촀\0E se la memoria non mi inganna, 
+\0tu dovresti esseren\0\0 n\0. 
+\0(&촀\0È così?\0\0(촀\0Piacere, 
+\0mi2oa car2oa nuov2oa vicin2oa.
+
+\0Vedrai, 
+\0ci sarà grande sintonia
+tra noi, n\0.
+(%촀\0E se non sarà così, 
+\0useremo un
+metronomo. 
+\0(촀\0AHAHAH!"
 "310","( 촀\0Ehi, che succede?
 \0((촀\0 Ti sei 20dimenticatodimenticata
 il nome, n\0?"
@@ -272,8 +288,7 @@ sull'isolan\0\0
 \0Sembra che ci sia
 il pienone.(촀\0 Un'altra casa potrebbe
 fare affondare l'isola.
-(
-촀\0Aspetta un attimon\0\0 le isole possono
+(촀\0Aspetta un attimon\0\0 le isole possono
 affondare?
 \0 (촀\0Mah! 
 \0Meglio non correre
@@ -296,16 +311,14 @@ alle 2 del mattino no. (촀\0
 sull'isola e mi hanno detto che c'èn\0\0
 (!촀\0Quindi sono un abitante di n	\0,
 \0 è ufficiale!\0\0(촀\0Adesso devo presentarmi.
-\0((촀\0 Mi
-chiamo n
+\0((촀\0 Mi chiamo n
 \0!
 \0( (%촀\0Tu sei n\0, giusto?\0\0(5촀\0Mi sa che da ora ci vedremo spesso
 in giro. 
 \0Purtroppo per te. (촀\0
 \0AHAHAH!(촀\0
 "
-"410","(
-촀\0Aspetta un attimo.
+"410","(촀\0Aspetta un attimo.
 \0 Forse potrei
 provare a chiedere con maggiore
 insistenza, n\0."
@@ -320,8 +333,7 @@ Difficile accettare che non c'è
 spazio per me.\0\0(촀\0Il fatto di essere stato invitato, però,
 la dice lunga su quanto mi apprezzi.
 Speriamo di risentirci presto."
-"424","(
-촀\0Non ci sono più terreni in venditan\0\0
+"424","(촀\0Non ci sono più terreni in venditan\0\0
 Riesci a immaginartelo?\0\0(촀\0La tua isola dev'essere davvero
 speciale, eh? Peccato non poterne
 far parte.
@@ -339,8 +351,7 @@ a casa. (%촀\0Al punto da farmi venire
 voglia di vivere qui, n\0."
 "504_a","E allora fallo!"
 "504_b","È un bel sogno."
-"505","(
-촀\0Ohn\0\0
+"505","(촀\0Ohn\0\0
 \0 (\0촀\0Non è una cattiva idea, 
 \0('촀\0ma non
 sono sicuro di riuscire a prendere
@@ -361,8 +372,7 @@ un abitante, n\0!"
 "507_a","Allora resta qui!"
 "507_b","Ti piace così tanto?"
 "508","(촀\0Davvero gentile da parte tua
-suggerirmi una cosa del genere!\0\0(
-촀\0Mmmhn\0\0 Se lo pensi davvero,
+suggerirmi una cosa del genere!\0\0(촀\0Mmmhn\0\0 Se lo pensi davvero,
 \0(%촀\0 allora
 dammi ancora un po' di tempon\0\0
 (:촀\0Ti saprò dire alla mia prossima visita!

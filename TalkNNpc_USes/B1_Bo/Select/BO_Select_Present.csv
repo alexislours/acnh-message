@@ -39,8 +39,7 @@ me das!
 \0
 (촀\0¡Voy a preguntarle a \0Sócrates\0￿!"
 "113","(촀\0Guauuun\0\0
-\0 (
-촀\0Yo creo que ni el
+\0 (촀\0Yo creo que ni el
 mismísimo \0Sócrates \0￿ha visto
 algo asín\0\0
 (촀\0¡Mejor llévaselo a él, le va a encantar!"
@@ -66,8 +65,7 @@ Quizá llegarás a necesitar esto más
 que yo.
 \0 ($촀\0Mejor quédatelo, ¿sí?"
 "123","(촀\0¡Qué genialidad tan genial!
-\0 (
-촀\0Peron\0\0
+\0 (촀\0Peron\0\0
 \0
 ¿\0Sócrates \0￿ya vio esto?
 \0 Tiene un olor
@@ -111,8 +109,7 @@ querido ponerme algo así, ¿sabes?"
 (촀\0Y no tiene ni una mancha de grasan\0\0
 \0
 Gracias, n\0."
-"221","(
-촀\0Está genial,
+"221","(촀\0Está genial,
 \0 pero a lo mejor
 no es mi estilon\0\0 Me l2촀oa\0 pruebo
 luego."
@@ -131,8 +128,7 @@ no tengo ni idea de cómo se usa.
 \0
 (;촀\0¡Tendré que descubrirlo!"
 "303","(촀\0Muchas graciasn\0\0
-\0 (
-촀\0La verdad es
+\0 (촀\0La verdad es
 que no sé para qué se usa esto.
 \0
 (촀\0¡Ya se me ocurrirá algo!"
@@ -169,8 +165,9 @@ Mi casa olerá a comida de abejan"
 (&촀\0¿2촀LoLa\0 pescaste tú mism2oa?"
 "407","(촀\0¡Gracias, n\0!
 \0
-Espero que quiera jugar a ver
-quién parpadea primeron"
+(%촀\0¡Jugaré con 2촀élella\0 como si fuera mi
+mejor amig2촀oa\0n\0\0
+\0 después de ti, claro!"
 "408","(촀\0¡2\02\0}\0\0!
 \0
 (&촀\0¿2촀LoLa\0 atrapaste tú?"
@@ -188,12 +185,25 @@ lo enseñaras a \0Sócrates\0￿,
 a él también le encantann"
 "411","(촀\0Qué ejemplar tan precioson\0\0
 \0
-(
-촀\0Yo creo que ni \0Sócrates \0￿ha visto
+(촀\0Yo creo que ni \0Sócrates \0￿ha visto
 uno de estos aún.
 ¿Por qué no se lo llevas?
 \0 Seguro
 que se pone muy contentísimo."
+"412","(촀\0¡Guauuu!
+\0 ¿Sacaste eso del fondo
+del mar?
+\0 (&촀\0Es 2\0}\0\0⁠, ¿no?"
+"413","(촀\0¡Qué genial!
+\0 Desde hoy será
+mi gran tesoro,
+\0 te lo prometo."
+"414","(촀\0Oye, peron\0\0
+\0 ¿No crees que esto
+le gustaría mucho a \0Sócrates\0￿?\0\0(촀\0No quiero rechazar tu obsequio,
+\0 pero
+sería mejor que se lo lleves a él
+primero."
 "501","¿Eh?
 \0 (촀\0¡¿2\02\0}\0\0?!"
 "502","(촀\0¡Oye, n\0n\0\0!
@@ -217,8 +227,7 @@ pero no puedo aceptarlo.
 (""촀\0¡pero gracias de todos modos!"
 "507","(촀\0¡Un proyecto de taller para
 2\0}\0\0!"
-"508","(
-촀\0Apuesto mi colección de cómics
+"508","(촀\0Apuesto mi colección de cómics
 a que todos quisieran este proyecto
 de tallern\0\0
 (%촀\0Así que creo que deberías

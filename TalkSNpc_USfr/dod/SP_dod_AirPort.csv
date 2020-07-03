@@ -5,10 +5,8 @@ porte d'accès vers les voies célestes,
 \0
 l'\0aéroport 2
 de d'⁠
-
-\0n	\0
-
-\0￿!
+\0n	\0
+\0￿!
 (촀\0Très heureux de te rencontrer,
 \0 moi
 c'est \0Morris\0￿, personnel au sol de la
@@ -70,10 +68,8 @@ porte d'accès vers les voies célestes,
 \0
 (촀\0l'\0aéroport 2
 de d'⁠
-
-\0n	\0
-
-\0￿!
+\0n	\0
+\0￿!
 (&촀\0Que puis-je faire pour toi?"
 "002_a","Je veux voyager."
 "002_b","Recevoir des visiteurs."
@@ -129,19 +125,15 @@ porte d'accès vers les voies célestes,
 \0
 (촀\0l'\0aéroport 2
 de d'⁠
-
-\0n	\0
-
-\0￿!
+\0n	\0
+\0￿!
 (촀\0Oh, c'est toi!
 \0(촀\0 Tu tombes bien!"
-"021_01","(
-촀\0Euhn"
+"021_01","(촀\0Euhn"
 "021_02","(촀\0Attends, 
 \0comment tu as fait pour
 entrer?
-\0(
-촀\0 J'aurais pourtant juré que
+\0(촀\0 J'aurais pourtant juré que
 j'avais fermé la porte de devantn\0\0\0\0(촀\0Enfin, peu importe. 
 \0Par contre, 
 \0on
@@ -291,8 +283,7 @@ rendre pour le momentn\0\0
 "103","Attends une seconde,
 \0(&촀\0 sur quelle île
 veux-tu aller?"
-"104","(
-촀\0Il semblerait qu'on ait un départ
+"104","(촀\0Il semblerait qu'on ait un départ
 imminent pour s촀n\0\0
 \0
 (&촀\0Ça t'intéresse?"
@@ -305,8 +296,7 @@ c'est complet. (촀\02\0s촀 n'accepte plus de visiteurs."
 "105_a","Tu peux revérifier?"
 "105_b","(\0촀\0OK, je repasserai."
 "106","(촀\0Ah!
-\0(
-촀\0 Il faut un \0Dodo Code™\0￿ pour
+\0(촀\0 Il faut un \0Dodo Code™\0￿ pour
 visiter cette île.
 \0 (\0촀\0C'est un numéro
 à quatre chiffres. Tu le connais?"
@@ -315,14 +305,12 @@ visiter cette île.
 (&촀\0Tu veux réessayer?"
 "107_a","(\0촀\0Réessayer."
 "107_b","Laisser tomber."
-"108","(촀\0Aïe!(
-촀\0 Il y a des interférences.
+"108","(촀\0Aïe!(촀\0 Il y a des interférences.
 \0
 Visiblement,
 \0 quelque chose est
 en cours sur placen"
-"108_01","(
-촀\0Il y a des interférences.
+"108_01","(촀\0Il y a des interférences.
 \0 Quelqu'un
 doit être en pleine conversation,
 ou occupé à faire autre chose.
@@ -390,8 +378,7 @@ suite,
 \0 le plus simple est
 peut-être d'envoyer un message à
 ton hôte!
-\0 (
-촀\0Quelque chose du genren\0\0
+\0 (촀\0Quelque chose du genren\0\0
 ()촀\0« \0Je voudrais te rendre visite,
 \0
 peux-tu arrêter de discuter et fermer
@@ -423,8 +410,7 @@ suite,
 \0 le plus simple est
 peut-être d'envoyer un message à
 ton hôte!
-\0 (
-촀\0Quelque chose du genren\0\0
+\0 (촀\0Quelque chose du genren\0\0
 ()촀\0« \0Je voudrais partir,
 \0 peux-tu
 arrêter de discuter et fermer
@@ -732,8 +718,7 @@ reviens quand tu veux!"
 "900_01","(&촀\0Hein? 
 \0L'« île Deudjoh »n\0\0?
 \0
-(
-촀\0Aucune idée d'où ça peut êtren\0\0
+(촀\0Aucune idée d'où ça peut êtren\0\0
 \0(촀\0\0\0(촀\0
 \0Ah! 
 \0Mais si,
@@ -774,10 +759,8 @@ porte d'accès vers les voies célestes,
 \0
 (촀\0l'\0aéroport 2
 de d'⁠
-
-\0n	\0
-
-\0￿!"
+\0n	\0
+\0￿!"
 "999_02","(%촀\0Comme tu le vois, on propose pas
 mal de services ici, 
 \0(촀\0mais seuls les

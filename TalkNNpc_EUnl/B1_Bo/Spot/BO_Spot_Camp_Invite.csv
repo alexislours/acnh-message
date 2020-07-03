@@ -64,8 +64,7 @@ idee van mij, hè?"
 "201_02_b","Misschien een andere keer."
 "201_03","(촀\0Ik vind het gaaf dat je me uitnodigtn\0\0
 \0(
-(
-촀\0maar ik weet nietn\0\0 Ik kan niet
+(촀\0maar ik weet nietn\0\0 Ik kan niet
 beslissen wat ik moet doen.\0\0(촀\0Wacht!
 \0 Ik heb een idee!
 \0((촀\0 Laten wen\0\0
@@ -110,8 +109,7 @@ steeds in mijn keel, n\0."
 "206","<"
 "206_01","Dat betekent
 \0(촀\0 dat jij wint!
-\0 Wat goed!(
-촀\0
+\0 Wat goed!(촀\0
 Oké, dan moet ik nu wel nog de
 \0servicebalie\0￿ om toestemming vragen.(촀\0\0\0Als ze die geven, dan ga ik naar huis,
 pak al mijn snoep, beestjes en
@@ -149,8 +147,7 @@ spelen!
 jouw eiland!"
 "207_01_a","Deal!"
 "207_01_b","Nee, laat maar zitten."
-"207_02","(
-촀\0Hmmn\0\0 verhuizen klinkt als een hoop
+"207_02","(촀\0Hmmn\0\0 verhuizen klinkt als een hoop
 werk, maar dan kunnen we wel vaker
 samen spelenn\0\0
 (촀\0Oei, wat lastig! 
@@ -219,7 +216,8 @@ zal ik dan toe gaan?"
 \0 Dan moeten we
 het maar opgeven, n\0."
 "309","(촀\0Ik heb het geprobeerdn\0\0
-\0 Ik heb iemand gevraagd of 2촀hijze\0 wil verhuizen.\0\0(촀\0Voor mij, 
+\0 Ik heb
+iemand gevraagd of 2촀hijze\0 wil verhuizen.\0\0(촀\0Voor mij, 
 \0n
 \0, 
 \0iemand die 2촀hijze\0 niet eens kentn\0\0\0\0(촀\0O, trouwens, ik ben n
@@ -232,6 +230,14 @@ bedoelde,
 en geglimlacht.\0\0(촀\0Maar goed, ik kan hier wonen!
 \0 Bereid
 je dus maar voor, n\0!"
+"309_01","(촀\0Raad eens. 
+\0()촀\0Ik wilde gaan praten met s촀 over 2촀zijnhaar\0 verhuizing, maar ik zag 2촀hemhaar\0 nergens!\0\0(%촀\0Volgens mij betekent dat dat 2촀hijze\0 al is
+verhuisd. 
+\0((촀\0En dát betekent dat ik hier
+nu kan komen wonen, n\0!\0\0(촀\0O, ik zal mezelf maar eens voorstellen.
+\0(""촀\0 Ik ben n
+\0!\0\0(6촀\0En jij bent vast n\0? 
+\0Ahahahan"
 "310","(&촀\0Is er niemand aan wie ik het kan
 vragen?"
 "310_a","Ja, toch wel!"
@@ -274,8 +280,7 @@ personen achter de \0servicebalie
 \0 Ik ben je nieuwe buurman, n
 \0.
 \0( Nu kunnen we elkaar iedere dag zien!"
-"410","(
-촀\0Zal ik het nog een keer gaan vragen?
+"410","(촀\0Zal ik het nog een keer gaan vragen?
 \0<
 (\0촀\0Misschien zeggen ze nu wel:
 \0

@@ -4,8 +4,7 @@
 \0 Piénsale bien, ¿eh?"
 "001_a","¡Esa de ahí!"
 "001_b","Es... una muy rica"
-"002","<
-￿"
+"002","<￿"
 "003","<"
 "004","(%촀\0¡Estás en lo correcto!
 \0
@@ -53,7 +52,8 @@ del \0museo\0￿? 
 \0Porque si no, ¡te estás
 perdiendo algo tremendo!
 ('촀\0Yo no sé mucho de arte, la verdad,
-\0(5촀\0pero creo que vale la pena cultivarse
+\0
+(5촀\0pero creo que vale la pena cultivarse
 a menudo.
 (3촀\0Además, nunca está de más
 documentarse por si tienes que
@@ -80,23 +80,18 @@ es2oas que evitan el rollo culturaln\0\0\0\0(촀\0¡Este museo está 
 "028","(촀\0Si no has ido al \0museo \0￿todavía, no sé
 qué esperas, guapuraza.\0\0(%촀\0Tenemos cosas que no se ven
 todos los días, ¿eh?
-\0 Por ejemplon\0\0(촀\0¡Un2)촀\0a\0 
-\0!"
-"029","(
-촀\0Oye, ¿alguna vez has visto 2\0
- en vivo y a todo color, tú?\0\0(5촀\0¡Porque en el \0museo \0￿tenemos un2)촀oa\0
-vivit2)촀oa\0 y coleando! 
-\0(촀\0No te l2)촀oa\0 puedes
+\0 Por ejemplon\0\0(촀\0¡Un2*촀\0a\0 \0!"
+"029","(촀\0Oye, ¿alguna vez has visto 2\0 en vivo y a todo color, tú?\0\0(5촀\0¡Porque en el \0museo \0￿tenemos un2*촀oa\0
+vivit2*촀oa\0 y coleando! 
+\0(촀\0No te l2*촀oa\0 puedes
 perder, hazme caso."
 "030","A todo esto, (촀\0¡no puedes decir que
 fuiste a n\0 si no
 visitaste el \0museo\0￿!\0\0(5촀\0En los fósiles tienen algo que
 te dejará con la boca abierta:
 \0
-¡2\0
-!"
-"031","(촀\0Me encanta ver 2\0
-.\0\0(*촀\0A veces me entra una sensación
+¡2\0!"
+"031","(촀\0Me encanta ver 2\0.\0\0(*촀\0A veces me entra una sensación
 parecida al aburrimiento, 
 \0(%촀\0pero
 entonces voy al \0museo\0￿ y se me pasa.

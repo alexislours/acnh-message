@@ -104,6 +104,8 @@ una trasformazione piuttosto che
 un semplice cambio di abiti.\0\0Ciò che indossi al di sotto resterà
 invariato, ma verrà nascosto dalla
 trasformazione.\0￿"
+"0505","Devi toglierti la muta prima
+di poterti cambiare."
 "0551","Non stai indossando nulla che possa
 fare parte di un completo!"
 "0552","Non c'è spazio per questo completo
@@ -981,7 +983,7 @@ modello personalizzato?"
 modello personalizzato."
 "2438_a","Indietro"
 "2439","Accederai ora all'applicazione
-I miei modelli. Seleziona uno
+\0I miei modelli\0￿. Seleziona uno
 slot di salvataggio."
 "2440","L'ID modello che hai inserito
 corrisponde a uno dei tuoi
@@ -1074,6 +1076,10 @@ degli articoli avverrà per posta.\0￿"
 Divertiti a collezionarli tutti per
 creare la tua casa dei sogni! \0\0L'invio
 degli articoli avverrà per posta.\0￿"
+"3021","Una \0muta\0￿ personalizzata firmata
+Nook Inc. Permette di nuotare e
+immergersi liberamente nell'oceano.
+\0\0L'invio dell'articolo avverrà per posta.\0￿"
 "5001","\0Fotocamera\0￿
 Ti permette di scattare delle foto
 e applicarvi vari filtri ed effetti.\0\0\0\0Le immagini saranno salvate
@@ -1099,6 +1105,14 @@ opportunità!"
 Consulta questa applicazione per
 saperne di più sugli insetti e sui
 pesci che hai catturato."
+"5022","\0Enciclopedia\0￿
+Consulta questa applicazione per
+saperne di più sugli insetti, i pesci e
+le creature marine che hai catturato."
+"5023","\0Enciclopedia\0￿
+L'applicazione è stata aggiornata
+con informazioni aggiuntive sulle
+creature marine che hai catturato!"
 "5031","\0Laboratorio\0￿
 In questa applicazione trovi le
 informazioni sugli schemi che hai
@@ -1528,16 +1542,25 @@ Internet (tra cui la lista dei migliori
 amici) verrà riportata allo stato iniziale.\0\0Vuoi ricominciare a giocare?"
 "8016_a","No"
 "8016_b","Sì"
-"8017","Questo utente non ha un account
-Nintendo registrato oppure deve
-accedere di nuovo all'account
-Nintendo.\0\0Se ricominci a giocare, qualsiasi
-funzionalità che richiede l'uso di
-Internet (tra cui la lista dei migliori
-amici) verrà riportata allo stato iniziale.\0\0Vuoi ricominciare a giocare e
-riportare qualsiasi funzionalità
-che richiede l'uso di Internet
-allo stato iniziale?"
+"8017","La registrazione di questo utente
+a un account Nintendo valido deve
+essere verificata tramite Internet.\0\0In caso contrario, se inizi a giocare,
+qualsiasi funzionalità che richieda l'uso
+di Internet (tra cui la lista dei migliori
+amici) verrà riportata allo stato iniziale.\0\0Vuoi riportare allo stato iniziale tutte
+le funzionalità che richiedono l'uso
+di Internet e iniziare a giocare?"
 "8017_a","No"
 "8017_b","Sì"
+"8018","La registrazione di questo utente
+a un account Nintendo valido deve
+essere verificata tramite Internet.\0\0Verrà effettuato il collegamento
+a Internet per avviare la procedura."
+"8018_a","OK"
 "8019","Riavvio del gioco in corso."
+"8020","La registrazione di questo utente
+a un account Nintendo valido deve
+essere verificata tramite Internet.\0\0Verrà effettuato il collegamento
+a Internet per avviare la procedura."
+"8020_a","No"
+"8020_b","OK"

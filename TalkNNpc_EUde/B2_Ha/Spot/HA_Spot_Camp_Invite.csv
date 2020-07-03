@@ -2,8 +2,7 @@
 "002","( 촀\0Zur Hantel! 
 \0Ist das dein Ernst?
 \0(
-(
-촀\0Hier zu wohnen würde sicher einiges
+(촀\0Hier zu wohnen würde sicher einiges
 einfacher machen, 
 \0n\0n\0\0\0\0(촀\0Klar wie Kloßbrühe, 
 \0ich komme!
@@ -15,8 +14,7 @@ und klär die Sache."
 dieselbe Ausdauer wie beim Einladen
 an den Tag legst, 
 \0dann Hut ab!
-(
-촀\0Hm, 
+(촀\0Hm, 
 \0mal überlegen... 
 \0Du würdest
 tatsächlich 2P(einen ganz passablen$eine ganz passable
@@ -43,8 +41,7 @@ mir am Ende doch zu sehr fehlen!"
 \0Das wäre
 klasse, 
 \0aber... 
-\0('촀\0nee, das wird nichts.\0\0(
-촀\0Wenn ich's mir genau überlege, 
+\0('촀\0nee, das wird nichts.\0\0(촀\0Wenn ich's mir genau überlege, 
 \0ist
 mein Trainingsplan doch sehr auf
 meinen aktuellen Wohnort optimiert.\0\0(8촀\0Allein der Umzug könnte
@@ -75,8 +72,7 @@ Ich werde eher woanders benötigt!
 \0du
 würdest gleich so weit gehen?
 \0
-(촀\0Das überrascht mich aber.\0\0(
-촀\0Hm, 
+(촀\0Das überrascht mich aber.\0\0(촀\0Hm, 
 \0das wäre ein ziemlicher Schritt.
 \0
 (%촀\0Lassen wir doch das Schicksal
@@ -139,14 +135,7 @@ gar nicht so sicher, 
 Nachbar für dich wäre, 
 \0n\0."
 "203_01","(촀\0Dann spielen wir beide jetzt ein
-Kartenspiel, 
-\0n\0!\0\0()촀\0Es ist ganz einfach. 
-\0Ich ziehe eine
-Karte,
-\0 und du musst dann was dazu
-erraten!
-\0 Auf die Plätze, 
-\0fertig..."
+Kartenspiel!"
 "204","<"
 "204_01","(5촀\0Der Sieg geht an mich!
 
@@ -269,7 +258,7 @@ gesprochen!
 \0 (촀\0Mennon"
 "208_03","('촀\0Ja, tut mir leid. 
 \0Nächstes Mal habe
-ich meine Ausrüstung für2""촀\0\0s 2촁촀 auf jeden Fall dabei."
+ich meine Ausrüstung für2#촀\0\0s 2촁촀 auf jeden Fall dabei."
 "302","(촀\0Schlechte Neuigkeiten.
 \0 Ich hab
 vom \0Servicecenter\0￿ die rote Karte
@@ -334,6 +323,22 @@ gefasst, 
 \0mich ab jetzt öfter
 zu sehen, 
 \0n\0!"
+"309_01","(촀\0Irgendwie seltsam...
+\0 Ich wollte bei
+s촀 nachhaken, 
+\0ob 2ersie vielleicht für mich das Feld räumt.\0\0('촀\0Aber ich konnte 2ihnsie nirgends finden!
+\0
+(촀\0Das heißt dann wohl, 
+\0dass ich freie
+Bahn für meinen Umzug habe!\0\0(&촀\0Du bist 2derdie n\0,
+\0 stimmt's? 
+\0Falls du's vergessen hast,
+\0 ich heiße n
+\0.\0\0(촀\0Bald schon können wir gemeinsam
+Eisen stemmen! 
+\0Das wird bestimmt
+richtig super,
+\0 n\0!"
 "310","(&촀\0Was ist? 
 \0Meinst du nicht, 
 \0dass
@@ -431,8 +436,7 @@ beliebt ist, war mir gar nicht klar."
 der Insel einfach kein freier Platz
 zu kaufen ist, 
 \0n\0.
-(
-촀\0Wenn ich gewusst hätte,
+(촀\0Wenn ich gewusst hätte,
 \0 wie
 beliebt n	\0 ist..."
 "504","(촀\0Seit ich hier bin, 
@@ -450,8 +454,7 @@ eigentlichn\0\0
 "504_b","Das wäre fatal..."
 "505","( 촀\0Ich soll dauerhaft hierbleiben?
 \0(
-(
-촀\0Ein verlockender Gedanken\0\0\0\0(7촀\0Aber meine jetzige Bleibe ist nicht
+(촀\0Ein verlockender Gedanken\0\0\0\0(7촀\0Aber meine jetzige Bleibe ist nicht
 ohnen\0\0
 \0 (%촀\0Und ich hab noch 'ne Muskel-
 Challenge mit 'nem Nachbarn laufen.\0\0(촀\0Lad mich doch einfach bald wieder

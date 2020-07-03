@@ -24,8 +24,7 @@ and down
 unsettlin',
 \0 n\0."
 "004","(촀\0I hear tell that \0Saharah\0￿ character
-is visitin' n\0.\0\0(
-촀\0She's a bit of an oddball,
+is visitin' n\0.\0\0(촀\0She's a bit of an oddball,
 \0 but she
 sells (%촀\0classy stuff,
 \0 n\0."
@@ -41,11 +40,10 @@ got any tunes you really wanna hear,
 \0n\0\0
 (%촀\0She's got some good turnips today!"
 "008","(9촀\0There's a big, 
-\0ugly boat anchored
-up north all sly-like, n\0.\0\0('촀\0I don't trust it. 
-\0Be sure to keep your
-wits about you if you're thinking of
-goin' aboard, kiddo."
+\0ugly boat anchored
+up north all sly-like.
+\0 ('촀\0Best keep your
+wits about you, n\0."
 "009","(+촀\0I keep getting the feelin'
 \0 that
 there's somethin'
@@ -116,7 +114,7 @@ stars in the sky to you,
 \0 (&촀\0Is it just me,
 or are folks seemin' a mite on edge
 lately, n\0?\0\0(촀\0Like so-and-so sayin' they heard
-noises or saw something or being
+noises, or saw something, or were
 afraid of pickin' n촁 after dark.
 ('촀\0Everyone's all worked up about some
 kinda something they think's gonna
@@ -132,15 +130,20 @@ It's all a lot of hooey if you ask me!\0\0(%촀\0Today's just another mighty
 playin' tricks.
 \0 Gotta be.
 \0( (촀\0Gahaha!"
-"020","I hear \0Leif\0￿ has turned up at the
-plaza.
-\0(
-촀\0 Wonder what kinda rare
-greenery he'll have on paw?
-(%촀\0Guess I'll have to mosey over there
-and take a look-see. 
-\0((9촀\0Good reason as
-any to stretch my legs, n\0."
+"020","I hear \0Leif\0￿ turned up at the plaza.
+\0
+(촀\0Wonder what kinda greenery he'll
+have on paw, n\0?
+(%촀\0Guess I'll mosey over and take a
+look-see. 
+\0((9촀\0Good reason as any to
+stretch my legs."
+"021","()촀\0Seems a pirate's gotten washed up
+on our beach. 
+\0Gotta say, he looked
+mighty familiar too, n\0.\0\0(촀\0I don't recall ever knowing anyone of
+a 
+\0swashbucklin' persuasion thoughn"
 "100","(9촀\0Just saw someone I didn't recognize.
 \0
 Can't say

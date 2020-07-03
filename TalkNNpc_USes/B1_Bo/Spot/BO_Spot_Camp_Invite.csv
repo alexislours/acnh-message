@@ -29,16 +29,14 @@ así, lo sienton"
 "101_03","( 촀\0¡¿Eh?!
 \0 ¡¿Quieres que me mude
 aquí?!
-\0 (
-촀\0Sería genial, peron\0\0\0\0()촀\0Una familia de insectos acaba
+\0 (촀\0Sería genial, peron\0\0\0\0()촀\0Una familia de insectos acaba
 de mudarse a mi casan\0\0
 \0 No les
 puedo decir que se vayan.
 (촀\0De todos modos, gracias por
 invitarme.
 \0 "
-"201_01","(
-촀\0Mmmn\0\0
+"201_01","(촀\0Mmmn\0\0
 \0 Me gusta la idea pero
 tomar decisiones no es lo míon\0\0\0\0(촀\0¡Ya sé!
 \0 ¿Y si lo decidimos con un
@@ -47,8 +45,7 @@ juego, n\0?\0\0()촀\0Si ganas, me mudo aquí.
 (촀\0¿Te parece bien?"
 "201_01_a","¡Me parece bien!"
 "201_01_b","No lo creo..."
-"201_02","(
-촀\0Mmmn\0\0
+"201_02","(촀\0Mmmn\0\0
 \0 Suena bien, pero, así,
 de repenten\0\0\0\0(촀\0¡Tengo una idea!
 \0 ¡Dejemos que un
@@ -139,8 +136,7 @@ la \0oficina de gestión vecinal\0￿.
 ¡me mudo a tu isla!"
 "207_01_a","¡Juguemos!"
 "207_01_b","Mejor no"
-"207_02","(
-촀\0Mmmn\0\0
+"207_02","(촀\0Mmmn\0\0
 \0 Mudarse es algo muy
 complicado que da mucha hambre,
 \0
@@ -217,6 +213,16 @@ de mudarme, ¡así que ahí voy!"
 (촀\0¡y aceptó!\0\0()촀\0Parece que s촀 ya quería mudarse de todos modos.\0\0(9촀\0No le pregunté por quén\0\0 Qué tal si
 cambiaba de idea.\0\0(촀\0¡Lo que importa es que vamos a ser
 vecinos, n\0!"
+"309_01","(촀\0A que no imaginas lo que me pasón\0\0
+\0
+()촀\0Fui a casa de s촀
+\0 (촀\0y no había ni casa ni nada.\0\0()촀\0Mi radar de detective me hizo llegar
+a la conclusión(;촀\0 ¡de que se mudó!\0\0Qué maln\0\0
+\0 (촀\0¡Pero ahora yo me mudo
+a tu isla, n\0!\0\0Uy, pero tengo que presentarmen\0\0
+Yo soy n
+\0 y tú te llamas n\0, ¿verdad?\0\0(촀\0¡Pues considérame tu vecino
+de ahora en adelante, n\0!"
 "310","(&촀\0¿No sabes a quién le podría
 preguntar?"
 "310_a","¡Ya sé a quién!"
@@ -253,8 +259,7 @@ vecinos, n\0!\0\0(촀\0Y, por si no lo sabes ya, yo me llamo
 n
 \0.
 \0(촀\0 ¡Y la vamos a pasar genial, n\0!"
-"410","(
-촀\0¿Crees que debería preguntar
+"410","(촀\0¿Crees que debería preguntar
 otra vez?
 \0 (;촀\0A lo mejor ahora me dicen
 que ya puedo mudarmen"

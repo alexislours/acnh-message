@@ -1,8 +1,7 @@
 ﻿"label","text"
 "001","(촀\0Ultimamente mi sono dedicata anima
 e zampe alla pittura."
-"005","(
-촀\0Qualunque cosa succeda nella mia
+"005","(촀\0Qualunque cosa succeda nella mia
 vita,
 \0 (%촀\0mi basta un lungo bagno caldo
 \0
@@ -18,31 +17,67 @@ tempo libero al volontariato."
 "020","<"
 "020_01","(촀\0Oh! Avevo quasi dimenticato, n\0!
 \0 (촀\0Una rivista di moda ha pubblicato una mia foto! 
-\0
-Che bello!\0\0(
-촀\0Chissà cosa penseranno quelli che
+\0Che bello!\0\0(촀\0Chissà cosa penseranno quelli che
 mi conosconon\0\0
 \0(6촀\0 Oooh, credi che mi
 invidieranno?\0\0( 촀\0Oh!
 \0 Se ti chiedi dove puoi vederla,
 
 \0((\0촀\0èn\0\0 
-\0
-(2촀\0nell'ultima pagina della rivista gratuita della mia città."
+\0(2촀\0nell'ultima pagina della rivista gratuita della mia città."
 "020_02","(촀\0I miei amici dicono che mi sono
 trasferita sull'isola per sfuggire alla
 stressante vita moderna.
 (촀\0Si vocifera
-\0
- che volessi scappare da
+\0 che volessi scappare da
 tutti e da tutto 
-\0
-(촀\0per poter ritrovare il
+\0(촀\0per poter ritrovare il
 mio equilibrio interiore.
 (%촀\0È vero che la vita sull'isola è
 alquanto rigeneranten\0\0
 \0(촀\0 ma perché la
 gente deve parlare degli affari miei?"
+"021","(촀\0Oh, n\0! 
+\0Ti ho già raccontato di questo reality show che ho cominciato a guardare?"
+"022","<"
+"022_01","()촀\0Ci sono tre concorrenti,
+\0 che sono
+stati lasciati su un'isola in cui
+devono rifarsi una nuova vita.
+(촀\0Hanno con sé 2\0촀, 
+\02\0촁 
+\0e 2\0촂! 
+\0Nient'altro!\0\0Lasciamelo diren\0\0
+\0 (촀\0È impossibile
+staccarsi dallo schermo anche fra
+una puntata e l'altra, n\0!
+(촀\0Muoio dalla voglia di capire chi glielo
+fa fare.
+\0 Io non potrei mai lasciare
+così casa mia, 
+\0vicini impiccioni o no!"
+"022_02","()촀\0Parla della vita controversa
+e tumultuosa di una star di
+촀.
+('촀\0Onestamente, quella disciplina non
+mi ha mai interessata,
+\0(촀\0 ma la vita di
+questo personaggio è affascinante.
+(%촀\0Ho perfino pensato di mettermi a fare
+촀n\0\0
+\0(6촀\0 Peccato che sia allergica al sudore."
+"022_03","()촀\0Segue la vita di una giovane chef,
+
+\0però già molto esperta,
+\0 i cui piatti
+molto originali sono amati da tutti.
+Pensa che nell'ultimo episodio 
+\0(촀\0ha preparato 촀 e 촁! 
+\0Da non credersi!\0\0(촀\0A prima vista quel piatto aveva un
+aspetto orribile, 
+\0(촀\0ma alla fine i giudici
+l'hanno adorato!
+(촀\0E adesso ho voglia di mangiare 촀 e 촁 ogni giorno!"
 "101","<"
 "101_01","(촀\0Dipingo a tutte le ore e in qualunque
 posto.
@@ -131,8 +166,7 @@ gentile e caloroso."
 \0
 ($촀\0""Buonasera!""\0\0(\0촀\0Parlare a un amico con sicurezza e
 positività
-\0(촀\0 può rinsaldare l'amicizia.\0\0(
-촀\0È come se un saluto fosse una
+\0(촀\0 può rinsaldare l'amicizia.\0\0(촀\0È come se un saluto fosse una
 specie di parola magican"
 "104_03","(%촀\0Ogni giorno può portare con sé
 qualcosa di diverso,

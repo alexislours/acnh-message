@@ -13,8 +13,7 @@ ungelösten Rätseln..."
 \0 Hast
 du dich schon gefragt, warum dein
 Spiegelbild seitenverkehrt ist?
-(
-촀\0Genauso gut könnte es doch auch
+(촀\0Genauso gut könnte es doch auch
 auf dem Kopf stehen!\0\0(촀\0Oh...
 \0(9촀\0 Vielleicht ist ja mein Spiegelbild
 genauso unsportlich wie ich?
@@ -30,8 +29,7 @@ tropisch istn\0\0\0\0(촀\0So schön mit Strandbar...
 
 \0Und Bootsausflügen! 
 \0Ich will aaauch!"
-"010","(
-촀\0Warum zum Beispiel ist Wasser
+"010","(촀\0Warum zum Beispiel ist Wasser
 durchsichtig? 
 \0Alles andere hat
 Farben. 
@@ -45,8 +43,7 @@ einfach nur die Farbe ausgegangen?
 \0
 Ich hab einen riesigen Kasten mit
 Wasserfarben unter meinem Bett!"
-"011","(
-촀\0Ich denke gerade an eine
+"011","(촀\0Ich denke gerade an eine
 Geschichte, die meine Oma mir
 immer erzählte.
 \0
@@ -63,8 +60,7 @@ Hmmmn\0\0 Ähn"
 \0Gut, dass du da bist! 
 \0Ich zerbrech mir schon 'ne Weile den Kopf über eine Sachen"
 "016","<"
-"017","(
-촀\0Haben Fische eigentlich Ohren?\0\0(9촀\0Ich hatte mal einen Goldfisch, dem
+"017","(촀\0Haben Fische eigentlich Ohren?\0\0(9촀\0Ich hatte mal einen Goldfisch, dem
 hab ich immer Liedchen vorgeträllert.
 \0
 War das etwa alles für die Katz?
@@ -72,8 +68,7 @@ War das etwa alles für die Katz?
 praktischer, keine Ohren zu haben.
 \0(촀\0
 Wasser im Ohr ist nämlich echt eklig!"
-"018","(
-촀\0Wie lang muss ich wohl mit meinen
+"018","(촀\0Wie lang muss ich wohl mit meinen
 Socken über den Teppich schlurfen,
 um mein Spielzeugauto aufzuladen?
 ()촀\0Weißt du, 
@@ -89,8 +84,7 @@ einzusetzen, 
 nichts gebracht...
 \0(촀\0 Außer, dass mir
 sämtliche Haare zu Berge stehen!"
-"019","(
-촀\0Wieso hat ein Kaktus eigentlich
+"019","(촀\0Wieso hat ein Kaktus eigentlich
 Stacheln?\0\0(9촀\0Mag er denn keine Freunde haben?
 
 \0(촀\0Kann er Ballons nicht ausstehen?
@@ -129,6 +123,80 @@ nicht einfach reinplatzen und rufen...
 
 \0(촀\0Dann halten die Leute mich
 doch für total verrückt!"
+"025","(""촀\0Ich entwerfe jetzt neue Methoden,
+\0
+um andere Leute auf der Insel zu
+begrüßenn"
+"026","<"
+"026_01","(9촀\0Wie wär's mit einer Begrüßung aus
+großer Distanz
+\0 mit höflicher,
+\0 aber
+TOTAL LAUTER Stimme?
+\0( (!촀\0HUHUUU!"
+"026_02","()촀\0Man könnte zum Beispiel leiser
+sprechen.
+\0 Darin bin ich sogar ein
+Experte,
+\0 pass mal auf!
+(:촀\0Los geht'sn\0\0
+\0(
+(촀\0„HALLÖCHEN!
+\0 ICH BIN'S,
+\0 n
+\0!""\0\0(2촀\0\0KHuch!
+\0 Oh neinn\0\0\0d\0\0(촀\0Tut mir leidn\0\0
+\0 Ich war etwas nervös,
+\0
+da gehen die Stimmbänder immer mit
+mir durch,
+\0 n\0."
+"026_03","(촀\0Ich könnte doch zur Begrüßung eine
+Frage beantworten,
+\0 die die andere
+Person noch gar nicht gestellt hat.\0\0(1촀\0Ich dann so:
+\0 „Meine Leibspeise?
+\0
+촀!“
+\0( Das könnte die andere Person allerdings verwirren...\0\0(6촀\0Na ja,
+\0 macht nix!
+\0 (!촀\0Danach essen wir
+einfach zusammen ganz viel 촀
+\0 und alles ist gut!"
+"027","<
+"
+"028","
+\0(!촀\0
+\0\0GUTEN MORGEN!\0d
+\02\0
+\0d(#촀\0\0ICH BIN'S,
+\0 n
+\0!\0d\0\0(촀\0Tut mir leid,
+\0 morgens bin ich immer
+im Megafonmodus.
+\0 Ich werd erst
+nach dem zweiten Nickerchen leiser."
+"029","
+\0(!촀\0
+\0\0Hallihallöchen! 
+\0Ich bin's,
+\0
+n
+\0!\0d\0\0(촀\0Ich hoffe,
+\0 das hat dich nicht schläfrig
+gemacht.
+\0 Ich arbeite nämlich gerade
+an meiner Märchenonkelstimme!"
+"030","
+\0(!촀\0\0Eine gute Nacht wünscht dir n
+\0!\0d
+\02\0\0(촀\0Huch,
+\0 das war etwas lautn\0\0
+\0 Aber ich
+geh eh noch nicht ins Bett.
+\0 (!촀\0Ich dreh
+jetzt erst richtig auf,
+\0 n\0!"
 "101","<"
 "101_01","(5촀\0Wenn ich Kekse esse, trinke ich
 jetzt Kaffee dazu. 
@@ -140,8 +208,7 @@ absolut 
 \0nieß
 \0bar!
 \0
-(;촀\0Er schmeckt viel zu würzig!\0\0(
-촀\0Vielleicht benutz ich zu viel Matsch..."
+(;촀\0Er schmeckt viel zu würzig!\0\0(촀\0Vielleicht benutz ich zu viel Matsch..."
 "101_02","(5촀\0Erwachsene essen doch gern ganz
 scharfe Sachen. 
 \0Ich ja nicht, 

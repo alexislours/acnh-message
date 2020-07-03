@@ -171,7 +171,7 @@ mijn geheime nummer gekomen?
 superfan niet weigeren.
 \0 Ga zitten,
 \0
-hier is }\0\0n"
+hier is ""\0}\0\0\0￿""."
 "031","-촀\0Jij bent goed op de hoogte
 \0, pientere
 vogel.
@@ -181,7 +181,8 @@ mijn geheime nummer gekomen?
 \0 jullie zijn getuige van
 iets bijzonders.
 \0 Ga zitten allemaal,
-\0 hier is }\0\0."
+\0
+hier is ""\0}\0\0\0￿""."
 "032","Vertel eens, 
 \0-촀\0wat is de stemming
 in de n\0-dimensie?"
@@ -305,7 +306,7 @@ verzoeknummers, -촀\0dus kom dan
 nog maar eens terug."
 "082","Ik hoef niet veel.
 \0 Een kruk om op te
-zitten, een lied om te spelen,
+zitten, een lied om te spelen
 \0-촀\0 en wat
 lui die naar me luisteren."
 "083","-촀\0Hé, 

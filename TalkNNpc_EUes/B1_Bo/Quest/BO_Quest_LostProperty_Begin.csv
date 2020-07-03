@@ -1,7 +1,6 @@
 ﻿"label","text"
 "001","Oye, n\0,
-\0 (&촀\0¿no habrás visto por ahí mi bolsa de la compra?\0\0(
-촀\0Es que no la encuentro y creo que la
+\0 (&촀\0¿no habrás visto por ahí mi bolsa de la compra?\0\0(촀\0Es que no la encuentro y creo que la
 he debido de perder en algún sition"
 "001_a","(\0촀\0¿Te la busco?"
 "001_b","No..."
@@ -18,8 +17,7 @@ si alguien mira lo que hay dentro!
 (촀\0¡Tengo que encontrarla!"
 "003_a","(\0촀\0¿Te ayudo?"
 "003_b","(\0촀\0Jo, qué pena..."
-"004","(
-촀\0He perdido la bolsa donde guardo
+"004","(촀\0He perdido la bolsa donde guardo
 mis tesoros.\0\0(촀\0He buscado por todos los rincones
 de la casa y no hay forma de
 encontrarlan\0\0
@@ -34,8 +32,7 @@ encontrarlan\0\0
 (8촀\0¿Dónde la habré puesto?"
 "006_a","(\0촀\0Yo te ayudo"
 "006_b","(\0촀\0Ya aparecerá"
-"007","(
-촀\0No encuentro mi novela gráfica
+"007","(촀\0No encuentro mi novela gráfica
 favorita
 \0 y ya estoy empezando
 a preocuparme, la verdadn\0\0
@@ -171,8 +168,7 @@ ayudarme a buscarlo?"
 "202","(촀\0¿Dónde podrá estar el cuaderno
 donde anoto las ideas para historias
 que se me ocurren?
-(
-촀\0Ayer lo llevaba encima cuando
+(촀\0Ayer lo llevaba encima cuando
 salí de paseon\0\0
 \0 (촀\0¿Me lo habré
 dejado por ahí a la intemperie?"

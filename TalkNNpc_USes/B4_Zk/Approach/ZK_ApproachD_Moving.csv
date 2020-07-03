@@ -1,6 +1,5 @@
 ﻿"label","text"
-"001","(
-촀\0No sé,
+"001","(촀\0No sé,
 \0 no sén\0\0\0\0(촀\0Ah, n\0.
 \0 ('촀\0Perdona,
 \0 es que justo estaba meditando sobre
@@ -24,12 +23,8 @@ y encontrar otro lugar para vivir?
 "002_a","¡No puedes irte!"
 "002_b","Si te hace feliz..."
 "003","(&촀\0Me gustaría preguntarte algo,
-\0
-n\0.
-\0 ¿Qué habrá más
-allá del mar que nos rodea?
-(
-촀\0Nunca me había puesto a pensarlo,
+\0 n\0.
+\0 ¿Qué habrá más allá del mar que nos rodea?\0\0(촀\0Nunca me había puesto a pensarlo,
 \0
 pero ahora siento que necesito
 averiguarlo.\0\0(5촀\0¿Y si me fuera de n\0
@@ -71,8 +66,7 @@ tendrá que esperarn"
 entonces.
 \0 ¡La decisión está tomada!\0\0(촀\0Siempre tendrás reservado un lugar
 exclusivo en mis recuerdos,
-\0
-n\0.\0\0(5촀\0Ahora ha llegado el momento de
+\0 n\0.\0\0(5촀\0Ahora ha llegado el momento de
 que el célebre n
 \0
 se marche a otras tierras."

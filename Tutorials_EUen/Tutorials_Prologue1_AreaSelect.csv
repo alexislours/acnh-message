@@ -8,9 +8,7 @@ Where do you live now?(&촃\0d\0
 "002","( 촂\0( 촃\0Oh! 
 \0Ha ha! 
 \0(촀\0Seems like a lot of folks
-live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
-촂\0Let's see if we can narrow it down.(
-촃"
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(촂\0Let's see if we can narrow it down.(촃"
 "002_a","Asia."
 "002_b","North America."
 "002_c","Europe."
@@ -39,9 +37,7 @@ Where do you live now?(&촃\0d\0
 "012","( 촂\0( 촃\0Oh! 
 \0Ha ha! 
 \0(촀\0Seems like a lot of folks
-live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
-촂\0Let's see if we can narrow it down.(
-촃"
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(촂\0Let's see if we can narrow it down.(촃"
 "012_a","Asia."
 "012_b","Europe."
 "012_c","Elsewhere."
@@ -69,9 +65,7 @@ Where do you live now?(&촃\0d\0
 "022","( 촂\0( 촃\0Oh! 
 \0Ha ha! 
 \0(촀\0Seems like a lot of folks
-live ""elsewhere.""\0\0(\0촂\0(\0촃\0(
-촂\0Let's see if we can narrow it down.(
-촃"
+live ""elsewhere.""\0\0(\0촂\0(\0촃\0(촂\0Let's see if we can narrow it down.(촃"
 "022_a","Asia."
 "022_b","North America."
 "022_c","Elsewhere."
@@ -131,8 +125,7 @@ island for you."
 "111","()촀\0So, naturallyn\0\0we'd recommend that
 you relocate to an island in the
 \0northern hemisphere\0￿.
-(
-촀\0There are a few more decisions to
+(촀\0There are a few more decisions to
 make, 
 \0(&촂\0but does that sound OK
 to you so far?(&촃\0d\0
@@ -143,8 +136,7 @@ to you so far?(&촃\0d\0
 "112","()촀\0So, naturallyn\0\0we'd recommend that
 you relocate to an island in the
 \0northern hemisphere\0￿.
-(
-촀\0There are a few more decisions to
+(촀\0There are a few more decisions to
 make, 
 \0(&촂\0but does that sound OK
 to you so far?(&촃\0d\0
@@ -155,8 +147,7 @@ to you so far?(&촃\0d\0
 "113","()촀\0So, naturallyn\0\0we'd recommend that
 you relocate to an island in the
 \0northern hemisphere\0￿.
-(
-촀\0There are a few more decisions to
+(촀\0There are a few more decisions to
 make, 
 \0(&촂\0but does that sound OK
 to you so far?(&촃\0d\0
@@ -167,8 +158,7 @@ to you so far?(&촃\0d\0
 "114","()촀\0So, naturallyn\0\0we'd recommend that
 you relocate to an island in the
 \0northern hemisphere\0￿.
-(
-촀\0There are a few more decisions to
+(촀\0There are a few more decisions to
 make, 
 \0(&촂\0but does that sound OK
 to you so far?(&촃\0d\0
@@ -176,10 +166,8 @@ to you so far?(&촃\0d\0
 "114_a","OK!"
 "114_b","Southern hemisphere!"
 "114_c","I'm not sure..."
-"115","(
-촂\0
-\0(
-촃\0Yes, yesn\0\0 South America is a large
+"115","(촂\0
+\0(촃\0Yes, yesn\0\0 South America is a large
 and wonderful place.
 \0(촀\0 I believe it has
 some parts in both hemispheres!
@@ -194,8 +182,7 @@ you'd prefer an island there.
 "116","()촀\0So, naturallyn\0\0we'd recommend that
 you relocate to an island in the
 \0southern hemisphere\0￿.
-(
-촀\0There are a few more decisions to
+(촀\0There are a few more decisions to
 make, 
 \0(&촂\0but does that sound OK
 to you so far?(&촃\0d\0
@@ -203,9 +190,7 @@ to you so far?(&촃\0d\0
 "116_a","OK!"
 "116_b","Northern hemisphere!"
 "116_c","I'm not sure..."
-"117","(
-촂\0(
-촃\0Yes, yesn\0\0 Africa is a large and
+"117","(촂\0(촃\0Yes, yesn\0\0 Africa is a large and
 wonderful place.
 \0(촀\0 I believe it has
 some parts in both hemispheres!
@@ -284,8 +269,7 @@ and summer in the northern."
 hemispheres is exactly opposite!\0\0(촀\0But no matter where you live, you
 can experience all the seasons and
 the wonders they bring.(촀"
-"311","(
-촀\0So let me ask againn\0\0
+"311","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0northern
 hemisphere\0￿, where it's now spring?
@@ -295,8 +279,7 @@ hemisphere\0￿, where it's fall?d\0
 "311_a","Northern hemisphere!"
 "311_b","Southern hemisphere!"
 "311_c","Explain that all again!"
-"312","(
-촀\0So let me ask againn\0\0
+"312","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0northern
 hemisphere\0￿, where it's now summer?
@@ -307,8 +290,7 @@ hemisphere\0￿, where it's winter?d\0
 "312_a","Northern hemisphere!"
 "312_b","Southern hemisphere!"
 "312_c","Explain that all again!"
-"313","(
-촀\0So let me ask againn\0\0
+"313","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0northern
 hemisphere\0￿, where it's now fall?
@@ -319,8 +301,7 @@ hemisphere\0￿, where it's spring?d\0
 "313_a","Northern hemisphere!"
 "313_b","Southern hemisphere!"
 "313_c","Explain that all again!"
-"314","(
-촀\0So let me ask againn\0\0
+"314","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0northern
 hemisphere\0￿, where it's now winter?
@@ -331,8 +312,7 @@ hemisphere\0￿, where it's summer?d\0
 "314_a","Northern hemisphere!"
 "314_b","Southern hemisphere!"
 "314_c","Explain that all again!"
-"315","(
-촀\0So let me ask againn\0\0
+"315","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0southern
 hemisphere\0￿, where it's now spring?
@@ -342,8 +322,7 @@ hemisphere\0￿, where it's fall?d\0
 "315_a","Southern hemisphere!"
 "315_b","Northern hemisphere!"
 "315_c","Explain that all again!"
-"316","(
-촀\0So let me ask againn\0\0
+"316","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0southern
 hemisphere\0￿, where it's now summer?
@@ -354,8 +333,7 @@ hemisphere\0￿, where it's winter?d\0
 "316_a","Southern hemisphere!"
 "316_b","Northern hemisphere!"
 "316_c","Explain that all again!"
-"317","(
-촀\0So let me ask againn\0\0
+"317","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0southern
 hemisphere\0￿, where it's now fall?
@@ -366,8 +344,7 @@ hemisphere\0￿, where it's spring?d\0
 "317_a","Southern hemisphere!"
 "317_b","Northern hemisphere!"
 "317_c","Explain that all again!"
-"318","(
-촀\0So let me ask againn\0\0
+"318","(촀\0So let me ask againn\0\0
 \0 ($촀\0Would you like
 to move to an island in the \0southern
 hemisphere\0￿, where it's now winter?

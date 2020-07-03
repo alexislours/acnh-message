@@ -6,8 +6,7 @@ importa que te interrogue?"
 "002","(촀\0Me gusta ser amigo de mis vecinos:
 \0
 ($촀\0¡quiero saberlo todo de todos!"
-"003","(
-촀\0A ver
+"003","(촀\0A ver
 \0, a vern\0\0 ¿Qué podría
 preguntar?"
 "010_01","(촀\0Decías que 2""tutu\0tustus\0 촀 2Rfavoritofavorita\0favoritosfavoritas\0 2*eraera\0eraneran\0 2\0촀,
@@ -39,37 +38,32 @@ da 2,esesessonsonson 촀?\0\0($촀\0¿Aún es tu fuerte?"
 "010_101","(촀\0Oye, n\0,
 \0 ¿recuerdas lo que me dijiste el otro día sobre 2""tutu\0tustus\0 촀 favorit2oa\0osas\0?\0\0()촀\0Me dijiste esto:
 \0
-«
-촀»n\0\0\0\0(&촀\0¿Aún son así las cosas?"
+«촀»n\0\0\0\0(&촀\0¿Aún son así las cosas?"
 "010_101_a","(%촀\0¡Aún son así!"
 "010_101_b","('촀\0Ya no..."
 "010_102","(촀\0Oye, n\0,
 \0 ¿te acuerdas de lo que me contaste el otro día?\0\0()촀\0Que lo que te chifla en cuanto
 a 촀 es esto:
 \0
-«
-촀»n\0\0
+«촀»n\0\0
 (&촀\0¿Todavía tienes esos gustos?"
 "010_102_a","(%촀\0¡Todavía!"
 "010_102_b","('촀\0Pues ya no..."
 "010_103","(촀\0Una cosita, n\0n\0\0\0\0¿Te acuerdas de que me dijiste
 que tu trabajo ideal es esto:
 \0
-«
-촀»?
+«촀»?
 ($촀\0¿Aún piensas así?"
 "010_103_a","(%촀\0¡Aún, aún!"
 "010_103_b","('촀\0No..."
 "010_104","(촀\0Oye, n\0,
 \0 ¿recuerdas que sobre tu afición me dijiste esto:
-\0 «
-촀»?\0\0($촀\0¿Es eso lo que te gusta aún,
+\0 «촀»?\0\0($촀\0¿Es eso lo que te gusta aún,
 n\0?"
 "010_104_a","(%촀\0¡Efectivamente!"
 "010_104_b","('촀\0Ya no..."
 "010_105","(촀\0Oye, n\0,
-\0 ¿te acuerdas lo que me dijiste el otro día sobre lo que se te da bien?\0\0()촀\0«2\0
-촀».
+\0 ¿te acuerdas lo que me dijiste el otro día sobre lo que se te da bien?\0\0()촀\0«2\0촀».
 \0
 ($촀\0No has perdido práctica, ¿verdad?"
 "010_105_a","(%촀\0Ni un poquito"
@@ -154,31 +148,26 @@ es 촀?"
 \0 ¿es verdad que, en cuestión de
 촀,
 \0 2tu favorito estu favorita es\0""tus favoritos son""tus favoritas son\0:
-\0 (&촀\0«⁠⁠⁠
-촀⁠»?"
+\0 (&촀\0«⁠⁠⁠촀⁠»?"
 "030_101_a","(%촀\0¡Ya te digo!"
 "030_101_b","('촀\0Va a ser que no..."
 "030_102","($촀\0Así que tu 촀
 favorita es lo siguiente:
-«
-촀»n"
+«촀»n"
 "030_102_a","(%촀\0Pues sí"
 "030_102_b","('촀\0Pues no..."
 "030_103","($촀\0El otro día me enteré de que
 tu sueño era ser esto:
-«
-촀».\0\0(&촀\0¿Es verdad?
+«촀».\0\0(&촀\0¿Es verdad?
 ¿De verdad de la buena?"
 "030_103_a","(%촀\0¡De la buena!"
 "030_103_b","('촀\0Pues no..."
 "030_104","($촀\0Dicen por ahí que, al preguntarte
 por tu afición, contestaste:
-«
-촀».\0\0¿Me lo confirmas?"
+«촀».\0\0¿Me lo confirmas?"
 "030_104_a","(%촀\0¡Te lo confirmo!"
 "030_104_b","('촀\0No te lo confirmo..."
-"030_105","($촀\0¿«2\0
-촀»?
+"030_105","($촀\0¿«2\0촀»?
 \0
 ¿Me confirmas que eso es lo
 que mejor se te da? "
@@ -204,28 +193,23 @@ sobre el tema."
 \0 Un día de estos hablamos
 de lo divertido que es 촀, ¿de acuerdo?"
 "031_05","(촀\0¡2\0촀 2""eses\0sonson\0 chachi!"
-"031_101","(촀\0¡¿«2\0
-촀»?!
+"031_101","(촀\0¡¿«2\0촀»?!
 \0
 (촀\0¡A mí eso también me chifla!\0\0(촀\0Un día de estos podíamos quedar
 para hablar del tema que nos mola,
 ¿vale?"
-"031_102","(촀\0¿«2\0
-촀»?
+"031_102","(촀\0¿«2\0촀»?
 \0 (%촀\0No hay nada mejor,
 \0 ya lo sé yo bien."
-"031_103","(촀\0«2\0
-촀»n\0\0
+"031_103","(촀\0«2\0촀»n\0\0
 \0
 ¡Me encanta!\0\0(%촀\0Otro día nos vemos para hablar
 más del tema, ¿vale?"
-"031_104","(촀\0¡«2\0
-촀»!
+"031_104","(촀\0¡«2\0촀»!
 \0
 ¡Estupendo! A ver si un día hablamos
 del tema tú y yo, ¿vale?"
-"031_105","(촀\0¿«2\0
-촀»?
+"031_105","(촀\0¿«2\0촀»?
 \0
 ¡Qué guay!
 \0 Un día me cuentas
@@ -243,8 +227,7 @@ aún me quedan por descubrirn\0\0
 (""촀\0¡Me tienes que contar todito todo
 sobre 2\0촀
 un día de estos!"
-"032_03","(
-촀\0Conque 촀n\0\0
+"032_03","(촀\0Conque 촀n\0\0
 \0
 (%촀\0Pues te pega bastante,
 n\0.
@@ -258,41 +241,35 @@ cantidad, n\0.
 (촀\0¡Cuando tengas un rato, ya me
 cuentas por qué te parece
 tan interesante, n\0!"
-"032_05","(
-촀\0¿2\0촀, dices?
+"032_05","(촀\0¿2\0촀, dices?
 \0
 (%촀\0La verdad es que me lo esperaba,
 n\0.
 (촀\0Un día de estos a ver si me cuentas
 por qué te gust2aa\0anan\0 tanto
 촀."
-"032_101","(%촀\0¿«2\0
-촀»?\0\0(촀\0Pues la verdad es que no sé mucho
+"032_101","(%촀\0¿«2\0촀»?\0\0(촀\0Pues la verdad es que no sé mucho
 sobre eso,
 \0 ¡pero a ver si un día
 de estos me lo cuentas todo!"
-"032_102","(&촀\0¿«2\0
-촀»?
+"032_102","(&촀\0¿«2\0촀»?
 \0
 (촀\0Gustándote a ti, seguro que es
 una auténtica delicia.
 (""촀\0¡Tenemos que encontrar un ratito
 para que me cuentes cosas
 sobre eso!"
-"032_103","(%촀\0Ah, «
-촀»n\0\0\0\0(촀\0¡Hay mogollón de cosas
+"032_103","(%촀\0Ah, «촀»n\0\0\0\0(촀\0¡Hay mogollón de cosas
 que se puede hacer en la vida
 de las que no sé nada de nada!
 (촀\0Por eso un día de estos tienes
 que contarme cómo se consigue eso,
 ¿vale?"
-"032_104","¿«2\0
-촀»?
+"032_104","¿«2\0촀»?
 \0
 (%촀\0Ya me cuentas, porque de eso quiero
 saberlo todo, n\0."
-"032_105","(1촀\0«2\0
-촀»n\0\0
+"032_105","(1촀\0«2\0촀»n\0\0
 \0
 (%촀\0¡Seguro que es superinteresante!\0\0(촀\0A ver si encontramos tiempo para
 que me hables de algo tan chachi
@@ -371,8 +348,7 @@ he preguntado por curiosidad.
 \0 (7촀\0Vayan\0\0
 \0 a lo mejor
 no lo oí bien."
-"051","(&촀\0¿«2\0
-촀»?"
+"051","(&촀\0¿«2\0촀»?"
 "051_a","Sí"
 "051_b","No"
 "052","¿Ah, no?
@@ -391,16 +367,13 @@ lo de 촀?"
 "060_101","(촀\0¡Así que efectivamente
 eso es lo que te gusta,
 \0
-«
-촀»!"
+«촀»!"
 "060_102","(촀\0¡Así que de verdad de la buena
 es eso lo que te gusta!"
-"060_103","(촀\0¡«2\0
-촀»!
+"060_103","(촀\0¡«2\0촀»!
 \0
 (촀\0Así que lo mismo de antes, ¿no? "
-"060_104","(&촀\0¿«2\0
-촀»?
+"060_104","(&촀\0¿«2\0촀»?
 \0
 (촀\0Así que aún disfrutas de lo mismo,
 ¿verdad? "
@@ -720,8 +693,7 @@ la ponen solo una vez a la semanan\0\0
 para sugerirles que la pongan todos
 los días y a todas horas!"
 "103_06","(%촀\0El tenis de mesan\0\0
-\0 (
-촀\0Ese es un deporte
+\0 (촀\0Ese es un deporte
 que es mucho más difícil de lo que
 parece.
 (촀\0¡Lo que marea intentar seguir
@@ -796,8 +768,7 @@ de cocina que teníamos en casa!"
 A veces pienso en entrenar para
 ser guerrero.
 (5촀\0¡Sería n
-\0, el Guerrero, y viajaría montado en un dragón con un gnomo!\0\0(
-촀\0Aunque me da a mí que los gnomos
+\0, el Guerrero, y viajaría montado en un dragón con un gnomo!\0\0(촀\0Aunque me da a mí que los gnomos
 son bastante glotones y a lo mejor
 se zampaba mis chuchesn\0\0
 (촀\0¡Mejor, con un elfo!"
@@ -940,76 +911,60 @@ tu amigo y fan número uno!
 \0
 o después de que me hayas dado
 a probar alguna de tus delicias!"
-"106_01","(
-촀\0¿«2\0
-촀»?
+"106_01","(촀\0¿«2\0촀»?
 \0 (촀\0¡Mola!
 \0 ¡Ya sé algo nuevo sobre ti, n\0!"
-"106_02","(
-촀\0«2\0
-촀»n\0\0
+"106_02","(촀\0«2\0촀»n\0\0
 \0
-(%촀\0«
-촀»n\0\0
+(%촀\0«촀»n\0\0
 \0
 (촀\0¡Pues estupendo!
 (촀\0Ahora ya tengo para añadir a la pila
 de las lecturas pendientes,
 n\0."
-"106_03","(촀\0«2\0
-촀», ¿eh?
+"106_03","(촀\0«2\0촀», ¿eh?
 \0
 (%촀\0Pues suena interesante.\0\0(촀\0Me leo algo de eso y ya charlamos,
 ¿vale?"
-"106_04","(%촀\0«2\0
-촀»n\0\0
+"106_04","(%촀\0«2\0촀»n\0\0
 \0
-«
-촀»n\0\0
+«촀»n\0\0
 \0
 (촀\0¡Pues voy a ver algo de eso!
 ()촀\0Unas palomitas, un buen zumito
 de 촀n\0\0
 \0 (촀\0¡y a disfrutar!"
-"106_05","¿«2\0
-촀»?
+"106_05","¿«2\0촀»?
 \0 (촀\0Pues ni idean\0\0 ¡y eso que yo, de tele, lo sé todo, n\0!\0\0(""촀\0Aunque,
 \0 si esto es lo que a ti
 te gusta,
 \0 ¡seguro que merece la pena
 ponerlo en la lista de favoritos!"
-"106_06","(%촀\0¡«2\0
-촀»!
+"106_06","(%촀\0¡«2\0촀»!
 \0 ¡Eso sí que mola pero un montonazo!\0\0()촀\0Lo mejor de todo es que,
 \0 como en
 todos los deportes, uno puede pillar
 unas chuches, sentarsen\0\0
 \0 (촀\0¡y animar!"
-"106_07","(촀\0¡«2\0
-촀»!
+"106_07","(촀\0¡«2\0촀»!
 \0
 (""촀\0Si es que tenía toda la pinta de que
 algo así iba a ser de tu gusto.
 ()촀\0Eres 2ella gourmet de las bebidas.
 \0
 (촀\0¡2,El expertoLa experta de los líquidos!"
-"106_08","Ah, «
-촀»n\0\0
+"106_08","Ah, «촀»n\0\0
 \0 (촀\0Solo oírlo hace que me rujan las tripas.\0\0(%촀\0Ya decía yo que a ti te gustaría
 alguna delicia gastronómica,
 n\0n"
-"106_09","¡«2\0
-촀»!
+"106_09","¡«2\0촀»!
 \0 (촀\0¡Ese sueño es de ensueño!\0\0(%촀\0Seguro que lo consigues.
 \0
 (촀\0¡Yo te estaré animando, n\0!"
-"106_10","¿«2\0
-촀»?
-\0 (
-촀\0Pues nunca lo había pensadon\0\0
+"106_10","¿«2\0촀»?
+\0 (촀\0Pues nunca lo había pensadon\0\0
 \0 (촀\0¡y suena la mar de interesante!"
-"106_11","¿«2\0
-촀»?
+"106_11","¿«2\0촀»?
 \0 (촀\0Ya verás lo popular que vas a ser cuando la gente se entere."
 "107_01","Pues estupendo.
 \0 (촀\0Musical o no,

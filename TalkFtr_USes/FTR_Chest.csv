@@ -18,11 +18,11 @@ No me resiston"
 Mis cosas no están aquí adentro."
 "008","¿Me cambio de ropa?"
 "008_a","Cambiarme"
-"008_b","Nada"
+"008_b","Mejor no"
 "009","¿Me cambio de ropa?"
 "009_a","Cambiarme"
 "009_b","Conjuntos de varita"
-"009_c","Nada"
+"009_c","Mejor no"
 "010","Je, je,
 \0 tiene un conjunto llamado
 \0s촀\0￿."
@@ -43,3 +43,7 @@ cuando termine de usar la aplicación
 "018","Podré cambiarme de ropa cuando
 termine de usar la aplicación
 \0Obras públicas\0￿."
+"019","Podré cambiarme de ropa cuando
+me quite el traje de buceo."
+"020","Podré cambiar los conjuntos cuando
+me quite el traje de buceo."

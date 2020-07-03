@@ -3,8 +3,7 @@
 \0Dici sul serio? 
 \0Non mi stai
 
-\0prendendo in giro?\0\0(
-촀\0Ma soprattutto, 
+\0prendendo in giro?\0\0(촀\0Ma soprattutto, 
 \0ero seria io, quando
 ho considerato l'idea di stabilirmi
 qui?
@@ -27,8 +26,7 @@ l'idea di vivere qui. 
 \0Dici sul serio? 
 \0Non mi stai
 
-\0prendendo in giro?\0\0(
-촀\0Ma soprattutto, 
+\0prendendo in giro?\0\0(촀\0Ma soprattutto, 
 \0ero seria io, quando
 ho considerato l'idea di stabilirmi
 qui?
@@ -81,8 +79,7 @@ Se vinci, mi trasferisco qui. 
 \0dovrei trasferirmi qui?
 \0
 È davvero questo che intendi?
-\0( (
-촀\0Oh!
+\0( (촀\0Oh!
 
 \0L'idea non è 
 \0malaccio. 
@@ -131,10 +128,7 @@ en\0\0 (4촀\0giocare un po' con te non mi
 sarebbe dispiaciuto.
 \0 Fa niente."
 "203_01","(촀\0Bene! 
-\0Guarda, è molto semplice.
-\0(
-Devo solo mescolare velocemente
-le carte che ho quin"
+\0Cominciamo, allora!"
 "204","<"
 "204_01","(7촀\0Bene, ho vinto io.
 \0 Il destino ci ha
@@ -182,8 +176,7 @@ questo.
 non ti preoccupare.
 \0( (촀\0Preparati,
 n	\0:
-\0 sto arrivando!\0\0(
-촀\0Vediamon\0\0 Mi sa che devo firmare
+\0 sto arrivando!\0\0(촀\0Vediamon\0\0 Mi sa che devo firmare
 un po' di robaccia burocratica prima,
 
 \0quindi farò un salto al \0centro servizi\0￿.\0\0($촀\0Vado e torno, n\0!"
@@ -274,7 +267,8 @@ di scambiarsi con me?"
 \0 Ti stanno a cuore tutti
 gli abitanti dell'isola.
 \0( (%촀\0Va bene. 
-\0Non voglio mica renderti infelice."
+\0Non
+voglio mica renderti infelice."
 "304","(촀\0Grande! 
 \0Allora, il \0centro servizi \0￿mi
 ha dato alcuni nomi di abitanti a cui
@@ -319,6 +313,19 @@ vedeva l'ora di fare a cambio.(촀\0
 \0Avevo dimenticato le presentazioni.\0\0(%촀\0Tu invece ti chiamin\0\0 n\0!
 \0 Capito.
 \0( (촀\0Ora posso dire di conoscerti."
+"309_01","(촀\0Non crederai mai a quello che sto
+per dirti.
+\0 (촀\0Non ho trovato niente!
+\0
+Niente mobili, niente di niente!(촀\0\0\0Deve essere il mio giorno fortunato!
+\0
+(촀\0Spero che quest'isola si prepari ad
+accogliere la dura più dura che c'è!\0\0( 촀\0Oh, 
+\0non mi sono ancora presentata.
+
+\0(""촀\0Mi chiamo n
+\0. 
+\0E tu sei⁠n\0\0 n\0, giusto?\0\0(\0촀\0Beh, (촀\0ci si vede in giro, n\0!"
 "310","(4촀\0Alloran\0\0
 \0 ci stai ripensando
 \0 o non
@@ -358,8 +365,7 @@ posto 2\0 n	\0! \0\0(촀\0Come fa a essere piena quest'isola?
 \0
 Quindi, quando si va in piazza non
 ci si può neanche muovere?\0\0(촀\0È troppo per me!
-\0 Se davvero n	\0 è così piena,
-
+\0 Se davvero n	\0 è così piena, 
 \0('촀\0non ho più nessun interesse."
 "405","(9촀\0Dunque,
 \0 ho appena parlato con il
@@ -390,8 +396,7 @@ una gran festa, n\0!\0\0(촀\0Verrai anche tu?
 \0( (촀\0Gah ah ah!
 \0 Questo
 posto non sarà più lo stesso!"
-"410","(
-촀\0Peròn\0\0 forse non ho spiegato bene
+"410","(촀\0Peròn\0\0 forse non ho spiegato bene
 al \0centro servizi\0￿ tutta la situazione.
 \0
 Può esserci stato un malinteso.\0\0()촀\0Sai cosa?
@@ -402,8 +407,7 @@ Tanto non ho nulla da perdere."
 "410_b","Non ne vale la pena."
 "411","(촀\0No?
 \0 Ehmn\0\0 vabbè.
-\0 Farò come dici
-tu.
+\0 Farò come dici tu.
 \0( (촀\0Vuol dire che n	\0 dovrà fare a meno di me."
 "423","(촀\0Oh, 
 \0n	\0 è già troppo affollata! 
@@ -427,8 +431,7 @@ gli abitanti sembrano simpatici."
 "505","( 촀\0Intendi 
 \0che potrei trasferirmi qui?
 \0
-Così, all'improvviso?\0\0(
-촀\0Ammetto che l'idea mi stuzzica.
+Così, all'improvviso?\0\0(촀\0Ammetto che l'idea mi stuzzica.
 \0 Ma
 un trasloco è una fatica immensa.
 \0
@@ -442,10 +445,8 @@ che devo fare quando torno alla mia
 isola.
 \0 Anche se qui non è male.\0\0(촀\0
 \0Ora che ci penso, 
-\0sai chi potrebbe
-voler vivere qui, n\0?
-\0 Il batterista della mia ultima band.\0\0(
-촀\0Mmmhn\0\0 non lo sento da anni.
+\0sai chi potrebbe voler vivere qui, n\0?
+\0 Il batterista della mia ultima band.\0\0(촀\0Mmmhn\0\0 non lo sento da anni.
 \0
 Chissà che fine ha fatto!"
 "507","()촀\0Detto da me può sembrare strano,

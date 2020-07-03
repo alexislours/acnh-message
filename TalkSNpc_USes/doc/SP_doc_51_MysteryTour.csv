@@ -90,8 +90,7 @@ servicios."
 "011","¿Necesitas herramientas?
 \0
 Recibido. 
-\0(
-촀\0Consultando qué hay
+\0(촀\0Consultando qué hay
 disponible en el programa de millasn"
 "012","¿Necesitas herramientas?
 \0 (9촀\0Negativo,
@@ -157,11 +156,9 @@ que necesitas para llegar al centro.
 (%촀\0Si tienes dificultad para encontrar
 la salida ($촀\0recuerda que puedes llamar
 al \0servicio de rescate\0￿.
-Nuestrosn\0\0
-\0 topógrafos
-\0 se pondrán
-a trabajar y 
-\0(촀\0dejarán el laberinto
+Nuestros topógrafos se pondrán
+a trabajar
+\0 y (촀\0dejarán el laberinto
 como estaba al principio.
 ($촀\0De esa forma te podrás tomar un
 descanso, recargar combustible
@@ -207,8 +204,7 @@ Cambio y fuera."
 "045","( 촀\0¿Quieres una pista?
 \0 Recibido.
 \0
-(
-촀\0Veamosn\0\0
+(촀\0Veamosn\0\0
 \0 Déjame analizar qué
 información te puedo dar, copiloto."
 "046_0","(%촀\0Aquí va:
@@ -281,8 +277,7 @@ A todo eston\0\0
 que llevas encima algo que este
 dodo no había visto (%촁\0
 \0antes.
-(
-촀\0¿(\0촁\0Y te lo dio alguien que pasaba
+(촀\0¿(\0촁\0Y te lo dio alguien que pasaba
 por ahí?(%촁\0
 \0 Qué curioson\0\0
 \0(\0촁\0\0\0((촀\0Dodo Airlines se encargará de
@@ -293,11 +288,9 @@ tu \0excursión del Primero de Mayo\0￿.\0\0($촀\0Avísame cuando q
 vuelo.\0\0(%촀\0Si tienes dificultad para encontrar
 la salida ($촀\0recuerda que puedes llamar
 al \0servicio de rescate\0￿.
-Nuestrosn\0\0
-\0 topógrafos
-\0 se pondrán
-a trabajar y 
-\0(촀\0dejarán el laberinto
+Nuestros topógrafos se pondrán
+a trabajar
+\0 y (촀\0dejarán el laberinto
 como estaba al principio.
 ($촀\0De esa forma te podrás tomar un
 descanso, recargar combustible
@@ -387,15 +380,8 @@ tu visita.\0
 \0Cambio."
 "054_a","(%촁\0¡Volvamos a casa!"
 "054_b","('촁\0Todavía non"
-"055","(9촀\0Antes de emprender el regreso,
-te advierto una cosa.\0\0()촀\0Los destinos de la \0excursión del
-Primero de Mayo\0￿ son siempre
-distintos.
-('촀\0Si nos vamos, no podrás volver.
-\0
-(
-촀\0\0(Aunque parece que ya le sacaste
-todo el provecho posible a esta isla).\0￿
-(&촀\0Bien, ¿despegamos?"
-"055_a","(%촁\0¡Volvamos a casa!"
-"055_b","('촁\0Todavía non"
+"055","(9촀\0Te advierto que, si nos vamos, no
+podrás regresar a este destino de la
+\0excursión del Primero de Mayo\0￿n"
+"055_a","Da igual, ¡vámonos!"
+"055_b","Ah, entonces espera"

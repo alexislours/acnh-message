@@ -43,10 +43,8 @@ trasladar algo de lugar, ¿sí?"
 trasladar?"
 "011_01","(촀\0¿Movemos la de s촀?
 \0
-¡Entendido!\0\0(\0촀\0El costo de traslado es
-\0Z\0\0￿.
-\0(&촀\0 ¿Se lo comunicamos
-a s촀 ahora?"
+¡Entendido!\0\0(\0촀\0El costo de traslado es \0Z\0⁠\0￿.
+\0(&촀\0 ¿Se lo comunicamos a s촀 ahora?"
 "011_01_a","¡Sí, adelante!"
 "011_01_b","Lo voy a pensar..."
 "012","(촀\0La \0tienda\0￿, ¿sí?
@@ -112,15 +110,13 @@ la cantidad suficiente, ¿sí?"
 seguir con el plan,
 \0 (촀\0así que vuelve
 cuando tengas más espacio, ¿sí?"
-"033","(
-촀\0Mmmn\0\0 s촀 se mudó
+"033","(촀\0Mmmn\0\0 s촀 se mudó
 hace poco.\0\0()촀\0A lo mejor es muy pronto para
 preguntarle si quiere trasladar
 su casa, ¿no?
 (촀\0Quizás sea mejor esperar un poco
 más antes de plantearle la idea, ¿sí?"
-"034","(
-촀\0Mmmn\0\0
+"034","(촀\0Mmmn\0\0
 \0 s촀 decidió
 que se muda,
 \0 ()촀\0así que quizás
@@ -132,8 +128,7 @@ traslado, ¿sí?"
 \0
 (촀\0¿Aún no conoces a ninguno de
 los residentes, n\0?
-(
-촀\0No creo que les haga mucha gracia
+(촀\0No creo que les haga mucha gracia
 trasladar su casa de lugar a pedido 
 de alguien que no conocen todavía.
 (촀\0Ya que eres nuestr2oa portavoz vecinal,
@@ -144,15 +139,13 @@ deberías conocer a todo el mundo,
 conmigo sobre posibles traslados,
 \0
 ¿te parece?"
-"035","(
-촀\0Mmmn\0\0
+"035","(촀\0Mmmn\0\0
 \0 creo que ahora están
 remodelando la \0tienda\0￿n\0\0\0\0(촀\0Hablamos del tema una vez que
 terminen, ¿sí?"
 "051","(촀\0Entonces dime,
 \0 s촀,
-\0 (&촀\0¿te gustaría mudarte a la ubicación
-que elija n\0?"
+\0 (&촀\0¿te gustaría mudarte a la ubicación que elija n\0?"
 "052","(촀\0\0s촀\0￿,
 \0 (&촀\0¿qué les parece la idea de n\0 de trasladar la \0tienda\0￿?"
 "053","(촀\0\0Sócrates\0￿n\0\0
@@ -176,10 +169,8 @@ a n\0 y a mí, ¿sí?"
 \0 ya se ha decidido el traslado, así que hay que
 pagar los gastos, ¿sí?"
 "082","(촀\0Ahora
-\0 hay que encontrar
-una nueva ubicación para la casa
-de s촀.
-(촀\0En los bolsillos encontrarás un \02\0ā촃kit de traslado\0￿ que podrás usar para
+\0 hay que encontrar una nueva
+ubicación para la casa de s촀.\0\0(촀\0En los bolsillos encontrarás un \02\0ā촃kit de traslado\0￿ que podrás usar para
 reubicar la casa donde quieras."
 "082_01","(촀\0Ahora
 \0 hay que encontrar

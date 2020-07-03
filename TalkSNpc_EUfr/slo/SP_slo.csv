@@ -12,11 +12,13 @@ toi,
 "005_c","Ça ira, merci."
 "007","(4촀\0Avec plaisir.
 \0(촀\0 Laisse-moi te présenter
-les graines et les pousses d'arbres
+les graines et les pousses de plantes
 que j'ai apportées !(촀"
-"008","Dans la vie, faut jamais se forcer.
-\0(
-(촀\0Si tu changes d'avis, tu sais où me
+"008","Dans la vie,
+\0 faut jamais se forcer.
+\0
+(촀\0Si tu as besoin de moi,
+\0 tu sais où me
 trouver !($촀"
 "011","(촀\0Bien vu, c'est mon plus bel article !
 \0(
@@ -37,8 +39,7 @@ preneur !
 "021","Ohn\0\0
 \0(4촀\0 On dirait que ta mauvaise herbe a pris la clé des champs, n\0.\0\0(6촀\0Et par principe, j'achète que ce que
 je vois, désolé."
-"022","(
-촀\0Si j'ai bien compté,
+"022","(촀\0Si j'ai bien compté,
 \0 tu as Z 2.̀touffetouffetouffes d'herben\0\0
 \0 (1촀\0Hmmn\0\0
 \0 Si j'en pose une et j'en retiens deuxn\0\0
@@ -75,8 +76,7 @@ C'est un article de qualité supérieure ! (촀\0Je le vends aussi en lot.
 \0\0\0(&촂\0Combien 
 \0tu en veux ?"
 "038_a","1 (\0Z\0 \0￿)"
-"038_b","5 (\0Z
- \0￿)"
+"038_b","5 (\0Z \0￿)"
 "038_c","Laisse tomber."
 "039","(4촀\0Oh !
 \0(촀\0 C'est pas grave. 
@@ -95,9 +95,9 @@ Je peux faire autre chose pour toi ?"
 \0 (촀\0Ça me plait,
 \0 et je suis \0Racine\0￿."
 "042","Mon pote \0Méli\0￿n\0\0 j'ai entendu dire
-qu'il a monté une affaire ici.
-\0(촀\0 Alors je
-suis venu lui rendre une petite visite."
+qu'il s'est installé ici.
+\0(촀\0 Alors je suis
+venu lui rendre une petite visite."
 "043","(4촀\0\0Méli \0￿m'a dit qu'avant votre arrivée,
 l'île était pour ainsi dire déserten\0\0
 \0
@@ -109,10 +109,10 @@ silex pour faire du feu,
 \0 en arrivant ?\0\0(촀\0Le bon côté avec un paysage vierge,
 c'est que tu peux en faire ce que tu
 veux.\0\0( 촀\0J'espère que mes graines et mes
-\0pousses d'arbres\0￿
+\0pousses de plantes\0￿
 \0(5촀\0 trouveront leur
 place dans ton chef-d'œuvre."
-"043_a","Tes pousses d'arbres ?"
+"043_a","Tes pousses de plantes ?"
 "043_b","Moi aussi !"
 "044","(촀\0Oh, 
 \0n\0.
@@ -146,12 +146,11 @@ connaissance.
 \0 bonne question ! 
 \0(촀\0Je me disais
 justement qu'on parlait pas assez
-des \0pousses d'arbres\0￿n\0\0
+des \0pousses de plantes\0￿n\0\0
 (%촀\0Comme leur nom l'indique, les
 pousses d'arbres sont de petits
 arbustes.
-\0(
-촀\0 Ou de grosses fleurs.
+\0(촀\0 Ou de grosses fleurs.
 (\0촀\0Mais le truc à savoir, c'est qu'elles
 bourgeonnent selon la saison.
 \0(촀\0 Et ça
@@ -201,16 +200,17 @@ revoir quand ça sera réglé."
 "056","(&촂\0Il y a autre chose qui te ferait plaisir,
 ch2erère ami2\0e ?(촀"
 "057","Oh !
-\0(""촀\0 Bonjour, 
-\0n\0 !
-\0( (촀\0C'est le jour idéal pour acheter des graines, pas vrai ?"
+\0(""촀\0 Bonjour !
+\0( (촀\0C'est le jour idéal
+pour acheter des pousses ou des
+graines, pas vrai ?"
 "058","(촀\0Oh, il faut aussi que je te dise !(촀\0 C'est
-la saison de m25촀ona\0 petit25촀\0e\0 préféré25촀\0e\0 !
+la saison de m26촀ona\0 petit26촀\0e\0 préféré26촀\0e\0 !
 (촀\02\02\0\0촀 \0￿!
-(\0촀\0Du coup, si tu en plantes,
-\0(촀\0 tu pourras
-immédiatement profiter de ses
-petites fleurs !"
+(\0촀\0Ne perds pas de temps pour en
+planter,
+\0(촀\0 si tu veux profiter de ses
+adorables fleurs !"
 "059","(\0촀\0C'est gagnant-gagnant.
 \0 (4촀\0Tu te fais
 payer pour ton dur labeurn\0\0\0\0(촀\0... et je profite de ton île immaculée
@@ -234,7 +234,7 @@ tromper !"
 de mes favorites. Je te présente
 \0
 (""촀\02\0\0촀 \0￿!\0\0(\0촀\0Et, heureuse coïncidence,
-\0 25촀ilelle\0 fleurit
+\0 26촀ilelle\0 fleurit
 en ce moment même,
 \0(촀\0 avis aux
 impatients !"

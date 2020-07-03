@@ -315,6 +315,9 @@ públicas?"
 "207","La conexión no es muy buena.
 Debería \0levantarme \0￿y probar
 de nuevo."
+"207_01","La conexión no es muy buena.
+Debería probar de nuevo
+cuando esté en \0tierra firme\0￿."
 "208",""
 "209","Estás \0fuera de la zona de servicio\0￿.
 Solo puedes usar esta aplicación en
@@ -495,6 +498,8 @@ Solo puedes usar esta aplicación en
 n	\0 al aire libre."
 "301","Parece que la aplicación del mapa
 no funciona en esta isla."
+"302","Parece que la aplicación del mapa
+no funciona si estoy en el mar."
 "311","Dice que estoy fuera de la zona de
 servicio. Supongo que no puedo
 usar la aplicación aquí."

@@ -9,7 +9,8 @@ a impacchettare gel e vestiti attillati.\0￿d"
 preparando a cambiare aria (e isola)
 e non posso parlare!\0￿d"
 "001_03","d\0\0Risponde il servizio di segreteria
-di s촀.\0\0Al momento non sono raggiungibile causa trasloco. Siete pregati di
+di s촀.\0\0Al momento non sono raggiungibile
+causa trasloco. Siete pregati di
 richiamare più tardi.\0￿d"
 "001_04","d\0\0Grazie della chiamata, ma ora
 non posso rispondere.\0\0
@@ -30,9 +31,7 @@ l'\0area per campeggio\0￿.
 Accetto, certo che accetto!
 (5촀\0Metto il gel e i vestiti in valigia
 e arrivo."
-"102_03","(
-촀\0L'\0area per campeggio\0￿ è sulla bocca di tutti. 2\02\0 n	\0 non si parla d'altron\0\0(%촀\0 OK, accetto!
-(촀\0Ho già in mente un completo da
+"102_03","(촀\0L'\0area per campeggio\0￿ è sulla bocca di tutti. 2\02\0 n	\0 non si parla d'altron\0\0(%촀\0 OK, accetto!\0\0(촀\0Ho già in mente un completo da
 campeggio che è una vera bomba,
 n\0!"
 "102_04","(촀\0Come dici?
@@ -51,8 +50,7 @@ benen\0\0
 si è asciugato il gel, n\0!"
 "202_02","(촀\0Ah, capisco. Un invito per l'\0area per
 campeggio\0￿, la zona più esclusiva di
-n	\0.\0\0(
-촀\0Fammi controllare l'agendan\0\0
+n	\0.\0\0(촀\0Fammi controllare l'agendan\0\0
 (%촀\0Muy bien! Sono libero! Parto subito,
 n\0!"
 "202_03","(%촀\0Muy bien!
@@ -106,8 +104,7 @@ fatto molto piacere, n\0!"
 "302_04","(촀\0Fammi capiren\0\0
 \0(&촀\0 Mi hai invitato
 all'\0area per campeggio\0￿ dell'isola
-su cui vivo?\0\0(
-촀\0Che 2 burloneburlona!
+su cui vivo?\0\0(촀\0Che 2 burloneburlona!
 \0(%촀\0 Lo sai benissimo
 che quell'area è riservata agli ospiti,
 n\0."

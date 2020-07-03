@@ -102,6 +102,8 @@ later aantrekken met een \0toverstaf\0￿.\0\0\0\0Een flitsoutfit ge
 transformatie van je look, geen
 kledingwisseling.\0\0Wat je onder een flitsoutfit draagt,
 verandert niet.\0￿"
+"0505","Voor je je kunt omkleden, moet je
+eerst je duikpak uittrekken."
 "0551","Je draagt niets dat onderdeel
 kan uitmaken van een outfit!"
 "0552","Deze outfit past momenteel niet in
@@ -666,7 +668,7 @@ releaseversie."
 bijgewerkt en de game zal nu
 opstarten."
 "1374_a","Oké."
-"1401","Er is een bestevriendverzoek
+"1401","Er is een bestevriend-verzoek
 verstuurd aan \0s\0촀\0￿."
 "1402","Je bent nu beste vrienden met
 \0s\0촀\0￿."
@@ -1069,6 +1071,10 @@ de hele set om er stralend uit te zien!
 Veel plezier bij het verzamelen van
 de set en het klussen in je woning!
 \0\0Je ontvangt de goederen per post.\0￿"
+"3021","Een origineel \0duikpak\0￿ van Nook Inc.
+Hiermee kun je in de zee zwemmen
+en duiken.
+\0\0Het artikel wordt per post bezorgd.\0￿"
 "5001","\0Camera\0￿
 Neem foto's en gebruik
 verschillende filters en effecten.\0\0\0\0De foto's worden opgeslagen in je
@@ -1094,6 +1100,14 @@ die alleen gelden voor leden van
 Gebruik deze app voor informatie
 over de insecten en vissen die je
 hebt gevangen."
+"5022","\0Encyclopedie\0￿
+Gebruik deze app voor informatie
+over de insecten, vissen en diepzee-
+wezens die je hebt gevangen."
+"5023","\0Encyclopedie\0￿
+Deze app is bijgewerkt met informatie
+over de diepzeewezens die je hebt
+gevangen."
 "5031","\0Doe-het-zelf\0￿
 Gebruik deze app voor informatie
 over de \0doe-het-zelfplannen\0￿ die
@@ -1200,10 +1214,10 @@ stijl!"
 Je kunt deze app gebruiken om de
 chatgesprekken met andere spelers
 waar en wanneer je wilt terug te lezen.
-Misschien heb je niet de kans
-gehad om iets te lezen terwijl jullie
-samen aan het spelen waren.\0\0Of je wilt een bericht lezen van een
-van je beste vrienden die ver weg
+Dit is ideaal voor als je niet de kans
+hebt gehad om iets te lezen terwijl
+jullie samen aan het spelen waren...\0\0...of als je een bericht wilt lezen van
+een van je beste vrienden die ver weg
 woont. Best een handige app, hè?!"
 "5201_00_01","\0\0Buurten\0￿
 In Buurten kunnen eilandbewoners
@@ -1468,7 +1482,7 @@ om dit scherm te sluiten."
 gebruiker is gekoppeld, is anders
 dan voorheen.\0\0Functies die het internet gebruiken,
 waaronder de lijst 'Beste vrienden',
-worden naar de oorspronkelijk staat
+worden naar de oorspronkelijke staat
 teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
 \0s\0촀\0￿?"
 "8014_a","Nee."
@@ -1476,7 +1490,7 @@ teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
 "8015","Deze gebruiker is niet gekoppeld
 aan een Nintendo-account.\0\0Functies die het internet gebruiken,
 waaronder de lijst 'Beste vrienden',
-worden naar de oorspronkelijk staat
+worden naar de oorspronkelijke staat
 teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
 \0s\0촀\0￿?"
 "8015_a","Nee."
@@ -1488,15 +1502,27 @@ gebruiken, zoals de Beste vrienden-app,
 naar de begininstellingen teruggezet.\0\0Wil je doorgaan?"
 "8016_a","Nee."
 "8016_b","Ja."
-"8017","Aan deze gebruiker is geen Nintendo-
-account gekoppeld of het is nodig dat
-er opnieuw op de Nintendo-account
-wordt ingelogd.\0\0Wanneer je de game weer speelt,
-worden alle functies die het internet
+"8017","De koppeling van deze gebruiker met
+een geldige Nintendo-account moet via
+het internet worden bevestigd.\0\0Als je dit niet doet voor je de game
+speelt, worden functies die het internet
 gebruiken, zoals de Beste vrienden-app,
-naar de begininstellingen teruggezet.\0\0Wil je weer beginnen te spelen en alle
-functies die het internet gebruiken,
-naar de begininstellingen terugzetten?"
+naar de begininstellingen teruggezet.\0\0Wil je alle functies die het internet
+gebruiken, naar de begininstellingen
+terugzetten en beginnen met spelen?"
 "8017_a","Nee."
 "8017_b","Ja."
+"8018","De koppeling van deze gebruiker met
+een geldige Nintendo-account moet
+via het internet worden bevestigd.\0\0Je kunt nu verbinding maken met
+het internet om de koppeling te
+bevestigen."
+"8018_a","Oké!"
 "8019","Bezig de game te starten..."
+"8020","De koppeling van deze gebruiker met
+een geldige Nintendo-account moet
+via het internet worden bevestigd.\0\0Je kunt nu verbinding maken met
+het internet om de koppeling te
+bevestigen."
+"8020_a","Nee."
+"8020_b","Oké!"

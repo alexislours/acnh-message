@@ -152,8 +152,7 @@ detenidamente, pero no puedo
 hacerlo si está transformado.
 (촀\0¿Podrías quitarte el conjunto
 de varita primero?"
-"037","(
-촀\0Mmm, n\0,
+"037","(촀\0Mmm, n\0,
 \0 llevas puesto un conjunto de varita, ¿a que sí?\0\0(%촀\0Me temo que tendrás que quitártelo
 para que pueda ver el atuendo que
 has diseñado.
@@ -315,8 +314,7 @@ ayudado.
 \0(%촀\0Quizá en
 el futuro necesite tu ayuda de nuevo."
 "101","Ayn\0\0
-\0(
-촀\0 Me pregunto dónde podré
+\0(촀\0 Me pregunto dónde podré
 encontrar la inspiración para
 un nuevo diseño."
 "105","(%촀\0Me encanta viajar.
@@ -324,8 +322,7 @@ un nuevo diseño."
 descubro un sitio nuevo, 
 \0aprendo
 alguna cosa."
-"106","(
-촀\0Estoy trabajando en el boceto de
+"106","(촀\0Estoy trabajando en el boceto de
 una prenda nueva,
 \0 aunque me está
 resultando un tanto difíciln\0\0(\0촀\0
@@ -375,8 +372,7 @@ a mis hermanas por vivir en un lugar
 así. 
 \0(촀\0¡Y también por tenerte cerca!"
 "125","(2촀\0No sé cómo darte las gracias por
-toda tu ayuda, n\0.\0\0(
-촀\0Me has servido de gran inspiración
+toda tu ayuda, n\0.\0\0(촀\0Me has servido de gran inspiración
 a la hora de diseñar, ¿sabes?\0\0(촀\0Gracias a ti, 
 \0¡he crecido mucho
 como profesional!"
@@ -388,8 +384,7 @@ a veces me estanco un poco.
 \0
 ¡y, gracias a tu energía y optimismo,
 me convenzo de que todo irá bien!"
-"127","(
-촀\0Si lo corto por un lado 
+"127","(촀\0Si lo corto por un lado 
 \0y le pongo
 flecos por el otron\0\0
 \0 Sí, 
@@ -401,8 +396,7 @@ un nuevo diseño.\0\0(촀\0Seguro que tú también te dejas
 llevar cuando algo te apasiona
 con locura, 
 \0¿verdad?"
-"130","(
-촀\0Quizá te suene mi nombren\0\0
+"130","(촀\0Quizá te suene mi nombren\0\0
 \0 o al
 menos el alias que utilizaba hasta
 hace poco, \0Trini\0￿.
@@ -422,8 +416,7 @@ era \0Trini\0￿.
 \0(\0촀\0me lo
 puso alguien con quien tenía una
 relación profesional muy cercana.
-(
-촀\0Me acogió bajo su tutela y, con
+(촀\0Me acogió bajo su tutela y, con
 su ayuda, conseguí hacer mis
 pinitos como diseñadora.
 La verdad es que le debo muchon\0\0
@@ -472,6 +465,22 @@ a tu atuendo?"
 (7촀\0¿Me dejas?"
 "166_a","(%촀\0¡Venga, vale!"
 "166_b","('촀\0¡Espera un momento!"
+"167","(%촀\0Creo que preferiría poder admirar
+tu atuendo sin un traje de buceo
+de por medio.
+(촀\0Ah, por cierto,
+\0 ¡muchas gracias por
+echarme una mano!"
+"168","(&촀\0Vaya, ¿ibas a darte un chapuzón,
+\0
+n\0?
+\0(촀\0 ¡Si es que las playas de la isla son estupendas!\0\0(7촀\0Eso sí, cuando quieras mostrarme
+tu atuendo, 
+\0acuérdate de quitarte
+el traje de buceo, ¿vale?
+($촀\0Y, por supuesto,
+\0 ¡miles de gracias
+por ayudarme tanto!"
 "200","(\0촀\0Me gustaría que me mostrases
 un \0atuendo de fiesta\0￿.\0\0()촀\0Imagina que te invitan a una velada
 o a una celebración. 
@@ -525,14 +534,12 @@ un \0atuendo todoterreno\0￿.\0\0()촀\0Si tuvieses que ponerte algo
 sirva para cualquier ocasión sin
 renunciar al estilo, 
 \0¿qué sería?"
-"300","(
-촀\0No sé si tu atuendo termina de tener
+"300","(촀\0No sé si tu atuendo termina de tener
 el aire 촀 que estaba buscandon\0\0\0\0(%촀\0Pero también me resulta útil ver
 cuál es tu concepto de dicho estilo.
 \0
 (촀\0He aprendido mucho viéndote, sí."
-"301","(
-촀\0Tu atuendo tiene cierto toque
+"301","(촀\0Tu atuendo tiene cierto toque
 촀, pero adaptado a tu estilo.\0\0(%촀\0Al verte, he descubierto que existen
 otras formas de combinar prendas.\0\0(촀\0¡Ha sido una experiencia muy
 enriquecedora!"
@@ -552,14 +559,12 @@ estilo 촀 que buscaba!
 y un gran olfato para la moda.
 \0
 (촀\0¡Me has enseñado muchas cosas!"
-"320","(
-촀\0No sé si tu atuendo termina de tener
+"320","(촀\0No sé si tu atuendo termina de tener
 el toque 촀 que estaba buscandon\0\0\0\0(%촀\0Pero también me ayuda ver la idea
 que tienes de dicho estilo.
 \0(촀\0 ¡Tomaré
 nota de todo!"
-"321","(
-촀\0Tu atuendo tiene un aire un tanto
+"321","(촀\0Tu atuendo tiene un aire un tanto
 촀, pero a la vez refleja tu estilo personal.\0\0(%촀\0Sin duda, me has ayudado a ver que
 existen muchas y distintas formas de
 combinar prendas.

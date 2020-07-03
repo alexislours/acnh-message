@@ -114,8 +114,7 @@ don't need it, though."
 "038_b","I'll take my trash back."
 "041","(촂\0(촃\0Look at all the fine things you've
 brought in today! 
-\0((
-촂\0(1촃\0Allow me just
+\0((촂\0(1촃\0Allow me just
 a moment to run the numbersn"
 "041_01","Look at all the fine things you've
 brought in today!
@@ -126,8 +125,7 @@ brought in today!
 \0(촀\0 It's nothing! Nothing! I'll start
 running the numbersn"
 "041_02","(촂\0(촃\0Look at this fine selection!
-\0((
-촂\0(1촃\0 Let's
+\0((촂\0(1촃\0 Let's
 seen\0\0
 \0 I'll run the numbersn\0\0take
 any high-value hot itemsn"
@@ -156,8 +154,7 @@ mix.
 \0(촃\0Understood!d\0 
 \0\0K...understood!\0dd
 \0(
-(
-촂\0(1촃\0Well, I'll run the numbers, taking any
+(촂\0(1촃\0Well, I'll run the numbers, taking any
 hot items into considerationn"
 "045","(촂\0(촃\0And done!\0\0(\0촂\0There is a portion of your submission
 I cannot pay Bells for. I can dispose
@@ -431,9 +428,48 @@ I can sell in singles or in bulk.
 \0(&촂\0
 How many would you like?"
 "131_a","Just 1. (\0Z\0\0￿)"
-"131_b","I'll take 5! (\0Z
-\0￿)"
+"131_b","I'll take 5! (\0Z\0￿)"
 "131_c","I've changed my mind."
+"141_01","( 촂\0( 촃\0Aha! 
+\0Thinking of swimming? 
+\0(%촂\0(\0촃\0Yes,
+yesn\0\0you'll most definitely need
+2\0}\0\0.\0\0(촂\0(촃\0Well, before you head to the beach,
+perhaps we could give you a few
+pointers about swimming!d\0
+\0 \0K...swimming!\0dd"
+"141_02","(촂\0(\0촃\0I don't have any pointers on your
+form, unfortunately. 
+\0Just the basics
+about getting into the water.\0\0()촂\0So, first things first, you'll want
+to put on a suitable \0wet suit \0￿(%촃\0like
+this }\0\0.
+(촂\0(촃\0Once you're suited up, just press \0
+\0￿from the beach or nearby rocks to
+hop into the water!\0\0()촂\0(\0촃\0To swim around, keep pressing \0\0￿.
+(촂\0Oh!
+\0 And if you see a shadow,
+\0(촃\0 you
+can press \0 \0￿to dive and check it out.
+(촀\0(촃\0You never know what kind of \0sea
+creatures \0￿might be lurking! 
+\0Perhaps
+you could bring one to the surfacen"
+"142","Well, I think that covers
+\0(촂\0 everything
+you'll need to know!d\0
+\0 \0K...know!\0dd\0\0(\0촂\0(\0촃\0So, back to the item at hand. It can
+be yours for Z\0.
+\0(&촂\0(&촃\0\0\0Would you like to buy this
+}\0\0?"
+"142_a","(%촀\0I'll buy it!"
+"142_b","Can you repeat that?"
+"142_c","('촀\0Actually, I'll pass."
+"143","(촂\0(촃\0Of course!
+\0 Here's everything
+you need to keep in mind for
+swimming in the ocean.d\0
+\0 \0K...ocean.\0dd"
 "200","(촂\0(촃\0Thank you!d\0
 \0 \0K...thank you!\0dd(촂\0(촃\0
 Z"

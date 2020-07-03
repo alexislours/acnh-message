@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001_01","-\0촀\0Zzzn\0\0Gnuu, gnuu, gnuun"
+"001_01","-\0촀\0Zzzn\0\0 Gnuu, gnuu, gnuun"
 "001_02","-\0촀\0Mrrfffn\0\0 brrrg?
 \0 Cameriere!
 Quest'acqua è salatan\0\0
@@ -208,8 +208,7 @@ in onda?"
 spaccaton\0\0 E la cosa peggiore è che
 mancano anche alcuni \0pezzi\0￿!\0\0(촀\0Quindin\0\0
 \0 dovrò aspettare che sia
-l'equipaggio a trovare me.\0\0(
-촀\0Mmmh, 
+l'equipaggio a trovare me.\0\0(촀\0Mmmh, 
 \0chissà quanto ci metteranno.
 \0
 \0KSpero non troppo perché sono quasi a corto di
@@ -245,8 +244,7 @@ sempre aiutare il prossimo?!"
 spazion\0\0\0d\0\0(촀\0Voglio credere che la nave non sia
 salpata e anche che tu ti imbatterai
 in quei pezzi per puro cason"
-"022","(
-촀\0I \0pezzi del comunicatore\0￿ sono
+"022","(촀\0I \0pezzi del comunicatore\0￿ sono
 probabilmente seppelliti da qualche
 parte qui sotto la sabbia.\0\0(\0촀\0Ancora \0Z\0\0 2&\0
 pezzi
@@ -272,16 +270,14 @@ riuscire a riparare il comunicatore.
 chiesto?"
 "030_a","(%촀\0Sì, guarda!"
 "030_b","('촀\0Sto ancora cercandon"
-"031_01","(
-촀\0I \0pezzi del comunicatore \0￿saranno
+"031_01","(촀\0I \0pezzi del comunicatore \0￿saranno
 rimasti \0seppelliti\0￿ \0sotto la sabbia\0￿ da
 qualche parte su quest'isola.\0\0(촀\0En\0\0 se è vero, non ci posso fare un
 bel niente.\0\0(촀\0Avevo una pala, ma l'ho venduta
 per comprare questo comunicatore.
 \0(
 (촀\0Oh, il destino mi rema contro!"
-"031_02","(
-촀\0Non credo che i \0pezzi del mio
+"031_02","(촀\0Non credo che i \0pezzi del mio
 comunicatore \0￿siano fuori, in
 bella vista.
 (9촀\0Saranno \0sepolti nella sabbia\0￿.
@@ -297,8 +293,7 @@ avete il coraggio!\0\0('촀\0Non rispondono.
 "031_04","()촀\0Quando avrai trovato \0Z\0\0\0￿ dei miei\0 pezzi
 del comunicatore\0￿, (""촀\0portamel2\0\0oi qui.
 Ci penso io a rimettere tutto in sesto."
-"031_05","(
-촀\0Non sono sicuro di quanti \0pezzi
+"031_05","(촀\0Non sono sicuro di quanti \0pezzi
 del comunicatore \0￿siano dispersi
 qua in giro.\0\0(\0촀\0Probabilmente ne potrei infilare
 \0Z\0\0 \0￿qui dentro.
@@ -342,8 +337,7 @@ dell'equipaggio."
 messaggion\0\0\0\0(촀\0Scommetto che ora sono impegnati
 a preparare i festeggiamenti per il
 mio rientro.
-(
-촀\0Staranno scrivendo il mio nome a
+(촀\0Staranno scrivendo il mio nome a
 caratteri cubitali su uno striscione,
 aprendo le bottiglie di succo buonon\0\0
 (%촀\0Ci vuole tempo per preparare una
@@ -383,9 +377,8 @@ l'illusione si trasformerà in realtà."
 (;촀\0Com'è la tua isola?\0\0(촀\0Aspetta! Non dirmelo.
 \0( (\0촀\0Preferisco che
 sia una sorpresa. Sono certo che un
-giorno ('촀\0ci naufragh... ehm la visiterò!"
-"062_01","(
-촀\0Ehm, la mia nave dovrebbe aver già
+giorno ('촀\0ci naufrag-n\0\0 ehm la visiterò!"
+"062_01","(촀\0Ehm, la mia nave dovrebbe aver già
 attraccato qui ormai.
 \0( (촀\0Sarà mica
 bloccata nel traffico?!"
@@ -434,8 +427,7 @@ messaggi SOS anche su Marte, ora!
 comunicatore con i pezzi che mi hai
 scovato tun\0\0\0\0(촀\0Ma è ancora mezzo scassato.
 \0 Non
-potrò neanche più usare i giochi!\0\0(
-촀\0Scommetto che ci sono degli altri
+potrò neanche più usare i giochi!\0\0(촀\0Scommetto che ci sono degli altri
 pezzi che si sono nascosti là da
 qualche parte, man\0\0
 \0( (촀\0Ehi!
@@ -446,8 +438,7 @@ vero?
 comunicatore con i pezzi che mi hai
 scovato tun\0\0\0\0(촀\0Ma è ancora mezzo scassato.
 \0 Non
-potrò neanche più usare i giochi!\0\0(
-촀\0Scommetto che ci sono degli altri
+potrò neanche più usare i giochi!\0\0(촀\0Scommetto che ci sono degli altri
 pezzi che si sono nascosti là da
 qualche parte, man\0\0
 \0( (촀\0Ehi!
@@ -579,8 +570,7 @@ E naufragato su quest'isola
 stupenda, ma lontana dalla mia nave.\0\0(촀\0Come se non bastasse,
 \0 il mio
 comunicatore è distrutto ('촀\0e non
-posso contattare la mia nave.\0\0(
-촀\0Se potessi trovare i \0pezzi del mio
+posso contattare la mia nave.\0\0(촀\0Se potessi trovare i \0pezzi del mio
 comunicatore\0￿, potrei aggiustarlo,
 man\0\0\0\0(촀\0Le onde devono aver \0seppellito
 quei frammenti sotto la sabbia\0￿
@@ -588,8 +578,7 @@ di queste spiagge da sogno."
 "123","(촀\0Non mi resta che aspettare 
 \0finché
 un tornado non soffierà i pezzi del
-comunicatore qui da men\0\0\0\0(
-촀\0Certo, 
+comunicatore qui da men\0\0\0\0(촀\0Certo, 
 \0l'attesa potrebbe essere
 molto lunga.
 \0 (촀\0A meno chen\0\0\0\0(9촀\0Accoglieresti la supplica di un

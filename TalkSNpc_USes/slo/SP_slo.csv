@@ -6,12 +6,11 @@ rayo veloz?"
 "004_a","¡Te compro algo!"
 "004_b","Sobre las malezas"
 "004_c","No, nada..."
-"005","(촂\0¡Vaya, vaya,
-\0 rayo veloz! 
-\0¡Qué alegría
-me da verte otra vez! 
-\0(&촂\0Cuéntame,
-¿qué puedo hacer por ti?"
+"005","(촂\0¡Vaya, vaya! 
+\0¡Qué alegría me da
+verte,
+\0 n\0! 
+\0Cuéntame, (&촂\0¿qué puedo hacer por ti?"
 "005_a","¡Te compro algo!"
 "005_b","Sobre las malezas"
 "005_c","No, nada..."
@@ -22,7 +21,7 @@ las ramas! 
 "008","(촀\0Pues nada, 
 \0haz lo que dé felicidad.
 
-\0($촀\0Avísame si cambias de idea, ¿te parece, rayo veloz?"
+\0($촀\0Avísame si cambias de idea, ¿sí?"
 "011","(촀\0Pues habrías hecho una buena
 compran\0\0
 \0(4촀\0 si tuvieras lugar para
@@ -87,8 +86,7 @@ comprar de a much2촀osas\0.
 \0Dime, 
 \0(&촀\0¿cuánt2촀oa\0s te pongo?"
 "038_a","Solo 1 (\0Z\0 \0￿)"
-"038_b","¡Me llevo 5 (\0Z
- \0￿)!"
+"038_b","¡Me llevo 5 (\0Z \0￿)!"
 "038_c","Al final no quiero nada"
 "039","(4촀\0¡Entendido!
 \0 Bueno, no hay problema.
@@ -97,11 +95,10 @@ comprar de a much2촀osas\0.
 \0
 Dime, 
 \0(&촀\0¿te ayudo con algo más?"
-"040","(촀\0¡Buenas, rayo veloz!
-\0 Cuéntame,
-¿vives en esta isla?
-\0(&촀\0
-¿Y cómo te llamas?"
+"040","(촀\0¡Buenas!
+\0 Cuéntame, ¿vives en esta
+isla?
+\0(&촀\0 ¿Y cómo te llamas?"
 "040_a","¡2\0n\0!"
 "040_b","2\0n\0..."
 "041","(&촀\0¿2\0n\0?
@@ -110,7 +107,7 @@ Dime, 
 \0 Pues yo soy \0Gandulio\0￿, (촀\0
 \0¡encantado!"
 "042","(%촀\0Me dijo un pajarito que mi buen
-amigo \0Tendo \0￿había (촀\0puesto una
+amigo \0Tendo \0￿quería (촀\0poner una
 tienda aquí,
 \0 ¡y vine a ver!"
 "043","(4촀\0Por lo que me contó,
@@ -231,19 +228,18 @@ Lo lamento, (촀\0
 que volver cuando hayas ahorrado
 un poco, rayo veloz!"
 "056","(&촂\0¿Alguna cosita más?(촀"
-"057","(""촀\0¡Hola, n\0!
-\0(촀\0 Hoy es
-el día ideal para comprar flores,
-¿verdad, rayo veloz?"
+"057","(""촀\0¡Hola!
+\0(촀\0 Hoy es el día ideal para
+comprar flores, ¿verdad?"
 "058","(촀\0Bueno, quien dice flores, dice
 arbustos, claro. 
 \0(촀\0¡Además hoy
 tengo una oferta muy especial!
 (촀\0¡Nada más y nada menos que
-2\0\0촀\0￿!\0\0Y, (촀\0como es un arbusto de temporada,
-podrás admirarlo en plena floración.
+2\0\0촀\0￿!\0\0Mira, (촀\0en esta época del año es
+cuando más espectacular se pone,
 \0
-(""촀\0¡Anímate a plantarlo!"
+(""촀\0¡así que a plantar se ha dicho!"
 "059","(촀\0Vacías los bolsillos y, de paso, te
 embolsas un buen manojon\0\0
 \0 puñado

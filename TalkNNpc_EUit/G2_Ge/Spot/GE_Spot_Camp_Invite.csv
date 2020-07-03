@@ -1,13 +1,11 @@
 ﻿"label","text"
 "002","( 촀\0Dici sul serio?
-\0(
-촀\0 Vivere su quest'isola,
+\0(촀\0 Vivere su quest'isola,
 cioèn\0\0(촀\0 Sì, sarebbe un sogno!\0\0(촀\0Voglio dire, qualsiasi isola dove
 ci sei tu sarebbe un sogno!\0\0(5촀\0Vado subito al \0centro servizi
 \0￿a chiedere se c'è posto per me,
 n\0!"
-"003","(
-촀\0Mmmmhn\0\0 Mi tenti troppo con
+"003","(촀\0Mmmmhn\0\0 Mi tenti troppo con
 quest'offerta. 
 \0Sai cosa?\0\0L'ultima volta ho detto no, 
 \0(촀\0ma questa
@@ -107,11 +105,8 @@ fare un bel giochetto, n\0!"
 avere una futura pop star sull'isola.
 \0
 Pensa a quanti turisti ti sei pers2oan"
-"203_01","(%촀\0OK.
-\0 Quindi vediamo cosa deciderà
-il destino!
-\0(""촀\0 Allora io pesco una carta
-e poi tocca a te, n\0!"
+"203_01","(%촀\0Vediamo cosa deciderà il destino,
+allora!"
 "204","<"
 "204_01","(촀\0Ho vinto!
 \0 Scusa,
@@ -162,12 +157,10 @@ prima devo chiedere al \0centro servizi
 \0 Mi trasferisco qua!
 (2촀\0Ho perso al gioco, ma ho vinto
 un'isola! Cioè, non proprio, man\0\0
-(
-촀\0Senti, man\0\0
+(촀\0Senti, man\0\0
 \0 quanto siete legati a 'sto nome,
 \0 ""⁠n!\0""? 
-\0Perché pensavo a qualche cambiamento en\0\0\0\0(
-촀\0Oh! 
+\0Perché pensavo a qualche cambiamento en\0\0\0\0(촀\0Oh! 
 \0Ehmn\0\0
 \0( ()촀\0Beh, ne riparliamo dopo,
 OK? 
@@ -290,8 +283,7 @@ pratica di danza.
 \0 E altre cose tipo
 guardarci la TV, 
 \0capisci?
-(
-촀\0Ma al \0centro servizi\0￿ dicono pure che,
+(촀\0Ma al \0centro servizi\0￿ dicono pure che,
 \0
 se qualcuno sta pensando di andare
 via,
@@ -351,6 +343,21 @@ del mio repertorio:
 \0Io sono n
 \0n\0\0
 (&촀\0E tu ti chiami n\0, no? (촀\0Ho la sensazione che staremo troppo bene insieme!"
+"309_01","(촀\0Grazie dell'attesa!
+\0 Allora, sono
+andata al suo loft, 
+\0('촀\0ma non ho
+trovato niente e nessuno.\0\0(9촀\0E sai perché? 
+\0((촀\0Perché si era già
+bell2촀oa\0 che trasferit2촀oa\0!\0\0(촀\0Questo significa che posso troppo
+traslocare su quest'isola!
+\0(\0촀\0 Cioè,
+insomma,
+\0 che fortuna, eh?\0\0( 촀\0Allucinante! 
+\0Immagino sia ora di
+presentarci come si deven\0\0\0\0(촀\0Io sono la tua nuova, mitica pop star preferita, n\0! 
+\0(촀\0Perché tu sei n\0, giusto?\0\0(촀\0Trascorreremo delle giornate troppo
+giuste insieme, vedrai!"
 "310","(촀\0Mmmh,
 \0 in realtà non hai proprio
 nessuno in mente, n\0?"
@@ -421,8 +428,7 @@ al \0centro servizi \0￿quin\0\0\0\0(촀\0E inevitabilmente dicono
 troppo la benvenuta! 
 \0(촀\0Chiamo subito
 i miei fan ad aiutarmi con il trasloco!
-(
-촀\0Ah, ma prima sarà meglio pensare
+(촀\0Ah, ma prima sarà meglio pensare
 alle presentazionin\0\0
 \0 Il mio nome è
 n
@@ -460,8 +466,7 @@ pop star di supermegasuccesso!
 con tutta la gente che vive qui!
 \0
 (촀\0Compra già il biglietto, n\0!"
-"424","(
-촀\0Cioè, 
+"424","(촀\0Cioè, 
 \0a me non pare che manchi
 spazio su quest'isolan\0\0
 \0 (&촀\0E se mi

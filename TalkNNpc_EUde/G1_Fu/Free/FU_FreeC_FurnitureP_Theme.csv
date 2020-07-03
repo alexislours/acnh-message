@@ -3,17 +3,17 @@
 DieseDieses }\0\0 ist aus heimischen Pilzen hergestellt, nicht wahr?\0\0촆촃(촀\0Hier fühlt man sich, als wäre man in
 einen verzauberten Wald geraten!"
 "002","촊촉(촀\02,촀Dieser
-DieseDieses }\0\0 sorgt dafür, dass sich dieses Zimmer schön kühl und frisch anfühlt!\0\0촆촃(
-촀\0Man sollte allerdings meinen,
+DieseDieses }\0\0 sorgt dafür, dass sich dieses Zimmer schön kühl und frisch anfühlt!\0\0촆촃(촀\0Man sollte allerdings meinen,
 wenn du die Heizung anmachst,
 schmilzt 2촀ersiees weg..."
-"003","촊촉(촀\0Bist du wohl ein großer Freund von
+"003","촊촉(촀\0Du bist wohl ein großer Freund von
 japanischen Sachen? 
 \0(%촀\0Das hat etwas
 sehr Elegantes und Beruhigendes.\0\0촆촃(촀\0Vielleicht sollte ich das auch mal
 ausprobieren. 
 \0(4촀\0Hoffentlich stört es
-dich nicht, wenn ich dich nachmache."
+dich nicht, 
+\0wenn ich dich nachmache."
 "004","촊촉(촀\0Aus einfachen Bausteinen Möbel wie 2,촀diesen
 diesedieses 2촁}\0\0 zu konstruieren...\0\0촆촃(%촀\0Es zahlt sich wohl aus, wenn man
 sich seinen Spieltrieb bewahrt hat,
@@ -111,6 +111,22 @@ eines solchen
 2촃}\0\0 erinnert mich an eine Hochzeitsfeier.\0\0촆촃(촀\0Ja,
 \0 man kann sofort die Liebe
 spüren!"
+"021","촊촉(촀\02\02\0}\0\0!
+\0(
+(촀\0Was du nicht alles für ausgefallene
+Einrichtungsgegenstände besitzt!\0\0촆촃(9촀\0Abern\0\0
+\0 (;촀\0du stammst nicht zufällig von
+Meeresbewohnern ab, 
+\0oder?
+\0((촀\0 Nein,
+\0
+das hättest du sicher mal erwähnt!"
+"022","촊촉(촀\02,촀Dieser
+DieseDieses }\0\0 verleiht deinem Zimmer (촀\0ein mythisches Flair, 
+\0n\0.\0\0촆촃(&촀\0Hast du ein Faible für Esoterik?
+\0
+Oder interessiert dich eher der
+naturwissenschaftliche Aspekt?"
 "999","( 촀\0Du hast gar kein bestimmtes Thema
 im Sinn, 
 \0(&촀\0wenn du die Einrichtung für

@@ -14,9 +14,6 @@ verkoopkist?"
 "003_a","Ja, ik wil iets verkopen!"
 "003_b","Ik wil de uitleg weer zien."
 "003_c","Een ander keertje."
-"004","Hier krijg je \0Z\0 \0￿voor.
-\0
-Ga je daarmee akkoord?"
 "004_a","(\0촀\0Verkocht!"
 "004_b","(\0촀\0Nee, laat maar..."
 "010","Dit is een verkoopkist.
@@ -25,11 +22,9 @@ alles inleveren wat je wilt verkopen."
 "010_a","Ik wil iets verkopen."
 "010_b","Hoe werkt dit?"
 "010_c","Nee, niet nu."
-"020","(
-촀\0Je kunt hier geen gebruik van maken
+"020","(촀\0Je kunt hier geen gebruik van maken
 als je NookBank-rekening vol staat."
-"021","(
-촀\0Je kunt momenteel niks anders meer
+"021","(촀\0Je kunt momenteel niks anders meer
 verkopen op deze manier."
 "101","\0Hoe gebruik je de verkoopkist\0￿\0\0Lever voorwerpen in die je wilt
 verkopen, wanneer je wilt! Plaats je

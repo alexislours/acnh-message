@@ -7,8 +7,7 @@ sospetti, n\0.
 degli abitanti dell'isola, altrimenti?"
 "002","( 촀\0Stratosferico!
 \0(촀\0 Ma se ti stressa tanto, n촀,
-\0 ((촀\0fatti aiutare con 'sta ronda notturna, n\0!
-초촄(&촀\0Tu ci stai, 촆n\0?"
+\0 ((촀\0fatti aiutare con 'sta ronda notturna, n\0!\0\0초촄(&촀\0Tu ci stai, 촆n\0?"
 "002_a","Ma certo!"
 "002_b","Non saprei..."
 "002_c","Ho paura..."
@@ -129,6 +128,6 @@ come ti pare."
 "205","(
 촀\0Capperi, neanche per sogno!
 \0( (8촂\0Uffa,
-\0 va bene...
-\0 Forse hai un minimo di
+\0
+va benen\0\0 Forse hai un minimo di
 ragionen"

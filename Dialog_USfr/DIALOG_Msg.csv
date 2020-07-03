@@ -103,6 +103,8 @@ une baguette est considéré comme
 une transformation plutôt qu'un
 simple changement de tenue.\0\0La tenue que tu portes en dessous
 de ta transformation ne change pas.\0￿"
+"0505","Tu ne peux pas te changer tant que
+tu portes ta \0combinaison de plongée\0￿."
 "0551","Tu ne portes aucun vêtement qui
 puisse constituer une tenue!"
 "0552","Tu n'as pas assez de place dans
@@ -1069,6 +1071,10 @@ complètement Nook!
 Réunis-les tous pour que la
 nookitude envahisse ton intérieur!
 \0\0Produit livré par voie postale.\0￿"
+"3021","La \0combinaison de plongée\0￿ conçue
+par Nook Inc. te permet de nager et
+d'explorer librement les fonds marins.
+\0\0Produit livré par voie postale.\0￿"
 "5001","\0Appareil photo\0￿
 Prends des photos et applique
 divers filtres et effets sur tes clichés.\0\0\0\0Les photos sont sauvegardées dans
@@ -1095,6 +1101,14 @@ possibilités qui te sont offertes!"
 Consulte cette application pour en
 savoir plus sur les insectes et les
 poissons que tu as attrapés."
+"5022","\0Bibittopédie\0￿
+Consulte cette application pour en
+savoir plus sur les insectes, poissons
+et créatures marines que tu as attrapés."
+"5023","\0Bibittopédie\0￿
+L'application a été mise à jour et contient
+à présent des informations au sujet des
+créatures marines que tu as attrapées."
 "5031","\0Créations\0￿
 Consulte cette application pour en
 savoir plus sur les plans de bricolage
@@ -1530,16 +1544,27 @@ Meilleurs amis, seront réinitialisées si
 tu reprends cette partie. Continuer?"
 "8016_a","Non"
 "8016_b","Oui"
-"8017","Aucun compte Nintendo n'est
-associé à cet utilisateur, ou
-l'utilisateur doit se reconnecter
-à son compte Nintendo.\0\0Toutes les fonctions nécessitant
-un accès à Internet, comme les
-Meilleurs amis, seront réinitialisées si
-tu reprends cette partie.
-Souhaites-tu reprendre cette partie
-et réinitialiser toutes les fonctions
-nécessitant une connexion Internet?"
+"8017","L'association entre le compte de cet
+utilisateur et un compte Nintendo
+valide doit être vérifiée via Internet.\0\0Si tu commences à jouer avant cette
+vérification, toutes les fonctions
+nécessitant un accès à Internet (dont
+les meilleurs amis) seront réinitialisées.\0\0Réinitialiser toutes les fonctions
+nécessitant un accès à Internet et
+commencer à jouer?"
 "8017_a","Non"
 "8017_b","Oui"
-"8019","Reprendre la partie"
+"8018","L'association entre le compte de cet
+utilisateur et un compte Nintendo
+valide doit être vérifiée via Internet.\0\0Tu vas maintenant avoir la possibilité
+de te connecter à Internet pour
+effectuer cette vérification."
+"8018_a","OK"
+"8019","Reprise de la partie."
+"8020","L'association entre le compte de cet
+utilisateur et un compte Nintendo
+valide doit être vérifiée via Internet.\0\0Tu vas maintenant avoir la possibilité
+de te connecter à Internet pour
+effectuer cette vérification."
+"8020_a","Non"
+"8020_b","OK"

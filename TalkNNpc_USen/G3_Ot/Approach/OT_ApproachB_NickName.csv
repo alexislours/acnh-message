@@ -1,10 +1,8 @@
 ﻿"label","text"
-"001","(촀\0Oh n\0, 
-\0
-you'll never
-guess what!
-\0 ($촀\0I've thought of the
-best nickname for you, n\0."
+"001","(촀\0Oh, n\0, 
+\0you'll never
+guess what!\0\0($촀\0I've thought of the best nickname for
+you, n\0."
 "001_a","(\0촀\0What is it?"
 "001_b","My name is fine..."
 "002","(촀\0Wonderful news, n\0!
@@ -21,8 +19,7 @@ you s\0촀.\0\0(%촀\0I must say, I think it's just darling!
 \0(4촀\0
 I'm going to start calling you that
 too! 
-\0
-That is, if you don't mind?"
+\0That is, if you don't mind?"
 "003_a","Go right ahead!"
 "003_b","Please don't."
 "004","(촀\0Oh!
@@ -31,8 +28,7 @@ for you, n\0!"
 "004_a","(\0촀\0Let's hear it!"
 "004_b","I'm good, thanks."
 "005","(촀\0Oh, n\0!
-\0
- Perfect!
+\0 Perfect!
 \0
 (""촀\0I just came up with an excellent
 new nickname for you.
@@ -53,8 +49,7 @@ that be OK, n\0?"
 "006_a","Fine by me!"
 "006_b","Not really, no."
 "100","(""촀\0Alrighty,
-\0
- here it isn\0\0
+\0 here it isn\0\0
 \0
 2\0n\0!
 
@@ -62,21 +57,17 @@ that be OK, n\0?"
 "100_a","I like it!"
 "100_b","Um, it's kind of..."
 "101","(촀\0Oh!
-\0
- I see.
-\0
- Well!
+\0 I see.
+\0 Well!
 \0(촀\0 If you like what
 I already call you, then I guess I'd
 best not change it, n\0."
 "102","(촀\0Wonderful! I knew you
 would, n\0!\0\0(%촀\0Well then,
-\0
- from this day forward,
+\0 from this day forward,
 \0
 (""촀\0I shall call you n\0!"
-"103","(
-촀\0Ohn\0\0 Oh, I seen\0\0
+"103","(촀\0Ohn\0\0 Oh, I seen\0\0
 \0 (\0촀\0Well, 
 \0($촀\0what would
 you prefer, then?"
@@ -118,15 +109,12 @@ Now, 
 try,
 \0 shall we, n\0?"
 "200","(촀\0Wonderful, n\0!
-\0
- Perfect!
+\0 Perfect!
 \0(
 (촀\0Now then, you have a lovely
 dayn\0\0
-\0
-n\0!"
+\0n\0!"
 "201","(촀\0Oh dearn\0\0
-\0
- I seen\0\0
+\0 I seen\0\0
 \0(촀\0 Alright, then.
 I understand, n\0."

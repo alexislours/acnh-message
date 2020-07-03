@@ -1,11 +1,11 @@
 ﻿"label","text"
 "001","<"
-"001_01","(
-촀\0Chissà se qui costruiranno un'altra
-casan\0\0 (촀\0Stanno già costruendo un po'
+"001_01","(촀\0Chissà se qui costruiranno un'altra
+casan\0\0 (촀\0Stanno già edificando un po'
 troppo, 
 \0secondo me.
-(	촀\0In altre parole, giù le mani dal
+(	촀\0In altre parole, 
+\0giù le zampe dal
 mio prato!"
 "001_02","(촀\0Non fare caso a me. 
 \0Faccio solo in
@@ -23,8 +23,7 @@ l'ideale per pensare, senza troppe
 distrazionin\0\0
 (&촀\0Non sei d'accordo anche tu,
 n\0?"
-"001_05","(
-촀\0Mmmhn\0\0 Sembra che qui sia tutto
+"001_05","(촀\0Mmmhn\0\0 Sembra che qui sia tutto
 a posto.
 \0 (%촀\0Bene, benen\0\0(\0촀"
 "002","(%촀\0Mi piace considerare tutta quest'area
@@ -49,8 +48,7 @@ lì non ci vivrei mai,
 (8촀\0Beh, se a te sta bene così,
 \0 (촀\0nessun
 problema, n\0!"
-"005","촊(
-촀\0Beh, almeno è un punto di partenza,
+"005","촊(촀\0Beh, almeno è un punto di partenza,
 non credi?\0\0촆(6촀\0Basta buttare giù un muro qui, uno
 lì, un altro muro là... 
 \0E hai creato
@@ -104,8 +102,7 @@ costruirne una io stesso scavando
 sotto la mia vecchia casan\0\0
 ('촀\0E aggiungerò solo che non è andata
 affatto come speravo."
-"012","촊촉(
-촀\0Quindi s\0촀 vive ancora in una tenda?\0\0촆촃(촀\0Io non ci trovo nulla di male.
+"012","촊촉(촀\0Quindi s\0촀 vive ancora in una tenda?\0\0촆촃(촀\0Io non ci trovo nulla di male.
 \0(%촀\0 Anzi,
 è come vivere sempre a contatto
 con la natura!
@@ -119,8 +116,7 @@ dalla sua grandezza? 
 \0(촆촃(촀\0La si giudica da
 quanto è pulito il bagno! 
 \0(촀\0AHAHAH!"
-"014","촊(
-촀\0Mmmh, pare che s\0촀 non sia in casa. 
+"014","촊(촀\0Mmmh, pare che s\0촀 non sia in casa. 
 \0Magari è in viaggio per lavoro...\0\0촆촃(%촀\0Beh, spero che abbia spento le luci.
 
 \0Bisogna sempre risparmiare energia,
@@ -130,8 +126,7 @@ quando è possibile!"
 nuova ala! 
 \0(촀\0Tra poco ci fa costruire intorno anche un fossato. 
 \0(촀\0AHAHAH!"
-"016","촊(
-촀\0Se fossi s\0촀, 
+"016","촊(촀\0Se fossi s\0촀, 
 \0vivere in una casa così촉 mi basterebbe.\0\0촆(5촀\0Ma non credo che si fermerà.
 
 \0Magari vuole un posto ancora
@@ -144,8 +139,7 @@ ha adesso촉 s\0촀!?\0\0촆촃('촀\0Io non giudico, 
 \0se uno vuole
 una casa più grande, behn\0\0 si
 accomodi pure.
-(
-촀\0E se invece
+(촀\0E se invece
 \0 fosse casa mian\0\0 
 \0((촀\0a
 essere troppo piccola?! 
@@ -159,8 +153,7 @@ piani appartiene nientemeno che
 "019","(촀\0Sai cosa si dice in giro?
 \0( Si dice che s\0촀 abbia costruito la sua cantina da sol2촀oa\0!\0\0(촀\0Oh, io adoro le cantine.
 \0 È come se
-fossero dei fortini sotterranei.\0\0(
-촀\0Chissà come ha arredato la sua
+fossero dei fortini sotterranei.\0\0(촀\0Chissà come ha arredato la sua
 cantina, n\0..."
 "020","(촀\0Usare un angolino di tenda come
 negozio può sembrare una miseria,
@@ -186,8 +179,7 @@ sdolcinata che mi sembra di aver
 mangiato una torta. 
 \0(촀\0AHAHAH!"
 "024","촊촉(&촀\0Ehilà, hai sentito che finalmente
-avremo un \0museo\0￿?\0\0촆촃(
-촀\0Però i musei hanno un probleman\0\0
+avremo un \0museo\0￿?\0\0촆촃(촀\0Però i musei hanno un probleman\0\0
 e cioè che bisogna metterci dentro
 qualcosa!\0\0(%촀\0\0Blatero \0￿sarà felicissimo se deciderai
 di donare al museo 
@@ -217,8 +209,7 @@ pessimo o la durata del viaggion\0\0
 \0(촀\0È per TUTTI questi motivi insieme!"
 "031","(%촀\0Questa piazza sembra molto utile.
 \0
-(
-촀\0Mi pare logico,
+(촀\0Mi pare logico,
 \0 visto che è proprio
 nel bel mezzo di tutto."
 "032","(%촀\0Questa pavimentazione dà un vero
@@ -253,8 +244,7 @@ spesso a visitare i musei.
 \0(5촀\0Chiaramente, 
 \0dev'essermi rimasto
 l'occhio dell'artista!"
-"119","(
-촀\0L'altro giorno mi è venuto un classico ""pensiero da n
+"119","(촀\0L'altro giorno mi è venuto un classico ""pensiero da n
 \0"".\0\0(&촀\0Quando dormono i pesci? 
 \0E dove?
 Hanno dei letti? 
@@ -262,27 +252,23 @@ Hanno dei letti? 
 hanno dei letti nel letto del fiume?
 (1촀\0E quindi, 
 \0dove dovrebbe dormire
-2\0
-\0?"
+2\0\0?"
 "120","(촀\0L'altro giorno, al \0museo\0￿, 
 \0ho visto
-2\0
-.\0\0(
-촀\0Mi sono ricordato che da bambino
+2\0.\0\0(촀\0Mi sono ricordato che da bambino
 
 \0cercavo sempre di prendere quegli
-animaletti a mani nude.
+animaletti a zampe nude.
 ('촀\0E pensare che adesso, da adulto,
 
 \0forse urlerei come un pazzo 
 \0se una
-cosa così si posasse sulla mia mano!"
+cosa simile si posasse su di me!"
 "121","(&촀\0Ehi, hai presente quel fossile
 esposto al \0museo\0￿? 
 \0Capito quale?
 
-\0(촀\02\02\0
-!
+\0(촀\02\02\0!
 (1촀\0Te lo immagini che se ne va in giro
 liberamente? 
 \0('촀\0Altro che il mondo di
@@ -292,10 +278,8 @@ oggi. O quello di domani. 
 riesco a comprendere. 
 \0(촀\0Altre le
 capisco dopo qualche occhiata.
-(
-촀\0Come quell'operan\0\0 Intendo
-2\0
-!\0\0(%촀\0Più la guardo e più mi piace.
+(촀\0Come quell'operan\0\0 Intendo
+2\0!\0\0(%촀\0Più la guardo e più mi piace.
 (\0촀\0Io e lei dobbiamo essere molto
 simili. 
 \0(촀\0AHAHAH!"

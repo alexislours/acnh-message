@@ -30,8 +30,7 @@ but it slipped away yet again!"
 \0 You are
 a true gem!"
 "012","(촀\0Oh my, 
-\0
-thank you!
+\0thank you!
 \0 I simply
 can't wait!"
 "013","(촀\0Oh my, 
@@ -64,14 +63,14 @@ that means it's bound to happen!"
 I'd nearly given up,
 \0 but I'll
 keep at it a bit longer."
-"021","Say n\0,
-\0 (&촀\0are you good at catching bugs?\0\0(\0촀\0And while we're on the subject, 
+"021","Say, n\0,
+\0 (&촀\0are you
+good at catching bugs?\0\0(\0촀\0And while we're on the subject,
 \0(촀\0
 don't you think rhinoceros beetles
 have the most magnificent horns?
 ()촀\0I hear that the size varies from beetle
-to beetle—
-\0a fact I'd very much like
+to beetle—a fact I'd very much like
 to study for myself.
 (7촀\0Surely you see where I'm going with
 this.
@@ -129,15 +128,12 @@ No problem!"
 "023_b","Sorry.
 I can't right now.
 Sorry, but I can't."
-"025","So n\0,
-\0 (&촀\0do you
-happen to be any good at catching
-bugs? I ask because, welln\0\0
-()촀\0butterflies have a mouth shaped like
-a straw, 
-\0(촀\0and I'm simply dying to see
-how they drink nectar with it!
-(&촀\0Would you be a dear and catch one
+"025","(&촀\0Do you happen to be any good at
+catching bugs, n\0?\0\0()촀\0I ask because butterflies have a
+mouth shaped like a straw, if you
+can believe it.
+(촀\0And I'm simply dying to see how they
+drink nectar with it!\0\0(&촀\0Would you be a dear and catch one
 for me? 
 \0I'm not picky. 
 \0(""촀\0I'd be thrilled
@@ -188,12 +184,10 @@ No problem!"
 "027_b","Sorry.
 I can't right now.
 Sorry, but I can't."
-"028","(촀\0Oh n\0,
+"028","(촀\0Oh, n\0,
 \0 I need to ask
-you something. 
-\0((""촀\0I've been trying to
-catch a bug that lives on stumpsn\0\0
-()촀\0They're quite fascinating, 
+you something.\0\0(""촀\0I've been trying to catch a bug that
+lives on stumpsn\0\0\0\0()촀\0They're quite fascinating, 
 \0you know.
 \0
 I even found the perfect specimen!
@@ -271,8 +265,7 @@ catching one for me?"
 "102","(촀\0Oh, n\0!
 \0( ('촀\0No matter how
 hard I try, 
-\0
-I can't seem to catch
+\0I can't seem to catch
 2\0}촀.
 (촀\0All that searching and not a single
 one!

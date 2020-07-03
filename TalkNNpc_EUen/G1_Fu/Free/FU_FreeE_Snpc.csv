@@ -46,19 +46,13 @@ something that I requested
 \0 and her visit means
 \0
 (촀\0I can buy fresh turnips!"
-"008","(
-촀\0I'm curious about that odd-looking
+"008","( 촀\0Have you noticed that suspicious
 boat
-\0 anchored off the northern coast
-of the island.
-('촀\0It's not a fishing boat,
-\0(4촀\0 and it's a bit
-too 
-\0rustic to be a pleasure cruiser.\0\0(9촀\0This may just be a case for my
-mystery-obsessed alter egon\0\0
-\0
-(촀\0Detective n
-\0!"
+\0 anchored off the northern shore
+of the island, n\0?
+('촀\0I never thought a boat could look
+untrustworthyn\0\0
+\0(+촀\0until now."
 "009","(8촀\0You want to hear something weird?
 \0
 When I was out for a walk earlier,
@@ -117,8 +111,7 @@ that's comfortable and practical."
 "018","( 촀\0Oh!
 \0( I need to (9촀\0try and catch up with
 \0Celeste\0￿
-\0 while she's still around.\0\0(
-촀\0I wanted to ask about a constellation
+\0 while she's still around.\0\0(촀\0I wanted to ask about a constellation
 \0
 I thought I might use in a poem
 \0n"
@@ -127,8 +120,7 @@ managed to catch something
 out of the corner of my eye.
 It was yellow, 
 \0( 촀\0and it was bouncing
-around with sooo much energy!\0\0(
-촀\0I'm telling you, 
+around with sooo much energy!\0\0(촀\0I'm telling you, 
 \0it was the oddest
 thing, n\0."
 "020","(촀\0Oh,
@@ -140,6 +132,20 @@ been wanting to add to my garden,
 (촀\0but it's a bit persnickety.
 (%촀\0I'm hoping he can give me a little
 green-thumb guidance."
+"021","( 촀\02\0n\0!
+\0 My goodness,
+I'm so glad I ran into you!\0\0(촀\0Somebody's sleeping on the beach,
+\0
+and it looks like he's in pretty
+rough shape.
+(촀\0There was something strangely
+familiar about the whole ordealn\0\0\0\0(\0촀\0Huh. 
+\0Anyway, 
+\0(%촀\0I went looking for you
+right away, n\0.\0\0(\0촀\0Although in retrospect, 
+\0(촀\0I probably
+should have just offered to help them
+right then and there."
 "100","()촀\0A little while ago,
 \0 I ran into someone
 visiting from off-island.\0\0(\0촀\02\0n\0,
