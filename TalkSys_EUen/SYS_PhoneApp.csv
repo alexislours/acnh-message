@@ -79,6 +79,16 @@ on n!\0, right?
 \0
 Again? Got yourself in another
 pickle, huh?d"
+"021_04","d\0I got it. 
+\0This is n\0
+of n""\0, right?d"
+"021_05","d\0Just gimme a sec...
+\0 OK! Got it!
+\0
+2\0n\0 from over on
+n""\0, right?
+
+\0In a bit of a jam, huh?d"
 "022","d\0Hey, pal. 
 \0You're a first-time user,
 right? 
@@ -247,6 +257,30 @@ start overn\0\0 You good with that?d"
 ain't ya?\0\0In that case, I'm supposed to drop
 ya \0where the planes land\0￿ so you can
 start over!d"
+"049_02","d\0What's going on here? 
+\0Hey, paln\0\0
+\0
+You diggin' in strange tunnels?
+\0(
+Like tryin' to look through mud here.
+Well, 
+\0I ain't got much choice.
+\0
+I gotta drop ya at the \0nearest
+plaza\0￿.
+\0 Ya good with that?d"
+"049_02_a","Yes, please!"
+"049_02_b","('촁\0Cancel."
+"049_03","d\0Glad that's settled. 
+\0I'll go ahead and
+drop ya at the plaza on 
+\0whatever
+n \0 you're on.
+Since I ain't givin' ya a choice in
+locations, 
+\0this one's on me.
+\0 Ya can
+keep those miles for another day!d"
 "049_a","Yes, please!"
 "049_b","('촁\0Cancel."
 "050_01","d\0Your tent? 
@@ -319,6 +353,13 @@ rocket science!\0\0To begin with, 
 accessing the \0Nook Stop \0￿on the
 daily.
 \0 Remember that!d"
+"065","<"
+"065_01","d\0What's all this nonsense 'bout free
+rescue service? 
+\0Dream on, pal!
+\0(
+Ain't nothin' in this world free. 
+\0Hah!d"
 "201","Should I start up the \0Island Designer
 \0￿app and do some construction work?"
 "201_a","Start construction!"
@@ -523,4 +564,10 @@ while I'm swimming..."
 Guess I can't use it here."
 "321","Looks like I can't use the Chat Log
 app during Party Playn"
+"332","Oh, I don't think I can use this
+app while I'm dreaming..."
+"333","Hmmn\0\0the reception isn't great in
+here.
+\0 It doesn't seem like you can
+open the app right now."
 "999","\0100 \0￿miles"

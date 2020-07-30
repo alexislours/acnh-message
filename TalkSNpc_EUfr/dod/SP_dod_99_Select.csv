@@ -32,10 +32,6 @@
 "009_b","Laisse tomber."
 "010_a","Oui, c'est ça."
 "010_b","Euh, laisse tomber."
-"011_a","(\0촀\0Fermer l'accès."
-"011_b","Laisser ouvert."
-"012_a","(\0촀\0Ouvrir l'accès."
-"012_b","Laisser fermé."
 "013_a","Ouvre l'accès, stp."
 "013_b","Ferme l'accès, stp."
 "013_c","J'ai oublié mon Dodo Code™."
@@ -59,7 +55,6 @@
 "101_b","M2
 ona moi du futur."
 "101_c","Un ami."
-"101_e","Laisse tomber."
 "102_a","Oui !"
 "102_b","Pas maintenant."
 "103_a",""

@@ -58,6 +58,10 @@ que salir al exterior, ¿entendido?d"
 \0
 ¿No puedes estarte quiet2oa
 o qué te pasa?d"
+"021_04","d\0Aquí está.
+\0 Eres n\0 de n	\0, ¿no?d"
+"021_05","d\0A vern\0\0 Eres n\0 de n	\0, ¿no?
+\0 Pues dime, ¿en qué lío te metiste hoy?d"
 "022","d\0Veo que es la primera vez que usas
 nuestro servicio.
 \0 Te voy a explicar
@@ -222,6 +226,23 @@ dejarte en la \0zona de aterrizaje
 del avión\0￿.
 Así podrás volver a empezar desde
 el principio.d"
+"049_02","d\0¿En qué lío te has metido?
+\0 ¿Estás
+teniendo uno de esos sueños en los
+que intentas huir y no ves la salida?
+Pues no tengo muchas opcionesn\0\0
+\0
+Te llevaré a \0la plaza más cercana\0￿,
+\0
+¿te parece bien?d"
+"049_02_a","¡Sí, porfa!"
+"049_02_b","Ya no quiero"
+"049_03","d\0Pues dicho y hecho:
+\0 te dejo en la
+plaza de la isla en la que estás.\0\0Como no pudiste elegir el destino,
+\0
+yo invito este viaje y te ahorras
+las millas.d"
 "049_a","¡Sí, porfa!"
 "049_b","Cambié de parecer"
 "050_01","d\0¿A tu tienda de campaña?
@@ -284,6 +305,11 @@ para conseguir muchas millas Nook.\0\0Por ejemplo, te dan millas por usar
 la \0terminal Nook \0￿todos los días.
 \0
 ¡No lo olvides!d"
+"065","<"
+"065_01","d\0No te acostumbres a esto de que
+te rescaten como si nada, ¿eh?
+\0
+En la vida las cosas no funcionan así.d"
 "201","¿Abro la aplicación \0Obras públicas
 \0￿y empiezo a trabajar?"
 "201_a","¡Sí!"
@@ -496,4 +522,11 @@ usar la aplicación aquí."
 "321","Vaya, parece que la aplicación
 \0Historial del chat\0￿ no funciona
 durante partidas en grupon"
+"332","No, me parece que esta aplicación
+no funciona en sueñosn"
+"333","Uy,
+\0 parece que en este momento
+hay muy mala cobertura.
+\0
+No me deja abrir la aplicación."
 "999","\0100 \0￿millas"

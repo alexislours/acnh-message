@@ -41,6 +41,14 @@ souhaites des informations?"
 "020_c","Aucun pour le moment."
 "021","(촀\0Les paramètres de sauvegarde, hm?
 Avec plaisir, oui, oui!"
+"022","Alors les paramètres, parlons-en.
+\0
+Quels sont ceux sur lesquels tu
+souhaites des informations?"
+"022_a","Les données de sauvegarde."
+"022_b","NookLink."
+"022_c"," L'archivage de l'île?"
+"022_d","En fait, laisse tomber."
 "051","(촀\0Oui, oui, je comprends. 
 \0Dans ce cas,
 le plus simple est de retourner à
@@ -94,6 +102,16 @@ moi et les autres."
 "062_03","(\0촀\0n\0\0 Je te suggère donc de n'avoir
 recours à cette solution radicale
 qu'en cas d'absolue nécessité."
+"062_04","()촀\0De plus, si tu as activé l'archivage
+de l'île,
+\0 (9촀\0ce dernier sera à nouveau
+désactivé par défaut."
+"062_05","()촀\0De plus, si s\0촀 a activé l'archivage de l'île, 
+\0(9촀\0ce dernier sera à nouveau désactivé par défaut."
+"062_06","()촀\0De plus, si ce résident a activé
+l'archivage de l'île,
+\0 (9촀\0ce dernier sera
+à nouveau désactivé par défaut."
 "063_01","(9촀\0Je m'apprête à te fournir quelques
 informations sur la suppression du
 dossier d'inscription de résidentn\0\0
@@ -252,6 +270,20 @@ quel résident penses-tu supprimer?"
 "112_b","Effacer données d'un autre."
 "112_c","Effacer le dél. insulaire?"
 "112_d","En fait, non."
+"113","(\0촀\0Par contre, si le dossier d'inscription
+2
+de d'⁠s\0촀 est supprimé,
+\0('촀\0 tu ne pourras plus jamais faire cela."
+"114","(%촀\0C'est donc une démarche qu'il ne
+convient d'effectuer qu'en cas
+d'absolue nécessité.
+(9촀\0Alors, je te le demande à nouveau :
+\0
+souhaites-tu effacer le dossier
+d'inscription 2
+de d'⁠s\0촀?"
+"114_a","En fait, non."
+"114_b","\0Supprimer le dossier.\0￿"
 "201","(9촀\0Tu souhaites supprimer le dossier
 d'un résident?
 \0 Oui, oui, c'est dans

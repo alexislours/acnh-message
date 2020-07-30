@@ -69,6 +69,12 @@ even naar buiten te gaan, oké?d"
 "021_03","d\0Even zienn\0\0
 \0 Wablief? 2\0n\0?
 \0 Zit je nou alweer in de nesten?(%촁\0d"
+"021_04","d\02\0n\0 van n""\0,
+\0 correct?(%촁\0
+\0 Mooi, mooi.d"
+"021_05","d\0Momentje, hoorn\0\0 Aha!
+\0 n\0 van n""\0, toch?\0\0(%촁\0
+\0Leuk om van je te horen.d"
 "022",""
 "023_01","d\0Onze prijslijst is vrij overzichtelijk:
 \0
@@ -235,6 +241,25 @@ niet de eerste en je zult vast ook niet
 de laatste zijn.\0\0Volgens de reisvoorwaarden moet je
 opnieuw beginnen vanaf \0waar het
 vliegtuig landt\0￿n\0\0 Hou je vast!d"
+"049_02","d\0Wat raar. 
+\0Sorry maatje.
+\0 Je bent nogal
+een eind afgedwaald, hè?
+\0( Het is
+lastig vast te stellen waar je bentn\0\0\0\0Hm. 
+\0Voor de veiligheid kan ik je beter
+naar het \0dichtstbijzijnde plein\0￿
+brengen.
+\0 Vind je dat goed?d"
+"049_02_a","Ja, graag!"
+"049_02_b","Hm, laat maar."
+"049_03","d\0Bedankt voor de bevestiging. 
+\0Ik zal
+je naar het plein brengen van het
+eiland waar je nu bent.\0\0En omdat dit een uitzonderlijke
+situatie is, kost deze vlucht je niets.
+\0
+Je hoeft me dus geen miles te geven!d"
 "049_a","Ja, graag!"
 "049_b","Hm, laat maar."
 "050_01","d\0Je wilt naar je tent? 
@@ -333,6 +358,13 @@ blijven ze het maar zeggenn\0\0d"
 \0Nookstation\0￿ in de servicebalie voor
 de miles, hè?
 \0( Makkelijk verdiend.d"
+"065","<"
+"065_01","d\0Een beetje gratis gebruikmaken van
+de reddingsdienstn\0\0 Dat is niet
+bepaald netjes!\0\0Bah.
+\0 Goed, ik neem je voor niks mee,
+maar ik bepaal waar we naartoe
+gaan!d"
 "2001","d\0Pardon?
 \0 O, je hoorde al dat er
 vandaag

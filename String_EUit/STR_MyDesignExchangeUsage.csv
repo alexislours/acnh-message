@@ -1,4 +1,7 @@
 ﻿"label","text"
+"0001","Pavimento"
+"0002","Trucco"
+"0003","Vestito senza maniche"
 "0099","Modello personalizzato"
 "0100","Maglia a maniche lunghe"
 "0101","Maglietta a maniche corte"
@@ -15,3 +18,4 @@
 "0112","Berretto con visiera"
 "0113","Cappello di lana"
 "0114","Cappello con falda"
+"1099","Altro"

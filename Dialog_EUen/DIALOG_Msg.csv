@@ -57,8 +57,6 @@ can register!"
 "0301_a","Close"
 "0303_a","Close"
 "0304_a","Close"
-"0307","Receiving new mail."
-"0308","Verifying data."
 "0310","Hold on just a sec, OK?"
 "0321","You can't favorite a message if you
 haven't even read it yet!"
@@ -159,6 +157,32 @@ to the internet again?"
 process fails repeatedly, please retake
 your profile photo and try again."
 "0820_a","Close"
+"0830","\0Important Info on Sharing Dreams\0￿
+When you share a dream of your
+island, other players—including ones
+you don't know—will be able to visit
+a version of your island.\0\0\0That means that player-generated
+data about your island and its
+residents—captured at the time the
+dream is shared—will be made public.\0\0\0￿\0This data includes your name, your
+passport info, the look of your entire
+island, rooms in homes, your custom
+designs, any bulletin-board posts,
+and more.\0￿"
+"0830_a","I Understand"
+"0831","\0Important Info on Sharing Dreams\0￿
+When you share a dream of your
+island, other players—including ones
+you don't know—will be able to visit
+a version of your island.\0\0\0That means that data about your
+island and its residents—captured
+at the time the dream is shared—will
+be made public.\0\0\0￿\0This data includes your name, your
+passport info for all residents, the
+look of your entire island, rooms in
+homes, your custom designs, any
+bulletin-board posts, and more.\0￿"
+"0831_a","I Understand"
 "0921","You can make up to two posts during
 one trip."
 "0921_a","OK"
@@ -244,6 +268,8 @@ airport gate is open."
 Please close the connection at the
 airport counter."
 "1124_a","Close"
+"1125","You can't place orders at this time."
+"1125_a","Close"
 "1201","Are you sure you want to delete
 \0s촀\0￿?"
 "1201_a","Actually, no."
@@ -898,11 +924,9 @@ creation?"
 "2428","You've reached the limit for the
 number of custom designs you can
 post. Please select one to delete."
-"2428_a","Got it!"
 "2429","You don't seem to have any custom
 designs of your own. Please try again
 after you've made a custom design."
-"2429_a","Got it!"
 "2430","It seems this design has already
 been posted.
 \0\0You can repost it if you edit it.\0￿"
@@ -921,6 +945,9 @@ Would you like to enter the ID again?"
 "2434","There are no designs for creator
 ID \0촀\0￿.
 Would you like to enter the ID again?"
+"2434_01","There are no designs for creator
+ID \0촀\0￿."
+"2434_01_a","Back"
 "2434_a","Back to Menu"
 "2434_b","Redo"
 "2435","The custom design has been deleted."
@@ -941,6 +968,49 @@ want to view your designs?"
 "2440_b","View Mine"
 "2441","An error has prevented the design
 from being shared on social media."
+"2442","Remove \0s\0촀\0￿ from
+your favorites?"
+"2442_a","No"
+"2442_b","Yes"
+"2444","2\0\0s\0촀\0￿ has been
+removed from your favorites."
+"2445","Your list of favorite creators is full.
+You cannot add any more favorites
+at this time."
+"2446","Your search criteria did not match
+any designs. Do you want to redo
+your criteria and search again?"
+"2446_a","Back to Menu"
+"2446_b","Redo"
+"2447","\0\0New Custom-Design Search Options\0￿
+You can now search for custom
+designs from your favorite creators
+or by using a criteria search.\0\0\0Criteria Search\0￿
+Use this option to search for designs
+by name or type.\0\0\0Favorites Search\0￿
+Use this option to search for designs
+by creators who you have added
+to your list of favorites.\0\0You can add a creator to your list of
+favorites while you're viewing one
+of their designs. We hope you enjoy
+these new search features!"
+"2448","\0\0Custom-Design Types\0￿
+You can now assign a type to all
+custom designs (excluding Pro
+designs) to facilitate searching.
+Just press \0\0￿ to assign a type to
+your design. Previously posted
+designs can also be assigned a type.\0\0\0\0Setting a type does not limit how a
+custom design can be used. Also,
+it is possible to change a design's
+type even after it has been posted.\0￿"
+"2449","Design type changed."
+"2450","No designs found associated with
+creator ID \0촀\0￿.
+Do you want to make a different
+selection?"
+"2450_a","Back to Menu"
+"2450_b","Select Again"
 "2501","Each player can send up to 2
 messages per day online through
 Nook Shopping."
@@ -1031,6 +1101,11 @@ filters and effects.\0\0\0\0The pictures will be saved to the
 Album on the HOME Menu, and other
 users who use the same system will
 be able to see them.\0￿"
+"5002","\0Displaying Control Guide\0￿
+\0Press  \0￿to toggle the control
+guide on or off.\0\0\0\0You cannot turn the guide off when
+using the solo horizontal grip on a
+Joy-Con controller.\0￿"
 "5011","\0Nook Miles\0￿
 You're enrolled in the
 Nook Mileage Program!\0\0Earn \0Nook Miles \0￿for completing
@@ -1341,6 +1416,12 @@ that you are currently wearing.
 To show off the changes to a
 custom design, select the updated
 design and choose \0Wear\0￿."
+"5302_01","You saved over a custom design
+that you're currently wearing.
+
+If you want to wear the new design,
+please select it and choose \0Wear
+\0￿after you leave the dream."
 "5303","You have registered a custom design
 to a transformation outfit. The design
 on the outfit will not disappear even if
@@ -1472,3 +1553,16 @@ connect to the internet to complete
 this process."
 "8020_a","No"
 "8020_b","Close"
+"9001","Do you want to begin island backup
+restoration?"
+"9001_a","Cancel"
+"9001_b","Begin"
+"9012","Now checking island backup data..."
+"9012_a","Close"
+"9013","The island backup data check is
+complete. Gameplay will now resume."
+"9013_a","Close"
+"9015","The game will now start."
+"9015_a","Close"
+"9016","Saving.
+\0\0Do not touch .\0￿"

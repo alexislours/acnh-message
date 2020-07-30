@@ -30,12 +30,18 @@ help you?"
 "012_c","I'm done talking."
 "020","Now, what settings would you like to
 talk about today?"
-"020_a","Save data settings."
-"020_b","NookLink settings."
+"020_a","Save data."
+"020_b","NookLink."
 "020_c","Nothing right now."
 "021","(촀\0Save data settings, hm?
 \0
 Of course! Of course!"
+"022","Now, what settings would you like to
+talk about today?"
+"022_a","Save data."
+"022_b","NookLink."
+"022_c"," Island backup."
+"022_d","I'm done talking."
 "051","(촀\0Yes, yes, I understand!
 \0 In that case,
 let's return you to the title screen.\0\0(""촀\0
@@ -92,6 +98,18 @@ my and other residents' memories."
 \0I strongly suggest that you
 only proceed with this drastic step
 when it's absolutely necessary."
+"062_04","()촀\0Additionally, if you enabled island
+backup,
+\0 (9촀\0that setting will also be
+erased."
+"062_05","()촀\0Additionally, if s\0촀
+enabled island backup,
+\0(9촀\0 that
+setting will also be erased."
+"062_06","()촀\0Additionally, if that resident enabled
+island backup,
+\0 (9촀\0that setting will also
+be erased."
 "063_01","(9촀\0I should give you some information
 about deleting resident
 registrationsn\0\0\0\0()촀\0If deleted, all memory and property
@@ -244,6 +262,17 @@ of deleting?"
 "112_b","Delete another's data."
 "112_c","Delete Resident Rep.?"
 "112_d","I don't want to do that."
+"113","(\0촀\0n\0\0So, 
+\0if s\0촀's resident
+registration is deleted, 
+\0('촀\0you'll never
+be able to do that in the future."
+"114","(%촀\0I strongly suggest doing this process
+only when absolutely necessary.\0\0(9촀\0Do you still wish to delete
+s\0촀's resident
+registration?"
+"114_a","I don't want to do that."
+"114_b","\0Delete resident registration.\0￿"
 "201","(9촀\0You want to delete a resident?
 \0
 Yes, yes, 

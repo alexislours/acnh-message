@@ -62,8 +62,6 @@ nichts mehr tragen."
 "0301_a","Schließen"
 "0303_a","Schließen"
 "0304_a","Schließen"
-"0307","Post wird abgeholt..."
-"0308","Daten werden überprüft..."
 "0310","Einen Moment, bitte!"
 "0321","Du kannst eine Nachricht nicht als
 Favoriten markieren, wenn du sie
@@ -181,6 +179,36 @@ werden. Sollte dieser Fehler wieder-
 holt auftreten, nimm ein neues Bild
 auf und versuche es dann erneut."
 "0820_a","Schließen"
+"0830","\0Wichtige Info zum Teilen von Träumen\0￿
+Wenn du einen Traum deiner Insel
+teilst, können andere Spieler – auch
+solche, die du nicht kennst – eine
+Traumversion deiner Insel besuchen.\0\0\0Das bedeutet, dass von Spielern
+generierte Daten deiner Insel und
+ihrer Bewohner, die zum Zeitpunkt
+des Teilens deines Traums aufge-
+zeichnet wurden, der Öffentlichkeit
+zugänglich gemacht werden.\0￿\0\0\0Dazu zählen dein Name, deine Pass-
+Einträge, das Aussehen deiner Insel,
+Zimmer in Häusern, eigene Designs,
+Beiträge am Schwarzen Brett und
+andere Inhalte.\0￿"
+"0830_a","Verstanden"
+"0831","\0Wichtige Info zum Teilen von Träumen\0￿
+Wenn du einen Traum deiner Insel
+teilst, können andere Spieler – auch
+solche, die du nicht kennst – eine
+Traumversion deiner Insel besuchen.\0\0\0Das bedeutet, dass Daten deiner
+Insel und ihrer Bewohner, die zum
+Zeitpunkt des Teilens deines Traums
+aufgezeichnet wurden, der Öffentlich-
+keit zugänglich gemacht werden.\0￿\0\0\0Dazu zählen die Namen und Pass-
+Einträge aller Einwohner, das
+Aussehen deiner Insel, Zimmer in
+Häusern, eigene Designs, Beiträge
+am Schwarzen Brett und andere
+Inhalte.\0￿"
+"0831_a","Verstanden"
 "0921","Bei einem Ausflug kannst du bis
 zu zwei Aushänge verfassen."
 "0921_a","OK"
@@ -273,6 +301,9 @@ du keine Bestellungen aufgeben."
 aufgeben. Bitte beende die
 Verbindung am Flughafenschalter."
 "1124_a","Schließen"
+"1125","Du kannst jetzt keine
+Bestellungen aufgeben."
+"1125_a","Schließen"
 "1201","„\0s촀\0￿“
 wird dabei gelöscht. Fortfahren?"
 "1201_a","Nein"
@@ -964,11 +995,9 @@ Design hochladen?"
 "2428","Du hast die Obergrenze für
 hochgeladene Designs erreicht.
 Welches möchtest du löschen?"
-"2428_a","Verstanden!"
 "2429","Es gibt keine Designs, die du selbst
 erstellt hast. Bitte erstelle eines,
 bevor du diesen Service nutzt."
-"2429_a","Verstanden!"
 "2430","Dieses Design wurde
 bereits hochgeladen.
 \0\0Wenn du es veränderst, kannst
@@ -988,6 +1017,10 @@ Möchtest du deine Eingabe ändern?"
 "2434","Es wurden keine Designs für die
 Ersteller-ID \0촀\0￿
 gefunden. Eingabe ändern?"
+"2434_01","Es wurden keine Designs für die
+Ersteller-ID \0촀\0￿
+gefunden."
+"2434_01_a","Zurück"
 "2434_a","Zum Menü"
 "2434_b","Ändern"
 "2435","Das Design wurde gelöscht."
@@ -1011,6 +1044,51 @@ Möchtest du deine Designs sehen?"
 "2441","Das Teilen des Designs in sozialen
 Medien ist fehlgeschlagen, weil ein
 Fehler aufgetreten ist."
+"2442","Möchtest du \0s\0촀\0￿
+aus deinen Favoriten entfernen?"
+"2442_a","Nein."
+"2442_b","Ja."
+"2444","2\0\0s\0촀\0￿ wurde aus
+deinen Favoriten entfernt."
+"2445","Die Liste deiner Lieblingsersteller
+ist voll. Du kannst derzeit keine
+weiteren Favoriten hinzufügen."
+"2446","Zu deinen Suchkriterien wurden
+keine Designs gefunden. Möchtest
+du sie ändern und erneut suchen?"
+"2446_a","Zum Menü"
+"2446_b","Ändern"
+"2447","\0\0Neue Design-Suchfunktionen\0￿
+Du kannst ab sofort nach Designs
+deiner Lieblingsersteller suchen oder
+andere Suchkriterien eingeben.\0\0\0Kriteriensuche\0￿
+Nutze diese Option, um nach Designs
+mit einem bestimmten Namen oder
+eines bestimmten Typs zu suchen.\0\0\0Favoritensuche\0￿
+Möchtest du nach Designs eines
+bestimmten Lieblingserstellers
+suchen, verwende diese Option.\0\0Du kannst einen Ersteller deinen
+Favoriten hinzufügen, wenn du ein
+Design von ihm aufrufst. Viel Spaß
+mit den neuen Suchfunktionen!"
+"2448","\0\0Design-Typen festlegen\0￿
+Um künftige Suchen zu erleichtern,
+kannst du für Designs durch Drücken
+von \0\0￿ einen bestimmten Typ
+festlegen (ausgenommen Profi-
+Designs). Dies funktioniert auch für
+bereits veröffentlichte Designs.\0\0\0\0Ungeachtet des festgelegten Typs
+kann ein Design weiterhin beliebig
+verwendet werden. Auch kann der
+Typ nach Veröffentlichung des
+Designs weiterhin geändert werden.\0￿"
+"2449","Der Design-Typ wurde geändert."
+"2450","Es wurden keine Designs für die
+Ersteller-ID \0촀
+\0￿gefunden. Möchtest du eine
+andere Ersteller-ID auswählen?"
+"2450_a","Zum Menü"
+"2450_b","Neu wählen"
 "2501","Jeder Spieler kann pro Tag bis
 zu zwei Nachrichten online via
 Nook Shopping versenden."
@@ -1095,6 +1173,10 @@ diverse Filter und Effekte ein.\0\0\0\0Die Fotos werden im Album des
 HOME-Menüs gespeichert und
 können von anderen Nutzern
 dieser Konsole gesehen werden.\0￿"
+"5002","\0Anzeigen der Bedienungshilfe\0￿
+\0Drücke \0￿, um Zusatzinformationen ein-
+bzw. auszublenden. \0\0Ausblenden bei
+waagerechtem Joy-Con nicht möglich.\0￿"
 "5011","\0Nook-Meilen\0￿
 Du hast dich für \0Nooks
 Meilenprogramm\0￿ angemeldet!\0\0Du kannst dir durch die Teilnahme an
@@ -1409,6 +1491,13 @@ trägst, wurde überschrieben.
 Wenn du das neue Design anlegen
 möchtest, musst du es aufrufen
 und erneut \0Anziehen\0￿ auswählen."
+"5302_01","Das Design, das du gerade
+trägst, wurde überschrieben.
+
+Wenn du das neue Design anlegen
+möchtest, musst du es nach
+Verlassen des Traums aufrufen
+und erneut \0Anziehen\0￿ auswählen."
 "5303","Ein Design wurde im Verwandlungs-
 stab gespeichert. Auch wenn du das
 ursprüngliche Design bearbeitest,
@@ -1550,3 +1639,18 @@ herzustellen, um diesen Vorgang
 abzuschließen."
 "8020_a","Nein"
 "8020_b","Schließen"
+"9001","Möchtest du die Inseldaten-
+wiederherstellung starten?"
+"9001_a","Abbrechen"
+"9001_b","Starten"
+"9012","Die Inselsicherungsdaten 
+werden überprüft..."
+"9012_a","Schließen"
+"9013","Die Überprüfung der Inselsicherungs-
+daten wurde durchgeführt. Das Spiel
+wird nun fortgesetzt."
+"9013_a","Schließen"
+"9015","Das Spiel wird nun gestartet."
+"9015_a","Schließen"
+"9016","Speichervorgang...
+\0\0Berühre nicht  (POWER-Knopf).\0￿"

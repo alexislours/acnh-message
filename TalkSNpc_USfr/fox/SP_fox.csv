@@ -39,6 +39,15 @@ On a des œuvres de maîtres
 \0
 et des meubles de marque.
 ($촀\0J'suis là si t'as des questions."
+"001_04","($촀\0Bonjour, et bienvenue au
+\0Rounarama\0￿!\0\0(촀\0
+\0Attends, mais on se connaît! 
+\0T'es
+passé2\0e à une de mes jobs secondaires!\0\0(\0촀\0C'est moi, \0Rounard\0￿! 
+\0Et toi, t'esn\0\0
+2\0n\0!
+\0 ($촀\0Ça fait plaisir
+de t'voir!"
 "002","(촀\0
 \0Ah, n\0! 
 \0Ça fait toujours plaisir de te voir!"
@@ -112,6 +121,17 @@ qu'on va bien s'entendre.
 (촀\0
 \0(Tu sais, mes clients sont un peun\0\0
 mes meilleurs chums!\0\0(\0촀\02\0n\0n\0\0 (촀\0Ça fait plaisir de faire ta connaissance, n\0!"
+"009_01","(촀\0
+\0Attends, mais,
+\0 on se connaît! 
+\0
+Ça m'est revenu.
+\0 T'es passé2\0e à une
+de mes jobs secondaires!\0\0(\0촀\0C'est moi, \0Rounard\0￿! 
+\0Et toi, t'esn\0\0
+2\0n\0!
+\0 ($촀\0Ça fait plaisir
+de t'voir!"
 "010","(""촀\0Bon, j'te fais le résumé.\0\0()촀\0Chez \0Rounarama\0￿, on vend que le
 meilleur.
 \0 (촀\0Et quoi de meilleur que des
@@ -230,7 +250,7 @@ exceptionnel den\0\0 Z\0.
 "103_a","(%촀\0Je l'achète!"
 "103_b","Je veux l'examiner."
 "103_c","('촀\0En fait, laisse tomber."
-"104","(&촀\0C'est donc 2\0}\0\0 qui t'est tombé2\0e dans l'œil?\0\0(7촀\0Faut dire, c'est ma pièce favorite.
+"104","(&촀\0C'est donc 2\0}\0\0 qui t'est tombé2촀\0e\0 dans l'œil?\0\0(7촀\0Faut dire, c'est ma pièce favorite.
 
 \0J'aimerais bien la gardern\0\0
 mais j'vais faire un effort pour toi.\0\0(3촀\0Alors, en plus du prix d'ami et du 

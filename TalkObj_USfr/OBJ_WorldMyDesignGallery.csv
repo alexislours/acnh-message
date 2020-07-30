@@ -19,6 +19,50 @@ accéder au portail?"
 "020","Active la communication libre entre
 utilisateurs dans le contrôle parental
 pour pouvoir utiliser la borne."
+"030","Le \0portail des motifs perso\0￿, c'est un
+monde de créativité à portée de la
+patte!
+Veux-tu te connecter à Internet et
+accéder au portail?"
+"030_a","Accéder au portail."
+"030_b","Voir mon ID de styliste."
+"030_c","Ça ira, merci."
+"031","Ton ID de styliste est :
+촀."
+"032","Ton ID de styliste est actuellement
+visible sur ton passeport et donc
+consultable par les autres joueurs.\0\0Tu peux cacher ton ID de styliste
+si tu ne veux pas le partager.
+Que veux-tu faire?"
+"032_a","Laisser mon ID visible."
+"032_b","Cacher mon ID."
+"033","Ton ID de styliste ne sera plus visible
+sur ton passeport.\0\0Tu peux modifier ce paramètre à tout
+moment depuis ce portail."
+"034","Ton ID de styliste n'est pas affiché
+sur ton passeport. Les autres joueurs
+ne peuvent donc pas le consulter.\0\0Si tu veux partager ton ID de styliste,
+tu peux modifier ce paramètre
+maintenant. Que veux-tu faire?"
+"034_a","Laisser mon ID caché."
+"034_b","Afficher mon ID."
+"035","Ton ID de styliste est à présent
+visible sur ton passeport.\0\0Tu peux modifier ce paramètre
+à tout moment depuis ce portail."
+"036","Bienvenue sur le \0portail des motifs
+perso\0￿!\0\0Ce terminal te permet de récupérer
+un motif perso créé par la personne
+à l'origine de cette île de rêve.\0\0Veux-tu te connecter à Internet
+et consulter les motifs perso
+disponibles dans ce rêve?"
+"036_a","Oui, s'il te plaît!"
+"036_b","Non merci."
+"037","Bienvenue sur le \0portail des motifs
+perso\0￿!\0\0Veux-tu te connecter à Internet
+et consulter les motifs perso
+disponibles dans ce rêve?"
+"037_a","Oui, s'il te plaît!"
+"037_b","Non merci."
 "801","Ceci est le \0portail des motifs perso\0￿.\0\0Tu ne peux pas y accéder si la
 communication sans fil locale ou
 en ligne est activée.\0\0Désactive les communications depuis
@@ -33,5 +77,4 @@ que tu seras à nouveau seul2\0e."
 "804","Ceci est le \0portail des motifs perso\0￿.\0\0Tu ne peux pas l'utiliser si des
 visiteurs sont susceptibles de
 franchir l'accès de l'aéroport.\0\0Réessaie une fois cet accès fermé."
-"900","Merci d'avoir utilisé ce service."
 "901","Nous espérons te revoir bientôt!"

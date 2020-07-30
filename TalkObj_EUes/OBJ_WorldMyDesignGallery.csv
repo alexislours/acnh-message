@@ -19,6 +19,41 @@ y acceder al portal?"
 "020","Para usar el portal es necesario
 activar la comunicación con otros
 usuarios en el control parental."
+"030","¿Quieres conectarte a internet
+y acceder al \0portal de diseños
+personalizados\0￿?"
+"030_a","Sí, adelante"
+"030_b","¿Mi ID de creador?"
+"030_c","Ahora no..."
+"031","Tu ID de creador es
+촀."
+"032","Otros jugadores pueden ver tu
+ID de creador en tu pasaporte.
+Si lo prefieres, puedes ocultarlo."
+"032_a","Dejarlo visible"
+"032_b","Ocultar mi ID"
+"033","Tu ID de creador dejará de mostrarse
+en tu pasaporte. Cambia esta opción
+en el portal siempre que quieras."
+"034","Tu ID de creador no se muestra
+en tu pasaporte. Si lo prefieres,
+puedes cambiar este ajuste."
+"034_a","Dejarlo oculto"
+"034_b","Mostrar mi ID"
+"035","Tu ID de creador pasará a mostrarse
+en tu pasaporte. Cambia esta opción
+en el portal siempre que quieras."
+"036","El \0portal de diseños personalizados\0￿
+te permite llevarte a casa un diseño.\0\0¿Quieres conectarte a internet
+para ver los diseños creados por
+la persona que compartió el sueño?"
+"036_a","Sí, adelante"
+"036_b","Ahora no..."
+"037","¡Bienvenid2oa al \0portal de diseños
+personalizados\0￿!\0\0¿Quieres ver los diseños de la
+persona que compartió el sueño?"
+"037_a","Sí, adelante"
+"037_b","Ahora no..."
 "801","No es posible usar el \0portal de
 diseños personalizados \0￿con la
 comunicación inalámbrica activada.
@@ -36,5 +71,4 @@ de diseños personalizados \0￿con
 las puertas del aeródromo abiertas.
 Vuelve a intentarlo cuando
 las puertas estén cerradas."
-"900","Gracias por usar este servicio."
 "901","¡Hasta pronto!"

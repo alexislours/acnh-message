@@ -9,14 +9,27 @@ Open: 8:00 - 22:00 uur"
 "111_01","Wegens omstandigheden gelden
 vandaag andere openingstijden.
 			\0Nooks hoek\0￿"
+"111_02","Wegens omstandigheden zijn we
+vandaag gesloten.
+			\0Nooks hoek\0￿"
 "112","\0Zusjes Able
 \0￿Open: 9:00 - 21:00 uur"
 "112_01","Vandaag wijken onze openingsuren
 af van normaal.
                                     \0Zusjes Able\0￿"
+"112_02","Wegens omstandigheden zijn we
+vandaag gesloten.
+                                    \0Zusjes Able\0￿"
 "113","Dit schip ziet er verdacht uit.
 Je kunt beter niet ongevraagd
 aan boord gaann"
+"114","Vandaag is de servicebalie van
+n\0 gesloten.
+			\0Servicebalie\0￿"
+"115","Zo te zien is er hier niemandn"
+"116","Vandaag is de servicebalie van
+n\0 gesloten.
+			\0Servicebalie\0￿"
 "902","\0Tom Nook \0￿heeft je nog nodig,
 dus kom hier later maar weer terug."
 "903","Je kunt beter eerst even met \0Tom
@@ -110,9 +123,7 @@ Gelieve mij niet te storen.
 "Sleep_ZK","Niet storen, s.v.p.
 Mijn schoonheidsslaap is belangrijk!
                               s촀"
-"VisitN","Er is al iemand op bezoek. Ze vinden
-het vast niet fijn om gestoord te
-wordenn"
-"VisitP","Er is al iemand op bezoek. Ze vinden
-het vast niet fijn om gestoord te
-wordenn"
+"VisitN","Deze bewoner verwacht bezoek.
+Je kunt maar beter niet storenn"
+"VisitP","Deze bewoner verwacht bezoek.
+Je kunt maar beter niet storenn"

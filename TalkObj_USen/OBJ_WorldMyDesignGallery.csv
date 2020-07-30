@@ -14,6 +14,46 @@ this internet kiosk?"
 "020","You can't use this kiosk until
 Communicating with Others is
 enabled in Parental Controls."
+"030","A world of creativity awaits within
+the \0Custom Designs Portal\0￿! Are you
+ready to access it online?"
+"030_a","Access the portal."
+"030_b","Check creator ID info."
+"030_c","No, thank you."
+"031","Your creator ID is
+촀."
+"032","Your creator ID is currently visible
+to other players on your passport.\0\0If you do not wish to share your
+creator ID, you can hide it.
+What would you like to do?"
+"032_a","Leave it visible."
+"032_b","Hide my ID."
+"033","Your creator ID will no longer appear
+on your passport.\0\0You can change this setting anytime
+from this kiosk."
+"034","Your creator ID is not currently
+visible to other players on your
+passport.\0\0If you wish to share your creator ID,
+you can change the setting now.
+What would you like to do?"
+"034_a","Leave it hidden."
+"034_b","Display my ID."
+"035","Your creator ID will now appear
+on your passport.\0\0You can change this setting anytime
+from this kiosk."
+"036","Welcome to the \0Custom Designs
+Portal\0￿!\0\0This terminal will allow you to take
+home a custom design made by this
+dream provider.\0\0Would you like to connect to the
+internet to check out this dream
+provider's custom designs?"
+"036_a","Yes, please!"
+"036_b","Never mind."
+"037","Welcome to the \0Custom Designs
+Portal\0￿!\0\0Would you like to check out this
+dream provider's custom designs?"
+"037_a","Yes, please!"
+"037_b","Never mind."
 "801","You can't access the \0Custom Designs Portal\0￿ while network
 communications are active.
 Please shut down communications
@@ -29,5 +69,4 @@ when you are playing alone."
 "804","You can't use the \0Custom Designs Portal \0￿when the gate in the airport is
 open for visitors.\0\0Please try again when the gate in
 the airport is closed."
-"900","Thanks for your business!"
 "901","Please come again!"

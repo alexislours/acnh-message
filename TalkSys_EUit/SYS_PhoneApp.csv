@@ -72,6 +72,12 @@ capito?d"
 "021_03","d\0Eh? 
 \0Sei ancora tu, n\0?
 \0 Di nuovo nei guai?d"
+"021_04","d\0Capito.
+\0 Sei n\0 di n""\0, giusto?d"
+"021_05","d\0Solo un secondo...
+\0 OK! Ci sono!
+\0 Sei n\0 e chiami da n""\0, giusto?\0\0
+\0Sei un po' nei pasticci, eh?d"
 "022","d\0Ehi, 
 \0è la prima volta che usi il nostro
 servizio, vero? 
@@ -242,6 +248,26 @@ labirinto\0￿ che ha preparato\0
 atterrano gli aerei\0￿, 
 \0così potrai
 ricominciare!d"
+"049_02","d\0Che succede? 
+\0Ehin\0\0 Sei dentro a
+un qualche tunnel, per caso?
+\0( Mi
+sembra tutto confuso.
+Beh, 
+\0non ho molta scelta.
+\0
+Ti riporto alla \0piazza più vicina\0￿.
+
+\0Va bene?d"
+"049_02_a","Sì, grazie!"
+"049_02_b","('촁\0Lascio perdere."
+"049_03","d\0Molto bene. 
+\0Allora ti riporto alla
+piazza della tua isola.\0\0Visto che non puoi scegliere dove
+andare, 
+\0offro io.
+\0 Puoi tenerti quelle
+miglia per un altro giorno!d"
 "049_a","Sì, grazie!"
 "049_b","No, sono a posto così."
 "050_01","d\0Nella tua tenda? 
@@ -314,6 +340,13 @@ e non sono neanche tanto complicati!\0\0Per iniziare, 
 ogni giorno l'accesso al \0Punto Nook\0￿.
 \0
 Ricordatelo!d"
+"065","<"
+"065_01","d\0Cos'è questa storia del soccorso
+gratuito? 
+\0Continua a sognare!
+\0( Niente
+in questo mondo è gratis. 
+\0Ah!d"
 "201","Vuoi avviare l'app \0Modifica isola
 \0￿per fare dei lavori di costruzione?"
 "201_a","Diamo il via ai lavori!"
@@ -521,4 +554,10 @@ usare l'app qui."
 "321","A quanto pare non posso usare
 l'app Archivio chat durante il
 Gioco cooperativon"
+"332","Oh, non penso di poter usare
+quest'app mentre sto sognando..."
+"333","Mmmhn\0\0 la connessione non è
+buona qui.
+\0 Pare che tu non possa
+aprire l'app al momento."
 "999","\0100 \0￿miglia"

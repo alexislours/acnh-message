@@ -16,6 +16,48 @@ jetzt verwenden?"
 "020","Zur Nutzung muss in den Altersbe-
 schränkungen „Freie Kommunikation
 mit anderen“ erlaubt sein."
+"030","Hier am \0Designtausch-Terminal\0￿
+erwartet dich grenzenlose
+Kreativität!\0\0Möchtest du dieses Internet-Terminal
+jetzt verwenden?"
+"030_a","Ja"
+"030_b","Details zur Ersteller-ID"
+"030_c","Nein"
+"031","Deine Ersteller-ID lautet
+촀."
+"032","Deine Ersteller-ID ist derzeit für
+andere Spieler in deinem Pass
+sichtbar.\0\0Möchtest du deine Ersteller-ID nicht
+mit anderen teilen, kannst du sie
+verbergen. Was möchtest du tun?"
+"032_a","Sichtbar lassen"
+"032_b","ID verbergen"
+"033","Deine Ersteller-ID wird nicht länger
+in deinem Pass angezeigt.\0\0Du kannst diese Einstellung jederzeit
+an diesem Terminal ändern."
+"034","Deine Ersteller-ID ist derzeit für
+andere Spieler in deinem Pass
+nicht sichtbar.\0\0Möchtest du deine Ersteller-ID mit
+anderen teilen, ändere hier die
+Einstellungen. Was möchtest du tun?"
+"034_a","Weiterhin verbergen"
+"034_b","ID anzeigen"
+"035","Deine Ersteller-ID wird ab sofort in
+deinem Pass angezeigt.\0\0Du kannst diese Einstellung jederzeit
+an diesem Terminal ändern."
+"036","Herzlich willkommen am
+\0Designtausch-Terminal\0￿!\0\0Dieses Terminal ermöglicht es dir,
+ein Design des Traumerstellers mit
+in die echte Welt zu nehmen.\0\0Möchtest du eine Internetverbindung
+herstellen, um dir die Designs des
+Traumerstellers anzusehen?"
+"036_a","Sehr gerne!"
+"036_b","Nein, danke."
+"037","Herzlich willkommen am
+\0Designtausch-Terminal\0￿!\0\0Möchtest du dir die Designs des
+Traumerstellers ansehen?"
+"037_a","Sehr gerne!"
+"037_b","Nein, danke."
 "801","Das \0Designtausch-Terminal\0￿ kann
 nicht genutzt werden, 
 \0während
@@ -38,6 +80,4 @@ nicht genutzt werden,
 Flugsteig offen ist.\0\0Bitte versuche es erneut, 
 \0nachdem
 der Flugsteig geschlossen wurde."
-"900","Vielen Dank für die Nutzung
-des Terminals."
 "901","Bis zum nächsten Mal!"

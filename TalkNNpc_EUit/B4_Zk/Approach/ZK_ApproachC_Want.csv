@@ -32,8 +32,8 @@ un po' triste perché vorrei tanto
 di vendermel2촀oa\0 a un buon prezzo!"
 "003_a","(\0촁\0Quanto mi dai?
 (\0촁\0Fammi un'offerta."
-"003_b","(#촁\0No, mi spiace...
-(#촁\0Scusami, non posso."
+"003_b","No, mi spiace...
+Scusami, non posso."
 "004","(촀\0Basta, ci rinuncio.
 \0 Non troverò mai
 2\0}\0\0
@@ -49,8 +49,8 @@ un attimino. 
 ti scongiuro!!!"
 "004_a","(\0촁\0Quanto offri?
 (\0촁\0Fammi un'offerta."
-"004_b","(\0촁\0Non è in vendita...
-(#촁\0Scusa, non posso."
+"004_b","Non è in vendita...
+Scusa, non posso."
 "005","('촀\0Non preoccuparti, va tutto bene.
 
 \0Figurati se mi metto a piangere per
@@ -66,7 +66,7 @@ esclusivo?"
 "100_a","(\0촁\0A quanto?
 (\0촁\0Per quante stelline?"
 "100_b","Preferisco di no...
-(#촁\0Scusa, non posso."
+Scusa, non posso."
 "101","(촀\0Molto bueno, fammi fare due rapidi
 conti.
 \0 Radice quadrata di 500
@@ -75,7 +75,7 @@ sul quadrato del cateto e riporto 2...
 "101_a","Accetto.
 Va bene."
 "101_b","Non bastano...
-(#촁\0Scusa, vale di più."
+Scusa, vale di più."
 "102","(촀\0Davvero?
 \0( (촀\0Da paura!
 \0 Affare fatto,
@@ -162,13 +162,13 @@ minuscola, che tu possa vendermi
 "200_a","(\0촁\0Quanto mi offri?
 (\0촁\0Quanto mi daresti?"
 "200_b","No.
-(#촁\0Mi dispiace..."
+Mi dispiace..."
 "201","(촀\0Bueno, che ne dici di Z? (5촀\0Mica male, eh? 
 \0Sento già il tuo cuoricino fare tum-tum!"
 "201_a","D'accordo.
 Va bene!"
 "201_b","Non esiste...
-(#촁\0No, scusa."
+No, scusa."
 "202","(촀\0Bah, tanto non mi interessavan\0\0
 (촀\0Ma a chi voglio darla a bere?
 Non è vero, n\0!"
@@ -211,7 +211,7 @@ risparmi... 
 "304_a","D'accordo!
 Affare fatto!"
 "304_b","Non se ne fa più nulla.
-(#촁\0Scusa, non posso."
+Scusa, non posso."
 "305","(촀\0Da paura!
 \0 La mia collezione farà
 impallidire todos grazie a 2""촀questoquesta\0

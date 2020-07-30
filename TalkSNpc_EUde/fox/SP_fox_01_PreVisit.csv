@@ -18,6 +18,18 @@ Freunde.
 (\0촀\02\0n\0n\0\0 (촀\0Eine Freude,
 \0 dich kennenzulernen, 
 \0n\0!"
+"001_01","(촀\0
+\0Warte mal, 
+\0dich kenn ich doch!
+\0
+(%촀\0Du hast mich bei einem meiner
+kleinen Nebengeschäfte beehrt.
+(촀\0Ich bin's,
+\0 \0Reiner\0￿! 
+\0Und du heißt n\0, 
+\0stimmt's?
+\0 ($촀\0Schön, 
+\0dich zu sehen!"
 "002_01","(1촀\0Ah, das muss Schicksal sein.
 \0
 Also, dass wir uns hier begegnen.\0\0(6촀\0Und da wir praktisch Familie sind,
@@ -322,6 +334,26 @@ Freunde.
 \0 dich kennenzulernen,
 \0 n\0!\0\0(9촀\0Dürfte ich dir einen Vorschlag
 unterbreiten?"
+"101_01","(촀\0
+\0Warte mal, 
+\0dich kenn ich doch!
+\0
+(%촀\0Du hast mich bei einem meiner
+kleinen Nebengeschäfte beehrt.
+(촀\0Ich bin's,
+\0 \0Reiner\0￿! 
+\0Und du heißt n\0,
+\0 stimmt's?
+\0 ($촀\0Schön, 
+\0dich zu sehen!\0\0(1촀\0Ich hatte mir grad schon gedacht,
+
+\0was für eine tolle Insel das hier ist.
+\0
+Und mit dir ist es sogar noch besser!\0\0(촀\0Es muss Schicksal sein, 
+\0das wir uns
+wiedersehen.
+\0 (6촀\0Hoffentlich ein für uns
+beide äußerst profitables Schicksal!"
 "102_01","Das schöne Gesicht erkenne ich
 überall wieder.
 \0($촀\0 Wie geht's denn so,
@@ -333,7 +365,7 @@ standen dafür schon Schlange."
 "102_02","(촀\0
 \0Na, wenn das mal nicht 2,mein gutermeine gute
 n\0 ist!
-\0( (촀\0Lange nicht gesehen!"
+\0( (촀\0Alles fein?"
 "103","(1촀\0Ahn\0\0 weißt du, 
 \0ehrlich gesagt habe
 ich n\0 schon richtig lieb gewonnen.\0\0(촀\0Ihr habt es hier so schön. 

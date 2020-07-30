@@ -63,6 +63,13 @@ wirklich unsere Hilfe brauchst.d"
 \0 2\0n\0 schon wieder? 
 \0Mal wieder in Schwierigkeiten,
 \0 was?(%촁\0d"
+"021_04","d\02\0n\0 von n	\0,
+\0 ja? 
+\0(%촁\0Alles klar.d"
+"021_05","d\0Ach, 
+\0n\0 von n	\0 wieder?
+\0(%촁\0 Kein Problem, 
+\0wir helfen immer gern.d"
 "022",""
 "023_01","d\0Pro Rettung wären \0100\0￿ Meilen fällig.
 \0
@@ -238,6 +245,29 @@ Flugzeug\0￿ abzusetzen. 
 \0Also, 
 \0dann
 schnall dich mal gut an!d"
+"049_02","d\0Das ist ja seltsam... 
+\0Bist ganz schön
+weit ab vom Schuss, 
+\0was? 
+\0Kann dein
+Signal nur schwer ortenn\0\0
+Hm. 
+\0Ich kann dir anbieten, 
+\0dich auf
+dem \0nächsten Festplatz\0￿ abzusetzen.
+\0
+Wär das okay für dich?d"
+"049_02_a","Ja, bitte!"
+"049_02_b","('촁\0Ich bleib doch hier."
+"049_03","d\0Danke fürs Bestätigen.
+\0 Dann werd
+ich dich mal fix zum \0Festplatz\0￿ der
+Insel bringen.
+Und da dein Ziel vorgegeben war,
+\0
+entfallen dieses Mal die Gebühren.
+\0
+Freu dich über die gesparten Meilen!d"
 "049_a","(%촀\0Ja, bitte!"
 "049_b","('촀\0Nein, danke."
 "050_01","d\0Du willst zu deinem Zelt?
@@ -348,6 +378,14 @@ könnte, 
 kannst du jeden Tag Meilen
 absahnen.
 \0 Ganz mühelos.d"
+"065","<"
+"065_01","d\0Nur weil wir einmal die Gebühren
+erlassen, 
+\0bild dir nix drauf ein, 
+\0ja?!\0\0So was passiert normalerweise
+höchstens im Traum mal, 
+\0nicht in
+der harten Realität!d"
 "2001","d\0Wie bitte, 
 \0dir ist aufgefallen, 
 \0dass

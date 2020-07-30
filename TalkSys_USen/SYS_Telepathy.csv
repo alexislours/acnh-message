@@ -85,16 +85,16 @@ The waterfall will destroy it!"
 be hard to use the incline!"
 "113","If you modify this cliff, it'll
 be hard to use the incline!"
-"121","You can't put a river here because
+"121","You can't put water here because
 you're too near a tree!"
-"122","If you put a waterfall here,
-the cliff will collapse!"
-"123","You can't put a river here because
+"122","If you put water here, the cliff
+will collapse!"
+"123","You can't put water here because
 it's too near a building!"
-"124","If you put a river here, it'll
-be hard to cross the bridge!"
-"125","If you put a river here, it'll
-be hard to use the incline!"
+"124","If you put water here, it'll be hard to
+cross the bridge!"
+"125","If you put water here, it'll be hard to
+use the incline!"
 "151","It's dangerous to climb any higher!"
 "152","You haven't registered any outfits."
 "161",""
@@ -134,6 +134,10 @@ on an island that doesn't belong
 to one of your Best Friends."
 "416","You can't wear that right now!"
 "417","You can't build fences right now!"
+"418","You can't learn DIY recipes while
+you're dreaming!"
+"420","You can only place this on a
+Best Friend's island!"
 "430","You can't put that item away
 because your storage is full."
 "438","This won't all fit in your storage!"
@@ -167,6 +171,8 @@ you're doing construction tasks!"
 "474","You can't edit custom designs right
 now. Go to the airport counter to turn
 off network communications first."
+"475","You can't edit custom designs while
+you're dreaming!"
 "500","Your pockets are full, so
 you can't carry any more!"
 "510","Your pockets are full!"
@@ -181,3 +187,5 @@ the gate is open."
 "603","You can't download custom designs
 right now. Go to the airport counter
 and turn off communications."
+"604","You can't download custom designs
+while you're in a dream."

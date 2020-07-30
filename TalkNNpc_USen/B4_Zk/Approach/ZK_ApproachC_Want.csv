@@ -30,7 +30,7 @@ to sell it to me cheap!"
 "003_a","(\0촁\0How much?
 (\0촁\0Make an offer."
 "003_b","Sorry, but no.
-(#촁\0Sorry."
+Sorry."
 "004","(촀\0Ugh, I can't do it anymore.
 \0
 I can't keep searching for
@@ -43,7 +43,7 @@ one, n\0?\0\0(8촀\0Let me just compose myself. 
 "004_a","(\0촁\0How much?
 (\0촁\0Make an offer."
 "004_b","Sorry, not for sale.
-(#촁\0Sorry."
+Sorry."
 "005","('촀\0No, non\0\0it's OK. 
 \0It's not like I
 NEED it. 
@@ -58,7 +58,7 @@ that thing to me?"
 "100_a","(\0촁\0How much?
 (\0촁\0How much you got?"
 "100_b","Sorry, no.
-(#촁\0Sorry, pal."
+Sorry, pal."
 "101","(촀\0Alright, let me just do some
 quick math.
 \0 (&촀\0How does Z
@@ -66,7 +66,7 @@ sound to you?"
 "101_a","That works.
 OK."
 "101_b","Not good enough.
-(#촁\0Sorry, I need more."
+Sorry, I need more."
 "102","(촀\0Really? You'll sell it?
 \0( (촀\0Hot diggity!
 \0
@@ -152,13 +152,13 @@ your }\0\0?"
 "200_a","(\0촁\0How much?
 (\0촁\0What'll you give me?"
 "200_b","Nope.
-(#촁\0Sorry..."
+Sorry..."
 "201","(촀\0Well, can I tempt you with
 Z?"
 "201_a","That's fine.
 Sure."
 "201_b","Nope.
-(#촁\0Sorry..."
+Sorry..."
 "202","(촀\0Eh, I didn't want it anyway.
 \0
 n\0\0(촀\0OK, I'm lying, but whatever."
@@ -199,7 +199,7 @@ your }\0\0!"
 "304_a","You got it!
 Sold!"
 "304_b","I changed my mind.
-(#촁\0Sorry."
+Sorry."
 "305","(촀\0Yessss.
 \0 Finally, I can add my
 name to the distinguished list of

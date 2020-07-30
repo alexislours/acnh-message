@@ -1,0 +1,492 @@
+﻿"label","text"
+"001","d
+\0Welcomen\0\0d
+
+7"
+"001_01","If I am not mistaken, you are from
+n	\0, yes?
+\0 You must
+be the famous n\0."
+"001_01_a","Good guess!"
+"001_01_b","How did you know?"
+"001_02","(촀\0Mmmmmmn\0\0
+\0 Few dream as pleasantly
+as those from n	\0.\0\0(\0촀\0Forgive me. 
+\0I have yet to introduce
+myself.
+\0 ($촀\0My name is \0Luna\0￿.
+\0 Think of me
+as a guide to the library of dreams."
+"001_02_a","The library of dreams?"
+"001_02_b","What do you mean?"
+"001_03","(\0촀\0A dream is but a manifestation of a
+memory that one holds dearn\0\0
+\0(촀\0then
+chooses to upload to the \0internet\0￿.\0\0()촀\0My role is to ferry travelers between
+dreams, 
+\0allowing one such as you to
+tour the islands of distant strangers.(촀\0\0\0Once within the dream of another, 
+\0it
+will be as though you have actually
+set foot on their island.\0\0(촀\0Sounds fascinating, does it not?
+\0
+To visit another's dream, merely
+say to me,
+\0 ""\0I want to dream.\0￿"""
+"001_04","(9촀\0This need not be a one-way matter
+either. 
+\0If you wish, I can collect your
+dream of n	\0 as well!\0\0(1촀\0Then I will spirit your dream through
+channels of fiber optics to live in the
+library and be shared with the world.\0\0(\0촀\0Put simply, 
+\0to share your dream of
+n	\0 with others, tell
+me,
+\0 ($촀\0""\0I'd like to share a dream.\0￿""\0\0(%촀\0Well, now that we have the
+introductions out of the wayn"
+"001_05","(\0촀\0Welcome, welcome.
+\0 (촀\0The binary fields
+are teeming with beautiful dreams!"
+"001_06","(\0촀\0Welcome back.
+\0 (촀\0The dreams are
+well rested, tucked into their idling
+hard drives."
+"002","(&촀\0How may I be of assistance?"
+"002_01","(&촀\0How may I be of assistance?"
+"002_01_a","I want to dream."
+"002_01_b","About the dream I shared..."
+"002_01_c","Where am I?"
+"002_01_d","I want to wake up."
+"002_02","(&촀\0May I be of assistance to you in any
+other way?"
+"002_02_a","I want to dream."
+"002_02_b","I'd like to share a dream."
+"002_02_c","Where am I?"
+"002_02_d","I want to wake up."
+"002_03","(&촀\0May I be of assistance to you in any
+other way?"
+"002_03_a","I want to dream."
+"002_03_b","About the dream I shared..."
+"002_03_c","Where am I?"
+"002_03_d","I want to wake up."
+"002_04","(&촀\0How may I be of assistance?"
+"002_04_a","I want to dream."
+"002_04_b","I'd like to share a dream."
+"002_04_c","And...where is this?"
+"002_04_d","I want to wake up."
+"002_05","(&촀\0How may I be of assistance?"
+"002_05_a","I want to dream."
+"002_05_b","About the dream I shared..."
+"002_05_c","And...where is this?"
+"002_05_d","I want to wake up."
+"002_06","(&촀\0May I be of assistance to you in any
+other way?"
+"002_06_a","I want to dream."
+"002_06_b","I'd like to share a dream."
+"002_06_c","And...where is this?"
+"002_06_d","I want to wake up."
+"002_07","(&촀\0May I be of assistance to you in any
+other way?"
+"002_07_a","I want to dream."
+"002_07_b","About the dream I shared..."
+"002_07_c","And...where is this?"
+"002_07_d","I want to wake up."
+"002_a","I want to dream."
+"002_b","I'd like to share a dream."
+"002_c","Where am I?"
+"002_d","I want to wake up."
+"003","(\0촀\0I see. 
+\0Please, come again.
+\0 (촀\0You are
+welcome at any time."
+"1000","(촀\0Of course, of course! 
+\0But there are
+a few things I must clarify further
+before I guide you to your dream.\0\0()촀\0Dreams, 
+\0like many things these days,
+\0
+are downloaded from the \0internet\0￿.
+\0
+A connection is, of course, required.\0\0(\0촀\0Furthermore, 
+\0a \0Dream Address\0￿—an
+identity unique to each dream—is
+also needed.\0\0(%촀\0So, before dreaming, 
+\0be sure you
+have your desired \0Dream Address
+\0￿at the ready."
+"1000_01","( 촀\0Oh! 
+\0One other wrinklen\0\0\0\0(9촀\0Dreams are very fragile things. 
+\0To
+prevent the introduction of glitches,
+you must go empty-handed.\0\0($촀\0Do not worry. 
+\0I will happily hold on
+to your belongings and return them
+after you wake."
+"1001","(\0촀\0I believe that covers everything.
+\0
+(&촀\0Now, are you ready to link with
+the library of dreams?"
+"1001_a","Yes, I am!"
+"1001_b","Another time."
+"1002","(촀\0Then I shall connect to the \0internet\0￿
+to initialize a dream download."
+"1003","(%촀\0What is the \0Dream Address\0￿ for your
+desired dream?"
+"1004","(\0촀\0Thank you.
+\0 (:촀\0One moment whilst
+I browse the library of dreamsn"
+"1005","(\0촀\0The \0Dream Address\0￿ you provided
+appears to be for an island called
+s촀.
+\0 (&촀\0Is that correct?"
+"1005_a","Yes, it is!"
+"1005_b","Nope."
+"1006","(촀\0Splendid! 
+\0Then everything is sorted.
+\0
+(1촀\0
+\0Please close your eyesn\0\0and relaxn\0\0(촀"
+"1006_01","Drift and compilen\0\0
+\0and emerge within
+the dream of s촀n\0\0
+K"
+"1031","(촀\0My apologies, 
+\0but there is no dream
+filed to that \0Dream Address\0￿."
+"1031_a","Let's try again."
+"1031_b","Never mind."
+"1032","(촀\0My apologies, 
+\0but I was unable to
+connect to the \0internet\0￿ just now.
+\0
+(&촀\0Shall I try again?"
+"1032_a","Please do!"
+"1032_b","Never mind."
+"1033","(촀\0Hmmn\0\0 That is the \0Dream Address\0￿
+for your own island.\0\0('촀\0I am sorry, 
+\0but I can no more guide
+you to your own island than I can
+divide by zero.\0\0(&촀\0Perhaps there is another dream you
+would like to visit?"
+"1033_a","Yes, there is."
+"1033_b","Never mind."
+"1041","(촀\0My apologies, but you must first turn
+on 
+\0""Communicating with Others""
+\0 in
+Parental Controls in order to dream.\0\0(촀\0Please come and see me again when
+you are ready."
+"2001","(\0촀\0Of course. 
+\0(9촀\0But before we continue,
+there is some \0important information
+\0￿you will need to read first."
+"2002","(\0촀\0All done! ()촀\0From here it is simple.
+\0
+First, I will form your memory of
+n	\0 into a dream.(촀\0\0\0Then, I will connect to the \0internet\0￿ to
+upload your dream to the library."
+"2002_01","(촀\0
+\0Oh! 
+\0There is something else you may
+be interested to known\0\0\0\0(\0촀\0Visitors to your dream may bring
+back any design that is on display in
+your \0Custom Designs Portal\0￿.\0\0(%촀\0Check your \0Custom Designs Portal
+\0￿before uploading your dream to see
+which designs will be made available.\0\0(촀\0Try thinking of those designs as
+n	\0 souvenirs."
+"2003","(촀\0Enough explanations! 
+\0I shall now
+collect and compile your memory of
+n	\0.
+\0 ($촀\0Are you ready?"
+"2003_01","(촀\0Enough explanations! 
+\0The time has
+come to gather your beloved memory
+of n	\0.
+\0 (9촀\0Exceptn\0\0\0\0( 촀\0Ah! 
+\0It would seem another resident
+has already uploaded a dream of
+n	\0 to the library.\0\0('촀\0I am afraid I can only \0overwrite \0￿the
+existing dream with a \0refreshed
+\0￿version.
+\0 (&촀\0Is that acceptable?"
+"2003_01_a","Yes, it is!"
+"2003_01_b","Nope."
+"2003_a","I'm ready!"
+"2003_b","Nope."
+"2004","(촀\0Splendid! 
+\0I shall now connect to the
+\0internet\0￿ and the library of dreams."
+"2005","(%촀\0I am in. 
+\0And now I shall collect and
+compile your cherished memory of
+n	\0 into a dreamn"
+"2005_01","(1촀\0Close your eyesn\0\0
+\0 Picture what you
+love most about n	\0n\0\0
+\0
+d
+\0Relax. 
+\0Reeela
+\0a
+\0a
+\0xn\0\0d
+"
+"2006","(촀\0There! 
+\0The dream upload is now
+complete. 
+\0Each byte now reclines
+in its new home.
+\0 ($촀\0Well done!"
+"2007","()촀\0Your dream of n	\0 is
+filed under the \0Dream Address\0￿
+촀.(촀\0\0\0To share your dream with others,
+simply give them the \0Dream Address\0￿.
+\0
+(촀\0Again, it is 촀."
+"2008","(\0촀\0Your \0Dream Address\0￿ is currently set
+to appear on your \0Passport\0￿ and on
+your island's \0map\0￿.\0\0(%촀\0If you do not
+\0 want your island's
+\0Dream Address\0￿ displayed on your
+\0Passport\0￿ and \0map\0￿,
+\0 let me know."
+"2009","(\0촀\0Lastly, 
+\0do remember that your dream
+will not reflect any changes made to
+n	\0 after an upload.\0\0(촀\0However, as your island develops, its
+dream can be refreshed if you wish.
+\0 ($촀\0I
+can update your dream \0once per day\0￿."
+"2010","(촀\0I believe that is everything! 
+\0Thank
+you for your patience, and may your
+dream host many happy visitors."
+"2031","(촀\0My apologies, 
+\0but I was unable to
+connect to the \0internet\0￿ just now.
+\0
+(&촀\0Shall I try again?"
+"2031_a","Please do!"
+"2031_b","Never mind."
+"2032","(촀\0Unfortunately, I can only upload a
+dream \0once per day\0￿.
+\0 ()촀\0I will be more
+than happy to help you tomorrow."
+"2033","(촀\0The library of dreams must rest after
+the deletion of a dream.
+\0( ()촀\0I can help
+you upload a new dream tomorrow."
+"2034","(촀\0Splendid! 
+\0Incidentally, there is
+something you may wish to known\0\0\0\0()촀\0Visitors to your dream may bring
+back any design that is on display in
+your \0Custom Designs Portal\0￿.\0\0(\0촀\0Check your \0Custom Designs Portal
+\0￿before uploading your dream to see
+which designs will be made available.\0\0(촀\0Try thinking of those designs as
+n	\0 souvenirs."
+"2035","(\0촀\0And with that said, I am now ready to
+collect and compile your memory of
+n	\0. ($촀\0Shall I begin?"
+"2035_a","Let's do it!"
+"2035_b","Nope."
+"2036","(촀\0Unfortunately, I am unable to compile
+your dream of n	\0.\0\0(\0촀\0You will need to return on another
+day. 
+\0I will be happy to try again then."
+"2041","(촀\0My apologies, 
+\0but you must first turn
+on 
+\0""Communicating with Others""
+\0 in
+Parental Controls to upload a dream.\0\0(촀\0Please come and see me again when
+you are ready."
+"3001","(\0촀\0I have a dream of n	\0
+filed under the \0Dream Address
+\0￿촀."
+"3001_01","(&촀\0Is there any other way I can assist
+with your uploaded dream?"
+"3001_01_a","Update the dream."
+"3001_01_b","Adjust Dream Address privacy."
+"3001_01_c","Delete the dream."
+"3001_01_d","Never mind."
+"3001_a","Update the dream."
+"3001_b","Adjust Dream Address privacy."
+"3001_c","Delete the dream."
+"3001_d","Never mind."
+"3101","(9촀\0As a precaution, I must first confirm
+your wish to update the dream of
+n	\0.
+\0 (&촀\0Are you certain?"
+"3101_a","Yes. Let's update!"
+"3101_b","Never mind."
+"3102","(촀\0Splendid! 
+\0I shall now connect to the
+\0internet\0￿ and the library of dreams."
+"3103","(1촀\0Close your eyesn\0\0
+\0 Picture what you
+love most about n	\0n\0\0
+\0
+d
+\0Relax. 
+\0Reeela
+\0a
+\0a
+\0xn\0\0d
+"
+"3104","(촀\0There! 
+\0The dream update is now
+complete. 
+\0Each byte feels renewed
+and refreshed.
+\0 ($촀\0Well done!"
+"3105","()촀\0Your dream of n	\0 is
+still filed under the \0Dream Address\0￿
+촀.\0\0(촀\0May the dream of n	\0
+host many happy visitors."
+"3131","(촀\0My apologies, 
+\0but I was unable to
+connect to the \0internet\0￿ just now.
+\0
+(&촀\0Shall I try again?"
+"3131_a","Please do!"
+"3131_b","Never mind."
+"3132","(촀\0Unfortunately, I can only upload a
+dream \0once per day\0￿.
+\0 ()촀\0I will be more
+than happy to help you tomorrow."
+"3133","(촀\0Unfortunately, I am unable to compile
+your dream of n	\0.\0\0(\0촀\0You will need to return on another
+day. 
+\0I will be happy to try again then."
+"3301","(촀\0Oh my! 
+\0Really? 
+\0You wish to delete
+your dream from the library?
+\0 (촀\0But it
+is such a beautiful dreamn\0\0\0\0(9촀\0Naturally, 
+\0once it has been deleted,
+no one will be able to visit your
+dream of n	\0.\0\0()촀\0I can upload a new dream, 
+\0but the
+oddities of digitized dreamscapes
+mean you must \0wait until tomorrow\0￿.\0\0(\0촀\0So, with all of that in mind,
+\0 (&촀\0are you
+absolutely certain you want to delete
+your dream of n	\0?"
+"3301_a","Yes. Delete it!"
+"3301_b","Never mind."
+"3304","(촀\0Dreams are fleeting. 
+\0Digital dreams
+doubly so. 
+\0I will delete your dream of
+n	\0 from the library."
+"3305","(:촀\0Thank you for waiting. 
+\0Your dream of
+n	\0 is no more.\0\0(\0촀\0Again, if you would like to create and
+upload a new dream, 
+\0I will be happy
+to assist you beginning tomorrow."
+"3306","(촀\0
+\0I am relieved you changed your mind.
+\0
+There may be someone enjoying your
+dream at this very moment!"
+"3331","(촀\0My apologies, 
+\0but I was unable to
+connect to the \0internet\0￿ just now.
+\0
+(&촀\0Shall I try again?"
+"3331_a","Please do!"
+"3331_b","Never mind."
+"3341","(촀\0My apologies, but you must first turn
+on 
+\0""Communicating with Others""
+\0 in
+Parental Controls to delete a dream.\0\0(촀\0Please come and see me again when
+you are ready."
+"3401","()촀\0Your \0Dream Address\0￿ is set to public,
+meaning others can see it on your
+\0Passport\0￿ and on your island's \0map\0￿.\0\0(&촀\0Would you like to change the setting
+for your \0Dream Address\0￿ to private so
+that others will no longer see it?"
+"3401_a","No. Leave it as is."
+"3401_b","Yes. Make it private."
+"3402","()촀\0Your \0Dream Address\0￿ is currently
+set to private, meaning that it is
+not displayed to others.\0\0(&촀\0Shall I set your \0Dream Address\0￿ to
+public and allow it to appear on your
+\0Passport\0￿ and your island's \0map\0￿?"
+"3402_a","No. Leave it as is."
+"3402_b","Yes. Make it public."
+"3403","(%촀\0Understood. 
+\0Your \0Dream Address
+\0￿settings shall remain untouched."
+"3404","(촀\0Happily! 
+\0Your \0Dream Address\0￿ is now
+private and will no longer appear on
+your \0Passport \0￿or your island's \0map\0￿."
+"3405","(촀\0There! 
+\0Your \0Dream Address\0￿ is public.
+Others will now be able to see it on
+your \0Passport \0￿and your island's \0map\0￿."
+"4000","(촀\0This is the world between,
+\0 where
+electronic dreams and dreamers
+meet. 
+\0(%촀\0I am a guide here.\0\0(1촀\0I can help you dream another's
+dream or share your dream with
+others. 
+\0May we all dream sweetlyn"
+"4001","If you wish to learn moren\0\0($촀\0please
+feel free to ask."
+"4001_01","If you wish to learn moren\0\0($촀\0please
+feel free to ask."
+"4001_01_a","Dreaming of other islands."
+"4001_01_b","Sharing dreams of my island."
+"4001_01_c","Never mind."
+"4001_a","Dreaming of other islands."
+"4001_b","Sharing dreams of my island."
+"4001_c","Never mind."
+"4002","(\0촀\0Of course!
+\0 (1촀\0To \0dream of other islands
+\0￿is to travel without traveling.\0\0()촀\0A dream is a memory of a place such
+as an island. 
+\0After being uploaded,
+these dream islands can be visited.(촀\0\0\0Once upon another's dream island, it
+will seem as though you have set
+foot on the real thing.\0\0(촀\0However, dream islands are static.
+\0
+Nothing you do can affect the real
+island, so you may do as you will."
+"4002_00","(9촀\0One caveatn\0\0
+\0 To enter a dream, you
+must always go empty-handed.\0\0(%촀\0Do not worry.
+\0 I will happily hold on
+to your belongings and return them
+after you wake."
+"4002_01","(\0촀\0Lastly, this process requires \0internet
+access\0￿ and the \0Dream Address\0￿ of
+the dream you wish to visit.\0\0(촀\0And that is all there is to it!"
+"4003","(6촀\0Ah!
+\0 \0Sharing a dream of your island
+\0￿will allow others to visit that memory.\0\0()촀\0First, 
+\0I will form your memory of
+n	\0 into a dream.(촀\0\0\0I will then connect to the internet to
+upload your dream so that others will
+be able to visit this dream island.\0\0(촀\0And because this is but a dream,
+\0
+nothing a visitor does will have any
+effect on the real n	\0."
+"4003_01","(\0촀\0And as I mentioned, the process
+does require \0internet access\0￿, 
+\0so
+please have that ready."
+"4003_02","(%촀\0Lastly, 
+\0visitors to your dream may
+bring back any designs on display
+in your \0Custom Designs Portal\0￿.\0\0(\0촀\0Check your \0Custom Designs Portal
+\0￿before uploading your dream to see
+which designs will be made available.\0\0(촀\0You may think of those designs as
+n	\0 souvenirs."
+"4003_03","(촀\0And with that, you are up-to-date!"

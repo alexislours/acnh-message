@@ -11,3 +11,14 @@ resident data. \0\0Do not touch .\0￿"
 "006","The data has been updated."
 "007","Now reinitializing all internet-related
 features. \0\0Do not touch .\0￿"
+"008","Deleting dream data for
+n\0.
+\0\0Do not touch .\0￿"
+"009","Downloading and restoring island
+backup data from the server.
+\0\0Do not touch .\0￿"
+"011","Enabling island backupn\0\0
+\0\0Do not touch .\0￿"
+"012","Connecting to the internet to
+check for any \0island data that
+can be restored\0￿n"

@@ -93,6 +93,13 @@ Einfach, oder?
 \0 2\0n\0 schon wieder? 
 \0Du ziehst den Ärger ja geradezu magisch an,
 \0 was?(%촁\0d"
+"021_04","d\02\0n\0 von n	\0,
+\0 ja?
+\0 (%촁\0Verstehe.d"
+"021_05","d\0Ach, 
+\0n\0 von n	\0 wieder? 
+\0(%촁\0Na, 
+\0wenn's sein muss...d"
 "022","d\0Bist zum ersten Mal dabei, wie?
 
 \0Dann spitz die Lauscherchen,
@@ -324,6 +331,25 @@ einer dieser \0Labyrinth-Inseln\0￿ von
 \0Flugzeug\0￿ absetzen, 
 \0damit du dich
 neu sortieren kannst.d"
+"049_02","d\0Wo treibst du dich denn rum? 
+\0Ich
+krieg hier irgendwie nur 'n ganz
+schwammiges Bild reinn\0\0
+Sei's drum, 
+\0Job ist Job.
+\0 Ich kann dich
+beim \0nächsten Festplatz\0￿ absetzen.
+\0
+Wär das in Ordnung für dich?d"
+"049_02_a","Ja, bitte!"
+"049_02_b","('촁\0Ich bleib doch hier."
+"049_03","d\0Dann wär das geklärt. 
+\0Auf geht's
+zum \0Festplatz\0￿ der Insel.\0\0Und da dir die Entscheidung quasi
+abgenommen wurde, 
+\0entfallen auch
+die Gebühren! 
+\0Meilen gespart!d"
 "049_a","Geht klar!"
 "049_b","('촁\0Ich bleib doch hier."
 "050_01","d\0Du willst zu deinem Zelt?
@@ -443,6 +469,12 @@ kannst?\0\0Schau jeden Tag beim \0NookPortal
 paar Meilchen umsonst!
 \0 Fein,
 \0 was?d"
+"065","<"
+"065_01","d\0Gewöhn dich nicht an die kosten-
+lose Notrettung. 
+\0Im richtigen Leben
+gibt's nix geschenkt, 
+\0merk dir das!d"
 "201","Soll ich die App \0Insel-Designer
 \0￿öffnen und etwas bauen oder
 verändern?"
@@ -665,4 +697,11 @@ Funktioniert wohl hier nicht."
 "321","Im Party-Modus kann ich
 anscheinend die Chatlog-
 App nicht öffnenn"
+"332","Oh, 
+\0diese App lässt sich wohl nicht
+während des Träumens nutzenn"
+"333","Hmmmn\0\0 Der Empfang scheint hier
+schlecht zu sein. 
+\0Anscheinend
+funktioniert die App deshalb nicht."
 "999","\0100\0￿ Meilen"

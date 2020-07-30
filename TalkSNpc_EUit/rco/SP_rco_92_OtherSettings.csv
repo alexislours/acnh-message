@@ -36,6 +36,14 @@ impostazioni vorresti parlare?"
 "020_c","Nessuna per ora."
 "021","(촀\0I dati di salvataggio, eh?
 "
+"022","Bene, bene, 
+\0ora dimmi: 
+\0di quali
+impostazioni vorresti parlare?"
+"022_a","Dati di salvataggio."
+"022_b","NookLink."
+"022_c"," Backup dell'isola."
+"022_d","Non mi serve niente."
 "051","(촀\0Bene, bene, ho capito!
 \0 In questo
 caso, torniamo pure allo schermo
@@ -90,6 +98,16 @@ drastica e irreversibile.\0\0
 \0(9촀\0Ti consiglio vivamente di procedere
 solo dopo averci riflettuto con
 grande attenzione."
+"062_04","()촀\0Inoltre, se avevi attivato il backup
+dell'isola, 
+\0(9촀\0verrà eliminata anche
+questa impostazione."
+"062_05","()촀\0Inoltre, se s\0촀 aveva attivato il backup dell'isola,
+\0(9촀\0 verrà eliminata anche questa impostazione."
+"062_06","()촀\0Inoltre, se quell'abitante aveva
+attivato il backup dell'isola, 
+\0(9촀\0verrà
+eliminata anche questa impostazione."
 "063_01","(9촀\0Ora 
 \0lascia che ti spieghi nel dettaglio
 che cosa accade alla cancellazione
@@ -227,6 +245,15 @@ cancellare dal registro dei residenti?"
 "112_b","Cancella altro abitante."
 "112_c","Cancella il portavoce."
 "112_d","Ho cambiato idea."
+"113","(\0촀\0Questo non sarà più possibile se
+cancelli s\0촀 dal registro dei residenti.
+"
+"114","(%촀\0Ti consiglio vivamente di eseguire
+questa operazione solo se
+strettamente necessario.\0\0(9촀\0Vuoi davvero cancellare s\0촀
+\0 dal registro dei residenti?"
+"114_a","Ho cambiato idea."
+"114_b","\0Sì, cancella.\0￿"
 "201","(9촀\0Vuoi cancellare un abitante dal
 registro dei residenti?
 \0 Sì, sì,

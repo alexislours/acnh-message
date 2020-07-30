@@ -60,6 +60,11 @@ chiaro?d"
 "021_03","d\0Un secondon\0\0
 \0 Oh, ehi, n\0.
 \0 Sei di nuovo nei guai?(%촁\0d"
+"021_04","d\0OK,
+\0 sei n\0 di n""\0, giusto?d"
+"021_05","d\0Vediamon\0\0 
+\0Sei n\0 di n""\0, giusto?\0\0(%촁\0
+\0Molto bene.d"
 "022",""
 "023_01","d\0È molto semplice: un soccorso costa
 \0100\0￿ miglia.
@@ -228,6 +233,26 @@ gli aerei\0￿.
 In questo modo, puoi ricominciare
 da capo. 
 \0Preparati!d"
+"049_02","d\0Che strano. 
+\0Scusa, 
+\0sei finit2oa
+un po' fuori dai radar o sbaglio?
+\0(
+Non riesco a rintracciartin\0\0
+Uhm. 
+\0Per stare sicuri, sarà meglio
+se ti riporto alla \0piazza più vicina\0￿.
+\0
+Per te va bene?d"
+"049_02_a","Sì, grazie!"
+"049_02_b","('촁\0Lascio perdere."
+"049_03","d\0Grazie della conferma. 
+\0Allora
+adesso ti riporto alla piazza della
+tua isola.\0\0E dato che la destinazione è decisa
+dal regolamento, non devi pagare.
+\0
+Tieni quelle miglia per un'altra volta!d"
 "049_a","Sì, grazie!"
 "049_b","Lascio perdere."
 "050_01","d\0Alla tua tenda? 
@@ -316,6 +341,11 @@ esistenziali.d"
 servizi ogni giorno per guadagnare
 miglia, vero?
 \0( Sono le basi, eh.d"
+"065","<"
+"065_01","d\0Usare il soccorso gratuitamenten\0\0
+Ma chi ti credi di essere?!\0\0Bah.
+\0 Magari nei tuoi sogni è così,
+ma non nella realtà!d"
 "2001","d\0Noti qualcosa di diverso dal solito?
 \0
 Immaginavo che questo particolare

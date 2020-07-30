@@ -9,14 +9,29 @@ Horaires d'ouverture : 8 h - 22 h"
 "111_01","Notre boutique ne pourra pas ouvrir
 aux horaires habituels aujourd'hui.
                                     \0Boutique Nook\0￿"
+"111_02","Pour des raisons exceptionnelles, la
+boutique sera fermée aujourd'hui.
+                                    \0Boutique Nook\0￿"
 "112","\0Atelier de couture\0￿
 Horaires d'ouverture : 9 h - 21 h"
 "112_01","Aujourd'hui, l'atelier ne sera pas
 ouvert aux horaires habituels.
                                \0Atelier de couture\0￿"
+"112_02","Pour des raisons exceptionnelles,
+l'atelier sera fermé aujourd'hui.
+                               \0Atelier de couture\0￿"
 "113","Ce rafiot semble à peine capable de
 prendre la mer. Mieux vaut ne pas y
 monter sans permissionn"
+"114","Attention : le bureau des résidents
+2
+de d'⁠n\0 est fermé.
+                         \0Bureau des résidents\0￿"
+"115","On dirait qu'il n'y a personne."
+"116","Attention : le bureau des résidents
+2
+de d'⁠n\0 est fermé.
+                         \0Bureau des résidents\0￿"
 "902","\0Tom Nook\0￿ a encore besoin
 de toi. Reviens plus tard."
 "903","Tu devrais parler à \0Tom Nook \0￿avant
@@ -109,7 +124,9 @@ vouloir repasser plus tard.
 "Sleep_ZK","Désolé, très chers fans...
 Ma peau parfaite a besoin de repos.
                               s촀"
-"VisitN","Il semblerait que quelqu'un ait de la
-visite. Tu ne voudrais pas dérangern"
-"VisitP","Il semblerait que quelqu'un ait de la
-visite. Tu ne voudrais pas dérangern"
+"VisitN","Il semble que quelqu'un a déjà
+promis de venir en visite ici.
+Tu ne voudrais pas dérangern"
+"VisitP","Il semble que quelqu'un a déjà
+promis de venir en visite ici.
+Tu ne voudrais pas dérangern"

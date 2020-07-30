@@ -95,16 +95,16 @@ la cascade va la détruire!"
 si tu construis une falaise ici."
 "113","Il sera difficile d'emprunter la rampe
 si tu modifies cette falaise."
-"121","Tu ne peux pas creuser une rivière
+"121","Tu ne peux pas ajouter d'eau
 ici, c'est trop près d'un arbre."
-"122","Si tu places une cascade ici,
+"122","Si tu ajoutes de l'eau ici,
 tu risques de détruire la falaise!"
-"123","Tu ne peux pas creuser une rivière
+"123","Tu ne peux pas ajouter d'eau
 ici, c'est trop près d'un bâtiment."
 "124","Il sera difficile de traverser le pont
-si tu creuses une rivière ici."
+si tu ajoutes de l'eau ici."
 "125","Il sera difficile d'emprunter la rampe
-si tu creuses une rivière ici."
+si tu ajoutes de l'eau ici."
 "151","Il serait dangereux
 de monter plus haut."
 "152","Aucune tenue n'est enregistrée."
@@ -154,6 +154,10 @@ tes meilleurs amis."
 maintenant!"
 "417","Tu ne peux pas poser de
 clôture maintenant!"
+"418","Tu ne peux pas apprendre de plans
+de bricolage pendant un rêve."
+"420","Tu ne peux poser cet objet que
+sur l'île d'un de tes meilleurs amis."
 "430","Tu ne peux pas ranger ceci car ton
 espace de rangement est plein."
 "438","Tu n'as pas assez de place dans
@@ -197,6 +201,8 @@ de construction, pas un chapeau!"
 "474","Si tu veux modifier un motif perso,
 désactive d'abord la communication
 à l'aéroport."
+"475","Tu ne peux pas modifier de motifs
+perso pendant un rêve."
 "500","Tes poches sont pleines,
 tu ne peux rien porter de plus!"
 "510","Tes poches sont pleines!"
@@ -216,3 +222,5 @@ tu visites une autre île."
 "603","Pour pouvoir télécharger un motif
 personnalisé, va d'abord à l'aéroport
 et désactive la communication."
+"604","Tu ne peux pas télécharger un motif
+personnalisé pendant un rêve."

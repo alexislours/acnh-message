@@ -16,6 +16,49 @@ al portale?"
 "020","La comunicazione libera con altri
 utenti è limitata dal filtro famiglia.\0\0Per poter usare questo portale
 devi prima rimuovere la limitazione."
+"030","Vuoi collegarti a Internet e
+accedere al \0portale dei modelli
+personalizzati\0￿?"
+"030_a","Sì, accedi al portale."
+"030_b","Controlla l'ID stilista."
+"030_c","No, grazie."
+"031","Il tuo ID stilista è
+촀."
+"032","Il tuo ID stilista è visibile ad altri
+giocatori sul tuo passaporto.\0\0Se non desideri condividere
+l'ID stilista, puoi nasconderlo.
+Cosa vuoi fare?"
+"032_a","Lascialo visibile."
+"032_b","Nascondi il mio ID."
+"033","Il tuo ID stilista non apparirà
+più sul tuo passaporto.\0\0Puoi cambiare l'impostazione
+in qualsiasi momento da questo
+terminale."
+"034","Il tuo ID stilista non è al momento
+visibile ad altri giocatori sul tuo
+passaporto.\0\0Se desideri condividere l'ID stilista,
+puoi cambiare questa impostazione.
+Cosa vuoi fare?"
+"034_a","Lascialo nascosto."
+"034_b","Rendi visibile l'ID."
+"035","Ora il tuo ID stilista apparirà
+sul tuo passaporto.\0\0Puoi cambiare l'impostazione
+in qualsiasi momento da questo
+terminale."
+"036","Benvenut2oa al \0portale dei modelli
+personalizzati\0￿!\0\0Questo terminale ti consente di
+portare a casa un modello creato
+dall'utente che ha condiviso il sogno.\0\0Vuoi collegarti a Internet
+e consultare i suoi modelli
+personalizzati?"
+"036_a","Sì"
+"036_b","No"
+"037","Benvenut2oa al \0portale dei modelli
+personalizzati\0￿!\0\0Vuoi consultare i modelli
+personalizzati dell'utente
+che ha condiviso il sogno?"
+"037_a","Sì"
+"037_b","No"
 "801","Non puoi usare il \0portale dei modelli
 personalizzati \0￿se la comunicazione
 online o locale è attiva.
@@ -34,5 +77,4 @@ Torna qui quando sarai nuovamente
 modelli personalizzati \0￿se il gate
 dell'aeroporto è aperto.
 Torna qui dopo averlo chiuso."
-"900","Grazie di aver usato questo servizio."
 "901","Ci auguriamo di rivederti presto!"

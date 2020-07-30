@@ -38,6 +38,12 @@ Wie kann ich dir helfen?"
 \0
 Natürlich, 
 \0natürlich!"
+"022","Also,
+\0 womit kann ich dir helfen?"
+"022_a","Über Speicherdaten!"
+"022_b","Über NookLink!"
+"022_c"," Inselsicherung."
+"022_d","Brauche keine Hilfe."
 "051","(촀\0Sehr wohl, 
 \0ja, ja!
 \0 Dann also erst
@@ -105,6 +111,16 @@ dich erinnern."
 drastischen Schritt nur zu gehen,
 \0
 wenn es wirklich nötig ist."
+"062_04","()촀\0Und solltest du die Inselsicherung
+aktiviert haben,
+\0(9촀\0 geht auch diese
+Einstellung verloren."
+"062_05","()촀\0Und sollte s\0촀 die Inselsicherung aktiviert haben,
+\0(9촀\0 geht auch diese Einstellung verloren."
+"062_06","()촀\0Und sollte dieser Einwohner die
+Inselsicherung aktiviert haben,
+\0(9촀\0 geht
+auch diese Einstellung verloren."
 "063_01","(9촀\0Ich sollte dir erklären,
 \0 was es
 bedeutet, 
@@ -271,6 +287,19 @@ wolltest du denn löschen?"
 "112_b","Daten anderer löschen."
 "112_c","Inselsprecher löschen?"
 "112_d","Nichts tun."
+"113","(\0촀\0n\0\0Das wäre aber nicht mehr möglich,
+\0
+('촀\0wenn du die Registrierung von
+s\0촀 löschst."
+"114","Deshalb rate ich dir, 
+\0diesen Schritt
+nur zu gehen, 
+\0wenn es unbedingt
+notwendig ist.\0\0(9촀\0Also, 
+\0möchtest du trotz allem die
+Registrierung von s\0촀 löschen?"
+"114_a","Nichts tun."
+"114_b","\0Registrierung löschen.\0￿"
 "201","(9촀\0Du möchtest also die Registrierung
 eines Bewohners löschen? 
 \0Dabei

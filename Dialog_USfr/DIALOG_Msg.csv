@@ -60,8 +60,6 @@ tu ne peux rien porter de plus!"
 "0301_a","OK"
 "0303_a","OK"
 "0304_a","OK"
-"0307","Réception du courriern"
-"0308","Vérification des donnéesn"
 "0310","Un peu de patience, d'accord?"
 "0321","Tu ne peux pas ajouter à tes favoris un
 message que tu n'as pas encore lu!"
@@ -177,6 +175,36 @@ envoyée. Si le problème persiste,
 prend une nouvelle photo de profil
 et réessaie."
 "0820_a","Fermer"
+"0830","\0Informations importantes sur les rêves\0￿
+Lorsque tu partages ton île en rêve,
+d'autres joueurs, dont certains que
+tu ne connais pas, visitent une
+version de ton île.\0\0\0Cela signifie que les données
+générées par l'utilisateur et relatives
+à ton île et à ses résidents, telles
+qu'elles sont au moment du partage
+du rêve, sont rendues publiques.\0￿\0\0\0Ces données incluent entre autres
+ton nom, le contenu du passeport de
+tous les résidents, l'apparence générale
+de l'île, les pièces dans les maisons,
+tes motifs perso et le contenu du
+panneau d'affichage.\0￿"
+"0830_a","OK"
+"0831","\0Informations importantes sur les rêves\0￿
+Lorsque tu partages ton île en rêve,
+d'autres joueurs, dont certains que
+tu ne connais pas, visitent une
+version de ton île.\0\0\0Cela signifie que les données
+relatives à ton île et à ses résidents,
+telles qu'elles sont au moment du
+partage du rêve, sont rendues
+publiques.\0￿\0\0\0Ces données incluent entre autres
+ton nom, le contenu du passeport de
+tous les résidents, l'apparence générale
+de l'île, les pièces dans les maisons,
+tes motifs perso et le contenu du
+panneau d'affichage.\0￿"
+"0831_a","OK"
 "0921","Tu peux publier jusqu'à deux
 messages au cours d'un voyage."
 "0921_a","OK"
@@ -270,6 +298,9 @@ pour le moment. Désactive les
 communications depuis le guichet
 de l'aéroport."
 "1124_a","OK"
+"1125","Tu ne peux rien commander
+pour le moment."
+"1125_a","OK"
 "1201","Veux-tu vraiment effacer le motif
 « s촀 »?"
 "1201_a","Euh, non!"
@@ -944,11 +975,9 @@ Passeport dans ton NookPhone."
 "2428","Tu ne peux pas publier d'autres
 motifs perso. Tu dois d'abord en
 effacer un. Choisis le motif à effacer."
-"2428_a","Compris!"
 "2429","On dirait que tu n'as pas encore créé
 de motifs perso. Crée un motif perso
 et réessaie."
-"2429_a","Compris!"
 "2430","Il semble que ce motif a déjà été
 publié.
 \0\0Si tu le modifies, tu peux le publier
@@ -966,9 +995,12 @@ aucun résultat. Veux-tu entrer
 l'identifiant à nouveau?"
 "2433_a","Menu"
 "2433_b","Modifier"
-"2434","Aucun motif n'est associé à l'identifiant
-\0촀\0￿. Veux-tu
+"2434","Aucun motif n'est associé à l'ID de
+styliste \0촀\0￿. Veux-tu
 entrer l'identifiant à nouveau?"
+"2434_01","Aucun motif n'est associé à
+l'ID de styliste \0촀\0￿."
+"2434_01_a","Retour"
 "2434_a","Menu"
 "2434_b","Modifier"
 "2435","Le motif perso a été effacé."
@@ -991,6 +1023,51 @@ motif?"
 "2440_b","Voir mon motif"
 "2441","Le partage sur les réseaux sociaux a
 échoué car une erreur est survenue."
+"2442","Veux-tu retirer \0s\0촀\0￿
+de tes favoris?"
+"2442_a","Non."
+"2442_b","Oui."
+"2444","2\0\0s\0촀\0￿ a été retiré2촀\0e\0
+de tes favoris."
+"2445","Ta liste de stylistes favoris est
+pleine. Tu ne peux pas en ajouter
+d'autres pour le moment."
+"2446","Tes critères de recherche ne
+correspondent à aucun motif. Veux-tu
+réessayer avec d'autres critères?"
+"2446_a","Menu"
+"2446_b","Modifier"
+"2447","\0\0Nouvelles options de recherche\0￿
+Tu peux désormais rechercher des
+motifs perso parmi ceux de tes
+stylistes favoris ou par critères.\0\0\0Recherche par critères\0￿
+Cette option permet de chercher
+des motifs en fonction de leur nom
+ou de leur type.\0\0\0Recherche par favoris\0￿
+Cette option permet de chercher
+des motifs créés par des stylistes
+figurant dans ta liste de favoris.\0\0Tu peux ajouter un styliste à tes
+favoris lorsque tu vois un de ses
+motifs. Nous espérons que ces
+nouvelles fonctions te seront utiles!"
+"2448","\0\0Types de motifs perso\0￿
+Tu peux attribuer un type à tous
+les motifs perso (excepté les motifs
+pro) pour faciliter la recherche.
+Appuie sur \0\0￿ pour attribuer un type
+à un motif. Tu peux aussi attribuer
+un type à un motif déjà publié.\0\0\0\0Attribuer un type ne limite en rien
+l'utilisation d'un motif perso. Il est
+également possible de changer le
+type d'un motif après la publication
+de ce dernier.\0￿"
+"2449","Le type de motif a été modifié."
+"2450","Aucun motif n'est associé à
+l'ID de styliste \0촀\0￿.
+Veux-tu procéder à une
+autre sélection?"
+"2450_a","Menu"
+"2450_b","Nouvel ID"
 "2501","Chaque joueur ne peut envoyer que
 deux messages par jour en ligne
 avec Catalogue Nook."
@@ -1081,6 +1158,11 @@ divers filtres et effets sur tes clichés.\0\0\0\0Les photos sont sauvegard
 l'album accessible depuis le menu
 HOME, et sont visibles par les autres
 utilisateurs de la console.\0￿"
+"5002","\0Affichage de l'aide
+Appuie sur \0￿ pour afficher
+ou masquer l'aide.\0\0\0\0Tu ne peux pas la masquer avec
+une manette Joy-Con tenue
+horizontalement.\0￿"
 "5011","\0Points Nook\0￿
 Tu as rejoint le programme
 Points Nook!\0\0Gagne des \0points Nook\0￿ en prenant
@@ -1435,6 +1517,12 @@ modifié.
 Si tu veux porter le nouveau motif,
 applique-le à nouveau en
 sélectionnant \0Porter\0￿."
+"5302_01","Tu as écrasé un motif perso que
+tu es en train de porter.
+
+Si tu veux porter ce nouveau motif,
+choisis-le puis sélectionne \0Porter\0￿
+après avoir quitté le rêve."
 "5303","Un motif perso a été assigné à une
 baguette. Un motif perso enregistré
 dans une tenue n'est pas effacé ou
@@ -1568,3 +1656,19 @@ de te connecter à Internet pour
 effectuer cette vérification."
 "8020_a","Non"
 "8020_b","OK"
+"9001","Veux-tu commencer la restauration
+des données de sauvegarde à partir
+de l'archive?"
+"9001_a","Annuler"
+"9001_b","Commencer"
+"9012","Vérification des données de l'archive..."
+"9012_a","OK"
+"9013","La vérification des données de
+l'archive est terminée. Le jeu
+va reprendre."
+"9013_a","OK"
+"9015","Le jeu va maintenant démarrer."
+"9015_a","OK"
+"9016","Sauvegarde...
+\0\0N'appuie pas sur
+le bouton POWER .\0￿"

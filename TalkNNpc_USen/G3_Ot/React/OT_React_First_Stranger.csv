@@ -582,14 +582,10 @@ And I couldn't resist.
 but please do come over any time
 you like, n\0."
 "302","<"
-"302_01","(""촀\0Why hello,
+"302_01","(""촀\0Why, hello,
 \0 I'm n
-\0.
-\0
-(\0촀\0So you're n\0, eh?
-\0
-(6촀\0I've heard ALL about you, my dear.
-('촀\0Oh, not to worry.
+\0.
+(\0촀\0So you're n\0, eh?\0\0(6촀\0I've heard ALL about you, my dear.\0\0('촀\0Oh, not to worry.
 \0((촀\0 Your neighbors
 have had nothing but good
 things to say, I assure you.
@@ -689,7 +685,7 @@ I'd love to chat more,
 I might give you this dreadful cold.
 (촀\0What say we chat again when I'm not
 a walking petri dish?"
-"311","(2촀\0Why hello and, 
+"311","(2촀\0Why, hello and, 
 \0eh, 
 \0please excuse
 the mess. 
@@ -699,8 +695,8 @@ but I just moved here TODAY!
 \0I'm n
 \0.
 \0
-I must tell you,('촀\0 moving here has
-NOT gone as expected.\0\0()촀\0I was visiting the n\0
+I must tell you,('촀\0 moving here
+has NOT gone as expected.\0\0()촀\0I was visiting the n\0
 \0campsite\0￿ when SOMEONE invited
 me to move here for good.
 But when I got here today,

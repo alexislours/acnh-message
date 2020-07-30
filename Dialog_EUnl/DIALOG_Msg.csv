@@ -61,8 +61,6 @@ bij je dragen!"
 "0301_a","Oké!"
 "0303_a","Oké!"
 "0304_a","Oké!"
-"0307","Bezig post te ontvangen..."
-"0308","Bezig de gegevens te controleren..."
 "0310","Eén momentje, oké?"
 "0321","Je kunt een bericht niet als favoriet
 markeren voor je het hebt gelezen!"
@@ -136,7 +134,7 @@ illegale content, persoonlijke informatie,
 content die de rechten van anderen
 schendt of content die irritatie opwekt
 bij anderen.\0\0Speel niet vals en irriteer geen andere
-spelers. Op in-game gedrag en alle
+spelers. Op ingame-gedrag en alle
 gedeelde content is de Nintendo-
 gedragscode van toepassing.\0\0Als wordt vastgesteld dat je content
 of gedrag in overtreding is met de
@@ -172,6 +170,37 @@ worden. Als dit probleem zich blijft
 voordoen, maak dan een nieuwe
 profielfoto en probeer het opnieuw."
 "0820_a","Oké."
+"0830","\0Belangrijke info over dromen delen\0￿
+Als je een droom van je eiland deelt,
+kunnen andere spelers, ook spelers
+die je niet kent, een versie van je
+eiland bezoeken.\0\0\0Dit betekent dat er door de speler(s)
+gecreëerde gegevens over jouw eiland
+en de personen die er wonen op het
+moment dat de droom wordt gedeeld,
+openbaar wordt gemaakt.\0￿\0\0\0Dit betreft de volgende gegevens:
+je naam, je paspoortinformatie, het
+complete uiterlijk van je eiland,
+kamers in huizen, je eigen ontwerpen,
+berichten op het mededelingenbord,
+en meer.\0￿"
+"0830_a","Ik begrijp het."
+"0831","\0Belangrijke info over dromen delen\0￿
+Als je een droom van je eiland deelt,
+kunnen andere spelers, ook spelers
+die je niet kent, een versie van je
+eiland bezoeken.\0\0\0Dit betekent dat er gegevens
+openbaar worden gemaakt over
+jouw eiland en de personen die er
+wonen op het moment dat de droom 
+wordt gedeeld.\0￿\0\0\0Dit betreft de volgende gegevens:
+je naam, paspoortinformatie van alle
+bewoners van je eiland, het complete
+uiterlijk van je eiland, kamers in
+huizen, je eigen ontwerpen,
+berichten op het mededelingenbord,
+en meer.\0￿"
+"0831_a","Ik begrijp het."
 "0921","Tijdens een bezoek kun je maximaal
 twee berichten plaatsen."
 "0921_a","Oké!"
@@ -263,6 +292,8 @@ als de gate open is."
 plaatsen. Verbreek de verbinding
 bij de luchthavenbalie."
 "1124_a","Oké!"
+"1125","Je kunt momenteel niets bestellen."
+"1125_a","Oké!"
 "1201","""\0s촀\0￿"" zal dan
 verwijderd worden. Weet je zeker
 dat je wilt verdergaan?"
@@ -943,11 +974,9 @@ in de Paspoort-app van je NookPhone."
 "2428","Je hebt het maximale aantal eigen
 ontwerpen bereikt dat je kunt plaatsen.
 Kies er een uit om te verwijderen."
-"2428_a","Oké!"
 "2429","Je kunt pas gebruikmaken van het
 ontwerp-uitwisselpunt wanneer je
 zelf een eigen ontwerp hebt gemaakt."
-"2429_a","Oké!"
 "2430","Dit ontwerp is al geplaatst.
 \0\0Je kunt het opnieuw plaatsen
 wanneer je het hebt bewerkt.\0￿"
@@ -968,6 +997,10 @@ Wil je de ID wijzigen?"
 geregistreerd voor de ontwerper-ID
 ""\0촀\0￿"".
 Wil je de ID wijzigen?"
+"2434_01","Er zijn geen eigen ontwerpen
+geregistreerd voor de ontwerper-ID
+""\0촀\0￿""."
+"2434_01_a","Terug"
 "2434_a","Naar menu."
 "2434_b","Wijzigen."
 "2435","Het eigen ontwerp is verwijderd."
@@ -989,6 +1022,52 @@ je jouw eigen ontwerpen bekijken?"
 "2440_b","Ja"
 "2441","Vanwege een fout kon het ontwerp
 niet gedeeld worden op sociale media."
+"2442","Wil je \0s\0촀\0￿ verwijderen
+uit je favorieten?"
+"2442_a","Nee."
+"2442_b","Ja."
+"2444","2\0\0s\0촀\0￿ is verwijderd uit
+je favorieten."
+"2445","Je lijst met favoriete ontwerpers is
+vol. Daardoor kun je momenteel geen
+nieuwe favorieten toevoegen."
+"2446","Op basis van je zoektermen zijn er
+geen ontwerpen gevonden. Wil je
+opnieuw zoeken met andere
+zoektermen?"
+"2446_a","Naar menu."
+"2446_b","Wijzigen."
+"2447","\0\0Nieuwe zoekfuncties\0￿
+Je kunt nu ontwerpen zoeken van je
+favoriete ontwerpers door specifieke
+zoektermen te gebruiken.\0\0\0Zoeken met zoektermen\0￿
+Hiermee kun je op de naam of het type
+van het ontwerp zoeken.\0\0\0Favorieten zoeken\0￿
+Hiermee kun je naar ontwerpen
+zoeken van ontwerpers die je hebt
+toegevoegd aan je favorietenlijst.\0\0Je kunt ontwerpers toevoegen aan je
+favorieten bij het bekijken van een
+ontwerp. We hopen dat de nieuwe
+zoekfuncties goed van pas zullen komen!"
+"2448","\0\0Types van eigen ontwerpen\0￿
+Je kunt nu een type toevoegen aan
+een eigen ontwerp (zolang het geen
+speciaal ontwerp is), zodat er
+makkelijker naar het ontwerp gezocht
+kan worden.\0\0Druk op \0\0￿ om een type aan een
+ontwerp toe te voegen. Dit is ook
+mogelijk voor ontwerpen die al
+eerder zijn geplaatst.\0\0\0\0Als je een type toevoegt, beperkt dat
+niet hoe het ontwerp gebruikt kan
+worden. Bij een ontwerp dat je al hebt
+geplaatst, kun je nog steeds het type
+aanpassen.\0￿"
+"2449","Het ontwerptype is gewijzigd."
+"2450","Er zijn geen ontwerpen gevonden voor
+de ontwerper-ID \0촀\0￿.
+Wil je met andere informatie zoeken?"
+"2450_a","Naar menu."
+"2450_b","Ja."
 "2501","Elke speler kan iedere dag maximaal
 twee berichten versturen via de
 Nook-catalogus."
@@ -1081,6 +1160,11 @@ verschillende filters en effecten.\0\0\0\0De foto's worden opgeslagen in je
 album in het HOME-menu. Andere
 gebruikers van je systeem hebben
 ook toegang tot deze foto's.\0￿"
+"5002","\0Cameragids\0￿
+\0Druk op  \0￿om de cameragids te
+tonen of te verbergen.\0\0\0\0Wanneer je met een horizontale
+Joy-Con speelt, kun je deze functie
+niet uitzetten.\0￿"
 "5011","\0Nook-miles\0￿
 Je hebt je ingeschreven voor
 Nooks milesprogramma!\0\0Verdien \0Nook-miles\0￿ met activiteiten
@@ -1399,6 +1483,13 @@ en kies \0DRAGEN\0￿."
 wordt gedragen, is overschreven.\0\0Als je het nieuwe eigen ontwerp wilt
 dragen, selecteer het dan opnieuw
 en kies \0DRAGEN\0￿."
+"5302_01","Je hebt een nieuw ontwerp
+opgeslagen over het eigen ontwerp
+dat je op het moment draagt.
+
+Na het verlaten van de droom kun je
+het nieuwe ontwerp dragen door het
+te selecteren en \0DRAGEN\0￿ te kiezen."
 "5303","Een eigen ontwerp maakt deel uit
 van een flitsoutfit. De outfit verandert
 niet als het ontwerp wordt aangepast.\0\0Maar als het eigen ontwerp wordt
@@ -1526,3 +1617,18 @@ het internet om de koppeling te
 bevestigen."
 "8020_a","Nee."
 "8020_b","Oké!"
+"9001","Wil je beginnen met het herstel van
+een eilandback-up?"
+"9001_a","Annuleren"
+"9001_b","Herstellen"
+"9012","Bezig de eilandback-up-gegevens
+te controleren..."
+"9012_a","Sluiten"
+"9013","De controle van de eilandback-up-
+gegevens is voltooid. De game wordt
+nu hervat."
+"9013_a","Sluiten"
+"9015","Bezig de game te starten..."
+"9015_a","Oké!"
+"9016","Bezig met opslaann\0\0
+\0\0Druk niet op .\0￿"

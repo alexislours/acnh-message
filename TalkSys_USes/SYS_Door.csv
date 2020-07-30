@@ -10,14 +10,32 @@ Horario: de 8:00 a 22:00"
 "111_01","Hoy abriremos más tarde por motivos
 ajenos a la administración.
                                            \02\0촀MiniNook\0￿"
+"111_02","Hoy la tienda estará cerrada por
+motivos ajenos a la administración.
+                                           \02\0촀MiniNook\0￿"
 "112","\0Hermanas Manitas\0￿
 Horario: de 9:00 a 21:00"
 "112_01","Abriremos a la mayor brevedad
 posible. Perdón por las molestias.
                             \0Hermanas Manitas\0￿"
+"112_02","Hoy la tienda estará cerrada.
+Perdón por las molestias.
+                            \0Hermanas Manitas\0￿"
 "113","¿De quién será este barco tan
 zarrapastroso? Mejor no entro
 sin permiso."
+"114","La oficina de gestión vecinal no está
+abierta al público en este momento.
+            \0Oficina de 
+\0n\0
+\0￿"
+"115","Me parece que no hay nadie
+ahí dentron"
+"116","La oficina de gestión vecinal no está
+abierta al público en este momento.
+            \0Oficina de 
+\0n\0
+\0￿"
 "902","Me daré una vuelta luego. \0Tom Nook
 \0￿todavía tiene cosas que contarme."
 "903","Debería hablar con \0Tom Nook\0￿
@@ -107,9 +125,9 @@ Hazme el favor de no despertarme.
 "Sleep_ZK","No me despiertes, estoy tomando
 mi sueño rejuvenecedor.
                     s촀"
-"VisitN","Creo que tiene visita.
+"VisitN","Creo que espera visita.
 \0
 Mejor no moleston"
-"VisitP","Creo que tiene visita.
+"VisitP","Creo que espera visita.
 \0
 Mejor no moleston"

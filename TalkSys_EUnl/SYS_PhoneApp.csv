@@ -72,6 +72,12 @@ komt, snappie?d"
 "021_03","d\0Hè? 
 \02\0n\0?
 \0 Alweer? Heb je jezelf weer eens in de nesten gewerkt?d"
+"021_04","d\0Daar ben je.
+\0 2\0n\0 van n""\0, als ik het goed heb.d"
+"021_05","d\0Monumentjen\0\0
+\0 Ja, daar ben je!
+\0 2\0n\0, als ik het goed heb, van n""\0.\0\0
+\0Zit je in de penarie?d"
 "022","d\0Luister. 
 \0Omdat dit de eerste keer is
 dat je belt, 
@@ -246,6 +252,27 @@ idee, maar wie maakt er nu overuren
 om iedereen te redden? Precies. Ik.\0\0Ik moet je afleveren \0waar het
 vliegtuig landt\0￿, zodat je het nog
 eens kunt proberen.d"
+"049_02","d\0Wat gebeurt er hier? 
+\0Hé, maatjen\0\0
+\0
+Wat voor rare tunnels graaf jij?
+\0(
+Straks zit je nog vast in de modder.
+Op deze manier laat je me geen keus.
+\0
+Ik zal je bij het \0dichtstbijzijnde plein
+\0￿afzetten.
+\0 Is dat goed?d"
+"049_02_a","Ja, graag!"
+"049_02_b","Hm, laat maar."
+"049_03","d\0Dat is dan afgesproken. 
+\0Ik zet je wel
+op het plein van het eiland waar je
+nu bent.\0\0En omdat je geen keus hebt waar ik
+je naartoe neem, 
+\0breng ik je voor
+nop.
+\0 Hou je miles dus maar bij je!d"
 "049_a","Ja, graag!"
 "049_b","Hm, laat maar."
 "050_01","d\0Je tent? 
@@ -312,6 +339,11 @@ niks ingewikkelds aan!\0\0Je krijgt ze al als je elke dag bij het
 \0\0NookStation \0￿langsgaat.
 \0 Onthoud
 dat!d"
+"065","<"
+"065_01","d\0Wen maar niet aan deze gratis
+reddingsdienst, ja? 
+\0Niks in het
+leven is gratis, maatje!d"
 "201","Wil je de \0Eilandontwerper\0￿-app
 starten en wat bouwwerkzaamheden
 verrichten?"
@@ -509,4 +541,10 @@ kun je de app hier niet gebruiken."
 "321","Zo te zien kun je tijdens het buurten
 niet van de \0Chatgeschiedenis\0￿-app
 gebruikmakenn"
+"332","Deze app lijkt niet te werken terwijl
+je in dromenland bent."
+"333","Je ontvangst is hier niet best.
+\0
+Het lijkt erop dat je deze app
+nu niet kunt openen."
 "999","\0100 \0￿miles"

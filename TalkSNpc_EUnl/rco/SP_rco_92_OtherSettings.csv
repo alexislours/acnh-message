@@ -30,6 +30,12 @@ vandaag praten?"
 "021","(촀\0Opgeslagen gegevens, hm?
 \0
 Maar natuurlijk!"
+"022","Over welke instellingen wil je
+vandaag praten?"
+"022_a","Opgeslagen gegevens."
+"022_b","NookLink."
+"022_c","Eilandback-ups."
+"022_d","Laat maar."
 "051","(촀\0Ja, ja, ik begrijp het!
 \0 Laten we in dat
 geval teruggaan naar het titelscherm.\0\0(""촀\0
@@ -86,6 +92,16 @@ meer weten wie je bent."
 "062_03","(\0촀\0Daaromn\0\0 raad ik je aan om deze
 stap alleen te nemen als het echt
 absoluut nodig is."
+"062_04","()촀\0En als je eilandback-ups geactiveerd
+hebt, 
+\0(9촀\0zal die instelling ook worden
+gewist."
+"062_05","()촀\0En als s\0촀 eilandback-ups geactiveerd heeft, 
+\0(9촀\0zal die instelling ook worden gewist."
+"062_06","()촀\0En als die bewoner eilandback-ups
+geactiveerd heeft, 
+\0(9촀\0zal die instelling
+ook worden gewist."
 "063_01","(9촀\0Ik zal je wat informatie geven over
 het wissen van bewonergegevensn\0\0\0\0()촀\0Als je die wist, verdwijnt iedere herinnering aan s\0촀 op n	\0.(\0촀\0\0\0(촀\0De andere bewoners en ik zullen niet
 meer weten wie dat is, en 2촀zijnhaar\0 huis,
@@ -210,6 +226,14 @@ je willen wissen?"
 "112_b","Een andere bewoner wissen."
 "112_c","En de eilandwoordvoerder?"
 "112_d","Ik wil niets wissen."
+"113","(\0촀\0Alsn\0\0
+\0 de bewonerregistratie van s\0촀 gewist is, 
+\0('촀\0kun je dat in de toekomst nooit meer doen."
+"114","(%촀\0Ik raad je aan om dit proces
+alleen in gang te zetten als het
+absoluut nodig is.\0\0(9촀\0Wil je de bewonerregistratie van s\0촀 nog steeds wissen?"
+"114_a","Ik wil niets wissen."
+"114_b","\0Ik wis de registratie.\0￿"
 "201","(9촀\0Wil je een bewonerregistratie
 wissen?
 \0 Ja, ja,

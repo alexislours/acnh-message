@@ -23,7 +23,7 @@ zijn?"
 \0 \0KHallo, hallo!\0dd 
 \0(\0촂\0Hoe kunnen we je vandaag van dienst zijn?"
 "011_a","Ik wil iets verkopen!"
-"011_b","Wat kosten de knollen?"
+"011_b","Wat betaal je voor knollen?"
 "011_c","Wat is de dagtopper?"
 "011_d","('촀\0Tot ziens..."
 "012","(촀\0Ja, ja!
@@ -34,13 +34,13 @@ indrukwekkend dat je helemaal naar
 ons prachtige eiland bent afgereisd!\0\0(\0촀\0Wat kan ik vandaag voor je
 betekenen?"
 "012_a","Ik wil iets verkopen!"
-"012_b","Wat kosten de knollen?"
+"012_b","Wat betaal je voor knollen?"
 "012_c","Wat is de dagtopper?"
 "012_d","('촀\0Tot ziens..."
 "013","(촂\0(촃\0Heb je iets nodig?d\0
 \0 \0KVertel, vertel!\0dd"
 "013_a","Ik wil iets verkopen!"
-"013_b","Wat kosten de knollen?"
+"013_b","Wat betaal je voor knollen?"
 "013_c","Wat is de dagtopper?"
 "013_d","('촀\0Tot ziens..."
 "014","(촀\0(촃\0Sorry. Dat had een stuk korter en
@@ -48,14 +48,14 @@ bondiger kunnen zijnn\0\0
 \0(촀\0 Heb je iets
 nodig?"
 "014_a","Ik wil iets verkopen!"
-"014_b","Wat kosten de knollen?"
+"014_b","Wat betaal je voor knollen?"
 "014_c","Wat is de dagtopper?"
 "014_d","('촀\0Tot ziens..."
 "019","Kunnen we je verder(촂\0 nog ergens mee
 helpen vandaag?d\0
 \0 \0KAarzel niet!\0dd"
 "019_a","Ik wil iets verkopen!"
-"019_b","Wat kosten de knollen?"
+"019_b","Wat betaal je voor knollen?"
 "019_c","Wat is de dagtopper?"
 "019_d","('촀\0Tot ziens..."
 "021","(%촂\0(촃\0Natuurlijk! (\0촂\0

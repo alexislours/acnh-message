@@ -56,6 +56,14 @@ nouvelles, même en ces piètres circonstances.d"
 \0 Tu es encore
 dans le pétrin ?
 \0(%촁\0d"
+"021_04","d\0Tu es n\0 2
+de d'⁠n""\0, c'est bien cela ?d"
+"021_05","d\0Voyons un peun\0\0 Ah, c'est bon !
+\0
+Tu es n\0 2
+de d'⁠n""\0, c'est bien cela ?\0\0(%촁\0
+\0Ça me fait plaisir d'avoir de tes
+nouvelles, même en ces piètres circonstances.d"
 "022",""
 "023_01","d\0Le système est plutôt simple :
 je te sors de là pour \0100\0￿ miles
@@ -203,6 +211,25 @@ sur une de ces \0îles labyrinthiques
 grave, mais pas désespéréen\0\0\0\0On va réinitialiser l'île et je te
 déposerai ensuite \0là où l'avion
 atterrit\0￿. Boucle ta ceinture !d"
+"049_02","d\0Bizarre, bizarren\0\0 Excuse-moi, maisn\0\0
+j'ai du mal à te localiser.
+\0( Où donc
+es-tu allé2\0e te fourrer ?\0\0Eh bien, 
+\0je n'ai pas le choix.
+\0 Je vais
+devoir te déposer sur la \0place la plus
+proche\0￿.
+\0 Ça te convient ?d"
+"049_02_a","Oui, s'il te plaît !"
+"049_02_b","('촁\0Euh... j'annule !"
+"049_03","d\0Merci pour la confirmation. 
+\0Je vais te
+déposer sur la place la plus proche
+de là où tu te trouves.\0\0Et comme tu ne peux pas choisir la
+destination, 
+\0c'est gratos pour cette
+fois.
+\0 Ça t'économisera des miles !d"
 "049_a","Oui, s'il te plaît !"
 "049_b","Nan, attends."
 "050_01","d\0À ta tente ?
@@ -271,6 +298,13 @@ je fais du yoga.d"
 "064_03","d\0Tu te sers bien tous les jours
 du \0Nook Stop\0￿ au bureau des
 résidents pour gagner des miles ?\0\0Il faut le faire, c'est vraiment la base.d"
+"065","<"
+"065_01","d\0Alors, on utilise le service d'aide
+gratosn\0\0 comme chez mamann\0\0 Tu te
+prends pour qui ?!\0\0Bah.
+\0 Quand on veut du gratuit, on
+finit toujours par en payer le prix.
+Alors viens pas pleurer !d"
 "2001","d\0Oui ? Ce n'est pas comme
 d'habitude, c'est ça ?
 \0 Je pensais

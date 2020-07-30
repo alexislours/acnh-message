@@ -74,6 +74,16 @@ Ah, c'est bon!
 "021_03","d\0Hein? 
 \02\0n\0?
 \0 Encore toi? T'es encore coincé2\0e, c'est ça?d"
+"021_04","d\0Bon alors,
+\0 j'ai affaire à n\0 2
+de d'⁠n""\0, c'est juste?d"
+"021_05","d\0Une seconde, veux-tun\0\0
+\0
+Ah, c'est bon!
+\0\0\02\0n\0 2
+de d'⁠n""\0, c'est ça?
+
+\0Et t'es coincé2\0e?d"
 "022","d\0C'est la première fois que tu as
 recours à mon service, non?
 \0
@@ -244,6 +254,27 @@ ces \0îles labyrinthiques \0￿que \0Tom Nook\0￿
 a imaginées?\0\0Dans ce cas, je vais te déposer \0là
 où l'avion atterrit\0￿, et tu pourras
 recommencer!d"
+"049_02","d\0Mais que se passe-t-il? 
+\0Tu esn\0\0 dans
+un tunnel?
+\0( C'est un peu comme
+regarder à travers un filtre.
+Eh bien, 
+\0je n'ai pas le choix.
+\0 Je vais
+devoir te déposer sur la \0place la plus
+proche\0￿.
+\0 Ça te convient?d"
+"049_02_a","Oui, s'il te plaît!"
+"049_02_b","('촁\0Euh... j'annule!"
+"049_03","d\0Bien, alors c'est décidé. 
+\0Je vais te
+déposer sur la place la plus proche
+de là où tu te trouves.\0\0Et comme tu n'as pas le choix de la
+destination, 
+\0c'est gratuit pour cette
+fois.
+\0 Ça t'économisera des points!d"
 "049_a","Oui, s'il te plaît!"
 "049_b","Non, attends."
 "050_01","d\0À ta tente?
@@ -315,6 +346,12 @@ guise,
 c'est un peu à la portée
 du premier venu.\0\0Il suffit d'aller tous les jours
 au \0Nook Stop\0￿!d"
+"065","<"
+"065_01","d\0Va pas commencer à croire que le
+service d'aide est gratuit! 
+\0Dans tes
+rêves, mon ami2\0e!\0\0Rien n'est gratuit dans la vie. 
+\0Ha!d"
 "201","Veux-tu démarrer \0Remod'île\0￿
 et faire des travaux?"
 "201_a","Oui!"
@@ -520,4 +557,10 @@ emplacement actuel n'est pas
 couvert par ce service."
 "321","On dirait que tu ne peux pas utiliser
 l'\0historique de bavardage\0￿ lorsque tu joues en groupen"
+"332","On dirait que tu ne peux pas utiliser
+cette application pendant un rêven"
+"333","Hmmn\0\0 la réception n'est pas terrible
+ici.
+\0 Il semble que tu ne puisses pas
+utiliser l'application pour le moment."
 "999","\0100 \0￿points"

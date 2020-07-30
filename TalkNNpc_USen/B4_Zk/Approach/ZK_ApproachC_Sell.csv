@@ -10,7 +10,7 @@ my }\0\0."
 "001_a","How much we talkin'?
 I'm listening..."
 "001_b","Not interested.
-(#촁\0Sorry, not today."
+Sorry, not today."
 "002","(5촀\0Hey, I bet I can read your mind!
 \0
 (1촀\0You're thinkingn\0\0I wish I had
@@ -44,7 +44,7 @@ interest YOU in a lightly-used
 }\0\0, eh?"
 "004_a","(\0촁\0How much?
 (\0촁\0I'm interested..."
-"004_b","(#촁\0Mmm, sorry...
+"004_b","Mmm, sorry...
 (\0촁\0I'd better not."
 "005","(촀\0Seriously? 
 \0((촀\0OK, but this is
@@ -84,7 +84,7 @@ low price of Z?"
 "100_a","Sure, I'll take it!
 Yeah, that works."
 "100_b","No, thanks.
-(#촁\0Er, sorry..."
+Er, sorry..."
 "101","(촀\02\0n\0! 
 \0Another sale in
 the books for n

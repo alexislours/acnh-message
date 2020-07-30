@@ -95,16 +95,16 @@ alla rampa."
 "113","Non puoi modificare questo rilievo,
 perché bloccheresti l'accesso
 alla rampa."
-"121","Non puoi creare un fiume qui
+"121","Non puoi mettere acqua qui
 perché l'albero è troppo vicino!"
-"122","Non puoi sistemare una cascata qui,
+"122","Non puoi mettere acqua qui
 perché farebbe crollare il rilievo."
-"123","Non puoi creare un fiume qui perché
+"123","Non puoi mettere acqua qui perché
 è troppo vicino a un edificio."
-"124","Non puoi creare un fiume qui
+"124","Non puoi mettere acqua qui
 perché renderebbe difficile
 l'accesso al ponte."
-"125","Non puoi creare un fiume qui
+"125","Non puoi mettere acqua qui
 perché renderebbe difficile
 l'accesso alla rampa."
 "151","È pericoloso salire ancora più in alto!"
@@ -154,6 +154,10 @@ sull'isola di uno dei tuoi migliori amici."
 accessorio adesso."
 "417","Non puoi costruire delle
 recinzioni in questo momento."
+"418","Non puoi imparare schemi
+fai da te mentre sogni."
+"420","Puoi collocare questo oggetto solo
+sull'isola di uno dei tuoi migliori amici."
 "430","Non puoi mettere via questo
 oggetto perché il tuo sgabuzzino
 è pieno."
@@ -200,6 +204,8 @@ costruendo qualcosa!"
 "474","Ora non puoi modificare dei modelli
 personalizzati. Devi prima disattivare
 la comunicazione all'aeroporto."
+"475","Non puoi modificare i modelli
+personalizzati mentre sogni."
 "500","Hai le tasche piene da non
 poter portare nient'altro."
 "510","Hai le tasche piene!"
@@ -215,3 +221,6 @@ mentre sei in viaggio."
 "603","Non puoi scaricare un modello
 personalizzato finché non disattivi
 la comunicazione all'aeroporto."
+"604","Non puoi scaricare modelli
+personalizzati mentre ti trovi
+in un sogno."

@@ -27,7 +27,7 @@ propi2촀oa\0 }\0\0n\0\0
 "003_a","(\0촁\0¿Por cuánto?
 (\0촁\0Hazme una oferta"
 "003_b","Lo siento, pero no
-(#촁\0No está a la venta"
+No está a la venta"
 "004","(촀\0Me rindo.
 \0 Jamás encontraré 2\0
 }\0\0 que
@@ -47,7 +47,7 @@ Bien,
 "004_a","(\0촁\0¿Cuánto me das?
 (\0촁\0Escucho tu oferta"
 "004_b","No se vende
-(#촁\0Lo siento, no puedo"
+Lo siento, no puedo"
 "005","('촀\0Ningún problema.
 \0 No es algo que
 NECESITEn\0\0
@@ -64,7 +64,7 @@ que tú le darás un hogar feliz.
 "100_a","(\0촁\0¿Cuánto me ofreces?
 (\0촁\0¿Por cuántas bayas?"
 "100_b","Lo lamento, pero no
-(#촁\0Me temo que no"
+Me temo que no"
 "101","(촀\0Déjame pensar.
 \0 Teniendo en cuenta
 la fluctuación de la bolsan\0\0
@@ -73,7 +73,7 @@ la fluctuación de la bolsan\0\0
 "101_a","De acuerdo
 Acepto"
 "101_b","No es suficiente
-(#촁\0Eso es poco"
+Eso es poco"
 "102","(촀\0¿En serio?
 \0 (촀\0¡""Bravissimo""!
 \0
@@ -162,13 +162,13 @@ joya de }\0\0."
 "200_a","(\0촁\0¿Cuánto me pagarías?
 (\0촁\0¿Me lo pagarías bien?"
 "200_b","Pues no, no se vende
-(#촁\0Lo siento, pero no"
+Lo siento, pero no"
 "201","(촀\0A vern\0\0
 \0 ¿Qué te parece Z?"
 "201_a","Me parece bien
 Trato hecho"
 "201_b","Creo que no
-(#촁\0Es muy poco"
+Es muy poco"
 "202","(촀\0Bueno,
 \0 solo quería hacerte un favor.
 \0
@@ -215,10 +215,10 @@ utilice esta belleza."
 mi bolsillon\0\0
 \0 (5촀\0¿Qué tal Z por
 2\0}\0\0?"
-"304_a","¡Ahora sí!
+"304_a","¡Para ti!
 Trato hecho"
-"304_b","(\0촀\0Ahora me arrepiento...
-(#촁\0Creo que no, perdón"
+"304_b","Ahora me arrepiento...
+Creo que no, perdón"
 "305","(촀\0¡""Oh, yeah""!
 \0 ¡Mi colección sube de
 categoría gracias a est2촀ea\0

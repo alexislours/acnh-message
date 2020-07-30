@@ -94,7 +94,7 @@ pieds, de jour comme de nuit.
 \0
 Embarquez les victuailles! 
 \0On
-décarre dans-(촀\0 oh. 
+décarre dansn\0\0(촀\0 oh. 
 \0Oups!\0\0(2촀\0Ce n'est pas une expédition de
 ravitaillement!
 \0 J'ai débarqué sur l'île
@@ -258,8 +258,8 @@ large,
 \0((촀\0 sinon t'auras l'air fin2\0e!"
 "023","(촀\0Si tu te d'mandes où peut bien être
 mon \0émetteur\0￿, 
-\0(()촀\0y'est sûrement \0au fond
-d'l'eau au large de cette île-ci\0￿!\0K\0\0(*촀\0Et si tu m'le r'trouves pas, ce s'ra ma réputation
+\0(()촀\0y'est sûrement \0au
+fond d'l'eau au large de cette île-ci\0￿!\0K\0\0(*촀\0Et si tu m'le r'trouves pas, ce s'ra ma réputation
 qui coulera à pic!\0\0(9촀\0\0dJ'compte sur toi.
 \0( (;촀\0Faut dire que t'es
 mon seul espoir.\0\0( 촀\0Oh, 
@@ -272,7 +272,7 @@ pas me l'ramener! 
 "030_a","(%촀\0Aye!"
 "030_b","('촀\0Non..."
 "031_01","(촀\0Mon \0émetteur\0￿ est sûrement \0au fond
-d'la mer pas très loin d'ici\0￿.n\0\0\0\0(9촀\0Du coup, 
+d'la mer pas très loin d'ici\0￿n\0\0\0\0(9촀\0Du coup, 
 \0((촀\0je f'rais mieux d'pas y aller
 moi-même.\0\0(3촀\0Parce que moi,
 \0( l'eau,
@@ -324,7 +324,7 @@ d'ssus bord.
 procédure, v'là mes coordonnées.\0\0(\0촀\0Et magnez-vous les arpions, (촀\0ou
 j'vous f'rai briquer l'rafiot à la brosse
 à dents!
-\0 Parole de \0Gullivarrr \0!\0\0ARRR! 
+\0 Parole de \0Gullivarrr\0!\0\0ARRR! 
 \0(촀\0Bisous, à toute!\0\0(%촀\0\0￿Eeetn\0\0 Envoi!
 \0 J'pense avoir trouvé
 les bons mots pour motiver les
@@ -353,7 +353,7 @@ grande pompe pour leur cap'taine!\0\0(\0촀\0Du moinsn\0\0(촀\0 y'ont i
 \0ARRR!"
 "044","(&촀\0Tu crois qu'mon vaisseau est en
 route?
-\0(\0촀\0 L'émetteur indique que
+\0(\0촀\0 L'\0émetteur\0￿ indique que
 l'message a été lun\0\0\0\0Mes p'tits gars, j'les aime, (촀\0mais on
 peut dire qu'ils aiment m'faire
 attendre! 
@@ -410,7 +410,7 @@ forcées pour m'entraîner à grogner.\0\0(	촀\0ARRR! 
 ona fidèle corsaire!\0\0()촀\0Je sais,
 \0 je sais,
 \0 j'étais censé scruter
-l'arrivée d'ma frégate,
+l'arrivée d'ma frégate
 \0(n\0\0(2촀\0 mais l'chant
 des vagues m'endort,
 \0 j'y peux rienn\0\0\0\0(촀\0HEH?!
@@ -418,8 +418,9 @@ des vagues m'endort,
 r'trouvé mon \0émetteur\0￿?!"
 "067","( 촀\0Eh? 
 \0C'est quoi ta question?
-\0 « Y'a
-un concours de cosplay dans le coin? »
+\0
+« Y'a un concours de cosplay dans
+le coin? »
 \0( (&촀\0Dun\0\0 cosplay?\0\0(촀\0J'comprends rien à ton dialecte.
 
 \0J'parle pas bien l'terrestre, désolé.
@@ -481,14 +482,14 @@ passé par-d'ssus bord, j'ai été
 chahuté par la mer et j'ai échoué ici.\0\0(촀\0Et à mon réveil, mon \0émetteur\0￿, la
 prunelle d'mes yeux, avait disparu! 
 \0
-Sans lui, tout espoir était anéanti!\0\0(촀\0Mais arrrn\0\0 une bonne âme est arrivée
-et m'l'a sorti d'l'eau.
-\0 J'respire de
-nouveau!"
+Sans lui, tout espoir était anéanti!\0\0(촀\0Mais arrrn\0\0 une bonne âme est
+arrivée et m'l'a sorti d'l'eau.
+\0
+J'respire de nouveau!"
 "106_01","(촀\0Tout est bien qui finit bien. 
 \0D'ailleurs
 je f'rais bien d'vérifier si mon
-équipage a répon- oh."
+équipage a réponn\0\0 oh."
 "107","
 \0(촀\0
 
@@ -520,7 +521,7 @@ r'trouver mon cher \0émetteur\0￿!"
 tellement lessivé que j'me suis
 endormi comme un oisillon!"
 "113_01","(%촀\0Arrr, j'devrais contacter mon
-équipa-n\0\0 oh."
+équipan\0\0 oh."
 "114","Sans lui, ('촀\0impossible d'communiquer
 avec mon équipage!\0\0(%촀\0Y doit être \0au fond d'la mer\0￿n\0\0
 \0(
@@ -548,8 +549,8 @@ j'me débats dans l'eau d'la mern\0\0\0\0(촀\0Et comme si ça n'suffisait
 perdu mon \0émetteur\0￿!
 \0 J'peux même
 plus contacter mon équipage!\0\0(촀\0Mon instinct d'marin m'dit que
-l'\0émetteur\0￿ a coulé tout droit au fond
-d'la mer."
+l'\0émetteur\0￿ a coulé tout droit \0au fond
+d'la mer\0￿."
 "123","(촀\0Sans lui, mes gars devront me
 chercher en s'fiant à leur pif.
 \0((촀\0 Autant
@@ -577,8 +578,8 @@ quittera plus jamn\0\0(촀\0 oh."
 \0(\0\0
 	\0(촀\0Mon précieux \0émetteur\0￿ a d'nouveau
 pris le large!"
-"128_01","(촀\0C'fichu \0émetteur \0￿a dû r'plonger au
-fond d'la mern\0\0 
+"128_01","(촀\0C'fichu \0émetteur \0￿a dû r'plonger \0au
+fond d'la mer\0￿n\0\0 
 \0((촀\0sans lui, jamais mon
 équipage me r'trouvera!\0\0(촀\0J't'en supplie, aide un vieux loup
 d'mer et va me r'pêcher l'\0émetteur\0￿!"

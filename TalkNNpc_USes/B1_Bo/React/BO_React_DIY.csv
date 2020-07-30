@@ -19,7 +19,7 @@ hambre que me está empezando
 a dar, estoy un poco ocupadon\0\0
 \0 (""촀\0Hablamos luego, ¿sí?"
 "008","( 촀\0¡¿Cómo?!
-\0 ¡¿Que ya sabes hacer
+\0< ¡¿Que ya sabes hacer
 2\0}\0\0?!"
 "008_a","¡Claro!"
 "008_b","Como todo el mundo"
@@ -60,7 +60,10 @@ a quien le interese?\0\0(7촀\0Y le dices que perdón por la mancha
 de chocolate que tienen"
 "020","(촀\0¡Sería genial que todos hicieran
 su }\0\0!"
-"021","()촀\0Aquí tienes nada más y nada menos
-que el proyecto secreto para
-2\0}\0\0.
-($촀\0¡No lo pierdas!"
+"021","( 촀\0¡Ah! 
+\0Viniste a buscar el proyecto
+secreto, 
+\0¿no?\0\0()촀\0¡Aquí tienes! 
+\0El esquema para hacer
+nada más ni nada menos que 2\0}\0\0.
+\0\0\0($촀\0¡No lo pierdas!"

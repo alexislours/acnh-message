@@ -241,6 +241,51 @@ santén\0\0
 même effet ? 
 \0Ça demande une étude
 sérieuse !"
+"205","<ﴐ︀촀"
+"206","(촀\0Voilà une tenue qui sent bon la mer
+et l'aventure, n\0 !\0\0(1촀\0Ma montre connectée dispose-t-elle
+d'un programme d'entraînement au
+lancer de tonneau ?"
+"207","(&촀\0Juste par curiosité, ta tenue, làn\0\0
+\0
+elle t'aide pour nager ?\0\0(2촀\0Non pas que j'en aurais besoin, bien
+sûrn\0\0
+\0 maisn\0\0
+\02 (촀\0Bon, d'accord ! 
+\0J'arrive
+pas à nager sans brassards."
+"208","(촀\0Ooh, tu as tout ce qu'il faut pour
+aller explorer la grande bleue. 
+\0(&촀\0C'est
+la nage ou la plongée qui te tente ?\0\0(6촀\0Moi ? 
+\0J'aime me jeter dans les
+vagues.
+\0 (5촀\0Ça me permet de tester ma
+résistance aux fluides, n\0 !"
+"209","(촀\0Oh !
+\0 J'ai oublié notre session d'arts
+martiaux, n\0 ?\0\0(5촀\0Donne tout ce que tu as et ne retiens
+pas tes coups. 
+\0(촀\0Sauf sin\0\0
+\0 Euh, elle est
+de quelle couleur, ta ceinture ?"
+"210","( 촀\0Voilà une tenue qui me parle.
+\0(%촀\0 Légère,
+elle te laisse aussi respirer et bouger
+comme tu veux.\0\0(&촀\0Comment elle réagit à l'humidité ?
+\0 Si
+je verse un litre 2
+de d'⁠촀 sur toin\0\0
+\0( (촀\0En fait, laisse tomber."
+"211","(촀\0Oh, j'adore ta tenue ! 
+\0((&촀\0Tu crois qu'on
+peut s'entraîner, avec ?
+\0 Ou alors
+se lancer dans un triathlon ?
+(촀\0Ah, laisse tomber. 
+\0((촀\0Je cherchais
+simplement une excuse pour te
+parler du triathlon que je préparen"
 "251","( 촀\0Attendsn\0\0 (&촀\0mes muscles oculaires me
 jouent des tours oun\0\0 tu es moi ?\0\0()촀\0Enfin, n\0, on commence à
 drôlement se ressembler, non ?\0\0(6촀\0Pas étonnant, les gros biceps se
@@ -254,6 +299,23 @@ toujours retomber sur ses pattes.
 cas !
 \0 Confortable, mignon, etn\0\0(촀\0 velu ?
 \0(촀\0 Enfin bref, j'aime beaucoup."
+"253","(6촀\0Dis donc, tu as l'air en super forme,
+aujourd'hui, n\0.\0\0(촀\0J'ose croire que c'est moi qui t'ai
+inspiré2\0e, ne serait-ce qu'un peu.
+\0(촀\0 Tu
+essaies de battre mes records ?
+Tu peux espérer être meilleur2\0e
+qu'une grenouille dans TA
+discipline de prédilectionn\0\0
+... mais tu n'as aucune chance 
+\0(촀\0de la
+battre dans la sienne !"
+"254","(촀\0Tu mises tout sur l'aérodynamisme,
+n\0n\0\0
+\0 (&촀\0On essaie de diminuer sa résistance au vent ?\0\0()촀\0D'expérience, je peux te dire que tu
+gagnes 0,2 % de vitesse. 
+\0('촀\0Mais ça ne
+remplace pas un bon entraînement !"
 "301","Ouah, t'as la classe mondiale avec
 2\0}\0\0 ! On dirait un maître en arts martiaux.
 
@@ -285,6 +347,34 @@ pour accroître la taille des musclesn\0\0
 sérieusement, tu devrais passer à la
 méthode n
 \0."
+"304","(촀\0Ouah ! Tu fais du football
+américain ?!
+\0 (5촀\0Moi aussi, j'ai couru
+quelques yards, tu sais.\0\0(촀\0À quel poste j'ai joué ? 
+\0Euhn\0\0
+
+\0(2촀\0Techniquement, j'étais 2\0n\0 ramasseu2촀rse\0 de balle."
+"305","(촀\0Ooh, tu participes à une course ?
+\0(
+(&촀\0C'est un cinq kilomètres ?
+\0 10 ?
+\0
+Un semi-marathon ? 
+\0Un relais ?\0\0(&촀\0Tu vises quel rythme ? 
+\0C'est quoi
+ton record sur cette distance ?
+\0
+Ta fréquence cardiaque moyenne ?
+\0
+(:촀\0n\0\0 Maintenant, tu as envie de piquer
+un sprint loin de moi, je parie."
+"306","(촀\0Hé, ça te dit qu'on se fasse des
+échanges de balle ? 
+\0((5촀\0Seuls les pros
+peuvent attraper mon lancer spécial.\0\0(촀\0Non pas qu'il soit rapiden\0\0
+\0( (촀\0mais il est
+si imprévisible que même moi, je
+contrôle pas où j'envoie la balle !"
 "401","<"
 "401_01","( 촀\0C'est pas la première fois que je vois
 ta tenuen\0\0 (%촀\0Mais elle m'impressionne

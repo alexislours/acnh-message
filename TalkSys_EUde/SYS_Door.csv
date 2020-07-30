@@ -9,12 +9,26 @@ kann."
 "111_01","Heute aus betrieblichen Gründen
 geänderte Öffnungszeiten.
 			–Nooks Laden"
+"111_02","Heute aufgrund außergewöhnlicher
+Umstände geschlossen.
+			–Nooks Laden"
 "112","\0Schneiderei\0￿
 Öffnungszeiten: 9:00–21:00"
 "112_01","Heute gelten geänderte Öffnungszeiten!
                   –Schneiderschwestern"
+"112_02","Heute aufgrund außergewöhnlicher
+Umstände geschlossen.
+                  –Schneiderschwestern"
 "113","An dem Schiff könnte was faul seinn\0\0
 Bloß nicht ohne Erlaubnis betreten."
+"114","Heute ist das Servicecenter von
+n\0 nicht besetzt.
+                               –Servicecenter"
+"115","Es scheint sich niemand darin
+zu befinden..."
+"116","Heute ist das Servicecenter von
+n\0 nicht besetzt.
+                               –Servicecenter"
 "902","\0Tom Nook\0￿ braucht mich noch.
 \0
 Ich seh mir das Zelt später an."
@@ -109,9 +123,9 @@ darum, nicht geweckt zu werden.
 "Sleep_ZK","Ich halte gerade ein kleines
 Schönheitsschläfchen.
                               s촀"
-"VisitN","Ich glaube, hier ist gerade jemand
-zu Besuch. Da sollte ich nicht einfach
+"VisitN","Ich glaube, hier wird bereits Besuch
+erwartet. Da sollte ich nicht einfach
 so reinplatzen."
-"VisitP","Ich glaube, hier ist gerade jemand
-zu Besuch. Da sollte ich nicht einfach
+"VisitP","Ich glaube, hier wird bereits Besuch
+erwartet. Da sollte ich nicht einfach
 so reinplatzen."

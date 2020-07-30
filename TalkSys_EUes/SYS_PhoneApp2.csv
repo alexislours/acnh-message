@@ -58,6 +58,11 @@ Qué te cuestan\0\0d"
 "021_03","d\0Peron\0\0
 \0 ¿Eres n\0 otra vez?
 \0 ¿Vuelves a estar en apuros?(%촁\0d"
+"021_04","d\0¡Ahí estás!
+\0 Eres n\0 de n	\0, ¿no?d"
+"021_05","d\0A vern\0\0
+\0 Eres n\0 de n	\0, ¿no?
+\0 Gracias por usar nuestro servicio.d"
 "022",""
 "023_01","d\0Un rescate te costará \0100 \0￿millas.
 \0
@@ -213,6 +218,22 @@ Según lo que me han dicho, debo
 dejarte \0donde aterriza el avión
 \0￿para que puedas empezar de cero.
 ¡Vamos allá!d"
+"049_02","d\0Eston\0\0
+\0 Qué cosa tan raran\0\0
+\0
+¿Dónde estás?\0\0La señal es débil, pero creo que te
+podré llevar a \0la plaza de esa isla\0￿.
+\0
+¿Te vale?d"
+"049_02_a","¡Sí, porfa!"
+"049_02_b","He cambiado de idea"
+"049_03","d\0Confirmado:
+\0 te dejaremos en la plaza
+de tu isla actualn\0\0\0\0Como no te he dejado elegir destino,
+\0
+no te voy a cobrar millas por este
+rescate.
+\0 No te quejarásn\0\0d"
 "049_a","¡Adelante!"
 "049_b","('촀\0Al final no hace falta"
 "050_01","d\0¿A tu tienda de campaña?
@@ -281,6 +302,11 @@ Porque a mí no me ha funcionadon\0\0d"
 los días?
 \0 Es la forma más fácil
 de ganar millas.d"
+"065","<"
+"065_01","d\0Rescates gratis:
+\0 no encontrarás
+un chollo igual ni en tus mejores
+sueñosn\0\0d"
 "2001","d\0¿Qué?
 \0 ¿Dices que hoy parezco
 distinto?

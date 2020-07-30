@@ -18,9 +18,7 @@ what it even is!"
 "007","('촀\0Sorry. I got a lot goin' on. I dunno
 how much of this is even legal.
 Safety-wise, I mean.\0\0(""촀\0Let's play later!"
-"008","( 촀\0What?!
-\0(
-You already know how to make(\0촀\0
+"008","( 촀\0What?!\0\0You already know how to make(\0촀\0
 2\0}\0\0?!"
 "008_a","Sure do!"
 "008_b","Doesn't everyone?"
@@ -62,6 +60,10 @@ hand them this note?\0\0(2촀\0And maybe apologize for the cookie
 grease I smudged on the middle part."
 "020","(촀\0It'd be great if a buncha folks made
 2\0}\0\0!"
-"021","()촀\0Heeeeere is the secret recipe for
-the }\0\0!
+"021","( 촀\0Oh! 
+\0You're back for my top-secret
+recipe, huh?\0\0()촀\0Heeere you go! 
+\0A DIY recipe for
+2\0}\0\0.
+\0
 ($촀\0Don't lose it!"

@@ -109,6 +109,49 @@ par-dessus l'île ?
 \0 Tu fais
 juste les rivières ?
 \0( (촀\0Pourquoi pasn"
+"017","( 촀\0Oh, un sans-gêne ! J'adore ces
+trucs !\0\0(5촀\0Essaie d'en attacher cinq ensemble,
+ça te fera un super entraînement de
+respiration, n\0."
+"018","(%촀\0Tu as un lance-bulles !
+\0 Ces trucs
+sont vraiment géniaux, n\0 !\0\0(&촀\0Tu peux souffler une bulle de ma
+taille ?
+\0( (5촀\0Je l'éclaterai, mais au cours
+d'un combat équilibré, n\0."
+"019","(촀\0Joli, ton moulin !
+\0 Tu as essayé de courir avec, n\0 ?\0\0(%촀\0Plus tu cours vite, plus il tourne vite.
+
+\0Pense juste à faire des pauses,
+\0( (5촀\0sinon
+ton moulin tiendra pas longtemps !"
+"020","( 촀\0Il est classe, ton éventail, n\0.\0\0()촀\0J'aime les éventails.
+\0 Ça rafraîchit
+et en même temps, c'est un super
+exercice pour les poignets.\0\0(촀\0Du coup, il en faut d'autres pour te
+rafraîchir les poignets. 
+\0((촀\0Je parie qu'on
+peut les agiter avec les jambesn"
+"021","(촀\0Oh ! Ça serait pas un cierge magique,
+que tu tiens là ?
+\0( (촀\0Je donnerais mes
+premiers haltères pour en avoir un !\0\0
+\0(!촀\0
+\0
+
+\0\03n\0\0
+\0 2n\0\0
+\0 1n\0\0
+\0 PSCHIIII !!!\0d
+\0(\0촀\0
+	\0\0\0n\0\0
+\0(2촀\0 Oh. 
+\0J'ai parfois tendance à en faire
+un peu trop."
+"022","(""촀\0Il est chouette ton ballon, n\0 !\0\0(촀\0Tu veux une idée d'entraînement ?
+\02
+(촀\0Laisse-le s'envoler et cours après
+pour le récupérer, n\0 !"
 "100","(촀\0Tu te balades un filet en mainn\0\0
 \0 Avec
 mes talents de déduction,

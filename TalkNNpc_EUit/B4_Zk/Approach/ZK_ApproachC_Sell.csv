@@ -8,8 +8,8 @@ novità da paura!
 2""촀questoquesta\0 }\0\0."
 "001_a","(\0촁\0Quanto vorresti?
 (\0촁\0Dimmi tutto..."
-"001_b","(\0촁\0Non mi interessa.
-(#촁\0Non mi serve, grazie."
+"001_b","Non mi interessa.
+Non mi serve, grazie."
 "002","(5촀\0A me gli occhi, ora leggerò
 la tua mente!
 \0 (1촀\0Tu desiderin\0\0
@@ -47,7 +47,7 @@ potresti essere interessad2oa a 2""촀questoquesta\0
 }\0\0n"
 "004_a","(\0촁\0Quanto costa?
 (촁\0Sì, mi interessa."
-"004_b","(#촁\0Mmmh, non credo...
+"004_b","Mmmh, non credo...
 (\0촁\0Meglio di no."
 "005","(촀\0Dices sul serio? 
 \0((촀\0Peggio per te, tanto
@@ -85,8 +85,8 @@ per la prossima volta, n\0."
 davvero ridicolos di Z?"
 "100_a","(\0촁\0Venduto!
 Ci sto!"
-"100_b","(\0촁\0No, grazie...
-(#촁\0Scusa, ma no..."
+"100_b","No, grazie...
+Scusa, ma no..."
 "101","(촀\0Evvai, n\0! 
 \0Un'altra
 vendita messa a segno dal mitico

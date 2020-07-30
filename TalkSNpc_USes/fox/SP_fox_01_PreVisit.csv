@@ -11,6 +11,17 @@ inteligencia.
 (촀\0Tú y yo vamos a llevarnos bien.
 Lo presiento.
 \0 Es un placer conocerte."
+"001_01","(촀\0¡Un momento!
+\0 Yo a ti te conozcon\0\0
+\0
+(%촀\0Ya hicimos negocios antes,
+¿verdad, prim2oa?
+(5촀\0Sí, soy yo, ¡\0Ladino\0￿! 
+\0Y tú erasn\0\0
+\0
+($촀\0¡n\0, por supuesto!
+\0
+¿Cómo te trata la vida?"
 "002_01","(촀\0¿Sabes qué?
 \0 Creo que no fue
 ninguna casualidad que nos hayamos
@@ -267,6 +278,22 @@ inteligencia.
 Lo presiento.
 \0 Es un placer conocerte.\0\0(9촀\0Por cierto, ¿puedo contar contigo
 para un proyecto?"
+"101_01","(촀\0¡Un momento!
+\0 Yo a ti te conozcon\0\0
+\0
+(%촀\0Ya hicimos negocio alguna vez,
+¿verdad, prim2oa?
+(5촀\0Sí, soy yo, ¡\0Ladino\0￿! 
+\0Y tú erasn\0\0
+\0
+($촀\0¡n\0, claro! Jamás olvido el nombre de un2\0a client2ea.\0\0(1촀\0Estaba encantado en esta isla,
+pero ahora que te veo, 
+\0¡me siento
+incluso mejor!
+(%촀\0Salta a la vista que aquí se vive
+muy bien,
+\0(촀\0 ¡y que hay mucho gusto
+por el arte!"
 "102_01","Eh,
 \0 me alegra volver a ver tu cara
 por aquí.
@@ -277,7 +304,7 @@ interesados en esa gran obra."
 "102_02","(촀\0¡Vaya,
 \0 n\0!
 \0
-(촀\0¡Cuánto tiempo sin verte!"
+(촀\0¿Cómo te trata la vida?"
 "103","(1촀\0Voy a ser totalmente franco contigo.
 \0
 Me encanta n\0.\0\0(촀\0Me gusta la manera en que han

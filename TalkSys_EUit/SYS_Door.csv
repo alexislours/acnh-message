@@ -8,15 +8,28 @@ Orario d'apertura: 8:00 - 22:00"
 "111_01","A causa di circostanze impreviste,
 l'orario d'apertura di oggi è cambiato.
                            \0Bottega di Nook\0￿"
+"111_02","A causa di circostanze impreviste,
+oggi l'esercizio resterà chiuso.
+                           \0Bottega di Nook\0￿"
 "112","\0Sorelle Ago e Filo 
 \0￿Orario di apertura: 9:00 - 21:00"
 "112_01","Abbiamo cambiato l'orario di
 apertura di oggi.
                            \0Sorelle Ago e Filo\0￿"
+"112_02","A causa di circostanze impreviste,
+oggi l'esercizio resterà chiuso.
+                           \0Sorelle Ago e Filo\0￿"
 "113","Questa barca ha un'aria sospetta.
 
 \0Sarà meglio non salire a bordo
 senza permesso..."
+"114","Avviso: il centro servizi di
+n\0 non è disponibile.
+                           \0Centro servizi\0￿"
+"115","Sembra che non ci sia nessuno..."
+"116","Avviso: il centro servizi di
+n\0 non è disponibile.
+                           \0Centro servizi\0￿"
 "902","Visiterò la tenda più tardi.
 \0
 \0Tom Nook\0￿ voleva darmi ancora
@@ -112,9 +125,9 @@ Sogni d'oro!"
 "Sleep_ZK","Sto dormendo come un sassofono...
 Tornate più tardi!
                               s촀"
-"VisitN","Credo che abbia visite.
+"VisitN","Credo che aspetti visite.
 \0
 Meglio non disturbaren"
-"VisitP","Credo che abbia visite.
+"VisitP","Credo che aspetti visite.
 \0
 Meglio non disturbaren"

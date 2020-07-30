@@ -8,13 +8,27 @@ Shop hours: 8 AM - 10 PM"
 "111_01","Due to circumstances, our operating
 hours for today have changed.
                                    –\0Nook's Cranny\0￿"
+"111_02","Due to unusual circumstances, we
+will be closed today.
+                                   –\0Nook's Cranny\0￿"
 "112","\0Able Sisters
 \0￿Shop hours: 9 AM - 9 PM"
 "112_01","We've changed our shop hours
 for today.
                                –The Able Sisters"
+"112_02","Due to unusual circumstances, we
+will be closed today.
+                                –\0The Able Sisters\0￿"
 "113","This ship's kinda sketchy looking.
 I shouldn't board without askingn"
+"114","Be advised: 2\0n\0
+Resident Services is not available.
+                             –\0Resident Services\0￿"
+"115","It doesn't seem like anyone's
+in there..."
+"116","Be advised: 2\0n\0
+Resident Services is not available.
+                             –\0Resident Services\0￿"
 "902","\0Tom Nook \0￿still needs to tell me a few
 things, so I'll check this out later."
 "903","I should probably chat with
@@ -104,9 +118,9 @@ Please don't interrupt.
 "Sleep_ZK","Please don't bother me.
 I need my beauty sleep!
                             –s촀"
-"VisitN","I think someone is visiting the
+"VisitN","I think someone promised to visit the
 resident who lives here. I probably
 shouldn't barge inn"
-"VisitP","I think someone is visiting the
+"VisitP","I think someone promised to visit the
 resident who lives here. I probably
 shouldn't barge inn"

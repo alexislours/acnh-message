@@ -33,6 +33,12 @@ necesitas que te ayude?"
 ajustes de los datos de guardado?
 \0
 ¡Ningún problema!"
+"022","A ver, ¿con qué tipo de ajustes
+necesitas que te ayude?"
+"022_a","Datos de guardado"
+"022_b","NookLink"
+"022_c"," Copia de seguridad"
+"022_d","Mejor no hago nada"
 "051","(촀\0Claro, claro, entiendo.
 \0 En ese caso,
 vamos a volver a la pantalla
@@ -85,6 +91,16 @@ los demás residentes."
 "062_03","(\0촀\0Así que te sugiero que utilices
 esta opción solo cuando sea
 absolutamente necesario."
+"062_04","()촀\0Y, si activaste la copia de seguridad
+de datos de guardado,
+\0 (9촀\0esa opción
+se desactivará."
+"062_05","()촀\0Y, si s\0촀 activó la copia de seguridad de datos de guardado,
+\0 (9촀\0esa opción se desactivará."
+"062_06","()촀\0Y, si se activó la copia de seguridad
+de datos de guardado con esa
+cuenta,
+\0 (9촀\0esa opción se desactivará."
 "063_01","(9촀\0A continuación voy a explicarte
 lo que implica borrar los datos
 de otros residentesn\0\0
@@ -231,6 +247,16 @@ de residente quieres borrar?"
 "112_b","Borrar los datos de otro"
 "112_c","¿Borrar al portavoz?"
 "112_d","Cambié de parecer"
+"113","(\0촀\0Si borras los datos de residente
+de s\0촀,
+\0 ('촀\0eso ya no será posible."
+"114","(%촀\0Te recomiendo que utilices esta
+opción solo cuando sea totalmente
+necesario, ¿sí?
+(9촀\0¿Aún deseas borrar los datos de
+s\0촀?"
+"114_a","Cambié de parecer"
+"114_b","\0Sí, borra los datos\0￿"
 "201","(9촀\0Quieres borrar datos de residente,
 ¿sí?
 \0 Bien, has acudido al mapache

@@ -15,6 +15,13 @@
 \0(
 (촀\0
 \0Nee, geen vriendenn\0\0 familie!\0\0(\0촀\02\0n\0n\0\0 (촀\0't Is een genoegen je te ontmoeten, n\0!"
+"001_01","(촀\0
+\0Hé, dat snoetje ken ik! 
+\0We kennen
+elkaar van een van mijn neven-
+activiteiten.\0\0(\0촀\0Ik ben 't, \0Redd\0￿! 
+\0En jouw naam wasn\0\0 n\0, natuurlijk!
+\0 ($촀\0Hoe staat 't leven?"
 "002_01","(1촀\0Ik zeg: het heeft zo moeten zijn!
 \0
 Onze ontmoeting hier. Nu.\0\0(6촀\0Nou, we zijn nu zowat familie, 
@@ -258,6 +265,20 @@ klanten! 
 \0(
 (촀\0
 \0Nee, geen vriendenn\0\0 familie!\0\0(\0촀\02\0n\0n\0\0 (촀\0't Is een genoegen je te ontmoeten, n\0!\0\0(9촀\0Trouwens, mag ik je wat vragen?"
+"101_01","(촀\0
+\0Hé, dat snoetje ken ik! 
+\0We kennen
+elkaar van een van mijn neven-
+activiteiten.\0\0(\0촀\0Ik ben 't, \0Redd\0￿! 
+\0En jouw naam wasn\0\0 n\0, natuurlijk!
+\0 ($촀\0Hoe staat 't leven?\0\0(1촀\0Ik was net aan het nadenken over
+wat voor fijne plek dit is.
+\0 En nu ik jou
+zie, ben ik helemaal blij.\0\0(촀\0Ik zeg: je hebt het hier goed voor
+mekaar. 
+\0((%촀\0En er zijn hier héél veel
+\0
+kunstfansn"
 "102_01","Dat mooie snoetje herken ik overal.
 \0 ($촀\0Hoe gaat 't, n\0?\0\0(7촀\0Het was een goeie beslissing om dat
 kunstwerk van me te kopen! 
@@ -265,7 +286,7 @@ kunstwerk van me te kopen! 
 nog veel meer geïnteresseerden."
 "102_02","(촀\0
 \0Kijk nou! Daar hebben we n\0!
-\0( (촀\0Dat is lang geleden!"
+\0( (촀\0Hoe staat 't leven?"
 "103","(1촀\0Ehn\0\0 om eerlijk te zijn
 \0 ben ik echt voor n\0 gevallen.\0\0(촀\0Ik zeg: je hebt het hier goed voor
 mekaar. 

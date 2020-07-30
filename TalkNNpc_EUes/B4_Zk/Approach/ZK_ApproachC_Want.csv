@@ -28,7 +28,7 @@ razonable?"
 "003_a","(\0촁\0¿Por cuánto?
 (\0촁\0Hazme una oferta"
 "003_b","Lo siento, pero no
-(#촁\0No está en venta"
+No está en venta"
 "004","(촀\0Abandono.
 \0 Jamás encontraré 2\0
 }\0\0 que
@@ -49,7 +49,7 @@ diciendo en serio que tú tienes un2촀oa\0?
 "004_a","(\0촁\0¿Cuánto me das?
 (\0촁\0Escucho tu oferta"
 "004_b","No se vende
-(#촁\0Lo siento, no puedo"
+Lo siento, no puedo"
 "005","('촀\0No te sientas culpable.
 \0 Lo entiendo.
 \0
@@ -68,7 +68,7 @@ venderme tan exclusivo artículo?"
 "100_a","(\0촁\0¿Cuánto me ofreces?
 (\0촁\0¿Por cuántas bayas?"
 "100_b","Lo lamento, pero no
-(#촁\0Me temo que no"
+Me temo que no"
 "101","(촀\0Déjame pensar.
 \0 Teniendo en cuenta
 la fluctuación de las criptomonedasn\0\0
@@ -77,7 +77,7 @@ la fluctuación de las criptomonedasn\0\0
 "101_a","Me vale
 Acepto"
 "101_b","No es suficiente
-(#촁\0Eso es poca cosa"
+Eso es poca cosa"
 "102","(촀\0¿De verdad de la buena?
 \0 (촀\0¡Qué
 subidón!
@@ -165,14 +165,14 @@ joya de }\0\0."
 "200_a","(\0촁\0¿Cuánto me pagarías?
 (\0촁\0¿Me lo pagarías bien?"
 "200_b","Va a ser que no
-(#촁\0Lo siento, pero no"
+Lo siento, pero no"
 "201","(촀\0A vern\0\0
 \0 ¿Serían Z
 una cantidad apropiada?"
 "201_a","Me vale
 Trato hecho"
 "201_b","Creo que no
-(#촁\0No me vale"
+No me vale"
 "202","(촀\0Bueno,
 \0 solo lo decía por hacerte
 un favor.
@@ -222,8 +222,8 @@ el bolsillon\0\0
 2\0}\0\0?"
 "304_a","¡Para ti!
 Se va contigo"
-"304_b","(\0촀\0Ahora me arrepiento...
-(#촁\0Creo que no, perdón"
+"304_b","Ahora me arrepiento...
+Creo que no, perdón"
 "305","(촀\0¡Oh, yeah!
 \0 ¡Mi colección cobrará
 una nueva dimensión gracias a

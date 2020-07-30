@@ -62,8 +62,6 @@ porque tienes los bolsillos llenos."
 "0301_a","¡Vale!"
 "0303_a","¡Vale!"
 "0304_a","¡Vale!"
-"0307","Recibiendo el correo..."
-"0308","Se van a verificar los datos."
 "0310","Espera un momento..."
 "0321","No es posible añadir una postal a
 tus favoritas sin haberla leído antes."
@@ -181,6 +179,36 @@ Si el error no se soluciona,
 hazte una foto de perfil nueva
 y vuelve a intentarlo."
 "0820_a","Vale"
+"0830","\0Información importante sobre sueños\0￿
+Al compartir tu isla como un sueño,
+otros jugadores podrán visitar esa
+versión onírica de tu isla, tanto si
+los conoces como si no.\0\0\0Eso significa que se harán públicos
+los datos generados por usuarios
+acerca de tu isla y sus residentes
+tal cual eran en el momento en
+que compartiste el sueño.\0￿\0\0\0Estos datos incluyen tu nombre,
+la información de tu pasaporte,
+el aspecto de toda la isla (incluido
+el interior de las casas), tus diseños
+personalizados y los mensajes
+del tablón de anuncios, entre otros.\0￿"
+"0830_a","Aceptar"
+"0831","\0Información importante sobre sueños\0￿
+Al compartir tu isla como un sueño,
+otros jugadores podrán visitar esa
+versión onírica de tu isla, tanto si
+los conoces como si no.\0\0\0Eso significa que se harán públicos
+los datos de tu isla y sus residentes
+tal cual eran en el momento en que
+compartiste el sueño.\0￿\0\0\0Estos datos incluyen los nombres
+y la información de los pasaportes
+de todos los residentes, el aspecto
+de toda la isla (incluido el interior
+de las casas), los diseños
+personalizados y los mensajes
+del tablón de anuncios, entre otros.\0￿"
+"0831_a","Aceptar"
 "0921","Solo es posible publicar un máximo
 de dos anuncios por visita."
 "0921_a","¡Vale!"
@@ -274,6 +302,9 @@ en este momento. Para hacerlo,
 ve al mostrador del \0aeródromo\0￿
 y desactiva las comunicaciones."
 "1124_a","¡Vale!"
+"1125","No es posible realizar pedidos
+en este momento."
+"1125_a","¡Vale!"
 "1201","¿Seguro que quieres
 sobrescribir el diseño
 \0s촀\0￿?"
@@ -934,11 +965,9 @@ aplicación Pasaporte del \0Nookófono\0￿."
 "2428","Has alcanzado el límite de diseños
 personalizados que puedes publicar.
 Elige uno para borrarlo."
-"2428_a","Entendido"
 "2429","No has creado ningún diseño
 personalizado. Podrás usar este
 servicio cuando hayas creado uno."
-"2429_a","Entendido"
 "2430","Ya has publicado este diseño.
 \0\0Podrás volver a publicarlo si lo
 modificas.\0￿"
@@ -957,6 +986,9 @@ al ID \0촀\0￿.
 "2434","No hay diseños asociados al ID de
 creador \0촀\0￿.
 ¿Quieres cambiar el ID?"
+"2434_01","No hay diseños asociados al ID de
+creador \0촀\0￿."
+"2434_01_a","Atrás"
 "2434_a","Volver al menú"
 "2434_b","Cambiar"
 "2435","Se ha borrado el diseño."
@@ -978,6 +1010,51 @@ tu propio diseño, \0n\0\0￿?"
 "2441","Se ha producido un error.
 No se ha podido compartir
 el diseño en redes sociales."
+"2442","¿Quieres borrar a \0s\0촀\0￿
+de tu lista de creadores favoritos?"
+"2442_a","No"
+"2442_b","Sí"
+"2444","Has borrado a \0s\0촀\0￿
+de tu lista de creadores favoritos."
+"2445","Tu lista de creadores favoritos
+está llena y no permite añadir
+más nombres."
+"2446","Los criterios de búsqueda elegidos
+no han producido ningún resultado.
+¿Quieres cambiarlos y volver
+a intentarlo?"
+"2446_a","Volver al menú"
+"2446_b","Cambiar"
+"2447","\0\0Nuevas opciones de búsqueda
+de diseños personalizados\0￿
+Ahora podrás buscar palabras clave
+y diseños de tus creadores favoritos.\0\0\0Búsqueda avanzada\0￿
+Te permite introducir criterios
+de búsqueda para filtrar según
+el nombre del diseño o su categoría.\0\0\0Favoritos\0￿
+Te permite buscar diseños de
+tus creadores favoritos.\0\0Puedes añadir a un creador a tu lista
+de favoritos desde cualquiera de los
+diseños que haya publicado.
+¡Disfruta de las nuevas funciones!"
+"2448","\0\0Categorías de diseños\0￿
+Basta pulsar \0\0￿ para asignarle una
+categoría a un diseño personalizado,
+con excepción de los profesionales.
+Esto te ayudará a realizar búsquedas.\0\0La categoría sirve como referencia
+o recomendación, pero no limita los
+posibles usos del diseño. Además,
+es posible cambiar la categoría
+asignada a un diseño incluso
+después de publicado."
+"2449","Se ha asignado una categoría
+al diseño."
+"2450","No se ha encontrado ningún diseño
+asociado a la ID de creador
+\0촀\0￿.
+¿Quieres elegir otro favorito?"
+"2450_a","Volver al menú"
+"2450_b","Elegir otro"
 "2501","Ya le has enviado a este usuario
 el máximo de 2 postales diarias
 a través de internet."
@@ -1065,6 +1142,10 @@ Te permite sacar fotos y aplicarles
 diversos filtros y efectos.\0\0\0\0Las imágenes se guardarán en el
 álbum del menú HOME y cualquiera
 que utilice la consola podrá verlas.\0￿"
+"5002","\0Guía de controles en pantalla\0￿
+\0Pulsa  \0￿para mostrar u ocultar la guía
+de controles. \0\0No podrás ocultarla
+si usas el Joy-Con en horizontal.\0￿"
 "5011","\0Millas Nook\0￿
 ¡Te has inscrito en el
 programa de millas Nook!\0\0Obtendrás \0millas Nook\0￿ al completar
@@ -1421,6 +1502,12 @@ que está en uso. Para utilizar
 el nuevo diseño, es necesario
 aplicarlo de nuevo mediante
 la opción \0Equipar\0￿."
+"5302_01","Se ha sobrescrito un diseño
+que está en uso. Para utilizar
+el nuevo diseño, es necesario
+abandonar el sueño y, después,
+aplicarlo de nuevo mediante
+la opción \0Equipar\0￿."
 "5303","Este conjunto de varita utiliza un
 diseño personalizado. El conjunto
 no cambiará aunque modifiques
@@ -1557,3 +1644,19 @@ conectar a internet para realizar
 dicha verificación."
 "8020_a","No"
 "8020_b","¡Vale!"
+"9001","¿Quieres comenzar el proceso de
+recuperación de datos de guardado?"
+"9001_a","Cancelar"
+"9001_b","Aceptar"
+"9012","Comprobando los datos
+de la copia de seguridad..."
+"9012_a","Aceptar"
+"9013","La comprobación de la copia
+de seguridad ha concluido.
+A continuación se volverá al juego."
+"9013_a","Aceptar"
+"9015","A continuación se iniciará el juego."
+"9015_a","¡Vale!"
+"9016","Guardandon\0\0
+\0
+\0\0No toques .\0￿"

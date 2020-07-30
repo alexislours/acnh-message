@@ -95,9 +95,8 @@ difícil usar la rampa de acceso."
 "113","Si modifico la elevación del terreno
 aquí, se volverá difícil usar la rampa
 de acceso."
-"121","Aquí no puedo cavar el cauce
-de un río porque el árbol está
-demasiado cerca."
+"121","No puedo abrir un cauce de agua
+tan cerca de un árbol."
 "122","Si creo aquí una cascada, el terreno
 elevado se derrumbará."
 "123","No puedo abrir un cauce de agua
@@ -131,7 +130,7 @@ que pueda quitarme."
 en una masa de agua."
 "407","No puedo cambiarme de ropa
 mientras lleve puesto un conjunto
-de la varita."
+de varita."
 "408","Este proyecto de bricolaje
 ya me lo sé."
 "409","No llevo suficientes bayas encima."
@@ -151,6 +150,11 @@ en una isla que no sea de
 alguno de mis mejores amigos."
 "416","No puedo ponerme esto aquí."
 "417","No puedo colocar vallas aquí."
+"418","No puedo memorizar proyectos de
+bricolaje mientras estoy soñando."
+"420","No puedo colocar esto
+en una isla que no sea de
+alguno de mis mejores amigos."
 "430","No puedo guardar esto porque
 en el trastero no cabe nada más."
 "438","¡Todo esto no cabrá en el trastero!"
@@ -189,6 +193,8 @@ mientras construyo cosas!"
 "474","No puedo editar diseños hasta que
 no desactive la comunicación
 inalámbrica en el aeródromo."
+"475","No puedo modificar diseños
+mientras estoy soñando."
 "500","No tengo donde guardar esto
 porque llevo los bolsillos llenos."
 "510","¡Llevo los bolsillos llenos!"
@@ -204,3 +210,6 @@ mientras estoy de viaje."
 "603","No puedo descargar diseños hasta
 que no desactive la comunicación
 inalámbrica en el aeródromo."
+"604","No puedo descargar diseños
+personalizados mientras estoy
+en un sueño."

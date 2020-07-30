@@ -16,6 +16,13 @@ be pals.
 \0( (촀\0
 \0No, not palsn\0\0family!\0\0(\0촀\02\0n\0n\0\0 (촀\0It's a pleasure
 to meet ya, n\0!"
+"001_01","(촀\0
+\0Hey, I know you! 
+\0You visited me at
+one of my little side businesses.\0\0(\0촀\0It's me, \0Redd\0￿! 
+\0And your name isn\0\0
+2\0n\0!
+\0 ($촀\0How ya been?"
 "002_01","(1촀\0Ah, just feels like fate, don't it?
 \0
 Us meetin' here like this.\0\0(6촀\0Well, seein' as we're practically
@@ -278,6 +285,19 @@ be pals.
 \0No, not palsn\0\0family!\0\0(\0촀\02\0n\0n\0\0 (촀\0It's a pleasure
 to meet ya, n\0!\0\0(9촀\0Hey, would you mind if I ran
 an idea by you?"
+"101_01","(촀\0
+\0Hey, I know you! 
+\0You visited me at
+one of my little side businesses.\0\0(\0촀\0It's me, \0Redd\0￿! 
+\0And your name isn\0\0
+2\0n\0!
+\0 ($촀\0How ya been?\0\0(1촀\0I was just thinkin' about how much
+I've been enjoying this place. 
+\0Seeing
+you just makes it all the better!\0\0(촀\0I mean, you've got quite a setup
+goin' here. 
+\0((%촀\0And a LOT
+\0 of art fansn"
 "102_01","I'd know that shining face anywhere.
 \0
 ($촀\0How ya been, n\0?\0\0(7촀\0You made the right choice buyin' that
@@ -287,7 +307,7 @@ folks asking about it."
 "102_02","(촀\0
 \0Well, if it isn't n\0!
 \0(
-(촀\0Long time no see!"
+(촀\0How ya been?"
 "103","(1촀\0Ahn\0\0you know, I really gotta
 be honest.
 \0 I think I'm fallin'

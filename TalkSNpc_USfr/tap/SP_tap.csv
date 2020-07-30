@@ -1,0 +1,502 @@
+﻿"label","text"
+"001","d
+\0Bienvenuen\0\0d
+
+7"
+"001_01","2\0n	\0n\0\0 C'est de là que tu viens,
+\0 n'est-ce pas? 
+\0Tu dois être 2lela célèbre n\0."
+"001_01_a","Exact!"
+"001_01_b","Comment tu sais ça?"
+"001_02","(촀\0Hmmmn\0\0
+\0 n	\0 est source de bien des rêves des plus plaisants.\0\0(\0촀\0Excuse-moi. 
+\0Je ne me suis même pas
+présentée.
+\0 ($촀\0Je suis \0Serena\0￿,
+\0 et
+j'administre la librairie onirique."
+"001_02_a","La librairie onirique?"
+"001_02_b","Pardon?"
+"001_03","(\0촀\0Les rêves sont l'incarnation de
+souvenirs que l'on chéritn\0\0
+\0(촀\0 et que
+l'on a partagés sur \0Internet\0￿.\0\0()촀\0Mon rôle est d'orienter les voyageurs
+oniriques, 
+\0afin de leur permettre de
+rêver de l'île d'un autre joueur.(촀\0\0\0Une fois au sein d'un rêve, 
+\0ce sera
+comme si tu étais réellement sur
+l'île de ce joueur.\0\0(촀\0C'est fascinant, n'est-ce pas?
+\0 Pour
+rêver d'une île, dis-moi simplement
+« \0Je veux rêver\0￿ »."
+"001_04","(9촀\0Si tu veux toi aussi contribuer à la
+librairie onirique, 
+\0je serai ravie
+d'enregistrer un rêve de ton île. \0\0(1촀\0Les rêves sont extraits par fibre
+optique et ajoutés au catalogue
+onirique à disposition des joueurs.\0\0(\0촀\0Pour faire simple, 
+\0pour partager le
+rêve de ta ville,
+\0 il te suffit de me dire
+($촀\0« \0Je veux partager un rêve \0￿».\0\0(%촀\0Bien,
+\0 maintenant que les
+présentations sont faitesn"
+"001_05","(\0촀\0Bienvenue.
+\0 (촀\0Les champs oniriques
+regorgent de rêves magnifiques!"
+"001_06","(\0촀\0Bienvenue.
+\0 (촀\0Les rêves patientent
+paisiblement sur les serveurs,
+\0 en
+attente de visiteurs."
+"002","(&촀\0Que puis-je faire pour toi?"
+"002_01","(&촀\0Que puis-je faire pour toi?"
+"002_01_a","Je veux rêver."
+"002_01_b","Le rêve que j'ai partagé..."
+"002_01_c","Où suis-je?"
+"002_01_d","Je veux me réveiller."
+"002_02","(&촀\0Puis-je faire quoi que ce soit d'autre
+pour toi?"
+"002_02_a","Je veux rêver."
+"002_02_b","Je veux partager un rêve."
+"002_02_c","Où suis-je?"
+"002_02_d","Je veux me réveiller."
+"002_03","(&촀\0Puis-je faire quoi que ce soit d'autre
+pour toi?"
+"002_03_a","Je veux rêver."
+"002_03_b","Le rêve que j'ai partagé..."
+"002_03_c","Où suis-je?"
+"002_03_d","Je veux me réveiller."
+"002_04","(&촀\0Que puis-je faire pour toi?"
+"002_04_a","Je veux rêver."
+"002_04_b","Je veux partager un rêve."
+"002_04_c","Et donc... où suis-je?"
+"002_04_d","Je veux me réveiller."
+"002_05","(&촀\0Que puis-je faire pour toi?"
+"002_05_a","Je veux rêver."
+"002_05_b","Le rêve que j'ai partagé..."
+"002_05_c","Et donc... où suis-je?"
+"002_05_d","Je veux me réveiller."
+"002_06","(&촀\0Puis-je faire quoi que ce soit d'autre
+pour toi?"
+"002_06_a","Je veux rêver."
+"002_06_b","Je veux partager un rêve."
+"002_06_c","Et donc... où suis-je?"
+"002_06_d","Je veux me réveiller."
+"002_07","(&촀\0Puis-je faire quoi que ce soit d'autre
+pour toi?"
+"002_07_a","Je veux rêver."
+"002_07_b","Le rêve que j'ai partagé..."
+"002_07_c","Et donc... où suis-je?"
+"002_07_d","Je veux me réveiller."
+"002_a","Je veux rêver."
+"002_b","Je veux partager un rêve."
+"002_c","Où suis-je?"
+"002_d","Je veux me réveiller."
+"003","(\0촀\0Comme il te plaira. 
+\0N'hésite pas
+à revenir.
+\0 (촀\0Tu seras toujours 2lela
+bienvenu2\0e ici."
+"1000","(촀\0Bien sûr! 
+\0Mais je me dois de clarifier
+quelques points avant de t'orienter
+vers un rêve.\0\0()촀\0Les rêves, 
+\0comme nombre de choses,
+
+\0sont téléchargés sur \0Internet\0￿.
+\0 Ce qui
+nécessite une connexion à Internet.\0\0(\0촀\0De plus, 
+\0le \0code onirique\0￿ du rêve est
+requis.
+\0 C'est le code d'identification
+unique propre à chaque rêve.\0\0(%촀\0Et donc, avant de rêver, 
+\0assure-toi
+d'avoir le \0code onirique \0￿de ton choix
+à disposition."
+"1000_01","( 촀\0Oh! 
+\0Encore une petite penséen\0\0\0\0(9촀\0Les rêves sont des entités fragiles.
+\0
+Pour éviter les interférences,
+\0 tu dois
+te délester de tes possessions.\0\0($촀\0Mais ne t'inquiète pas. 
+\0Je veillerai
+sur tes trésors et te les restituerai
+à ton réveil."
+"1001","(\0촀\0Je crois avoir tout dit.
+\0 (&촀\0Bien, es-tu
+prêt2\0e à te connecter à la librairie
+onirique?"
+"1001_a","Absolument!"
+"1001_b","Pas maintenant."
+"1002","(촀\0Je vais donc établir une connexion
+à \0Internet \0￿pour initialiser le
+téléchargement d'un rêve."
+"1003","(%촀\0Quel est le \0code onirique \0￿du rêve
+de ton choix?"
+"1004","(\0촀\0Merci.
+\0 (:촀\0Je te prierai de patienter un
+instant pendant que j'explore la
+librairie oniriquen"
+"1005","(\0촀\0Le \0code onirique\0￿ que tu m'as fourni
+correspond à une île appelée
+s촀.
+\0 (&촀\0Est-ce correct?"
+"1005_a","C'est correct!"
+"1005_b","Non."
+"1006","(촀\0Parfait! 
+\0Tout est donc prêt.
+\0
+(1촀\0
+\0Ferme les yeuxn\0\0 Détends-toin\0\0(촀"
+"1006_01","Connecte-toin\0\0
+\0 au rêve de l'île
+s촀n\0\0
+K"
+"1031","(촀\0Excuse-moi, 
+\0mais il n'y a aucun rêve
+correspondant à ce \0code onirique\0￿."
+"1031_a","Réessayons."
+"1031_b","Laissons tomber."
+"1032","(촀\0Excuse-moi, 
+\0mais je n'ai pas
+réussi à me connecter à \0Internet\0￿.
+\0
+(&촀\0Veux-tu que je réessaie?"
+"1032_a","Je veux bien."
+"1032_b","Laissons tomber."
+"1033","(촀\0Hmmn\0\0 Ce \0code onirique\0￿ correspond
+à ta propre île.\0\0('촀\0Je suis désolée, 
+\0mais il est tout aussi
+impossible de rêver de ta propre île
+que de diviser par zéro.\0\0(&촀\0Y a-t-il un autre rêve auquel tu
+désirerais accéder?"
+"1033_a","Oui."
+"1033_b","Non, laissons tomber."
+"1041","(촀\0Excuse-moi,
+\0 mais pour rêver, tu dois
+activer la communication libre entre
+utilisateurs via le contrôle parental.\0\0(촀\0Reviens me voir lorsque tu seras
+prêt2\0e."
+"2001","(\0촀\0Bien sûr. 
+\0(9촀\0Mais avant de procéder,
+\0
+je dois te communiquer quelques
+\0informations importantes\0￿."
+"2002","(\0촀\0C'est tout! ()촀\0À partir de là, tout est
+simple.
+\0 D'abord,
+\0 je numériserai ton
+île sous forme de rêve.(촀\0\0\0Ensuite, je me connecterai à \0Internet\0￿
+pour ajouter ton rêve à la librairie."
+"2002_01","(촀\0
+\0Oh! 
+\0J'ai une autre information qui
+pourrait t'intéressern\0\0\0\0(\0촀\0Les joueurs visitant le rêve d'une île
+peuvent emporter des créations du
+\0portail des motifs perso\0￿.\0\0(%촀\0Rends-toi à ton \0portail des motifs
+perso \0￿avant de mettre ton rêve en
+ligne et choisis les motifs à partager.\0\0(촀\0Songe par exemple aux motifs qui
+feraient honneur à n	\0."
+"2003","(촀\0Mais trêve d'explications! 
+\0Je vais
+procéder à la numérisation du rêve
+de ton île.
+\0 ($촀\0Es-tu prêt2\0e?"
+"2003_01","(촀\0Trêve d'explications! 
+\0L'heure est
+venue de procéder à la numérisation
+de ton île.
+\0 (9촀\0Sauf quen\0\0\0\0( 촀\0Il semblerait qu'un autre résident ait
+déjà enregistré un rêve de l'île
+n	\0 dans la librairie.\0\0('촀\0La seule solution serait d'\0écraser \0￿le
+rêve existant avec une version
+\0plus récente\0￿.
+\0 (&촀\0Cela te convient-il?"
+"2003_01_a","Ça me convient!"
+"2003_01_b","Pas encore."
+"2003_a","Absolument!"
+"2003_b","Pas encore."
+"2004","(촀\0Splendide! 
+\0Je vais me connecter à
+\0Internet\0￿ et accéder à la librairie
+onirique."
+"2005","(%촀\0La connexion est établie. 
+\0Je vais 
+maintenant numériser n	\0 en un rêven"
+"2005_01","(1촀\0Ferme les yeuxn\0\0
+\0 Pense à ce que tu
+aimes le plus à n	\0n\0\0
+\0
+d
+\0Détends-toi. 
+\0Làààn\0\0d
+"
+"2006","(촀\0Et voilà! 
+\0La numérisation et le
+téléchargement ont réussi! 
+\0Ton rêve
+est installé sur le serveur.
+\0 ($촀\0Bravo."
+"2007","()촀\0Le \0code onirique\0￿ 촀 a été attribué
+au rêve associé à n	\0.(촀\0\0\0Pour partager ton rêve avec d'autres
+joueurs, communique-leur ce \0code
+onirique\0￿.
+\0 Oui, (촀\0촀."
+"2008","(\0촀\0Tes paramètres font actuellement
+apparaître ton \0code onirique\0￿ sur ton
+\0passeport\0￿ et sur la \0carte\0￿ de ton île.\0\0(%촀\0Si tu préfères que ton \0code onirique\0￿
+n'apparaisse pas sur ton \0passeport\0￿
+ou la \0carte\0￿ de ton île,
+\0 préviens-moi."
+"2009","(\0촀\0Sache enfin que tout changement
+survenu sur l'île après numérisation
+ne sera pas reflété dans le rêve.\0\0(촀\0Cependant, tu peux tout à fait mettre
+à jour le rêve de ton îlen\0\0 ($촀\0dans la
+limite d'\0une fois par jour\0￿."
+"2010","(촀\0Eh bien,
+\0 je crois que c'est tout! 
+\0
+Merci pour ta patience,
+\0 et j'espère
+que ton rêve fera des heureux."
+"2031","(촀\0Excuse-moi, 
+\0mais je n'ai pas
+réussi à me connecter à \0Internet\0￿.
+\0
+(&촀\0Veux-tu que je réessaie?"
+"2031_a","Je veux bien."
+"2031_b","Laissons tomber."
+"2032","(촀\0Malheureusement, je ne peux mettre
+à jour un rêve qu'\0une fois par jour\0￿.
+\0 ()촀\0
+Reviens demain, s'il te plaît."
+"2033","(촀\0Après effacement d'un rêve,
+\0 la
+librairie onirique a besoin de repos.\0\0()촀\0Si tu veux enregistrer un nouveau
+rêve,
+\0 reviens demain,
+\0 s'il te plaît."
+"2034","(촀\0
+\0Splendide! 
+\0Oh, je voulais également
+te parler de quelque chose qui
+pourrait t'intéressern\0\0\0\0(\0촀\0Les joueurs visitant le rêve d'une île
+peuvent emporter des créations du
+\0portail des motifs perso\0￿.\0\0(%촀\0Rends-toi à ton \0portail des motifs
+perso \0￿avant de mettre ton rêve en
+ligne et choisis les motifs à partager.\0\0(촀\0Songe par exemple aux motifs qui
+feraient honneur à n	\0."
+"2035","(\0촀\0Voilà,
+\0 je t'ai tout dit.
+\0 Nous pouvons
+donc procéder à la numérisation du
+rêve de ton île. 
+\0($촀\0Es-tu prêt2\0e?"
+"2035_a","Je suis prêt2\0e."
+"2035_b","Pas encore."
+"2036","(촀\0Je suis au regret de t'informer que je
+n'ai pas réussi à compiler le rêve de
+ton île, n	\0.\0\0(\0촀\0Tu devras revenir un autre jour.
+\0
+Nous pourrons alors réessayer."
+"2041","(촀\0Excuse-moi,
+\0 mais pour rêver, tu dois
+activer la communication libre entre
+utilisateurs via le contrôle parental.\0\0(촀\0Reviens me voir lorsque tu seras
+prêt2\0e."
+"3001","(\0촀\0Le rêve de l'île n	\0 est archivé sous le \0code onirique\0￿ 촀.\0\0As-tu une requête?"
+"3001_01","(&촀\0As-tu une autre requête concernant
+un rêve en ligne?"
+"3001_01_a","Mettre à jour le rêve."
+"3001_01_b","Confidentialité du code."
+"3001_01_c","Effacer le rêve."
+"3001_01_d","Non, rien."
+"3001_a","Mettre à jour le rêve."
+"3001_b","Confidentialité du code."
+"3001_c","Effacer le rêve."
+"3001_d","Non, rien."
+"3101","(9촀\0Confirmes-tu vouloir mettre à jour le
+rêve de l'île n	\0?"
+"3101_a","Oui. Mettons-le à jour!"
+"3101_b","En fait, non."
+"3102","(촀\0Splendide! 
+\0Je vais donc me
+connecter à \0Internet\0￿ et accéder
+à la librairie des rêves."
+"3103","(1촀\0Ferme les yeuxn\0\0
+\0 Pense à ce que tu
+aimes le plus à n	\0n\0\0
+\0
+d
+\0Détends-toi. 
+\0Làààn\0\0d
+"
+"3104","(촀\0Et voilà! 
+\0La numérisation et le
+téléchargement ont réussi! 
+\0Ton rêve
+est installé sur le serveur.
+\0 ($촀\0Bravo."
+"3105","()촀\0Le même \0code onirique\0￿ 촀 reste attribué au rêve associé à n	\0.(촀\0\0\0(촀\0J'espère que le rêve de ton île
+fera des heureux."
+"3131","(촀\0Excuse-moi, 
+\0mais je n'ai pas
+réussi à me connecter à \0Internet\0￿.
+\0
+(&촀\0Veux-tu que je réessaie?"
+"3131_a","Je veux bien."
+"3131_b","Laissons tomber."
+"3132","(촀\0Malheureusement, je ne peux mettre
+à jour un rêve qu'\0une fois par jour\0￿.
+\0 ()촀\0
+Reviens demain, s'il te plaît."
+"3133","(촀\0Je suis au regret de t'informer que je
+n'ai pas réussi à compiler le rêve de
+ton île, n	\0.\0\0(\0촀\0Tu devras revenir un autre jour.
+\0
+Nous pourrons alors réessayer."
+"3301","(촀\0Oh! 
+\0Vraiment? 
+\0Tu désires effacer
+ton rêve de la librairie?
+\0 (촀\0Un si beau
+rêve, quel dommagen\0\0\0\0(9촀\0Il va sans dire qu'une fois effacé,
+\0
+personne ne pourra plus visiter ton
+rêve de l'île n	\0.\0\0()촀\0Il est certes possible d'enregistrer un
+nouveau rêve, 
+\0mais \0pas avant demain\0￿
+pour des raisons techniques.\0\0(\0촀\0Sachant cela,
+\0 (&촀\0es-tu absolument
+certain2\0e de vouloir effacer ton rêve
+de l'île n	\0?"
+"3301_a","Oui, je veux l'effacer!"
+"3301_b","En fait, non."
+"3304","(촀\0Les rêves sont fugacesn\0\0 
+\0et les rêves
+numériques d'autant plus. 
+\0Je vais
+effacer le rêve de ton île."
+"3305","(:촀\0Merci d'avoir patienté. 
+\0Ton rêve de
+l'île n	\0 a été effacé.\0\0(\0촀\0Je te rappelle que si tu désires
+enregistrer un nouveau rêve, 
+\0ce
+sera possible dès demain."
+"3306","(촀\0
+\0Je suis soulagée d'entendre ça.
+\0
+Ton rêve fait peut-être le bonheur
+de quelqu'un en ce moment même!"
+"3331","(촀\0Excuse-moi, 
+\0mais je n'ai pas
+réussi à me connecter à \0Internet\0￿.
+\0
+(&촀\0Veux-tu que je réessaie?"
+"3331_a","Je veux bien."
+"3331_b","Laissons tomber."
+"3341","(촀\0Excuse-moi,
+\0 mais pour rêver, tu dois
+activer la communication libre entre
+utilisateurs via le contrôle parental.\0\0(촀\0Reviens me voir lorsque tu seras
+prêt2\0e."
+"3401","()촀\0Ton \0code onirique\0￿ est public.
+D'autres joueurs peuvent donc le voir
+sur ton \0passeport\0￿ et ta \0carte\0￿ de l'île.\0\0(&촀\0Désires-tu faire de ton \0code onirique
+\0￿une information privée?
+\0 Les autres
+joueurs ne pourront ainsi plus le voir."
+"3401_a","Non. Ne changeons rien."
+"3401_b","Oui. Je veux qu'il soit privé."
+"3402","()촀\0Ton \0code onirique\0￿ est privé. Les
+autres joueurs ne peuvent donc pas
+le voir.\0\0(&촀\0Désires-tu rendre ton \0code onirique
+\0￿public?
+\0 D'autres joueurs le verront
+sur ton \0passeport\0￿ et ta \0carte\0￿ de l'île."
+"3402_a","Non. Ne changeons rien."
+"3402_b","Oui. Rends-le public."
+"3403","(%촀\0Compris. 
+\0Je ne toucherai pas au
+paramètre de confidentialité de
+ton \0code onirique\0￿."
+"3404","(촀\0Très bien! 
+\0Ton \0code onirique\0￿ est
+désormais privé,
+\0 et n'apparaîtra plus
+sur ton \0passeport \0￿ni la \0carte\0￿ de l'île."
+"3405","(촀\0Voilà! 
+\0Ton \0code onirique\0￿ est public.
+\0
+D'autres joueurs pourront le voir sur
+ton \0passeport \0￿et ta \0carte\0￿ de l'île."
+"4000","(촀\0Ceci est l'entremonde
+\0 où rêves
+digitaux et rêveurs se rencontrent.
+
+\0(%촀\0Quant à moi, j'en suis la guide.\0\0(1촀\0Je peux t'aider à rêver de l'île d'un
+d'autre, ou à partager ton rêve. 
+\0Que
+le monde puisse bien rêvern"
+"4001","Si tu veux savoir quoi que ce soitn\0\0($촀\0
+n'hésite pas à me demander."
+"4001_01","Si tu veux savoir quoi que ce soitn\0\0($촀\0
+n'hésite pas à me demander."
+"4001_01_a","Rêver d'autres îles."
+"4001_01_b","Partager le rêve de mon île."
+"4001_01_c","Non, c'est bon."
+"4001_a","Rêver d'autres îles."
+"4001_b","Partager le rêve de mon île."
+"4001_c","Rien, en fait."
+"4002","(\0촀\0Alorsn\0\0 (1촀\0\0Rêver d'une autre île\0￿, cela
+consiste à voyager sans voyager.\0\0()촀\0Un rêve, 
+\0c'est le souvenir d'une île.
+\0
+Après avoir été enregistré sur le
+serveur,
+\0 ce rêve peut être visité.(촀\0\0\0Et lorsque tu seras dans le rêve
+d'une île,
+\0 tu auras l'impression de
+la visiter comme dans la réalité.\0\0(촀\0Cependant,
+\0 les rêves d'îles sont
+statiques,
+\0 et tes actions n'auront
+aucun impact sur l'île réelle."
+"4002_00","(9촀\0Un détail cependantn\0\0
+\0 Pour visiter le
+rêve d'une île,
+\0 tu dois te délester de
+tes possessions.\0\0(%촀\0Mais ne t'inquiète pas. 
+\0Je veillerai
+sur tes trésors et te les restituerai
+à ton réveil."
+"4002_01","(\0촀\0J'ajouterai que tu as besoin d'une
+\0connexion Internet\0￿ et du \0code
+onirique\0￿ du rêve que tu veux visiter.\0\0(촀\0Voilà,
+\0 je crois que j'ai tout dit!"
+"4003","(6촀\0Ah!
+\0 \0Partager le rêve de ton île
+\0￿permettra à d'autres visiteurs de
+la visiter.\0\0()촀\0D'abord, 
+\0je créerai un rêve de ton île,
+n	\0, à partir de ta mémoire.(촀\0\0\0Je me connecterai ensuite à Internet
+pour publier ton rêve sur le serveur
+et permettre à d'autres de le visiter.\0\0(촀\0Et comme ce n'est qu'un rêve,
+\0 rien
+de ce que les visiteurs y feront
+n'impactera n	\0."
+"4003_01","(\0촀\0Et comme mentionné précédemment,
+\0
+tu as besoin d'un \0accès à Internet\0￿,
+\0
+alors assure-toi que tout soit prêt."
+"4003_02","(%촀\0Et les joueurs visitant le rêve d'une
+île peuvent emporter des créations
+du \0portail des motifs perso\0￿.\0\0(\0촀\0Rends-toi à ton \0portail des motifs
+perso \0￿avant de mettre ton rêve en
+ligne et choisis les motifs à partager.\0\0(촀\0Songe par exemple aux motifs qui
+feraient honneur à n	\0."
+"4003_03","(촀\0Bien, je crois que maintenant, 
+tu sais tout!"

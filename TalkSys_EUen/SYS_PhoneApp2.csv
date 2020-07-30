@@ -70,6 +70,15 @@ on n!\0, right?
 \0 Oh, n\0.
 \0
 You in hot water AGAIN?(%촁\0d"
+"021_04","d\0Here we go! 
+\0This is
+n\0 from
+n""\0, right?d"
+"021_05","d\0Let's seen\0\0 Ah!
+\0 2\0n\0
+on n""\0, right?
+(%촁\0
+\0Nice to hear from ya.d"
 "022",""
 "023_01","d\0Pretty basic system here—rescues
 go for \0100 \0￿miles.
@@ -230,6 +239,26 @@ you're on one of them \0May Day Tours
 \0￿\0Tom Nook \0￿set up.\0\0Regs say I gotta reset and drop ya
 \0where the planes land\0￿.
 \0 So buckle up!d"
+"049_02","d\0This is weird. 
+\0'Scuse me, champ.
+\0
+You're a bit off the grid, ain't ya?
+\0(
+Hard to pinpoint your locationn\0\0
+Huh. 
+\0Looks like I'll have to drop ya
+at the \0nearest plaza \0￿to be safe.
+\0
+You OK with that?d"
+"049_02_a","Yes, please!"
+"049_02_b","('촁\0Cancel."
+"049_03","d\0Thanks for the confirmation. 
+\0I'll go
+ahead and drop ya off at the plaza
+on the n \0 you're on.\0\0And since regs are dictating your
+destination, there's no charge.
+\0
+Save those miles for a rainy day!d"
 "049_a","Yes, please!"
 "049_b","('촁\0Cancel."
 "050_01","d\0Your tent? 
@@ -329,6 +358,12 @@ yoga 'n stuff.
 Resident Services every day to earn
 miles, right?
 \0( That's, like, the basics.d"
+"065","<"
+"065_01","d\0Usin' the Rescue Service for free
+left and rightn\0\0 Who d'ya think
+you are, pal?!\0\0Bah.
+\0 It's a free lunch, but ya get
+what ya pay for!d"
 "2001","d\0Heh. Somethin' seem different?
 \0
 I figured you'd notice.\0\0Yeah, 

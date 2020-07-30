@@ -59,8 +59,6 @@ perché hai le tasche piene."
 "0301_a","OK"
 "0303_a","OK"
 "0304_a","OK"
-"0307","Ricezione della posta in corso."
-"0308","Verifica dei dati in corso."
 "0310","Aspetta un attimo, OK?"
 "0321","Non puoi aggiungere ai tuoi
 preferiti un messaggio che
@@ -178,6 +176,34 @@ tuo profilo. Se il problema persiste,
 scatta un'altra foto per il profilo e
 riprova."
 "0820_a","Ho capito"
+"0830","\0Informazioni importanti sui sogni\0￿
+Quando condividi la tua isola in
+sogno, altri giocatori, inclusi quelli
+che non conosci, potranno visitare
+una versione dell'isola.\0\0\0Ciò significa che i dati generati dagli
+utenti relativi alla tua isola e ai suoi
+residenti, salvati al momento della
+condivisione del sogno, saranno
+resi pubblici.\0\0\0￿\0Tali dati includono nomi, informazioni
+del passaporto, l'aspetto dell'intera
+isola, stanze delle case, modelli
+personalizzati, messaggi della
+bacheca degli annunci e altro.\0￿"
+"0830_a","Ho capito"
+"0831","\0Informazioni importanti sui sogni\0￿
+Quando condividi la tua isola in
+sogno, altri giocatori, inclusi quelli
+che non conosci, potranno visitare
+una versione dell'isola.\0\0\0Ciò significa che i dati relativi alla
+tua isola e ai suoi residenti, salvati
+al momento della condivisione del
+sogno, saranno resi pubblici.\0\0\0￿\0Tali dati includono nomi, informazioni
+del passaporto di tutti i residenti,
+l'aspetto dell'intera isola, stanze
+delle case, modelli personalizzati,
+messaggi della bacheca degli
+annunci e altro.\0￿"
+"0831_a","Ho capito"
 "0921","Puoi pubblicare fino a due
 annunci durante una visita."
 "0921_a","OK"
@@ -271,6 +297,8 @@ quando il gate dell'aeroporto
 ordine. Devi prima disattivare
 la comunicazione all'aeroporto."
 "1124_a","OK"
+"1125","Al momento non puoi ordinare nulla."
+"1125_a","OK"
 "1201","Vuoi davvero cancellare il modello
 \0s촀\0￿?"
 "1201_a","In realtà, no"
@@ -940,12 +968,10 @@ Passaporto del tuo Nook Phone."
 di modelli personalizzati che
 puoi caricare. Selezionane uno
 da cancellare."
-"2428_a","Ho capito"
 "2429","A quanto pare, non hai ancora creato
 alcun modello personalizzato. Per
 usare questo servizio, devi prima
 crearne uno."
-"2429_a","Ho capito"
 "2430","Sembra che questo modello sia già
 stato caricato.
 \0\0Se lo modifichi, puoi caricarlo
@@ -968,6 +994,9 @@ Vuoi riprovare a inserire l'ID stilista?"
 stilista \0촀\0￿
 non ha prodotto alcun risultato.
 Vuoi inserire l'ID stilista di nuovo?"
+"2434_01","Non sono presenti modelli per
+l'ID stilista \0촀\0￿."
+"2434_01_a","Indietro"
 "2434_a","Torna al menu"
 "2434_b","Modifica"
 "2435","Il modello personalizzato
@@ -994,6 +1023,51 @@ personalizzati creati da te?"
 "2441","Si è verificato un errore per cui la
 condivisione del modello sui social
 network non è andata a buon fine."
+"2442","Vuoi rimuovere \0s\0촀\0￿
+dai tuoi preferiti?"
+"2442_a","No"
+"2442_b","Sì"
+"2444","Hai rimosso \0s\0촀\0￿
+dai tuoi preferiti."
+"2445","Il tuo elenco di creatori preferiti
+è pieno. Al momento non puoi
+aggiungere altri preferiti."
+"2446","I criteri di ricerca dei modelli non
+hanno prodotto alcun risultato.
+Vuoi effettuare nuovamente la
+ricerca con altri criteri?"
+"2446_a","Torna al menu"
+"2446_b","Modifica"
+"2447","\0\0Nuove opzioni di ricerca dei modelli\0￿
+Ora puoi cercare modelli
+personalizzati tra i tuoi stilisti
+preferiti o tramite i criteri di ricerca.\0\0\0Ricerca avanzata
+\0￿Usa questa opzione per cercare
+i modelli per nome o per tipo.\0\0\0Ricerca preferiti\0￿
+Usa questa opzione per cercare i
+modelli degli stilisti che hai aggiunto
+ai preferiti.\0\0Puoi aggiungere uno stilista ai
+preferiti mentre consulti uno dei
+suoi modelli. Goditi le nuove
+funzioni di ricerca!"
+"2448","\0\0Tipi di modelli personalizzati\0￿
+Ora puoi assegnare un tipo a tutti i
+modelli personalizzati (esclusi quelli
+pro) per facilitare la ricerca.
+Premi \0\0￿ per assegnare un tipo al
+tuo modello. Puoi assegnare un tipo
+anche ai modelli caricati in passato.
+\0\0Assegnare un tipo a un modello non
+limita il modo in cui puoi usarlo. È
+inoltre possibile cambiare il tipo del
+modello anche dopo averlo caricato.\0￿"
+"2449","Hai modificato il tipo del modello."
+"2450","Non è presente alcun modello
+assegnato all'ID stilista
+\0촀\0￿.
+Vuoi selezionare un'altra voce?"
+"2450_a","Torna al menu"
+"2450_b","Sì"
 "2501","Ogni giocatore può inviare fino a
 2 messaggi online al giorno tramite
 il Catalogo Nook."
@@ -1086,6 +1160,10 @@ e applicarvi vari filtri ed effetti.\0\0\0\0Le immagini saranno salvate
 nell'album del menu HOME e
 potranno essere viste dagli altri
 utenti che usano la stessa console.\0￿"
+"5002","\0Attivare/disattivare la guida dei comandi\0￿
+\0Premi  \0￿per attivare o meno la guida.
+\0\0Se impugni il Joy-Con in orizzontale,
+la guida non può essere disattivata.\0￿"
 "5011","\0Miglia di Nook\0￿
 Hai deciso di partecipare
 al programma miglia di Nook!\0\0Guadagna \0miglia di Nook \0￿portando
@@ -1430,6 +1508,12 @@ personalizzato che hai modificato.
 Se vuoi sfoggiare le modifiche a un
 modello personalizzato, seleziona il
 modello modificato, quindi \0Indossa\0￿."
+"5302_01","Hai salvato il modello personalizzato
+che indossi al momento.
+
+Se vuoi indossare il nuovo modello,
+sceglilo e poi seleziona \0Indossa
+\0￿quando il sogno è finito."
 "5303","Il completo creato con la bacchetta
 include un modello personalizzato.\0\0Il modello incluso nel completo
 non scomparirà nemmeno se
@@ -1564,3 +1648,16 @@ essere verificata tramite Internet.\0\0Verrà effettuato il collegamento
 a Internet per avviare la procedura."
 "8020_a","No"
 "8020_b","OK"
+"9001","Vuoi avviare il processo di ripristino
+dei dati di backup dell'isola?"
+"9001_a","No"
+"9001_b","Sì"
+"9012","Verifica dei dati di backup dell'isola..."
+"9012_a","OK"
+"9013","Verifica dei dati di backup dell'isola
+ultimata. Ora tornerai al gioco."
+"9013_a","OK"
+"9015","Il software verrà ora avviato."
+"9015_a","OK"
+"9016","Salvataggio in corso.
+\0\0Non toccare il pulsante POWER .\0￿"

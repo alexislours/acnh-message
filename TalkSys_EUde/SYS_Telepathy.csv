@@ -97,15 +97,15 @@ Aufgang zu nutzen!"
 wird es schwierig, den Aufgang zu
 nutzen!"
 "121","So nah an einem Baum kannst
-du keinen Fluss graben!"
-"122","Wenn du hier einen Wasserfall baust,
+du kein Wasser platzieren!"
+"122","Wenn du hier Wasser platzierst,
 stürzt das Plateau ein!"
 "123","So nah an einem Gebäude kannst
-du keinen Fluss graben!"
-"124","Wenn du hier einen Fluss baust,
+du kein Wasser platzieren!"
+"124","Wenn du hier Wasser platzierst,
 wird es schwierig, die Brücke zu
 überqueren!"
-"125","Wenn du hier einen Fluss baust,
+"125","Wenn du hier Wasser platzierst,
 wird es schwierig, den Aufgang
 zu nutzen!"
 "151","Es ist zu gefährlich, noch höher zu
@@ -155,6 +155,10 @@ besten Freundes einsetzen."
 eines besten Freundes pflanzen."
 "416","Du kannst das jetzt nicht anlegen!"
 "417","Du kannst jetzt keine Zäune bauen!"
+"418","Du kannst im Traum keine
+Bastelanleitungen erlernen!"
+"420","Du kannst dies nur auf Inseln von
+besten Freunden platzieren!"
 "430","Du kannst diesen Gegenstand nicht
 wegtun, da dein Lager voll ist!"
 "438","Das passt nicht alles in dein Lager!"
@@ -195,6 +199,8 @@ keinen solchen Hut tragen."
 "474","Eigene Designs kannst du jetzt nicht
 bearbeiten. Gehe zum Flughafen-
 schalter und beende die Verbindung."
+"475","Du kannst im Traum keine eigenen
+Designs bearbeiten!"
 "500","Deine Tasche ist voll, du kannst
 nichts mehr mitnehmen."
 "510","Deine Tasche ist voll."
@@ -210,3 +216,5 @@ nichts herunterladen."
 "603","Um eigene Designs herunterzuladen,
 gehe zum Flughafenschalter und
 lasse die Verbindung beenden."
+"604","Du kannst im Traum keine eigenen
+Designs herunterladen!"

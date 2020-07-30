@@ -32,10 +32,6 @@
 "009_b","En fait, c'est bon."
 "010_a","Oui, c'est ça."
 "010_b","Euh, en fait, c'est bon."
-"011_a","(\0촀\0Fermer l'accès."
-"011_b","Laisser ouvert."
-"012_a","(\0촀\0Ouvrir l'accès."
-"012_b","Laisser fermé."
 "013_a","Ouvrir l'accès."
 "013_b","Fermer l'accès."
 "013_c","J'ai oublié mon Dodo code™."
@@ -59,7 +55,6 @@
 "101_b","M2
 ona moi du futur."
 "101_c","Un ami."
-"101_e","En fait, tout va bien."
 "102_a","Oui!"
 "102_b","Pas maintenant."
 "103_a",""
