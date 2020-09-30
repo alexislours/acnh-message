@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(%촀\0Con los ajustes de NookLink.
+"001","(%촀\0Con los ajustes de \0NookLink\0￿.
 \0
 ¡Entendido!"
 "010","()촀\0¿Estás list2oa para conectarte a
@@ -12,6 +12,13 @@ a \0NookLink\0￿?"
 \0(&촀\0 ¿Quieres oír la explicación de todas formas?"
 "015_a","Sí, por favor"
 "015_b","No, gracias"
+"016","(\0촀\0Creo que ya tienes acceso a
+\0NookLink\0￿, ¿no?
+\0 (&촀\0¿Qué más puedo
+hacer por ti, n\0?"
+"016_a","¿Qué es NookLink?"
+"016_b","Enviar datos de juego"
+"016_c","No necesito nada"
 "020","(%촀\0Y eso es todo.
 \0 (촀\0¿Estás list2oa para
 conectarte a internet y configurar
@@ -42,6 +49,17 @@ los ajustes del control parental.
 (촀\0Ahora volvamos a la pantalla del
 título para que puedas seguir
 jugando, ¿sí?"
+"160","()촀\0Claro, nos conectaremos a internet
+y enviaré los datos de juego y
+tu perfil de \0NookLink\0￿, sí, sí.
+($촀\0¿Quieres conectarte a internet
+ahora?"
+"160_a","¡Sí!"
+"160_b","No, gracias"
+"161","(촀\0¡Ya enviamos tus datos de juego
+a internet!\0\0(%촀\0Cuando puedas, abre \0NookLink \0￿con
+la \0aplicación de Nintendo Switch
+Online \0￿así lo compruebas."
 "200","()촀\0\0NookLink \0￿es un servicio específico
 para este juego que desarrolla Nook
 Inc. para \0Nintendo Switch Online\0￿.

@@ -88,11 +88,19 @@ persoon om mee te praten.\0\0('촀\0Maar met 2촀diedatdie 2촃}
 \0 Zelfs niet een
 beetje?\0\0
 \0(*촀\0Ik krijg het al koud als ik naar je kijk!"
-"016","(촀\0Tjonge, n\0n\0\0 Die outfit
+"016","<"
+"016_01","(촀\0Tjonge, n\0n\0\0 Die outfit
 is zo goed als 촀.\0\0(촀\0En nu heb ik zin in 촀n"
-"017","(9촀\0Je outfit van vandaag is vet, maar
+"016_02","(:촀\0Wauw.
+\0 Zo te zien heb je je hele outfit afgestemd op je 2촃}촀!\0\0(촀\0Prachtig.
+\0 Ik sta verteld van je gevoel
+voor mode, n\0."
+"017","<"
+"017_01","(9촀\0Je outfit van vandaag is vet, maar
 daar sta je vast niet van te kijken.\0\0(1촀\0Zoiets zie ik mezelf ook wel dragen, terwijl ik 촀 zing voor miljoenen fansn"
-"018","(&촀\0Weet je wat altijd in blijft? 
+"017_02","(촀\0Yon\0\0 Ik ben echt zó jaloers op je 2촃}촀!\0\0(촀\0Volgens mij heb je het volgende level bereikt in de game ""Mode"", n\0!"
+"018","<"
+"018_01","(&촀\0Weet je wat altijd in blijft? 
 \0((%촀\0Klassiek
 spul. 
 \0Dingen zoals die outfit van
@@ -101,7 +109,14 @@ jou bijvoorbeeld.
 \0 Ik zet de mode
 graag op zijn kop, maar klassiek
 spul heet niet voor niets klassiek."
-"019","(촀\0Wauw! 
+"018_02","(&촀\0Soms is eenvoud beter, vind je niet? Dat zie je wel aan 2$촀zo'nzo'n
+zulke }촀, hè?\0\0(9촀\0Ja, dus.
+\0((촀\0 Niet dat je om mijn mening
+vroeg, maar ik vraag om de jouwe.
+\0
+Wat is je mening over mijn mening?"
+"019","<"
+"019_01","(촀\0Wauw! 
 \0Wat ben jij netjes gekleed
 vandaag. 
 \0(6촀\0Staat je goed, hoor!\0\0(&촀\0Heb je speciale plannen?
@@ -112,14 +127,32 @@ naar de lancering van een luchtje?\0\0(촀\0Nee? Dan weet ik het niet, hoor
 
 \0Yo, geef eens een hint of twee,
 n\0."
-"020","(촀\0Ik ben gek op je outfit van vandaag, n\0. 
+"019_02","(6촀\0Ik weet niet of je kunt dansen, maar
+daar lijkt het wel op in die outfit,
+n\0.\0\0()촀\0Iedereen weet dat ik enorm onhandig
+ben, maar daardoor ben ik heel goed
+in vreemde dansvormen. 
+\0(촀\0HaHA!"
+"020","<"
+"020_01","(촀\0Ik ben gek op je outfit van vandaag, n\0. 
 \0Zo nonchalant en stijlvol.(%촀\0\0\0( 촀\0
 \0Beter kan haast niet!"
-"021","(촀\0Zeg, wat zie jij er netjes uit!
+"020_02","(6촀\0O, hé! 
+\0Ben je sportief bezig of bezig met sporten?
+\0 Omdat je 2\0}촀 draagt.\0\0(촀\0Sorry, ik ben niet bekend met
+sportjargon.
+\0 Ik hou meer van
+촀, weet je."
+"021","<"
+"021_01","(촀\0Zeg, wat zie jij er netjes uit!
 \0( (&촀\0Is er
 ergens een exclusief feestje?\0\0(6촀\0Met jou zo op chic komen we vast
 makkelijk binnen! 
 \0(촀\0HaHA!"
+"021_02","(1촀\0Yep, iets aan je outfit van vandaag
+schreeuwt ""chic"".\0\0(촀\0Ik bedoel, hij ZINGT ""chic"". Luid,
+maar toch perfect zuiver.
+\0 (촀\0HaHA!"
 "101","<"
 "101_01","(촀\0Hé.
 \0 Ik zie je wel vaak in die outfit.\0\0(촀\0O! 
@@ -189,6 +222,32 @@ ergern\0\0 een afterparty?"
 elegant uit, n\0!\0\0(6촀\0Heel gepast voor alle gelegenheden,
 of het nu bij een koninklijk diner is of
 촀."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Je outfit van vandaag is zo à la
+zelfgemaakt, n\0.\0\0(&촀\0Heb je die van je moeder?
+\0 (촀\0Ze zou
+modeontwerper moeten wordenn\0\0
+als ze dat niet al is!"
+"216","( 촀\0Wauw, draag je nou echt officiële
+DAL-kleding, n\0?\0\0(촀\0Het bedrijf staat bekend om de
+geweldige service, maar ze maken
+dus ook kleding van grote kwaliteit?(\0촀\0\0\0(3촀\0Doe even meen\0\0 
+\0Ik oefen alvast voor
+mijn rol in de kledingreclame van
+DALn"
+"217","( 촀\0Je ziet eruit alsof je klaar bent voor
+een verkleedpartijn\0\0
+\0(&촀\0 maar is dat ook
+zo, n\0?\0\0(&촀\0Heb je je personage bestudeerd?
+\0
+Je accent geoefend? 
+\0Scherm- en
+vechtlessen genomen?\0\0(촀\0Wat bedoel je met ""Het is geen film""?
+\0(
+(촀\0Het leven is een film als je leeft zoals
+ik, n\0!"
 "251","(촀\0Wat een mooi ensemble heb je aan
 vandaag. 
 \0Het moge duidelijk zijn
@@ -213,6 +272,46 @@ bent het maar, n\0!\0\0(9촀\0Wat een eer dat je je als mij verkleedt voor
 n\0.\0\0(촀\0Het blijft mooi om te zien hoe jij
 jezelf steeds weer opnieuw uitvindt,
 n\0!"
+"255","(촀\0Wauw, moet je ons zien! 
+\0('촀\0Weet je,
+normaal gesproken wil ik niet met
+mijn stand-in gezien worden.\0\0(촀\0Maar met jou? 
+\0Hier? 
+\0Ga ik een
+nieuwe trend beginnen!
+\0(촀\0 De twee-
+keer-ikke-trend, n\0!"
+"256","(촀\0Wat ben je een spring-in-'t-veld vandaag, n\0. 
+\0((촀\0En wat een fantastische oren en staart!"
+"257","(촀\0Hé, maarn\0\0
+\0( (촀\0Zijn wij familie?
+\0 Was jij
+dan afgelopen zomer ook bij de
+familiereünie?\0\0(촀\0Weet je nog?
+\0 Toen ik een show
+opvoerde over 촀?\0\0(촀\0O, het is maar een outfit.
+\0 Misschien
+maar goed ook. 
+\0(촀\0Ik heb niks gezegd.
+HaHA!"
+"258","(6촀\0Yo, ga je vandaag voor een donzig-
+dreigende look?
+\0(!촀\0 Ik vind het de bom!\0\0(촀\0Ik ben dol op die gevaarlijke stijl van
+je, n\0!"
+"259","(촀\0Je haar ziet er fantastisch uit!
+\0( (촀\0Zo vol!
+
+\0(촀\0Zo veerkrachtig!
+\0 (촀\0Zo stijlvol!
+\0 Het is
+overweldigend!\0\0(2촀\0Welke shampoo en conditioner
+gebruik jij? 
+\0Ik wil nóg meer op je
+lijken, n\0!"
+"260","(촀\0Wat een gave outfit, n\0.\0\0()촀\0Ze zeggen dat nepwol zacht is, niet
+krimpt en fantastisch is.
+\0( (촀\0Hoe doet
+nepwol dat allemaal?!"
 "301","( 촀\0Hoe wist je dat ik nog iemand zoek
 voor mijn film,
 \0(5촀\0 ""De Ridders van 2\0
@@ -251,6 +350,26 @@ je soms snode plannetjes te smeden,
 n\0?\0\0(9촀\0Nou, als dat het geval isn\0\0
 \0(촀\0 doe ik
 mee!"
+"307","(1촀\0Yo, de outfit die je nu draagt,
+herinnert me aan mijn jeugd,
+n\0n\0\0\0\0(%촀\0Ik was 2\0populairste n\0 van de school en de beste in 촀n\0\0\0\0(촀\0Maar ik heb alles verspeeld omdat de
+regering me vroeg om als spion in
+te grijpen in een crimineel complot.\0\0(2촀\0Ehn\0\0 delen daarvan zijn mogelijk niet
+op ware gebeurtenissen gebaseerd."
+"308","(촀\0Yo, ga je een ritje maken?
+\0 Wat leuk,
+n\0.\0\0(촀\0Ik zou graag meegaan, maar mijn
+kapsel is niet bestand tegen een
+snelheid van meer dan 5 km per uur."
+"309","(촀\0Wauw. 
+\0(Zo'n opvallende outfit staat
+niet iedereen.
+\0( (촀\0Maar jou staat hij
+fandosious, n\0!\0\0(2촀\0Wat vind je daarvan?
+\0 ""Fandosious""?
+\0
+Ik heb dat nieuwe, binnenkort enorm
+trendy woord zelf verzonnen!"
 "401","<"
 "401_01","(촀\0Heb ik je niet eens eerder met die
 outfit gezien? 
@@ -271,3 +390,23 @@ dat soort dingen, n\0.
 \0(촀\0 HaHA!"
 "401_03","(%촀\0Deze outfit heb ik altijd bewonderd.
 \0 (5촀\0Het is een fraai staaltje typische n\0-mode."
+"501","<"
+"501_01","(촀\0Wauw, moet je jou nou zien pronken!
+\0(
+(%촀\0Ik ben dol op die krachtige look van
+je, n\0."
+"501_02","(촀\0Je ziet er anders uit vandaagn\0\0
+\0( (&촀\0Ben
+je naar de kapper geweest of zo?\0\0(촀\0HaHA! 
+\0Ik maak maar een grapje.
+\0 Ik
+vind het knap dat je er zo voor durft
+te gaan.
+\0 (촀\0Het is 100% ""n\0""!"
+"501_03","(;촀\0Ehn\0\0
+\0(\0\0(촀\0O! 
+\0Sorry, ik was aan het staren, hè?
+\0
+()촀\0Maar je ziet er nu zo anders uit!\0\0(촀\0Goed anders, niet slecht anders.
+Heus! 
+\0((촀\0\0K\0Oef, dat ging net goed.\0￿\0d"

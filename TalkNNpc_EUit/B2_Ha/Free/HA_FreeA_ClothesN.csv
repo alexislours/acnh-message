@@ -61,13 +61,23 @@ dei miei pettorali, n\0!"
 \0 (촀\0E poi
 assorbe il sudore alla grande,
 n\0!"
-"101","(%촀\0Guarda quanto mi sta bene quest2촀oa\0
+"101","<"
+"101_01","(%촀\0Guarda quanto mi sta bene quest2촀oa\0
 }촀!\0\0()촀\0Ogni volta che indosso qualcosa
 di nuovo, mi invento un nuovo
 esercizio.(촀\0
 Così tengo in allenamento la testa,
 oltre al fisico."
-"102","(7촀\0Quando indosso 2""촀il miola mia\0 }촀 tutta la tensione muscolare svanisce.\0\0(1촀\0Rilassarsi dopo l'allenamento
+"101_02","($촀\0Come sto così, n\0?
+\0 Si nota lo stile diverso dal solito?
+\0 So di muovermi con grazia nello sportn\0\0\0\0(촀\0...
+\0 e grazie alle migliaia di ripetizioni
+allo specchio,
+\0 ora sembro grazioso
+anche nell'aspetto!
+\0 Evviva!"
+"102","<"
+"102_01","(7촀\0Quando indosso 2""촀il miola mia\0 }촀 tutta la tensione muscolare svanisce.\0\0(1촀\0Rilassarsi dopo l'allenamento
 è fondamentale per recuperare
 le energie. Adesso sto alla granden\0\0
 
@@ -76,29 +86,76 @@ le energie. Adesso sto alla granden\0\0
 \0 Mi sono dimenticato
 \0 i pesi
 in palestra!"
-"103","(촀\02\02\0}촀 che indosso? 
+"102_02","(7촀\0Volevo provare qualcosa di diverso
+dal solito,
+\0 ma non sono spavaldo
+nel vestire come con i pesin\0\0
+(&촀\0Tu che ne pensi, n\0?\0\0(%촀\0In fondo basta che io mantenga la
+calma. 
+\0
+\0((촀\0Una flessione del bicipite e mi
+si strappa tutto quello che indosso!"
+"103","<"
+"103_01","(촀\02\02\0}촀 che indosso? 
 \0Confortevole e chic!
 \0 Io non ho bisogno di cose complicate.\0\0(%촀\0Voglio che i miei vestiti riflettano la
 forza e l'elasticità dei miei muscoli.
 
 \0Che ne dici,
 \0 (&촀\0ci sono riuscito?"
-"104","(촀\0Come sto?
+"103_02","(2촀\0Lo sapevon\0\0
+\0 Ho l'aspetto di uno
+sbruffone, 
+\0vero?\0\0(촀\0Con l'abbigliamento semplice
+risaltano ancora di più i muscoli.
+\0 (5촀\0È
+impossibile occultare certi bestioni."
+"104","<"
+"104_01","(촀\0Come sto?
 \0< (촀\0Alla grande, vero?
 \0\0\0(7촀\0Scommetto che vincerò il premio
 per il miglior completo da palestra,
 n\0!"
-"105","(촀\0Guarda qui! Questi sono abiti
+"104_02","(6촀\0Ambizioso il mio nuovo stile,
+\0 vero?
+\0
+(촀\0Finalmente un abbigliamento
+all'altezza del sottoscritto!
+('촀\0Ho ignorato il parere di chi diceva
+che era pretenzioson\0\0
+\0 (촀\0mostra tutta
+la mia ambizione sportiva, 
+\0invece!"
+"105","<"
+"105_01","(촀\0Guarda qui! Questi sono abiti
 pensati espressamente per persone
 dallo stile di vita attivo.
 (5촀\0Sono perfetti per me: ho bisogno
 di vestiti resistenti per i miei lunghi
 allenamenti, n\0!"
-"106","(5촀\0Oggi sono vestito proprio bene!\0\0(%촀\0Del resto, con un fisico come
+"105_02","(&촀\0Come ti sembro oggi? 
+\0((촀\0Sportivo
+come al soliton\0\0
+\0 o ancora più del
+solito, n\0?
+(촀\0So che non basta l'abbigliamento
+a garantire i risultatin\0\0
+\0( (촀\0ma se regala
+autostima,
+\0 poi arrivano anche quelli!"
+"106","<"
+"106_01","(5촀\0Oggi sono vestito proprio bene!\0\0(%촀\0Del resto, con un fisico come
 il mio, devo fare attenzione a come
 mi vesto.\0\0('촀\0Per esempio, una camicia troppo
 larga può vanificare il lavoro
 di settimane!"
+"106_02","(6촀\0Noti qualcosa di diverso?
+\0 (촀\0È perché
+mi sono strizzato nel vestiario
+elegante, n\0!\0\0Spero che si vedano bene i muscoli,
+
+\0(촀\0perché ogni volta che ne fletto uno
+sento qualcosa che si strappan"
 "201","($촀\0Beh, che te ne pare?
 \0 Ti piace 2""촀il miola mia\0 }촀?\0\0()촀\0Lascia traspirare la pelle come niente
 altro nell'universo.

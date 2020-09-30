@@ -179,6 +179,46 @@ désirerais accéder?"
 activer la communication libre entre
 utilisateurs via le contrôle parental.\0\0(촀\0Reviens me voir lorsque tu seras
 prêt2\0e."
+"1051","(촀\0La connexion a été établie.
+\0( (\0촀\0Avant de
+poursuivre, 
+\0j'ai quelque chose à te
+dire qui devrait te faire plaisir.\0\0()촀\0À partir de maintenant, 
+\0si tu rêves
+d'une île particulièrement agréable,
+\0
+il sera très simple de la revoir.\0\0(촀\0Les rêves récents peuvent désormais
+être sélectionnés sur une liste afin
+de pouvoir être revécus.\0\0(\0촀\0Pour revoir un rêve,
+\0 c'est simple,
+dis-moi simplement que tu désiresn\0\0
+\0
+($촀\0« \0Revoir un rêve \0￿».
+\0 Et doncn"
+"1052","(&촀\0Avec quelle méthode souhaites-tu
+que je trouve un rêve?"
+"1052_a","Utiliser un code."
+"1052_b","Revoir un rêve."
+"1052_c","En fait, annulons."
+"1055","(\0촀\0Très bien.
+\0 (%촀\0Sélectionne le rêve que tu
+souhaites revoir, s'il te plaît."
+"1056","(\0촀\0Tu souhaites revoir le rêve de l'île
+s촀?
+\0 (&촀\0Est-ce correct?"
+"1056_a","C'est correct!"
+"1056_b","Non."
+"1057","(촀\0Navrée, 
+\0mais il n'y a plus de rêve
+correspondant à ce \0code onirique\0￿.
+
+\0As-tu un autre rêve à visiter?"
+"1057_a","Oui!"
+"1057_b","Laissons tomber."
+"1058","(촀\0Hmmn\0\0 Je ne vois pas de rêve que tu
+puisses revoir.\0\0(촀\0Si tu souhaites rêver, 
+\0je te prierai de
+me communiquer un \0code onirique\0￿."
 "2001","(\0촀\0Bien sûr. 
 \0(9촀\0Mais avant de procéder,
 \0
@@ -317,6 +357,11 @@ un rêve en ligne?"
 "3001_b","Confidentialité du code."
 "3001_c","Effacer le rêve."
 "3001_d","Non, rien."
+"3002_02_a","Mettre à jour le rêve."
+"3002_02_b","Confidentialité du code."
+"3002_02_c","Confidentialité du code."
+"3002_02_d","Effacer le rêve."
+"3002_02_e","Non, rien."
 "3101","(9촀\0Confirmes-tu vouloir mettre à jour le
 rêve de l'île n	\0?"
 "3101_a","Oui. Mettons-le à jour!"
@@ -432,12 +477,12 @@ sur ton \0passeport \0￿ni la \0carte\0￿ de l'île."
 \0
 D'autres joueurs pourront le voir sur
 ton \0passeport \0￿et ta \0carte\0￿ de l'île."
-"4000","(촀\0Ceci est l'entremonde
+"4000","(촀\0Ceci est l'entre-monde
 \0 où rêves
 digitaux et rêveurs se rencontrent.
 
 \0(%촀\0Quant à moi, j'en suis la guide.\0\0(1촀\0Je peux t'aider à rêver de l'île d'un
-d'autre, ou à partager ton rêve. 
+autre, ou à partager ton rêve. 
 \0Que
 le monde puisse bien rêvern"
 "4001","Si tu veux savoir quoi que ce soitn\0\0($촀\0

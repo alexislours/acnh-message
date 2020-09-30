@@ -116,28 +116,59 @@ laisse libre court à la créativitén\0\0
 \0 comme ça ?!\0\0(8촀\0Mets au moins une écharpe,
 \0 sinon
 tu risques de tomber malade !"
-"016","(촀\02\02\0}촀 que tu portes est à croquer !
+"016","<"
+"016_01","(촀\02\02\0}촀 que tu portes est à croquer !
 \0 Je n'ai jamais rien vu de si adorable !\0\0(""촀\0Tu devrais t'habiller comme ça tous
 les jours, n\0. 
 \0(촀\0C'est un style qui te va comme un gant !"
-"017","(촀\0Oh !
+"016_02","($촀\0Ça alors, tu es adorable aujourd'hui !
+\0
+(촀\0Tu devrais l2촀ea\0 porter plus souvent,
+2\0}촀.\0\0Et si, pour une raison qui m'échappe,
+\0
+tu ne le désires pas,
+\0 tu pourrais me
+l'offrir. 
+\0(7촀\0Simple suggestionn"
+"017","<"
+"017_01","(촀\0Oh !
 \0((6촀\0 2촀IlElle\0 est drôlement cool, 2\0}촀 que tu portes là, n\0 !\0\0(""촀\0À te voir comme ça,
 \0 on te sent prêt2\0e à soulever des montagnes, n\0."
-"018","(촀\0Je dois dire que tu portes vraiment
+"017_02","( 촀\0Mes beaux yeux me jouent-ils
+des tours, 
+\0(촀\0ou es-tu particulièrement
+cool aujourd'hui ?
+(촀\02\02\0}촀, bien sûr ! Il n'y a pas mieux pour faire ressortir son côté détendu !"
+"018","<"
+"018_01","(촀\0Je dois dire que tu portes vraiment
 2\0}촀 avec une grâce incroyablen\0\0
 \0\0\0(촀\0Pas de doute, tu es 2 le roila reine de la
 simplicité !
 \0(%촀\0 Tu peux me croire,
 \0 je
 prends des notes, n\0."
-"019","(""촀\02\02\0}촀 que tu portes est extraordinaire !
+"018_02","(촀\0Il y a quelque chose en toi de
+délicieusement simple aujourd'hui,
+qui frôle même le minimalisme.
+(촀\0Et j'ai trouvé ce que c'était !
+\0(촀\0 C'est
+2\0}촀 qui fait souffler ce vent de fraîcheur !"
+"019","<"
+"019_01","(""촀\02\02\0}촀 que tu portes est extraordinaire !
 \0 (촀\0Quelle allure, j'en ai le souffle coupé.\0\0()촀\0Tu sais, on ne choisit pas une pièce
 aussi exceptionnelle que celle-cin\0\0
 \0(5촀\0
 c'est elle qui vous choisit !
 (촀\0Et tu es bien l'élu2\0e, aucun doute
 là-dessus, n\0 !"
-"020","(촀\0Ah ah, je vois que tu as enfilé
+"019_02","(%촀\0Quand je te vois ainsi, je me dis
+que tu es né2\0e pour porter 2\0}촀.\0\0()촀\0Ne ris pas !
+\0 L'élégance est une
+vocation, 
+\0(촀\0même que je la prends
+très au sérieux, n\0."
+"020","<"
+"020_01","(촀\0Ah ah, je vois que tu as enfilé
 2\0}촀 !\0\0(촀\0C'est une sensation agréable, non ?
 
 \0((\0촀\0Avec une tenue confort,
@@ -145,10 +176,30 @@ là-dessus, n\0 !"
 comme un poisson dans l'eau !\0\0( 촀\0Et je dirais même mieux :
 \0 comme
 2\0n\0 les pattes bien sur terre, n\0 !"
-"021","(&촀\0Tu m'as l'air drôlement élégant2\0e,
+"020_02","(촀\0Tu as l'air de littéralement brûler
+de motivation et d'énergie avec 2촀tonta\0
+superbe }촀.
+Une tenue doit exprimer l'âme de
+cel2uile qui la porte,
+\0 je l'ai toujours dit.
+
+\0(촀\0Si, si,
+\0 demande autour de toi !
+(촀\0Et dans ton cas,
+\0 ta tenue semble
+faire luire sur ton corps la flamme
+intérieure qui brille en toi."
+"021","<"
+"021_01","(&촀\0Tu m'as l'air drôlement élégant2\0e,
 aujourd'hui, n\0n\0\0 Quel est ton secret ?\0\0($촀\0Laisse-moi deviner, tout est dans
 2\0}촀 !\0\0(촀\0Ça te va à ravir ! Surtout, ne change
 jamais, n\0."
+"021_02","(촀\0Tu sais ce qui me vient à l'esprit,
+\0
+en te voyant ainsi porter 2\0}촀 ?\0\0('촀\0On ne devrait pas rester côte à côte.
+
+\0(촀\0Les gens vont perdre connaissance
+devant nos élégances cumulées !"
 "101","<"
 "101_01","(""촀\0Quand tu aimes un vêtementn\0\0
 \0 tu
@@ -268,6 +319,50 @@ suis abasourdie, n\0.
 (7촀\0Si tu m'invitais à danser, je n'aurais
 pas d'autre choixn\0\0 (촀\0que de me laisser
 emporter dans ta folle farandole !"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Quen\0\0 Que portes-tu là,
+\0
+n\0 ?\0\0(촀\0Ce style !
+\0 Ce sac !
+\0 Cette qualité de
+couture,
+\0 c'est du jamais-vu !
+\0 Dis-moi
+la vérité,
+\0 c'est du fait-main,
+\0 non ?
+(\0촀\0Ah,
+\0 tout s'éclaire. 
+\0On a confectionné
+ces merveilles avec la plus précieuse
+matière du monden\0\0(촀\0 l'amour !"
+"216","(;촀\0Oh,
+\0 voyez-vous ça ! 
+\0Tu es
+la quintessence du dodo !
+\0(6촀\0 Enfin,
+\0
+la compagnie aérienne,
+\0 j'entends.
+Très joli,
+\0 en tout cas.
+\0 On voit tout
+de suite qu'on a affaire 2auà la plus
+élégant2\0e des globe-trotteu2rsses.
+(%촀\0Tu as raison d'arborer les marques
+que tu aimes avec fierté !
+\0(촀\0 À quoi ça
+sert qu'ils fassent des habits,
+\0 sinon ?"
+"217","(촀\0Ta tenue me donne des frissons, mon
+chou. 
+\0(촀\0Je suis conquise par son côté
+sombre et effrayant, n\0 !
+(%촀\0Tout le monde n'aurait d'yeux que
+pour toi à une soirée macabren\0\0
+des yeux exorbités de peur, bien sûr !"
 "251","(촀\0Eh bien, n\0 ! 
 \0(6촀\0On est d'humeur féline aujourd'hui ?\0\0(5촀\0Tu peux me le dire si tu t'es inspiré2\0e
 de mon auguste personne. 
@@ -294,6 +389,62 @@ crapaud en berne, n\0 !"
 pour avoir du style, 
 \0(6촀\0alors quoi de
 mieux que le look amphibie ?"
+"255","(촀\0Mazette, quelle allure, n\0 !\0\0(:촀\0On ne fait pas plus lapinesque,
+et je m'y connais !\0\0(촀\0D'ailleurs, je dois prendre garde ou
+tu me chiperas la vedette au pinacle
+du chic à grandes oreillesn\0\0
+(5촀\0En attendant, si tu veux des conseils
+sur la façon la plus délicieuse d'être
+moi-même, tu n'as qu'à demander !"
+"256","(:촀\0Tiens, on s'est réveillé2\0e d'humeur
+lapine ?
+\0 Oreilles dresséesn\0\0 et
+peut-être bien pompon au popotin ?
+(촀\0Ne le prends pas de travers, voyons.
+\0
+Je trouve que ça te sied à ravir,
+m2
+ona petit2\0e lapin2ouette.
+(\0촀\0Et si j'osaisn\0\0 (6촀\0j'ajouterais que,
+niveau chic, tes oreilles atteignent
+des sommets !"
+"257","(촀\0Bigre !
+\0 J'ai la berlue ou t'es-tu
+vraiment paré2\0e en ours2\0e aujourd'hui,
+n\0 ?\0\0(촀\0C'est merveilleux !
+\0 Nous autres
+ravissants représentants de la
+gent ursidée en sommes flattés !
+En plus, ta tenue au poil saisit tout à
+fait l'essence de mon cœurn\0\0(촀\0 plein de
+chaleur et douillettement moelleux !"
+"258","(""촀\0Comme tu es mignon2\0ne aujourd'hui !
+\0
+On voudrait te câliner de haut en
+bas, n\0 !
+()촀\0Oh, oui, tout y est !
+\0 Le poil soyeux et
+la grâce sauvage.
+\0 Un style ours en
+peluche, mais vivant !
+(촀\0Hélas, ce look chaud et duveteux
+ne me sied guère.
+\0 Si j'osais, j'en
+grognerais de jalousie, n\0."
+"259","(촀\0Tiens, tiensn\0\0 Partagerions-nous
+cette âme moutonnière qui fait mon
+charme et peut-être le tien ?\0\0(%촀\0Sache donc que chaque mouton a un
+trésor dont il faut prendre soin et qui
+tient en deux mots :
+\0 la laine.\0\0(5촀\0C'est un privilège que je n'accorde
+qu'à une élite triée sur le volet, mais
+tu peux caresser ma laine si tu veux."
+"260","(촀\0Ça alors ! Tu t'es déguisé2\0e
+en mouton aujourd'hui,
+n\0 ?\0\0(촀\0Permets-moi de te dire que c'est
+une « bêle » réussite ! 
+\0(6촀\0N'oublie pas
+de garder la laine fraîche, surtout !"
 "301","Ta tenue du journ\0\0(%촀\0 dégage une aura
 de pouvoir, voire de super-pouvoir,
 n\0 !\0\0(촀\0Habillé2\0e comme ça, tu donnes
@@ -340,6 +491,28 @@ dansante en compagnie du gratin ?
 ( 촀\0Bigre, ne me fais pas languir !
 \0
 (9촀\0Je veux tout savoir, n\0 !"
+"307","(촀\0Mazette ! Voilà un style dénudé,
+au sens propre du « therme ».\0\0(촀\0Je ne sais pas quoi en penser. 
+\0(7촀\0Je suis
+vaguement gênée, mais pour 2 lequellaquelle d'entre nous ?
+\0 Mystère."
+"308","(촀\0Tu t'apprêtes à danser le ballet ?
+\0(1촀\0 Je
+t'imagine très bien enchaîner vrilles,
+pointes et pirouettes en tous genres.
+(촀\0Oui, je te vois d'ici, et rien que cette
+image mentale suffit à embellir ma
+journée. Merci, n\0 !"
+"309","(촀\0Oh, quel adorable petit bébé !
+\0
+Guili guili, areuh areuh, mon bout
+de chou tout mignonnou !\0\0(촀\0Oups, pardon !
+\0 J'adore tout ce qui
+est mignon, et les bébés sont les
+meilleurs experts en la matière.
+(촀\0Tu étais sûrement déjà irrésistible
+étant bébé, mais aujourd'hui, tu es
+au top, bébé n\0 ."
 "401","<"
 "401_01","(촀\0Tu portes à nouveau cette fameuse
 tenue, je voisn\0\0(촀\0 Oh, pardon ! 
@@ -375,3 +548,19 @@ t'y tenir sans céder à des envies
 frivoles de changement.\0\0(%촀\0Il faut de la constance pour ne pas
 courir d'une mode à l'autre. (촀\0Et tu
 n'en manques pas, n\0 !"
+"501","<"
+"501_01","(촀\0Il y a quelque chose de changé
+en toi !\0\0(촀\0Je sais pas au juste quoi, mais
+j'adore, n\0."
+"501_02","(촀\0Tu nous présentes un tout nouveau
+visage aujourd'hui.\0\0(%촀\0Très bien ! Après tout, le style n'est
+pas qu'une question de goût, c'est
+aussi un état d'esprit.
+(촀\0La question est : quel est ton état
+d'esprit actuel ?
+\0 Mystère et boule
+de gomme, n\0."
+"501_03","(;촀\0Bigre, tu as changé de tête !
+\0
+(&촀\0Tu célèbres une grande occasion,
+ou c'est juste pour le plaisir ?"

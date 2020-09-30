@@ -430,6 +430,26 @@ How many would you like?"
 "131_a","Just 1. (\0Z\0\0￿)"
 "131_b","I'll take 5! (\0Z\0￿)"
 "131_c","I've changed my mind."
+"132_01","(촀\0Ah, }\0Ȁ?
+\0(
+These are a limited-time offer for
+the month of October! d\0
+\0\0K...October!\0dd"
+"132_02","()촀\0You can harvest these \0pumpkin starts\0￿
+a few days after you plant them.\0\0(%촀\0And they'll grow all by themselves,
+but you'll get a better harvest if you
+water them daily."
+"132_03","()촀\0Pumpkins grow in four colors:
+\0orange\0￿, \0green\0￿, \0yellow\0￿, and \0white\0￿.\0\0(9촀\0You won't know what color you're
+going to get until they start growing.
+\0(
+(촀\0It makes harvest time a real treat!"
+"132_04","(%촃\0I can sell these as singles or in bulk.
+\0
+(&촂\0How many would you like?"
+"132_04_a","Just 1. (\0Z\0\0￿)"
+"132_04_b","I'll take 5! (\0Z\0￿)"
+"132_04_c","I've changed my mind."
 "141_01","( 촂\0( 촃\0Aha! 
 \0Thinking of swimming? 
 \0(%촂\0(\0촃\0Yes,
@@ -470,6 +490,30 @@ be yours for Z\0.
 you need to keep in mind for
 swimming in the ocean.d\0
 \0 \0K...ocean.\0dd"
+"144_01","(촀\0Ah, you're interested in
+2\0}\0Ȁ?\0\0(%촀\0I should let you know that those
+are a limited-time itemn\0\0available
+only during October!d\0
+\0 \0K...October!\0dd"
+"144_02","(촀\0Because we expect high demand for
+this seasonal item, 
+\0sales are limited
+to just \0one per customer per day\0￿."
+"144_03","(&촀\0Would you like to buy one?"
+"144_03_a","(%촀\0I'll buy it!"
+"144_03_b","('촀\0Actually, I'll pass."
+"144_04","(\0촀\0Oh, I'm so sorry, 
+\0(%촀\0but we can only
+sell each customer \0one piece of
+candy per day\0￿."
+"144_05","(촀\0Since you've already purchased one
+piece today, I do hope you'll come
+back tomorrow for another."
+"144_06","(촀\0You've already purchased one piece
+today, and I'm afraid that this is the
+last day it will be available this year.\0\0(촀\0I do hope you'll come back
+for more at the next possible
+opportunity!"
 "200","(촂\0(촃\0Thank you!d\0
 \0 \0K...thank you!\0dd(촂\0(촃\0
 Z"

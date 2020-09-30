@@ -97,13 +97,23 @@ by s\0촂."
 all the way from s촀!\0\0(2촀\02\0s\0촂 called this one
 ""s촀.""\0\0(4촀\0Do you like it,
 \0 n\0?"
-"101","(촀\0So,
+"101","<"
+"101_01","(촀\0So,
 \0 what's your opinion of my
 }촀?\0\0(촀\0I just think the style is so much fun!
 \0(
 (촀\0It makes me want to bake something
 sweet and fluffy!"
-"102","Even someone like me can manage
+"101_02","(촀\0I thought I'd give this outfit a
+try today. What do you think of my
+}촀?\0\0Too much?
+\0 Just right?
+\0 You can be
+honest with me, n\0.\0\0(1촀\0What I hoped forn\0\0was to be the
+me I might ben\0\0when I wear
+things like this, n\0."
+"102","<"
+"102_01","Even someone like me can manage
 to look elegant and refined
 \0 (촀\0in my
 }촀!
@@ -113,7 +123,14 @@ I should be sipping from a tiny cup of
 espresso,
 \0 (촀\0not my usual milk tea
 \0n\0\0(\0촀"
-"103","I like the easy-going look of my
+"102_02","(촀\0Do you have any thoughts about my
+}촀 here?\0\0(촀\0This kind of style brings out a
+different side of me.
+\0( Butn\0\0(2촀\0I'll admit
+it might not be my usual thing.\0\0($촀\0Still, if it looks good on me, why
+not wear it, n\0?"
+"103","<"
+"103_01","I like the easy-going look of my
 }촀.\0\0()촀\0The more simplified the clothing,
 \0
 the more you can appreciate the
@@ -122,7 +139,14 @@ material it's made of,
 (촀\0I guess the same could be said 
 about recipes and ingredients
 \0n"
-"104","(2촀\0I feel like I'm overdoing it
+"103_02","()촀\0I lean toward simple things when
+it comes to what I wear, like my
+}촀 here.\0\0(1촀\0Clothing like thisn\0\0it's as nice as
+bread and butter.
+\0 A real daily
+treat, n\0!"
+"104","<"
+"104_01","(2촀\0I feel like I'm overdoing it
 \0 by wearing
 my }촀
 \0n\0\0\0\0(3촀\0Maybe I should splurge at dessert
@@ -130,20 +154,44 @@ too,
 \0 with extra whipped cream on
 my 촀,
 \0 n\0!"
-"105","I'm feeling really sporty
+"104_02","()촀\0I wore something very showy today
+to see if I might feel like being
+like thatn\0\0now and then.\0\0(촀\0That's the reason why I'm wearing
+my }촀.\0\0(촀\0Maybe it's fine, but it just makes
+me think that showy types must find
+it all so exhausting, n\0!"
+"105","<"
+"105_01","I'm feeling really sporty
 \0 (촀\0in my
 }촀!\0\0(1촀\0If this outfit was a beverage
 \0n\0\0
 It'd be a refreshing 촀.\0\0(4촀\0At least I think so,
 \0 n\0
 \0n"
-"106","(촀\0What do you think?
+"105_02","Clothing that's good for those who
+like to be activen\0\0isn't really what
+I go for, n\0.\0\0(7촀\0Still,
+\0 I decided to put on my
+}촀 here.\0\0($촀\0Who knew I'd like this sort of thing,
+given I'm all about being indoors?
+\0
+But the design speaks to me!"
+"106","<"
+"106_01","(촀\0What do you think?
 \0( (촀\0I feel so elegant
 in my }촀!\0\0(1촀\0If I ate 2\0촀
 in this outfit,
 \0 I bet (촀\0it'd taste
 extra rich,
 \0 n\0!"
+"106_02","(촀\0I thought that I'd give something
+special a try today. How do you like
+my }촀?\0\0(2촀\0This sort of thing really puts a
+spin on my daily routine. That'sn\0\0
+sometimes nice.\0\0($촀\0I like what I like.
+\0 (촀\0But I wouldn't
+mind adding this into the mix
+more often, n\0."
 "201","Tell me,
 \0 what do you think (촀\0of my
 }촀?\0\0(4촀\0I don't have any plans or anything.

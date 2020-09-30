@@ -94,18 +94,49 @@ angemessen rüber, 
 \0 (촀\0Das Design meiner Kleidung hat s\0촂 von s촀 entworfen.\0\0(2촀\0„2\0s촀“ heißt es.
 \0 Findest du, mir steht das, 
 \0n\0?"
-"101","(촀\0Was hältst du denn von 2.촀meinemmeinermeinem 2촂}촀?
+"101","<"
+"101_01","(촀\0Was hältst du denn von 2.촀meinemmeinermeinem 2촂}촀?
 \0 (촀\0Ich bin ganz begeistert davon!\0\0(촀\0Oooh, 
 \0da bekomme ich direkt Lust,
 in die Küche zu hechten und luftig-
 lockere Schaumküchlein zu backen!"
-"102","2,촀Dieser
+"101_02","(촀\0Heute wollte ich es mal mit diesem
+Outfit probieren.
+\0 Na,
+\0 wie findest du
+2(촀meinen
+meinemein 2촁}촀?\0\0(2촀\0Ist das zu viel des Guten?
+\0 Oder
+genau richtig?
+\0 Sei ruhig ganz
+ehrlich zu mir,
+\0 n\0.\0\0(1촀\0Ich wollte so etwas immer schon mal
+tragen können.
+\0 Vielleicht ist es ja
+endlich so weit,
+\0 n\0n"
+"102","<"
+"102_01","2,촀Dieser
 DieseDieses }촀 lässt sogar jemanden wie mich richtig (촀\0elegant und kultiviert wirken!\0\0(1촀\0Dazu noch eine klitzekleine Tasse
 Espresso in der Hand, 
 \0(촀\0dann ist das
 Gesamtbild perfekt, 
 \0n\0!(\0촀"
-"103","Ich mag ja einfache, 
+"102_02","(촀\0Wie,
+\0 findest du,
+\0 steht mir 2,촀dieser
+diesedieses
+}촀?\0\0(촀\0Diese Art von Mode fühlt sich sehr
+erfrischend an!
+\0( Abern\0\0(2촀\0 auch etwas
+ungewohnt.\0\0($촀\0Doch das soll mich nicht stören!
+\0
+Wenn mir etwas steht,
+\0 sollte ich es
+auch tragen,
+\0 n\0!"
+"103","<"
+"103_01","Ich mag ja einfache, 
 \0funktionale
 Kleidung ganz gerne. 
 \0So wie (촀\02,촀diesen
@@ -118,7 +149,19 @@ schätzen, 
 auch mit (촀\0Backrezepten und den
 benötigten Zutaten, 
 \0n\0..."
-"104","(2촀\0Normalerweise ziehe ich mich ja
+"103_02","()촀\0Was Mode angeht,
+\0 bevorzuge ich ja
+Simpleres,
+\0 wie zum Beispiel 2,촀diesen
+diesedieses
+2촁}촀 hier.\0\0(1촀\0Schlichte Mode ist wie ein Brot mit
+Butter.
+\0 Einfach, 
+\0aber nie wirklich
+verkehrt,
+\0 n\0!"
+"104","<"
+"104_01","(2촀\0Normalerweise ziehe ich mich ja
 nicht so piekfein an. 
 \0Aber 2,촀dieser
 diesedieses
@@ -129,7 +172,18 @@ auch opulenter gestalten sollte?
 (3촀\0Vielleicht genehmige ich mir sogar
 eine extragroße Portion Streusel auf
 2.$촀meinemmeinermeinem 2촂촀!(촀"
-"105","(촀\02촀EinEineEin }촀 so wie 2,촀dieser
+"104_02","()촀\0Heute wollte ich mich mal
+etwas auffallender anziehen,
+\0 um
+auszuprobieren,
+\0 ob mir das gefälltn\0\0\0\0(촀\0Deshalb trage ich 2,촀diesen
+diesedieses 2촁}촀.\0\0(촀\0Ich schätze, 
+\02촀ersiees steht mir schon,
+\0
+aber auf Dauer wäre mir solche
+Mode wohl zu anstrengend."
+"105","<"
+"105_01","(촀\02촀EinEineEin }촀 so wie 2,촀dieser
 diesedieses hier eignet sich bestimmt prima zum Sporttreiben!\0\0(1촀\0Wenn dieses Teil ein Getränk wäre,
 \0
 dann garantiert... 
@@ -140,12 +194,36 @@ Aber ordentlich geschüttelt!
 Damit es beim Trinken auch so
 (촀\0richtig schön prickelt, 
 \0n\0!"
-"106","($촀\0Wie findest du das, was ich trage?
+"105_02","Normalerweise ziehe ich ja selten
+Klamotten an,
+\0 die für Sport geeignet
+sind,
+\0 n\0.\0\0(7촀\0Aber heute war mir einfach nach
+2.촀diesemdieserdiesem 2촂}촀.\0\0($촀\02촀ErSieEs gefällt mir sogar besser,
+\0 als ich
+dachte.
+\0 Ich hab's ja gar nicht so mit
+Sport,
+\0 aber das Design ist halt toll!"
+"106","<"
+"106_01","($촀\0Wie findest du das, was ich trage?
 \0
 (촀\02,촀Dieser
 DieseDieses }촀 wirkt ziemlich elegant, 
 \0nicht wahr?\0\0(촀\0In diesem Outfit würde sogar
 촀 wie ein 5-Sterne-Essen schmecken!"
+"106_02","(촀\0Heute wollte ich mal etwas ganz
+Exquisites probierenn\0\0
+\0 Wie findest du
+2(촀meinen
+meinemein 2촁}촀?\0\0(2촀\0Ich weiß,
+\0 es weicht schon arg ab von
+meinem üblichen Stiln\0\0 
+\0Aber das
+finde ich eigentlich ganz spannend!\0\0($촀\0Ich bleibe meinem Stil weiter treu,
+\0
+aber ab und zu mal so etwas zu
+tragen kann auch nicht schaden!"
 "201","Sag mal...
 \0 Wie gefällt dir eigentlich
 (촀\02$촀mein

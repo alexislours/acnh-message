@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(%촀\0NookLink?
+"001","(%촀\0\0NookLink\0￿?
 \0 Maar natuurlijk!"
 "010","()촀\0Zullen we maar even verbinding
 maken met het internet zodat je
@@ -11,6 +11,13 @@ maken met het internet zodat je
 \0(&촀\0Wil je er wat meer over weten?"
 "015_a","Ja, meer info graag!"
 "015_b","Nee, dank je."
+"016","(\0촀\0Ik geloof dat je al toegang hebt tot
+\0NookLink\0￿, 
+\0(&촀\0dus hoe kan ik je verder
+van dienst zijn, n\0?"
+"016_a","Wat is NookLink?"
+"016_b","Speelgegevens uploaden!"
+"016_c","Het is al goed, dank je."
 "020","Dat is het wel zo'n beetje.\0\0(%촀\0Wil je verbinding maken met het
 internet zodat je \0NookLink ($촀\0\0￿kunt
 gebruiken?"
@@ -28,10 +35,10 @@ de uitleg nog een keer horen?"
 "120","(""촀\0
 \0Ik hoop dat je blijft genieten van het
 leven op n	\0."
-"150","(촀\0Het spijt me, maar de installatie is
-helaas mislukt. 
-\0(&촀\0Wil je het nog een
-keer proberen?"
+"150","(촀\0Het spijt me, maar er is iets fout
+gegaan. 
+\0(&촀\0Wil je het nog een keer
+proberen?"
 "150_a","Opnieuw proberen!"
 "150_b","Een ander keertje..."
 "151","(촀\0Om deze dienst te kunnen gebruiken
@@ -41,6 +48,20 @@ MET ANDEREN\0￿ inschakelt
 ouderlijk toezicht.\0\0(\0촀\0Laten we voor nu teruggaan naar het
 titelscherm, (%촀\0zodat je plezier kunt
 blijven maken, hm?"
+"160","()촀\0Ik help je graag 
+\0om je speelgegevens
+en \0NookLink\0￿-profiel via het internet
+te uploaden,
+\0 ja, ja.\0\0(\0촀\0Ben je er klaar voor
+\0 ($촀\0om nu verbinding
+met het internet te maken?"
+"160_a","Ja, graag!"
+"160_b","Nee, niet nu."
+"161","(촀\0Het uploaden van je speelgegevens
+is gelukt!\0\0(%촀\0Als je een momentje hebt,
+\0 open dan
+even \0NookLink \0￿($촀\0in de \0Nintendo Switch
+Online-app\0￿."
 "200","()촀\0Deze gamegebonden dienst is
 door Nook Inc. ontwikkeld voor
 de \0Nintendo Switch Online\0￿-app.\0\0Stel, je hebt \0QR-codes\0￿ van eigen

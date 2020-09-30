@@ -466,31 +466,38 @@ gleich noch einmal versuche?"
 \0(
 ($촀\0Ich öffne jetzt den Flugsteig."
 "120_01","(촀\0Du bist ja gerade mit dem
-\0Insel-Designer\0￿ zugange...\0\0()촀\0Tut mir leid, 
+\0Insel-Designer\0￿ zugange...
+Z\0\0\0()촀\0Tut mir leid, 
 \0diese App kannst du im
 \0lokalen Modus\0￿ oder im \0Online-Spiel
-\0￿nicht verwenden.
+\0￿nicht verwenden.
+Z\0
 (7촀\0Ich schließe sie deshalb jetzt für
 dich.
-\0 Danke für dein Verständnis."
+\0 Danke für dein Verständnis.
+Z"
 "120_02","(촀\0Danke vielmals!
 \0(2촀\0 Sonst müsste ich mir
 wieder was von den anderen Dodos
 anhören.
-\0(\0촀"
+\0(\0촀\0
+<"
 "121_01","(촀\0Mist! 
 \0((7촀\0Ich hab ganz vergessen, 
 \0zu
 überprüfen, 
 \0ob du gerade den
-\0Insel-Designer \0￿verwendest.\0\0(촀\0Die App kannst du bei Flügen oder
+\0Insel-Designer \0￿verwendest.
+Z\0\0\0(촀\0Die App kannst du bei Flügen oder
 im \0lokalen Modus\0￿ oder im \0Online-
-Spiel \0￿nicht verwenden.
+Spiel \0￿nicht verwenden.
+Z\0
 (%촀\0Tut mir leid, 
 \0aber ich schließe sie
-deshalb jetzt."
+deshalb jetzt.
+<"
 "121_02","(촀\0Danke für deine Geduld.
-"
+<"
 "122","-촀\0
 \0Flugsteig wird geöffnet!"
 "125","()촀\0Wenn der Flugsteig offen ist,

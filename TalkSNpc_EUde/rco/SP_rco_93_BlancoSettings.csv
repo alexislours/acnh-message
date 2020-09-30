@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(%촀\0NookLink, 
+"001","(%촀\0\0NookLink\0￿, 
 \0hm?
 \0
 Nichts lieber als das!"
@@ -11,10 +11,18 @@ Internet herstellen 
 "010_b","Details bitte."
 "010_c","Nein danke."
 "015","( 촀\02\0n\0, 
-\0du hast doch bereits (\0촀\0Zugriff auf NookLink. 
+\0du hast doch bereits (\0촀\0Zugriff auf \0NookLink\0￿. 
 \0(&촀\0Möchtest du mehr darüber hören?"
 "015_a","Ja, Details bitte!"
 "015_b","Nein danke."
+"016","(\0촀\0Du hast doch bereits Zugriff auf
+\0NookLink\0￿! 
+\0(&촀\0Wie kann ich dir sonst
+noch helfen, 
+\0n\0?"
+"016_a","Was ist NookLink?"
+"016_b","Spieldaten hochladen!"
+"016_c","Schon okay..."
 "020","So weit die Erklärung.\0\0(%촀\0Möchtest du also eine Verbindung
 zum Internet herstellen 
 \0und Zugriff
@@ -37,8 +45,8 @@ spielbezogenen Services 
 \0Ich hoffe, du genießt weiterhin
 dein Leben auf n	\0."
 "150","(촀\0Es tut mir leid, 
-\0aber die Einrichtung
-ist fehlgeschlagen. 
+\0aber der Prozess ist
+fehlgeschlagen. 
 \0(&촀\0Versuchen wir es
 noch einmal?"
 "150_a","Ja, bitte!"
@@ -51,6 +59,19 @@ Titelbildschirm zurück, 
 \0hm?
 
 \0(촀\0Aber weiterhin viel Spaß!"
+"160","()촀\0Ich kann dir gern dabei helfen,
+\0 deine
+Spieldaten und dein \0NookLink\0￿-Profil
+via Internet hochzuladen,
+\0 ja, ja.\0\0(\0촀\0Möchtest du ($촀\0jetzt eine Verbindung
+zum Internet herstellen?"
+"160_a","Sehr gerne!"
+"160_b","Nein, danke."
+"161","(촀\0Deine Spieldaten wurden
+hochgeladen!\0\0(%촀\0Wenn du einen Moment Zeit hast,
+\0
+ruf bitte kurz \0NookLink \0￿in der
+($촀\0\0Nintendo Switch Online-App\0￿ auf."
 "200","()촀\0\0NookLink\0￿ ist ein spielspezifischer
 Service von Nook Inc.
 \0 (촀\0für die

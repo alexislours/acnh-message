@@ -102,20 +102,40 @@ essere, in una sauna spenta?
 l'hai capito.
 \0 Ti beccherai un mezzo
 accidente, se non ti cambi."
-"016","( 촀\0Cavoli, (촀\0stai davvero benissimo con
+"016","<"
+"016_01","( 촀\0Cavoli, (촀\0stai davvero benissimo con
 2\0}촀!\0\0(2촀\0Dovrei provare anch'io quello stilen\0\0
 \0
 Mi basterebbe fare anche solo metà
 della bella figura che ci fai tu."
-"017","( 촀\0Cavoli, lo sai che stai benissimo con
+"016_02","(%촀\0Sei davvero grazios2oa con 2""촀il tuola tua\0
+}촀.\0\0(촀\0Perché è così che vuoi apparire,
+\0 no?
+\0
+(촀\0Non si sa mai,
+\0 l'abbigliamento non
+è il mio forte, n\0n"
+"017","<"
+"017_01","( 촀\0Cavoli, lo sai che stai benissimo con
 2\0}촀?\0\0(%촀\0È un look che ti si addice parecchio,
 n\0."
-"018","(촀\0Adoro proprio lo stile 2*촀del tuodella tua\0
+"017_02","(%촀\0C'è più stile 2*촀nel tuonella tua\0 }촀 che in un'intera catena di boutique.\0\0(촀\0Mi basta starti vicino per sentirmi
+anch'io molto più stiloso.
+\0 (촀\0Grazie!
+\0(
+Mi ci voleva una botta di autostima."
+"018","<"
+"018_01","(촀\0Adoro proprio lo stile 2*촀del tuodella tua\0
 }촀.\0\0(%촀\0Invece di esagerare hai scelto
 un look semplice.
 \0 (촀\0Ti stimo per
 questo, n\0."
-"019","(촀\02\02\0}촀 che indossi ha un aspetto meraviglioso,
+"018_02","(6촀\0Troppo forte la semplicità 2*촀del tuodella tua\0
+}촀.\0\0(%촀\0I classici non sono classici senza
+motivo,
+\0 dico sempre io."
+"019","<"
+"019_01","(촀\02\02\0}촀 che indossi ha un aspetto meraviglioso,
 \0 capperi!\0\0(;촀\0Anzi,
 \0 troppo meraviglioso!
 \0 (\0촀\0Io non 
@@ -126,17 +146,39 @@ genere,
 O forse sei stat2oa fatt2oa tu su misura
 per quel capo. (촀\0
 \0AHAHAH!(촀"
-"020","( 촀\02""촀QuestoQuesta\0 }촀 ti dona un look davvero casual!\0\0(4촀\0Anch'io a volte mi vesto cosìn\0\0 nel
+"019_02","(촀\0Capperi che figurino con 2""촀questoquesta\0
+}촀!\0\0(&촀\0Dove te ne vai di bello?
+\0 Un negozio
+di ukulele?
+\0 Il vivaio dei bonsai?
+\0 (%촀\0Sarai
+2 
+il rela regina del posto in ogni caso!"
+"020","<"
+"020_01","( 촀\02""촀QuestoQuesta\0 }촀 ti dona un look davvero casual!\0\0(4촀\0Anch'io a volte mi vesto cosìn\0\0 nel
 senso che mi metto addosso roba
 completamente a caso. 
 \0(촀\0AHAHAH!
 (%촀\0Comunque, se a te va bene così,
 
 \0sono felice per te."
-"021","(촀\0Fai una figura da eleganton2ea con
+"020_02","(%촀\0Fai una figura mitica con 2""촀questoquesta\0 }촀,
+\0 2(amico mioamica mia!\0\0()촀\0Sembra molto 2""촀comodocomoda\0.
+\0 Magari ci
+puoi fare sport senza cambiartin\0\0
+\0
+se non dopo per la doccia! (촀\0
+\0AHAHAH!(촀\0
+"
+"021","<"
+"021_01","(촀\0Fai una figura da eleganton2ea con
 2""촀questoquesta\0 }촀!\0\0(촀\0Non ti facevo tipo da alta società,
 \0
 n\0n"
+"021_02","(촀\0È mitico vederti,
+\0 ma sono un po' nervoso all'idea di macchiarti 2\0}촀.\0\0('촀\0Non so se potrei perdonarmi per aver
+costretto un capo tanto sciccoso a
+finire in tintoria, n\0."
 "101","<"
 "101_01","($촀\0Dunque,
 \0 vedo che indossi di nuovo 2""촀il tuola tua\0 }촀n\0\0\0\0(촀\0Deve essere il tuo abbigliamento
@@ -226,6 +268,38 @@ so mai a che velocità sto andando.
 sono ipnoticin\0\0 Ora forse ricorderò
 dove ho messo l'ombrello. 
 \0(촀\0AHAHAH!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0
+\0Che bel vestito! È cucito a mano?
+\0
+(6촀\0Wow!
+\0 Chi l'ha fatto ci ha messo
+davvero tanto amore. Si nota."
+"216","In outfit da aeroporto?
+\0 (9촀\0Quanto
+tempo che non faccio un viaggio
+in aereo! Ho nostalgia del cibo.
+
+\0(촀\0Una volta i pasti a bordo erano da
+leccarsi i baffi! 2\0촀 e
+
+\0촀 per dessert!\0\0('촀\0Ora
+\0 se va bene ti danno dei cracker e
+un bicchiere di 촀,
+\0(촀\0 n\0n"
+"217","(\0촀\0Dimmi la verità,
+\0 amic2oa.
+\0 (&촀\0Ti sei vestit2oa
+così solo perché vuoi farmi paura,
+n\0?
+(
+촀\0Beh, lascia perdere. 
+\0I tuoi strani
+travestimenti tenebrosi non mi
+spaventano. 
+\0Né oggi, né mai!"
 "251","(촀\0Hai un aspetto decisamente gattesco
 oggi, n\0.\0\0Che si dice in questi casi? 
 \0(2촀\0È un
@@ -249,6 +323,31 @@ rane?
 \0( (촀\0Non che non mi piaccia, eh!
 \0
 È solo che non me lo aspettavo!"
+"255","(촀\0Che stile, oggi! 
+\0Con quelle orecchie
+sembriamo quasi parenti, n\0.
+\0 (7촀\0Ma QUASI, eh!"
+"256","(촀\0Spero per te che volessi proprio
+vestirti da coniglio.
+\0 Perché se non
+è così,
+\0 ehmn"
+"257","(촀\0Credi di ingannarmi con il tuo look?
+
+\0Riesco a riconoscere un orso vero,
+te lo assicuro, n\0!"
+"258","(&촀\0Perché quel costume da orso? 
+\0Sei a
+conoscenza di nuove tendenze della
+moda a me ignote, n\0?"
+"259","(촀\0Stiamo attenti a non gironzolare
+troppo. 
+\0Se iniziano a contarci, li
+faremo addormentare, n\0."
+"260","(;촀\0Con quel vestito ti avevo quasi
+scambiat2oa per 2V(un mio vecchio amico*una mia vecchia amica.\0\0(2촀\0Era così gentile! 
+\0Mi regalava spesso
+dei maglioni di lana!"
 "301","( 촀\0Cavoli, 
 \0hai un aspetto decisamente
 minaccioso! 
@@ -281,6 +380,40 @@ spuntino!
 \0 Guai se arrivi all'ottavo
 mare e ti viene fame. 
 \0(촀\0AHAHAH!"
+"307","(&촀\0Vuoi fare 2(il comicola comica di professione,
+\0
+eh? 
+\0Hai già preparato un numero?
+\0
+Oppure fai monologhi di battute?
+(촀\0La sai quella dello scoiattolo che amava 촀 al ritmo della musica 촀?\0\0(9촀\0No? 
+\0Beh,
+\0 è perché l'ho inventata ora.
+\0
+È tutta tua!
+\0 Io non ho ambizioni
+artistiche en\0\0 (촀\0
+\0ancora non so il finale."
+"308","(3촀\0Non credi che potresti abbassare
+un po' la luminosità del tuo
+abbigliamento, n\0?
+(4촀\0È così accecante che non ti vedo.
+\0
+E non capisco se stai solo brillando
+o se stai andando a fuoco.(촀\0
+\0
+\0 AHAHAH!(촀\0
+"
+"309","(&촀\0Sai che da qualche secolo le
+armature non sono più di moda,
+\0
+ma da museo, n\0?
+(\0촀\0Se lo chiedi a me,
+\0 niente batte la
+nobiltà di jeans e maglietta. 
+\0( 촀\0Ma te lo
+avrei detto anche senza chiedere,
+\0 eh!"
 "401","<"
 "401_01","(9촀\0Ti piace proprio quel completo, eh?
 \0
@@ -301,3 +434,25 @@ che esperto di moda, n\0.\0\0(\0촀\0E comunque, 
 a guardarti. 
 \0(촀\0AHAHAH!
 \0(촀"
+"501","<"
+"501_01","(%촀\0Che aspetto eccentrico che hai.
+\0
+Parola di esperto.
+\0 E infattin\0\0
+\0
+(촀\0Mi piace il tuo look, n\0!"
+"501_02","(촀\0Non sono più il modaiolo che ero.
+
+\0E non so dirti se avrei scelto lo
+stesso look al posto tuo.
+(%촀\0Ma una cosa la so di sicuro.
+\0 (촀\0Se fa
+felice te,
+\0 sono contento anch'io,
+n\0."
+"501_03","(촀\0Oggi c'è qualcosa di nuovo in ten\0\0\0\0( 촀\0Hai imparato una nuova espressione?
+
+\0Hai cambiato muso o pettinatura?
+\0
+(촀\0Capperi,
+\0 sei così indecifrabile..."

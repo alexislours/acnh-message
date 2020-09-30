@@ -118,36 +118,87 @@ this time of year?
 your training or something?!\0\0(촀\0Ha ha!
 \0 Love the intensity, but don't
 catch a cold, n\0!"
-"016","(%촀\0I can't say I'm the biggest fan of
+"016","<"
+"016_01","(%촀\0I can't say I'm the biggest fan of
 your }촀.\0\0(촀\0I just don't think the ""cute"" look
 shows off my lats the way they
 deserve, n\0."
-"017","(촀\0You go, n\0!\0\0(5촀\0The only thing cooler than huge
+"016_02","(촀\0That outfit you're wearing today
+looks totally ripped, n\0.
+\0
+(촀\0No, non\0\0that's not right.
+(촀\0It's shredded! 
+\0(('촀\0Non\0\0
+\0( (촀\0Jacked!
+\0( ('촀\0Non\0\0
+\0
+(촀\0CUTE!
+\0 It's cute. 
+\0Sorry, it took me
+a while, but I finally got there."
+"017","<"
+"017_01","(촀\0You go, n\0!\0\0(5촀\0The only thing cooler than huge
 muscles 
 \0is huge muscles wearing
 2\0}촀!"
-"018","(촀\0Keeping it simple with 2\0
+"017_02","(촀\0Hey, I'm not too much for fashion,
+but I wanna say I really like your
+}촀!\0\0(%촀\0You look effortlessly cool.
+\0
+Meanwhile, I gotta flex HARD
+to look cool. 
+\0(;촀\0HRRRRRGH!"
+"018","<"
+"018_01","(촀\0Keeping it simple with 2\0
 }촀, eh?\0\0(%촀\0I get it, n\0.
 \0( (촀\0You don't
 wanna take any attention away
 from those sublime triceps!"
-"019","(촀\0Flexing some stylish muscles in your
+"018_02","(%촀\0I get what you're doing with that
+outfit. 
+\0You don't wanna overshadow
+your natural beauty.\0\0(촀\0Good for you! 
+\0I do the same thing
+when I'm feeling fit. Wear basic
+clothes and let the muscles speak!"
+"019","<"
+"019_01","(촀\0Flexing some stylish muscles in your
 }촀, huh?\0\0(%촀\0You're practically glowingn\0\0
 \0((촀\0and not
 from workout sweat, n\0!"
-"020","( 촀\0Whoa! 
+"019_02","(촀\0Wow. 
+\0You look absolutely stunning
+today, n\0.\0\0(촀\0From the clothes to the confidence,
+you are rocketing up the leaderboard
+of island style!"
+"020","<"
+"020_01","( 촀\0Whoa! 
 \0Now we're talking!
 \0( (촀\0I LOVE
 your }촀!\0\0()촀\0Half the fun of having giant muscles
 is showing 'em off!
 \0( (5촀\0You can't beat
 activewear for that, n\0!"
-"021","(촀\0Look at you,
+"020_02","(&촀\0Hey, did you take up a new sport?
+\0
+2\0촀, or maybe something
+like 촁?\0\0(%촀\0I ask because you're wearing
+2\0}촀.\0\0It looks like you're ready to
+move, n\0!"
+"021","<"
+"021_01","(촀\0Look at you,
 \0 dressed up in
 your }촀.\0\0(%촀\0Those kinds of clothes can be tough
 on the posture,
 \0( ($촀\0so be sure to do
 some stretches, n\0!"
+"021_02","(촀\0Whoa, you're dressed up!
+\0(촀\0 Probably
+gotta be careful not to mess up your
+}촀, huh?\0\0('촀\0I can't wear stuff that fancy.
+\0(촀\0 I need
+to be able to complete a triathlon at
+a moment's notice."
 "101","<"
 "101_01","(촀\0You really like that look, don't you?
 \0
@@ -237,6 +288,28 @@ one were to do a triathlon in itn\0\0
 \0((촀\0I was just looking
 for an excuse to talk about this
 triathlon I'm training forn"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(4촀\0There's something about that outfit
+you're wearing that makes me feel
+all warm and fuzzy, n\0.\0\0(1촀\0It's just so wholesome and pure. It
+feels almostn\0\0homemade. 
+\0(촀\0Thanks for
+the good vibes—I'm ready to lift now!"
+"216","(촀\0Oh, I didn't know you were such a
+frequent flier! 
+\0(&촀\0What are you doing
+when you visit other islands?\0\0(9촀\0Do you have some kind of secret
+training dojo? 
+\0((촀\0Are you entering
+fighting tournaments without me?!"
+"217","
+(!촀\0
+\0\0TRICK OR TREAT?\0d
+\0(\0촀\0
+	\0\0\0(촀\0I'm sorry—I can't NOT say it when
+I see someone dressed like that."
 "251","( 촀\0Hold the kettlebelln\0\0
 \0 (&촀\0Is it just me,
 or are you alson\0\0me?\0\0()촀\0What I'm saying, n\0, is
@@ -266,6 +339,44 @@ you've got going, n\0.
 you'll gain 0.2 percent in speed, 
 \0('촀\0but
 nothing beats good hard training!"
+"255","(촀\0Yo, you are looking sharp today,
+n\0!\0\0(촀\0You can tell we've really been flexing
+our friendship muscle, because we're
+actually starting to look alike."
+"256","(촀\0Something seems different about
+you today, n\0n\0\0\0\0(촀\0You look like you could hippity-hop
+your way to the front of a road race.
+\0
+(5촀\0I better up my mileage to keep up!"
+"257","(촀\0Whoa, you're looking strong today,
+n\0.
+\0(6촀\0 I'd almost say you're
+downright grizzly!\0\0(2촀\0I don't wanna get into any kind of
+pose-off or anything, but I'm
+impressed enough to train harder."
+"258","(촀\0They say you should dress for the
+job you want, son\0\0
+\0 (촀\0Have you filed
+your bear application yet?\0\0(7촀\0Honestly?
+\0 I can see it. 
+\0You're strong,
+you have a good sense of smell,
+\0(촀\0 and
+you have razor-sharp 8-inch clawsn"
+"259","( 촀\0Whoa. 
+\0So you're finally joining
+Team Sheep, huh. 
+\0(촀\0Welcome aboard!\0\0(5촀\0We're fast, strong, and wooly to the
+core. 
+\0(%촀\0I like to think of us as the
+decathletes of the animal kingdom."
+"260","(촀\0You're dressed a little warmly there,
+aren't you?
+\0(('촀\0 I can't imagine running
+a 10K in that outfit.\0\0(촀\0Unlessn\0\0 What's the world record for
+a 10K in a sheep outfit?
+\0( (촀\0This could
+be my chance!"
 "301","(촀\0Oh, wow. 
 \0You look SO COOL in that!
 \0
@@ -327,6 +438,27 @@ can catch my fastball, you've got
 major-league potential.\0\0(촀\0Oh, not because it's fast.
 \0( (촀\0I just can't
 control where I throw it!"
+"307","(&촀\0Hey, where'd you wrangle up that
+kind of outfit, n\0?\0\0(촀\0What's that hatn\0\010, 11 gallons?
+\0(
+(5촀\0Makes for a darn good neck workout
+if you fill it with 촀!"
+"308","(촀\0Whoa, did you finally take my
+advice and become a professional
+wrestler, n\0?\0\0(!촀\0I'm so AMPED for you!
+\0( (4촀\0Don\0\0do you
+wanna wrestle right now?
+\0 (촀\0N-no?
+\0
+Well, that's OKn\0\0another timen"
+"309","( 촀\0Hey, I didn't know you were into
+hockey! 
+\0((촀\0We could have been training
+this whole time, n\0!\0\0(촀\0Go ahead, body-check me as hard
+as you can! 
+\0Into the boards!
+\0 (5촀\0I'm
+tough, but I could still toughen up!"
 "401","<"
 "401_01","( 촀\0Hey, I've seen that outfit before.
 \0(%촀\0
@@ -347,3 +479,27 @@ before, weren't you?\0\0(촀\0Hey, it looks great!
 a thing either. 
 \0(5촀\0Keep on rocking that
 n\0 style!"
+"501","<"
+"501_01","(촀\0There's something different about
+you todayn\0\0
+\0( (촀\0You been doing more
+lunges or what, n\0?\0\0(촀\0Well, no matter how ripped you get
+or how you disguise yourself,
+\0(6촀\0 I'll
+always know it's you."
+"501_02","( 촀\0Hey, you're all fancy looking today.
+\0
+(&촀\0You got a flex-off scheduled, orn\0\0\0\0(촀\0You know what?
+\0 You don't need a
+reason to look your best. 
+\0(촀\0You just
+inspired me, n\0!"
+"501_03","(;촀\0Hey, what is going on with your
+face today? 
+\0I barely recognized
+you, n\0!\0\0(#촀\0Sorry, I don't mean that in a bad
+way. 
+\0You look great!\0\0(촀\0I've tried changing my look with face
+exercising before—it didn't work.
+\0((5촀\0 But
+I can tow a semi with my teeth now!"

@@ -89,13 +89,20 @@ El caso es que s\0촂 tiene mucho talenton\0\0
 \0 (촀\0""s촀""!\0\0(촀\0Me costó trabajo aprenderme los
 nombres,
 \0 ¡pero lo logré!\0\0¿Cómo me queda el diseño, n\0?"
-"101","(""촀\0Creo que todo lo que me pongo
+"101","<"
+"101_01","(""촀\0Creo que todo lo que me pongo
 me queda bien,
 \0 ¿verdad?\0\0(촀\0Lo he comprobado con 2촀esteesta\0 }촀.\0\0(촀\0Es más,
 \0 jamás he visto a ningún
 superhéroe lucir tan adorable
 como yo."
-"102","(촀\0Este atuendo es tan increíble que
+"101_02","(7촀\0¿Tú también crees que est2촀ea\0 }촀 me queda muy bonit2촀oa\0?\0\0(%촀\0Eso fue lo que dijo mi mamá la última
+vez que charlamos por videollamada,
+pero las mamás dicen esas cosasn\0\0\0\0Sobre todo cuando quieren
+convencerte de que comas brócolin\0\0
+('촀\0Pero conmigo no va a funcionar."
+"102","<"
+"102_01","(촀\0Este atuendo es tan increíble que
 tengo miedo de arruinarlo mientras
 tomo la siesta o la merienda.
 Sería horrible que se llenara de
@@ -103,7 +110,15 @@ baba o le salpicara comida.\0\0(;촀\0¡Ya sé!
 \0 Podría empezar a usar
 babero.
 \0 (7촀\0No sería la primera vezn"
-"103","(촀\0¡Me encanta mi ropa!
+"102_02","(""촀\0¿Qué te parece cómo me queda
+est2촀ea\0 }촀?
+\0 Es como muy increíble, ¿no?\0\0(%촀\0Podría tener mi propia bandan\0\0
+\0
+(촀\0¡con instrumentos comestibles!
+\0
+Qué genial idea, n\0."
+"103","<"
+"103_01","(촀\0¡Me encanta mi ropa!
 \0 Podrá ser
 sencilla,
 \0 (%촀\0¡pero todo queda bien con
@@ -111,10 +126,23 @@ sencilla,
 ((촀\0¡Yujuuu!
 \0 Ya sé qué ponerme cuando
 no sepa qué ponerme."
-"104","(%촀\0Me siento supereleganten\0\0
+"103_02","(촀\0Me dijeron que con est2촀ea\0 }촀 parezco más maduro.\0\0(촀\0¿Eso quiere decir que ya no podré
+leer cómics, comer dulces y
+dormir siestas?n\0\0
+(촀\0Uf, entonces mejor me cambio
+ya mismo, n\0."
+"104","<"
+"104_01","(%촀\0Me siento supereleganten\0\0
 \0
 (5촀\02\02\0}촀 es siempre sinónimo de ""guapo""n\0\0\0\0(촀\0Espero no mancharme de 촀 o 촀n"
-"105","()촀\0Siempre que puedo,
+"104_02","(촀\0Yo no sé por qué mi mamá me
+manda ropa fina como est2촀ea\0 }촀.\0\0(촀\0Estoy todo el día pensando que l2촀oa\0
+voy a manchar de salsa o se me va
+a arrugar cuando duerma mi siestan\0\0\0\0(촀\0¡Así nadie puede comer tranquilo un
+buen plato de 촀, n\0!\0\0(%촀\0Creo que me l2촀oa\0 pondré solamente
+cuando vaya a visitarla."
+"105","<"
+"105_01","()촀\0Siempre que puedo,
 \0 me echo una
 siestecitan\0\0\0\0(%촀\0Y cualquier siestecita se disfruta
 muchísimo más vistiendo 2\0
@@ -122,7 +150,22 @@ muchísimo más vistiendo 2\0
 (촀\0No solo estoy muy cómodo,
 \0 también
 me siento deportivo y atlético."
-"106","(촀\0De ahora en adelante, me puedes
+"105_02","(촀\0¿Viste mi }촀?
+\0 ¡Hoy sí que empiezo a hacer ejercicio!\0\0( 촀\0Ah, pero antes tengo que terminar
+la película de ayer o me voy a olvidar
+de qué se trataba.
+(촀\0Y tendré que preparar algo para
+picar, claro.
+\0 No se puede ver una
+película sin unas papitas.
+(%촀\0Y seguro que dormiré una siesta
+después,
+\0 porque dicen que ayuda
+a la digestiónn\0\0\0\0(촀\0Buf, con todo lo que tengo que
+hacer hoy, mejor empiezo a hacer
+ejercicio mañana, n\0."
+"106","<"
+"106_01","(촀\0De ahora en adelante, me puedes
 llamar \0príncipe n
 \0\0￿.\0\0Queda perfecto con este nuevo
 estilazo que traigo.
@@ -134,6 +177,12 @@ algún trono?
 (5촀\0¡Tengo que descubrirlo!
 \0 Mientras
 tanto, puedes reverenciarme cuando me saludes."
+"106_02","(촀\0¿Estoy o no estoy elegante con est2촀ea\0
+}촀?
+\0 Es increíble, ¿no?\0\0(%촀\0Estoy practicando por si alguna vez
+me invitan a una fiesta ultraexclusiva,
+n\0.\0\0(9촀\0¿Qué?
+\0 ¿Podría pasar?"
 "201","(촀\0¡Mira, n\0!
 \0 Hoy me vestí (촀\0de gala,
 \0 je, je, jen\0\0\0\0(7촀\0Mi mamá dice que me veo guapo

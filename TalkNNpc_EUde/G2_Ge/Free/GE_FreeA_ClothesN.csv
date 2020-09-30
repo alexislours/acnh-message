@@ -128,7 +128,8 @@ stammt vonn\0\0 
 ()촀\02\0s\0촂 von s촀(%촀\0 hat das kreiert. 
 \0Zum Verlieben, 
 \0n\0!"
-"101","Hast du schon gesehen?!
+"101","<"
+"101_01","Hast du schon gesehen?!
 \0
 (촀\0MICH, 
 \0mein ich!\0\0(촀\02,촀Dieser
@@ -143,13 +144,32 @@ ist so süß, 
 (3촀\0Sobald ich mein eigenes Fashion-
 Label hab, 
 \0wird das voll mein Motto."
-"102","(""촀\0Du merkst SCHON, 
+"101_02","(촀\0Mich bringt nichts so sehr in Fahrt
+wie supersüße Klamotten. 
+\0So wie
+2,촀dieser
+diesedieses }촀!\0\0(촀\0Heute könnte ich ALLES erreichen!
+\0(
+(촀\0So lange es nichts ist, 
+\0wovon 2촀ersiees
+Falten bekommen könnte..."
+"102","<"
+"102_01","(""촀\0Du merkst SCHON, 
 \0wie cool 2,촀dieser
 diesedieses }촀 ist?! 
 \0(5촀\0Ich seh spitzenmäßig aus!\0\0(\0촀\0Ich könnte voll das Fashion-Model
 werden, 
 \0(촀\0mit so 'nem Hammerlook!"
-"103","2,촀Dieser
+"102_02","(촀\0Na, 
+\0schon mal so'n süßes Mädchen
+wie mich in so (촀\02""촀'nem'ner'nem coolen 2촂}촀 gesehn?\0\0()촀\0Das ist ja gerade das COOLE daran.
+\0
+(촀\0Mann, 
+\0dass man immer alles erklären
+muss, 
+\0n\0..."
+"103","<"
+"103_01","2,촀Dieser
 DieseDieses }촀?
 \0
 ((촀\0Damit wollte ich einfach mal einen
@@ -166,7 +186,20 @@ dann den Paparazzi, 
 \0die denken,
 dass SO 
 \0kein Popstar aussieht."
-"104","(5촀\0TADAAA!!!
+"103_02","(%촀\0Ich weiß, 
+\0was du denkst.
+\0 (촀\0„Warum?!
+\0
+Warum trägt n
+\0 2""촀
+eineneineein 2촁}촀?“\0\0(촀\0Normalerweise bin ich so schick!
+\0 So
+unglaublich trendy!
+\0( (촀\0Aber nun ja,
+\0
+auch ich muss mal durchatmen."
+"104","<"
+"104_01","(5촀\0TADAAA!!!
 \0
 Was hältst du von 2.촀diesemdieserdiesem
 2촂}촀?
@@ -175,7 +208,23 @@ Was hältst du von 2.촀diesemdieserdiesem
 \0
 (촀\0Vielleicht sollte ich statt Popstar
 doch lieber Fashion-Model werden..."
-"105","(촀\0Wahnsinn! 
+"104_02","(촀\0In 2.촀diesemdieserdiesem 2촂}촀 ziehe ich alle Augen auf mich.\0\0(촀\0Ooh! 
+\0Weißt du, 
+\0was 'ne grandiose
+Ergänzung wäre?
+\0 (촀\0Ein Scheinwerfer,
+\0
+der immer über mir schwebt!\0\0(촀\0Aber dann müsste ich einen
+Hubschrauber mieten, 
+\0und die
+sind ja nicht billig...
+\0
+(촀\0Hach, 
+\0warum muss Mode immer so
+kompliziert sein, 
+\0n\0?"
+"105","<"
+"105_01","(촀\0Wahnsinn! 
 \02,촀Dieser
 DieseDieses }촀 ist wie für mich gemacht!\0\0(""촀\0Normalerweise trag ich so was nur,
 \0
@@ -189,7 +238,18 @@ wenn ich tanzen übe, 
 ()촀\0Das Geheimnis, wie man Trendsetter
 wird? 
 \0(3촀\0Ignorier die Fashion-Regeln!"
-"106","((촀\0Seh ich wie eine Celebrity aus in
+"105_02","(촀\0Gah.
+\0 Ich hab's gestern mit 2$촀demderdem
+촀 übertrieben.\0\0(%촀\0Deshalb trag ich heute 2""촀
+eineneineein 2촁}촀. 
+\0Mein Körper soll denken, 
+\0ich mach Sport!\0\0(\0촀\0Und es funktioniert echt, 
+\0denn (.촀\0ich
+fühl mich schon voll geschlaucht,
+\0
+n\0."
+"106","<"
+"106_01","((촀\0Seh ich wie eine Celebrity aus in
 2.촀diesemdieserdiesem 2촂}촀?
 \0
 Ja oder... 
@@ -198,6 +258,18 @@ Ja oder... 
 ich Popstar bin,
 \0 (5촀\0muss ich mich mit
 erstklassigen Styles auskennen!"
+"106_02","Oh, 
+\0hallo n\0.
+\0
+(6촀\0Ob wir uns kennen?
+\0 Hihin\0\0 Ich bin's
+doch,
+\0 die n
+\0!\0\0(촀\0Ich wette, 
+\0du erkennst mich in 2.촀diesemdieserdiesem 2촂}촀 voll nicht wieder!\0\0(촀\0Wenn ich so nicht vom Fleck weg als
+Superpromi gescoutet werde, 
+\0dann
+weiß ich's auch nicht mehr!"
 "201","(촀\0Seh ich heut nicht aus wie Glitzer in
 der Tüte?
 \0 (\0촀\0Liegt an 2.촀diesemdieserdiesem super-

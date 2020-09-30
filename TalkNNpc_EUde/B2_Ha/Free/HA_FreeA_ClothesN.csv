@@ -116,13 +116,23 @@ heißt „⁠s촀⁠“.\0\0(%촀\0Hab gehört, 
 Training richtig schön beweglich,
 \0
 n\0!"
-"101","(%촀\02,촀Dieser
+"101","<"
+"101_01","(%촀\02,촀Dieser
 DieseDieses }촀
 macht ganz schön was her, 
 \0stimmt's?\0\0(촀\0Also das tut 2촀ersiees ganz objektiv
 gesehen, 
 \0da gibt's kein Vertun!"
-"102","(\0촀\0Wenn ich so was Cooles wie 2,촀diesen
+"101_02","($촀\0Und, 
+\0wie sehe ich aus?
+\0 Ich dachte,
+\0
+ich probier mal was Neues.\0\0(촀\0Kann nicht immer alles ohne Ärmel
+oder schweißabsorbierend sein.
+\0
+(촀\0Manchmal will man eben süß sein!"
+"102","<"
+"102_01","(\0촀\0Wenn ich so was Cooles wie 2,촀diesen
 diesedieses
 2촁}촀 trage,
 
@@ -132,19 +142,49 @@ diesedieses
 \0
 	\0Ich muss ja noch meine
 täglichen Liegestütze machen!"
-"103","(촀\02$촀Mein
+"102_02","(7촀\0Ich wollte mal nicht immer nur
+sportlich aussehen, sondern mal
+mehr Richtung cool. 
+\0(&촀\0Gefällt's dir?\0\0(%촀\0Ich muss nur gaaaanz vorsichtig sein.
+\0
+(촀\0Einmal die Muskeln zu sehr
+angespannt,
+\0 und dann steh ich da..."
+"103","<"
+"103_01","(촀\02$촀Mein
 MeineMein }촀
 ist etwas unscheinbar, 
 \0aber
 schlichte Klamotten sind hip!\0\0(%촀\0Und sie lenken nicht so sehr von
 meinen stahlharten Muskeln ab!"
-"104","(촀\0Na, 
+"103_02","(촀\0Ja,
+\0 ich weiß.
+\0 (2촀\0Mir ist klar, 
+\0dass dieses
+Outfit etwas schlicht ist.\0\0()촀\0So lasse ich meine Muskeln für mich
+sprechen.
+\0 (5촀\0Und sie sprechen laut und
+deutlich, 
+\0n\0!"
+"104","<"
+"104_01","(촀\0Na, 
 \0wie stehen mir diese Klamotten?\0\0(7촀\0Hehe, 
 \0damit könnte ich zur nächsten
 großen Touristenattraktion werden,
 
 \0n\0!"
-"105","(촀\0Wenn diese Klamotten nicht perfekt
+"104_02","(6촀\0Meine Klamotten machen ordentlich
+was her,
+\0 was?
+\0(촀\0 Ich finde, 
+\0die passen
+zu mir.\0\0('촀\0Obwohl. 
+\0Keine Kleidung der Welt
+kann (촀\0mit meinem Luxuskörper
+mithalten, 
+\0n\0!"
+"105","<"
+"105_01","(촀\0Wenn diese Klamotten nicht perfekt
 für sportliche Typen wie mich sind,
 
 \0dann weiß ich auch nicht.\0\0(5촀\0Die halten was aus, 
@@ -152,13 +192,30 @@ für sportliche Typen wie mich sind,
 sie bei meinem Trainingsprogramm
 ja auch, 
 \0n\0!"
-"106","(5촀\0In diesem Aufzug könnte ich
+"105_02","(&촀\0Wie sehe ich heute aus? 
+\0((촀\0Sportlich
+wie immer,
+\0 oder SPORTLICHER?\0\0(촀\0Klar,
+\0 Klamotten allein machen nicht
+stärker oder schneller.
+\0 (촀\0Außer diesen
+hier, 
+\0n\0!"
+"106","<"
+"106_01","(5촀\0In diesem Aufzug könnte ich
 mich bei einer Sportgala sehen
 lassen, 
 \0was?\0\0(%촀\0Und zumindest den Preis für den
 elegantesten Look würde ich damit
 definitiv abräumen, 
 \0n\0..."
+"106_02","(6촀\0Fällt dir was auf?
+\0 (촀\0Ich hab mich mal
+fein gemacht, 
+\0n\0!\0\0(2촀\0Ich musste die Muskeln ein bisschen
+reinzwängen,
+\0 (촀\0also bring mich lieber
+nicht zum Lachen."
 "201","($촀\0Hey ho!
 \0 Was hältst du von 2.촀diesemdieserdiesem
 2촂}촀?\0\0()촀\0Ist voll atmungsaktiv und so.

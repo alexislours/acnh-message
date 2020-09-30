@@ -142,38 +142,83 @@ fashion,
 catching cold,
 \0
 \0 n\0!"
-"016","Aw,
+"016","<"
+"016_01","Aw,
 \0 (촀\0your }촀
 is adorable!\0\0(촀\0Just like you,
 \0 n\0."
-"017","You look like a trendsetter
+"016_02","(촀\0Oh, I think that's adorable. Your
+}촀, I mean.\0\0(4촀\0I can hardly stand it.
+\0 So cute.
+Really, n\0.\0\0(촀\0We could all take a page from
+your book, n\0."
+"017","<"
+"017_01","You look like a trendsetter
 \0 in your
 }촀.\0\0What's it like to be so cool and
 self-assured,
 \0 n\0?"
-"018","(촀\0I just love the effortless look of your
+"017_02","(4촀\0You look really great, wearing your
+}촀.\0\0I'm so impressed. Not everyone can
+pull that off, n\0.\0\0(""촀\0I'm going to turn into your biggest
+fan if you don't stop that sort
+of thing, n\0."
+"018","<"
+"018_01","(촀\0I just love the effortless look of your
 }촀!\0\0(촀\0I didn't mean to imply you put no
 effort into your style,
 \0 n\0.
 \0(
 (촀\0You just wear the basics well!"
-"019","(촀\0Look at you,
+"018_02","($촀\0What you're wearing today really
+speaks volumes to me. I mean your
+}촀.\0\0The nicest gifts come in the
+simplest wrapping.
+\0 (""촀\0And what a gift
+it is to know you, n\0.(촀"
+"019","<"
+"019_01","(촀\0Look at you,
 \0 all glamorous in your
 }촀!\0\0(4촀\0I'm nowhere near posh enough to be
 in your entourage,
 \0 n\0."
-"020","(촀\0You look ready for a workout
+"019_02","($촀\0How do you wear that style so
+well?
+\0 Of course, I'm talking about
+your }촀.\0\0I think I've figured it out.
+\0(""촀\0 Are you
+really a celebrity hiding away
+on our island, n\0?\0\0(7촀\0What I wouldn't give to have the
+kind of confidence to go out of the
+house wearing that, n\0."
+"020","<"
+"020_01","(촀\0You look ready for a workout
 \0 in your
 }촀!\0\0(촀\0I should probably be getting more
 exercise myself,
 \0 n\0
 \0n"
-"021","( 촀\0Did I just wander onto a red carpet?
+"020_02","Wow.
+\0 ($촀\0You're like a force of
+nature, walking around in your
+}촀.\0\0(""촀\0You'd be a ray of sunshine on the
+cloudiest of days, n\0!"
+"021","<"
+"021_01","( 촀\0Did I just wander onto a red carpet?
 \0(
 (촀\0Because I see you're wearing your
 }촀.
 (2촀\0I feel so underdressed,
 \0 n\0!"
+"021_02","(&촀\0How do you do it?
+\0 It's like you've
+always known your way around a
+wardrobe, n\0.\0\0(촀\0I mean, really.
+\0 How do you make your
+}촀 work?\0\0(촀\0You inspire me to try something
+like that sometime!
+\0 Until then, I'll
+admire your style, n\0."
 "101","<"
 "101_01","(촀\0You must love wearing that.
 \0
@@ -284,6 +329,30 @@ traditional styles like this too.
 (촀\0I love how fashion can take
 something old and make it feel
 totally new, n\0."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Wow. 
+\0((촀\0I love your outfit today. Did
+you make it yourself?
+\0 It has the
+nicest, handmade look.
+($촀\0Custom garments are made with so
+much love.
+\0( (촀\0And who wouldn't want
+more of that, n\0?"
+"216","( 촀\0Oh, look at you! You're wearing
+Dodo Airlines clothing.\0\0(7촀\0I keep my collectibles in storage.
+\0
+(촀\0But I admire how you just wear
+them for all to enjoy, n\0!"
+"217","( 촀\0Oh!
+\0 You're wearing a costume,
+\0 right?\0\0(촀\0I love what you've chosen. It's
+making today extra-specially neat.\0\0()촀\0Outfits like that really want to
+be out and about every day of the
+year.
+\0 Right, n\0?(촀"
 "251","So, I'm curiousn\0\0 
 \0(&촀\0What, 
 \0or who,
@@ -313,6 +382,52 @@ inspired outfits in your closet too.\0\0(촀\0If not, I'd be happy to make 
 one. 
 \0Or five. 
 \0(촀\0Think about it!"
+"255","(;촀\0Y-your outfit today!
+\0 I can't believe
+it, n\0.\0\0(촀\0Sorry, I just mean it's cute.
+\0( (촀\0And
+it's special to me that you
+dressed that way.\0\0(촀\0You could almost come to one of
+my family reunions. They would
+love you, n\0!"
+"256","( 촀\0Wown\0\0look at you today,
+n\0.\0\0(""촀\0Sorry, I didn't expect you to show
+up as a rabbit. You're so cute.\0\0(1촀\0Who wouldn't want fuzzy ears like
+that now and then? I know that
+I would, n\0."
+"257","( 촀\0Wait.
+\0 Are youn\0\0 You are!\0\0(촀\0You're a bear today! And I'm a
+bear every day!\0\0(9촀\0Hold on.
+\0 If In\0\0squint for a secondn\0\0
+you almost look like family.\0\0(2촀\0Well, I know you're not. But it's fun
+to imagine it, n\0."
+"258","(촀\0Oh!
+\0 Did you known\0\0 Of course you
+do, n\0.\0\0(""촀\0You're a bear today!
+\0 I like it.
+Some of the bears I know are so
+cuddly, n\0.\0\0Not all, of course.
+\0 ($촀\0But I really
+appreciate those that are,
+\0
+don't you?"
+"259","($촀\0(촀\0You're a sheep!\0\0(9촀\0I mean, dressed as a sheep.
+\0
+Sorry, it was just startling. In a
+good way!\0\0()촀\0You'll find that wool is great
+year-round.
+\0 Warm in the winter.
+\0
+Breathable in the summer.\0\0Sorry againn\0\0 I was just so happy to
+see you like this, n\0."
+"260","( 촀\0Oh! You've gone out as a sheep
+today, n\0!\0\0(""촀\0Sorry, I think you look cute.
+\0
+It's like those curly horns were
+made for you.\0\0(4촀\0But you can make any outfit
+work, can't you?
+\0 You're a real
+inspiration, n\0."
 "301","(촀\0Wow!
 \0(촀\0 In that outfit,
 \0 you look like you
@@ -367,6 +482,27 @@ on a grand voyagen\0\0
 \0(1촀\0perhaps to
 unknown corners of the worldn\0\0
 (""촀\0Send me a postcard, OK?"
+"307","(촀\0Oh, you really do look perfect in
+that doctor's outfit. So much
+respect, n\0!\0\0( 촀\0Waitn\0\0 I had a headachen\0\0and now
+it's gone.
+\0 Did you do that?
+\0 (""촀\0Even
+more respect, n\0."
+"308","($촀\0Oh!
+\0 I hope I'm not interrupting
+you in the middle of training.\0\0(4촀\0Those clothes look so comfy.
+\0 I bet
+they'd be excellent for a reading
+marathon, n\0."
+"309","(촀\0Oh! You must be the famous
+Detective 2\0n\0!\0\0(촀\0Tell me! Tell me!
+\0 Have you cracked
+the case yet, Detective?\0\0(\0촀\0If notn\0\0((촀\0you will if you take ME on
+as your assistant!
+\0( Sorry,
+\0 (""촀\0I couldn't
+resist showing offn\0\0a little."
 "401","<"
 "401_01","(촀\0Every time I see you in that outfit,
 I'm impressed, n\0.\0\0(&촀\0Do you believe that clothes are what
@@ -385,3 +521,18 @@ as I did then, n\0."
 "401_03","(촀\0Leave it to you to make consistency
 fashionable, n\0.\0\0(촀\0I've always been a fan of your
 trademark look, n\0."
+"501","<"
+"501_01","($촀\0Your face is a real work of art
+today, n\0.\0\0(%촀\0I'm always happy to see you, but
+who knew I'd be saying hi to a
+masterpiece, n\0?"
+"501_02","($촀\0You have such a talent for using
+makeup, n\0.\0\0(&촀\0It isn\0\0fascinatingn\0\0how makeup
+can be used in so many different
+ways, n\0."
+"501_03","($촀\0I think the way you're using that
+makeup might just start a neat
+trend, n\0.\0\0I notice these things,
+\0 (2촀\0or maybe it's
+just that I notice neat folks like
+you, n\0."

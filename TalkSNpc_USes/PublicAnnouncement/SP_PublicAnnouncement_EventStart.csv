@@ -55,6 +55,26 @@ sigue en marcha.
 "FishingStart_06","d\0¡Escuchen todos!
 \0 ¡Les recuerdo que el \0T. de Pesca de invierno \0￿ha comenzado!d
 ´"
+"HalloweenStart","d\0¡Hola, hola!
+\0 Preparen los disfraces,
+que ya comenzó el evento de
+\0Halloween\0￿, ¡sí, sí!d
+´"
+"HalloweenStart_00","d\0¡Hola, hola!
+\0 El evento de \0Halloween\0￿
+ya está en marcha y hay quien ya
+se ha llevado más de un susto.d
+´"
+"HalloweenStart_01","d\0¡Hola a todos!
+\0 ¡Ya comenzó el
+evento de \0Halloween\0￿!d
+´"
+"HalloweenStart_02","d\0¡Hola a todos!
+\0 El evento de
+\0Halloween \0￿ya está en marcha.
+\0
+¡No se lo pueden perder!d
+´"
 "InsectStart","d\0¡Escuchen todos!
 \0 ¡La \0Caza de Insectos \0￿ha comenzado!d
 ´"

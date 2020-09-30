@@ -156,7 +156,8 @@ Nase ab...
 \0( (9촀\0Pass auf, dass du dir
 nichts holst, 
 \0n\0!"
-"016","( 촀\0Moment mal! 
+"016","<"
+"016_01","( 촀\0Moment mal! 
 \0Trägste da wirklich
 2""촀
 eineneineein 2촁}촀?\0\0(7촀\0Nu ja, 
@@ -164,7 +165,14 @@ eineneineein 2촁}촀?\0\0(7촀\0Nu ja, 
 butterblumig aus, wie man denken
 könnte, 
 \0n\0."
-"017","(;촀\0Uiuiui! 
+"016_02","(7촀\0Ui, 
+\0siehste in 2촀demderdem 2촂}촀 süß und niedlich aus!\0\0(촀\0Wär nix für mich, 
+\0aber bei dir passt
+es.
+\0 (촀\0Respekt,
+\0 n\0."
+"017","<"
+"017_01","(;촀\0Uiuiui! 
 \0Das Teil is' ja verhärtet!
 \0
 „}촀“ heißt das?
@@ -173,7 +181,14 @@ könnte, 
 \0
 aber in Sachen Klamotten kannst DU
 mir vielleicht noch was beibringen!"
-"018","2\02\0}촀n\0\0
+"017_02","(촀\0D2\0}촀
+is' ja mal endcool!\0\0(6촀\0Ich wusste ja, 
+\0dass du stylish bistn\0\0
+\0
+(;촀\0aber das!
+\0 Einfach n\0!"
+"018","<"
+"018_01","2\02\0}촀n\0\0
 \0
 ($촀\0Ziemlich schlicht, 
 \0aber das muss ja
@@ -182,7 +197,17 @@ nix Verkehrtes sein.\0\0(%촀\0Ich säh damit zu harmlos aus,
 bei dir passt's eigentlich ganz gut,
 
 \0n\0."
-"019","(촀\0D2\0}촀n\0\0
+"018_02","(6촀\0Gefällt mir ja ganz gut,
+
+\0d2\0}촀.
+
+\0Kein unnötiger Firlefanz.\0\0(%촀\0Philosophisch gesehen is' so was
+meine Lieblingsmode. 
+\0(촀\0Praktisch
+gesehen nich' immer, 
+\0n\0."
+"019","<"
+"019_01","(촀\0D2\0}촀n\0\0
 \0
 (촀\0Das Ding verprügelt einem ja richtig
 die Synapsen!\0\0(;촀\0Willst wohl einen auf Promi machen,
@@ -191,7 +216,14 @@ die Synapsen!\0\0(;촀\0Willst wohl einen auf Promi machen,
 \0( (촀\0Wär mir persönlich zu
 abgehoben, 
 \0aber passt schon."
-"020","(촀\0Hey, n\0! 
+"019_02","(촀\0D2\0}촀
+macht ja keine Gefangenen,
+
+\0n\0!\0\0(%촀\0In puncto Glamour haste heute alle
+ausgestochen, 
+\0(촀\0so viel steht fest."
+"020","<"
+"020_01","(촀\0Hey, n\0! 
 \0Siehst ja richtig beweglich aus in 2.촀deinemdeinerdeinem 2촂}촀!\0\0(촀\0Schon praktisch, 
 \0solche Klamotten.
 \0(
@@ -199,7 +231,17 @@ abgehoben, 
 \0is' man damit
 zickzack um die Ecke, 
 \0n\0!"
-"021","(촀\0Stopp, 
+"020_02","(3촀\0Du siehst aus, 
+\0als könntest du es mit
+der ganzen Welt aufnehmen!
+\0 (%촀\0Liegt
+2촀aman deram 2촂}촀!\0\0(\0촀\0Tja, 
+\0gegen 'nen Planeten anzutreten
+wird sicher ganz schön schweiß-
+treibend,
+\0 (촀\0also trink genug Wasser."
+"021","<"
+"021_01","(촀\0Stopp, 
 \0halt, 
 \0ich brech zusammen!
 \0
@@ -209,6 +251,16 @@ aufkreuze, 
 \0(촀\0würden nur alle fragen,
 ob wir Karneval haben. 
 \0Gahaha!"
+"021_02","(;촀\0Dickes Sorry, 
+\0dass ich d2""촀
+eineneineein
+2촁}촀 so
+anstarre, 
+\0n\0...\0\0(\0촀\0Sieht auf jeden Fall übelst edel aus.
+\0
+(촀\0Sag Bescheid, 
+\0falls du 'nen
+Leibwächter brauchst!"
 "101","<"
 "101_01","(6촀\0Du findest dein Outfit echt
 verschärft,
@@ -305,6 +357,34 @@ Einerseits ganz simpel, 
 \0andererseits
 voll edel, 
 \0n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(\0촀\0Schnuckeliges Outfit!
+\0 Selbst
+gemacht?
+\0( (촀\0Wie cool! 
+\0Das schau
+ich mir näher an,
+\0 n\0!\0\0(6촀\0Gefallen mir echt voll gut, die
+Klamotten.
+\0 Wer die gemacht hat,
+\0
+ist bestimmt voll cool."
+"216","(\0촀\0Ich hab's ja eigentlich nicht so mit
+Markenklamotten,
+\0 wenn nicht gerade
+der Name von 'ner Band draufsteht.\0\0(6촀\0Aber dein Outfit von Dodo Airlines
+fetzt!
+\0 (촀\0Wär auch 'n cooles Logo für
+'ne Band,
+\0 n\0!"
+"217","(촀\0Gefällt mir, 
+\0das Outfit. 
+\0So 'ne
+derbe Gruseloptik is' mal was
+erfrischend anderes,
+\0 n\0."
 "251","(;촀\0Wie läufst du denn rum?
 \0 Willste dich
 damit etwa bei mir einschnurren?
@@ -330,6 +410,45 @@ verwechselt, 
 \0Dein
 Frosch-Outfit (%촀\0sieht ECHT 
 \0echt aus!"
+"255","(촀\0Also, 
+\0wenn du mich mit dem Hasen-
+Outfit beeindrucken wolltestn\0\0
+\0 (촀\0Dann
+hat das voll geklappt,
+\0 n\0!"
+"256","(촀\0Coole Ohren. 
+\0Tuste mir 'nen
+Gefallen,
+\0 n\0?\0\0(3촀\0Ich brauche neue Ideen für Streiche.
+\0
+Falls die Ohren funktionieren und du
+was aufschnappst,
+\0 sag Bescheid,
+\0 ja?"
+"257","(%촀\0Bär zu sein ist schon toll,
+\0 oder?\0\0(촀\0Am besten gefällt mir,
+\0 dass ein
+halbes Jahr lang keiner erwartet,
+\0
+dass man früh aufsteht!
+\0 Der Hammer!"
+"258","(4촀\0Ich wollte nix sagen, abern\0\0
+\0 (%촀\0Ich find
+dich auch so bärig. 
+\0Du musst dich
+nicht wie ein Bär anziehen."
+"259","(6촀\0Nur unter uns Schafen,
+\0 ich bin froh,
+\0
+dass ich Teil der Herde von
+n\0 sein kann."
+"260","(%촀\0Voll fluffig siehste aus,
+\0
+n\0.\0\0(\0촀\0Im Ernst,
+\0 du siehst wie 'n großes,
+flauschiges Kissen aus.
+\0 (.촀\0Da könnte
+man glatt 'ne Runde pennenn"
 "301","(8촀\0Das klingt jetzt sicher fett unhöflich,
 \0
 abern\0\0
@@ -384,9 +503,37 @@ Erinnert mich dezent an eine von
 meinen Lieblingsbands von früher.\0\0(촀\0Die hatten immer riesige Dampf-
 maschinen auf der Bühne, 
 \0man
-konnte kaum was erkennen.\0\0(촀\0Seitedem die sich aufgelöst haben,
+konnte kaum was erkennen.\0\0(촀\0Seitdem die sich aufgelöst haben,
 \0
 is' 촀 im Steampunk-Style leider nich' mehr dasselbe..."
+"307","(촀\0Oh yeah! 
+\0Kommt richtig gut,
+\0 2$촀dein
+deinedein
+}\0\0. 
+\0Love it!\0\0(촀\0Steht dir total.
+\0 Du siehst so voll
+entspannt aus,
+\0 n\0!"
+"308","(&촀\0Hast du demnächst ein Wrestling-
+Match,
+\0 n\0?\0\0(6촀\0Das wird schon.
+\0 Du läufst so viel
+hier herum,
+\0 (촀\0du kannst dem Gegner
+ausweichen,
+\0 bis er einfach umkippt."
+"309","(;촀\0Der. 
+\0Absolute. 
+\0Hammer!
+\0 Und 2촀derdiedas
+}\0\0?
+\0 (촀\0Wow!\0\0()촀\0Hart. 
+\0Stylish. 
+\0Erste Sahne!
+\0 (촀\0Absolut
+astreiner Look,
+\0 n\0!"
 "401","<"
 "401_01","(&촀\0Ist das dein neues Lieblings-Outfit?
 \0
@@ -412,3 +559,36 @@ Nieten hinzufügen!"
 geht das bald ($촀\0als offizielles n\0-Kostüm durch.\0\0(촀\0Nachher wirste noch berühmt damit,
 \0
 n\0!"
+"501","<"
+"501_01","(;촀\0Was is' mit deinem Gesicht passiert?
+\0(
+($촀\0Wahrscheinlich die neuste Mode, 
+\0und
+nur ich hab's nich' mitgekriegt, 
+\0hm?
+(%촀\0Passt aber eigentlich ganz gut zu dir.
+\0(
+(7촀\0Bei mir würd's nach Krätze aussehen,
+\0
+wenn ich das nachmachen tätn"
+"501_02","(촀\0
+\0Ha! 
+\0Dein Gesicht erinnert mich voll
+an 'ne Coverband, bei der ich mal
+mitgemacht habn\0\0 
+\0einen Tag lang.\0\0(2촀\0Wir hatten uns für unsere erste Show
+perfekt zurechtgemacht,
+\0 aber dann
+haben wir uns zerstrittenn\0\0
+(촀\0Mitten auf der Bühne. 
+\0Noch beim
+ersten Lied, 
+\0n\0!"
+"501_03","(\0촀\0Deine neue Visage gefällt mir.
+\0 (""촀\0Voll
+cool, 
+\0n\0!\0\0(&촀\0Haste dich für irgend 'nen
+bestimmten Anlass so rausgeputzt?
+\0
+(촀\0Wenn ja, 
+\0wirste die Hütte rocken!"

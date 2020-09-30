@@ -168,7 +168,7 @@ le informazioni sulla destinazione a
 causa di un errore di comunicazione."
 "0806_a","Indietro"
 "0810","Vuoi provare di nuovo
-a connetterti a Internet?"
+a collegarti a Internet?"
 "0810_a","Lascia stare"
 "0810_b","Riproviamo"
 "0820","Non è stato possibile inviare i dati del
@@ -204,6 +204,12 @@ delle case, modelli personalizzati,
 messaggi della bacheca degli
 annunci e altro.\0￿"
 "0831_a","Ho capito"
+"0841","Vuoi davvero rimuovere il sogno
+di \0\0s촀\0￿ dalla lista?"
+"0841_a","No"
+"0841_b","Sì"
+"0842","Non puoi rimuovere dalla lista
+i sogni preferiti."
 "0921","Puoi pubblicare fino a due
 annunci durante una visita."
 "0921_a","OK"
@@ -762,7 +768,7 @@ la tua lista adesso?"
 "1433_b","Aggiorna"
 "1450","È necessaria una connessione a
 Internet per usare questa funzione.
-Vuoi connetterti a Internet?"
+Vuoi collegarti a Internet?"
 "1450_a","No"
 "1450_b","Connettiti"
 "1451","Vuoi attivare questa funzione di
@@ -788,6 +794,11 @@ perché la connessione di rete si è
 interrotta. Riattiva la connessione
 e prova di nuovo."
 "1456_a","Indietro"
+"1457","Per usare l'app Contatti,
+devi collegarti a Internet.
+Vuoi collegarti ora?"
+"1457_a","No"
+"1457_b","Sì"
 "1501","Vuoi davvero perdere tutte
 le modifiche che hai effettuato?"
 "1501_a","No"
@@ -877,7 +888,7 @@ sgabuzzino per questo acquisto."
 ciò che hai scelto?"
 "2005_a","('촁\0No, grazie"
 "2005_b","(%촁\0Oh, sì!"
-"2101","Vuoi connetterti a Internet
+"2101","Vuoi collegarti a Internet
 e scaricare un modello
 personalizzato realizzato per
 i giochi per Nintendo 3DS?"
@@ -1154,6 +1165,14 @@ degli articoli avverrà per posta.\0￿"
 Nook Inc. Permette di nuotare e
 immergersi liberamente nell'oceano.
 \0\0L'invio dell'articolo avverrà per posta.\0￿"
+"3022","Usa uno \0specchio\0￿ o una \0toletta \0￿per
+sperimentare con il body painting!
+\0\0Riceverai la stampa subito dopo
+aver scambiato miglia.\0￿"
+"3023","Usa uno \0specchio\0￿ o una \0toletta \0￿per
+sperimentare con lenti a contatto
+di nuovi colori! \0\0Riceverai la stampa
+subito dopo aver scambiato miglia.\0￿"
 "5001","\0Fotocamera\0￿
 Ti permette di scattare delle foto
 e applicarvi vari filtri ed effetti.\0\0\0\0Le immagini saranno salvate
@@ -1605,35 +1624,35 @@ e cancellare i dati di quel residente."
 il software dal menu HOME."
 "8014","L'account Nintendo registrato
 per questo utente è cambiato.\0\0Se ricominci a giocare, qualsiasi
-funzionalità che richiede l'uso di
-Internet (tra cui la lista dei migliori
-amici) verrà riportata allo stato iniziale.\0\0Vuoi davvero ricominciare a giocare
+funzione che richiede l'uso di
+Internet (come ad esempio l'app
+Contatti) verrà resettata.\0\0Vuoi davvero ricominciare a giocare
 come \0s\0촀\0￿?"
 "8014_a","Non saprei"
 "8014_b","Sì"
 "8015","Questo utente non ha un
 account Nintendo registrato.\0\0Se ricominci a giocare, qualsiasi
-funzionalità che richiede l'uso di
-Internet (tra cui la lista dei migliori
-amici) verrà riportata allo stato iniziale.\0\0Vuoi davvero ricominciare a giocare
+funzione che richiede l'uso di
+Internet (come ad esempio l'app
+Contatti) verrà resettata.\0\0Vuoi davvero ricominciare a giocare
 come \0s\0촀\0￿?"
 "8015_a","Non saprei"
 "8015_b","Sì"
 "8016","L'account Nintendo registrato
 per questo utente è cambiato.\0\0Se ricominci a giocare, qualsiasi
-funzionalità che richiede l'uso di
-Internet (tra cui la lista dei migliori
-amici) verrà riportata allo stato iniziale.\0\0Vuoi ricominciare a giocare?"
+funzione che richiede l'uso di
+Internet (come ad esempio l'app
+Contatti) verrà resettata.\0\0Vuoi ricominciare a giocare?"
 "8016_a","No"
 "8016_b","Sì"
 "8017","La registrazione di questo utente
 a un account Nintendo valido deve
 essere verificata tramite Internet.\0\0In caso contrario, se inizi a giocare,
-qualsiasi funzionalità che richieda l'uso
-di Internet (tra cui la lista dei migliori
-amici) verrà riportata allo stato iniziale.\0\0Vuoi riportare allo stato iniziale tutte
-le funzionalità che richiedono l'uso
-di Internet e iniziare a giocare?"
+qualsiasi funzione che richiede l'uso
+di Internet (come ad esempio l'app
+Contatti) verrà resettata.\0\0Vuoi resettare tutte le funzioni che
+richiedono l'uso di Internet e iniziare
+a giocare?"
 "8017_a","No"
 "8017_b","Sì"
 "8018","La registrazione di questo utente

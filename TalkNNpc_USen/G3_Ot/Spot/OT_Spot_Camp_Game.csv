@@ -32,17 +32,18 @@ feel like playing, do let me know."
 \0 really welln"
 "005","(9촀\0Next, let's check your answer."
 "006_01","(6촀\0Well, well! 
-\0It seems you're quite
-good at this.
-\0 And, as promised, my
-}\0\0 is yours.
+\0It seems you're quite good
+at this.
+\0 And, as promised, 
+\0you've won
+my }\0\0.
 (촀\0Here you go, n\0(촀\0."
 "006_02","(촀\0Hmmn\0\0I had no idea you were so
-good at this, n\0.\0\0Well,(촀\0 since you won, here is my
+good at this, n\0.\0\0Well,(촀\0 since you won, I'll give you my
 \0
 }\0\0,
-\0
-just as I promised."
+\0 just as
+I promised."
 "006_03","(촀\0My goodness! I win this round!
 \0(
 I'm sorry,
@@ -81,8 +82,8 @@ Well,
 (""촀\0Then it is up to you to guess
 which type of card it is.
 (\0촀\0If you guess correctly,
-\0(""촀\0 then my
-}\0\0 is yours.
+\0(""촀\0 then you get
+my }\0\0.
 \0(
 (촀\0Simple enough, yes?
 (<촀\0You look like you're ready for some

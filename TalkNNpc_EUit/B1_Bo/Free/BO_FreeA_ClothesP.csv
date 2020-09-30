@@ -135,40 +135,73 @@ così? 
 \0ho capiton\0\0 
 \0Hai appena
 mangiato piccante, n\0!"
-"016","(촀\0Ti sta troppo bene 2""촀questoquesta\0 }촀!\0\0(촀\0Adoro questo stile grazioson\0\0
+"016","<"
+"016_01","(촀\0Ti sta troppo bene 2""촀questoquesta\0 }촀!\0\0(촀\0Adoro questo stile grazioson\0\0
 \0
 (2촀\0È grazioso un po' come me,
 n\0!"
-"017","(;촀\0Uau, n\0, 
+"016_02","(촀\0Cosa stai indossando?
+\0 2\02\0}촀?\0\0(2촀\0Quando ti guardo,
+\0 sento il pancino in subbuglion\0\0
+\0 (촀\0Sarà ora di riempirlo di nuovo di 촀!"
+"017","<"
+"017_01","(;촀\0Uau, n\0, 
 \0che figurino!
 \0 (촀\0È 2\0}촀, giusto?\0\0(촀\0I capi così hanno un aspetto
 talmente bello da farti venire
 l'acquolina in boccan"
-"018","(촀\02""촀Il tuoLa tua\0 }촀 mi sembra davvero 2""촀miticomitica\0!\0\0(&촀\0Ma dimmi,
+"017_02","(&촀\0Mmmh? 
+\0Anche se indossi 2""촀il tuola tua\0 }촀,
+\0 non mi sento piùn\0\0
+\0 coraggioso del solito.\0\0()촀\0
+\0Sembra che funzioni con te,
+\0 ma lo
+stile spavaldo non fa per me.
+\0 Torno
+allo stile spuntino, n\0!"
+"018","<"
+"018_01","(촀\02""촀Il tuoLa tua\0 }촀 mi sembra davvero 2""촀miticomitica\0!\0\0(&촀\0Ma dimmi,
 \0 è da tanto che 2촀lola\0 porti
 oggi, n\0?\0\0(촀\0Le cose che porto io finiscono
 sempre per assomigliare a un
 tovagliolo dopo una cena in famiglia!"
-"019","(촀\0Uau, 2\0autentic2촀oa\0 }촀?\0\0(촀\0Caspitina,
+"018_02","(촀\02\02""촀questoquesta\0 }촀 è mitic2촀oa\0!\0\0(""촀\0Sei così avanti nella moda che le
+cose all'ultimo grido per te sono già
+al penultimo grido, n\0!"
+"019","<"
+"019_01","(촀\0Uau, 2\0autentic2촀oa\0 }촀?\0\0(촀\0Caspitina,
 \0 se ti sei mess2oa tutt2oa in
 ghingheri solo per me,
 \0 non serviva!
 \0
 (촀\0A me non devi dimostrare nulla."
-"020","(%촀\0Fai benissimo a portare 2\0}촀.
+"019_02","(촀\0Se cerchi ""super fantastic2oa"" sul dizionario,
+\0 trovi una tua foto con 2\0}촀!\0\0(7촀\0Ma forse sto solo sognando di nuovo un fumetto a occhi aperti, n\0."
+"020","<"
+"020_01","(%촀\0Fai benissimo a portare 2\0}촀.
 \0 ()촀\0Oltre a starti bene,
 \0 mi ispira a fare del moto!\0\0($촀\0In direzione del frigorifero,
 \0 per la
 precisione.
 \0 Scappo per conservare
 le forze, n\0!"
-"021","(촀\02\02\0}촀?
+"020_02","(촀\02\02""촀questoquesta\0 }촀 ti sta bene come il suo costume a 2:un supereroeuna supereroina!\0\0()촀\0Per chi è sempre in attività come te,
+\0 è il massimo. 
+\0(""촀\0Io mi intendo solo di vestiario da divano,
+\0 ma credimi pure!"
+"021","<"
+"021_01","(촀\02\02\0}촀?
 
 \0Uau, n\0!\0\0('촀\0Non so come tu faccia ad andare in
 giro così elegante.
 \0 (촀\0Non è faticoso?
 \0 Io
 patirei la fame per non macchiarmin"
+"021_02","(촀\0Ehi,
+\0 dove te ne vai di bello con 2V촀&quell'elegantissimo&quell'elegantissima\0 }촀?\0\0(4촀\0Secondo me ti sta bene tutto,
+\0 ma
+questo look sarà difficile da battere,
+n\0."
 "101","<"
 "101_01","(촀\0Ti piace molto vestirti così, 
 \0vero, 
@@ -281,6 +314,31 @@ in quest'occasione, ti spiace?
 (촀\0Ecco, hai un look veramente
 \0
 aristocratico!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Ma quei vestiti sono fatti a mano?
+\0
+(촀\0Chi li ha confezionati deve volerti
+proprio tanto bene!
+(촀\0Io non porto spesso i vestiti cuciti
+dalla mia mamma. 
+\0(촀\0Perché non voglio
+che ci cadano le briciole sopra!"
+"216","(촀\0
+\0Ehi!
+\0 Ma ti ricoprono così tanto
+di regali,
+\0 quando voli spesso
+con la Dodo Airlines?!\0\0(촀\0Non sapevo che la roba griffata DAL
+fosse disponibile anche per i non
+dipendenti. (촀\0
+\0(Imparo sempre qualcosa!"
+"217","(촀\0Sembra che ti stai divertendo.
+\0
+E che costume!\0\0(6촀\0Scommetto che, se ti vestissi così
+per Halloween, riceveresti sacchi
+interi di dolcetti, n\0."
 "251","(촀\0Uau, 
 \0ma guarda! 
 \0Siamo in perfetta
@@ -311,6 +369,38 @@ lingua una mosca che ronza.
 mi stupirei. 
 \0(촀\0O forse, più che altro,
 ti invidierei."
+"255","(""촀\0Troppo forti i tuoi vestiti!\0\0(%촀\0Orecchie: ci sono. 
+\0Coda: c'è. 
+\0(촀\0Mitico!
+\0
+Benvenut2oa nel club dei coniglietti,
+n\0!"
+"256","(촀\0Oggi vai di stile conigliesco, eh?
+\0(
+(촀\0Quando io scelgo questo look,
+\0 sento
+il bisogno di strafogarmi di carote!
+(7촀\0Non mi piacciono tanto,
+\0 ma tra
+i vestiti e le raccomandazioni della
+mamma sulle verduren\0\0
+\0 sgranocchio."
+"257","( 촀\0Caspitina! E chi lo avrebbe detto che
+il look da ors2oa ti sarebbe calzato così
+a pennello, n\0n\0\0\0\0()촀\0Se andiamo a fare una passeggiata
+assieme,
+\0(2촀\0 scommetto che ci
+scambiano per gemelli!"
+"258","(촀\0Oggi emani proprio delle vibrazioni
+orsine belle toste!\0\0(""촀\0Che ne dici di andare in cerca di
+miele con me, n\0?"
+"259","(촀\02\02\0}\0\0 dona più a te che a me, devo essere sincero!\0\0(%촀\0Il segreto devono essere le corna!"
+"260","(촀\0Come sei ""lanos2oa"" con addosso
+\0
+2\0}\0\0!\0\0(%촀\0Hai davvero l'aspetto di un grosso
+letto morbidoso. 
+\0(.촀\0Mi fai quasi venire
+un po' di sonnon"
 "301","(촀\0Caspitinan\0\0
 \0( (촀\0Non posso crederci,
 
@@ -352,6 +442,32 @@ rispostan"
 (촀\0Ri-ooops! 
 \0Ho dimenticato il ""reale"",
 n\0. (촀\0Rifaccio tutto da capo!"
+"307","( 촀\0Uau! 
+\0Hai intenzione di andare
+a fare un viaggetto su Marte?
+\0(\0촀\0\0\0(1촀\0Beh, se hai voglia di tornare con
+qualche souvenirn\0\0
+\0 (촀\0mi piacerebbe
+provare il formaggio marziano!"
+"308","(촀\0Ehi, ho già visto quei vestiti nel libro
+di storia!
+\0( (%촀\0Era del periodon\0\0 come si
+chiamavan\0\0
+\0 (촀\0Ah sì, il ""paleomitico""!
+(&촀\0È pesante sulla testa?
+\0( (\0촀\0Sembra
+anche un po' fragile. 
+\0(""촀\0Occhio che
+non si frantumi, mi raccomando!"
+"309","($촀\0Oggi sei in vena di lanciare stellette
+di metallo e scomparire in una nuvola
+di fumo, n\0?\0\0()촀\0Sai, 
+\0dicono che per ogni ninja che
+vedi,
+\0 ce ne siano altri 50 nascostin\0\0
+
+\0(촀\0Ehi, venite fuori! 
+\0Ho torta per tutti!"
 "401","<"
 "401_01","(촀\0Uau, niente male! 
 \0Quello deve essere
@@ -372,3 +488,20 @@ i nostri completi preferitin\0\0 di nuovo!\0\0(&촀\0Hai mai paura di consu
 vestiti da quanto spesso li metti?
 
 \0(촀\0Io no di certo!"
+"501","<"
+"501_01","(촀\0Oggi c'è qualcosa di diverso in te,
+\0
+ma ancora non capisco cos'è...\0\0()촀\0Ma sì, la tua faccia è coloratissima!
+
+\0(%촀\0Proprio così.
+\0 Che belle tutte quelle
+tonalità in stile caramelle gommose!"
+"501_02","(촀\0Il tuo viso ha un che di mitologico,
+\0 n\0!
+\0 Come 2$un eroeun'eroina dei fumetti quando cambia costume!\0\0(4촀\0Voglio diren\0\0
+\0 il tuo look è sempre mitico,
+\0 ma oggi ancora di più, n\0!"
+"501_03","(%촀\0Alla grandissima,
+\0 hai dato al tuo viso
+un aspetto ancora più splendido!\0\0(촀\0Questi colori ti stanno davvero
+una favola, n\0!"

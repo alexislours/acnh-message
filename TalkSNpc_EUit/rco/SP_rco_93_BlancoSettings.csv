@@ -1,8 +1,8 @@
 ﻿"label","text"
-"001","(%촀\0NookLink, eh? 
+"001","(%촀\0\0NookLink\0￿, eh? 
 \0Ma certo!"
 "010","(&촀\0Bene, bene, 
-\0sei 2prontopronta a connetterti
+\0sei 2prontopronta a collegarti
 a Internet per configurare l'accesso
 a \0NookLink\0￿?"
 "010_a","Sì."
@@ -11,9 +11,15 @@ a \0NookLink\0￿?"
 "015","Bene, bene, n\0n\0\0(촀\0 Immagino tu possa già accedere a \0NookLink\0￿, sì?\0\0(&촀\0Volevi sapere di cosa si tratta?"
 "015_a","Sì, per favore!"
 "015_b","Non serve, grazie."
+"016","(\0촀\0Dovresti già avere accesso
+a \0NookLink\0￿, vero? (&촀\0Dimmi, come
+posso aiutarti, n\0?"
+"016_a","Cos'è NookLink?"
+"016_b","Invia i miei dati di gioco!"
+"016_c","Sono a posto così."
 "020","()촀\0E questo è tutto. 
 \0(&촀\0Adesso sei 2prontopronta a
-connetterti a Internet per configurare
+collegarti a Internet per configurare
 l'accesso a \0NookLink\0￿?"
 "020_a","Sì."
 "020_b","Spiegami di nuovo..."
@@ -44,6 +50,15 @@ con altri utenti\0￿ in Filtro famiglia.
 \0torniamo allo schermo
 del titolo e riprendiamo la nostra
 gioiosa vita sull'isola, sì?"
+"160","()촀\0Ma certo, 
+\0ti aiuterò a connetterti
+a Internet per inviare i dati di gioco
+e il profilo che usi su \0NookLink\0￿.\0\0($촀\0Vogliamo connetterci ora?"
+"160_a","Sì, grazie."
+"160_b","No, non ora."
+"161","(촀\0I dati sono stati caricati, sì, sì!\0\0(%촀\0Quando hai un attimo, ricordati di
+accedere a \0NookLink \0￿con l'\0app
+Nintendo Switch Online\0￿."
 "200","()촀\0\0NookLink\0￿ è un servizio specifico del
 gioco sviluppato dalla Nook Inc.,
 per \0Nintendo Switch Online\0￿.

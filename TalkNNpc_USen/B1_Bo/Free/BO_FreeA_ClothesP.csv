@@ -141,30 +141,58 @@ melting in that outfit?
 
 \0(6촀\0I get it! 
 \0You're doing weather jokes!"
-"016","(촀\0Neat! You're wearingn\0\0
+"016","<"
+"016_01","(촀\0Neat! You're wearingn\0\0
 \0
 2\0}촀!
 \0(
 It looks real good on ya!"
-"017","(;촀\0Looking good, n\0!
+"016_02","(촀\0What's that you're wearing?
+\0
+2\02\0}촀?\0\0(2촀\0You're breathtakingly cute in that
+outfit! 
+\0(촀\0Or maybe that's just the
+hiccups again."
+"017","<"
+"017_01","(;촀\0Looking good, n\0!
 \02
 (촀\02\0}촀, yeah?\0\0Those clothes are so spiffy, (촀\0
 \0ya look
 like a fancy cake a restaurant's gotta
 keep in a tall glass case."
-"018","(촀\0That }촀
+"017_02","(&촀\0Hmm. I don't FEEL any colder when
+I stand next to you while you wear
+your }촀.\0\0()촀\0
+\0Dang. Here I was hoping I could buy
+some ""cool"" clothes and it would be
+cheaper than air conditioning."
+"018","<"
+"018_01","(촀\0That }촀
 looks good!\0\0(&촀\0
 \0How long have you worn it today?(촀\0
 \0
 (촀\0
 \0Anything I wear looks like a napkin
 after a couple hours, n\0!"
-"019","(촀\0Whoa, are you wearing 2\0
+"018_02","(촀\0Nice }촀
+\0!\0\0(\0촀\0You're so fashion-y that even basic
+clothes look like they cost a lot of
+money. 
+\0(""촀\0Way to go, n\0!"
+"019","<"
+"019_01","(촀\0Whoa, are you wearing 2\0
 }촀?\0\0(촀\0I hope you didn't dress up just in
 case you saw me. 
 \0(\0촀\0You're so cool,
 you got nothing to prove."
-"020","Are you rocking 2\0
+"019_02","(촀\0If you look in the dictionary, next to
+""super gorgeous"" there's a picture
+of your }촀!\0\0(촀\0It takes guts to pull off a look like
+yours! 
+\0((7촀\0I'd just look like a walking
+face-cutout standee if I tried that."
+"020","<"
+"020_01","Are you rocking 2\0
 }촀?
 \0( (%촀\0Nice.
 Looks easy to move in.\0\0()촀\0Watching you move is making me
@@ -173,13 +201,25 @@ wanna move.
 \0""Oh yeah!
 I can move!"" 
 \0(촀\0I forget sometimes."
-"021","(촀\0Whoa! Are you wearing 2\0
+"020_02","(촀\0That's a real rad look on you!
+Great }촀!\0\0()촀\0Someone on the go has gotta wear
+stuff like that. 
+\0(""촀\0Not like pajamas,
+which are for someone on the stop."
+"021","<"
+"021_01","(촀\0Whoa! Are you wearing 2\0
 }촀?!\0\0(촀\0You're so fancy, a huh huh huh!
 \0
 I dunno how ya do it. ('촀\0
 \0I couldn't be
 that fancy. 
 \0(\0촀\0It looks exhausting!"
+"021_02","(촀\0Where are you off to in your fancy
+}촀?\0\0(4촀\0You look super sweet in anything,
+\0
+but stuff like that brings out the best
+in you. 
+\0((촀\0Especially next to me!"
 "101","<"
 "101_01","(촀\0You like that outfit a lot, don't you,
 n\0? (""촀\0
@@ -277,6 +317,28 @@ napkin around your neck"" outfit."
 moment, OK?
 (촀\0You look SO good,
 \0 dapper!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Are those clothes handmade?
+\0
+(촀\0Whoever sewed 'em must love you
+a lot!\0\0(촀\0I don't wear the stuff my mom sends
+me too often. 
+\0(촀\0It's the one outfit I
+don't wanna get crumbs on, y'know?"
+"216","(촀\0
+\0Whoa!
+\0 You're all decked out in DAL
+gear, huh?\0\0(촀\0I didn't know they let you wear that
+stuff if you don't fly the planes.
+\0(
+(촀\0I learn something new every day!"
+"217","(촀\0You look like you're having fun!
+\0
+What a costume!\0\0(6촀\0I bet you could rake in the candy
+on Halloween if you were dressed
+like that, n\0."
 "251","(촀\0Hey! 
 \0Look at us, a huh huh huhn\0\0
 We're matching! 
@@ -305,6 +367,34 @@ air using only your tongue.
 (;촀\0OK, I'd be a little surprised, 
 \0(촀\0but
 mostly impressed."
+"255","(""촀\0That's a cool outfit you've got on!\0\0(%촀\0Ears: check. Tail: check. 
+\0(촀\0Yep!
+\0 You're
+in the rabbit club, n\0!\0\0(3촀\0\0KBetween you and me, you don't HAVE to eat
+the carrots.\0d"
+"256","(촀\0You must be in a rabbity mood today!
+\0(
+(촀\0When I get in a mood like that,
+\0
+I just eat a buncha carrots.\0\0(촀\0I try not to be in that mood too
+much, 
+\0'cause carrots are the worst."
+"257","( 촀\0Whoa! Who knew you made such
+a good bear, n\0!\0\0(&촀\0Have you got your hibernation
+jammies all picked out yet?"
+"258","(촀\0You've got a whole bear thing going
+on today! 
+\0((""촀\0Did you wake up and hear
+the call of the wild, n\0?"
+"259","(촀\0You're a better sheep than I am in
+your }\0\0!\0\0(%촀\0Between you and me, it's the big-
+horns-on-the-head part that sells it."
+"260","(촀\0You're as fluffy as a real sheep
+\0 in
+your }\0\0.\0\0(%촀\0All sheep look like big fluffy beds
+to me. 
+\0(촀\0If I had wool, I'd sleep even
+more than I do already."
 "301","(촀\0Ohmigoshn\0\0
 \0( (촀\0I can't believe I'm seeing
 you in person!
@@ -348,6 +438,28 @@ until we know for suren"
 \0I forgot to use the
 ""royal we,"" n\0.
 (촀\0Ack! We did it again!"
+"307","( 촀\0Ohmigosh! 
+\0Are you blasting off
+for the moon, n\0?!
+\0(\0촀\0\0\0(1촀\0Well, if you feel like bringing any
+souvenirs backn\0\0
+\0((촀\0I've always wanted
+to taste green cheese, n\0!"
+"308","(&촀\0Isn't that head part heavy?
+\0( (\0촀\0And it
+looks kinda cracked. 
+\0(""촀\0Don't drop it
+like I dropped my history project!\0\0(촀\0My project was about the time that
+costume comes from. 
+\0((%촀\0It was fromn\0\0
+Hang onn\0\0
+\0(촀\0 The paleolicious period!"
+"309","($촀\0Are you playing ninja today,
+n\0?\0\0()촀\0They say for every ninja you can see,
+\0
+there's 50 more hiding. 
+\0(촀\0Come out,
+everyone! I have cake!"
 "401","<"
 "401_01","(촀\0Looking good! 
 \0That must be your
@@ -366,3 +478,23 @@ favorite outfit too!
 (&촀\0Do you ever worry about wearing
 out your favorite clothes?
 \0 (촀\0I don't!"
+"501","<"
+"501_01","(촀\0Something's different about you
+todayn\0\0but I can't figure it out.
+\0
+()촀\0Oh! It's your whole face thing!\0\0
+\0(%촀\0I never notice change. Like when my
+favorite energy soda went off shelves
+\0(2촀\0
+and I slept for a week.
+"
+"501_02","(촀\0You're looking like a whole new
+n\0 today!\0\0(&촀\0Did someone draw on your face or
+something? 
+\0(4촀\0That happens to me a
+lot. 
+\0Maybe I should sleep less."
+"501_03","(%촀\0That's a real neat look for your face!
+
+\0((&촀\0Are you gonna leave it like that for
+the rest of your life, n\0?"

@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(%촀\0NookLink settings?
+"001","(%촀\0\0NookLink\0￿ settings?
 \0 Of course!
 Of course!"
 "010","()촀\0Then are you ready to connect to
@@ -9,11 +9,18 @@ the internet and get set up with
 "010_b","I'd like the details."
 "010_c","No, thank you."
 "015","( 촀\02\0n\0, I believe you are
-(\0촀\0already able to access NookLink.
+(\0촀\0already able to access \0NookLink\0￿.
 \0
 (&촀\0Did you want to hear an explanation?"
 "015_a","Yes. Details, please!"
 "015_b","No, thank you."
+"016","(\0촀\0I believe you are already able to
+access \0NookLink\0￿, 
+\0(&촀\0so how can I
+help you, n\0?"
+"016_a","What is NookLink?"
+"016_b","Upload my play data!"
+"016_c","I don't need anything."
 "020","That sums up everything.\0\0(%촀\0Are you ready to connect to the
 internet and get set up with
 \0NookLink($촀\0\0￿ access?"
@@ -32,9 +39,9 @@ the \0Nintendo Switch Online app\0￿."
 \0I hope you continue to enjoy life on
 n	\0."
 "150","(촀\0I'm terribly sorry, but it seems the
-setup process failed. 
-\0(&촀\0Do you want
-to give it another try?"
+process failed. 
+\0(&촀\0Do you want to give
+it another try?"
 "150_a","Try again."
 "150_b","Some other time."
 "151","(촀\0To use this service, you'll need
@@ -45,6 +52,18 @@ with Others\0￿
 \0(%촀\0 let's go back to the title
 screen so you can continue having
 fun. Yes, yes!"
+"160","()촀\0Yes, yes, 
+\0I can help you connect to
+the internet to upload the play data
+and profile used in \0NookLink\0￿.\0\0Are you
+\0 ($촀\0ready to connect to the
+internet now?"
+"160_a","Yes, please!"
+"160_b","No, thank you."
+"161","(촀\0Your play data has been uploaded!\0\0(%촀\0Don't forget to open up \0NookLink
+\0￿with the \0Nintendo Switch Online app\0￿
+\0
+($촀\0when you have a moment."
 "200","()촀\0\0NookLink\0￿ is a game-specific service
 developed by Nook Inc. for the
 \0Nintendo Switch Online app\0￿.\0\0Say you have some custom design

@@ -239,10 +239,19 @@ tenemos una emergencia médica
 que otro por la modan\0\0
 \0 (8촀\0¡pero creo
 que ahora te estás pasando un poco!"
-"016","(촀\0Perdona, bonit2oa,
+"016","<"
+"016_01","(촀\0Perdona, bonit2oa,
 \0 pero (!촀\02촀eseesa\0 }촀 que me llevas (촀\0es como superideal, ¿no?\0\0(촀\0¡Tu grado de adorabilidad se acaba
 de muchiplicar, n\0!"
-"017","( 촀\0Oy, churri,
+"016_02","(;촀\0¡2\02\0}촀! 
+\0 Es mi estilo pero supertotalmente.\0\0(%촀\0Eres como mi compinche de moda,
+\0
+(촀\0con los mismos gustos y
+\0 estilo
+y 
+\0ganas de derrochar cuquez."
+"017","<"
+"017_01","( 촀\0Oy, churri,
 \0 ¡2촀eseesa\0 }촀 que me llevas es divin2촀oa\0 de la mort!\0\0Di que sí,
 \0 2loslas marcatendencias como
 2$nosotrosnosotras tenemos que dictar el sindo
@@ -253,7 +262,14 @@ de la modernidad,
 inventar,
 \0 pero dentro de nada (촀\0las
 usará todo el mundo, ¡n\0!"
-"018","(촀\0Me gusta el estilo informal de
+"017_02","(;촀\0Bueno, o sea, las vibraciones de
+molonicidad y divinura que llevas
+hoy resuenan por toda la isla.
+(촀\0¿Tu }촀?
+\0($촀\0 Vamos, tienes un don natural para la moda; 
+\0no se hable más."
+"018","<"
+"018_01","(촀\0Me gusta el estilo informal de
 tu }촀.\0\0()촀\0No siempre hay que ponerse capas
 como un repollo y pintarse como una
 puerta.
@@ -264,22 +280,65 @@ voy siempre fenomenal.
 \0 bueno,
 \0(%촀\0
 para los demás es buen consejo."
-"019","(촀\0Oye,
+"018_02","(촀\0Oye, pero 
+\0¿cómo lo haces? 
+\0Vas tan
+chipichipi paseando por ahí con
+tu }촀n\0\0
+(촀\0¡Con lo difícil que es darle un aire
+tan distinguido a algo tan sencillo!\0\0Mira, ((촀\0al final quien tiene carisma, lo
+tiene y no lo pierde se ponga lo que
+se ponga. (촀\0
+\0Orgullosa de ti, guapi!"
+"019","<"
+"019_01","(촀\0Oye,
 \0 2촀eseesa\0 }촀 te quedan\0\0
 \0 (촀\0¡de alfombra roja, n\0!"
-"020","(촀\0Me gusta tu }촀, n\0n\0\0\0\0(촀\0Yo tendría que comprarme algo
+"019_02","(촀\0Tu }촀 es la fabulosidad personificada.
+\0(촀\0 ¿Ropificada?
+\0 Bueno, eson\0\0\0\0(촀\0¡Que me enamora lo bien que te
+sienta, n\0!
+\0(;촀\0 Es como si hicieses 
+\0«pop»
+
+\0 y destacases.\0\0(8촀\0Más, quiero decir. No es que no
+destacases antes, ¡para nada!\0\0Jooo, (촀\0¿por qué siempre que quiero
+echarle un piropo a alguien me lío
+y acabo quedando fatalísimamente?"
+"020","<"
+"020_01","(촀\0Me gusta tu }촀, n\0n\0\0\0\0(촀\0Yo tendría que comprarme algo
 parecido para cuando practico
 mis coreos en casa.
 (촀\0Que me visto divina en plan estrella
 y luego toca meter las lentejuelas
 sudadas en la lavadora y no, no, non"
-"021","( 촀\0¿Tienes una cita o algo, n\0?
+"020_02","(촀\0¡Pero mírate, que superadorable con
+tu }촀!\0\0(촀\0Se te ve dispuest2oa a saltar a la
+acción.
+\0(촀\0 ¡Con algo así puesto, bailar
+tiene que ser requetefácil!"
+"021","<"
+"021_01","( 촀\0¿Tienes una cita o algo, n\0?
 \0 (!촀\0¡Estás elegantérrim2oa!\0\0(촀\0Me superencanta tu }촀,
 \0 ¡ponme dos (촀\0ya!\0\0(2촀\0En una bolsa, quiero decirn\0\0
 \0 Si me
 pones dos a mí además de lo que
 ya llevo,
 \0 (촀\0me voy a asar de calor."
+"021_02","(촀\0¡Pero por favooor, que elegantísim2oa
+vaaas! 
+\0Me parece una supermonez
+tu }촀.
+(2촀\0Es que, como que de repente siento
+la necesidad de comportarme con
+más elegancia a tu lado.
+(촀\0¡Es mucha presión!
+\0 Pero creo ((촀\0que
+puedo hacerlo; llevo toda la vida
+preparándome para esto.
+(#촀\0«Discúlpeme, n\0.»
+\0
+(촀\0¿Qué tal me ha salido, n\0?"
 "101","<"
 "101_01","( 촀\02\02\0}촀 que llevas como que te encanta, ¿verdad?\0\0(촀\0¡Que me he fijado yo que te 2촀lola\0 pones
 bastante a menudo, n\0!"
@@ -445,6 +504,44 @@ tu coprotagonista, n\0!"
 chipichipis que me llevas, n\0!\0\0( 촀\0O sea,
 \0 es que te miro y me quedo
 (;촀\0como hipnotizadita viva, n\0."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Ay, ¿tu madre te teje cosis?
+\0 (촀\0¡Pero
+qué mochimochi más cuquicuqui
+me llevas,
+\0 por favooor!
+(%촀\0Y la ropa también es suya.
+\0 Puro arte.
+\0
+(촀\0Espera,
+\0 ¿le puedo hacer un encargo?\0\0(1촀\0¿Así como un vestido de punto
+para cuando saque la guitarra
+acústica y cante la balada?
+((촀\0Sería idealísimo de la muerte;
+\0
+no me digas que no, n\0."
+"216","(촀\0Pero qué requeteguay que es el logo
+de los dodos,
+\0 ¿verdad que sí?
+\0
+(\0촀\0No respondas:
+\0 (촀\0se ve que te encanta.
+(촀\0Así será el «merchandising» de mi
+gira:
+\0 ¡un diseño (촀\0de altos vuelos,
+n\0!"
+"217","(촀\0¡Vas disfrazad2oa!
+\0 Con lo que (촀\0me gusta
+a mí un disfraz.\0\0(촀\0Espera, ¿no irás a una fiesta
+de disfraces?
+\0 ¿Y dónde está
+mi invitación?
+(촀\0En mi correo electrónico, seguro.
+\0
+No debo dejar (촀\0que se me llene tanto
+la bandeja de entrada, n\0."
 "251","( 촀\0¡Ay, pero mírateee! 
 \0¡Y mírameee!
 \0
@@ -483,6 +580,92 @@ con estilo,
 \0
 (6촀\0Y las ranas,
 \0 supongon"
+"255","(촀\0¡Ayyy, que estás haciendo «cosplay»
+de la moi!
+\0 (촀\0¡Me superencantaaaaa!\0\0(촀\0Oye, me has calcado,
+\0 ¿eh?
+\0 Los pelos,
+\0
+las orejitasn\0\0
+\0 (촀\0¡Muy auténtic2oa, n\0!\0\0(%촀\0Si quieres consejos de maquillaje,
+\0
+((촀\0nos hacemos una tarde de pinturas
+y confidencias y todo lo que surja."
+"256","(촀\0¡Te has reinventado cual estrella
+del pop!
+\0 ¡Ahora eres 2*un conejouna coneja!\0\0()촀\0Superadoro esa transgresión tuya
+de las barreras entre especies,
+\0
+(촀\0de las barrerasn\0\0
+\0 (&촀\0¿especiales?
+(촀\0Bueno,
+\0 como se diga.
+\0 (%촀\0Solo tengo
+una palabra más que añadir a tu
+chachicidad conejil:
+\0 (촀\0¡n\0!"
+"257","(;촀\0¡Ay-
+\0par-
+\0fa-
+\0var!
+\0 Soy superfán tuya
+por ser tan supermegafán mí2oan\0\0
+\0
+(촀\0¡Que vas de la moi, n\0!
+(촀\0Espera,
+\0 ¿no dicen que la imitación es
+la forma más sincera de anulación?
+\0
+(
+촀\0¿Estás intentando remplazarme?
+(촀\0Calla,
+\0 ¡que es «adulación»!
+\0
+Jopé, (2촀\0qué torpe es una a veces.
+\0
+No me lo tengas en cuenta.
+(촀\0Espero que esto no me reste puntos
+como ejemplo a seguir, n\0."
+"258","(촀\0¡Anda, la osa!
+\0 2V,O el oso, en este caso&Y nunca mejor dicho(촀\0
+\0.\0\0(촀\0Dan ganas de tumbarse abrazadita
+a ti, n\0.
+\0 (1촀\0Se te ve taaan mullidit2oa, n\0n"
+"259","(촀\0Así me gusta, verte disfrutando
+del placer de ser una bola peludita.
+\0
+(촀\0¿A que es lo mejor, n\0?
+(1촀\0Cuando sea una superestrella
+y hagan peluches de mí,
+\0 se venderán
+como rosquillas, ya lo verás.
+(촀\0Y, si el producto tiene éxito,
+\0 igual
+también hacen peluches de mis
+vecin2osas.
+\0 (촀\0¿Te apuntas?"
+"260","( 촀\0¡Pero qué veeeeen mis ojos!
+\0
+
+\0La-na
+
+\0()촀\0turaleza ovina te sienta bien.
+\0
+Has 
+\0
+\0ganado
+
+\0 (6촀\0con el cambio.
+(촀\0Vale,
+\0 ya me dejo de juegos de
+palabras malos.
+\0 (촀\0Es que, de verdad:
+\0
+el disfraz es
+\0 
+\0la leche.
+
+\0 (촀\0¡Ya paro!"
 "301","(4촀\0Bueno, porque no soy envidiosa, 
 \0que
 si no estaría volviéndome loca con
@@ -550,6 +733,35 @@ o algo así?
 (6촀\0Qué películas me monton\0\0
 \0
 ¡Pero como que (""촀\0me inspiras, n\0!"
+"307","(촀\0¡Jooo, qué pasada!
+\0 Has clavado
+la estética punk.
+\0 (6촀\0Me sé de una
+a quien le va a encantar tu look.
+(4촀\0Oye, aunque yo sea tan popera,
+\0
+también tengo un corazoncito
+rebelde, n\0n"
+"308","(촀\0¿Te ha dado por la hípica?
+\0
+(!촀\0¡Pues vas ÉPIC2OA!
+\0 ( 촀\0Huy,
+\0 qué frase,
+\0
+(촀\0¡con eso hago yo un temazo trap!
+(%촀\0En serio, qué supercolores
+y qué guay todo, vas (촀\0
+\0
+\0divin2oa
+.\0\0(6촀\0Pero luego no intentes subirte a
+lomos de los vecinos,
+\0 (촀\0que está feo."
+"309","(""촀\0Qué angelical vas hoy, n\0.
+\0 (촀\0Eres todo amor y armonía
+\0 y, como, 
+\0no sé, chipichipez.\0\0(촀\0Te pega mucho,
+\0 porque contigo
+en n\0 una siempre se siente a salvo, n\0."
 "401","<"
 "401_01","(촀\0Sé que tú me entiendes:
 \0 cuando
@@ -580,3 +792,42 @@ de verte con ese modelito, queri.\0\0()촀\0Es que, o sea, 
 ideal2oa y tener más estilazo?
 \0
 ($촀\0Yo creo que no, n\0."
+"501","<"
+"501_01","(촀\0Oh, qué supermegaguay lo que
+te has hecho.
+\0 (!촀\0¡Yo también me voy
+a renovar
+\0 «le look»!
+(촀\0Me pienso afilar el rabillo de los ojos
+hasta que mi mirada se clave como
+un puñal.
+( 촀\0O mejor me sonrojo las mejillasn\0\0(2촀\0
+\0
+Algo menos agresivo, n\0."
+"501_02","Pero (촀\0¿y ese cambiazo?
+\0 ¡Tú has ido
+al salón de belleza (	촀\0y no me has
+invitado a acompañarte!
+(촀\0Ni siquiera me has pedido consejo,
+\0
+con la de truquitos de estilo
+(촀\0que me sén\0\0
+(촀\0Te perdono
+\0 
+\0SOLO
+
+\0 (4촀\0si me dejas copiar
+lo que llevas, porque esn\0\0
+\0
+(촀\0¡megaestupén, n\0!"
+"501_03","( 촀\0Mi sexto sentido fashionista me dice
+que te has marcado un cambio
+de look,
+\0 (%촀\0¿a que sí?
+(촀\0Si es que renovar la fachada es
+como lo mejor.
+\0 (촀\0¡Se siente una nueva!\0\0()촀\0La próxima vez me avisas y nos
+sincronizamos.
+\0 Así estreno carita
+yo tambiénn\0\0
+\0 (촀\0¡y nos hacemos selfis!"

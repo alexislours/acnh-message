@@ -383,27 +383,34 @@ telefono senza accorgersene, vero?"
 "120","(촀\0È tutto pronto.
 \0( ($촀\0Apro il gate!"
 "120_01","(촀\0Ti stai dando da fare con l'app
-\0Modifica isola\0￿!\0\0()촀\0Spiacente, ma mi dicono che non
+\0Modifica isola\0￿!
+Z\0\0\0()촀\0Spiacente, ma mi dicono che non
 possiamo lasciartela usare durante
-il volo, il gioco online o in locale.
+il volo, il gioco online o in locale.
+Z\0
 (7촀\0Perciò devo chiudertela.
 \0 Sono sicuro
-che capirai."
+che capirai.
+Z"
 "120_02","(촀\0Grazie della collaborazione!
 \0(2촀\0 I dodo
 degli altri aeroporti ci prendono in
-giro se non facciamo le cose a modo.(\0촀"
+giro se non facciamo le cose a modo.(\0촀\0
+<"
 "121_01","(촀\0Oh, per tutte le ali!
 \0( (7촀\0Sembra che io
 abbia dimenticato di controllare se
-stavi usando l'app \0Modifica isola\0￿.
+stavi usando l'app \0Modifica isola\0￿.
+<\0
 (촀\0Non puoi usarla durante il volo,
 il gioco online o in locale, quindi
 \0
-la chiudo, se non ti spiacen"
+la chiudo, se non ti dispiacen\0\0
+<"
 "121_02","(촀\0La tua pazienza è davvero molto
 apprezzata.
-"
+\0
+<"
 "122","-촀\0
 \0Ora apriamo il gate!"
 "125","()촀\0Per tua informazione, se il gate è

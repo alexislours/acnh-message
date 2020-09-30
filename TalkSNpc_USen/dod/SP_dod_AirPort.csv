@@ -395,27 +395,32 @@ right now?"
 \0( ($촀\0Openin' the
 gate now."
 "120_01","(촀\0Looks like you're busy doing
-\0Island Designer \0￿stuff.\0\0()촀\0Sorry, but the regs say we can't let
+\0Island Designer \0￿stuff.
+Z\0\0\0()촀\0Sorry, but the regs say we can't let
 you use the \0Island Designer \0￿app
-during flights or network play.
-(7촀\0So I gotta shut that down for you.
+during flights or network play.
+Z\0\0\0(7촀\0So I gotta shut that down for you.
 \0
-Thanks for understanding."
+Thanks for understanding.
+Z"
 "120_02","(촀\0Hey, thanks for humoring us!
 \0(2촀\0 The
 dodos at the other airports tease us
 when we make a mess.
-\0(\0촀"
+\0(\0촀\0
+<"
 "121_01","(촀\0Oh, dang it!
 \0( (7촀\0Looks like I forgot
 to check if you were using your
-\0Island Designer \0￿app.
-(촀\0You can't use that app during flights
+\0Island Designer \0￿app.
+<\0\0\0(촀\0You can't use that app during flights
 or network play, so
 \0 I'll go ahead and
-shut it down for yan"
+shut it down for yan\0\0
+<"
 "121_02","(촀\0Appreciate your patience, pal.
-"
+\0
+<"
 "122","-촀\0
 \0Openin' the gate now!"
 "125","()촀\0Just so you know, the gate's open,

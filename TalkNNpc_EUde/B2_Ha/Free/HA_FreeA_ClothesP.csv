@@ -169,20 +169,43 @@ Zerrung. 
 \0Schön aufwärmen, bevor
 du loslegst, 
 \0ja?"
-"016","(%촀\0Ich muss sagen,
+"016","<"
+"016_01","(%촀\0Ich muss sagen,
 \0 2(촀deinen
 deinedein 2촁}촀 find ich jetzt nich' so sportlich...\0\0(촀\0Dieser niedliche Look ist einfach
 nicht dazu geeignet,
 \0 die eigenen
 Muckis angemessen zu präsentieren."
-"017","(촀\0Du gehst ja ab, n\0!\0\0(5촀\0Das Einzige, was noch cooler ist als
+"016_02","(촀\0Dein Outfit heute sieht süß wie
+Eiweiß aus, 
+\0n\0!
+\0 (촀\0Moment,
+\0 ist Eiweiß überhaupt süß?\0\0(촀\0Zucker! 
+\0Das war's.
+\0 (촀\0Es ist süß wie
+Zucker! 
+\0Tut mir leid,
+\0 ich komm da
+manchmal etwas durcheinander..."
+"017","<"
+"017_01","(촀\0Du gehst ja ab, n\0!\0\0(5촀\0Das Einzige, was noch cooler ist als
 riesige Muckis,
 \0 sind riesige Muckis in
 2(촀
 einem
 einer
 einem 2촂}촀!"
-"018","(촀\02\02\0}촀, hm?
+"017_02","(촀\0Ich hab's ja nicht so mit Mode,
+\0 aber
+2$촀dein
+deinedein }촀 gefällt mir!\0\0(%촀\0Du siehst cool aus,
+\0 ohne dich
+anzustrengen.
+\0 Ich muss dafür hart
+die Muckis anspannen. 
+\0(;촀\0HRRRRRGH!"
+"018","<"
+"018_01","(촀\02\02\0}촀, hm?
 \0 Etwas schlicht,
 \0 aber (촀\0ich glaube,
 \0 ich weiß,
@@ -190,7 +213,19 @@ einem 2촂}촀!"
 \0 (촀\0dass
 deine Klamotten von deinem
 einzigartigen Trizeps ablenken!"
-"019","(촀\02,촀Dieser
+"018_02","(%촀\0Ich verstehe dein Outfit.
+\0 Du willst
+dein natürliches Aussehen nicht
+überstrahlen, 
+\0n\0.\0\0(촀\0Sehr gut! 
+\0Mach ich auch so,
+\0 wenn ich
+mich fit fühle.
+\0 Schlichte Klamotten,
+\0
+die Muskeln machen den Rest!"
+"019","<"
+"019_01","(촀\02,촀Dieser
 DieseDieses }촀...
 \0
 (촀\0Mit so viel Stil gehörst du direkt
@@ -199,20 +234,49 @@ geradezu...
 \0 (촀\0Und das nicht
 vor Schweiß,
 \0 n\0!"
-"020","( 촀\0
+"019_02","(촀\0Wow. 
+\0Du siehst heute wirklich
+großartig aus, 
+\0n\0.\0\0(촀\0Was Klamotten und Selbstvertrauen
+angeht,
+\0 stehst du an der Spitze der
+Inselrangliste!"
+"020","<"
+"020_01","( 촀\0
 \02촀DerDieDas }촀, 2촀dendiedas du da trägst,
 \0 (촀\0ist ja mal rekordverdächtig gut!\0\0(촀\0Kleidung darf nicht einengen, 
 \0n\0!\0\0(2촀\0Am liebsten würde ich ganz auf
 Kleidung verzichten, 
 \0aber dafür
 ist es manchmal zu kalt..."
-"021","(촀\0Hey ho!
+"020_02","(&촀\0Hey, 
+\0hast du einen neuen Sport
+angefangen?
+\0 촀 
+\0oder
+vielleicht 촁?\0\0(%촀\0Ich frag nur wegen 2.촀deinesdeinerdeines
+2촃}촀.\0\0Du siehst aus, 
+\0als wärst du bereit für
+etwas Bewegung, 
+\0n\0!"
+"021","<"
+"021_01","(촀\0Hey ho!
 \0 Du hast dich ja mal voll
 in Schale geworfen mit 2.촀diesemdieserdiesem
 2촂}촀.\0\0(%촀\0Diese Art von Kleidung kann aller-
 dings deiner Haltung schaden,
 \0 also
 ($촀\0mach ausreichend Dehnübungen!"
+"021_02","(촀\0Ui,
+\0 das ist ein feiner Zwirn!
+\0(촀\0 Auf
+2,촀diesen
+diesedieses 2촁}촀 muss man gut aufpassen,
+\0 oder?\0\0('촀\0Ich kann so was Schickes nicht
+tragen.
+\0(촀\0 Ich muss jederzeit für einen
+Triathlon bereit sein, 
+\0n\0!"
 "101","<"
 "101_01","(촀\0Das sind wohl Lieblingsklamotten
 von dir, die du da trägst, 
@@ -329,6 +393,41 @@ einem Vorwand gesucht, 
 angemeldet und suche noch ein paar
 Leutchen, 
 \0die mich anfeuern!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(4촀\0Wenn ich dich in diesem Outfit sehe,
+\0
+wird mir irgendwie ganz warm ums
+Herz, 
+\0n\0.\0\0(촀\0Und dabei bin ich nicht mal gejoggt
+oder so! 
+\0Liegt wohl eher daran,
+\0 dass
+die Sachen handgemacht sind!
+(촀\0Man sieht direkt, 
+\0wie viel Liebe in
+ihnen steckt! 
+\0(촀\0Ob man mit Liebe auch
+doppelt so viel Kilo stemmen kann?"
+"216","(촀\0Oh,
+\0 ich wusste gar nicht, 
+\0dass du
+so 2Fein Vielflieger$eine Vielfliegerin bist! 
+\0(&촀\0Was zieht
+dich denn immer zu anderen Inseln?\0\0(9촀\0Hast du vielleicht irgendwo eine
+geheime Trainingsanlage entdeckt?
+\0
+(2촀\0Darf ich dich da mal begleiten?"
+"217","
+(!촀\0
+\0\0SÜẞES ODER SAURES!\0d
+\0(\0촀\0
+	\0\0\0(촀\0Entschuldige... 
+\0Wenn ich jemanden in
+so einem Aufzug sehe, 
+\0platzt mir das
+immer ohne Nachzudenken heraus."
 "251","( 촀\0Was zur Hanteln\0\0
 \0 (&촀\0Hab ich so viel
 trainiert, dass ich halluziniere,
@@ -370,6 +469,55 @@ einem Profi Folgendes gesagt sein...\0\0('촀\0Mehr als 0,2 Prozent Geschwin
 keitszuwachs sind da nicht drin.
 \0 Ich
 würde eher aufs Training setzen!"
+"255","(촀\0Hey,
+\0 ganz schön schnittig schaust du
+heut aus, 
+\0n\0!\0\0(촀\0Kann es sein, 
+\0dass wir zwei die
+gleichen Muskelgruppen trainiert
+haben? 
+\0Wir sehn aus wie Zwillinge!"
+"256","(촀\0Irgendwas an dir ist heute anders,
+\0
+n\0n\0\0 
+\0(촀\0Jetzt hab ich's!\0\0(%촀\0Du siehst aus, 
+\0als könntest du mich
+locker bei einem Wettlauf abhängen!
+\0
+(5촀\0Da sollt ich wohl besser ranklotzen!"
+"257","(촀\0Boah, 
+\0siehst du heute stark aus,
+\0
+n\0. 
+\0(6촀\0Geradezu bärenstark!\0\0(5촀\0Ab sofort werd ich noch öfter
+Hanteln stemmen, 
+\0damit ich neben
+dir nicht total mickrig wirke!"
+"258","(촀\0Man sagt ja immer, 
+\0Kleider machen
+Leute.
+\0 (촀\0Nun,
+\0 in deinem Fall machen
+sie wohl eher einen Bären!\0\0(촀\0Im Gegensatz zu einem echten Bären
+kannst du dein Fell aber vor jedem
+Schwimmtraining ausziehen!"
+"259","( 촀\0Oh! 
+\0Bist du nun auch zu Team
+Schaf gewechselt? 
+\0Na dann...
+\0
+(촀\0Willkommen an Bord!\0\0(5촀\0Wir sind flink, 
+\0stark und dazu noch
+kuschelweich! 
+\0(%촀\0Quasi die Allround-
+athleten des Tierreichs!"
+"260","(촀\0Du bist aber heute ganz schön
+warm angezogen. 
+\0('촀\0In diesem Outfit
+überstehst du keinen Marathon.\0\0Allerhöchstens einen Marathon im
+Schwitzen. 
+\0(촀\0Bei wie vielen Litern liegt
+denn derzeit der Rekord?"
 "301","(촀\02,촀Dieser
 DieseDieses }\0\0...
 \0
@@ -442,6 +590,30 @@ Jede Wette, 
 oder weit werfe...
 \0( (촀\0Ich bin einfach
 nur nicht gut im Zielen."
+"307","(&촀\0Hey,
+\0 wo hast du denn dieses coole
+Outfit aufgetrieben,
+\0 n\0?\0\0(촀\0Wie viele Liter 촀 wohl in diesen Hut passen würden?\0\0(5촀\0Egal wie viele, 
+\0nach einem richtig
+schweißtreibenden Training kippe
+ich dir die in einem Rutsch weg!"
+"308","(촀\0Cool! 
+\0Bist du etwa meinem Rat
+gefolgt und hast eine Karriere als
+Profi-2(WrestlerWrestlerin eingeschlagen?\0\0(%촀\0Falls du mal einen Sparringspartner
+brauchst, 
+\0sag Bescheid. 
+\0(5촀\0Ich würd
+gern mal wieder in den Ring steigen."
+"309","( 촀\0Hey, 
+\0ich wusste gar nicht, 
+\0dass du
+auf Hockey stehst! (촀\0Wir beide hätten
+gemeinsam trainieren können!\0\0('촀\0Dieser Sport ist nichts für Weicheier!
+\0
+(촀\0Denk an meine Worte, 
+\0falls dir mal
+ein Puck entgegensaust!"
 "401","<"
 "401_01","( 촀\0Hey, 
 \0ich hab dich doch schon mal in
@@ -466,3 +638,38 @@ einfach so als n\0!\0\0(촀\0Oh,
 steht dir schließlich ausgezeichnet,
 \0
 n\0!"
+"501","<"
+"501_01","(촀\0Irgendwas ist heute anders an dir...
+\0
+(촀\0Hast du etwa in letzter Zeit häufiger
+Kniebeugen gemacht, 
+\0n\0?\0\0(촀\0Egal, 
+\0wie viele Muckis du dir zulegst
+oder wie du dich anpinselst, 
+\0(6촀\0ich werd
+dich immer und überall erkennen!"
+"501_02","( 촀\0Na, 
+\0du hast dich heute aber ganz
+schön hübsch gemacht! 
+\0(&촀\0Bist du etwa
+auf dem Weg zu einer Siegerehrung?\0\0(촀\0Ist eigentlich auch egal. 
+\0Ob Sieger-
+treppchen oder nicht, 
+\0sich etwas
+herauszuputzen ist selten verkehrt."
+"501_03","(;촀\0Hey, 
+\0was ist denn mit deinem
+Gesicht passiert?
+\0 Man erkennt dich
+ja kaum wieder, 
+\0n\0!\0\0(#촀\0War nicht böse gemeint!
+\0 Du siehst
+nämlich echt gut so aus! 
+\0(4촀\0Kannst du
+mir vielleicht Styling-Tipps geben?\0\0('촀\0Am Gesicht selbst lässt sich leider
+nicht großartig was trainieren. 
+\0(촀\0Nicht,
+\0
+dass ich's schon versucht hätte...\0\0(5촀\0Aber hey,
+\0 immerhin kann ich jetzt
+einen Laster mit den Zähnen ziehen!"

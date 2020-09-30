@@ -136,7 +136,8 @@ de la sauna?
 lo has notado.
 \0 Vestid2oa así te vas a
 pillar un catarro de los de aquellos."
-"016","( 촀\0Anda,
+"016","<"
+"016_01","( 촀\0Anda,
 \0 (촀\0¡qué bonit2촀oa\0 te queda 2촀eseesa\0
 }촀!\0\0(촀\0¿Debería probarme yo algo
 así de risueño, n\0?\0\0(촀\0No creo que sea mi estilo,
@@ -144,7 +145,17 @@ así de risueño, n\0?\0\0(촀\0No creo que sea mi estilo,
 me queda la mitad de bien que a ti,
 \0
 (촀\0me doy con un canto en los dientes."
-"017","(%촀\0¡Hala,
+"016_02","(%촀\0Estás adorable con tu }촀.\0\0(촀\0Quieres verte adorable,
+\0 ¿verdad?
+\0
+(촀\0Porque si tu intención era todo
+lo contrarion\0\0
+En fin,
+\0 da igual.
+\0 Hoy en día todo es
+muy relativo, n\0."
+"017","<"
+"017_01","(%촀\0¡Hala,
 \0 qué bien te queda 2촀eseesa\0
 }촀!
 \0 Vas muy modern2oa, n\0.\0\0(촀\0No es un estilo muy isleño,
@@ -155,19 +166,39 @@ más bien urbanon\0\0
 ¿«Islebano»?
 \0 (촀\0¡«Barrileño»!
 \0 (촀\0¡Ja, ja!"
-"018","(촀\0Me gusta ese estilo atemporal
+"017_02","(%촀\0Tu }촀 es la quintaesencia de la moda contemporánea.\0\0(촀\0Fíjate,
+\0 jovencit2oa,
+\0 que con solo estar
+ahora a tu lado ya me siento más contemporáneo,
+\0 (촀\0¡ja, ja, ja!
+(촀\0Disculpa el chiste, n\0."
+"018","<"
+"018_01","(촀\0Me gusta ese estilo atemporal
 de tu }촀.\0\0(%촀\0Se nota que prefieres la simplicidad
 a las cosas rebuscadas.
 \0
 (촀\0¡Te felicito,
 \0 n\0!"
-"019","(촀\0Tu }촀 esn\0\0 (;촀\0simplemente excepcional.
+"018_02","(6촀\0Me place el diseño sencillo de tu
+}촀,
+\0 joven.\0\0(%촀\0La simplicidad es un valor estético
+perenne,
+\0 n\0."
+"019","<"
+"019_01","(촀\0Tu }촀 esn\0\0 (;촀\0simplemente excepcional.
 \0 ¡Enhorabuena!\0\0(\0촀\0No creo que yo pudiese llevar algo
 así,
 \0 ¡pero (촀\0a ti te queda genial,
 \0
 n\0!"
-"020","(촀\0¡Tu }촀 tiene un aspecto muy confortable!\0\0(촀\0No es fácil encontrar ropa para
+"019_02","(촀\0¡Qué estilazo gastas con tu
+}촀!\0\0(&촀\0¿Vas a alguna fiesta o recepción
+o algo?
+\0 (%촀\0Adonde sea que vayas,
+\0 ¡vas
+a ser 2ella más elegante del evento!"
+"020","<"
+"020_01","(촀\0¡Tu }촀 tiene un aspecto muy confortable!\0\0(촀\0No es fácil encontrar ropa para
 según qué actividadesn\0\0
 \0 (촀\0Deporte
 o jardinería, por ejemplo, no sén\0\0\0\0(4촀\0A mí me pasa que, para cuando doy
@@ -177,10 +208,23 @@ algo,
 (촀\0No sé si es perfeccionismo al vestir
 o una excusa para no sudar,
 \0 (촀\0¡ja, ja!"
-"021","(촀\0¡Con tu }촀 exhibes refinamiento por los cuatro costados!\0\0(촀\0No imaginaba que te codearas con
+"020_02","(%촀\0¡Jovencit2oa!
+\0 ¡Te sienta genial
+2\0}촀!\0\0()촀\0Y si,
+\0 además,
+\0 te has propuesto
+ser más activ2oa,
+\0 eso te mantendrá
+en buena forma, n\0."
+"021","<"
+"021_01","(촀\0¡Con tu }촀 exhibes refinamiento por los cuatro costados!\0\0(촀\0No imaginaba que te codearas con
 la gentecilla de la alta sociedad,
 \0
 n\0n"
+"021_02","(촀\0No sabes cuánto lamentaría ensuciar
+tu }촀n\0\0\0\0('촀\0No sé si podría perdonarme por
+hacerle semejante estropicio a una
+ropa tan bonita, n\0."
 "101","<"
 "101_01","(촀\02\0n\0,
 \0 2촀eseesa\0 }촀 que llevas (&촀\0¿es tu 2*촀favoritofavorita\0?\0\0(촀\0Creo que ya te 2촀lola\0 has puesto otras
@@ -299,6 +343,38 @@ cursillo o algo para poder ir así, n\0."
 jovencit2oa.
 \0 Esos dibujos geométricos
 tienen algo hipnóticon"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0¿Ese traje está hecho a mano?
+\0 (6촀\0Se nota que le han puesto muchas
+horas y mucho cariño,
+\0 jovencit2oa."
+"216","Te ha dado por la aviación,
+\0 ¿eh?
+\0
+(9촀\0Pues a ver si volvéis a dar comida
+gratis en todos los vuelos.\0\0(촀\0Antes servían 촀 y 촀 de postre.\0\0('촀\0Ahora tienes suerte si te dan una
+bolsa de pipasn\0\0
+\0 Y si tienes sed,
+\0
+촀 a precio de oro.
+(촀\0En fin, n\0,
+\0 que podríais
+dejar de ahorrar tanto y volver
+a las viejas y buenas costumbres."
+"217","(9촀\0A ver, que me entere yo:
+\0
+(&촀\0¿vas vestid2oa así para darme
+canguelo o algo?
+(5촀\0¡Pues vete olvidando,
+\0 que yo tengo
+una voluntad de hierro!\0\0( 촀\0¿Qué?
+\0 ¿Qué pasa?
+\0 (8촀\0¿Por qué me
+miras tan fijamente?
+\0 (촀\0Me estás
+poniendo nervioso, n\0."
 "251","(!촀\0¡Vaya pinta felina me traes hoy,
 \0
 jovencit2oa!
@@ -322,6 +398,39 @@ ni nada,
 \0 ¿eh, n\0?
 Simplemente no lo sabía,
 \0 (촀\0¡ja, ja, ja!"
+"255","(촀\0¡Qué bien se te ve,
+\0 jovencit2oa!
+\0 Con
+esas orejas casi diría que somos
+parientes, n\0.
+\0 (7촀\0¡Casi!"
+"256","(촀\0Espero que fuese tu intención
+parecer un conejo,
+\0 porque si non\0\0\0\0Creo que tienes un problema, n\0."
+"257","(촀\0No me engañas con esas pintas,
+\0
+jovencit2oa.
+\0 ¡Sé reconocer un auténtico
+oso cuando lo veo, n\0!"
+"258","(&촀\0¿Te sientes os2oa,
+\0 jovencit2oa?
+\0 ¿Es una
+nueva moda?
+\0 Pues no pienso
+seguirla, n\0."
+"259","(&촀\0¿Te has parado a pensar en
+la posibilidad de un negocio, n\0n\0\0?\0\0()촀\0Si alguien padece insomnio,
+\0
+le podemos ofrecer nuestros
+servicios para que nos cuente.
+(촀\0Eso sí,
+\0 tendrá que ser un insomnio
+muy ligero."
+"260","(;촀\0Vaya,
+\0 vestid2oa así te pareces
+muchísimo a unan\0\0\0\0(2촀\0Por un momento se me ocurrió
+hacerme un jersey con tu lana.
+"
 "301","( 촀\0¡Banzai,
 \0 jovencit2oa!
 \0 ('촀\0No,
@@ -356,6 +465,33 @@ y saquear algunas costas,
 \0
 que no hay nada peor que el hambre
 en alta mar, n\0."
+"307","(&촀\0¿Nos vas a contar chistes,
+\0 jovencit2oa?
+\0
+Si andas escas2oa de repertorio,
+\0 yo
+te puedo contar algunos.\0\0(촀\0¿Te sabes el de la ardilla que quería
+촀 en un concierto de 촀?\0\0(9촀\0Por tu cara ya veo que non\0\0
+\0 (촀\0Qué
+pena,
+\0 porque nunca terminaron de
+contármelo y quería saber el final."
+"308","(3촀\0Estás deslumbrante, n\0n\0\0\0\0Ahora solo hay que saber si eres una
+estrella de la canción,
+\0 del deporte
+o de quén\0\0
+"
+"309","(&촀\0Sabes que ya no hace falta llevar
+armadura para unirse a la orden
+de caballería,
+\0 ¿no?\0\0(\0촀\0Ahora dicen que basta con mostrar
+valor y honra,
+\0 aunque vayas en chanclas.
+\0
+(촀\0Y no me parece mal la idea,
+\0 pero
+me preocupa que se estén relajando
+tanto las costumbres, n\0."
 "401","<"
 "401_01","($촀\0Se te nota cómod2oa con esa pinta
 habitual tuya.\0\0(촀\0Bueno,
@@ -378,3 +514,29 @@ estilo, n\0.\0\0(\0촀\0Y me parece muy bien,
 (촀\0Mejor malo conocido que bueno
 por conocer,
 \0 (촀\0¡ja, ja, ja!"
+"501","<"
+"501_01","(%촀\0Vaya pintas llevas,
+\0 jovencit2oa.
+\0 Pero
+si te digo la verdadn\0\0
+\0 (촀\0¡me gusta,
+n\0!"
+"501_02","(촀\0Vayan\0\0
+\0 Sabía que hoy en día ya no se
+respetan los más mínimos cánones
+estéticos, n\0.
+\0 Peron\0\0\0\0(촀\0En fin,
+\0 qué más da.
+\0 (%촀\0Si tú estás
+content2oa así,
+\0 me parece muy bien."
+"501_03","(촀\0Jovencit2oa, hay algo raro en tu caran\0\0
+\0 Pero no sabría decir qué es.\0\0( 촀\0¿Es una nueva emoción?
+\0 ¿Un nuevo
+peinado?
+\0 ¿Una nueva nariz?
+\0
+Me dejas perplejo.
+(촀\0Da igual,
+\0 ya me daré cuenta
+más tarde."

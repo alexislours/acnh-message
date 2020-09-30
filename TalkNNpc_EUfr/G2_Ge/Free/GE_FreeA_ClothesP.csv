@@ -117,7 +117,8 @@ qu'à enlever une épaisseur !"
 Nan mais t'as pas froid ?!\0\0(촀\0Je sais qu'il faut parfois souffrir pour
 être à la moden\0\0(8촀\0 mais ne va pas
 attraper un rhume quand même, OK ?"
-"016","(촀\0
+"016","<"
+"016_01","(촀\0
 \02\02\0}촀 que tu portes est.
 \0(촀\0 Trop.
 \0 Chanmé !
@@ -129,7 +130,16 @@ C'est bien ça qu'on dit, au golf ?
 
 \0((%촀\0
 \0Quoi qu'il en soit, tu vois l'idée,(촀\0 lol !"
-"017","(""촀\0
+"016_02","( 촀\0Oh, mais c'est que tu portes
+2\0}촀 !\0\0(촀\0Les tenues mimi comme ça, c'est
+juste top.
+\0 Mais sur toi, c'est mimi
+puissance mille, n\0 !\0\0(촀\0Tu as trop le sens du stylen\0\0
+(9촀\0Je vais peut-être finir par faire
+de toi m2
+ona styliste personnel2\0le."
+"017","<"
+"017_01","(""촀\0
 \0Eh beh, n\0 ! Quel2촀\0le\0 }촀, dis-moi !\0\0(%촀\0
 \0Plus chobouillant qu'une supernova,
 (촀\0
@@ -147,7 +157,17 @@ propre jargon, ça va avec mon style.
 \0T'inquiète, ça va finir par
 s'incruscreuser dans tes
 neuroreilles !"
-"018","(%촀\02\02\0}촀 que tu portes, 2촀ilelle\0 vient d'une autre planète ?\0\0(촀\0Ton style est justen\0\0
+"017_02","(촀\0Oh là là, quel2촀\0le\0 splendide
+}촀 !\0\0(촀\0Tu dégages un truc vraiment
+très spécial dans cette tenue.
+\0
+Je sais pas comment expliquern\0\0
+()촀\0T'as l'air de savoir des choses que
+je sais pasn\0\0 mais tu fais comme
+si je les savais aussi !
+\0 (%촀\0Trop classe."
+"018","<"
+"018_01","(%촀\02\02\0}촀 que tu portes, 2촀ilelle\0 vient d'une autre planète ?\0\0(촀\0Ton style est justen\0\0
 ouahouhoahouaisquandmême, n\0.\0\0(촀\0J'ai pas mal étudié la mode et tout,
 tu sais. Les fringues qu'on porte,
 celles qu'on ferait mieux d'éviter...
@@ -157,8 +177,31 @@ celles qu'on ferait mieux d'éviter...
 fait décrocher la mâchoire.\0\0Il faudrait te décernern\0\0 2
 la l'⁠n
 \0 de la meilleure tenue !"
-"019","Classe, la tenue, n\0 ! (촀\02\02\0}촀, c'est décidément le style des stars !"
-"020","(촀\0Alors, on a décidé de se mettre à
+"018_02","(촀\0J'hallucine !
+\0 Dis-moi pas que
+tu arrives l'air de rien en portant
+2\0}촀 !\0\0(촀\0Tu sais forcément à quel point c'est
+dur de faire un look simple.
+\0 Et toi,
+t'es là, comme si c'étaitn\0\0 simple !\0\0(촀\0T'as tellement la classe !
+\0 Mais sois
+prudent2\0e avec ce super-pouvoirn\0\0
+(9촀\0et utilise-le pour faire le bien, OK ?"
+"019","<"
+"019_01","Classe, la tenue, n\0 ! (촀\02\02\0}촀, c'est décidément le style des stars !"
+"019_02","( 촀\02\02\0}촀 !\0\0(촀\0Ça te va tellement bien, n\0.
+\0 Avec ça, tu sors vraiment du lot !\0\0(5촀\0Moi,
+\0 j'ai de la chance,
+\0 je sors du lot
+naturellement.
+\0 Les gens se tournent
+vers moi dans la rue,
+\0 c'est innén\0\0\0\0Surtout quand je crie (!촀\0« Hé,
+\0 par ici,
+\0
+regardez-moi ! »"
+"020","<"
+"020_01","(촀\0Alors, on a décidé de se mettre à
 
 \0l'aise ? Y a pas plus confortable que
 2\0}촀.
@@ -166,13 +209,33 @@ fait décrocher la mâchoire.\0\0Il faudrait te décernern\0\0 2
 mes séances de farniente
 bi-quotidiennes,
 \0 (촀\0lol !"
-"021","(촀\0
+"020_02","(촀\0Je vois que tu as décidé d'oser
+2\0}촀 !\0\0(촀\0T'as l'air prêt2\0e à te dépenser !
+\0
+À t'épuiser ! 
+\0(-촀\0À transpirer ! 
+\0À aller
+prendre une bonne douchen\0\0\0\0Pfiou.
+\0 (촀\0Tu vas un peu trop vite
+pour moi, n\0 !"
+"021","<"
+"021_01","(촀\0
 \02\02\0}촀, c'est l'élégance puissance mille ! (""촀\0
 \0Et le pire, c'est que ça te va bien !\0\0(촀\0
 \0Mais que vaut une telle débauche de
 « mazette, c'est chouette ! » ?
 \0
 (3촀\0Tu as rendez-vous avec le gratin ?"
+"021_02","(촀\0Mais quelle élégance !
+\0 Je crois
+que je sais d'où ça vientn\0\0
+\0(촀\0 C'est
+2\0}촀 !\0\0(%촀\0Quel chic !
+\0 Quelle distinction !
+\0
+Quelle raffinerie !
+\0 (2촀\0Rien que d'être
+à côté de toi, ça me rend nerveusen"
 "101","<"
 "101_01","( 촀\02\02\0}촀 que tu portes, tu l'aimes beaucoup, non ? ($촀\0Tu 2촀lela\0 portes tout le temps."
 "101_02","Tu dois vraiment, 
@@ -296,6 +359,34 @@ cœur avec les doigtsn\0\0
 ces motifs, n\0 !\0\0Faut que j'arrête de te regarder,
 \0
 (6촀\0je vais finir hypnotisée !"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","Sympa ton look !
+\0 (;촀\0C'est ta maman qui
+l'a fait, n\0 ?\0\0(촀\0Attends,
+\0 c'est pas une critique,
+\0 au
+contraire !(\0촀\0\0\0(촀\0Dans ta tenue, on sent tout l'amour
+d'une mèren\0\0 et moi,
+\0 ça me rend
+méga jalouse !"
+"216","(촀\0Oh là là !
+\0 J'hallucine ou tu portes des
+fringues Dodo Airlines ?!
+\0 Mais c'est
+totalement chill,
+\0 ça !\0\0(촀\0Et le logo des frérots Dodo est pas
+naze du tout.
+\0 ((촀\0C'est de la mode de
+haut vol !"
+"217","(촀\0Wouah !
+\0 Je sais pas si j'ai peur ou si
+je suis impressionnée !
+\0 (%촀\0En tout cas,
+t'es prêt2\0e pour une soirée costumée.\0\0()촀\0Me dis pas qu'il y a une soirée
+costumée où je suis pas invitée ?
+(*촀\0Ce serait vraiment la loose, là."
 "251","( 촀\0Par mes moustaches !
 \0 Regarde-toi !
 \0
@@ -330,6 +421,75 @@ mettre en têtard, t'inquiète.\0\0('촀\0J'ai pas pu résister, tu incarnes
 tellement la grenouillitude.(7촀\0
 \0 J'avoue,
 je suis un peu verte."
+"255","Question à 1000 clochettes,
+\0 qui a un
+look d'enfer aujourd'hui ?
+\0 (촀\0Ding ding,
+\0
+temps écoulé !\0\0(촀\0La réponse estn\0\0 toi !
+\0 Et la raison est
+simple,
+\0 c'est pasque aujourd'hui,
+\0 on
+est 2$pareilspareilles,
+\0 toi et moi !\0\0Tu devrais t'habiller comme ça plus
+souvent.
+\0 (촀\0Comme ça,
+\0 on pourrait être
+2""jumeauxjumelles d'habits, n\0 !"
+"256","(촀\0Waouh !
+\0 T'as quelque chose de méga
+cool aujourd'huin\0\0
+\0 mais quoi ?\0\0(촀\0Du ressort dans ta démarche,
+\0
+peut-être ?\0\0(촀\0Nan,
+\0 j'pense plutôt que c'est ton
+costume qui est au poiln\0\0 de lapin,
+\0
+lol,
+\0 n\0 !"
+"257","( 촀\0Non d'un ours !
+\0 Tu t'es enfin décidé2\0e
+à adopter le look plantigrade !
+\0 ($촀\0Ça te
+va suuuper bien, n\0.\0\0(&촀\0Comme quoi, ça te réussit de
+m'imiter.
+\0 J'me sens pousser des ailes
+d'influenceuse mode,
+\0 lol !
+\0
+(%촀\0J'espère que tu dirais à tes amis
+d'me follower sur Internet."
+"258","(촀\0Quelle tenue ultra fabulourse !
+\0 Je
+suis complètement jalourse,
+\0 lol !\0\0Je sais pas pourquoi,
+\0(촀\0 mais elle me
+donne envie de te faire un gros
+câlinoun\0\0(&촀\0 C'est grave, docteur ?"
+"259","( 촀\0Waouh !
+\0 Ma parole, mais t'es presque
+aussi laineu2
+xse que moi aujourd'hui,
+n\0 !\0\0(촀\0Tu trouves pas que la laine, c'est
+vraiment la classe ?
+\0 C'est tout
+doux,
+\0 c'est naturel,
+\0 c'est bion\0\0\0\0(촀\0Par contre, qu'est-ce que ça tient
+chaud en étén"
+"260","( 촀\0Wa-ouh !
+\0 Quelle toison !
+\0 C'est
+naturel, ou pas du tout ?\0\0(촀\0Chuis légèrement jalouse,
+\0 moi qui ai
+toujours rêvé d'avoir le poil épais
+et laineuxn\0\0(촀\0\0\0C'est tout simplement adorable !
+\0 (;촀\0Et
+adorable, 
+\0c'est tout à fait moi,
+\0
+n\0."
 "301","(촀\0Par pitié, arrête avec cette tenue !
 \0
 (촀\0Regarde-moi, je fonds sur place.\0\0(촀\0Attends ! 
@@ -391,6 +551,28 @@ sauver 2촀unune\0 pauvre n\0 prisonni2촀erère\0 d'infâmes band
 ona be2aulle
 prince2
 \0sse 2(charmantcourageuse !"
+"307","(촀\0Wouaaah !
+\0 Tu maîtrises le style
+visual kei à donf !
+\0 C'est trop fort
+pour moi !\0\0(%촀\0Et ça prouve une de mes théories
+sur la moden\0\0 On n'a jamais trop de
+boucles !"
+"308","(촀\0Waouh !
+\0 Quels choix vestimentaires
+audacieuxn\0\0
+\0 (;촀\0Ces couleurs !
+\0 Ces
+formes !
+\0 Cen\0\0 Ce tout !\0\0()촀\0Je pensais que j'étais la fashionista
+la plus tendance de l'île,
+\0 mais là, je
+prends des notes, n\0."
+"309","( 촀\0Ooohn\0\0 cette tenue déborde d'ondes
+positives dans tous les sens, n\0 !\0\0(%촀\0Te voir si bien la porter me rend
+optimiste pour la journée.
+\0 (촀\0Quel effet
+inattendu !"
 "401","<"
 "401_01","(7촀\0Une fois que j'ai trouvé ZE tenue
 parfaite,
@@ -419,3 +601,36 @@ tenue vestimentairen\0\0
 \0( (6촀\0Quel2\0le
 influenceu2
 rse tu fais, n\0."
+"501","<"
+"501_01","(촀\0Oh, waouh !
+\0 Tu t'es maquillé2\0e ?
+\0 T'es
+trop stylé2\0e du style, en tout cas, n\0.\0\0(촀\0Ça me donne envie de faire pareil.
+\0 
+Mais en différent.
+\0(촀\0 Toi,
+\0 mais en
+version moi,
+\0 quoin\0\0 c'est clair, non ?"
+"501_02","(촀\0Waouh !
+\0 Mais t'es FA-BU-LEU2
+XSE
+aujourd'hui !
+\0 C'est ton maquillage,
+\0
+ou c'est autre chose ?\0\0(;촀\0T'aurais dû m'en parler avant,
+\0 (촀\0on
+aurait pu se relooker à l'identique et
+devenir des BFF-jume2auxlles !"
+"501_03","(;촀\0Hé là !
+\0 Un petit instant !
+\0 Ne me dis
+pas quen\0\0 tu as changé de look sans
+rien me dire, n\0 ?\0\0AHA !
+\0 J'le savais.
+\0 (5촀\0J'ai toujours les
+oreilles qui sifflent quand on fait un
+relooking dans mon dos.\0\0(촀\0Mais j'dois diren\0\0 que c'est méga
+réussi !
+\0 Alors je te pardonne,
+mais juste cette fois, n\0 !"

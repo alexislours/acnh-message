@@ -78,35 +78,72 @@ et reste hydraté2\0e."
 à grelotter!
 \0(9촀\0 Chope pas la crève,
 2""mon dudema chum, n\0!"
-"016","( 촀\0J'ai les globes qui disjonctent ou
+"016","<"
+"016_01","( 촀\0J'ai les globes qui disjonctent ou
 tu portes c'que j'crois qu'tu portes?
 \0
 (촀\02\02\0}촀?
-(7촀\0Bon, c'est bien de voir qu'y en a au
-moins un2\0e de nous deux qui s'pavane
-avec. 
-\0(촀\0Pis ça t'va bien, en plus!"
-"017","(;촀\0Ouah! 
+(7촀\0Bon, c'est bien de voir qu'y en a
+au moins un2\0e de nous deux qui peut
+s'pavaner avec ça. 
+\0(촀\0Pis ça t'va bien!"
+"016_02","(7촀\0Oh, 2촀quelquelle\0 }촀 tout2촀\0e\0 mimi!\0\0(촀\0Ça t'va au poil, ça fait ressortir ton
+côté tranquille et douillet à la fois.
+\0
+(촀\0Chuis fan, n\0!"
+"017","<"
+"017_01","(;촀\0Ouah! 
 \0J'peux savoir où t'as trouvé
 2\0}촀?
 \0 (%촀\0C'te classe!\0\0(촀\0La prochaine fois qu'tu vas faire les
 magasins, pense à m'embarquer
 avec toi!"
-"018","(6촀\02\02\0}촀n\0\0 Tout en simplicité et en sobriété,
+"017_02","2촀IlElle\0 te fait un look carrément dingue,
+2\0}촀!\0\0(6촀\0T'as toujours été habillé2\0e au poil,
+mais làn\0\0(;촀\0 ouah, chuis étonnée!"
+"018","<"
+"018_01","(6촀\02\02\0}촀n\0\0 Tout en simplicité et en sobriété,
 on peut pas trouver mieux!\0\0(%촀\0J'sais pas trop c'que ça donnerait
 sur moi, 
 \0(촀\0mais chez toi, ça fait un
 effet bœuf, n\0!"
-"019","(촀\0Ouah!
+"018_02","(6촀\02\02\0}촀n\0\0
+T'avais envie d'la jouer simple et
+sans fioriture, hein?\0\0(%촀\0T'as bien raison. 
+\0Niveau tenues, y a
+des fois où vaut mieux en faire pas
+assez que trop, n\0."
+"019","<"
+"019_01","(촀\0Ouah!
 \0 J'me trompe ou tu portes
 2\0}촀?
 \0 C'est magnifique!\0\0(촀\0T'as l'air d'une superstar prête à
 parader sur l'tapis rouge!"
-"020","(촀\0Hé, n\0! 
+"019_02","(촀\0Ouah,
+\0 t'as la classe mondiale!
+\0
+2\02\0}촀!\0\0(%촀\0Mode style éblouissant enclenché!
+\0
+(촀\0J'ai des supernovas dans les mirettes
+rien qu'à t'regarder, 
+\0n\0."
+"020","<"
+"020_01","(촀\0Hé, n\0! 
 \0J'aime bien 2\0}촀 que tu portes! Ça fait très détente!\0\0(촀\0Un d'ces quatre, faudra quand même
 que j'arrête de m'agiter et que
 j'relaxe un peun\0\0(촀\0 Merci pour l'idée!"
-"021","(촀\0Alors là, j'aurai qu'trois mots :
+"020_02","2\02\0}촀!
+\0
+(3촀\0T'as l'air prêt2\0e à conquérir le monde
+avec ça, 
+\0n\0n\0\0
+(\0촀\0Du coup,
+\0 oublie pas ta bouteille
+d'eaun\0\0 (7촀\0Ça doit être crevant,
+\0
+d'conquérir une planète entière!"
+"021","<"
+"021_01","(촀\0Alors là, j'aurai qu'trois mots :
 \0 ouah,
 
 \0ouah, et 
@@ -116,6 +153,13 @@ j'relaxe un peun\0\0(촀\0 Merci pour l'idée!"
 (촀\0T'as la classe mondiale, tout droit
 sorti2\0e d'un film sur l'gratin où les
 gens sont tout l'temps sur leur 31!"
+"021_02","(;촀\0J'peux pas m'empêcher d'regarder
+2\0}촀 qu'tu portes, n\0.(촀\0\0\0Et d'penser là-d'ssus :
+\0 pourquoi
+j'm'habillerais pas aussi comme ça?
+\0
+(%촀\0Ouais,
+\0 j'vais m'mettre à économiser!"
 "101","<"
 "101_01","(촀\0Tu l'aimes, cette tenue, pas vrai?
 \0($촀\0 En
@@ -191,6 +235,27 @@ c'est pas rien, n\0."
 Tout en élégance et en simplicité. 
 \0En
 deux mots : dingo, n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(\0촀\0Ouah, tes tenues sont géniales!
+\0
+(촀\0C'est du fait à la patte pas vrai? 
+\0Tu
+permets que j'zyeute de plus près?\0\0(6촀\0Ouais, ça c'est du style. 
+\0Chais pas
+qui a bricolé ces trucs, mais qui que
+ce soit, ça a été fait avec amour!"
+"216","(\0촀\0Les tenues de marque, c'est pas
+tellement mon genre. 
+\0(6촀\0Mais j'fais une
+exception pour Dodo Airlines.\0\0(촀\0Le fait que leur logo fasse très
+groupe de 촀 à la cool
+y est pas pour rien, n\0."
+"217","(촀\0Ta tenue est carrément dingue.
+\0
+Tu nous la joues mini-Halloween,
+c'est ça? C'est super, n\0!"
 "251","(9촀\0Hep, si tu veux m'mettre dans ta
 poche avec cette tenue d'chatn\0\0
 (촀\0Ça marche au poil, ha ha!"
@@ -208,6 +273,32 @@ dimanche à côté, n\0!
 "254","(촀\0Avec tes tenues de grenouille, j't'ai
 confondu2\0e avec quelqu'un d'autre,
 n\0."
+"255","(촀\0Tu sais, si tu cherches à m'en mettre
+plein la vue avec tes trucs de lapinn\0\0
+(촀\0C'est un succès, n\0!"
+"256","(촀\0Jolies oreilles. 
+\0D'ailleurs, tu permets
+que j'te demande un service,
+n\0?\0\0(3촀\0Chuis à court de ragots. 
+\0Fais-moi
+signe dès que tes super oreilles
+auront détecté un truc croustillant!"
+"257","(%촀\0Quoi d'mieux que d'être un2\0e ours2\0e,
+n\0?\0\0(촀\0Pouvoir roupiller pendant toute une
+saison, c'est à ronfler d'bonheur!"
+"258","(%촀\0T'es assez dou2
+xce au naturel, tu sais.
+
+\0(4촀\0Pas b'soin de t'déguiser en ours2\0e."
+"259","(6촀\0Entre 2moutonsbrebis, on va pas s'baratiner.
+\0
+Chuis super contente d'avoir rejoint
+l'troupeau 2
+de d'n\0!"
+"260","(%촀\0T'as l'air tout2\0e duveteu2
+xse aujourd'hui, n\0!\0\0(\0촀\0Sans blague, on dirait un oreiller
+moelleux! (.촀\0D'ailleurs, j'piquerais
+bien un roupillon moelleux aussi."
 "301","(8촀\0J'voudrais pas t'mettre de travers,
 maisn\0\0 t'as pas franchement mis
 l'paquet, niveau vêtementsn\0\0\0\0(&촀\0Ou c'est la nouvelle tendance, de la
@@ -250,6 +341,20 @@ Et eux, ils crachaient du gros son!
 (촀\0J'ai piqué une grosse crise quand
 ils s'sont séparés. Adieu, l'meilleur
 groupe de 촀 steampunk."
+"307","(촀\02\02\0}\0\0 que tu portes est dingue, chuis fan!\0\0(촀\0Le look groovy est fait pour toi,
+on fait pas plus cool, n\0!"
+"308","(&촀\0T'as un match de lutte qui s'profile,
+n\0?\0\0(6촀\0T'en fais pas trop. 
+\0(촀\0Vu comment tu
+gambades à longueur de journée, ton
+adversaire est pas près de t'attraper!"
+"309","(;촀\0Ton style est malade de la caboche
+aux pattes, mais le must, c'est
+2\0}\0\0!
+()촀\0Ça t'donne un air pêchu et tendre
+à la fois, 
+\0(촀\0je valide à 1 000 %,
+n\0!"
 "401","<"
 "401_01","(&촀\0J'me trompe ou t'aimes bien cette
 tenue?
@@ -269,3 +374,31 @@ classe, y a pas à dire, n\0!
 la tenue officielle 2
 de d'⁠n\0.\0\0(촀\0Elle pourrait aller mieux à personne,
 n\0!"
+"501","<"
+"501_01","(촀\0Chuis bien contente de m'dire qu'au
+moins un2\0e de nous deux puisse
+dégainer un look qui frappe autant.
+(\0촀\0C'est vrai, t'as un style super avec ce
+que tu t'es tartiné sur la face. 
+\0(2촀\0Perso,
+ça m'fait juste une tête louche."
+"501_02","(촀\0Hep!
+\0 Ta trombine me rappelle un
+groupe dans lequel j'ai traîné mes
+godasses pendantn\0\0 une journée.
+(%촀\0On avait bossé comme des fous pour
+l'concert, on avait même passé deux
+éternités à s'tartiner la tronche.
+(2촀\0Sauf que quand on est arrivés sur
+place, on s'est aperçus qu'on avait
+oublié d'embarquer le matériel.
+(촀\0Bilan : on a dissous l'groupe sur
+scène, devant tout l'monde. 
+\0(촀\0J'te
+raconte pas l'ambiance au retour!"
+"501_03","(\0촀\0J'adore ta nouvelle tête! 
+\0(""촀\0C'est du
+n\0 pur jus!\0\0(&촀\0Alors, quel genre de grosse fête
+s'profile? 
+\0(촀\0En tout cas, c'qui est sûr,
+c'est qu'ce sera toi la star!"

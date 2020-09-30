@@ -119,39 +119,109 @@ o algo así?\0\0(촀\0Me gusta el espíritu,
 \0 ¡pero ten
 cuidado no vayas a resfriarte,
 n\0!"
-"016","(%촀\0Si quieres mi opinión,
+"016","<"
+"016_01","(%촀\0Si quieres mi opinión,
 \0 creo que tu }촀 se merecería ganar varias medallasn\0\0\0\0(촀\0Pero dudo de si, con ese estilo tan
 mono, mis pectorales no quedarán
 algo eclipsados, n\0."
-"017","(촀\0¡Qué estilazo, n\0!
+"016_02","(촀\0¡Estás que te sales con eso que
+llevas puesto,
+\0 n\0!\0\0(촀\0No,
+\0 a ver,
+\0 no es que te quede
+pequeñon\0\0
+\0 Quiero decir,
+\0 (촀\0¡que te
+viene como anillo al dedo!
+('촀\0Non\0\0
+\0 Eston\0\0
+\0 Tampoco quiero decir
+que te cubra solo la cintura.
+\0 (촀\0Ah,
+\0
+¡ya sé cómo decirlo!
+(촀\0¡Que te sienta de maravilla!
+\0 (촀\0Perdón,
+\0
+a veces me cuesta expresarme
+con metáforas y comparaciones."
+"017","<"
+"017_01","(촀\0¡Qué estilazo, n\0!
 \0
 Solo hay una cosa que luzca más
 que tener músculos tonificados:\0\0(5촀\0¡Tener músculos tonificados y llevar
 2\0}촀 puest2촀oa\0!"
-"018","(촀\0Veo que te va la sencillez de 2\0
+"017_02","(촀\0Oye,
+\0 no entiendo mucho de moda,
+\0
+pero debo decir que me encanta tu
+}촀.\0\0(%촀\0Te da un aire desenfadado y
+espontáneo.
+\0 Con lo que me cuesta
+a mí eson\0\0
+Será que fracaso porque me esfuerzo
+demasiado por ser espontáneo.
+\0 (;촀\0¡Qué
+rabia dan las paradojas psicológicas!"
+"018","<"
+"018_01","(촀\0Veo que te va la sencillez de 2\0
 }촀, ¿eh?
 \0
 (%촀\0Buena jugada, n\0.\0\0(촀\0Así tu vestimenta no distrae la
 atención de lo verdaderamente
 importante:
 \0 ¡lucir tríceps!"
-"019","(촀\0Así que luciendo musculatura con
+"018_02","(%촀\0Ya veo cuál es el «concepto» de
+eso que llevas puesto.
+\0 Se trata
+de no ocultar tu belleza natural.\0\0(촀\0¡Bien pensado!
+\0 A mí también me
+gusta llevar ropa sencilla; que mi
+físico sea el centro de atención."
+"019","<"
+"019_01","(촀\0Así que luciendo musculatura con
 es2촀ea\0 }촀, ¿no, n\0?\0\0(%촀\0Despides un aura radianten\0\0
 \0
 (촀\0¡y no precisamente como cuando
 yo estoy empapado en sudor!"
-"020","(촀\0¡Deja que te diga que me alucina
+"019_02","(촀\0¡Hala!
+\0 ¡Qué estilazo gastas hoy,
+\0
+n\0!\0\0(촀\0La vestimenta,
+\0 la actitudn\0\0
+\0 ¡Todo!
+\0
+Si hubiese una competición de estilo
+en la isla,
+\0 ¡te llevarías el oro!"
+"020","<"
+"020_01","(촀\0¡Deja que te diga que me alucina
 es2촀ea\0 }촀 que te has puesto!\0\0()촀\0No se me ocurre mejor forma de lucir
 músculo con libertad de movimiento.
 \0
 (5촀\0¡Buena elección,
 \0 n\0!"
-"021","(촀\0¡Menuda elegancia atlética la de
+"020_02","(&촀\0Oye,
+\0 ¿has empezado a practicar
+algún deporte?
+\0 ¿2\0촀,
+\0 tal vez?
+\0 ¿O quizá 촁?\0\0(%촀\0Lo digo por 2\0}촀 que llevas.
+\0 ¡Se te ve dispuest2oa a sudar, n\0!"
+"021","<"
+"021_01","(촀\0¡Menuda elegancia atlética la de
 tu }촀!\0\0(%촀\0Ese tipo de prenda es algo rígido,
 \0
 así que hacer flexiones te costará
 más,
 \0 pero tonificarás el doble."
+"021_02","(촀\0¡Anda,
+\0 qué elegancia!
+\0 (촀\0Me imagino
+que tendrás cuidado de no manchar
+tu }촀,
+\0 ¿no?\0\0('촀\0Yo no podría ponerme algo así.\0\0(촀\0Limitaría mis posibilidades de
+ponerme a entrenar en cualquier momento."
 "101","<"
 "101_01","(촀\0Te mola ese estilo, ¿verdad?
 \0
@@ -252,6 +322,33 @@ triatlónn\0\0
 \0 (촀\0Necesitaba una
 excusa para contarte qué deportes
 estoy practicando ahora."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Nunca había visto un conjunto
+como el tuyo,
+\0 hasta parece hecho
+a mano, n\0.
+(1촀\0Si supiera coser, 
+\0haría mi propia
+línea de ropa deportiva y la llamaría
+«Musculástica».
+(5촀\0Porque serían prendas muy
+estrechas para marcar bien
+los músculos."
+"216","(촀\0Por tu ropa imagino que viajas
+mucho en avión.
+\0 ¿Vas a visitar
+otras islas?
+(촀\0No estarás apuntándote a torneos
+sin avisarme, ¿verdad?\0\0(9촀\0Porque eso no lo hacen los buenos
+compis de entreno, n\0."
+"217","
+(!촀\0
+\0\0¿Chuche o susto?\0d
+\0(\0촀\0
+	\0\0\0(7촀\0Perdona, es que te he visto así
+vestid2oa y me ha salido solo."
 "251","( 촀\0¡Remiau!
 \0 Estoy confundidon\0\0
 \0
@@ -286,6 +383,73 @@ saltar tan lejos y tan alto como yo?"
 al viento o el agua?\0\0()촀\0Con eso que llevas solo puedes
 mejorar la velocidad en un 0,2 %n\0\0\0\0(촀\0Así que te va a salir mucho más
 a cuenta entrenar todo lo que puedas."
+"255","(촀\0Con ese conjunto te pareces
+mucho a mín\0\0\0\0( 촀\0Ah, ya entiendo,
+\0 (5촀\0creías que así
+podrías tener un cuerpo hercúleo
+como el mío, ¿a que sí?
+()촀\0Pues siento decirte que este
+cuerpazo solo se consigue a base
+de mucho esfuerzo.
+(촀\0¡Entrenamiento intensivo todos
+los días!
+\0 Ese es mi consejo, crack."
+"256","(촀\0Hoy te veon\0\0 diferente.
+\0
+¿Te has cortado el pelo?\0\0(촀\0¡Es broma!
+\0 Me gusta(촀\0 tu conjunto,
+\0
+pero ¿a qué se debe?\0\0(&촀\0¿Vas a participar en un carrera
+y has pensado que así correrías
+más rápido?
+(촀\0¡Pues no es mala idea!
+\0 Aunque si
+lo que quieres es ganar,
+\0(5촀\0 ¡mejor
+disfrázate de mí!"
+"257","(%촀\0Me flipa tu conjunto.
+\0
+Qué porte,
+\0 qué poderío,
+\0
+qué presencian\0\0
+(촀\0Por un momento he pensando
+que me estaba mirando en un
+espejo, n\0.
+(촀\0Has estado entrenando, ¿eh?
+\0
+(5촀\0Siento decirte que aún no estás
+a mi altura,
+\0 ¡pero poco te queda!"
+"258","(&촀\0¿Y ese traje que me llevas?
+\0
+Espera, déjame que lo adivinen\0\0\0\0(촀\0Es un nuevo método de
+entrenamiento, ¿a que sí?\0\0(촀\0¿Es ese de visualizar cómo
+quieres ser?\0\0(촀\0Pues creo que tú lo has llevado
+un pelín lejos, amig2oa."
+"259","(촀\0¡Eh!
+\0 ¡Veo que por fin has decidido
+unirte a nuestro equipo! 
+\0¡Arriba
+Equipo Oveja!
+(5촀\0Somos veloces,
+\0 fuertes
+\0 y
+(7촀\0achuchablesn\0\0\0\0(\0촀\0Ya,
+\0 lo último no sirve para el deporte,
+\0
+(4촀\0pero es que nos gustan mucho
+los abrazos."
+"260","Ese traje que llevas tiene pinta
+de abrigar.
+\0(촀\0 No me imagino en
+una carrera con eso pueston\0\0
+(촀\0A no ser que intentara batir
+el récord de correr diez kilómetros
+disfrazado de oveja.
+(촀\0¿Es lo que te has propuesto?
+\0
+(촀\0¡Pues mucho ánimo, crack!"
 "301","(촀\0¡Vaya shaolin estás hech2oa!
 \0 (촀\0¡Seguro
 que dominas todas las técnicas con
@@ -355,6 +519,40 @@ que no veas,
 (촀\0Pero no por la velocidadn\0\0
 \0 (촀\0¡sino
 porque se me van a la grada!"
+"307","()촀\0¿A qué competición te has
+apuntado?
+\0 Supongo que no
+vas vestid2oa así por nadan\0\0
+(&촀\0¿Es de lanzar el lazo?
+\0
+¿De comer perritos calientes?
+\0
+(촀\0¿De gritar «Yiiijaaa» muy alto?
+('촀\0Si es de bailar country no cuentes
+conmigo,
+\0(촀\0 se me lían las patas
+y siempre acabo en el suelo."
+"308","(촀\0¿No me digas que te has hecho
+luchad2orora profesional?
+\0 (촀\0¡Tú sí que
+molas, crack!
+((촀\0Si necesitas un entrenador,
+cuenta conmigo, n\0.\0\0(%촀\0Con mi programa de ejercicios no
+habrá nadie que pueda derribarte."
+"309","(촀\0¿Te gusta el hockey?
+\0 ¡Habérmelo
+dicho!
+\0 Podríamos haber montado
+un equipo, n\0.
+(5촀\0Soy el mejor portero que hayas visto,
+\0
+hasta puedo atrapar un disco con
+los dientes.
+(촀\0Vale, solo lo hice una vez y no era
+un disco,
+\0 sino una rosquilla,
+\0(9촀\0 ¡pero
+viene a ser lo mismo!"
 "401","<"
 "401_01","( 촀\0Ah,
 \0 eso que llevas puesto ya te lo
@@ -389,3 +587,26 @@ alguna vez, ¿no?\0\0(""촀\0Pues te queda genial,
 \0
 No le cambiaría ni un detalle.\0\0(촀\0¡Sigue ahí,
 \0 con ese estilo n\0 tan inconfundible!"
+"501","<"
+"501_01","(촀\0¿Sabes que me ha costado un poco
+reconocerte con ese look nuevo?\0\0(촀\0Por suerte tienes unas pantorrillas
+inconfundibles;
+\0 enseguida he visto
+que eras tú."
+"501_02","( 촀\0Me flipa tu cara, n\0.
+\0 (&촀\0¿Te has cambiado de look para ocultar tu identidad o algo así?\0\0(촀\0Algunos deportistas se disfrazan
+y taln\0\0
+\0 Quizá yo también debería
+probarlo.\0\0(촀\0¡Podría disfrazarme de pesa y hacer
+que me llamaran «El Pesado»!
+\0
+(촀\0Un momenton"
+"501_03","( 촀\0Eh, ¿qué te has hecho en la cara?
+\0
+Me ha costado reconocerten\0\0
+\0
+(촀\0¡Ah, pero te queda genial!
+(&촀\0¿Crees que yo podría pintarme
+los músculos?
+\0 (촀\0Para cambiarles
+un poco el look y eso."

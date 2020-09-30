@@ -115,10 +115,18 @@ azzardatissima!"
 2\0}촀?!\0\0(&촀\0Ma non hai frio?
 \0 Neanche un po'?
 (*촀\0Io ho freddo solo a guardarti!"
-"016","(촀\0Ooohhh!
+"016","<"
+"016_01","(촀\0Ooohhh!
 \0 Vestit2oa così sei più dolce di una tavolata di 촀!\0\0(촀\0Sorbole,
 \0 adesso ho una gran voglia di 촀, n\0."
-"017","(9촀\0C'è qualcosa di especial in te oggin\0\0
+"016_02","(:촀\0Sorbole!
+\0 Hai creato un coordinato
+che si abbina alla perfezione con
+2""촀il tuola tua\0 }촀!\0\0(촀\0Fabuloso!
+\0 Ammiro muchissimo il tuo
+gusto, n\0."
+"017","<"
+"017_01","(9촀\0C'è qualcosa di especial in te oggin\0\0
 o su di te.
 \0 Seguro che è quello che
 indossi!
@@ -127,7 +135,12 @@ panni,
 \0 capelli ingellati al massimo,
 \0
 ballando musica 촀n"
-"018","(&촀\0Ma lo sapevi che il tuo stile di
+"017_02","(촀\0Lo confesson\0\0 Ti invidio molto per
+2""촀il tuola tua\0 }촀!\0\0(촀\0Con quel capo addosso, hai un'aria
+sicura e rilassata. Si vede che di
+moda te ne intendi, n\0!"
+"018","<"
+"018_01","(&촀\0Ma lo sapevi che il tuo stile di
 abbigliamento,
 \0 come il sottoscritto,
 \0
@@ -140,7 +153,14 @@ un classico,
 un tipo originale!
 \0 Ma la verdad es
 la verdad!"
-"019","(촀\0Sorbole!
+"018_02","(&촀\0Vedo che ti butti sul classico con
+2""촀il tuola tua\0 }촀, dico bene?\0\0(9촀\0Approvo!
+\0((촀\0 So che non ti serve la mia
+approvazione, ma forse serve a me?
+\0
+Approvi che io ti approvo?"
+"019","<"
+"019_01","(촀\0Sorbole!
 \0 Oggi ti sei mess2oa proprio
 in sgangheri! 
 \0O in ghigneri?
@@ -155,12 +175,28 @@ profumo?
 (촀\0Aiutami tu,
 \0 n\0.
 \0 Perché ci si veste così, n\0?"
-"020","(6촀\0Sorbole,
+"019_02","(6촀\0Vestit2oa così faresti un figurone sulla
+pista di qualsiasi balera di
+prim'ordine, n\0.
+()촀\0Io sono un grande bailarino, te lo
+dico.
+\0 (5촀\0Se ti va di fare due salti in
+grande estilo, sai dove trovarmi!"
+"020","<"
+"020_01","(6촀\0Sorbole,
 \0 mi piace muchissimo il tuo
 look oggi!\0\0(%촀\0Ciò che indossi ha l'aria di essere
 bello attillaton\0\0 e quindi comodo
 di brutto, n\0!"
-"021","(촀\0Que elegancia oggi!
+"020_02","(6촀\0Oh, ehi! 
+\0Fai un po' di sport?
+\0 Hai
+2\0}촀 mucho profesional. Me encanta!
+(촀\0Io preferisco 촀,
+ma se posso mettere qualcosa di
+attillato, sono pronto a tutto!"
+"021","<"
+"021_01","(촀\0Que elegancia oggi!
 \0 (&촀\0Stai andando
 a una festa,
 \0 vero?\0\0(6촀\0Posso accompagnarti?
@@ -168,6 +204,13 @@ a una festa,
 faresti un figurone anche così,
 \0 ma
 presentandoti con me lo farai triplo!"
+"021_02","(1촀\0Mmmh, oggi c'è qualcosa nel tuo
+abbigliamento che grida eleganza,
+lascia che te lo dica.
+(촀\0E lo fa con una bellissima voce in
+falsetto, che pochi riescono a fare.
+\0
+(촀\0Ahahah!"
 "101","<"
 "101_01","(촀\0Uhm, quell'abbigliamento lo metti
 proprio mucho, eh?\0\0(촀\0Oh! 
@@ -255,6 +298,32 @@ festa in onore del gel per capelli?"
 n\0!\0\0(6촀\0Direi che sei pront2oa per todo, da una
 cena di gala con i reali a una serata
 passata a 촀."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Sento vibrazioni muy familiari
+provenire dal completo che
+indossi oggi, n\0.\0\0(&촀\0Te l'ha dato la tua mamma?
+
+\0(촀\0Beh, in caso dovrebbe fare
+la stilistan\0\0 se non lo è già!"
+"216","( 촀\0Sorbole, 
+\0per caso sono abiti ufficiali
+della DAL quelli, n\0?\0\0(촀\0So che sono famosi per il loro ottimo
+servizio, 
+\0ma non pensavo creassero
+anche abbigliamento così bueno.\0\0(3촀\0Forse è solo troppo poco attillaton"
+"217","( 촀\0Hai l'aspetto di chi è pronto per
+festeggiare alla granden\0\0
+\0 (&촀\0Ma è
+veramente così, n\0?\0\0(&촀\0Sei già nel pieno dell'atmosfera?
+
+\0Hai già scelto il gel più adatto?
+
+\0Hai ripassato il copione?\0\0(촀\0Come ""quale copione""?
+\0( (촀\0Quello che
+dovrai recitare per essere 2$il mejorla mejor
+della serata, n\0!"
 "251","(촀\0Me gusta questo completo felino
 che indossi oggi.\0\0(촀\0Ah! 
 \0(촀\0Spero che segni l'inizio di una
@@ -280,6 +349,50 @@ all'inimitabile n
 hoy, n\0!\0\0(촀\0Scommetto che hai una voglia loca
 di metterti a saltellare dappertutto,
 n\0!"
+"255","(촀\0Uau, guarda che roba! 
+\0('촀\0Di solito non
+sopporto di avere gli stessi identici
+abiti che indossa qualcun altron\0\0
+($촀\0Ma l'idea di creare un nuovo stile
+superattillato insieme a te me gusta
+mucho, n\0."
+"256","(촀\0Hai un aspetto che fa sussultare il
+corazón oggi. 
+\0(촀\0Adoro quelle orecchie
+e la coda, n\0!"
+"257","(촀\0Aspetta, man\0\0
+\0( (촀\0Non saremo mica
+parenti alla lontana?
+\0 Eri alla nostra
+ultima riunione familiare, per caso?\0\0(촀\0Sai, 
+\0quella dove ho proposto una
+nueva linea di gel al bergamotto
+con tocchi di acciughe en\0\0\0\0(촀\0Oh, ma è solo un costume.
+\0 Bueno,
+meglio cosìn\0\0 
+\0(촀\0Dimentica pure quello
+che stavo dicendo."
+"258","(6촀\0Hai scelto un look audace e feroce
+oggi, eh?
+\0(!촀\0 Me gusta!\0\0(촀\0Ma dimmi, 
+\0un completo con tutto
+quel pelo non è difficile da tenere
+pulito, n\0?"
+"259","(촀\0I tuo cabellos sono grandiosi!
+\0(
+(촀\0Il volume, 
+\0la forma, 
+\0lo stilen\0\0
+\0
+(촀\0È todo perfecto!\0\0(2촀\0Hai di certo scovato un gel migliore
+del mion\0\0 
+\0(촀\0Devi assolutamente dirmi
+qual è, n\0!"
+"260","(촀\0Mi piace mucho il tuo completo,
+n\0.\0\0()촀\0Pare che la finta lana sia uno dei
+materiali più attillati sul mercaton\0\0
+\0(
+(촀\0Devo procurarmene un po'!"
 "301","( 촀\0Oh, 
 \0abbigliat2oa così potresti quasi
 partecipare a un film o roba del
@@ -328,6 +441,24 @@ piano segretissimo hai escogitato,
 n\0?
 (9촀\0Sea lo que sean\0\0
 \0(촀\0 CONTAMI!"
+"307","(1촀\0Oh! I vestiti che indossi mi portano
+indietro nel tiempo, grande n\0n\0\0\0\0(%촀\0A scuola non c'era n\0 più popolare di me. Ero anche capitano della squadra di 촀n\0\0\0\0(촀\0Purtroppo ho dovuto lasciare tutto
+quando il governo mi ha inviato in
+missione come spia sotto copertura.\0\0(2촀\0Ehmn\0\0 forse qua e là ho abbellito
+alcune parti della storia per un
+maggior effetto drammatico..."
+"308","(촀\0Oooh, vai a farti una pedalata?
+\0
+Da paura, n\0!\0\0(촀\0Verrei contigo, ma la mia pettinatura
+non è testata per velocità maggiori
+di 5 chilometri all'ora..."
+"309","(촀\0Uoooh! 
+\0(Dei vestiti così appariscenti
+non stanno bene a tutti.
+\0( (촀\0Ma su di te
+fanno un figurone, n\0!\0\0(2촀\0Ehm...
+\0 Non è che hai qualche
+consiglio da darmi su come portarli?"
 "401","<"
 "401_01","(촀\0Mmmh, 
 \0non ti ho già visto con quel
@@ -351,3 +482,22 @@ gusto in fatto di vestiti!"
 questo tuo completo.\0\0(5촀\0Lo considero la pietra miliare
 del tuo concetto di estetica,
 n\0."
+"501","<"
+"501_01","(촀\0Mira che look sgargiante!
+\0(
+(%촀\0Me gusta mucho quando osi un po'
+con il trucco, n\0."
+"501_02","(촀\0Hoy c'è qualcosa di diverso in te...
+\0(
+(&촀\0Hai tagliato i capelli?!\0\0(촀\0Ah ah ah! 
+\0Sto scherzando.
+\0 Me gusta
+il tuo stile così provocatorio."
+"501_03","(;촀\0Ohn\0\0
+\0(\0\0(촀\0Ops! 
+\0Perdona se ti stavo fissando
+così.
+\0 ()촀\0È che oggi hai un look così
+diverso dal solito!\0\0(촀\0Diverso in positivo, claro, mica in
+negativo!
+\0( (촀\0\0Fiuuu, figuraccia evitata...\0￿"

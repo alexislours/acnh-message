@@ -98,7 +98,8 @@ Iedereen zal naar je terugroepen!\0\0(촀\0
 \0!
 \0 Het is 4:00 uur '⁠s nachts!⁠""\0\0(촀\0
 \0""s촀n\0\0"""
-"101","(""촀\0Kijk!
+"101","<"
+"101_01","(""촀\0Kijk!
 \0 Ik kan echt alles dragen.
 \0(촀\0
 Ik zie er zelfs fantastisch uit in
@@ -113,7 +114,13 @@ was toegenomen door deze look!\0\0(촀\0En toen verdween ze zomaar!\0\0Ik
 over ging.
 \0 Maar ik zie er wel (촀\0uit om
 door een ringetje te halen!"
-"102","(촀\0Hoe kan ik hier ooit in slapen of
+"101_02","Hé, klopt het dat ik er (5촀\0schattig uitzie door mijn 2촃}촀?\0\0(촀\0Dat zei mijn oma in ons laatste
+videogesprek, maar je weet hoe
+oma's zijn.\0\0('촀\0Ze zeggen echt álles om ervoor te
+zorgen dat je je groenten opeet,
+n\0."
+"102","<"
+"102_01","(촀\0Hoe kan ik hier ooit in slapen of
 eten?
 \0(촀\0 Ik ben bang
 \0 dat ik zal knoeien
@@ -124,23 +131,43 @@ dragen(\0촀\0 en, ehn\0\0(촀\0 O!
 \0 Slapen doe ik wel
 staand.
 \0 Eitje,(5촀\0 voor een pro als ik!"
-"103","(촀\0Deze outfit is super!
+"102_02","(""촀\0Hoe zie ik eruit in mijn 2촃}촀?\0\0(4촀\0Cool, hè. 
+\0Hopelijk ben ik niet zo cool
+dat ik van huis moet weglopen om bij
+een band te gaan, n\0."
+"103","<"
+"103_01","(촀\0Deze outfit is super!
 \0 2\02\0}촀 2""촀zietzietzien er goed uit, wat je er ook op morst!\0\0()촀\0Kruimels, 촀, beestjesvuil, ketchup, snotn\0\0
 \0 Alles past erbij! Beste kleding ooit!"
-"104","(%촀\0Ik voel me stijlvol,
+"103_02","(촀\0Kijk mij nou in mijn 2촃}촀!\0\0(\0촀\0Hierin ben ik veel te volwassen voor
+tekenfilms en pakjes sap.
+\0 (2촀\0Misschien
+kan ik me beter omkledenn"
+"104","<"
+"104_01","(%촀\0Ik voel me stijlvol,
 \0(5촀\0 maar ik moet altijd
 op mijn tellen passen als ik 2\0
 }촀 draagn\0\0
 (1촀\0Ik zou er bijvoorbeeld 촀 op kunnen morsen!
 \0(촀\0 Dat is ook een stijl, al is die lang niet zo netjesn"
-"105","()촀\0Net als andere sporten
+"104_02","()촀\0Jakkesn\0\0 Ik voel me alsof ik me
+volwassen moet gedragen als ik mijn
+2촃}촀 draag.\0\0(촀\0Normaal gesproken ben ik bang voor
+vlekken als ik ga zitten, 
+\0((촀\0maar nu
+moet ik ook zorgen dat niks kreukt!"
+"105","<"
+"105_01","()촀\0Net als andere sporten
 \0 vraagt slapen
 om gemakkelijke kleren. Bijvoorbeeld
 2\0}촀!\0\0(%촀\0Ik voel me er comfortabel in, dus was
 ik mijn kleren nooit! En dat is cool!
 \0
 Die (촀\0ruiken nu altijd naar mij!"
-"106","(촀\0Ahahahan\0\0 Ben ik nietn\0\0
+"105_02","(촀\0Als ik mijn 2촃}촀 draag, ben ik helemaal klaar om te spelen.\0\0()촀\0Ik heb dan zoveel energie! 
+\0(""촀\0n\0, ik hoop dat jij er ook klaar voor bent!"
+"106","<"
+"106_01","(촀\0Ahahahan\0\0 Ben ik nietn\0\0
 \0 prinselijk?
 \0
 Geen zorgen, mijn beste! Noem me
@@ -149,6 +176,9 @@ gewoon
 \0\0￿!\0\0(촀\0Hmn\0\0 wie weetn\0\0(촀\0 ben ik per ongeluk
 bij mijn geboorte van mijn koninklijke
 familie gescheiden, n\0!"
+"106_02","(촀\0Gave look, hè? Die heb ik aan mijn 2촃}촀 te danken!\0\0(%촀\0Ik moet hier echt aan wennen voor
+wanneer ik de opening van een
+snoepwinkel wil bijwonen."
 "201","(촀\0
 \0Kijk mij!
 \0( Helemaal het heertje! (촀\0

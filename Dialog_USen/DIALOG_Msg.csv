@@ -183,6 +183,12 @@ look of your entire island, rooms in
 homes, your custom designs, any
 bulletin-board posts, and more.\0￿"
 "0831_a","I Understand"
+"0841","Do you want to remove the dream of
+\0\0s촀\0￿ from the list?"
+"0841_a","No."
+"0841_b","Remove it."
+"0842","Your favorite dreams cannot be
+removed from the list."
 "0921","You can make up to two posts during
 one trip."
 "0921_a","OK"
@@ -749,6 +755,11 @@ since the network connection was
 disrupted. Please turn it on and try
 again."
 "1456_a","Back"
+"1457","You'll need to connect to the internet
+before using the Best Friends List
+app here. Connect now?"
+"1457_a","Never mind."
+"1457_b","Connect."
 "1501","Are you sure you want to discard
 your changes?"
 "1501_a","Keep editing!"
@@ -1095,6 +1106,14 @@ then designing your home interior!
 Nook Inc. Allows the user to swim
 and dive freely in the ocean.
 \0\0Item will be delivered by mail.\0￿"
+"3022","Change up your look at a \0mirror \0￿or a\0
+vanity \0￿with fun body-paint varieties!
+\0\0Book will be printed immediately
+upon redemption.\0￿"
+"3023","Change up your look at a \0mirror \0￿or a\0
+vanity \0￿with new eye-color choices!
+\0\0Book will be printed immediately
+upon redemption.\0￿"
 "5001","\0Camera\0￿
 Take pictures using various
 filters and effects.\0\0\0\0The pictures will be saved to the
@@ -1511,21 +1530,21 @@ the game from the HOME Menu."
 "8014","The Nintendo Account linked to this
 user is different than it was before.\0\0Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you play again.\0\0Do you want to start playing again
+reset if you play again.\0\0Do you want to start playing again
 as \0s\0촀\0￿?"
 "8014_a","I'm not sure."
 "8014_b","Yes."
 "8015","This user does not have a Nintendo
 Account linked.\0\0Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you play again.\0\0Do you want to start playing again
+reset if you play again.\0\0Do you want to start playing again
 as \0s\0촀\0￿?"
 "8015_a","I'm not sure."
 "8015_b","Yes."
 "8016","The Nintendo Account linked to this
 user is different than it was before.\0\0Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you start playing again.
+reset if you start playing again.
 Do you want to start playing again?"
 "8016_a","No"
 "8016_b","Yes"
@@ -1534,9 +1553,8 @@ and a valid Nintendo Account needs
 to be verified via the internet.\0\0If you begin playing before verifying,
 all features that use the internet—
 including the Best Friends List—will
-be reinitialized.\0\0Do you want to reinitialize all
-features that use the internet
-and begin playing?"
+be reset.\0\0Do you want to reset all features that
+use the internet and begin playing?"
 "8017_a","No"
 "8017_b","Yes"
 "8018","The link between this user account

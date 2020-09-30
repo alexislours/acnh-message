@@ -1,5 +1,5 @@
 ﻿"label","text"
-"001","(%촀\0Les paramètres NookLink ?
+"001","(%촀\0Les paramètres \0NookLink\0￿ ?
 \0
 Avec plaisir, oui, oui !"
 "010","()촀\0Dans ce cas, es-tu prêt2\0e à te
@@ -8,10 +8,17 @@ l'accès à \0NookLink\0￿ ?"
 "010_a","Oui, oui !"
 "010_b","Dis-m'en plus."
 "010_c","Non, merci."
-"015","( 촀\0Si je ne m'abuse, n\0, (\0촀\0tu as déjà accès à NookLink ? 
+"015","( 촀\0Si je ne m'abuse, n\0, (\0촀\0tu as déjà accès à \0NookLink\0￿ ? 
 \0(&촀\0Tu désirais davantage d'explications ?"
 "015_a","Oui, des explications !"
 "015_b","Non, merci."
+"016","(\0촀\0Je suppose que tu as déjà accès
+à \0NookLink\0￿, 
+\0(&촀\0alors dis-moi comment
+je peux t'aider, n\0 ?"
+"016_a","NookLink ?"
+"016_b","Mes données de jeu en ligne !"
+"016_c","J'ai besoin de rien, merci."
 "020","(%촀\0Ça y est, on a fait le tour. Es-tu prêt2\0e
 à te connecter à Internet et à régler
 l'accès à \0NookLink\0￿, maintenant ?"
@@ -29,9 +36,9 @@ Nintendo Switch Online\0￿."
 "120","(""촀\0
 \0Continue de bien t'amuser à n	\0."
 "150","(촀\0Je suis navré, mais on dirait qu'il y a
-eu un souci lors du réglage.
-\0 (&촀\0Tu veux
-réessayer ?"
+eu un souci en cours de route.
+\0
+(&촀\0Tu veux réessayer ?"
 "150_a","Oui, je veux réessayer !"
 "150_b","Une autre fois."
 "151","(촀\0Pour cela, quelqu'un doit d'abord
@@ -42,6 +49,17 @@ utilisateurs\0￿ via le contrôle parental.
 \0(%촀\0retournons à l'écran
 titre et concentrons-nous sur notre
 bonheur insulaire, hm ?"
+"160","()촀\0Tu dois te connecter à Internet pour
+mettre en ligne tes données de jeu
+et ton profil \0NookLink\0￿.
+Alors, ($촀\0es-tu prêt2\0e à te connecter à
+Internet, hm ?"
+"160_a","Oui, oui !"
+"160_b","Non, laisse tomber."
+"161","(촀\0Tes données de jeu ont été mises
+en ligne !\0\0(%촀\0N'oublie pas d'ouvrir \0NookLink\0￿ via
+l'\0appli Nintendo Switch Online\0￿ quand
+tu auras un moment."
 "200","()촀\0\0NookLink\0￿ est un service lié à ce
 jeu développé par Nook Inc. pour
 l'\0application Nintendo Switch Online\0￿.\0\0Imaginons que tu disposes de
@@ -56,7 +74,7 @@ proposés.\0\0Ainsi, en ligne, tu pourras te servir
 du clavier de ton appareil connecté
 pour(촀\0 papoter avec les autres joueurs.\0\0(%촀\0NookLink permet aussi de consulter
 les informations relatives aux joueurs
-inscrits sur ta liste de meilleurs amis.\0\0()촀\0Pour en savoir plus, tu peux utiliser
+de ta liste des meilleurs amis.\0\0()촀\0Pour en savoir plus, tu peux utiliser
 un appareil connecté et télécharger
 \0(""촀\0
 l'\0application Nintendo Switch Online\0￿."

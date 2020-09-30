@@ -39,12 +39,11 @@ already?"
 \0 I had no idea you were
 so handy,
 \0 n\0!"
-"010","(촀\0I'd give it to you now,
-\0 but it looks
-like your pockets are full.
-\0( (촀\0Tell me
-when you got room,
-\0 n\0."
+"010","(촀\0Well!
+\0 It seems your pockets are full.
+\0
+(촀\0Why don't you go clear some room,
+and we'll get this exchange goin'."
 "011","<"
 "015","(촀\0Ow,
 \0 ow, ow
@@ -90,3 +89,46 @@ recipe, 'cause if not,
 some perfectly good paper.\0\0()촀\0OK,
 \0 here's what's to know for makin'
 2\0}\0\0.\0\0($촀\0Have fun, kiddo!"
+"030","(촀\0
+\0Oh! 
+\0You're gonna need to get a few
+pumpkins if you wanna slap that
+together, by the by.\0\0()촀\0Maybe you oughta try growing some!
+\0
+Assumin' you haven't already, that is."
+"031","(촀\0
+\0Oh! 
+\0To customize that, you can't use
+just any ol' pumpkin.
+\0 ()촀\0You'll need one
+that matches the color you're after.(촀\0\0\0If you grow enough pumpkins, you're
+bound to get a color variation or two.
+\0
+(촀\0You can use those for customizin'!"
+"032","(촀\0You're back! 
+\0I've still got something
+here for you."
+"033","(2촀\0Of course, 
+\0you're an old pro who
+already seems to know your way
+around this recipe, son"
+"034","(촀\0
+\0I know! 
+\0Instead of the recipe, how's
+about I share some of my \0pumpkins
+\0￿with ya instead?"
+"035","(7촀\0With all this Halloween stuff goin' on,
+\0
+I'm sure you'll make better use of a
+few \0pumpkins\0￿ than I would anyway."
+"036","(촀\0
+\0I got it! 
+\0I have a little extra \02\0Ѐ촃candy\0￿
+here. 
+\0Since you don't need the
+recipe, why don't you take some?"
+"037","(촀\0'Cause what's Halloween without
+\02\0Ѐ촃candy\0￿, right?
+\0 Nothin', that's what!
+\0
+($촀\0Enjoy it, kiddo!"

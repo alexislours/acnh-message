@@ -108,14 +108,22 @@ fringues ?
 absorber des litres de transpiration !
 \0
 (촀\0En plus, c'est super confortable."
-"101","(%촀\02\02\0}촀 que je porte a un effet incroyable !\0\0(촀\0Quand j'ai sur moi un vêtement neuf,
+"101","<"
+"101_01","(%촀\02\02\0}촀 que je porte a un effet incroyable !\0\0(촀\0Quand j'ai sur moi un vêtement neuf,
 \0
 j'exerce des muscles que je fais pas
 forcément travailler d'habitude.
 (%촀\0C'est idéal pour mon entraînement
 musculaire.
 \0 (\0촀\0Enfinn\0\0 (촀\0je pense, non ?"
-"102","(7촀\0Avec une tenue décontractée comme 2\0}촀, tout mon stress semble s'évaporer.\0\0(1촀\0Là, je me sens totalement détendun\0\0
+"101_02","($촀\0De quoi j'ai l'air ?
+\0 J'ai eu envie de
+changer un truc ou deux.\0\0(촀\0J'ai pas besoin de porter un t-shirt
+sans manches tout le temps. 
+\0(촀\0Parfois,
+j'ai juste envie d'un look sympa."
+"102","<"
+"102_01","(7촀\0Avec une tenue décontractée comme 2\0}촀, tout mon stress semble s'évaporer.\0\0(1촀\0Là, je me sens totalement détendun\0\0
 \0
 
 
@@ -124,31 +132,68 @@ musculaire.
 \0 j'en ai oublié
 ma séance d'entraînement !
 	"
-"103","(촀\02\02\0}촀 que je porte ?
+"102_02","(7촀\0J'avais envie de quelque chose de
+moins sportif et de plus cool.
+\0((&촀\0
+Alors, qu'est-ce que tu en dis ?\0\0(%촀\0Je dois faire très attention. 
+\0((촀\0Une
+flexion à fond et cette tenue finit
+en lambeaux."
+"103","<"
+"103_01","(촀\02\02\0}촀 que je porte ?
 \0 Confortable et chic !
 \0 Pas besoin de tenues sophistiquées.\0\0(%촀\0Je veux que mes vêtements reflètent
 la souplesse et l'élasticité de mes
 muscles.
 \0 Alors,
 \0 (&촀\0c'est réussi, ou pas ?"
-"104","(촀\0Comment ça va, 2*p'tit garsma grande ?
+"103_02","(촀\0Ça va, je sais ce que tu penses.
+\0
+(2촀\0Peut-être que mes muscles sont un
+peu trop voyants dans cette tenue.\0\0()촀\0C'est pas ma faute si les vêtements
+simples s'effacent devant ma
+musculature de rêve, n\0 !"
+"104","<"
+"104_01","(촀\0Comment ça va, 2*p'tit garsma grande ?
 \0 (촀\0Alors,
 je passe pas inaperçu, hein ?\0\0(7촀\0Hé hé ! Si j'attire les regards assez
 longtemps, je finirai peut-être dans
 la liste des attractions locales !"
-"105","(촀\0Regarde-moi ça ! Voilà un vêtement
+"104_02","(6촀\0Vise un peu mon allure !
+\0(촀\0 J'ai enfin
+trouvé la tenue dans laquelle mes
+muscles peuvent s'épanouir !\0\0('촀\0Enfin, pas tout à fait. 
+\0Je suis pas
+sûr qu'elle résiste longtempsn\0\0
+(촀\0à ça !"
+"105","<"
+"105_01","(촀\0Regarde-moi ça ! Voilà un vêtement
 qui a été conçu pour pouvoir bouger
 à son aise !
 (5촀\0C'est pile ce qu'il me faut : ma tenue
 doit résister aux chocs provoqués
 par mon entraînement rigoureux !"
-"106","(5촀\0J'ai l'air particulièrement élégant,
+"105_02","(&촀\0Dis, comment tu me trouves,
+aujourd'hui ? 
+\0((촀\0Encore plus sportif
+que d'habitude, peut-être ?\0\0(촀\0Je sais bien que ce n'est pas la tenue
+qui fait le sportif...
+\0((촀\0 mais on ne va pas
+se mentir, ça peut aider !"
+"106","<"
+"106_01","(5촀\0J'ai l'air particulièrement élégant,
 aujourd'hui, pas vrai ?\0\0(%촀\0À ce qu'il paraît,
 \0 avec une apparence
 soignée comme celle-là, on a plus de
 chances d'être heureux en amour.
 (촀\0Alors, je me suis dit : « Ça ne coûte
 rien d'essayer ! » 2\0n\0 !"
+"106_02","(6촀\0Tu ne remarques rien ?
+\0(촀\0 J'ai sorti
+une tenue chic, n\0 !\0\0(2촀\0J'ai dû forcer pour faire entrer mes
+biceps, alors ne me fais pas rire, 
+\0(촀\0les
+coutures risquent de craquer."
 "201","($촀\0Qu'en dis-tu ?
 \0 J'ai investi dans 2\0}촀,
 n\0 !\0\0()촀\0C'est une matière respiranten\0\0

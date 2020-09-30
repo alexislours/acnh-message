@@ -109,15 +109,27 @@ non hai freddo vestit2oa così,
 in favore della moda, 
 \0ma (*촀\0così temo
 che ti buscherai un bel raffreddore!"
-"016","Oooh,
+"016","<"
+"016_01","Oooh,
 \0 (촀\02""촀il tuola tua\0 }촀
 è adoraaabile!\0\0(촀\0Proprio come te, n\0!"
-"017","(촀\02""촀QuestoQuesta\0 }촀 che sfoggi 
+"016_02","(촀\0Oh, adoraaabili! Oui, tu e 2""촀il tuola tua\0
+}촀!\0\0(4촀\0Siete una gioia per gli occhi!
+\0 Che meraviglia! Dico sul serio, n\0.\0\0(촀\0Abbiamo tutti qualcosa da imparare
+da tanta deliziosità, n\0."
+"017","<"
+"017_01","(촀\02""촀QuestoQuesta\0 }촀 che sfoggi 
 \0dimostra che in fatto di moda non sei 2 secondoseconda a nessuno!\0\0(촀\0Dis-moi, 
 \0come ci si sente con un
 look così affascinante e sicuro di
 sé, n\0?"
-"018","(촀\0Adoooro lo stile rilassato 2*촀del tuodella tua\0
+"017_02","(4촀\0Oh, stai benissimissimo con 2""촀il tuola tua\0 }촀!\0\0Non ho parole. Non tutti hanno il
+physique du rôle per un capo del
+genere, n\0.\0\0(""촀\0Se non la smetti subito di essere
+così straordinariamente adooorabile,
+diventerò una tua fan, n\0."
+"018","<"
+"018_01","(촀\0Adoooro lo stile rilassato 2*촀del tuodella tua\0
 }촀!\0\0(촀\0Oh, 
 \0non intendo certo dire che tu
 non ti sia impegnat2oa nella scelta del
@@ -127,23 +139,50 @@ tuo abbigliamento, 
 indossare dei capi base con così
 tanto stile, 
 \0n\0!"
-"019","(촀\0Ma guarda come sei elegante
+"018_02","($촀\0Oggi i tuoi vestiti esprimono a gran
+voce la tua eleganza! Oui, 2""촀il tuola tua\0
+}촀.
+I regali più belli sono impacchettati
+in modo semplice.
+\0 (""촀\0E che regalo
+magnifique è essere tua amica!(촀"
+"019","<"
+"019_01","(촀\0Ma guarda come sei elegante
 \0 con
 2""촀questoquesta\0 }촀!\0\0(4촀\0Sarebbe bello se anch'io avessi
 un sesto senso per la moda come
 te, n\0n"
-"020","(촀\0Sembri 2D prontissimissimo prontissimissima a fare un
+"019_02","($촀\0Come fai a portare quel capo così
+beeene?
+\0 Mais oui, parlo 2*촀del tuodella tua\0 }촀.\0\0Oh, ho capito!
+\0(""촀\0 Sei 2F un grande attore""una grande étoile del cinema in incognito sull'isola. Dico bene, n\0?\0\0(7촀\0Vorrei anch'io avere il coraggio di uscire di casa vestita proprio come te, n\0."
+"020","<"
+"020_01","(촀\0Sembri 2D prontissimissimo prontissimissima a fare un
 po' di sano movimento con 2촀quelquella\0
 2촀tuotua\0 }촀!\0\0(촀\0Dovrei prendere esempio da te,
 
 \0ma sain\0\0 sudare non fa pour moi,
 n\0!"
-"021","( 촀\0C'è una serata VIP da qualche parte,
+"020_02","Oooooh!
+\0 ($촀\0Sei una vera forza della
+natura con 2""촀il tuola tua\0
+}촀 indosso!
+(""촀\0Un raggio di sole in grado di
+illuminare il più grigio dei cieli, n\0!"
+"021","<"
+"021_01","( 촀\0C'è una serata VIP da qualche parte,
 
 \0per caso?\0\0(촀\0Perché a giudicare da 2.촀quel tuoquella tua\0 }촀 che indossi, 
 \0sembrerebbe proprio così.\0\0(2촀\0Vestita così, 
 \0mi sento un petit peu
 inadeguata, n\0."
+"021_02","(&촀\0Dimmi come fai!
+\0 Nessuno riesce a vestirsi come te, n\0.\0\0(촀\0Mais oui, dico sul serio.
+\0 Come fai a
+portare così bene 2""촀il tuola tua\0 }촀?\0\0(촀\0Vorrei tanto saper osare e provare
+ad imitarti!
+\0 Per ora, però, continuerò
+solo ad ammirarti, n\0."
 "101","<"
 "101_01","(촀\0Noto che adooori questo capo
 d'abbigliamento. 
@@ -259,6 +298,30 @@ abiti tradizionali, n\0!
 (촀\0È incroyable come la moda riesca
 a prendere qualcosa di vecchio e
 renderlo del tutto nuovo."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Uau! 
+\0((촀\0Adoooro il tuo vestito! Lo hai
+creato tu?
+\0 Ha un adorabile taglio,
+tipico della sartoria artigianale.
+($촀\0Sprizza amore da ogni cucitura.
+\0(
+(촀\0E, diciamocelo, chi può fare a
+meno dell'amore?"
+"216","( 촀\0Oh, ma guarda! Dei capi originali
+della Dodo Airlines, fantastique!\0\0(7촀\0Io conservo i miei in cassaforte,
+\0
+(촀\0ma ammiro il tuo coraggio e la tua
+voglia di goderteli, n\0!"
+"217","( 촀\0Oooh!
+\0 Indossi un costume,
+\0
+dico bene?\0\0(촀\0Lo adoooro! Rende questa giornata
+ancora più speciale.\0\0()촀\0Costumi così belli dovrebbero essere
+indossati ogni giorno dell'anno.
+\0 N'est-ce pas, n\0?(촀"
 "251","Dimmin\0\0 
 \0(&촀\0Dove o da chi hai preso
 l'inspiration per il completo che
@@ -290,6 +353,60 @@ felice di fartene uno. 
 \0O anche di
 più. 
 \0(촀\0Pensaci!"
+"255","(;촀\0Oh, il tuo costume!
+\0 Non ci posso credere, n\0.\0\0(촀\0Excuse-moi, volevo dire che è
+adoraaabile.
+\0( (촀\0E mi fa tanto piacere
+vederti vestit2oa così.
+(촀\0Potresti tranquillamente partecipare
+a una delle feste della mia famiglia.
+Ti adorereeebbero, n\0!"
+"256","( 촀\0Uaun\0\0 ma sei una meraviglia,
+n\0.\0\0(""촀\0Excuse-moi, non mi aspettavo
+di vederti in tenuta conigliesca.
+Sei adoraaabile!
+(1촀\0Chi non vorrebbe un delizioso paio di
+orecchiotte sofficiose come quelle?
+Io le vorrei di sicuro, n\0."
+"257","( 촀\0Attend!
+\0 Ma sein\0\0 Mais oui!\0\0(촀\0Oggi sei un orso! Io sono un'orsa
+tutti i giorni!\0\0(9촀\0Ma lo sai chen\0\0 a guardarti benen\0\0
+sembri proprio un2oa della mia
+famiglia.
+(2촀\0Sì sì, lo so che non sei mi2oa parente,
+ma è molto divertente immaginarlo,
+n\0."
+"258","(촀\0Oh!
+\0 Lo sapevi chen\0\0 Ma certo che
+lo sai, n\0.\0\0(""촀\0Sei 2un un'orsett2oa oggi!
+\0 Adoraaabile!
+Molti degli orsi che conosco sono
+cooosì coccolosi, n\0.\0\0Non tutti, naturalmente,
+\0 ($촀\0ma io
+prediligo di gran lunga quelli
+che lo sono,
+\0 tu no?"
+"259","($촀\0(촀\0Oooh, ma che graziosa pecorella
+che sei!\0\0(9촀\0Intendo dire che il tuo costume è
+delizioso, ovviamente.
+\0 Excuse-moi,
+mi hai davvero colta impreparatan\0\0
+()촀\0Scoprirai presto come la lana sia
+confortevole tutto l'anno.
+\0 Calda
+d'inverno,
+\0 traspirante d'estate.\0\0Excuse-moi di nuovo, forse ti annoio,
+ma sono così felice di vederti vestit2oa
+così, n\0!"
+"260","( 촀\0Oooh! Hai deciso di presentarti al
+mondo come una dolce pecorella
+oggi, n\0!\0\0(""촀\0Sei davvero adoraaabile, tesorin2oa.
+\0
+Quelle corna arricciolate ti stanno
+a meraviglia. Ti donano molto!\0\0(4촀\0Ma in fondo a te sta bene qualsiasi
+cosa, n'est-ce pas?
+\0 Sei un modello
+da seguire, n\0."
 "301","(촀\0Uau, n\0!
 \0(촀\0 Con quel completo, 
 \0mi ricordi 2@il protagonistala protagonista di un libro illustrato!\0\0(촀\0Manca solo una foresta magica
@@ -342,6 +459,25 @@ salpare per i sette marin\0\0
 \0(1촀\0 in
 cerca di terre ancora sconosciute.
 (""촀\0Quando torni mi porti un cadeau?"
+"307","(촀\0Oooh, quella tenuta da medico ti sta
+a meraviglia. Sei adoraaabile e molto
+autorevole, n\0!\0\0( 촀\0Ohn\0\0 Avevo un terribile mal di testan\0\0
+e ora sto bene.
+\0 Sei stat2oa tu?
+\0 (""촀\0Hai
+tutto il mio rispetto, n\0."
+"308","($촀\0Oh!
+\0 Spero di non disturbarti durante
+un allenamento.\0\0(4촀\0I tuoi vestiti sembrano cooosì
+comodi.
+\0 Sarebbero perfetti per una
+maratona di lettura, n\0."
+"309","(촀\0Oh! Tu devi essere 2Bl'investigatore l'investigatricen\0!\0\0(촀\0Dimmi, dimmi!
+\0 Hai risolto il caso?\0\0(\0촀\0Mi chiedevo sen\0\0((촀\0 potessi assumermi
+come tua assistente.
+\0( Sai,
+\0 (""촀\0il crimine
+mi affascina moltissimissimo."
 "401","<"
 "401_01","(촀\0Ogni volta che ti vedo vestit2oa così,
 
@@ -361,3 +497,18 @@ vestit2oa così 
 benissimissimo, n\0.\0\0(촀\0È un po' il tuo marchio di fabbrica
 questo lookn\0\0 e io lo adoooro,
 n\0."
+"501","<"
+"501_01","($촀\0Oggi il tuo viso è una vera e propria
+opera d'arte, n\0.\0\0(%촀\0Mi delizia sempre vederti, ma chi si
+aspettava di vedere un capolavoro
+del genere, n\0?"
+"501_02","($촀\0Hai un talento speciale per il trucco
+e la cosmesi, n\0.\0\0(&촀\0È davveron\0\0 affascinante come il
+trucco possa essere usato in così
+tanti modi diversi, n\0."
+"501_03","($촀\0Penso che il tuo modo di usare il
+trucco potrebbe dare il via a una
+nuova tendenza, n\0.\0\0Impossibile non notarlo,
+\0 (2촀\0o forse sei
+tu che, con la tua bellezza, non passi
+inosservat2oa, n\0."

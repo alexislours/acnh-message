@@ -209,6 +209,14 @@ Häusern, eigene Designs, Beiträge
 am Schwarzen Brett und andere
 Inhalte.\0￿"
 "0831_a","Verstanden"
+"0841","Möchtest du den Traum von
+\0\0s촀\0￿ aus der Liste
+entfernen?"
+"0841_a","Nein"
+"0841_b","Ja"
+"0842","Als Favoriten registrierte Träume
+können nicht aus der Liste entfernt
+werden."
 "0921","Bei einem Ausflug kannst du bis
 zu zwei Aushänge verfassen."
 "0921_a","OK"
@@ -801,6 +809,12 @@ durch eine Verbindungsunter-
 brechung deaktiviert. Aktiviere sie
 und versuche es dann erneut."
 "1456_a","Zurück"
+"1457","Bevor du die Beste-Freunde-App
+nutzen kannst, musst du eine
+Verbindung zum Internet herstellen.
+Möchtest du dies jetzt tun?"
+"1457_a","Abbrechen"
+"1457_b","Verbinden"
 "1501","Möchtest du deine Änderungen
 wirklich verwerfen?"
 "1501_a","Nein"
@@ -1167,6 +1181,13 @@ nur für echte Fans von Nook Inc.!
 \0Taucheranzug\0￿. Ermöglicht Schwimm-
 und Tauchausflüge im Meer.
 \0\0Lieferung per Post.\0￿"
+"3022","Schicke Bodypaint-Optionen
+zur Auswahl an \0Spiegeln\0￿ und
+\0Frisiertischen\0￿.
+\0\0Sofort verfügbar.\0￿"
+"3023","Neue Augenfarben zur Auswahl
+an \0Spiegeln\0￿ und \0Frisiertischen\0￿.
+\0\0Sofort verfügbar.\0￿"
 "5001","\0Kamera\0￿
 Fotografiere und setze dabei
 diverse Filter und Effekte ein.\0\0\0\0Die Fotos werden im Album des
@@ -1234,7 +1255,7 @@ oder anderen) und keine
 beleidigenden Bilder oder Worte.\0￿"
 "5052","\0Profi-Designs\0￿
 Danke, dass du dich für die Profi-
-Version der Designer-App
+Version der \0Designs\0￿-App
 entschieden hast.\0\0Mit der Profi-Version kannst du:
 ・Farben bearbeiten
 ・Profi-Designs erstellen\0\0Wir hoffen, dass du viel Freude
@@ -1589,25 +1610,25 @@ schließen, beende das Spiel
 über das HOME-Menü."
 "8014","Der mit diesem Nutzer verknüpfte
 Nintendo-Account hat sich geändert.\0\0Alle Funktionen, die das Internet
-nutzen (z.B. die Beste-Freunde-Liste)
-werden zurückgesetzt, wenn du
-das Spiel fortsetzt.\0\0Möchtest du das Spiel als
+nutzen (z.B. die Beste-Freunde-
+Liste), werden zurückgesetzt, wenn
+du das Spiel fortsetzt.\0\0Möchtest du das Spiel als
 \0s\0촀\0￿ fortsetzen?"
 "8014_a","Nicht sicher"
 "8014_b","Ja"
 "8015","Dieser Nutzer ist mit keinem
 Nintendo-Account verknüpft.\0\0Alle Funktionen, die das Internet
-nutzen (z.B. die Beste-Freunde-Liste)
-werden zurückgesetzt, wenn du
-das Spiel fortsetzt.\0\0Möchtest du das Spiel als
+nutzen (z.B. die Beste-Freunde-
+Liste), werden zurückgesetzt, wenn
+du das Spiel fortsetzt.\0\0Möchtest du das Spiel als
 \0s\0촀\0￿ fortsetzen?"
 "8015_a","Nicht sicher"
 "8015_b","Ja"
 "8016","Der mit diesem Nutzer verknüpfte
 Nintendo-Account hat sich geändert.\0\0Alle Funktionen, die das Internet
-nutzen (z.B. die Beste-Freunde-Liste)
-werden zurückgesetzt, wenn du
-das Spiel fortsetzt.\0\0Möchtest du fortfahren?"
+nutzen (z.B. die Beste-Freunde-
+Liste), werden zurückgesetzt, wenn
+du das Spiel fortsetzt.\0\0Möchtest du fortfahren?"
 "8016_a","Nein"
 "8016_b","Ja"
 "8017","Die Verknüpfung zwischen diesem

@@ -160,31 +160,71 @@ gelato alla crema!
 (촀\0Mettiti almeno una sciarpa al collo
 
 \0o rischierai di prenderti un malanno!"
-"016","(촀\0Oh, 
+"016","<"
+"016_01","(촀\0Oh, 
 \0che }촀 2""촀carinocarina\0 che indossi!
 \0 (촀\0O meglio,
 \0 è proprio adorabile!\0\0(""촀\0Ti sta meravigliosamente bene
 \0
 e si vede che ti senti molto a tuo
 agio con questi abiti, n\0!"
-"017","(촀\0Oh, n\0!
+"016_02","($촀\0Parola mia,
+\0 oggi sei adorabilissim2oa.
+\0((촀\0
+Forse dovresti indossare più spesso
+2""촀questoquesta\0 }촀.\0\0(4촀\0Ma se non hai intenzione di farlo,
+\0
+magari facciamo uno scambio?
+\0 (7촀\0O fai
+una donazione al mio guardaroba
+\0?"
+"017","<"
+"017_01","(촀\0Oh, n\0!
 \0 Hai un look che definirei ""mitico"",
 \0(6촀\0 se non sapessi parlare educatamente.\0\0(""촀\0Il modo in cui tu porti 2""촀questoquesta\0 }촀 è davvero unico, n\0."
-"018","(촀\0Sai,
+"017_02","( 촀\0Sono io o oggi abbiamo qualcosa
+din\0\0
+\0 spavaldo,
+\0 direi? 
+\0((촀\0Ah,
+\0 ma è 2""촀il tuola tua\0
+}촀!\0\0(9촀\0L'abbigliamento può cambiare la
+percezione che hanno di te. 
+\0((촀\0A volte
+tira anche fuori lati nascosti di noi."
+"018","<"
+"018_01","(촀\0Sai,
 \0 il modo in cui indossi 2""촀questoquesta\0 }촀n\0\0\0\0(촀\0Amo la tua sobria eleganza!
 \0 E puoi
 stare 2
 certo
 certa che saprò imparare da te,
 n\0!"
-"019","(""촀\02\02\0}촀 che indossin\0\0
+"018_02","(촀\0Oggi mi dai un'impressione di
+semplicità quasi minimalistan\0\0
+\0 Sarà
+2""촀il tuola tua\0 }촀?\0\0(촀\0Sì,
+\0 ne sono sicura!
+\0 E lo dico in senso
+buono:
+\0 mi piace quando i fronzoli
+sono ridotti al minimo, n\0!"
+"019","<"
+"019_01","(""촀\02\02\0}촀 che indossin\0\0
 \0(촀\0 ha un aspetto assolutamente fantastico!\0\0()촀\0Quando si tratta di capi simili,
 \0 non
 sei tu a scegliere loron\0\0
 \0 sono loro
 a scegliere te!
 (촀\0E stavolta 24il presceltola prescelta sei tu, n\0!"
-"020","(촀\0Ah, vedo che indossi 2\0}촀!\0\0(촀\0Non ti senti in forma al solo
+"019_02","(%촀\0Sono convinta che tu sia 2natonata per
+2""촀questoquesta\0 }촀.\0\0()촀\0Non ti sto prendendo in giro,
+\0 è che
+vi esaltate a vicenda in maniera
+incredibile.
+\0(6촀\0 Non toglierl2촀oa\0 mai!"
+"020","<"
+"020_01","(촀\0Ah, vedo che indossi 2\0}촀!\0\0(촀\0Non ti senti in forma al solo
 indossare dei capi così?
 \0( Io sì,
 n\0!
@@ -195,13 +235,25 @@ non fraintendere!
 (6촀\0Non ho nessuna intenzione di farlo,
 \0
 dicevo tanto per dire!"
-"021","(촀\0Oggi emani un fascino particolare,
+"020_02","(촀\0Sembri una molla pronta a
+scattare con indosso 2""촀il tuola tua\0
+}촀.\0\0(촀\0Se sei attiv2oa la metà di quanto
+sembra dal tuo abbigliamento,
+\0 per
+me sei già 2(un atletaun'atleta professionista!"
+"021","<"
+"021_01","(촀\0Oggi emani un fascino particolare,
 \0
 una sorta di calma eleganzan\0\0
 \0 (%촀\0che
 per me ti si addice perfettamente.
 ($촀\02\02\0}촀 che indossi dev'essere la chiave di tutto.
 \0 (촀\0Non cambiare più stile!"
+"021_02","(촀\0Sai cosa penso quando ti vedo con
+2\0}촀?\0\0(촀\0Penso che se camminassimo
+affiancat2ie,
+\0 chi ci vede correrebbe
+subito a cambiarsi per non sfigurare!"
 "101","<"
 "101_01","(촀\0I tuoi vestitin\0\0
 \0 ti piacciono molto,
@@ -338,8 +390,43 @@ di te, n\0.
 sceltan\0\0
 \0(촀\0 Mi lascerei trascinare da te
 nelle danze, n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Man\0\0 cosa stain\0\0 indossando,
+n\0?\0\0(촀\0Il tuo aspetto, 
+\0il tuo contegno,
+\0
+la qualità degli abiti...
+\0( È tutto
+confezionato a mano, vero?\0\0(\0촀\0Eh, sì.
+\0 L'ho capito perché sono fatti
+con la materia prima più importante:
+\0
+(촀\0l'amore!"
+"216","(;촀\0Ma guardati!
+\0 Griffat2oa DAL dalla testa
+ai piedi!
+\0( (6촀\0Sei proprio un2
+ veroa vera fan.\0\0I tuoi indumenti hanno colori
+alquanto vivaci.
+\0 Immagino ti piaccia
+proprio prendere l'aereo, vero?
+(%촀\0Io non sono molto per i capi firmati,
+
+\0(촀\0ma è bello avere una passione così
+forte per qualcosa."
+"217","Oh, 2$mio caromia cara,
+\0 (촀\0hai un look strepitoso
+oggi. 
+\0Misterioso e inquietante allo
+stesso tempo.
+\0( (촀\0Lo adoro!\0\0(%촀\0Sei pront2oa per qualsiasi festa in
+costume e per far perdere la testa
+a tutti gli invitati.
+\0 (""촀\0Eccezionale!"
 "251","(촀\0Cielo, n\0!
-\0 (6촀\0Hai un'aspetto davvero felino, oggi!\0\0(5촀\0Di sicuro ti sei ispirat2oa a me. 
+\0 (6촀\0Hai un aspetto davvero felino, oggi!\0\0(5촀\0Di sicuro ti sei ispirat2oa a me. 
 \0-(\0촀\0Non
 c'è bisogno di nasconderlo, 
 \0(촀\0ci sono
@@ -373,6 +460,52 @@ gracidoso oggi, n\0!\0\0(%촀\0Sai che vestirsi da anfibio è l'ultima
 tendenza del momento? 
 \0(6촀\0Si direbbe
 che sei saltato nello stagno giusto!"
+"255","(촀\0Ma guardati, n\0!\0\0(:촀\0Sei cosìn\0\0 leprottesc2oa.\0\0(촀\0Devo stare attenta o gli altri
+inizieranno a vedere te come
+massima autorità conigliesca qui.
+(5촀\0Però sarò ben lieta di illustrarti tutti
+i miei segreti a riguardo."
+"256","(:촀\0Ma guarda un po' chi ha deciso di
+darsi un tono...
+\0 conigliesco oggi.\0\0(촀\0Ah, non prenderla come una critica,
+\0
+ovviamente.
+\0 Tutt'altro.\0\0(촀\0Soprattutto quelle orecchien\0\0 (촀\0mi
+fanno impazzire, n\0!"
+"257","(촀\0Ma...
+\0 a cosa si deve questo aspetto
+orsino, n\0?\0\0(촀\0Lo adoro. E sono contenta che tu ti
+senta così in sintonia con noi orsi.\0\0Forse così scoprirai che dentro
+siamo come siamo fuori:
+\0(촀\0 morbidi
+e caldi, n\0."
+"258","(""촀\0Guarda un po' che look, oggi.
+\0 Fatti
+vedere per bene, n\0!\0\0()촀\0Aaah, ho capito dove vuoi andare
+a parare:
+\0( vuoi dare l'impressione di
+essere morbidos2oa e abbracciabile.
+(촀\0Un po' sono gelosa, lo ammetto.
+\0
+Come vorrei che funzionasse anche
+con me, n\0."
+"259","Ma cos'abbiamo qui?
+\0 Ti sei vestit2oa
+dan\0\0 me?\0\0(촀\0Mi piace che tu abbia osato.
+\0
+Ed eccoti una dritta: noi pecore
+puntiamo tutto sulla morbidezza.\0\0(5촀\0Sentiti pure liber2oa di copiare il
+mio stile sofficioso, n\0!"
+"260","(촀\0Ma...
+\0 ti sei davvero travestit2oa
+da pecora, n\0?\0\0(촀\0Beh,
+\0 hai fatto un ottimo lavoro!\0\0(1촀\0Davvero, non potevi fare di meglio.
+\0
+Morbidezza e lanosità sono a livelli
+ineccepibili.\0\0(6촀\0Davvero, niente da dire.
+\0 Non era
+per niente facile centrare il risultato
+così in pieno, n\0."
 "301","Il tuo completo oggin\0\0(%촀\0 ti fa sembrare
 davvero potente, n\0!\0\0(촀\0Vestit2oa così, 
 \0pare che ti sia stata
@@ -416,6 +549,26 @@ corte?
 \0 Non tenermi sulle spine!
 \0
 (9촀\0DEVI dirmelo, n\0!"
+"307","(촀\0Perbacco!
+\0 Mi sta bene che ci sia una
+moda ispirata all'abbigliamento
+termale, man\0\0 questo?\0\0(촀\0In effetti non so cosa pensare,
+n\0.\0\0(7촀\0Diciamo che... in altre circostanze
+hai scelto meglio, ecco..."
+"308","(촀\0Che look ballerinesco oggi!
+\0 Questa
+è pura eleganza,
+\0 lasciatelo dire.\0\0(1촀\0Già ti vedon\0\0 a volteggiare e saltare
+con movimenti aggraziatissimi.\0\0(촀\0Avevo proprio bisogno di questa
+iniezione di stile.
+\0 Ti ringrazio di
+cuore, n\0."
+"309","(촀\0Oooh!
+\0 E da dove arriva questo look...
+infantile (in senso buono)?\0\0(촀\0Perdonami. Quando vedo oggetti e
+vestiti da bebè, mi sciolgo sempre.\0\0(촀\0Non avevo idea che potessi essere
+così adorabile, ma ora lo sei, baby
+n\0!"
 "401","<"
 "401_01","(촀\0Indossi di nuovo quel completo,
 eh?
@@ -454,3 +607,18 @@ moda all'altra,
 \0 come se nulla fosse.
 \0
 (촀\0Tu sei un2oa che si impegna, tesoro!"
+"501","<"
+"501_01","(촀\0Sbaglio o c'è qualcosa di diverso
+nel tuo viso?\0\0(촀\0Magnifico, n\0."
+"501_02","(촀\0Vedo che oggi hai voluto provare
+un nuovo look, eh?\0\0(%촀\0Hai fatto bene. Lo stile personale
+non è solo questione di gusto.
+\0
+Dipende tanto anche dall'umore.\0\0(촀\0E quindi mi chiedon\0\0 qual è il tuo
+umore oggi?
+\0 Che personalità
+misteriosa che hai, n\0!"
+"501_03","(;촀\0Fantastico!
+\0 Vedo che hai iniziato
+a sperimentare con il trucco.\0\0(1촀\0Lo vedrei bene come il tocco finale
+per un'occasione speciale!"

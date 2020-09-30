@@ -3,6 +3,12 @@
 \0Sogno ad occhi aperti\0￿!
 \0 (1촀\0È il momento
 di lasciare libera l'immaginazione!"
+"AddPrank","Ho imparato a esprimere l'emozione
+\0Spavento\0￿! 
+\0(>촀\0Paura, eh?"
+"AddScaring","Ho imparato a esprimere l'emozione
+\0Terrore\0￿! 
+\0(?촀\0Dolcetto o scherzetto?"
 "Apologize","Ho imparato a esprimere l'emozione
 \0Scusa\0￿!
 \0 (#촀\0Bisogna saper riconoscere
@@ -41,10 +47,14 @@ ultimo!"
 \0Allegria\0￿!
 \0 (촀\0La vita è bella e il mondo
 è meraviglioso!"
-"HappyFlower","Adesso posso usare le emozioni!
+"HappyFlower","Ho imparato a usare un'\0emozione\0￿!
 \0
-(촀\0In questo modo, potrò esprimere
-i miei sentimenti!"
+(촀\0In questo modo potrò esprimere più
+facilmente i miei sentimenti!"
+"HappyFlower_1","Ho imparato a usare quattro
+\0emozioni\0￿!
+\0 (촀\0In questo modo potrò
+esprimere meglio i miei sentimenti!"
 "Hello","Ho imparato a esprimere l'emozione
 \0Contentezza\0￿! ($촀\0Eheh, niente male!"
 "Hesitate","Ho imparato a esprimere l'emozione

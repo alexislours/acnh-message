@@ -117,14 +117,21 @@ courtesy of s\0촂 from
 s촀.
 (5촀\0Suits me rather nicely, don't you
 think, n\0?"
-"101","(촀\0The }촀 I'm
+"101","<"
+"101_01","(촀\0The }촀 I'm
 wearingn\0\0too cute for my
 personal style or just right?
 (촀\0Oh, bother! 
 \0((촀\0Sometimes fashion
 decisions can be difficult even for
 a fashion maven such as myself."
-"102","('촀\0Darling, 
+"101_02","($촀\0Tell me, dear, what do you think of
+my }촀?\0\0(촀\0I wanted to wear something to show
+that I'm not all elegance. 
+\0(6촀\0Even I have
+a frivolous side, n\0."
+"102","<"
+"102_01","('촀\0Darling, 
 \0one does not simply
 WEAR ""cool"" clothing like my
 }촀 here.
@@ -133,7 +140,15 @@ as if it were a piece of armor!\0\0(촀\0You see,
 \0 clothing such as this
 protects us from the mundanen\0\0(촀\0
 and gives us the power to be daring!"
-"103","(""촀\0The }촀 I'm
+"102_02","(촀\0Aren't I the picture of slickness?
+\0
+(촀\0I suppose some credit must go to
+my }촀.\0\0(5촀\0Though who's to say where my
+coolness ends and my clothing's
+begins? 
+\0((4촀\0It's a stumper, n\0."
+"103","<"
+"103_01","(""촀\0The }촀 I'm
 wearingn\0\0 It's quite subdued, 
 \0don't
 you think?
@@ -142,7 +157,13 @@ you think?
 equal fashionable clothing!\0\0(촀\0Sometimes it's the simplest piece
 that truly brings an ensemble
 together, n\0!"
-"104","(촀\0Oh my,
+"103_02","(&촀\0How do I look to your eye in my
+}촀?\0\0(4촀\0Not too plain, I hope. 
+\0((촀\0I care not what
+the unvarnished masses think, but I
+do value your opinion."
+"104","<"
+"104_01","(촀\0Oh my,
 \0 n\0! 
 \0((촀\0Look at
 the }촀 I'm
@@ -153,7 +174,13 @@ wearing!
 DYING to wear this ensemble out!
 \0
 (2촀\0I feel son\0\0glamorous!"
-"105","('촀\0One can't dress fancy ALL of the
+"104_02","()촀\0For those of us who live and breathe
+fashion, it's second nature to wear
+2\0}촀.\0\0(7촀\0But if that's the case, where does
+one go from here? A sobering
+thought, n\0."
+"105","<"
+"105_01","('촀\0One can't dress fancy ALL of the
 time! 
 \0(""촀\0Take my sporty-yet-stylish
 }촀n\0\0
@@ -163,7 +190,13 @@ athletic activities!
 (6촀\0Not that I plan on doing anything
 strenuous like that myself,
 \0 of course."
-"106","I must say,
+"105_02","(촀\0Tell me the truth: Do you find it
+shocking to see me actually wearing
+2\0}촀?\0\0(5촀\0There's a timeless appeal to being
+active that never goes out with fad
+or fashion, n\0."
+"106","<"
+"106_01","I must say,
 \0 (촀\0I do look quite elegant
 today, don't I?\0\0(촀\0Is it my }촀,
 or the graceful way I wear it,
@@ -174,6 +207,10 @@ you may ask.
 Elegant clothing is fine and all, 
 \0(5촀\0but
 true elegance comes from within!"
+"106_02","(촀\0Aren't I more elegant than ever in
+my }촀?\0\0(%촀\0I look the way I feel: Resplendent in
+every way, 
+\0inside and out."
 "201","2\0n\0, 
 \0(촀\0just look at the
 fab }촀 I'm

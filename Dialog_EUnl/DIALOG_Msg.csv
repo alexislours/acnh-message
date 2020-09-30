@@ -165,10 +165,10 @@ worden getoond."
 met het internet te maken?"
 "0810_a","Nee, laat maar."
 "0810_b","Ja, graag!"
-"0820","Je profielfoto kon niet verstuurd
+"0820","Je pasfoto kon niet verstuurd
 worden. Als dit probleem zich blijft
 voordoen, maak dan een nieuwe
-profielfoto en probeer het opnieuw."
+pasfoto en probeer het opnieuw."
 "0820_a","Oké."
 "0830","\0Belangrijke info over dromen delen\0￿
 Als je een droom van je eiland deelt,
@@ -201,6 +201,12 @@ huizen, je eigen ontwerpen,
 berichten op het mededelingenbord,
 en meer.\0￿"
 "0831_a","Ik begrijp het."
+"0841","Wil je de droom van \0\0s촀
+\0￿uit de lijst verwijderen?"
+"0841_a","Nee."
+"0841_b","Ja."
+"0842","Je favoriete dromen kunnen niet uit
+de lijst worden verwijderd."
 "0921","Tijdens een bezoek kun je maximaal
 twee berichten plaatsen."
 "0921_a","Oké!"
@@ -791,6 +797,11 @@ omdat de netwerkverbinding werd
 onderbroken. Schakel de functie weer
 in en probeer het opnieuw."
 "1456_a","Terug"
+"1457","Je moet verbinding met het internet
+maken om de lijst 'Beste vrienden' te
+kunnen gebruiken. Wil je dat nu doen?"
+"1457_a","Laat maar..."
+"1457_b","Jazeker!"
 "1501","Weet je zeker dat je je wijzigingen
 ongedaan wilt maken?"
 "1501_a","Nee, wacht!"
@@ -1154,6 +1165,14 @@ de set en het klussen in je woning!
 Hiermee kun je in de zee zwemmen
 en duiken.
 \0\0Het artikel wordt per post bezorgd.\0￿"
+"3022","Verander je look bij een \0spiegel \0￿of\0
+make-uptafel \0￿met leuke bodypaint!
+\0\0Het boek wordt meteen na het
+inwisselen van de bon gedrukt.\0￿"
+"3023","Verander je look bij een \0spiegel \0￿of\0
+make-uptafel \0￿met nieuwe oogkleuren!
+\0\0Het boek wordt meteen na het
+inwisselen van de bon gedrukt.\0￿"
 "5001","\0Camera\0￿
 Neem foto's en gebruik
 verschillende filters en effecten.\0\0\0\0De foto's worden opgeslagen in je
@@ -1589,7 +1608,7 @@ teruggezet zodra je verder speelt.\0\0Wil je opnieuw spelen als
 "8016","De Nintendo-account die aan deze
 gebruiker is gekoppeld, is veranderd.\0\0Wanneer je de game weer speelt,
 worden functies die het internet
-gebruiken, zoals de Beste vrienden-app,
+gebruiken, zoals de lijst 'Beste vrienden',
 naar de begininstellingen teruggezet.\0\0Wil je doorgaan?"
 "8016_a","Nee."
 "8016_b","Ja."
@@ -1597,7 +1616,7 @@ naar de begininstellingen teruggezet.\0\0Wil je doorgaan?"
 een geldige Nintendo-account moet via
 het internet worden bevestigd.\0\0Als je dit niet doet voor je de game
 speelt, worden functies die het internet
-gebruiken, zoals de Beste vrienden-app,
+gebruiken, zoals de lijst 'Beste vrienden',
 naar de begininstellingen teruggezet.\0\0Wil je alle functies die het internet
 gebruiken, naar de begininstellingen
 terugzetten en beginnen met spelen?"

@@ -103,7 +103,8 @@ los nombres,
 \0 pero al final se me
 han quedado.\0\0(2촀\0Y el diseño,
 \0 ¿cómo me queda, n\0?"
-"101","(""촀\0¡Mira!
+"101","<"
+"101_01","(""촀\0¡Mira!
 \0 Cualquier trapito que me
 ponga me queda bien.
 \0 (촀\0¡Incluso
@@ -114,7 +115,14 @@ superheroicos de estilo,
 \0
 (촀\0De un superhéroe mono,
 \0 eso sín"
-"102","(촀\0Con esto puesto no me atrevo ni
+"101_02","(7촀\0Me han dicho por ahí que est2촀ea\0
+}촀 me queda muy mon2촀oa\0,
+\0 ¿tú qué crees?\0\0Pero (촀\0¿es mon2촀oa\0 en plan bonito
+o en plan simiesco?
+\0 (촀\0¡Porque ambas
+opciones me flipan, n\0!"
+"102","<"
+"102_01","(촀\0Con esto puesto no me atrevo ni
 a merendar ni a echar la siestan\0\0
 (촀\0¿Y si se arruga o se mancha?
 (촀\0¡Ya sé!
@@ -123,25 +131,60 @@ y(촀\0n\0\0
 \0 (촀\0¡dormir de pie!
 \0 (;촀\0No sería la
 primera vezn"
-"103","(촀\0¡Esta ropa es estupenda!
+"102_02","(""촀\0¿Qué te parece cómo me queda
+est2촀ea\0 }촀?
+\0 Es como muy guay, ¿no?\0\0(%촀\0Podría montar mi propia bandan\0\0
+\0
+(촀\0¡con instrumentos comestibles!
+\0
+Eso sí que lo petaría, n\0."
+"103","<"
+"103_01","(촀\0¡Esta ropa es estupenda!
 \0 Te parecerá
 sencilla,
 \0 (%촀\0¡pero todo queda bien con
 2\0}촀!
 ()촀\0Esto es lo que voy a llevar siempre
 que no sepa qué ponermen"
-"104","(%촀\0Menudo estilo tengo ahora mismon\0\0
+"103_02","(촀\0Me han dicho que con est2촀ea\0 }촀 parezco más maduro.\0\0(촀\0¿Significa eso que ya no podré
+leer cómics, comer chuches y
+echarme siestas?n\0\0
+(촀\0Uf, será mejor que me cambie
+cuanto antes, n\0."
+"104","<"
+"104_01","(%촀\0Menudo estilo tengo ahora mismon\0\0
 \0
 (5촀\02\02\0}촀 es siempre sinónimo de «molonidad»n\0\0\0\0(촀\0Espero no mancharme precisamente
 hoy con 촀 o con
 촀n"
-"105","()촀\0Siempre que puedo me echo
+"104_02","(촀\0Yo no sé por qué mi madre me
+manda ropa refinada como est2촀ea\0 }촀.\0\0(촀\0Me paso el día preocupado por
+si l2촀oa\0 mancho o l2촀oa\0 arrugon\0\0\0\0(촀\0¡Así no puede uno comerse
+tranquilamente un buen plato
+de 촀, n\0!
+(%촀\0Creo que solo me l2촀oa\0 pondré cuando
+vaya a visitarla."
+"105","<"
+"105_01","()촀\0Siempre que puedo me echo
 una siestecitan\0\0\0\0(촀\0¡Y cualquier cabezadita es
 mucho mejor vistiendo 2\0
 }촀!\0\0(%촀\0¡Además me da un toque deportivo
 que me encanta!\0\0\0(촀\0(¿Echar la siesta se considerará
 actividad aeróbica o anaeróbica?)\0￿"
-"106","(촀\0Je, je, jen\0\0 ¿Me haréis la merced
+"105_02","(촀\0¿Has visto mi }촀?
+\0 ¡Hoy sí que empiezo a hacer ejercicio!\0\0( 촀\0Ah, pero antes tengo que acabar
+la peli de ayer o me olvidaré de
+la trama.
+(촀\0Y tendré que preparar algo para
+picar, claro.
+\0 No se puede ver una
+peli sin picoteo.
+(%촀\0Y seguramente me eche una siesta
+después,
+\0 para digerirlo bienn\0\0\0\0(촀\0Buf, si eso ya empiezo con
+el ejercicio mañana, n\0."
+"106","<"
+"106_01","(촀\0Je, je, jen\0\0 ¿Me haréis la merced
 de darme vuestra graciosa opinión?\0\0(촀\0¡Lo que se aprende jugando al rol
 de temática medieval!\0\0(5촀\0Con este estilazo, puedes llamarmen\0\0
 \0
@@ -151,6 +194,12 @@ de temática medieval!\0\0(5촀\0Con este estilazo, puedes llamarmen\0\0
 (촀\0¡A ver si voy a ser de alta cuna
 y resulta que me separaron de
 mis reales padres al nacer!"
+"106_02","(촀\0¿Voy o no voy elegante con est2촀ea\0
+}촀?
+\0 Menudo estilazo tengo.\0\0(%촀\0Estoy practicando por si alguna vez
+me invitan a una fiesta ultraexclusiva,
+n\0.\0\0(9촀\0¿Qué?
+\0 ¿Podría pasar?"
 "201","(촀\0¡Mírame, n\0!
 \0 Hoy me he vestido (촀\0de gala,
 \0 je, je, jen\0\0\0\0(2촀\0En verdad me da mogollón de corte

@@ -176,6 +176,45 @@ would like to visit?"
 \0 in
 Parental Controls in order to dream.\0\0(촀\0Please come and see me again when
 you are ready."
+"1051","(촀\0Connection established.
+\0( (\0촀\0If I may stop
+us for a moment, 
+\0there is something
+I believe you will be pleased to hear.\0\0()촀\0From here on, 
+\0if you find a uniquely
+pleasant or exciting dream, revisiting
+it will be as simple as asking.\0\0(촀\0Dreams you have visited recently
+can now be selected from a list,
+\0
+to be enjoyed again and again.\0\0(\0촀\0To revisit a dream from your list,
+\0
+merely tell me you would like to
+\0
+($촀\0""\0Revisit a dream.\0￿""
+\0 Nown"
+"1052","(&촀\0How shall I prepare your dream?"
+"1052_a","Search by Dream Address."
+"1052_b","Revisit a dream."
+"1052_c","Never mind."
+"1055","(\0촀\0Very well.
+\0 (%촀\0Please select the dream
+you wish to revisit."
+"1056","(\0촀\0You wish to revisit the island named
+s촀?
+\0 (&촀\0Is that correct?"
+"1056_a","Yes, it is!"
+"1056_b","Nope."
+"1057","(촀\0Sadly, 
+\0there is no longer a dream
+filed to that \0Dream Address\0￿. 
+\0Is there
+another dream you wish to visit?"
+"1057_a","Yes, there is!"
+"1057_b","Never mind."
+"1058","(촀\0Hmmn\0\0 There do not appear to be
+any dreams which you can revisit.\0\0(촀\0If you wish to dream, 
+\0I may need you
+to provide a \0Dream Address\0￿."
 "2001","(\0촀\0Of course. 
 \0(9촀\0But before we continue,
 there is some \0important information
@@ -314,6 +353,11 @@ with your uploaded dream?"
 "3001_b","Adjust Dream Address privacy."
 "3001_c","Delete the dream."
 "3001_d","Never mind."
+"3002_02_a","Update the dream."
+"3002_02_b","Adjust Dream Address privacy."
+"3002_02_c","Adjust Dream Address privacy."
+"3002_02_d","Delete the dream."
+"3002_02_e","Never mind."
 "3101","(9촀\0As a precaution, I must first confirm
 your wish to update the dream of
 n	\0.

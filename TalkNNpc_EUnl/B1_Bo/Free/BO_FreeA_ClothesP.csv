@@ -105,40 +105,79 @@ aan de beurt!"
 \0koel,
 \0 cool
 \0n"
-"016","(촀\0Gaaf! Je draagt 
+"016","<"
+"016_01","(촀\0Gaaf! Je draagt 
 \02\0}촀!
 \0( 2@촀Die staatDat staatDie staan je goed!\0\0(\0촀\0Dat soort kleren vind ik leuk. (촀\0
 \0Ze zijn
 schattig. 
 \0(촀\0
 \0Net als ik, n\0!"
-"017","(;촀\0Je ziet er goed uit, n\0!
+"016_02","(촀\0Wat draag je daar?
+\0 2\02\0}촀?\0\0(2촀\0Ik krijg kriebels in mijn buik als ik je
+zie. 
+\0(촀\0Volgens mij is het tijd voor meer
+촀!"
+"017","<"
+"017_01","(;촀\0Je ziet er goed uit, n\0!
 \02 (촀\0Je draagt 2\0}촀, toch?\0\0Die kleren zijn zo gewild, maar bijna
 niemand kan ze krijgen. (촀\0
 \0Je lijkt zo
 net een showtaart in een vitrine."
-"018","(촀\02촀DieDatDie 2촃}촀 2""촀zietzietzien er goed uit!\0\0(&촀\0
+"017_02","(&촀\0Hm, vreemd. Ik voel me niet kouder als ik naast je sta terwijl je je 2촃}촀 draagt.\0\0()촀\0
+\0Balen. Ik hoopte dat jij met je frisse
+look mij ook zou afkoelen."
+"018","<"
+"018_01","(촀\02촀DieDatDie 2촃}촀 2""촀zietzietzien er goed uit!\0\0(&촀\0
 \0Hoelang heb je die kleren al aan?
 \0
 (촀\0
 \0Alles wat ik aantrek, lijkt na een paar
 uur op een servet, n\0!"
-"019","(촀\0Zo hé, draag je 2\0}촀?\0\0(촀\0Hopelijk heb je je niet speciaal voor
+"018_02","(촀\02&촀
+CooleCool
+Coole }촀
+\0!\0\0(\0촀\0Je bent zo modieus dat zelfs
+eenvoudige kleding je modieus staat.
+
+\0(""촀\0Ga zo door, n\0!"
+"019","<"
+"019_01","(촀\0Zo hé, draag je 2\0}촀?\0\0(촀\0Hopelijk heb je je niet speciaal voor
 mij zo bijzonder aangekleed. 
 \0(\0촀\0Ik vind
 jou sowieso wel cool!"
-"020","Heb je daar nou 2\0}촀 aan?
+"019_02","(촀\0Als je ""super⁠2knapmooi"" opzoekt in het
+woordenboek, zie je een foto van jou
+in je 2촃}촀!\0\0(촀\0Je moet dapper zijn om die look aan
+te durven! 
+\0((7촀\0Jij bent 2knapmooi én dapper,
+n\0."
+"020","<"
+"020_01","Heb je daar nou 2\0}촀 aan?
 \0( (%촀\0Gaaf. Daar beweeg je je makkelijk in.\0\0Nu ik jou zie bewegen, 
 \0(denk ik
 weer: ($촀\0o ja, bewegen kan ook!
 \0
 (촀\0Dat vergeet ik soms een beetje."
-"021","(촀\0Wauw! Heb je 2\0}촀 aangetrokken?!\0\0(촀\0Ahahaha, wat ben je sjiek!
+"020_02","(촀\0Dat is een toffe look! 2&촀
+CooleCool
+Coole
+}촀!\0\0()촀\0Voor iemand die zo actief is als jij,
+22촀is dieis datzijn die erg nuttig. 
+\0(""촀\0Voor iemand die
+dat niet is, is een pyjama beter!"
+"021","<"
+"021_01","(촀\0Wauw! Heb je 2\0}촀 aangetrokken?!\0\0(촀\0Ahahaha, wat ben je sjiek!
 \0 Ik weet
 niet hoe je dat doet. ('촀\0
 \0Zo sjiek zijn is
 niks voor mij. 
 \0(\0촀\0Veel te vermoeiend!"
+"021_02","(촀\0Waar ga jij naartoe in je 2*촀chiquechicchique
+2촃}촀?\0\0(4촀\0Jou staat sowieso álles goed,
+\0 maar
+zoiets als dat staat je extra goed,
+n\0."
 "101","<"
 "101_01","(촀\0Jij houdt blijkbaar van die outfit, n\0,
 \0( want laatst
@@ -225,6 +264,26 @@ vaak,
 \0 dus laat me hier even van
 genieten, oké?\0\0(촀\0Je ziet er HEEL
 \0 gekleed uit!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Zijn dat handgemaakte kleren?
+
+\0(촀\0Degene die ze gemaakt heeft,
+houdt vast heel veel van je!\0\0(촀\0Ik draag niet vaak de kleding die mijn
+oma me stuurt. 
+\0(촀\0Zo kan ik er ook
+niet op knoeien en blijft alles mooi!"
+"216","(촀\0
+\0Wauw!
+\0 Is dat DAL-kleding?\0\0(촀\0Ik wist niet dat je dat spul ook mag
+dragen als je geen vliegtuigen
+bestuurt.
+\0((촀\0 Heb ik weer iets geleerd!"
+"217","(촀\0Zo te zien heb je veel pret in je
+outfit!\0\0(6촀\0Als je dat op Halloween aantrekt,
+haal je vast bérgen snoep binnen,
+n\0."
 "251","(촀\0Hé!
 \0 Moet je ons zien, ahaha!
 \0 We zijn allebei als katten verkleed, n\0!\0\0(촀\0O, wachtn\0\0
@@ -249,6 +308,31 @@ lucht in springt.\0\0(;촀\0Oké, het zou me een beetje
 verbazen,
 \0(촀\0 maar ik zou vooral heel
 erg onder de indruk zijn."
+"255","(""촀\0Wat is dat een coole outfit!\0\0(%촀\0Oren: ja. Staartje: ja. 
+\0(촀\0Yep!
+\0 Welkom bij
+de konijnenclub, n\0!\0\0(3촀\0\0\0KEven dat je het weet, je hóéft de wortels niet op
+te eten.\0d\0￿"
+"256","(촀\0Je lijkt vandaag wel een konijn!
+\0(
+(&촀\0Hou je nu van wortels?
+\0 (촀\0Of eet je
+die nog steeds met lange tanden?"
+"257","( 촀\0Wauw! Wie had gedacht dat je zo'n goeie beer zou zijn, n\0!\0\0(&촀\0Heb je je winterslaappyjama al
+uitgekozen?"
+"258","(촀\0Je lijkt net een echte beer! 
+\0((""촀\0Had je
+ook een berenhonger toen je
+vanochtend opstond, n\0?"
+"259","(촀\0Je bent vast een beter schaap dan ik
+in je 2촃}\0\0!\0\0(%촀\0Eerlijk gezegd zijn die hoorns op je
+bol enorm overtuigend."
+"260","(촀\0Je bent zo zacht als een echt schaap
+
+\0in je 2촃}\0\0.\0\0(%촀\0Ik vind alle schapen op zachte
+kussentjes lijken. 
+\0(촀\0Als ik zo'n vacht
+had, sliep ik nog meer dan ik al doe."
 "301","(촀\0O, wauwien\0\0
 \0((촀\0 Wat cool dat ik je in het
 echt ontmoet!
@@ -286,6 +370,28 @@ het zitn"
 \0
 (촀\0Dubbeloeps! 
 \0Ik vergat in koninklijk meervoud te praten, n\0.\0\0(촀\0Ah, nu vergaten we het weer!"
+"307","( 촀\0Wat zie ik nou? 
+\0Vertrek je naar de
+maan of zo, n\0?
+\0(\0촀\0\0\0(1촀\0Ik heb weleens gehoord dat de maan
+van kaas is.
+\0((촀\0 Neem een stukje voor
+me mee, n\0!"
+"308","(&촀\0Is dat hoofdding niet zwaar?
+\0( (\0촀\0En er
+zitten scheurtjes in. 
+\0(""촀\0Het lijkt op mijn
+gevallen geschiedenisproject!\0\0(촀\0Mijn project ging over het tijdperk
+waaruit die kleding komt. 
+\0((%촀\0Overn\0\0
+Even denkenn\0\0
+\0(촀\0 het paleojumjum!"
+"309","($촀\0Speel je vandaag dat je een ninja
+bent, n\0?\0\0()촀\0Ze zeggen dat voor elke ninja die je
+ziet,
+\0 er nog vijftig verstopt zitten.
+
+\0(촀\0Waar zijn jullie? Ik heb snoep!"
 "401","<"
 "401_01","(촀\0Je ziet er weer leuk uit! 
 \0Zijn dat je
@@ -302,3 +408,23 @@ aan en ik ook!\0\0(&촀\0Maak jij je weleens zorgen dat je
 favoriete kleren gaan slijten als je ze
 veel draagt?
 \0 (촀\0Ik ook niet!"
+"501","<"
+"501_01","(촀\0Je ziet er anders uit vandaagn\0\0 maar
+ik weet niet waarom.
+\0 ()촀\0O! Je hebt iets
+met je gezicht gedaan!\0\0
+\0(%촀\0Ik mis zo vaak iets. Toen er in de kast
+koffie op de plek van frisdrank stond,
+
+\0(2촀\0heb ik een week niet geslapen.
+"
+"501_02","(촀\0Wat zie je er vandaag goed uit,
+n\0!\0\0(&촀\0Heeft iemand op je snoet getekend?
+
+\0(4촀\0Dat overkomt mij ook vaak. 
+\0Meestal
+tijdens dutjes op het plein."
+"501_03","(%촀\0Dat is een sjieke look voor je gezicht!
+
+\0((&촀\0Hou je die voor de rest van je leven,
+n\0?"

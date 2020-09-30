@@ -104,31 +104,66 @@ quieres romper esquemas, ¿eh?
 \0 (촀\0¡No me digas que
 eres de l2oas mí2oas y la energía fiestera
 mantiene tu calor corporal!"
-"016","(!촀\0¡Pero mírate! ¡Te ves más dulce que
+"016","<"
+"016_01","(!촀\0¡Pero mírate! ¡Te ves más dulce que
 un flan!\0\0(3촀\0Hoy es uno de esos días en los que
 te querías ver requeteadorable con
 tu }촀, ¿eh?"
-"017","(!촀\0¡Oye, qué bien te queda es2촀ea\0
+"016_02","(!촀\0Bueno, bueno, ¿y es2촀ea\0 }촀 que luces así de maravilla?\0\0(\0촀\0No es para nada mi rollo,
+\0 pero
+desde luego sí que es el tuyo.
+\0
+(촀\0¡Bra
+\0vo!"
+"017","<"
+"017_01","(!촀\0¡Oye, qué bien te queda es2촀ea\0
 }촀!\0\0(촀\0No es algo que le quede bien a
 todo el mundo, (3촀\0¡pero se nota que
 tú tienes estilazo de sobra!"
-"018","(3촀\0¿Ves como no hace falta vestirse
+"017_02","(촀\0¡Me hace volar la cabeza tu }촀!
+\0 Tiene una ondaza inigualable.\0\0(3촀\0Lo tuyo es el estilo."
+"018","<"
+"018_01","(3촀\0¿Ves como no hace falta vestirse
 como lechuga para ir muy fresco?\0\0(!촀\0¡La prueba andante son tú y es2촀ea\0
 }촀!"
-"019","(촀\0¡Pero qué bien se te ven esos
+"018_02","(3촀\0Me gusta el plan tranqui que
+te propusiste hoy con tu
+}촀.
+(\0촀\0Es que no hace falta comprarse
+ropa cara para estar coquet2ónona,
+\0(%촀\0
+¡y tú eres la prueba!"
+"019","<"
+"019_01","(촀\0¡Pero qué bien se te ven esos
 trapitos que traes puestos!\0\0('촀\0Aunque quisiera, no podría ponerme
 2\0}촀.\0\0(3촀\0¡Qué se le va a hacer!
 \0 Tampoco me
 puede quedar todo bien."
-"020","(!촀\0¡Qué dinámic2oa te veo con tu
+"019_02","(!촀\0¡Pero qué estilazo tienes hoy!
+\0
+¿De dónde has sacado es2촀ea\0 }촀?\0\0(촀\0Veo que puedes ponerte cualquier
+cosa e ir tan campante,
+\0 ¡y encima
+todo te queda bien!"
+"020","<"
+"020_01","(!촀\0¡Qué dinámic2oa te veo con tu
 }촀!\0\0(3촀\0No hay nada como la ropa cómoda,
 ¿verdad, n\0?"
-"021","(촀\0¡Un momento!
+"020_02","(촀\0Con tu }촀 estás más que list2oa para arrasar el día.\0\0(%촀\0Hay que ir cómodo por la vida,
+\0
+lo sabe todo el mundo."
+"021","<"
+"021_01","(촀\0¡Un momento!
 \0 ¿Hay una fiesta
 y nadie me invitó?\0\0(촀\0¿Tenemos que ir todos vestidos
 de }촀?\0\0(*촀\0Sabía que algún día me perdería
 un evento importante por no tener
 ropa tan elegante."
+"021_02","(촀\0No puedo dejar de mirar tu }촀; me dejó loca.\0\0(촀\0¿Vas a una fiesta de esas rollo
+elegante como ninguna otra?\0\0(\0촀\0A mí no me van mucho, la verdad.
+\0
+(5촀\0Prefiero las que puedo salir a
+desmelenarme en la pista de baile."
 "101","<"
 "101_01","(%촀\0Sí que te gusta eso que llevas
 puesto, ¿eh?
@@ -221,6 +256,27 @@ pero discreto.
 encanta!
 \0 No hay por qué vestirse
 llamativo (5촀\0para vivir al máximo."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Oye, eso que tienes puesto está
+como hecho a mano, ¿no, compi?
+\0
+(촀\0Guauuu, ¡cuánto trabajo!
+(촀\0Tú sí que sabes cómo vestirte con
+un toque especial, n\0."
+"216","(촀\0Mira que yo no soy mucho del
+""merchandising"", 
+\0(촀\0pero qué estilacho
+te da el rollo Dodo Airlines.
+(3촀\0Supongo que ayuda que su logo
+me recuerde al de una banda
+de punk surfero, n\0."
+"217","(촀\0¡Goaooo!
+\0 Tienes como un rollo
+tenebroso, ¿no, n\0?
+(촀\0Me gusta un montonal,
+\0 compi."
 "251","(촀\0¡Compiii!
 \0 ¡Qué atuendo tan
 tremendo!
@@ -244,6 +300,39 @@ peron\0\0
 confundo con otr2oa?
 \0(!촀\0 Pero no, ¡era
 un2\0a n\0 camuflad2oa!"
+"255","(촀\0¿Te vestiste así para tratar de
+impresionarme?
+\0(3촀\0 ¡Porque está
+dando resultado, amigui!"
+"256","(촀\0¡Me enloquecen tus orejas!
+\0
+(2촀\0Las que tienes puestas, digo.
+\0
+Bueno, las otras también, claro.
+(&촀\0¿Con eso se oye mejor o algo?
+\0
+(촀\0¡Imagínate poder detectar más
+decibeles al escuchar música!"
+"257","(!촀\0¡Viva los osos! 
+\0¡Y literalmente, tú!
+\0
+(3촀\0¿No te sientes más atómic2oa que
+nunca? ¡Claro, n\0!"
+"258","(촀\0Te vi de lejos y pensé que eras
+un2\0a os2oa de verdad, amigui.\0\0(%촀\0Siempre te luces con lo que tienes
+puesto,
+\0(촀\0 ¡pero hoy te pasaste como
+cien kilómetros, n\0!"
+"259","(%촀\0Ahora que estamos entre ovejas,
+te diré algo en confianza, amigui.
+\0
+(!촀\0¡Beeeeeeeeeeeee!"
+"260","(촀\0Qué blandit2oa te veo hoy, compi.
+\0
+¿Eres una nube? 
+\0¿Algodón de
+azúcar? (촀\0
+\0¡Necesito saberlo!"
 "301","('촀\0A ver, no quiero meterme donde no
 me llaman peron\0\0
 \0(촀\0 eso que llevas
@@ -290,6 +379,21 @@ parecida a la tuya.
 o vocalista para armar un grupo,
 \0
 (촀\0ya sabes dónde estoy, ¿sí?"
+"307","(!촀\0¡Guapuraza! 
+\0¡Me enloquece tu }\0\0!\0\0(3촀\0Se nota que vas por la vida sin
+miedo a nada;
+\0 ¡como yo, n\0!"
+"308","(촀\0¡No me digas que ahora te dio por luchar, n\0!\0\0(촀\0Oye, pues avísame cuando tengas
+un combate, 
+\0(촀\0que yo voy y te apoyo
+como buen compi que soy."
+"309","(촀\0No puedo creer lo divinamente que
+estás vestid2oa, amigui.
+\0(촀\0 ¡Es totalmente
+mi rollo, n\0!
+(5촀\0Hay compis con estilazon\0\0
+\0 ¡y luego
+estás tú!"
 "401","<"
 "401_01","(2촀\0Te veo tanto con ese atuendo que
 ya empieza a ser icónico, tú.\0\0(촀\0A ver, si encuentras algo que te
@@ -310,3 +414,19 @@ convirtiendo (!촀\0en el atuendo oficial
 de n\0, compi.
 (3촀\0¡Patrocinado por n
 \0; faltaría más!"
+"501","<"
+"501_01","(%촀\0Me gusta ver que eres valiente y que
+tomas decisiones estéticas de riesgo,
+n\0.
+(촀\0¡Y encima te queda bien y todo!
+(3촀\0
+\0Pasa que con tu estilacho no hay
+posibilidad de fallar, tú."
+"501_02","(%촀\0Me encanta que te encante cambiar
+de aspecto como si nada.
+\0(촀\0 ¡Hay que
+reinventarse siempre, n\0!"
+"501_03","(!촀\0¡Qué ondaza tiene tu nueva cara,
+compi!
+\0 ¿Se acerca (&촀\0alguna ocasión especial?\0\0¿O querías como un cambio de imagen? (촀\0¡Los compis van a quedar
+pasmados cuando te vean!"

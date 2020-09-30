@@ -47,7 +47,7 @@ exemple.
 Loin de moi l'idée de vouloir te
 forcer la patten\0\0
 (촀\0À moins que j'aie piqué ta curiosité ?"
-"005","(촀\0Merci encore pour le prompt
+"005","(촀\0Merci mille fois pour le prompt
 remboursement de ton emprunt
 immobilier. 
 \0Oui, oui !
@@ -60,7 +60,7 @@ noble projet avec un nouveau crédit !
 (%촀\0N'hésite pas à venir me voir si tu
 désires discuter des modalités de
 cette généreuse proposition, hm ?"
-"006","(촀\0Merci encore pour le prompt
+"006","(촀\0Merci mille fois pour le prompt
 remboursement de ton emprunt
 immobilier. 
 \0Oui, oui !
@@ -73,7 +73,7 @@ noble projet avec un nouveau crédit !
 (%촀\0N'hésite pas à venir me voir si tu
 désires discuter des modalités de
 cette généreuse proposition, hm ?"
-"007","(촀\0Merci encore pour le prompt
+"007","(촀\0Merci mille fois pour le prompt
 remboursement de ton emprunt
 immobilier. 
 \0Oui, oui !
@@ -86,14 +86,15 @@ noble projet avec un nouveau crédit !
 (%촀\0N'hésite pas à venir me voir si tu
 désires discuter des modalités de
 cette généreuse proposition, hm ?"
-"008","(촀\0Laisse-moi te présenter une fois de
-plus mes chaleureuses félicitations !\0\0(5촀\0Je vais te dire une chose, entre
+"008","(촀\0Laisse-moi te présenter plus mes
+chaleureuses félicitations !\0\0(5촀\0Je vais te dire une chose, entre
 renifleurs de bonnes affaires :
 \0
 tu sais gérer tes clochettes, 
 \0(%촀\0oui, oui !
-(1촀\0Dire que tu es passé2\0e d'une tente de
-rien du tout à une coquette demeure
+(1촀\0Dire que tu es aujourd'hui l'heureu2
+xse
+propriétaire d'une coquette demeure
 avec étage.
 \0 Excusez du peu !
 (촀\0Tu n'as certes pas besoin de plus
@@ -108,9 +109,10 @@ mesure de te construire un \0sous-sol\0￿.
 précieuse information et sans vouloir
 me répétern\0\0(촀\0 Félicitations !"
 "009","(촀\0Tu as réussi !
-\0 Une fois encore, tu es
-parvenu2\0e à rembourser l'intégralité
-de ton emprunt immobilier.
+\0 Tu as remboursé
+l'intégralité de ton emprunt
+immobilier.
+\0 Mes félicitations !
 (5촀\0Te voilà donc libéré2\0e de tout
 engagement, prêt2\0e à profiter de ton
 paradis insulaire personnel !
@@ -196,7 +198,7 @@ immobilier pour aujourd'hui.
 \0 (촀\0Mais
 j'ai une bonne surprise pour toi !
 (6촀\0Roulement de tambourn\0\0(촀\0 il s'agit
-d'un article prémium pour tirer profit
+d'un article premium pour tirer profit
 de ses miles, le \0ticket Miles Nook\0￿ !"
 "012_05_a","Le ticket Miles Nook ?"
 "012_05_b","Le quoi Nook ?"

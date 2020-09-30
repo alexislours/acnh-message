@@ -432,25 +432,33 @@ si ça marche, maintenant?"
 "120_01","(촀\0Mais dis-moi,
 \0 on dirait que tu es
 en train d'utiliser l'application
-\0Remod'île\0￿n\0\0\0\0()촀\0Désolé,
+\0Remod'île\0￿n\0\0
+Z\0\0\0()촀\0Désolé,
 \0 mais le règlement interdit
 son utilisation en vol et pendant le
-jeu en ligne ou en multijoueur local.
-(7촀\0Je ferme ça pour toi,
-\0 alors."
+jeu en ligne ou en multijoueur local.
+Z\0\0\0(7촀\0Je ferme ça pour toi,
+\0 alors.
+Z"
 "120_02","(촀\0Merci pour ta coopération!
 \0(\0촀\0 Cette
-fois tout est bon."
+fois tout est bon.(\0촀\0
+<"
 "121_01","(촀\0Désolé!
 \0( (7촀\0J'ai complètement oublié de
-vérifier si \0Remod'île\0￿ était activée!\0\0(촀\0Tu ne peux pas utiliser l'application
+vérifier si \0Remod'île\0￿ était activée!
+<\0\0\0(촀\0Tu ne peux pas utiliser l'application
 en vol, ni quand tu joues en ligne ou
 en multijoueur localn\0\0
+<\0
 \0
-(%촀\0Je désactive ça pour toi, alors."
+(%촀\0Je désactive ça pour toi, du coup.
+<"
 "121_02","(촀\0Merci pour ta coopération!
 \0(
-(촀\0Sur cen"
+(촀\0Sur cen\0\0
+\0
+<"
 "122","-촀\0
 \0J'ouvre l'accès!"
 "125","()촀\0Sache juste que quand l'accès est

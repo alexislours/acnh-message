@@ -77,14 +77,26 @@ par s\0촂 2
 de d'⁠s촀.\0\0(5촀\0Je trouve qu'il me va plutôt bien.
 \0
 N'es-tu pas d'accord, n\0 ?"
-"101","(촀\0Je suis en train de me demander si
+"101","<"
+"101_01","(촀\0Je suis en train de me demander si
 2\0}촀 peut être « trop 2&촀mignonmignonne\0 ⁠»n\0\0\0\0()촀\0La mode,
 \0 c'est comme la pâtisserie.
 \0
 Tout doit être dosé à la perfection,
 \0(촀\0
 sinon ça devient n'importe quoi."
-"102","('촀\02\0n\0,
+"101_02","($촀\0Aujourd'hui,
+\0 pas d'astucieux bagout
+ou de compliment bouche-trou !
+\0 Mon
+chou,
+\0 aujourd'hui,
+\0 tu me dis tout !\0\0Que penses-tu de mon exquis2촀\0e\0
+}촀 ?
+\0
+(6촀\0Délicieu2촀xse\0 ou ravissant2촀\0e\0 ?"
+"102","<"
+"102_01","('촀\02\0n\0,
 \0 on ne porte pas 2\0}촀 n'importe comment,
 \0 tu sais ?
 (5촀\0Un objet aussi cool,
@@ -94,13 +106,42 @@ comme une pièce d'armure !
 Car c'est exactement ce que c'est !\0\0(촀\0Elle nous protège contre le
 conformismen\0\0(촀\0 et nous donne
 la force de suivre nos envies !"
-"103","(""촀\0J'aimerais porter ton attention sur 2\0}촀 que je porte en ce moment même.\0\0(5촀\0Note à quel point sa sobriété donne
+"102_02","(촀\0Ne suis-je pas l'incarnation du cool ?
+\0
+Si, et le mérite en revient à 2*촀mon cherma chère\0
+}촀.
+(5촀\0Encore quen\0\0 qui sait où finit mon
+cool naturel et où commence mon
+cool vestimentaire ?
+\0 Mystère !"
+"103","<"
+"103_01","(""촀\0J'aimerais porter ton attention sur 2\0}촀 que je porte en ce moment même.\0\0(5촀\0Note à quel point sa sobriété donne
 de la maturité à l'ensemble de ma
 tenue."
-"104","(촀\0Oh, je vois que ton regard est attiré
+"103_02","(&촀\0Alors,
+\0 que t'inspire m2촀ona\0 ravissant2촀\0e\0
+}촀 ? Tu ne l2촀ea\0 trouves pas trop simple au moins ?\0\0(촀\0Je me moque de ce qu'en pense la
+foule bruyante et ses goûts douteux,
+\0
+mais ton opinion,
+\0 elle,
+\0 m'importe."
+"104","<"
+"104_01","(촀\0Oh, je vois que ton regard est attiré
 par 2\0}촀 que je suis en train de porter !\0\0(촀\02촀IlElle\0 est on ne peut plus glamour,
 tu ne trouves pas ?"
-"105","(""촀\0Parfois,
+"104_02","()촀\0Tu sais,
+\0 la mode,
+\0 c'est l'air que je
+respire,
+\0 c'est la source où j'étanche
+mon intarissable soif d'élégance !
+(7촀\0Il est donc tout naturel que je porte
+2\0}촀.
+\0
+CQFD, n\0."
+"105","<"
+"105_01","(""촀\0Parfois,
 \0 il est agréable de porter
 quelque chose d'énergisant comme
 2\0}촀n\0\0
@@ -111,7 +152,20 @@ me donne envie de me dépenser
 dit « me dépenser » et non pas
 « dépenser »,
 \0 pour une fois !"
-"106","(촀\0Je me trouve particulièrement
+"105_02","(촀\0Qu'est-ce qu'il y a ?
+\0 Ça t'étonne, 
+\0n
+\0 qui porte 2\0}촀 ?\0\0(5촀\0Il n'y a pas de raison !
+\0(5촀\0 Le style
+énergique,
+\0 c'est comme moi :
+\0
+in-
+\0dé-
+\0mo-
+\0dable, n\0 !"
+"106","<"
+"106_01","(촀\0Je me trouve particulièrement
 élégante aujourd'hui,
 \0 tu n'es
 pas de cet avis ?\0\0(촀\02\02\0}촀 que je porte aujourd'hui n'y est pas pour rien,
@@ -121,6 +175,12 @@ un petit secretn\0\0\0\0()촀\0La véritable élégance ne réside pas
 dans nos vêtements,(5촀\0
 \0 mais dans
 la façon dont on les porte !"
+"106_02","(촀\0Tu ne trouves pas que je déborde
+d'élégance dans cet2촀\0te\0 adorable
+}촀 ?\0\0(%촀\02촀IlElle\0 reflète ce que je suis à
+l'intérieur :
+\0 resplendissante
+sous toutes les coutures."
 "201","2\0n\0, 
 \0(촀\0n'est-ce pas 2\0}촀 absolument 2,촀fabuleuxfabuleuse\0 que j'ai là ?\0\0(6촀\0Non,
 \0 je ne fête aucune occasion.

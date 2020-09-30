@@ -77,7 +77,8 @@ omkleden."
 uit de sauna of zo?\0\0(+촀\0Als je het nog niet doorhad, het is
 koud buiten.
 \0 Trek wat aan!"
-"016","( 촀\0Nou,
+"016","<"
+"016_01","( 촀\0Nou,
 \0 jij ziet er ook (촀\0schattig uit in
 2\0}촀!\0\0(%촀\0Misschien is dat ook iets voor mij.
 \0(
@@ -85,17 +86,34 @@ koud buiten.
 \0
 ga ik er al op vooruit,
 \0 n\0."
-"017","( 촀\0Wauw,
+"016_02","(%촀\0Je ziet er schattig uit met je
+2촃}촀.\0\0(촀\0Dat klopt toch, ""schattig""?
+\0 (촀\0Wat dat
+tegenwoordig inhoudt, is me eigenlijk
+niet zo duidelijk, n\0n"
+"017","<"
+"017_01","( 촀\0Wauw,
 \0 je ziet er (%촀\0goed uit in je
 2촃}촀!\0\0(촀\0Echt iets voor jou,
 \0 n\0!"
-"018","(촀\0Nou,
+"017_02","(%촀\0Je hebt een stijlvolle keuze gemaakt
+met je 2촃}촀.\0\0(촀\0En nu ik je zie, voel ik me ook
+stukken stijlvoller.
+\0( (촀\0Bedankt voor de
+hulp, n\0!"
+"018","<"
+"018_01","(촀\0Nou,
 \0 die tijdloze look van je 2촃}촀 is wel aan mij besteed.\0\0(%촀\0Je houdt het simpel en maakt het
 niet enorm ingewikkeld.
 \0 (촀\0Niet slecht,
 \0
 n\0!"
-"019","(촀\0Je 2촃}촀 2촀isiszijn
+"018_02","(6촀\0Ik geniet ervan hoe eenvoudig je 2촃}촀 2@촀eruitzieteruitzieteruitzien.\0\0(%촀\0Weet je, 
+\0in mijn jeugd gaf ik ook de
+voorkeur aan eenvoudige kleding,
+n\0!"
+"019","<"
+"019_01","(촀\0Je 2촃}촀 2촀isiszijn
 \0n\0\0\0\0(;촀\0n\0\0gewoon fantastisch.
 \0 Ongelofelijk!
 \0(
@@ -103,7 +121,15 @@ niet enorm ingewikkeld.
 \0 maar(촀\0 jij
 lijkt ervoor gemaakt,
 \0 n\0!"
-"020","Wat zie je er nonchalant uit
+"019_02","(촀\0Wat zie jij er netjes uit met je
+2촃}촀!\0\0(&촀\0Waar ga je naartoe?
+\0 Een ijsjesgala?
+\0
+Een sokkenbal?
+\0 (%촀\0Je bent hoe dan ook
+degene met de mooiste outfit!"
+"020","<"
+"020_01","Wat zie je er nonchalant uit
 \0 in je
 2촃}촀!\0\0(촀\0Zolang het lekker zit,
 \0 (촀\0kan het mij niet
@@ -112,12 +138,20 @@ verrotten wat anderen ervan denken,
 n\0.\0\0('촀\0Het leven is veel te kort om je druk
 te maken om de mening van iedere
 modewijsneus!"
-"021","(촀\0Je ziet er buitengewoon verfijnd uit
+"020_02","(%촀\0Je ziet er goed uit met je 2촃}촀, 2jochiemeid!\0\0()촀\0""Sporten is gezond"", zeg ik altijd.
+\0 En
+ook ""Doe wat ik zeg, niet wat ik doe"",
+n\0!"
+"021","<"
+"021_01","(촀\0Je ziet er buitengewoon verfijnd uit
 \0
 in je 2촃}촀!\0\0(촀\0Maar ik wist niet dat jij zo chic
 was,
 \0 n\0
 \0n"
+"021_02","(촀\0Eerlijk gezegd ben ik bang dat ik je 2촃}촀 vies zal maken.\0\0('촀\0Ik zou ervan wakker liggen en dát
+gebeurt niet vaak op mijn leeftijd,
+n\0."
 "101","<"
 "101_01","(""촀\02\0n\0, 2촀diedatdie 2촃}촀 2촀diedatdie(\0촀\0 je daar draagtn\0\0\0\0(;촀\0Ben je ermee getrouwd of zo? (\0촀\0Ik zie
 2촀hemhetze nou al voor de zoveelste keer.(\0촀\0
@@ -189,6 +223,36 @@ in knopen leggen, n\0."
 "211","(촀\0Ik ben in de ban van die outfit van je,
 2jochiemeid. 
 \0Het borduurwerk is puikbest!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0
+\0Is die outfit handgemaakt?
+\0 (6촀\0Wauw!
+\0
+Iemand heeft veel moeite gedaan om
+die voor je te maken, 2jochiemeid."
+"216","Luchthavenspul?
+\0 (9촀\0Ik heb al tijden niet
+meer gevlogen. 
+\0Vroeger kreeg je
+tijdens elke vlucht een maaltijd.\0\0(촀\0En het was nog lekker ook, zoals 촀! 
+\0En je kreeg ook 촀 als toetje!\0\0('촀\0Maar nu
+\0 krijg je, als je geluk hebt,
+een droge dubbele boterham en wat
+촀.
+\0(촀\0 2\0n\0n"
+"217","(\0촀\0Wees eerlijk, 2jochiemeid.
+\0 (&촀\0
+\0Je draagt dat
+kloffie toch alleen maar omdat je
+me wilt laten schrikken?
+(
+촀\0Nou, hou daarmee op! 
+\0Ik ben niet
+bang voor je gothicnonsens. 
+\0Nu
+niet, nooit niet, n\0!"
 "251","(2촀\0Je ziet er poeslief uit vandaag, 2jochiemeid. 
 \0Weet je, met vleierij kom je ver, n\0!
 \0 (촀\0Bwahaha!"
@@ -207,6 +271,30 @@ daar word ik nou verlegen van."
 (촀\0Ik heb er niks op tegen, hoor,
 \0 maar ik
 had geen flauw idee, n\0."
+"255","(촀\0Jofele outfit, 2jochiemeid! 
+\0Met die oren
+zouden we haast familie kunnen zijn,
+n\0.
+\0 (촀\0HAASt! Bwahaha!"
+"256","(촀\0Ik hoop dat je je als konijn wilde
+verkleden,
+\0 anders heb ik slecht
+nieuws voor je, n\0n"
+"257","(촀\0Mij hou je niet voor de gek met dat
+kostuum, 2jochiemeid! 
+\0Ik weet wel wanneer
+ik een échte beer zie, n\0!"
+"258","(&촀\0Wat doe je in dat berenkostuum,
+2jochiemeid? 
+\0Is dit zo'nn\0\0 modeding waar
+ik niks van snap, n\0?"
+"259","(촀\0Zou het tellen van twee schapen
+genoeg zijn om in slaap te vallen?\0\0(촀\0Dat zeg ik nu wel, maar eigenlijk tel
+ik al voor twee, n\0!"
+"260","(;촀\0Door die kleding van je dacht ik effe
+dat je een oude maat van me was.\0\0(촀\0Maar zo te zien ben je geen wolf in
+schaapskleren.
+\0 Bwahaha!"
 "301","( 촀\0Nou, nou! 
 \0Jij ziet er krijgszuchtig uit,
 2jochiemeid!
@@ -234,6 +322,23 @@ rekenen als je trouwste supporter."
 te nemen. 
 \0Niks is erger dan honger
 hebben op zee, n\0."
+"307","(&촀\0Dus je vindt jezelf best grappig? 
+\0Ga
+je ons aan het lachen maken, 2jochiemeid?\0\0(촀\0Ken je die van de eekhoorn die bij 촀 altijd naar 촀 moest luisteren?\0\0(9촀\0Nee? 
+\0Nou, dat is jammer.
+\0 (촀\0Ik hoopte
+dat ik nu eindelijk de clou van de
+mop kon horen, n\0n"
+"308","(3촀\0Wat een aparte outfit. 
+\0De kleur is zo
+fel dat ik wel een zonnebril kan
+gebruiken, n\0.(촀\0 Bwahaha!"
+"309","(&촀\0Je weet toch dat je geen harnas
+hoeft te dragen om een dappere
+ridder te zijn?\0\0(\0촀\0Wat mij betreft,
+\0(촀\0 ben je al dapper
+zat in een korte broek en T-shirt,
+n\0!"
 "401","<"
 "401_01","(9촀\0Je lijkt die outfit erg graag te dragen.
 \0
@@ -252,3 +357,26 @@ mode of zo, n\0.\0\0(\0촀\0Nou, fijne kleren maken je dag een
 stuk beter
 \0 (촀\0en zo te zien heb jij een
 prachtige dag."
+"501","<"
+"501_01","(%촀\0Wat een,
+\0 eh,
+\0 aparte look, 2jochiemeid.
+\0
+Eerlijk gezegd
+\0 (촀\0vind ik het je puik
+staan, n\0!"
+"501_02","(촀\0Er is veel veranderd sinds ik voor het
+laatst op mode lette, n\0.\0\0(촀\0Ik kan niet zeggen dat ik die look zelf
+zou kiezen, 
+\0maar als jij er blij mee
+bent,
+\0 (%촀\0ben ik dat ook, 2jochiemeid."
+"501_03","(촀\0Je bolletje ziet ern\0\0 anders
+\0 uit
+vandaag, 2jochiemeid.\0\0( 촀\0Is het een nieuwe emotie? 
+\0Een nieuw
+kapsel? 
+\0Een nieuwe neus?
+\0 Nee, niks
+zeggen! 
+\0Ik kom er wel opn"

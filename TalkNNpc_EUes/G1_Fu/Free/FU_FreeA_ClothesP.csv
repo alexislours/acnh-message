@@ -135,13 +135,27 @@ de abrigo solo tienes que pedírmelo,
 n\0.\0\0(촀\0Lo último que quiero es que te
 pongas mal2oa.
 \0 ¡Cuídate, porfa!"
-"016","Oooh,
+"016","<"
+"016_01","Oooh,
 \0 (촀\0¡me encanta tu }촀!\0\0(촀\0Es igual de adorable que tú,
 n\0."
-"017","(촀\0Vas a crear tendencia con tu
+"016_02","(촀\0Oye, tu }촀 me parece de lo más adorable.\0\0(촀\0En serio, estás tan mon2oa que me
+dan unas ganas irrefrenables
+de achucharte ahora mismon\0\0
+(촀\0Pero no lo haré,
+\0 hay que respetar
+el espacio personal de cada uno."
+"017","<"
+"017_01","(촀\0Vas a crear tendencia con tu
 }촀.\0\0¿Qué se siente al ser 2ununa 2,adelantadoadelantada
 a tu tiempo, n\0?"
-"018","(촀\0¡Me encanta el aspecto informal
+"017_02","(촀\0Debo decir que es2촀ea\0 }촀 te sienta fenomenal, calabacita.\0\0(촀\0Si es que todo te queda bien,
+\0
+no sé cómo lo haces.\0\0(%촀\0Supongo que algun2oas nacéis
+con ese don.
+\0($촀\0 ¡Úsalo sabiamente!"
+"018","<"
+"018_01","(촀\0¡Me encanta el aspecto informal
 de tu }촀!\0\0(촀\0A ver,
 \0 no quiero decir que seas poco
 formal,
@@ -149,20 +163,45 @@ formal,
 \0 (촀\0Tú me entiendes,
 \0
 ¿verdad, n\0?"
-"019","(촀\0¡Anda,
+"018_02","($촀\0Que sepas que me encanta el estilo
+de tu }촀.\0\0(%촀\0Es algo que podría tener en
+mi armario perfectamente.\0\0(촀\0Es sencill2촀oa\0, bonit2촀oa\0 y combina con
+un montón de prendas.
+\0 ¿Qué más
+se puede pedir?"
+"019","<"
+"019_01","(촀\0¡Anda,
 \0 qué bien se te ve con
 tu }촀!\0\0(4촀\0Cómo me gustaría tener
 tu estilo, n\0n"
-"020","(촀\0Se te ve muy cómod2oa con tu }촀,
+"019_02","(촀\0Me fascina que puedas ponerte
+2\0}촀 y que te quede tan bien.\0\0(%촀\0Te pones lo que te gusta sin
+reparos y lo llevas con orgullo.\0\0(촀\0Supongo que es cuestión de
+seguridad,
+\0 cosa que a mí me
+falta, n\0."
+"020","<"
+"020_01","(촀\0Se te ve muy cómod2oa con tu }촀,
 \0 (촀\0¡list2oa para la acción!\0\0(%촀\0Mantenerse activ2oa es muy importante
 para llevar una vida sana, n\0n"
-"021","( 촀\0Ahn\0\0
+"020_02","(촀\0Es2촀ea\0 }촀 parece muy cómod2촀oa\0, flor.\0\0(4촀\0Es la clase de prendas que a mí
+me gusta ponerme para estar por
+casa a mi aire."
+"021","<"
+"021_01","( 촀\0Ahn\0\0
 \0 ¿Dónde está la alfombra?
 \0
 (촀\0¿A qué evento importante vas
 con tu }촀?
 (2촀\0De pronto me siento un poco
 mal vestida, n\0n"
+"021_02","(촀\0Debo decirte que estás muy elegante
+con tu }촀.\0\0(촀\0Yo no me suelo poner ese tipo de
+ropa a no ser que vaya a una fiesta
+o algo así, n\0.
+(촀\0Pero si te apetece ir elegante por
+la isla,
+\0 ¡muy bien que me parece!"
 "101","<"
 "101_01","(촀\0Veo que te gusta mucho esta
 prenda.
@@ -265,6 +304,37 @@ de que,
 \0 aunque no te lo pongas en
 años,
 \0 (촀\0no se te olvida por dónde ibas."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0El modelito que llevas es precioso,
+flor.
+\0 Parece hecho a mano.
+\0 ¿Te lo ha
+confeccionado alguien especial?\0\0(촀\0Ese tipo de prendas son las mejores
+porque están hechas con mucho
+cariño y afecto.
+(%촀\0Y eso luego se transmite,
+n\0."
+"216","(6촀\0Diría que alguien es 2ununa gran
+admirad2orora de nuestra querida
+compañía aérea.
+(촀\0La verdad es que yo no suelo
+ponerme este tipo de prendas
+promocionalesn\0\0
+(촀\0Pero reconozco que a ti te quedan
+fenomenal.
+\0 ¡Los de DAL deberían
+contratarte a la de ya, n\0!"
+"217","( 촀\0¡Oh!
+\0 Ese estilo que llevas es
+lo que llaman gótico, ¿no?\0\0(촀\0Di que sí,
+\0 tod2oas deberíamos vestir
+como nos haga felices
+\0 y da igual
+el día que sea o el tiempo que haga.
+(%촀\0No dejes que nadie te diga lo que
+te tienes que poner, n\0."
 "251","Una cosa, bichínn\0\0
 \0(&촀\0 ¿En qué te
 inspiraste para elegir el atuendo
@@ -295,6 +365,54 @@ me llevas, cielín.\0\0(촀\0Si algún día te animas a disfrazarte
 de n\0,
 \0 avísame.
 \0 (촀\0No me gustaría perdérmelo."
+"255","(촀\0Ah, tu conjunto de hoy esn\0\0
+\0
+(촀\0¡monísimo!
+\0 Me encanta.\0\0(4촀\0Me honra que hayas decidido
+vestirte así.
+\0 No me lo esperaba,
+n\0.
+(촀\0Das tanto el pego que hasta podrías
+venir a una de mis reuniones
+familiares.
+\0($촀\0 ¡Te adorarían!"
+"256","(촀\0Mírate, así vestid2oa de conejit2oa.
+\0
+(촀\0¡Si es que no se puede ser más
+adorable!
+(4촀\0¿No tendrás también un conjunto
+de n\0 por ahí?
+\0 Porque
+me haría mucha ilusión, n\0."
+"257","(촀\0Debo decirte que tu conjunto de
+hoy es fabul
+\0oso.
+\0(촀\0 ¡He hecho un
+chiste, ja, ja, ja!
+(촀\0En serio, pareces 2un osoun osa de verdad;
+\0
+hasta me ha costado reconocerte
+al principio."
+"258","(촀\0¿Hoy vas de osit2oa?
+\0
+¡Me parece estupendo!\0\0(&촀\0¿Eres de l2oas os2oas que les gustan
+los abrazos o de l2oas que no?\0\0(촀\0Porque yo siempre estoy dispuesta
+a recibir un gran abrazo de oso,
+n\0."
+"259","(촀\0Veo que has decidido unirte
+a nuestro rebaño. 
+\0($촀\0¡Pues sé
+bienveeeeenid2oa!
+()촀\0Deja que te dé unos consejitos para
+el cuidado de la lana:
+\0 cepíllala todos
+los días y no dejes que se moje."
+"260","(촀\0¿Sabes que de lejos me ha costado
+reconocerte con ese traje?\0\0(7촀\0Pensaba que eras 2ununa vecin2oa nuev2oa
+que se acababa de mudar,
+n\0.
+(촀\0Es un disfraz muy conseguido,
+enhorabuena."
 "301","(촀\0¡Qué atuendo tan bonito llevas!
 \0
 ¡Pareces salid2oa de un cuento
@@ -350,6 +468,30 @@ una naviera,
 \0 espero
 que me escribas postales con
 el relato de todas tus aventuras."
+"307","(촀\0No sé si es por cómo vas vestid2oa,
+pero hace un momento me dolía
+la cabeza, y ahora ya no.
+(촀\0¿Habrá sido el poder de sugestión
+de la mente?
+\0 ¿O será tu presencia
+que es sanadora?
+(촀\0Sea como sea, deberías aprovechar
+ese don, n\0."
+"308","(촀\0Perdona, ¿estabas entrenando?
+\0
+No quisiera molestarten\0\0\0\0(촀\0Esa ropa parece muy cómoda.
+\0
+Sería perfecta para una maratón
+de lectura de novelas."
+"309","(촀\0¡Oh!
+\0 ¡Pero si tengo ante mí 2ala la
+famos2oa detective n\0!\0\0(촀\0Dime, ¿estás en mitad de un caso?
+\0
+Si necesitas a una ayudante,
+\0
+puedes contar conmigo.
+(촀\0¡Resolveremos el misterio gracias
+al trabajo en equipo, n\0!"
 "401","<"
 "401_01","(촀\0Alucino cada vez que te veo con
 este atuendo, flor.\0\0(촀\0Aunque,
@@ -367,3 +509,26 @@ mucho como te queda, n\0."
 ¡eso está muy bien, n\0!\0\0(촀\0Hay que ponerse lo que a un2oa
 le haga feliz,
 \0 ¡claro que sí!"
+"501","<"
+"501_01","(촀\0Ya veo que a ti el cambio de
+imagen no te asusta, lechuguita.\0\0(%촀\0Te queda genial.
+\0(촀\0 Ojalá yo fuera
+un poco más atrevida en esas
+cosas.
+(촀\0Así podríamos ir a juego, n\0.
+"
+"501_02","(촀\0Tienes mucho talento para cambiarte
+de imagen.
+\0 ¡Todo lo que eliges te
+queda fenomenal!
+(4촀\0Quizá algún día te pida que me
+des algunas clasesn"
+"501_03","(촀\0Que sepas que me he dado cuenta
+de que te has cambiado de imagen.
+\0
+(%촀\0Soy muy observadora.
+(4촀\0Sobre todo con la gente a la que
+aprecio, como tú.
+\0($촀\0 Y, por cierto,
+\0 te
+queda estupendo."

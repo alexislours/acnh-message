@@ -2,6 +2,11 @@
 "AbsentMindedness","Tu as appris la mimique \0Rêverie\0￿!
 \0
 (1촀\0Laisse ton esprit vagabonder!"
+"AddPrank","Tu as appris à exprimer l'\0épouvante\0￿!
+(>촀\0Que tout le monde tremble!"
+"AddScaring","Tu as appris à utiliser la \0mimique\0￿
+« \0Envoûtement\0￿ »! (?촀\0Plus qu'à partir à
+la chasse aux bonbons d'Halloween!"
 "Apologize","Tu as appris la mimique \0Excuse\0￿!
 \0
 (#촀\0Pardon, mais qu'il est bon de dire
@@ -35,10 +40,14 @@ monde a sonné!"
 \0
 (촀\0Tout va pour le mieux dans le meilleur
 des mondes possibles!"
-"HappyFlower","Tu peux à présent utiliser les
-mimiques!
-\0 (촀\0Utilise-les pour
-exprimer tes émotions!"
+"HappyFlower","Tu as appris une \0mimique\0￿!
+\0
+(촀\0Montre ce que tu ressens
+avec ces expressions!"
+"HappyFlower_1","Tu as appris quatre \0mimiques\0￿!
+\0
+(촀\0Montre ce que tu ressens
+avec ces expressions!"
 "Hello","Tu as appris la mimique
 \0Enthousiasme\0￿! ($촀\0Tu peux être
 content2\0e de toi!"

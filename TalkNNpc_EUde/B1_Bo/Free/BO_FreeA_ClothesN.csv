@@ -120,21 +120,48 @@ modisch, 
 \0Und der Name
 erst: 
 \0(%촀\0„s촀“!"
-"101","(""촀\0Guck mal, 
+"101","<"
+"101_01","(""촀\0Guck mal, 
 \0mir steht alles! 
 \0(5촀\0Sogar so
 2\0}촀!\0\0(%촀\0Damit seh ich noch süßer aus als
 sonst! 
 \0(촀\02\0n\0! 
 \0Äh, he he he."
-"102","(촀\0Wie soll ich in diesem Aufzug essen
+"101_02","Du, 
+\0sag mal... 
+\0(5촀\0Stimmt das, 
+\0dass ich in
+2.촀meinemmeinermeinem 2촂}촀 total niedlich aussehe?\0\0(촀\0Das behauptet meine Mama
+nämlich ständig. 
+\0Aber du weißt ja,
+\0
+wie Mamas so sind...\0\0Die sagen dir, 
+\0was du hören willst,
+\0
+(촀\0nur damit du endlich deinen Teller
+Gemüse aufisst, 
+\0n\0!"
+"102","<"
+"102_01","(촀\0Wie soll ich in diesem Aufzug essen
 oder schlafen?\0\0(촀\0So etwas Cooles darf man doch nicht
 bekleckern oder zerknittern!\0\0(촀\0Oh, 
 \0ich hab's!
 \0 Beim Essen trage ich
 einfach ein Lätzchen, (\0촀\0und, ähn\0\0
 (촀\0Schlafen tu ich im Stehen!\0\0(5촀\0Problem gelöst."
-"103","()촀\02,촀Dieser
+"102_02","(""촀\0Wie gefällt dir eigentlich 2$촀mein
+meinemein
+}촀?\0\0(촀\0Sieht cool aus, 
+\0stimmt's?
+\0 Aber nicht
+zu cool, 
+\0oder? 
+\0(촀\0Sonst denkt Mama
+noch,
+\0 ich spiel in einer Rockband!"
+"103","<"
+"103_01","()촀\02,촀Dieser
 DieseDieses }촀 scheint erst mal sehr schlicht, 
 \0aber passt dafür auch zu allem!\0\0(촀\0Deshalb ist 2촀ersiees mein Notanker in der
 salzigen Modesuppe. 
@@ -142,19 +169,48 @@ salzigen Modesuppe. 
 \0
 Das hat sich klug angehört, 
 \0oder?"
-"104","(5촀\0In solchen Klamotten komm ich mir
+"103_02","(촀\0Guck mal! 
+\0Wie findet du 2(촀meinen
+meinemein
+2촁}촀?\0\0(5촀\0Damit fühl ich mich richtig erwachsen
+und fast schon zu alt für Comics und
+Süßkram.\0\0(촀\0Vielleicht zieh ich mich doch lieber
+wieder um, 
+\0n\0..."
+"104","<"
+"104_01","(5촀\0In solchen Klamotten komm ich mir
 immer richtig wichtig vor...\0\0(촀\0Aber ich hab auch Albträume, wie
 ich 촀 über m2""촀
 eineneineein
 2촁}촀 schütte!"
-"105","(촀\02,촀Dieser
+"104_02","()촀\0Ich muss immer ganz besonders
+doll aufpassen,
+\0 wenn ich 2(촀meinen
+meinemein
+2촁}촀 trage!\0\0(%촀\0Sonst geb ich immer bloß acht,
+\0
+dass ich mich nicht vollkleckere...\0\0(촀\0Aber wenn ich 2촀dendiedas anhabe,
+\0 muss ich
+auch gucken, 
+\0dass nix verknittert!"
+"105","<"
+"105_01","(촀\02,촀Dieser
 DieseDieses }촀 ist bequem und robust 
 \0– 
 \0ideal für mich!\0\0(7촀\0Ich beklecker mich fast jeden Tag
 mit irgendwas, 
 \0da kann ich mit
 empfindlichen Sachen nix anfangen."
-"106","(촀\0Äh, he he hen\0\0 Wie dünket Euch dies,
+"105_02","(촀\0So 2\0}촀 eignet sich prima, 
+\0um darin herumzutoben und zu spielen!\0\0()촀\0Wenn ich 2촀dendiedas trage,
+\0 hab ich gleich
+NOCH mehr Energie! 
+\0(""촀\0Aufgepasst,
+\0
+n\0, 
+\0hier komm ich!"
+"106","<"
+"106_01","(촀\0Äh, he he hen\0\0 Wie dünket Euch dies,
 \0
 ähn\0\0
 \0 Euer Dünkigkeit? 
@@ -167,6 +223,12 @@ mich \0Prinz n
 hab ich wirklich blaues Blut in mir,
 
 \0n\0!"
+"106_02","(촀\0Na, 
+\0seh ich nicht total schick aus in
+2.촀diesemdieserdiesem 2촂}촀?\0\0(%촀\0Wenn ich mal einen Preis fürs
+Schnellessen gewinne, 
+\0werd ich
+2촀dendiedas bei der Übergabe tragen!"
 "201","(촀\0Guck mal! 
 \0Äh, he he he!
 \0 Findest du

@@ -102,32 +102,70 @@ belangrijker is dan comfort, 
 \0(*촀\0maar zo
 word je nog ziek,
 \0 n\0!"
-"016","(촀\0Je 2촃}촀 2촀isiszijn zo schattig!\0\0(촀\0Net zo schattig als jij,
+"016","<"
+"016_01","(촀\0Je 2촃}촀 2촀isiszijn zo schattig!\0\0(촀\0Net zo schattig als jij,
 \0 n\0."
-"017","Je ziet er echt uit als een trendsetter
+"016_02","(촀\0O, maar 22촀die isdat isdie zijn schattig. Je 2촃}촀, bedoel ik.\0\0(4촀\0Het is bijna te veel voor me.
+\0 Zó schattig. Echt waar, n\0.\0\0(촀\0Ik kan nog veel van je leren, n\0."
+"017","<"
+"017_01","Je ziet er echt uit als een trendsetter
 \0
 in je 2촃}촀.\0\0Hoe is het om zo cool en
 zelfverzekerd te zijn,
 \0 n\0?"
-"018","(촀\0Ik ben dol op de eenvoudige stijl
+"017_02","(4촀\0Je ziet er fantastisch uit met je
+2촃}촀.\0\0Ik ben enorm onder de indruk. Dat
+speelt lang niet iedereen klaar,
+n\0.\0\0(""촀\0Als je zo doorgaat, ben ik binnen de
+kortste keren je allergrootste fan,
+n\0."
+"018","<"
+"018_01","(촀\0Ik ben dol op de eenvoudige stijl
 van je 2촃}촀!\0\0(촀\0Ik bedoel niet dat je geen moeite doet voor je look,
 \0 n\0.
 \0( (촀\0Deze stijl staat je gewoon heel goed!"
-"019","(촀\0Wauw,
+"018_02","($촀\0Wat je daar draagt, spreekt me zo aan. Ik heb het natuurlijk over je 2촃}촀.\0\0De leukste cadeautjes zijn eenvoudig
+verpakt
+\0 (""촀\0en het is een subliem cadeau
+om jou te kennen, n\0.(촀"
+"019","<"
+"019_01","(촀\0Wauw,
 \0 wat zie jij er charmant uit in
 2촀diedatdie 2촃}촀!\0\0(4촀\0Volgens mij ben ik lang niet chic
 genoeg om met jou gezien te
 worden,
 \0 n\0."
-"020","(촀\0In 2촀diedatdie 2촃}촀
+"019_02","($촀\0Hoe komt het dat dat je zo goed
+staat?
+\0 Ik heb het natuurlijk over je
+2촃}촀.\0\0O, ik weet het!
+\0(""촀\0 Ben je stiekem een
+beroemdheid die zich op ons eiland
+verschuilt, n\0?\0\0(7촀\0Had ik maar genoeg zelfvertrouwen om zulke kleding te dragen, n\0."
+"020","<"
+"020_01","(촀\0In 2촀diedatdie 2촃}촀
 \0 zie je eruit alsof je op het punt staat om iets interessants te doen!\0\0(촀\0Eigenlijk zou ik zelf ook meer
 moeten ondernemen,
 \0 n\0
 \0n"
-"021","( 촀\0Ben ik per ongeluk op de rode loper beland?
+"020_02","Wauw.
+\0 ($촀\0Je maakt zo'n krachtige indruk
+in je 2촃}촀.\0\0(""촀\0Als ik jou zie, geeft dat me sowieso
+altijd energie, n\0!"
+"021","<"
+"021_01","( 촀\0Ben ik per ongeluk op de rode loper beland?
 \0( (촀\0Want ik zie dat je je 2촃}촀 draagt.\0\0(2촀\0Naast jou zie ik er maar sjofel uit,
 \0
 n\0!"
+"021_02","(&촀\0Hoe doe je het toch?
+\0 Het lijkt wel of je altijd precies weet wat je aan moet trekken, n\0.\0\0(촀\0Zoals nu.
+\0 Hoe zorg je ervoor dat je 2촃}촀 je zo goed 2(촀
+staat
+staat
+staan?\0\0(촀\0Door jou wil ik zoiets ook weleens
+proberen!
+\0 Maar tot die tijd bewonder
+ik jouw stijl nog even, n\0."
 "101","<"
 "101_01","(촀\0Je draagt die outfit vast heel graag.
 Ik moet ook toegeven (%촀\0dat hij je erg
@@ -227,6 +265,29 @@ bewonderen. 
 spreekt mij namelijk ook altijd aan.\0\0(촀\0Ik blijf het prachtig vinden hoe mode
 iets ouds kan laten aanvoelen alsof
 het iets heel nieuws is, n\0."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Wauw. 
+\0((촀\0Wat een leuke outfit! Heb je
+die zelf gemaakt?
+\0 Hij heeft zo'n
+fraaie handgemaakte look.
+($촀\0Zelfgemaakte kleding is met liefde
+gemaakt.
+\0( (촀\0Wie houdt daar nou niet
+van, n\0?"
+"216","( 촀\0O, kijk jou nou! Je draagt kleding van
+Dodo Airlines.\0\0(7촀\0Ik berg mijn verzamelobjecten altijd
+op,
+\0 (촀\0maar ik vind het knap dat jij de
+jouwe fijn gebruikt, n\0!"
+"217","( 촀\0O!
+\0 Is dat een kostuum?\0\0(촀\0Ik vind het geweldig, want je maakt
+vandaag er extra bijzonder mee.\0\0()촀\0Dergelijke kostuums zouden we
+eigenlijk veel vaker moeten dragen.
+\0
+Vind je niet, n\0?(촀"
 "251","Zeg, n\0, 
 \0(&촀\0wie 
 \0of wat
@@ -252,6 +313,52 @@ voor je maken. 
 \0Of vijf, dat mag ook.
 \0
 (촀\0Denk er maar gerust over na."
+"255","(;촀\0D-Die outfit!
+\0 Ik kan het maar nauwelijks geloven, n\0.\0\0(촀\0Sorry, maar je ziet er zo schattig in
+uit!
+\0((촀\0 En het betekent veel voor me
+dat je zo gekleed bent.\0\0(촀\0Je zou eens met me naar een familie-
+feestje moeten gaan. Iedereen zou
+dol op je zijn, n\0!"
+"256","( 촀\0Wauwn\0\0 kijk jou nou eens,
+n\0.\0\0(""촀\0Sorry, ik had niet verwacht om je
+verkleed als konijn te zien. Wat zie
+je er schattig uit!\0\0(1촀\0Wie wil nou niet zo nu en dan
+pluizige oren dragen? Ik wel, hoor,
+n\0."
+"257","( 촀\0Wacht.
+\0 Ben jen\0\0 Ja, dat ben je!\0\0(촀\0Je bent vandaag een beer! En ik ben
+elke dag een beer!\0\0(9촀\0Wacht.
+\0 Als ikn\0\0 mijn ogen half
+dichtknijpn\0\0 lijken we wel familie.\0\0(2촀\0Ik wéét natuurlijk wel dat we dat niet
+zijn, maar ik stel het me graag voor,
+n\0."
+"258","(촀\0O!
+\0 Weet je dat jen\0\0 Natuurlijk weet je
+dat, n\0.\0\0(""촀\0Je bent vandaag een beer!
+\0 Ik vind
+het leuk. Sommige beren die ik ken,
+zijn enorm knuffelig, n\0.\0\0Niet álle beren, natuurlijk.
+\0 ($촀\0Maar ik
+kan beren die dat wel zijn, wel
+waarderen.
+\0 Heb jij dat ook?"
+"259","($촀\0(촀\0Je bent een schaap!\0\0(9촀\0Ik bedoel, je bent verkleed als
+schaap.
+\0 Sorry, ik schrok ervan.
+Op een goeie manier!\0\0()촀\0Wol is het hele jaar een genot.
+\0 Warm
+in de winter.
+\0 Luchtig in de zomer.\0\0Sorry, ik draaf doorn\0\0 maar het is zo
+leuk om je zo te zien, n\0."
+"260","( 촀\0O! Je ben vandaag als schaap
+verkleed, n\0!\0\0(""촀\0Je ziet er schattig uit, hoor.
+\0 Die
+krullende hoorns lijken wel voor
+je te zijn gemaakt.\0\0(4촀\0Maar jij weet alle kleding goed uit
+te laten komen, hè?
+\0 Je inspireert
+me enorm, n\0."
 "301","(촀\0Wauw, n\0!
 \0(촀\0 Je ziet eruit alsof je uit een sprookjesboek bent gestapt!\0\0(촀\0Nu heb je enkel een sprookjesbos
 nodig
@@ -297,6 +404,27 @@ zeereis te beginnenn\0\0
 met een onbekende bestemmingn\0\0
 (""촀\0Niet vergeten om me een kaartje te
 sturen, hè?"
+"307","(촀\0O, die doktersoutfit staat je echt
+perfect. Ik heb meteen meer respect
+voor je, n\0!\0\0( 촀\0Wachtn\0\0 Ik had hoofdpijnn\0\0 maar die
+is nu weg.
+\0 Heb jij daarvoor gezorgd?
+\0
+(""촀\0Nóg meer respect, n\0."
+"308","($촀\0O!
+\0 Ik hoop dat ik je niet stoor tijdens
+een training.\0\0(4촀\0Je outfit ziet er zo comfortabel uit.
+\0
+Hij lijkt me perfect voor een lees-
+marathon, n\0."
+"309","(촀\0O! Jij bent vast de beroemde
+detective n\0!\0\0(촀\0Vertel! Vertel!
+\0 Heb je de zaak al
+opgelost, detective?\0\0(\0촀\0Zo nietn\0\0((촀\0 wil ik best je assistente
+worden!
+\0( Sorry,
+\0 (""촀\0ik liet me even
+meeslepenn\0\0 Het lijkt net een boek!"
 "401","<"
 "401_01","(촀\0Iedere keer dat ik die outfit zie,
 brengt het een glimlach op mijn
@@ -314,3 +442,17 @@ uit, n\0!"
 "401_03","(촀\0Ik heb je al eerder in deze outfit gezien, hè, n\0?
 \0(촀\0 Deze look staat je zo goed!\0\0(1촀\0Misschien moet ik ook maar eens een echte n
 \0-look samenstellen, n\0."
+"501","<"
+"501_01","($촀\0Je gezicht is vandaag een echt
+kunstwerk, n\0.\0\0(%촀\0Ik ben altijd blij om je te zien, maar ik
+had niet verwacht om vandaag een
+kunstwerk te spreken, n\0."
+"501_02","($촀\0Je hebt talent voor het werken met
+make-up, n\0.
+(&촀\0Het isn\0\0 fascinerendn\0\0 dat make-up op zoveel manieren gebruikt kan worden, n\0."
+"501_03","($촀\0Ik denk dat de manier waarop je
+make-up gebruikt weleens een hit
+kan worden, n\0.\0\0Dat soort dingen vallen mij op.
+\0 (2촀\0Of
+misschien vallen mij alleen trendy
+lui als jij op, n\0."

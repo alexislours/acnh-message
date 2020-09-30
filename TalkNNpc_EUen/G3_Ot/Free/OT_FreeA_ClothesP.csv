@@ -197,7 +197,8 @@ a flavor of ice cream rather than
 a good way to lose a pinky!
 (촀\0Throw a scarf on, 
 \0at least!"
-"016","(촀\0Your }촀!
+"016","<"
+"016_01","(촀\0Your }촀!
 \0
 (\0촀\0Cute is the first word that comes to
 mindn\0\0
@@ -207,12 +208,28 @@ mindn\0\0
 n\0. 
 \0(촀\0And I bet you feel
 absolutely fabulous too!"
-"017","(촀\0Why look at you, n\0!
+"016_02","($촀\0My word, you look adorable today.
+\0((촀\0
+You ought to consider wearing your
+}촀 more.\0\0(4촀\0And if you're not going to, might you
+consider making a donation to my
+own wardrobe? 
+\0(7촀\0Just a thought."
+"017","<"
+"017_01","(촀\0Why look at you, n\0!
 \0
 (6촀\0Aren't you the picture of cool!\0\0(""촀\0The way you're wearing your
 }촀n\0\0 You
 look(촀\0 unstoppable, n\0."
-"018","(촀\0You know,
+"017_02","( 촀\0Is it me, or is there something much
+cooler about you today? 
+\0((촀\0Ah! It's your
+}촀.\0\0(9촀\0That's the magic of clothing. 
+\0((촀\0It's like
+a prism that refracts the inner you
+into a single motif, such as ""cool."""
+"018","<"
+"018_01","(촀\0You know,
 \0 the way you're wearing
 your }촀n\0\0
 \0
@@ -221,7 +238,14 @@ your }촀n\0\0
 styling technique.
 \0 (촀\0And you can bet
 I'm taking notes, n\0."
-"019","(""촀\0The }촀 you
+"018_02","(촀\0I'm getting something from you
+today that's very simple, almost
+minimalistn\0\0\0\0(촀\0And I've just realized what it is!
+
+\0((촀\0It's coming from your subdued
+}촀."
+"019","<"
+"019_01","(""촀\0The }촀 you
 have onn\0\0
 \0(촀\0what an exceptional look!\0\0()촀\0I tell you, when it comes to gorgeous
 items like this, 
@@ -230,7 +254,14 @@ THEMn\0\0
 \0(5촀\0they choose YOU.
 (촀\0And you have certainly been chosen,
 n\0!"
-"020","(촀\0Ah yes, I see you're wearing your
+"019_02","(%촀\0If I didn't know better, I'd think your
+calling in life was to wear your
+}촀.\0\0()촀\0Don't laugh—looking immaculate is
+a vocation, 
+\0(촀\0and it's one that I happen
+to take very seriously, n\0."
+"020","<"
+"020_01","(촀\0Ah yes, I see you're wearing your
 }촀.\0\0(촀\0Don't you just love wearing
 activewear?
 \0( (\0촀\0I certainly do.
@@ -242,7 +273,15 @@ me feel like I could run a marathon!
 intention of ACTUALLY running a
 marathon. 
 \0(6촀\0That would be silly."
-"021","(&촀\0What IS this vibe you're giving off
+"020_02","(촀\0You're looking like a coiled spring in
+your }촀.\0\0(촀\0I've always said—ask anyone!—that
+one's clothing ought to serve as a
+manifestation of one's inner being.
+\0((\0촀\0\0\0(촀\0In your case, it's as if you've made
+your inner fire into an outfit, and
+now you wear it for all to see."
+"021","<"
+"021_01","(&촀\0What IS this vibe you're giving off
 today? 
 \0((\0촀\0This calm elegancen\0\0
 \0(%촀\0it really
@@ -251,6 +290,10 @@ suits you, n\0.
 you're wearing MUST be the secret.
 \0
 (촀\0Don't EVER change, n\0."
+"021_02","(촀\0Do you know what I think, seeing you
+in your }촀?\0\0(촀\0I think you and I had better keep our
+distance, lest our combined elegance
+blow the minds of everyone here."
 "101","<"
 "101_01","(""촀\0Your clothesn\0\0
 \0 You really do like
@@ -400,6 +443,41 @@ this side of you, n\0.
 would simply have no choicen\0\0
 \0(촀\0but to
 dance with you, n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Whatn\0\0are youn\0\0wearing,
+n\0?\0\0(촀\0Your look!
+\0 Your bag!
+\0 They have a
+couture quality I can't quite place.
+\0(
+They are handmade,
+\0 aren't they?\0\0(\0촀\0Oh, now I see.
+\0 They're made in the
+best way.
+\0 (촀\0With love!"
+"216","(;촀\0Why, look at that!
+\0 You've got Dodo
+written all over you!
+\0( (6촀\0The airline,
+I mean.\0\0Quite the vivid branding, don't you
+think?
+\0 You must be a frequent
+flyer, n\0.
+(%촀\0Well, I say wear the brands you
+love with pride.
+\0 (촀\0It's nice to be
+passionate about life."
+"217","Darling,
+\0 (촀\0your ensemble is just
+incredible today. 
+\0It's so gloriously
+dark.
+\0( (촀\02\0n\0, I love it!\0\0(%촀\0You look ready to make a splash at a
+costume party and then turn heads
+around town.
+\0 (""촀\0Well done!"
 "251","(촀\0Why, 
 \0n\0!
 \0 (6촀\0You look
@@ -446,6 +524,68 @@ You know,
 very IN right now. 
 \0One might say
 (6촀\0you HOPPED on the right trend."
+"255","(촀\0Why,
+\0 just look at you,
+n\0!\0\0(:촀\0You're son\0\0rabbit-esque.\0\0(촀\0I'd better be careful,
+\0 or folks around
+here will be turning to you as the
+authority on rabbit style.
+(5촀\0Still,
+\0 I'd be delighted to teach you
+everything I know about being me!"
+"256","(:촀\0Well,
+\0 look who decided to step out
+in rabbity fashion today.\0\0(촀\0Now, now.
+\0 I don't mean anything
+by that.
+\0 Quite the contrary.\0\0(촀\0If you must known\0\0
+\0((촀\0those ears are my
+everything, n\0!"
+"257","(촀\0My word!
+\0 Did you truly dress up asn\0\0
+a bear today, n\0?\0\0(촀\0I think that's wonderful, seeing you
+embrace us bears like that.\0\0You know,
+\0 maybe now you see what
+I'm really like on the insiden\0\0
+\0(촀\0warm
+and fuzzy, n\0."
+"258","(""촀\0What a look you have going
+today.
+\0 Let me take it all in,
+n\0!\0\0()촀\0Oh, yes.
+\0 It's all there, isn't it?
+\0
+I see what you're going for.
+\0(
+Teddy-bear style.\0\0(촀\0I have to admit, I'm a bit jealous.
+\0
+I wish the warm and fuzzy look
+worked for me, n\0."
+"259","What have we here?
+\0 Are youn\0\0like
+me?
+\0 A sheep, n\0?\0\0(촀\0Sheep-like, anyway.
+\0 I applaud the
+bold choice.
+\0 Here's a tip. We sheep
+pride ourselves on our fluffiness.\0\0(5촀\0I wouldn't say this to just anyone,
+\0
+but feel free to copy my own fluffy
+styling, n\0!"
+"260","(촀\0What's this?
+\0 Are you actually
+\0
+masquerading
+\0 as a sheep,
+n\0?\0\0(촀\0If so,
+\0 well done!\0\0(1촀\0I can't imagine it done any better.
+\0
+The fluff and flounce is so hard to
+pull off.
+\0 I'm not sure I could.\0\0(6촀\0I'm glad you have the knack for it.
+\0
+It's really a lot of look to take
+on, n\0."
 "301","Your outfit todayn\0\0(%촀\0looks positively
 powerful, n\0!\0\0(촀\0Dressed like that, you look as if
 you're in charge of something VERY
@@ -495,6 +635,30 @@ perhaps?
 \0 If any of that is true,
 \0
 (9촀\0you MUST tell me, n\0!"
+"307","(촀\0My word!
+\0 I can accept that there's
+such a thing as spa-inspired
+fashionn\0\0
+\0but THIS?\0\0(촀\0I'm not sure what to think,
+n\0.\0\0(7촀\0I'm just embarrassed for one of us,
+that's all.
+\0 And I'm not sure who!"
+"308","(촀\0You're dressed for ballet today!
+\0
+I have to say,
+\0 that's sheer elegance.\0\0(1촀\0I can see it nown\0\0you, dancing
+onstage and spinning in pirouettes.\0\0(촀\0I needed that.
+\0 Thanks,
+n\0."
+"309","(촀\0Whaaa?
+\0 Cute baby?
+\0 Cute
+\0 ba
+\0by!\0\0(촀\0Oh, sorry! There's just something
+about cuteness, and babies are such
+tiny experts at being cute.\0\0(촀\0I don't know if you were this
+adorable back then, but you are
+now, Baby 2\0n\0!"
 "401","<"
 "401_01","(촀\0Wearing that outfit again, are we?
 \0(
@@ -534,3 +698,17 @@ really sticking with it,
 one fashion to another willy-nilly.
 \0
 (촀\0You are committed, n\0!"
+"501","<"
+"501_01","(촀\0What is differentn\0\0about your face?\0\0(촀\0I love it! Well done, n\0."
+"501_02","(촀\0You're going for a new look with
+your face today.\0\0(%촀\0Good! Personal style isn't merely a
+matter of taste.
+\0 It's about one's
+mood too.\0\0(촀\0I just have to wondern\0\0what is
+your mood today?
+\0 Such a riveting
+mystery, n\0."
+"501_03","(;촀\0My word!
+\0 You're doing something
+new with your face.\0\0(1촀\0I can see that being just the right
+touch for a special occasion!"

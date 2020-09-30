@@ -144,24 +144,45 @@ que nadie más se atreve a seguirn\0\0\0\0('촀\0Pero llegar al extremo de 
 \0
 (*촀\0A mí se me está erizando la piel
 con solo verte, n\0n"
-"016","(촀\0¡Me gusta lo que tienes puesto!
+"016","<"
+"016_01","(촀\0¡Me gusta lo que tienes puesto!
 \0
 Tiene un toque (촀\0muy dulce.\0\0(촀\0Tanto,
 \0 que se me acaba de antojar
 2\0촀, n\0n"
-"017","(촀\0Me encanta eso que tienes puesto.
+"016_02","(:촀\0Qué original que hayas organizado
+todo el atuendo en base a tu
+}촀.
+(촀\0¡Deberíamos tener un pódcast
+sobre moda y estética!
+\0(%촀\0 Yo preparo
+los guiones, tú no te preocupes.
+(6촀\0¡Vamos a causar sensación
+en la isla, n\0!"
+"017","<"
+"017_01","(촀\0Me encanta eso que tienes puesto.
 \0
 (9촀\0Es muy alternativo.\0\0(1촀\0Me veo con algo parecido yendo a
 conciertos de 촀
 en cafeterías poco frecuentadasn"
-"018","(&촀\0¿Sabes que nada pasa de moda del
+"017_02","(촀\0¡Tu }촀 me deja sin palabras, n\0!\0\0(%촀\0Acabas de ganar muchos puntos
+en mi escala de gusto estético
+de la isla."
+"018","<"
+"018_01","(&촀\0¿Sabes que nada pasa de moda del
 todo?
 \0 (%촀\0Después de unos años
 todo se vuelve ""vintage"".
 (촀\0Luego se pone de moda nuevamente
 
 \0y después vuelve a desaparecer."
-"019","(촀\0¡Caracoles blogueros!
+"018_02","(9촀\0Tu }촀 tiene un estilo básico, pero no por eso renuncia a la elegancia.\0\0($촀\0Le doy mi visto bueno. 
+\0Tampoco es
+que lo necesites, pero lo tienes.
+\0
+¡Guárdalo para una emergencia!"
+"019","<"
+"019_01","(촀\0¡Caracoles blogueros!
 \0 ¡Qué bien
 vestid2oa estás hoy!
 \0
@@ -172,19 +193,43 @@ de cine?
 (촀\0No sén\0\0
 \0 Dame una pista,
 \0 n\0."
-"020","(촀\0Tu atuendo de hoy es absolutamente
+"019_02","(%촀\0Si no bailas demasiado seguido,
+deberías animarte más. (6촀\0
+\0¡Lo digo
+por eso que tienes puesto!
+()촀\0Si te interesa, tengo un libro sobre
+cómo bailar tango-rap en tu casa.
+\0
+¡Te lo presto!"
+"020","<"
+"020_01","(촀\0Tu atuendo de hoy es absolutamente
 ""magnifique"", n\0. 
 \0Parece
 cómodo y además tiene estilo.(%촀\0
 ( 촀\0
 \0¡La combinación perfecta!"
-"021","(촀\0¡Qué elegante estás hoy!
+"020_02","(%촀\0Qué cómod2oa que se te ve con tu
+}촀.\0\0(촀\0¿Y a mí?
+\0 ¿Se me ve igual de cómodo
+con esto que tengo puesto?
+\0 ¿O al
+menos, casi igual?
+\0 \0(Cuánta presión).\0￿"
+"021","<"
+"021_01","(촀\0¡Qué elegante estás hoy!
 \0
 (&촀\0¿Vas a una fiesta?\0\0(6촀\0¿O a un festejo?
 \0 Cómo domino
 los sinónimos,
 \0 ¿eh?
 \0 (촀\0¡Je, je!"
+"021_02","(1촀\0Hoy se te ve más elegante que
+nunca.
+\0 Parece que te vas a la ópera
+o a algún otro evento de gala.
+(촀\0Oye, si quieres que te cante un aria
+para ir entrando en clima, solo basta
+con pedírmelo."
 "101","<"
 "101_01","(촀\0Veo que últimamente repites mucho
 tu vestuario.
@@ -293,6 +338,43 @@ Sirve tanto como para salir de fiesta
 como para 촀.
 \0
 (5촀\0Exclusividad y confort, todo en uno."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0No sabría decir por qué, pero te vi
+y me invadió una sensación así como
+muyn\0\0
+\0 ¿casera?
+(&촀\0¿Ese atuendo es obra de tu madre?
+\0
+(촀\0Debería dedicarse al diseño, pero de
+forma profesional, n\0."
+"216","(&촀\0¿Te patrocina DAL?
+\0 ¿Cómo es que
+te lo pidieron a ti y no a mí, n\0?\0\0(촀\0¿Será por aquella entrada de mi blog
+en la que criticaba abiertamente
+la sociedad de consumo?
+(촀\0Sabía que me podría traer problemas
+algún día, 
+\0pero de ahí a perder
+patrocinadores hay un trechon"
+"217","( 촀\0Se te ve preparad2oa para una fiesta
+de disfraces.
+\0 (&촀\0Pero la cuestión esn\0\0
+\0
+¿lo estás realmente?
+(촀\0¿Te has metido de lleno en el papel?
+\0
+¿Has practicado la forma de hablar?
+\0
+¿Sabes cuál es tu motivación?
+(촀\0Si no sabes dar respuesta a todas
+esas preguntas, 
+\0te aconsejo ('촀\0que
+no te lances a la piscina todavía.
+(9촀\0El mundo de la interpretación es
+demasiado complejo y no debe
+tomarse a la ligera."
 "251","(촀\0Vaya, vayan\0\0
 \0 Has roto todos los
 moldes con ese atuendo tan felino
@@ -325,6 +407,46 @@ de croar a los cuatro vientos,
 amig2oa n\0?\0\0(촀\0¿O me estás insinuando que sería
 una idea millonaria organizar un
 torneo de saltos, n\0?"
+"255","(촀\0¡Caracoles blogueros!
+\0 (촀\0¿Soy yo on\0\0?
+\0(
+('촀\0Normalmente no me gusta estar
+vestido como los demásn\0\0
+($촀\0Pero tampoco voy a desaprovechar
+esta oportunidad de crear una nueva
+tendencia contigo, n\0."
+"256","(촀\0Te noto un tanton\0\0
+\0 ""conejil"" hoy, n\0⁠.\0\0(&촀\0¿Estás intentando inventar una
+nueva moda?
+\0(%촀\0 Sí, yo también tuve
+una fase parecida hace un tiempon"
+"257","(촀\0Oyen\0\0
+\0 no seremos parientes lejanos,
+¿no?
+\0(촀\0 ¡Porque te podría invitar a
+nuestras reuniones familiares!
+(촀\0El año pasado organicé un panel de
+discusión titulado ""El existencialismo
+en el oso posmoderno"" y fue furor."
+"258","(촀\0¡""Help""! 
+\0¡Qué oso tan feroz!\0\0(6촀\0No te preocupes, ya sé que eres tú,
+n\0⁠.\0\0(%촀\0Solo te sigo el juego para que el
+resto de los vecinos se lo crean.
+
+\0(촀\0Pero yo,
+\0 de ingenuo,
+\0 no tengo nada."
+"259","(촀\0¡Qué cabello más espectacular!
+\0
+Puro brillo y esponjosidad.\0\0(촀\0Veo que has seguido mis tutoriales
+para cabello ondulado que puse en
+mi blog, ¿eh, n\0?"
+"260","(촀\0Me apasiona el estilo tan original que
+tienes hoy.
+\0(&촀\0 ¿Es pelo sintético?
+\0 ¿De
+importación?
+\0 ¿Nuevo o ""vintage""?"
 "301","( 촀\0¿Te conté que estoy haciendo
 audiciones para un proyecto muy
 personal de cine de autor?
@@ -385,6 +507,40 @@ digamosn\0\0
 conmigo, n\0.
 \0 (촀\0¡Participo
 en cualquier idea exclusiva!"
+"307","(1촀\0Al verte vestid2oa así,
+\0 no puedo
+evitar recordar mis tiernos años
+de juventud, n\0.
+(촀\0No hubo n\0 más popular que yo en la escuela. 
+\0(5촀\0¡Aún se escucha mi nombre por los pasillos!\0\0(촀\0Peron\0\0
+\0 tuve que renunciar a todo
+cuando el gobierno me reclutó
+como espía secreto.
+(6촀\0Bueno,
+\0 a decir verdad,
+\0 no podría
+decir si eso sucedió o mi relato no
+fue inspirado en hechos realesn"
+"308","(촀\0¿Estás por participar en alguna
+competencia de ciclismo?
+\0(촀\0 Muy bien,
+siempre tratando de superarte.
+(%촀\0Yo soy más de bici estática. 
+\0No voy
+a pasar(촀\0 tres horas planchándome el
+cabello para luego despeinarme."
+"309","('촀\0No cualquiera se puede poner algo
+así y salir estéticamente airoso,
+($촀\0
+\0pero tú lo has conseguido.
+(촀\0¿Te parece si un día de estos te hago
+una entrevista para ""Blogueros
+con garbo""?
+(촀\0Técnicamente no eres un2\0a bloguer2oa,
+\0
+pero no te preocupes. 
+\0(6촀\0Será nuestro
+pequeño secreto, n\0."
 "401","<"
 "401_01","(촀\0¿Ese atuendo no lo habías lucido ya
 antes?
@@ -412,3 +568,30 @@ nunca se me escapan, n\0.
 (5촀\0Estéticamente hablando,
 \0 no hay nada
 que sea más ""n\0""."
+"501","<"
+"501_01","(촀\0Vaya,
+\0 ¡mira lo arreglad2oa que estás!
+\0
+(%촀\0Tú sí que sabes realzar tus rasgos
+a la perfección, n\0."
+"501_02","(촀\0Hoy te noto algo distint2oan\0\0
+\0 (&촀\0
+¿Te cortaste el cabello?
+\0
+¿Te suscribiste a un nuevo pódcast?
+(촀\0¡Ah! 
+\0¡Ya sé! 
+\0Es el cambio en tu cara.
+\0
+($촀\0Aunque no lo necesitabas,
+\0 tienes
+mi sello de total aprobación."
+"501_03","(;촀\0Esteeen\0\0\0\0(촀\0¡Ah, disculpa! 
+\0Se notó mucho que
+te estaba mirando fijo, ¿no?\0\0()촀\0No quise ser maleducado, es que
+simplemente tienes un aspecto
+muy diferente, n\0.
+(촀\0O sea,
+\0 diferente pero bien, no mal.
+\0
+(촀\0\0(Casi meto la pata hasta el fondo).\0￿"

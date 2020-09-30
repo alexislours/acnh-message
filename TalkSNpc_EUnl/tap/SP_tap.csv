@@ -39,7 +39,7 @@ worden met de rest van de wereld.\0\0(\0촀\0Kortom, 
 \0om jouw droomeiland met
 anderen te delen, hoef je me enkel
 \0
-($촀\0""\0Ik wil een droom delen\0￿"" te zeggen.\0\0(%촀\0Wel, nu we deze inleidende uitleg
+($촀\0""\0Ik wil een droom delen.\0￿"" te zeggen.\0\0(%촀\0Wel, nu we deze inleidende uitleg
 gehad hebbenn"
 "001_05","(\0촀\0Welkom, welkom.
 \0 (촀\0De binaire velden
@@ -177,6 +177,44 @@ om te kunnen dromenn\0\0\0\0()촀\0Eerst dient VRIJE COMMUNICATIE
 MET ANDEREN toegestaan te
 worden in het ouderlijk toezicht.\0\0(촀\0Kom alsjeblieft bij me terug zodra dat
 in orde is."
+"1051","(촀\0We zijn verbonden.
+\0( (\0촀\0Voordat we
+verdergaan, 
+\0vertel ik je graag iets
+wat je hopelijk zal bevallen.\0\0()촀\0Als je een droom als bijzonder prettig
+hebt ervaren, 
+\0kun je hem vanaf nu
+zeer gemakkelijk opnieuw dromen.\0\0(촀\0Alle droomeilanden die je recent hebt
+bezocht, sla ik op in een lijst.\0\0(\0촀\0Om zo'n droom opnieuw te dromen
+\0
+hoef je me enkel 
+\0($촀\0""\0Droom opnieuw
+bezoeken.\0￿"" te zeggen.
+\0 Welnun"
+"1052","(&촀\0Wat voor soort droom wil je dat ik
+voor je voorbereid?"
+"1052_a","Op droomadres zoeken."
+"1052_b","Droom opnieuw bezoeken."
+"1052_c","Laat maar..."
+"1055","(\0촀\0Goed dan.
+\0 (%촀\0Kies dan nu welk
+droomeiland uit de lijst je wilt
+bezoeken."
+"1056","(\0촀\0Je wilt het eiland ""⁠s촀⁠"" bezoeken?
+\0 (&촀\0Klopt dat?"
+"1056_a","Jazeker!"
+"1056_b","Nee, dat klopt niet."
+"1057","(촀\0Helaas is op dat \0droomadres \0￿geen
+enkele droom geregistreerd.
+\0 Wil je
+een andere droom bezoeken?"
+"1057_a","Ja, dat wil ik!"
+"1057_b","Laat dan maar zitten..."
+"1058","(촀\0Hmmn\0\0 Er zijn momenteel geen
+droomeilanden die je nog eens
+kunt bezoeken.\0\0(촀\0Als je toch wilt dromen, 
+\0heb ik een
+\0droomadres \0￿van je nodig."
 "2001","(\0촀\0Uiteraard. 
 \0(9촀\0Maar voor je verdergaat,
 moet je eerst wat \0belangrijke
@@ -302,6 +340,11 @@ iets voor je betekenen?"
 "3001_b","Is mijn droomadres zichtbaar?"
 "3001_c","Ik wil de droom verwijderen."
 "3001_d","Laat maar..."
+"3002_02_a","Ik wil de droom updaten."
+"3002_02_b","Is mijn droomadres zichtbaar?"
+"3002_02_c","Is mijn droomadres zichtbaar?"
+"3002_02_d","Ik wil de droom verwijderen."
+"3002_02_e","Laat maar..."
 "3101","(9촀\0Voorzichtigheid is een groot goed.
 \0
 (&촀\0Weet je zeker dat je de droom van

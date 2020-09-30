@@ -164,7 +164,8 @@ raakt. Want dat is niet cool. Toch?"
 modieus uit te zienn\0\0(8촀\0 Maar loop geen
 koutje op
 \0 voor een coole outfit, oké?"
-"016","(촀\0
+"016","<"
+"016_01","(촀\0
 \02\02\02촃}촀 2촀diedatdie je vandaag draagt(촀\0
 \0 2촀isiszijn zooooo SCHATTIG.\0\0(촀\0
 \0Je scoort er echt een modegoal mee,
@@ -173,7 +174,13 @@ recht in mijn hart.
 tennisterm zijn? 
 \0((%촀\0
 \0Naja, ik meen het!"
-"017","(""촀\0
+"016_02","( 촀\02\02\0}촀!\0\0(촀\0Ik ben, zeg maar, echt zó dol op
+schattige kleren en jij ziet daar zó
+schattig in uit, n\0!\0\0(촀\0Je komt vast met zoveel wegn\0\0 van
+schattige looks tot roofovervallen!
+(9촀\0Ik doe mee! \0K\0(Met allebei. Duh.)\0￿\0d"
+"017","<"
+"017_01","(""촀\0
 \0O wauw! Moet je n\0 zien in 2촀diedatdie 2촃}촀.\0\0(%촀\0
 \0Die outfit? Is supertastisch en zo.
 (촀\0
@@ -187,7 +194,12 @@ ik doe én met wat ik zeg. 
 \0(9촀\0
 \0Alle coole
 superdettes doen het!"
-"018","(%촀\02촀DieDatDie 2촃}촀 2(촀
+"017_02","(촀\0Je 2촃}촀!\0\0(촀\0Je hebt nu echt zo'n vibe, n\0. Hoe kan ik die beschrijvenn\0\0\0\0()촀\0Je ziet eruit alsof je dingen weet die
+ik niet weetn\0\0 maar het je niks doet
+dat ik ze niet weet!
+\0 (%촀\0Dat is zó cool."
+"018","<"
+"018_01","(%촀\02촀DieDatDie 2촃}촀 2(촀
 staat
 staat
 staan je hartstikke goed!\0\0(촀\0Je bent echt super, n\0.\0\0(촀\0Ik heb, zeg maar, hoe heet het?
@@ -197,17 +209,60 @@ Onderzoek?
 \0 Ik heb
 onderzoek gedaan naar mode.\0\0()촀\0En voor die outfit? Zou iemand je
 echt een prijs moeten geven."
-"019","Te gekke look, n\0! (촀\0Je 2촃}촀 2*촀
+"018_02","(촀\0Wat?! Niet eerlijk!
+\0 Kom je zomaar voorbij slenteren terwijl je 2\0}촀 draagtn\0\0\0\0(촀\0Zo'n eenvoudige look is echt niet
+voor iedereen!
+\0 Maar jou staat hij echt
+fan
+\0tas
+\0tisch.\0\0(촀\0Je bent zooooo charismatisch.
+\0 Kijk
+maar uit met die superkrachtn\0\0(9촀\0 en
+misbruik hem niet, okidoki?"
+"019","<"
+"019_01","Te gekke look, n\0! (촀\0Je 2촃}촀 2*촀
 heeft
 heefthebben echt die onwijze supersterstijl!"
-"020","(촀\0Te gek, hoor, 2촀diedatdie (&촀\02촃}촀?\0\0(%촀\0Zoiets kan ik ook wel kopen als ik
+"019_02","( 촀\02\02\0}촀!\0\0(촀\0Dat is zo'n geweldige look voor jou,
+n\0.
+\0 Je valt enorm op!\0\0(5촀\0Ik heb geluk, ik val van nature op.
+\0
+Alle ogen zijn altijd op mij gerichtn\0\0
+vooral als ik roep (!촀\0""KIJK NAAR MIJ!"""
+"020","<"
+"020_01","(촀\0Te gek, hoor, 2촀diedatdie (&촀\02촃}촀?\0\0(%촀\0Zoiets kan ik ook wel kopen als ik
 een outfit zoek om in op te treden."
-"021","(촀\0
+"020_02","(촀\02&촀
+MooieMooi
+Mooie }촀!\0\0(촀\0Je lijkt klaar om te bewegen!
+\0 Wat
+actief! Wat fysiek!
+\0 (-촀\0Wat veel zweet.
+
+\0Wat ben ik moen\0\0\0\0Sjeempie.
+\0 (촀\0Ik heb een work-out gehad
+alleen maar door naar je te kijken,
+n\0!"
+"021","<"
+"021_01","(촀\0
 \0Je 2촃}촀 2촀isiszijn zo elegant, ik kan wel janken! (""촀\0
 \02>촀Hij staatHet staatZe staan je zó goed.\0\0(촀\0
 \0Wat is de gelegenheid?
 \0 (3촀\0Ga je naar
 een of ander superchic feestje?"
+"021_02","(촀\0Sjeempie! Wat zie je er elegant uit!
+\0
+Ik weet echt wel waar dat aan ligt!
+\0
+(촀\0Je 2촃}촀!\0\02촃(%촀\0Superchic.
+\0 Fantastisch stijlvol.
+\0 (2촀\0Het
+maakt me hartstikke zenuwachtig om
+dichtbij je te staan!\0\0((촀\0((촀\0Was ik maar zou elegant als jijn\0\0
+\0
+(촀\0Als u?
+\0 (촀\0Pfft, laat maar. Het kost
+me nu al veel te veel moeite."
 "101","<"
 "101_01","( 촀\0Je bent echt dol op je 2촃}촀, hè?($촀\0 Je draagt 2촀hemhetze 
 \0heel vaak."
@@ -335,6 +390,31 @@ ik wil de ster van dat avontuur zijn!"
 \0(촀\0 De kleuren en patronen zijn echt onwijs te gek, n\0!\0\0Als ik er niet snel van wegkijk,
 \0 (6촀\0kun
 je me er zelfs mee hypnotiseren!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","Coole look!
+\0 (;촀\0Heeft je moeder dat voor
+je gemaakt, n\0?\0\0(촀\0O!
+\0 Dat kwam er zo gemeen uit, maar
+ik bedoelde het supergoed!(\0촀\0\0\0(촀\0Ik kan wel zien dat je kleding met
+liefde is gemaaktn\0\0 en ik ben echt
+hartstikke jaloers!"
+"216","(촀\0Sjeempie!
+\0 Spul van Dodo Airlines?!
+\0
+Dat is echt zó onwijs te gek!\0\0(촀\0Die dodo-broers hebben zo'n gaaf
+logo.
+\0 Het is zo cool dat ze ((촀\0op het
+vasteland én in de lucht trendy zijn!"
+"217","(촀\0Wauw!
+\0 Ik ben echt dol op je
+griezelige look!
+\0 (%촀\0Je bent, zeg maar,
+superklaar voor een verkleedpartij.\0\0(촀\0Wacht, je gaat toch niet naar een
+verkleedpartijtje zonder mij?
+\0( (*촀\0Nu jaag
+je me echt schrik aan, n\0!"
 "251","( 촀\0Sjeempie!
 \0 Kijk jou nou!
 \0 (\0촀\0En kijk mij
@@ -380,6 +460,62 @@ kikkerlook gegaan, hè, n\0?\0\0('촀\0Eerlijk gezegd is het niks voor mij
 \0
 Naja, 
 \0(촀\0van jou en van echte kikkers."
+"255","Weet je wie er supergoed uitziet
+vandaag?
+\0 (촀\0TOEEET!
+\0 De tijd is om.\0\0(촀\0Het antwoord isn\0\0 jij!
+\0 En het is echt
+wel duidelijk waarom.
+\0 Je lijkt vandaag
+op mij!
+\0\0\0Je moet deze outfit vaker dragen,
+want zo ziet iedereen dat wij super-
+goeie vrienden zijn, n\0!"
+"256","(촀\0WAUW!
+\0 Je lijkt vandaag niet helemaal
+jezelfn\0\0
+\0 Hoe komt dat zo?\0\0(촀\0Waarom hop je van hot naar her?
+\0
+Kun je je ei niet kwijt?\0\0(촀\0Of wil je haasje-over spelen, n\0?"
+"257","( 촀\0Sjeempie!
+\0 Je ziet er beregoed uit!
+
+\0($촀\0Dat is, zeg maar, echt een goeie look
+voor jou, n\0.\0\0(&촀\0Hoe noemen ze dat ook alweer?
+
+\0Na-beren?
+\0 Na-apen?
+\0 Ja, dat is het.
+\0(%촀\0
+Naja, van mij mag je, hoor!"
+"258","(촀\0Wat een te gekke outfit!
+\0 Hij staat je
+echt supergoed, n\0!\0\0Hij heeft iets bijzondersn\0\0
+\0 (촀\0Ik heb de
+indruk dat je vandaag extra goede
+knuffels geeft.
+\0 (&촀\0Is dat raar?"
+"259","( 촀\0Sjeempie!
+\0 Kijk jou nou!
+\0 Je ziet er
+vandaag bijna net zo donzig uit als
+ik, n\0.\0\0(촀\0Is het niet fantastisch om bedekt te
+zijn met zachte wol?
+\0 Echt zo
+\0o
+\0o
+\0o
+\0o
+ontspannendn\0\0\0\0Nu we hier allebei staan, (촀\0is dit de donzigste plek van heel n\0! Zeker weten!"
+"260","( 촀\0Sjeempie!
+\0 Je ziet er echt super uit
+vandaag!
+\0 Zeg niet dat je altijd al zo
+donzig wasn\0\0\0\0(촀\0Wauw, ik zou dolgraag gehuld zijn in
+zachte, donzige woln\0\0(촀\0\0\0Het ziet er gevaarlijk comfortabel uit!
+\0
+(;촀\0En gevaar is echt mijn ding, zeg
+maar, n\0."
 "301","(촀\0Je outfit is echt zó schattig!
 \0 (촀\0Ik ben,
 zeg maar,
@@ -436,6 +572,25 @@ hart gaat breken!
 \0 Niet mijn hart, hoor!
 \0 (7촀\0Maar
 absoluut iemands hart, n\0."
+"307","(촀\0Waaauuuuuw!
+\0 Je punklook is zooo
+cool! Ik kan er niet over uit!\0\0(%촀\0En dit bevestig alleen maar mijn favo
+modetheorie, namelijk dat kleding
+nooit te veel gespen heeft."
+"308","(촀\0Sjeempie! Kijk jou nou!
+\0 Wat een
+dappere modekeuze.
+\0 (;촀\0De kleuren! 
+De pasvorm! Gewoonn\0\0 alles!\0\0()촀\0Ik dacht dat ík de trendsetter van
+dit eiland was, maar gossie.
+\0 Ik kan
+heel wat van je leren, n\0."
+"309","( 촀\0Ooo! Die outfitn\0\0 Daarmee schiet je
+tonnen positieve gevoelens de lucht
+in, n\0!\0\0(%촀\0Nu ik jou in die outfit zie, wéét ik
+gewoon dat alles goedkomt vandaag.
+\0
+(촀\0Ik weet niet waarom!"
 "401","<"
 "401_01","(7촀\0Zodra ik een outfit vind die, zeg
 maar,
@@ -465,3 +620,30 @@ staan?\0\0(촀\0Sjeempie! 
 mijn modewensen!
 \0( (6촀\0Je bent een echt
 stijlicoon, n\0."
+"501","<"
+"501_01","O, wauuuuw.
+\0 Wat een metamorfose!
+\0 Je ziet er zoooooo stijlvol uit, n\0.\0\0Ik wil mijn look ook echt weer eens
+updaten.
+\0 (촀\0Hij moet zo flitsend zijn dat
+je denkt dat het onweert!"
+"501_02","(촀\0Wauw!
+\0 Je ziet er FANTASTISCH uit
+vandaag.
+\0 Heb je nieuwe make-up
+uitgeprobeerd?\0\0(;촀\0Had het mij laten weten!
+\0 Dan hadden
+we samen (촀\0een make-up-make-over
+kunnen doen!"
+"501_03","(;촀\0Stop!
+\0 Eén momentje!
+\0 Zie ik het
+goed? Dit is een nieuwe look, hè,
+n\0?\0\0AHA!
+\0 Ik wist het wel.
+\0 (5촀\0Ik zie altijd als
+iemand een nieuwe look heeft. Dat is,
+zeg maar, mijn superkracht.\0\0(촀\0Maar je ziet er fantastisch uit!
+\0 Als je
+nog eens je look opfrist, hoor ik het
+graag. Dan doe ik mee, n\0!"

@@ -83,12 +83,21 @@ from s촀.
 \0So, one could say I added
 Le ""Le."" 
 \0((촀\0Ha HA!"
-"101","(5촀\0So, tell me how great I look
+"101","<"
+"101_01","(5촀\0So, tell me how great I look
 in my }촀.\0\0(1촀\0I was going for bold, cute, daring,
 and sarcastic with just a hint of
 in-your-face zazz! 
 \0(&촀\0Too much?"
-"102","(5촀\0Alright, folks. 
+"101_02","(4촀\0I feel like my brand is more ""cute""
+than ""cutesy,"" so I'm not sure about
+2\0}촀n\0\0\0\0(5촀\0But my brand is also not caring
+what other folks think! 
+\0At least,
+outwardly. 
+\0(촀\0Ha HA!"
+"102","<"
+"102_01","(5촀\0Alright, folks. 
 \0Feast your eyes!
 \0
 I'm about to drop the hottest look
@@ -99,7 +108,14 @@ of the entire season, right now!
 (%촀\0This is, like, the ""soft open"" of
 fashion.
 \0( (5촀\0I invented it."
-"103","(5촀\0Alright, what do you think of this
+"102_02","(1촀\0Isn't it strange how the same piece
+of clothing can look completely
+different on different folks?\0\0(촀\0That's fashion for you!
+\0((5촀\0 I'd like to
+think I bring a little something extra
+to 2\0}촀."
+"103","<"
+"103_01","(5촀\0Alright, what do you think of this
 look I've got going on today?
 \0(촀\0 It's
 basic, right?
@@ -109,26 +125,56 @@ basic, right?
 fashionology.\0\0(촀\0Sometimes the most basic clothes
 are the wildest, if you wear 'em
 with attitude."
-"104","(5촀\0Look, n\0. 
+"103_02","()촀\0It is possible to overthink things
+when you're talking about style.
+\0
+Another word for basicn\0\0
+\0(촀\0is classic.\0\0(촀\0And don't you think I look classic in
+my }촀?"
+"104","<"
+"104_01","(5촀\0Look, n\0. 
 \0Feast your
 eyes upon my magnificent
 }촀!
 (촀\0This outfit technically complies with
 any dress code in the world, so I
 can legally go anywhere."
-"105","(촀\0Looks like I'm ready for some
+"104_02","(5촀\0One thing you should know about me
+is that I never let my guard down,
+fashion-wise.\0\0()촀\0See, I'm not even going to a party
+right now, but I'm wearing my
+}촀.\0\0(촀\0n\0\0Is there a party going on
+anywhere right now?"
+"105","<"
+"105_01","(촀\0Looks like I'm ready for some
 촀 in my fancy
 }촀?
 (5촀\0Trick question—of course I am!
 \0
 (촀\0See you on the sports field, a place
 with which I am clearly familiar."
-"106","(촀\0Ha HA!
+"105_02","(9촀\0Don't let anyone tell you that
+fashionable clothing can't also
+be functional, n\0.\0\0(1촀\0Like right now, I'm ready to slam
+dunk a gold-medal home run in
+my }촀."
+"106","<"
+"106_01","(촀\0Ha HA!
 \0 Look upon
 my }촀 and
 despair!
 (5촀\0It's a timeless look, but no one else
 has ever made it look this good."
+"106_02","(촀\0I was feeling classy today, like usual,
+so I decided to break out the old
+}촀.\0\0(;촀\0What do you think?
+\0 Classy?
+\0 Or would
+you say elegant? 
+\0Timeless? 
+\0(6촀\0Or
+maybe evenn\0\0n\0. 
+\0Ha HA!"
 "201","Feast your eyesn\0\0(촀\0on
 my }촀!\0\0(촀\0I'm pulling it off, right? 
 \0((촀\0Or should

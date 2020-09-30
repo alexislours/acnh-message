@@ -68,6 +68,11 @@ cette plante dans tes poches,
 \0 si tu
 la cueilles.
 \0 Laisse-la dans la nature."
+"012","Tu n'auras pas de place pour ranger
+ce légume dans tes poches,
+\0 si tu le
+déterres.
+\0 Laisse-le dans la terre."
 "013","C'est bien de vouloir nettoyer un
 peu,
 \0
@@ -369,6 +374,14 @@ Tu gaspilleras moins de ressources !"
 l'appli \0Motifs personnalisés\0￿. 
 \0Tu vas
 pouvoir devenir un2\0e vrai2\0e styliste !"
+"210_09","Tu as appris de nouvelles techniques
+de \0peinture corporelle\0￿ !
+\0( Applique-les
+devant une \0coiffeuse \0￿ou un \0miroir\0￿."
+"210_10","Tu as appris de nouvelles techniques
+de \0coloration des yeux\0￿ !
+\0( Applique-les
+devant une \0coiffeuse \0￿ou un \0miroir\0￿."
 "211_01","Tu peux à présent \0créer des cours
 d'eau\0￿ avec l'application \0Remod'île\0￿ !"
 "211_02","Tu peux à présent \0créer des falaises\0￿

@@ -392,25 +392,40 @@ tiempo cuando está en el teléfono."
 "120","(촀\0¡Listo!
 \0 ($촀\0Abriré las puertas."
 "120_01","(촀\0Lo siento,
-\0 no había notado que estás
-utilizando la aplicación \0Obras públicas\0￿.\0\0()촀\0Me temo que no está permitido
-usarla durante el vuelo ni durante
-el juego local o en línea.
+\0 no había notado que
+estabas utilizando la aplicación
+\0
+\0Obras públicas\0￿.
+ú\0
+()촀\0Me temo que no está permitido
+usarla durante el vuelo
+\0 ni durante
+el juego en línea.
+Ü\0
 (7촀\0Voy a tener que cerrar la aplicaciónn\0\0
 \0
-(촀\0Disculpa las molestias."
-"120_02","(촀\0Muchas gracias por tu cooperación.\0\0(2촀\0Los dodos de otros aeródromos nos
+(촀\0Disculpa las molestias.
+È"
+"120_02","(촀\0Muchas gracias por tu cooperación.
+x\0\0\0(2촀\0Los dodos de otros aeródromos nos
+\0
 suelen tomar el pelo por cosas de
-este tipo, ¿sabes?(\0촀"
+este tipo,
+\0 ¿sabes?(\0촀\0
+æ"
 "121_01","(촀\0¡Uy, vaya!
 \0 (7촀\0Se me había olvidado
-comprobar si estabas usando la
-aplicación \0Obras públicas\0￿.
+comprobar
+\0 si estabas usando la
+aplicación \0Obras públicas\0￿.
+Ü\0
 (촀\0No está permitido utilizarla durante
-un vuelo o durante el juego local
-o en línea.
-\0 Tendré que cerrarlan"
-"121_02","(촀\0Disculpa la espera."
+un vuelo o durante el juego en línea.
+\0
+Tendré que cerrarlan\0\0
+È"
+"121_02","(촀\0Disculpa la espera.
+Z"
 "122","-촀\0
 \0Voy a abrir las puertas."
 "125","()촀\0Te informo:

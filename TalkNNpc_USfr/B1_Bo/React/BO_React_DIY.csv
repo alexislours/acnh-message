@@ -9,9 +9,8 @@ plancher m'a soufflé les instructions
 à l'oreille dans mon sommeil.\0\0(촀\0Alors il faut que j'en fabrique 2촀unune\0
 avant que j'oublie tout ça!"
 "003","(촀\0Regarde un peu ça! C'est
-les plans pour fabriquer 2\0
-}\0\0!\0\0(;촀\0Je peux t'apprendre comment on fait,
-si tu veux!"
+les plans pour fabriquer 2\0\0}\0\0\0￿!\0\0(;촀\0Je peux t'apprendre comment
+on fait, si tu veux!"
 "003_a","Oui, je veux bien!"
 "003_b","Non, merci, ça ira."
 "007","('촀\0Désolé, je suis super débordé! Je
@@ -50,16 +49,56 @@ tu peux pas te tromper!"
 \0(촀\0alors tu
 devrais pouvoir fabriquer ça en un
 clin d'œil, n\0!"
-"019","()촀\0Je veux que tout le monde sache comment fabriquer 2\0}\0\0.\0\0Alors j'ai dessiné un plan avec
+"019","()촀\0Je veux que tout le monde sache comment fabriquer 2\0\0}\0\0\0￿.\0\0Alors j'ai dessiné un plan avec
 des instructions!\0\0(\0촀\0Si tu rencontres quelqu'un qu'a
 envie d'en fabriquer un2촀\0e\0,
-\0(""촀\0
-donne-lui ce plan.
+\0(""촀\0 donne-lui
+ce plan.
 (2촀\0Et dis-lui que je m'excuse pour la
 graisse de biscuit au milieun"
 "020","(촀\0Ce serait cool si tout le monde pouvait fabriquer 2\0}\0\0!"
-"021","( 촀\0Oh! 
-\0Tu es de retour pour mon plan secret, c'est bien ça?\0\0()촀\0Tiens, le voilà,
-\0 le plan secret pour fabriquer
-2\0}\0\0!
+"021","()촀\0Voilà le plan secret pour fabriquer
+2\0\0}\0\0\0￿!
 \0( ($촀\0Surtout, le perds pas, n\0!"
+"030","(%촀\0Tu vas avoir besoin de citrouilles,
+\0
+aussi.
+\0(촀\0 Mais ça pousse facilement.
+Essaie,
+\0 tu verras, n\0!"
+"031","(%촀\0Pour personnaliser ta création,
+\0 c'est
+pas un kit normal qu'il te fautn\0\0 
+\0mais
+plutôt une citrouille colorée!\0\0(촀\0Si tu en as pas de couleur différente,
+fais pousser plein de citrouilles!
+\0(""촀\0 Ça
+finira bien par arriver!"
+"032","(촀\0Tu es revenu2\0e chercher quelque
+chose?
+\0((""촀\0 Alors tiens,
+\0 c'est pour toi,
+n\0!"
+"033","n\0\0( 촀\0 Sans blague?
+\0( Tu sais déjà bricoler
+ce truc?
+\0"
+"034","C'est pas possible! 
+\0(""촀\0Mais tu sais tout
+faire, ma parole!
+\0((촀\0 Bon, dans ce cas,
+accepte quelques \0citrouilles\0￿."
+"035","(촀\0Fais-en bon usage, promis?
+\0( C'est la
+saison idéale pour 2\0}\0\0."
+"036","(7촀\0Snif. Je me faisais une joie de t'offrir
+ce plan. 
+\0((촀\0Hmmn\0\0 Qu'est-ce que j'ai qui
+te fera autant plaisir?\0\0(촀\0
+\0Oh, mais oui! 
+\0((촀\0Tu veux un \0bonbon\0￿?
+\0(Après tout, c'est bientôt l'Halloween!"
+"037","(촀\0Tu veux pas te retrouver à court de
+\0bonbons\0￿ à l'Halloween, pas vrai?
+\0(
+J'en garde toujours un peu sur moi."

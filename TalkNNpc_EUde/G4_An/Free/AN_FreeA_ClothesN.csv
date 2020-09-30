@@ -87,7 +87,8 @@ hat s\0촂 gestaltet!\0\0()촀\0Der Name is' 'n bisschen komisch:
 „s촀“.
 \0( (촀\0Aber
 Namen sind Schall und Rauch!"
-"101","( 촀\0Ich mach grade ein Fashion-
+"101","<"
+"101_01","( 촀\0Ich mach grade ein Fashion-
 Experiment. 
 \0Bei süßen Klamotten
 krieg ich normal immer Plaque.
@@ -102,7 +103,19 @@ diesedieses
 'ner gehörigen Portion Karies
 obendrauf.
 \0 Brrr..."
-"102","(촀\02$촀Mein
+"101_02","(촀\0Na, 
+\0biste überrascht, 
+\0mich in 2""촀'nem'ner'nem
+2촂}촀 zu sehn? 
+\0Ich auch, 
+\0n\0!\0\0(8촀\0Das is' eigentlich so was von gar
+nich' mein Stil, 
+\0abern\0\0
+\0 (촀\0es is' so
+bequem, 
+\0dass mir das egal is'!"
+"102","<"
+"102_01","(촀\02$촀Mein
 MeineMein }촀
 is' so was von wild, n\0!
 \0
@@ -110,7 +123,18 @@ Meinste nich'?\0\0(5촀\0Immer wenn ich das Teil anhab, fühl
 ich mich noch knallhärter als sonst.
 \0
 Hat mich selbst überrascht!"
-"103","()촀\0So 2촀ein'neein }촀
+"102_02","(9촀\0Weißte, 
+\0was so richtig cool is'?
+\0 (촀\0Na,
+\0
+m2\0}촀 hier selbstverfreilich!\0\0(5촀\0Kannste dir vorstellen, 
+\0dass sich
+irgendwer traut, 
+\0mich doof von der
+Seite anzulabern, 
+\0wenn ich das trag?"
+"103","<"
+"103_01","()촀\0So 2촀ein'neein }촀
 geht immer.
 \0 Ehrlich und ohne
 Firlefanz.
@@ -119,21 +143,59 @@ Firlefanz.
 \0(%촀\0Ich brauch
 keine Gedanken an Modegedöns
 zu verschwenden."
-"104","(;촀\02\02\0}촀
+"103_02","(촀\0Wenn ich keinen Bock auf Modekram
+hab, 
+\0streif ich mir einfach m2""촀
+eineneineein
+2촁}촀 über.\0\0(촀\0Alson\0\0 
+\0NOCH weniger Bock als
+sowieso immer, 
+\0n\0!
+\0
+(촀\0Gahaha!"
+"104","<"
+"104_01","(;촀\02\02\0}촀
 is' styletechnisch ja eigentlich
 so gar nich' mein Ding...
 (촀\0Aber irgendwie is' das Teil so
 verschroben, dass es fast schon als
 Statement durchgehen könnte..."
-"105","(촀\0Bin echt keine Sportskanone, aber
+"104_02","(&촀\0Was glotzt du?
+\0 Hab ich was an der
+Backe kleben, 
+\0n\0?\0\0( 촀\0Ach, 
+\0du starrst bloß m2""촀
+eineneineein
+2촁}촀 an?\0\0(7촀\0Sticht 'n bisschen raus, 
+\0was?
+\0 Tja,
+\0
+is' wohl nich' mein üblicher Stil, 
+\0aber
+heute hatte ich einfach Lust drauf."
+"105","<"
+"105_01","(촀\0Bin echt keine Sportskanone, aber
 mit 2""촀'nem'ner'nem 2촂}촀
 (6촀\0kann ich zumindest so tun als ob."
-"106","(촀\0Kannste glauben, wie gestriegelt
+"105_02","(6촀\0Bequemer als 2,촀dieser
+diesedieses }촀 geht's fast gar nich'.\0\0(%촀\0Ob Gartenarbeit oder gepflegtes
+Abhängen,
+\0 (촀\0man muss sich nie
+mehr umziehn, 
+\0n\0."
+"106","<"
+"106_01","(촀\0Kannste glauben, wie gestriegelt
 ich aussehe? 
 \0Und alles nur wegen
 2""촀'nem'ner'nem 2촂}촀...
 (8촀\0Also, 'ne toughe Businesslady
 bin ich auch ohne die Klamotte!"
+"106_02","(9촀\0Okay, 
+\0ich bin ziemlich rausgeputzt.
+\0
+Noch nie 2촀'n'ne'n 2촁}촀 gesehn?\0\0(촀\0Können wir jetzt bitte von was
+anderem sprechen,
+\0 n\0?"
 "201","(6촀\0Verpflanz mal deine Äuglein auf
 2(촀meinen
 meinemein 2촁}촀!

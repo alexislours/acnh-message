@@ -85,14 +85,20 @@ de s촀.\0\0(촀\0Es tan cómodo que da gusto llevarlo
 puesto.
 \0 (촀\0¡E incluso acumula el sudor
 de forma aerodinámica!"
-"101","(%촀\0¡Mira lo bien que me queda
-2촀esteesta\0 }촀, n\0!
-(촀\0Cuando estreno ropa, me pongo
+"101","<"
+"101_01","(%촀\0¡Mira lo bien que me queda
+2촀esteesta\0 }촀, n\0!\0\0(촀\0Cuando estreno ropa, me pongo
 a ejercitar músculos que
-normalmente no trabajo.
-(촀\0Aunque, ahora que lo pienso,
+normalmente no trabajo.\0\0(촀\0Aunque, ahora que lo pienso,
 de esos ya casi no me quedann"
-"102","(\0촀\0Con algo simple y sencillo como
+"101_02","($촀\0¿Te gusta cómo me vestí hoy?
+\0
+Me pareció que de vez en cuando
+puedo cambiar de estilo.\0\0(촀\0Ya ves,
+\0 (촀\0¡hay otras cosas además del
+equipo de gimnasia y las sudaderas!"
+"102","<"
+"102_01","(\0촀\0Con algo simple y sencillo como
 2촀esteesta\0 }촀,
 me siento más relajado.
 (1촀\0Es como si hoy no tuviera ninguna
@@ -103,26 +109,64 @@ preocupaciónn\0\0
 \0(촀\0¡Ay!
 \0 Aún tengo
 que hacer mis mil flexiones diarias."
-"103","(촀\0Mira esta maravilla de
+"102_02","(7촀\0Se me ocurrió que me podría poner
+algo diferente a la ropa deportiva
+de siempre.
+\0
+(&촀\0¿Qué te parece,
+\0 n\0?\0\0(%촀\0Eso sí,
+\0 debo tener cuidado,
+\0
+porque hago una flexión con esto
+(촀\0¡y rompo las costuras!"
+"103","<"
+"103_01","(촀\0Mira esta maravilla de
 }촀.\0\0A mí no me hacen falta ropitas de
 moda para verme profesional.\0\0(%촀\0Cuando ando relajado, me pongo
 algo sencillito.\0\0(촀\0Sencillito, ¡pero siempre marcando
 músculo, n\0!"
-"104","(촀\0¿Qué te parece, 2""campeóncampeona?
+"103_02","(촀\0Vamos,
+\0 dime la verdad:
+\0 (2촀\0no
+puedo pasar desapercibido con
+la elegancia de esta ropa.\0\0()촀\0Después de todo,
+\0 realza mis
+músculos,
+\0 (5촀\0que ya de por sí
+son muy llamativos, n\0."
+"104","<"
+"104_01","(촀\0¿Qué te parece, 2""campeóncampeona?
 \0<
 (촀\0¿Estoy para que me inmortalicen,
 o qué?\0\0(7촀\0Je, je, jen\0\0
 \0 Tengo un estilo tan
 mastodóntico que hasta podrían
 considerarme monumento insular."
-"105","(촀\0¡Mira lo bien que me queda esto!
+"104_02","(6촀\0Fíjate,
+\0 por fin me puedo poner algo
+(촀\0que está a la altura de mi buen físico
+natural.\0\0('촀\0Bueno,
+\0 casi,
+\0 porque no hay fibra
+que pueda compararse con
+la den\0\0 (촀\0¡mis músculos!"
+"105","<"
+"105_01","(촀\0¡Mira lo bien que me queda esto!
 \0
 ¡Qué buen sentido de la dinámica
 tiene este diseño, n\0!
 (5촀\0Justo mi estilo:
 \0 combina deportividad
 y pectorales bien marcados."
-"106","(5촀\0Estoy elegante, ¿verdad?\0\0(%촀\0Con estos abultados músculos que
+"105_02","(&촀\0¿Qué te parece cómo me veo hoy?
+\0
+(촀\0¿Tan deportivo como siempre
+o aún más?\0\0(촀\0Sé que la vestimenta no me hará
+ni más rápido ni más fuerten\0\0
+\0\0\0(촀\0¡pero con una buena aerodinámica
+siempre se pueden recortar unos segundos!"
+"106","<"
+"106_01","(5촀\0Estoy elegante, ¿verdad?\0\0(%촀\0Con estos abultados músculos que
 me caracterizan,
 \0 a veces es difícil
 que algo me haga ver tan pro.
@@ -130,6 +174,14 @@ que algo me haga ver tan pro.
 tengo,
 \0 no hay trapo que se me
 resista, n\0!"
+"106_02","(6촀\0¿No me notas algo diferente,
+\0 n\0?
+\0 (촀\0¡Hoy me puse algo especial!\0\0(2촀\0Me costó bastante meter toda mi
+musculatura en este atuendon\0\0\0\0Por favor,
+\0 no me cuentes chistes
+ni me hagas reír,
+\0 (촀\0que no quiero
+que exploten las costuras."
 "201","(촀\0Me encanta cómo me queda 2촀esteesta\0
 }촀,
 \0 ¿a ti no?\0\0(촀\0Resalta mucho mis oblicuos,

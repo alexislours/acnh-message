@@ -129,7 +129,8 @@ make this cold more tolerable
 \0
 You'll catch cold
 \0 dressed like that."
-"016","( 촀\0Well now,
+"016","<"
+"016_01","( 촀\0Well now,
 \0 don't you (촀\0look cute in
 2\0}촀!\0\0(%촀\0Maybe I should try out that style.
 \0(
@@ -137,17 +138,34 @@ You'll catch cold
 \0
 I'll still be better off,
 \0 n\0."
-"017","( 촀\0Wow,
+"016_02","(%촀\0You're looking real cute in your
+}촀.\0\0(촀\0You ARE tryin' to look cute, right?
+\0
+(촀\0Truth is, I have no clue at all what's
+cute these days, n\0n"
+"017","<"
+"017_01","( 촀\0Wow,
 \0 you're lookin' (%촀\0mighty sharp in
 your }촀!\0\0(촀\0Not a bad look for you,
 \0 n\0!"
-"018","(촀\0Say,
+"017_02","(%촀\0They sure did pack a lot of style into
+your }촀.\0\0(촀\0In fact, I'm feeling more stylish just
+by standin' here with you, kiddo.
+\0(
+(촀\0Thanks for the boost, n\0!"
+"018","<"
+"018_01","(촀\0Say,
 \0 I sure do like the timeless look
 of your }촀.\0\0(%촀\0Instead of overthinkin' things, you're
 keepin' it simple.
 \0 (촀\0Nice,
 \0 n\0!"
-"019","(촀\0Your }촀 isn\0\0
+"018_02","(6촀\0I'm really enjoyin' the simplicity of
+your }촀.\0\0(%촀\0The simple look is a classic for a
+reason, 
+\0I always say, n\0!"
+"019","<"
+"019_01","(촀\0Your }촀 isn\0\0
 \0\0\0(;촀\0just plain splendiferous.
 \0 Yowza!
 \0(
@@ -155,7 +173,15 @@ keepin' it simple.
 \0
 but (촀\0you are rockin' it,
 \0 n\0!"
-"020","(%촀\0You're lookin' downright casual in
+"019_02","(촀\0Don't you look snazzy in your
+}촀!\0\0(&촀\0Where you off to?
+\0 Ice-cream social?
+\0
+Sock hop?
+\0 (%촀\0Whatever it is, you'll be
+the best dressed in the room!"
+"020","<"
+"020_01","(%촀\0You're lookin' downright casual in
 your }촀!\0\0(촀\0I say as long as you're comfortable,
 \0
 (촀\0who cares what other folks think of
@@ -163,12 +189,22 @@ what you're wearin',
 \0 n\0?
 ('촀\0Life's too short to spend time frettin'
 you might set off some nosy killjoy."
-"021","(촀\0You're lookin' downright refined
+"020_02","(%촀\0You're lookin' real good in your
+}촀, kiddo!\0\0()촀\0Fitness is key to aging gracefully.
+\0
+Just remember to breathe and stay
+hydrated, n\0!"
+"021","<"
+"021_01","(촀\0You're lookin' downright refined
 \0 in
 your }촀!\0\0(촀\0Never thought of you as the high-
 society type,
 \0 n\0
 \0n"
+"021_02","(촀\0I'm frankly terrified I'll dirty up
+your }촀.\0\0('촀\0I don't know if I could ever forgive
+myself for messin' up such nice
+clothes, n\0."
 "101","<"
 "101_01","(""촀\0So,
 \0 I see you're still in your
@@ -263,6 +299,36 @@ weakness for me, n\0."
 outfit, kiddo. 
 \0Somethin' about that
 embroidery just grips the eye."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0
+\0Was that outfit made by hand?
+\0 (6촀\0Wow!
+\0
+Someone really poured a lot of love
+into those clothes of yours, kiddo."
+"216","Airport gear, huh?
+\0 (9촀\0I'll tell ya, I miss
+good air travel. 
+\0Used to be you were
+guaranteed a meal on every flight.\0\0(촀\0They were real tasty meals too, like
+촀! 
+\0And they'd bring
+you 촀 for dessert!\0\0('촀\0Now
+\0 you're lucky if you get a handful
+of crushed pretzels and a paper cup
+full of 촀.
+\0(촀\0 2\0n\0n"
+"217","(\0촀\0Level with me, kiddo.
+\0 (&촀\0You're only
+in that getup 'cause you're tryin'
+to scare me, right?\0\0(
+촀\0Well, quit it! 
+\0I ain't gonna be scared
+by your gothic flimflammery. 
+\0Not
+now, not ever, n\0!"
 "251","(2촀\0You're lookin' awful cat-like today,
 kiddo. 
 \0You know, flattery will get you
@@ -283,6 +349,31 @@ of frogs?
 \0( (촀\0Not sayin' I don't like it,
 \0
 I just had no idea, n\0!"
+"255","(촀\0Lookin' spiffy, kiddo! 
+\0With those
+ears, I would almost swear we were
+related, n\0.
+\0 (7촀\0Almost!"
+"256","(촀\0I sure hope you meant to dress like a
+rabbit,
+\0 'cause if not, then I got some
+bad news for you, n\0n"
+"257","(촀\0You ain't foolin' me with that getup,
+kiddo! 
+\0I know a bear when I see one,
+believe you me, n\0!"
+"258","(&촀\0Why the bear outfit, kiddo? 
+\0You part
+of some new fashion trend I ain't
+about to bother with, n\0?"
+"259","(촀\0Careful who sees us talking. 
+\0Folks're
+liable to put themselves to sleep if
+they start countin' us, n\0."
+"260","(;촀\0I could've sworn you were an old pal
+of mine, dressed the way you are.\0\0(2촀\0Well, you're not about to pull the
+wool over these eyes! 
+\0I'm on to you."
 "301","( 촀\0My, my, my! 
 \0You're lookin' ferocious,
 kiddo!
@@ -310,6 +401,25 @@ some kind of seafarin' adventure?\0\0()촀\0Don't forget to pack yourself a
 snack, kiddo. 
 \0Nothin' worse than
 being hungry at sea, n\0."
+"307","(&촀\0Fancy yourself a joker, huh? 
+\0Gonna
+do a stand-up routine for us, kiddo?\0\0(촀\0Ever heard the one about the squirrel
+that got caught 촀
+at 2\0촀 concert?
+(9촀\0You haven't? 
+\0Well, that's a shame.
+\0
+(촀\0I was hoping I might finally hear what
+the punchline was, n\0n"
+"308","(3촀\0Think you could tone that outfit
+down some? 
+\0It's so loud I'm startin'
+to get a headache, n\0."
+"309","(&촀\0You know you don't need to wear
+armor to prove your chivalry, right?\0\0(\0촀\0I mean, as far as I'm concerned,
+\0(촀\0
+you're still plenty noble even in
+shorts and a T-shirt, n\0!"
 "401","<"
 "401_01","(9촀\0You sure do seem to like that outfit.
 \0
@@ -328,3 +438,24 @@ your style or nothin', n\0.\0\0(\0촀\0Well, wearing what you love just
 makes your day brighter,
 \0 (촀\0and I say
 you're lookin' plenty bright today."
+"501","<"
+"501_01","(%촀\0That's quite an eccentric look you
+got goin' there, kiddo.
+\0 Gotta say,
+\0
+(촀\0I really like it, n\0!"
+"501_02","(촀\0Style has gone quite a ways since
+I paid it any mind, n\0.\0\0(촀\0I can't say that look's one I would've
+picked, 
+\0but as long as you're happy
+with it,
+\0 (%촀\0I'll be happy for you, kiddo."
+"501_03","(촀\0There's something awfullyn\0\0new
+about your face today, kiddo.\0\0( 촀\0Is it a new expression? 
+\0New hairdo?
+
+\0A new nose?
+\0 Yep, I'm flummoxed.
+\0 (촀\0Oh
+well. 
+\0I'm sure it'll come to me later."

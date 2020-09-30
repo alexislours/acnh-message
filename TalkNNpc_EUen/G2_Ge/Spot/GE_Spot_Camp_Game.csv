@@ -1,9 +1,10 @@
 ﻿"label","text"
 "001","(촀\0Hey,
 \0 how do you feel about playing a
-game with me?\0\0My }\0\0 is
-yours if you win!(;촀\0 What do
-you say?!"
+game with me?\0\0(\0촀\0What do you say? 
+\0If you win,
+\0 ($촀\0I'll give
+you my }\0\0!"
 "001_a","I'm in!"
 "001_b","I can't right now..."
 "002","(촀\0Need me to explain the rules?"

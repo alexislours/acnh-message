@@ -38,14 +38,16 @@ to hear your brand-new
 nickname, n\0?!"
 "005_a","(\0촁\0Ready as I'll ever be!"
 "005_b","(\0촁\0No! I'm not!"
-"006","(촀\02\0n\0n\0\0
-\0 (촀\0I might as well
-come out and say it, n\0?\0\0()촀\0The other day, I heard someone call
-you n\0.
-\0 And I
-thought,
-\0( (;촀\0""Oh, that's GOOD.""\0\0(8촀\0So, uhn\0\0
-\0you mind if I hop on the
+"006","(촀\0
+\02\0n\0!
+\0 (촀\0Guess I might as
+well ask, n\0n\0\0\0\0()촀\0The other day, 
+\0I heard a nickname for
+you and thought, 
+\0""Oh, that's GOOD.""
+\0
+($촀\0They called you s\0촀.\0\0(8촀\0So, uhn\0\0
+\0you mind if I hop on the
 bandwagon and call you that too?"
 "006_a","(%촀\0Not at all!"
 "006_b","(\0촁\0Please don't.
@@ -112,6 +114,12 @@ now?
 \0( (7촀\0Sorry, 
 \0could you run that by
 me again, n\0?"
+"111","(%촀\0I get you. 
+\0You wanna keep it simple
+with ""n\0""?\0\0(\0촀\0Feels right.
+\0 (6촀\0Nothing I can come up
+with is gonna be cooler than just
+""n\0,"" n\0."
 "200","(촀\0For serious, n\0? 
 \0((2촀\0Wow,
 \0

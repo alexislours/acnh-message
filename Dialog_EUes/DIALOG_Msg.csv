@@ -209,6 +209,12 @@ de las casas), los diseños
 personalizados y los mensajes
 del tablón de anuncios, entre otros.\0￿"
 "0831_a","Aceptar"
+"0841","¿Quieres quitar el sueño de
+\0\0s촀 \0￿de la lista?"
+"0841_a","No"
+"0841_b","Sí, quítalo"
+"0842","No puedes borrar los sueños
+favoritos de la lista."
 "0921","Solo es posible publicar un máximo
 de dos anuncios por visita."
 "0921_a","¡Vale!"
@@ -785,6 +791,11 @@ inalámbrica porque se ha interrumpido
 la conexión. Actívala e inténtalo de
 nuevo."
 "1456_a","Atrás"
+"1457","¿Quieres conectarte a internet
+para poder usar la lista de
+mejores amigos?"
+"1457_a","Ahora no..."
+"1457_b","¡Sí!"
 "1501","¿Seguro que quieres
 descartar los cambios?"
 "1501_a","No, espera"
@@ -1137,6 +1148,14 @@ completo y decorando tu hogar.
 que permite nadar y bucear
 en el mar con total libertad.
 \0\0Se enviará por correo.\0￿"
+"3022","Usa un \0espejo \0￿o un \0tocador\0￿ y disfruta
+de un cambio de imagen con varias
+opciones de pintura corporal.
+\0\0Se imprimirá de inmediato.\0￿"
+"3023","Usa un \0espejo \0￿o un \0tocador\0￿
+y disfruta de un cambio de imagen
+con nuevas lentillas de colores.
+\0\0Se imprimirá de inmediato.\0￿"
 "5001","\0Cámara\0￿
 Te permite sacar fotos y aplicarles
 diversos filtros y efectos.\0\0\0\0Las imágenes se guardarán en el

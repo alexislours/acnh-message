@@ -126,7 +126,8 @@ di sicuro di moda se ne intende.\0\0(%촀\0Questo modello unico ha un
 nome decisamente mitico:
 ""s촀"".
 ($촀\0Forte, vero, n\0?"
-"101","(""촀\0Guardami! 
+"101","<"
+"101_01","(""촀\0Guardami! 
 \0Avresti mai detto che
 avrei potuto permettermi un look
 così grazioso, 
@@ -135,7 +136,13 @@ così grazioso, 
 }촀!\0\0(촀\0Mi pare di essere salito di quattro
 livelli di carinosità in un colpo solo,
 n\0!"
-"102","(촀\0Così vestito non riuscirò mai a fare
+"101_02","(5촀\0Non ti sembro grazioso con 2""촀questoquesta\0
+}촀?\0\0(촀\0La mia mamma ha detto così non
+appena mi ha visto, 
+\0ma sai come
+sono le mammen\0\0\0\0('촀\0Non sbagliano mai, n\0!"
+"102","<"
+"102_01","(촀\0Così vestito non riuscirò mai a fare
 spuntini senza versarmi qualcosa
 addosso, n\0n\0\0
 (촀\0O a fare pisolini senza spiegazzare
@@ -146,7 +153,14 @@ per mangiare e... 
 \0dormirò in piedi!
 (5촀\0Tanto questa è già una mia
 specialità da sempre!"
-"103","(촀\0Questo abbigliamento è grandioso!
+"102_02","(""촀\0Ti piace come sto con 2""촀questoquesta\0 }촀?
+\0(4촀\0 Forse è uno stile troppo spavaldo per men\0\0\0\0(7촀\0E magari non piace a tutti.
+\0 Sai,
+\0 come
+quando cambiano i disegnatori delle
+serie a fumetti, n\0n"
+"103","<"
+"103_01","(촀\0Questo abbigliamento è grandioso!
 
 \0Non c'è nulla che non si abbini con
 2\0}촀!
@@ -158,7 +172,18 @@ specialità da sempre!"
 maionese, 
 \0촀n\0\0 
 \0Tutto!"
-"104","(%촀\0Vestirmi così mi fa sentire
+"103_02","(촀\0Guardami un po' con 2""촀il miola mia\0
+}촀!\0\0(\0촀\0Quando 2촀lola\0 indosso,
+\0 mi sento maturo
+e responsabile come un supereroe
+che si rispetti.
+(2촀\0Caspitina,
+\0 ma ora conosci la mia
+identità segretan\0\0
+\0 Forse dovrei
+andare a cambiarmin"
+"104","<"
+"104_01","(%촀\0Vestirmi così mi fa sentire
 elegantissimo, 
 \0ma anche
 un po' ansiosetto.
@@ -167,7 +192,10 @@ il peggio? 
 \0Per cambiare fantasticherò
 un po' sul meglio... 
 \0Mmmh mmmh..."
-"105","()촀\0Vedi, 
+"104_02","()촀\0Sento che indossando 2""촀questoquesta\0 }촀 devo comportarmi sempre alla perfezione.\0\0(촀\0Di solito devo solo evitare di ricoprirmi di macchie e briciolen\0\0
+\0( (촀\0non delle sgualciture, n\0!"
+"105","<"
+"105_01","()촀\0Vedi, 
 \0il punto è che quando sono
 in giro, faccio spesso dei pisolini
 ristoratori...
@@ -176,7 +204,14 @@ ristoratori...
 traspira bene, 
 \0forse dovrei lavarl2촀oa\0
 più di una volta al mesen"
-"106","(촀\0Che te ne pare? 
+"105_02","(촀\0Con 2""촀il miola mia\0 }촀 mi sento scoppiare d'energia!\0\0()촀\0Ma,
+\0 come puoi immaginare,
+\0
+scoppiare d'energia stancan\0\0
+\0 (""촀\0Quindi
+ti saluto e vado a fare un pisolino!"
+"106","<"
+"106_01","(촀\0Che te ne pare? 
 \0Non sembro vestito
 da testa coronata? 
 \0Non merito forse
@@ -191,6 +226,11 @@ del voi, n\0?
 di una casata nobiliare, 
 \0come quella
 famosa arcinemesi di Zuppaman?"
+"106_02","(촀\0Sembro un elegantone con 2""촀questoquesta\0 }촀,
+\0 vero?\0\0(%촀\0Devo imparare a portare anche vestiti
+così,
+\0 per quando sarò un celebrato e
+famoso autore di ""graphic novel""n"
 "201","(촀\0Che ti sembra del sottoscritto tutto
 vestito a puntino?
 \0 (촀\0Non è 2""촀miticomitica\0

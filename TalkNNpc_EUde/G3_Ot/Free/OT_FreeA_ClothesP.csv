@@ -144,7 +144,8 @@ etwas kühl?\0\0(촀\0Wer schön sein will, muss leiden...
 \0Aber wer leidet, ist nicht
 automatisch schön, 
 \0n\0."
-"016","(촀\0D2\0}촀
+"016","<"
+"016_01","(촀\0D2\0}촀
 ist wirklich überaus niedlich.
 \0
 (%촀\0Und somit absolut passend für dich!\0\0(촀\0Ich wette, wer so aussieht,
@@ -152,11 +153,34 @@ ist wirklich überaus niedlich.
 (촀\0hat Regenbogen und Einhörner
 im Herzen, 
 \0n\0!"
-"017","(촀\0Was für ein cooles Outfit!
+"016_02","($촀\0Ei, 
+\0wie niedlich du dich heraus-
+geputzt hast!
+\0((촀\0 Steht dir hervorragend,
+\0
+2,촀dieser
+diesedieses }촀.\0\0(4촀\0In mir regt sich leichter Neid, 
+\0dass
+ich aus derlei Stilen herausge-
+wachsen bin, 
+\0n\0."
+"017","<"
+"017_01","(촀\0Was für ein cooles Outfit!
 \0
 (촀\0Mit 2촀demderdem 2촂}촀
 siehst du wirklich unschlagbar aus!"
-"018","( 촀\02\02\0}촀?
+"017_02","( 촀\0Irre ich mich, 
+\0oder wirkst du heute
+cooler als gewöhnlich? 
+\0((촀\0Ah! 
+\0Das liegt
+2촀aman deram 2촂}촀.\0\0(9촀\0Kleider machen Leute, 
+\0wie man so
+schön sagt. 
+\0((촀\0Wer sich mit Mode
+auskennt, kann sich verwandeln."
+"018","<"
+"018_01","( 촀\02\02\0}촀?
 \0
 (\0촀\0Schlicht,
 \0 ()촀\0aber mit Stil!\0\0(9촀\0So etwas trauen sich nur die
@@ -164,21 +188,50 @@ wenigsten.
 \0 (%촀\0Dir gebührt Respekt,
 
 \0n\0!"
-"019","(:촀\0Mit 2.촀diesemdieserdiesem glorreichen 2촂}촀 
+"018_02","(촀\0Dich umgibt heute ein Hauch des
+Reduzierten, 
+\0fast schon ein
+Minimalismus, 
+\0n\0n\0\0\0\0(촀\0Oh, 
+\0ich weiß, 
+\0woran es liegt! 
+\0((촀\02$촀Dein
+DeineDein
+}촀 hält sich vornehm im Hintergrund."
+"019","<"
+"019_01","(:촀\0Mit 2.촀diesemdieserdiesem glorreichen 2촂}촀 
 \0(6촀\0spielst du alle Konkurrenten an die Wand!\0\0()촀\0Solche üppigen Teile kann man sich
 nicht aussuchen, 
 \0neinn\0\0 
 \0(%촀\0Sie wählen
 DICH aus, 
 \0n\0!"
-"020","(촀\0So 2\0}촀
+"019_02","(%촀\02,촀Diesen
+DieseDieses 2촁}촀 zu tragen könnte vielleicht dein ganzer Daseinsgrund sein.\0\0()촀\0Verlache mich nicht! 
+\0Umwerfend
+auszusehen ist eine Gabe. 
+\0(촀\0Du solltest
+sie ernst nehmen, 
+\0n\0!"
+"020","<"
+"020_01","(촀\0So 2\0}촀
 befördert augenscheinlich die
 eigene Bewegungsfreiheit.\0\0()촀\0Und das gilt nicht nur für den
 Körper,
 \0 ($촀\0sondern auch für den
 Geist, 
 \0n\0."
-"021","(&촀\0Warum wirkst du heute nur so
+"020_02","(촀\0D2\0}촀 lässt dich energiegeladen aussehen wie eine gespannte Feder.\0\0(%촀\0Ich habe ja immer schon gepredigt,
+
+\0dass man Kleidung als Manifestation
+seiner Innenwelt begreifen sollte.\0\0(촀\0In deinem Fall hast du das Feuer,
+\0 das
+in dir brennt, 
+\0(촀\0mustergültig zu einem
+Outfit geschmiedet, 
+\0n\0!"
+"021","<"
+"021_01","(&촀\0Warum wirkst du heute nur so
 elegant?
 \0 (촀\0Souverän, 
 \0erwachsen,
@@ -187,6 +240,13 @@ elegant?
 eindrückliche Wirkung
 \0 (%촀\02.촀deinemdeinerdeinem
 2촂}촀!"
+"021_02","(1촀\0Kannst du dir vorstellen, 
+\0welchen
+Reflex du bei mir auslöst mit 2.촀deinemdeinerdeinem
+2촂}촀?\0\0(\0촀\0Ich möchte mich von dir fernhalten,
+\0(촀\0
+damit unsere vereinte Eleganz nicht
+das Gefüge der Welt erschüttert!"
 "101","<"
 "101_01","(""촀\0Deine Kleidern\0\0
 \0 An diesen Stücken
@@ -337,6 +397,48 @@ fordertestn\0\0
 Wahl,
 \0 als Ja zu sagen, 
 \0n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Oho, 
+\0du trägst etwas Handge-
+fertigtes.
+\0 (&촀\0Oder irre ich mich?\0\0Das war eine rhetorische Frage, 
+\0denn
+in Modefragen irre ich mich nie!
+\0
+(촀\0Nanu, 
+\0Gleiches gilt für deine Tasche!
+(촀\0Wundervoll!
+\0( (촀\0Man kann direkt spüren,
+\0
+woraus sie gemacht sind – 
+\0und zwar
+Liebe,
+\0 n\0!"
+"216","Bist du ein ($촀\0eingefleischter Fan von
+Dodo Airlines?
+\0( (촀\0Die Logos auf deiner
+Kleidung weisen darauf hin.
+(;촀\0Oder fliegst du lediglich so häufig,
+\0
+dass sich all diese Sachen wie von
+allein bei dir angehäuft haben?
+(%촀\0Was auch der Grund ist, 
+\0du machst
+dich gar nicht schlecht als Werbe-
+maskottchen, 
+\0n\0."
+"217","(촀\0Dein Ensemble heute ist einfach
+unglaublich, 
+\02&mein BesterLiebes!\0\0(촀\0Diese düstere Optik lässt mein Herz
+gleich um einiges höherschlagen,
+\0
+n\0!\0\0(%촀\0Ich garantiere dir,
+\0 in diesem Aufzug
+wirst du auf jeder Kostümfeier Köpfe
+verdrehen!
+\0 (""촀\0Sprichwörtlich!"
 "251","(촀\0Oh, 
 \0n\0!
 \0 (6촀\0Du bist wohl unter die Katzen gegangen.
@@ -383,6 +485,82 @@ modischen wie froschigen Eindruck,
 im Trend. 
 \0(6촀\0Da bist du auf den
 richtigen Zugn\0\0 raufgehüpft!"
+"255","(촀\0Wie siehst du denn aus,
+\0 n\0!
+\0(
+(:촀\0Irgendwien\0\0 lagomorph, 
+\0oder nicht?\0\0(촀\0Ich muss aufpassen, 
+\0sonst löst du
+mich noch als Expertin für Hasenstil
+ab.
+(5촀\0Ich beantworte dir natürlich trotzdem
+gern alle Fragen,
+\0 die du zum
+Hasensein hast, 
+\0n\0!"
+"256","(:촀\0Wer hat sich denn da zum Hasen
+gemacht?\0\0(촀\0Nein, nein, 
+\0das ist natürlich nichts
+Schlechtes, 
+\0n\0!\0\0(촀\0Ich muss mich sogar schwer zurück-
+halten, 
+\0dir nicht an die weichen
+Ohren zu fassen..."
+"257","(촀\0Täuschen mich meine Augen,
+\0 oder
+hast du dich tatsächlich als Bär
+verkleidet, 
+\0n\0?\0\0(촀\0Davon darf ich mich dann wohl
+geschmeichelt fühlen, 
+\0n\0.
+"
+"258","(""촀\0Auf welchen Look hast du dich denn
+heute festgelegt?
+\0 Lass dich einmal in
+Ruhe anschauen, 
+\0n\0!\0\0()촀\0Oh,
+\0 ja.
+\0 Ich verstehe.
+\0 Das hat alles
+Hand und Fuß.
+\0 Ohne Frage, 
+\0du bist
+heute ein Bär, 
+\0n\0.\0\0(촀\0Ehrlich gesagt macht mich das etwas
+neidisch.
+\0 So ein warmer Wuschel-
+Look funktioniert bei mir nicht."
+"259","Was haben wir denn da?
+\0 Bist dun\0\0
+\0
+ein Schaf,
+\0 n\0?
+\0 So wie ich?\0\0(촀\0Oder zumindest nahe dran an einem
+Schaf.
+\0 Kleiner Tipp:
+\0 Wir Schafe sind
+stolz auf unsere Flauschigkeit.\0\0(5촀\0Das hätte ich nicht jedem verraten,
+\0
+weißt du?
+\0 Vielleicht wirst du mal so
+flauschig wie ich,
+\0 n\0!"
+"260","(촀\0Oh?
+\0 Verkleidest du dich etwa als
+Schaf,
+\0 n\0?\0\0(촀\0Falls das deine Absicht war,
+\0 ist dir
+das gut gelungen!
+\0 Besser geht es
+eigentlich nicht.\0\0Die Flauschigkeit ist schwer
+nachzumachen.
+\0 Ich hätte das
+nicht so gut hinbekommen.\0\0(6촀\0Freut mich,
+\0 dass es dir gelungen ist.
+\0
+Das ist wirklich kein einfacher Look,
+\0
+n\0."
 "301","20Mein lieberMeine liebe n\0! 
 \0Dein Outfit heute (%촀\0strotzt ja nur so vor Ausdruckskraft!\0\0(촀\0Man könnte meinen, du wärest auf
 dem Weg zu einer äußerst wichtigen
@@ -445,6 +623,44 @@ Oberhaus eine Rede?
 Herzog ein gutes Wort für mich ein,
 \0
 n\0!"
+"307","(촀\0Du liebe Güte!
+\0 Ich kann damit leben,
+\0
+dass es Mode à la Wellnesstempel
+gibtn\0\0
+\0 Aber DAS?!\0\0(촀\0Ich weiß nicht,
+\0 was ich davon halten
+soll, 
+\0n\0.\0\0(7촀\0Ich bin mir nicht sicher,
+\0 wem von uns
+das jetzt peinlicher sein sollte!"
+"308","(촀\0Du bist heute fürs Ballett angezogen!
+\0
+Ach, 
+\0diese Eleganz...\0\0(1촀\0Ich sehe es vor mirn\0\0 Du auf der
+Bühnen\0\0
+\0 Du tanztn\0\0
+\0 Eine Pirouetten\0\0
+\0
+Ein abschließender Sprungn\0\0
+\0 Schön.\0\0(촀\0Ach, 
+\0das habe ich gebraucht. 
+\0Danke,
+\0
+n\0."
+"309","(촀\0Waaas?
+\0 Sehe ich da ein süßes Baby?
+\0
+Oh,
+\0 wie allerliebst!\0\0(촀\0Oh,
+\0 tut mir leid!
+\0 Babys sind einfach
+zu süß!\0\0(촀\0Ich weiß nicht,
+\0 ob du als Baby auch
+so süß warst,
+\0 aber jetzt bist du es
+jedenfalls,
+\0 Baby 2\0n\0!"
 "401","<"
 "401_01","(촀\0Sieh an,
 \0 hast du dieses Outfit nicht
@@ -492,3 +708,24 @@ neuesten Trends mitreißen.
 \0
 (촀\0du weißt genau, 
 \0was du willst!"
+"501","<"
+"501_01","(촀\0Da ist was anders an deinem
+Gesicht...\0\0(촀\0Sieht gut aus!
+\0
+Gefällt mir,
+\0 n\0."
+"501_02","(촀\0Ich sehe,
+\0 du probierst etwas Neues
+mit deinem Gesicht aus.\0\0(%촀\0Gut so!
+\0 Persönlicher Stil drückt nicht
+nur Geschmack, sondern auch eine
+Stimmung aus!\0\0(촀\0Jetzt frage ich mich aber,
+\0 wie deine
+Stimmung wohl ist.
+\0 Ein Mysterium,
+\0
+n\0."
+"501_03","(;촀\0Sieh an!
+\0 Du probierst etwas Neues
+mit deinem Gesicht.\0\0(1촀\0Das passt bestimmt prima zu einer
+besonderen Gelegenheit!"

@@ -80,32 +80,65 @@ Aspetta un attimon\0\0
 (\0촀\0Immagino che tu lo sappia già,
 \0($촀\0 ma è stato creato da s\0촂 di s촀.\0\0(5촀\0Non credi che mi stia divinamente,
 n\0?"
-"101","(촀\02""촀QuestoQuesta\0 }촀 non mi convincen\0\0 Forse ha uno stile
+"101","<"
+"101_01","(촀\02""촀QuestoQuesta\0 }촀 non mi convincen\0\0 Forse ha uno stile
 troppo delicato per me?\0\0(촀\0Uffa! 
 \0((촀\0A volte decidere che capi
 indossare è un dilemma anche per
 un'esperta di moda come me."
-"102","('촀\0Non si possono indossare capi come
+"101_02","($촀\0Rispondimi sinceramente,
+\0 2$caro miocara mia:
+\0
+che ne pensi 2N촀 del mio grazioso$della mia graziosa\0
+}촀?\0\0(촀\0Non posso sempre vestirmi in modo
+da ostentare a tutti la mia eleganza!
+
+\0(6촀\0Ho anche un lato piùn\0\0
+\0 frivolo,
+\0 ecco."
+"102","<"
+"102_01","('촀\0Non si possono indossare capi come
 2""촀questoquesta\0 }촀 così alla leggera.\0\0(5촀\0Bisogna saperli indossare come
 fossero una specie di armatura!\0\0(촀\0Ti spiego.
 \0 Un capo come questo ci
 protegge dalle banalitàn\0\0(촀\0 dandoci
 la forza di osare!"
-"103","(""촀\02\02\0}촀 che indosso mi sembran\0\0 un po' 2""촀poveropovera\0 di stile. 
+"102_02","(촀\0Il merito del mio look che trasuda
+sicurezza?
+\0 (촀\0Ma è senz'altro 2*촀del miodella mia\0
+}촀.\0\0(4촀\0Lo dico per fare la modesta in caso
+di vicini a portata d'orecchio. (5촀\0
+\0(La mia
+personalità va al di là del vestiario."
+"103","<"
+"103_01","(""촀\02\02\0}촀 che indosso mi sembran\0\0 un po' 2""촀poveropovera\0 di stile. 
 \0Non ti pare?\0\0(5촀\0Sì,
 \0 perché un capo appariscente
 non è necessariamente alla moda!\0\0(촀\0A volte è l'articolo più semplice che
 riesce a rendere unico un coordinato,
 \0
 n\0!"
-"104","(촀\0Ciao, n\0! 
+"103_02","(&촀\0Come ti sembro con 2""촀questoquesta\0 }촀?\0\0(4촀\0Io non saprei,
+\0 è così semplice che
+sembra da tenere in casa,
+\0 no?
+\0 (2촀\0Mi fido della tua opinione, n\0."
+"104","<"
+"104_01","(촀\0Ciao, n\0! 
 \0((촀\0Hai visto 2\0}촀 che indosso oggi?\0\0(촀\0Molto sgargiante, 
 \0vero? 
 \0Non vedevo
 l'ora di 2.촀mostrarlomostrarla\0 a tutti!
 \0 (2촀\0Mi sento
 davveron\0\0 glamour!"
-"105","('촀\0Non si può essere sempre eleganti.\0\0
+"104_02","()촀\0Per i veri modaioli, indossare 2\0}촀 è quanto di più naturale ci sia.\0\0(7촀\0Per chi,
+\0 come me,
+\0 è più abituato a
+stare in casa che non\0\0
+\0 è una tortura
+di un certo livello, n\0."
+"105","<"
+"105_01","('촀\0Non si può essere sempre eleganti.\0\0
 \0(""촀\0A volte anche un capo come 2""촀il miola mia\0
 }촀 può andaren\0\0\0\0(촀\0Questo abbigliamento è senza
 dubbio perfetto per ogni tipo di
@@ -114,7 +147,13 @@ attività fisica.
 a breve in qualcosa di simile,
 \0
 ovviamente."
-"106","Devo ammetterlo.
+"105_02","(촀\0Sei sotto shock a vedermi indossare
+2\0}촀?\0\0(5촀\0Non credere che io sia tutta casa
+e cucina!
+\0 MI piace anche far vedere
+a tutti che mi tengo in forma."
+"106","<"
+"106_01","Devo ammetterlo.
 \0 (촀\0Oggi sono molto
 elegante. Vero?\0\0(촀\0Sarà unicamente merito 2*촀del miodella mia\0
 }촀, oppure del mio portamento,
@@ -122,6 +161,11 @@ elegante. Vero?\0\0(촀\0Sarà unicamente merito 2*촀del miodella mia
 fanno la loro figura, 
 \0(5촀\0ma l'eleganza
 vera è quella che viene da dentro!"
+"106_02","(촀\0Non mi sento mai più elegante di
+quando indosso 2R촀$il mio eccezionale$la mia eccezionale\0
+}촀!\0\0(%촀\0Sento che questo abbigliamento
+rispecchia il mio limpido mondo
+interiore, n\0."
 "201","(촀\0Non ti pare sublime 2""촀questoquesta\0 }촀? 
 \0((촀\0Non è eccezionale, n\0?\0\0(6촀\0Non serve sempre un'occasione
 speciale per vestirsi bene. 

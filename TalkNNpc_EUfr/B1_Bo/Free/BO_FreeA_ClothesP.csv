@@ -103,34 +103,71 @@ café refroidisse,
 (\0촀\0Est-ce que par hasard,
 \0(6촀\0 tu aurais
 mangé un truc super épicé ?"
-"016","(촀\0Ouah, tu portes 2\0}촀 ! Ça te va super bien !\0\0(\0촀\0J'adore les vêtements comme ça,
+"016","<"
+"016_01","(촀\0Ouah, tu portes 2\0}촀 ! Ça te va super bien !\0\0(\0촀\0J'adore les vêtements comme ça,
 c'est trop meugnon !
 \0(촀\0 Comme moi,
 n\0 !"
-"017","(;촀\0La classe, n\0 ! 2\02\0}촀, c'est bien ça, n\0 ?\0\0(촀\0Avec ça, t'es aussi 2beau
+"016_02","(촀\0C'est quoi que tu portes ?
+\0
+2\02\0}촀 ?\0\0(2촀\0Je trouve ta tenue à couper le
+souffle ! 
+\0(촀\0À moins que ce soit
+juste mon hoquet."
+"017","<"
+"017_01","(;촀\0La classe, n\0 ! 2\02\0}촀, c'est bien ça, n\0 ?\0\0(촀\0Avec ça, t'es aussi 2beau
 belle qu'un
 gâteau dans la vitrine d'un
 restaurant quatre étoiles !"
-"018","(촀\0J'aime beaucoup 22촀ce petitcette petite\0 }촀 ! C'est simple mais élégant !\0\0(&촀\0Tu l'as porté2촀\0e\0 combien de temps,
+"017_02","(&촀\0Hmm.
+\0 Je crois que 2\0}촀 que tu portes déteint.\0\0(촀\0
+\0Parce que quand je suis pas loin de
+toi,
+\0 je me sens d'un coup un peu
+plus classe !"
+"018","<"
+"018_01","(촀\0J'aime beaucoup 22촀ce petitcette petite\0 }촀 ! C'est simple mais élégant !\0\0(&촀\0Tu l'as porté2촀\0e\0 combien de temps,
 aujourd'hui, n\0 ?\0\0(촀\0Moi, en quelques heures, tout ce que
 je porte finit par ressembler à une
 nappe à la fin d'un dîner de famille !"
-"019","(촀\0Ouah ! Je rêve pas, c'est bien 2\0}촀 que tu portes là !\0\0(촀\0J'espère que tu ne t'es pas mis2\0e sur
+"018_02","(촀\0Sympa, 2\0}촀
+\0 !\0\0(\0촀\0Je le dis toujours, les choses les plus
+simples sont celles qui sont les plus
+sophistiquées. Bravo, n\0 !"
+"019","<"
+"019_01","(촀\0Ouah ! Je rêve pas, c'est bien 2\0}촀 que tu portes là !\0\0(촀\0J'espère que tu ne t'es pas mis2\0e sur
 ton 31 juste pour moi.
 \0(\0촀\0 Tu n'as rien
 à me prouver, tu sais, n\0."
-"020","Le vêtement que tu portes, c'est bien
+"019_02","(촀\02\02\0}촀 que tu portes apparaît sûrement à la définition de « ⁠somptueux ⁠» du dico !\0\0(촀\0Faut pas avoir froid aux yeux pour
+porter ça !
+\0((7촀\0 Moi, ce serait pas
+possible, n\0."
+"020","<"
+"020_01","Le vêtement que tu portes, c'est bien
 2\0}촀, je me trompe pas ?\0\0(%촀\0Ça a l'air confortable.
 \0()촀\0 Quand je te
 vois bouger, ça me donne envie de
 bouger moi aussi !\0\0(촀\0Des fois,
 \0 j'oublie que je peux
 bouger, n\0 !"
-"021","(촀\0Ouah ! Tu es super chic dans 2*촀ton jolita jolie\0
+"020_02","(촀\0Quel look !
+\0 Tu portes super bien
+2\0}촀 !\0\0()촀\0C'est idéal pour les gens actifs
+comme toi. 
+\0(""촀\0Les autres vêtements
+ne suivraient pas le rythme !"
+"021","<"
+"021_01","(촀\0Ouah ! Tu es super chic dans 2*촀ton jolita jolie\0
 }촀 !\0\0(촀\0J'aimerais bien être aussi chic,('촀\0
 \0 mais
 je crois que ce serait trop de boulot
 pour moi, n\0 !"
+"021_02","(촀\0Où tu vas dans 28촀ton élégantton élégante\0 }촀 ?\0\0(4촀\0Toi, tout te va,
+\0 mais là, tu es
+particulièrement chic.
+\0((촀\0 Surtout
+comparé2\0e à moi !"
 "101","<"
 "101_01","(촀\0Tu aimes beaucoup ces vêtements,
 \0
@@ -224,6 +261,29 @@ un peu ce moment,
 \0 d'accord ?
 (촀\0Tu as l'air extrêmement
 \0 pimpant2\0e !"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Ce que tu portes, c'est fait main ?
+\0
+(촀\0Quelqu'un doit vraiment t'aimer très
+fort ! \0\0(촀\0Je mets pas souvent les trucs que
+ma maman m'envoie. 
+\0(촀\0J'ai trop peur
+de les tacher, n\0."
+"216","(촀\0
+\0Ouah !
+\0 Tu portes la panoplie DAL,
+à ce que je vois.\0\0(촀\0Je savais pas qu'on pouvait porter
+cette tenue sans piloter un avion.
+\0(
+(촀\0J'en apprends tous les jours !"
+"217","(촀\0J'adore ton costume !
+\0 Ça doit être
+drôlement marrant de se balader
+comme ça, n\0 !\0\0(6촀\0En tout cas, avec un déguisement
+pareil, sûr que tu empocherais tous
+les bonbons à Halloweenn"
 "251","(촀\0Oh ! 
 \0Tu nous as regardés ?
 \0 Hé hé
@@ -251,6 +311,35 @@ d'un coup de langue.
 même, 
 \0(촀\0mais à peine. Et sacrément
 impressionné."
+"255","(""촀\0Tu sais, j'aime beaucoup ta tenue !\0\0(%촀\0Les oreilles : OK. La queue : OK.
+
+\0(촀\0Alors tout y est !
+\0 Bienvenue au club
+des lapins, n\0 !\0\0(3촀\0\0KEt entre nous, tu n'es pas du tout obligé2\0e
+de finir tes carottes.\0d"
+"256","(촀\0Regardez qui se prend pour un2\0e lapin2\0e aujourd'hui !
+\0( (촀\0Quand ça m'arrive, je me goinfre de carottes.\0\0(촀\0J'essaie de ne pas faire ça trop souvent, 
+\0parce que les carottes,
+j'ai horreur de ça."
+"257","( 촀\0Ouah ! Ou plutôt, grrrr ! J'aime
+beaucoup la version « ours » 2
+de d'⁠n\0, n\0 !\0\0()촀\0Tu crois que si on se balade tous les
+deux,
+\0 (2촀\0les gens nous prendront pour
+des jumeaux ?"
+"258","(촀\0Tu as pris du poil de la bête,
+aujourd'hui ! 
+\0((""촀\0Tu t'es réveillé2\0e au son
+de l'appel de la forêt, n\0 ?"
+"259","(촀\0Mêh, mêhn\0\0 Tu fais un meilleur
+mouton que moi, avec 2촀tonta\0 petit2촀\0e\0 }\0\0 !\0\0(%촀\0Entre nous, les cornes sur ta tête
+rendent l'ensemble plus convaincant."
+"260","(촀\02\02\0}\0\0, et hop ! Tu as l'air aussi dou2
+xce et soyeu2
+xse qu'un2\0e vrai2\0e 2moutonbrebis.\0\0(%촀\0Tu me fais penser à un lit douillet.
+
+\0(촀\0Si j'avais de la laine, je dormirais
+encore plus que d'habitude."
 "301","(촀\0C'est pas possiblen\0\0
 \0( (촀\0Je pensais
 jamais te voir en vrai !
@@ -296,6 +385,31 @@ que je suis pas sûrn"
 \0J'ai oublié d'employer le
 « nous » royal, n\0.
 (촀\0Han ! Nous avons recommencé !"
+"307","( 촀\0Oh ! 
+\0Tu pars en voyage sur la lune,
+n\0 ?!
+\0(\0촀\0\0\0(1촀\0Hmm, si tu cherches des souvenirs à
+ramenern\0\0
+\0( (촀\0j'ai toujours voulu goûter
+du fromage vert, n\0 !"
+"308","(&촀\0Il est pas trop lourd, le chapeau ?
+\0(
+(\0촀\0Il a l'air fendu. 
+\0(""촀\0Le laisse pas tomber
+comme moi et mon projet d'histoire !\0\0(촀\0Le thème, c'était justement l'époque
+où on portait ta tenuen\0\0
+\0 Voyons voir,
+ça devait êtren\0\0
+\0 le paléolicieux !"
+"309","($촀\0Oh,
+\0 tu joues au ninja, n\0 ?\0\0()촀\0
+\0Enfinn\0\0 on dit que pour chaque ninja
+trouvé,
+\0 50 autres sont cachés. 
+\0(촀\0
+Sortez,
+\0 les petits,
+\0 j'ai des cookies !"
 "401","<"
 "401_01","(촀\0J'aime beaucoup ce que tu portes !
 
@@ -314,3 +428,22 @@ préférée ! 
 affaires favorites à force de les
 porter ?
 \0( (촀\0Moi, jamais !"
+"501","<"
+"501_01","(촀\0Il y a quelque chose de changé chez
+toi, 
+\0mais j'arrive pas à mettre le doigt
+dessus.\0\0()촀\0Oh ! C'est ton visage ! 
+\0(%촀\0J'ai compris.
+
+\0On m'a interdit de mettre mon doigt
+sur le visage des autres."
+"501_02","(촀\0Aujourd'hui, tu ressembles à un2\0e
+n\0 tout2\0e nouve2aulle tout2\0e b2eauelle !\0\0(&촀\0Quelqu'un a dessiné sur ton visage,
+c'est ça ? 
+\0(4촀\0Ça m'arrive souvent. 
+\0Il faut
+que j'arrête de dormir n'importe où."
+"501_03","(%촀\0Ton nouveau look te va vraiment très
+bien, tu sais ! 
+\0((&촀\0Tu vas le garder pour
+toute la vie, n\0 ?"

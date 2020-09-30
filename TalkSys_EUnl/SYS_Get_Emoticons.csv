@@ -2,6 +2,10 @@
 "AbsentMindedness","Je hebt leren \0dromen\0￿!
 \0 (1촀\0Laat je
 meevoeren door je verbeelding!"
+"AddPrank","Je hebt leren \0bang maken\0￿!
+(>촀\0BOE!"
+"AddScaring","Je hebt leren\0 spoken\0￿!
+(?촀\0Jaag anderen de stuipen op het lijf!"
 "Apologize","Je hebt \0buigen\0￿ geleerd!
 \0 (#촀\0Hopelijk
 komt het vaak van pas!"
@@ -34,10 +38,14 @@ toch een grappenmaker!"
 "HappyDance","Je hebt \0enthousiasme\0￿ geleerd!
 \0 (촀\0Daar
 voel je je vast goed over!"
-"HappyFlower","Je kunt nu emoties gebruiken!
-\0 (촀\0Zo
-kun je iedereen precies laten zien
-wat er in je omgaat!"
+"HappyFlower","Je hebt een \0emotie \0￿geleerd!
+\0 (촀\0
+Daarmee kun je iedereen precies
+laten zien wat er in je omgaat!"
+"HappyFlower_1","Je hebt vier \0emoties \0￿geleerd!
+\0 (촀\0
+Daarmee kun je iedereen precies
+laten zien wat er in je omgaat!"
 "Hello","Je hebt leren \0groeten\0￿! ($촀\0Wat beleefd
 van je!"
 "Hesitate","Je hebt \0verlegenheid \0￿geleerd!

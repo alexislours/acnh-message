@@ -81,36 +81,87 @@ trasferirti all'altro capo del mondo,
 \0(
 (9촀\0Se ti ammali, non venire da me a
 chiedere la medicina, n\0!"
-"016","( 촀\0Aspetta,
+"016","<"
+"016_01","( 촀\0Aspetta,
 \0 stai davvero indossando 2\0}촀?\0\0(7촀\0Uh,
 \0 almeno c'è qualcuno che riesce
 a far funzionare quel look.
 \0 E non
 dico che sia tu,
 \0 ma non ti sta malen"
-"017","(;촀\0Ma dove hai trovato 2\0}촀 che porti?
+"016_02","(7촀\0Devo dire che,
+\0 beh,
+\0 non sei troppo sgraziat2oa con 2""촀questoquesta\0 }촀.\0\0(6촀\0Forse dovrei provare anch'io,
+\0 questo
+stile tira fuori la dolcezza che un2oa ha
+dentro.
+\0 E ci vuole coraggio per farlo!"
+"017","<"
+"017_01","(;촀\0Ma dove hai trovato 2\0}촀 che porti?
 \0 (%촀\0Non male, n\0!\0\0(촀\0La prossima volta che vai a fare
 shopping,
 \0 ti accompagno.
 \0 E se fai
 2$il bravola brava,
 \0 poi ti porto a una festa!"
-"018","(6촀\0È incredibile quanto riesci a far apparire una cosa semplice portare 2\0}촀.\0\0(촀\0Neppure io ci riuscirei così bene.
+"017_02","(%촀\02\02""촀questoquesta\0 }촀 non ti sta per niente male!\0\0(6촀\0Ho sempre saputo che,
+\0 sotto sotto,
+\0
+una vena spavalda l'avevi.
+\0 Benvenut2oa
+nel club 2,dei tostidelle toste, n\0!"
+"018","<"
+"018_01","(6촀\0È incredibile quanto riesci a far apparire una cosa semplice portare 2\0}촀.\0\0(촀\0Neppure io ci riuscirei così bene.
 \0 (촀\0Del
 resto, sono sempre fuori a ballare e
 per capi così non ho tempo!"
-"019","(촀\0Che storia, dove hai rimediato 2\0}촀? (촀\0
+"018_02","(6촀\0Ti stai dando alla semplicità con
+2\0}촀?\0\0(%촀\0Fai bene. 
+\0L'abito non fa l'abitante,
+\0
+dopotutto.
+\0 Fa 24il festaiolola festaiola,
+\0 ma non
+puoi far sempre festan\0\0(5촀\0 
+\0mica sei me!"
+"019","<"
+"019_01","(촀\0Che storia, dove hai rimediato 2\0}촀? (촀\0
 \0Sembri un po' me quando esco!"
-"020","(촀\0Ehi, n\0! 
+"019_02","(촀\0
+\0Mamma mia, 
+\0che aspetto niente
+male!
+\0 È per via di 22촀questo tuoquesta tua\0
+}촀?\0\0Di solito non mi sembri un'icona di
+stile,
+\0 (%촀\0ma oggi ti sei superat2oa!
+\0 (7촀\0Forse,
+\0
+beh,
+\0 potrai darmi qualche consiglion"
+"020","<"
+"020_01","(촀\0Ehi, n\0! 
 \0Non male 2""촀il tuola tua\0 }촀.
 \0 Sembra molto 2""촀comodocomoda\0!\0\0(촀\0Chissà come mi sentirei vestita
 cosìn\0\0
 \0 (촀\0Sai, di solito sono più a
 mio agio in abiti da discoteca!"
-"021","(촀\0Ehi, 
+"020_02","( 촀\0Sembri pront2oa a spaccare il mondo
+in due con indosso 2""촀questoquesta\0 2촀tuotua\0
+}촀!\0\0(6촀\0Non mi dispiace affatto questa tua
+versione attiva e tosta, n\0."
+"021","<"
+"021_01","(촀\0Ehi, 
 \0che }촀 di classe, n\0!\0\0(2촀\0Io non sono tipo da roba simile,
 \0
 ma tu hai un aspetto grandioso."
+"021_02","(;촀\0Non riesco a smettere di fissare
+2""촀il tuola tua\0 }촀?(촀\0\0\0Che eleganza ipnotica.
+\0 (%촀\0Ma con la mia
+volontà di ferro so resistere!
+\0 Ad ogni
+modo: 
+\0non male, n\0!"
 "101","<"
 "101_01","(촀\0Ti devono piacere molto questi
 vestiti.
@@ -184,6 +235,28 @@ gioiellino!\0\0(%촀\0È un inno all'eleganza e alla
 semplicità più pure.
 \0 Così si fa,
 n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(\0촀\0Che abiti! 
+\0Sono fatti a mano?
+\0( (촀\0Sì che
+lo sono! 
+\0Da paura! 
+\0Ti spiace se ci do
+un'occhiata da vicino, n\0?\0\0(6촀\0Uau, lo stile è fantastico.
+\0 Si capisce
+benissimo che chi li ha fatti è un tipo
+duro, come piace a me."
+"216","(\0촀\0Di solito la roba sponsorizzata non
+mi interessa se non è di una bandn\0\0\0\0(6촀\0Ma i tuoi vestiti della Dodo Airlines
+non sono niente male.\0\0(촀\0Certo, aiuta il fatto che il logo pare
+quello di un gruppo che fa musica
+촀 postmoderna."
+"217","(촀\0Non male i tuoi vestiti. 
+\0Vedo che te
+ne intendi di costumi spaventosi,
+n\0."
 "251","(9촀\0Ehi! Se pensi di tirare fuori il mio
 lato tenero con quel look felinon\0\0
 
@@ -201,6 +274,38 @@ molto a una delle mie amiche."
 
 \0Quel costume da rana mi ha davvero
 confusa, n\0."
+"255","(촀\0Senti, 
+\0sei stai cercando di intenerirmi
+con quel costume da coniglion\0\0
+\0 (촀\0ci
+stai riuscendo, n\0!"
+"256","(촀\0Belle orecchie. 
+\0Senti, ti spiace se
+ti chiedo un favore? (3촀\0Mi servono idee
+per uno scherzo, 
+\0n\0.
+(%촀\0Se per caso quelle orecchie ti
+migliorano l'udito, fammi sapere se
+senti in giro qualcosa di intrigante."
+"257","(%촀\0Essere un orso non è niente male,
+non credi, n\0?\0\0(촀\0La cosa migliore è che nessuno si
+aspetta che ti svegli presto per metà
+dell'anno.
+\0 (촀\0È fantastico!"
+"258","(4촀\0Non volevo dire niente, man\0\0
+\0
+(%촀\0lo so che ti piace il miele. 
+\0Non hai
+bisogno di travestirti da orso."
+"259","(6촀\0Da pecora a pecora, 
+\0sono contenta
+di essermi unita al gregge qui 2\0
+n\0, n\0."
+"260","(%촀\0Che aspetto morbidoso, n\0.\0\0(\0촀\0Davvero, 
+\0mi sembri un grosso
+cuscino
+\0 (.촀\0e io avrei bisogno di un
+grosso pisolino, n\0n"
 "301","(8촀\0Non per criticare, man\0\0 il tuo look
 è piuttoston\0\0 grezzo, ecco.\0\0(&촀\0O magari è questa la moda del
 momento?
@@ -248,6 +353,26 @@ gusto estetico simile al tuo.
 vera dura come batterista oppure
 chitarrista,
 \0(촀\0 sai dove trovarmi, OK?"
+"307","(촀\0Oh sì! 
+\0Non è niente male 2""촀il tuola tua\0 }\0\0. 
+\0Mi piace proprio!\0\0(촀\0Il look hippy fa proprio per te.
+\0
+Sei il ritratto della rilassatezza,
+n\0!"
+"308","(&촀\0Stai andando a un incontro di
+wrestling, n\0?\0\0(6촀\0Tranquill2oa.
+\0 So che non è un consiglio
+da duri,
+\0 (촀\0ma puoi sempre schivare i
+colpi finché l'altro non si stanca!"
+"309","(;촀\0Che look da strapaura!
+\0 E 2""촀il tuola tua\0 }\0\0?
+\0 (촀\0Uau!\0\0()촀\0Sei 2""un durouna dura. 
+\0Sei carismatic2oa. 
+\0Sei
+strabiliante!
+\0 (촀\0Non potresti avere un
+aspetto più perfetto, n\0!"
 "401","<"
 "401_01","(&촀\0Questo look ti piace proprio, eh?
 \0
@@ -268,3 +393,30 @@ quando mi metto i miei soliti vestiti!"
 look lancerai una moda personale!
 
 \0(촀\0Che storia, n\0!"
+"501","<"
+"501_01","(촀\0Sono contenta che almeno tu possa
+sfoggiare un look così eccentrico,
+n\0.\0\0(\0촀\0Tu non stai male con quella roba
+sul viso,
+\0 (2촀\0ma è un tipo di ""eccentrico""
+che non funziona con me."
+"501_02","(촀\0
+\0Ah! 
+\0La tua faccia mi ricorda una
+cover band dove ho suonato per
+un giorno.\0\0(2촀\0Ci siamo truccati,
+\0 siamo andati al
+locale 
+\0e poi ci siamo accorti di aver
+lasciato gli abiti da scena a casa.\0\0(촀\0Ci siamo sciolti sul palco. 
+\0Il ritorno
+è stato a dir poco imbarazzante.
+
+\0Che disastro, n\0!
+\0 (촀\0Ah ah!"
+"501_03","(\0촀\0Mi piace il tuo nuovo look.
+\0 (""촀\0È proprio
+nel tuo stile, n\0!\0\0(&촀\0Per caso devi partecipare a qualche
+evento?
+\0 (촀\0Perché se è così, sono certa
+che farai un figurone!"

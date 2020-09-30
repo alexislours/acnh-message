@@ -129,7 +129,8 @@ derritiendo queso para tus nachos."
 \0 ya sé.
 \0 (6촀\0Seguramente comiste
 unos nachos con muchos jalapeños."
-"016","(촀\0Oye,
+"016","<"
+"016_01","(촀\0Oye,
 \0 es2촀ea\0 }촀 que traes puest2촀oa\0 es bonit2촀oa\0 como leche de cereal.\0\0(촀\0¡¿No sabes lo que es la leche de
 cereal?!
 \0 (\0촀\0No te preocupes, yo te explico.
@@ -139,14 +140,31 @@ cereal con lechen\0\0
 colores mágicos que se escurrieron
 del cereal, (;촀\0¡y además es deliciosa!
 (4촀\0¿Tu }촀 también es delicios2촀oa\0?"
-"017","(;촀\0Guauuu, qué increíble está tu }촀.
+"016_02","(촀\0Es2촀ea\0 }촀 que tienes puest2촀oa\0 es galáctic2촀oa\0.\0\0(촀\0Al verte me dieron muchísimas ganas de comerme 2\0촀n"
+"017","<"
+"017_01","(;촀\0Guauuu, qué increíble está tu }촀.
 \0 Y además hueles bienn\0\0
 \0 ¿Te bañaste?\0\0(7촀\0Sí, yo también me bañaría si me
 pusiera algo asín\0\0 (촀\0Pareces una estrella del rock o algo.
 \0
 Si sí eres una estrella de rock,
 (촀\0invítame a un concierto, ¿sí?"
-"018","2촀EseEsa\0 }촀 que traes se ve limpi2촀oa\0n\0\0 ¿Cuántas veces te l2촀oa\0 has puesto sin lavarl2촀oa\0?
+"017_02","(촀\0Me encanta cómo estás vestid2oa hoy.
+\0
+Es2촀ea\0 }촀 es genialísim2촀oa\0.\0\0(&촀\0¿Dónde aprendiste tanto sobre cómo
+combinar ropa?
+\0 ¿Me enseñas? 
+\0(촀\0Es
+que yo ando perdido con ese tema.
+(촀\0A cambio yo te podría enseñarn\0\0
+\0
+no sén\0\0
+\0(촀\0 las mejores posturas para
+dormir la siesta, por ejemplo.
+(5촀\0¡Soy todo un experto, n\0!
+"
+"018","<"
+"018_01","2촀EseEsa\0 }촀 que traes se ve limpi2촀oa\0n\0\0 ¿Cuántas veces te l2촀oa\0 has puesto sin lavarl2촀oa\0?
 (촀\0A mí me pasa que en media hora,
 \0
 lo que sea que me ponga parece
@@ -155,15 +173,32 @@ servilleta usada, n\0.
 antes de lavarla,
 \0 mi abuelita dice que
 no hay que desperdiciar agua."
-"019","( 촀\0Guauuun\0\0
+"018_02","( 촀\0Oye, qué bien te queda es2촀ea\0
+}촀.\0\0(촀\0No sé cómo lo haces, que hasta
+la ropa más simple te queda
+genial, n\0."
+"019","<"
+"019_01","( 촀\0Guauuun\0\0
 \0 qué genial está tu }촀.\0\0(&촀\0¿Te disfrazaste de maniquí,
 n\0?"
-"020","(&촀\0¿Tienes 2\0}촀?
+"019_02","( 촀\0¡Por todos los churros!
+\0 ¡Me encanta tu }촀!\0\0(촀\0¡Hay que tener valentía para vestir
+ese atuendo! 
+\0((7촀\0A mí me da un poco de
+miedito, pero debería aprender de ti."
+"020","<"
+"020_01","(&촀\0¿Tienes 2\0}촀?
 \0 (촀\0Se ve muy cómod2촀oa\0n\0\0\0\0(%촀\0Quisiera tener un2촀oa\0 igual y moverme
 cómodamente por aquí y por allá.\0\0(촀\0Algo me dice que es aún más cómod2촀oa\0
 que aquella pijama de conejos
 extraterrestres que tenía hace años."
-"021","(촀\0¿Traes 2\0}촀?
+"020_02","(촀\0Es2촀ea\0 }촀 te queda genial y parece muy cómod2촀oa\0.\0\0()촀\0A mí me gusta sobre todo llevar
+ropa ancha,
+\0 para cuando como
+mucho, 
+\0(촀\0que es casi siempre."
+"021","<"
+"021_01","(촀\0¿Traes 2\0}촀?
 \0 (촀\0¿Y si 2촀lola\0 manchas, n\0?\0\0('촀\0Yo no puedo ir elegante,
 \0 me pongo
 nervioson\0\0
@@ -171,6 +206,12 @@ nervioson\0\0
 hambre.
 \0 Y cuando como,
 \0 (;촀\0me mancho."
+"021_02","( 촀\0¿Dónde vas con es2촀ea\0 }촀 tan elegante?\0\0(촀\0Te queda genial, ¿sabías?
+\0
+¡Es que a ti todo te queda genial!\0\0(촀\0Ahora me dio un poco de envidia
+\0
+y de hambre.
+\0 Sobre todo de hambre, n\0."
 "101","<"
 "101_01","(촀\0Veo que de verdad te gusta esa
 ropa que traes, n\0.
@@ -273,6 +314,29 @@ un pañuelo en el cuello""."
 quiera decir más elegante que ""superelegantísim2oa"".\0\0(촀\0De tanto pensar ya me dio hambre
 \0
 y sueño. (촀\0¡Pero me encanta tu vestimenta!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Eso que llevas pueston\0\0
+\0 ¿es todo
+cosido a mano?
+\0 (촀\0¡Se nota que quien
+te lo hizo te debe querer mucho! \0\0(촀\0Yo no uso mucho la ropa que me
+envía mi mamán\0\0
+\0 (촀\0¡Porque no quiero
+mancharla de dulce de leche!"
+"216","(촀\0¡Qué genial!
+\0 Veo que estás usando
+los regalos que se consiguen por
+volar en avión,
+\0 ¿no?\0\0(촀\0Lo que no sabía es que esas cosas
+también se podían usar estando en
+tierra firme.
+\0 (촀\0¡Aprendí algo nuevo!"
+"217","(촀\0Parece que te estás divirtiendo con
+ese disfraz que tienes puesto.\0\0(9촀\0Seguro que en Halloween
+conseguirías muchos dulces
+vestid2oa así."
 "251","(촀\0¡Qué genial,
 \0 hacemos juego!
 \0
@@ -303,6 +367,46 @@ lengüetazo.
 \0 (촀\0bueno,
 \0 en realidad
 me quedaría helado del asquito."
+"255","(""촀\0¡Tu vestimenta es épica!\0\0(%촀\0Orejasn\0\0
+\0 síp.
+\0 Colan\0\0
+\0 síp.
+\0 (촀\0¡Ya puedes ser miembro del club conejil,
+\0 n\0!\0\0(3촀\0\0KEntre tú y yo:
+\0 eso no te obliga a comer solo
+zanahorias.\0d"
+"256","(촀\0¿Hoy te has levantado con las
+orejas tiesas?
+\0 (촀\0Cuando me pasa a mí,
+\0
+desayuno leche con zanahorias.
+(촀\0Aunque trato de evitarlo,
+\0 porque
+la leche anaranjada y con sabor a
+verdura me da un poco de asquito."
+"257","( 촀\0¡Uy!
+\0 ¡Quién hubiera dicho que te
+quedaría tan auténtico el aspecto de
+oso,
+\0 n\0!\0\0()촀\0Si diéramos una vuelta por ahí tú
+y yo juntosn\0\0
+\0 (2촀\0¿la gente pensaría
+que somos de la misma familia?"
+"258","(촀\0¡Hoy tienes una pinta muy osuna!
+\0 (""촀\0¿Estás dando rienda suelta
+a tu lado más salvaje,
+\0 n\0?"
+"259","(촀\0Vaya,
+\0 debo admitir que 2\0
+}\0\0 te queda mucho mejor que a mí.\0\0(%촀\0Te contaré un pequeño secreto:
+\0
+son los cuernos lo que le dan el
+toque tan realista."
+"260","(촀\0Te veo muy lanud2oa y abrigad2oa
+con tu }\0\0.\0\0(%촀\0Si yo me echara una siesta vestido
+asín\0\0
+\0 (촀\0creo que dormiría el doble de
+horas, o sea mil por dos (¿tres mil?)."
 "301","(촀\0¡Pero si eres tú!
 \0 ¡Mi 20superhéroesuperheroína
 2$favoritofavorita en persona!
@@ -343,6 +447,32 @@ para no tentarme y terminar dándote
 \0 (촀\0Quise decirn\0\0
 \0 ""2LoLa traté
 de 'tú' sin querer, su alteza""n"
+"307","( 촀\0¡Vaya!
+\0 ¿Vas en misión de rescate
+estelar a Saturno o qué,
+\0 n\0?\0\0(1촀\0Esten\0\0
+\0 Si te puedo encargar una
+cositan\0\0
+\0 (촀\0¡Fíjate si allí venden dulces
+con anillos de colores,
+\0 n\0!"
+"308","(촀\0Me recuerdas a algo que estudié
+en la clase de historia en el cole.
+\0
+(%촀\0Sí,
+\0 sobre la eran\0\0
+\0 (촀\0¡""paleomítica""!\0\0(&촀\0¿No te pesa esa cosa en la cabeza?
+\0
+(\0촀\0Parece muy frágil.
+\0 (""촀\0¡Espero que no se
+te caiga y se te rompa!"
+"309","($촀\0¿Hoy te levantaste con ganas de
+lanzar bombas de humo y estrellas
+ninja,
+\0 n\0?
+()촀\0Esperan\0\0
+\0 (촀\0¡¿Dónde estás que no te veo?!
+\0 (촀\0¡¿Qué clase de técnica de camuflaje estás practicando?!"
 "401","<"
 "401_01","($촀\0¡Uy, te ves muy bien!
 \0 Es tu atuendo
@@ -367,3 +497,20 @@ de salsa.
 manchas en la ropa no es tan malon\0\0\0\0()촀\0Atraes amigos insectosn\0\0
 \0 si tienes antojo de algo dulce, le das una
 lamidita a la mancha de chocolaten"
+"501","<"
+"501_01","(촀\0Estás un poco diferente hoy,
+\0 pero
+no sé por quén\0\0\0\0()촀\0¡Ya sé!
+\0 ¡Es tu cara!
+\0 (%촀\0Me di cuenta
+porque soy muy bueno para
+distinguir colores de dulces."
+"501_02","(촀\0Con eso que te pusiste en la cara
+pareces una persona totalmente
+diferente,
+\0 n\0.
+(4촀\0¿Alguien te pintó mientras dormías, n\0?"
+"501_03","(%촀\0Eso que te pusiste en la cara te
+queda increíble.
+\0 (&촀\0¿Te lo vas a dejar
+así para siempre?"

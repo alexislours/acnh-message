@@ -1,0 +1,324 @@
+﻿"label","text"
+"000","(촀\0Bonsoir! 
+\0(""촀\0Alors, tu passes une
+joyeuse nuit d'Halloween, n\0?\0\0(촀\0Tous les amoureux des bonbons
+sont sur le pied de guerre. 
+\0(:촀\0D'ailleurs,
+reste prudent2\0e, 2&mon chouma chérie.
+(*촀\0Si tu LUI refuses des bonbons, tu ne
+croqueras pas que des sucreries.
+\0
+Tu t'en mordras aussi les doigts.
+(\0촀\0J'espère que tu ne m'en veux pas de
+te donner ce léger avertissement.
+\0
+(촀\0Et puisqu'on parle de celan"
+"001","
+(촀\0Des bonbons ou tu sors!
+\0 Euh,
+\0
+un sort,
+\0 pardon!
+\0((\0촀\0 Alors,
+\0 tu choisis
+quoi, n\0?"
+"001_01","
+(촀\0Des bonbons ou tu sors!
+\0 Euh,
+\0
+un sort,
+\0 pardon!
+\0((\0촀\0 Alors,
+\0 tu choisis
+quoi, n\0?"
+"001_a","Bonbons!"
+"001_b","Un sort!"
+"002_01","(촀\0Parfait parfait!
+\0( C'est gentil à toi
+de me donner ce que je préfère,
+n\0!"
+"002_02","(촀\0Oooh,
+\0 merci!
+\0( C'est la meilleure
+réponse,
+\0 à mon avis, n\0."
+"003_01","Voilà quelque chose pour toin\0\0
+\0
+2\0\0(촀\0}\0\0\0￿."
+"003_02","Bon,
+\0 j'ai quelque chose pour toin\0\0
+\0
+(촀\0un \0suçon\0￿, rien que ça!
+\0( (촀\0T'imagines
+pas le sacrifice que c'est pour moi!"
+"003_03","J'ai un petit cadeau rien que pour
+toi.
+\0 (촀\0Oui, c'est un \0plan\0￿ pour
+2\0\0}\0\0\0￿!"
+"003_04","J'ai un petit quelque chose pour toi.
+\0
+Hop, (촀\0Z\0\0 }\0Ȁ\0￿!"
+"004_01","($촀\0Qu'est-ce que je m'amuse,
+n\0!"
+"004_02","(""촀\0Joyeuse Halloween, n\0!"
+"005","(촀\0Tes poches sont pleines?
+\0( (\0촀\0Viens me
+revoir quand tu auras fait de la place,
+\0
+(%촀\0et je te remettrai ton cadeau."
+"006","(촀\0Mais!
+\0 Tes poches sont pleines,
+n\0.\0\0(촀\0J'ai envie de te remettre ce cadeau
+avant la fin de l'Halloween,
+\0( ()촀\0alors
+reviens vite avec de la place!"
+"007","(촀\0Ah! T'as pas oublié de revenir
+chercher ton cadeau!
+\0( (촀\0Tiens, voilà
+2\0\0}\0\0\0￿."
+"007_01","(촀\0Ah! T'as pas oublié de revenir pour
+ton cadeau!
+\0( (촀\0Tiens, un plan pour 2\0\0}\0\0\0￿."
+"007_pl","(촀\0Ah!
+\0 Tu n'as pas oublié de venir
+chercher ton cadeau. 
+\0(촀\0Tiens,
+\0 voici
+tes \0}\0Ȁ\0￿."
+"008","( 촀\0Un instant! 
+\0(촀\0Tu n'as pas la moindre
+friandise d'Halloween sur toi.\0\0(촀\0Tu mériterais un bon sort, 
+\0('촀\0mais
+il me semble que se balader sans
+sucrerie est une punition en soi.
+(촀\0L'Halloween sans bonbons,
+\0 ce n'est
+pas tout à fait l'Halloween. 
+\0J'espère
+que tu en trouveras, n\0."
+"009","(촀\0Tu voulais me faire croire que t'avais
+des bonbons,
+\0 n'est-ce pas?
+\0(촀\0 Mais en
+fait, tu n'en as aucun!\0\0(촀\0Je t'épargne le sort pour le moment.
+\0
+(8촀\0Il y a encore bien des endroits où tu
+pourras dénicher quelques bonbons.
+(\0촀\0Halloween n'a lieu qu'une fois par
+an, 
+\0(""촀\0alors faisons ce qu'il faut pour
+en profiter à fond, n\0!"
+"010","(촀\0Quoi? 
+\0(촀\0Comment oses-tu?\0\0(:촀\0Cette fois,
+\0 ton compte est bon.
+\0
+
+
+\0(	촀\0Tu as mérité ton sort!
+<"
+"011","(*촀\0Je vois.
+\0 Tu as fait ton choix,
+\0
+n\0.\0\0(:촀\0À moi de faire le mienn\0\0
+
+
+\0(	촀\0Un sort qui mord!
+<"
+"012","(6촀\0Alors, ça te plaît?
+\0( (%촀\0C'est mon côté
+artistiquen\0\0 Oh, t'inquiète pas, 
+\0c'est
+juste de la peinture, n\0.\0\0()촀\0Il te suffit d'utiliser un miroir ou
+une coiffeuse pour retrouver ton
+aspect normal."
+"013","($촀\0Au cas où, voici pour toi : 2\0\0}\0\0\0￿."
+"014","()촀\0Ah,
+\0 et tu peux retirer le \0maquillage
+\0￿dont je t'ai affublé2\0e dans la section
+changement d'habits de tes poches.\0\0(촀\0Tu vois, je ne suis pas si méchante
+que ça, n\0!"
+"015","(7촀\0Désolée,
+\0 mais c'est l'Halloween,
+n\0.\0\0(\0촀\0J'espère que tu ne m'en voudras pas.
+\0
+(""촀\0Ce ne sont que des blagues, n\0."
+"016","(촀\0Bien,
+\0 puisque c'est l'Halloween,
+\0
+c'est l'occasion rêvée de t'apprendre
+une mimique bien pratique.
+(>촀\0Donne-moi des bonbons ou
+tu connaîtras mon courroux!\0\0(촀\0La mimique d'\0épouvante\0￿,
+\0 l'idéal
+pour faire pleurer d'effroi et de rire à
+la fois!
+\0 (""촀\0Amuse-toi bien à faire peur!"
+"017","()촀\0Oh, au fait :
+\0 pour utiliser une
+mimique,
+\0 appuie sur \0\0￿ et choisis-la.
+
+\0($촀\0Petite astuce gratuite, n\0!"
+"018","(:촀\0Pardon?
+\0(촀\0 Tu n'as réellement pas de
+\0bonbons\0￿?
+\0 (촀\0Pas sûre que j'apprécie
+la blague, même à l'Halloween.\0\0(촀\0Qu'est-ce que je vais bien pouvoir
+faire avec toi?
+\0 Pas le choix, je vais
+devoir t'en donner."
+"019","(촀\0Tiens,
+\0 te voilà sauvé2\0e.
+\0 Tu n'auras
+plus d'excuses, maintenantn\0\0
+\0(3촀\0 on va
+pouvoir s'amuser, n\0!"
+"050","(촀\0Alors?
+\0 Qu'est-ce que tu penses de
+mon déguisement?
+\0( (촀\0J'espère que tu
+le trouves réussi.\0\0(촀\0À l'Halloween,
+\0 tout est permis,
+\0
+surtout vestimentairement,
+n\0!"
+"051","()촀\0Si tu te retrouves à court
+de bonbons,
+\0 tu peux te
+ravitailler chez un voisin.\0\0(%촀\0Toutes les demeures regorgent de
+bonbons à l'Halloween, 
+n\0."
+"052","(1촀\0Ah!
+\0 L'odeur sucrée des bonbons
+donne à notre île des airs de
+confiserie géante.\0\0(촀\0Je ne sais pas ce que je préfère,
+\0
+le goût des bonbons, ou leur odeur
+sucrée, n\0n"
+"053","()촀\0Maintenant que la nuit est tombée,
+\0
+la magie de l'Halloween peut enfin
+éclater dans toute sa splendeur.
+(%촀\0Ce qui hier encore aurait été glauque
+devient magnifique,
+\0 les haillons se
+parent de mille charmesn\0\0 J'adore!"
+"100","(""촀\0Joyeuse Halloween!
+\0( (촀\0Quelle joie de te
+voir,
+\0 n\0."
+"101","Oh, n\0!
+\0 (촀\0Tu as oublié
+quelque chose, 2(mon grandma grande?"
+"102","($촀\0Tu veux un bonbon,
+\0 c'est ça?
+\0(
+(촀\0Moi je veux bien, mais tu n'es pas
+déguisé2\0e.\0\0(\0촀\0Alors oui, tu auras des bonbonsn\0\0(""촀\0
+lorsque tu reviendras accoutré2\0e comme il se doit, n\0.
+(1촀\0C'est-à-dire dans un costume
+\0effrayant\0￿!"
+"103","( 촀\0Oh?
+\0 Tu veux encore un bonbon?
+\0(
+(촀\0Mais je viens de t'en donner!\0\0(\0촀\0Reviens un peu plus tard.
+\0 (6촀\0Tu vas 
+encore plus les apprécier,
+\0 si tu as 
+à attendre, n\0."
+"104","(촀\0Je sais pourquoi tu es là.
+\0( (6촀\0Pour que je
+te donne un \0bonbon\0￿,
+\0 pas vrai?
+\0( 
+(촀\0Eh bien, 2 monsieurmadame est servi2\0e!
+\0((촀"
+"105","(촀\0Tu ne pouvais pas résister à l'appel
+des \0bonbons\0￿?
+\0( Heureusement que je
+suis là!"
+"106_01","(""촀\0Et n'hésite pas à revenir s'il t'en faut
+encore davantage, n\0!"
+"106_02","(""촀\0Profite bien de la soirée, n\0!"
+"107","(촀\0Oh nonn\0\0 tes poches sont pleines.
+\0(
+Tu n'as pas de place pour mes
+bonbons.\0\0(\0촀\0Remédie à ce problème,
+\0 ($촀\0et reviens 
+me voir, n\0."
+"108","Attends voirn\0\0(촀\0 Tu n'as réellement pas
+le moindre petit \0bonbon\0￿?
+\0
+(촀\0\0KPauvre petit2\0e,
+\0 2ilelle devait être affamé2\0e.\0d\0\0(9촀\0Exceptionnellement,
+\0 et même si tu
+ne portes pas le costume effrayant
+règlementaire pour Halloweenn\0\0\0\0Je vais t'offrir un \02\0ā촃bonbon\0￿.\0\0Tu devrais te dépêcher de remettre
+son dû à \0Jacqu'O\0￿!"
+"109","(촀\0La prochaine fois, je veux te voir
+en costume!
+\0( (촀\0Et là,
+\0 tu auras mérité les
+\0bonbons\0￿ que je t'offrirai."
+"150","(촀\0Ne va pas croire que j'ai peur de
+sortir.
+\0(촀\0 C'est juste que j'aime qu'on
+vienne me réclamer des bonbons!\0\0(1촀\0Mais je me demande quand même
+quelles joies réserve la nuit, n\0."
+"151","(촀\0J'ai décidé de moi aussi me déguiser
+pour l'Halloween.
+\0( (촀\0Je suis comment?
+\0(
+Merveilleuse, n\0?"
+"152","(촀\0J'ai eu bien raison de faire le plein
+de bonbons en prévision de cette
+nuit!\0\0(\0촀\0Quand on reste chez soi pour
+l'Halloween,
+\0 on peut s'attendre à 
+une foule de visiteurs, n\0."
+"153","(&촀\0Par curiosité,
+\0 est-ce que tu es au
+service de \0Jacqu'O\0￿ ce soir?\0\0()촀\0Peu importe,
+\0 l'important est que tu
+saches que ce soir,
+\0 le bonbon est roi.
+
+\0(%촀\0Tout le reste n'est que futilité!"
+"200","(촀\0Oh, non! \0
+\0Jacqu'O\0￿?!
+\0( (촀\0Tu veux mes
+\0bonbons\0￿? 
+\0Prends-les,
+\0 mais par pitié,
+\0
+ne me joue pas de tour!"
+"201","Voilà pour toi, \0Jacqu'O\0￿.
+\0 (6촀\0Ou devrais-je
+plutôt diren\0\0 n\0?\0\0(촀\0Oh,
+\0 je le savais dès le début,
+\0 mais
+ton costume est tellement réussi
+\0(촀\0 que
+tu mérites bien ton \0bonbon\0￿."
+"201_01","(3촀\0Voilà pour toi..
+\0 Mais ne te méprends
+pas, je sais que tu n'es pas \0Jacqu'O\0￿.
+\0
+(%촀\0Désolée, mais tu es démasqué2\0e.\0\0(촀\0Voyons qui nous joue des toursn\0\0
+\0 (촀\0Oh! 
+\0On ne se connaît pas, je me trompe? 
+\0Dans ce casn\0\0(""촀\0\0\0Enchantée, je m'appelle n
+\0.\0\0(촀\0Il me tarde de faire plus ample connaissance!\0\0La prochaine fois, je ne saurais que
+trop te conseiller de laisser le
+costume de \0Jacqu'O\0￿ au placard."
+"202","(촀\0Avec tout mon respect,
+\0 
+\0M. \0Jacqu'O\0￿,
+\0
+tes poches sont pleines?
+\0( (촀\0J'aurais
+cru qu'elles seraient magiques.\0\0(촀\0Oh!
+\0 Désolée d'avoir cru ça!
+\0((\0촀\0 (8촀\0Mais
+ce n'est pas vraiment ma faute si
+tu n'as pas de place, n\0n"

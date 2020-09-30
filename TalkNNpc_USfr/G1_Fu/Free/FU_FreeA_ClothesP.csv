@@ -90,24 +90,70 @@ comme ça?
 \0 je ne
 voudrais pas que tu tombes
 malade, n\0!"
-"016","(촀\02\02\0}촀 que tu as là est adorablen\0\0\0\0(촀\0Tout comme toi, n\0."
-"017","(촀\0Tu as des allures de véritable icône de mode avec 26촀un si joliune si jolie\0 }촀!\0\0(2촀\0Qu'est-ce que ça fait d'être aussi
+"016","<"
+"016_01","(촀\02\02\0}촀 que tu as là est adorablen\0\0\0\0(촀\0Tout comme toi, n\0."
+"016_02","(촀\0Wouah! C'est vraiment 2\0}촀 que tu portes!\0\0(4촀\0C'est tellement mignon que je risque
+de faire une mignonite aigüe.
+\0 Je ne
+plaisante pas, n\0.\0\0(촀\0Mais j'aimerais quand même bien te
+ressembler, n\0."
+"017","<"
+"017_01","(촀\0Tu as des allures de véritable icône de mode avec 26촀un si joliune si jolie\0 }촀!\0\0(2촀\0Qu'est-ce que ça fait d'être aussi
 bien 2""habilléhabillée, n\0?"
-"018","(촀\0Tu portes vraiment 2\0}촀 comme personne!\0\0(촀\0Tu as le chic pour faire ressortir
+"017_02","(4촀\02\02\0}촀 te va à merveille. C'est pas donné à tout le monde, n\0.\0\0(""촀\0Je vais finir par devenir ta plus
+grande fan vestimentaire si tu
+continues comme ça, n\0."
+"018","<"
+"018_01","(촀\0Tu portes vraiment 2\0}촀 comme personne!\0\0(촀\0Tu as le chic pour faire ressortir
 le meilleur de tes vêtements,
 n\0."
-"019","(촀\0Ça alors,
+"018_02","($촀\0Je plussoie totalement ce que tu
+portes.
+\0 Je ne dis jamais non à
+2\0}촀.\0\0Plus le cadeau est beau,
+\0 plus son
+emballage est simple.
+\0 (""촀\0Et te connaître
+est un beau cadeau, n\0.(촀"
+"019","<"
+"019_01","(촀\0Ça alors,
 \0 tu as décidé de porter
 2\0}촀 aujourd'hui!\0\0(2촀\0Ça fait ressortir ton élégance
 naturelle, n\0."
-"020","(촀\0Eh bien,
+"019_02","($촀\0Comment tu fais ça?
+\0 Comment tu
+arrives à porter aussi parfaitement
+2\0}촀?\0\0Je crois que je sais.
+\0(""촀\0 C'est parce que,
+\0
+intrinsèquement,
+\0 tu es une star.
+\0 Que
+tu le veuilles ou non.\0\0(7촀\0Si seulement je pouvais avoir autant
+confiance en moi, n\0n"
+"020","<"
+"020_01","(촀\0Eh bien,
 \0 en voilà 2\0}촀 qui te va vraiment bien!\0\0(촀\0Je me sens en forme juste à
 te regarder, n\0!"
-"021","( 촀\0Est-ce qu'il y a un événement spécial
+"020_02","Wouah.
+\0 ($촀\0Il se dégage de toi une aura
+d'effort et de sueurn\0\0 C'est l'effet
+« }촀 »n\0\0\0\0(""촀\0Une vraie force de la nature, n\0!"
+"021","<"
+"021_01","( 촀\0Est-ce qu'il y a un événement spécial
 aujourd'hui?
 \0( (촀\0Je vois que tu portes
 2\0}촀.
 (2촀\0J'ai l'air mal habillée à côté de toi, n\0!"
+"021_02","(&촀\0Mais comment, n\0?
+\0
+Comment tu fais pour toujours être
+au top vestimentairement?\0\0(촀\0C'est ton élégant2촀\0e\0 
+}촀 qui me fait dire ça.\0\0(촀\0Ça m'encourage à essayer un style
+différentn\0\0 un jour.
+\0 En attendant,
+\0 je
+continuerai à t'envier, n\0."
 "101","<"
 "101_01","(촀\0Je t'ai déjà vu2\0e porter ça,
 \0 non?
@@ -208,6 +254,35 @@ les vêtements traditionnels.
 (촀\0C'est incroyable comme la mode
 parvient à faire du neuf avec du
 vieux, n\0."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Waouh! 
+\0((촀\0J'adore ta tenue,
+\0 dis donc.
+\0
+C'est toi qui l'as faite?
+\0 Elle a un
+côté très personnel.
+($촀\0Les habits cousus main sont plus
+authentiques,
+\0 je trouve.
+\0( (촀\0Et qui
+n'aime pas l'authenticité?"
+"216","( 촀\0Tiens donc, tu portes des vêtements
+Dodo Airlines.\0\0(7촀\0Moi, je n'ose pas porter mes tenues
+de collection.
+\0(촀\0 J'ai bien trop peur de
+les abîmer!\0\0Au moins,
+\0 je peux les admirer sur
+toi, n\0!"
+"217","( 촀\0Oh!
+\0 Tu portes un costume
+\0 hm?
+(촀\0J'approuve ton choix.\0\0()촀\0Les déguisements ne devraient pas
+être réservés à des jours spéciaux,
+\0
+tu n'es pas d'accord, n\0?(촀"
 "251","Dis-moi, n\0. 
 \0(&촀\0Qu'est-ce qui a inspiré ton look aujourd'hui?\0\0(%촀\0Parmi toutes tes tenues, c'est ma
 préférée. 
@@ -234,6 +309,69 @@ mieux, n\0.
 n\0 dans ta penderie?\0\0(촀\0Parce que ça serait du plus bel effet
 sur toi. 
 \0(촀\0Songes-y sérieusement!"
+"255","(;촀\0Wouah,
+\0 tonn\0\0 ton costume!
+\0 Il est
+incroyable, n\0.\0\0(촀\0Et par incroyable,
+\0 je veux dire
+adorable.
+\0( (촀\0En plus de beaucoup me
+toucher personnellement.\0\0(촀\0Si tu venais à une de nos réunions
+de famille,
+\0 tu ferais sensation,
+n\0!"
+"256","( 촀\0Wouahn\0\0 quel look, n\0.\0\0(""촀\0Je ne t'imaginais pas être du genre à
+t'habiller en lapin2\0e.
+\0 C'est absolument
+adorable.\0\0(1촀\0Qui pourrait ne pas craquer devant
+ces grandes oreilles poilues?
+\0 Moi je
+craque totalement, n\0."
+"257","( 촀\0Attendsn\0\0 n\0, c'est
+toi?
+\0 Mais oui, c'est toi!\0\0(촀\0Tu es un2\0e ours2\0e aujourd'hui!
+\0 Comme
+moi,
+\0 sauf que moi,
+\0 c'est tous les
+jours!\0\0(9촀\0Et si je floute un peu ma visionn\0\0
+tu ressembles à s'y méprendre à
+mon cousin Jean-Grizzli.\0\0(2촀\0Bon,
+\0 il fait trois mètres de haut,
+\0 mais
+c'est un détail, n\0."
+"258","(촀\0Oh!
+\0 Tu as remarquén\0\0 que ta tenue
+te fait ressembler à un2\0e ours2\0e
+aujourd'hui, n\0?\0\0(""촀\0J'adore les ours!
+\0 Si touffus qu'on
+a envie de les papouiller, n\0.\0\0Enfin pas tous,
+\0 bien sûr.
+\0 ($촀\0Mais je suis
+très reconnaissante quand ils me
+laissent leur grattouiller les oreilles."
+"259","(촀\0Tu es un mouton!\0\0(9촀\0Je veux diren\0\0 tu es habillé2\0e en
+mouton.
+\0 Désolée,
+\0 j'ai été prise un
+peu par surprise.\0\0()촀\0La laine,
+\0 c'est idéal toute l'année.
+
+\0Chaude en hiver.
+\0 Respirante en été.\0\0Désolée encore de t'avoir traité2\0e
+de moutonn\0\0 En fait,
+\0 c'est un
+compliment, n\0."
+"260","( 촀\0Tiens donc,
+\0 tu es très moutonneu2
+xse
+aujourd'hui, n\0!\0\0(""촀\0C'est un compliment,
+\0 promis!
+\0
+Ces jolies cornes courbées te vont
+à ravir.\0\0(4촀\0Mais toi, tout te van\0\0 Tu es une
+véritable source d'inspiration
+vestimentaire pour moi."
 "301","(촀\0Oh, quelle tenue, n\0!
 \0 Tu as l'air de sortir tout droit d'un conte de fées!\0\0(촀\0Tu pars pour quelque forêt magique
 à la rencontre d'une mystérieuse
@@ -277,6 +415,27 @@ au long coursn\0\0
 \0(1촀\0 peut-être à la
 découverte de terres inconnuesn\0\0
 (""촀\0Tu m'enverras une carte postale?"
+"307","(촀\0Waouh,
+\0 cette tenue de docteur te
+donne un de ces cachets, n\0!\0\0( 촀\0Attendsn\0\0 normalement ce sont les
+docteurs qui donnent des cachetsn\0\0(""촀\0
+et pas leur tenue, n\0."
+"308","($촀\0Oh!
+\0 J'espère que je ne t'interromps
+pas en plein entraînement.\0\0(4촀\0Ta tenue a l'air très confortable.
+\0
+Parfaite pour un marathonn\0\0 de
+lecture,
+\0 option chocolat chaud."
+"309","(촀\0Oh!
+\0 Tu dois être l2ea célèbre détective
+2\0n\0!\0\0(촀\0Dis-moi, dis-moi!
+\0 Combien de
+mystères as-tu déjà résolus?\0\0((촀\0Tu veux bien me prendre comme
+assistante?
+\0( Désolée,
+\0 (""촀\0mais j'en rêve
+depuis toute petite!"
 "401","<"
 "401_01","(촀\0Cette tenue me fait un effet bœuf
 à chaque fois, n\0.\0\0(&촀\0Tu crois qu'il suffit d'observer les
@@ -295,3 +454,17 @@ davantage, n\0."
 n\0.
 (촀\0Tes tenues me tapent dans l'œil à
 tous les coups, n\0."
+"501","<"
+"501_01","($촀\0Ton visage est une véritable œuvre
+d'art aujourd'hui, n\0.\0\0(%촀\0C'est toujours un plaisir de te voir,
+mais qui eût cru que je saluerais un
+chef-d'œuvre, n\0?"
+"501_02","($촀\0Tu es 2unune véritable expert2\0e en
+maquillage, n\0.\0\0(&촀\0Tu as déjà essayé de te maquiller
+pour ressembler à quelqu'un d'autre,
+n\0?"
+"501_03","($촀\0Ton maquillage pourrait devenir une
+nouvelle mode, n\0.\0\0J'ai le flair pour ce genre de choses.
+\0(2촀\0
+Tu dégages le style d'aura qui crée
+les modes, n\0."

@@ -78,7 +78,7 @@ demande quel est le messagen"
 peut métamorphoser un paysagen\0\0
 촆촃( 촀\0Tu as aussi l'impression que cet
 objet est un peu le symbole 2
-de d'n\0
+de d'⁠n\0
 \0(&촀\0, n\0?"
 "025","촊촉(촀\0Oh.
 \0 C'est pas tout à fait comme ça que je me représentais l2촀ea\0 fameu2촀xse\0
@@ -104,6 +104,42 @@ e lui
 l'a simplement abandonné2촀\0e\0 là.
 \0
 (촀\0Qui oserait faire une chose pareille?"
-"999","촊촉(촀\02\02\0}\0\0n\0\0\0\0촆촃(%촀\0Je devrais l'utiliser comme point de
+"028","촊촉(촀\0Mais, mais?
+\0( Que fait ma photo ici?\0\0촆촃(촀\0Dans un bâtiment,
+\0 je comprendrais,
+\0
+mais là,
+\0 dehors?
+\0(2촀\0 Tu crois que ça a
+une signification quelconque?"
+"029","촊촉C'est une aire de jeu, ici?
+\0 Sûrement,
+si quelqu'un y a laissé 2\0}\0\0.\0\0촆촃($촀\0Ah, c'est le genre d'objet qui fait
+remonter des souvenirs d'enfance,
+n\0."
+"030","촊촉(9촀\0J'ai lu un livre,
+\0 récemmentn\0\0 Quel
+était le titre, déjà?
+\0 Ah, oui,
+\0
+« \0촀 »!\0\0촆촃( 촀\0J'ai été surprise quand j'ai lu le
+paragraphe intitulé
+« ⁠2\02\0}\0\0 ⁠».\0\0(%촀\0Qui aurait pu deviner que ça avait
+quoi que ce soit à voir avec le sujet
+du livre, n\0?"
+"031","촊촉(촀\0Il y a un côté apaisant à voir 2\0
+}\0\0 à l'extérieur,
+\0 tu ne trouves pas?\0\0촆촃(""촀\0C'est sympathique de retrouver tout
+le confort intérieur dans la verdure,
+n\0!"
+"032","촊촉( 촀\0Je n'y crois pasn\0\0
+2\02\0}\0\0!\0\0촆촃(촀\0Je n'aurais pas cru qu'on avait le
+droit de mettre ce genre de chose
+dehors.
+\0 Tu le savais, toi?\0\0(촀\0C'est bizarre,
+\0 mais ça ne me déplaît
+pas, n\0."
+"999","<"
+"999_01","촊촉(촀\02\02\0}\0\0n\0\0\0\0촆촃(%촀\0Je devrais l'utiliser comme point de
 repère quand quelqu'un me demande
 son chemin."

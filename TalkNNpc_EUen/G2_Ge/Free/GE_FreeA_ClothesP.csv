@@ -149,7 +149,8 @@ Or,
 Aren't you FREEZING?!\0\0(촀\0I mean, I've made sacrifices to look
 trendy toon\0\0(8촀\0 Just don't, you know,
 freeze because of it?"
-"016","(촀\0
+"016","<"
+"016_01","(촀\0
 \0The }촀
 you're wearing today(촀\0
 \0
@@ -158,7 +159,13 @@ is SOOOO. ADORBS.\0\0(촀\0
 my heart right now.\0\0I don't know if that's the right golf
 termn\0\0(%촀\0
 \0but it's true."
-"017","(""촀\0
+"016_02","( 촀\02\02\0}촀!\0\0(촀\0Cute outfits like that are totally my
+fave—and, legit, you make it look
+cuter than cute, n\0!\0\0(촀\0I bet you could pull off anythingn\0\0
+from cute looks to daring heists!
+(9촀\0I call dibs on being your accomplice."
+"017","<"
+"017_01","(""촀\0
 \0Wow! Check out n\0
 in that }촀.\0\0(%촀\0
 \0You are way beyond-the-moon cool.
@@ -174,21 +181,55 @@ trendsetter. 
 slang trends.\0\0(9촀\0
 \0I KNOW it won't all slapclob right
 away, you zeep?"
-"018","(%촀\0You are totes pulling off that
+"017_02","(촀\0Your }촀!\0\0(촀\0You have SUCH a vibe going
+right now, n\0.
+How can I describe itn\0\0
+()촀\0You look like you know stuff that
+I don't known\0\0but you don't care
+that I don't know it!
+\0 (%촀\0That's SO cool."
+"018","<"
+"018_01","(%촀\0You are totes pulling off that
 }촀!\0\0(촀\0You're too fab, n\0.
 I've watched le many videos on
 fashion. I know everything.
 ()촀\0And this thing you've got going on
 right now? Somebody should give
 you an award, n\0."
-"019","Wow! (촀\0Looking fab with your
+"018_02","(촀\0No way! No fair!
+\0 You just come
+strolling on through, wearing
+2\0}촀n\0\0\0\0(촀\0It's super, mega, mondo hard to pull
+off such a simple look!
+\0 But here you
+are, FULLY rocking it.\0\0(촀\0You're sooo charismatic.
+\0 Be careful
+with that superpowern\0\0(9촀\0and promise
+to never use it for evil, 'K?"
+"019","<"
+"019_01","Wow! (촀\0Looking fab with your
 }촀,
 n\0!"
-"020","(촀\0Check out your glam
+"019_02","( 촀\02\02\0}촀!\0\0(촀\0That's such a great look on you,
+n\0.
+\0 You stand out!\0\0(5촀\0I'm lucky—I naturally stand out.
+\0
+Heads are always turning my wayn\0\0
+especially after I yell, (!촀\0""LOOK AT ME!"""
+"020","<"
+"020_01","(촀\0Check out your glam
 }촀!\0\0(%촀\0Maybe I'll buy something like that for
 when I try to practice dancing or
 think about going jogging."
-"021","(촀\0
+"020_02","(촀\0Nice }촀!\0\0(촀\0You look ready to MOVE!
+\0 So active!
+So physical!
+\0 (-촀\0So sweaty.
+\0 So tiredn\0\0\0\0Whoa.
+\0 (촀\0I got a workout just looking
+at you, n\0!"
+"021","<"
+"021_01","(촀\0
 \0Your }촀
 is so elegant I could die!
 (""촀\0
@@ -196,6 +237,19 @@ is so elegant I could die!
 What are you all dressed up for?
 \0
 (3촀\0Going somewheren\0\0le schmancy?"
+"021_02","(촀\0Ohmigosh! You look so elegant!
+\0
+And I totes know why.
+\0 (촀\0It has to be
+your }촀!\0\0(%촀\0Super fancy.
+\0 Fabulously schmancy.
+\0
+(2촀\0I'm nervous just standing near you!\0\0((촀\0I'll just have to act as elegant asn\0\0
+thou.
+\0 (촀\0Thee?
+\0 Thy?
+\0 (촀\0Aw, forget it. Fancy
+stuff is too confusing, n\0."
 "101","<"
 "101_01","( 촀\0You really do like your
 }촀, huh?($촀\0
@@ -331,6 +385,30 @@ be the star of that adventure!"
 patterns are AMAZE, n\0!\0\0If I don't stop staring at them,
 \0
 (6촀\0I'm totes going to get hypnotized!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","Nice getup!
+\0 (;촀\0Did your mom make
+that for you, n\0?\0\0(촀\0Wait!
+\0 That came out SUPER mean,
+but I totally meant it in a good way!(\0촀\0\0\0(촀\0I can feel the extra warmth and love
+from heren\0\0and I'm totes jealous!"
+"216","(촀\0Ohmigosh!
+\0 Dodo Airlines merch?!
+\0
+That is super, SUPER cool!\0\0(촀\0Those dodo bros have such a fab
+logo.
+\0 It's better than high fashion—
+((촀\0it's high-FLYIN' fashion!"
+"217","(촀\0WHOA!
+\0 You're so festively frightful!
+\0
+(%촀\0Somebody's totes ready for a
+costume party.\0\0(촀\0Wait, you're not going to one
+without me, are you?
+\0( (*촀\0Because
+THAT would be scary, n\0!"
 "251","( 촀\0Ohmigosh!
 \0 Look at you!
 \0 (\0촀\0Now look at
@@ -377,6 +455,63 @@ anyone can pull it off, you can.
 \0
 Well, 
 \0(촀\0you and all the actual frogs."
+"255","Can you guess who looks TOTES
+great today?
+\0 (촀\0BZZT!
+\0 Time's up.\0\0(촀\0The answer isn\0\0you!
+\0 And it's obvious
+why.
+\0 You look like me today!
+\0\0\0You should keep this outfit in your
+rotation.
+\0 (촀\0Then we can be matchy-
+matchy all the time, n\0!"
+"256","(촀\0Whoa!
+\0 There's something super,
+SUPER cool about you todayn\0\0
+\0
+What could it be?\0\0(촀\0Is there an extra spring in your step?
+\0
+Are you just hoppy to be here?\0\0(촀\0Or maybe you're just having an
+AWESOME hare day, n\0!"
+"257","( 촀\0O my G!
+\0 Somebody is embracing
+their inner bear!
+\0 ($촀\0You look great
+today, n\0.\0\0(&촀\0What's that saying?
+\0 Imitation is the
+most sincere form of sweet-talking?
+\0
+(%촀\0Well, it's totes true, obvs."
+"258","(촀\0That's such a great outfit!
+\0 You look
+ULTRA fab today, n\0!\0\0There's just something about itn\0\0
+\0
+(촀\0I have a feeling you'd be GREAT at
+giving hugs today.
+\0 (&촀\0Is that weird?"
+"259","( 촀\0Ohmigosh!
+\0 Check you out!
+\0
+You're almost as fluffy as me
+today, n\0.\0\0(촀\0Isn't it great to be covered in fluffy
+wool like this?
+\0 S
+\0o
+\0o
+\0o
+\0o
+\0o calmingn\0\0\0\0With both of us standing here,
+(촀\0this is the fluffiest spot in all of
+n\0—no contest!"
+"260","( 촀\0Ohmigosh!
+\0 You look GREAT today!
+\0
+Don't tell me you've ALWAYS been
+this fluffyn\0\0\0\0(촀\0Ahh, I would LOVE to be wrapped
+in big, fluffy wool of my ownn\0\0(촀\0\0\0It looks dangerously comfy!
+\0 (;촀\0And I
+live for danger, n\0."
 "301","(촀\0Your outfit is SO cute!
 \0 (촀\0I'm, like,
 \0
@@ -439,6 +574,25 @@ off their feet!
 \0 I didn't mean ME!
 \0 (7촀\0But definitely
 someone, n\0."
+"307","(촀\0Whoaaaaa!
+\0 Your visual-punk look is
+so, SO good! I may never get over it!\0\0(%촀\0This toootally backs up my favorite
+fashion principle: There is no such
+thing as too many buckles."
+"308","(촀\0Wow! Look at you!
+\0 Those are some
+BOLD fashion choices.
+\0 (;촀\0The colors!
+The fit! Then\0\0everything!\0\0()촀\0I thought I was the top trendsetter
+on this island, but WOW.
+\0 I am totes
+taking notes, n\0."
+"309","( 촀\0Ooh! That outfitn\0\0 It's like I can feel
+positivity exploding out of you in
+every direction, n\0!\0\0(%촀\0Seeing you rock that getup makes
+me feel like everything's going to be
+OK today.
+\0 (촀\0I'm not sure why!"
 "401","<"
 "401_01","(7촀\0Once I find an outfit that's, like,
 \0
@@ -470,3 +624,27 @@ look too?\0\0(촀\0Ohmigosh! 
 fashion wants.
 \0( (6촀\0I never knew you were
 such an influencer, n\0."
+"501","<"
+"501_01","(촀\0WOW. What a makeover!
+\0 You look
+SO stylish, n\0.\0\0I should update my look too.
+\0 (촀\0I'm
+gonna contour my cheeks until they
+look sharp enough to slice cheese!"
+"501_02","(촀\0Wow! You're at PEAK FAB today.
+\0
+Are you testing a new look?\0\0(;촀\0You should have looped me in!
+\0
+We could have been twin BFFs—
+(촀\0Bodaciously Fresh Fashionistas!"
+"501_03","(;촀\0Hold it!
+\0 Stop right there!
+\0 Don't tell
+men\0\0 You're trying out a new look,
+aren't you, n\0?\0\0AHA!
+\0 I knew it.
+\0 (5촀\0Detecting new looks
+is pretty much my superpower.\0\0(촀\0The new you looks GREAT!
+\0 Loop me
+in next time so I can sync up a style
+refresh of my own, n\0!"

@@ -3,6 +3,12 @@
 erlernt!
 \0 (1촀\0Was man damit wohl
 alles anfangen könnte..."
+"AddPrank","Ich habe die Emotion „\0Erschrecken\0￿“
+erlernt!
+\0 (>촀\0GRAAAH!"
+"AddScaring","Ich habe die Emotion „\0Schocken\0￿“
+erlernt!
+\0 (?촀\0Schockschwerenot!"
 "Apologize","Ich habe die Emotion „\0Entschuldi-
 gung\0￿“ erlernt!
 \0 (#촀\0Tut mir leid, 
@@ -46,7 +52,11 @@ erlernt!
 erlernt!
 \0 (촀\0Wow, ist das toll! 
 \0Echt super!"
-"HappyFlower","Ich kann jetzt Emotionen nutzen!
+"HappyFlower","Ich habe eine \0Emotion\0￿ erlernt!
+\0
+(촀\0Damit kann ich meine
+Gefühle ausdrücken!"
+"HappyFlower_1","Ich habe vier \0Emotionen\0￿ erlernt!
 \0
 (촀\0Damit kann ich meine
 Gefühle ausdrücken!"

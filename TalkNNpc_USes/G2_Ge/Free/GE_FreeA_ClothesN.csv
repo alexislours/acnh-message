@@ -109,7 +109,8 @@ tiene que llevarse el crédito, ¿no?\0\0Es que el diseño me superencanta
 tanton\0\0
 \0 (촀\0¡que ojalá se me hubiera
 ocurrido a mí, n\0!"
-"101","(촀\0
+"101","<"
+"101_01","(촀\0
 \0¡Mírame, guapi!
 \0\0(촀\02\02\0}촀 que llevo es taaan adorablen\0\0
 ¡Parece 2촀
@@ -118,7 +119,16 @@ hecha\0 para mí!\0\0()촀\0Y es que lo lindo está hecho para
 gente linda.
 \0 (%촀\0¡Cuando sea famosa,
 ese será mi eslogan!"
-"102","(""촀\0¡Mira lo linda que estoy con 2\0}촀 que llevo puest2촀oa\0!\0\0(5촀\0No es necesario que me digas lo
+"101_02","(촀\0Nada me da más energía que usar
+mi ropa superpreferida. 
+\0(촀\0¡Como mi
+}촀!
+()촀\0Me da como cosa que se me pueda
+estropear o se le caiga algo enciman\0\0\0\0Pero, oye, ((촀\0tampoco se puede dejar
+de hacer lo que te gusta solo por
+miedo, ¿verdad, n\0?"
+"102","<"
+"102_01","(""촀\0¡Mira lo linda que estoy con 2\0}촀 que llevo puest2촀oa\0!\0\0(5촀\0No es necesario que me digas lo
 ultrafab que me veon\0\0
 \0\0\0(&촀\0Creo que hasta enmudeciste
 de la emoción al verme con
@@ -127,7 +137,17 @@ este atuendo.
 \0 ¡una futura estrella
 del pop y encima modelo deja mudo
 a cualquiera!"
-"103","((촀\0¡Con 2\0}촀 que llevo busco simplicidad y elegancia!
+"102_02","(촀\0O sea, seguro que te quedaste tod2oa
+anonadad2oa al verme con
+2\0}촀.
+()촀\0Pero la esencia de la moda es
+sorprender y dejar a la gente con
+la boca abierta.
+(6촀\0¿Y qué mejor forma de dejar a mis
+fans pasmados que darles lo que
+no se esperan ni por casualidad?"
+"103","<"
+"103_01","((촀\0¡Con 2\0}촀 que llevo busco simplicidad y elegancia!
 \0(\0촀\0\0\0()촀\0No es mucho mi estilo,
 \0 pero una
 futura estrella del pop tiene que
@@ -135,21 +155,63 @@ aprender a ser discreta también.
 (5촀\0Sobre todo para escabullirme de
 fans enloquecidos o de fotógrafos
 entrometidos."
-"104","(5촀\0¿Qué te parece 2\0}촀 que llevo con esta elegancia innata?\0\0(%촀\0Yo creo que más glamur no se
+"103_02","(%촀\0Sé lo que piensas:
+\0 ""¿Qué hace
+una superestrella del pop con
+2\0}촀?"".
+(1촀\0""¡Con lo glamurosa y superarreglada
+que está ella siempre!"".\0\0(촀\0Pues mira, hasta alguien tan famosa
+como yo necesita un día de relax
+sin rímel y con ropa cómoda.
+((촀\0Tenemos que saber darnos un respiro
+de vez en cuando. 
+\0Hazme caso, n\0."
+"104","<"
+"104_01","(5촀\0¿Qué te parece 2\0}촀 que llevo con esta elegancia innata?\0\0(%촀\0Yo creo que más glamour no se
 puede tenern\0\0
 \0 (촀\0¡Voy a ser futura
 estrella del pop y, además, modelo!"
-"105","(촀\0¡Mira cómo me queda 2촀esteesta\0 }촀!\0\0()촀\0¿Me creerás si te digo que así me
+"104_02","(촀\0Me siento así como si fuese el centro
+de atención de toda la isla con
+2촀esteesta\0 }촀.
+(촀\0¿Sabes qué me superpegaría ahora?
+\0
+(촀\0¡Un foco que me iluminara en cada
+paso que doy!
+(촀\0Uy, pero tendría que alquilarme
+un helicóptero, y no salen baratos
+precisamenten\0\0
+(4촀\0¿No tendrás una linterna y mucho
+tiempo libre para acompañarme,
+guapi?"
+"105","<"
+"105_01","(촀\0¡Mira cómo me queda 2촀esteesta\0 }촀!\0\0()촀\0¿Me creerás si te digo que así me
 visto para ir a eventos sociales?\0\0(촀\0Desde que decidí poner de moda
 la ropa deportiva, todo mundo
 siguió la tendencia.
 (3촀\0Ahora tendré que inventarme otra
 moda para seguir siendo original,
 ¡y que me copien los demás!"
-"106","((촀\0Con 2\0}촀 que me puse hoy, estoy elegantisísima.\0\0()촀\0Como futura estrella del pop,
+"105_02","(촀\0No estoy orgullosa precisamente,
+\0
+pero anoche me empaché de tanto
+comer 촀n\0\0
+()촀\0Ahora quiero engañar a mi mente:
+\0 si uso 2촀esteesta\0 }촀
+\0 tendría que contar como ejercicio.\0\0(촀\0Oye, cada una se enfrenta a la vida
+como puede, n\0."
+"106","<"
+"106_01","((촀\0Con 2\0}촀 que me puse hoy, estoy elegantisísima.\0\0()촀\0Como futura estrella del pop,
 \0
 ¡también tengo que acostumbrarme
 a la alta costura, guapurita!"
+"106_02","(""촀\0Fijo que desde lejos ni me reconocías
+con lo superelegante que estoy con
+mi }촀.
+(1촀\0Desde que salí de mi casa, la gente
+no para de darse vuelta para verme
+mejor.\0\0(""촀\0¿Y lo que yo disfruto dando que
+hablar, n\0?"
 "201","(4촀\0¿No me notas nada especial?
 \0
 Quiero decir,

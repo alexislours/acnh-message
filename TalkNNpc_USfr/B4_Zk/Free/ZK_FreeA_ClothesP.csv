@@ -94,16 +94,32 @@ un malaise? (촀\0Moi aussi, je ferais tout pour plaire à mes fansn\0\0\0
 Il fait froid, là!
 \0(*촀\0 Moi, je frissonne
 rien qu'à te regarder!"
-"016","(촀\0Oh, n\0!
+"016","<"
+"016_01","(촀\0Oh, n\0!
 \0 Tu nous as
 sorti la tenue des grands jours,
 mignonitude maximale activée!"
-"017","(9촀\0Ta tenue a beau être éblouissante,
+"016_02","(:촀\0Mon œil d'expert s'y trompe pas :
+\0
+t'as basé toute ta tenue sur 2\0}촀, hm?\0\0(촀\0C'est vraiment classe. 
+\0J'reste bouche
+bée devant ton sens du style, et c'est
+pas tous les jours, n\0."
+"017","<"
+"017_01","(9촀\0Ta tenue a beau être éblouissante,
 on ne peut en détourner les yeuxn\0\0
 (촀\0La mode est un grand paradoxen\0\0
 (1촀\0En tout cas, je porterais bien ça sur
 scène, dansant sur 2\0촀 face à des millions de fans en transe."
-"018","(&촀\0Tu sais ce qui passe jamais de
+"017_02","(촀\0Je brûle de jalousie en posant mon
+œil de styliste bien aiguisé sur
+2\0}촀.\0\0(촀\0Quand tu joues au grand jeu de la
+mode,
+\0 tu ne connais pas le game 
+over,
+\0 n'est-ce pas, n\0?"
+"018","<"
+"018_01","(&촀\0Tu sais ce qui passe jamais de
 mode? 
 \0(%촀\0Les classiques. 
 \0Un peu
@@ -111,7 +127,14 @@ comme ce que tu portes aujourd'hui.
 (촀\0Attention, j'ai rien contre un peu
 d'audace vestimentaire, mais les
 classiques, ça a quand même du bon."
-"019","(촀\0Wow!
+"018_02","2\02\0}촀,
+\0 c'est une sorte de retour aux sources,
+\0 pas vrai?\0\0(9촀\0J'approuve. 
+\0(촀\0Enfin, j'sais pas si
+t'as besoin de mon approbationn\0\0
+Dis, tu approuves mon approbation?"
+"019","<"
+"019_01","(촀\0Wow!
 \0 Tu t'es mis2\0e sur ton 36
 aujourd'hui. 
 \0(촀\0Voire sur ton
@@ -127,13 +150,33 @@ la publicité d'un nouveau parfum?
 (촀\0Euhn\0\0 Je suis à court d'idées, là.
 \0
 Aide-moi, n\0."
-"020","(촀\0Quelle tenue!
+"019_02","(6촀\0J'sais pas si tu aimes danser,
+\0
+mais si c'est pas le cas,
+\0 tu devrais
+t'y mettre,
+\0 vu ta tenue, n\0.
+()촀\0Moi, on me dit souvent que j'me
+déhanche comme un manche à balai.
+
+\0(촀\0C'est dire si j'ai un style inimitable!"
+"020","<"
+"020_01","(촀\0Quelle tenue!
 \0 (%촀\0Non seulement ça
 a l'air ultra confortable, mais
 c'est aussi super tendance!
 ( 촀\0Et cette combinaison, c'est un peu
 le Graal en matière de mode!"
-"021","(촀\0Hé, t'es habillé2\0e comme un2\0e 2roi
+"020_02","(6촀\0Tu t'es mis2\0e au sport,
+\0 ou tu t'es presque mis2\0e au sport?
+\0 Pourquoi
+2\0}촀?\0\0(촀\0Hum, j'suis pas expert en sportn\0\0
+\0
+Comme tu le sais,
+\0 j'suis plutôt du
+genre à 촀."
+"021","<"
+"021_01","(촀\0Hé, t'es habillé2\0e comme un2\0e 2roi
 reine
 aujourd'hui! 
 \0On dirait que t'es
@@ -142,6 +185,12 @@ en route pour une soirée VIP.
 pas reçu d'invitation.
 \0 (촀\0Rassure-moi,
 c'est impossible, pas vrai?"
+"021_02","(1촀\0Oh, quelle tenuen\0\0 T'as écrit
+« chic à la limite du snobisme »
+sur ton front aujourd'huin\0\0
+(촀\0Enfin, tu l'as écrit dans une calligraphie de grande classe, 
+et c'est l'essentiel. 
+\0(촀\0Ha HA!"
 "101","<"
 "101_01","(촀\0Hé hé!
 \0 Tu portes ça souvent!\0\0(촀\0Ah mais non,
@@ -224,6 +273,36 @@ j'suis pas à l'affiche?"
 d'élégance aujourd'hui, n\0!\0\0(6촀\0T'es prêt2\0e pour tout et n'importe
 quoi, du dîner de gala royal à
 l'après-midi à 촀."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Ta tenue montre bien le look
+fait maison, n\0.\0\0(&촀\0C'est ta maman qui l'a
+confectionnée? 
+\0(촀\0Elle devrait devenir
+stylisten\0\0 si c'est pas déjà le cas!"
+"216","( 촀\0Ouah, tu t'es vêtu2\0e d'une tenue
+Dodo Airlines aujourd'hui,
+n\0?\0\0(촀\0Non contents de nous faire traverser
+les nuages dans un confort maximal,
+\0
+ils lancent une ligne de vêtements?
+(3촀\0Ne ratons pas la chance!
+\0 Courons de
+ce pas prendre l'hydravion en marche
+et devenir égérie de Dodo Airlines!"
+"217","( 촀\0T'as l'air prêt2\0e à te rendre à un bal
+costumén\0\0 (&촀\0mais es-tu sûr2\0e d'être
+vraiment prêt2\0e, n\0?
+(&촀\0As-tu étudié ton personnage à
+fond?
+\0 Travaillé son accent?
+\0 Pris des
+cours d'escrime et d'arts martiaux?
+(촀\0Comment ça, « on est pas dans un
+film »? 
+\0(촀\0La vie est un film quand on
+respire la classe 24 fois par seconde."
 "251","(촀\0Cet ensemble félin dont tu t'es
 vêtu2\0e est vraiment classe. 
 \0(촀\0D'ailleurs,
@@ -238,7 +317,7 @@ réputation en soit ruinée."
 "253","(촀\0Oh! J'ai cru qu'une autre grenouille
 voulait me voler la vedette. 
 \0On a
-frôlé la crise de jalousite aigüe.
+frôlé la crise de jalousite aiguë.
 (촀\0Mais c'est toi, 
 \0n\0!
 \0
@@ -251,6 +330,63 @@ un cosplay de moi,
 d'humeur « grenouille »?\0\0(촀\0Tu m'as l'air prêt2\0e à bondir sous
 la pluie en coassant un classique
 de 촀, n\0!"
+"255","(촀\0Oh, regarde-nous! 
+\0('촀\0En temps normal,
+j'renâclerais à l'idée d'arriver en
+ville vêtus comme des jumeaux.\0\0(촀\0Mais en ta compagnie et en ces lieux,
+c'est différent! 
+\0On est sur le
+point de lancer une nouvelle mode!
+(촀\0J'déclare ouverte la première
+réunion du Club de la lapinitude
+2
+de d'n\0, n\0."
+"256","(촀\0T'as l'air d'humeurn\0\0 bondissante
+aujourd'hui, n\0. 
+\0(촀\0Et mes compliments pour les oreilles!"
+"257","(촀\0Un instantn\0\0 (촀\0Tu serais pas un2\0e de
+mes cousin2\0es?
+\0 On s'est croisés au
+dernier repas de famille, non?
+(촀\0Tu te rappelles? 
+\0(촀\0Quand j'ai joué mon
+nouveau spectacle en exclusivité,
+« L'ours ou la vien\0\0 »?
+(%촀\0Oun\0\0 « Comment 촀 tout en se grattant le dos contre un tronc avec désinvolture »?\0\0(촀\0Non? 
+\0(5촀\0Eh bien t'as raté un spectacle
+audacieux et rempli de sagesse."
+"258","(6촀\0T'as décidé d'opter pour le style
+féroce mais néanmoins duveteux?
+\0
+(!촀\0J'adore, n\0!
+(촀\0Ton look est si cool que les ours
+doivent en hiberner de honte.
+\0 On voit
+que t'y as mis ta « griffe »,
+\0 ha HA!"
+"259","(촀\0Ta coupe est parfaite, aujourd'hui!
+\0
+(촀\0La forme, 
+\0(촀\0le volume, 
+\0(촀\0le style,
+\0
+c'est du grand art pileux!
+(2촀\0T'aurais pas un shampooing à
+conseiller à un modeste fan qui rêve
+de te ressembler, n\0?"
+"260","(촀\0J'adore ta tenue, n\0.
+\0
+Laine synthétique rime avec
+style classieux et pratique!\0\0()촀\0Douce au toucher,
+\0 ne rétrécissant
+jamais au lavage et incarnant la
+fabulitude textile à l'état purn\0\0
+(%촀\0Bref,
+\0 inutile de couper les cheveux
+en quatre,
+\0 la laine synthétique est
+l'avenir du poil,
+\0 rien que ça!"
 "301","( 촀\0Comment sais-tu que j'passe une
 audition 
 \0(5촀\0pour 2\02\0촀 secr2""촀etète\0 et le Prince n\0?\0\0(9촀\0Tu feras un2\0e parfait2\0e bouffon2\0ne du
@@ -296,6 +432,32 @@ complotes en douce,
 \0
 sache quen\0\0(촀\0 tu peux compter sur moi
 pour te donner un coup de patte!"
+"307","(1촀\0Ah, la tenue qu'tu portes me
+rappelle le bon vieux temps,
+n\0n\0\0\0\0(%촀\0Quand j'étais 2\0n\0
+2촀lela\0 plus populaire de l'école,
+\0 capitaine de l'équipe 2
+de d'촀n\0\0\0\0(촀\0Et qu'j'ai tout laissé tomber pour
+devenir espion à la solde d'un
+gouvernement qui me suppliaitn\0\0
+(2촀\0Enfin,
+\0 j'te le raconte comme j'm'en
+souviens, 
+\0c'est possible que de
+menus détails soient imaginairesn"
+"308","(촀\0T'vas faire un tour à vélo,
+\0 prendre
+un bol d'air et exhiber tes gants
+en édition limitée, n\0?\0\0(촀\0J't'accompagnerais volontiers,
+\0 mais
+ma coupe de cheveux supporte
+pas le vent de plus de 10 km/h."
+"309","(촀\0Ouah, c'est pas donné à tout le
+monde de pouvoir arborer un style
+aussi éblouissant!\0\0(촀\0Mais j'aime l'audace vestimentaire.
+\0
+(%촀\0« Exubérance » doit rimer avec « j'me
+moque de ce que tu penses »!"
 "401","<"
 "401_01","(촀\0J't'ai déjà vu2\0e dans cette tenuen\0\0
 (촀\0Ça signifie que porter toujours la
@@ -316,3 +478,28 @@ pour ces choses-là, n\0.
 \0
 (5촀\0J'la considère comme le cœur de
 l'esthétique à la n\0."
+"501","<"
+"501_01","(촀\0Oh, regardez-moi ces couleurs! 
+\0(%촀\0Tu
+te dédies à un style intense, 
+et j'adore ça, n\0!"
+"501_02","(촀\0Il y a quelque chose de changé chez
+toi aujourd'huin\0\0(&촀\0 T'as une nouvelle
+coupe de cheveux, 
+\0peut-être?
+(촀\0Ha HA!
+\0 J'te taquine, voyons. 
+\0J'aime
+le message vibrant d'audace que ton
+style envoie aux badauds éblouisn\0\0
+(촀\0Un grand « n\0 », crié haut
+et fort à la face du monde de la mode
+qui s'en remettra pas de sitôt!"
+"501_03","(;촀\0n\0\0 Euhn\0\0
+\0(\0\0(촀\0Oh, pardon, j'te fixais peut-être un
+peu trop intensémentn\0\0 ()촀\0mais t'as
+un air si bizarre, aujourd'huin\0\0
+(촀\0Enfin, bizarre avec un B qui veut dire
+« bien », pas « bof ». 
+\0(촀\0\0Eh, j'm'en
+suis pas mal tiré sur ce coup-là!\0￿"

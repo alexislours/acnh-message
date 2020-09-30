@@ -1,19 +1,15 @@
 ﻿"label","text"
 "001","(""촀\0Well, hello there, n\0!"
-"003","(촀\0As always, I must offer my hearty
-congratulations. 
-\0You've paid off
-your loan in full!
-(촀\0I expected nothing less, of course,
-but occasions like these are cause
-for celebration, hm?
-(촀\0I suppose they're also a good time to
+"003","(촀\0I must offer a hearty congratulations.
+
+\0You've paid off your loan in full!\0\0(촀\0I'd expect nothing less, of course,
+but such a milestone is certainly
+cause for celebration, hm?\0\0(촀\0I suppose they're also a good time to
 take stock and reflect. 
 \0Yes, yes!\0\0(촀\0I'm sure your home is quite comfy in
 its current configuration. 
 \0((촀\0But what
-if it could be bigger?
-(6촀\0Oho!
+if it could be bigger?\0\0(6촀\0Oho!
 \0 I assure you that it can,
 \0
 indeed, 
@@ -37,98 +33,89 @@ be considered bettern\0\0
 \0I simply can't
 help myself.\0\0(촀\0But DO come see me if I've
 piqued your interestn"
-"005","(촀\0Thank you once again for the diligent
+"005","(촀\0I must thank you for the diligent
 repayment of your home loan.
 \0
 Yes, yes!
 (&촀\0I must askn\0\0
-\0 Were your prompt
-payments motivated by a desire
+\0 Were your payments
+by any chance motivated by a desire
 for expansion?
 (4촀\0Because, if so, I have good news.
 \0( (촀\0I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 (%촀\0Do please come see me if you'd like
 to discuss the details more, hm?"
-"006","(촀\0Thank you once again for the diligent
+"006","(촀\0I must thank you for the diligent
 repayment of your home loan.
 \0
 Yes, yes!
 (&촀\0I must askn\0\0
-\0 Were your prompt
-payments motivated by a desire
+\0 Were your payments
+by any chance motivated by a desire
 for expansion?
 (4촀\0Because, if so, I have good news.
 \0( (촀\0I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 (%촀\0Do please come see me if you'd like
 to discuss the details more, hm?"
-"007","(촀\0Thank you once again for the diligent
+"007","(촀\0I must thank you for the diligent
 repayment of your home loan.
 \0
 Yes, yes!
 (&촀\0I must askn\0\0
-\0 Were your prompt
-payments motivated by a desire
+\0 Were your payments
+by any chance motivated by a desire
 for expansion?
 (4촀\0Because, if so, I have good news.
 \0( (촀\0I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 (%촀\0Do please come see me if you'd like
 to discuss the details more, hm?"
-"008","(촀\0Let me offer you yet another hearty
-congratulations!\0\0(5촀\0From one entrepreneur to another,
+"008","(촀\0Please allow me to offer my most
+enthusiastic congratulations!\0\0(5촀\0From one entrepreneur to another,
 you certainly seem to have a knack
 for managing your Bells. 
-\0((%촀\0Yes, yes!
-(1촀\0Indeedn\0\0 Think of how far you've
-comen\0\0
-\0 From a simple tent to a
-grand two-story home. 
-\0Remarkable!
-(촀\0Now, surely, you have no need
+\0((%촀\0Yes, yes!\0\0(1촀\0Indeedn\0\0 Think of how far you've
+come to own a two-story homen\0\0
+\0
+Remarkable!\0\0(촀\0Now, surely, you have no need
 of additional space. 
 \0And yetn\0\0\0\0(&촀\0where would we be if we never
 shot for the moon? 
 \0((촀\0Certainly not
-living on this island paradise!
-()촀\0So, with no agenda of procuring
-further business, I tell youn\0\0
-\0((촀\0that
-I can build you a \0basement\0￿.
-(6촀\0Do with that information what
+living on this island paradise!\0\0()촀\0So, with no agenda of procuring
+additional business, I tell youn\0\0
+\0(
+(촀\0that I can build you a \0basement\0￿.\0\0(6촀\0Do with that information what
 you will, and once againn\0\0
 \0
 (촀\0congratulations!"
 "009","(촀\0My goodness, you've done it.
 \0
 You've paid off your home-
-renovation loan in full. 
-\0Again.
-(5촀\0As of this moment, you're debt-free
+renovation loan in full!\0\0(5촀\0Congratulations! 
+\0You're debt-free
 and set for life in an amazing,
 spacious island home! 
-\0Yes, yes!
-(촀\0n\0\0I know you're just waiting for
-me to offer you another expansion,
-but we've reached the end of that.
-(3촀\0But I have something else to offer
-you. 
-\0For free, of course.\0\0()촀\0Nook Inc. guarantees our work for
-life, and as a small token of our
-appreciationn\0\0
-(촀\0we are proud to offer you a lifetime
+\0Yes, yes!\0\0(촀\0n\0\0I know you're just waiting for me
+to offer to expand your home, but
+your house is as grand as it gets.\0\0(3촀\0I have something else to offer,
+however! 
+\0For free, of course.\0\0()촀\0Nook Inc. guarantees its work for
+life, and as a small token of my
+appreciationn\0\0\0\0(촀\0I am proud to offer you a lifetime
 of free exterior renovations!\0\0(촀\0Limit one per day, terms and
 conditions apply. 
 \0Yes, yesn\0\0
 I'm legally required to say thatn\0\0
-(촀\0I hope Nook Inc. can still be of
-service to you for years to come.
-\0
-And once again, congratulations!"
+(촀\0I hope Nook Inc. can be of service to
+you for years to come.
+\0 And once
+again, congratulations!"
 "011","(""촀\0Well, hello there, n\0!"
 "012_01","(&촀\0Are you happy with your home? Is it
 meeting your expectations?

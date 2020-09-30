@@ -201,6 +201,51 @@ schränkungen „Freie Kommunikation
 mit anderen“ erlauben...\0\0(촀\0Bitte suchen Sie mich erneut auf,
 \0
 wenn alles bereit ist."
+"1051","(촀\0Die Verbindung wurde aufgebaut.
+\0(
+(\0촀\0Dürfte ich kurz eines anmerken?
+\0
+Es wird Ihnen zusagen, 
+\0hoffe ichn\0\0\0\0()촀\0Sollten Sie einen besonders
+angenehmen Traum erleben,
+\0 können
+Sie ihn ganz einfach wiederfinden.\0\0(촀\0Kürzlich besuchte Träume sind
+nämlich ab sofort auf einer Liste zu
+sehen.\0\0(\0촀\0Möchten Sie einen davon erneut
+besuchen, 
+\0sagen Sie mir einfach
+\0
+($촀\0„\0Traum erneut besuchen\0￿“.
+\0 Alson"
+"1052","(&촀\0Wie darf ich den Traum denn heute
+für Sie heraufbeschwören?"
+"1052_a","Via Schlummeranschrift"
+"1052_b","Traum erneut besuchen"
+"1052_c","Doch nicht träumen..."
+"1055","(\0촀\0Sehr gern.
+\0 (%촀\0Bitte wählen Sie den
+Traum aus, 
+\0den Sie erneut
+durchleben möchten."
+"1056","(\0촀\0Sie möchten also noch einmal von
+s촀 träumen?
+\0 (&촀\0Ist das korrekt?"
+"1056_a","Jawohl!"
+"1056_b","Nein..."
+"1057","(촀\0Leider befindet sich unter dieser
+\0Schlummeranschrift\0￿ kein Traum mehr
+in meiner Bibliothekn\0\0\0\0Möchten Sie stattdessen einen
+anderen Traum erleben?"
+"1057_a","Ja, bitte!"
+"1057_b","Nein, dann nicht."
+"1058","(촀\0Hmmn\0\0 
+\0Es scheint gerade keine
+Träume zu geben, 
+\0die Sie erneut
+besuchen können.\0\0(촀\0Wenn Sie träumen möchten, 
+\0müssten
+Sie eine \0Schlummeranschrift
+\0￿angeben..."
 "2001","(\0촀\0Sehr wohl. 
 \0(9촀\0Dann müsste ich Sie
 bitten,
@@ -346,6 +391,11 @@ etwas für Sie tun?"
 "3001_b","Anschrift-Sichtbarkeit..."
 "3001_c","Bitte löschen!"
 "3001_d","Nichts weiter..."
+"3002_02_a","Bitte aktualisieren!"
+"3002_02_b","Anschrift-Sichtbarkeit..."
+"3002_02_c","Anschrift-Sichtbarkeit..."
+"3002_02_d","Bitte löschen!"
+"3002_02_e","Nichts weiter..."
 "3101","(9촀\0Sie möchten also den bestehenden
 Traum von n	\0 aktualisierenn\0\0
 \0 (&촀\0Sind Sie ganz sicher?"

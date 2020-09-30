@@ -81,36 +81,69 @@ geven goed weer hoe we ons allemaal voelen met die hitten"
 kijk.
 \0( (9촀\0Pas op dat je niet ziek wordt,
 oké? 2\0n\0."
-"016","( 촀\0Zo zeg! 
+"016","<"
+"016_01","( 촀\0Zo zeg! 
 \0((촀\0Draag jij nou echt 2\0}촀?\0\0(7촀\0Goh. Nou, leuk dat tenminste een
 van ons met die look kan wegkomen.
 \0(
 (촀\02>촀Hij staatHet staatZe staan je goed!"
-"017","(;촀\0Kanonnen! 
+"016_02","(7촀\0Ik wilde alleen even zeggen dat je er
+hart-stik-ke schattig uitziet met je
+2촃}촀.\0\0(촀\0Die look werkt voor jou, joh.
+\0 (촀\0Zo kan 
+iedereen zien dat je keilief bent,
+n\0."
+"017","<"
+"017_01","(;촀\0Kanonnen! 
 \0Waar heb je 2촀diedatdie 2촃}촀 vandaan?
 \0( (%촀\0He-le-maal cool!\0\0(촀\0Als je weer eens op kledingjacht
 gaat,
 \0 wil ik met je mee!"
-"018","(6촀\0Je 2촃}촀 2촀isiszijn van een verfrissende eenvoud.\0\0(%촀\0Ik weet niet of het een stijl voor mij
+"017_02","(촀\0Jij rockt je 2촃}촀 echt keihard, joh.\0\0(6촀\0Ik vond altijd al dat je stijlvol was,
+maarn\0\0
+\0 (;촀\0Wauw!"
+"018","<"
+"018_01","(6촀\0Je 2촃}촀 2촀isiszijn van een verfrissende eenvoud.\0\0(%촀\0Ik weet niet of het een stijl voor mij
 zou zijn,
 \0( (촀\0maar jij ziet er echt lekker
 opgeruimd in uit!"
-"019","(촀\0Zo!
+"018_02","(6촀\0Jouw 2촃}촀 22촀bevaltbevaltbevallen. 
+\0Zo zonder onnodige tierelantijnen.\0\0(%촀\0Dat snap ik wel, joh. 
+\0Op sommige
+dagen mag alles wel een tandje lager,
+n\0."
+"019","<"
+"019_01","(촀\0Zo!
 \0 2촀DieDatDie 2촃}촀 2.촀blaastblaastblazen me van mijn sokken!\0\0(촀\0Je lijkt wel een beroemdheid die naar
 een première gaat!"
-"020","(촀\02$촀
+"019_02","(촀\0
+\0Wauw! 
+\0Wat zie je er prachtig uit! 
+\0Ik ben groot fan van je 2촃}촀!\0\0(%촀\0Echte glitter en glamour straal je uit!
+\0 (촀\0Ik ben serieus onder de indruk, n\0."
+"020","<"
+"020_01","(촀\02$촀
 ToffeTof
 Toffe }촀 heb je aan, n\0!
 \0 2>촀Hij staatHet staatZe staan je goed!\0\0(촀\0Ik zou toch ook eens zoiets moeten
 proberen.
 \0< (촀\0Als je nog tips voor me
 hebt, laat maar komen."
-"021","(촀\0Zo, 
+"020_02","(3촀\0Jij ziet eruit alsof je de wereld aankunt met je 2촃}촀!\0\0(\0촀\0Daar ga je wel als een malle van
+zweten,
+\0 (7촀\0dus zorg ervoor dat je
+genoeg water drinkt, n\0!"
+"021","<"
+"021_01","(촀\0Zo, 
 \0kanonnen zeg!
 \0 Daar draag je nogal 2\0}촀!\0\0(촀\0Je ziet er echt mega-elegant in uit.
 \0(
 (2촀\0Als ik zoiets aantrok, zou iedereen
 denken dat ik een grap uithaalde."
+"021_02","(;촀\0Ik kan maar niet stoppen met staren naar je 2촃}촀!(촀\0\0\0Soms denk ik dat mijn garderobe ook
+wat eleganter mag.
+\0 (%촀\0Dat kost wel een
+lieve klingel zeker, n\0!"
 "101","<"
 "101_01","(촀\0Dat is echt je favoriete outfit, of niet
 dan?
@@ -185,6 +218,29 @@ boel klasse uit
 \0 zonder dat je al te
 duur doet.
 \0 Echt tof, n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(\0촀\0Cool kloffie, joh! 
+\0Is het met de hand
+gemaakt?
+\0( (촀\0Precies wat ik dacht! 
+\0Eens
+even goed kijken, n\0n\0\0\0\0(6촀\0Wauw, je leert ook echt een boel over
+de maker ervan.
+\0 Vast een zeker een
+chill persoon om mee te hangen."
+"216","(\0촀\0Normaal loop ik liever alleen met een
+logo rond als het van een band is,
+\0
+(6촀\0maar deze DAL-meuk mag ik wel.\0\0(촀\0Het helpt wel dat het logo van Dodo
+Airlines eruitziet als het logo van een
+heavymetalband, n\0."
+"217","(촀\0Je outfit is zo tof. 
+\0Probeer je voor
+een griezelige stijl te gaan?
+\0 Echt
+stoer, n\0!"
 "251","(9촀\0Zeg, als je me probeert te paaien met die kattenlookn\0\0
 \0(촀\0 dan werkt dat, n\0.
 \0 (촀\0Haaa-haha!"
@@ -204,6 +260,39 @@ nicht van mijn moeder."
 \0Door je
 kikkerkloffie was ik even van mijn
 padje, n\0."
+"255","(촀\0Zeg, 
+\0als je indruk op me wilt maken
+met je konijnenoutfitn\0\0
+\0 (촀\0Dan is dat
+zeker gelukt!
+\0 Zo tof, n\0!"
+"256","(촀\0Coole oren, joh. 
+\0Zou je me een gunst
+willen doen, n\0?\0\0(3촀\0Mocht je nou iets interessants horen
+met die enorme oren,
+\0 dan laat je het
+wel weten, hè?"
+"257","(%촀\0Een beer zijn is he-le-maal geweldig,
+\0
+vind je ook niet, n\0?\0\0(촀\0Het allerbeste is dat niemand gek
+opkijkt als je in de winter langer in
+je nest blijft liggen.
+\0 (촀\0Zo cool, joh!"
+"258","(4촀\0Ik twijfelde eerst of ik je wel iets
+moest zeggen, maarn\0\0\0\0(%촀\0Je bent vast een prima knuffelaar.
+\0
+Daarvoor hoef je je niet als beer te
+verkleden."
+"259","(6촀\0Als schapen onder elkaar 
+\0kan ik je
+het volgende vast toevertrouwenn\0\0
+\0(
+(촀\0Mèèèèèèèèèè, n\0."
+"260","(%촀\0Wat zie je er wollig uit, n\0.\0\0(\0촀\0Serieus, 
+\0je bent net een groot, zacht
+kussen
+\0 (.촀\0en nu moet ik echt ergens
+even een tukje doen, n\0n"
 "301","(8촀\0Hé, ik wil niet gemeen doen, maarn\0\0
 \0
 ik heb weleens mooiere kleren
@@ -252,6 +341,21 @@ stoommachines op het podium.\0\0(촀\0Ik was echt van de leg toen ze uit
 elkaar gingen.
 \0 Steampunk is daarna
 nooit meer hetzelfde geweest."
+"307","(촀\0Woehoe! 
+\0Ik ben echt he-le-maal weg van je 2촃}\0\0. 
+\0Goeie keus, joh!\0\0(촀\0Die groovy look staat je echt top.
+\0 (6촀\0Of moet ik ""mieters"" zeggen, n\0?!"
+"308","(&촀\0Komt er een worstelwedstrijd aan of zoiets, n\0?
+\0 (6촀\0Dat wordt een eitje voor je, joh. \0\0(촀\0Met zoveel als jij dagelijks rondloopt,
+\0
+kun je je tegenstander ontwijken
+totdat die erbij neervalt."
+"309","(;촀\0Wat een toffe look!
+\0 En je 2촃}\0\0?
+\0 (촀\0Het toppunt van cool!\0\0()촀\0Je ziet er stoer en gelikt uit. 
+\0Kortom,
+\0
+(촀\0he-le-maal geweldig, n\0!"
 "401","<"
 "401_01","(&촀\0Deze look is echt je ding, hè? 
 \0Heb je
@@ -267,3 +371,30 @@ staat je echt top, n\0!\0\0(7촀\0Ik mag al blij zijn als ik me half zo
 goed kleed, joh."
 "401_03","(\0촀\0Die outfit is zo'n beetje
 \0 ($촀\0het officiële n\0-kostuum aan het worden.\0\0(촀\0Staat je keigoed, n\0!"
+"501","<"
+"501_01","(촀\0Ik ben blij dat er tenminste iemand
+is die met zo'n gewaagde look kan
+wegkomen, n\0.\0\0(\0촀\0Dat wat je op je gezicht gesmeerd
+hebt, staat jou echt tof,
+\0 (2촀\0maar dat zou
+er bij mij niet uitzien."
+"501_02","(촀\0
+\0Ha! 
+\0Jouw gezicht doet me denken
+aan een coverband waar ik een dag
+of zo in heb gezeten.\0\0(%촀\0Op de dag van ons optreden hadden
+we het groot aangepakt en met
+schmink op onze koppies gekliederd.\0\0(2촀\0Vlak voordat we opgingen,
+\0
+bedachten we ons pas dat we de
+instrumenten thuis vergeten waren.\0\0(촀\0We zijn uit elkaar gegaan op het
+podium. 
+\0Wat een ongemakkelijke
+terugrit was dat, 
+\0(촀\0haa-haha!"
+"501_03","(\0촀\0Chille look heb je op je snoet.
+\0
+(""촀\0Typische n\0-stijl!\0\0(&촀\0Ga je soms naar een feestje?
+\0 (촀\0Met
+zo'n look kun je niet om een
+fuifnummer als jij heen, geloof me!"

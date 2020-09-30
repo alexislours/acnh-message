@@ -110,32 +110,68 @@ que lo voy pegando por ahí, chat2oa!"
 \0 (촀\0¡No me digas que
 eres de l2oas mí2oas y la energía fiestera
 te mantiene siempre calentit2oa!"
-"016","(!촀\0¡Pero mírate! ¡Vas hech2oa un pincel!\0\0(3촀\0Hoy es uno de esos días en los que
+"016","<"
+"016_01","(!촀\0¡Pero mírate! ¡Vas hech2oa un pincel!\0\0(3촀\0Hoy es uno de esos días en los que
 te apetecía currártelo y te has puesto
 tu }촀, ¿eh?"
-"017","(!촀\0¡Oye, hay que ver qué bien te sienta
+"016_02","(!촀\0Bueno, bueno, ¿y es2촀ea\0 }촀 que me llevas?\0\0(\0촀\0No es para nada mi rollo,
+\0 pero
+desde luego sí que es el tuyo.
+\0
+(촀\0¡Bra
+\0vo, n\0!"
+"017","<"
+"017_01","(!촀\0¡Oye, hay que ver qué bien te sienta
 es2촀ea\0 }촀!\0\0(촀\0No es algo que le quede bien a
 todo el mundo, (3촀\0¡pero se nota que
 tú tienes estilazo de sobra!"
-"018","(3촀\0¿Ves como no hace falta vestirse
+"017_02","(촀\0¡Me flipa tu }촀!
+\0 Es la caña de la montaña.\0\0(3촀\0Lo tuyo es un estilo impepinable."
+"018","<"
+"018_01","(3촀\0¿Ves como no hace falta vestirse
 como un repollo para molar a saco?\0\0(!촀\0¡La prueba andante sois tú y ese
 pedazo }촀!"
-"019","(촀\0¡Madre mía! ¡Cómo te has currado
+"018_02","(3촀\0Me gusta el plan tranqui que
+te has marcado hoy con tu
+}촀.
+(\0촀\0Si es que no hace falta comprarse
+ropa cara para petarlo,
+\0(%촀\0 ¡y tú eres
+un buen ejemplo!"
+"019","<"
+"019_01","(촀\0¡Madre mía! ¡Cómo te has currado
 el modelito hoy!\0\0('촀\0Aunque quisiese, no podría ponerme
 2\0}촀.\0\0(3촀\0¡Qué se le va a hacer!
 \0 Tampoco me
 puede quedar todo de vicio."
-"020","(!촀\0¡Qué dinámic2oa te veo con tu
+"019_02","(!촀\0¡Pero qué estilazo llevas hoy!
+\0
+¿De dónde has sacado es2촀ea\0 }촀?\0\0(촀\0Si es que puedes ponerte cualquier
+cosa e ir tan campante,
+\0 ¡y encima
+todo te queda bien!"
+"020","<"
+"020_01","(!촀\0¡Qué dinámic2oa te veo con tu
 }촀!\0\0(3촀\0¿A ti también te resulta más fácil
 darlo todo si llevas ropa cómoda?
 \0
 (촀\0¡No eres 2ella únic2oa!"
-"021","(촀\0¡Quiet2oa parad2oa!
+"020_02","(촀\0Con tu }촀 estás más que list2oa para arrasar
+el día.\0\0(%촀\0Si es que hay que ir cómodo por
+la vida,
+\0 lo sabe todo el mundo."
+"021","<"
+"021_01","(촀\0¡Quiet2oa parad2oa!
 \0 ¿Hay alguna fiesta
 de postín y nadie me ha avisado?\0\0(촀\0¿Tenemos que ir todos vestidos
 de }촀?\0\0(*촀\0Sabía que algún día me perdería
 un evento flipante por no tener
 ropa de etiqueta, tú."
+"021_02","(촀\0No puedo dejar de mirar tu }촀; me ha dejado loca.\0\0(촀\0¿Vas a una fiesta de esas rollo
+elegante que no veas?\0\0(\0촀\0A mí no me van mucho, la verdad.
+\0
+(5촀\0Prefiero las que puedo salir a
+desmelenarme en la pista de baile."
 "101","<"
 "101_01","(%촀\0Sí que te gusta eso que llevas
 puesto, ¿eh, chat2oa?
@@ -228,6 +264,26 @@ elegante pero discreto.
 flipa!
 \0 No hay por qué vestirse a lo
 llamativo (5촀\0para ir a tope por la vida."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0Anda, eso que llevas puesto está
+como hecho a mano, ¿no, maj2oa?
+\0
+(촀\0Madre mía, ¡menudo curro!
+(촀\0Tú sí que sabes cómo vestirte con
+un toque especial, n\0."
+"216","(촀\0Mira que no soy yo mucho de
+«merchandising», 
+\0(촀\0pero la verdad es
+que me flipa tu rollo Dodo Airlines.
+(3촀\0Supongo que ayuda que su logo
+me recuerde al de una banda
+de punk surfero, n\0."
+"217","(촀\0Oye, qué rollo gótico más guay
+te marcas, ¿no?
+\0 (""촀\0Me encanta
+cómo te lo montas, n\0."
 "251","(촀\0¡Pero tíii2oa!
 \0 ¡Vas clavadit2oa a mí!
 \0
@@ -251,6 +307,39 @@ peron\0\0
 confundo con otr2oa?
 \0(!촀\0 Pero no, ¡era
 un2\0a n\0 camuflad2\0a!"
+"255","(촀\0¿Te has vestido así para tratar de
+impresionarme?
+\0(3촀\0 ¡Porque está
+dando resultado, coleguilla!"
+"256","(촀\0¡Que sepas que me flipan tus orejas!
+\0
+(2촀\0Las que llevas puestas, digo.
+\0
+Bueno, las otras también, claro.
+(&촀\0¿Con eso se oye mejor o algo?
+\0
+(촀\0¡Imagínate poder detectar más
+decibelios al escuchar música!"
+"257","(!촀\0¡Ahí va la osa! 
+\0¡Y literalmente, tú!
+\0
+(3촀\0¿A que te sientes más atómic2oa que
+nunca? ¡Normal, n\0!"
+"258","(촀\0Te vi de lejos y pensé que eras
+un2\0a os2oa de verdad, chat2oa.\0\0(%촀\0Siempre te curras lo que llevas
+puesto,
+\0(촀\0 ¡pero hoy te has pasado
+cosa fina, n\0!"
+"259","(%촀\0Ahora que estamos entre ovejas,
+te diré algo en confianza, coleguilla.
+\0
+(!촀\0¡Beeeeeeeeeeeee!"
+"260","(촀\0Qué blandit2oa te veo hoy, maj2oa.
+\0
+¿Eres una nube? 
+\0¿Algodón de
+azúcar? (촀\0
+\0¡Necesito saberlo!"
 "301","('촀\0A ver, no quiero meterme donde no
 me llaman peron\0\0
 \0(촀\0 eso que llevas
@@ -298,6 +387,24 @@ estética muy como la tuya.
 o vocalista para montarte un grupo,
 \0
 (촀\0ya sabes dónde estoy, ¿no?"
+"307","(!촀\0¡Coleguilla! 
+\0¡Alucino en colores con
+tu }\0\0!\0\0(3촀\0Se nota que te mola ir por la vida
+sin miedo a nada;
+\0 ¡como a mí,
+n\0!"
+"308","(촀\0¡No me digas que te ha dado
+por luchar ahora, n\0!\0\0(촀\0Oye, pues avísame cuando tengas
+un combate, 
+\0(촀\0que yo voy y te apoyo
+muy a topísimo."
+"309","(촀\0No me creo lo molonamente que
+vas vestid2oa, majuel2oa.
+\0(촀\0 ¡Es mi rollo
+totalmente, n\0!
+(5촀\0Hay peña con estilazon\0\0
+\0 ¡y luego
+estás tú!"
 "401","<"
 "401_01","(2촀\0Te veo tanto con ese atuendo que
 ya empieza a ser icónico, tú.\0\0(촀\0A ver, si encuentras algo que te mola
@@ -317,3 +424,20 @@ convirtiendo (!촀\0en el atuendo oficial
 de n\0, coleguilla.
 (3촀\0¡Patrocinado por n
 \0; faltaría más!"
+"501","<"
+"501_01","(%촀\0Me mola ver que eres valiente y que
+tomas decisiones estéticas de riesgo,
+n\0.
+(촀\0¡Y es que encima te queda bien y
+todo! (3촀\0
+\0Si es que eres tremend2oa ,tú."
+"501_02","(%촀\0Me flipa que te flipe cambiar de
+aspecto como si nada.
+\0(촀\0 ¡Hay que
+reinventarse siempre, n\0!"
+"501_03","(!촀\0¡Tu nuevo careto es la caña, colega!
+\0
+¿Se acerca (&촀\0alguna ocasión especial?
+¿O te apetecía un cambio de rollo?
+(촀\0¡La peña se va a quedar alucinada
+cuando te vea, n\0!"

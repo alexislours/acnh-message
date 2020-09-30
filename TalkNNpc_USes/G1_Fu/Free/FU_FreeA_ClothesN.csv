@@ -54,13 +54,21 @@ que traigo puesto?
 \0 Se llama
 ""s촀"".\0\0()촀\0Lo hizo s\0촂 de la isla s촀, n\0.
 "
-"101","(촀\0¿Qué te parece mi
+"101","<"
+"101_01","(촀\0¿Qué te parece mi
 }촀?
 \0 Es muy alegre,
 \0 ¿no?\0\0(촀\0Cuando me l2촀oa\0 pongo me dan ganas
 de pasarme el día horneando
 pasteles."
-"102","(촀\0No puedo creer que hasta yo
+"101_02","(촀\0Hoy me dieron ganas de ponerme
+est2촀ea\0 }촀. ¿Qué te parece, flor?\0\0(촀\0No sé si es un estilo que me quede
+bien,
+\0 pero me siento bien llevándolo,
+\0
+¡y con eso me basta!"
+"102","<"
+"102_01","(촀\0No puedo creer que hasta yo
 parezca elegante con 2촀esteesta\0
 }촀.
 (촀\0Cuando salgo a tomar algo vestida
@@ -68,7 +76,16 @@ así,
 \0 siempre acabo pidiendo un café
 solo,
 \0(촀\0 ¡aunque no me gusta!"
-"103","(촀\0Me gusta el estilo básico y sencillo
+"102_02","(촀\0¿Te gusta est2촀ea\0 }촀 que tengo puest2촀oa\0?\0\0(촀\0Cuando me l2촀oa\0 pongo,
+\0 me siento
+distinta,
+\0 como si fuera otra.\0\0(촀\0Sé que no es muy de mi estilo,
+\0
+pero si me queda bien, 
+\0¿por qué
+no ponérmel2촀oa\0?"
+"103","<"
+"103_01","(촀\0Me gusta el estilo básico y sencillo
 de 2촀esteesta\0 }촀.
 \0 ¡Me queda bien!\0\0()촀\0Cuanto más simple es una prenda,
 \0
@@ -77,19 +94,49 @@ el trabajo de su tejido, n\0.
 (촀\0Supongo que lo mismo se puede
 decir de las recetas y sus
 ingredientes."
-"104","(2촀\0Me siento rara con 2촀esteesta\0 }촀n\0\0
+"103_02","()촀\0A la hora de vestir, tiendo a elegir
+prendas sencillas como est2촀ea\0
+}촀.\0\0(촀\0Así no tengo que pensar mucho
+cómo combinarlas, porque funcionan
+con todo."
+"104","<"
+"104_01","(2촀\0Me siento rara con 2촀esteesta\0 }촀n\0\0
 \0 No suelo ponerme ropa tan recargada.\0\0(촀\0Aunque es muy apropiad2촀oa\0 para
 una fiesta de té, n\0."
-"105","(촀\0Dan ganas de hacer ejercicio con
+"104_02","()촀\0Hoy he decidido salirme de mi zona
+de confort y me puse est2촀ea\0
+}촀.\0\0(\0촀\0Y, ¿sabes qué?
+\0(촀\0 ¡Es agotador!
+\0
+Estoy demasiado pendiente de que
+no se manche o se estropeen\0\0
+(촀\0No sé cómo lo hace la gente que
+usa esto habitualmente,
+\0 (%촀\0pero los
+aplaudo, n\0."
+"105","<"
+"105_01","(촀\0Dan ganas de hacer ejercicio con
 2촀esteesta\0 }촀.\0\0(촀\0Hace poco leí que hay prendas que
 transmiten ciertas energías.
 \0 Bueno,
 \0
 ¡pues esta es una de ellas!"
-"106","(촀\0¿Cómo me queda 2촀esteesta\0 }촀 tan refinad2촀oa\0?\0\0(촀\0Lástima que hoy no haya ninguna
+"105_02","()촀\0Yo no hago mucho deporte, pero sí
+me gusta usar ropa cómoda como
+est2촀ea\0 }촀.\0\0(촀\0Es genial para dar paseos o para
+recostarte en el sofá a leer un libro
+de mil páginas."
+"106","<"
+"106_01","(촀\0¿Cómo me queda 2촀esteesta\0 }촀 tan refinad2촀oa\0?\0\0(촀\0Lástima que hoy no haya ninguna
 fiesta de etiqueta,
 \0 (촀\0porque encajaría
 a la perfección."
+"106_02","(촀\0Hoy se me ocurrió ponerme algo
+especial y elegí est2촀ea\0 }촀.\0\0(%촀\0No es un estilo muy de todos los
+días,
+\0 pero a veces viene bien cambiar
+un poco la rutina, n\0.
+(4촀\0Y no me queda mal, ¿no?"
 "201","¡Hola!
 \0 Oye,
 \0 ¿qué te parece (촀\0mi

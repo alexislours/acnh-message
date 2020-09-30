@@ -57,17 +57,19 @@ für dich reserviere?
 schließlich noch meine Connections?"
 "005_a","(\0촁\0Mach das!"
 "005_b","(\0촁\0Lieber nich'."
-"006","(촀\0Ich bin mir sicher, ich hab gehört,
-wie dich neulich jemand
+"006","(촀\0Ich bin mir sicher, 
+\0ich hab gehört,
 \0
-(촀\0s\0촀
-\0 genannt hat! 
-(&촀\0Was hältste davon, wenn ich mich
+wie dich neulich jemand
+(촀\0s\0촀 genannt hat! 
+(&촀\0Was hältste davon, 
+\0wenn ich mich
 an den Trend dranklebe und dich
 ab jetzt auch so rufe, 
 \0n\0?
 (%촀\0Der Spitzname is' nämlich so
-überirdisch, dass mir die Fontanelle
+überirdisch,
+\0 dass mir die Fontanelle
 juckt.
 \0 (8촀\0Da MUSS ich mitmachen!"
 "006_a","(%촀\0Gute Idee!"
@@ -151,6 +153,14 @@ kaum aufhören zu wumpern!"
 noch mal wiederholen, 
 \0hab nichts
 mitgekriegt, 
+\0n\0."
+"111","(%촀\0Schon kapiert. 
+\0Du hast keine Böcke
+auf Spitznamen-Kladderadatsch.
+\0 Also
+einfach „n\0“,
+\0 wa?\0\0(\0촀\0Passt.
+\0 (6촀\0„n\0“ is' ja eigentlich eh kurz und lässig genug, 
 \0n\0."
 "200","(촀\0Ja, fett! 
 \0(6촀\0Bist echt 28ein Ehrenmann'ne Ehrenfrau,

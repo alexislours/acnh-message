@@ -108,13 +108,23 @@ Geringeren als s\0촂 
 (촀\0einfach e-
 \0LE-
 \0ganter!"
-"101","(5촀\0Sag mir doch bitte, wie umwerfend
+"101","<"
+"101_01","(5촀\0Sag mir doch bitte, wie umwerfend
 ich aussehe mit 2.촀meinemmeinermeinem
 2촂}촀.\0\0(1촀\0Es soll Wagemut und Noblesse, aber
 auch einen Hauch von Sarkasmus
 ausdrücken! 
 \0(&촀\0Zu übertrieben?"
-"102","(5촀\0Also, gut. 
+"101_02","(4촀\0Mein Markenzeichen ist mehr „süß“
+als “niedlich“,
+\0 passt da 2촀eineineein
+}촀?\0\0(5촀\0Aber mein Markenzeichen ist auch,
+\0
+dass mich die Meinung anderer
+Leute nicht kümmert!
+\0 (촀\0Ha-HA!"
+"102","<"
+"102_01","(5촀\0Also, gut. 
 \0Alle mal hersehen!
 \0
 (촀\0Ich führe euch den heißesten
@@ -124,7 +134,18 @@ Look aller Zeiten vor!
 (%촀\0Genau, so einen Look muss man
 erst mal erfinden! 
 \0(5촀\0Das kann nur ich!"
-"103","(5촀\0Also, was hältst du von meinem
+"102_02","(1촀\0Ist es nicht seltsam,
+\0 dass dasselbe
+Kleidungstück an verschiedenen
+Leuten unterschiedlich aussieht?\0\0(촀\0Das ist eben Mode!
+\0((5촀\0 Und ich finde,
+\0 an
+mir sieht 2촀ersiees besonders gut aus,
+\0
+2,촀dieser
+diesedieses }촀."
+"103","<"
+"103_01","(5촀\0Also, was hältst du von meinem
 Look heute?
 \0(촀\0 Schlicht,
 \0 oder?\0\0(촀\0HA! 
@@ -133,7 +154,13 @@ Look heute?
 „umgekehrte Psychomodie“.\0\0(촀\0Je nach Ausstrahlung des Trägers
 wirken dann scheinbar simple Klei-
 dungsstücke plötzlich extravagant!"
-"104","(5촀\0Sieh nur, 
+"103_02","()촀\0Was den Stil angeht,
+\0 kann man sich
+auch zu viele Gedanken machen.
+\0 (촀\0Zum
+Glück gibt es ewige Klassiker!\0\0(촀\0Und sehe ich mit 2.촀meinemmeinermeinem 2촂}촀 nicht selbst wie ein Klassiker aus?"
+"104","<"
+"104_01","(5촀\0Sieh nur, 
 \0n\0.
 \0
 Bade deine Augen im Glanz
@@ -141,17 +168,45 @@ Bade deine Augen im Glanz
 (촀\0Das komplettierte Outfit entspricht
 jedem erdenklichen Dresscode und
 lässt sich zu allen Anlässen tragen!"
-"105","(촀\0Na, was hältst du von 2.촀diesemdieserdiesem
+"104_02","(5촀\0Eine Sache solltest du über mich
+wissen:
+\0 Modetechnisch bin ich immer
+vorbereitet.\0\0()촀\0Jetzt zum Beispiel gehe ich zwar
+nicht auf eine Party,
+\0 trage aber
+2(촀meinen
+meinemein 2촁}촀.\0\0(촀\0n\0\0Steigt hier vielleicht gerade
+irgendwo eine Party?"
+"105","<"
+"105_01","(촀\0Na, was hältst du von 2.촀diesemdieserdiesem
 2촂}촀 als
 Outfit 2.촀für denfür diefürs 2촁촀?
 (5촀\0War natürlich nur Spaß!
 \0
 (촀\0Dieses Ensemble lässt sich nicht auf
 eine bestimmte Sportart festlegen!"
-"106","(촀\0Ha-HA!
+"105_02","(9촀\0Lass dir bloß nicht erzählen,
+\0 dass
+modische Kleidung nicht auch
+praktisch sein kann,
+\0 n\0.\0\0(1촀\0Ich zum Beispiel bin mit 2.촀meinemmeinermeinem 2촂}촀 bereit,
+\0
+das Ei im Korb einzulochen."
+"106","<"
+"106_01","(촀\0Ha-HA!
 \0 Bewundere mich in 2.촀meinemmeinermeinem
 2촂}촀 und weine vor Glück!\0\0(5촀\0Dieses zeitlose Outfit wird durch
 mich in die Geschichte eingehen!"
+"106_02","(촀\0Heute habe ich mich wie meistens
+elegant gefühlt, deshalb 2촀derdiedas
+}촀.\0\0(;촀\0Was sagst du?
+\0 Elegant?
+\0 Klassisch?
+\0
+Zeitlos? 
+\0(6촀\0Oder sogarn\0\0 n\0?
+\0
+(촀\0Ha-HA!"
 "201","(촀\0Weide deine Augen an 2.촀diesemdieserdiesem präch-
 tigen 2촂}촀!\0\0(촀\0Steht mir doch, 
 \0oder? 

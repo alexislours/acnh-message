@@ -80,14 +80,23 @@ rendrait tout le monde fou!\0\0(촀\0« ⁠2\0s촀. ⁠»
 \0. ⁠»
 \0(
 (촀\0« ⁠2\0s촀. ⁠»"
-"101","(2촀\0Hé hé,
+"101","<"
+"101_01","(2촀\0Hé hé,
 \0 c'est pas pour me vanter,
 \0
 mais je crois que je peux porter
 n'importe quoi,
 \0 ça m'ira toujours!\0\0(5촀\0Et cet2촀\0te\0 adorable }촀 en est la meilleure preuve!\0\0(촀\02촀IlElle\0 fait vraiment ressortir mon côté
 choupinou, n\0!"
-"102","(촀\0Comment je suis censé manger ou
+"101_02","(5촀\0Dis,
+\0 c'est vrai que j'ai l'air adorable
+quand je porte 2\0}촀?\0\0(촀\0C'est ce que ma maman m'a dit,
+\0
+mais bonn\0\0\0\0('촀\0Ma maman me dirait n'importe quoi
+pour me faire finir mon assiette de
+brocolis, n\0."
+"102","<"
+"102_01","(촀\0Comment je suis censé manger ou
 faire la sieste
 \0 quand je porte 2\0
 }촀?\0\0(촀\02촀IlElle\0 est trop cool pour que je risque
@@ -99,24 +108,57 @@ en mangeant
 \0(촀\0 Et je
 dormirai debout!\0\0(5촀\0Rien de plus simple pour un pro de
 la sieste comme moi!"
-"103","(촀\02촀IlElle\0 paie peut-être pas de mine,
+"102_02","(""촀\0Comment tu me trouves dans ce2촀\0tte\0
+joli2촀\0e\0 }촀?\0\0(4촀\0Cool,
+\0 je sais. 
+\0Mais pas TROP cool,
+j'espère.
+\0 Faudrait pas qu'on me
+prenne pour une star, n\0."
+"103","<"
+"103_01","(촀\02촀IlElle\0 paie peut-être pas de mine,
 \0
 mais 2촀ilelle\0 va avec tout, m2촀ona\0 petit2촀\0e\0
 }촀!\0\0()촀\0Alors si jamais je sais pas quoi
 porter,
 \0 je peux toujours compter sur
 2촀luielle\0, n\0!"
-"104","(%촀\0Je suis pas beau comme un camion
+"103_02","(촀\0Admire-moi dans m2촀ona\0 magnifique
+}촀!\0\0(\0촀\02촀IlElle\0 me fait me sentir beaucoup trop
+adulte pour avoir le droit d'apprécier
+les dessins animés et les collationsn\0\0
+\0
+(촀\0Mais c'est parfait pour regarder
+des séries d'animation et prendre
+des collations!"
+"104","<"
+"104_01","(%촀\0Je suis pas beau comme un camion
 avec ce2촀\0tte\0 superbe }촀?\0\0(촀\0Par contre,
 \0(촀\0 il faut que je fasse
 attention à pas 2촀lela\0 tacher en buvant
 2\0촀n"
-"105","(촀\02\02\0}촀 comme cel2촀uile\0-là,
+"104_02","()촀\0Pfioun\0\0 J'ai l'impression que je dois
+me tenir tranquille quand je porte
+2\0}촀.\0\0(촀\0D'habitude,
+\0 je fais surtout attention
+à pas faire de taches,
+\0((촀\0 mais là je dois
+aussi pas faire de plis!"
+"105","<"
+"105_01","(촀\02\02\0}촀 comme cel2촀uile\0-là,
 \0 c'est résistant et confortable!\0\0(촀\0Et 2촀ilelle\0 s'abîme pas au lavage. 
 \0(7촀\0Enfin,
 vu comment j'en mets partout quand je mange,
 \0 il vaut mieux!"
-"106","(5촀\0Que pensez-vous de ma tenue,
+"105_02","(촀\0Quand je porte 2촀ce
+cette\0 superbe
+}촀,
+\0 j'ai l'énergie d'un tigre!\0\0()촀\0Les tigres,
+\0 ça dort bien 14 heures
+par jour,
+\0 non?"
+"106","<"
+"106_01","(5촀\0Que pensez-vous de ma tenue,
 2.gentilhommegente dame?
 \0(2촀\0 N'est-elle pas des
 plus princières?\0\0(9촀\0Appelez-moi \0Prince\0￿ n
@@ -124,6 +166,10 @@ plus princières?\0\0(9촀\0Appelez-moi \0Prince\0￿ n
 \0
 (촀\0Peut-être que je faisais partie de
 l'aristocratie dans une autre vien"
+"106_02","(촀\0Ne suis-je pas le plus beau dans 2촀monma\0
+superbe }촀?\0\0(%촀\0Faut que je m'entraîne à 2촀lela\0 porter au
+cas où je suis invité d'honneur au
+festival 2\0촀!"
 "201","(촀\0
 \0Regarde un peu! C'est bien, non?
 2\02\0}촀, ça vous change 2\0n\0!\0\0(%촀\0Bon, par contre, j'évite de manger

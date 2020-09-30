@@ -101,14 +101,22 @@ like 
 around in, n\0.
 \0( (촀\0They even
 wick sweat away!"
-"101","(%촀\0Check out how this awesome
+"101","<"
+"101_01","(%촀\0Check out how this awesome
 }촀 shows
 off my lats!\0\0(촀\0When I wear something new, I work
 muscles I normally don't.
 \0 Perfect for
 strength trainingn\0\0
 \0(\0촀\0probably."
-"102","(7촀\0When I wear something cool, like my
+"101_02","($촀\0So how do I look?
+\0 I thought I'd
+switch things up a bit.\0\0(촀\0Not everything can be sleeveless or
+sweat wicking, after all. 
+\0(촀\0Sometimes
+you just wanna look cute!"
+"102","<"
+"102_01","(7촀\0When I wear something cool, like my
 }촀, all my
 tension melts away.
 (1촀\0I'm completely relaxed right nown\0\0
@@ -118,29 +126,66 @@ tension melts away.
 \0(촀\0Oh no! I forgot to do my leg reps!
 \0
 	"
-"103","(촀\0I don't need fancy stuff, and low-key
+"102_02","(7촀\0I thought I'd try something a bit less
+sporty and a little more cool.
+\0((&촀\0 What
+do you think, n\0?\0\0(%촀\0I've just gotta be careful. 
+\0((촀\0One full
+flex could rip this outfit to shreds!"
+"103","<"
+"103_01","(촀\0I don't need fancy stuff, and low-key
 is trendy these days, son\0\0
 \0 Yeah, I
 love my }촀.\0\0(%촀\0I want my clothes to capture the chill
 vibe I'm going for with my muscles.
 \0(
 (5촀\0So am I pulling it off or what?"
-"104","(촀\0How 'bout it, bud?
+"103_02","(촀\0Alright, alright—let's hear it.
+\0
+(2촀\0I know I'm showing off a little bit
+with this outfit.\0\0()촀\0After all, basic clothes like this
+really let my muscles do the talking.
+\0
+(5촀\0And they talk LOUD, n"
+"104","<"
+"104_01","(촀\0How 'bout it, bud?
 \0< (촀\0Do I stand out
 or what?\0\0(7촀\0Heh heh.
 \0 I bet if I stand out long
 enough, I'll become a new
 landmark, n\0!"
-"105","(촀\0Check it out!
+"104_02","(6촀\0Check out the duds.
+\0 Pretty flashy,
+right?
+\0(촀\0 I finally feel like I've got
+clothes that can keep up with me.\0\0('촀\0Nah, you're right. 
+\0No mere garment
+can keep up withn\0\0(촀\0this!"
+"105","<"
+"105_01","(촀\0Check it out!
 \0 These clothes were
 made with movement in mind!\0\0(5촀\0And that's exactly what I need.
 \0 My
 clothes have to stand up to rigorous
 training, just like me, n\0!"
-"106","(5촀\0I look pretty sharp today, huh?\0\0(%촀\0I hear that a guy who can pull off this
+"105_02","(&촀\0How do I look today? 
+\0((촀\0Sporty as
+usual, or even MORE sporty?\0\0(촀\0I know that clothes alone can't
+make me faster or stronger.
+\0(
+(촀\0Except for these clothes.
+\0 HA!"
+"106","<"
+"106_01","(5촀\0I look pretty sharp today, huh?\0\0(%촀\0I hear that a guy who can pull off this
 look will be lucky in love.
 \0((촀\0 And I say
 bring it on, n\0!"
+"106_02","(6촀\0Notice anything different?
+\0
+(촀\0I dressed up, n\0!\0\0(2촀\0I had to squeeze the ol' delts a little
+to fit into these clothes, so don't
+make me laugh. 
+\0(촀\0I may rip something."
 "201","($촀\0What's up, n\0?
 \0 You like
 my }촀?\0\0()촀\0I love the way it breathes.

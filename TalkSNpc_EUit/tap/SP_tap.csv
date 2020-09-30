@@ -120,7 +120,7 @@ al momento del tuo risveglio."
 immergerti nella bellezza del sogno?"
 "1001_a","Partiamo!"
 "1001_b","Meglio un'altra volta."
-"1002","(촀\0Molto bene. Allora mi collegherò
+"1002","(촀\0Molto bene. Allora mi connetterò
 a \0Internet \0￿per scaricare il sogno."
 "1003","(%촀\0Qual è il \0codice del sogno\0￿ che vuoi
 visitare?"
@@ -167,6 +167,49 @@ devi attivare 
 con altri utenti
 \0 in Filtro famiglia.\0\0(촀\0Torna pure a trovarmi quando sarà
 tutto pronto."
+"1051","(촀\0Connessione stabilita!
+\0( (\0촀\0Ma se posso
+fermarmi un istante, 
+\0vorrei dirti
+qualcosa che penso ti farà piacere.
+()촀\0D'ora in avanti, 
+\0se trovi un sogno
+che ti piace particolarmente, potrai
+visitarlo di nuovo quando ti va.
+(촀\0Ora puoi selezionare da una lista
+i sogni che hai fatto di recente
+\0 e
+riviverli in qualsiasi momento.
+(\0촀\0Per visitare di nuovo un sogno,
+\0
+ti basta venire da me e dirmi
+\0 ($촀\0""\0Visito
+di nuovo un sogno.\0￿""
+\0 Ora vediamon"
+"1052","(&촀\0C'è qualcosa che posso fare per te?"
+"1052_a","Cerca con codice del sogno."
+"1052_b","Visito di nuovo un sogno."
+"1052_c","Sono a posto così."
+"1055","(\0촀\0Come desideri.
+\0 (%촀\0Scegli pure il sogno
+che vuoi visitare nuovamente."
+"1056","(\0촀\0Vuoi visitare di nuovo il sogno
+chiamato ""s촀"", quindi.
+\0 (&촀\0Ho capito bene?"
+"1056_a","Dici benissimo!"
+"1056_b","Ehm, no."
+"1057","(촀\0Mi spiace, 
+\0ma purtroppo il sogno
+associato a questo \0codice\0￿ non
+esiste più.
+\0 Vuoi visitarne un altro?"
+"1057_a","Sì, dai!"
+"1057_b","Non fa niente."
+"1058","(촀\0Mmmhn\0\0 Sembra che non ci sia
+nessun sogno che puoi visitare
+nuovamente.\0\0(촀\0Se vuoi visitarne un altro, 
+\0dovrai
+darmi il \0codice del sogno\0￿."
 "2001","(\0촀\0Ma certo. 
 \0(9촀\0Prima però, ci sono
 alcune \0informazioni importanti
@@ -174,7 +217,7 @@ alcune \0informazioni importanti
 "2002","(\0촀\0Perfetto! ()촀\0Adesso è una passeggiata.
 \0
 Per prima cosa, trasformerò i ricordi
-di n	\0 in un sogno.(촀\0\0\0Poi mi collegherò a \0Internet \0￿per
+di n	\0 in un sogno.(촀\0\0\0Poi mi connetterò a \0Internet \0￿per
 condividerlo."
 "2002_01","(촀\0
 \0Oh! 
@@ -203,7 +246,7 @@ già caricato un ricordo relativo a
 "2003_a","Procedi!"
 "2003_b","Meglio di no..."
 "2004","(촀\0Perfetto! 
-\0Adesso allora mi collegherò
+\0Adesso allora mi connetterò
 a \0Internet\0￿."
 "2005","(%촀\0Molto bene. 
 \0Adesso prenderò i tuoi ricordi di n	\0 e li trasformerò in un sognon"
@@ -288,6 +331,11 @@ il sogno caricato?"
 "3001_b","La privacy del codice."
 "3001_c","Cancella il sogno."
 "3001_d","Non importa."
+"3002_02_a","Carica il sogno."
+"3002_02_b","La privacy del codice."
+"3002_02_c","La privacy del codice."
+"3002_02_d","Cancella il sogno."
+"3002_02_e","Non importa."
 "3101","(9촀\0Per precauzione, 
 \0devo chiederti se
 vuoi davvero aggiornare il tuo sogno
@@ -297,7 +345,7 @@ di n	\0.
 "3101_b","Meglio di no."
 "3102","(촀\0Benissimo! 
 \0Adesso allora mi
-collegherò a \0Internet\0￿."
+connetterò a \0Internet\0￿."
 "3103","(1촀\0Chiudi gli occhin\0\0 Pensa a ciò che più ami di n	\0n\0\0 d
 \0Rilassati. 
 \0Rilaaassatiiin\0\0d
@@ -432,7 +480,7 @@ servono il relativo \0codice\0￿ e una
 \0 \0Condividere un sogno della
 tua isola\0￿ consentirà ad altri utenti
 di visitare i tuoi ricordi.\0\0()촀\0Per prima cosa, userò i tuoi ricordi di
-n	\0 per creare un sogno.(촀\0\0\0Poi mi collegherò a Internet per
+n	\0 per creare un sogno.(촀\0\0\0Poi mi connetterò a Internet per
 caricare il tuo sogno, in modo che
 altri possano visitarlo.\0\0(촀\0E visto che si tratta di un sogno,
 

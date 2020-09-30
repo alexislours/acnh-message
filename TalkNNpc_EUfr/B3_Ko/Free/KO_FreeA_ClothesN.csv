@@ -83,7 +83,8 @@ que je porte.
 « s촀 ».
 (촀\0Je sais pas ce qui me plaît le plus
 entre le look et le nom, n\0 !"
-"101","(촀\0Qu'est-ce qu'il y a ?!
+"101","<"
+"101_01","(촀\0Qu'est-ce qu'il y a ?!
 \0 Ça jure trop,
 \0
 c'est ça ?
@@ -91,7 +92,13 @@ c'est ça ?
 dûn\0\0
 (촀\02\0n\0n\0\0 
 \0(촀\0J'espérais que porter 2\0}촀 atténuerait mon côté austère."
-"102","(""촀\0Salut, n\0 !
+"101_02","('촀\0Pas sûr que j'aurais dû mettre 2\0
+}촀 aujourd'hui.\0\0(촀\0Quelqu'un s'est exclamé que j'étais
+« trop chou » tout à l'heure,
+\0 (촀\0mais j'ai
+senti comme une pointe d'ironie."
+"102","<"
+"102_01","(""촀\0Salut, n\0 !
 \0 Franchement,
 \0 (5촀\02촀ilelle\0 me rend beau,
 \0 2\0}촀 ?
@@ -100,24 +107,48 @@ en soi pour oser en porter,
 \0 mais
 j'avoue que c'est le pied. 
 \0(촀\0Hé hé !"
-"103","(%촀\0Les fondamentaux,
+"102_02","(5촀\0Alors ? 
+\0Qu'est-ce tu dis de 2촀monma\0
+super }촀 ?\0\0(6촀\0J'ai l'impression de trouver de moins
+en moins d'habits cool,
+\0 alors dès que
+j'en trouve un,
+\0 je le loupe pas !"
+"103","<"
+"103_01","(%촀\0Les fondamentaux,
 \0 y a que ça de vrai.
 \0 Tiens,
 \0 regarde donc 22촀ce petitcette petite\0 }촀.\0\0(촀\0J'ai rien trouvé de mieux pour mêler
 confort,
 \0 simplicité,
 \0 et classicisme."
-"104","(촀\0C'est pas souvent,
+"103_02","(%촀\0Les tenues voyantes,
+\0 c'est pas mon
+style.
+\0 (촀\0J'ai donc craqué pour 2\0}촀 !"
+"104","<"
+"104_01","(촀\0C'est pas souvent,
 \0 mais j'aime parfois sortir avec 2.촀mon petitma petite\0 }촀.\0\0(5촀\0Ça donne un certain air distingué,
 \0
 même à un vieux grincheux comme
 moi, pas vrai ? 
 \0(촀\0Hé hé !"
-"105","Il me suffit de mettre (5촀\02\0}촀 et on croirait que je vais faire du sport.
+"104_02","(9촀\0Faut avoir du charisme pour porter
+2\0}촀.(촀\0\0\0Chaque fois que je vois des jeunes
+vauriens porter ça,
+\0 (촀\0je peux pas
+m'empêcher d'être un poil envieux."
+"105","<"
+"105_01","Il me suffit de mettre (5촀\02\0}촀 et on croirait que je vais faire du sport.
 \0\0\0(촀\0Il me reste plus qu'à trouver
 quelqu'un qui pourrait me motiver
 un peun"
-"106","Vise un peu,
+"105_02","( 촀\0T'as l'air surpris2\0e de me voir porter
+2\0}촀.\0\0(5촀\0Tu ignorais que je fus jadis champion
+du monde 2
+de d'촀 catégorie n\0 ?"
+"106","<"
+"106_01","Vise un peu,
 \0 j'essaie de(5촀\0 relever
 le coefficient élégance de l'île avec
 2\0}촀 !
@@ -125,6 +156,12 @@ le coefficient élégance de l'île avec
 \0 Tu penses que les autres en
 prendront de la graine ?
 \0 (촀\0Ha ha ha !"
+"106_02","(%촀\0Pour porter correctement 2\0}촀,
+\0 il faut une certaine classe,
+\0 gamin2\0e.\0\0(촀\0Eh ouais ! 
+\0Je ne suis pas juste 2\0n\0,
+\0(5촀\0 je suis 2\0n\0 classe,
+\0 n\0 !"
 "201","Alors 2
 gamingamine,
 \0(촀\0 c'est pas 2\0}촀 qui va faire tourner les têtes,

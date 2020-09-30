@@ -2,6 +2,12 @@
 "AbsentMindedness","¡Ya aprendí la emoción \0Ensoñación\0￿!
 \0
 (1촀\0Dejaré volar la imaginaciónn"
+"AddPrank","¡Aprendí la emoción \0Susto\0￿!
+\0
+(>촀\0¡Buuuuuh!"
+"AddScaring","¡Aprendí la emoción \0Espanto\0￿!
+\0
+(?촀\0¡Más te vale que me des dulces!"
 "Apologize","¡Ya aprendí la emoción \0Disculpa\0￿!
 \0
 (#촀\0Hay que saber asumir los errores."
@@ -34,9 +40,13 @@
 "HappyDance","¡Ya aprendí la emoción \0Júbilo\0￿!
 \0
 (촀\0¡Estoy muy content2oa!"
-"HappyFlower","¡Ya puedo expresar emociones!
+"HappyFlower","¡Aprendí una \0emoción\0￿!
 \0
-(촀\0Así podré transmitirles lo que siento
+(촀\0Ahora podré transmitirles lo que
+siento a los demás."
+"HappyFlower_1","¡Aprendí cuatro \0emociones\0￿!
+\0
+(촀\0Ya podré transmitirles lo que siento
 a los demás."
 "Hello","¡Ya aprendí la emoción \0Agrado\0￿!
 ($촀\0¡Me siento agradecid2oa por eso!"

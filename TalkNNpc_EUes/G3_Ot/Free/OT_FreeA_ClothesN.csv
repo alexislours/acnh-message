@@ -94,29 +94,66 @@ que por lo visto se llama
 \0 de s촀.
 \0 (7촀\0Yo diría que me queda bastante bien,
 \0 ¿no te parece?"
-"101","(&촀\0¿Tú qué opinas,
+"101","<"
+"101_01","(&촀\0¿Tú qué opinas,
 \0 n\0?
 \0
 ¿Me queda muy cursi est2촀ea\0 }촀?\0\0(촀\0El caso es que es mon2촀oa\0,
 \0 pero no
 dejo de pensar (촀\0que le pegaría más
 a una de nuestras vecinas que a mín"
-"102","(:촀\0Est2촀ea\0 }촀 no es un simple trapo que un2oa se pone sin más.\0\0(5촀\0Semejante diseño es una armadura
+"101_02","(9촀\0He decidido demostrarle al mundo
+entero
+\0 \0(o por lo menos a la isla)\0￿
+\0
+(5촀\0que no soy toda clase y elegancia.
+($촀\0¡Hasta yo tengo un lado frívolo!
+\0
+(%촀\0Por eso me he puesto est2촀ea\0 }촀.
+(4촀\0¿Te gusta cómo me queda?
+\0
+No sé si me hace más joven
+\0
+(6촀\0o más infantil, n\0."
+"102","<"
+"102_01","(:촀\0Est2촀ea\0 }촀 no es un simple trapo que un2oa se pone sin más.\0\0(5촀\0Semejante diseño es una armadura
 que nos protege de lo vulgar
 y lo mundano."
-"103","()촀\02\02\0}촀 que llevo es muy discret2촀oa\0,
+"102_02","('촀\0No hace falta que digas nada,
+\0 lo sé:
+\0
+(5촀\0mi }촀 es el colmo de lo moderno y lo sofisticado.\0\0(촀\0Otros se dedican a leer novelas
+fantásticas o a correr maratones.
+\0
+(촀\0Yo vivo para epatar, n\0."
+"103","<"
+"103_01","()촀\02\02\0}촀 que llevo es muy discret2촀oa\0,
 \0 ¿no te parece?\0\0(6촀\0Como yo,
 \0 que jamás cometo
 una indiscreción.\0\0(촀\0A veces es la prenda más sencilla
 la que equilibra toda la (촀\0magia
 de un conjunto, n\0."
-"104","(%촀\0La palabra que buscas es
+"103_02","(&촀\0¿Te gusta mi conjunto?
+\0 ¿No voy
+(촀\0demasiado sencilla con mi }촀?\0\0(촀\0Me da igual lo que opine la gente,
+\0
+pero tu opinión (%촀\0sí la valoro, n\0."
+"104","<"
+"104_01","(%촀\0La palabra que buscas es
 \0 «lujo»,
 \0 n\0.
 \0 (촀\0¡Mira qué }촀!\0\0(촀\0Estaba deseando ponérmel2촀oa\0.
 \0
 ¿Verdad que voy (촀\0glamurosísima?"
-"105","(촀\0Por más que una lo intente,
+"104_02","((촀\0Hoy me he superado.
+\0 Quería lucir
+mi }촀 (촀\0y le he creado un conjunto de escándalo.\0\0(촀\0No por vivir en una isla tiene una que
+privarse de ciertos lujos
+\0 y por suerte(촀\0
+\0
+no hay nada más portátil que la ropa."
+"105","<"
+"105_01","(촀\0Por más que una lo intente,
 \0 no es
 posible vestir con elegancia las
 veinticuatro horas de cada día.
@@ -131,7 +168,20 @@ de la casa
 de actividades deportivasn\0\0
 \0 (6촀\0pero no
 me verás a mí sudando en público."
-"106","(촀\0Bueno,
+"105_02","((촀\0Mira y ríete, n\0:
+\0 ¡n
+\0 (촀\0lleva puest2촀oa\0 2\0}촀!\0\0(촀\0¿Verdad que no me pega nada?
+\0
+(촀\0Ay, qué gracia me hagon\0\0
+\0 pero oye(촀\0n\0\0
+\0
+el caso es quen\0\0
+\0 (촀\0¡es cómod2촀oa\0!
+(촀\0¿Por qué me paso la vida vistiendo
+moda lujosísima pero nada práctica
+cuando podría vivir (촀\0así de a gusto?"
+"106","<"
+"106_01","(촀\0Bueno,
 \0 bueno,
 \0 buenon\0\0
 \0
@@ -141,6 +191,13 @@ falta elegancia y sobran alpargatas.
 (촀\0Pero entonces descubrí est2촀ea\0
 }촀.
 \0 (5촀\0No digo más."
+"106_02","(!촀\0Ya pueden cerrar todos los estudios
+de diseño y las fábricas de moda:
+\0
+(9촀\0la elegancia pura ha sido alcanzada.
+(8촀\0Te presenton\0\0
+\0 (5촀\0¡mi }촀!
+\0 Insuperable, n\0."
 "201","2\0n\0,
 \0 (촀\0¡mira lo que me he puesto hoy!
 \0 (1촀\0¿No es sublime?\0\0()촀\0Estaba deseando estrenar mi nuev2촀oa\0 }촀 y he decidido no esperar.\0\0(촀\0¿Quién necesita una ocasión especial

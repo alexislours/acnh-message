@@ -106,7 +106,7 @@ wilt?\0\0(촀\0We kunnen je er Z\0 voor gevenn"
 \0 Het spijt me, maar voor dit
 soort dingen kunnen we je niets
 betalen.\0\0We kunnen het wel kosteloos voor je
-opuimen, als je dat wilt.
+opruimen, als je dat wilt.
 "
 "038_a","Ruim maar op, alsjeblieft!"
 "038_b","Ik hou het wel bij me."
@@ -398,13 +398,31 @@ dus sla je slag!d\0
 "131_a","1 (\0 Z\0\0￿)"
 "131_b","5 (\0 Z\0￿)"
 "131_c","Ik heb me bedacht."
+"132_01","(촀\0O, }\0Ȁ?
+\0( Die kun je alleen in oktober kopen! d\0
+\0\0KEen exclusieve aanbieding!\0dd"
+"132_02","()촀\0Een paar dagen nadat je deze
+pompoenzaailingen hebt geplant,
+kun je ze al oogsten!(\0촀\0\0\0(%촀\0Wanneer je ze dagelijks water geeft,
+zal je oogst nog beter uitvallen!"
+"132_03","()촀\0Pompoen zijn er in vier kleuren:
+\0oranje\0￿, \0groen\0￿, \0geel\0￿ en \0wit\0￿.\0\0(9촀\0Van te voren weet je niet welke
+kleur je krijgt!
+\0( (촀\0Dat maakt het
+boerenleven des te spannender!"
+"132_04","(%촃\0Hier kun je er meerdere tegelijk van
+kopen.
+\0(&촂\0 Hoeveel mogen het er zijn?"
+"132_04_a","1 (\0 Z\0\0￿)"
+"132_04_b","5 (\0 Z\0￿)"
+"132_04_c","Ik heb me bedacht."
 "141_01","( 촂\0( 촃\0Aha! 
 \0Ben je van plan je in het water
 te begeven?\0\0(%촂\0(\0촃\0Ja, jan\0\0 Wie wil zwemmen of duiken, kan 2\0}\0\0 zoals 2 촀dezeditdeze goed gebruiken!\0\0(촂\0(촃\0Voordat je naar het strand gaat,
 geven we je graag nog een paar
 zwemtips!d\0
 \0 \0KVeiligheid voorop!\0dd"
-"141_02","()촂\0Alleerst moet je een geschikt \0duikpak\0￿ hebben (%촃\0zoals 2 촀dezeditdeze 2촃}\0\0 hier.\0\0(촂\0(촃\0Dan kies je op het strand of op de
+"141_02","()촂\0Allereerst moet je een geschikt \0duikpak\0￿ hebben (%촃\0zoals 2 촀dezeditdeze 2촃}\0\0 hier.\0\0(촂\0(촃\0Dan kies je op het strand of op de
 rotsen een mooi plekje om het water
 in te duiken door op \0\0￿ te drukken!\0\0()촂\0(\0촃\0Om lekker een paar baantjes te
 trekken hoef je enkel op \0 \0￿te
@@ -430,6 +448,32 @@ wezens \0￿je in de diepte opwachten!
 zee moet je rekening houden met
 het volgenden\0\0d\0
 \0 \0KNiet onbelangrijk!\0dd"
+"144_01","(촀\0Ah, heb je interesse in }\0Ȁ?\0\0(%촀\02촂DieDatDie bieden we alleen in oktober aan,
+\0
+dus je kunt beter snel handelen!d\0
+\0
+\0KGrijp je kans!\0dd"
+"144_02","(촀\0Omdat we verwachten dat er veel
+vraag naar zal zijn, 
+\0mag \0iedere klant
+er maar één per dag\0￿ kopen."
+"144_03","(&촀\0Wil je er eentje kopen?"
+"144_03_a","(%촀\0Koop ik!"
+"144_03_b","('촀\0Nee, toch maar niet..."
+"144_04","(\0촀\0O, het spijt me, 
+\0(%촀\0maar we kunnen
+\0iedere klant maar één snoepje per
+dag\0￿ verkopen."
+"144_05","(촀\0Omdat je er vandaag al eentje hebt
+gekocht, hoop ik dat je morgen weer
+terugkomt."
+"144_06","(촀\0Je hebt er vandaag al eentje gekocht,
+\0
+en helaas verkopen we vanaf morgen
+geen snoep meern\0\0\0\0(촀\0Maar zodra we het in het volgende
+jaar weer aanbieden, 
+\0moet je maar
+snel je slag slaan!"
 "200","(촂\0(촃\0Dank je wel!d\0
 \0 \0KBedankt!\0dd(촂\0(촃\0
 Z"

@@ -101,31 +101,63 @@ place, j'irais me changer."
 \0\0\0(+촀\0Tu as remarqué que ça caille sévère,
 non ?(9촀\0 Tu tiens vraiment à tomber
 malade ?"
-"016","Regardez comme 2@il est mignon""elle est mignonne,
+"016","<"
+"016_01","Regardez comme 2@il est mignon""elle est mignonne,
 2\0}촀 2촀tout
 toute\0 propre !\0\0(%촀\0Ça passe plutôt bien sur toi,
 \0 mais
 sur moi,
 \0(촀\0 je crois que ça donnerait
 pas tout à fait la même impressionn"
-"017","T'as une sacrée dégaine avec 2\0}촀,
+"016_02","(%촀\0T'es vraiment adorable dans 2촀ce
+cette\0
+joli2촀\0e\0 }촀.\0\0(촀\0C'est bien ton intention,
+\0 d'avoir l'air
+adorable ?
+\0(4촀\0 T'essaies de m'amadouer
+pour je ne sais quelle raison ?"
+"017","<"
+"017_01","T'as une sacrée dégaine avec 2\0}촀,
 \0 tu sais ?
 \0 (%촀\0Ça te va bien."
-"018","(촀\0Certains peuvent passer des heures
+"017_02","(%촀\0Je savais pas que c'était possible de
+concentrer autant de classe dans
+2\0}촀.\0\0(촀\0Tu irradies tellement la classe que ça
+déteint sur moi,
+\0 je le sens.
+\0( (촀\0Merci
+pour la dose de positivité !"
+"018","<"
+"018_01","(촀\0Certains peuvent passer des heures
 à décider de ce qu'ils vont se mettre
 sur le dosn\0\0
 (%촀\0Alors que c'est si simple de choisir
 un truc indémodable,
 \0 comme 2촀tonta\0
 superbe }촀."
-"019","(촀\0Mazette,
+"018_02","(6촀\0J'adore la simplicité de 2촀ce
+cette\0 joli2촀\0e\0
+}촀 que tu portes.\0\0(%촀\0On trouve beaucoup de vêtements
+simples parmi les indémodables de la
+mode, n\0 !"
+"019","<"
+"019_01","(촀\0Mazette,
 \0 tu nous sors le grand jeu !
 \0
 2\02\0}촀 que tu portes est splendide !\0\0('촀\0Je pense pas que ça m'irait,
 \0
 mais sur toi,
 \0(촀\0 ça en jette !"
-"020","(&촀\0On s'est mis2\0e à l'aise,
+"019_02","(촀\0T'es 2beau
+belle comme un paon dans 2촀tonta\0
+fi2촀erère\0 }촀 !\0\0(&촀\0Où tu vas,
+\0 comme ça ?
+\0 À un colloque
+sur la crème glacée ?
+\0 (%촀\0En tout cas, tu
+seras 2F le mieux habillé""la mieux habillée."
+"020","<"
+"020_01","(&촀\0On s'est mis2\0e à l'aise,
 \0 2
 gamingamine ?
 \0((촀\0
@@ -136,7 +168,15 @@ tu vas faire un triathlon détente.
 heures de sieste et deux heures de
 repos.
 \0 (촀\0Bonne chance, champion2\0ne !"
-"021","(촀\0
+"020_02","(%촀\0Tu as l'air d'un2\0e sporti2
+fve accompli2\0e,
+avec 2촀tonta\0 resplendissant2촀\0e\0 }촀 !\0\0()촀\0Le sport,
+\0 c'est essentiel pour bien
+vieillir.
+\0 Et le plus important, pense
+à bien t'hydrater, n\0 !"
+"021","<"
+"021_01","(촀\0
 \0(2Sapé
 Sapée comme tu l'es,
 \0 j'ai presque
@@ -144,6 +184,8 @@ l'impression de devoir te donner
 du 2 MonsieurMadame 2\0n\0.
 (촀\0Je savais pas que tu faisais partie
 de la haute, n\0."
+"021_02","(촀\0C'est 2\0}촀 de toute beauté que t'as là !\0\0('촀\0C'est à peine si j'ose m'approcher de
+toin\0\0 j'aurais peur de 2촀lela\0 salir, n\0."
 "101","<"
 "101_01","(&촀\02\02\0}촀 que tu portes, tu en as d'autres ?\0\0(%촀\0C'est bien d'avoir une tenue dans
 laquelle on se sent bien.\0\0(9촀\0Mais oublie pas de faire une lessive
@@ -236,6 +278,40 @@ entortillé dedans, n\0."
 "211","(촀\0Ton costume est superben\0\0 Et cette
 broderie est tout simplement
 hypnotique."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0
+\0Il est fait main, 
+\0ton costume ?
+\0 (6촀\0Parce
+qu'il est vraiment chouette !
+\0 On sent
+tout l'amour d'une mère,
+\0 là-dedans."
+"216","Dodo Airlines,
+\0 hm ?
+\0 (9촀\0Ah,
+\0 voyager en
+avion, c'est plus ce que c'était.
+\0
+Avant, y avait un repas à chaque vol.\0\0(촀\0Et c'était très bon, genre 2\0촀 ! 
+\0Et 2\0촀 en dessert !\0\0('촀\0Maintenant,
+\0 c'est à peine si on a
+droit à un sandwich mou et un
+pauvre verre 2
+de d'촀n"
+"217","(\0촀\0Sois honnête.
+\0 (&촀\0
+\0Ce costume,
+\0 c'est pour
+me fiche la frousse, hein ?
+\0
+(촀\0Bien tenté,
+\0 mais y a pas moyen.\0\0(
+촀\0Je suis trop vieux pour m'effondrer
+de trouille devant quelques singeries
+macabres, n\0 !"
 "251","(2촀\0Dis-donc, tu es « chacrément » félin2\0e
 aujourd'hui, gamin2\0e.
 \0 (촀\0Tu apprends
@@ -254,6 +330,36 @@ grenouilles ?
 \0( (촀\0Pas que je sois contre,
 \0
 mais ça m'interpelle, n\0 !"
+"255","(촀\0J'aime beaucoup ton look ! 
+\0Avec ces
+oreilles, on pourrait te prendre pour
+2$mon frèrema sœur, n\0 !"
+"256","(촀\0Ça va,
+\0 mon lapin ?
+\0(촀\0 C'est voulu,
+\0 de
+t'habiller comme ça ? 
+\0Ou t'avais rien
+d'autre à te mettre, n\0 ?"
+"257","(촀\0Tu crois pouvoir me filouter avec ton
+costume, gamin2\0e ? 
+\0Je reconnais un
+ours quand j'en vois un !\0\0(촀\0Je suis pas tombé dans le pot de miel
+quand j'étais petit,
+\0 non mais, n\0 !"
+"258","(&촀\0C'est quoi ce costume d'ours ? 
+\0T'es
+mal léché2\0e aujourd'hui ?
+\0 Ou c'est
+une mode bizarre, n\0 ?"
+"259","(촀\0Tu t'es sapé2\0e en mouton, ou tu t'es
+juste roulé2\0e dans la poussière sous
+ton lit, n\0 ?"
+"260","(;촀\0J'ai bien cru que t'étais un vieux pote
+à moi, dans cet accoutrementn\0\0\0\0(2촀\0D'ailleurs, ça fait un bail que je l'ai
+pas vun\0\0(9촀\0 Qu'est-ce que tu as fait de
+lui ?!
+\0 Je t'ai à l'œil, gamin2\0en"
 "301","( 촀\0Eh bien ! 
 \0On dirait que tu viens d'une
 autre planète !
@@ -278,6 +384,31 @@ en expédition sur ton drakkar ?\0\0()촀\0N'oublie pas d'emporter des
 provisions, gamin2\0e.
 \0 La mer,
 ça creuse, n\0."
+"307","(&촀\0Alors,
+\0 on se prend pour un charlot ?
+\0
+Tu nous as préparé quelques
+sketches,
+\0 gamin2\0e ?\0\0(촀\0Tu connais celle de l'écureuil qui va
+촀 à un concert 2
+de d'촀 ?\0\0(9촀\0Non ? 
+\0C'est bien dommage.
+\0 (촀\0J'avais
+espéré enfin pouvoir connaître la
+chute, n\0n"
+"308","(3촀\0Tu pourrais t'habiller un peu moins
+étincelant ? 
+\0Rien que te voir,
+\0 ça me
+fiche la migraine, n\0."
+"309","(&촀\0Tu sais que l'habit ne fait pas
+le moine ?
+\0 Et encore moins le
+chevalier ?\0\0(\0촀\0En ce qui me concerne,
+\0(촀\0 t'as rien à
+prouver.
+\0 Je sais que tu es noble
+d'esprit même en pyjama rose !"
 "401","<"
 "401_01","(9촀\0Tu as l'air de l'aimer, cette tenue,
 dis donc !
@@ -292,3 +423,25 @@ je dors tout habillé, n\0."
 portes cette tenue, je me trompe, n\0 ?\0\0(촀\0Tu as bien raison, c'est vraiment
 insensé de ne porter ses vêtements
 qu'une fois !"
+"501","<"
+"501_01","(%촀\0Eh bien,
+\0 quel look excentrique !
+\0 De
+prime abord,
+\0 ça m'a choqué,
+\0(촀\0 mais
+plus je regarde,
+\0 plus j'aime !"
+"501_02","(촀\0La mode a bien changé depuis que
+j'ai arrêté de m'y intéresser, n\0.\0\0(촀\0Et même si ton look n'est pas mon
+style, 
+\0tant que tu te sens bien avec,
+
+\0(%촀\0c'est tout ce qui compte, gamin2\0e."
+"501_03","(촀\0Il y a quelque chose de changé dans
+ton visage, gamin2\0en\0\0\0\0( 촀\0Une nouvelle expression ? 
+\0Tes tifs ?
+
+\0Une greffe du nez ?
+\0(촀\0 Nan, j'arrive pas
+à mettre le doigt dessus."

@@ -142,20 +142,36 @@ bisschen?
 \0(*촀\0 Ich frier ja schon bei
 deinem Anblick, 
 \0n\0!"
-"016","(촀\0Oh,
+"016","<"
+"016_01","(촀\0Oh,
 \0 n\0n\0\0 
 \0Dein Outfit heute
 entspricht der edlen Süße von
 2촂촀.
 (촀\0Und schon hab ich Hunger auf
 2촁촀n"
-"017","(9촀\0Du hast heute ja mal echt was Cooles
+"016_02","(:촀\0Wow.
+\0 Du hast heute dein Outfit auf
+2(촀deinen
+deinedein 2촁}촀 abgestimmt,
+\0 hm?\0\0(촀\0Großartig.
+\0 Dein Sinn für Mode haut
+mich um,
+\0 n\0."
+"017","<"
+"017_01","(9촀\0Du hast heute ja mal echt was Cooles
 an,
 \0 n\0!\0\0(1촀\0Wenn ich erst mal als Star 2!촀desderdes
 2촃촀 durch die Welt toure,
 \0
 muss ich auch so was tragen!"
-"018","(&촀\0Beim Outfit gehst du heute wohl auf
+"017_02","(촀\0Ich bin ja total neidisch auf 2(촀deinen
+deinedein
+2촁}촀!\0\0(촀\0Als hättest du die nächste Stufe der
+Mode erreicht,
+\0 n\0!"
+"018","<"
+"018_01","(&촀\0Beim Outfit gehst du heute wohl auf
 Nummer sicher?
 \0 (%촀\0So was Klassisches
 kommt schließlich nie aus der Mode.\0\0(촀\0Nicht missverstehen!
@@ -163,7 +179,19 @@ kommt schließlich nie aus der Mode.\0\0(촀\0Nicht missverstehen!
 trag zwar gerne Verrückteres,
 \0 aber
 (촀\0dein schlichter Look gefällt mir auch!"
-"019","(촀\0Boah! 
+"018_02","(&촀\0Zurück zu den Basics 
+\0mit 2.촀deinemdeinerdeinem
+}촀,
+\0 hm?\0\0(9촀\0Find ich gut.
+\0((촀\0 Nicht,
+\0 dass du meine
+Zustimmung brauchst,
+\0 aber vielleicht
+brauche ich deine?\0\0Stimmst du meiner Zustimmung zu,
+
+\0n\0?"
+"019","<"
+"019_01","(촀\0Boah! 
 \0Du hast den Schickimicki-
 Regler heute wohl auf Anschlag
 hochgedreht!\0\0(&촀\0Was ist der Anlass?
@@ -175,10 +203,31 @@ heute ist die Launch-Party?\0\0(촀\0Ich wüsste das schon gern,
 mich selbst einladen und allen sagen
 kann,
 \0 wie sehr ich dich inspiriert hab."
-"020","(촀\0Mit DEM Outfit könntest du glatt
+"019_02","(6촀\0Ich weiß nicht, ob du tanzt,
+\0 aber in
+diesem Outfit siehst du aus, als
+könntest du es,
+\0 n\0.
+()촀\0Von mir sagen manche,
+\0 ich hätte
+zwei linke Füße.
+\0 Das sorgt für einen
+einzigartigen Tanzstil!
+\0 (촀\0Ha-HA!"
+"020","<"
+"020_01","(촀\0Mit DEM Outfit könntest du glatt
 in der nächsten Ausgabe von
 „⁠Aktiv und gesund“ posieren!"
-"021","(촀\0Du hast dich ja in Schale geworfen
+"020_02","(6촀\0Oh,
+\0 hey! 
+\0Gehst du zum Sport?
+\0 Wegen
+2촀desderdes 2촃}촀, 
+\0meine ich.\0\0(촀\0Das wäre nichts für mich.
+\0 Ich bleib
+2(%촀beimbei derbeim 2촂촀."
+"021","<"
+"021_01","(촀\0Du hast dich ja in Schale geworfen
 heute!
 \0((&촀\0 Sag bloß, 
 \0da wartet noch 'ne
@@ -188,6 +237,17 @@ fetzige Feier auf dich, 
 wär ich gern dabei!
 \0 (5촀\0Keiner bringt
 mehr Stimmung ins Haus als ich!"
+"021_02","(1촀\0Hmm,
+\0 dein Outfit heute schreit
+geradezu vor Eleganz, 
+\0n\0.\0\0(촀\0Nein,
+\0 besser gesagt...
+\0 Es SINGT
+geradezu!
+\0 Und zwar im Falsett,
+\0 und
+jeder Ton sitzt!
+\0 (촀\0Ha-HA!"
 "101","<"
 "101_01","(촀\0He, he.
 \0 Das scheint dein einziges
@@ -307,6 +367,42 @@ von deiner eleganten Seite,
 Egal, 
 \0ob Dinnerparty der High
 Society oder 촀."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0Wie ich sehe,
+\0 trägst du heute etwas
+Handgefertigtes, 
+\0n\0.\0\0(&촀\0Hat das deine Mutter gemacht?
+\0
+(촀\0Sie sollte wirklich eine Karriere als
+Modedesignerin in Betracht ziehen!"
+"216","( 촀\0Hui, 
+\0trägst du da etwa offizielles
+DAL-Merchandise, 
+\0n\0?\0\0(촀\0Dass DAL hervorragenden Service
+bietet, 
+\0war mir bekannt –
+\0 aber nicht,
+\0
+dass es ein DAL-Modelabel gibt!\0\0(3촀\0Ich könnte ja mal nachfragen,
+\0 ob ich
+als Influencer nicht auch ein paar
+Sachen gesponsert bekomme..."
+"217","( 촀\0Du siehst aus, 
+\0als wärst du auf dem
+Weg zu einer Kostümparty! 
+\0(&촀\0Hast du
+dich denn auch gut vorbereitet?\0\0(&촀\0Sitzt dein Text? 
+\0Hast du dich mit den
+Eigenschaften deiner Figur vertraut
+gemacht? 
+\0Choreographien geübt?\0\0(촀\0Was soll das heißen,
+\0 „ist doch kein
+Filmdreh“?
+\0 (촀\0Wer so lebt wie ich,
+\0 für
+den ist jeder Tag ein Blockbuster!"
 "251","(촀\0Dein katzenhaftes Outfit heute ist
 wirklich ein wahrer Hingucker.\0\0(촀\0Vielleicht trittst du damit ja sogar
 einen neuen Trend los? 
@@ -341,6 +437,63 @@ dass du mich dieses Jahr auf der
 direkt auf den Laufsteg hüpfen,
 \0
 n\0!"
+"255","(촀\0Hui,
+\0 nun sieh sich einer mal uns
+zwei an! 
+\0('촀\0In vielen Fällen wirkt ein
+Partnerlook ja sehr gezwungen...\0\0(촀\0Aber du und ich? 
+\0Wir beide könnten
+hier auf n\0 (촀\0sicherlich einen neuen Trend lostreten!"
+"256","(촀\0Wie springfidel und quietschvergnügt
+du heute aussiehst, 
+\0n\0!\0\0(촀\0Die langen Löffel und das Puschel-
+schwänzchen stehen dir einfach ganz
+bezaubernd,
+\0 n\0!"
+"257","(촀\0Moment mal... 
+\0(촀\0Hab ich dich nicht
+letzten Sommer auf einer unserer
+Familienfeiern gesehen?\0\0(촀\0Bist du nicht 20ein Cousineine Cousine dritten
+Grades mütterlicherseits? 
+\0Nein?\0\0(촀\0Ach so, 
+\0das ist nur ein besonderes
+Outfit, 
+\0das du gerade trägst! 
+\0(촀\0Dann
+vergiss, 
+\0was ich gesagt habe."
+"258","(6촀\0Wie ich sehe, 
+\0zeigst du dich heute
+mal von deiner wilden, 
+\0ungezähmten
+Seite, 
+\0hm? 
+\0(!촀\0Gefällt mir!\0\0(촀\0Aber sag mal, 
+\0sind so ein dichter
+Pelz und die langen Krallen nicht
+unglaublich pflegeintensiv?"
+"259","(촀\0Deine Locken sehen toll aus heute!
+\0
+(촀\0Wie machst du das nur, 
+\0dass die so
+schön fluffig sind?
+(2촀\0Du musst mir unbedingt verraten,
+\0
+welches Shampoo du nimmst! 
+\0Ich will
+genau DIESEN Look, 
+\0n\0!"
+"260","(촀\0An diesem Outfit gibt es nichts,
+\0 das
+ich nicht liebe,
+\0 n\0!\0\0()촀\0Wie ich hörte,
+\0 soll Kunstwolle nicht
+nur äußerst weich sein, 
+\0sondern beim
+Waschen auch nicht eingehen!\0\0(촀\0Pflegeleicht UND stylish!
+\0 Zwei
+Eigenschaften,
+\0 die ich mir lobe!"
 "301","( 촀\0Sag bloß, 
 \0du bist auch auf dem Weg
 zum Vorsprechen für eine Rolle in
@@ -404,6 +557,38 @@ Planst du gar etwas... 
 n\0?\0\0(9촀\0Was immer es sein mag...
 \0
 (촀\0Ich bin dabei!"
+"307","(1촀\0Hach jan\0\0 
+\0Der Anblick deines Outfits
+versetzt mich geradewegs zurück in
+meine Jugend, 
+\0n\0n\0\0\0\0(%촀\0Damals, 
+\0als ich 2촀derdiedas wohl beliebteste
+n\0 der Schule war...
+\0 und
+Landesbester im 촀.\0\0(촀\0Doch dann sollte ich als verdeckter
+Ermittler für die Regierung einen
+Schmugglerring ausheben, 
+\0und...
+(2촀\0Naaa gut, 
+\0Teile dieser Erzählung
+stammen womöglich aus einem
+meiner zahlreichen Drehbücher... "
+"308","(촀\0Oha! 
+\0Unterwegs zu einer kleinen
+Radtour? 
+\0Klingt reizvoll, n\0.\0\0Ich würde mich dir ja nur zu gern
+anschließen, 
+\0(촀\0aber der Fahrtwind
+wäre leider Gift für meine Frisur."
+"309","(촀\0Hui! 
+\0Solch ein extravagantes Outfit
+kann wirklich nicht 2
+jederjede tragen!
+\0 (촀\0An
+dir sieht es aber richtig trendy aus!\0\0(촀\0Ich sollte meine Garderobe lieber
+mal einem Style-Check unterziehen,
+\0
+bevor du mir noch die Show stiehlst!"
 "401","<"
 "401_01","(촀\0Habe ich dich nicht schon einmal in
 diesem Aufzug gesehen?\0\0(촀\0Ist es etwa gerade in Mode,
@@ -428,7 +613,38 @@ Was ich eigentlich meinte,
 \0
 dass du dich in diesem Aufzug
 besonders wohlzufühlen scheinst."
-"401_03","(%촀\0Ich bin jedesmal hin und weg,
+"401_03","(%촀\0Ich bin jedes Mal hin und weg,
 \0 wenn
 ich dich in diesem Outfit sehe.\0\0(5촀\0Es gibt nichts, 
 \0das diesen speziellenn\0-Look so sehr verkörpert wie dieses Ensemble!"
+"501","<"
+"501_01","(촀\0Wow, 
+\0da hat sich aber jemand
+hübsch gemacht!
+\0( (%촀\0Dieser Look steht
+dir richtig gut,
+\0 n\0."
+"501_02","(촀\0Irgendwas an dir ist heute anders.
+\0(
+Hmmmn\0\0
+\0 (&촀\0Hast du dir vielleicht die
+Haare anders geföhnt?\0\0(촀\0Ha-HA! 
+\0Nur ein Scherz. 
+\0Mir gefällt
+dein neuer Look ausgesprochen gut!
+\0
+(촀\0Er schreit geradezu „n\0“!"
+"501_03","(:촀\0n\0\0
+\0((촀\0Oh, 
+\0tut mir leid! 
+\0Hab ich dich etwa
+angestarrt?
+\0 ()촀\0Liegt wohl daran, 
+\0dass
+du heute irgendwie anders aussiehst.\0\0(촀\0Aber, 
+\0ähn\0\0 gut anders, 
+\0nicht schlecht
+anders! 
+\0(촀\0\0Puh,
+\0 gerade noch mal so die
+Kurve gekriegt...\0￿"

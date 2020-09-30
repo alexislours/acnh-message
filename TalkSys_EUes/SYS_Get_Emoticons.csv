@@ -3,6 +3,12 @@
 \0Ensoñación\0￿!
 \0 (1촀\0Dejaré volar
 la imaginaciónn"
+"AddPrank","¡He aprendido la emoción \0Susto\0￿!
+\0
+(>촀\0¡Buuuuuh!"
+"AddScaring","¡He aprendido la emoción \0Espanto\0￿!
+\0
+(?촀\0¡Ay de quien no me dé chuches!"
 "Apologize","¡He aprendido la emoción
 \0Disculpa\0￿!
 \0 (#촀\0Hay que saber
@@ -39,9 +45,13 @@ por la vida con seguridad!"
 "HappyDance","¡He aprendido la emoción \0Júbilo\0￿!
 \0
 (촀\0¡Qué bien me siento!"
-"HappyFlower","¡Ya puedo expresar emociones!
+"HappyFlower","¡He aprendido una \0emoción\0￿!
 \0
-(촀\0Así podré transmitir a los demás
+(촀\0Ahora podré transmitir a los demás
+lo que siento."
+"HappyFlower_1","¡He aprendido cuatro \0emociones\0￿!
+\0
+(촀\0Ya podré transmitir a los demás
 lo que siento."
 "Hello","¡He aprendido la emoción \0Agrado\0￿!
 \0

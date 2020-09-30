@@ -2,6 +2,10 @@
 "AbsentMindedness","I learned the \0Daydreaming\0￿ \0Reaction\0￿!
 \0
 (1촀\0So much to dream about!"
+"AddPrank","I learned the \0Scare Reaction\0￿!
+(>촀\0RAWR!"
+"AddScaring","I learned the \0Haunt Reaction\0￿!
+(?촀\0Time to trick-or-treat!"
 "Apologize","I learned the \0Apologetic\0￿ \0Reaction\0￿!
 \0
 (#촀\0Sorry I didn't know about this before!"
@@ -36,9 +40,13 @@
 "HappyDance","I learned the \0Glee\0￿ \0Reaction\0￿!
 \0
 (촀\0I'm feeling pretty good right now!"
-"HappyFlower","I can use \0Reactions\0￿ now!
+"HappyFlower","I learned a \0Reaction\0￿!
 \0
 (촀\0These gestures will help me
+express my feelings!"
+"HappyFlower_1","I learned four \0Reactions\0￿!
+\0
+(촀\0These gestures can help me
 express my feelings!"
 "Hello","I learned the \0Pleased\0￿ \0Reaction\0￿!
 ($촀\0I'm feeling very pleased with myself

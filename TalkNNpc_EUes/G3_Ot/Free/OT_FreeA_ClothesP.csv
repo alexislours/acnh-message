@@ -137,7 +137,8 @@ que tú has entrado en (촀\0código rojo,
 (촀\0¡Así es como se pillan los resfriados!
 \0
 (촀\0\0(Ponte una bufanda por lo menosn\0\0)\0￿"
-"016","(촀\0Cielo,
+"016","<"
+"016_01","(촀\0Cielo,
 \0 qué monada de }촀 me llevas hoy,
 \0 (촀\0¡es simplemente adorable!\0\0(%촀\0Cuando un2oa va fabulos2oa,
 \0 también
@@ -145,20 +146,45 @@ se siente fabulos2oa.
 \0 ()촀\0Te lo digo yo,
 \0
 que tengo muchísima experiencian"
-"017","(촀\0Pero n\0, querid2oa,
+"016_02","( 촀\0Cariño,
+\0 qué aspecto tan dulce,
+\0
+(촀\0¡estás para comerte!\0\0()촀\0Tienes que ponerte más es2촀ea\0 }촀,
+\0 (촀\0es exquisit2촀oa\0.\0\0(7촀\0Caramba,
+\0 ahora no sé si tengo ganas
+de comprarme algo parecidon\0\0
+\0 o de
+comerme 2\0촀."
+"017","<"
+"017_01","(촀\0Pero n\0, querid2oa,
 \0 tú vas muy modern2oa,
 \0 ¿no?
 \0 (촀\0Quién te ha visto y quién te ven\0\0\0\0()촀\0Con tu personalidad arrolladora
 y 2촀eseesa\0 }촀,
 \0 (촀\0¡estás imparable!"
-"018","(촀\0Me gusta la sencillez con que vistes
+"017_02","(촀\0¡Cielo, qué aspecto tan sofisticado
+te da tu }촀!
+\0 (%촀\0Pareces otr2oa.\0\0(촀\0¡Huy!
+\0 Eso pretendía ser un cumplido
+(촀\0y ha sonado a lo contrario.
+\0 ¡Perdón!\0\0(7촀\0El caso es que me gusta el conjunto
+y te sienta (촀\0como un guante, n\0."
+"018","<"
+"018_01","(촀\0Me gusta la sencillez con que vistes
 tu }촀.
 \0 Se te ve muy cómod2oa.\0\0(촀\0A veces se diría que los diseñadores
 de moda se olvidan del confort
 en beneficio de la estétican\0\0
 (촀\0No está de mal recordar que
 el bienestar es lo primero, n\0."
-"019","(촀\0Querid2oa, ¡qué lujo!
+"018_02","(1촀\0Ah,
+\0 la sencillez de 2\0}촀 bien llevad2촀oa\0 no tiene parangónn\0\0\0\0(촀\0A veces puedo ser algo barroca para
+la ropa,
+\0 lo admito.
+\0 (촀\0Tu minimalismo
+es toda una lección, n\0."
+"019","<"
+"019_01","(촀\0Querid2oa, ¡qué lujo!
 \0 ¿Cuál es la
 ocasión tan especial
 \0 (촀\0y por qué
@@ -166,7 +192,17 @@ nadie me ha invitado?
 ()촀\0He de decir que tu }촀 es sencillamente (%촀\0fabulos2촀oa\0.\0\0Si fuera tú,
 \0 (6촀\0yo no me l2촀oa\0 quitaría
 ni para ducharme, n\0."
-"020","( 촀\0Querid2oa, sabes que si necesitas
+"019_02","(촀\0Querid2oa,
+\0 hemos encontrado tu misión
+en la vida:
+\0 (촀\0naciste para llevar
+es2촀ea\0 }촀.
+(촀\0Qué sofisticación, n\0,
+\0 cuánta clase y glamourn\0\0\0\0(%촀\0Te lo digo yo,
+\0 que de eso (5촀\0sé
+un rato largo, n\0."
+"020","<"
+"020_01","( 촀\0Querid2oa, sabes que si necesitas
 consejos de estilo (7촀\0me puedes
 preguntar a mí,
 \0 ¿verdad?
@@ -177,7 +213,17 @@ preguntar a mí,
 cada uno nuestra especialidad,
 \0
 no sé si me entiendesn"
-"021","(촀\0¡Bravo, n\0,
+"020_02","()촀\0Te tengo por una persona dinámica
+\0
+y tu }촀 (%촀\0confirma esa apreciación.\0\0Muy bien elegid2촀oa\0, sí.
+\0 (1촀\0¿Acaso no es
+la moda otra forma de expresión?\0\0(촀\0Aunque, por si acaso,
+\0 no te expreses
+demasiado,
+\0 (6촀\0o l2촀oa\0 vas a dejar sudadit2촀oa\0
+perdid2촀oa\0, n\0."
+"021","<"
+"021_01","(촀\0¡Bravo, n\0,
 \0 bravo!
 \0
 (1촀\0Qué estilo,
@@ -191,6 +237,10 @@ influencia positiva entre quienes me
 rodean.
 \0 (촀\0Sigue así,
 \0 ¡nunca cambies!"
+"021_02","(촀\0¿Sabes lo que pienso cuando te veo con es2촀ea\0 }촀 tan elegante?\0\0(3촀\0Que más vale que los vecinos no
+nos vean junt2oasn\0\0
+\0 (촀\0¡No queremos que
+nadie le prenda fuego a su armario!"
 "101","<"
 "101_01","(촀\0Te encanta ese modelo que llevas,
 \0
@@ -295,6 +345,46 @@ el plagio estilístico, n\0."
 \0 (6촀\0¿O vienes?\0\0(2촀\0Si necesitas compañera de baile,
 \0
 yo me dejo llevar, n\0n"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(촀\0¡Qué bien te sienta eso que llevas!
+\0
+(촀\0Hasta la mochila parece hecha
+a medidan\0\0
+( 촀\0Espera,
+\0 he acertado, ¿no?
+\0
+(촀\0Es ropa hecha a mano, n\0.\0\0(촀\0¡Qué prendas tan únicas y exclusivas
+llevas a veces!
+\0 ¿De qué revista sacas
+las ideas?
+\0 (%촀\0Me quiero suscribir.
+Aunque eso ('촀\0no lo has copiado de
+ninguna parte, ¿a que no?
+\0 ()촀\0Te lo ha
+hecho alguien que te quiere.
+\0 Se nota."
+"216","(;촀\0Tú vuelas mucho, ¿no?
+\0 Veo que los
+dodos (6촀\0te lo recompensan con todo
+tipo de regalos de la marca.
+(&촀\0¿O te los compras con tus propias
+bayas?
+\0 (촀\0El logotipo tiene su aquel,
+\0
+no te digo yo que non\0\0
+(촀\0En cualquier caso,
+\0 vas muy
+conjuntad2oa, n\0n\0\0
+\0
+\0(Por no decir «corporativizad2oa»).\0￿"
+"217","(촀\0Me encanta el conjunto que llevas
+hoy, oye.
+\0 Es oscuro y aterradorn\0\0\0\0(%촀\0Es ideal para una fiesta de disfraces
+y le da un toque atrevido a tu día.
+\0
+($촀\0¡Un acierto, n\0!"
 "251","(촀\0Me gusta pensar que soy una buena
 influencia sobre cuantos me rodean,
 \0
@@ -327,6 +417,65 @@ tanto como yon\0\0
 al agua?
 \0 (6촀\0Porque me parece un
 detalle importante, n\0n"
+"255","(;촀\0Nunca imaginé que alguien
+me quitaría el título no oficial
+de conej2oa más mon2oa de la islan\0\0
+(촀\0Pero, si alguien tiene que hacerlo,
+\0
+(촀\0me alegra que seas tún\0\0\0\0(촀\0\0(Y que te puedas quitar las orejitas
+cuando te canses y devolverme
+el puesto, gracias.)\0￿"
+"256","(촀\0Eres 2*un conejouna coneja adorable,
+\0 n\0,
+\0 (촀\0¡con tus orejitas y todo!\0\0(&촀\0¿A qué se debe ese cambio de look?
+\0
+(촀\0¿O de especie?\0\0( 촀\0Que no tengo nada en contra, oye,
+\0
+al contrario.
+\0 (촀\0¡Cada cual es libre
+de ser lo que quiera, n\0!"
+"257","(촀\0¡Bienvenid2oa a la comunidad osa, n\0!
+\0 (%촀\0Te veo muy metid2oa en el papeln\0\0\0\0()촀\0Espero que eso te ayude a conocer
+mejor cómo soy por dentro:
+\0 (촀\0cálida,
+suave y blandita, n\0."
+"258","(촀\0Qué mullidit2oa te veo hoy, cielo.
+\0
+Se tiene que estar calentit2oa
+ahí dentro, ¿no?
+(6촀\0La próxima vez que se me averíe
+la calefacción,
+\0 ya sé qué ponerme.\0\0(촀\0Además, será toda una experiencia,
+\0
+¡como estar en la piel de otra!
+\0
+(&촀\0¿Qué se siente, n\0?"
+"259","(&촀\0¿Qué tenemos aquí?
+\0 ¿Has decidido
+que mi gracejo y buena presencia
+se deben a mi alto contenido lanar?
+(촀\0Pues siento decepcionarte:
+\0
+servidora es (5촀\0inimitable, n\0⁠.\0\0Dicho lo cual,(촀\0
+\0 estás maravillos2oa
+y aplaudo la elección.
+\0 Es más,
+\0 (촀\0te
+puedo hacer alguna recomendaciónn\0\0
+()촀\0Por ejemplo,
+\0 uso un acondicionador
+de pelo fantásticon\0\0( 촀\0
+\0 aunque lo que tú
+necesitas
+\0 (6촀\0es suavizante para la ropa."
+"260","(촀\0¿Se celebra algún baile de disfraces
+y no he sido invitada?\0\0(촀\0Claro que, si el tema de la fiesta
+es «Animales»,
+\0 (촀\0nací preparada, n\0⁠.\0\0(촀\0Te sienta bien el estilo ovino,
+\0 cielo.
+\0
+Pero (6촀\0no empieces a dar vueltas
+a mi alrededor o me dormiré."
 "301","()촀\0Con ese traje, pareces alguien
 importante, n\0n\0\0\0\0(촀\0¡Quiero decirn\0\0
 \0!
@@ -374,6 +523,33 @@ caliente, n\0."
 \0 espero que
 a la vuelta me cuentes (촀\0TODOS
 los detalles, n\0."
+"307","(;촀\0Pero ¿cómo sales así a la calle?
+\0
+¿Te has olvidado de vestirte
+después de la ducha?
+('촀\0A mí solo me verás de esa guisa
+si me invitas a un balneario,
+\0
+ya te lo digo, n\0n"
+"308","(촀\0¡El ballet llegó a n\0!
+\0 ¿Cuándo es la actuación?
+\0 (촀\0No me la perdería por nada.\0\0(1촀\0Ya te imagino haciendo pliés,
+\0
+saltos,
+\0 arabescos y piruetasn\0\0\0\0(촀\0Mejor paro.
+\0 Como siga imaginando,
+\0
+me acabaré ahorrando la entrada,
+n\0."
+"309","(!촀\0¡Ay, pero qué monada de bebéeeeee!\0\0( 촀\0Disculpa,
+\0 ejem,
+\0 vaya forma de perder
+la compostura(2촀\0n\0\0
+\0 No he podido
+resistirme.\0\0(촀\0Es que dan ganas de achucharte
+y hacerte carantoñas
+\0 (6촀\0hasta que
+aprendas a decir «n\0»."
 "401","<"
 "401_01","(촀\0Otra vez con ese conjunto,
 \0 ¿eh?
@@ -412,3 +588,35 @@ y a locas.
 \0 como el amor,
 \0
 requiere compromiso, n\0."
+"501","<"
+"501_01","(촀\0¡Te has hecho un cambio de imagen!
+\0
+Sabia decisión, (%촀\0n\0.\0\0(촀\0Espera,
+\0 ¡no quería decir eso!
+\0
+(7촀\0No es que lo necesitases ni nadan\0\0\0\0()촀\0Solo quería decir que, para hallar
+qué te sienta mejor,
+\0 no puede un2oa
+estancarse:
+\0 hay que probar cosas.
+(촀\0\0(Uf, creo que he salvado la papeleta,
+n\0n\0\0)\0￿"
+"501_02","(촀\0Me gusta que cambies de imagen,
+cielo.
+\0 La estética ()촀\0no es solo cuestión
+de estilo:
+\0 también expresa tu ánimo.
+(촀\0La pregunta es:
+\0 ¿cómo te sientes
+hoy y qué querías expresar?
+\0 Todo
+un misterion\0\0
+\0 (촀\0¡Has sabido intrigarme!"
+"501_03","(촀\0Tu nueva imagen es muy interesante,
+corazón.
+\0 (&촀\0¿Sacaste la idea de alguna
+revista?
+( 촀\0¡Qué digo!
+\0 Tú eres más bien (6촀\0de la
+generación de tutoriales en internet,
+n\0."

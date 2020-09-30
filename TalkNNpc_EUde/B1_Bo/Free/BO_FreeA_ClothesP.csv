@@ -154,7 +154,8 @@ eine Wette abgeschlossen oder so,
 \0warte... 
 \0(6촀\0Du hast wahrscheinlich so
 scharf gegessen, dass dir heiß ist!"
-"016","(촀\0Au fein, 
+"016","<"
+"016_01","(촀\0Au fein, 
 \0wie niedlichn\0\0
 \0
 (촀\02\02\0}촀!
@@ -166,7 +167,15 @@ Steht dir spitzenmäßig!\0\0(\0촀\0Ich mag so was ja auch sehr.
 beim Nachtisch, 
 \0n\0!
 \0(촀"
-"017","(;촀\0Ui, 
+"016_02","(촀\0Was trägst du denn da Schönes?
+\0
+2""촀
+EinenEineEin }촀?\0\0(2촀\0Mein Bauchi macht ganz komische
+Geräusche, 
+\0wenn ich dich sehe...\0\0(촀\0Vielleicht kann ich es ja mit etwas
+촀 besänftigen!"
+"017","<"
+"017_01","(;촀\0Ui, 
 \0n\0.
 \0 Du siehst aber cool aus!
 \0 (촀\0Trägst du da 2""촀
@@ -176,7 +185,17 @@ Gesicht dafür. 
 so.
 \0 (촀\0Ich bin neidisch, 
 \0n\0!"
-"018","(촀\02\02\0}촀,
+"017_02","(촀\0Komisch. 
+\0Es wird ja gar nicht kälter,
+\0
+wenn ich neben dir und 2.촀deinemdeinerdeinem
+2촂}촀 stehe!\0\0(촀\0Wie doofn\0\0 
+\0Und ich dachte, 
+\0()촀\0mit ein
+paar coolen Klamotten könnt ich mir
+dieses Jahr die Klimaanlage sparen!"
+"018","<"
+"018_01","(촀\02\02\0}촀,
 \0
 2촀dendiedas du trägst,
 \0 ist schlicht, 
@@ -187,7 +206,15 @@ tragen, 
 \0
 (2촀\0Ich bin ganz neidisch, 
 \0n\0."
-"019","(촀\0Ooooooh, 
+"018_02","(촀\0Wirklich total schick, 
+\02,촀dieser
+diesedieses
+}촀!\0\0(\0촀\0An dir sehen selbst ganz normale
+Sachen aus wie „Hoch Kuhtür“,
+\0 (""촀\0oder
+wie sich dieser Modestil nennt."
+"019","<"
+"019_01","(촀\0Ooooooh, 
 \0was für eine Kleiderpracht!
 \0
 2\02\0}촀 ist
@@ -198,7 +225,18 @@ das, 
 wahrscheinlich zu einer edlen Party
 oder so was abholen, 
 \0n\0!"
-"020","2""촀
+"019_02","(촀\0Im Wörterbuch findet man neben
+„umwerfend“ bestimmt ein Bild von
+2.촀deinemdeinerdeinem 2촂}촀!
+(촀\0Steht dir richtig gut, 
+\0so was! 
+\0(Wenn
+ich 2촀dendiedas tragen würde, 
+\0(7촀\0käm ich mir
+bloß verkleidet vor,
+\0 n\0..."
+"020","<"
+"020_01","2""촀
 EinenEineEin 2촁}촀
 trägst du heute?
 \0 (%촀\0Sicher praktisch,
@@ -206,7 +244,14 @@ wenn man sich viel bewegen will.\0\0()촀\0Da bekomm ich ja vom Zusehen fast
 schon Lust auf Sport. 
 \0($촀\0Aber ich glaub,
 ich werd doch lieber noch was essen."
-"021","(촀\0Deine Kleidungn\0\0
+"020_02","(촀\02$촀Dein
+DeineDein }촀 steht dir echt super, 
+\0n\0!\0\0()촀\0So ein Look passt voll gut zu dir.
+\0
+Wie knallbunte Streusel auf einer
+Riesenportion Schlagsahne!"
+"021","<"
+"021_01","(촀\0Deine Kleidungn\0\0
 \0 Ist das 2\0}촀?!
 \0 (촀\0Sieht sehr modisch aus. 
 \0Äh, he he he.\0\0(1촀\0Könnt ich mich auch so fein machen,
@@ -215,6 +260,14 @@ wenn ich's versuche?
 \0 (2촀\0Vielleicht in
 ein paar Jahren mal, 
 \0n\0..."
+"021_02","(촀\0Bist du unterwegs zu einer schicken
+Veranstaltung oder warum trägst du
+2,촀diesen
+diesedieses 2촁}촀?
+(4촀\0Dir steht einfach alles toll,
+\0 aber in so
+feinen Sachen siehst du gleich noch
+(촀\0ein Fitzelchen toller aus!"
 "101","<"
 "101_01","(촀\0Dieses Outfit magst du wirklich sehr,
 \0
@@ -342,6 +395,34 @@ fein rausgeputzt!\0\0(1촀\0Ob mir so was auch stehen würde?
 \0
 Aber bestimmt wären da schon nach
 fünf Minuten Schokoflecken drauf..."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","($촀\0Sind die Sachen, 
+\0die du da trägst,
+\0
+etwa handgemacht? 
+\0(촀\0Da muss dich
+aber jemand ganz doll liebhaben!\0\0(촀\0Ich trag Klamotten von meiner Mama
+nur selten. 
+\0(촀\0Aber auch nur deshalb,
+\0
+weil ich die nicht vollkrümeln mag!"
+"216","(촀\0
+\0Boah! 
+\0Du hast ja ganz viele Sachen
+von DAL an!\0\0(촀\0Ich hab immer gedacht, 
+\0dass nur
+die Angestellten von DAL so tolle
+Kleidung geschenkt bekommen.\0\0(촀\0Da hab ich wohl wieder was Neues
+dazugelernt, 
+\0n\0!"
+"217","(촀\0Sieht aus, 
+\0als hättest du jede Menge
+Spaß mit deinem Kostüm!\0\0(6촀\0An Halloween könntest du in diesem
+Aufzug bestimmt jede Menge Süß-
+kram abstauben,
+\0 n\0."
 "251","(촀\0Hey, 
 \0sieh uns beide mal an!
 \0
@@ -383,6 +464,49 @@ ich ja schon. 
 \0(촀\0Aber auch ganz dolle
 beeindruckt, 
 \0n"
+"255","(""촀\0Tolles Outfit, 
+\0das du da anhast!\0\0(%촀\0Die Ohren haben genau die richtige
+Größe, 
+\0das Stummelschwänzchen
+sitzt an der richtigen Stelle...\0\0(촀\0Willkommen im Häschen-Club, 
+\0n\0!"
+"256","(촀\0Du siehst heute fast wie ein echter
+Hase aus! 
+\0Bist du etwa gerade auf
+der Suche nach Möhrchen? \0\0(촀\0Gäb's Möhren auch mit Schoko-
+geschmack, 
+\0würd ich garantiert
+noch viel öfter Gemüse essen!"
+"257","( 촀\0Boah, 
+\0n\0!
+\0 In diesem Aufzug siehst du beinahe aus wie ein echter Bär!\0\0()촀\0Wenn die Leute uns hier so reden
+sehen, 
+\0(2촀\0halten die uns jetzt bestimmt
+für 2&BrüderGeschwister oder so!"
+"258","(촀\0Wunderbärchen siehst du heut aus!
+\0(
+(촀\0Und das mein ich im wahrsten Sinne
+des Wortes,
+\0 n\0!"
+"259","(촀\02,촀Dieser
+DieseDieses }\0\0
+steht dir wirklich toll! 
+\0Dagegen seh
+ich schon fast langweilig aus.\0\0(%촀\0Aber kein Wunder, 
+\0mit zwei so tollen
+Hörnern auf dem Kopf! 
+\0Die machen
+nämlich ganz schön was her!"
+"260","(촀\0Du siehst genauso flauschig aus
+wie ein richtiges Schaf, 
+\0in 2.촀deinemdeinerdeinem
+2촂}\0\0.\0\0(1촀\0Flauschige Wolle erinnert mich immer
+an flauschige Bettwäsche.\0\0(%촀\0Schon praktisch, 
+\0so ein Leben als
+Schaf. 
+\0(촀\0Ist man mal müde,
+\0 hat man
+sein Bettzeug immer griffbereit!"
 "301","(촀\0Ich glaub, 
 \0ich träume! 
 \0(촀\0Du bist doch
@@ -442,6 +566,38 @@ hunderprozentig geklärt ist..."
 „Euer Majestät“.\0\0(촀\0Doppel-Upsi! 
 \0Jetzt hab ich den
 höflichen Hofknicks vergessen!"
+"307","( 촀\0Huch! 
+\0Hast du etwa vor,
+\0 zum Mond
+zu fliegen, 
+\0n\0?!
+\0(\0촀\0\0\0(1촀\0Mich erinnert der Mond mit seinen
+vielen Löchern ja immer an einen
+riesengroßen Emmentaler Käse...
+(%촀\0Falls du mir also ein Andenken von
+dort mitbringen willst, 
+\0(촀\0so ein Stück
+Mondkäse wär echt prima!"
+"308","(촀\0So einen Aufzug hab ich schon mal
+im Geschichtsunterricht gesehen!
+\0
+Echt komisch, 
+\0die Mode damals.\0\0(촀\0Das Kopfteil sieht voll schwer aus...
+\0
+Und gruselig auch. 
+\0(+촀\0Stell dir mal vor,
+\0
+das würd neben deinem Bett hängen!"
+"309","($촀\0Bist du heute etwa als Ninja
+unterwegs, 
+\0n\0?\0\0()촀\0
+\0Öh, 
+\0ich meine... 
+\0(촀\0Ist da jemand?
+Hallo? 
+\0Ich hab doch grad noch was
+gehört! 
+\0(촀\0Verstecken gilt nicht!"
 "401","<"
 "401_01","(촀\0Du magst dieses Outfit richtig gern,
 \0
@@ -471,3 +627,25 @@ Ich finde ja, 
 mag, 
 \0(촀\0dann darf man es auch jeden
 Tag anziehen und der Welt zeigen!"
+"501","<"
+"501_01","(촀\0Irgendwas ist heut anders an dir.
+\0
+Aber ich komm nicht drauf...\0\0( 촀\0Ah,
+\0 jetzt hab ich's! 
+\0Dein Gesicht! (%촀\0Sieht schick aus,
+\0 n\0!\0\0(촀\0Seit dem Vorfall mit den Fingerfarben
+hat mir meine Mama leider verboten,
+\0
+mich rauszuputzen..."
+"501_02","(촀\0Richtig gut siehst du heut aus,
+\0 n\0!\0\0(4촀\0Ich meine,
+\0 äääh... 
+\0Du siehst natürlich
+immer toll aus, 
+\0(촀\0aber heut eben noch
+ein ganz kleines bisschen toller!"
+"501_03","(%촀\0Toll, was du mit deinem Gesicht
+gemacht hast! 
+\0(&촀\0Machst du so was
+von nun an öfter, 
+\0n\0?"

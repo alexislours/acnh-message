@@ -139,7 +139,8 @@ natürlich!\0\0(촀\0Bist du gerade von einem Urlaub in
 der Wüste zurückgekommen? 
 \0(+촀\0Hier
 fängst du dir so eine Erkältung ein!"
-"016","( 촀\02\02\0}촀?
+"016","<"
+"016_01","( 촀\02\02\0}촀?
 \0
 Uiuiuin\0\0
 \0 Da will aber jemand ganz
@@ -147,14 +148,31 @@ süß und niedlich aussehen.\0\0(%촀\0Aber vielleicht sollte ich den Stil
 auch mal ausprobieren.
 \0( (3촀\0Nur, um die
 Leute in Sicherheit zu wiegen..."
-"017","( 촀\0Hui,
+"016_02","(%촀\0Süß siehst du aus in 2.촀deinemdeinerdeinem
+2촂}촀.\0\0(촀\0Das ist doch die Absicht dahinter,
+
+\0oder?
+\0 (촀\0Ich hab keine Ahnung,
+\0 was
+heute als „süß“ durchgehtn"
+"017","<"
+"017_01","( 촀\0Hui,
 \0 du machst ja schon eine
 ganz schnieke Figur in 2.촀deinemdeinerdeinem
 2촂}촀 da!\0\0(%촀\0Passt zu dir, 
 \0das kann man nicht
 anders sagen,
 \0 n\0."
-"018","(촀\0So 2촀'n'ne'n }촀
+"017_02","(%촀\02촀DerDieDas hat ganz schön Stil, 2$촀dein
+deinedein
+}촀.\0\0(촀\0Das färbt glatt ab.
+\0 Ich fühl mich
+direkt auch stylisher,
+\0 n\0.
+(촀\0Besten Dank,
+\0 2 KleinerKleines!"
+"018","<"
+"018_01","(촀\0So 2촀'n'ne'n }촀
 soll wohl zeitlos sein, 
 \0was?\0\0(%촀\0Na ja, 
 \0wenigstens bist du nicht der
@@ -162,7 +180,16 @@ Lackaffigkeit verfallen.
 \0 (촀\0Das ist
 doch schon was,
 \0 n\0."
-"019","(촀\0Prächtig, 
+"018_02","(6촀\0Gefällt mir,
+\0 wie schlicht 2$촀dein
+deinedein
+}촀 ist.\0\0(%촀\0Es gibt schon einen Grund,
+\0 warum
+ein schlichter Look zu den Klassikern
+gehört,
+\0 n\0!"
+"019","<"
+"019_01","(촀\0Prächtig, 
 \0prächtig, 
 \0d2\0}촀!\0\0(\0촀\0Bei so 'nem Zeug
 \0 (%촀\0besteht die Gefahr,
@@ -170,7 +197,17 @@ doch schon was,
 dass du nach dem Äußeren beurteilt
 wirst. 
 \0($촀\0Aber das ist wohl der Sinn!"
-"020","( 촀\02\02\0}촀n\0\0
+"019_02","(촀\0Da sieht aber 2
+einereine fesch ausn\0\0 Was
+für 2촀eineineein }촀!\0\0(&촀\0Wo geht's denn hin?
+\0 Zum Schwofen?
+\0
+Auf die Rollschuhbahn?
+\0 (%촀\0So oder so,
+\0
+du wirst am besten angezogen sein!"
+"020","<"
+"020_01","( 촀\02\02\0}촀n\0\0
 \0($촀\0
 Magst du Kleidung, 
 \0in der man
@@ -180,12 +217,27 @@ viel weiterhelfen, 
 aus dem tiefsten Inneren. 
 \0(촀\0Gra ha ha
 ha ha!"
-"021","(촀\0Siehst ja todschick aus in 2.촀deinemdeinerdeinem
+"020_02","(%촀\0Gut siehst du aus mit 2.촀diesemdieserdiesem
+2촂}촀,
+\0 2 KleinerKleines!\0\0()촀\0Fitness ist der Schlüssel für lässiges
+Altern.
+\0 Immer richtig atmen und
+genug trinken, 
+\0n\0!"
+"021","<"
+"021_01","(촀\0Siehst ja todschick aus in 2.촀deinemdeinerdeinem
 2촂}촀!\0\0(%촀\0Die oberen Zehntausend warten
 sicher nur drauf, 
 \0dich mit offnen
 Armen zu empfangen. 
 \0(촀\0Gra ha ha!"
+"021_02","(촀\0Ich hab direkt Panik,
+\0 irgendwie 2(촀deinen
+deinedein 2촁}촀 schmutzig zu machen.\0\0('촀\0So hübsche Klamotten zu ruinieren,
+\0
+das würd ich mir nie verzeihen,
+\0
+n\0."
 "101","<"
 "101_01","Du hast wirklich einen Narren
 gefressen ($촀\0an 2.촀diesemdieserdiesem
@@ -319,6 +371,42 @@ Kleiderwahl! 
 \0Diese Stickereienn\0\0
 \0
 So etwas nenne ich Handwerkskunst."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(&촀\0Sind die Sachen,
+\0 die du da trägst,
+\0
+etwa handgemacht,
+\0 2 KleinerKleines?\0\0(%촀\0Man erkennt sofort, 
+\0dass da jemand
+viel Zeit und Liebe investiert hat!"
+"216","(9촀\0Wenn ich dich in deinen DAL-Sachen
+sehe,
+\0 muss ich direkt an meine vielen
+Flugreisen von damals denken.\0\0()촀\0Früher gab es noch auf jedem Flug
+etwas Leckeres zu essen.
+\0
+촀 zum Beispiel!\0\0(%촀\0Und zum Nachtisch gab es oft
+촀. 
+\0Das waren noch Zeiten, 
+\0ich sag's dir!\0\0(촀\0Heute kann man schon froh sein,
+\0
+wenn man ein paar Salzstangen und
+2>촀lauwarmenlauwarmelauwarmes 2촁촀 kriegt!"
+"217","Sei ehrlich, 
+\02 KleinerKleines. 
+\0Du hast dich
+bloß so angezogen, 
+\0(&촀\0weil du mich
+erschrecken wolltest, 
+\0stimmt's?
+(
+촀\0Tja,
+\0 da bist du bei mir aber falsch,
+\0
+n\0!
+\0 Mich erschreckt so gruseliger Firlefanz nicht!"
 "251","( 촀\0Versuchst du etwa, 
 \0mich zu
 imitieren,
@@ -343,6 +431,54 @@ großer Frosch-Fan bist. 
 \0(촀\0Na, 
 \0wieder
 was Neues über dich gelernt!"
+"255","(촀\0Schick siehst du heute aus, 
+\02 KleinerKleines!
+Mit diesen Ohren könnte man fast
+meinen,
+\0 wir wären verwandt! 
+\0(촀\0Fast!"
+"256","(촀\0Interessante Kleidungswahl! 
+\0War das
+Absicht, 
+\0(촀\0oder sind deine anderen
+Sachen gerade alle in der Wäsche?"
+"257","(촀\0Von dir lass ich mir keinen Bären
+aufbinden, 
+\02 KleinerKleines. 
+\0(촀\0Dass das nur ein
+Kostüm ist, 
+\0hab ich gleich erkannt!"
+"258","(&촀\0Hat das irgendeinen besonderen
+Grund, 
+\0weshalb du heute wie ein
+Bär aussiehst,
+\0 2 KleinerKleines?
+(촀\0Ist das vielleicht wieder so ein
+drolliger Trend, 
+\0von dem ich nichts
+mitbekommen habe, 
+\0n\0?"
+"259","(촀\0Wenn jetzt noch ein weiteres Schaf
+zu uns stößt,
+\0 haben wir ein echtes
+Problem, 
+\02 KleinerKleines!
+(촀\0Fangen die anderen erst mal an,
+\0 uns
+zu zählen,
+\0 ist hier auf der Insel bald
+niemand mehr wach, 
+\0n\0!"
+"260","( 촀\0Hoppla! 
+\0In diesem Aufzug hätte
+ich dich jetzt fast mit 2
+einem
+einer alten
+2 FreundFreundin von mir verwechselt!\0\0(6촀\0War 2j2ein seltsamer Zeitgenosse4eine seltsame Zeitgenossin.
+\0
+Hat 2seinen
+ihren Freunden nach Friseur-
+besuchen oft Pullover geschenkt..."
 "301","( 촀\0Gefährlich schaust du heute aus,
 \0
 2 KleinerKleines. 
@@ -380,6 +516,32 @@ Gibt nämlich nichts Schlimmeres,
 auf hoher See nichts Anständiges zu
 beißen zu haben, 
 \0n\0!"
+"307","(&촀\0Was soll denn dieser Aufzug,
+\0
+2 KleinerKleines? 
+\0Willst du etwa als Stand-
+Up-Comedian durchstarten?\0\0(촀\0Dann kennst du bestimmt den hier:
+\0
+„Kommt ein n\0 zum Arzt
+und sagt...“\0\0(9촀\0Nie gehört, 
+\0hm? 
+\0Schade.
+\0 (촀\0Mir fällt
+nämlich die Pointe nicht mehr ein!"
+"308","(3촀\0Schrilles Outfit, 
+\02 KleinerKleines! 
+\0So schrill,
+\0
+dass ich schon fast Kopfschmerzen
+davon bekomme,
+\0 n\0."
+"309","(촀\0Also mir zuliebe brauchst du dich
+nicht extra in eine glänzende
+Rüstung zu schmeißen, 
+\02 KleinerKleines!\0\0(촀\0Du würdest selbst in kurzen Hosen
+und T-Shirt noch schick wirken,
+\0
+n\0!"
 "401","<"
 "401_01","(9촀\0Du scheinst dieses Outfit wirklich
 gerne zu mögen. 
@@ -402,3 +564,29 @@ sei's drum. 
 tragen, 
 \0was du willst, 
 \0n\0."
+"501","<"
+"501_01","(%촀\0Ziemlich exzentrischer Look, 
+\0mit dem
+du da rumläufst,
+\0 2 KleinerKleines. 
+\0Aber soll
+ich dir was verraten? 
+\0(촀\0Mir gefällt er!"
+"501_02","(촀\0Also als ICH in deinem Alter war,
+\0
+wurde bei uns nicht so ein großer
+Körperkult betrieben,
+\0 n\0.\0\0('촀\0Für mich wäre dieser Look ja nichts,
+\0
+aber solange du dich damit wohl
+fühlst,
+\0 (촀\0freut's mich für dich, 
+\02 KleinerKleines!"
+"501_03","(촀\0Irgendwas an deinem Gesicht ist
+heute anders, 
+\02 KleinerKleines...\0\0( 촀\0Hast du etwa einen neuen Blick
+einstudiert? 
+\0Oder eine neue Frisur?
+\0
+(촀\0Sag nichts, 
+\0ich komm noch drauf..."

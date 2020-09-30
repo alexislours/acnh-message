@@ -152,7 +152,7 @@ para iniciar la descargan"
 usaremos?"
 "1004","(\0촀\0Gracias.
 \0 (:촀\0Ahora dame un momentito
-para buscarlo en el catálogon"
+para buscarlo en la bibliotecan"
 "1005","(\0촀\0Parece que ese \0número de sueño\0￿
 corresponde a una isla llamada
 s촀.
@@ -199,6 +199,48 @@ el control parental para poder soñar.
 (촀\0Avísame cuando lo hayas hecho,
 \0
 querid2oa."
+"1051","(촀\0Ya estamos conectados.
+\0((\0촀\0 Antes de
+seguir,
+\0 me gustaría explicarte algo
+que creo que te gustará saber.
+()촀\0A partir de ahora, si visitas un sueño
+que te guste especialmente,
+\0 podrás
+volver a visitarlo muy fácilmente.
+(촀\0Los sueños que hayas visitado
+recientemente se guardarán en
+una lista.
+(\0촀\0Para visitar de nuevo un sueño de
+esa lista,
+\0 basta con decirme que
+quieres «\0Volver a un sueño\0￿».
+($촀\0Prosigamos puesn"
+"1052","(&촀\0¿Qué clase de sueño quieres que
+prepare?"
+"1052_a","Usar número de sueño"
+"1052_b","Volver a un sueño"
+"1052_c","Déjalo"
+"1055","(\0촀\0De acuerdo.
+\0(%촀\0 Elige el sueño de la lista
+al que quieres volver."
+"1056","(\0촀\0Quieres volver a la isla llamada
+s촀.
+\0(&촀\0 ¿Es correcto?"
+"1056_a","¡Correcto!"
+"1056_b","Creo que no..."
+"1057","(촀\0Me temo que ya no existe ningún
+sueño con ese \0número de sueño\0￿,
+querid2oa.\0\0(&촀\0¿Hay algún otro sueño que quieras
+visitar hoy?"
+"1057_a","¡Sí, claro!"
+"1057_b","Pues no"
+"1058","(촀\0Mmmn\0\0
+\0 Parece que no hay ningún
+sueño que puedas volver a visitar.\0\0(촀\0Si deseas soñar,
+\0 tendrás que
+proporcionarme un \0número
+de sueño\0￿, querid2oa."
 "2001","(\0촀\0¡Faltaría más!
 \0 (9촀\0Pero antesn\0\0
 \0
@@ -211,12 +253,12 @@ Primero,
 \0 convertiré tu recuerdo de
 n	\0 en un sueño.(촀\0\0\0Y luego nos conectaremos a \0internet\0￿
 para subir el sueño y que se añada
-al catálogo."
+a la biblioteca."
 "2002_01","(촀\0¡Ah!
 \0 Hay algo más que deberías
 tener presente sobre el sueño que
-quieres compartirn\0\0\0\0(\0촀\0Sus visitantes pueden llevarse los
-diseños que hayas publicado en
+quieres compartirn\0\0\0\0(\0촀\0Sus visitantes pueden hacerse con
+los diseños que hayas publicado en
 el \0portal de diseños personalizados\0￿.\0\0(%촀\0Echa un vistazo al portal antes de
 subir el sueño por si quieres añadir
 o quitar algún diseño.\0\0(촀\0Piensa que serán como recuerdos
@@ -314,8 +356,8 @@ podemos efectuar más operaciones.
 \0 Por cierto,
 \0 hay otra cosa
 importante que debes saber sobre
-el sueño que quieres compartirn\0\0\0\0()촀\0Sus visitantes pueden llevarse los
-diseños que hayas publicado en
+el sueño que quieres compartirn\0\0\0\0()촀\0Sus visitantes pueden hacerse con
+los diseños que hayas publicado en
 el \0portal de diseños personalizados\0￿.\0\0(%촀\0Echa un vistazo al portal antes de
 subir el sueño por si quieres añadir
 o quitar algún diseño.\0\0(촀\0Piensa que serán como recuerdos
@@ -354,6 +396,11 @@ compartir el sueño,
 "3001_b","Sobre la privacidad..."
 "3001_c","Lo borramos"
 "3001_d","Dejémoslo entonces..."
+"3002_02_a","Lo actualizamos"
+"3002_02_b","Sobre la privacidad..."
+"3002_02_c","Sobre la privacidad..."
+"3002_02_d","Lo borramos"
+"3002_02_e","Dejémoslo entonces..."
 "3101","(9촀\0La precaución es lo primero,
 \0
 querid2oa n\0,
@@ -556,10 +603,10 @@ internet\0￿.
 \0 ¡Procura tenerlo listo!"
 "4003_02","(%촀\0Y te cuento una última cosa acerca
 de los visitantes que pisen tu isla
-en sueños:
-()촀\0Estos podrían llevarse los diseños
-que hayas publicado en el \0portal
-de diseños personalizados\0￿.\0\0(\0촀\0Antes de que subas tu sueño,
+en sueñosn\0\0
+()촀\0Estos podrían hacerse con los
+diseños que hayas publicado en el
+\0portal de diseños personalizados\0￿.\0\0(\0촀\0Antes de que subas tu sueño,
 \0 echa
 un vistazo al portal por si quieres
 añadir o quitar algún diseño.\0\0(촀\0A alguien podría gustarle cualquiera

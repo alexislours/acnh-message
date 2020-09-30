@@ -122,29 +122,56 @@ How're you not an icicle?\0\0(*촀\0I'm gettin' cold just looking at you.
 \0(
 (9촀\0Be careful not to get sick,
 alright, n\0?"
-"016","( 촀\0Wait! 
+"016","<"
+"016_01","( 촀\0Wait! 
 \0((촀\0Are you really wearin'
 2\0}촀?\0\0(7촀\0Huh. Well, I'm glad at least ONE
 of us can pull off that look.
 \0(
 (촀\0It works for you!"
-"017","(;촀\0Whoa! 
+"016_02","(7촀\0Just wanna say you're looking cute in
+your }촀.\0\0(촀\0That's a solid look for you.
+\0 It brings
+something all warm and fuzzy out.
+\0
+(촀\0I really dig that, n\0."
+"017","<"
+"017_01","(;촀\0Whoa! 
 \0Where'd you get
 2\0}촀?
 \0(
 (%촀\0VERY cool!\0\0(촀\0Next time you go clothes shopping,
 \0
 you GOTTA take me along!"
-"018","(6촀\0I'm lovin' how clean and simple your
+"017_02","(촀\0You are totally ROCKING your
+}촀.\0\0(6촀\0Like, I always thought you had style,
+butn\0\0
+\0 (;촀\0Whoa!"
+"018","<"
+"018_01","(6촀\0I'm lovin' how clean and simple your
 }촀 looks.\0\0(%촀\0I'm not sure that's a style I can rock,
 \0(
 (촀\0but it's got a super-refreshing feel
 on you, n\0!"
-"019","(촀\0Whoa! 
+"018_02","(6촀\0Keeping it simple with your
+}촀, huh?\0\0(%촀\0I feel you. 
+\0Some days you gotta take
+it slow and chill, n\0."
+"019","<"
+"019_01","(촀\0Whoa! 
 \0That's a totally gorgeous
 }촀!\0\0(촀\0You look like a celebrity gearing up
 to rock the red carpet!"
-"020","(촀\0Hey, n\0! 
+"019_02","(촀\0
+\0Whoa! 
+\0You look amazing! 
+\0I love
+your }촀!\0\0(%촀\0You got the glitz and glam look
+locked down today!
+\0 (촀\0I'm seriously
+impressed, n\0."
+"020","<"
+"020_01","(촀\0Hey, n\0! 
 \0I'm likin'
 your }촀.
 \0
@@ -152,13 +179,24 @@ Real sporty!\0\0(촀\0One of these days I should get in on
 the activewear thing.
 \0< (촀\0If you got any
 tips, I'm all ears, n\0."
-"021","(촀\0Whoa! 
+"020_02","(3촀\0You look ready to take on the world
+in your }촀!\0\0(\0촀\0Well, conquering the planet is gonna
+work up a MEGA sweat,
+\0 (7촀\0so remember
+to stay hydrated, n\0!"
+"021","<"
+"021_01","(촀\0Whoa! 
 \0You're looking mega elegant
 in your }촀.\0\0(2촀\0I doubt I could pull off that look. 
 \0I'm
 just not the fancy, stylish type. 
 \0You
 look great though, n\0!"
+"021_02","(;촀\0I just can't stop staring at
+your }촀.(촀\0\0\0I keep thinking I oughta get more
+fancy-time clothes.
+\0 (%촀\0Maybe it's time
+to start saving, n\0!"
 "101","<"
 "101_01","(촀\0You REALLY like that outfit, don't
 you, n\0?
@@ -244,6 +282,31 @@ you've got me rethinking my look.
 ""elegant simplicity"" thing going on.
 \0
 It's a really cool look, n\0!"
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","(\0촀\0Sweet threads! 
+\0Are those handmade?
+\0(
+(촀\0They are! 
+\0That's so rad! 
+\0Mind if I get
+a closer look, n\0?\0\0(6촀\0Wow, I love the vibe of those clothes.
+\0
+I can totally tell whoever made 'em is
+super fun to hang out with."
+"216","(\0촀\0I'm usually not big on branded merch
+that isn't for a band,
+\0 (6촀\0but I'm kinda
+digging your Dodo Airlines gear.\0\0(촀\0I guess it helps that the DAL logo
+looks like it could be for a super-chill
+촀 band, n\0."
+"217","(촀\0I'm digging that outfit. 
+\0You've got,
+like,
+\0 a scary costume thing going on.
+\0
+Way to rock it, n\0!"
 "251","(9촀\0Hey, if you're trying to get on my
 good side with that cat outfitn\0\0
 \0(촀\0it's
@@ -264,6 +327,39 @@ one of my best friends back home."
 else. 
 \0That frog outfit seriously threw
 me off, n\0."
+"255","(촀\0Look, 
+\0if you're trying to impress me
+with that rabbit outfitn\0\0
+\0 (촀\0It totally
+worked!
+\0 I love it, n\0!"
+"256","(촀\0Cool ears. 
+\0You mind if I ask you
+a favor, n\0?\0\0(3촀\0I need new pranks. 
+\0On the off chance
+those ears work, let me know if you
+hear anything juicy, OK?"
+"257","(%촀\0Being a bear is pretty rad, 
+\0don't you
+think, n\0?\0\0(촀\0My favorite part is how nobody
+expects you to wake up early for,
+like,
+\0 half the year.
+\0 (촀\0It's AWESOME!"
+"258","(4촀\0I wasn't gonna say anything, butn\0\0
+\0
+(%촀\0I'm sure your hugs are fine. 
+\0You
+don't need to dress like a bear."
+"259","(6촀\0One sheep to another, 
+\0I am so glad
+I ended up joining the flock here on
+n\0, n\0."
+"260","(%촀\0Lookin' fluffy, n\0.\0\0(\0촀\0Seriously, 
+\0you look like a great, big
+pillow,
+\0 (.촀\0and I feel like I could use a
+great, big nap, n\0n"
 "301","(8촀\0So I'm not trying to be rude, butn\0\0
 \0
 your clothes are lookin' kinda rough.\0\0(&촀\0Or maybe that's what's in style now?
@@ -310,6 +406,30 @@ machines like something from anime.\0\0(촀\0I was so mad when they broke u
 \0
 Steampunk 촀 just hasn't
 been the same since, n\0."
+"307","(촀\0Oh yeah! 
+\0I am totally feeling your
+}\0\0. 
+\0Love it!\0\0(촀\0The groovy look really works for you.
+\0
+You just look so chill, n\0!"
+"308","(&촀\0You got a wrestling match coming up
+or something, n\0?\0\0(6촀\0Don't sweat it. 
+\0You got this.
+\0 As much
+as I see you running around,
+\0 (촀\0you can
+just dodge 'em until they tire out!"
+"309","(;촀\0You. 
+\0Look. 
+\0Awesome!
+\0 And your
+}\0\0?
+\0 (촀\0Whoa!\0\0()촀\0You look tough. 
+\0You look slick. 
+\0You
+look great!
+\0 (촀\0Way to totally stinkin'
+nail it, n\0!"
 "401","<"
 "401_01","(&촀\0You really like that look, huh? 
 \0It's
@@ -326,3 +446,30 @@ wearing looks half as good on me!"
 "401_03","(\0촀\0That outfit's turning into, like,
 \0 ($촀\0the
 official n\0 costume.\0\0(촀\0Way to rock that look, n\0!"
+"501","<"
+"501_01","(촀\0I'm glad at least one of us can rock
+a look that wild, n\0.\0\0(\0촀\0I mean, you look really rad with all
+the face stuff,
+\0 (2촀\0but it's just not the
+kind of rad that'd work for me."
+"501_02","(촀\0
+\0Ha! 
+\0Your face totally reminds me of
+a cover band I was in for, like,
+\0 a day.\0\0(2촀\0We got all done up for our first show,
+\0
+drove to the venue, 
+\0then realized we
+left our gear at home two towns over.\0\0(촀\0We actually broke up onstage. 
+\0The
+drive back was MEGA awkward.
+\0 What
+a disaster, n\0!
+\0 (촀\0Bwa ha ha!"
+"501_03","(\0촀\0I dig the new face look.
+\0 (""촀\0That's some
+serious n\0 style!\0\0So, (&촀\0
+\0you got a big event thing coming
+up or something?
+\0 (촀\0'Cause if so, you're
+totally about to turn some heads!"

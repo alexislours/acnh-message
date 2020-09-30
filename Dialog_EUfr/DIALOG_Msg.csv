@@ -204,6 +204,14 @@ de l'île, les pièces dans les maisons,
 tes motifs persos et le contenu du
 panneau d'affichage.\0￿"
 "0831_a","OK"
+"0841","Veux-tu retirer le rêve
+2
+de d'\0\0s촀\0￿
+de la liste ?"
+"0841_a","Non."
+"0841_b","Oui, le retirer."
+"0842","Tes rêves favoris ne peuvent pas être
+retirés de la liste."
 "0921","Tu peux publier jusqu'à deux
 messages au cours d'un voyage."
 "0921_a","OK"
@@ -273,8 +281,8 @@ Veux-tu réessayer ?"
 "1116_b","Réessayer"
 "1117","Connexion à Internet..."
 "1118","Envoi de l'article...
-\0\0Sauvegarde en cours, n'appuie pas
-sur le bouton POWER .\0￿"
+\0\0Sauvegarde en cours, ne touche pas
+au bouton POWER .\0￿"
 "1119","La somme de \0Z\0
 \0￿va t'être restituée."
 "1119_a","OK"
@@ -696,8 +704,7 @@ tu as joué."
 "1372_a","OK"
 "1373","Mise à jour des données
 de sauvegarde...
-\0\0N'appuie pas sur
-le bouton POWER .\0￿"
+\0\0Ne touche pas au bouton POWER .\0￿"
 "1374","Les données de sauvegarde ont été
 mises à jour. Le jeu va démarrer."
 "1374_a","OK"
@@ -737,7 +744,7 @@ nombre maximal de demandes."
 "1411","Cette demande a déjà été retirée."
 "1411_a","Retour"
 "1412","Tu ne peux pas retirer de ta liste
-de meilleurs amis quelqu'un avec
+des meilleurs amis quelqu'un avec
 qui tu es en train de jouer."
 "1412_a","Retour"
 "1413","L'autre joueur a effectué une action,
@@ -791,6 +798,11 @@ raison d'une connexion de mauvaise
 qualité avec le réseau. Réactive la
 communication et réessaie."
 "1456_a","Retour"
+"1457","Tu dois te connecter à Internet avant
+d'utiliser l'appli Meilleurs amis.
+Veux-tu te connecter maintenant ?"
+"1457_a","(\0촀\0Non."
+"1457_b","Se connecter."
 "1501","Tu veux vraiment jeter aux orties tous
 les changements que tu as faits ?"
 "1501_a","Nooon !"
@@ -1075,7 +1087,7 @@ pour \03 000 clochettes\0￿.
 une escapade un peu spéciale.
 Demande des détails à l'aéroport.
 \0\0Ticket émis directement.\0￿"
-"3003","Ensemble de 6 plans de bricolage
+"3003","Ensemble de 6 \0plans de bricolage\0￿
 pour outils d'excellente durabilité.
 \0\0Données envoyées sur le NookPhone
 du client au moment de l'échange.\0￿"
@@ -1107,7 +1119,7 @@ plus de choses.
 professionnels à l'application de
 \0Motifs personnalisés\0￿.
 \0\0Application mise à jour directement.\0￿"
-"3011","Plan de bricolage spécial disponible
+"3011","\0Plan de bricolage\0￿ spécial disponible
 uniquement par échange de miles.
 À utiliser pour personnaliser l'île.
 \0\0Plan imprimé directement.\0￿"
@@ -1149,6 +1161,14 @@ nookitude envahisse ton intérieur !
 par Nook Inc. te permet de nager et
 d'explorer librement les fonds marins.
 \0\0Produit livré par voie postale.\0￿"
+"3022","Révolutionne ton look grâce à de
+nombreuses peintures corporelles en
+utilisant un \0miroir\0￿ ou une \0coiffeuse\0￿.
+\0\0Instructions imprimées sur place.\0￿"
+"3023","Révolutionne ton look grâce à de
+nouveaux choix de colorations des yeux
+en utilisant un \0miroir\0￿ ou une \0coiffeuse\0￿.
+\0\0Instructions imprimées sur place.\0￿"
 "5001","\0Appareil photo\0￿
 Prends des photos et applique
 divers filtres et effets sur tes clichés.\0\0\0\0Les photos sont sauvegardées dans
@@ -1189,7 +1209,7 @@ L'application a été mise à jour et contient
 créatures marines que tu as attrapées."
 "5031","\0Créations\0￿
 Consulte cette application pour en
-savoir plus sur les plans de bricolage
+savoir plus sur les \0plans de bricolage\0￿
 que tu as obtenus.\0\0Tu peux aussi marquer comme favoris
 les objets que tu crées souvent, alors
 n'hésite pas à user et abuser de cette
@@ -1664,5 +1684,4 @@ va reprendre."
 "9015","Le jeu va maintenant démarrer."
 "9015_a","OK"
 "9016","Sauvegarde...
-\0\0N'appuie pas sur
-le bouton POWER .\0￿"
+\0\0Ne touche pas au bouton POWER .\0￿"

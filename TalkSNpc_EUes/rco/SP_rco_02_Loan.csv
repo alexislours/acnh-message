@@ -1,9 +1,7 @@
 ﻿"label","text"
 "001","(""촀\0¡Ah, n\0!"
-"003","(촀\0Como siempre, ¡tengo que felicitarte
-por haber terminado de pagar
-el préstamo!
-(촀\0No esperaba menos de ti,
+"003","(촀\0¡Tengo que felicitarte por haber
+terminado de pagar el préstamo!\0\0(촀\0No esperaba menos de ti,
 pero ocasiones como estas
 hay que celebrarlas, ¿sí?
 (촀\0También es un buen momento para
@@ -33,11 +31,11 @@ en su totalidad,
 (&촀\0¿Has decidido liquidar el pago
 tan rápido porque piensas hacer
 reformas en casa próximamente?
-(촀\0Porque estaría encantado de darte
+(촀\0Pues yo estaría encantado de darte
 otro préstamo para hacer realidad
 tu sueño, ¿sí?
-(%촀\0Avísame si quieres que te dé
-más detalles, por favor."
+(%촀\0Por favor avísame si quieres que
+te proporcione más detalles."
 "006","(촀\0Te agradezco la diligencia con
 la que has pagado el préstamo
 en su totalidad,
@@ -45,7 +43,7 @@ en su totalidad,
 (&촀\0¿Has decidido liquidar el pago
 tan rápido porque piensas hacer
 reformas en casa próximamente?
-(촀\0Porque estaría encantado de darte
+(촀\0Yo estaría encantado de concederte
 otro préstamo para hacer realidad
 tu sueño, ¿sí?
 (%촀\0Avísame si quieres que te dé
@@ -62,15 +60,15 @@ otro préstamo para hacer realidad
 tu sueño, ¿sí?
 (%촀\0Avísame si quieres que te dé
 más detalles, por favor."
-"008","(촀\0¡Me vas a permitir que vuelva
-a felicitarte por haber completado
-el pago de tu préstamo!\0\0(%촀\0Como empresario, me gustaría
+"008","(촀\0¡Me vas a permitir que te felicite
+por haber completado el pago
+de tu préstamo!\0\0(%촀\0Como empresario, me gustaría
 decirte que tienes maña para
 manejar tus finanzas,
 \0 sí, sí.
-(1촀\0Aún recuerdo cuando tu casa
-de dos plantas era una humilde
-tienda de campañan\0\0
+(1촀\0Seguro que aún recuerdas cuando
+tu casa de dos plantas era solo
+una humilde tienda de campañan\0\0
 (촀\0Quizá estés pensando que ya
 no necesitas más espacio, ¿verdad?\0\0(&촀\0Pero no estaríamos viviendo en esta
 isla paradisíaca si tuviésemos
@@ -81,13 +79,13 @@ rechazar:
 \0 ¡tener un \0sótano\0￿!
 (촀\0Aquí lo dejo para que reflexiones,
 sí, sín"
-"009","(촀\0¡Una vez más has conseguido
-liquidar por completo el pago
-del préstamo!
-\0 ¡Sí, sí!
-(촀\0Desde este momento quedas libre
-de deudas y con todo listo para
-disfrutar de la vida en esta isla.
+"009","(촀\0¡Has conseguido liquidar por
+completo el pago del préstamo!
+\0
+(촀\0¡Enhorabuena! ¡Sí, sí!
+(촀\0Estás libre de deudas y con todo
+listo para disfrutar de la vida en
+esta isla.
 (촀\0Quizá estés esperando que
 te ofrezca una nueva opción
 de reforma, pero ya no hay más.

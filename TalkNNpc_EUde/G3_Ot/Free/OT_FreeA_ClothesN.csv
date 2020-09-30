@@ -107,7 +107,8 @@ sich „s촀“.\0\0()촀\02\0s\0촂 von s촀 hat es geschaffen, 
 \0 ($촀\0Wie für mich
 gemacht, 
 \0oder?"
-"101","(촀\02촀DerDieDas }촀,
+"101","<"
+"101_01","(촀\02촀DerDieDas }촀,
 2촀dendiedas ich trage, 
 \0ist eher etwas für
 kleine, süße Mädchen, 
@@ -118,13 +119,31 @@ Zweifel an mir. 
 \0der großen
 Modeexpertin, 
 \0n\0!"
-"102","(5촀\0Ein cooles Kleidungsstück wie
+"101_02","($촀\0Sage mir ganz ehrlich, 
+\0welchen
+Eindruck vermittelt m2\0}촀?\0\0(촀\0Ich wollte damit ausdrücken, 
+\0dass ich
+nicht NUR 
+\0für Eleganz stehe. 
+\0(6촀\0Selbst
+ich habe eine neckische Seite!"
+"102","<"
+"102_01","(5촀\0Ein cooles Kleidungsstück wie
 2,촀dieser
 diesedieses }촀
 ist wie eine Rüstung.\0\0(촀\0Ich jedenfalls bin wesentlich
 wagemutiger, wenn ich so
 etwas trage!"
-"103","(""촀\02$촀Mein
+"102_02","(촀\0Bin ich heute nicht ein Ebenbild der
+Coolness?
+\0 (촀\0Das verdanke ich wohl
+2.촀meinemmeinermeinem 2촂}촀.\0\0(5촀\0Doch wer kann schon sagen, 
+\0wo
+meine eigene Coolness endet und die
+meiner Kleidung beginnt? 
+\0((4촀\0Niemand."
+"103","<"
+"103_01","(""촀\02$촀Mein
 MeineMein }촀
 ist eher schlicht, 
 \0nicht wahr?\0\0(5촀\0Nun, 
@@ -136,7 +155,17 @@ extravagant sein muss!\0\0(촀\0Es ist wie allgemein im Leben:
 Manchmal sind die einfachsten
 Dinge die besten, 
 \0n\0!"
-"104","(촀\0Sieh her, 
+"103_02","(&촀\0Wie erscheine ich in deinen Augen,
+\0
+wenn ich 2,촀diesen
+diesedieses 2촁}촀 trage?\0\0(4촀\0Nicht zu schlicht, 
+\0hoffe ich? 
+\0((촀\0Die
+Meinung des gemeinen Volks ist mir
+einerlei, 
+\0aber deine hat Gewicht."
+"104","<"
+"104_01","(촀\0Sieh her, 
 \0n\0!
 \0
 Was hältst du von 2.촀diesemdieserdiesem2촂
@@ -145,7 +174,15 @@ Was hältst du von 2.촀diesemdieserdiesem2촂
 aus? 
 \0(촀\0Damit fühle ich mich noch mehr
 wie eine Prominente als sonst!"
-"105","(""촀\02,촀Dieser
+"104_02","()촀\0Wer wie ich für die Mode lebt, 
+\0trägt
+2""촀
+eineneineein 2촁}촀 wie etwas Selbstverständliches.\0\0(촀\0Doch wie kann man sich von diesem
+Ausgangspunkt noch steigern? 
+\0(7촀\0Ein
+ernüchternder Gedanken"
+"105","<"
+"105_01","(""촀\02,촀Dieser
 DieseDieses }촀
 ist für sportliche Aktivitäten die
 ideale Bekleidung, 
@@ -153,7 +190,17 @@ ideale Bekleidung, 
 \0
 dass ich mich dadurch noch lange
 nicht zum Sport verpflichtet fühle!"
-"106","(촀\0Sehe ich heute nicht elegant aus?
+"105_02","(7촀\0Ich hoffe, 
+\0es ist nicht allzu
+schockierend, 
+\0wenn ich 2""촀
+eineneineein
+2촁}촀 trage.\0\0(5촀\0Sportlichkeit ist in der Kleidungswelt
+eine Disziplin abseits von Trends und
+Moden, 
+\0n\0."
+"106","<"
+"106_01","(촀\0Sehe ich heute nicht elegant aus?
 \0
 Ich meinen\0\0 
 \0NOCH eleganter als
@@ -161,6 +208,10 @@ ohnehin?\0\0(6촀\0Dann könnte das an 2d촀dem formidablender formidab
 2촂}촀 liegen,
 2촀dendiedas ich trage, 
 \0n\0."
+"106_02","(촀\0Sehe ich in 2.촀diesemdieserdiesem 2촂}촀 nicht noch eleganter aus als ohnehin?\0\0(%촀\0Ich trage lediglich, 
+\0was meiner
+Befindlichkeit entspricht, 
+\0n\0!"
 "201","2\0n\0, 
 \0(촀\0wirf doch mal ein
 Äuglein auf 2n촀$meinen fabelhaften meine fabelhafte mein fabelhaftes

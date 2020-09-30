@@ -294,12 +294,9 @@
 \0\0\0s"
 "Ftr_01495","2\0ă촅Püppchen2
 \0\0\0s"
-"Ftr_01499","2\0ā촃Papa-Bär2
-\0\0\0s"
-"Ftr_01500","2\0ā촃Mama-Bär2
-\0\0\0s"
-"Ftr_01501","2\0ā촃Baby-Bär2
-\0\0\0s"
+"Ftr_01499","2\0ā촃Papa-Bär2\0enenen"
+"Ftr_01500","2\0ā촃Mama-Bär2\0enenen"
+"Ftr_01501","2\0ā촃Baby-Bär2\0enenen"
 "Ftr_01504","2\0ā촃Riesenteddy2
 \0\0\0s"
 "Ftr_01507","2\0Ȃ촄Drehkaffeetasse"
@@ -873,6 +870,19 @@
 "Ftr_04080","2\0Ȃ촄Luxus-Badewanne"
 "Ftr_04081","2\0ă촅Feldbett2
 \0\0\0s"
+"Ftr_04083","2\0ă촅Kürbistor2
+\0\0\0s"
+"Ftr_04084","2\0Ȃ촄Kürbisvogelscheuche"
+"Ftr_04086","2\0ā촃Kürbisturm2
+\0\0\0s"
+"Ftr_04087","2\0Ȃ촄Kürbiskutsche"
+"Ftr_04088","2\0Ȃ촄Kürbislaterne"
+"Ftr_04089","2\0ā촃Kürbisstuhl2
+\0\0\0s"
+"Ftr_04090","2\0ā촃Kürbistisch2
+\0\0\0s"
+"Ftr_04092","2\0ă촅Kürbislaternenset2
+\0\0\0s"
 "Ftr_04093","2\0Ȃ촄Bambustrommel"
 "Ftr_04094","2\0ā촃Balkonteich2
 \0\0\0s"
@@ -1013,7 +1023,6 @@
 "Ftr_05636","2\0ă촅Holzbrettschild2
 \0\0\0s"
 "Ftr_05676","2\0Ȃ촄Rakete mit Besatzung"
-"Ftr_05884","とたけけのスツール"
 "Ftr_05931","2\0ă촅Gefängnisgitter2
 \0\0\0s"
 "Ftr_05941","2\0ā촃Gold-Skarabäus"
@@ -1059,7 +1068,6 @@
 \0\0\0s"
 "Ftr_06081","2\0ā촃Baumfrucht-Bogen2
 \0\0\0s"
-"Ftr_06813","とたけけライブのイス"
 "Ftr_06818","2\0ă촅Objektmobile2
 \0\0\0s"
 "Ftr_06826","2\0ā촃Lichtstern2
@@ -1329,16 +1337,12 @@
 "Ftr_12139","2\0Ȃ촄DAL-Tasse"
 "Ftr_12140","2\0ă촅DAL-Flugzeugmodell2
 \0\0\0s"
-"Ftr_12201","ひろばのベンチ"
 "Ftr_12206","2\0ā촃Flach-Gartenstein2
 \0\0\0s"
 "Ftr_12207","2\0ā촃Arcade-Hocker2
 \0\0\0s"
 "Ftr_12208","2\0ā촃Moos-Gartenstein2
 \0\0\0s"
-"Ftr_12209","パニエルのせんたくおけ"
-"Ftr_12210","パニエルのものほしロープ"
-"Ftr_12229","パニエルのいしがま"
 "Ftr_12230","2\0ă촅Dreidelspiel2
 \0\0\0s"
 "Ftr_12332","2\0ă촅Funktionaltischchen2
@@ -1431,5 +1435,14 @@
 "Ftr_12579","2\0Ȃ촄Nintendo Switch (ACNH)"
 "Ftr_12741","2\0Ȃ촄Weltkarte"
 "Ftr_12921","2\0Ȃ촄Rodeo-Federwippe"
+"Ftr_12949","2\0Ȃ촄Kürbis-Stehlampe"
+"Ftr_12951","2\0ă촅Kürbis-Süßigkeiten-Set2
+\0\0\0s"
 "Ftr_13221","2\0ă촅Serenada-Bett2
 \0\0\0s"
+"Ftr_13222","2\0Ȃ촄Kürbis-Girlande"
+"Ftr_13223","2\0ă촅Kürbis-Tischgedeck2
+\0\0\0s"
+"Ftr_13293","2\0ā촃Ring-Con"
+"Ftr_13353","2\0ă촅Porträt2
+\0\0\0s von Jakob"

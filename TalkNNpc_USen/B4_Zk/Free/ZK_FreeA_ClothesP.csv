@@ -141,18 +141,30 @@ heat of the summer!"
 \0 Like, even a little
 bit?
 \0(*촀\0 I'm cold just looking at you!"
-"016","(촀\0Oh, n\0n\0\0 That outfit
+"016","<"
+"016_01","(촀\0Oh, n\0n\0\0 That outfit
 you're wearing is straight-up
 촀.
 (촀\0And now I'm actually hungry
 for 촀n"
-"017","(9촀\0There's something very cool about
+"016_02","(:촀\0Whoa.
+\0 It looks like you've designed
+your entire outfit today around your
+}촀, hm?\0\0(촀\0Stunning.
+\0 I'm in awe of your
+fashion sense, n\0."
+"017","<"
+"017_01","(9촀\0There's something very cool about
 what you're wearing today, and I
 don't mean the fabric.
 (1촀\0I could see myself wearing something
 similar, belting out 촀 in
 front of a million adoring fansn"
-"018","(&촀\0You know what never goes out of
+"017_02","(촀\0Yon\0\0I'm incredibly jealous of
+your }촀!\0\0(촀\0It's like you just leveled up in the
+game of fashion, n\0!"
+"018","<"
+"018_01","(&촀\0You know what never goes out of
 style? 
 \0((%촀\0Classic stuff. 
 \0Kinda like the
@@ -161,7 +173,14 @@ outfit you've got on right now.
 \0 I like to get
 real weird with fashion, but classic
 stuff is classic for a reason."
-"019","(촀\0Whoa! 
+"018_02","(&촀\0Going back to the basics with your
+}촀, hm?\0\0(9촀\0I approve.
+\0((촀\0 Not that you need my
+approval, but maybe I need yours?
+\0
+Do you approve of my approval?"
+"019","<"
+"019_01","(촀\0Whoa! 
 \0You are dressed to the nines
 today. 
 \0(6촀\0Maybe even the tens!\0\0(&촀\0What's the occasion?
@@ -172,18 +191,39 @@ fragrance launch?
 (촀\0Welp, I'm out of ideas. 
 \0Help me
 out, n\0."
-"020","(촀\0I'm loving your outfit today,
+"019_02","(6촀\0I don't know if you dance, but it
+LOOKS like you can dance in that
+outfit, n\0.\0\0()촀\0Some folks have said I have two left
+feet, but to me, that just means I can
+do weirder dances. 
+\0(촀\0Ha HA!"
+"020","<"
+"020_01","(촀\0I'm loving your outfit today,
 n\0. 
 \0It looks super comfy,
 and also super stylish.(%촀\0
 ( 촀\0
 \0That's like the holy grail of fashion!"
-"021","(촀\0Hey, you're really dressed up today!
+"020_02","(6촀\0Oh, hey! 
+\0Working out, or hardly
+working out?
+\0 In your fancy
+}촀, I mean.\0\0(촀\0Sorry, I'm not used to sporty lingo.
+\0
+I'm more into 촀, if
+you hadn't noticed."
+"021","<"
+"021_01","(촀\0Hey, you're really dressed up today!
 \0(
 (&촀\0You headed to the after-party?\0\0(6촀\0There's no ""before"" party that I
 know about, but I always ask
 everyone just in case. 
 \0(촀\0Ha HA!"
+"021_02","(1촀\0Hmm, there's something about your
+outfit today that just screams posh.\0\0(촀\0I mean, it SINGS posh in a perfect
+falsetto, hitting every note true.
+\0
+(촀\0Ha HA!"
 "101","<"
 "101_01","(촀\0Heh.
 \0 You sure seem to wear that
@@ -269,6 +309,31 @@ worsen\0\0an AFTERparty?"
 today, n\0!\0\0(6촀\0I'd say you're ready for anything,
 from a formal dinner party with
 royalty to 촀."
+"212","<＆\0촁"
+"213","< 0.bea>257,cbr>257,etc>258"
+"214","<̂Ё촁"
+"215","( 촀\0I'm getting a real homemade vibe
+from your outfit today, n\0.\0\0(&촀\0Did you get it from your mom?
+\0
+(촀\0Well, maybe she should be a fashion
+designern\0\0if she isn't already!"
+"216","( 촀\0Wow, is that official DAL gear you're
+wearing, n\0?\0\0(촀\0They're known for great service and
+customer satisfaction, but now they
+make high-quality activewear too?\0\0(\0촀\0n\0\0(3촀\0Just go with it. 
+\0I'm trying to
+become a DAL influencern"
+"217","( 촀\0You look like you're ready for a
+costume partyn\0\0
+\0(&촀\0but are you
+TRULY ready, n\0?\0\0(&촀\0Have you studied your character bio?
+\0
+Practiced your accent? 
+\0Taken the
+swordplay and combat classes?\0\0(촀\0What do you mean, ""It's not a
+movie""?
+\0( (촀\0Life's a movie when you
+live like me, n\0!"
 "251","(촀\0I'm loving this feline-themed
 ensemble you've got going on today.\0\0(촀\0Ooh! 
 \0(촀\0I hope this is the start of a hot
@@ -295,6 +360,48 @@ year, n\0."
 "254","(촀\0Well, aren't you looking froggy
 today, n\0?\0\0(촀\0You look like you're ready to hop
 right down a runway, n\0!"
+"255","(촀\0Whoa, look at us! 
+\0('촀\0Normally I'd say
+it's a bad idea to show up at the club
+looking like twins.\0\0(촀\0But with you? 
+\0Here? 
+\0We're starting a
+trend, right now!
+\0(촀\0 2\0n\0
+Rabbit Club, n\0!"
+"256","(촀\0You're looking hippity and full of hop
+today, n\0. 
+\0((촀\0LOVE the ears
+and tail!"
+"257","(촀\0Wait, uhn\0\0
+\0( (촀\0Are we related?
+\0 Were you
+at the family reunion last summer?\0\0(촀\0You remember?
+\0 The one where I put
+on that experimental one-bear show
+about 촀?\0\0(촀\0Oh, it's just an outfit.
+\0 Probably for
+the best. 
+\0(촀\0Forget I said anything."
+"258","(6촀\0Going for a fuzzy and ferocious
+look today, eh?
+\0(!촀\0 I like it!\0\0(촀\0Don't maul me for saying it, but
+I can barely stand how sharp you
+look, n\0!"
+"259","(촀\0Your hair looks incredible today!
+\0(
+(촀\0The body! 
+\0(촀\0The bounce!
+\0 (촀\0The style!
+\0
+It's too much!\0\0(2촀\0Can you give me a shampoo
+recommendation? 
+\0I want to look
+even MORE like you, n\0!"
+"260","(촀\0LOVE the outfit, n\0.\0\0()촀\0I hear that faux wool is soft, shrink-
+proof, and completely fabulous.
+\0(
+(촀\0How does it do all that?!"
 "301","( 촀\0How'd you know I was casting for my
 latest film project,
 \0(5촀\0 ""Knights of the
@@ -337,6 +444,26 @@ you have a recommendationn"
 of sneaky plans do you have up your
 sleeve, n\0?\0\0(9촀\0Whatever it is, count men\0\0
 \0(촀\0IN!"
+"307","(1촀\0Oh, that outfit you're wearing takes
+me back, n\0n\0\0\0\0(%촀\0I remember being the most popular
+n\0 in school, captain of the
+촀 teamn\0\0\0\0(촀\0Ah, but then I threw it all away when
+the government needed me to go
+undercover and break up a spy ring.\0\0(2촀\0Uhn\0\0some portions of that may have
+been inspired by fictional events."
+"308","(촀\0Ooh, going for a ride?
+\0 That sounds
+fun, n\0.\0\0(촀\0I'd go with you, but my hairstyle
+isn't rated for anything above
+five miles an hour."
+"309","(촀\0Whoa. 
+\0(Not everyone can pull off
+such a flashy outfit.
+\0( (촀\0But you are
+NOODLING right now, n\0!\0\0(2촀\0Do you like that?
+\0 Noodling?
+\0 I'm
+trying to make it catch on."
 "401","<"
 "401_01","(촀\0Haven't I seen you in that outfit
 before? 
@@ -360,3 +487,26 @@ fashion detective!
 \0
 (5촀\0I consider it to be the centerpiece of
 the n\0 aesthetic."
+"501","<"
+"501_01","(촀\0Whoa, look who's showing off!
+\0(
+(%촀\0I'm really loving the bold look
+you're going for, n\0."
+"501_02","(촀\0There's something different about
+you todayn\0\0
+\0( (&촀\0Did you get a haircut
+or something?
+(촀\0Ha HA! 
+\0I'm just teasing.
+\0 I love that
+you're making such a bold statement.
+\0
+(촀\0And the statement is ""n\0""!"
+"501_03","(;촀\0n\0\0Uhn\0\0
+\0(\0\0(촀\0Oh! 
+\0Sorry, I was staring, wasn't I?
+\0
+()촀\0It's just that you look so different
+like that!\0\0(촀\0Good different, not bad different,
+I mean. 
+\0((촀\0\0Whew. Saved it.\0￿"
