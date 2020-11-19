@@ -206,6 +206,46 @@ de estos temas?"
 "075_02_a","Puentes y rampas"
 "075_02_b","Realizar un traslado"
 "075_02_c","En otro momento"
+"1001","(촀\0Ah, ya imagino que tendrás muchas
+ganas de que tratemos el tema de
+tu casan\0\0
+()촀\0Pero, antes,
+\0 hay otra cosa
+de la que debemos hablar."
+"1002","(9촀\0Antes de mudarte, solicitaste
+una ampliación para tu hogar,
+¿no es así?
+(촀\0Pues me complace informarte de que
+con gusto me ocuparé de tu encargo."
+"1002_01","(9촀\0Antes de mudarte, solicitaste
+algunos cambios para el exterior
+de tu hogar, ¿no es así?
+(촀\0Pues me alegra informarte de que
+yo estaré encantado de ocuparme
+de tu encargo."
+"1003","(%촀\0De hecho, seguramente
+lo tenga todo listo para mañana.
+\0
+(""촀\0Impresionante, ¿sí?"
+"1005","(촀\0Ah, ya imagino que tendrás muchas
+ganas de que tratemos el tema de
+tu casan\0\0
+()촀\0Pero, antes,
+\0 hay otra cosa
+de la que debemos hablar.\0\0(9촀\0Según mis registros, antes de
+mudarte solicitaste el traslado
+de tu hogar, ¿no es así?\0\0(촀\0Me temo que,
+\0 al cambiar de isla,
+\0
+esa petición no se podrá llevar
+a cabo.
+((촀\0¡Pero no te preocupes!
+\0 La he
+anulado y te he reembolsado
+el pago de \030 000 bayas\0￿.
+($촀\0Luego hazme el favor de
+comprobarlo en tu cuenta
+bancaria, ¿sí?"
 "101","¿De verdad?
 \0 (촀\0Bueno, si necesitas
 ayuda con tu casa o lo que sea,
@@ -215,10 +255,124 @@ aquí estaré, sí, sí."
 de una decisión importante.\0\0(%촀\0Sin prisas, ¿sí?
 \0 Ven a verme
 cuando te hayas decidido."
+"1021","()촀\0Antes de mudarte aquí,
+\0 habías
+solicitado la ampliación de tu
+trastero, ¿sí?
+(5촀\0No te preocupes,
+\0 yo me haré cargo
+de las obras.
+\0 Está todo controlado."
 "103","(촀\0¡Perfecto!
 \0 Empezaré los preparativos
 para la construcción ahora mismo.\0\0(촀\0Mañana por la mañana estará todo
 listo, ¡sí!"
+"1101","(""촀\0¡Ah, hola! 
+\0Imagino que estás aquí
+porque recibiste mi correo, ¿sí?"
+"1101_01","()촀\0Como te decía en mi carta, ahora
+ofrecemos la posibilidad de ampliar
+el trastero de tu casa.
+(%촀\0Siempre y cuando hayas agrandado
+tu morada al máximo, claro."
+"1101_02_00","(촀\0Este tipo de obras conlleva un gasto
+considerable que hay que abonar
+por adelantado."
+"1101_02_01","(촀\0Sin embargo, es una obra bastante
+costosa y se debe pagar por
+adelantado.
+(촀\0Por eso no podemos ofrecer este
+servicio a quienes todavía tienen
+deudas pendientes, lo siento."
+"1101_03","(6촀\0Imagino que,
+\0 conforme tu casa ha ido
+creciendo,
+\0 habrás acumulado un
+montón de cosas, ¿sí?
+(\0촀\0Las vas guardando en el trastero
+hasta que un dían\0\0
+\0(촀\0 ¡te das cuenta
+de que ya no te cabe nada más!
+(촀\0¿Dónde vas a meter ahora el sofá
+viejo o la mesita que ya no combina
+con el papel de pared?
+(촀\0¡Justo por eso necesitas ampliar
+el trastero!
+\0 (촀\0Piensa en ello y ya me
+dirás si te interesa la oferta, sí, sí."
+"1111","(촀\0Ah, así que te interesa ampliar
+tu trasteron\0\0\0\0()촀\0Tener un trastero más grande
+significa que podrás tener
+muchas más cosas,
+\0 sí, sí.
+(촀\0Por varias razones,
+\0 esta vez no
+te puedo ofrecer un préstamo
+para realizar la obra.
+(%촀\0Deberás pagar \0500 000 bayas\0￿
+a tocateja.\0\0Pero (1촀\0¿qué son un puñado de bayas
+a cambio de la tranquilidad de tener
+espacio extra para tus posesiones?
+(촀\0Yo ni me lo pensaría,
+\0 pero tú eres
+quien tiene la última palabra.\0\0(&촀\0¿Quieres ampliar tu trastero
+por \0500 000 bayas\0￿?
+\0 Tú dirás."
+"1111_a","(%촀\0¡Sí, adelante!"
+"1111_b","('촀\0En otro momento"
+"1112","(촀\0¡Estupendo!
+\0 Voy a hacer los trámites
+ahora mismo.\0\0(%촀\0Seguramente lo tendré todo listo
+para mañana por la mañana.
+\0
+(촀\0¡Qué emocionante!"
+"1113","(촀\0Claro, tómate tu tiempo para
+pensártelo.
+\0 Al fin y al cabo,
+es una inversión importante.
+($촀\0Aquí estaré para lo que necesites."
+"1114","(촀\0¡Me gusta tu entusiasmo!
+\0 Pero he
+de recordarte que debes pagar
+la totalidad de la suma.
+(촀\0Y, parece que ahora mismo
+no llevas suficientes bayas.\0\0(7촀\0Sé que no es agradable ir por ahí
+con tanto dinero encima,
+\0 pero
+tienes que pagarme en efectivo.\0\0(촀\0Vuelve cuando tengas todas
+las bayas, ¿sí?"
+"1115","(촀\0Ah, lo siento,
+\0 pero no puedo ampliar
+tu trastero hasta que no saldes
+todas tus deudas.
+(\0촀\0Lo puedes hacer a cualquier hora
+del día gracias al bayero automático
+de la \0terminal Nook\0￿.
+(촀\0Ya hablaremos de tu trastero
+cuando estés libre de deudas, ¿sí?"
+"1116","(%촀\0La ampliación de tu trastero estará
+lista mañana por la mañana."
+"1191","(촀\0Quieres hablar de tu casa, ¿sí?
+\0
+(&촀\0Pues tú dirás..."
+"1191_a","Ampliar el trastero"
+"1191_b","Quiero reformarla"
+"1191_c","Quiero trasladarla"
+"1191_d","En otro momento"
+"1192","(촀\0Quieres hablar de tu casa, ¿sí?
+\0
+(&촀\0Pues tú dirás..."
+"1192_a","Ampliar el trastero"
+"1192_b","Quiero reformarla"
+"1192_c","En otro momento"
+"1193","(촀\0Bueno, ya te he hecho esperar
+bastanten\0\0
+\0 (&촀\0¿Te apetece hacer
+algo con tu casa?"
+"1193_a","Ampliar el trastero"
+"1193_b","Quiero reformarla"
+"1193_c","Quiero trasladarla"
+"1193_d","En otro momento"
 "201","(촀\0¡Ah! 
 \0Por fin quieres dar el paso para
 ser 2ella dueñ2oa de una bonita casa, ¿sí?

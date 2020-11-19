@@ -330,6 +330,10 @@ pour toin\0\0
 tu veux,
 \0 à présent !
 \0 YOUPIII !!"
+"200_01","Ton transfert est accompli...
+\0
+C'est une nouvelle page qui
+se tourne !"
 "204_02","Ça y est !
 \0 Tu as fini de rembourser
 le prêt pour ta maison !"
@@ -382,6 +386,14 @@ devant une \0coiffeuse \0￿ou un \0miroir\0￿."
 de \0coloration des yeux\0￿ !
 \0( Applique-les
 devant une \0coiffeuse \0￿ou un \0miroir\0￿."
+"210_13","Tu as appris de nouvelles \0coiffures \0￿!
+\0
+Pour changer de look, installe-toi
+devant une \0coiffeuse\0￿ ou un \0miroir \0￿!"
+"210_14","Tu as appris de nouvelles \0mimiques \0￿!
+\0
+Appuie sur \0 \0￿pour toutes les voir et
+exprimer tes humeurs avec."
 "211_01","Tu peux à présent \0créer des cours
 d'eau\0￿ avec l'application \0Remod'île\0￿ !"
 "211_02","Tu peux à présent \0créer des falaises\0￿
@@ -501,7 +513,21 @@ chouette de faire la fête autour d'un
 bon gâteau avec ses meilleurs amis."
 "701","C'est ici que doivent se trouver ses
 affaires personnelles..."
+"702","Il y a encore Z\0 cadeaux dans le sac."
+"703_01","Alors, j'ai encore un cadeau pourn\0\0\0\0s촀,
+\0 s촁,
+\0 et s촂."
+"703_02","Alors, j'ai encore un cadeau pourn\0\0
+s촀
+\0 et s촁."
+"703_03","Alors, j'ai encore un cadeau pourn\0\0
+s촀."
+"704","Le sac à cadeaux est vide !"
 "901","Tu veux monter ta tente ici ?"
+"901_01","Tu veux construire ta maison ici ?"
+"901_01_a","Imaginons..."
+"901_01_b","Ici, c'est parfait !"
+"901_01_c","C'est pas idéal..."
 "901_a","Imaginons..."
 "901_b","Ici, c'est parfait !"
 "901_c","C'est pas idéal..."
@@ -722,6 +748,10 @@ pour l'\0atelier de couture\0￿ !"
 pour le \0camping\0￿ !
 \0 Espérons qu'il y
 viendra encore plus de visiteurs !"
+"961","Tu as choisi un emplacement pour ta
+maison !
+\0( Maintenant que tu as un
+camp de base, place à l'exploration !"
 "990","Tu es en pleine chasse au trésor,
 tu auras bien un moment pour ça
 une autre fois."

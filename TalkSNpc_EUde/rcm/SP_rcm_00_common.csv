@@ -123,6 +123,16 @@ eineneineein
 Brauchst du sie wirklich nicht selbst?
 \0
 Wir zahlen dir Z\0 dafürn"
+"037_01","(촂\0(촃\0Ui!
+\0 Eine Bastelanleitung für 2""촀
+eineneineein
+2촁}\0\0!\0\0(촂\0Diese Anleitung ist überaus wertvoll.
+\0
+(&촂\0Brauchst du sie wirklich nicht selbst?
+\0
+(%촃\0Wir zahlen dir Z\0 dafürn"
+"037_01_a","(%촀\0Abgemacht!"
+"037_01_b","('촀\0Lieber nicht."
 "037_a","(%촀\0Abgemacht!"
 "037_b","('촀\0Lieber nicht."
 "038","(촂\0(촃\0Ohn\0\0
@@ -167,6 +177,14 @@ Einverstanden?"
 Bastelanleitung sieht recht wertvoll
 aus. 
 \0(&촂\0(&촃\0Willst du sie wirklich verkaufen?"
+"043_01","(촂\0(촃\0Da hast du ja einigesn\0\0 
+\0((촂\0(촃\0Ui!
+\0 (\0촂\0(\0촃\0Diese
+Bastelanleitung sieht recht wertvoll
+aus. 
+\0(&촂\0(&촃\0Willst du sie wirklich verkaufen?"
+"043_01_a","(%촀\0Ja, gerne."
+"043_01_b","('촀\0Ach, lieber doch nicht."
 "043_a","(%촀\0Ja, gerne."
 "043_b","('촀\0Ach, lieber doch nicht."
 "044_01","(촂\0
@@ -626,9 +644,61 @@ Artikel ab morgen nicht mehr...\0\0(촀\0Aber sobald wir im nächsten Jahr
 wieder Süßigkeiten anbieten, 
 \0darfst
 du gerne erneut zugreifen!"
+"145","( 촂\0Ah, 
+\0du interessierst dich für unsere
+neuen Waren. 
+\0(%촂\0Wir haben kürzlich
+beschlossen, 
+\0Spielzeug zu verkaufen.\0\0()촂\0(촃\0Die Produkte sind als Spielzeugtag-
+geschenke gedacht, 
+\0weshalb wir sie
+bis zum 25. Dezember anbieten.\0\0(촂\0(촃\0Lass es uns wissen, 
+\0wenn dir etwas
+ins Auge sticht!d\0
+\0 \0K...Piks,
+\0 piks!\0dd"
 "200","(촂\0(촃\0Vielen Dank!d\0
 \0 \0K...Danke schön!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\0Ah! 
+\0Produkte wie 2,촀diesen
+diesedieses 2촁}\0\0 verkaufen wir für das Schlemmfest.\0\0()촂\0Unser Vorrat ist begrenzt und
+außerdemn\0\0 (촃\0kannst du Ähnliches
+durchaus auch selbst basteln.\0\0($촂\0($촃\0Ich glaube, 
+\0wir haben momentan
+entsprechende Anleitungen 
+\0im Regal\0￿.\0\0(%촂\0(%촃\0Das wollte ich nur als weitere Option
+erwähnen. 
+\0Wir sind stets zu deinen
+Diensten!d\0
+\0 \0KJederzeit!\0dd"
+"2002","(촂\0Ach, 
+\0der Preisn\0\0 
+\0($촂\0($촃\0Also, 
+\0der beläuft
+sich auf Z\0.
+\0
+Na, 
+\0was sagst du?"
+"2002_a","(%촀\0Nehm ich!"
+"2002_b","('촀\0Lieber nicht."
+"2003","(촂\0(촃\0Nicht, 
+\0dass ich darüber Buch führen
+würde, 
+\0abern\0\0 
+\0(촂\0Die Bastelanleitungen
+zu dem Thema kennst du schon!(\0촂\0(\0촃\0
+($촂\0($촃\0Wären nicht Bastelanleitungen mit
+Bezug zum Schlemmfest eine schöne
+neue Herausforderung?"
+"2004","()촂\02\02\0}\0\0!
+(촃\0Diese Sammlung umfasst Bastelanlei-
+tungen mit Bezug zum Schlemmfest!
+(9촂\0Diese Anleitungen sind nur bis Ende
+des Monats verfügbar. 
+\0Wenn du
+interessiert bist, 
+\0beeil dich!"
 "201","(촂\0
 \0(촃\0Hallo!d\0
 \0 \0K...hallo!\0dd

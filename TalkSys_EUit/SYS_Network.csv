@@ -17,7 +17,8 @@ in corso. Premi \0\0￿ per annullare."
 "010","Invio messaggio in corso."
 "020","C'è s\0촀 di s촀 che vuole giocare!
 <"
-"021","Sta tornando a casa s\0촀. Buon viaggio!
+"021","Oh, s\0촀 torna a casa.
+Buon viaggio!
 <"
 "030","Preparazione dell'accesso
 a NookLink in corso."
@@ -28,3 +29,15 @@ più recente.
 Collega la tua console a Internet
 e aggiorna il software alla versione
 più recente."
+"201","\0\0Richiesta di trasferimento inviata.
+\0￿Scegli ""\0Avvia la procedura.\0￿"" sull'altra
+console. (Premi \0 \0￿per annullare.)"
+"202","Ricerca di utenti che hanno inviato
+una \0\0richiesta di trasferimento\0￿...
+(Premi \0\0￿ per annullare.)"
+"203","Preparazione del trasferimento...
+(Prosegui con la procedura \0\0dalla
+console da cui ti trasferisci\0￿.)"
+"204","Trasferimento in corso...
+Attendi.
+\0\0Non toccare il pulsante POWER .\0￿"

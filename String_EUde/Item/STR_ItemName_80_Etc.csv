@@ -9,6 +9,8 @@
 \0\0\0s (grün)"
 "Balloon_13126","2\0ā촃Ballon2
 \0\0\0s (rosa)"
+"BigbagPresent_13836","2\0ā촃Geschenkesack2
+\0\0\0s"
 "BlowBubble_04386","2\0ă촅Seifenblasenset2
 \0\0\0s"
 "BlowBubble_04386_pl","2촄Seifenblasensets"
@@ -29,12 +31,16 @@
 "DummyHowtoBook_12185","Designs: Profi-Edition"
 "DummyHowtoBook_13256","Die Kunst des Bodypainting"
 "DummyHowtoBook_13257","Augenfarben für Gewinner"
+"DummyHowtoBook_13610","Hippe Emotionen"
+"DummyHowtoBook_13766","Die 6 trendigsten Frisuren"
 "DummyPresentbox_04480","2\0ă촅Geschenk2
 \0\0\0s"
 "DummyRecipe_02695","ダミーDIYレシピ"
 "DummyRecipe_05603","Mein erstes Bastelbuch"
 "DummyRecipe_05604","Ideen für Bastler"
 "DummyRecipe_05605","Bist du der Bastelboss?"
+"DummyRecipe_13787","2\0ă촅Schlemmfest-Bastelbuch2
+\0\0\0s"
 "DummyWrapping_07699","2\0ă촅Geschenk2
 \0\0\0s"
 "DummyWrapping_07700","2\0ă촅Geschenk2
@@ -66,6 +72,8 @@
 "DummyWrapping_07713","2\0ă촅Geschenk2
 \0\0\0s"
 "DummyWrapping_07714","2\0ă촅Geschenk2
+\0\0\0s"
+"DummyWrapping_13793","2\0ă촅Geschenk2
 \0\0\0s"
 "FierworkHand_05743","2\0Ȃ촄Rot-Wunderkerze"
 "FierworkHand_05743_pl","2촄Rot-Wunderkerzen"
@@ -107,6 +115,8 @@
 \0\0\0s"
 "HousingKit_06841","2\0ă촅Campingplatz-Umzugskit2
 \0\0\0s"
+"HousingKit_13346","2\0ă촅Transferkit2
+\0\0\0s"
 "HousingKitBirdge_04310","2\0ă촅Brücken-Planungskit2
 \0\0\0s"
 "HousingKitBirdge_07211","2\0ă촅Brücken-Baukit2
@@ -117,6 +127,7 @@
 \0\0\0s"
 "HousingKitRcoQuest_05829","2\0ă촅Haus-3-Baukit2
 \0\0\0s"
+"JuiceFuzzyapple_13835","2\0Ȃ촄Apfelschorle"
 "LicenseItem_08773","2\0Ȃ촄Steinweg-Lizenz"
 "LicenseItem_08774","2\0Ȃ촄Ziegelweg-Lizenz"
 "LicenseItem_08775","2\0Ȃ촄Schwarzerde-Weg-Lizenz"
@@ -149,6 +160,8 @@
 \0\0n"
 "PitFallSeed_02578","2\0Ȃ촄Falle"
 "PitFallSeed_02578_pl","2촄Fallen"
+"QuestChristmasPresentbox_13869","2\0ă촅Geschenk2
+\0\0\0s (unbekannt)"
 "QuestWrapping_04245","2\0ă촅Paket2
 \0\0\0s"
 "StickLight_05741","2\0ā촃Leuchtstab2
@@ -230,4 +243,8 @@
 "WrappingPaper_07698","2\0ă촅Schwarz-Geschenkpapier2
 \0\0\0s"
 "WrappingPaper_07698_pl","2\0촅Schwarz-Geschenkpapier2
+\0\0\0s"
+"WrappingPaper_13792","2\0촅Festtagsgeschenkpapier2
+\0\0\0s"
+"WrappingPaper_13792_pl","2\0촅Festtagsgeschenkpapier2
 \0\0\0s"

@@ -89,7 +89,7 @@ Party steigen, 
 \0dieser wundervolle Tag ist jetzt
 noch besser geworden. 
 \0((촀\0Willkommen
-in Chateau n
+in Château n
 \0!
 Ā"
 "030","(2촀\0Der Regen hat dich ja kein Stück
@@ -101,11 +101,11 @@ gebremst, 
 \0
 (5촀\0Stimmt's oder hab ich recht?
 Ā"
-"033","(""촀\0Willkommen zurück in Château
+"033","(""촀\0n\0Willkommen zurück in Château
 n
-\0!
-\0
-(6촀\02\0n\0Schön, dich wieder hier zu habenn!
+\0n!
+\0 (6촀\0Schön,
+\0 dich wieder hier zu haben!
 "
 "034","(촀\0Jetzt, da du hier bist, 
 \0ist das die
@@ -115,7 +115,7 @@ angesagteste Location hier auf
 Ā"
 "035","(4촀\0Willkommen in meinem Zuhause...
 \0(
-(촀\0Chateau n
+(촀\0Château n
 \0!
 Ā"
 "036","(촀\02\0n\0Hallo, n\0n!

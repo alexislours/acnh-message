@@ -67,7 +67,7 @@ go clear my mind,
 \0 n\0."
 "008","You know,
 \0 (촀\0I think I agree with you.
-(촀\0""n\0How do you don.""\0\0That's perfect for us,
+(촀\0""2\0n\0How do you don.""\0\0That's perfect for us,
 \0 as is!
 \0(
 (촀\0Oh well,
@@ -124,4 +124,4 @@ secret greeting,
 "302","(2촀\0When I think about it,
 \0
 it just works for us!
-""n\0How do you don""!"
+""2\0n\0How do you don""!"

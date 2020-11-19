@@ -141,6 +141,14 @@ colores mágicos que se escurrieron
 del cereal, (;촀\0¡y además es deliciosa!
 (4촀\0¿Tu }촀 también es delicios2촀oa\0?"
 "016_02","(촀\0Es2촀ea\0 }촀 que tienes puest2촀oa\0 es galáctic2촀oa\0.\0\0(촀\0Al verte me dieron muchísimas ganas de comerme 2\0촀n"
+"016_03","(촀\0Vaya, no sé qué es más adorable:
+\0 tú o tu }촀.\0\0(촀\0¡Ya sé cómo averiguarlo!
+\0 (촀\0(%촀\0Tengo que
+resolver esta ecuación: tú menos
+tu }촀n\0\0\0\0(촀\0Es igual an\0\0
+\0( (2촀\0bueno, tampoco tengo
+que saber la respuesta ahora mismo.
+(.촀\0Que pensar tanto ya me dio sueño."
 "017","<"
 "017_01","(;촀\0Guauuu, qué increíble está tu }촀.
 \0 Y además hueles bienn\0\0
@@ -163,6 +171,14 @@ no sén\0\0
 dormir la siesta, por ejemplo.
 (5촀\0¡Soy todo un experto, n\0!
 "
+"017_03","(촀\0Qué elegante estás con es2촀ea\0
+}촀.\0\0( 촀\0Con esa ropa podrías ser 2ella
+22presentadorpresentadora de un programa de
+música.
+\0(촀\0 ¡Lo harías genial!
+(4촀\0Y, cuando seas ric2oa, no te olvides de
+invitar a tu amigo n
+\0 a comer de vez en cuando."
 "018","<"
 "018_01","2촀EseEsa\0 }촀 que traes se ve limpi2촀oa\0n\0\0 ¿Cuántas veces te l2촀oa\0 has puesto sin lavarl2촀oa\0?
 (촀\0A mí me pasa que en media hora,
@@ -177,6 +193,10 @@ no hay que desperdiciar agua."
 }촀.\0\0(촀\0No sé cómo lo haces, que hasta
 la ropa más simple te queda
 genial, n\0."
+"018_03","(촀\0¿Cómo haces para verte tan increíble
+con 2촀ununa\0 simple }촀?\0\0(%촀\0En serio, cualquier cosa que te
+pongas te queda bien.\0\0(9촀\0Hasta parece que tuvieras poderes
+mágicos o algon"
 "019","<"
 "019_01","( 촀\0Guauuun\0\0
 \0 qué genial está tu }촀.\0\0(&촀\0¿Te disfrazaste de maniquí,
@@ -186,6 +206,10 @@ genial, n\0."
 ese atuendo! 
 \0((7촀\0A mí me da un poco de
 miedito, pero debería aprender de ti."
+"019_03","(촀\0Qué vistos2촀oa\0 es es2촀ea\0 }촀 que tienes puest2촀oa\0.\0\0(촀\0Así, si te pierdes,
+\0 te encontraremos
+enseguida.
+\0 ¡Qué inteligente eres!"
 "020","<"
 "020_01","(&촀\0¿Tienes 2\0}촀?
 \0 (촀\0Se ve muy cómod2촀oa\0n\0\0\0\0(%촀\0Quisiera tener un2촀oa\0 igual y moverme
@@ -197,6 +221,11 @@ ropa ancha,
 \0 para cuando como
 mucho, 
 \0(촀\0que es casi siempre."
+"020_03","(%촀\0A ti te gusta vestirte cómod2oa,
+¿no, n\0? (촀\0Lo digo por tu }촀.\0\0Yo pienso lo mismo. Si mi atuendo
+no es cómodo como para dormir
+una siesta,
+\0 ('촀\0no me sirve."
 "021","<"
 "021_01","(촀\0¿Traes 2\0}촀?
 \0 (촀\0¿Y si 2촀lola\0 manchas, n\0?\0\0('촀\0Yo no puedo ir elegante,
@@ -212,6 +241,12 @@ hambre.
 \0
 y de hambre.
 \0 Sobre todo de hambre, n\0."
+"021_03","(촀\0Vestid2oa con es2촀ea\0 }촀 pareces otra persona.\0\0(촀\0Pero eres n\0, ¿no?
+\0
+(촀\0¡Mejor me presento,
+\0 por si acaso!\0\0(""촀\0Soy n
+\0 y mi postre preferido es 2\0촀.
+\0 ¡Encantado!"
 "101","<"
 "101_01","(촀\0Veo que de verdad te gusta esa
 ropa que traes, n\0.
@@ -337,6 +372,18 @@ tierra firme.
 ese disfraz que tienes puesto.\0\0(9촀\0Seguro que en Halloween
 conseguirías muchos dulces
 vestid2oa así."
+"218","(&촀\0¿Sabes que así vestid2oa eres igualit2oa
+a Santa?
+\0 Solo quería advertirte,
+n\0.
+(9촀\0Porque a lo mejor te miras en el
+espejo, te das un susto terrible
+porque ves a Santan\0\0
+( 촀\0¡y después resulta que eras tú!
+\0
+(촀\0Imagínate la desilusión.
+\0 Créemen\0\0
+(촀\0te lo digo por experiencia."
 "251","(촀\0¡Qué genial,
 \0 hacemos juego!
 \0
@@ -371,8 +418,7 @@ me quedaría helado del asquito."
 \0 síp.
 \0 Colan\0\0
 \0 síp.
-\0 (촀\0¡Ya puedes ser miembro del club conejil,
-\0 n\0!\0\0(3촀\0\0KEntre tú y yo:
+\0 (촀\0¡Ya puedes ser miembro del club conejil, n\0!\0\0(3촀\0\0KEntre tú y yo:
 \0 eso no te obliga a comer solo
 zanahorias.\0d"
 "256","(촀\0¿Hoy te has levantado con las
@@ -394,8 +440,7 @@ y yo juntosn\0\0
 que somos de la misma familia?"
 "258","(촀\0¡Hoy tienes una pinta muy osuna!
 \0 (""촀\0¿Estás dando rienda suelta
-a tu lado más salvaje,
-\0 n\0?"
+a tu lado más salvaje, n\0?"
 "259","(촀\0Vaya,
 \0 debo admitir que 2\0
 }\0\0 te queda mucho mejor que a mí.\0\0(%촀\0Te contaré un pequeño secreto:
@@ -454,8 +499,7 @@ estelar a Saturno o qué,
 \0 Si te puedo encargar una
 cositan\0\0
 \0 (촀\0¡Fíjate si allí venden dulces
-con anillos de colores,
-\0 n\0!"
+con anillos de colores, n\0!"
 "308","(촀\0Me recuerdas a algo que estudié
 en la clase de historia en el cole.
 \0

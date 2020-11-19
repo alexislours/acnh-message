@@ -236,6 +236,51 @@ was hattest du im Sinn?"
 "075_02_a","Brücken/Aufgänge..."
 "075_02_b","Positionen ändern..."
 "075_02_c","Nicht jetzt..."
+"1001","(촀\0Du möchtest mit mir über dein Haus
+reden, 
+\0hm? 
+\0( 촀\0Oh, 
+\0aproposn\0\0 
+\0(\0촀\0Da war
+doch noch eine Kleinigkeit offen."
+"1002","(9촀\0Kurz vor deinem Umzug haben wir
+doch über eine Erweiterung deines
+Wohnraums geredet.\0\0(5촀\0Selbstverständlich habe ich bereits
+alles arrangiert. 
+\0Ja, ja!"
+"1002_01","(9촀\0Kurz vor deinem Umzug haben wir
+doch über Umbauten am Äußeren
+deines Hauses geredet.\0\0(5촀\0Selbstverständlich habe ich bereits
+alles arrangiert. 
+\0Ja, ja!"
+"1003","(%촀\0Morgen sollte alles fertig sein. 
+\0Wer
+auf Nook Inc. vertraut, 
+\0der muss
+nicht lange warten!
+(""촀\0Ich hoffe, 
+\0du wirst mit allem
+zufrieden sein!"
+"1005","(촀\0Du möchtest mit mir über dein Haus
+reden, 
+\0hm? 
+\0( 촀\0Oh, 
+\0aproposn\0\0 
+\0(\0촀\0Da war
+doch noch eine Kleinigkeit offen.\0\0(촀\0Kurz vor deinem Umzug wolltest du
+doch dein Haus an eine andere Stelle
+versetzen lassen, 
+\0(&촀\0oder nicht?\0\0(촀\0Aber das hat sich jetzt wohl erübrigt,
+\0
+da wir auf einer ganz anderen Insel
+sind!\0\0((촀\0Keine Sorge! 
+\0((촀\0Dank der beispielhaften
+Kulanz von Nook Inc. bekommst du
+deine \030.000 Sternis \0￿zurück.\0\0($촀\0Wenn du deinen Kontostand das
+nächste Mal überprüfst, 
+\0sollte die
+Summe eingetroffen sein,
+\0 ja, ja!"
 "101","(촀\0
 \0Oh, 
 \0du brauchst gar keine Hilfe?
@@ -246,6 +291,12 @@ du Fragen hast!"
 \0 Dieser Kauf will reichlich
 überlegt sein.\0\0Komm zu mir, wenn du dich
 entschieden hast."
+"1021","()촀\0Du hast meines Wissens vor deinem
+Umzug eine Erweiterung deines
+Lagers zu Hause beantragt.\0\0(5촀\0Keine Sorge! 
+\0Den Job übernehme
+ich gern, 
+\0ja, ja!"
 "103","(촀\0Ausgezeichnet!
 \0 Ich werde sogleich
 den Beginn der Baumaßnahmen
@@ -253,6 +304,122 @@ veranlassen.
 (촀\0Bis morgen Vormittag sollte alles
 fertig sein.
 \0 Wie aufregend!"
+"1101","(""촀\0Hallo,
+\0 hallo! 
+\0Da du hier aufgetaucht
+bist,
+\0 wird dir der Inhalt meiner An-
+kündigung wohl bekannt sein, hm?"
+"1101_01","()촀\0Wie bereits erwähnt kann ich
+Leuten mit großen Behausungen
+das \0Lager erweitern\0￿."
+"1101_02_00","(촀\0Solch ein Bauvorhaben ist mit er-
+heblichen Kosten verbunden und ich
+muss auf Vorauszahlung bestehen."
+"1101_02_01","(촀\0Die Kosten für das gesamte
+Bauvorhaben müssen im Voraus
+beglichen werden.\0\0()촀\0Insofern gilt mein Angebot leider
+nicht für Kunden, 
+\0die noch einen
+Kredit für ihr Eigenheim abbezahlen."
+"1101_03","(6촀\0Vermutlich hast du immer mehr
+Sachen ins Lager verfrachtet, 
+\0als
+dein Haus zunehmend größer wurde.\0\0(7촀\0Da passiert es schnell, 
+\0dass das
+Lager aus allen Nähten platzt.
+\0 Und
+wohin dann mit der alten Couch?\0\0(\0촀\0Eine Erweiterung des Lagers könnte
+da Abhilfe schaffen. 
+\0(""촀\0Melde dich,
+\0
+wenn du an Details interessiert bist!"
+"1111","(촀\0Oho!
+\0 Eine Erweiterung des Lagers
+kommt für dich also in Betracht, 
+\0hm?\0\0(%촀\0Ich kann dir versprechen, 
+\0dass
+du erheblich mehr Dinge lagern
+könntest als derzeit.\0\0(촀\0Nur kann ich leider keinen Kredit
+gewähren. 
+\0Du müsstest im Voraus
+\0500.000 Sternis \0￿bezahlen.\0\0((촀\0Das erscheint mir allerdings ein
+geringer Preis dafür, 
+\0dass du danach
+so viele Sorgen los wärst.\0\0(&촀\0Habe ich dich überzeugen können?
+\0
+Bist du bereit,
+\0 \0500.000 Sternis \0￿für
+ein erweitertes Lager auszugeben?"
+"1111_a","(%촀\0Ja, bitte!"
+"1111_b","('촀\0Nicht jetzt..."
+"1112","(촀\0Hervorragend!
+\0 Dann kümmere ich
+mich umgehend um den nötigen
+Papierkram.\0\0(%촀\0Ich gehe davon aus, 
+\0dass bis morgen
+alles abgeschlossen ist. 
+\0Und zwar
+schon morgens. 
+\0(촀\0Ui, 
+\0wie spannend!"
+"1113","(촀\0Ja, ja, 
+\0die Kosten sind beträchtlich,
+\0
+da will die Entscheidung gut überlegt
+sein. 
+\0($촀\0Komm jederzeit wieder!"
+"1114","(촀\0Dein Enthusiasmus gefällt mir!
+\0(
+Ich muss dich aber daran erinnern,
+\0
+dass du im Voraus zahlen musst.\0\0(7촀\0Leider scheinst du nicht genügend
+Sternis bei dir zu haben.\0\0(\0촀\0Solch einen Betrag führt man nicht
+immer mit sich,
+\0 abern\0\0
+\0 (촀\0komm bitte
+wieder, 
+\0wenn du ihn beisammen hast."
+"1115","(촀\0Tut mir leid, 
+\0aber
+\0 ('촀\0Lagerweiterungen
+sind nur möglich, 
+\0wenn ein Hausbe-
+sitzer keinen Kredit mehr abbezahlt.\0\0(\0촀\0Kreditzahlungen sind tags wie nachts
+über das \0NookPortal\0￿ jederzeit
+möglich.\0\0(촀\0Setzen wir unsere Unterhaltung
+fort, 
+\0wenn dein Kredit getilgt ist!"
+"1116","(%촀\0Die Erweiterung deines Lagers sollte
+morgen abgeschlossen sein. 
+\0Und
+zwar schon morgens! 
+\0(""촀\0Spannend, 
+\0hm?"
+"1191","(촀\0Sollen wir über dein Haus reden,
+\0
+hm?
+\0 (&촀\0Worum genau geht es denn?"
+"1191_a","Lager erweitern."
+"1191_b","Ich will renovieren."
+"1191_c","Ich will umziehen."
+"1191_d","Nicht jetzt..."
+"1192","(촀\0Sollen wir über dein Haus reden,
+\0
+hm?
+\0 (&촀\0Worum genau geht es denn?"
+"1192_a","Lager erweitern."
+"1192_b","Ich will renovieren."
+"1192_c","Nicht jetzt..."
+"1193","(촀\0So, 
+\0jetzt habe ich dich lang genug
+warten lassen...
+\0((&촀\0 Wie kann ich dir
+helfen?"
+"1193_a","Lager erweitern."
+"1193_b","Ich will renovieren."
+"1193_c","Ich will umziehen."
+"1193_d","Nicht jetzt..."
 "201","(촀\0Oh! 
 \02\0n\0!\0\0(촀\0Hast du dich wegen des Erwerbs
 einer Immobilie entschieden? 

@@ -99,9 +99,9 @@ cástings.
 de lo salvaje, ¿vale?
 ('촀\0Pero no sé muy bien cómo funciona
 esto del exterior.
-\0 촊(촀\0Por eso me he
-comprado esto,
-\0촉 촆para aclimatarme."
+\0 촊(촀\0Por eso uso esto:촉
+\0
+para aclimatarme.촆촃"
 "017","촊촉(촀\0¿A que mi }\0\0 es superideal?\0\0(%촀\0¡Ilumina toda la estancia a
 la per
 \0fec
@@ -214,7 +214,7 @@ mi }\0\0?\0\0촆촃('촀\0Las cosas no solo están de adorno,
 \0
 (촀\0¡también hay que usarlas y tocarlas
 y disfrutarlas, n\0!"
-"030","(&촀\0¿Tú como llevas el tema «enseres
+"030","(&촀\0¿Tú cómo llevas el tema «enseres
 prácticos vs. cacharros díver»?\0\0촊촉(촀\0Porque yo como que no sé si sería
 capaz de vivir plenamente sin
 mi }\0\0.
@@ -250,6 +250,13 @@ superpoco desarrolladan\0\0
 \0 ('촀\0No creo
 que 2촀lola\0 saque de gira,
 \0 la verdadn"
+"033","촊촉(촀\0Cuando algo me enfría el ánimo,
+\0 mi }\0\0 es todo lo que necesito 촆촃(5촀\0para encenderme.\0\0(촀\0¿Lo pillas?
+\0 Es un juego de palabras.
+\0
+Si lo de ser estrella del pop me falla,
+\0
+((촀\0siempre podré ser humorista."
 "999","<"
 "999_01","¡Bienvenid2oa al majestuoso hogar
 (촀\0de la moi!\0\0(촀\0Lo tengo decorado 
@@ -269,3 +276,9 @@ gusto,
 \0 supercuqui.\0\0(촀\0¡Mira todo lo que quieras y alaba
 mi buen gusto!
 \0 ¡Dame tu aprobación!"
+"999_02","촉촊(&촀\0¿Se te van los ojos a mi }\0\0⁠?
+\0 (촀\0Claro,
+\0 está ahí con toda la intención.\0\0촆촃((촀\0Tenía muy claro cómo quería decorar
+esta habitación
+\0 (5촀\0y por mis pestañas
+que lo he logrado, n\0."

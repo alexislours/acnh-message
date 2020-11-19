@@ -272,6 +272,9 @@ are...""Bikers Are More Fun."""
 I can do whatever I want!
 \0
 WOO-HOO!"
+"200_01","My move is complete...
+\0
+Deserted-island life begins anew!"
 "204_02","Yes!
 \0 I finished paying
 off my home loan!"
@@ -314,6 +317,14 @@ a \0vanity\0￿ or a \0mirror\0￿!"
 options!
 \0 I bet I could change up
 my look with a \0vanity\0￿ or a \0mirror\0￿!"
+"210_13","I learned some new \0hairstyles\0￿!
+\0
+I bet I could change up my look even
+more with a \0vanity\0￿ or a \0mirror\0￿..."
+"210_14","Whoa, I learned some new \0Reactions\0￿!
+\0
+I can press \0 \0￿to see all of them and
+choose how to express myself."
 "211_01","Now I can do \0river construction
 \0￿with my \0Island Designer \0￿app!"
 "211_02","Now I can do \0cliff construction
@@ -419,7 +430,26 @@ nice getting to celebrate with
 good cake and good friends."
 "701","Supplies for getaway-package
 participants are likely inside."
+"702","There are still Z\0 gifts left in the bag."
+"703_01","Let's see. I still have presents forn\0\0\0\0s촀,
+\0
+s촁, and
+\0
+s촂."
+"703_02","Let's see. I still have presents forn\0\0
+\0
+s촀 and
+\0
+s촁."
+"703_03","Let's see. I still have a present forn\0\0
+\0
+s촀."
+"704","The bag is completely empty!"
 "901","Should I put my tent here?"
+"901_01","Should I set up my home here?"
+"901_01_a","Let me imagine it..."
+"901_01_b","This is the spot!"
+"901_01_c","I need to rethink it."
 "901_a","Let me imagine it..."
 "901_b","This is the spot!"
 "901_c","I need to rethink it."
@@ -618,6 +648,10 @@ for the \0tailor shop\0￿!"
 "960_05","I picked a new location for
 the \0campsite\0￿! I hope we get
 even more visitors now!"
+"961","I picked a spot for my house!
+\0
+Now I have a home base for my
+island adventures!"
 "990","I'm searching for treasure right now,
 \0
 so I'll look for a good place for this

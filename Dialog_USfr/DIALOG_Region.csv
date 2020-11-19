@@ -9,13 +9,13 @@ Une fête en l'honneur des enfants et
 de ceux qui les élèvent. Ils méritent
 bien d'être couronnés pendant au
 moins une journée!"
-"Equip_1222","\0Solstice d'été\0￿
-Cette joyeuse fête est l'occasion de
-célébrer l'arrivée de l'été. On tresse
-alors des couronnes de fleurs et
-on danse à la santé et à l'amour.
-Votre belle coiffe de tournesols
-attirera peut-être l'âme sœur!"
+"Equip_1222","\0Solstice d'été
+\0￿Le solstice d'été correspond au
+jour le plus long de l'année. Portez
+cette coiffe de tournesols sous
+l'interminable crépuscule de cette
+journée, et peut-être rencontrerez-
+vous l'amour!"
 "Equip_1233","\0Festival du raisin\0￿
 Cette fête inspirée des traditions
 allemande, espagnole, italienne et
@@ -24,11 +24,10 @@ la récolte du raisin lors d'une parade
 dansante en costume folklorique,
 où ce panier ne déparerait pas!"
 "Equip_1246","\0Solstice d'hiver\0￿
-C'est en ce jour que la nuit est la
-plus longue de toute l'année. Dans
-l'hémisphère sud, les gens se
-préparent déjà à l'hiver, avec des
-gilets bien chauds comme celui-ci!"
+Le solstice d'hiver est le jour le plus
+court de l'année. Enfilez ce chandail
+chaud pour montrer à l'hiver que
+vous ne le craignez pas!"
 "Equip_1301","\0Jour du bouvier et de la tisserande\0￿
 Cette fête provient de la légende
 de deux amants maudits qui n'étaient
@@ -43,6 +42,20 @@ réunis qu'une fois par an. En portant
 cette tenue si particulière, vous
 aurez peut-être envie de retrouver
 une personne chère à votre cœur."
+"Item_01004","\0Shōgatsu (Nouvel An)\0￿
+D'après la tradition japonaise, Toshigami-
+sama, un dieu de la nouvelle année, se
+rend dans chaque maison au premier jour
+de l'année pour la bénir. Le kadomatsu
+est une sorte de panneau de bienvenue
+destiné à lui réserver un bon accueil."
+"Item_01005","\0Shōgatsu (Nouvel An)\0￿
+Au Japon, on confectionne des
+kagamimochi (« mochi miroirs »)
+en offrande à Toshigami-sama.
+Le 11 janvier, on fractionne le mochi et
+on le mange pour partager l'esprit qu'il
+renferme et s'assurer ainsi la santé."
 "Item_01182","\0Tanabata\0￿
 Le 7 juillet célèbre les retrouvailles
 des divinités Orihime et Hikoboshi.
@@ -69,10 +82,84 @@ bien des pays, et ce festival s'inspire
 du folklore brésilien. Nous espérons
 que ce petit jouet vous mettra dans
 l'ambiance. Yiiihaaa!"
-"Item_13287","\0Nuit de la lune\0￿
+"Item_13287","\0Fête de la lune\0￿
 On contemple la lune depuis des temps
-immémoriaux, mais l'astre des nuits
+immémoriaux, mais l'astre de la nuit
 n'est jamais aussi beau que lorsqu'il
 pare le ciel à cette époque de
-l'année. Acceptez ce tapis lune
-commémoratif en souvenir!"
+l'année. Un tapis lune commémoratif
+est disponible pour l'occasion!"
+"Item_13459","\0Nouvel An\0￿
+Le Yut Nori est un jeu de société
+traditionnel coréen. Au lieu de dés,
+des bâtons (« yuts ») sont utilisés.
+Ce n'est qu'un jeu, alors ne vous
+disputez pas avec votre famille dès
+le réveillon à cause d'une partie!"
+"Item_13462","\0Nochevieja (Nouvel An)\0￿
+Manger « las doce uvas de la suerte »
+(« les douze raisins de la chance ») à
+minuit lors du Nouvel An porte bonheur.
+Pendant que sonnent les douze coups de
+minuit, on consomme un raisin à chaque
+coup de cloche. N'avalez pas de travers!"
+"Item_13463","\0St-Sylvestre (Nouvel An)\0￿
+La boule de Berlin est une pâtisserie
+allemande remplie de confiture et
+saupoudrée de sucre (une sorte de
+beigne à la confiture). On en trouve
+toute l'année, mais pendant les fêtes,
+elle est incontournable en Allemagne."
+"Item_13490","\0Nouvel An\0￿
+Certains peuples placent des
+figurines d'animaux zodiacaux devant
+les habitations pour les protéger et
+s'assurer une bonne fortune pendant
+l'année. N'hésitez pas à en poser
+une devant chez vous!"
+"Item_13501","\0Shōgatsu (Nouvel An)\0￿
+Un shimekazari est une décoration
+japonaise en corde censée purifier la
+maison en y invitant Toshigami-sama
+et en repoussant les impuretés.
+Accrochez-en un à votre porte pour
+conjurer le mauvais sort!"
+"Item_13543","\0Nouvel An\0￿
+Une arche sur laquelle est inscrite
+l'année grégorienne. Passer sous
+l'arche en portant ses espoirs et ses
+rêves dans son cœur serait gage
+d'une année remplie de bonheur!"
+"Item_13596","\0Solstice d'été
+\0￿Le solstice d'été correspond au jour
+le plus long de l'année. Mais avec
+ce tapis tournesol, chaque jour ne
+pourra être que beau et ensoleillé!"
+"Item_13609","\0Solstice d'hiver\0￿
+Le solstice d'hiver est le jour le plus
+court de l'année. Ce papier peint
+représente ce phénomène fascinant
+si typique des climats arctiques...
+l'aurore polaire! Sa beauté irréelle
+vous fera même oublier le froid..."
+"Item_13797","\0Ōmisoka (Nouvel An)\0￿
+Au Japon, on fête la nouvelle année
+en se régalant de toshikoshi-soba
+(« soba du passage à l'année nouvelle »).
+Les nouilles longues et faciles à
+trancher symbolisent une vie longue
+et débarrassée des problèmes passés."
+"Item_13799","\0Nouvel An\0￿
+Cette salade, plat traditionnel du
+Nouvel An russe, est apparue vers la
+fin du 19e siècle. Elle a été créée par
+Lucien Olivier, mais comme il n'a pas
+publié sa recette, personne ne sait
+comment la réaliser « officiellement »."
+"Item_13835","\0Réveillon de Nouvel An\0￿
+Nouvel An n'est pas vraiment Nouvel An
+si on ne réunit pas tout le monde autour
+d'une boisson pétillante pour faire
+revivre ensemble l'année passée et
+souhaiter à chacun une belle année
+à venir... À la vôtre!"

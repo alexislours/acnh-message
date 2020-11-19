@@ -11,13 +11,11 @@ affinché crescano in salute, e per
 ringraziare chi li cresce. Chi ammira
 la tua corona, dovrà inginocchiarsi
 di fronte alla tua regalità."
-"Equip_1222","Evento: \0Solstizio d'estate\0￿
-Oggi in molti luoghi si festeggia
-l'inizio dell'estate. Alcune persone
-indossano corone di fiori e ballano
-per invocare prosperità e trovare
-l'amore. Magari qualcuno ti noterà
-con quella corona di girasoli..."
+"Equip_1222","Evento: \0solstizio d'estate
+\0￿Il solstizio d'estate è il giorno con
+più luce dell'anno. Indossa questa
+corona di girasoli e il sole non
+tramonterà mai su di te!"
 "Equip_1233","Evento: \0festival della vendemmia
 \0￿Ispirato a festività che si tengono in
 Spagna, Italia, Francia e Germania,
@@ -25,13 +23,11 @@ questo festival prevede abiti tradizionali
 per i partecipanti, danze e una grande
 parata che celebra la vendemmia.
 A te va un canestro commemorativo!"
-"Equip_1246","Evento: \0Solstizio d'inverno
-\0￿Con l'avvento del solstizio d'inverno,
-nell'emisfero meridionale ci si
-prepara per festeggiare il giorno
-più corto dell'anno. Con un maglione
-come questo, sarà più semplice
-sopportare il freddo!"
+"Equip_1246","Evento: \0solstizio d'inverno\0￿
+Il solstizio d'inverno è il giorno
+più buio dell'anno. Indossa questo
+maglione per non prendere freddo
+nemmeno nel giorno più gelido!"
 "Equip_1301","Evento: \0Il pastore e la filatrice
 \0￿Basato sulla sventurata storia di due
 amanti che potevano incontrarsi
@@ -44,6 +40,20 @@ amanti che potevano incontrarsi
 solo una volta l'anno. Forse questi
 abiti speciali ti ispireranno a rivedere
 qualcuno che ti sta a cuore."
+"Item_01004","Evento: \0Shōgatsu (Capodanno)\0￿
+In Giappone, la tradizione vuole che
+Toshigami-sama, il dio dell'anno nuovo,
+visiti ogni casa per impartire la sua
+benedizione. Il ""kadomatsu"" è una
+decorazione di bambù che si mette
+all'ingresso per dargli il benvenuto."
+"Item_01005","Evento: \0Shōgatsu (Capodanno)\0￿
+In Giappone, i dolcetti ""kagami-mochi""
+(mochi specchio) vengono esposti
+come offerta al dio Toshigami-sama.
+L'11 gennaio i mochi vengono aperti e
+mangiati, per liberare lo spirito al loro
+interno e augurare buona salute."
 "Item_01182","Evento: \0Tanabata\0￿
 Festa che si celebra il 7 luglio, giorno
 in cui le divinità Orihime e Hikoboshi,
@@ -74,6 +84,81 @@ entrare nello spirito giusto."
 \0￿Ammirare la luna è una tradizione
 antica, ma la nostra celeste vicina
 è particolarmente graziosa in questo
-periodo dell'anno. Accetta questo
+periodo dell'anno. Considera questo
 tappeto luna commemorativo come
 souvenir dell'evento."
+"Item_13459","Evento: \0Capodanno\0￿
+Lo ""Yut nori"" è un tradizionale gioco da
+tavolo coreano. Al posto dei dadi si
+usano bastoncini di legno chiamati ""yut"".
+Prova a giocarci con la tua famiglia, ma
+occhio allo spirito competitivo. Non vorrai
+iniziare l'anno nuovo con una litigata?!"
+"Item_13462","Evento: \0Nochevieja (Ultimo dell'anno)\0￿
+In Spagna, a mezzanotte, si mangiano
+""las doce uvas de la suerte"" (i 12 acini
+di uva della fortuna) per augurare
+rinnovata fortuna per l'anno nuovo.
+Bisogna mangiare un acino ad ogni
+rintocco. Più facile a dirsi che a farsi!"
+"Item_13463","Evento: \0Silvester (Ultimo dell'anno)\0￿
+I ""Berliner"" sono bomboloni tedeschi
+ripieni di marmellata e ricoperti di
+zucchero a velo. In Germania si
+vendono tutto l'anno, ma sono i dolci
+simbolo dei festeggiamenti per
+l'anno nuovo."
+"Item_13490","Evento: \0Capodanno\0￿
+È usanza comune esporre statuine
+raffiguranti i segni dello zodiaco per
+proteggere la propria famiglia e invocare
+un anno prospero e sereno. Usa queste
+decorazioni per abbellire la tua casa
+e avere un anno fortunato!"
+"Item_13501","Evento: \0Shōgatsu (Capodanno)\0￿
+Le ""shime-kazari"" sono corde
+decorative giapponesi usate per
+purificare la casa in vista della visita
+del dio Toshigami-sama e tenere le
+impurità all'esterno. Usale per decorare
+la tua porta e proteggere la casa!"
+"Item_13543","Evento: \0Capodanno\0￿
+Un arco che riporta le cifre dell'anno
+nuovo secondo il calendario gregoriano.
+Se ci passi sotto con i tuoi sogni e
+e i tuoi buoni propositi per il futuro
+nel cuore, avrai di sicuro un anno
+positivo!"
+"Item_13596","Evento: \0solstizio d'estate
+\0￿Il solstizio d'estate è il giorno con
+più luce dell'anno, ma grazie al
+motivo floreale di questo tappeto,
+ogni giorno sarà soleggiato e
+luminoso!"
+"Item_13609","Evento: \0solstizio d'inverno\0￿
+Il solstizio d'inverno è il giorno più
+buio dell'anno. Questa carta da
+parati raffigura le luci e le sfumature
+uniche dell'aurora boreale. I suoi
+colori così magici ti faranno persino
+dimenticare di quanto freddo fa!"
+"Item_13797","Evento: \0Ōmisoka (Ultimo dell'anno)\0￿
+In Giappone, la fine dell'anno si festeggia
+mangiando ""toshikoshi-soba"" (soba del
+passaggio dell'anno). La lunghezza dei
+tagliolini rappresenta una vita lunga,
+mentre la facilità nel tagliarli simbolizza
+la separazione dai problemi del passato."
+"Item_13799","Evento: \0Capodanno\0￿
+Questa insalata, immancabile nei
+festeggiamenti in Russia, risale alla
+fine del XIX secolo. Fu creata da
+Lucien Olivier, ma dato che la sua
+ricetta non fu mai rivelata, nessuno sa
+come preparare la versione ""originale""."
+"Item_13835","Evento: \0Ultimo dell'anno\0￿
+Ogni ultimo dell'anno che si rispetti
+si festeggia con un brindisi con
+una bevanda frizzante. Si rievoca
+l'anno appena finito e si augura
+a tutti un nuovo anno felice. Cin cin!"

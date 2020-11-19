@@ -110,8 +110,7 @@ dicho a n촀
 gusta
 gusta\0gustangustan\0 촀.
 (8촀\0Si ya no te entusiasmara ese pasatiempo,
-\0 (촀\0¡me habrías hecho quedar muy mal,
-\0 n\0!"
+\0 (촀\0¡me habrías hecho quedar muy mal, n\0!"
 "011_05","(촀\0Ah,
 \0 ¡qué alivio!
 \0 (4촀\0Porque le conté a los
@@ -548,8 +547,7 @@ ActorActriz"
 "100_09_c","2&DirectorDirectora de empresa"
 "100_09_d","Otra cosa"
 "100_09_e","No tengo nada pensado"
-"100_10","(&촀\0¿Tienes algún pasatiempo para tus ratos libres,
-\0 n\0?"
+"100_10","(&촀\0¿Tienes algún pasatiempo para tus ratos libres, n\0?"
 "100_10_a","La fotografía"
 "100_10_b","Leer"
 "100_10_c","La alfarería"

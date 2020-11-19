@@ -9,7 +9,7 @@ greeting that's just for us."
 "001_b","Not interested."
 "002","(4촀\0Hey, remember our special greeting?
 \0
-""n\0Say good morning, sunshinen""?\0\0(촀\0Do youn\0\0maybe want to change it?"
+""2\0n\0Say good morning, sunshinen""?\0\0(촀\0Do youn\0\0maybe want to change it?"
 "002_a","(\0촁\0I guess we could?"
 "002_b","(\0촁\0I like it as-is."
 "003","(6촀\0Hey, I've got a proposal for youn\0\0\0\0(&촀\0What if we had some kind of unique
@@ -52,14 +52,14 @@ should keep it. 
 \0You're my
 brand guru!"
 "100","(;촀\0Alright! Whaddaya got for me?"
-"101","(9촀\0OK, let's try it on for size.\0\0(6촀\0n\0Say good morning, sunshinen!
+"101","(9촀\0OK, let's try it on for size.\0\0(6촀\02\0n\0Say good morning, sunshinen!
 \0
 (&촀\0What do you think? 
 \0Are you
 feeling it?"
 "101_a","Nice! You sold it."
 "101_b","Nah, let's try again."
-"102","(9촀\0OK, let's try it on for size.\0\0(6촀\0n\0Say good morning, sunshinen!
+"102","(9촀\0OK, let's try it on for size.\0\0(6촀\02\0n\0Say good morning, sunshinen!
 \0
 (촀\0Waitn\0\0that's the exact same as it was
 before! 
@@ -72,11 +72,11 @@ from the top!"
 "104","(촀\0What are you doing?
 \0( (촀\0You can't just
 leave me hangin'!"
-"200","(촀\0n\0Say good morning, sunshinen!
+"200","(촀\02\0n\0Say good morning, sunshinen!
 \0
 (촀\0YES! 
 \0I'm in love with it already."
-"201","(""촀\0n\0Say good morning, sunshinenn\0\0
+"201","(""촀\02\0n\0Say good morning, sunshinenn\0\0
 \0
 (촀\0Oh, that's straight-up n\0!"
 "202","(촀\0Get ready, because I'm about to
@@ -106,4 +106,4 @@ have second-guessed our original
 choice.
 \0(촀\0 It still totally works!"
 "302","(촀\0Let's say it together one more
-time, shall we?\0\0(!촀\0n\0Say good morning, sunshinen!"
+time, shall we?\0\0(!촀\02\0n\0Say good morning, sunshinen!"

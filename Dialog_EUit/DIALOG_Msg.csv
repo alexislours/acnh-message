@@ -250,6 +250,19 @@ per \0Z\0\0￿?"
 "1105_a","Ordina"
 "1105_b","Regala"
 "1105_c","Annulla"
+"1106","Vuoi ordinare
+2\0\0}\0\0 \0￿per
+\0Z\0\0￿? \0\0Puoi personalizzare
+il tuo smartphone al banco da lavoro.\0￿"
+"1106_a","Annulla"
+"1106_b","Ordina"
+"1107","Vuoi ordinare
+2\0\0}\0\0 \0￿per
+\0Z\0\0￿? \0\0Puoi personalizzare
+il tuo smartphone al banco da lavoro.\0￿"
+"1107_a","Ordina"
+"1107_b","Regala"
+"1107_c","Annulla"
 "1108","Hai effettuato l'ordine con successo!
 Verrà recapitato per posta a casa tua
 in breve tempo."
@@ -1173,6 +1186,14 @@ aver scambiato miglia.\0￿"
 sperimentare con lenti a contatto
 di nuovi colori! \0\0Riceverai la stampa
 subito dopo aver scambiato miglia.\0￿"
+"3026","Impara a esprimere varie emozioni per
+rendere la tua vita sull'isola ancora
+più divertente. \0\0Riceverai la stampa
+subito dopo aver scambiato miglia.\0￿"
+"3027","Ancora più tagli di capelli da provare
+davanti a uno \0specchio\0￿ o una \0toletta\0￿!
+\0\0Riceverai la stampa subito dopo
+aver scambiato miglia.\0￿"
 "5001","\0Fotocamera\0￿
 Ti permette di scattare delle foto
 e applicarvi vari filtri ed effetti.\0\0\0\0Le immagini saranno salvate
@@ -1667,6 +1688,10 @@ essere verificata tramite Internet.\0\0Verrà effettuato il collegamento
 a Internet per avviare la procedura."
 "8020_a","No"
 "8020_b","OK"
+"8021","Sono stati trovati dei dati di un
+utente con un trasferimento in
+corso da un'altra isola.
+Il trasferimento riprenderà ora."
 "9001","Vuoi avviare il processo di ripristino
 dei dati di backup dell'isola?"
 "9001_a","No"
@@ -1680,3 +1705,53 @@ ultimata. Ora tornerai al gioco."
 "9015_a","OK"
 "9016","Salvataggio in corso.
 \0\0Non toccare il pulsante POWER .\0￿"
+"9101","L'utente che stai usando non dispone
+di un account Nintendo collegato.\0\0Vuoi collegare ora un account
+Nintendo per conservare i dati di
+salvataggio delle funzioni che utilizzano
+Internet, come l'app Contatti?"
+"9101_a","No"
+"9101_b","Sì, collegalo"
+"9102","Se prima di procedere non colleghi
+un account Nintendo, tutte le
+funzioni che utilizzano Internet
+verranno resettate. Vuoi continuare?"
+"9102_a","No"
+"9102_b","Sì, resetta"
+"9103","L'account Nintendo collegato
+a questo utente è diverso
+dall'account Nintendo usato
+sulla console precedente.\0\0Pertanto, tutte le funzioni che utilizzano
+Internet, come per esempio l'app
+Contatti, verranno resettate.
+Vuoi continuare?"
+"9103_a","No"
+"9103_b","Sì, resetta"
+"9104","I dati di salvataggio delle funzioni che
+usano Internet sono stati resettati."
+"9104_a","OK"
+"9105","Chiudi il gioco dal menu HOME,
+poi collega un utente allo stesso
+account Nintendo che utilizzavi prima
+del trasferimento e riavvia il gioco."
+"9105_01","Chiudi il gioco dal menu HOME, poi
+riavvia il gioco con un utente collegato
+allo stesso account Nintendo che
+utilizzavi prima del trasferimento."
+"9111","Sulla console Nintendo Switch di
+destinazione non sono presenti
+dati di salvataggio del gioco
+\0Animal Crossing: New Horizons\0￿.\0\0Se continui con la procedura di
+trasferimento, \0s\0촀\0￿
+diventerà 2촀illa\0 \0portavoce\0￿ dell'isola sulla
+console di destinazione. Vuoi procedere?"
+"9111_a","Annulla"
+"9111_b","Procedi"
+"9112","Il processo di trasferimento dei
+dati richiederà un po' di tempo.
+Se giochi in modalità portatile,
+usando lo schermo della console,
+collega la console Nintendo Switch
+a un blocco alimentatore prima di
+avviare il processo di trasferimento."
+"9112_a","Ho capito"

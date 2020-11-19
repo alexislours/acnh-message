@@ -212,6 +212,41 @@ voulais me parler?"
 "075_02_a","Les ponts et les rampes."
 "075_02_b","Déplacer un bâtiment."
 "075_02_c","En fait, non."
+"1001","(촀\0Tu aimerais sûrement parler de ta
+maison, hm?\0\0()촀\0Avant d'aborder le sujet,
+\0 j'ai encore
+une petite chose à t'expliquer."
+"1002","(9촀\0Juste avant de déménager,
+\0 (&촀\0tu avais
+fait une requête d'extension de ton
+intérieur,
+\0 n'est-ce pas?\0\0(촀\0Eh bien, j'ai le plaisir de t'informer
+que j'accepte le chantier, 
+\0oui oui!"
+"1002_01","(9촀\0Juste avant de déménager,
+\0 (&촀\0tu avais
+fait une requête de modification de
+ton extérieur,
+\0 n'est-ce pas?\0\0(촀\0Eh bien, j'ai le plaisir de t'informer
+que j'accepte le chantier, 
+\0oui oui!"
+"1003","(%촀\0Je dirais même plus, tout devrait être
+prêt demain. 
+\0Efficace, n'est-ce pas?
+\0
+(""촀\0J'espère que ça t'enchante!"
+"1005","(촀\0Tu aimerais sûrement parler de ta
+maison, hm?\0\0()촀\0Avant d'aborder le sujet,
+\0 j'ai encore
+une petite chose à t'expliquer.\0\0(촀\0D'après mon dossier, tu avais déposé
+une requête de déplacement juste
+avant de partir, 
+\0(&촀\0je me trompe?\0\0(촀\0Mais comme tu as quitté l'île, le
+contrat n'a pas pu être honoré.\0\0((촀\0Alors bonne nouvelle! 
+\0((촀\0Je t'ai
+remboursé les \030 000 clochettes
+\0￿de frais administratifs.\0\0($촀\0Tu pourras vérifier ton solde au DAC
+dès que tu auras un moment."
 "101","(촀\0Oh, tu n'as pas besoin d'aide?
 \0
 (촀\0Fort bien, mais je suis là si tu as des
@@ -222,12 +257,112 @@ de première importance qui ne se
 conclut pas à la légère, non, non.
 Reviens me voir lorsque tu auras
 pris ta décision, hm?"
+"1021","()촀\0Je crois savoir qu'avant ton arrivée,
+tu as demandé à agrandir ton espace
+de rangement, hm?
+(5촀\0Aucun problème!
+\0 Je serai ravi de
+me charger de cette agréable
+sinécure, oui, oui!"
 "103","(촀\0Parfait! 
 \0Je vais lancer le chantier
 sans plus tarder.\0\0(촀\0Les travaux devraient être achevés
 dès demain matin. 
 \0Tout cela est si
 exaltant, oui, oui!"
+"1101","(""촀\0Bonjour, bonjour!
+\0 Je suppose que
+tu n'as pas raté mon courrier, hm?"
+"1101_01","()촀\0J'y proposais un \0agrandissement
+de l'espace de rangement\0￿ aux
+propriétaires de grandes maisons."
+"1101_02_00","(촀\0Hélas, un tel chantier ne se finance
+pas comme ça, je suis donc obligé de
+demander un paiement comptant."
+"1101_02_01","(촀\0Mais les frais devant être réglés
+d'avance, je ne peux pas le proposer
+aux titulaires d'un emprunt."
+"1101_03","(6촀\0Je suppose qu'à mesure que ton
+logis grandissait, tu as accumulé
+bien des choses dans ton espacen\0\0
+(7촀\0Et le temps de dire « ouf », ton
+espace de rangement était plein!
+\0
+(촀\0Et que faire alors de ton vieux sofa?\0\0(\0촀\0C'est facile! Il suffit d'agrandir son
+espace de rangement! 
+\0(""촀\0Alors, n'hésite
+pas à m'en reparler si ça te travaille!"
+"1111","(촀\0Oh, oh!
+\0 Tu désires en savoir plus
+sur le service d'agrandissement
+de l'espace de rangement, hm?\0\0(%촀\0Un espace agrandi te permettrait
+d'entreposer beaucoup, beaucoup
+plus d'objets qu'actuellement.\0\0(촀\0Cependant, pour diverses raisons, je
+ne peux te proposer un prêt.
+\0 Il faut
+payer d'avance \0500 000 clochettes\0￿.\0\0((촀\0Mais il s'agit là d'une somme fort
+modique par rapport à la sérénité
+que t'apportera un espace agrandi.
+(\0촀\0Alors, 
+\0(&촀\0ai-je piqué ta curiosité?
+\0 Es-tu
+prêt2\0e à dépenser \0500 000 clochettes
+\0￿pour agrandir ton espace?"
+"1111_a","(%촀\0Allons-y!"
+"1111_b","('촀\0En fait, non."
+"1112","(촀\0Formidable!
+\0 Je m'occupe de
+la paperasse immédiatement.\0\0(%촀\0Tout devrait être prêt d'ici demain
+matin. 
+\0(촀\0Oh! Je ne tiens plus en place,
+non, non!"
+"1113","(촀\0Oui, oui!
+\0 Rien ne presse.
+\0 C'est une
+somme conséquente dont on ne se
+déleste pas sur un coup de tête.\0\0($촀\0Reviens quand tu voudras!"
+"1114","(촀\0J'aime cet enthousiasme! 
+\0(촀\0Hélas,
+j'ai le pénible devoir de te rappeler
+qu'il faut payer d'avance.\0\0(7촀\0Or, tu n'as pas l'air de disposer de la
+trésorerie nécessaire pour une telle
+opération.
+(\0촀\0Tu me diras que ça fait beaucoup
+de clochettes à trimballer, maisn\0\0
+(촀\0reviens quand tu les auras sur toi."
+"1115","(촀\0Navré, maisn\0\0('촀\0 je ne peux accepter de
+requête d'agrandissement si le prêt
+immobilier n'a pas été remboursé.
+(\0촀\0Les remboursements peuvent être
+effectués depuis le \0Nook Stop\0￿ à tout
+moment, de jour comme de nuit.\0\0(촀\0Nous pourrons reprendre cette
+conversation dès que tu auras
+accompli cette menue formalité."
+"1116","(%촀\0L'agrandissement de ton espace
+de rangement sera terminé demain.
+\0
+(""촀\0Encore un peu de patience, hm?"
+"1191","(&촀\0Tu désires m'entretenir de ton
+bien immobilier? 
+\0(촀\0Vas-y, je suis
+tout ouïe, oui, oui!"
+"1191_a","Agrandir l'espace rangement."
+"1191_b","Je veux personnaliser."
+"1191_c","Je veux déménager."
+"1191_d","En fait, non."
+"1192","(&촀\0Tu désires m'entretenir de ton
+bien immobilier? 
+\0(촀\0Vas-y, je suis
+tout ouïe, oui, oui!"
+"1192_a","Agrandir l'espace rangement."
+"1192_b","Je veux personnaliser."
+"1192_c","En fait, non."
+"1193","(촀\0Bon, trêve de bavardagesn\0\0(&촀\0
+Que puis-je faire pour toi?"
+"1193_a","Agrandir l'espace rangement."
+"1193_b","Je veux personnaliser."
+"1193_c","Je veux déménager."
+"1193_d","En fait, non."
 "201","(촀\0Oh! 2\0n\0!\0\0(촀\0As-tu pris une décision à propos de
 ton destin de propriétaire?
 \0 Prêt2\0e à

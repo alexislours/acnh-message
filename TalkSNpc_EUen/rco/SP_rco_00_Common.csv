@@ -203,6 +203,42 @@ what(&촀\0 did you have in mind?"
 "075_02_a","About bridges/inclines."
 "075_02_b","I want layout changes."
 "075_02_c","Not now."
+"1001","(촀\0Now, I'm sure you're quite eager
+to talk about your home, hm?\0\0()촀\0But before we get to that, I believe
+we have one minor piece of
+unfinished business to discuss."
+"1002","(9촀\0Just before moving here,
+\0 (&촀\0you
+requested an expansion for your
+living space, did you not?\0\0(촀\0Well, I am pleased to inform you
+that I am more than willing to
+take on that task. 
+\0Yes, yes!"
+"1002_01","(9촀\0Just before moving here,
+\0(&촀\0 you
+requested some changes to the
+exterior of your home, did you not?\0\0(촀\0Well, I am pleased to inform you
+that I am more than willing to
+take on that task. 
+\0Yes, yes!"
+"1003","(%촀\0In fact, everything should be ready
+by tomorrow. 
+\0Quite impressive, hm?
+\0
+(""촀\0I hope you're pleased with it."
+"1005","(촀\0Now, I'm sure you're quite eager
+to talk about your home, hm?\0\0()촀\0But before we get to that, I believe
+we have one minor piece of
+unfinished business to discuss.\0\0(촀\0According to my records, you put
+in a request to relocate your home
+just before moving, 
+\0(&촀\0did you not?\0\0(촀\0Ah, but since you decided to change
+islands, I'm afraid that request was
+never fulfilled.\0\0((촀\0Not to worry! 
+\0((촀\0I've canceled the
+transaction and refunded the
+\030,000 Bell \0￿administrative fee.\0\0($촀\0Do please check your balance at
+the ABD at your next convenience."
 "101","(촀\0
 \0Oh, 
 \0you don't need any help?
@@ -213,12 +249,121 @@ questions about your home!"
 \0 This is a major
 purchase that requires careful
 consideration.\0\0When you're ready, come see me."
+"1021","()촀\0Before you moved here, I heard
+you requested to expand your
+home storage.\0\0(5촀\0Fear not!
+\0 I am more than willing to
+take on the job!
+\0 Yes, yes!"
 "103","(촀\0Excellent!
 \0 I'll get the construction
 started right away.\0\0(촀\0Everything should be ready for you
 by tomorrow morning.
 \0 So exciting!
 Exciting indeed!"
+"1101","(""촀\0Hello, hello!
+\0 I'm guessing you didn't
+miss my missive, then!"
+"1101_01","()촀\0As I mentioned,
+\0 I've begun providing
+\0expanded home storage
+\0\0￿ to those
+with large homes."
+"1101_02_00","(촀\0Unfortunately,
+\0 such construction
+would not come cheap,
+\0 so I'd need
+the entire cost to be paid up front."
+"1101_02_01","(촀\0However,
+\0 the entire construction fee
+must be paid up front,
+\0 so I can't offer
+this to those paying a home loan."
+"1101_03","(6촀\0Now, I imagine that,
+\0 as your house
+has grown,
+\0 you've placed quite a few
+things into storage, hm?\0\0(7촀\0But then, before you know it,
+\0 your
+storage is full!
+\0 And where does your
+old couch go then?
+\0 (촀\0Where indeedn\0\0\0\0(\0촀\0That's what expanded storage would
+aim to solve.
+\0 So,
+\0 (""촀\0think it over, and
+tell me if you'd like to know more!"
+"1111","(촀\0Oho!
+\0 Curious about the home-
+storage expansion service, hm?\0\0(%촀\0Expanded storage would let you
+store many,
+\0 many more things
+than you can currently.\0\0(촀\0Now,
+\0 for various reasons, I can't
+offer a loan for this.
+\0 You'll have to
+pay \0500,000\0￿ \0Bells \0￿up front.\0\0((촀\0But I believe that's a small price to
+pay for the peace of mind you'll get
+from having all that extra space.\0\0(\0촀\0So!
+\0 (&촀\0Have I piqued your interest?
+\0 Are
+you ready to spend \0500,000\0￿ \0Bells
+\0￿and expand your home storage?"
+"1111_a","(%촀\0Yes, let's do it!"
+"1111_b","('촀\0Not now."
+"1112","(촀\0Excellent!
+\0 I'll start on the paperwork
+for the expansion right away.\0\0(%촀\0I believe that I'll have everything
+finished by tomorrow morning.
+\0 (촀\0Oh!
+\0
+This is so exciting!"
+"1113","(촀\0Yes, yes!
+\0 Take your time and think
+it over. 
+\0It's quite a large expense.
+\0
+($촀\0Come back anytime!"
+"1114","(촀\0I love your enthusiasm!
+\0( (촀\0But I'm
+afraid I have to remind you that the
+entire fee must be paid up front.\0\0(7촀\0You don't appear to have the full
+amount with you at the moment.\0\0(\0촀\0I know that's a lot of Bells to carry
+around, butn\0\0
+\0(촀\0please come back once
+you have the full amount with you."
+"1115","(촀\0I'm very sorry, butn\0\0
+\0('촀\0I can't accept
+a storage-expansion request from
+anyone still paying on a home loan.\0\0(\0촀\0Loan payments can be made via the
+\0Nook Stop\0￿ at any time,
+\0 day or night.
+\0
+(촀\0Let's chat again once that's paid off."
+"1116","(%촀\0I should have your home-storage
+expansion finished by tomorrow
+morning.
+\0 (""촀\0Exciting, hm?"
+"1191","(촀\0Time to talk about your home, hm?
+\0
+(&촀\0What shall we discuss?"
+"1191_a","Expand my storage."
+"1191_b","I want to customize."
+"1191_c","I want to relocate."
+"1191_d","Not now."
+"1192","(촀\0Time to talk about your home, hm?
+\0
+(&촀\0What shall we discuss?"
+"1192_a","Expand my storage."
+"1192_b","I want to customize."
+"1192_c","Not now."
+"1193","(촀\0Alright, I've kept you waiting long
+enoughn\0\0
+\0((&촀\0 How can I help you?"
+"1193_a","Expand my storage."
+"1193_b","I want to customize."
+"1193_c","I want to relocate."
+"1193_d","Not now."
 "201","(촀\0Oh! 2\0n\0!\0\0(촀\0Have you made a decision about
 home ownership? Ready to move
 forward into comfort and luxury?\0\0As fun as living in a tent can be,

@@ -135,6 +135,18 @@ con destino a n\0.\0\0Pónganse cómodos y disfruten de
 este video sobre el Paquete Nook
 Inc. de escapada a islas desiertas.
 \0d촂d"
+"1003_02","(%촂\0El primer paso será comprobar tu
+solicitud.
+\0($촂\0($촃\0 ¿Es la primera vez que te
+apuntas a uno de nuestros planes?"
+"1003_02_01","(촂\0(촃\0¡Entendido!
+\0\0Kd\0 ¡Perfectamente!d\0d\0\0(%촂\0Entonces vamos a buscar la solicitud.
+\0
+($촂\0($촃\0¿Nos podrías decir tu \0nombre \0￿y la
+fecha de tu \0cumpleaños\0￿?
+\0\0Kd\0 ¡Por favor!d\0d"
+"1003_02_a","¡Sí!"
+"1003_02_b","Me mudo de otra isla"
 "101","(!촂\0(!촃\0¡Será un placer ayudarte con tu gran
 mudanza a n\0!\0\0(\0촃\0(촂\0Tenemos muchas cosas para
 explicarte,
@@ -159,6 +171,123 @@ necesitamos!\0\0()촂\0Una vez que arribemos,(%촃\0
 te mostraremos la isla y todo lo que
 puedes hacer allí.(촂\0d\0
 \0(촃\0 \0K¡No te preocupes!\0dd"
+"2001","(촂\0(촃\0¡Entendido!
+\0\0Kd\0 ¡Perfectamente!d\0d\0\0(\0촀\0Quieres mudarte desde tu isla
+anterior de \0Animal Crossing:
+New Horizons\0￿.
+\0
+(촂\0(촃\0¡Suena bien!
+\0d\0\0K ¡Muy bien!\0dd"
+"2001_01","Antes de continuar:
+\0($촂\0($촃\0 ¿tienes pensado
+\0transferir tu perfil de usuario \0￿de una
+consola Nintendo Switch a otra?
+()촂\0()촃\0Si es así, primero deberás completar
+ese proceso.\0\0Usa la opción ""\0Transferencia de
+usuario\0￿"" que encontrarás dentro
+de la configuración de la consola.
+(촂\0(촃\0Una vez que hayas terminado con
+ese paso, ¡será un placer ayudarte
+con la mudanza!
+\0d\0\0K ¡Un placer!\0dd"
+"2002","(촂\0(촃\0Muy bien, te ayudaremos con
+el proceso de la mudanza.\0\0(&촂\0(&촃\0¿Ya enviaste una \0\0solicitud de
+transferencia \0￿desde la consola
+Nintendo Switch donde está la isla?"
+"2002_01","Bien, entonces (%촀\0echa un vistazo a
+la consola Nintendo Switch donde
+está ubicada tu isla actual.
+(촀\0Tendrías que poder ver un mensaje
+que dice ""\0\0Solicitud de transferencia
+enviada\0￿"".
+\0\0Kd\0 ¿Lo ves?d\0d
+()촀\0Si lo ves, ahora solamente tienes que
+seleccionar ""\0Comenzar el proceso\0￿"",
+¿entendido?"
+"2002_01_a","\0Comenzar el proceso\0￿"
+"2002_01_b","Mejor olvídalo"
+"2002_a","¡Sí!"
+"2002_b","¿Cómo lo hago?"
+"2002_c","Cambié de parecer"
+"2004","(촂\0(촃\0Bien, parece que hemos encontrado
+algo: s\0촀, de s촀.
+\0($촂\0($촃\0 ¿Es correcto?"
+"2004_a","¡Sí, correcto!"
+"2004_b","Mejor olvídalo"
+"2005","(촂\0(촃\0En ese caso, 
+\0podemos continuar
+con el proceso de la mudanza."
+"2006","(촂\0(촃\0¡Pues ya está!
+\0 Hemos terminado
+con el proceso de la mudanza."
+"2007","()촂\0()촃\0Debes enviar la \0\0solicitud de
+transferencia\0￿ desde la consola
+Nintendo Switch donde vives ahora.(촂\0(촃\0
+Abre \0Animal Crossing: New Horizons
+\0￿y, en la pantalla del título, oprime el
+\0botón  \0￿para acceder a los ajustes.
+(%촂\0(%촃\0Cuando llegue el momento,
+\0 elige
+""\0Quiero mudarme de isla\0￿"" y sigue
+las instrucciones que se muestran.
+(촂\0(촃\0Se pondrá en marcha el proceso de
+mudanza, durante el cual se enviará
+una \0\0solicitud de transferencia\0￿."
+"2008","(촀\0¡Ah, sí!
+\0(()촀\0 Hay algo más que debes
+saber si ya has transferido datos
+de usuario desde otra consola.
+(%촀\0Al usar la opción ""\0Transferencia de
+usuario\0￿"",
+\0()촀\0 tu perfil de usuario ya no
+estará en la consola de origen.
+En ese caso, 
+\0(촂\0(촃\0deberás pedirle \0a otro
+residente de la consola de origen
+que inicie el proceso por ti\0￿."
+"2009","¡Y eso es todo! 
+\0($촂\0($촃\0Entoncesn\0\0
+\0 ¿quieres
+poner en marcha el proceso
+de mudanza?
+\0\0Kd\0 ¿Quieres?d\0d"
+"2009_a","¡Sí, en marcha!"
+"2009_b","¿Cómo funcionaba?"
+"2009_c","Ahora mismo no"
+"2021","Mmmn\0\0
+\0 ($촂\0($촃\0¿Quieres que detengamos
+el proceso de la mudanza?"
+"2021_a","Sí, porfa"
+"2021_b","¡No, sigamos!"
+"2023","( 촂\0( 촃\0¡Oh, vaya! 
+\0Bien, en ese caso, vamos
+a cancelar el proceso ahora mismo.
+\0
+(촂\0(촃\0¡Nos vemos!
+\0\0Kd\0 ¡Buena suerte!d\0d"
+"2024","(촂\0(촃\0
+\0Verásn\0\0
+\0 No hemos podido localizar
+a nadie que esté en pleno proceso
+de mudanza.
+\0(&촂\0(&촃\0 ¿Volvemos a probar?"
+"2024_a","Sí, busca otra vez"
+"2024_b","No hace falta"
+"2025","(촂\0(촃\0¿Eh? 
+\0Vaya, se ha producido
+algún errorn"
 "203_02",""
 "203_03",""
 "203_04",""
+"2051","(촂\0(촃\0¡2\0n\0,
+\0 te estábamos esperando!\0\0($촂\0($촃\0Estabas en pleno proceso de
+mudanza desde otra isla,
+¿verdad?
+\0\0Kd\0 ¡Cómo olvidarlo!d\0d"
+"2052","(촂\0(촃\0¡Sigamos con el proceso!
+\0\0Kd\0 ¡En marcha!d\0d"
+"2053","(%촂\0(%촃\0Ya tenemos todo listo para despegar.
+\0 (촂\0¡En un momento podrás abordar!\0\0()촂\0(%촃\0Al aterrizar, te daremos toda
+la información necesaria sobre
+la vida en la isla.
+\0(촀\0(촀\0\0Kd\0 ¡Ya verás!d\0d"

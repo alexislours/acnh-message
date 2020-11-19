@@ -224,6 +224,11 @@ Pone: «¡Vive a tope!»."
 ¡Puedo hacer lo que me apetezca!
 \0
 ¡Yujuuu!"
+"200_01","Ya he terminado la mudanza.
+\0
+Ahora,
+\0 ¡a seguir disfrutando
+de la vida en una isla!"
 "204_02","¡Bien!
 \0 ¡Ya he terminado
 de pagar otro préstamo!"
@@ -271,6 +276,14 @@ aspecto con un \0tocador\0￿ o un \0espejo\0￿!"
 "210_10","¡He descubierto nuevas opciones
 para cambiar el \0color de los ojos\0￿!\0\0¡Podría lograr un nuevo aspecto
 con un \0tocador\0￿ o un \0espejo\0￿!"
+"210_13","¡He aprendido varios peinados
+nuevos! Podría probarlos frente
+a un \0espejo \0￿o un \0tocador\0￿."
+"210_14","¡He aprendido \0emociones\0￿ nuevas!
+\0
+Basta pulsar \0\0￿ para verlas todasn\0\0
+\0
+¡y a expresarme con libertad!"
 "211_01","¡Ahora puedo \0crear ríos\0￿ con
 la aplicación \0Obras públicas\0￿!"
 "211_02","¡Ahora puedo \0crear zonas elevadas\0￿
@@ -389,7 +402,23 @@ mism2oa...
 el cumple en compañía!"
 "701","Dentro habrá suministros
 del Plan de Asentamiento."
+"702","Todavía quedan Z\0 regalos en el saco."
+"703_01","Quedan regalos para s촀,
+\0 s촁
+\0 y s촂."
+"703_02","A ver,
+\0 todavía me quedan regalos
+para s촀
+\0 y s촁."
+"703_03","Ya solo queda un regalo por repartir:
+\0
+el de s촀."
+"704","¡El saco está vacío!"
 "901","¿Planto mi tienda aquí?"
+"901_01","¿Pongo mi casa aquí?"
+"901_01_a","Imagínate..."
+"901_01_b","¡Este es el sitio!"
+"901_01_c","Me lo voy a pensar..."
 "901_a","Imagínate..."
 "901_b","¡Este es el sitio!"
 "901_c","Me lo voy a pensar..."
@@ -588,5 +617,9 @@ para la \0sastrería\0￿!"
 "960_05","¡He elegido un nuevo lugar para
 la \0zona de acampada\0￿! Espero
 que lleguen más visitas."
+"961","¡He elegido un lugar para mi casa!
+\0
+Será mi base de operaciones para
+desarrollar actividades en la isla."
 "990","Estoy en mitad de una búsqueda
 del tesoro. Ya usaré el kit luego."

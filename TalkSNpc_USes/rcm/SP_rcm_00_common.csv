@@ -96,6 +96,14 @@ quieres vender?"
 \0
 ¿seguro que no lo quieres?
 \0 Te daría Z\0 a cambio."
+"037_01","(촂\0(촃\0¡Cielos!
+\0 ¡Un proyecto para hacer
+2\0}\0\0!\0\0(촂\0Es bastante valioso y poco común;
+\0
+¿seguro que no lo quieres?
+\0(%촃\0 Te daría Z\0 a cambio."
+"037_01_a","(%촀\0¡Trato hecho!"
+"037_01_b","('촀\0Cambié de idea"
 "037_a","(%촀\0¡Trato hecho!"
 "037_b","('촀\0Cambié de idea"
 "038","(촂\0(촃\0Ah, lo siento, pero no te puedo
@@ -138,6 +146,14 @@ por un total de Z\0.
 vender un esquema muy valioson\0\0
 \0
 (&촂\0(&촃\0¿Estás segur2oa?"
+"043_01","(촂\0(촃\0Cuántas cosn\0\0(촂\0(촃\0
+\0 ¡¿Eh?!
+\0 (\0촂\0(\0촃\0Veo que
+quieres vender un proyecto muy
+valioson\0\0
+\0 (&촂\0(&촃\0¿Estás segur2oa?"
+"043_01_a","(%촀\0¡Segurísim2oa!"
+"043_01_b","('촀\0Eh... No, espera"
 "043_a","(%촀\0¡Segurísim2oa!"
 "043_b","('촀\0Eh... No, espera"
 "044_01","(촂\0(촃\0¡De acuerdo!d\0 
@@ -529,9 +545,55 @@ que es el último día que van
 a estar a la venta.
 (촀\0Espero que vuelvas la próxima vez
 que estén a la venta."
+"145","( 촂\0Ah, sí,
+\0 (촀\0hemos decidido empezar
+a vender juguetes,
+\0 aunque solo
+por un tiempo limitado.
+(%촂\0¡Concretamente hasta el 25 de
+diciembre!\0\0()촂\0(촃\0Así la gente tendrá tiempo de
+comprar regalos para el \0Día de
+los Juguetes\0￿.
+(촂\0(촃\0Si te interesa algún artículo,
+\0
+será un gusto atenderte.d\0
+\0 \0K¡Un gusto!\0dd"
 "200","(촂\0(촃\0¡Gracias!d\0
 \0 \0K¡Hasta pronto!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\0¡Ah, un artículo del \0Día del Pavo\0￿!
+\0
+(\0촂\0Se trata de 2\0}\0\0.\0\0()촂\0Debo advertirte que el inventario es
+limitado
+\0(촃\0 y que podrías fabricar algo
+parecido tú mism2oa, si quisieras.
+($촂\0De hecho,($촃\0 tenemos los esquemas
+de proyectos \0a la venta en nuestra vitrina\0￿n\0\0\0\0(%촂\0(%촃\0Lo comento por si quieres considerar
+otra opción.
+\0 ¡A nosotros nos dan lo
+mismo las dos!d\0 
+\0\0K¡Lo mismo!\0dd"
+"2002","(촀\0¡Vaya, casi se me olvida decirte
+cuánto cuesta! 
+\0(촂\0Qué despistadon\0\0\0\0(촀\0Cuesta Z\0.
+\0
+¿Te interesa?"
+"2002_a","(%촀\0¡Para mí!"
+"2002_b","('촀\0Cambié de idea"
+"2003","(촂\0(촃\0No es asunto nuestro,
+\0 pero ya
+aprendiste todos los proyectos
+de esta colección.
+($촂\0($촃\0¿Por qué no intentas fabricar
+los proyectos inspirados en
+el \0Día del Pavo\0￿ que ya tienes?"
+"2004","()촂\0Ah, le has echado el ojo a nuestra
+colección de proyectos inspirados
+en el \0Día del Pavo\0￿.
+(촂\0(촃\0Se trata de 2\0}\0\0.\0\0(촂\0Solo estará a la venta hasta finales
+de este mes,
+\0 así que date prisa
+si te interesa."
 "201","(촂\0(촃\0¡Hola! d\0
 \0\0K¡Hola!\0dd
 \0 ¡Bienvenid2oa a \02\0촀MiniNook\0￿!"

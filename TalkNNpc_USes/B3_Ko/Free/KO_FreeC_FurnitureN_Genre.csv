@@ -125,8 +125,7 @@ pero la otra,
 \0 ¿Ya viste a mi mascota?
 \0
 No sabes cómo le gusta la música.\0\0촆촃(6촀\0Baila con 촀,
-\0 촁 o con lo que sea,
-\0 n\0."
+\0 촁 o con lo que sea, n\0."
 "021","촊촉(\0촀\0¿Te gusta cómo nada mi mascota?
 \0
 (1촀\0Me encanta como se mueve en el
@@ -135,8 +134,7 @@ agua;
 촆촃()촀\0Yo ya no nado tanto como en épocas
 pasadas,
 \0 pero mi mascota lo hace
-por partida doble,
-\0 n\0."
+por partida doble, n\0."
 "022",""
 "023","촉촊(촀\0Espero que no me preguntes por
 la técnica o la historia de esa
@@ -144,8 +142,7 @@ pintura.
 촆촃(2촀\0Entiendo tanto de arte como de
 pasteles de n촀.
 \0 Me fijo en
-el color y nada más,
-\0 n\0."
+el color y nada más, n\0."
 "024","촊촉(%촀\0¡Ah,
 \0 vaya!
 \0 ¿Te gusta 2촀eseesa\0 }\0\0?\0\0촆촃(촀\0Intenté ponerI2촀oa\0 en varios sitios
@@ -160,8 +157,7 @@ falsificación.\0\0Sin embargo,
 \0 si lo llamamos
 ""reproducción"",
 \0 ya no me importa
-que no sea 2촀ella\0 original,
-\0 n\0.\0\0촆촃(촀\0La semántica no me importa tanton\0\0
+que no sea 2촀ella\0 original, n\0.\0\0촆촃(촀\0La semántica no me importa tanton\0\0
 \0
 (촀\0Arte es arte,
 \0 no importa quién haya
@@ -170,14 +166,12 @@ sido el autor."
 mi }\0\0n\0\0\0\0촆촃(촀\0A veces no basta con la brisa que
 entra por la ventanan\0\0
 \0 ¡Hace falta
-algo más potente,
-\0 n\0!"
+algo más potente, n\0!"
 "027","촊촉(1촀\0Puedo pasar horas contemplando
 mi }\0\0.\0\0촆촃(촀\0El otro día me puse a 2&촀mirarlomirarla\0 yn\0\0
 \0
 ( 촀\0Oye,
-\0 ¿qué día es hoy,
-\0 n\0?"
+\0 ¿qué día es hoy, n\0?"
 "028","촊촉()촀\0Sí,
 \0 sé lo que estás pensando.
 \0
@@ -212,8 +206,20 @@ cómo 22촀encenderloencenderla\0,
 un poco más interesante.\0\0Pero no sabes qué pesado fue el
 primer capítulo,
 \0 con lo de la garantía
-y las precauciones,
-\0 n\0."
+y las precauciones, n\0."
+"033","촊촉(%촀\0No sabes lo que ha cambiado mi vida
+cotidiana desde que tengo mi
+}\0\0.
+촆촃(촀\0Antes tenía las patas congeladas
+todo el tiempo.
+\0 (촀\0¡No paraba de
+frotármelas para entrar en calor!
+(7촀\0Pero ahora,
+\0 gracias a estos inventos
+de la tecnología moderna,
+\0 ya no me
+tengo que preocupar más.
+\0 "
 "999","<"
 "999_01","( 촀\0Oye,
 \0 ¿qué miras?
@@ -227,3 +233,9 @@ en tu casa.
 \0 Y si quieres pasar
 el plumero,
 \0 ¡adelante!"
+"999_02","(;촀\0¿Qué te parece mi humilde morada?
+\0
+(7촀\0Decorar no es lo mío,
+\0 pero a mí me
+gusta como está,
+\0 n\0."

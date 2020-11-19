@@ -66,7 +66,7 @@ Sie heute brauchen."
 "002_01","Alson\0\0 
 \0(&촀\0was kann ich für Sie tun?"
 "002_01_a","Ich möchte träumen!"
-"002_01_b","Mein geteilter Traum..."
+"002_01_b","Wegen des Inseltraums..."
 "002_01_c","Wo bin ich?"
 "002_01_d","Ich möchte aufwachen."
 "002_02","(&촀\0Kann ich Ihnen sonst irgendwie
@@ -78,7 +78,7 @@ weiterhelfen?"
 "002_03","(&촀\0Kann ich Ihnen sonst irgendwie
 weiterhelfen?"
 "002_03_a","Ich möchte träumen!"
-"002_03_b","Mein geteilter Traum..."
+"002_03_b","Wegen des Inseltraums..."
 "002_03_c","Wo bin ich?"
 "002_03_d","Ich möchte aufwachen."
 "002_04","Alson\0\0 
@@ -90,7 +90,7 @@ weiterhelfen?"
 "002_05","Alson\0\0 
 \0(&촀\0was kann ich für Sie tun?"
 "002_05_a","Ich möchte träumen!"
-"002_05_b","Mein geteilter Traum..."
+"002_05_b","Wegen des Inseltraums..."
 "002_05_c","Wo bin ich noch gleich?"
 "002_05_d","Ich möchte aufwachen."
 "002_06","(&촀\0Kann ich Ihnen sonst irgendwie
@@ -102,7 +102,7 @@ weiterhelfen?"
 "002_07","(&촀\0Kann ich Ihnen sonst irgendwie
 weiterhelfen?"
 "002_07_a","Ich möchte träumen!"
-"002_07_b","Mein geteilter Traum..."
+"002_07_b","Wegen des Inseltraums..."
 "002_07_c","Wo bin ich noch gleich?"
 "002_07_d","Ich möchte aufwachen."
 "002_a","Ich möchte träumen!"
@@ -161,8 +161,8 @@ einer Insel namens s촀.
 "1005_a","Jawohl!"
 "1005_b","Nein..."
 "1006","(촀\0Wunderbar! 
-\0Dann hat alles seine
-Richtigkeit.
+\0Dann können wir getrost
+fortfahren.
 \0 (1촀\0
 \0Schließen Sie Ihre
 Augenn\0\0 
@@ -170,8 +170,27 @@ Augenn\0\0 
 "1006_01","Öffnen Sie Ihren Geist dem
 Datenstromn\0\0
 \0 und betreten Sie den
-Traum von s촀n\0\0
+Traumn\0\0
+\0 von s촀n\0\0
 K"
+"1010","(촀\0Sehr gern! 
+\0Dann müssen wir nur
+noch einige Formalitäten klären...\0\0()촀\0Für Träume benötigt man, 
+\0wie
+für fast alles heutzutage,
+\0 eine
+Verbindung zum \0Internet\0￿.\0\0(\0촀\0Möchten Sie einen bestimmten
+Traum erkunden, 
+\0benötigen Sie
+hierfür eine \0Schlummeranschrift\0￿.
+(%촀\0Das ist sozusagen die einzigartige
+Kennung eines Traums.\0\0()촀\0Falls Sie sich jedoch überraschen
+lassen möchten, 
+\0kann ich auch gern
+einen Traum für Sie aussuchen.\0\0Sagen Sie einfach ($촀\0„\0Überraschen Sie
+mich\0￿“, 
+\0und ich werde mich für Sie
+umgehend auf Traumsuche begeben!"
 "1031","(촀\0Es tut mir leid, 
 \0aber unter dieser
 \0Schlummeranschrift\0￿ kann ich leider
@@ -246,6 +265,87 @@ besuchen können.\0\0(촀\0Wenn Sie träumen möchten, 
 \0müssten
 Sie eine \0Schlummeranschrift
 \0￿angeben..."
+"1060","(촀\0Nebenbei bemerkt,
+\0 ich kann Ihnen
+auch bei der Auswahl eines Traums
+behilflich sein.\0\0()촀\0Möchten Sie sich einfach nur über-
+raschen lassen, 
+\0benötigen Sie keine
+Schlummeranschrift.\0\0(%촀\0Ich werde Ihnen dann einfach einen
+hübschen Traum aus den endlosen
+Weiten des Internets fischen.\0\0Sagen Sie einfach
+\0 ($촀\0„\0Überraschen Sie
+mich\0￿“, 
+\0und ich werde mich für Sie
+umgehend auf Traumsuche begeben!"
+"1061","(&촀\0Wie darf ich den Traum denn heute
+für Sie heraufbeschwören?"
+"1061_a","Via Schlummeranschrift"
+"1061_b","Traum erneut besuchen"
+"1061_c","Überraschen Sie mich."
+"1061_d","Doch nicht träumen..."
+"1062","(%촀\0Sehr gern!
+\0 Entspannen Sie sich und
+genießen Sie den Traum,
+\0 den ich für
+Sie finden werde."
+"1062_a","Ich bin bereit."
+"1062_b","Lieber doch nicht..."
+"1063","( 촀\0Huch! 
+\0Ich konnte keinen Traum für
+Sie finden. 
+\0(촀\0Das ist in der Tat eine
+Überraschung!\0\0(\0촀\0Möchten Sie,
+\0 dass ich es ($촀\0gleich noch
+einmal versuche?"
+"1063_a","Ja, bitte!"
+"1063_b","Nein, dann nicht."
+"1065","(&촀\0Wie darf ich den Traum denn heute
+für Sie heraufbeschwören?"
+"1065_a","Via Schlummeranschrift"
+"1065_b","Überraschen Sie mich."
+"1065_c","Doch nicht träumen..."
+"1066","(촀\0Eine Frage hätte ich noch kurz,
+\0
+Ihren Traum von n	\0 betreffend...\0\0()촀\0Wäre es Ihnen recht, 
+\0dass ich Ihren
+Traum mit anderen Träumern teile,
+\0
+die sich überraschen lassen wollen?\0\0(\0촀\0Falls Sie zustimmen, 
+\0würde ich Ihren
+Traum zuvor noch kurz aktualisieren.
+\0
+(&촀\0Habe ich dafür Ihre Erlaubnis?"
+"1066_a","Gerne! Nur zu!"
+"1066_b","Nein, lieber nicht."
+"1067","(촀\0Wunderbar. 
+\0Ich bin mir sicher, 
+\0Ihr
+Traum wird viele Traumreisende
+erfreuen. 
+\0Danke für Ihr Vertrauen.\0\0(1촀\0Lassen Sie mich Ihren Traum von
+n	\0 also rasch aktualisierenn"
+"1068","(%촀\0Fertig!
+\0 Ihr Traum wurde aktualisiert!
+\0
+Ich freue mich schon jetzt, 
+\0zahlreiche
+Träumer damit zu überraschen."
+"1069","(\0촀\0Ihr Traum von n	\0 wurde unter der \0Schlummeranschrift\0￿ 촀 registriert.\0\0()촀\0Falls Sie nicht mehr wünschen,
+\0 dass
+ich ihren Traum mit anderen teile,
+\0
+überhaupt kein Problem!\0\0(\0촀\0Sprechen Sie mich in diesem
+Fall einfach kurz auf das ($촀\0Thema
+„\0Zufallstraum-Option\0￿“ an."
+"1070","(9촀\0Ich verstehe.
+\0 In diesem Fall werde
+ich andere Träumer natürlich nicht
+mit Ihrem Traum überraschen."
+"1071","()촀\0Sollten Sie Ihre Meinung doch noch
+ändern, 
+\0sprechen Sie mich ruhig auf
+das($촀\0 Thema „\0Zufallstraum-Option\0￿“ an."
 "2001","(\0촀\0Sehr wohl. 
 \0(9촀\0Dann müsste ich Sie
 bitten,
@@ -377,6 +477,44 @@ schränkungen „Freie Kommunikation
 mit anderen“ erlauben...\0\0(촀\0Bitte kommen Sie erneut zu mir,
 \0
 wenn alles bereit ist."
+"2100","(9촀\0Da Sie bereits so freundlich waren,
+\0
+Ihre Schlummeranschrift zu teilen,
+\0
+hätte ich noch ein weiteres Anliegen.\0\0()촀\0Es kommt hin und wieder vor, 
+\0dass
+mich Träumer bitten, 
+\0sie mit einem
+Traum meiner Wahl zu überraschen.\0\0('촀\0Natürlich würde ich dies niemals
+ohne die Einwilligung des Traum-
+erstellers tun. 
+\0(\0촀\0Deshalb meine Frage...\0\0(&촀\0Dürfte ich Ihren Traum von n	\0 teilen und andere damit überraschen?"
+"2100_a","Klar, gerne!"
+"2100_b","Nein, bitte nicht."
+"2101","(촀\0Wunderbar. 
+\0Ich bin mir sicher, 
+\0Ihr
+Traum wird viele Traumreisende
+erfreuen. 
+\0(1촀\0Einen Moment bitten"
+"2102","(%촀\0Fertig!
+\0 Ich freue mich schon jetzt,
+\0
+zahlreiche Träumer damit zu
+überraschen.\0\0()촀\0Falls Sie nicht mehr wünschen,
+\0 dass
+ich ihren Traum mit anderen teile,
+\0
+überhaupt kein Problem!\0\0(\0촀\0Sprechen Sie mich in diesem
+Fall einfach kurz auf das ($촀\0Thema
+„\0Zufallstraum-Option\0￿“ an."
+"2103","(촀\0Es tut mir sehr leid, 
+\0doch ich konnte
+Ihren Traum von n	\0 weder formen noch aktualisieren.\0\0(\0촀\0Ich fürchte,
+\0 wir müssen es zu einem
+anderen Zeitpunkt erneut versuchen.
+\0
+(%촀\0Verzeihen Sie mir."
 "3001","(\0촀\0Unter der \0Schlummeranschrift
 \0￿촀 existiert schon
 ein Traum von n	\0."
@@ -391,11 +529,22 @@ etwas für Sie tun?"
 "3001_b","Anschrift-Sichtbarkeit..."
 "3001_c","Bitte löschen!"
 "3001_d","Nichts weiter..."
+"3002","(\0촀\0Unter der \0Schlummeranschrift
+\0￿촀 existiert schon
+ein Traum von n	\0."
+"3002_02","(&촀\0Kann ich bezüglich Ihres
+hochgeladenen Traums sonst
+etwas für Sie tun?"
 "3002_02_a","Bitte aktualisieren!"
 "3002_02_b","Anschrift-Sichtbarkeit..."
-"3002_02_c","Anschrift-Sichtbarkeit..."
+"3002_02_c","Zufallstraum-Option..."
 "3002_02_d","Bitte löschen!"
 "3002_02_e","Nichts weiter..."
+"3002_a","Bitte aktualisieren!"
+"3002_b","Anschrift-Sichtbarkeit..."
+"3002_c","Zufallstraum-Option..."
+"3002_d","Bitte löschen!"
+"3002_e","Nichts weiter..."
 "3101","(9촀\0Sie möchten also den bestehenden
 Traum von n	\0 aktualisierenn\0\0
 \0 (&촀\0Sind Sie ganz sicher?"
@@ -517,6 +666,52 @@ nicht auf Ihrem \0Pass\0￿ und der \0Karte\0￿."
 \0￿ist ab sofort öffentlich 
 \0und erscheint
 auf Ihrem \0Pass\0￿ und der \0Karte\0￿."
+"3500","(촀\0Nunn\0\0 
+\0Momentan habe ich Ihre
+Erlaubnis,
+\0 Ihren Traum von n	\0 zu teilen.\0\0()촀\0Falls mich Träumer bitten,
+\0 sie mit
+einem Traum zu überraschen, 
+\0werde
+ich eventuell den Ihrigen teilen.\0\0(&촀\0Ist das weiterhin in Ordnung für Sie?"
+"3500_a","(\0촀\0Nicht mehr teilen."
+"3500_b","(\0촀\0Ja, kein Problem."
+"3501","(촀\0Nunn\0\0 
+\0Momentan wird Ihr Traum von n	\0 nicht mit anderen geteilt.\0\0(\0촀\0Falls mich Träumer bitten,
+\0 sie mit
+einem Traum zu überraschen, 
+\0dürfte
+ich dann den Ihrigen teilen?"
+"3501_a","Teilen Sie ihn ruhig!"
+"3501_b","Bitte nicht teilen."
+"3502","(촀\0Sehr wohl. 
+\0(\0촀\0Dann bleibt Ihr Traum(%촀\0
+weiterhin Träumern zugänglich,
+\0
+die überrascht werden möchten."
+"3503","(9촀\0Also gut.
+\0 Ihr Traum wird künftig nicht
+mehr mit Träumern geteilt,
+\0 die von
+mir überrascht werden möchten."
+"3504","(촀\0Ganz wie Sie wünschen.\0\0(\0촀\0Andere Träumer werden von nun an(%촀\0
+möglicherweise mit Ihrem Traum von
+n	\0 überrascht."
+"3505","(9촀\0Selbstverständlich. 
+\0Dann bleibt alles
+so wie bisher.\0\0(%촀\0Ihr Traum von n	\0 wird anderen Träumern künftig nicht als Überraschung präsentiert."
+"3506","(촀\0Nunn\0\0 
+\0Momentan wird Ihr Traum von n	\0 nicht mit anderen geteilt.\0\0(%촀\0Falls mich Träumer bitten,
+\0 sie mit
+einem Traum zu überraschen, 
+\0(&촀\0dürfte
+ich dann den Ihrigen teilen?\0\0(\0촀\0Falls Sie zustimmen, 
+\0würde ich Ihren
+Traum zuvor noch kurz aktualisieren.
+\0
+(촀\0Habe ich dafür Ihre Erlaubnis?"
+"3506_a","Gerne! Nur zu!"
+"3506_b","Bitte nicht teilen."
 "4000","(촀\0Dies hier ist eine Welt zwischen den
 Welten, 
 \0in der elektronische Träume
@@ -605,3 +800,15 @@ am besten als Souvenirs für die
 Besucher von n	\0."
 "4003_03","(촀\0Damit sollte hoffentlich alles geklärt
 seinn"
+"4010","(\0촀\0Oh! 
+\0Ich sollte noch erwähnen, 
+\0dass
+dieser Prozess einen Zugang zum
+\0Internet\0￿ erfordert.\0\0()촀\0Sollten Sie zudem einen bestimmten
+Traum besuchen wollen,
+\0 benötigen
+Sie dessen \0Schlummeranschrift\0￿.\0\0(\0촀\0Möchten Sie jedoch von einem Traum
+meiner Wahl überrascht werden,
+\0
+sagen Sie ($촀\0„\0Überraschen Sie mich\0￿“.\0\0(촀\0Damit sollte alles Wissenswerte rund
+um das Thema Träume gesagt sein!"

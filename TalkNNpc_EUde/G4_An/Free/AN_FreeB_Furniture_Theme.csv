@@ -79,7 +79,7 @@ olle Tulpentruppe,
 \0 n\0!"
 "011","촊촉(촀\0Alter Falter! 
 \0Wenn ich 2촀'nen'ne'n
-2촁}\0\0 sehe, will ich einfach reinbeissenn\0\0\0\0촃촆(촀\0Jetzt glotz mich nich' an wie 'n Auto,
+2촁}\0\0 sehe, will ich einfach reinbeißenn\0\0\0\0촃촆(촀\0Jetzt glotz mich nich' an wie 'n Auto,
 klar weiß ich, dass das nich' echt ist.
 \0( (촀\0Sieht halt nur echt megalecker aus!"
 "012","촊촉(촀\02촀'n'ne'n }\0\0?!
@@ -215,6 +215,21 @@ Streiche-mäßig wieder richtig ab!\0\0촃촆(3촀\0Sag mal, 
 \0hast du n촀 vielleicht gesehen? 
 \0Ich hab da noch
 'ne offene Rechnung zu begleichen..."
+"026","촊촉(촀\0Oh, 
+\02촀'n'ne'n }\0\0? 
+\0Is' das 'n Spielzeugtaggeschenk, 
+\0das jemand verloren hat?\0\0촃촆(촀\0Vielleicht 'n Test vom Weihnachts-
+mann, 
+\0wie so was ankommt? 
+\0((%촀\0Der
+will ja nich' voll danebenliegen!"
+"027","촊촉( 촀\02\02\0}\0\0n\0\0
+\0 Und wie kommt jetzt so was hierher?\0\0촃촆(1촀\0Erinnert mich voll dran, 
+\0wie ich früher mit Opin\0\0
+\0 (촀\0Äääähn\0\0
+\0 (촀\0NEIN!
+\0
+Ich hab kein Heimweh!"
 "999","<"
 "999_01","촊촉Was zur Butterblume?! 
 \0Ist 2,촀dieser
@@ -222,3 +237,11 @@ diesedieses
 }\0\0 von dir?
 \0
 촆촃(촀\0Echt voll n\0-mäßig!"
+"999_02","촊촉()촀\02,촀Dieser
+DieseDieses }\0\0 is' jetzt ma' keine Orchidee, 
+\0aber das Teil is' mir ans Herz gewachsen.\0\0촆촃(촀\0Ich glaub schon, 
+\0dass ich was
+vermissen würde, 
+\0wenn's nich'
+mehr da wär, 
+\0n\0."

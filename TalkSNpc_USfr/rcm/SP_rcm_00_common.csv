@@ -112,6 +112,16 @@ Qu'en dis-tu?"
 sais?
 \0 Mais si tu veux t'en séparer, je
 peux t'en offrirn\0\0 Z\0?"
+"037_01","(촂\0(촃\0AH!
+\0 Un plan de bricolage pour faire
+2\0}\0\0!\0\0(촂\0C'est un article de valeur.
+\0((&촂\0 Veux-tu
+vraiment le vendre? 
+\0(%촃\0On peut t'en
+offrir Z\0,
+\0 pas plusn"
+"037_01_a","(%촀\0Marché conclu!"
+"037_01_b","('촀\0En fait, non."
 "037_a","(%촀\0Marché conclu!"
 "037_b","('촀\0En fait, non."
 "038","(촂\0(촃\0Ohn\0\0
@@ -157,6 +167,14 @@ pour
 \0(\0촂\0(\0촃\0On dirait un plan de bricolage très
 rare.
 \0(&촂\0(&촃\0 Tu veux vraiment t'en séparer?"
+"043_01","(촂\0(촃\0Que de jolies chosn\0\0(촂\0(촃\0
+\0 OH!
+\0 (\0촂\0(\0촃\0Il y a un
+plan très rare dans la sélection.
+\0(&촂\0(&촃\0
+Veux-tu vraiment le vendre aussi?"
+"043_01_a","(%촀\0Je sais ce que je fais."
+"043_01_b","('촀\0Oh, une seconde..."
 "043_a","(%촀\0Je sais ce que je fais."
 "043_b","('촀\0Oh, une seconde..."
 "044_01","(촂\0
@@ -531,9 +549,54 @@ et je crains qu'aujourd'hui ne soit le
 dernier jour de disponibilitén\0\0\0\0(촀\0J'espère que tu reviendras dès
 que l'occasion se présentera à
 nouveau!"
+"145","( 촂\0Ah,
+\0 tu as remarqué! 
+\0(%촂\0Oui,
+\0 nous avons
+décidé de nous lancer dans la vente
+de jouets!\0\0()촂\0(촃\0C'est une offre limitée jusqu'au
+25 décembre pour permettre aux
+gens de trouver des cadeaux à offrir.\0\0(촂\0(촃\0Viens nous voir si quelque chose te
+plaît! d\0
+\0\0K... ou plaira à quelqu'un d'autre!\0dd"
 "200","(촂\0(촃\0Merci!d\0
 \0 \0KBeaucoup, beaucoup!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\0Ah! 
+\0(\0촂\02\02\0}\0\0. Un article estampillé fête du partage.\0\0()촂\0Sache que cet article est en édition
+limitéen\0\0(촃\0 mais qu'il existe un plan de
+bricolage pour le fabriquern\0\0\0\0($촂\0($촃\0D'ailleurs,
+\0 nous proposons des plans
+de bricolage \0en solde dans la vitrine
+\0￿en ce moment mêmen\0\0\0\0(%촂\0(%촃\0Juste au cas où tu ne le savais pas.
+\0
+Si le client est content,
+\0 nous sommes
+ravis!d\0
+\0\0Kn\0\0 On travaille dur pour ça!\0dd"
+"2002","(촂\0Oh, j'ai oublié de te dire le prix!
+\0(
+($촂\0($촃\0C'est Z\0.
+\0
+Qu'est-ce que tu en dis?"
+"2002_a","(%촀\0J'achète!"
+"2002_b","('촀\0En fait, non."
+"2003","(촂\0(촃\0Si mes registres sont bonsn\0\0
+\0 (촂\0tu as
+déjà tous les plans de bricolage de
+cette collection!
+\0(\0촂\0(\0촃\0\0\0($촂\0($촃\0Peut-être devrais-tu te lancer dans
+la pratique,
+\0 et créer des objets sur le
+thème du jour du partage?"
+"2004","()촂\0Ah! 
+\0Tu as vu notre série de plans sur
+le thème du jour du partage. 
+\0(촃\0C'est
+2\0}\0\0!\0\0(9촂\0Nous ne proposerons cette série que
+jusqu'à la fin du mois,
+\0 alors dépêche-
+toi si tu es intéressé2\0e."
 "201","(촂\0
 \0(촃\0Bonjour!
 \0 Sois 2lela bienvenu2\0e à la

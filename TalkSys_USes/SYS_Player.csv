@@ -212,6 +212,11 @@ una moto y dice: ""Vive al tope""."
 ¡Puedo hacer todo lo que quiera!
 \0
 ¡Yujuuu!"
+"200_01","Ya terminé con la mudanza.
+\0
+Ahora,
+\0 ¡a seguir disfrutando
+de la vida en una isla!"
 "204_02","¡Excelente!
 \0 ¡Terminé de
 pagar mi otro préstamo!"
@@ -257,6 +262,14 @@ en un \0tocador\0￿ o un \0espejo\0￿!"
 "210_10","¡Descubrí nuevas opciones para
 cambiar el \0color de los ojos\0￿!\0\0¡Podría renovar mi apariencia
 en un \0tocador\0￿ o un \0espejo\0￿!"
+"210_13","¡Aprendí varios peinados nuevos!
+Podría probarlos frente a un \0espejo
+\0￿o un \0tocador\0￿."
+"210_14","¡Aprendí \0emociones\0￿ nuevas!
+\0
+Puedo oprimir \0\0￿ para ver todasn\0\0
+\0
+¡y expresarme con libertad!"
 "211_01","¡Ahora puedo crear \0ríos\0￿ con
 la aplicación \0Obras públicas\0￿!"
 "211_02","¡Ahora puedo crear \0desniveles\0￿
@@ -367,7 +380,23 @@ para un proyecto de taller!"
 celebrar en compañía!"
 "701","Adentro habrá suministros
 del paquete de escapada."
+"702","Todavía quedan Z\0 regalos en la bolsa."
+"703_01","Quedan regalos para s촀,
+\0 s촁
+\0 y s촂."
+"703_02","A ver,
+\0 todavía me quedan regalos
+para s촀
+\0 y s촁."
+"703_03","Ya solo queda un regalo por repartir:
+\0
+el de s촀."
+"704","¡La bolsa está vacía!"
 "901","¿Pongo aquí mi tienda de campaña?"
+"901_01","¿Pongo mi casa aquí?"
+"901_01_a","¿Cómo se vería aquí?"
+"901_01_b","¡Este es el lugar!"
+"901_01_c","Lo voy a pensar..."
 "901_a","¿Cómo se vería aquí?"
 "901_b","¡Este es el lugar!"
 "901_c","Lo voy a pensar..."
@@ -557,5 +586,9 @@ de s촀. Ojalá le guste."
 "960_05","¡Elegí un nuevo lugar para la
 \0zona de campamento\0￿! Espero
 que lleguen más visitas."
+"961","¡Ya elegí un lugar para mi casa!
+\0
+¡Será mi base de operaciones para
+todas las aventuras que me esperan!"
 "990","Estoy en mitad de una búsqueda
 del tesoro. Luego uso el kit."

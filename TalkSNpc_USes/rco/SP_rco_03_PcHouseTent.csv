@@ -34,6 +34,36 @@ cualquier inquietud cotidiana
 que tengas, ¿sí?\0\0Para gestiones administrativas
 o más generales, \0Canela\0￿ estará
 encantada de ayudarte."
+"011","(촀\0¡Ah, n\0!
+\0
+¡Bienvenid2oa! Estás en la \0oficina
+de gestión vecinal\0￿.
+()촀\0Aquí brindamos ayuda y apoyo
+a todos los residentes de
+n	\0.
+(%촀\0Tú ya estarás más que acostumbrad2oa
+a vivir en una isla,
+\0 pero si necesitas
+cualquier cosa, 
+\0(""촀\0aquí estaré, sí, sí."
+"012","(촀\0Normalmente, lo primero que hacen
+los nuevos isleños al llegar es
+asistir a un \0curso de taller\0￿.
+(촀\0Claro que a ti no te hace falta
+porque ya lo hiciste en tu isla
+anterior."
+"013_01","()촀\0Pero, si tienes tiempo, me gustaría
+que me ayudaras a investigar
+la fauna local.
+(촀\0Si atrapas algún insecto o pez,
+tráemelo aquí para que pueda
+examinarlo, ¿sí?"
+"013_02","(촀\0Bien, ya te dejo tranquil2oa para que
+puedas salir a disfrutar de la vida
+en la isla."
+"013_03","(촀\0Bien, ya te dejo tranquil2oa para que
+puedas salir a disfrutar de la vida
+en la isla."
 "021_01","(촀\0Bueno, supongo que eso está bien.\0\0(촀\0Me alegra ver que has tomado
 la iniciativa de explorar nuestro
 nuevo hogar.
@@ -275,6 +305,26 @@ rodear tu casa,
 crear un jardín o un miradorn\0\0
 (촀\0¿Por qué no fabricas algunas
 para experimentar por ti mism2oa?"
+"181","(촀\0Ahora que lo pienso, n\0n\0\0⁠\0\0(&촀\0¿Ya encontraste un lugar para poner
+tu tienda de campaña?\0\0(\0촀\0Eres libre para organizarte como
+quieras, pero tener tu propio lugar
+para vivir tiene sus ventajas.\0\0Para empezar, la isla ofrece servicios
+que no se pueden usar si no tienes
+tu propio hogarn\0\0 (촀\0Piénsalo, ¿sí?"
+"182","(7촀\0Parece que no tienes ningún
+asunto importante que atender
+ahora mismo, n\0.
+(촀\0Yo te recomiendo que aproveches
+para ir de compras;
+\0 eso relaja.
+\0
+(7촀\0Pero puedes hacer lo que quierasn"
+"183","(&촀\0¿Has tenido tiempo de organizar
+todas tus cosas desde que te
+mudaste, n\0?\0\0(촀\0Si necesitas comprar algo,
+\0 no dudes
+en usar la \0terminal Nook\0￿ para
+acceder a \0TeleNook\0￿."
 "201","(촀\0¡Sí, sí!
 \0 Mi curso de taller.\0\0()촀\0Los participantes fabrican sus
 propias herramientas y luego
@@ -458,6 +508,11 @@ una amplia selección de objetos.
 (촀\0No te olvides de usar este servicio
 de vez en cuando, ¿sí?\0\0(""촀\0¡Espero que estés disfrutando
 de tu vida en la isla!"
+"410","(촀\0Ah, ¿quieres hablar de tu casa?\0\0(촀\0Claro, no hay problema, aunque no
+sé si es apropiado hablarlo cuando
+ni siquiera te has instalado aún.\0\0(촀\0Primero usa el \0kit de transferencia
+\0￿para elegir un lugar donde poner
+tu hogar y luego hablamos, ¿sí?"
 "901","(촀\0Veo que te has fijado en
 mi \0mesa de taller\0￿."
 "911","(촀\0Recuerda que para fabricar la caña

@@ -54,7 +54,7 @@ hard drives."
 "002","(&촀\0How may I be of assistance?"
 "002_01","(&촀\0How may I be of assistance?"
 "002_01_a","I want to dream."
-"002_01_b","About the dream I shared..."
+"002_01_b","About my island's dream..."
 "002_01_c","Where am I?"
 "002_01_d","I want to wake up."
 "002_02","(&촀\0May I be of assistance to you in any
@@ -66,7 +66,7 @@ other way?"
 "002_03","(&촀\0May I be of assistance to you in any
 other way?"
 "002_03_a","I want to dream."
-"002_03_b","About the dream I shared..."
+"002_03_b","About my island's dream..."
 "002_03_c","Where am I?"
 "002_03_d","I want to wake up."
 "002_04","(&촀\0How may I be of assistance?"
@@ -76,7 +76,7 @@ other way?"
 "002_04_d","I want to wake up."
 "002_05","(&촀\0How may I be of assistance?"
 "002_05_a","I want to dream."
-"002_05_b","About the dream I shared..."
+"002_05_b","About my island's dream..."
 "002_05_c","And...where is this?"
 "002_05_d","I want to wake up."
 "002_06","(&촀\0May I be of assistance to you in any
@@ -88,7 +88,7 @@ other way?"
 "002_07","(&촀\0May I be of assistance to you in any
 other way?"
 "002_07_a","I want to dream."
-"002_07_b","About the dream I shared..."
+"002_07_b","About my island's dream..."
 "002_07_c","And...where is this?"
 "002_07_d","I want to wake up."
 "002_a","I want to dream."
@@ -142,14 +142,33 @@ appears to be for an island called
 "1005_a","Yes, it is!"
 "1005_b","Nope."
 "1006","(촀\0Splendid! 
-\0Then everything is sorted.
+\0Everything is now sorted.
 \0
 (1촀\0
 \0Please close your eyesn\0\0and relaxn\0\0(촀"
 "1006_01","Drift and compilen\0\0
 \0and emerge within
-the dream of s촀n\0\0
+the dreamn\0\0of s촀n\0\0
 K"
+"1010","(촀\0Of course, of course! 
+\0But there are
+a few things I must clarify further
+before I guide you to a dream.\0\0()촀\0Dreams, 
+\0like many things these days,
+\0
+are downloaded from the \0internet\0￿.
+\0
+A connection is, of course, required.\0\0(\0촀\0If you wish to visit a specific dream,
+\0
+a \0Dream Address\0￿—an identity unique
+to each dream—will be needed.\0\0(%촀\0Alternatively,
+\0 if you prefer to be
+surprised,
+\0 I would be happy to
+choose a dream for you.\0\0(\0촀\0If you would like me to choose a
+dream for you to visit, you need
+only say,
+\0 ($촀\0""\0Surprise me.\0￿"""
 "1031","(촀\0My apologies, 
 \0but there is no dream
 filed to that \0Dream Address\0￿."
@@ -215,6 +234,76 @@ another dream you wish to visit?"
 any dreams which you can revisit.\0\0(촀\0If you wish to dream, 
 \0I may need you
 to provide a \0Dream Address\0￿."
+"1060","(촀\0By the way,
+\0 if you prefer that
+I choose a dream for you,
+\0 I will
+be happy to find you a surprise.\0\0()촀\0No Dream Address is needed.
+\0 I will
+simply pluck a pleasant dream from
+the internet for you to experience.\0\0(\0촀\0If you would like me to surprise you
+with a dream of my choosing, you
+need only say,
+\0 ($촀\0""\0Surprise me.\0￿"""
+"1061","(&촀\0How shall I prepare your dream?"
+"1061_a","Search by Dream Address."
+"1061_b","Revisit a dream."
+"1061_c","Surprise me."
+"1061_d","Never mind."
+"1062","(%촀\0Gladly.
+\0 There are so many wonderful
+surprises to be found in dreams.
+\0 Let
+me find one for youn"
+"1062_a","I'm ready."
+"1062_b","Never mind."
+"1063","( 촀\0Oh!
+\0 I was unable to find a dream for
+youn\0\0which I suppose is a surprise in
+itself.
+\0 (&촀\0Shall I try again?"
+"1063_a","Please do!"
+"1063_b","Never mind."
+"1065","(&촀\0How shall I prepare your dream?"
+"1065_a","Search by Dream Address."
+"1065_b","Surprise me."
+"1065_c","Never mind."
+"1066","(촀\0May I trouble you with a request?\0\0()촀\0I would like your permission to share
+your dream of n	\0 if I
+am asked for a surprise.\0\0(\0촀\0If you allow me to surprise others
+with your dream,
+\0 I would also like to
+update it.
+\0 (&촀\0Does this interest you?"
+"1066_a","Let's do it!"
+"1066_b","I don't want to."
+"1067","(촀\0Excellent. 
+\0I am certain many will
+be delighted to come across your
+dream.
+\0 Thank you for your trust.\0\0(1촀\0Now,
+\0 let us update your dream
+of n	\0n"
+"1068","(%촀\0There! 
+\0Your dream is now updated.
+\0
+I look forward to surprising many
+others with it."
+"1069","(\0촀\0Please note that the Dream Address
+for n	\0 is filed under
+촀.\0\0()촀\0If you do not want your dream to be
+shared if I am asked for a surprise,
+tell me to
+\0 ($촀\0""\0Adjust surprise sharing.\0￿"""
+"1070","(9촀\0I completely understand. 
+\0In that
+case, your dream will not be shared
+if I am asked for a surprise."
+"1071","()촀\0Should you decide that I may share
+your dream if asked for a surprise,
+\0
+tell me to
+\0 ($촀\0""\0Adjust surprise sharing.\0￿"""
 "2001","(\0촀\0Of course. 
 \0(9촀\0But before we continue,
 there is some \0important information
@@ -340,6 +429,35 @@ day. 
 \0 in
 Parental Controls to upload a dream.\0\0(촀\0Please come and see me again when
 you are ready."
+"2100","(9촀\0Since you have been so generous in
+sharing your Dream Address,
+\0 I would
+like to request something.\0\0()촀\0It sometimes occurs that I am asked
+to surprise someone with a dream of
+my choosing.\0\0(\0촀\0But I would never share a dream
+without the permission of the
+dreamer. 
+\0And son\0\0\0\0(&촀\0May I surprise others by sharing
+your dream of n	\0?"
+"2100_a","Yes, please do!"
+"2100_b","No, please do not."
+"2101","(촀\0Excellent. 
+\0I am certain many will
+be delighted to come across your
+dream.
+\0 (1촀\0One momentn"
+"2102","(촀\0There! 
+\0I look forward to surprising
+many others with your dream.\0\0()촀\0If you do not want your dream to be
+shared if I am asked for a surprise,
+tell me to
+\0 ($촀\0""\0Adjust surprise sharing.\0￿"""
+"2103","(촀\0I am terribly sorry,
+\0 but I was unable
+to compile and update your dream
+of n	\0.\0\0(\0촀\0You may need to try again at another
+time.
+\0 (%촀\0My apologies."
 "3001","(\0촀\0I have a dream of n	\0
 filed under the \0Dream Address
 \0￿촀."
@@ -353,11 +471,21 @@ with your uploaded dream?"
 "3001_b","Adjust Dream Address privacy."
 "3001_c","Delete the dream."
 "3001_d","Never mind."
+"3002","(\0촀\0I have a dream of n	\0
+filed under the \0Dream Address
+\0￿촀."
+"3002_02","(&촀\0Is there any other way I can assist
+with your uploaded dream?"
 "3002_02_a","Update the dream."
 "3002_02_b","Adjust Dream Address privacy."
-"3002_02_c","Adjust Dream Address privacy."
+"3002_02_c","Adjust surprise sharing."
 "3002_02_d","Delete the dream."
 "3002_02_e","Never mind."
+"3002_a","Update the dream."
+"3002_b","Adjust Dream Address privacy."
+"3002_c","Adjust surprise sharing."
+"3002_d","Delete the dream."
+"3002_e","Never mind."
 "3101","(9촀\0As a precaution, I must first confirm
 your wish to update the dream of
 n	\0.
@@ -474,6 +602,50 @@ your \0Passport \0￿or your island's \0map\0￿."
 \0Your \0Dream Address\0￿ is public.
 Others will now be able to see it on
 your \0Passport \0￿and your island's \0map\0￿."
+"3500","(촀\0Certainly. 
+\0Right now, I have
+permission to share your
+dream of n	\0.\0\0(\0촀\0When I am asked to choose a dream
+to surprise someone,
+\0 it is possible I
+may share yours.
+\0 (&촀\0Is this OK?"
+"3500_a","Stop sharing my dream."
+"3500_b","Keep sharing my dream."
+"3501","(9촀\0Sure. 
+\0Currently, I am not sharing
+your dream of n	\0.\0\0(&촀\0Would you like your dream to be
+among those I might share if I am
+asked for a surprise?"
+"3501_a","You may share my dream."
+"3501_b","Do not share my dream."
+"3502","()촀\0Understood. 
+\0Your dream will remain
+among those I share if I am asked for
+a surprise."
+"3503","(9촀\0Alright. 
+\0I will no longer share your
+dream if I am asked for a surprise."
+"3504","(촀\0Very well.
+\0 Now when someone asks
+me for a surprise, that surprise might
+be your dream of n	\0."
+"3505","(9촀\0Done.
+\0 I will leave things as they are.(촀\0\0\0If someone asks me for a surprise,
+\0
+that surprise will not be your dream
+of n	\0."
+"3506","(9촀\0Sure. 
+\0Currently, I am not sharing
+your dream of n	\0.\0\0(%촀\0Would you like your dream to be
+among those I might share when
+I am asked for a surprise?\0\0(\0촀\0If you allow me to surprise others
+with your dream,
+\0 I would also like to
+update it.
+\0 (&촀\0Does this interest you?"
+"3506_a","Let's do it!"
+"3506_b","Do not share my dream."
 "4000","(촀\0This is the world between,
 \0 where
 electronic dreams and dreamers
@@ -534,3 +706,11 @@ in your \0Custom Designs Portal\0￿.\0\0(\0촀\0Check your \0Cus
 which designs will be made available.\0\0(촀\0You may think of those designs as
 n	\0 souvenirs."
 "4003_03","(촀\0And with that, you are up-to-date!"
+"4010","(\0촀\0Oh! I should also mention that this
+process requires \0internet access\0￿.\0\0()촀\0Additionally, 
+\0if you wish to visit a
+specific dream, you will also need
+to provide its \0Dream Address\0￿.\0\0(\0촀\0Or, if you prefer to be surprised with
+a dream of my choosing, simply say,
+\0
+($촀\0""\0Surprise me.\0￿""\0\0(촀\0And that is all there is to it!"

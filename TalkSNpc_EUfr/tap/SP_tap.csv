@@ -20,7 +20,7 @@ j'administre la librairie onirique."
 "001_03","(\0촀\0Les rêves sont l'incarnation de
 souvenirs que l'on chéritn\0\0
 \0(촀\0 et que
-l'on a partagés sur \0internet\0￿.\0\0()촀\0Mon rôle est d'orienter les voyageurs
+l'on a partagés sur \0Internet\0￿.\0\0()촀\0Mon rôle est d'orienter les voyageurs
 oniriques, 
 \0afin de leur permettre de
 rêver de l'île d'un autre joueur.(촀\0\0\0Une fois au sein d'un rêve, 
@@ -53,7 +53,7 @@ attente de visiteurs."
 "002","(&촀\0Que puis-je faire pour toi ?"
 "002_01","(&촀\0Que puis-je faire pour toi ?"
 "002_01_a","Je veux rêver."
-"002_01_b","Le rêve que j'ai partagé..."
+"002_01_b","Le rêve de mon île..."
 "002_01_c","Où suis-je ?"
 "002_01_d","Je veux me réveiller."
 "002_02","(&촀\0Puis-je faire quoi que ce soit d'autre
@@ -65,7 +65,7 @@ pour toi ?"
 "002_03","(&촀\0Puis-je faire quoi que ce soit d'autre
 pour toi ?"
 "002_03_a","Je veux rêver."
-"002_03_b","Le rêve que j'ai partagé..."
+"002_03_b","Le rêve de mon île..."
 "002_03_c","Où suis-je ?"
 "002_03_d","Je veux me réveiller."
 "002_04","(&촀\0Que puis-je faire pour toi ?"
@@ -75,7 +75,7 @@ pour toi ?"
 "002_04_d","Je veux me réveiller."
 "002_05","(&촀\0Que puis-je faire pour toi ?"
 "002_05_a","Je veux rêver."
-"002_05_b","Le rêve que j'ai partagé..."
+"002_05_b","Le rêve de mon île..."
 "002_05_c","Et donc... où suis-je ?"
 "002_05_d","Je veux me réveiller."
 "002_06","(&촀\0Puis-je faire quoi que ce soit d'autre
@@ -87,7 +87,7 @@ pour toi ?"
 "002_07","(&촀\0Puis-je faire quoi que ce soit d'autre
 pour toi ?"
 "002_07_a","Je veux rêver."
-"002_07_b","Le rêve que j'ai partagé..."
+"002_07_b","Le rêve de mon île..."
 "002_07_c","Et donc... où suis-je ?"
 "002_07_d","Je veux me réveiller."
 "002_a","Je veux rêver."
@@ -154,6 +154,25 @@ correspond à une île appelée
 \0 au rêve de l'île
 s촀n\0\0
 K"
+"1010","(촀\0Bien sûr ! 
+\0Mais je me dois de clarifier
+quelques points avant de t'orienter
+vers un rêve.\0\0()촀\0Les rêves, 
+\0comme nombre de choses,
+
+\0sont téléchargés sur \0Internet\0￿.
+\0 Ce qui
+nécessite une connexion à Internet.\0\0(\0촀\0De plus, 
+\0le \0code onirique\0￿ du rêve est
+requis.
+\0 C'est le code d'identification
+unique propre à chaque rêve.\0\0(%촀\0Alternativement,
+\0 si tu préfères la
+surprise,
+\0 je peux choisir un rêve
+pour toi.\0\0(\0촀\0Si tu préfères me laisser choisir, il te
+suffit de dire
+\0 ($촀\0« \0Surprends-moi ! \0￿»."
 "1031","(촀\0Excuse-moi, 
 \0mais il n'y a aucun rêve
 correspondant à ce \0code onirique\0￿."
@@ -219,6 +238,76 @@ correspondant à ce \0code onirique\0￿.
 puisses revoir.\0\0(촀\0Si tu souhaites rêver, 
 \0je te prierai de
 me communiquer un \0code onirique\0￿."
+"1060","(촀\0Au fait,
+\0 si tu préfères la surprise,
+\0
+je peux choisir un rêve pour toi.\0\0()촀\0Pas besoin de me fournir de code
+onirique.
+\0 Je choisirai un rêve
+agréable parmi ceux disponibles.\0\0(\0촀\0Si tu préfères me laisser choisir, il te
+suffit de dire
+\0 ($촀\0« \0Surprends-moi ! \0￿»."
+"1061","(&촀\0Avec quelle méthode souhaites-tu
+que je trouve un rêve ?"
+"1061_a","Utiliser un code."
+"1061_b","Revoir un rêve."
+"1061_c","Surprends-moi !"
+"1061_d","En fait, annulons."
+"1062","(%촀\0À ta guise.
+\0 Il y a tellement de jolies
+surprises à découvrir dans les rêves.
+\0
+Je vais en choisir un pour toin"
+"1062_a","C'est parti."
+"1062_b","Annulons."
+"1063","( 촀\0Oh !
+\0 Je ne trouve pas de rêve pour
+toin\0\0 ce qui en soi est aussi une
+surprise.
+\0 (&촀\0Veux-tu que je réessaie ?"
+"1063_a","Oui, s'il te plaît."
+"1063_b","Laissons tomber."
+"1065","(&촀\0Avec quelle méthode souhaites-tu
+que je trouve un rêve ?"
+"1065_a","Utiliser un code."
+"1065_b","Surprends-moi !"
+"1065_c","En fait, annulons."
+"1066","(촀\0Puis-je te demander une faveur ?\0\0()촀\0J'aimerais pouvoir choisir ton rêve
+2
+de d'⁠⁠n	\0 si quelqu'un me demande un rêve surprise.\0\0(\0촀\0Si tu m'autorises à le choisir,
+\0 j'aurai
+aussi besoin de le mettre à jour.
+\0
+(&촀\0Qu'en dis-tu⁠ ?⁠"
+"1066_a","Très bien, j'accepte."
+"1066_b","Je ne veux pas."
+"1067","(촀\0Merci. 
+\0Je suis certaine que ton rêve
+fera le bonheur de nombreux
+visiteurs surprise.
+\0 J'en suis ravie.\0\0(1촀\0Bien,
+\0 procédons donc à la mise à
+jour du rêve 2
+de d'⁠n	\0n"
+"1068","(%촀\0Et voilà ! 
+\0Le rêve de ton île a été mis
+à jour.
+\0 Je suis impatiente d'y guider
+des rêveurs en quête de surprise !"
+"1069","(\0촀\0Le code onirique du rêve 2
+de d'⁠n	\0 est 촀.\0\0()촀\0Et si tu refuses que ton rêve fasse
+partie des rêves surprise, dis-moi
+\0 ($촀\0
+« \0Changer le partage surprise. \0￿»."
+"1070","(9촀\0Je comprends parfaitement. 
+\0Dans ce
+cas, je ne choisirai pas ton rêve si
+quelqu'un me demande une surprise."
+"1071","()촀\0Si tu décides d'accepter que ton rêve
+fasse partie des rêves surprise,
+\0 dis
+
+\0($촀\0« \0Changer le partage surprise. \0￿»."
 "2001","(\0촀\0Bien sûr. 
 \0(9촀\0Mais avant de procéder,
 \0
@@ -347,6 +436,35 @@ Nous pourrons alors réessayer."
 activer la communication libre entre
 utilisateurs via le contrôle parental.\0\0(촀\0Reviens me voir lorsque tu seras
 prêt2\0e."
+"2100","(9촀\0Puisque tu as eu l'amabilité de
+partager ton code onirique,
+\0 j'aurais
+une faveur à te demander.\0\0()촀\0Il arrive que certains joueurs me
+demandent de les surprendre avec
+un rêve de mon choix.\0\0(\0촀\0Mais il est hors de question que je
+partage un rêve sans l'autorisation
+de son propriétaire. 
+\0Et doncn\0\0\0\0(&촀\0Consens-tu à ce que je partage le
+rêve de ton île, n	\0 ?"
+"2100_a","Mais oui !"
+"2100_b","Je préfère pas."
+"2101","(촀\0Merci. 
+\0Je suis certaine que ton rêve
+fera le bonheur de nombreux
+visiteurs surprise.
+\0 (1촀\0Un instantn"
+"2102","(촀\0Et voilà ! 
+\0J'ai hâte de surprendre des
+voyageurs oniriques avec ton rêve.\0\0()촀\0Et si tu ne veux plus que ton rêve
+fasse partie des rêves surprise, dis
+
+\0($촀\0« \0Changer le partage surprise. \0￿»."
+"2103","(촀\0Tu m'en vois vraiment navrée, mais
+je n'ai pas pu numériser et mettre à
+jour ton rêve 2
+de d'n	\0.\0\0(\0촀\0Nous pourrons réessayer plus tard.
+
+\0(%촀\0Toutes mes excuses."
 "3001","(\0촀\0Le rêve de l'île n	\0 est archivé sous le \0code onirique\0￿ 촀.\0\0As-tu une requête ?"
 "3001_01","(&촀\0As-tu une autre requête concernant
 un rêve en ligne ?"
@@ -358,11 +476,19 @@ un rêve en ligne ?"
 "3001_b","Confidentialité du code."
 "3001_c","Effacer le rêve."
 "3001_d","Non, rien."
+"3002","(\0촀\0Le rêve de l'île n	\0 est archivé sous le \0code onirique\0￿ 촀.\0\0As-tu une requête ?"
+"3002_02","(&촀\0As-tu une autre requête concernant
+un rêve en ligne ?"
 "3002_02_a","Mettre à jour le rêve."
 "3002_02_b","Confidentialité du code."
-"3002_02_c","Confidentialité du code."
+"3002_02_c","Changer le partage surprise."
 "3002_02_d","Effacer le rêve."
 "3002_02_e","Non, rien."
+"3002_a","Mettre à jour le rêve."
+"3002_b","Confidentialité du code."
+"3002_c","Changer le partage surprise."
+"3002_d","Effacer le rêve."
+"3002_e","Non, rien."
 "3101","(9촀\0Confirmes-tu vouloir mettre à jour le
 rêve de l'île n	\0 ?"
 "3101_a","Oui. Mettons-le à jour !"
@@ -478,6 +604,53 @@ sur ton \0passeport \0￿ni la \0carte\0￿ de l'île."
 \0
 D'autres joueurs pourront le voir sur
 ton \0passeport \0￿et ta \0carte\0￿ de l'île."
+"3500","(촀\0À ta guise. 
+\0Actuellement, j'ai ton
+autorisation pour partager ton rêve
+2
+de d'⁠n	\0.\0\0(\0촀\0Si un voyageur onirique me demande
+de le surprendre,
+\0 il est possible que
+je choisisse ton rêve.\0\0(&촀\0Cela te convient-il toujours ?"
+"3500_a","Ne plus partager mon rêve."
+"3500_b","Tu peux partager mon rêve."
+"3501","(9촀\0À ta guise. 
+\0Actuellement, je n'ai pas
+ton autorisation pour partager le
+rêve de ton île, n	\0.\0\0(&촀\0Accepterais-tu que je choisisse ton
+rêve pour les voyageurs oniriques
+désirant être surpris ?"
+"3501_a","Tu peux partager mon rêve."
+"3501_b","Non, je ne veux pas."
+"3502","(%촀\0Compris. 
+\0Ton rêve continuera à faire
+partie de ceux que je pourrai choisir
+lorsqu'on me demande une surprise."
+"3503","(촀\0Très bien ! 
+\0Je ne partagerai plus ton
+rêve lorsqu'on me demande une
+surprise."
+"3504","(촀\0Splendide. 
+\0Ton rêve fera désormais
+partie de ceux que je pourrai choisir
+lorsqu'on me demande une surprise."
+"3505","(9촀\0Très bien. 
+\0Je ne change rien et ne
+choisirai donc pas ton rêve lorsqu'on
+me demande une surprise."
+"3506","(9촀\0À ta guise. 
+\0Actuellement, je n'ai pas
+ton autorisation pour choisir le
+rêve de ton île, n	\0.\0\0(&촀\0Accepterais-tu que je choisisse ton
+rêve pour les voyageurs oniriques
+désirant être surpris ?
+(\0촀\0Si tu m'autorises à le choisir,
+\0 j'aurai
+aussi besoin de le mettre à jour.
+\0
+(&촀\0Qu'en dis-tu⁠ ?⁠"
+"3506_a","Très bien, j'accepte."
+"3506_b","Ne pas choisir mon rêve."
 "4000","(촀\0Ceci est l'entremonde
 \0 où rêves
 digitaux et rêveurs se rencontrent.
@@ -546,3 +719,12 @@ ligne et choisis les motifs à partager.\0\0(촀\0Songe par exemple aux mot
 feraient honneur à n	\0."
 "4003_03","(촀\0Bien, je crois que maintenant, 
 tu sais tout !"
+"4010","(\0촀\0Oh ! Je dois aussi te préciser que ce
+processus nécessite un \0accès à
+Internet\0￿.\0\0()촀\0De plus, 
+\0si tu désires visiter un rêve
+précis, tu devras aussi me fournir
+son \0code onirique\0￿.\0\0(\0촀\0Et si tu préfères te laisser surprendre
+par un rêve de mon choix, dis-moi
+\0
+($촀\0« \0Surprends-moi !\0￿ »\0\0(촀\0Voilà, tu sais tout !"

@@ -235,6 +235,10 @@ accepteren.
 fossielen.
 \0 (촀\0Oehoe! Aarzel niet en
 breng ze naar me toe!"
+"1001","()촀\0Na uitvoerig onderzoek concludeer ik dat n	\0 een ongerept eiland is.\0\0(%촀\0En ik verwed er mijn slagpennen om
+dat deze woeste grond
+\0(촀\0 vól ligt met
+de mooiste \0fossielen\0￿!"
 "101","(촀\0Bedankt voor je bezoek."
 "102","(""촀\0Heb je nog iets te doneren of mocht
 je hulp nodig hebben, laat het me
@@ -393,7 +397,9 @@ Er is zoveel te regelen! Oehoehoe!
 van het museum zijn in volle gang,
 dus ik accepteer nu geen donaties.
 (촀\0Hoewel verzoeken voor de analyse
-van fossielen altijd welkom zijn!"
+van fossielen altijd welkom zijn!
+\0 (&촀\0Kan
+ik nog iets voor je betekenen?"
 "192_a","Kun je iets analyseren?"
 "192_b","Nee, hoor."
 "193","()촀\0Ik accepteer geen nieuwe donaties

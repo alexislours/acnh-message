@@ -39,7 +39,7 @@ eh,
 \0 wil ik nu even niet."
 "011","촊촉(촀\0Yo, iemand lijkt grootse plannen te hebben, met 2\02&촀
 heuseheus
-heuse }\0\0n\0\0\0\0촆촃(5촀\0Persoonlijk sta ik erom bekend dat ik op zijn tijd 2\0fenomenale 촀 op tafel tover."
+heuse }\0\0n\0\0\0\0촆촃(5촀\0Persoonlijk sta ik erom bekend dat ik op zijn tijd 2\02F 촀fenomenalefenomenaalfenomenale 촀 op tafel tover."
 "012","촊촉('촀\0Ik weet niet of ik in het openbaar op 2\0}\0\0 zou willen sporten.\0\0촆촃(-촀\0Niemand hoeft het zwetende hoofd
 te zien dat ik krijg als ik me inspan."
 "016","촊촉(촀\0Hé, voor welk feestje heeft iemand 2\0}\0\0 neergezet?\0\0촆촃(5촀\0Ik ga ervan uit dat ik binnenkort de
@@ -138,8 +138,17 @@ iemand het hier is vergeten."
 }\0\0 te zien?\0\0촆촃(촀\0Dat zal wel bij het eilandleven horen.
 \0(
 (촀\0Vrijheid, blijheid, n\0!"
+"033","촊촉Kijk, wat een goed idee! 2\02\0}\0\0, 
+\0gewoon in de buitenlucht!\0\0촆촃(%촀\0Hier kan ik dus naartoe om even
+snel op te warmen als het frisjes
+is buiten."
 "999","<"
 "999_01","촊촉(촀\0Hmmn\0\0 Zoiets kom je niet elke dag
 zomaar buiten tegen. 촆촃Het lijkt nog
 een aangepast ontwerp ook.\0\0(&촀\0Wie zou er creativiteit besteden aan
 2\0}\0\0?"
+"999_02","촊촉($촀\0Hé, check dit. 
+\0Wie laat er hier nu 2\0}\0\0 staan?\0\0촆촃(촀\0Zou het soms kunst zijn? 
+\0((&촀\0En wat zou
+de kunstenaar daarmee proberen te
+zeggen, denk je, n\0?"

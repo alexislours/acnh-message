@@ -42,6 +42,31 @@ counting on you to get the supplies."
 "100_02","Please check with our boss,
 \0Tom Nook\0￿, about what supplies
 we'll need."
+"1001","(\0촀\0There's something I should let you
+know about, n\0.\0\0(촀\0Unfortunately, your things haven't
+arrived yet. 
+\0The flight carrying \0your
+belongings and house\0￿ was delayed.\0\0(\0촀\0You took part in a Deserted Island
+Getaway Package before,
+\0 (&촀\0right?\0\0(8촀\0We're sorry for the inconvenience,
+but would you mind spending tonight
+in a tent like the others?\0\0(%촀\0Your things should arrive tomorrow,
+\0
+and we'll happily set everything up
+then.
+\0 ($촀\0Thanks for understanding!"
+"1001_01","(촀\0You may have already heard about
+this from \0President Nook\0￿, butn\0\0\0\0(촀\0Unfortunately, your things haven't
+arrived yet. The flight carrying \0your
+belongings and house \0￿was delayed.\0\0(8촀\0We're sorry for the inconvenience,
+but would you mind spending tonight
+in a tent like the others?\0\0(%촀\0Your things should arrive tomorrow,
+\0
+and we'll happily set everything up
+then.
+\0 ($촀\0Thanks for understanding!"
+"1002","(촀\0And with that, 
+\0here's your \02\0Ā촃tent\0￿!"
 "101","<"
 "101_01","(촀\0Any \02\0Ѐ촃tree branches \0￿you find on the
 ground or shake out of the trees

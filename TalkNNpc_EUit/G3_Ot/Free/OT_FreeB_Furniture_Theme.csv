@@ -191,10 +191,24 @@ cosa molto bella?\0\0촊촉()촀\0Per esempio, prendi 2\0}\0\0 c
 oggetti aiutassero a scandire il
 tempo, n\0."
 "025","(&촀\0Preferisci usare la zucca per piatti
-dolci o salati, n\0?\0\0촊촉Ho visto 2""촀questoquesta\0 }\0\0 qui e mi è venuto spontaneo chiedertelo.\0\0촃촆()촀\0Io sono sia per i piatti salati che per
+dolci o salati, n\0?\0\0촊촉Ho visto 2""촀questoquesta\0 }\0\0 qui e mi è venuto spontaneo chiedertelo.\0\0촃촆()촀\0Io gradisco sia i piatti salati che
 quelli dolci.
 \0 Possibilmente nello
 stesso pasto, n\0!"
+"026","촊촉(촀\0Oh cielo,
+\0 guarda un po'!
+\0(
+2\02\0}\0\0!
+\0(
+(촀\0Elettrizzante, adorabile, di classe!\0\0촃촆(촀\0Oh, ho esagerato?
+\0( (2촀\0Alcuni celebrano
+l'infanzia, 
+\0mentre altri l'ammirano
+nostalgicamente da lontanon"
+"027","촊촉(1촀\02\02\0}\0\0 mi fa venir voglia di sedermi a tavola con la mia famiglia.\0\0촃촆(촀\0Adesso non posso andare a trovare
+i miei genitori,
+\0(촀\0 però posso scrivere
+loro un bel biglietto, n\0!"
 "999","<"
 "999_01","촊촉(""촀\02\02\0}\0\0n\0\0
 \0
@@ -204,3 +218,12 @@ in casan\0\0
 \0 che fuori.\0\0촆촃(촀\0Inoltre sembra quasi uno di quegli
 oggetti multiuso che cambiano
 aspetto a seconda della funzione."
+"999_02","촊촉( 촀\02\02\0
+\0}\0\0.
+\0
+(촀\0Ma guarda come è stat2촀oa\0 posizionat2oa
+abilmente! Davvero di gran classe.
+촆촃(\0촀\0Se conosci l'artista che ha curato
+questo allestimento, 
+\0(6촀\0digli che n
+\0 approva!"

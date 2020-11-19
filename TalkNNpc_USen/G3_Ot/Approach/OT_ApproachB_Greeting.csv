@@ -90,12 +90,12 @@ have the PERFECT greeting already!"
 "100","(촀\0Well let's hear it, then!"
 "101","(촀\0Alrighty! Let's try it outn\0\0
 \0
-(""촀\0n\0Don't YOU look fabulous todayn!
+(""촀\02\0n\0Don't YOU look fabulous todayn!
 \0
 (2촀\0Welln\0\0what do you think?"
 "101_a","I like it!"
 "101_b","It's a little off..."
-"102","(&촀\0""n\0Don't YOU look fabulous todayn""?
+"102","(&촀\0""2\0n\0Don't YOU look fabulous todayn""?
 \0
 (\0촀\0Hmmn\0\0
 \0 ($촀\0So, you want to keep our
@@ -114,10 +114,10 @@ We'll get it this time!"
 \0 there's no rush.
 \0(
 (""촀\0Shall we give it another try?"
-"200","(""촀\0n\0Don't YOU look fabulous todayn!
+"200","(""촀\02\0n\0Don't YOU look fabulous todayn!
 \0
 (촀\0Yes! That sounds wonderful!"
-"201","(""촀\0n\0Don't YOU look fabulous todayn!
+"201","(""촀\02\0n\0Don't YOU look fabulous todayn!
 \0
 (촀\0Yes!
 \0 Well done!
@@ -150,7 +150,7 @@ I mean, (5촀\0why mess with the
 best, n\0?"
 "302","(촀\0Oh, I understand completely.
 \0
-(촀\0""n\0Don't YOU look fabulous todayn""
+(촀\0""2\0n\0Don't YOU look fabulous todayn""
 evokes so many fond memories!
 (촀\0I'm sorry I ever doubted our special
 greeting.

@@ -104,6 +104,15 @@ your }\0\0."
 Are you really sure you want to part
 with it?
 \0 I can give you Z\0n"
+"037_01","(촂\0(촃\0Oh my!
+\0 This is a DIY recipe for
+2\0}\0\0!\0\0(촂\0It's quite rare and valuable.
+\0((&촂\0 Are you
+sure you want to sell it? 
+\0(%촃\0We can only
+offer Z\0, I'm afraid."
+"037_01_a","(%촀\0Sold!"
+"037_01_b","('촀\0Actually, I'll pass."
 "037_a","(%촀\0Sold!"
 "037_b","('촀\0Actually, I'll pass."
 "038","(촂\0(촃\0Ohn\0\0
@@ -143,6 +152,14 @@ Sound good?"
 an extremely valuable recipe in the
 mix.
 \0(&촂\0(&촃\0 Are you sure about this?"
+"043_01","(촂\0(촃\0So many fine thi—(촂\0(촃\0
+\0 OH!
+\0 (\0촂\0(\0촃\0I'm seeing
+an extremely valuable recipe in the
+mix.
+\0(&촂\0(&촃\0 Are you sure about this?"
+"043_01_a","(%촀\0It's fine. Go ahead."
+"043_01_b","('촀\0Er, no. Hold on a sec."
 "043_a","(%촀\0It's fine. Go ahead."
 "043_b","('촀\0Er, no. Hold on a sec."
 "044_01","(촂\0
@@ -514,9 +531,49 @@ today, and I'm afraid that this is the
 last day it will be available this year.\0\0(촀\0I do hope you'll come back
 for more at the next possible
 opportunity!"
+"145","( 촂\0Ah, I suppose this requires some
+explanation. 
+\0(%촂\0You see, we decided
+to begin selling toys!\0\0()촂\0(촃\0This is a limited-time offering until
+December 25th to allow folks to
+purchase Toy Day gifts.\0\0(촂\0(촃\0Do let us know if anything catches
+your eye! d\0
+\0\0K...eye!\0dd"
 "200","(촂\0(촃\0Thank you!d\0
 \0 \0K...thank you!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\0Ah! 
+\0(\0촂\0A Turkey Day item! 
+\0That's 2\0
+}\0\0.\0\0()촂\0I should warn you that supplies are
+limitedn\0\0(촃\0and you might be able to
+craft something similar with DIYn\0\0\0\0($촂\0($촃\0In fact, I believe we have recipes
+\0on sale now in the cabinet\0￿n\0\0\0\0(%촂\0(%촃\0Just providing you another option.
+\0
+We are always happy to make a
+sale!d\0 
+\0\0K...sale!\0dd"
+"2002","(촂\0Goodness, I completely forgot to
+give the price!
+\0( ($촂\0($촃\0It's Z\0.
+\0
+What do you say?"
+"2002_a","(%촀\0I'll buy it!"
+"2002_b","('촀\0Actually, I'll pass."
+"2003","(촂\0(촃\0Not that we're keeping track, butn\0\0
+\0
+(촂\0you've already learned all of the DIY
+recipes in that collection!
+\0(\0촂\0(\0촃\0\0\0($촂\0($촃\0Perhaps you would enjoy the
+challenge of crafting some new
+Turkey Day–inspired recipes."
+"2004","()촂\0Ah! 
+\0You've found a collection of \0DIY\0￿
+recipes inspired by Turkey Day. 
+\0(촃\0It's
+2\0}\0\0!\0\0(9촂\0We'll only be offering this collection
+until the end of the month, so don't
+delay if you're interested."
 "201","(촂\0
 \0(촃\0Hello!d\0
 \0 \0K...hello!\0dd

@@ -156,6 +156,19 @@ Mettez-vous à l'aise et profitez de
 notre vidéo de présentation du
 forfait Évasion Île déserte.
 \0d촂d"
+"1003_02","(%촂\0Tout d'abord,
+\0 tu dois vérifier ton
+appli.
+\0 ($촂\0($촃\0C'est la première fois que
+tu souscris à une de nos formules?"
+"1003_02_01","(촂\0(촃\0Très bien!
+\0\0Kd\0 ... Bien!d\0d\0\0(%촂\0Jetons un œil à ton inscription.
+
+\0($촂\0($촃\0Pourrais-tu nous donner ton \0nom\0￿ et
+ta \0date de naissance\0￿?
+\0\0Kd\0 ... s'il te plaît?d\0d"
+"1003_02_a","La première fois, oui!"
+"1003_02_b","Je déménage."
 "101","Tu es au guichet d'enregistrement
 dédié aux (!촂\0(!촃\0déménagements vers
 n\0! Bienvenue!\0\0(\0촂\0(\0촃\0(촂\0Tu t'apprêtes à vivre une aventure
@@ -181,6 +194,120 @@ ton déménagement,(\0촂\0 veux-tu?"
 l'île,
 \0(%촃\0 nous te ferons une présentation
 complète sur la vie insulaire!"
+"2001","(촂\0(촃\0D'accord!\0K
+\0d\0 Bien compris!d\0d\0\0(\0촀\0Tu déménages de ton île \0Animal
+Crossing: New Horizons \0￿précédente.
+\0(촂\0(촃\0
+Très bien!
+\0 d\0\0KVive le changement!\0dd"
+"2001_01","Avant de poursuivre,
+\0($촂\0($촃\0 envisages-tu
+aussi un \0transfert d'utilisateurs \0￿entre
+des consoles Nintendo Switch?\0\0()촂\0()촃\0Si oui, tu dois effectuer ce transfert
+en priorité.\0\0Et pour ce faire, sélectionne
+\0Transférer un utilisateur\0￿ dans les
+paramètres de la console.\0\0(촂\0(촃\0Dès que ce sera fait, nous serons
+ravis de t'aider à déménager!
+\0
+d\0\0K... On t'attend ici!\0dd"
+"2002","(촂\0(촃\0Bien, nous allons t'aider
+à déménager.\0\0(&촂\0(&촃\0As-tu déjà envoyé une \0\0requête de
+transfert\0￿ avec la console Nintendo
+Switch où se trouve ton île actuelle?"
+"2002_01","Bien, tu vas devoir regarder la
+console Nintendo Switch
+\0 (%촀\0où se
+trouve ton île d'origine.
+\0\0Kd\0 Il le faut.d\0d
+(촀\0Si tu vois « \0\0Requête de transfert
+envoyée. \0￿»,
+\0 ()촀\0sélectionne maintenant
+« \0Lancer le processus. \0￿» ici."
+"2002_01_a","\0Lancer le processus.\0￿"
+"2002_01_b","En fait, laissons tomber."
+"2002_a","Oui, c'est fait!"
+"2002_b","Comment je fais ça?"
+"2002_c","Laissons tomber."
+"2004","(촂\0(촃\0J'ai trouvé s\0촀 de l'île s촀.
+\0( ($촂\0($촃\0Tu confirmes que c'est correct?"
+"2004_a","Oui, c'est correct."
+"2004_b","En fait, laissons tomber."
+"2005","(촂\0(촃\0Dans ce cas, 
+\0on peut passer à l'étape
+suivante du processus de transfert!"
+"2006","(촂\0(촃\0Et voilà!
+\0 Le processus de transfert
+est terminé!"
+"2007","()촂\0()촃\0Pour envoyer une \0\0requête de
+transfert\0￿,
+\0 tu dois utiliser la console
+Nintendo Switch de ton île d'origine.(촂\0(촃\0\0\0D'abord,
+\0 démarre \0Animal Crossing:
+New Horizons\0￿.(촂\0(촃\0\0\0Ensuite,
+\0 à l'écran titre,
+\0 appuie sur
+le \0bouton  \0￿pour accéder aux
+paramètres.(촂\0(촃\0\0\0Lorsqu'on t'y invite,
+\0 sélectionne
+« \0Transfert vers une autre île.\0￿ »(촂\0(촃\0\0\0Ensuite,
+\0 suis les instructions pour
+lancer le processus de transfert avec
+l'envoi d'une \0\0requête de transfert\0￿."
+"2008","(촀\0Un détail important!
+\0(()촀\0 Si tu as déjà
+transféré des données d'utilisateur
+depuis une autre consolen\0\0(\0촀\0\0\0(%촀\0Après avoir utilisé \0Transférer un
+utilisateur\0￿,
+\0()촀\0 ton compte utilisateur ne
+sera plus sur la console source.(\0촀\0\0\0Si tel est le cas, 
+\0(촂\0(촃\0demande à un \0autre
+résident sur la console source
+\0 de
+lancer le processus pour toi\0￿."
+"2009","Je crois que j'ai tout dit! 
+\0($촂\0($촃\0Te sens-tu
+prêt2\0e à lancer le processus de
+déménagement?
+\0\0Kd\0 ... Ça va déménager!d\0d"
+"2009_a","Je suis prêt2\0e!"
+"2009_b","Répéter les explications."
+"2009_c","Pas tout de suite."
+"2021","Oh!
+\0 ($촂\0($촃\0Veux-tu annuler le processus
+de transfert?"
+"2021_a","Oui, on annule."
+"2021_b","Non, on reprend."
+"2023","( 촂\0( 촃\0Oh! 
+\0Dans ce cas,
+\0 on oublie les
+forfaits. (촂\0(촃\0À bientôt!
+\0 \0Kd\0Prends soin de toi!d\0d"
+"2024","(촂\0(촃\0
+\0Je n'ai trouvé personne qui veuille
+déménagern\0\0
+\0(&촂\0(&촃\0 Veux-tu que
+je réessaie?"
+"2024_a","Oui, réessaie."
+"2024_b","Non, inutile."
+"2025","(촂\0(촃\0Hm? 
+\0Le processus de transfert
+a échouén"
 "203_02",""
 "203_03",""
 "203_04",""
+"2051","(촂\0(촃\02\0n\0,
+\0 on t'attendait!
+
+\0\0Kd\0Oui, toi!d\0d\0\0($촂\0($촃\0Tu as lancé un processus de transfert
+depuis une autre île,
+\0 n'est-ce pas?"
+"2052","(촂\0(촃\0Reprenons le processus!
+\0\0Kd\0 Maintenant!d\0d"
+"2053","(%촂\0(%촃\0Nous avons déjà terminé tous les
+préparatifs pour le départ,
+\0 (촂\0alors tu
+n'as plus qu'à attendre le décollage!\0\0()촂\0(%촃\0Nous t'expliquerons en détail la vie
+insulaire
+\0 lorsqu'on sera arrivés à
+destination!
+\0(촀\0(촀\0\0Kd\0 Les pieds sur terre!d\0d"

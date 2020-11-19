@@ -150,6 +150,18 @@ flight to n\0.\0\0Please sit back, relax, and enjoy a
 free video about Nook Inc.'s
 Deserted Island Getaway Package.
 \0d촂d"
+"1003_02","(%촂\0The first step is checking your
+application.
+\0 ($촂\0($촃\0Is this your first time
+applying for one of our packages?"
+"1003_02_01","(촂\0(촃\0Understood!
+\0\0Kd\0 ...stood!d\0d\0\0(%촂\0Now then, we'll need to look up
+your application.
+\0 ($촂\0($촃\0Can we have your
+\0name\0￿ and \0birthday\0￿?
+\0\0Kd\0 ...birthday?d\0d"
+"1003_02_a","Yes, it is!"
+"1003_02_b","I'm moving."
 "101","Welcomen\0\0to the check-in counter
 for your (!촂\0(!촃\0big moving-day trip
 to n\0!\0\0(\0촂\0(\0촃\0(촂\0There is so much to look forward to!
@@ -174,6 +186,116 @@ in-depth overview on island life
 \0(%촃\0 once
 we're back on the ground!(촀\0(촀\0d\0 
 \0\0K...ground!\0dd"
+"2001","(촂\0(촃\0Understood!\0K
+\0d\0 ...stood!d\0d\0\0(\0촀\0You're moving off of your previous
+\0Animal Crossing: New Horizons\0￿
+island.
+\0(촂\0(촃\0 That's great!
+\0 d\0\0K ...great!\0dd"
+"2001_01","Before we continue,
+\0($촂\0($촃\0 are you also
+considering \0transferring users\0￿
+between Nintendo Switch systems?\0\0()촂\0()촃\0If so, you should complete that
+transfer first by selecting ""\0Transfer
+Your User Data\0￿"" in System Settings.\0\0(촂\0(촃\0We'd be happy to help process
+your move once that step is
+complete!
+\0d\0\0K ...lete!\0dd"
+"2002","(촂\0(촃\0We'd be happy to help you with your
+move, then.\0\0(&촂\0(&촃\0Have you already sent a \0\0Transfer
+Request\0￿ from the Nintendo Switch
+system that has your current island?"
+"2002_01","Alright, please take a look at the
+Nintendo Switch system
+\0 (%촀\0that has
+your current island.
+\0\0Kd\0 ...island.d\0d
+(촀\0If you see ""\0\0The Transfer Request
+has been sent.\0￿"" there,
+\0 ()촀\0then please
+select ""\0Start the process.\0￿"" here."
+"2002_01_a","\0Start the process.\0￿"
+"2002_01_b","Actually, never mind."
+"2002_a","Yes, I have!"
+"2002_b","How do I do that?"
+"2002_c","Actually, never mind."
+"2004","(촂\0(촃\0I've found s\0촀
+\0 from
+s촀!
+\0( ($촂\0($촃\0Can you please
+confirm if that is correct?"
+"2004_a","Yes, that is correct."
+"2004_b","Actually, never mind."
+"2005","(촂\0(촃\0In that case, 
+\0we can move on to the
+next part of the process!"
+"2006","(촂\0(촃\0And there we go!
+\0 The moving
+process is complete!"
+"2007","()촂\0()촃\0To send a \0\0Transfer Request\0￿,
+\0 you'll
+need to use the Nintendo Switch
+system with your current home.(촂\0(촃\0\0\0First, launch the \0Animal Crossing:
+New Horizons\0￿ game.(촂\0(촃\0\0\0Then, at the title screen, 
+\0press the
+\0 Button\0￿ to enter the settings menu.(촂\0(촃\0\0\0When you're asked, please select
+\0
+""\0Move to a new island.\0￿""(촂\0(촃\0\0\0After that, follow the instructions to
+begin the moving process, 
+\0which will
+send a \0\0Transfer Request\0￿."
+"2008","(촀\0Oh!
+\0(()촀\0 I have one more important detail
+in case you've already transferred
+user data from a different system.(\0촀\0\0\0(%촀\0After you use ""\0Transfer Your User
+Data\0￿,"" 
+\0()촀\0then your user account won't
+be on the source system anymore.(\0촀\0\0\0If that's the case, 
+\0(촂\0(촃\0please ask \0another
+resident from the source system
+\0 to
+start the process on your behalf\0￿."
+"2009","I believe that's everything! 
+\0($촂\0($촃\0Do you
+think you're ready to begin the
+moving process?
+\0\0Kd\0 ...process?d\0d"
+"2009_a","Yes, please!"
+"2009_b","Can I hear it all again?"
+"2009_c","No, not right now."
+"2021","Oh!
+\0 ($촂\0($촃\0Do you want to cancel the
+moving process?"
+"2021_a","Cancel it."
+"2021_b","Keep going."
+"2023","( 촂\0( 촃\0Oh! 
+\0In that case, we'll cancel all
+processing on our packages.
+(촂\0(촃\0Take care!
+\0 \0Kd\0 ...care!d\0d"
+"2024","(촂\0(촃\0
+\0I couldn't find anybody who is trying
+to moven\0\0
+\0(&촂\0(&촃\0 Should I search again?"
+"2024_a","Please search again."
+"2024_b","No, thank you."
+"2025","(촂\0(촃\0Hm? 
+\0The moving process failedn"
 "203_02",""
 "203_03",""
 "203_04",""
+"2051","(촂\0(촃\02\0n\0,
+\0 we've been
+waiting for you!
+\0\0Kd\0 ...for you!d\0d\0\0($촂\0($촃\0You were in the process of moving
+here from another island, right?"
+"2052","(촂\0(촃\0Let's resume the process now!
+\0\0Kd\0 ...now!d\0d"
+"2053","(%촂\0(%촃\0We've already finished everything
+that needed to be done before we
+take off,
+\0 (촂\0so please wait for boarding!\0\0()촂\0(%촃\0We'll give you an in-depth overview
+of island life
+\0 once we're on the
+ground!
+\0(촀\0(촀\0\0Kd\0 ...ground!d\0d"

@@ -255,6 +255,19 @@ por \0Z\0\0￿.
 "1105_a","A mi casa"
 "1105_b","A otra casa"
 "1105_c","Cancelar"
+"1106","¿Quieres pedir 2\0
+\0}\0\0\0￿ por
+\0Z\0\0￿? \0\0Podrás personalizar
+tu móvil en un banco de bricolaje.\0￿"
+"1106_a","Cancelar"
+"1106_b","Hacer pedido"
+"1107","¿Quieres pedir 2\0
+\0}\0\0\0￿ por
+\0Z\0\0￿? \0\0Podrás personalizar
+tu móvil en un banco de bricolaje.\0￿"
+"1107_a","A mi casa"
+"1107_b","A otra casa"
+"1107_c","Cancelar"
 "1108","¡Se ha realizado el pedido!
 Lo recibirás en tu buzón muy pronto."
 "1108_a","Vale"
@@ -1156,6 +1169,14 @@ opciones de pintura corporal.
 y disfruta de un cambio de imagen
 con nuevas lentillas de colores.
 \0\0Se imprimirá de inmediato.\0￿"
+"3026","Aprende diversas emociones con
+las que llenar de expresividad
+tu vida en la isla.
+\0\0Se imprimirá de inmediato.\0￿"
+"3027","Usa un \0espejo \0￿o un \0tocador\0￿
+y disfruta de un cambio de imagen
+con estos peinados adicionales.
+\0\0Se imprimirá de inmediato.\0￿"
 "5001","\0Cámara\0￿
 Te permite sacar fotos y aplicarles
 diversos filtros y efectos.\0\0\0\0Las imágenes se guardarán en el
@@ -1663,6 +1684,10 @@ conectar a internet para realizar
 dicha verificación."
 "8020_a","No"
 "8020_b","¡Vale!"
+"8021","Se han detectado datos de un
+jugador que se estaba mudando
+desde otra isla. El proceso
+se reanudará a continuación."
 "9001","¿Quieres comenzar el proceso de
 recuperación de datos de guardado?"
 "9001_a","Cancelar"
@@ -1679,3 +1704,51 @@ A continuación se volverá al juego."
 "9016","Guardandon\0\0
 \0
 \0\0No toques .\0￿"
+"9101","El perfil de usuario que estás
+utilizando no está vinculado
+a ninguna cuenta Nintendo.\0\0¿Quieres vincular una cuenta
+Nintendo para poder conservar
+los datos de guardado de las
+funciones que usan internet?"
+"9101_a","Cancelar"
+"9101_b","Vincular"
+"9102","Si no vinculas una cuenta Nintendo
+antes de comenzar, se reiniciarán
+todas aquellas funciones que utilicen
+internet. ¿Quieres continuar?"
+"9102_a","Cancelar"
+"9102_b","Borrar y seguir"
+"9103","La cuenta Nintendo vinculada a este
+perfil de usuario no es la misma que
+se empleaba en la consola anterior.\0\0Por tanto, antes de la mudanza se
+reiniciarán aquellas funciones que
+utilizan internet, como la lista de
+mejores amigos. ¿Quieres continuar?"
+"9103_a","Cancelar"
+"9103_b","Borrar y seguir"
+"9104","Se han reiniciado los datos de
+guardado de aquellas funciones
+que utilizan internet."
+"9104_a","Aceptar"
+"9105","Accede al \0menú HOME\0￿ y cierra el
+juego. Vincula un perfil de usuario a
+la misma cuenta Nintendo que usabas
+previamente y vuelve a abrir el juego."
+"9105_01","Accede al \0menú HOME\0￿ y cierra el juego.
+Vuelve a abrir el juego usando un perfil
+de usuario vinculado a la misma cuenta
+Nintendo que usabas antes de mudarte."
+"9111","La consola Nintendo Switch de
+destino no tiene datos de guardado
+de \0Animal Crossing: New Horizons\0￿.\0\0Si sigues adelante con la mudanza,
+\0s\0촀\0￿ será 2촀ella\0 \0portavoz
+vecinal\0￿ de la isla de esa consola.
+¿Quieres continuar?"
+"9111_a","No"
+"9111_b","Sí"
+"9112","El proceso de transferencia de datos
+llevará su tiempo. Si estás jugando
+en modo portátil, conecta la consola
+a un adaptador de corriente antes
+de empezar el proceso."
+"9112_a","Aceptar"

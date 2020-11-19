@@ -39,6 +39,39 @@ tu le désires.
 Pour tout ce qui est lié à l'île dans
 sa globalité ou aux autres résidents,
 \0Marie\0￿ sera ravie de t'aider."
+"011","(촀\0Ah, 
+\0n\0 !
+\0
+Bienvenue à toi !\0\0(\0촀\0Tu as trouvé le \0bureau des résidents\0￿.
+\0
+Ici,
+\0 nous proposons notre assistance
+à tous les résidents de l'île.\0\0(%촀\0Tu connais certainement déjà les
+ficelles de la vie insulaire,
+\0 (""촀\0mais
+n'hésite quand même pas à passer !"
+"012","(촀\0Alors, normalement,
+\0 tout nouveau
+bénéficiaire de nos formules doit
+assister à notre atelier \0bricolage\0￿.\0\0(촀\0Mais comme tu y as participé sur ton
+île précédente,
+\0 je ne pense pas que
+tu aies besoin d'y retourner."
+"013_01","Cependant,
+\0 ()촀\0ce serait merveilleux si
+tu pouvais participer à l'étude de la
+faune insulaire locale.\0\0(%촀\0Donc, si tu attrapes quelque insecte
+ou poisson,
+\0 viens me les montrer.
+\0($촀\0
+Je suis curieux de les découvrir !"
+"013_02","(촀\0Maintenant,
+\0 va profiter de ta
+nouvelle île, 
+\0hm ?"
+"013_03","(촀\0Alors qu'attends-tu pour aller
+profiter de ta nouvelle île,
+\0 hm ?"
 "021_01","(촀\0Ravi de l'entendre, oui, oui.\0\0(%촀\0J'aime cet esprit d'initiative, cette
 façon de se lancer sans filet dans
 l'exploration et la découverte.
@@ -292,6 +325,24 @@ pour créer un charmant petit parc !
 (촀\0Je compte sur toi pour te délester de
 quelques miles afin d'embellir notre
 île à coups d'adorables clôtures !"
+"181","Dis-moi, n\0n\0\0\0\0(&촀\0As-tu choisi l'emplacement de ta
+tente ?
+\0 Où tu voudrais t'installer ?
+\0 Hm ?\0\0(\0촀\0Tu es libre de vivre comme tu le
+souhaites, mais il y a quand même
+des avantages à avoir une maison.\0\0Certains services de l'île ne sont
+accessibles qu'aux propriétaires,
+(촀\0donc réfléchis-y quand même !"
+"182","(7촀\0Tu n'as plus la moindre obligation
+sur le feu !\0\0(\0촀\0C'est l'occasion rêvée d'utiliser
+\0Nook Shopping\0￿ ou d'\0échanger des
+miles\0￿, hm ?
+\0(촀\0 Fais-toi plaisir !"
+"183","As-tu eu le temps de trier tes affaires
+
+\0(&촀\0depuis ton déménagement, n\0 ?\0\0(4촀\0Puis-je me permettre de te suggérer
+\0Nook Shopping\0￿ au \0Nook Stop\0￿ s'il te
+faut quoi que ce soit de neuf ?"
 "201","(촀\0Oui, oui !
 \0 L'atelier bricolage !\0\0()촀\0Chaque participant fabrique son
 propre outil et reçoit quelques
@@ -480,6 +531,15 @@ moyennant quelques miles, oui oui.
 œil au plus vite, hm ?\0\0(\0촀\0En attendant, continue à prendre
 du bon temps (""촀\0grâce à notre formule
 Évasion !"
+"410","(촀\0
+\0Oh !
+\0 (&촀\0Tu veux parler de ta maison ?\0\0(7촀\0Tu sais,
+\0 je préférerais attendre que
+tu sois convenablement installé2\0e ici.\0\0(촀\0Utilise d'abord ton \0kit de transfert\0￿
+pour choisir l'emplacement de ta
+maison,
+\0 (""촀\0et après,
+\0 on pourra parler !"
 "901","(촀\0Ah, je vois que tu as découvert
 mon établi de \0bricolage\0￿."
 "911","(촀\0Ainsi que je te le disais, il te faut

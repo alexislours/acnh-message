@@ -38,14 +38,11 @@ quieras charlar un rato.
 \0 a mi edad la memoria
 flojea.\0\0(""촀\0Soy n
 \0.
-\0 Mucho gusto, n\0.\0\0()촀\02\0s\0촀 insistió bastante
-en que me diera una vuelta por n\0,
+\0 Mucho gusto, n\0.\0\0()촀\02\0s\0촀 insistió bastante en que me diera una vuelta por n\0,
 \0 ¡y aquí estoy!\0\0(촀\0No es como s촀,
-\0
-pero me está gustando.
+\0 pero me está gustando.
 \0 (촀\0Pues bueno,
-\0
-a lo mejor nos vemos por ahí."
+\0 a lo mejor nos vemos por ahí."
 "002_03","( 촀\0Hola,
 \0 ¿te perdiste?
 \0 Ah,
@@ -768,12 +765,9 @@ la ocasión de conocernos mejor.
 ni nada.
 (""촀\0¿Qué tal?
 \0 Mucho gusto,
-\0 yo soy
-n
+\0 yo soy n
 \0,
-\0 recién llegado
-de s촀.
-(%촀\0Bueno,
+\0 recién llegado de s촀.\0\0(%촀\0Bueno,
 \0 no quiero entretenerte.
 \0
 Siempre que quieras charlar un

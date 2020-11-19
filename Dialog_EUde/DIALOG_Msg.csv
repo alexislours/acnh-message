@@ -256,6 +256,19 @@ für \0Z\0\0￿ bestellen?"
 "1105_a","Bestellen"
 "1105_b","Geschenk"
 "1105_c","Abbrechen"
+"1106","\0}\0\0\0￿
+für \0Z\0\0￿ bestellen?
+\0\0Um die Hülle zu verwenden, nutze die
+Umgestaltungsoption einer Werkbank.\0￿"
+"1106_a","Abbrechen"
+"1106_b","Bestellen"
+"1107","\0}\0\0\0￿
+für \0Z\0\0￿ bestellen?
+\0\0Um die Hülle zu verwenden, nutze die
+Umgestaltungsoption einer Werkbank.\0￿"
+"1107_a","Bestellen"
+"1107_b","Geschenk"
+"1107_c","Abbrechen"
 "1108","Ihre Bestellung war erfolgreich!
 Sie wird Ihnen in Kürze per Post
 nach Hause geliefert."
@@ -1188,6 +1201,14 @@ zur Auswahl an \0Spiegeln\0￿ und
 "3023","Neue Augenfarben zur Auswahl
 an \0Spiegeln\0￿ und \0Frisiertischen\0￿.
 \0\0Sofort verfügbar.\0￿"
+"3026","Lehrt dich eine Auswahl an
+Emotionen, um deinem Inselleben
+noch mehr Pep zu verleihen.
+\0\0Sofort verfügbar.\0￿"
+"3027","Entdecke noch mehr coole
+Frisuren zur Auswahl an \0Spiegeln\0￿
+und \0Frisiertischen\0￿.
+\0\0Sofort verfügbar.\0￿"
 "5001","\0Kamera\0￿
 Fotografiere und setze dabei
 diverse Filter und Effekte ein.\0\0\0\0Die Fotos werden im Album des
@@ -1660,6 +1681,10 @@ herzustellen, um diesen Vorgang
 abzuschließen."
 "8020_a","Nein"
 "8020_b","Schließen"
+"8021","Es wurden Spielerdaten für einen
+laufenden Umzug von einer anderen
+Insel gefunden. Der Umzugsvorgang
+wird jetzt fortgesetzt."
 "9001","Möchtest du die Inseldaten-
 wiederherstellung starten?"
 "9001_a","Abbrechen"
@@ -1675,3 +1700,55 @@ wird nun fortgesetzt."
 "9015_a","Schließen"
 "9016","Speichervorgang...
 \0\0Berühre nicht  (POWER-Knopf).\0￿"
+"9101","Für den Nutzer, den du verwendest,
+wurde kein Nintendo-Account
+verknüpft.\0\0Möchtest du einen Nintendo-Account
+verknüpfen, um Speicherdaten für Funk-
+tionen, die das Internet nutzen (z. B.
+„Beste Freunde“), zu übernehmen?"
+"9101_a","Nein"
+"9101_b","Ja"
+"9102","Wenn du keinen Nintendo-Account
+verknüpfst, werden alle Funktionen,
+die das Internet nutzen, zurück-
+gesetzt. Möchtest du fortfahren?"
+"9102_a","Nein"
+"9102_b","Ja"
+"9103","Der mit diesem Nutzer verknüpfte
+Nintendo-Account ist ein anderer
+als der, den du auf der bisherigen
+Konsole verwendet hast.\0\0Somit werden alle Funktionen, die das
+Internet nutzen (z. B. „Beste Freunde“),
+zurückgesetzt, bevor der Umzugs-
+vorgang fortgesetzt wird. Fortfahren?"
+"9103_a","Nein"
+"9103_b","Ja"
+"9104","Die Speicherdaten für Funktionen,
+die das Internet nutzen,
+wurden zurückgesetzt."
+"9104_a","OK"
+"9105","Beende das Spiel über das HOME-
+Menü, verknüpfe einen Nutzer mit dem
+Nintendo-Account, den du vor dem
+Umzug genutzt hast, und starte erneut."
+"9105_01","Beende das Spiel über das HOME-
+Menü und starte es mit einem Nutzer,
+der mit dem vor dem Umzug genutz-
+ten Nintendo-Account verknüpft ist."
+"9111","Auf der Zielkonsole sind keine
+Speicherdaten für das Spiel
+\0Animal Crossing: New Horizons
+\0￿vorhanden.\0\0Wenn du den Umzugsvorgang
+fortsetzt, wird \0s\0촀\0￿
+auf der Insel der Zielkonsole
+\02B촀InselsprecherInselsprecherin\0\0￿. Fortfahren?"
+"9111_a","Abbrechen"
+"9111_b","Fortfahren"
+"9112","Der Transfer der Speicherdaten
+nimmt einige Zeit in Anspruch.
+Solltest du im Handheld-Modus
+(über den Bildschirm der Konsole)
+spielen, schließe die Konsole bitte
+an ein Netzteil an, bevor du mit dem
+Speicherdaten-Transfer beginnst."
+"9112_a","Verstanden"

@@ -119,6 +119,17 @@ para mantener calentitas las torrijas!"
 claron"
 "016_02","(촀\0Es2촀ea\0 }촀 que llevas es muy mon2촀oa\0.\0\0(촀\0Al verte me han entrado unas
 ganas locas de comerme 2\0촀n"
+"016_03","(촀\0Vaya, ahora mismo no sabría decir
+qué es más mono:
+\0 tú o tu }촀.\0\0(촀\0¡Ya sé!
+\0 (촀\0Solo tengo que averiguar
+cuánto carisma tienes y compararlo
+con los atributos de la prenda.
+( 촀\0Espera,
+\0 esto me sirve en las partidas
+de rol,
+\0 (촀\0pero creo que en la vida real
+no es tan fácil, n\0."
 "017","<"
 "017_01","(;촀\0Hala, qué chulada de }촀.
 \0 Tú sí que vas a la última.\0\0(7촀\0Pareces una estrella del rock o algo.
@@ -142,6 +153,14 @@ echarse una siesta, por ejemplo.
 (5촀\0¡Soy todo un experto, n\0!
 \0
 No hay una que se me resista."
+"017_03","(촀\0Qué estilazo llevas hoy con es2촀ea\0
+}촀.\0\0( 촀\0Con esas pintas podrías presentar
+un programa de música.
+\0(촀\0 ¡Seguro
+que lo petarías!
+(4촀\0Y, cuando seas ric2oa, no te olvides de
+invitar a tu amigo n
+\0 a comer de vez en cuando."
 "018","<"
 "018_01","(촀\0Te queda bien 2촀eseesa\0 }촀.
 \0 Parece cómod2촀oa\0.\0\0(촀\0¡Y está limpísim2촀oa\0!
@@ -154,6 +173,10 @@ usada, n\0."
 }촀.\0\0(촀\0No sé cómo lo haces, que hasta
 la ropa más simple te queda
 megaguay, n\0."
+"018_03","(촀\0¿Cómo lo haces para molar tanto
+con 2촀ununa\0 simple }촀?\0\0(%촀\0En serio, cualquier cosa que te
+pongas te queda bien.\0\0(9촀\0Hasta parece que tengas poderes
+mágicos o algon"
 "019","<"
 "019_01","(;촀\0Toooma,
 \0 qué pasada de }촀.
@@ -167,6 +190,10 @@ de gente adinerada.\0\0(촀\0¿Cómo que si eso existe?
 (%촀\0Por supuesto, ni lo dudes.
 \0(촀\0 Es que
 ahora hacen series como churros."
+"019_03","(촀\0Qué vistos2촀oa\0 es es2촀ea\0 }촀 que llevas.\0\0(촀\0Así, si te pierdes,
+\0 te encontraremos
+enseguida.
+\0 ¡Qué list2oa eres!"
 "020","<"
 "020_01","(&촀\0¿Llevas 2\0}촀?
 \0 (촀\0Parece muy cómod2촀oa\0n\0\0\0\0(%촀\0Solo de ver2촀lola\0 le entran a uno
@@ -180,6 +207,10 @@ ropa ancha,
 \0 para cuando como
 fuerte, 
 \0(촀\0que es casi siempre."
+"020_03","(%촀\0A ti te gusta ir cómod2oa por la vida,
+¿a que sí, n\0?\0\0(촀\0Lo digo por tu }촀.
+\0 Y yo estoy contigo, n\0.\0\0(촀\0Lo principal es sentirse bien con
+uno mismo."
 "021","<"
 "021_01","(촀\0¿Llevas 2\0}촀?
 \0 (촀\0¿Y si te 2촀lola\0 manchas, n\0?\0\0(촀\0Yo no puedo ir tan elegante,
@@ -198,6 +229,11 @@ envidia
 \0 y hambre.
 \0 Sobre todo
 hambre, n\0."
+"021_03","(촀\0Vestid2oa con es2촀ea\0 }촀 pareces una persona distinta.\0\0(촀\0Porque eres n\0, ¿no?
+\0 (촀\0¡Será mejor que me presente por si acaso!\0\0(""촀\0Soy n
+\0 y mi postre
+preferido es 2\0촀.
+\0 ¡Encantado!"
 "101","<"
 "101_01","(촀\0Te gusta esa ropa un montón,
 ¿a que sí, n\0?
@@ -329,6 +365,18 @@ a vecesn\0\0\0\0(2촀\0Pero creo que se me da mejor
 dar risa.
 \0 (촀\0O pena.
 \0 (촀\0O hambre, n\0."
+"218","(&촀\0¿Sabes que así vestid2oa eres igualit2oa
+a Papá Noel?
+\0 Solo quería advertirte,
+n\0.
+(9촀\0Porque a lo mejor te miras en
+el espejo, te das el susto de tu vida
+porque ves a Papá Noeln\0\0
+( 촀\0¡y luego resulta que eres tú!
+\0
+(촀\0Imagínate la desilusión.
+\0 Créemen\0\0
+(촀\0te lo digo por experiencia."
 "251","(촀\0¡Cómo mola,
 \0 vamos a juego!
 \0
@@ -369,8 +417,7 @@ me dejaría helado de la impresión."
 \0 en orden.
 \0
 (촀\0¡Eres miembro de pleno derecho del
-club conejil,
-\0 n\0!\0\0(3촀\0\0KEntre tú y yo:
+club conejil, n\0!\0\0(3촀\0\0KEntre tú y yo:
 \0 eso no te obliga a comer solo
 zanahorias.\0d"
 "256","(촀\0¿Hoy te has levantado con las
@@ -393,8 +440,7 @@ que somos de la misma familia?"
 "258","(촀\0¡Hoy desprendes vibraciones osunas
 a tope!
 \0 (""촀\0¿Estás dando rienda suelta
-a tu lado más salvaje,
-\0 n\0?"
+a tu lado más salvaje, n\0?"
 "259","(촀\0Vaya,
 \0 debo admitir que 2\0
 }\0\0 te queda mucho mejor que a mí.\0\0(%촀\0Te contaré un pequeño secreto:
@@ -459,8 +505,7 @@ rescate estelar a Saturno o qué,
 \0 Si te puedo encargar una
 cositan\0\0
 \0 (촀\0¡A ver si allí venden chuches
-con anillos de colores,
-\0 n\0!"
+con anillos de colores, n\0!"
 "308","(촀\0Me recuerdas a algo que estudié
 en clase de historia en el cole.
 \0

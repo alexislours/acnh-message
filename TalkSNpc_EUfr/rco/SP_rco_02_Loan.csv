@@ -327,6 +327,18 @@ du \0Nook Stop\0￿, comme d'habitude."
 avec toi, comme à l'accoutumée.
 \0(촀\0
 Oui, oui !"
+"1001","(""촀\0Oh, salutations, n\0 !\0\0(%촀\0Tiens, 
+\0je viens de regarder le dossier
+de l'emprunt de ta maison sur ton île
+précédenten"
+"1002","(""촀\0Bonjour bonjour, n\0 !\0\0(\0촀\0Au fait, 
+\0(&촀\0n'avais-tu pas demandé à
+faire construire une maison juste
+avant d'emménager ici ?"
+"1003","(""촀\0Bonjour, n\0 !\0\0(\0촀\0À propos, 
+\0(&촀\0n'avais-tu pas déposé une
+requête de rénovation juste avant
+d'emménager ici ?"
 "101","n\0\0 Vu l'augmentation du nombre de
 propriétaires, (%촀\0il serait sans doute
 opportun d'ouvrir une boutique.(촀\0
@@ -341,3 +353,107 @@ vous vous formez auprès de moi. (촀\0Ce
 sera un jeu d'enfants pour vous !
 \0(촀\0
 \0촀"
+"1101","(""촀\0Bonjour bonjour, n\0 !"
+"1102","(&촀\0L'installation se passe bien ?
+\0 Tu te
+fais à la vie à n	\0 ?"
+"1102_a","Je suis comblé2\0e !"
+"1102_b","Ça va."
+"1103","(촀\0Bien, bien !
+\0 Je pense que tu vas te
+plaire ici.
+\0 Il y a moult façons de
+s'occuper sur l'île !\0\0(9촀\0Mais parfois, on a juste envie de
+s'évader un peu. 
+\0Ça tombe bien,
+\0 (%촀\0j'ai
+justement un cadeau spécial pour toi.\0\0(6촀\0Roulement de tambourn\0\0(촀\0 il s'agit
+d'un article premium pour tirer profit
+de ses miles, le \0ticket Miles Nook\0￿ !"
+"1103_a","Ouah, merci !"
+"1103_b","Un ticket Miles Nook ?"
+"1104","Sur ce, (""촀\0je ne vais pas te retenir plus
+longtemps.
+\0 (촀\0Tu dois avoir tant à
+explorer à n	\0 !"
+"1105","(촀\0Tu peux utiliser un \0ticket Miles Nook\0￿
+pour partir à l'aventure et sautiller
+d'une île à l'autre à tout moment !
+(촀\0Rencontrer de nouvelles têtes ou
+rassembler des matériaux spécifiques
+pour un projet de bricolagen\0\0
+(촀\0Quel que soit l'objet de ton voyage,
+fonce et décolle, l'\0aéroport\0￿ est là
+pour ça, oui oui !
+(촀\0C'est d'ailleurs au guichet de
+l'\0aéroport\0￿ que j'ai laissé ton ticket,
+alors n'hésite pas à en profiter !"
+"1201","(촀\0Tu as réussi !
+\0 Tu as remboursé
+l'intégralité de ton emprunt
+immobilier.
+\0 Mes félicitations !
+(5촀\0Te voilà donc libéré2\0e de tout
+engagement, prêt2\0e à profiter de ton
+paradis insulaire personnel !
+(촀\0Je te vois venir :
+\0 tu t'attends à ce
+que je te propose de l'agrandirn\0\0
+Eh bien non !
+\0 Tu as atteint la limite !
+(3촀\0Par contre, je peux te proposer
+autre chose.
+\0 Et gratuitement,
+cela va de soi.
+()촀\0Chez Nook Inc., nos maisons sont
+bâties pour durer, et pour te le
+prouvern\0\0
+(촀\0Nous avons le plaisir de t'offrir des
+rénovations extérieures gratuites
+pour toute ta vie !
+(촀\0Une par jour maximum, ainsi que
+stipulé dans les alinéas en annexe
+du contrat, oui, oui.
+(촀\0Ne fais pas attention ! 
+\0Je suis
+légalement tenu de prononcer
+cette phrasen"
+"1201_01","(촀\0Ah, au fait !
+\0 Il y a un menu détail
+dont je dois t'entretenir. 
+\0(\0촀\0Certes, on
+ne peut plus agrandir ta maisonn\0\0\0\0(&촀\0Par contre, que dirais-tu d'\0agrandir
+ton espace de rangement\0￿, hm ?"
+"1201_02","(촀\0Hélas, un tel chantier ne se finance
+pas comme ça, je suis donc obligé de
+demander un paiement comptant."
+"1201_03","(6촀\0Je suppose qu'à mesure que ton
+logis grandissait, tu as accumulé
+bien des choses dans ton espacen\0\0
+(7촀\0Et le temps de dire « ouf », ton
+espace de rangement était plein !
+\0
+(촀\0Et que faire alors de ton vieux sofa ?\0\0(\0촀\0C'est facile ! Il suffit d'agrandir son
+espace de rangement ! 
+\0(""촀\0Alors n'hésite
+pas à m'en reparler si ça te travaille !"
+"1201_04","(촀\0Il ne me reste plus qu'à te dire que
+chez Nook Inc., nous espérons te
+servir pour de nombreuses années !\0\0(\0촀\0Oh, et encore une foisn\0\0
+(촀\0Toutes nos félicitations !"
+"1202","(촀\0Ah, oui !
+\0 Il y a quelque chose dont
+j'aimerais te parler. 
+\0(\0촀\0Nous ne pouvons
+certes plus agrandir ta maisonn\0\0\0\0(촀\0Mais avec tous les meubles et autres
+bibelots que tu as amassés, tu ne
+dois plus avoir beaucoup de placen\0\0\0\0(%촀\0Cependant, sache que dès l'emprunt
+remboursé, 
+\0(촀\0tu pourras \0agrandir ton
+espace de rangement\0￿, oui, oui !\0\0(촀\0Enfin, il est encore un peu tôt pour
+en dire davantage.
+\0 Garde simplement
+ceci à l'espritn\0\0\0\0(\0촀\0En attendant, le \0DAC\0￿ du \0Nook Stop\0￿
+est toujours là pour réceptionner tes
+remboursements. 
+\0(""촀\0Porte-toi bien !"

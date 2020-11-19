@@ -204,6 +204,39 @@ Wat(&촀\0 had je in gedachten?"
 "075_02_a","Over bruggen/hellingen."
 "075_02_b","Ik wil iets verplaatsen."
 "075_02_c","Nu nog even niet."
+"1001","(촀\0Juist, ik kan me zo voorstellen dat je
+graag over je huis wilt praten, hm?\0\0()촀\0Voordat we dat doen, wil ik je nog
+kort iets vertellen."
+"1002","(9촀\0Voordat je hiernaartoe bent verhuisd,
+\0
+(&촀\0had je interesse in een uitbreiding
+van je huis, nietwaar?\0\0(촀\0Daar ben ik je natuurlijk graag mee
+van dienst. 
+\0Ja, ja!"
+"1002_01","(9촀\0Voordat je hiernaartoe bent verhuisd,
+\0
+(&촀\0wilde je het een en ander aan je huis
+veranderen, nietwaar?\0\0(촀\0Daar ben ik je natuurlijk graag mee
+van dienst. 
+\0Ja, ja!"
+"1003","(%촀\0Sterker nog, morgen zal alles klaar
+zijn. 
+\0Niet verkeerd, hm?
+\0 (""촀\0Ik hoop dat
+je er tevreden mee zult zijn."
+"1005","(촀\0Juist, ik kan me zo voorstellen dat je
+graag over je huis wilt praten, hm?\0\0()촀\0Voordat we dat doen, wil ik nog iets
+met je bespreken.\0\0(촀\0Kort voor je vertrek van het eiland
+had je een verzoek ingediend om je
+huis te verplaatsen, 
+\0(&촀\0nietwaar?\0\0(촀\0Maar aangezien je vervolgens naar
+een ander eiland bent verhuisd, heb
+ik het verzoek geannuleerd.\0\0((촀\0Geen zorgen! 
+\0((촀\0De administratiekosten
+van \030.000 klingels \0￿krijg je uiteraard
+gewoon terug.\0\0($촀\0Wanneer je je saldo bekijkt op de
+klingelautomaat, zul je zien dat het
+bedrag inmiddels is teruggestort!"
 "101","(촀\0
 \0O, 
 \0heb je geen hulp nodig?
@@ -215,11 +248,116 @@ hebt over je huis!"
 uitgave wil je natuurlijk goed
 nadenken!\0\0Kom maar met me praten als je er
 klaar voor bent."
+"1021","()촀\0Ik zie dat je vóór je verhuizing een
+uitbreiding van je opslagruimte had
+aangevraagd.\0\0(5촀\0Maak je geen zorgen!
+\0 Ik neem die
+klus graag voor je aan!
+\0 Ja, ja!"
 "103","(촀\0Uitstekend!
 \0 Ik zal direct beginnen
 met de bouw.\0\0(촀\0Alles zou morgenochtend af moeten
 zijn.
 \0 Wat spannend! Zo spannend!"
+"1101","(""촀\0Hallo, hallo!
+\0 Zo te zien is mijn tijding
+tijdig bij je aangekomen, hm?"
+"1101_01","()촀\0Vanaf nu bieden we huiseigenaars
+met een huis van maximale grootte
+\0extra opslagruimte\0￿ aan."
+"1101_02_00","(촀\0Helaas
+\0 loopt zo'n uitbreiding nogal in
+de papieren,
+\0 dus moeten alle kosten
+op voorhand worden betaald."
+"1101_02_01","(촀\0De hele som 
+\0moet echter wel vooruit
+worden betaald,
+\0 dus als je al een
+hypotheek hebt, kan het niet."
+"1101_03","(6촀\0Naarmate je huis steeds verder is
+uitgebreid,
+\0 kan ik me indenken
+\0 dat je
+aardig wat spullen hebt vergaard.\0\0(7촀\0En voor je het weet,
+\0 zit je opslag
+alweer vol! 
+\0(촀\0En wat moet je dan met
+je oude bank?\0\0(\0촀\0Dan komt een grotere opslagruimte
+wel van pas.
+\0 Dus,
+\0 (""촀\0denk er eens over
+en laat me weten wat je ervan vindt!"
+"1111","(촀\0Zo, zo!
+\0 Je bent geïnteresseerd in een
+uitbreiding van je opslagruimte, hm?\0\0(%촀\0Met een grotere opslag kun je zoveel
+\0 meer spullen opbergen dan nu.\0\0(촀\0Helaas kan ik je er geen lening voor
+aanbieden,
+\0 maar moet je \0500.000
+klingels \0￿vooruit betalen.\0\0((촀\0Maar dat is niets als je bedenkt wat
+je er aan extra ruimte voor terug-
+krijgt, en hoeveel rust dat geeft.\0\0(\0촀\0Goed!
+\0 (&촀\0Heb ik je belangstelling
+gewekt?
+\0 Wil je voor \0500.000\0￿ \0klingels
+\0￿je opslagruimte uitbreiden?"
+"1111_a","(%촀\0Ja, graag!"
+"1111_b","('촀\0Nu nog even niet."
+"1112","(촀\0Uitstekend!
+\0 Ik zal meteen de
+papieren voor de uitbreiding in
+orde maken.\0\0(%촀\0Ik ga ervan uit dat we alles
+morgenochtend wel gereed hebben.
+\0
+(촀\0Wat een avontuur, 
+\0ja, ja!"
+"1113","(촀\0Ja, ja!
+\0 Neem de tijd en denk er rustig
+over na. 
+\0Het is nogal een uitgave.
+\0
+($촀\0Ik hoop je binnenkort weer te zien!"
+"1114","(촀\0Zulk enthousiasme zie ik graag!
+\0( (촀\0Maar
+mag ik je eraan herinneren dat je de
+hele bouwsom vooruit moet betalen?\0\0(7촀\0Zo te zien heb je nu niet zoveel
+klingels bij je.\0\0(\0촀\0Dat is ook een groot bedrag om mee
+rond te lopen, maarn\0\0
+\0 (촀\0zodra je het bij
+elkaar hebt, zie ik je graag weer."
+"1115","(촀\0Het spijt me, maarn\0\0
+\0 ('촀\0aanvragen voor
+een grotere opslag kan ik niet
+honoreren als je een hypotheek hebt.\0\0(\0촀\0Leningen kun je afbetalen via het
+\0NookStation\0￿,
+\0 dag en nacht.
+\0 (촀\0Zodra je
+dat hebt geregeld, praten we verder."
+"1116","(%촀\0Ik denk de uitbreiding van je
+opslagruimte morgenochtend wel
+gereed te hebben.
+\0 (""촀\0Spannend, hm?"
+"1191","(촀\0Je wilt over je huis praten, hm?
+\0 (&촀\0Wat
+wil je bespreken?"
+"1191_a","Ik wil meer opslagruimte."
+"1191_b","Ik wil renoveren."
+"1191_c","Ik wil verhuizen."
+"1191_d","Nu nog even niet."
+"1192","(촀\0Je wilt over je huis praten, hm?
+\0 (&촀\0Wat
+wil je bespreken?"
+"1192_a","Ik wil meer opslagruimte."
+"1192_b","Ik wil renoveren."
+"1192_c","Nu nog even niet."
+"1193","(촀\0Oké, ik heb je al lang genoeg laten
+wachtenn\0\0
+\0((&촀\0 Waar kan ik je mee
+helpen?"
+"1193_a","Ik wil meer opslagruimte."
+"1193_b","Ik wil renoveren."
+"1193_c","Ik wil verhuizen."
+"1193_d","Nu nog even niet."
 "201","(촀\0O, n\0!\0\0(촀\0Weet je al of je een huis wilt
 aanschaffen?
 \0 Klaar om kennis te

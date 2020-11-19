@@ -224,6 +224,19 @@ for \0Z\0\0?\0￿"
 "1105_a","Place Order"
 "1105_b","Send as Gift"
 "1105_c","Cancel"
+"1106","Order 2\0\0}\0\0\0￿
+for \0Z\0\0￿?
+\0\0To equip a new phone case, use the
+customization option at a workbench.\0￿"
+"1106_a","Cancel"
+"1106_b","Place Order"
+"1107","Order 2\0\0}\0\0\0￿
+for \0Z\0\0￿?
+\0\0To equip a new phone case, use the
+customization option at a workbench.\0￿"
+"1107_a","Place Order"
+"1107_b","Send as Gift"
+"1107_c","Cancel"
 "1108","Your order has been placed! Your
 order will be delivered shortly to
 your home through the mail."
@@ -1114,6 +1127,14 @@ upon redemption.\0￿"
 vanity \0￿with new eye-color choices!
 \0\0Book will be printed immediately
 upon redemption.\0￿"
+"3026","Learn about a variety of Reactions
+that'll spice up your island life.
+\0\0Book will be printed immediately
+upon redemption.\0￿"
+"3027","Discover even more hairstyles to try
+on at a \0mirror \0￿or \0vanity\0￿!
+\0\0Book will be printed immediately
+upon redemption.\0￿"
 "5001","\0Camera\0￿
 Take pictures using various
 filters and effects.\0\0\0\0The pictures will be saved to the
@@ -1571,6 +1592,9 @@ connect to the internet to complete
 this process."
 "8020_a","No"
 "8020_b","Close"
+"8021","Player data for an in-progress move
+from another island was detected.
+The moving process will now resume."
 "9001","Do you want to begin island backup
 restoration?"
 "9001_a","Cancel"
@@ -1584,3 +1608,52 @@ complete. Gameplay will now resume."
 "9015_a","Close"
 "9016","Saving.
 \0\0Do not touch .\0￿"
+"9101","The user account you are using does
+not have a linked Nintendo Account.\0\0Do you want to link a Nintendo Account
+now so you can carry over save data
+related to features that use the
+internet, like the Best Friends List?"
+"9101_a","No."
+"9101_b","Link account."
+"9102","If you do not link a Nintendo Account
+before proceeding, all features that
+use the internet will be reset.
+Do you want to proceed?"
+"9102_a","No."
+"9102_b","OK to reset."
+"9103","The Nintendo Account linked to this
+user account is different than the
+Nintendo Account used on the
+previous system.\0\0This means all features that use the
+internet, like the Best Friends List,
+will be reset before the moving
+process continues. Proceed?"
+"9103_a","No."
+"9103_b","OK to reset."
+"9104","The save data for features that use
+the internet has been reset."
+"9104_a","OK."
+"9105","Please close the game using the
+HOME Menu. Then link a user
+account to the same Nintendo
+Account you used before moving.
+Finally, relaunch the game."
+"9105_01","Close the game from the HOME Menu.
+Then relaunch the game with a user
+account linked to the same Nintendo
+Account you used before moving."
+"9111","The target Nintendo Switch system
+does not have save data for the
+\0Animal Crossing: New Horizons\0￿ game.\0\0If you continue the moving process,
+\0s\0촀\0￿ will become the
+\0Resident Representative\0￿ on the
+target system's island. Proceed?"
+"9111_a","Cancel."
+"9111_b","Proceed."
+"9112","The save data transfer process will
+take some time. If you're playing in
+handheld mode, please connect the
+system to the Nintendo Switch AC
+adapter before beginning the save
+data transfer process."
+"9112_a","I Understand"

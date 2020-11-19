@@ -245,6 +245,19 @@ bestellen?"
 "1105_a","Bestellen."
 "1105_b","Cadeau doen."
 "1105_c","Annuleren."
+"1106","Wil je voor \0Z\0 \0￿2\0
+\0}\0\0 \0￿bestellen?
+\0\0Je kunt het hoesje veranderen door bij
+de werkbank IETS AANPASSEN te kiezen.\0￿"
+"1106_a","Annuleren."
+"1106_b","Bestellen."
+"1107","Wil je voor \0Z\0 \0￿2\0
+\0}\0\0 \0￿bestellen?
+\0\0Je kunt het hoesje veranderen door bij
+de werkbank IETS AANPASSEN te kiezen.\0￿"
+"1107_a","Bestellen."
+"1107_b","Cadeau doen."
+"1107_c","Annuleren."
 "1108","Je bestelling is geplaatst en wordt
 binnenkort via de post bezorgd!"
 "1108_a","Oké."
@@ -1051,9 +1064,9 @@ zoektermen?"
 "2447","\0\0Nieuwe zoekfuncties\0￿
 Je kunt nu ontwerpen zoeken van je
 favoriete ontwerpers door specifieke
-zoektermen te gebruiken.\0\0\0Zoeken met zoektermen\0￿
-Hiermee kun je op de naam of het type
-van het ontwerp zoeken.\0\0\0Favorieten zoeken\0￿
+zoektermen te gebruiken.\0\0\0Ontwerpnaam/type\0￿
+Hier kun je op de naam of het type van
+het ontwerp zoeken.\0\0\0Favorieten zoeken\0￿
 Hiermee kun je naar ontwerpen
 zoeken van ontwerpers die je hebt
 toegevoegd aan je favorietenlijst.\0\0Je kunt ontwerpers toevoegen aan je
@@ -1171,6 +1184,14 @@ make-uptafel \0￿met leuke bodypaint!
 inwisselen van de bon gedrukt.\0￿"
 "3023","Verander je look bij een \0spiegel \0￿of\0
 make-uptafel \0￿met nieuwe oogkleuren!
+\0\0Het boek wordt meteen na het
+inwisselen van de bon gedrukt.\0￿"
+"3026","Maak kennis met verschillende
+emoties die je eilandleven verrijken.
+\0\0Het boek wordt meteen na het
+inwisselen van de bon gedrukt.\0￿"
+"3027","Verander je look bij een \0spiegel \0￿of\0
+make-uptafel \0￿met deze nieuwe kapsels!
 \0\0Het boek wordt meteen na het
 inwisselen van de bon gedrukt.\0￿"
 "5001","\0Camera\0￿
@@ -1636,6 +1657,10 @@ het internet om de koppeling te
 bevestigen."
 "8020_a","Nee."
 "8020_b","Oké!"
+"8021","Er zijn gegevens gevonden van de
+verhuizing van een speler van een
+ander eiland. Het verhuisproces
+wordt nu hervat."
 "9001","Wil je beginnen met het herstel van
 een eilandback-up?"
 "9001_a","Annuleren"
@@ -1651,3 +1676,55 @@ nu hervat."
 "9015_a","Oké!"
 "9016","Bezig met opslaann\0\0
 \0\0Druk niet op .\0￿"
+"9101","Je huidige profiel is niet aan een
+Nintendo-account gekoppeld.\0\0Wil je een account koppelen zodat je
+opgeslagen gegevens van functies die
+het internet gebruiken, zoals de lijst
+'Beste vrienden', kunt overdragen?"
+"9101_a","Nee."
+"9101_b","Ja."
+"9102","Als je geen Nintendo-account koppelt
+voor je doorgaat, worden functies die
+het internet gebruiken, teruggezet naar
+de begininstellingen. Wil je verdergaan?"
+"9102_a","Nee."
+"9102_b","Ja."
+"9103","De Nintendo-account die aan dit
+profiel is gekoppeld, is niet de
+Nintendo-account die op het vorige
+systeem werd gebruikt.
+Functies die het internet gebruiken, zoals
+de lijst 'Beste vrienden', worden naar de
+begininstellingen teruggezet voordat het
+proces wordt hervat. Wil je verdergaan?"
+"9103_a","Nee."
+"9103_b","Ja."
+"9104","De opgeslagen gegevens van functies
+die het internet gebruiken, zijn naar
+de begininstellingen teruggezet."
+"9104_a","Oké."
+"9105","Sluit de game af via het HOME-menu.
+Koppel vervolgens een profiel aan de
+Nintendo-account die tot de eiland-
+verhuizing werd gebruikt.
+Start ten slotte de game opnieuw op."
+"9105_01","Sluit de game af via het HOME-menu.
+Start de game opnieuw met een profiel
+dat aan de Nintendo-account gekoppeld
+is die je voor de verhuizing gebruikte."
+"9111","Op het Nintendo Switch-doelsysteem
+staan geen opgeslagen gegevens van de
+\0Animal Crossing: New Horizons\0￿-game.\0\0Als je het verhuisproces doorzet,
+wordt \0s\0촀\0￿ de \0eiland-
+vertegenwoordiger \0￿op het eiland van
+het doelsysteem. Wil je verdergaan?"
+"9111_a","Annuleren."
+"9111_b","Verdergaan."
+"9112","Het overdragen van de opgeslagen
+gegevens kan even duren. Als je in
+de handheldstijl speelt (waarbij je het
+scherm van het systeem gebruikt),
+sluit dan het systeem op de voeding
+aan voordat je aan de eilandoverdracht
+begint."
+"9112_a","Ik begrijp het"

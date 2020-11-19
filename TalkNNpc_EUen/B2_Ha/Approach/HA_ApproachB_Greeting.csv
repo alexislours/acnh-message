@@ -47,13 +47,13 @@ uhn\0\0(촀\0you passed, n\0!"
 \0((촀\0Hurry up
 and tell me what ya got!"
 "101","(촀\0OK then, 
-\0let me see if I got this.\0\0(\0촀\0""n\0What's up, musclesn""?
+\0let me see if I got this.\0\0(\0촀\0""2\0n\0What's up, musclesn""?
 \02
 (&촀\0How's that? 
 \0I aced it, right?"
 "101_a","That's good!"
 "101_b","Not quite."
-"102","($촀\0""n\0What's up, musclesn""?
+"102","($촀\0""2\0n\0What's up, musclesn""?
 \0(
 (촀\0Huh?
 \0 But that's what we already say!
@@ -72,18 +72,18 @@ right. No rush!"
 \0Everything alright?\0\0(%촀\0There's no shot clock. 
 \0Just try again
 when you're ready, n\0."
-"200","(""촀\0""n\0What's up, musclesn""!
+"200","(""촀\0""2\0n\0What's up, musclesn""!
 \02
 (촀\0Oh yeah. That's got a nice ring to it."
 "201","
-(!촀\0""n\0What's up, musclesn""!
+(!촀\0""2\0n\0What's up, musclesn""!
 \0(
 (촀\0Yeah! That gets me pumped!"
 "202","(""촀\0That is the king of all super-secret
 buddy greetings!
 \0((촀\0 Be ready to hear
 it a lot, n\0!"
-"203","($촀\0""n\0What's up, musclesn""!
+"203","($촀\0""2\0n\0What's up, musclesn""!
 \0
 (촀\0Hey, alright! I remembered it!
 \0 That
@@ -99,7 +99,7 @@ keeping it too, n\0!"
 "301","(%촀\0Hey, I'm cool with it if you are.
 \0(
 (""촀\0I mean, why mess with perfection?"
-"302","(촀\0""n\0What's up, musclesn""!
+"302","(촀\0""2\0n\0What's up, musclesn""!
 Ha! Yeah!
 \0 Fits us like a weight-
 lifting glove! 

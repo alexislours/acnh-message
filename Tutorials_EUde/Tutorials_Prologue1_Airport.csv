@@ -172,6 +172,19 @@ kostenlosen Video
 \0 über Nooks
 Reif-für-die-Insel-Paket.
 \0d촂d"
+"1003_02","(%촂\0Zuerst ein paar Formalitäten...
+\0
+Nutzt du heute zum ($촂\0($촃\0allerersten Mal
+eines unserer Pakete?"
+"1003_02_01","(촂\0(촃\0Alles klar!
+\0\0Kd\0 ...Sonnenklar!d\0d\0\0(%촂\0Zuerst ein paar Formalitäten...
+
+\0Teilst du uns bitte ($촂\0($촃\0\0Namen\0￿ 
+\0und
+\0Geburtsdatum\0￿ mit? 
+\0(%촃\0d\0\0KDas wäre lieb!\0dd"
+"1003_02_a","Ja!"
+"1003_02_b","Ich ziehe um."
 "101","(%촂\0Das hier ist der Flughafenschalter für
 
 \0(촂\0(촃\0Nooks Reif-für-n\0-Paket!\0\0(\0촂\0(\0촃\0Im Auftrag von Nook Inc.
@@ -198,6 +211,118 @@ auch schon erledigt!\0\0()촂\0Den Rest erklären wir dir dann,
 sind.
 \0( Keine Sorge!(촀\0(촀\0 
 \0d\0\0K...Sorge!\0dd"
+"2001","(촂\0(촃\0Alles klar!\0K
+\0d\0 ...Wie Kloßbrühe!d\0d\0\0(\0촀\0Du möchtest von deiner alten Insel
+in \0Animal Crossing: New Horizons\0￿
+
+\0(촂\0(촃\0auf eine neue ziehen.
+\0d\0\0K ...Spannend!\0dd"
+"2001_01","(촂\0(촃\0Bevor wir fortfahren, 
+\0hätten wir
+noch eine weitere kurze Frage...\0\0($촂\0($촃\0Möchtest du auch \0Nutzerdaten\0￿
+auf eine andere Nintendo Switch-
+Konsole \0übertragen\0￿?\0\0()촂\0()촃\0Falls ja, 
+\0führe diesen Vorgang vorab
+in den Systemeinstellungen unter
+\0Nutzerdaten übertragen\0￿ durch.\0\0(촂\0(촃\0Sobald dies erledigt ist, 
+\0können wir
+deinen Umzug auf eine andere Insel
+in Angriff nehmen.
+\0d\0\0K Im Handumdrehen!\0dd"
+"2002","(촂\0(촃\0Nook Inc. steht dir natürlich gern
+bei deinem Umzug zur Seite!\0\0(&촂\0(&촃\0Hast du auf der Nintendo Switch-
+Konsole mit deiner alten Insel schon
+eine \0\0Transferanfrage\0￿ gestellt?"
+"2002_01","Gut, 
+\0wirf doch bitte mal einen Blick
+auf die Nintendo Switch-Konsole,
+\0 (%촀\0auf
+der du aktuell noch heimisch bist...
+(촀\0Falls dort \0\0Transferanfrage übermittelt
+\0￿steht,
+\0 ()촀\0wähle hier bitte \0Vorgang
+starten.\0￿ 
+\0d\0\0KUnd schon geht's los!\0dd"
+"2002_01_a","\0Vorgang starten.\0￿"
+"2002_01_b","Stopp, Abbruch!"
+"2002_a","Das habe ich!"
+"2002_b","Wie geht das?"
+"2002_c","Ich bin raus."
+"2004","(촂\0(촃\0Ich sehe hier s\0촀
+\0 aus s촀...
+\0( ($촂\0($촃\0Ist das korrekt?"
+"2004_a","Ja, stimmt!"
+"2004_b","Nein, abbrechen..."
+"2005","(촂\0(촃\0Dann können wir ja zum nächsten
+Schritt des Vorgangs übergehen!"
+"2006","(촂\0(촃\0Fertig!
+\0( (촂\0(촃\0Damit ist der Umzugsvorgang
+abgeschlossen!"
+"2007","(촂\0(촃\0Eine \0\0Transferanfrage\0￿ kannst du auf
+der Nintendo Switch-Konsole mit
+deiner aktuellen Insel stellen.\0\0(\0촂\0(\0촃\0Starte dort zuerst \0Animal Crossing:
+New Horizons\0￿.\0\0(%촂\0(%촃\0Drücke auf dem Titelbildschirm \0\0￿,
+um die Einstellungen zu öffnen, 
+\0und
+wähle \0Auf andere Insel umziehen.\0￿\0\0()촂\0()촃\0Folge danach den Anweisungen, 
+\0um
+im Zuge des Umzugsvorgangs eine
+\0\0Transferanfrage\0￿ abzuschicken."
+"2008","(촀\0Oh!
+\0(()촀\0 Eine wichtige Sache noch, 
+\0falls
+du bereits deine \0Nutzerdaten
+übertragen \0￿hast...\0\0()촀\0In diesem Fall ist der entsprechende
+Nutzer nicht mehr auf der
+Ursprungskonsole vorhanden.(\0촀\0\0\0(촂\0(촃\0Somit müsste ein\0 anderer Bewohner
+auf der Ursprungskonsole den
+Vorgang für dich durchführen\0￿."
+"2009","Das dürfte so weit alles gewesen
+sein. 
+\0($촂\0($촃\0Möchtest du den Umzugs-
+vorgang nun starten? 
+\0\0Kd\0Jetzt gleich?d\0d"
+"2009_a","Ja, bitte!"
+"2009_b","Bitte noch mal erklären."
+"2009_c","Nein, jetzt nicht."
+"2021","($촂\0($촃\0Sollen wir den Umzugsvorgang
+abbrechen?"
+"2021_a","Ja, bitte abbrechen."
+"2021_b","Nein, bitte noch mal!"
+"2023","( 촂\0( 촃\0Oh! 
+\0Dann brechen wir den ganzen
+Vorgang ab. 
+\0(촂\0(촃\0Einen schönen Tag
+noch!
+\0\0Kd\0 ...Tschüssi!d\0d"
+"2024","(촂\0(촃\0Das System hat niemanden
+gefunden,
+\0 der umziehen möchten\0\0
+\0(&촂\0(&촃\0
+Soll ich noch einmal suchen?"
+"2024_a","Ja, noch mal suchen!"
+"2024_b","Nein, nicht nötig..."
+"2025","(촂\0(촃\0Hm? 
+\0Der Umzugsvorgang ist
+fehlgeschlagenn"
 "203_02",""
 "203_03",""
 "203_04",""
+"2051","(촂\0(촃\02\0n\0,
+\0 wir haben dich schon erwartet!
+\0\0Kd\0 ...Händeringend!d\0d\0\0($촂\0($촃\0Du warst doch gerade mitten im
+Umzug von einer anderen Insel,
+
+\0oder?"
+"2052","(촂\0(촃\0Dann lass uns den Vorgang jetzt
+fortsetzen!\0K
+\0d\0 ...Weiter, 
+\0weiter!d\0d"
+"2053","(%촂\0(%촃\0Die Formalitäten sind bereits
+erledigt,
+\0 (촂\0also müssen wir bloß
+noch an Bord gehen!\0\0()촂\0(%촃\0Alle deine Fragen zum Inselleben
+beantworten wir dann, 
+\0sobald wir
+gelandet sind!(촀\0(촀\0\0K
+\0d\0 ...Versprochen!d\0d"

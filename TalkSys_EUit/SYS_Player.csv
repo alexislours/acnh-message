@@ -264,6 +264,9 @@ inizion\0\0
 \0 Posso fare tutto ciò che
 voglio!
 \0 YAHUUU!"
+"200_01","Il mio trasferimento è ultimato.
+\0
+Nuova isola, nuova vita!"
 "204_02","Sì!
 \0 Ho finito di pagare il prestito
 per la casa!"
@@ -309,6 +312,14 @@ davanti a uno \0specchio\0￿ o una \0toletta\0￿."
 "210_10","Ho scoperto nuove opzioni
 per il \0colore degli occhi\0￿!\0\0Posso cambiare look davanti
 a uno \0specchio\0￿ o una \0toletta\0￿."
+"210_13","Ho imparato dei nuovi \0tagli di capelli\0￿!
+
+\0Posso cambiare look davanti a uno
+\0specchio\0￿ o una \0toletta\0￿."
+"210_14","Ho imparato delle nuove \0emozioni\0￿!
+\0
+Basta premere \0 \0￿per vederle tutte
+ed esprimermi in piena libertà."
 "211_01","Ora posso creare \0fiumi e laghi
 \0￿con la mia app \0Modifica isola\0￿!"
 "211_02","Ora posso creare \0rilievi
@@ -418,8 +429,26 @@ festeggiare il compleanno con
 dei buoni amici e un'ottima torta!"
 "701","Le provviste per i partecipanti al
 Pacchetto isola deserta sono dentro."
+"702","Ci sono ancora Z\0 regali nel sacco."
+"703_01","Vediamo, 
+\0ho ancora regali pern\0\0\0\0s촀,
+\0 s촁 e
+\0 s촂."
+"703_02","Vediamon\0\0
+\0 Ho ancora regali per
+s촀 e 
+\0s촁."
+"703_03","Vediamo, 
+\0mi resta solo un regalo da
+dare: 
+\0quello di s촀."
+"704","Il sacco è vuoto!"
 "901","Che faccio, pianto qui
 la mia tenda?"
+"901_01","Cosa faccio, metto qui la mia casa?"
+"901_01_a","Vediamo..."
+"901_01_b","Sì, è il posto giusto!"
+"901_01_c","Meglio ripensarci."
 "901_a","Vediamo..."
 "901_b","Sì, è il posto giusto!"
 "901_c","Meglio ripensarci."
@@ -628,5 +657,9 @@ nuova per la \0sartoria\0￿!"
 "960_05","Ho scelto una posizione nuova per
 l'\0area per campeggio\0￿! Spero che
 verranno ancora più visitatori!"
+"961","Ho trovato un posto per la mia casa!
+\0
+Adesso la mia vita sull'isola può
+cominciare!"
 "990","Sto cercando un tesoro al momento,
 quindi userò il kit un'altra volta."

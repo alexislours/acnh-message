@@ -156,10 +156,13 @@ organized? Nobody! \0KAnymore.\0d"
 else! 
 \02(7촀\0Or I will, as soon as I figure out
 how, n\0n"
-"999","(2촀\0I worked really hard making
-this room just perfect!
-\0( Go ahead,
-look around! 2\0n\0!"
+"033","촊촉(%촀\0Checking out my cheese-free
+}\0\0, huh?\0\0촆촃(5촀\0Yep!
+\0 I scrubbed out all the cheese.
+\0
+(2촀\0That'sn\0\0been why it smells like burnt
+cheese all over n\0."
+"999","<"
 "999_01","(2촀\0I, ya know, tried 
 \0real
 \0 hard
@@ -169,3 +172,7 @@ this the
 \0 place to chill.
 \0
 Go ahead, have a look around."
+"999_02","(촀\0Isn't my place super sweet? 
+\0((촀\0I like
+showing it off for folks 'cause of all
+the neat stuff I got, n\0!"

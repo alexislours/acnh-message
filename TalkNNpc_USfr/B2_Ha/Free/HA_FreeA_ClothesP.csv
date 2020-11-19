@@ -182,7 +182,12 @@ attends, c'est pas ça.
 \0 (촀\0MIGNONNE!
 \0 Voilà,
 ta tenue est très mignonne. 
-\0Pfiou..."
+\0Pfioun"
+"016_03","(6촀\0Je vais te dire ce que je préfère dans
+2\0}촀 que tu portes.\0\0(%촀\0C'est que tu as l'air si sûr2\0e de toi!
+\0( (5촀\0Et
+la confiance en soi, ça fait rayonner
+les muscles, n\0!"
 "017","<"
 "017_01","(촀\0Bien joué, n\0!
 \0 Qui a dit qu'il n'y avait rien de plus beau que des muscles bien dessinés?\0\0(5촀\0Moi!
@@ -194,6 +199,12 @@ les vêtements qui te vont bien.\0\0()촀\0Moi, quand je magasine, c'est
 au pas de course. (촀\0
 \0Hors de question
 de m'arrêter pour essayer!"
+"017_03","(촀\0Tu as opté pour le look cool avec des
+influences fitness, si j'en crois ce2촀\0tte\0
+petit2촀\0e\0 }촀.\0\0(촀\0Quelle allure!
+\0 Je te vois facilement
+enchaîner ZĀ pompes comme ça
+sans suer une goutte!"
 "018","<"
 "018_01","(촀\02\02\0}촀.
 \0 On fait dans la simplicité
@@ -209,6 +220,12 @@ fasse de l'ombre à ton physique!\0\0(촀\0Je comprends! 
 je n'ai pas, cela dit. 
 \0(5촀\0Elle est pas née,
 la tenue qui me fera de l'ombre!"
+"018_03","(7촀\0Ne dis rien. 
+\0Tu as travaillé tes
+grands dorsaux, je me trompe?\0\0Alors, tu portes 2\0}촀 pour que tout le monde les admire.\0\0(%촀\0Dans ce cas, je serai le premier d'une
+longue série à te dire qu'ils sont
+superbes!
+\0( (촀\0Bel effort, n\0!"
 "019","<"
 "019_01","(촀\02\02\0}촀?
 \0 C'est ce que j'appelle faire travailler
@@ -221,6 +238,11 @@ et je ne parle pas de sueur,
 éblouissant2\0e aujourd'hui,
 n\0.\0\0(촀\0Avec ça, tu vas dominer tous les
 classements de style de cette île!"
+"019_03","Dis donc! Comment tu fais pour
+mettre tous ces muscles en valeur
+en même temps?
+\0
+(촀\0Je parie que 2\0}촀 que tu portes n'y est pas étrang2촀erère\0!"
 "020","<"
 "020_01","( 촀\0Wouhou! 
 \0Je rêve ou tu portes 2\0}촀?
@@ -234,6 +256,13 @@ sport? 
 \02\02\0촀? 2\02\0촁, peut-être?\0\0(%촀\0Je demande parce que tu portes
 2\0}촀.\0\0Tu m'as tout l'air d'être paré2\0e pour
 l'échauffement, n\0!"
+"020_03","Cool ta tenue.
+\0 (&촀\0Comment tu arrives
+à faire rentrer tous tes muscles dans
+2\0}촀?\0\0(촀\0Sérieusement, j'ai besoin de savoir.
+
+\0Mes muscles mettent toutes mes
+tenues en lambeaux, n\0n"
 "021","<"
 "021_01","(촀\0Tu t'es mis2\0e sur ton 36, dis-moi!
 \0 2\02\0}촀,
@@ -249,6 +278,10 @@ habillé2\0e!
 chose d'aussi chic.
 \0(촀\0 Je dois être prêt
 à courir un marathon à tout moment."
+"021_03","(\0촀\02\02\0}촀n\0\0 Élégant2촀\0e\0 et stylé2촀\0e\0. J'aime beaucoup cette tenue, n\0.\0\0(%촀\0Et si c'était ce qui me manque pour
+pimenter mes entraînements?
+\0( (7촀\0Par
+contre, gare aux taches de sueur!"
 "101","<"
 "101_01","(촀\0C'est vraiment le style de vêtements
 qui te plaît,
@@ -370,6 +403,11 @@ UN SORT?\0d
 	\0\0\0(촀\0Désolé, 
 \0ça sort tout seul quand je
 vois quelqu'un habillé comme ça."
+"218","(\0촀\0Tu portes le maillot de l'équipe du
+père Noël!
+\0 Malade!
+\0 (촀\0À mon avis,
+tu es titulaire, pas remplaçant2\0e."
 "251","( 촀\0Attendsn\0\0 (&촀\0mes muscles oculaires me
 jouent des tours oun\0\0 tu es moi?\0\0()촀\0Enfin, n\0, on commence à
 drôlement se ressembler, non?\0\0(6촀\0Pas étonnant, les gros biceps se

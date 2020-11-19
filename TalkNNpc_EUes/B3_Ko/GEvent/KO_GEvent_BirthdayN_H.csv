@@ -116,6 +116,22 @@ en lo que llevo puesto,
 \0(촀\0 Siempre
 conviene tener unidades
 de reserva."
+"019_01","( 촀\0Anda,
+\0 es igualit2촀oa\0 que 2\0}\0\0 que llevo puest2촀oa\0 ahora mismo,
+\0 ¿no?\0\0(촀\0No soy muy de acumular cosas en
+plan consumista,
+\0 ¡pero de esto está
+bien tener repuesto!
+\0 (%촀\0¡Gracias!"
+"019_02","( 촀\0Ah,
+\0 es idéntic2촀oa\0 2촀ala la\0 que llevo puest2촀oa\0.
+\0
+2\02\0}\0\0,
+\0 ¿no, jovencit2oa?\0\0(촀\0¡Gracias!
+\0 Así podré reponerl2촀oa\0 un año
+de estos,
+\0 (촀\0cuando esté tan gastad2촀oa\0
+del uso que no tenga más remedio."
 "020","¿2\02\0}\0\0?
 \0 (&촀\0Anda,
 \0 ¿no es lo que llevas puesto tú?(\0촀\0\0\0( 촀\0Ah,
@@ -125,6 +141,26 @@ amigo,
 \0
 cuenta conmigo.
 \0 (촀\0¡Ja, ja, ja!"
+"020_01","( 촀\0¡Qué cosa tan curiosa,
+\0 leñe!
+\0
+¡2\02\0}\0\0!\0\0(&촀\0¿Y no es exactamente igual que
+2촀ella\0 que tú llevas?
+\0 (촀\0¿Acaso quieres
+formar algún tipo de dúo conmigo?
+(2촀\0No creas que me estoy burlando de
+la idean\0\0
+\0 ('촀\0pero tampoco pienses que
+acepto de primeras, n\0."
+"020_02","( 촀\0¡2\02\0}\0\0!
+\0 ¡Esto sí que no me lo esperaba!\0\0(&촀\0¿Y no es acaso igual que 2촀ella\0 que
+llevas tú?
+\0 (촀\0¿Quieres que me apunte
+a alguna moda que has inventado?
+(2촀\0Por un lado me siento halagadon\0\0
+\0
+('촀\0pero no sé si las modas encajan con
+mi carácter viejuno, n\0."
 "021","(촀\0¡Hala,
 \0 tú!
 \0 No me esperaba
@@ -332,8 +368,7 @@ que bienvenid2oa en esta fiesta,
 lo sabíasn\0\0
 \0 ¡sorpresa!\0\0(4촀\0¿Y sabes otra cosa?
 \0 Hoy es mi
-cumpleaños.
-\0\0\0(촀\0Qué curioso que en este día te
+cumpleaños.\0\0(촀\0Qué curioso que en este día te
 dé yo a ti las sorpresas,
 \0 ¿verdad,
 n\0?

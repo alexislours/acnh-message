@@ -71,12 +71,12 @@ your idea!"
 "101","(%촀\0Oh, nice! 
 \0I like where your head's at.
 \0(
-(""촀\0""n\0Hey there, rock starn.""
+(""촀\0""2\0n\0Hey there, rock starn.""
 \0(
 That work for you?"
 "101_a","I think it's perfect!"
 "101_b","On second thought..."
-"102","""n\0Hey there, rock starn""?
+"102","""2\0n\0Hey there, rock starn""?
 \0
 (촀\0Uh,
 \0 isn't that what we say already?
@@ -91,11 +91,11 @@ now?
 \0( (7촀\0Sorry, 
 \0could you run that by
 me again, n\0?"
-"200","(!촀\0""n\0Hey there, rock starn.""
+"200","(!촀\0""2\0n\0Hey there, rock starn.""
 \0((\0촀\0
 (촀\0Not bad! 
 \0I'm into it!"
-"201","(6촀\0""n\0Hey there, rock starn.""
+"201","(6촀\0""2\0n\0Hey there, rock starn.""
 \0(
 (촀\0That's it! 
 \0That's perfect for us!"
@@ -123,4 +123,4 @@ what we've got, why mess
 with success?"
 "302","Good point. 
 \0(%촀\0I'm way too used to
-""n\0Hey there, rock starn!""\0\0(촀\0Let's stick with it, n\0!"
+""n\0hey there, rock starn!""\0\0(촀\0Let's stick with it, n\0!"

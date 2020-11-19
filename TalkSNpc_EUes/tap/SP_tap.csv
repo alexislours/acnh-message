@@ -160,15 +160,37 @@ corresponde a una isla llamada
 "1005_a","¡Correcto!"
 "1005_b","Creo que no..."
 "1006","(촀\0¡Estupendo!
-\0 Entonces ya está todo
-preparado.
-\0 (1촀\0Ahora cierra los ojos yn\0\0
+\0 Ya está todo preparado.
 \0
-relájaten\0\0(촀"
+(1촀\0Ahora cierra los ojos yn\0\0
+\0 relájaten\0\0(촀"
 "1006_01","Déjate llevarn\0\0
 \0 hasta este sueño
 situado en s촀n\0\0
 K"
+"1010","(촀\0¡Claro,
+\0 con mucho gusto!
+\0 Pero, antes
+de llevarte a soñar,
+\0 debo explicarte
+bien un par de detalles.
+()촀\0Como casi todo hoy en día,
+\0 los
+sueños se descargan de \0internet\0￿,
+\0
+así que necesitarás una conexión.
+(\0촀\0También te hará falta el \0número
+de sueño\0￿, que es un código que
+lo identifica de forma inequívoca.
+(%촀\0Sin embargo,
+\0 si lo que quieres es
+que te sorprenda,
+\0 yo misma puedo
+elegir un sueño para ti.
+(\0촀\0En ese caso, solo tienes que decirme
+\0
+($촀\0«\0Sorpréndeme\0￿», ¿de acuerdo,
+querid2oa?"
 "1031","(촀\0Siento decírtelo,
 \0 pero no parece que
 el \0número de sueño\0￿ sea válido."
@@ -241,6 +263,84 @@ sueño que puedas volver a visitar.\0\0(촀\0Si deseas soñar,
 \0 tendrás que
 proporcionarme un \0número
 de sueño\0￿, querid2oa."
+"1060","(촀\0Por cierto, 
+\0si prefieres que sea
+yo quien elija el sueño,
+\0 estaré 
+encantada de sorprenderte.
+()촀\0No se requiere un número de sueño;
+\0
+simplemente elegiré de internet
+uno al azar.
+(\0촀\0Si te apetece aventurarte en
+lo desconocido,
+\0 ($촀\0simplemente
+dime «\0Sorpréndeme\0￿»."
+"1061","(&촀\0¿Qué clase de sueño quieres que
+prepare?"
+"1061_a","Usar número de sueño"
+"1061_b","Volver a un sueño"
+"1061_c","Sorpréndeme"
+"1061_d","Déjalo"
+"1062","(%촀\0Será un placer.
+\0 Hay un montón de
+sueños maravillosos listos para
+visitar.
+\0 ¿Empezamos?"
+"1062_a","Sí, adelante"
+"1062_b","Mejor no"
+"1063","( 촀\0No he podido encontrar ningún
+sueño,
+\0 eso sí que es una sorpresa.
+\0
+(&촀\0¿Quieres que vuelva a intentarlo?"
+"1063_a","Sí, por favor"
+"1063_b","Es igual"
+"1065","(&촀\0¿Qué clase de sueño quieres que
+prepare?"
+"1065_a","Usar número de sueño"
+"1065_b","Sorpréndeme"
+"1065_c","Déjalo"
+"1066","(촀\0¿Puedo hacerte una petición?\0\0()촀\0Me gustaría que me dieras permiso
+para compartir el sueño de tu isla
+si alguien me pide que le sorprenda.
+(\0촀\0Si me das tu consentimiento,
+\0
+subiré el sueño a internet.
+\0
+(&촀\0¿Te parece bien?"
+"1066_a","Claro, adelante"
+"1066_b","No te doy permiso"
+"1067","(촀\0¡Excelente!
+\0 Seguro que a mucha
+gente le encantará visitar tu sueño.
+\0
+Gracias por tu confianza, querid2oa.
+(1촀\0Permíteme que actualice el sueño
+de n	\0n"
+"1068","(%촀\0Listo.
+\0 He actualizado tu sueño.
+\0
+(촀\0Los soñadores se llevarán una grata
+sorpresa cuando los lleve de visita."
+"1069","(\0촀\0Recuerda que el número
+de sueño de n	\0
+es 촀.
+()촀\0Si no quieres que lleve a gente para
+sorprenderles a tu sueño,
+\0 podemos
+remediarlo rápidamente.
+Solo dime($촀\0 «\0Lo de sorprender...\0￿»
+y cambiaremos los ajustes."
+"1070","(9촀\0Lo entiendo perfectamente. 
+\0En ese
+caso, no compartiré tu sueño si
+alguien me pide que le sorprenda."
+"1071","()촀\0Si luego te gustaría compartir tu
+sueño con gente que quiere
+sorprenderse, puedes hacerlo.
+Solo dime($촀\0 «\0Lo de sorprender...\0￿»
+y cambiaremos los ajustes."
 "2001","(\0촀\0¡Faltaría más!
 \0 (9촀\0Pero antesn\0\0
 \0
@@ -383,6 +483,41 @@ el control parental para poder soñar.
 \0 avísame,
 \0
 querid2oa."
+"2100","(촀\0Ya que has sido tan generos2oa al
+compartir tu número de sueño,
+\0
+me gustaría pedirte algo más.
+()촀\0Hay gente que a veces me pide
+que le sorprenda eligiendo yo
+misma el sueño que va a visitar.
+(9촀\0Sin embargo, yo jamás compartiría
+un sueño sin el permiso de su
+soñador. 
+\0Por eson\0\0
+(&촀\0¿Te parecería bien que sorprendiera
+a la gente con un sueño de n	\0?"
+"2100_a","¡Claro, adelante!"
+"2100_b","Preferiría que no"
+"2101","(촀\0¡Fantástico!
+\0 Mucha gente estará
+encantada de visitar tu sueño.
+\0
+(1촀\0Si me permites un segundon"
+"2102","(촀\0¡Listo!
+\0 Tengo muchas ganas de
+llevar a otros soñadores a tu
+precioso sueño.
+()촀\0Si no quieres que siga compartiendo
+tu sueño,
+\0 dime «\0Lo de sorprender...\0￿»
+y cambiaremos los ajustes."
+"2103","(촀\0Lo siento de veras,
+\0 pero no he
+podido recuperar y actualizar
+el sueño de n	\0.\0\0(\0촀\0Deberías volver a intentarlo en
+otro momento.
+\0(%촀\0 Mis más sinceras
+disculpas, querid2oa."
 "3001","(\0촀\0Hay un sueño de n	\0 ya guardado con el \0número de sueño \0￿촀.
 \0 (&촀\0¿Qué hacemos?"
 "3001_01","(&촀\0¿Querías algo más además de
@@ -396,11 +531,21 @@ compartir el sueño,
 "3001_b","Sobre la privacidad..."
 "3001_c","Lo borramos"
 "3001_d","Dejémoslo entonces..."
+"3002","(\0촀\0Hay un sueño de n	\0 ya guardado con el \0número de sueño \0￿촀.
+\0 (&촀\0¿Qué hacemos?"
+"3002_02","(&촀\0¿Querías algo más además de
+compartir el sueño,
+\0 querid2oa?"
 "3002_02_a","Lo actualizamos"
 "3002_02_b","Sobre la privacidad..."
-"3002_02_c","Sobre la privacidad..."
+"3002_02_c","Lo de sorprender..."
 "3002_02_d","Lo borramos"
 "3002_02_e","Dejémoslo entonces..."
+"3002_a","Lo actualizamos"
+"3002_b","Sobre la privacidad..."
+"3002_c","Lo de sorprender..."
+"3002_d","Lo borramos"
+"3002_e","Dejémoslo entonces..."
 "3101","(9촀\0La precaución es lo primero,
 \0
 querid2oa n\0,
@@ -529,6 +674,47 @@ tu \0pasaporte \0￿ni en el \0mapa\0￿ de tu isla."
 público desde ahora.
 \0 Se mostrará en 
 tu \0pasaporte \0￿y en el \0mapa\0￿ de la isla."
+"3500","(촀\0Ahora mismo tengo tu permiso
+para compartir el sueño de
+n	\0.
+(\0촀\0Si alguien me deja elegir un sueño
+para sorprenderle,
+\0 es posible que
+escoja el tuyo.
+\0 (&촀\0¿Te parece bien?"
+"3500_a","(\0촀\0No quiero compartirlo"
+"3500_b","(\0촀\0Sí, sin problema"
+"3501","(9촀\0Ahora mismo no estoy compartiendo
+tu sueño de n	\0.\0\0(&촀\0¿Quieres compartirlo para que la
+gente que quiere sorprenderse
+pueda visitarlo?"
+"3501_a","(\0촀\0Sí, que se sorprendan"
+"3501_b","(\0촀\0No compartas el mío"
+"3502","(%촀\0Como desees,
+\0 querid2oa.
+\0 
+\0Entonces
+voy a seguir compartiendo tu sueño."
+"3503","(9촀\0De acuerdo.
+\0 Ya no compartiré
+tu sueño con la gente que
+quiera sorprenderse."
+"3504","(촀\0¡Volando!
+\0 Desde ahora, cuando
+alguien quiera sorprenderse,
+quizá les enseñe n	\0."
+"3505","(9촀\0Entendido,
+\0 lo dejaré todo como está
+y seguiré sin compartir tu sueño con
+la gente que quiera sorprenderse."
+"3506","(9촀\0Ahora mismo no estoy compartiendo
+tu sueño de n	\0.\0\0(&촀\0¿Quieres compartirlo para que quien
+quiera sorprenderse pueda visitarlo?
+\0
+De ser así,
+\0 lo actualizarían"
+"3506_a","Claro, adelante"
+"3506_b","No lo compartas"
 "4000","(촀\0Te encuentras en el lugar donde
 moran los sueños,
 \0 (%촀\0y yo soy tu guía.\0\0(1촀\0Puedo ayudarte a tener un sueño o
@@ -613,3 +799,20 @@ añadir o quitar algún diseño.\0\0(촀\0A alguien podría gustarle cualqu
 de ellos y llevárselo como recuerdo
 de n	\0."
 "4003_03","(촀\0¡Con eso ya sabes todo lo necesario!"
+"4010","(\0촀\0Ah, debería mencionar que para
+este proceso es necesaria una
+\0conexión a internet\0￿.
+()촀\0Además,
+\0 si quieres visitar un sueño
+concreto,
+\0 deberás proporcionarme
+un \0número de sueño\0￿.
+(\0촀\0O, 
+\0si prefieres que te sorprenda,
+\0
+puedo elegir yo misma el sueño
+que vas a visitar.
+($촀\0Basta con decirme «\0Sorpréndeme\0￿»
+y yo me ocuparé del resto.
+\0
+(촀\0¡Eso es todo!"

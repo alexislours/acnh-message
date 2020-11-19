@@ -252,6 +252,19 @@ pour \0Z\0\0￿?"
 "1105_a","Commander"
 "1105_b","Offrir"
 "1105_c","Annuler"
+"1106","2\02\0\0}\0\0 \0￿coûte
+\0Z\0\0￿. Commander?
+\0\0Pour changer la coque du NookPhone,
+personnalise-le sur un établi.\0￿"
+"1106_a","Annuler"
+"1106_b","Commander"
+"1107","2\02\0\0}\0\0 \0￿coûte
+\0Z\0\0￿. Commander?
+\0\0Pour changer la coque du NookPhone,
+personnalise-le sur un établi.\0￿"
+"1107_a","Commander"
+"1107_b","Offrir"
+"1107_c","Annuler"
 "1108","Ta commande a été passée!
 L'article sera livré chez toi
 très bientôt par voie postale."
@@ -1172,6 +1185,14 @@ utilisant un \0miroir\0￿ ou une \0coiffeuse\0￿.
 nouveaux choix de colorations des yeux
 en utilisant un \0miroir\0￿ ou une \0coiffeuse\0￿.
 \0\0Instructions imprimées sur place.\0￿"
+"3026","Recueil d'instructions sur les
+mimiques qui viendront pimenter
+ta vie insulaire!
+\0\0Instructions imprimées sur place.\0￿"
+"3027","Découvre de nouvelles coiffures
+à essayer devant un \0miroir\0￿ ou
+une \0coiffeuse\0￿!
+\0\0Instructions imprimées sur place.\0￿"
 "5001","\0Appareil photo\0￿
 Prends des photos et applique
 divers filtres et effets sur tes clichés.\0\0\0\0Les photos sont sauvegardées dans
@@ -1676,6 +1697,10 @@ de te connecter à Internet pour
 effectuer cette vérification."
 "8020_a","Non"
 "8020_b","OK"
+"8021","Des données indiquent qu'un transfert
+d'utilisateur est en cours à partir d'une
+autre île. Le processus de transfert va
+maintenant se poursuivre."
 "9001","Veux-tu commencer la restauration
 des données de sauvegarde à partir
 de l'archive?"
@@ -1691,3 +1716,54 @@ va reprendre."
 "9015_a","OK"
 "9016","Sauvegarde...
 \0\0Ne touche pas au bouton POWER .\0￿"
+"9101","Le compte utilisateur que tu
+utilises n'est pas associé à
+un compte Nintendo.\0\0Veux-tu associer un compte Nintendo
+afin de pouvoir transférer les données
+des fonctionnalités utilisant Internet,
+comme la liste des meilleurs amis?"
+"9101_a","Non."
+"9101_b","Associons."
+"9102","Si tu n'associes pas de compte Nintendo
+avant de poursuivre le transfert, toutes
+les fonctions utilisant Internet vont être
+réinitialisées. Continuer le transfert?"
+"9102_a","Non."
+"9102_b","Réinitialisons."
+"9103","Le compte Nintendo associé à ce
+compte utilisateur n'est pas le compte
+Nintendo associé à la console
+précédente.\0\0Cela signifie que les fonctionnalités
+utilisant Internet, comme la liste des
+meilleurs amis, seront réinitialisées avant
+la reprise du transfert. Continuer?"
+"9103_a","Non."
+"9103_b","Réinitialisons."
+"9104","Les données de sauvegarde des
+fonctionnalités utilisant Internet ont
+été réinitialisées."
+"9104_a","OK."
+"9105","Quitte le jeu à partir du menu HOME,
+puis associe un compte utilisateur
+au même compte Nintendo utilisé
+avant le transfert, et relance le jeu."
+"9105_01","Quitte le jeu à partir du menu HOME,
+puis relance le jeu avec un compte
+utilisateur associé au même compte
+Nintendo utilisé avant le transfert."
+"9111","La console Nintendo Switch cible n'a
+pas de données de sauvegarde pour
+\0Animal Crossing: New Horizons\0￿.\0\0Si tu choisis de poursuivre le processus
+de transfert, \0s\0촀\0￿
+deviendra \02(촀déléguédéléguée\0 insulaire\0￿ sur l'île
+de la console cible. Poursuivre?"
+"9111_a","Annuler."
+"9111_b","Poursuivre."
+"9112","Le processus de transfert des données
+de sauvegarde peut prendre un certain
+temps. Si tu joues en mode portable
+(c'est-à-dire en utilisant l'écran de la
+Nintendo Switch), branche la console
+à un adaptateur secteur avant de lancer
+le processus de transfert."
+"9112_a","OK"

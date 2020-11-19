@@ -11,9 +11,9 @@ it'll be a good day,
 \0 n\0!
 Ā"
 "004","(촀\0Good evening to you!
-\0 Isn't it a nice
-night out,
-\0 n\0?
+\0 Don't you
+love an evening walk, 
+\0n\0?
 Ā"
 "011","(촀\0How's your day going,
 \0 n\0?
@@ -42,7 +42,7 @@ things,
 you,
 \0 n\0.
 Ā"
-"032","(촀\02\0n\0n\0n!(촀\0
+"032","(촀\02\0n\02\0n\0n!(촀\0
 \0
 How are you,
 \0 n\0?

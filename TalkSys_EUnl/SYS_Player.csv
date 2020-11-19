@@ -260,6 +260,10 @@ staatn\0\0 ""Motorrijders Zijn Het Leukst""."
 Je kunt nu doen wat je zelf wilt!
 \0
 WOE-HOEEEE!"
+"200_01","Je verhuizing is voltooidn\0\0
+\0
+Veel plezier met je nieuwe
+eilandleven!"
 "204_02","Hoera!
 \0 Je hebt je lening afbetaald!"
 "204_03","Te gek!
@@ -303,6 +307,13 @@ Verander je look met een
 ogen\0￿!
 \0 Verander je look met een
 \0make-uptafel\0￿ of een \0spiegel\0￿."
+"210_13","Je hebt wat nieuwe \0kapsels \0￿geleerd!
+Verander je look met een \0make-up-
+tafel\0￿ of een \0spiegel\0￿."
+"210_14","Je hebt nieuwe \0emoties\0￿ geleerd!
+\0
+Druk op \0 \0￿om ze allemaal te zien
+en kies hoe je je wilt uitdrukken."
 "211_01","Je hebt nu toegang tot
 \0rivierconstructie \0￿via de
 \0Eilandontwerper\0￿-app."
@@ -408,7 +419,23 @@ en goede vrienden."
 "701","Hier zitten vast materialen in van
 gebruikers van het Eilandleven-
 pakket."
+"702","Er zijn nog Z\0 cadeautjes in de zak."
+"703_01","Je hebt nog cadeautjes voorn\0\0\0\0s촀,
+\0 s촁 en
+\0 s촂."
+"703_02","Je hebt nog cadeautjes voorn\0\0
+\0
+s촀 en
+\0 s촁."
+"703_03","Je hebt nog een cadeautje voorn\0\0
+\0
+s촀."
+"704","De zak is helemaal leeg!"
 "901","Wil je je tent hier neerzetten?"
+"901_01","Wil je je huis hier neerzetten?"
+"901_01_a","Ik stel het me voor..."
+"901_01_b","Ja, dit is de plek!"
+"901_01_c","Nog eens nadenken..."
 "901_a","Ik stel het me voor..."
 "901_b","Ja, dit is de plek!"
 "901_c","Nog eens nadenken..."
@@ -614,6 +641,10 @@ een frisse start op een nieuwe plek!"
 "960_05","Je hebt een nieuwe plek voor de
 \0kampeerplek\0￿ uitgekozen! Hopelijk
 krijgen we nu nóg meer bezoek!"
+"961","Je hebt een plek gekozen voor
+je huis!
+\0 Nu kan je nieuwe eiland-
+avontuur pas echt beginnen!"
 "990","Je bent bezig met een schattenjacht,
 dus je kunt hier beter later een
 goede plek voor zoeken."

@@ -154,6 +154,18 @@ volo diretto 2\0 n\0.\0\0Mettetevi comodi, rilassatevi e
 assistete alla presentazione del
 Pacchetto isola deserta di Nook Inc.
 \0d촂d"
+"1003_02","(%촂\0Per prima cosa dobbiamo controllare
+la tua prenotazione.
+\0 ($촂\0($촃\0È la prima volta
+che scegli uno dei nostri pacchetti?"
+"1003_02_01","(촂\0(촃\0Capito!
+\0\0Kd\0 Capito!d\0d\0\0(%촂\0Ora controlliamo la tua prenotazione.
+\0
+($촂\0($촃\0Potresti dirci il tuo \0nome\0￿ e il tuo
+\0compleanno\0￿?
+\0\0Kd\0 Compleanno?d\0d"
+"1003_02_a","La primissima volta!"
+"1003_02_b","No, mi sto trasferendo."
 "101","Ti diamo il benvenuton\0\0
 \0 al banco
 del check-in.
@@ -181,6 +193,122 @@ tutto ciò che c'era da fare qui!\0\0()촂\0Non ti preoccupare! 
 ti spiegheremo in dettaglio (%촃\0come si
 svolge la vita sull'isola!(촀\0(촀\0d\0 
 \0\0KSull'isola!\0dd"
+"2001","(촂\0(촃\0Capito!\0K
+\0d\0 Capito!d\0d\0\0(\0촀\0Quindi vuoi trasferirti dalla tua isola
+di \0Animal Crossing: New Horizons\0￿
+precedente.
+\0(촂\0 Che bellezza!
+\0d\0\0K È bellissimo!\0dd"
+"2001_01","Prima di continuare,
+\0($촂\0($촃\0 stai per caso
+pensando di \0trasferire utenti \0￿da una
+console Nintendo Switch a un'altra?\0\0()촂\0()촃\0Se è così, 
+\0devi prima completare
+quella procedura.\0\0Per farlo, accedi alle impostazioni
+di sistema della console e seleziona
+\0Trasferisci il tuo utente\0￿.\0\0(촂\0(촃\0Al termine della procedura, saremo felici di aiutarti con il trasferimento!
+\0
+d\0\0KFelicissimi!\0dd"
+"2002","(촂\0(촃\0Saremo lieti di aiutarti.\0\0(&촂\0(&촃\0Hai già inviato la \0\0richiesta di
+trasferimento\0￿ dalla console Nintendo
+Switch della tua isola attuale?"
+"2002_01","Molto bene. Prendi la console
+Nintendo Switch
+\0 (%촀\0dove c'è la tua
+isola attuale.
+\0\0Kd\0 L'isola attuale!d\0d
+(촀\0Se vedi il messaggio ""\0\0Richiesta di
+trasferimento inviata.\0￿"",
+\0 ()촀\0seleziona
+""\0Avvia la procedura.\0￿"" qui."
+"2002_01_a","\0Avvia la procedura.\0￿"
+"2002_01_b","Ho cambiato idea."
+"2002_a","Già fatto!"
+"2002_b","Come si fa?"
+"2002_c","Ho cambiato idea."
+"2004","(촂\0(촃\0Ho trovato s\0촀
+\0 da
+s촀!
+\0( ($촂\0($촃\0È giusto?"
+"2004_a","Giustissimo!"
+"2004_b","Ho cambiato idea."
+"2005","(촂\0(촃\0Molto bene, 
+\0allora possiamo passare
+alla prossima fase della procedura!"
+"2006","(촂\0(촃\0Ed ecco fatto!
+\0 Trasferimento
+completato!"
+"2007","()촂\0()촃\0La \0\0richiesta di trasferimento
+\0￿deve essere inviata dalla console
+Nintendo Switch dell'isola d'origine.(촂\0(촃\0
+Prima di tutto, 
+\0Avvia
+\0Animal Crossing: New Horizons\0￿.(촂\0(촃\0\0\0In seguito, 
+\0dallo schermo del titolo
+premi il \0pulsante \0￿ per accedere
+alle impostazioni.(촂\0(촃\0
+Quando arriva il momento,
+
+\0seleziona ""\0Trasferirsi su un'altra
+isola.\0￿"" e segui le istruzioni mostrate.(촂\0(촃\0
+Verrà avviata la procedura con
+cui potrai inviare una \0\0richiesta
+di trasferimento\0￿."
+"2008","(촀\0Oh!
+\0(()촀\0 C'è ancora una cosa che devo
+dirti,
+\0 in caso tu abbia già trasferito
+i dati utente da un'altra console.(\0촀\0\0\0(%촀\0Dopo aver usato la funzione
+\0Trasferisci il tuo utente\0￿n\0\0\0\0()촀\0... l'account dell'utente trasferito
+non sarà più presente sulla console
+di origine.(\0촀\0\0\0In quel caso, 
+\0(촂\0(촃\0\0chiedi a un altro
+residente sulla console di origine
+di avviare la procedura per te\0￿."
+"2009","Stavolta abbiamo finito sul serio!
+\0($촂\0($촃\0
+Vuoi avviare la procedura di
+trasferimento?
+\0\0Kd\0 Trasferimento?d\0d"
+"2009_a","Sì, procediamo!"
+"2009_b","Me lo spieghi di nuovo?"
+"2009_c","Non ora."
+"2021","Oh!
+\0 ($촂\0($촃\0Vuoi interrompere la procedura
+di trasferimento?"
+"2021_a","Sì, per favore."
+"2021_b","No, continuiamo!"
+"2023","( 촂\0( 촃\0Oh, capisco. 
+\0Nessun problema,
+annulleremo subito la procedura.
+(촂\0(촃\0A presto, allora!
+\0 \0Kd\0Ci vediamo!d\0d"
+"2024","(촂\0(촃\0
+\0Mmmhn\0\0 Che strano, non ho trovato
+nessuna richiesta di trasferimento.
+\0
+(&촂\0(&촂\0Vuoi ripetere la ricerca?"
+"2024_a","Sì, per favore."
+"2024_b","No, grazie."
+"2025","(촂\0(촃\0Oh? 
+\0Pare che la procedura di
+trasferimento non sia riuscitan"
 "203_02",""
 "203_03",""
 "203_04",""
+"2051","(촂\0(촃\0Ciao, n\0!
+\0 Ti stavamo
+aspettando!
+\0\0Kd\0 Che bello vederti!d\0d\0\0($촂\0($촃\0Avevi avviato la procedura per
+trasferirti qui da un'altra isola, vero?"
+"2052","(촂\0(촃\0Allora non perdiamo altro tempo e
+riprendiamo la procedura!
+\0\0Kd\0 Subitissimo!d\0d"
+"2053","(%촂\0(%촃\0Abbiamo ultimato tutti i preparativi
+necessari.
+\0 (촂\0Ora devi solo attendere
+l'imbarco!\0\0()촂\0(%촃\0Ti daremo una spiegazione più
+dettagliata sull'isola
+\0 una volta
+arrivati a terra!
+\0(촀\0(촀\0\0Kd\0 A terra!d\0d"

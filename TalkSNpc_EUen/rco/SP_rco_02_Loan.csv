@@ -269,6 +269,17 @@ using the \0Nook Stop\0￿'s ABD feature
 as you've done before."
 "081_02","(""촀\0As always, it's been ever so nice
 doing business with you. (촀\0Yes, yes!"
+"1001","(""촀\0Well, hello there, n\0!\0\0(%촀\0Say, 
+\0I was just looking over the
+file on your home loan from your
+previous island."
+"1002","(""촀\0Well, hello there, n\0!\0\0(\0촀\0Say, 
+\0(&촀\0didn't you ask to have a home
+built just before you moved here?"
+"1003","(""촀\0Well, hello there, n\0!\0\0(\0촀\0Say, 
+\0(&촀\0didn't you ask to have your
+home remodeled just before you
+moved here?"
 "101","n\0\0So you see, since the number of
 homeowners is increasing, I agree(%촀\0
 that we need to build a shop.(촀\0\0\0However, when it comes to building
@@ -280,3 +291,106 @@ under me for how many years
 now, hm?\0\0(촀\0This should be a piece of cake!
 \0(촀\0
 \0촀"
+"1101","(""촀\0Hello, n\0!"
+"1102","(&촀\0How are you settling in?
+\0 Is life on
+n	\0 treating you well?"
+"1102_a","I love it here!"
+"1102_b","I'm doing alright."
+"1103","(촀\0Good, good!
+\0 I think you'll enjoy it
+here.
+\0 There are countless wonderful
+ways to spend your time!\0\0(9촀\0Even so, sometimes it's just nice to
+get off the island. 
+\0And coincidentally,
+\0
+(%촀\0I have a special present for you.\0\0(6촀\0I do hope you're ready for thisn\0\0
+\0
+(촀\0It's a premium miles-redemption
+item: a \02\0Ā촃Nook Miles Ticket\0￿!"
+"1103_a","Wow, thanks!"
+"1103_b","What's a 2\0Ā촃Nook Miles Ticket?"
+"1104","Well, (""촀\0I won't take up any more of
+your time.
+\0 (촀\0Get back out there and
+explore n	\0!"
+"1105","(촀\0You can use a 2\0Ā촃Nook Miles Ticket to
+do some island-hopping adventuring,
+yes, yes! Go anytime you want!\0\0(촀\0Maybe you're looking to meet some
+new characters or gather materials
+for DIY projects.
+(촀\0Your trip is yours to enjoy in the way
+you like.\0\0(촀\0I've left your ticket at the counter in
+the \0airport\0￿, so use it whenever the
+travel mood strikes."
+"1201","(촀\0My goodness, you've done it.
+\0
+You've paid off your home-
+renovation loan in full!\0\0(5촀\0Congratulations! 
+\0You're debt-free
+and set for life in an amazing,
+spacious island home! 
+\0Yes, yes!\0\0(촀\0n\0\0I know you're just waiting for me
+to offer to expand your home, but
+your house is as grand as it gets.\0\0(3촀\0I have something else to offer,
+however! 
+\0For free, of course.\0\0()촀\0Nook Inc. guarantees its work for
+life, and as a small token of my
+appreciationn\0\0\0\0(촀\0I am proud to offer you a lifetime
+of free exterior renovations!\0\0(촀\0Limit one per day, terms and
+conditions apply. 
+\0Yes, yesn\0\0
+I'm legally required to say thatn"
+"1201_01","(촀\0
+\0Oh, yes!
+\0 There is one other thing for
+us to discuss.
+\0 (\0촀\0Although we cannot
+expand your house any furthern\0\0\0\0(&촀\0Maybe we could look into \0expanding
+the size of your home storage\0￿, hm?"
+"1201_02","(촀\0Unfortunately,
+\0 such construction
+would not come cheap,
+\0 so I'd need
+the entire cost to be paid up front."
+"1201_03","(6촀\0Now, I imagine that,
+\0 as your house
+has grown,
+\0 you've placed quite a few
+things into storage, hm?\0\0(7촀\0But then, before you know it,
+\0 your
+storage is full!
+\0 And where does your
+old couch go then?
+\0 (촀\0Where indeedn\0\0\0\0(\0촀\0That's what expanded storage would
+aim to solve.
+\0 So,
+\0 (""촀\0think it over, and
+tell me if you'd like to know more!"
+"1201_04","(""촀\0And on that note,
+\0 I'd just like to say
+that I hope Nook Inc. continues to
+serve you for years to come.
+\0
+(\0촀\0Oh!
+\0 (촀\0And once again,
+\0 congratulations!"
+"1202","(촀\0
+\0Oh!
+\0 I'd like to discuss something.
+\0
+(\0촀\0Although we can't increase the size
+of your house any further, welln\0\0\0\0(촀\0With all the furniture and trinkets
+you've collected,
+\0 I suspect your
+storage is becoming quite full.\0\0(%촀\0So, once this loan is paid off,
+\0 I'd like
+to offer a new servicen\0\0
+\0(촀\0\0expanding
+your home storage\0￿!\0\0(촀\0Anyway, that's just something to
+keep in mind for later.\0\0(\0촀\0For now,
+\0 please keep making your
+loan payments using the \0ABD\0￿ feature
+on the \0Nook Stop\0￿.
+\0 (""촀\0Take care!"

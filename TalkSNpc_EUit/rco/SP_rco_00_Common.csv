@@ -199,6 +199,42 @@ che possiamo trattare, man\0\0
 "075_02_a","Ponti e rampe."
 "075_02_b","Spostare un edificio."
 "075_02_c","Non ora."
+"1001","(촀\0Vedo che hai proprio voglia di
+parlare della tua casa, mh?\0\0()촀\0Ma prima, credo che abbiamo
+ancora una questione in sospeso
+da risolvere."
+"1002","(9촀\0Prima di trasferirti qui,
+\0 (&촀\0avevi
+richiesto dei lavori di espansione
+per la tua vecchia casa, vero?\0\0(촀\0Beh, sono lieto di informarti che
+me ne occuperò io qui sulla tua
+nuova isola. 
+\0Sì, sì!"
+"1002_01","(9촀\0Prima di trasferirti qui,
+\0 (&촀\0avevi
+richiesto delle modifiche agli
+esterni della tua vecchia casa, vero?\0\0(촀\0Beh, sono lieto di informarti che
+me ne occuperò io qui sulla tua
+nuova isola. 
+\0Sì, sì!"
+"1003","(%촀\0E ti dirò di più, domani sarà già
+tutto pronto. 
+\0Notevole, eh?
+\0
+(""촀\0Spero che sarai soddisfatt2oa!"
+"1005","(촀\0Hai proprio tanta voglia di
+parlare della tua casa, mh?\0\0()촀\0Ma prima, credo che abbiamo
+ancora una questione in sospeso
+da risolvere.\0\0(촀\0Vedo che prima di trasferirti avevi
+fatto una richiesta per spostare la
+tua casa, 
+\0(&촀\0giusto?\0\0(촀\0Ma visto che alla fine ti sei trasferit2oa
+qui, la richiesta non è stata portata
+a termine.\0\0((촀\0Niente paura! 
+\0((촀\0Ho annullato quella
+richiesta e ti ho fatto rimborsare le
+\030.000 stelline \0￿che avevi anticipato.\0\0($촀\0Potrai verificare l'avvenuto rimborso
+allo Stellomat. Sì, sì!"
 "101","(촀\0
 \0Oh, 
 \0non hai bisogno di aiuto?
@@ -211,12 +247,129 @@ importante che richiede un'adeguata
 riflessione.
 Quando avrai preso una decisionen\0\0
 sai dove trovarmi!"
+"1021","()촀\0Sbaglio o prima che ti trasferissi qui
+avevi richiesto l'ampliamento del tuo
+sgabuzzino?\0\0(5촀\0Niente paura!
+\0 Sarò ben contento di
+prendermi cura della tua richiesta
+su quest'isola,
+\0 sì, sì."
 "103","(촀\0Perfetto!
 \0 Darò immediatamente
 inizio ai lavori.\0\0(촀\0Dovrebbe essere tutto pronto entro
 domani mattina.
 \0 Non vedi l'ora,
 vero?"
+"1101","(""촀\0Oh, ciao!
+\0 Immagino che tu sia qui
+perché hai letto il mio messaggio,
+sì?"
+"1101_01","()촀\0Come ti ho già anticipato,
+\0 ora offro
+un \0ampliamento dello sgabuzzino
+\0￿della tua casa.
+(%촀\0Sempre che tu abbia ingrandito
+la tua dimora al massimo, sì, sì."
+"1101_02_00","(촀\0Tuttavia,
+\0 poiché si tratta di
+un'opera molto costosa,
+\0 devo
+chiedere il pagamento in anticipo."
+"1101_02_01","(촀\0Ma per questo servizio è richiesto
+il pagamento in anticipo,
+\0 dato il suo
+costo elevato.
+()촀\0E ciò significa che non posso offrire
+questa possibilità a chi sta ancora
+pagando un prestito per la casa."
+"1101_03","(6촀\0Ora che la tua casa è così grande,
+\0
+immagino che il tuo sgabuzzino
+sia bello pieno, 
+\0mh?\0\0(7촀\0E in un attimo, 
+\0magicamente non
+c'è più spazio! 
+\0(촀\0Come fare, allora?\0\0(촀\0Semplice, 
+\0con il nuovo servizio
+di ampliamento dello sgabuzzino!\0\0(""촀\0Pensaci 
+\0e se poi la mia offerta ti
+interessa, fammelo sapere, 
+\0sì, sì!"
+"1111","(촀\0Ah, 
+\0quindi sei interessat2oa ad
+ampliare il tuo sgabuzzino, mh?\0\0(%촀\0Avere uno sgabuzzino più grande
+ti permetterà di conservare molte
+più cose, 
+\0sì, sì.\0\0(촀\0Ma visto che la sua realizzazione è
+molto costosa,
+\0 non posso concederti
+un prestito per questo servizio.
+()촀\0Il prezzo è di \0500.000 stelline\0￿
+
+\0e va pagato in anticipo.\0\0((촀\0Ma fidati, è davvero un minuscolo
+sacrificio a fronte di moltissimo
+spazio in più a tua disposizione.\0\0(&촀\0Che ne dici,
+\0 ho solleticato la tua
+curiosità?
+\0 Vuoi spendere \0500.000
+stelline \0￿e ampliare lo sgabuzzino?"
+"1111_a","(%촀\0Sì, va bene!"
+"1111_b","('촀\0Non ora."
+"1112","(촀\0Bene, bene!
+\0 Riempirò subito i
+moduli per cominciare i lavori
+di ampliamento.\0\0(%촀\0Dovrebbe essere tutto pronto per
+domani mattina.
+\0 (촀\0Perfino io non vedo
+l'ora, 
+\0sì, sì!"
+"1113","(촀\0Non c'è problema, 
+\0prenditi pure tutto
+il tempo che ti serven\0\0 È una spesa
+notevole, capisco perfettamente.
+($촀\0Torna a trovarmi quando vuoi!"
+"1114","(촀\0Apprezzo molto il tuo entusiasmo.
+\0(
+(촀\0Ma ti ricordo che il pagamento deve
+essere effettuato in anticipon\0\0\0\0(7촀\0E a quanto pare,
+\0 al momento non
+disponi della cifra necessaria.\0\0(\0촀\0So che girare con così tante stelline
+non è l'ideale, man\0\0\0\0(촀\0Devo chiederti di ritornare un'altra
+volta quando avrai la cifra richiesta."
+"1115","(촀\0Sono desolato, 
+\0ma ('촀\0 non posso
+effettuare l'ampliamento quando
+stai ancora pagando un prestiton\0\0\0\0(\0촀\0Ti ricordo che puoi estinguere il tuo
+debito usufruendo del \0Punto Nook\0￿ in
+qualsiasi momento.
+(촀\0Torna pure a parlarmi quando
+il prestito sarà completamente
+ripagato, 
+\0sì, sì."
+"1116","(%촀\0L'ampliamento dello sgabuzzino
+dovrebbe essere ultimato per
+domani mattina.
+\0 (""촀\0Non vedi l'ora, mh?"
+"1191","(촀\0Sei venut2oa a parlarmi di casa tua?
+\0
+(&촀\0Cosa mi vuoi dire?"
+"1191_a","Ampliamo lo sgabuzzino."
+"1191_b","Vorrei personalizzarla."
+"1191_c","Vorrei trasferirmi."
+"1191_d","Non ora."
+"1192","(촀\0Sei venut2oa a parlarmi di casa tua?
+\0
+(&촀\0Cosa mi vuoi dire?"
+"1192_a","Ampliamo lo sgabuzzino."
+"1192_b","Vorrei personalizzarla."
+"1192_c","Non ora."
+"1193","(촀\0Va bene, ti ho fatto già aspettare
+abbastanzan\0\0
+\0((&촀\0 Come posso aiutarti?"
+"1193_a","Ampliamo lo sgabuzzino."
+"1193_b","Vorrei personalizzarla."
+"1193_c","Vorrei trasferirmi."
+"1193_d","Non ora."
 "201","(촀\0Oh, n\0!\0\0(촀\0Hai deciso di comprare una casa?
 Di passare a una vita con tutte
 le comodità possibili?\0\0Vivere in tenda è entusiasmante,

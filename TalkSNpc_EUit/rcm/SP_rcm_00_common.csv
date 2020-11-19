@@ -102,6 +102,15 @@ fai da te per 2\0}\0\0!\0\0(촂\0È uno schema molto prezioso.
 Vuoi liberartene davvero?
 \0 Posso
 darti Z\0n"
+"037_01","(촂\0(촃\0Oh, 
+\0ma è uno schema fai da te per
+2\0}\0\0!\0\0(촂\0È davvero molto raro e prezioso.
+\0(&촂\0
+Sei sicur2oa di volerlo vendere?
+\0
+(%촃\0Possiamo darti solo Z\0."
+"037_01_a","(%촀\0Affare fatto!"
+"037_01_b","('촀\0Ho cambiato idea."
 "037_a","(%촀\0Affare fatto!"
 "037_b","('촀\0Ho cambiato idea."
 "038","(촂\0(촃\0Ohn\0\0
@@ -141,6 +150,14 @@ da vero amico. Che ne dici?"
 o quello è uno schema di incredibile
 valore?
 \0(&촂\0(&촃\0 Sicur2oa di volerlo vendere?"
+"043_01","(촂\0(촃\0Quanti articoli interess-
+\0(촂\0(촃\0 Oh,
+\0 (\0촂\0(\0촃\0ma c'è
+anche uno schema di grande valore!
+\0
+(&촂\0(&촃\0Sei sicur2oa di volerlo vendere?"
+"043_01_a","(%촀\0Sì, assolutamente."
+"043_01_b","('촀\0No, aspetta un attimo."
 "043_a","(%촀\0Sì, assolutamente."
 "043_b","('촀\0No, aspetta un attimo."
 "044_01","(촂\0
@@ -519,9 +536,56 @@ l'ultimo giorno in cui è in vendita...\0\0(촀\0Almeno per quest'anno, int
 
 \0Spero che ti interesserà ancora
 quando tornerà disponibile."
+"145","( 촂\0Ah, 
+\0l'hai notato, eh? 
+\0(촀\0Ebbene sì,
+
+\0abbiamo deciso di lanciarci nella
+vendita di giocattoli!\0\0(%촂\0Si tratta di un'offerta a tempo
+limitato, 
+\0precisamente fino al
+25 dicembre.
+()촂\0(촃\0In questo modo, la gente avrà tempo
+di comprare dei regali per il Giorno
+dei giocattoli.\0\0(촂\0(촃\0Se qualche articolo cattura la tua
+attenzione, 
+\0saremo felici di aiutarti!
+d\0
+\0\0K... eccome!\0dd"
 "200","(촂\0(촃\0Grazie!d\0
 \0 \0KGrazie!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\02\02\0}\0\0! 
+\0Proviene direttamente dal festival delle primizie!\0\0()촂\0Questi oggetti sono molto rari e con
+
+\0(촃\0gli schemi fai da te potresti creare
+qualcosa di simile.\0\0($촂\0($촃\0Tra l'altro, abbiamo proprio degli
+schemi \0in vendita nella nostra
+vetrinetta\0￿.\0\0(%촂\0(%촃\0Te lo dico solo come alternativa.
+\0
+E perché ci piace tanto vendere
+i nostri articoli!d\0 
+\0\0KProprio tanto!\0dd"
+"2002","(촂\0Ops, 
+\0mi sono dimenticato di dirti
+il prezzo!
+\0 ($촂\0($촃\0Sono Z\0.
+\0
+Che ne dici?"
+"2002_a","(%촀\0Affare fatto!"
+"2002_b","('촀\0Ho cambiato idea."
+"2003","(촂\0(촃\0Non per farmi gli affari tuoi, man\0\0
+\0
+(촂\0hai già imparato a realizzare tutti gli
+schemi fai da te di quella collezione.
+\0(\0촂\0(\0촃\0\0\0($촂\0($촃\0Che ne diresti invece di metterti alla
+prova con qualche schema dedicato
+al festival delle primizie?"
+"2004","(촃\02\02\0}\0\0!
+\0 ()촂\0Fa parte di una collezione dedicata al festival delle primizie.\0\0(9촂\0Offriremo schemi di questa collezione
+solamente fino alla fine del mese.
+\0 Se
+ti interessano, non farteli sfuggire!"
 "201","(촂\0
 \0(촃\0Salve!d\0
 \0 \0KChe piacere!\0dd

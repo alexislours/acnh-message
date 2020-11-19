@@ -54,7 +54,7 @@ zijn?"
 "002_01","(&촀\0Hoe kan ik je vandaag van dienst
 zijn?"
 "002_01_a","Ik wil dromen."
-"002_01_b","Over mijn gedeelde droom..."
+"002_01_b","Over mijn droomeiland..."
 "002_01_c","Waar ben ik?"
 "002_01_d","Ik wil wakker worden."
 "002_02","(&촀\0Kan ik je met iets anders van dienst
@@ -66,7 +66,7 @@ zijn?"
 "002_03","(&촀\0Kan ik je met iets anders van dienst
 zijn?"
 "002_03_a","Ik wil dromen."
-"002_03_b","Over mijn gedeelde droom..."
+"002_03_b","Over mijn droomeiland..."
 "002_03_c","Waar ben ik?"
 "002_03_d","Ik wil wakker worden."
 "002_04","(&촀\0Hoe kan ik je vandaag van dienst
@@ -78,7 +78,7 @@ zijn?"
 "002_05","(&촀\0Hoe kan ik je vandaag van dienst
 zijn?"
 "002_05_a","Ik wil dromen."
-"002_05_b","Over mijn gedeelde droom..."
+"002_05_b","Over mijn droomeiland..."
 "002_05_c","Waar ben ik nu?"
 "002_05_d","Ik wil wakker worden."
 "002_06","(&촀\0Kan ik je met iets anders van dienst
@@ -90,7 +90,7 @@ zijn?"
 "002_07","(&촀\0Kan ik je met iets anders van dienst
 zijn?"
 "002_07_a","Ik wil dromen."
-"002_07_b","Over mijn gedeelde droom..."
+"002_07_b","Over mijn droomeiland..."
 "002_07_c","Waar ben ik nu?"
 "002_07_d","Ik wil wakker worden."
 "002_a","Ik wil dromen."
@@ -142,14 +142,31 @@ de naam ""s촀"".\0\0(&촀\0Is dat correct?"
 "1005_a","Jazeker!"
 "1005_b","Nee, dat klopt niet."
 "1006","(촀\0Uitstekend! 
-\0Dan is alles in orde.
-\0
-(1촀\0
-\0Sluit dan nu je ogenn\0\0 en ontspan
-jen\0\0(촀"
+\0Dan kunnen we nu naar
+de volgende stap.
+\0 (1촀\0
+\0Sluit je ogenn\0\0
+en ontspan jen\0\0(촀"
 "1006_01","Ontdaan van alle bagagen\0\0
-\0 reis je af naar het droomeiland s촀n\0\0
+\0 reis je af naar het droomeilandn\0\0 s촀n\0\0
 K"
+"1010","(촀\0Uiteraard! 
+\0Voordat ik je naar een
+droom kan gidsen, leg ik je graag
+het een en ander uit.\0\0()촀\0Zoals zoveel dingen tegenwoordig
+\0
+worden dromen gedownload van
+het \0internet\0￿.\0\0(촀\0Een netwerkverbinding is derhalve
+onmisbaar.\0\0(\0촀\0Als je een specifieke droom zoekt,
+heb je bovendien een \0droomadres
+\0￿nodig.\0\0(%촀\0Dat is een unieke code die eigen is
+aan iedere droom.\0\0()촀\0Als je je echter wilt laten verrassen,
+\0
+kan ik een droom voor je uitkiezen.\0\0(\0촀\0Dan hoef je enkel
+\0 ($촀\0""\0Verras me!\0￿"" te
+zeggen
+\0 en zal ik een prachtige
+droom voor je vinden."
 "1031","(촀\0Het spijt me zeer, 
 \0maar op dat
 \0droomadres \0￿is geen enkele droom
@@ -215,6 +232,75 @@ droomeilanden die je nog eens
 kunt bezoeken.\0\0(촀\0Als je toch wilt dromen, 
 \0heb ik een
 \0droomadres \0￿van je nodig."
+"1060","(촀\0Mocht je trouwens liever hebben
+\0 dat
+een droom voor je uitkies,
+\0 ben ik je
+uiteraard graag van dienst.\0\0()촀\0Als je je wilt laten verrassen met een
+droom die ik uit het dromenrijk kies,
+\0
+heb je geen droomadres nodig.\0\0(\0촀\0In dat geval volstaat het om enkel
+\0
+($촀\0""\0Verras me!\0￿"" te zeggen."
+"1061","(&촀\0Wat voor soort droom wil je dat ik
+voor je voorbereid?"
+"1061_a","Op droomadres zoeken."
+"1061_b","Droom opnieuw bezoeken."
+"1061_c","Verras me!"
+"1061_d","Laat maar..."
+"1062","(%촀\0Maar natuurlijk.
+\0 Ontspan je en 
+\0laat je
+verrassen door een droom die ik voor
+je uitkiesn"
+"1062_a","Ik ben er klaar voor."
+"1062_b","Eigenlijk liever niet."
+"1063","( 촀\0Ach!
+\0 Het is me niet gelukt een droom
+voor je te vindenn\0\0 Dat is inderdaad
+een verrassing!\0\0(&촀\0Zal ik het opnieuw proberen?"
+"1063_a","Ja, alsjeblieft!"
+"1063_b","Laat maar zitten..."
+"1065","(&촀\0Wat voor soort droom wil je dat ik
+voor je voorbereid?"
+"1065_a","Op droomadres zoeken."
+"1065_b","Verras me!"
+"1065_c","Laat maar..."
+"1066","(촀\0Mag ik je om een gunst vragen?\0\0()촀\0Wanneer dromers verrast willen
+worden, wil ik ze graag jouw droom
+van n	\0 laten zien.\0\0(\0촀\0Als je daarin toestemt, 
+\0dan zal ik je
+droom eerst willen updaten.
+\0 (&촀\0Vind je
+het goed als ik dat doe?"
+"1066_a","Ja, dat lijkt me prima."
+"1066_b","Nee, liever niet."
+"1067","(촀\0Uitstekend. 
+\0Ik twijfel er niet aan dat
+veel dromers aangenaam verrast
+zullen worden.
+\0 Dank je wel daarvoor.\0\0(1촀\0Goed,
+\0 dan zal ik nu je droom van n	\0 updatenn"
+"1068","(%촀\0Zo! 
+\0Het updaten van je droom is
+klaar.
+\0 Ik kijk ernaar uit er andere
+dromers mee te verrassen."
+"1069","(\0촀\0Je droom van n	\0 is geregistreerd op het droomadres 촀.\0\0()촀\0Als je niet meer wilt dat ik anderen
+met je droom verras,
+\0 is dat uiteraard
+geen enkel probleem!\0\0Spreek me in dat geval aan over het
+onderwerp
+\0 ($촀\0""\0Verrassingsdromen.\0￿"""
+"1070","(9촀\0Duidelijk. 
+\0In dat geval zal ik andere
+dromers niet met jouw droom
+verrassen."
+"1071","()촀\0Mocht je toch nog van gedachten
+veranderen,
+\0 spreek me dan rustig
+aan over
+\0 ($촀\0""\0Verrassingsdromen.\0￿"""
 "2001","(\0촀\0Uiteraard. 
 \0(9촀\0Maar voor je verdergaat,
 moet je eerst wat \0belangrijke
@@ -329,6 +415,37 @@ om een droom te kunnen uploadenn\0\0\0\0()촀\0Eerst dient VRIJE COMMUNICAT
 MET ANDEREN toegestaan te
 worden in het ouderlijk toezicht.\0\0(촀\0Kom alsjeblieft bij me terug zodra dat
 in orde is."
+"2100","(9촀\0Aangezien je zo vriendelijk bent
+geweest om je droomadres te delen,
+\0
+wil ik je nog iets voorstellen!\0\0()촀\0Het gebeurt soms dat dromers mij
+vragen of ik hen wil verrassen met
+een droom van mijn keuze.\0\0(\0촀\0Maar ik deel dromen uiteraard alleen
+als ik de expliciete toestemming van
+de dromer heb.
+\0 Vandaar mijn vraagn\0\0\0\0(&촀\0Mag ik anderen verrassen met jouw
+droom van n	\0?"
+"2100_a","Ja, dat is goed!"
+"2100_b","Nee, liever niet."
+"2101","(촀\0Schitterend. 
+\0Ik weet zeker dat menig
+dromer door jouw droom aangenaam
+verrast zal worden.
+\0 (1촀\0Momentjen"
+"2102","(촀\0Klaar! 
+\0Ik kan niet wachten om andere
+dromers met jouw droom te
+verrassen.\0\0()촀\0Als je niet meer wilt dat ik anderen
+met je droom verras,
+\0 is dat uiteraard
+geen enkel probleem!\0\0Spreek me in dat geval aan over het
+onderwerp
+\0 ($촀\0""\0Verrassingsdromen.\0￿"""
+"2103","(촀\0Het spijt me zeer,
+\0 maar ik ben er niet in geslaagd je droom van n	\0 te updaten.\0\0(\0촀\0Ik vrees dat je het op een ander
+moment opnieuw moet proberen.
+\0
+(%촀\0Mijn excuses voor het ongemak."
 "3001","(\0촀\0Een droom van n	\0 is geregistreerd op het \0droomadres \0￿""⁠촀⁠""."
 "3001_01","(&촀\0Kan ik wat betreft je huidige droom
 iets voor je betekenen?"
@@ -340,11 +457,19 @@ iets voor je betekenen?"
 "3001_b","Is mijn droomadres zichtbaar?"
 "3001_c","Ik wil de droom verwijderen."
 "3001_d","Laat maar..."
+"3002","(\0촀\0Een droom van n	\0 is geregistreerd op het \0droomadres \0￿""⁠촀⁠""."
+"3002_02","(&촀\0Kan ik wat betreft je huidige droom
+iets voor je betekenen?"
 "3002_02_a","Ik wil de droom updaten."
 "3002_02_b","Is mijn droomadres zichtbaar?"
-"3002_02_c","Is mijn droomadres zichtbaar?"
+"3002_02_c","Verrassingsdromen."
 "3002_02_d","Ik wil de droom verwijderen."
 "3002_02_e","Laat maar..."
+"3002_a","Ik wil de droom updaten."
+"3002_b","Is mijn droomadres zichtbaar?"
+"3002_c","Verrassingsdromen."
+"3002_d","Ik wil de droom verwijderen."
+"3002_e","Laat maar..."
 "3101","(9촀\0Voorzichtigheid is een groot goed.
 \0
 (&촀\0Weet je zeker dat je de droom van
@@ -453,6 +578,46 @@ of de \0plattegrond\0￿ van je eiland."
 nu openbaar.\0\0(%촀\0Anderen zullen het kunnen zien op je
 \0paspoort \0￿of op de \0plattegrond \0￿van je
 eiland."
+"3500","(촀\0Welnu, 
+\0momenteel heb ik je
+toestemming om je droom van
+n	\0 te delen.\0\0(\0촀\0Wanneer dromers me vragen om ze
+met een droom te verrassen,
+\0 kan het
+zijn dat ik jouw droom met ze deel.\0\0(&촀\0Is dat nog steeds in orde?"
+"3500_a","Stop mijn droom te delen."
+"3500_b","Blijf mijn droom delen."
+"3501","(9촀\0Welnu, 
+\0momenteel wordt je droom van n	\0 niet met anderen gedeeld.\0\0(&촀\0Wanneer dromers me vragen om ze
+met een droom te verrassen,
+\0 mag ik
+dan ook jouw droom met ze delen?"
+"3501_a","Niet mijn droom delen."
+"3501_b","Mijn droom mag je delen."
+"3502","()촀\0Begrepen. 
+\0Dan blijft het zo dat ik
+anderen met je droom kan verrassen."
+"3503","(9촀\0Duidelijk. 
+\0Dan wordt je droom niet
+meer gedeeld wanneer ik andere
+dromers verras."
+"3504","(촀\0Schitterend.\0\0(%촀\0Wanneer een dromer verrast wil
+worden, kan ik weleens jouw droom
+van n	\0 kiezen."
+"3505","(9촀\0Maar natuurlijk.
+\0 Dan blijft alles zoals
+het was.(촀\0\0\0Je droom van n	\0 zal niet worden gedeeld wanneer andere dromers verrast willen worden."
+"3506","(9촀\0Welnu, 
+\0momenteel wordt je droom van n	\0 niet met anderen gedeeld.\0\0(&촀\0Wanneer dromers me vragen om ze
+met een droom te verrassen,
+\0 mag ik
+dan ook jouw droom met ze delen?\0\0(\0촀\0Als je daarin toestemt, 
+\0dan zal ik je
+droom eerst updaten.
+\0 (&촀\0Vind je het
+goed als ik dat doe?"
+"3506_a","Ja, dat lijkt me prima."
+"3506_b","Niet mijn droom delen."
 "4000","(촀\0Dit is een wereld tussen werelden
 \0
 waar dromers elektronische dromen
@@ -518,3 +683,16 @@ in jouw droom zichtbaar zullen zijn.\0\0(촀\0Je kunt ze beschouwen als een
 souvenir van n	\0."
 "4003_03","(촀\0En hiermee ben je volledig
 up-to-date!"
+"4010","(\0촀\0O! 
+\0Het is ook van belang om te
+weten dat dit proces \0toegang tot
+het internet\0￿ vereist.\0\0()촀\0Als je een specifieke droom zoekt,
+heb je bovendien een \0droomadres
+\0￿nodig.\0\0(\0촀\0Als je je echter wilt laten verrassen,
+\0
+kan ik een droom voor je uitkiezen.\0\0Dan hoef je enkel
+\0 ($촀\0""\0Verras me!\0￿"" te
+zeggen
+\0 en zal ik een prachtige
+droom voor je vinden.\0\0(촀\0Daarmee hebben we de belangrijkste
+zaken wel besproken!"

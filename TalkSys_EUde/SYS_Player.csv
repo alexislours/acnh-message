@@ -257,6 +257,10 @@ Faden ein Schriftzug aufgenäht:
 Ich kann tun und lassen, was ich will!
 \0
 JUCHHUUUU!"
+"200_01","Mein Umzug ist abgeschlossen...
+\0
+Damit beginnt das schöne
+Inselleben noch mal neu!"
 "204_02","Hurraaa!
 \0
 Damit ist mein Haus abbezahlt!"
@@ -312,6 +316,14 @@ An \0Spiegeln\0￿ oder \0Frisiertischen
 \0
 An \0Spiegeln\0￿ oder \0Frisiertischen
 \0￿könnte ich meinen Look ändern!"
+"210_13","Ich kenne jetzt neue\0 Frisuren\0￿!
+\0
+An \0Spiegeln\0￿ oder \0Frisiertischen
+\0￿könnte ich mich umstylen!"
+"210_14","Ich habe ein paar neue \0Emotionen\0￿
+erlernt! 
+\0Durch Drücken von \0\0￿ kann
+ich eine Gesamtübersicht aufrufen."
 "211_01","Mithilfe der App \0Insel-Designer\0￿ kann
 ich jetzt \0Gewässer\0￿ bearbeiten!"
 "211_02","Mithilfe der App \0Insel-Designer\0￿ kann
@@ -424,7 +436,26 @@ glatt eine neue \0Bastelanleitung\0￿ ein!"
 und alle haben mitgefeiert!"
 "701","Da scheinen Materialien für
 Reif-für-n\0-Teilnehmer drin zu sein."
+"702","Es sind noch immer Z\0 Geschenke im Geschenkesack."
+"703_01","Mal sehen. 
+\0Ich habe noch immer
+Geschenke fürn\0\0\0\0s촀,
+\0 s촁 
+\0und s촂."
+"703_02","Mal sehen. 
+\0Ich habe noch immer
+Geschenke fürn\0\0 
+\0s촀 
+\0und s촁."
+"703_03","Mal sehenn\0\0 
+\0Ich habe noch ein
+Geschenk für s촀."
+"704","Der Geschenkesack ist leer!"
 "901","Soll ich mein Zelt hier aufstellen?"
+"901_01","Soll ich mein Haus hier aufstellen?"
+"901_01_a","Mal sehen..."
+"901_01_b","Hier ist gut!"
+"901_01_c","Noch mal überlegen..."
 "901_a","Mal sehen..."
 "901_b","Hier ist gut!"
 "901_c","Noch mal überlegen..."
@@ -641,6 +672,10 @@ die \0Schneiderei\0￿ gefunden!"
 "960_05","Ich habe einen Standort für den
 \0Campingplatz\0￿ gefunden! Hoffentlich
 kommen viele Besucher zu uns!"
+"961","Ich habe einen Standort für mein
+Haus gefunden!
+\0 Nun kann das
+Inselabenteuer beginnen!"
 "990","Du suchst gerade einen Schatz,
 \0
 also kümmere dich besser

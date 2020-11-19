@@ -100,6 +100,15 @@ verkopen?"
 (%촃\0plan.
 \0 Weet je zeker dat je ervan af
 wilt?\0\0(촀\0We kunnen je er Z\0 voor gevenn"
+"037_01","(촂\0(촃\0O!
+\0 Dit is een doe-het-zelfplan voor
+2\0}\0\0!\0\0(촂\0Zo'n plan is ontzettend zeldzaam.
+\0( (&촂\0Wil
+je het echt verkopen? 
+\0(%촃\0We kunnen je
+er slechts Z\0 voor geven."
+"037_01_a","(%촀\0Verkocht!"
+"037_01_b","('촀\0Nee, toch maar niet..."
 "037_a","(%촀\0Verkocht!"
 "037_b","('촀\0Nee, toch maar niet..."
 "038","(촂\0(촃\0O jeen\0\0
@@ -141,6 +150,14 @@ natuurlijkn"
 zit een ontzettend waardevol plan
 tussen.
 \0(&촂\0(&촃\0 Weet je het zeker?"
+"043_01","(촂\0(촃\0Wat een boel mooien\0\0(촂\0(촃\0
+\0 Huh?
+\0 (\0촂\0(\0촃\0Maar er
+zit een ontzettend waardevol plan
+tussen.
+\0(&촂\0(&촃\0 Weet je het zeker?"
+"043_01_a","(%촀\0Prima. Ga je gang."
+"043_01_b","('촀\0Eh, nee. Eén seconde."
 "043_a","(%촀\0Prima. Ga je gang."
 "043_b","('촀\0Eh, nee. Eén seconde."
 "044_01","(촂\0
@@ -474,9 +491,46 @@ geen snoep meern\0\0\0\0(촀\0Maar zodra we het in het volgende
 jaar weer aanbieden, 
 \0moet je maar
 snel je slag slaan!"
+"145","( 촂\0Ah, dit kan ik misschien beter even
+uitleggen.\0\0(%촂\0Je kunt hier vanaf nu speelgoed
+kopen om als cadeautjes weg te
+geven voor Speelgoeddag!\0\0()촂\0(촃\0Deze exclusieve aanbieding is geldig
+tot 25 december.\0\0(촂\0(촃\0Laat het ons vooral weten als er iets
+voor je tussen zit! d\0
+\0\0KWe helpen je graag!\0dd"
 "200","(촂\0(촃\0Dank je wel!d\0
 \0 \0KBedankt!\0dd(촂\0(촃\0
 Z"
+"2001","( 촂\0O! 
+\0(\0촂\02 촀DezeDitDeze 2촃}\0\0 2(촀
+maakt
+maakt
+maken deel uit van ons speciale smakenfestijn-assortiment.\0\0()촂\0Houd er wel rekening mee dat ons
+aanbod beperkt isn\0\0(촃\0 en dat je iets
+soortgelijks ook kunt doe-het-zelven!\0\0($촂\0($촃\0\0In de vitrinekast\0￿ kun je vanaf nu
+een nieuwe set doe-het-zelfplannen
+vindenn\0\0\0\0(%촂\0(%촃\0Zo kun je kiezen wat je wilt!
+\0 We
+geven onze klanten graag meerdere
+opties!d\0 
+\0\0KKeuzes, keuzes!\0dd"
+"2002","(촂\0O jee, ik vergeet helemaal de prijs te noemen!
+\0( ($촂\0($촃\0Voor Z\0 20촀is hijis hetzijn ze van jou.
+\0 Wat denk je ervan?"
+"2002_a","(%촀\0Koop ik!"
+"2002_b","('촀\0Nee, toch maar niet..."
+"2003","(촂\0(촃\0We willen ons natuurlijk nergens mee
+bemoeien, maarn\0\0
+\0 (촂\0alle plannen van
+deze set ken je al!
+\0(\0촂\0(\0촃\0\0\0($촂\0($촃\0Dus is je volgende uitdaging om wat
+prachtige doe-het-zelfprojecten te
+maken met een smakenfestijnthema!"
+"2004","()촂\0Ah! 
+\0""⁠}\0\0⁠"" is een set doe-het-zelf-plannen met een smakenfestijnthema.\0\0(9촂\0Deze set is slechts verkrijgbaar tot
+het einde van de maand, 
+\0(촃\0dus aarzel
+niet als je interesse hebt!"
 "201","(촂\0
 \0(촃\0Hallo!d\0
 \0 \0KHoi, hoi!\0dd
