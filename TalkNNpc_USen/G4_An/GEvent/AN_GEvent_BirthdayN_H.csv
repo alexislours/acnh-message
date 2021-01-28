@@ -91,12 +91,12 @@ bring birthday sweets!
 so, 
 \0so good. 
 \0Thank you!"
-"018","(촀\02\02\0}\0\0?!
-\0(
-(""촀\0You know me so well. I just
-bought that yesterday!\0\0(2촀\0I love how in sync we are. 
-\0I'm
-definitely gonna hang on to this!"
+"018","(촀\0You know me so well.
+\0((촀\0 I already have
+2\0}\0\0!\0\0(2촀\0I love how in sync we are.
+\0 (%촀\0I don't
+even mind having 2\0extra
+}\0\0!"
 "019","(&촀\02\02\0}\0\0?!\0\0(촀\0Bwa ha ha!
 \0 Didja happen to notice
 I'm already wearing one?\0\0(%촀\0This is great! 
@@ -194,12 +194,10 @@ definitely wasn't turnips.
 \0((촀\0 Thanks?\0\0(%촀\0They look tasty, though. 
 \0Guess I
 know my lunch plans for tomorrow."
-"030","(촀\02\02\0}\0\0!
-\0(
-(촀\0Wow! 
-\0I knew SOMETHING
-smelled good. 
-\0Thanks!"
+"030","(촀\0I KNEW it'd be something good
+from you. 
+\0((%촀\0You brought me
+2\0}\0\0!"
 "031","(촀\0Whoa! 
 \0Is that a DIY recipe for
 2\0}\0\0?!\0\0(촀\0That's really, 
@@ -215,6 +213,25 @@ and you went 
 \0OUT.
 \0( (6촀\0That was
 pretty stinkin' rad, n\0."
+"036","(촀\0Wait!
+\0 Hang on!
+\0 Whoa!
+\0 You got me
+2\0}\0\0?!\0\0(촀\0Wow!
+\0 You remembered my birthday!
+\0
+I usually get forgotten with all the
+Valentine's Day stuff going on.\0\0()촀\0Birthdays on holidays can be rough.
+\0
+Folks go off celebrating whatever,
+but you're liken\0\0
+\0(	촀\0hey!
+\0 It's my day too!\0\0(6촀\0Anyway, you rock.
+\0 Thanks a ton for
+this.
+\0 Wait, no!
+\0 (촀\0Make that two tons,
+PLUS an encore ton, n\0!"
 "048","(7촀\0Here! 
 \0This is for you. 
 \0It's 2\0
@@ -401,3 +418,22 @@ double rock?
 from you, n\0!"
 "100_a","Here you go!"
 "100_b","Sorry, nope."
+"101","(%촀\0It's so rad everyone came out for my
+birthday today.
+\0( (촀\0Orn\0\0maybe they're
+only here to exchange valentines?\0\0(\0촀\0Nah, it's gotta be for me. (촀\0I mean, just
+LOOK at this place, n\0!"
+"101_a","(\0촀\0You rock! This is for you!"
+"101_b","(\0촀\0Stay awesome."
+"102","(9촀\0I wanna see everyone rockin' out like
+it's both your best buddy's birthday
+AND Valentine's Dayn\0\0(촀\0'cause it is!"
+"102_a","(\0촀\0This is for you!"
+"102_b","(%촀\0I'll do my best."
+"103","(촀\0Having my birthday on Valentine's
+Day kinda rocks, honestly.
+\0 Double
+parties are a total blast!
+\0 (촀\0Bwa ha ha!"
+"103_a","(\0촀\0Here! Take this!"
+"103_b","(%촀\0I'll bet."

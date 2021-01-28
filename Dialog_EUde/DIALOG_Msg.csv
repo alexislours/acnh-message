@@ -282,7 +282,7 @@ Möchtest du das Item verschicken?"
 "1112_a","Nein"
 "1112_b","Ja"
 "1113","Möchtest du die Bestellung
-2.촀deinesdeinerdeines \02촃}\0\0\0￿
+2V\0deinesdeinerdeinesdeinerdeinerdeiner \02촃}\0\0\0￿
 stornieren und diese Karte löschen?"
 "1113_a","Nein"
 "1113_b","Ja"
@@ -1752,3 +1752,10 @@ spielen, schließe die Konsole bitte
 an ein Netzteil an, bevor du mit dem
 Speicherdaten-Transfer beginnst."
 "9112_a","Verstanden"
+"9113","Als letzter Schritt des
+Transfers werden deine
+Inselsicherungsdaten aktualisiert.
+\0\0Für die Aktualisierung
+der Speicherdaten ist eine
+Internetverbindung erforderlich.\0￿"
+"9113_a","Verstanden"

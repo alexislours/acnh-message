@@ -82,11 +82,10 @@ so much better now,
 a newer,
 \0 better
 \0 catchphrase for me?"
-"101","(&촀\0""n\0""n\0\0 Did I get it right?"
+"101","(&촀\0""2\0n\0""n\0\0 Did I get it right?"
 "101_a","You got it!"
 "101_b","No, that's not it."
-"102","( 촀\0""n\0""?\0\0(9촀\0That's the same as before,
-\0 thoughn\0\0
+"102","( 촀\0""2\0n\0""?\0\0(9촀\0That's the same as before thoughn\0\0
 (&촀\0So you think I should keep that one?"
 "102_a","Yeah. It works for you."
 "102_b","Wait, no."
@@ -105,7 +104,7 @@ to overthink this.
 "200","2\0n\0
 \0n\0\0 (촀\02\0n\0!\0\0(촀\0I like the way it rolls off my tongue!"
 "201","2\0n\0,
-\0 (%촀\02\0n\0n\0\0\0\0(촀\0Yep,
+\0 (%촀\0n\0n\0\0\0\0(촀\0Yep,
 \0 it's a natural fit for me!"
 "202","(촀\0Thank you so much!
 \0 I feel like I've

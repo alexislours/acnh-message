@@ -145,18 +145,18 @@ viene!"", y te das la vuelta.\0\0(%촀\0Luego volteas otra vez y dices:
 nos veíamos!""
 \0 (촀\0¡Es superdivertido!"
 "035","(촀\0¡Llegó el momento,
-\0 n\0!
-\0( (촀\0¿Tienes preparado el cañón de confeti?
+\0 n\0⁠!
+\0( (촀\0¿Tienes preparada la vara de luz?
 x"
-"036","(%촀\0Veamos, es:
-\0 tres,
+"036","(%촀\0Así que tres,
 \0 dos,
 \0 uno,
-\0 cero,
-\0
-y ($촀\0se dispara el confeti, ¿no?
+\0 cero
+\0 yn\0\0
+($촀\0¡agitamos la ⁠⁠vara de luz!
 \0
-( 촀\0Espera, ¡¿cómo se activa?!
+( 촀\0Uy,
+\0 ¡¿cuántas veces se agita?!
 x"
 "038","(%촀\0El año nuevo está a la vuelta de la
 esquinan\0\0

@@ -79,10 +79,14 @@ compiere gli anni più spesso!"
 \0
 (촀\0ma di fronte a un regalo incartato,
 mi trasformo in una di loro."
-"017","(촀\0Non pensavo che fossi il tipo da
-regalare dolci!
-\0((촀\0 Hai appena
-guadagnato un paio di punti!"
+"017","(촀\0Come facevi a sapere che i dolci
+sono il mio punto debole?\0\0(촀\0Sai, 
+\0di solito non vado a raccontarlo
+in giro, perché ho una reputazione
+da dura da manteneren\0\0
+(촀\0Però tu hai fatto centro! 
+\0(3촀\0Beh,
+grazie."
 "018","(촀\02\02\0}\0\0?
 
 \0(Conosci bene i miei gusti. 
@@ -169,10 +173,10 @@ regalo di compleanno?"
 "029","(촀\0Diciamo che mi aspettavo di tutto,
 tranne chen\0\0 delle rape.\0\0(%촀\0Hanno un aspetto appetitoso, però.
 Dici che posso mangiarle?"
-"030","(촀\02\02\0}\0\0!
-\0(
-(촀\0Mi sembrava di aver sentito odore
-di cibon"
+"030","(촀\0Lo sapevo che mi avresti portato
+qualcosa di niente male. 
+\0((%촀\0Si tratta
+di 2\0}\0\0!"
 "031","(촀\0Uau! 
 \0Uno schema fai da te per
 2\0}\0\0?!\0\0(촀\0È davvero 
@@ -188,6 +192,19 @@ e tu 
 \0del tuo meglio!
 \0( (6촀\0Sei
 veramente grande, n\0."
+"036","(촀\0Ma dai!
+\0 Davvero mi regali
+2\0}\0\0?\0\0(촀\0Behn\0\0 grazie!
+\0 Ti sei ricordat2oa del
+mio compleanno.\0\0(촀\0Di solito se lo dimenticano tutti
+nel trambusto di San Valentinon\0\0\0\0()촀\0Compiere gli anni in un giorno festivo
+è dura.
+\0 La gente celebra quell'evento
+e tu pensi:
+\0(	촀\0 ""Ma oggi è il mio giorno""!\0\0(6촀\0Comunque, sei grande.
+\0(촀\0 Hai reso
+felice anche una dura come me,
+n\0!"
 "048","(7촀\0Ho una cosina per ricambiare:
 2\0}\0.\0\0(7촀\0Non è granché, ma in fin dei conti
 è il mio compleanno, 
@@ -339,3 +356,27 @@ contenta? (;촀\0Avere un regalo da parte
 tua, n\0."
 "100_a","(\0촀\0Giusto, ecco qui!"
 "100_b","(\0촀\0Scusa, non ho niente."
+"101","(%촀\0È troppo bello che oggi siano tutti
+qui per il mio compleanno!\0\0(촀\0Almeno spero sia così e che non
+siano quin\0\0 solo per San Valentino!\0\0(\0촀\0Ma no, dev'essere per me. 
+\0(촀\0Non c'è
+altra spiegazione, 
+\0basta guardarsi
+intorno per capirlo, n\0!"
+"101_a","(\0촀\0Ecco, tutto per te!"
+"101_b","(\0촀\0Ma sicuramente..."
+"102","(5촀\0Sì, non stai sognando: 
+\0oggi è il mio
+compleanno e anche San Valentino.\0\0(2촀\0Quando nasci in un giorno così
+speciale, 
+\0(촀\0festeggiare diventa parte
+della tua vita!"
+"102_a","(\0촀\0Questo è per te!"
+"102_b","(%촀\0Lo credo anch'io."
+"103","(촀\0Sinceramente è grandioso che il mio
+compleanno cada il giorno di San
+Valentino.
+\0 Doppia festa!
+\0 (촀\0Ah ah ah!"
+"103_a","(\0촀\0Ecco, è per te!"
+"103_b","(%촀\0Immagino."

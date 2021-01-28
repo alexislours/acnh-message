@@ -1747,11 +1747,18 @@ diventerà 2촀illa\0 \0portavoce\0￿ dell'isola sulla
 console di destinazione. Vuoi procedere?"
 "9111_a","Annulla"
 "9111_b","Procedi"
-"9112","Il processo di trasferimento dei
+"9112","La procedura di trasferimento dei
 dati richiederà un po' di tempo.
 Se giochi in modalità portatile,
 usando lo schermo della console,
 collega la console Nintendo Switch
 a un blocco alimentatore prima di
-avviare il processo di trasferimento."
+avviare la procedura di trasferimento."
 "9112_a","Ho capito"
+"9113","Come ultimo passo nella procedura
+di trasferimento, il backup dei tuoi
+dati di salvataggio verrà aggiornato.
+\0\0Per effettuare il backup dei dati
+di salvataggio è necessaria una
+connessione a Internet.\0￿"
+"9113_a","Ho capito"

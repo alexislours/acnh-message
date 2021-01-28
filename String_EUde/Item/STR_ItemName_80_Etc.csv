@@ -33,6 +33,7 @@
 "DummyHowtoBook_13257","Augenfarben für Gewinner"
 "DummyHowtoBook_13610","Hippe Emotionen"
 "DummyHowtoBook_13766","Die 6 trendigsten Frisuren"
+"DummyHowtoBook_14030","Viva-Karneval-Emotionen"
 "DummyPresentbox_04480","2\0ă촅Geschenk2
 \0\0\0s"
 "DummyRecipe_02695","ダミーDIYレシピ"
@@ -74,6 +75,10 @@
 "DummyWrapping_07714","2\0ă촅Geschenk2
 \0\0\0s"
 "DummyWrapping_13793","2\0ă촅Geschenk2
+\0\0\0s"
+"DummyWrappingOtoshidama_14042","2\0ă촅Glücksgeschenk2
+\0\0\0s"
+"DummyWrappingOtoshidama_14043","2\0ă촅Sebaetdon2
 \0\0\0s"
 "FierworkHand_05743","2\0Ȃ촄Rot-Wunderkerze"
 "FierworkHand_05743_pl","2촄Rot-Wunderkerzen"
@@ -138,8 +143,17 @@
 "LicenseItem_08780","2\0Ȃ촄Gewässerlizenz"
 "LicenseItem_08781","2\0Ȃ촄Plateaulizenz"
 "LicenseItem_09771","2\0Ȃ촄Eigenes-Design-Weg-Lizenz"
+"MaracasCarnival_13958","2촄Maracas"
 "Medicine_02777","2\0촄Medizin"
 "Medicine_02777_pl","2\0촄Medizin"
+"Megaphone_13913","2\0ă촅Fan-Megafon2
+\0\0\0s „Football“"
+"Megaphone_14013","2\0ă촅Fan-Megafon2
+\0\0\0s „Feuer“"
+"Megaphone_14014","2\0ă촅Fan-Megafon2
+\0\0\0s „Sterne“"
+"Megaphone_14015","2\0ă촅Fan-Megafon2
+\0\0\0s „Glitzer“"
 "MessageBottle_05793","2\0Ȃ촄Flaschenpost"
 "MessageBottle_12544","2\0Ȃ촄Ei-Flaschenpost"
 "MilePlaneTicket_05851","2\0ă촅Meilenticket2
@@ -152,6 +166,13 @@
 \0\0\0s"
 "MilePlaneTicket_13228_pl","2촄Traumsterni-Coupons"
 "Ocarina_05320","2\0Ȃ촄Okarina"
+"Otoshidama_13954","2\0ā촃Glücksumschlag2
+\0\0\0s"
+"Otoshidama_13954_pl","2촄Glücksumschläge2
+\0\0n"
+"Otoshidama_13955","2\0ă촅Bokjumeoni-Säckchen2
+\0\0\0s"
+"Otoshidama_13955_pl","2촄Bokjumeoni-Säckchen"
 "Panflute_05517","2\0Ȃ촄Panflöte"
 "Partyhorn_05742","2\0Ȃ촄Tröte"
 "PartyPopper_02753","2\0ā촃Partyknaller2
@@ -163,6 +184,8 @@
 "QuestChristmasPresentbox_13869","2\0ă촅Geschenk2
 \0\0\0s (unbekannt)"
 "QuestWrapping_04245","2\0ă촅Paket2
+\0\0\0s"
+"SoySet_13914","2\0ă촅Setsubun-Set2
 \0\0\0s"
 "StickLight_05741","2\0ā촃Leuchtstab2
 \0\0\0s"

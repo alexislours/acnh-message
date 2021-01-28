@@ -24,3 +24,7 @@ check for any \0island data that
 can be restored\0￿n"
 "013","Checking resident save datan\0\0
 \0\0Do not touch .\0￿"
+"014","Connecting to the internet to
+update your save data backupn\0\0
+\0\0Do not touch .\0￿"
+"015","Your backup has been updated."

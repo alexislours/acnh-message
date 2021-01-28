@@ -106,7 +106,7 @@ manger, n\0!촆
 \02
 de d'⁠n촁!\0\0(!촃\0
 \0
-\0\0Qui vole un œuf...?\0d
+\0\0Qui vole un œufn\0\0?\0d
 \0(촃"
 "102_a","vole un bœuf!"
 "102_b","vole un dix!"
@@ -116,7 +116,7 @@ manger, n\0!촆
 (\0촂\0촆Très bien, dans ce casn\0\0\0\0(!촃\0
 \0
 \0\0Un tiens vaut mieux que
-deux...?\0d
+deuxn\0\0?\0d
 \0(촃"
 "103_a","tu l'auras!"
 "103_b","gros rats!"
@@ -126,7 +126,7 @@ deux...?\0d
 \0
 (\0촂\0(\0촃\0촆Voyons si tu trouveras celle-là!\0\0(!촃\0
 \0\0Pierre qui roule
-n'amasse...?\0d
+n'amassen\0\0?\0d
 \0(촃"
 "104_a","pas mousse!"
 "104_b","pas morse!"

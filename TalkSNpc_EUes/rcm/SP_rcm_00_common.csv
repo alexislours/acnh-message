@@ -133,8 +133,7 @@ objetos!
 \0 (촂\0(1촃\0A ver, déjame que haga
 cuentasn\0\0
 (%촀\0Sumo todo eston\0\0 Miro si hay
-objetos del dían\0\0
-"
+objetos del dían"
 "042","(촂\0(촃\0Ya lo tengo:
 \0 te puedo comprar todo
 por un total de Z\0.
@@ -287,8 +286,7 @@ un \0taller de bricolaje \0￿gratuito.
 \0(%촃\0 el jefe imparte
 un \0taller de bricolaje \0￿gratuito
 en la \0oficina de gestión vecinal\0￿.
-(촃\0¡Anímate a echarle un ojo!
-"
+(촃\0¡Anímate a echarle un ojo!"
 "104_02","(촂\0(%촃\0¡Creo que esto ya lo has comprado,
 \0
 (촃\0n\0!"
@@ -632,6 +630,45 @@ haber cerrado hace ya un rato.
 quieras!\0K(%촃\0d\0 
 \0En horario comercialn\0\0d\0d
 Z"
+"3001","(촂\0(촃\0¡Ah, sí!
+\0 Encontrarás un montón
+de \0emociones\0￿ divertidas en
+«}\0\0».
+( 촂\0¡Pero será mejor que te des prisa!
+\0
+(%촂\0(%촃\0Solo estará disponible hasta
+el Z$촀 de Z#촀."
+"3002","( 촂\0¡Ah!
+\0 Ese artículo en particular se
+diseñó con el \0Carnaval\0￿ en menten\0\0\0\0(촃\0Yn\0\0
+\0 (촂\0hablando del tema, \0en la vitrina
+\0￿tenemos a la venta una colección de
+\0emociones \0￿especiales para el evento.
+()촀\0Solamente estará disponible hasta el
+($촃\0Z$촀 de Z#촀, cuando se celebra
+el \0Carnaval\0￿ de n\0.
+($촂\0¡Así que aprovecha mientras dure!d\0
+\0
+(%촃\0\0K¡Eso, eso!\0dd"
+"3003","(촂\0(촃\0¡Ah, sí!
+\0 Encontrarás un montón
+de \0emociones\0￿ divertidas en
+«}\0\0».
+( 촂\0¡Pero será mejor que te des prisa!
+\0
+(%촂\0Me temo que solo estará disponible
+hasta (%촃\0el final del día."
+"3004","( 촂\0¡Ah!
+\0 Ese artículo en particular se
+diseñó con el \0Carnaval\0￿ en menten\0\0\0\0(촃\0Yn\0\0
+\0 (촂\0hablando del tema, \0en la vitrina
+\0￿tenemos a la venta una colección de
+\0emociones \0￿especiales para el evento.
+()촀\0Solamente estará disponible hasta el
+final del día, 
+\0($촂\0¡así que aprovecha
+mientras puedas!d\0
+\0(%촃\0 \0K¡Eso, eso!\0dd"
 "901","Vaya, (&촂\0¿estás segur2oa?
 \0 (\0촂\0(촃\0Bueno,
 si podemos ayudarte en algo,

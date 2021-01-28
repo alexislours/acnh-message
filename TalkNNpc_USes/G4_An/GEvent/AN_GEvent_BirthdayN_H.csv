@@ -194,9 +194,7 @@ no se deben vendern\0\0
 los voy a comer!
 (6촀\0\0Aunque seguro me darían unas
 buenas bayas, la verdadn\0\0\0￿"
-"030","(촀\0¡Ya decía yo que por aquí me olía
-a }\0\0!
-\0
+"030","(촀\0¡2\02\0}\0\0!
 (촀\0Tú sí que sabes, compi."
 "031","(촀\0¡Qué loco, tú!
 \0 ¡Un proyecto para
@@ -206,6 +204,19 @@ hacer 2\0}\0\0!\0\0(촀\0¡Pero qué tremendez, n\0!(\0촀\0
 \0 esto es megaespecial, ('촀\0no puedes dármelo.\0\0(3촀\0Quédatelo, que a mí me basta
 con que vengas aquí de fiestuqui
 con tu servidora, n\0."
+"036","(촀\0¡Pero bueno! 
+\0¿En serio me das
+2\0}\0\0?\0\0(!촀\0Me gusta que te hayas acordado
+de mi cumple, n\0.\0\0(촀\0Porque con todo esto del \0Día de los
+Enamorados\0￿ no me felicita ni mi
+mamá. (3촀\0
+\0\0KBueno, ella sí;
+\0 es una forma de decirn\0\0
+\0d(2촀\0En fin, que te agradezco un montonal
+el gesto. 
+\0Y ahoran\0\0
+\0(5촀\0 ¡diviértete un rato
+en mi honor, n\0!"
 "048","(5촀\0¿Sabes qué, n\0?
 \0
 ¡A cambio, te ganaste 2\0}\0!\0\0(촀\0Es raro que alguien dé regalos en su
@@ -368,3 +379,32 @@ de regalos, 
 la pila de ropa sucia, la verdad."
 "100_a","¡Pues aquí tienes uno!"
 "100_b","Ni traje regalo..."
+"101","(5촀\0Lo mejor de cumplir años siempre es
+poder celebrarlo rodeada de tus
+compis preferidos, n\0.
+Porquen\0\0
+\0(촀\0 están aquí por ti y no
+para ver si reciben algo por el\0 Día
+de los Enamorados\0￿, ¿no?
+('촀\0No hay nada que hacerle; 
+\0(촀\0los compis
+se acompañan hasta el fin del mundo.(3촀\0 ¡Nunca lo olvides,
+\0 tú!"
+"101_a","(\0촀\0¡Esto es para ti!"
+"101_b","(\0촀\0¡No lo haré!"
+"102","(5촀\0Sí, no estás soñando: 
+\0es mi cumple
+y también el\0 Día de los Enamorados\0￿.\0\0(2촀\0Cuando naces el día de un evento
+tan importante, 
+\0(촀\0¡tendrás ganas
+de fiesta de por vida!"
+"102_a","(\0촀\0¡Esto es para ti!"
+"102_b","(%촀\0Ya lo creo"
+"103","(!촀\0¡Dos por uno! 
+\0Vienes a celebrar mi
+cumple (5촀\0y te llevas un fiestón del \0Día
+de los Enamorados\0￿ de regalo.
+(3촀\0No me digas que no la vas a pasar
+más chévere que nunca, ¿eh, compi?"
+"103_a","(\0촀\0¡Esto es para ti!"
+"103_b","(%촀\0Ya lo creo"

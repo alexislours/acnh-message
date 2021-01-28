@@ -87,7 +87,7 @@ und ich es zusammen kreiert haben.\0\0(5촀\0Gut, 
 \0jetzt kannst du mit den
 Lobeshymnen loslegen!"
 "010","(&촀\0Hast du s촀 schon
-2seinihr Geschenk gegeben?
+2seinihr Geschenk gegeben?
 \0
 (촀\0Worauf wartest du denn noch?\0\0(%촀\0Ich weiß, 
 \0dass 2ihmihr alles gefallen
@@ -100,8 +100,7 @@ darin investieren, 
 \0das richtige
 Geburtstagsgeschenk zu finden.\0\0(촀\0Oh ja! 
 \0Ich habe neulich ein gutes
-Geschenk für den 80-sten
-Geburtstag eines Freundes gesucht.\0\0(촀\0Jetzt ist er allerdings erst 24."
+Geschenk für den 80. Geburtstag eines Freundes gesucht.\0\0(촀\0Jetzt ist er allerdings erst 24."
 "012","(&촀\0Weißt du, 
 \0was ich mir immer zum
 Geburtstag wünsche?\0\0(2촀\0Das größte Geschenk – 
@@ -165,3 +164,19 @@ mal vorbei.
 \0 sonst
 gibt's dein Geld zurück.
 \0 Har har."
+"020","($촀\0Es ist nicht nur Valentinstag,
+\0
+s촀 hat auch noch Geburtstag!\0\0(%촀\0Mehr VIP kann man an einem Tag
+ja wohl nicht sein, 
+\0n\0!"
+"020_a","(\0촀\0Hier, ein Geschenk!"
+"020_b","(%촀\0Da hast du recht."
+"021","(9촀\0Heute hat s촀 Geburtstag! 
+\0((4촀\0Aber war da nicht noch was anderes am 14. Februar...?"
+"021_a","(\0촀\0Hier, zum Valentinstag!"
+"021_b","(\0촀\0Tja, was wohl..."
+"022","(촀\0Heute hat s촀 Geburtstag UND es ist Valentinstag!\0\0(%촀\0Das ist wie 촀 zu essen und dabei massiv abzutanzen! 
+\0((촀\0Die beste aller Kombis, 
+\0n\0!"
+"022_a","(\0촀\0Ich hab was für dich!"
+"022_b","(%촀\0Da ist was dran."

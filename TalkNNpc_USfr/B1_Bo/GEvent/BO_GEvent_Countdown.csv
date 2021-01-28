@@ -75,10 +75,10 @@ dans l'air le dernier jour de l'année.
 "019","(&촀\0Combien de temps encore avant de
 changer d'année?
 \0((%촀\0 Je vais interroger
-mon estomac!\0\0(\0촀\0\0Grom grom...\0￿(촀\0
+mon estomac!\0\0(\0촀\0\0Grom gromn\0\0\0￿(촀\0
 \0<(""촀\0 Mais je te demande
 pas le temps qu'il fait! Je demande
-combien il reste avant l'an prochain!\0\0\0Grom grom...\0￿ (촀\0
+combien il reste avant l'an prochain!\0\0\0Grom gromn\0\0\0￿ (촀\0
 \0<Oh, franchement! 
 \0Mon
 estomac est de plus en plus 
@@ -142,16 +142,18 @@ l'année dernière! » 
 \0(촀\0TROP DRÔLE!"
 "035","2\0n\0!
 \0((촀\0 Ça y est, c'est l'heure!
-\0( Tu es prêt2\0e(;촀\0 à envoyer les pétards?
+\0( Tu es prêt2\0e(;촀\0?
+\0 Tu as ta baguette fluo à portée de main?
 x"
 "036","(%촀\0Bon, donc on fait 3, 
 \02, 
 \01, 
 \00, 
 \0($촀\0et on
-fait éclater les pétards, c'est ça?
+agite sa baguette fluo,
+\0 c'est ça?
 \0
-( 촀\0Euh, au fait comment ça marche?
+(촀\0J'espère ne pas me trompern\0\0
 x"
 "038","(%촀\0La nouvelle année approchen\0\0
 \0( (7촀\0Tu as
