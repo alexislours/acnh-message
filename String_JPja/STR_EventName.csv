@@ -32,6 +32,7 @@
 おおみそか大晦日"
 "RegionBigGame","ビッグゲーム"
 "RegionBigGame2","ビッグゲーム"
+"RegionHinamatsuri","ひなまつり"
 "RegionLunarNewYearAsia","\0\0
 しゅんせつ春節"
 "RegionLunarNewYearKR","ソルラル"
@@ -41,6 +42,8 @@
 しょうがつ正月"
 "RegionNewYear3","\0\0
 しょうがつ正月"
+"RegionPiDay","\0\0パイπデー"
+"RegionShamrockDay","シャムロックデー"
 "RegionValentine","バレンタインデー"
 "RoshiaNewYear","\0\0
 ニューNew \0\0
